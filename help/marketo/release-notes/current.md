@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 80%
+ht-degree: 71%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
     <tr> 
-   <td><strong>インタラクティブなウェビナー向けのエンゲージメントダッシュボードで登録データを強化</strong>：参加者数が最も多かった企業を確認し、エンゲージメントダッシュボードで利用できるレポートで企業、役職、業界をリードレベルで更新できるようになりました。</td> 
+   <td><strong> インタラクティブウェビナー用のエンゲージメントダッシュボードの登録データの強化 </strong>：どの会社が最も多くの出席者を集めているかを確認し、エンゲージメントダッシュボードで利用できるレポートのリードレベルで会社、役職、業界を更新できるようになりました。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
