@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
+source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 59%
+source-wordcount: '485'
+ht-degree: 62%
 
 ---
 
@@ -72,18 +72,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
-   <tr> 
-   <td><strong>Salesforce同期バックログの指標 </strong>：同期のスループットとバックログのトレンドを監視して、CRM の更新を計画およびスケジュールし、最適な同期エクスペリエンスを実現できるようになりました。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
   </tr>
    <tr> 
    <td><strong> メールパフォーマンスレポートの機能強化 </strong>：メールレポートの指標とアクティビティトラッキングに関する複数の改善が行われ、追加のインサイトが提供され、精度が向上しました。
