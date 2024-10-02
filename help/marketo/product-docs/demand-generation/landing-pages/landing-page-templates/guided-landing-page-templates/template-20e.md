@@ -4,10 +4,10 @@ description: テンプレート 20E - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 20E
 exl-id: 37da2ba9-446b-4dee-8b15-a55b2636dd63
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 018f8ace2226ef979c75ac930934b6cc52e0fbd8
+source-git-commit: dee8eb74b5d7f06f48f156a1c27e7aefc61f362a
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 95%
+source-wordcount: '45'
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 95%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 20E.html](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/assets/template-20E.html)
+[Template 20E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20e.html)
