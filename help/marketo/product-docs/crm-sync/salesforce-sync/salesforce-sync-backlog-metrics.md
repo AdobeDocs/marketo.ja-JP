@@ -4,7 +4,7 @@ title: Salesforce同期バックログ指標
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 54%
@@ -93,7 +93,7 @@ Marketo Engage側で更新を行った場合でも、CRM 側で更新を行っ�
 
 フィールド値の変更など、大量の更新が行われると、多数のレコードが変更され、新しい SysModStamps が発生します。 その後、多数の人物レコードの更新を、Marketo Engageと CRM の間で再同期する必要があり、ときに一時的なバックログが作成されることがあります。
 
-## 同期バックログの管理のベストプラクティス {#best-practices-for-managing-sync-backlogs}
+## 同期バックログの管理のベストプラクティス {#best-practices}
 
 **同期中のフィールド**：同期中のフィールドが、同期する必要があるフィールドのみであることを確認します。 フィールドを変更すると、同期バックログが増え、優先度の低いフィールドは、同期中のより重要なフィールドを停止したり遅くしたりすることがあります。 [Marketo Engageサポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} に問い合わせて、同期中のフィールドを削除してください。
 
@@ -105,4 +105,4 @@ Marketo Engage側で更新を行った場合でも、CRM 側で更新を行っ�
 
 **重要でない時間帯に一括更新をスケジュール**: データ同期パターンを確認して、重要でない期間を特定します。 重要でない期間に一括更新をスケジュールできるかどうかを確認します。
 
-上記のすべてのベストプラクティスを実行しても、重大なバックログが発生する場合は、[Marketo Engageサポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。
+上記のベストプラクティスをすべて実行しても、重大なバックログが発生している場合は、[Marketo Engageサポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。

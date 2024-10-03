@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
-source-wordcount: '9345'
+source-wordcount: '9370'
 ht-degree: 99%
 
 ---
@@ -1099,6 +1099,11 @@ ht-degree: 99%
          + メールエディターについて {#understanding-the-email-editor}
             + [メールイベントログについて](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [リッチテキストエディターの使用](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
+         + Betaの新しいメールエディター {#beta-new-email-editor}
+            + [メールの作成](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
+            + [メールテンプレートの作成](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
+            + [メールへのアクセス方法](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
+            + [ メールテンプレートへのアクセス方法 ](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
          + メールの作成 {#creating-an-email}
             + [メールの承認](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [テキストのみのメールの作成](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
@@ -1231,7 +1236,7 @@ ht-degree: 99%
             + [Gmail ユーザーのメール接続](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [Gmail が Sales Connect 署名を取り込まない](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [テンプレートの追加方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
-            + [ToutApp Browser 拡張機能のインストール方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-install-the-toutapp-browser-extension.md)
+            + [Gmail 用 Sales Connect Email Plugin のインストール](product-docs/marketo-sales-connect/email-plugins/gmail/install-the-sales-connect-email-plugin-for-gmail.md)
             + [Gmail からメールを送信する方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-send-an-email-from-gmail.md)
             + [Gmail から Sales Connect のアンインストール方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-uninstall-sales-connect-from-gmail.md)
             + [セカンダリの Gmail アドレスと Sales Connect の統合の防止](product-docs/marketo-sales-connect/email-plugins/gmail/preventing-secondary-gmail-address-from-integrating-with-sales-connect.md)
@@ -1246,7 +1251,7 @@ ht-degree: 99%
                + [Outlook から Sales Connect のアンインストール方法](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Office 365 アドイン {#office-365-add-in}
                + [Salesforce（Office 365）へのメールの追加](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
-               + [Office365 Mac OS、Windows および Online への Sales Connect のインストール](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/installing-sales-connect-for-office365-mac-os-windows-and-online.md)
+               + [Sales Connect Email Plugin for Outlook （Online、Mac、Windows）のインストール](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
       + メール {#email}
          + コマンドセンター {#command-center}
             + [コマンドセンターの概要](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
