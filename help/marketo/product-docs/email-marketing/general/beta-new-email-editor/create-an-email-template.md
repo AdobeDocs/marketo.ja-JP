@@ -4,10 +4,10 @@ title: メールテンプレートを作成する
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
+source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 26%
+source-wordcount: '277'
+ht-degree: 31%
 
 ---
 
@@ -39,13 +39,21 @@ MarketoにGETするまで、すべての手順をリストしますか？
 
 ## テンプレートをデザイン {#design-your-template}
 
-デザイン画面では、いくつかのオプションを選択できます。 最初からデザインする、独自のHTMLを読み込む、または保存済みのテンプレート（サンプルまたは独自のテンプレート）を選択します。
+テンプレートをデザイン ページで、いくつかのオプションから選択できます。 最初からデザインする、独自のHTMLを読み込む、または既存のテンプレート（サンプルまたは既に保存したもの）を選択します。
 
 >[!BEGINTABS]
 
 >[!TAB  ゼロからデザイン ]
 
-1. 「**ゼロからデザイン**」を選択します。
+シンプルなドラッグ&amp;ドロップ操作で構造要素を追加および移動してコンテンツを定義します。
+
+## ゼロからデザイン {#design-from-scratch}
+
+1. テンプレートをデザイン ページで、「**ゼロからデザイン**」を選択します。
+
+   スクリーンショット
+
+1. テキスト。
 
    スクリーンショット
 
@@ -55,13 +63,39 @@ MarketoにGETするまで、すべての手順をリストしますか？
 
 >[!TAB  読み込みHTML]
 
-1. HTMLを読み込みを選択します。
+既存のHTMLコンテンツを読み込んで、メールテンプレートをデザインできます。 コンテンツには次のようなものがあります。
+
+* スタイルシートが組み込まれたHTMLファイル
+
+* HTMLファイル、スタイルシート（.css）および画像を含んだ.zip ファイル
+
+>[!NOTE]
+>
+>.zip ファイル構造に制限はありません。ただし、.zip フォルダーのツリー構造に合わせて、相対参照を指定する必要があります。
+
+## HTMLの読み込み {#import-your-html}
+
+1. テンプレートのデザインページで、「**HTMLを読み込む**」を選択します。
 
    スクリーンショット
 
-1. テキスト.
+1. 目的のHTMLーまたは.zip ファイルをドラッグ&amp;ドロップし、「**読み込み**」をクリックします。
 
    スクリーンショット
+
+   >[!CAUTION]
+   >
+   >`<table>` タグを HTML ファイルの最初のレイヤーとして使用すると、上部レイヤータグの背景や幅の設定などのスタイルが失われる可能性があります。
+
+```
+THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+
+Once the HTML content is uploaded, your content will be in Compatibility mode.
+
+In this mode, you can only personalize your text, add links, or include assets to your content.
+```
+
+テストアカウント：設定/スタイル/HTMLコンバーター
 
 >[!TAB  サンプルテンプレート ]
 
