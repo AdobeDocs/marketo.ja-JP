@@ -4,13 +4,39 @@ title: メールへのアクセス方法
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 88a553f7b1e0bde24e62502c2daf7fd04f58087d
+source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
 workflow-type: tm+mt
-source-wordcount: '21'
-ht-degree: 9%
+source-wordcount: '54'
+ht-degree: 20%
 
 ---
 
 # メールへのアクセス方法 {#how-to-access-an-email}
 
-まもなくリリース
+ここに紹介テキストを入力します。
+
+1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/) にログインします。
+
+   スクリーンショット
+
+MarketoにGETするまで、すべての手順をリストしますか？
+
+1. 「My Marketo」で、「Design Studio」を選択します。
+
+   スクリーンショット
+
+1. テキスト
+
+   スクリーンショット
+
+1. テキスト
+
+   スクリーンショット
+
+1. テキスト
+
+   スクリーンショット
+
+1. テキスト
+
+   スクリーンショット
