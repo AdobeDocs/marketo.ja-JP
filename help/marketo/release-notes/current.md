@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 62%
+ht-degree: 79%
 
 ---
 
@@ -92,8 +92,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **QR コードの廃止**：2024年10月4日（PT）に、プッシュ通知およびアプリ内メッセージアセットで使用する QR コード機能が廃止される予定です。これには、新しいテストデバイス用の QR コードの使用や、QR コードを使用した新しいアセットの作成が含まれます。使用頻度の低い機能を廃止することで、そのリソースを Marketo Engage の全体的なメンテナンスに再割り当てできます。
 
-* **Munchkinの変更**
+* **Munchkin の変更**
 
-   * **新規バージョン**: 2024 年 9 月 17 日に、[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} **v.164 は、{ 管理者** / **宝箱** で「Munchkin Beta」設定を有効にしたMarketo Engageインスタンスへのロールアウトを開始します。 他のすべてのインスタンスへのロールアウトは、10月29日（PT）に開始される予定です。このバージョンでは、Munchkin の Cookie の作成が更新されます。機能に変更はありません。
+   * **新しいバージョン**：2024年9月17日（PT）に、[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 では、**管理**／**宝箱**&#x200B;で「Munchkin ベータ版」設定が有効化された Marketo Engage インスタンスへのロールアウトを開始します。他のすべてのインスタンスへのロールアウトは、10月29日（PT）に開始される予定です。このバージョンでは、Munchkin の Cookie の作成が更新されます。機能に変更はありません。
 
-   * **URL からの文字が削除されました**:Munchkin JS で作成された「Web ページを訪問」アクティビティと「リンクをクリック」アクティビティでは、すべての URL フィールドから URL エンコードされていない制御文字を削除するようになりました。 この変更は、Marketo Engage内で有効な用途を持たず、サポートしていないシステムに文字の種類を伝播することに関連するエラーを防ぐことを目的としています。
+   * **URL から文字を削除**：Munchkin JS によって作成された「Web ページを訪問」および「リンクをクリック」アクティビティでは、すべての URL フィールドから URL エンコードされていない制御文字が削除されるようになりました。この変更は、サポートされていないシステムでこれらのタイプの文字が生成され、Marketo Engage 内で有効に使用されないことに関連するエラーを防ぐために設計されています。
