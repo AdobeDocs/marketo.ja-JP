@@ -4,10 +4,10 @@ title: メールテンプレートを作成する
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 29%
+source-wordcount: '347'
+ht-degree: 25%
 
 ---
 
@@ -19,11 +19,7 @@ ht-degree: 29%
 >
 >この記事は、新Marketo Engageメールエディターのクローズドベータ版のメンバーのみを対象としています。 普及させないでください。
 
-1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/) にログインします。
-
-   スクリーンショット
-
-MarketoにGETするまで、すべての手順をリストしますか？
+1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用して、Marketo Engageにログインします。
 
 1. My Marketoで、「**Design Studio**」を選択します。
 
@@ -45,13 +41,9 @@ MarketoにGETするまで、すべての手順をリストしますか？
 
 テンプレートをデザイン ページで、いくつかのオプションから選択できます。 最初からデザインする、独自のHTMLを読み込む、または既存のテンプレート（サンプルまたは既に保存したもの）を選択します。
 
->[!BEGINTABS]
-
->[!TAB  ゼロからデザイン ]
+### ゼロからデザイン {#design-from-scratch}
 
 シンプルなドラッグ&amp;ドロップ操作で構造要素を追加および移動してコンテンツを定義します。
-
-## ゼロからデザイン {#design-from-scratch}
 
 1. テンプレートをデザイン ページで、「**ゼロからデザイン**」を選択します。
 
@@ -77,7 +69,7 @@ MarketoにGETするまで、すべての手順をリストしますか？
 >
 >.zip ファイル構造に制限はありません。ただし、.zip フォルダーのツリー構造に合わせて、相対参照を指定する必要があります。
 
-## HTMLの読み込み {#import-your-html}
+### HTMLの読み込み {#import-your-html}
 
 1. テンプレートのデザインページで、「**HTMLを読み込む**」を選択します。
 
@@ -99,9 +91,19 @@ Once the HTML content is uploaded, your content will be in Compatibility mode.
 In this mode, you can only personalize your text, add links, or include assets to your content.
 ```
 
-テストアカウント：設定/スタイル/HTMLコンバーター
+### テンプレートを選択 {#choose-a-template}
+
+テンプレートには、次の 2 種類があります。
+
+* サンプルテンプレート：Marketo Engageには、4 つの標準メールテンプレートが用意されています。
+
+* 保存済みのテンプレート：テンプレート メニューを使用してゼロから作成したテンプレート、または作成してテンプレートとして保存することを選択したメールです。
+
+>[!BEGINTABS]
 
 >[!TAB  サンプルテンプレート ]
+
+メールテンプレートデザインで素早く作業できるように、4 つの標準テンプレートから 1 つを選択します。
 
 1. 「サンプルテンプレート」を選択します。
 

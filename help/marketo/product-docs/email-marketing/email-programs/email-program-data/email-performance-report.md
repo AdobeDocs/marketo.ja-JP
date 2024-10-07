@@ -4,10 +4,10 @@ description: メールの効果レポート — Marketo ドキュメント — �
 title: メールの効果レポート
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 2cfb8381d3207efb00b7d4751e21244a188a411e
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 83%
+source-wordcount: '502'
+ht-degree: 82%
 
 ---
 
@@ -91,5 +91,6 @@ ht-degree: 83%
 
 >[!MORELIKETHIS]
 >
->* [キャンペーンメールレポートでアセットをフィルターする](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
->* [メールリンクパフォーマンスレポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
+>* [キャンペーンメールレポートでアセットをフィルターする](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md){target="_blank"}
+>* [ メールパフォーマンスレポートの削除/結合されたレコードのフィルタリング ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md){target="_blank"}
+>* [メールリンクパフォーマンスレポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md){target="_blank"}

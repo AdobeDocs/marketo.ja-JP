@@ -4,10 +4,10 @@ title: メールを作成する
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 17%
+source-wordcount: '357'
+ht-degree: 18%
 
 ---
 
@@ -19,11 +19,7 @@ ht-degree: 17%
 >
 >この記事は、新Marketo Engageメールエディターのクローズドベータ版のメンバーのみを対象としています。 普及させないでください。
 
-1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/) にログインします。
-
-   スクリーンショット？??
-
-   MarketoにGETするまで、すべての手順をリストする？??
+1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用して、Marketo Engageにログインします。
 
 1. My Marketoで、「**Design Studio**」を選択します。
 
