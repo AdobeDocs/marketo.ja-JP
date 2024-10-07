@@ -4,16 +4,20 @@ title: メールを作成する
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 19%
+source-wordcount: '363'
+ht-degree: 17%
 
 ---
 
 # メールを作成する {#create-an-email}
 
 ここに紹介テキストを入力します。
+
+>[!IMPORTANT]
+>
+>この記事は、新Marketo Engageメールエディターのクローズドベータ版のメンバーのみを対象としています。 普及させないでください。
 
 1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/) にログインします。
 
@@ -36,6 +40,8 @@ ht-degree: 19%
 1. メール名と件名を入力します。 「**作成**」をクリックします。
 
    ![](assets/create-an-email-4.png)
+
+作業は以上です。次に、メールをデザインします。
 
 ## メールのデザイン {#design-your-email}
 
@@ -138,3 +144,7 @@ In this mode, you can only personalize your text, add links, or include assets t
    スクリーンショット
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[ メールへのアクセス方法 ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}

@@ -4,16 +4,20 @@ title: メールテンプレートを作成する
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 31%
+source-wordcount: '302'
+ht-degree: 29%
 
 ---
 
 # メールテンプレートを作成する {#create-an-email-template}
 
 ここに紹介テキストを入力します。
+
+>[!IMPORTANT]
+>
+>この記事は、新Marketo Engageメールエディターのクローズドベータ版のメンバーのみを対象としています。 普及させないでください。
 
 1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/) にログインします。
 
@@ -118,3 +122,7 @@ In this mode, you can only personalize your text, add links, or include assets t
    スクリーンショット
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[ メールテンプレートにアクセスする方法 ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}
