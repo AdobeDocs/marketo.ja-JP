@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
 workflow-type: tm+mt
-source-wordcount: '9370'
+source-wordcount: '9379'
 ht-degree: 99%
 
 ---
@@ -1737,6 +1737,7 @@ ht-degree: 99%
             + [キャンペーンアクティビティレポートのフィルター](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [キャンペーンメールレポートでのアセットのフィルター](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [メールレポートでのアセットのフィルター](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+            + [電子メールパフォーマンスレポートの削除/結合されたレコードのフィルタリング](product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md)
             + [リードレポートの属性別グループ化](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [ワークスペースをまたいだレポートメール、キャンペーンの効果](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [ワークスペース間でのモデルの共有](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
