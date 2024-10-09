@@ -3,7 +3,7 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 79%
@@ -81,8 +81,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <li>アカウントのメールがキャンペーンレベルで開きます</li>
    <li>トラッキングピクセルの場所を絞り込むことで、電子メールアクティビティのトラッキングを改善しました</li>
    </td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>出荷済み</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">メールの効果レポート</a></td>
   </tr>
  </tbody> 
 </table>

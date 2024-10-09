@@ -3,16 +3,20 @@ description: ウェビナーチームの追加 - Marketo ドキュメント - �
 title: ウェビナーチームの追加
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
-workflow-type: ht
-source-wordcount: '393'
-ht-degree: 100%
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+workflow-type: tm+mt
+source-wordcount: '411'
+ht-degree: 95%
 
 ---
 
 # ウェビナーチームの追加 {#add-a-webinar-team}
 
 インタラクティブウェビナーのウェビナーチームは、Adobe Connect でのウェビナーの配信を成功させるのに貢献するすべてのロールで構成されます。プレゼンターと共同主催者の両方が含まれます。
+
+>[!IMPORTANT]
+>
+>プレゼンターやコホストを追加する [ ウェビナーをデザインする ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} 前に _デザインする_ ことを強くお勧めします。
 
 >[!NOTE]
 >
@@ -22,7 +26,9 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->[インタラクティブウェビナーの作成](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>* [インタラクティブウェビナーの作成](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>
+>* [ インタラクティブウェビナーのデザイン ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 ## 共同主催者の追加 {#add-a-co-host}
 
@@ -70,4 +76,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[インタラクティブウェビナーの作成](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[インタラクティブウェビナーの作成](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
