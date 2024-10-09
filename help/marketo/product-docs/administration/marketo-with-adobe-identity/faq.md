@@ -3,10 +3,10 @@ description: Adobe Identity Management に関するよくある質問 - Marketo 
 title: Adobe Identity Management に関するよくある質問
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
-workflow-type: ht
-source-wordcount: '1342'
-ht-degree: 100%
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
+workflow-type: tm+mt
+source-wordcount: '1456'
+ht-degree: 84%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Identity Management システムは、3 つのコンポーネントで構�
 
 **既存の Marketo Engage サブスクリプションは、いつ IMS と統合されますか？**
 
-既存の Marketo サブスクリプションは、今年後半に Adobe Identity Management システムに移行されます。Marketo サポートでは、Adobe IMS の移行に関する更新を提供できません。アドビのアカウントチームは、今後数か月以内に予定のタイムラインをお知らせします。
+既存のMarketo Engageサブスクリプションは、現在、更新、再契約、および/または追加を含むセールスイベントが発生した際にAdobe IMSに移行されています。 2024 年 10 月から、セールスイベント以外の移行がサポートされるようになりました。
 
 **移行後、Marketo Engage URL は変わりませんか？**
 
@@ -50,7 +50,13 @@ engagement-xx.marketo.com ドメイン上の Marketo Engage アセットへの�
 
 **IMS と統合された場合、サポートの問い合わせ先はどこですか？**
 
-[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に問い合わせる標準手順に従ってください。
+* ユーザー前の移行：[ マーケティングネーションコミュニティ ](https://nation.marketo.com/t5/support/ct-p/Support) またはメールコンテン `customercare@marketo.com` のファイルサポートケース。
+
+* ユーザー移行後：[ マーケティングネーションコミュニティ ](https://nation.marketo.com/t5/support/ct-p/Support) またはメールコンテン `customercare@marketo.com` のファイルサポートケース。
+
+* サポート終了後の移行完了：Experience Leagueサポート管理者は、製品サポートポータルからケースを申請できます。
+
+Ultimate Success を利用している場合は、Admin Console移行ホワイトグローブサービスにアクセスできます。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 **Adobe ID を使用して他のアドビアプリケーションにアクセスする場合、それを使用して Marketo にアクセスできますか？**
 
@@ -106,13 +112,13 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 
 **Adobe ID に移行する際に、ユーザのログイン情報がメールアドレスと一致しない場合はどうすればいいですか？**
 
-メールアドレスとは異なるログイン情報を使用している現在の Marketo ユーザは、Adobe ID に移行すると、その資格情報ではログインできなくなります。Adobe ID では、常にユーザのメールアドレスを使用して認証します。
+メールアドレスと異なるログインを持つ現在のMarketo Engageユーザーは、Adobe ID に移行されると、その資格情報を使用してログインできなくなります。 AdobeID は、常にユーザーのメールアドレスで認証されます。 Adobe ID のメールアドレスは [account.adobe.com](https://account.adobe.com){target="_blank"} で更新できます。
 
 **サブスクリプションで IP 制限設定を使用している場合、Adobe ID の移行後はどうなりますか？**
 
 サブスクリプションを Adobe ID にオンボードした場合、IP 制限設定は Adobe Admin Console に移行されません。Marketo の IP 制限設定には、特定の IP アドレスからのアクセスのみを許可することや、特定の IP アドレスからのアクセスをブロックすることが含まれます。現時点では、Adobe Identity Management システムは IP 制限機能をサポートしていません。
 
-2024年に、Adobe Identity Management システムは特定の IP アドレスのみの許可をサポートする機能をリリースし、現在この機能を使用している Marketo ユーザのトランジションをサポートします。現在この機能を使用しているユーザは、機能がリリースされるまでユーザの移行は行われません。機能が提供されると、移行がスケジュールされていることがユーザに通知されます。この機能について詳しくは、機能が利用可能になった時点で提供されます。
+2025 年初めにAdobeIdentity Management System は、特定の IP アドレスのみを許可する機能をリリースし、現在この機能を使用しているMarketo ユーザーの移行をサポートします。 現在この機能を使用しているユーザは、機能がリリースされるまでユーザの移行は行われません。機能が提供されると、移行がスケジュールされていることがユーザに通知されます。この機能について詳しくは、機能が利用可能になった時点で提供されます。
 
 現在、特定のアドレスへのアクセスをブロックする IP 制限を使用しているユーザは、Adobe Identity Management システムでサポートされていないので、Adobe ID に移行すると、この機能を使用できなくなります。
 
@@ -123,3 +129,9 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 **複数のサブスクリプションを持っていますが、すべてのサブスクリプションでシングルサインオンが有効になっているわけではありません。Adobe ID の移行後はどうなりますか？**
 
 サブスクリプションが Adobe ID にオンボードされると、シングルサインオン（SSO）がアドビ組織レベルで設定されます。つまり、SSO はアドビ組織内のすべての製品インスタンスに適用されます。SSO を設定すると、そのアドビ組織内のすべての Marketo インスタンスに適用されます。以前、Marketo はこの設定をインスタンスレベルでサポートしていました。これは、Adobe Identity Management システムではサポートされていません。
+
+**次に、Experience Cloudに移動してMarketo Engageにアクセスする必要があります。 この流れを効率化する方法はありますか？**
+
+はい。Marketo Engageインスタンスのエントリページで「**起動**」ボタンをクリックすると起動するリンクのブラウザーブックマークを作成して、そのページの進行を回避できます。
+
+![](assets/faq-1.png)
