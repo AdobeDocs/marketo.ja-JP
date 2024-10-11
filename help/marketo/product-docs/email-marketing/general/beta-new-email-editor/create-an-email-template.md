@@ -4,10 +4,10 @@ title: メールテンプレートを作成する
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 25%
+source-wordcount: '432'
+ht-degree: 24%
 
 ---
 
@@ -18,6 +18,10 @@ ht-degree: 25%
 >[!IMPORTANT]
 >
 >この記事は、新Marketo Engageメールエディターのクローズドベータ版のメンバーのみを対象としています。 普及させないでください。
+
+>[!NOTE]
+>
+>新しいメールエディターのメールテンプレートは、新しいメールエディターでメールを作成する場合にのみ使用できます。 古いメールエディターでは参照できません。
 
 1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用して、Marketo Engageにログインします。
 
@@ -79,17 +83,19 @@ ht-degree: 25%
 
    スクリーンショット
 
+   >[!NOTE]
+   >
+   >HTMLコンテンツがアップロードされると、コンテンツは互換モードになります。 このモードでは、テキストのパーソナライズ、リンクの追加またはコンテンツへのアセットの組み込みのみ可能です。
+
+1. メールDesignerのコンテンツコンポーネントを利用できるようにするには、「HTMLコンバーター」タブにアクセスし、「変換」をクリックします。
+
+   スクリーンショット
+
    >[!CAUTION]
    >
    >`<table>` タグを HTML ファイルの最初のレイヤーとして使用すると、上部レイヤータグの背景や幅の設定などのスタイルが失われる可能性があります。
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
-
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+読み込んだファイルを、必要に応じてビジュアルメールエディターでパーソナライズできるようになりました。
 
 ### テンプレートを選択 {#choose-a-template}
 
@@ -124,7 +130,3 @@ In this mode, you can only personalize your text, add links, or include assets t
    スクリーンショット
 
 >[!ENDTABS]
-
->[!MORELIKETHIS]
->
->[ メールテンプレートにアクセスする方法 ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}

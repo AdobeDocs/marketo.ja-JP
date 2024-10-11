@@ -4,10 +4,10 @@ title: 概要
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 6%
+source-wordcount: '87'
+ht-degree: 8%
 
 ---
 
@@ -25,8 +25,6 @@ ht-degree: 6%
 
 * [ メールへのアクセス方法 ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}:Marketo Engageから新しいエディターのメールにアクセスする方法を説明します。
 
+メイン ドキュメ^^^トに追加する方が良い場合があります
+
 * [ メールテンプレートの作成 ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}：新しいエディターでメールテンプレートを作成およびデザインする方法を説明します。
-
-* [ メールテンプレートへのアクセス方法 ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}:Marketo Engageから新しいエディターのメールにアクセスする方法を説明します。
-
-この最後のドキュメントは^^^が必要ですか？

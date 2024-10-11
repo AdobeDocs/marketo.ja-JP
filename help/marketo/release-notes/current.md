@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '483'
 ht-degree: 100%
 
 ---
@@ -54,8 +54,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
    <tr> 
    <td><strong>スマートリストの「影響に設定」カウント</strong>：スマートキャンペーンの選定ルールを編集した際に影響を受けるユーザの数を確認します。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>出荷済み</td>
+   <td>該当なし</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -65,8 +65,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
    <tr> 
    <td><strong>ナビゲーションパネルの「マイアカウント」ボタン</strong>：Adobe Identity Management システムに移行したユーザは、左側のナビゲーションパネルの新しい「マイアカウント」ボタンを使用して、タイムゾーンの設定とサブスクリプションの詳細にアクセスできます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>出荷済み</td>
+   <td>該当なし</td>
   </tr>
   <tr> 
    <td> </td> 
