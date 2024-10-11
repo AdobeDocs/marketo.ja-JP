@@ -6,7 +6,7 @@ feature: Interactive Webinars
 source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 82%
+ht-degree: 94%
 
 ---
 
@@ -60,7 +60,7 @@ ht-degree: 82%
 
 >[!NOTE]
 >
->前のウェビナーがスケジュールされた時間を超えて実行される場合に備えて、2 つの連続したイベントを 30 分ずつ間隔を空けて（ライセンスが同時ウェビナーをサポートしている場合を除く） バッファーにすることをお勧めします。
+>前のウェビナーが予定時間を超過した場合に備えて、連続する 2 つのイベントの間には 30 分の間隔を空けることをお勧めします（ライセンスが同時ウェビナーをサポートしている場合を除く）。
 
 次に、[ウェビナーをデザイン](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}します。
 

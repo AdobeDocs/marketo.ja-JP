@@ -627,7 +627,7 @@ ht-degree: 99%
          + [Salesforce 同期の有効化／無効化](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [暗黙的な Salesforce アクション](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [OAuth 2.0 を使用したログイン](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
-         + [Salesforce同期バックログ指標](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
+         + [Salesforce 同期バックログ指標](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
          + [Salesforce 同期エラー](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Salesforce 同期ステータス](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [個人取引先の使用](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
@@ -1099,11 +1099,11 @@ ht-degree: 99%
          + メールエディターについて {#understanding-the-email-editor}
             + [メールイベントログについて](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [リッチテキストエディターの使用](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
-         + Betaの新しいメールエディター {#beta-new-email-editor}
+         + ベータ版の新しいメールエディター {#beta-new-email-editor}
             + [メールの作成](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
             + [メールテンプレートの作成](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
-            + [メールへのアクセス方法](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
-            + [ メールテンプレートへのアクセス方法 ](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
+            + [メールにアクセスする方法](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
+            + [メールテンプレートにアクセスする方法](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
          + メールの作成 {#creating-an-email}
             + [メールの承認](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [テキストのみのメールの作成](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
@@ -1236,7 +1236,7 @@ ht-degree: 99%
             + [Gmail ユーザーのメール接続](product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
             + [Gmail が Sales Connect 署名を取り込まない](product-docs/marketo-sales-connect/email-plugins/gmail/gmail-not-pulling-in-sales-connect-signature.md)
             + [テンプレートの追加方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-add-a-template.md)
-            + [Gmail 用 Sales Connect Email Plugin のインストール](product-docs/marketo-sales-connect/email-plugins/gmail/install-the-sales-connect-email-plugin-for-gmail.md)
+            + [Gmail 用 Sales Connect メールプラグインのインストール](product-docs/marketo-sales-connect/email-plugins/gmail/install-the-sales-connect-email-plugin-for-gmail.md)
             + [Gmail からメールを送信する方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-send-an-email-from-gmail.md)
             + [Gmail から Sales Connect のアンインストール方法](product-docs/marketo-sales-connect/email-plugins/gmail/how-to-uninstall-sales-connect-from-gmail.md)
             + [セカンダリの Gmail アドレスと Sales Connect の統合の防止](product-docs/marketo-sales-connect/email-plugins/gmail/preventing-secondary-gmail-address-from-integrating-with-sales-connect.md)
@@ -1251,7 +1251,7 @@ ht-degree: 99%
                + [Outlook から Sales Connect のアンインストール方法](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Office 365 アドイン {#office-365-add-in}
                + [Salesforce（Office 365）へのメールの追加](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/add-email-to-salesforce-office-365.md)
-               + [Sales Connect Email Plugin for Outlook （Online、Mac、Windows）のインストール](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
+               + [Outlook（Online、Mac および Windows）用 Sales Connect メールプラグインのインストール](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/office-365-add-in/install-the-sales-connect-email-plugin-for-outlook.md)
       + メール {#email}
          + コマンドセンター {#command-center}
             + [コマンドセンターの概要](product-docs/marketo-sales-connect/email/command-center/command-center-overview.md)
