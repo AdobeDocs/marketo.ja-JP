@@ -4,27 +4,27 @@ title: 概要
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 8%
+source-wordcount: '60'
+ht-degree: 15%
 
 ---
 
 # 概要 {#overview}
 
-ここに紹介テキストを入力します。
+概要テキスト。
 
 >[!IMPORTANT]
 >
->この記事は、新Marketo Engageメールエディターのクローズドベータ版のメンバーのみを対象としています。 普及させないでください。
+>この記事は、新Marketo Engageメールエディターベータ版のメンバーのみを対象としています。 普及させないでください。
+
+```
+DO WE WANT TO ADD A DESCRIPTIVE INTRO HERE?
+```
 
 **利用可能な記事**
 
-* [ メールの作成 ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"}：新しいエディターでメールを作成およびデザインする方法を説明します。
+* [ メールオーサリング ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md){target="_blank"}：新しいエディターでメールを作成、デザイン、参照する方法について説明します。
 
-* [ メールへのアクセス方法 ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}:Marketo Engageから新しいエディターのメールにアクセスする方法を説明します。
-
-メイン ドキュメ^^^トに追加する方が良い場合があります
-
-* [ メールテンプレートの作成 ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}：新しいエディターでメールテンプレートを作成およびデザインする方法を説明します。
+* [ メールテンプレート ](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-templates.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。

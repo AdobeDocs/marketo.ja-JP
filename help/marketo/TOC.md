@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
+source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9370'
 ht-degree: 99%
 
 ---
@@ -1100,10 +1100,9 @@ ht-degree: 99%
             + [メールイベントログについて](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [リッチテキストエディターの使用](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + ベータ版の新しいメールエディター {#beta-new-email-editor}
-            + [メールの作成](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
-            + [メールテンプレートの作成](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
-            + [メールにアクセスする方法](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
-            + [メールテンプレートにアクセスする方法](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
+            + [新しいメールエディターの概要（ベータ版）](product-docs/email-marketing/general/beta-new-email-editor/overview.md)
+            + [メールオーサリング](product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md)
+            + [メールテンプレート](product-docs/email-marketing/general/beta-new-email-editor/email-templates.md)
          + メールの作成 {#creating-an-email}
             + [メールの承認](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [テキストのみのメールの作成](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
