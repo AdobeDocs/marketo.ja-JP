@@ -82,7 +82,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <li>トラッキングピクセルの場所の絞り込みにより、メールアクティビティのトラッキングが改善されました。</li>
    </td> 
    <td>出荷済み</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">メールの効果レポート</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">メールパフォーマンスレポート</a></td>
   </tr>
  </tbody> 
 </table>

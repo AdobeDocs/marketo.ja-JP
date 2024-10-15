@@ -1086,7 +1086,7 @@ ht-degree: 99%
                + [受信者タイムゾーンについて](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
          + メールプログラムデータ {#email-program-data}
             + [メールリンク効果レポート](product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
-            + [メールの効果レポート](product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+            + [メールパフォーマンスレポート](product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
             + [メールプログラムダッシュボードの Excel へのエクスポート](product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)
             + [メールプログラムダッシュボードの使用](product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
             + [メールプログラム結果の表示](product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)
@@ -1736,7 +1736,7 @@ ht-degree: 99%
             + [キャンペーンアクティビティレポートのフィルター](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
             + [キャンペーンメールレポートでのアセットのフィルター](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
             + [メールレポートでのアセットのフィルター](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
-            + [電子メールパフォーマンスレポートの削除/結合されたレコードのフィルタリング](product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md)
+            + [メールパフォーマンスレポートの削除／結合されたレコードのフィルタリング](product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md)
             + [リードレポートの属性別グループ化](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [ワークスペースをまたいだレポートメール、キャンペーンの効果](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [ワークスペース間でのモデルの共有](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
