@@ -4,7 +4,7 @@ title: メールテンプレート
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 1c29810774d3c2cdcac19381edfc7388d67b45ee
+source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
 workflow-type: tm+mt
 source-wordcount: '1411'
 ht-degree: 9%
@@ -310,7 +310,7 @@ _メールテンプレート_ リストページで、メールテンプレー�
 * _メールテンプレート_ リストページ – 目的のメールテンプレートの「その他のアクション」アイコン（3 つのドット）をクリックし、「編集」を選択します。
 
 ```
-THE SECOND ONE DOESN'T WORK IN MKTO?? JUST LISTS DUPE AND DELETE
+THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE
 ```
 
 このアクションを実行すると、メールテンプレートが最後に保存されたステータスに基づいて、_テンプレートをデザイン_ ページまたはビジュアルコンテンツエディターページに移動します。 ここから、必要に応じてメールテンプレートのコンテンツを編集できます。 編集オプションについては、メールテンプレートの作成を参照してください。
