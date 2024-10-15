@@ -4,9 +4,9 @@ title: インタラクティブウェビナーのベストプラクティス
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
 source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1704'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 98%
 
 * 連続したセッションをスケジュールしないようにします。ウェビナーの開始前に少なくとも 30 分の準備時間を確保します。これにより、直前のプレゼンテーションの変更をアップロードすることや、マイクとカメラを調整することや、新しいプレゼンターがインターフェイスに慣れることができます。
 
-* チームメンバーにロールを割り当てます。共同主催者およびプレゼンターとして追加します。ホストとプレゼンターは、参加者の前に部屋に入ることができます。 ただし、共同ホストとプレゼンターを追加する [ インタラクティブウェビナーをデザインする ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}_前_ に留意してください。
+* チームメンバーにロールを割り当てます。共同主催者およびプレゼンターとして追加します。主催者とプレゼンターは、参加者より先にルームに入ることができます。ただし、共同主催者やプレゼンターを追加する&#x200B;_前_&#x200B;に、必ず[インタラクティブウェビナーをデザイン](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}してください。
 
 ### イベントのプロモーション {#promoting-your-event}
 

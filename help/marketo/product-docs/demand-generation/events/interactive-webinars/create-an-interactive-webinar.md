@@ -4,9 +4,9 @@ title: インタラクティブウェビナーの作成
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
 source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -66,8 +66,8 @@ ht-degree: 94%
 
 >[!IMPORTANT]
 >
->プレゼンターやコホストを追加する _前に_ ウェビナーをデザインすることを強くお勧めします。
+>プレゼンターや共同主催者を追加する&#x200B;_前_&#x200B;に、ウェビナーをデザインすることを強くお勧めします。
 
 >[!MORELIKETHIS]
 >
->[プレゼンターや共同主催者を追加する方法について詳しくは、こちらを参照してください](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
+>[プレゼンターや共同司会者を追加する方法について詳しくは、こちらを参照してください](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

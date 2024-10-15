@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359467
 description: メールの効果レポート — Marketo ドキュメント — 製品ドキュメント
-title: メールの効果レポート
+title: メールパフォーマンスレポート
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
 source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '502'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
-# メールの効果レポート {#email-performance-report}
+# メールパフォーマンスレポート {#email-performance-report}
 
 配信、開封、クリックなどの統計を使用したメールの効果を確認するには、メールの効果レポートを作成します。
 
@@ -59,11 +59,11 @@ ht-degree: 82%
   </tr>
   <tr>
     <td>配信停止完了</td>
-    <td>メールの購読解除リンクをクリックしてフォームに入力したメール受信者の数。</td>
+    <td>メールの登録解除リンクをクリックし、フォームに記入したメール受信者の数。</td>
   </tr>
   <tr>
     <td>中止</td>
-    <td>配信できず、バウンスイベントを受信できなかったメールの数。 メール送信から 3 日以内に応答が受信されない場合、メールは自動的に「中止」と呼ばれます。</td>
+    <td>配信できず、バウンスイベントも受信できなかったメールの数。メール送信から 3 日以内に応答が受信されない場合、メールは自動的に「中止」と判断されます。</td>
   </tr>
 </tbody></table>
 
@@ -81,16 +81,16 @@ ht-degree: 82%
 
 * **ルール 4**：メールが&#x200B;_開封済み_&#x200B;の場合、バウンスは無視されます。メールが開封されていない場合、_ハードバウンス_&#x200B;が&#x200B;_ソフトバウンス_&#x200B;および&#x200B;_配信_&#x200B;よりも優先されます。
 
-* **ルール 5**：送信から 3 日後にメール活動を受信しなかった場合、それは _中止_ と見なされます。
+* **ルール 5**：送信から 3 日後にメールアクティビティを受信しなかった場合、それは「_中止_」と見なされます。
 
 >[!NOTE]
 >
 >* メールプログラムやスマートキャンペーンから顧客に複数回同じメールアセットを送信した場合、メールの効果を測定するための本レポートでは 1 回の送信としてカウントします。
 >
->* 異なるキャンペーンから同じ人物への複数の送信は、個別にカウントされます。
+>* 様々なキャンペーンから同じ顧客に複数回メールを送信した場合、個別にカウントします。
 
 >[!MORELIKETHIS]
 >
->* [キャンペーンメールレポートでアセットをフィルターする](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md){target="_blank"}
->* [ メールパフォーマンスレポートの削除/結合されたレコードのフィルタリング ](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md){target="_blank"}
+>* [キャンペーンメールレポートでのアセットのフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md){target="_blank"}
+>* [メールパフォーマンスレポートの削除／結合されたレコードのフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md){target="_blank"}
 >* [メールリンクパフォーマンスレポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md){target="_blank"}

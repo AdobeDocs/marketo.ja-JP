@@ -4,9 +4,9 @@ title: Adobe ID への移行
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
 source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2300'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -59,8 +59,8 @@ Marketo セルフサービスユーザ移行コンソールツールは、2 つ�
 
 セルフサービスの移行を完了するには、主に 3 つの手順が必要です。
 
-1. 目的の適格なメールアドレス検証済みユーザーをすべて移行する（「ユーザー移行」タブ）
-1. 不適格なユーザーと望ましくない適格なユーザーをすべてスキップ（「ユーザー移行」タブ）
+1. 目的の適格なメールアドレス検証済みユーザをすべて移行する（「ユーザ移行」タブ）
+1. 不適格なユーザと望ましくない適格なユーザをすべてスキップする（「ユーザ移行」タブ）
 1. 手順 1 と 2 が完了したら、移行の確認（「移行ステータス」タブ）を完了します。
 
 ### 「移行ステータス」タブ {#migration-status-tab}

@@ -4,7 +4,7 @@ title: インタラクティブウェビナーの設計
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
 source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '488'
 ht-degree: 100%
 

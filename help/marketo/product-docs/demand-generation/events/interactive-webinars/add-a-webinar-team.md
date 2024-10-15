@@ -4,9 +4,9 @@ title: ウェビナーチームの追加
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
 source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '411'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 95%
 
 >[!IMPORTANT]
 >
->プレゼンターやコホストを追加する [ ウェビナーをデザインする ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} 前に _デザインする_ ことを強くお勧めします。
+>プレゼンターや共同主催者を追加する&#x200B;_前_&#x200B;に、[ウェビナーをデザインする](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}ことを強くお勧めします。
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ ht-degree: 95%
 >
 >* [インタラクティブウェビナーの作成](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
 >
->* [ インタラクティブウェビナーのデザイン ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
+>* [インタラクティブウェビナーのデザイン](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 ## 共同主催者の追加 {#add-a-co-host}
 
