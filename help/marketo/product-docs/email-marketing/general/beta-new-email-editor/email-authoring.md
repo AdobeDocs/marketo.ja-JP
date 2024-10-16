@@ -4,10 +4,10 @@ title: メールオーサリング
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
-source-wordcount: '1271'
-ht-degree: 7%
+source-wordcount: '1474'
+ht-degree: 6%
 
 ---
 
@@ -196,14 +196,38 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY?
 ARE THEY CALLED LAYERS OR COMPONENTS
 ```
 
-ナビゲーションツリーを開いて、特定の構造とその列/コンポーネントにアクセスし、より詳細な編集を行います。
+ナビゲーションツリーを開いて、特定の構造とその列/コンポーネントにアクセスし、より詳細な編集を行います。 アクセスするには、ナビゲーションツリーアイコンをクリックします。
 
-1. アクセスするには、ナビゲーションツリーアイコンをクリックします。
+![](assets/authoring-layers-settings-styles-1.png)
 
-スクリーンショット
+次の例では、列で構成される構造コンポーネント内のパディングと垂直方向の整列を調整する手順を概説します。
 
+1. キャンバスで構造コンポーネントの列を直接選択するか、左側に表示される _ナビゲーションツリー_ を使用して選択します。
 
+1. 列ツールバーから _[!UICONTROL 列を選択]_ ツールをクリックし、編集する列を選択します。
 
+   構造ツリーから選択することもできます。 その列の編集可能なパラメーターは、右側の _[!UICONTROL 設定]_ タブと _[!UICONTROL スタイル]_ タブに表示されます。
+
+   ![](assets/authoring-layers-settings-styles-2.png)
+
+1. 列のプロパティを編集するには、右側の「_[!UICONTROL スタイル]_」タブをクリックし、必要に応じて変更します。
+
+   * **[!UICONTROL 背景]** については、必要に応じて背景色を変更します。
+
+     背景を透明にするには、このチェック ボックスをオフにします。 「**[!UICONTROL 背景画像]**」設定を有効にして、単色の代わりに画像を背景として使用します。
+
+   * 「**[!UICONTROL 整列]**」では、「_上_」、「_中央_」または「_下_」アイコンを選択します。
+   * **[!UICONTROL パディング]** については、すべての辺のパディングを定義します。
+
+     パディングを調整する場合は、「**[!UICONTROL 各辺に異なるパディングを使用]**」を選択します。 _ロック_ アイコンをクリックして、同期を解除します。
+
+   * 「**[!UICONTROL 詳細]**」セクションを展開すると、列のインラインスタイルを定義できます。
+
+   ![](assets/authoring-layers-settings-styles-3.png)
+
+1. 必要に応じてこれらの手順を繰り返し、コンポーネント内の他の列の整列とパディングを調整します。
+
+1. 変更を保存します。
 
 ### コンテンツのパーソナライズ {#personalize-content}
 
