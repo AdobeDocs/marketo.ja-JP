@@ -3,10 +3,10 @@ description: メールステップのセールスキャンペーン送信オプ�
 title: メールステップのセールスキャンペーン送信オプションについて
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 3e1db4c113df7278eadcf1b61ee225989e70452b
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '681'
-ht-degree: 100%
+source-wordcount: '750'
+ht-degree: 90%
 
 ---
 
@@ -45,6 +45,10 @@ ht-degree: 100%
 
 * このオプションを選択すると、直近のメールと同じ時刻にメールが送信されます。
 * 関連付けられた日にも送信されます。
+
+>[!IMPORTANT]
+>
+>前日に送信したメールについては、以前のメールと同時にメールを送信することはできません。 代わりに、メールは前日から送信されたメールの時点で送信されます。 キャンペーンの最初の日にメールに対してこのオプションを選択した場合（非推奨）、そのメールはキャンペーンの開始時に直ちに送信されます。
 
 ### 以下の時刻にこのメールを送信 {#subsequent-send-at-following-time}
 
