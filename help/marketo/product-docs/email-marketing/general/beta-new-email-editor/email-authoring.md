@@ -4,16 +4,16 @@ title: メールオーサリング
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
 workflow-type: tm+mt
-source-wordcount: '1259'
+source-wordcount: '1271'
 ht-degree: 7%
 
 ---
 
 # メールオーサリング {#email-authoring}
 
-ここに紹介テキストを入力します。
+新しいMarketo EngageメールDesignerでメールを作成、パーソナライズ、プレビューする方法について説明します。
 
 >[!IMPORTANT]
 >
@@ -297,7 +297,7 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 * **メッセージのメールバージョンが空です**：このエラーは、メールのコンテンツが設定されていない場合に発生します。
 
-## メールのテスト
+## メールのテスト {#test-your-email}
 
 メッセージコンテンツを定義したら、テストプロファイルを使用してプレビュー、配達確認の送信、一般的なデスクトップ、モバイルおよび web ベースのクライアントでのレンダリング方法の制御を行うことができます。 パーソナライズされたコンテンツを挿入した場合は、テストプロファイルデータを使用して、メッセージでのコンテンツの表示方法を確認できます。
 
