@@ -1,33 +1,29 @@
 ---
 description: Salesforce同期バックログ指標 – Marketo ドキュメント – 製品ドキュメント
-title: Salesforce同期バックログ指標
+title: Salesforce 同期バックログ指標
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
+source-git-commit: 38929abef0f64762c92b153630ce75373ba7a300
 workflow-type: tm+mt
-source-wordcount: '840'
-ht-degree: 54%
+source-wordcount: '1047'
+ht-degree: 43%
 
 ---
 
-# Salesforce同期バックログ指標  {#salesforce-sync-backlog-metrics}
+# Salesforce 同期バックログ指標  {#salesforce-sync-backlog-metrics}
 
-同期バックログは、SalesforceからMarketo Engageへの、またはその逆の同期を保留しているレコードを表します。 バックログが制御下にあることを確認すると、スムーズでタイムリーな同期につながります。
-
->[!NOTE]
->
->バックログには、両側で同期後の更新が保留されている数値が示されます。[ ユーザーをSFDCに同期 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} または [ ユーザーをMicrosoftに同期 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} フローステップなどの同期フローステップで実行される数値は含まれません。
+同期バックログは、同期を保留しているレコードに使用される名前です。 SalesforceとMarketo Engageの間で同期が保留されているレコードを考慮に入れます。また、その逆も同様です。 バックログが制御下にあることを確認すると、スムーズで時間の同期が行われます。 バックログには、両側で同期後の更新が保留されている数値が示されます。同期リードからSFDCへのフローステップのような同期フローステップで実行される数値は示されません。
 
 ## アクセス方法 {#how-to-access}
 
 1. Marketo Engageで、「管理者 **エリアに移動** ます。
 
-   スクリーンショット
+   ![](assets/salesforce-sync-backlog-metrics-1.png)
 
 1. 「**Salesforce**」を選択します。
 
-   スクリーンショット
+   ![](assets/salesforce-sync-backlog-metrics-2.png)
 
 ## バックログのトレンドの同期 {#sync-backlog-trend}
 
@@ -35,7 +31,7 @@ ht-degree: 54%
 
 バックログは、X 軸上の特定の 4 時間間隔で観測されます。この値は、同期中のすべてのオブジェクトに適用されます。これは、同期を待機している Salesforce と Marketo Engage のバックログの合計です。
 
-スクリーンショット
+![](assets/salesforce-sync-backlog-metrics-3.png)
 
 ## 同期スループットおよびバックログ {#sync-throughput-and-backlog}
 
@@ -45,7 +41,7 @@ ht-degree: 54%
 >
 >統計は、カレンダー日ではなく、周期的に更新されます。
 
-スクリーンショット
+![](assets/salesforce-sync-backlog-metrics-4.png)
 
 <table><thead>
   <tr>
@@ -95,14 +91,18 @@ Marketo Engage側で更新を行った場合でも、CRM 側で更新を行っ�
 
 ## 同期バックログの管理のベストプラクティス {#best-practices}
 
-**同期中のフィールド**：同期中のフィールドが、同期する必要があるフィールドのみであることを確認します。 フィールドを変更すると、同期バックログが増え、優先度の低いフィールドは、同期中のより重要なフィールドを停止したり遅くしたりすることがあります。 [Marketo Engageサポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} に問い合わせて、同期中のフィールドを削除してください。
+**同期ユーザーに表示されるフィールド**：同期するために表示されるフィールドが、同期する必要があり、マーケティング活動に価値を持つフィールドのみであることを確認します。 最終変更日のタイムスタンプを更新するSalesforce内のレコードに対する更新が行われると、同期バックログへのレコードがキューに入れられ、不要なフィールドの同期により、同期中のより重要なフィールドの速度が低下する可能性があります。 不要なフィールドが同期ユーザーに対して非表示になっている場合、これらのフィールドを更新すると、スキップが発生し、更新よりもはるかに速く処理されます。 Salesforce管理者と協力して、ここでベストプラクティスを確認し、Marketo Sync ユーザーに表示されるフィールドを更新します。
 
-**機密フィールド**：一部のフィールドは頻繁に更新される傾向があります（例えば、通貨が変更される通貨フィールドなど）。 これらを同期する必要があるか、またはフィールドの設計を変える必要があるかを確認します。
+**不要なレコードの非表示またはフィルター**：レコードが市場向きでない場合、同期リソースを無駄にしている可能性があります。 同期ユーザーが表示できない場合は、同期を試みるリソースを無駄にしません。 [Marketo Engageサポート ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} は、追加の条件に基づいてレコードの同期を禁止する同期フィルターの設定に役立ちます。 カスタム同期フィルターの設定について詳しくは [ こちらを参照 ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 Salesforce内でインデックスフィールドを使用することを強くお勧めします（詳しくは、salesforce にお問い合わせください）。
 
-**カスタムオブジェクト**：同期中のカスタムオブジェクトを定期的に確認し、同期する必要がなくなったカスタムオブジェクトは削除します。
+**重要でない時間帯に一括更新をスケジュール**: データ同期パターンを確認して、重要でない期間を特定します。 可能であれば、これらの重要でない期間に一括更新をスケジュールできるかどうかを確認します。
 
-**アクティビティ**：同期から削除できるアクティビティが同期中にあるかどうかを確認します。
+**頻繁に更新されるフィールド**：一部のフィールドは頻繁に更新される傾向があります。 例えば、通貨の変更が必要な通貨フィールドなどです。 これらを同期する必要があるか、またはフィールドの設計を変える必要があるかを確認します。 頻繁に更新され、必要のない他のフィールドがある場合は、同期ユーザーに対して非表示にします。 フィールドを更新している可能性のあるSFDC管理者の統合について確認してください。
 
-**重要でない時間帯に一括更新をスケジュール**: データ同期パターンを確認して、重要でない期間を特定します。 重要でない期間に一括更新をスケジュールできるかどうかを確認します。
+**カスタムオブジェクト**：同期が有効になっている [ カスタムオブジェクト ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} を定期的に確認し、同期する必要がなくなったオブジェクトは無効にします。
 
-上記のベストプラクティスをすべて実行しても、重大なバックログが発生している場合は、[Marketo Engageサポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。
+**アクティビティ**:[ アクティビティがあるかどうかを確認 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} 同期が有効になっていましたが、同期から削除される可能性があります。  これらのアクティビティは、リードごとに 1 日に 1 回だけ同期されます。
+
+**同期エラーの確認**：例外処理により同期が遅くなる場合があります。 ユーザー通知を確認し、エラーを解決すると、同期の正常性が向上する可能性があります。
+
+**サポートへのお問い合わせ**：上記のすべてのベストプラクティスに従っていて、まだ重大なバックログが発生している場合は、[Marketo Engageサポートにお問い合わせください ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}。
