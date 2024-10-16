@@ -4,10 +4,10 @@ title: メールテンプレート
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1672'
-ht-degree: 7%
+source-wordcount: '1728'
+ht-degree: 6%
 
 ---
 
@@ -149,8 +149,6 @@ _テンプレートをデザイン_ ページで、いくつかのオプショ�
 
 1. 各コンポーネントは、「設定」タブまたは「スタイル」タブでカスタマイズできます。 フォント、テキストスタイル、余白などを変更します。
 
-スクリーンショット
-
 ### Assetsを追加 {#add-assets}
 
 ```
@@ -227,25 +225,29 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 ### コンテンツのパーソナライズ {#personalize-content}
 
-トークンは、古いバージョンで動作するのと同じように新しいエディターで動作しますが、アイコンの表示は異なります。
+トークンは、古いバージョンで動作するのと同じように新しいエディターで動作しますが、アイコンの表示は異なります。 次の例では、代替テキストを使用した名トークンの追加について概説しています。
 
-1. テキストコンポーネントを選択し、「**パーソナライゼーションを追加** アイコンをクリックします。
+1. テキストコンポーネントを選択します。 トークンを表示する位置にカーソルを置き、「**パーソナライゼーションを追加** アイコンをクリックします。
 
-   スクリーンショット
+   ![](assets/personalize-content-1.png)
 
 1. 目的の [ トークンタイプ ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} をクリックします。
 
-   スクリーンショット
+   ![](assets/personalize-content-2.png)
 
-1. 「+」または「。..」をクリックして、空白スペースにトークンを追加します。
+1. 目的のトークンを見つけて「**...**」アイコンをクリックします（「+」アイコンをクリックすると、代替テキストのないトークンが追加されます）。
 
-   スクリーンショット
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >「代替テキスト」は、デフォルト値を表す新しいエディター用語です。 例：``{{lead.First Name:default=Friend}}``
+   >「代替テキスト」は、デフォルト値を表す新しいエディター用語です。 例：``{{lead.First Name:default=Friend}}``。選択したフィールドにその人物の値がない場合に備えてお勧めします。
 
-1. 終了したら「**保存**」をクリックします。
+1. 代替テキストを設定し、「**追加**」をクリックします。
+
+   ![](assets/personalize-content-4.png)
+
+1. 「**保存**」をクリックします。
 
 ### URL トラッキングを編集 {#edit-url-tracking}
 
@@ -253,11 +255,13 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 1. リンクアイコンをクリックして、メール内のすべての URL を表示します。
 
-   スクリーンショット
+   ![](assets/edit-url-tracking-1.png)
 
 1. 鉛筆アイコンをクリックして、目的のリンクのトラッキングを編集します。
 
-   スクリーンショット
+1. **トラッキングタイプ** ドロップダウンをクリックし、選択を行います。
+
+   ![](assets/edit-url-tracking-2.png)
 
    ```
    LABEL?

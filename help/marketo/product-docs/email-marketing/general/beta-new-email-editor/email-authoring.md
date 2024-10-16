@@ -4,9 +4,9 @@ title: メールオーサリング
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1477'
 ht-degree: 6%
 
 ---
@@ -141,7 +141,7 @@ ht-degree: 6%
    >
    >n:n 列コンポーネントを選択して、列数（3～10）を任意に定義します。 また、列の下に矢印を移動して、各列の幅を定義することもできます。
 
-   スクリーンショット
+   ![](assets/authoring-add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -149,11 +149,9 @@ ht-degree: 6%
 
 1. 「コンテンツ」セクションから、目的の項目をドラッグして、1 つ以上の構造コンポーネントにドロップします。
 
-   スクリーンショット
+   ![](assets/authoring-add-structure-and-content-2.png)
 
 1. 各コンポーネントは、「設定」タブまたは「スタイル」タブでカスタマイズできます。 フォント、テキストスタイル、余白などを変更します。
-
-スクリーンショット
 
 ### Assetsを追加 {#add-assets}
 
@@ -261,11 +259,13 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 1. リンクアイコンをクリックして、メール内のすべての URL を表示します。
 
-   スクリーンショット
+   ![](assets/authoring-edit-url-tracking-1.png)
 
 1. 鉛筆アイコンをクリックして、目的のリンクのトラッキングを編集します。
 
-   スクリーンショット
+1. **トラッキングタイプ** ドロップダウンをクリックし、選択を行います。
+
+   ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
    LABEL?
@@ -327,7 +327,7 @@ ARE THEY CALLED LAYERS OR COMPONENTS
 
 メールコンテンツをプレビューするには、「**コンテンツをシミュレート**」をクリックし、テストプロファイルを追加して、テストプロファイルデータを使用してメッセージを確認します。
 
-スクリーンショット
+![](assets/test-your-email-1.png)
 
 ## メールの参照 {#reference-an-email}
 
