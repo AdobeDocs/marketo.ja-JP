@@ -3,10 +3,10 @@ description: インタラクティブウェビナーの変更または削除 - M
 title: インタラクティブウェビナーの変更または削除
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
-workflow-type: ht
-source-wordcount: '287'
-ht-degree: 100%
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+workflow-type: tm+mt
+source-wordcount: '314'
+ht-degree: 91%
 
 ---
 
@@ -81,6 +81,10 @@ ht-degree: 100%
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
 ## インタラクティブウェビナーの削除 {#delete-an-interactive-webinar}
+
+>[!NOTE]
+>
+>テストウェビナーを作成する場合は、開始時間より前に削除して、そのウェビナーのライセンスが活用されないようにする必要があります。
 
 1. 目的のイベントプログラムを選択します。
 
