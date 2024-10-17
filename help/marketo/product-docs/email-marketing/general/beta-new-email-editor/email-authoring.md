@@ -4,7 +4,7 @@ title: メールオーサリング
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
+source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
 workflow-type: tm+mt
 source-wordcount: '1477'
 ht-degree: 6%
@@ -97,9 +97,9 @@ ht-degree: 6%
 
 テンプレートには、次の 2 種類があります。
 
-* サンプルテンプレート：Marketo Engageには、4 つの標準メールテンプレートが用意されています。
+* **サンプルテンプレート**:Marketo Engageには、4 つの標準メールテンプレートが用意されています。
 
-* 保存済みのテンプレート：テンプレート メニューを使用してゼロから作成したテンプレート、または作成してテンプレートとして保存することを選択したメールです。
+* **保存済みのテンプレート**：これらは、「テンプレート」メニューを使用してゼロから作成したテンプレートか、作成してテンプレートとして保存することを選択したメールです。
 
 >[!BEGINTABS]
 
