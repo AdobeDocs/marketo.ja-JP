@@ -4,9 +4,9 @@ description: Marketo のプロトコルの設定 - Marketo ドキュメント - 
 title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 0330fd1b7bcc6d5fc21e5e591b65e8d6d5d3efee
+source-git-commit: 06c19a48e84b192cd52ea5d0ce6104ac52a85e8e
 workflow-type: tm+mt
-source-wordcount: '2149'
+source-wordcount: '2147'
 ht-degree: 97%
 
 ---
@@ -63,8 +63,6 @@ ht-degree: 97%
 Marketo を使用してテストメールを送信する（メールの破棄を送信する前のベストプラクティス）と、メールが有効であることを検証するために送信者の IP アドレスに依存するスパム対策システムによってテストメールがブロックされる場合があります。これらのテスト用のメールが届くようにするには、許可リストに Marketo を追加します。
 
 以下の IP アドレスを会社の許可リストに追加します。
-
-94.236.119.0/26
 
 103.237.104.0/22
 
@@ -292,7 +290,7 @@ Marketo Engage[Webhook](/help/marketo/product-docs/administration/additional-int
 
 **CRM 同期**
 
-Marketo Engage[Salesforce CRM 同期 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} と [Microsoft Dynamics 同期 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} は、CRM ベンダーが公開している API に対してアウトバウンド HTTP リクエストを行う統合機構です。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
+Marketo Engage[Salesforce CRM 同期 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} と [Microsoft Dynamics同期 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} は、CRM ベンダーによって公開された API へのアウトバウンド HTTP リクエストを行う統合メカニズムです。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
 
 **Marketo Engage アウトバウンド IP アドレスブロック**
 
