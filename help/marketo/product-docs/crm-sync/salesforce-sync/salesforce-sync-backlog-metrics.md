@@ -2,9 +2,9 @@
 description: Salesforce同期バックログ指標 – Marketo ドキュメント – 製品ドキュメント
 title: Salesforce 同期バックログ指標
 feature: Reporting
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1048'
 ht-degree: 43%
 
 ---
@@ -89,7 +89,7 @@ Marketo Engage側で更新を行った場合でも、CRM 側で更新を行っ�
 
 ## 同期バックログの管理のベストプラクティス {#best-practices}
 
-**同期ユーザーに表示されるフィールド**：同期するために表示されるフィールドが、同期する必要があり、マーケティング活動に価値を持つフィールドのみであることを確認します。 最終変更日のタイムスタンプを更新するSalesforce内のレコードに対する更新が行われると、同期バックログへのレコードがキューに入れられ、不要なフィールドの同期により、同期中のより重要なフィールドの速度が低下する可能性があります。 不要なフィールドが同期ユーザーに対して非表示になっている場合、これらのフィールドを更新すると、スキップが発生し、更新よりもはるかに速く処理されます。 Salesforce管理者と協力して、ここでベストプラクティスを確認し、Marketo Sync ユーザーに表示されるフィールドを更新します。
+**同期ユーザーに表示されるフィールド**：同期するために表示されるフィールドが、同期する必要があり、マーケティング活動に価値を持つフィールドのみであることを確認します。 最終変更日のタイムスタンプを更新するSalesforce内のレコードに対する更新が行われると、同期バックログへのレコードがキューに入れられ、不要なフィールドの同期により、同期中のより重要なフィールドの速度が低下する可能性があります。 不要なフィールドが同期ユーザーに対して非表示になっている場合、これらのフィールドを更新すると、スキップが発生し、更新よりもはるかに速く処理されます。 Salesforce管理者と協力して、ベストプラクティス [ こちら ](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} を確認し、Marketo Sync ユーザーに表示されるフィールドを更新します。
 
 **不要なレコードの非表示またはフィルター**：レコードが市場向きでない場合、同期リソースを無駄にしている可能性があります。 同期ユーザーが表示できない場合は、同期を試みるリソースを無駄にしません。 [Marketo Engageサポート ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} は、追加の条件に基づいてレコードの同期を禁止する同期フィルターの設定に役立ちます。 カスタム同期フィルターの設定について詳しくは [ こちらを参照 ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 Salesforce内でインデックスフィールドを使用することを強くお勧めします（詳しくは、salesforce にお問い合わせください）。
 
