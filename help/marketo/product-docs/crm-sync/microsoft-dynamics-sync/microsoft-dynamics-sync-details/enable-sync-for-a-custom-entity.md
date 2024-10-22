@@ -4,10 +4,10 @@ description: カスタムエンティティの同期の有効化 - Marketo ド�
 title: カスタムエンティティの同期の有効化
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 100%
+source-wordcount: '304'
+ht-degree: 78%
 
 ---
 
@@ -67,3 +67,9 @@ Marketo Engage で Dynamics のカスタムエンティティデータを使用�
 1. グローバル同期を再度有効にすることを忘れないでください。
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
+
+   >[!NOTE]
+   >
+   >* Marketo では、1 レベルまたは 2 レベルの深さの標準エンティティにリンクされたカスタムエンティティのみがサポートされています。
+   >
+   >* カスタム オブジェクト ツリーは、そのオブジェクトと主要なオブジェクトの 1 つ（たとえば、リード、連絡先、アカウント、中間オブジェクトを介した間接的な接続）との直接接続により、同じオブジェクトを複数回表示する場合があります。 このような場合は、メイン オブジェクトに最も近いオブジェクトを選択し、1 つだけを選択します。 同じオブジェクトを複数回選択すると、そのカスタムオブジェクトの同期が妨げられることがあります。

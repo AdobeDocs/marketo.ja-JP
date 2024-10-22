@@ -4,10 +4,10 @@ description: SFDC 同期 - カスタムオブジェクトの同期 - Marketo ド
 title: SFDC 同期 - カスタムオブジェクトの同期
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 94%
+source-wordcount: '302'
+ht-degree: 73%
 
 ---
 
@@ -81,7 +81,9 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    >[!NOTE]
    >
-   >Marketo では、1 レベルまたは 2 レベルの深さの標準エンティティにリンクされたカスタムエンティティのみがサポートされています。
+   >* Marketo では、1 レベルまたは 2 レベルの深さの標準エンティティにリンクされたカスタムエンティティのみがサポートされています。
+   >
+   >* カスタム オブジェクト ツリーは、そのオブジェクトと主要なオブジェクトの 1 つ（たとえば、リード、連絡先、アカウント、中間オブジェクトを介した間接的な接続）との直接接続により、同じオブジェクトを複数回表示する場合があります。 このような場合は、メイン オブジェクトに最も近いオブジェクトを選択し、1 つだけを選択します。 同じオブジェクトを複数回選択すると、そのカスタムオブジェクトの同期が妨げられることがあります。
 
 ### 次の手順： {#whats-next}
 
