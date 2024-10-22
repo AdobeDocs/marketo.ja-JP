@@ -4,20 +4,20 @@ description: カスタムエンティティの同期の有効化 - Marketo ド�
 title: カスタムエンティティの同期の有効化
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 2a5ee44a7126d789b0fc819a26a2cf19084b34ee
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 78%
+source-wordcount: '324'
+ht-degree: 66%
 
 ---
 
 # カスタムエンティティの同期の有効化 {#enable-sync-for-a-custom-entity}
 
-Marketo Engage で Dynamics のカスタムエンティティデータを使用できるようにする必要がある場合、その同期を有効にする方法を次に示します。
+Dynamics のカスタムエンティティデータをMarketo Engageで使用できるようにする必要がある場合は、次の方法で同期を有効にします。 **管理者権限が必要です**。
 
->[!NOTE]
+>[!PREREQUISITES]
 >
->**管理者権限が必要**
+>カスタムオブジェクトを使用するには、Microsoft Dynamicsの [lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md){target="_blank"}、[contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md){target="_blank"} または [account](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md){target="_blank"} オブジェクトに関連付けられている必要があります。
 
 >[!NOTE]
 >
@@ -52,7 +52,7 @@ Marketo Engage で Dynamics のカスタムエンティティデータを使用�
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. スマートリストで同期するフィールド、または[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)やトリガー（更新では&#x200B;_なく_、追加したレコードの場合）として使用するフィールドを選択します。完了したら、「**[!UICONTROL 同期を有効にする]**」をクリックします。
+1. スマートリストで同期するフィールド、または[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}やトリガー（更新では&#x200B;_なく_、追加したレコードの場合）として使用するフィールドを選択します。完了したら、「**[!UICONTROL 同期を有効にする]**」をクリックします。
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
