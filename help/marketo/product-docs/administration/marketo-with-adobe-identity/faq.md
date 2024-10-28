@@ -3,10 +3,10 @@ description: Adobe Identity Management に関するよくある質問 - Marketo 
 title: Adobe Identity Management に関するよくある質問
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
-workflow-type: ht
-source-wordcount: '1456'
-ht-degree: 100%
+source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
+workflow-type: tm+mt
+source-wordcount: '1484'
+ht-degree: 98%
 
 ---
 
@@ -129,6 +129,10 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 **複数のサブスクリプションを持っていますが、すべてのサブスクリプションでシングルサインオンが有効になっているわけではありません。Adobe ID の移行後はどうなりますか？**
 
 サブスクリプションが Adobe ID にオンボードされると、シングルサインオン（SSO）がアドビ組織レベルで設定されます。つまり、SSO はアドビ組織内のすべての製品インスタンスに適用されます。SSO を設定すると、そのアドビ組織内のすべての Marketo インスタンスに適用されます。以前、Marketo はこの設定をインスタンスレベルでサポートしていました。これは、Adobe Identity Management システムではサポートされていません。
+
+**Adobe ID の移行後、Marketo Engageに現在使用している CNAME、SPF、DKIM に変更は必要ですか？**
+
+いいえ、これらの設定への影響はありません。
 
 **次に、Experience Cloud に移動して Marketo Engage にアクセスする必要があります。このフローを効率化する方法はありますか？**
 
