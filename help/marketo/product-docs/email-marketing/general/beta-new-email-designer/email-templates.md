@@ -4,9 +4,9 @@ title: メールテンプレート
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1755'
+source-wordcount: '1683'
 ht-degree: 6%
 
 ---
@@ -81,8 +81,6 @@ _テンプレートをデザイン_ ページで、いくつかのオプショ�
 
 1. メールDesignerのコンテンツコンポーネントを活用するには、「**HTMLコンバーター**」タブをクリックし、「**変換**」をクリックします。
 
-   スクリーンショット
-
    >[!CAUTION]
    >
    >`<table>` タグを HTML ファイルの最初のレイヤーとして使用すると、上部レイヤータグの背景や幅の設定などのスタイルが失われる可能性があります。
@@ -151,38 +149,23 @@ _テンプレートをデザイン_ ページで、いくつかのオプショ�
 
 ### Assetsを追加 {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
-```
+Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
-```
+>[!NOTE]
+>
+>新しいデザイナーでは画像のみを追加でき、現時点では他のファイルタイプは追加できません。
 
 1. 画像にアクセスするには、アセットセレクターアイコンをクリックします。
 
-   スクリーンショット
+   ![](assets/add-assets-1.png)
 
 1. 目的の画像を構造コンポーネントにドラッグ&amp;ドロップします。
 
-   スクリーンショット
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
    >既存の画像を置き換えるには、画像を選択し、右側の「設定」タブで **アセットを選択** をクリックします。
-
-「条件付きコンテンツを有効にする」をクリックし、動的コンテンツを追加して、条件付きルールに基づいてコンテンツをターゲットプロファイルに適応させます。
-
-
-
-必要に応じて、詳細メニューの「コードエディターに切り替え」をクリックしてコードエディターに切り替え、メールをさらにパーソナライズできます。 これにより、例えばトラッキングタグやカスタムHTMLタグを追加するために、メールソースコードを編集できます。
-
-注意
-コードエディターに切り替えた後で、このメールのビジュアルデザイナーに戻すことはできません。
-
-コンテンツの準備が整ったら、「コンテンツをシミュレート」ボタンをクリックしてレンダリングを確認します。 デスクトップまたはモバイル表示を選択できます。
-
-準備ができたら、「保存」をクリックします
 
 ### レイヤー、設定、スタイル {#layers-settings-styles}
 
@@ -295,7 +278,7 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL A
 
 コンテンツエディターの **その他** オプションで、次の操作を実行できます。
 
-スクリーンショット
+![](assets/more-options-1.png)
 
 * **テンプレートをリセット**：ビジュアルメールデザイナーキャンバスを空白のスレートにクリアし、コンテンツの作成を再開するには、これを選択します。
 
@@ -307,7 +290,7 @@ Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL A
 
 _メールテンプレート_ リストページで、メールテンプレートの名前をクリックして、詳細を表示します。
 
-スクリーンショット
+ （assets/view-template-details-1.png
 
 名前や説明などの基本的な詳細を編集できます。 編集したフィールドの外側をクリックして、変更を保存します。
 
@@ -323,7 +306,7 @@ _メールテンプレート_ リストページで、メールテンプレー�
 
 メールテンプレートの概要で、「**使用者**」タブをクリックして、このメールテンプレートがMarketo Engage内で使用されている場所の詳細を表示します。
 
-スクリーンショット
+![](assets/email-template-used-by-references-1.png)
 
 ## メールテンプレートの編集 {#edit-email-templates}
 
@@ -339,7 +322,7 @@ _メールテンプレート_ リストページで、メールテンプレー�
 
 * 右側のメールテンプレートの詳細で、「**詳細**」をクリックし、「**複製**」を選択します。
 
-スクリーンショット
+  ![](assets/duplicate-email-templates-1.png)
 
 * _メールテンプレート_ リストページで、目的のメールテンプレートの「その他のアクション」アイコン（3 つのドット）をクリックし、「**複製**」を選択します。
 
@@ -357,7 +340,7 @@ _メールテンプレート_ リストページで、メールテンプレー�
 
 * 右側のメールテンプレートの詳細で、「**詳細**」をクリックし、「**削除**」を選択します。
 
-スクリーンショット
+  ![](assets/delete-email-templates-1.png)
 
 * _メールテンプレート_ リストページで、目的のメールテンプレートの「その他のアクション」アイコン（3 つのドット）をクリックし、「**削除**」を選択します。
 

@@ -4,9 +4,9 @@ title: メールオーサリング
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1524'
+source-wordcount: '1455'
 ht-degree: 5%
 
 ---
@@ -155,38 +155,23 @@ ht-degree: 5%
 
 ### Assetsを追加 {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
-```
+Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
-```
+>[!NOTE]
+>
+>新しいデザイナーでは画像のみを追加でき、現時点では他のファイルタイプは追加できません。
 
 1. 画像にアクセスするには、アセットセレクターアイコンをクリックします。
 
-   スクリーンショット
+   ![](assets/authoring-add-assets-1.png)
 
 1. 目的の画像を構造コンポーネントにドラッグ&amp;ドロップします。
 
-   スクリーンショット
+   ![](assets/authoring-add-assets-2.png)
 
    >[!NOTE]
    >
    >既存の画像を置き換えるには、画像を選択し、右側の「設定」タブで **アセットを選択** をクリックします。
-
-「条件付きコンテンツを有効にする」をクリックし、動的コンテンツを追加して、条件付きルールに基づいてコンテンツをターゲットプロファイルに適応させます。
-
-
-
-必要に応じて、詳細メニューの「コードエディターに切り替え」をクリックしてコードエディターに切り替え、メールをさらにパーソナライズできます。 これにより、例えばトラッキングタグやカスタムHTMLタグを追加するために、メールソースコードを編集できます。
-
-注意
-コードエディターに切り替えた後で、このメールのビジュアルデザイナーに戻すことはできません。
-
-コンテンツの準備が整ったら、「コンテンツをシミュレート」ボタンをクリックしてレンダリングを確認します。 デスクトップまたはモバイル表示を選択できます。
-
-準備ができたら、「保存」をクリックします
 
 ### レイヤー、設定、スタイル {#layers-settings-styles}
 
