@@ -4,7 +4,7 @@ title: 概要
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 >[!IMPORTANT]
 >
->この記事は、新Marketo EngageメールDesigner ベータ版のメンバーのみを対象としています。 普及させないでください。
+>この記事は、新しいMarketo EngageメールDesignerベータ版のメンバーのみを対象としています。 普及させないでください。
 
 新しい E メールDesignerは、Marketo Engageの最新のイノベーションであり、標準の標準の標準テンプレートと共に視覚的なドラッグ&amp;ドロップエディターを提供することで、生産性と効率を向上させる改良された E メールおよび E メールテンプレートの作成体験を提供することを目的としています。 ベンダーにお金をかけることなく、カスタマイズされたメールテンプレートを簡単に作成できます。
 
