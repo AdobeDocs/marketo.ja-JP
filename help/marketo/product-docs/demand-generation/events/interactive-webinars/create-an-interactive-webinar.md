@@ -3,10 +3,10 @@ description: インタラクティブウェビナーの作成 - Marketo ドキ�
 title: インタラクティブウェビナーの作成
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 90%
+source-wordcount: '298'
+ht-degree: 87%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 90%
 1. 目的のフォルダーを右クリックし、「**新規プログラム**」を選択します。
 
    ![](assets/create-an-interactive-webinar-2.png)
+
+   >[!CAUTION]
+   >
+   >[ モバイルプッシュ通知 ](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} アセットは、インタラクティブウェビナーではサポート **されません**。
 
 1. プログラムに名前を付けます。プログラムタイプで、「**イベント**」を選択します。
 
@@ -37,10 +41,6 @@ ht-degree: 90%
 1. 「**インタラクティブウェビナー**」を選択し、「**次へ**」をクリックします。
 
    ![](assets/create-an-interactive-webinar-5.png)
-
-   >[!NOTE]
-   >
-   >パートナーウェビナーの情報は、こちらを参照してください。
 
 1. ウェビナーのタイトルを入力します。ウェビナーの最大オーディエンスサイズと所要時間を設定します。
 
