@@ -5,7 +5,7 @@ title: リリースノート - 2019年春
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 feature: Release Information
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '460'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * **待機リスト**：空きが出るまで[メンバーを保留にする](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)ためにメンバーを待機リストに登録する新しいプログラム／イベントステータスこれは、Marketo Classic のイベントプログラムに関連するチャネルと、Marketo Sky のイベントプログラムとウェビナープログラムに関連するイベントの両方に当てはまります。デフォルトでは、待機リストは登録済みと同じステップ値を持ちます。
 * **[カスタム通信制限](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**：管理者は、1 日または 1 週間のカスタム通信制限を設定できるようになりました。
-* **[スマートキャンペーンアセット API](https://experienceleague.adobe.com/jp/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：更新された日付と ID によってスマートキャンペーンレコードを取得して、Marketo 外で分析をエンリッチメントします。
+* **[スマートキャンペーンアセット API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**：更新された日付と ID によってスマートキャンペーンレコードを取得して、Marketo 外で分析をエンリッチメントします。
 * **メール用 HTTPS トラッキングリンク**：「トラッキングリンクのセキュリティで保護されたドメイン」を購入した顧客の場合、ブランディングされたトラッキングリンクをメール内に HTTPS として表示できるようになりました。
 * **メール到達率 PowerPack の更新**：特定のテスト結果にフラグを設定してコメントを付け、URL を通じて結果を関係者と共有し、変更を追跡して、関係者がコンテンツを編集したときにメールがどのように変化したかを確認する機能。
 

@@ -5,7 +5,7 @@ title: リリースノート - 2018年冬
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 feature: Release Information
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 100%
 
@@ -87,7 +87,7 @@ Marketo で最適化された ContentAI アルゴリズムを通じて推奨さ�
 
 ## 統合 {#integration}
 
-**[キャンペーン API の有効化／無効化](https://experienceleague.adobe.com/jp/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[キャンペーン API の有効化／無効化](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 この新しい API を使用すると、トリガーキャンペーンをリモートでアクティブ化および非アクティブ化できるので、完全に自動化されたプログラムテンプレートを作成できます。プログラムテンプレートを 1 回作成すると、複製、マーケティング資料の更新を自動化し、スマートキャンペーンの有効化／スケジュール設定を自動化できます。
 
