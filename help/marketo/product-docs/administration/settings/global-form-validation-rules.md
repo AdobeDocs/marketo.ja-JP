@@ -3,10 +3,10 @@ description: グローバルフォーム検証ルール - Marketo ドキュメ�
 title: グローバルフォーム検証ルール
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 100%
+source-wordcount: '281'
+ht-degree: 94%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Marketo Engage には、あらかじめ用意された「消費者向けメールドメインブロックリスト」ルールを使用する際にブロックされる、無料の消費者向けメールドメインのブロックリストが定義されています。[リスト表示はこちら](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv)。
+>Marketo Engage には、あらかじめ用意された「消費者向けメールドメインブロックリスト」ルールを使用する際にブロックされる、無料の消費者向けメールドメインのブロックリストが定義されています。[ このリストを表示します ](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) （ダウンロードするには、ブラウザーが最新で、ダウンロードを受け入れることができることを確認します）。
 
 ## フォームごとのアクセスを無効にする方法{#how-to-disable-access-per-form}
 

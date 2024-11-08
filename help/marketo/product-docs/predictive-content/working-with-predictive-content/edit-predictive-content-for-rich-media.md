@@ -4,10 +4,10 @@ description: リッチメディアの予測コンテンツを編集する - Mark
 title: リッチメディアの予測コンテンツを編集する
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 100%
+source-wordcount: '216'
+ht-degree: 83%
 
 ---
 
@@ -30,6 +30,10 @@ ht-degree: 100%
 1. メールとリッチメディア用の画像は別々でも大丈夫です。画像を追加または変更するには、画像の URL をテキストボックスに貼り付けます。
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
+
+   >[!NOTE]
+   >
+   >カラーモデルが CMYK のJPEG画像は、リッチメディアではサポートされません。 JPEGは、カラープロファイルを使用して sRGB に変換する必要があります。 画像エディターから書き出す場合は、この設定を選択してください。
 
 1. **説明**&#x200B;を入力します。
 
