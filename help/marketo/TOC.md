@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
 workflow-type: tm+mt
-source-wordcount: '9370'
+source-wordcount: '9376'
 ht-degree: 99%
 
 ---
@@ -144,6 +144,7 @@ ht-degree: 99%
          + [「Web ページとして表示」メッセージの編集](product-docs/administration/email-setup/edit-the-view-as-web-page-message.md)
          + [通信制限の有効化](product-docs/administration/email-setup/enable-communication-limits.md)
          + [スマートキャンペーンのリード制限の有効化](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
+         + [キャンペーンレベルでのメールの開封トラッキング](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [メールボットアクティビティのフィルタリング](product-docs/administration/email-setup/filtering-email-bot-activity.md)
          + [登録解除テキストの削除](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
       + フィールド管理 {#field-management}
