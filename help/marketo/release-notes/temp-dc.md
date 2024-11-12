@@ -4,10 +4,10 @@ title: Dynamic Chat リリースノート
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 5%
+source-wordcount: '446'
+ht-degree: 4%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 ## 2024 年 9 月/10 月リリース {#august-release}
 
-### 強化されたライブチャット分析 {#enhanced-live-chat-analytics}
+### ライブチャット分析の強化 {#enhanced-live-chat-analytics}
 
 Analytics ダッシュボードには、次のような機能強化が行われています。
 
@@ -33,7 +33,7 @@ Analytics ダッシュボードには、次のような機能強化が行われ�
 
 スクリーンショット
 
-### 会話スコアリング
+### 会話のスコアリング {#conversation-scoring}
 
 チャットインタラクションの質に基づいてリードを定量化し、その指標をMarketo Engageスマートキャンペーンのトリガー/フィルターとして使用します。 次のアクティビティで新しい属性 _会話スコア_ を使用します。
 
@@ -68,3 +68,21 @@ Analytics ダッシュボードには、次のような機能強化が行われ�
 そのため、cookie abc を持つ訪問者がページにアクセスし、`abc@p.com` のようにメール ID を指定した場合は、
 
 テーブル
+
+### 最適化された会話フロー読み込み時間 {#optimized-conversation-flow-load-time}
+
+ユーザーエクスペリエンスを向上させるために、会話フローの読み込み中に、空白スペースではなくシマーローダーが表示されるようになりました。 会話または会話？??
+
+**前**
+
+GIF
+
+**後**
+
+GIF
+
+### フォントを継承するオプション {#option-to-inherit-font}
+
+ユーザーとしては、Dynamic Chatでブランドフォントを管理するのではなく、チャットボットが読み込まれている web ページからフォントを直接継承できるようにしたいと考えています
+
+注意：このオプションを有効にすると、チャットボットはページの本文タグで定義されたフォントを取得します

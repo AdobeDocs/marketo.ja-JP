@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '548'
 ht-degree: 100%
 
 ---
@@ -79,7 +79,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <li>削除および結合された人物をメールパフォーマンス指標からフィルタリングします。</li>
    <li>応答アクティビティを 3 日間待機した後、メールは<i>中止</i>として分類されるようになりました。</li>
    <li>メール開封数は、スマートキャンペーンごとに個別に開かれたユニーク数としてカウントされます</li>
-   <li>トラッキングピクセルの場所の絞り込みにより、メールアクティビティのトラッキングが改善されました。</li>
    </td> 
    <td>出荷済み</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">メールパフォーマンスレポート</a></td>
