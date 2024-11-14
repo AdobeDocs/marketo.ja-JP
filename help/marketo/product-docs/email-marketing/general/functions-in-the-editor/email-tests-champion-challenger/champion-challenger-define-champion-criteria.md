@@ -4,7 +4,7 @@ description: チャンピオン／挑戦者：チャンピオンの条件の定�
 title: チャンピオン／挑戦者：チャンピオンの条件の定義
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 88%
@@ -29,7 +29,7 @@ ht-degree: 88%
    >
    >この指標をトラッキングして、データを含むレポートをメールで送信します。
 
-1. デフォルトの **チャンピオン条件** のいずれかを選択した場合は、[ レポートアラートの設定 ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts) に進みます。
+1. デフォルトの **チャンピオン条件** のいずれかを選択した場合は、[ レポートアラートの設定 ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts) に進みます。
 
 ## カスタムのチャンピオンの条件 {#custom-champion-criteria}
 
@@ -59,4 +59,4 @@ ht-degree: 88%
 
    >[!MORELIKETHIS]
    >
-   >[ チャンピオン/チャレンジャー：分析 ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md)
+   >[ チャンピオン/チャレンジャー：分析 ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
