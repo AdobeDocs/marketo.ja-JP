@@ -3,10 +3,10 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
-workflow-type: ht
-source-wordcount: '1513'
-ht-degree: 100%
+source-git-commit: 63db7cfd9d93191d83214dc4e107ab4835ddd730
+workflow-type: tm+mt
+source-wordcount: '1553'
+ht-degree: 95%
 
 ---
 
@@ -82,6 +82,8 @@ Marketo 製品管理者は、すべてのユーザが移行日に向けて準備
 
 * Marketo 管理エリアですべてのユーザの[メール検証](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"}ステータスを確認します。メールアドレスを検証していないユーザに対して、検証を行うように促し、検証プロセスを完了する際の課題を解決できるように支援します。
 
+* 「ロックアウト」されたユーザー通知をメール受信ボックスで検索します。 ロックアウトされたユーザーに、Marketo Engageへのアクセスを移行日より前に再確立してパスワードをリセットすることをお勧めします。
+
 * すべてのユーザに、今後行われる Adobe ID への移行の準備をさせます。
 
 >[!NOTE]
@@ -90,7 +92,7 @@ Marketo 製品管理者は、すべてのユーザが移行日に向けて準備
 
 >[!IMPORTANT]
 >
->Marketo Engage ユーザがメールアドレスを検証しない場合、Adobe ID に移行されず、サブスクリプションの移行が完了しても Marketo サブスクリプションにアクセスできなくなります。再度アクセスできるようにするには、Marketo 製品管理者によって新しいユーザとして追加される必要があります。
+>Marketo Engageユーザーがメールアドレスを認証していない場合、またはユーザーの移行時にロックアウトされている場合は、Adobe IDに移行されず、サブスクリプションの移行が完了するとMarketo サブスクリプションにアクセスできなくなります。 再度アクセスできるようにするには、Marketo 製品管理者によって新しいユーザとして追加される必要があります。
 
 ### 移行日に行われること {#what-to-expect-on-migration-day}
 
