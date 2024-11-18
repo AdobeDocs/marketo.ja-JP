@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: 97806e0df45327fb695f02c02af0dde42a602737
 workflow-type: tm+mt
-source-wordcount: '507'
-ht-degree: 100%
+source-wordcount: '546'
+ht-degree: 92%
 
 ---
 
@@ -89,6 +89,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 <br/>
 
 ## お知らせ {#announcements}
+
+* **一括抽出 API の更新**：一括抽出 API で columnHeaderNames オプションが関係する問題を修正しました。書き出したファイルでカスタム列ヘッダー名を指定できます。 以前は、非 ASCII 文字を含む列ヘッダー名が破損する可能性がありました。
 
 * **Rest API access_token パラメーターの廃止**:Marketo REST API 呼び出しの認証に使用される「access_token」クエリパラメーターは非推奨となり、2025 年 6 月 30 日（PT）以降は使用できなくなります。 すべての新規および既存の統合は、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります [ 詳しくは、こちらを参照 ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
 
