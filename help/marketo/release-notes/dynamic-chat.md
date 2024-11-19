@@ -3,7 +3,7 @@ description: Dynamic Chat のリリースノート - Marketo ドキュメント 
 title: Dynamic Chat リリースノート
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: b6fb381527a24286fef5e438d7bf12b029810e64
+source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
 workflow-type: tm+mt
 source-wordcount: '2427'
 ht-degree: 5%
@@ -120,29 +120,29 @@ Analytics ダッシュボードには、次のような機能強化が行われ�
   </tr>
 </tbody></table>
 
-### 最適化された会話フロー読み込み時間 {#optimized-conversation-flow-load-time}
-
-対話型フローの読み込み時に、空白スペースではなくシマーローダーが表示されるようになり、ユーザーエクスペリエンスが向上しました。
-
-**前**
-
-![](assets/dynamic-chat-sep-oct-2024-release-5.png)
-
-**後**
-
-![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
-
 ### フォントを継承するオプション {#option-to-inherit-font}
 
 Dynamic Chatでブランドフォントを管理するのではなく、チャットボットがホストされている web ページからフォントを直接継承できるようになりました。 このオプションを有効にすると、チャットボットはページのタグで定義され `<body>` フォントを取得します。
 
-![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Demandbase とDynamic Chatの統合 {#demandbase-integration-with-dynamic-chat}
 
 Demandbase ユーザーは、Demandbase の独自のライセンスを持ち込み、統合を有効にすることができます。 ダイアログターゲティング、条件付きブランディング、カスタムルーティングには、Demandbase の人物属性を使用します。
 
 ユーザーに対するこれらの属性値の解決はリアルタイムで行われ、それぞれのユーザープロファイルに保存されます。
+
+### 最適化された会話フロー読み込み時間 {#optimized-conversation-flow-load-time}
+
+対話型フローの読み込み時に、空白スペースではなくシマーローダーが表示されるようになり、ユーザーエクスペリエンスが向上しました。
+
+**前**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.png)
+
+**後**
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.gif)
 
 ## 2024年8月リリース {#august-release}
 
