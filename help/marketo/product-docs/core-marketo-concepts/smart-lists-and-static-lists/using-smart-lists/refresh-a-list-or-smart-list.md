@@ -4,7 +4,7 @@ description: リストまたはスマートリストの更新 - Marketo ドキ�
 title: リストまたはスマートリストの更新
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 40%
@@ -19,11 +19,11 @@ ht-degree: 40%
 
 1. スマート・リストの **[!UICONTROL ユーザー]** タブのデータを更新するには、更新アイコンをクリックします。
 
-   ![](assets/refreshbutton.png)
+   ![](assets/refresh-a-list-or-smart-list-1.png)
 
 1. スマート・リストが再実行され、より最新の結果セットが表示されます。
 
-   ![](assets/loadingrefresh.png)
+   ![](assets/refresh-a-list-or-smart-list-2.png)
 
 >[!TIP]
 >
