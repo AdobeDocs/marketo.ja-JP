@@ -4,9 +4,9 @@ description: Marketo のプロトコルの設定 - Marketo ドキュメント - 
 title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
 workflow-type: tm+mt
-source-wordcount: '2145'
+source-wordcount: '2148'
 ht-degree: 97%
 
 ---
@@ -369,13 +369,20 @@ Marketo Engage[Salesforce CRM 同期 ](/help/marketo/product-docs/crm-sync/sales
    <tr>
    <td>54.237.141.197</td>
   </tr>
+  <tr>
+   <td>124.47.174.193</td>
   </tr>
-   <tr>
+  <tr>
    <td>130.248.168.16</td>
-  </tr>
   </tr>
    <tr>
    <td>130.248.168.17</td>
+  </tr>
+  <tr>
+   <td>199.15.213.245</td>
+  </tr>
+  <tr>
+   <td>199.15.215.245</td>
   </tr>
  </tbody>
 </table>
