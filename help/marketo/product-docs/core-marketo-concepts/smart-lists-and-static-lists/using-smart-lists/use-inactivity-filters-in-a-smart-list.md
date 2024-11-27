@@ -4,7 +4,7 @@ description: スマートリストでの非アクティブフィルターの使�
 title: スマートリストでの非アクティブフィルターの使用
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 83%
@@ -17,15 +17,15 @@ ht-degree: 83%
 
 1. 「**[!UICONTROL マーケティング活動]**」に移動します。
 
-   ![](assets/login-marketing-activities-3.png)
+   ![](assets/use-inactivity-filters-in-a-smart-list-1.png)
 
 1. 編集するスマート・リストを選択し、「**[!UICONTROL スマート・リスト]**」タブをクリックします。
 
-   ![](assets/smartlist-choose.png)
+   ![](assets/use-inactivity-filters-in-a-smart-list-2.png)
 
 1. 選択した非アクティブフィルターを見つけて、キャンバスにドラッグします。例として、ページを訪問したことのない人を見つけてみましょう。
 
-   ![](assets/draginactivityfilter.png)
+   ![](assets/use-inactivity-filters-in-a-smart-list-3.png)
 
    >[!TIP]
    >
@@ -33,4 +33,4 @@ ht-degree: 83%
 
 1. **[!UICONTROL is any]** 演算子を選択します。これにより、過去 30 日間にどのページも訪問しなかったすべての人を検索します。
 
-   ![](assets/mysmartlist-people.jpg)
+   ![](assets/use-inactivity-filters-in-a-smart-list-4.png)

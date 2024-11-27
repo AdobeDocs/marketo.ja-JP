@@ -4,7 +4,7 @@ description: システムスマートリストの使用 - Marketo ドキュメ�
 title: システムスマートリストの使用
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 78%
@@ -17,15 +17,15 @@ Marketo Engageには、非常に便利な組み込みのスマートリストが
 
 1. 「**[!UICONTROL データベース]**」に移動します。
 
-   ![](assets/db.png)
+   ![](assets/use-built-in-system-smart-lists-1.png)
 
 1. 「**[!UICONTROL システムスマートリスト]**」フォルダーを開き、内容を確認します。
 
-   ![](assets/two.png)
+   ![](assets/use-built-in-system-smart-lists-2.png)
 
 1. 例として、「**[!UICONTROL すべてのリード]**」を選択して「**[!UICONTROL リード]**」タブをクリックします。
 
-   ![](assets/three.png)
+   ![](assets/use-built-in-system-smart-lists-3.png)
 
    >[!NOTE]
    >
@@ -33,14 +33,38 @@ Marketo Engageには、非常に便利な組み込みのスマートリストが
 
 組み込みのスマートリストの機能の概要を次に示します。
 
-| リスト名 | 説明 |
-|---|---|
-| すべてのリード | Marketo データベースに存在するすべてのリード |
-| 登録解除済みのリード | オペレーショナルメールのみ配信可能なリード（通常はリード本人が制御）。 |
-| マーケティングを中断したリード | オペレーショナルメールのみ配信可能なリード（通常はマーケターが制御）。 |
-| ブロックリスト | いかなる種類のメールも配信されないリード。 |
-| バウンスメールアドレス | 無効あるいは配信拒否のメールアドレスを有するリード。 |
-| 重複の可能性 | Marketo データベース内で重複の可能性があるリード。 |
+<table><thead>
+  <tr>
+    <th>リスト名</th>
+    <th>説明</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>すべてのリード</td>
+    <td>Marketo データベースに存在するすべてのリード</td>
+  </tr>
+  <tr>
+    <td>登録解除済みのリード</td>
+    <td>オペレーショナルメールのみ配信可能なリード（通常はリード本人が制御）。</td>
+  </tr>
+  <tr>
+    <td>マーケティングを中断したリード</td>
+    <td>オペレーショナルメールのみ配信可能なリード（通常はマーケターが制御）。</td>
+  </tr>
+  <tr>
+    <td>ブロックリスト</td>
+    <td>いかなる種類のメールも配信されないリード。</td>
+  </tr>
+  <tr>
+    <td>バウンスメールアドレス</td>
+    <td>無効あるいは配信拒否のメールアドレスを有するリード。</td>
+  </tr>
+  <tr>
+    <td>重複の可能性</td>
+    <td>Marketo データベース内で重複の可能性があるリード。</td>
+  </tr>
+</tbody>
+</table>
 
 >[!NOTE]
 >

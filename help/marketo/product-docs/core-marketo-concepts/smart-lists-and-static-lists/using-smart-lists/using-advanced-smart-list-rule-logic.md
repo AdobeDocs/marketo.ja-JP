@@ -4,7 +4,7 @@ description: 高度なスマートリストルールロジックの使用 - Mark
 title: 高度なスマートリストルールロジックの使用
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 75%
@@ -32,7 +32,7 @@ ht-degree: 75%
 
 1. ドロップダウンから「**[!UICONTROL 詳細フィルター]**&#x200B;を使用」を選択します。
 
-   ![](assets/one.png)
+   ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
@@ -40,11 +40,11 @@ ht-degree: 75%
 
 1. 「**[!UICONTROL 詳細フィルター]**」テキストボックスには、すべてのフィルターのデフォルト値として「and」が表示されます。
 
-   ![](assets/two-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-2.png)
 
 1. 「2 and 3」を囲むように丸括弧を入力します。
 
-   ![](assets/three-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-3.png)
 
    >[!CAUTION]
    >
@@ -52,19 +52,19 @@ ht-degree: 75%
 
 1. 「2 and 3」の「and」を「or」に変更します。
 
-   ![](assets/four-1.png)
+   ![](assets/using-advanced-smart-list-rule-logic-4.png)
 
 ## 「and」と「or」を混在させる場合は括弧を使用する {#use-parentheses-when-mixing-and-and-or}
 
 「and」と「or」のロジックを組み合わせるには、意図を明確にするための括弧が必要です。
 
-![](assets/advancedfilters-parent.png)
+![](assets/using-advanced-smart-list-rule-logic-5.png)
 
 ## 必要に応じて、4 つ以上のフィルターにネストされた括弧を使用する {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 目的に応じて、4 つ以上のフィルターを使用する場合は、ネストされた括弧を追加する必要が生じる場合があります。
 
-![](assets/advancedfilters-nested.png)
+![](assets/using-advanced-smart-list-rule-logic-6.png)
 
 >[!TIP]
 >

@@ -4,7 +4,7 @@ description: スマートリストでのデータ値変更済みフィルター�
 title: スマートリストでのデータ値変更済みフィルターの使用
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 82%
@@ -21,18 +21,18 @@ ht-degree: 82%
 
 1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
 
-   ![](assets/ma.png)
+   ![](assets/use-the-data-value-changed-filter-in-a-smart-list-1.png)
 
 1. スマート・リストを選択し、「**[!UICONTROL スマート・リスト]**」タブをクリックします。
 
-   ![](assets/two-1.png)
+   ![](assets/use-the-data-value-changed-filter-in-a-smart-list-2.png)
 
 1. 「**[!UICONTROL データ値変更済み]**」フィルターを適用してキャンバスにドラッグします。
 
-   ![](assets/three-1.png)
+   ![](assets/use-the-data-value-changed-filter-in-a-smart-list-3.png)
 
 1. データ値の変更を検索するフィールドに「**[!UICONTROL 属性]**」を設定します。
 
-   ![](assets/four.png)
+   ![](assets/use-the-data-value-changed-filter-in-a-smart-list-4.png)
 
 このフィルターは、ステータスに変更（あらゆる変更）が行われたすべての人物を検索します。さらに気に入りたい場合は、[ スマートリストフィルターへの制約の追加 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} を試してみてください。

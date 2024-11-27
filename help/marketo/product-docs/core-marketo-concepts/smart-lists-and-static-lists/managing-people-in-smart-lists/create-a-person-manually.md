@@ -4,10 +4,10 @@ description: リードの手動作成 - Marketo ドキュメント - 製品ド�
 title: リードの手動作成
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 74%
+source-wordcount: '64'
+ht-degree: 68%
 
 ---
 
@@ -21,14 +21,12 @@ ht-degree: 74%
 
 1. 「**[!UICONTROL データベース]**」に移動します。
 
-   ![](assets/db-1.png)
+   ![](assets/create-a-person-manually-1.png)
 
 1. 「**[!UICONTROL 新規作成]**」で「**[!UICONTROL 新規リード]**」をクリックします。
 
-   ![](assets/two-2.png)
+   ![](assets/create-a-person-manually-2.png)
 
 1. リードの情報を入力し、「**[!UICONTROL 作成]**」をクリックします。
 
-   ![](assets/three-2.png)
-
-Marketo に 1 件のリードを追加するには、この方法が手早く簡単です。
+   ![](assets/create-a-person-manually-3.png)
