@@ -3,10 +3,10 @@ description: ユーザーの追加または削除 - Marketo ドキュメント -
 title: ユーザーの追加または削除
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 100%
+source-wordcount: '240'
+ht-degree: 95%
 
 ---
 
@@ -57,6 +57,10 @@ Marketo Engage にログインするためのメールがユーザーに送信�
 >Adobe Admin Console を使用して Marketo Engage に追加されたユーザーには、サブスクリプションのデフォルトワークスペース内で「標準ユーザー」のロールが付与されます。ワークスペース内でのユーザーのロールを調整する必要がある場合は、[ここで説明しているように](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}、Marketo Engage で行います。
 
 ## ユーザーの削除 {#remove-a-user}
+
+>[!NOTE]
+>
+>ユーザーを削除するにはシステム管理者である必要があります。
 
 1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.にログインします。
 

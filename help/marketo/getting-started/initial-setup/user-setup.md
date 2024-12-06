@@ -4,9 +4,9 @@ short-description: 初期設定手順を完了した後で、スムーズに継�
 title: ユーザー設定チェックリスト
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '823'
 ht-degree: 10%
 
 ---
@@ -48,6 +48,7 @@ ht-degree: 10%
   <tr>
     <td>ユーザ</td>
     <td><li>いつ <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html"> ユーザーを作成 </a> するかに関するポリシーを作成します。</li> <li>ユーザーを削除するタイミングに関するポリシーを作成します。</li>
+    <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：ユーザーを削除するにはシステム管理者である必要があります。
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobeシステム管理者およびMarketo Engage製品管理者のアクセス許可を持つユーザーを決定します。</a> <li>目的の製品プロファイルに <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user"> ユーザーを追加 </a> します。</li>
     <li>API ユースケースごとに 1 つの API ユーザーを作成します。</li></td>
   </tr>
