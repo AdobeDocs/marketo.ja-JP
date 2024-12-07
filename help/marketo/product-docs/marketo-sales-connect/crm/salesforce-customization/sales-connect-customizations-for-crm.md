@@ -4,20 +4,16 @@ description: CRM 用の Sales Connect のカスタマイズ - Marketo ドキュ�
 title: CRM 用の Sales Connect のカスタマイズ
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
 workflow-type: tm+mt
-source-wordcount: '701'
-ht-degree: 100%
+source-wordcount: '690'
+ht-degree: 94%
 
 ---
 
 # CRM 用の Sales Connect のカスタマイズ {#sales-connect-customizations-for-crm}
 
-以下のフィールドとボタンは、Salesforce CRM のメタデータ API によって作成されます。フィールドを作成したら、管理者は、CRM でページのレイアウトを設定して公開する必要があります。手順は[ここ](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)にあります。
-
->[!NOTE]
->
->これは、ToutApp と Sales Connect の両方の顧客に影響を与えます。
+以下のフィールドとボタンは、Salesforce CRM のメタデータ API によって作成されます。フィールドを作成したら、管理者は、CRM でページのレイアウトを設定して公開する必要があります。説明 [ こちらを参照 ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)。
 
 ## Salesforce でのカスタマイズのインストール方法 {#how-to-install-customizations-in-salesforce}
 
@@ -69,7 +65,7 @@ Salesforce カスタマイズパッケージのアップデートには、機能
 
    ![](assets/sales-connect-customizations-for-crm-10.png)
 
-完了すると、カードに「Sales Connect のカスタマイズは最新です」と表示されます。
+完了すると、カードに「Sales Connect のカスタマイズは最新の状態です」と表示されます。
 
 ![](assets/sales-connect-customizations-for-crm-11.png)
 
@@ -77,97 +73,166 @@ Salesforce カスタマイズパッケージのアップデートには、機能
 
 Marketo は、新しいフィールドの作成を検出し、1 回限りのデータのバックフィル、再マッピングおよび&#x200B;**新しい**&#x200B;フィールドへの値の継続的な同期を実行します。古いフィールドは更新されません。
 
-| **フィールド名** | **説明** |
-|---|---|
-| MSE 電話ローカルプレゼンス ID | ユーザは、MSE 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。着信電話は、受信者のローカル番号を表示します。 |
-| MSE 電話録音 URL | 通話は録音され、録音のリンクはここに記録されます。 |
-| MSE キャンペーン | 取引先責任者／リードがメンバーの MSE キャンペーンの名前を記録します。 |
-| MSE キャンペーン URL | MSE で作成されたキャンペーンの URL を記録します。これをクリックすると、MSE web アプリでキャンペーンが開きます。 |
-| MSE キャンペーンの現在のステップ | 取引先責任者／リードがキャンペーンの一部である場合、このフィールドには、リード／取引先責任者が現在参加しているステップの名前が記録されます。 |
-| MSE メール添付ファイルの閲覧 | ファイルが添付されたメールが送信され、受信者が添付ファイルを閲覧した場合に、データを記録します。 |
-| MSE メールのクリック | 受信者がメール内のリンクをクリックしたときにチェックマークを記録します。 |
-| MSE メールの返信 | 受信者がメールに返信したときにチェックマークを記録します。 |
-| MSE メールのステータス | メールが送信済み／処理中／バウンスされたかどうかを表示します（バウンスメールのトラッキングは、使用する配信チャネルに依存します）。 |
-| MSE メールテンプレート | リード／取引先責任者に送信されたメールで使用された MSE テンプレートの名前を記録します。 |
-| MSE メールテンプレート URL | MSE で作成されたテンプレートの URL を記録します。これをクリックすると、MSE web アプリでテンプレートが開きます。 |
-| MSE メール URL | この URL をクリックすると、MSE でコマンドセンターが開き、「リード詳細表示の履歴」タブが前面表示され、送信されたメールを確認できます。 |
-| MSE メールの表示 | 受信者がメールを表示したときにチェックマークを記録します。 |
+<table><thead>
+  <tr>
+    <th>フィールド名</th>
+    <th>説明</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>MSE 電話ローカルプレゼンス ID</td>
+    <td>ユーザは、MSE 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。着信電話は、受信者のローカル番号を表示します。</td>
+  </tr>
+  <tr>
+    <td>MSE 電話録音 URL</td>
+    <td>通話は録音され、録音のリンクはここに記録されます。</td>
+  </tr>
+  <tr>
+    <td>MSE キャンペーン</td>
+    <td>取引先責任者／リードがメンバーの MSE キャンペーンの名前を記録します。</td>
+  </tr>
+  <tr>
+    <td>MSE キャンペーン URL</td>
+    <td>MSE で作成されたキャンペーンの URL を記録します。これをクリックすると、MSE web アプリでキャンペーンが開きます。</td>
+  </tr>
+  <tr>
+    <td>MSE キャンペーンの現在のステップ</td>
+    <td>取引先責任者／リードがキャンペーンの一部である場合、このフィールドには、リード／取引先責任者が現在参加しているステップの名前が記録されます。</td>
+  </tr>
+  <tr>
+    <td>MSE メール添付ファイルの閲覧</td>
+    <td>ファイルが添付されたメールが送信され、受信者が添付ファイルを閲覧した場合に、データを記録します。</td>
+  </tr>
+  <tr>
+    <td>MSE メールのクリック</td>
+    <td>受信者がメール内のリンクをクリックしたときにチェックマークを記録します。</td>
+  </tr>
+  <tr>
+    <td>MSE メールの返信</td>
+    <td>受信者がメールに返信したときにチェックマークを記録します。</td>
+  </tr>
+  <tr>
+    <td>MSE メールのステータス</td>
+    <td>メールが送信済み／処理中／バウンスされたかどうかを表示します（バウンスメールのトラッキングは、使用する配信チャネルに依存します）。</td>
+  </tr>
+  <tr>
+    <td>MSE メールテンプレート</td>
+    <td>リード／取引先責任者に送信されたメールで使用された MSE テンプレートの名前を記録します。</td>
+  </tr>
+  <tr>
+    <td>MSE メールテンプレート URL</td>
+    <td>MSE で作成されたテンプレートの URL を記録します。これをクリックすると、MSE web アプリでテンプレートが開きます。</td>
+  </tr>
+  <tr>
+    <td>MSE メール URL</td>
+    <td>この URL をクリックすると、MSE でコマンドセンターが開き、「リード詳細表示の履歴」タブが前面表示され、送信されたメールを確認できます。</td>
+  </tr>
+  <tr>
+    <td>MSE メールの表示</td>
+    <td>受信者がメールを表示したときにチェックマークを記録します。</td>
+  </tr>
+</tbody></table>
 
 ## ログフィールドのロールアップ {#roll-up-logging-fields}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>フィールド名</strong></td> 
-   <td><strong>説明</strong></td> 
-  </tr> 
-  <tr> 
-   <td>MSE - 最終マーケティングエンゲージメント</td> 
-   <td>マーケティングから最後に入ってきたエンゲージメント。 </td> 
-  </tr> 
-  <tr> 
-   <td>MSE - 最終マーケティングエンゲージメント日</td> 
-   <td>マーケティングからのエンゲージメントのタイムスタンプ。</td> 
-  </tr> 
-  <tr> 
-   <td>MSE - 最終マーケティングエンゲージメントの説明</td> 
-   <td>エンゲージメントの説明。</td> 
-  </tr> 
-  <tr> 
-   <td>MSE - 最終マーケティングエンゲージメントソース</td> 
-   <td>マーケティングエンゲージメントのソース。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - 最終マーケティングエンゲージメントのタイプ</td> 
-   <td colspan="1">エンゲージメントのタイプ。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - セールスによる最終アクティビティ<br></td> 
-   <td colspan="1">セールスチームが最後に実行した外部アクティビティ。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - 最終返信</td> 
-   <td colspan="1">セールスメールに最後に返信したメール。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - 現在のセールスキャンペーン</td> 
-   <td colspan="1">リード／取引先責任者がメンバーの MSE キャンペーンの名前を記録します。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - 最終セールスエンゲージメント</td> 
-   <td colspan="1">セールスから最後に入ってきたエンゲージメント。 </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">MSE - オプトアウト</td> 
-   <td colspan="1">オプトアウトフィールド。</td> 
-  </tr> 
- </tbody> 
-</table>
+<table><thead>
+  <tr>
+    <th>フィールド名</th>
+    <th>説明</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>MSE - 最終マーケティングエンゲージメント</td>
+    <td>マーケティングから最後に入ってきたエンゲージメント。</td>
+  </tr>
+  <tr>
+    <td>MSE - 最終マーケティングエンゲージメント日</td>
+    <td>マーケティングからのエンゲージメントのタイムスタンプ。</td>
+  </tr>
+  <tr>
+    <td>MSE - 最終マーケティングエンゲージメントの説明</td>
+    <td>エンゲージメントの説明。</td>
+  </tr>
+  <tr>
+    <td>MSE - 最終マーケティングエンゲージメントソース</td>
+    <td>マーケティングエンゲージメントのソース。</td>
+  </tr>
+  <tr>
+    <td>MSE - 最終マーケティングエンゲージメントのタイプ</td>
+    <td>エンゲージメントのタイプ。</td>
+  </tr>
+  <tr>
+    <td>MSE - セールスによる最終アクティビティ</td>
+    <td>セールスチームが最後に実行した外部アクティビティ。</td>
+  </tr>
+  <tr>
+    <td>MSE - 最終返信</td>
+    <td>セールスメールに最後に返信したメール。</td>
+  </tr>
+  <tr>
+    <td>MSE - 現在のセールスキャンペーン</td>
+    <td>リード／取引先責任者がメンバーの MSE キャンペーンの名前を記録します。</td>
+  </tr>
+  <tr>
+    <td>MSE - 最終セールスエンゲージメント</td>
+    <td>セールスから最後に入ってきたエンゲージメント。</td>
+  </tr>
+  <tr>
+    <td>MSE - オプトアウト</td>
+    <td>オプトアウトフィールド。</td>
+  </tr>
+</tbody></table>
 
 ## ボタン {#buttons}
 
-| **ボタン名** | **説明** |
-|---|---|
-| MSE メールを送信 | Salesforce からセールスメールを送信します。 |
-| MSE キャンペーンに追加 | Salesforce から MSE キャンペーンに追加します。 |
-| MSE にプッシュ | Salesforce から MSE に取引先責任者をプッシュします。 |
-| MSE で電話 | Salesforce からセールス電話をかけます。 |
+<table><thead>
+  <tr>
+    <th>ボタン名</th>
+    <th>説明</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>MSE メールを送信</td>
+    <td>Salesforce からセールスメールを送信します。</td>
+  </tr>
+  <tr>
+    <td>MSE キャンペーンに追加</td>
+    <td>Salesforce から MSE キャンペーンに追加します。</td>
+  </tr>
+  <tr>
+    <td>MSE にプッシュ</td>
+    <td>Salesforce から MSE に取引先責任者をプッシュします。</td>
+  </tr>
+  <tr>
+    <td>MSE で電話</td>
+    <td>Salesforce からセールス電話をかけます。</td>
+  </tr>
+</tbody>
+</table>
 
 ## 一括アクションボタン {#bulk-action-buttons}
 
-| **ボタン名** | **説明** |
-|---|---|
-| MSE キャンペーンに追加 | Salesforce から MSE キャンペーンに追加します。 |
-| MSE にプッシュ | Salesforce から MSE に取引先責任者をプッシュします。 |
+<table><thead>
+  <tr>
+    <th>ボタン名</th>
+    <th>説明</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>MSE キャンペーンに追加</td>
+    <td>Salesforce から MSE キャンペーンに追加します。</td>
+  </tr>
+  <tr>
+    <td>MSE にプッシュ</td>
+    <td>Salesforce から MSE に取引先責任者をプッシュします。</td>
+  </tr>
+</tbody>
+</table>
 
 ## ユーザガイド {#user-guides}
 
-[Salesforce の MSE カスタムレポート](https://docs.marketo.com/display/docs/assets/mse-custom-reports-in-sf.docx)
+[Salesforceの MSE カスタムレポート](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/reports-and-dashboards.pdf)
 
-[Salesforce 用の MSE](https://docs.marketo.com/display/docs/assets/mse-for-sf-classic.pdf)
+[Salesforce Classic の MSE](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)
 
-[Salesforce Lightning 用の MSE](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)
+[Salesforce Lightning の MSE](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/sfdc-guide-lightning.pdf)
