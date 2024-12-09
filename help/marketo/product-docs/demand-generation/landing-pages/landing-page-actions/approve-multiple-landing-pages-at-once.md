@@ -4,10 +4,10 @@ description: 複数のランディングページを一度に承認する - Mark
 title: 複数のランディングページを一度に承認する
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '85'
+ht-degree: 55%
 
 ---
 
@@ -15,27 +15,27 @@ ht-degree: 100%
 
 1. 「**Design Studio**」に移動します。
 
-   ![](assets/image2014-9-17-11-3a35-3a5.png)
+   ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
 1. 「**ランディングページ**」をクリックします。
 
-   ![](assets/image2014-9-17-11-3a35-3a11.png)
+   ![](assets/approve-multiple-landing-pages-at-once-2.png)
 
-1. 複数のランディングページを選択するには、Ctrl キー（Windows）または Command キー（Mac）を押しながらクリックします。
+1. 目的のランディングページを選択します。
 
-   ![](assets/image2014-9-17-11-3a35-3a19.png)
+   ![](assets/approve-multiple-landing-pages-at-once-3.png)
 
    >[!TIP]
    >
-   >実際のランディングページ名をクリックしないでください。これらはリンクで、ページ自体に移動します。
+   >実際のランディングページ名はクリックしないでください。これらはリンクで、ページ自体に移動します。
 
-1. ランディングページを選択した状態で、**ランディングページのアクション**&#x200B;に移動して、「**承認**」をクリックします。
+1. ランディングページを選択した状態で、「**ランディングページのアクション**」ドロップダウンをクリックし、「**承認**」を選択します。
 
-   ![](assets/image2014-9-17-11-3a35-3a27.png)
+   ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-   完成です。複数のランディングページをすばやく簡単に承認できるようになりました。
+1. 「**承認**」をクリックします。
 
-   ![](assets/image2014-9-17-11-3a35-3a36.png)
+   ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
    >[!TIP]
    >

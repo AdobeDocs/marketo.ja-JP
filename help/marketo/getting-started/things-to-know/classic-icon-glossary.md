@@ -3,7 +3,7 @@ description: クラシックアイコン用語集 - Marketo ドキュメント -
 title: クラシックアイコン用語集
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 96%
@@ -885,3 +885,4 @@ ht-degree: 96%
   </tr> 
  </tbody> 
 </table>
+ 

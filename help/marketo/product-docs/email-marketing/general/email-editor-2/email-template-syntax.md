@@ -4,10 +4,10 @@ description: メールテンプレートの構文 - Marketo ドキュメント -
 title: メールテンプレートの構文
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '2449'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -57,7 +57,7 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ### オプション 2 - mktoText {#option-mktotext}
 
@@ -75,7 +75,7 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ## 画像 {#images}
 
@@ -106,7 +106,7 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### オプション 2 - \&lt;img\> の使用 {#option-use-an-img}
 
@@ -124,11 +124,11 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 * **mktoLockImgStyle**：`<img>` 要素の style プロパティをロックするために使用されます（デフォルトは false）。
 
 例：
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 ## スニペット {#snippets}
 
-地域をスニペットとして定義すると、エンドユーザはこの地域に挿入する承認済みの[スニペット](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)を選択できるようになります。リッチテキスト要素は、メールエディター内からスニペットに変換できますが、特に領域をスニペットとして定義する場合は、リッチテキストに変換できません。スニペット領域を指定するには、`<div>` と「class=”mktoSnippet”」を使用します。
+地域をスニペットとして定義すると、エンドユーザはこの地域に挿入する承認済みの[スニペット](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)を選択できるようになります。リッチテキスト要素は、メールエディター内からスニペットに変換できますが、特に領域をスニペットとして定義する場合は、リッチテキストに変換できません。class=&quot;mktoSnippet&quot;を指定して、`<div>` を使用してスニペット領域を指定できます
 
 必須の属性
 
@@ -141,11 +141,11 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>`
+`<div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div>`
 
 ## 動画 {#video}
 
-地域をビデオとして定義すると、エンドユーザは、メールの内部にサムネール画像（「再生」ボタン付き）として表示される YouTube または Vimeo の URL を挿入できます。ビデオ領域を指定するには、`<div>` と「class=”mktoVideo&quot;」を使用します。
+地域をビデオとして定義すると、エンドユーザは、メールの内部にサムネール画像（「再生」ボタン付き）として表示される YouTube または Vimeo の URL を挿入できます。class=&quot;mktoVideo&quot;の `<div>` を使用して、ビデオ領域を指定できます
 
 必須の属性
 
@@ -158,15 +158,15 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 例:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>`
+`<div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div>`
 
 ## 変数 {#variables}
 
-変数はトークンに似ています。まず、`<meta>` タグを使用してメールテンプレートの `<head>` セクションで定義し、テンプレート全体で必要な回数だけ使用します。テンプレートで定義されているので、エンドユーザはルールに従って値を変更できます。変数は、スコープ内でローカルまたはグローバルとして定義できます。「モジュール」内で変数を使用し（以下を参照）、エンドユーザがそのモジュールを重複した場合、ローカル変数には独立した値が設定され、グローバル変数は両方のモジュールに適用されます。
+変数はトークンに似ています。まず、`<meta>` タグを使用してメールテンプレートの `<head>` セクションで定義し、テンプレート全体で必要な回数だけ使用します。これらはテンプレートで定義されているので、エンドユーザーはルールに従って値を変更できます。 変数は、スコープ内でローカルまたはグローバルとして定義できます。「モジュール」内で変数を使用し（以下を参照）、エンドユーザがそのモジュールを重複した場合、ローカル変数には独立した値が設定され、グローバル変数は両方のモジュールに適用されます。
 
 ## 文字列 {#string}
 
-変数を String として指定した場合、エンドユーザはメールエディターのテキストボックス内にテキストを入力できます。String 変数を指定するには、`<meta>` と「class=“mktoString”」を使用します
+変数を String として指定した場合、エンドユーザはメールエディターのテキストボックス内にテキストを入力できます。class=&quot;mktoString&quot;を使用して、`<meta>` を使用して文字列変数を指定します
 
 必須の属性
 
@@ -181,15 +181,15 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 宣言の例：
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me"></pre>`
+`<meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me">`
 
 使用例：
 
-`<pre data-theme="Confluence">${textHeader}</pre>`
+`${textHeader}`
 
 ## リスト {#list}
 
-変数を List として指定した場合、エンドユーザはメールエディターで定義した値のセットから選択できます。List 変数を指定するには、`<meta>` と「class=“mktoList”」を使用します。
+変数を List として指定した場合、エンドユーザはメールエディターで定義した値のセットから選択できます。class=&quot;mktoList&quot;で `<meta>` を使用して、リスト変数を指定します
 
 必須の属性
 
@@ -204,15 +204,15 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 宣言の例：
 
-`<pre data-theme="Confluence"><meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman"></pre>`
+`<meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman">`
 
 使用例：
 
-`<pre data-theme="Confluence">${textFontFamily}</pre>`
+`${textFontFamily}`
 
 ## 数字 {#number}
 
-変数を数値として指定した場合、エンドユーザはメールエディターで数値を入力できます。Number 変数を指定するには、`<meta>` と「class=“mktoNumber”」を使用します。
+変数を数値として指定した場合、エンドユーザはメールエディターで数値を入力できます。class=&quot;mktoNumber&quot;を使用して、`<meta>` を使用して数値変数を指定します
 
 必須の属性
 
@@ -224,21 +224,21 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 * **min**：最小許容値。
 * **max**：最大許容値。
-* **units**：メールエディターおよび結果のコードに表示される場合に、数値に追加する単位（例：px、pt、em など）。
+* **units:** メールエディターおよび結果コードに表示される際に数値（例：px、pt、em など）に追加される単位。
 * **step**：数値変数の増減単位数（0.1、1、10 など）。省略した場合のデフォルト値は 1 です。
 * **mktoModuleScope**：ブール値。モジュールで使用する場合に、変数をローカル（true）にするかグローバル（false）にするかを制御します。省略した場合のデフォルト値は False です。
 
 宣言の例：
 
-`<pre data-theme="Confluence"><meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> </pre>`
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
 
 使用例：
 
-`<pre data-theme="Confluence">${textFontSize}</pre>`
+`${textFontSize}`
 
 ## 色 {#color}
 
-変数を Color として指定した場合、エンドユーザは 16 進数の色値を入力したり、メールエディター内のカラーピッカーから色を選択したりできます。Color 変数を指定するには、`<meta>` と「class=“mktoColor”」を使用します。
+変数を Color として指定した場合、エンドユーザは 16 進数の色値を入力したり、メールエディター内のカラーピッカーから色を選択したりできます。class=&quot;mktoColor&quot;を使用して、`<meta>` を使用してカラー変数を指定します
 
 必須の属性
 
@@ -252,15 +252,15 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 宣言の例：
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF"></pre>`
+`<meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF">`
 
 使用例：
 
-`<pre data-theme="Confluence">${textColor}</pre>`
+`${textColor}`
 
 ## ブール値 {#boolean}
 
-変数をブール値として指定した場合、エンドユーザはメールエディター内でオプションのオンとオフを切り替えることができます。Boolean 変数を指定するには、`<meta>` と「class=“mktoBoolean”」を使用します。
+変数をブール値として指定した場合、エンドユーザはメールエディター内でオプションのオンとオフを切り替えることができます。class=&quot;mktoBoolean&quot;を使用して、`<meta>` を使用してブール変数を指定します
 
 必須の属性
 
@@ -278,15 +278,15 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 宣言の例：
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES"></pre>`
+`<meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES">`
 
 使用例：
 
-`<pre data-theme="Confluence">${showFooter}</pre>`
+`${showFooter}`
 
 ## HTML ブロック {#html-block}
 
-変数を HTML ブロックとして指定した場合、エンドユーザはメールエディター内から字句の HTML を入力できます。HTML Block 変数を指定するには、`<meta>` と「class=“mktoHTML”」を使用します
+変数を HTML ブロックとして指定した場合、エンドユーザはメールエディター内から字句の HTML を入力できます。class=&quot;mktoHTML&quot;を使用して、`<meta>` を使用してHTMLブロック変数を指定します
 
 必須の属性
 
@@ -300,11 +300,11 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 宣言の例：
 
-`<pre data-theme="Confluence"><meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel"></pre>`
+`<meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel">`
 
 使用例：
 
-`<pre data-theme="Confluence">${trackingPixel}</pre>`
+`${trackingPixel}`
 
 ## 画像変数 {#image-variable}
 
@@ -322,11 +322,11 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 宣言の例：
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
+`<meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg">`
 
 使用例：
 
-`<pre data-theme="Confluence">${heroBackgroundImage}</pre>`
+`${heroBackgroundImage}`
 
 ## モジュール {#modules}
 
@@ -362,7 +362,7 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 コンテナにはモジュールが格納され、それらを配置できる場所を定義します。エンドユーザがモジュールを並べ替えてメールに挿入する際、コンテナは、モジュールの移動先を制御します。
 
-**`<table>`、`<tbody>`、`<thead>`、`<tfoot>`、`<td>` のいずれかと「class=”mktoContainer”」で指定されます**。
+**class=&quot;mktoContainer&quot;を使用して、`<table>`、`<tbody>`、`<thead>`、`<tfoot>` または `<td>` のいずれかを使用して指定**
 
 必須の属性
 
