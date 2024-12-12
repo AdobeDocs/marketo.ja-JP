@@ -3,7 +3,7 @@ description: インタラクティブウェビナーのプロモーション - M
 title: インタラクティブウェビナーのプロモーション
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
+source-git-commit: 88c1e40734a980b54f9d7f056399cf9ec2e0e100
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 66%
@@ -16,7 +16,7 @@ ht-degree: 66%
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
-メンバーが追加またはインポートされたら、インタラクティブウェビナーイベントプログラム内でメールキャンペーンを作成して、すべてのプログラムメンバーに招待状を送信し、電子メールが配信されたらステータスを「招待済み」に変更できます。
+メンバーの追加またはインポートが完了したら、インタラクティブウェビナーイベントプログラム内でメールキャンペーンを作成してすべてのプログラムメンバーに招待状を送信し、電子メールが配信されたらステータスを「招待済み」に変更できます。
 
 >[!NOTE]
 >
