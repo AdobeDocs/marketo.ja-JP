@@ -4,7 +4,7 @@ description: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（En
 title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 93%
@@ -37,7 +37,7 @@ ht-degree: 93%
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. **[!UICONTROL 標準ユーザー]** を選択し、プロファイルに「Marketo - Salesforce Sync」という名前を付けて、「**[!UICONTROL 保存]**」をクリックします。
+1. **[!UICONTROL 標準ユーザー]** を選択し、プロファイルに「Marketo - Salesforce同期」という名前を付けて **[!UICONTROL 保存]** をクリックします。
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -124,20 +124,20 @@ ht-degree: 93%
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1" rowspan="1"><p>オブジェクト</p></th> 
-   <th colspan="1" rowspan="1"><p>フィールド</p></th> 
+   <th>オブジェクト</th> 
+   <th>フィールド</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>アカウント</p></td> 
-   <td colspan="1" rowspan="1"><p>タイプフィールド</p></td> 
+   <td>アカウント</td> 
+   <td>タイプフィールド</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>イベント</p></td> 
-   <td colspan="1" rowspan="1"><p>すべてのフィールド</p></td> 
+   <td>イベント</td> 
+   <td>すべてのフィールド</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>タスク</p></td> 
-   <td colspan="1" rowspan="1"><p>すべてのフィールド</p></td> 
+   <td>タスク</td> 
+   <td>すべてのフィールド</td> 
   </tr> 
  </tbody> 
 </table>
@@ -148,7 +148,7 @@ ht-degree: 93%
 
 >[!TIP]
 >
->専用の Salesforce アカウント（例：`marketo@yourcompany.com`）を作成して、Marketoによる変更と他の Salesforce ユーザーとの違いを確認します。
+>専用のSalesforce アカウント（`marketo@yourcompany.com` など）を作成して、Marketoによる変更を他のSalesforce ユーザーと区別します。
 
 1. ナビゲーション検索バーに「ユーザーを管理」と入力し、「**[!UICONTROL ユーザー]**」をクリックします。「**[!UICONTROL 新規ユーザ]**」をクリックします。
 
