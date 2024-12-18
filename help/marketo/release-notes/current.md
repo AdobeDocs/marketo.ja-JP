@@ -3,7 +3,7 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 30%
@@ -41,23 +41,21 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
   <tr> 
    <td><strong> インタラクティブウェビナーのイベントから登録者を登録解除 </strong>：何らかの理由でウェビナーの登録者が必要ない場合は、登録解除できるようになりました。 ワークフローでは、登録者がMarketo イベントプログラムとAdobe Connectの両方から削除されます。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
   <tr> 
-  <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
+  </tr>
   <tr> 
    <td><strong> アーカイブ時にキャンペーンを無効にする </strong>：アクティブなトリガーキャンペーンを無効にし、アーカイブ時にフォルダー内のキャンペーンのスケジュールされたバッチ実行をキャンセルします。 アクティブなキャンペーンを含むアーカイブフォルダーに対しては追加の権限チェック（「トリガーキャンペーンのアクティブ化」および「バッチキャンペーンのスケジュール」）が行われるので、この機能はこのリリースでデフォルトで無効になり、Marketo Engageサブスクリプションで <b> 管理者 </b>/<b> 宝箱 </b> に移動すると有効になります。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
-  <tr> 
  </tbody> 
 </table>
 <br/>
