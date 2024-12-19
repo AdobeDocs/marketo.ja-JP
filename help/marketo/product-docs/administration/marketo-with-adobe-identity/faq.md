@@ -3,10 +3,10 @@ description: Adobe Identity Management に関するよくある質問 - Marketo 
 title: Adobe Identity Management に関するよくある質問
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
+source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
 workflow-type: tm+mt
-source-wordcount: '1484'
-ht-degree: 98%
+source-wordcount: '1521'
+ht-degree: 95%
 
 ---
 
@@ -130,9 +130,13 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 
 サブスクリプションが Adobe ID にオンボードされると、シングルサインオン（SSO）がアドビ組織レベルで設定されます。つまり、SSO はアドビ組織内のすべての製品インスタンスに適用されます。SSO を設定すると、そのアドビ組織内のすべての Marketo インスタンスに適用されます。以前、Marketo はこの設定をインスタンスレベルでサポートしていました。これは、Adobe Identity Management システムではサポートされていません。
 
-**Adobe ID の移行後、Marketo Engageに現在使用している CNAME、SPF、DKIM に変更は必要ですか？**
+**Adobe ID の移行後、Marketo Engageに現在使用している CNAME、SPF、DKIMに変更は必要ですか？**
 
 いいえ、これらの設定への影響はありません。
+
+**セッションがタイムアウトしないようにするにはどうすればよいですか？**
+
+[ 詳細設定 ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings) で、目的の最大セッション時間をカスタマイズできます（システム管理者権限が必要です）。 この設定は、製品の移行後、ユーザーの移行前に確立することをお勧めします。
 
 **次に、Experience Cloud に移動して Marketo Engage にアクセスする必要があります。このフローを効率化する方法はありますか？**
 
