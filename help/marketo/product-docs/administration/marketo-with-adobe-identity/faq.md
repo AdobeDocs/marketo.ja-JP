@@ -3,7 +3,7 @@ description: Adobe Identity Management に関するよくある質問 - Marketo 
 title: Adobe Identity Management に関するよくある質問
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '1521'
 ht-degree: 95%
@@ -136,7 +136,7 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 
 **セッションがタイムアウトしないようにするにはどうすればよいですか？**
 
-[ 詳細設定 ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings) で、目的の最大セッション時間をカスタマイズできます（システム管理者権限が必要です）。 この設定は、製品の移行後、ユーザーの移行前に確立することをお勧めします。
+[ 詳細設定 ](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} で、目的の最大セッション時間をカスタマイズできます（システム管理者権限が必要です）。 この設定は、製品の移行後、ユーザーの移行前に確立することをお勧めします。
 
 **次に、Experience Cloud に移動して Marketo Engage にアクセスする必要があります。このフローを効率化する方法はありますか？**
 
