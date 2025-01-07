@@ -4,10 +4,10 @@ description: ロールの権限の説明 - Marketo ドキュメント - 製品�
 title: ロール権限の説明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
+source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
 workflow-type: tm+mt
-source-wordcount: '1429'
-ht-degree: 100%
+source-wordcount: '1448'
+ht-degree: 98%
 
 ---
 
@@ -44,6 +44,7 @@ ht-degree: 100%
 * [[!DNL Data.com]](https://data.com) にアクセス - Data.com のフローアクションにアクセスできるようにします
 * メール管理にアクセス - メール管理にアクセスし、登録解除やブランディングドメインなどのデフォルト設定を変更できるようにします
 * イベントパートナーにアクセス - 管理の LaunchPoint にアクセスできるようにします
+* Experience Cloudオーディエンス共有へのアクセス - Adobe Experience CloudのオーディエンスをMarketo Engageに同期するためのアクセス権をユーザーに付与します
 * フィールド管理にアクセス - 管理のフィールド管理にアクセスできるようにします
 * ファイルアップロードにアクセス - 画像やファイルを Design Studio にアップロードできるようにします
 * ランディングページにアクセス - 管理者のランディングページにアクセスできるようにします
