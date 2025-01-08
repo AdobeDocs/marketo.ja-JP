@@ -2,9 +2,10 @@
 description: インタラクティブウェビナーのプロモーション - Marketo ドキュメント - 製品ドキュメント
 title: インタラクティブウェビナーのプロモーション
 feature: Interactive Webinars
-source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '777'
 ht-degree: 56%
 
 ---
@@ -14,6 +15,8 @@ ht-degree: 56%
 インタラクティブウェビナーのプロモーションは、Launchpoint を使用したパートナーウェビナーのプロモーションに似ています。インタラクティブなウェビナーイベントプログラムを作成する際に、キャンペーンを実行するか、プログラムにメンバーをインポートすることでメンバーを追加できます。 インタラクティブウェビナーイベントプログラムに追加されたメンバーを確認するには、「**[!UICONTROL メンバー]**」タブをクリックします。
 
 ![](assets/promoting-an-interactive-webinar-1.png)
+
+## 概要 {#overview}
 
 メンバーの追加またはインポートが完了したら、インタラクティブウェビナーイベントプログラム内でメールキャンペーンを作成してすべてのプログラムメンバーに招待状を送信し、電子メールが配信されたらステータスを「招待済み」に変更できます。
 
