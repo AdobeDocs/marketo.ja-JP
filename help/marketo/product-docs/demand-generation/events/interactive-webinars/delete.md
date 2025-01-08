@@ -2,16 +2,17 @@
 description: インタラクティブウェビナーのプロモーション - Marketo ドキュメント - 製品ドキュメント
 title: インタラクティブウェビナーのプロモーション
 feature: Interactive Webinars
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
 workflow-type: tm+mt
-source-wordcount: '776'
-ht-degree: 56%
+source-wordcount: '654'
+ht-degree: 66%
 
 ---
 
 # インタラクティブウェビナーのプロモーション {#promoting-an-interactive-webinar}
 
-インタラクティブウェビナーのプロモーションは、Launchpoint を使用したパートナーウェビナーのプロモーションに似ています。インタラクティブなウェビナーイベントプログラムを作成する際に、キャンペーンを実行するか、プログラムにメンバーをインポートすることでメンバーを追加できます。 インタラクティブウェビナーイベントプログラムに追加されたメンバーを確認するには、「**[!UICONTROL メンバー]**」タブをクリックします。
+インタラクティブウェビナーのプロモーションは、Launchpoint を使用したパートナーウェビナーのプロモーションに似ています。インタラクティブなウェビナーイベントプログラムを作成する際に、キャンペーンを実行するか、プログラムにメンバーをインポートすることでメンバーを追加できます。 インタラクティブウェビナーイベントプログラムに追加されたメンバーを確認するには、「**メンバー**」タブをクリックします。
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -49,50 +50,13 @@ ht-degree: 56%
 
 **トークンのリスト**
 
-<table><thead>
-  <tr>
-    <th>トークン</th>
-    <th>定義</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>program.webinarCapacity</td>
-    <td>インタラクティブウェビナーに参加できる最大出席者の数。</td>
-  </tr>
-  <tr>
-    <td>program.webinarDuration</td>
-    <td>インタラクティブウェビナーがスケジュールされている期間。</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndDate</td>
-    <td>スケジュールされたインタラクティブウェビナーの終了日。</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndTime</td>
-    <td>インタラクティブウェビナーのスケジュールされた終了時間。</td>
-  </tr>
-  <tr>
-    <td>program.webinarGenericURL</td>
-    <td>オーディエンスのポストウェビナーで共有できる一般的な録画 URL。 この URL はウェビナーのライブ参加用ではなく、オーディエンスのアクティビティを追跡するものではありません。</td>
-  </tr>
-  <tr>
-    <td>program.webinarLanguage</td>
-    <td>ウェビナーが実施される言語。</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartDate</td>
-    <td>スケジュールされたインタラクティブウェビナーの開始日。</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartTime</td>
-    <td>インタラクティブウェビナーのスケジュールされた開始時間。</td>
-  </tr>
-  <tr>
-    <td>program.webinarTimezone</td>
-    <td>インタラクティブウェビナーがスケジュールされているタイムゾーン。</td>
-  </tr>
-  <tr>
-    <td>program.webinarTitle</td>
-    <td>ウェビナーエントリ Screensでオーディエンスに表示されるインタラクティブウェビナーのタイトル。</td>
-  </tr>
-</tbody></table>
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
