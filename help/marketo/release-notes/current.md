@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
+source-git-commit: fa149bb386e98a5b9daa1c7b8933d66b708047c1
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 30%
+source-wordcount: '471'
+ht-degree: 27%
 
 ---
 
@@ -61,6 +61,16 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 <br/>
 
 ## お知らせ {#announcements}
+
+* **ソーシャル機能の廃止**:2024 年 7 月 31 日水曜日（PT）に、Marketo Engage内の次のソーシャル機能の廃止が開始されました。
+
+   * 投票
+   * ソーシャルボタン
+   * 紹介オファー
+   * 動画の共有
+   * 懸賞
+
+その時点では、ユーザーはMarketo Engageでこれらのソーシャル機能を作成、クローン、埋め込むことができません。 既存のソーシャルアセットは、2025 年 1 月 31 日（PT）まで引き続き機能します。 2025 年 2 月 1 日（PT）をもって、ソーシャルアセットは機能しなくなります。 ランディングページに埋め込まれたソーシャル機能を削除する必要があります。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **プログラムメンバー API の更新**:[ プログラムメンバーの取得 ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API が強化され、プログラムメンバーの識別子を取得する機能がサポートされるようになりました。 これを行うには、API リクエストの fields パラメーターで指定されたフィールドのリストに ID を追加します。
 
