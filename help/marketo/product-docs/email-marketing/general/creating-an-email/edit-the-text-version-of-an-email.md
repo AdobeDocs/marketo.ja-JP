@@ -4,10 +4,10 @@ description: メールのテキストバージョンを編集する - Marketo �
 title: メールのテキストバージョンを編集する
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 100%
+source-wordcount: '209'
+ht-degree: 82%
 
 ---
 
@@ -39,4 +39,6 @@ ht-degree: 100%
 
    ![](assets/five-3.png)
 
-これでわかりました。
+>[!CAUTION]
+>
+>動的コンテンツが含まれているメールで「**HTMLからコピー**」または「**HTMLから自動的にコピー**」を選択すると、メールのHTML版とテキスト版の両方のすべてのセグメントに対して、「レビュー済み」フラグが _true_ に設定されます。
