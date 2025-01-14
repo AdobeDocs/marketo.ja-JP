@@ -4,10 +4,10 @@ description: モバイルプッシュ通知の設定 - Marketo ドキュメン�
 title: モバイルプッシュ通知の設定
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 736e21d45d8a62e50f449e0ee6d0fc4df5963dfb
+source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 100%
+source-wordcount: '445'
+ht-degree: 81%
 
 ---
 
@@ -15,31 +15,27 @@ ht-degree: 100%
 
 1. **マーケティング活動**&#x200B;領域に移動します。
 
-![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
+   ![](assets/configure-mobile-push-notification-1.png)
 
 1. プッシュアセットを選択して、「**ドラフトを編集**」をクリックします。
 
-   ![](assets/image2016-8-23-16-3a49-3a48.png)
+   ![](assets/configure-mobile-push-notification-2.png)
 
-1. 「**設定**」に移動します。
+1. **設定** で、目的のアプリを選択します。 Android および Apple プラットフォームは、デフォルトで有効になっています。
 
-   ![](assets/image2016-8-23-16-3a51-3a56.png)
+   ![](assets/configure-mobile-push-notification-3.png)
 
-1. 目的のアプリを選択します。Android および Apple プラットフォームは、デフォルトで有効になっています。
-
-   ![](assets/image2016-8-23-16-3a53-3a33.png)
-
-1. プッシュメッセージが 1 つのプラットフォーム（iPhone の場合など）にのみ適用される場合は、他のプラットフォームのセレクターを「無効」にスライドして除外できます。
-
-   ![](assets/image2016-8-23-16-3a41-3a48.png)
+   >[!NOTE]
+   >
+   >プッシュメッセージが 1 つのプラットフォーム（iOSなど）のみに適用される場合は、セレクターを手動で **無効** にスライドすることで、他のプラットフォームを除外できます。
 
 1. 「**次へ**」をクリックします。
 
-   ![](assets/image2016-8-23-16-3a43-3a28.png)
+   ![](assets/configure-mobile-push-notification-4.png)
 
-1. メッセージテキストを入力するか、トークンアイコンを選択してトークンを追加します。次に、「**タップアクション**」を選択します。
+1. メッセージテキストを入力するか、トークンアイコンを選択してトークンを追加します（このエディターでは、トークンは [ 通常どおりに ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 書式設定されています。複数のトークンを使用できます）。 **タップアクション** を選択します。
 
-   ![](assets/image2015-9-14-16-3a7-3a43.png)
+   ![](assets/configure-mobile-push-notification-5.png)
 
    >[!NOTE]
    >
@@ -55,17 +51,9 @@ ht-degree: 100%
    >
    >**外部 URL** - Marketo 以外のランディングページに移動します。
 
-1. カスタムのタップアクション用のディープリンクを挿入するには、「カスタム」をクリックし、フィールドに「[ディープリンク URI](#deep-link-uris)」と入力します。
+1. カスタムタップアクションにディープリンクを挿入するには、「**カスタム** を選択し、「[ ディープリンク URI](#deep-link-uris)」フィールドに入力します。
 
-   ![](assets/image2016-7-28-16-3a19-3a13.png)
-
-1. トークンを挿入するには、トークンを選択し、デフォルト値を入力して、「挿入」をクリックします。
-
-   >[!NOTE]
-   >
-   >トークンは、テキストボックス内のカーソル位置に表示されます。複数のトークンを使用できます。
-
-   ![](assets/image2015-8-10-14-3a48-3a52.png)
+   ![](assets/configure-mobile-push-notification-6.png)
 
    >[!NOTE]
    >
@@ -73,15 +61,15 @@ ht-degree: 100%
 
 1. iOS のみの場合は、チェックボックスをオンにして、メッセージが届いたときにアプリにサウンドを再生するように指示します。Android ではサウンドは自動的に再生されます。
 
-   ![](assets/ios-tap-and-notification-hand.png)
+   ![](assets/configure-mobile-push-notification-7.png)
 
 1. 他のプラットフォームをプレビューし、「**完了**」をクリックします。
 
-   ![](assets/image2015-9-14-16-3a12-3a34.png)
+   ![](assets/configure-mobile-push-notification-8.png)
 
 1. 「**承認して終了**」をクリックします。
 
-   ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
+   ![](assets/configure-mobile-push-notification-9.png)
 
 これで完了です。これで、プッシュ通知を送信する準備が整いました。
 
@@ -91,7 +79,7 @@ ht-degree: 100%
 
 ディープリンク URI は、スキーム名、パス、識別子の 3 つの部分で構成されます。以下の例では、「myappname」がスキームです。「products」はパスで、「purple-shirt」は識別子です。顧客がタップすると、アプリの製品ページ内（具体的には紫色のシャツアイテム）に移動します。
 
-![](assets/image2016-7-29-12-3a49-3a1.png)
+![](assets/configure-mobile-push-notification-10.png)
 
 ただし、アプリのディープリンク構造は、上記の例とは異なる場合があります。デベロッパーには、ディープリンク URI を定義する多くのオプションがあるので、使用したいページの URI（リンク）をデベロッパーに送信するよう依頼してください。これにより、プッシュメッセージに入力した URI が適切な場所を指すようになります。デベロッパーが実行できる操作について詳しくは、[こちら](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)をご覧ください。
 
