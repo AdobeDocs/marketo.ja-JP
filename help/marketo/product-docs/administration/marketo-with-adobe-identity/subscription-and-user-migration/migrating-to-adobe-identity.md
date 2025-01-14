@@ -3,10 +3,10 @@ description: Adobe ID への移行 - Marketo ドキュメント - 製品ドキ�
 title: Adobe ID への移行
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
-workflow-type: ht
-source-wordcount: '2300'
-ht-degree: 100%
+source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
+workflow-type: tm+mt
+source-wordcount: '2317'
+ht-degree: 97%
 
 ---
 
@@ -35,6 +35,10 @@ ht-degree: 100%
 米国のタイムゾーンを持つすべての Marketo サブスクリプションは、ユーザ移行開始日の午前 0 時（太平洋標準時）から移行されます。他のすべてのサブスクリプションのユーザ移行は、サブスクリプションの指定タイムゾーンの午前 0 時に開始されます。サブスクリプションのユーザ移行が開始されると、ユーザ管理は Marketo 管理者エリアでは使用できなくなり、Adobe Admin Console でのみ行えます。ロール管理は、ローカル（API のみ）ユーザ管理と同様に、Marketo 管理者エリアの「ユーザ＆ロール」タブで引き続き行われます。
 
 アドビは、検証済みのメールを持つすべての Marketo 管理者を最初に自動的に移行します。Adobe ID に移行されると、Marketo 管理者は、Marketo サブスクリプションの製品管理者としてサブスクリプションの Adobe Admin Console に追加され、（以前に持っていた他のロールと共に）Marketo アプリケーション内で Adobe 製品管理者のロールが割り当てられて、Adobe ID にサブスクリプションへのアクセス資格が付与されます。管理者には 2 通のメールが届きます。1 通は管理者が Adobe 製品管理者として割り当てられていることを示し、もう 1 通は管理者の Adobe ID が Marketo 製品へのアクセス資格があることを示します。
+
+>[!IMPORTANT]
+>
+>Adobe IDとのMarketo Engageにアクセスするには、使用権限についてのメールの **招待を承諾** ボタンをクリックする必要があります。
 
 **Marketo 製品管理者のメール**
 
@@ -177,7 +181,7 @@ Marketo 製品管理者は、移行するユーザをいつかのグループに
 
 例えば、管理者は、最初に移行する「パワーユーザ」のグループを選択できます。これらのユーザの移行が正常に完了すると、ユーザ移行をさらにいくつかのバッチにまとめるための様々なユーザグループを、ワークスペース／ビジネスや職務／ロールなどの変数に基づいて選択することができます。または、最初のバッチの成功後に、サブスクリプション内の残りのユーザを移行することにしても構いません。目標は、Adobe ID をユーザにロールアウトする際に最大限の柔軟性を提供することです。
 
-すべてのユーザ移行は同時に行われ、60 秒以内に正常に完了します。特定のユーザに対してユーザの移行が行われている間、ユーザは最大 1 分間アクセスできなくなる可能性があります。これは、ユーザがアプリケーションにログインしている場合に限ります。ユーザ移行が完了すると、Adobe ID を使用して Marketo Engage にログインする方法に関するメールがユーザに届きます。ユーザは、メール内のボタンリンクを使用して招待を受け入れる必要があります。招待を受け入れた後、ユーザは Adobe ID を使用してログインする必要があります。Adobe ID を使用して Marketo Engage にログインする方法については、[こちら](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)を参照してください。
+すべてのユーザ移行は同時に行われ、60 秒以内に正常に完了します。特定のユーザに対してユーザの移行が行われている間、ユーザは最大 1 分間アクセスできなくなる可能性があります。これは、ユーザがアプリケーションにログインしている場合に限ります。ユーザ移行が完了すると、Adobe ID を使用して Marketo Engage にログインする方法に関するメールがユーザに届きます。ユーザーは、メール内のボタンリンクから招待を受け入れる必要があります _事前に_ Adobe IDでログインできます。Adobe IDでMarketo Engageにログインする方法については、こちらを参照してください [](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)。
 
 ![](assets/migrating-to-adobe-identity-18.png)
 
