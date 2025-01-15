@@ -4,10 +4,10 @@ description: ポータルへのシングルサインオンの追加 - Marketo �
 title: ポータルへのシングルサインオンの追加
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
-workflow-type: ht
-source-wordcount: '564'
-ht-degree: 100%
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
+workflow-type: tm+mt
+source-wordcount: '606'
+ht-degree: 88%
 
 ---
 
@@ -25,7 +25,7 @@ SSO を有効にすると、IdP がユーザーの資格情報を検証できる
 
 >[!IMPORTANT]
 >
->これは、Adobe ID にオンボードされたサブスクリプションには適用されません。Adobe ID にオンボードされたサブスクリプションの場合、シングルサインオンは Adobe Admin Console のアドビ組織レベルで設定されます。[詳しくは、こちらを参照してください](https://helpx.adobe.com/enterprise/using/set-up-identity.html?lang=jp){target="_blank"}。
+>これは、Adobe ID にオンボードされたサブスクリプションには適用されません。Adobe ID にオンボードされたサブスクリプションの場合、シングルサインオンは Adobe Admin Console のアドビ組織レベルで設定されます。Adobe Admin Consoleは、現時点では SP-initiated のみをサポートします。 [詳しくは、こちらを参照してください](https://helpx.adobe.com/enterprise/using/set-up-identity.html?lang=jp){target="_blank"}。
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ SSO を有効にすると、IdP がユーザーの資格情報を検証できる
 
 >[!NOTE]
 >
->Marketo は、Identity Provider-initiated（IdP-initiated とも呼ばれます）のみをサポートします。この ID プロバイダーでは、ユーザーが最初に Idp ログインページを起動し、認証してから My Marketo に移動します。
+>Marketoは、ID プロバイダーにより開始される（IdP により開始される）場合にのみサポートします。この場合、ユーザーは、最初に IdP ログインページを起動し、認証を行ってから、マイMarketoに移動します。 Marketoのサブスクリプションが Admin Console に移行された場合、Adobe Admin Consoleでは、現時点では、サービスプロバイダーにより開始された（SP により開始された）サービスのみをサポートします。 SSO エクスペリエンスに変更が加えられている可能性があります。
 
 ## そのほかの備考 {#additional-notes}
 

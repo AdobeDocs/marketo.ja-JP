@@ -3,10 +3,10 @@ description: Adobe Identity Management に関するよくある質問 - Marketo 
 title: Adobe Identity Management に関するよくある質問
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '1521'
-ht-degree: 95%
+source-wordcount: '1595'
+ht-degree: 92%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Identity Management システムは、3 つのコンポーネントで構�
 
 **既存の Marketo Engage サブスクリプションは、いつ IMS と統合されますか？**
 
-既存の Marketo Engage サブスクリプションは現在、更新、再契約イベント、追加などの販売イベントの際に Adobe IMS に移行されています。2024年10月から、販売イベント以外での移行がサポートされるようになりました。
+既存の Marketo Engage サブスクリプションは現在、更新、再契約イベント、追加などの販売イベントの際に Adobe IMS に移行されています。2024 年 10 月現在、セールスイベント以外の移行がサポートされています。
 
 **移行後、Marketo Engage URL は変わりませんか？**
 
@@ -35,6 +35,10 @@ Adobe Identity Management システムは、3 つのコンポーネントで構�
 はい。移行後、Marketo Engage は experience.adobe.com から Adobe Experience Cloud に提供されるようになります。Marketo Engage へのアクセスが中断されないようにするには、IT チームと協力して、[この記事の上部](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}に記載されているすべての Adobe ドメインを許可リストに登録する必要があります。
 
 engagement-xx.marketo.com ドメイン上の Marketo Engage アセットへの以前のリンクとブックマークは引き続き機能する&#x200B;_予定_&#x200B;です。ただし、まず、移動先の URL の Marketo Engage インスタンスにログインする必要があります。例えば、Munchkin ID 123-ABC-456 のインスタンスのスマートキャンペーンのブックマークに移動するには、まず Munchkin ID 123-ABC-456 で Marketo Engage インスタンスにログインする必要があります。
+
+**SSO はサポートされていますか？**
+
+はい。Adobe IMSとの統合は、ユニバーサル ID ユーザーおよび SSO をサポートします。 SSO は Adobe IMS によって駆動され、Adobe Admin Console で組織レベルで設定されます。ただし、Marketo Engageの IdP によるサポートとAdobeの SP によるサポートには違いがあります（[ 詳しくはこちらを参照 ](https://helpx.adobe.com/enterprise/using/set-up-identity.html?lang=jp){target="_blank"}）。 Admin Consoleへの移行後に SSO の違いについてサポートが必要な場合は、[Adobeカスタマーケア ](https://helpx.adobe.com/contact.html){target="_blank"} にお問い合わせください。
 
 **製品管理者とアドビ管理者の違いは何ですか。**
 
