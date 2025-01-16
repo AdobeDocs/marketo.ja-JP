@@ -4,9 +4,10 @@ title: メールテンプレート
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
+exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '1683'
+source-wordcount: '1732'
 ht-degree: 6%
 
 ---
@@ -18,6 +19,10 @@ ht-degree: 6%
 >[!IMPORTANT]
 >
 >この記事は、新しいMarketo EngageメールDesignerベータ版のメンバーのみを対象としています。 普及させないでください。
+
+>[!PREREQUISITES]
+>
+>新しい電子メールデザイナーにアクセスするには、Marketo Engageのサブスクリプションを [AdobeIdentity Management System （IMS） ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、迅速な対応をリクエストする際は、Adobeアカウントチーム （アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
 >[!NOTE]
 >

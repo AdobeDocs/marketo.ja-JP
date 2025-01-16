@@ -4,9 +4,10 @@ title: メールオーサリング
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
+exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1504'
 ht-degree: 5%
 
 ---
@@ -18,6 +19,10 @@ ht-degree: 5%
 >[!IMPORTANT]
 >
 >この記事は、新しいMarketo EngageメールDesignerベータ版のメンバーのみを対象としています。 普及させないでください。
+
+>[!PREREQUISITES]
+>
+>新しい電子メールデザイナーにアクセスするには、Marketo Engageのサブスクリプションを [AdobeIdentity Management System （IMS） ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、迅速な対応をリクエストする際は、Adobeアカウントチーム （アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
 ## メールの作成 {#create-an-email}
 
