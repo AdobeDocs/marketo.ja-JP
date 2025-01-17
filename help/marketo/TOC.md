@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bd3c3a9252c47b868ad64f69da42a552015e6b11
 workflow-type: tm+mt
-source-wordcount: '9383'
+source-wordcount: '9388'
 ht-degree: 99%
 
 ---
@@ -802,6 +802,7 @@ ht-degree: 99%
       + 画像とファイル {#images-and-files}
          + [新しい画像追加ドキュメント](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [画像とファイルを Marketo に追加](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+         + [Adobe ExpressでAssetsを編集](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
          + [アップロードした画像またはファイルの削除](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [アップロードされた画像またはファイルの URL を見つける](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [Web ページからの画像の取得](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
