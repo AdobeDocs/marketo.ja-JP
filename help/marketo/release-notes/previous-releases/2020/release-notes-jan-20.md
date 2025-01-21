@@ -4,7 +4,7 @@ description: リリースノート - 2020 年 1 月 - Marketo ドキュメント
 title: リリースノート - 2020 年 1 月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '827'
 ht-degree: 100%
@@ -40,7 +40,7 @@ ht-degree: 100%
 
 ![（星印）](assets/yellow-star.png)
 
-* **[新しいアカウントの検出（ベータ版）](https://docs.marketo.com/x/WQA6Ag) ![（星）](assets/yellow-star.png)**：アカウントプロファイルを使用して、AI を利用した理想的な顧客プロファイルモデルに基づいて、ABM 戦略の新しいターゲットアカウントを検出します。ABM ターゲティング用の Marketo Engage リードおよびアカウントデータベース内にまだ存在しない、推奨される新しいアカウントと、AI ベースの適合および目的データ指標を表示、選択、インポートします。資格のある顧客プロファイルを持つ顧客はすぐに使用できます。
+* [新しいアカウントの検出（ベータ版）](https://docs.marketo.com/x/WQA6Ag) ![（星）](assets/yellow-star.png)：アカウントプロファイルを使用して、AI を利用した理想的な顧客プロファイルモデルに基づいて、ABM 戦略の新しいターゲットアカウントを検出します。ABM ターゲティング用の Marketo Engage リードおよびアカウントデータベース内にまだ存在しない、推奨される新しいアカウントと、AI ベースの適合および目的データ指標を表示、選択、インポートします。資格のある顧客プロファイルを持つ顧客はすぐに使用できます。
 
 <br> 
 

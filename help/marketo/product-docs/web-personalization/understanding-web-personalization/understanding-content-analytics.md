@@ -4,7 +4,7 @@ description: コンテンツ分析について - Marketo ドキュメント - �
 title: コンテンツ分析について
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 100%
@@ -48,7 +48,7 @@ ht-degree: 100%
    <td colspan="1" rowspan="1">デジタルコンテンツアセットの名前。「<strong>タイトル</strong>」をクリックすると、コンテンツ URL が新しいタブで開きます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>レコメンデーション</strong><strong>アイコン</strong></p><p><strong><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>レコメンデーション</strong><strong>アイコン</strong></p><p><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">コンテンツが<a href="#">コンテンツレコメンデーション</a>に追加されたかどうかを示します。</td> 
   </tr> 
   <tr> 
@@ -60,7 +60,7 @@ ht-degree: 100%
    <td colspan="1" rowspan="1">同じ訪問でコンテンツを表示し、フォームに入力した web 訪問者</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>分析アイコン</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>分析アイコン</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">コンテンツの分析の詳細を見ます</td> 
   </tr> 
   <tr> 
