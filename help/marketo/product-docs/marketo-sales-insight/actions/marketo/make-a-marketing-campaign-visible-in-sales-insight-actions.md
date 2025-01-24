@@ -3,10 +3,10 @@ description: Sales Insight アクションでマーケティングキャンペ�
 title: マーケティングキャンペーンをセールスインサイトアクションに表示
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
+source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 17%
+source-wordcount: '300'
+ht-degree: 16%
 
 ---
 
@@ -34,7 +34,7 @@ Sales Insight Actions を使用すると、ユーザーはtoutapp.comという�
 
    >[!NOTE]
    >
-   >toutapp.com web アプリから _マーケティングキャンペーンに追加_ を使用しているユーザーにマーケティングキャンペーンを表示する場合（これは、web アプリをMarketo Sales Outbox オブジェクト経由で CRM に埋め込んでいる場合も含みます）、「Web サービス API」に設定します。 Salesforceの MSI パネルのリード、連絡先、アカウントページ、またはリードビューと連絡先リストビューの一括アクションボタンでユーザーがアクションを使用した場合にマーケティングキャンペーンを表示するには、「Sales Insight」に更新します
+   >toutapp.com web アプリから _マーケティングキャンペーンに追加_ を使用しているユーザーにマーケティングキャンペーンを表示する場合（これは、web アプリをMarketo Sales Outbox オブジェクト経由で CRM に埋め込んでいる場合も含みます）、Campaign リクエストのソースを「Web サービス API」に設定します。 Salesforceの MSI パネルのリード、連絡先、アカウントページ、またはリードビューと連絡先リストビューの一括アクションボタンでユーザーがアクションを使用する際にマーケティングキャンペーンを表示する場合は、キャンペーンリクエストソースを「Sales Insight」に更新します
 
 1. 「**フロー**」タブをクリックします。
 
