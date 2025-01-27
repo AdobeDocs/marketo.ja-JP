@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 03d6ff3567910ac12898c9b428d14f5d60323039
+source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
 workflow-type: tm+mt
-source-wordcount: '9391'
+source-wordcount: '9394'
 ht-degree: 99%
 
 ---
@@ -740,7 +740,7 @@ ht-degree: 99%
             + [オンデマンドウェビナー](product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md)
             + [イベントワークフロー](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
             + [エンゲージメントダッシュボード](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
-            + [IW 用 MSI](product-docs/demand-generation/events/interactive-webinars/msi-for-iw.md)
+            + [Marketo Sales Insight のインタラクティブウェビナー](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-in-marketo-sales-insight.md)
       + Facebook {#facebook}
          + [Facebook でのカスタムオーディエンスへのリードの追加](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Facebook でのカスタムオーディエンスの作成](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
