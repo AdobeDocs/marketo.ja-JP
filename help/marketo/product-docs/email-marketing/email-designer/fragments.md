@@ -3,7 +3,7 @@ title: フラグメント
 description: メールおよびメールテンプレート用の再利用可能なコンポーネントとしてビジュアルコンテンツフラグメントを作成して使用する方法を説明します。
 hide: true
 hidefromtoc: true
-source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
+source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
 workflow-type: tm+mt
 source-wordcount: '2428'
 ht-degree: 4%
@@ -76,13 +76,13 @@ ht-degree: 4%
 
 ### フラグメントリストのフィルタリング {#filter-the-fragments-list}
 
-検索バーを使用して、名前でフラグメントを検索します。 _フィルター_ アイコン（![ フィルターアイコンを表示/非表示 ](../assets/do-not-localize/icon-filter.svg)）をクリックして、使用可能なフィルターオプションを表示し、必要な設定を選択します。
+検索バーを使用して、名前でフラグメントを検索します。 _フィルター_ アイコン（![ フィルターアイコンを表示/非表示 ](assets/icon-filter.svg)）をクリックして、使用可能なフィルターオプションを表示し、必要な設定を選択します。
 
 スクリーンショット
 
 ### 列表示のカスタマイズ {#customize-the-column-display}
 
-右上の _テーブルをカスタマイズ_ アイコン（![ テーブルアイコンをカスタマイズ ](../assets/do-not-localize/icon-column-settings.svg)）をクリックして、テーブルに表示する列をカスタマイズします。
+右上の _テーブルをカスタマイズ_ アイコン（![ テーブルアイコンをカスタマイズ ](assets/icon-column-settings.svg)）をクリックして、テーブルに表示する列をカスタマイズします。
 
 ダイアログで、目的の列を選択し、「**[!UICONTROL 適用]**」をクリックします。
 
