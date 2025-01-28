@@ -3,9 +3,9 @@ title: フラグメント
 description: メールおよびメールテンプレート用の再利用可能なコンポーネントとしてビジュアルコンテンツフラグメントを作成して使用する方法を説明します。
 hide: true
 hidefromtoc: true
-source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
+source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
 workflow-type: tm+mt
-source-wordcount: '2428'
+source-wordcount: '2429'
 ht-degree: 4%
 
 ---
@@ -236,7 +236,7 @@ ht-degree: 4%
 
 1. コンテンツを更新する場合は、右上の **[!UICONTROL ドラフトバージョンを作成]** をクリックします。
 
-   ダイアログで **[!UICONTROL OK]** をクリックして、ドラフトバージョンをビジュアルデザイナーで開きます。 必要に応じて、[ 画像ソース ](./assets-overview.md#choose-an-asset-source) を変更できます。
+   ダイアログで **[!UICONTROL OK]** をクリックして、ドラフトバージョンをビジュアルデザイナーで開きます。 必要に応じて、`image source` KG - リンクをここで変更できます。
 
 スクリーンショット
 
