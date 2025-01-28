@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
+source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
 workflow-type: tm+mt
-source-wordcount: '9394'
+source-wordcount: '9406'
 ht-degree: 99%
 
 ---
@@ -1061,6 +1061,12 @@ ht-degree: 99%
             + [ストリームコンテンツの可用性の編集](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
             + [ストリームコンテンツの優先順位の決定](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [ストリームコンテンツの削除](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
+      + E メールDesigner {#email-designer}
+         + [概要](product-docs/email-marketing/email-designer/overview.md)
+         + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
+         + [メールテンプレート](product-docs/email-marketing/email-designer/email-templates.md)
+         + [AEM Assetsの操作](product-docs/email-marketing/email-designer/aem-assets.md)
+         + [フラグメント](product-docs/email-marketing/email-designer/fragments.md)
       + メールプログラム {#email-programs}
          + メールプログラムの作成 {#creating-an-email-program}
             + [メールプログラムの作成](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
