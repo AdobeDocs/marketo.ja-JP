@@ -4,9 +4,10 @@ title: メールオーサリング
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '1486'
+source-wordcount: '1611'
 ht-degree: 5%
 
 ---
@@ -20,6 +21,12 @@ ht-degree: 5%
 >新しい電子メールデザイナーにアクセスするには、Marketo Engageのサブスクリプションを [AdobeIdentity Management System （IMS） ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、迅速な対応をリクエストする際は、Adobeアカウントチーム （アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
 ## メールの作成 {#create-an-email}
+
+メールDesignerからのメールは、Design Studio で作成してスマートキャンペーン/リストで参照したり、現時点ではメールプログラムで直接作成/使用したりすることのみ可能です。
+
+>[!BEGINTABS]
+
+>[!TAB デザインスタジオ]
 
 1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用して、Marketo Engageにログインします。
 
@@ -38,6 +45,28 @@ ht-degree: 5%
 1. メール名と件名を入力します。 「**作成**」をクリックします。
 
    ![](assets/create-an-email-4.png)
+
+>[!TAB  メールプログラム ]
+
+1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用して、Marketo Engageにログインします。
+
+1. メールプログラムを検索および選択（または作成）します。
+
+   ![](assets/create-an-email-5.png)
+
+1. 新しいメールを作成するには、次の 2 つの方法があります。 メールプログラムの名前を右クリックして「**新しいローカルアセット**」を選択するか、ダッシュボードのメールボックスで「**+新しいメール**」ボタンをクリックします。 この例では、前者を行います。
+
+   ![](assets/create-an-email-6.png)
+
+1. **メール（新しいエディター）** を選択します。
+
+   ![](assets/create-an-email-7.png)
+
+1. メール名と件名を入力します。 「**作成**」をクリックします。
+
+   ![](assets/create-an-email-8.png)
+
+>[!ENDTABS]
 
 作業は以上です。次に、メールをデザインします。
 
@@ -308,7 +337,7 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
 ## メールの参照 {#reference-an-email}
 
-新しいエディターでメールを作成したら、他のメールと同様に、スマートキャンペーンやスマートリストで参照できます。
+メールをメールプログラム内で作成した場合は、そのプログラムでのみ使用できます。 メールを Design Studio で作成した場合は、他のメールと同様に、スマートキャンペーンやスマートリストから参照できます。
 
 * [ 通常の手順に従う ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ことによって、スマート・リストで参照します。
 
@@ -320,4 +349,4 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
 >[!MORELIKETHIS]
 >
->[ メールテンプレート ](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}：新しいデザイナーでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
+>[ メールテンプレート ](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}：新しいデザイナーでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。

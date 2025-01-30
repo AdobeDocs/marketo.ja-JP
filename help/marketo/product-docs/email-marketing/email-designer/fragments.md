@@ -3,10 +3,11 @@ title: フラグメント
 description: メールおよびメールテンプレート用の再利用可能なコンポーネントとしてビジュアルコンテンツフラグメントを作成して使用する方法を説明します。
 hide: true
 hidefromtoc: true
-source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
+exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '2429'
-ht-degree: 4%
+source-wordcount: '2371'
+ht-degree: 2%
 
 ---
 
@@ -25,13 +26,13 @@ ht-degree: 4%
 
 ## フラグメントへのアクセスと管理 {#access-and-manage-fragments}
 
-ビジュアルフラグメントにアクセスするには、左側のナビゲーションに移動して、**[!UICONTROL コンテンツ管理]**/**[!UICONTROL フラグメント]** をクリックします。 このアクションを実行すると、インスタンスで作成されたすべてのフラグメントを含むリストページがテーブルに表示されます。
+ビジュアルフラグメントにアクセスするには、Design Studio に移動します。 左側のツリーで、「**[!UICONTROL フラグメント（新規）]**」をクリックします。
 
 スクリーンショット
 
-テーブルは _[!UICONTROL 変更済み]_ 列で並べ替えられ、デフォルトでは最近更新されたフラグメントが先頭に表示されます。 列タイトルをクリックして、昇順と降順を切り替えます。
+デフォルトでは、テーブルは _[!UICONTROL Modified]_ 列で並べ替えられ、最近更新されたフラグメントが先頭に表示されます。 その他の列タイトルをクリックすると、並べ替えが変更されます。 もう一度クリックすると、昇順と降順が切り替わります。
 
-### フラグメントのステータスとライフサイクル
+### フラグメントステータス {#fragment-status}
 
 フラグメントステータスは、メールまたはメールテンプレートで使用できるフラグメントの有無と、フラグメントに加えられる変更を決定します。
 
@@ -121,17 +122,7 @@ ht-degree: 4%
 
 ### 構造とコンテンツを追加 {#add-structure-and-content}
 
->[!CONTEXTUALHELP]
->id="ajo-b2b_structure_components_fragment"
->title="構造コンポーネントの追加"
->abstract="構造コンポーネントはフラグメントのレイアウトを定義します。 **構造**&#x200B;コンポーネントをキャンバスにドラッグ＆ドロップして、フラグメントのコンテンツのデザインを開始します。"
-
->[!CONTEXTUALHELP]
->id="ajo-b2b_content_components_fragment"
->title="コンテンツコンポーネントについて"
->abstract="コンテンツコンポーネントは、フラグメントのレイアウトの作成に使用できる空のコンテンツプレースホルダーです。"
-
-{{$include /help/_includes/content-design-components.md}}
+{{$include /help/marketo/_includes/content-design-components.md}}
 
 ### アセットの追加
 
@@ -327,7 +318,7 @@ _[!UICONTROL フラグメント]_ リストページからドラフトバージ�
 
 1. **[!UICONTROL アカウントジャーニー]** に移動し、既存のジャーニーを開くか、新しいジャーニーを作成します。 &lt; – これを再確認します
 
---------- – ここで編集をやめました – --------
+-------- – ここで編集をやめました – --------
 
 1. [_[!UICONTROL  メールを送信 ]_ノード ](./email-authoring.md#add-an-email-action-in-an-account-journey) を作成します。
 
