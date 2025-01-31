@@ -3,14 +3,14 @@ description: メールテンプレート - Marketo ドキュメント – 製品
 title: メールテンプレート
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
 workflow-type: tm+mt
-source-wordcount: '1842'
+source-wordcount: '1843'
 ht-degree: 5%
 
 ---
 
-# メールテンプレート {#email-templates}
+# メールテンプレートオーサリング {#email-template-authoring}
 
 高速で改善された設計プロセスを実現するために、スタンドアロンメールテンプレートを作成して、カスタムコンテンツを簡単に再利用できます。
 
