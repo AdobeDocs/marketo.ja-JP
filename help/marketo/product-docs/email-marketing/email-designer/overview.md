@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '547'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 * [ メールオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：新しいエディターでメールを作成、デザイン、参照する方法について説明します。
 
-* [ メールテンプレート ](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
+* [ メールテンプレート ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
 
 ## よくある質問 {#faq}
 
@@ -63,4 +63,4 @@ ht-degree: 1%
 
 **Marketo Engageのサブスクリプションが IMS （Adobe Admin Console）に移行されたかどうかを確認するにはどうすればよいですか？**
 
-[experience.adobe.com](experience.adobe.com) を使用してMarketo Engageにログインした場合、サブスクリプションは移行されています。
+[Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用してMarketo Engageにログインした場合、サブスクリプションは移行されています。
