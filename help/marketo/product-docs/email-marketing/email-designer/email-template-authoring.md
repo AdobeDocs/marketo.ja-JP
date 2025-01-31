@@ -1,106 +1,66 @@
 ---
-description: メールオーサリング - Marketo ドキュメント – 製品ドキュメント
-title: メールオーサリング
+description: メールテンプレート - Marketo ドキュメント – 製品ドキュメント
+title: メールテンプレート
 hide: true
 hidefromtoc: true
 feature: Email Editor
-exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '1739'
-ht-degree: 4%
+source-wordcount: '1842'
+ht-degree: 5%
 
 ---
 
-# メールオーサリング {#email-authoring}
+# メールテンプレート {#email-templates}
 
-新しいMarketo EngageメールDesignerでメールを作成、パーソナライズ、プレビューする方法について説明します。
+高速で改善された設計プロセスを実現するために、スタンドアロンメールテンプレートを作成して、カスタムコンテンツを簡単に再利用できます。
 
 >[!PREREQUISITES]
 >
 >新しい電子メールデザイナーにアクセスするには、Marketo Engageのサブスクリプションを [AdobeIdentity Management System （IMS） ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、迅速な対応をリクエストする際は、Adobeアカウントチーム （アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
-## メールの作成 {#create-an-email}
+>[!NOTE]
+>
+>新しい E メールデザイナーの E メールテンプレートは、新しい E メールデザイナーでの E メールの作成にのみ使用できます。 古いメールエディターでは参照できません。
 
-メールDesignerからのメールは、Design Studio で作成してスマートキャンペーン/リストで参照したり、現時点ではメールプログラムで直接作成/使用したりすることのみ可能です。
-
->[!BEGINTABS]
-
->[!TAB デザインスタジオ]
+## メールテンプレートの作成 {#create-an-email-template}
 
 1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用して、Marketo Engageにログインします。
 
 1. My Marketoで、「**Design Studio**」を選択します。
 
-   ![](assets/create-an-email-1.png)
+   ![](assets/create-an-email-template-1.png)
 
-1. ツリーで、「**メール （新しいエディター）**」を選択します。
+1. ツリーで、「**メールテンプレート （新しいエディター）**」を選択します。
 
-   ![](assets/create-an-email-2.png)
+   ![](assets/create-an-email-template-2.png)
 
-1. 「**メールを作成** ボタンをクリックします。
+1. 「**テンプレートを作成**」ボタンをクリックします。
 
-   ![](assets/create-an-email-3.png)
+   ![](assets/create-an-email-template-3.png)
 
-1. メール名と件名を入力します。 「**作成**」をクリックします。
+1. テンプレート名とオプションの説明を入力します。 「**作成**」をクリックします。
 
-   ![](assets/create-an-email-4.png)
+   ![](assets/create-an-email-template-4.png)
 
->[!TAB  メールプログラム ]
+## テンプレートをデザイン {#design-your-template}
 
-1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用して、Marketo Engageにログインします。
+_テンプレートをデザイン_ ページで、いくつかのオプションから選択できます。 [ ゼロからデザイン ](#design-from-scratch)、[ 独自のHTMLを読み込む ](#import-html) または [ 既存のテンプレートを選択 ](#choose-a-template) （サンプルまたは既に保存したテンプレートの 1 つ）からデザインします。
 
-1. メールプログラムを検索および選択（または作成）します。
-
-   ![](assets/create-an-email-5.png)
-
-1. 新しいメールを作成するには、次の 2 つの方法があります。 メールプログラムの名前を右クリックして「**新しいローカルアセット**」を選択するか、ダッシュボードのメールボックスで「**+新しいメール**」ボタンをクリックします。 この例では、前者を行います。
-
-   ![](assets/create-an-email-6.png)
-
-1. **メール（新しいエディター）** を選択します。
-
-   ![](assets/create-an-email-7.png)
-
-1. メール名と件名を入力します。 「**作成**」をクリックします。
-
-   ![](assets/create-an-email-8.png)
-
->[!ENDTABS]
-
-作業は以上です。次に、メールをデザインします。
-
-## コンテンツタイプを選択 {#choose-your-content-type}
-
-1. 作成したメールで、「**メールコンテンツを追加**」をクリックします。
-
-   ![](assets/choose-your-content-type-1.png)
-
-1. _メールを作成_ ページが読み込まれます。 次のいずれかのオプションを選択できます。
-
-* ビジュアルメールエディターを使用した [ ゼロからのデザイン ](#design-from-scratch)
-
-* HTMLまたは zip ファイルを使用した [ 独自のHTMLの読み込み ](#import-html)
-
-* [ 既存のテンプレートを選択 ](#choose-a-template) （サンプルまたは既に保存したもの）
+![](assets/design-your-template-1.png)
 
 ### ゼロからデザイン {#design-from-scratch}
 
-メールエディターでゼロから開始する場合は、以下のオプションを使用してコンテンツを定義します。
+シンプルなドラッグ&amp;ドロップ操作で構造要素を追加および移動してコンテンツを定義します。
 
-1. _メールを作成_ ページで、「**ゼロからデザイン**」を選択します。
+1. _テンプレートをデザイン_ ページで、「**ゼロからデザイン**」を選択します。
 
-1. [ 構造とコンテンツ ](#add-structure-and-content) をメールに追加します。
+1. [ 構造とコンテンツ ](#add-structure-and-content) を追加します。
 
-1. [ 画像 ](#add-assets) を追加します。
+### HTMLの読み込み {#import-your-html}
 
-1. コンテンツを [ パーソナライズ ](#personalize-content) します。
-
-1. リンクを確認し、[ トラッキングを編集 ](#edit-url-tracking) します。
-
-### HTML の読み込み {#import-html}
-
-既存のHTMLコンテンツを読み込んでメールをデザインできます。 コンテンツには次のようなものがあります。
+既存のHTMLコンテンツを読み込んで、メールテンプレートをデザインできます。 コンテンツには次のようなものがあります。
 
 * スタイルシートが組み込まれたHTMLファイル
 
@@ -110,17 +70,23 @@ ht-degree: 4%
 >
 >.zip ファイル構造に制限はありません。ただし、.zip フォルダーのツリー構造に合わせて、相対参照を指定する必要があります。
 
-1. テンプレートのデザインページで、「**HTMLを読み込む**」を選択します。
+1. _テンプレートのデザイン_ ページで、「**HTMLの読み込み**」を選択します。
 
 1. 目的のHTMLまたは.zip ファイルをドラッグ&amp;ドロップし（またはコンピューターからファイルを選択し）、「**読み込み**」をクリックします。
 
-   ![](assets/authoring-import-your-html-1.png)
+   ![](assets/import-your-html-1.png)
 
->[!NOTE]
->
->HTMLコンテンツがアップロードされると、コンテンツは互換モードになります。 このモードでは、テキストのパーソナライズ、リンクの追加、コンテンツへのアセットの追加のみを行うことができます。
+   >[!NOTE]
+   >
+   >HTMLコンテンツがアップロードされると、コンテンツは互換モードになります。 このモードでは、テキストのパーソナライズ、リンクの追加、コンテンツへのアセットの追加のみを行うことができます。
 
-[ 視覚的なメールエディターツール ](#add-structure-and-content) を使用して、読み込んだコンテンツに必要な変更を加えることができます。
+1. メールDesignerのコンテンツコンポーネントを活用するには、「**HTMLコンバーター**」タブをクリックし、「**変換**」をクリックします。
+
+   >[!CAUTION]
+   >
+   >`<table>` タグを HTML ファイルの最初のレイヤーとして使用すると、上部レイヤータグの背景や幅の設定などのスタイルが失われる可能性があります。
+
+読み込んだファイルを、必要に応じてビジュアルメールエディターでパーソナライズできるようになりました。
 
 ### テンプレートを選択 {#choose-a-template}
 
@@ -140,11 +106,11 @@ ht-degree: 4%
 
 1. 使用するテンプレートを選択します。
 
-   ![](assets/authoring-sample-templates-1.png)
+   ![](assets/sample-templates-1.png)
 
 1. 「**このテンプレートを使用**」をクリックします。
 
-   ![](assets/authoring-sample-templates-2.png)
+   ![](assets/sample-templates-2.png)
 
 1. ビジュアルコンテンツデザイナーを使用して、必要に応じてコンテンツを編集します。
 
@@ -152,11 +118,11 @@ ht-degree: 4%
 
 1. 「**保存済みのテンプレート**」タブをクリックし、目的のテンプレートを選択します。
 
-   ![](assets/authoring-saved-templates-1.png)
+   ![](assets/saved-templates-1.png)
 
 1. 「**このテンプレートを使用**」をクリックします。
 
-   ![](assets/authoring-saved-templates-2.png)
+   ![](assets/saved-templates-2.png)
 
 1. ビジュアルコンテンツデザイナーを使用して、必要に応じてコンテンツを編集します。
 
@@ -170,7 +136,7 @@ ht-degree: 4%
    >
    >n:n 列コンポーネントを選択して、列数（3～10）を任意に定義します。 また、列の下に矢印を移動して、各列の幅を定義することもできます。
 
-   ![](assets/authoring-add-structure-and-content-1.png)
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -178,7 +144,7 @@ ht-degree: 4%
 
 1. 「コンテンツ」セクションから、目的の項目をドラッグして、1 つ以上の構造コンポーネントにドロップします。
 
-   ![](assets/authoring-add-structure-and-content-2.png)
+   ![](assets/add-structure-and-content-2.png)
 
 1. 各コンポーネントは、「設定」タブまたは「スタイル」タブでカスタマイズできます。 フォント、テキストスタイル、余白などを変更します。
 
@@ -208,11 +174,11 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
 1. 画像にアクセスするには、アセットセレクターアイコンをクリックします。
 
-   ![](assets/authoring-add-assets-1.png)
+   ![](assets/add-assets-1.png)
 
 1. 目的の画像を構造コンポーネントにドラッグ&amp;ドロップします。
 
-   ![](assets/authoring-add-assets-2.png)
+   ![](assets/add-assets-2.png)
 
    >[!NOTE]
    >
@@ -222,7 +188,7 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
 ナビゲーションツリーを開いて、特定の構造とその列/コンポーネントにアクセスし、より詳細な編集を行います。 アクセスするには、ナビゲーションツリーアイコンをクリックします。
 
-![](assets/authoring-layers-settings-styles-1.png)
+![](assets/layers-settings-styles-1.png)
 
 次の例では、列で構成される構造コンポーネント内のパディングと垂直方向の整列を調整する手順を概説します。
 
@@ -232,7 +198,7 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
    構造ツリーから選択することもできます。 その列の編集可能なパラメーターは、右側の _[!UICONTROL 設定]_ タブと _[!UICONTROL スタイル]_ タブに表示されます。
 
-   ![](assets/authoring-layers-settings-styles-2.png)
+   ![](assets/layers-settings-styles-2.png)
 
 1. 列のプロパティを編集するには、右側の「_[!UICONTROL スタイル]_」タブをクリックし、必要に応じて変更します。
 
@@ -247,7 +213,7 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
    * 「**[!UICONTROL 詳細]**」セクションを展開すると、列のインラインスタイルを定義できます。
 
-   ![](assets/authoring-layers-settings-styles-3.png)
+   ![](assets/layers-settings-styles-3.png)
 
 1. 必要に応じてこれらの手順を繰り返し、コンポーネント内の他の列の整列とパディングを調整します。
 
@@ -259,15 +225,15 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
 1. テキストコンポーネントを選択します。 トークンを表示する位置にカーソルを置き、「**パーソナライゼーションを追加** アイコンをクリックします。
 
-   ![](assets/authoring-personalize-content-1.png)
+   ![](assets/personalize-content-1.png)
 
 1. 目的の [ トークンタイプ ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} をクリックします。
 
-   ![](assets/authoring-personalize-content-2.png)
+   ![](assets/personalize-content-2.png)
 
 1. 目的のトークンを見つけて「**...**」アイコンをクリックします（「+」アイコンをクリックすると、代替テキストのないトークンが追加されます）。
 
-   ![](assets/authoring-personalize-content-3.png)
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
@@ -275,7 +241,7 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
 1. 代替テキストを設定し、「**追加**」をクリックします。
 
-   ![](assets/authoring-personalize-content-4.png)
+   ![](assets/personalize-content-4.png)
 
 1. 「**保存**」をクリックします。
 
@@ -285,13 +251,13 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
 1. リンクアイコンをクリックして、メール内のすべての URL を表示します。
 
-   ![](assets/authoring-edit-url-tracking-1.png)
+   ![](assets/edit-url-tracking-1.png)
 
 1. 鉛筆アイコンをクリックして、目的のリンクのトラッキングを編集します。
 
 1. **トラッキングタイプ** ドロップダウンをクリックし、選択を行います。
 
-   ![](assets/authoring-edit-url-tracking-2.png)
+   ![](assets/edit-url-tracking-2.png)
 
    <table><tbody>
      <tr>
@@ -313,56 +279,94 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
 1. 終了したら「**保存**」をクリックします。
 
-## アラートを確認 {#check-alerts}
+### オプションを表示 {#view-options}
 
-コンテンツを設計する際、キー設定が見つからない場合は、画面の右上にアラートが表示されます。
+ビジュアルメールエディターで使用できる表示およびコンテンツの検証オプションを活用します。
 
-アラートには次の 2 種類があります。
+* プリセットのズームオプションを使用して、コンテンツをズームイン/ズームアウトします。
 
-**警告**
+* デスクトップ、モバイル、テキストのみ/プレーンテキストのいずれかでコンテンツを表示します。
 
-警告は、次のような推奨事項やベストプラクティスを示しています。
+   * デバイス間でコンテンツをプレビューするには、ライブビュー（目）アイコンをクリックします。
 
-* **メール本文にオプトアウトリンクがありません**：購読解除リンクは必須ですが、メール本文に追加するのがベストプラクティスです。
+   * 標準提供のデバイスの 1 つを選択するか、カスタムサイズを入力してコンテンツをプレビューします。
 
->[!NOTE]
->
->[ 運用中のメール ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) （マーケティング以外）に購読解除オプションの追加は必要ありません。
+### 詳細オプション {#more-options}
 
-* **HTMLのテキストバージョンが空です**:HTMLコンテンツを表示できない場合に備えて、メール本文のテキストバージョンを定義する必要があります。
+コンテンツエディターの **その他** オプションで、次の操作を実行できます。
 
-* **メールの本文に空のリンクが存在します**：メール内のすべてのリンクが正しいことを確認します。
+![](assets/more-options-1.png)
 
-* **メールのサイズが 100KB の制限を超えています**：配信を最適化するには、メールのサイズが 100KB を超えないようにしてください。
+* **テンプレートをリセット**：ビジュアルメールデザイナーキャンバスを空白のスレートにクリアし、コンテンツの作成を再開するには、これを選択します。
 
-**エラー**
+* **デザインを変更**:_テンプレートのデザイン_ ページに戻ります。 ここから、「[ テンプレートのデザイン ](#design-your-template) セクションで説明されている通りのアクションを実行できます。
 
-エラーは、解決されるまでメールの送信やテストを行うことはできません。
+* **書き出しHTML**：ビジュアルキャンバスのコンテンツを、zip ファイルとしてパッケージ化されたHTML形式でローカルシステムにダウンロードします。
 
-* **件名がありません**：電子メールの件名が必要です。
+## テンプレートの詳細を表示 {#view-template-details}
 
-* **メッセージのメールバージョンが空です**：このエラーは、メールのコンテンツが設定されていない場合に発生します。
+_メールテンプレート_ リストページで、メールテンプレートの名前をクリックして、詳細を表示します。
 
-## メールのテスト {#test-your-email}
+ （assets/view-template-details-1.png
 
-メッセージコンテンツを定義したら、テストプロファイルを使用してプレビュー、配達確認の送信、一般的なデスクトップ、モバイルおよび web ベースのクライアントでのレンダリング方法の制御を行うことができます。 パーソナライズされたコンテンツを挿入した場合は、テストプロファイルデータを使用して、メッセージでのコンテンツの表示方法を確認できます。
+名前や説明などの基本的な詳細を編集できます。 編集したフィールドの外側をクリックして、変更を保存します。
 
-メールコンテンツをプレビューするには、「**コンテンツをシミュレート**」をクリックし、テストプロファイルを追加して、テストプロファイルデータを使用してメッセージを確認します。
+**詳細** をクリックすると、テンプレートをすばやく削除または複製できます。
 
-![](assets/test-your-email-1.png)
-
-## メールの参照 {#reference-an-email}
-
-メールをメールプログラム内で作成した場合は、そのプログラムでのみ使用できます。 メールを Design Studio で作成した場合は、他のメールと同様に、スマートキャンペーンやスマートリストから参照できます。
-
-* [ 通常の手順に従う ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ことによって、スマート・リストで参照します。
-
-* スマートキャンペーンで参照するには [ 通常の手順に従います ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
+アクティブなアラート（メールテンプレートのエラー/警告）がある場合は、「アラート」をクリックして情報を表示します。
 
 >[!NOTE]
 >
->参照できるのは、保存済みのメールのみです。 新しい電子メールデザイナーには「承認済み」ステータスはありません。
+>これらのアラートでは、メールの作成にメールテンプレートの使用は禁止されませんが、情報によって、機能しない可能性のある内容と、メールを配信に使用する前に必要な更新に関する可視性が提供されます。
+
+## 参照別に使用される E メール テンプレートの表示 {#email-template-used-by-references}
+
+メールテンプレートの概要で、「**使用者**」タブをクリックして、このメールテンプレートがMarketo Engage内で使用されている場所の詳細を表示します。
+
+![](assets/email-template-used-by-references-1.png)
+
+## メールテンプレートの編集 {#edit-email-templates}
+
+このアクションは、次の場所から実行できます。
+
+* 「詳細」タブ – 「**メールテンプレートを編集**」をクリックします。
+
+このアクションを実行すると、メールテンプレートが最後に保存されたステータスに基づいて、_テンプレートをデザイン_ ページまたはビジュアルコンテンツエディターページに移動します。 ここから、必要に応じてメールテンプレートのコンテンツを編集できます。 編集オプションについては、メールテンプレートの作成を参照してください。
+
+## メールテンプレートの複製 {#duplicate-email-templates}
+
+メールテンプレートを複製するには、次の 2 つの方法があります。
+
+* 右側のメールテンプレートの詳細で、「**詳細**」をクリックし、「**複製**」を選択します。
+
+  ![](assets/duplicate-email-templates-1.png)
+
+* _メールテンプレート_ リストページで、目的のメールテンプレートの「その他のアクション」アイコン（3 つのドット）をクリックし、「**複製**」を選択します。
+
+ダイアログで、一意の名前と説明（オプション）を入力します。 終了したら「**複製**」をクリックします。
+
+複製されたメールテンプレートが _メールテンプレート_ リストページに表示されます。
+
+## メールテンプレートの削除 {#delete-email-templates}
+
+メールテンプレートを削除する方法は 2 つあります。
+
+>[!CAUTION]
+>
+>メールテンプレートの削除は元に戻すことができません。
+
+* 右側のメールテンプレートの詳細で、「**詳細**」をクリックし、「**削除**」を選択します。
+
+  ![](assets/delete-email-templates-1.png)
+
+* _メールテンプレート_ リストページで、目的のメールテンプレートの「その他のアクション」アイコン（3 つのドット）をクリックし、「**削除**」を選択します。
+
+## 一括アクション {#bulk-actions}
+
+_メールテンプレート_ リストページで、左側のチェックボックスをオンにして複数のテンプレートを選択します。 下部にバナーが表示されます。
+
+**削除**：一度に最大 20 個のテンプレートを削除できます。 確認ダイアログでは、アクションを中止したり、削除を確認したりできます。
 
 >[!MORELIKETHIS]
 >
->[ メールテンプレート ](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}：新しいデザイナーでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
+>[ メールオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：新しいデザイナーでメールを作成、デザイン、参照する方法を説明します。
