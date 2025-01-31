@@ -4,9 +4,9 @@ description: メールおよびメールテンプレート用の再利用可能�
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: 7076f020035b5751328e34620f3992f49da82290
 workflow-type: tm+mt
-source-wordcount: '2395'
+source-wordcount: '2396'
 ht-degree: 2%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 2%
 
 ビジュアルフラグメントにアクセスするには、Design Studio に移動します。 左側のツリーで、「**[!UICONTROL フラグメント（新規）]**」をクリックします。
 
-スクリーンショット
+![ フラグメントへのアクセス ](assets/fragments-1.png){width="600" zoomable="yes"}
 
 デフォルトでは、テーブルは「_[!UICONTROL 変更済み]_ 列で並べ替えられます。 その他の列タイトルをクリックして、テーブルの並べ替え基準を変更します。 もう一度クリックすると、昇順と降順が切り替わります。
 
