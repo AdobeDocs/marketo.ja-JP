@@ -1,13 +1,11 @@
 ---
 description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 1%
 
 ---
@@ -20,7 +18,7 @@ ht-degree: 1%
 >
 >新しい電子メールデザイナーにアクセスするには、Marketo Engageのサブスクリプションを [AdobeIdentity Management System （IMS） ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、迅速な対応をリクエストする際は、Adobeアカウントチーム （アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
-新しい E メールDesignerは、Marketo Engageの最新のイノベーションであり、標準の標準の標準テンプレートと共に視覚的なドラッグ&amp;ドロップエディターを提供することで、生産性と効率を向上させる改良された E メールおよび E メールテンプレートの作成体験を提供することを目的としています。 ベンダーにお金をかけることなく、カスタマイズされたメールテンプレートを簡単に作成できます。
+この新しい E メールデザイナーはMarketo Engageの最新のイノベーションであり、標準の標準の標準テンプレートと共に視覚的なドラッグ&amp;ドロップエディターを提供することで、生産性と効率を向上させるために、改善された E メールおよび E メールテンプレートの作成体験を提供することを目的としています。 ベンダーにお金をかけることなく、カスタマイズされたメールテンプレートを簡単に作成できます。
 
 新しいデザイナーで作成したメールは、メールプログラムやスマートリスト/キャンペーンで使用できます。 デザイナーに対する強力な新しい機能強化は、近日中に提供されます。
 
@@ -55,7 +53,7 @@ ht-degree: 1%
 
 **新しい E メールデザイナーは AMP 言語をサポートしていますか？**
 
-基本バージョンは現時点では AMP をサポートしていません。
+現時点では、AMP のサポートはありません。
 
 **属性別の動的コンテンツは優れていますが、セグメント別の動的コンテンツは引き続き機能しますか？**
 
