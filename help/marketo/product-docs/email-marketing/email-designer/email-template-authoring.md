@@ -2,8 +2,10 @@
 description: メールテンプレート - Marketo ドキュメント – 製品ドキュメント
 title: メールテンプレート
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 5%
@@ -162,7 +164,7 @@ _テンプレートをデザイン_ ページで、いくつかのオプショ�
 
 メールを保存すると、フラグメントの詳細ページの _[!UICONTROL 送信者]_ タブに表示されます。 メールテンプレートに追加されたフラグメントは、テンプレート内では編集できません。ソースフラグメントがコンテンツを定義します。
 
-### Assetsを追加 {#add-assets}
+### アセットの追加 {#add-assets}
 
 Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
 

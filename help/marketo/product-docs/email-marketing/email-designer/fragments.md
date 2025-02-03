@@ -4,9 +4,9 @@ description: メールおよびメールテンプレート用の再利用可能�
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7076f020035b5751328e34620f3992f49da82290
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2402'
 ht-degree: 2%
 
 ---
@@ -314,7 +314,7 @@ _[!UICONTROL フラグメント]_ リストページからドラフトバージ�
 
 >[!TAB  メールへのフラグメントの追加 ]
 
-1. **[!UICONTROL アカウントジャーニー]** に移動し、既存のジャーニーを開くか、新しいジャーニーを作成します。 &lt; – これを再確認します
+1. **[!UICONTROL アカウントジャーニー]** に移動し、既存のジャーニーを開くか、新しいジャーニーを作成します。 &lt; - メールまたはメールテンプレート内の場合のみ
 
 -------- – ここで編集をやめました – --------
 
