@@ -4,10 +4,10 @@ description: 人物のリストのインポート - Marketo ドキュメント -
 title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
-workflow-type: ht
-source-wordcount: '508'
-ht-degree: 100%
+source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+workflow-type: tm+mt
+source-wordcount: '565'
+ht-degree: 89%
 
 ---
 
@@ -44,6 +44,8 @@ ht-degree: 100%
    >* メールアドレスには、ASCII 文字のみを含める必要があります。
    >
    >* Marketo は、絵文字を含むメールアドレスを&#x200B;**サポートしていません**。
+   >
+   >* CSV を介して `NULL` 値を読み込むと、（フィールドが既に空白の場合でも _、ユーザーの [ アクティビティログ ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} の数値フィールドに「データ値を変更」が生成される場合があ_ ます。 「Data Value Changed」フィルターまたは「Data Value Changes」トリガーを使用する [ スマートキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} がある場合は、必ず [ 制約 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} を使用して、読み込みを実行する際に不必要にトリガーされないようにします。
 
 ## 手順 2：プログラムを作成する {#step-create-a-program}
 
@@ -137,7 +139,7 @@ ht-degree: 100%
 
 トレードショーの出席者は、Marketo プログラムのメンバーになりました。
 
-<br>
+<br> 
 
 [◄ ミッション 4：メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 

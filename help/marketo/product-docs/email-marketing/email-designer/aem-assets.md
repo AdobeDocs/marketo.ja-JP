@@ -3,48 +3,57 @@ title: Experience Manager Assets の操作
 description: Adobe Marketo Engageでコンテンツをオーサリングする際に、接続されたAEM Assets リポジトリの画像アセットを使用する方法について説明します。
 hide: true
 hidefromtoc: true
-source-git-commit: 402f8da4fdb92619d561fe4acb8aead0d9701c51
+exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
+source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '617'
 ht-degree: 1%
 
 ---
 
 # Experience Managerアセットの操作 {#work-with-experience-manager-assets}
 
-_Adobe Experience Manager Assetsのas a Cloud Service_ がAdobe Marketo Engageと統合されると、マーケティングコンテンツで使用するデジタルアセットに簡単にアクセスできます。 コンテンツを作成する際に、左側のナビゲーションの _[!UICONTROL Assets]_ 項目から、またメールコンテンツを作成する際に、アセットにアクセスできます。 また、Marketo Engageから直接、接続された _AEM Assetsas a Cloud Service_ リポジトリにアセットをアップロードできます。 &lt;------- NILESH がチェックします
+_Adobe Experience Manager Assetsのas a Cloud Service_ がAdobe Marketo Engageと統合されると、マーケティングコンテンツで使用するデジタルアセットに簡単にアクセスできます。 コンテンツを作成する際に、左側のナビゲーションの _[!UICONTROL Experience Manager Assets]_ からアセットにアクセスできます。
+
+>[!PREREQUISITES]
+>
+>MKTO/AEM ドキュメントに接続します。
 
 >[!NOTE]
 >
->現在、Marketo Engageでは _0}Adobe Experience Manager Assets} の画像アセットのみがサポートされています。_&lt;---- NILESH WILL CHECK — アセットに対する変更は、Adobe Experience Manager Assets中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>現在、Marketo Engageでは _0}Adobe Experience Manager Assets} の画像アセットのみがサポートされています。_&#x200B;アセットに対する変更は、Adobe Experience Manager Assets中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
 
 これらのデジタルアセットを使用すると、_Assetsas a Cloud Serviceの最新の変更が_ リンクされた参照を通じてライブ メールキャンペーンに自動的に伝えられます。 _Adobe Experience Manager Assetsのas a Cloud Service_ で画像を削除すると、メール内で画像が壊れた参照と共に表示されます。 現在Marketo Engageで使用されているアセットが変更または削除されると、画像の変更がメール作成者に通知されます。 アセットに対するすべての変更は、Adobe Experience Manager Assets中央リポジトリで行う必要があります。
 
 ## AEM Assetsを画像ソースとして使用 {#use-aem-assets-as-the-image-source}
 
-お使いの環境に 1 つ以上のAssets リポジトリ接続がある場合、メール、メールテンプレートまたはビジュアルフラグメントの詳細を作成または表示するときに、AEM Assetsをアセットのソースとして指定できます。
+お使いの環境に 1 つ以上のアセットリポジトリ接続がある場合、メール、メールテンプレートまたはビジュアルフラグメントの詳細を作成または表示するときに、AEM Assetsをアセットのソースとして指定できます。
 
 * 新しいコンテンツを作成する場合は、ダイアログで `AEM Assets` を **[!UICONTROL Image Source]** 項目として選択します。
 
 ![ 作成ダイアログで画像のソースとしてAEM Assetsを選択する ](assets/work-with-experience-manager-assets-1.png){width="400"}
 
-* 既存のコンテンツリソースを開く場合は、右側の _[!UICONTROL 本文]_ パネルで `AEM Assets` を選択します。
+* 既存のコンテンツリソースを開く場合は、右側の _[!UICONTROL 本文]_ セクションで `AEM Assets` を選択します。
 
 ![ プロパティで画像のソースとしてAEM Assetsを選択する ](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
-## オーサリング用アセットへのアクセス
+## オーサリング用アセットへのアクセス {#access-assets-for-authoring}
 
 >[!IMPORTANT]
 >
 >管理者は、アセットにアクセスする必要があるユーザーをAssets コンシューマーユーザー製品プロファイルまたはAssets ユーザー製品プロファイルに追加する必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
-ビジュアルコンテンツエディターで、左側のサイドバーにある _アセットセレクター_ アイコンをクリックします。 これにより、ツールパネルが、選択したリポジトリで使用可能なアセットのリストに変更されます。
+ビジュアルコンテンツエディターで、左側のサイドバーにある「_Experience Managerアセットセレクター_」アイコンをクリックします。 これにより、ツールパネルが、選択したリポジトリで使用可能なアセットのリストに変更されます。
 
 ![Assets セレクターアイコンをクリックして、画像アセットにアクセスする ](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"}
 
-複数のAEM リポジトリが接続されている場合は、「**[!UICONTROL リポジトリ]**」のメニュー矢印をクリックして、使用するリポジトリを選択します。
+複数のAEM リポジトリが接続されている場合は、「**[!UICONTROL 名前を付けて管理]**」ボタンをクリックして、使用するリポジトリを選択します。
 
 ![AEM Assets リポジトリを選択して画像アセットにアクセスする ](assets/work-with-experience-manager-assets-4.png){width="700" zoomable="yes"}
+
+目的のリポジトリを選択します。
+
+![AEM Assets リポジトリを選択して画像アセットにアクセスする ](assets/work-with-experience-manager-assets-five.png)
 
 画像アセットをビジュアルキャンバスに追加するには、複数の方法があります。
 
