@@ -4,16 +4,16 @@ description: Adobe Marketo Engageでコンテンツをオーサリングする�
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
 workflow-type: tm+mt
-source-wordcount: '617'
+source-wordcount: '598'
 ht-degree: 1%
 
 ---
 
 # Experience Managerアセットの操作 {#work-with-experience-manager-assets}
 
-_Adobe Experience Manager Assetsのas a Cloud Service_ がAdobe Marketo Engageと統合されると、マーケティングコンテンツで使用するデジタルアセットに簡単にアクセスできます。 コンテンツを作成する際に、左側のナビゲーションの _[!UICONTROL Experience Manager Assets]_ からアセットにアクセスできます。
+_Adobe Experience Manager Assetsのas a Cloud Service_ がAdobe Marketo Engageと統合されると、マーケティングコンテンツで使用するデジタルアセットに簡単にアクセスできます。
 
 >[!PREREQUISITES]
 >
