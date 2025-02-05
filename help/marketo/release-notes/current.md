@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 50c60e6b82215f59ec20e4872ff7a72edbb3681f
+source-git-commit: 6f2c91d31b1d2ea3f2977aa3c9b1ca40e5459a16
 workflow-type: tm+mt
 source-wordcount: '551'
-ht-degree: 24%
+ht-degree: 23%
 
 ---
 
@@ -34,8 +34,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
     <tr> 
    <td><strong> 新しいメールDesigner</strong>:Marketo Engageの新しいネイティブなメールDesignerを使用して、最新の効率的なメールを作成します。 事前に設計された既製のメールテンプレートの 1 つにアクセスするか、独自のテンプレートを簡単に作成できます。 動的コンテンツを使用し、Adobe Experience Manager Cloud Services から画像にアクセスします。 コンテンツアクセラレーターの Gen-AI 機能を使用すると、革新的でパフォーマンスの高いメールを大規模に作成できます。
    <p><img src="assets/note-icon.png" alt="メモアイコン"> 注意：新しい電子メール デザイナーにアクセスするには、Marketo Engageのサブスクリプションを <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System （IMS） </a> に移行する必要があります。 まだの場合は、迅速な対応をリクエストする際は、Adobeアカウントチーム （アカウントマネージャー）または <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo サポート </a> にお問い合わせください。 コンテンツアクセラレーターの Gen-AI 機能を利用するには、Adobeアカウントチームにお問い合わせください。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>出荷済み</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">E メールDesignerの概要</a></td>
   </tr>
   <tr> 
    <td> </td> 
