@@ -4,7 +4,7 @@ description: Adobe Marketo Engageでコンテンツをオーサリングする�
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 1%
@@ -53,13 +53,13 @@ _Adobe Experience Manager Assetsのas a Cloud Service_ がAdobe Marketo Engage�
 
 目的のリポジトリを選択します。
 
-![AEM Assets リポジトリを選択して画像アセットにアクセスする ](assets/work-with-experience-manager-assets-five.png)
+![AEM Assets リポジトリを選択して画像アセットにアクセスする ](assets/work-with-experience-manager-assets-5.png)
 
 画像アセットをビジュアルキャンバスに追加するには、複数の方法があります。
 
 * 左側のナビゲーションから画像サムネールをドラッグ&amp;ドロップします。
 
-![AEM Assets リポジトリを選択して画像アセットにアクセスする ](assets/work-with-experience-manager-assets-5.png){width="700" zoomable="yes"}
+![AEM Assets リポジトリを選択して画像アセットにアクセスする ](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
 * キャンバスに画像コンポーネントを追加し、「参照 **[!UICONTROL をクリックして]** Assetsを選択 _[!UICONTROL ダイアログを開き]_ す。
 
@@ -67,7 +67,7 @@ _Adobe Experience Manager Assetsのas a Cloud Service_ がAdobe Marketo Engage�
 
   必要なアセットを見つけるのに役立つツールが複数あります。
 
-![Assetsを選択ダイアログのツールを使用し、画像アセットを探して選択します ](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
+![Assetsを選択ダイアログのツールを使用し、画像アセットを探して選択します ](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * 右上の **[!UICONTROL リポジトリ]** を変更します。
 
@@ -83,4 +83,4 @@ _Adobe Experience Manager Assetsのas a Cloud Service_ がAdobe Marketo Engage�
 
 * 「検索」フィールドにテキストを入力して、表示される項目をアセット名と一致するようにフィルタリングします。
 
-![ フィルターと検索フィールドを使用してアセットを検索します ](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![ フィルターと検索フィールドを使用してアセットを検索します ](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
