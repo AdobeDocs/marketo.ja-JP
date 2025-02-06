@@ -3,9 +3,9 @@ description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '564'
 ht-degree: 1%
 
 ---
@@ -27,6 +27,8 @@ ht-degree: 1%
 * [ メールオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：新しいエディターでメールを作成、デザイン、参照する方法について説明します。
 
 * [ メールテンプレートオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
+
+* [AEM Assetsとの連携 ](product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}:AEM デジタルアセットに簡単にアクセスしてMarketo Engageで使用する方法を説明します。
 
 ## よくある質問 {#faq}
 

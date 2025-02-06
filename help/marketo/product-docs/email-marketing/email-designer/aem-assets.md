@@ -1,12 +1,10 @@
 ---
 title: Experience Manager Assets の操作
 description: Adobe Marketo Engageでコンテンツをオーサリングする際に、接続されたAEM Assets リポジトリの画像アセットを使用する方法について説明します。
-hide: true
-hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
@@ -17,11 +15,11 @@ _Adobe Experience Manager Assetsのas a Cloud Service_ がAdobe Marketo Engage�
 
 >[!PREREQUISITES]
 >
->MKTO/AEM ドキュメントに接続します。
+>[Adobe Experience Manager Cloud ServiceをAdobe Marketo Engage インスタンスに接続する ](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
 
 >[!NOTE]
 >
->現在、Marketo Engageでは _0}Adobe Experience Manager Assets} の画像アセットのみがサポートされています。_&#x200B;アセットに対する変更は、Adobe Experience Manager Assets中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>現在、Marketo Engageでは _0}Adobe Experience Manager Assets} の画像アセットのみがサポートされています。_&#x200B;アセットに対する変更は、Adobe Experience Manager Assets中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 これらのデジタルアセットを使用すると、_Assetsas a Cloud Serviceの最新の変更が_ リンクされた参照を通じてライブ メールキャンペーンに自動的に伝えられます。 _Adobe Experience Manager Assetsのas a Cloud Service_ で画像を削除すると、メール内で画像が壊れた参照と共に表示されます。 現在Marketo Engageで使用されているアセットが変更または削除されると、画像の変更がメール作成者に通知されます。 アセットに対するすべての変更は、Adobe Experience Manager Assets中央リポジトリで行う必要があります。
 

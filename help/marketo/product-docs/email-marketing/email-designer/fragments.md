@@ -4,9 +4,9 @@ description: メールおよびメールテンプレート用の再利用可能�
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '2029'
+source-wordcount: '2052'
 ht-degree: 2%
 
 ---
@@ -26,11 +26,25 @@ ht-degree: 2%
 
 ## フラグメントへのアクセスと管理 {#access-and-manage-fragments}
 
-ビジュアルフラグメントにアクセスするには、**Design Studio** に移動します。 左側のツリーで、「**[!UICONTROL フラグメント（新規）]**」をクリックします。
+ビジュアルフラグメントにアクセスするには、Marketo Engageの **Design Studio** に移動します。 左側のツリーで、「**[!UICONTROL フラグメント（新規）]**」をクリックします。
 
-![ フラグメントへのアクセス ](assets/fragments-1.png){width="600" zoomable="yes"}
+![ フラグメントへのアクセス ](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
 デフォルトでは、テーブルは「_[!UICONTROL 変更済み]_ 列で並べ替えられます。 その他の列タイトルをクリックして、テーブルの並べ替え基準を変更します。 同じタイトルをもう一度クリックすると、昇順と降順が切り替わります。
+
+### 検索とフィルター
+
+検索バーを使用して、名前でフラグメントを検索します。 _フィルター_ アイコン（![ フィルターアイコン ](assets/icon-filter.svg)）をクリックして、使用可能なフィルターオプションを表示し、目的の設定を選択します。
+
+![ 表示されたフラグメントのフィルタリング ](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
+
+### 列のカスタマイズ {#customize-the-column-display}
+
+右上の _テーブルをカスタマイズ_ アイコン（![ テーブルアイコンをカスタマイズ ](assets/icon-column-settings.svg)）をクリックして、テーブルに表示する列をカスタマイズします。
+
+必要な列を選択し、「**[!UICONTROL 適用]**」をクリックします。
+
+![ テーブルモーダルのカスタマイズ ](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
 ### フラグメントステータス {#fragment-status}
 
@@ -73,36 +87,30 @@ ht-degree: 2%
   </tr>
 </tbody></table>
 
-### フラグメントリストのフィルタリング {#filter-the-fragments-list}
-
-検索バーを使用して、名前でフラグメントを検索します。 _フィルター_ アイコン（![ フィルターアイコン ](assets/icon-filter.svg)）をクリックして、使用可能なフィルターオプションを表示し、目的の設定を選択します。
-
-![ 表示されたフラグメントのフィルタリング ](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
-
-### 列表示のカスタマイズ {#customize-the-column-display}
-
-右上の _テーブルをカスタマイズ_ アイコン（![ テーブルアイコンをカスタマイズ ](assets/icon-column-settings.svg)）をクリックして、テーブルに表示する列をカスタマイズします。
-
-ダイアログで、目的の列を選択し、「**[!UICONTROL 適用]**」をクリックします。
-
-スクリーンショット
-
 ## フラグメントを作成 {#create-fragments}
 
-右上の **[!UICONTROL フラグメントを作成]** をクリックして、新しいビジュアルフラグメントを作成します。
+1. 新しいビジュアルフラグメントを作成するには、フラグメントリストページの右上にある **[!UICONTROL フラグメントを作成]** をクリックします。
 
-1. _[!UICONTROL フラグメントを作成]_ ダイアログで、**[!UICONTROL 名前]** とオプションの **[!UICONTROL 説明]** を入力します。
+   ![ フラグメントを作成ボタン ](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
-   フラグメント要件：
+1. フラグメントに **[!UICONTROL 名前]** とオプションの **[!UICONTROL 説明]** を入力します。
 
-   * 名前 – 100 文字まで。一意である必要があります。大文字と小文字は区別されません
-   * 説明 – 300 文字（最大）
-   * Alpha、数字、特殊文字は問題ありません
+   _フラグメント要件_
+
+   * 名前：最大 100 文字。一意である必要があります。大文字と小文字を区別しません
+   * 説明：最大 300 文字
+   * 文字：英数字および特殊文字は問題ありません
    * 予約文字は使用できません **_使用できません_**: `\ / : * ? " < > |`
 
-スクリーンショット
+   ![ フラグメントを作成モーダル ](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
 1. 「**[!UICONTROL 作成]**」をクリックします。
+
+   ![ フラグメントを作成モーダル ](assets/create-fragments-3.png){width="400" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >現時点では、フラグメントの **タイプ** を変更できません。
 
    ビジュアルデザイナーが空のキャンバスで開きます。
 
