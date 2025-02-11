@@ -2,10 +2,10 @@
 solution: Marketo Engage
 product: marketo engage
 title: AI アシスタント コンテンツ アクセラレータを使用する
-description: Adobeのジェネレーティブ AI テクノロジーを活用して、メールに役立つテキストや魅力的な画像を追加します。
+description: Adobeのジェネレーティブ AI テクノロジーを活用して、メールに便利なテキストや画像を追加します。
 feature: Email Editor
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a60fad2162ee963c37124fbeedab561dfd52884f
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 3%
@@ -46,27 +46,27 @@ AI アシスタントコンテンツアクセラレータに対して「**参照
 
 <table><tbody>
   <tr>
-    <td><b>購買グループ</b></td>
+    <td style="width:25%"><b>購買グループ</b></td>
     <td>ターゲットとしている特定の購入グループ（実務担当者、インフルエンサー、意思決定者など）。</td>
   </tr>
   <tr>
-    <td><b>マーケティングジャーニーステージ</b></td>
+    <td style="width:25%"><b>マーケティングジャーニーステージ</b></td>
     <td>特定のマーケティングジャーニーステージ（検出、評価、コミットなど）の受信者。</td>
   </tr>
   <tr>
-    <td><b>コミュニケーション戦略</b></td>
+    <td style="width:25%"><b>コミュニケーション戦略</b></td>
     <td>コミュニケーションの目的（緊急、ソーシャルプルーフ、情報など）。</td>
   </tr>
   <tr>
-    <td><b>言語</b></td>
+    <td style="width:25%"><b>言語</b></td>
     <td>件名行を生成する言語です。</td>
   </tr>
   <tr>
-    <td><b>トーン</b></td>
+    <td style="width:25%"><b>トーン</b></td>
     <td>コンテンツを生成するトーン （例：感動的、エキサイティング、ユーモラス）。</td>
   </tr>
   <tr>
-    <td><b>絵文字</b></td>
+    <td style="width:25%"><b>絵文字</b></td>
     <td>生成されるコンテンツに絵文字を含めることができます。</td>
   </tr>
 </tbody>

@@ -1,12 +1,14 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 56f40040f6a6eae9ec80393727b89b7902d22816
+source-git-commit: 57b391e568417e34bf1b124d47be13dd22ab98a1
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 1%
+source-wordcount: '663'
+ht-degree: 2%
 
 ---
 
@@ -14,13 +16,31 @@ ht-degree: 1%
 
 新しいAdobe Marketo Engage メールDesignerへようこそ。
 
->[!PREREQUISITES]
->
->新しい電子メールデザイナーにアクセスするには、Marketo Engageのサブスクリプションを [AdobeIdentity Management System （IMS） ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、迅速な対応をリクエストする際は、Adobeアカウントチーム （アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
-
-この新しい E メールデザイナーはMarketo Engageの最新のイノベーションであり、標準の標準の標準テンプレートと共に視覚的なドラッグ&amp;ドロップエディターを提供することで、生産性と効率を向上させるために、改善された E メールおよび E メールテンプレートの作成体験を提供することを目的としています。 ベンダーにお金をかけることなく、カスタマイズされたメールテンプレートを簡単に作成できます。
+E メールデザイナーはMarketo Engageの最新のイノベーションであり、標準の標準の標準テンプレートと共に視覚的なドラッグ&amp;ドロップエディターを提供することで、生産性と効率を向上させる、改良された E メールおよび E メールテンプレートの作成体験を提供することを目的としています。 ベンダーにお金をかけることなく、カスタマイズされたメールテンプレートを簡単に作成できます。
 
 新しいデザイナーで作成したメールは、メールプログラムやスマートリスト/キャンペーンで使用できます。 デザイナーに対する強力な新しい機能強化は、近日中に提供されます。
+
+## アクセス方法 {#how-to-access}
+
++++メールデザイナーへのアクセス方法を学ぶ
+
+新しい電子メールデザイナーにアクセスするには、Marketo Engageのサブスクリプションを [AdobeIdentity Management System （IMS） ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、迅速な対応をリクエストする際は、Adobeアカウントチーム （アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
+
+### ユーザーを追加 {#add-users}
+
+1. Marketo Engageで、「**[!UICONTROL 管理者]** エリアに移動し、「新しいメールDesigner **[!UICONTROL を選択し]** す。
+
+   ![ 管理者の左側のナビゲーションにある「新しい電子メールDesigner」を選択 ](assets/overview-1.png){width="600" zoomable="yes"}
+
+1. 「**[!UICONTROL ユーザーを追加]**」をクリックします。
+
+   ![ 「ユーザーを追加」ボタン ](assets/overview-2.png){width="600" zoomable="yes"}
+
+1. **[!UICONTROL 新しい値を追加]** ドロップダウンで、目的のユーザーを選択します。 終了したら、「**[!UICONTROL OK]**」をクリックします。
+
+   ![ リストからのユーザーの選択 ](assets/overview-3.png){width="600" zoomable="yes"}
+
++++
 
 ## 利用可能な記事 {#available-articles}
 
@@ -28,7 +48,11 @@ ht-degree: 1%
 
 * [ メールテンプレートオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
 
-* [AEM Assetsとの連携 ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}:AEM デジタルアセットに簡単にアクセスしてMarketo Engageで使用する方法を説明します。
+* [AEM アセットの操作 ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}:AEM デジタルアセットに簡単にアクセスしてMarketo Engageで使用する方法を説明します。
+
+* [AI Assistant コンテンツアクセラレーターの使用 ](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"}: Adobeのジェネレーティブ AI テクノロジーを活用して、メールに便利なテキストや画像を追加します。
+
+* [ メールテンプレート内のコンテンツのロック ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：メールテンプレート内のコンテンツをロックして、意図しない編集や削除を防ぐ方法について説明します。
 
 ## よくある質問 {#faq}
 
