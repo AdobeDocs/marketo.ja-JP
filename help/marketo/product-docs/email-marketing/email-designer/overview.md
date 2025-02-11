@@ -5,9 +5,9 @@ description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 57b391e568417e34bf1b124d47be13dd22ab98a1
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '661'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 新しいAdobe Marketo Engage メールDesignerへようこそ。
 
-E メールデザイナーはMarketo Engageの最新のイノベーションであり、標準の標準の標準テンプレートと共に視覚的なドラッグ&amp;ドロップエディターを提供することで、生産性と効率を向上させる、改良された E メールおよび E メールテンプレートの作成体験を提供することを目的としています。 ベンダーにお金をかけることなく、カスタマイズされたメールテンプレートを簡単に作成できます。
+E メールデザイナーはMarketo Engageの最新のイノベーションで、標準の標準の標準テンプレートと共に視覚的なドラッグ&amp;ドロップエディターを提供することで、生産性と効率を向上させるために、改善された E メールおよび E メールテンプレートの作成体験を提供することを目的としています。 ベンダーにお金をかけることなく、カスタマイズされたメールテンプレートを簡単に作成できます。
 
 新しいデザイナーで作成したメールは、メールプログラムやスマートリスト/キャンペーンで使用できます。 デザイナーに対する強力な新しい機能強化は、近日中に提供されます。
 
@@ -24,7 +24,7 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 
 +++メールデザイナーへのアクセス方法を学ぶ
 
-新しい電子メールデザイナーにアクセスするには、Marketo Engageのサブスクリプションを [AdobeIdentity Management System （IMS） ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、迅速な対応をリクエストする際は、Adobeアカウントチーム （アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
+新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
 ### ユーザーを追加 {#add-users}
 
@@ -48,9 +48,9 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 
 * [ メールテンプレートオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
 
-* [AEM アセットの操作 ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}:AEM デジタルアセットに簡単にアクセスしてMarketo Engageで使用する方法を説明します。
+* [AEM Assets の操作 ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}:Marketo Engageで使用するためにAEM デジタルアセットに簡単にアクセスする方法を説明します。
 
-* [AI Assistant コンテンツアクセラレーターの使用 ](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"}: Adobeのジェネレーティブ AI テクノロジーを活用して、メールに便利なテキストや画像を追加します。
+* [AI アシスタントの使用 ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}:Adobeの生成 AI テクノロジーを活用して、便利なテキストや画像をメールに追加します。
 
 * [ メールテンプレート内のコンテンツのロック ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：メールテンプレート内のコンテンツをロックして、意図しない編集や削除を防ぐ方法について説明します。
 
@@ -74,8 +74,8 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 
 **新しいデザイナーでは、メールテンプレートの作成プロセスはどのように機能しますか？ WYSIWYGですか、それともHTMLの知識が必要ですか？**
 
-これはWYSIWYGです。HTMLに関する知識は必要ありません。 簡単に作成できます
-デザイナーのテンプレートを使用することで、外部の web 開発者の必要性を減らすことができます。 ただし、CSS を更新し、HTMLを使用して個々のセクションを編集するオプションは引き続き用意されています。 また、クラシックエディターから新しいデザイナーにテンプレートを簡単に移行する方法にも取り組んでいます。
+これはWYSIWYGです。HTMLの知識は必要ありません。 簡単に作成できます
+デザイナーのテンプレートを使用することで、外部の web 開発者の必要性を減らすことができます。 ただし、HTMLを使用して CSS を更新し、個々のセクションを編集するオプションは残ります。 また、クラシックエディターから新しいデザイナーにテンプレートを簡単に移行する方法にも取り組んでいます。
 
 **新しい E メールデザイナーは AMP 言語をサポートしていますか？**
 
@@ -85,6 +85,6 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 
 現在、新しいデザイナーは属性のみをサポートしていますが、将来のリリースでセグメントが追加されるように取り組んでいます。
 
-**Marketo Engageのサブスクリプションが IMS （Adobe Admin Console）に移行されたかどうかを確認するにはどうすればよいですか？**
+**Marketo Engage サブスクリプションが IMS （Adobe Admin Console）に移行されたかどうかを確認するにはどうすればよいですか？**
 
 [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用してMarketo Engageにログインした場合、サブスクリプションは移行されています。
