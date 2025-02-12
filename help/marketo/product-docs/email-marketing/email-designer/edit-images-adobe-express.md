@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
+source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '841'
 ht-degree: 2%
 
 ---
@@ -29,6 +29,9 @@ Adobe Marketo Engageは、Adobe Expressとネイティブに統合されてお�
 ## Adobe Express Editor へのアクセス {#access-the-adobe-express-editor}
 
 Adobe Express Editor にアクセスする方法は 2 つあります。
+
+* 画像名をクリックします
+* _画像とファイルのアクション_ ドロップダウンメニュー
 
 >[!BEGINTABS]
 
@@ -82,7 +85,7 @@ Adobe Express Editor にアクセスする方法は 2 つあります。
 
 ### Enterprise ライセンスを持つユーザー {#users-with-an-enterprise-license}
 
-Adobe Expressの Enterprise ライセンスをお持ちの場合は、Express Editor 全体にアクセスできます。 カラー、明るさ、シャープネス、コントラスト、サイズなどの画像設定を調整できます。 AI マジックオプションを使用すると、背景の削除、オブジェクトの挿入と削除、画像の一部の消去を行うことができます。
+Adobe Expressの Enterprise ライセンスをお持ちの場合は、Express Editor 全体にアクセスできます。 カラー、明るさ、シャープネス、コントラスト、サイズなどの画像設定を調整できます。 AI マジックオプションを使用すると、背景の削除、オブジェクトの挿入と削除、画像の一部の消去を行うことができます。 各設定については、[Adobe Express ユーザーガイド ](https://helpx.adobe.com/express/user-guide.html){target="_blank"} を参照してください。
 
 >[!IMPORTANT]
 >
@@ -107,12 +110,12 @@ Enterprise ライセンスを持たないユーザーでも、いくつかのク
 
 1. 必要な変更を加え、完了したら「**適用**」をクリックします。
 
-![TEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![ 使用可能なすべてのオプションが表示された画像ウィンドウのサイズを変更 ](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
     <td style="width:25%"><b>縦横比</b></td>
-    <td><b> 縦横比 </b> ドロップダウンで、「<b> 標準 </b>」を空白にするか、「<b> カスタム </b> を選択して、独自の幅と高さを設定します。</td>
+    <td><b> 縦横比 </b> ドロップダウンで、「<b> 標準 </b>」を選択して事前に計算された一般的な写真サイズから選択するか、「<b> カスタム </b> を選択して独自の幅と高さを設定します。 また、特定のソーシャルメディアプラットフォームの標準サイズ（Pinterest、Snapchat など）を選択することもできます。</td>
   </tr>
   <tr>
     <td style="width:25%"><b>幅と高さ</b></td>
@@ -135,11 +138,11 @@ Enterprise ライセンスを持たないユーザーでも、いくつかのク
 
 1. Adobe Expressが背景なしで画像を表示します。 必要に応じて、「**適用**」をクリックします。
 
-![TEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![ 背景を取り除いた犬だけの画像 ](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
->背景を復元するには、画像を選択して「**背景を削除**」を再度選択します。
+>満足のいく結果が得られない場合は、単に **X** をクリックしてウィンドウを閉じます。
 
 #### 画像を切り抜く {#crop-image}
 
@@ -147,7 +150,7 @@ Enterprise ライセンスを持たないユーザーでも、いくつかのク
 
 1. 画像の隅をドラッグして、目的の切り抜きを作成します。
 
-![TEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![ 写真の隅をドラッグして画像を切り抜く ](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
 1. 終了したら「**[!UICONTROL 適用]**」をクリックします。
 
@@ -157,26 +160,14 @@ PNG ファイルをJPEG ファイルに、またはJPEG ファイルを PNG フ�
 
 1. 「**[!UICONTROL PNG/JPEGに変換]**」をクリックします。
 
-![TEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![PNG/JPEGに変換ウィンドウ ](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. 「**[!UICONTROL 適用]**」をクリックします。
 
- – 下のものを切り抜く – 
-
-ページの「画像を切り抜き」をクリックします。
-
-Adobe Express エディターで、画像に対して切り抜きを実行し、「保存」をクリックします。
-
-注意：このアクションでは画像は上書きされませんが、さらに編集するための画像が表示されます。
-
-左側のパネルの別のオプションを使用してさらに更新を行ったり、「保存」をクリックして既存の画像を上書きしたり、「新しいアセットとして保存」をクリックして新しい画像として保存したりできます。
-
-「保存」をクリックして、アクションを完了します。
-
 ## 作業内容を保存します {#save-your-work}
 
-すべての編集が完了したら、「保存」をクリックして作業内容を保存します。
+すべての編集が完了したら、「**保存** をクリックして作業内容を保存します。
 
-スクリーンショット
+![ 保存ボタン ](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 編集された画像は、元の画像と同じフォルダーに保存されます。
