@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
+source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 2%
 
 ---
@@ -38,9 +38,9 @@ Adobe Express Editor にアクセスする方法は 2 つあります。
 
    ![Design Studio の左側のナビゲーションで画像とファイルを選択する ](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
-1. 編集する画像を選択します（または新しく作成します）。
+1. 編集する画像を選択します。
 
-   スクリーンショット 2a
+   ![ 画像の名前のクリック ](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Adobe Express Editor にアクセスする方法は 2 つあります。
 
 1. 画像の _詳細_ タブで、**[!UICONTROL Adobe Expressで編集]** をクリックします。
 
-   スクリーンショット 3a
+   ![ 「Adobe Expressで編集」ボタンをクリック ](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -68,11 +68,9 @@ Adobe Express Editor にアクセスする方法は 2 つあります。
    >
    >* 任意の列でテーブルを並べ替えるには、列タイトルをクリックします。 タイトル行の矢印は、現在の並べ替え列と並べ替え順序を示します。
 
-1. 編集する画像の横にあるチェックボックスをオンにします。
+1. 編集する画像の横にあるチェックボックスをオンにします。 **[!UICONTROL 画像とファイルのアクション]** ドロップダウンで、**[!UICONTROL Adobe Expressで編集]** を選択します。
 
-   スクリーンショット 2b
-
-1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンで、**[!UICONTROL Adobe Expressで編集]** を選択します。
+   ![ 画像名の横にあるチェックボックスをオンにし、「画像とファイルのアクション」ドロップダウンを使用する ](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -99,9 +97,9 @@ Enterprise ライセンスを持たないユーザーでも、いくつかのク
 * [画像を切り抜く](#crop-image)
 * [PNG/JPEGに変換](#convert-to-png-jpeg)
 
-これらの機能には、画像ページの左上からアクセスできます。
+機能には、画像ページの左側からアクセスできます。
 
-スクリーンショット
+![Adobe Express編集オプションを示す画像ページ ](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### 画像のサイズ変更 {#resize-image}
 
@@ -109,24 +107,24 @@ Enterprise ライセンスを持たないユーザーでも、いくつかのク
 
 1. 必要な変更を加え、完了したら「**適用**」をクリックします。
 
-スクリーンショット
+![TEXTTEXT](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
-    <td><b>縦横比</b></td>
+    <td style="width:25%"><b>縦横比</b></td>
     <td><b> 縦横比 </b> ドロップダウンで、「<b> 標準 </b>」を空白にするか、「<b> カスタム </b> を選択して、独自の幅と高さを設定します。</td>
   </tr>
   <tr>
-    <td><b>幅と高さ</b></td>
+    <td style="width:25%"><b>幅と高さ</b></td>
     <td>デフォルトでは、縦横比はロックされ、サイズを調整しても画像の縦横比は変わりません。 必要に応じて、ロック ボタンを選択して、アスペクト比をロック解除できます。</td>
   </tr>
   <tr>
-    <td><b>リセット</b></td>
+    <td style="width:25%"><b>リセット</b></td>
     <td><b> リセット </b> をクリックして、画像に対して行われた編集を削除し、元の状態に戻します。</td>
   </tr>
   <tr>
-    <td><b>ズームと切り抜き</b></td>
-    <td><b> ズームと切り抜き </b> をクリックして、画像の特定の領域をズームインします。</td>
+    <td style="width:25%"><b>ズームと切り抜き</b></td>
+    <td><b> ズームと切り抜き </b> をクリックして、画像の特定の領域をズームインします。 ズーム後に <b> 適用 </b> をクリックすると、画像が現在表示されている位置に切り抜かれます。</td>
   </tr>
 </tbody>
 </table>
@@ -135,9 +133,9 @@ Enterprise ライセンスを持たないユーザーでも、いくつかのク
 
 1. **背景を削除** をクリックします。
 
-1. Adobe Expressが背景なしで画像を表示します。 「**適用**」をクリックします。
+1. Adobe Expressが背景なしで画像を表示します。 必要に応じて、「**適用**」をクリックします。
 
-画像
+![TEXTTEXT](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -145,21 +143,23 @@ Enterprise ライセンスを持たないユーザーでも、いくつかのク
 
 #### 画像を切り抜く {#crop-image}
 
-1. 「画像を切り抜き」をクリックします。
+1. **[!UICONTROL 画像を切り抜き]** をクリックします。
 
 1. 画像の隅をドラッグして、目的の切り抜きを作成します。
 
-スクリーンショット
+![TEXTTEXT](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. 終了したら「**適用**」をクリックします。
+1. 終了したら「**[!UICONTROL 適用]**」をクリックします。
 
 #### PNG/JPEGに変換 {#convert-to-png-jpeg}
 
-PNG をJPEGに、またはJPEGを PNG に変換します。
+PNG ファイルをJPEG ファイルに、またはJPEG ファイルを PNG ファイルに変換します。
 
-1. 「**PNG/JPEGに変換**」をクリックします。
+1. 「**[!UICONTROL PNG/JPEGに変換]**」をクリックします。
 
-1. 「**適用**」をクリックします。
+![TEXTTEXT](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+
+1. 「**[!UICONTROL 適用]**」をクリックします。
 
  – 下のものを切り抜く – 
 
