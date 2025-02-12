@@ -2,7 +2,8 @@
 description: Marketo Sales Insight のインタラクティブなウェビナー – Marketo ドキュメント – 製品ドキュメント
 title: Marketo Sales Insight のインタラクティブウェビナー
 feature: Interactive Webinars
-source-git-commit: ace80b7c19979c48927f37adf0d09471fec3f93b
+exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
+source-git-commit: 19ccac27255d4dd9803400894bd025926b4331b2
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 3%
@@ -31,8 +32,8 @@ Marketo Engageで使用可能にしたアクティビティはすべて同期さ
 
 「インサイト」セクションのリードタイムライングラフには、毎週 90 日間に同期されたアクティビティをハイライト表示するウェビナー用の別のスイムレーンが含まれています。 特定の週を選択すると、アクティビティは 1 日ごとに別のセクションに表示されます。 個々のアクティビティを展開してその詳細を表示できます。
 
-![](assets/msi-iw-1.png){width="800" zoomable="yes"}
+![](assets/interactive-webinars-in-marketo-sales-insight-1.png){width="800" zoomable="yes"}
 
 別の「ウェビナー」タブでも、すべてのアクティビティ（およびその日付）が表形式で表示されます。
 
-![](assets/msi-iw-2.png){width="800" zoomable="yes"}
+![](assets/interactive-webinars-in-marketo-sales-insight-2.png){width="800" zoomable="yes"}
