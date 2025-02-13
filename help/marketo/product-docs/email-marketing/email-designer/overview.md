@@ -5,9 +5,9 @@ description: 概要 - Marketo ドキュメント - 製品ドキュメント
 title: 概要
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: e5d02f0a288cbd5c3f234c9bd5d202b60fdc629e
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '699'
 ht-degree: 2%
 
 ---
@@ -48,7 +48,11 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 
 * [ メールテンプレートオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
 
+* [ フラグメント ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：メールおよびメールテンプレート用の再利用可能なコンポーネントとしてビジュアルコンテンツフラグメントを作成し使用する方法を説明します。
+
 * [AEM Assets の操作 ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}:Marketo Engageで使用するためにAEM デジタルアセットに簡単にアクセスする方法を説明します。
+
+* [Adobe Expressで画像を編集 ](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}:Adobe Expressを使用して、Adobe Marketo Engage メールエディターで画像を編集する方法を説明します。
 
 * [AI アシスタントの使用 ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}:Adobeの生成 AI テクノロジーを活用して、便利なテキストや画像をメールに追加します。
 
