@@ -4,9 +4,9 @@ description: メールにメールスクリプトトークンを追加する - M
 title: メールにメールスクリプトトークンを追加する
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '164'
 ht-degree: 100%
 
 ---
@@ -42,10 +42,6 @@ ht-degree: 100%
 1. 以前作成したメールスクリプトトークンを探して選択し、「**挿入**」をクリックします。
 
    ![](assets/five-1.png)
-
-   >[!TIP]
-   >
-   >必要に応じて、デフォルト値を追加します。
 
 1. 「**保存**」をクリックします。
 
