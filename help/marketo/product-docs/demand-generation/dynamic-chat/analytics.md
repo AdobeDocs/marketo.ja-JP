@@ -3,10 +3,10 @@ description: Analytics - Marketoドキュメント — 製品ドキュメント
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 78%
+source-wordcount: '242'
+ht-degree: 72%
 
 ---
 
@@ -54,14 +54,22 @@ ht-degree: 78%
 <thead>
 <tbody>
   <tr>
-    <td style="width:25%"><b>完了</b></td>
+    <td style="width:30%"><b>完了</b></td>
     <td>完了イベントは、訪問者が会話の最後のプロンプトに到達した <i> または </i> 訪問者が会話のすべてのコンテンツを使い果たした）ときに発生します。
     <br> セッションごとに、訪問者ごとに 1 つの完了イベント。</td>
   </tr>
   <tr>
-    <td style="width:25%"><b>獲得した担当者</b></td>
+    <td style="width:30%"><b>獲得した担当者</b></td>
     <td>訪問者が電子メール アドレスを送信すると発生します。
     <br> セッションごとに、訪問者ごとに 1 つの獲得。</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>エンゲージメント率</b></td>
+    <td>回答したユーザーの数（ユーザーによる最初の入力）/トリガーの数（チャットボットが表示されます）。</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>換算率</b></td>
+    <td>ユーザーが取得しました（新しく取り込まれたメール） / ユーザーが関与しました。</td>
   </tr>
 </tbody>
 </table>
