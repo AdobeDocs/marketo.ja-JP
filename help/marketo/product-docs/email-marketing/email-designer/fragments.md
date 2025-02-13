@@ -4,10 +4,10 @@ description: メールおよびメールテンプレート用の再利用可能�
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '2052'
-ht-degree: 2%
+source-wordcount: '1909'
+ht-degree: 1%
 
 ---
 
@@ -114,37 +114,11 @@ ht-degree: 2%
 
    ビジュアルデザイナーが空のキャンバスで開きます。
 
-1. コンテンツデザインツールを使用して、ビジュアルフラグメントコンテンツを作成します。
-
-   * [構造とコンテンツを追加](#add-structure-and-content)
-   * [Assetsを追加](#add-assets)
-   * [レイヤー、設定、スタイルの移動](#navigate-the-layers-settings-and-styles)
-   * [コンテンツのパーソナライズ](#personalize-content)
-   * [リンクされた URL トラッキングを編集](#edit-linked-url-tracking)
+1. [ コンテンツデザインツール ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} を使用して、視覚的なフラグメントコンテンツを作成します。
 
 1. **[!UICONTROL 保存]** をクリックすれば、いつでもドラフトフラグメントを保存できます。
 
 1. フラグメントをメールまたはメールテンプレートで使用できるようにする準備が整ったら、「**[!UICONTROL 公開]**」をクリックします。
-
-### 構造とコンテンツを追加 {#add-structure-and-content}
-
-{{$include /help/marketo/_includes/content-design-components.md}}
-
-### アセットの追加
-
-{{$include /help/_includes/content-design-assets.md}}
-
-### レイヤー、設定、スタイルの移動
-
-{{$include /help/_includes/content-design-navigation.md}}
-
-### コンテンツのパーソナライズ
-
-{{$include /help/_includes/content-design-personalization.md}}
-
-### リンクされた URL トラッキングを編集
-
-{{$include /help/_includes/content-design-links.md}}
 
 ## フラグメントの詳細を表示 {#view-fragment-details}
 
@@ -205,19 +179,11 @@ ht-degree: 2%
 
    ![ ドラフト状態のフラグメントの詳細 ](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
-1. ビジュアルデザイナーでコンテンツを変更するには、「**[!UICONTROL フラグメントを編集]** をクリックします。
+1. ビジュアルデザイナーでコンテンツを変更するには、「**[!UICONTROL フラグメントを編集]** をクリックします。 終了したら「**保存**」をクリックします。
 
-   必要に応じて、ビジュアルデザイナーのツールを使用します。
+1. **[!UICONTROL 保存]** または **[!UICONTROL 保存して閉じる]** をクリックして、フラグメントの詳細に戻ります。
 
-   * [構造とコンテンツを追加](#add-structure-and-content)
-   * [Assetsを追加](#add-assets)
-   * [レイヤー、設定、スタイルの移動](#navigate-the-layers-settings-and-styles)
-   * [コンテンツのパーソナライズ](#personalize-content)
-   * [リンクされた URL トラッキングを編集](#edit-linked-url-tracking)
-
-   **[!UICONTROL 保存]** または **[!UICONTROL 保存して閉じる]** をクリックして、フラグメントの詳細に戻ります。
-
-1. フラグメントが条件を満たしており、メールまたはメールテンプレートで使用できるようにする場合は、「**[!UICONTROL 公開]**」をクリックします。
+1. フラグメントをメールまたはメールテンプレートで使用できるようにするには、「**[!UICONTROL 公開]**」をクリックします。
 
 >[!TAB パブリッシュ済み]
 
@@ -235,19 +201,13 @@ ht-degree: 2%
 
    ![ ドラフトバージョンを作成ダイアログ ](assets/fragments-create-draft-version.png){width="300"}
 
-   必要に応じて、ビジュアルデザイナーのツールを使用します。
+1. **[!UICONTROL 保存]** または **[!UICONTROL 保存して閉じる]** をクリックして、フラグメントの詳細に戻ります。
 
-   * [構造とコンテンツを追加](#add-structure-and-content)
-   * [Assetsを追加](#add-assets)
-   * [レイヤー、設定、スタイルの移動](#navigate-the-layers-settings-and-styles)
-   * [コンテンツのパーソナライズ](#personalize-content)
-   * [リンクされた URL トラッキングを編集](#edit-linked-url-tracking)
+1. フラグメントをメールまたはメールテンプレートで使用できるようにするには、「**[!UICONTROL 公開]**」をクリックします。
 
-   **[!UICONTROL 保存]** または **[!UICONTROL 保存して閉じる]** をクリックして、フラグメントの詳細に戻ります。
-
-1. ドラフトフラグメントが条件を満たしており、変更をメールまたはメールテンプレートで使用できるようにする場合は、「**[!UICONTROL 公開]**」をクリックします。
-
-   ドラフトバージョンを公開すると、現在の公開バージョンが置き換えられ、既に使用されているメールおよびメールテンプレートのコンテンツが更新されます。
+>[!NOTE]
+>
+>ドラフトバージョンを公開すると、現在の公開バージョンが置き換えられ、既に使用されているメールおよびメールテンプレートのコンテンツが更新されます。
 
 >[!TAB  ドラフトで公開済み ]
 
@@ -259,23 +219,19 @@ _[!UICONTROL フラグメント]_ リストページからドラフトバージ�
 
 * フラグメント名をクリックして開きます。 次に、右上の **[!UICONTROL ドラフトバージョンを開く]** をクリックします。
 
-  ドラフトバージョンのビジュアルコンテンツのプレビューが表示され、フラグメントの詳細が右側に表示されます。
+ドラフトバージョンのビジュアルコンテンツのプレビューが表示され、フラグメントの詳細が右側に表示されます。
 
 コンテンツを更新するには：
 
-1. 右上の **[!UICONTROL フラグメントを編集]** をクリックします。 必要に応じて、ビジュアルデザイナーのツールを使用します。
+1. 右上の **[!UICONTROL フラグメントを編集]** をクリックします。 終了したら「**保存**」をクリックします。
 
-   * [構造とコンテンツを追加](#add-structure-and-content)
-   * [Assetsを追加](#add-assets)
-   * [レイヤー、設定、スタイルの移動](#navigate-the-layers-settings-and-styles)
-   * [コンテンツのパーソナライズ](#personalize-content)
-   * [リンクされた URL トラッキングを編集](#edit-linked-url-tracking)
+1. **[!UICONTROL 保存]** または **[!UICONTROL 保存して閉じる]** をクリックして、フラグメントの詳細に戻ります。
 
-   **[!UICONTROL 保存]** または **[!UICONTROL 保存して閉じる]** をクリックして、フラグメントの詳細に戻ります。
+1. フラグメントをメールまたはメールテンプレートで使用できるようにするには、「**[!UICONTROL 公開]**」をクリックします。
 
-1. ドラフトフラグメントが条件を満たしており、変更をメールまたはメールテンプレートで使用できるようにする場合は、「**[!UICONTROL 公開]**」をクリックします。
-
-   ドラフトバージョンを公開すると、現在の公開バージョンが置き換えられ、既に使用されているメールおよびメールテンプレートのコンテンツが更新されます。
+>[!NOTE]
+>
+>ドラフトバージョンを公開すると、現在の公開バージョンが置き換えられ、既に使用されているメールおよびメールテンプレートのコンテンツが更新されます。
 
 >[!ENDTABS]
 
@@ -288,7 +244,7 @@ _[!UICONTROL フラグメント]_ リストページからドラフトバージ�
 
 ![ フラグメントを複製 ](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-ダイアログで、一意の名前と説明（オプション）を入力します。 「**[!UICONTROL 複製]**」をクリックして、アクションを完了します。
+ダイアログで、一意の名前と説明（オプション）を入力します。 **[!UICONTROL 複製]** をクリックします。
 
 ![ 複製されたフラグメントの名前と説明を入力 ](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -296,7 +252,7 @@ _[!UICONTROL フラグメント]_ リストページからドラフトバージ�
 
 ## メールまたはテンプレートコンテンツから新しいフラグメントを保存 {#save-a-new-fragment-from-email-or-template-content}
 
-ビジュアルコンテンツエディターでメールまたはメールテンプレートを作成または編集する際に、コンテンツのすべてまたは一部をフラグメントとして保存すると、再利用できます。
+ビジュアルコンテンツエディターでメールまたはメールテンプレートを作成/編集する際に、コンテンツのすべてまたは一部をフラグメントとして保存して再利用できます。
 
 1. コンテンツをフラグメントとして保存するには、「詳細 **[!UICONTROL をクリックして]** 「**[!UICONTROL フラグメントとして保存]**」を選択します。
 
@@ -304,13 +260,13 @@ _[!UICONTROL フラグメント]_ リストページからドラフトバージ�
 
    Shift キーまたは Control ボタンを押しながら複数の構造を選択します。
 
-   互いに隣接する構造のみを選択できます。インターフェイスでは、隣接しない要素は選択できません。
+   互いに隣接する構造のみを選択できます。
 
 1. コンテンツを選択した状態で、右上の **[!UICONTROL 作成]** をクリックします。
 
 1. ダイアログで、フラグメントの名前と説明（オプション）を入力し、「**[!UICONTROL 作成]**」をクリックします。
 
-   フラグメントは _フラグメント_ リストページに表示され、メールやメールテンプレート内でも使用できます。
+フラグメントは _フラグメント_ リストページに表示され、メールおよびメールテンプレート内で使用できます。
 
 ## メールコンテンツまたはテンプレートコンテンツへのビジュアルフラグメントの追加 {#add-visual-fragments-to-your-email-or-template-content}
 
