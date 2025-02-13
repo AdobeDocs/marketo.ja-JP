@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: パラメーター化フラグメント
 description: 一部のフィールドを編集可能にしてフラグメントをカスタマイズする方法について説明します。
 feature: Email Editor
@@ -8,10 +8,10 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
-source-wordcount: '648'
-ht-degree: 74%
+source-wordcount: '637'
+ht-degree: 70%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 74%
 
 ビジュアルフラグメントと式フラグメントの両方をカスタマイズ可能としてマークできます。各タイプのフラグメントの処理方法について詳しくは、以下の節を参照してください。
 
-スクリーンショット
+スクリーンショット - GIF?
 
  – ここで編集を停止しました – 
 
@@ -45,17 +45,17 @@ ht-degree: 74%
 
    以下の例では、「ここをクリック」ボタンの URL の編集を許可します。
 
-スクリーンショット
+   ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
 1. 「**概要**」をクリックして、編集可能なすべてのフィールドとそのデフォルト値を確認します。
 
    この例では、ボタンの URL フィールドに、コンポーネントで定義したデフォルト値が表示されます。この値は、ユーザーがコンテンツにフラグメントを追加した後にカスタマイズできます。
 
-スクリーンショット
+   ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
 1. 準備が整ったら、変更を保存してフラグメントを更新します。
 
-1. フラグメントをメールに追加すると、ユーザーはフラグメントで設定されたすべての編集可能なフィールドをカスタマイズできます。[詳しくは、ビジュアルフラグメント内の編集可能フィールドをカスタマイズする方法を参照してください](../email/use-visual-fragments.md#customize-fields)
+1. フラグメントをメールに追加すると、フラグメントで設定されたすべての編集可能フィールドをユーザーがカスタマイズできるようになります。
 
 ## HTML コンポーネントと式フラグメントへの編集可能なフィールドの追加 {#expression}
 
@@ -75,6 +75,6 @@ HTML コンポーネントの場合、特定の要素のみを編集可能なフ
 
 例えば、以下のコードでは、赤色でハイライト表示された各要素をプロパティにすることができます。
 
-![](assets/fragment-html.png){width="70%"}
+![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
