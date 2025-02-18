@@ -4,9 +4,9 @@ title: Salesforce に接続する際の「リクエストを認証できませ�
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
 source-git-commit: 0899b8cf9c97953d7212e79164d26d2f42dfeb23
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '350'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
@@ -27,13 +27,13 @@ URL を確認することで、取得しているタイプを識別できます�
 
 ## 制限ドメインのログイン エラーの解決 {#resolve-login-error-restricted-domain}
 
-このエラーは通常、ルーティングできないカスタムドメインがあることを示しています。 このエラーを解決するには、まず接続先の Salesforce インスタンスにログインしてみてください。 次に、手順を実行して Salesforce に接続します。
+このエラーは通常、ルーティングできないカスタムドメインがあることを示しています。このエラーを解決するには、まず接続先の Salesforce インスタンスにログインしてみてください。次に、手順を実行して Salesforce に接続します。
 
-接続しようとしているインスタンスが Salesforce サンドボックスドメインであり、エラーが発生している場合は、Salesforce サンドボックスと互換性を持つようにインスタンスを更新するために、追加の手順を実行する必要があります。 [詳細情報](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}
+接続しようとしているインスタンスが Salesforce サンドボックスドメインであり、エラーが発生している場合は、Salesforce サンドボックスと互換性を持つようにインスタンスを更新するために、追加の手順を実行する必要があります。[詳細情報](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}
 
 ## Oauth アプリの解決がブロックされました {#resolve-oauth-app-blocked}
 
-URL 内に「Oauth App Blocked」というエラータイプ（または別のタイプ）が記載された「要求を認証できませんでした」というエラーメッセージが表示された場合は、Salesforce API へのアクセスが制限されている可能性があります。 Salesforce 管理者に、以下が実施されていることを確認してください。
+URL 内に「Oauth App Blocked」というエラータイプ（または別のタイプ）が記載された「要求を認証できませんでした」というエラーメッセージが表示された場合は、Salesforce API へのアクセスが制限されている可能性があります。Salesforce 管理者に、以下が実施されていることを確認してください。
 
 ### ユーザ権限での API が有効化されている {#enable-api-in-user-permissions}
 

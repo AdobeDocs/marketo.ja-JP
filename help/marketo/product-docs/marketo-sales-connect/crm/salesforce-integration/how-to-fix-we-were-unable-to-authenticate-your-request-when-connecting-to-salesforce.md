@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352484
 description: Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法 - Marketo ドキュメント - 製品ドキュメント
-title: Salesforce に接続するf際の「リクエストを認証できませんでした」の修正方法
+title: Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法
 exl-id: ddd49064-f584-4490-8d45-29cf61ed3ebe
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '186'
 ht-degree: 100%
 
 ---
 
-# Salesforce に接続するf際の「リクエストを認証できませんでした」の修正方法 {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
+# Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法 {#how-to-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
 Sales Connect を Salesforce に接続しようとしたときに「リクエストを認証できませんでした」というエラーメッセージが表示された場合は、Salesforce の API へのアクセスに制約がある可能性があります。Salesforce 管理者に次の点を確認してください。
 
