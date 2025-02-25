@@ -804,7 +804,7 @@ ht-degree: 99%
       + 画像とファイル {#images-and-files}
          + [新しい画像追加ドキュメント](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [画像とファイルを Marketo に追加](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
-         + [Adobe ExpressでAssetsを編集](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
+         + [Adobe Express を使用したアセットの編集](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
          + [アップロードした画像またはファイルの削除](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
          + [アップロードされた画像またはファイルの URL を見つける](product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
          + [Web ページからの画像の取得](product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)
@@ -1062,7 +1062,7 @@ ht-degree: 99%
             + [ストリームコンテンツの可用性の編集](product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
             + [ストリームコンテンツの優先順位の決定](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [ストリームコンテンツの削除](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
-      + E メールDesigner {#email-designer}
+      + メールデザイナー {#email-designer}
          + [概要](product-docs/email-marketing/email-designer/overview.md)
          + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
          + [メールテンプレートオーサリング](product-docs/email-marketing/email-designer/email-template-authoring.md)
@@ -1115,8 +1115,8 @@ ht-degree: 99%
          + メールエディターについて {#understanding-the-email-editor}
             + [メールイベントログについて](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [リッチテキストエディターの使用](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
-         + Beta新規メールDesigner {#beta-new-email-designer}
-            + [新しい電子メールデザイナーの概要（ベータ版）](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
+         + ベータ版の新しいメールデザイナー {#beta-new-email-designer}
+            + [新しいメールデザイナーの概要（ベータ版）](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
             + [メールオーサリング](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
             + [メールテンプレート](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
          + メールの作成 {#creating-an-email}
@@ -1153,7 +1153,7 @@ ht-degree: 99%
             + メールテスト - チャンピオン／挑戦者 {#email-tests-champion-challenger}
                + [メールチャンピオン／挑戦者の追加](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [チャンピオン／挑戦者：メールテストの承認](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
-               + [チャンピオン/チャレンジャー：分析](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
+               + [チャンピオン／挑戦者：分析](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
                + [チャンピオン／挑戦者：チャンピオンの発表](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
                + [チャンピオン／挑戦者：チャンピオンの条件の定義](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
                + [チャンピオン／挑戦者：メールテストの破棄](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
@@ -1995,7 +1995,7 @@ ht-degree: 99%
          + [リリースノート：2024年4月](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [リリースノート：2024年6月](release-notes/previous-releases/2024/release-notes-june-24.md)
          + [リリースノート：2024年7月](release-notes/previous-releases/2024/release-notes-july-24.md)
-         + [リリースノート：2024 年 10 月](release-notes/previous-releases/2024/release-notes-oct-24.md)
+         + [リリースノート：2024年10月](release-notes/previous-releases/2024/release-notes-oct-24.md)
       + 2023年 {#2023}
          + [リリースノート：2023年1月](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [リリースノート：2023年3月](release-notes/previous-releases/2023/release-notes-mar-23.md)
