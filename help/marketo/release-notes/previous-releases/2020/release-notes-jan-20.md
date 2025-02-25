@@ -5,7 +5,7 @@ title: リリースノート - 2020 年 1 月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
 source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '827'
 ht-degree: 100%
 

@@ -6,7 +6,7 @@ hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
 source-git-commit: 282c2772ce5ba1be381e91cec7e4041315a7f8c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '328'
 ht-degree: 100%
 

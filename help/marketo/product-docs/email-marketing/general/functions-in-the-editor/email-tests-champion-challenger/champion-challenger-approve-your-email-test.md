@@ -5,19 +5,19 @@ title: チャンピオン／挑戦者：メールテストの承認
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
 source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '139'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
 # チャンピオン／挑戦者：メールテストの承認 {#champion-challenger-approve-your-email-test}
 
-承認するメールテストの設定の最後の手順です。手順は以下のとおりです。
+承認するメールテストの設定の最後の手順です。手順は次のとおりです。
 
 >[!PREREQUISITES]
 >
->[ レポートアラートの設定 ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
+>[レポートアラートの設定](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
 1. **マーケティングアクティビティ**&#x200B;に移動します。
 

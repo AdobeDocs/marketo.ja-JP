@@ -5,9 +5,9 @@ title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Enterpri
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
 source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '428'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 93%
 
    ![](assets/image2014-12-9-9-3a19-3a15.png)
 
-1. **[!UICONTROL 標準ユーザー]** を選択し、プロファイルに「Marketo - Salesforce同期」という名前を付けて **[!UICONTROL 保存]** をクリックします。
+1. 「**[!UICONTROL 標準ユーザ]**」を選択して、プロファイルに「Marketo-Salesforce 同期」という名前を付け、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a19-3a22.png)
 
@@ -148,9 +148,9 @@ ht-degree: 93%
 
 >[!TIP]
 >
->専用のSalesforce アカウント（`marketo@yourcompany.com` など）を作成して、Marketoによる変更を他のSalesforce ユーザーと区別します。
+>Marketo が加えた変更と他の Salesforce ユーザが加えた変更を区別できるように、専用の Salesforce アカウント（`marketo@yourcompany.com` など）を作成します。
 
-1. ナビゲーション検索バーに「ユーザーを管理」と入力し、「**[!UICONTROL ユーザー]**」をクリックします。「**[!UICONTROL 新規ユーザ]**」をクリックします。
+1. ナビゲーション検索バーに「ユーザを管理」と入力し、「**[!UICONTROL ユーザ]**」をクリックします。「**[!UICONTROL 新規ユーザ]**」をクリックします。
 
    ![](assets/sfdc-new-users.png)
 

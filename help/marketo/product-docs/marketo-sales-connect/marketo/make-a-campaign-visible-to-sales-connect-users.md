@@ -5,7 +5,7 @@ title: Sales Connect ユーザにキャンペーンを表示
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
 source-git-commit: b037057cb37c830760a5d5bc24591f85ad306ae8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
 ht-degree: 100%
 

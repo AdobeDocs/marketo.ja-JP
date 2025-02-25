@@ -5,15 +5,15 @@ title: チャンピオン／挑戦者：チャンピオンの条件の定義
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
 source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '175'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 # チャンピオン／挑戦者：チャンピオンの条件の定義 {#champion-challenger-define-champion-criteria}
 
-テストタイプを設定したら、チャンピオンの条件を定義する必要があります。手順は以下のとおりです。
+テストタイプを設定したら、チャンピオンの条件を定義する必要があります。手順は次のとおりです。
 
 >[!PREREQUISITES]
 >
@@ -29,7 +29,7 @@ ht-degree: 88%
    >
    >この指標をトラッキングして、データを含むレポートをメールで送信します。
 
-1. デフォルトの **チャンピオン条件** のいずれかを選択した場合は、[ レポートアラートの設定 ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts) に進みます。
+1. デフォルトの&#x200B;**チャンピオンの条件**&#x200B;の 1 つを選択した場合は、[レポートアラートの設定](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)に進みます。
 
 ## カスタムのチャンピオンの条件 {#custom-champion-criteria}
 
@@ -59,4 +59,4 @@ ht-degree: 88%
 
    >[!MORELIKETHIS]
    >
-   >[ チャンピオン/チャレンジャー：分析 ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
+   >[チャンピオン／挑戦者：分析](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)

@@ -5,9 +5,9 @@ title: 複数のランディングページを一度に承認する
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
 source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 55%
+ht-degree: 100%
 
 ---
 
@@ -27,9 +27,9 @@ ht-degree: 55%
 
    >[!TIP]
    >
-   >実際のランディングページ名はクリックしないでください。これらはリンクで、ページ自体に移動します。
+   >実際のランディングページ名をクリックしないでください。これらはリンクで、ページ自体に移動します。
 
-1. ランディングページを選択した状態で、「**ランディングページのアクション**」ドロップダウンをクリックし、「**承認**」を選択します。
+1. ランディングページを選択した状態で、**ランディングページのアクション**&#x200B;ドロップダウンをクリックして、「**承認**」を選択します。
 
    ![](assets/approve-multiple-landing-pages-at-once-4.png)
 

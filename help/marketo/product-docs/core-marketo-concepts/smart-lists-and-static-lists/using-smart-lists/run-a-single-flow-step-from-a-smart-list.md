@@ -5,9 +5,9 @@ title: スマートリストからの単一フローステップの実行
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
 source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '234'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -23,13 +23,13 @@ ht-degree: 72%
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-1.png)
 
-1. ユーザーが含まれているリストまたはスマートリストを選択し、「**[!UICONTROL ユーザー]**」タブに移動します。
+1. 人物を含むリストまたはスマートリストを選択し、「**[!UICONTROL 人物]**」タブをクリックします。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-2.png)
 
    >[!TIP]
    >
-   >静的リストとスマート・リストの両方にこの機能があります。
+   >この機能は、静的リストとスマートリストの両方に用意されています。
 
 1. 「**[!UICONTROL すべてを選択]**」をクリックします。または、**Ctrl／Cmd** をクリックして、いくつかのレコードを手動で選択することもできます。
 
@@ -39,7 +39,7 @@ ht-degree: 72%
    >
    >結果が複数のページにまたがる場合は、「**[!UICONTROL すべてを選択]**」をクリックすると、すべてのページのすべての人物が選択されます。
 
-1. **[!UICONTROL 人物アクション]** で、目的のフローステップを選択します。 この例では、「[データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}」を使用します。
+1. 「**[!UICONTROL 人物のアクション]**」で選択したフローステップを選択します。この例では、「[データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}」を使用します。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 

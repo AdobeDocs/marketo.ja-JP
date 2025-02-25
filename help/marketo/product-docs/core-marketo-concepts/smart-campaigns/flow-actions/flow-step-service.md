@@ -4,19 +4,19 @@ title: フローステップサービス
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
 source-git-commit: e511d2fda60eabd406bee5ee7441652a546fb35e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1234'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
 # フローステップサービス {#flow-step-service}
 
-セルフサービスのフローステップは、web サービスをオーサリング、公開、Adobe Marketo Engage スマートキャンペーンに統合するためのフレームワークと機能のセットです。このガイドは、既に作成および公開しているサービスをインストールして使用したい Marketo Engage のエンドユーザを対象としています。独自のサービスの作成と公開について詳しくは、サービスプロバイダーインターフェイスの [GitHub リポジトリ ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"} を参照してください。 概念実証ルックアップテーブルの実装については、[ こちら ](https://github.com/adobe/mkto-flow-lookup){target="_blank"} を参照してください。
+セルフサービスのフローステップは、web サービスをオーサリング、公開、Adobe Marketo Engage スマートキャンペーンに統合するためのフレームワークと機能のセットです。このガイドは、既に作成および公開しているサービスをインストールして使用したい Marketo Engage のエンドユーザを対象としています。独自のサービスのオーサリングと公開について詳しくは、[サービスプロバイダーインターフェイス用の GitHub リポジトリ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}を参照してください。概念実証ルックアップテーブルの実装について詳しく、[こちら](https://github.com/adobe/mkto-flow-lookup){target="_blank"}を参照してください。
 
 ## サービスのオンボーディングと管理 {#onboarding-and-managing-services}
 
-カスタムフローステップをインストールするには、Marketoの管理者権限が必要です。 インストール URL 以外にも、最初のオンボーディングの完了後に、サービスプロバイダーグリッドからサービスの詳細画面にドリルダウンして、サービスのその他すべての側面を編集できます。
+カスタムのフローステップをインストールするには、Marketo の管理者権限が必要です。インストール URL 以外にも、最初のオンボーディングの完了後に、サービスプロバイダーグリッドからサービスの詳細画面にドリルダウンして、サービスのその他すべての側面を編集できます。
 
 ## インストール URL {#installation-url}
 
@@ -34,7 +34,7 @@ ht-degree: 94%
 
 >[!CAUTION]
 >
->サービスプロバイダーを作成および削除すると、そのサービスプロバイダー、API、トリガー、フィルター名を再利用できなくなります。
+>サービスプロバイダーを作成して削除すると、そのサービスプロバイダー、API、トリガー、フィルターの名前を今後再利用できなくなります。
 
 ## オンボーディングガイド（オプション） {#onboarding-guide}
 

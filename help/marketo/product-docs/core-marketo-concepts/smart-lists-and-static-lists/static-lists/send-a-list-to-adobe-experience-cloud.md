@@ -5,9 +5,9 @@ title: Adobe Experience Cloud へのリストの送信
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
 source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '784'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 77%
 
 >[!NOTE]
 >
->HIPAA に対応しているMarketo Engageインスタンスのデプロイメントでは、この機能を使用できません。
+>Marketo Engage インスタンスの HIPAA 対応デプロイメントでは、この機能を使用できません。
 
 >[!PREREQUISITES]
 >
@@ -70,7 +70,7 @@ ht-degree: 77%
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. **OK** をクリックします。
+1. 「**OK**」をクリックします。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
@@ -94,30 +94,30 @@ ht-degree: 77%
 
 **Adobe Analytics との共有**
 
-* Adobe Audience Manager と Adobe Analytics の両方を所有しているお客様は、この統合を使用して Marketo から Adobe Analytics レポートスイートにオーディエンスを共有できますが、これを有効にするには、Adobe Audience Manager で追加の設定手順を行う必要があります。設定方法について詳しくは、[Adobe Audience Managerのドキュメント ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"} を参照してください。
+* Adobe Audience Manager と Adobe Analytics の両方を所有しているお客様は、この統合を使用して Marketo から Adobe Analytics レポートスイートにオーディエンスを共有できますが、これを有効にするには、Adobe Audience Manager で追加の設定手順を行う必要があります。この設定方法について詳しくは、[Adobe Audience Manager のドキュメント](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"}を参照してください。
 
-* リストが空の場合、または ECID 値を持つユーザーがいない場合、リスト名はプッシュされず、Marketo Engageの外部で参照されません。
+* リストが空の場合や、ECID 値を持つ人物がいない場合、リスト名は Marketo Engage の外部で参照されるようにプッシュされません。
 
 **Adobe Audience Manager 顧客向け特性の使用**
 
 Marketo でリストの書き出しを開始すると、Adobe Audience Manager インスタンスに次の変更が反映されます。
 
-* 書き出されたリストに含まれるすべてのユーザーに対して、Marketoは、ハッシュ化されたメールをクロスデバイス ID として使用して特性を書き込みます。 特性の名前は、エクスポート時に指定した宛先オーディエンス名に一致します。
-* Marketoが書き出されたリスト内の人物と一致させることができたすべての ECID について、Marketoは ECID Device Identifier を使用して特性を記述します。 特性の名前は、エクスポート時に指定した宛先オーディエンス名に一致します。
+* Marketo は、エクスポートされたリスト内のすべての人物に対して、ハッシュ化されたメールをクロスデバイス識別子として使用して特性を書き込みます。特性の名前は、エクスポート時に指定した宛先オーディエンス名に一致します。
+* エクスポートされたリスト内の人物と Marketo が一致させて管理しているすべての ECID に対して、Marketo は ECID デバイス識別子を使用して特性を書き込みます。特性の名前は、エクスポート時に指定した宛先オーディエンス名に一致します。
 * また、Marketo は、ECID 特性を唯一の条件として使用して、セグメントを Audience Manager インスタンスに作成します。セグメントの名前は、エクスポート時に指定した宛先オーディエンス名に一致します。
 
 ## よくある質問 {#faq}
 
 **Marketo のリストサイズがアドビのリストサイズと異なるのはなぜですか？**
 
-オーディエンス統合は、内部で、Marketo Munchkin Cookie を対応する Adobe ECID Cookie と同期することで機能します。Marketoは、Marketoが ECID を同期したユーザーのメンバーシップデータのみを共有できます。 可能な限り最良の結果を得るには、マーケティング目的でトラッキングするすべてのページで、Marketo の munchkin.js トラッキングスクリプトをアドビの visitor.js トラッキングコードと並行して読み込むことをお勧めします。
+オーディエンス統合は、内部で、Marketo Munchkin Cookie を対応する Adobe ECID Cookie と同期することで機能します。Marketo は、Marketo が ECID を同期した人物のメンバーシップデータのみを共有できます。可能な限り最良の結果を得るには、マーケティング目的でトラッキングするすべてのページで、Marketo の munchkin.js トラッキングスクリプトをアドビの visitor.js トラッキングコードと並行して読み込むことをお勧めします。
 
 **Cookie の同期は、どのよう仕組みなのですか？**
 
 Marketo サブスクリプションに対して Cookie 同期が有効になっている場合、Marketo の munchkin.js は、統合の設定時に指定した Adobe IMS 組織の Adobe ECID を取得して保存し、その ECID を対応する Marketo の Cookie 識別子に一致させます。これにより、Marketo の匿名ユーザプロファイルを Adobe ECID で強化できます。
 
-匿名ユーザープロファイルをユーザープロファイルに関連付けるには、さらに手順が必要です。ユーザープロファイルは、プレーンテキストのメールを使用して識別されます。 この機能の正確な仕組みは、[こちらで説明しています](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}。
+匿名ユーザプロファイルをユーザプロファイルに関連付けるには、さらに手順を実行する必要があります。ユーザプロファイルは、テキスト形式メールで識別されます。この機能の正確な仕組みは、[こちらで説明しています](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}。
 
 **どの情報が共有されますか？**
 
-この連携では、MarketoからAdobeに対して、リストのメンバーシップ情報（例えば、ユーザー X がリスト Y のメンバーであるという情報）のみが共有されます。 この統合を通じてAdobeに共有される追加の人物属性はありません。
+この統合では、Marketo からアドビにリストメンバーシップ情報のみを共有します（例えば、ユーザ X はリスト Y のメンバーであるという知識）。この統合を介して、追加のユーザ属性がアドビに共有されることはありません。

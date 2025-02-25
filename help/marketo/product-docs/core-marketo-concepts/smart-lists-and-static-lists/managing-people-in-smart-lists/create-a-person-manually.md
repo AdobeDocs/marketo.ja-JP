@@ -5,19 +5,19 @@ title: リードの手動作成
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
 source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
 # リードの手動作成 {#create-a-person-manually}
 
-人をMarketo Engageに陥れる方法はたくさんある。 手動で作成する必要がある場合は、次の手順に従います。
+リードを Marketo Engage に入れる方法はいろいろあります。手動で作成する必要がある場合は、次の手順に従います。
 
 >[!CAUTION]
 >
->Marketoでは、絵文字を含むメールアドレスをサポートしていません。
+>Marketo は、絵文字を含むメールアドレスをサポートしていません。
 
 1. 「**[!UICONTROL データベース]**」に移動します。
 

@@ -5,9 +5,9 @@ title: キャンペーンアクティビティレポート
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
 source-git-commit: 0fded7d82543f221c96ad08f1486728a39f495e7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '220'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -23,15 +23,15 @@ ht-degree: 66%
 
 >[!NOTE]
 >
->すべての [ 実行可能なキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"} は、キャンペーンアクティビティレポートで「非アクティブなトリガーキャンペーン」として表示されます。
+>すべての[実行可能なキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md){target="_blank"}は、キャンペーンアクティビティレポートに「非アクティブなトリガー済みキャンペーン」として表示されます。
 
 ![](assets/campaign-activity-report-1.png)
 
 >[!TIP]
 >
->最も多くのリードを処理したキャンペーンを検索するには、_処理された合計人数_&#x200B;で[レポートを並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}、「**降順で並べ替え**」を選択します。
+>最も多くの人物を処理したキャンペーンを検索するには、例えば、_処理された合計人数_&#x200B;で[レポートを並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}、「**降順で並べ替え**」を選択します。
 
-**[選択できる列 ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) キャンペーン活動レポートの場合は、** の列が含まれます。
+キャンペーンアクティビティレポートで&#x200B;**[選択できる列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)は次のとおりです**。
 
 <table><thead>
   <tr>
@@ -49,7 +49,7 @@ ht-degree: 66%
   </tr>
   <tr>
     <td>待機中のリード</td>
-    <td>キャンペーンがまだ実行中の場合、「待機」ステップに残っているユーザーの数です。</td>
+    <td>待機ステップに留まっているリードの数（キャンペーンが実行中の場合）。</td>
   </tr>
   <tr>
     <td>フローから削除済み</td>
@@ -62,7 +62,7 @@ ht-degree: 66%
 </tbody>
 </table>
 
-**レポートに表示されるキャンペーンタイプ**:
+**レポートのキャンペーンタイプ**：
 
 <table><thead>
   <tr>
@@ -72,19 +72,19 @@ ht-degree: 66%
 <tbody>
   <tr>
     <td>バッチ</td>
-    <td>「マーケティングアクティビティ」タブのバッチキャンペーン。</td>
+    <td>「マーケティングアクティビティ」タブでのバッチキャンペーン。</td>
   </tr>
   <tr>
     <td>実行アクション</td>
-    <td>人物アクションはデータベースから実行されます。</td>
+    <td>データベースから実行されるユーザアクション。</td>
   </tr>
   <tr>
-    <td>トリガー起動 (アクティブ)</td>
-    <td>「マーケティングアクティビティ」タブの現在のトリガーキャンペーン。</td>
+    <td>トリガー済み（アクティブ）</td>
+    <td>「マーケティングアクティビティ」タブで現在トリガー済みのキャンペーン。</td>
   </tr>
   <tr>
-    <td>トリガー起動 (非アクティブ)</td>
-    <td>「マーケティングアクティビティ」タブの非アクティブなトリガーキャンペーン</td>
+    <td>トリガー済み（非アクティブ）</td>
+    <td>「マーケティングアクティビティ」タブで非アクティブなトリガー済みのキャンペーン。</td>
   </tr>
 </tbody>
 </table>

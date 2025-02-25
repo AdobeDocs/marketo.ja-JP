@@ -5,7 +5,7 @@ title: コンテンツ分析について
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
 source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '374'
 ht-degree: 100%
 

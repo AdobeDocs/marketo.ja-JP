@@ -5,15 +5,15 @@ title: スマートリストでのデータ値変更済みフィルターの使�
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
 source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '146'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # スマートリストでのデータ値変更済みフィルターの使用 {#use-the-data-value-changed-filter-in-a-smart-list}
 
-値は常に変更され、Marketo データベース内で更新されます。特定の値を検索する代わりに、値が変わった人物を検索したい場合があります。手順は以下のとおりです。
+値は常に変更され、Marketo データベース内で更新されます。特定の値を検索する代わりに、値が変わった人物を検索したい場合があります。手順は次のとおりです。
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 82%
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-1.png)
 
-1. スマート・リストを選択し、「**[!UICONTROL スマート・リスト]**」タブをクリックします。
+1. スマートリストを選択し、「**[!UICONTROL スマートリスト]**」タブをクリックします。
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-2.png)
 
@@ -35,4 +35,4 @@ ht-degree: 82%
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-4.png)
 
-このフィルターは、ステータスに変更（あらゆる変更）が行われたすべての人物を検索します。さらに気に入りたい場合は、[ スマートリストフィルターへの制約の追加 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} を試してみてください。
+このフィルターは、ステータスに変更（あらゆる変更）が行われたすべての人物を検索します。さらに検索する場合は、[スマートリストフィルターへの制約の追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}も試してみてください。

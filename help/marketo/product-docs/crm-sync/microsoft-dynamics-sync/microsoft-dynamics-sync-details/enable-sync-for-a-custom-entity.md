@@ -5,19 +5,19 @@ title: カスタムエンティティの同期の有効化
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
 source-git-commit: 2a5ee44a7126d789b0fc819a26a2cf19084b34ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '324'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 # カスタムエンティティの同期の有効化 {#enable-sync-for-a-custom-entity}
 
-Dynamics のカスタムエンティティデータをMarketo Engageで使用できるようにする必要がある場合は、次の方法で同期を有効にします。 **管理者権限が必要です**。
+Marketo Engage で Dynamics のカスタムエンティティデータを使用できるようにする必要がある場合、その同期を有効にする方法を次に示します。**管理者権限が必要です**。
 
 >[!PREREQUISITES]
 >
->カスタムオブジェクトを使用するには、Microsoft Dynamicsの [lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md){target="_blank"}、[contact](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md){target="_blank"} または [account](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md){target="_blank"} オブジェクトに関連付けられている必要があります。
+>カスタムオブジェクトを使用するには、カスタムオブジェクトは Microsoft Dynamics で[リード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md){target="_blank"}、[取引先責任者](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md){target="_blank"}、[アカウント](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md){target="_blank"}オブジェクトのいずれかに関連付けられている必要があります。
 
 >[!NOTE]
 >
@@ -72,4 +72,4 @@ Dynamics のカスタムエンティティデータをMarketo Engageで使用で
    >
    >* Marketo では、1 レベルまたは 2 レベルの深さの標準エンティティにリンクされたカスタムエンティティのみがサポートされています。
    >
-   >* カスタム オブジェクト ツリーは、そのオブジェクトと主要なオブジェクトの 1 つ（たとえば、リード、連絡先、アカウント、中間オブジェクトを介した間接的な接続）との直接接続により、同じオブジェクトを複数回表示する場合があります。 このような場合は、メイン オブジェクトに最も近いオブジェクトを選択し、1 つだけを選択します。 同じオブジェクトを複数回選択すると、そのカスタムオブジェクトの同期が妨げられることがあります。
+   >* カスタムオブジェクトツリーは、メインオブジェクトの 1 つ（リード、取引先責任者、アカウントなど、または中間オブジェクトを介した間接接続など）との直接接続により、同じオブジェクトを複数回表示する場合があります。このような場合は、メインオブジェクトに最も近いオブジェクトを選択し、1 つだけ選択します。同じオブジェクトを複数回選択すると、そのカスタムオブジェクトの同期が妨げられる場合があります。

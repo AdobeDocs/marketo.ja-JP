@@ -5,9 +5,9 @@ title: ユーザのロールと権限の管理
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
 source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '489'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -103,7 +103,7 @@ Marketo を Adobe ID と共に使用している場合、プロファイルの�
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. 必要に応じて **[!UICONTROL 役割名]** と **[!UICONTROL 説明]** を変更し、関連する **[!UICONTROL 権限]** の選択を変更し、完了したら **[!UICONTROL 保存]** をクリックします。
+1. 必要に応じて&#x200B;**[!UICONTROL ロール名]**&#x200B;と&#x200B;**[!UICONTROL 説明]**&#x200B;を変更し、関連する&#x200B;**[!UICONTROL 権限]**&#x200B;の選択を変更し、完了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 

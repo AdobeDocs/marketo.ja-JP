@@ -5,9 +5,9 @@ title: リッチメディアの予測コンテンツを編集する
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
 source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '216'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 83%
 
    >[!NOTE]
    >
-   >カラーモデルが CMYK のJPEG画像は、リッチメディアではサポートされません。 JPEGは、カラープロファイルを使用して sRGB に変換する必要があります。 画像エディターから書き出す場合は、この設定を選択してください。
+   >カラーモデル CMYK の JPEG 画像は、リッチメディアではサポートされません。JPEG は、カラープロファイルを使用して sRGB に変換する必要があります。画像エディターから書き出す際は、必ずこの設定を選択してください。
 
 1. **説明**&#x200B;を入力します。
 

@@ -5,15 +5,15 @@ title: SFDC 同期 - カスタムオブジェクトの同期
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
 source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '302'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
 # SFDC 同期：カスタムオブジェクトの同期 {#sfdc-sync-custom-object-sync}
 
-Salesforce インスタンスで作成されたカスタムオブジェクトも、Marketo Engageの一部にすることができます。 その設定方法を説明しましょう。
+Salesforce インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。その設定方法を説明しましょう。
 
 >[!NOTE]
 >
@@ -83,10 +83,10 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
    >
    >* Marketo では、1 レベルまたは 2 レベルの深さの標準エンティティにリンクされたカスタムエンティティのみがサポートされています。
    >
-   >* カスタム オブジェクト ツリーは、そのオブジェクトと主要なオブジェクトの 1 つ（たとえば、リード、連絡先、アカウント、中間オブジェクトを介した間接的な接続）との直接接続により、同じオブジェクトを複数回表示する場合があります。 このような場合は、メイン オブジェクトに最も近いオブジェクトを選択し、1 つだけを選択します。 同じオブジェクトを複数回選択すると、そのカスタムオブジェクトの同期が妨げられることがあります。
+   >* カスタムオブジェクトツリーは、メインオブジェクトの 1 つ（リード、取引先責任者、アカウントなど、または中間オブジェクトを介した間接接続など）との直接接続により、同じオブジェクトを複数回表示する場合があります。このような場合は、メインオブジェクトに最も近いオブジェクトを選択し、1 つだけ選択します。同じオブジェクトを複数回選択すると、そのカスタムオブジェクトの同期が妨げられる場合があります。
 
 ### 次の手順： {#whats-next}
 
-[スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+[スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／削除](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
 これで完了です。これで、このカスタムオブジェクトのデータをスマートキャンペーンとスマートリストで使用できるようになりました。

@@ -5,9 +5,9 @@ title: サポートされているブラウザー
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
 source-git-commit: 63cd902df11ec13586ab565f0151b7cd47f2b423
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 
@@ -25,6 +25,6 @@ Marketo では現在、以下のブラウザーをサポートしています。
 
 >[!NOTE]
 >
->AdobeID を使用して [Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に移行されたユーザーの場合、Microsoft Edgeを除く Strict モードのすべてのブラウザーが、Macと Windows の両方でサポートされます。
+>[Adobe ID で Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に移行したユーザの場合、Strict モードの Microsoft Edge を除き、Mac と Windows の両方ですべてのブラウザーがサポートされます。
 
-最高のエクスペリエンスを得るためには、**ブラウザーを最新に保って**&#x200B;ください。
+最高のエクスペリエンスを得るには、**ブラウザーを最新に保って**&#x200B;ください。

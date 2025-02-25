@@ -4,9 +4,9 @@ title: ユーザーの追加または削除
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
 source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '240'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -60,7 +60,7 @@ Marketo Engage にログインするためのメールがユーザーに送信�
 
 >[!NOTE]
 >
->ユーザーを削除するにはシステム管理者である必要があります。
+>ユーザを削除するには、システム管理者である必要があります。
 
 1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.にログインします。
 

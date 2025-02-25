@@ -5,7 +5,7 @@ title: 既存のフリーフォームランディングページテンプレー�
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
 source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '251'
 ht-degree: 100%
 

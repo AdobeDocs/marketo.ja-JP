@@ -5,9 +5,9 @@ title: Google ユニバーサルアナリティクスでのカスタム RTP ダ�
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
 source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '759'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -181,7 +181,7 @@ ht-degree: 97%
      <li>名前：<strong>合計 CTA（エンゲージメント）</strong></li> 
      <li>タイプ：<strong>2.1 指標</strong></li> 
      <li>次の指標を表示：<strong>合計イベント数</strong></li> 
-     <li>フィルター：<br><strong>[only show] イベントカテゴリ（contains）:RTP-Campaigns</strong><br><strong>[only show] イベントアクション（exactly matching）：インプレッション </strong>[don't show] イベントラベル（contains）:#</li> 
+     <li>フィルター：<br><strong>[表示の絞り込み] イベントカテゴリ（含む）：RTP-Campaigns</strong><br><strong>[表示の絞り込み] イベントアクション（完全に一致）：インプレッション</strong>[表示しない] イベントラベル（含む）：#</li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 

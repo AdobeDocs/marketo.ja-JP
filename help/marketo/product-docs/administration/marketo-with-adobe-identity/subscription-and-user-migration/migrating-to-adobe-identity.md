@@ -4,9 +4,9 @@ title: Adobe ID への移行
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
 source-git-commit: c8b243bc90175e92aa163032b2d368bf80ff3f81
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2317'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 98%
 
 >[!IMPORTANT]
 >
->Adobe IDとのMarketo Engageにアクセスするには、使用権限についてのメールの **招待を承諾** ボタンをクリックする必要があります。
+>Adobe ID を使用して Marketo Engage にアクセスするには、資格メールの「**招待を受け入れる**」ボタンをクリックする必要があります。
 
 **Marketo 製品管理者のメール**
 
@@ -181,7 +181,7 @@ Marketo 製品管理者は、移行するユーザをいつかのグループに
 
 例えば、管理者は、最初に移行する「パワーユーザ」のグループを選択できます。これらのユーザの移行が正常に完了すると、ユーザ移行をさらにいくつかのバッチにまとめるための様々なユーザグループを、ワークスペース／ビジネスや職務／ロールなどの変数に基づいて選択することができます。または、最初のバッチの成功後に、サブスクリプション内の残りのユーザを移行することにしても構いません。目標は、Adobe ID をユーザにロールアウトする際に最大限の柔軟性を提供することです。
 
-すべてのユーザ移行は同時に行われ、60 秒以内に正常に完了します。特定のユーザに対してユーザの移行が行われている間、ユーザは最大 1 分間アクセスできなくなる可能性があります。これは、ユーザがアプリケーションにログインしている場合に限ります。ユーザ移行が完了すると、Adobe ID を使用して Marketo Engage にログインする方法に関するメールがユーザに届きます。ユーザーは、Adobe IDでログインする前に _メール内のボタンリンクから招待を受け入れる必要があります_。 Adobe ID を使用して Marketo Engage にログインする方法については、[こちら](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)を参照してください。
+すべてのユーザ移行は同時に行われ、60 秒以内に正常に完了します。特定のユーザに対してユーザの移行が行われている間、ユーザは最大 1 分間アクセスできなくなる可能性があります。これは、ユーザがアプリケーションにログインしている場合に限ります。ユーザ移行が完了すると、Adobe ID を使用して Marketo Engage にログインする方法に関するメールがユーザに届きます。ユーザは、Adobe ID でログインする&#x200B;_前_&#x200B;に、メール内のボタンリンクを使用して招待を受け入れる必要があります。Adobe ID を使用して Marketo Engage にログインする方法については、[こちら](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)を参照してください。
 
 ![](assets/migrating-to-adobe-identity-18.png)
 

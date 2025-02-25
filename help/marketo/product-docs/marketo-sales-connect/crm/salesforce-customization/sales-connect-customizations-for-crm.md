@@ -5,15 +5,15 @@ title: CRM 用の Sales Connect のカスタマイズ
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
 source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '690'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
 # CRM 用の Sales Connect のカスタマイズ {#sales-connect-customizations-for-crm}
 
-以下のフィールドとボタンは、Salesforce CRM のメタデータ API によって作成されます。フィールドを作成したら、管理者は、CRM でページのレイアウトを設定して公開する必要があります。説明 [ こちらを参照 ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)。
+以下のフィールドとボタンは、Salesforce CRM のメタデータ API によって作成されます。フィールドを作成したら、管理者は、CRM でページのレイアウトを設定して公開する必要があります。手順は[こちら](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)にあります。
 
 ## Salesforce でのカスタマイズのインストール方法 {#how-to-install-customizations-in-salesforce}
 
@@ -65,7 +65,7 @@ Salesforce カスタマイズパッケージのアップデートには、機能
 
    ![](assets/sales-connect-customizations-for-crm-10.png)
 
-完了すると、カードに「Sales Connect のカスタマイズは最新の状態です」と表示されます。
+完了すると、カードに「Sales Connect のカスタマイズは最新です」と表示されます。
 
 ![](assets/sales-connect-customizations-for-crm-11.png)
 
@@ -231,8 +231,8 @@ Marketo は、新しいフィールドの作成を検出し、1 回限りのデ�
 
 ## ユーザガイド {#user-guides}
 
-[Salesforceの MSE カスタムレポート](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/reports-and-dashboards.pdf)
+[Salesforce の MSE カスタムレポート](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/reports-and-dashboards.pdf)
 
-[Salesforce Classic の MSE](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)
+[Salesforce Classic 用の MSE](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)
 
-[Salesforce Lightning の MSE](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/sfdc-guide-lightning.pdf)
+[Salesforce Lightning 用の MSE](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/sfdc-guide-lightning.pdf)

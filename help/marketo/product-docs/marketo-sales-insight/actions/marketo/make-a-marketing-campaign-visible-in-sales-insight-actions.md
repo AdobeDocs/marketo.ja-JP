@@ -1,20 +1,20 @@
 ---
-description: Sales Insight アクションでマーケティングキャンペーンを表示 – Marketo ドキュメント – 製品ドキュメント
-title: マーケティングキャンペーンをセールスインサイトアクションに表示
+description: Sales Insight アクションにマーケティングキャンペーンを表示 - Marketo ドキュメント - 製品ドキュメント
+title: Sales Insight アクションにマーケティングキャンペーンを表示
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
 source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '300'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
-# マーケティングキャンペーンをセールスインサイトアクションに表示 {#make-a-marketing-campaign-visible-in-sales-insight-actions}
+# Sales Insight アクションにマーケティングキャンペーンを表示 {#make-a-marketing-campaign-visible-in-sales-insight-actions}
 
-キャンペーンは、表示可能になっている場合にのみ共有できます。
+キャンペーンは、表示されている場合にのみ共有できます。
 
-Sales Insight Actions を使用すると、ユーザーはtoutapp.comという新しい販売アプリにアクセスできます。 このアプリは、新しいアクション機能セットを提供するだけでなく、コアバージョンの Sales Insights で使用可能な _マーケティングキャンペーンに追加_ 機能も継承します。 ユーザーがマーケティングキャンペーンに追加機能（toutapp.comまたは MSI SFDC パッケージエクスペリエンス）にアクセスする場所に応じて、Marketo キャンペーンを別の方法で設定する必要があるので、この点に留意することが重要です。 詳しくは、手順 4 のメモを参照してください。
+Sales Insight アクションを使用すると、ユーザは toutapp.com という新しいセールスアプリにアクセスできます。このアプリは新しいアクション機能セットを提供しますが、コアバージョンの Sales Insights で使用できる&#x200B;_マーケティングキャンペーンに追加_&#x200B;機能も継承します。マーケティングキャンペーンに追加機能へのアクセスをユーザに許可する場所（toutapp.com または MSI SFDC パッケージエクスペリエンス）に応じて、Marketo キャンペーンを異なる方法で設定する必要があるので、この点に留意することが重要です。詳しくは、手順 4 のメモを参照してください。
 
 1. 共有するキャンペーンを選択（または作成）します。
 
@@ -24,7 +24,7 @@ Sales Insight Actions を使用すると、ユーザーはtoutapp.comという�
 
    ![](assets/make-a-marketing-campaign-visible-sia-2.png)
 
-1. _キャンペーンをリクエスト済み_&#x200B;トリガーーを追加します。
+1. 「_キャンペーンをリクエスト_」トリガーに追加します。
 
    ![](assets/make-a-marketing-campaign-visible-sia-3.png)
 
@@ -34,13 +34,13 @@ Sales Insight Actions を使用すると、ユーザーはtoutapp.comという�
 
    >[!NOTE]
    >
-   >toutapp.com web アプリから _マーケティングキャンペーンに追加_ を使用しているユーザーにマーケティングキャンペーンを表示する場合（これは、web アプリをMarketo Sales Outbox オブジェクト経由で CRM に埋め込んでいる場合も含みます）、Campaign リクエストのソースを「Web サービス API」に設定します。 Salesforceの MSI パネルのリード、連絡先、アカウントページ、またはリードビューと連絡先リストビューの一括アクションボタンでユーザーがアクションを使用する際にマーケティングキャンペーンを表示する場合は、キャンペーンリクエストソースを「Sales Insight」に更新します
+   >toutapp.com web アプリから&#x200B;_マーケティングキャンペーンに追加_&#x200B;を利用しているユーザにマーケティングキャンペーンを表示する場合（Marketo Sales Outbox オブジェクト経由で CRM に web アプリを埋め込んでいる場合も含まれます）、キャンペーンリクエストソースを「Web サービス API」に設定します。ユーザが Salesforce の MSI パネルのリード、取引先責任者、アカウントページでアクションを使用した際や、リードと取引先責任者リストビューの一括アクションボタンを使用した際に、マーケティングキャンペーンを表示するには、キャンペーンリクエストソースを「Sales Insight」に更新します。
 
 1. 「**フロー**」タブをクリックします。
 
    ![](assets/make-a-marketing-campaign-visible-sia-5.png)
 
-1. _興味深い瞬間_ フローアクションを追加します。
+1. _注目のアクション_&#x200B;フローアクションを追加します。
 
    ![](assets/make-a-marketing-campaign-visible-sia-6.png)
 
@@ -48,7 +48,7 @@ Sales Insight Actions を使用すると、ユーザーはtoutapp.comという�
 
    ![](assets/make-a-marketing-campaign-visible-sia-7.png)
 
-1. 「_説明_」ボックスに、営業チームへのメッセージを入力します。 この例では、トークンを使用して、入力されたフォームを指定します。
+1. _説明_&#x200B;ボックスに、セールスチームにメッセージを書き込みます。この例では、トークンを使用して、入力されたフォームを指定します。
 
    ![](assets/make-a-marketing-campaign-visible-sia-8.png)
 

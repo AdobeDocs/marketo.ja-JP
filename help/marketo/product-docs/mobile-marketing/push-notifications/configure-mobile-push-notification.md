@@ -5,9 +5,9 @@ title: モバイルプッシュ通知の設定
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
 source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '445'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -21,19 +21,19 @@ ht-degree: 81%
 
    ![](assets/configure-mobile-push-notification-2.png)
 
-1. **設定** で、目的のアプリを選択します。 Android および Apple プラットフォームは、デフォルトで有効になっています。
+1. **設定**&#x200B;で、目的のアプリを選択します。Android および Apple プラットフォームは、デフォルトで有効になっています。
 
    ![](assets/configure-mobile-push-notification-3.png)
 
    >[!NOTE]
    >
-   >プッシュメッセージが 1 つのプラットフォーム（iOSなど）のみに適用される場合は、セレクターを手動で **無効** にスライドすることで、他のプラットフォームを除外できます。
+   >プッシュメッセージが 1 つのプラットフォーム（iOS など）にのみ適用される場合は、他のプラットフォームのセレクターを「**無効**」にスライドして除外できます。
 
 1. 「**次へ**」をクリックします。
 
    ![](assets/configure-mobile-push-notification-4.png)
 
-1. メッセージテキストを入力するか、トークンアイコンを選択してトークンを追加します（このエディターでは、トークンは [ 通常どおりに ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) 書式設定されています。複数のトークンを使用できます）。 **タップアクション** を選択します。
+1. メッセージテキストを入力するか、トークンアイコンを選択してトークンを追加します（このエディターでは、トークンは[通常どおり](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)の書式が設定されます。複数のトークンを使用できます）。「**タップアクション**」を選択します。
 
    ![](assets/configure-mobile-push-notification-5.png)
 
@@ -51,7 +51,7 @@ ht-degree: 81%
    >
    >**外部 URL** - Marketo 以外のランディングページに移動します。
 
-1. カスタムタップアクションにディープリンクを挿入するには、「**カスタム** を選択し、「[ ディープリンク URI](#deep-link-uris)」フィールドに入力します。
+1. カスタムのタップアクション用のディープリンクを挿入するには、「**カスタム**」を選択し、フィールドに [ディープリンク URI](#deep-link-uris) を入力します。
 
    ![](assets/configure-mobile-push-notification-6.png)
 

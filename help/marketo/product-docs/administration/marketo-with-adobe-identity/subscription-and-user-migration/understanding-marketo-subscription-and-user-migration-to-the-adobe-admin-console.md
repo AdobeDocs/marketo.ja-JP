@@ -4,9 +4,9 @@ title: Marketo サブスクリプションと Adobe Admin Console へのユー�
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
 source-git-commit: c8b243bc90175e92aa163032b2d368bf80ff3f81
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1511'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -82,13 +82,13 @@ Marketo 製品管理者は、すべてのユーザが移行日に向けて準備
 
 * Marketo 管理エリアですべてのユーザの[メール検証](/help/marketo/product-docs/administration/users-and-roles/email-verification.md){target="_blank"}ステータスを確認します。メールアドレスを検証していないユーザに対して、検証を行うように促し、検証プロセスを完了する際の課題を解決できるように支援します。
 
-* 「ロックアウト」されたユーザー通知をメール受信ボックスで検索します。 ロックアウトされたユーザーに、Marketo Engageへのアクセスを移行日より前に再確立してパスワードをリセットすることをお勧めします。
+* メールのインボックスで「ロックアウトされた」ユーザ通知を検索します。ロックアウトされたユーザには、移行日より前にパスワードをリセットして Marketo Engage へのアクセスを再確立することを指示します。
 
-* すべてのユーザに、今後行われる Adobe ID への移行の準備をさせます。
+* すべてのユーザに、今後行われる Adobe ID への移行の準備を促します。
 
 >[!IMPORTANT]
 >
->Marketo Engageユーザーがメールアドレスを認証していない場合、またはユーザーの移行時にロックアウトされている場合は、Adobe IDに移行されず、サブスクリプションの移行が完了するとMarketo サブスクリプションにアクセスできなくなります。 再度アクセスできるようにするには、Marketo 製品管理者によって新しいユーザとして追加される必要があります。
+>Marketo Engage ユーザがメールアドレスを検証しない場合、またはユーザ移行時にロックアウトされる場合、Adobe ID に移行されず、サブスクリプションの移行が完了しても Marketo サブスクリプションにアクセスできなくなります。再度アクセスできるようにするには、Marketo 製品管理者によって新しいユーザとして追加される必要があります。
 
 ### 移行日に行われること {#what-to-expect-on-migration-day}
 
@@ -102,9 +102,9 @@ Marketo 製品管理者は、すべてのユーザが移行日に向けて準備
 
 >[!NOTE]
 >
->ユーザの移行中に、製品にアクセスできなくなることはありません。ユーザーの移行中にユーザーがログインすると、そのユーザーはログアウトされ、移行完了後にAdobe ID を使用して数分以内にログインし直すように求められます。 ユーザーは、ユーザーの移行が正常に完了した後に送信される使用権限メールのリンクをクリックして、招待を承諾する必要があります。
+>ユーザの移行中に、製品にアクセスできなくなることはありません。ユーザの移行中にユーザがログインしていた場合、ユーザはログアウトされ、移行が完了した後、Adobe ID を使用して数分以内に再度ログインするように促されます。ユーザは、ユーザ移行が正常に完了した後に送信される資格付与メール内のリンクをクリックして、招待を受け入れる必要があります。
 
-ユーザが移行されると、Marketo へのログイン方法の変更を通知するメールがアドビからユーザに届きます。ユーザー **必須** は、既存のAdobe IDでログインするか、同じメールアドレスを使用して新しいAdobe IDを設定することにより、Adobe ID を使用して初めてログインするための招待を受け入れます。
+ユーザが移行されると、Marketo へのログイン方法の変更を通知するメールがアドビからユーザに届きます。ユーザは Adobe ID を使用した初回ログインの招待を受け入れる&#x200B;**必要があります**。既存の Adobe ID でログインするか、同じメールアドレスを使用して新しい Adobe ID を設定して行います。
 
 詳しくは、[Adobe ID への移行](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md){target="_blank"}、[アドビでのユーザログイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}、[Adobe Identity Management に関するよくある質問](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}を参照してください。
 

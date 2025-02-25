@@ -4,9 +4,9 @@ title: インタラクティブウェビナーの作成
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
 source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '298'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 87%
 
    >[!CAUTION]
    >
-   >[ モバイルプッシュ通知 ](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"} アセットは、インタラクティブウェビナーではサポート **されません**。
+   >[モバイルプッシュ通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}アセットは、インタラクティブウェビナーではサポートされて&#x200B;**いません**。
 
 1. プログラムに名前を付けます。プログラムタイプで、「**イベント**」を選択します。
 
@@ -54,7 +54,7 @@ ht-degree: 87%
    >
    >* 必要に応じて、後の段階でウェビナーのタイトルを変更できます。
    >
-   >* テストウェビナーを作成する場合は、開始時間より前に削除して、そのウェビナーのライセンスが活用されないようにする必要があります。
+   >* テストウェビナーを作成する場合は、そのウェビナーのライセンスが利用されないように、開始時間より前に削除する必要があります。
 
 1. ウェビナーの日時をスケジュールし、「**作成**」をクリックします。
 

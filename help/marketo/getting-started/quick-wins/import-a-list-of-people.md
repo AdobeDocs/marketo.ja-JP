@@ -5,9 +5,9 @@ title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '581'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 87%
    >
    >* Marketo は、絵文字を含むメールアドレスを&#x200B;**サポートしていません**。
    >
-   >* CSV を介して `NULL` 値を読み込むと、（フィールドが既に空白の場合でも _、ユーザーの [ アクティビティログ ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} の数値フィールドに「データ値を変更」が生成される場合があ_ ます。 「データ値変更 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} フィルターまたは「データ値変更」トリガーを使用する [ スマートキャンペーン」がある場合、データが実際には変更されていないにもかかわらず、ユーザーがこれらのキャンペーンの対象となる可能性があります。 [ 制約 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} を使用すると、インポート時にこれらのキャンペーンの対象から外されたユーザーを確実に除外できます。
+   >* CSV 経由で `NULL` 値を読み込むと、_フィールドが既に空白であっても_、人物の[アクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}の数値フィールドに「データ値を変更」が生成される可能性があります。「データ値の変更」フィルターまたは「データ値の変更」トリガーを使用する[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}がある場合、データが実際には変更されていない場合でも、人物がこれらのキャンペーンに該当する可能性があります。[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}を使用すると、読み込み時に誰もこれらのキャンペーンに該当しないようにすることができます。
 
 ## 手順 2：プログラムを作成する {#step-create-a-program}
 
@@ -139,7 +139,7 @@ ht-degree: 87%
 
 トレードショーの出席者は、Marketo プログラムのメンバーになりました。
 
-<br> 
+<br>
 
 [◄ ミッション 4：メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
