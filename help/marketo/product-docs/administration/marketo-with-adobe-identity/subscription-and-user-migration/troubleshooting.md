@@ -5,69 +5,77 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: e5c6ac7df0f8f6e7726de1ced598d390a6cf1deb
+source-git-commit: a2186f054e7b7a780098157927651a084e353bd8
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '602'
 ht-degree: 0%
 
 ---
 
 # Adobe IMSトラブルシューティングガイド {#adobe-ims-troubleshooting-guide}
 
-IMS ユーザーの移行プロセス中に、移行する各Adobe ユーザーに対してMarketo Engage ユーザーが 1 つ作成されます。 場合によっては、作成されないことがあります（様々な理由で、Active Directory 内のユーザーのレコードやメールアドレスの問題に関連しています）。 これが発生すると、Marketo Engage管理者には、self-migration console 上のユーザーの移行ステータスフィールドに理由が表示されます。 Adobe ユーザーの作成に関する様々な問題を解決する方法については、以下を参照してください。
+IMS ユーザーの移行プロセス中に、移行する各Adobe ユーザーに対してMarketo Engage ユーザーが 1 つ作成されます。 場合によっては、作成されないことがあります（様々な理由で、Active Directory 内のユーザーのレコードやメールアドレスの問題に関連しています）。 これが発生すると、Marketo Engage管理者には、self-migration console 上のユーザーの移行ステータスフィールドに理由が表示されます。
 
 ## エラー メッセージ {#error-messages}
 
-* <a href="#not-in-directory"> ディレクトリにない </a>
-* <a href="#gmail-invalid-character">Gmail 無効な文字 </a>
-* <a href="#inactive-user"> 非アクティブユーザー </a>
-* <a href="#not-in-domain"> ドメインに存在しない </a>
-* <a href="#create-failure"> 作成エラー </a>
-* <a href="#type2e-user-failure">Type2e ユーザーエラー </a>
+右側の「このページで」の節を使用して、特定のエラーに直接ジャンプし、その解決方法を学びます。
 
-<table>
-<thead>
-  <tr>
-    <th style="width:20%">エラー メッセージ</th>
-    <th style="width:40%">根本原因</th>
-    <th style="width:40%">解決策</th>
-  </tr>
-  </thead>
-<tbody>
-  <tr>
-    <td><i><a id="not-in-directory">ディレクトリに存在しない</a></i></td>
-    <td>ユーザーが Active Directory （AD）に存在しません。 AD 同期が有効になっている SSO を持つ組織では、ユーザーの作成は ID プロバイダー（IdP）を通じてのみ許可されます。 そのため、ユーザーの移行中に、Admin Consoleを使用してユーザーを追加できませんでした。</td>
-    <td>移行 – ユーザーは、適切な権限を持つ Active Directory に追加する必要があります。 Marketo管理者が、移行コンソールからこのユーザーのユーザー移行を再実行します。 
-    <br> 移行しない – Marketo管理者が移行コンソールでユーザーをスキップできます。 移行またはスキップですべてのユーザーが考慮されると、「移行完了」ボタンが表示されます。 クリックして、ユーザー移行プロセスを終了します。</td>
-  </tr>
-  <tr>
-    <td><i><a id="gmail-invalid-character">Gmail 無効な文字</a></i></td>
-    <td>Adobeのセキュリティポリシーごとに、「。」 および「+」記号は、Gmail ドメインのみのメールアドレスでは使用できません  
-    <br>Gmail ドメイン以外のメールアドレスでは、両方の特殊文字を使用できます。 </td>
-    <td>移行 – Adobeのセキュリティポリシーに準拠するには、Marketo Engageでメールアドレスを更新する必要があります。 Marketo管理者が、移行コンソールからこのユーザーのユーザー移行を再実行します。<br> 移行しない – Marketo管理者が移行コンソールでユーザーをスキップできます。 移行またはスキップですべてのユーザーが考慮されると、「移行完了」ボタンが表示されます。 クリックして、ユーザー移行プロセスを終了します。</td>
-  </tr>
-  <tr>
-    <td><i><a id="inactive-user">非アクティブユーザー</a></i></td>
-    <td>AD 同期が有効で、ユーザーのフェデレーテッド アカウントは存在しますが、非アクティブ/無効の状態です。</td>
-    <td>移行 – ユーザーのステータスと適切な権限を復元する必要があります。 Marketo管理者が、移行コンソールからこのユーザーのユーザー移行を再実行します。
-    <br> 移行しない – Marketo管理者が移行コンソールでユーザーをスキップできます。 移行またはスキップですべてのユーザーが考慮されると、「移行完了」ボタンが表示されます。 クリックして、ユーザー移行プロセスを終了します。</td>
-  </tr>
-  <tr>
-    <td><i><a id="not-in-domain">ドメインに含まれない</a></i></td>
-    <td>Admin Consoleではドメインの適用が有効になっていますが、ユーザーのメールアドレスのドメインが許可されているドメインではありません。 
-    <br> ドメイン強制ポリシーは、ディレクトリレベルで設定されます。</td>
-    <td>移行 – ドメインの実施ポリシーに準拠するようにメールアドレスをMarketo Engageで更新する必要があります。更新しない場合は、システム管理者が <a href="https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories"> のいずれかを実行できます 
-    ドメインを、DE ポリシーの下にない、別のドメイン強制（DE）無効ディレクトリに移動する </a> または <a href="https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html"> 新しいディレクトリを作成する </a>。 Marketo管理者が、移行コンソールからこのユーザーのユーザー移行を再実行します。 <br> 移行しない – Marketo管理者が移行コンソールでユーザーをスキップできます。 移行またはスキップですべてのユーザーが考慮されると、「移行完了」ボタンが表示されます。 クリックして、ユーザー移行プロセスを終了します。</td>
-  </tr>
-  <tr>
-    <td><i><a id="create-failure">失敗を作成</a></i></td>
-    <td>バックエンドには様々な理由があります。</td>
-    <td>サポートケースを送信してください。</td>
-  </tr>
-  <tr>
-    <td><i><a id="type2e-user-failure">Type2e ユーザーエラー</a></i></td>
-    <td>バックエンドには様々な理由があります。</td>
-    <td>サポートケースを送信してください。</td>
-  </tr>
-</tbody>
-</table>
+### ディレクトリに存在しない {#not-in-directory}
+
+_根本原因_：ユーザーが Active Directory （AD）に存在しません。 AD 同期が有効になっている SSO を持つ組織では、ユーザーの作成は ID プロバイダー（IdP）を通じてのみ許可されます。 そのため、ユーザーの移行中に、Admin Consoleを使用してユーザーを追加することはできません。
+
+_解決策_:
+
+事前移行 – Marketo管理者が移行コンソールでユーザーをスキップできます。 すべてのユーザーが移行またはスキップによって考慮されると、「移行完了」ボタンが表示されます。 ボタンをクリックして、ユーザー移行プロセスを終了します。
+
+移行後：適切な権限を持つユーザーを Active Directory に追加する必要があります。 Marketo Engage管理者は、このユーザーのユーザー移行を移行コンソールから再実行してください。
+
+### Gmail 無効な文字 {#gmail-invalid-character}
+
+_根本原因_:Adobe セキュリティポリシーにより、Gmail メールアドレスでは `.` と `+` を使用できません。 両方の文字は、Gmail 以外のメールアドレスでのみ使用できます。
+
+_解決策_:
+
+事前移行 – Marketo管理者が移行コンソールでユーザーをスキップできます。 すべてのユーザーが移行またはスキップによって考慮されると、「移行完了」ボタンが表示されます。 ボタンをクリックして、ユーザー移行プロセスを終了します。
+
+移行後 – Adobeのセキュリティポリシーに従って、メールアドレスをMarketo Engageで更新する必要があります。 Marketo管理者が、移行コンソールからこのユーザーのユーザー移行を再実行します。
+
+### 非アクティブユーザー {#inactive-user}
+
+_根本原因_:AD 同期が有効になっており、ユーザーのフェデレーテッド アカウントは存在しますが、非アクティブ/無効の状態です。
+
+_解決策_:
+
+事前移行 – Marketo管理者が移行コンソールでユーザーをスキップできます。 すべてのユーザーが移行またはスキップによって考慮されると、「移行完了」ボタンが表示されます。 ボタンをクリックして、ユーザー移行プロセスを終了します。
+
+移行後 – ユーザーのステータスと適切な権限を復元する必要があります。 Marketo Engage管理者は、このユーザーのユーザー移行を移行コンソールから再実行してください。
+
+### ドメインに含まれない {#not-in-domain}
+
+_根本原因_:Admin Consoleではドメインの適用が有効になっていますが、ユーザーのメールアドレスのドメインが許可されているドメインではありません。
+
+_解決策_:
+
+事前移行 – Marketo管理者が移行コンソールでユーザーをスキップできます。 すべてのユーザーが移行またはスキップによって考慮されると、「移行完了」ボタンが表示されます。 ボタンをクリックして、ユーザー移行プロセスを終了します。
+
+移行後 – ドメイン適用（DE）ポリシーに準拠するために、メールアドレスをMarketo Engageで更新する必要があります。 または、システム管理者は、[ ドメインを移動 ](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} して、別のドメイン強制（DE）無効ディレクトリに移動するか、DE ポリシー下にない [ 新しいディレクトリを作成 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} することができます。 Marketo Engage管理者は、このユーザーのユーザー移行を移行コンソールから再実行してください。
+
+### 失敗を作成 {#create-failure}
+
+_根本原因_：このエラーは、バックエンドの様々な理由が原因で発生する可能性があります。
+
+_解決策_:
+
+移行前 – [ まだ移行されていない ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 移行のサポートケースを送信してください。
+
+移行後 – （既に移行されている [ のサポートケースを送信し ](https://experienceleague.adobe.com/home?support-tab=home#support){target="_blank"} ください。
+
+### Type2e ユーザーエラー {#type2e-user-failure}
+
+_根本原因_：このエラーは、バックエンドの様々な理由が原因で発生する可能性があります。
+
+_解決策_:
+
+移行前 – [ まだ移行されていない ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 移行のサポートケースを送信してください。
+
+移行後 – （既に移行されている [ のサポートケースを送信し ](https://experienceleague.adobe.com/home?support-tab=home#support){target="_blank"} ください。
