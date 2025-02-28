@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: a2186f054e7b7a780098157927651a084e353bd8
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
@@ -32,7 +32,7 @@ _解決策_:
 
 ### Gmail 無効な文字 {#gmail-invalid-character}
 
-_根本原因_:Adobe セキュリティポリシーにより、Gmail メールアドレスでは `.` と `+` を使用できません。 両方の文字は、Gmail 以外のメールアドレスでのみ使用できます。
+_根本原因_:Adobe セキュリティポリシーにより、`.` と `+` の文字は Gmail メールアドレスでは使用できません。 Gmail 以外のメールアドレスでは、両方の文字を使用できます。
 
 _解決策_:
 

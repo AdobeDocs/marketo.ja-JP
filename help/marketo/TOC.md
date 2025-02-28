@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: d5e3438526ca2d5b18fb7d796f76443a8de6b18c
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
 source-wordcount: '9420'
 ht-degree: 99%
@@ -123,11 +123,11 @@ ht-degree: 99%
          + [IP ベースの API アクセス用の許可リストの作成](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
          + [Google Adwords アクティビティログのダウンロード](product-docs/administration/additional-integrations/download-googleadwords-activity-log.md)
          + [ユーザーログインを SSO のみに制限](product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
-      + 監査証跡 {#audit-trail}
-         + [監査証跡の概要](product-docs/administration/audit-trail/audit-trail-overview.md)
-         + [監査証跡の詳細の変更](product-docs/administration/audit-trail/change-details-in-audit-trail.md)
-         + [監査証跡の有効化](product-docs/administration/audit-trail/enable-audit-trail.md)
-         + [監査証跡でのフィルタリング](product-docs/administration/audit-trail/filtering-in-audit-trail.md)
+      + 監査記録 {#audit-trail}
+         + [監査記録の概要](product-docs/administration/audit-trail/audit-trail-overview.md)
+         + [監査記録の詳細の変更](product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+         + [監査記録の有効化](product-docs/administration/audit-trail/enable-audit-trail.md)
+         + [監査記録でのフィルタリング](product-docs/administration/audit-trail/filtering-in-audit-trail.md)
          + [ユーザーログイン履歴](product-docs/administration/audit-trail/user-login-history.md)
       + 電子メールの設定 {#email-setup}
          + 複数のブランディングドメインの追加 {#add-multiple-branding-domains}
@@ -1069,7 +1069,7 @@ ht-degree: 99%
          + [AEM Assetsの操作](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Adobe Express を使用した画像の編集](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [フラグメント](product-docs/email-marketing/email-designer/fragments.md)
-         + [パラメーター化フラグメント](product-docs/email-marketing/email-designer/parameterized-fragments.md)
+         + [カスタマイズ可能なフラグメント](product-docs/email-marketing/email-designer/customizable-fragments.md)
          + [コンテンツのロック](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI アシスタント](product-docs/email-marketing/email-designer/ai-assistant.md)
       + メールプログラム {#email-programs}

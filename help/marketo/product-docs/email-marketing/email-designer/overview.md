@@ -5,9 +5,9 @@ description: 新しいAdobe Marketo Engage メールDesignerへようこそ。
 title: 概要
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '717'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 
 +++メールデザイナーへのアクセス方法を学ぶ
 
-新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
+新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
 ### ユーザーを追加 {#add-users}
 
@@ -49,6 +49,8 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 * [ メールテンプレートオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
 
 * [ フラグメント ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：メールおよびメールテンプレート用の再利用可能なコンポーネントとしてビジュアルコンテンツフラグメントを作成し使用する方法を説明します。
+
+* [ カスタマイズ可能なフラグメント ](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}：フラグメントのフィールドの一部を編集可能にして、フラグメントをカスタマイズする方法を説明します。
 
 * [AEM Assets の操作 ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}:Marketo Engageで使用するためにAEM デジタルアセットに簡単にアクセスする方法を説明します。
 
