@@ -5,15 +5,15 @@ title: Facebook リード広告の設定
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
 source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '321'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # Facebook リード広告の設定 {#set-up-facebook-lead-ads}
 
-[Facebook リード広告 ](https://www.facebook.com/business/ads/ad-objectives/lead-generation){target="_blank"} を使用して、Facebook で広告キャンペーンを実行し、Marketoのリードを生成します。
+[Facebook リード広告](https://www.facebook.com/business/ads/ad-objectives/lead-generation){target="_blank"}を使用して、Facebook で広告キャンペーンを実行し、Marketo のリードを生成します。
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 82%
 >
 >Facebook リード広告をインスタンスに追加するには、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-1. Marketo Engageで、「管理者 **エリアに移動** ます。
+1. Marketo Engage で、**管理**&#x200B;エリアに移動します。
 
    ![](assets/set-up-facebook-lead-ads-1.png)
 
-1. **LaunchPoint** に移動し、「**新規**」ドロップダウンをクリックして「**新しいサービス**」を選択します。
+1. 「**LaunchPoint**」に移動します。「**新規**」をクリックして、「**新規サービス**」を選択します。
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 82%
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
-1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com){target="_blank"} に移動します。 統合に使用するアカウントを使用して Facebook にログインします。
+1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com){target="_blank"} に移動します。統合に使用するアカウントを使用して Facebook にログインします。
 
    >[!NOTE]
    >
@@ -81,6 +81,6 @@ ht-degree: 82%
 
 >[!MORELIKETHIS]
 >
->* [ リードアクセスマネージャー（Facebook）での権限の割り当て/削除 ](https://www.facebook.com/business/help/540596413257598?id=735435806665862){target="_blank"}
+>* [リードアクセスマネージャー（Facebook）での権限の割り当て／削除](https://www.facebook.com/business/help/540596413257598?id=735435806665862){target="_blank"}
 >* [スマートキャンペーンでのリード広告のフィルターとトリガーの使用](/help/marketo/product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md){target="_blank"}
 >* [カスタムフィールドの Marketo へのマッピング](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}
