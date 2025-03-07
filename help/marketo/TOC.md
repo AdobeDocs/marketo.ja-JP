@@ -1066,7 +1066,7 @@ ht-degree: 99%
          + [概要](product-docs/email-marketing/email-designer/overview.md)
          + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
          + [メールテンプレートオーサリング](product-docs/email-marketing/email-designer/email-template-authoring.md)
-         + [AEM Assetsの操作](product-docs/email-marketing/email-designer/aem-assets.md)
+         + [AEM Assets の操作](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Adobe Express を使用した画像の編集](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [フラグメント](product-docs/email-marketing/email-designer/fragments.md)
          + [カスタマイズ可能なフラグメント](product-docs/email-marketing/email-designer/customizable-fragments.md)
