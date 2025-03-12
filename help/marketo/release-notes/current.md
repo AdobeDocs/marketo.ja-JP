@@ -4,15 +4,15 @@ title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 709c5f3c0009763f8ab7778278c6a2fe6db10a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '406'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
 # リリースノート：2025年3月 {#release-notes-mar-25}
 
-以下に、25 年 3 月リリースに含まれるすべての機能を示します。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+以下に、25年3月リリースに含まれるすべての機能を示します。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
@@ -32,7 +32,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
     <tr> 
-   <td><strong> 電子メールDesignerはすべてのプログラムで使用できます </strong>：新しい電子メールDesigner電子メールは、エンゲージメントプログラム、デフォルトプログラムおよびイベントプログラムをまたいでアクセスできるようになりました（インタラクティブウェビナープログラムを除く）。 以前は、メールプログラムでのみ使用できました。</td>
+   <td><strong>すべてのプログラムで使用可能なメールデザイナー</strong>：新しいメールデザイナーのメールは、エンゲージメントプログラム、デフォルトプログラム、イベントプログラムをまたいでアクセスできるようになりました（唯一の例外はインタラクティブウェビナープログラムです）。以前は、メールプログラムでのみ使用できました。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -42,7 +42,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong> グローバルおよびWorkspace マイトークン </strong>：ワークスペースとグローバルレベルの両方でマイトークンを設定し、Marketo Engageのワークスペースおよびインスタンス全体にわたるブランドとマーケティングの販促物に対する生産性の向上と制御を可能にします。</td> 
+   <td><strong>グローバルおよびワークスペースのマイトークン</strong>：ワークスペースとグローバルレベルの両方でマイトークンを設定して、Marketo Engage ワークスペースをまたいで、さらにはインスタンス全体でのブランドとマーケティングの販促物に対する生産性の向上と制御を可能にします。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -52,7 +52,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong> 任意のトリガー属性のトークン </strong>:<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments" target="_blank"> このドキュメント </a> 内のリストのみから使用可能なトリガートークンのリストを展開し、キャンペーンフローフィールドのトリガーアクティビティ属性のデータを使用できるようにします。 アクティビティ属性から興味のある瞬間にデータを印刷するか、カスタムアクティビティからリードの最新トランザクション ID をリードフィールドに設定します。</td> 
+   <td><strong>任意のトリガー属性のトークン</strong>：<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments" target="_blank">このドキュメント</a>のリストのみから使用可能なトリガートークンのリストを展開して、キャンペーンフローフィールドの任意のトリガーアクティビティ属性のデータの使用をサポートします。アクティビティ属性から注目のアクションにデータを印刷するか、カスタムアクティビティからリードの最新トランザクション ID をリードフィールドに設定します。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>

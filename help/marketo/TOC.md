@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 source-git-commit: 709c5f3c0009763f8ab7778278c6a2fe6db10a08
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '9425'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -1990,7 +1990,7 @@ ht-degree: 99%
    + [Dynamic Chat リリース](release-notes/dynamic-chat.md)
    + 以前のリリース {#previous-releases}
       + 2025年 {#2025}
-         + [リリースノート：2025 年 1 月](release-notes/previous-releases/2025/release-notes-jan-25.md)
+         + [リリースノート：2025年1月](release-notes/previous-releases/2025/release-notes-jan-25.md)
       + 2024年 {#2024}
          + [リリースノート：2024年1月](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [リリースノート：2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)

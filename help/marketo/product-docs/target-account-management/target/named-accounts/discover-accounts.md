@@ -5,9 +5,9 @@ title: 顧客の選択
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
 source-git-commit: dd4c8472ec3f453462bd8046daf70c89c587724a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '558'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ CRM からターゲットとなる可能性のある顧客を特定します。
 
 **見込み顧客**（CRM 内の顧客から選択と Marketo 内の企業から選択）：CRM アカウントに属している可能性のある Marketo が見つけたリードの数を示します。
 
-**カスタム CRM フィールド**（CRM 内の顧客から選択のみ）：これは、正しいターゲット顧客を選択するために、セールスとマーケティング組織を調整するのに役立ちます。Marketo TAM で [ カスタム CRM フィールドをマッピング ](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md) したら、ターゲットアカウントを特定するのに役立つ、マッピングされたデータが表示されます。
+**カスタム CRM フィールド**（CRM 内の顧客から選択のみ）：これは、正しいターゲット顧客を選択するために、セールスとマーケティング組織を調整するのに役立ちます。[カスタム CRM フィールドを Marketo TAM とマッピング](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)すると、マッピングされたデータを表示して、ターゲット顧客を特定しやすくします。
 
 1. 「重点顧客」で、「**新規作成**」ドロップダウンをクリックし、「**CRM 内の顧客から選択**」を選択します。
 
