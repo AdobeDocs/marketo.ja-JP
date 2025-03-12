@@ -3,8 +3,8 @@ description: Marketo サブスクリプションと Adobe Admin Console への�
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: c8b243bc90175e92aa163032b2d368bf80ff3f81
-workflow-type: ht
+source-git-commit: d6cf2b994f56a0fa4f2118fb3da3fd874644d8ae
+workflow-type: tm+mt
 source-wordcount: '1511'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 
 アドビでは、まず Marketo Engage サブスクリプションを Adobe Admin Console に移行したあと、検証済みのメールアドレスを持つすべての既存ユーザを移行します。システム管理者または Marketo 製品管理者には、移行ジャーニーをガイドするメールが届きます。以下に、予想できる作業のタイムラインを示します。
 
-![](assets/understanding-marketo-subscription-and-user-migration-1.png)
+![](assets/understanding-marketo-subscription-and-user-migration-1.png){width="800" zoomable="yes"}
 
 ### サブスクリプション移行の完了 {#subscription-migration-complete}
 
