@@ -4,7 +4,7 @@ title: Marketo サブスクリプションと Adobe Admin Console へのユー�
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
 source-git-commit: d6cf2b994f56a0fa4f2118fb3da3fd874644d8ae
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1511'
 ht-degree: 100%
 
