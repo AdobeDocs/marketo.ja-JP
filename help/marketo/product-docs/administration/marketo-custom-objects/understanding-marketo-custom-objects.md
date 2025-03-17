@@ -4,10 +4,10 @@ description: Marketo カスタムオブジェクトについて - Marketo ドキ
 title: Marketo カスタムオブジェクトについて
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 100%
+source-wordcount: '699'
+ht-degree: 96%
 
 ---
 
@@ -86,6 +86,10 @@ ht-degree: 100%
 1. これで、その人物に関連付けられたタイプのカスタムオブジェクトのすべてがリスト表示されます。
 
    ![](assets/understanding-marketo-custom-objects-8.png)
+
+   >[!NOTE]
+   >
+   >人物レコードでは、「カスタムオブジェクト」タブに最大 100 件のレコードを ID の降順に並べ替えて表示できます。
 
 ## 企業へのカスタムオブジェクトの使用 {#using-custom-objects-with-companies}
 
