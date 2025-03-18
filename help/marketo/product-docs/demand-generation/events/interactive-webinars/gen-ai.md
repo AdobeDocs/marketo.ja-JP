@@ -4,7 +4,7 @@ title: GenAI の機能
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
+source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 1. **生成** をクリックします。
 
-   ![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
 
 1. 新しいタブが開き、AI で生成されたチャプターとテキストの概要が表示されます。
 
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 1. 変更が必要な場合は、「**編集** ボタンをクリックします。
 
-   変更を行うには：
+   変更を加える：
 
    * 概要やチャプタータイトルのテキストを編集します。
 
@@ -55,14 +55,14 @@ ht-degree: 0%
 
       * 複数のチャプターを結合するには、一度に 2 つのチャプターを実行する必要があります
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
 
    >[!NOTE]
    >
    >必要に応じて、「_サムズアップ_」アイコンまたは「![ サムズアップ _」アイコンまたは「_ サムズダウン ](assets/icon-thumbs-up.png)![ サムズダウンアイコン ](assets/icon-thumbs-down.png) アイコンを使用して、生成されたチャプター/概要の品質を評価できます。 また、フラグアイコン ![ フラグアイコン ](assets/icon-flag.png) をクリックして、問題のあるコンテンツにフラグを立てることもできます。
 
-1. 画面の左上にある「**保存**」ボタンをクリックして、変更を保存します。
+1. 画面の右上にある **保存** ボタンをクリックして、変更を保存します。
 
 ## 生成されたコンテンツを使用 {#use-generated-content}
 
@@ -88,4 +88,4 @@ ht-degree: 0%
 
 * ウェビナーを削除すると、GenAI コンテンツも削除されます。
 
-* さらに詳しい説明やデータ削除リクエストについては、Adobe アカウントチーム（担当のアカウントマネージャー）にお問い合わせいただくか、次のアドレスまでメールでお問い合わせください：`marketo-webinar-genai-alerts@adobe.com`。
+* さらに詳しい説明やデータ削除リクエストについては、Adobe アカウントチーム（担当のアカウントマネージャー）にお問い合わせいただくか、メールで `marketo-webinar-genai-alerts@adobe.com` 宛てに送信してください。
