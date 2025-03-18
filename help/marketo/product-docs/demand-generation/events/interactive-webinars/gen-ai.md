@@ -4,7 +4,7 @@ title: GenAI の機能
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
+source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 1. 生成されたチャプターと概要を確認します。
 
-2. 変更が必要な場合は、「**編集** ボタンをクリックします。
+1. 変更が必要な場合は、「**編集** ボタンをクリックします。
 
    変更を行うには：
 
