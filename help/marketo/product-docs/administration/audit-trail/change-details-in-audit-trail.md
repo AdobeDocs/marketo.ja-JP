@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11379928
-description: 監査証跡の変更の詳細 — Marketo ドキュメント — 製品ドキュメント
+description: 監査記録の変更の詳細 — Marketo ドキュメント — 製品ドキュメント
 title: 監査記録の詳細の変更
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1477b889f74597396b3467371229a511e4390f91
 workflow-type: tm+mt
 source-wordcount: '1902'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
 # 監査記録の詳細の変更 {#change-details-in-audit-trail}
 
-監査証跡は、Marketo サブスクリプションで誰が何をおこなっているかに関する多くのインサイトを提供します。詳細は以下の通りです。
+監査記録は、Marketo サブスクリプションで誰が何をおこなっているかに関する多くのインサイトを提供します。詳細は以下の通りです。
 
-## アセット監査証跡 {#asset-audit-trail}
+## アセット監査記録 {#asset-audit-trail}
 
 <table> 
  <colgroup> 
@@ -137,7 +137,7 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td>編集</td> 
-   <td>モジュールを編集 &lt;module name>&lt;attribute> 「値」に設定</td> 
+   <td>モジュール <code>"&lt;module name&gt;" &lt;attribute&gt;</code> を「value」に編集</td> 
   </tr> 
   <tr> 
    <td>削除</td> 
@@ -718,7 +718,7 @@ ht-degree: 100%
  </tbody> 
 </table>
 
-## 管理監査証跡 {#admin-audit-trail}
+## 管理監査記録 {#admin-audit-trail}
 
 <table> 
  <colgroup> 
