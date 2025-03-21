@@ -5,9 +5,9 @@ title: Marketo カスタムオブジェクトについて
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
 source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '699'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
