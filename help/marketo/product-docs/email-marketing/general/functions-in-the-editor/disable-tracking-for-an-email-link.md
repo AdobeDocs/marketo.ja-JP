@@ -4,16 +4,18 @@ description: メールリンクのトラッキングを無効にする — Marke
 title: メールリンクのトラッキングを無効にする
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 100%
+source-wordcount: '266'
+ht-degree: 78%
 
 ---
 
 # メールリンクのトラッキングを無効にする {#disable-tracking-for-an-email-link}
 
 場合によっては、メールのリンクで **Marketo の URL トラッキング**&#x200B;機能を有効にしたくないことがあります。この情報は、表示先ページで URL パラメーターをサポートしていないためにページリンクエラーになる場合などに役立ちます。
+
+また、365 日以上前にメールが送信された場合 **および** 過去 180 日間に誰もリンクをクリックしていない場合、Marketo Engageはデータベースから URL へのルートを削除し、リンクが壊れる原因となります。 リンクを永続的にする必要がある場合は、トラッキングを無効にする必要があります。
 
 1. メールを選択して、「**ドラフトの編集**」をクリックします。
 
