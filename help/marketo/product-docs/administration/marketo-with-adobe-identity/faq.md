@@ -3,10 +3,10 @@ description: Adobe Identity Management に関するよくある質問 - Marketo 
 title: Adobe Identity Management に関するよくある質問
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
-workflow-type: ht
-source-wordcount: '1595'
-ht-degree: 100%
+source-git-commit: a68c843e5f454cc782ee5f7647adb57f56b04548
+workflow-type: tm+mt
+source-wordcount: '1614'
+ht-degree: 98%
 
 ---
 
@@ -47,6 +47,7 @@ engagement-xx.marketo.com ドメイン上の Marketo Engage アセットへの�
 * アドビ製品管理者のロールは読み取り専用で、Marketo Engage から編集または削除することはできません。
 * アドビ製品管理者は、標準の Marketo 管理者と同じ権限を持っています。
 * Marketo Engage 管理者のロールは、引き続き管理者で、Marketo Engage でユーザーに付与されます。
+* Marketoのデフォルトの管理者の役割を持つユーザーのみが、Admin ConsoleのMarketo製品管理者として割り当てられます。
 
 **User Management API クライアントのサポートに何か変更はありますか？**
 
