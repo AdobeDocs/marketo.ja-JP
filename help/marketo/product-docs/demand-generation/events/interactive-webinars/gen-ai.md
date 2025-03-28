@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 # GenAI の機能 {#gen-ai-features}
 
 録画したウェビナーのチャプターと概要を自動的に生成し、オーディエンスがアクセスしやすく、簡単に移動できるようにします。
+
+>[!PREREQUISITES]
+>
+>これらの機能を使用する前に、まずAdobe GenAI の利用条件に同意する必要があります。 詳細については、Adobe アカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 * **自動チャプター生成**:AI を利用したテクノロジーが、ウェビナーコンテンツのチャプターを作成します。
 
