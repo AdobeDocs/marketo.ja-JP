@@ -4,10 +4,10 @@ description: 永続的な登録解除 - Marketo ドキュメント - 製品ド�
 title: 永続的な登録解除
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 366de1bf0ec858da50aa19dcea1cb5b36b624394
+source-git-commit: 020e35ad6763240d968ef3fe8e8fff544b77b96f
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 94%
+ht-degree: 85%
 
 ---
 
@@ -25,15 +25,15 @@ Marketo で登録解除が「永続的」になるように、機能が強化さ
 
 リードを再度配信登録するには、いくつかの方法があります。
 
-Salesforce では、リード／連絡先のレコードにある「メールオプトアウト」フィールドを&#x200B;**クリア**&#x200B;します。これで Marketo に同期されます。
+Salesforceで、リード/連絡先のレコードの「メールオプトアウト」フィールドをクリアします。 これで Marketo に同期されます。
 
 ![Salesforce画面 ](assets/durable-unsubscribe-1.png)
 
-Marketo では、リードのレコードで「リード情報」タブの「登録解除」フィールドを&#x200B;**クリア**&#x200B;します。
+Marketoで、その人物のレコードの「情報」タブにある「購読解除」ボックスをオフにします。
 
 ![ 個人レコードの登録解除ボックスの消去 ](assets/durable-unsubscribe-2.png)
 
-1 つまたは複数のリードで、「**データ値を変更**」フローステップを実行します。
+1 つまたは複数のリードで、「_データ値を変更_」フローステップを実行します。
 
 ![ データ値を変更するフローステップ ](assets/durable-unsubscribe-3.png)
 
