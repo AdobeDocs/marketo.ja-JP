@@ -5,9 +5,9 @@ title: マイトークンでの URL の使用
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
 source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '253'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -29,11 +29,11 @@ ht-degree: 66%
 
    >[!CAUTION]
    >
-   >**http/https を使用…**
+   >**http／https… の使用**
    >
-   >* メールでのクリックの追跡を確実に行うには、トークンの値 **https://_inside**と入力しないでくださ_。 手順 7 に示すように、トークン外で使用します。
+   >* メール内でクリック数が確実に追跡されるようにするには、トークンの値&#x200B;_内_&#x200B;に https:// と入力&#x200B;**しない**&#x200B;でください。 手順 7 に示すように、トークン外で使用します。
    >
-   >* http/https を除外しないことを強くお勧めします。 これにより、メールの [web バージョン ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} が正しくレンダリングされない可能性があります。
+   >* http／https を除外しないことを強くお勧めします。 これにより、メールの [web バージョン](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"}が正しくレンダリングされない可能性があります。
 
 1. プログラム内のメールを選択します。
 
@@ -47,13 +47,13 @@ ht-degree: 66%
 
    ![](assets/six-1.png)
 
-1. メールの任意の場所で、（後ろにスペースを残さずに） `https://` と入力し、トークンを挿入アイコンをクリックします。
+1. メールの任意の場所で、`https://` と入力し（後ろにスペースを残さず）、トークンを挿入アイコンをクリックします。
 
    ![](assets/seven.png)
 
    >[!NOTE]
    >
-   >もちろん、サイトで https が使用されていない場合は、`http://` を入力するオプションもあります。
+   >もちろん、サイトで「https」を使用しない場合は、`http://` を入力することもできます。
 
 1. マイトークンを探し、選択して、「**挿入**」をクリックします。
 
@@ -75,4 +75,4 @@ ht-degree: 66%
 
    ![](assets/twelve.png)
 
-   これで完了です。送信後に URL が自動入力されます。https://をトークンの前に置くことで、トラッキング可能なリンクが生成されます。
+   これで完了です。 送信後に URL が自動入力されます。https://をトークンの前に置くことで、トラッキング可能なリンクが生成されます。
