@@ -4,9 +4,9 @@ description: 永続的な登録解除 - Marketo ドキュメント - 製品ド�
 title: 永続的な登録解除
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 020e35ad6763240d968ef3fe8e8fff544b77b96f
+source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '287'
 ht-degree: 85%
 
 ---
@@ -36,8 +36,6 @@ Marketoで、その人物のレコードの「情報」タブにある「購読�
 1 つまたは複数のリードで、「_データ値を変更_」フローステップを実行します。
 
 ![ データ値を変更するフローステップ ](assets/durable-unsubscribe-3.png)
-
-SOAP API を介して既存のリードを更新します。
 
 ## 新しいリードの作成 {#creating-a-new-person}
 
