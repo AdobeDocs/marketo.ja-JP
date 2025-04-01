@@ -3,9 +3,9 @@ description: メールテンプレート - Marketo ドキュメント – 製品
 title: メールテンプレート
 feature: Email Editor
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1843'
+source-wordcount: '1840'
 ht-degree: 5%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->新しい電子メールデザイナーにアクセスするには、Marketo Engageのサブスクリプションを [AdobeIdentity Management System （IMS） ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、迅速な対応をリクエストする際は、Adobeアカウントチーム （アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
+>新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 5%
 
 ## メールテンプレートの作成 {#create-an-email-template}
 
-1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用して、Marketo Engageにログインします。
+1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} からMarketo Engageにログインします。
 
 1. My Marketoで、「**Design Studio**」を選択します。
 
@@ -44,7 +44,7 @@ ht-degree: 5%
 
 ## テンプレートをデザイン {#design-your-template}
 
-_テンプレートをデザイン_ ページで、いくつかのオプションから選択できます。 [ ゼロからデザイン ](#design-from-scratch)、[ 独自のHTMLを読み込む ](#import-html) または [ 既存のテンプレートを選択 ](#choose-a-template) （サンプルまたは既に保存したテンプレートの 1 つ）からデザインします。
+_テンプレートをデザイン_ ページで、いくつかのオプションから選択できます。 [ ゼロからデザイン ](#design-from-scratch)、[ 独自のHTMLを読み込む ](#import-html) または [ 既存のテンプレートを選択 ](#choose-a-template) （サンプルまたは既に保存したもの）からデザインします。
 
 ![](assets/design-your-template-1.png)
 
@@ -58,17 +58,17 @@ _テンプレートをデザイン_ ページで、いくつかのオプショ�
 
 ### HTMLの読み込み {#import-your-html}
 
-既存のHTMLコンテンツを読み込んで、メールテンプレートをデザインできます。 コンテンツには次のようなものがあります。
+既存のHTML コンテンツを読み込んで、メールテンプレートをデザインできます。 コンテンツには次のようなものがあります。
 
-* スタイルシートが組み込まれたHTMLファイル
+* スタイルシートが組み込まれたHTML ファイル
 
-* HTMLファイル、スタイルシート（.css）および画像を含んだ.zip ファイル
+* HTML ファイル、スタイルシート（.css）および画像を含んだ.zip ファイル
 
 >[!NOTE]
 >
 >.zip ファイル構造に制限はありません。ただし、.zip フォルダーのツリー構造に合わせて、相対参照を指定する必要があります。
 
-1. _テンプレートのデザイン_ ページで、「**HTMLの読み込み**」を選択します。
+1. _テンプレートのデザイン_ ページで、「**HTMLを読み込む**」を選択します。
 
 1. 目的のHTMLまたは.zip ファイルをドラッグ&amp;ドロップし（またはコンピューターからファイルを選択し）、「**読み込み**」をクリックします。
 
@@ -76,9 +76,9 @@ _テンプレートをデザイン_ ページで、いくつかのオプショ�
 
    >[!NOTE]
    >
-   >HTMLコンテンツがアップロードされると、コンテンツは互換モードになります。 このモードでは、テキストのパーソナライズ、リンクの追加、コンテンツへのアセットの追加のみを行うことができます。
+   >HTMLのコンテンツがアップロードされると、コンテンツは互換モードになります。 このモードでは、テキストのパーソナライズ、リンクの追加、コンテンツへのアセットの追加のみを行うことができます。
 
-1. メールDesignerのコンテンツコンポーネントを活用するには、「**HTMLコンバーター**」タブをクリックし、「**変換**」をクリックします。
+1. メールDesignerのコンテンツコンポーネントを利用できるようにするには、「**HTML コンバーター**」タブをクリックし、「**変換**」をクリックします。
 
    >[!CAUTION]
    >
@@ -126,7 +126,7 @@ _テンプレートをデザイン_ ページで、いくつかのオプショ�
 
 >[!ENDTABS]
 
-## 構造とコンテンツを追加 {#add-structure-and-content}
+## 構造とコンテンツの追加 {#add-structure-and-content}
 
 1. コンテンツの作成または変更を開始するには、構造からキャンバスに項目をドラッグ&amp;ドロップします。 右側のパネルで設定を編集します。
 
@@ -164,7 +164,7 @@ _テンプレートをデザイン_ ページで、いくつかのオプショ�
 
 ### アセットの追加 {#add-assets}
 
-Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
+Marketo Engage インスタンスの [ 画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存される画像を追加します。
 
 >[!NOTE]
 >
@@ -299,13 +299,13 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
 * **デザインを変更**:_テンプレートのデザイン_ ページに戻ります。 ここから、「[ テンプレートのデザイン ](#design-your-template) セクションで説明されている通りのアクションを実行できます。
 
-* **書き出しHTML**：ビジュアルキャンバスのコンテンツを、zip ファイルとしてパッケージ化されたHTML形式でローカルシステムにダウンロードします。
+* **HTMLを書き出し**：ビジュアルキャンバスのコンテンツを、zip ファイルとしてパッケージ化されたHTML形式のローカルシステムにダウンロードします。
 
 ## テンプレートの詳細を表示 {#view-template-details}
 
 _メールテンプレート_ リストページで、メールテンプレートの名前をクリックして、詳細を表示します。
 
- （assets/view-template-details-1.png
+![](assets/view-template-details-1.png)
 
 名前や説明などの基本的な詳細を編集できます。 編集したフィールドの外側をクリックして、変更を保存します。
 
@@ -319,7 +319,7 @@ _メールテンプレート_ リストページで、メールテンプレー�
 
 ## 参照別に使用される E メール テンプレートの表示 {#email-template-used-by-references}
 
-メールテンプレートの概要で、「**使用者**」タブをクリックして、このメールテンプレートがMarketo Engage内で使用されている場所の詳細を表示します。
+メールテンプレートの概要で「**使用者**」タブをクリックして、このメールテンプレートがMarketo Engage内で使用されている場所の詳細を表示します。
 
 ![](assets/email-template-used-by-references-1.png)
 

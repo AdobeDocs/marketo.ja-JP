@@ -3,20 +3,20 @@ description: メールオーサリング - Marketo ドキュメント – 製品
 title: メールオーサリング
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1739'
-ht-degree: 4%
+source-wordcount: '1742'
+ht-degree: 5%
 
 ---
 
 # メールオーサリング {#email-authoring}
 
-新しいMarketo EngageメールDesignerでメールを作成、パーソナライズ、プレビューする方法について説明します。
+新しいMarketo Engage メールDesignerでメールを作成、パーソナライズ、プレビューする方法について説明します。
 
 >[!PREREQUISITES]
 >
->新しい電子メールデザイナーにアクセスするには、Marketo Engageのサブスクリプションを [AdobeIdentity Management System （IMS） ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、迅速な対応をリクエストする際は、Adobeアカウントチーム （アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
+>新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
 ## メールの作成 {#create-an-email}
 
@@ -26,7 +26,7 @@ E メールデザイナーからのメールは、Design Studio で作成して�
 
 >[!TAB デザインスタジオ]
 
-1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用して、Marketo Engageにログインします。
+1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} からMarketo Engageにログインします。
 
 1. My Marketoで、「**Design Studio**」を選択します。
 
@@ -46,7 +46,7 @@ E メールデザイナーからのメールは、Design Studio で作成して�
 
 >[!TAB  メールプログラム ]
 
-1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用して、Marketo Engageにログインします。
+1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} からMarketo Engageにログインします。
 
 1. メールプログラムを検索および選択（または作成）します。
 
@@ -98,11 +98,11 @@ E メールデザイナーからのメールは、Design Studio で作成して�
 
 ### HTML の読み込み {#import-html}
 
-既存のHTMLコンテンツを読み込んでメールをデザインできます。 コンテンツには次のようなものがあります。
+既存のHTML コンテンツを読み込んでメールをデザインできます。 コンテンツには次のようなものがあります。
 
-* スタイルシートが組み込まれたHTMLファイル
+* スタイルシートが組み込まれたHTML ファイル
 
-* HTMLファイル、スタイルシート（.css）および画像を含んだ.zip ファイル
+* HTML ファイル、スタイルシート（.css）および画像を含んだ.zip ファイル
 
 >[!NOTE]
 >
@@ -116,7 +116,7 @@ E メールデザイナーからのメールは、Design Studio で作成して�
 
 >[!NOTE]
 >
->HTMLコンテンツがアップロードされると、コンテンツは互換モードになります。 このモードでは、テキストのパーソナライズ、リンクの追加、コンテンツへのアセットの追加のみを行うことができます。
+>HTMLのコンテンツがアップロードされると、コンテンツは互換モードになります。 このモードでは、テキストのパーソナライズ、リンクの追加、コンテンツへのアセットの追加のみを行うことができます。
 
 [ 視覚的なメールエディターツール ](#add-structure-and-content) を使用して、読み込んだコンテンツに必要な変更を加えることができます。
 
@@ -160,7 +160,7 @@ E メールデザイナーからのメールは、Design Studio で作成して�
 
 >[!ENDTABS]
 
-## 構造とコンテンツを追加 {#add-structure-and-content}
+## 構造とコンテンツの追加 {#add-structure-and-content}
 
 1. コンテンツの作成または変更を開始するには、構造からキャンバスに項目をドラッグ&amp;ドロップします。 右側のパネルで設定を編集します。
 
@@ -198,7 +198,7 @@ E メールデザイナーからのメールは、Design Studio で作成して�
 
 ### Assetsを追加 {#add-assets}
 
-Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
+Marketo Engage インスタンスの [ 画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存される画像を追加します。
 
 >[!NOTE]
 >
@@ -327,7 +327,7 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 >
 >[ 運用中のメール ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) （マーケティング以外）に購読解除オプションの追加は必要ありません。
 
-* **HTMLのテキストバージョンが空です**:HTMLコンテンツを表示できない場合に備えて、メール本文のテキストバージョンを定義する必要があります。
+* **HTMLのテキストバージョンが空です**:HTMLのコンテンツを表示できない場合に使用する、メール本文のテキストバージョンを定義する必要があります。
 
 * **メールの本文に空のリンクが存在します**：メール内のすべてのリンクが正しいことを確認します。
 
@@ -351,7 +351,7 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
 ## メールの参照 {#reference-an-email}
 
-メールをメールプログラム内で作成した場合は、そのプログラムでのみ使用できます。 メールを Design Studio で作成した場合は、他のメールと同様に、スマートキャンペーンやスマートリストから参照できます。
+メールDesignerのメールは、メール、エンゲージメント、デフォルトおよびイベントプログラムをまたいでアクセスできます（インタラクティブウェビナープログラムを除く）。 メールを Design Studio で作成した場合は、他のメールと同様に、スマートキャンペーンやスマートリストから参照できます。
 
 * [ 通常の手順に従う ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ことによって、スマート・リストで参照します。
 
