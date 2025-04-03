@@ -4,10 +4,10 @@ description: Web ページアクティビティレポート - Marketo ドキュ�
 title: Web ページアクティビティレポート
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 9b2d2ffd93f2c8b209e4ea25bbe7ef41c9f0e5fc
+source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 93%
+source-wordcount: '322'
+ht-degree: 91%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 93%
 
 1. 完成です。レポートをレビューして、サイトの訪問者を確認します。
 
-   ![](assets/image2017-3-29-9-3a21-3a36.png)
+   ![](assets/web-page-activity-report-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -51,7 +51,7 @@ ht-degree: 93%
  <tbody> 
   <tr> 
    <td>顧客</td> 
-   <td>訪問者の名前、役職および会社。<br><strong>クリック</strong>すると、リードの詳細とアクティビティ履歴が表示されます。</td> 
+   <td>訪問者の名前、役職および会社。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank"> クリック </a></strong> して、訪問したページを表示します。</td>
   </tr> 
   <tr> 
    <td>初回／最終訪問（タイムゾーン）</td> 
@@ -59,7 +59,7 @@ ht-degree: 93%
   </tr> 
   <tr> 
    <td>ページ表示</td> 
-   <td>この訪問者が読み込んだページの数。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">クリック</a></strong>すると、訪問されたページが表示されます。</td> 
+   <td>この訪問者が読み込んだページの数。</td>
   </tr> 
   <tr> 
    <td>HTTP 照会元</td> 
