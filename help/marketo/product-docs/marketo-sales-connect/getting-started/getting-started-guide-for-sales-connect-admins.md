@@ -4,9 +4,9 @@ title: Sales Connect 管理者向けスタートガイド
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
 source-git-commit: 7005be3c62987e1f8beb7301fbb28293d96aad18
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '479'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 78%
 
 ## 新しい Marketo Sales Connect アカウントへのアクセス {#accessing-your-new-marketo-sales-connect-account}
 
-Marketo Sales Connect を購入している場合は、インスタンスへのアクセスがMarketoの「管理者」セクションからプロビジョニングされます。 Marketo 管理者が新しいインスタンスへのアクセスをプロビジョニングする方法の手順を確認するには、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md){target="_blank"}してください。
+Marketo Sales Connect を購入済みの場合は、Marketo の「管理者」セクションからインスタンスへのアクセスがプロビジョニングされます。Marketo 管理者が新しいインスタンスへのアクセスをプロビジョニングする方法の手順を確認するには、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md){target="_blank"}してください。
 
 ![](assets/getting-started-guide-for-sales-connect-admins-1.png)
 
@@ -34,7 +34,7 @@ Marketo から Marketo Sales Connect アカウントをプロビジョニング�
 
 メール、通話、タスクなどのセールスフォースに対するセールス活動をログに記録するには、すべてのユーザーが Salesforce に個別に接続する必要があります。ただし、管理者として Salesforce に接続する場合は、チーム全体のアクティビティのログを設定して、すべての Sales Connect ユーザーにグローバルログ設定を適用できます。
 
-Sales Connect インスタンスをSalesforceインスタンスに管理者または管理者以外のユーザーとして接続するには、[ この記事 ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"} の手順に従います。
+管理者または管理者以外として Sales Connect インスタンスを Salesforce インスタンスに接続するには、[この記事](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}の手順に従ってください。
 
 ![](assets/getting-started-guide-for-sales-connect-admins-3.png)
 
@@ -46,7 +46,7 @@ Marketo に接続すると、セールス部門は潜在顧客の発掘に、マ
 * [注目のアクション](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md){target="_blank"}をライブフィードにプッシュ
 * Marketo へのセールスアクティビティの記録
 
-Marketoへの接続方法と、営業ユーザーに接続へのアクセス権を付与する方法について詳しくは、[ ここをクリック ](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"} してください。
+Marketo に接続し、セールスユーザに接続へのアクセス権を付与する方法について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}してください。
 
 ## Salesforce カスタマイズパッケージのインストール {#installing-salesforce-customization-package}
 
@@ -56,11 +56,11 @@ Salesforce のカスタマイズ機能のインストールについて詳しく
 
 ## サンドボックスでのテスト {#testing-in-sandbox}
 
-Marketo Sales Connect を Marketo Sandbox でテストするチームに対して、リクエストに応じて追加の Sales Connect アカウントをプロビジョニングできます。これは、Marketo Sandbox を購入したお客様、または Marketo バンドルの一部として所有しているお客様のみを対象としています。サンドボックスの取得に興味がある場合は、Marketo担当営業または販売店にお問い合わせください。
+Marketo Sales Connect を Marketo Sandbox でテストするチームに対して、リクエストに応じて追加の Sales Connect アカウントをプロビジョニングできます。これは、Marketo Sandbox を購入したお客様、または Marketo バンドルの一部として所有しているお客様のみを対象としています。サンドボックスの取得に興味がある場合は、Marketo アカウントマネージャーにお問い合わせください。
 
 >[!NOTE]
 >
->同じメール ID を持つ Sales Connect アカウントを複数のインスタンスにプロビジョニングすることはできません。つまり、Marketo Sandbox インスタンスでテストするための追加の Sales Connect アカウントが必要な場合は、アカウントごとに異なるメール ID を使用する必要があります。
+>同じメール ID を持つ Sales Connect アカウントを複数のインスタンスにプロビジョニングすることはできません。つまり、追加の Sales Connect アカウントを Marketo Sandbox インスタンスでテストする場合、各アカウントで異なるメール ID を使用する必要があります。
 
 >[!MORELIKETHIS]
 >
