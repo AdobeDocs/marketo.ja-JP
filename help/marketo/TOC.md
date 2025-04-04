@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 251efc77361ce7d90b6a74ec86b184ac0060663a
-workflow-type: ht
-source-wordcount: '9427'
-ht-degree: 100%
+source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+workflow-type: tm+mt
+source-wordcount: '9429'
+ht-degree: 99%
 
 ---
 
@@ -1065,6 +1065,7 @@ ht-degree: 100%
             + [ストリームコンテンツの削除](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + メールデザイナー {#email-designer}
          + [概要](product-docs/email-marketing/email-designer/overview.md)
+         + [機能の比較](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
          + [メールテンプレートオーサリング](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [AEM Assets の操作](product-docs/email-marketing/email-designer/aem-assets.md)
