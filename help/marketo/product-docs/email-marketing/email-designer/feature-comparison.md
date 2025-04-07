@@ -6,10 +6,8 @@ description: この表を使用して、以前のメールエディター（メ�
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 659fca6a02251b35fc8443d235b831a383a43d35
+source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%
@@ -32,7 +30,7 @@ ht-degree: 13%
 <tbody>
   <tr>
     <td>OOTB スターター E メールテンプレート</td>
-    <td>メールDesignerで提供される OOTB テンプレートを使用する機能。</td>
+    <td>メールDesignerで提供される標準提供のテンプレートを使用する機能。</td>
     <td>対応可能</td>
     <td>対応可能</td>
   </tr>
@@ -98,7 +96,7 @@ ht-degree: 13%
   </tr>
   <tr>
     <td>AI アシスタント</td>
-    <td>生成 AI モデルを通じて、件名、コンテンツの一部、またはメール全体を生成する機能。</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md"> 生成 AI</a> モデルを通じて、件名、コンテンツの一部、またはメール全体を生成する機能。</td>
     <td>利用不可</td>
     <td>対応可能</td>
   </tr>
@@ -110,7 +108,7 @@ ht-degree: 13%
   </tr>
   <tr>
     <td>コンテンツのロック</td>
-    <td>メールの作成時に変更できないようにメールテンプレートのコンテンツをロックする機能。</td>
+    <td>メールテンプレートの <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md"> コンテンツをロック </a> して、メールの作成時に変更できないようにする機能。</td>
     <td>利用不可</td>
     <td>対応可能</td>
   </tr>
@@ -164,7 +162,7 @@ ht-degree: 13%
   </tr>
   <tr>
     <td>Adobe Express との統合</td>
-    <td>Adobe Expressを使用して画像を作成/変更する機能。</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a> を使用して画像を作成/変更する機能。</td>
     <td>利用不可</td>
     <td>対応可能</td>
   </tr>
@@ -178,7 +176,7 @@ ht-degree: 13%
     <td>モジュール</td>
     <td>特定の構造およびコンテンツプリセットを事前に作成して、メール全体で再利用する機能。</td>
     <td>対応可能</td>
-    <td>カスタマイズ可能なフラグメントとして使用可能</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md"> カスタマイズ可能なフラグメント </a> として使用可能</td>
   </tr>
   <tr>
     <td>AEM Assets Cloud Serviceの統合</td>
@@ -241,6 +239,18 @@ ht-degree: 13%
     <td>まもなくリリース</td>
   </tr>
   <tr>
+    <td>Velocity スクリプティング</td>
+    <td>メールで Velocity スクリプティングを使用する機能。</td>
+    <td>対応可能</td>
+    <td>不要</td>
+  </tr>
+   <tr>
+    <td>Handlebar スクリプティング</td>
+    <td>メールで Handlebar スクリプティングを使用する機能。</td>
+    <td>利用不可</td>
+    <td>2025 年第 3 四半期に予定</td>
+  </tr>
+  <tr>
     <td>Litmus 統合</td>
     <td>Litmus と統合して、様々なメールクライアントでメールがどのようにレンダリングされるかを確認する機能。</td>
     <td>利用不可</td>
@@ -255,12 +265,6 @@ ht-degree: 13%
   <tr>
     <td>スパムアサシンの統合</td>
     <td>配信前にメールがスパムとしてマークされる可能性を検出する機能。</td>
-    <td>利用不可</td>
-    <td>2025 年第 3 四半期に予定</td>
-  </tr>
-  <tr>
-    <td>Handlebar スクリプティング</td>
-    <td>メールで Handlebar スクリプティングを使用する機能。</td>
     <td>利用不可</td>
     <td>2025 年第 3 四半期に予定</td>
   </tr>
@@ -300,10 +304,5 @@ ht-degree: 13%
     <td>対応可能</td>
     <td>利用不可</td>
   </tr>
-  <tr>
-    <td>Velocity スクリプティング</td>
-    <td>メールで Velocity スクリプティングを使用する機能。</td>
-    <td>対応可能</td>
-    <td>不要</td>
-  </tr>
 </tbody></table>
+
