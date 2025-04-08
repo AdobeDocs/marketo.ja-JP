@@ -5,9 +5,9 @@ description: 新しいAdobe Marketo Engage メールDesignerへようこそ。
 title: 概要
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '770'
 ht-degree: 1%
 
 ---
@@ -57,6 +57,8 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 * [AI アシスタントの使用 ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}:Adobeの生成 AI テクノロジーを活用して、便利なテキストや画像をメールに追加します。
 
 * [ メールテンプレート内のコンテンツのロック ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：メールテンプレート内のコンテンツをロックして、意図しない編集や削除を防ぐ方法について説明します。
+
+* [ 機能比較 ](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較します。
 
 ## よくある質問 {#faq}
 

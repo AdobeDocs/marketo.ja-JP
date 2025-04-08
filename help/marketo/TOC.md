@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '9429'
+source-wordcount: '9433'
 ht-degree: 99%
 
 ---
@@ -964,6 +964,7 @@ ht-degree: 99%
             + [ランディングページへのスニペットの追加](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [付加的なランディングページ CNAME の追加](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [ランディングページへの SSL の追加](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
+            + [Ssl 一時ドキュメントを追加](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-temp-doc.md)
             + [ランディングページへのテキストとトークンの追加](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
             + [ランディングページでパーソナライズ URL を有効にする](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
             + [アカウントでパーソナライズ URL を有効にする](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
