@@ -1,26 +1,30 @@
 ---
-description: Advanced BI Analytics の概要 – Marketo ドキュメント – 製品ドキュメント
-title: 高度な BI 分析の概要
+description: 詳細 BI Analytics 概要 - Marketo ドキュメント - 製品ドキュメント
+title: BI Analytics概要詳細
 hide: true
 hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: c123899d8f2ef47cee542d244a6655c6d86e181e
+source-git-commit: 0d9e9e1b2985510b52caf0ca54a1a927e7445ef8
 workflow-type: tm+mt
-source-wordcount: '969'
+source-wordcount: '993'
 ht-degree: 3%
 
 ---
 
-# 高度な BI 分析の概要 {#advanced-bi-analytics-overview}
+# BI Analytics概要詳細 {#advanced-bi-analytics-overview}
 
-Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Builder）は、Marketo Engage データに対する柔軟なレポートおよびビジュアライゼーションインターフェイスを提供し、進行、パフォーマンスなどに関する詳細を提供します。 より豊かなインタラクティブ性とビジュアライゼーション、より高速なパフォーマンス、よりシームレスで直感的なユーザーエクスペリエンスを備えています。
+詳細 BI Analytics (以前は収益エクスプローラーおよび詳細 Report Builderと呼ばれていました) は、Marketo Engageデータに関する柔軟なレポートおよび視覚化インターフェイスを提供し、進行状況、パフォーマンスなどに関する詳細を提供します。 より豊かなインタラクティブ性とビジュアライゼーション、より高速なパフォーマンス、よりシームレスで直感的なユーザーエクスペリエンスを備えています。
 
 これらの機能強化により、時間を節約し、より価値のあるインサイトを見つけ、最適化を推進し、より魅力的なデータストーリーを同僚や関係者と共有するのに役立ちます。
 
 >[!PREREQUISITES]
 >
 >この機能にアクセスするには、Advanced BI Analytics アドオンを購入している必要があります。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+
+>[!NOTE]
+>
+>この機能がベータ版である（2025 年 6 月 1 日（PT）まで）間に、ご質問がある場合は、`adobe-marketo-advanced-bi-analytics-public-beta@adobe.com` にメールを送信してください。
 
 ## 主な機能とメリット {#key-features-and-benefits}
 
@@ -32,41 +36,41 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 * **直感的なレポートオーサリングインターフェイス**：ポイント&amp;クリック操作が可能なので、複数ページのドリルスルーレポートを含め、レポートの作成が簡単になります。 このインターフェイスを使用すると、深い技術的専門知識を必要とせずに、複雑でインタラクティブなレポートをデザインできます。
 
-* **PowerPoint エクスポートを含む簡単な共有**：組み込みの共有機能により、インサイトを簡単に共有できます。 特に、プレゼンテーション用の PowerPoint スライドを簡単に生成できます。
+* **PowerPoint エクスポートを含む簡単な共有**：組み込みの共有機能により、インサイトを簡単に共有できます。 他の宛先の中でも、ユーザーはプレゼンテーション対応のPowerPointスライドを簡単に生成できます。
 
 ## レポートの作成 {#create-a-report}
 
-1. My Marketoで、「**Advanced BI Analytics （Beta）**」タイルをクリックします。
+1. My Marketoで、「**[!UICONTROL Advanced BI Analytics （Beta）]**」タイルをクリックします。
 
-   スクリーンショット
+   ![](assets/advanced-bi-analytics-overview-1.png)
 
-1. **レポート** タブで、**レポートを作成** をクリックします。
+1. **[!UICONTROL レポート]** タブで、**[!UICONTROL レポートを作成]** をクリックします。
 
-   スクリーンショット
+   ![](assets/advanced-bi-analytics-overview-2.png)
 
 1. 目的の測定を選択します。
 
-   スクリーンショット
+   ![](assets/advanced-bi-analytics-overview-3.png)
 
 1. 目的の寸法を選択します。
 
-   スクリーンショット
+   ![](assets/advanced-bi-analytics-overview-4.png)
 
 1. 優先ビジュアライゼーションを選択します。
 
-   スクリーンショット
+   ![](assets/advanced-bi-analytics-overview-5.png)
 
-1. ディメンション属性をドラッグ&amp;ドロップしてフィルターを追加します。
+1. 追加ディメンション属性をドラッグ&amp;ドロップしてフィルターします。
 
-   スクリーンショット
+   ![](assets/advanced-bi-analytics-overview-6.png)
 
-## ビデオデモ {#video}
+## デモビデオ {#video}
 
-次のビデオでは、複数ページのドリルスルーレポートのエクスペリエンスの例を確認できます。
+次のビデオでは、複数ページドリルスルー レポート エクスペリエンスの例を確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on)
 
-## Advanced BI Analytics の標準レポート {#standard-reports}
+## 詳細 BI Analyticsでのレポート標準 {#standard-reports}
 
 カスタムレポートの例として、次の標準レポートが含まれています。
 
@@ -101,7 +105,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
       <td>メール – パフォーマンスの詳細</td>
     </tr>
     <tr>
-      <td>メール – クリック率の減衰</td>
+      <td>電子メール - クリック率 ディケイ</td>
     </tr>
     <tr>
       <td rowspan="8">リード分析</td>
@@ -123,10 +127,10 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
       <td>リードコンバージョンレポート</td>
     </tr>
     <tr>
-      <td>リードフローレポート</td>
+      <td>リード流量レポート</td>
     </tr>
     <tr>
-      <td>リード遷移時間レポート</td>
+      <td>リードの移行時間レポート</td>
     </tr>
     <tr>
       <td rowspan="5">プログラム分析</td>
@@ -146,7 +150,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
     </tr>
     <tr>
       <td rowspan="7">商談分析</td>
-      <td>クローズ済みの商談に対するマーケティング効果</td>
+      <td>クローズドオポチュニティに対するマーケティングの影響</td>
     </tr>
     <tr>
       <td>商談のクローズ成立に対するマーケティングの影響</td>
@@ -164,18 +168,18 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
       <td>（MT）作成された商談に対するマーケティングの影響</td>
     </tr>
     <tr>
-      <td>（FT）商談に対するマーケティングの影響力の獲得</td>
+      <td>(FT)獲得した商談に対するマーケティングの影響</td>
     </tr>
     <tr>
-      <td>商談リード分析</td>
-      <td>獲得した商談別リード所有者トップ 10</td>
+      <td>オポチュニティリード分析</td>
+      <td>獲得したオポチュニティ別のトップ 10 リードオーナー</td>
     </tr>
   </tbody>
 </table>
 
 ## 注意事項 {#note}
 
-パブリックベータ版は 2025 年 6 月 1 日（PT）まで実行され、その後「売上高エクスプローラー」を使用したクラシックエクスペリエンスは恒久的に非推奨（廃止予定）になります。
+パブリックベータは2025年6月1日まで実行され、その時点で「レベニューエクスプローラー」を介したクラシックエクスペリエンスは完全に非推奨になります。
 
 _パブリックベータ版の場合：_
 
@@ -184,7 +188,7 @@ _パブリックベータ版の場合：_
 
   >[!IMPORTANT]
   >
-  >カスタムレポートのレプリケーションは、コホートで実行されます。 カスタムレポートが新しいエクスペリエンスにレプリケートされたら、2 つのエクスペリエンス間の一貫性を確保するために、従来のエクスペリエンスで行われた変更も、新しいエクスペリエンスの対応するレポートに手動で適用する必要があります。 上記の情報メモは、顧客レポートのレプリケーション時にクラシックエクスペリエンスで表示されます。
+  >カスタムレポートのレプリケーションは、グループで実行されます。 カスタムレポートが新しいエクスペリエンスにレプリケートされたら、2 つのエクスペリエンス間の一貫性を確保するために、従来のエクスペリエンスで行われた変更も、新しいエクスペリエンスの対応するレポートに手動で適用する必要があります。 上記の情報メモは、顧客レポートのレプリケーション時にクラシックエクスペリエンスで表示されます。
 
    * 従来のエクスペリエンスのダッシュボードは転送できず、新しいエクスペリエンスで再作成する必要があります。 これらは、新しいエクスペリエンスのレポートとして再作成する必要があります。新しいエクスペリエンスのフィルターは、可能な値を自動的に取り込み、従来のエクスペリエンスで可能なすべての値を手動で個別に入力する必要はありません。
 
@@ -200,19 +204,19 @@ _パブリックベータ版の場合：_
 
 新しいビジュアライゼーションエクスペリエンスは、組み込みのPower BI サービスを通じて提供されます。
 
-ビジュアライゼーションエクスペリエンスのクイックチュートリアルについては、Microsoft[Power BIでビジュアルを使用 ](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} ドキュメントを参照してください。
+ビジュアライゼーションエクスペリエンスのクイックチュートリアルについては、Microsoft[Power BIでビジュアルを使用 ](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/) ドキュメントを参照してください。 Marketo Engageでは、これらの機能のすべてが表示されるわけではありません。
 
 ### 主要なエクスペリエンスの変更点 {#notable-experience-changes}
 
 従来のエクスペリエンス（売上高エクスプローラー/高度なReport Builder）からの新しいエクスペリエンス（高度な BI Analytics）の変更点を以下に示します。
 
-* 日付タイプのフィルター機能は同等に機能しますが、値を指定する構文は変更されました。 既存のカスタムレポートでは、「曜日」を除くすべての日付タイプのフィルター値は、新しいエクスペリエンスで対応する同等の値に自動的に変換されます。 「曜日」値のサポートは廃止されました。
+* 日付型のフィルターも同様に機能します。ただし、値を指定するための構文が変更されました。 既存のカスタムレポートでは、「曜日」を除くすべての日付タイプのフィルター値は、新しいエクスペリエンスで対応する同等の値に自動的に変換されます。 「今週の日」の値サポート廃止されました。
 
-* 文字列タイプのフィルターでは、大文字と小文字が区別されるようになりました。
+* 文字列タイプのフィルターでは大文字と小文字が区別されるようになりました。
 
-* クラシックエクスペリエンスのランタイム式フィールドは、サポートされなくなりました。
+* クラシック エクスペリエンス のランタイム数式項目はサポートされなくなりました。
 
-* メール購読には、レポートのHTMLではなくPDFの書き出しが含まれます。 新しい電子メールサブスクリプションには、レポート定義は含まれません。
+* 電子メール購読には、レポートのHTMLではなく PDF の書き出しが含まれています。 新しい電子メール購読には、レポート定義は含まれません。
 
 * レポートのディープリンクは現在サポートされていません。
 
@@ -223,8 +227,3 @@ _パブリックベータ版の場合：_
 >[!NOTE]
 >
 >モデル パフォーマンス分析（リード） レポート領域のビジュアルに複数のカスタム フィールド グループ フィールドを含めることはできません。
-
->[!MORELIKETHIS]
->
->[ 指標とディメンション ](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
-
