@@ -5,9 +5,9 @@ title: Web ページアクティビティレポート
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
 source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '322'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 91%
 >
 >* [Web サイトへの Munchkin トラッキングコードの追加](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}
 
-1. [ レポートを作成 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) し、**Web ページアクティビティレポート**[ レポートタイプ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} を選択します
+1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)して、「**Web ページアクティビティレポート**」[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}を選択します。
 1. レポートで[既知または匿名のリードの表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md){target="_blank"}を選択します。
 
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"}し、「**レポート**」タブをクリックします。
@@ -51,7 +51,7 @@ ht-degree: 91%
  <tbody> 
   <tr> 
    <td>顧客</td> 
-   <td>訪問者の名前、役職および会社。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank"> クリック </a></strong> して、訪問したページを表示します。</td>
+   <td>訪問者の名前、役職および会社。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">クリック</a></strong>すると、訪問されたページが表示されます。</td>
   </tr> 
   <tr> 
    <td>初回／最終訪問（タイムゾーン）</td> 
@@ -82,7 +82,7 @@ ht-degree: 91%
 
 >[!TIP]
 >
->セールス担当者が喜びます。[ レポートをフィルタリング ](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"} してテリトリーを絞り込み [ 登録 ](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}!
+>セールス担当者が喜びます。自分の担当地域に合わせて[レポートをフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"}し、[購読します](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >
