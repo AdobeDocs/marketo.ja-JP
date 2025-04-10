@@ -4,26 +4,26 @@ description: スマートリスト／トリガー制約としてのカスタム�
 title: スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 73%
+ht-degree: 72%
 
 ---
 
 # スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除 {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketo Engageでは、Salesforce カスタムオブジェクトの同期をきめ細かく制御できます。 これにより、カスタムオブジェクトフィルターで制約として使用できるフィールドを選択し、スマートキャンペーンでトリガーとして使用できます。
+Marketo Engageでは、Salesforceのカスタムオブジェクト同期をきめ細かく制御できます。 これにより、カスタムオブジェクトフィルターで制約として使用できるフィールドを選択し、スマートキャンペーンでトリガーとして使用できます。
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」をクリックします。
+1. **[!UICONTROL 管理者]** エリアに移動しました。
 
-   ![](assets/image2014-12-10-13-3a9-3a47.png)
+   ![](assets/add-remove-custom-object-field-1.png)
 
-1. **[!UICONTROL Admin]**/**[!UICONTROL Salesforce Objects Sync]** をクリックします。
+1. 「**[!UICONTROL Salesforce オブジェクト同期]**」をクリックします。
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 

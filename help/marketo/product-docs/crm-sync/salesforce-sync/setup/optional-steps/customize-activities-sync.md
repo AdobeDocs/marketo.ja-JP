@@ -4,20 +4,24 @@ description: アクティビティ同期のカスタマイズ - Marketo ドキ�
 title: アクティビティ同期のカスタマイズ
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 91%
+source-wordcount: '294'
+ht-degree: 84%
 
 ---
 
 # アクティビティ同期のカスタマイズ {#customize-activities-sync}
 
-Marketo Sales Insight を使用しない場合、Marketo Engageでは、特定のイベントに関する Salesforce アクティビティ履歴レコードを作成できます。 有効にする方法は、以下のとおりです。
+Marketo Sales Insightを使用しない場合、Marketo Engageでは、特定のイベントに関するSalesforce アクティビティ履歴レコードを作成できます。 有効にする方法は、以下のとおりです。
 
-1. 「**[!UICONTROL 管理]**」に移動します。
+>[!NOTE]
+>
+>SalesforceとMarketo Engageの同期では、ユーザーがSalesforceにプッシュされる前に発生したアクティビティはSalesforceにプッシュされません。
 
-   ![](assets/admin.png)
+1. 「**[!UICONTROL 管理者]**」に移動します。
+
+   ![](assets/customize-activities-sync-1.png)
 
 1. **[!DNL Salesforce]** をクリックし、**[!UICONTROL 同期オプションを編集]** をクリックします。
 
