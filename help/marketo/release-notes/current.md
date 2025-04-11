@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 100%
+source-wordcount: '536'
+ht-degree: 85%
 
 ---
 
@@ -86,3 +86,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **SOAP API の廃止**：Marketo SOAP API のサポートは、2025年10月31日（PT）に終了する予定です。SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
 
+* **新規 Analytics機能 - パブリック ベータ版**: [詳細 BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (以前の収益エクスプローラーおよび 詳細 Report Builder) は、4 月中旬に現在のすべての収益サイクル エクスプローラー ユーザーへのロールアウトを開始します。 この新しいツールは、Marketo Engageデータに関する柔軟なレポートおよび視覚化インターフェイスを提供し、進行状況、パフォーマンスなどに関する詳細を提供します。 より豊富なインタラクティブ機能と視覚化、より高速なパフォーマンス、よりシームレスで直感的なユーザーエクスペリエンスを備えています。
+
+この機能にアクセスするには、詳細 BI Analytics アドオンを購入している必要があります。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
