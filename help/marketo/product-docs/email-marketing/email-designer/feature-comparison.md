@@ -7,7 +7,7 @@ feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 13%
@@ -16,9 +16,9 @@ ht-degree: 13%
 
 # メールDesignerとメールエディターの機能の比較 {#feature-comparison}
 
-以下の表を使用して、以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較してください。
+次の表を使用して、以前の電子メール 編集者 (電子メール エディター 2.0) と新しい電子メール デザイナーの機能の可用性を比較します。
 
-詳しくは、このページ（および [ 最新のリリースノート ](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
+更新については、このページ(および [現在のリリースノート](/help/marketo/release-notes/current.md){target="_blank"})を確認してください。
 
 <table><thead>
   <tr>
@@ -30,19 +30,19 @@ ht-degree: 13%
 <tbody>
   <tr>
     <td>OOTB スターター E メールテンプレート</td>
-    <td>メールDesignerで提供される標準提供のテンプレートを使用する機能。</td>
+    <td>Email Designer が提供する <a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank">すぐに使用できるテンプレート</a> を使用できます。</td>
     <td>対応可能</td>
     <td>対応可能</td>
   </tr>
   <tr>
     <td>保存済みテンプレート/マイテンプレート</td>
-    <td>テンプレートを保存し、それらを使用してメールを作成する機能。</td>
+    <td>テンプレートを保存し、それらを使用して電子メールを作成する機能。</td>
     <td>対応可能</td>
     <td>対応可能</td>
   </tr>
   <tr>
-    <td>メールテンプレートのプレビュー</td>
-    <td>メールテンプレートをメールで使用する前にプレビューする機能。</td>
+    <td>電子メールテンプレートプレビュー</td>
+    <td>電子メールで使用する前に電子メールテンプレートをプレビューする機能。</td>
     <td>対応可能</td>
     <td>対応可能</td>
   </tr>
@@ -72,7 +72,7 @@ ht-degree: 13%
   </tr>
   <tr>
     <td>画像/ファイルをアップロード</td>
-    <td>ローカルシステムから画像をアップロードする機能。</td>
+    <td>ローカルシステムから <a href="/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-assets" target="_blank"> 画像をアップロード </a> できます。</td>
     <td>対応可能</td>
     <td>対応可能</td>
   </tr>
@@ -83,8 +83,8 @@ ht-degree: 13%
     <td>対応可能</td>
   </tr>
   <tr>
-    <td>Design Studio Assets</td>
-    <td>Design Studio のイメージとファイルにエディタ/デザイナ内でアクセスできます。</td>
+    <td>デザインスタジオAssets</td>
+    <td>編集者/デザイナー内でデザインスタジオの画像とファイルにアクセスする機能。</td>
     <td>対応可能</td>
     <td>対応可能</td>
   </tr>
@@ -96,7 +96,7 @@ ht-degree: 13%
   </tr>
   <tr>
     <td>AI アシスタント</td>
-    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md"> 生成 AI</a> モデルを通じて、件名、コンテンツの一部、またはメール全体を生成する機能。</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank"> 生成 AI</a> モデルを通じて、件名、コンテンツの一部、またはメール全体を生成する機能。</td>
     <td>利用不可</td>
     <td>対応可能</td>
   </tr>
@@ -108,7 +108,7 @@ ht-degree: 13%
   </tr>
   <tr>
     <td>コンテンツのロック</td>
-    <td>メールテンプレートの <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md"> コンテンツをロック </a> して、メールの作成時に変更できないようにする機能。</td>
+    <td>メールテンプレートの <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank"> コンテンツをロック </a> して、メールの作成時に変更できないようにする機能。</td>
     <td>利用不可</td>
     <td>対応可能</td>
   </tr>
@@ -125,20 +125,20 @@ ht-degree: 13%
     <td>対応可能</td>
   </tr>
   <tr>
-    <td>サンプル/配達確認を送信</td>
-    <td>最終送信前に検証する配達確認としてメールを送信する機能。</td>
+    <td>送信サンプル/プルーフ</td>
+    <td>最終送信前に検証するための配達確認として電子メールを送信する機能。</td>
     <td>対応可能</td>
     <td>対応可能</td>
   </tr>
   <tr>
-    <td>メールをテンプレートとして保存</td>
-    <td>メールをメールテンプレートとして保存する機能。</td>
+    <td>電子メールをテンプレートとして保存</td>
+    <td>電子メールを電子メールテンプレートとして保存する機能。</td>
     <td>対応可能</td>
     <td>対応可能</td>
   </tr>
   <tr>
     <td>コンテンツをフラグメントとして保存</td>
-    <td>コンテンツの一部をフラグメントとして保存する機能。</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/fragments.md#save-a-new-fragment-from-email-or-template-content" target="_blank"> コンテンツの一部をフラグメントとして保存 </a> る機能。</td>
     <td>利用不可</td>
     <td>対応可能</td>
   </tr>
@@ -162,7 +162,7 @@ ht-degree: 13%
   </tr>
   <tr>
     <td>Adobe Express との統合</td>
-    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a> を使用して画像を作成/変更する機能。</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank">Adobe Express</a> を使用して画像を作成/変更する機能。</td>
     <td>利用不可</td>
     <td>対応可能</td>
   </tr>
@@ -176,7 +176,7 @@ ht-degree: 13%
     <td>モジュール</td>
     <td>特定の構造およびコンテンツプリセットを事前に作成して、メール全体で再利用する機能。</td>
     <td>対応可能</td>
-    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md"> カスタマイズ可能なフラグメント </a> として使用可能</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md" target="_blank"> カスタマイズ可能なフラグメント </a> として使用可能</td>
   </tr>
   <tr>
     <td>AEM Assets Cloud Serviceの統合</td>
@@ -216,18 +216,18 @@ ht-degree: 13%
   </tr>
   <tr>
     <td>Gen Studio との統合</td>
-    <td>Gen Studio との統合機能。</td>
+    <td>Gen Studio ～と統合する機能。</td>
     <td>利用不可</td>
     <td>まもなくリリース</td>
   </tr>
   <tr>
-    <td>電子メールアセットを使用したプログラムの移動、削除、読み込みのサポート</td>
-    <td>メールプログラムを電子メールアセットと共に移動、削除、読み込む機能。</td>
+    <td>電子メールアセット付きのプログラムの移動、削除、およびインポートのサポート</td>
+    <td>電子メールプログラムと電子メールアセットを移動、削除、およびインポートする機能。</td>
     <td>対応可能</td>
     <td>まもなくリリース</td>
   </tr>
   <tr>
-    <td>Marketo テンプレートコンバーター/インポート</td>
+    <td>Marketo テンプレート Converter/インポート</td>
     <td>既存のMarketo テンプレートを、新規メールDesignerに合わせて変換する機能。</td>
     <td>不要</td>
     <td>まもなくリリース</td>
@@ -240,19 +240,19 @@ ht-degree: 13%
   </tr>
   <tr>
     <td>Velocity スクリプティング</td>
-    <td>メールで Velocity スクリプティングを使用する機能。</td>
+    <td>電子メールで Velocity スクリプトを使用できるようになりました。</td>
     <td>対応可能</td>
     <td>不要</td>
   </tr>
    <tr>
-    <td>Handlebar スクリプティング</td>
-    <td>メールで Handlebar スクリプティングを使用する機能。</td>
+    <td>ハンドルバースクリプティング</td>
+    <td>E メール内で Handlebar スクリプト を使用する機能。</td>
     <td>利用不可</td>
-    <td>2025 年第 3 四半期に予定</td>
+    <td>'25年第3四半期に計画</td>
   </tr>
   <tr>
-    <td>Litmus 統合</td>
-    <td>Litmus と統合して、様々なメールクライアントでメールがどのようにレンダリングされるかを確認する機能。</td>
+    <td>リトマス統合</td>
+    <td>Litmus～と統合するして、さまざまな電子メールクライアントで電子メールがどのようにレンダリングされるかを確認する機能。</td>
     <td>利用不可</td>
     <td>2025 年第 3 四半期に予定</td>
   </tr>
@@ -293,7 +293,7 @@ ht-degree: 13%
     <td>未定</td>
   </tr>
   <tr>
-    <td>コードエディター</td>
+    <td>Codeエディター</td>
     <td>メール、メールテンプレート、フラグメントのHTML コンテンツを変更する機能。</td>
     <td>対応可能</td>
     <td>未定</td>
