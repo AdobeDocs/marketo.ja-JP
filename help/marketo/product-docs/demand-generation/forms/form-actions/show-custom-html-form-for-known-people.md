@@ -5,15 +5,15 @@ title: 既知のリードのカスタム HTML フォームの表示
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
 source-git-commit: 55964499f5d49258539492f952513833af5692b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '254'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
 # 既知のリードのカスタム HTML フォームの表示 {#show-custom-html-form-for-known-people}
 
-訪問者が過去にフルネームとメールアドレスを指定していて、フォーム全体を取得したくない場合は、カスタム HTML（ダウンロードボタンのみ）を表示する方法を説明します。
+訪問者が過去に氏名とメールアドレスを指定しており、フォーム全体を取得しない場合に、カスタム HTML（例：ダウンロードボタンのみ）を表示する方法について説明します。
 
 1. 「**マーケティングアクティビティ**」に移動します。
 

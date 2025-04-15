@@ -5,9 +5,9 @@ title: 閲覧された web ページ、web ページアクティビティレポ�
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
 source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 87%
 
    >[!MORELIKETHIS]
    >
-   >[ 会社 web アクティビティレポート ](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) を作成して、サイトに訪問している会社を確認します。
+   >[企業の web アクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)を作成して、サイトを訪問している会社を確認します。
