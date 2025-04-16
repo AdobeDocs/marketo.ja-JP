@@ -3,8 +3,10 @@ unique-page-id: 2359722
 description: フリーフォームランディングページへの動画の追加 - Marketo ドキュメント - 製品ドキュメント
 title: フリーフォームランディングページへの動画の追加
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
+hide: true
+hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 100%
@@ -43,8 +45,8 @@ ht-degree: 100%
 >
 >時間を節約するために、「**クローン元**」オプションを使用して、既存の動画共有からすべての設定をコピーできます。
 
-これで完了です。フリーフォームランディングページに動画共有を追加しました。ランディングページを承認すると、動画共有が有効になります。また、ランディングページを[ Facebook に](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)公開したり、[web サイトに動画共有を配置](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)したりすることもできます。
+これで完了です。フリーフォームランディングページに動画共有を追加しました。ランディングページを承認すると、動画共有が有効になります。また、ランディングページを[ Facebook に](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)公開したり、_web サイトに動画共有を配置_&#x200B;したりすることもできます。
 
 >[!MORELIKETHIS]
 >
->これで完了しましたが、動画共有の設定は必要に応じて変更できます。[共有フローのカスタマイズ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)（共有プロンプトが開くときと場所）から始めます。
+>これで完了しましたが、動画共有の設定は必要に応じて変更できます。_共有フローのカスタマイズ_（共有プロンプトが開くタイミングと場所）から始めます。

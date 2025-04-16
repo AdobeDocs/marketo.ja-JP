@@ -4,10 +4,10 @@ short-description: すばやく作業を開始できるように、Marketo Engag
 title: Marketo Engage 用語集
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '4098'
-ht-degree: 99%
+source-wordcount: '4065'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
  <tbody> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md" target="_blank">A/B テスト</a></strong></td>
-   <td colspan="1">メールの構成要素（例：件名、送信元アドレスなど）を修正し、テスト条件を設定して、どのコンテンツのセットがより良い結果をもたらすかを判断できます。</td> 
+   <td colspan="1">メールのコンポーネント（件名、送信者アドレスなど）を変更し、テスト条件を設定して、どのコンテンツセットの料金が適切かを判断できます。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>アカウント</strong></td> 
@@ -261,7 +261,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドキュメント</strong></td> 
-   <td colspan="1">ドキュメントは、お客様が製品をより深く理解するためのヘルプ記事です。Marketo には、製品ドキュメント（現在参照しているサイト）、<a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home" rel="nofollow">デベロッパー</a>ドキュメント、<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">サポート</a>ドキュメントなど、いくつかの異なるタイプのドキュメントがあります。</td> 
+   <td colspan="1">ドキュメントは、お客様が製品をより深く理解するためのヘルプ記事です。Marketo には、製品ドキュメント（現在参照しているサイト）、<a href="https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/home" rel="nofollow">デベロッパー</a>ドキュメント、<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow">サポート</a>ドキュメントなど、いくつかの異なるタイプのドキュメントがあります。</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>ドメインベースのメッセージ認証、レポート、適合（DMARC）</strong></td> 
@@ -285,7 +285,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr> 
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md" rel="nofollow">動的コンテンツ</a></strong></td> 
-   <td colspan="1">指定した条件に基づいて、<strong>メール</strong>または<strong>ランディングページ</strong>に表示されるコンテンツ（例：画像、スニペット、テキストなど）で、読者のエクスペリエンスをパーソナライズできます。 </td> 
+   <td colspan="1">指定した条件に基づいて、<strong> メール </strong> または <strong> ランディングページ </strong> に入力されるコンテンツ（画像、スニペット、テキストなど）を使用して、読者のエクスペリエンスをパーソナライズできます。 </td> 
   </tr> 
  </tbody> 
 </table>
@@ -429,7 +429,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>注目のアクション</strong></a></td> 
-   <td><p><strong>Marketo Sales Insight</strong> で、特に関連性が高いと判断した事象（例：サイトの特定のページにアクセスしたとき、メールの特定のリンクをクリックしたときなど）で、セールスチームに認識してもらいたいもの。</p></td> 
+   <td><p><strong>Marketo Sales Insight</strong> において、ユーザーが特に関連性があると考えられる事象（ユーザーがサイトの特定のページにアクセスした場合、メール内の特定のリンクをクリックした場合など）。ユーザーがユーザーに認識させる事象。</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -535,7 +535,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
    <td>MSD とも呼ばれます。Marketo がネイティブ統合している 2 つの CRM のうちの 1 つ（<a href="#c"><strong>CRM</strong></a> を参照）。</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
    <td>Marketo のカスタム JavaScript トラッキングコード。Web サイトを訪問するすべての個人をトラッキングします。これには、匿名の訪問者（および IP アドレスやその他の情報）が含まれます。 </td> 
   </tr> 
   <tr> 
@@ -549,7 +549,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
  </tbody> 
 </table>
 
-## N {#n}
+## いいえ {#n}
 
 <table> 
  <colgroup> 
@@ -633,11 +633,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/target-account-management/using-personas.md" rel="nofollow"><strong>ペルソナ</strong></a></td> 
    <td colspan="1">Marketo の<strong>ターゲットアカウント管理</strong>では、ペルソナは、オーディエンスのサブセットで、より具体的なターゲティングができます。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md" rel="nofollow"><strong>投票</strong></a></td> 
-   <td colspan="1">Marketo の投票は、通常の投票と同じです。人物に投票してもらうためのトピックを作成し、Marketo <strong>ランディングページ</strong>、web サイト、ソーシャルメディアで共有します。</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td> 
     <div> 

@@ -3,8 +3,10 @@ unique-page-id: 2950555
 description: Facebook リッチ投稿設定の編集 - Marketo ドキュメント - 製品ドキュメント
 title: Facebook リッチ投稿設定の編集
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
+hide: true
+hidefromtoc: true
 feature: Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 100%
@@ -19,7 +21,7 @@ ht-degree: 100%
 >
 >すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-Marketo の[ソーシャルアプリ](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)を使用すると、リードが Facebook や Twitter などのソーシャルネットワーク上のつながりを利用して、ランディングページを共有できるようになります。Facebook の OpenGraph タグ（OG タグ）を指定すると、ランディングページのどの情報を Facebook の投稿に含めるかを指定できます。
+Marketo の&#x200B;_ソーシャルアプリ_&#x200B;を使用すると、リードが Facebook や Twitter などのソーシャルネットワーク上のつながりを利用して、ランディングページを共有できるようになります。Facebook の OpenGraph タグ（OG タグ）を指定すると、ランディングページのどの情報を Facebook の投稿に含めるかを指定できます。
 
 ## リッチ投稿オプションの選択 {#select-rich-post-options}
 

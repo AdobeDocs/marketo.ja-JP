@@ -3,8 +3,10 @@ unique-page-id: 2359616
 description: フォームでのソーシャルフォーム入力を有効にする — Marketo ドキュメント — 製品ドキュメント
 title: フォームでのソーシャルフォーム入力を有効にする
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
+hide: true
+hidefromtoc: true
 feature: Forms
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
@@ -19,7 +21,7 @@ ht-degree: 100%
 >
 >すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-1. **マーケティング活動**&#x200B;に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -37,7 +39,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >ユーザーがソーシャルボタンを使用した場合に [Marketo が取得するデータ](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)を見てみましょう。
+   >ユーザーがソーシャルボタンを使用した場合に _Marketo が取得するデータ_&#x200B;を見てみましょう。
 
 1. 「**終了**」をクリックします。
 

@@ -4,10 +4,10 @@ description: フリーフォームランディングページへのソーシャ�
 title: フリーフォームランディングページへのソーシャルボタンの追加
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
 
@@ -31,7 +31,7 @@ Social ボタンは、人々に、友人とコンテンツを共有するよう�
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   ランディングページがアクティブになると、ソーシャルボタン（Analytics を使用）によって生成されたアクティビティが[ソーシャルダッシュボード](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md)に表示されます。
+   ランディングページがアクティブになったら、_ソーシャルボタン（Analytics を使用）で生成されたアクティビティをソーシャルダッシュボード_ で確認できます。
 
    代わりにいいね！/おすすめボタン（Lite）を追加する場合は、[ランディングページのパフォーマンスレポート](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)で共有数を確認してください。
 
@@ -49,10 +49,10 @@ Social ボタンは、人々に、友人とコンテンツを共有するよう�
    >
    >時間を節約するために、「**コピー元**」オプションを使用して、既存のソーシャルボタンからすべての設定をコピーできます。
 
-   [ランディングページを Facebook に公開する ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)[Web サイトにソーシャルボタンを配置する](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [ランディングページを Facebook に公開する ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)_Web サイトにソーシャルボタンを配置する_
 
 これで完了です。ランディングページにソーシャルボタンを追加しました。ランディングページは必ず承認してください。
 
 >[!MORELIKETHIS]
 >
->これで完了しましたが、ソーシャルボタンの設定は必要に応じて変更できます。まず、[ボタンのスタイルをカスタマイズ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)するか、[表示する共有メッセージ](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)を編集します。
+>これで完了しましたが、ソーシャルボタンの設定は必要に応じて変更できます。まず _ボタンのスタイルのカスタマイズ_ または _共有メッセージの編集_ から始めます。

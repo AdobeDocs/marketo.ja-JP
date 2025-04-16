@@ -4,36 +4,36 @@ description: LinkedIn のオーディエンスセグメントとしての Market
 title: LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 100%
+source-wordcount: '194'
+ht-degree: 84%
 
 ---
 
 # LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用 {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
-Marketo のユーザーを LinkedIn のオーディエンスと統合します。
+Marketo Engage ユーザーを LinkedIn オーディエンスと統合します。
 
 >[!PREREQUISITES]
 >
->[LinkedIn と一致したオーディエンスを LaunchPoint サービスとして追加](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[LinkedIn と一致したオーディエンスを LaunchPoint サービスとして追加](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}
 
 1. **データベース**&#x200B;に移動します。
 
-   ![](assets/db.png)
+   ![](assets/list-as-a-linkedin-audience-segment-1.png)
 
-1. スマートリストを選択します。
+1. スマート・リストを選択します。
 
-   ![](assets/two.png)
+   ![](assets/list-as-a-linkedin-audience-segment-2.png)
 
 1. 「**リード**」タブをクリックします。
 
-   ![](assets/three-1.png)
+   ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
 1. リストの下部にある **Ad Bridge 経由で送信**&#x200B;アイコン![—](assets/image2015-4-20-18-3a18-3a41.png)をクリックします。
 
-   ![](assets/four-1.png)
+   ![](assets/list-as-a-linkedin-audience-segment-4.png)
 
    >[!NOTE]
    >
@@ -41,7 +41,7 @@ Marketo のユーザーを LinkedIn のオーディエンスと統合します�
 
 1. 「**LinkedIn**」を選択し、「**次へ**」をクリックします。
 
-   ![](assets/image2015-4-20-18-3a7-3a19.png)
+   ![](assets/list-as-a-linkedin-audience-segment-5.png)
 
 1. **LinkedIn オーディエンス**&#x200B;を選択します。
 
@@ -49,18 +49,18 @@ Marketo のユーザーを LinkedIn のオーディエンスと統合します�
    >
    >「**+新規オーディエンス**」をクリックすると、LinkedIn Campaign Manager でオーディエンスが作成されます。
 
-   ![](assets/6.png)
+   ![](assets/list-as-a-linkedin-audience-segment-6.png)
 
    >[!NOTE]
    >
-   >LinkedIn は、2018 年 3 月に「オーディエンスの消去とリードの追加」プッシュタイプに使用される API を非推奨（廃止予定）にしました。このオプションは、Marketo の 2018 年第 1 四半期リリース以降は使用できなくなりました。
+   >LinkedIn は、2018 年 3 月に「オーディエンスをクリアしてリードを追加」プッシュタイプに使用していた API を非推奨（廃止予定）にしました。 このオプションは、Marketo の 2018 年第 1 四半期リリース以降は使用できなくなりました。
 
 1. **プッシュタイプ**&#x200B;を選択します。「**更新**」をクリックします。
 
-   ![](assets/7.png)
+   ![](assets/list-as-a-linkedin-audience-segment-7.png)
 
    >[!NOTE]
    >
    >同期が実行されるまで 15 分お待ちください。
 
-完成です。これで、データは LinkedIn のオーディエンスで利用できるようになります。アカウントおよび連絡先のターゲティング用に LinkedIn にリストをアップロードする方法については、[LinkedIn Marketing Solutions ヘルプセンター](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment)にアクセスしてください。
+完成です。これで、データは LinkedIn のオーディエンスで利用できるようになります。アカウントおよび連絡先のターゲティング用に LinkedIn にリストをアップロードする方法については、[LinkedIn Marketing Solutions ヘルプセンター](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment){target="_blank"}にアクセスしてください。

@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: c50de3267cbbc01af81f0ad41f3c397b34f6959d
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '9443'
+source-wordcount: '9261'
 ht-degree: 95%
 
 ---
@@ -975,49 +975,10 @@ ht-degree: 95%
             + [ランディングページでの動的コンテンツの使用](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [URL ビルダーの使用](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
       + ソーシャル {#social}
-         + ソーシャルアクションの設定 {#configuring-social-actions}
-            + [共有後のプロンプトの設定](product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md)
-            + [Social アプリ用ユーザーキャプチャの設定](product-docs/demand-generation/social/configuring-social-actions/configure-person-capture-for-a-social-app.md)
-            + [ソーシャルアプリの再共有メールの設定とプロンプト](product-docs/demand-generation/social/configuring-social-actions/configure-re-share-email-and-prompt-for-a-social-app.md)
-            + [ソーシャル推奨フローの設定](product-docs/demand-generation/social/configuring-social-actions/configure-social-recommend-flow.md)
-            + [ソーシャルの新規登録／共有フローの設定](product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md)
-            + [紹介オファーの進捗状況トラックフローの設定](product-docs/demand-generation/social/configuring-social-actions/configure-track-progress-flow-for-a-referral-offer.md)
-            + [ソーシャルボタンを開くタイミングの設定](product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)
-            + [ソーシャルアプリボタンのカスタマイズ](product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-            + [動画共有のフローのカスタマイズ](product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)
-            + [デジタル広告キャンペーンの売上高アトリビューションの設定](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
-         + 投票の作成 {#creating-a-poll}
-            + [投票の作成](product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
-            + [投票設定のカスタマイズ](product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)
-            + [投票の公開](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
-            + [投票での投票結果の確認](product-docs/demand-generation/social/creating-a-poll/review-votes-cast-in-poll.md)
-         + 紹介オファー {#referral-offers}
-            + [紹介オファーの作成](product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-            + [紹介オファーの公開](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
-            + [紹介オファー達成メールの送信](product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)
-            + [紹介オファーの目標を指定する](product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
          + ソーシャル関数 {#social-functions}
-            + [ランディングページへの Social ボタンの追加](product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md)
-            + [動画の追加](product-docs/demand-generation/social/social-functions/add-a-video.md)
-            + [ソーシャルアプリへのプライバシーポリシーの追加](product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
-            + [ソーシャルアプリの共有 URL の選択](product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md)
-            + [カスタムイベントのコンバージョンスクリプト](product-docs/demand-generation/social/social-functions/conversion-script-for-custom-events.md)
-            + [Web サイトへのソーシャルのデプロイ](product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
-            + [フォーム（ソーシャル）でのソーシャルフォームの入力の有効化](product-docs/demand-generation/social/social-functions/enable-social-form-fill-on-a-form-social.md)
-            + [ソーシャルプロファイルデータの管理](product-docs/demand-generation/social/social-functions/manage-social-profile-data.md)
-            + [ソーシャル共有要件の設定](product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
             + [LinkedIn リード生成フォームの設定](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
-            + [ソーシャルアクティビティのトリガーとフィルター](product-docs/demand-generation/social/social-functions/triggers-and-filters-for-social-activities.md)
             + [LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
-            + [ソーシャルプロモーションでのメールの使用](product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md)
             + [スマートキャンペーンでの LinkedIn リード生成フォームのフィルターとトリガーの使用](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
-            + [オファー達成のためのプロモコードの使用](product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md)
-            + [ソーシャルパフォーマンスの表示](product-docs/demand-generation/social/social-functions/view-social-performance.md)
-         + 懸賞 {#sweepstakes}
-            + [懸賞の作成](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
-            + [懸賞スタイルのカスタマイズ](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
-            + [懸賞の公開](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
-            + [懸賞の勝者を選択する](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + メールマーケティング {#email-marketing}
       + 到達率 {#deliverability}
          + [永続的な登録解除](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
