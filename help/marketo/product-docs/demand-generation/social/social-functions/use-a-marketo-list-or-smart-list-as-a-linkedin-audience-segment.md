@@ -4,7 +4,7 @@ description: LinkedIn のオーディエンスセグメントとしての Market
 title: LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: f205014ef4b1446c1c532e28910fab0c5fdaabcb
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 84%
@@ -19,7 +19,7 @@ Marketo Engage ユーザーを LinkedIn オーディエンスと統合します�
 >
 >[LinkedIn と一致したオーディエンスを LaunchPoint サービスとして追加](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}
 
-1. **データベース**&#x200B;に移動します。
+1. **[!UICONTROL データベース]**&#x200B;に移動します。
 
    ![](assets/list-as-a-linkedin-audience-segment-1.png)
 
@@ -27,11 +27,11 @@ Marketo Engage ユーザーを LinkedIn オーディエンスと統合します�
 
    ![](assets/list-as-a-linkedin-audience-segment-2.png)
 
-1. 「**リード**」タブをクリックします。
+1. 「**[!UICONTROL リード]**」タブをクリックします。
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
-1. リストの下部にある **Ad Bridge 経由で送信**&#x200B;アイコン![—](assets/image2015-4-20-18-3a18-3a41.png)をクリックします。
+1. リストの下部にある _Ad Bridge 経由で送信_&#x200B;アイコン![—](assets/icon-ad-bridge.png)をクリックします。
 
    ![](assets/list-as-a-linkedin-audience-segment-4.png)
 
@@ -39,15 +39,15 @@ Marketo Engage ユーザーを LinkedIn オーディエンスと統合します�
    >
    >広告ネットワーク連携を使用してオーディエンスを LinkedIn に送信する場合、Marketo はメールアドレスのみを送信します。
 
-1. 「**LinkedIn**」を選択し、「**次へ**」をクリックします。
+1. 「**[!UICONTROL LinkedIn]**」を選択し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/list-as-a-linkedin-audience-segment-5.png)
 
-1. **LinkedIn オーディエンス**&#x200B;を選択します。
+1. _LinkedIn オーディエンス_&#x200B;を選択します。
 
    >[!NOTE]
    >
-   >「**+新規オーディエンス**」をクリックすると、LinkedIn Campaign Manager でオーディエンスが作成されます。
+   >「**[!UICONTROL +新規オーディエンス]**」をクリックすると、LinkedIn Campaign Manager でオーディエンスが作成されます。
 
    ![](assets/list-as-a-linkedin-audience-segment-6.png)
 
@@ -55,7 +55,7 @@ Marketo Engage ユーザーを LinkedIn オーディエンスと統合します�
    >
    >LinkedIn は、2018 年 3 月に「オーディエンスをクリアしてリードを追加」プッシュタイプに使用していた API を非推奨（廃止予定）にしました。 このオプションは、Marketo の 2018 年第 1 四半期リリース以降は使用できなくなりました。
 
-1. **プッシュタイプ**&#x200B;を選択します。「**更新**」をクリックします。
+1. _[!UICONTROL プッシュタイプ]_&#x200B;を選択します。「**[!UICONTROL 更新]**」をクリックします。
 
    ![](assets/list-as-a-linkedin-audience-segment-7.png)
 
