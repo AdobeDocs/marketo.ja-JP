@@ -4,10 +4,10 @@ title: 最新のリリースノート
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 83%
+source-wordcount: '429'
+ht-degree: 75%
 
 ---
 
@@ -43,17 +43,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong> タイトル </strong>：テキスト。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong> タイトル </strong>：テキスト。</td> 
+   <td><strong>Secure Socket Layer （SSL） Self Service</strong>:SSL 暗号化を使用すると、Marketo Engage インスタンスのランディングページを安全にすることができます。 この機能を有効にするには、Adobe サポートチームからの支援が必要です。 Marketo ユーザーが自分で有効にできるようになり、貴重な時間を節約できます。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
