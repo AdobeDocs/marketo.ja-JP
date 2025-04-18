@@ -4,22 +4,22 @@ description: プログラム内のマイトークンの理解 - Marketo ドキ�
 title: プログラム内のマイトークンの理解
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
-source-wordcount: '416'
-ht-degree: 100%
+source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+workflow-type: tm+mt
+source-wordcount: '417'
+ht-degree: 92%
 
 ---
 
 # プログラム内のマイトークンの理解 {#understanding-my-tokens-in-a-program}
 
-トークンは、メール、ランディングページ、スマートキャンペーンで使用する変数で、これにより作業が手軽になります。
+トークンは、メール、ランディングページおよびスマートキャンペーンで使用して、生活を楽にすることができる変数です。
 
 マイトークンに加えて、プログラムに組み込まれた任意のトークンを使用することもできます。詳しくは、[トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}を参照してください
 
 ## マイトークン  {#my-tokens}
 
-マイトークンは、誰でも作成できるカスタム変数です。これらは、キャンペーンフォルダーまたはプログラム内で[作成](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}されます。
+マイトークンは、誰でも作成できるカスタム変数です。ローカルでは、キャンペーンフォルダーまたはプログラムで [ 作成 ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} されます。
 
 マイトークンは次のように表示されます。`{{my.Name Of Token}}`
 

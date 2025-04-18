@@ -2,10 +2,11 @@
 description: リリースノート - 2025年3月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2025年3月
 feature: Release Information
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
+source-git-commit: 0fa36f119e26b7bc1882a2ed1f73d71e6af42c5f
 workflow-type: tm+mt
-source-wordcount: '475'
-ht-degree: 93%
+source-wordcount: '478'
+ht-degree: 92%
 
 ---
 
@@ -53,7 +54,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr> 
    <td><strong>グローバルおよびワークスペースのマイトークン</strong>：ワークスペースとグローバルレベルの両方でマイトークンを設定して、Marketo Engage ワークスペースをまたいで、さらにはインスタンス全体でのブランドとマーケティングの販促物に対する生産性の向上と制御を可能にします。</td> 
    <td>出荷済み</td>
-   <td>該当なし</td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">グローバルなマイトークンの作成</a></td>
   </tr>
   </tbody> 
 </table>
