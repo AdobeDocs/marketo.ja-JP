@@ -6,7 +6,7 @@ feature-set: Marketo Engage
 source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
 source-wordcount: '9265'
-ht-degree: 95%
+ht-degree: 99%
 
 ---
 
@@ -14,13 +14,13 @@ ht-degree: 95%
 # Marketo ガイド {#using}
 
 + [ホーム](home.md)
-+ Marketo Engageの概要 {#getting-started}
-   + [Adobe Marketo Engage とは](getting-started/what-is-adobe-marketo-engage.md)
++ Marketo Engage の概要 {#getting-started}
+   + [Adobe Marketo Engage とは？](getting-started/what-is-adobe-marketo-engage.md)
    + 初期設定 {#initial-setup}
       + [設定手順](getting-started/initial-setup/setup-steps.md)
       + [プロトコルの設定](getting-started/initial-setup/configure-protocols-for-marketo.md)
       + [ユーザ設定](getting-started/initial-setup/user-setup.md)
-   + 新しいMarketo Engage インスタンスの実装 {#implementing-a-new-marketo-engage-instance}
+   + 新しい Marketo Engage インスタンスの実装 {#implementing-a-new-marketo-engage-instance}
       + [開始する場所](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [新しいインスタンスのベストプラクティス：「管理者」セクションのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
       + [新しいインスタンスのベストプラクティス：データベースのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
@@ -34,7 +34,7 @@ ht-degree: 95%
       + [クラシックアイコン用語集](getting-started/things-to-know/classic-icon-glossary.md)
       + [ヘルプセンター](getting-started/things-to-know/help-center.md)
       + [Marketing Nation コミュニティ](getting-started/things-to-know/community.md)
-   + クイック勝利 {#quick-wins}
+   + クイックウィン {#quick-wins}
       + [セットアップと人物の追加](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [メールの送信](getting-started/quick-wins/send-an-email.md)
       + [フォームを含むランディングページ](getting-started/quick-wins/landing-page-with-a-form.md)
@@ -100,12 +100,12 @@ ht-degree: 95%
             + [SEO - 競合他社 KW トレンドレポートの使用](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - キーワードトレンドレポートの使用](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
    + 管理 {#administration}
-      + セットアップ {#setup}
+      + 設定 {#setup}
          + [自分が持っている権限を調べる](product-docs/administration/setup-administration/find-out-what-permissions-you-have.md)
          + [必要なシステム構成](product-docs/administration/setup-administration/minimum-system-requirements.md)
          + [Munchkin](product-docs/administration/setup-administration/munchkin.md)
          + [サポートされているブラウザー](product-docs/administration/setup-administration/supported-browsers.md)
-      + その他の統合 {#additional-integrations}
+      + 追加的な統合 {#additional-integrations}
          + [Adobe Connect を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
          + [マネージャーアカウントによる Google AdWords を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
          + [Google AdWords を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
@@ -129,7 +129,7 @@ ht-degree: 95%
          + [監査記録の有効化](product-docs/administration/audit-trail/enable-audit-trail.md)
          + [監査記録でのフィルタリング](product-docs/administration/audit-trail/filtering-in-audit-trail.md)
          + [ユーザーログイン履歴](product-docs/administration/audit-trail/user-login-history.md)
-      + E メール設定 {#email-setup}
+      + メール設定 {#email-setup}
          + 複数のブランディングドメインの追加 {#add-multiple-branding-domains}
             + [ワークスペースを使用した付加的なブランディングドメインの追加](product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)
             + [付加的なブランディングドメインの追加](product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
@@ -193,7 +193,7 @@ ht-degree: 95%
          + [ユーザーの追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
          + [よくある質問](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Adobe ID を使用したユーザログイン](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + 購読とユーザーの移行 {#subscription-and-user-migration}
+         + サブスクリプションとユーザの移行 {#subscription-and-user-migration}
             + [Adobe ID への移行](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
             + [Marketo サブスクリプションと Adobe Admin Console へのユーザーの移行について](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
             + [Marketo Engage サポートの移行](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
@@ -229,7 +229,7 @@ ht-degree: 95%
          + [プログラムチャネルからプログラムステータスを削除](product-docs/administration/tags/delete-a-program-status-from-a-program-channel.md)
          + [プログラムチャネルの表示設定の切り替え](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [タグ値の管理](product-docs/administration/tags/managing-tag-values.md)
-      + ユーザーとロール {#users-and-roles}
+      + ユーザ＆ロール {#users-and-roles}
          + [API 専用ユーザーロールの作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [API 専用ユーザーの作成](product-docs/administration/users-and-roles/create-an-api-only-user.md)
          + [ユーザーのロールの作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
@@ -240,7 +240,7 @@ ht-degree: 95%
          + [ロールと権限のエクスポート](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [ロール権限の説明](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)
          + [スニペットでドラフトなしを有効にする](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
-      + ワークスペースとユーザー区分 {#workspaces-and-person-partitions}
+      + ワークスペースと人物パーティション {#workspaces-and-person-partitions}
          + [ワークスペースと人物パーティションについて](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
          + [ワークスペースへのユーザーアクセス権の設定](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
          + [ワークスペースへの人物パーティションの割り当て](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
@@ -287,7 +287,7 @@ ht-degree: 95%
             + [繰り返しバッチキャンペーンのスケジュール](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
             + [「キャンペーンをリクエスト」を使用して、セールス向けにトリガー付きスマートキャンペーンを設定](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
             + [標準スマートリストルールロジックの使用](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
-         + フロー アクション {#flow-actions}
+         + フローアクション {#flow-actions}
             + [スマートキャンペーンへのフローステップの追加](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [スマートキャンペーンでのフローステップの並べ替え](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)
             + [リストに追加](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
@@ -348,15 +348,15 @@ ht-degree: 95%
             + [スマートキャンペーンの条件を満たす人物の表示](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md)
             + [スマートキャンペーンメンバーの表示](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md)
             + [スマートキャンペーン結果の表示](product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-results.md)
-      + スマート・リストと静的リスト {#smart-lists-and-static-lists}
+      + スマートリストと静的リスト {#smart-lists-and-static-lists}
          + [スマートリストについて](product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)
-         + スマート・リストの作成 {#creating-a-smart-list}
+         + スマートリストの作成 {#creating-a-smart-list}
             + [スマートリストのベストプラクティス](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/best-practices-for-smart-lists.md)
             + [スマートリストの作成](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
             + [スマートリストフィルターの定義](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md)
             + [フィルターを検索してスマートリストに追加](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
             + [スマートリストフィルター演算子の用語集](product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)
-         + スマート・リストの使用 {#using-smart-lists}
+         + スマートリストの使用 {#using-smart-lists}
             + [スマートリストフィルターへの制約の追加](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)
             + [スマートリストフィルターへの複数値の追加](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-multiple-values-to-a-smart-list-filter.md)
             + [リストまたはスマートリストの複製](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/clone-a-list-or-smart-list.md)
@@ -370,7 +370,7 @@ ht-degree: 95%
             + [スマートリストでの非アクティブフィルターの使用](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
             + [スマートリストでのデータ値変更済みフィルターの使用](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
             + [高度なスマートリストルールロジックの使用](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
-         + スマート・リストでのユーザーの管理 {#managing-people-in-smart-lists}
+         + スマートリストの人物の管理 {#managing-people-in-smart-lists}
             + [リードをブロックリストに追加](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md)
             + [リードの手動作成](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/create-a-person-manually.md)
             + [データベースダッシュボード](product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)
@@ -436,7 +436,7 @@ ht-degree: 95%
             + [OP-配信品質管理](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md)
             + [クイックスタートメールテンプレート](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md)
             + [クイックスタートランディングページテンプレート](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md)
-         + プログラム効果レポート {#program-performance-report}
+         + プログラムパフォーマンスレポート {#program-performance-report}
             + [プログラム効果レポートの作成](product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md)
             + [プログラムレポートへのプログラムステータス列の追加](product-docs/core-marketo-concepts/programs/program-performance-report/add-program-status-columns-to-a-program-report.md)
             + [プログラムレポートを期間原価でフィルター](product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
@@ -493,14 +493,14 @@ ht-degree: 95%
             + [タブレットからイベントへのリードのチェックイン](product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md)
             + [チェックインアプリに対するアクセス権のユーザーへの付与](product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)
             + [イベントの準備](product-docs/core-marketo-concepts/mobile-apps/event-check-in/prepare-for-your-event.md)
-         + Marketo注目の出来事 {#marketo-moments}
-            + モーメントについて {#understanding-moments}
+         + Marketo 注目のアクション {#marketo-moments}
+            + 注目のアクションについて {#understanding-moments}
                + [Marketo 注目のアクションについて](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
                + [分析カードについて](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
                + [メールプログラムカードについて](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
                + [イベントカードについて](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
                + [スマートキャンペーンカードについて](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
-            + モーメントの操作 {#working-with-moments}
+            + 注目のアクションの操作 {#working-with-moments}
                + [お気に入りの作成](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/creating-a-favorite.md)
                + [完了済みとしてマーク](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
                + [Marketo 注目のアクションのパーソナライズ](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/personalizing-marketo-moments.md)
@@ -528,32 +528,32 @@ ht-degree: 95%
          + [予測フィルター](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
          + [目標のトラッキングと予測登録について](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + CRM 同期 {#crm-sync}
-      + Microsoft Dynamics同期 {#microsoft-dynamics}
+      + Microsoft Dynamics 同期 {#microsoft-dynamics}
          + [Microsoft Dynamics 同期について](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
          + [Microsoft Dynamics 向け Marketo プラグインリリース](product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)
          + [Microsoft Dynamics MSI 向けプラグインリリース](product-docs/crm-sync/microsoft-dynamics-sync/plug-in-releases-for-microsoft-dynamics-msi.md)
          + [Dynamics 検証同期に対する問題の修正](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
-         + 同期設定 {#sync-setup}
+         + 同期の設定 {#sync-setup}
             + [Marketo リード管理ソリューションのダウンロード](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)
             + [クライアント ID とアプリ登録に対する同意の付与](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)
             + [Microsoft Dynamics 向け Marketo ソリューションのアップデート](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)
             + [Dynamics 認証方法の再設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
             + [Microsoft Dynamics 同期の検証](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
             + [組織サービス URL の表示](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
-            + Microsoft Dynamics 2016/Dynamics 365 オンプレミス  {#microsoft-dynamics-2016-dynamics-365-on-premises}
+            + Microsoft Dynamics 2016／Dynamics 365 オンプレミス  {#microsoft-dynamics-2016-dynamics-365-on-premises}
                + [手順 1 / 3：Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミスでの Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [手順 2 / 3：Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミスでの Marketo 同期ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [手順 3 / 3：Marketo と Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミスの接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365 （ROPC 接続あり）{#microsoft-dynamics-365-with-ropc-connection}
+            + Microsoft Dynamics 365 と ROPC 接続{#microsoft-dynamics-365-with-ropc-connection}
                + [手順 1 / 4：ROPC 接続を使用した Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
                + [手順 2 / 4：ROPC 接続を使用した Marketo ソリューションのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
                + [手順 3 / 4：MS Dynamics でのクライアントアプリのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
                + [手順 4 / 4：Marketo Solution と ROPC 接続の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
-            + Microsoft Dynamics 365 （S2S 接続）{#microsoft-dynamics-365-with-s2s-connection}
+            + Microsoft Dynamics 365 と S2S 接続{#microsoft-dynamics-365-with-s2s-connection}
                + [手順 1 / 3：S2S 接続を使用した Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [手順 2 / 3：S2S 接続を使用した Marketo ソリューションのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
                + [手順 3 / 3：Marketo ソリューションと S2S 接続の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
-            + レガシーバージョンへの接続 {#connecting-to-legacy-versions}
+            + 従来のバージョンへの接続 {#connecting-to-legacy-versions}
                + [手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
                + [手順 2 / 3：Dynamics（2011 オンプレミス）での Marketo 同期ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
                + [手順 3 / 3：Microsoft Dynamics と Marketo（2011 オンプレミス）の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
@@ -563,7 +563,7 @@ ht-degree: 95%
                + [手順 1 / 3：Dynamics（2015 オンプレミス）での Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
                + [手順 2 / 3：Marketo 向け同期ユーザーのセットアップ（2015 オンプレミス）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
                + [手順 3 / 3：Marketo と Dynamics（2015 オンプレミス）の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)
-         + Microsoft Dynamics同期の詳細 {#microsoft-dynamics-sync-details}
+         + Microsoft Dynamics 同期の詳細 {#microsoft-dynamics-sync-details}
             + [デフォルトの Dynamics フィールドマッピング](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
             + [Microsoft Dynamics 同期：アカウントの同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-account-sync.md)
             + [Microsoft Dynamics 同期：取引先責任者の同期](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
@@ -588,12 +588,12 @@ ht-degree: 95%
          + [リードまたは取引先責任者の削除](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Salesforce 同期 {#salesforce-sync}
          + [Salesforce 同期について](product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
-         + セットアップ {#setup}
-            + Enterprise/Unlimited エディション {#enterprise-unlimited-edition}
+         + 設定 {#setup}
+            + Enterprise／Unlimited Edition {#enterprise-unlimited-edition}
                + [手順 1 / 3：Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
                + [手順 2 / 3：Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
                + [手順 3 / 3：Marketo と Salesforce の接続（Enterprise／Unlimited）](product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
-            + プロフェッショナル エディション {#professional-edition}
+            + Professional Edition {#professional-edition}
                + [手順 1 / 3：Marketo フィールドの Salesforce への追加（Professional）](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md)
                + [手順 2 / 3：Marketo 用の Salesforce ユーザーの作成（Professional）](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)
                + [手順 3 / 3：Marketo と Salesforce の接続（Professional）](product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md)
@@ -607,7 +607,7 @@ ht-degree: 95%
                + [英語以外のカスタムオブジェクト同期の有効化](product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-non-english-custom-object-sync.md)
                + [デフォルトのリーダーの姓と会社名の設定](product-docs/crm-sync/salesforce-sync/setup/optional-steps/set-default-person-last-name-and-company-name.md)
                + [リード所有者へのメール通知をオフにする](product-docs/crm-sync/salesforce-sync/setup/optional-steps/turn-off-email-notifications-to-lead-owner.md)
-         + SFDC同期の詳細 {#sfdc-sync-details}
+         + SFDC 同期の詳細 {#sfdc-sync-details}
             + [既存の Salesforce フィールドの Marketo 同期への追加](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md)
             + [デフォルトの Salesforce フィールドマッピング](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping.md)
             + [Marketo 同期に対する Salesforce フィールドの非表示](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)
@@ -635,7 +635,7 @@ ht-degree: 95%
          + [個人取引先の使用](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
       + Veeva CRM 同期 {#veeva-crm-sync}
          + [Veeva CRM 同期について](product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md)
-         + セットアップ {#setup}
+         + 設定 {#setup}
             + [手順 1 / 3：Marketo フィールドを Veeva CRM に追加](product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md)
             + [手順 2 / 3：Marketo Engage 用の Veeva CRM ユーザーの作成](product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md)
             + [手順 3/3：Marketo Engage と Veeva CRM の接続](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
@@ -648,7 +648,7 @@ ht-degree: 95%
             + [通話と通話の主要メッセージの同期](product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md)
          + Veeva CRM フローアクション {#veeva-crm-flow-actions}
             + [Veeva でのタスクの作成](product-docs/crm-sync/veeva-crm-sync/veeva-crm-flow-actions/create-task-in-veeva.md)
-   + 需要創出 {#demand-generation}
+   + デマンドジェネレーション {#demand-generation}
       + 広告ネットワーク統合 {#ad-network-integrations}
          + [広告ネットワーク統合について](product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md)
          + [Facebook カスタムオーディエンスを LaunchPoint サービスとして追加](product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
@@ -661,9 +661,9 @@ ht-degree: 95%
          + [チャットボットの動作](product-docs/demand-generation/dynamic-chat/chatbot-behavior.md)
          + [ミーティングリスト](product-docs/demand-generation/dynamic-chat/meeting-list.md)
          + [Dynamic Chat のアクティビティ](product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md)
-         + [アナリティクス](product-docs/demand-generation/dynamic-chat/analytics.md)
+         + [分析](product-docs/demand-generation/dynamic-chat/analytics.md)
          + [よくある質問](product-docs/demand-generation/dynamic-chat/faq.md)
-         + セットアップと設定 {#setup-and-configuration}
+         + 設定 {#setup-and-configuration}
             + [初期設定](product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md)
             + [チャットユーザーの追加または削除](product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md)
             + [権限](product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md)
@@ -765,7 +765,7 @@ ht-degree: 95%
             + [フォームのプレビュー](product-docs/demand-generation/forms/creating-a-form/preview-a-form.md)
             + [フォームのテーマの選択](product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)
             + [フォームの「ありがとうございました」ページの設定](product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md)
-         + フォーム アクション {#form-actions}
+         + フォームアクション {#form-actions}
             + [フォームへの国選択リストの追加](product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)
             + [フォームへのリッチテキストの追加](product-docs/demand-generation/forms/form-actions/add-rich-text-to-a-form.md)
             + [フォームのロケールの変更](product-docs/demand-generation/forms/form-actions/change-a-forms-locale.md)
@@ -799,7 +799,7 @@ ht-degree: 95%
             + [フォーム内のフィールドの並べ替え](product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)
             + [フォームフィールドを非表示に設定](product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)
             + [非表示フォームフィールドの値の設定](product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
-         + CAPTCHA の使用 {#using-captcha}
+         + Captcha の使用 {#using-captcha}
             + [reCAPTCHA v3 の設定](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
             + [Marketo Forms で CAPTCHA を有効にする](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
       + 画像とファイル {#images-and-files}
@@ -820,7 +820,7 @@ ht-degree: 95%
             + [ランディングページ効果レポート](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)
             + [ランディングページのテストグループ](product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)
             + [フリーフォームとガイド付きのランディングページについて](product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)
-         + フリーフォームのランディングページ {#free-form-landing-pages}
+         + フリーフォームランディングページ {#free-form-landing-pages}
             + [フリーフォームランディングページの画像へのリンク追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-a-free-form-landing-page-image.md)
             + [フリーフォームランディングページ内の画像へのリンク追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
             + [フリーフォームランディングページのモバイル表示の追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
@@ -975,12 +975,12 @@ ht-degree: 95%
             + [ランディングページでの動的コンテンツの使用](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [URL ビルダーの使用](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
       + ソーシャル {#social}
-         + ソーシャル関数 {#social-functions}
+         + ソーシャル機能 {#social-functions}
             + [LinkedIn リード生成フォームの設定](product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
             + [LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [スマートキャンペーンでの LinkedIn リード生成フォームのフィルターとトリガーの使用](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
    + メールマーケティング {#email-marketing}
-      + 到達率 {#deliverability}
+      + 配信品質 {#deliverability}
          + [永続的な登録解除](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [メール到達率パワーパック：シードリストのインポート方法](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [メールのハードバウンスとソフトバウンス](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -989,9 +989,9 @@ ht-degree: 95%
          + [共有 IP アドレスと専用 IP アドレス](product-docs/email-marketing/deliverability/shared-and-dedicated-ip-addresses.md)
          + [登録解除について](product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
          + [専用 IP アドレスを使用したメール送信](product-docs/email-marketing/deliverability/use-your-dedicated-ip-addresses-to-send-emails.md)
-         + Inbox Tracker {#inbox-tracker}
+         + インボックストラッカー {#inbox-tracker}
             + [インボックストラッカーのチュートリアル](product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md)
-      + ドリップ育成 {#drip-nurturing}
+      + ドリップナーチャリング {#drip-nurturing}
          + エンゲージメントプログラムの作成 {#creating-an-engagement-program}
             + [ストリームの追加](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
             + [ストリームにコンテンツを追加する](product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
@@ -1040,7 +1040,7 @@ ht-degree: 95%
          + メールプログラムの作成 {#creating-an-email-program}
             + [メールプログラムの作成](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
             + [メールプログラムについて](product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)
-         + 電子メールプログラムのアクション {#email-program-actions}
+         + メールプログラムアクション {#email-program-actions}
             + [メールプログラムの中止](product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
             + [メールプログラムの承認／承認取り消し](product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
             + [既存のメールの選択](product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
@@ -1060,18 +1060,18 @@ ht-degree: 95%
             + [メールプログラムのヘッドスタート](product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
             + [メールの移動](product-docs/email-marketing/email-programs/email-program-actions/move-an-email.md)
             + [メールプログラムのスケジュール設定](product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
-            + 受信者のタイムゾーンを使用したスケジュール {#scheduling-with-recipient-time-zone}
+            + 受信者タイムゾーンを使用したスケジュール設定 {#scheduling-with-recipient-time-zone}
                + [受信者タイムゾーンを使用してスケジュールされたメールプログラムの配信の中止](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)
                + [受信者タイムゾーンを使用したメールプログラムのスケジュール設定](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
                + [受信者タイムゾーンについて](product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
-         + プログラムデータのメール送信 {#email-program-data}
+         + メールプログラムデータ {#email-program-data}
             + [メールリンク効果レポート](product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
             + [メールパフォーマンスレポート](product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
             + [メールプログラムダッシュボードの Excel へのエクスポート](product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md)
             + [メールプログラムダッシュボードの使用](product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
             + [メールプログラム結果の表示](product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)
             + [メールプログラムダッシュボードの表示](product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md)
-         + 電子メールプログラムでの人物の管理 {#managing-people-in-email-programs}
+         + メールプログラムでの人物の管理 {#managing-people-in-email-programs}
             + [リストインポートによる対象ユーザーの定義](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
             + [スマートリストを使用したオーディエンス定義](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
             + [非ラテン文字リストのインポート](product-docs/email-marketing/email-programs/managing-people-in-email-programs/import-a-non-latin-characters-list.md)
@@ -1079,11 +1079,11 @@ ht-degree: 95%
          + メールエディターについて {#understanding-the-email-editor}
             + [メールイベントログについて](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [リッチテキストエディターの使用](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
-         + Beta新規メールDesigner {#beta-new-email-designer}
+         + ベータ版の新しい E メールデザイナー {#beta-new-email-designer}
             + [新しいメールデザイナーの概要（ベータ版）](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
             + [メールオーサリング](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
             + [メールテンプレート](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
-         + E メールの作成 {#creating-an-email}
+         + メールの作成 {#creating-an-email}
             + [メールの承認](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [テキストのみのメールの作成](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
             + [メールの作成](product-docs/email-marketing/general/creating-an-email/create-an-email.md)
@@ -1099,7 +1099,7 @@ ht-degree: 95%
             + [メールテンプレート選択ツールの概要](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
             + [メールテンプレートの構文](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
             + [メールエディター 2.0 への移行](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
-         + エディター内の関数 {#functions-in-the-editor}
+         + エディターの機能 {#functions-in-the-editor}
             + [メール内の友達リンクへの転送](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
             + [メールへのカレンダーイベント（.ics）の追加](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
             + [メールをオペレーショナルメールにする](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
@@ -1114,7 +1114,7 @@ ht-degree: 95%
             + [メールリンクのトラッキングを無効にする](product-docs/email-marketing/general/functions-in-the-editor/disable-tracking-for-an-email-link.md)
             + [メールの HTML のダウンロード](product-docs/email-marketing/general/functions-in-the-editor/download-an-emails-html.md)
             + [メールの HTML の編集](product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)
-            + メールテスト - Champion-Challenger {#email-tests-champion-challenger}
+            + メールテスト - チャンピオン／挑戦者 {#email-tests-champion-challenger}
                + [メールチャンピオン／挑戦者の追加](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
                + [チャンピオン／挑戦者：メールテストの承認](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
                + [チャンピオン／挑戦者：分析](product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
@@ -1137,9 +1137,9 @@ ht-degree: 95%
       + [概要](product-docs/marketo-engage-modern-ux/overview.md)
       + [グローバル検索の使用](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [切替スイッチ](product-docs/marketo-engage-modern-ux/toggle-switch.md)
-   + Marketoの通知 {#marketo-notifications}
+   + Marketo の通知 {#marketo-notifications}
       + [通知：Websocket 接続](product-docs/marketo-notifications/websocket-connection.md)
-   + Marketo セールスの連携 {#marketo-sales-connect}
+   + Marketo セールスコネクト {#marketo-sales-connect}
       + はじめに {#getting-started}
          + [Sales Connect の概要](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [新しい Sales Connect インスタンスへのアクセス](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
@@ -1160,7 +1160,7 @@ ht-degree: 95%
          + [Sales Connect で SAML 2.0 を使用した SSO の設定](product-docs/marketo-sales-connect/admin/setting-up-sso-through-saml-2-0-in-sales-connect.md)
          + [設定の共有](product-docs/marketo-sales-connect/admin/sharing-settings.md)
          + [ユーザーアクセスの詳細](product-docs/marketo-sales-connect/admin/user-access-details.md)
-      + アナリティクス {#analytics}
+      + 分析 {#analytics}
          + [分析ページの概要](product-docs/marketo-sales-connect/analytics/analytics-page-overview.md)
          + [「コンテンツ」タブについて](product-docs/marketo-sales-connect/analytics/understanding-the-content-tab.md)
          + [「自分」タブについて](product-docs/marketo-sales-connect/analytics/understanding-the-me-tab.md)
@@ -1178,7 +1178,7 @@ ht-degree: 95%
          + [キャンペーンでのタスクの使用](product-docs/marketo-sales-connect/campaigns/using-tasks-in-campaigns.md)
          + [キャンペーンリストを別のユーザーとして表示](product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)
       + CRM {#crm}
-         + Salesforceのカスタマイズ {#salesforce-customization}
+         + Salesforce のカスタマイズ {#salesforce-customization}
             + [タスクのアクティビティタイプフィールド（SFDC）](product-docs/marketo-sales-connect/crm/salesforce-customization/activity-type-field-on-tasks-sfdc.md)
             + [Salesforce への Sales Connect ボタンの追加](product-docs/marketo-sales-connect/crm/salesforce-customization/add-sales-connect-buttons-to-salesforce.md)
             + [Sales Connect データを使用した Salesforce の優先電話レポートの作成](product-docs/marketo-sales-connect/crm/salesforce-customization/create-a-salesforce-priority-call-report-with-sales-connect-data.md)
@@ -1198,7 +1198,7 @@ ht-degree: 95%
             + [Salesforce Lightning での一括アクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-lightning.md)
             + [Salesforce Classic からの Marketo Sales Connect のアンインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-classic.md)
             + [Salesforce Lightning からの Marketo Sales Connect のアンインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/uninstall-marketo-sales-connect-from-salesforce-lightning.md)
-         + Salesforceの統合 {#salesforce-integration}
+         + Salesforce 統合 {#salesforce-integration}
             + [Salesforce アクティビティ詳細のカスタマイズの設定](product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
             + [Sales Connect アカウントの Salesforce への接続](product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
             + [Salesforce を Sales Connect アカウントから切断](product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)
@@ -1224,8 +1224,8 @@ ht-degree: 95%
             + [Sales Connect ツールバー](product-docs/marketo-sales-connect/email-plugins/gmail/the-sales-connect-tool-bar.md)
             + [Gmail での予期しないエラー](product-docs/marketo-sales-connect/email-plugins/gmail/unexpected-error-in-gmail.md)
          + Outlook 用 MSC {#msc-for-outlook}
-            + [Outlook ユーザーのメール接続](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
-            + .NET レガシ アドイン {#net-legacy-add-in}
+            + [Outlook ユーザのメール接続](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+            + .NET 従来のアドイン {#net-legacy-add-in}
                + [.NET アドインの概要](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/net-add-in-overview.md)
                + [Outlook から Sales Connect のアンインストール方法](product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/net-legacy-add-in/how-to-uninstall-sales-connect-from-outlook.md)
             + Office 365 アドイン {#office-365-add-in}
@@ -1249,14 +1249,14 @@ ht-degree: 95%
             + [配信チャネルの概要](product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
             + [メール接続のスロットリング](product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)
             + [カスタム配信チャネルの設定](product-docs/marketo-sales-connect/email/email-delivery/setting-up-a-custom-delivery-channel.md)
-         + 販売メールの送信 {#send-a-sales-email}
+         + セールスメールの送信 {#send-a-sales-email}
             + [キャンペーンは終了しました](product-docs/marketo-sales-connect/email/send-a-sales-email/campaign-has-ended.md)
             + [メールの CC または BCC](product-docs/marketo-sales-connect/email/send-a-sales-email/cc-or-bcc-in-emails.md)
             + [スパムとしてマークされたメール](product-docs/marketo-sales-connect/email/send-a-sales-email/email-marked-as-spam.md)
          + ライブフィード {#the-live-feed}
             + [誤った受信者の場所](product-docs/marketo-sales-connect/email/the-live-feed/incorrect-recipient-location.md)
             + [ライブフィードの概要](product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md)
-         + 配信停止 {#unsubscribes}
+         + 登録解除 {#unsubscribes}
             + [登録解除メッセージの自動追加設定](product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
             + [登録解除リンクメッセージのカスタマイズ](product-docs/marketo-sales-connect/email/unsubscribes/customize-unsubscribe-link-message.md)
             + [Marketo 登録解除チェック](product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)
@@ -1297,10 +1297,10 @@ ht-degree: 95%
          + [Sales Connect ユーザーにキャンペーンを表示](product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md)
          + [セールスアクティビティ用語集](product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md)
          + [セールスアクティビティのトリガーとフィルター](product-docs/marketo-sales-connect/marketo/sales-activity-triggers-and-filters.md)
-      + リード {#people}
+      + 人物 {#people}
          + [人物の詳細表示](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect と GDPR への準拠](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
-         + 連絡先の管理 {#managing-contacts}
+         + 取引先責任者の管理 {#managing-contacts}
             + [人物に対する一括アクション](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
             + [取引先責任者の作成と削除](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [グループタイプ](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
@@ -1348,9 +1348,9 @@ ht-degree: 95%
             + [動的フィールドの挿入方法](product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)
             + [動的フィールドが入力されない場合の対処](product-docs/marketo-sales-connect/templates/dynamic-fields/my-dynamic-fields-arent-filling-out.md)
             + [動的フィールドでの自己参照](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
-   + Marketo Sales Insight {#marketo-sales-insight}
+   + Marketo セールスインサイト {#marketo-sales-insight}
       + アクション {#actions}
-         + [Sales Insight Actions 機能の概要](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
+         + [セールスインサイトアクション機能の概要](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + はじめに {#getting-started}
             + [Sales Insight Actions ユーザーオンボーディングガイド](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Sales Insight Actions ユーザーオンボーディングチェックリスト](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
@@ -1373,7 +1373,7 @@ ht-degree: 95%
             + [設定の共有](product-docs/marketo-sales-insight/actions/admin/sharing-settings.md)
             + [セールスアクションデータの Marketo および Salesforce との同期](product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md)
             + [ユーザーアクセスの詳細](product-docs/marketo-sales-insight/actions/admin/user-access-details.md)
-         + アナリティクス {#analytics}
+         + 分析 {#analytics}
             + [分析ページの概要](product-docs/marketo-sales-insight/actions/analytics/analytics-page-overview.md)
             + [「コンテンツ」タブについて](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [「自分」タブについて](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
@@ -1388,9 +1388,9 @@ ht-degree: 95%
             + [メールステップのセールスキャンペーン送信オプションについて](product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md)
             + [キャンペーンリストを別のユーザーとして表示](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
-            + Salesforceのカスタマイズ {#salesforce-customization}
+            + Salesforce のカスタマイズ {#salesforce-customization}
                + [ドキュメント](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
-            + Salesforceの統合 {#salesforce-integration}
+            + Salesforce 統合 {#salesforce-integration}
                + [Salesforce アクティビティ詳細のカスタマイズの設定](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Sales Insight Actions アカウントを Salesforce に接続](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
                + [Salesforce を Sales Insight Actions から切断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
@@ -1398,12 +1398,12 @@ ht-degree: 95%
                + [Salesforce 診断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [Sales Insight Actions サンドボックスの設定](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [セールスアクティビティの Salesforce への同期](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
-            + Salesforce パッケージの設定 {#salesforce-package-configuration}
+            + Salesforce パッケージ設定 {#salesforce-package-configuration}
                + [Salesforce での Sales Insight Actions 設定](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [セールスアクティビティ属性の Salesforce へのログ](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Salesforce リスト表示へのアクションボタンの追加](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [Salesforce にアクティビティを記録する際のアクティビティタイプフィールドの更新](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
-            + Salesforceのアクション {#actions-in-salesforce}
+            + Salesforce でのアクション {#actions-in-salesforce}
                + [Salesforce でのセールスメールの一括送信の使用](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md)
                + [Salesforce でのセールスキャンペーンへの一括追加の使用](product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md)
          + メール {#email}
@@ -1417,7 +1417,7 @@ ht-degree: 95%
                + [配信チャネルの概要](product-docs/marketo-sales-insight/actions/email/email-delivery/delivery-channel-overview.md)
                + [メール接続のスロットリング](product-docs/marketo-sales-insight/actions/email/email-delivery/email-connection-throttling.md)
                + [チーム向けのカスタム配信チャネルの設定](product-docs/marketo-sales-insight/actions/email/email-delivery/set-up-a-custom-delivery-channel-for-your-team.md)
-            + 配信停止 {#unsubscribes}
+            + 登録解除 {#unsubscribes}
                + [登録解除の概要](product-docs/marketo-sales-insight/actions/email/unsubscribes/unsubscribe-overview.md)
                + [登録解除メッセージの自動追加設定](product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md)
                + [登録解除リンクメッセージのカスタマイズ](product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
@@ -1466,10 +1466,10 @@ ht-degree: 95%
             + [セールスアクティビティのトリガーとフィルター](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
             + [Sales Insight Actions アクティビティ用語集](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Marketo 接続の設定](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
-         + リード {#people}
+         + 人物 {#people}
             + [人物の詳細表示](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
             + [Sales Insight Actions と GDPR への準拠](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
-            + 連絡先の管理 {#managing-contacts}
+            + 取引先責任者の管理 {#managing-contacts}
                + [人物に対する一括アクション](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [グループの管理](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [人物ページの列](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
@@ -1481,7 +1481,7 @@ ht-degree: 95%
             + [国際通話](product-docs/marketo-sales-insight/actions/phone/international-calling.md)
             + [ローカルプレゼンス](product-docs/marketo-sales-insight/actions/phone/local-presence.md)
             + [二者間による同意の設定](product-docs/marketo-sales-insight/actions/phone/two-party-consent-settings.md)
-         + 販売メールの送信 {#send-a-sales-email}
+         + セールスメールの送信 {#send-a-sales-email}
             + [メールトラッキングの概要](product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md)
          + タスク {#tasks}
             + [Salesforce とのリマインダータスク同期](product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
@@ -1500,7 +1500,7 @@ ht-degree: 95%
          + [Google Chrome への Marketo Insights のインストール](product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
          + [Google Chrome への Marketo Insights の使用](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Google メールでリードとアカウントの情報とアクティビティを表示](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
-      + Microsoft Dynamicsの MSI {#msi-for-microsoft-dynamics}
+      + Microsoft Dynamics 用 MSI {#msi-for-microsoft-dynamics}
          + 機能 {#features}
             + [機能の概要](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
             + Marketo タブ {#marketo-tab}
@@ -1524,10 +1524,10 @@ ht-degree: 95%
             + [グローバル MS Dynamics 同期の無効化](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
             + [MS Dynamics インスタンスから MSI をアンインストール](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/uninstall-msi-from-your-ms-dynamics-instance.md)
          + 更新しています {#updating}
-            + [Microsoft Dynamics 用 Marketo Sales Insight ソリューションのアップグレード](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
-      + Salesforceの MSI {#msi-for-salesforce}
+            + [Microsoft Dynamics 用 Marketo セールスインサイトソリューションのアップグレード](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/updating/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+      + Salesforce 用 MSI {#msi-for-salesforce}
          + インストール {#installation}
-            + [Salesforce AppExchange での Marketo Sales Insight パッケージのインストール](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+            + [Salesforce AppExchange での Marketo セールスインサイトパッケージのインストール](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + 設定 {#configuration}
             + [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
             + [Salesforce Professional Edition での Marketo Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
@@ -1544,22 +1544,22 @@ ht-degree: 95%
             + [MSI 機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [インサイトダッシュボード機能の概要](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + [Dynamic Chat の統合](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
-            + [Marketo Sales Insight の複数レコードへのメール送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
-            + MSI パネルでのアクション {#actions-in-the-msi-panel}
+            + [Marketo セールスインサイトの複数レコードへのメール送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
+            + MSI パネルのアクション {#actions-in-the-msi-panel}
                + [Sales Insight でのアクションの選択](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Marketo Sales Insight での登録解除フッターの設定](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [セールステンプレートのロック](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Sales Insight へのメールの公開](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [テストメールの送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + 言語サポート {#language-support}
-               + [Salesforce での多言語サポートに向けた Sales Insight の準備](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
+               + [Salesforce での多言語サポートに向けたセールスインサイトの準備](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Marketo タブ {#marketo-tab}
                + [最有望見込客](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [リードフィードの使用](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
-            + 「MSI 構成」タブ {#msi-configuration-tab}
-               + [Sales Insight の RSS を有効にする](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
+            + MSI 設定タブ {#msi-configuration-tab}
+               + [セールスインサイトの RSS を有効にする](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
             + パフォーマンスレポート {#performance-reports}
-               + [Sales Insight のメール効果レポート](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
+               + [セールスインサイトのメールパフォーマンスレポート](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
             + 星と炎 {#stars-and-flames}
                + [星と炎のカスタマイズ](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
                + [優先度、緊急度、相対スコア、最有望見込客](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
@@ -1590,7 +1590,7 @@ ht-degree: 95%
          + [Marketo Sales Insight プラグイン管理者の指定](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
          + [Outlook 用 Marketo メールアドインのアップグレード](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
       + [非ネイティブ MS Dynamics 統合用 Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
-      + [非ネイティブ Salesforce 統合用 Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
+      + [非ネイティブ Salesforce 統合用セールスインサイト](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [予想される動作](product-docs/marketo-sky/expected-behavior.md)
    + モバイルマーケティング {#mobile-marketing}
@@ -1721,7 +1721,7 @@ ht-degree: 95%
             + [ワークスペースをまたいだレポートメール、キャンペーンの効果](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [ワークスペース間でのモデルの共有](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
             + [匿名アクティビティとリードのトラッキング](product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
-         + Report Subscriptions {#report-subscriptions}
+         + レポート購読 {#report-subscriptions}
             + [スマートリスト購読の編集](product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
             + [レポート購読の管理](product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)
             + [購読管理設定の保護](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
@@ -1754,12 +1754,12 @@ ht-degree: 95%
          + [パフォーマンスインサイトの設定](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [パフォーマンスインサイトのトレンドの概要](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [パフォーマンスインサイトの設定](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
-      + 売上高サイクル分析 {#revenue-cycle-analytics}
+      + 収益サイクル分析 {#revenue-cycle-analytics}
          + メール分析 {#email-analysis}
             + [リードを一覧表示するメール分析レポートの作成](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
             + [プログラム情報を示すメール分析レポートの作成](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)
             + [メール分析領域について](product-docs/reporting/revenue-cycle-analytics/email-analysis/understanding-the-email-analysis-area.md)
-         + 商談の影響分析 {#opportunity-influence-analyzer}
+         + 商談の影響アナライザー {#opportunity-influence-analyzer}
             + [商談の影響アナライザーについて](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/understanding-the-opportunity-influence-analyzer.md)
             + [商談の影響アナライザーの設定](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
             + [商談の影響アナライザーの作成](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
@@ -1802,7 +1802,7 @@ ht-degree: 95%
             + [売上高モデル SLA ステージの使用](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
             + [売上高モデルトランジションの使用](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
             + [成功パスアナライザーの使用](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
-         + 収益エクスプローラ {#revenue-explorer}
+         + 収益エクスプローラー {#revenue-explorer}
             + [売上高エクスプローラーレポートへのカスタム測定の追加](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
             + [売上高エクスプローラーレポートへのフィールドの追加](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
             + [売上高エクスプローラーレポートの作成](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
@@ -1820,20 +1820,20 @@ ht-degree: 95%
             + [期間原価の定義](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
             + [売上高サイクル分析のカスタムフィールド同期の有効化](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [売上高ステージ別のリードレポート](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
-            + 属性 {#attribution}
+            + アトリビューション {#attribution}
                + [アトリビューションについて](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
                + [アトリビューションの例 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
                + [アトリビューションの例 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
                + [アトリビューションの例 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
                + [アトリビューションの例 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
-            + フィールド主催者 {#field-organizers}
+            + フィールドオーガナイザー {#field-organizers}
                + [フィールドオーガナイザーの使用](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
                + [フィールドオーガナイザーを使用したカスタムフィールドグループの作成](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
       + 高度な BI 分析 {#advanced-bi-analytics}
          + [高度な BI 分析の概要](product-docs/reporting/advanced-bi-analytics/overview.md)
          + [指標とディメンション](product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
    + ターゲットアカウント管理 {#target-account-management}
-      + セットアップ {#setup}
+      + 設定 {#setup}
          + [ターゲットアカウント管理の概要](product-docs/target-account-management/setup-tam/target-account-management-overview.md)
          + [TAM の概要](product-docs/target-account-management/setup-tam/getting-started-with-tam.md)
          + [ライセンスの発行](product-docs/target-account-management/setup-tam/issue-a-license.md)
@@ -1871,7 +1871,7 @@ ht-degree: 95%
          + [RCA の重点顧客ディメンション](product-docs/target-account-management/measure/named-account-dimension-in-rca.md)
          + [重点顧客インサイト](product-docs/target-account-management/measure/named-account-insights.md)
          + [ペルソナの使用](product-docs/target-account-management/using-personas.md)
-      + アカウントプロファイル {#account-profiling}
+      + アカウントプロファイリング {#account-profiling}
          + [アカウントプロファイリングの設定](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
          + [アカウントのプロファイリングのランキングと調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
          + [新しいアカウントの検出](product-docs/target-account-management/account-profiling/new-account-discovery.md)
@@ -1896,7 +1896,7 @@ ht-degree: 95%
          + [Adobe Tag Manager を使用した RTP の実装](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
          + [Google タグマネージャーを使用した RTP の実装](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
          + [Tealium タグマネージャーを使用した RTP の実装](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
-      + Web Personalizationのレポート {#reporting-for-web-personalization}
+      + Web パーソナライゼーションのレポート {#reporting-for-web-personalization}
          + [メールレポート](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
          + [レポート購読の有効化／無効化](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
          + [特定の IP のトラッキングからの除外](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
@@ -1908,7 +1908,7 @@ ht-degree: 95%
             + [RTP を Google Analytics に連携](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [RTP を Google ユニバーサルアナリティクスに連携](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Adobe Analytics との統合](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
-      + Web Personalizationについて {#understanding-web-personalization}
+      + Web パーソナライゼーションについて {#understanding-web-personalization}
          + [コンテンツ分析について](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [Web パーソナライゼーション用語集](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
          + [Web パーソナライゼーションの概要](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
@@ -1924,7 +1924,7 @@ ht-degree: 95%
          + [リードデータの管理](product-docs/web-personalization/using-web-segments/manage-person-data.md)
          + [特定のラベルからのセグメントの表示](product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
          + [Web セグメント](product-docs/web-personalization/using-web-segments/web-segments.md)
-      + Web サイトの再ターゲティング {#website-retargeting}
+      + Web サイトのリターゲティング {#website-retargeting}
          + [Facebook でのパーソナライズリマーケティング](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Google でのパーソナライズリマーケティング](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
          + [Web パーソナライゼーションデータによるリターゲティング](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
@@ -1956,7 +1956,7 @@ ht-degree: 95%
    + [現在のリリース](release-notes/current.md)
    + [Dynamic Chat リリース](release-notes/dynamic-chat.md)
    + 以前のリリース {#previous-releases}
-      + 2025 {#2025}
+      + 2025年 {#2025}
          + [リリースノート：2025年1月](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [リリースノート：2025 年 3 月](release-notes/previous-releases/2025/release-notes-mar-25.md)
       + 2024年 {#2024}
@@ -1985,7 +1985,7 @@ ht-degree: 95%
          + [リリースノート：2021年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
          + [リリースノート：2021年8月](release-notes/previous-releases/2021/release-notes-aug-21.md)
          + [リリースノート：2021年10月](release-notes/previous-releases/2021/release-notes-oct-21.md)
-      + 2020 年 {#2020}
+      + 2020年 {#2020}
          + [リリースノート：2020年1月](release-notes/previous-releases/2020/release-notes-jan-20.md)
          + [リリースノート：2020年2月](release-notes/previous-releases/2020/release-notes-feb-20.md)
          + [リリースノート：2020年6月](release-notes/previous-releases/2020/release-notes-june-20.md)
@@ -1996,23 +1996,23 @@ ht-degree: 95%
          + [リリースノート：2019年6月](release-notes/previous-releases/2019/release-notes-june-19.md)
          + [リリースノート：2019年春](release-notes/previous-releases/2019/release-notes-spring-19.md)
          + [リリースノート：2019年冬](release-notes/previous-releases/2019/release-notes-winter-19.md)
-      + 2018 {#2018}
+      + 2018年 {#2018}
          + [リリースノート：2018年秋](release-notes/previous-releases/2018/release-notes-fall-18.md)
          + [リリースノート：2018年春](release-notes/previous-releases/2018/release-notes-spring-18.md)
          + [リリースノート：2018年冬](release-notes/previous-releases/2018/release-notes-winter-18.md)
-      + 2017 {#2017}
+      + 2017年 {#2017}
          + [リリースノート：2017年4月 ABM の機能強化](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
          + [リリースノート：2017年8月 ABM の機能強化](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
          + [リリースノート：2017年秋](release-notes/previous-releases/2017/release-notes-fall-17.md)
          + [リリースノート：2017年春](release-notes/previous-releases/2017/release-notes-spring-17.md)
          + [リリースノート：2017年夏](release-notes/previous-releases/2017/release-notes-summer-17.md)
          + [リリースノート：2017年冬](release-notes/previous-releases/2017/release-notes-winter-17.md)
-      + 2016 {#2016}
+      + 2016年 {#2016}
          + [リリースノート：2016年秋](release-notes/previous-releases/2016/release-notes-fall-16.md)
          + [リリースノート：2016年春](release-notes/previous-releases/2016/release-notes-spring-16.md)
          + [リリースノート：2016年夏](release-notes/previous-releases/2016/release-notes-summer-16.md)
          + [リリースノート：2016年冬](release-notes/previous-releases/2016/release-notes-winter-16.md)
-      + 2015 {#2015}
+      + 2015年 {#2015}
          + [リリースノート：2015年4月](release-notes/previous-releases/2015/release-notes-april-2015.md)
          + [リリースノート：2015年秋](release-notes/previous-releases/2015/release-notes-fall-15.md)
          + [リリースノート：2015年2月](release-notes/previous-releases/2015/release-notes-february-2015.md)
@@ -2021,7 +2021,7 @@ ht-degree: 95%
          + [リリースノート：2015年6月](release-notes/previous-releases/2015/release-notes-june-2015.md)
          + [リリースノート：2015年3月](release-notes/previous-releases/2015/release-notes-march-2015.md)
          + [リリースノート：2015年5月](release-notes/previous-releases/2015/release-notes-may-2015.md)
-      + 2014 {#2014}
+      + 2014年 {#2014}
          + [リリースノート：2014年8月](release-notes/previous-releases/2014/release-notes-august-2014.md)
          + [リリースノート：2014年12月](release-notes/previous-releases/2014/release-notes-december-2014.md)
          + [リリースノート：2014年2月](release-notes/previous-releases/2014/release-notes-february-2014.md)
@@ -2031,7 +2031,7 @@ ht-degree: 95%
          + [リリースノート：2014年3月](release-notes/previous-releases/2014/release-notes-march-2014.md)
          + [リリースノート：2014年5月](release-notes/previous-releases/2014/release-notes-may-2014.md)
          + [リリースノート：2014年10月](release-notes/previous-releases/2014/release-notes-october-2014.md)
-      + 2013 {#2013}
+      + 2013年 {#2013}
          + [リリースノート：2013年4月](release-notes/previous-releases/2013/release-notes-april-2013.md)
          + [リリースノート：2013年8月](release-notes/previous-releases/2013/release-notes-august-2013.md)
          + [リリースノート：2013年12月](release-notes/previous-releases/2013/release-notes-december-2013.md)
@@ -2043,7 +2043,7 @@ ht-degree: 95%
          + [リリースノート：2013年5月](release-notes/previous-releases/2013/release-notes-may-2013.md)
          + [リリースノート：2013年10月](release-notes/previous-releases/2013/release-notes-october-2013.md)
          + [リリースノート：2013年9月](release-notes/previous-releases/2013/release-notes-september-2013.md)
-      + 2012 {#2012}
+      + 2012年 {#2012}
          + [リリースノート：2012年4月](release-notes/previous-releases/2012/release-notes-april-2012.md)
          + [リリースノート：2012年12月](release-notes/previous-releases/2012/release-notes-december-2012.md)
          + [リリースノート：2012年1月／2月](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)

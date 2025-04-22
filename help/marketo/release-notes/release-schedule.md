@@ -35,12 +35,12 @@ _リリース日／機能は変更される場合があります。_
   <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">25 年 1 月</a></td>
    <td>2025年1月17日（PT）</td>
-   <td>出荷済み</td>
+   <td>リリース済み</td>
   </tr>
    <tr> 
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">2025年3月</a></td>
    <td>2025年3月28日（PT）</td>
-   <td>出荷済み</td>
+   <td>リリース済み</td>
   </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">2025年4月</a></td>
