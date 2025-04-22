@@ -5,9 +5,9 @@ title: カスタムオブジェクト同期の有効化／無効化
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
 source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '221'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. これが最初のカスタムオブジェクトの場合は、「**[!UICONTROL スキーマを同期]**」をクリックします。 それ以外の場合は、**[!UICONTROL スキーマを更新]** をクリックして、が最新であることを確認します。
+1. これが最初のカスタムオブジェクトの場合は、「**[!UICONTROL スキーマを同期]**」をクリックします。それ以外の場合は、「**[!UICONTROL スキーマを更新]**」をクリックして最新であることを確認します。
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
@@ -57,7 +57,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. 「**[!DNL Salesforce]**」タブに戻り、「**[!UICONTROL 同期を有効にする]** をクリックします。
+1. 「**[!DNL Salesforce]**」タブに戻って、「**[!UICONTROL 同期を有効にする]**」をクリックします。
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -65,9 +65,9 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
 >[!NOTE]
 >
->トリガーを含むスマートキャンペーンでは、カスタムオブジェクトを使用できません。
+>スマートキャンペーンでは、カスタムオブジェクトをトリガーと共に使用することはできません。
 
-1. スマートリストで「**[!UICONTROL 商談あり]**」フィルターにドラッグして、「**[!UICONTROL true]**」に設定します。
+1. スマートリストで、**[!UICONTROL 商談あり]**&#x200B;フィルターをドラッグして、**[!UICONTROL true]** に設定します。
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -75,7 +75,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    ![](assets/image2015-8-24-14-3a18-3a53.png)
 
-   これで完了です。これで、このカスタムオブジェクトのデータをスマートキャンペーンとスマートリストで使用できます。
+   これで完了です。このカスタムオブジェクトのデータをスマートキャンペーンとスマートリストで使用できるようになりました。
 
 >[!MORELIKETHIS]
 >
