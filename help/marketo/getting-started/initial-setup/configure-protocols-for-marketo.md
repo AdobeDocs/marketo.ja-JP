@@ -5,9 +5,9 @@ title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
-workflow-type: tm+mt
-source-wordcount: '2148'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '2131'
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 97%
 `2` **メールトラッキングリンク用の CNAME の追加**
 
 `[YourEmailCNAME]`が Marketo が割り当てたデフォルトのトラッキングリンク[MktoTrackingLink]を以下の形式で指すように、送信されたメール CNAME マーケティングを追加します。\
-`[YourEmailCNAME].[YourDomain].com` CNAME 内 `[MktoTrackingLink]`
+`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
 
 例：
 
@@ -98,7 +98,7 @@ Marketo を使用してテストメールを送信する（メールの破棄を
    DNS エントリに既に SPF レコードが存在する場合は、以下のコードを追加します。\
    include: mktomail.com
 
-   CompanyDomain を Web サイトのメインドメイン（例：`(company.com/)`）で置き換え、CorpIP を会社のメールサーバーの IP アドレス（例：255.255.255.255）で置き換えます。Marketo を通じて複数のドメインからメールを送信する場合は、IT スタッフに各ドメインに対してこの行を（1 行で）追加してもらう必要があります。
+   CompanyDomain を Web サイトのメインドメイン（例：`(company.com/)`）で置き換え、CorpIP を会社のメールサーバーの IP アドレス（例：&quot;255.255.255.255&quot;）が該当します。 Marketo を通じて複数のドメインからメールを送信する場合は、IT スタッフに各ドメインに対してこの行を（1 行で）追加してもらう必要があります。
 
 1. DKIM の場合は、設定するドメインごとに DNS リソースレコードを作成します。署名する各ドメインのホストレコードと TXT 値を以下に示します。
 
@@ -243,7 +243,7 @@ DMARC レコードには、DMARC タグと呼ばれる複数のコンポーネ�
 </tbody>
 </table>
 
-DMARC とそのすべてのオプションについて詳しくは、[https://dmarc.org/](https://dmarc.org/){target="_blank"} を参照してください。
+DMARC とそのすべてのオプションについて詳しくは、[https://dmarc.org/](https://dmarc.org/){target="_blank"}を参照してください。
 
 ### DMARC と Marketo Engage {#dmarc-and-marketo-engage}
 
@@ -268,7 +268,7 @@ DMARC の整列には、DKIM 整列と SPF 整列の 2 つのタイプがあり�
 
 * 専用 IP を通じて Marketo からメールを送信していて、ブランドの Return-Path をまだ実装していない場合や、実装しているかどうかわからない場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}でチケットを開いてください。
 
-* IP の共有プールを通じて Marketo からメールを送信している場合は、[こちらで申請](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}することで、信頼済み IP の資格があるかどうかを確認できます。 Marketo の信頼済み IP から送信するユーザには、ブランドの Return-Path が無料で提供されます。このプログラムに対して承認された場合は、Marketo サポートに連絡してブランドの Return-Path を設定してください。
+* IP の共有プールを通じて Marketo からメールを送信している場合は、[こちらで申請](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}することで、信頼済み IP の資格があるかどうかを確認できます。Marketo の信頼済み IP から送信するユーザには、ブランドの Return-Path が無料で提供されます。このプログラムに対して承認された場合は、Marketo サポートに連絡してブランドの Return-Path を設定してください。
 
    * 信頼済み IP：専用 IP の資格がなく、月あたりの送信メッセージが 75,000 件未満の低メッセージ量ユーザ用に予約された共有 IP プール。また、これらのユーザは、ベストプラクティスの要件も満たす必要があります。
 
@@ -286,11 +286,11 @@ MX レコードを使用すると、メールの送信元のドメインに対�
 
 **Webhook**
 
-Marketo Engage[Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} は、アウトバウンド統合メカニズムです。 スマートキャンペーンの一部として [Webhook を呼び出し ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} フローアクションが実行されると、外部の web サービスに対して HTTP リクエストが行われます。 Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
+Marketo Engage[Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}は、アウトバウンド統合メカニズムです。スマートキャンペーンの一部として[ Webhook を呼び出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"}フローアクションが実行されると、外部の web サービスに対して HTTP リクエストが行われます。 Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
 
 **CRM 同期**
 
-Marketo Engage[Salesforce CRM 同期 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} と [Microsoft Dynamics同期 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} は、CRM ベンダーによって公開された API へのアウトバウンド HTTP リクエストを行う統合メカニズムです。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
+Marketo Engage[Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}と[ Microsoft Dynamics同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}は、CRM ベンダーによって公開された API へのアウトバウンド HTTP リクエストを行う統合メカニズムです。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
 
 **Marketo Engage アウトバウンド IP アドレスブロック**
 
