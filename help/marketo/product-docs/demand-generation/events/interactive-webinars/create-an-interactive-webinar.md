@@ -3,10 +3,10 @@ description: インタラクティブウェビナーの作成 - Marketo ドキ�
 title: インタラクティブウェビナーの作成
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
-workflow-type: ht
-source-wordcount: '298'
-ht-degree: 100%
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
+workflow-type: tm+mt
+source-wordcount: '306'
+ht-degree: 76%
 
 ---
 
@@ -42,13 +42,13 @@ ht-degree: 100%
 
    ![](assets/create-an-interactive-webinar-5.png)
 
-1. ウェビナーのタイトルを入力します。ウェビナーの最大オーディエンスサイズと所要時間を設定します。
+1. ウェビナーのタイトルを入力して、期間を決定します。
 
    ![](assets/create-an-interactive-webinar-6.png)
 
    >[!NOTE]
    >
-   >* このウェビナーのタイトルは、参加者が参加すると表示されます。Marketo Engage インスタンスのインタラクティブウェビナーイベントプログラムの名前やウェビナールームの名前と、異なるタイトルを付けることが重要です。
+   >* ウェビナーのタイトル **は** 参加者が参加時に表示されます。 Marketo Engage インスタンスのインタラクティブウェビナーイベントプログラムの名前やウェビナールームの名前とタイトルが異なることが重要です。
    >
    >* ウェビナータイトルは、再利用できません。それぞれが Marketo インスタンス内で一意である必要があります。
    >
@@ -56,7 +56,7 @@ ht-degree: 100%
    >
    >* テストウェビナーを作成する場合は、そのウェビナーのライセンスが利用されないように、開始時間より前に削除する必要があります。
 
-1. ウェビナーの日時をスケジュールし、「**作成**」をクリックします。
+1. ウェビナーの日時をスケジュールし、（必要に応じて）タイムゾーンを変更し、最大オーディエンスサイズを設定します。 完了したら「**作成**」をクリックします。
 
    ![](assets/create-an-interactive-webinar-7.png)
 

@@ -3,9 +3,9 @@ description: GenAI の機能 – Marketo ドキュメント – 製品ドキュ�
 title: GenAI の機能
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Adobe GenAI の利用条件に同意したら、次に、個々のユーザー�
 
 1. オンデマンドウェビナーを実施した後、AI が録画を処理するまで 30～60 分待ちます。 「生成」ボタンが使用可能になったらクリックできるようになります。
 
-1. **[!UICONTROL 生成]** をクリックします。
+1. **[!UICONTROL GenAI コンテンツを表示]** をクリックします。
 
    ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
