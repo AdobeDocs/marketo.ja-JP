@@ -5,9 +5,9 @@ title: ランディングページ効果レポート
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
 source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '206'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 78%
 
 >[!NOTE]
 >
->スマートリストとランディングページパフォーマンスレポートの間の数値に不一致がある場合、スマートリストでは人物に関するデータのみがフィルタリングされるのに対して、ランディングページパフォーマンスレポートには、人物データに加えてソーシャル（Facebook、Google広告など）および匿名アクティビティが含まれている可能性があります。
+>スマートリストとランディングページの効果レポートの数値に不一致がある場合は、スマートリストでは人物に関するデータのみがフィルタリングされるのに対し、ランディングページの効果レポートには人物データに加えて、ソーシャルメディア（Facebook、Google 広告など）や匿名アクティビティが含まれることが原因である可能性があります。
 
 1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、ランディングページ効果[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「レポート」タブをクリックします。
@@ -39,4 +39,4 @@ ht-degree: 78%
 
 >[!MORELIKETHIS]
 >
->ランディングページの効果レポートをローカルまたはグローバルアセットで[フィルタリング](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md)します。
+>ローカルまたはグローバルアセットで[ランディングページのパフォーマンスレポートをフィルタリング](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/filter-a-landing-page-performance-report.md)します。

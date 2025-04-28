@@ -4,9 +4,9 @@ title: ライブチャットの概要
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
 source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '697'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->ライブエージェントのアバターは、エージェントのアドビアカウントプロファイルのプロファイル画像を使用します。画像を更新するには、[ 次の手順 ](https://helpx.adobe.com/jp/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"} に従います。
+>ライブエージェントのアバターは、エージェントのアドビアカウントプロファイルのプロファイル画像を使用します。画像を更新するには、[以下の手順](https://helpx.adobe.com/jp/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}に従います。
 
 ## ライブチャットカードの使用 {#using-the-live-chat-card}
 
@@ -88,9 +88,9 @@ ht-degree: 96%
 
 エージェントがブラウザーで許可した後もブラウザー通知を受信しない場合は、OS の通知設定でブラウザーの通知を有効にする必要がある場合があります。
 
-[Macの手順 ](https://support.apple.com/ja-jp/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+[Mac の手順](https://support.apple.com/ja-jp/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
-[Windows の手順 ](https://support.microsoft.com/ja-jp/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+[Windows の手順](https://support.microsoft.com/ja-jp/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
 ### ライブチャットがエージェントにルーティングされる場合 {#when-a-live-chat-is-routed-to-an-agent}
 

@@ -5,15 +5,15 @@ title: LinkedIn のオーディエンスセグメントとしての Marketo リ�
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
 source-git-commit: f205014ef4b1446c1c532e28910fab0c5fdaabcb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '194'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 # LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用 {#use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment}
 
-Marketo Engage ユーザーを LinkedIn オーディエンスと統合します。
+Marketo Engage の人物を LinkedIn のオーディエンスと統合します。
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Marketo Engage ユーザーを LinkedIn オーディエンスと統合します�
 
    ![](assets/list-as-a-linkedin-audience-segment-1.png)
 
-1. スマート・リストを選択します。
+1. スマートリストを選択します。
 
    ![](assets/list-as-a-linkedin-audience-segment-2.png)
 
@@ -53,7 +53,7 @@ Marketo Engage ユーザーを LinkedIn オーディエンスと統合します�
 
    >[!NOTE]
    >
-   >LinkedIn は、2018 年 3 月に「オーディエンスをクリアしてリードを追加」プッシュタイプに使用していた API を非推奨（廃止予定）にしました。 このオプションは、Marketo の 2018 年第 1 四半期リリース以降は使用できなくなりました。
+   >LinkedIn は、2018年3月に「オーディエンスの消去とリードの追加」プッシュタイプに使用される API を非推奨（廃止予定）にしました。このオプションは、Marketo の 2018 年第 1 四半期リリース以降は使用できなくなりました。
 
 1. _[!UICONTROL プッシュタイプ]_&#x200B;を選択します。「**[!UICONTROL 更新]**」をクリックします。
 

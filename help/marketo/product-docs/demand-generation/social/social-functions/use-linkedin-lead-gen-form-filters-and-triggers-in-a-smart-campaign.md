@@ -5,7 +5,7 @@ title: スマートキャンペーンでの LinkedIn リード生成フォーム
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
 source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
 ht-degree: 100%
 

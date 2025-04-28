@@ -5,15 +5,15 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '429'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
 # リリースノート：2025年4月 {#release-notes-apr-25}
 
-以下に、2025 年 4 月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+2025年4月リリースに含まれるすべての機能を以下に示します。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
@@ -33,7 +33,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr> 
-   <td><strong> メールDesignerのテンプレート互換性 </strong>：従来のメールエディターのメールテンプレートは、新しい <a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md"> メールDesigner</a> と互換性を持つようになりました。</td>
+   <td><strong>メールデザイナーのテンプレートの互換性</strong>：従来のメールエディターのメールテンプレートは、新しい<a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">メールデザイナー</a>と互換性を持つようになりました。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -43,7 +43,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Secure Socket Layer （SSL） Self Service</strong>:SSL 暗号化を使用すると、Marketo Engage インスタンスのランディングページを安全にすることができます。 この機能を有効にするには、Adobe サポートチームからの支援が必要です。 Marketo ユーザーが自分で有効にできるようになり、貴重な時間を節約できます。</td> 
+   <td><strong>Secure Socket Layer（SSL）セルフサービス</strong>：SSL 暗号化により、Marketo Engage インスタンスのランディングページを安全にすることができます。この機能を有効にするには、アドビサポートチームからのサポートが必要でした。Marketo ユーザは自分で有効にできるようになり、貴重な時間を節約できます。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -57,7 +57,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 この機能にアクセスするには、高度な BI 分析アドオンを購入する必要があります。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-* **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2025年6月30日（PT）以降は使用できなくなります。すべての新規および既存の統合は、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります [ 詳しくは、こちらを参照 ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2025年6月30日（PT）以降は使用できなくなります。すべての新規および既存の統合は、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **SOAP API の廃止**：Marketo SOAP API のサポートは、2025年10月31日（PT）に終了する予定です。SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
 

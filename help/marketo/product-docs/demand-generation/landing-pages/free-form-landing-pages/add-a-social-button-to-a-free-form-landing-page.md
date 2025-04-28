@@ -5,9 +5,9 @@ title: フリーフォームランディングページへのソーシャルボ�
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
 source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '249'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Social ボタンは、人々に、友人とコンテンツを共有するよう�
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   ランディングページがアクティブになったら、_ソーシャルボタン（Analytics を使用）で生成されたアクティビティをソーシャルダッシュボード_ で確認できます。
+   ランディングページがアクティブになると、_ソーシャルボタン（Analytics 使用）によって生成されたアクティビティがソーシャルダッシュボード_&#x200B;に表示されます。
 
    代わりにいいね！/おすすめボタン（Lite）を追加する場合は、[ランディングページのパフォーマンスレポート](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)で共有数を確認してください。
 
@@ -55,4 +55,4 @@ Social ボタンは、人々に、友人とコンテンツを共有するよう�
 
 >[!MORELIKETHIS]
 >
->これで完了しましたが、ソーシャルボタンの設定は必要に応じて変更できます。まず _ボタンのスタイルのカスタマイズ_ または _共有メッセージの編集_ から始めます。
+>これで完了しましたが、ソーシャルボタンの設定は必要に応じて変更できます。まず、_ボタンのスタイルをカスタマイズ_&#x200B;するか、表示する&#x200B;_共有メッセージを編集_&#x200B;します。

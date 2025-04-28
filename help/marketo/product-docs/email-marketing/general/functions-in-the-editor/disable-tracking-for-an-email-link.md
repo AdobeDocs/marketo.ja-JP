@@ -5,9 +5,9 @@ title: メールリンクのトラッキングを無効にする
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
 source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '288'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -47,4 +47,4 @@ ht-degree: 80%
 
    >[!CAUTION]
    >
-   >メールテンプレート内のリンクまたはメールの [ テキストバージョン ](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"} のクリックトラッキングを無効にする場合は、次の例のように、文字列の *先頭* に `mktNoTrack` を追加し、末尾には追加しません。`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>` そうしないと、リンクが消える可能性があります。 上記のコードの実装に関してサポートが必要な場合は、web 開発者にお問い合わせください。
+   >メールテンプレート内のリンクや[テキストバージョン](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"}のメールのクリックトラッキングを無効にする場合は、文字列の末尾ではなく&#x200B;*先頭*&#x200B;に `mktNoTrack` を追加します（例：`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`）。そうしないと、リンクが表示されなくなる可能性があります。上記のコードの実装に関するヘルプが必要な場合は、web 開発者にお問い合わせください。

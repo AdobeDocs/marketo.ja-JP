@@ -5,9 +5,9 @@ title: LinkedIn リード生成フォームの設定
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
 source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '511'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ LinkedIn リード生成フォームを使用して、LinkedIn で広告キャ�
 
 >[!IMPORTANT]
 >
->LinkedIn では、Marketo Engage LinkedIn 統合で使用されるマーケティング API をアップグレードしています。この変更により、サービスの中断を避けるために、2024年6月7日（PT）から 12月15日（PT）までの間、**管理**／**LaunchPoint** メニューですべての LinkedIn LaunchPoint サービスの再認証が必須になります。詳しくは、[ 移行に関する FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"} を参照してください。
+>LinkedIn では、Marketo Engage LinkedIn 統合で使用されるマーケティング API をアップグレードしています。この変更により、サービスの中断を避けるために、2024年6月7日（PT）から 12月15日（PT）までの間、**管理**／**LaunchPoint** メニューですべての LinkedIn LaunchPoint サービスの再認証が必須になります。詳しくは、[移行に関する FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"} を参照してください。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ LinkedIn リード生成フォームを使用して、LinkedIn で広告キャ�
 
    ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 
-1. **[!UICONTROL LaunchPoint]** に移動し、「新規 **[!UICONTROL をクリックして]** 新規サービス **[!UICONTROL を選択し]** す。
+1. **[!UICONTROL LaunchPoint]** に移動します。「**[!UICONTROL 新規]**」をクリックして、「**[!UICONTROL 新規サービス]**」を選択します。
 
    ![](assets/set-up-linkedin-lead-gen-forms-2.png)
 
