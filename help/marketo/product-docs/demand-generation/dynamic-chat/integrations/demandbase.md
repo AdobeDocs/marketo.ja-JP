@@ -2,13 +2,11 @@
 description: Demandbase - Marketo ドキュメント - 製品ドキュメント
 title: Demandbase
 feature: Dynamic Chat
-hide: true
-hidefromtoc: true
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: 4b8ad353dac509ab901cb6672a649f85d8a6f150
-workflow-type: ht
-source-wordcount: '161'
-ht-degree: 100%
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+workflow-type: tm+mt
+source-wordcount: '179'
+ht-degree: 90%
 
 ---
 
@@ -33,6 +31,8 @@ Demandbase ユーザは、Dynamic Chat でのダイアログターゲティン�
 1. 「**作成**」をクリックします。
 
 1. 「_コピー_」アイコンを使用して、ページ下部の API トークン文字列をコピーします。
+
+1. [Marketo サポート } でチケットを送信し ](https://nation.marketo.com/t5/support/ct-p/Support)Demandbase 統合を有効化するための API トークン文字列を指定します。
 
 >[!NOTE]
 >
