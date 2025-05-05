@@ -83,7 +83,7 @@ Adobe Express Editor にアクセスする方法は 2 つあります。
 
 ### Enterprise ライセンスを持つユーザー {#users-with-an-enterprise-license}
 
-Adobe Expressの Enterprise ライセンスをお持ちの場合は、Express Editor 全体にアクセスできます。 カラー、明るさ、シャープネス、コントラスト、サイズなどの画像設定を調整できます。 AI マジックオプションを使用すると、背景の削除、オブジェクトの挿入と削除、画像の一部の消去を行うことができます。 各設定については、[Adobe Express ユーザーガイド ](https://helpx.adobe.com/express/user-guide.html){target="_blank"} を参照してください。
+Adobe Expressの Enterprise ライセンスをお持ちの場合は、Express Editor 全体にアクセスできます。 カラー、明るさ、シャープネス、コントラスト、サイズなどの画像設定を調整できます。 AI マジックオプションを使用すると、背景の削除、オブジェクトの挿入と削除、画像の一部の消去を行うことができます。 各設定については、[Adobe Express ユーザーガイド ](https://helpx.adobe.com/jp/express/user-guide.html){target="_blank"} を参照してください。
 
 >[!IMPORTANT]
 >

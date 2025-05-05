@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 6B {#template-6b}
 
-右クリックして[テンプレート 6B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)します
+右クリックして[テンプレート 6B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html?lang=ja)します
 
 ![](assets/image2015-7-29-11-3a33-3a2.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)
+[テンプレート 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html?lang=ja)

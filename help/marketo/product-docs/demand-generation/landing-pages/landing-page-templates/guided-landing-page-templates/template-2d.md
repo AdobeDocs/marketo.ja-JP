@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 2D {#template-2d}
 
-右クリックして[テンプレート 2D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)します
+右クリックして[テンプレート 2D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=ja)します
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+[Template 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=ja)

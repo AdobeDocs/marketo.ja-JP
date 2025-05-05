@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 17-D {#template-17d}
 
-右クリックして[テンプレート 17-D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)します
+右クリックして[テンプレート 17-D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html?lang=ja)します
 
 ![](assets/image2015-8-17-17-3a22-3a19.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template17-D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html)
+[Template17-D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17d.html?lang=ja)

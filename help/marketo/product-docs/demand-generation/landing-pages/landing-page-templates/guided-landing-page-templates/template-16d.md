@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 16D {#template-16d}
 
-右クリックして[テンプレート 16D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)します
+右クリックして[テンプレート 16D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=ja)します
 
 ![](assets/image2015-8-14-13-3a12-3a25.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 16D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html)
+[Template 16D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=ja)

@@ -97,9 +97,9 @@ Marketo Engage側で更新を行った場合でも、CRM 側で更新を行っ�
 
 **頻繁に更新されるフィールド**：一部のフィールドは頻繁に更新される傾向があります。 例えば、通貨の変更が必要な通貨フィールドなどです。 これらを同期する必要があるか、またはフィールドの設計を変える必要があるかを確認します。 頻繁に更新され、必要のない他のフィールドがある場合は、同期ユーザーに対して非表示にします。 フィールドを更新している可能性のあるSFDC管理者の統合について確認してください。
 
-**カスタムオブジェクト**：同期が有効になっている [ カスタムオブジェクト ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} を定期的に確認し、同期する必要がなくなったオブジェクトは無効にします。
+**カスタムオブジェクト**：同期が有効になっている [ カスタムオブジェクト ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} を定期的に確認し、同期する必要がなくなったオブジェクトは無効にします。
 
-**アクティビティ**:[ アクティビティがあるかどうかを確認 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} 同期が有効になっていましたが、同期から削除される可能性があります。  これらのアクティビティは、リードごとに 1 日に 1 回だけ同期されます。
+**アクティビティ**:[ アクティビティがあるかどうかを確認 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} 同期が有効になっていましたが、同期から削除される可能性があります。  これらのアクティビティは、リードごとに 1 日に 1 回だけ同期されます。
 
 **同期エラーの確認**：例外処理により同期が遅くなる場合があります。 ユーザー通知を確認し、エラーを解決すると、同期の正常性が向上する可能性があります。
 

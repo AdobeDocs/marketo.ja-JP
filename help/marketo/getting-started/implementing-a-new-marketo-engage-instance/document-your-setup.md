@@ -26,7 +26,7 @@ ht-degree: 52%
 <tbody>
   <tr>
     <td>リストの読み込み</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">Marketo Engage に読み込む</a>レコードの取得元となるデータソースのリストを収集します。</li>
+    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">Marketo Engage に読み込む</a>レコードの取得元となるデータソースのリストを収集します。</li>
     <li>複数のデータソースから読み込む場合は、マスターリストを使用するか、人物レコードで <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank"> カスタムフィールドの作成 </a> を使用して、データソースを示すことを検討してください。</li></td>
   </tr>
   <tr>

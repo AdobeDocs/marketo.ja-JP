@@ -103,7 +103,7 @@ ht-degree: 0%
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-詳しくは、[ チャットパネル ](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} を参照してください。
+詳しくは、[ チャットパネル ](https://helpx.adobe.com/jp/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} を参照してください。
 
 ### 準備モード {#prepare-mode}
 
@@ -126,16 +126,16 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* ライブポッドに対して行われた変更は、即座に参加者に反映されます。
->* [ チャットパネル ](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} は準備モードの一部ではなく、変更は参加者に即座に反映されます。
+>* [ チャットパネル ](https://helpx.adobe.com/jp/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} は準備モードの一部ではなく、変更は参加者に即座に反映されます。
 
 ### アクセシビリティ {#accessibility}
 
 Adobeは、インタラクティブウェビナーのアクセシビリティを向上させることによって、発表者や障害のある参加者を含めるよう努めています。 このソフトウェアは、あらゆるタイプのユーザーのニーズに応え、視覚、聴覚、運動などの障害を持つユーザーも含めた世界標準に準拠するように継続的に強化されています。
 
-Adobe Connectが視覚、聴覚、運動のニーズ [ に対する支援を提供する方法について説明 ](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"} ます。
+Adobe Connectが視覚、聴覚、運動のニーズ [ に対する支援を提供する方法について説明 ](https://helpx.adobe.com/jp/adobe-connect/using/accessibility-features.html){target="_blank"} ます。
 
 ### クローズドキャプション {#closed-captions}
 
 クローズドキャプションは、Adobe Connect ルーム内の音声をテキストで表現したもので、耳が聞こえない参加者や聞こえにくい参加者がイベントに参加するのに役立ちます。 オーディオコンテンツのリアルタイムキャプションをイベントに統合し、これらのキャプションをクローズドキャプション表示に表示できます。
 
-詳細情報 [ クローズドキャプションを有効にする ](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
+詳細情報 [ クローズドキャプションを有効にする ](https://helpx.adobe.com/jp/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
