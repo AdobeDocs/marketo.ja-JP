@@ -20,8 +20,8 @@ ht-degree: 66%
 
 次のフローアクションを使用できます。
 
-* [!UICONTROL Microsoft キャンペーンに追加 ]
-* [!UICONTROL Microsoft Campaign から削除 ]
+* [!UICONTROL Microsoft キャンペーンに追加 &#x200B;]
+* [!UICONTROL Microsoft Campaign から削除 &#x200B;]
 
 >[!NOTE]
 >
@@ -29,10 +29,10 @@ ht-degree: 66%
 
 また、次の 2 つのトリガーがあります。
 
-* [!UICONTROL Microsoft Campaign に追加されました ]
-* [!UICONTROL Microsoft Campaign から削除されました ]
+* [!UICONTROL Microsoft Campaign に追加されました &#x200B;]
+* [!UICONTROL Microsoft Campaign から削除されました &#x200B;]
 
-トリガーは、Marketo フローアクション「[!UICONTROL Microsoft Campaign に追加 ]」および「[!UICONTROL Microsoft Campaign から削除 ] のアクションに基づいて実行されます。
+トリガーは、Marketo フローアクション「[!UICONTROL Microsoft Campaign に追加 &#x200B;]」および「[!UICONTROL Microsoft Campaign から削除 &#x200B;] のアクションに基づいて実行されます。
 
 >[!NOTE]
 >

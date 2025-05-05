@@ -22,7 +22,7 @@ Sales Insight Actions には、基本、カスタム、Salesforce の 3 つの�
 
 Salesforce フィールド：例えば、`{{sfdc_account_name}}`
 
-* このフィールドが Sales Insight Actions と正しく接続されていることを確認します。[設定](https://toutapp.com/login{target="_blank"}ページに移動し、CRM の横にある「**管理**」をクリックします。
+* このフィールドが Sales Insight Actions と正しく接続されていることを確認します。[設定] (https://toutapp.com/login{target="_blank"}ページに移動し、CRM の横にある「**管理**」をクリックします。
 
 **基本フィールドとカスタムフィールドのトラブルシューティング**
 

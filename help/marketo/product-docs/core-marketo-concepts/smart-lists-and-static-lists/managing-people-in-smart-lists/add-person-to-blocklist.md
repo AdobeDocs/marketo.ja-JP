@@ -81,4 +81,4 @@ ht-degree: 44%
 
 >[!TIP]
 >
->**トリガーブロックリストに加える可能な属性を持つ今後のすべてのユーザーについて、{Block Listed が true** の **Change Data Value** を使用して ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}0} パーソナライゼーションキャンペーンを作成します。[
+>**トリガーブロックリストに加える可能な属性を持つ今後のすべてのユーザーについて、{Block Listed が true** の **Change Data Value** を使用して [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}0} パーソナライゼーションキャンペーンを作成します。

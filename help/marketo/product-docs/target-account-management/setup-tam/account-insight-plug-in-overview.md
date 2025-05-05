@@ -19,7 +19,7 @@ ht-degree: 96%
 >
 >* 顧客インサイトは、TAM と Marketo Sales Insight の両方を持つすべてのユーザーに対して含まれます。TAM のみを持つユーザーの場合、顧客インサイトはアドオンとして購入できます。各ユーザーは、250 の顧客インサイトシートに制限されています。詳細は、セールス担当者にお問い合わせください。TAM を持たないユーザーは、この機能を利用できません。
 >
->* このプラグインは、現時点では ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}0}Adobe ID 認証 } と互換性がありません。[
+>* このプラグインは、現時点では [&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}0&rbrace;Adobe ID 認証 &rbrace; と互換性がありません。
 
 >[!CAUTION]
 >

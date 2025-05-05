@@ -23,7 +23,7 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >プログラムは[キャンペーン](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)[フォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)または[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)に複製できます。複製する前に、基になるすべての依存アセット（メール、スニペット、ランディングページテンプレートなど）を複製先のワークスペースと共有します。
+   >プログラムは[キャンペーン](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [フォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)または[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)に複製できます。複製する前に、基になるすべての依存アセット（メール、スニペット、ランディングページテンプレートなど）を複製先のワークスペースと共有します。
 
    ![](assets/cloneto.png)
 
@@ -31,7 +31,7 @@ ht-degree: 91%
    >
    >上のスクリーンショットの「メモ」を参照してください。つまり、リスト内の 1000 人以上のユーザーを含むプログラムを複製すると、リスト自体は複製されますが、空になります。999 人以下のリストを含むプログラムを複製すると、そのリストはそのメンバーと共に複製されたプログラムに表示されます。
 
-1. [!UICONTROL  名前 ] を入力します。
+1. [!UICONTROL &#x200B; 名前 &#x200B;] を入力します。
 
    ![](assets/cloneprogramname.png)
 

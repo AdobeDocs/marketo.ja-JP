@@ -69,7 +69,7 @@ ht-degree: 77%
 
 ## レコメンデーション
 
-[!UICONTROL  レポート ] ページの上部で、進捗に基づいて、AI/ML 駆動型のレコメンデーションを見つけることができます。 定期的に確認して、ヒントやインサイトを役立ててください。
+[!UICONTROL &#x200B; レポート &#x200B;] ページの上部で、進捗に基づいて、AI/ML 駆動型のレコメンデーションを見つけることができます。 定期的に確認して、ヒントやインサイトを役立ててください。
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 

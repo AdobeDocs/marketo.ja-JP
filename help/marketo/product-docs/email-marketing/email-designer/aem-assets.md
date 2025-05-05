@@ -15,7 +15,7 @@ _Adobe Experience Manager Assetsas a Cloud Service_ アカウントをAdobe Mark
 
 >[!NOTE]
 >
->現在、Marketo Engageでは _0}Adobe Experience Manager Assets} の画像アセットのみがサポートされています。_&#x200B;アセットに対する変更は、Adobe Experience Manager Assets中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>現在、Marketo Engageでは _0&rbrace;Adobe Experience Manager Assets&rbrace; の画像アセットのみがサポートされています。_&#x200B;アセットに対する変更は、Adobe Experience Manager Assets中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## AI アシスタントのコンテンツアクセラレータへのアクセス {#access-the-ai-assistant-content-accelerator}
 
@@ -31,7 +31,7 @@ _Adobe Experience Manager Assetsas a Cloud Service_ アカウントをAdobe Mark
 
    ![ 「管理者」セクションで「Adobe Experience Manager」を選択します ](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}。
 
-1. **2}Adobe Experience ManagerCloud Service** の横にある「編集 _をクリックします。_
+1. **2&rbrace;Adobe Experience ManagerCloud Service** の横にある「編集 _をクリックします。_
 
    ![ 「編集」をクリック ](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
 

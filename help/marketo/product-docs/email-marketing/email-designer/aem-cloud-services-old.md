@@ -22,7 +22,7 @@ Adobe Marketo Engage インスタンスにAEM Assets Cloud Serviceアカウン�
 
 スクリーンショット
 
-1. **2}Adobe Experience ManagerCloud Service** の横にある「編集 _をクリックします。_
+1. **2&rbrace;Adobe Experience ManagerCloud Service** の横にある「編集 _をクリックします。_
 
 スクリーンショット
 

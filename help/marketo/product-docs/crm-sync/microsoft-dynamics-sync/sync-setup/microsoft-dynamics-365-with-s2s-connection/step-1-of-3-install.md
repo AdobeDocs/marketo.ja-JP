@@ -82,7 +82,7 @@ Microsoft Dynamics 365 と Marketo を同期する前に、まず Dynamics に M
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. **[!UICONTROL Marketo リード管理を選択し]****[!UICONTROL すべてのカスタマイズをPublish]** をクリックします。
+1. **[!UICONTROL Marketo リード管理を選択し]**&#x200B;**[!UICONTROL すべてのカスタマイズをPublish]** をクリックします。
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 

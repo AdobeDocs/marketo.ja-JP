@@ -20,7 +20,7 @@ Adobe Marketo Engage のヘルプセンターは、サポートを受ける際�
 
 ### Adobe IMS前の移行 {#pre-adobe-ims-integration}
 
-これらの手順は、まだ _2}Adobe IMSに移行されていない_ Marketo Engageユーザーを対象と ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) ています。[
+これらの手順は、まだ _2&rbrace;Adobe IMSに移行されていない_ Marketo Engageユーザーを対象と [&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) ています。
 
 Marketo Engageに [ ログイン ](http://login.marketo.com/) し、「ヘルプ」アイコンをクリックします。
 

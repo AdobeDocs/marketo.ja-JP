@@ -23,7 +23,7 @@ ht-degree: 84%
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. 左側の検索バーに「プロファイル」と入力し、「ユーザーを管理 **[!UICONTROL の下の**[!UICONTROL  プロファイル ]**をクリック]** ます。
+1. 左側の検索バーに「プロファイル」と入力し、「ユーザーを管理 **[!UICONTROL の下の**&#x200B;[!UICONTROL &#x200B; プロファイル &#x200B;]&#x200B;**をクリック]** ます。
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 

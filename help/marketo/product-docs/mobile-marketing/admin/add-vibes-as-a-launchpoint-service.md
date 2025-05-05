@@ -39,11 +39,11 @@ SMS アクティビティを活用して、Marketo Engageインスタンスで�
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. 設定で、Vibes [!UICONTROL  ユーザー名 ]、[!UICONTROL  パスワード ]、[!UICONTROL  会社キー ] を入力します（これらはすべて Vibes アカウントにあります）。 「**[!UICONTROL 作成]**」をクリックします。
+1. 設定で、Vibes [!UICONTROL &#x200B; ユーザー名 &#x200B;]、[!UICONTROL &#x200B; パスワード &#x200B;]、[!UICONTROL &#x200B; 会社キー &#x200B;] を入力します（これらはすべて Vibes アカウントにあります）。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   新しい SMS サービスが [!UICONTROL  インストールされたサービス ] リストに表示されます。
+   新しい SMS サービスが [!UICONTROL &#x200B; インストールされたサービス &#x200B;] リストに表示されます。
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
 

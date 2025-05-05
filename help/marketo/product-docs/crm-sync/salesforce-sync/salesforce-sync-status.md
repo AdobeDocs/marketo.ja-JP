@@ -40,7 +40,7 @@ ht-degree: 81%
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. 日付と時間の範囲を選択し、ドロップダウンをクリックして [!UICONTROL  オブジェクトタイプ ]、[!UICONTROL  操作タイプ ]、[!UICONTROL  ステータスタイプ ] でフィルタリングします。
+1. 日付と時間の範囲を選択し、ドロップダウンをクリックして [!UICONTROL &#x200B; オブジェクトタイプ &#x200B;]、[!UICONTROL &#x200B; 操作タイプ &#x200B;]、[!UICONTROL &#x200B; ステータスタイプ &#x200B;] でフィルタリングします。
 
    ![](assets/salesforce-sync-status-5.png)
 

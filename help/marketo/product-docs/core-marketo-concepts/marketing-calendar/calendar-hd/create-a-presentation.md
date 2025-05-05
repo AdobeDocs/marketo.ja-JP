@@ -24,7 +24,7 @@ ht-degree: 91%
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. 右下隅にある ]**0}Presentations} をクリックします。**[!UICONTROL 
+1. 右下隅にある **0&rbrace;Presentations&rbrace; をクリックします。**
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 

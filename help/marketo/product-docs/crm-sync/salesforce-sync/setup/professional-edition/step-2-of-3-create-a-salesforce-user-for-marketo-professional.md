@@ -27,7 +27,7 @@ ht-degree: 89%
 
 Salesforce Professional は、Salesforce Enterprise／Unlimited のプロファイルとは異なり、ページレイアウトでフィールドレベルのアクセシビリティを設定します。これらの手順に従うと、Marketo 同期ユーザーはカスタムフィールドをアップデートできます。
 
-1. **[!UICONTROL Enter] キーを押さずにナビゲーション検索バーに「[!UICONTROL  ページレイアウト]**」と入力し、**[!UICONTROL リード]** の下の **[!UICONTROL ページレイアウト]** をクリックします。
+1. **[!UICONTROL Enter] キーを押さずにナビゲーション検索バーに「[!UICONTROL &#x200B; ページレイアウト]**」と入力し、**[!UICONTROL リード]** の下の **[!UICONTROL ページレイアウト]** をクリックします。
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 

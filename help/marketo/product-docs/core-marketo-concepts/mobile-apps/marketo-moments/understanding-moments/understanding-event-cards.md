@@ -25,7 +25,7 @@ ht-degree: 44%
 * [イベントを完了としてマーク](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [イベントモーメントカードを共有](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-イベントカードは 2 枚あります。イベントの数時間前に送信された [!UICONTROL  オンデッキ ] カードには、新規登録した人数が示されます。 後で送信される [!UICONTROL  結果 ] カードには、実際に参加した人数が表示されます。
+イベントカードは 2 枚あります。イベントの数時間前に送信された [!UICONTROL &#x200B; オンデッキ &#x200B;] カードには、新規登録した人数が示されます。 後で送信される [!UICONTROL &#x200B; 結果 &#x200B;] カードには、実際に参加した人数が表示されます。
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
 

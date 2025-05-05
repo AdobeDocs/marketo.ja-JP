@@ -52,9 +52,9 @@ ht-degree: 97%
    >* 表示 URL はドメインのパスにする必要があります
    >* https:// や https:// は含めません
    >* ワイルドカード &#42; 使用
-   * セミコロンを区切り文字として使用します
-   * 例：/contact_us&#42;; &#42;action=logout&#42;
-   * このフィールドでは大文字と小文字が区別されます
+   >* セミコロンを区切り文字として使用します
+   >* 例：/contact_us&#42;; &#42;action=logout&#42;
+   >* このフィールドでは大文字と小文字が区別されます
 
 ## レコメンデーションバーについての注意事項 {#recommendation-bar-considerations}
 
@@ -65,4 +65,4 @@ ht-degree: 97%
 
 >[!MORELIKETHIS]
 >
-[Web リッチメディアの予測コンテンツの有効化](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>[Web リッチメディアの予測コンテンツの有効化](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

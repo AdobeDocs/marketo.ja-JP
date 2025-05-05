@@ -16,7 +16,7 @@ Adobe Marketo Engage サポートプロセスに対する今後の変更点に�
 
 ## Marketo EngageAdmin Console {#marketo-engage-admin-console}
 
-最初のアップデートでは、Marketo Engageユーザー向けに新しい ](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"}0}Adobe Admin Console} が導入されました。 [Adobe Admin Consoleを使用すると、ユーザーと購読をより効率的に管理できます。 この更新により、現在のAdobeの使用方法に影響を与えることなく、管理機能をより詳細に制御できます。 つまり、強化された管理機能を活用しながら、日々の運用をシームレスに継続できます。
+最初のアップデートでは、Marketo Engageユーザー向けに新しい [&#128279;](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"}0&rbrace;Adobe Admin Console&rbrace; が導入されました。 Adobe Admin Consoleを使用すると、ユーザーと購読をより効率的に管理できます。 この更新により、現在のAdobeの使用方法に影響を与えることなく、管理機能をより詳細に制御できます。 つまり、強化された管理機能を活用しながら、日々の運用をシームレスに継続できます。
 
 ## Marketo Engageサポートポータルの更新と移行 {#marketo-engage-support-portal}
 
