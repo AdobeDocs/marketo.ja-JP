@@ -5,9 +5,9 @@ description: 新しいAdobe Marketo Engage メールDesignerへようこそ。
 title: 概要
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '825'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,10 @@ ht-degree: 1%
 新しいAdobe Marketo Engage メールDesignerへようこそ。
 
 E メールデザイナーはMarketo Engageの最新のイノベーションで、標準の標準の標準テンプレートと共に視覚的なドラッグ&amp;ドロップエディターを提供することで、生産性と効率を向上させるために、改善された E メールおよび E メールテンプレートの作成体験を提供することを目的としています。 ベンダーにお金をかけることなく、カスタマイズされたメールテンプレートを簡単に作成できます。
+
+>[!NOTE]
+>
+>メールDesignerには、すべての主要なブラウザーでアクセスできますが、現時点では Firefox の全機能はサポートされていません。
 
 ## アクセス方法 {#how-to-access}
 
@@ -102,3 +106,7 @@ API を使用して編集されているAssetsは、現時点では、新しい�
 **Marketo Engage サブスクリプションが IMS （Adobe Admin Console）に移行されたかどうかを確認するにはどうすればよいですか？**
 
 [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} を使用してMarketo Engageにログインした場合、サブスクリプションは移行されています。
+
+**新しいメールDesignerでは、どのブラウザーを使用できますか？**
+
+Google Chrome、Apple Safari またはMicrosoft Edgeの使用をお勧めします。 Mozilla Firefox の完全サポートは、後日利用できるようになります。
