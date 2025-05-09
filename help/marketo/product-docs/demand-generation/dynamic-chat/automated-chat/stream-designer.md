@@ -3,10 +3,10 @@ description: ストリームデザイナー - Marketo ドキュメント - 製�
 title: ストリームデザイナー
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
-workflow-type: ht
-source-wordcount: '1250'
-ht-degree: 100%
+source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
+workflow-type: tm+mt
+source-wordcount: '1199'
+ht-degree: 93%
 
 ---
 
@@ -141,15 +141,15 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
    ![](assets/stream-designer-10.png)
 
-1. 右側の列で、「**[!UICONTROL 保存]**」をクリックします。
+1. ルーティングオプションを選択し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/stream-designer-11.png)
 
-1. これは目標なので、予定スケジューラーの下にある[!UICONTROL 目標]カードをドラッグします。
+1. これは目標なので、「_[!UICONTROL 目標]_」カードをミーティング予約の下にドラッグします。
 
    ![](assets/stream-designer-12.png)
 
-1. 目標に名前を付け（または既存のものを選択）、「**[!UICONTROL 保存]**」をクリックします。
+1. 目標に名前を付け（または既存の目標を選択し）、「**[!UICONTROL 保存]**」をクリックします。 会話スコアの割り当てはオプションです。
 
    ![](assets/stream-designer-13.png)
 
@@ -165,38 +165,19 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
    >
    >「**[!UICONTROL 回答を追加]**」をクリックすると、さらに回答を追加できます。
 
-1. 「はい」の回答の下で、情報キャプチャカードをドラッグして、訪問者のメールを収集できます。
+1. 「はい」の応答の下で _情報キャプチャ_ カードをドラッグして、訪問者のメールを収集します。
 
    ![](assets/stream-designer-16.png)
 
-1. **[!UICONTROL タイプ]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL メール]**」を選択します。
+1. ドロップダウンをクリックし、「**[!UICONTROL メールアドレス]**」を選択します。
 
    ![](assets/stream-designer-17.png)
 
-1. チャットボットのメッセージとプレースホルダーを入力します。属性が Marketo Engage の適切なフィールドにマッピングされていることを確認し、「**[!UICONTROL 保存]**」をクリックします。
+1. チャットボットのメッセージとプレースホルダーを入力します。この属性の値がデータベース内に既にある場合は、スキップするか、このデータで上書きするかを選択します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/stream-designer-18.png)
 
-   <table>
-    <tr>
-     <td style="width:30%"><strong>タイプ</strong></td>
-     <td>取得する情報のタイプ（電話、テキスト、メール）</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>チャットボットメッセージ</strong></td>
-     <td>情報の提供を促すメッセージが訪問者に表示されます。</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>プレースホルダー</strong></td>
-     <td>訪問者が何を入力するかを確認するのに役立つサンプルテキスト。</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>回答を属性にマッピング</strong></td>
-     <td>訪問者の回答を、Marketo Engage サブスクリプション内の個人レコードの対応するフィールドに同期できます。</td>
-    </tr>
-   </table>
-
-1. メールの収集が目標なので、情報キャプチャの下に[!UICONTROL 目標]カードをドラッグします。
+1. メールの収集が目標なので、情報キャプチャの下に&#x200B;_[!UICONTROL 目標]_&#x200B;カードをドラッグします。
 
    ![](assets/stream-designer-19.png)
 
@@ -212,13 +193,9 @@ _多数の_&#x200B;ストリームの組み合わせが可能です。この記�
 
    ![](assets/stream-designer-22.png)
 
-1. 「**[!UICONTROL プレビュー]**」切替スイッチを選択して、ダイアログをプレビューします。
-
-   ![](assets/stream-designer-23.png)
-
 1. ダイアログをアクティブにする準備が整ったら、「**[!UICONTROL 公開]**」をクリックします。
 
-   ![](assets/stream-designer-24.png)
+   ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
