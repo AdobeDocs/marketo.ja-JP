@@ -4,9 +4,9 @@ description: リリーススケジュール - Marketo ドキュメント - 製�
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
-workflow-type: ht
-source-wordcount: '129'
+source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+workflow-type: tm+mt
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 * 予定通り - 機能および機能強化を指定日にリリースする予定です
 * 進行中 - リリースの機能をロールアウト中です
-* 出荷済み - リリースは完了しています
+* リリース済み - リリースは完了しています
 
 _リリース日／機能は変更される場合があります。_
 
@@ -45,7 +45,7 @@ _リリース日／機能は変更される場合があります。_
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">2025年4月</a></td>
    <td>2025年4月</td>
-   <td>予定通り</td>
+   <td>進行中</td>
   </tr>
   <tr> 
    <td>2025年5月</td>
@@ -60,6 +60,21 @@ _リリース日／機能は変更される場合があります。_
   <tr> 
    <td>2025年7月</td>
    <td>2025年7月25日（PT）</td>
+   <td>予定通り</td>
+  </tr>
+  <tr> 
+   <td>25年8月</td>
+   <td>2025年8月22日（PT）</td>
+   <td>予定通り</td>
+  </tr>
+  <tr> 
+   <td>25 年 9 月</td>
+   <td>2025年9月19日</td>
+   <td>予定通り</td>
+  </tr>
+  <tr> 
+   <td>25年10月</td>
+   <td>2025年10月17日（PT）</td>
    <td>予定通り</td>
   </tr>
  </tbody>
