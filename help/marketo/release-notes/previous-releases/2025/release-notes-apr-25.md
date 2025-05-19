@@ -2,9 +2,9 @@
 description: 最新のリリースノート - Marketo ドキュメント - 製品ドキュメント
 title: 最新のリリースノート
 feature: Release Information
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '408'
 ht-degree: 98%
 
 ---
@@ -29,16 +29,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:65%">機能</th> 
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
-  </tr>
-  <tr> 
-   <td><strong>メールデザイナーのテンプレートの互換性</strong>：従来のメールエディターのメールテンプレートは、新しい<a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">メールデザイナー</a>と互換性を持つようになりました。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
   </tr>
   <tr> 
    <td><strong>Secure Socket Layer（SSL）セルフサービス</strong>：SSL 暗号化により、Marketo Engage インスタンスのランディングページを安全にすることができます。この機能を有効にするには、アドビサポートチームからのサポートが必要でした。Marketo ユーザは自分で有効にできるようになり、貴重な時間を節約できます。</td> 

@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 79%
+source-wordcount: '331'
+ht-degree: 80%
 
 ---
 
@@ -30,6 +30,16 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:65%">機能</th> 
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
+  </tr>
+  <tr> 
+   <td><strong>メールデザイナーのテンプレートの互換性</strong>：従来のメールエディターのメールテンプレートは、新しい<a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">メールデザイナー</a>と互換性を持つようになりました。</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
   </tr>
   <tr> 
    <td><strong> 任意の属性のトリガートークン </strong>:Smart Campaign フィールドで任意のアクティビティ属性のデータを使用できるように、トリガートークンの一覧が拡張されています。</td> 
