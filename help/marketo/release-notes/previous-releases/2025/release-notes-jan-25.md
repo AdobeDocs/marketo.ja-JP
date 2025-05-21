@@ -2,10 +2,11 @@
 description: リリースノート - 2025年1月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2025年1月
 feature: Release Information
-source-git-commit: 709c5f3c0009763f8ab7778278c6a2fe6db10a08
+exl-id: fd816b9c-9e06-4292-87d6-9fa991c4681f
+source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 100%
+source-wordcount: '551'
+ht-degree: 93%
 
 ---
 
@@ -33,7 +34,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
     <tr> 
    <td><strong>新しいメールデザイナー</strong>：Marketo Engage の新しいネイティブメールデザイナーを使用して、最新の効率的なメールを作成します。事前に設計された標準のメールテンプレートの 1 つにアクセスするか、独自のテンプレートを簡単に作成します。動的コンテンツを使用し、Adobe Experience Manager Cloud Services から画像にアクセスします。コンテンツアクセラレーターの生成 AI 機能を使用して、革新的でパフォーマンスの高いメールを大規模に作成します。
    <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：新しいメールデザイナーにアクセスするには、Marketo Engage サブスクリプションを <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management システム（IMS）</a>に移行する必要があります。まだ移行しておらず、迅速な対応をリクエストする場合は、アドビのアカウントチーム（担当のアカウントマネージャー）または <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo サポート</a>にお問い合わせください。コンテンツアクセラレーターの生成 AI 機能に対するアクセス権を取得するには、アドビのアカウントチームにお問い合わせください。</td>
-   <td>出荷済み</td>
+   <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">メールデザイナー - 概要</a></td>
   </tr>
   <tr> 
@@ -72,8 +73,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 この時点では、ユーザは Marketo Engage でこれらのソーシャル機能を作成、複製、埋め込むことができなくなりました。既存のソーシャルアセットは、2025年1月31日（PT）まで引き続き機能します。2025年2月1日（PT）をもって、ソーシャルアセットは機能しなくなります。ランディングページに埋め込まれたソーシャル機能を削除する必要があります。[詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Get Program Members API の更新**：プログラムメンバーの識別子を取得する機能をサポートすることを目的に、[Get Program Members](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API が強化されました。これを行うには、API リクエストの fields パラメーターで指定されたフィールドのリストに ID を追加します。
+* **プログラムメンバー API の更新**:[ プログラムメンバーの取得 ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API が強化され、プログラムメンバーの識別子を取得する機能がサポートされるようになりました。 これを行うには、API リクエストの fields パラメーターで指定されたフィールドのリストに ID を追加します。
 
-* **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2025年6月30日（PT）以降は使用できなくなります。すべての新規および既存の統合は、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2025年10月31日（PT）以降は使用できなくなります。すべての新規および既存の統合は、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API の廃止**：Marketo SOAP API のサポートは、2025年10月31日（PT）に終了する予定です。SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
+* **SOAP API の廃止**: Marketo SOAP API のサポートは 2025 年 10 月 31 日に終了します。 SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
