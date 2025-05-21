@@ -5,9 +5,9 @@ title: Microsoft Dynamics からの Marketo セールスメールの送信
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
 source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '166'
+ht-degree: 100%
 
 ---
 

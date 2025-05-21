@@ -4,9 +4,9 @@ title: Adobe Identity Management に関するよくある質問
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
 source-git-commit: 8b44c3b2ccabeb796a3a8f7775848a5063279076
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1645'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Adobe Identity Management システムは、3 つのコンポーネントで構�
 
 **移行後、Marketo Engage URL は変わりませんか？**
 
-いいえ、できません。 URL は、移行後に `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` の形式で表示されます（XXX はMunchkin ID を表し、@tenantID はAdobe組織の URL です）。
+いいえ、できません。 移行後に URL は `https://experience.adobe.com/#/@tenantID/so:XXX-XXX-XXX/marketo-engage/classic/` の形式で表示されます（XXX は Munchkin ID を表し、@tenantID は Adobe 組織のもの）。
 
 **URL の変更に備えて必要なことはありますか？**
 
@@ -36,11 +36,11 @@ Adobe Identity Management システムは、3 つのコンポーネントで構�
 
 engagement-xx.marketo.com ドメイン上の Marketo Engage アセットへの以前のリンクとブックマークは引き続き機能する&#x200B;_予定_&#x200B;です。 ただし、まず、移動先の URL の Marketo Engage インスタンスにログインする必要があります。 例えば、Munchkin ID 123-ABC-456 のインスタンスのスマートキャンペーンのブックマークに移動するには、まず Munchkin ID 123-ABC-456 で Marketo Engage インスタンスにログインする必要があります。
 
-予定されていませんが、今後の開発作業でこのリダイレクト機能が機能しなくなる可能性があります。 予期しない中断を避けるために、できるだけ早い時期にブックマークを更新することをお勧めします。
+予定はありませんが、今後の開発作業でこのリダイレクト機能が機能しなくなる可能性があります。予期しない中断を避けるために、できるだけ早い時期にブックマークを更新することをお勧めします。
 
 **SSO はサポートされていますか？**
 
-はい。 Adobe IMS との統合では、ユニバーサル ID ユーザと SSO がサポートされています。 SSO は Adobe IMS によって駆動され、Adobe Admin Console で組織レベルで設定されます。 ただし、Marketo Engage IdP によるサポートとAdobe SP によるサポートには違いがあります（[ 詳しくはこちらを参照 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}）。 Admin Consoleへの移行後に SSO の違いについてサポートが必要な場合は、[Adobe カスタマーケア ](https://helpx.adobe.com/jp/contact.html){target="_blank"} にお問い合わせください。
+はい。 Adobe IMS との統合では、ユニバーサル ID ユーザと SSO がサポートされています。 SSO は Adobe IMS によって駆動され、Adobe Admin Console で組織レベルで設定されます。 ただし、Marketo Engage IdP 開始サポートとアドビの SP 開始サポートには違いがあります（[詳しくは、こちらを参照してください](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}）。Admin Console に移行した後の SSO の違いに関してサポートが必要な場合は、[アドビカスタマーケア](https://helpx.adobe.com/jp/contact.html){target="_blank"}にお問い合わせください。
 
 **製品管理者とアドビ管理者の違いは何ですか。**
 
@@ -79,11 +79,11 @@ Ultimate Success を利用している場合は、Admin Console Migration White 
 
 **管理者はどのように Marketo [!DNL Sales Connect] にユーザーを追加しますか？**
 
-[!DNL Sales Connect] の Admin Console には製品カードがありますが、Admin Console を使用してユーザーを追加／管理することはできません。 管理者は、次のリンクを使用して、Marketo [!DNL Sales Connect] 経由でユーザーを管理できます：[https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management){target="_blank"}。
+[!DNL Sales Connect] の Admin Console には製品カードがありますが、Admin Console を使用してユーザーを追加／管理することはできません。 次のリンクを使用すると、Marketo [!DNL Sales Connect]を経由して管理者はユーザーを管理できます：[https://toutapp.com/next#settings/admin/user-management](https://toutapp.com/next#settings/admin/user-management){target="_blank"}。
 
 **Adobe Admin Console の詳細はどこで確認できますか？**
 
-[https://helpx.adobe.com/jp/enterprise/admin-guide.html](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"} にアクセスしてください。
+[Https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"} にアクセスしてください。
 
 **マイアカウントのユーザアカウントに変更を加えるためには、Marketo の管理者セクションにアクセスするのでしょうか？**
 
@@ -99,7 +99,7 @@ Adobe ID に転送されたユーザーは、製品の購読切り替えボタ�
 
 **既に Adobe ID にオンボードされているので、SSO を実装したいと考えています。 どうすればいいですか？**
 
-シングルサインオンを実装する場合で、Adobe組織に SSO が実装されていないサブスクリプションがAdobe ID にオンボーディングされた場合は、[Marketo サポートにチケットを送信し ](https://nation.marketo.com/){target="_blank"} 「Admin ConsoleでのMarketo、SSO の実装」と指定します。
+シングルサインオンの実装を希望しており、アドビ組織に SSO が実装されていない状態でサブスクリプションが Adobe ID に既にオンボードされている場合は、[Marketo サポート](https://nation.marketo.com/){target="_blank"}にチケットを送信し、「Admin Console での Marketo、SSO の実装」というトピックを指定してください。
 
 **デバイス認証はどのように機能しますか？**
 
@@ -119,19 +119,19 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 
 **Adobe ID に移行する際に、ユーザのログイン情報がメールアドレスと一致しない場合はどうすればいいですか？**
 
-メールアドレスとは異なるログイン情報を使用している現在の Marketo Engage ユーザは、Adobe ID に移行すると、その資格情報ではログインできなくなります。 Adobe ID では、常にユーザのメールアドレスを使用して認証します。 Adobe ID メールアドレスは [account.adobe.com](https://account.adobe.com){target="_blank"} で更新できます。
+メールアドレスとは異なるログイン情報を使用している現在の Marketo Engage ユーザは、Adobe ID に移行すると、その資格情報ではログインできなくなります。 Adobe ID では、常にユーザのメールアドレスを使用して認証します。 Adobe ID のメールアドレスは [account.adobe.com](https://account.adobe.com){target="_blank"} で更新できます。
 
 **サブスクリプションで IP 制限設定を使用している場合、Adobe ID の移行後はどうなりますか？**
 
 サブスクリプションを Adobe ID にオンボードした場合、IP 制限設定は Adobe Admin Console に移行されません。 Marketo の IP 制限設定には、特定の IP アドレスからのアクセスのみを許可することや、特定の IP アドレスからのアクセスをブロックすることが含まれます。 現時点では、Adobe Identity Management システムは IP 制限機能をサポートしていません。
 
-2025 年半ばにAdobe Identity Management System は、特定の IP アドレスのみを許可する機能をリリースし、現在この機能を使用しているMarketo ユーザーの移行をサポートします。 現在この機能を使用しているユーザは、機能がリリースされるまでユーザの移行は行われません。 機能が提供されると、移行がスケジュールされていることがユーザに通知されます。 この機能について詳しくは、機能が利用可能になった時点で提供されます。
+2025年半ばに、Adobe Identity Management システムは特定の IP アドレスのみを許可する機能をリリースし、現在この機能を使用している Marketo ユーザのトランジションをサポートします。現在この機能を使用しているユーザは、機能がリリースされるまでユーザの移行は行われません。 機能が提供されると、移行がスケジュールされていることがユーザに通知されます。 この機能について詳しくは、機能が利用可能になった時点で提供されます。
 
 現在、特定のアドレスへのアクセスをブロックする IP 制限を使用しているユーザは、Adobe Identity Management システムでサポートされていないので、Adobe ID に移行すると、この機能を使用できなくなります。
 
 **「シングルサインオンをバイパス」オプションがあるロールを持つユーザがいる場合、Adobe ID の移行後はどうなりますか？**
 
-Adobe Admin Consoleには、デフォルトの Business ID ディレクトリが付属しています。 Adobe組織内のFederated ID ディレクトリで要求されるドメイン外のユーザーは、Adobe ID ID タイプでこのディレクトリに割り当てられます。 これらのユーザーは、シングルサインオン（SSO）を経由せずにMarketo Engageにアクセスできます。ライセンスの所有権は個人ではなく会社に残ります。
+Adobe Admin Console には、デフォルトの Business ID ディレクトリが付属しています。アドビ組織内の Federated ID ディレクトリで要求されたドメイン外のユーザーは、Adobe ID の ID タイプでこのディレクトリに割り当てられます。これらのユーザーは、シングルサインオン（SSO）を経由せずに Marketo Engage にアクセスできます。ライセンスの所有権は個人ではなく会社に残ります。
 
 **複数のサブスクリプションを持っていますが、すべてのサブスクリプションでシングルサインオンが有効になっているわけではありません。 Adobe ID の移行後はどうなりますか？**
 
@@ -143,7 +143,7 @@ Adobe Admin Consoleには、デフォルトの Business ID ディレクトリが
 
 **セッションがタイムアウトするのを防ぐにはどうすればよいですか？**
 
-[ 詳細設定 ](https://helpx.adobe.com/jp/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"} で、目的の最大セッション時間をカスタマイズできます（システム管理者権限が必要です）。 この設定は、製品の移行後、ユーザの移行前に確立することをお勧めします。
+[詳細設定](https://helpx.adobe.com/jp/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}では、目的の最長セッション有効期間をカスタマイズできます（システム管理者の権限が必要です）。この設定は、製品の移行後、ユーザの移行前に確立することをお勧めします。
 
 **次に、Experience Cloud に移動して Marketo Engage にアクセスする必要があります。 このフローを効率化する方法はありますか？**
 

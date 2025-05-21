@@ -5,7 +5,7 @@ title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '144'
 ht-degree: 100%
 
@@ -63,17 +63,17 @@ _リリース日／機能は変更される場合があります。_
    <td>予定通り</td>
   </tr>
   <tr> 
-   <td>25年8月</td>
+   <td>2025年8月</td>
    <td>2025年8月22日（PT）</td>
    <td>予定通り</td>
   </tr>
   <tr> 
-   <td>25 年 9 月</td>
-   <td>2025年9月19日</td>
+   <td>2025年9月</td>
+   <td>2025年9月19日（PT）</td>
    <td>予定通り</td>
   </tr>
   <tr> 
-   <td>25年10月</td>
+   <td>2025年10月</td>
    <td>2025年10月17日（PT）</td>
    <td>予定通り</td>
   </tr>
