@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
+source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 96%
+source-wordcount: '473'
+ht-degree: 65%
 
 ---
 
@@ -42,7 +42,47 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>任意の属性のトリガートークン</strong>：スマートキャンペーンフィールドで任意のアクティビティ属性のデータを使用できるように、トリガートークンの一覧が拡張されています。</td> 
+   <td><strong> 任意の属性のトリガートークン </strong>:Smart Campaign フィールドで任意のアクティビティ属性のデータを使用できるように、トリガートークンのリストが拡張されています。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> メールコンテンツ Personalization</strong>:Marketo Engageは、他のAEP アプリケーショントークンと同じキャメルケース構文に従うようになり、Adobe DX 製品全体で一貫したエクスペリエンスが提供されます。 すべての標準トークンと、メンバー、プログラム、マイトークンなどのMarketo Engage固有のトークンは、新しいメールDesignerで使用できます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>E メールDesigner Assetsのロールベースのアクセス制御 </strong>：ロールベースのアクセス制御（RBAC）システムに対する新しい機能強化により、新しい E メールDesignerを活用した、アセットの権限がより詳細に提供され、ユーザー管理が強化されます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>E メールDesignerで作成したメールのクローン </strong>：新しい E メールDesignerを使用して作成された既存のメールをクローンできるようになりました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>GenStudioの統合 </strong>: メール内からGenStudioを統合してパフォーマンスマーケティングを行い、マーケティング効率を向上させ、ブランドの一貫性を保ちます。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
