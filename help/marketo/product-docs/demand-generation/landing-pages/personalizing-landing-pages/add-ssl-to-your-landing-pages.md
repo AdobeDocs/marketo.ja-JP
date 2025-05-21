@@ -97,7 +97,7 @@ Marketo Engage では、デフォルトで、セキュリティで保護され�
 
 ## 注意事項 {#things-to-note}
 
-* **ドメインをMarketo Engageに DNS マッピング**:UI でドメインを追加する前に、[CNAME をMarketo提供のドメインにマッピング ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} する必要があります。
+* **ドメインをMarketo Engageに DNS マッピング**:UI でドメインを追加する前に、[CNAME をMarketo提供のドメインにマッピング ](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"} する必要があります。
 
 * **カスタム SSL**：カスタム SSL が必要な場合は、[ サポートチケット ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} を送信してください。 SSL 作成にセルフサービスチェックボックスを使用しないでください。
 
