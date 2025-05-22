@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
+source-git-commit: bc0d69105d7848e6068e552245dabbf28a69bacb
 workflow-type: tm+mt
-source-wordcount: '9265'
+source-wordcount: '9259'
 ht-degree: 99%
 
 ---
@@ -526,7 +526,6 @@ ht-degree: 99%
          + [予測オーディエンスの概要](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
          + [モデルとインサイト](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
          + [予測フィルター](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
-         + [目標のトラッキングと予測登録について](product-docs/core-marketo-concepts/predictive-audiences/understanding-goal-tracking-and-projected-registrations.md)
    + CRM 同期 {#crm-sync}
       + Microsoft Dynamics 同期 {#microsoft-dynamics}
          + [Microsoft Dynamics 同期について](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -583,7 +582,7 @@ ht-degree: 99%
             + [メールアドレスのカスタム同期フィルタールール](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md)
             + [Microsoft Dynamics 同期フィルター：結合](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md)
             + [Microsoft Dynamics 同期フィルター：適合](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md)
-            + [デフォルトのカスタムフィールドプレフィックスの設定](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
+            + [デフォルトのカスタムフィールド接頭辞の設定](product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md)
          + [アプリを Azure に登録してクライアント ID／アプリ ID を取得](product-docs/crm-sync/microsoft-dynamics-sync/register-an-app-with-azure-to-acquire-your-client-id-app-id.md)
          + [リードまたは取引先責任者の削除](product-docs/crm-sync/microsoft-dynamics-sync/deleting-a-lead-or-contact.md)
       + Salesforce 同期 {#salesforce-sync}
