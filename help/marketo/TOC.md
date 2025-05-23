@@ -6,7 +6,7 @@ feature-set: Marketo Engage
 source-git-commit: bc0d69105d7848e6068e552245dabbf28a69bacb
 workflow-type: tm+mt
 source-wordcount: '9259'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -1957,7 +1957,7 @@ ht-degree: 99%
       + 2025年 {#2025}
          + [リリースノート：2025年1月](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [リリースノート：2025年3月](release-notes/previous-releases/2025/release-notes-mar-25.md)
-         + [リリースノート：2025 年 4 月](release-notes/previous-releases/2025/release-notes-apr-25.md)
+         + [リリースノート：2025年4月](release-notes/previous-releases/2025/release-notes-apr-25.md)
       + 2024年 {#2024}
          + [リリースノート：2024年1月](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [リリースノート：2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
