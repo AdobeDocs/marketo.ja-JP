@@ -3,8 +3,8 @@ description: Demandbase - Marketo ドキュメント - 製品ドキュメント
 title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
-workflow-type: ht
+source-git-commit: 14bf3ca81a3732c2687f66ca71ac832ae3177623
+workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
 
@@ -19,6 +19,8 @@ Demandbase ユーザは、Dynamic Chat でのダイアログターゲティン�
 以下の手順は、_Demandbase アカウント_&#x200B;で実行する必要があります。
 
 1. Demandbase で、「_設定_」アイコンをクリックします。
+
+   ![](assets/demandbase-1.png)
 
 1. _統合_&#x200B;で、「**アカウントコネクタ**」を選択します。
 
@@ -42,12 +44,12 @@ Demandbase ユーザは、Dynamic Chat でのダイアログターゲティン�
 
 ダイアログや対話型フローを作成しながら、ネイティブ属性とカスタム属性に加えて、Demandbase 属性に基づいてオーディエンスのターゲットを設定します。
 
-![](assets/demandbase-1.png)
+![](assets/demandbase-2.png)
 
 条件分岐、ダイアログ、対話型フローの条件として Demandbase 属性を使用します。
 
-![](assets/demandbase-2.png)
+![](assets/demandbase-3.png)
 
 カスタムルーティングロジックを定義する際は、Demandbase 属性を使用します。
 
-![](assets/demandbase-3.png)
+![](assets/demandbase-4.png)
