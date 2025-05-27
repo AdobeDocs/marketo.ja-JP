@@ -4,7 +4,7 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 source-git-commit: bc0d69105d7848e6068e552245dabbf28a69bacb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '9259'
 ht-degree: 100%
 
