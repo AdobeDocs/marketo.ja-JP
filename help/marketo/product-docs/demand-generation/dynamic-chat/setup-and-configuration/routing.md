@@ -3,10 +3,10 @@ description: ルーティング - Marketo ドキュメント - 製品ドキュ�
 title: ルーティング
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 51%
+source-wordcount: '270'
+ht-degree: 48%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 51%
 
    ![](assets/routing-1.png)
 
-1. 「**カスタムルール**」タブをクリックします。
+1. 「**カスタムルール**」タブがデフォルトで開きます。
 
    ![](assets/routing-2.png)
 
