@@ -4,16 +4,20 @@ description: アカウントプロファイリングのランキングと調整 
 title: アカウントのプロファイリングのランキングと調整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 100%
+source-wordcount: '401'
+ht-degree: 95%
 
 ---
 
 # アカウントのプロファイリングのランキングと調整 {#account-profiling-ranking-and-tuning}
 
 アカウントプロファイリングは、理想的な顧客プロファイル（ICP）を特定し、ICP に基づきデータベース内の企業をランク付けし、ICP 指標データを重点顧客として昇格されたアカウントに追加します。
+
+>[!IMPORTANT]
+>
+>2025 年をもって、新規ユーザーはアカウントプロファイルを使用できなくなります。 既存のユーザーに対しては引き続き機能します。
 
 ## モデル結果 {#model-results}
 
