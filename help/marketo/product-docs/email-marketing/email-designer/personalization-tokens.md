@@ -4,18 +4,17 @@ product: marketo
 title: Personalizationトークン
 description: 新しいMarketo Engage メールDesignerでパーソナライゼーショントークンを使用する方法を説明します
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
+source-git-commit: c31f338d7f784258a120c90a9d5016366d5a1095
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 1%
 
 ---
 
 # Personalizationトークン {#personalization-tokens}
 
-メールDesignerは、メールパーソナライゼーショントークンに関して、従来のメールエディターとは異なるフォーマットを使用します。 この変更は、Handlebar スクリプティングとの互換性を向上させ、メール作成プロセスを合理化するために実装されました。
+メールデザイナーは、メールのパーソナライゼーショントークンに関して、従来のメールエディターとは異なる形式を使用します。 この変更は、Handlebar スクリプティングとの互換性を向上させ、メール作成プロセスを合理化するために実装されました。
 
 >[!AVAILABILITY]
 >
@@ -23,7 +22,7 @@ ht-degree: 1%
 
 ## プライマリのユースケース {#primary-use-case}
 
-この機能強化は、主に [Velocity スクリプティング ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting){target="_blank"} から Handlebar スクリプティングに移行するユーザーにメリットをもたらします。 新しいメールDesignerでは、新しいトークン形式のみをサポートしています。 更新された形式では、スペースが排除され、デフォルトのテキスト構造が改訂されて、よりスムーズで効率的なスクリプティング体験が提供されます。
+この機能強化は、主に [Velocity スクリプティング ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting){target="_blank"} から Handlebar スクリプティングに移行するユーザーにメリットをもたらします。 新しい電子メールデザイナーでは、新しいトークン形式のみをサポートしています。 更新された形式では、スペースが排除され、デフォルトのテキスト構造が改訂されて、よりスムーズで効率的なスクリプティング体験が提供されます。
 
 ## トークンエクスペリエンス {#token-experience}
 
@@ -37,7 +36,7 @@ ht-degree: 1%
 
 ### 新しい形式 {#new-format}
 
-電子メールデザイナーでは、[ キャメルケース ](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) や、トークンのアンダースコア（`lead.anonymousIP` や `member.registration_code` など）に適応する必要があります。 デフォルトテキストの形式も `{%=lead.city ?: "fallback" %}` に変更されます。
+電子メールデザイナーでは、[ キャメルケース ](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) またはトークンのアンダースコア（`lead.anonymousIP` や `member.registration_code` など）を使用する必要があります。 デフォルトテキストの形式も `{%=lead.city ?: "fallback" %}` に変更されます。
 
 ![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
 
