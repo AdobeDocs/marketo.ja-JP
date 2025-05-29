@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fddc2f24d9a66146f567c762305ab2825c2f29ae
-workflow-type: ht
-source-wordcount: '473'
-ht-degree: 100%
+source-git-commit: ff3e9c23aa731e81de3c925f96850a79cc42df56
+workflow-type: tm+mt
+source-wordcount: '533'
+ht-degree: 88%
 
 ---
 
@@ -91,6 +91,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 <br/>
 
 ## お知らせ {#announcements}
+
+* **Facebook オフラインコンバージョン統合の更新**:2025 年 5 月 29 日（PT）に、Marketo Engageの [Facebook オフラインコンバージョン ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} 統合が新しい Meta[Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} に移行されます。これは、Graph API のバージョン管理に従って Meta が [ オフラインコンバージョン API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} を廃止したためです。 詳しくは、Meta&#39;s guide to [Conversions API を使用したオフラインイベントの送信 ](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} （オフライン用の CAPI）を参照してください。
 
 * **新しい分析機能 - パブリックベータ版**：[高度な BI 分析](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"}（以前の収益エクスプローラーおよび高度な Report Builder）は、4 月中旬に現在のすべての収益サイクルエクスプローラーユーザへのロールアウトを開始します。この新しいツールには、Marketo Engage データに関する柔軟なレポートとビジュアライゼーションインターフェイスが用意されています。これにより、進行状況やパフォーマンスなどに関する詳細を表示できます。より豊富なインタラクティブ機能とビジュアライゼーション、より高速なパフォーマンス、よりシームレスで直感的なユーザエクスペリエンスを備えています。
 
