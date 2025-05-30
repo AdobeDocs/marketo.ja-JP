@@ -3,10 +3,10 @@ description: Agent Settings - Marketo ドキュメント – 製品ドキュメ�
 title: エージェント設定
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 26%
+source-wordcount: '543'
+ht-degree: 24%
 
 ---
 
@@ -95,3 +95,11 @@ Googleを使用して設定すると、Dynamic Chatに対して次の権限が�
 >[!TIP]
 >
 >右側の「**+**」記号をクリックして、同じ日の複数の時間ブロック（例：8a～12p _および_ 1p～5p）を選択できます。
+
+## エージェント プロファイルの写真
+
+エージェントは独自のプロファイル写真をアップロードできますが、その操作はDynamic Chatでは実行されません。 `account.adobe.com/profile` に移動する必要があります。 詳しくは、[ アカウントプロファイルを更新 ](https://helpx.adobe.com/jp/manage-account/using/edit-adobe-account-personal-profile.html) を参照してください。
+
+>[!NOTE]
+>
+>`experience.adobe.com` に示すプロファイル画像はサポートされて **ません**。
