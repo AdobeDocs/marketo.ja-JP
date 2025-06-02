@@ -3,26 +3,22 @@ description: Advanced BI Analytics の概要 – Marketo ドキュメント – 
 title: 高度な BI 分析の概要
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
+source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
 workflow-type: tm+mt
-source-wordcount: '996'
-ht-degree: 3%
+source-wordcount: '994'
+ht-degree: 6%
 
 ---
 
 # 高度な BI 分析の概要 {#advanced-bi-analytics-overview}
 
-Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Builder）は、Marketo Engage データに対する柔軟なレポートおよびビジュアライゼーションインターフェイスを提供し、進行、パフォーマンスなどに関する詳細を提供します。 より豊かなインタラクティブ性とビジュアライゼーション、より高速なパフォーマンス、よりシームレスで直感的なユーザーエクスペリエンスを備えています。
+Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Builder）は、Marketo Engage データに対する柔軟なレポートおよびビジュアライゼーションインターフェイスを提供し、進行、パフォーマンスなどに関する詳細を提供します。 より豊富なインタラクティブ機能とビジュアライゼーション、より高速なパフォーマンス、よりシームレスで直感的なユーザエクスペリエンスを備えています。
 
 これらの機能強化により、時間を節約し、より価値のあるインサイトを見つけ、最適化を推進し、より魅力的なデータストーリーを同僚や関係者と共有するのに役立ちます。
 
 >[!PREREQUISITES]
 >
->この機能にアクセスするには、Advanced BI Analytics アドオンを購入している必要があります。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
-
->[!NOTE]
->
->この機能がベータ版である（2025 年 6 月 1 日（PT）まで）間に、ご質問がある場合は、`adobe-marketo-advanced-bi-analytics-public-beta@adobe.com` にメールを送信してください。
+>この機能にアクセスするには、高度な BI 分析アドオンを購入する必要があります。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 ## 主な機能とメリット {#key-features-and-benefits}
 
@@ -38,7 +34,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 ## レポートの作成 {#create-a-report}
 
-1. My Marketoで、「**[!UICONTROL Advanced BI Analytics （Beta）]**」タイルをクリックします。
+1. マイMarketoで、「**[!UICONTROL 詳細 BI 分析]**」タイルをクリックします。
 
    ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
@@ -66,7 +62,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 次のビデオでは、複数ページのドリルスルーレポートのエクスペリエンスの例を確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451683/?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Advanced BI Analytics の標準レポート {#standard-reports}
 
@@ -177,11 +173,8 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 ## 注意事項 {#note}
 
-パブリックベータ版は 2025 年 6 月 1 日（PT）まで実行され、その後「売上高エクスプローラー」を使用したクラシックエクスペリエンスは恒久的に非推奨（廃止予定）になります。
+* 従来の「売上高エクスプローラー」エクスペリエンスは、2025 年 6 月 10 日（PT）に完全に廃止されます。 それまでの間、両方のエクスペリエンスでレポートへのアクセス、作成、更新、削除を行うことができます。
 
-_パブリックベータ版の場合：_
-
-* どちらのエクスペリエンスでも、レポートへのアクセス、作成、更新、削除が可能です。
 * カスタムレポートは、以下の [ 新しいエクスペリエンスの学習 ](#learning-the-new-experience) の節で説明されている主な動作の変更を使用して、従来のエクスペリエンスから新しいエクスペリエンスに複製されます。
 
   >[!IMPORTANT]
@@ -194,9 +187,13 @@ _パブリックベータ版の場合：_
      >
      >新しいエクスペリエンスのダッシュボードは、単一ページ上のレポートのコレクションです。 新しいエクスペリエンスでのダッシュボードの主な価値は、様々なレポート領域にわたって分析インサイトを提示できるようにすることです。
 
-* クラシックエクスペリエンスのメール購読は、新しいエクスペリエンスに複製されます。 クラシックエクスペリエンスのメール購読は、2025 年 6 月 1 日にクラシックエクスペリエンスが廃止されるまで、引き続き機能します。
+* クラシックエクスペリエンスのメール購読は、新しいエクスペリエンスに複製されます。 クラシックエクスペリエンスのメール購読は、2025 年 6 月 10 日（PT）にクラシックエクスペリエンスが廃止されるまで、引き続き機能します。
 
-* 既存の Revenue Explorer ユーザーは、新しい Advanced BI Analytics （Beta）エクスペリエンスに自動的にアクセスできます。
+* 既存の収益エクスプローラーのユーザーは、新しい Advanced BI Analytics エクスペリエンスに自動的にアクセスできます。
+
+* Advanced BI Analytics では、最大 700 個のレポートを作成できます。
+
+* 特定のビジュアライゼーションでは、クエリあたり 100 万行という制限があります。 クエリがこの値を超えると、次のエラーが表示されます：`The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`。 これを修正するには、日付範囲を減らしたり、レポートのフィルターを調整してクエリ結果の行数を減らしたりします。
 
 ## 新しいエクスペリエンスの学習 {#learning-the-new-experience}
 
@@ -217,8 +214,6 @@ _パブリックベータ版の場合：_
 * メール購読には、レポートのHTMLではなくPDFの書き出しが含まれます。 新しい電子メールサブスクリプションには、レポート定義は含まれません。
 
 * レポートのディープリンクは現在サポートされていません。
-
-* レポートフォルダーのエクスペリエンスは現在使用できないため、先行入力検索付きのフラットリストに一時的に置き換えられました。 レプリケートされたレポートの名前には、フォルダーパスが保持されます（例：`/folder1/folder2/report`）。
 
 * PDFの書き出しは、従来のエクスペリエンスでは非同期であるのに対して、新しいエクスペリエンスでは同期です。
 
