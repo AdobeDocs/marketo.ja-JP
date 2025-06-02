@@ -4,10 +4,10 @@ description: 登録コードを使用した Outlook 用 Marketo メールアド�
 title: 登録コードを使用した Outlook 用 Marketo メールアドインのインストール
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
 workflow-type: tm+mt
-source-wordcount: '532'
-ht-degree: 88%
+source-wordcount: '551'
+ht-degree: 81%
 
 ---
 
@@ -31,32 +31,80 @@ ht-degree: 88%
 
 ## インストーラーのダウンロード {#download-installer}
 
-1. [Microsoft Outlook のバージョンを確認する ](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. [Microsoft Outlook のバージョン](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}を特定します。
 
-1. リンクをクリックして、お使いのバージョンの Microsoft Outlook に適したインストーラーをダウンロードします。
+1. 次の表で、リンクをクリックして、お使いのMicrosoft Outlook のバージョンに適した.ZIP ファイルをダウンロードします。
+
+1. ファイルを解凍して必要な.MSI ファイルにアクセスし、インストールを続行します。
 
    >[!NOTE]
    >
    >現時点では、以下のリンクは、Microsoft Edge または Chrome で右クリックした場合にのみ機能します。ご迷惑をおかけして申し訳ありません。
 
-   | Outlook バージョン | 32 ビット Outlook | 64 ビット Outlook |
-   |---|---|---|
-   | Outlook 2000 | サポート対象外 | なし |
-   | Outlook 2003 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | なし |
-   | Outlook 2007 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | なし |
-   | Outlook 2010 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2013 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2016 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook 2019 | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
-   | Outlook for Mac | サポート対象外 | サポート対象外 |
-   | Outlook web アプリケーション | サポート対象外 | サポート対象外 |
-   | Office 365* | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup32.msi) | [ダウンロード](https://munchkin.marketo.net/MarketoAddInSetup64.msi) |
+<table><thead>
+  <tr>
+    <th>Outlook バージョン</th>
+    <th>32 ビット Outlook</th>
+    <th>64 ビット Outlook</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Outlook 2000</td>
+    <td>サポート対象外</td>
+    <td>なし</td>
+  </tr>
+  <tr>
+    <td>Outlook 2003</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">ダウンロード</a></td>
+    <td>なし</td>
+  </tr>
+  <tr>
+    <td>Outlook 2007</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">ダウンロード</a></td>
+    <td>なし</td>
+  </tr>
+  <tr>
+    <td>Outlook 2010</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">ダウンロード</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">ダウンロード</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2013</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">ダウンロード</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">ダウンロード</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2016</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">ダウンロード</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">ダウンロード</a></td>
+  </tr>
+  <tr>
+    <td>Outlook 2019</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">ダウンロード</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">ダウンロード</a></td>
+  </tr>
+  <tr>
+    <td>Outlook for Mac</td>
+    <td>サポート対象外</td>
+    <td>サポート対象外</td>
+  </tr>
+  <tr>
+    <td>Outlook web アプリケーション</td>
+    <td>サポート対象外</td>
+    <td>サポート対象外</td>
+  </tr>
+  <tr>
+    <td>Office 365*</td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.zip">ダウンロード</a></td>
+    <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.zip">ダウンロード</a></td>
+  </tr>
+</tbody></table>
 
-   *Office 365 バージョン：Windows クライアントのみ（Windows 10、Enterprise または Pro）。
+*Office 365 バージョン：Windows クライアントのみ（Windows 10、Enterprise または Pro）。
 
-   >[!IMPORTANT]
-   >
-   >Microsoftは、[Outlook for Windows の新しいバージョン ](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} をリリースしました。 この新しいバージョンは、既存の MSI Outlook プラグインをサポートしていません。 MSI Outlook プラグインは、Outlook のクラシックバージョンを実行している Windows デスクトップで引き続き機能します。 新しい組織用 Outlook for Windows の詳細については、[ ここをクリック ](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"} してください。
+>[!IMPORTANT]
+>
+>Microsoftは、[Outlook for Windows の新しいバージョン ](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} をリリースしました。 この新しいバージョンは、既存の MSI Outlook プラグインをサポートしていません。 MSI Outlook プラグインは、Outlook のクラシックバージョンを実行している Windows デスクトップで引き続き機能します。 新しい組織用 Outlook for Windows の詳細については、[ ここをクリック ](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"} してください。
 
 ## 登録コードをコピーする {#copy-your-registration-code}
 
