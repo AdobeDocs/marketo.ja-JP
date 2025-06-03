@@ -5,7 +5,7 @@ title: Personalizationトークン
 description: 新しいMarketo Engage メールDesignerでパーソナライゼーショントークンを使用する方法を説明します
 level: Beginner, Intermediate
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
-source-git-commit: c31f338d7f784258a120c90a9d5016366d5a1095
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 1%
@@ -32,13 +32,13 @@ ht-degree: 1%
 
 従来のメールエディターでは、`lead.Anonymous IP` や `member.registration code` などのスペースを使用してトークンを追加できます。 デフォルトのテキストの形式は `{{lead.City:default=fallback}}` でした。
 
-![](assets/personalization-tokens-1.png){width="500" zoomable="yes"}
+![](assets/personalization-tokens-1.png){width="800" zoomable="yes"}
 
 ### 新しい形式 {#new-format}
 
 電子メールデザイナーでは、[ キャメルケース ](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) またはトークンのアンダースコア（`lead.anonymousIP` や `member.registration_code` など）を使用する必要があります。 デフォルトテキストの形式も `{%=lead.city ?: "fallback" %}` に変更されます。
 
-![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
+![](assets/personalization-tokens-2.png){width="800" zoomable="yes"}
 
 ## 注意事項 {#things-to-note}
 

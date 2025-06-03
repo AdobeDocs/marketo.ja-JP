@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: f3bc58c0d65e8110c5366269fdb4abf817370aee
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
-source-wordcount: '9264'
+source-wordcount: '9269'
 ht-degree: 99%
 
 ---
@@ -1034,6 +1034,7 @@ ht-degree: 99%
          + [Adobe Express を使用した画像の編集](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [フラグメント](product-docs/email-marketing/email-designer/fragments.md)
          + [カスタマイズ可能なフラグメント](product-docs/email-marketing/email-designer/customizable-fragments.md)
+         + [Marketo EngageのGenStudio統合](product-docs/email-marketing/email-designer/genstudio.md)
          + [コンテンツのロック](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI アシスタント](product-docs/email-marketing/email-designer/ai-assistant.md)
       + メールプログラム {#email-programs}
