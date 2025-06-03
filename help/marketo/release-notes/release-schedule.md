@@ -4,9 +4,9 @@ description: リリーススケジュール - Marketo ドキュメント - 製�
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: f236f2cf73637ee1a0ee6062c1ecbf82f0e02130
-workflow-type: ht
-source-wordcount: '143'
+source-git-commit: c06b4b0c648d1f464994926dd17cbc412823a37c
+workflow-type: tm+mt
+source-wordcount: '138'
 ht-degree: 100%
 
 ---
@@ -53,13 +53,8 @@ _リリース日／機能は変更される場合があります。_
    <td>進行中</td>
   </tr>
   <tr> 
-   <td>2025年6月</td>
-   <td>2025年6月27日（PT）</td>
-   <td>予定通り</td>
-  </tr>
-  <tr> 
    <td>2025年7月</td>
-   <td>2025年7月25日（PT）</td>
+   <td>2025年7月11日（PT）</td>
    <td>予定通り</td>
   </tr>
   <tr> 
