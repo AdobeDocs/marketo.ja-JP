@@ -4,10 +4,10 @@ description: Microsoft Dynamics 2015 オンプレミス向け Marketo インス�
 title: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 3 / 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 92%
+source-wordcount: '405'
+ht-degree: 85%
 
 ---
 
@@ -102,8 +102,6 @@ ht-degree: 92%
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. 最初の同期には数時間かかる場合があります。完了後、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
 
    ![](assets/image2015-3-16-9-59-51.png)
-
-これで完了です。

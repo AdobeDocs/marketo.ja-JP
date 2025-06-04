@@ -4,10 +4,10 @@ description: 手順 3 / 3 - Microsoft Dynamics と Marketo（2011 オンプレ�
 title: 手順 3 / 3 - Microsoft Dynamics と Marketo（2011 オンプレミス）の接続
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 89%
+source-wordcount: '383'
+ht-degree: 82%
 
 ---
 
@@ -101,8 +101,6 @@ ht-degree: 89%
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. 最初の同期には数時間かかる場合があります。完了後、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
-
-   これで完了です。

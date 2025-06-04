@@ -4,10 +4,10 @@ description: 手順 3 / 3 - サーバー間接続を使用した Marketo ソリ�
 title: 手順 3 / 3 - サーバー間接続を使用した Marketo ソリューションの接続
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 82%
+source-wordcount: '448'
+ht-degree: 80%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 82%
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. 「**[!DNL Microsoft]**」を選択します。
+1. **[!DNL Microsoft]** を選択します。
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
@@ -60,7 +60,7 @@ ht-degree: 82%
 
    >[!NOTE]
    >
-   >Marketoのユーザー名は、CRM のアプリケーションユーザーの [ メールアドレス ](https://docs.microsoft.com/ja-jp/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"} と一致する必要があります。 形式は、`user@domain.com` または DOMAIN\user です。
+   >Marketo のユーザ名は CRM のアプリケーションユーザの[メールアドレス](https://docs.microsoft.com/ja-jp/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"}と一致する必要があります。形式は、`user@domain.com` または DOMAIN\user です。
 
 ## 同期するフィールドの選択 {#select-fields-to-sync}
 
@@ -106,8 +106,6 @@ ht-degree: 82%
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. 初回の同期には数時間かかる場合があります。完了したら、電子メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
-
-できましたね。

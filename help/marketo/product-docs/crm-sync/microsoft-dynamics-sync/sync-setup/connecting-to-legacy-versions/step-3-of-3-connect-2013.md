@@ -4,16 +4,16 @@ description: 手順 3 / 3 - Marketo と Dynamics（2013 オンプレミス）の
 title: 手順 3 / 3 - Marketo と Dynamics（2013 オンプレミス）の接続
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '413'
-ht-degree: 90%
+source-wordcount: '394'
+ht-degree: 82%
 
 ---
 
 # 手順 3 / 3：Marketo と Dynamics（2013 オンプレミス）の接続 {#step-of-connect-marketo-and-dynamics-on-premises}
 
-これまで、ソリューションをインストールし、同期ユーザーを設定しました。次に、Marketo Engageとダイナミクスを結び付ける必要があります。
+これまで、ソリューションをインストールし、同期ユーザーを設定しました。次に、Marketo Engageと Dynamics を接続する必要があります。
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ ht-degree: 90%
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. 「**[!DNL Microsoft]**」を選択します。
+1. **[!DNL Microsoft]** を選択します。
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
@@ -101,11 +101,10 @@ ht-degree: 90%
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. 最初の同期には数時間かかる場合があります。完了後、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-できましたね。Marketo と Microsoft Dynamics 間の双方向同期の機能を解放しました。Marketo Sales Insight を購入済みの場合は、以下を参照してください。
 
 >[!MORELIKETHIS]
 >

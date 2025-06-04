@@ -3,10 +3,10 @@ description: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Mar
 title: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 3 / 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 91%
+source-wordcount: '414'
+ht-degree: 84%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 91%
 
    ![](assets/image2015-3-16-9-47-34.png)
 
-1. 「**[!DNL Microsoft]**」を選択します。
+1. **[!DNL Microsoft]** を選択します。
 
    ![](assets/image2015-3-16-9-50-6.png)
 
@@ -101,8 +101,6 @@ ht-degree: 91%
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. 最初の同期には数時間かかる場合があります。完了後、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
 
    ![](assets/image2015-3-16-9-59-51.png)
-
-これで完了です。
