@@ -5,7 +5,7 @@ title: Marketo Engage 用語集
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
 source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '4065'
 ht-degree: 100%
 
