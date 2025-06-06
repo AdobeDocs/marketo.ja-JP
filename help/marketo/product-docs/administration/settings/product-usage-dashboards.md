@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
+source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '610'
 ht-degree: 1%
 
 ---
@@ -84,7 +84,3 @@ _データ値を変更_ は、最も一般的なアクティビティタイプ�
 キャンペーンで最も多くのアクティビティを生成しているグループ。 これにより、必要以上に多くのアクティビティを作成する特に「ノイズの多い」キャンペーンがあるかどうかを確認できます。 廃止する必要があるキャンペーンや、意図したよりも多くの作業を行っているキャンペーンについて簡単に説明します。
 
 ![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
-
-### Source（近日公開） {#by-source}
-
-アクティビティのソース別にグループ化（_CRM 同期_、_キャンペーンフローアクション_、_API アップロード_、_ランディングページのフォーム入力_ など）。 これにより、ほとんどのアクティビティがマーケティングアクション、CRM 同期、または人物/リード自身によって作成されているかどうかを理解できます。
