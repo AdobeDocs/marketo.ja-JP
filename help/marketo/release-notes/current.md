@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ff3e9c23aa731e81de3c925f96850a79cc42df56
+source-git-commit: 633a29897a2683ba7e325c68c41c66ee14a8f806
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 88%
+source-wordcount: '543'
+ht-degree: 94%
 
 ---
 
@@ -63,8 +63,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr> 
    <td><strong>メールデザイナーアセットのロールベースのアクセス制御</strong>：ロールベースのアクセス制御（RBAC）システムへの新しい機能強化により、新しいメールデザイナーで活用されるアセットに対して、より詳細な権限と改善されたユーザー管理が提供されます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">新しい電子メールDesignerに対するきめ細かい権限（ブログ投稿）</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -82,7 +82,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>GenStudio の統合</strong>：メール内からパフォーマンスマーケティングを行うために GenStudio を統合し、マーケティングの効率を向上させ、ブランドの一貫性を維持します。</td> 
+   <td><strong> 電子メールDesignerでのGenStudioの統合 </strong>: GenStudioを電子メール内から統合して、マーケティング効果を高め、ブランドの一貫性を保ちます。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -92,7 +92,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **Facebook オフラインコンバージョン統合の更新**:2025 年 5 月 29 日（PT）に、Marketo Engageの [Facebook オフラインコンバージョン ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} 統合が新しい Meta[Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} に移行されます。これは、Graph API のバージョン管理に従って Meta が [ オフラインコンバージョン API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} を廃止したためです。 詳しくは、Meta&#39;s guide to [Conversions API を使用したオフラインイベントの送信 ](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} （オフライン用の CAPI）を参照してください。
+* **Facebook オフラインコンバージョン統合の更新**：2025年5月29日（PT）に、Marketo Engage の [Facebook オフラインコンバージョン](https://experienceleague.adobe.com/jp/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}統合が新しい Meta [Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} に移行されます。これは、Graph API のバージョン管理に従って Meta が [Offline Conversions API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} を廃止したためです。詳しくは、Meta の [Conversions API を使用したオフラインイベントの送信](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"}（オフライン用の CAPI）ガイドを参照してください。
 
 * **新しい分析機能 - パブリックベータ版**：[高度な BI 分析](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"}（以前の収益エクスプローラーおよび高度な Report Builder）は、4 月中旬に現在のすべての収益サイクルエクスプローラーユーザへのロールアウトを開始します。この新しいツールには、Marketo Engage データに関する柔軟なレポートとビジュアライゼーションインターフェイスが用意されています。これにより、進行状況やパフォーマンスなどに関する詳細を表示できます。より豊富なインタラクティブ機能とビジュアライゼーション、より高速なパフォーマンス、よりシームレスで直感的なユーザエクスペリエンスを備えています。
 
