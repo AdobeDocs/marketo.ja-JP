@@ -4,7 +4,7 @@ title: Demandbase
 feature: Dynamic Chat
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
 source-git-commit: 14bf3ca81a3732c2687f66ca71ac832ae3177623
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
 ht-degree: 100%
 

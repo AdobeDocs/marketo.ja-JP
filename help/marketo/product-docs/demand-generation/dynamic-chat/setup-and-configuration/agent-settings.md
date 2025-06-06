@@ -1,28 +1,28 @@
 ---
-description: Agent Settings - Marketo ドキュメント – 製品ドキュメント
+description: エージェント設定 - Marketo ドキュメント - 製品ドキュメント
 title: エージェント設定
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
 source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '543'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
 # エージェント設定 {#agent-settings}
 
-カレンダーを設定して、会議/ライブチャットの利用を設定します。
+カレンダーを設定して、会議／ライブチャットの可用性を設定します。
 
 >[!PREREQUISITES]
 >
->エージェントに適切な [ 権限 ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} が付与されていることを確認します。
+>エージェントに適切な[権限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}が付与されていることを確認します。
 
 ![](assets/agent-settings-1.png)
 
-## カレンダーの接続 {#connect-calendar}
+## カレンダーを接続 {#connect-calendar}
 
-[ 予定表の構成 ] タブで、チャットボットの予定スケジュールで使用する Outlook または Gmail の予定表を接続します。
+「カレンダー設定」タブで、Outlook または Gmail のカレンダーを接続して、チャットボットでの予定スケジュール設定に使用します。
 
 ![](assets/agent-settings-2.png)
 
@@ -42,24 +42,24 @@ ht-degree: 24%
 
 ### 権限 {#permissions}
 
-Outlook でを設定すると、Dynamic Chatに対して次の権限が付与されます。
+Outlook で設定すると、Dynamic Chat に対して次の権限が付与されます。
 
-* カレンダーへのフルアクセス
-* ログインしてプロファイルを読む
+* カレンダーへの完全なアクセス
+* サインインしてプロファイルを読む
 * アクセス権を付与したデータへのアクセスを維持する
 * メールボックスの設定を読み取る
 
-Googleを使用して設定すると、Dynamic Chatに対して次の権限が付与されます。
+Google で設定すると、Dynamic Chat に対して次の権限が付与されます。
 
-* カレンダーを作成、変更または削除します
-* 個々のカレンダーイベントの更新
-* イベントを表示できるユーザーなど、設定を変更します
-* カレンダーを共有するユーザーを変更する
-* 名前、メールアドレス、言語設定、プロフィール画像へのアクセス
+* カレンダーを作成、変更または削除する
+* 個々のカレンダーイベントを更新する
+* イベントを表示できるユーザなど、設定を変更する
+* カレンダーを共有するユーザを変更する
+* 名前、メールアドレス、言語設定、プロファイル画像へのアクセス
 
 ## 会議予約の空き時間 {#meeting-booking-availability}
 
-会議の予約を受け取るためのタイムゾーンおよび時刻/曜日の空き時間を設定します。
+会議予約を受け取るためのタイムゾーンおよび時刻／曜日の空き時間を設定します。
 
 ![](assets/agent-settings-4.png)
 
@@ -67,39 +67,39 @@ Googleを使用して設定すると、Dynamic Chatに対して次の権限が�
  <tbody> 
   <tr> 
    <td><b>ミーティング期間</b></td>
-   <td>訪問者が使用可能な会議スロットに表示される時間の長さを決定します。</td>
+   <td>訪問者に表示される、空いている会議時間枠の長さを決定します。</td>
   </tr> 
   <tr> 
    <td><b>ミーティング間のバッファ時間</b></td>
-   <td>会議後にバッファーとして設定した時間。 30 分に設定すると、予定表で予定されている会議の終了から 30 分後まで、誰も会議を予約できません。</td>
+   <td>会議後のバッファーとして設定した時間。30 分に設定すると、カレンダーで予定されている会議の終了から 30 分後まで、誰も会議を予約できません。</td>
   </tr>
  </tbody> 
 </table>
 
 >[!TIP]
 >
->右側の「**+**」記号をクリックして、同じ日の複数の時間ブロック（例：8a～12p _および_ 1p～5p）を選択できます。
+>右側の「**+**」記号をクリックして、同じ日の複数の時間ブロック（例：午前 8 時から正午&#x200B;_および_&#x200B;午後 1 時から午後 5 時）を選択できます。
 
-## ライブチャットの利用 {#live-chat-availability}
+## ライブチャットの可用性 {#live-chat-availability}
 
-タイムゾーンとライブチャットを受信できる時刻/曜日を設定します。
+ライブチャットを受け取るためのタイムゾーンおよび時刻／曜日の空き時間を設定します。
 
 ![](assets/agent-settings-5.png)
 
-アプリにログインしている場合は、受信チャットのアプリ内通知が届きます。 ログインしていない場合は、ブラウザー通知が表示されます（既に [ 設定 ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"} している場合）。
+アプリにログインしている場合は、受信チャットのアプリ内通知が届きます。ログインしていない場合は、ブラウザー通知が表示されます（既に[設定](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}している場合）。
 
 >[!IMPORTANT]
 >
->エージェントインボックスの [ 利用可能 ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 切替スイッチ **は、「ライブチャットの利用可能」タブで入力した** を上書きします。 したがって、1p～5p から利用可能とスケジュールされていても、3p で素早く休憩する必要がある場合は、エージェント設定を変更する必要はありません。 可用性の切り替えステータスは、手動で変更するか、可用性の次のブロックに達するまで保持されます。
+>エージェントインボックスの[可用性切替スイッチ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}は、「ライブチャットの可用性」タブに入力されたことを&#x200B;**上書き**&#x200B;します。したがって、午後 1 時から午後 5 時まで空いているとカレンダーに表示されていても、午後 3 時に少し休憩を取る必要がある場合は、エージェント設定を変更する必要はありません。可用性切替スイッチのステータスは、手動で変更するか、空き時間の次のブロックに達するまで保持されます。
 
 >[!TIP]
 >
->右側の「**+**」記号をクリックして、同じ日の複数の時間ブロック（例：8a～12p _および_ 1p～5p）を選択できます。
+>右側の「**+**」記号をクリックして、同じ日の複数の時間ブロック（例：午前 8 時から正午&#x200B;_および_&#x200B;午後 1 時から午後 5 時）を選択できます。
 
-## エージェント プロファイルの写真
+## エージェントプロファイル写真
 
-エージェントは独自のプロファイル写真をアップロードできますが、その操作はDynamic Chatでは実行されません。 `account.adobe.com/profile` に移動する必要があります。 詳しくは、[ アカウントプロファイルを更新 ](https://helpx.adobe.com/jp/manage-account/using/edit-adobe-account-personal-profile.html) を参照してください。
+エージェントは自分のプロファイル写真をアップロードできますが、そのアクションは Dynamic Chat では実行されません。`account.adobe.com/profile` に移動する必要があります。詳細情報はこちら：[アカウントプロファイルの更新](https://helpx.adobe.com/jp/manage-account/using/edit-adobe-account-personal-profile.html)。
 
 >[!NOTE]
 >
->`experience.adobe.com` に示すプロファイル画像はサポートされて **ません**。
+>`experience.adobe.com` に表示されるプロファイル画像はサポートされて&#x200B;**いません**。

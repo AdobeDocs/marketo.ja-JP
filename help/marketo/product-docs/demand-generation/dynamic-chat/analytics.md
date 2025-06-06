@@ -4,9 +4,9 @@ title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
 source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '259'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->Dynamic ChatからのデータがMarketo Engage インスタンスに反映されるまで、最大 24 時間かかる場合があります。
+>Dynamic Chat からのデータが Marketo Engage インスタンスに反映されるまで、最長で 24 時間かかる場合があります。
 
 以下の各ダッシュボードにアクセスする **Analytics** 左側のナビゲーションで
 
