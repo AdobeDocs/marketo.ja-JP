@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
+source-git-commit: 8a4f0015f99e62127f8b690263fb07de6a0a6e6f
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 1%
@@ -38,8 +38,6 @@ Marketo Engage製品使用状況ダッシュボードを使用すると、特定
 >
 >特定の週のアクティビティタイプの数を表示するには、目的の週にポインタを合わせると、数が表示されます。
 
-![](assets/product-usage-dashboards-3.png){width="800" zoomable="yes"}
-
 #### よくある質問 {#faq}
 
 **カウントされるアクティビティタイプはどれですか？**
@@ -70,17 +68,10 @@ Marketo Engage製品使用状況ダッシュボードを使用すると、特定
 
 過去 7 日間に最も一般的なアクティビティタイプでアクティビティをグループ化します。 これには、_データ値を変更_、_リストに追加_、_メールを送信_ などのカテゴリが含まれます。 これにより、Marketo Engage アカウントで最も頻繁に発生しているアクティビティのタイプを確認できます。
 
-![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
-
-
 ### データ値変更属性別 {#by-change-data-value-attribute}
 
 _データ値を変更_ は、最も一般的なアクティビティタイプです。 人物/ リードレコードに関する情報が更新されたタイミングを示します。 ここでは、最も頻繁に変更されるフィールドでグループ化します。これにより、プラットフォームの使用を最適化する機会がある場合など、マーケティング業務に役立つ情報を判断できます。
 
-![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
-
 ### キャンペーンごと {#by-campaign}
 
 キャンペーンで最も多くのアクティビティを生成しているグループ。 これにより、必要以上に多くのアクティビティを作成する特に「ノイズの多い」キャンペーンがあるかどうかを確認できます。 廃止する必要があるキャンペーンや、意図したよりも多くの作業を行っているキャンペーンについて簡単に説明します。
-
-![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
