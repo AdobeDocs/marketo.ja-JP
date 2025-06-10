@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 5bd67c4692ed6a383597947fa40d83947f4ca9ff
+source-git-commit: 6da797bc91de018e789f1e5980523a02e38eba30
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 95%
+source-wordcount: '517'
+ht-degree: 93%
 
 ---
 
@@ -32,29 +32,9 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr> 
-   <td><strong>メールデザイナーのテンプレートの互換性</strong>：従来のメールエディターのメールテンプレートは、新しい<a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">メールデザイナー</a>と互換性を持つようになりました。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>任意の属性のトリガートークン</strong>：スマートキャンペーンフィールドで任意のアクティビティ属性のデータを使用できるように、トリガートークンの一覧が拡張されています。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
    <td><strong>メールコンテンツのパーソナライゼーション</strong>：Marketo Engage は、他の AEP アプリケーショントークンと同じキャメルケース構文に従うようになったので、Adobe DX 製品全体で一貫性のあるエクスペリエンスが提供されます。すべての標準トークンと、メンバー、プログラム、マイトークンなどの Marketo Engage 固有のトークンが、新しいメールデザイナーで使用できます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md">パーソナライゼーショントークン</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -63,8 +43,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr> 
    <td><strong>メールデザイナーアセットのロールベースのアクセス制御</strong>：ロールベースのアクセス制御（RBAC）システムへの新しい機能強化により、新しいメールデザイナーで活用されるアセットに対して、より詳細な権限と改善されたユーザー管理が提供されます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">新しい電子メールDesignerに対するきめ細かい権限（ブログ投稿）</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -83,6 +63,16 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr> 
    <td><strong> 電子メールDesignerでのGenStudioの統合 </strong>: GenStudioを電子メール内から統合して、マーケティング効果を高め、ブランドの一貫性を保ちます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>任意の属性のトリガートークン</strong>：スマートキャンペーンフィールドで任意のアクティビティ属性のデータを使用できるように、トリガートークンの一覧が拡張されています。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
