@@ -5,9 +5,9 @@ title: 手順 3 / 3 - Microsoft Dynamics と Marketo（2011 オンプレミス�
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
 source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '383'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -34,19 +34,19 @@ ht-degree: 82%
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. 「**[!DNL Microsoft]**」をクリックします。
+1. **[!DNL Microsoft]** をクリックします。
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. **[!UICONTROL 資格情報を入力]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 資格情報を入力]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、資格情報が正しいことを確認してください。誤った資格情報が保存された場合は、新しいMarketo サブスクリプションを取得する必要があります。
+   >送信後に後続のスキーマの変更を元に戻すことができないので、資格情報が正しいことを確認してください。間違った資格情報を保存した場合は、新しい Marketo サブスクリプションを取得する必要があります。
 
-1. **[!UICONTROL ユーザー名]**、**[!UICONTROL パスワード]** および CRM **[!UICONTROL URL]** を入力し、「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL ユーザ名]**」、「**[!UICONTROL パスワード]**」と CRM の「**[!UICONTROL URL]**」を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-4-2-14-3a50-3a7.png)
 
@@ -59,7 +59,7 @@ ht-degree: 82%
 
 同期するフィールドを選択する必要があります。
 
-1. **[!UICONTROL 同期するフィールドを選択]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 同期するフィールドを選択]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
@@ -89,7 +89,7 @@ ht-degree: 82%
 
 ## 同期を有効にする {#enable-sync}
 
-1. **[!UICONTROL 同期を有効にする]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 同期の有効化]**&#x200B;で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-52-2b.png)
 
@@ -101,6 +101,6 @@ ht-degree: 82%
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。完了すると、メール通知が届きます。
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)

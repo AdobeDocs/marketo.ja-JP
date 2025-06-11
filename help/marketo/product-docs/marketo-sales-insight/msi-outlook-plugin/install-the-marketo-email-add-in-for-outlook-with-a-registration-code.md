@@ -5,9 +5,9 @@ title: 登録コードを使用した Outlook 用 Marketo メールアドイン�
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
 source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '551'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -33,9 +33,9 @@ ht-degree: 81%
 
 1. [Microsoft Outlook のバージョン](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}を特定します。
 
-1. 次の表で、リンクをクリックして、お使いのMicrosoft Outlook のバージョンに適した.ZIP ファイルをダウンロードします。
+1. 以下の表で、リンクをクリックして、お使いの Microsoft Outlook のバージョンに適した .ZIP ファイルをダウンロードします。
 
-1. ファイルを解凍して必要な.MSI ファイルにアクセスし、インストールを続行します。
+1. ファイルを解凍して必要な .MSI ファイルにアクセスし、インストールを続行します。
 
    >[!NOTE]
    >
@@ -104,7 +104,7 @@ ht-degree: 81%
 
 >[!IMPORTANT]
 >
->Microsoftは、[Outlook for Windows の新しいバージョン ](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"} をリリースしました。 この新しいバージョンは、既存の MSI Outlook プラグインをサポートしていません。 MSI Outlook プラグインは、Outlook のクラシックバージョンを実行している Windows デスクトップで引き続き機能します。 新しい組織用 Outlook for Windows の詳細については、[ ここをクリック ](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"} してください。
+>Microsoft は、[Outlook for Windows の新しいバージョン ](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}をリリースしました。この新しいバージョンは、既存の MSI Outlook プラグインをサポートしていません。MSI Outlook プラグインは、Outlook のクラシックバージョンを実行している Windows デスクトップで引き続き機能します。組織向けの新しい Outlook for Windows の詳細については、[こちらをクリック](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}してください。
 
 ## 登録コードをコピーする {#copy-your-registration-code}
 

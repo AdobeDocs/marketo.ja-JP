@@ -5,7 +5,7 @@ title: ランディングページへの SSL の追加
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
 source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '765'
 ht-degree: 100%
 

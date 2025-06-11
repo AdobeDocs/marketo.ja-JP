@@ -5,15 +5,15 @@ title: 手順 3 / 3 - Marketo と Dynamics（2013 オンプレミス）の接続
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
 source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # 手順 3 / 3：Marketo と Dynamics（2013 オンプレミス）の接続 {#step-of-connect-marketo-and-dynamics-on-premises}
 
-これまで、ソリューションをインストールし、同期ユーザーを設定しました。次に、Marketo Engageと Dynamics を接続する必要があります。
+これまで、ソリューションをインストールし、同期ユーザーを設定しました。次に、Marketo Engage と Dynamics を接続する必要があります。
 
 >[!PREREQUISITES]
 >
@@ -38,13 +38,13 @@ ht-degree: 82%
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. **[!UICONTROL 資格情報を入力]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 資格情報を入力]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、資格情報が正しいことを確認してください。誤った資格情報が保存された場合は、新しいMarketo サブスクリプションを取得する必要があります。
+   >送信後に後続のスキーマの変更を元に戻すことができないので、資格情報が正しいことを確認してください。間違った資格情報を保存した場合は、新しい Marketo サブスクリプションを取得する必要があります。
 
 1. 「**[!UICONTROL ユーザー名]**」、「**[!UICONTROL パスワード]**」と Microsoft Dynamics の「**[!UICONTROL URL]**」を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
@@ -59,7 +59,7 @@ ht-degree: 82%
 
 同期するフィールドを選択する必要があります。
 
-1. **[!UICONTROL 同期するフィールドを選択]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 同期するフィールドを選択]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -89,7 +89,7 @@ ht-degree: 82%
 
 ## 同期を有効にする {#enable-sync}
 
-1. **[!UICONTROL 同期を有効にする]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 同期の有効化]**&#x200B;で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -101,11 +101,11 @@ ht-degree: 82%
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。完了すると、メール通知が届きます。
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
 
 >[!MORELIKETHIS]
 >
->[Marketo Sales Insight の Microsoft Dynamics 2013 へのインストールと設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md){target="_blank"}
+>[Marketo セールスインサイトの Microsoft Dynamics 2013 へのインストールと設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md){target="_blank"}

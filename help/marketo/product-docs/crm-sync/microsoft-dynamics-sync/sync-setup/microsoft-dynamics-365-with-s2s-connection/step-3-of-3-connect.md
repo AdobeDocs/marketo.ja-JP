@@ -5,9 +5,9 @@ title: 手順 3 / 3 - サーバー間接続を使用した Marketo ソリュー�
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
 source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '448'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 80%
 
 >[!IMPORTANT]
 >
->基本認証から OAuth 認証にアップグレードする場合は、[Marketo サポートに連絡して ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} 追加のパラメーターの更新をサポートしてもらう必要があります。 この機能を有効にすると、新しい資格情報が入力されて同期が再度有効にされるまで、同期が一時的に停止されます。この機能は、古い認証モードに戻る際には（2022年4月まで）無効にすることができます。
+>基本認証から OAuth にアップグレードする場合は、追加のパラメーターのアップデートについて [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。この機能を有効にすると、新しい資格情報が入力されて同期が再度有効にされるまで、同期が一時的に停止されます。この機能は、古い認証モードに戻る際には（2022年4月まで）無効にすることができます。
 
 >[!NOTE]
 >
@@ -46,13 +46,13 @@ ht-degree: 80%
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. **[!UICONTROL 資格情報を入力]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 資格情報を入力]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。間違った組織 URL を使用する場合は、新しいMarketo サブスクリプションを取得する必要があります。 URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
+   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。誤った組織 URL が使用された場合、新しい Marketo サブスクリプションを取得する必要があります。URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
 
 1. Dynamics 同期ユーザ情報を入力し、完了したら「**[!UICONTROL 保存]**」をクリックします。
 
@@ -64,7 +64,7 @@ ht-degree: 80%
 
 ## 同期するフィールドの選択 {#select-fields-to-sync}
 
-1. **[!UICONTROL 同期するフィールドを選択]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 同期するフィールドを選択]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -94,7 +94,7 @@ ht-degree: 80%
 
 ## 同期を有効にする {#enable-sync}
 
-1. **[!UICONTROL 同期を有効にする]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 同期の有効化]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -106,6 +106,6 @@ ht-degree: 80%
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。完了すると、メール通知が届きます。
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)

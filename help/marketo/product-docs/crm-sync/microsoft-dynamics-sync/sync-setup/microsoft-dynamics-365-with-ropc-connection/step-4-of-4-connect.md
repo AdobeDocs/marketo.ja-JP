@@ -4,9 +4,9 @@ title: 手順 4 / 4 - Marketo ソリューションとリソース所有者の�
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
 source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '432'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 83%
 
 ## Dynamics 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
 
-1. Marketoにログインし、「**Admin**」をクリックします。
+1. Marketo にログインし、**「管理者**」をクリックします。
 
    ![](assets/login-admin.png)
 
@@ -42,13 +42,13 @@ ht-degree: 83%
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
-1. **[!UICONTROL 資格情報を入力]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 資格情報を入力]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a48-3a43.png)
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。間違った組織 URL を使用する場合は、新しいMarketo サブスクリプションを取得する必要があります。 URL がわからない場合は、[ここで見つける方法を学んでください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
+   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。誤った組織 URL が使用された場合、新しい Marketo サブスクリプションを取得する必要があります。URL がわからない場合は、[ここで見つける方法を学んでください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ ht-degree: 83%
 
 ## 同期するフィールドの選択 {#select-fields-to-sync}
 
-1. **[!UICONTROL 同期するフィールドを選択]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 同期するフィールドを選択]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
@@ -80,7 +80,7 @@ ht-degree: 83%
 
 カスタムフィルターを作成した場合は、Marketo と同期する新しいフィールドを選択するようにします。
 
-1. 「管理者」に移動し、「**[!DNL Microsoft Dynamics]**」を選択します。
+1. 「管理者」に移動し、**[!DNL Microsoft Dynamics]** を選択します。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
@@ -94,7 +94,7 @@ ht-degree: 83%
 
 ## 同期を有効にする {#enable-sync}
 
-1. **[!UICONTROL 同期を有効にする]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 同期を有効にする]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
@@ -106,7 +106,7 @@ ht-degree: 83%
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。完了すると、メール通知が届きます。
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
 

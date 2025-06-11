@@ -4,9 +4,9 @@ title: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo �
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
 source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '414'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 84%
 >
 >**管理者権限が必要**
 
-## Dynamics 同期ユーザー情報を入力する {#enter-dynamics-sync-user-information}
+## Dynamics 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
 
 1. Marketo にログインし、「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -35,13 +35,13 @@ ht-degree: 84%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. **[!UICONTROL 資格情報を入力]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 資格情報を入力]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-48-43.png)
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、資格情報が正しいことを確認してください。誤った資格情報が保存された場合は、新しいMarketo サブスクリプションを取得する必要があります。
+   >送信後に後続のスキーマの変更を元に戻すことができないので、資格情報が正しいことを確認してください。間違った資格情報を保存した場合は、新しい Marketo サブスクリプションを取得する必要があります。
 
 1. 「**[!UICONTROL ユーザー名]**」、「**[!UICONTROL パスワード]**」と Microsoft Dynamics の「**[!UICONTROL URL]**」、「**クライアント ID／シークレット**」を入力します。終了したら「**[!UICONTROL 保存]**」をクリックします。
 
@@ -59,7 +59,7 @@ ht-degree: 84%
 
 ## 同期するフィールドを選択 {#select-fields-to-sync}
 
-1. **[!UICONTROL 同期するフィールドを選択]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 同期するフィールドを選択]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -75,7 +75,7 @@ ht-degree: 84%
 
 カスタムフィルターを作成した場合は、Marketo と同期する新しいフィールドを選択するようにします。
 
-1. 「管理者」に移動し、「**[!DNL Microsoft Dynamics]**」を選択します。
+1. 「管理」に移動し、「**[!DNL Microsoft Dynamics]**」を選択します。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
@@ -89,7 +89,7 @@ ht-degree: 84%
 
 ## 同期を有効にする {#enable-sync}
 
-1. **[!UICONTROL 同期を有効にする]** の **[!UICONTROL 編集]** をクリックします。
+1. 「**[!UICONTROL 同期の有効化]**」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-52-2.png)
 
@@ -101,6 +101,6 @@ ht-degree: 84%
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。完了すると、メール通知が届きます。
 
    ![](assets/image2015-3-16-9-59-51.png)

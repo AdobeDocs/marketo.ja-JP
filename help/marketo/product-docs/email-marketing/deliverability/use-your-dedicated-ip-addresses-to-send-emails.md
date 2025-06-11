@@ -5,9 +5,9 @@ title: 専用 IP アドレスを使用したメール送信
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
 source-git-commit: 1ba9524b4136f50e5b4fc17e87466d6452913df6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '417'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 95%
 
 >[!AVAILABILITY]
 >
->専用 IP はアドオン製品です。すべてのユーザーが専用 IP をプログラムに追加する資格を持つわけではありません。専用 IP を維持するには、月に 100,000 件を超えるメールを送信し、キャンペーンの安定したケイデンスを維持する必要があります。Marketo プログラムに専用 IP を追加する方法について詳しくは、アカウントチームにお問い合わせください。
+>専用 IP はアドオン製品です。すべてのユーザーが専用 IP をプログラムに追加する資格を持つわけではありません。専用 IP を維持するには、月に 100,000 件を超えるメールを送信し、キャンペーンの安定したケイデンスを維持する必要があります。専用 IP を Marketo プログラムに追加する方法の詳細については、アカウントチームにお問い合わせください。
 >
 >月に送信するメールが 100,000 件未満で、キャンペーンの量が変化する場合、または季節に応じてメールを送信する場合は、専用 IP を維持できません。Marketo は、厳格なベストプラクティスに従う顧客向けに、個別の信頼できる IP 共有プールを維持しています。ご興味がおありの場合は、[このアンケート](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html)に記入して、Marketo の信頼できる IP プログラムにお申込みください。
 

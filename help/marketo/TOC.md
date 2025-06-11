@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '9269'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -215,7 +215,7 @@ ht-degree: 99%
          + [アカウントでパーソナライズ URL を有効にする](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [グローバルフォーム検証ルール](product-docs/administration/settings/global-form-validation-rules.md)
          + [ランディングページのヘッダー](product-docs/administration/settings/landing-page-headers.md)
-         + [製品使用ダッシュボード](product-docs/administration/settings/product-usage-dashboards.md)
+         + [製品使用状況ダッシュボード](product-docs/administration/settings/product-usage-dashboards.md)
          + [IP に基づく Marketo ログインの制限](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [言語、ロケール、タイムゾーンの選択](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [フォールバックページの設定](product-docs/administration/settings/set-a-fallback-page.md)
@@ -1034,7 +1034,7 @@ ht-degree: 99%
          + [Adobe Express を使用した画像の編集](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [フラグメント](product-docs/email-marketing/email-designer/fragments.md)
          + [カスタマイズ可能なフラグメント](product-docs/email-marketing/email-designer/customizable-fragments.md)
-         + [Marketo EngageのGenStudio統合](product-docs/email-marketing/email-designer/genstudio.md)
+         + [Marketo Engage の GenStudio の統合](product-docs/email-marketing/email-designer/genstudio.md)
          + [コンテンツのロック](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI アシスタント](product-docs/email-marketing/email-designer/ai-assistant.md)
       + メールプログラム {#email-programs}
