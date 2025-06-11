@@ -3,9 +3,9 @@ description: Advanced BI Analytics の概要 – Marketo ドキュメント – 
 title: 高度な BI 分析の概要
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
+source-git-commit: 896a4d16f6f2133b2d5311735143f4aab348dbf6
 workflow-type: tm+mt
-source-wordcount: '994'
+source-wordcount: '1144'
 ht-degree: 6%
 
 ---
@@ -58,11 +58,74 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
    ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
+## レポートのエクスポート {#export-a-report}
+
+レポート全体を書き出す場合、書き出しのオプションはPDFと PPT です。 XLS または CSV のデータが必要な場合は、個々のビジュアライゼーションを書き出すことでデータを書き出すことができます（[ 以下を参照 ](#export-a-visualization)）。
+
+>[!BEGINTABS]
+
+>[!TAB  レポートページから ]
+
+1. レポートページで目的のレポートの「その他」アイコン（...）をクリックし、「書き出し **を選択し** す。
+
+   ![](assets/export-a-report-1a.png)
+
+1. PDFまたは PPT を選択し、「**書き出し**」をクリックします。
+
+   ![](assets/export-a-report-2a.png)
+
+>[!TAB  レポート内 ]
+
+1. レポート内で、右上の「その他」アイコン（**...**）をクリックし、「**書き出し**」を選択します。
+
+   ![](assets/export-a-report-1b.png)
+
+1. PDFまたは PPT を選択し、「**書き出し**」をクリックします。
+
+   ![](assets/export-a-report-2b.png)
+
+>[!ENDTABS]
+
+### ビジュアライゼーションのエクスポート {#export-a-visualization}
+
+レポートの特定のセクションをエクスポートする方法を説明します。
+
+1. 目的のレポートを選択します。
+
+   ![](assets/export-a-visualization-1.png){width="600" zoomable="yes"}
+
+1. 表示されたビジュアライゼーションにポインタを合わせると、3 つのアイコンが表示されます。
+
+   ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
+
+1. [ その他 ] アイコン （**...**）をクリックします
+
+   ![](assets/export-a-visualization-3.png)
+
+1. **データを書き出し** を選択します。
+
+   ![](assets/export-a-visualization-4.png)
+
+1. 目的のデータ形式を選択します。
+
+   ![](assets/export-a-visualization-5.png)
+
+   >[!NOTE]
+   >
+   >* _現在のレイアウトのデータ_ は、テーブルおよびマトリックスのビジュアルでのみ使用できます。
+   * _基になるデータ_ は、Marketo Engageでは使用できません。
+
+1. 目的のファイル形式（.XLS、.CSV）を選択します。
+
+   ![](assets/export-a-visualization-6.png)
+
+1. 「**エクスポート**」をクリックします。
+
 ## ビデオデモ {#video}
 
 次のビデオでは、複数ページのドリルスルーレポートのエクスペリエンスの例を確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451683/?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Advanced BI Analytics の標準レポート {#standard-reports}
 
