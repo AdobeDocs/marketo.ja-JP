@@ -3,7 +3,7 @@ description: Advanced BI Analytics の概要 – Marketo ドキュメント – 
 title: 高度な BI 分析の概要
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 896a4d16f6f2133b2d5311735143f4aab348dbf6
+source-git-commit: 4e9b830d350f0c8b50873b359e64be281af226fa
 workflow-type: tm+mt
 source-wordcount: '1144'
 ht-degree: 6%
@@ -60,7 +60,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 ## レポートのエクスポート {#export-a-report}
 
-レポート全体を書き出す場合、書き出しのオプションはPDFと PPT です。 XLS または CSV のデータが必要な場合は、個々のビジュアライゼーションを書き出すことでデータを書き出すことができます（[ 以下を参照 ](#export-a-visualization)）。
+レポート全体を書き出す場合、書き出しのオプションはPDFと PPT です。 データを.XLS または.CSV 形式で書き出す必要がある場合は、個々のビジュアライゼーションを書き出すことで行うことができます（[ 以下を参照 ](#export-a-visualization)）。
 
 >[!BEGINTABS]
 
@@ -113,7 +113,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
    >[!NOTE]
    >
    >* _現在のレイアウトのデータ_ は、テーブルおよびマトリックスのビジュアルでのみ使用できます。
-   >* _基になるデータ_ は、Marketo Engageでは使用できません。
+   * _基になるデータ_ は、Marketo Engageでは使用できません。
 
 1. 目的のファイル形式（.XLS、.CSV）を選択します。
 
@@ -125,7 +125,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 次のビデオでは、複数ページのドリルスルーレポートのエクスペリエンスの例を確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451683/?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Advanced BI Analytics の標準レポート {#standard-reports}
 
