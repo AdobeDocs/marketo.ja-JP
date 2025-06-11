@@ -113,7 +113,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
    >[!NOTE]
    >
    >* _現在のレイアウトのデータ_ は、テーブルおよびマトリックスのビジュアルでのみ使用できます。
-   * _基になるデータ_ は、Marketo Engageでは使用できません。
+   >* _基になるデータ_ は、Marketo Engageでは使用できません。
 
 1. 目的のファイル形式（.XLS、.CSV）を選択します。
 
