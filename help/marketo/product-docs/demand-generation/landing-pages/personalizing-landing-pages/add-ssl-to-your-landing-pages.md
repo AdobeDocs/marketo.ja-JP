@@ -4,10 +4,10 @@ description: ランディングページへの SSL の追加 — Marketo ドキ�
 title: ランディングページへの SSL の追加
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
-workflow-type: ht
-source-wordcount: '765'
-ht-degree: 100%
+source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+workflow-type: tm+mt
+source-wordcount: '669'
+ht-degree: 96%
 
 ---
 
@@ -71,7 +71,7 @@ Marketo Engage では、デフォルトで、セキュリティで保護され�
 <tbody>
   <tr>
     <td><i>ドメインの作成中に予期しないエラーが発生しました。サポートが必要な場合は、サポートにお問い合わせください。</i></td>
-    <td>予期しないエラーが発生しました。ログとエラーの詳細を収集し、問題をサポートにエスカレートしてください。</td>
+    <td>予期しないエラーが発生しました。ログとエラーの詳細を収集し、問題を <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート </a> にエスカレーションしてください。</td>
   </tr>
   <tr>
     <td><i>デフォルトのドメインが見つかりませんでした。サポートが必要な場合は、サポートにお問い合わせください。</i></td>
@@ -89,10 +89,6 @@ Marketo Engage では、デフォルトで、セキュリティで保護され�
     <td><i>ドメインが既に存在します。</i></td>
     <td>同じ名前のドメインが既に存在します。</td>
   </tr>
-  <tr>
-    <td><i>ドメインを追加する前に、1 回限りの IP 設定が必要です。設定を完了し、別のドメインの追加を再試行するには、サポートにお問い合わせください。</i></td>
-    <td>デフォルトのドメインの後の最初のカスタムドメインは、ユーザが 1 回限りの設定を開始する必要があります。設定を完了し、完了後にドメインを追加するには、サポートチケットを発行してください。</td>
-  </tr>
 </tbody></table>
 
 ## 注意事項 {#things-to-note}
@@ -103,8 +99,6 @@ Marketo Engage では、デフォルトで、セキュリティで保護され�
 
 * **既存の SSL**：ドメインの追加中に、事前に手動で作成した可能性のある既存の SSL がシステムによってチェックされます。この検証が発生した場合は、SSL 作成を選択せずにドメインを作成すると、SSL が接続されます。追加kの詳細やオプションについては、[サポートにお問い合わせください](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
-* **初回のトラッキングドメイン**：メールトラッキングリンクドメインを初めて作成する場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}による手動介入が必要になります。UI では、同じドメインでの後続のサブドメインの作成が許可されます。
-
 * **既存のドメインへの証明書の追加**：現時点では、既存のドメインへの証明書の追加はサポートされていません。既存のドメインの場合や、SSL 証明書のボックスをオンにしなかった場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡して、証明書を追加する必要があります。
 
-* **ドメインの削除**：現時点では、ドメインを削除しても、SSL 証明書は自動的に削除されません。これは、今後のリリースで対処される予定です。
+* **ドメインの削除**：ドメインを削除すると、SSL 証明書が自動的に削除されます。

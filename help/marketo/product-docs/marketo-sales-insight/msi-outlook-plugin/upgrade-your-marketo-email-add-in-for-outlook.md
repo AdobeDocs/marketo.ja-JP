@@ -4,10 +4,10 @@ description: Outlook 用 Marketo メールアドインのアップグレード -
 title: Outlook 用 Marketo メールアドインのアップグレード
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 96%
+source-wordcount: '337'
+ht-degree: 95%
 
 ---
 
@@ -117,11 +117,11 @@ Outlook 用 Marketo メールアドインの新しいバージョンが利用可
  </tbody> 
 </table>
 
-&#42;Office 365 バージョン：Windows クライアントのみ（Windows 10、Enterprise または Pro 上）。
+&#42;Office 365 バージョン：Windows クライアントのみ（Windows 10、Windows 11、Enterprise または Pro 上）。
 
 ## アップグレード {#upgrade}
 
-1. [Microsoft Outlook のバージョン](https://support.microsoft.com/ja-jp/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us)を特定します。
+1. [Microsoft Outlook のバージョン](https://support.microsoft.com/ja-jp/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us)を特定します。
 
 1. 上のリストからお使いのバージョンを選択します。
 
