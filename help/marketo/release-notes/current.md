@@ -4,9 +4,9 @@ title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 6da797bc91de018e789f1e5980523a02e38eba30
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '517'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr> 
    <td><strong>メールデザイナーアセットのロールベースのアクセス制御</strong>：ロールベースのアクセス制御（RBAC）システムへの新しい機能強化により、新しいメールデザイナーで活用されるアセットに対して、より詳細な権限と改善されたユーザー管理が提供されます。</td> 
    <td>リリース済み</td>
-   <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">新しい電子メールDesignerに対するきめ細かい権限（ブログ投稿）</a></td>
+   <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">新しい E メールデザイナーに対するきめ細かい権限（ブログ投稿）</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -62,7 +62,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong> 電子メールDesignerでのGenStudioの統合 </strong>: GenStudioを電子メール内から統合して、マーケティング効果を高め、ブランドの一貫性を保ちます。</td> 
+   <td><strong>E メールデザイナーでの GenStudio の統合</strong>：メール内からパフォーマンスマーケティングを行えるよう GenStudio を統合し、マーケティングの効率を向上、およびブランドの一貫性を維持します。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
