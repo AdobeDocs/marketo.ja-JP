@@ -4,10 +4,10 @@ description: デフォルトのブランディングドメインの編集 - Mark
 title: デフォルトのブランディングドメインの編集
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '129'
+ht-degree: 87%
 
 ---
 
@@ -40,3 +40,7 @@ ht-degree: 100%
    ![](assets/edit-your-default-branding-domain-4.png)
 
 これで、必要な[追加のブランディングドメインを追加](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md){target="_blank"}できるようになりました。
+
+>[!NOTE]
+>
+>既存の SSL を更新または削除する必要がある場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。

@@ -4,10 +4,10 @@ description: 付加的なブランディングドメインの追加 - Marketo �
 title: 付加的なブランディングドメインの追加
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '578'
-ht-degree: 64%
+source-wordcount: '602'
+ht-degree: 61%
 
 ---
 
@@ -86,6 +86,8 @@ ht-degree: 64%
 * **初回のトラッキングドメイン**：メールトラッキングリンクドメインを初めて作成する場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}による手動介入が必要になります。UI では、同じドメインでの後続のサブドメインの作成が許可されます。
 
 * **既存のドメインへの証明書の追加**：現時点では、既存のドメインへの証明書の追加はサポートされていません。既存のドメインの場合や、SSL 証明書のボックスをオンにしなかった場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡して、証明書を追加する必要があります。
+
+* **既存のドメインの証明書の編集または削除**：既存の SSL を更新または削除する必要がある場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。
 
 * **ドメインの削除**：現時点では、ドメインを削除しても、SSL 証明書は自動的に削除されません。これは、今後のリリースで対処される予定です。
 
