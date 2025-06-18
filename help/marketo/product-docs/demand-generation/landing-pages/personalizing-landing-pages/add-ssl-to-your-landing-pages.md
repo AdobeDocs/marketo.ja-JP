@@ -4,10 +4,10 @@ description: ランディングページへの SSL の追加 — Marketo ドキ�
 title: ランディングページへの SSL の追加
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 96%
+source-wordcount: '714'
+ht-degree: 90%
 
 ---
 
@@ -18,6 +18,10 @@ SSL（Secure Socket Layer）暗号化を使用すると、Marketo Engage イン�
 Web フォームに入力する場合、または Marketo Engage がホストするランディングページを訪問する場合、デフォルトでは、情報はセキュリティで保護されていないプロトコル（HTTP）を使用して送信されます。会社のポリシーによっては、Marketo に送信される情報を（HTTPS）を使用して保護する必要が生じる場合があります。例えば、`http://info.mydomain.com/` へのアクセスは `https://info.mydomain.com/` になります。
 
 Marketo Engage では、デフォルトで、セキュリティで保護されていない HTTP プロトコルを使用して「訪問した web ページ」と「Web ページのリンクをクリック」を追跡します。独自の証明書でトラッキングリンクを保護したい場合、Marketo に共有されていない別のサーバーを作成させて有効にする必要があります。取引先責任者とのやり取りのあらゆる側面を保護するということは、通常は、ランディングページとトラッキングリンクの両方を保護することを意味します。
+
+>[!IMPORTANT]
+>
+>SSL を追加する前に、追加が許可されているドメインの合計数を契約で確認してください。 それ以外の場合は、料金が発生する場合があります。 情報が見つからない場合は、Adobe アカウントチーム（担当のアカウントマネージャー）に詳細をお問い合わせください。
 
 ## SSL 証明書を有効にする {#enable-ssl-certification}
 
