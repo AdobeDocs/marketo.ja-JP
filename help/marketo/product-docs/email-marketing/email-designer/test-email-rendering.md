@@ -59,6 +59,6 @@ Marketo Engageの [Litmus](https://www.litmus.com/email-testing) アカウント
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**オプションの手順**：メールに変更を加える場合は、「**メールをレンダリング**」をクリックして表示した後、必ず「Litmus **メールのプレビュー _」画面の右上にある「**再テスト_」ボタンをクリックします。
+**オプションの手順**：メールに変更を加える場合は、「**メールをレンダリング**」をクリックして表示した後、必ず「Litmus **メールのプレビュー _」画面の右上にある「**&#x200B;再テスト_」ボタンをクリックします。
 
 ![](assets/test-email-rendering-with-litmus-7.png)
