@@ -3,10 +3,10 @@ description: インタラクティブウェビナーのプロモーション - M
 title: インタラクティブウェビナーのプロモーション
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
-workflow-type: ht
-source-wordcount: '777'
-ht-degree: 100%
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
+workflow-type: tm+mt
+source-wordcount: '786'
+ht-degree: 96%
 
 ---
 
@@ -46,9 +46,13 @@ ht-degree: 100%
 
 ## インタラクティブウェビナーのトークン {#interactive-webinars-tokens}
 
-ウェビナーの詳細を手動で追加しなくても、トークンを使用してメールやランディングページでインタラクティブウェビナーを促進できます。これにより、ウェビナーのメタデータ（ウェビナーのタイトル、開始日など）に加えられた変更がアセットに自動的に反映されるので、全体的な効率が向上します。
+トークンを使用すると、ウェビナーの詳細を手動で追加しなくても、メールでインタラクティブウェビナーを促進できます。 これにより、ウェビナーのメタデータ（ウェビナーのタイトル、開始日など）に加えられた変更がアセットに自動的に反映されるので、全体的な効率が向上します。
 
 ![](assets/promoting-an-interactive-webinar-3.png)
+
+>[!NOTE]
+>
+>現時点では、ランディングページではインタラクティブウェビナートークンはサポートされていません。
 
 **トークンのリスト**
 

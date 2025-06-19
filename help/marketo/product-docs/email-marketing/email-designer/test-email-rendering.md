@@ -5,9 +5,10 @@ title: Litmus を使用したメールのレンダリングのテスト
 description: Marketo Engage ユーザーは、Litmus アカウントを統合して、様々なメールクライアントでのコンテンツのレンダリングをシームレスにテストできます。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
+source-git-commit: ac1a80c3f337b71109f29583fdfd318e43fd3c79
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '259'
 ht-degree: 4%
 
 ---
@@ -54,10 +55,10 @@ Marketo Engageの [Litmus](https://www.litmus.com/email-testing) アカウント
    >
    >[ デフォルトのメールクライアントリストをカスタマイズ ](https://help.litmus.com/article/227-change-your-default-email-clients-list) する方法を説明します。
 
-1. テストが完了したら、画面の左上にある背面矢印をクリックして _コンテンツをシミュレート_ 画面に戻ります。
+1. テストが完了したら、左上の後矢印をクリックして _コンテンツをシミュレート_ 画面に戻ります。
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**オプションの手順**：メールに変更を加える場合は、「**メールをレンダリング**」をクリックして表示した後、必ず Litmus 画面の右上にある「**再テスト**」ボタンをクリックします。
+**オプションの手順**：メールに変更を加える場合は、「**メールをレンダリング**」をクリックして表示した後、必ず「Litmus **メールのプレビュー _」画面の右上にある「**再テスト_」ボタンをクリックします。
 
 ![](assets/test-email-rendering-with-litmus-7.png)

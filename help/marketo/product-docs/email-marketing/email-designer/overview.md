@@ -5,14 +5,14 @@ description: 新しいAdobe Marketo Engage メールDesignerへようこそ。
 title: 概要
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '871'
 ht-degree: 1%
 
 ---
 
-# 概要 {#overview}
+# メールデザイナー - 概要 {#overview}
 
 新しいAdobe Marketo Engage メールDesignerへようこそ。
 
@@ -54,6 +54,8 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 
 * [ カスタマイズ可能なフラグメント ](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}：フラグメントのフィールドの一部を編集可能にして、フラグメントをカスタマイズする方法を説明します。
 
+* [Personalization トークン ](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}：新しい E メールデザイナーでのパーソナライゼーショントークンの新しいフォーマットについて説明します。
+
 * [AEM Assets の操作 ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}:Marketo Engageで使用するためにAEM デジタルアセットに簡単にアクセスする方法を説明します。
 
 * [Adobe Expressで画像を編集 ](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}:Adobe Expressを使用して、Adobe Marketo Engage メールエディターで画像を編集する方法を説明します。
@@ -61,6 +63,8 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 * [AI アシスタントの使用 ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}:Adobeの生成 AI テクノロジーを活用して、便利なテキストや画像をメールに追加します。
 
 * [ メールテンプレート内のコンテンツのロック ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：メールテンプレート内のコンテンツをロックして、意図しない編集や削除を防ぐ方法について説明します。
+
+* [Litmus でのメールのレンダリングのテスト ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}:Marketo Engageで Litmus アカウントを利用すると、一般的なメールクライアントでのメールのレンダリングを即座に確認できます。
 
 * [ 機能比較 ](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較します。
 
@@ -112,4 +116,4 @@ API を使用して編集されているAssetsは、現時点では、新しい�
 
 **新しいメールDesignerでは、どのブラウザーを使用できますか？**
 
-Google Chrome、Apple Safari またはMicrosoft Edgeの使用をお勧めします。 Mozilla Firefox の完全サポートは、後日利用できるようになります。
+Google Chrome、Apple Safari またはMicrosoft Edgeの使用をお勧めします。 Mozilla Firefox の完全サポートは、間もなく利用できるようになります。
