@@ -1,9 +1,10 @@
 ---
 description: メールテンプレート - Marketo ドキュメント – 製品ドキュメント
 title: メールテンプレート
-feature: Email Editor
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '1840'
 ht-degree: 5%

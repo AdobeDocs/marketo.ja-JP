@@ -1,9 +1,10 @@
 ---
 description: メールオーサリング - Marketo ドキュメント – 製品ドキュメント
 title: メールオーサリング
-feature: Email Editor
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '1742'
 ht-degree: 5%

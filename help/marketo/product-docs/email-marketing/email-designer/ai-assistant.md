@@ -3,12 +3,13 @@ solution: Marketo Engage
 product: marketo
 title: AI アシスタントの使用
 description: Adobeのジェネレーティブ AI テクノロジーを活用して、メールに便利なテキストや画像を追加します。
-feature: Email Editor
+level: Beginner, Intermediate
+feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '734'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -36,7 +37,7 @@ AI アシスタントには、主に次の 3 つのユースケースがあり�
 
 ![](assets/use-the-ai-assistant-2.png)
 
-AI アシスタントの「**参照コンテンツを使用**」オプションを有効にして、選択したコンテンツに基づいて新しいコンテンツをパーソナライズします。
+AI アシスタントに対して「**参照コンテンツを使用**」オプションを有効にして、選択したコンテンツに基づいて、新しいコンテンツをパーソナライズします。
 
 件名をカスタマイズするためのプロンプトを入力します。 関連するテキスト設定を入力し、適切な件名を作成するために、参照として使用するブランドアセットをアップロードします。
 

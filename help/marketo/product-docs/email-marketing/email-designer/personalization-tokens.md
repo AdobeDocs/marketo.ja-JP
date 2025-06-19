@@ -1,18 +1,19 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Personalizationトークン
+title: パーソナライゼーショントークン
 description: 新しいMarketo Engage メールDesignerでパーソナライゼーショントークンを使用する方法を説明します
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Personalizationトークン {#personalization-tokens}
+# パーソナライゼーショントークン {#personalization-tokens}
 
 メールデザイナーは、メールのパーソナライゼーショントークンに関して、従来のメールエディターとは異なる形式を使用します。 この変更は、Handlebar スクリプティングとの互換性を向上させ、メール作成プロセスを合理化するために実装されました。
 

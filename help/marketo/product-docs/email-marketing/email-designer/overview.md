@@ -3,9 +3,9 @@ solution: Marketo Engage
 product: marketo
 description: 新しいAdobe Marketo Engage メールDesignerへようこそ。
 title: 概要
-feature: Email Editor
+feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '834'
 ht-degree: 1%

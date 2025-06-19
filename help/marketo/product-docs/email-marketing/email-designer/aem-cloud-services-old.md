@@ -1,18 +1,20 @@
 ---
-title: Experience Managerドキュメントを接続
-description: AEM アセットを活用できるようにAdobe Experience Manager Cloud ServiceをAdobe Marketo Engageに接続する方法について説明します。
+title: Experience Manager ドキュメントを接続
+description: AEM Assets を活用できるようにAdobe Experience Manager Cloud Services をAdobe Marketo Engageに接続する方法について説明します。
+level: Beginner, Intermediate
+feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 3a3c3dae689760b720c4823bc1d11bf39da998fe
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 6%
 
 ---
 
-# Adobe Experience Manager Cloud Serviceの接続 {#connect-adobe-experience-manager-cloud-services}
+# Adobe Experience Manager Cloud Services の接続 {#connect-adobe-experience-manager-cloud-services}
 
-Adobe Marketo Engage インスタンスにAEM Assets Cloud Serviceアカウントを接続して、メールDesignerMarketo EngageでAEM アセットリポジトリを活用できるようにする方法について説明します。
+Marketo EngageのメールDesignerでAEM Assets Asset リポジトリーを活用できるように、Adobe Marketo Engage Cloud Services アカウントをAEM インスタンスに接続する方法について説明します。
 
 >[!NOTE]
 >
@@ -22,7 +24,7 @@ Adobe Marketo Engage インスタンスにAEM Assets Cloud Serviceアカウン�
 
 スクリーンショット
 
-1. **2&rbrace;Adobe Experience ManagerCloud Service** の横にある「編集 _をクリックします。_
+1. **2}Adobe Experience Manager Cloud Services** の横にある「編集 _をクリックします。_
 
 スクリーンショット
 
@@ -32,7 +34,7 @@ Adobe Marketo Engage インスタンスにAEM Assets Cloud Serviceアカウン�
 
 >[!NOTE]
 >
->Marketo Engageサブスクリプションと同じ IMS 組織に関連付けられているリポジトリのみが表示されます。
+>Marketo Engage サブスクリプションと同じ IMS 組織に関連付けられているリポジトリーのみが表示されます。
 
 1. リポジトリを設定するには、[ サービス資格情報証明書 ](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) を追加する必要があります。 「**+証明書を追加**」ボタンをクリックします。
 
@@ -46,8 +48,8 @@ Adobe Marketo Engage インスタンスにAEM Assets Cloud Serviceアカウン�
 
 スクリーンショット
 
-これで、そのリポジトリ内の Digital Asset Management ライブラリのすべての画像に、Marketo EngageのメールDesignerからアクセスできるようになります。
+これで、そのリポジトリー内の Digital Asset Management ライブラリのすべての画像に、Marketo EngageのメールDesignerからアクセスできるようになりました。
 
 >[!MORELIKETHIS]
 >
->[Experience Managerアセットの操作 ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md)
+>[Experience Manager アセットの操作 ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md)

@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
-workflow-type: ht
-source-wordcount: '9269'
-ht-degree: 100%
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+workflow-type: tm+mt
+source-wordcount: '9279'
+ht-degree: 99%
 
 ---
 
@@ -1029,6 +1029,7 @@ ht-degree: 100%
          + [機能の比較](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
          + [メールテンプレートオーサリング](product-docs/email-marketing/email-designer/email-template-authoring.md)
+         + [Litmus を使用したメールのレンダリングのテスト](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [パーソナライゼーショントークン](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [AEM Assets の操作](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Adobe Express を使用した画像の編集](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
@@ -1037,6 +1038,7 @@ ht-degree: 100%
          + [Marketo Engage の GenStudio の統合](product-docs/email-marketing/email-designer/genstudio.md)
          + [コンテンツのロック](product-docs/email-marketing/email-designer/content-locking.md)
          + [AI アシスタント](product-docs/email-marketing/email-designer/ai-assistant.md)
+         + [SpamAssassin を使用した E メールスパムレポート](product-docs/email-marketing/email-designer/spam-report.md)
       + メールプログラム {#email-programs}
          + メールプログラムの作成 {#creating-an-email-program}
             + [メールプログラムの作成](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

@@ -4,8 +4,9 @@ product: marketo
 title: Adobe Express を使用した画像の編集
 description: Adobe Expressを使用して、Adobe Marketo Engageのメールエディターで画像を編集する方法を説明します。
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
 source-wordcount: '841'
 ht-degree: 2%
@@ -79,7 +80,7 @@ Adobe Express Editor にアクセスする方法は 2 つあります。
 
 >[!ENDTABS]
 
-## Adobe Express Enterprise ライセンス {#adobe-express-enterprise-license}
+## Adobe Express エンタープライズ版ライセンス {#adobe-express-enterprise-license}
 
 ### Enterprise ライセンスを持つユーザー {#users-with-an-enterprise-license}
 
