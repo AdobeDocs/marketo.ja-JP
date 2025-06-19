@@ -17,7 +17,7 @@ _Adobe Experience Manager Assets as a Cloud Service_ アカウントをAdobe Mar
 
 >[!NOTE]
 >
->現在、Marketo Engageでは _0&rbrace;Adobe Experience Manager Assets&rbrace; の画像アセットのみがサポートされています。_&#x200B;アセットに対する変更は、Adobe Experience Manager Assets中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>現在、Marketo Engageでは _0&rbrace;Adobe Experience Manager Assets&rbrace; の画像アセットのみがサポートされています。_&#x200B;アセットに対する変更は、Adobe Experience Manager Assets中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## AEM Cloud Services へのリンク {#link-to-your-aem-cloud-services}
 
@@ -81,7 +81,7 @@ _Adobe Experience Manager Assets as a Cloud Service_ アカウントをAdobe Mar
 
 >[!IMPORTANT]
 >
->管理者は、アセットにアクセスする必要があるユーザーをAssets コンシューマーユーザー製品プロファイルまたはAssets ユーザー製品プロファイルに追加する必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>管理者は、アセットにアクセスする必要があるユーザーをAssets コンシューマーユーザー製品プロファイルまたはAssets ユーザー製品プロファイルに追加する必要があります。 [詳細情報](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 ビジュアルコンテンツエディターで、左側のサイドバーにある「_Experience Manager アセットセレクター_」アイコンをクリックします。 これにより、ツールパネルが、選択したリポジトリで使用可能なアセットのリストに変更されます。
 
