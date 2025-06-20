@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
 workflow-type: tm+mt
 source-wordcount: '714'
-ht-degree: 90%
+ht-degree: 93%
 
 ---
 
@@ -75,7 +75,7 @@ Marketo Engage では、デフォルトで、セキュリティで保護され�
 <tbody>
   <tr>
     <td><i>ドメインの作成中に予期しないエラーが発生しました。サポートが必要な場合は、サポートにお問い合わせください。</i></td>
-    <td>予期しないエラーが発生しました。ログとエラーの詳細を収集し、問題を <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート </a> にエスカレーションしてください。</td>
+    <td>予期しないエラーが発生しました。ログとエラーの詳細を収集し、問題を<a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート</a>にエスカレートしてください。</td>
   </tr>
   <tr>
     <td><i>デフォルトのドメインが見つかりませんでした。サポートが必要な場合は、サポートにお問い合わせください。</i></td>

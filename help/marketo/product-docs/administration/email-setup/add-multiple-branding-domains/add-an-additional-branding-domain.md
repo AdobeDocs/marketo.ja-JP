@@ -7,7 +7,7 @@ feature: Email Setup
 source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
 source-wordcount: '602'
-ht-degree: 61%
+ht-degree: 96%
 
 ---
 
@@ -31,15 +31,15 @@ ht-degree: 61%
 
    ![](assets/add-an-additional-branding-domain-3.png)
 
-1. 新しいブランディングドメインの名前を入力し、_プライマリドメインにする_ または _SSL 証明書を生成_ （両方ともオプション）を選択して、「**[!UICONTROL 保存]**」をクリックします。
+1. 新しいブランディングドメインの名前を入力し、「_プライマリドメインにする_」や「_SSL 証明書を生成_」（両方ともオプション）を選択して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-an-additional-branding-domain-4.png)
 
 >[!NOTE]
 >
->* _プライマリドメインを作成_：これをプライマリドメインにし、既存の未送信のメールはすべて「デフォルト」に設定され、新しく作成されたすべてのメールはデフォルトでプライマリドメインに設定されます。 [ メールごとに上書き ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"} できます。
+>* _プライマリドメインにする_：これをプライマリドメインにします。既存の未送信メールはすべて「デフォルト」に設定され、新しく作成されたすべてのメールはデフォルトでプライマリドメインに設定されます。[この設定はメールごとに上書き](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"}できます。
 >
->* _SSL 証明書の生成_：ドメインの作成に Secure Sockets Layer （SSL）を作成できます。 最初のトラッキングドメインでは、数時間かかる可能性のあるインフラストラクチャの設定が 1 回限り開始されます。 完了すると通知されるので、最初のドメインを設定できます。 既存のドメインに SSL を追加する場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。
+>* _SSL 証明書を生成_：ドメインの作成に Secure Sockets Layer（SSL）を作成できます。最初のトラッキングドメインでは、インフラストラクチャの 1 回限りの設定が開始しますが、これには数時間かかる場合があります。完了すると通知が届き、最初のドメインを設定できます。既存のドメインに SSL を追加するには、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
 
 ## エラーメッセージ {#error-messages}
 
@@ -51,7 +51,7 @@ ht-degree: 61%
 <tbody>
   <tr>
     <td><i>ドメインの作成中に予期しないエラーが発生しました。サポートが必要な場合は、サポートにお問い合わせください。</i></td>
-    <td>予期しないエラーが発生しました。ログとエラーの詳細を収集し、問題を <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート </a> にエスカレーションしてください。</td>
+    <td>予期しないエラーが発生しました。ログとエラーの詳細を収集し、問題を <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート</a>にエスカレートしてください。</td>
   </tr>
   <tr>
     <td><i>SSL 証明書は既に発行されています。</i></td>
@@ -62,16 +62,16 @@ ht-degree: 61%
     <td>カスタムドメインがデフォルトのドメインに正しくマッピングされていません。ドメインマッピング設定を確認し、DNS 設定が正しいデフォルトのドメインを指していることを確認してください。</td>
   </tr>
   <tr>
-    <td><i>Cloudflare のセットアップが開始されました。 後でもう一度やり直してください。</i></td>
-    <td>インスタンスに対して最初のトラッキングドメインを作成すると、Cloudfare での 1 回限りのインフラストラクチャ設定が発生します。 このメッセージは、セットアップが開始されたことを示しています。これには最大 3 時間かかる場合があります。</td>
+    <td><i>Cloudflare の設定が開始されました。後でもう一度やり直してください。</i></td>
+    <td>インスタンスに対して最初のトラッキングドメインを作成すると、Cloudfare で 1 回限りのインフラストラクチャ設定が行われます。このメッセージは、設定が開始されており、最大 3 時間かかる可能性があることを示します。</td>
   </tr>
   <tr>
-    <td><i>Cloudflare のセットアップはまだ進行中です。 後でもう一度やり直してください。</i></td>
-    <td>上記を参照</td>
+    <td><i>Cloudflare の設定はまだ進行中です。後でもう一度やり直してください。</i></td>
+    <td>上記を参照してください</td>
   </tr>
   <tr>
-    <td><i>予期しないエラーが発生したため、Cloudflare のセットアップに失敗しました。 カスタマーサポートにお問い合わせください。</i></td>
-    <td>Cloudfare インフラストラクチャの初期設定に失敗しました。 <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート </a> にお問い合わせください。</td>
+    <td><i>予期しないエラーにより、Cloudflare の設定に失敗しました。カスタマーサポートにお問い合わせください。</i></td>
+    <td>Cloudfare インフラストラクチャの初期設定に失敗しました。サポートが必要な場合は、<a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート</a>にお問い合わせください。</td>
   </tr>
 </tbody></table>
 
