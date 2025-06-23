@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 2dc4a0db97f8c7c3e5eee2456da9831ccd6f79cf
 workflow-type: tm+mt
-source-wordcount: '916'
-ht-degree: 13%
+source-wordcount: '913'
+ht-degree: 14%
 
 ---
 
@@ -173,6 +173,12 @@ ht-degree: 13%
     <td>対応可能</td>
   </tr>
   <tr>
+    <td>Litmus 統合</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">Litmus と統合 </a> して、様々なメールクライアントでメールがどのようにレンダリングされるかを確認する機能。</td>
+    <td>利用不可</td>
+    <td>対応可能</td>
+  </tr>
+  <tr>
     <td>Personalization Editor</td>
     <td>トークンを使用してメールのコンテンツをパーソナライズする機能。</td>
     <td>対応可能</td>
@@ -253,12 +259,6 @@ ht-degree: 13%
    <tr>
     <td>Handlebar スクリプティング</td>
     <td>メールで Handlebar スクリプティングを使用する機能。</td>
-    <td>利用不可</td>
-    <td>2025 年第 3 四半期に予定</td>
-  </tr>
-  <tr>
-    <td>Litmus 統合</td>
-    <td>Litmus と統合して、様々なメールクライアントでメールがどのようにレンダリングされるかを確認する機能。</td>
     <td>利用不可</td>
     <td>2025 年第 3 四半期に予定</td>
   </tr>
