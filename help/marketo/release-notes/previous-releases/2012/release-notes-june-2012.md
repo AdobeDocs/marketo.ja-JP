@@ -4,10 +4,10 @@ description: リリースノート - 2012年6月 - Marketo ドキュメント - 
 title: リリースノート - 2012年6月
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '670'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -25,13 +25,13 @@ ht-degree: 100%
 
 ## フィールドマッピングのインポート {#import-field-mapping}
 
-Marketo へのリストインポートがはるかに簡単になりました。インポート処理中に、Marketo フィールドの名前をインポートファイルの列ヘッダー名にマッピングできます。さらに、管理では、Marketo でフィールド名にマッピングされるエイリアス名を設定し、ユーザーが毎回正しいフィールドを選択するようにできます。
+Marketo へのリストインポートがはるかに簡単になりました。インポート処理中に、Marketo フィールドの名前をインポートファイルの列ヘッダー名にマッピングできます。さらに、[!UICONTROL  管理者 ] では、Marketoのフィールド名にマッピングされるエイリアス名を設定できるので、ユーザーが毎回正しいフィールドを選択するようにしてください。
 
 引き続きフィールドのインポートとマッピングを行うと、Marketo はインポート時にマッピングを記憶して表示するので、使いやすくなります。さらに、「サンプル値」ヘッダーをクリックすると、フィールドに入力される様々な値を確認できます。これは、毎回正しいフィールドをマッピングするのに役立ちます。
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
-## スマートリストおよび静的リストの概要ページ {#summary-page-for-smart-lists-and-static-lists}
+## [!UICONTROL  概要 ] スマート・リストおよび静的リストのページ {#summary-page-for-smart-lists-and-static-lists}
 
 リストがどこに使われているのか、誰がリストを作成したのか、または誰が最後に変更したのだろうと思ったことはありますか？スマートリストおよび静的リストで使用できる新しい概要ページに、次の重要な詳細が表示されます。
 
@@ -41,13 +41,13 @@ Marketo へのリストインポートがはるかに簡単になりました。
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## アセットの使用者 {#used-by-for-assets}
+## Assetsの [!UICONTROL  使用者 ] {#used-by-for-assets}
 
-アセットの概要ページに、「使用者」という新しいタブが追加されました。
+アセット [!UICONTROL  概要 ] ページに [!UICONTROL  使用者 ] という新しいタブを追加しました。
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
-例：静的リストの使用者
+例：静的リストの [!UICONTROL Used By]
 
 ## ランディングページのグリッド線 {#landing-page-gridlines}
 
@@ -63,13 +63,13 @@ Marketo へのリストインポートがはるかに簡単になりました。
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## 待機ステップ - リードトークンとマイトークン {#wait-step-lead-token-and-my-token}
+## [!UICONTROL  待機 ] ステップ – リードトークンとマイトークン {#wait-step-lead-token-and-my-token}
 
-5 月のリリースでは、待機フローステップに高度なオプションが追加されました。これらの変更を使用して、営業日、日付、時刻を指定できます。このリリースでは、待機ステップでトークンを使用する機能が追加されました。例えば、`{{lead.Birthday}}` を使用して誕生日にメールを送信したり、`{{my.Event Date}}` を使用して最終的なウェビナーリマインダーを送信したりできます。
+5 月のリリースで、「待機 [!UICONTROL  フローステップに高度なオプション ] 追加しました。 これらの変更を使用して、営業日、日付、時刻を指定できます。このリリースでは、待機ステップでトークンを使用する機能が追加されました。例えば、`{{lead.Birthday}}` を使用して誕生日にメールを送信したり、`{{my.Event Date}}` を使用して最終的なウェビナーリマインダーを送信したりできます。
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## Design Studio でサムネールとして表示 {#view-as-thumbnails-in-design-studio}
+## Design Studio で [!UICONTROL  表示 ] を [!UICONTROL  サムネール ] として {#view-as-thumbnails-in-design-studio}
 
 画像リストからサムネールビューに表示を切り替えます。
 

@@ -3,16 +3,16 @@ description: リリースノート - 2022年3月 - Marketo ドキュメント - 
 title: リリースノート - 2022年3月
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 92%
+source-wordcount: '750'
+ht-degree: 77%
 
 ---
 
 # リリースノート：2022年3月 {#release-notes-mar-22}
 
-2022年3月リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
+2022年3月リリースには、次の機能が含まれています。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
@@ -24,7 +24,7 @@ ht-degree: 92%
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
-* **動的チャット**：リードとアカウントの両方をターゲットして、積極的に、魅力的で 1 対 1 のパーソナライズされた会話によって、web サイト上のあらゆる機会を最大化します。[Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engageユーザーは、B2B マーケティングおよびセールスのユースケース向けに、統合されたクロスチャネルエクスペリエンスの重要な部分としてチャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
+* **[!DNL Dynamic Chat]**：プロアクティブで魅力的な、1 対 1 のパーソナライズされた会話で、リードとアカウントの両方をターゲティングすることで、web サイト上のすべての機会を最大化します。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engageのユーザーは、B2B マーケティングおよびセールスのユースケースのための統合されたクロスチャネルエクスペリエンスの重要な部分として、チャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
 
 * **メールボットアクティビティフィルタリングの機能強化**：以前リリースした [ メールボットアクティビティフィルタリング ](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} 機能の機能強化として、ボットとして識別されたアクティビティのログ記録をオプトインできるようになりました。 ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
 
@@ -32,7 +32,7 @@ ht-degree: 92%
 
 * **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
-   * デザインスタジオのフォームリスト表示（新しい一括アクションを含む）
+   * [!UICONTROL Design Studio] のフォームリスト表示（新しい一括アクションを含む）
 
 * **プログラムワークフローインポートのアップデート**：プログラムワークフローのインポートは、デザインと操作性をアップデートして機能強化した、次世代のエクスペリエンスで提供されます。切替スイッチはなく、自動的に変更されます。
 
@@ -60,17 +60,17 @@ ht-degree: 92%
 
 以下の機能はリリース後約 1～2 か月の間に段階的にリリースされます。
 
-## Bizible {#bizible}
+## [!DNL Bizible] {#bizible}
 
 ![（星印）](assets/yellow-star.png)
 
-* **BI テンプレート**：Bizible は、Tableau および Power BI 用のダウンロード可能な基本的なレポートアーティファクトとサンプルレポートを提供します。ビジネスニーズに合わせてカスタマイズされたカスタムレポートを迅速に開発できるようになります。
+* **BI テンプレート**:[!DNL Bizible] は、Tableau とPower BIにダウンロード可能な基本的なレポートアーティファクトとサンプルレポートを提供し、特定のビジネスニーズに合わせてカスタマイズされたカスタムレポートを迅速に開発できるようになりました。
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![（星印）](assets/yellow-star.png)
 
-* **メール接続のスロットリング（GA）**：メール接続のスロットリングを使用すると、Sales Connect 管理者は、Gmail または Exchange を配信チャネルとして使用する場合に、配信チャネルプロバイダーに引き渡されるメールの割合が強制的な制限を超えないように、メールの送信率を設定できます。
+* **メール接続スロットル（GA）**：メール接続スロットルを使用すると、[!DNL Sales Connect] 管理者は、Gmail または [!DNL Exchange] を配信チャネルとして使用する場合のメールの送信率を設定して、配信チャネルプロバイダーにメールが引き渡される率が適用された制限を超えないようにすることができます。
 
 ## お知らせ {#announcements}
 
@@ -78,4 +78,4 @@ ht-degree: 92%
 
 **_製品リリースウェビナー_**
 
-[2022年3月および 5月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}
+[2022 年 3 月および 5 月のMarketo Engage リリースウェビナー ](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

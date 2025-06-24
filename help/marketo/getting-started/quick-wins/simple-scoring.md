@@ -4,10 +4,10 @@ description: シンプルなスコアリング - Marketo ドキュメント - �
 title: シンプルなスコアリング
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '377'
-ht-degree: 100%
+source-wordcount: '375'
+ht-degree: 97%
 
 ---
 
@@ -66,7 +66,7 @@ ht-degree: 100%
 
    ![](assets/simple-scoring-9.png)
 
-1. 「**スコアを変更**」フローアクションを左側のキャンバスにドラッグします。
+1. 「**[!UICONTROL スコアを変更]**」フローアクションを左側のキャンバスにドラッグします。
 
    ![](assets/simple-scoring-10.png)
 
@@ -132,4 +132,4 @@ ht-degree: 100%
 
 [◄ ミッション 2：フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-[ミッション 4：メールの自動応答 ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[ミッション 4：電子メールの自動応答 ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

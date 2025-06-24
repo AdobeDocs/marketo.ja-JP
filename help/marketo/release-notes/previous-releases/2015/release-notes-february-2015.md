@@ -4,10 +4,10 @@ description: リリースノート - 2015年2月 - Marketo ドキュメント - 
 title: リリースノート - 2015年2月
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 100%
+source-wordcount: '325'
+ht-degree: 92%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 朗報です! ドラッグアンドドロップまたはツリー内の移動機能を使ってプログラムからスマートキャンペーンが移動できるようになりました。
 
-**[Dynamics 2015（オンライン）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - サポートされています。
+**[[!DNL Dynamics] 2015 （オンライン） ](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - サポート
 
 **HTTPS 証明書の変更**
 
@@ -29,15 +29,15 @@ ht-degree: 100%
 
 次のドメインで、現在使用されているセキュリティプロトコル（SHA-1 および SSL）をより安全なバージョン（SHA-2（SHA-256）および TLS）に置き換えます。
 
-* marketo.net（暗号化された Munchkin トラフィック）
+* marketo.net （暗号化された [!DNL Munchkin] トラフィック）
 
 * [marketo.com](https://marketo.com)（主な SaaS アプリケーション）
 
 これは、このリリースの直後に発生します。SHA-1 プロトコルは、2015 年 12 月まで [mktoapi.com](https://mktoapi.com) のドメインで一時的にサポートされ、レガシーシステムおよびアプリケーションの所有者が SHA-2 互換でシステムを更新できるようにします。
 
-**セキュア Munchkin**
+**安全な[!DNL Munchkin]**
 
-SSL3 のサポートを削除します。古い web ブラウザーのサポートを維持するために、これまで SSL3 を維持してきましたが、2015 年には、これらのブラウザーからの大量の web トラフィックは見られなくなりました。これは、セキュアなページで使用した場合にのみ Munchkin に影響し、2 月のリリース以降はゆっくりと展開されます。
+SSL3 のサポートを削除します。古い web ブラウザーのサポートを維持するために、これまで SSL3 を維持してきましたが、2015 年には、これらのブラウザーからの大量の web トラフィックは見られなくなりました。これは、セキュリティで保護され [!DNL Munchkin] ページで使用された場合にのみ影響し、2 月のリリース後に徐々に展開されます。
 
 ## リアルタイムパーソナライズ機能の強化 {#real-time-personalization-enhancements}
 

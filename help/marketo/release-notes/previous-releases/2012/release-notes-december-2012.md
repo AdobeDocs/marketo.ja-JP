@@ -4,10 +4,10 @@ description: リリースノート - 2012年12月 - Marketo ドキュメント -
 title: リリースノート - 2012年12月
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 92%
+source-wordcount: '390'
+ht-degree: 52%
 
 ---
 
@@ -29,31 +29,31 @@ ht-degree: 92%
 
 ## 詳細な管理権限 {#granular-admin-permissions}
 
-最新リリースでは、各役割の Marketo 管理領域の様々な機能へのアクセスを制御することで、管理者の役割に対するアクセスと制御を強化できます。新しい役割を作成するときに、役割がアクセスできる特定の管理機能を割り当てることができます。
+最新のリリースでは、Marketoの [!UICONTROL  管理者 ] エリアの様々な機能へのアクセスを役割ごとに制御することで、[!UICONTROL  管理者 ] の役割へのアクセスと制御を強化しています。 新しい役割を作成する際に、その役割がアクセスできる特定の [!UICONTROL  管理者 ] 機能を割り当てることができます。
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
 >[!NOTE]
 >
->デフォルトでは、「アクセス管理」権限を持つ既存の役割は、変更されるまで、または変更されない限り、すべての管理機能にアクセスできます。
+>デフォルトでは、「[!UICONTROL  管理者にアクセス ]」権限を持つ既存の役割は、変更されない限り、すべての [!UICONTROL  管理者 ] 機能にアクセスできます。
 
-## BrightTALK アダプター {#brighttalk-adapter}
+## [!UICONTROL BrightTALK] アダプター {#brighttalk-adapter}
 
-Marketo BrightTALK アダプターを使用すると、ライブまたはオンデマンドの web キャストから Marketo イベントに直接出席情報を取り込むことができます。
+Marketo[!UICONTROL BrightTALK] アダプタを使用すると、ライブまたはオンデマンドの Web キャストから出席情報をMarketoイベントに直接取り込むことができます。
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Marketo Microsoft Dynamics 向け Sales Insight {#marketo-sales-insight-for-microsoft-dynamics}
+## [!DNL Microsoft Dynamics] 用Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-microsoft-dynamics}
 
-Microsoft Dynamics のお客様は、Sales Insight をご利用いただけます。
+[!DNL Microsoft Dynamics] のお客様が [!DNL Sales Insight] を利用できるようになりました。
 
-## Dynamics の商談同期 {#dynamics-opportunity-sync}
+## [!DNL Dynamics] 商談同期 {#dynamics-opportunity-sync}
 
-Marketo と Microsoft Dynamics の間で商談データを同期します。
+Marketoと [!DNL Microsoft Dynamics] の間で商談データを同期します。
 
 ## マーケティング影響商談レポート &#42; {#marketing-influenced-opportunities-report}
 
-マーケティングプログラムが企業のパイプラインや売上高に与えた影響の割合を表示します。**売上高エクスプローラー**&#x200B;で、商談分析の新しい「マーケティングが影響を与えた商談」の黄色いドットを使用してカスタムレポートを作成できるようになりました。次の 2 つのレポートを Standard フォルダーで使用することもできます。
+マーケティングプログラムが企業のパイプラインや売上高に与えた影響の割合を表示します。**[!UICONTROL 売上高エクスプローラー]**&#x200B;で、商談分析の新しい「マーケティングが影響を与えた商談」の黄色いドットを使用してカスタムレポートを作成できるようになりました。次の 2 つのレポートを Standard フォルダーで使用することもできます。
 
 * 創出された商談に対するマーケティングの影響
 * 商談のクローズ成立に対するマーケティングの影響
@@ -62,14 +62,14 @@ Marketo と Microsoft Dynamics の間で商談データを同期します。
 
 ## プログラム商談分析のカスタム商談フィールド &#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-カスタム商談フィールドを追加し、売上高エクスプローラーでプログラム商談分析レポートを強化します。
+[!UICONTROL  収益エクスプローラー ] でカスタム商談フィールドを追加し、プログラム商談分析レポートを強化します。
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
 ## キャンペーンインスペクター {#campaign-inspector}
 
-「変更スコア」や「キャンペーンのリクエスト」など、特定のフローアクションをどのキャンペーンが使用しているのか、または、特定のフィルターがどこで使用されているのか疑問に思ったことはありますか？新しいキャンペーンインスペクター（アイデアスペースから利用可能）を使用すると、そのようなキャンペーン、アクティブなキャンペーン、エラーが発生したキャンペーンを特定できます。
+[!UICONTROL  スコアを変更 ] や [!UICONTROL  キャンペーンをリクエスト ] など、特定のフローアクションを使用しているキャンペーンを検討したことはありますか？ または、特定のフィルターがどこで使用されているのか疑問に思ったことはありますか？新しい [!UICONTROL  キャンペーンインスペクター ] （宝箱から入手できます）を使用すると、これらのキャンペーンに加えて、アクティブなキャンペーンやエラーが発生したキャンペーンを特定できます。
 
-**管理者**／**アイデアスペース**&#x200B;に移動して、**キャンペーンインスペクター**&#x200B;を有効にします。
+**[!UICONTROL 管理者]**／**[!UICONTROL アイデアスペース]**&#x200B;に移動して、**[!UICONTROL キャンペーンインスペクター]**&#x200B;を有効にします。
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

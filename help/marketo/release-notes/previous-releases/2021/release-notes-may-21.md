@@ -3,10 +3,10 @@ description: リリースノート - 2021 年 5 月 - Marketo ドキュメント
 title: リリースノート - 2021 年 5 月
 exl-id: e3de60a2-17bd-4760-848e-6e931ad85b3c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '1450'
-ht-degree: 100%
+source-wordcount: '1440'
+ht-degree: 92%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 ## 次世代ユーザーエクスペリエンス {#next-generation-user-experience}
 
-グローバル検索プレビューを使用すると、マーケターは、インスタンス内の共有アセットの場所をすばやく確認できます。ブラウザーのタブには、マーケティングアクティビティまたはデザインスタジオでのナビゲーションを改善するための場所が表示されます。追加のツリーおよびグローバル検索フィルターは、検索条件の絞り込みに役立ちます。ツリー内のドラッグ＆ドロップ機能が復元し、フォルダーやアセットをメインアプリ内ですばやく効率的に移動できるようになりました。（アドビのアクセシビリティ標準に準拠する）新しく更新されたアイコンとステータスバッジを使用すると、マーケターはツリー内のフォルダーとアセットをすばやく簡単に区別し、プログラムとアセットのステータスを識別できます。
+グローバル検索プレビューを使用すると、マーケターは、インスタンス内の共有アセットの場所をすばやく確認できます。ブラウザータブには、[!UICONTROL  マーケティングアクティビティ ] または [!UICONTROL Design Studio] のナビゲーションを改善するための場所が表示されます。 追加のツリーおよびグローバル検索フィルターは、検索条件の絞り込みに役立ちます。ツリー内のドラッグ＆ドロップ機能が復元し、フォルダーやアセットをメインアプリ内ですばやく効率的に移動できるようになりました。（アドビのアクセシビリティ標準に準拠する）新しく更新されたアイコンとステータスバッジを使用すると、マーケターはツリー内のフォルダーとアセットをすばやく簡単に区別し、プログラムとアセットのステータスを識別できます。
 
 ## エクスペリエンスの自動化 {#experience-automation}
 
@@ -64,7 +64,7 @@ ht-degree: 100%
 
 * **Bulk Lead Import API**：リードの一括インポートとリソースの管理この強化により、リードの一括インポートプロセス中にリードと会社の間に関連付けが作成されます。API が呼び出されると、データの処理と効率が向上し、使用量が減ります。
 
-* **Microsoft Dynamics Online の顧客向けの web API ベースの統合**：MS Dynamics Web API は、バージョン 8.0 REST プロトコルで導入され、OData（Open Data Protocol）v4 を実装しました。OData は、リッチデータを介した RESTful サービスの構築と利用を行う OASIS（Organization for the Advenment of Structured Information Standards）規格です。Adobe Marketo Engage の顧客で、この方法を使用して Microsoft Dynamics との統合が必要な場合は、現在、SOAP（Simple Object Access Protocol）から web API ベースの接続に移行中です。
+* **[!DNL Microsoft Dynamics Online] のお客様向けの Web API ベースの統合**:[!DNL MS Dynamics] Web API は、バージョン 8.0 REST プロトコルで導入され、OData （Open Data Protocol） v4 を実装しています。 OData は、リッチデータを介した RESTful サービスの構築と利用を行う OASIS（Organization for the Advenment of Structured Information Standards）規格です。この手法を使用して [!DNL Microsoft Dynamics] との統合を必要とするAdobe Marketo Engageのお客様は、現在、SOAP（Simple Object Access Protocol）から web API ベースの接続に移行されています。
 
 ## マーケティングデータ環境 {#marketing-data-environment}
 
@@ -76,7 +76,7 @@ ht-degree: 100%
 
 ![](assets/yellow-star.png)
 
-* **LinkedIn リードジェネレーションフォーム（ベータ版）との統合**：Bizible プレミアムアトリビューションソリューションを使用して、LinkedIn チャネルの費用と ROI の詳細を可視化します。LinkedIn のリードジェネレーションフォームとの最新の統合により、Bizible は、LinkedIn プラットフォーム内で送信されたフォームに関するインサイトを得ることができます。これらのフォームの入力は、CRM（顧客関係 Marketo Engage）またはアドビ管理インスタンスのリードと照合され、アトリビューションの資格を持ち、他のマーケティングエンゲージメントと照らして追跡できます。
+* **[!DNL LinkedIn] リード生成Forms（Beta）との統合**:Bizible プレミアムアトリビューションソリューションにより、[!DNL LinkedIn] チャネルの支出と ROI を深く可視化します。 [!DNL LinkedIn] のリード生成Formsとの最新の統合により、Bizible は [!DNL LinkedIn] プラットフォーム内に送信されたフォームへとinsightを統合します。 これらのフォームの入力は、CRM（顧客関係 Marketo Engage）またはアドビ管理インスタンスのリードと照合され、アトリビューションの資格を持ち、他のマーケティングエンゲージメントと照らして追跡できます。
 
 ## お知らせ {#announcements}
 

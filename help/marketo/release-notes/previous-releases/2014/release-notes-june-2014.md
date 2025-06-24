@@ -4,10 +4,10 @@ description: リリースノート - 2014年6月 - Marketo ドキュメント - 
 title: リリースノート - 2014年6月
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
-source-wordcount: '260'
-ht-degree: 100%
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+workflow-type: tm+mt
+source-wordcount: '252'
+ht-degree: 83%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 100%
 
 ## UI のアップデート - 近日公開 {#updated-ui-coming-soon}
 
-Marketo リード管理のナビゲーションを含めた新しい外観が、今後のリリースで間もなく利用可能になります。
+[!DNL Marketo Lead Management] のナビゲーションを含む新しいルックアンドフィールは、今後のリリースで近日中に提供されます。
 
-## Outlook 2013 用 Sales Insight プラグイン {#sales-insight-plugin-for-outlook}
+## [!DNL Outlook] 2013 用 [!DNL Sales Insight] プラグイン {#sales-insight-plugin-for-outlook}
 
 新しいプラグインをダウンロードする必要があります。[こちら](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)からダウンロードできます。
 
 ## トークンの解決 {#token-resolution}
 
-Sales Insight からテストメールを送信すると、メールにあるトークンは解決されず、デフォルト値が送信されます。この改善により、テストメールのトークンが解決されます。
+[!DNL Sales Insight] からテストメールを送信すると、現在、メール内のトークンが解決されず、デフォルト値が送信されます。 この改善により、テストメールのトークンが解決されます。
 
 ## 評価用の星と炎のパーセンテージのカスタマイズ {#customize-percentages-for-stars-and-flames}
 
@@ -33,7 +33,7 @@ Sales Insight からテストメールを送信すると、メールにあるト
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
-## リード ReST API {#lead-rest-api}
+## リード REST API {#lead-rest-api}
 
 新しい ReST API を使ってリードをプログラムで作成、読み取り、更新します。ReST の使用を開始するには、Marketo で[カスタムサービスを作成](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)する必要があります。次に、[開発者向けサイト](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api/)にアクセスし、この API の使用に関する詳細を確認してください。
 

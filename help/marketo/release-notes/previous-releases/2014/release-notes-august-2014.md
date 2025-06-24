@@ -4,10 +4,10 @@ description: リリースノート - 2014年8月 - Marketo ドキュメント - 
 title: リリースノート - 2014年8月
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 100%
+source-wordcount: '400'
+ht-degree: 89%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 | トリガーキャンペーンのアクティブ化 | トリガーキャンペーンをアクティブ化できるユーザーとできないユーザーを制御します。 |
 | バッチキャンペーンのスケジュール | バッチキャンペーンの実行をスケジュールできるユーザーとできないユーザーを制御します。 |
 
-## 管理からのユーザーと役割のエクスポート {#export-users-and-roles-from-admin}
+## [!UICONTROL Admin] からのユーザーと役割のエクスポート {#export-users-and-roles-from-admin}
 
 Marketo から[ユーザーと役割のリストをエクスポート](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)できるようになりました。エクスポートに含める「最終ログイン」タイムスタンプを含めることもできます。
 
@@ -47,15 +47,15 @@ Marketo から[ユーザーと役割のリストをエクスポート](/help/mar
 
 ![](assets/image2014-9-16-12-3a23-3a4.png)
 
-## DKIM の自動化 {#automated-dkim}
+## Automated [!DNL DKIM] {#automated-dkim}
 
-配信品質を向上させるために、送信されるすべてのメールは DKIM（DomainKeys Identified Mail）を使用した署名が付加されます。デフォルトでは、メールは Marketo の共有 DKIM 署名を使用します。この署名をカスタマイズするオプションがあります。
+配信品質を向上させるために、送信するすべてのメールには [!DNL DKIM] （DomainKeys Identified Mail）が署名されます。 デフォルトでは、電子メールには、共有 [!DNL DKIM] ーザーの署名にMarketoが使用されます。 この署名をカスタマイズするオプションがあります。
 
 ![](assets/image2014-9-16-12-3a23-3a16.png)
 
 >[!NOTE]
 >
->DKIM はゆっくりと展開され、数週間表示されない場合があります。
+>[!DNL DKIM] れはゆっくりとロールアウトされ、数週間は表示されない場合があります。
 
 ## リアルタイムパーソナライゼーションの更新 {#real-time-personalization-updates}
 

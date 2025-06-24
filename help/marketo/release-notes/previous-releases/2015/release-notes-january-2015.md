@@ -4,10 +4,10 @@ description: リリースノート - 2015 年 1 月 - Marketo ドキュメント
 title: リリースノート - 2015 年 1 月
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
-source-wordcount: '356'
-ht-degree: 100%
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+workflow-type: tm+mt
+source-wordcount: '354'
+ht-degree: 91%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 100%
 
 [- ランディングページのチュートリアルビデオ -](https://youtu.be/aPQHlG2X6c0)
 
-**新規 ReST API 呼び出し**
+**新規REST APIコール**
 
-リードおよびアクティビティ ReST API の 3 つの新しい呼び出し：
+リードおよびアクティビティ REST API の 3 つの新しい呼び出し：
 
 * リードの削除
 * プログラム ID でリードを取得
@@ -39,9 +39,9 @@ ht-degree: 100%
 
 ## リアルタイムパーソナライズ {#real-time-personalization}
 
-**パーソナライズドリマーケティング（Google および Facebook）**
+**Googleおよび[!DNL Facebook]** 向けのパーソナライズされたリマーケティング
 
-リマーケティングでは、ウェブサイトを訪問した人に広告を表示します。[Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) および [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) でリアルタイムパーソナライゼーションのデータを使用してリマーケティングキャンペーンをパーソナライズできるようになりました。様々な業界のオーディエンス、アカウントリスト、企業規模、または既知のリードからの任意のデータにリマーケティングします。
+リマーケティングでは、ウェブサイトを訪問した人に広告を表示します。Real-Time Personalizationのデータを使用して、[Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) および [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) でリマーケティングキャンペーンをパーソナライズできるようになりました。 様々な業界のオーディエンス、アカウントリスト、企業規模、または既知のリードからの任意のデータにリマーケティングします。
 
 [アカウントリストモジュール](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 

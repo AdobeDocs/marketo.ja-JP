@@ -4,10 +4,10 @@ description: リリースノート - 2012年5月 - Marketo ドキュメント - 
 title: リリースノート - 2012年5月
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 100%
+source-wordcount: '641'
+ht-degree: 78%
 
 ---
 
@@ -55,7 +55,7 @@ iOS 5.1 以降が必要。iPad のみ。
 
 ## オンラインセミナー確認 URL の機能強化 {#enhanced-webinar-confirmation-url}
 
-ON24 と Adobe Connect で利用可能新しい `{{member.webinar URL}}` トークンを使用して、登録した各出席者の確認メールに一意のリンクを含めます。Adobe Connect の機能強化には、ユーザーのログイン ID とパスワードを含む Adobe アカウント情報メールのオン／オフを切り替える機能も含まれます。
+[!DNL ON24] とAdobe Connectで利用できるようになりました。 新しい `{{member.webinar URL}}` トークンを使用して、登録した各出席者の確認メールに一意のリンクを含めます。Adobe Connect の機能強化には、ユーザーのログイン ID とパスワードを含む Adobe アカウント情報メールのオン／オフを切り替える機能も含まれます。
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -89,39 +89,39 @@ Marketo エンジニアが開発した実験機能にアクセスして、ユー
 
 図 10.管理でのマネージャーアイデアスペース機能
 
-## Microsoft Dynamics® CRM 統合 {#microsoft-dynamics-crm-integration}
+## [!DNL Microsoft Dynamics]® CRM 統合 {#microsoft-dynamics-crm-integration}
 
-新しい事前定義済み統合機能を使用して、Marketo と Microsoft Dynamics CRM Online の間でアカウント、連絡先、リードを同期します。
+新しい事前定義済みの統合機能を使用して、Marketoと [!DNL Microsoft Dynamics] CRM Online の間でアカウント、連絡先、リードを同期します。
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
-図 11.Microsoft Dynamics の設定
+図 11.[!DNL Microsoft Dynamics] 設定
 
-## Marketo Sales Insight の機能強化 {#marketo-sales-insight-enhancements}
+## Marketo [!DNL Sales Insight] の機能強化 {#marketo-sales-insight-enhancements}
 
 **登録解除フッターオプション**
 
-Sales Insight を通じて送信される電子メールに対して、登録解除フッターを表示するかどうか、いつ表示するかを設定します。
+[!DNL Sales Insight] 経由で送信されるメールに購読解除フッターを表示するタイミングとタイミングを設定します。
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-図 12.管理の Sales Insight 設定
+図 12.管理者の [!DNL Sales Insight] 設定
 
 ## セールスメールテンプレートのフォルダー {#folders-for-sales-email-templates}
 
-Marketo Sales Insight と共有するメールテンプレートを指定したフォルダーに整理できるようになり、セールス担当が適切なメールを見つけやすくなりました。
+Marketo [!DNL Sales Insight] で共有されるメールテンプレートを指定したフォルダーに整理して、営業担当者が適切なメールを見つけやすくできるようになりました。
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
 図 13.メールのフォルダーを選択
 
-## Sales Insight から商談アナライザーにアクセス {#access-opportunity-analyzer-from-sales-insight}
+## [!DNL Sales Insight] から Opportunity Analyzer へのアクセス {#access-opportunity-analyzer-from-sales-insight}
 
-Marketo Sales Insight の商談アナライザーに直接アクセスして、マーケティングアクティビティがエンゲージメントを促しているインサイトをセールス担当に提供します。注意.売上高サイクル分析ライセンスが必要です。
+Marketo [!DNL Sales Insight] から Opportunity Analyzer に直接アクセスして、営業担当者にinsightを提供し、マーケティングアクティビティがエンゲージメントを促進している状況を伝えます。 注意.売上高サイクル分析ライセンスが必要です。
 
 ## 連絡先ステータスのカスタムフィールド {#custom-field-for-contact-status}
 
-Salesforce のカスタムフィールドをマッピングして、マイ最有望見込客、マイチーム最有望見込客、カスタムビューの連絡先の「ステータス」フィールドにデータを入力できるようになりました。
+[!DNL Salesforce] のカスタムフィールドをマッピングして、おすすめコンテンツ、マイチームのおすすめコンテンツおよびカスタムビューの連絡先のステータスフィールドに入力できるようになりました。
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
@@ -129,7 +129,7 @@ Salesforce のカスタムフィールドをマッピングして、マイ最有
 
 匿名リードが訪問したページを参照
 
-匿名 web アクティビティビューから、匿名リードが閲覧したページにドリルダウンします。
+[!UICONTROL  匿名 Web アクティビティ ] ビューから匿名リードが表示したページにドリルダウンします。
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 

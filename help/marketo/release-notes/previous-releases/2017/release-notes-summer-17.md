@@ -4,10 +4,10 @@ description: リリースノート - 2017 年夏 - Marketo ドキュメント - 
 title: リリースノート - 2017 年夏
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 99%
+source-wordcount: '393'
+ht-degree: 76%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 99%
 
 ## [Facebook オフラインコンバージョンステージの追加](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-最大 7 つのオフラインコンバージョンステージを選択して、Marketo のライフサイクルステージ（現在利用可能な 3 つを超えるステージ）にマッピングします。カスタマージャーニー全体のコンバージョンに基づいて Facebook の広告費用を最適化し、ROI を向上させます。
+最大 7 つのオフラインコンバージョンステージを選択して、Marketo のライフサイクルステージ（現在利用可能な 3 つを超えるステージ）にマッピングします。カスタマージャーニー全体のコンバージョンに基づいて [!DNL Facebook] 広告の費用を最適化し、ROI を向上させます。
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
@@ -37,13 +37,13 @@ ht-degree: 99%
 
 **[ABM と LeanData の統合 ](https://docs.marketo.com/x/pKmt)**
 
-LeanData の統合により、Marketo でリードと顧客のマッチングが可能になりました。記録のセールスおよびマーケティングシステム内の顧客と同じリードを関連付けることで、マーケティングとセールスを整合させます。より柔軟なオプションにより、マーケティングおよびセールスオペレーションは、リードから顧客へのマッチングルールをより細かく制御し、希望する精度を達成できます。
+[!DNL LeanData] の統合で、Marketoでのリードとアカウントのマッチングが可能になりました。 記録のセールスおよびマーケティングシステム内の顧客と同じリードを関連付けることで、マーケティングとセールスを整合させます。より柔軟なオプションにより、マーケティングおよびセールスオペレーションは、リードから顧客へのマッチングルールをより細かく制御し、希望する精度を達成できます。
 
 ## ウェブパーソナライズの機能拡張 {#web-personalization-enhancements}
 
 **[キャンペーンプレビューの機能拡張](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-マーケターは、web キャンペーンを開始する&#x200B;*前に*&#x200B;デバイスをまたいで確認できるようになりました。これらの機能強化により、デスクトップ、モバイルデバイス、タブレットで web キャンペーンがどのように表示されるかがわかります。また、Chrome 用の新しいプラグインで、より一貫性が高く正確なプレビューが提供されます。
+マーケターは、web キャンペーンを開始する&#x200B;*前に*&#x200B;デバイスをまたいで確認できるようになりました。これらの機能強化により、デスクトップ、モバイルデバイス、タブレットで web キャンペーンがどのように表示されるかがわかります。[!DNL Chrome] の新しいプラグインでは、より一貫性のある正確なプレビューも提供されます。
 
 **[ウィジェットキャンペーンの機能拡張](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
@@ -61,10 +61,10 @@ LeanData の統合により、Marketo でリードと顧客のマッチングが
 
 ## アナリティクス {#analytics}
 
-**メールインサイトの機能拡張**
+**[!UICONTROL メールインサイト ] 機能の強化**
 
-データを準備および共有する新しい方法で、メールインサイトエクスペリエンスをさらに活用できます。メールインサイトの結果を Microsoft Excel と PowerPoint にダウンロードして、Marketo の外部でデータを操作できるようになりました。
+データの準備と共有の新しい方法で、[!UICONTROL  メールインサイト ] のエクスペリエンスをさらに活用しましょう。 [!UICONTROL  メールインサイト ] の結果を [!DNL Microsoft Excel] にダウンロードし、Marketo外のデータを操作で [!DNL PowerPoint] るようになりました。
 
 ## 連携 ID 構成サポート {#federated-identity-configuration-support}
 
-クラウドで Microsoft Dynamics CRM を引き続き使用しながら、ファイアウォールのオンプレミス内で認証（Active Directory）を保持します。
+クラウド内の CRM を引き続き使用しながら、認証（Active Directory）をオンプレミスのファイアウォール [!DNL Microsoft Dynamics] 背後に配置します。

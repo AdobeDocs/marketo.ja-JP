@@ -4,10 +4,10 @@ description: リリースノート - 2019 年 8 月 20 日 - Marketo ドキュ�
 title: リリースノート - 2019 年 8 月
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 90%
+source-wordcount: '327'
+ht-degree: 87%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 90%
 
 **アカウントベースのマーケティング**![（星）](assets/yellow-star.png)
 
-* **LinkedIn アカウントのマッチング**（以前はベータ版）が一般公開されました。
+* **[!DNL LinkedIn]アカウントのマッチング** （以前はベータ版）が一般公開されました。
 * **AccountAI** は正式に&#x200B;**アカウントプロファイル**&#x200B;に商標変更されます。
 
 <br> 
@@ -36,7 +36,7 @@ ht-degree: 90%
 
 次の機能は、四半期以外のサイクルで提供され、2019 年第 3 四半期から第 4 四半期初めにリリースされます。
 
-**Marketo Sales Connect** ![（星）](assets/yellow-star.png)
+**[!DNL Marketo Sales Connect]** ![ （星） ](assets/yellow-star.png)
 
 * **リードページレイアウトの機能強化**：新しいリードページレイアウトでは、リストのインポートや一括操作を通じてリードとグループを管理します。
 

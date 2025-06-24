@@ -4,10 +4,10 @@ description: リリースノート - 2014年1月 - Marketo ドキュメント - 
 title: リリースノート - 2014年1月
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 100%
+source-wordcount: '297'
+ht-degree: 92%
 
 ---
 
@@ -29,13 +29,13 @@ ht-degree: 100%
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-ユーザーが「国」として USA を選択した場合にのみ「州」を表示したい場合や、フォーム上の質問に対する回答に基づいて、様々なホワイトペーパーを顧客に提示する場合、エディターから直接フォームに条件ロジックを作成できます。javascript は不要です。
+ユーザーが「国」として USA を選択した場合にのみ「州」を表示したい場合や、フォーム上の質問に対する回答に基づいて、様々なホワイトペーパーを顧客に提示する場合、エディターから直接フォームに条件ロジックを作成できます。[!DNL javascript] は不要です。
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
 **独自のランディングページへのフォームの容易な埋め込み：**
 
-Marketo のランディングページに配置されたフォームから html コードを掘り起こして iFrame にドロップする必要はなくなります。埋め込みコードを取得し、フォームをレンダリングするランディングページに配置するだけです。通常と Lightbox の 2 つのモードにより、サイト上で Marketo フォームをより柔軟に使用できます。
+Marketoのランディングページに配置されたフォームから HTML コードを削除して [!DNL iFrame] にドロップする時代は終わりました。 埋め込みコードを取得し、フォームをレンダリングするランディングページに配置するだけです。通常と Lightbox の 2 つのモードにより、サイト上で Marketo フォームをより柔軟に使用できます。
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 

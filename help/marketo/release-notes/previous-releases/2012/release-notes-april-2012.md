@@ -4,10 +4,10 @@ description: リリースノート - 2012年4月 - Marketo ドキュメント - 
 title: リリースノート - 2012年4月
 exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '378'
-ht-degree: 100%
+source-wordcount: '364'
+ht-degree: 76%
 
 ---
 
@@ -24,17 +24,17 @@ ht-degree: 100%
 * Request Campaign API で、キャンペーンの特定の実行のマイトークンの値を送信できるようになりました。これは、API を使用してメールコンテンツを入力する場合に特に便利です。
 * 新しい Upload To List API および Schedule Campaign API では、リードのリストとバッチキャンペーンで上記の機能がサポートされます。
 
-## GoToWebinar と WebEx の確認メールの簡略化（Adobe Connect と ON24 は近日公開） {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
+## [!DNL GoToWebinar] と [!DNL WebEx] の確認メールが容易になりました（Adobe Connectおよび [!DNL ON24] 近日公開）。 {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
 
-各リードの一意の登録確認 URL を表示するメンバートークンを作成することで、確認 URL を簡略化しました。別のトークンを使用してこの URL を作成する必要はなくなります。これは現在、GoToWebinar および WebEx の顧客が利用でき、次回のリリースで Adobe Connect と ON24 で利用できるようになります。
+各リードの一意の登録確認 URL を表示するメンバートークンを作成することで、確認 URL を簡略化しました。別のトークンを使用してこの URL を作成する必要はなくなります。これは現在、[!DNL GoToWebinar] と [!DNL WebEx] のお客様が利用でき、次回のリリースでAdobe Connectと [!DNL ON24] が利用できるようになります。
 
 ![](assets/image2014-9-23-10-3a4-3a18.png)
 
 ## シングルクリックで複数の画像やファイルを一度にアップロードできます。 {#upload-multiple-images-and-files-with-a-single-click}
 
-画像やファイルを Marketo に読み込む際に、時間を節約し、より効率的に作業を行うことができます。Firefox または Google Chrome を使用している場合は、複数のファイルを選択して一度にアップロードできます。アップロードできるファイルの数に制限はありませんが、ファイルごとの個々のサイズの上限は 50 MB です。
+画像やファイルを Marketo に読み込む際に、時間を節約し、より効率的に作業を行うことができます。[!DNL Firefox] または [!DNL Google Chrome] を使用している場合は、ファイルを複数選択して、すべてを一度にアップロードできます。 アップロードできるファイルの数に制限はありませんが、ファイルごとの個々のサイズの上限は 50 MB です。
 
-注意：現時点では、ブラウザーの制限により、この機能は Internet Explorer ではサポートされていません。
+メモ：現時点では、ブラウザーの制限により、この機能は [!DNL Internet Explorer] ではサポートされていません。
 
 ![](assets/image2014-9-23-10-3a4-3a32.png)
 
@@ -46,9 +46,9 @@ ht-degree: 100%
 
 ![](assets/image2014-9-23-10-3a5-3a1.png)
 
-## Salesforce 以外のユーザーに対する Salesforce 参照の削除 {#salesforce-references-removed-for-non-salesforce-users}
+## [!DNL Salesforce] 以外のユーザーの [!DNL Salesforce] 参照が削除されました {#salesforce-references-removed-for-non-salesforce-users}
 
-Salesforce とサブスクリプションを同期していない場合は、Salesforce を参照するすべてのフォルダーとフローアクションが削除されます。
+購読を [!DNL Salesforce] と同期していない場合は、[!DNL Salesforce] を参照するすべてのフォルダーとフローアクションが削除されます。
 
 ## Marketo 売上高サイクル分析 {#marketo-revenue-cycle-analytics}
 

@@ -3,11 +3,10 @@ unique-page-id: 13795395
 description: リリースノート - 2018年冬 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2018年冬
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '598'
-ht-degree: 100%
+source-wordcount: '582'
+ht-degree: 78%
 
 ---
 
@@ -21,9 +20,9 @@ ht-degree: 100%
 
 Marketo は、ビッグデータアーキテクチャを活用して、トリガーキャンペーンのスループットを向上させ、web アクティビティの処理を改善して、オーディエンスのアクションに迅速に対応できるようにしています。
 
-## Marketo の Salesforce CRM 統合の強化 {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Marketoと CRM の統合 [!DNL Salesforce] 機能強化 {#enhancements-to-marketo-s-salesforce-crm-integration}
 
-Salesforce CRM 統合に対して、次の 2 つの機能強化がおこなわれました。
+[!DNL Salesforce] CRM 統合が 2 つ強化されました。
 
 * 特定の CRM 同期エラー（資格情報の期限切れ、API 制限に達したなど）についての [Marketo 管理者への通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
 
@@ -35,7 +34,7 @@ Salesforce CRM 統合に対して、次の 2 つの機能強化がおこなわ�
 
 >[!AVAILABILITY]
 >
->パフォーマンスインサイトは、アドオン製品です。見積もりについては、担当の Marketo アカウントマネージャーまたはアカウントエグゼクティブにお問い合わせください。
+>[!UICONTROL  パフォーマンスインサイト ] はアドオン製品です。 見積もりについては、Marketo カスタマーサクセスマネージャーまたはアカウント担当者にお問い合わせください。
 
 アトリビューション分析、インタラクティブなビジュアライゼーション、詳細なデータテーブルを使用して、キャンペーンとチャネルがビジネス成果に与える影響を調べます。
 
@@ -45,7 +44,7 @@ Salesforce CRM 統合に対して、次の 2 つの機能強化がおこなわ�
 
 **[ABM 階層](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
-Salesforce または Microsoft Dynamics を使用する ABM の顧客の場合、ABM は CRM で確立された親子関係を自動的に継承（および表示）するようになります。これらの関係は、ロールアップレポートとキャンペーン実行の両方で使用できます。
+[!DNL Salesforce] または [!DNL Microsoft Dynamics] を使用している ABM のお客様の場合、ABM は CRM で確立された親子関係を自動的に継承（および表示）するようになりました。 これらの関係は、ロールアップレポートとキャンペーン実行の両方で使用できます。
 
 ## メールマーケティング {#email-marketing}
 
@@ -63,11 +62,11 @@ Velocity のスクリプト記述が、動的コンテンツを使用するメ�
 
 **[Google カスタマーマッチ統合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-この統合により、Marketo オーディエンスを Google に送信し、Google AdWords を使用してターゲット設定するさらに YouTube、検索、Gmail 全体でオーディエンスのリターゲティングをおこなうことができます。
+この統合を使用すると、[!DNL Google AdWords] を使用してターゲット設定するMarketo オーディエンスをGoogleに送信したり、[!DNL YouTube]、検索および [!DNL Gmail] でオーディエンスを再ターゲットしたりできます。
 
-**[LinkedIn Matched Audience API の強化](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[[!DNL LinkedIn] Matched Audiences API の機能強化](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-新しい LinkedIn API により、複数の LinkedIn Campaign Manager アカウントにわたって Marketo データベース内のユーザを再ターゲット化できるようになりました。
+新しい [!DNL LinkedIn] API を使用して、複数の [!DNL LinkedIn] Campaign Manager アカウントでMarketo データベースのユーザーを再ターゲットできるようになりました。
 
 ## Web パーソナライズ機能 {#web-personalization}
 
@@ -87,20 +86,20 @@ Marketo で最適化された ContentAI アルゴリズムを通じて推奨さ�
 
 ## 統合 {#integration}
 
-**[キャンペーン API の有効化／無効化](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[キャンペーン API の有効化／無効化](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 この新しい API を使用すると、トリガーキャンペーンをリモートでアクティブ化および非アクティブ化できるので、完全に自動化されたプログラムテンプレートを作成できます。プログラムテンプレートを 1 回作成すると、複製、マーケティング資料の更新を自動化し、スマートキャンペーンの有効化／スケジュール設定を自動化できます。
 
-## ToutApp {#toutapp}
+## [!DNL ToutApp] {#toutapp}
 
 **配信停止の更新**
 
-2018年3月1日（PT）以降、[ToutApp.com](https://ToutApp.com) から（および Salesforce の「Email with Tout」ボタンを使用して）送信されるすべてのメールの下部に配信停止リンクが追加されます。
+2018 年 3 月 1 日（PT）以降、[ToutApp.com](https://ToutApp.com) から（および [!DNL Salesforce] の「[!DNL Tout] でメールを送信」ボタンを使用して）送信されるすべてのメールには、下部に購読解除リンクが追加されます。
 
 **ライブフィードの更新**
 
-「エンゲージメント」タブと「タスク」タブのルックアンドフィールが更新されて、セールスメンバーがライブフィードから直接顧客のアクティビティに簡単かつ迅速に対応できるようになりました。
+「エンゲージメント」タブと「タスク」タブの外観と操作性が更新され、セールスメンバーがライブフィードから直接顧客のアクティビティに簡単かつ迅速に対応できるようになりました。
 
 **担当者詳細ビューの更新**
 
-改善された担当者詳細表示（PDV）では、Tout と Salesforce CRM の取引先責任者詳細を統合し、取引先責任者の包括的な表示を提供します。
+改善された人物詳細ビュー（PDV）は、[!DNL Tout] と [!DNL Salesforce] CRM の連絡先の詳細を統合することで、連絡先の包括的な表示を提供します。

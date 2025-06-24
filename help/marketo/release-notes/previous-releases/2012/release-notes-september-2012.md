@@ -4,10 +4,10 @@ description: リリースノート - 2012年9月 - Marketo ドキュメント - 
 title: リリースノート - 2012年9月
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 100%
+source-wordcount: '302'
+ht-degree: 78%
 
 ---
 
@@ -33,19 +33,19 @@ ht-degree: 100%
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## ランディングページの Facebook への公開 {#publish-landing-pages-to-facebook}
+## [!DNL Facebook] へのランディングページの公開 {#publish-landing-pages-to-facebook}
 
-ソーシャルアプリ、フォーム、Marketo のランディングページの機能をすべて備えたソーシャルアプリケーションを使用して Facebook に直接公開することで、ランディングページのリーチを拡大します。
+ソーシャルアプリ、フォーム、Marketoのランディングページのすべての機能を使用して、[!DNL Facebook] に直接公開することで、ランディングページのリーチを広げます。
 
-## ReadyTalk イベントアダプター {#readytalk-event-adapter}
+## [!DNL ReadyTalk] イベント アダプタ {#readytalk-event-adapter}
 
-Marketo イベントを ReadyTalk ミーティングにシームレスに接続できます。Marketo フォームを使用して登録者を取り込み、ReadyTalk に自動的に登録します。双方向同期を使用すると、Marketo に出席情報を入力できます。
+Marketo イベントを [!DNL ReadyTalk] の会議にシームレスに接続します。 Marketo フォームを使用して登録者を取得し、[!DNL ReadyTalk] に自動登録します。 双方向同期を使用すると、Marketo に出席情報を入力できます。
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
-## Microsoft Dynamics オンプレミス {#microsoft-dynamics-on-premise}
+## Microsoft [!DNL Dynamics] オンプレミス {#microsoft-dynamics-on-premise}
 
-Microsoft Dynamics 2011 オンプレミスとインターネットに接続する展開がサポートされるようになりました。
+インターネットに接続するデプロイメントで、Microsoft [!DNL Dynamics] 2011 オンプレミスをサポートするようになりました。
 
 ## Webhooks（アイデアスペース） {#webhooks-treasure-chest}
 

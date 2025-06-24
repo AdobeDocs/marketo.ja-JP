@@ -4,10 +4,10 @@ description: リリースノート - 2014年10月 - Marketo ドキュメント -
 title: リリースノート - 2014年10月
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
-source-wordcount: '271'
-ht-degree: 100%
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+workflow-type: tm+mt
+source-wordcount: '256'
+ht-degree: 75%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
-## 新規 ReST API 呼び出し {#new-rest-api-calls}
+## 新規REST APIコール {#new-rest-api-calls}
 
 API を使用して、リードへの新しいアクティビティや変更を抽出します。
 
@@ -32,23 +32,23 @@ API を使用して、リードへの新しいアクティビティや変更を�
 
 詳細は、リリース後に [https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api) で確認できます。
 
-## MSI - Microsoft Dynamics への Marketo メールの送信 {#msi-send-marketo-email-for-microsoft-dynamics}
+## MSI - [!DNL Microsoft Dynamics] 用のMarketo メールの送信 {#msi-send-marketo-email-for-microsoft-dynamics}
 
-Microsoft Dynamics から[リードと連絡先にセールスメールを送信し、トラックします。](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md)
+[ 営業メールの送信とトラッキング ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) を [!DNL Microsoft Dynamics] のリードおよび連絡先に送信します。
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI - Microsoft Dynamics の Marketo キャンペーンに追加 {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
+## MSI - [!DNL Microsoft Dynamics] のMarketo キャンペーンに追加 {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-Microsoft Dynamics 内から直接 [Marketo スマートキャンペーンにリードと連絡先を追加します](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)。マーケティングでは、セールスが使用可能な Marketo キャンペーンを選択できます。
+[Marketo スマートキャンペーンにリードや連絡先を [!DNL Microsoft Dynamics] 内から直接 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) 追加できます。 マーケティングでは、セールスが使用可能な Marketo キャンペーンを選択できます。
 
-## Microsoft Dynamics Sync のカスタムエンティティサポート {#custom-entity-support-for-microsoft-dynamics-sync}
+## [!DNL Microsoft Dynamics] 同期のカスタムエンティティのサポート {#custom-entity-support-for-microsoft-dynamics-sync}
 
-スマートリスト、スマートキャンペーン、プログラムでのフィルタリングとトリガーに、Microsoft Dynamics の[カスタムオブジェクトデータを使用します](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)。
+スマートリスト、スマートキャンペーン、プログラムな [!DNL Microsoft Dynamics] でのフィルタリングとトリガーに使用できる [ カスタムオブジェクトデータの使用 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)。
 
-## Microsoft Dynamics Sync の株主サポート {#shareholder-support-for-microsoft-dynamics-sync}
+## [!DNL Microsoft Dynamics] Sync の株主サポート {#shareholder-support-for-microsoft-dynamics-sync}
 
-Dynamics から商談の株主データを同期します。また、「プライマリアカウント」フィールドを使用してアカウントに接続された商談と、「プライマリ連絡先」同期を使用して連絡を取る商談もサポートされます。
+[!DNL Dynamics] からのオポチュニティ株主データを同期します。 また、「プライマリアカウント」フィールドを使用してアカウントに接続された商談と、「プライマリ連絡先」同期を使用して連絡を取る商談もサポートされます。
 
 ## RTP - ダッシュボードの機能強化 {#rtp-dashboard-enhancements}
 

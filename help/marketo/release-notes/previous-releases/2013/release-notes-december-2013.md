@@ -4,10 +4,10 @@ description: リリースノート - 2013年12月 - Marketo ドキュメント -
 title: リリースノート - 2013年12月
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 100%
+source-wordcount: '310'
+ht-degree: 84%
 
 ---
 
@@ -35,14 +35,14 @@ ht-degree: 100%
 
 [チャンピオン／挑戦者テスト](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)は A/B テストに似ていますが、トリガーメールに使用され、勝者を自動的に送信しないという点が異なります。このテストでは、チャンピオンと呼ばれる確立された方法に対して、挑戦者を導入することでチャンピオンがまだ最適な方法かどうかをテストします。さらに、チャンピオン／挑戦者メールテストは、エンゲージメントプログラムストリーム内で使用できます。
 
-## メールのリード詳細分析 {#lead-details-in-email-analysis}
+## [!UICONTROL  メール分析 ] のリード詳細 {#lead-details-in-email-analysis}
 
-メール分析に、追加のリード属性と会社属性を導入しました。業種やリードソースなどの新しい属性別にメール統計をグループ化して表示できるようになりました。
+[!UICONTROL  メール分析 ] に、追加のリード属性と会社属性を導入しました。 [!UICONTROL  業界 ]、[!UICONTROL  リードSource] などの新しい属性別にグループ化されたメール統計を表示できるようになりました。
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 
 ![](assets/image2014-9-22-17-3a21-3a18.png)
 
-## BrightTALK イベントアダプターの機能強化 {#enhanced-brighttalk-event-adapter}
+## 拡張 [!DNL BrightTALK] イベントアダプタ {#enhanced-brighttalk-event-adapter}
 
-BrightTALK チャネルやイベントから Marketo へ登録者を抽出できます。この情報を使用して、他のマーケティングキャンペーンに通知できます。
+これで、[!DNL BrightTALK] チャンネルとイベントから登録者をMarketoに取り込むことができます。 この情報を使用して、他のマーケティングキャンペーンに通知できます。

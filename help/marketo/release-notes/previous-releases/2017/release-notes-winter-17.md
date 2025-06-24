@@ -3,11 +3,10 @@ unique-page-id: 12255606
 description: リリースノート - 17年冬 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 17年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 100%
+ht-degree: 71%
 
 ---
 
@@ -27,7 +26,7 @@ ht-degree: 100%
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [カスタムオブジェクト読み込み API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
+## [カスタムオブジェクト読み込み API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
 この API は、カスタムオブジェクトを Marketo に同期する高速なインターフェイスを提供します。CSV、TSV または SSV スプレッドシートファイルは、カスタムオブジェクトとして Marketo に読み込むことができます。
 
@@ -39,7 +38,7 @@ ht-degree: 100%
 
 ## 多言語化対応 {#localization}
 
-ウェブパーソナライズ、予測コンテンツ、メールインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。[言語とロケールを選択](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)して、これらの言語でコンテンツを表示します。
+Web Personalization、[!UICONTROL  予測コンテンツ ] およびメールインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。 [言語とロケールを選択](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)して、これらの言語でコンテンツを表示します。
 
 ![](assets/japanese-web-personalization.png)
 
@@ -47,33 +46,33 @@ ht-degree: 100%
 
 **[重点顧客のインポート](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
-「重点顧客のインポート」オプションを使用する場合、CSV アップロードを使用して複数のレコードを一度に作成または更新します。
+[!UICONTROL  指定アカウント ] 読み込みオプションを使用し、CSV アップロードで一度に複数のレコードを作成または更新します。
 
 ![](assets/inatwo.png)
 
 **[メールインサイトのサポート](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
 
-メールインサイトのディメンションとして重点顧客または顧客リストを使用します。
+メールインサイトのディメンションとして [!UICONTROL  名前付きアカウント ] または [!UICONTROL  アカウントリスト ] を使用します。
 
 ![](assets/ei.png)
 
-## 予測コンテンツの強化 {#predictive-content-enhancements}
+## [!UICONTROL  予測コンテンツ ] 機能の強化 {#predictive-content-enhancements}
 
-**[有効なソースでフィルタリング](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[有効なSource[!UICONTROL  でフィルタリング]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-メール、リッチメディアまたはレコメンデーションバーで有効化されている、予測コンテンツの要素をフィルタリングします。
+[!UICONTROL  メール ]、[!UICONTROL  リッチメディア ] または [!UICONTROL  レコメンデーションバー [!UICONTROL  に対して有効な ] 予測コンテンツ ] をフィルタリングします。
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[ソース別に分析をフィルタリング](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[フィルター [!UICONTROL Sourceによる Analytics]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-特定のソース（メール、リッチメディア、レコメンデーションバー）に対する予測コンテンツ分析をフィルタリングします。
+特定のソース（[!UICONTROL  メール ]、[!UICONTROL  リッチメディア ]、または [!UICONTROL  レコメンデーションバー ] に対するフィルター [!UICONTROL  予測コンテンツ ] 分析。
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**予測コンテンツエディター**
+**[!UICONTROL 予測コンテンツ ] エディター**
 
-編集エクスペリエンスとレイアウトが向上し、ソース別（メール、リッチメディア、レコメンデーションバー）にコンテンツの準備を分割できるようになりました。
+編集エクスペリエンスとレイアウトが改善され、ソース（[!UICONTROL  メール ]、[!UICONTROL  リッチメディア ]、[!UICONTROL  レコメンデーションバー ] によってコンテンツの準備が分割されます。
 
 ![](assets/predictive-content-editor.png)
 
@@ -81,11 +80,11 @@ ht-degree: 100%
 
 コンテンツの自動検出プロセスで、画像 URL とメタデータが使用されるようになりました。
 
-## [SDK の強化](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [SDK の強化](https://developers.marketo.com/mobile/) {#sdk-enhancements}
 
 開発者は、新しい SDK API 呼び出しを追加して、プッシュ通知の配信を制御できるようになりました。これにより、開発者はプッシュトークンを削除することができます。
 
-## [Vibes SMS LaunchPoint の統合](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
+## Vibes SMS LaunchPoint の統合
 
 新しいフィルターオプション「Vibes リストのメンバー」でターゲティングを強化します。
 

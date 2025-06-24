@@ -4,10 +4,10 @@ description: リリースノート - 2014年5月 - Marketo ドキュメント - 
 title: リリースノート - 2014年5月
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '465'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -57,13 +57,13 @@ ht-degree: 100%
 
 メール内でのリンクの動作を事前に確認します。サンプルメールに、リードに対して表示されるリンクが正確に表示されるようになりました。トラッキングリンクに変換されたリンクをプレビューし、受信者に対する実際のメッセージ表示をより詳しく把握できます。
 
-## キャンペーンの中止 {#abort-campaign}
+## [!UICONTROL キャンペーンの中止] {#abort-campaign}
 
 パニックを起こす必要はありません。間違いが見つかった場合は、新しい「[キャンペーンの中止](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)」ボタンを使用して、キャンペーンのトラックを直ちに停止します。キャンペーンを停止したときに、各フローステップで保留中のリード数を示す通知が届きます。
 
-## 日本語、ポルトガル語、スペイン語の Sales Insight {#sales-insight-in-japanese-portuguese-and-spanish}
+## 日本語、ポルトガル語、スペイン語での [!UICONTROL Insightの販売 ] {#sales-insight-in-japanese-portuguese-and-spanish}
 
-日本語、ポルトガル語およびスペイン語を母語とする販売員が希望の言語で Sales Insight を表示できるように、AppExchange から最新の Sales Insight をダウンロードします。
+AppExchangeから最新の [!UICONTROL Sales Insight] をダウンロードして、日本語、ポルトガル語、スペイン語を話す販売担当者が優先言語で [!UICONTROL Sales Insight] のコンテンツを閲覧できるようにします。
 
 ![](assets/image2014-9-22-12-3a2-3a12.png)
 
@@ -71,9 +71,9 @@ ht-degree: 100%
 
 [各プログラムステータスに含まれるメンバー](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)の数、各ステータスに変更された日時（プログラム成功に到達した日付など）を表示します。
 
-## メール分析での A/B テストメール {#a-b-test-emails-in-email-analysis}
+## [!UICONTROL  メール分析 ] での A/B テストメール {#a-b-test-emails-in-email-analysis}
 
-メール分析で、[A/B テストメールの各バリエーション](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)に関するレポートを作成します。
+[!UICONTROL Email Analysis] で [A/B テスト用の各 E メールのバリアント ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) ついてレポートします。
 
 ## 分析パッケージの変更点 {#analytics-packaging-changes}
 

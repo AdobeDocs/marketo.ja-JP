@@ -4,10 +4,10 @@ description: リリースノート - 2015年3月 - Marketo ドキュメント - 
 title: リリースノート - 2015年3月
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
-source-wordcount: '301'
-ht-degree: 100%
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+workflow-type: tm+mt
+source-wordcount: '291'
+ht-degree: 74%
 
 ---
 
@@ -21,19 +21,19 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->この機能は、Spark エディションと Standard エディションでは使用できません。
+>この機能は、Spark と [!DNL Standard] のエディションでは使用できません。
 
 ![](assets/image2015-3-23-11-3a39-3a15.png)
 
-## Google Adwords 統合 {#google-adwords-integration}
+## [!DNL Google Adwords] 統合 {#google-adwords-integration}
 
-[Google AdWords のアカウントを Marketo とリンク](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)すると、オフラインのコンバージョンデータが Marketo から GoogleAdWords に自動的にアップロードされます。これが完了すれば、AdWords UI を使って、どのクリックが資格を満たすリード、商談、新規顧客（あるいはトラックする売上高ステージ）につながったかを簡単に確認できるようになります。
+[[!DNL Google AdWords]  アカウントをMarketoにリンク ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) して、オフラインのコンバージョンデータをMarketoから [!DNL Google AdWords] に自動的にアップロードします。 その後、[!DNL AdWords] UI から、どのクリックが適格なリード、商談、新規顧客（または追跡したい収益段階）につながったかを簡単に確認できます。
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
-## 売上高エクスプローラーのデザイン変更 {#revenue-explorer-redesign}
+## [!UICONTROL  売上高エクスプローラー ] 再設計 {#revenue-explorer-redesign}
 
-売上高エクスプローラーがルック＆フィールを一新し、さらに新たなサンバーストグラフタイプを採用しました。このアップデートは 4 月頭から 2 週間にわたり展開されます。
+[!UICONTROL Revenue Explorer] のルックアンドフィールは新しく、Sunburst チャートのタイプも新しくなりました。 このアップデートは 4 月頭から 2 週間にわたり展開されます。
 
 ## 新しいアセット REST API {#new-asset-rest-apis}
 
@@ -41,7 +41,7 @@ ht-degree: 100%
 
 [API による](https://developer.adobe.com/marketo-apis/api/asset/)メールやテンプレート、マイトークン、ファイル、スニペットの作成および編集のサポートを追加しました。
 
-## Microsoft Dynamics 2015 オンプレミス {#microsoft-dynamics-on-premise}
+## [!DNL Microsoft Dynamics] 2015 オンプレミス {#microsoft-dynamics-on-premise}
 
 [アプリケーションからアクセス可能](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)な最新のインストーラーでサポートされます。
 

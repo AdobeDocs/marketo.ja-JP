@@ -4,10 +4,10 @@ description: リリースノート - 2020 年 7 月 - Marketo ドキュメント
 title: リリースノート - 2020 年 7 月
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '659'
-ht-degree: 100%
+source-wordcount: '629'
+ht-degree: 76%
 
 ---
 
@@ -45,13 +45,13 @@ ht-degree: 100%
 
 * **Asset API URI サイズ上限の引き上げ**：「_method」パラメーターの削除に先立ち、URI のサイズ制限を 8 KB から 65 KB に引き上げます。長いクエリ文字列を実行する際に、このサイズ制限を増やすことでデータの受け渡しがより容易になります。「_method」パラメーターの削除は、今後のセキュリティアップグレードの一環として行われます。
 
-## Sales Insight {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
-![（星）](assets/yellow-star.png)
+![（星印）](assets/yellow-star.png)
 
-* **[CRM コネクタを使用しない Salesforce CRM 連携での Sales Insight の有効化](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)（クローズドベータ版）**：CRM コネクタを使用しないで Salesforce CRM と連携させている Marketo Engage のお客様も Sales Insight を使用することが可能になります。
+* **[[!DNL Sales Insight]  [!DNL Salesforce]  非ネイティブ CRM 統合のお客様に対して有効化 ](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) （Beta）**: ネイティブ [!DNL Salesforce] CRM 統合のないMarketo Engageのお客様は、[!DNL Sales Insight] を使用して、最も関与したリードや商談をセールスチームが理解、優先順位付けし、やり取りすることで、スマートな販売とより迅速な取引を可能にできるようになりました。
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![（星）](assets/yellow-star.png)
 
@@ -62,7 +62,7 @@ ht-degree: 100%
 ## 告知情報＆廃止予定機能 {#announcements-deprecations}
 
 * **Asset API「_method」パラメーターの削除**：2020 年 9 月以降、Asset API エンドポイントは、URI 長制限を回避するための POST ボディ内のクエリパラメーターを渡す方法として「_method」パラメーターを受け付けなくなります。このパラメーターを必要とするリクエストに対応するため、Asset API の URI 制限が 8 KB から 65 KB に引き上げられます。
-* **[Munchkin Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**：このリリースの Munchkin JavaScript Client のバージョン 159 から、Munchkin Associate Lead メソッドのサポートを廃止し始めます。メソッドを呼び出すと、今後のリリースでメソッドが削除されることを示す警告が表示されます。削除すると、メソッドは機能しなくなり、使用しようとしても失敗します。Marketo Engage のお客様で、最近この方法を利用した場合、利用内容が個別に通知されます。
-* **Internet Explorer のサポート**：既にお知らせした通り、Marketo Engage の Internet Explorer 11 のサポートは **2020 年 7 月 31 日**（PT）で終了しました。Google Chrome、Mozilla Firefox、Apple Safari、Microsoft Edge のサポートは今後も継続していきます
-* **Sky デフォルト UX オプション**：今回のリリースでは、今後行われるメイン UX のアップデートに備えて、管理者やユーザーが Marketo Sky をデフォルト UX として設定するオプションが削除されます。今年後半に予定されているメイン UX のアップデートの詳細は、7 月以降に公開される予定です。Marketo Sky をデフォルトのエクスペリエンスとして設定したユーザーや、Marketo Sky へのアクセス権を付与されたユーザーは、引き続き、マイ Marketo ホームページのタイルから Marketo Sky にアクセスできます。
-* **EdgeHTML（Chromium 以外）Microsoft Edge のサポート**：Marketo Engage は、2020 年末に Microsoft Edge の EdgeHTML バージョンをサポートしなくなります。2021 年 1 月 1 日（PT）からは、Microsoft Edge の Chromium 最新版のみをサポートします。
+* **[[!DNL Munchkin] リードを関連付け ](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**:Munchkin JavaScript クライアントのバージョン 159 のこのリリースでは、[!DNL Munchkin] リードを関連付けメソッドの廃止が開始されます。 メソッドを呼び出すと、今後のリリースでメソッドが削除されることを示す警告が表示されます。削除すると、メソッドは機能しなくなり、使用しようとしても失敗します。Marketo Engage のお客様で、最近この方法を利用した場合、利用内容が個別に通知されます。
+* **Internet Explorer のサポート**：既にお知らせした通り、Marketo Engage の Internet Explorer 11 のサポートは **2020 年 7 月 31 日**（PT）で終了しました。引き続き [!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL  Apple Safari]、[!DNL Microsoft Edge] を支援していきます。
+* **Sky のデフォルトエクスペリエンス**：管理者またはユーザーが [!DNL Marketo Sky] をデフォルトエクスペリエンスとして設定するオプションは、プライマリユーザーエクスペリエンスの更新に備えて、このリリースで削除されます。 今年後半に予定されているメイン UX のアップデートの詳細は、7 月以降に公開される予定です。デフォルトのエクスペリエンスとして [!DNL Marketo Sky] を設定したユーザー、または [!DNL Marketo Sky] へのアクセス権を付与されたユーザーは、引き続きマイMarketo ホームページのタイルから [!DNL Marketo Sky] にアクセスできます。
+* **EdgeHTML （Chromium 以外）の [!DNL Microsoft Edge] サポート**:Marketo Engageは、2020 年末をもってMicrosoft Edgeの EdgeHTML バージョンをサポートしなくなります。 2021 年 1 月 1 日（PT）からは、Microsoft Edge の Chromium 最新版のみをサポートします。

@@ -4,10 +4,10 @@ description: リリースノート - 2012年1月／2月 - Marketo ドキュメ�
 title: リリースノート - 2012年1月／2月
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '441'
-ht-degree: 100%
+source-wordcount: '432'
+ht-degree: 97%
 
 ---
 
@@ -69,10 +69,10 @@ HTML とテキストビューを並べて表示
 
 ## サポート対象ブラウザー {#browser-support}
 
-* Mozilla Firefox 9.0
-* Google Chrome 16
-* Microsoft Internet Explorer 8 および 9
-* **注意**：Internet Explorer 7 のサポートを終了しました
+* [!DNL Mozilla Firefox] 9.0
+* [!DNL Google Chrome] 16
+* [!DNL Microsoft Internet Explorer] 8 &amp; 9
+* **メモ**:[!DNL Internet Explorer] 7 はサポートされなくなりました
 
 ## プログラム管理 {#program-management}
 

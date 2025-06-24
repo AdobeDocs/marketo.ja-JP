@@ -3,11 +3,10 @@ unique-page-id: 11384018
 description: リリースノート - 2016年秋 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2016年秋
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
-source-wordcount: '661'
-ht-degree: 100%
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+workflow-type: tm+mt
+source-wordcount: '651'
+ht-degree: 83%
 
 ---
 
@@ -15,9 +14,9 @@ ht-degree: 100%
 
 16年秋リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。
 
-## メール用予測コンテンツ {#predictive-content-in-email}
+## メール内の [!UICONTROL  予測コンテンツ ] {#predictive-content-in-email}
 
-予測コンテンツアプリケーションでは、web チャネルやメールチャネルにわたる機械学習や予測アルゴリズムを通じて、コンテンツを追跡、管理、提案する新しいユーザエクスペリエンスが提供されます。
+Web チャネルとメールチャネルにまたがる機械学習と予測アルゴリズムを通じて、コンテンツを追跡、管理、推奨する [!UICONTROL  予測コンテンツ ] アプリケーションに新しいユーザーエクスペリエンスがあります。
 
 >[!NOTE]
 >
@@ -31,7 +30,7 @@ ht-degree: 100%
 
 ## [Facebook オフラインコンバージョン](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-Facebook オフラインコンバージョン統合では、Marketo（リード広告リード用）のコンバージョンデータが Facebook に自動的に送り返されるので、広告チームが広告費用をより最適化できます。この Facebook Ad Manager レポートでは、オフラインのコンバージョンが強調表示されます。
+オフラインコンバージョン [!DNL Facebook] 統合すると、Marketo（リード広告リード向け）のコンバージョンデータが [!DNL Facebook] に自動的に送り返され、広告チームが広告費用を最適化できるようになります。 この [!DNL Facebook] Ad Manager レポートでは、オフラインコンバージョンがハイライト表示されています。
 
 ![](assets/facebook.png)
 
@@ -47,19 +46,20 @@ Facebook オフラインコンバージョン統合では、Marketo（リード�
 
 ## Marketo アカウントベースドマーケティングの強化 {#marketo-account-based-marketing-enhancements}
 
-アカウント所有者、営業開発担当者、事業開発担当者、アカウントマネージャーなど、アカウントチームをアカウントベースドマーケティング（ABM）の重点顧客に割り当てることができるようになりました。また、アカウント所有者固有のアカウントリストを作成し、パーソナライズされた週別の ABM レポートをアカウントチームに送信することもできます。
+アカウント所有者、営業開発担当者、事業開発担当者、顧客サクセスマネージャーなど、アカウントチームをアカウントベースドマーケティング（ABM）の重点顧客に割り当てることができるようになりました。また、アカウント所有者固有のアカウントリストを作成し、パーソナライズされた週別の ABM レポートをアカウントチームに送信することもできます。
 
 ![](assets/account-team-11-15-16.png)
 
 **REST API**
 
-また、このリリースでは、Marketo REST API を使用して、ABM で重点顧客属性とアカウントスコアを管理することもできます。API 操作の詳細については、[Marketo 開発者 web サイト](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/named-accounts)にアクセスしてください。
+また、このリリースでは、Marketo REST API を使用して、ABM で重点顧客属性とアカウントスコアを管理することもできます。API 操作の詳細については、[Marketo 開発者 web サイト](https://developers.marketo.com/rest-api/lead-database/named-accounts)にアクセスしてください。
 
-## [監査証跡の強化](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
+## [監査記録の強化](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
-監査証跡は、Marketo サブスクリプション内でおこなわれた変更の包括的な履歴を提供します。プログラムの追跡機能を追加し、スマートキャンペーン、スマートリスト、ユーザおよびロールに加えられた変更に関する重要な変更の詳細を提示する機能を追加しました。
+監査記録は、Marketo サブスクリプション内でおこなわれた変更の包括的な履歴を提供します。プログラムの追跡機能を追加し、スマートキャンペーン、スマートリスト、ユーザおよびロールに加えられた変更に関する重要な変更の詳細を提示する機能を追加しました。
 
-## [新しく追加された権限](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
+## 新しく追加された権限
+
 
 **メールをオペレーショナルメールにする**
 
@@ -82,16 +82,16 @@ Facebook オフラインコンバージョン統合では、Marketo（リード�
 
 ## [Salesforce 暗号化と互換性のある Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Marketo Sales Insight と Salesforce Shield 暗号化に互換性があるようになりました。Sales Insight を使用中の顧客は、[Appexchange で利用可能](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)な最新の管理パッケージ（バージョン 1.4359.2）にアップグレードする必要があります。
+Market [!DNL Sales Insight] は、[!DNL Salesforce] Shield 暗号化と互換性を持つようになりました。 すべてのお客様 [!DNL Sales Insight]、この最新の管理パッケージ（バージョン 1.4359.2）にアップグレードする必要があります。このパッケージは [ から入手できます  [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)。
 
-## [重点顧客 API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [重点顧客 API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
 このリリースでは、Marketo ABM ユーザは重点顧客 API を介して重点顧客を管理できます。重点顧客の作成、更新、削除、ABM 重点顧客スコアの読み取りと更新が可能です。
 
-## [メールエディター v2.0 API のサポート](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [メールエディター v2.0 API のサポート](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
 
 Marketo REST API を使用して、v2.0 形式のメールの変数とモジュールを管理します。
 
 ## [Marketo Salesforce 同期の変更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketo の Salesforce 統合は進化し、Marketo フィールドを Salesforce と同期する方法が改善されています。必要に応じて、大量のフィールドを同期する代わりに、含めるフィールドを選択して選択することができます。詳細は、[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840) でドキュメントをご覧ください。
+Marketoの [!DNL Salesforce] 統合は、Marketo フィールドと [!DNL Salesforce] の同期方法を改善するように進化しています。 必要に応じて、大量のフィールドを同期する代わりに、含めるフィールドを選択して選択することができます。詳細は、[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840) でドキュメントをご覧ください。

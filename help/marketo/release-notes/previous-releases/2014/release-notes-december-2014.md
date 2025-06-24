@@ -4,10 +4,10 @@ description: リリースノート - 2014年12月 - Marketo ドキュメント -
 title: リリースノート - 2014年12月
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
-source-wordcount: '477'
-ht-degree: 100%
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+workflow-type: tm+mt
+source-wordcount: '461'
+ht-degree: 71%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 100%
 
 2014年12月リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
 
-## Sales Insight レポート {#sales-insight-reports}
+## [!DNL Sales Insight] Reports {#sales-insight-reports}
 
-[Sales Insight のメール効果レポート](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)では、メールおよびセールス担当者別にメール指標を確認できます。Salesforce、Microsoft Dynamics、Outlook プラグイン、Gmail プラグインを使用して送信されるメールをサポートします。
+[[!DNL Sales Insight]  メールのパフォーマンス・レポート ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) を使用すると、メールおよび営業担当者別にメールのメトリックを確認できます。 [!DNL Salesforce]、[!DNL Microsoft Dynamics]、[!DNL Outlook] プラグインおよび [!DNL Gmail] プラグインを通じて送信されるメールをサポートします。
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Facebook カスタムオーディエンス {#facebook-custom-audiences}
+## [!DNL Facebook] カスタムオーディエンス {#facebook-custom-audiences}
 
-Marketo 管理者が、[管理／Launchpoint で Facebook](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) を追加したら、[Facebook カスタムオーディエンスを Marketo の静的またはスマートリストのリードで簡単に作成、更新、または置き換えることができます](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。静的またはスマートリストのリードグリッドの下部にある新しい Facebook アイコンを探します。
+Marketo管理者が [[!DNL Facebook] [!UICONTROL Admin]/[!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) を使用して [ 追加すると、カスタムオーディエンスの作成、更新またはMarketoの静的またはスマートリストのリードとの置き換え  [!DNL Facebook] ](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) を簡単に行えます。 静的リストまたはスマートリストのリードグリッドの下部にある新しい [!DNL Facebook] アイコンを探します。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -55,9 +55,9 @@ UTF-16、Shift-JIS、EUC-JP でエンコードされた[ファイルをインポ
 
 自動 HTML エンコードトークンに対する新しいセキュリティ機能をロールアウトしました。これは 2015年3月にデフォルトで有効になります。それまでは、フィールド管理でこの機能を切り替えて、事前に動作をテストします。リードと会社のトークンはすべて、メールやランディングページに挿入するときにエンコードされます。個々のフィールドに対してもオプションが使用できます。
 
-## 新規 ReST API 呼び出し {#new-rest-api-calls}
+## 新規REST APIコール {#new-rest-api-calls}
 
-リードおよびアクティビティ ReST API の 3 つの新しい呼び出し：
+リードおよびアクティビティ REST API の 3 つの新しい呼び出し：
 
  リードパーティションの取得
 
@@ -67,13 +67,13 @@ UTF-16、Shift-JIS、EUC-JP でエンコードされた[ファイルをインポ
 
 詳細は、リリース後に [https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/home) で確認できます
 
-## Munchkin JavaScript の互換性強化 {#munchkin-javascript-compatibility-enhancements}
+## [!DNL Munchkin Javascript] 互換性の強化 {#munchkin-javascript-compatibility-enhancements}
 
-Munchkin に対して、ページ上の他の JavaScript を使用した場合に、引き続き素早く読み込み、必要に応じて機能するように、小規模な機能強化をいくつか行いました。
+ページ上の他のJavaScriptで引き続きすばやく読み込み、必要に応じて機能するように、[!DNL Munchkin] にいくつかの小さな機能強化を行いました。
 
 ロールアウトは 12 月中旬に開始し、今後数か月間続きます。
 
-## 売上高エクスプローラーのアップグレードされたルックアンドフィール {#revenue-explorer-upgraded-look-and-feel}
+## [!UICONTROL Revenue Explorer] アップグレードされたルックアンドフィール {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -83,7 +83,7 @@ Munchkin に対して、ページ上の他の JavaScript を使用した場合�
 
 ## RTP：アカウントリストモジュール {#rtp-named-account-list-module}
 
-新しい重点顧客ページで、利益率の高い主要なアカウントを管理およびモニターします。これらの組織を特定し、ターゲティングするには、アカウントリストをアップロードします。アカウントベースのマーケティングプランを実装し、様々なチャネル（web および広告）をまたいで主要アカウントをターゲティングする、より高い制御性と柔軟性を提供するプロセスを自動化しました。
+新しい [!UICONTROL  重点顧客 ] ページで、主要高利回り顧客を管理および監視します。 これらの組織を特定し、ターゲティングするには、アカウントリストをアップロードします。アカウントベースのマーケティングプランを実装し、様々なチャネル（web および広告）をまたいで主要アカウントをターゲティングする、より高い制御性と柔軟性を提供するプロセスを自動化しました。
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 

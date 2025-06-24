@@ -4,10 +4,10 @@ description: リリースノート - 2012年10月 - Marketo ドキュメント -
 title: リリースノート - 2012年10月
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 100%
+source-wordcount: '352'
+ht-degree: 78%
 
 ---
 
@@ -47,14 +47,14 @@ ht-degree: 100%
 
 ## ソーシャルプロファイル {#social-profiles}
 
-リードがコンテンツを共有したり、ソーシャルプロファイルを使用してフォームに入力したりするときに、リードに関する情報を収集できるようになりました。これには、Facebook、LinkedIn、Twitter のハンドル名、友達の数などが含まれます。
+リードがコンテンツを共有したり、ソーシャルプロファイルを使用してフォームに入力したりするときに、リードに関する情報を収集できるようになりました。これには、[!DNL Facebook]、[!DNL LinkedIn]、[!DNL Twitter] のハンドル、友人の数などが含まれます。
 
-## 売上高エクスプローラーレポートのサブスクリプション {#revenue-explorer-report-subscriptions}
+## [!UICONTROL  売上高エクスプローラー ] レポートの購読 {#revenue-explorer-report-subscriptions}
 
-レポートのサブスクリプションを作成し、Marketo 以外のユーザーを含む主要な関係者に定期的に売上高エクスプローラーレポートを送信します。このメールには、レポートデータの表またはグラフのプレビューと、すべてのレポートデータを含む Excel スプレッドシートが含まれます。
+レポートのサブスクリプションを作成し、Marketo以外のユーザーを含む主要な関係者に、定期的に [!UICONTROL  売上高エクスプローラー ] レポートを送信します。 このメールには、レポートデータテーブルまたはグラフのプレビューと、すべてのレポートデータを含む [!DNL Excel] スプレッドシートが含まれています。
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
 >[!NOTE]
 >
->Enterprise または Select Edition を使用して売上高サイクル分析を購入された、売上高エクスプローラーを所有するユーザーのみが利用できます。
+>Enterprise または Select Edition で Revenue Cycle Analytics を購入することにより、[!UICONTROL Revenue Explorer] を持つユーザーのみが利用できます。

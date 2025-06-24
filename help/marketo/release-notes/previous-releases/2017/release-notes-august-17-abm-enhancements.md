@@ -4,10 +4,10 @@ description: リリースノート - 2017年8月18日 ABM の機能強化 - Mark
 title: リリースノート - ABM の機能強化（2017年8月18日）
 exl-id: 3ba6319a-c5a3-4623-8d8e-0b246b29f17e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 100%
+source-wordcount: '197'
+ht-degree: 87%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 100%
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。
 
-## 顧客インサイト {#account-insight}
+## [!DNL Account Insight] {#account-insight}
 
-**[アカウントインサイト](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)**&#x200B;は、実用的な ABM とアカウントのインサイトをセールスチームに提供する Google Chrome プラグインです。セールスチームはこのインサイトを活用し、マーケティングと緊密に連携して効果的にアカウントと関わることができます。セールスチームは、自分たちの重点顧客ごとに生成されたデータとインサイトを表示できます。これには、アカウントスコアのパーセンタイル、重点顧客の優先度リスト、アカウント内の関係者、およびアカウントからの最近のアクティビティのライブアクティビティストリームが含まれます。
+**[[!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** は、実用的な ABM とアカウントインサイトをセールスチームに提供する [!DNL Google Chrome] プラグインで、マーケティングチームと緊密に連携してアカウントを効果的に関与させることができます。 セールスチームは、自分たちの重点顧客ごとに生成されたデータとインサイトを表示できます。これには、アカウントスコアのパーセンタイル、重点顧客の優先度リスト、アカウント内の関係者、およびアカウントからの最近のアクティビティのライブアクティビティストリームが含まれます。
 
 ![](assets/image001.png) ![](assets/image002.png)
 

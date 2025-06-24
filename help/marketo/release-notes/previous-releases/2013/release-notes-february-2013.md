@@ -4,32 +4,32 @@ description: リリースノート - 2013年2月 - Marketo ドキュメント - 
 title: リリースノート - 2013年2月
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 100%
+source-wordcount: '252'
+ht-degree: 46%
 
 ---
 
 # リリースノート：2013年2月 {#release-notes-february}
 
-2月のリリースには、要望が多かった機能、Apple Safari のサポートおよびその他の小規模な機能強化が含まれています。
+2 月のリリースには、強い要望がある機能や、[!DNL Apple Safari] のサポート、その他の小規模な機能強化が含まれています。
 
-## Apple Safari に対する正式なサポート {#official-support-for-apple-safari}
+## [!DNL Apple Safari] の公式サポート {#official-support-for-apple-safari}
 
-Mac 版 Apple Safari および Windows 版の最新バージョンでは、Marketo リード管理での使用が完全にサポートされています。注釈：iOS 上の Safari は完全には互換していません。
+Macおよび [!DNL Windows] 用の [!DNL Apple Safari] の最新バージョンは、Marketo Lead Management での使用が完全にサポートされています。 メモ：iOSの [!DNL Safari] は完全な互換性はありません。
 
 ## Web フックの機能強化 {#webhooks-enhancements}
 
-Web フックは、URL／ペイロード内のトークンをエスケープするように拡張され、サードパーティシステムからの XML／JSON 応答を解析することで、Marketo リードフィールドを更新することもできます（Spark SMB エディションでは利用できません）。
+Webhook は、URL/ペイロード内のトークンをエスケープするように強化され、サードパーティシステムからの XML/JSON 応答を解析することでMarketoのリードフィールドを更新することもできます（[!DNL Spark SMB Edition] では利用できません）。
 
-## SOAP API エンドポイントの更新 {#updated-soap-api-endpoint}
+## 更新されたSOAP API エンドポイント {#updated-soap-api-endpoint}
 
-優先する SOAP API エンドポイントが更新されました（管理／SOAP API に表示されます）。この新しいエンドポイントを使用するには、呼び出しを更新してください。古いエンドポイントに対する API 呼び出しは非推奨ですが、引き続き機能します。（Spark SMB エディションでは SOAP API は使用できません）
+推奨のSOAP API エンドポイントが更新されました。このエンドポイントについては、[!UICONTROL  管理者 ]/SOAP API を参照してください。 この新しいエンドポイントを使用するには、呼び出しを更新してください。古いエンドポイントに対する API 呼び出しは非推奨ですが、引き続き機能します。（SOAP API は [!DNL Spark SMB Edition] では使用できません）
 
-## Facebook タブのモバイルサポート {#mobile-support-for-facebook-tabs}
+## [!DNL Facebook] タブのモバイルサポート {#mobile-support-for-facebook-tabs}
 
-Marketo から公開された Facebook タブは、モバイルデバイスを検出してランディングページにルーティングします。これにより、Facebook タブがサポートされていないモバイルデバイス（Spark、Standard、Select SMB エディションおよび Marketo ソーシャルマーケティングで利用可能）で適切なコンテンツをユーザーが取得できます。
+Marketoから公開された [!DNL Facebook] タブは、モバイルデバイスを検出し、ランディングページにルーティングします。 これにより、タブがサポートされていない（[!DNL Spark]、[!DNL Standard]、[!DNL Select SMB Editions] および [!DNL Marketo Social Marketing] で利用可能な）モバイルデバイスで [!DNL Facebook] ユーザーが適切なコンテンツを取得できるようになります。
 
 ## 準備中：複数モデルのサポート {#coming-soon-support-for-multiple-models}
 

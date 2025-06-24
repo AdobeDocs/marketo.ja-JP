@@ -4,10 +4,10 @@ description: 人物データの更新 - Marketo ドキュメント - 製品ド�
 title: 人物データの更新
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
-workflow-type: ht
-source-wordcount: '183'
-ht-degree: 100%
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+workflow-type: tm+mt
+source-wordcount: '181'
+ht-degree: 93%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 ## 更新する人物を検索する {#find-the-person-you-need-to-update}
 
-1. **[!UICONTROL データベース]**&#x200B;に移動します。
+1. [!UICONTROL データベース]に移動します。
 
    ![](assets/update-person-data-1.png)
 
@@ -66,6 +66,6 @@ ht-degree: 100%
 
 <br> 
 
-[◄ ミッション 8：セールス担当者にアラート](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄ Mission 8：セールス担当者への警告](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[ミッション 10：ランディングページのリダイレクト ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[ミッション 10：ランディングページ ► をリダイレクト](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

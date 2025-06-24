@@ -4,10 +4,10 @@ description: メールの自動応答 - Marketo ドキュメント - 製品ド�
 title: メールの自動応答
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 100%
+source-wordcount: '380'
+ht-degree: 93%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 ## 手順 1：メールを作成する {#step-create-an-email}
 
-1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
+1. [!UICONTROL マーケティングアクティビティ]領域に移動します。
 
    ![](assets/email-auto-response-1.png)
 
@@ -128,10 +128,8 @@ ht-degree: 100%
 
 ## ミッション完了 {#mission-complete}
 
-数分以内に、インボックスに自動応答のメールが表示されます。これで完了です。
+数分以内に、インボックスに自動応答メールが表示されます。
 
-<br> 
+[◄ ミッション 3：シンプルなスコアリング](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[◄ ミッション 3：単純スコア](/help/marketo/getting-started/quick-wins/simple-scoring.md)
-
-[ミッション 5：人物のリストのインポート ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[ミッション 5：人物 ► ースのリストをインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)

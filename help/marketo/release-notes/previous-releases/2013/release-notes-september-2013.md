@@ -4,10 +4,10 @@ description: リリースノート - 2013年9月 - Marketo ドキュメント - 
 title: リリースノート - 2013年9月
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 100%
+source-wordcount: '496'
+ht-degree: 71%
 
 ---
 
@@ -31,15 +31,15 @@ Marketo のカスタムオブジェクトのデータを使用するか、Veloci
 
 テストを送信アクションの名前を、サンプルを送信に変更しました。
 
-## パーソナライズされたサンプルメールの送信 {#personalized-send-sample-email}
+## パーソナライズ [!UICONTROL  サンプルメールの送信 ] {#personalized-send-sample-email}
 
 メールサンプルを送信するときに、リード名を選択してサンプルメールをパーソナライズすることができます。
 
 ![](assets/image2014-9-22-17-3a11-3a22.png)
 
-## GoToWebinar の追加フィールドの同期 {#additional-field-sync-for-gotowebinar}
+## [!DNL GoToWebinar] の追加フィールド同期 {#additional-field-sync-for-gotowebinar}
 
-Marketo フォームの会社名と役職を GoToWebinar に同期できます。これらの追加フィールドを有効にするには、イベントパートナーに移動し、「追加フィールドを有効にする」をオンにします。
+Marketo フォームから [!DNL GoToWebinar] に会社名と役職を同期できます。 これらの追加フィールドを有効にするには、イベントパートナーに移動し、「追加フィールドを有効にする」をオンにします。
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
@@ -53,13 +53,13 @@ Marketo ユーザーが通常のログイン画面ではなく、SSO のみを�
 
 ## 商談の影響アナライザーのエクスポート {#export-opportunity-influence-analyzer}
 
-商談の影響アナライザーのデータを Excel にエクスポートできるようになりました。エクスポートされた各 Excel ファイルには、すべてのリード（商談で役割を持たないリードを含む）のマーケティングインタラクションと、分析で選択したアカウントのすべての商談が含まれます。商談の行は緑色でハイライト表示されます。特定のリードやマーケティングアクティビティに集中する必要がある場合は、Excel のネイティブデータフィルタリング機能を使用できます。
+これで、Opportunity Influence Analyzer のデータを [!DNL Excel] にエクスポートできます。 書き出される各 [!DNL Excel] ファイルには、すべてのリード（オポチュニティに役割がないリードを含む）のすべてのマーケティングインタラクションと、アナライザーで選択したアカウントのすべてのオポチュニティが含まれます。 商談の行は緑色でハイライト表示されます。特定のリードやマーケティングアクティビティに焦点を当てる必要がある場合は、[!DNL Excel] のネイティブのデータフィルタリング機能を使用できます。
 
 ![](assets/image2014-9-22-17-3a12-3a23.png)
 
 ## プログラムの属性設定 {#program-attribution-settings}
 
-アカウントベースの属性付けを行う機能を含め、最初のタッチとマルチタッチの属性指標で、Marketo が連絡先と商談を連携する方法を変更できます。これらの設定は、プログラム商談分析領域および商談分析領域の売上高エクスプローラーレポートの属性指標に影響を与えます。また、プログラムアナライザーの属性指標にも影響します。
+アカウントベースの属性付けを行う機能を含め、最初のタッチとマルチタッチの属性指標で、Marketo が連絡先と商談を連携する方法を変更できます。これらの設定は、プログラム商談分析エリアと商談分析エリアの下にある [!UICONTROL  収益エクスプローラー ] レポートのアトリビューション指標に影響を与えます。 また、プログラムアナライザーの属性指標にも影響します。
 
 プログラムの属性設定は、3 つの選択肢の中から 1 つに変更できます。この設定を変更しても、Marketo または CRM データは変更されません。単にレポートの実行方法が変更され、いつでも元に戻すことができます。
 
@@ -67,9 +67,9 @@ Marketo ユーザーが通常のログイン画面ではなく、SSO のみを�
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## Sales Insight がフランス語およびドイツ語で利用可能（Salesforce のみ） {#sales-insight-available-in-french-and-german-salesforce-only}
+## [!UICONTROL Insightの販売 ] フランス語およびドイツ語で提供（[!DNL Salesforce] のみ） {#sales-insight-available-in-french-and-german-salesforce-only}
 
-フランス語およびドイツ語を母語とするセールスチームが希望の言語で Sales Insight のコンテンツを参照できるように、AppExchange から最新の Marketo リード管理と Marketo Sales Insight をダウンロードします。
+Marketo Lead Management とMarketo[!UICONTROL Sales Insight] の最新版を [!DNL AppExchange] からダウンロードして、フランス語とドイツ語の販売員が [!UICONTROL Sales Insight] のコンテンツを優先言語で閲覧できるようにします。
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 

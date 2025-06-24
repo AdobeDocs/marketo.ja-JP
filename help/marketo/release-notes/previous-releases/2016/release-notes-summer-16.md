@@ -3,11 +3,10 @@ unique-page-id: 11380218
 description: リリースノート - 2016 年夏 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2016 年夏
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
-source-wordcount: '783'
-ht-degree: 100%
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+workflow-type: tm+mt
+source-wordcount: '774'
+ht-degree: 89%
 
 ---
 
@@ -29,9 +28,9 @@ Marketo のアカウントベースドマーケティングは、1 つの統合�
 >
 >ABM は Marketo サブスクリプションのアドオンとして利用できるので、実装するには営業担当にお問い合わせください。
 
-## [監査証跡](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
+## [監査記録](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
-監査証跡は、Marketo サブスクリプション内でおこなわれた変更の包括的な履歴を提供します。これにより、ユーザーや管理者間で説明責任を作成し、予期しない行動の原因を特定し、誰がいつ何をしているかを知るセキュリティが確保されます。この情報は、いつでも使用可能で、次のような質問に回答するために使用できます。
+監査記録は、Marketo サブスクリプション内でおこなわれた変更の包括的な履歴を提供します。これにより、ユーザーや管理者間で説明責任を作成し、予期しない行動の原因を特定し、誰がいつ何をしているかを知るセキュリティが確保されます。この情報は、いつでも使用可能で、次のような質問に回答するために使用できます。
 
 * このアセットまたは設定に何が起きたか、最後に更新したのは誰か。
 * ユーザー X は何をしているのか。
@@ -39,13 +38,13 @@ Marketo のアカウントベースドマーケティングは、1 つの統合�
 
 ![](assets/audit-trail.png)
 
-## [Marketo-Vibes SMS LaunchPoint の統合](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## Marketoと Vibes の SMS LaunchPoint 統合
 
 Marketo 内で SMS メッセージを簡単に作成できます。リッチ Marketo データを使用してメッセージをパーソナライズおよびターゲット設定し、SMS メッセージダッシュボードを使用してパフォーマンスを簡単に監視します。
 
 >[!NOTE]
 >
->この機能を使用するには、既存の Vibes SMS アカウントが必要です。
+>この機能を使用するには、既存の [!DNL Vibes SMS] アカウントが必要です。
 
 ![](assets/vibes-sms2.png)
 
@@ -86,7 +85,7 @@ Marketo 内で SMS メッセージを簡単に作成できます。リッチ Mar
 
 ## [エンタープライズキー](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-Outlook 用の Sales Insight をインストールするようにセールスチームの各メンバーに要求するのは、面倒な場合があります。エンタープライズキーを使用して Outlook 用のプラグインをリモートでインストールする新しい方法が導入されました。管理者の Marketo Sales Insight セクションにある固有のキーを IT チームに送信し、残りの作業をおこなってもらいます。
+営業チームの各担当者に [!DNL Sales Insight] Plugin for [!DNL Outlook] をインストールしてもらうのは面倒な場合があります。 エンタープライズキーを使用して [!DNL Outlook] 用のプラグインをリモートでインストールする新しい方法を導入しました。 [!UICONTROL  管理者 ] の「Marketo [!DNL Sales Insight]」セクションにある一意のキーを IT チームに送信し、残りの作業は IT チームに任せます。
 
 ![](assets/enterprise-key.png)
 
@@ -100,16 +99,16 @@ Outlook 用の Sales Insight をインストールするようにセールスチ
 
 コンテンツ分析＆レコメンデーションデータをオンラインで表示.
 
-## [Email Editor 2.0 用の API サポート](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
+## [Email Editor 2.0 用の API サポート](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 以前は v1.0 のメールとテンプレートとのみ互換性があった、既存の Asset API が v2.0 のメールアセットで有効になりました。
 
-## [Marketo デベロッパーサイト](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Marketo デベロッパーサイト](https://developers.marketo.com/) {#marketo-developers-site}
 
 デベロッパーサイトをリニューアル
 
 ## [プライバシー設定](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-マーケターは、プライバシー設定を使用して、Munchkin とウェブパーソナライズ機能を使用して訪問者を追跡するかどうかを決定できます。トラッキングレベルは、ブラウザーの「Do Not Track」設定、オプトアウト Cookie、特定でない IP を使用して制御します。これらの方法は、特定の分野での Marketo の価値や機能に影響を与える可能性がありますが、マーケターが何も変更しない場合、Marketo の機能は変わりません。
+マーケターは、プライバシー設定を使用して、[!DNL Munchkin] および web Personalizationの機能を使用して訪問者をトラッキングするかどうかを決定できます。 トラッキングレベルは、ブラウザーの「Do Not Track」設定、オプトアウト Cookie、特定でない IP を使用して制御します。これらの方法は、特定の分野での Marketo の価値や機能に影響を与える可能性がありますが、マーケターが何も変更しない場合、Marketo の機能は変わりません。
 
 この機能は、6 週間の間に徐々にリリースされます。すぐに必要な場合は、Marketo サポートにお問い合わせください。

@@ -3,16 +3,16 @@ description: リリースノート - 2022年6月 - Marketo ドキュメント - 
 title: リリースノート - 2022年6月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: cf4dcb6a316eba631ccb73a991c09e83c80b82ca
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '640'
-ht-degree: 96%
+source-wordcount: '600'
+ht-degree: 62%
 
 ---
 
 # リリースノート：2022年6月 {#release-notes-june-22}
 
-以下に、2022年6月リリースに含まれるすべての機能を示します。機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
+以下に、2022年6月リリースに含まれるすべての機能を示します。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
@@ -26,13 +26,13 @@ ht-degree: 96%
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
-* **動的チャットのストリームデザイナーの使いやすさの向上**：ドラッグ＆ドロップを必要とせずに、ストリームデザイナーのキャンバスから直接カードを追加できます。また、動的チャットインターフェイスを改良し、個々のカードでのコンテンツ可視性が向上しました。
+* **[!DNL Dynamic Chat]** ーザーによるストリームDesignerの使いやすさの向上：ドラッグ&amp;ドロップを必要とせずに、ストリームDesignerキャンバスからカードを直接追加します。 また、[!DNL Dynamic Chat] インターフェイスも改善され、個々のカードのコンテンツの可視性が向上しました。
 
-* **動的チャットの高度な予定ルーティングルール**：動的チャットは、ターゲットの予定ルーティングに対してさらに多くのオプションを提供します。Marketo Engage の属性に基づいてルーティングするエージェントの予定を指定し、リードを適切なエージェントにルーティングします。
+* **[!DNL Dynamic Chat]** の高度な予定ルーティングルール：[!DNL Dynamic Chat] では、ターゲット設定された予定ルーティングに関するより多くのオプションを提供しています。 Marketo Engage の属性に基づいてルーティングするエージェントの予定を指定し、リードを適切なエージェントにルーティングします。
 
-* **動的チャットの高度なダイアログレポート**：エンゲージメント指標とコンバージョン指標に関する新しいデータビジュアライゼーションを使用して、動的チャットのキャンペーン効果をより詳しく表示します。
+* **[!DNL Dynamic Chat]** の高度なダイアログレポート：エンゲージメントとコンバージョン指標に関するすべての新しいデータビジュアライゼーションを使用して、[!DNL Dynamic Chat] キャンペーンのパフォーマンスをより詳細に表示します。
 
-* **動的チャットが使用しない Marketo Engage 属性の同期解除**：動的チャットサブスクリプションから未使用の Marketo Engage 属性を同期解除することで、データを簡単に整理でき、必要に応じて代替の属性を同期できます。
+* **[!DNL Dynamic Chat]** の未使用のMarketo Engage属性の同期を解除：未使用になる [!DNL Dynamic Chat] サブスクリプションからMarketo Engage属性の同期を解除します。これにより、データのクリーン性が向上し、必要に応じて代替属性を同期することができます。
 
 ## 次世代のエクスペリエンス
 
@@ -51,19 +51,19 @@ ht-degree: 96%
 
 * **Webhook 用の追加の HTTP メソッド**：Web サービスとやり取りするリクエストの種類として、PUT、PATCH、DELETE を指定します。
 
-## Sales Insight {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![（星印）](assets/yellow-star.png)
 
-* **Salesforce での Sales Insight 権限セット**：管理者は、Sales Insight Salesforce パッケージの一部である Marketo アプリ権限セットを使用して、プロファイルレベルではなく、ユーザレベルで限られた一連のユーザに対して Sales Insight のアクセス権を提供できます。
+* [!DNL Salesforce]**の**[!DNL Sales Insight] 権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部であるMarketo アプリ権限セットを使用して、プロファイルレベルではなくユーザーレベルで、限られたユーザーセットに [!DNL Sales Insight] しいアクセス権を付与できます。
 
-* **My Marketo タイルのアップデート - Sales Insight Actions**：Marketo 管理者（および指定したユーザ）は、My Marketo ページにある新しい Sales Insight Actions タイルから、Sales Insight Actions インスタンスにすばやく移動できるようになりました。
+* **マイMarketo タイルの更新 – [!DNL Sales Insight] アクション**: Marketo管理者（および管理者が指名したユーザー）は、マイMarketo ページの新しい [!DNL Sales Insight] アクションタイルを使用して、[!DNL Sales Insight] Actions インスタンスにすばやく移動できるようになりました。
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![（星印）](assets/yellow-star.png)
 
-* **Salesforce API のアップデート**：Salesforce 2022年夏のリリースで、Salesforce は API のレガシーバージョン 21～30 のサポートを停止します。この Marketo Engage リリースにより、API のレガシーバージョンを使用する Sales Connect リクエストがすべてアップデートされ、サポート対象バージョン内に収まります。Salesforce API 廃止プランについて詳しくは、[ こちら ](https://help.salesforce.com/s/articleView?language=en_US&amp;type=1&amp;id=000354473){target="_blank"} をクリックしてください。
+* **[!DNL Salesforce]API アップデート**:[!DNL Salesforce] Summer &#39;22 リリースでは、API レガシーバージョン 21 ～ 30 は [!DNL Salesforce] でサポートされなくなります。 このMarketo Engage リリースでは、従来の API バージョンを使用しているすべての [!DNL Sales Connect] リクエストが、サポートされているバージョンの範囲内に収まるように更新されました。 API 廃止プランについて詳 [!DNL Salesforce] くは、[ こちら ](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"} をクリックしてください。
 
 ## API の強化 {#api-enhancements}
 
@@ -77,4 +77,4 @@ ht-degree: 96%
 
 **_製品リリースウェビナー_**
 
-[2022 年 6 月および 8 月のMarketo Engageリリースウェビナー ](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[2022 年 6 月および 8 月のMarketo Engage リリースウェビナー ](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

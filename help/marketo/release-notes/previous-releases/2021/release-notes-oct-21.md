@@ -3,10 +3,10 @@ description: リリースノート - 2021 年 10 月 - Marketo ドキュメン�
 title: リリースノート - 2021 年 10 月
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '1120'
-ht-degree: 100%
+source-wordcount: '1090'
+ht-degree: 77%
 
 ---
 
@@ -46,39 +46,39 @@ ht-degree: 100%
 
 * **Adobe Experience Platform Marketo Data Source Connector**：Adobe Experience Platform と Marketo Engage の両方のユーザーが、Marketo Source Connector を利用して Marketo から AEP にデータを取り込むことができます。AEP 内で Marketo からデータ（およびその変更）をストリーミングして、2 つの製品間のデータの一貫性を維持できます。Marketo コネクタは、ソースカタログ（「アドビアプリケーション」の下）で確認できます。
 
-## Sales Insight {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![（星印）](assets/yellow-star.png)
 
-**Microsoft Dynamics 365 Sales の Sales Insight**
+[!DNL Microsoft Dynamics 365] セールス向け **[!DNL Sales Insight]ール**
 
-* **最優先の機能強化**：Sales Insight の「最優先」タブでは、最もホットな連絡先とリードをリアルタイムで表示し、品質と緊急度で優先順位付けします。営業担当がスコアの確認、メールの送信、指定した Marketo Engage キャンペーンへの見込み客の追加のようなアクションを最有望見込客ページから直接おこなえるようにして、効率を高め、応答時間を短縮します。
+* **[!UICONTROL ベストベット ] 機能強化**:[!DNL Sales Insight] の [!UICONTROL  ベストベット ] タブには、品質と緊急度に基づいて優先度が付けられた、最もホットな連絡先とリードのリアルタイムビューが表示されます。 担当者がスコアの確認、メールの送信、[!DNL Best Bets] ールページから直接指定されたMarketo Engage キャンペーンへの見込み客の追加などのアクションを実行する機能が追加され、効率が向上し、応答時間が短縮されました。
 
 * **新規メール、web アクティビティ、匿名 web アクティビティダッシュボード**：新しいセールスダッシュボードを追加し、販売者にリードや連絡先の最新のメールおよび web アクティビティについて知らせるようにしました。新しいフィルタリング機能により、ダッシュボードで、メールの開封数、クリック数、web ページへの訪問回数に関するインサイトが得られ、完全な顧客リストや特定の顧客が得られます。Marketo Engage は、すべての web アクティビティを追跡し、セールスに重要な情報を提供し、匿名トラフィックをリードに変えます。販売者は、リード行動に関するより深い情報を得て、すべてのタッチポイントの関連度に基づいて行動し、エンゲージメントをパーソナライズし、リードをより速く販売に変換できます。
 
-**Salesforce に関する Sales Insight**
+**[!DNL Sales Insight]for[!DNL Salesforce]**
 
-* **顧客および商談レベルの最有望見込客**：Sales Insight では、リードが別のチームメンバーに割り当てられている場合でも、担当する顧客または商談のすべての連絡先に対して、営業担当が最有望見込客を確認できるようになりました。これにより、顧客と商談の所有者は、関連する連絡先のアクティビティを完全に可視化し、顧客と商談のより包括的な視点に基づいて行動できるようになります。
+* **アカウントおよび商談レベル [!UICONTROL  おすすめコンテンツ]**:[!DNL Sales Insight] は、販売担当者が所有するアカウントまたは商談のすべての連絡先に関して、連絡先が別のチームメンバーに割り当てられている場合でも、おすすめコンテンツを確認できるようになりました。 これにより、顧客と商談の所有者は、関連する連絡先のアクティビティを完全に可視化し、顧客と商談のより包括的な視点に基づいて行動できるようになります。
 
-## Sales Connect {#sales-connect}
+## [!DNL Sales Connect] {#sales-connect}
 
 ![（星印）](assets/yellow-star.png)
 
 * **セールスアクティビティインサイトの強化**：新しいメール返信追跡アクティビティ「返信済みセールスメール」は、Marketo Engage と自動的に同期された電子メールでの受信者のインタラクションを追跡します。さらに、ソース属性が「Tout」から「Sales App」に更新されました。このアクティビティは、Marketo Engage REST API または一括書き出しを通じて書き出しおよびレポートでき、スマートリストの追加の制約としてフィルターやトリガーで使用し、スマートキャンペーンのパーソナライゼーションオプションを拡張できます。
 
-* **合理化されたユーザーエクスペリエンス**：この更新では、Adobe Spectrum 設計システムに基づく Sales Connect の新しいフォント、色、ボタン、モデルが導入されました。これらのアップデートにより、より効率的なエクスペリエンスを提供しています。販売者は、必要なときに必要なものに焦点を当てることができます。
+* **ユーザーエクスペリエンスの効率化**：このアップデートでは、Adobe Spectrum デザインシステムに基づいた [!DNL Sales Connect] ーザー向けの新しいフォント、カラー、ボタン、モーダルが導入されました。 これらのアップデートにより、より効率的なエクスペリエンスを提供しています。販売者は、必要なときに必要なものに焦点を当てることができます。
 
-## Bizible {#bizible}
+## [!DNL Bizible] {#bizible}
 
 ![](assets/yellow-star.png)
 
-* **Bizible と Adobe Privacy Service（GA）の統合**：Adobe Privacy Service との Bizible 統合は、Adobe Experience Cloud アプリケーション全体で、GDPR（一般データプライバシー規則）や CCPA（カリフォルニア州消費者プライバシー法）などの重要なデータプライバシー規制へのコンプライアンスを一元化します。このサービスを活用し、Adobe の Privacy Service を通じてすべてのプライバシーリクエストを一元的に管理して、Bizible や他のアドビ製品に対する変更リクエストがアプリケーション間で反映されるようになりました。
+* Adobe Privacy Service（GA）との **[!DNL Bizible]統合**:Adobe Privacy Serviceとの [!DNL Bizible] 統合により、Adobe Experience Cloud アプリケーション全体で GDPR （EU 一般データプライバシー規則）や CCPA （カリフォルニア州消費者プライバシー法）などの重要なデータプライバシー規則へのコンプライアンスが一元化されます。 このサービスを利用して、Adobe Privacy Serviceを通じてすべてのプライバシーリクエストを一元的に管理し、他のAdobe製品に [!DNL Bizible] まれる変更リクエストがアプリケーション全体に反映されるようになりました。
 
 ## お知らせ {#announcements}
 
-* **リード廃止／Munchkin ベータ版 161 アップデートの関連付け**：2021 年 9 月 7 日に、Munchkin のバージョン 161 は、Munchkin ベータ版を有効にしてサブスクリプションの 10%に展開し始め、次いで 9 月 16 日に 50%、9 月 30 日に 100%に展開しました。この変更は、Marketo Engage のランディングページと、最近のバージョンがロールアウトされたサブスクリプションから読み込まれる外部のランディングページに提供されるファイル munchkin-beta.js のバージョンに影響します。このバージョンでは、Munchkin Associate Lead メソッドを完全に廃止します。これは、Marketo Engage サブスクリプションに個人のデータを送信し、既知のリードレコードと関連する web 閲覧履歴を送信できる機能です。Forms JS API、フォーム送信 API、Associate Lead REST API など、より最新でセキュアな代替手段のために、「リードの関連付け」は削除されています。この廃止について詳しくは、[こちら](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)を参照してください。
+* **リード廃止／Munchkin ベータ版 161 アップデートの関連付け**：2021 年 9 月 7 日に、Munchkin のバージョン 161 は、Munchkin ベータ版を有効にしてサブスクリプションの 10%に展開し始め、次いで 9 月 16 日に 50%、9 月 30 日に 100%に展開しました。この変更は、Marketo Engage のランディングページと、最近のバージョンがロールアウトされたサブスクリプションから読み込まれる外部のランディングページに提供されるファイル munchkin-beta.js のバージョンに影響します。このバージョンでは、[!DNL Munchkin] Associate Lead メソッドは完全に廃止されています。このメソッドは、人物のデータをMarketo Engage サブスクリプションに送信し、関連する web ブラウジング履歴を既知の人物レコードと関連付けることができる機能です。 Forms JS API、フォーム送信 API、Associate Lead REST API など、より最新でセキュアな代替手段のために、「リードの関連付け」は削除されています。この廃止について詳しくは、[こちら](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)を参照してください。
 
-* **Sales Connect の更新**：Sales Connect の最近の UI の変更により、Salesforce の一部のモデルが中断されました。この問題を修正するには、[パッケージを更新](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)してください。
+* **[!DNL Sales Connect]Update**:[!DNL Sales Connect] の最近の UI 変更により、[!DNL Salesforce] の一部のモーダルが中断されました。 この問題を修正するには、[パッケージを更新](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)してください。
 
 **_製品リリースウェビナー_**
 

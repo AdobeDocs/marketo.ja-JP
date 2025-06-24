@@ -4,10 +4,10 @@ description: リリースノート - 2015年秋 - Marketo ドキュメント - �
 title: リリースノート - 2015年秋
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 100%
+source-wordcount: '967'
+ht-degree: 86%
 
 ---
 
@@ -41,17 +41,17 @@ ht-degree: 100%
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Google Chrome 対応 Marketo Insights {#marketo-insights-for-google-chrome}
+## [!DNL Google Chrome] 用Marketo Insights {#marketo-insights-for-google-chrome}
 
-[Google Chrome 対応 Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Marketo Insights の対象  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Google Mail Sales Insight 拡張機能のアップデートがリリースされました。[Chrome ストア](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb)でご覧ください。
+[!DNL Google Mail] [!DNL Sales Insight] 拡張機能のアップデートがリリースされたことをお知らせします。 [[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb) で表示します。
 
 この更新には、次の新機能が多数含まれています。
 
-* セールス担当者は、エンゲージメントをおこなう前に、役職、twitter プロファイル、会社情報、写真など、見込み客に関する関連情報を Google メール内で直接確認できます。
+* 営業担当者は、エンゲージメントに取り組む前に、[!DNL Google Mail] 内で自分の見込み客に関する関連情報（役職名、Twitter のプロフィール、会社情報、写真など）を直接確認できます。
 * セールス担当者は、開封またはクリックされたメール、参加したオンラインイベントや対面イベント、訪問した web ページ、ダウンロードした eBook など、チャネルをまたいで見込み客が関与しているコンテンツをリアルタイムで確認できます。
-* Google メールを通じて送信されたメールは、Marketo にログされて、リアルタイムで追跡されます。これにより、セールス担当者は見込み客がいつメールを閲覧しているかを確認できるので、適切なタイミングでフォローアップをおこなうことができます。Google メール用 Marketo Sales Insight を使用すると、セールス担当者はマーケティングによって作成されたテンプレートを簡単に活用して、美しい招待、オファー、その他のタイプのコンテンツを送信できます。
+* [!DNL Google Mail] を通じて送信されたメールは、Marketoに記録され、リアルタイムで追跡されます。 これにより、セールス担当者は見込み客がいつメールを閲覧しているかを確認できるので、適切なタイミングでフォローアップをおこなうことができます。また、Marketo [!DNL Sales Insight] for [!DNL Google Mail] を使用すると、マーケティング部門が作成したテンプレートを利用して、魅力的な招待状やオファーなどのコンテンツを簡単に送信できます。
 
 ![](assets/image2015-10-2-14-3a47-3a53.png)
 
@@ -141,9 +141,9 @@ RTP キャンペーンを複製すると、より迅速かつ効率的に、よ�
 <td background="someImage.png"> 
 ```
 
-## Microsoft Dynamics - 同期の検証 {#microsoft-dynamics-validate-sync}
+## [!DNL Microsoft Dynamics] – 同期の検証 {#microsoft-dynamics-validate-sync}
 
-[Microsoft Dynamics - 同期の検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+[[!DNL Microsoft Dynamics] – 同期の検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
 
 この新しい管理ツールは、一連のチェックを実行して、同期設定が正しく設定されているかどうかを確認します。
 
@@ -151,7 +151,7 @@ RTP キャンペーンを複製すると、より迅速かつ効率的に、よ�
 
 ## CRM カスタムオブジェクト同期にフィールドを追加 {#add-fields-to-crm-custom-object-sync}
 
-Salesforce と Dynamics から同期したカスタムオブジェクトに新しいフィールドを簡単に追加できます。カスタムオブジェクト全体を無効にして有効にすることなく、カスタムオブジェクト同期に新しいフィールドを追加できるようになりました。
+[!DNL Salesforce] および [!DNL Dynamics] から同期されたカスタムオブジェクトに新しいフィールドを簡単に追加できます。 カスタムオブジェクト全体を無効にして有効にすることなく、カスタムオブジェクト同期に新しいフィールドを追加できるようになりました。
 
 ## セキュリティ機能の変更 {#changes-to-security-features}
 
@@ -162,13 +162,13 @@ Salesforce と Dynamics から同期したカスタムオブジェクトに新�
 
 ## IE 11 のサポート（および IE 9 のサポートの廃止） {#ie-support-and-deprecating-support-for-ie}
 
-Microsoft Internet Explorer 11 ブラウザーを正式にサポートし、Microsoft Internet Explorer 9 ブラウザーのサポートを削除しています。
+現在は [!DNL Microsoft Internet Explorer] 11 ブラウザーを正式にサポートしており、[!DNL Microsoft Internet Explorer] 9 ブラウザーのサポートは削除されています。
 
 ## MSI の Lightning UI のサポート {#lightning-ui-support-for-msi}
 
-アプリ交換の最新の MSI パッケージは、Salesforce UI の Lightning バージョンと旧バージョンの両方で動作します。
+アプリケーション交換の最新の MSI パッケージは、[!DNL Salesforce] UI の Lightning バージョンとレガシーバージョンの両方で動作します。
 
-## 新しい Dynamics プラグイン {#new-dynamics-plug-in}
+## 新しい [!DNL Dynamics] プラグイン {#new-dynamics-plug-in}
 
 この新しいプラグインは、非同期モードで様々なアクションを実行し、パフォーマンスを向上させます。
 

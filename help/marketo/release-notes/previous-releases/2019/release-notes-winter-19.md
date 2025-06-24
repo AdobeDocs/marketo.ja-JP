@@ -3,11 +3,10 @@ unique-page-id: 17727823
 description: リリースノート - 19 年冬 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 19 年冬
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
-source-wordcount: '1079'
-ht-degree: 100%
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+workflow-type: tm+mt
+source-wordcount: '1050'
+ht-degree: 70%
 
 ---
 
@@ -19,11 +18,11 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->カスタムオーディエンスの統合を活用するために、Facebook に Business Manager アカウントが必要になりました。Facebook LaunchPoint サービスは Business Manager アカウントに関連付けられている&#x200B;*必要*&#x200B;があります。さもないと、統合は **2019 年 1 月 15 日**&#x200B;以降機能しなくなります。Business Manager アカウントを設定するには、[Facebook Help](https://www.facebook.com/business/help/1710077379203657) を参照してください。
+>カスタムオーディエンス統合を活用するために、[!DNL Facebook] には Business Manager アカウントが必要になりました。 [!DNL Facebook] LaunchPoint サービス *必須* が Business Manager アカウントに関連付けられている必要があります。関連付けられていない場合 **2019 年 1 月 14 日（PT）以降、統合が機能しなくなります**。 Business Manager アカウントを設定するには、[[!DNL Facebook]  ヘルプ ](https://www.facebook.com/business/help/1710077379203657) を参照してください。
 
 >[!NOTE]
 >
->Microsoft は、すべてのオンラインユーザーに対して、Microsoft Dynamics の最新バージョンへのアップグレードを求めています。Marketo インスタンスを DynamicsOnline と統合する場合は、統合が引き続き機能するように、**2019 年 1 月 31 日**&#x200B;までに [Marketo ソリューションの最新バージョンにアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)する必要があります。
+>Microsoftは、すべてのオンラインのお客様に対して、[!DNL Microsoft Dynamics] の最新バージョンへのアップグレードを推奨しています。 Marketo インスタンスを [!DNL Dynamics Online] と統合している場合、統合が引き続き機能することを確認するには、[2019 年 1 月 31 日 **までに ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md)Marketo ソリューションの最新バージョンにアップグレード** する必要があります。
 
 >[!NOTE]
 >
@@ -40,33 +39,33 @@ Marketo を通じて送信するメールは、受信者あたり 5 件までの
 * **アセット API のマルチブランディングドメインサポート**：アセットの承認と複製により、API と UI 内で同じ結果が得られます。
 * **アセット API のメール CC サポート**：API を使用したメールの複製、承認、処理をおこなうユーザーは、UI 設定と同等の性能を維持します。
 
-**[Munchkin v155（ベータ版）](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
+**[[!DNL Munchkin] v155 （Beta） ](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
 
 * **API のみのモード**：Marketo の自動追跡に頼るのではなく、単一ページの Web アプリが Web ページへのアクセスを記録するときに明示的に呼び出すことができるようにすることで、データベースのメンバーをいつどのように追跡するかを決定できるようになりました。
-* **オプトアウト管理**：オプトアウト Cookie ドメインを Munchkin トラッキング Cookie ドメインと照合することで、オプトアウトを簡単に管理できます。
+* **オプトアウト管理**：オプトアウト cookie ドメインを [!DNL Munchkin] トラッキング cookie ドメインと照合することで、オプトアウトを簡単に管理できます。
 * **ドメインレベルの決定者パラメーター**：2 文字のドメイン（例：[website.io](https://website.io)）は、追加の設定要件なしで Marketo で自動的に追跡します。
 
 ## Marketo Sales Engage {#marketo-sales-engage}
 
-* **Salesforce カスタムプロファイル**：Sales Engage は、無制限のカスタムプロファイルをサポートするようになりました。
+* **[!DNL Salesforce]カスタムプロファイル**: Sales Engage は、無制限のカスタムプロファイルをサポートするようになりました。
 
-* **Salesforce カスタマイズ**：重要でないカスタムアクティビティフィールドを削除すると、CRM プラットフォームで Sales Engage をより効率的に設定できます。
-* **メールサービス**：Microsoft Outlook に（Office365 または「メール接続」タブを使用してオンプレミス）接続することで、メール到達率の向上に加え、返信追跡機能、スケジュール済みメール機能の強化、および一括メール機能を利用できます。
+* **[!DNL Salesforce]のカスタマイズ**：重要でないカスタムアクティビティフィールドを削除することで、ユーザーは CRM プラットフォームで Sales Engage をより効率的に設定できます。
+* **メールサービス**:[!DNL Microsoft Outlook] に接続することで（Office365 を使用するか「メール接続」タブからオンプレミスで）、配信品質の向上に加え、返信トラッキング、スケジュールされたメール機能、一括メール機能が実現します。
 * **新しい管理設定**：Sales Engage インスタンスを最適化するための 2 つの管理ページが追加されました。
 
    * _チーム管理_&#x200B;は、管理者が購読とチームを編集できるようにすることで、シームレスなアカウント設定プロセスをサポートします。
    * _Salesforce 管理設定_&#x200B;は、チームが SFDC 同期を以前よりも迅速かつ簡単に設定するのに役立ちます。
 
-* **Windows 用 OWA プラグイン**：1 つのアドインで、すべての Windows Office365 クライアントが Sales Engage でサポートされ、Outlook でライブフィードを使用できます。新しいプラグインは、Microsoft Store で使用できます。
+* **OWA Plugin for[!DNL Windows]**: 1 つのアドインで、すべての [!DNL Windows Office365] クライアントが Sales Engage でサポートされ、Outlook で Live Feed を使用できるようになります。 新しいプラグインは、Microsoft Store で使用できます。
 * **アクティビティプッシャー**：Sales Engage をコア Marketo プラットフォームに同期して、リアルタイムのマーケティングインサイトを活用します。
 
-## Marketo Sky {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
 >[!NOTE]
 >
->Marketo Sky のリリースは、より頻繁におこなわれます。第 4 四半期後半／第 1 四半期初旬には、次の機能および機能強化がリリースされる予定です。詳細と更新については、[Sky ドキュメント](https://help.marketo.com/)を参照してください。
+>[!DNL Marketo Sky] リリースは、より頻繁に行われます。 第 4 四半期後半／第 1 四半期初旬には、次の機能および機能強化がリリースされる予定です。詳細と更新については、[Sky ドキュメント](https://help.marketo.com/)を参照してください。
 
-* **オプションのデフォルトエクスペリエンス**：Marketo ユーザーは、Marketo Sky が管理者からアクセス権を付与されている場合、ユーザーをデフォルトエクスペリエンスに設定できます。
+* **オプションのデフォルトエクスペリエンス**:Marketo ユーザーは、管理者からアクセス権を付与されている場合、[!DNL Marketo Sky] をデフォルトエクスペリエンスとして設定できます。
 
 * **マイ Marketo**：最も頻繁に訪問する領域に重要な情報、通知、リンクを提供するウィジェットを追加して、エクスペリエンスをカスタマイズします。
 
@@ -74,10 +73,10 @@ Marketo を通じて送信するメールは、受信者あたり 5 件までの
 
 * **グローバル検索**：プラットフォーム全体でより高速でより堅牢なグローバル検索機能が提供されます。検索クエリが、アクセス可能なすべてのワークスペースで実行され、アセット（アクティブとアーカイブの両方）、ラベル、キャンペーン、プログラムを検索できるようになりました。検索結果はオーバーレイを介して提供され、各結果にはアセットの保存場所を指定するためのファイルの場所の追跡情報が含まれます。
 
-* **ユーザーインターフェイスの改善**：新しいアイコン、モデル、ボタン、および新しいカラーパレットを追加して、当社のブランドのリフレッシュを反映し、Marketo Sky をより印象深く機能的にします。
+* **改善されたユーザーインターフェイス**：新しいアイコン、モデル、ボタンに加えて、ブランドの刷新を反映し、より魅力的で機能的 [!DNL Marketo Sky] 新しいカラーパレットが追加されました。
 
-* **メールプログラムのユーザビリティの強化**：従来の Marketo リード管理プラットフォームと新しい Marketo Sky でのメールプログラムの機能の同等化に引き続き努めていきます。
-* **Event-With-Webinar プログラム**：Event-With-Webinar プログラムが Marketo Sky で利用できるようになりました（注意：このリリースでは、GoToWebinar のみがサポートされています。その他の統合は時間の経過と共に確立されます）。
+* **メールプログラムのユーザビリティの強化**：従来のMarketo Lead Management プラットフォームと新しい [!DNL Marketo Sky] エクスペリエンスの間で、メールプログラム機能のパリティに引き続き移行します。
+* **イベントとウェビナープログラム**：イベントとウェビナープログラムが [!DNL Marketo Sky] で利用できるようになりました（メモ：このリリースでは GoToWebinar のみがサポートされ、今後、さらなる統合が行われる予定です）。
 
 ## Account-Based Marketing {#account-based-marketing}
 
@@ -87,13 +86,13 @@ Marketo を通じて送信するメールは、受信者あたり 5 件までの
 
 ## アナリティクス {#analytics}
 
-**Bizible**
+**[!DNL Bizible]**
 
-* **カスタム計算フィールド**：任意の Bizible 属性を使用して、ダッシュボードのレポートとセグメント化に使用できるカスタムフィールドを作成します。
+* **カスタム計算フィールド**：任意の [!DNL Bizible] 属性を使用して、ダッシュボードレポートおよびセグメント化に使用できるカスタムフィールドを作成します。
 
 * **SOC II タイプ II 証明書**：新しいセキュリティとプライバシーの認定は、今年初めから Type I の認定に基づいて構築されます。
 
-## Web パーソナライズ機能 {#web-personalization}
+## [!DNL Web Personalization] {#web-personalization}
 
 **[アカウント設定にサブドメインを追加](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
@@ -103,9 +102,10 @@ Marketo を通じて送信するメールは、受信者あたり 5 件までの
 
 **Android 向けのソフトウェア開発キット（SDK）を更新しました**
 
-Android 向け SDK を、より高い柔軟性とより多くの新しいエンジニアリング機能を含む、さらに新しく、安定した、拡張性の高いフレームワークに更新しました。この新しい SDK では、Android アプリデベロッパーが Google の [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)（FCM）を直接使用できるようになりました。
+Android 向け SDK を、より柔軟性と新しいエンジニアリング機能を含む、より新しく、安定した、拡張性の高いフレームワークに更新しました。この新しい SDK では、Android アプリデベロッパーが Google の [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/)（FCM）を直接使用できるようになりました。
 
-* [開発者向け手順]https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android）
+* [デベロッパー向けの手順](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
+* [デベロッパー向け FAQ](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
 
 >[!NOTE]
 >

@@ -4,10 +4,10 @@ description: リリースノート - 2013年3月 - Marketo ドキュメント - 
 title: リリースノート - 2013年3月
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## 他のフォームエラーメッセージの言語 {#additional-form-error-message-languages}
+## 追加フォーム [!UICONTROL  エラーメッセージ ] の言語 {#additional-form-error-message-languages}
 
 12 以上の言語がフォームエラーメッセージに追加されました。
 
