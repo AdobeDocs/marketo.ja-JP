@@ -29,7 +29,7 @@ Marketo Engageの機能は、次の規則に準拠するのに役立ちます。
 
 * [EU 一般データ保護規則 ](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en)**[!DNL GDPR]**、EU 諸国のデータ保護要件を現代の状況に合わせて整合化する欧州連合（EU）のプライバシー法です。
 * **[!DNL CCPA]** [ カリフォルニア州消費者プライバシー法 ](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article=) は、カリフォルニア州の居住者に個人情報に関する権利を提供し、カリフォルニア州でビジネスを行う特定の事業者に対してデータ保護の責任を課します。
-* **[!DNL PDPA]**[ 個人情報保護法 ](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) は、タイのプライバシー法で、データ保護要件を現代の状況に合わせて整合化することを目的としています。
+* **[!DNL PDPA]**&#x200B;[ 個人情報保護法 ](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) は、タイのプライバシー法で、データ保護要件を現代の状況に合わせて整合化することを目的としています。
 * **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf)：ブラジルで個人データを収集または処理するすべての企業について、2021 年初頭に発効。
 * **[!DNL NZPA]** [ プライバシー法 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) は、ニュージーランドのデータ保護要件を現代の状況に合わせて整合化するプライバシー法です。
 
