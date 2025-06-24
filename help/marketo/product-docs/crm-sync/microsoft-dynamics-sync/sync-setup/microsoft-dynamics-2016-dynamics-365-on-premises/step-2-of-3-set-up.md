@@ -3,10 +3,10 @@ description: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Mar
 title: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 2 / 3
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 15cb3ddcd82fa1ba60fae3aa1adaac3d5964a0fa
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '496'
-ht-degree: 89%
+source-wordcount: '495'
+ht-degree: 93%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 89%
 
 ## 新しいクライアントアプリケーションを作成する {#create-a-new-client-application}
 
-[ このMicrosoftの記事 ](https://docs.microsoft.com/ja-jp/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later){target="_blank"} の手順に従って、新しいクライアントアプリケーションを作成し、権限を付与します。 Dynamics クライアントアプリケーションのクライアント ID／シークレットをメモしておいてください。
+新しいクライアントアプリケーションを作成し、権限を付与するには、[この Microsoft 記事](https://docs.microsoft.com/ja-jp/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later){target="_blank"}の手順に従ってください。Dynamics クライアントアプリケーションのクライアント ID／シークレットをメモしておいてください。
 
 ## 同期ユーザー役割を割り当てる {#assign-sync-user-role}
 
@@ -70,11 +70,11 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 >[!NOTE]
 >
->これは、Marketo バージョン 4.0.0.14 以降に当てはまります。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。お使いの Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}を参照してください。
+>これは、Marketoのバージョン 4.0.0.14 以降に適用されます。 以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。お使いの Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}を参照してください。
 
 >[!IMPORTANT]
 >
->同期ユーザーの言語設定 [ 英語に設定する必要があります ](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}。
+>同期ユーザの言語設定は[英語に設定する必要があります](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}。
 
 1. 「**[!UICONTROL 設定]**」で、「**[!UICONTROL セキュリティ]**」をクリックします。
 

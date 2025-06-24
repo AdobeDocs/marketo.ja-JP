@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360354
-description: "Web サイトへの  [!DNL Munchkin]  トラッキングコードの追加 - Marketo ドキュメント - 製品ドキュメント"
-title: "Web サイトへの  [!DNL Munchkin]  トラッキングコードの追加"
+description: Web サイトへのトラッキ  [!DNL Munchkin]  グコードの追加 – Marketo ドキュメント – 製品ドキュメント
+title: Web サ  [!DNL Munchkin]  トへのトラッキングコードの追加
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+workflow-type: tm+mt
 source-wordcount: '666'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo のカスタム JavaScript トラッキングコード（[!DNL Munchkin]
 
 >[!NOTE]
 >
->Adobe Experience Cloud ユーザは、[Adobe Launch の Marketo 統合](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}を使用して、Web ページに [!DNL Munchkin] スクリプトを含めることもできます。Adobe Launch を使用する場合、_[!DNL Munchkin] スクリプトは自動的に追加される_&#x200B;ため、自分で追加する必要はありません。
+>Adobe Experience Cloud ユーザーは、Adobe Launch の [Marketo統合を使用して ](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}web ページにスクリプト [!DNL Munchkin] 含めることもできます。 Adobe Launch を使用する場合、_[!DNL Munchkin] スクリプトは自動的に追加される_&#x200B;ため、自分で追加する必要はありません。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -59,7 +59,7 @@ Marketo のカスタム JavaScript トラッキングコード（[!DNL Munchkin]
 
    >[!TIP]
    >
-   >トラフィック量が非常に大きくなる（例：1 か月の訪問数が 10 万以上）サイトの場合、匿名の人物をトラッキングすることはお勧めしません。[詳細情報](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/lead-tracking/){target="_blank"}
+   >トラフィック量が非常に大きくなる（例：1 か月の訪問数が 10 万以上）サイトの場合、匿名の人物をトラッキングすることはお勧めしません。[詳細情報](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}
 
 ## 複数のワークスペースを使用する場合のトラッキングコードの追加 {#add-tracking-code-when-using-multiple-workspaces}
 

@@ -4,10 +4,10 @@ description: 手順 2 / 3 - Dynamics（2011 オンプレミス）での Marketo 
 title: 手順 2 / 3 - Dynamics（2011 オンプレミス）での Marketo 同期ユーザーのセットアップ
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 90%
+source-wordcount: '364'
+ht-degree: 97%
 
 ---
 
@@ -21,15 +21,15 @@ ht-degree: 90%
 
 ## 同期ユーザー役割を割り当てる {#assign-sync-user-role}
 
-Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当てます。他のユーザーに割り当てる必要はありません。
+Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当てます。他のユーザに割り当てる必要はありません。
 
 >[!NOTE]
 >
->これは、Marketo プラグインバージョン 4.0.0.14 以降に当てはまります。以前のバージョンでは、すべてのユーザーに同期ユーザー役割が必要です。Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}を参照してください。
+>これは、Marketo プラグインのバージョン 4.0.0.14 以降に適用されます。 以前のバージョンでは、すべてのユーザーに同期ユーザー役割が必要です。Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}を参照してください。
 
 >[!IMPORTANT]
 >
->同期ユーザーの言語設定 [ 英語に設定する必要があります ](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}。
+>同期ユーザーの言語設定は[英語に設定する必要があります](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}。
 
 1. 左下のメニューで、「**[!UICONTROL 設定]**」を選択します。
 
@@ -43,7 +43,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
    ![](assets/image2015-4-2-14-3a4-3a37.png)
 
-1. ユーザーのリストが表示されます。専用のMarketo同期ユーザーを選択するか、[Active Directory フェデレーション サービス （AFDS） ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} の管理者に連絡してMarketo専用の新しいユーザーを作成してください。 「**[!UICONTROL ロールを管理]**」をクリックします。
+1. ユーザーのリストが表示されます。専用の Marketo 同期ユーザーを選択するか、[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"}（AFDS）管理者に問い合わせて、Marketo 専用ユーザーの新規作成を依頼します。「**[!UICONTROL 役割を管理]**」をクリックします。
 
    ![](assets/image2015-4-2-14-3a11-3a7.png)
 

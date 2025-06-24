@@ -4,9 +4,9 @@ description: Facebook でのカスタムオーディエンスの作成- Marketo 
 title: Facebook でのカスタムオーディエンスの作成
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '240'
 ht-degree: 100%
 
 ---
@@ -65,10 +65,6 @@ ht-degree: 100%
    >[!NOTE]
    >
    >Facebook にプッシュしたすべてのリストは静的になります。Marketo のスマートリストは、Facebook のオーディエンスリストを自動更新しないので、転送後に行われた変更は反映されません。
-
-   >[!TIP]
-   >
-   >詳細は、[Marketo ユーザ向け Facebook ラーニングパス](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}を参照してください。Facebook ページの作成から、Marketo の広告ネットワーク統合を使用した Facebook 広告のターゲティングまで、知っておくべきあらゆる情報をカバーしています。
 
    >[!MORELIKETHIS]
    >

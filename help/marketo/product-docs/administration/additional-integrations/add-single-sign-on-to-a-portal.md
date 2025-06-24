@@ -4,10 +4,10 @@ description: ポータルへのシングルサインオンの追加 - Marketo �
 title: ポータルへのシングルサインオンの追加
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
-workflow-type: ht
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+workflow-type: tm+mt
 source-wordcount: '606'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -25,11 +25,11 @@ SSO を有効にすると、IdP がユーザーの資格情報を検証できる
 
 >[!IMPORTANT]
 >
->これは、Adobe ID にオンボードされたサブスクリプションには適用されません。Adobe ID にオンボードされたサブスクリプションの場合、シングルサインオンは Adobe Admin Console のアドビ組織レベルで設定されます。現時点では、Adobe Admin Console は SP 開始のみをサポートしています。[詳しくは、こちらを参照してください](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}。
+>これは、Adobe ID にオンボードされたサブスクリプションには適用されません。Adobe ID にオンボードされたサブスクリプションの場合、シングルサインオンは Adobe Admin Console のアドビ組織レベルで設定されます。現時点では、Adobe Admin Console は SP 開始のみをサポートしています。詳しくは、[こちらを参照](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}してください。
 
 >[!NOTE]
 >
->[!DNL Microsoft Azure] ユーザですか？詳しくは、[統合チュートリアル](https://azure.microsoft.com/ja-jp/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}を参照してください。参考までに、チュートリアルの手順 5c にタイプミスがあります。リレー状態を `https://<munchkinid>.marketo.com` では&#x200B;**_なく_** `https://<munchkinid>.mktoweb.com` に設定してください。
+>[!DNL Microsoft Azure] ユーザですか？[ 統合チュートリアル ](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"} をご覧ください。 参考までに、チュートリアルの手順 5c にタイプミスがあります。リレー状態を `https://<munchkinid>.marketo.com` では&#x200B;**_なく_** `https://<munchkinid>.mktoweb.com` に設定してください。
 
 ## リクエストの送信方法 {#how-to-send-the-request}
 
@@ -117,4 +117,4 @@ SSO はデフォルトで無効になっています。SAML を有効にして�
 >
 >* [サブスクリプションログインでのユニバーサル ID の使用](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
 >* [ユーザーログインを SSO のみに制限](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [ユニバーサル ID を使用して Marketo ユーザを 2 つのインスタンスに招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [ユニバーサル ID を使用して、2 つのインスタンスに Marketo ユーザーを招待](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

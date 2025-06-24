@@ -4,9 +4,9 @@ description: 手順 2 / 3 - Marketo（2013 オンプレミス）の同期ユー�
 title: 手順 2 / 3 - Marketo（2013 オンプレミス）の同期ユーザーの設定
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '357'
 ht-degree: 86%
 
 ---
@@ -21,15 +21,15 @@ ht-degree: 86%
 
 ## 同期ユーザー役割を割り当てる {#assign-sync-user-role}
 
-Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当てます。他のユーザーに割り当てる必要はありません。
+Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当てます。他のユーザに割り当てる必要はありません。
 
 >[!NOTE]
 >
->これは、Marketo プラグインバージョン 4.0.0.14 以降に当てはまります。以前のバージョンでは、すべてのユーザーに同期ユーザー役割が必要です。Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}を参照してください。
+>これは、Marketo プラグインのバージョン 4.0.0.14 以降に適用されます。 以前のバージョンでは、すべてのユーザーに同期ユーザー役割が必要です。Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}を参照してください。
 
 >[!IMPORTANT]
 >
->同期ユーザーの言語設定 [ 英語に設定する必要があります ](https://portal.dynamics365support.com/knowledgebase/article/KA-01201/en-us){target="_blank"}。
+>同期ユーザーの言語設定は[英語に設定する必要があります](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}。
 
 1. 「**設定**」で、「**管理**」をクリックします。
 
