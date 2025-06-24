@@ -20,7 +20,7 @@ ht-degree: 71%
 
 ## [データベースダッシュボード](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
-[!UICONTROL  リードデータベース ] には、更新された概要ダッシュボードがあります。これには、人物データベースの合計サイズ、マーケティング可能なリードの数、上位 5 つのソースによるリードの分類が含まれます。
+[!UICONTROL &#x200B; リードデータベース &#x200B;] には、更新された概要ダッシュボードがあります。これには、人物データベースの合計サイズ、マーケティング可能なリードの数、上位 5 つのソースによるリードの分類が含まれます。
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
@@ -34,7 +34,7 @@ Marketoでサポートされている [ ブラウザーのリスト ](https://do
 
 ## [メールプログラム優先スタート](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
-[!UICONTROL  ヘッドスタート ] を使用して、送信の処理が事前に行われる必要があることを示します。 [!UICONTROL  ヘッドスタート ] では、プログラムのスケジュールされた時間にリードの選定やメールの準備を行うのではなく、これらのタスクを確実に事前に実行します。 これにより、オーディエンスはスケジュールされた時刻にメールの受信を開始します。
+[!UICONTROL &#x200B; ヘッドスタート &#x200B;] を使用して、送信の処理が事前に行われる必要があることを示します。 [!UICONTROL &#x200B; ヘッドスタート &#x200B;] では、プログラムのスケジュールされた時間にリードの選定やメールの準備を行うのではなく、これらのタスクを確実に事前に実行します。 これにより、オーディエンスはスケジュールされた時刻にメールの受信を開始します。
 
 ![](assets/image2016-1-11-15-3a38-3a3.png)
 
@@ -76,7 +76,7 @@ REST API を介したプログラムの作成、更新、複製.これには、�
 
 ## [Facebook リード広告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[[!UICONTROL Facebook リード広告 ]](https://www.facebook.com/business/a/lead-ads) は、ビジネスが [!DNL Facebook] でリードジェネレーションキャンペーンを実行するためのより直接的な方法です。 リードは、製品やサービスに対する関心を表すフォームに入力し、ビジネスをフォローアップできます。Marketoと [!UICONTROL Facebook リード広告 ] の統合により、リードがリード広告フォーム内で提供する情報が自動的にキャプチャされます。 フォローアップのアクションと通知は、新しい [!UICONTROL Facebook リード広告の入力 ]トリガーを使用して自動化できます。
+[[!UICONTROL Facebook リード広告 &#x200B;]](https://www.facebook.com/business/a/lead-ads) は、ビジネスが [!DNL Facebook] でリードジェネレーションキャンペーンを実行するためのより直接的な方法です。 リードは、製品やサービスに対する関心を表すフォームに入力し、ビジネスをフォローアップできます。Marketoと [!UICONTROL Facebook リード広告 &#x200B;] の統合により、リードがリード広告フォーム内で提供する情報が自動的にキャプチャされます。 フォローアップのアクションと通知は、新しい [!UICONTROL Facebook リード広告の入力 &#x200B;]トリガーを使用して自動化できます。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 

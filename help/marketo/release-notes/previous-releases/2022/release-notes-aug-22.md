@@ -48,7 +48,7 @@ ht-degree: 16%
 
 * **[!DNL Munchkin]- リンクトラッキングの拡張**:Munchkinを使用して `tel` および `mailto` リンクのトラッキングのサポートを拡張し、web 動作の拡張されたセットをトラッキングします。
 
-* **Webhook カスタムヘッダーの表示**:Webhook カスタムヘッダーが [!UICONTROL  管理者 ]/「[!UICONTROL Webhook]」タブに表示され、可視性が向上しました。
+* **Webhook カスタムヘッダーの表示**:Webhook カスタムヘッダーが [!UICONTROL &#x200B; 管理者 &#x200B;]/「[!UICONTROL Webhook]」タブに表示され、可視性が向上しました。
 
 * **CAPTCHA**：受信フォームトラフィックにスコアを付けるため、フォーム送信の有効性を評価します [reCAPTCHA v3 を使用 ](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}。 疑わしいボットトラフィックを自動的に除外、強制隔離または削除するマーケティングワークフローを作成します。
 

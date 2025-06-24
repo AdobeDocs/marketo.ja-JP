@@ -44,9 +44,9 @@ Marketo Sky オープンベータ版をオプトインして、次のような�
 * アプリ内ガイドとコンテキストヘルプ
 * アセットラベルとより柔軟なカレンダー表示
 
-## [!UICONTROL  パフォーマンスインサイト ] {#performance-insights}
+## [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] {#performance-insights}
 
-[[!UICONTROL  パフォーマンスインサイト ]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[[!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **前年同期比**
 
@@ -62,7 +62,7 @@ Marketo Sky オープンベータ版をオプトインして、次のような�
 
 **共有クイックチャート**
 
-クイックグラフを他の [!UICONTROL  パフォーマンスインサイト ] ユーザーと簡単に共有できます。
+クイックグラフを他の [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] ユーザーと簡単に共有できます。
 
 **ユーザビリティの強化**
 

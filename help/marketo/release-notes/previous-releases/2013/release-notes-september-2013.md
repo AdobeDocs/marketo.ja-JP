@@ -31,7 +31,7 @@ Marketo のカスタムオブジェクトのデータを使用するか、Veloci
 
 テストを送信アクションの名前を、サンプルを送信に変更しました。
 
-## パーソナライズ [!UICONTROL  サンプルメールの送信 ] {#personalized-send-sample-email}
+## パーソナライズ [!UICONTROL &#x200B; サンプルメールの送信 &#x200B;] {#personalized-send-sample-email}
 
 メールサンプルを送信するときに、リード名を選択してサンプルメールをパーソナライズすることができます。
 
@@ -59,7 +59,7 @@ Marketo ユーザーが通常のログイン画面ではなく、SSO のみを�
 
 ## プログラムの属性設定 {#program-attribution-settings}
 
-アカウントベースの属性付けを行う機能を含め、最初のタッチとマルチタッチの属性指標で、Marketo が連絡先と商談を連携する方法を変更できます。これらの設定は、プログラム商談分析エリアと商談分析エリアの下にある [!UICONTROL  収益エクスプローラー ] レポートのアトリビューション指標に影響を与えます。 また、プログラムアナライザーの属性指標にも影響します。
+アカウントベースの属性付けを行う機能を含め、最初のタッチとマルチタッチの属性指標で、Marketo が連絡先と商談を連携する方法を変更できます。これらの設定は、プログラム商談分析エリアと商談分析エリアの下にある [!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] レポートのアトリビューション指標に影響を与えます。 また、プログラムアナライザーの属性指標にも影響します。
 
 プログラムの属性設定は、3 つの選択肢の中から 1 つに変更できます。この設定を変更しても、Marketo または CRM データは変更されません。単にレポートの実行方法が変更され、いつでも元に戻すことができます。
 
@@ -67,7 +67,7 @@ Marketo ユーザーが通常のログイン画面ではなく、SSO のみを�
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## [!UICONTROL Insightの販売 ] フランス語およびドイツ語で提供（[!DNL Salesforce] のみ） {#sales-insight-available-in-french-and-german-salesforce-only}
+## [!UICONTROL Insightの販売 &#x200B;] フランス語およびドイツ語で提供（[!DNL Salesforce] のみ） {#sales-insight-available-in-french-and-german-salesforce-only}
 
 Marketo Lead Management とMarketo[!UICONTROL Sales Insight] の最新版を [!DNL AppExchange] からダウンロードして、フランス語とドイツ語の販売員が [!UICONTROL Sales Insight] のコンテンツを優先言語で閲覧できるようにします。
 

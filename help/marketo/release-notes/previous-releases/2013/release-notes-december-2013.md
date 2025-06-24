@@ -35,9 +35,9 @@ ht-degree: 84%
 
 [チャンピオン／挑戦者テスト](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)は A/B テストに似ていますが、トリガーメールに使用され、勝者を自動的に送信しないという点が異なります。このテストでは、チャンピオンと呼ばれる確立された方法に対して、挑戦者を導入することでチャンピオンがまだ最適な方法かどうかをテストします。さらに、チャンピオン／挑戦者メールテストは、エンゲージメントプログラムストリーム内で使用できます。
 
-## [!UICONTROL  メール分析 ] のリード詳細 {#lead-details-in-email-analysis}
+## [!UICONTROL &#x200B; メール分析 &#x200B;] のリード詳細 {#lead-details-in-email-analysis}
 
-[!UICONTROL  メール分析 ] に、追加のリード属性と会社属性を導入しました。 [!UICONTROL  業界 ]、[!UICONTROL  リードSource] などの新しい属性別にグループ化されたメール統計を表示できるようになりました。
+[!UICONTROL &#x200B; メール分析 &#x200B;] に、追加のリード属性と会社属性を導入しました。 [!UICONTROL &#x200B; 業界 &#x200B;]、[!UICONTROL &#x200B; リードSource] などの新しい属性別にグループ化されたメール統計を表示できるようになりました。
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 

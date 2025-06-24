@@ -15,13 +15,13 @@ ht-degree: 86%
 
 2014年2月リリースには、以下の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳しくは、担当の営業にお問い合わせください。リリース後は、各機能に関するナレッジベースの詳細記事へのリンクを必ず参照してください。
 
-## 勝者条件としての [!UICONTROL  エンゲージメントスコア ] {#engagement-score-as-winning-criteria}
+## 勝者条件としての [!UICONTROL &#x200B; エンゲージメントスコア &#x200B;] {#engagement-score-as-winning-criteria}
 
 [エンゲージメントスコアを使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)して、A/B 分割テストまたはチャンピオン／挑戦者テストの勝者バリアントを決定します。適切なエンゲージメントスコアを得るには、テストを 24 時間以上実行する必要があります。
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
-## メールプログラム [!UICONTROL  結果 ] タブ {#email-program-results-tab}
+## メールプログラム [!UICONTROL &#x200B; 結果 &#x200B;] タブ {#email-program-results-tab}
 
 メールプログラムに記録された[結果とアクティビティを表示](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)します。
 
@@ -53,9 +53,9 @@ AB テストバリアントデータを含む [ メール指標の書き出し�
 
 以下のフィルター名とトリガー名がアップデートされました。
 
-* リンク先のクリック数 [!UICONTROL Web ページのリンクのクリック数 ]
-* クリックされたリンク [!UICONTROL Web ページ上のクリックされたリンク ]
-* クリックされていないリンク [!UICONTROL Web ページ上のクリックされていないリンク ]
+* リンク先のクリック数 [!UICONTROL Web ページのリンクのクリック数 &#x200B;]
+* クリックされたリンク [!UICONTROL Web ページ上のクリックされたリンク &#x200B;]
+* クリックされていないリンク [!UICONTROL Web ページ上のクリックされていないリンク &#x200B;]
 
 ![](assets/image2014-9-22-10-3a51-3a31.png)
 

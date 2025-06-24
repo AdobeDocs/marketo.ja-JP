@@ -55,7 +55,7 @@ ht-degree: 62%
 
 ![（星印）](assets/yellow-star.png)
 
-* [!DNL Salesforce]**の**[!DNL Sales Insight] 権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部であるMarketo アプリ権限セットを使用して、プロファイルレベルではなくユーザーレベルで、限られたユーザーセットに [!DNL Sales Insight] しいアクセス権を付与できます。
+* [!DNL Salesforce]&#x200B;**の**&#x200B;[!DNL Sales Insight] 権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部であるMarketo アプリ権限セットを使用して、プロファイルレベルではなくユーザーレベルで、限られたユーザーセットに [!DNL Sales Insight] しいアクセス権を付与できます。
 
 * **マイMarketo タイルの更新 – [!DNL Sales Insight] アクション**: Marketo管理者（および管理者が指名したユーザー）は、マイMarketo ページの新しい [!DNL Sales Insight] アクションタイルを使用して、[!DNL Sales Insight] Actions インスタンスにすばやく移動できるようになりました。
 

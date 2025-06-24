@@ -31,7 +31,7 @@ ht-degree: 84%
 
 ## 日付演算子 {#date-operators}
 
-[ 高度なフィルター ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)、「[!UICONTROL  過去 ]」、「[!UICONTROL  未来 ]」、「[!UICONTROL  未来 ]」用。 例えば、3 か月後に生年月日があるリードや、6 か月後に期限が切れる契約を検索します。
+[ 高度なフィルター ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)、「[!UICONTROL &#x200B; 過去 &#x200B;]」、「[!UICONTROL &#x200B; 未来 &#x200B;]」、「[!UICONTROL &#x200B; 未来 &#x200B;]」用。 例えば、3 か月後に生年月日があるリードや、6 か月後に期限が切れる契約を検索します。
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 

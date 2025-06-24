@@ -25,7 +25,7 @@ Webhook は、URL/ペイロード内のトークンをエスケープするよ�
 
 ## 更新されたSOAP API エンドポイント {#updated-soap-api-endpoint}
 
-推奨のSOAP API エンドポイントが更新されました。このエンドポイントについては、[!UICONTROL  管理者 ]/SOAP API を参照してください。 この新しいエンドポイントを使用するには、呼び出しを更新してください。古いエンドポイントに対する API 呼び出しは非推奨ですが、引き続き機能します。（SOAP API は [!DNL Spark SMB Edition] では使用できません）
+推奨のSOAP API エンドポイントが更新されました。このエンドポイントについては、[!UICONTROL &#x200B; 管理者 &#x200B;]/SOAP API を参照してください。 この新しいエンドポイントを使用するには、呼び出しを更新してください。古いエンドポイントに対する API 呼び出しは非推奨ですが、引き続き機能します。（SOAP API は [!DNL Spark SMB Edition] では使用できません）
 
 ## [!DNL Facebook] タブのモバイルサポート {#mobile-support-for-facebook-tabs}
 

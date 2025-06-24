@@ -35,7 +35,7 @@ ht-degree: 97%
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## 追加フォーム [!UICONTROL  エラーメッセージ ] の言語 {#additional-form-error-message-languages}
+## 追加フォーム [!UICONTROL &#x200B; エラーメッセージ &#x200B;] の言語 {#additional-form-error-message-languages}
 
 12 以上の言語がフォームエラーメッセージに追加されました。
 

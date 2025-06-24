@@ -45,7 +45,7 @@ Marketo には、レビュー用にサンプルメールを送信する際にセ
 
 ## [LinkedIn リード生成カスタム質問](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-[!UICONTROL LinkedIn リード生成 ] フォームをカスタマイズして、カスタムのリード属性を収集します。 1 つのフォームにつき最大 3 つのカスタム質問をして、1 行のテキスト入力または複数選択の質問から選択、Marketo リードフィールドにマッピングできるようになりました。
+[!UICONTROL LinkedIn リード生成 &#x200B;] フォームをカスタマイズして、カスタムのリード属性を収集します。 1 つのフォームにつき最大 3 つのカスタム質問をして、1 行のテキスト入力または複数選択の質問から選択、Marketo リードフィールドにマッピングできるようになりました。
 
 ## Slack 統合 {#slack-integration}
 

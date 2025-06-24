@@ -35,7 +35,7 @@ ht-degree: 93%
 
 ## 分析のためのプログラムの「包む」および「オペレーショナル」設定 {#inclusive-and-operational-programs-for-analytics}
 
-[!UICONTROL  収益エクスプローラー ] およびアナライザーでは、プログラムチャネルを編集する際に「Analytics の動作」オプションを「含む」に設定することで、[ 期間コストなしでプログラムを含める ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) ことができるようになりました。 また、「オペレーショナル」を選択することで、運用プログラムをすべてレポートから除外することもできます。
+[!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] およびアナライザーでは、プログラムチャネルを編集する際に「Analytics の動作」オプションを「含む」に設定することで、[ 期間コストなしでプログラムを含める ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) ことができるようになりました。 また、「オペレーショナル」を選択することで、運用プログラムをすべてレポートから除外することもできます。
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

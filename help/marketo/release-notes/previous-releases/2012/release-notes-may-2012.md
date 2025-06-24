@@ -129,7 +129,7 @@ Marketo [!DNL Sales Insight] から Opportunity Analyzer に直接アクセス�
 
 匿名リードが訪問したページを参照
 
-[!UICONTROL  匿名 Web アクティビティ ] ビューから匿名リードが表示したページにドリルダウンします。
+[!UICONTROL &#x200B; 匿名 Web アクティビティ &#x200B;] ビューから匿名リードが表示したページにドリルダウンします。
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 

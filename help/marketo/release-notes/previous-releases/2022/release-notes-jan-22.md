@@ -26,7 +26,7 @@ ht-degree: 60%
 * **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
    * [!UICONTROL Design Studio] のランディングページアセットの詳細
-   * [!UICONTROL  マーケティングアクティビティ ] のランディングページアセットの詳細
+   * [!UICONTROL &#x200B; マーケティングアクティビティ &#x200B;] のランディングページアセットの詳細
 
 ## [!DNL Microsoft Dynamics] 統合 {#microsoft-dynamics-integration}
 
@@ -58,7 +58,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 [!DNL Salesforce] CRM の **[!DNL Sales Insight]**
 
-* **ベストベット [!UICONTROL  の新しいタイプ列]**：セラーは、「タイプ」というラベルの付いた新しい列を使用して、[!UICONTROL  ベストベット ] ページのリードと連絡先を区別することで、より迅速にインサイトを得ることができます。
+* **ベストベット [!UICONTROL &#x200B; の新しいタイプ列]**：セラーは、「タイプ」というラベルの付いた新しい列を使用して、[!UICONTROL &#x200B; ベストベット &#x200B;] ページのリードと連絡先を区別することで、より迅速にインサイトを得ることができます。
 
 * **[!DNL Salesforce]Platform API アップデート**:[!DNL Salesforce] Platform API バージョン 21.0[!DNL Salesforce]30.0 の廃止に対応して、[!DNL Sales Insight] パッケージが最新の API でアップデートされました。
 
@@ -82,7 +82,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **フォームエンドポイントの廃止**：leadCapture/save2 エンドポイントに対する、サポートされていないプログラム形式の POST は、Marketo Engage フォームによって拒否されます。[こちら](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631)をクリックすると、詳細が表示されます。
 
-* **ユーザを招待ダイアログにログイン**：3月には、既存のオプション機能「ユーザを招待ダイアログでログイン」は廃止されます。[!UICONTROL  ユーザーを招待ダイアログでログイン ]」機能は、今後のAdobe Identity Management システム統合に必要なユニバーサル ID 機能によって上書きされます。この機能は 2021 年 8 月にすべてのサブスクリプションで有効になりました。 廃止の結果、Marketo Engage の購読では、メールアドレスごとにユーザを 1 名だけ関連付けられるようになります。
+* **ユーザを招待ダイアログにログイン**：3月には、既存のオプション機能「ユーザを招待ダイアログでログイン」は廃止されます。[!UICONTROL &#x200B; ユーザーを招待ダイアログでログイン &#x200B;]」機能は、今後のAdobe Identity Management システム統合に必要なユニバーサル ID 機能によって上書きされます。この機能は 2021 年 8 月にすべてのサブスクリプションで有効になりました。 廃止の結果、Marketo Engage の購読では、メールアドレスごとにユーザを 1 名だけ関連付けられるようになります。
 
 **Marketo Engage ドメイン - [!DNL Sales Insight] Configuration**:SSL 証明書がプロビジョニングされていないMarketo Engage ドメインおよびhttps://の場合、呼び出しは失敗し、SSL ハンドシェイクエラーが発生します。 したがって、これらのドメインは廃止される予定です。その結果、これらのドメインのいずれかを指す古い設定を持つ [!DNL Sales Insight] ユーザーが、リード、連絡先、アカウント、商談パネル、Marketo グローバルページでシステムコールアウトエラーに遭遇する場合があります。 このエラーが発生した場合は、[!DNL Salesforce] で [Marketo Engage設定 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) を更新することをお勧めします。 更新する必要があるのは、ドキュメントの「[!DNL Marketo Sales Insight] Config」セクションでハイライト表示されているMarketo Engage資格情報のみです。
 

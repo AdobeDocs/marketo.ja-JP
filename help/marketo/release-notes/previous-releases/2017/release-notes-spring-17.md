@@ -20,7 +20,7 @@ ht-degree: 72%
 
 [[!UICONTROL LinkedIn Lead Gen]Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) は、企業が [!DNL LinkedIn] でリードジェネレーションキャンペーンを実行するためのより直接的な方法です。 リードが製品やサービスに対する関心を表すフォームに入力し、ビジネスは個人の詳細を取得し、Marketo に同期できます。この場合、自動フォローアッププロセスやリードルーティングアクティビティが発生します。
 
-Marketoと [!UICONTROL LinkedIn リード生成 ] の統合により、Formsはリードがリード生成フォーム内で提供する情報を自動的にキャプチャします。 その後、新しい **フォームへの入力**&#x200B;トリガーとフィルターを使用して、フォローアップの操作 [!DNL LinkedIn Lead Gen] 通知を自動化できます。
+Marketoと [!UICONTROL LinkedIn リード生成 &#x200B;] の統合により、Formsはリードがリード生成フォーム内で提供する情報を自動的にキャプチャします。 その後、新しい **フォームへの入力**&#x200B;トリガーとフィルターを使用して、フォローアップの操作 [!DNL LinkedIn Lead Gen] 通知を自動化できます。
 
 ![](assets/release-notes-image.png)
 
@@ -58,7 +58,7 @@ Marketo ABM で、重点顧客に最大 10 個のカスタムフィールドを�
 
 **[スクロール後の web キャンペーン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-新しい web キャンペーンの効果により、web 訪問者に対して、よりパーソナライズされたエクスペリエンスを提供します。Web 訪問者が Web ページを下にスクロールした場合にのみ表示されるように、パーソナライズした [!UICONTROL Web キャンペーン ] を設定します。 スクロール時に表示するダイアログ [!UICONTROL Web キャンペーン ] を、以下に基づいて設定できます。
+新しい web キャンペーンの効果により、web 訪問者に対して、よりパーソナライズされたエクスペリエンスを提供します。Web 訪問者が Web ページを下にスクロールした場合にのみ表示されるように、パーソナライズした [!UICONTROL Web キャンペーン &#x200B;] を設定します。 スクロール時に表示するダイアログ [!UICONTROL Web キャンペーン &#x200B;] を、以下に基づいて設定できます。
 
 * スクロールされたページの割合
 * 到達したピクセル
@@ -66,7 +66,7 @@ Marketo ABM で、重点顧客に最大 10 個のカスタムフィールドを�
 
 **[エグジットインテント後の web キャンペーン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-訪問者がページを閉じる前に、訪問者の注意を引きます。パーソナライズした [!UICONTROL Web キャンペーン ] を、マウスジェスチャーで訪問者がページから移動していることを示す場合にのみ表示するように設定します。
+訪問者がページを閉じる前に、訪問者の注意を引きます。パーソナライズした [!UICONTROL Web キャンペーン &#x200B;] を、マウスジェスチャーで訪問者がページから移動していることを示す場合にのみ表示するように設定します。
 
 **[Web キャンペーンのアニメーションエフェクト [!UICONTROL Web キャンペーン]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
@@ -76,13 +76,13 @@ Marketo ABM で、重点顧客に最大 10 個のカスタムフィールドを�
 
 **[ダイアログクローズボタンのカスタマイズ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
-ダイアログボックスの「閉じる」ボタンをカスタマイズします。透明ダイアログスタイル [!UICONTROL Web キャンペーン ] で使用される様々なオプションから選択します。 「閉じる」ボタンのアイコン、色、位置を選択します。独自のボタン画像を追加することもできます。
+ダイアログボックスの「閉じる」ボタンをカスタマイズします。透明ダイアログスタイル [!UICONTROL Web キャンペーン &#x200B;] で使用される様々なオプションから選択します。 「閉じる」ボタンのアイコン、色、位置を選択します。独自のボタン画像を追加することもできます。
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
 **[ウェブキャンペーンのアーカイブ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
-アーカイブは、（Web キャンペーン [!UICONTROL  をアーカイブし、デフォルトの Web キャンペーン ビューから非表示にすることができ ] 新しい Web キャンペーン ステータスです。 これにより、最も関連性の高いアクティブなキャンペーンに焦点を当て、古いアーカイブされたキャンペーンをオンデマンドで取得できます。
+アーカイブは、（Web キャンペーン [!UICONTROL &#x200B; をアーカイブし、デフォルトの Web キャンペーン ビューから非表示にすることができ &#x200B;] 新しい Web キャンペーン ステータスです。 これにより、最も関連性の高いアクティブなキャンペーンに焦点を当て、古いアーカイブされたキャンペーンをオンデマンドで取得できます。
 
 ![](assets/archive-campaign-5b2-5d.png)
 

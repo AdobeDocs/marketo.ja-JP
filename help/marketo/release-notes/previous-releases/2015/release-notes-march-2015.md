@@ -31,7 +31,7 @@ ht-degree: 74%
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
-## [!UICONTROL  売上高エクスプローラー ] 再設計 {#revenue-explorer-redesign}
+## [!UICONTROL &#x200B; 売上高エクスプローラー &#x200B;] 再設計 {#revenue-explorer-redesign}
 
 [!UICONTROL Revenue Explorer] のルックアンドフィールは新しく、Sunburst チャートのタイプも新しくなりました。 このアップデートは 4 月頭から 2 週間にわたり展開されます。
 

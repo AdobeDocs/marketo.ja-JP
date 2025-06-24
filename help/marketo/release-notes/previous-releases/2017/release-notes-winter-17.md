@@ -38,7 +38,7 @@ ht-degree: 71%
 
 ## 多言語化対応 {#localization}
 
-Web Personalization、[!UICONTROL  予測コンテンツ ] およびメールインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。 [言語とロケールを選択](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)して、これらの言語でコンテンツを表示します。
+Web Personalization、[!UICONTROL &#x200B; 予測コンテンツ &#x200B;] およびメールインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。 [言語とロケールを選択](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)して、これらの言語でコンテンツを表示します。
 
 ![](assets/japanese-web-personalization.png)
 
@@ -46,33 +46,33 @@ Web Personalization、[!UICONTROL  予測コンテンツ ] およびメールイ
 
 **[重点顧客のインポート](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
-[!UICONTROL  指定アカウント ] 読み込みオプションを使用し、CSV アップロードで一度に複数のレコードを作成または更新します。
+[!UICONTROL &#x200B; 指定アカウント &#x200B;] 読み込みオプションを使用し、CSV アップロードで一度に複数のレコードを作成または更新します。
 
 ![](assets/inatwo.png)
 
 **[メールインサイトのサポート](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
 
-メールインサイトのディメンションとして [!UICONTROL  名前付きアカウント ] または [!UICONTROL  アカウントリスト ] を使用します。
+メールインサイトのディメンションとして [!UICONTROL &#x200B; 名前付きアカウント &#x200B;] または [!UICONTROL &#x200B; アカウントリスト &#x200B;] を使用します。
 
 ![](assets/ei.png)
 
-## [!UICONTROL  予測コンテンツ ] 機能の強化 {#predictive-content-enhancements}
+## [!UICONTROL &#x200B; 予測コンテンツ &#x200B;] 機能の強化 {#predictive-content-enhancements}
 
-**[有効なSource[!UICONTROL  でフィルタリング]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[有効なSource[!UICONTROL &#x200B; でフィルタリング]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-[!UICONTROL  メール ]、[!UICONTROL  リッチメディア ] または [!UICONTROL  レコメンデーションバー [!UICONTROL  に対して有効な ] 予測コンテンツ ] をフィルタリングします。
+[!UICONTROL &#x200B; メール &#x200B;]、[!UICONTROL &#x200B; リッチメディア &#x200B;] または [!UICONTROL &#x200B; レコメンデーションバー [!UICONTROL &#x200B; に対して有効な &#x200B;] 予測コンテンツ &#x200B;] をフィルタリングします。
 
 ![](assets/predictive-content-enabled-source.png)
 
 **[フィルター [!UICONTROL Sourceによる Analytics]](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
-特定のソース（[!UICONTROL  メール ]、[!UICONTROL  リッチメディア ]、または [!UICONTROL  レコメンデーションバー ] に対するフィルター [!UICONTROL  予測コンテンツ ] 分析。
+特定のソース（[!UICONTROL &#x200B; メール &#x200B;]、[!UICONTROL &#x200B; リッチメディア &#x200B;]、または [!UICONTROL &#x200B; レコメンデーションバー &#x200B;] に対するフィルター [!UICONTROL &#x200B; 予測コンテンツ &#x200B;] 分析。
 
 ![](assets/predictive-content-analytics-by-source.png)
 
-**[!UICONTROL 予測コンテンツ ] エディター**
+**[!UICONTROL 予測コンテンツ &#x200B;] エディター**
 
-編集エクスペリエンスとレイアウトが改善され、ソース（[!UICONTROL  メール ]、[!UICONTROL  リッチメディア ]、[!UICONTROL  レコメンデーションバー ] によってコンテンツの準備が分割されます。
+編集エクスペリエンスとレイアウトが改善され、ソース（[!UICONTROL &#x200B; メール &#x200B;]、[!UICONTROL &#x200B; リッチメディア &#x200B;]、[!UICONTROL &#x200B; レコメンデーションバー &#x200B;] によってコンテンツの準備が分割されます。
 
 ![](assets/predictive-content-editor.png)
 

@@ -63,6 +63,6 @@ ht-degree: 76%
 
 * **Asset API「_method」パラメーターの削除**：2020 年 9 月以降、Asset API エンドポイントは、URI 長制限を回避するための POST ボディ内のクエリパラメーターを渡す方法として「_method」パラメーターを受け付けなくなります。このパラメーターを必要とするリクエストに対応するため、Asset API の URI 制限が 8 KB から 65 KB に引き上げられます。
 * **[[!DNL Munchkin] リードを関連付け ](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**:Munchkin JavaScript クライアントのバージョン 159 のこのリリースでは、[!DNL Munchkin] リードを関連付けメソッドの廃止が開始されます。 メソッドを呼び出すと、今後のリリースでメソッドが削除されることを示す警告が表示されます。削除すると、メソッドは機能しなくなり、使用しようとしても失敗します。Marketo Engage のお客様で、最近この方法を利用した場合、利用内容が個別に通知されます。
-* **Internet Explorer のサポート**：既にお知らせした通り、Marketo Engage の Internet Explorer 11 のサポートは **2020 年 7 月 31 日**（PT）で終了しました。引き続き [!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL  Apple Safari]、[!DNL Microsoft Edge] を支援していきます。
+* **Internet Explorer のサポート**：既にお知らせした通り、Marketo Engage の Internet Explorer 11 のサポートは **2020 年 7 月 31 日**（PT）で終了しました。引き続き [!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL &#x200B; Apple Safari]、[!DNL Microsoft Edge] を支援していきます。
 * **Sky のデフォルトエクスペリエンス**：管理者またはユーザーが [!DNL Marketo Sky] をデフォルトエクスペリエンスとして設定するオプションは、プライマリユーザーエクスペリエンスの更新に備えて、このリリースで削除されます。 今年後半に予定されているメイン UX のアップデートの詳細は、7 月以降に公開される予定です。デフォルトのエクスペリエンスとして [!DNL Marketo Sky] を設定したユーザー、または [!DNL Marketo Sky] へのアクセス権を付与されたユーザーは、引き続きマイMarketo ホームページのタイルから [!DNL Marketo Sky] にアクセスできます。
 * **EdgeHTML （Chromium 以外）の [!DNL Microsoft Edge] サポート**:Marketo Engageは、2020 年末をもってMicrosoft Edgeの EdgeHTML バージョンをサポートしなくなります。 2021 年 1 月 1 日（PT）からは、Microsoft Edge の Chromium 最新版のみをサポートします。

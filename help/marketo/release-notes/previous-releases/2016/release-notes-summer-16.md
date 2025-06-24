@@ -85,7 +85,7 @@ Marketo 内で SMS メッセージを簡単に作成できます。リッチ Mar
 
 ## [エンタープライズキー](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-営業チームの各担当者に [!DNL Sales Insight] Plugin for [!DNL Outlook] をインストールしてもらうのは面倒な場合があります。 エンタープライズキーを使用して [!DNL Outlook] 用のプラグインをリモートでインストールする新しい方法を導入しました。 [!UICONTROL  管理者 ] の「Marketo [!DNL Sales Insight]」セクションにある一意のキーを IT チームに送信し、残りの作業は IT チームに任せます。
+営業チームの各担当者に [!DNL Sales Insight] Plugin for [!DNL Outlook] をインストールしてもらうのは面倒な場合があります。 エンタープライズキーを使用して [!DNL Outlook] 用のプラグインをリモートでインストールする新しい方法を導入しました。 [!UICONTROL &#x200B; 管理者 &#x200B;] の「Marketo [!DNL Sales Insight]」セクションにある一意のキーを IT チームに送信し、残りの作業は IT チームに任せます。
 
 ![](assets/enterprise-key.png)
 

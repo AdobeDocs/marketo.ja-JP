@@ -61,9 +61,9 @@ ht-degree: 76%
 
 ## アナリティクス {#analytics}
 
-**[!UICONTROL メールインサイト ] 機能の強化**
+**[!UICONTROL メールインサイト &#x200B;] 機能の強化**
 
-データの準備と共有の新しい方法で、[!UICONTROL  メールインサイト ] のエクスペリエンスをさらに活用しましょう。 [!UICONTROL  メールインサイト ] の結果を [!DNL Microsoft Excel] にダウンロードし、Marketo外のデータを操作で [!DNL PowerPoint] るようになりました。
+データの準備と共有の新しい方法で、[!UICONTROL &#x200B; メールインサイト &#x200B;] のエクスペリエンスをさらに活用しましょう。 [!UICONTROL &#x200B; メールインサイト &#x200B;] の結果を [!DNL Microsoft Excel] にダウンロードし、Marketo外のデータを操作で [!DNL PowerPoint] るようになりました。
 
 ## 連携 ID 構成サポート {#federated-identity-configuration-support}
 
