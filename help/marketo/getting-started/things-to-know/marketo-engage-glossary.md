@@ -444,7 +444,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>認識済み顧客</strong></a></td> 
-   <td><p>Marketo <strong>データベース</strong>内の人物データは、既知の人物データと見なされます。任意のユーザがあなたのデータベースに入るには、CRM 同期、フォームへの入力、リストのインポート／手動入力、プログラム上（REST API／パートナー統合）など、様々な方法があります。Web 訪問者は、最初は Marketo の <strong>Munchkin</strong> web トラッキングによって <strong>Cookie が使用され</strong>（および匿名で）、その後、識別可能なアクション（例：Marketo メール内のトラッキング用リンクをクリックした、メールアドレスを使用してフォームに入力した、または <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a> および <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">REST API</a> の両方で Marketo 関連リード API を使用して手動でマッピングされた）が発生すると、対応する既知の人物レコードにマッピングされます。</p></td> 
+   <td><p>Marketo <strong>データベース</strong>内の人物データは、既知の人物データと見なされます。任意のユーザがあなたのデータベースに入るには、CRM 同期、フォームへの入力、リストのインポート／手動入力、プログラム上（REST API／パートナー統合）など、様々な方法があります。Web 訪問者は、最初は Marketo の <strong>Munchkin</strong> web トラッキングによって <strong>Cookie が使用され</strong>（および匿名で）、その後、識別可能なアクション（例：Marketo メール内のトラッキング用リンクをクリックした、メールアドレスを使用してフォームに入力した、または <a href="https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a> および <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">REST API</a> の両方で Marketo 関連リード API を使用して手動でマッピングされた）が発生すると、対応する既知の人物レコードにマッピングされます。</p></td> 
   </tr> 
  </tbody> 
 </table>
