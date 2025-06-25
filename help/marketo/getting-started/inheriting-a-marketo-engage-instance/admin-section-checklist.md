@@ -3,8 +3,8 @@ description: 継承インスタンス管理者チェックリスト - Marketo �
 title: 継承インスタンス管理者チェックリスト
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+workflow-type: tm+mt
 source-wordcount: '1858'
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ ht-degree: 100%
   <tr> 
    <td>サブスクリプションおよび Marketo Engage 製品管理者</td> 
    <td><li>Marketo Engage サブスクリプションは既に <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> に移行されましたか？
-<br/>     移行が完了している場合、「Adobe Admin Console システム管理者」から「Adobe Admin Console 製品管理者」ロールが付与されていますか？組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、<a href="https://helpx.adobe.com/jp/contact.html" target="_blank">アドビカスタマーケア</a>にお問い合わせください。</li>
+<br/>     移行が完了している場合、「Adobe Admin Console システム管理者」から「Adobe Admin Console 製品管理者」ロールが付与されていますか？組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、<a href="https://helpx.adobe.com/contact.html" target="_blank">アドビカスタマーケア</a>にお問い合わせください。</li>
 <li>「Marketo Engage 製品管理者」の招待を受け入れましたか？Adobe Admin Console でロールが割り当てられると、メールが送信されます。
 <br/>     そうでない場合は、インボックスで<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">ウェルカムメール</a>を探し、招待を受け入れて Adobe ID をアクティベートします。</li></td>
   </tr>
@@ -281,7 +281,7 @@ ht-degree: 100%
    <td>Munchkin</td> 
    <td><li>Web サイト（Marketo Engage ランディングページ以外）に <a href="/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md" target="_blank">Munchkin トラッキングコード</a>は設置されていますか？</li>
 <li>「<a href="/help/marketo/product-docs/administration/settings/edit-do-not-track-browser-support-settings.md" target="_blank">トラックしない</a>」ブラウザーリクエストは有効になっていますか？</li>
-<li><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/javascriptapi/lead-tracking.html?lang=ja" target="_blank">Munchkin API</a> は設定されていますか？ 
+<li><a href="https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin API</a> は設定されていますか？ 
 <p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：Web サイト上の Munchkin コードの場所に関するドキュメントが見つからない場合は、<a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" target="_blank">web ページアクティビティレポート</a>を作成することですべての URL を表示できます。</li></td>
   </tr>
   <tr> 
