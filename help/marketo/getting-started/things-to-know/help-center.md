@@ -1,9 +1,9 @@
 ---
-description: ヘルプセンター – Marketo Engageドキュメント
+description: ヘルプセンター – Marketo Engage ドキュメント – 製品ドキュメント
 title: ヘルプセンター
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '312'
 ht-degree: 32%
@@ -20,9 +20,9 @@ Adobe Marketo Engage のヘルプセンターは、サポートを受ける際�
 
 ### Adobe IMS前の移行 {#pre-adobe-ims-integration}
 
-これらの手順は、まだ _2&rbrace;Adobe IMSに移行されていない_ Marketo Engageユーザーを対象と [&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) ています。
+これらの手順は、[Adobe IMSに移行されて _ない_ Marketo Engage ユーザーを対象と ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} ています。
 
-Marketo Engageに [ ログイン ](http://login.marketo.com/) し、「ヘルプ」アイコンをクリックします。
+Marketo Engageに [ ログイン ](https://login.marketo.com/){target="_blank"} し、「ヘルプ」アイコンをクリックします。
 
 ![](assets/help-center-1.png)
 
@@ -70,9 +70,9 @@ Marketo Engageに [ ログイン ](http://login.marketo.com/) し、「ヘルプ
 
 ### Adobe IMS後の移行 {#post-adobe-ims-integration}
 
-これらの手順は、既に [Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) に移行されているMarketo Engageユーザーを対象としています。
+これらの手順は、[Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に既に移行されているMarketo Engage ユーザーを対象としています。
 
-Marketo Engageに [ ログイン ](https://experience.adobe.com/) し、「ヘルプ」アイコンをクリックします。
+Marketo Engageに [ ログイン ](https://experience.adobe.com/){target="_blank"} し、「ヘルプ」アイコンをクリックします。
 
 ![](assets/help-center-9.png)
 
@@ -84,7 +84,7 @@ Marketo Engageに [ ログイン ](https://experience.adobe.com/) し、「ヘ�
 
 ![](assets/help-center-11.png)
 
-ガイドセンターには、「ガイド」と「新機能」の 2 つのタブがあります。 ガイドは、Marketo Engageで一般的な機能の簡単なガイドとして機能します。 目的のガイドをクリックするか、特定のガイドを検索します。
+ガイドセンターには、「ガイド」と「新機能」の 2 つのタブがあります。 ガイドは、Marketo Engageの一般的な機能に関するクイックウォークスルーとして機能します。 目的のガイドをクリックするか、特定のガイドを検索します。
 
 ![](assets/help-center-12.png)
 

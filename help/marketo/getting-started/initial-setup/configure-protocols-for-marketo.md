@@ -4,8 +4,8 @@ description: Marketo のプロトコルの設定 - Marketo ドキュメント - 
 title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
-workflow-type: ht
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 100%
 
@@ -268,7 +268,7 @@ DMARC の整列には、DKIM 整列と SPF 整列の 2 つのタイプがあり�
 
 * 専用 IP を通じて Marketo からメールを送信していて、ブランドの Return-Path をまだ実装していない場合や、実装しているかどうかわからない場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}でチケットを開いてください。
 
-* IP の共有プールを通じて Marketo からメールを送信している場合は、[こちらで申請](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}することで、信頼済み IP の資格があるかどうかを確認できます。Marketo の信頼済み IP から送信するユーザには、ブランドの Return-Path が無料で提供されます。このプログラムに対して承認された場合は、Marketo サポートに連絡してブランドの Return-Path を設定してください。
+* IP の共有プールを通じて Marketo からメールを送信している場合は、[こちらで申請](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}することで、信頼済み IP の資格があるかどうかを確認できます。Marketo の信頼済み IP から送信するユーザには、ブランドの Return-Path が無料で提供されます。このプログラムに対して承認された場合は、Marketo サポートに連絡してブランドの Return-Path を設定してください。
 
    * 信頼済み IP：専用 IP の資格がなく、月あたりの送信メッセージが 75,000 件未満の低メッセージ量ユーザ用に予約された共有 IP プール。また、これらのユーザは、ベストプラクティスの要件も満たす必要があります。
 
