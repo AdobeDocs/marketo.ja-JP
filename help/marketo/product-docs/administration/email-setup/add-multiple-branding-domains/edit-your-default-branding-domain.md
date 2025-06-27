@@ -5,9 +5,9 @@ title: デフォルトのブランディングドメインの編集
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
 source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -43,4 +43,4 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->既存の SSL を更新または削除する必要がある場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。
+>既存の SSL を更新または削除する必要がある場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
