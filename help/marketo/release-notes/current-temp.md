@@ -4,10 +4,11 @@ title: 最新のリリースノート
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
+exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
+source-git-commit: 320be450e0dcf0d1bcbeeb590b1a3207b5e79955
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 49%
+source-wordcount: '562'
+ht-degree: 40%
 
 ---
 
@@ -113,7 +114,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong> タイトル </strong>：説明。</td> 
+   <td><strong> メールDesigner - GenStudioの統合 </strong>：メール内からGenStudioを統合してパフォーマンスマーケティングを行い、マーケティング効率を向上させ、ブランドの一貫性を保ちます。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -123,7 +124,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong> タイトル </strong>：説明。</td> 
+   <td><strong>REST API エラーコード通知の更新 </strong>：アプリ内通知に REST API エラーの 2 つのクラス（606 – 最大レート制限を超えた、607 - 1 日の割り当て量に達した）が追加されました。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -133,7 +134,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong> タイトル </strong>：説明。</td> 
+   <td><strong> フィールド管理でのプログラムメンバー標準フィールドの表示 </strong>: <i> フィールド管理 </i> の標準およびカスタムプログラムメンバーフィールドの両方が表示されるようになりました。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -143,7 +144,17 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong> タイトル </strong>：説明。</td> 
+   <td><strong> フィールド管理の REST API 名 </strong>：この更新により、管理者は、リストをエクスポートしなくても REST API フィールド名を確認できます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> リストで使用されるマイトークン </strong>：マイトークンを使用しているアセット（一度に最大 50 個のアセット）のリストを表示します。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>

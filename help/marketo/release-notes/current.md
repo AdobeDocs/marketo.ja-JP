@@ -3,16 +3,16 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6da797bc91de018e789f1e5980523a02e38eba30
-workflow-type: ht
-source-wordcount: '517'
-ht-degree: 100%
+source-git-commit: 5dea84390b7d008ad0b19c5bc0e113f2a886ca72
+workflow-type: tm+mt
+source-wordcount: '562'
+ht-degree: 40%
 
 ---
 
-# リリースノート：2025年5月 {#release-notes-may-25}
+# リリースノート：2025年7月 {#release-notes-july-25}
 
-2025年5月リリースに含まれるすべての機能を以下に示します。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+以下に、2025 年 7 月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
@@ -22,7 +22,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当します。リリースは **2025年5月23日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
+次の機能は標準リリースサイクルに従っており、**2025年7月11日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="table-layout:auto"> 
  <tbody>
@@ -32,37 +32,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr> 
-   <td><strong>メールコンテンツのパーソナライゼーション</strong>：Marketo Engage は、他の AEP アプリケーショントークンと同じキャメルケース構文に従うようになったので、Adobe DX 製品全体で一貫性のあるエクスペリエンスが提供されます。すべての標準トークンと、メンバー、プログラム、マイトークンなどの Marketo Engage 固有のトークンが、新しいメールデザイナーで使用できます。</td> 
-   <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md">パーソナライゼーショントークン</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>メールデザイナーアセットのロールベースのアクセス制御</strong>：ロールベースのアクセス制御（RBAC）システムへの新しい機能強化により、新しいメールデザイナーで活用されるアセットに対して、より詳細な権限と改善されたユーザー管理が提供されます。</td> 
-   <td>リリース済み</td>
-   <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">新しい E メールデザイナーに対するきめ細かい権限（ブログ投稿）</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>メールデザイナーで作成したメールの複製</strong>：新しいメールデザイナーを使用して作成した既存のメールを複製できるようになりました。</td> 
-   <td>リリース済み</td>
-   <td>該当なし</td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>E メールデザイナーでの GenStudio の統合</strong>：メール内からパフォーマンスマーケティングを行えるよう GenStudio を統合し、マーケティングの効率を向上、およびブランドの一貫性を維持します。</td> 
+   <td><strong> メールDesigner - AI アシスタント付きブランドキット </strong>：色、フォント、ロゴ、テーマ、ビジュアルコンテンツ、コンプライアンスガイドラインなどのブランドアセットを 1 か所に保存して管理することで、メールアセット全体でブランドの一貫性を維持します。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -72,7 +42,117 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>任意の属性のトリガートークン</strong>：スマートキャンペーンフィールドで任意のアクティビティ属性のデータを使用できるように、トリガートークンの一覧が拡張されています。</td> 
+   <td><strong> メールDesigner - カスタム CSS サポート </strong>：メールをデザインする際に、独自のカスタム CSS をメールDesigner内に直接追加できるようになりました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> 電子メールDesigner - Assetsの移動とプログラム削除のサポート </strong>：プログラム間で電子メールアセットをすばやく再配置します。 新しいデザイナーのメールアセットを含んだプログラムを削除できるようになりました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> メールDesigner - Firefox サポート </strong>：メールDesignerが Mozilla Firefox で完全にサポートされるようになりました。 最適なエクスペリエンスを得るには、ブラウザーを常に最新の状態に保ちます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> メールDesigner - プロパティページからコンテンツをシミュレート </strong>：編集画面に戻ることなく、<i> メールのプロパティ </i> からメールアセットのコンテンツをシミュレートします。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+   <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> メールDesigner - Assetsのロールベースのアクセス制御 </strong>: 5 月のリリースでは、編集、承認および削除権限に対してロールベースのアクセス制御（RBAC）が実装されました。 このリリースで読み取り権限が使用できるようになりました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> メールDesigner – 公開済みメールのメールプロパティを編集 </strong>: メールの公開後も <i> メールプロパティ </i> で編集を行います。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> メールDesigner - ブランディングドメインとドメイン IP 設定を選択 </strong>：すべてのメールアセットに対して「ブランディングドメイン」と「ドメイン IP 設定」を選択できるようになりました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> メールDesigner - GenStudioの統合 </strong>：メール内からGenStudioを統合してパフォーマンスマーケティングを行い、マーケティング効率を向上させ、ブランドの一貫性を保ちます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>REST API エラーコード通知の更新 </strong>：アプリ内通知に REST API エラーの 2 つのクラス（606 – 最大レート制限を超えた、607 - 1 日の割り当て量に達した）が追加されました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> フィールド管理でのプログラムメンバー標準フィールドの表示 </strong>: <i> フィールド管理 </i> の標準およびカスタムプログラムメンバーフィールドの両方が表示されるようになりました。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> フィールド管理の REST API 名 </strong>：この更新により、管理者は、リストをエクスポートしなくても REST API フィールド名を確認できます。</td> 
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> リストで使用されるマイトークン </strong>：マイトークンを使用しているアセット（一度に最大 50 個のアセット）のリストを表示します。</td> 
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -81,12 +161,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 <br/>
 
 ## お知らせ {#announcements}
-
-* **Facebook オフラインコンバージョン統合の更新**：2025年5月29日（PT）に、Marketo Engage の [Facebook オフラインコンバージョン](https://experienceleague.adobe.com/jp/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"}統合が新しい Meta [Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} に移行されます。これは、Graph API のバージョン管理に従って Meta が [Offline Conversions API](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} を廃止したためです。詳しくは、Meta の [Conversions API を使用したオフラインイベントの送信](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"}（オフライン用の CAPI）ガイドを参照してください。
-
-* **新しい分析機能 - パブリックベータ版**：[高度な BI 分析](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"}（以前の収益エクスプローラーおよび高度な Report Builder）は、4 月中旬に現在のすべての収益サイクルエクスプローラーユーザへのロールアウトを開始します。この新しいツールには、Marketo Engage データに関する柔軟なレポートとビジュアライゼーションインターフェイスが用意されています。これにより、進行状況やパフォーマンスなどに関する詳細を表示できます。より豊富なインタラクティブ機能とビジュアライゼーション、より高速なパフォーマンス、よりシームレスで直感的なユーザエクスペリエンスを備えています。
-
-この機能にアクセスするには、高度な BI 分析アドオンを購入する必要があります。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 * **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2025年10月31日（PT）以降は使用できなくなります。すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
