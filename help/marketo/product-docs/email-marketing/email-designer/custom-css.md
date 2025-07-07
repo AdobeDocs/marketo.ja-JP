@@ -7,10 +7,10 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
 workflow-type: tm+mt
-source-wordcount: '664'
-ht-degree: 72%
+source-wordcount: '667'
+ht-degree: 70%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 72%
 
 メールコンテンツにカスタム CSS を追加するには、次の手順に従います。
 
-1. 1 つ以上の[コンポーネント](content-components.md)を追加して、E メールデザイナーにコンテンツが定義されていることを確認します。
+1. 少なくとも 1 つのコンポーネントを追加して、メールDesignerでコンテンツの一部が定義されていることを確認します。 リンク – これを保持しますか？
 
 1. 左側の&#x200B;**[!UICONTROL ナビゲーションツリー]**&#x200B;または右側のパネルの上部にある「**[!UICONTROL 本文]**」を選択します。右側に「**[!UICONTROL CSS スタイル]**」セクションが表示されます。
 
