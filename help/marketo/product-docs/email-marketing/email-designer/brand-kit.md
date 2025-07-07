@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
+source-git-commit: 25a218896c84a7145f05079fe8adcf3d657adcad
 workflow-type: tm+mt
 source-wordcount: '1260'
-ht-degree: 87%
+ht-degree: 86%
 
 ---
 
@@ -107,7 +107,7 @@ ht-degree: 87%
 
 キャンペーン作成時にコンテンツを生成し、一致スコアを計算する際に自動的に適用されるデフォルトのブランドを指定できます。
 
-デフォルトのブランドを設定するには、**[!UICONTROL ブランド]**&#x200B;ダッシュボードに移動します。![](assets/do-not-localize/Smock_More_18_N.svg) アイコンをクリックして詳細メニューを開き、「**[!UICONTROL デフォルトのブランドとしてマーク]**」を選択します。
+デフォルトのブランドを設定するには、**[!UICONTROL ブランド]**&#x200B;ダッシュボードに移動します。アイコンをクリックし、「」をクリックして詳細メニューを開き、「**[!UICONTROL デフォルトブランドとしてマーク]**」を選択します。
 
 スクリーンショット
 
