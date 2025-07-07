@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
 workflow-type: tm+mt
-source-wordcount: '1258'
-ht-degree: 88%
+source-wordcount: '1260'
+ht-degree: 87%
 
 ---
 
@@ -246,7 +246,7 @@ ht-degree: 88%
 
 **[!UICONTROL 書き込みのスタイル]**&#x200B;をパーソナライズするには：
 
-1. 「**[!UICONTROL 書き込みのスタイル]**」タブで、![](assets/do-not-localize/Smock_Add_18_N.svg) をクリックし、ガイドライン、例外または除外を追加します。
+1. **[!UICONTROL ライティングスタイル]** タブで、このアイコンをクリックして、ガイドライン、例外、除外を追加します。
 
 1. ガイドライン、例外または除外を入力して、「**[!UICONTROL 追加]**」をクリックします。
 
