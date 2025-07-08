@@ -152,7 +152,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **Marketo Engage ID の提供終了**: 2025 年 8 月、AdobeはMarketo Engage ID のサポートの段階的な廃止を開始します（`login.marketo.com` 経由でのログイン）。 Marketo Engageへのアクセスが中断されないようにするには、2025 年 9 月 30 日（PT）までに [](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}Adobe ID に移行する必要があります。
+* **Marketo Engage ID の提供終了**: 2025 年 8 月、AdobeはMarketo Engage ID のサポートの段階的な廃止を開始します（`login.marketo.com` 経由でのログイン）。 Marketo Engageへのアクセスが中断されないようにするには、2025 年 9 月 30 日（PT）までに [&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}Adobe ID に移行する必要があります。
 
    * _IP 制限の廃止_:[IP に基づくMarketo ログインの制限 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} のサポートは 2025 年 7 月 30 日（PT）に終了します。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin ConsoleのAdobe ID の新しい場所ベースのアクセス制御機能は、2025 年 8 月のリリースを予定しています。
 
