@@ -1,13 +1,15 @@
 ---
 unique-page-id: 10096583
-description: "次世代  [!DNL Munchkin]  トラッキングに関する FAQ - Marketo ドキュメント - 製品ドキュメント"
-title: "次世代  [!DNL Munchkin]  トラッキングに関する FAQ"
+description: 次世代トラッキ  [!DNL Munchkin]  グに関する FAQ - Marketo ドキュメント – 製品ドキュメント
+title: 次世代トラッキ  [!DNL Munchkin]  グに関するよくある質問
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+hide: true
+hidefromtoc: true
+source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
 workflow-type: tm+mt
 source-wordcount: '698'
-ht-degree: 99%
+ht-degree: 97%
 
 ---
 
@@ -45,7 +47,7 @@ ht-degree: 99%
 >
 >**トリガー**：Web ページへの訪問、Web ページが料金ページ\
 >**フロー**：変更スコア 10 以上と注目のアクション
->**Web**：料金ページを閲覧した
+>>**Web**：料金ページを閲覧した
 >
 >[!DNL Munchkin] V2 では、匿名ユーザーが料金ページを訪問しても、すぐにはキャンペーンは開始しません。匿名ユーザーが既知のユーザーとなった時点から、その人物にこのキャンペーンが適用されます。以下の処理が行われます。
 >
@@ -86,8 +88,8 @@ ht-degree: 99%
 
 [匿名リードのアップグレード - 調査対象](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
-[匿名リードを既知のリードに昇格 -  [!DNL Munchkin]  V2 の動作](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
+[ 既知のリードへの匿名リードプロモーション - [!DNL Munchkin] V2 動作 ](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
 ## まだ質問があります。どのようにしたら回答を得ることができますか？ {#i-have-more-questions-how-do-i-get-them-answered}
 
-[コミュニティ](https://nation.marketo.com/){target="_blank"}にお問い合わせください。また、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} にお問い合わせいただくこともできます。 喜んで質問に回答いたします。
+[コミュニティ](https://nation.marketo.com/){target="_blank"}に連絡してください。また、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}に問い合わせることもできます。喜んで回答させていただきます。
