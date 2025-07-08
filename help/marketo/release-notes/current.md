@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 5dea84390b7d008ad0b19c5bc0e113f2a886ca72
+source-git-commit: 4d6c929bf7dc5b8c825fe7d7ab613dd8fd750aa0
 workflow-type: tm+mt
-source-wordcount: '562'
-ht-degree: 40%
+source-wordcount: '667'
+ht-degree: 33%
 
 ---
 
@@ -30,16 +30,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:65%">機能</th> 
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
-  </tr>
-  <tr> 
-   <td><strong> メールDesigner - AI アシスタント付きブランドキット </strong>：色、フォント、ロゴ、テーマ、ビジュアルコンテンツ、コンプライアンスガイドラインなどのブランドアセットを 1 か所に保存して管理することで、メールアセット全体でブランドの一貫性を維持します。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
   </tr>
   <tr> 
    <td><strong> メールDesigner - カスタム CSS サポート </strong>：メールをデザインする際に、独自のカスタム CSS をメールDesigner内に直接追加できるようになりました。</td> 
@@ -161,6 +151,12 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 <br/>
 
 ## お知らせ {#announcements}
+
+* **Marketo Engage ID の提供終了**: 2025 年 8 月、AdobeはMarketo Engage ID のサポートの段階的な廃止を開始します（`login.marketo.com` 経由でのログイン）。 Marketo Engageへのアクセスが中断されないようにするには、2025 年 9 月 30 日（PT）までに [](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}Adobe ID に移行する必要があります。
+
+   * _IP 制限の廃止_:[IP に基づくMarketo ログインの制限 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} のサポートは 2025 年 7 月 30 日（PT）に終了します。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin ConsoleのAdobe ID の新しい場所ベースのアクセス制御機能は、2025 年 8 月のリリースを予定しています。
+
+   * _シングルサインオン （SSO）の廃止_: [Marketo Identity SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} のサポートは 2025 年 7 月 30 日に終了します。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin ConsoleのAdobe ID のシングルサインオンは、別途設定する必要があります。 設定手順については、[ID とシングルサインオンの設定 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} を参照してください。
 
 * **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2025年10月31日（PT）以降は使用できなくなります。すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
