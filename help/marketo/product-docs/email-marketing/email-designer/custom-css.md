@@ -1,23 +1,23 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITLE
+title: メールコンテンツへのカスタム CSS の追加
 description: Marketo EngageのメールDesigner内でメールコンテンツに直接カスタム CSS を追加する方法を説明します。
 level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 37938db9eafbe7860448d438e2fa03adccd043ec
 workflow-type: tm+mt
 source-wordcount: '620'
-ht-degree: 30%
+ht-degree: 29%
 
 ---
 
-# メールコンテンツへのカスタム CSS の追加 {#email-metadata}
+# メールコンテンツへのカスタム CSS の追加 {#custom-css}
 
-独自のカスタム CSS をMarketo Engage メールDesigner内に直接追加して、高度な特定のスタイル設定を行うことができます。
+独自のカスタム CSS をMarketo Engage メールDesigner内に直接追加して、高度な特定のスタイル設定を行います。
 
 ## カスタム CSS の定義 {#define-custom-css}
 
@@ -25,7 +25,7 @@ ht-degree: 30%
 
 1. 左側の **[!UICONTROL ナビゲーションツリー]** または右側のパネルから **[!UICONTROL 本文]** を選択します。 **[!UICONTROL CSS スタイル]** が右側に表示されます。
 
-   スクリーンショット
+   ![](assets/custom-css-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -37,17 +37,17 @@ ht-degree: 30%
    >
    >「**[!UICONTROL カスタム CSS を追加]**」ボタンは、「**[!UICONTROL 本文]**」が選択されている場合にのみ使用できます。 ただし、コンテンツ内のすべてのコンポーネントにカスタム CSS スタイルを適用できます。
 
-1. ポップアップ表示される専用のテキスト領域に CSS コードを入力します。カスタム CSS が有効で、適切な構文に従っていることを確認します。[詳細情報](#use-valid-css)
+1. ポップアップ表示される専用のテキスト領域に CSS コードを入力します。カスタム CSS [ が有効で、適切な構文に従っていることを確認します ](#use-valid-css)。 終了したら「**保存**」をクリックします。
 
-   スクリーンショット
+   ![](assets/custom-css-2.png)
 
    >[!NOTE]
    >
    >[ コンテンツがロックされたテンプレート ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md) を使用する場合、カスタム CSS をコンテンツに追加することはできません。 ボタンのラベルが **[!UICONTROL カスタム CSS を表示]** に変わり、表示されるカスタム CSS は読み取り専用になります。
 
-1. カスタム CSS を保存し、コンテンツに適用することを確認します。 表示されない場合は、[ トラブルシューティング ](#troubleshooting) の節を確認してください。
+1. CSS がコンテンツに適用されていることを確認します。 表示されない場合は、[ トラブルシューティング ](#troubleshooting) の節を確認してください。
 
-   スクリーンショット
+   ![](assets/custom-css-3.png)
 
    >[!NOTE]
    >
