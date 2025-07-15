@@ -4,9 +4,9 @@ description: リリースノート - 2018 年春 - Marketo ドキュメント - 
 title: リリースノート - 2018 年春
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '461'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -18,21 +18,21 @@ ht-degree: 78%
 
 ## Marketo [!DNL Sales Engage]、Launch、[!DNL ToutApp] のアップデート {#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Marketo [!DNL Sales Engage]](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Marketo  [!DNL Sales Engage]](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
 * [Launch](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-* [!DNL ToutApp] の更新
+* [!DNL ToutApp] のアップデート
 
 >[!AVAILABILITY]
 >
->[!DNL Sales Engage] はアドオン製品です。 見積もりについては、Marketo カスタマーサクセスマネージャーまたはアカウント担当者にお問い合わせください。
+>[!DNL Sales Engage] はアドオン製品です。見積もりについては、Marketo カスタマーサクセスマネージャーまたはアカウント担当者にお問い合わせください。
 
-インテリジェンス、コンテンツ、プレイブック、分析を活用して、より多くのリードをセールス機会に変換することで、より多くのパイプラインと売上高を促進します。[!DNL Sales Engage] は、カスタマージャーニー全体を通じて、エンゲージメントのための統一されたプラットフォームを販売とマーケティングに提供し、顧客タッチポイントの共有ビューを通じて、より優れた調整を可能にします。
+インテリジェンス、コンテンツ、プレイブック、分析を活用して、より多くのリードをセールス機会に変換することで、より多くのパイプラインと売上高を促進します。[!DNL Sales Engage] は、カスタマージャーニー全体を通じたエンゲージメントのための統合プラットフォームをセールスとマーケティングに提供し、顧客タッチポイントに関する共通の視点を通じて、より優れた連携を実現します。
 
 **[!DNL ToutApp]**
 
 * **コンプライアンスカード**：セールス連絡先のソースと、通信の受信に関する顧客の同意の詳細を取り込むことで、GDPR のコンプライアンスを確保します。
 * **パスワードポリシーの更新**：パスワードの作成、リセット、有効期限に関するより厳しい要件（Soc II - Type 1 準拠要件を満たす）により、データの安全性を確保します。
-* **アカウント設定エクスペリエンスの効率化**：アカウントの設定を完了し、[!DNL Gmail]、[!DNL Outlook]、その他のシステムにすばやく接続できます。
+* **合理化されたアカウントセットアップエクスペリエンス**：アカウントを設定し、[!DNL Gmail]、[!DNL Outlook]、その他のシステムに素早く接続できます。
 
 ## Marketo Sky オープンベータ版 {#marketo-sky-open-beta}
 
@@ -44,9 +44,9 @@ Marketo Sky オープンベータ版をオプトインして、次のような�
 * アプリ内ガイドとコンテキストヘルプ
 * アセットラベルとより柔軟なカレンダー表示
 
-## [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] {#performance-insights}
+## [!UICONTROL パフォーマンスインサイト] {#performance-insights}
 
-[[!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[[!UICONTROL パフォーマンスインサイト]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **前年同期比**
 
@@ -62,7 +62,7 @@ Marketo Sky オープンベータ版をオプトインして、次のような�
 
 **共有クイックチャート**
 
-クイックグラフを他の [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] ユーザーと簡単に共有できます。
+他の[!UICONTROL パフォーマンスインサイト]ユーザとクイックチャートを簡単に共有できます。
 
 **ユーザビリティの強化**
 
@@ -78,7 +78,7 @@ ContentAI 最適化アルゴリズムの目標を設定して、より多くの�
 
 Facebook Workplace の統合
 
-システム通知と興味深い瞬間を [!DNL Facebook Workplace] に送信します。
+システム通知と注目のアクションを [!DNL Facebook Workplace] に送信します。
 
 静的リスト API
 
@@ -86,6 +86,6 @@ Marketo UI での操作を必要とせずに、静的リストの作成、読み
 
 ## プライバシーの強化 {#privacy-enhancements}
 
-Web 追跡プライバシー
+Web トラッキングプライバシー
 
-強化された [!DNL Munchkin] トラッキングは、web 訪問者の IP アドレスを匿名化し、web トラッキングを永続的にオプトアウトできるようにすることで、ローカルおよび国際的なプライバシー規制に準拠します。
+[!DNL Munchkin] のトラッキング機能が強化され、web 訪問者の IP アドレスを匿名化し、web トラッキングを永続的にオプトアウトできるようにすることで、地域および国際的なプライバシー規制に準拠します。

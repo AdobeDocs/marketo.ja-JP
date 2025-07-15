@@ -5,9 +5,9 @@ title: リリースノート - 2017 年秋
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '586'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 93%
 
 ## システムの信頼性 {#system-reliability}
 
-シーケンスの改善、ミスマッチの減少、[!DNL Munchkin] の安定性の向上など、Marketoの主要インフラストラクチャをさらに改善しました。
+Marketo のコアインフラストラクチャをさらに改善し、シーケンシングの改善、ミスマッチの削減、[!DNL Munchkin] の安定性の向上を行いました。
 
 ## SFDC 同期パフォーマンス {#sfdc-sync-performance}
 
-Marketoと [!DNL Salesforce] 間の高度で高速な同期を活用します。 顧客やリードで一括更新が必要なデータ変更は、バックログを避けるために、並列キューに分割できます。イベントとタスクの同期速度が最大で 50% 向上しています。
+Marketo と [!DNL Salesforce] の豊富で高速な同期を活用できます。顧客やリードで一括更新が必要なデータ変更は、バックログを避けるために、並列キューに分割できます。イベントとタスクの同期速度が最大で 50% 向上しています。
 
 ## 分析パフォーマンスの向上 {#analytics-performance-improvements}
 
@@ -45,7 +45,7 @@ Marketo には、レビュー用にサンプルメールを送信する際にセ
 
 ## [LinkedIn リード生成カスタム質問](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-[!UICONTROL LinkedIn リード生成 &#x200B;] フォームをカスタマイズして、カスタムのリード属性を収集します。 1 つのフォームにつき最大 3 つのカスタム質問をして、1 行のテキスト入力または複数選択の質問から選択、Marketo リードフィールドにマッピングできるようになりました。
+[!UICONTROL LinkedIn リード生成]フォームをカスタマイズし、カスタムリード属性を収集できます。1 つのフォームにつき最大 3 つのカスタム質問をして、1 行のテキスト入力または複数選択の質問から選択、Marketo リードフィールドにマッピングできるようになりました。
 
 ## Slack 統合 {#slack-integration}
 
@@ -70,7 +70,7 @@ ABM アカウントリスト全体でコンテンツのパフォーマンスを�
 * 上位の変換済みコンテンツ
 * AI を利用したマーケティングアクティビティ用の推奨コンテンツ
 
-## ウェブパーソナライズの機能拡張 {#web-personalization-enhancements}
+## Web パーソナライゼーションの機能拡張 {#web-personalization-enhancements}
 
 **[ウェブキャンペーン用トークン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 

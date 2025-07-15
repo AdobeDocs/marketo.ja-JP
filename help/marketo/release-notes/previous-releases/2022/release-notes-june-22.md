@@ -4,9 +4,9 @@ title: リリースノート - 2022年6月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '600'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -26,20 +26,20 @@ ht-degree: 62%
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
-* **[!DNL Dynamic Chat]** ーザーによるストリームDesignerの使いやすさの向上：ドラッグ&amp;ドロップを必要とせずに、ストリームDesignerキャンバスからカードを直接追加します。 また、[!DNL Dynamic Chat] インターフェイスも改善され、個々のカードのコンテンツの可視性が向上しました。
+* **[!DNL Dynamic Chat]** のストリームデザイナーの使いやすさの向上：ドラッグ＆ドロップを必要とせずに、ストリームデザイナーのキャンバスから直接カードを追加できます。また、[!DNL Dynamic Chat] インターフェイスを改良し、個々のカードでのコンテンツの可視性が向上しました。
 
-* **[!DNL Dynamic Chat]** の高度な予定ルーティングルール：[!DNL Dynamic Chat] では、ターゲット設定された予定ルーティングに関するより多くのオプションを提供しています。 Marketo Engage の属性に基づいてルーティングするエージェントの予定を指定し、リードを適切なエージェントにルーティングします。
+* **[!DNL Dynamic Chat]** の高度な予定ルーティングルール：[!DNL Dynamic Chat] は、ターゲットの予定ルーティングに対してさらに多くのオプションを提供します。Marketo Engage の属性に基づいてルーティングするエージェントの予定を指定し、リードを適切なエージェントにルーティングします。
 
-* **[!DNL Dynamic Chat]** の高度なダイアログレポート：エンゲージメントとコンバージョン指標に関するすべての新しいデータビジュアライゼーションを使用して、[!DNL Dynamic Chat] キャンペーンのパフォーマンスをより詳細に表示します。
+* **[!DNL Dynamic Chat]** の高度なダイアログレポート：エンゲージメント指標とコンバージョン指標に関する新しいデータビジュアライゼーションを使用して、[!DNL Dynamic Chat] のキャンペーン効果をより詳しく表示します。
 
-* **[!DNL Dynamic Chat]** の未使用のMarketo Engage属性の同期を解除：未使用になる [!DNL Dynamic Chat] サブスクリプションからMarketo Engage属性の同期を解除します。これにより、データのクリーン性が向上し、必要に応じて代替属性を同期することができます。
+* **[!DNL Dynamic Chat]** で使用されない Marketo Engage 属性の同期解除：[!DNL Dynamic Chat] サブスクリプションから未使用の Marketo Engage 属性の同期を解除することで、データを簡単に整理でき、必要に応じて代替の属性を同期できます。
 
 ## 次世代のエクスペリエンス
 
 **新しい切替スイッチ表示**：次世代のエクスペリエンスで、以下の表示を利用できるようになりました。
 
-* [ メールの詳細表示 ](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [ メールリスト表示 ](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [メールの詳細表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
+* [メールのリスト表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## エクスペリエンスの自動化 {#experience-automation}
 
@@ -55,15 +55,15 @@ ht-degree: 62%
 
 ![（星印）](assets/yellow-star.png)
 
-* [!DNL Salesforce]&#x200B;**の**&#x200B;[!DNL Sales Insight] 権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部であるMarketo アプリ権限セットを使用して、プロファイルレベルではなくユーザーレベルで、限られたユーザーセットに [!DNL Sales Insight] しいアクセス権を付与できます。
+* **[!DNL Sales Insight][!DNL Salesforce]** での権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部である Marketo アプリ権限セットを使用して、プロファイルレベルではなく、ユーザレベルで限られた一連のユーザに対して [!DNL Sales Insight] のアクセス権を提供できます。
 
-* **マイMarketo タイルの更新 – [!DNL Sales Insight] アクション**: Marketo管理者（および管理者が指名したユーザー）は、マイMarketo ページの新しい [!DNL Sales Insight] アクションタイルを使用して、[!DNL Sales Insight] Actions インスタンスにすばやく移動できるようになりました。
+* **My Marketo タイルのアップデート - [!DNL Sales Insight]アクション**：Marketo 管理者（および指定したユーザ）は、マイ Marketo ページにある新しい [!DNL Sales Insight] アクションタイルから、[!DNL Sales Insight] アクションインスタンスにすばやく移動できるようになりました。
 
 ## [!DNL Sales Connect] {#sales-connect}
 
 ![（星印）](assets/yellow-star.png)
 
-* **[!DNL Salesforce]API アップデート**:[!DNL Salesforce] Summer &#39;22 リリースでは、API レガシーバージョン 21 ～ 30 は [!DNL Salesforce] でサポートされなくなります。 このMarketo Engage リリースでは、従来の API バージョンを使用しているすべての [!DNL Sales Connect] リクエストが、サポートされているバージョンの範囲内に収まるように更新されました。 API 廃止プランについて詳 [!DNL Salesforce] くは、[ こちら ](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"} をクリックしてください。
+* **[!DNL Salesforce]API のアップデート**：[!DNL Salesforce] 2022 年夏のリリースで、[!DNL Salesforce] は API のレガシーバージョン 21～30 のサポートを終了します。この Marketo Engage リリースにより、API のレガシーバージョンを使用する [!DNL Sales Connect] リクエストがすべてアップデートされ、サポート対象バージョン内に含まれるようになります。[!DNL Salesforce] API 廃止プランについて詳しくは、[こちら](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}をクリックしてください。
 
 ## API の強化 {#api-enhancements}
 
@@ -77,4 +77,4 @@ ht-degree: 62%
 
 **_製品リリースウェビナー_**
 
-[2022 年 6 月および 8 月のMarketo Engage リリースウェビナー ](https://engage.marketo.com/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[2022年6月および8月の Marketo Engage リリースウェビナー](https://engage.marketo.com/jp/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

@@ -5,15 +5,15 @@ title: Microsoft Dynamics 2015 オンプレミス向け Marketo インストー�
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
 source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
 # 手順 1 / 3：Marketo（2015 オンプレミス）の同期ユーザーの設定 {#step-of-configure-sync-user-for-marketo-on-premises-2015}
 
-Microsoft Dynamics 2015 オンプレミスをMarketo Engageと同期する前に、まずMarketo ソリューションを Dynamics にインストールする必要があります。
+Microsoft Dynamics 2015 オンプレミスと Marketo Engage を同期する前に、Dynamics に Marketo ソリューションをインストールする必要があります。
 
 >[!NOTE]
 >
@@ -21,13 +21,13 @@ Microsoft Dynamics 2015 オンプレミスをMarketo Engageと同期する前に
 
 >[!PREREQUISITES]
 >
->Microsoft Dynamics オンプレミスを使用している場合は、[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0 以降（ADFS）が設定された、[インターネットに接続する展開](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"}（IFD）が構成されている必要があります。注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
+>Microsoft Dynamics オンプレミスを使用している場合は、[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0 以降（ADFS）が設定された、[インターネットに接続する展開](https://learn.microsoft.com/ja-jp/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"}（IFD）が構成されている必要があります。注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
 >
 >始める前に、[Marketo リード管理ソリューションをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}します。
 
 >[!NOTE]
 >
->**Dynamics 管理者権限が必要です**。
+>**Dynamics 管理者権限が必要**&#x200B;です。
 >
 >この同期を実行するには、CRM 管理者権限が必要です。
 

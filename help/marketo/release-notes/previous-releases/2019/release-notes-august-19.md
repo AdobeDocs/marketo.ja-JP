@@ -5,9 +5,9 @@ title: リリースノート - 2019 年 8 月
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '327'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 87%
 
 2019 年 8 月 16 日に、次の機能がリリースされました。
 
-## Marketo Engage コア機能 {#core-marketo-engage}
+## Marketo Engage のコア機能 {#core-marketo-engage}
 
-* **拡張可能なウェビナーフレームワーク**:Marketoの新しい標準搭載ウェビナーフレームワーク（Winter &#39;19 リリースノートで導入）を使用して、ウェビナープロバイダーからMarketoに（およびその逆に）データをシームレスに渡すことで、時間を節約できます。 この新しいフレームワークで、Cvent と Zoom がご利用いただけるようになりました。
+* **ウェビナーフレームワークの拡張**：Marketo の新しい標準搭載ウェビナーフレームワーク（2019年冬季リリースノートで導入）により、時間を節約できます。このフレームワークは、ウェビナープロバイダーから Marketo に、またその逆にシームレスにデータを渡します。この新しいフレームワークで、Cvent と Zoom がご利用いただけるようになりました。
 * **スマートキャンペーン API のアップデート**：CRUD（作成、読み取り、更新、削除）インターフェイスを完成させながら、スマートキャンペーンのライフサイクル機能を管理します。
 * **メールヘッダー更新 API の変更**：メールヘッダー更新 API では、件名行などのヘッダーフィールドを更新するためのテンプレートをメールに添付する必要がなくなりました。
 
-**アカウントベースのマーケティング**![（星）](assets/yellow-star.png)
+**アカウントベースのマーケティング**![（星印）](assets/yellow-star.png)
 
-* **[!DNL LinkedIn]アカウントのマッチング** （以前はベータ版）が一般公開されました。
+* **[!DNL LinkedIn]アカウントのマッチング**（以前はベータ版）が一般公開されました。
 * **AccountAI** は正式に&#x200B;**アカウントプロファイル**&#x200B;に商標変更されます。
 
 <br> 
@@ -36,7 +36,7 @@ ht-degree: 87%
 
 次の機能は、四半期以外のサイクルで提供され、2019 年第 3 四半期から第 4 四半期初めにリリースされます。
 
-**[!DNL Marketo Sales Connect]** ![ （星） ](assets/yellow-star.png)
+**[!DNL Marketo Sales Connect]** ![（星印）](assets/yellow-star.png)
 
 * **リードページレイアウトの機能強化**：新しいリードページレイアウトでは、リストのインポートや一括操作を通じてリードとグループを管理します。
 

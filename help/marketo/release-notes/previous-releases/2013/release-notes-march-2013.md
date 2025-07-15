@@ -5,9 +5,9 @@ title: リリースノート - 2013年3月
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '230'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 97%
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## 追加フォーム [!UICONTROL &#x200B; エラーメッセージ &#x200B;] の言語 {#additional-form-error-message-languages}
+## 追加フォーム [!UICONTROL エラーメッセージ] 言語 {#additional-form-error-message-languages}
 
 12 以上の言語がフォームエラーメッセージに追加されました。
 

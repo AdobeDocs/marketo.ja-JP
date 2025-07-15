@@ -5,9 +5,9 @@ title: ロール権限の説明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
 source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1447'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 99%
 * チャネルにアクセス - 他のカスタムタグではなく、チャネルタグの変更に対してのみアクセスできるようにします
 * 通信制限にアクセス - 管理で通信の制限を有効にできるようにします
 * CRM にアクセス - 管理で [!DNL Salesforce] や [!DNL Microsoft Dynamics] などの CRM にアクセスできるようにします
-* Access `Data.com` - Data.com フローアクションへのアクセスをユーザーに許可します
+* `Data.com` にアクセス - Data.com のフローアクションにアクセスできるようにします
 * メール管理にアクセス - メール管理にアクセスし、登録解除やブランディングドメインなどのデフォルト設定を変更できるようにします
 * イベントパートナーにアクセス - 管理の LaunchPoint にアクセスできるようにします
 * Experience Cloud オーディエンス共有にアクセス - Adobe Experience Cloud のオーディエンスを Marketo Engage に同期するアクセス権をユーザに付与します
@@ -72,7 +72,7 @@ _&#42;既存のユーザが混乱しないように、この権限はパッシ�
 
 ## API へのアクセス  {#access-api}
 
-**API 専用**&#x200B;**ロール**&#x200B;を持つユーザーに、以下に示す個々の API へのアクセス権を付与します。
+**API 専用****ロール**&#x200B;を持つユーザーに、以下に示す個々の API へのアクセス権を付与します。
 
 * アセットの承認
 * キャンペーンの実行

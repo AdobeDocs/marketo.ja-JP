@@ -5,9 +5,9 @@ title: シンプルなスコアリング
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '375'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -128,8 +128,8 @@ ht-degree: 97%
 
 ## ミッション完了です。 {#mission-complete}
 
-<br> 
+<br>
 
 [◄ ミッション 2：フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-[ミッション 4：電子メールの自動応答 ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[ミッション 4：メールの自動応答 ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

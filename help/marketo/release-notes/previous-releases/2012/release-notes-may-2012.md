@@ -5,9 +5,9 @@ title: リリースノート - 2012年5月
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '641'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -55,7 +55,7 @@ iOS 5.1 以降が必要。iPad のみ。
 
 ## オンラインセミナー確認 URL の機能強化 {#enhanced-webinar-confirmation-url}
 
-[!DNL ON24] とAdobe Connectで利用できるようになりました。 新しい `{{member.webinar URL}}` トークンを使用して、登録した各出席者の確認メールに一意のリンクを含めます。Adobe Connect の機能強化には、ユーザーのログイン ID とパスワードを含む Adobe アカウント情報メールのオン／オフを切り替える機能も含まれます。
+[!DNL ON24] と Adobe Connect で利用可能新しい `{{member.webinar URL}}` トークンを使用して、登録した各出席者の確認メールに一意のリンクを含めます。Adobe Connect の機能強化には、ユーザーのログイン ID とパスワードを含む Adobe アカウント情報メールのオン／オフを切り替える機能も含まれます。
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -91,7 +91,7 @@ Marketo エンジニアが開発した実験機能にアクセスして、ユー
 
 ## [!DNL Microsoft Dynamics]® CRM 統合 {#microsoft-dynamics-crm-integration}
 
-新しい事前定義済みの統合機能を使用して、Marketoと [!DNL Microsoft Dynamics] CRM Online の間でアカウント、連絡先、リードを同期します。
+新しい事前定義済み統合機能を使用して、Marketo と [!DNL Microsoft Dynamics] CRM Online との間でアカウント、取引先責任者、リードを同期します。
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
@@ -99,9 +99,9 @@ Marketo エンジニアが開発した実験機能にアクセスして、ユー
 
 ## Marketo [!DNL Sales Insight] の機能強化 {#marketo-sales-insight-enhancements}
 
-**登録解除フッターオプション**
+**購読解除フッターオプション**
 
-[!DNL Sales Insight] 経由で送信されるメールに購読解除フッターを表示するタイミングとタイミングを設定します。
+[!DNL Sales Insight] を通じて送信されるメールに対して、購読解除フッターを表示するかどうか、いつ表示するかを設定します。
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
@@ -109,19 +109,19 @@ Marketo エンジニアが開発した実験機能にアクセスして、ユー
 
 ## セールスメールテンプレートのフォルダー {#folders-for-sales-email-templates}
 
-Marketo [!DNL Sales Insight] で共有されるメールテンプレートを指定したフォルダーに整理して、営業担当者が適切なメールを見つけやすくできるようになりました。
+Marketo [!DNL Sales Insight] と共有するメールテンプレートを指定したフォルダーに整理できるようになり、セールス担当が適切なメールを簡単に見つけられるようになりました。
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
 図 13.メールのフォルダーを選択
 
-## [!DNL Sales Insight] から Opportunity Analyzer へのアクセス {#access-opportunity-analyzer-from-sales-insight}
+## [!DNL Sales Insight] から商談アナライザーへのアクセス {#access-opportunity-analyzer-from-sales-insight}
 
-Marketo [!DNL Sales Insight] から Opportunity Analyzer に直接アクセスして、営業担当者にinsightを提供し、マーケティングアクティビティがエンゲージメントを促進している状況を伝えます。 注意.売上高サイクル分析ライセンスが必要です。
+Marketo [!DNL Sales Insight] から商談アナライザーへの直接アクセスを可能にし、どのマーケティング活動がエンゲージメントを促進しているかについてのインサイトをセールス担当に提供します。注意.売上高サイクル分析ライセンスが必要です。
 
 ## 連絡先ステータスのカスタムフィールド {#custom-field-for-contact-status}
 
-[!DNL Salesforce] のカスタムフィールドをマッピングして、おすすめコンテンツ、マイチームのおすすめコンテンツおよびカスタムビューの連絡先のステータスフィールドに入力できるようになりました。
+[!DNL Salesforce] のカスタムフィールドをマッピングして、マイ最有望見込客、マイチームの最有望見込客、カスタムビューの取引先責任者の「ステータス」フィールドにデータを入力できるようになりました。
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
@@ -129,7 +129,7 @@ Marketo [!DNL Sales Insight] から Opportunity Analyzer に直接アクセス�
 
 匿名リードが訪問したページを参照
 
-[!UICONTROL &#x200B; 匿名 Web アクティビティ &#x200B;] ビューから匿名リードが表示したページにドリルダウンします。
+[!UICONTROL 匿名 web アクティビティ]ビューから、匿名リードが閲覧したページにドリルダウンします。
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 

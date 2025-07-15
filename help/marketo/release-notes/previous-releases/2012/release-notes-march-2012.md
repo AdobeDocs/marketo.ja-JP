@@ -5,9 +5,9 @@ title: リリースノート - 2012年3月
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '249'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 84%
 
 ## スニペットプレビューア {#snippet-previewer}
 
-メニューから「スニペットをプレビュー」を選択すると、スニペットをドラフトにすることなく表示できます。 さらに、共有スニペットへの読み取り専用アクセス（ワークスペース経由）がある場合は、このアクションを使用してスニペットを表示できます。
+メニューから「スニペットをプレビュー」を選択すると、スニペットをドラフトにすることなく表示できます。さらに、共有スニペットへの読み取り専用アクセス（ワークスペース経由）がある場合は、このアクションを使用してスニペットを表示できます。
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 

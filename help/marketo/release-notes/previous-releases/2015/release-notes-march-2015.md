@@ -5,9 +5,9 @@ title: リリースノート - 2015年3月
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '291'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -21,19 +21,19 @@ ht-degree: 74%
 
 >[!NOTE]
 >
->この機能は、Spark と [!DNL Standard] のエディションでは使用できません。
+>この機能は、Spark エディションと [!DNL Standard] エディションでは使用できません。
 
 ![](assets/image2015-3-23-11-3a39-3a15.png)
 
 ## [!DNL Google Adwords] 統合 {#google-adwords-integration}
 
-[[!DNL Google AdWords]  アカウントをMarketoにリンク ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md) して、オフラインのコンバージョンデータをMarketoから [!DNL Google AdWords] に自動的にアップロードします。 その後、[!DNL AdWords] UI から、どのクリックが適格なリード、商談、新規顧客（または追跡したい収益段階）につながったかを簡単に確認できます。
+[[!DNL Google AdWords]  アカウントを Marketo にリンクして、](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。これが完了すれば、[!DNL AdWords] UI を使って、どのクリックが適格なリード、商談、新規顧客（またはトラックする収益ステージ）につながったかを簡単に確認できるようになります。
 
 ![](assets/image2015-3-23-11-3a50-3a55.png)
 
-## [!UICONTROL &#x200B; 売上高エクスプローラー &#x200B;] 再設計 {#revenue-explorer-redesign}
+## [!UICONTROL 収益エクスプローラー]のデザイン変更 {#revenue-explorer-redesign}
 
-[!UICONTROL Revenue Explorer] のルックアンドフィールは新しく、Sunburst チャートのタイプも新しくなりました。 このアップデートは 4 月頭から 2 週間にわたり展開されます。
+[!UICONTROL 収益エクスプローラー]のルックアンドフィールが一新され、さらに新たなサンバーストグラフタイプも追加されました。このアップデートは 4 月頭から 2 週間にわたり展開されます。
 
 ## 新しいアセット REST API {#new-asset-rest-apis}
 

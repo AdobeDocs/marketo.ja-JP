@@ -5,9 +5,9 @@ title: ポータルへのシングルサインオンの追加
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
 source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '606'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ SSO を有効にすると、IdP がユーザーの資格情報を検証できる
 
 >[!NOTE]
 >
->[!DNL Microsoft Azure] ユーザですか？[ 統合チュートリアル ](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"} をご覧ください。 参考までに、チュートリアルの手順 5c にタイプミスがあります。リレー状態を `https://<munchkinid>.marketo.com` では&#x200B;**_なく_** `https://<munchkinid>.mktoweb.com` に設定してください。
+>[!DNL Microsoft Azure] ユーザの場合[統合チュートリアル](https://learn.microsoft.com/ja-jp/entra/identity/saas-apps/marketo-tutorial){target="_blank"}をご覧ください。参考までに、チュートリアルの手順 5c にタイプミスがあります。リレー状態を `https://<munchkinid>.marketo.com` では&#x200B;**_なく_** `https://<munchkinid>.mktoweb.com` に設定してください。
 
 ## リクエストの送信方法 {#how-to-send-the-request}
 

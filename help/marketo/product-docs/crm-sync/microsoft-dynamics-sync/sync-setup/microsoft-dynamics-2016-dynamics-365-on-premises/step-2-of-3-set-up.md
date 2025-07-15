@@ -4,9 +4,9 @@ title: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo �
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
 source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '495'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 93%
 >
 >[Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}
 
-## ユーザーを新規作成する {#create-a-new-user}
+## 新規ユーザを作成 {#create-a-new-user}
 
 1. Dynamics にログインします。「設定」アイコンをクリックし、「詳細設定」を選択します。
 
@@ -70,11 +70,11 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 >[!NOTE]
 >
->これは、Marketoのバージョン 4.0.0.14 以降に適用されます。 以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。お使いの Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}を参照してください。
+>これは、Marketo バージョン 4.0.0.14 以降に当てはまります。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。お使いの Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}を参照してください。
 
 >[!IMPORTANT]
 >
->同期ユーザの言語設定は[英語に設定する必要があります](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}。
+>同期ユーザの言語設定は[英語に設定する必要があります](https://learn.microsoft.com/ja-jp/power-platform/admin/enable-languages){target="_blank"}。
 
 1. 「**[!UICONTROL 設定]**」で、「**[!UICONTROL セキュリティ]**」をクリックします。
 
@@ -84,7 +84,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
    ![](assets/assign2.png)
 
-1. ユーザのリストが表示されます。専用のMarketo Sync ユーザーを選択するか、[Active Directory フェデレーション サービス ](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} （ADFS）の管理者に連絡してMarketo専用のユーザーを作成してください。
+1. ユーザのリストが表示されます。専用の Marketo 同期ユーザを選択するか、[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"}（ADFS）管理者に問い合わせて、Marketo 専用ユーザの作成を依頼します。
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 

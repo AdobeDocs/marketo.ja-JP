@@ -4,9 +4,9 @@ description: リリースノート - 2018年冬 - Marketo ドキュメント - �
 title: リリースノート - 2018年冬
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '582'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 78%
 
 Marketo は、ビッグデータアーキテクチャを活用して、トリガーキャンペーンのスループットを向上させ、web アクティビティの処理を改善して、オーディエンスのアクションに迅速に対応できるようにしています。
 
-## Marketoと CRM の統合 [!DNL Salesforce] 機能強化 {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Marketo の [!DNL Salesforce] CRM 統合の強化 {#enhancements-to-marketo-s-salesforce-crm-integration}
 
-[!DNL Salesforce] CRM 統合が 2 つ強化されました。
+[!DNL Salesforce] CRM 統合に対して、次の 2 つの機能強化が行われました。
 
 * 特定の CRM 同期エラー（資格情報の期限切れ、API 制限に達したなど）についての [Marketo 管理者への通知](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)
 
@@ -34,7 +34,7 @@ Marketo は、ビッグデータアーキテクチャを活用して、トリガ
 
 >[!AVAILABILITY]
 >
->[!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] はアドオン製品です。 見積もりについては、Marketo カスタマーサクセスマネージャーまたはアカウント担当者にお問い合わせください。
+>[!UICONTROL パフォーマンスインサイト]は、アドオン製品です。見積もりについては、Marketo カスタマーサクセスマネージャーまたはアカウント担当者にお問い合わせください。
 
 アトリビューション分析、インタラクティブなビジュアライゼーション、詳細なデータテーブルを使用して、キャンペーンとチャネルがビジネス成果に与える影響を調べます。
 
@@ -44,7 +44,7 @@ Marketo は、ビッグデータアーキテクチャを活用して、トリガ
 
 **[ABM 階層](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
-[!DNL Salesforce] または [!DNL Microsoft Dynamics] を使用している ABM のお客様の場合、ABM は CRM で確立された親子関係を自動的に継承（および表示）するようになりました。 これらの関係は、ロールアップレポートとキャンペーン実行の両方で使用できます。
+[!DNL Salesforce] または [!DNL Microsoft Dynamics] を使用する ABM の顧客の場合、ABM は CRM で確立された親子関係を自動的に継承（および表示）するようになります。これらの関係は、ロールアップレポートとキャンペーン実行の両方で使用できます。
 
 ## メールマーケティング {#email-marketing}
 
@@ -62,11 +62,11 @@ Velocity のスクリプト記述が、動的コンテンツを使用するメ�
 
 **[Google カスタマーマッチ統合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-この統合を使用すると、[!DNL Google AdWords] を使用してターゲット設定するMarketo オーディエンスをGoogleに送信したり、[!DNL YouTube]、検索および [!DNL Gmail] でオーディエンスを再ターゲットしたりできます。
+この統合により、Marketo のオーディエンスを Google に送信して [!DNL Google AdWords] を使用してターゲットにしたり、[!DNL YouTube]、検索、[!DNL Gmail] を通じてオーディエンスをリターゲティングしたりすることができます。
 
-**[[!DNL LinkedIn] Matched Audiences API の機能強化](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[[!DNL LinkedIn] Matched Audiences API の強化](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-新しい [!DNL LinkedIn] API を使用して、複数の [!DNL LinkedIn] Campaign Manager アカウントでMarketo データベースのユーザーを再ターゲットできるようになりました。
+新しい [!DNL LinkedIn] API により、複数の [!DNL LinkedIn] Campaign Manager アカウントにわたって Marketo データベース内のユーザをリターゲットできるようになりました。
 
 ## Web パーソナライズ機能 {#web-personalization}
 
@@ -92,14 +92,14 @@ Marketo で最適化された ContentAI アルゴリズムを通じて推奨さ�
 
 ## [!DNL ToutApp] {#toutapp}
 
-**配信停止の更新**
+**購読解除のアップデート**
 
-2018 年 3 月 1 日（PT）以降、[ToutApp.com](https://ToutApp.com) から（および [!DNL Salesforce] の「[!DNL Tout] でメールを送信」ボタンを使用して）送信されるすべてのメールには、下部に購読解除リンクが追加されます。
+2018年3月1日（PT）以降、[ToutApp.com](https://ToutApp.com) から送信されるすべてのメール（また、[!DNL Salesforce] の「[!DNL Tout] とメール」ボタンを使用すると）購読解除リンクが下部に追加されます。
 
-**ライブフィードの更新**
+**ライブフィードのアップデート**
 
 「エンゲージメント」タブと「タスク」タブの外観と操作性が更新され、セールスメンバーがライブフィードから直接顧客のアクティビティに簡単かつ迅速に対応できるようになりました。
 
-**担当者詳細ビューの更新**
+**人物詳細ビューのアップデート**
 
-改善された人物詳細ビュー（PDV）は、[!DNL Tout] と [!DNL Salesforce] CRM の連絡先の詳細を統合することで、連絡先の包括的な表示を提供します。
+改善された人物詳細表示（PDV）では、[!DNL Tout] と [!DNL Salesforce] CRM の取引先責任者詳細を統合し、取引先責任者の包括的な表示を提供します。

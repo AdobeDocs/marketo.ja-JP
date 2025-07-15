@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15695874
-description: Marketoへ  [!DNL BrightTALK]  接続 – Marketo ドキュメント – 製品ドキュメント
-title: Marketo [!DNL BrightTALK]  の接続
+description: ' [!DNL BrightTALK]  の Marketo への接続 - Marketo ドキュメント - 製品ドキュメント'
+title: ' [!DNL BrightTALK]  の Marketo への接続'
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
 source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '320'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -79,4 +79,4 @@ ht-degree: 89%
 
 1. 手順 3 の [!DNL BrightTALK] コネクタの設定画面に戻り、手順 12 および 14 で保存した資格情報を入力します。
 
-資格情報が認証されたら、[!DNL BrightTALK] が Marketo に正式に接続されています。次の手順では、同期するデータフィールドを決定します。 サポートが必要な場合は、サポート [BrightTALK](https://www.brighttalk.com/){target="_blank"} までお問い合わせください。
+資格情報が認証されたら、[!DNL BrightTALK] が Marketo に正式に接続されています。次の手順では、同期するデータフィールドを定義します。サポートが必要な場合は、[BrightTALK](https://www.brighttalk.com/){target="_blank"} のサポートまでお問い合わせください。

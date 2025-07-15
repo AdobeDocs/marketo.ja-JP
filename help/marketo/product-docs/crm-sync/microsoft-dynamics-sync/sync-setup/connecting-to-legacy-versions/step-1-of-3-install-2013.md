@@ -5,15 +5,15 @@ title: 手順 1 / 3 - Dynamics（2013 オンプレミス）での Marketo ソリ
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
 source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 # 手順 1 / 3：Dynamics（2013 オンプレミス）での Marketo ソリューションのインストール {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
-Microsoft DynamicsをオンプレミスとMarketo Engageで同期する前に、まずMarketo ソリューションを Dynamics にインストールする必要があります。
+Microsoft Dynamics オンプレミスと Marketo Engage を同期する前に、Dynamics に Marketo ソリューションをインストールする必要があります。
 
 >[!NOTE]
 >
@@ -21,17 +21,17 @@ Microsoft DynamicsをオンプレミスとMarketo Engageで同期する前に、
 
 >[!PREREQUISITES]
 >
->[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0、2.1、または 3.0（ADFS）が設定された、[インターネットに接続する展開](https://learn.microsoft.com/en-us/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"}（IFD）が構成されている必要があります。注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
+>[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0、2.1、または 3.0（ADFS）が設定された、[インターネットに接続する展開](https://learn.microsoft.com/ja-jp/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"}（IFD）が構成されている必要があります。注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
 >
 >始める前に、[Marketo ソリューションをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}します。
 
 >[!NOTE]
 >
->**Dynamics 管理者権限が必要です**。
+>**Dynamics 管理者権限が必要**&#x200B;です。
 >
 >この同期を実行するには、CRM 管理者権限が必要です。
 
-1. Dynamics にログインします。 「**[!UICONTROL Microsoft Dynamics CRM]**」ドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。
+1. Dynamics にログインします。「**[!UICONTROL Microsoft Dynamics CRM]**」ドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 

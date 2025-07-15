@@ -5,9 +5,9 @@ title: リリースノート - 2015 年 4 月
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '315'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 64%
 
 >[!NOTE]
 >
->この機能は、4 月 28 日（火）にリリースされます。
+>この機能は、4月28日（火）にリリースされます。
 
-新しい [[!UICONTROL Analytics] ホームページ ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) を使用すると、使用可能なレポートタイプをまたいでアドホックレポートを実行するためのクイックアクセスが可能になります。
+新しい[[!UICONTROL 分析]ホームページ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md)では、使用可能なレポートタイプ間でアドホックレポートを実行するクイックアクセスが有効になります。
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
-また、非公開または共有のレポート組織も使用できるようになりました。レポートを作成するか、[!UICONTROL &#x200B; マイレポート &#x200B;] フォルダーにドラッグして、他のユーザーが表示、編集、削除できないようにします。 [!UICONTROL &#x200B; グループレポート &#x200B;] は、すべてのユーザーで共有されます。
+また、非公開または共有のレポート組織も使用できるようになりました。レポートを作成するか[!UICONTROL マイレポート]フォルダーにドラッグして、他のユーザによる表示、編集、削除を禁止します。[!UICONTROL グループレポート]は、すべてのユーザで共有されます。
 
 ## Marketo モバイルエンゲージメント {#marketo-mobile-engagement}
 
@@ -37,17 +37,17 @@ Marketo モバイルエンゲージメントを使用すれば、魅力的なモ
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
-## [!DNL LinkedIn] リードアクセラレーターの統合
+## [!DNL LinkedIn] Lead Accelerator の統合
 
-[[!DNL LinkedIn] リードアクセラレーターの統合](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+[[!DNL LinkedIn] Lead Accelerator の統合](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-リード育成戦略を有料ディスプレイ広告とソーシャル広告に拡張します。リードアクセラレーターを使用した [ 広告ネットワーク統合 ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) により [!DNL LinkedIn] スマートリストまたは静的リストのメンバーに基づいて、[!DNL LinkedIn] 内にオーディエンスセグメントを安全に作成できます。 その後、関連する広告のシーケンスを使用して、[!DNL LinkedIn] オーディエンスセグメント内のメンバーを育成できます。
+リード育成戦略を有料ディスプレイ広告とソーシャル広告に拡張します。[!DNL LinkedIn] Lead Accelerator との[広告ネットワーク統合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)を使用すると、任意のスマートリストまたは静的リストのメンバーに基づいて、[!DNL LinkedIn] 内でオーディエンスセグメントを安全に作成できます。その後、[!DNL LinkedIn] のオーディエンスセグメント内のメンバーを、関連する一連の広告を使用して育成できます。
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
-## [!DNL Salesforce1] 用Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-salesforce}
+## [!DNL Salesforce1] 向け Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-salesforce}
 
-お気に入りの [!DNL Sales Insight] 機能（リードフィード、ベストベット、面白い瞬間、Marketo Campaign への追加）はすべて [!DNL Salesforce1] アプリで利用できます。
+人気のある [!DNL Sales Insight] 機能（リードフィード、最有望見込客、注目のアクション、Marketo Campaign に追加）は、[!DNL Salesforce1] アプリですべて利用できます。
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 

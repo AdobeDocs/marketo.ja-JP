@@ -4,7 +4,7 @@ title: 継承インスタンス管理者チェックリスト
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
 source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1858'
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ ht-degree: 100%
   <tr> 
    <td>サブスクリプションおよび Marketo Engage 製品管理者</td> 
    <td><li>Marketo Engage サブスクリプションは既に <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> に移行されましたか？
-<br/>     移行が完了している場合、「Adobe Admin Console システム管理者」から「Adobe Admin Console 製品管理者」ロールが付与されていますか？組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、<a href="https://helpx.adobe.com/jp/contact.html" target="_blank">アドビカスタマーケア</a>にお問い合わせください。</li>
+<br/>     移行が完了している場合、「Adobe Admin Console システム管理者」から「Adobe Admin Console 製品管理者」ロールが付与されていますか？組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、<a href="https://helpx.adobe.com/contact.html" target="_blank">アドビカスタマーケア</a>にお問い合わせください。</li>
 <li>「Marketo Engage 製品管理者」の招待を受け入れましたか？Adobe Admin Console でロールが割り当てられると、メールが送信されます。
 <br/>     そうでない場合は、インボックスで<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">ウェルカムメール</a>を探し、招待を受け入れて Adobe ID をアクティベートします。</li></td>
   </tr>

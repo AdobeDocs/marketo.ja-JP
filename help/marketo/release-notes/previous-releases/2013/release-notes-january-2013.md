@@ -5,15 +5,15 @@ title: リリースノート - 2013年1月
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '309'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 # リリースノート：2013年1月 {#release-notes-january}
 
-1 月のリリースでは、ソーシャルオファーが&#x200B;**紹介オファー**&#x200B;で拡張されます。さらに、ユーザー [!DNL Marketo Lead Management] タイムゾーン、言語およびロケールの環境設定を指定できます。 &#42; のマークが付いた機能は、Select Edition でのみ使用できます。
+1 月のリリースでは、ソーシャルオファーが&#x200B;**紹介オファー**&#x200B;で拡張されます。また、[!DNL Marketo Lead Management] のユーザは、自分のタイムゾーン、言語およびロケールの設定を行うことができます。&#42; が付いた機能は、Select Edition でのみ使用できます。
 
 ## 紹介オファー {#referral-offers}
 
@@ -29,7 +29,7 @@ ht-degree: 76%
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## Select your [!DNL Marketo Lead Management] Language {#select-your-marketo-lead-management-language}
+## [!DNL Marketo Lead Management] 言語の選択 {#select-your-marketo-lead-management-language}
 
 Marketo ユーザーアカウントのデフォルト言語を変更できます。サブスクリプションのデフォルトが英語の場合でも、独自に使用するためにドイツ語またはフランス語に変更できます。
 
@@ -45,9 +45,9 @@ Marketo ユーザーアカウントのデフォルト言語を変更できます
 
 ![](assets/image2014-9-22-15-3a22-3a2.png)
 
-## [!DNL Sales Insight] 言語を選択（[!DNL Salesforce] のみ） {#select-your-sales-insight-language-salesforce-only}
+## [!DNL Sales Insight] 言語の選択（[!DNL Salesforce] のみ） {#select-your-sales-insight-language-salesforce-only}
 
-[!DNL Salesforce] 言語の環境設定がフランス語またはドイツ語に設定されている場合、Marketo [!DNL Sales Insight] はこの環境設定に従います。 この機能を入手するには、最新の MSI パッケージをダウンロードしてください（1月14日の週に入手可能）。
+[!DNL Salesforce] の言語設定がフランス語またはドイツ語に設定されている場合は、Marketo [!DNL Sales Insight] はその設定に従います。この機能を入手するには、最新の MSI パッケージをダウンロードしてください（1月14日の週に入手可能）。
 
 ![](assets/image2014-9-22-15-3a22-3a31.png)
 
@@ -59,6 +59,6 @@ Marketo ユーザーアカウントのデフォルト言語を変更できます
 
 ## プログラムデータの変更 {#change-program-data}
 
-[!UICONTROL &#x200B; プログラムデータの変更 &#x200B;] フローステップでは、プログラムメンバーの [!UICONTROL &#x200B; 成功 &#x200B;] ステータスと [!UICONTROL &#x200B; 成功日 &#x200B;] をキャンペーンを通じて手動で変更できます。 このフローステップを使用して、誤りを修正したり、意図したとおりにプログラムに参加していない可能性のあるメンバーを手動で変更したりできます。
+[!UICONTROL プログラムデータの変更]フローステップを使用すると、キャンペーンを通じて、プログラムメンバーの[!UICONTROL 成功]ステータスと[!UICONTROL 成功日]を手動で変更できます。このフローステップを使用して、誤りを修正したり、意図したとおりにプログラムに参加していない可能性のあるメンバーを手動で変更したりできます。
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)

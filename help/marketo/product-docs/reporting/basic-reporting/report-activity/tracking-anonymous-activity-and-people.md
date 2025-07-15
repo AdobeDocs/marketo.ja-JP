@@ -5,7 +5,7 @@ title: 匿名アクティビティとリードのトラッキング
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
 source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '221'
 ht-degree: 100%
 

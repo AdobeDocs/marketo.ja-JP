@@ -4,9 +4,9 @@ description: リリースノート - 2019年春 - Marketo ドキュメント - �
 title: リリースノート - 2019年春
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '454'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 87%
 
 ## 主要プラットフォームの機能拡張 {#core-platform-enhancements}
 
-* **待機リスト**：空きが出るまで[メンバーを保留にする](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)ためにメンバーを待機リストに登録する新しいプログラム／イベントステータスこれは、Marketo Classic のイベントプログラムに関連付けられたチャネルと、[!DNL Marketo Sky] のウェビナープログラムを使用したイベントとイベントの両方に適用されます。 デフォルトでは、待機リストは登録済みと同じステップ値を持ちます。
+* **待機リスト**：空きが出るまで[メンバーを保留にする](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)ためにメンバーを待機リストに登録する新しいプログラム／イベントステータスこれは、Marketo Classic のイベントプログラムに関連するチャネルと、[!DNL Marketo Sky] のイベントとウェビナー付きイベントの両方のプログラムに当てはまります。デフォルトでは、待機リストは登録済みと同じステップ値を持ちます。
 * **[カスタム通信制限](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**：管理者は、1 日または 1 週間のカスタム通信制限を設定できるようになりました。
 * **[スマートキャンペーンアセット API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**：更新された日付と ID によってスマートキャンペーンレコードを取得して、Marketo 外で分析をエンリッチメントします。
 * **メール用 HTTPS トラッキングリンク**：「トラッキングリンクのセキュリティで保護されたドメイン」を購入した顧客の場合、ブランディングされたトラッキングリンクをメール内に HTTPS として表示できるようになりました。
@@ -50,8 +50,8 @@ ht-degree: 87%
 * **監査の強化**：他のユーザによって作成された[既存のキャンペーンを終了](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)する機能が追加された、インスタンス内のすべてのユーザ、メール、および[コンテンツ](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)に対する新しい可視性。
 * **[登録解除管理](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**：[メールドメインへの接続をブロック](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md)する機能を使用して、メール到達率とコンプライアンスを最大化します。また、Marketo は、メールを送信する前に、登録解除用のリードデータベースを相互参照します。
 
-## Marketoによる [!DNL Bizible] {#bizible-by-marketo}
+## Marketo による [!DNL Bizible] {#bizible-by-marketo}
 
-* **[!DNL Bizible]Discover 機能の機能強化**：新しいダッシュボードセグメント化機能により、マーケターはパフォーマンスをより深く理解できます。
-* **複数通貨のサポート**:CRM 通貨テーブルに基づいて構築された [!DNL Bizible] の新しい自動通貨変換機能を使用して、社内通貨と任意の現地通貨を切り替えます。
+* **[!DNL Bizible]Discover の機能強化**：新しいダッシュボードセグメント化機能により、マーケターはパフォーマンスをより深く理解できるようになります。
+* **複数通貨のサポート**：CRM 通貨テーブルに組み込まれた [!DNL Bizible] の新しい自動通貨変換機能を使用して、企業通貨と現地通貨を切り替えます。
 * **CRM キャンペーンコスト**：CRM キャンペーンオブジェクトからコストデータを自動的に取り込む機能を使用して、オフラインマーケティングアクティビティの費用と ROI を測定します。

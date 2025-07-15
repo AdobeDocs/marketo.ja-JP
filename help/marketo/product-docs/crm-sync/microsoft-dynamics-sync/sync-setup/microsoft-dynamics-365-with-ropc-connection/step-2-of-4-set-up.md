@@ -4,9 +4,9 @@ title: 手順 2 / 4 - リソース所有者のパスワード制御接続を使�
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
 source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '445'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -70,13 +70,13 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 >[!NOTE]
 >
->これは、Marketoのバージョン 4.0.0.14 以降に適用されます。 以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}を参照してください。
+>これは、Marketo バージョン 4.0.0.14 以降に当てはまります。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}を参照してください。
 
 >[!IMPORTANT]
 >
->同期ユーザの言語設定は[英語に設定する必要](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}があります。
+>同期ユーザの言語設定は[英語に設定する必要](https://learn.microsoft.com/ja-jp/power-platform/admin/enable-languages){target="_blank"}があります。
 
-1. 「**[!UICONTROL 有効なユーザー]**」タブに戻り、ユーザーリストを更新します。
+1. 「**[!UICONTROL 有効なユーザ]**」タブに戻り、ユーザリストを更新します。
 
    ![](assets/ten.png)
 

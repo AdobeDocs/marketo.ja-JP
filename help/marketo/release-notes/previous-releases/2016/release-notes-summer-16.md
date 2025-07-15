@@ -4,9 +4,9 @@ description: リリースノート - 2016 年夏 - Marketo ドキュメント - 
 title: リリースノート - 2016 年夏
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '774'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ Marketo のアカウントベースドマーケティングは、1 つの統合�
 
 ![](assets/audit-trail.png)
 
-## Marketoと Vibes の SMS LaunchPoint 統合
+## Marketo-Vibes SMS LaunchPoint の統合
 
 Marketo 内で SMS メッセージを簡単に作成できます。リッチ Marketo データを使用してメッセージをパーソナライズおよびターゲット設定し、SMS メッセージダッシュボードを使用してパフォーマンスを簡単に監視します。
 
@@ -85,7 +85,7 @@ Marketo 内で SMS メッセージを簡単に作成できます。リッチ Mar
 
 ## [エンタープライズキー](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-営業チームの各担当者に [!DNL Sales Insight] Plugin for [!DNL Outlook] をインストールしてもらうのは面倒な場合があります。 エンタープライズキーを使用して [!DNL Outlook] 用のプラグインをリモートでインストールする新しい方法を導入しました。 [!UICONTROL &#x200B; 管理者 &#x200B;] の「Marketo [!DNL Sales Insight]」セクションにある一意のキーを IT チームに送信し、残りの作業は IT チームに任せます。
+セールスチームの各メンバーに [!DNL Outlook] 用の [!DNL Sales Insight] プラグインをインストールするよう要求するのは、面倒で手間がかかります。エンタープライズキーを使用して [!DNL Outlook] 用のプラグインをリモートでインストールする新しい方法が導入されました。[!UICONTROL 管理者]の Marketo [!DNL Sales Insight] セクションにある固有のキーを IT チームに送信し、残りの作業を行ってもらいます。
 
 ![](assets/enterprise-key.png)
 
@@ -109,6 +109,6 @@ Marketo 内で SMS メッセージを簡単に作成できます。リッチ Mar
 
 ## [プライバシー設定](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-マーケターは、プライバシー設定を使用して、[!DNL Munchkin] および web Personalizationの機能を使用して訪問者をトラッキングするかどうかを決定できます。 トラッキングレベルは、ブラウザーの「Do Not Track」設定、オプトアウト Cookie、特定でない IP を使用して制御します。これらの方法は、特定の分野での Marketo の価値や機能に影響を与える可能性がありますが、マーケターが何も変更しない場合、Marketo の機能は変わりません。
+マーケターは、プライバシー設定を使用して、[!DNL Munchkin] と web パーソナライゼーション機能を使用して訪問者を追跡するかどうかを決定できます。トラッキングレベルは、ブラウザーの「Do Not Track」設定、オプトアウト Cookie、特定でない IP を使用して制御します。これらの方法は、特定の分野での Marketo の価値や機能に影響を与える可能性がありますが、マーケターが何も変更しない場合、Marketo の機能は変わりません。
 
 この機能は、6 週間の間に徐々にリリースされます。すぐに必要な場合は、Marketo サポートにお問い合わせください。

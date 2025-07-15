@@ -4,9 +4,9 @@ description: リリースノート - 2016 年冬 - Marketo ドキュメント - 
 title: リリースノート - 2016 年冬
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '490'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -20,21 +20,21 @@ ht-degree: 71%
 
 ## [データベースダッシュボード](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
-[!UICONTROL &#x200B; リードデータベース &#x200B;] には、更新された概要ダッシュボードがあります。これには、人物データベースの合計サイズ、マーケティング可能なリードの数、上位 5 つのソースによるリードの分類が含まれます。
+[!UICONTROL リードデータベース]にはアップデートされた概要ダッシュボード（人物データベースの合計サイズ、マーケティング可能なリードの数、上位 5 つのソースによるリードの分類を含む）があります。
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
 ## [Microsoft Edge ブラウザー](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Marketoでサポートされている [ ブラウザーのリスト ](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) に [!DNL Microsoft Edge] を追加しました。
+Marketo がサポートする[ブラウザーのリスト](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)に [!DNL Microsoft Edge] を追加しました。
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[[!DNL Microsoft Outlook] 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) がサポートされるようになりました。
+[[!DNL Microsoft Outlook]  2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) がサポートされるようになりました。
 
 ## [メールプログラム優先スタート](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
-[!UICONTROL &#x200B; ヘッドスタート &#x200B;] を使用して、送信の処理が事前に行われる必要があることを示します。 [!UICONTROL &#x200B; ヘッドスタート &#x200B;] では、プログラムのスケジュールされた時間にリードの選定やメールの準備を行うのではなく、これらのタスクを確実に事前に実行します。 これにより、オーディエンスはスケジュールされた時刻にメールの受信を開始します。
+[!UICONTROL 優先スタート]を使用して、事前に送信の処理を行う必要があることを示します。プログラムのスケジュール時にリードを適格化してメールを準備する代わりに、[!UICONTROL 優先スタート]は、これらのタスクが確実に、事前に実行されるようにします。これにより、オーディエンスはスケジュールされた時刻にメールの受信を開始します。
 
 ![](assets/image2016-1-11-15-3a38-3a3.png)
 
@@ -48,7 +48,7 @@ Marketoでサポートされている [ ブラウザーのリスト ](https://do
 
 ## [モバイルマーケティングの強化](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**[!DNL PhoneGap]サポート：** モバイルアプリに対して [!DNL PhoneGap] サポートを提供するようになりました。 [詳細情報](https://developers.marketo.com/documentation/mobile/phonegap-plugin/)
+**[!DNL PhoneGap]の サポート：**&#x200B;モバイルアプリに [!DNL PhoneGap] サポートを提供するようになりました。[詳細情報](https://developers.marketo.com/documentation/mobile/phonegap-plugin/)
 
 **サンドボックスアプリのサポート**：
 
@@ -76,7 +76,7 @@ REST API を介したプログラムの作成、更新、複製.これには、�
 
 ## [Facebook リード広告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[[!UICONTROL Facebook リード広告 &#x200B;]](https://www.facebook.com/business/a/lead-ads) は、ビジネスが [!DNL Facebook] でリードジェネレーションキャンペーンを実行するためのより直接的な方法です。 リードは、製品やサービスに対する関心を表すフォームに入力し、ビジネスをフォローアップできます。Marketoと [!UICONTROL Facebook リード広告 &#x200B;] の統合により、リードがリード広告フォーム内で提供する情報が自動的にキャプチャされます。 フォローアップのアクションと通知は、新しい [!UICONTROL Facebook リード広告の入力 &#x200B;]トリガーを使用して自動化できます。
+[[!UICONTROL Facebook リード広告]](https://www.facebook.com/business/a/lead-ads)は、ビジネスが [!DNL Facebook] でリードジェネレーションキャンペーンを実行する際の、より直接的な方法です。リードは、フォームに入力することで製品やサービスに対する関心を示し、それによってビジネスはフォローアップできます。Marketo と [!UICONTROL Facebook リード広告]の統合により、リードがリード広告フォーム内で提供する情報が自動的に取り込まれます。その後、新しい [!UICONTROL Facebook リード広告の入力]トリガーを使用して、フォローアップのアクションと通知を自動化できます。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 

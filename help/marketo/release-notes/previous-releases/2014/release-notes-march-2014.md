@@ -5,9 +5,9 @@ title: リリースノート - 2014年3月
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '402'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 93%
 
 ## 分析のためのプログラムの「包む」および「オペレーショナル」設定 {#inclusive-and-operational-programs-for-analytics}
 
-[!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] およびアナライザーでは、プログラムチャネルを編集する際に「Analytics の動作」オプションを「含む」に設定することで、[ 期間コストなしでプログラムを含める ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) ことができるようになりました。 また、「オペレーショナル」を選択することで、運用プログラムをすべてレポートから除外することもできます。
+プログラムチャネルを編集するときに、「分析動作」オプションを「含める」よう設定することで、[!UICONTROL 収益エクスプローラー]やアナライザーに[期間コストのかからないプログラムを含める](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)ことができるようになりました。また、「オペレーショナル」を選択することで、運用プログラムをすべてレポートから除外することもできます。
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

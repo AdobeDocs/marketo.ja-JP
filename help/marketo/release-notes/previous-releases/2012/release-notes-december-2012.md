@@ -5,15 +5,15 @@ title: リリースノート - 2012年12月
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '390'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
 # リリースノート：2012年12月 {#release-notes-december}
 
-12 月のリリースには、待望の&#x200B;**友だちに転送**&#x200B;機能のほか、いくつかの機能が含まれています。アスタリスク（&#42;）の付いた機能は、Select Edition と RCA （Revenue Cycle Analytics）でのみ使用できます。
+12 月のリリースには、待望の&#x200B;**友だちに転送**&#x200B;機能のほか、いくつかの機能が含まれています。アスタリスク（&#42;）が付いた機能は、Select Edition および RCA（収益サイクル分析）でのみ使用できます。
 
 ## 友達に転送 {#forward-to-friend}
 
@@ -29,29 +29,29 @@ ht-degree: 52%
 
 ## 詳細な管理権限 {#granular-admin-permissions}
 
-最新のリリースでは、Marketoの [!UICONTROL &#x200B; 管理者 &#x200B;] エリアの様々な機能へのアクセスを役割ごとに制御することで、[!UICONTROL &#x200B; 管理者 &#x200B;] の役割へのアクセスと制御を強化しています。 新しい役割を作成する際に、その役割がアクセスできる特定の [!UICONTROL &#x200B; 管理者 &#x200B;] 機能を割り当てることができます。
+最新リリースでは、各ロールの Marketo [!UICONTROL 管理]領域の様々な機能へのアクセスを制御することで、[!UICONTROL 管理者]のロールに対するアクセスと制御を強化できます。新しいロールを作成するときに、ロールがアクセスできる特定の[!UICONTROL 管理]機能を割り当てることができます。
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
 >[!NOTE]
 >
->デフォルトでは、「[!UICONTROL &#x200B; 管理者にアクセス &#x200B;]」権限を持つ既存の役割は、変更されない限り、すべての [!UICONTROL &#x200B; 管理者 &#x200B;] 機能にアクセスできます。
+>デフォルトでは、「[!UICONTROL アクセス管理]」権限を持つ既存のロールは、変更されるまで、または変更されない限り、すべての[!UICONTROL 管理]機能にアクセスできます。
 
 ## [!UICONTROL BrightTALK] アダプター {#brighttalk-adapter}
 
-Marketo[!UICONTROL BrightTALK] アダプタを使用すると、ライブまたはオンデマンドの Web キャストから出席情報をMarketoイベントに直接取り込むことができます。
+Marketo [!UICONTROL BrightTALK] アダプターを使用すると、ライブまたはオンデマンドの web キャストから Marketo イベントに直接出席情報を取り込むことができます。
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## [!DNL Microsoft Dynamics] 用Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-microsoft-dynamics}
+## [!DNL Microsoft Dynamics] 向け Marketo [!DNL Sales Insight] {#marketo-sales-insight-for-microsoft-dynamics}
 
 [!DNL Microsoft Dynamics] のお客様が [!DNL Sales Insight] を利用できるようになりました。
 
-## [!DNL Dynamics] 商談同期 {#dynamics-opportunity-sync}
+## [!DNL Dynamics] との間で商談を同期 {#dynamics-opportunity-sync}
 
-Marketoと [!DNL Microsoft Dynamics] の間で商談データを同期します。
+Marketo と [!DNL Microsoft Dynamics] との間で商談データを同期します。
 
-## マーケティング影響商談レポート &#42; {#marketing-influenced-opportunities-report}
+## マーケティングが影響を与えた商談レポート&#42; {#marketing-influenced-opportunities-report}
 
 マーケティングプログラムが企業のパイプラインや売上高に与えた影響の割合を表示します。**[!UICONTROL 売上高エクスプローラー]**&#x200B;で、商談分析の新しい「マーケティングが影響を与えた商談」の黄色いドットを使用してカスタムレポートを作成できるようになりました。次の 2 つのレポートを Standard フォルダーで使用することもできます。
 
@@ -60,15 +60,15 @@ Marketoと [!DNL Microsoft Dynamics] の間で商談データを同期します�
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## プログラム商談分析のカスタム商談フィールド &#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
+## プログラム商談分析のカスタム商談フィールド&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-[!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] でカスタム商談フィールドを追加し、プログラム商談分析レポートを強化します。
+カスタム商談フィールドを追加し、[!UICONTROL 収益エクスプローラー]でプログラム商談分析レポートを強化します。
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
 ## キャンペーンインスペクター {#campaign-inspector}
 
-[!UICONTROL &#x200B; スコアを変更 &#x200B;] や [!UICONTROL &#x200B; キャンペーンをリクエスト &#x200B;] など、特定のフローアクションを使用しているキャンペーンを検討したことはありますか？ または、特定のフィルターがどこで使用されているのか疑問に思ったことはありますか？新しい [!UICONTROL &#x200B; キャンペーンインスペクター &#x200B;] （宝箱から入手できます）を使用すると、これらのキャンペーンに加えて、アクティブなキャンペーンやエラーが発生したキャンペーンを特定できます。
+[!UICONTROL 変更スコア]や[!UICONTROL キャンペーンをリクエスト]など、特定のフローアクションをどのキャンペーンが使用しているのか、または、特定のフィルターがどこで使用されているのか疑問に思ったことはありますか？新しい[!UICONTROL キャンペーンインスペクター]（アイデアスペースから利用可能）を使用すると、そのようなキャンペーン、アクティブなキャンペーン、エラーが発生したキャンペーンを特定できます。
 
 **[!UICONTROL 管理者]**／**[!UICONTROL アイデアスペース]**&#x200B;に移動して、**[!UICONTROL キャンペーンインスペクター]**&#x200B;を有効にします。
 

@@ -5,9 +5,9 @@ title: メール到達率のための SPF と DKIM の設定
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
 source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '421'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 95%
 
 **ドメインに SPF レコードがない場合**
 
-DNS エントリに次の行を追加するよう、ネットワーク管理者に依頼します。[domain] を Web サイトのメインドメイン（例：「company.com」）で置き換え、[corpIP] を会社のメールサーバーの IP アドレス（例：&quot;255.255.255.255&quot;）が該当します。 Marketo を通じて複数のドメインからメールを送信する場合は、これを各ドメインに（1 行で）追加する必要があります。
+DNS エントリに次の行を追加するよう、ネットワーク管理者に依頼します。[domain] を Web サイトのメインドメイン（例：「company.com」）で置き換え、[corpIP] を会社のメールサーバーの IP アドレス（例：&quot;255.255.255.255&quot;）が該当します。Marketo を通じて複数のドメインからメールを送信する場合は、これを各ドメインに（1 行で）追加する必要があります。
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
@@ -51,6 +51,6 @@ DNS レコードに公開鍵を設定し、管理セクション（A）で送信
 
 >[!MORELIKETHIS]
 >
->* SPF とその仕組みの詳細を説明しま `: http://www.open-spf.org/Introduction/`。
->* SPF は正しく設定されていますか？: `https://www.kitterman.com/spf/validate.html`
->* 正しい構文を使用しましたか？: `http://www.open-spf.org/SPF_Record_Syntax/`
+>* 詳しくは、SPF の詳細と仕組みを参照してください`: http://www.open-spf.org/Introduction/`
+>* SPF は正しく設定されていますか？`https://www.kitterman.com/spf/validate.html`
+>* 正しい構文を使用しましたか？`http://www.open-spf.org/SPF_Record_Syntax/`

@@ -5,9 +5,9 @@ title: 子キャンペーンとローカルアセットの作成
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
 source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '665'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -50,7 +50,7 @@ Marketo を使用して、イベントの確認メールを送信します。担
 
 >[!TIP]
 >
->確認メール、リマインダーメールまたはフォローアップメールを送信するように ON24 を設定できます。詳しくは、[ON24 のヘルプサイト](https://support.on24.com/hc/en-us/categories/26127314569115-Webcast-Elite){target="_blank"}を参照してください。
+>確認メール、リマインダーメールまたはフォローアップメールを送信するように ON24 を設定できます。詳しくは、[ON24 のヘルプサイト](https://support.on24.com/hc/ja-jp/categories/26127314569115-Webcast-Elite){target="_blank"}を参照してください。
 
 ## 登録の子キャンペーンの要件 {#registration-child-campaign-requirements}
 

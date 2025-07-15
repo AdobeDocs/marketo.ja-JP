@@ -5,9 +5,9 @@ title: リリースノート - 2013年5月
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 75%
 
 ## 「モデルメンバーシップ」タブ {#model-membership-tab}
 
-すべてのモデルメンバーデータをまとめて表示して、モデルメンバーを用意に監視し、トラブルシューティングを行います。新しい [!UICONTROL &#x200B; メンバー &#x200B;] タブは、承認済みの収益サイクルモデルを選択した場合に使用できる読み取り専用ビューです。
+すべてのモデルメンバーデータをまとめて表示して、モデルメンバーを用意に監視し、トラブルシューティングを行います。新しい「[!UICONTROL メンバー]」タブは、承認済みの収益サイクルモデルを選択した場合に使用できる読み取り専用ビューです。
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
@@ -35,6 +35,6 @@ ht-degree: 75%
 
 ## 名前が変更されたフローアクション {#renamed-flow-actions}
 
-「進捗ステータスの変更」が [!UICONTROL &#x200B; プログラムステータスの変更 &#x200B;] になりました。 プログラムデータの変更が [!UICONTROL &#x200B; プログラム成功を変更 &#x200B;] になりました。
+「進行状況のステータスを変更」が「[!UICONTROL プログラムステータスを変更]」に変わりました。「プログラムデータを変更」が「[!UICONTROL プログラムの成功を変更]」に変わりました。
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)

@@ -3,9 +3,9 @@ description: リリースノート - 2021 年 8 月 - Marketo ドキュメント
 title: リリースノート - 2021 年 8 月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '903'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -45,13 +45,13 @@ ht-degree: 71%
 
 ![（星印）](assets/yellow-star.png)
 
-* **Salesforce CRM ユーザーのリード、連絡先、アカウント、商談アクティビティに対する可視性の向上**:[!DNL Sales Insight] でのエンゲージメントレコード数が増加したため、ロングセールスサイクル中の見込み客とのエンゲージメントに関する情報が多くなりました。 「注目のアクティビティ」、「web アクティビティ」、「メール」、「スコア」の各タブには、リード、連絡先、アカウント、商談の各オブジェクトにわたって最大 400 個のアクティビティが表示されます。
+* **Salesforce CRM ユーザのリード、取引先責任者、アカウント、商談アクティビティの可視性の向上**：長いセールスサイクルの間の見込み客とのエンゲージメントは、[!DNL Sales Insight] のエンゲージメントレコード数が増えたことから、より多くの情報を得られます。「注目のアクティビティ」、「web アクティビティ」、「メール」、「スコア」の各タブには、リード、連絡先、アカウント、商談の各オブジェクトをまたいで最大 400 個のアクティビティが表示されます。
 
 ## [!DNL Sales Connect] {#sales-connect}
 
 ![（星印）](assets/yellow-star.png)
 
-* **メール接続スロットリング（ベータ版）**：Sales Connect 用のメール接続スロットリングを使用して、メールの配信可能性を向上させ、パーソナライズされた販売コミュニケーションを拡大します。この新しいテクノロジーは、メール送信のタイミングを自動的に管理し、[!DNL Exchange] と Gmail のユーザーにシームレスなエクスペリエンスを作成します。 サードパーティの一括電子メール送信アプリケーションの使用を減らすか排除し、[!DNL Sales Connect] からのすべての電子メールを自信を持って送信します。
+* **メール接続スロットリング（ベータ版）**：Sales Connect 用のメール接続スロットリングを使用して、メールの配信可能性を向上させ、パーソナライズされた販売コミュニケーションを拡大します。この新しいテクノロジーは、メールの送信タイミングを自動的に管理し、[!DNL Exchange] および Gmail ユーザに対してシームレスなエクスペリエンスを提供します。サードパーティの一括メール送信アプリケーションの使用を減らすか除外して、[!DNL Sales Connect] から確実にすべてのメールを送信します。
 
 >[!NOTE]
 >
@@ -63,21 +63,21 @@ ht-degree: 71%
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] Lead Gen Forms Integration**: マーケターは、フォームの入力をリード生成Forms広告ユニットを通じてキャプチャする際に発生するコンバージョンに対して、売上高アトリビューションを行 [!DNL LinkedIn] ことができるようになりました。 これらのインサイトを使用して、フォームのパフォーマンスと有料メディアへの投資を最適化できます。[!DNL LinkedIn] リード世代Formsは、[!DNL LinkedIn] で最も急速に成長している有料メディア製品の 1 つです。この新しい機能は、[!DNL Bizible] との既存の [!DNL LinkedIn] Ads 統合に含まれています。 
- 
+* **[!DNL Bizible][!DNL LinkedIn] リードジェネレーションフォーム統合**：[!DNL LinkedIn] がリードジェネレーションフォームの広告ユニットを通じてフォームの入力をキャプチャする際に発生するコンバージョンに対して収益属性を実行できるようになりました。これらのインサイトを使用して、フォームのパフォーマンスと有料メディアへの投資を最適化できます。[!DNL LinkedIn] リードジェネレーションフォームは、[!DNL LinkedIn] で最も急速に成長している有料メディア製品の一つで、この新機能は、[!DNL Bizible] との既存の [!DNL LinkedIn] 広告統合に含まれています。
+
 * **Velocity ダッシュボードの改善**：より深いインサイトを得るための新しい Velocity 指標とダッシュボードフィルターを追加しました。このダッシュボードは、マーケターが段階的なリードと商談の速度、および様々な形式のマーケティングとセールスエンゲージメントの効率を理解するために使用します。
 
 * **新しいコホートウォーターフォールジャーニーダッシュボード**：これにより、マーケターは従来の「デマンドウォーターフォール」段階セットを通じて、選択したコホートの進行状況を表示でき、コンバージョン率と暗黙の段階的なコンバージョンの因果関係を段階的にすばやく把握できます。
 
-## Adobe Experience Cloudとの [!DNL Bizible] の統合 {#bizible-integration-with-adobe-experience-cloud}
+## Adobe Experience Cloud との [!DNL Bizible] 統合 {#bizible-integration-with-adobe-experience-cloud}
 
-この節では、Adobe Identity Management System（IMS）の移行を完了した Bizible ユーザー向けの新機能について説明します。移行済みの場合は、「Adobe ID」タブの [!DNL Bizible] 設定に新しいAdobe IDが表示されます。 2021年末までにすべてのアカウントを移行する必要があります。
+この節では、Adobe Identity Management System（IMS）の移行を完了した Bizible ユーザ向けの新機能について説明します。移行済みの場合は、新しい Adobe ID が「Adobe ID」タブの [!DNL Bizible] 設定に表示されます。2021年末までにすべてのアカウントを移行する必要があります。
 
-* **[!DNL Bizible]とAdobe Privacy Serviceとの統合** （2021 年 9 月に利用可能）:[!DNL Bizible] とAdobe Privacy Serviceとの統合により、Adobe Experience Cloud アプリケーション全体で重要なデータプライバシー規制（GDPR など）へのコンプライアンスが一元化されます。 このサービスを利用して、すべてのプライバシーリクエストを一元的に管理できるようになり、[!DNL Bizible] や他のAdobe製品に寄せられた変更リクエストがアプリケーション全体に反映されます。
+* Adobe Privacy Service との **[!DNL Bizible]統合**（2021年9月から利用可能）：[!DNL Bizible] と Adobe Privacy Service の統合により、Adobe Experience Cloud アプリケーション全体での重要なデータプライバシー規制（GDPR など）へのコンプライアンスを一元化します。このサービスを活用し、すべてのプライバシーリクエストを一元的に管理できるようになり、[!DNL Bizible] や他のアドビ製品に対する変更リクエストがアプリケーション間で反映されるようになりました。
 
-* Adobe統合シェルに **[!DNL Bizible]いて**: [!DNL Bizible] でAdobe統合シェルが採用されたことにより、[!DNL Bizible] アプリケーションヘッダーバーに表示される新機能がユーザーに提供されます。この新機能には、リソースのサポートやアプリケーションの切り替えへのアクセス改善が含まれます。 Adobe統合シェルは、[!DNL Bizible] と他のAdobe Experience Cloud アプリケーション間で一貫したエクスペリエンスを作成するのに役立ちます。
+* アドビ統合シェルでの **[!DNL Bizible]**：[!DNL Bizible] のアドビ統合シェルの採用により、[!DNL Bizible] アプリケーションヘッダーバーに表示される新しい機能と、サポートリソースおよびアプリケーションの切り替えへのより優れたアクセスをユーザに提供します。アドビ統合シェルは、[!DNL Bizible] と他の Adobe Experience Cloud アプリケーションとの間で一貫したエクスペリエンスを作成するのに役立ちます。
 
-* **[!DNL Bizible]Domain Ownership and Self-Management**: [!DNL Bizible] ユーザーは、Adobe Admin Consoleを利用して、トラッキング対象のドメインを管理 [!DNL Bizible] きます。 セルフサービスを以前に手動で行うプロセスに移行し、Adobe Experience Cloud アプリケーションでドメインの所有とトラッキングをどのように管理するかで、一貫したエクスペリエンスを提供できます。
+* **[!DNL Bizible]ドメインの所有権と自己管理**：[!DNL Bizible] ユーザは、Adobe Admin Console を活用して、[!DNL Bizible] でトラッキングするドメインを管理できます。セルフサービスを以前に手動で行うプロセスに移行し、Adobe Experience Cloud アプリケーションでドメインの所有とトラッキングをどのように管理するかで、一貫したエクスペリエンスを提供できます。
 
 ## お知らせ {#announcements}
 

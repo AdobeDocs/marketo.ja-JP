@@ -5,9 +5,9 @@ title: リリースノート - 2012年1月／2月
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '432'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -71,8 +71,8 @@ HTML とテキストビューを並べて表示
 
 * [!DNL Mozilla Firefox] 9.0
 * [!DNL Google Chrome] 16
-* [!DNL Microsoft Internet Explorer] 8 &amp; 9
-* **メモ**:[!DNL Internet Explorer] 7 はサポートされなくなりました
+* [!DNL Microsoft Internet Explorer] 8＆9
+* **メモ**：[!DNL Internet Explorer] 7 のサポートは終了しました
 
 ## プログラム管理 {#program-management}
 

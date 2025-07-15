@@ -5,9 +5,9 @@ title: リリースノート - 2014年5月
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '465'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -61,9 +61,9 @@ ht-degree: 88%
 
 パニックを起こす必要はありません。間違いが見つかった場合は、新しい「[キャンペーンの中止](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)」ボタンを使用して、キャンペーンのトラックを直ちに停止します。キャンペーンを停止したときに、各フローステップで保留中のリード数を示す通知が届きます。
 
-## 日本語、ポルトガル語、スペイン語での [!UICONTROL Insightの販売 &#x200B;] {#sales-insight-in-japanese-portuguese-and-spanish}
+## 日本語、ポルトガル語、スペイン語の[!UICONTROL セールスインサイト] {#sales-insight-in-japanese-portuguese-and-spanish}
 
-AppExchangeから最新の [!UICONTROL Sales Insight] をダウンロードして、日本語、ポルトガル語、スペイン語を話す販売担当者が優先言語で [!UICONTROL Sales Insight] のコンテンツを閲覧できるようにします。
+日本語、ポルトガル語およびスペイン語を母語とする販売員が希望の言語で[!UICONTROL セールスインサイト]を表示できるように、AppExchange から最新の[!UICONTROL セールスインサイト]をダウンロードします。
 
 ![](assets/image2014-9-22-12-3a2-3a12.png)
 
@@ -71,9 +71,9 @@ AppExchangeから最新の [!UICONTROL Sales Insight] をダウンロードし�
 
 [各プログラムステータスに含まれるメンバー](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)の数、各ステータスに変更された日時（プログラム成功に到達した日付など）を表示します。
 
-## [!UICONTROL &#x200B; メール分析 &#x200B;] での A/B テストメール {#a-b-test-emails-in-email-analysis}
+## [!UICONTROL メール分析]での A/B テストメール {#a-b-test-emails-in-email-analysis}
 
-[!UICONTROL Email Analysis] で [A/B テスト用の各 E メールのバリアント ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) ついてレポートします。
+[!UICONTROL メール分析]で、[A/B テストメールの各バリエーション](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)に関するレポートを作成します。
 
 ## 分析パッケージの変更点 {#analytics-packaging-changes}
 

@@ -5,9 +5,9 @@ title: 人物データの更新
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '181'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -66,6 +66,6 @@ ht-degree: 93%
 
 <br> 
 
-[◄ Mission 8：セールス担当者への警告](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[◄ ミッション 8：セールス担当者にアラート](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
 
-[ミッション 10：ランディングページ ► をリダイレクト](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)
+[ミッション 10：ランディングページのリダイレクト ►](/help/marketo/getting-started/quick-wins/redirect-a-landing-page.md)

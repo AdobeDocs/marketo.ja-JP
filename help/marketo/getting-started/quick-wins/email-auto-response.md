@@ -5,9 +5,9 @@ title: メールの自動応答
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '380'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -128,8 +128,8 @@ ht-degree: 93%
 
 ## ミッション完了 {#mission-complete}
 
-数分以内に、インボックスに自動応答メールが表示されます。
+数分以内に、インボックスに自動応答のメールが表示されます。
 
-[◄ ミッション 3：シンプルなスコアリング](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[◄ ミッション 3：単純スコア](/help/marketo/getting-started/quick-wins/simple-scoring.md)
 
-[ミッション 5：人物 ► ースのリストをインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[ミッション 5：人物のリストの読み込み ►](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)

@@ -5,9 +5,9 @@ title: リリースノート - 2020 年 6 月
 exl-id: ffc39c9f-8c0c-45af-8ee6-f58971e230b9
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1031'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 70%
 
 **_四半期リリース_**：以下の機能は **2020 年 6 月 5 日**&#x200B;にリリースされます。
 
-## Marketo Engage コア機能 {#core-marketo-engage}
+## Marketo Engage のコア機能 {#core-marketo-engage}
 
-* **[予測オーディエンス](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=ja#predictive-audiences)**![（星）](assets/yellow-star.png)：Adobe Sensei が提供する新しいスマートリストおよびスマートキャンペーンフィルターを使用すると、メール、イベント、ウェビナーマーケティングプログラム用の AI を利用したオーディエンスセグメントを作成できます。AI を使用して、リードがイベントに登録したり参加したり、登録解除したりする可能性に基づいてオーディエンスをセグメント化できます。過去のプログラムに基づいて類似したオーディエンスを構築し、以前の成功を効率的にレプリケートします。予測目標追跡を使用してコンバージョン目標を達成し、イベントプログラムのオーディエンスセグメントを絞り込む方法に関するレコメンデーションを得ます。
+* **[予測オーディエンス](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)**![（星）](assets/yellow-star.png)：Adobe Sensei が提供する新しいスマートリストおよびスマートキャンペーンフィルターを使用すると、メール、イベント、ウェビナーマーケティングプログラム用の AI を利用したオーディエンスセグメントを作成できます。AI を使用して、リードがイベントに登録したり参加したり、登録解除したりする可能性に基づいてオーディエンスをセグメント化できます。過去のプログラムに基づいて類似したオーディエンスを構築し、以前の成功を効率的にレプリケートします。予測目標追跡を使用してコンバージョン目標を達成し、イベントプログラムのオーディエンスセグメントを絞り込む方法に関するレコメンデーションを得ます。
 * **バッチメールの高速化** ![（星）](assets/yellow-star.png)：1 時間に最大 300 万件のバッチメールを送信できる、アドビのメールマーケティング機能の強化。バッチキャンペーンとメールレポート処理を再設計し、メールプログラムとバッチメールキャンペーンのパフォーマンスを向上させました。これにより、送信のリードタイムが短くなり、完了時間が改善します。メール送信は通常どおりに簡単に設定できます。この機能強化は、Delivery Services Launch Pack、メール配信ツール、複数の専用 IP アドレスも含まれる製品アドオンとして使用できます。
 * **[Adobe Experience Cloud（AEC）とのオーディエンスの統合](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**：新しい Adobe Experience Cloud（AEC）統合では、Marketo Engage の既知のリードの静的リストを複数の AEC アプリケーションと同期して、既存のプログラムの強化、新しい使用例のロック解除、マルチチャネルキャンペーンの調整をおこなうことができます。この統合には、Adobe Analytics、Adobe Target、Adobe Experience Manager、Adobe Audience Manager、Adobe Advertising Cloud が含まれます。
 * **[プログラムメンバーカスタムフィールド](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**：プログラムメンバーに関するカスタムフィールドをキャプチャおよび利用します。Marketo Engage フォームでこれらの新しいフィールドを使用し、プログラムのメンバーリストに表示し、スマートリストフィルターとトリガーで活用し、新しいスマートキャンペーンフローアクションに含めて、より詳細なパーソナライゼーションを実現します。UI および API を使用した読み込みと書き出しもできます。カスタムデータオブジェクトおよびフィールド機能の強化。
 * **プログラムメンバーの説明**：REST API を使用してプログラムメンバーカスタムフィールドデータの読み込みと書き出しを行えるように、プログラムメンバーメタデータを取得します。API の機能強化。
-* **[タスクの作成 [!DNL Microsoft Dynamics]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)**:Marketo Engageで取得した顧客の行動に基づいて、新しいフローアクションを使用して、[!DNL Microsoft Dynamics] 内の営業のタスクを作成します。 ネイティブ [!DNL Microsoft Dynamics] CRM 統合の強化。
+* **[ [!DNL Microsoft Dynamics]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)** でタスクを作成：Marketo Engage でキャプチャされた顧客行動に基づく新しいフローアクションを使用して、[!DNL Microsoft Dynamics] 内で Sales のタスクを作成します。ネイティブの [!DNL Microsoft Dynamics] CRM 統合の強化。
 * **リストアセット API エンドポイントで使用されるフォームを取得**：フォームに依存するアセットのリストを取得します。API の機能強化。
 * **API を使用したメールのプリヘッダーの設定**：メールのプリヘッダーフィールドの自動翻訳とローカライゼーションを有効にします。API の機能強化。
 * **画像とファイルのキャッシュ**：60 秒のキャッシュから Marketo Engage とファイルアセットを提供することで、画像サーバーの安定性を向上させています。
@@ -51,28 +51,28 @@ ht-degree: 70%
 
 ![（星印）](assets/yellow-star.png)
 
-* **Marketo Engage プログラムの統合**: プログラムデータをMarketo Engageから直接取り込み、電子メールおよびエンゲージメントプログラムに適切にクレジットを付与するた [!DNL Bizible] に、アトリビューションジャーニーに沿ってタッチポイントを作成します。 Marketo Engage 統合の強化。
-* **Marketo Engage アクティビティ統合（BETA）**: Marketo Engage アクティビティデータを [!DNL Bizible] に直接取り込み、カスタマージャーニーとすべてのアトリビューションモデルにわたってタッチポイントを作成します。 例としては、リードスコアの変更、注目のアクション、メールのクリック、その他のカスタムアクティビティなどがあります。Marketo Engage 統合の強化。
-* **[!DNL Bizible]B2B 顧客属性の統合（BETA）**: Adobe Analyticsと統合されたAdobe Experience Cloudです。この統合により、一部の Bizible データをAdobe Analyticsに直接取り込み、より詳細な分析が可能になります。 例としては、会社名、アカウント属性、CRM 商談、属性となる収益やファネルステージで定義された高価値の個人による、アカウントベースのサイトトラフィックやコンテンツ分析 [!DNL Bizible] あります。
-* フィルターと機能強化 **[!DNL Bizible]確認する**：ダッシュボードをまたいでチャネル、サブチャネル、キャンペーン、セグメントフィルターを使用してデータを分析します。 より詳細な属性を使用して、データの可視性を強化します。これは、Discover ボードの機能強化です。
-* **[!DNL Microsoft Dynamics]** のアクティビティ同期：CRM アクティビティをタッチポイントジャーニーに取り込 [!DNL Microsoft Dynamics] ことで販売インタラクションを分析し、リードや連絡先に関連付けられた通話、予定、タスクなどのイベントを追跡します。 [!DNL Microsoft Dynamics] CRM 統合の強化。
+* **Marketo Engage プログラムの統合**：Marketo Engage から直接プログラムデータを抽出し、[!DNL Bizible] の属性ジャーニーに沿ってタッチポイントを作成して、メールやエンゲージメントプログラムに適切なクレジットを付与します。Marketo Engage 統合の強化。
+* **Marketo Engage アクティビティの統合（Beta）**：Marketo Engage アクティビティデータを [!DNL Bizible] に直接取り込み、カスタマージャーニーとすべてのアトリビューションモデルをまたいだタッチポイントを作成します。例としては、リードスコアの変更、注目のアクション、メールのクリック、その他のカスタムアクティビティなどがあります。Marketo Engage 統合の強化。
+* **[!DNL Bizible]B2B 顧客属性統合（Beta）**：Adobe Analytics との Adobe Experience Cloud 統合で、選択した Bizible データを直接 Adobe Analytics に取り込み、より詳細な分析を行うことができます。例としては、企業名別のアカウントベースのサイトトラフィックとコンテンツ分析、アカウント属性別、CRM 商談別、[!DNL Bizible] の属性収益とファネルステージで定義された高価値の個人などがあります。
+* **[!DNL Bizible]Discover フィルターと機能強化**：ダッシュボード全体でチャネル、サブチャネル、キャンペーン、セグメントフィルターを使用してデータを分析します。より詳細な属性を使用して、データの可視性を強化します。これは、Discover ボードの機能強化です。
+* **[!DNL Microsoft Dynamics]** のアクティビティ同期：[!DNL Microsoft Dynamics] CRM アクティビティをタッチポイントジャーニーに取り込み、リードや連絡先に関連付けられた呼び出し、予定、タスクなどのイベントを追跡することで、セールスインタラクションを関連付けます。[!DNL Microsoft Dynamics] CRM 統合の強化。
 
 ## [!DNL Sales Insight] {#sales-insight}
 
 ![（星印）](assets/yellow-star.png)
 
-* **[Salesforce CRM 用の Insights ダッシュボード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**：今後のマーケティングイベントやキャンペーンを可視化する新しい機能で [!DNL Sales Insight] の機能を再考しており、セラーがニーズと関心に基づいて、お客様や見込み客により関連性の高いレコメンデーションを提案できるようになりました。 また、販売者は、タイムライン内で連絡先とアカウントアクティビティの両方を表示でき、追加のアクティビティの詳細に簡単にアクセスできます。パッケージのアップグレード方法の詳細については[こちら](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)をご覧ください。
+* **[Salesforce CRM 用インサイトダッシュボード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)**：[!DNL Sales Insight] の機能を新しい視覚的な新しいマーケティングイベントやキャンペーンの可視性で再設計し、販売者がニーズや興味に基づいて顧客や見込み客に対してより関連性の高いレコメンデーションを提供できるようにしています。また、販売者は、タイムライン内で連絡先とアカウントアクティビティの両方を表示でき、追加のアクティビティの詳細に簡単にアクセスできます。パッケージのアップグレード方法の詳細については[こちら](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)をご覧ください。
 
-<br> 
+<br>
 
 ## お知らせ {#announcements}
 
-* **ITP 2.1 以降の RTP 更新**:[!DNL Safari] の Cookie ポリシーが変更されたので、同じドメイン上のセッションをまたいでユーザーを追跡する RTP Cookie の機能は、訪問者が使用するブラウザーとブラウザーバージョンに基づいて、ITP によって 1 日または 7 日に制限されます。 これを考慮して、HTTP 応答を介して Set-Cookie ヘッダーで RTP の cookie を設定できるようにする新しい Web サービスを実装しています。詳しくは[こちら](https://nation.marketo.com/t5/Knowledgebase/Browser-Cookie-Updates-How-Marketo-RTP-Is-Affected/ta-p/299603)をご覧ください。
+* **ITP 2.1 以降 RTP のアップデート**：[!DNL Safari] の cookie ポリシーが変更されたので、RTP cookie が同じドメインで複数のセッションをまたいでユーザを追跡する機能は、ITP によって、訪問者が使用しているブラウザーとブラウザーのバージョンに基づいて 1 日または 7 日に制限されます。これを考慮して、HTTP 応答を介して Set-Cookie ヘッダーで RTP の cookie を設定できるようにする新しい Web サービスを実装しています。詳しくは[こちら](https://nation.marketo.com/t5/Knowledgebase/Browser-Cookie-Updates-How-Marketo-RTP-Is-Affected/ta-p/299603)をご覧ください。
 
 * **バッチキャンペーンインフラストラクチャの変更**：バッチキャンペーンサービスは、今年中にアップグレードします。これはシームレスな更新で、進行中のバッチキャンペーンに影響を与えず、動作の変更にもつながりません。アクションは必要ありません。こちらの [Nation post](https://nation.marketo.com/t5/Product-Documents/Batch-Campaign-Processing-Infrastructure-Update/ta-p/301374) で詳細をご覧ください。
 
 ## 廃止予定機能 {#deprecations}
 
-* **[Munchkin リード関連付け ](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**:[!DNL Munchkin] JS のバージョン 159 リリース以降、リード関連付けメソッドが呼び出されると、ブラウザーコンソールに非推奨の警告が記録され、今後のリリースで機能が削除されることを示します。  完全な廃止スケジュールは、後日発表されます。
+* **[Munchkin 関連リード](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**：[!DNL Munchkin] JS のバージョン 159 以降では、Associate Lead メソッドが呼び出されると、廃止の警告がブラウザーコンソールに記録され、将来のリリースでこの機能が削除されることを示します。完全な廃止スケジュールは、後日発表されます。
 
-**_製品リリースウェビナー[_**](https://engage.marketo.com/June-Release-2020-On-Demand.html)：2019 年 6 月リリースイノベーションのウェビナーの録画をこちらでご覧ください。
+**_製品リリースウェビナー_**：2019年6月リリースイノベーションのウェビナーの[録画をこちらでご覧ください](https://engage.marketo.com/June-Release-2020-On-Demand.html)。

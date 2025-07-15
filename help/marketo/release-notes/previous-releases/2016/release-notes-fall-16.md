@@ -4,9 +4,9 @@ description: リリースノート - 2016年秋 - Marketo ドキュメント - �
 title: リリースノート - 2016年秋
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
 source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '651'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -14,9 +14,9 @@ ht-degree: 83%
 
 16年秋リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。
 
-## メール内の [!UICONTROL &#x200B; 予測コンテンツ &#x200B;] {#predictive-content-in-email}
+## メール用[!UICONTROL 予測コンテンツ] {#predictive-content-in-email}
 
-Web チャネルとメールチャネルにまたがる機械学習と予測アルゴリズムを通じて、コンテンツを追跡、管理、推奨する [!UICONTROL &#x200B; 予測コンテンツ &#x200B;] アプリケーションに新しいユーザーエクスペリエンスがあります。
+[!UICONTROL 予測コンテンツ]アプリケーションでは、web チャネルやメールチャネルをまたいで機械学習や予測アルゴリズムを通じて、コンテンツを追跡、管理、提案する新しいユーザエクスペリエンスが提供されます。
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Web チャネルとメールチャネルにまたがる機械学習と予測ア�
 
 ## [Facebook オフラインコンバージョン](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
-オフラインコンバージョン [!DNL Facebook] 統合すると、Marketo（リード広告リード向け）のコンバージョンデータが [!DNL Facebook] に自動的に送り返され、広告チームが広告費用を最適化できるようになります。 この [!DNL Facebook] Ad Manager レポートでは、オフラインコンバージョンがハイライト表示されています。
+[!DNL Facebook] オフラインコンバージョン統合では、Marketo（リード広告リード用）のコンバージョンデータが [!DNL Facebook] に自動的に送り返されるので、広告チームが広告費用をより最適化できます。この [!DNL Facebook] Ad Manager レポートでは、オフラインのコンバージョンが強調表示されます。
 
 ![](assets/facebook.png)
 
@@ -58,8 +58,7 @@ Web チャネルとメールチャネルにまたがる機械学習と予測ア�
 
 監査記録は、Marketo サブスクリプション内でおこなわれた変更の包括的な履歴を提供します。プログラムの追跡機能を追加し、スマートキャンペーン、スマートリスト、ユーザおよびロールに加えられた変更に関する重要な変更の詳細を提示する機能を追加しました。
 
-## 新しく追加された権限
-
+## 新しい権限
 
 **メールをオペレーショナルメールにする**
 
@@ -82,7 +81,7 @@ Web チャネルとメールチャネルにまたがる機械学習と予測ア�
 
 ## [Salesforce 暗号化と互換性のある Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market [!DNL Sales Insight] は、[!DNL Salesforce] Shield 暗号化と互換性を持つようになりました。 すべてのお客様 [!DNL Sales Insight]、この最新の管理パッケージ（バージョン 1.4359.2）にアップグレードする必要があります。このパッケージは [ から入手できます  [!DNL Appexchange]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)。
+Market [!DNL Sales Insight] は、[!DNL Salesforce] Shield Encryption と互換性を持つようになりました。[!DNL Sales Insight] を使用中の顧客は、[ [!DNL Appexchange] で利用可能な](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)最新の管理パッケージ（バージョン 1.4359.2）にアップグレードする必要があります。
 
 ## [重点顧客 API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
 
@@ -94,4 +93,4 @@ Marketo REST API を使用して、v2.0 形式のメールの変数とモジュ�
 
 ## [Marketo Salesforce 同期の変更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
 
-Marketoの [!DNL Salesforce] 統合は、Marketo フィールドと [!DNL Salesforce] の同期方法を改善するように進化しています。 必要に応じて、大量のフィールドを同期する代わりに、含めるフィールドを選択して選択することができます。詳細は、[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840) でドキュメントをご覧ください。
+Marketo の [!DNL Salesforce] 統合は進化し、Marketo フィールドを [!DNL Salesforce] と同期する方法が改善されています。必要に応じて、大量のフィールドを同期する代わりに、含めるフィールドを選択して選択することができます。詳細は、[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840) でドキュメントをご覧ください。

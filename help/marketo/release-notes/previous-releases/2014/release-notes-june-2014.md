@@ -5,9 +5,9 @@ title: リリースノート - 2014年6月
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
 source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '252'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 83%
 
 ## UI のアップデート - 近日公開 {#updated-ui-coming-soon}
 
-[!DNL Marketo Lead Management] のナビゲーションを含む新しいルックアンドフィールは、今後のリリースで近日中に提供されます。
+[!DNL Marketo Lead Management] のナビゲーションが含まれる新しいルックアンドフィールが、今後のリリースでまもなく利用可能になります。
 
 ## [!DNL Outlook] 2013 用 [!DNL Sales Insight] プラグイン {#sales-insight-plugin-for-outlook}
 
@@ -25,7 +25,7 @@ ht-degree: 83%
 
 ## トークンの解決 {#token-resolution}
 
-[!DNL Sales Insight] からテストメールを送信すると、現在、メール内のトークンが解決されず、デフォルト値が送信されます。 この改善により、テストメールのトークンが解決されます。
+[!DNL Sales Insight] からテストメールを送信すると、メール内のトークンは解決されず、デフォルト値が送信されます。この改善により、テストメールのトークンが解決されます。
 
 ## 評価用の星と炎のパーセンテージのカスタマイズ {#customize-percentages-for-stars-and-flames}
 

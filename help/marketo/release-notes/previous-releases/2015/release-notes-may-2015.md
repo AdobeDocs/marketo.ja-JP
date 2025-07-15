@@ -5,9 +5,9 @@ title: リリースノート - 2015年5月
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '253'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 95%
 
 ## メール配信  {#email-deliverability}
 
-Marketoでは、追加されたドメインに対して毎週 [!DNL SPF] 自動チェックと [!DNL DKIM] チェックを実行するようになりました。 通知を確認して、常にこの状態に保ちます。
+Marketo は、追加されたドメインに対して、自動化された [!DNL SPF] および [!DNL DKIM] チェックを毎週実行します。通知を確認して、常にこの状態に保ちます。
 
 ## メールテンプレート動作の変更 {#email-template-behavior-change}
 

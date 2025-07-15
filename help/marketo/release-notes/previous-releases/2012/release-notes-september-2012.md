@@ -5,9 +5,9 @@ title: リリースノート - 2012年9月
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
 source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '302'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -33,19 +33,19 @@ ht-degree: 78%
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## [!DNL Facebook] へのランディングページの公開 {#publish-landing-pages-to-facebook}
+## ランディングページの [!DNL Facebook] への公開 {#publish-landing-pages-to-facebook}
 
-ソーシャルアプリ、フォーム、Marketoのランディングページのすべての機能を使用して、[!DNL Facebook] に直接公開することで、ランディングページのリーチを広げます。
+ソーシャルアプリ、フォーム、Marketo のランディングページの機能をすべて備えたソーシャルアプリケーションを使用して [!DNL Facebook] に直接公開することで、ランディングページのリーチを拡大します。
 
-## [!DNL ReadyTalk] イベント アダプタ {#readytalk-event-adapter}
+## [!DNL ReadyTalk] イベントアダプター {#readytalk-event-adapter}
 
-Marketo イベントを [!DNL ReadyTalk] の会議にシームレスに接続します。 Marketo フォームを使用して登録者を取得し、[!DNL ReadyTalk] に自動登録します。 双方向同期を使用すると、Marketo に出席情報を入力できます。
+Marketo イベントを [!DNL ReadyTalk] ミーティングにシームレスに接続できます。Marketo フォームを使用して登録者を取り込み、[!DNL ReadyTalk] に自動的に登録します。双方向同期を使用すると、Marketo に出席情報を入力できます。
 
 ![](assets/image2014-9-23-10-3a40-3a16.png)
 
 ## Microsoft [!DNL Dynamics] オンプレミス {#microsoft-dynamics-on-premise}
 
-インターネットに接続するデプロイメントで、Microsoft [!DNL Dynamics] 2011 オンプレミスをサポートするようになりました。
+Microsoft [!DNL Dynamics] 2011 オンプレミスとインターネットに接続するデプロイメントがサポートされるようになりました。
 
 ## Webhooks（アイデアスペース） {#webhooks-treasure-chest}
 
