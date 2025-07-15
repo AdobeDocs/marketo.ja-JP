@@ -142,7 +142,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Munchkin Cookie および ECID を表示可能 </strong>:<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page"> ユーザーの詳細ページ）の_Info_ タブに、Munchkin Cookie と ECID （Experience Cloud ID）番号のリストが表示されるようになり、その情報を取得するための API 呼び出しへの依存を減らすことができま </a>。</td>
+   <td><strong>Munchkin Cookie および ECID を表示可能 </strong>:<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page"> ユーザーの詳細ページ）の_Info_ タブに、Munchkin Cookie と ECID （Experience Cloud ID）番号のリストが表示されるようになり、その情報を取得するための API 呼び出しへの依存を減らすことができま </a>。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
@@ -152,11 +152,11 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **Marketo Engage ID の提供終了**: 2025 年 8 月、AdobeはMarketo Engage ID のサポートの段階的な廃止を開始します（`login.marketo.com` 経由でのログイン）。 Marketo Engageへのアクセスが中断されないようにするには、2025 年 9 月 30 日（PT）までに [&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}Adobe ID に移行する必要があります。
+* **Marketo Engage ID の提供終了**: 2025 年 8 月、AdobeはMarketo Engage ID のサポートの段階的な廃止を開始します（`login.marketo.com` 経由でのログイン）。 Marketo Engageへのアクセスが中断されないようにするには、2025 年 9 月 30 日（PT）までに [&#128279;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}Adobe ID に移行する必要があります。
 
-   * _IP 制限の廃止_:[IP に基づくMarketo ログインの制限 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} のサポートは 2025 年 7 月 30 日（PT）に終了します。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin ConsoleのAdobe ID の新しい場所ベースのアクセス制御機能は、2025 年 8 月のリリースを予定しています。
+   * _IP 制限の廃止_:[IP に基づくMarketo ログインの制限 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} のサポートは 2025 年 7 月 30 日（PT）に終了します。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin ConsoleのAdobe ID の新しい場所ベースのアクセス制御機能は、2025 年 8 月のリリースを予定しています。
 
-   * _シングルサインオン （SSO）の廃止_: [Marketo Identity SSO](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} のサポートは 2025 年 7 月 30 日に終了します。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin ConsoleのAdobe ID のシングルサインオンは、別途設定する必要があります。 設定手順については、[ID とシングルサインオンの設定 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} を参照してください。
+   * _シングルサインオン （SSO）の廃止_: [Marketo Identity SSO](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} のサポートは 2025 年 7 月 30 日に終了します。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin ConsoleのAdobe ID のシングルサインオンは、別途設定する必要があります。 設定手順については、[ID とシングルサインオンの設定 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} を参照してください。
 
 * **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2025年10月31日（PT）以降は使用できなくなります。すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
