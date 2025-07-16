@@ -6,9 +6,9 @@ description: Marketo Engage ユーザーは、Litmus アカウントを統合し
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: e5bb92d007db05fc6d0ee1319cb989ad60063e48
+source-git-commit: 919406f948456bc265a73841c87a6d74605f045e
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '265'
 ht-degree: 8%
 
 ---
@@ -19,7 +19,7 @@ Marketo Engageの [Litmus](https://www.litmus.com/email-testing) アカウント
 
 >[!AVAILABILITY]
 >
->この機能は、有効な [Litmus Enterprise](https://www.litmus.com/enterprise){target="_blank"} アカウントを持つすべてのMarketo Engage ユーザーが使用できます。
+>この機能は、[ エンタープライズプラン ](https://www.litmus.com/pricing/enterprise){target="_blank"} アカウントで有効な Litmus アカウントを持つすべてのMarketo Engage ユーザーが利用できます。
 
 ## 使用方法 {#how-to-use}
 
