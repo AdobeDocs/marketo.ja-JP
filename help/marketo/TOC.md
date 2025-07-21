@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '9296'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -1030,7 +1030,7 @@ ht-degree: 99%
          + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
          + [メールテンプレートオーサリング](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [カスタム CSS ドキュメント](product-docs/email-marketing/email-designer/custom-css.md)
-         + [Brand Kit ドキュメント](product-docs/email-marketing/email-designer/brand-kit.md)
+         + [ブランドキットドキュメント](product-docs/email-marketing/email-designer/brand-kit.md)
          + [Litmus を使用したメールレンダリングのテスト](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [パーソナライゼーショントークン](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [AEM Assets の操作](product-docs/email-marketing/email-designer/aem-assets.md)
@@ -1967,7 +1967,7 @@ ht-degree: 99%
          + [リリースノート：2025年1月](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [リリースノート：2025年3月](release-notes/previous-releases/2025/release-notes-mar-25.md)
          + [リリースノート：2025年4月](release-notes/previous-releases/2025/release-notes-apr-25.md)
-         + [リリースノート：2025 年 5 月](release-notes/previous-releases/2025/release-notes-may-25.md)
+         + [リリースノート：2025年5月](release-notes/previous-releases/2025/release-notes-may-25.md)
       + 2024年 {#2024}
          + [リリースノート：2024年1月](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [リリースノート：2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)

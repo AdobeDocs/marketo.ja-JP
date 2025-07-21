@@ -5,9 +5,9 @@ title: Marketo でのカスタムフィールドの作成
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
 source-git-commit: dcc2af51726db6f503486fb0553fb32fc65495ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '191'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
@@ -31,15 +31,15 @@ ht-degree: 58%
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
-1. _[!UICONTROL オブジェクト]_ を選択します。
+1. 「_[!UICONTROL オブジェクト]_」を選択します。
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
    >[!NOTE]
    >
-   >_会社_ オブジェクトは自分で選択できませんが、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} に連絡してリクエストできます。
+   >_会社_&#x200B;オブジェクトは自分で選択できませんが、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡してリクエストできます。
 
-1. フィールド _[!UICONTROL タイプ]_ を選択します。 これにより、Marketoのスマートリストおよびフォームでのレンダリング方法が変わります。
+1. 「_[!UICONTROL タイプ]_」フィールドを選択します。 これにより、Marketo のスマートリストおよびフォームでのレンダリング方法が変更されます。
 
    >[!TIP]
    >
@@ -47,7 +47,7 @@ ht-degree: 58%
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. Marketoに表示する _[!UICONTROL 名前]_ を入力します（_[!UICONTROL API 名]_ は自動的に生成されます）。 保存後は名前を変更できないので、慎重に選択してください。 終了したら、「**[!UICONTROL 作成]**」をクリックします。
+1. Marketo に表示する&#x200B;_[!UICONTROL 名前]_&#x200B;を入力します（_[!UICONTROL API 名]_&#x200B;は自動的に生成されます）。 保存後は名前を変更できないので、慎重に選択します。 終了したら、「**[!UICONTROL 作成]**」をクリックします。
 
 >[!CAUTION]
 >
@@ -59,4 +59,4 @@ ht-degree: 58%
 >
 >この API 名は、SOAP API および他のバックエンドプロセスで使用されます。
 
-これで、このカスタムフィールドをフォーム、フローステップ、スマートリストで使用できるようになります。
+これで、フォーム、フローステップ、スマートリストでこのカスタムフィールドを使用できます。
