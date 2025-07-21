@@ -142,7 +142,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Munchkin Cookie および ECID を表示可能 </strong>:<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page"> ユーザーの詳細ページ）の_Info_ タブに、Munchkin Cookie と ECID （Experience Cloud ID）番号のリストが表示されるようになり、その情報を取得するための API 呼び出しへの依存を減らすことができま </a>。</td>
+   <td><strong>Munchkin Cookie および ECID を表示可能 </strong>:<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page"> ユーザーの詳細ページ）の_Info_ タブに、Munchkin Cookie と ECID （Experience Cloud ID）番号のリストが表示されるようになり、その情報を取得するための API 呼び出しへの依存を減らすことができま </a>。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
