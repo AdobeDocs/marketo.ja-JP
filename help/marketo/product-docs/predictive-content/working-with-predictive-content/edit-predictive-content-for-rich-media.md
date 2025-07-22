@@ -4,10 +4,10 @@ description: リッチメディアの予測コンテンツを編集する - Mark
 title: リッチメディアの予測コンテンツを編集する
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->すべてのコンテンツページで、コンテンツが[予測コンテンツに対して承認されている](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)必要があります。
+>コンテンツは、[ すべてのコンテンツ ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) ページの [!UICONTROL  予測コンテンツ向けの承認 ] が必要です。
 
-1. **予測コンテンツ**&#x200B;ページで、「タイトル」をクリックして、エディターを開きます
+1. **[!UICONTROL 予測コンテンツ]**&#x200B;ページで、「タイトル」をクリックして、エディターを開きます
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. 「**リッチメディア**」をクリックします。
+1. 「**[!UICONTROL リッチメディア]**」をクリックします。
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. 「**カテゴリ**」ボックスをクリックして、[既に設定済みのカテゴリ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)を選択／追加します（オプション）。
+1. 「**[!UICONTROL カテゴリ]**」ボックスをクリックして、[既に設定済みのカテゴリ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)を選択／追加します（オプション）。
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -55,6 +55,6 @@ ht-degree: 100%
 
    ![](assets/six-1.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/save.png)

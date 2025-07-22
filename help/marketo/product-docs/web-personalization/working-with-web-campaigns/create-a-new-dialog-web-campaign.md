@@ -4,7 +4,7 @@ description: ダイアログ web キャンペーンの新規作成 - Marketo ド
 title: ダイアログ web キャンペーンの新規作成
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '749'
 ht-degree: 100%
@@ -19,15 +19,15 @@ Web キャンペーンを作成して、Web コンテンツをリアルタイム
 
 Web キャンペーンとは、特定のセグメントに関連付けられたカスタマイズされた反応です。反応は、ウェブサイト上のダイアログボックス、[ゾーン内置換](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、[ウィジェット機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)、メールアラートのいずれかにすることができます。
 
-1. 「**Web キャンペーン**」に移動します。
+1. 「**[!UICONTROL Web キャンペーン]**」に移動します。
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
-1. 「**Web キャンペーンの新規作成**」を選択します。
+1. 「**[!UICONTROL Web キャンペーンの新規作成]**」を選択します。
 
    ![](assets/image2016-11-4-10-3a58-3a32.png)
 
-1. **ダイアログ** web キャンペーンタイプを選択します。クリエイティブをエディターでデザインし、追加します。「**プレビュー**」をクリックして、この Web キャンペーンがサイトでどう応答するかを確認します。
+1. **[!UICONTROL ダイアログ]** web キャンペーンタイプを選択します。クリエイティブをエディターでデザインし、追加します。「**[!UICONTROL プレビュー]**」をクリックして、この Web キャンペーンがサイトでどう応答するかを確認します。
 
    ![](assets/new-3.png)
 
@@ -132,7 +132,7 @@ Web キャンペーンとは、特定のセグメントに関連付けられた�
 
 ## Web キャンペーンを編集する {#edit-a-web-campaign}
 
-1. **Web キャンペーン**&#x200B;ページで、web キャンペーンの「**編集**」をクリックします。
+1. **[!UICONTROL Web キャンペーン]**&#x200B;ページで、web キャンペーンの「**[!UICONTROL 編集]**」をクリックします。
 
 ![](assets/image2016-11-4-11-3a6-3a19.png)
 
@@ -142,7 +142,7 @@ Web キャンペーンとは、特定のセグメントに関連付けられた�
 
 ## Web キャンペーンをプレビューする {#preview-a-web-campaign}
 
-1. **** Web キャンペーンページで、確認する web キャンペーンの「**プレビュー**」をクリックします。
+1. **** Web キャンペーンページで、確認する web キャンペーンの「**[!UICONTROL プレビュー]**」をクリックします。
 
 ![](assets/image2016-11-4-11-3a8-3a58.png)
 
@@ -152,7 +152,7 @@ Web キャンペーンとは、特定のセグメントに関連付けられた�
 
 ## Web キャンペーンを削除する {#delete-a-web-campaign}
 
-1. **Web キャンペーン**&#x200B;ページで、削除する web キャンペーンの「**削除**」をクリックします。
+1. **[!UICONTROL Web キャンペーン]**&#x200B;ページで、削除する web キャンペーンの「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/web-campaigns-1-delete-hand.png)
 

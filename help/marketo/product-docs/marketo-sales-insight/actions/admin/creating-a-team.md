@@ -3,10 +3,10 @@ description: チームの作成 - Marketo ドキュメント - 製品ドキュ�
 title: チームの作成
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 84%
 
 ---
 
@@ -16,19 +16,19 @@ ht-degree: 100%
 
 ## チームの作成 {#create-a-team}
 
-1. [Web アプリケーションで](https://toutapp.com/login)、歯車アイコンをクリックし、「**設定**」を選択します。
+1. [Web アプリケーションで](https://toutapp.com/login)、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/creating-a-team-1.png)
 
-1. 管理設定で、「**チーム管理**」を選択します。
+1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL チーム管理]**」を選択します。
 
    ![](assets/creating-a-team-2.png)
 
-1. チームの横の **+** アイコンをクリックします。
+1. [!UICONTROL  チーム ] の横にある「**+**」アイコンをクリックします。
 
    ![](assets/creating-a-team-3.png)
 
-1. チーム名を入力し、「**作成**」をクリックします。
+1. チーム名を入力し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/creating-a-team-4.png)
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 ## チームに人物を追加 {#add-people-to-a-team}
 
-1. 引き続きチーム管理で、「**すべてのメンバー**」を選択します。
+1. [!UICONTROL  チーム管理 ] のまま、「**[!UICONTROL すべてのメンバー]**」を選択します。
 
    ![](assets/creating-a-team-5.png)
 
@@ -46,7 +46,7 @@ ht-degree: 100%
 
    ![](assets/creating-a-team-6.png)
 
-1. 「**チームに追加**」をクリックします。
+1. 「**[!UICONTROL チームに追加]**」をクリックします。
 
    ![](assets/creating-a-team-7.png)
 
@@ -54,6 +54,6 @@ ht-degree: 100%
 
    ![](assets/creating-a-team-8.png)
 
-1. 終了したら「**追加**」をクリックします。
+1. 終了したら「**[!UICONTROL 追加]**」をクリックします。
 
    ![](assets/creating-a-team-9.png)

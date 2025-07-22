@@ -1,18 +1,18 @@
 ---
-description: デフォルトの Veeva フィールドマッピング - Marketo ドキュメント – 製品ドキュメント
-title: デフォルトの Veeva フィールドマッピング
+description: デフォルト  [!DNL Veeva]  フィールドマッピング - Marketo ドキュメント – 製品ドキュメント
+title: デフォルト  [!DNL Veeva]  フィールドマッピング
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 73%
+source-wordcount: '253'
+ht-degree: 72%
 
 ---
 
-# デフォルトの Veeva フィールドマッピング {#default-veeva-field-mapping}
+# デフォルトの [!DNL Veeva] フィールドマッピング {#default-veeva-field-mapping}
 
-Marketo Engageアカウントを Veeva と最初に同期すると、Marketoは、組み込みの Veeva フィールドとMarketo フィールドの間で自動的にこれらの関連付けを行います。 Marketoは、アカウントおよび連絡先のカスタムフィールドも同期します。
+Marketo Engage アカウントを [!DNL Veeva] と最初に同期すると、Marketoは、組み込みの [!DNL Veeva] フィールドとMarketo フィールドの間でこれらの関連付けを自動的に行います。 Marketoは、アカウントおよび連絡先のカスタムフィールドも同期します。
 
 ## 連絡先フィールド {#contact-fields}
 
@@ -192,7 +192,7 @@ Marketo Engageアカウントを Veeva と最初に同期すると、Marketoは�
   </tbody>
 </table>
 
-## Marketoの Veeva 関連のシステムフィールド（読み取り専用） {#veeva-related-system-fields-in-marketo}
+## Marketoの [!DNL Veeva] 関連のシステムフィールド（読み取り専用） {#veeva-related-system-fields-in-marketo}
 
 これらのフィールドはMarketoで作成されますが、お客様が調整することはできません。
 
@@ -209,19 +209,19 @@ Marketo Engageアカウントを Veeva と最初に同期すると、Marketoは�
   </thead>
   <tbody>
     <tr>
-      <td>Veeva Id</td>
-      <td>18 文字の Salesforce ID</td>
+      <td>[!DNL Veeva] ID</td>
+      <td>18 文字の [!DNL Salesforce] Id</td>
     </tr>
     <tr>
-      <td>Veeva タイプ</td>
+      <td>[!DNL Veeva] タイプ</td>
       <td>連絡先。 空の場合、リードは Marketo にのみ存在します</td>
     </tr>
     <tr>
-      <td>Veeva 作成日</td>
+      <td>[!DNL Veeva] 作成日</td>
       <td>SFDC で作成された日付（Marketo で作成された日付とは異なる場合があります）</td>
     </tr>
     <tr>
-      <td>Veeva が削除されました</td>
+      <td>[!DNL Veeva] 削除済み</td>
       <td>以前は SFDC に存在したが、削除され、現在は Marketo にしか存在しない個人</td>
     </tr>
   </tbody>

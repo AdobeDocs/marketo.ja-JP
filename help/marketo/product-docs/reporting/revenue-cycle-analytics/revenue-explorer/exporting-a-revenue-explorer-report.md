@@ -4,18 +4,18 @@ description: 収益エクスプローラレポートの書き出し - Marketo �
 title: 収益エクスプローラレポートの書き出し
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '84'
+ht-degree: 86%
 
 ---
 
-# 収益エクスプローラレポートの書き出し {#exporting-a-revenue-explorer-report}
+# [!UICONTROL  売上高エクスプローラー ] レポートの書き出し {#exporting-a-revenue-explorer-report}
 
 任意の収益エクスプローラレポートを書き出して、他のユーザーと共有できます。
 
-1. 歯車アイコンをクリックし、「**書き出し**」をクリックして、ファイル形式を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 書き出し]**」をクリックして、ファイル形式を選択します。
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -24,10 +24,10 @@ ht-degree: 100%
    >レポートは、次の 3 つの形式に書き出すことができます。
    >
    >* PDF
-   >* Excel
+   >* [!DNL Excel]
    >* CSV
 
-1. 目的の&#x200B;**ページ形式**&#x200B;および&#x200B;**向き**&#x200B;を選択して、「**書き出し**」をクリックします。
+1. 目的の&#x200B;**[!UICONTROL ページ形式]**&#x200B;および&#x200B;**[!UICONTROL 向き]**&#x200B;を選択して、「**[!UICONTROL 書き出し]**」をクリックします。
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
@@ -35,4 +35,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[収益エクスプローラレポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[ 収益エクスプローラー [!UICONTROL  レポートのサブスクライブ ] る ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

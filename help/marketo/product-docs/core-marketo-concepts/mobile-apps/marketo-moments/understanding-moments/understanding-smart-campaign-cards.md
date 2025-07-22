@@ -4,10 +4,10 @@ description: スマートキャンペーンについて - Marketo ドキュメ�
 title: スマートキャンペーンカードについて
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '574'
-ht-degree: 63%
+ht-degree: 60%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo Moments を使用すると、スマートフォンまたはiPadからス
 
 >[!IMPORTANT]
 >
->2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Moments アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo EngageインスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Moments アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo Engage インスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}
 
 スケジュール済みでまだ実行されていない将来のスマートキャンペーンの場合、Marketo Moments カードには、まだキャンペーン統計が表示されません。 今後のリリースで提供される予定です。
 
@@ -29,9 +29,9 @@ Marketo Moments を使用すると、スマートフォンまたはiPadからス
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
-1. 詳細カードを使用すると、スマートリストフィルター、フロー、メールの概要に関する情報にアクセスできます。
+1. 詳細カードを使用すると、[!UICONTROL  スマートリスト ] フィルター、[!UICONTROL  フロー ]、および [!UICONTROL  メールの概要 ] に関する情報にアクセスできます。
 
-1. 「**スマートリスト**」をタップします。
+1. 「**[!UICONTROL スマートリスト]**」をタップします。
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ Marketo Moments を使用すると、スマートフォンまたはiPadからス
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. 「**フロー**」をタップします。
+1. 「**[!UICONTROL フロー]**」をタップします。
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ Marketo Moments を使用すると、スマートフォンまたはiPadからス
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. 「**メールの概要**」をクリックします。
+1. 「**[!UICONTROL メールの概要]**」をクリックします。
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ Marketo Moments を使用すると、スマートフォンまたはiPadからス
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. 「[サンプルを送信](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)」または「[メールをプレビュー](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)」をタップします（詳しくは、リンクをクリックしてください）。
+1. 「[[!UICONTROL サンプルを送信]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)」または「[[!UICONTROL メールをプレビュー]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md)」をタップします（詳しくは、リンクをクリックしてください）。
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ Marketo Moments を使用すると、スマートフォンまたはiPadからス
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. 「**確認**」をタップします。
+1. 「**[!UICONTROL 確認]**」をタップします。
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. 「**確認**」をタップして作業を終了するか、または「**気にしない**」をタップします。
+1. 「**[!UICONTROL 確認]**」をタップして作業を終了するか、または「**[!UICONTROL 気にしない]**」をタップします。
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,7 +103,7 @@ Marketo Moments を使用すると、スマートフォンまたはiPadからス
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. 「**実行をキャンセル**」をタップします。
+1. 「**[!UICONTROL 実行をキャンセル]**」をタップします。
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
@@ -119,11 +119,11 @@ Marketo Moments を使用すると、スマートフォンまたはiPadからス
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. 「**再スケジュール**」をタップします。
+1. 「**[!UICONTROL 再スケジュール]**」をタップします。
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. カレンダーで日付を選択し、「**再スケジュール**」をタップします。
+1. カレンダーで日付を選択し、「**[!UICONTROL 再スケジュール]**」をタップします。
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -141,7 +141,7 @@ Marketo Moments を使用すると、スマートフォンまたはiPadからス
 
 >[!NOTE]
 >
->また、共有するスマートキャンペーンカードの「**共有**」アイコンと、詳細カードの「**完了**」アイコンおよび「**お気に入り**」アイコンもタップできます。
+>また、共有するスマートキャンペーンカードの「**[!UICONTROL 共有]**」アイコンと、詳細カードの「**[!UICONTROL 完了]**」アイコンおよび「**[!UICONTROL お気に入り]**」アイコンもタップできます。
 
 ## スマートキャンペーンカードの迅速な削除 {#quickly-delete-a-smart-campaign-card}
 

@@ -4,7 +4,7 @@ description: ストリームのクローンを作成する - Marketo ドキュ�
 title: ストリームのクローンを作成する
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 異なる順序や異なるサイクルのテストなど、様々な理由でストリームのクローンを作成できます。
 
-1. エンゲージメントプログラムを選択し、「**ストリーム**」タブに移動します。
+1. エンゲージメントプログラムを選択し、「**[!UICONTROL ストリーム]**」タブに移動します。
 
    ![](assets/cloneasteam.jpg)
 
-1. ストリームギアアイコンをクリックし、「**クローン**」をクリックします。
+1. ストリームギアアイコンをクリックし、「**[!UICONTROL クローン]**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a0-3a23.png)
 

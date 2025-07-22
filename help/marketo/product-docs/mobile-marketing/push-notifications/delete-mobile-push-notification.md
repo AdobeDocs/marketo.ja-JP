@@ -4,7 +4,7 @@ description: モバイルプッシュ通知の削除 - Marketo ドキュメン�
 title: モバイルプッシュ通知の削除
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # モバイルプッシュ通知の削除 {#delete-mobile-push-notification}
 
-1. **マーケティング活動**&#x200B;領域に移動します。
+1. **[!UICONTROL マーケティング活動]**&#x200B;領域に移動します。
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -21,11 +21,11 @@ ht-degree: 100%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. 「**プッシュ通知アクション**」の下で、「**削除**」をクリックします。
+1. 「**[!UICONTROL プッシュ通知アクション]**」の下で、「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-1. 「**削除**」をクリックして確認します。
+1. 「**[!UICONTROL 削除]**」をクリックして確認します。
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 

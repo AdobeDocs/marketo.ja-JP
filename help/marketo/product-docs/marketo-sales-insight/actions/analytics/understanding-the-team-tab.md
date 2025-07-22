@@ -3,16 +3,16 @@ description: 「チーム」タブについて - Marketo ドキュメント - �
 title: 「チーム」タブについて
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
-# 「チーム」タブについて {#understanding-the-team-tab}
+# 「[!UICONTROL  チーム ]」タブについて {#understanding-the-team-tab}
 
-「チーム」タブで、3 つの重要な指標を説明します。
+「[!UICONTROL  チーム ]」タブでは、3 つの重要な指標をハイライト表示します。
 
 ## テンプレートを使って送信されたメール数 {#emails-sent-with-template}
 

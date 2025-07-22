@@ -4,10 +4,10 @@ description: 機能の概要 - Marketo ドキュメント - 製品ドキュメ�
 title: 機能の概要
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 100%
+source-wordcount: '168'
+ht-degree: 70%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 新しい MSI MSD ソリューションでは、次の機能を利用できます。
 
-## Marketo Sales Insight パネル（「リード」レイアウト）  {#marketo-sales-insight-panel-in-lead-layout}
+## リードレイアウトの [!DNL Marketo Sales Insight] パネル  {#marketo-sales-insight-panel-in-lead-layout}
 
 * 星と炎
 * 注目のアクション
@@ -23,24 +23,24 @@ ht-degree: 100%
 * スコア
 * メール（開いてクリック）
 
-## Marketo Sales Insight のカスタムフィールド（「リード」レイアウト）  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## リードレイアウトでのカスタムフィールドのカスタマイ [!DNL Marketo Sales Insight]  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * リードのスコア
 * 相対スコア
 * 優先度
 * 緊急度
 
-## Marketo Sales Insight のコールトゥアクションボタン（「リード」レイアウト）  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## リードレイアウトの「call to action」ボタンを [!DNL Marketo Sales Insight] きます  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Marketo キャンペーンに追加
 * Marketo メールの送信
 
-## Marketo Sales Insight の一括アクションボタン（「リード」リスト表示）  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## リ [!DNL Marketo Sales Insight] ドリスト表示の一括アクションボタン  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * Marketo キャンペーンに追加
 * Marketo メールの送信
 
-## Marketo Sales Insight パネル（「取引先責任者」レイアウト）  {#marketo-sales-insight-panel-in-contact-layout}
+## 連絡先レイアウトの [!DNL Marketo Sales Insight] パネル  {#marketo-sales-insight-panel-in-contact-layout}
 
 * 星と炎
 * 注目のアクション
@@ -48,24 +48,24 @@ ht-degree: 100%
 * スコア
 * メール（開いてクリック）
 
-## Marketo Sales Insight のカスタムフィールド（「取引先責任者」レイアウト）  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## 連絡先レイアウ [!DNL Marketo Sales Insight] でのカスタムフィールドの作成  {#marketo-sales-insight-custom-fields-in-contact-layout}
 
 * リードのスコア
 * 相対スコア
 * 優先度
 * 緊急度
 
-## Marketo Sales Insight のコールトゥアクションボタン（「取引先責任者」レイアウト）  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## 連絡先レイアウトの「call to action」ボタンを [!DNL Marketo Sales Insight] きます。  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * Marketo キャンペーンに追加
 * Marketo メールの送信
 
-## Marketo Sales Insight の一括アクションボタン（「取引先責任者」リスト表示）  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## 連絡先リスト表示の [!DNL Marketo Sales Insight] 一括アクションボタン  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * Marketo キャンペーンに追加
 * Marketo メールの送信
 
-## Marketo Sales Insight パネル（「アカウント」レイアウト） {#marketo-sales-insight-panel-in-account-layout}
+## アカウントレイアウトの [!DNL Marketo Sales Insight] パネル {#marketo-sales-insight-panel-in-account-layout}
 
 * 星と炎
 * 注目のアクション

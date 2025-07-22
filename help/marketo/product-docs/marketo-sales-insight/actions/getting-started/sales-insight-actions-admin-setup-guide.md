@@ -3,10 +3,10 @@ description: Sales Insight Actions 管理者設定ガイド - Marketo ドキュ�
 title: Sales Insight Actions 管理者設定ガイド
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
-workflow-type: ht
-source-wordcount: '655'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '646'
+ht-degree: 78%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* MSI Actions が Marketo Engage アカウントで有効になっていることをアドビアカウントチーム（担当のアカウントマネージャー）に確認します（アカウントマネージャーがいない場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください）。
+>* Marketo Engage アカウントに対して MSI アクションが有効になっていることを、Adobe アカウントチーム（アカウントマネージャー）に確認します（アカウントマネージャーがない場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください）。
 >* Marketo と Salesforce の同期を設定する必要があります。
 
 <table>
@@ -31,8 +31,8 @@ ht-degree: 100%
   <td>Marketo Sales アカウントの設定</td>
  </tr>
  <tr>
-  <td>Marketo 管理者または <br/>Salesforce 管理者</td>
-  <td>Marketo Sales アカウントの Salesforce への接続</td>
+  <td>Marketo管理者または <br/>[!DNL Salesforce] 管理者</td>
+  <td>Marketo Sales アカウントの接続先 [!DNL Salesforce]</td>
  </tr>
  <tr>
   <td>Marketo 管理者</td>
@@ -47,18 +47,18 @@ ht-degree: 100%
   <td>ユーザーを MSI-Actions に招待する</td>
  </tr>
  <tr>
-  <td>Salesforce 管理者</td>
-  <td>Salesforce での MSI パッケージのインストール／アップグレード</td>
+  <td>[!DNL Salesforce] 管理</td>
+  <td>での MSI パッケージのインストールまたはアップグレード [!DNL Salesforce]</td>
  </tr>
  <tr>
-  <td>Salesforce 管理者</td>
-  <td>Salesforce での MSI Actions の設定</td>
+  <td>[!DNL Salesforce] 管理</td>
+  <td>での MSI アクションの設定 [!DNL Salesforce]</td>
  </tr>
 </table>
 
 ## Marketo Sales アカウントの設定 {#set-up-marketo-sales-account}
 
-1. Marketo で、「**管理者**」をクリックします。
+1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-1.png)
 
@@ -76,21 +76,21 @@ ht-degree: 100%
 >
 >追加のユーザーは、Marketo からは追加されず、代わりに Sales アカウントのユーザー管理ページから追加されます。ユーザーの追加について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"}してください。
 
-## Marketo Sales アカウントの Salesforce への接続 {#connect-marketo-sales-account-to-salesforce}
+## Marketo営業アカウントの [!DNL Salesforce] への接続 {#connect-marketo-sales-account-to-salesforce}
 
-1. Marketo Sales アカウントで、歯車アイコンをクリックし、「**設定**」を選択します。
+1. Marketo Sales アカウントで、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-3.png)
 
-1. 管理設定で、**Salesforce** をクリックします。
+1. [!UICONTROL  管理者設定 ] で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/msi-actions-admin-guide-4.png)
 
-1. 「接続とカスタマイズ」タブで、「**接続**」をクリックします。
+1. [[!UICONTROL  接続とカスタマイズ ]] タブで、[**[!UICONTROL 接続]**] をクリックします。
 
    ![](assets/msi-actions-admin-guide-5.png)
 
-1. 「**OK**」をクリックします。
+1. 「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-6.png)
 
@@ -98,15 +98,15 @@ ht-degree: 100%
 
 ## Marketo をセールスアプリアカウントに接続 {#connect-marketo-to-your-sales-apps-account}
 
-1. Marketo Sales アカウントで、歯車アイコンをクリックし、「**設定**」を選択します。
+1. Marketo Sales アカウントで、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-7.png)
 
-1. 「管理者設定」で、「**Marketo**」をクリックします。
+1. [!UICONTROL  管理者設定 ] で、**Marketo** をクリックします。
 
    ![](assets/msi-actions-admin-guide-8.png)
 
-1. 「**接続**」をクリックします。アカウントが接続されます。
+1. 「**[!UICONTROL 接続]**」をクリックします。アカウントが接続されます。
 
    ![](assets/msi-actions-admin-guide-9.png)
 
@@ -116,29 +116,29 @@ ht-degree: 100%
 
 ## データ同期の開始 {#initiate-data-sync}
 
-Sales Insight Actions のデータ統合フィールドの同期により、Marketo Engage データベースから Sales Insight Actions データベースに個人情報を取り込み、個人データを最新の状態に保ち、Marketo と Salesforce で適切なレコードにアクティビティを記録できます。
+Sales Insight Actions のデータ統合フィールド同期により、Insight データベースからMarketo Engage Actions データベースにユーザー情報を取り込み、ユーザーのデータを最新の状態に保ち、Marketoと [!DNL Salesforce] 全体で適切なレコードにアクティビティを確実に記録することができます。
 
 >[!CAUTION]
 >
 >データ同期を開始したら、Sales Insight Actions インスタンスから元のユーザーを&#x200B;**削除しない**&#x200B;ようにします。これは、最初の招待が送信されたユーザーです。
 
-1. Marketo で、「**管理者**」をクリックします。
+1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. 「**Sales Insight**」をクリックします。
+1. 「**[!UICONTROL Sales Insight]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. 「**Actions 設定**」タブをクリックします。「アクションフィールドを同期」カードで、「**同期**」をクリックします。
+1. 「**[!UICONTROL Actions 設定]**」タブをクリックします。「アクションフィールドを同期」カードで、「**[!UICONTROL 同期]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-12.png)
 
-1. 同期されるフィールドのプレビューが表示されます。「**同期の開始**」をクリックします。
+1. 同期されるフィールドのプレビューが表示されます。「**[!UICONTROL 同期の開始]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-13.png)
 
-Marketo と Salesforce に存在する人物レコードが、Marketo Sales アプリアカウントと同期されます。
+Marketoと [!DNL Salesforce] に存在する人物レコードは、Marketo Sales Apps アカウントに同期されます。
 
 >[!NOTE]
 >
@@ -146,19 +146,19 @@ Marketo と Salesforce に存在する人物レコードが、Marketo Sales ア�
 
 ## 個々のユーザーを MSI Actions に招待する {#invite-individual-users-to-msi-actions}
 
-1. Marketo Sales アカウントで、歯車アイコンをクリックし、「**設定**」を選択します。
+1. Marketo Sales アカウントで、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. 「管理者設定」で、「**ユーザー管理**」を選択します。
+1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL User Management]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-15.png)
 
-1. 「**Actions**」をクリックし、「**ユーザーを招待する**」を選択します。
+1. 「**[!UICONTROL Actions]**」をクリックし、「**[!UICONTROL ユーザーを招待する]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-16.png)
 
-1. メールアドレスを入力し、「**招待する**」をクリックします。
+1. メールアドレスを入力し、「**[!UICONTROL 招待する]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-17.png)
 
@@ -170,23 +170,23 @@ Marketo と Salesforce に存在する人物レコードが、Marketo Sales ア�
 
 ## CSV 経由で MSI Actions にユーザーを招待する {#invite-users-via-csv-to-msi-actions}
 
-1. Marketo Sales アカウントで、歯車アイコンをクリックし、「**設定**」を選択します。
+1. Marketo Sales アカウントで、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. 「管理者設定」で、「**ユーザー管理**」を選択します。
+1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL User Management]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-19.png)
 
-1. 「**Actions**」をクリックし、「**CSV 経由でユーザーを招待する**」を選択します。
+1. 「**[!UICONTROL Actions]**」をクリックし、「**[!UICONTROL CSV 経由でユーザーを招待する]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-20.png)
 
-1. PC 上の CSV ファイルを参照して選択し、「**次へ**」をクリックします。
+1. PC 上の CSV ファイルを参照して選択し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-21.png)
 
-1. フィールドが正しくマッピングされていることを確認し、「**次へ**」をクリックします。
+1. フィールドが正しくマッピングされていることを確認し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-22.png)
 

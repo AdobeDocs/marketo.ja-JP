@@ -4,16 +4,16 @@ description: キャンペーンは終了しました - Marketo ドキュメン�
 title: キャンペーンは終了しました
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '75'
-ht-degree: 100%
+ht-degree: 44%
 
 ---
 
 # キャンペーンは終了しました {#campaign-has-ended}
 
-配信失敗フォルダーに「キャンペーンは終了しました」というメールがある場合、そのメールはキャンペーンでスケジュールされたメールだったことを意味します。
+[!UICONTROL  配信失敗 ] フォルダーに「キャンペーンは終了しました」というメールが表示される場合、この特定のメールがキャンペーンでスケジュールされたメールであることを意味します。
 
 ## 考えられる失敗した理由 {#possible-reasons-it-failed}
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 * 担当者が返信してキャンペーンを終了した
 * キャンペーンが手動で終了された
 
-これらのメールを配信失敗フォルダーから削除することで、混乱を軽減したいと考えています。
+低優先メールを減らすために、これらのメールを [!UICONTROL  配信失敗 ] フォルダーから削除することを目指しています。

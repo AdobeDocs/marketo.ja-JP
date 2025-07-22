@@ -4,10 +4,10 @@ description: Marketo カスタムオブジェクトの作成 - Marketo ドキュ
 title: Marketo カスタムオブジェクトの作成
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '698'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 100%
 
    ![](assets/create-marketo-custom-objects-5.png)
 
-1. カスタムオブジェクト情報には、入力した内容が表示されます。ステートが下書きであることに注意してください。
+1. カスタムオブジェクト情報には、入力した内容が表示されます。状態が **[!UICONTROL ドラフト]** であることに注意してください。
 
    ![](assets/create-marketo-custom-objects-6.png)
 
@@ -97,7 +97,7 @@ ht-degree: 100%
 
    ![](assets/create-marketo-custom-objects-11.png)
 
-1. カスタムオブジェクト情報には、入力した内容が表示されます。ステートが下書きであることに注意してください。
+1. カスタムオブジェクト情報には、入力した内容が表示されます。状態が **[!UICONTROL ドラフト]** であることに注意してください。
 
    ![](assets/create-marketo-custom-objects-12.png)
 
@@ -139,7 +139,7 @@ ht-degree: 100%
 
    ![](assets/create-marketo-custom-objects-17.png)
 
-1. カスタムオブジェクト情報には、入力した内容が表示されます。ステートが下書きであることに注意してください。
+1. カスタムオブジェクト情報には、入力した内容が表示されます。状態が **[!UICONTROL ドラフト]** であることに注意してください。
 
    次の手順は、[リンクフィールドを追加](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)して、中間オブジェクトを人物／会社とカスタムオブジェクトに接続します。
 

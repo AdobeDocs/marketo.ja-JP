@@ -2,24 +2,24 @@
 description: セールスアクティビティ属性の Salesforce へのログ - Marketo ドキュメント - 製品ドキュメント
 title: セールスアクティビティ属性の Salesforce へのログ
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 93%
+source-wordcount: '304'
+ht-degree: 62%
 
 ---
 
-# セールスアクティビティ属性の Salesforce へのログ {#logging-sales-activity-attributes-to-salesforce}
+# 販売アクティビティ属性の [!DNL Salesforce] へのロギング {#logging-sales-activity-attributes-to-salesforce}
 
-Salesforce 管理者は、カスタムアクティビティフィールドを Salesforce に手動で追加できます。
+Salesforce管理者は、カスタムアクティビティフィールドを [!DNL Salesforce] に手動で追加できます。
 
-1. Salesforce アカウントで、「**設定**」をクリックします。
+1. [!DNL Salesforce] アカウントで、「設定 **[!UICONTROL をクリック]** します。
 
 1. クイック検索フィールドで「アクティビティのカスタムフィールド」を検索し、クリックします。
 
-1. 「**新規**」をクリックします。
+1. 「**[!UICONTROL 新規]**」をクリックします。
 
-1. 以下のテーブルに基づいて、追加するフィールドに対応するデータタイプを選択し、「**次へ**」をクリックします。
+1. 以下のテーブルに基づいて、追加するフィールドに対応するデータタイプを選択し、「**[!UICONTROL 次へ]**」をクリックします。
 
 1. 追加するフィールドに対応するフィールド名とラベルを入力します。
 
@@ -40,105 +40,105 @@ Salesforce 管理者は、カスタムアクティビティフィールドを Sa
   <th>サイズ</th>
  </tr>
   <tr>
-  <td>通話結果</td>
+  <td>[!UICONTROL 呼び出しの結果 ]</td>
   <td>mktosales_call_outcome</td>
   <td>mktosales_call_outcome__c</td>
   <td>テキスト</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>通話理由</td>
+  <td>[!UICONTROL 呼び出しの理由 ]</td>
   <td>mktosales_call_reason</td>
   <td>mktosales_call_reason__c</td>
   <td>テキスト</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>Marketo セールス電話ローカルプレゼンス ID</td>
+  <td>[!UICONTROL Marketo Sales Call Local Presence ID]</td>
   <td>MSE_Call_Local_Presence_ID</td>
   <td>MSE_Call_Local_Presence_ID__c</td>
   <td>テキスト</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo セールス電話録音 URL</td>
+  <td>[!UICONTROL Marketo セールス コール録画 URL]</td>
   <td>MSE_Call_Recording</td>
   <td>MSE_Call_Recording__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo セールスキャンペーン</td>
+  <td>[!UICONTROL Marketoセールス・キャンペーン ]</td>
   <td>MSE_Campaign</td>
   <td>MSE_Campaign__c</td>
   <td>テキスト</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo セールスキャンペーンの最新ステップ</td>
+  <td>[!UICONTROL Marketo Sales Campaign の現在の手順 ]</td>
   <td>MSE_Current_Campaign_Step</td>
   <td>MSE_Current_Campaign_Step__c</td>
   <td>テキスト</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo セールスキャンペーン URL</td>
+  <td>[!UICONTROL Marketo販売キャンペーン URL]</td>
   <td>MSE_Campaign_Details_Link</td>
   <td>MSE_Campaign_Details_Link__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>閲覧済みの Marketo セールスメール添付ファイル</td>
+  <td>[!UICONTROL Marketo営業向けメール添付ファイルを表示 ]</td>
   <td>MSE_Presentation_Viewed</td>
   <td>MSE_Presentation_Viewed__c</td>
   <td>チェックボックス</td>
   <td></td>
  </tr>
  <tr>
-  <td>クリック済みの Marketo セールスメール</td>
+  <td>[!UICONTROL Marketo Sales Email Clicked]</td>
   <td>MSE_Clicked</td>
   <td>MSE_Clicked__c</td>
   <td>チェックボックス</td>
   <td></td>
  </tr>
  <tr>
-  <td>返信済みの Marketo セールスメール</td>
+  <td>[!UICONTROL Marketo営業メール返信 ]</td>
   <td>MSE_Replied</td>
   <td>MSE_Replied__c</td>
   <td>チェックボックス</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo セールスメールステータス</td>
+  <td>[!UICONTROL Marketo営業電子メールのステータス ]</td>
   <td>MSE_Email_Status</td>
   <td>MSE_Email_Status__c</td>
   <td>テキスト</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo セールスメールテンプレート</td>
+  <td>[!UICONTROL Marketo営業メールテンプレート ]</td>
   <td>MSE_Template</td>
   <td>MSE_Template__c</td>
   <td>テキスト</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>Marketo セールスメールテンプレート URL</td>
+  <td>[!UICONTROL Marketo営業メールテンプレート URL]</td>
   <td>MSE_Template_Details</td>
   <td>MSE_Template_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>Marketo セールスメール URL</td>
+  <td>[!UICONTROL Marketo営業メール URL]</td>
   <td>MSE_Details</td>
   <td>MSE_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>閲覧済みの Marketo セールスメール</td>
+  <td>[!UICONTROL Marketoの営業メールが表示されました ]</td>
   <td>MSE_Viewed</td>
   <td>MSE_Viewed__c</td>
   <td>チェックボックス</td>

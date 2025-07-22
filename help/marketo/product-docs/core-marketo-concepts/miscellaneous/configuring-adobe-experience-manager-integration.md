@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -39,7 +39,7 @@ Adobe Experience Manager（AEM）を設定し、AEM のアセットにアクセ�
 
    ![](assets/2a.png)
 
-1. ブラウザーで、「Adobe Granite Cross-Origin Resource Sharing Policy」を検索します（Windows では Ctrl + F キー、Mac では Cmd + F キー）。
+1. ブラウザーで、「[!UICONTROL Adobe Granite クロスオリジンリソース共有ポリシー ]」を検索します（Windows の場合は ctrl+f、Macの場合は cmd+f）。
 
    ![](assets/three.png)
 

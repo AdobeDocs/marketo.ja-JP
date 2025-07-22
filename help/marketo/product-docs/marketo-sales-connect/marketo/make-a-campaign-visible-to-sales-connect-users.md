@@ -4,14 +4,14 @@ description: Sales Connect ユーザにキャンペーンを表示 - Marketo ド
 title: Sales Connect ユーザにキャンペーンを表示
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: b037057cb37c830760a5d5bc24591f85ad306ae8
-workflow-type: ht
-source-wordcount: '115'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '113'
+ht-degree: 84%
 
 ---
 
-# Sales Connect ユーザーにキャンペーンを表示 {#make-a-campaign-visible-to-sales-connect-users}
+# キャンペーンを [!DNL Sales Connect] ユーザーに表示 {#make-a-campaign-visible-to-sales-connect-users}
 
 キャンペーンは、表示されている場合にのみ共有できます。その方法を説明しましょう。
 
@@ -19,34 +19,34 @@ ht-degree: 100%
 
    ![](assets/make-a-marketing-campaign-visible-msc-1.png)
 
-1. 「**スマートリスト**」タブをクリックします。
+1. 「**[!UICONTROL スマートリスト]**」タブをクリックします。
 
    ![](assets/make-a-marketing-campaign-visible-msc-2.png)
 
-1. 「キャンペーンをリクエスト」トリガーに追加します。
+1. 「[!UICONTROL キャンペーンをリクエスト]」トリガーに追加します。
 
    ![](assets/make-a-marketing-campaign-visible-msc-3.png)
 
-1. ソースには、「is」「**Web サービス API**」を選択します。
+1. ソースの場合は、「[!UICONTROL is]」 **[!UICONTROL Web サービス API]** を選択します。
 
    ![](assets/make-a-marketing-campaign-visible-msc-4.png)
 
-1. 「**フロー**」タブをクリックします。
+1. 「**[!UICONTROL フロー]**」タブをクリックします。
 
    ![](assets/make-a-marketing-campaign-visible-msc-5.png)
 
-1. 注目のアクションフローアクションを追加します。
+1. [!UICONTROL 注目のアクション]フローアクションを追加します。
 
    ![](assets/make-a-marketing-campaign-visible-msc-6.png)
 
-1. タイプには、「**Web**」を選択します。
+1. 「[!UICONTROL  タイプ ]」には、「**[!UICONTROL Web]**」を選択します。
 
    ![](assets/make-a-marketing-campaign-visible-msc-7.png)
 
-1. 説明ボックスに、セールスチームにメッセージを書き込みます。この例では、トークンを使用して、入力されたフォームを指定します。
+1. [!UICONTROL 説明]ボックスに、セールスチームにメッセージを書き込みます。この例では、トークンを使用して、入力されたフォームを指定します。
 
    ![](assets/make-a-marketing-campaign-visible-msc-8.png)
 
-1. 「**スケジュール**」タブをクリックし、キャンペーンを&#x200B;**アクティベート**&#x200B;します。
+1. 「**[!UICONTROL スケジュール]**」タブをクリックし、キャンペーンを&#x200B;**[!UICONTROL アクティベート]**&#x200B;します。
 
    ![](assets/make-a-marketing-campaign-visible-msc-9.png)

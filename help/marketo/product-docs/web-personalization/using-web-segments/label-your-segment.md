@@ -4,10 +4,10 @@ description: セグメントのラベル付け - Marketo ドキュメント - �
 title: セグメントのラベル付け
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 100%
+source-wordcount: '122'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## セグメントのタグ付け {#tag-a-segment}
 
-1. ウェブパーソナライズにログインし、**セグメント**&#x200B;に移動します。
+1. [!DNL Web Personalization] にログインし、**[!UICONTROL セグメント]** に移動します。
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +25,11 @@ ht-degree: 100%
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. 既存のラベルを使用するには、「**ラベルを設定**」をクリックし、チェックボックスをオンにして、「**適用**」をクリックします。
+1. 既存のラベルを使用するには、「**[!UICONTROL ラベルを設定]**」をクリックし、チェックボックスをオンにして、「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. または、新しいラベルを作成するには、「**ラベルを設定**」をクリックして、新しいラベル名を入力し、「**新規作成**」をクリックします。
+1. または、新しいラベルを作成するには、「**[!UICONTROL ラベルを設定]**」をクリックして、新しいラベル名を入力し、「**新規作成**」をクリックします。
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

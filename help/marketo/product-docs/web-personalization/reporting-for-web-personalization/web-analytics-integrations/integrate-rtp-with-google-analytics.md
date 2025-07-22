@@ -4,10 +4,10 @@ description: RTP を Google Analytics に連携する — Marketo ドキュメ�
 title: RTP を Google Analytics に連携する
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '581'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -66,11 +66,11 @@ RTP キャンペーンを測定し、サイト全体の平均値と関連付け�
 
 1. GA アカウントにメール rtp.ga2@gmail.com を読み取りおよび分析ユーザーとして追加します。詳細は[こちら](https://support.google.com/analytics/answer/2884495?hl=ja)をご覧ください。
 
-1. RTP アカウント内で次の手順を実行します。「**アカウント設定**」に移動します。
+1. RTP アカウント内で次の手順を実行します。「**[!UICONTROL アカウント設定]**」に移動します。
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. 「**アカウント設定**」、「**ドメイン**」、「**Analytics**」で、
+1. 「**[!UICONTROL アカウント設定]**」、「**[!UICONTROL ドメイン]**」、「**[!UICONTROL Analytics]**」で、
 
 1. 「**Google Analytics**」をクリックします。
 
@@ -80,11 +80,11 @@ RTP キャンペーンを測定し、サイト全体の平均値と関連付け�
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
 >[!NOTE]
 >
->セグメントデータを GA に送信するには、RTP プラットフォームの[セグメント編集ページ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)で、「**セグメント一致で Google Analytics にイベントを送信する**」チェックボックスをオンにします。
+>セグメントデータを GA に送信するには、[[!UICONTROL  セグメントを編集 ] ページ ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) の RTP プラットフォームで、「**[!UICONTROL Segment Match でGoogle Analyticsにイベントを送信]**」チェックボックスをオンにします。
 
 ## Google Analytics レポートと RTP データの設定 {#setting-up-google-analytics-reports-with-rtp-data}
 
@@ -92,4 +92,4 @@ Google Analytics では、ダッシュボード、GA セグメント化および
 
 * [ダッシュボード](https://support.google.com/analytics/answer/1068216?hl=ja)では、Web サイトのパフォーマンスの概要を示します。
 * GA セグメントは、GA インターフェイス内の訪問者をフィルターし、セグメントごとのトラフィックを表示することを目的としています。セグメントの作成方法については、[こちら](https://support.google.com/analytics/answer/3124493?hl=ja)を参照してください。
-* [カスタマイズされたレポート](https://support.google.com/analytics/answer/1033013?hl=ja)を作成してスケジュールされたメールを表示／設定する「カスタマイズ／新しいカスタムレポート」の下を確認します。
+* [カスタマイズされたレポート](https://support.google.com/analytics/answer/1033013?hl=ja)を作成してスケジュールされたメールを表示／設定する&#x200B;**[!UICONTROL カスタマイズ]**/**[!UICONTROL 新しいカスタムレポート]** を参照してください。

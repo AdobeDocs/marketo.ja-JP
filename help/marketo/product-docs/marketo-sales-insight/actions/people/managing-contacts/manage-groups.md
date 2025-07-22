@@ -3,16 +3,16 @@ description: グループの管理 - Marketo ドキュメント - 製品ドキ�
 title: グループの管理
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
-workflow-type: ht
-source-wordcount: '343'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '344'
+ht-degree: 76%
 
 ---
 
 # グループの管理 {#manage-groups}
 
-Sales Insight Actions でグループを管理する方法を説明します。
+[!DNL Sales Insight Actions] でグループを管理する方法を説明します。
 
 ## グループタイプ {#group-types}
 
@@ -27,19 +27,19 @@ Sales Insight Actions でグループを管理する方法を説明します。
    <th>説明</th> 
   </tr> 
   <tr> 
-   <td>すべてのリード</td> 
+   <td>[!UICONTROL すべてのユーザー ]</td> 
    <td>表示可能なすべてのユーザのすべての取引先責任者。</td> 
   </tr> 
   <tr> 
-   <td>動的グループ</td> 
+   <td>[!UICONTROL 動的グループ ]</td> 
    <td>取引先責任者：所有しているすべての取引先責任者。<br>配信停止：通信の受信をオプトアウトした取引先責任者。</td> 
   </tr> 
   <tr> 
-   <td>マイグループ</td> 
+   <td>[!UICONTROL マイ グループ ]</td> 
    <td>作成したグループ。自分の取引先責任者や、自分と共有されている取引先責任者を含めることができます。</td> 
   </tr> 
   <tr> 
-   <td>チームグループ</td> 
+   <td>[!UICONTROL チーム グループ ]</td> 
    <td>自分と共有されているグループ、または自分が共有しているグループ。チームメイトが所有している取引先責任者や、共有した取引先責任者を含めることができます。</td> 
   </tr> 
  </tbody> 
@@ -47,11 +47,11 @@ Sales Insight Actions でグループを管理する方法を説明します。
 
 ## グループの作成 {#create-a-group}
 
-1. 人物ページで、グループの横の「**+**」アイコンをクリックします。
+1. [!UICONTROL  人物 ] ページで、「**グループ** の横の [!UICONTROL +] をクリックします。
 
    ![](assets/manage-groups-1.png)
 
-1. グループに名前を付け、「**作成**」をクリックします。
+1. グループに名前を付け、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/manage-groups-2.png)
 
@@ -59,11 +59,11 @@ Sales Insight Actions でグループを管理する方法を説明します。
 
 ## グループに取引先責任者を追加 {#add-contacts-to-a-group}
 
-1. 人物ページで、人物を追加するグループを探して選択します。
+1. [!UICONTROL  ユーザー ] ページで、ユーザーを追加するグループを見つけて選択します。
 
    ![](assets/manage-groups-3.png)
 
-1. 「**グループアクション**」を選択し、「**取引先責任者を作成してグループに追加**」を選択します。
+1. 「**[!UICONTROL グループアクション]**」を選択し、「**[!UICONTROL 取引先責任者を作成してグループに追加]**」を選択します。
 
    ![](assets/manage-groups-4.png)
 
@@ -79,15 +79,15 @@ Sales Insight Actions でグループを管理する方法を説明します。
 
 ## グループの共有 {#share-a-group}
 
-1. 人物ページで、共有するグループを見つけて選択します。
+1. [!UICONTROL  ユーザー ] ページで、共有するグループを見つけて選択します。
 
    ![](assets/manage-groups-6.png)
 
-1. 縦並びの 3 つのドットをクリックし、「**共有**」を選択します。
+1. 縦並びの 3 つのドットをクリックし、「**[!UICONTROL 共有]**」を選択します。
 
    ![](assets/manage-groups-7.png)
 
-1. ドロップダウンをクリックし、グループを共有するチームを選択して、「**共有**」をクリックします。
+1. ドロップダウンをクリックし、グループを共有するチームを選択して、「**[!UICONTROL 共有]**」をクリックします。
 
    ![](assets/manage-groups-8.png)
 
@@ -95,11 +95,11 @@ Sales Insight Actions でグループを管理する方法を説明します。
 
 ## グループの共有解除 {#unshare-a-group}
 
-1. 人物ページで、共有を解除するグループを見つけて選択します。
+1. [!UICONTROL  ユーザー ] ページで、共有を解除するグループを見つけて選択します。
 
    ![](assets/manage-groups-9.png)
 
-1. 縦並びの 3 つのドットをクリックし、「**共有**」を選択します。
+1. 縦並びの 3 つのドットをクリックし、「**[!UICONTROL 共有]**」を選択します。
 
    ![](assets/manage-groups-10.png)
 
@@ -111,15 +111,15 @@ Sales Insight Actions でグループを管理する方法を説明します。
 
 ## グループ名の変更 {#rename-a-group}
 
-1. 人物ページで、名前を変更するグループを見つけて選択します。
+1. [!UICONTROL  ユーザー ] ページで、名前を変更するグループを見つけて選択します。
 
    ![](assets/manage-groups-12.png)
 
-1. 縦並びの 3 つのドットをクリックし、「**編集**」を選択します。
+1. 縦並びの 3 つのドットをクリックし、「**[!UICONTROL 編集]**」を選択します。
 
    ![](assets/manage-groups-13.png)
 
-1. 新しい名前を入力し、「**保存**」をクリックします。
+1. 新しい名前を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/manage-groups-14.png)
 
@@ -129,10 +129,10 @@ Sales Insight Actions でグループを管理する方法を説明します。
 
    ![](assets/manage-groups-15.png)
 
-1. 縦並びの 3 つのドットをクリックし、「**削除**」を選択します。
+1. 縦並びの 3 つのドットをクリックし、「**[!UICONTROL 削除]**」を選択します。
 
    ![](assets/manage-groups-16.png)
 
-1. 「**削除**」をクリックして確定します。
+1. 「**[!UICONTROL 削除]**」をクリックして確定します。
 
    ![](assets/manage-groups-17.png)

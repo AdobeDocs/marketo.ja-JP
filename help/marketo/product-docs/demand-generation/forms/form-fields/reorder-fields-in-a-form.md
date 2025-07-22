@@ -4,7 +4,7 @@ description: フォーム内のフィールドの並べ替え - Marketo ドキ�
 title: フォーム内のフィールドの並べ替え
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 Marketo フォーム上のフィールドの並べ替えは簡単です。手順は次のとおりです。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. フォームを選択して、「**フォームの編集**」をクリックします。
+1. フォームを選択して、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/editform.png)
 

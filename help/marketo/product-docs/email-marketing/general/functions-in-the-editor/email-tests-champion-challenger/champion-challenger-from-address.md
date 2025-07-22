@@ -4,7 +4,7 @@ description: チャンピオン／挑戦者：送信者アドレス - Marketo �
 title: チャンピオン／挑戦者：送信者アドレス
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 100%
@@ -19,13 +19,13 @@ ht-degree: 100%
 >
 >[メールチャンピオン／挑戦者の追加](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. メールテストエディターの&#x200B;**テストタイプ**&#x200B;ドロップダウンで「**送信者アドレス**」を選択します。
+1. メールテストエディターの&#x200B;**[!UICONTROL テストタイプ]**&#x200B;ドロップダウンで「**[!UICONTROL 送信者アドレス]**」を選択します。
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >最初の送信者アドレスが&#x200B;**チャンピオン**&#x200B;になります。後続のアドレスは、**挑戦者**&#x200B;と呼ばれます。
+   >最初の送信者アドレスが&#x200B;**[!UICONTROL チャンピオン]**&#x200B;になります。後続のアドレスは、**[!UICONTROL 挑戦者]**&#x200B;と呼ばれます。
 
 1. 挑戦者の&#x200B;**送信者名**（左）および&#x200B;**送信者アドレス**（右）を入力します。
 
@@ -47,7 +47,7 @@ ht-degree: 100%
 
    統計的な信頼性を得るには、テストが有効であると見なされるように十分な人数を含む割合を選択してください。決定的でない結果に惑わされないようにします。
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

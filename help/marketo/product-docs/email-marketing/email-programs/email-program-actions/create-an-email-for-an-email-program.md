@@ -4,7 +4,7 @@ description: メールプログラム向けメールの作成 - Marketo ドキ�
 title: メールプログラム向けメールの作成
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 100%
@@ -20,15 +20,15 @@ ht-degree: 100%
 
 メールプログラムを作成し、オーディエンスを定義したら、送信するメールを決定できます。[既存のメールを選択](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)またはゼロから作成します。メールを新規作成する方法を次に示します。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/one.png)
 
-1. メールプログラムを選択します。**メール**&#x200B;タイルの下で、「**新規メール**」をクリックします。
+1. メールプログラムを選択します。**[!UICONTROL メール]**&#x200B;タイルの下で、「**[!UICONTROL 新規メール]**」をクリックします。
 
    ![](assets/newemaildashboard.png)
 
-1. **名前**&#x200B;を入力します。望まれるテンプレートを選択し、「**作成**」をクリックします。
+1. **[!UICONTROL 名前]**&#x200B;を入力します。望まれるテンプレートを選択し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/three.png)
 

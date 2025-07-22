@@ -4,10 +4,10 @@ description: MSI パッケージのアップグレード - Marketo ドキュメ�
 title: MSI パッケージのアップグレード
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: ddc9242bdf1b3ec34bb2672821b6b054647d94b5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 63%
+source-wordcount: '260'
+ht-degree: 51%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 63%
 
 >[!IMPORTANT]
 >
->Salesforce によってセキュリティが強化されたため、Sales Insight パッケージは標準オブジェクトに権限を付与できなくなりました。 今後、Sales Insight ユーザーの Salesforce プロファイルには、リード、連絡先、アカウント、商談などの標準オブジェクトへの読み取りアクセス権が必要になります。 [ 設定方法については、こちらを参照してください ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}。
+>Salesforceによってセキュリティが強化されたので、Insightのセールス・パッケージは標準オブジェクトに対する権限を付与できなくなりました。 今後、Sales Insight ユーザーのSalesforce プロファイルは、リード、連絡先、アカウント、オポチュニティなどの標準オブジェクトに対する読み取りアクセス権を持つ必要があります。 [ 設定方法については、こちらを参照してください ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}。
 
-1. [appexchange のこのページ ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"} に移動します。
+1. [appexchange のこのページ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}に移動します。
 
-1. 手順 1 のページの右上隅にある Salesforce インスタンス（Marketo インスタンスに接続されているものは、サンドボックスまたは実稼動）にログインします。Salesforce で管理パッケージをインストール／アップグレードするには、管理者権限が必要です。
+1. 手順 1 のページの右上隅から [!DNL Salesforce] インスタンス（Marketo インスタンスに接続されたもの。サンドボックスにすることも、実稼動にすることもできます）にログインします。 [!DNL Salesforce] にマネージ パッケージをインストールまたはアップグレードするには、管理者権限が必要です。
 
 1. 「**すぐに入手**」ボタンをクリックします。インストールする場所を選択するように求められます。 以前のバージョンの MSI が既に存在するので、アップグレードするオプションが与えられます。手順 1 でログインしたアカウントに基づいて、オプションを選択します。
 

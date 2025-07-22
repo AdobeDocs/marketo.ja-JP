@@ -1,28 +1,28 @@
 ---
-description: Salesforce からの自動ログイン - Marketo ドキュメント – 製品ドキュメント
-title: Salesforce からの自動ログイン
+description: Salesforceからの自動ログイン - Marketo ドキュメント – 製品ドキュメント
+title: Salesforceからの自動ログイン
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Salesforce からの自動ログイン {#auto-login-from-salesforce}
+# [!DNL Salesforce] からの自動ログイン {#auto-login-from-salesforce}
 
-自動ログインを使用すると、Sales Insight Actions ユーザーは、Salesforce から作業する際に Sales Insight Actions に対して自動的に認証を行うことができます。
+自動ログインを使用すると、[!DNL Sales Insight Actions] ユーザーは、[!DNL Sales Insight Actions] から作業する際に [!DNL Salesforce] に対して自動的に認証できます。
 
 自動ログインを使用するには：
 
-* [ ログイン管理設定 ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) は&quot;Salesforce のみ&quot;に設定する必要があります
+* [Login Management settings](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) は&quot;[!UICONTROL Salesforceのみ&quot;に設定する必要があり ] す。
 
-* Sales Insight Actions を使用するには、ユーザーが招待されている必要があります
+* ユーザーは、[!DNL Sales Insight Actions] の使用を招待されている必要があります
 
-* Salesforce アカウントを Sales Insight Actions インスタンスに接続し、アカウントをアクティブ化している必要があります。
+* ユーザーは、[!DNL Salesforce] アカウントを [!DNL Sales Insight Actions] インスタンスに接続することで、アカウントを有効にする必要があります
 
-* ユーザーの Sales Insight Actions ユーザー名は、Salesforce ユーザー名（または Salesforce ユーザー名とメールが一致）と一致する必要があります
+* ユーザーの [!DNL Sales Insight Actions] ユーザー名は、[!DNL Salesforce] ユーザー名と一致する必要があります（または、[!DNL Salesforce] ユーザー名とメールが一致する）
 
 >[!MORELIKETHIS]
 >

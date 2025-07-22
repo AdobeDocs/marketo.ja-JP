@@ -4,47 +4,47 @@ description: Sales Connect と Highspot の統合について- Marketo ドキュ
 title: Sales Connect と Highspot の統合について
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 100%
+source-wordcount: '187'
+ht-degree: 23%
 
 ---
 
-# Sales Connect と Highspot の統合について {#what-is-the-sales-connect-and-highspot-integration}
+# [!DNL Sales Connect] と [!DNL Highspot] の統合とは {#what-is-the-sales-connect-and-highspot-integration}
 
-Sales Connect は、コンテンツ管理システムである [Highspot](https://www.highspot.com/) との統合をサポートしています。Highspot の顧客でもある Sales Connect の顧客は、Web アプリケーション内から Highspot のコンテンツにアクセスできます。
+[!DNL Sales Connect] は、コンテンツ管理システムである [Highspot](https://www.highspot.com/) との統合をサポートしています。 [!DNL Sales Connect] 顧客も [!DNL Highspot] の顧客は、web アプリケーション内から [!DNL Highspot] コンテンツにアクセスできます。
 
 ## 要件 {#requirements}
 
-Highspot と Sales Connect の統合を使用するには、次が必要です。
+[!DNL Sales Connect] と [!DNL Highspot] 統合を使用するには、以下が必要です。
 
-* **ブラウザー - Chrome および Safari、Edge、IE、Firefox のいずれかの最新バージョン**
+* **ブラウザー – [!DNL Chrome] および [!DNL Safari]、[!DNL Edge]、IE または Firefox の最新バージョン**
 
-ブラウザーで Sales Connect を使用する以外に、Highspot 統合は Outlook .Net メールクライアントで使用可能です。要件は次のとおりです。
+ブラウザーでの [!DNL Sales Connect] の操作に加えて、[!DNL Highspot] の統合は [!DNL Outlook .Net] メールクライアントでも利用できます。 要件は次のとおりです。
 
-* **Outlook .Net &amp; Exchange**  - Sales Connect でサポートされている Outlook .Net、Exchange Online、Exchange 2016 のバージョン
+* **[!DNL Outlook .Net]&amp;[!DNL Exchange]** - [!DNL Sales Connect]、[!DNL Outlook .Net]、[!DNL Exchange Online] の [!DNL Exchange 2016] サポートされているバージョン
 
 >[!NOTE]
 >
->Sales Connect Gmail 拡張機能は、現在、Highspot 統合をサポートしていません
+>[!DNL Sales Connect] Gmail 拡張機能は、現在、[!DNL Highspot] の統合をサポートしていません
 
-## Sales Connect と Highspot の統合の有効化 {#enabling-the-sales-connect-and-highspot-integration}
+## [!DNL Sales Connect] と [!DNL Highspot] の統合の有効化 {#enabling-the-sales-connect-and-highspot-integration}
 
-チームの Highspot 統合を有効にしたい場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support#)にお問い合わせください。
+チームで [!DNL Highspot] 統合を有効にする場合は、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support#) にお問い合わせください。
 
 ## 統合の使用方法 {#how-to-use-the-integration}
 
-有効にしたら、Sales Connect で Highspot コンテンツに次のようにアクセスできます。
+有効にした後で [!DNL Highspot] で [!DNL Sales Connect] コンテンツにアクセスする方法を以下に示します。
 
-1. Sales Connect または Outlook でメールを作成する場合は、「**コンテンツを追加**」を選択します。
+1. [!DNL Sales Connect] または [!DNL Outlook] でメールを作成する場合は、「**[!UICONTROL コンテンツを追加]**」を選択します。
 
-1. 「**Highspot**」を選択します。
+1. 「**[!UICONTROL Highspot]**」を選択します。
 
-1. Highspot アカウントのメールを入力し、「**続行**」をクリックします。
+1. [!DNL Highspot] アカウントのメールアドレスを入力し、「**[!UICONTROL 続行]**」をクリックします。
 
-1. Highspot アカウントのパスワードを入力し、「**ログイン**」をクリックします。
+1. [!DNL Highspot] アカウントのパスワードを入力し、「**[!UICONTROL ログイン]**」をクリックします。
 
-1. Highspot からメールまたはテンプレートに挿入するコンテンツを選択し、「**コンテンツを追加**」をクリックします。
+1. メールまたはテンプレートに挿入す [!DNL Highspot] コンテンツを選択し、「**[!UICONTROL コンテンツを追加]**」をクリックします。
 
 1. コンテンツがメールまたはテンプレートに挿入されます。

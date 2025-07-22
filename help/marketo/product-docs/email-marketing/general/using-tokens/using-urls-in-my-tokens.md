@@ -4,26 +4,26 @@ description: マイトークンでの URL の使用 - Marketo ドキュメント
 title: マイトークンでの URL の使用
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
 # マイトークンでの URL の使用 {#using-urls-in-my-tokens}
 
-以下の手順に従って、マイトークンを使用してメールに URL を挿入します。
+以下の手順に従って、[!UICONTROL  マイトークン ] を使用して、メールに URL を挿入します。
 
-1. プログラムを選択し、「**マイトークン**」をクリックします。
+1. プログラムを選択し、「**[!UICONTROL マイトークン]**」をクリックします。
 
    ![](assets/one-4.png)
 
-1. 「**テキスト**&#x200B;マイトークンを」選択して、キャンバスにドラッグ＆ドロップします。
+1. 「**[!UICONTROL テキスト]**&#x200B;マイトークンを」選択して、キャンバスにドラッグ＆ドロップします。
 
    ![](assets/two-4.png)
 
-1. トークンに一意の名前を付け、URL（https:// を除く）を入力して、「**保存**」をクリックします。
+1. トークンに一意の名前を付け、URL（https:// を除く）を入力して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/three-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
    ![](assets/four-3.png)
 
-1. 「**ドラフトを編集**」をクリックします。
+1. 「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/five-3.png)
 
@@ -55,7 +55,7 @@ ht-degree: 100%
    >
    >もちろん、サイトで「https」を使用しない場合は、`http://` を入力することもできます。
 
-1. マイトークンを探し、選択して、「**挿入**」をクリックします。
+1. マイトークンを探し、選択して、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/eight.png)
 
@@ -63,15 +63,15 @@ ht-degree: 100%
 
    ![](assets/nine.png)
 
-1. リンクを表示するテキストをハイライト表示し、リンクを挿入／編集アイコンをクリックします。
+1. リンクを表示するテキストをハイライト表示し、「[!UICONTROL  リンクを挿入/編集 ]」アイコンをクリックします。
 
    ![](assets/ten.png)
 
-1. Ctrl/Cmd+V を押して、内容を「**URL**」ボックスにペーストして「**挿入**」をクリックします。
+1. Ctrl/Cmd+V を押して、内容を「**[!UICONTROL URL]**」ボックスにペーストして「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/eleven.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/twelve.png)
 

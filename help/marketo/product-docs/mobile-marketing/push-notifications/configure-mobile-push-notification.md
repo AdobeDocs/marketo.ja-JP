@@ -4,20 +4,20 @@ description: モバイルプッシュ通知の設定 - Marketo ドキュメン�
 title: モバイルプッシュ通知の設定
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '445'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
 # モバイルプッシュ通知の設定 {#configure-mobile-push-notification}
 
-1. **マーケティング活動**&#x200B;領域に移動します。
+1. **[!UICONTROL マーケティング活動]**&#x200B;領域に移動します。
 
    ![](assets/configure-mobile-push-notification-1.png)
 
-1. プッシュアセットを選択して、「**ドラフトを編集**」をクリックします。
+1. プッシュアセットを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/configure-mobile-push-notification-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 100%
    >
    >プッシュメッセージが 1 つのプラットフォーム（iOS など）にのみ適用される場合は、他のプラットフォームのセレクターを「**無効**」にスライドして除外できます。
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -43,13 +43,13 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >タップアクションには次の 3 つのタイプがあります。
+   >[!UICONTROL  タップアクション ] には 3 つのタイプがあります。
    >
    >**アプリを起動** - **このアプリ**&#x200B;通知をタップすると、アプリのホームページが開きます。**カスタム**&#x200B;は、アプリの他の領域を開くためにディープリンクを使用します（「[ディープリンク URI](#deep-link-uris)」を参照)。
    >
-   >**ランディングページ** - 指定した Marketo ランディングページに移動します。
+   >**[!UICONTROL ランディングページ]** - 指定した Marketo ランディングページに移動します。
    >
-   >**外部 URL** - Marketo 以外のランディングページに移動します。
+   >**[!UICONTROL 外部 URL]** - Marketo 以外のランディングページに移動します。
 
 1. カスタムのタップアクション用のディープリンクを挿入するには、「**カスタム**」を選択し、フィールドに [ディープリンク URI](#deep-link-uris) を入力します。
 
@@ -63,11 +63,11 @@ ht-degree: 100%
 
    ![](assets/configure-mobile-push-notification-7.png)
 
-1. 他のプラットフォームをプレビューし、「**完了**」をクリックします。
+1. 他のプラットフォームをプレビューし、「**[!UICONTROL 完了]**」をクリックします。
 
    ![](assets/configure-mobile-push-notification-8.png)
 
-1. 「**承認して終了**」をクリックします。
+1. 「**[!UICONTROL 承認して終了]**」をクリックします。
 
    ![](assets/configure-mobile-push-notification-9.png)
 

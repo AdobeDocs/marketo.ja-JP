@@ -3,10 +3,10 @@ description: ユーザと管理者の招待 - Marketo ドキュメント - 製�
 title: ユーザと管理者の招待
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -16,21 +16,21 @@ ht-degree: 100%
 
 ## ユーザの招待 {#invite-users}
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. 「管理者設定」で、「**ユーザ管理**」を選択します。
+1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL User Management]**」を選択します。
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. 「**アクション**」ボタンをクリックし、「**ユーザを招待する**」を選択します。
+1. 「**[!UICONTROL アクション]**」ボタンをクリックし、「**[!UICONTROL ユーザを招待する]**」を選択します。
 
    ![](assets/invite-users-and-admins-3.png)
 
    >[!NOTE]
    >
-   >また、すべてをスプレッドシートに表示する場合は、「**CSV でユーザを招待**」を選択します。
+   >また、すべてをスプレッドシートに表示する場合は、「**[!UICONTROL CSV でユーザを招待]**」を選択します。
 
 1. 追加する個人のメールアドレスを入力します。
 
@@ -48,7 +48,7 @@ ht-degree: 100%
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. 「**OK**」をクリックします。
+1. 「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/invite-users-and-admins-7.png)
 
@@ -60,15 +60,15 @@ ht-degree: 100%
 
 既存のユーザを管理者にするには、次の手順に従います。
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. 「管理者設定」で、「**ユーザ管理**」を選択します。
+1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL User Management]**」を選択します。
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. 管理者にするユーザを見つけ、「ロール」ドロップダウンをクリックして、「**管理者**」を選択します。
+1. 管理者にするユーザを見つけ、「ロール」ドロップダウンをクリックして、「**[!UICONTROL 管理者]**」を選択します。
 
    ![](assets/invite-users-and-admins-10.png)
 

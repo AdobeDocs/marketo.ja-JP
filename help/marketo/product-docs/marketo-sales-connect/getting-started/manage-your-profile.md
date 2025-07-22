@@ -3,26 +3,26 @@ description: プロファイルの管理 - Marketo ドキュメント - 製品�
 title: プロファイルの管理
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
 # プロファイルの管理 {#manage-your-profile}
 
-マイプロファイルページで、名前、アカウントの言語、ロケール、タイムゾーンの更新およびパスワードも変更できます。
+[!UICONTROL  マイプロファイル ] ページでは、名前、アカウントの言語/ロケール/タイムゾーンを更新し、パスワードも変更できます。
 
 ## アカウントの詳細 {#account-details}
 
 ここで、名前やパスワードを更新できます。
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/manage-your-profile-1.png)
 
-1. デフォルトでマイプロファイルページが開きます。名前を更新するには、変更内容を入力し、「**保存**」をクリックします。
+1. デフォルトでマイプロファイルページが開きます。名前を更新するには、変更内容を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/manage-your-profile-2.png)
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 
 ## 連携 {#your-integrations}
 
-ページの右側の「連携」セクションに、アカウントのすべての接続ステータスが表示されます。
+ページの右側の「[!UICONTROL  統合 ]」セクションには、アカウントのすべての接続のステータスが表示されます。
 
 ![](assets/manage-your-profile-3.png)
 
@@ -50,23 +50,23 @@ ht-degree: 100%
 >
 >サポートされている言語：英語、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語。
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/manage-your-profile-4.png)
 
-1. 言語を変更するには、「**言語**」ドロップダウンをクリックして選択します。
+1. 言語を変更するには、「**[!UICONTROL 言語]**」ドロップダウンをクリックして選択します。
 
    ![](assets/manage-your-profile-5.png)
 
-1. ロケールは、その言語が話されている地域を指します。「**ロケール**」ドロップダウンをクリックして選択します。
+1. ロケールは、その言語が話されている地域を指します。「**[!UICONTROL ロケール]**」ドロップダウンをクリックして選択します。
 
    ![](assets/manage-your-profile-6.png)
 
-1. 「**タイムゾーン**」ドロップダウンをクリックして選択します。
+1. 「**[!UICONTROL タイムゾーン]**」ドロップダウンをクリックして選択します。
 
    ![](assets/manage-your-profile-7.png)
 
-1. 終了したら「**保存**」をクリックします。
+1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/manage-your-profile-8.png)
 

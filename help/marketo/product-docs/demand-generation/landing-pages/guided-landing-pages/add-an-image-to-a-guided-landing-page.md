@@ -4,7 +4,7 @@ description: ガイド付きランディングページに画像を追加する 
 title: ガイド付きランディングページに画像を追加する
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 フリーフォームランディングページとは異なり、ガイド付きランディングページには、事前に定義され、ロックされた画像を追加するためのスペースがあります。
 
-1. ガイド付きランディングページを選択します。**ドラフトの編集**&#x200B;をクリックします。
+1. ガイド付きランディングページを選択します。**[!UICONTROL ドラフトの編集]**&#x200B;をクリックします。
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. 目的の画像を選択し、「**挿入**」をクリックします。
+1. 目的の画像を選択し、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 

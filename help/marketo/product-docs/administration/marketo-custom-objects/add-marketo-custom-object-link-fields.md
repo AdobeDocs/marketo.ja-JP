@@ -4,7 +4,7 @@ description: Marketo カスタムオブジェクトリンクフィールドの�
 title: Marketo カスタムオブジェクトリンクフィールドの追加
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '702'
 ht-degree: 100%
@@ -66,7 +66,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >リンクフィールドでは、文字列フィールドタイプのみがサポートされています。
+   >[!UICONTROL リンクフィールド]では、文字列フィールドタイプのみがサポートされています。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 

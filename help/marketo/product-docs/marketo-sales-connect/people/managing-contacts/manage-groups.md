@@ -4,24 +4,24 @@ description: グループの管理 - Marketo ドキュメント - 製品ドキ�
 title: グループの管理
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: '278'
+ht-degree: 70%
 
 ---
 
 # グループの管理 {#manage-groups}
 
-Sales Connect でグループを管理する方法を説明します。
+[!DNL Sales Connect] でグループを管理する方法を説明します。
 
 ## グループの作成 {#create-a-group}
 
-1. 人物ページで、グループの横の「**+**」アイコンをクリックします。
+1. [!UICONTROL  人物 ] ページで、「**グループ** の横の [!UICONTROL +] をクリックします。
 
    ![](assets/one-4.png)
 
-1. グループに名前を付け、「**作成**」をクリックします。
+1. グループに名前を付け、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/two-3.png)
 
@@ -29,11 +29,11 @@ Sales Connect でグループを管理する方法を説明します。
 
 ## グループに取引先責任者を追加 {#add-contacts-to-a-group}
 
-1. 人物ページで、人物を追加するグループを探して選択します。
+1. [!UICONTROL  ユーザー ] ページで、ユーザーを追加するグループを見つけて選択します。
 
    ![](assets/three-3.png)
 
-1. 「**グループのアクション**」を選択し、「**連絡先を作成**」を選択します。
+1. 「**[!UICONTROL グループのアクション]**」を選択し、「**[!UICONTROL 連絡先を作成]**」を選択します。
 
    ![](assets/four-3.png)
 
@@ -41,7 +41,7 @@ Sales Connect でグループを管理する方法を説明します。
    >
    >これにより、一度に 1 件の連絡先が追加されます。複数の取引先責任者を同時に追加するには、[これらの手順](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)に従います。
 
-1. 取引先責任者の情報を入力し、「**作成**」（または別の取引先責任者を追加する場合は「**作成して新たに追加**」）をクリックします。
+1. 取引先責任者の情報を入力し、「**[!UICONTROL 作成]**」（または別の取引先責任者を追加する場合は「**[!UICONTROL 作成して新たに追加]**」）をクリックします。
 
    ![](assets/five-3.png)
 
@@ -53,11 +53,11 @@ Sales Connect でグループを管理する方法を説明します。
 
 ## グループの共有 {#share-a-group}
 
-1. 人物ページで、共有するグループを見つけて選択します。
+1. [!UICONTROL  ユーザー ] ページで、共有するグループを見つけて選択します。
 
    ![](assets/six.png)
 
-1. 縦並びの 3 つのドットをクリックし、「**共有**」を選択します。
+1. 縦並びの 3 つのドットをクリックし、「**[!UICONTROL 共有]**」を選択します。
 
    ![](assets/seven.png)
 
@@ -65,19 +65,19 @@ Sales Connect でグループを管理する方法を説明します。
 
    ![](assets/eight.png)
 
-1. 「**共有**」をクリックします。
+1. 「**[!UICONTROL 共有]**」をクリックします。
 
    ![](assets/nine.png)
 
-   グループは引き続き所有していますが、チームグループで表示されます。
+   グループは引き続き所有していますが、[!UICONTROL チームグループ]で表示されます。
 
 ## グループの共有解除 {#unshare-a-group}
 
-1. 人物ページで、共有を解除するグループを見つけて選択します。
+1. [!UICONTROL  ユーザー ] ページで、共有を解除するグループを見つけて選択します。
 
    ![](assets/ten.png)
 
-1. 縦並びの 3 つのドットをクリックし、「**共有**」を選択します。
+1. 縦並びの 3 つのドットをクリックし、「**[!UICONTROL 共有]**」を選択します。
 
    ![](assets/eleven.png)
 
@@ -89,11 +89,11 @@ Sales Connect でグループを管理する方法を説明します。
 
 ## グループ名の変更 {#rename-a-group}
 
-1. 人物ページで、名前を変更するグループを見つけて選択します。
+1. [!UICONTROL  ユーザー ] ページで、名前を変更するグループを見つけて選択します。
 
    ![](assets/six.png)
 
-1. 縦並びの 3 つのドットをクリックし、「**名前を変更**」を選択します。
+1. 縦並びの 3 つのドットをクリックし、「**[!UICONTROL 名前を変更]**」を選択します。
 
    ![](assets/thirteen.png)
 
@@ -103,14 +103,14 @@ Sales Connect でグループを管理する方法を説明します。
 
 ## グループの削除 {#delete-a-group}
 
-1. 人物ページで、削除するグループを見つけて選択します。
+1. [!UICONTROL  ユーザー ] ページで、削除するグループを見つけて選択します。
 
    ![](assets/fifteen.png)
 
-1. 縦並びの 3 つのドットをクリックし、「**削除**」を選択します。
+1. 縦並びの 3 つのドットをクリックし、「**[!UICONTROL 削除]**」を選択します。
 
    ![](assets/sixteen.png)
 
-1. 「**削除**」をクリックして確定します。
+1. 「**[!UICONTROL 削除]**」をクリックして確定します。
 
    ![](assets/seventeen.png)

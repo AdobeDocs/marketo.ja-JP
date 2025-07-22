@@ -4,10 +4,10 @@ description: SFDC から顧客を削除 - Marketo ドキュメント - 製品ド
 title: SFDC からの顧客の削除
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: ht
-source-wordcount: '135'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '133'
+ht-degree: 81%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Salesforce と統合されている場合にのみ使用できます。
+>[!DNL Salesforce] と統合されている場合にのみ使用できます。
 
 1. データベースで、Salesforce から削除するリードをクリックします。「**[!UICONTROL 人物のアクション]**」をクリックし、「**[!DNL Salesforce]**」を選択します。
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
    ![](assets/delete-person-from-sfdc-3.png)
 
-   フローステップが実行され、リードデータは Salesforce から削除されますが、Marketo には残ります。
+   フローステップが実行されると、そのユーザーは [!DNL Salesforce] ではリードではなくなり、Marketoには残ります。
 
    >[!CAUTION]
    >

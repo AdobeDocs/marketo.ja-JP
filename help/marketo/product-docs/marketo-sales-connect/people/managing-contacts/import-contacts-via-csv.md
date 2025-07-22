@@ -4,26 +4,26 @@ description: CSV を使用した取引先責任者のインポート - Marketo �
 title: CSV を使用した取引先責任者のインポート
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 100%
+source-wordcount: '120'
+ht-degree: 53%
 
 ---
 
 # CSV を使用した取引先責任者のインポート {#import-contacts-via-csv}
 
-テンプレートの動的フィールドにパーソナライズされた情報を自動入力するため、その取得先である人物ページに取引先責任者があることは重要です。CSV の各取引先責任者に少なくとも名前とメールアドレスが設定されていること、それらのフィールドにマッピングされていることを確認してください。
+[!UICONTROL  人物 ] ページに連絡先を含めることは重要です。ここからテンプレートの動的なフィールドにパーソナライズされた情報を自動入力します。 CSV の各取引先責任者に少なくとも名前とメールアドレスが設定されていること、それらのフィールドにマッピングされていることを確認してください。
 
-1. 「人物」タブで自分のグループを選択（または新しく作成）します。
+1. [!UICONTROL  ユーザー ] タブでグループを選択します（または新しいグループを作成します）。
 
    ![](assets/one.png)
 
-1. 「**グループのアクション**」を選択し、「**CSV をインポート**」を選択します。
+1. **[!UICONTROL グループアクション]** をクリックし、**[!UICONTROL CSV から読み込み]** を選択します。
 
    ![](assets/two.png)
 
-1. 「**参照**」をクリックします。
+1. 「**[!UICONTROL 参照]**」をクリックします。
 
    ![](assets/three.png)
 
@@ -33,10 +33,10 @@ ht-degree: 100%
    >
    >グループの連絡先は 1000 件に制限されています。
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/four.png)
 
-1. CSV の列を Sales Connect の各フィールドにマッピングします。終了したら「**次へ**」をクリックします。
+1. CSV 内の列を [!DNL Sales Connect] 内の対応するフィールドにマッピングします。 終了したら「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/five.png)

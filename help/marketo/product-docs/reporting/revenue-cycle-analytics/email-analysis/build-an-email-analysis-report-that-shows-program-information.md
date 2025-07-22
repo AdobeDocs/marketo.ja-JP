@@ -4,10 +4,10 @@ description: プログラム情報を示すメール分析レポートの作成 
 title: プログラム情報を示すメール分析レポートの作成
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 100%
 >
 >必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-1. **収益エクスプローラ**&#x200B;を起動します。
+1. **[!UICONTROL 収益エクスプローラ]**&#x200B;を起動します。
 
    ![](assets/report-that-shows-program-information-1.png)
 
-1. 「**新規作成**」をクリックし、「**レポート**」を選択します。
+1. 「**[!UICONTROL 新規作成]**」をクリックし、「**[!UICONTROL レポート]**」を選択します。
 
    ![](assets/report-that-shows-program-information-2.png)
 
-1. **メール分析**&#x200B;領域を選択し、「**OK**」をクリックします。
+1. **[!UICONTROL メール分析]**&#x200B;領域を選択し、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. **送信済み（週）**&#x200B;の黄色い点をみつけて、右クリックします。「**フィルター**」をクリックします。
+1. **[!UICONTROL 送信済み（週）]**&#x200B;の黄色い点をみつけて、右クリックします。「**[!UICONTROL フィルター…]**」をクリックします。
 
    >[!NOTE]
    >
@@ -39,19 +39,19 @@ ht-degree: 100%
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. 「**現在の送信済み週**」にチェックを入れて、「**OK**」をクリックします。
+1. 「**[!UICONTROL 現在送信済み（週）]**」をチェックし、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. **プログラムチャネル**&#x200B;の黄色い点をみつけて、ダブルクリックします。
+1. **[!UICONTROL プログラムチャネル]**&#x200B;の黄色い点をみつけて、ダブルクリックします。
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. **メール名**&#x200B;の黄色い点をみつけて、ダブルクリックします。
+1. **[!UICONTROL メール名]**&#x200B;の黄色い点をみつけて、ダブルクリックします。
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. **送信済み**、**開封済み**、**クリック済み**&#x200B;の青い点をみつけて、ダブルクリックします。
+1. **[!UICONTROL 送信済み]**、**[!UICONTROL 開封済み]**、**[!UICONTROL クリック済み]**&#x200B;の青い点をみつけて、ダブルクリックします。
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 

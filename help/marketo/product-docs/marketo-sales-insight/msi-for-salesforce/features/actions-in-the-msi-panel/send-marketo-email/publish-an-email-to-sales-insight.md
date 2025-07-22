@@ -4,38 +4,38 @@ description: Sales Insight への電子メールの公開 - Marketo ドキュメ
 title: Sales Insight への電子メールの公開
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 100%
+source-wordcount: '199'
+ht-degree: 62%
 
 ---
 
-# Sales Insight への電子メールの公開 {#publish-an-email-to-sales-insight}
+# [!DNL Sales Insight] へのメールの公開 {#publish-an-email-to-sales-insight}
 
-Sales Insight に公開する設定を有効にして、セールスチームが Sales Insight だけでなく、Outlook および Gmail アドインでも電子メールを利用できるようにします。また、有効期限を指定することもできます。
+[!DNL Sales Insight] に公開」設定を有効にして、セールスチームと [!DNL Sales Insight] および Gmail アドインの両方でメールを [!DNL Outlook] 用できるようにします。 また、有効期限を指定することもできます。
 
-1. 目的のメールを選択して、「**ドラフトを編集**」をクリックします。
+1. 目的のメールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/one.png)
 
-1. エディターが開いたら、「**メール設定**」をクリックします。
+1. エディターが開いたら、「**[!UICONTROL メール設定]**」をクリックします。
 
    ![](assets/two.png)
 
-1. 「**Marketo Sales Insight に公開**」をオンにします。
+1. 「**[!UICONTROL Marketo Sales Insight に公開]**」をオンにします。
 
    ![](assets/three.png)
 
-1. 有効期限を設定するには（オプション）、「**有効期限を設定**」をオンにして日付を選択します。
+1. 有効期限を設定するには（オプション）、「**[!UICONTROL 有効期限を設定]**」をオンにして日付を選択します。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >（設定した場合）有効期限日の午後 11:59（CST）に、使用可能にしたメールが Sales Insight およびアドインから削除されます。もちろん、Marketo では引き続きアクセス可能です。
+   >有効期限の :59 後 11 時（CST）に（設定した場合）、利用可能にしたメールは [!DNL Sales Insight] およびそのアドインのいずれかから消えます。 もちろん、Marketo では引き続きアクセス可能です。
 
-1. 「**保存**」をクリックします。
+1. **[!DNL Save]** をクリックします。
 
    ![](assets/five.png)
 
@@ -43,7 +43,7 @@ Sales Insight に公開する設定を有効にして、セールスチームが
 
 >[!NOTE]
 >
->Microsoft Dynamics または Salesforce の Sales Insight からメールを送信しても、[マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)は解決されません。標準のトークン（リード、会社など）のみが入力されます。ただし、トークンのデフォルト値は機能します。
+>[ または ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) で [!DNL Sales Insight] からメールを送信する際に [!DNL Microsoft Dynamics] マイトークン [!DNL Salesforce] が解決されません。入力されるのは標準トークン（リード、会社など）のみです。 ただし、トークンのデフォルト値は機能します。
 
 >[!TIP]
 >

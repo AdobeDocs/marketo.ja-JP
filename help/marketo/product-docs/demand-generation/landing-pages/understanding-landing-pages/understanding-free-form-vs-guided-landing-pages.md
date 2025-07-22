@@ -4,10 +4,10 @@ description: フリーフォームとガイド付きのランディングペー�
 title: フリーフォームとガイド付きのランディングページについて
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 100%
+source-wordcount: '172'
+ht-degree: 94%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 ## フリーフォームページ {#free-form-pages}
 
 * 好きなコンテンツを、配置したい場所にドラッグ＆ドロップします。
-* テンプレートは、PowerPoint のスライドマスターと同じで、ただの背景です。
+* テンプレートは [!DNL SlideMaster] の [!DNL PowerPoint] のようなもので、背景にすぎません。
 * ボタンをクリックするだけで、簡単なモバイル版のページを作成できます。
 * 時間や技術リソースが少ない場合に最適です。
 

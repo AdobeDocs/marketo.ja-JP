@@ -3,10 +3,10 @@ description: オーディエンス条件 - Marketo ドキュメント - 製品�
 title: オーディエンス条件
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '605'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -28,11 +28,11 @@ Marketo Engage スマートリストと同様に、オーディエンス条件�
 
    ![](assets/audience-criteria-3.png)
 
-1. 「次よりも大きい」時間を 20 秒に設定します。
+1. 「[!UICONTROL  次よりも大きい ]」時間を 20 秒に設定します。
 
    ![](assets/audience-criteria-4.png)
 
-1. 「[ターゲット](#target)」セクションに、目的のページの URL を入力します。
+1. 「[[!UICONTROL ターゲット]](#target)」セクションに、目的のページの URL を入力します。
 
    ![](assets/audience-criteria-5.png)
 
@@ -46,7 +46,7 @@ _多数の_&#x200B;属性の組み合わせから選択できます。以下の�
 
    ![](assets/audience-criteria-7.png)
 
-1. 「_次に該当_」はデフォルトで設定されています。「値を選択」フィールドに「CA」と入力します（ドロップダウンをクリックして、リストから選択することもできます）。
+1. 「_[!UICONTROL 次に該当]_」はデフォルトで設定されています。「値を選択」フィールドに「CA」と入力します（ドロップダウンをクリックして、リストから選択することもできます）。
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,7 +88,7 @@ _多数の_&#x200B;属性の組み合わせから選択できます。以下の�
    >
    >Web サイトの訪問者には、[Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} Cookie が作成され、訪問者はシステムに格納されます。IP は特別なデータベースで調べられ、あらゆる情報が推測されます。
 
-1. 「_次に該当_」はデフォルトで設定されています。「値を選択」フィールドに「NY」と入力します（ドロップダウンをクリックして、リストから選択することもできます）。
+1. 「_[!UICONTROL 次に該当]_」はデフォルトで設定されています。「値を選択」フィールドに「NY」と入力します（ドロップダウンをクリックして、リストから選択することもできます）。
 
    ![](assets/audience-criteria-15.png)
 

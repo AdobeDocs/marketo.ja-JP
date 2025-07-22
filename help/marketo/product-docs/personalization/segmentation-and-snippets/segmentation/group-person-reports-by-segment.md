@@ -4,7 +4,7 @@ description: 顧客の実績レポートをセグメント別にグループ化�
 title: 顧客の実績レポートをセグメント別にグループ化する
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 ユーザーレポートは、セグメント化で定義した任意のセグメント別にグループ化できます。
 
-1. **マーケティング活動**（または&#x200B;**分析**）セクションに移動します。
+1. **[!UICONTROL マーケティング活動]**（または&#x200B;**[!UICONTROL 分析]**）セクションに移動します。
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-1. 「**設定**」タブをクリックして、「**リードのグループ化基準**」をダブルクリックします。
+1. 「**[!UICONTROL 設定]**」タブをクリックして、「**[!UICONTROL リードのグループ化基準]**」をダブルクリックします。
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
@@ -31,11 +31,11 @@ ht-degree: 100%
    >
    >[をリード別、または企業属性別にグループ化](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)することもできます。
 
-1. **リードのグループ化基準**&#x200B;ダイアログで、テキストボックスに「segmentation」と入力し始めます。次の場合に&#x200B;**セグメンテーション**&#x200B;見出しが表示されたら、見出しの下のリストから 1 つ選択します。
+1. **[!UICONTROL リードのグループ化基準]**&#x200B;ダイアログで、テキストボックスに「segmentation」と入力し始めます。次の場合に&#x200B;**セグメンテーション**&#x200B;見出しが表示されたら、見出しの下のリストから 1 つ選択します。
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. 「**レポート**」タブをクリックすると、選択したセグメント別にグループ化されたレポートが表示されます。
+1. 「**[!UICONTROL レポート]**」タブをクリックすると、選択したセグメント別にグループ化されたレポートが表示されます。
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 

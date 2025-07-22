@@ -4,18 +4,18 @@ description: 収益エクスプローラーレポートの購読 - Marketo ド�
 title: 収益エクスプローラーレポートの購読
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
-# 収益エクスプローラーレポートの購読 {#subscribe-to-a-revenue-explorer-report}
+# [!UICONTROL  売上高エクスプローラー ] レポートの購読 {#subscribe-to-a-revenue-explorer-report}
 
 収益サイクルエクスプローラーレポートから更新を受け取り、共有するには、既存のレポートにメールアドレスを配信登録することができます。
 
-1. **分析**&#x200B;に移動し、**新規**／**新規レポートの配信登録**&#x200B;を選択します。
+1. **[!UICONTROL 分析]**&#x200B;に移動し、**[!UICONTROL 新規]**／**[!UICONTROL 新規レポートの配信登録]**&#x200B;を選択します。
 
    ![](assets/image2014-9-17-12-3a46-3a20.png)
 
@@ -23,7 +23,7 @@ ht-degree: 100%
    >
    >プログラムで作成した基本レポートを配信登録するには、「[基本レポートの配信登録](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)」を参照してください。
 
-1. 「**レポートソース**」で、「**収益エクスプローラー**」を選択します。
+1. 「**[!UICONTROL レポートソース]**」で、「**[!UICONTROL 収益エクスプローラー]**」を選択します。
 
    ![](assets/image2014-9-17-12-3a47-3a11.png)
 

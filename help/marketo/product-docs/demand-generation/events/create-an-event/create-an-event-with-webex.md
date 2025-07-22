@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949863
-description: Webex を使用したイベントの作成 - Marketo ドキュメント - 製品ドキュメント
-title: Webex を使用したイベントの作成
+description: イベントの作成  [!DNL Webex] - Marketo ドキュメント – 製品ドキュメント
+title: ' [!DNL Webex] を使用したイベントの作成'
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 7edce24c2199a6a2eaa119d3ef77543bbd97999c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '626'
-ht-degree: 17%
+source-wordcount: '632'
+ht-degree: 13%
 
 ---
 
-# Webex を使用したイベントの作成 {#create-an-event-with-webex}
+# [!DNL Webex] を使用したイベントの作成 {#create-an-event-with-webex}
 
 Webex でウェビナーを作成したら、イベントをMarketo Engageと同期する必要があります。
 
 >[!PREREQUISITES]
 >
->* [Webex を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
+>* [Add [!DNL Webex] as [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
 
@@ -27,8 +27,8 @@ Webex でウェビナーを作成したら、イベントをMarketo Engageと同
 
 ### 基本情報 {#basic-information}
 
-![](assets/create-an-event-with-webex-1.png)
-
+* **[!UICONTROL イベント名 ] -** この名前は、Marketoで表示できます。
+* **[!UICONTROL 「リストに載せない」チェックボックス]**
 * **トピック**：これはイベント名で、Marketoで表示されます。
 * **日時**：開始日/終了日、開始時刻/終了時刻、期間およびタイムゾーンはすべてMarketoで表示できます。
 * **最大出席者**：出席者の最大数によって、サポートされる Webex 機能が決まります。

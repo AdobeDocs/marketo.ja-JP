@@ -1,23 +1,23 @@
 ---
 unique-page-id: 9437903
-description: カスタム Dynamics 同期フィルターの作成 - Marketo ドキュメント - 製品ドキュメント
-title: カスタム Dynamics 同期フィルターの作成
+description: カスタム同期フィルタ  [!DNL Dynamics]  の作成 – Marketo ドキュメント – 製品ドキュメント
+title: カスタム同期フィルタ  [!DNL Dynamics]  の作成
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: cd09ad43c08855af63131aa385c4fd406c963926
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '818'
-ht-degree: 90%
+source-wordcount: '807'
+ht-degree: 73%
 
 ---
 
-# カスタム Dynamics 同期フィルターの作成 {#create-a-custom-dynamics-sync-filter}
+# カスタム [!DNL Dynamics] 同期フィルターの作成 {#create-a-custom-dynamics-sync-filter}
 
-Dynamics CRM 内のすべてをMarketo Engageに同期しない場合は、 心配無用です。Marketo では、同期フィルターを設定して、レコードの一部のみを同期できます。
+Dynamics CRM 内のすべてをMarketo Engageに同期したくない場合は、 心配無用です。Marketo では、同期フィルターを設定して、レコードの一部のみを同期できます。
 
 ## 概要 {#overview}
 
-Dynamics 同期フィルターを設定するには、次のようにします。
+[!DNL Dynamics] 同期フィルターを設定するには：
 
 1. 任意のオブジェクト（リード、連絡先、アカウント、商談、その他のカスタムエンティティ）に対して、Dynamics CRM で new_synctomkto という名前のカスタム 2 つのオプション（ブール値）フィールドを作成します。
 1. このフィールドに Yes/No 値を割り当てます。
@@ -43,7 +43,7 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
 >[!PREREQUISITES]
 >
->最新バージョンの Marketo プラグイン（3.0.0.1 以降）をインストールします。Marketo／管理者／Microsoft Dynamics／Marketo ソリューションをダウンロードに移動します。
+>最新バージョンのMarketo プラグイン（3.0.0.1 以降）をインストールします。 Marketo/[!UICONTROL  管理者 ]/[!DNL Microsoft Dynamics]/[!UICONTROL Marketo ソリューションをダウンロード ] に移動します。
 
 ## SyncToMkto フィールドの作成 {#create-synctomkto-field}
 
@@ -51,25 +51,25 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
-1. 「**システムをカスタマイズ**」をクリックします。
+1. 「**[!UICONTROL システムをカスタマイズ]**」をクリックします。
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
-1. 「**エンティティ**」の横にある ![](assets/image2015-8-10-21-3a44-3a23.png) をクリックします。
+1. 「**[!UICONTROL エンティティ]**」の横にある ![](assets/image2015-8-10-21-3a44-3a23.png) をクリックします。
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. 「**リード**」の横にある ![](assets/image2015-8-10-21-3a44-3a23.png) をクリックし、「**フィールド**」を選択します。次に、「**新規**」をクリックします。
+1. 「**[!UICONTROL リード]**」の横にある ![](assets/image2015-8-10-21-3a44-3a23.png) をクリックし、「**[!UICONTROL フィールド]**」を選択します。次に、「**[!UICONTROL 新規]**」をクリックします。
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
-1. 「**表示名**」フィールドに **SyncToMkto** と入力し、「**データタイプ**」として「**2 つのオプション**」を選択します。次に、「**保存して閉じる**」をクリックします。
+1. **表示名** フィールドに **[!UICONTROL SyncToMkto]** と入力し、**[!UICONTROL データタイプ]** として **[!UICONTROL 2 つのオプション]** を選択します。 次に、「**[!UICONTROL 保存して閉じる]**」をクリックします。
 
    ![](assets/image2015-9-8-10-3a25-3a33.png)
 
    >[!NOTE]
    >
-   >このフィールドの表示名を任意に選択しますが、「名前」フィールドは正確に **new_synctomkto** にする必要があります。デフォルトのプレフィックスとして **new** を使用する必要があります。デフォルトを変更した場合は、ここに移動して、[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}カスタムフィールド名のデフォルトのプレフィックスをリセットします。新しいフィールドを作成した後で、このフィールドを元に戻すことができます。
+   >このフィールドの表示名を任意に選択しますが、「名前」フィールドは正確に **new_synctomkto** にする必要があります。デフォルトの接頭辞として **new** を使用する必要があります。デフォルトを変更した場合は、ここに移動して、](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}カスタムフィールド名のデフォルトの接頭辞をリセットします[。新しいフィールドを作成した後で、このフィールドを元に戻すことができます。
 
    >[!NOTE]
    >
@@ -95,37 +95,37 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
 これで、Marketo の同期フィルターが有効になりました。
 
-## 同期フィルター値を自動的に割り当てる Dynamics ワークフローを作成する {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
+## 同期フィルター値を自動的に割り当てる [!DNL Dynamics] ワークフローの作成 {#create-a-dynamics-workflow-to-assign-sync-filter-values-automatically}
 
-レコードの SyncToMkto フィールドには、いつでも手動で値を割り当てることができます。ただし、Dynamics Workflow の機能を活用し、レコードの作成時や更新時に SyncToMkto フィールドに値を自動割り当てすることをお勧めします。
+レコードの SyncToMkto フィールドには、いつでも手動で値を割り当てることができます。しかし、レコードの作成時や更新時に、[!DNL Dynamics] ワークフローの機能を活用して、SyncToMkto フィールドに値を自動割り当ててみませんか？
 
 >[!NOTE]
 >
 >データベースレベルでは、この操作はできません。CRM では、これは手動でおこなうか、ワークフローを使用する必要があります。
 >
->Dynamics ワークフローは、今後作成される新しいレコードに対してのみ機能し、履歴データには機能しません。バッチアップデートを使用して、既存のレコードを移動します。
+>[!DNL Dynamics] ワークフローは、履歴データではなく、今後作成される新しいレコードに対してのみ機能します。 バッチアップデートを使用して、既存のレコードを移動します。
 
 1. Dynamics CRM に移動します。 **設定**/**プロセス** をクリックします。
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
-1. 「**新規**」をクリックします。
+1. 「**[!UICONTROL 新規]**」をクリックします。
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. ワークフローの名前を入力し、カテゴリとして「**ワークフロー**」を選択し、エンティティとして「**リード**」を選択します。次に、「**OK**」をクリックします。
+1. ワークフローの名前を入力し、**[!UICONTROL カテゴリ]** として [!UICONTROL  ワークフロー ] を選択し、**[!UICONTROL エンティティ]** として [!UICONTROL  リード ] を選択します。 次に、「**OK**」をクリックします。
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. 組織の好みに応じて、**SyncToMkto** フィールドに true または false の値を割り当てるルールを作成します。「**保存して閉じる**」をクリックします。
+1. 組織の好みに応じて、**SyncToMkto** フィールドに true または false の値を割り当てるルールを作成します。「**[!UICONTROL 保存して閉じる]**」をクリックします。
 
    ![](assets/setsynctomkto-fix.png)
 
    >[!NOTE]
    >
-   >「**ステップの追加**」をクリックしてチェック条件を追加した後に、デフォルトのアクションを定義します。同期しないレコードを&#x200B;**いいえ**&#x200B;と設定します。それ以外の場合は、同期されます。
+   >「**[!UICONTROL ステップの追加]**」をクリックしてチェック条件を追加した後に、デフォルトのアクションを定義します。同期しないレコードを&#x200B;**いいえ**&#x200B;と設定します。それ以外の場合は、同期されます。
 
-1. ワークフローを選択し、「**アクティブ化**」をクリックします。
+1. ワークフローを選択し、「**[!UICONTROL アクティブ化]**」をクリックします。
 
    ![](assets/image2015-8-11-8-3a57-3a29.png)
 
@@ -139,7 +139,7 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
 * 同期操作の開始
 
-  **SyncToMkto** の値が&#x200B;**いいえ**&#x200B;から&#x200B;**はい**&#x200B;に変わると、Dynamics は直ちに Marketo にこのレコードの同期を開始するよう通知します。レコードが既に存在する場合は、Marketo によってアップデートされます。それ以外の場合は、レコードが作成されます。
+  **SyncToMkto** の値が **いいえ** から **はい** に変わると、[!DNL Dynamics] はMarketoにこのレコードの同期を開始するように直ちに通知します。 レコードが既に存在する場合は、Marketo によってアップデートされます。それ以外の場合は、レコードが作成されます。
 
   >[!TIP]
   >

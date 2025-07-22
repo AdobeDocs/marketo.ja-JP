@@ -3,10 +3,10 @@ description: ローカルアセットの有効期限 - Marketo ドキュメン�
 title: ローカルアセットの有効期限
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 100%
+ht-degree: 79%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 
    ![](assets/local-asset-expiration-4.png)
 
-1. 有効期限を設定するアセットを確認し、「**[!UICONTROL 有効期限を設定]**」をクリックします。
+1. 有効期限を設定するアセットを選択し、「**[!UICONTROL 有効期限を設定]**」をクリックします。
 
    ![](assets/local-asset-expiration-5.png)
 
@@ -60,7 +60,7 @@ ht-degree: 100%
 
 ## 有効期限の削除 {#remove-an-expiration-date}
 
-1. 有効期限を削除するには、アセットをチェックして、「**[!UICONTROL 有効期限を削除]**」をクリックします。
+1. 有効期限を削除するには、アセットを確認して **[!UICONTROL 有効期限を削除]** をクリックします。
 
    ![](assets/local-asset-expiration-8.png)
 

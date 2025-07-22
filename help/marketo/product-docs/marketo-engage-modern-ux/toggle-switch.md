@@ -3,7 +3,7 @@ description: 切替スイッチ - Marketo ドキュメント - 製品ドキュ�
 title: 切替スイッチ
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 100%
@@ -22,11 +22,11 @@ ht-degree: 100%
 
 個々のロールまたはすべてのロールの切り替えスイッチを有効にします。手順は以下のとおりです。
 
-1. Marketo Engage で、「**管理者**」をクリックします。
+1. Marketo Engage で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/toggle-switch-1.png)
 
-1. 「**新しいエクスペリエンス**」をクリックします。
+1. 「**[!UICONTROL 新しいエクスペリエンス]**」をクリックします。
 
    ![](assets/toggle-switch-2.png)
 
@@ -50,7 +50,7 @@ _すべて_&#x200B;の機能に対して有効にするには、切り替えス�
 
 ![](assets/toggle-switch-6.png)
 
-「**使用可能なすべての機能で有効にする**」を選択して、「**OK**」をクリックします。
+「**[!UICONTROL 使用可能なすべての機能で有効にする]**」を選択して、「**[!UICONTROL OK]**」をクリックします。
 
 ![](assets/toggle-switch-7.png)
 

@@ -4,10 +4,10 @@ description: Sales Connect を Salesforce サンドボックスに接続する�
 title: Sales Connect を Salesforce サンドボックスに接続する方法
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 100%
+source-wordcount: '137'
+ht-degree: 53%
 
 ---
 
@@ -15,29 +15,29 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->サンドボックスへの接続を確立する際に、Sales Connect アカウントをあらかじめ Salesforce に接続しておくことはできません。接続している場合、この記事の手順に従う前に、[切断してください](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)。
+>サンドボックスへの接続を確立する際に、[!DNL  Sales Connect] アカウントが既に [!DNL Salesforce] に接続しているわけではありません。 接続している場合、この記事の手順に従う前に、[切断してください](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)。
 
-1. Sales Connect で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
+1. [!DNL Sales Connect] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one-2.png)
 
-1. 「統合」で、「**CRM**」をクリックします。
+1. 「[!UICONTROL  統合 ]」で、「**[!UICONTROL CRM]**」をクリックします。
 
    ![](assets/two-2.png)
 
-1. Salesforce カードで、「**さらに詳しく**」をクリックします。
+1. [!DNL Salesforce] カードで、「**[!UICONTROL 詳細情報]**」をクリックします。
 
    ![](assets/three-2.png)
 
-1. ページの下部で、「**サンドボックスに接続**」をクリックします。
+1. ページの下部で、「**[!UICONTROL サンドボックスに接続]**」をクリックします。
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >既に Salesforce サンドボックスアカウントにログインしている場合は、認証ページが表示され、アクセスを許可する必要があります。まだログインしていない場合は、手順 5 に進みます。
+   >既に [!DNL Salesforce Sandbox] アカウントにログインしている場合は、アクセスを許可する必要がある認証ページが表示されます。 まだログインしていない場合は、手順 5 に進みます。
 
-1. Salesforce サンドボックスアカウントのユーザー名とパスワードを入力します。
+1. [!DNL Salesforce Sandbox] アカウントのユーザー名とパスワードを入力します。
 
    ![](assets/five-2.png)
 

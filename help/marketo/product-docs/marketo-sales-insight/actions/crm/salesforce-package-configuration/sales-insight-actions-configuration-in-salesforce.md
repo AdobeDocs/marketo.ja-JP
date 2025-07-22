@@ -2,66 +2,66 @@
 description: Salesforce での Sales Insight Actions 設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce での Sales Insight Actions 設定
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 100%
+source-wordcount: '241'
+ht-degree: 56%
 
 ---
 
-# Salesforce での Sales Insight Actions 設定 {#sales-insight-actions-configuration-in-salesforce}
+# [!DNL Sales Insight Actions] での [!DNL Salesforce] 設定 {#sales-insight-actions-configuration-in-salesforce}
 
 >[!PREREQUISITES]
 >
->* Salesforce インスタンスでの Sales Insight パッケージの[インストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)または[アップグレード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)
->* [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [ インスタンスに Sales Insight パッケージを ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) インストール [ または ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) アップグレード [!DNL Salesforce] します
+>* [Marketo Sales Insightの設定  [!DNL Salesforce] Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
-## Salesforce に新しいリモートサイトを追加 {#add-new-remote-site-in-salesforce}
+## [!DNL Salesforce] に新しいリモートサイトを追加 {#add-new-remote-site-in-salesforce}
 
-1. Salesforce で、「**設定**」をクリックします。
+1. [!DNL Salesforce] で、**[!UICONTROL 設定]** をクリックします。
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. 「リモートサイト」を検索し、「**リモートサイトの設定**」を選択します。
+1. 「[!UICONTROL  リモートサイト ]」を検索し、「**[!UICONTROL リモートサイト設定]**」を選択します。
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
-1. 「**新規リモートサイト**」をクリックします。
+1. 「**[!UICONTROL 新規リモートサイト]**」をクリックします。
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. リモートサイト名を入力します（「MarketoSalesInsight1」など）。リモートサイトの URL `https://ims-na1.adobelogin.com` を入力し、「**保存」をクリックします。**
+1. リモートサイト名を入力します（「MarketoSalesInsight1」など）。リモートサイトの URL `https://ims-na1.adobelogin.com` を入力し、「**[!UICONTROL 保存」をクリックします。]**
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
-1. もう一度「**新規リモートサイト**」をクリックします。
+1. もう一度「**[!UICONTROL 新規リモートサイト]**」をクリックします。
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. リモートサイト名を入力します（「MarketoSalesInsight2」など）。リモートサイトの URL `https://mkto-sales-connect.adobe.io` を入力し、「**保存**」をクリックします。
+1. リモートサイト名を入力します（「MarketoSalesInsight2」など）。リモートサイトの URL `https://mkto-sales-connect.adobe.io` を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
-## CRM 全体で Sales Insight Actions を有効にする {#enabling-sales-insight-actions-across-the-crm}
+## CRM 全体での [!DNL Sales Insight Actions] の有効化 {#enabling-sales-insight-actions-across-the-crm}
 
-1. Salesforce で、「**Marketo Sales Insight 設定**」タブをクリックします。
+1. [!DNL Salesforce] で、「**[!UICONTROL Marketo営業Insight設定]**」タブをクリックします。
 
    ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
-   >上部のバーに「Marketo Sales Insight 設定」が表示されない場合は、「**+**」をクリックし、「すべてのタブ」から見つけます。
+   >上部バーに「[!UICONTROL Marketo営業Insight設定 ]」が表示されない場合は、「**+**」記号をクリックして「すべてのタブ」の下に表示されます。
 
-1. 「**MSI アクションを有効にする**」チェックボックスをオンにします。
+1. 「**[!UICONTROL MSI アクションを有効にする]**」チェックボックスをオンにします。
 
    ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
-1. API 秘密鍵を入力します。
+1. [!UICONTROL API 秘密鍵 ] を入力します。
 
    ![](assets/msi-actions-configuration-in-salesforce-7.png)
 
    >[!NOTE]
    >
-   >API 秘密鍵をお持ちでない場合は、[この記事](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)の手順を参照してください。
+   >[!UICONTROL API 秘密鍵 ] が手元にない場合は、[ この記事 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) の手順に従って見つけることができます。
 
-1. 終了したら「**保存**」をクリックします。
+1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
 これにより、機能の概要記事で概要を説明しているすべての MSI アクション機能が自動的に有効になります。
 
@@ -75,7 +75,7 @@ ht-degree: 100%
 
    ![](assets/msi-actions-configuration-in-salesforce-8.png)
 
-1. MSI アクションを無効にするには、「アクション」設定で対応する機能をオフにします。
+1. MSI 操作を無効にするには、[!UICONTROL  操作設定 ] の下で対応する機能のチェックをオフにします。
 
    ![](assets/msi-actions-configuration-in-salesforce-9.png)
 

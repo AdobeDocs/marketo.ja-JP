@@ -6,16 +6,16 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
-workflow-type: ht
-source-wordcount: '316'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '302'
+ht-degree: 50%
 
 ---
 
-# Facebook リッチ投稿設定の編集 {#edit-facebook-rich-post-settings}
+# リッチ投稿設定 [!DNL Facebook] 編集 {#edit-facebook-rich-post-settings}
 
-ユーザーが Facebook で自社の情報を共有するときの投稿をカスタマイズします。
+[!DNL Facebook] で他のユーザーがあなたを共有するときに投稿をカスタマイズします。
 
 >[!AVAILABILITY]
 >
@@ -25,13 +25,13 @@ Marketo の&#x200B;_ソーシャルアプリ_&#x200B;を使用すると、リー
 
 ## リッチ投稿オプションの選択 {#select-rich-post-options}
 
-ランディングページからの共有によって生成される Facebook リッチ投稿について、使用するページ情報のタイプを指定できます。
+ランディングページの共有で生成される [!DNL Facebook] しいリッチ投稿で使用するページ情報のタイプを指定できます。
 
-1. **YouTube** 動画またはソーシャルボタン用のエディターで、「**Facebook メッセージ**」を選択します。
+1. ***[!UICONTROL ビデオまたはソーシャルボタンのエディターで]** Facebook メッセージ *[!DNL YouTube*]*」を選択します。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. Facebook メッセージについて、以下のオプションを選択します。
+1. [!DNL Facebook] メッセージに対して次のオプションから選択します。
 
    * 静的コンテンツの追加：タイトル、キャプション、説明を手動で入力するには、このオプションを選択します。
 
@@ -43,27 +43,27 @@ Marketo の&#x200B;_ソーシャルアプリ_&#x200B;を使用すると、リー
 
    >[!NOTE]
    >
-   >これらのタグは、ページのソースにあらかじめ存在している必要がありますが、より厳密に制御するために、特定の Facebook OG タグをランディングページに追加することができます。
+   >これらは既にページソースに存在しているはずですが、より詳細に制御するには、ランディングページに特定の [!DNL Facebook] OG タグを追加します。
 
-   * リッチコンテンツを追加しない：ランディングページからの Facebook 投稿を、メインのメッセージとリンクだけに制限します。
+   * リッチコンテンツを追加しない：ランディングページからの [!DNL Facebook] 投稿をメインメッセージとリンクのみに制限します。
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
-## ランディングページへの Facebook OG タグの追加 {#add-facebook-og-tags-to-a-landing-page}
+## ランディングページへの [!DNL Facebook] OG タグの追加 {#add-facebook-og-tags-to-a-landing-page}
 
-ランディングページから Facebook 共有に含まれるページ要素を制御するには、ランディングページにタイトル、キャプションおよび説明用の Facebook OG（Open Graph）タグを追加します。
+ランディングページから [!DNL Facebook] 共有に含めるページ要素を制御するには、タイトル、キャプション、説明の OG （グラフを開く）タグ [!DNL Facebook] ランディングページに追加します。
 
-1. **YouTube ビデオ**&#x200B;またはソーシャルボタンを含むランディングページを開きます。
+1. **[!DNL YouTube]ビデオ** またはソーシャルボタンを含むランディングページを開きます。
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   **ランディングページデザイナー**&#x200B;が新しいウィンドウで開きます。
+   **[!UICONTROL ランディングページデザイナー]**&#x200B;が新しいウィンドウで開きます。
 
-1. **ランディングページのアクション**／**ページメタタグを編集**&#x200B;を選択します。
+1. **[!UICONTROL ランディングページのアクション]**／**[!UICONTROL ページメタタグを編集]**&#x200B;を選択します。
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
-1. og:title、og:caption、og:description を定義する HTML を追加します。次の行をコピー＆ペーストして、プレースホルダーテキストを置き換えます。
+1. og:title、og:caption、og:description を定義するHTMLを追加します。 次の行をコピー＆ペーストして、プレースホルダーテキストを置き換えます。
 
    `<meta property="og:title" content="My Post Title"/>`
 

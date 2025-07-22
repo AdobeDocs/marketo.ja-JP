@@ -4,22 +4,22 @@ description: Microsoft Dynamics からの Marketo セールスメールの送信
 title: Microsoft Dynamics からの Marketo セールスメールの送信
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: a571a312477c6c1b08241ef2cfb011ce525fba07
-workflow-type: ht
-source-wordcount: '166'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 69%
 
 ---
 
-# Microsoft Dynamics からの Marketo セールスメールの送信 {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# [!DNL Marketo Sales] から [!DNL Microsoft Dynamics] E メールを送信 {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-セールスチームは、Microsoft Dynamics からメールを送信し、直接開封数とクリック数をトラックできます。手順は以下のとおりです。
+営業チームは、メールを送信し、[!DNL Microsoft Dynamics] 内から直接、開封数とクリック数の追跡を受けることができます。 手順は次のとおりです。
 
-1. Dynamics で、**セールス**&#x200B;領域に移動します。
+1. [!DNL Dynamics] では、**[!UICONTROL 営業]** エリアに移動します。
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. 「**システム表示**」を選択します。
+1. 「**[!UICONTROL システム表示]**」を選択します。
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. 「**...**」タブで「**Marketo メールを送信**」をクリックします。
+1. 「**...**」タブで「**[!UICONTROL Marketo メールを送信]**」をクリックします。
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
@@ -35,7 +35,7 @@ ht-degree: 100%
    >
    >[メールをテンプレートとして公開](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)すると、セールスチームが使用できるようになります。
 
-1. 件名を追加し、メールを作成して、「**メールを送信**」をクリックします。（テンプレートが必要な場合は選択します。）
+1. 件名を追加し、メールを作成して、「**[!UICONTROL メールを送信]**」をクリックします。（テンプレートが必要な場合は選択します。）
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
@@ -47,8 +47,8 @@ ht-degree: 100%
    >
    >一度に最大 300 通の Marketo メールを送信できます。
 
-これで完了です。これで、Marketo Dynamics から Marketo でトラッキングできるメールを直接送信する方法を理解できました。
+これで完了です。これで、Marketoでトラッキングされたメールを [!DNL Microsoft Dynamics] 内から直接送信する方法がわかりました。
 
 >[!MORELIKETHIS]
 >
->[Microsoft Dynamics から Marketo Campaign へのリード／連絡先の追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[Marketo キャンペーンへのリード/連絡先の追加： [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)

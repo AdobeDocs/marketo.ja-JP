@@ -4,20 +4,20 @@ description: Salesforce Enterprise／Unlimited エディションでの Marketo 
 title: Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 3cbefabe80778b0502eaecd733b5732fd9003316
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 100%
+source-wordcount: '867'
+ht-degree: 90%
 
 ---
 
-# Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定 {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
+# [!DNL Marketo Sales Insight] Enterprise/Unlimited での [!DNL Salesforce] の設定 {#configure-marketo-sales-insight-in-salesforce-enterprise-unlimited}
 
 次の手順を実行して、Salesforce Enterprise／Unlimited エディションで Marketo Sales Insight を設定します。
 
 >[!PREREQUISITES]
 >
->[Salesforce AppExchange での Marketo Sales Insight パッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>[Install [!DNL Marketo Sales Insight] Package in [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ ht-degree: 100%
    >
    >このウィンドウは開いたままにしておきます。この情報は、後で Salesforce の設定で必要になります。
 
-## Salesforce での Sales Insight の設定 {#configure-sales-insight-in-salesforce}
+## [!DNL Sales Insight] での [!DNL Salesforce] の設定 {#configure-sales-insight-in-salesforce}
 
 1. Salesforce で、「**[!UICONTROL 設定]**」をクリックします。
 
@@ -221,9 +221,9 @@ Salesforce のセキュリティ強化により、AppExchange パッケージは
 
 1. Salesforce で、タブバーの最後にある「**+**」をクリックし、「**[!UICONTROL Marketo Sales Insight の設定]**」をクリックします。
 
-1. の Soap API パネルから資格情報をコピーします。[Marketo Sales Insight 管理ページ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}をクリックし、Salesforce Sales Insight 設定ページの「SOAP API」セクションに貼り付けます。
+1. [Marketoの Sales Insight管理ページの Soap API パネルから資格情報をコピーして ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}[!DNL Salesforce] [!DNL Sales Insight] Configuration ページの Soap API セクションに貼り付けます。
 
-1. の Rest API パネルから資格情報をコピーします。[Marketo Sales Insight 管理ページ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}をクリックし、Salesforce Sales Insight 設定ページの Rest API セクションに貼り付けます。
+1. [Marketoの Sales Insight管理ページの Rest API パネルから資格情報をコピーして ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}[!DNL Salesforce] [!DNL Sales Insight] Configuration ページの Rest API セクションに貼り付けます。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
@@ -231,7 +231,7 @@ Marketo Sales Insight フィールドで、リード、取引先責任者、ア�
 
 >[!NOTE]
 >
->診断テストが失敗した場合は、[ページレイアウトにフィールドを追加](https://nation.marketo.com:443/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"}すると問題が修正される可能性があります。
+>診断テストが失敗した場合は、[ ページレイアウトにさらにフィールドを追加する ](https://nation.marketo.com:443/t5/knowledgebase/how-to-repair-marketo-sales-insight-setup-configuration-problems/ta-p/248218){target="_blank"} ことで問題が解決する可能性があります。
 
 >[!NOTE]
 >
@@ -240,5 +240,5 @@ Marketo Sales Insight フィールドで、リード、取引先責任者、ア�
 >[!MORELIKETHIS]
 >
 >* [優先度、緊急度、相対スコア、最有望見込客](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [Salesforce への「Marketo」タブの追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
+>* [ 「Marketo」タブを追加  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
 >* [Sales Insight へのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

@@ -4,7 +4,7 @@ description: メールレポートをセグメンテーション別にグルー�
 title: メールレポートをセグメンテーション別にグループ化する
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 100%
@@ -19,23 +19,23 @@ ht-degree: 100%
 >
 >[セグメンテーションの承認](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. **マーケティング活動**（または **Analytics** エリア）に移動します。
+1. **[!UICONTROL マーケティング活動]**（または **[!UICONTROL Analytics]** エリア）に移動します。
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. **メールの効果**&#x200B;レポートを選択します。
+1. **[!UICONTROL メールの効果]**&#x200B;レポートを選択します。
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. 「**設定**」タブをクリックして、**「セグメンテーション別**」をドラッグします。
+1. 「**[!UICONTROL 設定]**」タブをクリックして、**[!UICONTROL 「セグメンテーション別]**」をドラッグします。
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. レポートをグループ化するのに使用するセグメンテーションを 1 つまたは 2 つ選択します。「**適用**」をクリックします。
+1. レポートをグループ化するのに使用するセグメンテーションを 1 つまたは 2 つ選択します。「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. これで完了です。「**レポート**」タブをクリックします。1 つのセグメンテーションを使用する場合、レポートには各セグメントに対して 1 行が表示されます。
+1. これで完了です。「**[!UICONTROL レポート]**」タブをクリックします。1 つのセグメンテーションを使用する場合、レポートには各セグメントに対して 1 行が表示されます。
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

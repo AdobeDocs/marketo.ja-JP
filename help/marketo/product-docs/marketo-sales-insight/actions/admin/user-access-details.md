@@ -3,10 +3,10 @@ description: ユーザアクセスの詳細 - Marketo ドキュメント - 製�
 title: ユーザアクセスの詳細
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ![](assets/user-access-details-4.png)
 
-管理者は、「次のユーザとして表示」ドロップダウンで、ユーザのキャンペーンおよびキャンペーンカテゴリを表示できます。
+管理者は、「表示形態 [!UICONTROL  ドロップダウンを使用して、ユーザーキャンペーンおよびキャンペーンカテゴリを表示 ] きます。
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,18 @@ ht-degree: 100%
    * ユーザは所属するチームのみの詳細を表示できます
    * ユーザは独自の分析を表示できます
 
-* 人物ページ：
+* [!UICONTROL People] ページ：
 
    * ユーザは全員とグループを共有できます
    * ユーザは、所属するチームとのみグループを共有できます
    * ユーザは、アクションデータベース内のすべてのユーザを表示できます
    * ユーザが削除されると、そのユーザの共有取引先責任者は、そのユーザを削除したマスター管理者に所有権を転送します
 
-* チーム管理ページ：
+* [!UICONTROL  チーム ] 管理ページ：
 
    * 表示できません
 
-* テンプレートページ：
+* [!UICONTROL  テンプレート ] ページ：
 
    * ユーザは全員とテンプレートを共有できます
    * ユーザは、管理者が許可するカテゴリにテンプレートを共有できます

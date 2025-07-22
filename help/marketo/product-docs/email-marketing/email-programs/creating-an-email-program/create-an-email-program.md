@@ -4,10 +4,10 @@ description: メールプログラムの作成 - Marketo ドキュメント - �
 title: メールプログラムの作成
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -15,21 +15,21 @@ ht-degree: 100%
 
 メールプログラムを使用して、メールをグループにすばやく簡単に送信できます。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/one.png)
 
-1. プログラムを作成するフォルダーを選択し、**新規**&#x200B;ドロップダウンで、「**新規プログラム**」を選択します。
+1. プログラムを作成するフォルダーを選択し、**[!UICONTROL 新規]**&#x200B;ドロップダウンで、「**[!UICONTROL 新規プログラム]**」を選択します。
 
    ![](assets/two.png)
 
-1. 名前を入力し、「プログラムタイプ」で「**メール**」を選択し、「**作成**」をクリックします。
+1. 名前を入力し、**[!UICONTROL プログラムの種類]** として [!UICONTROL  メール ] を選択し、**[!UICONTROL 作成]** をクリックします。
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >「プログラムタイプ」として「**メール**」を選択すると、「チャネル」は自動的に「**メール送信**」に設定されます。必要に応じてこれを変更できます。
+   >「プログラムタイプ」として「**[!UICONTROL メール]**」を選択すると、「チャネル」は自動的に「**[!UICONTROL メール送信]**」に設定されます。必要に応じてこれを変更できます。
 
    ![](assets/four.png)
 

@@ -4,7 +4,7 @@ description: メールリンクにトークンを追加する — Marketo ドキ
 title: メールリンクにトークンを追加する
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 リンクに追加のパラメーターやユーザー固有のパラメーターを挿入する場合は、トークンを使用できます。手順は以下のとおりです。
 
-1. メールを選択して「**ドラフトを編集**」タブをクリックします。
+1. メールを選択して「**[!UICONTROL ドラフトを編集]**」タブをクリックします。
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ ht-degree: 100%
 
    ![](assets/two.png)
 
-1. リンクのテキストを指定または書き込みます。ハイライト表示し、**リンクの挿入／編集**&#x200B;アイコンをクリックします。
+1. リンクのテキストを指定または書き込みます。ハイライト表示し、**[!UICONTROL リンクの挿入／編集]**&#x200B;アイコンをクリックします。
 
    ![](assets/three.png)
 
-1. 目的のトークンを「**URL**」に入力して、「**挿入**」をクリックします。
+1. 目的のトークンを「**[!UICONTROL URL]**」に入力して、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/four.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/five.png)
 

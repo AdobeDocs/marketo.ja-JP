@@ -4,7 +4,7 @@ description: キャンペーンリストを別のユーザとして表示 - Mark
 title: キャンペーンリストを別のユーザとして表示
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
@@ -19,11 +19,11 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. Web アプリケーションで、「**キャンペーン**」をクリックします。
+1. Web アプリケーションで、「**[!UICONTROL キャンペーン]**」をクリックします。
 
    ![](assets/one-5.png)
 
-1. 「**次のユーザとして表示**」ドロップダウンリストをクリックし、目的のユーザを選択します。
+1. 「**[!UICONTROL 次のユーザとして表示]**」ドロップダウンリストをクリックし、目的のユーザを選択します。
 
    ![](assets/two-4.png)
 

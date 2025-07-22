@@ -4,16 +4,16 @@ description: Microsoft Dynamics 2015 オンプレミス向け Marketo インス�
 title: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 1 / 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '287'
+ht-degree: 77%
 
 ---
 
 # 手順 1 / 3：Marketo（2015 オンプレミス）の同期ユーザーの設定 {#step-of-configure-sync-user-for-marketo-on-premises-2015}
 
-Microsoft Dynamics 2015 オンプレミスと Marketo Engage を同期する前に、Dynamics に Marketo ソリューションをインストールする必要があります。
+2015 オンプレミス [!DNL Microsoft Dynamics]Marketoと同期する前に、まず [!DNL Dynamics] にMarketo ソリューションをインストールする必要があります。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Microsoft Dynamics 2015 オンプレミスと Marketo Engage を同期する前�
 
 >[!PREREQUISITES]
 >
->Microsoft Dynamics オンプレミスを使用している場合は、[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0 以降（ADFS）が設定された、[インターネットに接続する展開](https://learn.microsoft.com/ja-jp/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"}（IFD）が構成されている必要があります。注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
+>[!DNL Microsoft Dynamics] オンプレミスを使用している場合は、[Active Directory フェデレーション サービス ](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) 2.0 以降（ADFS）が構成された [ インターネット接続展開 ](https://msdn.microsoft.com/en-us/library/bb897402.aspx) （IFD）が必要です。 注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
 >
 >始める前に、[Marketo リード管理ソリューションをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}します。
 
@@ -31,7 +31,7 @@ Microsoft Dynamics 2015 オンプレミスと Marketo Engage を同期する前�
 >
 >この同期を実行するには、CRM 管理者権限が必要です。
 
-1. Dynamics にログインします。「**[!UICONTROL Microsoft Dynamics CRM]**」ドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。
+1. **[!DNL Dynamics]にログインします。**「**[!UICONTROL Microsoft Dynamics CRM]**」ドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -47,7 +47,7 @@ Microsoft Dynamics 2015 オンプレミスと Marketo Engage を同期する前�
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. ソリューション情報を表示し、「**[!UICONTROL ソリューションパッケージ詳細を表示]**」をクリックします。
+1. [!UICONTROL  ソリューション情報 ] を表示し、「**[!UICONTROL ソリューションパッケージの詳細を表示]**」をクリックします。
 
    ![](assets/image2015-11-18-11-12-8.png)
 
@@ -55,7 +55,7 @@ Microsoft Dynamics 2015 オンプレミスと Marketo Engage を同期する前�
 
    ![](assets/step6.png)
 
-1. ソリューション情報ページに戻り、「**[!UICONTROL 次へ]**」をクリックします。
+1. [!UICONTROL  ソリューション情報 ] ページに戻り、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-3-19-9-21-50.png)
 
@@ -95,4 +95,4 @@ Microsoft Dynamics 2015 オンプレミスと Marketo Engage を同期する前�
 
    >[!MORELIKETHIS]
    >
-   >[Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md){target="_blank"}
+   >[Marketo for [!DNL Microsoft Dynamics] 2015 オンプレミスのインストール手順 2/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)

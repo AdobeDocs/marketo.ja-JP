@@ -3,15 +3,15 @@ description: Sales Insight Actions にすべての取引先責任者がプッシ
 title: Sales Insight Actions にすべての取引先責任者がプッシュされない理由
 exl-id: 5f0a4a66-7650-43c6-a8ea-4f991f4048fd
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '89'
+ht-degree: 47%
 
 ---
 
-# Sales Insight Actions にすべての取引先責任者がプッシュされない理由 {#why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions}
+# 連絡先のすべてが [!DNL Sales Insight Actions] にプッシュされなかったのはなぜですか？ {#why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions}
 
-一部の取引先責任者のみがプッシュされている場合、プッシュされなかった取引先責任者が、お客様の会社の Salesforce インスタンスで「メールオプトアウト」としてマークされている可能性があります。
+一部の連絡先のみがプッシュオーバーしている場合は、会社の [!DNL Salesforce] インスタンスで一部の連絡先のみが「メールオプトアウト」としてマークされていない可能性があります。
 
-グループ全体がプッシュされなかった詳しい理由について、アラートアイコンを確認してください。お客様の会社の Salesforce 設定に関連する理由については、SFDC 管理者にお問い合わせください。
+グループ全体がプッシュされなかった詳しい理由について、アラートアイコンを確認してください。会社の [!DNL Salesforce] 設定に関連する理由については、SFDC管理者にお問い合わせください。

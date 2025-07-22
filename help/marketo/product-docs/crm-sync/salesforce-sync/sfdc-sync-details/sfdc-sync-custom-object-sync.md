@@ -4,16 +4,16 @@ description: SFDC 同期 - カスタムオブジェクトの同期 - Marketo ド
 title: SFDC 同期 - カスタムオブジェクトの同期
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
-workflow-type: ht
-source-wordcount: '302'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '297'
+ht-degree: 79%
 
 ---
 
 # SFDC 同期：カスタムオブジェクトの同期 {#sfdc-sync-custom-object-sync}
 
-Salesforce インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。その設定方法を説明しましょう。
+[!DNL Salesforce] インスタンスで作成されたカスタムオブジェクトは、Marketoの一部にすることもできます。  その設定方法を説明しましょう。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
 >[!PREREQUISITES]
 >
->カスタムオブジェクトを使用するには、カスタムオブジェクトは Salesforce で[リード](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}、[連絡先](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}、[アカウント](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"}オブジェクトのいずれかに関連付けられている必要があります。
+>カスタムオブジェクトを使用するには、[ 内の ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)lead[、](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)contact[ または ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)account[!DNL Salesforce] オブジェクトに関連付ける必要があります。
 
 >[!IMPORTANT]
 >
@@ -43,7 +43,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    >[!NOTE]
    >
-   >Salesforce カスタムオブジェクトスキーマの初期同期には、数分かかる場合があります。
+   >[!DNL Salesforce] カスタムオブジェクトスキーマの初期同期には、数分かかる場合があります。
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -67,7 +67,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
    >
    >忘れずにグローバル同期を再度有効にしてください。
 
-1. 「**Salesforce**」タブに戻ります。
+1. 「**[!UICONTROL Salesforce]**」タブに戻ります。
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
@@ -75,7 +75,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. すべての Salesforce カスタムオブジェクトを表示するには、**[!UICONTROL 管理者]**／**[!UICONTROL Salesforce オブジェクト同期]**&#x200B;リンクをクリックします（上記の手順 1 と同じ）。
+1. [!DNL Salesforce] のカスタムオブジェクトをすべて表示するには、「**[!UICONTROL 管理者]** と **[!UICONTROL Salesforce オブジェクト同期]** リンク（上記の手順 1 と同じ）をクリックします。
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

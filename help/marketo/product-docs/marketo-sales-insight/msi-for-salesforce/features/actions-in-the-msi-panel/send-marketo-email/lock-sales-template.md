@@ -4,10 +4,10 @@ description: セールステンプレートのロック - Marketo ドキュメ�
 title: セールステンプレートのロック
 exl-id: 005dde5d-ed60-444b-b7a3-b91be72a0151
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 100%
+source-wordcount: '210'
+ht-degree: 84%
 
 ---
 
@@ -17,7 +17,7 @@ CRM ユーザーがセールステンプレートを編集できないように�
 
 >[!CAUTION]
 >
->この機能は Salesforce でのみ機能し、Microsoft Dynamics やその他の CRM とは互換性がありません。Outlook または Gmail プラグインからアクセスするテンプレートは、Marketo では制御されないので、ロックされません。
+>この機能は [!DNL Salesforce] でのみ機能し、[!DNL Microsoft Dynamics] または他の CRM とは互換性がありません。 エディターはMarketoで制御されないので、[!DNL Outlook] または Gmail プラグインからアクセスするテンプレートはロックされません。
 
 ## テンプレートのロックを有効にする {#enable-lock-template}
 
@@ -25,15 +25,15 @@ CRM ユーザーがセールステンプレートを編集できないように�
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」に移動し、「**Sales Insight**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」に移動し、「**[!UICONTROL Sales Insight]**」をクリックします。
 
    ![](assets/1.png)
 
-1. 「**設定**」で、「**編集**」をクリックします。
+1. 「**[!UICONTROL 設定]**」で、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/2.png)
 
-1. 「**テンプレートをロックする機能を有効化**」をチェックします。「**保存**」をクリックします。
+1. 「**[!UICONTROL テンプレートをロックする機能を有効化]**」をチェックします。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -47,15 +47,15 @@ CRM ユーザーがセールステンプレートを編集できないように�
 
 ## メールエディターでテンプレートをロック {#lock-template-in-the-email-editor}
 
-1. ロックするメールを選択し、「**ドラフトを編集**」をクリックします。
+1. ロックするメールを選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/5.png)
 
-1. メールエディターで、「**メール設定**」をクリックします。
+1. メールエディターで、「**[!UICONTROL メール設定]**」をクリックします。
 
    ![](assets/6.png)
 
-1. まだチェックされていない場合は、「**Marketo Sales Insight に公開**」にチェックを入れます。これで、「**CRM ユーザーにメールの編集を許可する**」のチェックを外して、テンプレートをロックできます。「**保存**」をクリックします。
+1. まだチェックされていない場合は、「**[!UICONTROL Marketo Sales Insight に公開]**」にチェックを入れます。これで、「**[!UICONTROL CRM ユーザーにメールの編集を許可する]**」のチェックを外して、テンプレートをロックできます。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/7.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12980661
-description: Google カスタマーマッチを LaunchPoint サービスとして追加 - Marketo ドキュメント - 製品ドキュメント
-title: Google カスタマーマッチを LaunchPoint サービスとして追加
+description: Google Customer Match as a [!DNL LaunchPoint] Service の追加 – Marketo ドキュメント – 製品ドキュメント
+title: Google Customer Match as a Service [!DNL LaunchPoint]  追加
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 583e08fdc2e7d3fa743faf35e96c6d10f38a6ea0
-workflow-type: ht
-source-wordcount: '196'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '181'
+ht-degree: 38%
 
 ---
 
-# Google カスタマーマッチを LaunchPoint サービスとして追加 {#add-google-customer-match-as-a-launchpoint-service}
+# Google Customer Match as a [!DNL LaunchPoint] Service の追加 {#add-google-customer-match-as-a-launchpoint-service}
 
-この統合により、Marketo Engage オーディエンスを Google に送信し、Google AdWords を使用してターゲットを設定したり、YouTube、検索、Gmail 全体でオーディエンスを再ターゲットしたりすることができます。
+この統合を使用すると、[!DNL Google AdWords] を使用してターゲット設定するMarketo オーディエンスをGoogleに送信したり、YouTube、検索、[!DNL Gmail] 全体でオーディエンスを再ターゲットしたりできます。
 
 >[!NOTE]
 >
@@ -35,15 +35,15 @@ ht-degree: 100%
 
    ![](assets/chooseservice.png)
 
-1. Google AdWords アカウントに接続するには、「****&#x200B;許可」をクリックします。
+1. [!DNL Google AdWords] アカウントに接続するには、「**[!UICONTROL 認証]**」をクリックします。
 
    ![](assets/authorizeaccount-1.png)
 
-1. Google が新しいタブで開きます。ここから、Google AdWords アカウントにログインします。
+1. Google が新しいタブで開きます。ここから [!DNL Google AdWords] アカウントにログインします。
 
    >[!CAUTION]
    >
-   >Marketo が複数の AdWords アカウント間でオーディエンスを送信するには、次の手順で承認した Google ユーザが、これらのアカウントの&#x200B;_すべて_&#x200B;にアクセスできる必要があります。
+   >Marketoが複数の [!DNL AdWords] アカウントにわたってオーディエンスを送信するには、次の手順で承認するGoogle ユーザーがこれらのアカウントの _すべて_ にアクセスできる必要があります。
 
    ![](assets/chooseaccount.png)
 
@@ -51,11 +51,11 @@ ht-degree: 100%
 
    ![](assets/reviewpermissions.png)
 
-1. これで、Google AdWords アカウントが Marketo に接続されました。「**[!UICONTROL 作成]**」をクリックします。
+1. これで、[!DNL Google AdWords] アカウントがMarketoに接続されました。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/authorizesuccess.png)
 
-   これで完了です。これで、「インストール済みのサービス」タブに LaunchPoint サービスとして「Google 一致したオーディエンス」が表示されます。
+   これで完了です。「インストール済みサービス」タブに、Googleで一致したオーディエンスが [!DNL LaunchPoint] サービスとして表示されます。
 
 >[!NOTE]
 >

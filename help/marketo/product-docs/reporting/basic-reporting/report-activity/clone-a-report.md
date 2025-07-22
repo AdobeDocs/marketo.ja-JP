@@ -4,7 +4,7 @@ description: レポートを複製する - Marketo ドキュメント - 製品�
 title: レポートを複製する
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 レポートの複製を作成すると、元のレポートを変更せずにカスタマイズすることができます。
 
-1. **マーケティング活動**（または **Analytics**）エリアに移動します。
+1. **[!UICONTROL マーケティング活動]**（または **[!UICONTROL Analytics]**）エリアに移動します。
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. レポートを選択します。**レポートのアクション**／ **レポートの複製**&#x200B;を選択します。
+1. レポートを選択します。**[!UICONTROL レポートのアクション]**／ **[!UICONTROL レポートの複製]**&#x200B;を選択します。
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 

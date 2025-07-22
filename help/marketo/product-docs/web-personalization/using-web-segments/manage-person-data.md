@@ -4,22 +4,22 @@ description: リードデータの管理 - Marketo ドキュメント - 製品�
 title: リードデータの管理
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 100%
+source-wordcount: '196'
+ht-degree: 86%
 
 ---
 
 # リードデータの管理 {#manage-person-data}
 
-セグメントで使用するリードフィールドを選択して、ウェブパーソナライズでリードデータを活用します。
+セグメント化で使用する人物フィールドを選択して、[!DNL Web Personalization] ーザーの人物データを活用します。
 
-1. 「**アカウント設定**」に移動します。
+1. 「**[!UICONTROL アカウント設定]**」に移動します。
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. **データベース**&#x200B;に移動します。
+1. **[!UICONTROL データベース]**&#x200B;に移動します。
 
    ![](assets/account-settings-dropdown-database.jpg)
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 ## リードフィールドの削除 {#deleting-a-person-field}
 
-1. 削除アイコン（![—](assets/image2015-3-24-13-3a45-3a56.png)）をクリックして、リストからフィールドを削除します。「**はい**」をクリックして、フィールドの削除を確認します。
+1. 削除アイコン（![—](assets/image2015-3-24-13-3a45-3a56.png)）をクリックして、リストからフィールドを削除します。「**[!UICONTROL はい]**」をクリックして、フィールドの削除を確認します。
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -93,13 +93,13 @@ ht-degree: 100%
   </tr> 
   <tr> 
    <td><p>unsubscribed</p></td> 
-   <td><p>Unsubscribed</p></td> 
-   <td><p>Unsubscribed</p></td> 
+   <td><p>登録解除済み</p></td> 
+   <td><p>登録解除済み</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-新しいウェブパーソナライズアカウント用に、次のリードフィールドが標準で提供されています。
+新しい [!DNL Web Personalization] アカウントには、次のリードフィールドが標準で提供されています。
 
 >[!MORELIKETHIS]
 >

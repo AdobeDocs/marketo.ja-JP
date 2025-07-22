@@ -3,16 +3,16 @@ description: メール接続のスロットリング - Marketo ドキュメン�
 title: メール接続のスロットリング
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
-workflow-type: ht
-source-wordcount: '419'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '404'
+ht-degree: 78%
 
 ---
 
 # メール接続のスロットリング {#email-connection-throttling}
 
-Sales Connect アカウントを統合して、Exchange または Gmail のメールプロバイダーを通じて送信すると、1:1 のセールス通信のための合理化された設定とメール配信品質の最適化が可能です。ただし、システムの健全性とアカウントの安全性を維持するために、Gmail と Exchange ではメール送信の制限が実施されます。これらの制限は、プロバイダーの裁量によって増減することができます。
+[!DNL Sales Connect] アカウントを統合して [!DNL Exchange] または Gmail メールプロバイダーを通じて送信すると、設定が合理化され、1:1 のセールスコミュニケーション向けにメール配信品質が最適化されます。 ただし、システムを正常な状態に保ち、アカウントを安全に保つため、Gmail と [!DNL Exchange] ではメール送信制限を適用しています。 これらの制限は、プロバイダーの裁量によって増減することができます。
 
 ## メール接続のスロットリング（ベータ版） {#email-connection-throttling-beta}
 
@@ -22,22 +22,22 @@ Sales Connect アカウントを統合して、Exchange または Gmail のメ�
 
 **メモ／ハイライト**
 
-* ユーザが Gmail または Exchange に接続すると自動的に有効化されます
+* ユーザーが Gmail または [!DNL Exchange] に接続すると、自動的に有効になります
 * ニーズに合わせてレコメンデーションの設定を増減する場合は、カスタマイズ可能です
-* Gmail または Exchange を通じて送信されるメールのみスロットリングし、カスタム配信チャネルをスロットリングしません
+* Gmail または [!DNL Exchange] を介して送信されるメールのみをスロットルし、カスタム配信チャネルではスロットルしません
 * メール接続のスロットリングは、各ユーザがメールプロバイダーと独自に接続しているため、各ユーザのメールを個別にキューイングします
 
 **メール接続のスロットリングの設定**
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/email-connection-throttling-1.png)
 
-1. 「管理設定」で、「**一般**」をクリックします。
+1. [!UICONTROL  管理者設定 ] で **[!UICONTROL 一般]** をクリックします。
 
    ![](assets/email-connection-throttling-2.png)
 
-1. 右側の「メール接続のスロットリング」カードで、「**メールのスロットリングを有効にする**」スライダーをクリックします。
+1. 右側の「メール接続のスロットリング」カードで、「**[!UICONTROL メールのスロットリングを有効にする]**」スライダーをクリックします。
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -49,15 +49,15 @@ Sales Connect アカウントを統合して、Exchange または Gmail のメ�
 
    ![](assets/email-connection-throttling-5.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/email-connection-throttling-6.png)
 
-変更を保存すると、すべてのユーザは、接続された Gmail または Exchange アカウントに一括でメールを送信して配信できます。
+変更を保存すると、すべてのユーザーは、接続された Gmail アカウントまたは [!DNL Exchange] アカウントにメールをバッチで送信して配信できます。
 
 ## メールプロバイダーの制限 {#email-provider-limits}
 
-**Outlook 365**
+**[!DNL Outlook 365]**
 
 ビジネス／エンタープライズ
 
@@ -75,7 +75,7 @@ Sales Connect アカウントを統合して、Exchange または Gmail のメ�
 
 詳しくは[こちら](https://support.google.com/a/answer/166852?hl=jp)をご覧さい。
 
-**Microsoft Exchange Server（2010、2013）**
+**[!DNL Microsoft Exchange Server (2010, 2013)]**
 
 サーバーが組織でホストされるので、制限は組織の IT 部門によって設定されます。必要に応じて、ネットワーク管理者またはシステム管理者に問い合わせてください。
 

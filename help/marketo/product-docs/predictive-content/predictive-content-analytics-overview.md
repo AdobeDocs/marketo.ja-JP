@@ -4,10 +4,10 @@ description: 予測コンテンツ分析の概要 - Marketo ドキュメント -
 title: 予測コンテンツ分析の概要
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 100%
+ht-degree: 79%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->「分析」タブおよびコンテンツ分析機能は、Marketo Predictive Content でのみ使用できます。
+>[!UICONTROL Analytics] タブとコンテンツ分析機能は、Marketo予測コンテンツでのみ使用できます。
 
 ## 概要 {#overview}
 
-概要ページで、「**分析**」をクリックします。
+概要ページで、「**[!UICONTROL 分析]**」をクリックします。
 
 ![](assets/one.png)
 
-分析は、複数のセクション（最も閲覧数の多いコンテンツ、コンバージョン率の最も高いコンテンツ、トレンディングコンテンツ、推奨コンテンツ、コンテンツ）で構成されます。
+[!UICONTROL Analytics] は、[!UICONTROL  ビュー別のトップコンテンツ ]、[!UICONTROL  コンバージョン率によるトップコンテンツ ]、[!UICONTROL  トレンドコンテンツ ]、[!UICONTROL  提案コンテンツ ]、[!UICONTROL  コンテンツ ] の複数のセクションで構成されます。
 
 ![](assets/new-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 100%
 
 ![](assets/new-3point5.png)
 
-様々な属性／プロパティ（ABM アカウントリスト、国など）で結果をフィルタリングできます。
+様々な属性/プロパティ（[!UICONTROL ABM アカウントリスト ]、[!UICONTROL  国 ] など）で結果をフィルタリングできます。
 
 ![](assets/pca.png)
 
@@ -45,13 +45,13 @@ ht-degree: 100%
 
 ![](assets/dates.png)
 
-## 最も閲覧数の多いコンテンツ {#top-content-by-views}
+## [!UICONTROL  ビュー別の上位コンテンツ ] {#top-content-by-views}
 
 選択した日付範囲あたりの閲覧回数が最も多いコンテンツを表示します。
 
 ![](assets/new-6.png)
 
-## コンバージョン率の最も高いコンテンツ {#top-content-by-conversion-rate}
+## [!UICONTROL  コンバージョン率別の上位コンテンツ ] {#top-content-by-conversion-rate}
 
 選択した日付範囲のコンバージョン率を基準に、コンバージョン率の最も高いコンテンツを表示します。
 
@@ -63,13 +63,13 @@ ht-degree: 100%
 >
 >**コンバージョン率**：ダイレクトコンバージョンをクリック数で割って計算した割合.
 
-## トレンディングコンテンツ {#trending-content}
+## [!UICONTROL  コンテンツのトレンド ] {#trending-content}
 
 過去 2 週間とその前の 2 週間の閲覧回数を比較し、コンテンツの人気上昇を表示します。
 
 ![](assets/new-8.png)
 
-## 推奨コンテンツ {#suggested-content}
+## [!UICONTROL  提案内容 ] {#suggested-content}
 
 お客様が定義したフィルターに基づき、マーケティング活動での促進を提案するコンテンツを表示します。
 
@@ -81,9 +81,9 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->下のアイコンが見えますか？左から右に、コンテンツを表示、CSV への書き出し、コンテンツを承認が表示されます。
+>下のアイコンが見えますか？左から右は、[!UICONTROL  コンテンツを表示 ]、[!UICONTROL CSV に書き出し ]、[!UICONTROL  コンテンツを承認 ] です。
 
-## コンテンツ {#content}
+## [!UICONTROL コンテンツ] {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 

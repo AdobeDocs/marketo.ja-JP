@@ -4,8 +4,8 @@ description: リストおよびスマートリストのビューの作成と変�
 title: リストおよびスマートリストのビューの作成と変更
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->素早く検索するには、「**検索**」ボックスを使用します。
+>素早く検索するには、「**[!UICONTROL 検索]**」ボックスを使用します。
 
 ## ビューを切り替える {#switch-views}
 
@@ -71,5 +71,5 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [システムスマートリストの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [ビルトイン／システムのスマートリストの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
 >* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

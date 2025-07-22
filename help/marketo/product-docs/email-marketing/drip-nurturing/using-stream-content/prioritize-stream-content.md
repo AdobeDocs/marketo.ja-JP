@@ -4,7 +4,7 @@ description: ストリームコンテンツの優先順位を決める — Marke
 title: ストリームコンテンツの優先順位を決める
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 ストリームにコンテンツを追加した後、優先度を変更できます。コンテンツは、常に各キャストで上から下へ配信され、同じリードに 2 回はコンテンツが送信されません。
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
    ![](assets/ma.png)
 
-1. エンゲージメントプログラムを選択して、「**ストリーム**」タブをクリックします。
+1. エンゲージメントプログラムを選択して、「**[!UICONTROL ストリーム]**」タブをクリックします。
 
    ![](assets/cloneasteam-1.jpg)
 

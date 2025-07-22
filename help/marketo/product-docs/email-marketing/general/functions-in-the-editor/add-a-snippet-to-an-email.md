@@ -4,7 +4,7 @@ description: メールにスニペットを追加する - Marketo ドキュメ�
 title: メールにスニペットを追加する
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
@@ -23,15 +23,15 @@ ht-degree: 100%
 >
 >スニペットには [Marketo メール構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)を埋め込むことはできません。これはメールでは動作&#x200B;**しません**。スニペットは本文コンテンツ（HTML+テキスト）にする必要があります。
 
-1. 目的のメールを選択して、「**ドラフトを編集**」をクリックします。
+1. 目的のメールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/one-2.png)
 
-1. スニペットに変換する編集可能領域を選択し、歯車アイコンをクリックして、「**スニペットに置換**」を選択します。
+1. スニペットに変換する編集可能領域を選択し、歯車アイコンをクリックして、「**[!UICONTROL スニペットに置換]**」を選択します。
 
    ![](assets/two-2.png)
 
-1. 任意のスニペットを選択し、「**保存**」をクリックします。
+1. 任意のスニペットを選択し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/three-1.png)
 

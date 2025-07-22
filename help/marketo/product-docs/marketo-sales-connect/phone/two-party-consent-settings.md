@@ -4,10 +4,10 @@ description: 二者間による同意の設定 - Marketo ドキュメント - �
 title: 二者間による同意の設定
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -19,19 +19,19 @@ ht-degree: 100%
 >
 >以下の手順に従う前に、まず[通話の録音](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md)を有効にする必要があります。
 
-1. 「設定」アイコンをクリックし、「**設定**」を選択します。
+1. 「設定」アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one-1.png)
 
-1. 「管理設定」で、「**一般**」をクリックします。
+1. [!UICONTROL  管理者設定 ] で **[!UICONTROL 一般]** をクリックします。
 
    ![](assets/two-1.png)
 
-1. 「Sales Connect 電話設定」まで下にスクロールし、「**録音通知の管理**」をクリックします。
+1. [!UICONTROL Sales Connect Phone Settings] までスクロールし、**[!UICONTROL Manage recording notice]** をクリックします。
 
    ![](assets/three-1.png)
 
-1. 「**録音をインポート**」をクリックします。
+1. 「**[!UICONTROL 録音をインポート]**」をクリックします。
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
    ![](assets/five.png)
 
-1. アップロードが完了したら、ファイルマネージャーで、縦並びの 3 つのドットを選択し、「**同意通知として選択**」をクリックします。終了したら「**OK**」をクリックします。
+1. アップロードが完了したら、ファイルマネージャーで、縦並びの 3 つのドットを選択し、「**[!UICONTROL 同意通知として選択]**」をクリックします。終了したら「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/six.png)
 

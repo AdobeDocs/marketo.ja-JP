@@ -3,14 +3,14 @@ description: Salesforce 同期エラー — Marketo ドキュメント — 製�
 title: Salesforce 同期エラー
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 100%
+source-wordcount: '178'
+ht-degree: 82%
 
 ---
 
-# Salesforce 同期エラー {#salesforce-sync-errors}
+# [!DNL Salesforce] 同期エラー {#salesforce-sync-errors}
 
 同期処理中に発生したエラーの概要を表示します。これには、互換性のないデータの同期に対する失敗によるエラーも含まれます。
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->レコードレベルのレコードをクリックすると、関連オブジェクトの Marketo ID および Salesforce ID が表示されます。場合によっては、レコードレベルおよびジョブレベルのエラーのメッセージは、Salesforce から直接送信されます。オンラインで検索すると、追加の詳細が表示される場合があります。
+>レコードレベルのレコードをクリックすると、Marketoと、関連オブジェクトの [!DNL Salesforce] ID が表示されます。 場合によっては、レコードおよびジョブレベルのエラーに関するメッセージが [!DNL Salesforce] から直接送信されます。 オンラインで検索すると、追加の詳細が表示される場合があります。
 
 ## 同期エラーのフィルタリング {#filter-sync-errors}
 

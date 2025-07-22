@@ -3,10 +3,10 @@ description: 二者間による同意の設定 - Marketo ドキュメント - �
 title: 二者間による同意の設定
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -18,19 +18,19 @@ ht-degree: 100%
 >
 >以下の手順に従う前に、まず[通話の録音](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md)を有効にする必要があります。
 
-1. 「設定」アイコンをクリックし、「**設定**」を選択します。
+1. 「設定」アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. 「管理設定」で、「**一般**」をクリックします。
+1. [!UICONTROL  管理者設定 ] で **[!UICONTROL 一般]** をクリックします。
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. 通話記録カードで、「**録画通知を管理**」をクリックします。
+1. [!UICONTROL  通話録音 ] カードで、「**[!UICONTROL 録画通知の管理]**」をクリックします。
 
    ![](assets/two-party-consent-settings-3.png)
 
-1. 「**録音をインポート**」をクリックします。
+1. 「**[!UICONTROL 録音をインポート]**」をクリックします。
 
    ![](assets/two-party-consent-settings-4.png)
 
@@ -42,7 +42,7 @@ ht-degree: 100%
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. アップロードが完了したら、ファイルマネージャーで、縦並びの 3 つのドットを選択し、「**同意通知として選択**」をクリックします。終了したら「**OK**」をクリックします。
+1. アップロードが完了したら、ファイルマネージャーで、縦並びの 3 つのドットを選択し、「**[!UICONTROL 同意通知として選択]**」をクリックします。終了したら「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/two-party-consent-settings-6.png)
 

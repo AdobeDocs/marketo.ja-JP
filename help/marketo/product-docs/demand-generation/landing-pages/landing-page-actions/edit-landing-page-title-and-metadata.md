@@ -4,7 +4,7 @@ description: ランディングページのタイトルとメタデータの編�
 title: ランディングページのタイトルとメタデータの編集
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Marketo を使用すると、ランディングページの [SEO 用のメタタグ](https://www.w3schools.com/tags/tag_meta.asp)を編集するだけではなく、HTML の `<head>` 部分をカスタマイズできます。
 
-1. ランディングページを選択して、「**ドラフトの編集**」をクリックします。
+1. ランディングページを選択して、「**[!UICONTROL ドラフトの編集]**」をクリックします。
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -23,11 +23,11 @@ Marketo を使用すると、ランディングページの [SEO 用のメタタ
    >
    >ランディングページデザイナーが新しいウィンドウで開きます。
 
-1. **ランディングページのアクション**／**ページメタタグを編集**&#x200B;を選択します。
+1. **[!UICONTROL ランディングページのアクション]**／**[!UICONTROL ページメタタグを編集]**&#x200B;を選択します。
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. ページの&#x200B;**タイトル**、**キーワード**、**説明**&#x200B;を入力します。目的の&#x200B;**ロボット**&#x200B;オプションを選択し、HTML の `<head>` セクションに必要なカスタムコンテンツを入力します。「**保存**」をクリックします。
+1. ページの&#x200B;**[!UICONTROL タイトル]**、**[!UICONTROL キーワード]**、**[!UICONTROL 説明]**&#x200B;を入力します。目的の&#x200B;**[!UICONTROL ロボット]**&#x200B;オプションを選択し、HTML の `<head>` セクションに必要なカスタムコンテンツを入力します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 

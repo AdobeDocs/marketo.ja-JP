@@ -4,7 +4,7 @@ description: フォームフィールドへのツールチップ説明の追加 
 title: フォームフィールドへのツールチップ説明の追加
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
@@ -23,23 +23,23 @@ ht-degree: 100%
 >
 >フォーム&#x200B;**説明**&#x200B;は、フィールドの上にマウスポインターを置くとポップアップする小さなツールチップです。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-6.png)
 
-1. **フォーム**&#x200B;を選択して、「**フォームを編集**」をクリックします。
+1. **フォーム**&#x200B;を選択して、「**[!UICONTROL フォームを編集]**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. フィールドを選択し、**説明**&#x200B;を入力します。
+1. フィールドを選択し、**[!UICONTROL 説明]**&#x200B;を入力します。
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. 「**終了**」をクリックします。
+1. 「**[!UICONTROL 終了]**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. 「**承認して閉じる**」をクリックします。
+1. 「**[!UICONTROL 承認して閉じる]**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 

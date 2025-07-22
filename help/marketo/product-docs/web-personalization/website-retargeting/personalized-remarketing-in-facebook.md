@@ -4,14 +4,14 @@ description: Facebook でのパーソナライズリマーケティング - Mark
 title: Facebook でのパーソナライズリマーケティング
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 100%
+source-wordcount: '285'
+ht-degree: 75%
 
 ---
 
-# Facebook でのパーソナライズリマーケティング {#personalized-remarketing-in-facebook}
+# [!DNL Facebook] でのパーソナライズされたリマーケティング {#personalized-remarketing-in-facebook}
 
 パーソナライズリマーケティングを使用すると、RTP データと Facebook リマーケティングの力を利用して、ユーザーと再びエンゲージできます。
 
@@ -20,43 +20,43 @@ ht-degree: 100%
 >* [ウェブパーソナライズデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定を完成します
 >* [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [カスタムオーディエンスとリマーケティングに関する Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)を確認します。
 
-## Facebook でのオーディエンスの作成 {#creating-an-audience-in-facebook}
+## [!DNL Facebook] でのオーディエンスの作成 {#creating-an-audience-in-facebook}
 
-1. Facebook の Ads Manager で、「[オーディエンス](https://www.facebook.com/ads/audience_manager)」タブに移動します。
+1. [!DNL Facebook] で、広告マネージャーの [ 「オーディエンス」タブ ](https://www.facebook.com/ads/audience_manager) に移動します。
 
-1. 「**ツール**」をクリックして、「**オーディエンス**」を選択します。
+1. 「**[!UICONTROL ツール]**」をクリックして、「**[!UICONTROL オーディエンス]**」を選択します。
 
    ![](assets/one-1.png)
 
-1. 「**カスタムオーディエンスを作成**」をクリックします。
+1. 「**[!UICONTROL カスタムオーディエンスを作成]**」をクリックします。
 
    ![](assets/two-1.png)
 
-1. 「**ウェブサイトトラフィック**」を選択します。
+1. 「**[!UICONTROL ウェブサイトトラフィック]**」を選択します。
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. ウェブサイトトラフィックリストで、「**カスタムの組み合わせ**」を選択します。
+1. [!UICONTROL Web サイトトラフィック ] リストで、「**[!UICONTROL カスタムの組み合わせ]**」を選択します。
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. Include リストで、「**イベント**」を選択します。
+1. Include リストで、「**[!UICONTROL イベント]**」を選択します。
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. イベントリストで、「**RTP リマーケティング**」を選択し、パラメーターを選択します。
+1. [!UICONTROL  イベント ] リストで「**[!UICONTROL RTP リマーケティング]**」を選択し、パラメーターを選択します。
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. この例では、「業界」に&#x200B;**教育**&#x200B;を含むように選択します。「**教育**」を入力し、「**過去の期間**」を編集して 180 日にします。オーディエンス名に「**教育業界**」と入力します。「**オーディエンスを作成**」をクリックします。
+1. この例では、[!UICONTROL Education] を含めるために **[!UICONTROL Industry]** を選択します。 「**[!UICONTROL 教育]**」を入力し、「**[!UICONTROL 過去の期間]**」を編集して 180 日にします。オーディエンス名に「**教育業界**」と入力します。「**[!UICONTROL オーディエンスを作成]**」をクリックします。
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
-1. これで、Facebook で RTP データを使用して新しいカスタムオーディエンスを作成しました。
+1. これで、[!DNL Facebook] の RTP データを使用して新しいカスタムオーディエンスを作成しました。
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
-## Facebook の RTP データポイント {#rtp-data-points-in-facebook}
+## [!DNL Facebook] の RTP データ ポイント {#rtp-data-points-in-facebook}
 
 <table> 
  <tbody> 
@@ -105,11 +105,11 @@ ht-degree: 100%
 
 詳しくは、[Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)を参照してください。
 
-1. Ads Manager に移動し、「**広告を作成**」をクリックします。
+1. Ads Manager に移動し、「**[!UICONTROL 広告を作成]**」をクリックします。
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. キャンペーンの目的として「**ウェブサイトにリードを送信**」を選択します。
+1. キャンペーンの目的として「**[!UICONTROL ウェブサイトにリードを送信]**」を選択します。
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -125,7 +125,7 @@ ht-degree: 100%
 
    ![](assets/image2015-1-19-17-3a19-3a25.png)
 
-1. これで、Facebook でパーソナライズされたリマーケティングキャンペーンの設定が完了しました。
+1. これで、[!DNL Facebook] でパーソナライズされたリマーケティングキャンペーンの設定がすべて完了しました。
 
 >[!MORELIKETHIS]
 >

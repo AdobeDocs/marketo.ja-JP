@@ -4,7 +4,7 @@ description: フォームの承認 - Marketo ドキュメント - 製品ドキ�
 title: フォームの承認
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 準備が整った既存のフォームを承認する方法を次に示します。
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
    ![](assets/login-marketing-activities-7.png)
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. 「**フォームアクション**」で、「**承認**」をクリックします。
+1. 「**[!UICONTROL フォームアクション]**」で、「**[!UICONTROL 承認]**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -49,10 +49,10 @@ ht-degree: 100%
 >
 >[フォームの編集](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. 「**終了**」をクリックします。
+1. 「**[!UICONTROL 終了]**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. 「**承認して閉じる**」をクリックします。
+1. 「**[!UICONTROL 承認して閉じる]**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)

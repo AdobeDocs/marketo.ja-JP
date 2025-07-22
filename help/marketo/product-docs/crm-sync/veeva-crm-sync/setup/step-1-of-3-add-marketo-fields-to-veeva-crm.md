@@ -1,36 +1,36 @@
 ---
-description: 手順 1 / 3 - Marketo フィールドの Veeva CRM への追加 - Marketo ドキュメント - 製品ドキュメント
-title: 手順 1 / 3：Marketo フィールドの Veeva CRM への追加
+description: 手順 1/3 - Marketo フィールドを CRM に追加  [!DNL Veeva]  Marketo ドキュメント – 製品ドキュメント
+title: 手順 1/3 - Marketo フィールドを  [!DNL Veeva] CRM に追加
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '527'
-ht-degree: 89%
+source-wordcount: '512'
+ht-degree: 46%
 
 ---
 
-# 手順 1 / 3：Marketo フィールドを Veeva CRM に追加 {#step-1-of-3-add-marketo-fields-to-veeva-crm}
+# 手順 1/3:CRM へのMarketo フィールド [!DNL Veeva] 追加 {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
 >
->Veeva CRM インスタンスが Salesforce API にアクセスして、Marketo Engage と Veeva CRM の間でデータを同期する必要があります。
+>[!DNL Veeva] CRM インスタンスがMarketo Engageと [!DNL Veeva] CRM の間でデータを同期するには、Salesforce API にアクセスできる必要があります。
 
-Marketo Engage は、一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。Veeva CRM でこのデータを使用する場合は、以下の手順に従ってください。
+Marketo Engage は、一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。このデータを [!DNL Veeva] CRM に取り込む場合は、次の手順に従ってください。
 
-`1.` 取引先責任者オブジェクト上の Veeva CRM にカスタムフィールド「スコア」を作成します。
+連絡先オブジェクトの CRM`1.` カスタムフィールド [!DNL Veeva] 作成するには：スコア
 
 `2.`必要に応じて、追加のフィールドを作成できます（以下の表を参照）。
 
-これらのカスタムフィールドはすべてオプションで、Marketo Engage と Veeva CRM を同期するのに必須ではありません。
+これらのカスタムフィールドはすべてオプションであり、Marketo Engageと [!DNL Veeva] CRM を同期するために必要なものではありません。
 
-## Marketo フィールドを Veeva CRM に追加 {#add-marketo-fields-to-veeva-crm}
+## CRM へのMarketo フィールド [!DNL Veeva] 追加 {#add-marketo-fields-to-veeva-crm}
 
-上記の Veeva CRM で、リードおよび取引先責任者オブジェクトにカスタムフィールドを追加します。さらに追加する場合は、この節の最後にある使用可能フィールドのテーブルを参照してください。
+上記の CRM のリードおよび連絡先オブジェクトにカスタムフィールド [!DNL Veeva] 追加します。 さらに追加する場合は、この節の最後にある使用可能フィールドのテーブルを参照してください。
 
 「スコア」フィールドに対して、次の手順を実行してフィールドを追加します。
 
-1. Veeva CRM にログインし、「**[!UICONTROL 設定]**」をクリックします。
+1. [!DNL Veeva] CRM にログインし、「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
@@ -58,7 +58,7 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. 次の表に示すように、フィールドに **[!UICONTROL フィールドラベル]**、**[!UICONTROL 長さ]**、**[!UICONTROL フィールド名]** を入力します。
+1. 次の表に示すように、フィールドの「**[!UICONTROL フィールドラベル]**」、「**[!UICONTROL 長さ]**」、「**[!UICONTROL フィールド名]**」を入力します。
 
 <table>
  <tbody>
@@ -79,7 +79,7 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
 >[!NOTE]
 >
->Veeva CRM では、フィールド名を使用して API 名を作成するときに、フィールド名に __c を追加します。
+>CRM[!DNL Veeva]API 名の作成にフィールド名を使用する場合は、フィールド名に__c を付加します。
 
 ![](assets/step-1-of-3-add-marketo-fields-7.png)
 
@@ -93,12 +93,12 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
 1. アクセス設定を指定し、「**[!UICONTROL 次へ]**」をクリックします。
 
-1. すべてのロールを表示および読み取り専用に設定します。
+1. すべての役割を **[!UICONTROL 表示]** および **[!UICONTROL 読み取り専用]** に設定します。
 
-1. 同期ユーザのプロファイルの読み取り専用のチェックをオフにします。
+1. 同期ユーザーのプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
 
-* 同期ユーザとしてシステム管理者のプロファイルを持つユーザがいる場合は、システム管理者プロファイルの読み取り専用のチェックをオフにします（以下を参照）。
-* 同期ユーザにカスタムプロファイルを作成した場合は、そのカスタムプロファイルの読み取り専用のチェックをオフにします。
+* システム管理者のプロファイルを同期ユーザーとして使用しているユーザーがいる場合は、そのシステム管理者プロファイルの [!UICONTROL  読み取り専用 ] チェックボックスをオフにします（下図を参照）。
+* 同期ユーザーのカスタムプロファイルを作成した場合は、そのカスタムプロファイルの「[!UICONTROL  読み取り専用 ]」チェックボックスをオフにします。
 
   ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
@@ -171,4 +171,4 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
 >[!NOTE]
 >
->Marketo によって自動的に割り当てられたフィールドの値は、新しいフィールドが作成されたときに Veeva CRM ですぐに使用できるわけではありません。Marketo は、次のアップデート時にいずれかのシステム上のレコードに対して Veeva CRM とデータを同期します（つまり、Marketo と Veeva CRM の間で同期されているフィールドのアップデート）。
+>新しいフィールドが作成されると、Marketoによって自動的に割り当てられたフィールドの値は [!DNL Veeva] CRM ですぐに使用できなくなります。 Marketoは、次の更新時に、いずれかのシステム上のレコードに対してデータを [!DNL Veeva] CRM と同期します（つまり、Marketoと [!DNL Veeva] CRM の間で同期されているフィールドのいずれかを更新します）。

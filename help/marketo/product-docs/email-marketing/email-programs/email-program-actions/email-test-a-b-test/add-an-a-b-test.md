@@ -4,7 +4,7 @@ description: A/B テストの追加 — Marketo ドキュメント — 製品ド
 title: A/B テストの追加
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 テストは、エンゲージメント向上のためにメールを最適化する絶好の機会です。テストは次のように開始できます。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
    ![](assets/selectemailprogram.jpg)
 
-1. **メール**&#x200B;タイルの下で、「**A/B テストを追加**」をクリックします。
+1. **[!UICONTROL メール]**&#x200B;タイルの下で、「**[!UICONTROL A/B テストを追加]**」をクリックします。
 
    ![](assets/image2014-9-12-14-3a39-3a29.png)
 

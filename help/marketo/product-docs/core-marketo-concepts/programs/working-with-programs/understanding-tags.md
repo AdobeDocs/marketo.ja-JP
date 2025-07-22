@@ -4,10 +4,10 @@ description: タグについて - Marketo ドキュメント - 製品ドキュ�
 title: タグについて
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 84%
+ht-degree: 82%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 84%
 >
 >**例**
 >
->* タグタイプ＝プログラム所有者
+>* [!UICONTROL  タグタイプ ] = プログラム所有者
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 

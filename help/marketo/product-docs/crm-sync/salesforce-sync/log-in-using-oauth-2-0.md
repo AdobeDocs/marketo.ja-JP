@@ -3,10 +3,10 @@ description: OAuth 2.0 を使用したログイン - Marketo ドキュメント 
 title: OAuth 2.0 を使用したログイン
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '530'
-ht-degree: 100%
+source-wordcount: '527'
+ht-degree: 90%
 
 ---
 
@@ -16,7 +16,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
 >[!IMPORTANT]
 >
->OAuth を使用して Marketo と Salesforce に接続するには、誤ったユーザ名で Salesforce に接続しないよう、プライベート（匿名）ブラウザーで Marketo にログインします。
+>OAuth を使用してMarketoと [!DNL Salesforce] を接続するには、間違ったユーザー名でMarketoに接続しないように、プライベート（匿名）ブラウザーで [!DNL Salesforce] にログインします。
 
 ## 接続アプリの設定 {#set-up-connected-app}
 
@@ -56,7 +56,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 >* Marketo 同期ユーザを Salesforce で作成する必要があります。
 >* 既存の顧客の場合、顧客のサブスクリプションで「SFDC 同期で OAuth を有効にする」機能が有効になります。
 >* ポップアップブロッカーが無効になっています。
->* Connected App が作成され、Consumer Key と Consumer Secret を使用できるようになりました。
+>* 連携されたアプリが作成され、[!UICONTROL Consumer Key] と [!UICONTROL Consumer Secret] が使用できます。
 
 >[!CAUTION]
 >
@@ -102,13 +102,13 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
    ![](assets/setting-up-oauth-2-15.png)
 
-Marketo と Salesforce の同期が進行中です。
+Marketoと [!DNL Salesforce] の同期が進行中です。
 
 ![](assets/setting-up-oauth-2-16.png)
 
 >[!MORELIKETHIS]
 >
->* [手順 1 / 3：Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
+>* [手順 1／3：Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
 >* [手順 2 / 3：Marketo 用の Salesforce ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
 >* [Salesforce AppExchange での Marketo Sales Insight パッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
 >* [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md){target="_blank"}

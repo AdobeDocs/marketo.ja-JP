@@ -1,11 +1,11 @@
 ---
 unique-page-id: 2359641
-description: Web サイトへのフォームの埋め込み — Marketo ドキュメント — 製品ドキュメント
+description: Web サイトへのフォームの埋め込み - Marketo ドキュメント - 製品ドキュメント
 title: Web サイトへのフォームの埋め込み
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Marketo を使用すると、アドビのフォームを独自の Web サイトに埋め込むことができます。埋め込みコードにアクセスする方法は次のとおりです。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-4.png)
 
@@ -23,11 +23,11 @@ Marketo を使用すると、アドビのフォームを独自の Web サイト�
 
    ![](assets/image2014-9-15-12-3a12-3a14.png)
 
-1. 「**フォームアクション**」で、「**埋め込みコード**」をクリックします。
+1. 「**[!UICONTROL フォームアクション]**」で、「**[!UICONTROL 埋め込みコード]**」をクリックします。
 
    >[!NOTE]
    >
-   >**埋め込みコード**&#x200B;が表示されて使用可能になるには、フォームが承認される必要があります。
+   >**[!UICONTROL 埋め込みコード]**&#x200B;が表示されて使用可能になるには、フォームが承認される必要があります。
 
    ![](assets/image2014-9-15-12-3a12-3a20.png)
 
@@ -35,7 +35,7 @@ Marketo を使用すると、アドビのフォームを独自の Web サイト�
    >
    >**[フォームの事前入力](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)**&#x200B;は独自のページ&#x200B;_または_ Marketo のランディングページでフォーム埋め込みコードを使用する場合には機能しません。フォームの事前入力は、フォームが「要素を挿入」オプションを使用して Marketo ランディングページで使用されている場合にのみ機能します。
 
-1. 埋め込みコードを選択またはコピーしてから、「**閉じる**」をクリックします。
+1. 埋め込みコードを選択またはコピーしてから、「**[!UICONTROL 閉じる]**」をクリックします。
 
    ![](assets/image2014-9-15-12-3a12-3a31.png)
 

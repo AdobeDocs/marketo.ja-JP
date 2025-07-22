@@ -4,10 +4,10 @@ description: プログラム内のマイトークンの理解 - Marketo ドキ�
 title: プログラム内のマイトークンの理解
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
-workflow-type: ht
-source-wordcount: '417'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '414'
+ht-degree: 94%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 トークンは、メール、ランディングページ、スマートキャンペーンで使用する変数で、これにより作業が手軽になります。
 
-マイトークンに加えて、プログラムに組み込まれた任意のトークンを使用することもできます。詳しくは、[トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}を参照してください
+マイトークンに加えて、プログラムにビルトインされた任意のトークンを使用することもできます。詳しくは、[トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}を参照してください
 
 ## マイトークン  {#my-tokens}
 
@@ -73,7 +73,7 @@ ht-degree: 100%
 
 >[!CAUTION]
 >
->Microsoft Dynamics または Salesforce の Sales Insight からメールを送信しても、マイトークンは解決されません。標準のトークン（リード、会社など）のみが入力されます。ただし、トークンのデフォルト値は&#x200B;_機能します_。
+>[!DNL Microsoft Dynamics] または [!DNL Salesforce] で Sales Insightからメールを送信しても、マイトークンが解決されません。入力されるのは標準トークン（リード、会社など）のみです。 ただし、トークンのデフォルト値は&#x200B;_機能します_。
 
 ## トークンのネスト {#nesting-tokens}
 

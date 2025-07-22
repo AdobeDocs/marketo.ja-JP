@@ -4,10 +4,10 @@ description: メールの予測コンテンツの編集 - Marketo ドキュメ�
 title: メールの予測コンテンツの編集
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->すべてのコンテンツページで、コンテンツが[予測コンテンツに対して承認されている](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)必要があります。
+>コンテンツは、[ すべてのコンテンツ ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) ページの [!UICONTROL  予測コンテンツ向けの承認 ] が必要です。
 
-1. 予測コンテンツページで、「タイトル」をクリックして、エディターを開きます
+1. [!UICONTROL 予測コンテンツ]ページで、「タイトル」をクリックして、エディターを開きます
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. 編集ページが開きます。デフォルトでは&#x200B;**電子メール**&#x200B;が表示されます。
+1. 編集ページが開きます。デフォルトでは&#x200B;**[!UICONTROL 電子メール]**&#x200B;が表示されます。
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
@@ -39,7 +39,7 @@ ht-degree: 100%
    >
    >ボタンラベルを変更した場合、変更を保存するとき、または画像をプレビューするときに更新されます。
 
-1. 画像 URL を追加または編集するには、「**画像を編集**」をクリックします。
+1. 画像 URL を追加または編集するには、「**[!UICONTROL 画像を編集]**」をクリックします。
 
    ![](assets/image2017-10-3-9-3a33-3a11.png)
 
@@ -47,11 +47,11 @@ ht-degree: 100%
    >
    >最高の画質を確保するには、画像のサイズを 400 x 400 ピクセル以下にする必要があります。
 
-1. 画像の URL を挿入し、「**追加**」をクリックします。
+1. 画像の URL を挿入し、「**[!UICONTROL 追加]**」をクリックします。
 
    ![](assets/five.png)
 
-1. スライダーをクリックしてドラッグし、画像サイズを変更します。次に、切り抜きボックスをクリックしてドラッグし、使用する画像領域を分離します。終了したら、「**プレビュー**」をクリックします。
+1. スライダーをクリックしてドラッグし、画像サイズを変更します。次に、切り抜きボックスをクリックしてドラッグし、使用する画像領域を分離します。終了したら、「**[!UICONTROL プレビュー]**」をクリックします。
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ ht-degree: 100%
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. 必要に応じて、「**カテゴリ**」フィールドをクリックし、コンテンツにカテゴリを追加します。オプションは、[既に設定済みのカテゴリ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)です。
+1. 必要に応じて、「**[!UICONTROL カテゴリ]**」フィールドをクリックし、コンテンツにカテゴリを追加します。オプションは、[既に設定済みのカテゴリ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)です。
 
    ![](assets/eight.png)
 
@@ -68,7 +68,7 @@ ht-degree: 100%
 
    ![](assets/nine.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/save.png)
 

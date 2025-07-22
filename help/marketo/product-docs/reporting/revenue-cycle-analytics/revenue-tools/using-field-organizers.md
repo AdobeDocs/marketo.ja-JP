@@ -4,7 +4,7 @@ description: フィールドオーガナイザの使用 — Marketoドキュメ�
 title: フィールドオーガナイザーの使用
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
@@ -25,23 +25,23 @@ ht-degree: 100%
 
 ## フィールドオーガナイザの作成方法 {#how-to-create-field-organizers}
 
-1. クリック **データベース**.
+1. クリック **[!UICONTROL データベース]**.
 
    ![](assets/db.png)
 
-1. の下 **新規**&#x200B;を選択します。 **新規フィールドオーガナイザ**.
+1. の下 **[!UICONTROL 新規]**&#x200B;を選択します。 **[!UICONTROL 新規フィールドオーガナイザ]**.
 
    ![](assets/two-1.png)
 
-1. の下 **フィールド**、属性を選択します。 説明はオプションです。
+1. の下 **[!UICONTROL フィールド]**、属性を選択します。 説明はオプションです。
 
    ![](assets/three-1.png)
 
-1. 「**作成**」をクリックします。
+1. 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. グループに名前を付け、適切なデータを入力します（これは、選択したフィールドのデータタイプによって異なります）。 「**グループを追加**」をクリックします。
+1. グループに名前を付け、適切なデータを入力します（これは、選択したフィールドのデータタイプによって異なります）。 「**[!UICONTROL グループを追加]**」をクリックします。
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 

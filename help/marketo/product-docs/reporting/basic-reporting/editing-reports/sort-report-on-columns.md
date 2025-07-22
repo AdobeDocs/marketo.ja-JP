@@ -4,7 +4,7 @@ description: 列でのレポートの並べ替え - Marketo ドキュメント -
 title: 列でのレポートの並べ替え
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 100%
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 列を使用してレポート内のデータを並べ替え、最も重要な数字を見つけやすくします。
 
-1. **Analytics**（または&#x200B;**マーケティング活動**）エリアに移動します。
+1. **[!UICONTROL Analytics]**（または&#x200B;**[!UICONTROL マーケティング活動]**）エリアに移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. ナビゲーションツリーから目的のレポートを選択し、「**レポート**」タブをクリックします。
+1. ナビゲーションツリーから目的のレポートを選択し、「**[!UICONTROL レポート]**」タブをクリックします。
 
    ![](assets/reports2.jpg)
 

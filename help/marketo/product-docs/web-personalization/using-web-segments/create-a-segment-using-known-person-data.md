@@ -4,10 +4,10 @@ description: 既知のリードデータを使用してセグメントを作成�
 title: 既知のリードデータを使用してセグメントを作成する
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 100%
 >
 >[リードデータの管理](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. 「**セグメント**」に移動します。
+1. 「**[!UICONTROL セグメント]**」に移動します。
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. 「**新規作成**」をクリックします。
+1. 「**[!UICONTROL 新規作成]**」をクリックします。
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. 「プロファイルのセグメント化」で、「**データベース**」をキャンバスまでドラッグします。
+1. 「プロファイルのセグメント化」で、「**[!UICONTROL データベース]**」をキャンバスまでドラッグします。
 
    ![](assets/four-1.png)
 
@@ -53,11 +53,11 @@ ht-degree: 100%
 
    ![](assets/eight.png)
 
-1. AND または OR 演算子を選択します。追加するフィールドを選択します。複数のリードデータフィールドを選択します。リードデータの値を入力します。
+1. [!UICONTROL AND]/[!UICONTROL OR] 演算子を選択します。 追加するフィールドを選択します。複数のリードデータフィールドを選択します。リードデータの値を入力します。
 
    ![](assets/nine.png)
 
-1. 「**保存**」をクリックしてセグメントを保存するか、「**保存してキャンペーンを設定**」をクリックして保存し、キャンペーンページに移動します。
+1. 「**[!UICONTROL 保存]**」をクリックしてセグメントを保存するか、「**[!UICONTROL 保存してキャンペーンを定義]**」をクリックして保存し、「[!UICONTROL  キャンペーン ]」ページに移動します。
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

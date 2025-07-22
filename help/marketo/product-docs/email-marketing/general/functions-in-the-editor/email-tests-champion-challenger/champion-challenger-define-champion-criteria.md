@@ -4,10 +4,10 @@ description: チャンピオン／挑戦者：チャンピオンの条件の定�
 title: チャンピオン／挑戦者：チャンピオンの条件の定義
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
-workflow-type: ht
-source-wordcount: '175'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '176'
+ht-degree: 84%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ## 標準的なチャンピオンの条件 {#standard-champion-criteria}
 
-1. 使用可能な&#x200B;**チャンピオンの条件**&#x200B;の 1 つを選択します。
+1. 使用可能な&#x200B;**[!UICONTROL チャンピオンの条件]**&#x200B;の 1 つを選択します。
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 ## カスタムのチャンピオンの条件 {#custom-champion-criteria}
 
-1. 手を加える場合は、「**カスタムコンバージョン**」を選択し、「**編集**」をクリックすることで、カスタマイズできます。
+1. 必要に応じて、「カスタムコンバージョン率 **[!UICONTROL を選択し、「編集]** をクリックしてカスタム **[!UICONTROL を設定]** きます。
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -49,9 +49,9 @@ ht-degree: 100%
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo では、このメールプログラムからメールを送信したユーザーのトリガーのみを許可します。「メール送信済み」フィルターを追加する必要はありません。
+   Marketo では、このメールプログラムからメールを送信したユーザーのトリガーのみを許可します。「[!UICONTROL  送信済みメール ]」フィルターを追加する必要はありません。
 
-1. 「**閉じる**」をクリックします。
+1. 「**[!UICONTROL 閉じる]**」をクリックします。
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 

@@ -4,35 +4,35 @@ description: トラッキングするメールの送信 - Marketo ドキュメ�
 title: トラッキングするメールの送信
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 100%
+source-wordcount: '194'
+ht-degree: 82%
 
 ---
 
 # トラッキングするメールの送信 {#sending-a-tracked-email}
 
-Marketo Sales Connect を使用してメールを送信する際に、表示数（メール開封数）とクリック数（クリックされたリンク数）がトラックされます。
+[!DNL Marketo Sales Connect] でメールを送信する際に、ビュー数（メールの開封）およびクリック数（クリックされたリンク）がトラッキングされます。
 
 >[!PREREQUISITES]
 >
 >トラッキングするメールを送信する前に、ID を認証し、メール配信チャネルを設定する必要があります。
 >
 >* [メールアドレスの確認](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) または [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) の配信チャネルの設定
+>* [[!DNL Outlook]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) または [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) 用の配信チャネルの設定
 
-1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**作成**」を選択しています）。
+1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**[!UICONTROL 作成]**」を選択しています）。
 
    ![](assets/one.png)
 
-1. 受信者の名前またはメールアドレスを「**宛先**」フィールドに入力します。
+1. 受信者の名前またはメールアドレスを「**[!UICONTROL 宛先]**」フィールドに入力します。
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >「宛先」フィールドに入力できるのは 1 人だけです。
+   >「**[!UICONTROL To]**」フィールドに入力できるユーザーは 1 人のみです。
 
 1. CC または BCC を送信する受信者を各フィールドに追加します。
 
@@ -40,7 +40,7 @@ Marketo Sales Connect を使用してメールを送信する際に、表示数�
 
    >[!NOTE]
    >
-   >CC または BCC で送信されたユーザーがメールを開いた場合、「**宛先**」フィールドに入力した人物の開封として記録されます。
+   >CC または BCC で送信されたユーザーがメールを開いた場合、「**[!UICONTROL 宛先]**」フィールドに入力した人物の開封として記録されます。
 
 1. 件名を入力します。
 
@@ -50,7 +50,7 @@ Marketo Sales Connect を使用してメールを送信する際に、表示数�
    >
    >メールの送信には、件名と受信者が必要です。件名行と受信者が追加されると、**ドラフトが自動的に保存されます**。
 
-1. エディターを使用してメールを作成します。完了したら、「**送信**」（または必要に応じて「[スケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)」）をクリックします
+1. エディターを使用してメールを作成します。完了したら、「**[!UICONTROL 送信]**」（または必要に応じて「[スケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)」）をクリックします
 
    ![](assets/five.png)
 

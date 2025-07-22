@@ -4,10 +4,10 @@ description: リードをマイクロソフトに同期 - Marketo ドキュメ�
 title: 人物をマイクロソフトに同期
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: ht
-source-wordcount: '74'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 73%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 100%
 
 ## 概要 {#overview}
 
-このフローステップは、Marketo が作成したリードを Dynamics CRM に挿入するものです。
+このフローステップでは、Marketoで作成した人物を [!DNL Dynamics] CRM に挿入します。
 
 ![](assets/sync-person-to-microsoft-1.png)
 
 ## 使用方法 {#usage}
 
-Dynamics ユーザーをリード所有者として設定できます。
+[!DNL Dynamics] ユーザーをユーザーオーナーとして設定できます。
 
 ![](assets/sync-person-to-microsoft-2.png)
 

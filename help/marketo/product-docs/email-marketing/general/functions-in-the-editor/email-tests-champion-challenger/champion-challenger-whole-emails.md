@@ -4,7 +4,7 @@ description: チャンピオン／挑戦者：メール全体 - Marketo ドキ�
 title: チャンピオン／挑戦者：メール全体
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 >
 >[メールチャンピオン／挑戦者の追加](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. メールテストエディターの&#x200B;**テストタイプ**&#x200B;ドロップダウンで「**メール全体**」を選択します。
+1. メールテストエディターの&#x200B;**[!UICONTROL テストタイプ]**&#x200B;ドロップダウンで「**[!UICONTROL メール全体]**」を選択します。
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ ht-degree: 100%
    >
    >注意：元のメールはチャンピオンです。挑戦者はそれに対抗します。
 
-1. **挑戦者**&#x200B;メールを探して選択し、「**複製**」をクリックします。
+1. **[!UICONTROL 挑戦者]**&#x200B;メールを探して選択し、「**[!UICONTROL 複製]**」をクリックします。
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 

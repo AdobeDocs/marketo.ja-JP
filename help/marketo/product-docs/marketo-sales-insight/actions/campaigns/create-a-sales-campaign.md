@@ -3,10 +3,10 @@ description: セールスキャンペーンの作成 - Marketo ドキュメン�
 title: セールスキャンペーンの作成
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 100%
+source-wordcount: '316'
+ht-degree: 77%
 
 ---
 
@@ -18,27 +18,27 @@ ht-degree: 100%
 
 * **整理**：すべてのアウトリーチアクティビティを 1 か所で合理化し、効率的に実行できます。
 * **スケール**：取り組みの規模を調整し、手作業を最小限に抑え、必要に応じてパーソナライズできるように、すべてのアウトリーチの取り組みをスケジュールします。
-* **測定**：すべてのメールとタスクの成功を 1 か所でトラックし、Salesforce に自動的にログします。何が反響して、結果につながるかを把握することで、結果を一貫してテストし、改善することができます。
+* **測定**:[!DNL Salesforce] に自動的にログインしながら、すべてのメールとタスクの成功を 1 か所で追跡します。 何が反響して、結果につながるかを把握することで、結果を一貫してテストし、改善することができます。
 
 では、セールスキャンペーンはどのように設定するのでしょうか。
 
-1. 「**キャンペーン**」タブをクリックします。
+1. 「**[!UICONTROL キャンペーン]**」タブをクリックします。
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. カテゴリを選択し、「**新規キャンペーンを作成**」ボタンをクリックします。
+1. カテゴリを選択し、「**[!UICONTROL 新規キャンペーンを作成]**」ボタンをクリックします。
 
    ![](assets/create-a-sales-campaign-2.png)
 
    >[!NOTE]
    >
-   >新しいカテゴリを作成するには、「**カテゴリ**」の横にある「**+**」をクリックします。
+   >新しいカテゴリを作成するには、「**カテゴリ**」の横にある「**[!UICONTROL +]**」をクリックします。
 
-1. カテゴリが選択されます。変更する場合は、ドロップダウンをクリックし、別のドロップダウンを選択します。完了したら、「**続行**」をクリックします。
+1. カテゴリが選択されます。変更する場合は、ドロップダウンをクリックし、別のドロップダウンを選択します。完了したら、「**[!UICONTROL 続行]**」をクリックします。
 
    ![](assets/create-a-sales-campaign-3.png)
 
-1. 「**手順を追加**」をクリックします。
+1. 「**[!UICONTROL 手順を追加]**」をクリックします。
 
    ![](assets/create-a-sales-campaign-4.png)
 
@@ -46,11 +46,11 @@ ht-degree: 100%
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. [メールが完了](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}したら、「**追加**」をクリックします。
+1. [メールが完了](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}したら、「**[!UICONTROL 追加]**」をクリックします。
 
    ![](assets/create-a-sales-campaign-6.png)
 
-1. 最初の日とステップを作成した後、「日を追加」ボタンがアクティブになり、セールスプロセスに必要な数の日とステップを追加できます。
+1. 最初の日と手順を作成すると、「[!UICONTROL  日を追加 ]」ボタンがアクティブになり、セールスプロセスに必要な数の日と手順を追加できます。
 
    ![](assets/create-a-sales-campaign-7.png)
 
@@ -58,7 +58,7 @@ ht-degree: 100%
    >
    >「日」は、アクション間の日数ではなく、シーケンス内の日数です。例えば、セールスキャンペーンが 7 日間になる場合に「3」と入力すると、アクションは 7 日中の 3 日目に実行されます。3 日後&#x200B;**ではありません**。
 
-1. セールスキャンペーンの&#x200B;**「設定」タブ**&#x200B;にアクセスして、週末をスキップするなど、スケジュールと返信のオプションをカスタマイズするようにします。
+1. セールスキャンペーンの **[!UICONTROL 設定 ] タブ** にアクセスして、週末をスキップするなど（素晴らしい）、スケジュールと返信のオプションを必ずカスタマイズしてください。
 
    ![](assets/create-a-sales-campaign-8.png)
 

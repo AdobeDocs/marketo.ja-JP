@@ -4,10 +4,10 @@ description: 会社の web アクティビティレポート - Marketo ドキュ
 title: 会社の web アクティビティレポート
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 100%
+source-wordcount: '256'
+ht-degree: 88%
 
 ---
 
@@ -19,13 +19,13 @@ Web サイトを訪問している会社を確認します。同じレポート�
 
 >[!PREREQUISITES]
 >
->Marketo で web サイトからアクティビティを取り込むには、まず[サイトで Munchkin を設定](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)する必要があります。
+>Marketoで web サイトのアクティビティを取得するには、まず [ サイトに  [!DNL Munchkin]  設定 ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) する必要があります。
 
-1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)して、会社の web アクティビティレポート[レポートタイプ](report-type-overview.md)を選択します。
+1. [ レポートを作成 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) し、[!UICONTROL  会社 web アクティビティ ] レポート [ レポートタイプ ](report-type-overview.md) を選択します。
 
-1. レポートで[既知のリードを表示するか匿名のリードを表示するか](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)を選択します。
+1. レポートで[既知または匿名のリードの表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)を選択します。
 
-1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**レポート**」タブをクリックします。
+1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**[!UICONTROL レポート]**」タブをクリックします。
 
 1. これで完了です。レポートをレビューして、サイトを訪問している会社を確認します。
 
@@ -33,7 +33,7 @@ Web サイトを訪問している会社を確認します。同じレポート�
 
    >[!TIP]
    >
-   >サイトを最も多く訪問する会社を見つけるには、レポートを&#x200B;_ページビュー数_&#x200B;列で[並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)て、「**降順に並べ替え**」を選択します。
+   >サイトを最も多く訪問する会社を見つけるには、レポートを&#x200B;_[!UICONTROL ページビュー数]_&#x200B;列で[並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)て、「**[!UICONTROL 降順に並べ替え]**」を選択します。
 
    会社の web アクティビティレポートで[選択できる列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)は次のとおりです。
 

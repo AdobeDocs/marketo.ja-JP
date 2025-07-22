@@ -4,10 +4,10 @@ description: リリースノート - 2016 年春 - Marketo ドキュメント - 
 title: リリースノート - 2016 年春
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '797'
-ht-degree: 94%
+source-wordcount: '790'
+ht-degree: 83%
 
 ---
 
@@ -65,9 +65,9 @@ Marketo ユーザログインの IP 許可リストに追加する機能と同�
 
 新しい高速 Dynamics コネクタは、初期同期で最大 20 倍、増分同期で最大 5 倍の速度を実現します。 新規顧客はすべて、リリース日にこのコネクタにオンボーディングされます。既存顧客に対しては、夏のリリース期間中に徐々に展開されます。
 
-**新しいフィールドのデータを更新**：これで、任意の時点で新しい同期フィールドを有効にできます。そのフィールドのすべてのデータ値が Dynamics CRM から Marketo に更新されます。初期設定時にすべてのフィールドを選択する必要が生じる心配はなくなりました。既存の同期フィールドを無効にし、後で再度有効にした場合、そのフィールドのすべてのデータ値が Dynamics CRM から Marketo に更新されます。
+**新しいフィールドのデータを更新**：任意の時点で新しい同期フィールドを有効にでき、そのフィールドのすべてのデータ値が [!DNL Dynamics] CRM からMarketoに更新されるようになりました。 初期設定時にすべてのフィールドを選択する必要が生じる心配はなくなりました。既存の同期フィールドを無効にし、後で再度有効にすると、そのフィールドのすべてのデータ値が [!DNL Dynamics] CRM からMarketoに更新されます。
 
-**リードを連絡先として同期**：「リードを Microsoft に同期」フローアクションには、リードまたは連絡先として同期する新しいオプションが追加されました。
+**リードを連絡先として同期**: [!UICONTROL  リードをMicrosoftに同期 ] フローアクションには、リードまたは連絡先として同期する新しいオプションが追加されました。
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -75,9 +75,9 @@ Marketo ユーザログインの IP 許可リストに追加する機能と同�
 
 ![](assets/sync-errors.png)
 
-**Microsoft Dynamics 2016**：コネクタは、Dynamics 2016 オンラインバージョンおよびオンプレミスバージョンで完全に認定されています。
+**[!DNL Microsoft Dynamics]2016**：コネクタは、[!DNL Dynamics] 2016 [!DNL Online] および [!DNL On-premise] バージョンで完全に認定されています。
 
-**プラグインのアップデートに関するドキュメントが追加されました。**&#x200B;[プラグインの更新に関するドキュメントの記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
+**プラグインのアップデートに関するドキュメントが追加されました。**[プラグインの更新に関するドキュメントの記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
 
 ## [わかりやすいインスタンス名](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 

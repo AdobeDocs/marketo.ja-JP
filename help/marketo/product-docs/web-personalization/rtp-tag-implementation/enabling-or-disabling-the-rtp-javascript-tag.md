@@ -4,10 +4,10 @@ description: RTP JavaScript タグの有効化または無効化 - Marketo ド�
 title: RTP JavaScript タグの有効化または無効化
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 100%
+ht-degree: 52%
 
 ---
 
@@ -17,20 +17,20 @@ RTP JavaScript タグは、ウェブパーソナライズが web アクティビ
 
 >[!NOTE]
 >
->**Web サイト上の HTML コードからタグを削除する必要はありません。** アカウント設定で制御します。
+>**Web サイト上の HTML コードからタグを削除する必要はありません。** アカウント設定 [!UICONTROL  を使用して制御で ] ます。
 
 ## タグの有効化または無効化 {#enable-or-disable-the-tag}
 
-1. 「**アカウント設定**」に移動します。
+1. 「**[!UICONTROL アカウント設定]**」に移動します。
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. ドメインとドメイン設定の「タグ」の下で「**オフ**」を選択して、JavaScript タグを無効にします。
+1. 「[!UICONTROL Domain]」と「[!UICONTROL Domain Configuration]」の「[!UICONTROL Tag]」で「**[!UICONTROL オフ]**」を選択して、JavaScript タグを無効にします。
 
    ![](assets/account-settings-domain-tag.jpg)
 
-   「タグ」を「オフ」に設定すると、JavaScript コードは無効になり、ウェブパーソナライズは web アクティビティを追跡したり、web サイト上でキャンペーンやコンテンツレコメンデーションを実行したりしません。
+   [!UICONTROL  タグ ] が [!UICONTROL  オフ ] に設定されている場合、JavaScript コードは無効になり、[!UICONTROL web Personalization] では、web アクティビティのトラッキングや、web サイトでのキャンペーンまたはコンテンツレコメンデーションの実行は行われません。
 
-1. RTP タグを有効にするには、ドメインとドメイン設定の「タグ」の下で切替スイッチを「**オン**」にします。
+1. RTP タグを有効にするには、[!UICONTROL  ドメイン ] と [!UICONTROL  ドメイン設定 ] の [!UICONTROL  タグ ] で、「**[!UICONTROL オン]**」切り替えスイッチを選択します。
 
    簡単です。

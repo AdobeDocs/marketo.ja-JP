@@ -4,10 +4,10 @@ description: ガイド付きランディングページにフォームを追加�
 title: ガイド付きランディングページにフォームを追加する
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 100%
+ht-degree: 82%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 100%
 >
 >[ガイド付きランディングページテンプレートを作成する](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. 「**マーケティングアクティビティ**」エリアに移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」エリアに移動します。
 
    ![](assets/one.png)
 
-1. ランディングページを探して選択し、「**ドラフトを編集**」をクリックします。
+1. ランディングページを探して選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/two.png)
 
@@ -41,15 +41,15 @@ ht-degree: 100%
 
 1. フォローアップページを選択するときには、3 つのオプションがあります。
 
-   * ランディングページ - Marketo ランディングページを選択します。
-   * 外部 URL - 使用したい任意の URL を選択します。
-   * 定義済みのフォーム - フォームレベルで定義されている設定を使用します。
+   * **[!UICONTROL ランディングページ]** - Marketo ランディングページを選択します
+   * **[!UICONTROL 外部 URL]** – 必要な URL を選択します
+   * **[!UICONTROL フォーム定義]** - フォームレベルで定義された設定を使用します
 
    >[!NOTE]
    >
    >フォローアップページとは、フォームを送信した後で表示されるページです。
 
-1. この例では、「フォーム定義」を使用します。次に「**挿入**」をクリックします。
+1. この例では、[!UICONTROL Form Defined] を使用します。 次に「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 

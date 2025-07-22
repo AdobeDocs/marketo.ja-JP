@@ -4,7 +4,7 @@ description: 収益エクスプローラーレポートへのカスタム測定�
 title: 収益エクスプローラーレポートへのカスタム測定の追加
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 1. レポートに必要なフィールドを取り込みます。詳しくは、[収益エクスプローラーレポートへのフィールドの追加](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)を参照してください。
 
-1. 既存の指標（青色のセル）を右クリックし、「**ユーザー定義の測定**」をクリックして、「**計算済み測定**」を選択します。
+1. 既存の指標（青色のセル）を右クリックし、「**[!UICONTROL ユーザー定義の測定]**」をクリックして、「**[!UICONTROL 計算済み測定]**」を選択します。
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ ht-degree: 100%
    >
    >数学記号は、自分で入力するか、選択ボックスを使用します。
 
-1. 完了したら、「**OK**」をクリックします。
+1. 完了したら、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

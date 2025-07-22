@@ -4,15 +4,15 @@ description: トラッキングアクティビティが表示されない - Mark
 title: トラッキングアクティビティが表示されない
 exl-id: 8f3f6506-9367-4f08-84ef-636adf06e00d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 100%
+source-wordcount: '67'
+ht-degree: 64%
 
 ---
 
 # トラッキングアクティビティが表示されない {#tracking-activity-not-showing}
 
-トラッキングアクティビティが表示されない場合は、Sales Connect が提供するカスタムアクティビティフィールドが Salesforce で表示／編集可能であることを確認します。フィールドをインストールしたが、フィールドに値が入力されていない場合は、フィールドレベルのセキュリティによって情報の入力が妨げられている可能性があります。Salesforce 管理者にお問い合わせください。
+トラッキングアクティビティが表示されない場合は、[!DNL  Sales Connect] が提供するカスタムアクティビティフィールドがSalesforceで表示/編集できることを確認してください。 フィールドをインストールしたが、フィールドに値が入力されていない場合は、フィールドレベルのセキュリティによって情報の入力が妨げられている可能性があります。[!DNL  Salesforce] 管理者にお問い合わせください。
 
-Salesforce の[フィールドレベルのセキュリティ](https://help.salesforce.com/articleView?id=admin_fls.htm&amp;type=5)の詳細
+Salesforce の[フィールドレベルのセキュリティ](https://help.salesforce.com/articleView?id=admin_fls.htm&type=5)の詳細

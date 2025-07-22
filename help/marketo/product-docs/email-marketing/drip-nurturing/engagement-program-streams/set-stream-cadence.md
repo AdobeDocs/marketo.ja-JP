@@ -4,10 +4,10 @@ description: ストリームケイデンスの設定 - Marketo ドキュメン�
 title: ストリームケイデンスの設定
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -17,25 +17,25 @@ ht-degree: 100%
 
 ## ケイデンスを設定 {#set-cadence}
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. エンゲージメントプログラムを検索して選択し、「**ストリーム**」タブをクリックしてから、「**ストリームケイデンスを設定**」をクリックします。
+1. エンゲージメントプログラムを検索して選択し、「**[!UICONTROL ストリーム]**」タブをクリックしてから、「**[!UICONTROL ストリームケイデンスを設定]**」をクリックします。
 
    ![](assets/selectstreamcadence.jpg)
 
-1. ケイデンスの繰り返し頻度を選択します。**毎週**&#x200B;または&#x200B;**毎月**&#x200B;を選択できます。
+1. ケイデンスの繰り返し頻度を選択します。**[!UICONTROL 毎週]**&#x200B;または&#x200B;**[!UICONTROL 毎月]**&#x200B;を選択できます。
 
 ## 毎週 {#weekly}
 
-1. 「**毎週**」を選択します。
+1. 「**[!UICONTROL 毎週]**」を選択します。
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >「**なし**」を選択すると、ストリームが停止します。
+   >「**[!UICONTROL なし]**」を選択すると、ストリームが停止します。
 
 1. 最初のキャストの日付を選択します。
 
@@ -51,9 +51,9 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >**繰り返し：毎週**／**間隔：1 週間**／**オン**：すべての日を選択することで、毎日実行するケイデンスを設定できます。
+   >ケイデンスは、**[!UICONTROL 繰り返し ]:[!UICONTROL  毎週]**/**[!UICONTROL 毎 ]:1[!UICONTROL  週]**/**[!UICONTROL オン]**：全日を選択することで、毎日実行するように設定できます。
 
-   次に、時間を選択します。[受信者タイムゾーン](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)を使用する場合は（例：ローカルタイムゾーンに従った配信）、チェックをオンにして、「**保存**」をクリックします。
+   次に、時間を選択します。[受信者タイムゾーン](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)を使用する場合は（例：ローカルタイムゾーンに従った配信）、チェックをオンにして、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -73,7 +73,7 @@ ht-degree: 100%
 
 ## 毎月 {#monthly}
 
-1. 繰り返しの頻度で&#x200B;**毎月**&#x200B;を選択します。
+1. 繰り返しの頻度で&#x200B;**[!UICONTROL 毎月]**&#x200B;を選択します。
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -93,7 +93,7 @@ ht-degree: 100%
    >
    >または、曜日を選択することもできます。
 
-1. **時間**&#x200B;を選択して、「**保存**」をクリックします。
+1. **[!UICONTROL 時間]**&#x200B;を選択して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 

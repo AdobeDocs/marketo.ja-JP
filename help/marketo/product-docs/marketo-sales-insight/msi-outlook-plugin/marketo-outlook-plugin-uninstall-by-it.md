@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11382829
-description: IT による Marketo Outlook プラグインのアンインストール - Marketo ドキュメント - 製品ドキュメント
-title: IT による Marketo Outlook プラグインのアンインストール
+description: Marketo [!DNL Outlook]  プラグインのアンインストール（IT 部門） - Marketo ドキュメント – 製品ドキュメント
+title: Marketo [!DNL Outlook]  プラグイン IT によるアンインストール
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 65%
 
 ---
 
-# IT による Marketo Outlook プラグインのアンインストール {#marketo-outlook-plugin-uninstall-by-it}
+# Marketo [!DNL Outlook] プラグイン IT によるアンインストール {#marketo-outlook-plugin-uninstall-by-it}
 
-IT 部門が Marketo Outlook プラグインをリモートでアンインストールする方法を次に示します。
+IT 部門がMarketo [!DNL Outlook] プラグインをリモートでアンインストールする方法を次に示します。
 
 次のコマンドを、「System」または管理ユーザアカウントとして実行し、/i スイッチを指定してアンインストールします。
 
@@ -47,6 +47,6 @@ IT 部門が Marketo Outlook プラグインをリモートでアンインスト
 
 >[!CAUTION]
 >
->プラグインをリモートでアンインストールすると、ユーザのコンピューター上の Outlook が強制的に閉じます。
+>プラグインをリモートでアンインストールすると、ユーザーのコンピューター上の [!DNL Outlook] が強制的に閉じられます。
 
 異なるログレベルやユーザインターフェイスレベルを試す場合は、[Microsoft のスイッチの完全なリスト](https://support.microsoft.com/ja-jp/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6)を参照してください。

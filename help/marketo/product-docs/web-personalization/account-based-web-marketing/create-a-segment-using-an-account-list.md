@@ -4,7 +4,7 @@ description: 顧客リストを使用したセグメントの作成 - Marketo �
 title: 顧客リストを使用したセグメントの作成
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%
@@ -19,15 +19,15 @@ ht-degree: 100%
 >
 >[新規アカウントリストの作成](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. 「**セグメント**」に移動します。
+1. 「**[!UICONTROL セグメント]**」に移動します。
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. 「**新規作成**」をクリックします。
+1. 「**[!UICONTROL 新規作成]**」をクリックします。
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. セグメントの名前を入力します。**ファーモグラフィック**&#x200B;セクションから&#x200B;**顧客リスト**&#x200B;をドラッグ＆ドロップします。
+1. セグメントの名前を入力します。**[!UICONTROL ファーモグラフィック]**&#x200B;セクションから&#x200B;**[!UICONTROL 顧客リスト]**&#x200B;をドラッグ＆ドロップします。
 
    ![](assets/set-segment-hands.jpg)
 
@@ -39,7 +39,7 @@ ht-degree: 100%
    >
    >顧客リストは、セグメント化で使用できるように ABM からウェブパーソナライズに同期されます。ドロップダウンから選択してください。同期には、最大で 分かかります。顧客リストに 1 つ以上の重点顧客が存在する場合にのみ同期されます。
 
-1. 「**保存**」をクリックするか「**保存してキャンペーンを設定**」をクリックして、キャンペーンページに移動します。
+1. 「**[!UICONTROL 保存]**」をクリックするか「**[!UICONTROL 保存してキャンペーンを設定]**」をクリックして、キャンペーンページに移動します。
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

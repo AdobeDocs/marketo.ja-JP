@@ -4,7 +4,7 @@ description: 「日時」A/B テストの使用 - Marketo ドキュメント - �
 title: 「日付／時間」A/B テストの使用
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 100%
@@ -13,22 +13,22 @@ ht-degree: 100%
 
 # 「日付／時間」A/B テストの使用 {#use-date-time-a-b-testing}
 
-メールの A/B テストはとても簡単に実施できます。1 つは&#x200B;**日時**&#x200B;テストです。このテストでは、メールの送信に最適な時間帯または曜日をテストします。その設定方法を説明しましょう。
+メールの A/B テストはとても簡単に実施できます。1 つは&#x200B;**[!UICONTROL 日時]**&#x200B;テストです。このテストでは、メールの送信に最適な時間帯または曜日をテストします。その設定方法を説明しましょう。
 
 >[!PREREQUISITES]
 >
 >[A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 >
 
-1. **メール**&#x200B;タイルの下で、「**A/B テストを追加**」をクリックします。
+1. **[!UICONTROL メール]**&#x200B;タイルの下で、「**[!UICONTROL A/B テストを追加]**」をクリックします。
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
-1. 新しいウィンドウが開きます。「**テストタイプ**」で「**日時**」を選択します。
+1. 新しいウィンドウが開きます。「**[!UICONTROL テストタイプ]**」で「**[!UICONTROL 日時]**」を選択します。
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
-1. 既存のテスト情報（件名テストなど）がある場合は、「**テストのリセット**」をクリックします。
+1. 既存のテスト情報（件名テストなど）がある場合は、「**[!UICONTROL テストのリセット]**」をクリックします。
 
    ![](assets/image2014-9-12-15-3a41-3a19.png)
 
@@ -44,7 +44,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-12-15-3a41-3a40.png)
 
-1. A/B テストを送信したいオーディエンスの割合をスライダーで選択して、「**次へ**」をクリックします。
+1. A/B テストを送信したいオーディエンスの割合をスライダーで選択して、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2014-9-12-15-3a41-3a53.png)
 

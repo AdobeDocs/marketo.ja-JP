@@ -4,10 +4,10 @@ description: 付加的なランディングページ CNAME の追加 - Marketo �
 title: 付加的なランディングページ CNAME の追加
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -57,19 +57,19 @@ ht-degree: 100%
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. 「**新規**」をクリックして、「**新規ドメインエイリアス**」を選択します。
+1. 「**[!UICONTROL 新規]**」をクリックして、「**[!UICONTROL 新規ドメインエイリアス]**」を選択します。
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. **ドメインエイリアス**&#x200B;を入力します。訪問者が URL を入力しない場合、**デフォルトのページ**&#x200B;が表示されます。その場合の移動先を入力します。
+1. **[!UICONTROL ドメインエイリアス ] を入力します。**&#x200B;を入力します。訪問者が URL を入力しない場合、**[!UICONTROL デフォルトのページ]**&#x200B;が表示されます。その場合の移動先を入力します。
 
    >[!NOTE]
    >
-   >デフォルトページの場合は、ランディングページまたは公開 Web サイトなどの外部 URL を選択できます。
+   >[!UICONTROL  デフォルトページ ] には、ランディングページまたは外部 URL （公開 web サイトなど）を選択できます。
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. **デフォルトページ**&#x200B;を入力して、「**作成**」をクリックします。
+1. **[!UICONTROL デフォルトページ]**&#x200B;を入力して、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

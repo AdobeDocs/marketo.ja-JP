@@ -4,17 +4,17 @@ description: Sales Connect のサービス利用規約は何ですか？- Market
 title: Sales Connect のサービス利用規約は何ですか？
 exl-id: 958d5d0f-1cf4-4653-aaf9-e516a23cb702
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 100%
+source-wordcount: '41'
+ht-degree: 51%
 
 ---
 
-# Sales Connect のサービス利用規約は何ですか？ {#what-are-the-sales-connect-terms-of-service}
+# [!DNL Sales Connect] のサービス利用規約とは何ですか？ {#what-are-the-sales-connect-terms-of-service}
 
-Sales Connect のサービス利用規約は、[こちら](https://documents.marketo.com/toutapp/terms)にあります。
+[!DNL Sales Connect] のサービス利用規約については [ こちら ](https://documents.marketo.com/toutapp/terms) をご覧ください。
 
 >[!NOTE]
 >
->「ToutApp」は、Marketo Sales Connect の旧名称です。
+>「ToutApp」は [!DNL Marketo Sales Connect] の以前の名前です。

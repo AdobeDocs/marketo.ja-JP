@@ -4,20 +4,20 @@ description: 閲覧された Web ページ、web ページアクティビティ�
 title: 閲覧された web ページ、web ページアクティビティレポート
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
-workflow-type: ht
-source-wordcount: '109'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '108'
+ht-degree: 63%
 
 ---
 
 # 閲覧された web ページ、web ページアクティビティレポート {#web-pages-viewed-web-page-activity-report}
 
-[Web ページアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)から、レポート内のユーザーが閲覧した特定のページを確認できます。
+[[!UICONTROL Web ページアクティビティ ] レポート ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) から、レポートのユーザーが表示した特定のページを表示できます。
 
 >[!PREREQUISITES]
 >
->Marketo で web サイトからアクティビティを取り込むには、まず[サイトに Munchkin を設定](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)します。
+>Marketoで web サイトからアクティビティを取得するには、まず [ サイトに設定  [!DNL Munchkin]  する必要があり ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) す。
 
 1. [Web ページアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)で、ユーザの名前をクリックします。
 

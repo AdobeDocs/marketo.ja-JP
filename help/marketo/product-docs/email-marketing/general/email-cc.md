@@ -4,8 +4,8 @@ description: メール CC - Marketo ドキュメント - 製品ドキュメン�
 title: メール CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 100%
 
@@ -23,15 +23,15 @@ ht-degree: 100%
 
 ## メール CC の設定 {#set-up-email-cc}
 
-1. マイ Marketo で、「**管理**」をクリックします。
+1. マイ Marketo で、「**[!UICONTROL 管理]**」をクリックします。
 
    ![](assets/one.png)
 
-1. ツリーで、「**メール**」を選択します。
+1. ツリーで、「**[!UICONTROL メール]**」を選択します。
 
    ![](assets/two.png)
 
-1. 「**メール CC 設定を編集**」をクリックします。
+1. 「**[!UICONTROL メール CC 設定を編集]**」をクリックします。
 
    ![](assets/three.png)
 
@@ -41,11 +41,11 @@ ht-degree: 100%
 
 ## メール CC の使用 {#using-email-cc}
 
-1. メールを選択して、「**ドラフトを編集**」をクリックします。
+1. メールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/five.png)
 
-1. 「**メール設定**」をクリックします。
+1. 「**[!UICONTROL メール設定]**」をクリックします。
 
    ![](assets/six.png)
 

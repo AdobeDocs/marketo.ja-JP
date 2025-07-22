@@ -4,10 +4,10 @@ description: SEO ダッシュボードについて - SEO スナップショッ�
 title: SEO ダッシュボードについて - SEO スナップショット
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -41,7 +41,7 @@ SEO の取り組みを改善するために何に注力すべきかを調べる�
 
 ## [!UICONTROL 平均ページ最適化スコア] {#average-page-optimization-score}
 
-平均ページ最適化スコアは、Marketo 独自のスコアで、サイト上のすべてのページを 1～100 のスケールで測定します。
+[!UICONTROL  ページ最適化の平均スコア ] は独自のMarketo スコアで、サイト上のすべてのページを 1～100 のスケールで測定します。
 
 何十ものベストプラクティスの集まりに基づいたものです。スコアが 70 以上の場合は、サイトが最適化されていることを示します。
 

@@ -4,16 +4,16 @@ description: TAM 階層 - Marketo ドキュメント - 製品ドキュメント
 title: TAM 階層
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 100%
+ht-degree: 73%
 
 ---
 
 # TAM 階層 {#tam-hierarchies}
 
-階層を使用すると、TAM ユーザーは、CRM の重点顧客アカウント間の親／子の関係を継承できます。
+階層を使用すると、TAM ユーザーは CRM で [!UICONTROL  重点顧客 ] 間の親子関係を継承できます。
 
 ## TAM 階層とは {#what-are-tam-hierarchies}
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ## TAM 階層の操作 {#working-with-tam-hierarchies}
 
-TAM 階層を使用すると、階層全体または個々のアカウントに関する情報を、「重点顧客」ダッシュボードで素早く取得できます。
+TAM 階層を使用すると、階層全体または個々のアカウントに関する情報を [!UICONTROL  指定アカウント ] ダッシュボードですばやく取得できます。
 
 **階層を使用しない**
 

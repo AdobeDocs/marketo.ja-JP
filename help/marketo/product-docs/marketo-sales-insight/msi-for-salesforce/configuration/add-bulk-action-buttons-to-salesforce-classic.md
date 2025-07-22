@@ -3,28 +3,28 @@ description: Salesforce Classic への一括アクションボタンの追加 - 
 title: Salesforce Classic への一括アクションボタンの追加
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 78%
 
 ---
 
-# Salesforce Classic への一括アクションボタンの追加{#add-bulk-action-buttons-to-salesforce-classic}
+# [!DNL Salesforce] Classic への一括アクションボタンの追加{#add-bulk-action-buttons-to-salesforce-classic}
 
-Salesforce レイアウトに Marketo ボタンを追加できます。次に例を示します。
+[!DNL Salesforce] レイアウトにMarketo ボタンを追加できます。 次に例を示します。
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. 「**設定**」をクリックします。「検索レイアウト」を検索し、「**リード**」の下の「**検索レイアウト**」をクリックします。
+1. 「**[!UICONTROL 設定]**」をクリックします。「[!UICONTROL  検索レイアウト ]」を検索し、「**[!UICONTROL リード]** の下の **[!UICONTROL 検索レイアウト]** をクリックします。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. 「**リードリストビュー**」行で「**編集**」をクリックします。
+1. 「**[!UICONTROL リードリストビュー]**」行で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. 「**Marketo キャンペーンに追加**」、「**Marketo メールを送信**」、「**ウォッチリストに追加**」ボタンを「**選択したボタン**」に追加し、「**保存**」します。
+1. 「**[!UICONTROL Marketo キャンペーンに追加]**」、「**[!UICONTROL Marketo メールを送信]**」、「**[!UICONTROL ウォッチリストに追加]**」ボタンを「**[!UICONTROL 選択したボタン]**」に追加し、「**[!UICONTROL 保存]**」します。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

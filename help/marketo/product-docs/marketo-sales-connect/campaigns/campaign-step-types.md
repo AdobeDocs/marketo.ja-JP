@@ -4,10 +4,10 @@ description: キャンペーンのステップの種類 - Marketo ドキュメ�
 title: キャンペーンのステップの種類
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 100%
+source-wordcount: '180'
+ht-degree: 92%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 100%
 
 ## InMail {#inmail}
 
-複数のチャネルをフォローアップすることは、リードとのつながりを強化する優れた方法です。InMail タスクを使用して、LinkedIn を介して連絡を取るリマインダーを設定できます。
+複数のチャネルをフォローアップすることは、リードとのつながりを強化する優れた方法です。InMail タスクを使用すると、リマインダーを設定して [!DNL LinkedIn] 経由で連絡を取ることができます。
 
 ![](assets/inmail.png)
 

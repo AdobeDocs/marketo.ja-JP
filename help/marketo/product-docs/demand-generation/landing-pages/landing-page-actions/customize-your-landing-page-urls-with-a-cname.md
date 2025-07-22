@@ -4,7 +4,7 @@ description: CNAME を使用したランディングページ URL のカスタ�
 title: CNAME を使用したランディングページ URL のカスタマイズ
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 100%
@@ -69,7 +69,7 @@ Marketo がランディングページをホストしている場合でも、URL
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. 「**ランディングページのドメイン名**」に CNAME を入力します。**フォールバックページ**&#x200B;と&#x200B;**ホームページ**&#x200B;を入力して、「**保存**」をクリックします。
+1. 「**[!UICONTROL ランディングページのドメイン名]**」に CNAME を入力します。**[!UICONTROL フォールバックページ]**&#x200B;と&#x200B;**[!UICONTROL ホームページ]**&#x200B;を入力して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

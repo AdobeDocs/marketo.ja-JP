@@ -4,24 +4,24 @@ description: 顧客フィルター - Marketo ドキュメント - 製品ドキ�
 title: 顧客フィルター
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 100%
+ht-degree: 46%
 
 ---
 
-# 顧客フィルター {#account-filters}
+# [!UICONTROL アカウントフィルター] {#account-filters}
 
 新しい顧客中心型フィルターを使用して、重点顧客とその中の人物を特定し、惹きつけます。
 
 ## TAM フィルター {#tam-filters}
 
-1. 目的のスマートキャンペーンに移動して「**スマートリスト**」をクリックします。
+1. 目的のスマートキャンペーンに移動して「**[!UICONTROL スマートリスト]**」をクリックします。
 
    ![](assets/one.png)
 
-1. 「**+**」をクリックして、**顧客フィルター**&#x200B;フォルダーを展開します。
+1. 「**+**」をクリックして、**[!UICONTROL 顧客フィルター]**&#x200B;フォルダーを展開します。
 
    ![](assets/two.png)
 
@@ -29,9 +29,9 @@ ht-degree: 100%
 
    ![](assets/three.png)
 
-## 顧客リストのメンバー {#member-of-account-list}
+## [!UICONTROL  アカウントリストのメンバー ] {#member-of-account-list}
 
-このフィルターを使用するには、顧客リストドロップダウンをクリックして、
+このフィルターを使用するには、「**[!UICONTROL アカウントリスト]**」ドロップダウンをクリックします。
 
 ![](assets/four.png)
 
@@ -41,11 +41,11 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->「顧客リストのメンバー」フィルターにある修飾子は「is」 1 つだけです。追加の修飾子（「is not」や「is any」など）は使用できません。
+>[!UICONTROL  アカウントリストのメンバー ] フィルターには、「[!UICONTROL is]」という修飾子のみが存在します。追加の修飾子（「is not」や「is any」など）は使用できません。
 
-## 重点顧客のメンバー {#member-of-named-account}
+## [!UICONTROL  指定勘定の社員 ] {#member-of-named-account}
 
-まず、修飾子を選択します。特定の重点顧客の場合は **Is**、任意の重点顧客の場合は **is any** です。
+まず、修飾子を選択します。特定の名前付きアカウントの場合は **[!UICONTROL is]**、任意の名前付きアカウントの場合は **[!UICONTROL is any]** です。
 
 ![](assets/six.png)
 
@@ -57,11 +57,11 @@ ht-degree: 100%
 
 ![](assets/eight.png)
 
-「is any」修飾子を使用する場合、[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)を使用して検索結果を絞り込むことをおすすめします。必要な数だけ追加してください。
+「[!UICONTROL is any]」修飾子を使用する場合は、[ 制約 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) を利用して検索結果を絞り込むことができます。 必要な数だけ追加してください。
 
 ![](assets/nine.png)
 
-単一の最上位顧客からのみメンバーを取得する場合は、「子を含める」を false に設定します。すべての子顧客からメンバーを取得する場合は、true を選択します。
+単一の最上位アカウントのメンバーのみが必要な場合は、「[!UICONTROL  子を含める ]」を **[!UICONTROL false]** に設定します。 すべての子アカウントのメンバーが必要な場合は **[!UICONTROL true]** を選択します。
 
 ![](assets/ten.png)
 

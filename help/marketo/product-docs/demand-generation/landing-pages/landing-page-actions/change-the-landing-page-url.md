@@ -4,7 +4,7 @@ description: ランディングページ URL の変更 - Marketo ドキュメン
 title: ランディングページ URL の変更
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 58%
@@ -23,7 +23,7 @@ ht-degree: 58%
 
    ![](assets/change-the-landing-page-url-2.png)
 
-1. **新しい URL** を入力し、古い URL を破棄またはリダイレクトすることを選択して、「**保存**」をクリックします。
+1. **[!UICONTROL 新しい URL]** を入力し、古い URL を破棄またはリダイレクトすることを選択して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/change-the-landing-page-url-3.png)
 

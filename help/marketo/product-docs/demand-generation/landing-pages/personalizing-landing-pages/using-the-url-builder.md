@@ -4,7 +4,7 @@ description: URL ビルダーの使用 - Marketo ドキュメント - 製品ド�
 title: URL ビルダーの使用
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
@@ -19,11 +19,11 @@ URL ビルダーを使用すると、URL を作成して Marketo の非表示フ
 >
 >フォームで非表示のフィールドを作成し、その設定を編集する方法については、[フォームフィールドを非表示に設定する](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md)を参照してください。
 
-1. ランディングページを選択して「**ランディングページアクション**」をクリックし、「**URL ツール**」にカーソルを置いて「**URL ビルダー**」をクリックします。
+1. ランディングページを選択して「**[!UICONTROL ランディングページアクション]**」をクリックし、「**[!UICONTROL URL ツール]**」にカーソルを置いて「**[!UICONTROL URL ビルダー]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
-1. 使用するフィールドを選択し、値を入力して、「**URL を更新**」をクリックします。
+1. 使用するフィールドを選択し、値を入力して、「**[!UICONTROL URL を更新]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a5-3a28.png)
 

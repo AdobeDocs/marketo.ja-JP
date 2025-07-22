@@ -4,7 +4,7 @@ description: メールプログラムのスケジュールを設定する — Ma
 title: メールプログラムのスケジュールを設定する
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 メールプログラムを作成してオーディエンスを定義し、メールを選択したら、プログラムに&#x200B;*いつ*&#x200B;メールを送信するかを伝える必要があります。手順は以下のとおりです。
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. 「**スケジュール**」タイルで、日付を設定します。
+1. 「**[!UICONTROL スケジュール]**」タイルで、日付を設定します。
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. [受信者タイムゾーン](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)機能や[ヘッドスタート](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)機能を使用することもできます。
+1. [[!UICONTROL 受信者タイムゾーン]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)機能や[[!UICONTROL ヘッドスタート]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)機能を使用することもできます。
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 

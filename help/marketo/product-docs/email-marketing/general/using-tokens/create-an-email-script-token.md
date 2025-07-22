@@ -4,10 +4,10 @@ description: メールスクリプトトークンを作成する — Marketo ド
 title: メールスクリプトトークンを作成する
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 上級の開発者は、メールで [Velocity スクリプト](https://velocity.apache.org/engine/1.7/user-guide.html)を使用できます。その方法を説明しましょう。
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ ht-degree: 100%
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. 「**マイトークン**」タブで、**メールスクリプト**&#x200B;トークンをドラッグします。
+1. 「**[!UICONTROL マイトークン]**」タブで、**[!UICONTROL メールスクリプト]**&#x200B;トークンをドラッグします。
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. メールスクリプトトークンに名前を付け、**クリックして内容を編集**&#x200B;します。
+1. メールスクリプトトークンに名前を付け、そのコンテンツを **[!UICONTROL クリックして編集]** します。
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. 右側のツリーを使用して、**リード、商談**、または&#x200B;**カスタムオブジェクト**&#x200B;トークンをドラッグします。
+1. 右側のツリーを使用して、**[!UICONTROL Person]**、**[!UICONTROL Opportunity]**、**[!UICONTROL Custom Object]** トークンをドラッグします。
 
    ![](assets/five-2.png)
 
@@ -54,11 +54,11 @@ ht-degree: 100%
    * [Velocity リファレンスガイド](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Velocity ツール Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. スクリプトが完了したら、「**保存**」をクリックします。
+1. スクリプトが完了したら、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. 「**保存**」をもう 1 回クリックします。
+1. 「**[!UICONTROL 保存]**」をもう 1 回クリックします。
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 

@@ -4,16 +4,16 @@ description: アカウントスコア - Marketo ドキュメント - 製品ド�
 title: アカウントスコア
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '355'
-ht-degree: 94%
+ht-degree: 82%
 
 ---
 
-# アカウントスコア {#account-score}
+# [!UICONTROL  アカウントのスコア ] {#account-score}
 
-アカウントスコアリングは、ターゲットアカウント管理の重要な部分です。アカウントのエンゲージメントレベルを判断するのに役立ちます。
+アカウントのスコアリングは、[!UICONTROL Target アカウント管理 ] の重要な部分です。 アカウントのエンゲージメントレベルを判断するのに役立ちます。
 
 ## アカウントのスコアリングとは {#what-is-account-scoring}
 
@@ -57,30 +57,30 @@ B2B の購入プロセスの複雑な世界では、1 人の個人が購入を�
 
 リードスコアを設定したら、次の手順に従います。
 
-1. 「**管理者**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/account-score-1.png)
 
-1. 「**ターゲットアカウント管理**」をクリックします。
+1. 「**[!UICONTROL Target アカウント管理]**」をクリックします。
 
    ![](assets/account-score-2.png)
 
-1. 「スコアリングフィールド」で、「**編集**」をクリックします。
+1. [!UICONTROL  スコアリングフィールド ] で、**[!UICONTROL 編集]** をクリックします。
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >最大 **5 つの**&#x200B;フィールドを選択して、アカウントスコアを計算できます。
+   >最大 **5 個** のフィールドを選択して、[!UICONTROL  アカウントスコア ] を計算できます。
 
-1. アカウントスコア名を入力し、「**個人スコアを選択**」ドロップダウンをクリックして、対応するスコアを選択します。
+1. [!UICONTROL  アカウントスコア ] の名前を入力し、「**[!UICONTROL 人物スコアを選択]**」ドロップダウンをクリックして、対応するスコアを選択します。
 
    ![](assets/account-score-4.png)
 
-1. 「**+ 追加**」をクリックして、スコアを追加します。
+1. 「**[!UICONTROL + 追加]**」をクリックして、スコアを追加します。
 
    ![](assets/account-score-5.png)
 
-1. 必要なスコアをすべて追加します。終了したら「**保存**」をクリックします。
+1. 必要なスコアをすべて追加します。終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/account-score-6.png)

@@ -4,7 +4,7 @@ description: 既存のメールを選択する - Marketo ドキュメント - �
 title: 既存のメールを選択する
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 100%
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 [メールプログラムを作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)してオーディエンスを定義したら、どのようなメールを送信するかを決定します。メールプログラム内で[メールを作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)するか、既存のメールから選択することができます。既存のメールを選ぶ方法は次の通りです。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
    ![](assets/selectemailprogram.jpg)
 
-1. 「**メール**」タイルで、送信するメールを選択します。
+1. 「**[!UICONTROL メール]**」タイルで、送信するメールを選択します。
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 

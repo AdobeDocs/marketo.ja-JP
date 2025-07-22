@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 100%
+source-wordcount: '180'
+ht-degree: 53%
 
 ---
 
@@ -16,21 +16,21 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Sales Insight Actions をプロビジョニングすると、Marketo は自動的に資格情報を Actions に送信し、インスタンスを Marketo に接続します。この手順は、Sales Connect インスタンスがプロビジョニングされた後に、**接続が確立されていない場合にのみ**&#x200B;必須です接続が確立されている場合は、Marketo の管理者設定ページに資格情報が入力され、接続を解除するオプションが表示されます。
+>[!DNL Sales Insight Actions] をプロビジョニングすると、Marketoによって自動的に資格情報が Actions に送信され、インスタンスがMarketoに接続されます。 この手順は、**インスタンスがプロビジョニングされた後に** 接続が確立されているのに気付かない場合にのみ [!DNL Sales Connect] 必要です。 接続が確立されている場合は、Marketo の管理者設定ページに資格情報が入力され、接続を解除するオプションが表示されます。
 
-## Sales Connect を Marketo に接続する前の資格情報の取得 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Marketoに接続する前の資格情報 [!DNL Sales Connect] 取得 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
-Marketo 内から一連の資格情報を取得する必要があります。これらの資格情報は、後でセールスコネクト管理者が Marketo とセールスコネクトを接続する際に使用します。
+Marketo 内から一連の資格情報を取得する必要があります。これらの資格情報は、後で [!DNL Sales Connect] 管理者によってMarketoと [!DNL Sales Connect] を接続するために使用されます。
 
-1. Marketo で、「**管理者**」をクリックします。
-
-PICC
-
-1. ツリーで、「**セールスコネクト**」をクリックします。
+1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
 PICC
 
-1. 以下の Marketo 資格情報を選択し、Sales Connect 管理者に送信します。Munchkin ID、クライアント ID、クライアント秘密鍵。
+1. ツリーで、「**[!UICONTROL セールスコネクト]**」をクリックします。
+
+PICC
+
+1. を選択し、[!DNL Sales Connect] 管理者に次のMarketo資格情報を送信します：[!UICONTROL Munchkin ID]、[!UICONTROL  クライアント ID]、[!UICONTROL  クライアントシークレット ]。
 
 PICC
 
@@ -38,16 +38,16 @@ PICC
 >
 >上記の情報をコピーして貼り付ける場合は、スペースが追加されていないことを確認します。
 
-## Sales Connect を Marketo に接続 {#connect-sales-connect-to-marketo}
+## [!DNL Sales Connect] の Marketo への接続 {#connect-sales-connect-to-marketo}
 
-1. Sales Connect で、歯車アイコンをクリックし、「**設定**」を選択します。
-
-PICC
-
-1. 「管理者設定」で、「**Marketo**」を選択します。
+1. [!DNL Sales Connect] で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
 PICC
 
-1. Marketo 管理者から提供された Marketo 資格情報を入力し、「**接続**」をクリックします。
+1. [!UICONTROL  管理設定 ] で、**Marketo** を選択します。
+
+PICC
+
+1. Marketo 管理者から提供された Marketo 資格情報を入力し、「**[!UICONTROL 接続]**」をクリックします。
 
 PICC

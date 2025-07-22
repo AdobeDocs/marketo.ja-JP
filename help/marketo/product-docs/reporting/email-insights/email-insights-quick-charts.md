@@ -4,10 +4,10 @@ description: メールインサイトのクイックグラフ - Marketo ドキ�
 title: メールインサイトのクイックグラフ
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 この例では、カリフォルニア州とフロリダ州での 2016 年 2 月の最初の 3 週間の開封率を選択します。
 
-1. 分析画面の右側で日付フィルターをクリックします。
+1. [!UICONTROL Analytics] 画面の右側にある日付フィルターをクリックします。
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
    ![](assets/two-2.png)
 
-1. 日付範囲を選択したら、「**適用**」をクリックします。
+1. 日付範囲を選択したら、「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/three-2.png)
 
@@ -39,11 +39,11 @@ ht-degree: 100%
 
    ![](assets/5.png)
 
-1. グラフの右側で、エクスポートアイコンをクリックし、「**クイックチャートとして保存**」を選択します。
+1. グラフの右側で、エクスポートアイコンをクリックし、「**[!UICONTROL クイックチャートとして保存]**」を選択します。
 
    ![](assets/six.png)
 
-1. クイックグラフに名前を付け、「**保存**」をクリックします。
+1. クイックグラフに名前を付け、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ ht-degree: 100%
 
 クイックチャートは削除するのも簡単です。
 
-1. 「**クイックグラフ**」アイコンをクリックします。
+1. 「**[!UICONTROL クイックグラフ]**」アイコンをクリックします。
 
    ![](assets/nine.png)
 
@@ -73,7 +73,7 @@ ht-degree: 100%
 
    ![](assets/ten.png)
 
-1. 「**OK**」をクリックします。
+1. 「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/eleven.png)
 

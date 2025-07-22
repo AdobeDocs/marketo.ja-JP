@@ -3,7 +3,7 @@ description: チームメンバーへのタスクの割り当て - Marketo ド�
 title: チームメンバーへのタスクの割り当て
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 100%
@@ -18,11 +18,11 @@ ht-degree: 100%
 >
 >タスクの割り当ては、共有取引先責任者に対してのみ可能です。
 
-1. Web アプリケーションで、「**コマンドセンター**」をクリックします。
+1. Web アプリケーションで、「**[!UICONTROL コマンドセンター]**」をクリックします。
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. 「**タスクを追加**」をクリックします。
+1. 「**[!UICONTROL タスクを追加]**」をクリックします。
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -50,6 +50,6 @@ ht-degree: 100%
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. チームメイトに関連する重要な詳細を追加し（オプション）、「**作成**」をクリックします。
+1. チームメイトに関連する重要な詳細を追加し（オプション）、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/assigning-tasks-to-team-members-9.png)

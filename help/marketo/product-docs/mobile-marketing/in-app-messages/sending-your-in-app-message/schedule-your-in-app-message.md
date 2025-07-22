@@ -4,7 +4,7 @@ description: アプリ内メッセージのスケジュール設定 - Marketo �
 title: アプリ内メッセージのスケジュール設定
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 今すぐメッセージを送信するか、後で送信するようにスケジュールを設定します。
 
-1. アプリ内メッセージをスケジュールするには、「**将来の日付を設定**」を選択し、ドロップダウンカレンダーから開始日を選択します。
+1. アプリ内メッセージをスケジュールするには、「**[!UICONTROL 将来の日付を設定]**」を選択し、ドロップダウンカレンダーから開始日を選択します。
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. または、今すぐプログラムを実行するには、「**今すぐ実行**」を選択します。「開始日」フィールドが非表示になります。
+1. または、今すぐプログラムを実行するには、「**[!UICONTROL 今すぐ実行]**」を選択します。「開始日」フィールドが非表示になります。
 
    ![](assets/schedule-your-in-app-message-4.png)
 

@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 7e0708db6abbdf5c151fe05647da7a7b0b3cbd13
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 93%
@@ -16,25 +16,25 @@ ht-degree: 93%
 
 ## カテゴリの作成 {#create-a-category}
 
-1. 「**テンプレート**」タブをクリックします。
+1. 「**[!UICONTROL テンプレート]**」タブをクリックします。
 
    ![](assets/manage-template-categories-1.png)
 
-1. **カテゴリ**&#x200B;の横にある&#x200B;**+**&#x200B;アイコンをクリックします。
+1. **カテゴリ**&#x200B;の横にある&#x200B;**[!UICONTROL +]**&#x200B;アイコンをクリックします。
 
    ![](assets/manage-template-categories-2.png)
 
-1. 新しいカテゴリの名前を入力し、「**作成**」をクリックします。
+1. 新しいカテゴリの名前を入力し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/manage-template-categories-3.png)
 
 ## テンプレートカテゴリの名前を変更 {#rename-a-template-category}
 
-1. 「**テンプレート**」タブをクリックします。
+1. 「**[!UICONTROL テンプレート]**」タブをクリックします。
 
    ![](assets/manage-template-categories-4.png)
 
-1. 名前を変更するテンプレートにポインターを合わせて、3 つのドットをクリックします。「**名前を変更**」を選択します。
+1. 名前を変更するテンプレートにポインターを合わせて、3 つのドットをクリックします。「**[!UICONTROL 名前を変更]**」を選択します。
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,15 +44,15 @@ ht-degree: 93%
 
 ## テンプレートカテゴリの削除 {#delete-a-template-category}
 
-1. 「**テンプレート**」タブをクリックします。
+1. 「**[!UICONTROL テンプレート]**」タブをクリックします。
 
    ![](assets/manage-template-categories-7.png)
 
-1. 名前を変更するテンプレートにポインターを合わせて、3 つのドットをクリックします。「**削除**」を選択します。
+1. 名前を変更するテンプレートにポインターを合わせて、3 つのドットをクリックします。「**[!UICONTROL 削除]**」を選択します。
 
    ![](assets/manage-template-categories-8.png)
 
-1. 「**削除**」をクリックして確定します。
+1. 「**[!UICONTROL 削除]**」をクリックして確定します。
 
    ![](assets/manage-template-categories-9.png)
 

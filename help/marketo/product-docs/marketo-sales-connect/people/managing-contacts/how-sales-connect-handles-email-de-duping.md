@@ -4,16 +4,16 @@ description: Sales Connect でのメールの重複排除の処理方法 - Marke
 title: Sales Connect でのメールの重複排除の処理方法
 exl-id: 1f57d943-8439-4653-a4e7-6dac65b3312d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '96'
+ht-degree: 75%
 
 ---
 
-# Sales Connect でのメールの重複排除の処理方法 {#how-sales-connect-handles-email-de-duping}
+# [!DNL Sales Connect] によるメールの重複排除方法 {#how-sales-connect-handles-email-de-duping}
 
-Sales Connect に [CSV ファイルをアップロード](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)する場合、インポートが実行される前に、CSV に含まれるすべての類似の連絡先がマージされます。
+[CSV をアップロード ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md) しているファイルを [!DNL Sales Connect] に読み込む場合、読み込みが行われる前に、CSV 内の同様の連絡先がすべて結合されます。
 
 これは、同じメールアドレスに基づいて行われます。つまり、2 つの同じメールアドレスがある場合、それらを 1 つの取引先責任者に統合します。
 

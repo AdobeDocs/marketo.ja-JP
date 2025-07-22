@@ -4,14 +4,14 @@ description: Microsoft Dynamics での連絡先の作成 - Marketo ドキュメ�
 title: Microsoft Dynamics での連絡先の作成
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 55%
+source-wordcount: '116'
+ht-degree: 56%
 
 ---
 
-# Microsoft Dynamics での連絡先の作成 {#create-a-contact-in-microsoft-dynamics}
+# [!DNL Microsoft Dynamics] での連絡先の作成 {#create-a-contact-in-microsoft-dynamics}
 
 1. Dynamics で連絡先として作成する、Marketo Engageのみのユーザー（Microsoft タイプが空）を選択します。
 
@@ -27,9 +27,9 @@ ht-degree: 55%
 
    >[!NOTE]
    >
-   >「[!UICONTROL &#x200B; ユーザーをMicrosoftに同期 &#x200B;]」フローアクション（トリガーキャンペーンのみ）を使用する場合、リード/連絡先は Dynamics でリアルタイムに作成されます。
+   >「[!UICONTROL 人物を Microsoft に同期]」フローアクション（トリガーキャンペーン内のみ）を使用すると、Dynamics でリード／取引先責任者がリアルタイムで作成されます。
 
-1. Marketo は、Dynamics のリードレコードを、Dynamics のどのアカウントにも関連付けられていない連絡先に限定します。
+1. Marketoは、[!DNL Dynamics] のリードレコードを、[!DNL Dynamics] のどのアカウントにも関連付けられていない連絡先に選定します。
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 

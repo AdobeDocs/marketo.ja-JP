@@ -4,18 +4,18 @@ description: メールインサイトの概要 - Marketo ドキュメント - �
 title: メールインサイトの概要
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 100%
+ht-degree: 71%
 
 ---
 
 # メールインサイトの概要 {#email-insights-overview}
 
-メールインサイトでは、メールマーケターが履歴データから強力なインサイトを引き出すことができます。メールインサイトは独立しつつ関連性のある 2 つのセクション（アナリティクスと送信）で構成されています。
+**[!UICONTROL メールインサイト]** は、メールマーケターに履歴データからの強力なインサイトを提供します。 これは、2 つの独立した、しかし関連するセクション、[!UICONTROL Analytics] と [!UICONTROL  送信 ] で構成されています。
 
-メールインサイトを開くには、「My  Marketo」（またはアナリティクスホーム画面）から、「メールインサイト」のタイルをクリックするだけです。
+**[!UICONTROL メールインサイト]** にアクセスするには、マイMarketo（または Analytics のホーム画面）でタイルをクリックするだけです。
 
 ![](assets/icon.png)
 
@@ -23,15 +23,15 @@ ht-degree: 100%
 >
 >デフォルトでは、アクセスできる各ワークスペースについてデータが表示されます。表示する必要のないワークスペースは、選択を解除することができます。選択した内容は、これ以降も記憶されます。
 
-## アナリティクス {#analytics}
+## [!UICONTROL 分析] {#analytics}
 
-[アナリティクス](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)では、メール配信とエンゲージメントの指標について集計時系列データを調べます。
+[[!UICONTROL アナリティクス]](/help/marketo/product-docs/reporting/email-insights/email-insights-analytics-overview.md)では、メール配信とエンゲージメントの指標について集計時系列データを調べます。
 
 ![](assets/emailanalytics.jpg)
 
 **フィルター**
 
-高度な[フィルター](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)を使用して、オーディエンス、コンテンツ、プラットフォーム別に結果を分析します。同じフィルターが、アナリティクスと送信のどちらにも適用されます。
+高度な[フィルター](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)を使用して、オーディエンス、コンテンツ、プラットフォーム別に結果を分析します。同じフィルターが [!UICONTROL Analytics] と [!UICONTROL  送信 ] の両方に適用されます。
 
 ![](assets/filter.png)
 
@@ -41,9 +41,9 @@ ht-degree: 100%
 
 ![](assets/three.png)
 
-## 送信 {#sends}
+## [!UICONTROL  送信数 ] {#sends}
 
-[送信](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)ページでは、最近のメール通信の特性を調べます。
+[[!UICONTROL 送信]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)ページでは、最近のメール通信の特性を調べます。
 
 ![](assets/two.png)
 
@@ -55,7 +55,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->メールインサイトへのデータ反映には、最大 8 時間を要する可能性があります。
+>データが **[!UICONTROL メールインサイト]** に反映されるまで、最大 8 時間かかる場合があります。
 
 ## カスタムディメンション {#custom-dimensions}
 

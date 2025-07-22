@@ -4,10 +4,10 @@ description: SFDC キャンペーンに追加 - Marketo ドキュメント - 製
 title: SFDC キャンペーンに追加
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: ht
-source-wordcount: '176'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '173'
+ht-degree: 82%
 
 ---
 
@@ -17,13 +17,13 @@ Marketo Engage キャンペーンでこのフローステップを使用でき�
 
 >[!NOTE]
 >
->Salesforce と統合されている場合にのみ使用できます。
+>[!DNL Salesforce] と統合されている場合にのみ使用できます。
 
 ![](assets/add-to-sfdc-campaign-1.png)
 
 ## 使用方法 {#usage}
 
-1. リードを追加したい Salesforce のキャンペーンを選択します。
+1. リードを追加する [!DNL Salesforce] キャンペーンを見つけて選択します。
 
    ![](assets/add-to-sfdc-campaign-2.png)
 
@@ -38,7 +38,7 @@ Marketo Engage キャンペーンでこのフローステップを使用でき�
    >
    >Salesforce のキャンペーンの[マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}を用いて指定すれば、プログラムを簡単に複製できます。
 
-1. Salesforce のキャンペーンにリードが追加されたときに割り当てるメンバーステータスを選択します。
+1. リードが追加された際に、そのリードに割り当てる [!DNL Salesforce] キャンペーンメンバーステータスを選択します。
 
    ![](assets/add-to-sfdc-campaign-3.png)
 

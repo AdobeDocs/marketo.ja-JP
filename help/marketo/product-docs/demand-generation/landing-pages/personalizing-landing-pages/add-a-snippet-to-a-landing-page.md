@@ -4,7 +4,7 @@ description: ランディングページにスニペットを追加する - Mark
 title: ランディングページにスニペットを追加する
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
@@ -19,15 +19,15 @@ ht-degree: 100%
 >
 >[スニペットの作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-1. ランディングページを選択し、「**ドラフトを編集**」をクリックします。
+1. ランディングページを選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. ランディングページエディターで、**スニペット**&#x200B;要素をドラッグします。
+1. ランディングページエディターで、**[!UICONTROL スニペット]**&#x200B;要素をドラッグします。
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. スニペットを見つけて選択し、「**保存**」をクリックします。
+1. スニペットを見つけて選択し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 

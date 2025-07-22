@@ -4,10 +4,10 @@ description: メール内の「友達に転送」リンク - Marketo ドキュ�
 title: メール内の「友達に転送」リンク
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '703'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 100%
 
 ## メールテンプレートへのリンクの追加 {#add-the-link-to-an-email-template}
 
-1. **Design Studio** に移動します。
+1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/one-8.png)
 
-1. リンクを追加するメールテンプレートを見つけて選択します。「**ドラフトを編集**」をクリックします。
+1. リンクを追加するメールテンプレートを見つけて選択します。「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/two-7.png)
 
@@ -42,9 +42,9 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >メールテンプレート内での **position:relative**  スタイル設定の使用はお勧めしません「友達に転送」ボックスの位置と表示に問題が生じる可能性があります。
+   >メールテンプレートでスタイル **位置:relative** を使用することはお勧めしません。 「友達に転送」ボックスの位置と表示に問題が生じる可能性があります。
 
-1. 「**ドラフトをプレビュー**」を使用して、テンプレートが希望どおりに表示されることを確認します。
+1. 「**[!UICONTROL ドラフトをプレビュー]**」を使用して、テンプレートが希望どおりに表示されることを確認します。
 
    ![](assets/four-5.png)
 
@@ -84,7 +84,7 @@ ht-degree: 100%
 
    ![](assets/eight-1.png)
 
-1. Ctrl/Cmd+V キーを使用して **`{{system.forwardToFriendLink}}`** トークンを **URL** ボックスに貼り付け、「**挿入**」をクリックします。
+1. Ctrl/Cmd+V キーを使用して **`{{system.forwardToFriendLink}}`** トークンを **URL** ボックスに貼り付け、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ ht-degree: 100%
 
 リードのアクティビティログで、誰がメールを転送および受信したかを確認できます。
 
-1. **`Database`** に移動します。
+1. **[!UICONTROL データベース]**&#x200B;に移動します。
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ ht-degree: 100%
 
    ![](assets/fourteen.png)
 
-1. 「**アクティビティログ**」タブに移動します。「**友達への転送メールを受信**」または「**友達への転送メールを送信**」をダブルクリックして詳細を確認します。
+1. 「**[!UICONTROL アクティビティログ]**」タブに移動します。「**[!UICONTROL 友達への転送メールを受信]**」または「**[!UICONTROL 友達への転送メールを送信]**」をダブルクリックして詳細を確認します。
 
    ![](assets/fifteen.png)
 
@@ -128,7 +128,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >**リード ID** をクリック可能にして、今後のパッチのリードに直接リンクします。
+   >**[!UICONTROL リード ID]** をクリック可能にして、今後のパッチのリードに直接リンクします。
 
    ![](assets/seventeen.png)
 

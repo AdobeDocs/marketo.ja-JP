@@ -4,16 +4,16 @@ description: 手順 1 / 3 - Marketo ソリューション（2011 オンプレミ
 title: 手順 1 / 3 - Marketo ソリューション（2011 オンプレミス版）のインストール
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: ht
-source-wordcount: '285'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '277'
+ht-degree: 77%
 
 ---
 
 # 手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール {#step-of-install-the-marketo-solution-on-premises}
 
-Microsoft Dynamics オンプレミスと Marketo Engage を同期する前に、Dynamics に Marketo ソリューションをインストールする必要があります。
+オンプレミスとMarketo[!DNL Microsoft Dynamics] 同期する前に、まず [!DNL Dynamics] にMarketo ソリューションをインストールする必要があります。
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ Microsoft Dynamics オンプレミスと Marketo Engage を同期する前に、
 
 >[!NOTE]
 >
->**Dynamics 管理者権限が必要**&#x200B;です。
+>**[!DNL Dynamics]管理者権限が必要です。**
 >
 >この同期を実行するには、CRM 管理者権限が必要です。
 
-1. Dynamics にログインして、左下のメニューで「**[!UICONTROL 設定]**」を選択します。
+1. **[!DNL Dynamics]** にログインし、左下のメニューで **[!UICONTROL 設定]** を選択します。
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
@@ -43,7 +43,7 @@ Microsoft Dynamics オンプレミスと Marketo Engage を同期する前に、
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. 「**[!UICONTROL 参照]**」をクリックします。[ダウンロードした](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} Marketo リード管理ソリューションを選択します。「**[!UICONTROL 次へ]**」をクリックします。
+1. 「**[!UICONTROL 参照]**」をクリックします。[ダウンロードした](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Marketo リード管理ソリューションを選択します。「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 
@@ -79,11 +79,11 @@ Microsoft Dynamics オンプレミスと Marketo Engage を同期する前に、
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. Marketo リード管理が、**すべてのソリューション**&#x200B;ページに表示されます。
+1. [!UICONTROL Marketo リード管理 ] が **[!UICONTROL すべてのソリューション]** ページに表示されます。
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. 「Marketo リード管理」を選択し、「**[!UICONTROL すべてのカスタマイズを公開]**」をクリックします。
+1. [!UICONTROL Marketo リード管理 ] を選択し、「**[!UICONTROL すべてのカスタマイズを公開]**」をクリックします。
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
@@ -93,4 +93,4 @@ Microsoft Dynamics オンプレミスと Marketo Engage を同期する前に、
 
 >[!MORELIKETHIS]
 >
->[手順 2 / 3：Dynamics（2011 オンプレミス）での Marketo 同期ユーザーのセットアップ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md){target="_blank"}
+>[ 手順 2/3: [!DNL Dynamics]  （2011 オンプレミス）でMarketo Sync ユーザーを設定する ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

@@ -3,16 +3,16 @@ description: メールへの添付ファイルまたはトラック可能コン�
 title: メールへの添付ファイルまたはトラック可能コンテンツの追加
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 100%
+source-wordcount: '415'
+ht-degree: 81%
 
 ---
 
 # メールへの添付ファイルまたはトラック可能コンテンツの追加 {#add-an-attachment-or-trackable-content-to-your-email}
 
-Marketo Sales からメールを送信する際には、ファイルを添付ファイルとして追加するか、ファイルをダウンロード可能（かつトラック可能）リンクにするかを選択できます。
+[!DNL Marketo Sales] 経由でメールを送信する場合、ファイルを添付ファイルとして追加するか、ファイルをダウンロード可能な（トラッキング可能な）リンクにするオプションがあります。
 
 >[!NOTE]
 >
@@ -20,11 +20,11 @@ Marketo Sales からメールを送信する際には、ファイルを添付フ
 
 ## 添付ファイルの追加 {#add-an-attachment}
 
-1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**作成**」を選択しています）。
+1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**[!UICONTROL 作成]**」を選択しています）。
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
-1. 「宛先」フィールドに入力し、「件名」を入力します。
+1. 「[!UICONTROL  宛先 ]」フィールドに入力し、「件名 [!UICONTROL  を入力 ] ます。
 
    ![](assets/add-an-attachment-or-trackable-content-2.png)
 
@@ -32,13 +32,13 @@ Marketo Sales からメールを送信する際には、ファイルを添付フ
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
-1. 添付するファイルを選択し、「**挿入**」をクリックします。
+1. 添付するファイルを選択し、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/add-an-attachment-or-trackable-content-4.png)
 
    >[!NOTE]
    >
-   >ファイルをアップロードする必要がある場合は、ウィンドウの右上の「**コンテンツをアップロード**」ボタンをクリックします。
+   >ファイルをアップロードする必要がある場合は、ウィンドウの右上の「**[!UICONTROL コンテンツをアップロード]**」ボタンをクリックします。
 
    添付ファイルがメールの下部に表示されます。
 
@@ -46,11 +46,11 @@ Marketo Sales からメールを送信する際には、ファイルを添付フ
 
 ## トラック可能コンテンツを追加 {#add-trackable-content}
 
-1. メールのドラフトを作成します（複数の方法があります。この例では、作成ウィンドウを選択します）。
+1. メールドラフトを作成します（これを行う方法は複数あります。この例では、「**[!UICONTROL 作成]**」ウィンドウを選択しています）。
 
    ![](assets/add-an-attachment-or-trackable-content-6.png)
 
-1. 「宛先」フィールドに入力し、「件名」を入力します。
+1. 「[!UICONTROL  宛先 ]」フィールドに入力し、「件名 [!UICONTROL  を入力 ] ます。
 
    ![](assets/add-an-attachment-or-trackable-content-7.png)
 
@@ -58,13 +58,13 @@ Marketo Sales からメールを送信する際には、ファイルを添付フ
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. トラックするコンテンツを選択し、「**コンテンツをトラック**」スライダーをクリックし、「**挿入**」をクリックします。
+1. 追加するコンテンツを選択し、「**[!UICONTROL コンテンツは追跡されています]**」スライダーをクリックして、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >ファイルをアップロードする必要がある場合は、ウィンドウの右上の「**コンテンツをアップロード**」ボタンをクリックします。
+   >ファイルをアップロードする必要がある場合は、ウィンドウの右上の「**[!UICONTROL コンテンツをアップロード]**」ボタンをクリックします。
 
    コンテンツはメール内にリンクとして表示されます。受信者は、このリンクをクリックしてコンテンツをダウンロードできます。
 

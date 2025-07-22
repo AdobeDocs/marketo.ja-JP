@@ -4,10 +4,10 @@ description: キャンペーンでのタスクの使用 — Marketo ドキュメ
 title: キャンペーンでのタスクの使用
 exl-id: 444e7e3a-d774-40cf-82d1-40e395a79baa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 100%
+source-wordcount: '192'
+ht-degree: 95%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 タスクは、常にキャンペーン内の各個人に関連付けられます。つまり、個々のキャンペーンを続行するには、各ユーザーに移動してタスクを閉じる必要があります。
 
-タスクは、Campaign 2.0 のキャンペーンの「タスク」タブ、コマンドセンターから直接、またはライブフィードの「タスク」セクションから直接、さらに、Salesforce から管理できます。
+タスクは、Campaign 2.0 のキャンペーンの「タスク」タブ、コマンドセンターから直接、またはライブフィードの「タスク」セクションから直接、さらに、[!DNL Salesforce] からタスクを管理することもできます。

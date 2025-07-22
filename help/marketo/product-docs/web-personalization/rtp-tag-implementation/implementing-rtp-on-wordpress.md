@@ -4,32 +4,32 @@ description: Wordpress での RTP の実装 — Marketo ドキュメント — �
 title: Wordpress での RTP の実装
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 100%
+source-wordcount: '185'
+ht-degree: 69%
 
 ---
 
-# Wordpress での RTP の実装 {#implementing-rtp-on-wordpress}
+# [!DNL Wordpress] への RTP の実装 {#implementing-rtp-on-wordpress}
 
-RTP タグを実装するには、次のインストール手順に従います。
+[!UICONTROL RTP タグを実装するには ] 以下のインストール手順に従ってください。
 
-1. **WordPress テーマ**&#x200B;の **header.php** ファイルを開きます。
+1. **テーマの** header.php **[!DNL WordPress]ファイルを開き** す。
 
-   FTP クライアントを使用してサーバーにアクセスするか、WordPress のダッシュボードから直接テーマファイルを編集できます。ファイルエディターは、サイドバーメニューの「**外観**」タブにあります。
+   FTP クライアントを使用してサーバーにアクセスしたり、[!DNL WordPress] ダッシュボードから直接テーマファイルを編集したりできます。 ファイルエディターは、サイドバーメニューの「**[!UICONTROL 外観]**」タブにあります。
 
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
 1. テキストエディターの右側にあるテンプレートファイルのリストで、**header.php** を探して開きます。
 
-1. 「**アカウント設定**」に移動します。
+1. 「**[!UICONTROL アカウント設定]**」に移動します。
 
    a サポートから既に JavaScript タグを受け取っている場合は、手順 5 に進みます。
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
-1. ドメインで、該当するドメインを選択し、「**タグの生成**」をクリックします。
+1. [!UICONTROL  ドメイン ] の下で関連するドメインを見つけて、「**[!UICONTROL タグを生成]**」をクリックします。
 
    ![](assets/image2014-11-30-15-3a20-3a17-1.png)
 
@@ -39,8 +39,8 @@ RTP タグを実装するには、次のインストール手順に従います�
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
-1. header.php ファイルの&#x200B;**ファイルの更新**&#x200B;をクリックします。
+1. header.php ファイルの&#x200B;**[!UICONTROL ファイルの更新]**&#x200B;をクリックします。
 
 1. ランディングページとサブドメインも含めて、すべてのページにタグがあることを確認します。
 
-   a. これは、Web サイトのページを右クリックすることでおこなえます。**「ページソースの表示**」に移動します。**RTP** を検索してタグを見つけます。
+   a. これは、Web サイトのページを右クリックすることでおこなえます。**[!UICONTROL ページを表示Source] に移動します。**」に移動します。**RTP** を検索してタグを見つけます。

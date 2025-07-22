@@ -4,8 +4,8 @@ description: ReST API で使用するカスタムサービスの作成 - Marketo
 title: ReST API で使用するカスタムサービスの作成
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
-1. **LaunchPoint**.をクリックします。
+1. **[!UICONTROL LaunchPoint]**.をクリックします。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 

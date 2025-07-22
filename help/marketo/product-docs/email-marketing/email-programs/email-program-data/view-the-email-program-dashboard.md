@@ -4,7 +4,7 @@ description: メールプログラムダッシュボードの表示- Marketo ド
 title: メールプログラムダッシュボードの表示
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ## メールプログラムを選択します {#select-your-email-program}
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 

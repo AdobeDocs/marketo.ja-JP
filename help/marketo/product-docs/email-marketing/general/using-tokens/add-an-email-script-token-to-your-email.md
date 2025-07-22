@@ -4,8 +4,8 @@ description: メールにメールスクリプトトークンを追加する - M
 title: メールにメールスクリプトトークンを追加する
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 9d6dd17ea20fb75a2931254addff570787ee2f8b
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
 
@@ -19,11 +19,11 @@ ht-degree: 100%
 >
 >1 つのメールに挿入されるすべてのスクリプトトークンの合計サイズは 100 KB を超えてはなりません。
 
-1. **マーケティングアクティビティ**&#x200B;領域に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
 
    ![](assets/one-2.png)
 
-1. トークンを追加するメールを見つけて選択し、「**ドラフトを編集**」をクリックします。
+1. トークンを追加するメールを見つけて選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/two-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
    ![](assets/four-2.png)
 
-1. 以前作成したメールスクリプトトークンを探して選択し、「**挿入**」をクリックします。
+1. 以前作成したメールスクリプトトークンを探して選択し、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/five-1.png)
 

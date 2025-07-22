@@ -4,10 +4,10 @@ description: Facebook リード広告の設定 - Marketo ドキュメント - �
 title: Facebook リード広告の設定
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
-workflow-type: ht
-source-wordcount: '321'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '312'
+ht-degree: 62%
 
 ---
 
@@ -31,39 +31,39 @@ ht-degree: 100%
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. サービスの&#x200B;**表示名**&#x200B;を入力します。ドロップダウンから「**Facebook リード広告**」サービスを選択し、「**作成**」をクリックします。
+1. サービスの&#x200B;**[!UICONTROL 表示名]**&#x200B;を入力します。ドロップダウンから「**[!UICONTROL Facebook リード広告]**」サービスを選択し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
-1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com){target="_blank"} に移動します。統合に使用するアカウントを使用して Facebook にログインします。
+1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com){target="_blank"}.に移動します。統合に使用するアカウントを使用して Facebook にログインします。
 
    >[!NOTE]
    >
-   >Facebook アカウントで、リード広告を取り込むすべての Facebook ビジネスページにアクセスできる必要があります。
+   >[!DNL Facebook] アカウントは、リード広告を取り込むすべての [!DNL Facebook] ビジネスページにアクセスする必要があります。
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. Facebook にログインした後、Marketo に戻り、「**許可**」をクリックします。
+1. [!DNL Facebook] にログインしたら、Marketoに戻って「**[!UICONTROL 認証]**」をクリックします。
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
-1. プロンプトが表示されたら、「**OK**」をクリックして、Facebook への Marketo アプリケーションのインストールを受け入れます。
+1. プロンプトが表示されたら、「**[!UICONTROL OK]**」をクリックして、[!DNL Facebook] へのMarketo アプリケーションのインストールを承認します。
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. これで、権限が与えられます。「**次へ**」をクリックします。
+1. これで、権限が与えられたことに気が付くでしょう。「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. Marketo で Facebook リード広告を取り込むページを選択し、「**次へ**」をクリックします。
+1. Marketoに [!UICONTROL Facebook リード広告 ] を取り込ませるページを選択し、「**[!UICONTROL 次へ]**」をクリックします。
 
    >[!TIP]
    >
-   >必要なページが表示されない場合は、認証に使用した Facebook アカウントが Facebook のページに追加されていることを確認して、もう一度試してください。
+   >期待するページが表示されない場合は、認証に使用する [!DNL Facebook] アカウントが [!DNL Facebook] のページに追加されていることを確認して、もう一度試してください。
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. デフォルトの Facebook から Marketo へのフィールドマッピングを受け入れるには、「**作成**」をクリックします。
+1. Marketoのフィールドマッピングに対するデフォルトの [!DNL Facebook] 定を受け入れるには、**[!UICONTROL 作成]** をクリックするだけです。
 
    >[!TIP]
    >
@@ -71,11 +71,11 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >Marketo では、2 つの Facebook フィールドを 1 つの Marketo フィールドにマッピングすることはできません。マッピングは 1 対 1 のみです。2 対 1 のマッピングをおこなうと、リードを Marketo システムに配置できない場合があります。
+   >Marketoは、2 つの [!DNL Facebook] フィールドを 1 つのMarketo フィールドにマッピングすること（1 から 1 のみ）をサポートしていません。 2 対 1 のマッピングをおこなうと、リードを Marketo システムに配置できない場合があります。
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   これで完了です。Facebook リード広告キャンペーンを成功に導くと、リードの Marketo への流れが始まります。
+   これで完了です。リード広告キャンペーンで成功を収めると、リードがMarketoに送 [!DNL Facebook] れ始めます。
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

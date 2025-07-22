@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '405'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
 # 「選択して送信」による一括メールの作成 {#composing-bulk-emails-with-select-and-send}
 
-ここでは、「選択して送信」オプションを使用してメールを送信／編集する方法を説明します。
+「[!UICONTROL  選択 ]」および「[!UICONTROL  送信 ] オプションを使用して、メールを送信または編集する方法を以下に示します。
 
 ## メールの送信 {#sending-emails}
 
-1. 人物ページに移動します。
+1. **[!UICONTROL 人物ページ]** に移動します。
 
    ![](assets/composing-bulk-emails-with-select-and-send-1.png)
 
@@ -30,7 +30,7 @@ ht-degree: 100%
    >
    >「選択して送信」を使用する場合は、最大 200 名の人物を選択できます。
 
-1. 「**選択したメール**」ボタンをクリックします。
+1. 「**[!UICONTROL 選択したメール]**」ボタンをクリックします。
 
    ![](assets/composing-bulk-emails-with-select-and-send-3.png)
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >テンプレートを選択し、送信前にすべての動的フィールドが正しく入力されていることを確認する場合は、「**動的フィールドをプレビュー**」をクリックします。すべてのメールをプレビューするには、一括サイドバーのすべての受信者が選択されていることを確認します。1 つのメールを選択し、「**動的フィールドをプレビュー**」をクリックした場合、そのメールのみがプレビューされます。
+   >テンプレートを選択し、送信前にすべての動的フィールドが正しく入力されていることを確認する場合は、「**[!UICONTROL 動的フィールドをプレビュー]**」をクリックします。すべてのメールをプレビューするには、一括サイドバーのすべての受信者が選択されていることを確認します。1 つのメールを選択し、「**[!UICONTROL 動的フィールドをプレビュー]**」をクリックした場合、そのメールのみがプレビューされます。
 
 ## メールの編集 {#editing-emails}
 
@@ -50,7 +50,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >デフォルトでは、すべての受信者が選択されます。個人をクリックし、全員を再選択する場合は、「**すべての受信者**」をクリックします。をクリックします。一括編集を行うには、すべての受信者を選択する必要があります。
+   >デフォルトでは、すべての受信者が選択されます。個人をクリックし、全員を再選択する場合は、「**[!UICONTROL すべての受信者]**」をクリックします。をクリックします。一括編集を行うには、すべての受信者を選択する必要があります。
 
 1. エディターで変更を加えます。新しいメールを作成したり、テンプレートを編集したりできます（この例では、新しいメールを作成します）。
 
@@ -60,7 +60,7 @@ ht-degree: 100%
    >
    >特定のメール受信者をクリックすると、そのメールに反映される変更を確認できます。
 
-1. 「**送信**」（または「[スケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)」）をクリックして、一括電子メール更新を行ったすべての受信者に送信します。
+1. 「**[!UICONTROL 送信]**」（または「[[!UICONTROL スケジュール]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)」）をクリックして、一括電子メール更新を行ったすべての受信者に送信します。
 
    ![](assets/composing-bulk-emails-with-select-and-send-6.png)
 
@@ -72,7 +72,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >デフォルトでは、すべての受信者が選択されます。個人をクリックし、全員を再選択する場合は、「**すべての受信者**」をクリックします。をクリックします。一括編集を行うには、すべての受信者を選択する必要があります。
+   >デフォルトでは、すべての受信者が選択されます。個人をクリックし、全員を再選択する場合は、「**[!UICONTROL すべての受信者]**」をクリックします。をクリックします。一括編集を行うには、すべての受信者を選択する必要があります。
 
 1. 個々の受信者を選択します。
 
@@ -90,7 +90,7 @@ ht-degree: 100%
    >
    >他の受信者をクリックすると、以前に選択した受信者に加えた変更が表示されないことがわかります。
 
-1. 「**送信**」（または「[スケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)」）をクリックして、一括電子メール更新を行ったすべての受信者に送信します。
+1. 「**[!UICONTROL 送信]**」（または「[[!UICONTROL スケジュール]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)」）をクリックして、一括電子メール更新を行ったすべての受信者に送信します。
 
    ![](assets/composing-bulk-emails-with-select-and-send-9.png)
 

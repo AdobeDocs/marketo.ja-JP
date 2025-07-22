@@ -4,10 +4,10 @@ description: 英語以外のカスタムオブジェクト同期の有効化 - M
 title: 英語以外のカスタムオブジェクト同期の有効化
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 82%
+source-wordcount: '155'
+ht-degree: 70%
 
 ---
 
@@ -45,7 +45,7 @@ Marketo 同期ユーザーが英語以外の言語に設定されている場合
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Marketoに戻り、**[!UICONTROL 管理者]**/**[!UICONTROL Salesforce]**/**[!UICONTROL オブジェクト]** の下の **[!UICONTROL スキーマを更新]** をクリックします。
+1. Marketoに戻り、{ 管理者 **[!UICONTROL /]** 2}Salesforce **[!UICONTROL /]** オブジェクト **[!UICONTROL の下の]** スキーマを更新 **[!UICONTROL をクリックします。]**
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
@@ -57,7 +57,7 @@ Marketo 同期ユーザーが英語以外の言語に設定されている場合
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. 次に、Salesforce に戻り、上記の手順を使用して、同期ユーザーを希望の言語に戻します。
+1. 次に、[!DNL Salesforce] に戻り、上記の手順を使用して同期ユーザーを優先言語に戻します。
 
 >[!NOTE]
 >

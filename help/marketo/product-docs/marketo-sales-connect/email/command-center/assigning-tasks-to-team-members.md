@@ -4,10 +4,10 @@ description: チームメンバーへのタスクの割り当て - Marketo ド�
 title: チームメンバーへのタスクの割り当て
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 100%
+ht-degree: 78%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 100%
 >
 >タスクの割り当ては、共有連絡先に対してのみ可能です。
 
-1. 「**コマンドセンター**」をクリックします。
+1. 「**[!UICONTROL コマンドセンター]**」をクリックします。
 
    ![](assets/one-1.png)
 
-1. 「**タスクを追加**」をクリックします。
+1. 「**[!UICONTROL タスクを追加]**」をクリックします。
 
    ![](assets/two-1.png)
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
    ![](assets/four-1.png)
 
-1. 「タスクの割り当て」フィールドで、タスクを割り当てるチームの人物を選択します。
+1. タスクを割り当てるチームのユーザーを **[!UICONTROL タスクを割り当て]** フィールドで選択します。
 
    ![](assets/five.png)
 
@@ -43,14 +43,14 @@ ht-degree: 100%
 
    ![](assets/six.png)
 
-1. 「期限」を選択します。
+1. **[!UICONTROL 期限]** を選択します。
 
    ![](assets/seven.png)
 
-1. 「優先度」を設定します。
+1. **[!UICONTROL 優先度]** を設定します。
 
    ![](assets/eight.png)
 
-1. チームメイトに関連する重要な詳細を追加し（オプション）、「**作成**」をクリックします。
+1. チームメイトに関連する重要な詳細を追加し（オプション）、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/nine.png)

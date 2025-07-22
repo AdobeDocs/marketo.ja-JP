@@ -1,18 +1,18 @@
 ---
-description: Sales Connect 管理者向けスタートガイド - Marketo ドキュメント - 製品ドキュメント
-title: Sales Connect 管理者向けスタートガイド
+description: 管理者向け入門ガイド  [!DNL Sales Connect]  Marketo ドキュメント – 製品ドキュメント
+title: 入門ガイド（管理者向  [!DNL Sales Connect] ）
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 7005be3c62987e1f8beb7301fbb28293d96aad18
-workflow-type: ht
-source-wordcount: '479'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '463'
+ht-degree: 76%
 
 ---
 
-# Sales Connect 管理者向けスタートガイド {#getting-started-guide-for-sales-connect-admins}
+# [!DNL Sales Connect] 管理者向け入門ガイド {#getting-started-guide-for-sales-connect-admins}
 
-このドキュメントでは、新たに Sales Connect インスタンスを設定するための最初の手順を説明します。これらの手順の一部では、Marketo 管理者、Salesforce 管理者、Sales Connect 管理者としてアクセスする必要があります。以下のガイドに従って、インスタンスの設定を完了します。
+このドキュメントでは、新しい [!DNL Sales Connect] インスタンスを設定するための最初の手順を説明します。 これらの手順の一部では、Marketo管理者、[!DNL Salesforce] 管理者および [!DNL Sales Connect] 管理者としてアクセスする必要があります。 以下のガイドに従って、インスタンスの設定を完了します。
 
 >[!NOTE]
 >
@@ -30,9 +30,9 @@ Marketo から Marketo Sales Connect アカウントをプロビジョニング�
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
-## Salesforce への接続 {#connecting-to-salesforce}
+## [!DNL Salesforce] への接続  {#connecting-to-salesforce}
 
-メール、通話、タスクなどのセールスフォースに対するセールス活動をログに記録するには、すべてのユーザーが Salesforce に個別に接続する必要があります。ただし、管理者として Salesforce に接続する場合は、チーム全体のアクティビティのログを設定して、すべての Sales Connect ユーザーにグローバルログ設定を適用できます。
+E メール、電話、タスクなどの Salesforce に対する販売活動のログを有効にするには、すべてのユーザーが個別に [!DNL Salesforce] に接続する必要があります。 ただし、管理者としてSalesforceに接続すると、チーム全体のアクティビティログ設定を指定して、グローバルログ設定がすべての [!DNL Sales Connect] ユーザーに適用されるようにすることができます。
 
 管理者または管理者以外として Sales Connect インスタンスを Salesforce インスタンスに接続するには、[この記事](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md){target="_blank"}の手順に従ってください。
 
@@ -48,7 +48,7 @@ Marketo に接続すると、セールス部門は潜在顧客の発掘に、マ
 
 Marketo に接続し、セールスユーザに接続へのアクセス権を付与する方法について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}してください。
 
-## Salesforce カスタマイズパッケージのインストール {#installing-salesforce-customization-package}
+## カスタマイズパッケージ [!DNL Salesforce] インストール {#installing-salesforce-customization-package}
 
 セールスを成功に導くための一環として、メインのワークスペースに適切な機能があることが挙げられます。Sales Connect カスタマイズパッケージを使用すると、Salesforce からエンゲージメント機能と主要なセールスアクティビティ属性にアクセスできます。
 

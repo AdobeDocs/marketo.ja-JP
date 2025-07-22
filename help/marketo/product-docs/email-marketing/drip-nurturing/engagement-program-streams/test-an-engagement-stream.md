@@ -4,10 +4,10 @@ description: エンゲージメントストリームのテスト - Marketo ド�
 title: エンゲージメントストリームのテスト
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 すべてのコンテンツをストリームに追加したら、一度に 1 つずつテストできます。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 100%
 
    ![](assets/two.png)
 
-1. 「**プログラムアクション**」をクリックして、「**ストリームをテスト**」を選択します。
+1. 「**[!UICONTROL プログラムアクション]**」をクリックして、「**[!UICONTROL ストリームをテスト]**」を選択します。
 
    ![](assets/three.png)
 
-1. **ユーザーをテスト**&#x200B;ドロップダウンからユーザーを選択します。コンテンツが実際に送信されるので、選択する際にはその点に留意してください。
+1. **[!UICONTROL ユーザーをテスト]**&#x200B;ドロップダウンからユーザーを選択します。コンテンツが実際に送信されるので、選択する際にはその点に留意してください。
 
    ![](assets/four-rubix.png)
 
@@ -37,9 +37,9 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >探しているテストユーザーが存在しない場合は、「**ユーザーを作成**」オプションを使用して即座に作成できます。
+   >探しているテストユーザーが存在しない場合は、「**[!UICONTROL ユーザーを作成]**」オプションを使用して即座に作成できます。
 
-   「初期ストリーム」をクリックし、テストするストリームを選択し、「キャストを実行」をクリックします。
+   **[!UICONTROL 初期ストリーム]** をクリックし、テストするストリームを選択して **[!UICONTROL キャストを実行]** をクリックします。
    ![](assets/five-rubiks.png)
 
 1. ユーザーが、以前に設定した[トランジションルール](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)に入った場合は、更新アイコンをクリックします。
@@ -54,4 +54,4 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >「**キャストを再実行**」をクリックしない限り、他のコンテンツが送信されることはありません。
+   >「**[!UICONTROL キャストを再実行]**」をクリックしない限り、他のコンテンツが送信されることはありません。

@@ -4,10 +4,10 @@ description: スニペットへのコンテンツの追加 - Marketo ドキュ�
 title: スニペットへのコンテンツの追加
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 100%
+source-wordcount: '201'
+ht-degree: 94%
 
 ---
 
@@ -23,29 +23,29 @@ ht-degree: 100%
 >
 >スニペットに [Marketo メール構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)を埋め込むことはできません。Marketo メール構文はメールで機能&#x200B;**しません**。スニペットは本文コンテンツ（HTML+テキスト）にする必要があります。
 
-1. **Design Studio** に移動します。
+1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/designstudio-2.png)
 
-1. 目的の&#x200B;**スニペット**&#x200B;を選択して、「**ドラフトを編集**」をクリックします。
+1. 目的の&#x200B;**スニペット**&#x200B;を選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
 スニペットには、3 種類のコンテンツを追加できます。
 
-## トークンの追加 {#add-token}
+## [!UICONTROL  トークン ] を追加 {#add-token}
 
-1. **トークン**&#x200B;要素をドラッグ＆ドロップします。
+1. **[!UICONTROL トークン]**&#x200B;要素をドラッグ＆ドロップします。
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. **トークン**&#x200B;を入力して、「**挿入**」をクリックします。
+1. **[!UICONTROL トークン]**&#x200B;を入力して、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## 画像／ファイルの追加 {#add-image-file}
 
-1. **画像／ファイル**&#x200B;要素をドラッグ＆ドロップします。
+1. **[!UICONTROL 画像／ファイル]**&#x200B;要素をドラッグ＆ドロップします。
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -53,7 +53,7 @@ ht-degree: 100%
    >
    >独自の画像やファイルを Marketo に追加できます。画像とファイルについて詳しくは、[こちら](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)を参照してください。
 
-1. 使用する&#x200B;**画像**&#x200B;を選択して、「**挿入**」をクリックします。
+1. 使用する&#x200B;**画像**&#x200B;を選択して、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -71,11 +71,11 @@ ht-degree: 100%
    >
    >書式設定ツールを使用して、テキストをカスタマイズします。
 
-1. メールの場合は、「**テキストバージョン**」タブをクリックします。
+1. メールの場合、「**[!UICONTROL テキストバージョン （メールの場合）]**」タブをクリックします。
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. 「**HTML からコピー**」をクリックします。
+1. 「**[!UICONTROL HTML からコピー]**」をクリックします。
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 

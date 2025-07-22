@@ -4,10 +4,10 @@ description: フォームフィールドを必須にする - Marketo ドキュ�
 title: フォームフィールドを必須にする
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 100%
 
 [フォームにフィールドを追加するとき](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)、そのうちいくつかを必須フィールドにしたいことがあります。手順は次のとおりです。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-4.png)
 
-1. フォームを選択して、「**フォームの編集**」をクリックします。
+1. フォームを選択して、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/editform-2.png)
 
-1. 必須にするフィールドを選択し、「必須」をオンにします。
+1. 必須にするフィールドを選択し、「**[!UICONTROL 必須]** にチェックを入れます。
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. これで完了です。「**終了**」をクリックします。
+1. これで完了です。「**[!UICONTROL 終了]**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. 「**承認して閉じる**」をクリックします。
+1. 「**[!UICONTROL 承認して閉じる]**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 

@@ -4,10 +4,10 @@ description: Adobe Analytics との連携 - Marketo ドキュメント - 製品�
 title: Adobe Analytics との連携
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1067'
-ht-degree: 100%
+source-wordcount: '1059'
+ht-degree: 87%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 100%
 
 ## はじめに {#intro}
 
-Adobe Analytics アカウント内の組織、業界、Marketo リアルタイムパーソナライズ（RTP）キャンペーンデータを表示し、B2B の観点から web 分析を分析します。
+Adobe Analytics アカウント内の組織、業界、[!DNL Marketo Real-Time Personalization] （RTP）キャンペーンデータを表示して、B2B の観点から web 分析を分析します。
 
-このドキュメントでは、Marketo リアルタイムパーソナライズ（RTP）と Adobe Analytics の連携を有効にします。RTP のデータを使用すると、サイトを訪問するすべての業界セグメントおよび組織のトレンドを検出および分析し、RTP キャンペーンの効果を測定し、最適な結果を得るためのインサイトと分析を提供できます。
+このドキュメントでは、[!DNL Marketo Real-Time Personalization] （RTP）とAdobe Adobe Analytics間の統合について説明します。 RTP のデータを使用すると、サイトを訪問するすべての業界セグメントおよび組織のトレンドを検出および分析し、RTP キャンペーンの効果を測定し、最適な結果を得るためのインサイトと分析を提供できます。
 
 これを実現するには、各セグメントの新規訪問者数と再訪問者数などの指標を調べ、キャンペーンのクリック率を分析し、最もコンバージョン率の高いリードを創出した業界やカスタマイズされたセグメント、リアルタイムキャンペーンを見つけます。この機能を活用して、RTP アカウントから最大限のメリットを得ます。
 
@@ -62,9 +62,9 @@ Adobe Analytics の「カスタムリンク」で、RTP キャンペーンのイ
 
 AA でこれらの変数を設定するには、次の手順を実行します。
 
-1. AA アカウントで&#x200B;**管理ツール**&#x200B;に移動します。
-1. 連携で使用する&#x200B;**レポートスイート**&#x200B;を選択します。
-1. **設定を編集**&#x200B;で、**コンバージョン**&#x200B;に移動して、「**[コンバージョン変数](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**」を選択します。\
+1. AA アカウントで&#x200B;**[!UICONTROL 管理ツール]**&#x200B;に移動します。
+1. 連携で使用する&#x200B;**[!UICONTROL レポートスイート]**&#x200B;を選択します。
+1. **[!UICONTROL 設定を編集]** で **[!UICONTROL コンバージョン]** に移動し、「**[[!UICONTROL コンバージョン変数 ]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**」を選択します。\
    [コンバージョン変数](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)数を選択します。以下をおすすめします。
 
    1. Evar 20：業界カスタムコンバージョン
@@ -74,13 +74,13 @@ AA でこれらの変数を設定するには、次の手順を実行します�
    >
    >これらの番号がすでに使用されている場合は、別の使用可能な番号を選択します。この番号を RTP アカウント設定のスロット番号に合わせます。
 
-   1. ステータスを&#x200B;_有効_&#x200B;に変更します。
+   1. ステータスを_[!UICONTROL Enabled_] に変更します。
 
       1. 名前を&#x200B;**業界**&#x200B;および&#x200B;**組織**.に変更します。（レポートスイートでは次のように表示されます）。
 
-      1. 「有効期限」フィールドを&#x200B;**訪問**&#x200B;に変更します。
+      1. 「有効期限」フィールドを&#x200B;**[!UICONTROL 訪問]**&#x200B;に変更します。
 
-1. **設定を編集**&#x200B;で、**コンバージョン**&#x200B;に移動して、「**[成功イベント](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**」を選択します。.
+1. **[!UICONTROL 設定を編集]** の **[!UICONTROL コンバージョン]** に移動し、「**[[!UICONTROL 成功イベント ]](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**」を選択します。
 
    1. 「カスタム成功イベント」イベント番号を選択します。以下をおすすめします。
 
@@ -95,7 +95,7 @@ AA でこれらの変数を設定するには、次の手順を実行します�
 
    1. タイプフィールドで「**カウンター（下位関係なし）**」を選択します
 
-1. **設定を編集**&#x200B;で、**[トラフィック](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)**&#x200B;に移動して、「**[トラフィック変数](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**」を選択します。.
+1. **[!UICONTROL 設定を編集]**&#x200B;で、**[トラフィック](https://microsite.omniture.com/t2/help/en_US/reference/#Traffic_Variable)**&#x200B;に移動して、「**[トラフィック変数](https://microsite.omniture.com/t2/help/en_US/reference/#Enable_traffic_variable_reports)**」を選択します。.
 
    1. トラフィック変数プロパティ番号を選択します。以下をおすすめします。
 
@@ -110,21 +110,21 @@ AA でこれらの変数を設定するには、次の手順を実行します�
 
       1. 4 つのプロパティ名を変更します。これは、レポートスイートに表示される名前です。
 
-   1. 有効フィールドを&#x200B;**有効**&#x200B;にします。
+   1. [!UICONTROL  有効 ] フィールドを **[!UICONTROL 有効]** に選択します。
 
-   1. パスレポートフィールドを&#x200B;**有効**&#x200B;にします。
+   1. 「[!UICONTROL  パスレポート ]」フィールドを **[!UICONTROL 有効]** に選択します。
 
-## Marketo リアルタイムパーソナライゼーション（RTP）での設定 {#set-up-in-marketo-real-time-personalization-rtp}
+## [!DNL Marketo Real-Time Personalization] で設定（RTP） {#set-up-in-marketo-real-time-personalization-rtp}
 
-1. RTP プラットフォームで、「**アカウント設定**」に移動します。
+1. RTP プラットフォームで、「**[!UICONTROL アカウント設定]**」に移動します。
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
-1. 「**アカウント設定**」で、「**ドメイン**」をクリックします。
-1. 「**分析**」で、「**Adobe Analytics**」をクリックします。
-1. コンバージョン変数、カスタム変数、トラフィック変数を&#x200B;**オン**&#x200B;にします。
+1. 「**[!UICONTROL アカウント設定]**」で、「**[!UICONTROL ドメイン]**」をクリックします。
+1. **[!UICONTROL Analytics]** で、**Adobe Analytics** をクリックします。
+1. コンバージョン変数、カスタム変数、トラフィック変数を&#x200B;**[!UICONTROL オン]**&#x200B;にします。
 1. コンバージョン変数、イベント変数、トラフィック変数の&#x200B;**スロット番号**&#x200B;を AA で作成されたスロット番号に一致させます
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
 ![](assets/image2014-11-29-12-3a24-3a42.png)
 
@@ -134,20 +134,20 @@ AA でこれらの変数を設定するには、次の手順を実行します�
 >
 >**コンバージョン変数**
 >
->* スロット 20：業界カスタムコンバージョン
->* スロット 21：組織のカスタムコンバージョン
+>* [!UICONTROL  業界カスタムコンバージョン ] - スロット 20
+>* [!UICONTROL  組織のカスタムコンバージョン ] - スロット 21
 >
 >**カスタムイベント**
 >
->* スロット 20：キャンペーンカスタムイベント
->* スロット 21：セグメントカスタムイベント
+>* [!UICONTROL Campaign カスタムイベント ] - スロット 20
+>* [!UICONTROL  セグメントカスタムイベント ] - スロット 21
 >
 >**トラフィック変数**
 >
->* スロット 20：セグメント組織トラフィック変数
->* スロット 21：セグメント業界トラフィック変数
->* スロット 22：キャンペーン組織トラフィック変数
->* スロット 23：業界トラフィック変数
+>* [!UICONTROL  セグメント組織トラフィック変数 ] - スロット 20
+>* [!UICONTROL  セグメント業界のトラフィック変数 ] - スロット 21
+>* [!UICONTROL Campaign 組織トラフィック変数 ] - スロット 22
+>* [!UICONTROL Campaign 業界トラフィック変数 ] - スロット 23
 >
 >**これらのスロット番号が、AA で作成された変数とイベント番号と一致していることを確認してください。**
 
@@ -176,7 +176,7 @@ AA でカスタマイズされたレポートやダッシュボードの例を�
 
 [RTP ダッシュボード](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)と呼ばれる&#x200B;**新しいダッシュボード**&#x200B;を作成します。このダッシュボードは、垂直線および RTP セグメントに従った訪問者の分類を理解するのに役立ちます。
 
-1. **ダッシュボード**／**ダッシュボードを追加**&#x200B;をクリックします。
+1. 「**[!UICONTROL ダッシュボード ]」をクリック**、「**[!UICONTROL ダッシュボードを追加]**」をクリックします。
 
 1. ダッシュボードに **RTP ダッシュボード**&#x200B;という名前を付けます。
 
@@ -186,11 +186,11 @@ AA でカスタマイズされたレポートやダッシュボードの例を�
 
 ダッシュボードへの業種レポートレットの追加
 
-1. **カスタムコンバージョン**&#x200B;に移動して、「**業界**」をクリックします。
+1. **[!UICONTROL カスタムコンバージョン]**&#x200B;に移動して、「**[!UICONTROL 業界]**」をクリックします。
 
 1. グラフを&#x200B;**円グラフ**&#x200B;に設定します。
 
-1. **ダッシュボード**&#x200B;をクリックして、**レポートレット**&#x200B;を追加します。
+1. **[!UICONTROL ダッシュボード]**&#x200B;をクリックして、**[!UICONTROL レポートレット]**&#x200B;を追加します。
 
 1. レポートに&#x200B;**上位の業界**&#x200B;という名前を付けます。
 
@@ -200,11 +200,11 @@ AA でカスタマイズされたレポートやダッシュボードの例を�
 
 ダッシュボードへのセグメントレポートレットの追加
 
-1. **サイト指標**&#x200B;に移動します。**カスタムイベント**／**セグメント**&#x200B;をクリックします。
+1. **[!UICONTROL サイト指標]**&#x200B;に移動します。**[!UICONTROL カスタムイベント]**／**[!UICONTROL セグメント]**&#x200B;をクリックします。
 
 1. グラフを&#x200B;**縦棒グラフ**&#x200B;に設定します。
 
-1. **ダッシュボード**&#x200B;をクリックして、**レポートレット**&#x200B;を追加します。
+1. **[!UICONTROL ダッシュボード]**&#x200B;をクリックして、**[!UICONTROL レポートレット]**&#x200B;を追加します。
 
 1. レポートに&#x200B;**上位セグメント**&#x200B;という名前を付けます。
 
@@ -216,7 +216,7 @@ AA でカスタマイズされたレポートやダッシュボードの例を�
 
 ## Adobe Analytics でのインプレッション数とクリック数（コンバージョン）の表示 {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. 「**カスタムリンク**」をクリックします。
+1. **[!UICONTROL カスタム ] リンク** をクリックします。
 
    ![](assets/sitecatalyst1-1.png)
 

@@ -4,7 +4,7 @@ description: Gmail からメールを送信する方法 - Marketo ドキュメ�
 title: Gmail からメールを送信する方法
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 1. メールテンプレートを選択するか、新しいメッセージを書き込みます。
 
-1. メールを送信する準備が整ったら、「**送信と接続**」ボタンをクリックします。通常の送信ボタンの代わりにそのボタンをクリックすると、トラッキングが適用されたメールが送信されます。Sales Connect は、メールが開封されたタイミングや、誰かがリンクをクリックしたタイミングを追跡します。
+1. メールを送信する準備が整ったら、「**[!UICONTROL 送信と接続]**」ボタンをクリックします。通常の送信ボタンの代わりにそのボタンをクリックすると、トラッキングが適用されたメールが送信されます。Sales Connect は、メールが開封されたタイミングや、誰かがリンクをクリックしたタイミングを追跡します。

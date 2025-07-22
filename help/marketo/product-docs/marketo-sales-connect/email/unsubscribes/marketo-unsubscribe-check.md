@@ -4,16 +4,16 @@ description: Marketo 配信停止チェック - Marketo ドキュメント - 製
 title: Marketo 配信停止チェック
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 100%
+source-wordcount: '190'
+ht-degree: 64%
 
 ---
 
 # Marketo 配信停止チェック {#marketo-unsubscribe-check}
 
-Marketo 登録解除チェックは、チームの Marketo への接続を使用して、Marketo のリード管理システムで登録解除になっているユーザーにメールが送信されるのを防ぎます。セールスユーザーが Sales Connect でメールを送信すると、メール ID が登録解除されているかどうかを確認するために、Marketo に対して API が呼び出されます。登録解除されている場合、メールの送信がブロックされます。
+[!UICONTROL Marketo登録解除チェック ] は、チームのMarketoへの接続を使用して、Marketo Lead Management system の登録解除したユーザーにメールが送信されないようにします。 営業ユーザーが [!DNL Sales Connect] を含むメールを送信すると、Marketoに対して API 呼び出しが行われ、メール ID が登録解除されているかどうかを確認します。 配信停止の場合、メール送信がブロックされます。
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Marketo 登録解除チェックは、チームの Marketo への接続を使用
 
 ## オンにする {#turning-it-on}
 
-1. Web アプリケーションで、歯車アイコンをクリックし、「**設定**」を選択します。
+1. Web アプリケーションで、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one-2.png)
 
-1. 管理設定で、「**登録解除**」をクリックします。
+1. [!UICONTROL  管理者設定 ] で、「**[!UICONTROL 購読解除]**」をクリックします。
 
    ![](assets/two-3.png)
 
-1. 「**統合**」をクリックします。
+1. 「**[!UICONTROL 統合]**」をクリックします。
 
    ![](assets/three-3.png)
 
-1. Marketo 登録解除チェックセクションで、スライダーをクリックしてチェックを有効にします。
+1. 「[!UICONTROL Marketo登録解除チェック ]」セクションで、スライダーをクリックしてチェックをアクティブにします。
 
    ![](assets/four-2.png)
 

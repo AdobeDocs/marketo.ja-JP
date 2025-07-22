@@ -4,10 +4,10 @@ description: Salesforce サンドボックスにカスタマイズ機能をイ�
 title: Salesforce サンドボックスにカスタマイズ機能をインストールする方法
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 100%
+source-wordcount: '74'
+ht-degree: 55%
 
 ---
 
@@ -21,16 +21,16 @@ ht-degree: 100%
 >
 >[Sales Connect を Salesforce サンドボックスに接続する](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. Sales Connect で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
+1. [!DNL Sales Connect] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one-3.png)
 
-1. 管理設定で「**Salesforce**」をクリックします。
+1. [!UICONTROL  管理設定 ] で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/two-3.png)
 
-1. 「**カスタマイズ機能をインストール**」をクリックします。
+1. 「**[!UICONTROL カスタマイズ機能をインストール]**」をクリックします。
 
    ![](assets/three-3.png)
 
-   次に、通常の Salesforce アカウントと同様に、カスタマイズ機能をインストールする手順を実行します。
+   次に、通常の [!DNL Salesforce] アカウントの場合と同様に、カスタマイズをインストールする手順を実行します。

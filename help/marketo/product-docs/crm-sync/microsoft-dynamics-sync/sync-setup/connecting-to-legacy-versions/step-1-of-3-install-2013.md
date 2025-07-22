@@ -4,16 +4,16 @@ description: 手順 1 / 3 - Dynamics（2013 オンプレミス）での Marketo 
 title: 手順 1 / 3 - Dynamics（2013 オンプレミス）での Marketo ソリューションのインストール
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: ht
-source-wordcount: '283'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '276'
+ht-degree: 81%
 
 ---
 
-# 手順 1 / 3：Dynamics（2013 オンプレミス）での Marketo ソリューションのインストール {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
+# 手順 1/3:[!DNL Dynamics] にMarketo ソリューションをインストールする（2013 オンプレミス） {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
-Microsoft Dynamics オンプレミスと Marketo Engage を同期する前に、Dynamics に Marketo ソリューションをインストールする必要があります。
+オンプレミスとMarketo[!DNL Microsoft Dynamics] 同期する前に、まず [!DNL Dynamics] にMarketo ソリューションをインストールする必要があります。
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ Microsoft Dynamics オンプレミスと Marketo Engage を同期する前に、
 
 >[!NOTE]
 >
->**Dynamics 管理者権限が必要**&#x200B;です。
+>**[!DNL Dynamics]管理者権限が必要です。**
 >
 >この同期を実行するには、CRM 管理者権限が必要です。
 
-1. Dynamics にログインします。「**[!UICONTROL Microsoft Dynamics CRM]**」ドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。
+1. **[!DNL Dynamics]** にログインします。 「**[!UICONTROL Microsoft Dynamics CRM]**」ドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
@@ -43,11 +43,11 @@ Microsoft Dynamics オンプレミスと Marketo Engage を同期する前に、
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
-1. 「**[!UICONTROL 参照]**」をクリックし、「[ダウンロードされたソリューション](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}」を選択します。「**[!UICONTROL 次へ]**」をクリックします。
+1. 「**[!UICONTROL 参照]**」をクリックし、「[ダウンロードされたソリューション](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)」を選択します。「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. ソリューション情報を表示し、「**[!UICONTROL ソリューションパッケージ詳細を表示]**」をクリックします。
+1. [!UICONTROL  ソリューション情報 ] を表示し、「**[!UICONTROL ソリューションパッケージの詳細を表示]**」をクリックします。
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
@@ -55,7 +55,7 @@ Microsoft Dynamics オンプレミスと Marketo Engage を同期する前に、
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. ソリューション情報ページに戻り、「**[!UICONTROL 次へ]**」をクリックします。
+1. [!UICONTROL  ソリューション情報 ] ページに戻り、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 

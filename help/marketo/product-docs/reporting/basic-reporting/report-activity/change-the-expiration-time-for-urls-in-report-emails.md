@@ -4,7 +4,7 @@ description: レポートメール URL の有効期限を変更する - Marketo 
 title: レポートメール URL の有効期限を変更する
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
@@ -19,15 +19,15 @@ ht-degree: 100%
 
 レポートサブスクリプションメール内のリンクの有効期限は 3 日です。リンクの有効期限を変更するには、次の手順に従います。
 
-1. 「**管理**」で「**ログイン設定**」をクリックします。
+1. 「**[!UICONTROL 管理]**」で「**[!UICONTROL ログイン設定]**」をクリックします。
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. 「**URL の有効期限を編集**」ボタンをクリックします。
+1. 「**[!UICONTROL URL の有効期限を編集]**」ボタンをクリックします。
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. リンクの有効期限が切れるまでの日数をドロップダウンメニューから選択します。「**保存**」をクリックします。
+1. リンクの有効期限が切れるまでの日数をドロップダウンメニューから選択します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 

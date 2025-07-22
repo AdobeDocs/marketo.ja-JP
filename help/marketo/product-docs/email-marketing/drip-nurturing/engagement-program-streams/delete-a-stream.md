@@ -4,7 +4,7 @@ description: ストリームを削除する - Marketo ドキュメント - 製�
 title: ストリームを削除する
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 エンゲージメントプログラムからストリームを削除する必要がある場合は、次の手順を実行します。
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. エンゲージメントプログラムを選択して、「**ストリーム**」に移動します。
+1. エンゲージメントプログラムを選択して、「**[!UICONTROL ストリーム]**」に移動します。
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -27,11 +27,11 @@ ht-degree: 100%
    >
    >ストリームを削除すると、そのストリーム内のコンテンツの履歴データが失われます。
 
-1. 歯車アイコンをクリックし、「**削除**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 削除]**」を選択します。
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. 「**削除**」をクリックして、削除を確定します。
+1. 「**[!UICONTROL 削除]**」をクリックして、削除を確定します。
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 

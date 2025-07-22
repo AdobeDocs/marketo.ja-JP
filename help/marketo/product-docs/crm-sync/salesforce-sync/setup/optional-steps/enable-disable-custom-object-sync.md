@@ -4,10 +4,10 @@ description: カスタムオブジェクト同期の有効化／無効化 - Mark
 title: カスタムオブジェクト同期の有効化／無効化
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
-workflow-type: ht
-source-wordcount: '221'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '219'
+ht-degree: 84%
 
 ---
 
@@ -39,7 +39,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    >[!NOTE]
    >
-   >Salesforce カスタムオブジェクトスキーマの同期には、数分かかる場合があります。
+   >[!DNL Salesforce] カスタムオブジェクトスキーマの同期には、数分かかる場合があります。
 
 1. 「**[!UICONTROL スキーマを更新]**」をクリックします。
 
@@ -49,7 +49,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    >[!TIP]
    >
-   >Marketo では、Salesforce のリード、連絡先、アカウントオブジェクトのいずれかと直接の関係がある場合にのみ、カスタムオブジェクトを同期できます。
+   >Marketoがカスタムオブジェクトを同期できるのは、[!DNL Salesforce] のリード、連絡先またはアカウントのオブジェクトと直接の関係がある場合のみです。
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 

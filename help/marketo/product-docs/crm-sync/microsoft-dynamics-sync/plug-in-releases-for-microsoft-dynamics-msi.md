@@ -1,35 +1,35 @@
 ---
 unique-page-id: 10099102
-description: Microsoft Dynamics MSI 向けプラグインリリース - Marketo ドキュメント - 製品ドキュメント
-title: Microsoft Dynamics MSI 向けプラグインリリース
+description: MSI のプラグインリリース  [!DNL Microsoft Dynamics]  Marketoドキュメント – 製品情報
+title: ' [!DNL Microsoft Dynamics] MSI 用プラグインのリリース'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 39%
+source-wordcount: '403'
+ht-degree: 22%
 
 ---
 
-# Microsoft Dynamics MSI 向けプラグインリリース {#plug-in-releases-for-microsoft-dynamics-msi}
+# [!DNL Microsoft Dynamics] MSI 用プラグインのリリース {#plug-in-releases-for-microsoft-dynamics-msi}
 
-Microsoft Dynamics に初めて同期するときは、Marketo Sales Insight（MSI）用の最新バージョンのプラグインをダウンロードしてインストールします。Marketo Engageは定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
+[!DNL Microsoft Dynamics] に初めて同期する場合は、Marketo セールスInsight（MSI）用の最新バージョンのプラグインをダウンロードしてインストールします。 Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-Marketo独自の CRM 同期ソリューションを Dynamics に使用している場合は、Dynamics のリリースに対応する [ 最新のプラグインをダウンロード ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} してください。 カスタム同期があり、Marketo Sales Insight を購入した方は、[ パッケージはこちら ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"} をご覧ください。
+Marketoのネイティブ CRM 同期ソリューションを [!DNL Dynamics] に使用している場合は、[ のリリースに対応する ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} 最新のプラグインをダウンロード [!DNL Dynamics] してください。 カスタム同期があり、Marketo Sales Insightを購入した方は、[ パッケージは ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"} こちら」をご覧ください。
 
 >[!NOTE]
 >
->これらのバージョンは、Dynamics のオンプレミスバージョンとオンラインバージョンの両方で機能します。
+>これらのバージョンは、[!DNL Dynamics] のオンプレミスバージョンとオンラインバージョンの両方で機能します。
 
 ## MSI ソリューションのアップグレード {#upgrading-your-msi-solution}
 
-1. Dynamics の「_インポート_」ボタンを押して、Dynamics CRM の&#x200B;**[!UICONTROL 既存のバージョンに]**&#x200B;最新バージョンのソリューションをインポートします。
+1. _の_ 読み込み [!DNL Dynamics] ボタンをクリックして、**[!UICONTROL CRM の（既存のバージョンよりも]** 最新バージョンのソリューションを読み込み [!DNL Dynamics] す。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->例：Dynamics CRM のバージョンが 2.0.0.20 で、最新バージョンが 2.0.0.21 の場合は、2.0.0.20 _以降_&#x200B;のバージョンをインポートします。
+>例：[!DNL Dynamics] CRM のバージョンが 2.0.0.20 で、最新バージョンが 2.0.0.21 の場合、_over_ バージョン 2.0.0.20 をインポートします。
 
 1. 「**[!UICONTROL 次へ]**」をクリックします。
 
@@ -103,7 +103,7 @@ Marketo独自の CRM 同期ソリューションを Dynamics に使用してい�
   <tr> 
    <td>2020/10/1</td> 
    <td>2.0.0.21</td> 
-   <td>バグ修正：Sales Insight の役割を持つユーザーに MSI API 設定フィールドへのアクセスを割り当てる。</td> 
+   <td>バグ修正：Insightの営業ロールを持つユーザーに MSI API 設定フィールドへのアクセスを割り当てる。</td> 
   </tr> 
   <tr> 
    <td>2020/07/20</td> 
@@ -113,7 +113,7 @@ Marketo独自の CRM 同期ソリューションを Dynamics に使用してい�
   <tr> 
    <td>2020/06/12</td> 
    <td>2.0.0.19</td> 
-   <td>バグ修正：MSD API 設定で MSI シークレットパスワードを非表示にする。</td> 
+   <td>バグ修正：MSD API Config で MSI シークレットパスワードを非表示にする。</td> 
   </tr> 
   <tr> 
    <td>2020/05/26</td> 
@@ -128,7 +128,7 @@ Marketo独自の CRM 同期ソリューションを Dynamics に使用してい�
   <tr> 
    <td>2020/04/28</td> 
    <td>2.0.0.16</td> 
-   <td>バグ修正：MSD CRM サイトマップ設定のリンク依存関係を削除する。</td> 
+   <td>バグ修正：MSD CRM サイトマップ設定のリンクの依存関係を削除する。</td> 
   </tr> 
  </tbody> 
 </table>

@@ -4,10 +4,10 @@ description: サブチームの作成 - Marketo ドキュメント - 製品ド�
 title: サブチームの作成
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 100%
+ht-degree: 80%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 100%
 
 ## サブチームの作成 {#create-a-sub-team-1}
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one-1.png)
 
-1. 管理設定で、「**チーム管理**」を選択します。
+1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL チーム管理]**」を選択します。
 
    ![](assets/two-1.png)
 
-1. 「すべてのチーム」の隣にあるプラス記号（**+**）をクリックします。
+1. [!UICONTROL  すべてのチーム ] の横の「**+**」をクリックします。
 
    ![](assets/three-1.png)
 
-1. チーム名（およびオプションで説明）を入力し、「**作成**」をクリックします。
+1. チーム名（およびオプションで説明）を入力し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/four-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 100%
 
 ## サブチームにユーザーを追加 {#add-people-to-your-sub-team}
 
-1. 引き続き「チーム管理」で、「**全員**」グループを選択します。
+1. [!UICONTROL  チーム管理 ] のまま、**[!UICONTROL 全員]** グループを選択します。
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 100%
 
    ![](assets/six.png)
 
-1. 「**選択したユーザーをチームに追加**」をクリックします。
+1. 「**[!UICONTROL 選択したユーザーをチームに追加]**」をクリックします。
 
    ![](assets/seven.png)
 
@@ -53,6 +53,6 @@ ht-degree: 100%
 
    ![](assets/eight.png)
 
-1. 終了したら「**チームに追加**」をクリックします。
+1. 終了したら「**[!UICONTROL チームに追加]**」をクリックします。
 
    ![](assets/nine.png)

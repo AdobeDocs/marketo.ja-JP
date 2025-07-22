@@ -4,10 +4,10 @@ description: 新規アカウントリストの作成 - Marketo ドキュメン�
 title: 新規アカウントリストの作成
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 100%
+source-wordcount: '406'
+ht-degree: 96%
 
 ---
 
@@ -21,15 +21,15 @@ ht-degree: 100%
 
 ## 新規アカウントリストの作成 {#create-a-new-account-list-1}
 
-1. **アカウントリスト**&#x200B;に移動します。
+1. **[!UICONTROL アカウントリスト]**&#x200B;に移動します。
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. 「**新規作成**」を選択します。
+1. 「**[!UICONTROL 新規作成]**」を選択します。
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. 「**参照**」を選択し、CSV ファイルをアップロードします（CSV ファイルが条件を満たしていることを確認してください）。**名前**&#x200B;と&#x200B;**説明**&#x200B;を追加します。「**保存**」をクリックします。
+1. 「**[!UICONTROL 参照]**」を選択し、CSV ファイルをアップロードします（CSV ファイルが条件を満たしていることを確認してください）。**[!UICONTROL リスト名]** と **[!UICONTROL 説明]** を追加します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -68,7 +68,7 @@ ht-degree: 100%
 
 ![](assets/create-new-account-list-edit.jpg)
 
-「**参照**」を選択し、新しい CSV ファイルをアップロードします。アップロードしたファイルは元のファイルに置き換わります。「**保存**」をクリックします。新しくアップロードされたファイルは、Marketo サポートが承認するまで保留状態になります。保留状態の場合、元のファイルがそのままアクティブになります。
+**[!UICONTROL 参照…]** を選択し、新しい CSV ファイルをアップロードします。 アップロードしたファイルは元のファイルに置き換わります。「**[!UICONTROL 保存]**」をクリックします。新しくアップロードされたファイルは、Marketo サポートが承認するまで保留状態になります。保留状態の場合、元のファイルがそのままアクティブになります。
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -76,11 +76,11 @@ CSV ファイルは既存のファイルに置き換わります。新規ファ�
 
 ## 重点顧客リストの削除 {#delete-a-named-account-list}
 
-1. **アカウントリスト**&#x200B;ページで、削除するリストの「削除」アイコンをクリックします。
+1. **[!UICONTROL アカウントリスト]**&#x200B;ページで、削除するリストの「削除」アイコンをクリックします。
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. リストを削除するかどうかを確認するメッセージが表示されます。「**OK**」をクリックします。
+1. リストを削除するかどうかを確認するメッセージが表示されます。「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/delete-notification-hand.jpg)
 

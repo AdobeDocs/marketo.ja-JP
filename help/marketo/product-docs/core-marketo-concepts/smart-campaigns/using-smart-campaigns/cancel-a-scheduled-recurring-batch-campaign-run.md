@@ -4,7 +4,7 @@ description: 繰り返し予定されているバッチキャンペーンの実�
 title: 繰り返し予定されているバッチキャンペーンの実行のキャンセル
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 56%
@@ -19,7 +19,7 @@ ht-degree: 56%
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. 「**繰り返しのスケジュール**」をクリックします。
+1. 「**[!UICONTROL 繰り返しのスケジュール]**」をクリックします。
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 

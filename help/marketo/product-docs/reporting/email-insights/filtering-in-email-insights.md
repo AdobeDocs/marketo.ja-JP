@@ -4,18 +4,18 @@ description: メールインサイトにおけるフィルター — Marketo ド
 title: メールインサイトにおけるフィルター
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 100%
+ht-degree: 72%
 
 ---
 
-# メールインサイトにおけるフィルター {#filtering-in-email-insights}
+# [!UICONTROL  メールインサイト ] でのフィルタリング {#filtering-in-email-insights}
 
-メールインサイトでは、データをフィルターする方法が異なります。
+[!UICONTROL  メールインサイト ] には、データをフィルタリングする様々な方法があります。
 
-## メールインサイト {#email-insights}
+## [!UICONTROL メールインサイト] {#email-insights}
 
 「+」をクリックして、フィルターの追加を開始します。必要な数だけ追加してください。
 
@@ -59,10 +59,10 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->日付範囲は、Analytics ページと送信数ページの両方に適用されます。ただし、**比較**&#x200B;オプションは Analytics ページにのみ適用できます。
+>日付範囲は、[!UICONTROL Analytics] ページと [!UICONTROL  送信 ] ページの両方に適用されます。 ただし、「**比較**」オプションは、「[!UICONTROL Analytics]」ページにのみ適用できます。
 
 ## アカウントベースドマーケティング {#account-based-marketing}
 
-[ターゲットアカウント管理](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview)を使用する場合は、特にフィルターがあります。
+[[!UICONTROL  ターゲットアカウント管理 ]](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) を使用する場合は、特別なフィルターがあります。
 
 ![](assets/abm.png)

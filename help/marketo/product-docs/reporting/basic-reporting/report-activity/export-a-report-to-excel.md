@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360020
-description: レポートを Excel にエクスポートする - Marketo ドキュメント - 製品ドキュメント
-title: レポートを Excel にエクスポートする
+description: レポートの書き出し先  [!DNL Excel]  Marketo ドキュメント – 製品ドキュメント
+title: レポートのエクスポート先  [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 46%
 
 ---
 
-# レポートを Excel にエクスポートする {#export-a-report-to-excel}
+# [!DNL Excel] へのレポートのエクスポート {#export-a-report-to-excel}
 
-任意のレポートを Excel ファイルにエクスポートして、他のソフトウェアでデータを処理することができます。
+レポートを [!DNL Excel] ファイルにエクスポートして、他のソフトウェアでデータを操作できます。
 
-1. **マーケティング活動**&#x200B;領域に移動します。
+1. **[!UICONTROL マーケティング活動]**&#x200B;領域に移動します。
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. ナビゲーションツリーから目的のレポートを選択し「**レポート**」タブをクリックします。
+1. ナビゲーションツリーから目的のレポートを選択し「**[!UICONTROL レポート]**」タブをクリックします。
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. 「**エクスポート**」ボタンをクリックします。
+1. 「**[!UICONTROL エクスポート]**」ボタンをクリックします。
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
-   それだけです。Excel ファイルをシステムに保存するように求めるプロンプトがブラウザーに表示されます。
+   それだけです。ブラウザーで、[!DNL Excel] ファイルをシステムに保存するように求められます。
 
    >[!MORELIKETHIS]
    >

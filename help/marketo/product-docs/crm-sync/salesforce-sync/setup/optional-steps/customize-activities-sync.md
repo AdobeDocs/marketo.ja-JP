@@ -4,10 +4,10 @@ description: アクティビティ同期のカスタマイズ - Marketo ドキ�
 title: アクティビティ同期のカスタマイズ
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
-workflow-type: ht
-source-wordcount: '294'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '306'
+ht-degree: 84%
 
 ---
 
@@ -48,52 +48,51 @@ Marketo Sales Insight を使用しない場合、Marketo Engage は特定のイ�
  </thead> 
  <tbody> 
   <tr> 
-   <td>フォーム入力完了</td> 
+   <td>[!UICONTROL 入力済みフォーム ]</td> 
    <td>任意の Marketo フォームに入力しました</td> 
   </tr> 
   <tr> 
-   <td>リストに追加済み</td> 
+   <td>[!UICONTROL がリストに追加されました ]</td> 
    <td><p>フローステップ：静的リストに追加されました</p></td> 
   </tr> 
   <tr> 
-   <td>メール送信済み</td> 
+   <td>[!UICONTROL 送信済み電子メール ]</td> 
    <td>フローステップ：メールが送信されました</td> 
   </tr> 
   <tr> 
-   <td>メール到着</td> 
+   <td>[!UICONTROL Email delivered]</td> 
    <td>メールを受信しました（バウンスなし）</td> 
   </tr> 
   <tr> 
-   <td>メール開封済み</td> 
+   <td>[!UICONTROL Email opened]</td> 
    <td>メールを開きました（画像ブロックなし）</td> 
   </tr> 
   <tr> 
-   <td>メール内リンクをクリック済み
-</td> 
+   <td>[！メール内のクリックされたリンクを UICONTROL]</td> 
    <td>Marketo から送信されたメール内のリンクをクリックしました</td> 
   </tr> 
   <tr> 
-   <td>リストから削除済み</td> 
+   <td>[!UICONTROL がリストから削除されました ]</td> 
    <td>フローステップ：静的リストから削除されました</td> 
   </tr> 
   <tr> 
-   <td>フローからの削除み</td> 
+   <td>[!UICONTROL フローから削除 ]</td> 
    <td>フローステップ：フローから削除されました</td> 
   </tr> 
   <tr> 
-   <td>セールスメール送信済み</td> 
+   <td>[!UICONTROL 販売電子メールが送信されました ]</td> 
    <td>Marketo Sales Insight 経由でメールを送信されました</td> 
   </tr> 
   <tr> 
-   <td>セールスメール開封済み</td> 
+   <td>[!UICONTROL 販売 E メール開封数 ]</td> 
    <td>Marketo Sales Insight 経由で送信したメールを開封しました</td> 
   </tr> 
   <tr> 
-   <td>セールスメール内のリンクをクリック</td> 
+   <td>[!UICONTROL 販売メール内のクリックリンク ]</td> 
    <td>Marketo Sales Insight を通じて送信されたメール内のリンクをクリックしました</td> 
   </tr> 
   <tr> 
-   <td>セールスメール受信済み</td> 
+   <td>[!UICONTROL 販売電子メールを受信 ]</td> 
    <td>MSI Outlook プラグインでセールス担当者がメールを受信し、ログに記録しました</td> 
   </tr> 
  </tbody> 

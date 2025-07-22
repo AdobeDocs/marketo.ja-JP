@@ -4,33 +4,33 @@ description: Microsoft Dynamics Sync — アカウントの同期 — Marketoド
 title: Microsoft Dynamics Sync — アカウントの同期
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 95%
+source-wordcount: '209'
+ht-degree: 42%
 
 ---
 
-# Microsoft Dynamics Sync:アカウントの同期 {#microsoft-dynamics-sync-account-sync}
+# [!DNL Microsoft Dynamics] 同期：アカウント同期 {#microsoft-dynamics-sync-account-sync}
 
-Marketo Engageがデータベース全体を Dynamics と同期することを知っていましたか？ 同期し、5分待ってから、毎日、再び同期します。MarketoでのDynamicsアカウントの処理方法の詳細を以下に示します。
+Marketoがデータベース全体を [!DNL Dynamics] と同期することをご存知ですか？ 同期し、5分待ってから、毎日、再び同期します。Marketoにおける [!DNL Dynamics] アカウントの具体的な取り扱い方法について詳しくは、以下を参照してください。
 
-## 情報の同期方法 {#which-way-does-the-information-sync}
+## 情報の同期方向 {#which-way-does-the-information-sync}
 
-1つの方法のみ：DynamicsからMarketo
+唯一の方法：[!DNL Dynamics] からMarketoへ。
 
 ## 更新の仕組み {#how-do-the-updates-work}
 
-Marketoで連絡先の「アカウント」フィールドを更新すると、Marketoでそのアカウントに属するすべての連絡先の値が変更されます。Dynamicsとは同期しません。ただし、次回Dynamicsでそのアカウントが更新されたときは、Marketoのすべてのアカウント情報が変更によって上書きされます。
+Marketo で取引先責任者の「アカウント」フィールドを更新すると、Marketo でそのアカウントに属するすべての取引先責任者の値が変更されます。[!DNL Dynamics] とは同期されません。 ただし、そのアカウントが次回 [!DNL Dynamics] で更新されると、その変更はMarketoのすべてのアカウント情報を上書きします。
 
 ## Marketoを使用してアカウントを作成できますか？ {#can-i-create-an-account-using-marketo}
 
-いいえ.MarketoはDynamicsにアカウントを作成できません。
+いいえ.Marketoは、[!DNL Dynamics] でアカウントを作成できません。
 
 ## Marketoと同期するフィールドは何ですか。 {#which-fields-will-sync-to-marketo}
 
-[設定時に同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"}できます。ただし、Marketoは、Dynamics同期ユーザーがアクセスできるフィールドのみを同期します。
+[設定時に同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)できます。ただし、Marketoで同期されるのは、[!DNL Dynamics] sync ユーザーがアクセスできるフィールドのみです。
 
-## Dynamicsの「アカウント」フィールドに変更を加えると、各連絡先の「データ値の変更」アクティビティログが生成されますか？  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
+## [!DNL Dynamics] のアカウントフィールドを変更すると、各連絡先の「データ値を変更」アクティビティログが表示されますか？  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 
-主には、はい。ただし、アカウントに5,000件を超える連絡先があり、そのアカウントのフィールドがDynamicsで変更された場合は、変更を同期しますが、5,000件以上の連絡先のアクティビティはログに記録されません。
+主には、はい。ただし、アカウントに 5,000 を超える連絡先があり、そのアカウントのフィールドが [!DNL Dynamics] で変更された場合、変更を同期しますが、5,000 を超える連絡先のアクティビティはログに記録されません。

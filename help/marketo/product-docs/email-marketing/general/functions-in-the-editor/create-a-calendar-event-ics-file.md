@@ -4,10 +4,10 @@ description: カレンダーイベント（.ics）ファイルの作成 - Market
 title: カレンダーイベント（.ics）ファイルの作成
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 90%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 100%
 
 カレンダーファイルトークンを使用すると、Marketo のメールとランディングページにカレンダーイベント（.ics）のリンクを追加できます。
 
-1. プログラム内で、「**マイトークン**」タブに移動します。
+1. プログラム内で、「**[!UICONTROL マイトークン]**」タブに移動します。
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. **カレンダーファイル**&#x200B;トークンをキャンバスにドラッグします。
+1. **[!UICONTROL カレンダーファイル]**&#x200B;トークンをキャンバスにドラッグします。
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. 「**トークン名**」および 「**編集**」を入力します。
+1. **トークン名** を入力し、**[!UICONTROL クリックして編集]** をクリックします。
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 
-1. 詳細を入力し、「**保存**」をクリックします。
+1. 詳細を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-11-15-3a34-3a16.png)
 

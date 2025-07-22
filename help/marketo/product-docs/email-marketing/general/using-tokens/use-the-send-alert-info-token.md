@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2952678
-description: Send Alert Info Token {{SP_Send_Alert_Info}} の使用 – Marketo ドキュメント – 製品ドキュメント
+description: アラート情報送信トークン {{SP_Send_Alert_Info}} の使用 - Marketo ドキュメント - 製品ドキュメント
 title: アラート情報送信トークンの使用
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 96%
+source-wordcount: '258'
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 96%
 
 ## SP_Send_Alert_Info トークンをメールに追加する {#add-the-sp-send-alert-info-token-to-an-email}
 
-1. メールを選択して、「**ドラフトを編集**」をクリックします。
+1. メールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/one-3.png)
 
@@ -48,15 +48,15 @@ ht-degree: 96%
 
    ![](assets/two-3.png)
 
-1. トークンを配置する場所にカーソルを置き、「**トークンを挿入**」ボタンをクリックします。
+1. トークンを配置する場所にカーソルを置き、「**[!UICONTROL トークンを挿入]**」ボタンをクリックします。
 
    ![](assets/three-3.png)
 
-1. **`{{SP_Send_Alert_Info}}`** トークンを検索して選択し、「**挿入**」をクリックします。
+1. **[!UICONTROL {{SP_Send_Alert_Info}}]** トークンを検索して選択し、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-25-15-3a19-3a24.png)
 

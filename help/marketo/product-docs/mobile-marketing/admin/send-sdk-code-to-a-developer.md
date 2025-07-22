@@ -4,8 +4,8 @@ description: デベロッパーに SDK コードを送信する - Marketo ドキ
 title: 開発者への SDK コードの送信
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 
@@ -26,11 +26,11 @@ ht-degree: 100%
 
 その方法を説明しましょう。
 
-1. 「**管理者**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. 「**モバイルアプリ**」を選択します。
+1. 「**[!UICONTROL モバイルアプリ]**」を選択します。
 
    ![](assets/image2015-4-22-16-3a14-3a29.png)
 
@@ -38,11 +38,11 @@ ht-degree: 100%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. 「**モバイルアプリアクション**」をクリックし、「**デベロッパーに送信**」を選択します。
+1. 「**[!UICONTROL モバイルアプリアクション]**」をクリックし、「**[!UICONTROL デベロッパーに送信]**」を選択します。
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. メールアドレスを入力し、「**送信**」をクリックします。
+1. メールアドレスを入力し、「**[!UICONTROL 送信]**」をクリックします。
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 

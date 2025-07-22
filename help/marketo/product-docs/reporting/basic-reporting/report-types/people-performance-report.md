@@ -4,32 +4,32 @@ description: リード効果レポート - Marketo ドキュメント - 製品�
 title: リード効果レポート
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 100%
+ht-degree: 73%
 
 ---
 
 # リード効果レポート {#people-performance-report}
 
-リード効果レポートを使用して、データベースの経時的な増加を測定します。追加した人数と追加した日時を確認できます。リードの詳細を確認し、プログラムを評価します。個人属性または会社属性、または[セグメント化](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)で結果をグループ化します。
+[!UICONTROL  人物パフォーマンス ] レポートを使用して、データベースの増加率を経時的に測定します。 追加した人数と追加した日時を確認できます。リードの詳細を確認し、プログラムを評価します。個人属性または会社属性、または[セグメント化](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)で結果をグループ化します。
 
-1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**リード効果**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
+1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL リード効果]**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 
-1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**レポート**」タブをクリックします。
+1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**[!UICONTROL レポート]**」タブをクリックします。
 
-1. これで完了です。リード効果レポートを調べる準備が整いました。以下のリストで、さらに詳しい情報を得る方法を説明します。
+1. これで完了です。これで、[!UICONTROL  人物パフォーマンス ] レポートを調査する準備が整いました。 以下のリストで、さらに詳しい情報を得る方法を説明します。
 
    >[!NOTE]
    >
-   >デフォルトでは、リード効果レポートは、*作成した*&#x200B;月ごとにグループ化されます。
+   >デフォルトでは、[!UICONTROL  人物パフォーマンス ] レポートは *[!UICONTROL 作成日]* 月ごとにグループ化されます。
 
    ![](assets/one.png)
 
 ## リード効果レポートの機能 {#the-power-of-people-performance-reports}
 
-リード効果レポートは非常に強力です。さらにグループ化、フィルタリングおよび設定を行うことで、データベース内のリードと、プログラムの有効性について多くのことを学べます。
+[!UICONTROL  人物パフォーマンス ] レポートは非常に強力です。 さらにグループ化、フィルタリング、設定することで、[!UICONTROL  データベース ] 内のユーザーや、プログラムの有効性について多くのことを学習できます。
 
 次の操作が可能です。
 

@@ -4,18 +4,18 @@ description: 暗黙的な Salesforce アクション - Marketo ドキュメン�
 title: 暗黙的な Salesforce アクション
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 78%
+ht-degree: 63%
 
 ---
 
 # 暗黙的な Salesforce アクション {#implied-salesforce-actions}
 
-Salesforce 固有のフローステップが実行されると、追加の手順が自動的に実行される場合があります。ルールは次のとおりです。
+[!DNL Salesforce] 固有のフローステップを実行する場合は、追加のステップが自動的に実行されることがあります。 ルールは次のとおりです。
 
-これらのルールは、人物が現在 [Salesforce.com](https://Salesforce.com){target="_blank"} に連絡先またはリードとして存在していない場合に適用されます。
+これらの規則は、人物が現在 [Salesforce.com](https://Salesforce.com){target="_blank"} に連絡先またはリードとして存在していない場合に適用されます。
 
 <table> 
  <thead> 
@@ -48,6 +48,6 @@ Salesforce 固有のフローステップが実行されると、追加の手順
  </tbody> 
 </table>
 
-**[!UICONTROL SFDC Type]** フィルターを演算子を「空でない」に設定して使用すると、スマートリスト内の SFDC レコードを除外できます。すべての SFDC レコードでこのフィールドの値が設定されます。
+演算子を「**[!UICONTROL not empty]**」に設定した [!UICONTROL SFDCタイプ ] フィルターを使用して、スマート・リスト内のSFDCレコードをフィルタで除外できます。 すべての SFDC レコードでこのフィールドの値が設定されます。
 
-これらの自動アクションは、リードが現在 [Salesforce.com](https://salesforce.com){target="_blank"} にない場合にのみ発生します
+これらの自動アクションは、リードが現在 [Salesforce.com ](https://salesforce.com){target="_blank"} に存在しない場合にのみ発生します。

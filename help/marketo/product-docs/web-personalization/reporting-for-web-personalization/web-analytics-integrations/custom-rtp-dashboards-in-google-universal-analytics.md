@@ -4,10 +4,10 @@ description: Google ユニバーサルアナリティクスでのカスタム RT
 title: Google ユニバーサルアナリティクスでのカスタム RTP ダッシュボード
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
-workflow-type: ht
-source-wordcount: '759'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '758'
+ht-degree: 70%
 
 ---
 
@@ -24,13 +24,13 @@ ht-degree: 100%
 
 ## カスタムダッシュボードを設定する {#setting-up-a-custom-dashboard}
 
-1. Google Analytics にログインします。上部のメニューの「**レポート**」をクリックします。「**マイレポート**」、「**+新しいマイレポート**」の順にクリックします。
+1. Google Analytics にログインします。上部のメニューの「**[!UICONTROL レポート]**」をクリックします。**[!UICONTROL ダッシュボード]** および **[!UICONTROL 新規ダッシュボード]** をクリックします。
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. 「**空白のキャンバス**」を選択し、**ダッシュボード名**&#x200B;を入力して「**マイレポートを作成**.」をクリックします。
+1. 「**空白のキャンバス**」を選択し、**ダッシュボード名**&#x200B;を入力して「**[!UICONTROL マイレポートを作成]**.」をクリックします。
 
-1. 「**ウィジェットを追加**」をクリックし、新しいウィジェットを作成します。
+1. 「**[!UICONTROL ウィジェットを追加]**」をクリックし、新しいウィジェットを作成します。
 
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
@@ -70,50 +70,50 @@ ht-degree: 100%
    <td> 
     <ul> 
      <li>名前：セグメントおよびチャネル別セッション</li> 
-     <li>ウィジェットタイプ：棒グラフ<br></li> 
-     <li>次の棒グラフを作成：セッション</li> 
-     <li>グループ分けの単位：イベントラベル</li> 
-     <li>ピボット：デフォルトチャネルグループ</li> 
-     <li>フィルター：<br>［表示の絞り込み］イベントカテゴリ（含む）：RTP-Segments</li> 
+     <li>ウィジェットタイプ：<span class="uicontrol"> 棒グラフ </span><br></li> 
+     <li><span class="uicontrol"> 次を表示する棒グラフを作成 </span>: <span class="uicontrol"> セッション </span></li> 
+     <li><span class="uicontrol"> グループ化基準 </span>:<span class="uicontrol"> イベントラベル </span></li> 
+     <li><span class="uicontrol"> ピボットの基準 </span>: <span class="uicontrol"> 既定のチャネル グループ化 </span></li> 
+     <li>フィルター：<br><span class="uicontrol"> 表示のみ </span> | <span class="uicontrol"> イベントカテゴリ </span> （<span class="uicontrol"> 含む </span>） RTP セグメント</li> 
     </ul><p><img width="300" src="assets/image2015-3-23-11-3a32-3a13.png" data-linked-resource-id="7504247" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>名前：RTP でセグメント化されたユーザー数</li> 
-     <li>タイプ：2.1 指標</li> 
-     <li>次の指標を表示：ユーザー<br></li> 
-     <li>フィルター：<br>［表示の絞り込み］イベントカテゴリ（含む）：RTP-Segments</li> 
+     <li>タイプ：<span class="uicontrol">2.1 指標</span></li> 
+     <li><span class="uicontrol"> 次の指標を表示 </span>: <span class="uicontrol"> ユーザー </span><br></li> 
+     <li>フィルター：<br><span class="uicontrol"> 表示のみ </span> | <span class="uicontrol"> イベントカテゴリ </span> （含む） RTP セグメント</li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>名前：業種別セッション</li> 
-     <li>タイプ：円グラフ<br></li> 
-     <li>次の円グラフを作成：セッション</li> 
-     <li>グループ分けの単位：RTP-Industry</li> 
+     <li>タイプ：<span class="uicontrol"> 円グラフ </span><br></li> 
+     <li><span class="uicontrol"> 次を表示する円グラフを作成 </span>: <span class="uicontrol"> セッション </span></li> 
+     <li><span class="uicontrol"> グループ化基準 </span> : <span class="uicontrol">RTP-Industry</span></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a27.png" data-linked-resource-id="7504250" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <th> 
     <ul> 
      <li><strong>名前：業種およびチャネル別セッション</strong></li> 
-     <li><strong>ウィジェットタイプ：棒グラフ</strong></li> 
-     <li><strong>次の棒グラフを作成：セッション</strong></li> 
-     <li><strong>グループ分けの単位：RTP-Industry</strong></li> 
-     <li><strong>ピボット：デフォルトチャネルグループ</strong><br><img width="300" src="assets/image2015-3-23-11-3a33-3a52.png" data-linked-resource-id="7504252" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></li> 
+     <li><strong>ウィジェットタイプ：<span class="uicontrol"> 棒グラフ </span></strong></li> 
+     <li><strong><span class="uicontrol"> 次を表示する棒グラフを作成 </span>: <span class="uicontrol"> セッション </span></strong></li> 
+     <li><strong><span class="uicontrol"> グループ化基準 </span>:<span class="uicontrol">RTP-Industry</span></strong></li> 
+     <li><strong><span class="uicontrol"> ピボットの基準 </span>: <span class="uicontrol"> 既定のチャネル グループ化 </span></strong><br><img width="300" src="assets/image2015-3-23-11-3a33-3a52.png" data-linked-resource-id="7504252" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></li> 
     </ul></th> 
    <th> 
     <ul> 
      <li><strong>名前：国別のセグメント化セッション</strong></li> 
-     <li><strong>タイプ：地図表示</strong></li> 
-     <li><strong>選択した指標をプロット：国 | セッション</strong></li> 
-     <li><strong>地域を選択：世界</strong></li> 
-     <li><strong>フィルター：［表示の絞り込み］イベントカテゴリ（含む）：RTP-Segments</strong></li> 
+     <li><strong>タイプ：<span class="uicontrol"> ジオマップ </span></strong></li> 
+     <li><strong><span class="uicontrol"> 選択した指標をプロット </span>: <span class="uicontrol"> 国 </span> | <span class="uicontrol"> セッション </span></strong></li> 
+     <li><strong><span class="uicontrol"> 地域を選択 </span>: <span class="uicontrol"> 世界 </span></strong></li> 
+     <li><strong>フィルター：<span class="uicontrol"> 表示のみ </span> | <span class="uicontrol"> イベントカテゴリ </span> （含む） RTP セグメント</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a34-3a18.png" data-linked-resource-id="7504253" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> 
     <ul> 
      <li><strong>名前：RTP カテゴリ別セッション</strong></li> 
-     <li><strong>タイプ：円グラフ</strong></li> 
-     <li><strong>次の円グラフを作成：セッション</strong></li> 
-     <li><strong>グループ分けの単位：RTP-Category</strong></li> 
+     <li><strong>タイプ：<span class="uicontrol"> 円グラフ </span></strong></li> 
+     <li><strong><span class="uicontrol"> 次を表示する円グラフを作成 </span>: <span class="uicontrol"> セッション </span></strong></li> 
+     <li><strong><span class="uicontrol"> グループ化基準 </span>:<span class="uicontrol">RTP-Category</span></strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a35-3a1.png" data-linked-resource-id="7504254" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
   </tr> 
   <tr> 
@@ -121,10 +121,10 @@ ht-degree: 100%
    <th> 
     <ul> 
      <li>名前：上位ターゲットセグメント</li> 
-     <li>タイプ：棒グラフ</li> 
-     <li>次の棒グラフを作成：ユーザー</li> 
-     <li>グループ分けの単位：イベントアクション</li> 
-     <li>フィルター：［表示の絞り込み］イベントカテゴリ（含む）：RTP-Segments</li> 
+     <li>タイプ：<span class="uicontrol">Bar</span></li> 
+     <li><span class="uicontrol"> 次を表示する棒グラフを作成 </span>: <span class="uicontrol"> ユーザー </span></li> 
+     <li><span class="uicontrol"> グループ化 </span>: <span class="uicontrol"> イベントアクション </span></li> 
+     <li>フィルター：<span class="uicontrol"> 表示のみ </span> | <span class="uicontrol"> イベントカテゴリ </span> （含む） RTP セグメント</li> 
     </ul><p><img width="350" src="assets/add-a-widget.png" data-linked-resource-id="11382874" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> 
     <ul> 
@@ -193,9 +193,9 @@ ht-degree: 100%
    <td> 
     <ul> 
      <li>名前：<strong>CRE - 合計クリック数</strong></li> 
-     <li>タイプ：<strong>2.1 指標</strong><br></li> 
-     <li>次の指標を表示：<strong>ページビュー</strong></li> 
-     <li>フィルター：<strong>表示の絞り込み | ページ含む）：rcmd</strong></li> 
+     <li>タイプ：<strong><span class="uicontrol">2.1 指標</span></strong><br></li> 
+     <li><span class="uicontrol"> 次の指標を表示 </span>: <strong><span class="uicontrol"> ページビュー数 </span></strong></li> 
+     <li>フィルター：<strong>[<span class="uicontrol">only show</span>] <span class="uicontrol"> ページ </span> （<span class="uicontrol">containing</span>）: rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a38-3a30.png" data-linked-resource-id="7504262" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
@@ -216,20 +216,20 @@ ht-degree: 100%
    <td colspan="1"> 
     <ul> 
      <li>名前：<strong>CRE - 推奨される上位のコンテンツ</strong></li> 
-     <li>タイプ：<strong>表形式</strong><br></li> 
-     <li>表示する列：<br><strong>ページタイトル | ページビュー</strong><br></li> 
-     <li>フィルター：<br>フィルター：<strong>表示の絞り込み：ページ（含む）：rcmd</strong></li> 
+     <li>タイプ：<strong><span class="uicontrol">表形式</span></strong><br></li> 
+     <li><span class="uicontrol"> 次の列を表示 </span>:<br><strong><span class="uicontrol"> ページタイトル </span> | <span class="uicontrol"> ページビュー </span></strong><br></li> 
+     <li>フィルター：<br> フィルター：<strong>[<span class="uicontrol">only show</span>] <span class="uicontrol"> ページ </span> （<span class="uicontrol">containing</span>）: rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
   <tr> 
    <td> 
     <ul> 
      <li>名前：<strong>ページ／セッション（エンゲージメント））</strong></li> 
-     <li>タイプ：<strong>2.1 指標</strong></li> 
-     <li>次の指標を表示：<strong>ページ／セッション</strong></li> 
-     <li>フィルター：<br><strong>［表示の絞り込み］イベントカテゴリ（完全一致）：RTP-Campaigns</strong></li> 
-     <li><strong>［表示の絞り込み］イベントアクション（完全一致）：インプレッション</strong></li> 
-     <li><strong>［表示しない］イベントラベル（含む）：#</strong></li> 
+     <li>タイプ：<strong><span class="uicontrol">2.1 Metric</span> </strong></li> 
+     <li><span class="uicontrol"> 次の指標を表示 </span>:<strong><span class="uicontrol"> ページ/セッション </span></strong></li> 
+     <li>フィルター：<br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol"> イベントカテゴリ </span> （<span class="uicontrol">exactly matching</span>）: RTP-Campaigns</strong></li> 
+     <li><strong>[<span class="uicontrol"> のみ表示 </span>] <span class="uicontrol"> イベント アクション </span> （<span class="uicontrol"> 完全一致 </span>）: インプレッション</strong></li> 
+     <li><strong>[<span class="uicontrol"> 表示しない </span>] <span class="uicontrol"> イベント ラベル </span> （<span class="uicontrol"> 含む </span>）: #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
@@ -246,16 +246,16 @@ ht-degree: 100%
    <td> 
     <ul> 
      <li>名前：<strong>CTA 別インプレッション</strong></li> 
-     <li>タイプ：<strong>表形式</strong></li> 
-     <li>表示する列：<strong>イベントラベル | 合計イベント数 | ユーザー</strong></li> 
-     <li>フィルター：<br><strong>［表示の絞り込み］イベントカテゴリ（含む）：RTP-Campaigns</strong><br><strong>［表示の絞り込み］イベントアクション（完全に一致）：インプレッション</strong><strong>［表示しない］イベントラベル（含む）：#</strong></li> 
+     <li>タイプ：<strong><span class="uicontrol">表形式</span></strong></li> 
+     <li><span class="uicontrol"> 次の列を表示 </span>:<strong><span class="uicontrol"> イベントラベル </span> | <span class="uicontrol"> 合計イベント数 </span> | <span class="uicontrol"> ユーザー </span></strong></li> 
+     <li>フィルター：<br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol"> イベントカテゴリ </span> （<span class="uicontrol">exactly matching</span>）: RTP-Campaigns</strong><br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol"> イベントアクション </span> （<span class="uicontrol">exactly matching</span>）: impression</strong><strong>[<span class="uicontrol">don't show</span>] <span class="uicontrol"> イベントラベル </span> （<span class="uicontrol"></span> </strong> containingTeam）:</li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>名前：<strong>CTA 別クリックスルー率</strong></li> 
-     <li>タイプ：<strong>表形式</strong></li> 
-     <li>表示する列：<strong>イベントラベル | 合計イベント数 | ユーザー</strong></li> 
-     <li>フィルター：<br><strong>［表示の絞り込み］イベントカテゴリ（完全に一致）：RTP-Campaigns</strong><br><strong>［表示の絞り込み］イベントアクション（完全に一致）：クリック数</strong></li> 
+     <li>タイプ：<strong><span class="uicontrol">表形式</span></strong></li> 
+     <li><span class="uicontrol"> 次の列を表示 </span>:<strong><span class="uicontrol"> イベントラベル </span> | <span class="uicontrol"> 合計イベント数 </span> | <span class="uicontrol"> ユーザー </span></strong></li> 
+     <li>フィルター：<br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol"> イベントカテゴリ </span> （<span class="uicontrol">exactly matching</span>）: RTP-Campaigns</strong><br><strong>[<span class="uicontrol">only show</span>] <span class="uicontrol"> イベントアクション </span> （<span class="uicontrol">exactly matching</span>）：クリック数 </strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 

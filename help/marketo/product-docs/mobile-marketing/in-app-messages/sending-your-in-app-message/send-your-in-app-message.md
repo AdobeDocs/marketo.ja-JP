@@ -3,10 +3,10 @@ description: アプリ内メッセージの送信 - Marketo ドキュメント -
 title: アプリ内メッセージの送信
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 100%
+ht-degree: 60%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->「アプリを開く」によってトリガーされるアプリ内メッセージをテストする場合は、アプリを携帯電話にダウンロードし、開いて閉じてください。これにより、SDK コードが初期化されます。次回アプリを開くと、アプリ内メッセージが表示されます。カスタムイベントはアプリを初めて開いたときにトリガーされます。
+>[!UICONTROL  アプリを開く ] でトリガーされたアプリ内メッセージをテストする場合は、アプリを電話にダウンロードし、開いて閉じてください。 これにより、SDK コードが初期化されます。次回アプリを開くと、アプリ内メッセージが表示されます。カスタムイベントはアプリを初めて開いたときにトリガーされます。
 
-1. マーケティング活動で、プログラムを有効にするフォルダーをクリックし、「**新規プログラム**」を選択します。
+1. [!UICONTROL  マーケティングアクティビティ ] で、プログラムを配置するフォルダーをクリックし、「**[!UICONTROL 新規プログラム]**」を選択します。
 
    ![画像 1](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
 
@@ -26,11 +26,11 @@ ht-degree: 100%
 
    ![画像 2](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-2.png)
 
-1. ドロップダウンからアプリ内プログラムタイプを選択し、「**作成**」をクリックします。
+1. ドロップダウンからアプリ内プログラムタイプを選択し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![画像 3](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
 
-1. コントロールパネルを使用して、アプリ内メッセージの対象、内容、タイミングを定義して、完了したら承認します。各手順について個別の記事があります。
+1. [!UICONTROL Campaign コントロールパネル] を使用して、アプリ内メッセージのユーザー、対象、日時を定義し、完了したら、承認します。 各手順について個別の記事があります。
 
    ![画像 4](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 

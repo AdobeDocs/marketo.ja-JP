@@ -4,20 +4,20 @@ description: Salesforce1 での Marketo メール送信、キャンペーンお�
 title: Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
 
-# Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# [!DNL Salesforce1] でのMarketoのメールおよび Campaign と監視リストのアクションの送信 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Salesforce1 の「リードの詳細」エリアに移動し、「**関連**」タブをクリックします。
+1. [!DNL Salesforce1] のリードの詳細エリアに移動し、「**[!UICONTROL 関連]**」タブをクリックします。
 
    ![](assets/one-1.png)
 
-1. 縦並びの 3 つのドットをクリックします。画面下部で、「Marketo キャンペーンに追加」、「Marketo メールを送信」、「Marketo で表示」、「ウォッチリストに追加／削除」から選択できます。
+1. 縦並びの 3 つのドットをクリックします。下部では、「[!UICONTROL Marketo Campaign に追加 ]」、「[!UICONTROL Marketo メールを送信 ]」、「[!UICONTROL Marketoで表示 ]」、「[!UICONTROL  ウォッチリストから追加 ]」、「[!UICONTROL  ウォッチリストから削除 ]」から選択できます。
 
    ![](assets/two-1.png)
 

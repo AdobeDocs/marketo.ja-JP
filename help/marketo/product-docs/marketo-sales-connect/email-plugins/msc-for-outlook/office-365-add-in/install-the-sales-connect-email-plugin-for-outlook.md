@@ -4,16 +4,16 @@ description: Outlook 用 Sales Connect メールプラグインのインスト�
 title: Outlook 用 Sales Connect メールプラグインのインストール
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
-workflow-type: ht
-source-wordcount: '199'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 67%
 
 ---
 
 # Outlook（Online、Mac および Windows）用 Sales Connect メールプラグインのインストール {#install-the-sales-connect-email-plugin-for-outlook}
 
-Outlook web App との統合を作成しました。Outlook web App は、Office 365 サブスクリプションが付属する Outlook のバージョンです。ブラウザーベースなので、統合は Mac と Windows の両方で動作します。[完全なインストールガイドについては、ここをクリックしてください](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)。
+[!DNL Outlook Web Apps] との統合を作成しました。 [!DNL Outlook Web Apps] は、[!DNL Outlook] サブスクリプションで提供される [!DNL Office 365] のバージョンです。 ブラウザーベースなので、この統合はMacと [!DNL Windows] の両方で機能します。 [完全なインストールガイドについては、ここをクリックしてください](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)。
 
 管理者は、[チーム全体の代わりにインストール](https://docs.microsoft.com/ja-jp/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide)できます。
 
@@ -23,11 +23,11 @@ Outlook web App との統合を作成しました。Outlook web App は、Office
 
 >[!NOTE]
 >
->ストアボタンがない場合は、最新バージョンの Outlook for Mac を使用していません。次の手順に従って、更新を行います。
+>「ストア」ボタンがない場合、[!DNL Outlook] for Macの最新バージョンを使用していません。 次の手順に従って、更新を行います。
 >
 >i. 「ヘルプ」ボタン（上部のナビゲーションで「Outlook」の右にある）に移動します。
 >
->ii.ドロップダウンメニューで「**更新を確認**」を選択します。
+>ii.ドロップダウンメニューで「**[!UICONTROL 更新を確認]**」を選択します。
 >
 >iii.Outlook の最新バージョンに更新し、完了したら上記の手順に戻ります。
 
@@ -35,4 +35,4 @@ Outlook web App との統合を作成しました。Outlook web App は、Office
 
 >[!NOTE]
 >
->.Net アドインは、Outlook からのメールスケジュールのサポートを停止しました。Office365 アドインを更新して、メールをスケジュールする必要があります。
+>.Net アドインでは、[!DNL Outlook] からのメールのスケジュール設定をサポートしなくなりました。 メールをスケジュールするには、[!DNL Office365] アドインを更新する必要があります。

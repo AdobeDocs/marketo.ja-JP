@@ -3,10 +3,10 @@ description: グローバルフォーム検証ルール - Marketo ドキュメ�
 title: グローバルフォーム検証ルール
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '281'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. 「管理者にアクセス」の横の「**+**」記号をクリックします。
+1. 「管理者にアクセス **の横にある「**+**」記号をクリック** ます。
 
    ![](assets/global-form-validation-rules-5.png)
 
@@ -62,7 +62,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >フォーム検証ルールのアクションドロップダウンを使用して、既存のルールを削除または編集できます。
+   >[!UICONTROL  フォームの検証ルールアクション ] ドロップダウンを使用すると、既存のルールを削除または編集できます。
 
 1. ルールに名前を付け、オプションの説明を入力し、フォーム訪問者に表示するエラーメッセージを入力します。ブロックするドメインを「ルール」ボックスに入力し、「**[!UICONTROL ルールをアクティブ化]**」を選択し、「**[!UICONTROL 作成]**」をクリックします。
 

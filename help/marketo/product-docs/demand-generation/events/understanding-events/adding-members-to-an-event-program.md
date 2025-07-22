@@ -4,10 +4,10 @@ description: イベントプログラムへのメンバーの追加 - Marketo �
 title: イベントプログラムへのメンバーの追加
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 1. [スマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
 
-1. 手順 2 で作成したスマートキャンペーンのスマートリストで、**リストのメンバー**&#x200B;フィルターを探して追加します。
+1. 手順 2 で作成したスマートキャンペーンのスマートリストで、**[!UICONTROL リストのメンバー]**&#x200B;フィルターを探して追加します。
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
    ![](assets/four.png)
 
-1. フローで、**プログラムステータスの変更**&#x200B;フローステップを探して追加します。
+1. フローで、**[!UICONTROL プログラムステータスの変更]**&#x200B;フローステップを探して追加します。
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ ht-degree: 100%
 
    ![](assets/seven.png)
 
-1. 「スケジュール」タブで、「**1 回実行**」をクリックします。
+1. 「[!UICONTROL  スケジュール ]」タブで、「**[!UICONTROL 1 回実行]**」をクリックします。
 
    ![](assets/eight.png)
 
-1. 「**今すぐ実行**」を選択し、「**実行**」をクリックします。
+1. 「**[!UICONTROL 今すぐ実行]**」を選択し、「**[!UICONTROL 実行]**」をクリックします。
 
    ![](assets/nine.png)
 

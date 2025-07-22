@@ -4,10 +4,10 @@ description: ペルソナの使用 - Marketo ドキュメント - 製品ドキ�
 title: ペルソナの使用
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 100%
 
 ## ペルソナを追加する {#add-a-persona}
 
-1. My Marketo で、「**管理者**」をクリックします。
+1. My Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/one.png)
 
-1. ツリーで、「**ターゲットアカウント管理**」を選択します。
+1. ツリーで、「**[!UICONTROL ターゲットアカウント管理]**」を選択します。
 
    ![](assets/using-personas-2.png)
 
-1. 「**編集**」をクリックします。
+1. 「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/three.png)
 
@@ -33,11 +33,11 @@ ht-degree: 100%
    >
    >役職ペルソナは、デフォルトで含まれています。変更や削除はできません。
 
-1. ペルソナを追加するには、「**+追加**」をクリックします。
+1. ペルソナを追加するには、「**[!UICONTROL +追加]**」をクリックします。
 
    ![](assets/four.png)
 
-1. ペルソナに名前を付け、ドロップダウンで対応するフィールドを選択します。追加できるペルソナは最大 2 人です。終了したら「**保存**」をクリックします。
+1. ペルソナに名前を付け、ドロップダウンで対応するフィールドを選択します。追加できるペルソナは最大 2 人です。終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/five.png)
 
@@ -47,13 +47,13 @@ ht-degree: 100%
 
 ## ペルソナを表示する {#view-your-personas}
 
-特定の重点顧客にアクセスして、ペルソナを表示します。
+特定の [!UICONTROL  指定アカウント ] にアクセスして、ペルソナを表示します。
 
-1. 重点顧客を選択します。
+1. 目的の [!UICONTROL  指定顧客 ] を選択します。
 
    ![](assets/one-a.png)
 
-1. 「**ペルソナ**」タブをクリックします。
+1. 「**[!UICONTROL ペルソナ]**」タブをクリックします。
 
    ![](assets/two-a.png)
 
@@ -63,7 +63,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >役職ペルソナ内の X は、ワイルドカード文字として機能します。例えば、「CXO」には CEO、CFO などが含まれます。
+   >[!UICONTROL  タイトルペルソナ ] の X は、ワイルドカード文字として機能します。 例えば、「CXO」には CEO、CFO などが含まれます。
 
 ## ペルソナフィルター {#persona-filters}
 

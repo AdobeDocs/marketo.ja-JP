@@ -4,16 +4,16 @@ description: Email Editor v2.0 の概要 — Marketo ドキュメント — 製�
 title: メールエディター v2.0 の概要
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
-workflow-type: ht
-source-wordcount: '426'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '423'
+ht-degree: 77%
 
 ---
 
 # メールエディター v2.0 の概要 {#email-editor-v2-overview}
 
-Email Editor v2.0 を有効化すると、いくつかの新機能に気づかれるでしょう。
+[!DNL Email Editor v2.0] をアクティベートすると、いくつかの新機能が表示されます。
 
 **メールテンプレート選択ツール**
 
@@ -59,7 +59,7 @@ Email Editor v2.0 を有効化すると、いくつかの新機能に気づか�
 
 ![](assets/email-editor-v2-overview-8.png)
 
-大きいプレビューを表示するには、メールの右上にある「**プレビュー**」をクリックします。
+大きいプレビューを表示するには、メールの右上にある「**[!UICONTROL プレビュー]**」をクリックします。
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -67,13 +67,13 @@ Email Editor v2.0 を有効化すると、いくつかの新機能に気づか�
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...モバイルデバイスでの表示を確認することもできます。テキストバージョンのプレビューも確認できます。右上の「**ドラフトの編集**」をクリックするだけで、編集を再開できます。
+...モバイルデバイスでの表示を確認することもできます。テキストバージョンのプレビューも確認できます。右上の「**[!UICONTROL ドラフトの編集]**」をクリックするだけで、編集を再開できます。
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**メールアクション**
+**[!UICONTROL メールアクション]**
 
-「**メールアクション**」にも、新しい機能があります。「**画像またはファイルのアップロード**」と「**Web から画像を取得**」です。メール自体を新しいメールテンプレートとして保存することもできます。名前と説明を指定するだけです。
+「**[!UICONTROL メールアクション]**」にも、新しい機能があります。「**[!UICONTROL 画像またはファイルのアップロード]**」と「**[!UICONTROL Web から画像を取得]**」です。メール自体を新しいメールテンプレートとして保存することもできます。名前と説明を指定するだけです。
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,21 +83,21 @@ Email Editor v2.0 を有効化すると、いくつかの新機能に気づか�
 
 >[!NOTE]
 >
->「**[Web から画像を取得](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**」は、Design Studio の場合と同じように動作します。
+>**[[!UICONTROL Web から画像を取得]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** は、[!UICONTROL Design Studio] と同じように機能します。
 
-「**メール設定**」の「**オープントラッキングを無効にする**」で、必要に応じてオープントラッキングを無効にできます。
+**[!UICONTROL 開封トラッキングを無効にする]****[!UICONTROL 設定を編集]** では、必要に応じて開封トラッキングを無効にすることができます。
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**メール設定**
+**[!UICONTROL 設定を編集]**
 
-プレヘッダーを追加するオプションがあります。プレヘッダーとは、受信トレイでメールを表示する際、件名の後に表示される短い概要です。
+オプションで [!UICONTROL  プリヘッダー ] を追加できます。 [!UICONTROL  プリヘッダー ] は、インボックスでメールが表示された際の件名の後の短い概要テキストです。
 
 ![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
->メールエディターを使用している際には、トークンはプリヘッダーで機能しません。プリヘッダーでトークンを使用するには、メールテンプレートで独自の HTML を使用する必要があります。
+>メールエディターを使用する場合、トークンが [!UICONTROL  プリヘッダー ] で機能しない。 [!UICONTROL  プリヘッダー ] でトークンを使用するには、メールテンプレートで独自のHTMLを介している必要があります。
 
 ほかにも、新しい機能がたくさんあります。お楽しみください。
 

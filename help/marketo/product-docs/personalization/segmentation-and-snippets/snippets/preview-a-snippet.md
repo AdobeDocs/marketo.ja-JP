@@ -4,7 +4,7 @@ description: スニペットのプレビュー - Marketo ドキュメント - �
 title: スニペットのプレビュー
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
@@ -19,11 +19,11 @@ ht-degree: 100%
 
 スニペットは、セグメント化ルールに基づいて変更される動的コンテンツのブロックです。
 
-1. **Design Studio** に移動します。
+1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/designstudio-3.png)
 
-1. スニペットをクリックし、「**スニペットをプレビュー**」をクリックします。
+1. スニペットをクリックし、「**[!UICONTROL スニペットをプレビュー]**」をクリックします。
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

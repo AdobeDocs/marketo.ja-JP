@@ -4,10 +4,10 @@ description: 個人取引先の使用 -  Marketo ドキュメント - 製品ド�
 title: 個人取引先の使用
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 91%
+source-wordcount: '289'
+ht-degree: 82%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->デフォルトの Salesforce アカウントは、ビジネスアカウントです。Salesforce 管理者は、個人取引先を個別に設定する必要があります。
+>デフォルトの [!DNL Salesforce] アカウントはビジネスアカウントです。 [!DNL Salesforce] 管理者は、個別にユーザーアカウントを設定する必要があります。
 
 ## 個人取引先とは {#what-is-a-person-account}
 
-個人取引先は、Salesforce のアカウントオブジェクトと非常に似ています。ただし、個人取引先は、アカウントフィールドと連絡先フィールドの両方にアクセスできます。
+人物アカウントは、[!DNL Salesforce] のアカウントオブジェクトに非常に似ています。 ただし、個人取引先は、アカウントフィールドと連絡先フィールドの両方にアクセスできます。
 
 ## 個人取引先が Marketo に同期されるとどうなりますか？ {#what-happens-when-a-person-account-is-synced-to-marketo}
 
@@ -49,4 +49,4 @@ Marketo は、商談連絡先の役割に依存して商談を関連付ける個
 
 ## 個人取引先に使用する必要があるメールフィールドは何ですか？ {#which-email-field-should-i-use-for-person-accounts}
 
-1 つの個人取引先に対して 2 つのメールフィールドがあります。Marketo での重複排除や他のメール処理が正しく機能するよう、フォームの「**メールアドレス**」フィールド（**個人のメールアドレス**&#x200B;ではなく）を使用します。
+1 つの個人取引先に対して 2 つのメールフィールドがあります。Marketo での重複排除や他のメール処理が正しく機能するよう、フォームの「**[!UICONTROL メールアドレス]**」フィールド（**[!UICONTROL 個人のメールアドレス]**&#x200B;ではなく）を使用します。

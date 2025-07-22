@@ -4,16 +4,16 @@ description: メール列とメールページのレイアウト - Marketo ド�
 title: メール列とメールページのレイアウト
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '506'
-ht-degree: 100%
+source-wordcount: '521'
+ht-degree: 82%
 
 ---
 
 # メール列とメールページのレイアウト {#email-columns-and-email-page-layout}
 
-使用可能な任意の列を、コマンドセンターのメールセクションに表示するように設定できます。設定は、各メールサブフォルダー（「配信済み」、「失敗」、「スケジュール済み」など）に対して保存されます。
+[!UICONTROL コマンドセンター]のメールセクションに表示される、利用可能な列を設定することができます。設定はメールのサブフォルダー（例：[!UICONTROL  配信済み ]、[!UICONTROL  失敗 ]、[!UICONTROL  スケジュール済み ] ごとに保存されます。
 
 ## メール列 {#email-columns}
 
@@ -28,87 +28,87 @@ ht-degree: 100%
    <th>説明</th> 
   </tr> 
   <tr> 
-   <td>人物</td> 
-   <td>Sales Connect の人物の名前とメール。このフィールドをクリックすると、人物の詳細表示の「情報」タブが開きます。</td> 
+   <td>[!UICONTROL ユーザー ]</td> 
+   <td>[!DNL Sales Connect] 内のユーザーの名前とメール。 このフィールドをクリックすると、人物の詳細表示の「情報」タブが開きます。</td> 
   </tr> 
   <tr> 
-   <td>名前</td> 
-   <td>Sales Connect の人物の名前。</td> 
+   <td>[!UICONTROL 名 ]</td> 
+   <td>[!DNL Sales Connect] 内の人物の名前。</td> 
   </tr> 
   <tr> 
-   <td>住所</td> 
-   <td>Sales Connect の人物のプライマリメールアドレス。</td> 
+   <td>[!UICONTROL アドレス ]</td> 
+   <td>[!DNL Sales Connect] 内の人物のプライマリメールアドレス。</td> 
   </tr> 
   <tr> 
-   <td>キャンペーン</td> 
+   <td>[!UICONTROL キャンペーン ]</td> 
    <td>メールがキャンペーンの一環として送信された場合は、キャンペーンの名前が表示されます。このフィールドをクリックすると、そのキャンペーンの設定ページに移動します。</td> 
   </tr> 
   <tr> 
-   <td>テンプレート</td> 
+   <td>[!UICONTROL テンプレート ]</td> 
    <td>テンプレートの名前を表示します（メールがテンプレートと共に送信された場合）。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">件名</td> 
+   <td colspan="1">[!UICONTROL 件名 ]</td> 
    <td colspan="1">電子メールの件名行。</td> 
   </tr> 
   <tr> 
-   <td colspan="1">グループ</td> 
+   <td colspan="1">[!UICONTROL グループ ]</td> 
    <td colspan="1">メール受信者が属するグループを表示します。</td> 
   </tr> 
   <tr> 
-   <td>役職</td> 
+   <td>[!UICONTROL 役職 ]</td> 
    <td>メール受信者の職位。</td> 
   </tr> 
   <tr> 
-   <td>企業</td> 
+   <td>[!UICONTROL 会社 ]</td> 
    <td>メール受信者の会社。</td> 
   </tr> 
   <tr> 
-   <td>メールステータス</td> 
+   <td>[!UICONTROL メールの状態 ]</td> 
    <td>メールのステータス。ステータスには次のようなものがあります。ドラフト、スケジュール済み、処理中、スパム、バウンス、失敗、送信済み。送信済みのメールには、そのメールで発生した表示数、クリック数および返信数を示すアクティビティストリームが表示されます。</td> 
   </tr> 
   <tr> 
-   <td>作成日</td> 
+   <td>[!UICONTROL 作成日 ]</td> 
    <td>メールが作成された日付。</td> 
   </tr> 
   <tr> 
-   <td>最終更新日</td> 
+   <td>[!UICONTROL の最終更新日時 ]</td> 
    <td>メールが最後に更新された日付。</td> 
   </tr> 
   <tr> 
-   <td>配信チャネル</td> 
+   <td>[!UICONTROL 配信チャネル ]</td> 
    <td>メールの送信に使用された配信チャネルの名前。</td> 
   </tr> 
   <tr> 
-   <td>最新のアクティビティ</td> 
+   <td>[!UICONTROL 最新アクティビティ ]</td> 
    <td>メール受信者による最後のエンゲージメント（表示、クリック、返信など）。</td> 
   </tr> 
   <tr> 
-   <td>送信日</td> 
+   <td>[!UICONTROL 送信日 ]</td> 
    <td>メールが送信された日付。</td> 
   </tr> 
   <tr> 
-   <td>フォローアップアクション</td> 
+   <td>[!UICONTROL のフォローアップ ] アクション</td> 
    <td>メール、電話、inMail、タスクによるフォローアップに使用できるクイックアクションボタン。</td> 
   </tr> 
   <tr> 
-   <td>グループメール</td> 
+   <td>[!UICONTROL グループの電子メール ]</td> 
    <td>メールがグループメールの一部として送信された場合は、チェックマークを表示します。</td> 
   </tr> 
   <tr> 
-   <td>タスク期日</td> 
+   <td>[!UICONTROL タスクの期限 ]</td> 
    <td>メールに関連するタスクの期限を表示します。タスクは、メールリストのクイックアクションボタンから作成することで、メールに関連付けることができます。</td> 
   </tr> 
   <tr> 
-   <td>メールアクション</td> 
+   <td>[!UICONTROL メール アクション ]</td> 
    <td>メールに対するアクションを実行するために使用できるクイックアクションボタン。メールのステータスに応じて、次のアクションを使用できます。アーカイブ、成功、削除、再試行送信、アーカイブ解除。</td> 
   </tr> 
   <tr> 
-   <td>タスクタイプ</td> 
+   <td>[!UICONTROL タスクの種類 ]</td> 
    <td>メールに関連するタスクのタイプを表示します。タスクは、メールリストのクイックアクションボタンから作成することで、メールに関連付けることができます。</td> 
   </tr> 
   <tr> 
-   <td>失敗した日付</td> 
+   <td>[!UICONTROL に失敗した日付 ]</td> 
    <td>メールが配信されなかった場合にメール送信が失敗した日付を表示します。</td> 
   </tr> 
  </tbody> 
@@ -118,11 +118,11 @@ ht-degree: 100%
 
 次の手順に従って、レイアウトを設定できます。
 
-1. コマンドセンターに移動します。
+1. **[!UICONTROL コマンドセンター]**&#x200B;に移動します。
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. **メール**&#x200B;セクションを選択します。
+1. 「**[!UICONTROL メール]**」セクションを選択します。
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 

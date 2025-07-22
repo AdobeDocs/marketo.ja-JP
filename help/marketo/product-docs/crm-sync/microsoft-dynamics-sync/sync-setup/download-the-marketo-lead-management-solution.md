@@ -4,10 +4,10 @@ description: Marketo リード管理ソリューションのダウンロード -
 title: Marketo リード管理ソリューションのダウンロード
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 68%
+source-wordcount: '103'
+ht-degree: 64%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 68%
 >
 >**管理者権限が必要**
 
-同期を開始するには、Marketo EngageソリューションをダウンロードしてMicrosoft Dynamics アカウントにインストールする必要があります。
+同期を開始するには、Marketo ソリューションをダウンロードして [!DNL Microsoft Dynamics] アカウントにインストールする必要があります。
 
 >[!CAUTION]
 >
@@ -35,7 +35,7 @@ ht-degree: 68%
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. 「**[!DNL Microsoft]**」を選択します。
+1. **[!DNL Microsoft]** を選択します。
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
@@ -43,7 +43,7 @@ ht-degree: 68%
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 
-1. Microsoft Dynamics のバージョンに適したソリューションを選択します。
+1. [!DNL Microsoft Dynamics] バージョンに適したソリューションを選択します。
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 

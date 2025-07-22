@@ -4,10 +4,10 @@ description: プログラムメンバーカスタムフィールド - Marketo �
 title: プログラムメンバーカスタムフィールド
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -29,13 +29,13 @@ ht-degree: 100%
 
    ![](assets/three.png)
 
-1. 「オブジェクト」ドロップダウンをクリックし、目的のオブジェクトを選択します。
+1. **[!UICONTROL オブジェクト]** ドロップダウンをクリックし、目的のオブジェクトを選択します。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >人物とプログラムメンバーのカスタムフィールドは、同じ名前を共有できません。
+   >[!UICONTROL Person] と [!UICONTROL Program Member] のカスタムフィールドは同じ名前を共有できません。
 
 1. 残りのフィールドに入力し、「**[!UICONTROL 作成]**」をクリックします。
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >プログラムメンバーカスタムフィールドでサポートされている型は、boolean（ブール値）、date（日）、datetime（日時）、float（浮動小数点数）、integer（整数）、string（文字列）、URL です。[フィールドタイプの詳細](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}。
+   >[!UICONTROL  プログラムメンバー ] カスタムフィールドでサポートされるタイプは、ブール値、日付、日時、浮動小数点、整数、文字列、URL です。 [フィールドタイプの詳細](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}。
 
 ## オブジェクトの詳細 {#object-descriptions}
 
@@ -68,7 +68,7 @@ ht-degree: 100%
 * プログラムメンバーオブジェクトには、最大 20 個のカスタムフィールドを持つことができます。これらのフィールドは、どのプログラムでも使用できます。
 * プログラムメンバーを削除すると、そのメンバーのカスタムフィールドにデータがある場合、そのフィールドからデータが削除されます。
 * データを表示するには、プログラムのメンバータブをクリックして、そのフィールドを含むカスタム表示を作成します。
-* [リスト](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}と [API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/home){target="_blank"} によるインポートとエクスポートが可能です。エクスポートは、プログラムメンバーリストのみで機能し、静的リストでは機能しません。
+* [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} および [API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/home){target="_blank"} を介した読み込みと書き出しがサポートされています。 エクスポートは、プログラムメンバーリストのみで機能し、静的リストでは機能しません。
 * 2 つのリードを結合すると、勝者のプログラムメンバーカスタムフィールドの値が反映されます。しかし、勝者が値を持っていない場合は、敗者の値が反映されます。
 * 「プログラムメンバー情報」フィールドでは、タイプの変更は許可されていません。
 * 「次を含む」スマートリスト制約は、プログラムメンバーのカスタムフィールドではサポートされていません。

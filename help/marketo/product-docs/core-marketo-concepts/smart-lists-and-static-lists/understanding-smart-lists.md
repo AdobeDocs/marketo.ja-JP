@@ -4,10 +4,10 @@ description: スマートリストについて - Marketo ドキュメント - �
 title: スマートリストについて
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 
 ## 「スマートリスト」タブ {#smart-list-tab}
 
-ここでは、「リード」タブ内に存在する特定のグループを確認するため、フィルターを追加して定義します。
+フィルターを追加および定義して、「[!UICONTROL  ユーザー ] タブで特定のユーザーグループを表示します。
 
 ![](assets/understanding-smart-lists-3.png)
 
@@ -48,5 +48,5 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [システムスマートリストの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
+>* [ビルトイン／システムのスマートリストの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}
 >* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}

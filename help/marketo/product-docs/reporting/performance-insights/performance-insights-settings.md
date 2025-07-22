@@ -4,14 +4,14 @@ description: パフォーマンスインサイトのの概要 - Marketo ドキ�
 title: パフォーマンスインサイトの設定
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '373'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
-# パフォーマンスインサイトの設定 {#performance-insights-settings}
+# [!UICONTROL  パフォーマンスインサイト ] 設定 {#performance-insights-settings}
 
 MPI の様々な設定オプションについて説明します。
 
@@ -23,7 +23,7 @@ MPI の様々な設定オプションについて説明します。
 
 ## プログラムの成功表示基準 {#view-program-success-by}
 
-**エンゲージメントダッシュボード - 貢献度とトレンド**
+**[!UICONTROL エンゲージメント ] ダッシュボード – 貢献度とトレンド**
 
 <table> 
  <tbody> 
@@ -40,7 +40,7 @@ MPI の様々な設定オプションについて説明します。
 
 ## 前の期間の構成 {#previous-period-configuration}
 
-**エンゲージメント、パイプライン、収益ダッシュボード - 貢献度のみ**
+**[!UICONTROL エンゲージメント ]、[!UICONTROL  パイプライン ]、[!UICONTROL  収益 ] ダッシュボード – 貢献度のみ**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ MPI の様々な設定オプションについて説明します。
 
 ## マーケティングに影響を受けた商談 {#marketing-influenced-opportunities}
 
-**パイプラインダッシュボード - 貢献度とトレンド**
+**[!UICONTROL パイプライン ] ダッシュボード – 貢献度とトレンド**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ MPI の様々な設定オプションについて説明します。
  </tbody> 
 </table>
 
-**売上高ダッシュボード - 貢献度とトレンド**
+**[!UICONTROL 売上高 ] ダッシュボード – 貢献度とトレンド**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ MPI の様々な設定オプションについて説明します。
 
 ## コスト計算 {#cost-calculation}
 
-**パイプラインおよび売上高ダッシュボード - 貢献度とトレンド**
+**[!UICONTROL パイプライン ] および [!UICONTROL  収益 ] ダッシュボード – 貢献度とトレンド**
 
 <table> 
  <tbody> 

@@ -4,7 +4,7 @@ description: テンプレートの削除 - Marketo ドキュメント - 製品�
 title: テンプレートの削除
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 1. 削除するテンプレートを選択します。
 
-1. 右上のメニュードロップダウンをクリックし、「**削除**」をクリックします。
+1. 右上のメニュードロップダウンをクリックし、「**[!UICONTROL 削除]**」をクリックします。
 
-1. 「**削除**」をクリックして確定します。
+1. 「**[!UICONTROL 削除]**」をクリックして確定します。

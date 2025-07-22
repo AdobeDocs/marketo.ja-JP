@@ -4,7 +4,7 @@ description: フォームフィールドの事前入力を無効にする - Mark
 title: フォームフィールドの事前入力を無効にする
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
@@ -23,11 +23,11 @@ Web 訪問者が既知の（cookie が有効）場合、Marketo のフォーム�
 
 ## 事前入力を無効にする方法 {#how-to-disable-pre-fill}
 
-1. **マーケティング活動**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-7.png)
 
-1. フォームを選択して、「**フォームの編集**」をクリックします。
+1. フォームを選択して、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -35,7 +35,7 @@ Web 訪問者が既知の（cookie が有効）場合、Marketo のフォーム�
    >
    >フォームを独自のページに埋め込むと、フォームの事前入力が機能しません。これは、Marketo のランディングページでのみ機能します。
 
-1. いずれかのフィールドを選択し、**フォームの事前入力**&#x200B;を&#x200B;**無効**&#x200B;に設定します。
+1. いずれかのフィールドを選択し、**[!UICONTROL フォームの事前入力]**&#x200B;を&#x200B;**[!UICONTROL 無効]**&#x200B;に設定します。
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -43,11 +43,11 @@ Web 訪問者が既知の（cookie が有効）場合、Marketo のフォーム�
    >
    >また、ランディングページレベルまたは管理者レベルで、フォームの事前入力を無効にすることもできます。
 
-1. 「**終了**」をクリックします。
+1. 「**[!UICONTROL 終了]**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. 「**承認して閉じる**」をクリックします。
+1. 「**[!UICONTROL 承認して閉じる]**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 

@@ -4,10 +4,10 @@ description: エンゲージメントプログラムへのリードの追加 - M
 title: エンゲージメントプログラムへのリードの追加
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 65%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 100%
 
 ユーザーがエンゲージメントプログラムのメンバーになる方法はいくつかあります。
 
-* [エンゲージメントプログラムに追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [エンゲージメントプログラムケイデンスの変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)フローステップ
-* [エンゲージメントプログラムストリームの変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)フローステップ
-* [プログラムステータスの変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)フローステップ
+* [[!UICONTROL  エンゲージメントプログラムへの追加 ]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
+* [[!UICONTROL エンゲージメントプログラムケイデンスの変更]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)フローステップ
+* [[!UICONTROL エンゲージメントプログラムストリームの変更]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)フローステップ
+* [[!UICONTROL プログラムステータスの変更]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)フローステップ
 * ユーザーがエンゲージメントプログラムのローカルフォームに入力する場合
 * メンバーをエンゲージメントプログラムにインポートする（プログラム内の「メンバー」タブを使用）
-* Salesforce を CRM として使用し、エンゲージメントプログラムに Salesforce キャンペーンを結び付けている場合、CRM 側の Salesforce キャンペーンに他のユーザーを追加すると、エンゲージメントプログラムのメンバーにもなります。
+* [!DNL Salesforce] を CRM として使用していて、[!DNL Salesforce] キャンペーンをエンゲージメントプログラムに結び付けている場合、CRM 側の [!DNL Salesforce] キャンペーンにユーザーを追加すると、そのユーザーもエンゲージメントプログラムのメンバーになります。

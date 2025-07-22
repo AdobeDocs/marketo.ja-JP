@@ -4,20 +4,20 @@ description: 同期ステータス - Marketo ドキュメント - 製品ドキ�
 title: 同期ステータス
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 89%
+ht-degree: 63%
 
 ---
 
 # 同期ステータス {#sync-status}
 
-「同期ステータス」タブと「同期エラー」タブで、同期プロセスの現在のスループットとバックログをタブに保つことができます。
+「同期ステータス」タブと「同期エラー [!UICONTROL  タブでは、同期プロセスの現在のスループットとバックログ ] タブを [!UICONTROL  認 ] できます。
 
-## 「同期ステータス」タブ {#sync-status-tab}
+## [!UICONTROL  同期ステータス ] タブ {#sync-status-tab}
 
-1. **[!UICONTROL 管理者]** をクリックし、**[!UICONTROL Microsoft Dynamics]** をクリックします。
+1. 「**[!UICONTROL 管理者]**」をクリックし、「**[!UICONTROL Microsoft Dynamics]**」をクリックします。
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
@@ -45,9 +45,9 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >「過去 1 時間」ビューを表示している場合、「挿入」列と「更新」列には「N/A」と表示されます。これは期待されている動作です。
+   >[!UICONTROL  最終時間 ] ビューを見ると、[!UICONTROL  挿入 ] 列と [!UICONTROL  更新 ] 列に「なし」と表示されます。これは予期される動作です。
 
-## 「同期エラー」タブ {#sync-errors-tab}
+## [!UICONTROL  同期エラー ] タブ {#sync-errors-tab}
 
 操作、方向、エラーコード、エラーメッセージなどの詳細との同期に失敗したリード（およびその他のオブジェクト）の参照、検索、エクスポートを行います。
 

@@ -4,16 +4,16 @@ description: スマートキャンペーンでの web フックの使用 - Marke
 title: スマートキャンペーンでの web フックの使用
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 100%
+ht-degree: 84%
 
 ---
 
 # スマートキャンペーンでの web フックの使用 {#use-a-webhook-in-a-smart-campaign}
 
-[Web フック](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}を使用するには、フローアクションとして[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}に追加します。
+[Webhook](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} を使用するには、それをフローアクションとして [ スマートキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} に追加します。
 
 >[!AVAILABILITY]
 >
@@ -29,7 +29,7 @@ ht-degree: 100%
 
    ![](assets/use-a-webhook-in-a-smart-campaign-1.png)
 
-1. Web フックを選択します。
+1. **[!UICONTROL Webhook]** を選択します。
 
    ![](assets/use-a-webhook-in-a-smart-campaign-2.png)
 

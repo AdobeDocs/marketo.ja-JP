@@ -4,7 +4,7 @@ description: スマートリストを使ってレポートでリードをフィ�
 title: スマートリストを使ってレポートでリードをフィルターする
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
@@ -27,11 +27,11 @@ ht-degree: 100%
 * [企業 Web アクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Web ページアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. 「**マーケティング活動**」エリアに移動します。
+1. 「**[!UICONTROL マーケティング活動]**」エリアに移動します。
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
-1. ナビゲーションツリーからレポートを選択し、「**スマートリスト**」タブをクリックします。
+1. ナビゲーションツリーからレポートを選択し、「**[!UICONTROL スマートリスト]**」タブをクリックします。
 
    ![](assets/image2017-3-27-14-3a12-3a53.png)
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-16-12-3a35-3a50.png)
 
-1. 「**レポート**」タブをクリックし、フィルターされたレポートを確認します。
+1. 「**[!UICONTROL レポート]**」タブをクリックし、フィルターされたレポートを確認します。
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 

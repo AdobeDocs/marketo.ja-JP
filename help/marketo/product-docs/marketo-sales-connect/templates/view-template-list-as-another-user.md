@@ -4,7 +4,7 @@ description: テンプレートリストを別のユーザとして表示 - Mark
 title: テンプレートリストを別のユーザとして表示
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
@@ -19,11 +19,11 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. 「**テンプレート**」をクリックします。
+1. 「**[!UICONTROL テンプレート]**」をクリックします。
 
    ![](assets/one.png)
 
-1. 「**次のユーザとして表示**」ドロップダウンリストをクリックし、目的のユーザを選択します。
+1. 「**[!UICONTROL 次のユーザとして表示]**」ドロップダウンリストをクリックし、目的のユーザを選択します。
 
    ![](assets/two.png)
 
@@ -33,4 +33,4 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >また、「別のユーザとして表示」と共にフィルターや検索機能を使用して、最も関連性の高いものを表示することもできます。
+   >また、「[!UICONTROL 別のユーザとして表示]」と共にフィルターや検索機能を使用して、最も関連性の高いものを表示することもできます。

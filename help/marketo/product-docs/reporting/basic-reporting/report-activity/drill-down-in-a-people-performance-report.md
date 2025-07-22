@@ -4,7 +4,7 @@ description: リード効果レポートのドリルダウン - Marketo ドキ�
 title: リード効果レポートのドリルダウン
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 リード効果レポートのドリルダウンで、追加のリード情報を確認します。
 
-1. 「**レポート**」タブをクリックし、既存レポートを確認します。
+1. 「**[!UICONTROL レポート]**」タブをクリックし、既存レポートを確認します。
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ ht-degree: 100%
 
    ![](assets/two.png)
 
-1. 「**ドリルダウン**」をクリックします。
+1. 「**[!UICONTROL ドリルダウン]**」をクリックします。
 
    ![](assets/three.png)
 
-1. **ドリルダウン**&#x200B;ポップアップで、ドリルダウンする属性を選択します。次に、「**ドリルダウン**」をクリックします。
+1. **[!UICONTROL ドリルダウン]**&#x200B;ポップアップで、ドリルダウンする属性を選択します。次に、「**[!UICONTROL ドリルダウン]**」をクリックします。
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ ht-degree: 100%
 
    ![](assets/five.png)
 
-1. 結果を保存するには（オプション）、左下の&#x200B;**書き出し**&#x200B;アイコンをクリックします。
+1. 結果を保存するには（オプション）、左下の&#x200B;**[!UICONTROL 書き出し]**&#x200B;アイコンをクリックします。
 
    ![](assets/six.png)

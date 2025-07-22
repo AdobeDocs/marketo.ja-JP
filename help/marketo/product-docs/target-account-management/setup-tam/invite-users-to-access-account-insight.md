@@ -1,25 +1,25 @@
 ---
 unique-page-id: 12980105
-description: ユーザーをアカウントインサイトにアクセスするよう招待する — Marketoドキュメント — 製品ドキュメント
-title: 顧客インサイトにアクセスするユーザーを招待
+description: ユーザーを招待してアクセス [!UICONTROL  アカウント Insight] - Marketo ドキュメント – 製品ドキュメント
+title: アクセスするユーザーを招待 [!UICONTROL  アカウントのInsight]
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 100%
+ht-degree: 81%
 
 ---
 
-# 顧客インサイトにアクセスするユーザーを招待 {#invite-users-to-access-account-insight}
+# アクセスするユーザーを招待 [!UICONTROL  アカウントのInsight] {#invite-users-to-access-account-insight}
 
-顧客インサイトへのアクセス権をユーザーに与えるには、次の手順に従います。
+次の手順に従って、[!UICONTROL  アカウントInsight] へのアクセス権をユーザーに付与します。
 
-1. 「**管理者**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/admin-1.png)
 
-1. クリック **ユーザーとロール** を設定します。 次に、 **セールスユーザ** タブ、および **新規セールスユーザの招待**.
+1. クリック **[!UICONTROL ユーザーとロール]** を設定します。 次に、 **[!UICONTROL セールスユーザ]** タブ、および **[!UICONTROL 新規セールスユーザの招待]**.
 
    ![](assets/two-6.png)
 
@@ -29,26 +29,26 @@ ht-degree: 100%
    >
    >CRM ユーザーリストを使用して新しい (Marketo以外の ) ユーザーを招待する場合、一度に複数の人を招待できます。 メールによる招待は 1 対 1 です。
 
-1. 次をクリック： **CRM ユーザー** 」ドロップダウンリストから、目的のユーザーを選択します。
+1. 次をクリック： **[!UICONTROL CRM ユーザー]** 」ドロップダウンリストから、目的のユーザーを選択します。
 
    ![](assets/three-5.png)
 
    >[!NOTE]
    >
-   >次を選択した場合： **メールでユーザーを招待**、名、姓、メールアドレスを入力して、手順 4 に進みます。
+   >次を選択した場合： **[!UICONTROL メールでユーザーを招待]**、名、姓、メールアドレスを入力して、手順 4 に進みます。
 
 1. ユーザーのアクセス権の有効期限を設定するには（オプション）、カレンダーアイコンをクリックします。 デフォルトでは「なし」に設定されています。
 
    ![](assets/four-5.png)
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/five-5.png)
 
-1. 次を確認します。 **顧客インサイト** チェックボックスをオンにして「 」をクリックします。 **次へ**.
+1. 次を確認します。 **[!UICONTROL 顧客インサイト]** チェックボックスをオンにして「 」をクリックします。 **[!UICONTROL 次へ]**.
 
    ![](assets/six-3.png)
 
-1. 送信メッセージを調べ、必要な変更（オプション）をおこない、 **送信**.
+1. 送信メッセージを調べ、必要な変更（オプション）をおこない、 **[!UICONTROL 送信]**.
 
    ![](assets/seven-2.png)

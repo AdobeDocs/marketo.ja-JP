@@ -3,24 +3,24 @@ description: 広告ネットワークへのリストの送信 - Marketo ドキ�
 title: 広告ネットワークへのリストの送信
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 74%
+source-wordcount: '216'
+ht-degree: 67%
 
 ---
 
 # 広告ネットワークへのリストの送信 {#send-a-list-to-an-ad-network}
 
-静的リストをLinkedIn、FacebookまたはGoogleに送信する方法について説明します。
+静的リストを [!DNL LinkedIn]、[!DNL Facebook] またはGoogleに送信する方法を説明します。
 
 ## リストの送信方法 {#how-to-send-a-list}
 
-1. Marketo Engageでリストを選択し、「**[!UICONTROL リストのアクション]**」ドロップダウンをクリックして、「**[!UICONTROL Ad Network に送信]**」を選択します。
+1. Marketo で、リストを選択して、**[!UICONTROL リストアクション]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 広告ネットワークに送信]**」を選択します。
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. LinkedIn、Facebook、Google のいずれかを選択します（現時点では、その他のオプションは使用できません）。この例では、**[!UICONTROL LinkedIn]** を選択します。「**[!UICONTROL 次へ]**」をクリックします。
+1. [!DNL LinkedIn]、[!DNL Facebook]、Googleのいずれかを選択します（現時点では、他のオプションは使用できません）。 この例では、「**[!DNL LinkedIn]**」を選択します。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
@@ -32,13 +32,13 @@ ht-degree: 74%
    >
    >確認する必要がある場合は、「ステータス」タブで、リストが同期されている宛先オーディエンスを確認できます。
 
-1. 目的のプッシュタイプを選択し、「**[!UICONTROL アップデート]**」をクリックします。
+1. 目的の [!UICONTROL  プッシュタイプ ] を選択し、「**[!UICONTROL 更新]**」をクリックします。
 
    ![](assets/send-a-list-to-an-ad-network-4.png)
 
    >[!NOTE]
    >
-   >「継続的なオーディエンスの同期を有効にする」を選択した場合、Marketo インスタンスでリストが変更されるため、Marketo は選択された広告ネットワークでリストを最新の状態に保ちます。静的リストに追加されたユーザーや静的リストから削除されたユーザーは、両方ともオーディエンスから追加 _および_ 削除します。
+   >「[!UICONTROL  継続的なオーディエンス同期を有効にする ] を選択した場合、Marketo インスタンスのリストが変更されるので、Marketoは選択した Ad Network のリストを最新の状態に保ちます。 静的リストに追加された人物、または静的リストから削除された人物の&#x200B;**両方**&#x200B;がオーディエンスに追加されます。
 
 1. これで完了です。「**[!UICONTROL OK]**」をクリックして終了します。
 

@@ -4,20 +4,20 @@ description: アカウントプロファイリングのランキングと調整 
 title: アカウントのプロファイリングのランキングと調整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 95%
+ht-degree: 73%
 
 ---
 
 # アカウントのプロファイリングのランキングと調整 {#account-profiling-ranking-and-tuning}
 
-アカウントプロファイリングは、理想的な顧客プロファイル（ICP）を特定し、ICP に基づきデータベース内の企業をランク付けし、ICP 指標データを重点顧客として昇格されたアカウントに追加します。
+アカウント・プロファイリングでは、理想的な顧客プロファイル（ICP）を識別し、ICP に基づいてデータベース内の企業をランク付けし、ICP インディケータ・データを [!UICONTROL  指定勘定科目 ] として昇格された勘定科目に追加します。
 
 >[!IMPORTANT]
 >
->2025 年をもって、新規ユーザーはアカウントプロファイルを使用できなくなります。 既存のユーザーに対しては引き続き機能します。
+>2025 年をもって、新規ユーザはアカウントプロファイリングを使用できなくなります。既存のユーザに対しては引き続き機能します。
 
 ## モデル結果 {#model-results}
 
@@ -30,28 +30,28 @@ ht-degree: 95%
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>ランク</strong></td> 
+   <td><strong><span class="uicontrol">ランク</span></strong></td> 
    <td> 
     <div>
       理想的な顧客プロファイルに基づくアカウントランク。A は最適で、D は最も適していません。 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>傾向</strong></td> 
+   <td><strong><span class="uicontrol">傾向</span></strong></td> 
    <td> 
     <div>
       非 ICP に基づいて選択したアカウントと比較した、コンバージョン率の推定増加。 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>アカウント（%）</strong></td> 
+   <td><strong><span class="uicontrol">アカウント（%）</span></strong></td> 
    <td> 
     <div>
       このランクを持つモデル入力のアカウントの割合。 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>モデル基準の割合</strong></td> 
+   <td><strong><span class="uicontrol">モデル基準の割合</span></strong></td> 
    <td> 
     <div>
       このランクを持つモデル基準のアカウントの割合。 
@@ -62,7 +62,7 @@ ht-degree: 95%
 
 ## モデルの調整 {#model-tuning}
 
-「モデル」タブで、「モデルを調整」ボタンをクリックします。
+「モデル」タブで、「**[!UICONTROL モデルを調整]**」ボタンをクリックします。
 
 ![](assets/two.png)
 
@@ -75,77 +75,77 @@ ht-degree: 95%
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>コンプライアンス</strong></td> 
+   <td><strong><span class="uicontrol">コンプライアンス</span></strong></td> 
    <td> 
     <div>
       認定、コンプライアンス関連の職階／雇用。 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>運用</strong></td> 
+   <td><strong><span class="uicontrol">運用</span></strong></td> 
    <td> 
     <div>
       業務関連の職階／雇用。 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>人事</strong></td> 
+   <td><strong><span class="uicontrol">人事</span></strong></td> 
    <td> 
     <div>
       人事または給与計算ソフトウェア、人事関連の職階／雇用。
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>エンジニアリング</strong></td> 
+   <td><strong><span class="uicontrol">エンジニアリング</span></strong></td> 
    <td> 
     <div>
       テクノロジー、フレームワーク、エンジニアリング関連の職階／雇用。 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>セールス</strong></td> 
+   <td><strong><span class="uicontrol">セールス</span></strong></td> 
    <td> 
     <div>
       セールス向けソリューションとソフトウェア、セールス関連の職階／雇用。 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>目的</strong></td> 
+   <td><strong><span class="uicontrol">目的</span></strong></td> 
    <td> 
     <div>
       目的指標。 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>IT</strong></td> 
+   <td><strong><span class="uicontrol">IT</span></strong></td> 
    <td> 
     <div>
       ハードウェアおよびソフトウェアのソリューション、テクノロジー、IT 関連の職階／雇用。
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>財務</strong></td> 
+   <td><strong><span class="uicontrol">財務</span></strong></td> 
    <td> 
     <div>
       財務ソフトウェア、財務関連の職階／雇用。 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>マーケティング</strong></td> 
+   <td><strong><span class="uicontrol">マーケティング</span></strong></td> 
    <td> 
     <div>
       マーケティング技術およびソフトウェア、マーケティング関連の職階／雇用。 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>ビジネス</strong></td> 
+   <td><strong><span class="uicontrol">ビジネス</span></strong></td> 
    <td> 
     <div>
       Forbes リストや上場企業またはビジネスパートナーシップ。 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>カスタマーエクスペリエンスとリレーション</strong></td> 
+   <td><strong><span class="uicontrol">カスタマーエクスペリエンスとリレーション</span></strong></td> 
    <td> 
     <div>
       カスタマーサクセスおよびカスタマーリレーション関連の職階／雇用。
@@ -158,26 +158,26 @@ ht-degree: 95%
 
 ![](assets/tool-tip.png)
 
-「ICP 指標の追加」ドロップダウンをクリックして、モデルに追加の指標を挿入します。
+[!UICONTROL ICP インジケータの追加 ] ドロップダウンをクリックして、モデルにインジケータを追加します。
 
 ![](assets/add-icp.png)
 
-「エクスポート」チェックボックスをオンにすると、重点顧客の詳細ページで ICP 指標を表示でき、選択した ICP 指標を[重点顧客フィルター](/help/marketo/product-docs/target-account-management/engage/account-filters.md)の制約として使用できます。
+「[!UICONTROL  エクスポート ]」ボックスをチェックすると、[!UICONTROL  指定勘定科目 ] 詳細ページに ICP インディケータを表示でき、選択した ICP インディケータを [ 指定勘定科目フィルタ ](/help/marketo/product-docs/target-account-management/engage/account-filters.md) の制約として使用できます。
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP 指標は、**重点顧客のメンバー**&#x200B;フィルターとトリガーに制約として含まれます。
+>ICP 指標は、**[!UICONTROL 重点顧客のメンバー]**&#x200B;フィルターとトリガーに制約として含まれます。
 
-指標の重み付けは、モデル内で各指標が受け取る重要度のレベルを制御します。
+[!UICONTROL  インジケーターの重み付け ] は、各インジケーターがモデルで受け取る重要度を制御するものです。
 
 ![](assets/weightage.png)
 
-変更を有効にするには、「モデルを更新」をクリックします。
+**[!UICONTROL モデルを更新]** をクリックして、これらの変更を有効にします。
 
 ![](assets/refresh-button.png)
 
-（更新後に）モデルの調整が完了したら、「モデル結果」タブに戻り、「**保存してランクを適用**」をクリックします。
+（更新後に）モデルの調整が完了したら、「モデル結果」タブに戻り、「**[!UICONTROL 保存してランクを適用]**」をクリックします。
 
 ![](assets/ranks.png)

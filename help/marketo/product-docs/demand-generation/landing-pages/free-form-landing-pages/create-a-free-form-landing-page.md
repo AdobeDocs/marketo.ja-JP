@@ -4,16 +4,16 @@ description: フリーフォームランディングページを作成する - M
 title: フリーフォームランディングページを作成する
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 100%
+ht-degree: 77%
 
 ---
 
 # フリーフォームランディングページを作成する {#create-a-free-form-landing-page}
 
-フリーフォームのランディングページは、プログラムのローカルアセットとして、または Design Studio で作成してグローバルに使用できます。
+自由形式のランディングページは、プログラムのローカルアセットとして作成することも、[!UICONTROL Design Studio] で作成してグローバルに使用することもできます。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ## プログラムでフリーフォームランディングページを作成する {#create-a-free-form-landing-page-in-a-program}
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,11 +29,11 @@ ht-degree: 100%
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. 「**新規作成**」をクリックします。「**新規ローカルアセット**」を選択します。
+1. 「**[!UICONTROL 新規作成]**」をクリックします。「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. 「**ランディングページ**」をクリックします。
+1. 「**[!UICONTROL ランディングページ]**」をクリックします。
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
@@ -45,21 +45,21 @@ ht-degree: 100%
 
    ![](assets/image2015-5-19-12-3a51-3a13.png)
 
-1. 「**作成**」をクリックします。
+1. 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2015-5-19-12-3a52-3a8.png)
 
 >[!TIP]
 >
->URL は、プログラムとランディングページの名前から自動的に生成されます。URL を変更するには、**ページ URL** フィールドを編集します。
+>URL は、プログラムとランディングページの名前から自動的に生成されます。URL を変更するには、**[!UICONTROL ページ URL]** フィールドを編集します。
 
 ## Design Studio でフリーフォームランディングページを作成する {#create-a-free-form-landing-page-in-design-studio}
 
-1. **Design Studio** に移動します。
+1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/designstudio.png)
 
-1. 「**新規作成**」をクリックし、「**新規ランディングページ**」をクリックします。
+1. 「**[!UICONTROL 新規作成]**」をクリックし、「**[!UICONTROL 新規ランディングページ]**」をクリックします。
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -67,10 +67,10 @@ ht-degree: 100%
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 
-1. 「**作成**」をクリックします。
+1. 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2015-5-19-13-3a33-3a43.png)
 
 >[!TIP]
 >
->「**作成**」をクリックした直後にエディターを開きたくない場合は、「新しいページに対してランディングページエディターを開く」のチェックを外します。
+>[!UICONTROL  作成 ] をクリックした後すぐにエディターを開かない場合は **[!UICONTROL 「新しいページのランディングページエディターを開く]** のチェックを外します。

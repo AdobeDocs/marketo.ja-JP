@@ -4,10 +4,10 @@ description: 返信トラッキングの動作方法 - Marketo ドキュメン�
 title: 返信トラッキングの動作方法
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 61%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->**メールサーバーとの接続：**&#x200B;新しい返信が届いた日時を知るには、Sales Connect を受信ボックスに接続する必要があります。Sales Connect アカウントを [Gmail に接続する](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)必要があります。Outlook を使用している場合は、[Exchange サーバー](https://toutapp.com/next#settings/exchange_settings)と統合する必要があります。
+>**メールサーバーへの接続：** [!DNL Sales Connect] は、新しい返信がいつ届いたかを知るために、インボックスに接続する必要があります。 [!DNL Sales Connect] アカウント [Gmail に接続 ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) が必要です。 [!DNL Outlook] を使用している場合は、[exchange server](https://toutapp.com/next#settings/exchange_settings) と統合する必要があります。
 
-Sales Connect が、送信メールに対する見込み客の返信をトラックできない場合、返信検出に基づくキャンペーンを停止したり、その返信を Salesforce に記録したりすることはできません。どのメールアドレスでも返信できるとはどういう意味でしょうか？
+[!DNL Sales Connect] がメールへの見込み客の返信を追跡できない場合、返信検出に基づくキャンペーンを停止したり、[!DNL Salesforce] への返信をログに記録したりすることはできません。  どのメールアドレスでも返信できるとはどういう意味でしょうか？
 
 つまり、flynn@flynnsarcade.com にメールを送信し、kevinf@flynnsarcade.com で返信しても、返信をトラックできます。さらに、flynn@flynnsarcade.com と CC alan@encom.com にメールを送信し、Alan が返信すると、同様に返信が検出され、キャンペーンが終了します。

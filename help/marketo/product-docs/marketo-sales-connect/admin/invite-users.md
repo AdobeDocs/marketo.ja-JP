@@ -4,10 +4,10 @@ description: ユーザーの招待 - Marketo ドキュメント - 製品ドキ�
 title: ユーザーの招待
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 100%
 
 ユーザーの追加はすばやく簡単です。
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one.png)
 
-1. 管理設定で、「**ユーザー管理**」を選択します。
+1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL User Management]**」を選択します。
 
    ![](assets/invite-team-members-2.png)
 
-1. 「**ユーザーを招待**」をクリックします。
+1. 「**[!UICONTROL ユーザーを招待]**」をクリックします。
 
    ![](assets/invite-team-members-3.png)
 
-1. 追加する個人のメールアドレスを入力し、「**次へ**」をクリックします。
+1. 追加する個人のメールアドレスを入力し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/four.png)
 
@@ -35,6 +35,6 @@ ht-degree: 100%
    >
    >デフォルトでは、すべての新規メンバーが「全員」チームに追加されます。
 
-1. 「**OK**」をクリックします。
+1. 「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/five.png)

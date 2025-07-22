@@ -4,10 +4,10 @@ description: コンテンツパターンの作成 - Marketo ドキュメント -
 title: コンテンツパターンの作成
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '367'
-ht-degree: 85%
+ht-degree: 82%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 85%
 
 コンテンツパターンを設定すると、web 訪問者がそのコンテンツパターンに関連する HTML web ページをクリックしたとき、コンテンツが自動検出されます。これは、コンテンツ分析ページにコンテンツとして HTML ページ（ブログ投稿、プレスリリース、ニュース記事など）を追加するために使用されます。コンテンツパターンに基づいて自動検出すると、web 訪問者が閲覧しているとき、またはページへのリンクをクリックするときに、定義された URL パターンに関連する HTML ページを検出し、トラックすることができます。このコンテンツ（URL、ページ名、画像 URL などのメタデータ、説明）は、予測コンテンツを作成する際、すべてのコンテンツページに追加されます。PDF や埋め込み動画など、その他のコンテンツの自動検出については、[コンテンツ検索を有効にする](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)必要があります。
 
-1. 「**コンテンツ設定**」に移動します。
+1. 「**[!UICONTROL コンテンツ設定]**」に移動します。
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. 「**URL パターン**」をクリックします。
+1. 「**[!UICONTROL URL パターン]**」をクリックします。
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -27,7 +27,7 @@ ht-degree: 85%
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Web ページが存在するドメインの URL 拡張子を追加します。カテゴリを選択します（例：ブログ、記事、データシート、プレスリリース）。
+1. Web ページが存在するドメインの URL 拡張子を追加します。カテゴリを選択します（例：[!UICONTROL  ブログ ]、[!UICONTROL  記事 ]、[!UICONTROL  データシート ]、[!UICONTROL  プレスリリース ]）。
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -39,7 +39,7 @@ ht-degree: 85%
 
    ![](assets/url-patterns-add2.png)
 
-1. 追加パスの拡張子とカテゴリを追加し、「**保存**」をクリックします。
+1. 追加パスの拡張子とカテゴリを追加し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/url-patterns-save.png)
 
@@ -48,7 +48,7 @@ ht-degree: 85%
 * ワイルドカードは、式内の任意の場所で使用できます（例：_domain.com/&#42;_, _domain.com/&#42;blog&#42;_）
 
 * 式の最後に/&#42; を使用して、パターン検出を続行することをお勧めします（例：_domain.com/blog/&#42;_ は、ブログフォルダー内のすべての投稿を検出します）
-* コンテンツパターンでは大文字と小文字が区別されません（例：_domain.com/Blog/&#42;_ は、_domain.com/Blog&rbrace; および_ 4&rbrace;domain.com/blog _上のすべての HTML ページを検出します）_
+* コンテンツパターンでは大文字と小文字が区別されません（例：_domain.com/Blog/&#42;_ は、_domain.com/Blog} および_ 4}domain.com/blog _上のすべての HTML ページを検出します）_
 
 * URL パラメーターは検出しません（これにより、同じコンテンツ URL で異なるパラメーターを持つ複数の項目が検出されるのを回避します）
 

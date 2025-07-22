@@ -3,10 +3,10 @@ description: セールスアクティビティのトリガーとフィルター 
 title: セールスアクティビティのトリガーとフィルター
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 「**スマートリスト**」タブで、「Sales Apps」を検索します。
+1. 「**[!UICONTROL スマートリスト]**」タブで、「[!UICONTROL  販売アプリ ]」を検索します。
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 

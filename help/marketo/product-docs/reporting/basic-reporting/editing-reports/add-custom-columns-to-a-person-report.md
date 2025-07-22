@@ -4,7 +4,7 @@ description: リードレポートにカスタム列を追加する - Marketo �
 title: リードレポートにカスタム列を追加する
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
@@ -15,15 +15,15 @@ ht-degree: 100%
 
 [スマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md)をカスタム列として使用すると、リードレポートで指標をさらにフィルターできます。
 
-1. **マーケティング活動**（または **Analytics** エリア）に移動します。
+1. **[!UICONTROL マーケティング活動]**（または **[!UICONTROL Analytics]** エリア）に移動します。
 
    ![](assets/ma-1.png)
 
-1. レポートを選択して、「**セットアップ**」タブをクリックします。
+1. レポートを選択して、「**[!UICONTROL セットアップ]**」タブをクリックします。
 
    ![](assets/two-1.png)
 
-1. **カスタム列**&#x200B;の上にドラッグします。
+1. **[!UICONTROL カスタム列]**&#x200B;の上にドラッグします。
 
    ![](assets/three-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. 完成です。「**レポート**」タブをクリックすると、レポートにプログラムステータス列が表示されています。
+1. 完成です。「**[!UICONTROL レポート]**」タブをクリックすると、レポートにプログラムステータス列が表示されています。
 
    ![](assets/five-1.png)
 

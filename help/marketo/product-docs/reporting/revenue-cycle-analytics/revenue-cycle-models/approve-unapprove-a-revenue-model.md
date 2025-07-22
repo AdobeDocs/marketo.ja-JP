@@ -4,10 +4,10 @@ description: 収益モデルの承認／承認取消 - Marketo ドキュメン�
 title: 収益モデルの承認／承認取消
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 100%
+source-wordcount: '156'
+ht-degree: 94%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 ## 承認 {#approve}
 
-1. **分析**&#x200B;エリアに移動します。
+1. **[!UICONTROL 分析]**&#x200B;エリアに移動します。
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ ht-degree: 100%
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. **モデルアクション**&#x200B;メニューから、「**モデルを承認**」を選択します。
+1. **[!UICONTROL モデルアクション]**&#x200B;メニューから、「**[!UICONTROL モデルを承認]**」を選択します。
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. 選択を確認するダイアログが表示されます。「**承認**」をクリックします。
+1. 選択を確認するダイアログが表示されます。「**[!UICONTROL 承認]**」をクリックします。
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ ht-degree: 100%
 >
 >モデルの承認を取り消すと、すべてのリードがモデルから削除され、モデル内の履歴が削除されます。
 
-1. **分析**&#x200B;エリアに移動します。
+1. **[!UICONTROL 分析]**&#x200B;エリアに移動します。
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,11 +53,11 @@ ht-degree: 100%
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. **モデルアクション**&#x200B;メニューをクリックして、「**モデルの承認を取消**」を選択します。
+1. **[!UICONTROL モデルアクション]**&#x200B;メニューをクリックして、「**[!UICONTROL モデルの承認を取消]**」を選択します。
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. 表示されるダイアログで、「**モデルの承認を取消**」をクリックします。
+1. 表示された [!UICONTROL  モデルを未承認 ] ダイアログで、「**[!UICONTROL 未承認]**」をクリックします。
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

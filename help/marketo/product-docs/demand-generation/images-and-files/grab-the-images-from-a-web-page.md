@@ -4,7 +4,7 @@ description: Web ページからの画像の取得 - Marketo ドキュメント 
 title: Web ページからの画像の取得
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 100%
@@ -15,15 +15,15 @@ ht-degree: 100%
 
 Web ページから画像を追加するには、目的の画像が含まれているページの Web アドレス（URL）をコピーし、次の簡単な手順に従います。
 
-1. 「**Design Studio**」に移動します。
+1. 「**[!UICONTROL Design Studio]**」に移動します。
 
    ![](assets/designstudio-2.png)
 
-1. **新規**／**Web から画像を取得**&#x200B;をクリックします。
+1. **[!UICONTROL 新規]**／**[!UICONTROL Web から画像を取得]**&#x200B;をクリックします。
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. **画像とファイル**&#x200B;フォルダーを選択して、「URL」テキストボックスに Web アドレス（URL）を貼り付けて、「**次へ**」をクリックします。
+1. **[!UICONTROL 画像とファイル]**&#x200B;フォルダーを選択して、「URL」テキストボックスに Web アドレス（URL）を貼り付けて、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ Web ページから画像を追加するには、目的の画像が含まれて�
    >
    >この機能は、画像を直接指す URL では機能しません。画像を含む Web ページの URL を使用します。
 
-1. 追加する画像を選択し、「**インポート**」をクリックします。
+1. 追加する画像を選択し、「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -39,7 +39,7 @@ Web ページから画像を追加するには、目的の画像が含まれて�
 
    ![](assets/image2014-9-16-11-3a38-3a9.png)
 
-1. 使用可能な画像はすべて、**画像とファイル**&#x200B;で確認できます。
+1. 使用可能な画像はすべて、**[!UICONTROL 画像とファイル]**&#x200B;で確認できます。
 
    ![](assets/image2014-9-16-11-3a38-3a18.png)
 

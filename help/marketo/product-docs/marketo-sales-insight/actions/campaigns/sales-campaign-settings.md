@@ -3,10 +3,10 @@ description: セールスキャンペーンの設定 - Marketo ドキュメン�
 title: セールスキャンペーンの設定
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 96%
+source-wordcount: '225'
+ht-degree: 80%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->「週末をスキップ」を有効にすると、5 日間の週に基づいてメールがスケジュールされます。つまり、ステップがスケジュールされると、週末は日として無視されます。
+>[!UICONTROL  週末をスキップ ] を有効にすると、メールは週に 5 日に基づいてスケジュールされます。 つまり、ステップがスケジュールされると、週末は日として無視されます。
 
-1. 「**キャンペーン**」をクリックします。
+1. 「**[!UICONTROL キャンペーン]**」をクリックします。
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -30,11 +30,11 @@ ht-degree: 96%
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. 「**設定**」タブをクリックします。
+1. 「**[!UICONTROL 設定]**」タブをクリックします。
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. 「**週末をスキップ**」チェックボックスを選択します。
+1. 「**[!UICONTROL 週末をスキップ]**」チェックボックスを選択します。
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,7 +42,7 @@ ht-degree: 96%
 
 メール接続を使用している場合、ユーザのインボックスに送信されたバウンスメッセージに基づいてバウンスが検出されます。さらに、バウンスが検出された場合にセールスキャンペーンから人物を削除できます。
 
-1. 「**キャンペーン**」をクリックします。
+1. 「**[!UICONTROL キャンペーン]**」をクリックします。
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -50,19 +50,19 @@ ht-degree: 96%
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. 「**設定**」タブをクリックします。
+1. 「**[!UICONTROL 設定]**」タブをクリックします。
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. 「**バウンス時に削除**」チェックボックスを選択します。
+1. 「**[!UICONTROL バウンス時に削除]**」チェックボックスを選択します。
 
    ![](assets/sales-campaign-settings-8.png)
 
 ## 返信があった場合 {#if-a-reply-occurs}
 
-Gmail または Exchange の返信追跡を有効にした場合、受信者がメールに返信すると自動的にセールスキャンペーンを終了します。
+Gmail または [!DNL Exchange] の返信トラッキングを有効にしている場合、受信者がメールに返信すると、販売キャンペーンを自動的に終了できます。
 
-1. 「**キャンペーン**」をクリックします。
+1. 「**[!UICONTROL キャンペーン]**」をクリックします。
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -70,11 +70,11 @@ Gmail または Exchange の返信追跡を有効にした場合、受信者が�
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. 「**設定**」タブをクリックします。
+1. 「**[!UICONTROL 設定]**」タブをクリックします。
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. 「**返信が発生した場合**」で、必要な選択を行います。
+1. 「**[!UICONTROL 返信が発生した場合]**」で、必要な選択を行います。
 
    ![](assets/sales-campaign-settings-12.png)
 

@@ -4,10 +4,10 @@ description: アカウントプロファイリングの設定 - Marketo ドキ�
 title: アカウントプロファイリングの設定
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 88%
 
 >[!IMPORTANT]
 >
->2025 年をもって、新規ユーザーはアカウントプロファイルを使用できなくなります。 既存のユーザーに対しては引き続き機能します。
+>2025 年をもって、新規ユーザはアカウントプロファイリングを使用できなくなります。既存のユーザに対しては引き続き機能します。
 
 >[!CAUTION]
 >
@@ -30,19 +30,19 @@ ht-degree: 88%
 >
 >フィールドを再表示する方法は、[こちら](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field)を参照してください。
 
-1. My Marketo で、**ターゲットアカウント管理**&#x200B;を開きます。
+1. My Marketo で、**[!UICONTROL ターゲットアカウント管理]**&#x200B;を開きます。
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. 「**アカウントプロファイリング**」タブをクリックします。
+1. 「**[!UICONTROL アカウントプロファイリング]**」タブをクリックします。
 
    ![](assets/two-1.png)
 
-1. デフォルトでは、「モデル」タブが開きます。「**開始する**」をクリックします。
+1. デフォルトでは、「モデル」タブが開きます。「**[!UICONTROL 開始する]**」をクリックします。
 
    ![](assets/three.png)
 
-1. モデルに名前を付け、理想的な顧客プロファイル（ICP）の基礎となる人物のリストタイプまたはリストを選択します。終了したら、「**モデルを作成**」をクリックします。
+1. モデルに名前を付け、理想的な顧客プロファイル（ICP）の基礎となる人物のリストタイプまたはリストを選択します。終了したら、「**[!UICONTROL モデルを作成]**」をクリックします。
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -50,7 +50,7 @@ ht-degree: 88%
 
    ![](assets/five.png)
 
-1. モデルの結果を表示するには、「**モデル結果を確認する**」をクリックします。
+1. モデルの結果を表示するには、「**[!UICONTROL モデル結果を確認する]**」をクリックします。
 
    ![](assets/six.png)
 

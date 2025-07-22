@@ -4,18 +4,18 @@ description: メールプログラム結果の表示 - Marketo ドキュメン�
 title: メールプログラム結果の表示
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 100%
+ht-degree: 77%
 
 ---
 
 # メールプログラム結果の表示 {#view-email-program-results}
 
-スマートキャンペーンの「結果」タブと同様に、メールプログラムにも同じ情報が表示されます。
+スマートキャンペーンの [!UICONTROL  結果 ] タブと同様に、メールプログラムにも同じ情報が表示されます。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,11 +27,11 @@ ht-degree: 100%
    >
    >メールプログラムが既に実行されている場合は、メールプログラムダッシュボードに直接移動します。
 
-1. **表示**&#x200B;の下で、「**コントロールパネル**」を選択します。
+1. **[!UICONTROL 表示]**&#x200B;の下で、「**[!UICONTROL コントロールパネル]**」を選択します。
 
    ![](assets/controlpanelview.jpg)
 
-1. **オーディエンス**&#x200B;タイルの下で、「**結果を表示**」をクリックします。
+1. **[!UICONTROL オーディエンス]**&#x200B;タイルの下で、「**[!UICONTROL 結果を表示]**」をクリックします。
 
    ![](assets/audiencetile.jpg)
 

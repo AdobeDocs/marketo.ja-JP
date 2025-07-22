@@ -4,10 +4,10 @@ description: Salesforce 同期設定 - Marketo ドキュメント - 製品ドキ
 title: Salesforce 同期設定
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 100%
+source-wordcount: '424'
+ht-degree: 57%
 
 ---
 
@@ -21,23 +21,23 @@ ht-degree: 100%
 >
 >Salesforce と Sales Connect を接続する必要があります。
 
-1. Sales Connect で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
+1. [!DNL Sales Connect] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one-2.png)
 
-1. マイアカウント（管理者の場合は管理設定）で、**Salesforce** をクリックします。
+1. [!UICONTROL  マイアカウント ] （管理者の場合は [!UICONTROL  管理者設定 ]）で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/two-2.png)
 
-1. 「**同期設定**」タブをクリックします。
+1. 「**[!UICONTROL 同期設定]**」タブをクリックします。
 
    ![](assets/three-1.png)
 
-1. 「メールアクティビティのログを Salesforce に記録」の横の矢印をクリックします。
+1. 「電子メールアクティビティを [!DNL Salesforce] に記録」の横の矢印をクリックします。
 
    ![](assets/four-1.png)
 
-1. 「**Salesforce API**」タブをクリックします。このカードでは、Salesforce に情報を記録する際の環境設定を設定できます。終了したら「**保存**」をクリックします。
+1. 「**[!UICONTROL Salesforce API]**」タブをクリックします。このカードでは、[!DNL Salesforce] に情報を記録するための環境設定を行うことができます。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/five.png)
 
@@ -47,70 +47,70 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->Salesforce と Sales Connect を接続する必要があります。
+>[!DNL Salesforce] と [!DNL Sales Connect] を接続する必要があります。
 
 **メール（BCC）を使用して Salesforce にメールを記録するには**
 
-1. Sales Connect で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
+1. [!UICONTROL Sales Connect] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one-3.png)
 
-1. マイアカウント（管理者の場合は管理設定）で、**Salesforce** をクリックします。
+1. [!UICONTROL  マイアカウント ] （管理者の場合は [!UICONTROL  管理者設定 ]）で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/two-3.png)
 
-1. 「**同期設定**」タブをクリックします。
+1. 「**[!UICONTROL 同期設定]**」タブをクリックします。
 
    ![](assets/three-1.png)
 
-1. 「**Salesforce にメールを送信（BCC）**」タブをクリックし、「**有効化**」をクリックします。
+1. 「**[!UICONTROL Salesforce にメールを送信（BCC）]**」タブをクリックし、「**[!UICONTROL 有効化]**」をクリックします。
 
    ![](assets/six-2.png)
 
-何らかの理由で Salesforce へのメールアドレスが取り込まれない場合は、以下の手順に従って、Salesforce アカウントで BCC 機能を有効にします。
+何らかの理由で [!DNL Salesforce] アドレスへのメールが取り込まれない場合は、次の手順に従って、[!DNL Salesforce] アカウントで BCC 機能を有効にします。
 
-1. Salesforce インスタンスにログインします。
+1. [!DNL Salesforce] インスタンスにログインします。
 1. 右上隅にあるユーザー名を探し、ドロップダウンバーを選択します。
-1. 「**マイ設定**」を選択します。
-1. 「**メール**」を選択します。
-1. 「**メールを Salesforce に送信**」を選択します。
+1. 「**[!UICONTROL マイ設定]**」を選択します。
+1. 「**[!UICONTROL メール]**」を選択します。
+1. 「**[!UICONTROL メールを Salesforce に送信]**」を選択します。
 1. このページに、「Salesforce アドレス宛てにメールを送信」というラベルの付いたフィールドが表示されます。横に何も入力されていない場合は、「アクセス可能なメールアドレス」までスクロールします。
 1. BCC を送信するメールアドレスを入力します。
-1. 「**変更を保存**」をクリックします。
+1. 「**[!UICONTROL 変更を保存]**」をクリックします。
 
-**マイ設定で Salesforce へのメール送信が見つからない**
+**設定に [!DNL Salesforce] するメールが見つかりません**
 
-「設定」に「Salesforce へのメール送信」が表示されない場合は、管理者が有効にしていない可能性があります。これは、チームが Salesforce を初めて使用した場合や、チームが Salesforce が提供する BCC アドレスを使用したことがない場合に発生する可能性があります。
+「設定」に「Salesforce へのメール送信」が表示されない場合は、管理者が有効にしていない可能性があります。これは、チームが [!DNL Salesforce] を初めて使用する場合や、チームが [!DNL Salesforce] から提供された BCC アドレスを使用したことがない場合に発生する可能性があります。
 
 >[!NOTE]
 >
 >これを設定するには、管理者権限が必要です。
 
-1. 「**設定**」をクリックします。
-1. 「**メール管理**」をクリックします。
-1. 「**Salesforce にメール送信**」をクリックします。
-1. 「**編集**」をクリックします。
-1. 「アクティブ」の横のボックスをオンにします。
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 設定]**」をクリックします。
+1. 「**[!UICONTROL メール管理]**」をクリックします。
+1. 「**[!UICONTROL Salesforce にメール送信]**」をクリックします。
+1. 「**[!UICONTROL 編集]**」をクリックします。
+1. 「[!UICONTROL  アクティブ ]」の横にあるチェックボックスをオンにします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
-## セールスコネクトタスク/Salesforce タスクのリマインダを同期 {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
+## [!DNL Salesforce] のタスクに Sales Connect のタスク/リマインダーを同期 {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
 
-1. 右上の歯車アイコンをクリックし、「**設定**」を選択します。
+1. 右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one-3.png)
 
-1. マイアカウント（管理者の場合は管理設定）で、**Salesforce** をクリックします。
+1. [!UICONTROL  マイアカウント ] （管理者の場合は [!UICONTROL  管理者設定 ]）で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/two-2.png)
 
-1. 「**同期設定**」タブをクリックします。
+1. 「**[!UICONTROL 同期設定]**」タブをクリックします。
 
    ![](assets/three-1.png)
 
-1. 「Sales Connect タスク／Salesforce タスクのリマインダーを同期」の横の矢印をクリックします。
+1. [!UICONTROL Sync Sales Engage Tasks/Reminders to Salesforce Tasks] の横の矢印をクリックします。
 
    ![](assets/seven-2.png)
 
-1. 目的のオプションを選択します（「Salesforce タスクに同期しない」がデフォルトで選択されています）。
+1. 目的のオプションを選択します（「[!UICONTROL Salesforce タスクに同期しない ]」がデフォルトで選択されています）。
 
    ![](assets/eight.png)

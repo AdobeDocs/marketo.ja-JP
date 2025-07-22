@@ -3,32 +3,32 @@ description: ユーザに Marketo のアクセス権を付与 - Marketo ドキ�
 title: ユーザに Marketo のアクセス権を付与
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 100%
+source-wordcount: '210'
+ht-degree: 64%
 
 ---
 
 # ユーザに Marketo のアクセス権を付与 {#grant-marketo-access-to-users}
 
-この記事の手順に従って、Sales Insight Actions ユーザに、Marketo に接続するアクセス権を付与します。これにより、ライブフィードの注目のアクションなどの機能が解放され、マーケティングキャンペーンにアクセスできるようになります。
+[!DNL Sales Insight Actions] ユーザーにMarketoへのアクセス権を付与するには、この記事の手順に従います。 これにより、ライブフィードの注目のアクションなどの機能が解放され、マーケティングキャンペーンにアクセスできるようになります。
 
-ユーザが（Sales Insight Actions の）Marketo／チームアクセスページに表示されるには、ユーザを [Sales Insight Actions](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) に招待する必要があります。そこで、Marketo 接続へのアクセス権が付与されます。
+Marketo接続へのアクセス権を付与するMarketo/[[!DNL Sales Insight Actions]](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) チームアクセス [!UICONTROL  ページ（]）にユーザーが表示されるようにするには、ユーザーを [!DNL Sales Insight Actions] に招待する必要があります。
 
 >[!CAUTION]
 >
->Sales Insight Actions を Marketo に接続し、10 分待ってから、以下の手順を実行してください。
+>[!DNL Sales Insight Actions] をMarketoに接続してから 10 分待ってから、これらの手順を実行してください。
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. 「管理者設定」で、「**Marketo**」をクリックします。
+1. [!UICONTROL  管理者設定 ] で、**Marketo** をクリックします。
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. 「**ユーザアクセス**」タブをクリックします。1 人または複数のユーザを選択し、「**接続**」をクリックします。
+1. 「**[!UICONTROL ユーザアクセス]**」タブをクリックします。1 人または複数のユーザを選択し、「**[!UICONTROL 接続]**」をクリックします。
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
@@ -44,8 +44,8 @@ ht-degree: 100%
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. 「**接続**」をクリックします。
+1. 「**[!UICONTROL 接続]**」をクリックします。
 
    ![](assets/grant-marketo-access-to-users-6.png)
 
-チーム管理ページからさらにユーザを追加し、上記の手順に従ってユーザを接続させることができます。
+[!UICONTROL  チーム管理 ] ページから追加のユーザーを追加し、上記の手順に従ってユーザーを接続できます。

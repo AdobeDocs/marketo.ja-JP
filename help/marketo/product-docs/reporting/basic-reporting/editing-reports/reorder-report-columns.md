@@ -4,7 +4,7 @@ description: レポート列の並べ替え - Marketo ドキュメント - 製�
 title: レポート列の並べ替え
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 レポート内の列の順序を変更できます。
 
-1. **マーケティング活動**（または **Analytics** エリア）に移動します。
+1. **[!UICONTROL マーケティング活動]**（または **[!UICONTROL Analytics]** エリア）に移動します。
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. ナビゲーションツリーから目的のレポートを選択し、「**レポート**」タブをクリックします。
+1. ナビゲーションツリーから目的のレポートを選択し、「**[!UICONTROL レポート]**」タブをクリックします。
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 

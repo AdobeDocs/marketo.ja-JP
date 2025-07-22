@@ -4,7 +4,7 @@ description: レポート列の選択 - Marketo ドキュメント - 製品ド�
 title: レポート列の選択
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 レポートに含める列と含めない列を選択できます。
 
-1. **分析**（または&#x200B;**マーケティング活動**）領域に移動します。
+1. **[!UICONTROL 分析]**（または&#x200B;**[!UICONTROL マーケティング活動]**）領域に移動します。
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. 「**レポート**」タブをクリックし、任意の列見出しをクリックして、「**列**」を選択し、含める列を選択します。
+1. 「**[!UICONTROL レポート]**」タブをクリックし、任意の列見出しをクリックして、「**[!UICONTROL 列]**」を選択し、含める列を選択します。
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 

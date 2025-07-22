@@ -4,10 +4,10 @@ description: メールでの動的コンテンツの使用 - Marketo ドキュ�
 title: メールでの動的コンテンツの使用
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -25,15 +25,15 @@ ht-degree: 100%
 
 ## セグメント化を追加 {#add-segmentation}
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. メールを選択して、「**ドラフトの編集**」をクリックします。
+1. メールを選択して、「**[!UICONTROL ドラフトの編集]**」をクリックします。
 
    ![](assets/1.2.png)
 
-1. この例では、件名を動的にします。件名フィールドをクリックし、「**動的にする**」ボタンをクリックします。
+1. この例では、件名を動的にします。[!UICONTROL  件名 ] フィールドをクリックしてから、「**動的にする** ボタンをクリックします。
 
    ![](assets/1.3.png)
 
@@ -41,11 +41,11 @@ ht-degree: 100%
    >
    >また、メール内の要素を動的にすることもできます。それには、領域を選択し、歯車アイコンをクリックして、「**動的にする**」（または実行内容に応じて「[スニペットに置換](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)」）をクリックします。
 
-1. セグメント名を入力して選択し、「**保存**」をクリックします。
+1. セグメント名を入力して選択し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/1.4.png)
 
-   セグメント化とそのセグメントが右側の「動的」タブに表示されます。
+   セグメント化とそのセグメントが、右側の [!UICONTROL  動的 ] タブの下に表示されます。
 
    ![](assets/1.5.png)
 

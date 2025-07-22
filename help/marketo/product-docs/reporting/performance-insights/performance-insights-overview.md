@@ -4,24 +4,24 @@ description: パフォーマンスインサイトの概要 - Marketo ドキュ�
 title: パフォーマンスインサイトの概要
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 100%
+source-wordcount: '234'
+ht-degree: 51%
 
 ---
 
-# パフォーマンスインサイトの概要 {#performance-insights-overview}
+# [!UICONTROL  パフォーマンスインサイト ] の概要 {#performance-insights-overview}
 
-Marketo のパフォーマンスインサイトは、チャネルの組み合わせを最大限の効果に最適化し、長期的なトレンドを明らかにして、一貫した成功戦略を見つけ出すのに役立ちます。
+Marketo[!UICONTROL  パフォーマンスインサイト ] は、チャネルミックスを最適化して最大限の効果を得るとともに、長期的なトレンドを明らかにして一貫性のある勝者戦略を見つけるのに役立ちます。
 
 >[!AVAILABILITY]
 >
->必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-パフォーマンスインサイトは、最大過去 24 か月のデータを読み込みます。これには、現在の年累計データと、前年のデータが含まれます。例えば、2019 年 1 月 31 日に、MPI はその月のデータを読み込み、2018 年から毎月読み込みます。2019 年 12 月 31 日に、MPI は 2019 年と 2018 年の毎月のデータを読み込みます。
+[!UICONTROL  パフォーマンスインサイト ] は、過去 24 か月のデータを（最大）読み込みます。 これには、現在の年累計データと、前年のデータが含まれます。例えば、2019 年 1 月 31 日に、MPI はその月のデータを読み込み、2018 年から毎月読み込みます。2019 年 12 月 31 日に、MPI は 2019 年と 2018 年の毎月のデータを読み込みます。
 
-パフォーマンスインサイトにアクセスするには、分析ホーム画面でパフォーマンスインサイトのアイコンをクリックします。
+[!UICONTROL  パフォーマンスインサイト ] にアクセスするには、Analytics ホーム画面で該当するアイコンをクリックします。
 
 ![](assets/one.png)
 
@@ -31,7 +31,7 @@ Marketo のパフォーマンスインサイトは、チャネルの組み合わ
 
 ![](assets/two.png)
 
-デフォルトでは、表示されるデータは、エンゲージメント別のパフォーマンスを反映しています。いずれかをクリックするだけで、パイプラインまたは売上高別のパフォーマンスに切り替えることができます。
+デフォルトでは、表示されるデータは、[!UICONTROL  エンゲージメント ] によるパフォーマンスを反映しています。 パフォーマンスに切り替えるには、いずれか **[!UICONTROL パイプライン]** または **[!UICONTROL 売上高]** をクリックします。
 
 ![](assets/3.png)
 
@@ -43,16 +43,16 @@ Marketo のパフォーマンスインサイトは、チャネルの組み合わ
 
 ## 設定 {#settings}
 
-売上高およびパイプラインダッシュボードで、[設定](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md)アイコンをクリックして、追加のパラメーターを設定します。
+[!UICONTROL  売上高 ] ダッシュボードと [!UICONTROL  パイプライン ] ダッシュボードで [[!UICONTROL  設定 ]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) アイコンをクリックして、追加のパラメーターを設定します。
 
 ![](assets/5.png)
 
 ## データのエクスポート {#export-data}
 
-PowerPoint または Excel でデータとグラフをエクスポートできます。また、[クイックチャート](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md)として保存することもできます。
+データとグラフは [!DNL PowerPoint] または [!DNL Excel] のいずれかで書き出すことができます。 また、[クイックチャート](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md)として保存することもできます。
 
 ![](assets/6.png)
 
 >[!NOTE]
 >
->データを Excel にエクスポートして、（上位 10 件だけでなく）すべてのチャネルで使用できるデータを確認します。PPT 書き出しは WYSIWYG です（出力は画面に表示される内容を模倣します）。
+>データを [!DNL Excel] に書き出すと、上位 10 個だけでなく、すべてのチャネルで使用可能なデータを表示できます。 PPT 書き出しは WYSIWYG です（出力は画面に表示される内容を模倣します）。

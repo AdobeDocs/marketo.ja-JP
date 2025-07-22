@@ -4,10 +4,10 @@ description: 動的コンテンツを含むメールのプレビュー — Marke
 title: 動的コンテンツを含むメールのプレビュー
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 動的コンテンツを追加した後にメールをプレビューして確認します。
 
-1. メールを選択し、「**メールのプレビュー**」をクリックします。
+1. メールを選択し、「**[!UICONTROL メールのプレビュー]**」をクリックします。
 
    ![](assets/one-3.png)
 
-1. 閲覧方法ドロップダウンをクリックし、プレビューする動的コンテンツのタイプを選択します。
+1. **[!UICONTROL 表示基準]** ドロップダウンをクリックし、プレビューする動的コンテンツのタイプを選択します。
 
    ![](assets/two-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 メールエディターで動的コンテンツを直接プレビューすることもできます。
 
-1. 「**コンテンツ**」で、「**動的**」タブをクリックします。
+1. 「**[!UICONTROL コンテンツ]**」で、「**[!UICONTROL 動的]**」タブをクリックします。
 
    ![](assets/five-1.png)
 

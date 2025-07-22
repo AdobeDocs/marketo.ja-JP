@@ -4,16 +4,16 @@ description: Sales Connect と GDPR への準拠 - Marketo ドキュメント - 
 title: Sales Connect と GDPR への準拠
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1386'
-ht-degree: 100%
+source-wordcount: '1355'
+ht-degree: 74%
 
 ---
 
-# Sales Connect と GDPR への準拠 {#sales-connect-and-gdpr-compliance}
+# [!DNL Sales Connect] および GDPR コンプライアンス {#sales-connect-and-gdpr-compliance}
 
-EU 一般データ保護規則（GDPR）は、2018年5月25 日に施行された欧州連合の法律です。
+EU 一般データ保護規則（GDPR）は、2018年5月25日に施行された欧州連合の法律です。
 
 ## 概要 {#overview}
 
@@ -42,23 +42,23 @@ GDPR は、EU 内または EEA 外で、EU 内のデータ主体に対するマ�
 
 GDPR には、過去、現在、将来のプラクティスをマーケターが確認する必要がある重要な側面が 2 つあります。1 つ目は、個人が個人データを処理することに同意すること、もう 1 つは、説明責任、すなわち、GDPR の原則がどのように遵守されているかを示せることです。
 
-Marketo プラットフォームでの同意と説明責任に関する広範な情報を、電子ブック『[GDPR and The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/)』にて提供しています。ただし、この記事では、GDPR ルールの遵守に役立つ、Marketo Sales Connect の新機能に焦点を当てます。
+Marketo プラットフォームでの同意と説明責任に関する広範な情報を、電子ブック『[GDPR and The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/)』にて提供しています。ただし、この記事では、組織が GDPR ルールに準拠するのに役立つ [!DNL Marketo Sales Connect] の新機能を重点的に説明します。
 
-## Marketo Sales Connect の GDPR コンプライアンス {#gdpr-compliance-in-marketo-sales-connect}
+## [!DNL Marketo Sales Connect] での GDPR コンプライアンス {#gdpr-compliance-in-marketo-sales-connect}
 
-Marketo Sales Connect は、Marketo Engagement Platform の一部である強力なアプリケーションで、セールスとマーケティングのための単一のワークフローとビューを提供し、共同作業によるエンゲージメントを通じてより迅速にパイプラインを推進します。Marketo Sales Connect の新機能は、GDPR への準拠を念頭に置いて作成されました。3 つの機能についての概要と、適切に使用されることで、お客様の組織の GDPR コンプライアンス活動にいかに役立つかを説明します。
+[!DNL Marketo Sales Connect] は、[!DNL Marketo Engagement Platform] の一部である強力なアプリケーションで、セールスとマーケティングのための単一のワークフローとビューを提供し、共同作業を通じてパイプラインを迅速に共同で推進します。 [!DNL Marketo Sales Connect] の新機能は、GDPR コンプライアンスを念頭に置いて特別に作成されました。 3 つの機能についての概要と、適切に使用されることで、お客様の組織の GDPR コンプライアンス活動にいかに役立つかを説明します。
 
 ## コンプライアンスカード {#compliance-card}
 
-Marketo Sales Connect には、連絡先の認証タイプとそのソースタイプに関する重要な情報を提供するコンプライアンスカードが、人物の詳細表示に含まれています。これにより、ユーザーは、データのプライバシーにとって重要な情報を簡単に追加および追跡でき、キャンペーン／アウトリーチ戦略に関して、より十分な情報に基づいた意思決定を行うのに役立ちます。
+[!DNL Marketo Sales Connect] のユーザーの詳細ビューには、連絡先の認証タイプに関する主要な情報とSourceのタイプに関する情報を提供するコンプライアンスカードが含まれています。 これにより、ユーザーは、データのプライバシーにとって重要な情報を簡単に追加および追跡でき、キャンペーン／アウトリーチ戦略に関して、より十分な情報に基づいた意思決定を行うのに役立ちます。
 
 ![](assets/1.png)
 
 連絡先認証タイプ
 
-コンプライアンスカード内のユーザーは、「認証」ドロップダウンを使用して、連絡先の個人データを処理する法的根拠を追跡できます。連絡先の認証タイプを理解すると、Marketo Sales Connect のユーザーは、アウトリーチプラクティスに関する情報に基づいた意思決定を行うのに役立ち、各キャンペーンまたはエンゲージメントが法的かつ適切であることを確認できます。
+コンプライアンスカード内のユーザーは、「認証」ドロップダウンを使用して、連絡先の個人データを処理する法的根拠を追跡できます。連絡先の認証タイプを把握することで、ユーザー [!DNL Marketo Sales Connect] アウトリーチの実践に関してより十分な情報に基づいた意思決定を行い、各キャンペーンやエンゲージメントが合法かつ適切であることを確認できます。
 
-ユーザーは、次のように、様々な選択肢から選択できます。
+ユーザは、次のように、様々な選択肢から選択できます。
 
 * 同意
 * 正当な利益
@@ -70,37 +70,37 @@ Marketo Sales Connect には、連絡先の認証タイプとそのソースタ�
 
 連絡先ソースタイプ
 
-新しいコンプライアンスカード内で、ユーザーは連絡先のソースを追跡できます。ソースタイプは、Marketo Sales Connect に最初にアップロードされた際の連絡先の情報元を定義します。連絡先のソースタイプを把握すると、アウトリーチプラクティスに関する決定や、個人データを保存する他のシステムや場所の決定にも役立ち、各エンゲージメントが GDPR 法に準拠していることを確認できます。
+新しいコンプライアンスカード内で、ユーザーは連絡先のソースを追跡できます。Source タイプは、[!DNL Marketo Sales Connect] に最初にアップロードされた際に連絡先の情報が入ってきた場所を定義します。 取引先責任者のソースタイプを把握すると、アウトリーチプラクティスに関する決定や、個人データを保存する他のシステムや場所の決定にも役立ち、各エンゲージメントが GDPR 法に準拠していることを確認できます。
 
 この場合も、ユーザには次のようなドロップダウンオプションが提供されます。
 
 * CRM 同期
 * インポート
 * 手動アップロード
-* Chrome 拡張
+* [!DNL Chrome] 拡張機能
 * その他
 
 コンプライアンスカードの編集
 
-人物の詳細表示が開いたら、コンプライアンスカードの「**編集**」をクリックします。
+人物の詳細表示が開いたら、コンプライアンスカードの「**[!UICONTROL 編集]**」をクリックします。
 
 ![](assets/four.png)
 
-「認証タイプ」と「ソースタイプ」の 2 つのドロップダウンが表示されます。
+[!UICONTROL  認証タイプ ] と [!UICONTROL Source タイプ ] の 2 つのドロップダウンが表示されます。
 
 ![](assets/5.png)
 
-認証タイプの「同意」を選択した場合は、必須フィールドの「同意日」と「処理の目的」が表示されます。この 2 つのフィールドは、他のオプションには適用されません。
+[!UICONTROL  認証タイプ ] として「[!UICONTROL  同意 ]」を選択すると、「[!UICONTROL  同意日 ]」および「[!UICONTROL  処理の目的 ]」の 2 つの必須フィールドが表示されます。 この 2 つのフィールドは、他のオプションには適用されません。
 
 ![](assets/6.png)
 
-「認証タイプ」または「ソースタイプ」に「その他」を選択した場合は、ソースの種類を説明するテキストを入力できます。
+[!UICONTROL Authorization Type] または [!UICONTROL Source Type] に「[!UICONTROL Other]」が選択されている場合は、Source Type を説明するテキストを入力できます。
 
 ![](assets/7.png)
 
-一括アクション** Marketo Sales Connect を使用すると、連絡先の認証タイプとソースタイプを一括で更新し、コンプライアンスプロセスの貴重な時間を節約できます。
+一括アクション** [!DNL Marketo Sales Connect] を使用すると、連絡先の認証タイプとSource タイプを一括でアップデートして、コンプライアンスプロセスの貴重な時間を節約することもできます。
 
-人物ページから 1 つ以上の連絡先を選択すると、上部のコンテナに「認証」ボタンと「ソース」ボタンが表示されます。これらのボタンを使用して、複数の連絡先の認証またはソースを同時に設定できます。
+[!UICONTROL  人物 ] ページから 1 人以上の連絡先を選択すると、上部のコンテナに「認証」ボタンと「Source」ボタンが表示されます。 これらのボタンを使用して、複数の連絡先の認証またはソースを同時に設定できます。
 
 ![](assets/eight.jpg)
 
@@ -116,13 +116,13 @@ Marketo Sales Connect には、連絡先の認証タイプとそのソースタ�
 
 ![](assets/11.png)
 
-選択した連絡先に対して正しいソースタイプを選択すると、更新が成功したことを確認する確認ウィンドウが表示されます。
+選択した取引先責任者に対して正しいソースタイプを選択すると、更新が成功したことを確認する確認ウィンドウが表示されます。
 
 ![](assets/12.png)
 
-## Marketo Sales Connect からの連絡先データのエクスポート {#exporting-contact-data-from-marketo-sales-connect}
+## [!DNL Marketo Sales Connect] から連絡先データをエクスポート中 {#exporting-contact-data-from-marketo-sales-connect}
 
-人物の詳細表示から連絡先情報をエクスポートできます。エクスポートすると、次の列を含む.CSV ファイルがダウンロードされます。
+個人の詳細表示から取引先責任者情報をエクスポートできます。エクスポートすると、次の列を含む.CSV ファイルがダウンロードされます。
 
 <table> 
  <colgroup> 
@@ -132,33 +132,33 @@ Marketo Sales Connect には、連絡先の認証タイプとそのソースタ�
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>名</td> 
-   <td>Web サイト</td> 
-   <td>Facebook</td> 
+   <td>[!UICONTROL の名 ]</td> 
+   <td>[!UICONTROL Web サイト ]</td> 
+   <td>[!DNL Facebook]</td> 
   </tr> 
   <tr> 
-   <td>姓</td> 
-   <td>その他</td> 
-   <td>Twitter</td> 
+   <td>[!UICONTROL の姓 ]</td> 
+   <td>[!UICONTROL その他 ]</td> 
+   <td>[!DNL Twitter]</td> 
   </tr> 
   <tr> 
-   <td>企業</td> 
-   <td>更新時刻</td> 
-   <td>LinkedIn</td> 
+   <td>[!UICONTROL 会社 ]</td> 
+   <td>[!UICONTROL 更新日時 ]</td> 
+   <td>[!DNL LinkedIn]</td> 
   </tr> 
   <tr> 
-   <td>職位</td> 
-   <td>作成日時</td> 
-   <td>エクスポート時間</td> 
+   <td>[!UICONTROL タイトル ]</td> 
+   <td>[!UICONTROL の作成場所 ]</td> 
+   <td>[!UICONTROL のエクスポート先 ]</td> 
   </tr> 
   <tr> 
-   <td>メール ID</td> 
-   <td>Salesforce ID</td> 
+   <td>[!UICONTROL メール ID]</td> 
+   <td>[!UICONTROL Salesforce ID]</td> 
    <td><br></td> 
   </tr> 
   <tr> 
-   <td>電話番号</td> 
-   <td>顧客 ID</td> 
+   <td>[!UICONTROL 電話番号 ]</td> 
+   <td>[!UICONTROL 人物 ID]</td> 
    <td><br></td> 
   </tr> 
  </tbody> 
@@ -168,20 +168,20 @@ Marketo Sales Connect には、連絡先の認証タイプとそのソースタ�
 >
 >一度に 1 件の取引先責任者に対してのみ実行できます。現在、取引先責任者を一括エクスポートできる機能はありません。
 
-取引先責任者情報をエクスポートするには、個人の詳細表示ヘッダーの縦並びの 3 ドットをクリックし、「**エクスポート**」をクリックします。.CSV ファイルは自動的にダウンロードされます。
+取引先責任者情報をエクスポートするには、個人の詳細表示ヘッダーの縦並びの 3 ドットをクリックし、「**[!UICONTROL エクスポート]**」をクリックします。.CSV ファイルが自動的にダウンロードされます。
 
 ![](assets/thirteen.png)
 
 >[!NOTE]
 >
->GDPR では UI から連絡先を削除する機能も必要ですが、Marketo Sales Connect には既にこの機能があります。
+>GDPR では、UI から連絡先を削除する機能も必要ですが、この機能は既に [!DNL Marketo Sales Connect] に備わっています。
 
 ## 配信停止 {#unsubscribes}
 
-GDPR の一般的に誤解される領域として、組織のデータベースから配信停止する連絡先が含まれます。配信停止を選択したユーザーのデータ保護に関する新しいルールに従うために、Marketo Sales Connect に次の機能が含まれています。
+GDPR の一般的に誤解される領域として、組織のデータベースから配信停止する取引先責任者が含まれます。購読解除を選択したユーザーのデータの保護に関する新しいルールに準拠するために、[!DNL Marketo Sales Connect] に次の機能が含まれています。
 
-**配信停止リンク：**&#x200B;配信停止リンクは、Sales Connect web アプリケーションから送信されるすべてのメールに自動的に追加され、連絡先にアクセス可能なオプトアウト方法が提供されます。\
-**配信停止の同期：**&#x200B;ユーザは、CRM（Salesforce）と配信停止を同期して、オプトアウトを最新の状態に保つことができます。\
+**登録解除リンク：** [!DNL Sales Connect] web アプリケーションから送信されるすべてのメールに登録解除リンクが自動的に追加され、連絡先に、オプトアウトするためのアクセス可能な方法が付与されます。\
+**購読解除同期：** ユーザーは、CRM （[!DNL Salesforce]）との間で購読解除を同期して、オプトアウトが最新であることを確認できます。\
 **配信停止履歴：**&#x200B;ユーザは、過去のオプトアウトおよびオプトインを個人の詳細表示で確認できます。\
 **配信停止の削除：**&#x200B;配信停止済みの取引先責任者を再度オプトインするには、ユーザが管理者権限を持っている必要があり、その取引先責任者が自身に連絡することに新たに同意したことを示す必要があります。
 

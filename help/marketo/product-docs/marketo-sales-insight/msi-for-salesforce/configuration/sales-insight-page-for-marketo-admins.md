@@ -4,41 +4,41 @@ description: Marketo 管理者向け Sales Insight ページ - Marketo ドキュ
 title: Marketo 管理者向け Sales Insight ページ
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 100%
+source-wordcount: '404'
+ht-degree: 62%
 
 ---
 
-# Marketo 管理者向け Sales Insight ページ {#sales-insight-page-for-marketo-admins}
+# Marketo管理者向けの [!DNL Sales Insight] ページ {#sales-insight-page-for-marketo-admins}
 
-Marketo 管理者には、Sales Insight に関する特定の権限があります。それらについて説明します。
+Marketo管理者は、[!DNL Sales Insight] で特定の権限を持っています。 それらについて説明します。
 
 ## SOAP API 設定 {#soap-api-configuration}
 
-Salesforce で MSI を使用するために、これらの資格情報を使用して Salesforce アカウントを Marketo インスタンスに接続します。
+これらの資格情報は、[!DNL Salesforce] で MSI を使用するために、[!DNL Salesforce] アカウントをMarketo インスタンスに接続するために使用されます。
 
 ![](assets/one-1.png)
 
 ## Rest API 設定 {#rest-api-configuration}
 
-Salesforce で MSI Insights ダッシュボードを使用するために、これらの資格情報を使用して Salesforce アカウントを Marketo インスタンスに接続します。
+これらの資格情報は、[!DNL Salesforce] の MSI Insights Dashboard を使用するために、[!DNL Salesforce] アカウントをMarketo インスタンスに接続するために使用されます。
 
 ![](assets/two-1.png)
 
 ## 人物スコア設定 {#person-score-settings}
 
-* **星**：星は、他のリードと比較した合計リードスコアを表します。
-* **炎**：炎は緊急度を表し、リードのスコアが最近どの程度変化したかを示します。
+* **[!UICONTROL 星]**：星は、他のリードと比較した合計リードスコアを表します。
+* **[!UICONTROL 炎]**：炎は緊急度を表し、リードのスコアが最近どの程度変化したかを示します。
 
-デフォルトでは、Marketo Sales Insight は「リードスコア」フィールドを使用して星と炎を計算します。別のフィールドを選択する場合は、次の方法を使用できます。
+デフォルトでは、[!DNL Marketo Sales Insight] は「リードスコア」フィールドを使用して星と炎を計算します。 別のフィールドを選択する場合は、次の方法を使用できます。
 
-1. Marketo の&#x200B;**管理者**&#x200B;領域で、「**Sales Insight**」をクリックします。
+1. Marketo の&#x200B;**[!UICONTROL 管理者]**&#x200B;領域で、「**[!UICONTROL Sales Insight]**」をクリックします。
 
    ![](assets/four.png)
 
-1. 「リードスコアリング設定」で、「**編集**」をクリックします。
+1. [!UICONTROL  リードスコアリング設定 ] で、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/five.png)
 
@@ -50,7 +50,7 @@ Salesforce で MSI Insights ダッシュボードを使用するために、こ�
 
    ![](assets/seven.png)
 
-1. 「**保存**」をクリックします。Sales Insight の再計算には時間がかかります。後で CRM をチェックして星と炎を確認できます。
+1. 「**[!UICONTROL 保存]**」をクリックします。Sales Insight の再計算には時間がかかります。後で CRM をチェックして星と炎を確認できます。
 
    ![](assets/eight.png)
 
@@ -68,20 +68,20 @@ Salesforce で MSI Insights ダッシュボードを使用するために、こ�
 
 **配信停止設定：**
 
-テンプレートなし、標準メール、オペレーショナルメールに対して、次の配信停止設定から選択できます
+[!UICONTROL  テンプレートなし ]、[!UICONTROL  標準メール ] および [!UICONTROL  運用メール ] に対して、次の購読解除設定から選択できます
 
-* 配信停止設定を優先
-* 1 人以上の受信者の場合に配信停止設定を優先
-* 受信者が 5 人以上の場合に配信停止設定を優先
-* 配信停止設定を無視
+* [!UICONTROL  購読解除設定に従う ]
+* [!UICONTROL  複数の受信者の場合は購読解除設定に従う ]
+* [!UICONTROL 5 人を超える受信者が登録した場合は購読解除の設定に従う ]
+* [!UICONTROL  購読解除設定を無視 ]
 
 **テンプレートをロックする機能を有効化：**
 
-有効にすると、Salesforce からメールを送信する際に、MSI ユーザーはテンプレートを編集できなくなります
+有効化すると、MSI ユーザーは [!DNL Salesforce] からのメールの送信中にテンプレートを編集できなくなります
 
 **RSS フィードの有効化：**
 
-有効にすると、MSI ユーザーは（Salesforce のリードフィードに加えて）RSS フィードでリードフィードを表示できます。RSS フィードは、「トークンの有効期限」機能が無効な場合にのみ機能します。
+有効化すると、MSI ユーザーは、[!DNL Salesforce] のリードフィードに加えて、RSS フィードでリードフィードを表示できます。 「[!UICONTROL  トークンの有効期限 ]」機能が無効になっている場合にのみ、RSS フィードが機能します。
 
 **トークンの有効期限：**
 

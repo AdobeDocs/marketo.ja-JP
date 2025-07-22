@@ -4,7 +4,7 @@ description: 基本レポートを配信登録する — Marketo ドキュメン
 title: 基本レポートを配信登録する
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
@@ -19,19 +19,19 @@ ht-degree: 100%
 >
 >売上高サイクルエクスプローラーのレポートの購読については、[売上高エクスプローラーレポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)を参照してください。
 
-1. 「**マーケティング活動**」エリアに移動します。
+1. 「**[!UICONTROL マーケティング活動]**」エリアに移動します。
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. ナビゲーションツリーから目的のレポートを選択し、「**購読**」タブをクリックします。
+1. ナビゲーションツリーから目的のレポートを選択し、「**[!UICONTROL 購読]**」タブをクリックします。
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >「**Analytics**」タブからレポートを購読することもできます。
+   >「**[!UICONTROL Analytics]**」タブからレポートを購読することもできます。
 
-1. 「**レポートの新規購読**」をクリックします。
+1. 「**[!UICONTROL レポートの新規購読]**」をクリックします。
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 

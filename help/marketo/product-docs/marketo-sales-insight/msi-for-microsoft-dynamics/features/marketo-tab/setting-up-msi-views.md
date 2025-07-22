@@ -3,24 +3,24 @@ description: MSI ビューの設定 - Marketo ドキュメント - 製品ドキ�
 title: MSI ビューの設定
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 100%
+source-wordcount: '248'
+ht-degree: 93%
 
 ---
 
 # MSI ビューの設定 {#setting-up-msi-views}
 
-Dynamics に Sales Insight プラグインをインストールすると、サイトマップに「最優先」と関連するダッシュボードが自動的に追加されます。何らかの理由でダッシュボードが追加されない場合に手動で追加する方法を次に示します。
+Dynamics に [!DNL Sales Insight] プラグインをインストールすると、[!DNL Best Bets] および関連ダッシュボードがサイトマップ上に自動的に追加されます。 何らかの理由でダッシュボードが追加されない場合に手動で追加する方法を次に示します。
 
-1. Dynamics で、歯車アイコンをクリックし、ドロップダウンから「**詳細設定**」をクリックします。
+1. Dynamics で、歯車アイコンをクリックし、ドロップダウンから「**[!UICONTROL 詳細設定]**」をクリックします。
 
-1. 画面の左上で、「**設定**」をクリックします。「カスタマイズ」で、「**カスタマイズ**」を選択します。
+1. 画面の左上で、「**[!UICONTROL 設定]**」をクリックします。「カスタマイズ」で、「**[!UICONTROL カスタマイズ]**」を選択します。
 
-1. 「**システムをカスタマイズ**」をクリックします。
+1. 「**[!UICONTROL システムをカスタマイズ]**」をクリックします。
 
-1. 左側のツリーで、「**クライアントエクステンション**」をクリックして「**サイトマップ**」をダブルクリックします。
+1. 左側のツリーで、「**[!UICONTROL クライアントエクステンション]**」をクリックして「**[!UICONTROL サイトマップ]**」をダブルクリックします。
 
 1. 右向き矢印をクリックして次のページに移動します。「セールス」の下に、「Marketo」が表示されます。表示されない場合は、パッケージが正しく読み込まれていることを確認してください。
 
@@ -54,4 +54,4 @@ URL：mkt_/MainViewWebActivity.html</br>
 ID：marketo_anonymous_webactivity</br>
 タイトル：匿名の Web アクティビティ
 
-1. 終了したら「**保存**」をクリックします。
+1. 終了したら「**[!UICONTROL 保存]**」をクリックします。

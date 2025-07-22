@@ -4,7 +4,7 @@ description: ハイパーリンクテキストの追加 - Marketo ドキュメ�
 title: ハイパーリンクテキストの追加
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 1. リンク先の URL を入力します(例：「https://www.mywebsite.com」)。
 
-1. 「**OK**」をクリックします。
+1. 「**[!UICONTROL OK]**」をクリックします。

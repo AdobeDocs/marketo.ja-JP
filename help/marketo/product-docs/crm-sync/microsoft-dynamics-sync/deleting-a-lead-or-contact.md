@@ -4,21 +4,21 @@ description: リードや連絡先の削除 - Marketo ドキュメント - 製�
 title: リードや連絡先の削除
 exl-id: d561b424-6a2b-4abe-b9bd-81eb23f1a25b
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 84%
+source-wordcount: '150'
+ht-degree: 36%
 
 ---
 
 # リードや連絡先の削除 {#deleting-a-lead-or-contact}
 
-Microsoft Dynamics でリード／連絡先を削除する際には、いくつかの注意点があります。
+[!DNL Microsoft Dynamics] でリード/連絡先を削除する際に知っておくべきことがいくつかあります。
 
-* Dynamics でリードが削除されたからといって、Marketo Engageによって人物が自動的に削除されるわけではありません。 代わりに、「Microsoftが削除されました」フィールドのフラグは true に設定されます。 必要に応じて、このフィールドをトリガーにして、Marketo でレコードを削除できます。
+* リードが [!DNL Dynamics] で削除されたからといって、Marketoによってユーザーが自動的に削除されるわけではありません。 代わりに、「Microsoftが削除されました」フィールドのフラグは true に設定されます。 必要に応じて、このフィールドをトリガーにして、Marketo でレコードを削除できます。
 
 * 「顧客の削除」フローアクション：これは、Marketo の人物のみを削除します（Dynamics でも削除するオプションは使用できません）。
 
-* リードが Marketo で削除され（Dynamics では削除されない）、その後、Dynamics で更新されると、Marketo で新しい人物（同じメールアドレス、新しい人物 ID）が作成されます。
+* リードがMarketoで削除され（[!DNL Dynamics] では更新されず）、その後 [!DNL Dynamics] で更新された場合、Marketoに新しいユーザー（同じメールアドレス、新しいユーザー ID）が作成されます。
 
-* リードが Dynamics で削除され（Marketo では削除されない）、その後、「担当者を Microsoft に同期」フローアクションを実行すると、Dynamics で新しいリードが作成されます。
+* [!DNL Dynamics] でリードが削除され（Marketoでは削除されない）、その後「ユーザーをMicrosoftに同期」フローアクションを実行すると、[!DNL Dynamics] で新しいリードが作成されます。

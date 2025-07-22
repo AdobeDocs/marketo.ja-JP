@@ -4,10 +4,10 @@ description: 静的リストを使用したセグメントの作成 - Marketo �
 title: 静的リストを使用したセグメントの作成
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 いずれかの Marketo [静的リスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md)にあるかないかに基づき、既知の web 訪問者をウェブサイト訪問時にセグメント化します。
 
-1. 「**セグメント**」に移動します。
+1. 「**[!UICONTROL セグメント]**」に移動します。
 
    ![](assets/1.jpg)
 
-1. 「**新規作成**」をクリックします。
+1. 「**[!UICONTROL 新規作成]**」をクリックします。
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ ht-degree: 100%
 
    ![](assets/three.png)
 
-1. 「既知のリード」で、「**静的リスト**」をキャンバスに移動します。
+1. 「既知のリード」で、「**[!UICONTROL 静的リスト]**」をキャンバスに移動します。
 
    ![](assets/four-2.png)
 
-1. ドロップダウンをクリックして、**is** または **is not**&#x200B;を選択し（必要に応じて）、静的リストの名前を入力します。
+1. ドロップダウンをクリックして、**[!UICONTROL is]** または **[!UICONTROL is not]**&#x200B;を選択し（必要に応じて）、静的リストの名前を入力します。
 
    ![](assets/five-2.png)
 
@@ -45,8 +45,8 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >And/or ドロップダウンは、それだけです。クリックして **and**、**or**、**and/or** のいずれかを選択します。
+   >And/or ドロップダウンは、それだけです。クリックして **[!UICONTROL and]**、**[!UICONTROL or]**、**[!UICONTROL and/or]** のいずれかを選択します。
 
-1. 「**保存**」をクリックしてセグメントを保存するか、「**保存してキャンペーンを設定**」をクリックして保存し、キャンペーンページに移動します。
+1. 「**[!UICONTROL 保存]**」をクリックしてセグメントを保存するか、「**[!UICONTROL 保存してキャンペーンを定義]**」をクリックして保存し、「[!UICONTROL  キャンペーン ]」ページに移動します。
 
    ![](assets/eight-1.png)

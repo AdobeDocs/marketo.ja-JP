@@ -4,20 +4,20 @@ description: Sales Connect ツールバー -  Marketo ドキュメント - 製�
 title: Sales Connect ツールバー
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 42%
 
 ---
 
-# Sales Connect ツールバー {#the-sales-connect-tool-bar}
+# [!DNL Sales Connect] ツールバー {#the-sales-connect-tool-bar}
 
-ログイン時に、Gmail ページの上部に 5 つの「Sales Connect」ボタンが追加されます。
+ログインすると、Gmail ページの上部に 5 つの [!DNL Sales Connect] ボタンが追加されます。
 
 | ボタン | 説明 |
 |---|---|
-| **ライブフィードボタン** | Sales Connect [ライブフィード](https://toutapp.com/next#live)を開き、メールのリアルタイムトラッキング情報を取得できます。 |
-| **タスクボタン** | すべてのタスクのドロップダウンが表示されます。 |
-| **「テンプレート」ボタンと「会話」ボタン** | それぞれ [Web アプリケーション](https://toutapp.com/login)のテンプレートページと会話ページを開きます。すべてが Gmail ページ内に表示されます。 |
-| **「Sales Gong」ボタン** | チームメイトと契約／勝ち取りを祝うことができます。 |
+| **[!UICONTROL ライブフィード ] ボタン** | [!DNL Sales Connect] [ ライブフィード ](https://toutapp.com/next#live) が開き、メールに関するリアルタイムのトラッキング情報を取得できます。 |
+| **[!UICONTROL タスク ] ボタン** | すべてのタスクのドロップダウンが表示されます。 |
+| **[!UICONTROL テンプレートと会話 ] ボタン** | [Web アプリケーション ](https://toutapp.com/login) の [!UICONTROL  テンプレート ] ページと [!UICONTROL  会話 ] ページをそれぞれ開きます。 すべてが Gmail ページ内に表示されます。 |
+| **[!UICONTROL Sales Gong] ボタン** | チームメイトと契約／勝ち取りを祝うことができます。 |

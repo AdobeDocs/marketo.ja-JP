@@ -3,10 +3,10 @@ description: 設定の共有 - Marketo ドキュメント - 製品ドキュメ�
 title: 設定の共有
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -20,15 +20,15 @@ Sales Insight Actions アカウントを最初に作成すると、設定の共�
 
 ## 設定の共有 {#configure-your-sharing-settings}
 
-1. [Web アプリケーションで](https://toutapp.com/login)、歯車アイコンをクリックし、「**設定**」を選択します。
+1. [Web アプリケーションで](https://toutapp.com/login)、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/sharing-settings-1.png)
 
-1. 「管理者設定」で、「**アクセス権の共有**」を選択します。
+1. [!UICONTROL  管理者設定 ] で、「**[!UICONTROL 共有アクセス]**」を選択します。
 
    ![](assets/sharing-settings-2.png)
 
-1. 「**設定の共有**」が有効になっていることを確認します。つまり、デフォルトでは、管理者のみがテンプレートカテゴリのテンプレートを共有できます。
+1. 「**[!UICONTROL 設定の共有]**」が有効になっていることを確認します。つまり、デフォルトでは、管理者のみがテンプレートカテゴリのテンプレートを共有できます。
 
    ![](assets/sharing-settings-3.png)
 
@@ -36,7 +36,7 @@ Sales Insight Actions アカウントを最初に作成すると、設定の共�
 
    ![](assets/sharing-settings-4.png)
 
-1. 「**アクセスするチームを追加**」をクリックします。
+1. 「**[!UICONTROL アクセスするチームを追加]**」をクリックします。
 
    ![](assets/sharing-settings-5.png)
 
@@ -48,7 +48,7 @@ Sales Insight Actions アカウントを最初に作成すると、設定の共�
    >
    >チームが表示されない場合は、チーム管理に移動して、ユーザのチームを作成する必要があります。
 
-1. 「**アクセスするチームを追加**」をクリックすると保存されます。
+1. 「**[!UICONTROL アクセスするチームを追加]**」をクリックすると保存されます。
 
    ![](assets/sharing-settings-7.png)
 

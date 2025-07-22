@@ -4,10 +4,10 @@ description: テンプレートを使用した web キャンペーンの作成 -
 title: テンプレートを使用した web キャンペーンの作成
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 100%
 >
 >テンプレートは、デスクトップとモバイルの両方で、すべてのデバイスとブラウジングエクスペリエンスに合わせて最適化されています。
 
-1. **Web キャンペーン**&#x200B;に移動します。
+1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. 「**Web キャンペーンを新規作成**」をクリックします。
+1. 「**[!UICONTROL Web キャンペーンを新規作成]**」をクリックします。
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -31,11 +31,11 @@ ht-degree: 100%
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. ターゲットセグメントを選択します。
+1. [!UICONTROL  ターゲットセグメント ] を選択します。
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. 「**テンプレート**」をクリックします。
+1. 「**[!UICONTROL テンプレート]**」をクリックします。
 
    ![](assets/templates.png)
 
@@ -55,7 +55,7 @@ ht-degree: 100%
 
    ![](assets/customize-template.jpg)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/click-save-hand.jpg)
 

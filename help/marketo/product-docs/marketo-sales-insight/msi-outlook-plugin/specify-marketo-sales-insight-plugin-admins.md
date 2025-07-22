@@ -1,29 +1,29 @@
 ---
 unique-page-id: 11377552
-description: Marketo Sales Insight プラグイン管理者の指定 - Marketo ドキュメント - 製品ドキュメント
-title: Marketo Sales Insight プラグイン管理者の指定
+description: Marketo[!UICONTROL  営業Insight] プラグイン管理者の指定 – Marketo ドキュメント – 製品ドキュメント
+title: Marketo[!UICONTROL Sales Insight] プラグイン管理者の指定
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 47%
 
 ---
 
-# Marketo Sales Insight プラグイン管理者の指定 {#specify-marketo-sales-insight-plugin-admins}
+# Marketo[!UICONTROL Sales Insight] プラグイン管理者の指定 {#specify-marketo-sales-insight-plugin-admins}
 
-Outlook で MSI を設定するようにユーザーを招待する際にユーザーに送信するメールの通知に表示する連絡先を指定できます。
+[!DNL Outlook] に MSI をセットアップするようユーザーを招待するときに、ユーザーに送信される電子メール通知に表示する連絡先を指定できます。
 
-1. My Marketo で、「**管理者**」をクリックし、「**Sales Insight**」をクリックします。
+1. My Marketo で、「**[!UICONTROL 管理者]**」をクリックし、「**[!UICONTROL Sales Insight]**」をクリックします。
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. 「**メールアドイン**」タブをクリックします。
+1. 「**[!UICONTROL メールアドイン]**」タブをクリックします。
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 
-1. 「**プラグイン連絡先を指定**」をクリックします。
+1. 「**[!UICONTROL プラグイン連絡先を指定]**」をクリックします。
 
    ![](assets/image2016-7-25-14-3a7-3a27.png)
 
@@ -31,7 +31,7 @@ Outlook で MSI を設定するようにユーザーを招待する際にユー�
 
    ![](assets/image2016-8-25-11-3a21-3a38.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 

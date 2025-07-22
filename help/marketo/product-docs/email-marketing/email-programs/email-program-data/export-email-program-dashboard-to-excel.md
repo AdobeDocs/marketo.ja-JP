@@ -4,7 +4,7 @@ description: メールプログラムダッシュボードを Excel に書き出
 title: メールプログラムダッシュボードを Excel に書き出す
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 メールプログラムを実行し、ダッシュボードにデータが表示されたら、その生データを Excel に書き出して、分析に役立てることができます。手順は以下のとおりです。
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 

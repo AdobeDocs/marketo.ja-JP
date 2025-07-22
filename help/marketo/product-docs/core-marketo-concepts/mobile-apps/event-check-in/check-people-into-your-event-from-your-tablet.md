@@ -4,10 +4,10 @@ description: タブレットからイベントへの人物のチェックイン 
 title: タブレットからイベントへの人物のチェックイン
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '834'
-ht-degree: 84%
+ht-degree: 81%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 84%
 
 >[!IMPORTANT]
 >
->2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Events アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo EngageインスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Events アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo Engage インスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}
 
 アプリは、[!DNL iPad] と [!DNL Android] の両方で同じように機能します。ただし、レイアウトやデザインの小さな違いを除きます。
 
@@ -113,7 +113,7 @@ Marketo データベースに存在していない人物を手動で追加でき
 
 ## チェックインの取り消し {#reverse-a-check-in}
 
-誤ってチェックインした場合は、_Marketo と同期する前_&#x200B;の場合は、「出席済み」ステータスを取り消すことができます。
+_Marketoと同期する前に_ ユーザーを誤ってチェックインした場合は、[!UICONTROL  出席 ] ステータスを元に戻すことができます。
 
 1. リスト内の名前をタップし、人物のレコードで「**[!UICONTROL 取り消し]**」をタップします。
 

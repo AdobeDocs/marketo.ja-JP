@@ -3,7 +3,7 @@ description: ID を追加 - Marketo ドキュメント - 製品ドキュメン�
 title: ID を追加
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 100%
@@ -22,19 +22,19 @@ ht-degree: 100%
 
    ![](assets/add-identity-1.png)
 
-1. 「**メール設定**」をクリックします。
+1. 「**[!UICONTROL メール設定]**」をクリックします。
 
    ![](assets/add-identity-2.png)
 
-1. 「**ID を追加**」をクリックします。
+1. 「**[!UICONTROL ID を追加]**」をクリックします。
 
    ![](assets/add-identity-3.png)
 
-1. 情報（メールと名前は必須フィールド）を入力し、「**作成**」をクリックします。
+1. 情報（メールと名前は必須フィールド）を入力し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/add-identity-4.png)
 
-1. その後、「メールアドレスを確認してください」というメールが届きます。確認するには、「**メールアドレスを確認**」をクリックします。
+1. その後、「メールアドレスを確認してください」というメールが届きます。確認するには、「**[!UICONTROL メールアドレスを確認]**」をクリックします。
 
    ![](assets/add-identity-5.png)
 

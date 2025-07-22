@@ -4,14 +4,14 @@ description: 重点顧客でのフィルタリングー - Marketo ドキュメ�
 title: 重点顧客でのフィルタリング
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
 
-# 重点顧客でのフィルタリング {#filtering-in-named-accounts}
+# [!UICONTROL  重点顧客 ] でのフィルタリング {#filtering-in-named-accounts}
 
 フィルタリングは、データをすばやく絞り込む優れた方法です。
 
@@ -25,17 +25,17 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >複数の検索パラメーターの組み合わせがあります。この例では、_業界 = 銀行業、国 = 米国、最大従業員数 = 10000_ を見つけます。
+   >複数の検索パラメーターの組み合わせがあります。この例では、_[!UICONTROL Industry] = Banking, [!UICONTROL Country] = United States, Max [!UICONTROL Employees] = 10000_ を見つけます。
 
-1. **業界**&#x200B;ドロップダウンをクリックして「**銀行業**」を選択します。
+1. **[!UICONTROL 業界]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 銀行業]**」を選択します。
 
    ![](assets/filter-2.png)
 
-1. **国**&#x200B;ドロップダウンをクリックして「**米国**」を選択します。
+1. **[!UICONTROL 国]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 米国]**」を選択します。
 
    ![](assets/filter-3.png)
 
-1. **従業員**&#x200B;の&#x200B;**最小**&#x200B;フィールドに「0」を入力し、**最大**&#x200B;フィールドでに「10000」を入力して、「**適用**」をクリックします。
+1. **[!UICONTROL 従業員]**&#x200B;の&#x200B;**最小**&#x200B;フィールドに「0」を入力し、**最大**&#x200B;フィールドでに「10000」を入力して、「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/four-2.png)
 
@@ -43,4 +43,4 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >選択するフィルターをさらに追加するには、フォーム左下の「**フィルターを追加**」をクリックします。
+   >選択するフィルターをさらに追加するには、フォーム左下の「**[!UICONTROL フィルターを追加]**」をクリックします。

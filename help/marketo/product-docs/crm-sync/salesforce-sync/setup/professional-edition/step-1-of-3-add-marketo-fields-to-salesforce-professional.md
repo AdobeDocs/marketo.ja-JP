@@ -4,34 +4,34 @@ description: 手順 1／3 - Marketo フィールドの Salesforce への追加�
 title: 手順 1／3 - Marketo フィールドの Salesforce への追加（Professional）
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '768'
-ht-degree: 93%
+source-wordcount: '756'
+ht-degree: 70%
 
 ---
 
-# 手順 1／3：Marketo フィールドの Salesforce への追加（Professional） {#step-of-add-marketo-fields-to-salesforce-professional}
+# 手順 1/3:[!DNL Salesforce] へのMarketo フィールドの追加（Professional） {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
 >
->Marketo Engageと Salesforce 間でデータを同期させるには、Salesforce インスタンスが Salesforce API にアクセスできる必要があります。
+>Marketo EngageとSalesforceの間でデータを同期するには、Salesforce インスタンスがSalesforce API にアクセスできる必要があります。
 
-Marketo は、一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。Salesforce でこのデータを使用する場合は、以下の手順に従ってください。
+Marketo は、一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。このデータを [!DNL Salesforce] に取り込む場合は、以下の手順に従ってください。
 
-1. Salesforce でリードと連絡先オブジェクトの 3 つのカスタムフィールド（スコア、獲得プログラム、獲得日）を作成します。
-1. これらのカスタムフィールドをリードと連絡先の間にマッピングし、Salesforce でのコンバージョン時に値が持ち越されるようにします。
+1. リードおよび連絡先オブジェクトに、スコア、獲得プログラム、獲得日の 3 つのカスタムフィールドを [!DNL Salesforce] に作成します。
+1. これらのカスタムフィールドをリードと連絡先の間でマッピングし、コンバージョン時に [!DNL Salesforce] の値が引き継がれるようにします。
 1. 必要に応じて、その他のフィールドを作成できます（以下の表を参照）。
 
-これらのカスタムフィールドはすべてオプションで、Marketo と Salesforce を同期するのに必須ではありません。ベストプラクティスとして、「スコア」、「獲得プログラム」、「獲得日」のフィールドを作成することをお勧めします。
+これらのカスタムフィールドはすべてオプションであり、Marketoと [!DNL Salesforce] を同期するために必要なものではありません。 ベストプラクティスとして、「スコア」、「獲得プログラム」、「獲得日」のフィールドを作成することをお勧めします。
 
-## Marketo フィールドを Salesforce に追加 {#add-marketo-fields-to-salesforce}
+## [!DNL Salesforce] へのMarketo フィールドの追加 {#add-marketo-fields-to-salesforce}
 
-上記の Salesforce 内のリードおよび連絡先オブジェクトに 3 つのカスタムフィールドを追加します。さらに追加する場合は、この節の最後にある使用可能フィールドのテーブルを参照してください。
+上記のリストのリードオブジェクトおよび連絡先オブジェクトに 3 つのカスタムフィールド [!DNL Salesforce] 追加します。 さらに追加する場合は、この節の最後にある使用可能フィールドのテーブルを参照してください。
 
 3 つのカスタムフィールドのそれぞれに対して、次の手順を実行して追加します。「**[!UICONTROL スコア]**」から始めます。
 
-1. Salesforce にログインし、「**[!UICONTROL 設定]**」をクリックします。
+1. Salesforceにログインし、「設定 **[!UICONTROL をクリックし]** す。
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
@@ -51,7 +51,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. 次の表に示すように、フィールドの「フィールドラベル」、「長さ」、「フィールド名」を入力します。
+1. 次の表に示すように、フィールドの「[!UICONTROL フィールドラベル]」、「[!UICONTROL 長さ]」、「[!UICONTROL フィールド名]」を入力します。
 
 <table> 
  <thead> 
@@ -98,7 +98,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 >[!NOTE]
 >
->Salesforce では、フィールド名を使用して API 名を作成するときに、フィールド名に __c を追加します。
+>[!DNL Salesforce] は、API 名の作成にフィールド名を使用する場合、フィールド名に__c を追加します。
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -225,11 +225,11 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 >[!NOTE]
 >
->Marketo によって自動的に割り当てられたフィールドの値は、新しいフィールドが作成されたときに Salesforce ですぐに使用できるわけではありません。Marketo は、次のアップデート時にいずれかのシステム上のレコードに対して Salesforce とデータを同期します（つまり、Marketo と Salesforce の間で同期されているフィールドのアップデート）。
+>Marketoによって自動的に割り当てられたフィールドの値は、新しいフィールドを作成したときに [!DNL Salesforce] で直ちに使用できなくなります。 Marketoは、次回いずれかのシステムのレコードに対する更新（つまり、Marketoと [!DNL Salesforce] の間で同期されるいずれかのフィールドの更新）時に [!DNL Salesforce] ータと同期します。
 
 ## コンバージョン用のカスタムフィールドのマッピング  {#map-custom-fields-for-conversions}
 
-コンバージョンが発生した際にデータが引き継がれるように、Salesforce 内のリードオブジェクトのカスタムフィールドを連絡先オブジェクトの連絡先フィールドにマッピングする必要があります。
+[!DNL Salesforce] のリードオブジェクトのカスタムフィールドは、コンバージョンが発生したときにデータが引き継がれるように、コンタクトオブジェクトのコンタクトフィールドにマッピングする必要があります。
 
 1. 右上隅にある「**[!UICONTROL 設定]**」をクリックします。
 
@@ -252,7 +252,6 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. 作成した他のフィールドに対して、上記の手順を繰り返します。
-
 1. 完了したら、「**[!UICONTROL 保存]**」をクリックします。
 
 簡単ですね。

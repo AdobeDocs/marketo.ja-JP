@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949283
-description: Marketo テンプレートを使用した Outlook からの送信とトラッキング - Marketo ドキュメント - 製品ドキュメント
-title: Marketo テンプレートを使用した Outlook からの送信とトラッキング
+description: Marketo テンプレートを使用した送信  [!DNL Outlook]  トラッキング - Marketo ドキュメント – 製品ドキュメント
+title: Marketo テンプレートを使用した  [!DNL Outlook]  からの送信とトラッキング
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 100%
+source-wordcount: '195'
+ht-degree: 85%
 
 ---
 
-# Marketo テンプレートを使用した Outlook からの送信とトラッキング {#send-and-track-from-outlook-using-a-marketo-template}
+# Marketo テンプレートを使用した [!DNL Outlook] からの送信とトラッキング {#send-and-track-from-outlook-using-a-marketo-template}
 
 マーケティングチームがテンプレートを利用できるようにしている場合、この機能を使用してメールを作成する際の時間を節約できます。
 
@@ -23,11 +23,11 @@ ht-degree: 100%
 
    ![](assets/image2014-9-23-17-3a8-3a33.png)
 
-1. 目的のテンプレートを選択し、プレビューして、「**OK**」をクリックします。
+1. 目的のテンプレートを選択し、プレビューして、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/image2014-9-23-17-3a8-3a45.png)
 
-1. 必要な編集をすべて行ってから、「**送信してトラッキング**」をクリックします。
+1. 必要な編集をすべて行ってから、「**[!UICONTROL 送信してトラッキング]**」をクリックします。
 
    ![](assets/image2014-9-23-17-3a8-3a58.png)
 
@@ -35,7 +35,7 @@ ht-degree: 100%
    >
    >アドインでは、トークンはサポートされません。テンプレートにトークンがある場合は、削除してください。
 
-1. プレビューを確認し、問題がないことを確認して、「**送信**」をクリックします。
+1. プレビューを確認し、問題がないことを確認して、「**[!UICONTROL 送信]**」をクリックします。
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 

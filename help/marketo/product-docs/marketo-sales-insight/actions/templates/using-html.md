@@ -3,7 +3,7 @@ description: HTML の使用 - Marketo ドキュメント - 製品ドキュメン
 title: HTML の使用
 exl-id: f0b40896-0c3e-401f-bc76-90bf8c4c6d76
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
    ![](assets/using-html-1.png)
 
-1. テンプレートエディターカードで、「**編集**」をクリックします。
+1. テンプレートエディターカードで、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/using-html-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 
    ![](assets/using-html-3.png)
 
-1. ソースコードを貼り付けて、「**保存**」をクリックします。
+1. ソースコードを貼り付けて、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/using-html-4.png)
 

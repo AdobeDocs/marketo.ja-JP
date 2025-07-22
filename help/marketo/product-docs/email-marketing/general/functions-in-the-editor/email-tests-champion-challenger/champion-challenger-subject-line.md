@@ -4,7 +4,7 @@ description: チャンピオン／挑戦者：件名 - Marketo ドキュメン�
 title: チャンピオン／挑戦者：件名
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 100%
@@ -19,15 +19,15 @@ ht-degree: 100%
 >
 >[メールチャンピオン／挑戦者の追加](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. メールテストエディターの&#x200B;**テストタイプ**&#x200B;ドロップダウンで「**件名**」を選択します。
+1. メールテストエディターの&#x200B;**[!UICONTROL テストタイプ]**&#x200B;ドロップダウンで「**[!UICONTROL 件名]**」を選択します。
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >件名テストでは、最初に入力した件名行が&#x200B;**チャンピオン**&#x200B;になります。後続の件名は、**挑戦者**&#x200B;と呼ばれます。
+   >件名テストでは、最初に入力した件名行が&#x200B;**[!UICONTROL チャンピオン]**&#x200B;になります。後続の件名は、**[!UICONTROL 挑戦者]**&#x200B;と呼ばれます。
 
-1. **挑戦者**&#x200B;の件名を入力します。
+1. **[!UICONTROL 挑戦者]**&#x200B;の件名を入力します。
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ ht-degree: 100%
 
    統計的な信頼性を得るには、選択する割合に、テストが有効になるのに十分な数のユーザが含まれているようにしてください。決定的でない結果に惑わされないようにします。
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

@@ -4,8 +4,8 @@ description: メールのテキストバージョンを編集する - Marketo �
 title: メールのテキストバージョンを編集する
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -19,11 +19,11 @@ ht-degree: 100%
 >
 >これは、テキストのみのメールの作成に関する記事ではありません。その点についての詳細は、「[テキストのみのメールの作成](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)」を参照してください。
 
-1. メールエディターで、メールの下部にある「**テキスト**」タブをクリックします。
+1. メールエディターで、メールの下部にある「**[!UICONTROL テキスト]**」タブをクリックします。
 
    ![](assets/one-5.png)
 
-1. 変更を加えるには「**自動的に HTML からコピー**」のチェックをオフにします。
+1. 変更を加えるには「**[!UICONTROL 自動的に HTML からコピー]**」のチェックをオフにします。
 
    ![](assets/two-5.png)
 

@@ -3,10 +3,10 @@ description: ON24 と Marketo の統合設定 - Marketo ドキュメント - 製
 title: ON24 と Marketo の統合設定
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: ht
-source-wordcount: '263'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '264'
+ht-degree: 50%
 
 ---
 
@@ -16,37 +16,37 @@ ON24 イベント統合の設定方法を以下に示します。
 
 ## API 専用ロールの作成 {#create-an-api-only-role}
 
-1. My Marketo で、「**管理者**」をクリックします。
+1. My Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-1.png)
 
-1. 「セキュリティ」で「**ユーザーと役割**」をクリックします。
+1. [!UICONTROL  セキュリティ ] の下の **[!UICONTROL ユーザーと役割]** をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-2.png)
 
-1. 「**役割**」タブをクリックしてから、「**新規の役割**」をクリックします。
+1. 「**[!UICONTROL ロール]**」タブをクリックしてから、「**[!UICONTROL 新規ロール]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. ロール名を入力します。**Access API** メニューを開き、「読み取り／書き込みカスタムオブジェクト」および「読み取り／書き込み担当者」を選択します。「**作成**」をクリックします。
+1. [!UICONTROL  役割名 ] を入力します。 **[!UICONTROL Access API]** メニューを開き、「[!UICONTROL  読み取り/書き込みカスタムオブジェクト ]」および「[!UICONTROL  読み取り/書き込みユーザー ]」を選択します。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
 ## 新規ユーザを作成 {#create-a-new-user}
 
-1. 「ユーザ＆ロール」で、「**ユーザ**」タブをクリックし、「**新規ユーザを招待**」をクリックします。
+1. [!UICONTROL  ユーザーと役割 ] のまま、「**[!UICONTROL ユーザー]** タブをクリックし、「**[!UICONTROL 新規ユーザーを招待]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
-1. 新規ユーザの情報を入力し、「**次へ**」をクリックします。
+1. 新規ユーザの情報を入力し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. 作成した ON24 API 専用ロールを選択します。「**API 専用**」チェックボックスを選択します。「**次へ**」をクリックします。
+1. 作成した [!UICONTROL ON24 API のみ役割（すべてのワークスペース） ] 選択します。 「**[!UICONTROL API 専用]**」チェックボックスを選択します。「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
-1. 「**送信**」をクリックします。
+1. 「**[!UICONTROL 送信]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-8.png)
 
@@ -56,31 +56,31 @@ ON24 イベント統合の設定方法を以下に示します。
 
 ## ON24 接続の設定 {#set-up-on24-connection}
 
-1. 「管理者」セクションで、「**LaunchPoint**」をクリックします。
+1. 「[!UICONTROL  管理者 ]」セクションで、「**[!UICONTROL LaunchPoint]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-9.png)
 
-1. 「**新規**」をクリックしてから、「**新規サービス**」をクリックします。
+1. 「**[!UICONTROL 新規]**」をクリックしてから、「**[!UICONTROL 新規サービス]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. 表示名を選択します。「**サービス**」ドロップダウンをクリックし、「**カスタム**」を選択します。説明を入力します。API 専用ユーザドロップダウンをクリックし、[上記の手順](#create-a-new-user)で作成したユーザを選択します。「**作成**」をクリックします。
+1. [!UICONTROL  表示名 ] を選択します。 「**[!UICONTROL サービス]**」ドロップダウンをクリックし、「**[!UICONTROL カスタム]**」を選択します。[!UICONTROL  説明 ] を入力します。 [!UICONTROL API のみユーザー ] ドロップダウンをクリックし、作成したユーザーを選択します [ 上記の手順で ](#create-a-new-user)。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
-1. 作成したカスタム LaunchPoint サービスを探し、「詳細を表示」をクリックします。
+1. 作成したばかりのカスタム [!DNL LaunchPoint] サービスを見つけて、「[!UICONTROL  詳細を表示 ]」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 
-1. クライアント ID をハイライト表示し、右クリックしてコピーし、保存します（後で必要になります）。クライアント秘密鍵に対して繰り返します。
+1. [!UICONTROL  クライアント ID] をハイライト表示し、右クリックしてコピーし、保存します（後で必要になります）。 [!UICONTROL  クライアント秘密鍵 ] に対して繰り返します。
 
    ![](assets/set-up-the-on24-integration-with-marketo-13.png)
 
-1. 左側のツリーで、「web サービス」をクリックします。
+1. 左側のツリーで、「**[!UICONTROL Web サービス]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-14.png)
 
-1. 「REST API」で、ID の最初の部分（.com の「m」まで）をハイライト表示、右クリック、コピーおよび保存します。
+1. 「[!UICONTROL REST API]」の下で、[!UICONTROL ID] の最初の部分（.com の「m」まで）をハイライト表示し、右クリックしてコピーして保存します。
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 

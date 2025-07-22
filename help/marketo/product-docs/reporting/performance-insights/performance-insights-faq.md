@@ -4,16 +4,16 @@ description: パフォーマンスインサイトに関する FAQ — Marketo �
 title: パフォーマンスインサイトに関する FAQ
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '1346'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
-# パフォーマンスインサイトに関する FAQ {#performance-insights-faq}
+# [!UICONTROL  パフォーマンスインサイト ]FAQ {#performance-insights-faq}
 
-## 「エンゲージメント」タブの「成功」の定義は何ですか？ {#what-is-the-definition-of-success-in-the-engagement-tab}
+## 「エンゲージメント [!UICONTROL  タブの「成功 ] の定義は何ですか？ {#what-is-the-definition-of-success-in-the-engagement-tab}
 
 成功は、Marketo での有意義なインタラクションの尺度です。プログラムの目的は、リードまたは見込み客との有意義なインタラクションを作成することです。成功は、その目標を達成したステータスに達したときにマークされます。オンラインセミナーへの参加、メールのリンククリック、web フォームの記入などです。成功は、プログラムチャネルによって異なります。
 

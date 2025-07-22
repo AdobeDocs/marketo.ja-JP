@@ -4,10 +4,10 @@ description: 階層の作成 - Marketo ドキュメント - 製品ドキュメ�
 title: 階層の作成
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 階層は CRM で作成する必要があります。ただし、CRM がない場合は、次の手順に従って階層を手動で作成します。
 
-1. 「重点顧客」で、「**階層別にグループ化**」チェックボックスをクリックします。
+1. [!UICONTROL  指定顧客 ] で、「**[!UICONTROL 階層でグループ化]**」チェックボックスをクリックします。
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,15 +27,15 @@ ht-degree: 100%
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. 「**重点顧客のアクション**」ドロップダウンをクリックし、「**重点顧客**&#x200B;へのリンク」を選択します。
+1. 「**[!UICONTROL 重点顧客のアクション]**」ドロップダウンをクリックし、「**[!UICONTROL 重点顧客]**&#x200B;へのリンク」を選択します。
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >アカウントのリンクを解除する場合は、上記の手順に従いますが、「**重点顧客からリンク解除**」を選択します。
+   >アカウントのリンクを解除する場合は、上記の手順に従いますが、「**[!UICONTROL 重点顧客からリンク解除]**」を選択します。
 
-1. ドロップダウンから「親の重点顧客」を選択し、「**リンク**」をクリックします。
+1. ドロップダウンから「親の重点顧客」を選択し、「**[!UICONTROL リンク]**」をクリックします。
 
    ![](assets/create-a-hierarchy-4.png)
 

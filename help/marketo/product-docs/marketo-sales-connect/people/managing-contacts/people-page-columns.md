@@ -4,10 +4,10 @@ description: 人物ページの列 - Marketo ドキュメント - 製品ドキ�
 title: 人物ページの列
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 100%
+source-wordcount: '296'
+ht-degree: 76%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 100%
 
 ## 列の選択方法 {#how-to-select-columns}
 
-1. 人物ページで、「リスト設定」アイコンをクリックします。
+1. [!UICONTROL  人物 ] ページで、「リスト設定」アイコンをクリックします。
 
    ![](assets/one-5.png)
 
-1. スクロールして目的の列を選択します（「**すべてを選択**」を返します）。完了したら、リスト以外の場所をクリックします。
+1. スクロールして目的の列を選択します（「**[!UICONTROL すべてを選択]**」を返します）。完了したら、リスト以外の場所をクリックします。
 
    ![](assets/two-4.png)
 
@@ -38,95 +38,95 @@ ht-degree: 100%
    <th>説明</th> 
   </tr> 
   <tr> 
-   <td>名（デフォルト）</td> 
-   <td>名</td> 
+   <td>[!UICONTROL の名（デフォルト） ]</td> 
+   <td>名前（名）</td> 
   </tr> 
   <tr> 
-   <td>姓（デフォルト）</td> 
-   <td>姓</td> 
+   <td>[!UICONTROL 姓（デフォルト） ]</td> 
+   <td>名前（姓）</td> 
   </tr> 
   <tr> 
-   <td colspan="1">電子メール（デフォルト）</td> 
+   <td colspan="1">[!UICONTROL Email （既定） ]</td> 
    <td colspan="1">メールアドレス</td> 
   </tr> 
   <tr> 
-   <td colspan="1">電話</td> 
+   <td colspan="1">[!UICONTROL 電話 ]</td> 
    <td colspan="1">電話番号</td> 
   </tr> 
   <tr> 
-   <td colspan="1">タイトル（デフォルト）</td> 
+   <td colspan="1">[!UICONTROL タイトル （既定） ]</td> 
    <td colspan="1">役職</td> 
   </tr> 
   <tr> 
-   <td>会社（デフォルト）</td> 
+   <td>[!UICONTROL 会社（デフォルト） ]</td> 
    <td>企業名</td> 
   </tr> 
   <tr> 
-   <td>キャンペーン（デフォルト）</td> 
+   <td>[!UICONTROL Campaign （デフォルト） ]</td> 
    <td>人物に対して現在実施中のセールスキャンペーン</td> 
   </tr> 
   <tr> 
-   <td># キャンペーン</td> 
+   <td># [!UICONTROL キャンペーン ]</td> 
    <td>人物が属しているセールスキャンペーンの合計数</td> 
   </tr> 
   <tr> 
-   <td>通話数</td> 
+   <td># [!UICONTROL コール ]</td> 
    <td>この人物に対して行われた通話の合計数</td> 
   </tr> 
   <tr> 
-   <td># メール</td> 
+   <td># [!UICONTROL Emails]</td> 
    <td>この人物に送信されたメールの合計数</td> 
   </tr> 
   <tr> 
-   <td>タスク期日</td> 
+   <td>[!UICONTROL タスクの期限 ]</td> 
    <td>タスクの期限</td> 
   </tr> 
   <tr> 
-   <td># イベント（デフォルト）</td> 
+   <td># [!UICONTROL イベント （既定値） ]</td> 
    <td>人物別のエンゲージメントイベントの合計数（表示数、クリック数および返信数）</td> 
   </tr> 
   <tr> 
-   <td># アクティビティ数（デフォルト）</td> 
+   <td># [!UICONTROL Activities （既定値） ]</td> 
    <td>このリードに対してユーザが行ったアクティビティの合計数（メール、通話、タスク）</td> 
   </tr> 
   <tr> 
-   <td>同意</td> 
+   <td>[!UICONTROL 同意 ]</td> 
    <td><p>正当な利益、契約の履行、法的義務の遵守、重大利益の保護、公益／職務権限等</p></td> 
   </tr> 
   <tr> 
-   <td>進行中のタスク</td> 
+   <td>[!UICONTROL オープン タスク ]</td> 
    <td>この人物のオープンタスク数</td> 
   </tr> 
   <tr> 
-   <td># ビュー数</td> 
+   <td># [!UICONTROL ビュー ]</td> 
    <td>この人物による合計閲覧数</td> 
   </tr> 
   <tr> 
-   <td># クリック数</td> 
+   <td># [!UICONTROL クリック数 ]</td> 
    <td>この人物によるクリック総数</td> 
   </tr> 
   <tr> 
-   <td># 返信数</td> 
+   <td># [!UICONTROL 返信 ]</td> 
    <td>この人物による返信の合計数</td> 
   </tr> 
   <tr> 
-   <td>最終更新日</td> 
+   <td>[!UICONTROL の最終更新日時 ]</td> 
    <td>人物レコードの最終更新日：</td> 
   </tr> 
   <tr> 
-   <td>クリエイター</td> 
+   <td>[!UICONTROL 作成者 ]</td> 
    <td>人物を作成したユーザの名前</td> 
   </tr> 
   <tr> 
-   <td>ソース</td> 
+   <td>[!UICONTROL Source]</td> 
    <td>人物が作成されたソース元</td> 
   </tr> 
   <tr> 
-   <td>グループ（デフォルト）</td> 
+   <td>[!UICONTROL グループ （既定） ]</td> 
    <td>人物が属しているグループ</td> 
   </tr> 
   <tr> 
-   <td colspan="1">配信停止済み</td> 
+   <td colspan="1">[!UICONTROL の購読解除 ]</td> 
    <td colspan="1">セールス配信停止ステータス</td> 
   </tr> 
  </tbody> 

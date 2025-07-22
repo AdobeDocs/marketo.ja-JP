@@ -4,19 +4,24 @@ description: Salesforce ID の Sales Connect へのインポート — Marketo �
 title: Salesforce ID の Sales Connect へのインポート
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 100%
+source-wordcount: '141'
+ht-degree: 17%
 
 ---
 
 # Salesforce ID の Sales Connect へのインポート {#import-a-salesforce-id-into-sales-connect}
 
-Sales Connect は、Salesforce に情報を適切に記録するのに役立つ連絡先 ID またはリード ID（Salesforce ID とも呼ばれます）を使用します。Sales Connect で連絡先に Salesforce ID を添付する方法はいくつかあります。
+[!DNL Sales Connect] では、[!DNL Salesforce] に情報を適切に記録するために、連絡先またはリード ID （[!DNL Salesforce] ID とも呼ばれます）を使用します。 [!DNL Salesforce] の連絡先に [!DNL Sales Connect] ID を添付する方法はいくつかあります。
 
-[Sales Connect にプッシュ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)：Sales Connect へのプッシュを使用すると、リード／連絡先の Salesforce ID を含むすべての主要連絡先情報を含む連絡先が Sales Connect に作成されます。
+[Sales Connect へのプッシュ ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): Sales Connect へのプッシュを使用すると、に連絡先が作成されます
+リード/連絡先を含むすべての主要連絡先情報を [!DNL Sales Connect] します。
+[!DNL Salesforce] ID。
 
-[SFDC の「Marketo セールスメールを送信」、「キャンペーンに追加」、「クリックして通話」ボタン](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)：Salesforce でこれら 3 つのボタンのいずれかを使用する場合は、連絡先を Salesforce ID で Sales Connect にプッシュします。
+[Marketo Sales Email を送信する、Campaign に追加する、SFDCで「クリックして通話」ボタンを使用する ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md)：で、これら 3 つのボタンのいずれかを使用する場合
+[!DNL Salesforce]、連絡先をにプッシュします
+と [!DNL Sales Connect]
+[!DNL Salesforce] ID。
 
-[CSV を読み込み](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)：Salesforce からリード／連絡先のリストを書き出し、Salesforce ID の列を含める場合、インポート時にこのフィールドを Sales Connect にマップできます。
+[CSV を読み込み ](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md):Salesforceからリード/連絡先のリストをエクスポートし、リード ID が [!DNL Salesforce] の列を含める場合、読み込み時にフィールドを [!DNL Sales Connect] にマッピングできます。

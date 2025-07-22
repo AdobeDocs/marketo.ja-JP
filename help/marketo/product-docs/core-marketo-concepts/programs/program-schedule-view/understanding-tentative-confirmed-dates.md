@@ -4,10 +4,10 @@ description: 暫定的／確認済みの日付の理解 - Marketo ドキュメ�
 title: 暫定的／確認済みの日付の理解
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 ## エントリの確認 {#confirming-entries}
 
-アセットの承認と同様に、エントリを確認する前に設定を完全に済ませる必要があります。準備が整ったら、「暫定的」タブを右にスライドさせることで、エントリを確認できます。
+アセットの承認と同様に、エントリを確認する前に設定を完全に済ませる必要があります。すべてのアヒルが一列に並んだら、右に [!UICONTROL  仮承諾 ] タブをスライドしてエントリを確認できます。
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 

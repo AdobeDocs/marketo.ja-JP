@@ -4,10 +4,10 @@ description: SFDC キャンペーンからの削除 - Marketo ドキュメント
 title: SFDC キャンペーンからの削除
 exl-id: d19e7847-2287-4926-b0bb-635e7700668f
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: ht
-source-wordcount: '106'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '104'
+ht-degree: 80%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Salesforce と統合されている場合にのみ使用できます。
+>[!DNL Salesforce] と統合されている場合にのみ使用できます。
 
 1. フローステップにドラッグしたら、人物またはリードを削除する Salesforce キャンペーンを探して選択します。
 
@@ -29,4 +29,4 @@ ht-degree: 100%
    >
    >人物またはリードが選択したキャンペーンのメンバーではない場合はスキップされます。
 
-これで完了です。人物またはリードがフローに進むと、選択した Salesforce キャンペーンから削除されます。
+これで完了です。ユーザーまたはリードがフロースルーすると、選択した [!DNL Salesforce] キャンペーンから削除されます。

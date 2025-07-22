@@ -4,16 +4,16 @@ description: メールインサイトの送信の概要 - Marketo ドキュメ�
 title: メールインサイトの送信の概要
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
 # メールインサイトの送信の概要 {#email-insights-sends-overview}
 
-送信ページでは、最近のメール通信の特性を調べます。
+[!UICONTROL  送信 ] ページで、最近のメール通信の特性を確認します。
 
 ![](assets/one.png)
 
@@ -25,8 +25,8 @@ ht-degree: 100%
 
 ![](assets/two-1.png)
 
-**タイプ**&#x200B;は使用されるアセットの種類を示します。**受信者**&#x200B;数は、メールを送信した人数です。**配信指標**&#x200B;では、配信されたメール、保留中のメール、バウンスしたメールの数をすばやく確認できます。\
-**エンゲージメント指標**&#x200B;を使用すると、メールを開封、クリックイン、登録解除した受信者の数を簡単に確認できます。**スコア**&#x200B;はメールの[エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)です。
+**[!UICONTROL タイプ]**&#x200B;は使用されるアセットの種類を示します。**[!UICONTROL 受信者]**&#x200B;数は、メールを送信した人数です。**[!UICONTROL 配信指標]**&#x200B;では、配信されたメール、保留中のメール、バウンスしたメールの数をすばやく確認できます。\
+**[!UICONTROL エンゲージメント指標]**&#x200B;を使用すると、メールを開封、クリックイン、登録解除した受信者の数を簡単に確認できます。**[!UICONTROL スコア]**&#x200B;はメールの[エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)です。
 
 デフォルトでは、メールは最新の指標で並べ替えられますが、使用可能な任意の指標で並べ替えることができます。
 

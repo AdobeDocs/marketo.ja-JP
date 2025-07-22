@@ -3,30 +3,30 @@ description: 通話記録の有効化 - Marketo ドキュメント - 製品ド�
 title: 通話記録の有効化
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 100%
+source-wordcount: '99'
+ht-degree: 83%
 
 ---
 
 # 通話記録の有効化 {#enable-call-recording}
 
-管理者は、Sales Insight Actions 通話の通話記録を有効にできます。チームの通話を録音することは、通話のベストプラクティスをセールス担当者に指導する優れた方法です。
+管理者は、[!DNL Sales Insight Actions] 呼び出しの通話記録を有効にすることができます。 チームの通話を録音することは、通話のベストプラクティスをセールス担当者に指導する優れた方法です。
 
-1. 「設定」アイコンをクリックし、「**設定**」を選択します。
+1. 「設定」アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/enable-call-recording-1.png)
 
-1. 「管理設定」で、「**ダイヤラー**」をクリックします。
+1. [!UICONTROL Admin Settings] の下で **[!UICONTROL Dialer]** をクリックします。
 
    ![](assets/enable-call-recording-2.png)
 
-1. 「**通話録音を有効にする**」切替スイッチを選択します。
+1. 「**[!UICONTROL 通話録音を有効にする]**」切替スイッチを選択します。
 
    ![](assets/enable-call-recording-3.png)
 
-1. セールス担当者に対し、自分で通話記録を有効または無効にする機能を提供する場合は、「**すべてのチームメンバーに対するオプションの記録**」をクリックします。すべての通話を自動的に記録する場合は、「**すべての通話を記録**」をクリックします。
+1. セールス担当者に対し、自分で通話記録を有効または無効にする機能を提供する場合は、「**[!UICONTROL すべてのチームメンバーに対するオプションの記録]**」をクリックします。すべての通話を自動的に記録する場合は、「**[!UICONTROL すべての通話を記録]**」をクリックします。
 
    ![](assets/enable-call-recording-4.png)
 

@@ -4,10 +4,10 @@ description: メールを作成する - Marketo ドキュメント - 製品ド�
 title: メールを作成する
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -17,31 +17,31 @@ Marketo でメールを作成する方法は主に 2 つあります。両方を
 
 ## Design Studio でメールを作成する {#create-an-email-in-the-design-studio}
 
-1. **Design Studio** に移動します。
+1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/create-an-email-1.png)
 
-1. **新規作成**&#x200B;ドロップダウンをクリックして、「**新規メール**」を選択します。
+1. **[!UICONTROL 新規作成]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 新規メール]**」を選択します。
 
    ![](assets/create-an-email-2.png)
 
    >[!NOTE]
    >
-   >Design Studio でメールを作成すると、「メール」の下のツリーに表示されます。
+   >[!UICONTROL Design Studio] でメールを作成すると、「[!UICONTROL  メール ]」の下のツリーに表示されます。
 
 シンプルです。もう 1 つは…
 
 ## マーケティングアクティビティでメールを作成する {#create-an-email-in-marketing-activities}
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
    ![](assets/create-an-email-3.png)
 
-1. メールを追加するプログラムを選択し、**新規**&#x200B;ドロップダウンをクリックして、「**新規ローカルアセット**」を選択します。
+1. メールを追加するプログラムを選択し、**[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 
    ![](assets/create-an-email-4.png)
 
-1. 「**メール**」をクリックします。
+1. 「**[!UICONTROL メール]**」をクリックします。
 
    ![](assets/create-an-email-5.png)
 
@@ -49,13 +49,13 @@ Marketo でメールを作成する方法は主に 2 つあります。両方を
 
 どの方法を選択しても、テンプレート選択ツールが表示されます。
 
-1. メールに名前を付け、使用するテンプレートをクリックして、「**作成**」をクリックします。
+1. メールに名前を付け、使用するテンプレートをクリックして、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >すぐに使えるレスポンシブメールテンプレートのコレクションか、まず「**マイテンプレート**」を選択し、同じ手順に従って保存したテンプレートから選択できます。
+   >すぐに使えるレスポンシブメールテンプレートのコレクションか、まず「**[!UICONTROL マイテンプレート]**」を選択し、同じ手順に従って保存したテンプレートから選択できます。
 
 1. 件名を入力します。推奨文字制限は 50 です。
 

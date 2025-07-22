@@ -3,28 +3,28 @@ description: Sales Insight 権限セットの追加 - Marketo ドキュメント
 title: Sales Insight 権限セットの追加
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 87%
+source-wordcount: '349'
+ht-degree: 70%
 
 ---
 
-# Sales Insight 権限セットの追加 {#add-sales-insight-permission-set}
+# 権限セット [!DNL Sales Insight] 追加 {#add-sales-insight-permission-set}
 
-次の手順を使用して、Salesforce の Sales Insight 機能へのアクセスを追加します。Salesforce Classic および Lightning に適用可能
+[!DNL Sales Insight] の [!DNL Salesforce] 機能へのアクセスを追加するには、次の手順を使用します。 [!DNL Salesforce] Classic および Lightning に適用可能
 
 >[!PREREQUISITES]
 >
->この機能を使用するには、[Sales Insight Salesforce パッケージをバージョン 1.8000 以降に更新 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} します。
+>この機能を使用するには、[ [!DNL Sales Insight] [!DNL Salesforce] パッケージをアップデート ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} してバージョン 1.8000 以降にアップグレードします。
 
 >[!IMPORTANT]
 >
->以前に Sales Insight にすべてのプロファイルへのアクセス権を付与したり、すべてのユーザーに Sales Insight を実装したりした場合、この権限セットを使用するには [ プロファイルレベルのアクセス権を削除 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} する必要があります。
+>以前、すべてのプロファイルに対して [!DNL Sales Insight] アクセス権を付与したり、すべてのユーザーに [!DNL Sales Insight] を実装したりした場合、この権限セットを使用するには [ プロファイルレベルのアクセス権を削除 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} する必要があります。
 
 ## 概要 {#overview}
 
-「Marketo アプリ」権限は、Sales Insight Salesforce パッケージの一部です。これには、以下に示すオブジェクト、apex クラス、visualforce ページへのアクセスが含まれます。これらは、すべての Sales Insight 機能にアクセスするために必要です。
+「Marketo アプリ」権限は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部です。 これには、以下に示すオブジェクト、apex クラス、visualforce ページへのアクセスが含まれます。これらはすべての機能にアクセスする [!DNL Sales Insight] めに必要です。
 
 **オブジェクト設定**
 
@@ -59,7 +59,7 @@ ht-degree: 87%
    <td>読み取り、作成、編集、削除、すべて表示、すべて変更</td> 
   </tr> 
   <tr> 
-   <td>Marketo Sales Insight の設定</td> 
+   <td>Marketo [!DNL Sales Insight] 設定</td> 
    <td>読み取り、作成、編集、削除、すべて表示、すべて変更</td> 
   </tr> 
   <tr> 
@@ -83,25 +83,25 @@ ht-degree: 87%
 
 ## Marketo アプリ権限セットをユーザに追加 {#adding-marketo-app-permission-set-to-users}
 
-1. Salesforce アカウントにログインします。
+1. [!DNL Salesforce] アカウントにログインします。
 
-1. 「**設定**」をクリックします。
+1. 「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
-1. 「管理者」で、「**ユーザを管理**」をクリックし、「**ユーザ**」をクリックします。
+1. 「管理者」で、「**[!UICONTROL ユーザを管理]**」をクリックし、「**[!UICONTROL ユーザ]**」をクリックします。
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
-1. 「すべてのユーザ」で、アクセス権を付与するユーザを選択し、「**権限セットの割り当て**」をクリックします。
+1. 「すべてのユーザ」で、アクセス権を付与するユーザを選択し、「**[!UICONTROL 権限セットの割り当て]**」をクリックします。
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
-1. 「**割り当てを編集**」をクリックします。
+1. 「**[!UICONTROL 割り当てを編集]**」をクリックします。
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. 使用可能な権限セットから「**Marketo アプリアクセス**」を選択し、「**追加**」を選択します。「**保存**」をクリックします。
+1. 使用可能な権限セットから「**[!UICONTROL Marketo アプリアクセス]**」を選択し、「**[!UICONTROL 追加]**」を選択します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-sales-insight-permission-set-5.png)
 
@@ -111,6 +111,6 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->Sales Insight へのアクセス権を持たないユーザには、「このタブにアクセスするのに十分な権限がありません」というメッセージが表示されます。
+>[!DNL Sales Insight] へのアクセス権を持たないユーザーには、「このタブにアクセスするための十分な権限がありません」というメッセージが表示されます。
 
-これで完了です。Sales Insight へのアクセス権が正常に追加されました。アクセスを追加する他のプロファイルに対しても同じ手順を繰り返します。
+これで完了です。[!DNL Sales Insight] アクセスが正常に追加されました。 アクセスを追加する他のプロファイルに対しても同じ手順を繰り返します。

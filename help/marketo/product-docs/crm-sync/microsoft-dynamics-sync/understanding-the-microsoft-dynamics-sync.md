@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10098625
-description: Microsoft Dynamics 同期について - Marketo ドキュメント - 製品ドキュメント
+description: ' [!DNL Microsoft Dynamics]  同期について – Marketo ドキュメント – 製品ドキュメント'
 title: Microsoft Dynamics 同期について
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 97%
+source-wordcount: '223'
+ht-degree: 43%
 
 ---
 
-# Microsoft Dynamics 同期について {#understanding-the-microsoft-dynamics-sync}
+# [!DNL Microsoft Dynamics] 同期について {#understanding-the-microsoft-dynamics-sync}
 
-Marketo EngageとMicrosoft Dynamics は連携しています。 お客様の販売データとマーケティングデータの同期を維持します。
+Marketoと [!DNL Microsoft Dynamics] は一緒だ。 お客様の販売データとマーケティングデータの同期を維持します。
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Marketo EngageとMicrosoft Dynamics は連携しています。 お客様の販�
 
 >[!CAUTION]
 >
->現在、Marketo Dynamics Sync のサンドボックス更新はサポートされていません。Dynamics CRM サンドボックスを更新する必要がある場合は、新しい Marketo サンドボックスが必要です。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>[!DNL Marketo Dynamics] 同期のサンドボックスの更新は、現在サポートされていません。 [!DNL Dynamics] CRM サンドボックスを更新する必要がある場合は、新しいMarketo サンドボックスが必要になります。 詳しくは、カスタマーサクセスマネージャーにお問い合わせください。
 
 ## 同期の仕組み {#how-sync-works}
 
-Marketo は、毎日、1 日中、Microsoft Dynamics と継続的にデータを同期します。バックグラウンド同期が使用され、リアルタイムではなくバッチで行われます。
+Marketoは、毎日、継続的に [!DNL Microsoft Dynamics] とデータを同期します。 バックグラウンド同期が使用され、リアルタイムではなくバッチで行われます。
 
 >[!NOTE]
 >
->サブスクリプションの最初の同期には、データベースのサイズに応じて、数分から数時間かかります。Marketo は、Dynamics からデータベース全体をコピーします。その後、各同期には、通常、数秒または数分かかり、変更されたデータのみが同期されます。
+>サブスクリプションの最初の同期には、データベースのサイズに応じて、数分から数時間かかります。Marketoは、[!DNL Dynamics] からデータベース全体をコピーします。 その後、各同期には、通常、数秒または数分かかり、変更されたデータのみが同期されます。
 
-Marketo と Dynamics の間の同期は、リードと連絡先が双方向です。Marketo または Dynamics で変更を加えると、更新内容が両方のシステムに反映されます。その他のすべてのフィールド（アカウントや商談など）は、Dynamics から Marketo への一方行でのみ同期されます。
+Marketoと [!DNL Dynamics] の同期は、リードと連絡先の双方向です。 Marketoまたは [!DNL Dynamics] のいずれかで変更を加えると、その変更は両方のシステムに反映されます。 アカウントやオポチュニティなどのその他のフィールドはすべて、[!DNL Dynamics] からMarketoに一方向にのみ同期されます。
 
-## Marketo と Microsoft Dynamics の間で同期されるもの {#what-is-synced-between-marketo-and-microsoft-dynamics}
+## Marketoと [!DNL Microsoft Dynamics] の間で同期されるもの {#what-is-synced-between-marketo-and-microsoft-dynamics}
 
 * [リード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-lead-sync.md)
 * [取引先責任者](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-contact-sync.md)
@@ -43,8 +43,8 @@ Marketo と Dynamics の間の同期は、リードと連絡先が双方向で�
 * [商談](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [カスタムエンティティ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-[Dynamics 用に Marketo で入力した資格情報](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)は、データの同期に使用されます。
+[Marketoに入力する資格情報  [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) は、データの同期に使用されます。
 
 >[!NOTE]
 >
->ソースインスタンスが Microsoft Dynamics と統合されている場合、インスタンスコピーはサポートされません。
+>ソースインスタンスが [!DNL Microsoft Dynamics] と統合されている場合、インスタンスのコピーはサポートされません。

@@ -4,10 +4,10 @@ description: 登録解除リンクメッセージのカスタマイズ - Marketo
 title: 配信停止リンクメッセージのカスタマイズ
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 100%
+source-wordcount: '203'
+ht-degree: 85%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Sales Connect ではサードパーティの登録解除リンクは使用できません。この情報は、アドビのデータベースに取り込まれないからです。
+>この情報はデータベースに取り込まれないため、[!DNL Sales Connect] でサードパーティの登録解除リンクを使用することはできません。
 
 ## 自分のメッセージをカスタマイズする {#customize-messaging-for-yourself}
 
-1. [web アプリケーション](https://toutapp.com/login)にログインします。右上の歯車アイコンをクリックして、「**設定**」を選択します。
+1. [web アプリケーション](https://toutapp.com/login)にログインします。右上の歯車アイコンをクリックして、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one.png)
 
-1. マイアカウントで、「**登録解除**」を選択します。
+1. [!UICONTROL  マイアカウント ] で「**[!UICONTROL 購読解除]**」を選択します。
 
    ![](assets/two-1.png)
 
@@ -41,24 +41,24 @@ ht-degree: 100%
    >
    >ハイパーリンクされている URL は関係ありません。メールが送信されると、そのハイパーリンクは登録解除リンクに変換されます。
 
-1. 「**OK**」をクリックします。
+1. 「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/five.png)
 
 ## グループの登録解除メッセージを設定する {#set-unsubscribe-messaging-for-your-team}
 
-1. [web アプリケーション](https://toutapp.com/login)にログインします。右上の歯車アイコンをクリックして、「**設定**」を選択します。
+1. [web アプリケーション](https://toutapp.com/login)にログインします。右上の歯車アイコンをクリックして、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/six.png)
 
-1. 管理設定で、「**登録解除**」を選択します。
+1. [!UICONTROL  管理者設定 ] で、「**[!UICONTROL 購読解除]**」を選択します。
 
    ![](assets/eight.png)
 
-1. メッセージをカスタマイズし、完了したら、「**保存**」をクリックします。
+1. メッセージをカスタマイズし、完了したら、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/seven.png)
 
-1. 「**グループにデフォルトのメッセージを設定する**」を選択して、すべてのユーザーにメッセージを適用します。
+1. 「**[!UICONTROL グループにデフォルトのメッセージを設定する]**」を選択して、すべてのユーザーにメッセージを適用します。
 
    ![](assets/eleven.png)

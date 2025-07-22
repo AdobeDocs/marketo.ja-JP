@@ -4,23 +4,23 @@ description: 呼び出しが Salesforce のログに記録されない — Marke
 title: 呼び出しが Salesforce のログに記録されない
 exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 12%
 
 ---
 
-# 呼び出しが Salesforce のログに記録されない {#calls-arent-logging-to-salesforce}
+# 通話が [!DNL Salesforce] に記録されない {#calls-arent-logging-to-salesforce}
 
-セールスフォンからの電話を Salesforce のログに自動的に記録する場合は、次の設定を行ってください。
+Sales Phone からの電話を自動的に [!DNL Salesforce] に記録する場合は、次の手順を実行してください。
 
-Sales Connect アカウントを [Salesforce アカウント](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)に API 接続を介して接続します。
+API 接続を使用して [!DNL Sales Connect] アカウントが [[!DNL Salesforce]  アカウント ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md) に接続されている必要があります。
 
-[web アプリケーション](https://toutapp.com/login)から発信する場合は、その連絡先に Salesforce ID を保存する必要があります。[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)して、すべての Sales Connect 連絡先に Salesforce ID が関連付けられていることを確認する方法をご覧ください。
+[Web アプリケーション ](https://toutapp.com/login) から呼び出す場合は、その連絡先に保存された [!DNL Salesforce] ID が必要です。 [ ここをクリック ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md) して、すべての [!DNL Sales Connect] 連絡先に [!DNL Salesforce] ID が関連付けられていることを確認する方法を参照してください。
 
 >[!NOTE]
 >
->Salesforce で正確で簡単にレポートを作成するには、タスクタイプの選択リストに「呼び出し」があることを確認します。
+>[!DNL Salesforce] での正確で簡単なレポートを行うために、タスクタイプの選択リストに「呼び出し」があることを確認します。
 
-これを実行すると、Salesforce のアクティビティの履歴セクションに作成されたタスクが表示されます。
+これが行われると、[!DNL Salesforce] のアクティビティ履歴セクションに作成されたタスクが表示されます。

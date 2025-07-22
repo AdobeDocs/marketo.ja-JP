@@ -4,16 +4,16 @@ description: ウェブパーソナライズのワークスペース - Marketo �
 title: ウェブパーソナライズのワークスペース
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
 
-# ウェブパーソナライズのワークスペース {#workspaces-in-web-personalization}
+# [!UICONTROL Web Personalization] のワークスペース {#workspaces-in-web-personalization}
 
-ウェブパーソナライズは、web キャンペーンと web セグメント用の複数のワークスペースをサポートします。
+[!UICONTROL Web Personalization] では、web キャンペーンおよび web セグメント用に複数のワークスペースをサポートしています。
 
 ## ワークスペースの切り替え {#switch-workspaces}
 
@@ -23,11 +23,11 @@ ht-degree: 100%
 
 ## セグメントのワークスペースの変更 {#change-a-segments-workspace}
 
-1. **セグメント**&#x200B;ページに移動して、セグメントを選択して、編集アイコンをクリックします。
+1. **[!UICONTROL セグメント]**&#x200B;ページに移動して、セグメントを選択して、編集アイコンをクリックします。
 
    ![](assets/ss4.png)
 
-1. **ワークスペース**&#x200B;ドロップダウンから別のワークスペースを選択します。
+1. **[!UICONTROL ワークスペース]**&#x200B;ドロップダウンから別のワークスペースを選択します。
 
    ![](assets/ss6.png)
 

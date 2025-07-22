@@ -4,8 +4,8 @@ description: フリーフォームランディングページへのカスタム 
 title: フリーフォームランディングページへのカスタム HTML の追加
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 >
 >Marketo Engage サポートは、カスタム HTML のトラブルシューティングについては対応できません。 HTML のサポートについては、web 開発者にご相談ください。
 
-1. ランディングページを選択し、「**ドラフトを編集**」をクリックします。
+1. ランディングページを選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. カスタム HTML コードを入力し、「**保存**」をクリックします。
+1. カスタム HTML コードを入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 

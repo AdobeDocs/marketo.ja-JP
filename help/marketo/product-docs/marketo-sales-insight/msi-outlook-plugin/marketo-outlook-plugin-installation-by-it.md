@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382815
-description: IT による Marketo Outlook プラグインのインストール - Marketo ドキュメント - 製品ドキュメント
-title: IT による Marketo Outlook プラグインのインストール
+description: IT によるMarketo [!DNL Outlook]  プラグインのインストール - Marketo ドキュメント – 製品ドキュメント
+title: IT によるMarketo [!DNL Outlook]  プラグインのインストール
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 100%
+source-wordcount: '168'
+ht-degree: 85%
 
 ---
 
-# IT による Marketo Outlook プラグインのインストール {#marketo-outlook-plugin-installation-by-it}
+# IT によるMarketo [!DNL Outlook] プラグインのインストール {#marketo-outlook-plugin-installation-by-it}
 
 企業のポリシーにより、IT チームが従業員のコンピューターにすべてのソフトウェアをインストールすることが要求される場合があります。このような場合、IT 部門はしばしば独自の導入ソフトウェアを使用してリモートでこれを実行します。このドキュメントでは、Outlook プラグインをリモートでインストールするためのデプロイメントプロセスで入力として使用するコマンドラインを提供します。
 
@@ -57,4 +57,4 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->[IT による Marketo Outlook プラグインのアンインストール](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[IT によるMarketo [!DNL Outlook]  プラグインのアンインストール ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)

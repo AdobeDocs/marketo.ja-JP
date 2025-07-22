@@ -3,10 +3,10 @@ description: リマインダータスクの作成と割り当て - Marketo ド�
 title: リマインダータスクの作成と割り当て
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 100%
 
 リマインダータスクは、顧客や見込み客のエンゲージメントに最適な方法です。タスクを作成するには、次の手順に従います。
 
-1. **コマンドセンター**&#x200B;をクリックします。
+1. **[!UICONTROL コマンドセンター]**&#x200B;をクリックします。
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. デフォルトでタスクが開きます。「**タスクを追加**」をクリックします。
+1. デフォルトでタスクが開きます。「**[!UICONTROL タスクを追加]**」をクリックします。
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
-1. タスクタイプを、メール、電話、InMail、カスタムタスクから選択します。
+1. 「[!UICONTROL  メール ]」、「[!UICONTROL  通話 ]」、「[!UICONTROL  メール内 ]」または「[!UICONTROL  カスタム ] タスクからタスクタイプを選択します。
 
    ![](assets/create-and-assign-reminder-tasks-3.png)
 
@@ -46,6 +46,6 @@ ht-degree: 100%
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 通話メモ、InMail メッセージテンプレート、ユーザに関するメモなど、タスクの完了時に利用できるタスクの詳細を追加します。完了したら「**作成**」をクリックします。
+1. 通話メモ、InMail メッセージテンプレート、ユーザに関するメモなど、タスクの完了時に利用できるタスクの詳細を追加します。完了したら「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

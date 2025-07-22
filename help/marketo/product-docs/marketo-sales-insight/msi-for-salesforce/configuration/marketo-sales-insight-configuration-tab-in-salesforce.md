@@ -4,18 +4,18 @@ description: Salesforce の Marketo Sales Insight 設定タブ - Marketo ドキ�
 title: Salesforce の Marketo Sales Insight 設定タブ
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 78%
+source-wordcount: '615'
+ht-degree: 75%
 
 ---
 
-# Salesforce の Marketo Sales Insight 設定タブ {#marketo-sales-insight-configuration-tab-in-salesforce}
+# [!DNL Marketo Sales Insight] の「[!DNL Salesforce] 設定」タブ {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## 操作上の設定 {#operational-settings}
 
-SFDC で Sales Insight を使用するには、この設定が必要です。
+SFDCで [!DNL Sales Insight] の使用を開始するには、これを設定する必要があります。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 

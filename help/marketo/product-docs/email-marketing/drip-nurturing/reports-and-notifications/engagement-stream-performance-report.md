@@ -4,10 +4,10 @@ description: エンゲージメントストリームの効果レポート - Mark
 title: エンゲージメントストリームの効果レポート
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 100%
 
 ## レポートの作成 {#create-the-report}
 
-1. エンゲージメントプログラムを検索して選択し、「**新規**」の下で「**新規ローカルアセット**」をクリックします。
+1. エンゲージメントプログラムを検索して選択し、「**[!UICONTROL 新規]**」の下で「**[!UICONTROL 新規ローカルアセット]**」をクリックします。
 
    ![](assets/localassetnutring.jpg)
 
-1. 「**レポート**」を選択します。
+1. 「**[!UICONTROL レポート]**」を選択します。
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -29,10 +29,10 @@ ht-degree: 100%
    >
    >プログラムの下にレポートを作成すると、そのレポートはプログラムの内容に自動的に制限されます。
 
-   「レポートタイプ」として「エンゲージメントストリーム効果」を選択します。
+   **[!UICONTROL エンゲージメントストリームパフォーマンス]** をレポート **[!UICONTROL タイプ]** として選択します。
    ![](assets/engagementreportchoose.png)
 
-1. レポートに名前を付け、「**作成**」をクリックします。
+1. レポートに名前を付け、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,17 +44,17 @@ ht-degree: 100%
 
    ![](assets/engagementperformancereport.jpg)
 
-1. 「**設定**」タブで、**エンゲージメントプログラムメール**&#x200B;フィルターをダブルクリックします。
+1. 「**[!UICONTROL 設定]**」タブで、「**[!UICONTROL エンゲージメントプログラムのメール]** フィルターをダブルクリックします。
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. レポート対象のメールを選択し、「**適用**」をクリックします。
+1. レポート対象のメールを選択し、「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/engagementfilter.jpg)
 
 ## レポートを実行する {#run-report}
 
-1. レポートを実行するには、「**レポート**」タブをクリックします。
+1. レポートを実行するには、「**[!UICONTROL レポート]**」タブをクリックします。
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 

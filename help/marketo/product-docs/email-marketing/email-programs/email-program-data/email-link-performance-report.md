@@ -4,10 +4,10 @@ description: メールリンク効果レポート - Marketo ドキュメント -
 title: メールリンク効果レポート
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 100%
+source-wordcount: '239'
+ht-degree: 94%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 100%
 
 メールリンク効果レポートを作成して、メール内のリンクの効果を確認します。
 
-1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**メールリンク効果**&#x200B;レポートタイプを選択します。
+1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL メールリンク効果]**&#x200B;レポートタイプを選択します。
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. 「**設定**」をクリックします。
+1. 「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. 「**設定**」の下で「.**アクティビティの日付**」をダブルクリックします。
+1. 「**[!UICONTROL 設定]**」の下で「.**[!UICONTROL アクティビティの日付]**」をダブルクリックします。
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. レポート期間を設定します。「**保存**」をクリックします。
+1. レポート期間を設定します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. 「**レポート**」をクリックします。
+1. 「**[!UICONTROL レポート]**」をクリックします。
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -44,29 +44,29 @@ ht-degree: 100%
 <table> 
  <thead> 
   <tr> 
-   <th colspan="1" rowspan="1">列</th> 
+   <th colspan="1" rowspan="1">[!UICONTROL 列 ]</th> 
    <th colspan="1" rowspan="1">説明</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">リンク</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL リンク ]</td> 
    <td colspan="1" rowspan="1">メール名でグループ化。<br>プラス（+）をクリックすると、そのメールに含まれているすべてのリンクが表示されます。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">クリック</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL クリック数 ]</td> 
    <td colspan="1" rowspan="1">そのリンクがクリックされた回数。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% クリック</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL クリック数 ]</td> 
    <td colspan="1" rowspan="1">そのメール内のすべてのリンクでの合計クリック数のうち、このリンクに対する割合。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">リード</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL のユーザー ]</td> 
    <td colspan="1" rowspan="1">リンクをクリックしたユニークユーザ数。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% リード</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL ユーザー ]</td> 
    <td colspan="1" rowspan="1">メール内のリンクをクリックした合計ユニークユーザ数のうち、このリンクに対する割合。</td> 
   </tr> 
  </tbody> 

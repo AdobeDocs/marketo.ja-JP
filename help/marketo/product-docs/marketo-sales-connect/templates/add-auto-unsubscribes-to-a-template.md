@@ -4,16 +4,16 @@ description: 自動登録解除のテンプレートへの追加 - Marketo ド�
 title: 自動登録解除のテンプレートへの追加
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
 # 自動登録解除のテンプレートへの追加 {#add-auto-unsubscribes-to-a-template}
 
-1. テンプレートを選択し、「登録解除」セクションの「**編集**」をクリックします。
+1. テンプレートを選択し、「**[!UICONTROL 登録解除]** セクションの [!UICONTROL  編集 ] をクリックします。
 
 1. 自動登録解除、自動ブロック登録解除、またはその両方を追加するかどうかを選択します。
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->また、**設定**&#x200B;の「**タイムゾーンと登録解除**」タブで、これらの登録解除メッセージの表示方法を調整することもできます。
+>また、**[!UICONTROL 設定]**&#x200B;の「**[!UICONTROL タイムゾーンと登録解除]**」タブで、これらの登録解除メッセージの表示方法を調整することもできます。

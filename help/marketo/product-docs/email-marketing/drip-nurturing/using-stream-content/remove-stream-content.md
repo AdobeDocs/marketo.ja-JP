@@ -4,7 +4,7 @@ description: ストリームコンテンツの削除 - Marketo ドキュメン�
 title: ストリームコンテンツの削除
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
@@ -15,15 +15,15 @@ ht-degree: 100%
 
 コンテンツの一部を削除またはアーカイブできます。ストリームコンテンツの削除とは異なり、[アーカイブ](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)では、コンテンツに関連付けられたすべての履歴を保持します。一部のコンテンツの過去の統計を失ってもかまわず、削除したい場合は、次にその方法を示します。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. エンゲージメントプログラムを選択し、「**ストリーム**」タブをクリックします。
+1. エンゲージメントプログラムを選択し、「**[!UICONTROL ストリーム]**」タブをクリックします。
 
    ![](assets/cloneasteam-3.jpg)
 
-1. 削除するコンテンツにマウスポインタを合わせ、歯車アイコンが表示されたらクリックし、「**削除**」をクリックします。
+1. 削除するコンテンツにマウスポインタを合わせ、歯車アイコンが表示されたらクリックし、「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a38-3a15.png)
 

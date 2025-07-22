@@ -4,7 +4,7 @@ description: テンプレートエンゲージメント — Marketo ドキュメ
 title: テンプレートエンゲージメント
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 100%
@@ -15,9 +15,9 @@ ht-degree: 100%
 
 以下の手順に従って、テンプレートのエンゲージメントを表示します。
 
-1. **分析**&#x200B;ページに移動します。
+1. **[!UICONTROL 分析]**&#x200B;ページに移動します。
 
-1. 「**コンテンツ**」ボタンをクリックし、目的の日付範囲でフィルターします。
+1. 「**[!UICONTROL コンテンツ]**」ボタンをクリックし、目的の日付範囲でフィルターします。
 
 1. 選択した日付範囲に基づいて、ページの上部に、チーム全体で使用されているメールとテンプレートの合計数が表示されます。
 

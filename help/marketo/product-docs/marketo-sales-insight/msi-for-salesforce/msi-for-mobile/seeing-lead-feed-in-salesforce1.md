@@ -4,18 +4,18 @@ description: Salesforce1 でのリードフィードの表示 - Marketo ドキ�
 title: Salesforce1 でのリードフィードの表示
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 68%
 
 ---
 
-# Salesforce1 でのリードフィードの表示 {#seeing-lead-feed-in-salesforce}
+# [!DNL Salesforce1] でのリードフィードの表示 {#seeing-lead-feed-in-salesforce}
 
 リードフィードは、リードが行った注目のイベントに関する最新リストです。
 
-1. Salesforce1 の **Marketo** エリアに移動します。
+1. **の** Marketo[!DNL Salesforce1] エリアに移動します。
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
    ![](assets/image2015-4-23-17-3a7-3a16.png)
 
-1. 「**リードフィード**」をタップします。
+1. 「**[!UICONTROL リードフィード]**」をタップします。
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
@@ -33,6 +33,6 @@ ht-degree: 100%
 
 >[!MORELIKETHIS]
 >
->* [Salesforce1 での注目のアクション](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
->* [Salesforce1 での最有望見込客](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
+>* [ 注目のアクション  [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Marketoのメール送信、Campaign および監視リストのアクション  [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [[!DNL Best Bets] in [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

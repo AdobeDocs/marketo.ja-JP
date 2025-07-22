@@ -4,10 +4,10 @@ description: API 専用ユーザーの作成 - Marketo ドキュメント - 製�
 title: API 専用ユーザーの作成
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >理由（オプション）またはアクセスの有効期限を追加します。短期の従業員には、アクセスの有効期限が便利です。
+   >オプションの [!UICONTROL  理由 ] または [!UICONTROL  アクセスの有効期限 ] を追加します。 短期の従業員には、アクセスの有効期限が便利です。
 
 1. 「**[!UICONTROL API のみ]**」のロールを選択し、「**[!UICONTROL API のみ]**」チェックボックスをオンにします。「**[!UICONTROL 次へ]**」をクリックします。
 

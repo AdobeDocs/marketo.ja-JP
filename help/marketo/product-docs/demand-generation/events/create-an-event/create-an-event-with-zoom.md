@@ -1,27 +1,27 @@
 ---
 unique-page-id: 17728023
-description: Zoom を使用したイベントの作成 - Marketo ドキュメント - 製品ドキュメント
-title: Zoom を使用したイベントの作成
+description: イベントの作成  [!DNL Zoom] - Marketo ドキュメント – 製品ドキュメント
+title: ' [!DNL Zoom] を使用したイベントの作成'
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
-workflow-type: ht
-source-wordcount: '565'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '549'
+ht-degree: 65%
 
 ---
 
-# Zoom を使用したイベントの作成 {#create-an-event-with-zoom}
+# [!DNL Zoom] を使用したイベントの作成 {#create-an-event-with-zoom}
 
 >[!PREREQUISITES]
 >
->* [Zoom を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
+>* [Add [!DNL Zoom] as [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
 
-まず、Zoom でウェビナーを作成します。Zoom の作成機能の設定には、Marketo で使用されるものと、Zoom でのみ使用されるものがあります。
+まず、[!DNL Zoom] でウェビナーを作成します。 [!DNL Zoom] の作成に関する特定の設定はMarketoで使用され、その他の設定は [!DNL Zoom] でのみ使用されます。
 
-Marketo イベントプログラムを作成して Zoom ウェビナーを関連付けると、システムは登録情報と出席情報を共有できるようになります。ウェビナーの作成については、[ウェビナーの基本操作](https://support.zoom.us/hc/ja/articles/200917029-Getting-Started-With-Webinar)を参照してください。
+Marketo イベントを作成し、それに [!DNL Zoom] ウェビナーを関連付けると、システムで登録と出席の情報を共有できるようになります。 ウェビナーの作成のヘルプについては、[ ウェビナーの概要  [!DNL Zoom]  を参照してください ](https://support.zoom.us/hc/ja/articles/200917029-Getting-Started-With-Webinar)。
 
 ウェビナーに関する次の情報を入力すると、アダプターを介して Marketo に取り込まれます。この情報に変更を加えた場合、Marketo で変更を表示するには、イベントアクションで「ウェビナープロバイダーから更新」リンクをクリックする必要があります。
 
@@ -33,7 +33,7 @@ Marketo イベントプログラムを作成して Zoom ウェビナーを関連
 
 **日時**
 
-* **開催日** – 開催日を入力します。Marketo で表示されます。
+* **開始日** – 開始日を入力します。Marketo で表示されます。
 
 * **開始時間** - 開始時間を入力します。Marketo で表示されます。
 
@@ -43,21 +43,21 @@ Marketo イベントプログラムを作成して Zoom ウェビナーを関連
 
 * **定期ミーティング** – チェックは外したままにします。
 
-* **登録** – このボックスにチェックを入れて、登録を必須にします。Marketo のフォーム／ランディングページを使用して、Zoom にプッシュされる登録情報を取り込みます。
+* **登録** – このボックスにチェックを入れて、登録を必須にします。Marketoのフォームまたはランディングページを使用して、[!DNL Zoom] にプッシュする登録情報をキャプチャします。
 
 >[!NOTE]
 >
->Marketo は現在、定期的なウェビナーをサポートしていません。各 Marketo イベントと Zoom ウェビナーの間に 1 つのセッションを設定する必要があります。
+>Marketo は現在、定期的なウェビナーをサポートしていません。各Marketo イベントとウェビナーの間に 1 つのセッションを設定する必要 [!DNL Zoom] あります。
 
 ![](assets/overview2.png)
 
 >[!TIP]
 >
->Zoom には、連携に影響を与えないように設定するフィールドが追加されています。これらのフィールドの詳細については、[Zoom ウェビナーヘルプセンター](https://support.zoom.us/hc/ja/sections/200324965-Video-Webinar)を参照してください。
+>[!DNL Zoom] で設定する追加のフィールドがあり、統合には影響しません。 これらのフィールドについて詳しくは、[[!DNL Zoom]  ウェビナーヘルプセンター ](https://support.zoom.us/hc/ja/sections/200324965-Video-Webinar) を参照してください。
 
 それでは、Marketo に移動しましょう。
 
-1. イベントを選択します。「**イベントアクション**」から、「**イベント設定**」を選択します。
+1. イベントを選択します。「**[!UICONTROL イベントアクション]**」から、「**[!UICONTROL イベント設定]**」を選択します。
 
    ![](assets/image2015-5-14-14-3a53-3a10-1.png)
 
@@ -65,11 +65,11 @@ Marketo イベントプログラムを作成して Zoom ウェビナーを関連
    >
    >選択したイベントプログラムのチャネルは&#x200B;**ウェビナー**&#x200B;である必要があります。
 
-1. **イベント****パートナー**&#x200B;一覧から「**Zoom**」を選択します。
+1. **[!UICONTROL イベントパートナー]** リストから **[!UICONTROL ズーム]** を選択します。
 
    ![](assets/eventsettings1.png)
 
-1. イベントを関連付ける Zoom アカウントを選択します。
+1. イベントを関連付ける [!DNL Zoom] アカウントを選択します。
 
    ![](assets/selectaccount.png)
 
@@ -77,11 +77,11 @@ Marketo イベントプログラムを作成して Zoom ウェビナーを関連
 
    ![](assets/selectevent.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/eventsettingssave.png)
 
-   これで完了です。イベントは Zoom と同期されました。
+   これで完了です。これで、イベントが同期され、[!DNL Zoom] によってスケジュールされました。
 
    >[!NOTE]
    >
@@ -93,7 +93,7 @@ Marketo イベントプログラムを作成して Zoom ウェビナーを関連
    >
    >配信停止やマーケティング中断したリードにも届くように、確認メールは&#x200B;**オペレーショナル**&#x200B;メールに設定してください。
 
-   ウェビナーに新規登録したリードは、新規ステータスが「登録」に設定されたときに、**プログラムステータスを変更**&#x200B;フローステップによってウェビナープロバイダー（Zoom）にプッシュされます。その他のステータスではプッシュされません。また、**プログラムステータスを変更**&#x200B;フローステップ #1 と&#x200B;**メールを送信**&#x200B;フローステップ #2 を必ず設定してください。
+   ウェビナーに登録したユーザーは、**[!UICONTROL 新しいステータス]** が「登録済み」に設定されている [!UICONTROL  プログラムステータスの変更 ] フローステップを通じてウェビナープロバイダーにプッシュされます。 その他のステータスではプッシュされません。また、**[!UICONTROL プログラムステータスを変更]**&#x200B;フローステップ #1 と&#x200B;**[!UICONTROL メールを送信]**&#x200B;フローステップ #2 を必ず設定してください。
 
    ![](assets/goto-webinar-1.png)
 

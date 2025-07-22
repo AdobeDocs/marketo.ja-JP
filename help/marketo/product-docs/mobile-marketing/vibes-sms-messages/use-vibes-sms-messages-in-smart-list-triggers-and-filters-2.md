@@ -4,7 +4,7 @@ title: スマートリストトリガーとフィルターでの Vibes SMS メ�
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 46%
@@ -15,7 +15,7 @@ ht-degree: 46%
 
 [Vibes SMS メッセージを作成 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"} した後は、スマートキャンペーン内でスマートリストのトリガーとフィルターを使用して、メリットを享受できます。 手順は以下のとおりです。
 
-1. My Marketo で、**マーケティング活動**&#x200B;をクリックします。
+1. My Marketo で、**[!UICONTROL マーケティング活動]**&#x200B;をクリックします。
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
@@ -46,17 +46,17 @@ SMS メッセージの送信：
 
 ![](assets/sms-message-bounces-real.jpg)
 
-**Vibes リストの購読**&#x200B;トリガーは、ユーザーが購読するとフローを開始します。
+**[!UICONTROL Vibes リストの購読]**&#x200B;トリガーは、ユーザーが購読するとフローを開始します。
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-**SMS メッセージ内のリンクをクリック**&#x200B;トリガーは、ユーザーが SMS メッセージ内のリンクをクリックすると、フローを開始します。
+**[!UICONTROL SMS メッセージ内のリンクをクリック]**&#x200B;トリガーは、ユーザーが SMS メッセージ内のリンクをクリックすると、フローを開始します。
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## SMS フィルター {#sms-filters}
 
-また、スマートリストで Vibes フィルターを使用することもできます。**Vibes リストに購読済み**&#x200B;フィルターは、*一度でも* Vibes を購読していたことのあるすべての人を検索します。削除されたリードがフローから除外されても、登録解除済みのリードと削除済みのリードの両方が含まれます。このフィルターは、レポートに最適です。
+また、スマートリストで Vibes フィルターを使用することもできます。**[!UICONTROL Vibes リストに購読済み]**&#x200B;フィルターは、*一度でも* Vibes を購読していたことのあるすべての人を検索します。削除されたリードがフローから除外されても、登録解除済みのリードと削除済みのリードの両方が含まれます。このフィルターは、レポートに最適です。
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
@@ -66,7 +66,7 @@ SMS メッセージの送信：
 
 >[!NOTE]
 >
->すべての SMS フィルターには、**アクティビティの日付**&#x200B;制約がデフォルトで設定されています。
+>すべての SMS フィルターには、**[!UICONTROL アクティビティの日付]**&#x200B;制約がデフォルトで設定されています。
 
 スマートリストで Vibes のトリガーとフィルターを設定した後は、[フローを定義](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md)できます。
 

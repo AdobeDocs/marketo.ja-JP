@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17728028
-description: " [!DNL Zoom]  を  [!DNL LaunchPoint]  サービスとして追加 - Marketo ドキュメント - 製品ドキュメント"
-title: " [!DNL Zoom]  を  [!DNL LaunchPoint]  サービスとして追加"
+description: サ  [!DNL Zoom]  ビスとして追加  [!DNL LaunchPoint]  Marketo ドキュメント – 製品ドキュメント
+title: サ  [!DNL Zoom]  ビスとして  [!DNL LaunchPoint]  追加
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 100%
+source-wordcount: '129'
+ht-degree: 90%
 
 ---
 
@@ -55,7 +55,7 @@ Marketo は、[!DNL Zoom] の登録と出席を管理します。
 
 >[!CAUTION]
 >
->Zoom でパスワードを更新する場合は、Marketo でもパスワードを更新する必要があります。
+>[!DNL Zoom] でパスワードを更新する場合は、Marketo でもパスワードを更新する必要があります。
 
 >[!MORELIKETHIS]
 >

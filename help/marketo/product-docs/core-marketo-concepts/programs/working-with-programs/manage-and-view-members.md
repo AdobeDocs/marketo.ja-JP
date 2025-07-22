@@ -4,10 +4,10 @@ description: メンバーの管理および表示 - Marketo ドキュメント -
 title: メンバーの管理および表示
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 100%
+source-wordcount: '250'
+ht-degree: 94%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 ## メンバーグリッドのエクスポート {#export-the-members-grid}
 
-検索フィールドの横の Excel アイコンをクリックすると、プログラムのメンバーリストをエクスポートできます。
+検索フィールドの横にある [!DNL Excel] アイコンをクリックして、メンバーリストを書き出すことができます。
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 

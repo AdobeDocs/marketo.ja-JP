@@ -4,10 +4,10 @@ description: プログラムの成功を変更 - Marketo ドキュメント - �
 title: プログラムの成功の変更
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >成功日に日付を設定すると、成功は自動的に「true」に設定されます。成功が「true」に設定されると、成功日は自動で現在の日付に設定されます。
+   >[!UICONTROL  成功日 ] を任意の値に設定すると、成功は自動的に true に設定されます。 [!UICONTROL Success] を true に設定すると、成功日が現在の日付に自動的に設定されます。
 
 1. 「**[!UICONTROL 新しい値]**」を **[!UICONTROL true]** か **[!UICONTROL false]** に設定します。
 

@@ -3,16 +3,16 @@ description: Sales Insight Actions での注目のアクション - Marketo ド�
 title: Sales Insight Actions での注目のアクション
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 100%
+source-wordcount: '235'
+ht-degree: 81%
 
 ---
 
-# Sales Insight Actions での注目のアクション {#interesting-moments-in-sales-insight-actions}
+# 注目のアクション（[!DNL Sales Insight Actions]） {#interesting-moments-in-sales-insight-actions}
 
-注目のアクションは、Marketo Sales Insight Actions を通じてセールスチームとコミュニケーションを取るための鍵となります。
+興味深い瞬間は、[!DNL Marketo Sales Insight Actions] を通じてセールスチームとコミュニケーションを取るための鍵です。
 
 ## 注目のアクションとは何でしょうか。 {#what-is-an-interesting-moment}
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. **注目のアクション**&#x200B;フローステップをドラッグします。
+1. **[!UICONTROL 注目のアクション]**&#x200B;フローステップをドラッグします。
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. このアクションが重要である理由として、セールスチームへのメッセージを「**説明**」フィールドに記入します。
+1. このアクションが重要である理由として、セールスチームへのメッセージを「**[!UICONTROL 説明]**」フィールドに記入します。
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
@@ -50,8 +50,8 @@ ht-degree: 100%
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 
-## 注目のアクションは、Sales Insight Actions でどのように表示されるか {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+## [!DNL Sales Insight Actions] で興味深い瞬間は何に見えますか？ {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。Salesforce のリード所有者 ID を利用して、ユーザが所有する関連リードの注目のアクションを表示します。リード名の横にあるドロップダウンをクリックすると、電子メール、電話、販売キャンペーンでリードを素早くフォローアップできます。
+注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。リードの所有者 ID を使用して、関連するリードの中で自分が所有者であ [!DNL Salesforce] ユーザーの興味深い瞬間を表示します。 リード名の横にあるドロップダウンをクリックすると、電子メール、電話、販売キャンペーンでリードを素早くフォローアップできます。
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)

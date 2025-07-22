@@ -4,10 +4,10 @@ description: ランディングページの効果レポート - Marketo ドキ�
 title: ランディングページ効果レポート
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 100%
 >
 >スマートリストとランディングページの効果レポートの数値に不一致がある場合は、スマートリストでは人物に関するデータのみがフィルタリングされるのに対し、ランディングページの効果レポートには人物データに加えて、ソーシャルメディア（Facebook、Google 広告など）や匿名アクティビティが含まれることが原因である可能性があります。
 
-1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、ランディングページ効果[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
-1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「レポート」タブをクリックします。
+1. [ レポートを作成 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) し、[!UICONTROL  ランディングページのパフォーマンス ] [ レポートタイプ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) を選択します。
+1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「[!UICONTROL レポート]」タブをクリックします。
 1. これで完了です。レポートを参照して、ランディングページの効果を評価します。
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)

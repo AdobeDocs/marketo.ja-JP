@@ -4,10 +4,10 @@ description: 非ラテン文字リストの読み込み — Marketo ドキュメ
 title: 非ラテン文字リストの読み込み
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 100%
+source-wordcount: '308'
+ht-degree: 85%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 100%
 
 これは、ファイルが Marketo で正しく保存されず、非ラテン文字が認識されないためです。幸い、これは簡単な手順を実行して修正できます。
 
-1. Excel の&#x200B;**ファイル**&#x200B;メニューから「**名前を付けて保存**」を選択します。
+1. Excel の **[!UICONTROL ファイル ] メニューから「** 名前を付けて保存 **[!UICONTROL ...]**」を選択します。
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. 「**形式**」オプションとして「**UTF-16 Unicode テキスト（.txt）**」を選択します。これにより、Marketo で表示できるようにファイルがエンコードされます。
+1. 「**[!UICONTROL 形式]**」オプションとして「**[!UICONTROL UTF-16 Unicode テキスト（.txt）]**」を選択します。これにより、Marketo で表示できるようにファイルがエンコードされます。
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >テキストファイルを開くには、**メモ帳**（Windows）または **TextEdit**（Mac）を使用します。
+   >Windows を使用している場合は **[!DNL Notepad]** を使用し、Macを使用している場合は **[!DNL TextEdit]** を使用して、テキストファイルを開くことができます。
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ ht-degree: 100%
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. **編集**&#x200B;メニューから「**検索と置換…**」を選択します。
+1. **[!UICONTROL 編集 ] メニューから「** 検索と置換 **[!UICONTROL ...]**」を選択します。
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >Windows ユーザーでの同等の操作は&#x200B;**編集／置換…**&#x200B;です。
+   >Windows ユーザーに対する同等のアクションは、**[!UICONTROL 編集 ]/[!UICONTROL  置換 ]...** です。
 
-1. 手順 4 でコピーしたタブを最初の（検索）ボックスに貼り付け、2 番目の（置換後）ボックスにコンマを入力します。次に、「**すべて**」をクリックします。
+1. 手順 4 でコピーしたタブを最初の（検索）ボックスに貼り付け、2 番目の（置換後）ボックスにコンマを入力します。次に、「**[!UICONTROL すべて]**」をクリックします。
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 

@@ -4,18 +4,18 @@ description: 動的フィールド用語集 — Marketo ドキュメント — �
 title: 動的フィールド用語集
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: cffe7a8734f79f887f3aad017a16fad4f04cda74
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 63%
+source-wordcount: '245'
+ht-degree: 57%
 
 ---
 
 # 動的フィールド用語集 {#dynamic-fields-glossary}
 
-Sales Connect でテンプレートを作成する場合は、動的フィールドを統合し、「**MSE 動的フィールド**」ボタンをクリックします。
+[!DNL Sales Connect] でテンプレートを作成する場合は、常に「**[!UICONTROL MSE 動的フィールド]** ボタンを使用して動的フィールドを統合することをお勧めします。
 
-このツールは、`auto-personalize your email` に使用されて `pulling information from the People page` によって時間を大幅に節約できます。
+このツールは、`auto-personalize your email` に使用されて `pulling information from the [!UICONTROL People] page` によって時間を大幅に節約できます。
 
 | 動的フィールド | メールに表示される内容の例 |
 |---|---|
@@ -25,7 +25,7 @@ Sales Connect でテンプレートを作成する場合は、動的フィール
 | `{{team_unsubscribe}}` | 私たちからのメールの受信を希望しない場合は、ここをクリックしてください |
 | `{{friendly_unsubscribe}}` | メールにはうんざりですか？ こちらにお知らせください |
 | `{{my_name}}` | キース・フリン |
-| `{{my_signature}}` | Keith Flynn （シニアテクニカルライター – Adobe） |
+| `{{my_signature}}` | Keith Flynn （シニアテクニカルライター） – Adobe |
 | `{{personal_email}}` | keith@pickyouremail.com |
 | `{{title}}` | シニアテクニカルライター |
 | `{{work_website}}` | https://www.adobe.com |

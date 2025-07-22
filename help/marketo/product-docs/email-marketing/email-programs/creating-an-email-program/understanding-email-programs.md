@@ -4,7 +4,7 @@ description: メールプログラムについて - Marketo ドキュメント -
 title: メールプログラムについて
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 100%
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## コントロールパネル {#control-panel}
 
-4 つのボックスで集中を保ちます。**オーディエンス**&#x200B;は「誰」を定義し、**メール**&#x200B;は「何」を提供し、**スケジュール**&#x200B;は「いつ」を定義します。「**承認**」で準備が整います。
+4 つのボックスで集中を保ちます。**[!UICONTROL オーディエンス]**&#x200B;は「誰」を定義し、**[!UICONTROL メール]**&#x200B;は「何」を提供し、**[!UICONTROL スケジュール]**&#x200B;は「いつ」を定義します。「**[!UICONTROL 承認]**」で準備が整います。
 
 ![](assets/emailprogram.png)
 

@@ -4,28 +4,28 @@ description: 予測コンテンツのタイトルの承認取消 - Marketo ド�
 title: 予測コンテンツのタイトルの承認取消
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 100%
+ht-degree: 46%
 
 ---
 
-# 予測コンテンツのタイトルの承認取消 {#unapprove-a-title-for-predictive-content}
+# [!UICONTROL  予測コンテンツ ] のタイトルの承認取消 {#unapprove-a-title-for-predictive-content}
 
-予測コンテンツのタイトルは、すべてのコンテンツページまたはコンテンツを編集ポップアップで承認を取り消すことができます。
+[!UICONTROL  すべてのコンテンツ ] ページまたは [!UICONTROL  コンテンツを編集 ] ポップアップで、予測コンテンツのタイトルの承認を取り消すことができます。
 
-## すべてのコンテンツページ {#all-content-page}
+## [!UICONTROL  すべてのコンテンツ ] ページ {#all-content-page}
 
-1. すべてのコンテンツページで、コンテンツの横にあるチェックボックスをオンにして選択します。
+1. [!UICONTROL  すべてのコンテンツ ] ページで、コンテンツの横にあるチェックボックスをオンにして選択します。
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. 「**コンテンツアクション**」ドロップダウンをクリックし、「**予測コンテンツの承認取消**」を選択します。
+1. 「**[!UICONTROL コンテンツアクション]**」ドロップダウンをクリックし、「**[!UICONTROL 予測コンテンツの承認取消]**」を選択します。
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
-## コンテンツを編集ポップアップ {#edit-content-pop-up}
+## [!UICONTROL  コンテンツを編集 ] ポップアップ {#edit-content-pop-up}
 
 編集中にタイトルの承認を取り消すことができます。
 
@@ -33,10 +33,10 @@ ht-degree: 100%
 
    ![](assets/click-icon-hand.png)
 
-1. 「**予測コンテンツの承認**」ボックスをオフにし、「**保存**」をクリックします。
+1. 「**[!UICONTROL 予測コンテンツの承認]**」ボックスをオフにし、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
-どの方法を使用しても、すべてのコンテンツページに承認アイコンが表示されなくなり、予測コンテンツページにタイトルが表示されなくなります。
+どの方法を使用しても、承認アイコンが [!UICONTROL  すべてのコンテンツ ] ページに表示されず、[!UICONTROL  予測コンテンツ ] ページからタイトルが表示されなくなります。
 
 ![](assets/unapprove-content-no-icon.png)

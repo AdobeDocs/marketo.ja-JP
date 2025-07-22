@@ -4,10 +4,10 @@ description: クイックアクションを使用したワークフローのス�
 title: クイックアクションを使用したワークフローのスピードアップ
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 100%
+source-wordcount: '330'
+ht-degree: 96%
 
 ---
 
@@ -23,8 +23,8 @@ ht-degree: 100%
 
 | ステータス | 説明 |
 |---|---|
-| アーカイブ | アーカイブ済みフォルダーにメールを追加し、そのメールの表示とクリックの追跡をすべて無効にします。 |
-| 成功 | テンプレート分析でメールがレポートに成功したことを示します。 |
+| [!UICONTROL アーカイブ] | アーカイブ済みフォルダーにメールを追加し、そのメールの表示とクリックの追跡をすべて無効にします。 |
+| [!UICONTROL 成功] | テンプレート分析でメールがレポートに成功したことを示します。 |
 
 **アーカイブ済み**
 
@@ -35,11 +35,11 @@ ht-degree: 100%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>アーカイブ取消</td> 
+   <td>[!UICONTROL アーカイブ解除 ]</td> 
    <td>メールを配信されたフォルダーに戻し、表示およびクリックの追跡を再開します。</td> 
   </tr> 
   <tr> 
-   <td>削除</td> 
+   <td>[!UICONTROL 削除 ]</td> 
    <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td> 
   </tr> 
  </tbody> 
@@ -54,11 +54,11 @@ ht-degree: 100%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>編集</td> 
+   <td>[!UICONTROL 編集 ]</td> 
    <td>編集する作成ウィンドウでメールを開きます。</td> 
   </tr> 
   <tr> 
-   <td>削除</td> 
+   <td>[!UICONTROL 削除 ]</td> 
    <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td> 
   </tr> 
  </tbody> 
@@ -73,11 +73,11 @@ ht-degree: 100%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>送信を再試行</td> 
+   <td>[!UICONTROL 再試行送信 ]</td> 
    <td>即座にメールの再送信を試みます。</td> 
   </tr> 
   <tr> 
-   <td>削除</td> 
+   <td>[!UICONTROL 削除 ]</td> 
    <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td> 
   </tr> 
  </tbody> 

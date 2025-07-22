@@ -3,26 +3,26 @@ description: Salesforce アクティビティ詳細のカスタマイズの設�
 title: Salesforce アクティビティ詳細のカスタマイズの設定
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '697'
-ht-degree: 100%
+source-wordcount: '675'
+ht-degree: 69%
 
 ---
 
-# Salesforce アクティビティ詳細のカスタマイズの設定 {#configure-salesforce-activity-detail-customization}
+# アクティビティ [!DNL Salesforce] 詳細のカスタマイズの設定 {#configure-salesforce-activity-detail-customization}
 
 >[!PREREQUISITES]
 >
->* Salesforce と Marketo Sales Connect [が接続されている](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* [!DNL Salesforce] と [!DNL Marketo Sales Connect] [ 接続する必要があります ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
 >* API を使用したメールアクティビティのログが[有効になっている](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
-アクティビティの詳細のカスタマイズを使用すると、管理者は、Sales Connect のアクティビティ／リマインダータスクが Salesforce に同期されたときに、Salesforce タスクの件名フィールドに記録する情報を設定できます。
+アクティビティの詳細のカスタマイズにより、管理者は、[!DNL Sales Connect] しいアクティビティ/リマインダータスクがSalesforceに同期された際に、Salesforce タスク – 件名フィールドにログを記録する情報を設定できます。
 
 >[!NOTE]
 >
->* アクティビティ詳細のカスタマイズで `{{activity_subject}}` 動的フィールドを使用している場合、Sales Connect のリマインダータスクの件名フィールドに対して行われた更新は、対応する Salesforce タスクの件名フィールドに反映されます。
->* 情報を Salesforce 件名フィールドに記録する場合、改行はサポートされません。セールスタスクの件名が更新されると、アクティビティ詳細のカスタマイズエディターで改行が削除されます。
+>* リマインダータスクの [!DNL Sales Connect] に件名フィールドに加えられた更新は、アクティビティの詳細のカスタマイズで [!DNL Salesforce] の動的フィールドを使用している場合、対応する `{{activity_subject}}` スタムタスクの件名フィールドに反映されます。
+>* [!DNL Salesforce] の件名フィールドに情報を記録する場合、改行はサポートされていません。 セールスタスクの件名が更新されると、アクティビティ詳細のカスタマイズエディターで改行が削除されます。
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -52,15 +52,15 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->メール返信をアクティビティとして Salesforce に記録する場合、Salesforce のアクティビティ詳細のカスタマイズ設定は使用されません。代わりに、「返信：メールの件名」として記録されます。
+>メールの返信をアクティビティとして [!DNL Salesforce] に記録する場合、[!DNL Salesforce] のアクティビティの詳細のカスタマイズ設定は使用されません。 代わりに、「返信：メールの件名」として記録されます。
 
 ## サポートされるアクティビティの動的フィールド {#activity-dynamic-fields-supported}
 
-アクティビティの動的フィールドでは、セールスアクティビティに関する情報を参照してデータが入力されます。現在、これは Salesforce アクティビティ詳細カスタマイズと共に使用できます。
+アクティビティの動的フィールドでは、セールスアクティビティに関する情報を参照してデータが入力されます。現在は、アクティビティの詳細のカスタマイズ [!DNL Salesforce] 使用できます。
 
 >[!NOTE]
 >
->特定のアクティビティ／タスクの動的フィールドに値を入力する値がない場合、Salesforce タスクの件名フィールドが更新されても、その動的フィールドのデータは入力されません。
+>特定のアクティビティまたはタスクの動的フィールドに入力する値がない場合、[!DNL Salesforce] のタスク – 件名フィールドが更新されても、その動的フィールドのデータは入力されません。
 
 <table>
  <tr>
@@ -105,21 +105,21 @@ ht-degree: 100%
 >
 >**管理者権限が必要。**
 
-アクティビティの詳細を設定する際は、Salesforce でタスク履歴を確認する際に、どのデータがセールスに最も関連するかを検討します。
+アクティビティの詳細を設定する際は、[!DNL Salesforce] でタスク履歴を確認する際に、売上に最も関連のあるデータを検討します。
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. 「**Salesforce**」をクリックします。
+1. 「**[!UICONTROL Salesforce]**」をクリックします。
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. 「**同期設定**」をクリックします。
+1. 「**[!UICONTROL 同期設定]**」をクリックします。
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. アクティビティの詳細のカスタマイズエディターで、任意のフリーテキストを追加します。追加したテキストは動的ではなく、Salesforce に同期されたすべてのタスクの件名フィールドで変更されないままになります。
+1. アクティビティの詳細のカスタマイズエディターで、任意のフリーテキストを追加します。追加したテキストは動的ではなく、[!DNL Salesforce] に同期されたすべてのタスクの件名フィールドに対して変更されません。
 
    ![](assets/configure-salesforce-activity-detail-customization-6.png)
 
@@ -127,7 +127,7 @@ ht-degree: 100%
    >
    >必須ではありませんが、追加したテキストを角括弧で囲むと、Salesforce の件名フィールドにデータを入力する際に、データ間の識別が容易になります。例：`[Sales Connect] - {{Activity_type}}`
 
-1. 必要に応じて、「**動的フィールドを追加**」ボタンをクリックして、動的フィールドを追加します。
+1. 必要に応じて、「**[!UICONTROL 動的フィールドを追加]**」ボタンをクリックして、動的フィールドを追加します。
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,16 +135,16 @@ ht-degree: 100%
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
 >[!NOTE]
 >
->Salesforce では 255 文字の制限が適用されます。アクティビティの詳細がこれを超えると、情報を Salesforce 件名フィールドに保存できるように切り捨てられます。
+>[!DNL Salesforce] では、255 文字制限が適用されます。 アクティビティの詳細がこの値を超えると、[!DNL Salesforce] の件名フィールドに情報が確実に保存されるように、内容が切り捨てられます。
 
 >[!MORELIKETHIS]
 >
 >* [同期設定](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
->* [Salesforce とのリマインダータスク同期](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
->* [CRM 用の Sales Connect のカスタマイズ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+>* [ リマインダータスクの同期先  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
+>* [[!DNL Sales Connect] CRM 向けカスタマイズ ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

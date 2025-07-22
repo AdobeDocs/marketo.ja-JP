@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949711
-description: 登録コードを使用した Outlook 用 Marketo メールアドインのインストール - Marketo ドキュメント - 製品ドキュメント
-title: 登録コードを使用した Outlook 用 Marketo メールアドインのインストール
+description: 登録コードを使用したMarketo Email Add [!DNL Outlook] in のインストール - Marketo ドキュメント – 製品ドキュメント
+title: 登録コードを使用した、用のMarketo E メール  [!DNL Outlook]  ドインのインストール
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
-workflow-type: ht
-source-wordcount: '551'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '536'
+ht-degree: 88%
 
 ---
 
-# 登録コードを使用した Outlook 用 Marketo メールアドインのインストール {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# 登録コードを使用して [!DNL Outlook] 用するMarketo E メールアドインのインストール {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 ユーザーがノートパソコンの管理者設定にアクセスできる場合は、登録コードを直接送信できます。
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >現時点では、以下のリンクは、Microsoft Edge または Chrome で右クリックした場合にのみ機能します。ご迷惑をおかけして申し訳ありません。
+   >現時点では、以下のリンクは [!DNL Microsoft Edge] でのみ、または [!DNL Chrome] で右クリックしても機能します。 ご迷惑をおかけして申し訳ありません。
 
 <table><thead>
   <tr>
@@ -100,7 +100,7 @@ ht-degree: 100%
   </tr>
 </tbody></table>
 
-*Office 365 バージョン：Windows クライアントのみ（Windows 10、Enterprise または Pro）。
+*[!DNL Office] 365 バージョン：[!DNL Windows] クライアントのみ（[!DNL Windows] 10、[!DNL Enterprise] または [!DNL Pro]）。
 
 >[!IMPORTANT]
 >
@@ -112,7 +112,7 @@ ht-degree: 100%
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
-1. Microsoft Outlook を閉じます。
+1. [!DNL Microsoft Outlook] を閉じます。
 
    ![](assets/ent-key-close-outlook-hand.png)
 
@@ -126,11 +126,11 @@ ht-degree: 100%
    >
    >セキュリティ警告が表示されても、問題はありません。「**実行**」をクリックしてください。
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. **名**、**姓**、**メールアドレス**&#x200B;を入力し、**登録コード**&#x200B;をメールからフォームにコピー＆ペーストして、「**次へ**」をクリックします。
+1. **[!UICONTROL 名]**、**[!UICONTROL 姓]**、**[!UICONTROL メールアドレス]**&#x200B;を入力し、**[!UICONTROL 登録コード]**&#x200B;をメールからフォームにコピー＆ペーストして、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/enter-your-information-hands.png)
 
@@ -138,23 +138,23 @@ ht-degree: 100%
    >
    >インストールに失敗した場合は、IT 担当者と相談し、HTTPS トラフィックがブロックされていないことを確認してください。インストーラーを実行するには HTTPS トラフィックが必要です。
 
-1. 「**次へ**」をクリックして、デフォルトの場所にインストールします。
+1. 「**[!UICONTROL 次へ]**」をクリックして、デフォルトの場所にインストールします。
 
    ![](assets/select-installation-folder-hand.png)
 
-1. 「**次へ**」をクリックします。
+1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >不明な発行元に関するセキュリティプロンプトが表示された場合は、「**はい**」をクリックします。
+   >不明な発行元に関するセキュリティプロンプトが表示された場合は、「**[!UICONTROL はい]**」をクリックします。
 
-1. インストールが完了したら、「**閉じる**」をクリックします。
+1. インストールが完了したら、「**[!UICONTROL 閉じる]**」をクリックします。
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Microsoft Outlook を開くと、「Marketo」ボタンが表示されます。
+1. [!DNL Microsoft Outlook] を開いて、「Marketo」ボタンを確認します。
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

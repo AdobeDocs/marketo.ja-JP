@@ -4,7 +4,7 @@ description: HTML の使用 - Marketo ドキュメント - 製品ドキュメン
 title: HTML の使用
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 1. そこにソースコードを貼り付けます。
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
 >[!NOTE]
 >

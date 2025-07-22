@@ -4,7 +4,7 @@ description: プッシュ通知の作成 - Marketo ドキュメント - 製品�
 title: プッシュ通知の作成
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 プッシュ通知は簡単に作成できます。ただし、作業を開始する前に、Marketo の管理者とモバイルアプリデベロッパーに、作成中に必要な設定をするように依頼する必要があります。詳しくは、「[プッシュ通知について](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)」を参照してください。
 
-1. **マーケティング活動**&#x200B;領域に移動します。
+1. **[!UICONTROL マーケティング活動]**&#x200B;領域に移動します。
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
@@ -23,15 +23,15 @@ ht-degree: 100%
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. 「**新規作成**」から「**新規ローカルアセット**」を選択します。
+1. 「**[!UICONTROL 新規作成]**」から「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
-1. 「**プッシュ通知**」を選択します。
+1. 「**[!UICONTROL プッシュ通知]**」を選択します。
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. 「**プッシュ通知名**」を入力して「**作成**」をクリックします。
+1. 「**プッシュ通知名**」を入力して「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 

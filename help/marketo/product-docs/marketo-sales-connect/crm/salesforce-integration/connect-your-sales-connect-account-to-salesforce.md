@@ -4,52 +4,52 @@ description: Sales Connect アカウントの Salesforce への接続 - Marketo 
 title: Sales Connect アカウントの Salesforce への接続
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 100%
+source-wordcount: '129'
+ht-degree: 61%
 
 ---
 
 # Sales Connect アカウントの Salesforce への接続 {#connect-your-sales-connect-account-to-salesforce}
 
-次の簡単な手順に従って、Sales Connect を Salesforce に接続します。
+[!DNL Sales Connect] を [!DNL Salesforce] に接続するには、次の簡単な手順に従います。
 
 ## 管理者として接続する方法 {#how-to-connect-as-an-admin}
 
-1. Sales Connect で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
+1. [!DNL Sales Connect] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one.png)
 
-1. 管理設定で、**Salesforce** をクリックします。
+1. [!UICONTROL  Admin Settings] で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/six.png)
 
-1. 「接続とカスタマイズ」タブで、「**接続**」をクリックします。
+1. [[!UICONTROL  接続とカスタマイズ ]] タブで、[**[!UICONTROL 接続]**] をクリックします。
 
    ![](assets/seven.png)
 
-1. 「**OK**」をクリックします。
+1. 「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/four.png)
 
 1. 既に Salesforce にログインしている場合は、接続されます。そうでない場合は、ログインするように求められます。
 
-## 管理者以外のユーザーとして接続する方法 {#how-to-connect-as-a-non-admin}
+## 管理者以外のユーザとして接続する方法 {#how-to-connect-as-a-non-admin}
 
-1. Sales Connect で、歯車アイコンをクリックし、「**設定**」を選択します。
+1. [!DNL Sales Connect] で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one.png)
 
-1. マイアカウントで、「**Salesforce**」を選択します。
+1. [!UICONTROL  マイアカウント ] で、**[!UICONTROL Salesforce]** を選択します。
 
    ![](assets/two.png)
 
-1. 「接続とカスタマイズ」タブで、「**接続**」をクリックします。
+1. [[!UICONTROL  接続とカスタマイズ ]] タブで、[**[!UICONTROL 接続]**] をクリックします。
 
    ![](assets/three.png)
 
-1. 「**OK**」をクリックします。
+1. 「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/four.png)
 

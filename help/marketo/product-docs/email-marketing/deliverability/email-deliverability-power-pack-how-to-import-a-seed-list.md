@@ -4,10 +4,10 @@ description: シードリストを Marketo Engage インスタンスに読み込
 title: メール配信品質パワーパック - シードリストの読み込み方法
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 100%
+source-wordcount: '330'
+ht-degree: 84%
 
 ---
 
@@ -21,25 +21,25 @@ ht-degree: 100%
 
 ## シードリストのインポート {#import-a-seed-list}
 
-1. My Marketo で、「**配信ツール**」を選択します。
+1. My Marketo で、「**[!UICONTROL 配信ツール]**」を選択します。
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Everest アプリケーションが開きます。左側のナビゲーションで、「**フライト中**」をクリックし、「**インボックスへの配置**」を選択します。
+1. [!DNL Everest] アプリケーションが開きます。 左側のナビゲーションで、「**[!UICONTROL フライト中]**」をクリックし、「**[!UICONTROL インボックスへの配置]**」を選択します。
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. 「**シードリストを管理**」タブをクリックします。
+1. 「**[!UICONTROL シードリストを管理]**」タブをクリックします。
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. 「アクション」ドロップダウンをクリックし、「**1 行につき 1 件ダウンロード**」を選択します。
+1. **[!UICONTROL アクション]** ドロップダウンをクリックし、「**[!UICONTROL ダウンロード：1 行に 1 つ]**」を選択します。
 
    ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Everest でリストを最適化する場合は、（ページ上部にある）シードリストオプティマイザーを使用します。
+   >リストを最適化する場合は、シードリストオプティマイザー（ページの上部） [!DNL Everest] 使用します。
 
 1. 書き出し後、リストは txt ファイルとしてブラウザーのダウンロードフォルダーに表示されます。取得し、静的リストとして Marketo インスタンスに[インポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)します。
 
@@ -51,7 +51,7 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >これらのインボックスへの配置キャンペーンの数は 1 か月あたりで制限されています。数を確認するには、Everest のアカウント設定／サブスクリプションの下の「サブスクリプション」セクションを参照してください。詳細については、Marketo の営業担当にお問い合わせください。
+   >これらのインボックスへの配置キャンペーンの数は 1 か月あたりで制限されています。取得数を確認するには、[!UICONTROL  の ] アカウント設定 [!UICONTROL /] サブスクリプション [!UICONTROL  の下の ] サブスクリプション [!DNL Everest] セクションを参照してください。 詳細については、Marketo の営業担当にお問い合わせください。
 
 ## 新しいシードリストの取得 {#acquiring-new-seedlists}
 

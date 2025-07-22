@@ -4,103 +4,103 @@ description: デフォルトの Salesforce フィールドマッピング — Ma
 title: デフォルトの Salesforce フィールドマッピング
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 93%
+source-wordcount: '361'
+ht-degree: 36%
 
 ---
 
-# デフォルトの Salesforce フィールドマッピング {#default-salesforce-field-mapping}
+# デフォルトの [!DNL Salesforce] フィールドマッピング {#default-salesforce-field-mapping}
 
-Marketo Engageアカウントを最初に Salesforce と同期すると、Marketoによって、組み込みの Salesforce フィールドとMarketo フィールド間で自動的にこれらの関連付けが作成されます。 Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
+Marketo Engage アカウントを最初にSalesforceと同期すると、Marketoは、ビルトイン Salesforce フィールドとMarketo フィールドの間でこれらの関連付けを自動的に行います。 Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
 
 ## リードフィールド {#lead-fields}
 
 | SFDC フィールド | Marketo フィールド |
 |---|---|
-| 年間売上高 | 年間売上高 |
-| 市区町村 | 市区町村 |
-| 企業 | 企業名 |
-| コンバージョン日 | SFDC 変換日 |
-| 国 | 国 |
-| 作成日 | SFDC 作成日 |
-| 説明 | 顧客の注記 |
-| メール | メールアドレス |
-| FAX | FAX 番号 |
-| 名 | 名 |
-| メールオプトアウト | 登録解除済み |
-| 業界 | 業界 |
-| コンバージョン済み | SFDC コンバージョン済み |
-| 削除済み | SFDC 削除済み |
-| 姓 | 姓 |
-| リードのソース | ソース |
-| リードのスコア | スコア |
-| 携帯電話 | 携帯電話番号 |
-| 従業員 | 従業員数 |
-| 電話 | 電話番号 |
-| 郵便番号 | 郵便番号 |
-| 評価 | 評価 |
-| 敬称 | 敬称 |
-| 都道府県 | 都道府県 |
-| ステータス | ステータス |
-| 番地 | 住所 |
-| 職位 | 職位 |
-| Web サイト | Web サイト |
+| [!UICONTROL  年間収益 ] | [!UICONTROL  年間収益 ] |
+| [!UICONTROL  市区町村 ] | [!UICONTROL  市区町村 ] |
+| [!UICONTROL  会社 ] | [!UICONTROL  会社名 ] |
+| [!UICONTROL  コンバート日 ] | [!UICONTROL SFDCが変換された日付 ] |
+| [!UICONTROL  国 ] | [!UICONTROL  国 ] |
+| [!UICONTROL  作成日 ] | [!UICONTROL SFDC作成日 ] |
+| [!UICONTROL 説明] | [!UICONTROL  人物メモ ] |
+| [!UICONTROL メール] | [!UICONTROL  メールアドレス ] |
+| [!UICONTROL  ファックス ] | [!UICONTROL FAX 番号 ] |
+| [!UICONTROL  名 ] | [!UICONTROL  名 ] |
+| [!UICONTROL メールオプトアウト] | [!UICONTROL  登録解除 ] |
+| [!UICONTROL 業界] | [!UICONTROL 業界] |
+| [!UICONTROL  変換済み ] | [!UICONTROL SFDCはコンバージョンされました ] |
+| [!UICONTROL  削除済み ] | [!UICONTROL SFDCが削除されました ] |
+| [!UICONTROL  姓 ] | [!UICONTROL  姓 ] |
+| [!UICONTROL  リードSource] | [!UICONTROL ソース] |
+| [!UICONTROL  リードスコア ] | [!UICONTROL スコア] |
+| [!UICONTROL  携帯電話 ] | [!UICONTROL  携帯電話番号 ] |
+| [!UICONTROL  従業員 ] | [!UICONTROL  従業員数 ] |
+| [!UICONTROL  電話 ] | [!UICONTROL  電話番号 ] |
+| [!UICONTROL  郵便番号 ] | [!UICONTROL  郵便番号 ] |
+| [!UICONTROL  レーティング ] | [!UICONTROL  レーティング ] |
+| [!UICONTROL 敬称] | [!UICONTROL 敬称] |
+| [!UICONTROL  都道府県 ] | [!UICONTROL  都道府県 ] |
+| [!UICONTROL ステータス] | [!UICONTROL ステータス] |
+| [!UICONTROL  番地 ] | [!UICONTROL アドレス] |
+| [!UICONTROL タイトル] | [!UICONTROL  役職 ] |
+| [!UICONTROL Web サイト ] | [!UICONTROL Web サイト ] |
 
 ## 連絡先フィールド {#contact-fields}
 
 | SFDC フィールド | Marketo フィールド |
 |---|---|
-| 生年月日 | 生年月日 |
-| 作成日 | SFDC 作成日 |
-| 連絡先の説明 | 顧客の注記 |
-| メール | メールアドレス |
-| 勤務先 FAX | FAX 番号 |
-| 名 | 名 |
-| メールオプトアウト | 登録解除済み |
-| 削除済み | SFDC 削除済み |
-| 姓 | 姓 |
-| リードのソース | ソース |
-| リードのスコア | スコア |
-| MailingCity | 市区町村 |
-| MailingCountry | 国 |
-| MailingPostalCode | 郵便番号 |
-| MailingState | 都道府県 |
-| MailingStreet | 住所 |
-| 携帯電話 | 携帯電話番号 |
-| 勤務先電話 | 電話番号 |
-| 敬称 | 敬称 |
-| 職位 | 職位 |
+| [!UICONTROL  生年月日 ] | [!UICONTROL  生年月日 ] |
+| [!UICONTROL  作成日 ] | [!UICONTROL SFDC作成日 ] |
+| [!UICONTROL  連絡先の説明 ] | [!UICONTROL  人物メモ ] |
+| [!UICONTROL メール] | [!UICONTROL  メールアドレス ] |
+| [!UICONTROL  勤務先 FAX 番号 ] | [!UICONTROL FAX 番号 ] |
+| [!UICONTROL  名 ] | [!UICONTROL  名 ] |
+| [!UICONTROL メールオプトアウト] | [!UICONTROL  登録解除 ] |
+| [!UICONTROL  削除済み ] | [!UICONTROL SFDCが削除されました ] |
+| [!UICONTROL  姓 ] | [!UICONTROL  姓 ] |
+| [!UICONTROL  リードSource] | [!UICONTROL ソース] |
+| [!UICONTROL  リードスコア ] | [!UICONTROL スコア] |
+| [!UICONTROL MailingCity] | [!UICONTROL  市区町村 ] |
+| [!UICONTROL MailingCountry] | [!UICONTROL  国 ] |
+| [!UICONTROL MailingPostalCode] | [!UICONTROL  郵便番号 ] |
+| [!UICONTROL MailingState] | [!UICONTROL  都道府県 ] |
+| [!UICONTROL MailingStreet] | [!UICONTROL アドレス] |
+| [!UICONTROL  携帯電話 ] | [!UICONTROL  携帯電話番号 ] |
+| [!UICONTROL  勤務先電話番号 ] | [!UICONTROL  電話番号 ] |
+| [!UICONTROL 敬称] | [!UICONTROL 敬称] |
+| [!UICONTROL タイトル] | [!UICONTROL  役職 ] |
 
 ## アカウントフィールド {#account-fields}
 
-| SFDC フィールド | Marketo フィールド |
+| [!UICONTROL SFDC フィールド ] | [!UICONTROL Marketo フィールド ] |
 |---|---|
-| 年間売上高 | 年間売上高 |
-| 請求先住所 (市区町村) | 請求先住所 (市区町村) |
-| 請求先住所 (国) | 請求先住所 (国) |
-| 請求先住所 (郵便番号) | 請求先住所 (郵便番号) |
-| 請求先住所 (都道府県） | 請求先住所 (都道府県) |
-| 請求先住所（番地） | 請求先住所 |
-| アカウントの説明 | 企業注記 |
-| 業界 | 業界 |
-| 削除済み | SFDC 削除済み |
-| アカウント名 | 企業名 |
-| 従業員 | 従業員数 |
-| アカウントの電話 | 代表電話 |
-| SIC コード | SIC コード |
-| アカウントサイト | サイト |
-| アカウントタイプ | SFDC のタイプ |
-| Web サイト | Web サイト |
+| [!UICONTROL  年間収益 ] | [!UICONTROL  年間収益 ] |
+| [!UICONTROL  請求先都市 ] | [!UICONTROL  請求先都市 ] |
+| [!UICONTROL  請求国 ] | [!UICONTROL  請求国 ] |
+| [!UICONTROL  請求先郵便番号 ] | [!UICONTROL  請求郵便番号 ] |
+| [!UICONTROL  請求先の都道府県 ] | [!UICONTROL  請求国 ] |
+| [!UICONTROL  請求先住所 ] | [!UICONTROL  請求先住所 ] |
+| [!UICONTROL  アカウントの説明 ] | [!UICONTROL  会社注記 ] |
+| [!UICONTROL 業界] | [!UICONTROL 業界] |
+| [!UICONTROL  削除済み ] | [!UICONTROL SFDCが削除されました ] |
+| [!UICONTROL  アカウント名 ] | [!UICONTROL  会社名 ] |
+| [!UICONTROL  従業員 ] | [!UICONTROL  従業員数 ] |
+| [!UICONTROL  アカウントの電話 ] | [!UICONTROL  メイン電話 ] |
+| [!UICONTROL SIC コード ] | [!UICONTROL SIC コード ] |
+| [!UICONTROL  アカウントサイト ] | [!UICONTROL  サイト ] |
+| [!UICONTROL  アカウントタイプ ] | [!UICONTROL SFDCの種類 ] |
+| [!UICONTROL Web サイト ] | [!UICONTROL Web サイト ] |
 
-## Marketo の Salesforce 関連システムフィールド（読み取り専用） {#salesforce-related-system-fields-in-marketo-read-only}
+## Marketoの [!DNL Salesforce] 関連のシステムフィールド（読み取り専用） {#salesforce-related-system-fields-in-marketo-read-only}
 
 これらのフィールドは Marketo で作成されますが、顧客は調整できません。
 
 | フィールド | 説明 |
 |---|---|
-| SFDC ID | 18 文字の Salesforce ID |
+| SFDC ID | 18 文字の [!DNL Salesforce] Id |
 | SFDC のタイプ | リードまたは連絡先。空の場合、リードは Marketo にのみ存在します |
 | SFDC 作成日 | SFDC で作成された日付（Marketo で作成された日付とは異なる場合があります） |
 | SFDC 削除済み | 以前は SFDC に存在したが、削除され、現在は Marketo にしか存在しない個人 |

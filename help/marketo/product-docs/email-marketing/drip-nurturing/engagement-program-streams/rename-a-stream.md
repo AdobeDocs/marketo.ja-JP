@@ -4,7 +4,7 @@ description: ストリーム名の変更 - Marketo ドキュメント - 製品�
 title: ストリーム名の変更
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 整理された状態を維持したい場合は、ストリーム名を変更できます。その方法を説明しましょう。
 
-1. エンゲージメントプログラムを検索して選択し、「**ストリーム**」をクリックします。
+1. エンゲージメントプログラムを検索して選択し、「**[!UICONTROL ストリーム]**」をクリックします。
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. 新しいストリームの「**名前**」を入力して、「**保存**」をクリックします。
+1. 新しいストリームの「**[!UICONTROL 名前]**」を入力して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 

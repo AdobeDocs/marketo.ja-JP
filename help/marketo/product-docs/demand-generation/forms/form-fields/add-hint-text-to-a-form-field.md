@@ -4,7 +4,7 @@ description: フォームフィールドへのヒントテキストの追加 —
 title: フォームフィールドへのヒントテキストの追加
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 100%
@@ -23,23 +23,23 @@ ht-degree: 100%
 >
 >フォーム&#x200B;**説明**&#x200B;は、フィールドにカーソルを合わせたときに表示される小さなツールチップです。
 
-1. **マーケティング活動**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. フォームを選択して、「**フォームの編集**」をクリックします。
+1. フォームを選択して、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. フィールドを選択し、**ヒントテキスト**&#x200B;を入力します。
+1. フィールドを選択し、**[!UICONTROL ヒントテキスト]**&#x200B;を入力します。
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. 「**終了**」をクリックします。
+1. 「**[!UICONTROL 終了]**」をクリックします。
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. 「**承認して閉じる**」をクリックします。
+1. 「**[!UICONTROL 承認して閉じる]**」をクリックします。
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 

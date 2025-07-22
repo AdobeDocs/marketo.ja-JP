@@ -4,7 +4,7 @@ description: 営業電話のローカルプレゼンス - Marketo ドキュメ�
 title: 営業電話のローカルプレゼンス
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # 営業電話のローカルプレゼンス {#sales-phone-local-presence}
 
-同じ市外局番から発信しているように見せたい場合は、発信する前に「**ローカルプレゼンス**」ボックスをオンにします。
+同じ市外局番から発信しているように見せたい場合は、発信する前に「**[!UICONTROL ローカルプレゼンス]**」ボックスをオンにします。
 
 ## ローカルプレゼンスの FAQ {#local-presence-faq}
 

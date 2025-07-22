@@ -4,10 +4,10 @@ description: Web キャンペーンのラベル付け - Marketo ドキュメン�
 title: Web キャンペーンのラベル付け
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 100%
+source-wordcount: '153'
+ht-degree: 93%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## Web キャンペーンにラベルを追加する {#add-a-label-to-a-web-campaign}
 
-1. ウェブパーソナライズにログインし、Web キャンペーン領域に移動します。
+1. [!DNL Web Personalization] にログインし、[!UICONTROL Web キャンペーン ] エリアに移動します。
 
    ![](assets/web-campaigns-hand.jpg)
 

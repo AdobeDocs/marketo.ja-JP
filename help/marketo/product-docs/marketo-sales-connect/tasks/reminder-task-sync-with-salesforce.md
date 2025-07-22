@@ -3,82 +3,82 @@ description: Salesforce とのリマインダータスク同期 - Marketo ドキ
 title: Salesforce とのリマインダータスク同期
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 100%
+source-wordcount: '508'
+ht-degree: 31%
 
 ---
 
-# Salesforce とのリマインダータスク同期 {#reminder-task-sync-with-salesforce}
+# リマインダータスクが [!DNL Salesforce] と同期されました {#reminder-task-sync-with-salesforce}
 
 >[!NOTE]
 >
->タスク同期を有効にする方法について詳しくは、[Sales Connect タスク／リマインダーの Salesforce タスクへの同期](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks)を参照してください。
+>タスクの同期を有効にする方法を学ぶには、[Sync [!DNL Sales Connect] Tasks/Reminders to [!DNL Salesforce] Tasks](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks) をチェックアウトしてください。
 
-タスクの同期設定が有効になると、ユーザは、Salesforce と双方向に同期されたリマインダータスクを確認できます。つまり、ユーザは Salesforce または Sales Connect からタスクを管理し、システムの整合性を維持していることを確信できます。
+タスク同期設定が有効になると、リマインダータスクが [!DNL Salesforce] と双方向に同期されて表示されます。 つまり、ユーザーは [!DNL Salesforce] または [!DNL Sales Connect] のどちらからでもタスクを管理でき、システムの整合性が確実に維持されていると感じることができます。
 
 ## リマインダータスクフィールドの同期 {#reminder-task-field-sync}
 
 ![](assets/reminder-task-sync-with-salesforce-1.png)
 
-以下に、Sales Connect のリマインダータスクフィールドと、双方向タスク同期でサポートされる、対応する Salesforce フィールドの一覧を示します。
+以下は、[!DNL Sales Connect] のリマインダータスクフィールドと、双方向のタスク同期でサポートされている対応するリマインダー [!DNL Salesforce] フィールドのリストです。
 
 <table>
  <tr>
-  <th>Sales Connect タスクフィールド</th>
-  <th>Salesforce タスクフィールド</th>
-  <th>Salesforce タスク</th>
+  <th>[!DNL Sales Connect] タスクフィールド</th>
+  <th>[!DNL Salesforce] タスクフィールド</th>
+  <th>[!DNL Salesforce] タスク</th>
  </tr>
  <tr>
-  <td>タスク名</td>
-  <td>件名フィールド</td>
+  <td>[!UICONTROL タスク名 ]</td>
+  <td>[!UICONTROL 件名フィールド ]</td>
   <td>タスクのタイトルを示す短い概要フィールドです。</td>
  </tr>
  <tr>
-  <td>ステータス</td>
-  <td>タスクのステータス</td>
-  <td><p>タスクのステータスを表示します。Sales Connect タスクには、Salesforce タスクステータス選択リストの 2 つの値に対応する 2 つのステータスがあります。</p>
-  <p>Sales Connect で開く = Salesforce で開始されていません。</p>
-  <p>Sales Connect で完了 = Salesforce で完了</p>
-  <p>Salesforce の他のステータス値は、Sales Connect に同期されません。</p></td>
+  <td>[!UICONTROL の状態 ]</td>
+  <td>[!UICONTROL タスクの状態 ]</td>
+  <td><p>タスクのステータスを表示します。[!DNL Sales Connect] タスクには、[!DNL Salesforce] タスクの状態の選択リスト内の 2 つの値にマッピングされる 2 つの状態があります。</p>
+  <p>[!DNL Sales Connect] で開く= [!DNL Salesforce] で開始されていません。</p>
+  <p>[!DNL Sales Connect] に完了= [!DNL Salesforce] に完了します。</p>
+  <p>[!DNL Salesforce] の他のステータス値は、[!DNL Sales Connect] と同期されません。</p></td>
  </tr>
  <tr>
-  <td>優先度</td>
-  <td>優先度</td>
-  <td><p>Sales Connect の優先度は「標準」または「高」に設定でき、それらは Salesforce の「標準」と「高」の優先度値にマッピングされます。</p>
-  <p>Salesforce の「低」優先度の値は、Sales Connect に同期されません。</p></td>
+  <td>[!UICONTROL の優先度 ]</td>
+  <td>[!UICONTROL の優先度 ]</td>
+  <td><p>[!DNL Sales Connect] 優先度は、Normal または High のいずれかであり、[!DNL Salesforce] の Normal および High の優先度の値にマップされます。</p>
+  <p>[!DNL Salesforce] の優先度（低）の値は [!DNL Sales Connect] と同期されません。</p></td>
  </tr>
  <tr>
-  <td>期日</td>
-  <td>期日</td>
+  <td>[!UICONTROL の期日 ]</td>
+  <td>[!UICONTROL の期日 ]</td>
   <td>タスクの期限です。</td>
  </tr>
  <tr>
-  <td>詳細</td>
-  <td>コメント</td>
+  <td>[!UICONTROL の詳細 ]</td>
+  <td>[!UICONTROL コメント ]</td>
   <td>リマインダータスクで完了する予定の内容に関する詳細情報を表示します。</td>
  </tr>
 </table>
 
-## Sales Connect タスクと Salesforce の初回同期 {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
+## [!DNL Sales Connect] タスクの [!DNL Salesforce] との初めての同期 {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Sales Connect と Salesforce のタスク間の同期を初めて有効にすると、Salesforce のタスクがインポートされます。Sales Connect での現在のタスクは Salesforce にプッシュされ&#x200B;**ません**。Sales Connect から Salesforce に同期されるタスクは、Sales Connect を SFDC と同期した&#x200B;*後に*&#x200B;作成されるタスクのみです。
+最初に [!DNL Sales Connect] タスクと [!DNL Salesforce] タスクの同期を有効にすると、[!DNL Salesforce] タスクがインポートされます。 **に** して現在行ってい [!DNL Sales Connect] タスクは [!DNL Salesforce] 一切考慮しません」 煩雑さと重複を減らすために、[!DNL Sales Connect] から [!DNL Salesforce] に同期されるタスクは、作成されたタスク *後* のみ、[!DNL Sales Connect] をSFDCと同期します。
 
-Sales Connect と SFDC のタスクを同期すると、次の処理が行われます。
+[!DNL Sales Connect] タスクとSFDC タスクを同期すると、次のようになります。
 
 * タスクの同期で「保存」をクリックすると、タスクの同期が開始されます。最初は時間がかかります。
 
-* 過去 24 時間にアップデートまたは作成されたリマインダーは、SFDC から Sales Connect に取り込まれます。同期は期限に基づいており、これらのタスクはすべてバックエンドで同期されますが、コマンドセンターでは、今日と明日のタスクのみが表示されます。
+* 過去 24 時間以内に更新または作成されたリマインダーは、SFDCから [!DNL Sales Connect] に取り込まれます。 同期は期限に基づいており、これらのタスクはすべてバックエンドで同期されますが、コマンドセンターでは、今日と明日のタスクのみが表示されます。
 
 * 同期が以前にオンになっていて、SFDC 内のタスクを削除した場合、過去 15 日間に削除されたすべてのタスクがコマンドセンターから削除されます。
 
-* 同期が有効になっている限り、Sales Connect と SFDC の間でタスクが常に同期されます。
+* 同期が有効になっている限り、[!DNL Sales Connect] とSFDCの間でタスクを継続的に同期します。
 
-初回同期の後、Sales Connect で作成、編集、完了または削除したタスクは、Salesforce のタスクリストに同期されます。また、Salesforce でタスクが作成、編集、完了、削除されると、Sales Connect のタスクリストがアップデートされます。
+最初の同期の後、[!DNL Sales Connect] で作成、編集、完了または削除したタスクは、[!DNL Salesforce] のタスクリストに同期されます。 [!DNL Salesforce] で作成、編集、完了または削除すると、[!DNL Sales Connect] のタスクリストが更新されます。
 
 この同期を有効にするには、web アプリケーションの[設定ページ](https://toutapp.com/login)で同期ボックスをオンにします。
 
 >[!NOTE]
 >
->[アクティビティの詳細のカスタマイズ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)設定で `{{activity_subject}}` 動的フィールドを使用している場合、タスクの件名フィールドは Sales Connect で更新でき、その更新は、対応する Salesforce タスクの件名フィールドに同期されます。逆に、Salesforce の件名フィールドを更新しても、Sales Connect のリマインダータスクの件名フィールドには&#x200B;_同期されません_。
+>[!DNL Sales Connect] アクティビティの詳細のカスタマイズ [!DNL Salesforce] 設定で `{{activity_subject}}` の動的フィールドを使用している場合、タスクの件名フィールドを [ で更新でき、その更新が、対応する同期済みタスクの ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) の件名フィールドで同期されます。 逆に、[!DNL Salesforce] の「件名」フィールドに行われた更新は、_リマインダータスクの「件名」フィールドに同期_ されません [!DNL Sales Connect]。

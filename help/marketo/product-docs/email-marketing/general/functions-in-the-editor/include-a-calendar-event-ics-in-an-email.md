@@ -4,10 +4,10 @@ description: メールにカレンダーイベント（.ics）を追加する - 
 title: メールにカレンダーイベント（.ics）を追加する
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 100%
+ht-degree: 79%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 100%
 >
 >[カレンダーイベント（.ics）ファイルを作成する](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. プログラムのメールの編集中に、トークンを挿入する場所をクリックし、「トークンを挿入」ボタンをクリックします。
+1. プログラムのメールを編集する際に、トークンの移動先をクリックし、「**トークンを挿入**」ボタンをクリックします。
 
 ![](assets/one-6.png)
 
-1. カレンダーファイルトークンを選択して「**挿入**」をクリックします。
+1. カレンダーファイルトークンを選択して「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/three-5.png)
 

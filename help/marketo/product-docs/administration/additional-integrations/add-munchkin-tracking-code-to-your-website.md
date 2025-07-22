@@ -4,10 +4,10 @@ description: Web サイトへの  [!DNL Munchkin]  トラッキングコード�
 title: Web サイトへの  [!DNL Munchkin]  トラッキングコードの追加
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '666'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -141,4 +141,4 @@ Marketo アカウントで Workspaces を使用している場合、ワークス
 
    >[!NOTE]
    >
-   >データが表示されない場合は、数分待ってから、下部にある更新アイコンをクリックします。
+   >データが表示されない場合は、数分待ってから、下部の [!UICONTROL  更新 ] アイコンをクリックします。

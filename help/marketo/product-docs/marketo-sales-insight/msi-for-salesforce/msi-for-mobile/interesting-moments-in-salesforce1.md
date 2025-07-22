@@ -4,28 +4,28 @@ description: Salesforce1 での注目のアクション - Marketo ドキュメ�
 title: Salesforce1 での注目のアクション
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 67%
 
 ---
 
-# Salesforce1 での注目のアクション {#interesting-moments-in-salesforce}
+# 注目のアクション（[!DNL Salesforce1]） {#interesting-moments-in-salesforce}
 
-[注目のアクションを使用](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)することは、Marketo Sales Insight アプリを通じてセールスチームとコミュニケーションを取るための鍵となります。Marketo Sales Insight for Salesforce1 の登場で、同じことをスマートフォン上でもできるようになりました。
+[注目のアクションを使用](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)することは、Marketo Sales Insight アプリを通じてセールスチームとコミュニケーションを取るための鍵となります。さて、[!DNL Marketo Sales Insight] for [!DNL Salesforce1] を使用すると、スマートフォンでも同じことができます。
 
 >[!AVAILABILITY]
 >
->これを使用できるのは、Marketo Sales Insight を契約しているお客様だけです。
+>これらは、[!DNL Marketo Sales Insight] のお客様のみが利用できます。
 
-1. スマートフォンで、Salesforce アプリを開きます。
+1. スマートフォンで [!DNL Salesforce] アプリを開きます。
 
 1. リードに移動します。
 
    ![](assets/one.png)
 
-1. 「**関連**」タブをクリックして、注目のアクション、Web アクティビティ、メール、スコアを表示します。
+1. 「**[!UICONTROL 関連]**」タブをクリックして、注目のアクション、Web アクティビティ、メール、スコアを表示します。
 
    ![](assets/two.png)
 

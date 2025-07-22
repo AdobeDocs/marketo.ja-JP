@@ -4,8 +4,8 @@ description: チャンピオン／挑戦者：メールテストの承認 - Mark
 title: チャンピオン／挑戦者：メールテストの承認
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
 
@@ -19,11 +19,11 @@ ht-degree: 100%
 >
 >[レポートアラートの設定](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts)
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. 「**メールテスト**」を探して右クリックし、「**テストを承認**」をクリックします。
+1. 「**[!UICONTROL メールテスト]**」を探して右クリックし、「**[!UICONTROL テストを承認]**」をクリックします。
 
    ![](assets/champion3.jpg)
 

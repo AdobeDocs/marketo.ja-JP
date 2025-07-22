@@ -4,10 +4,10 @@ description: ランディングページでパーソナライズ URL を有効�
 title: ランディングページでパーソナライズ URL を有効にする
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 100%
 >
 >[アカウントでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
-1. ランディングページを選択し、**パーソナライズ URL** の設定をクリックします。
+1. ランディングページを選択し、**[!UICONTROL パーソナライズ URL]** の設定をクリックします。
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. 「**パーソナライズ URL の有効化**」チェックボックスを選択し、「**保存**」をクリックします。
+1. これで、**[!UICONTROL パーソナライズされた URL を有効にする]** をオンにして、「保存 **[!UICONTROL をクリックでき]** す。
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 

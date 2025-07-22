@@ -4,50 +4,50 @@ description: Marketo を Dynamics と同期するための必須フィールド 
 title: Marketo と Dynamics を同期するための必須フィールド
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 100%
+source-wordcount: '172'
+ht-degree: 61%
 
 ---
 
-# Marketo と Dynamics を同期するための必須フィールド {#required-fields-for-syncing-marketo-with-dynamics}
+# Marketoと [!DNL Dynamics] を同期するための必須フィールド {#required-fields-for-syncing-marketo-with-dynamics}
 
-Sales Insight でリードと連絡先の両方を機能させるには、次のフィールドを Marketo と同期する&#x200B;*必要があります*。
+これらのフィールド *必須* は、[!UICONTROL  が機能するために ] リード [!UICONTROL  と ] 連絡先 [!DNL Sales Insight] の両方でMarketoと同期される必要があります。
 
 * 優先度
 * 緊急度
 * 相対スコア
 
-これらのフィールドのいずれかが見つからない場合は、見つからないフィールドの名前のエラーメッセージが Marketo に表示されます。この問題を修正するには、ご自身のインスタンスで、**リード**&#x200B;および&#x200B;**連絡先**&#x200B;フィールドが両方とも同期されていることを確認してください。同期されていない場合は、追加します。
+これらのフィールドのいずれかが見つからない場合は、見つからないフィールドの名前のエラーメッセージが Marketo に表示されます。この問題を修正するには、ご自身のインスタンスで、**[!UICONTROL リード]**&#x200B;および&#x200B;**[!UICONTROL 連絡先]**&#x200B;フィールドが両方とも同期されていることを確認してください。同期されていない場合は、追加します。
 
 同期フィールドを確認して追加する方法を次に示します。
 
-1. 「管理者」に移動し、「**Microsoft Dynamics**」をクリックします。
+1. [!UICONTROL  管理者 ] に移動して、**[!UICONTROL Microsoft Dynamics]** をクリックします。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. 「フィールド同期の詳細」で「**編集**」をクリックします。
+1. **[!UICONTROL フィールド同期の詳細]** で [!UICONTROL  編集 ] をクリックします。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 「リード」で「優先度」チェックボックスをオンにします。
+1. [!UICONTROL  リード ] で「[!UICONTROL  優先度 ]」チェックボックスをオンにします。
 
    ![](assets/image2016-6-8-13-3a33-3a50.png)
 
-1. 下にスクロールし、「緊急度」チェックボックスをオンにして...
+1. 下にスクロールして、「緊急度 [!UICONTROL  チェックボックスをオン ] します。
 
    ![](assets/image2016-6-8-13-3a35-3a22.png)
 
-1. ...「相対スコア」チェックボックスもオンにします。
+1. 「。..相対的なスコア [!UICONTROL  チェックボックス ] 選択します。
 
    ![](assets/image2016-6-8-13-3a36-3a1.png)
 
-1. 次に、連絡先の「優先度」、「緊急度」、「相対スコア」のチェックボックスをオンにします。
+1. 次に、「連絡先 [!UICONTROL  の「優先度 ]」、「[!UICONTROL  緊急度 ]」、「[!UICONTROL  相対的なスコア ] のチェックボックスをオン  します。
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 

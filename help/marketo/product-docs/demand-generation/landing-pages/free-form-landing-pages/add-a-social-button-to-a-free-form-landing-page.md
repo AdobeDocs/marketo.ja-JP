@@ -4,8 +4,8 @@ description: フリーフォームランディングページへのソーシャ�
 title: フリーフォームランディングページへのソーシャルボタンの追加
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 100%
 
@@ -19,35 +19,35 @@ Social ボタンは、人々に、友人とコンテンツを共有するよう�
 >
 >すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-1. フリーフォームランディングページに移動して、「**下書きの編集**」をクリックします。
+1. フリーフォームランディングページに移動して、「**[!UICONTROL 下書きの編集]**」をクリックします。
 
    ![](assets/scoring.jpg)
 
-1. 右側の要素から&#x200B;**ソーシャルボタン**&#x200B;をドラッグします。
+1. 右側の要素から&#x200B;**[!UICONTROL ソーシャルボタン]**&#x200B;をドラッグします。
 
    ![](assets/image2015-5-21-15-3a47-3a46.png)
 
-1. **ソーシャルボタン（Analytics 使用）**&#x200B;を選択します。
+1. **[!UICONTROL ソーシャルボタン（Analytics 使用）]**&#x200B;を選択します。
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
    ランディングページがアクティブになると、_ソーシャルボタン（Analytics 使用）によって生成されたアクティビティがソーシャルダッシュボード_&#x200B;に表示されます。
 
-   代わりにいいね！/おすすめボタン（Lite）を追加する場合は、[ランディングページのパフォーマンスレポート](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)で共有数を確認してください。
+   代わりに[!UICONTROL いいね！/おすすめボタン（Lite）]を追加する場合は、[ランディングページのパフォーマンスレポート](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)で共有数を確認してください。
 
-1. ドロップダウンメニューから「**新規作成**」を選択します。
+1. ドロップダウンメニューから「**[!UICONTROL 新規作成]**」を選択します。
 
    >[!NOTE]
    >
-   >**新規**／**新しいローカルアセット**&#x200B;を選択して、プログラム内にソーシャルボタンを作成することもできます。
+   >**[!UICONTROL 新規]**／**[!UICONTROL 新しいローカルアセット]**&#x200B;を選択して、プログラム内にソーシャルボタンを作成することもできます。
 
-1. ソーシャルボタンに名前を付け、「**コピー元**」で「**なし**」を選択し、「**挿入**」を選択します。
+1. ソーシャルボタンに名前を付け、「**[!UICONTROL コピー元]**」で「**[!UICONTROL なし]**」を選択し、「**[!UICONTROL 挿入]**」を選択します。
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
    >[!TIP]
    >
-   >時間を節約するために、「**コピー元**」オプションを使用して、既存のソーシャルボタンからすべての設定をコピーできます。
+   >時間を節約するために、「**[!UICONTROL コピー元]**」オプションを使用して、既存のソーシャルボタンからすべての設定をコピーできます。
 
    [ランディングページを Facebook に公開する ](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)_Web サイトにソーシャルボタンを配置する_
 

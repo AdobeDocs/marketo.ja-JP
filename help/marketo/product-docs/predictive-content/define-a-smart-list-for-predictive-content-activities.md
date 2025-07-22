@@ -4,7 +4,7 @@ description: 予測コンテンツアクティビティのスマートリスト�
 title: 予測コンテンツアクティビティのスマートリストの定義
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 スマートキャンペーンでスマートリストを定義するとき、「予測コンテンツ」の活動をトリガーとフィルターで使用できます。[リッチメディアテンプレート](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)、[コンテンツレコメンデーションバー](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)、または[メール](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)を使用して、予測コンテンツをクリックするすべての人に対してアクションをトリガーできます。
 
-1. スマートキャンペーンで、「**スマートリスト**」タブに移動します。
+1. スマートキャンペーンで、「**[!UICONTROL スマートリスト]**」タブに移動します。
 
    ![](assets/smart-list-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 100%
    >
    >トリガーを使用したスマートキャンペーンは、トリガーモードで実行されます。トリガーされたイベントと追加されたフィルターに基づいて、1 人につき一度ずつ実行されます。
 
-1. 「**名前**」ドロップダウンをクリックし、演算子を選択します。
+1. 「**[!UICONTROL 名前]**」ドロップダウンをクリックし、演算子を選択します。
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. **タイプ**&#x200B;の制約を追加します。
+1. **[!UICONTROL タイプ]**&#x200B;の制約を追加します。
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -47,7 +47,7 @@ ht-degree: 100%
 
    ![](assets/pc-add-constraint.png)
 
-1. 予測コンテンツにメールソースを使用する場合は、「**メール内リンクをクリック**」トリガーを追加します。メールを選択し、「**予測である**」制約（**true** と定義）を追加します。
+1. 予測コンテンツにメールソースを使用する場合は、「**[!UICONTROL メール内リンクをクリック]**」トリガーを追加します。メールを選択し、「**[!UICONTROL 予測である]**」制約（**[!UICONTROL true]** と定義）を追加します。
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 

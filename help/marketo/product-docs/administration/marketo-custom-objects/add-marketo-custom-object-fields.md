@@ -4,16 +4,16 @@ description: Marketo カスタムオブジェクトフィールドの追加 - Ma
 title: Marketo カスタムオブジェクトフィールドの追加
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 99c38fd24631e94a9554bf09de11e8eb607150d6
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
 # Marketo カスタムオブジェクトフィールドの追加 {#add-marketo-custom-object-fields}
 
-カスタムオブジェクトを作成したら、ビジネス上のニーズに合うように、そこにフィールドを追加する必要があります。
+カスタムオブジェクトを作成したら、ビジネスニーズに合うように、そこにフィールドを追加する必要があります。
 
 フィールドでは、カスタムオブジェクトによって使用される特定の情報が定義されます。リンクフィールドには、カスタムオブジェクトを結び付けるという特別な機能があります。これについては、[別のページ](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)で説明しています。
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >API 名は、一度承認されると編集できません。
+   >[!UICONTROL API 名 ] は、承認されるまで編集できません。
 
 1. 次に、リストから適切な[!UICONTROL データタイプ]を選択します。
 

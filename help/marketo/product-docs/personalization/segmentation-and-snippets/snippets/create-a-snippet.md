@@ -4,7 +4,7 @@ description: スニペットの作成 - Marketo ドキュメント - 製品ド�
 title: スニペットの作成
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
@@ -15,15 +15,15 @@ ht-degree: 100%
 
 スニペットは、**メール**&#x200B;および&#x200B;**ランディングページ**&#x200B;の動的コンテンツブロックとして使用できます。
 
-1. **Design Studio** に移動します。
+1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/designstudio.png)
 
-1. 「**新規**」をクリックし、次に「**新規スニペット**」をクリックします。
+1. 「**[!UICONTROL 新規]**」をクリックし、次に「**[!UICONTROL 新規スニペット]**」をクリックします。
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. 必要な詳細を入力し、「**作成**」をクリックします。
+1. 必要な詳細を入力し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 

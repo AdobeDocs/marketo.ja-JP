@@ -4,10 +4,10 @@ description: フォームフィールドの表示設定の動的な切り替え 
 title: フォームフィールドの表示設定の動的な切り替え
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
 
@@ -25,15 +25,15 @@ Marketo フォームの素晴らしい機能の 1 つは、フォームフィー
 >
 >この例では、**国**&#x200B;が「米国」として選択されていない限り、「**州**」フィールドを非表示にします。
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
    ![](assets/login-marketing-activities-8.png)
 
-1. フォームを選択し、「**フォームの編集**」をクリックします。
+1. フォームを選択し、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/editform-1.png)
 
-1. 表示設定を動的に切り替えるフィールドを選択し、「**表示設定ルール**」リンクをクリックします。
+1. 表示設定を動的に切り替えるフィールドを選択し、「**[!UICONTROL 表示設定ルール]**」リンクをクリックします。
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -45,7 +45,7 @@ Marketo フォームの素晴らしい機能の 1 つは、フォームフィー
 
    >[!TIP]
    >
-   >「次の語句で始まる」のようなあいまい一致を選択できるので、これは素晴らしいです。
+   >「[!UICONTROL  次で始まる ] など、ファジーマッチを選択できるので、これは素晴らしいです。
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -61,7 +61,7 @@ Marketo フォームの素晴らしい機能の 1 つは、フォームフィー
    >
    >既に、「国」のフィールドタイプを候補リストに変換し、[すべての国を値として追加する](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md)作業を完了しているものとします。
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -69,6 +69,6 @@ Marketo フォームの素晴らしい機能の 1 つは、フォームフィー
 
 >[!IMPORTANT]
 >
->Forms 2.0 の [API 関数](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}カスタムスクリプトを使用してフィールド値が設定または更新された場合、フォームフィールドの動作はシームレスに機能します。
+>Forms 2.0 では、[API 関数 ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} を使用してカスタムスクリプトでフィールド値を設定または更新すると、フォームフィールドの動作がシームレスに機能します。
 >
 >Forms 2.0 JavaScript API 以外の外部スクリプトでフィールドの値が変更されると、条件付きフィールドが期待どおりに動作しない場合があります。

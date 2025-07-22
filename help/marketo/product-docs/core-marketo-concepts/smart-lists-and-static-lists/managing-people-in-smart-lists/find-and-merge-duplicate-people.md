@@ -4,16 +4,16 @@ description: 重複した人物の検索と結合 - Marketo ドキュメント -
 title: 重複した人物の検索と結合
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 88%
+source-wordcount: '403'
+ht-degree: 68%
 
 ---
 
 # 重複した人物の検索と結合 {#find-and-merge-duplicate-people}
 
-新しいユーザーがシステムに入ると、Marketo Engageによって自動的に重複が排除されます。 ただし、CRM が最初に重複を送信した可能性があります。 結合する方法は以下のとおりです。
+新しいユーザーがシステムに入ると、Marketo Engageは自動的に重複を排除します。 ただし、CRM が最初に重複を送信した可能性があります。 結合する方法は以下のとおりです。
 
 >[!CAUTION]
 >
@@ -25,7 +25,7 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->Marketo は、Salesforce や Microsoft Dynamics の同期や、人物を手動で入力した場合には、自動的に重複排除を行いません。
+>Marketoは、[!DNL Salesforce] 同期または [!DNL Microsoft Dynamics] 同期、またはユーザーを手動で入力した場合に対して、自動的に重複排除を行いません。
 
 ## 重複を検索する {#find-duplicates}
 
@@ -35,7 +35,7 @@ ht-degree: 88%
 
    >[!CAUTION]
    >
-   >Salesforce の人物アカウントを使用している場合は、Marketo の人物の結合が機能しない場合があります。可能な場合は、Salesforce でレコードを結合してください。
+   >[!DNL Salesforce] ユーザーのアカウントを使用している場合、Marketoでの人物の結合が機能しない可能性があります。 可能であれば [!DNL Salesforce] のレコードを結合してください。
 
 1. **[!UICONTROL 重複の可能性]** システムスマートリストを選択し、「**[!UICONTROL ユーザー]**」タブをクリックします。
 
@@ -75,13 +75,13 @@ ht-degree: 88%
 
 Salesforce と統合している場合、Salesforce のリードの結合の効果に関していくつかの注意事項があります。
 
-* リードのみまたは連絡先のみを結合する場合、通常の Salesforce ルールに従って結合されます。
-* リードと連絡先を結合する場合、通常の Salesforce ルールに従って結合する前に、すべてのリードが連絡先にコンバージョンされます。
+* リードまたは連絡先のみを結合する場合、通常の [!DNL Salesforce] ルールに従って結合されます。
+* リードと連絡先を結合する場合、通常のリード規則に従って結合する前に、すべてのリー [!DNL Salesforce] が連絡先に変換されます。
 
-リードまたは連絡先を結合する際の Salesforce の動作について詳しくは、以下の Salesforce ドキュメントを確認してください。
+リードまたは連絡先を結合する際のSalesforceの動作について詳しくは、次の [!DNL Salesforce] ドキュメントを確認してください。
 
-* [ 重複リードの結合 ](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
-* [重複した連絡先の結合](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
+* [重複したリードの結合](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [重複した連絡先の結合](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## 一括マージ {#bulk-merging}
 

@@ -6,8 +6,8 @@ exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ _オファー紹介_&#x200B;または&#x200B;_懸賞_&#x200B;を運用すると�
 * **スマートリストトリガー**
 * カスタム Javascript イベント
 
-「**スマートリストトリガー**」オプションを選択して目標を指定する場合には、**参照元にクレジットを付与**&#x200B;フローステップを使用する必要があります。
+「**スマートリストトリガー**」オプションを選択して目標を指定する場合には、**[!UICONTROL 参照元にクレジットを付与]**&#x200B;フローステップを使用する必要があります。
 
 ![](assets/give-credit-to-referrer-1.png)
 

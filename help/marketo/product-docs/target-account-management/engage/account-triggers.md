@@ -4,10 +4,10 @@ description: アカウントトリガー - Marketo ドキュメント - 製品�
 title: アカウントトリガー
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 100%
 
 ![](assets/one-1.png)
 
-検索ボックスに「重点顧客」と入力して、重点顧客トリガーを検索します。
+検索ボックスに「[!UICONTROL  指定顧客 ]」と入力して、両方の [!UICONTROL  指定顧客 ]トリガーを検索します。
 
 ![](assets/two-1.png)
 
-目的のトリガーをキャンバスにドラッグします。この例では、_重点顧客に追加済み_&#x200B;を使用します。
+目的のトリガーをキャンバスにドラッグします。この例では、_[!UICONTROL 重点顧客に追加済み]_&#x200B;を使用します。
 
 ![](assets/three-1.png)
 

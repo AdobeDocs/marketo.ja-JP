@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504163
-description: LinkedIn と一致したオーディエンスを LaunchPoint サービスとして追加する — Marketo ドキュメント — 製品ドキュメント
-title: LinkedIn と一致したオーディエンスを LaunchPoint サービスとして追加する
+description: Add [!DNL LinkedIn] Matched Audiences as a [!DNL LaunchPoint] Service - Marketo ドキュメント – 製品ドキュメント
+title: Add [!DNL LinkedIn] Matched Audiences as a [!DNL LaunchPoint] Service
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 100%
+source-wordcount: '206'
+ht-degree: 39%
 
 ---
 
-# LinkedIn と一致したオーディエンスを LaunchPoint サービスとして追加する {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+# 一致 [!DNL LinkedIn] たオーディエンスの [!DNL LaunchPoint] Service としての追加 {#add-linkedin-matched-audiences-as-a-launchpoint-service}
 
 >[!IMPORTANT]
 >
@@ -21,7 +21,7 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-Marketo Engage アカウントを LinkedIn Matched Audiences に接続し、Marketo の静的リストまたはスマートリストを LinkedIn オーディエンスセグメントとして使用します。
+Marketo アカウントとマッチしたオーディエンス [!DNL LinkedIn] 接続して、Marketo静的リストまたはスマートリストを [!DNL LinkedIn] オーディエンスセグメントとして使用します。
 
 1. 「**[!UICONTROL 管理者]**」セクションに移動します。
 
@@ -39,15 +39,15 @@ Marketo Engage アカウントを LinkedIn Matched Audiences に接続し、Mark
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. LinkedIn アカウントに接続するには、「****&#x200B;を許可」をクリックします。
+1. [!DNL LinkedIn] アカウントに接続するには、「**[!UICONTROL 認証]**」をクリックします。
 
    ![](assets/authorizeaccount.png)
 
    >[!CAUTION]
    >
-   >Marketo が複数の LinkedIn 広告アカウント間でオーディエンスを送信するには、次の手順で承認した LinkedIn ユーザーが、Campaign Manager でこれらの広告アカウントの&#x200B;*すべて*&#x200B;にアクセスできる必要があります。
+   >Marketoが複数の [!DNL LinkedIn] 広告アカウントでオーディエンスに送信するには、次の手順で承認する [!DNL LinkedIn] ユーザーが Campaign Manager のこれらの広告アカウントの *すべて* にアクセスできる必要があります。
 
-1. linkedIn が新しいタブで開きます。ここから、LinkedIn アカウントにログインします。
+1. [!DNL LinkedIn] が新しいタブで開きます。 ここから [!DNL LinkedIn] アカウントにログインします。
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
@@ -55,14 +55,14 @@ Marketo Engage アカウントを LinkedIn Matched Audiences に接続し、Mark
 
    ![](assets/li-permissions.png)
 
-1. これで、LinkedIn アカウントが Marketo に接続されました。「**[!UICONTROL 作成]**」をクリックします。
+1. これで、[!DNL LinkedIn] アカウントがMarketoに接続されました。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   これで完了です。これで、「インストール済みのサービス」タブに LaunchPoint サービスとして「LinkedIn 一致したオーディエンス」が表示されます。
+   これで完了です。一致したオーディエンス [!DNL LinkedIn] 「インストール済みサービス」タブに、[!DNL LaunchPoint] サービスとして表示されます。
 
    ![](assets/bartholomew2.png)
 
 >[!MORELIKETHIS]
 >
->[LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
+>[Marketoリストまたはスマートリストをオーディエンスセグメ  [!DNL LinkedIn]  トとして使用 ](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

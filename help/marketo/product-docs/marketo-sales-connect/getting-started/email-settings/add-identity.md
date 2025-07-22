@@ -4,7 +4,7 @@ description: ID を追加 - Marketo ドキュメント - 製品ドキュメン�
 title: ID を追加
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%
@@ -21,11 +21,11 @@ ht-degree: 100%
 
 1. 設定アイコンをクリックします。
 
-1. 「**メール設定**」をクリックします。
+1. 「**[!UICONTROL メール設定]**」をクリックします。
 
-1. 「**ID を追加**」をクリックします。
+1. 「**[!UICONTROL ID を追加]**」をクリックします。
 
-1. 情報を入力します（メールと名前は必須フィールドです）。入力が完了したら、「**作成**」をクリックします。
+1. 情報を入力します（メールと名前は必須フィールドです）。入力が完了したら、「**[!UICONTROL 作成]**」をクリックします。
 
 1. 受信した確認用メールのリンクをクリックします。
 

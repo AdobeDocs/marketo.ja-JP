@@ -4,24 +4,24 @@ description: Microsoft Dynamics 同期 - 商談の同期 - Marketo ドキュメ�
 title: Microsoft Dynamics 同期 - 商談の同期
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 9a130e0b2ec84b638adf37188b65b565b090fe1b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '311'
-ht-degree: 29%
+source-wordcount: '303'
+ht-degree: 15%
 
 ---
 
-# Microsoft Dynamics 同期：商談の同期 {#microsoft-dynamics-sync-opportunity-sync}
+# [!DNL Microsoft Dynamics] Sync: Opportunity Sync {#microsoft-dynamics-sync-opportunity-sync}
 
-DynamicsMarketo Engageは非常に強力です。 オポチュニティ同期の詳細を以下に示します。
+Marketoから [!DNL Dynamics] 同期は非常に強力です。 以下に、商談の同期に関するすべての詳細を示します。
 
 ## 2 つのシステム間での商談の詳細の同期方法 {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-商談の同期は、Dynamics から Marketo への一方向です。Dynamics で商談に変更を加えると、更新内容が Marketo に反映されます。
+オポチュニティの同期は、Marketoに [!DNL Dynamics] する方法の 1 つです。 [!DNL Dynamics] でオポチュニティに変更を加えると、更新はMarketoに反映されます。
 
-## Marketo を使用した Dynamics の商談の作成 {#can-i-create-an-opportunity-in-dynamics-using-marketo}
+## Marketoを使用して [!DNL Dynamics] でオポチュニティを作成できますか？ {#can-i-create-an-opportunity-in-dynamics-using-marketo}
 
-Marketo ではなく、Dynamics で商談を作成する必要があります。商談は自動的に Marketo に同期されます。
+いいえ、[!DNL Dynamics] でオポチュニティを作成する必要があります。作成したオポチュニティはMarketoと自動的に同期されます。
 
 ## Marketo に同期されるフィールド {#what-fields-will-sync-to-marketo}
 

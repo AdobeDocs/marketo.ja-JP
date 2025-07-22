@@ -4,7 +4,7 @@ description: レポートの更新 - Marketo ドキュメント - 製品ドキ�
 title: レポートの更新
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
    ![](assets/two.png)
 
-1. また、**レポートアクション**&#x200B;メニューをクリックし、「**レポートを更新**」を選択して更新することもできます。
+1. また、**[!UICONTROL レポートアクション]**&#x200B;メニューをクリックし、「**[!UICONTROL レポートを更新]**」を選択して更新することもできます。
 
    ![](assets/three.png)
 

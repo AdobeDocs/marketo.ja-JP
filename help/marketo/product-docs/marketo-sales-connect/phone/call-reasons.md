@@ -3,10 +3,10 @@ description: 通話理由 - Marketo ドキュメント - 製品ドキュメン�
 title: 通話理由
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -20,15 +20,15 @@ ht-degree: 100%
 
 ## 通話理由を有効にする {#enable-call-reasons}
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/call-reasons-1.png)
 
-1. 「管理者設定」で「**ダイヤラー**」を選択します。
+1. [!UICONTROL Admin Settings] で **[!UICONTROL Dialer]** を選択します。
 
    ![](assets/call-reasons-2.png)
 
-1. 「**通話理由を有効にする**」を選択します。
+1. 「**[!UICONTROL 通話理由を有効にする]**」を選択します。
 
    ![](assets/call-reasons-3.png)
 
@@ -42,19 +42,19 @@ ht-degree: 100%
 >
 >通話理由は最大 15 件作成できます。
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/call-reasons-5.png)
 
-1. 「管理者設定」で「**ダイヤラー**」を選択します。
+1. [!UICONTROL Admin Settings] で **[!UICONTROL Dialer]** を選択します。
 
    ![](assets/call-reasons-6.png)
 
-1. 「**通話理由を管理**」をクリックします。
+1. **[!UICONTROL 通話理由の管理]** をクリックします。
 
    ![](assets/call-reasons-7.png)
 
-1. 目的の通話理由名をテキストフィールドに入力し、「**追加**」をクリックします。
+1. 目的の通話理由名をテキストフィールドに入力し、「**[!UICONTROL 追加]**」をクリックします。
 
    ![](assets/call-reasons-8.png)
 
@@ -66,7 +66,7 @@ ht-degree: 100%
 
    ![](assets/call-reasons-9.png)
 
-1. ダイヤラーで通話情報を入力し、「**通話**」をクリックします。
+1. ダイヤラーで通話情報を入力し、「**[!UICONTROL 通話]**」をクリックします。
 
    ![](assets/call-reasons-10.png)
 

@@ -4,42 +4,42 @@ description: Salesforce Lightning での一括アクション - Marketo ドキ�
 title: Salesforce Lightning での一括アクション
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 83%
 
 ---
 
-# Salesforce Lightning での一括アクション {#bulk-actions-in-salesforce-lightning}
+# [!DNL Salesforce Lightning] での一括アクション {#bulk-actions-in-salesforce-lightning}
 
-Salesforce Lightning で一括アクションを設定する方法を次に示します。
+[!DNL Salesforce Lightning] で一括アクションを設定する方法を以下に示します。
 
-1. Salesforce で、設定アイコンをクリックし、「**設定**」を選択します。
+1. [!DNL Salesforce] で、「設定」アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. 「**オブジェクトマネージャー**」タブをクリックします。
+1. 「**[!UICONTROL オブジェクトマネージャー]**」タブをクリックします。
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 
-1. 「**リード**」ラベルを見つけて選択します。
+1. 「**[!UICONTROL リード]**」ラベルを見つけて選択します。
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. 「**Salesforce Classic の検索レイアウト**」をクリックします。
+1. 「**[!UICONTROL Salesforce Classic の検索レイアウト]**」をクリックします。
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
-   リスト表示レイアウトを見つけます。右側のドロップダウンをクリックし、「**編集**」を選択します。
+   リスト表示レイアウトを見つけます。右側のドロップダウンをクリックし、「**[!UICONTROL 編集]**」を選択します。
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
-1. 「カスタムボタン」で、「**Marketo Campaign に追加（lightning）**」および「**Marketo メールを送信（lightning）**」を探して選択します。「**追加**」ボタンをクリックします。
+1. 「カスタムボタン」で、「**[!UICONTROL Marketo Campaign に追加（lightning）]**」および「**[!UICONTROL Marketo メールを送信（lightning）]**」を探して選択します。「**[!UICONTROL 追加]**」ボタンをクリックします。
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 

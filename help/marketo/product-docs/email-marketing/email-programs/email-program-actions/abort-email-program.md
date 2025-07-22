@@ -4,7 +4,7 @@ description: メールプログラムの中止 - Marketo ドキュメント - �
 title: メールプログラムの中止
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
@@ -19,11 +19,11 @@ ht-degree: 100%
 >
 >この記事は、メールが送信されるのを送信前に防ぐためのものです。送信済みのメールを取り消す方法はありません。
 
-1. メールプログラムで、「**プログラムを中止**」をクリックします。
+1. メールプログラムで、「**[!UICONTROL プログラムを中止]**」をクリックします。
 
    ![](assets/dashboardleads.jpg)
 
-1. 「**中止**」をクリックして確認します。
+1. 「**[!UICONTROL 中止]**」をクリックして確認します。
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

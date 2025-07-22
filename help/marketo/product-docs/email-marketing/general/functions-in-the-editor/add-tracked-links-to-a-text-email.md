@@ -4,9 +4,9 @@ description: テキストメールに追跡リンクを追加する - Marketo �
 title: テキストメールに追跡リンクを追加する
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
-workflow-type: ht
-source-wordcount: '157'
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '164'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,9 @@ Marketo では、テキストのメールリンクを追跡できます。 仕�
 
 1. メールを選択して、「**ドラフトを編集**」をクリックします。
 
-![](assets/one-9.png)
+1. メールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
+
+   ![](assets/one-9.png)
 
 1. リンクを追加する編集可能領域をダブルクリックします。
 

@@ -4,18 +4,18 @@ description: ランディングページの効果レポートをフィルター�
 title: ランディングページの効果レポートをフィルターする
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 100%
+ht-degree: 59%
 
 ---
 
 # ランディングページの効果レポートをフィルターする {#filter-a-landing-page-performance-report}
 
-プログラム（ローカルアセット）のランディングページ、Design Studio のランディングページ（グローバルアセット）、またはアーカイブされたランディングページに[ランディングページのパフォーマンスレポート](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)の焦点を合わせます。
+[ ランディングページのパフォーマンスレポート ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md) プログラムのランディングページ（ローカルアセット）、[!UICONTROL Design Studio] のランディングページ（グローバルアセット）、またはアーカイブされたランディングページにフォーカスします。
 
-1. **Analytics**（または&#x200B;**マーケティングアクティビティ**）エリアに移動します。
+1. **[!UICONTROL Analytics]**（または&#x200B;**[!UICONTROL マーケティングアクティビティ]**）エリアに移動します。
 
    ![](assets/analyticstile.png)
 
@@ -23,13 +23,13 @@ ht-degree: 100%
 
    ![](assets/image2014-9-18-15-3a46-3a6.png)
 
-1. 「**セットアップ**」タブをクリックして、フィルターをドラッグします。
+1. 「**[!UICONTROL セットアップ]**」タブをクリックして、フィルターをドラッグします。
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **Design Studio のランディングページ**：Design Studio で管理されているグローバルアセット。
-   * **マーケティングアクティビティランディングページ**：「マーケティングアクティビティ」タブのプログラム内のローカルアセット。
-   * **アーカイブランディングページ**：非アクティブの、すでに使われていないランディングページ。
+   * **[!UICONTROL Design Studio ランディングページ ]:** Design Studio[!UICONTROL  で管理される ] グローバルアセット。
+   * **[!UICONTROL マーケティングアクティビティのランディングページ ]:** マーケティングアクティビティ [!UICONTROL  タブのプログラムのローカルアセットを ] きます。
+   * **[!UICONTROL アーカイブされたランディングページ ]:** 非アクティブで廃止されたランディングページ。
 
 1. レポートに含めるフォルダーと特定のランディングページを選択します。
 
@@ -39,6 +39,6 @@ ht-degree: 100%
    >
    >フォルダーを選択すると、レポートの実行時にフォルダーに含まれるすべての項目がレポートに含まれます。
 
-1. 完了です。「**レポート**」タブをクリックし、フィルターされたレポートを確認します。
+1. 完了です。「**[!UICONTROL レポート]**」タブをクリックし、フィルターされたレポートを確認します。
 
    ![](assets/image2014-9-18-15-3a47-3a21.png)

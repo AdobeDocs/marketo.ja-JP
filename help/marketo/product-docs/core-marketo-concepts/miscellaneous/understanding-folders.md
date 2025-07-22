@@ -3,10 +3,10 @@ unique-page-id: 4720779
 description: フォルダーについて - Marketo ドキュメント - 製品ドキュメント
 title: フォルダーについて
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '267'
-ht-degree: 82%
+ht-degree: 79%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 82%
 
 ## フォルダーのアーカイブ {#archive-a-folder}
 
-Marketo では、既存のフォルダーをアーカイブフォルダーに変換できます。アーカイブフォルダーは、マーケティング活動、データベース、Design Studio に存在します。
+Marketo では、既存のフォルダーをアーカイブフォルダーに変換できます。アーカイブフォルダーは、[!UICONTROL  マーケティングアクティビティ ]、[!UICONTROL  データベース ] および [!UICONTROL Design Studio] に存在します。
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 

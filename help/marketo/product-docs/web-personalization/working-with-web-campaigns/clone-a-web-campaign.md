@@ -4,20 +4,20 @@ description: Web キャンペーンを複製する - Marketo ドキュメント 
 title: Web キャンペーンを複製する
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 100%
+ht-degree: 77%
 
 ---
 
 # Web キャンペーンを複製する {#clone-a-web-campaign}
 
-Web キャンペーンページのクローン機能を使用して、キャンペーンの設定をコピーし、分割テスト最適化のためのコンテンツを変更したり、同じコンテンツを持つキャンペーンを複製して、別のセグメントをターゲットにしたりします。Web キャンペーンを数秒で作成します。
+[!UICONTROL Web キャンペーン ] ページのクローン機能を使用して、キャンペーンの設定をコピーし、分割テストの最適化のためのコンテンツを変更するか、同じコンテンツを含むキャンペーンをクローンして別のセグメントをターゲットに設定します。 Web キャンペーンを数秒で作成します。
 
 ## クローンキャンペーンを作成する {#create-a-clone-campaign}
 
-1. 「**Web キャンペーン**」に移動します
+1. 「**[!UICONTROL Web キャンペーン]**」に移動します
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 

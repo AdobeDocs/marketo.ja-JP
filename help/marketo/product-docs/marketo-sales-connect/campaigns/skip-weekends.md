@@ -4,10 +4,10 @@ description: 週末のスキップ - Marketo ドキュメント - 製品ドキ�
 title: 週末のスキップ
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '67'
+ht-degree: 85%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 キャンペーンを自動化する場合、土曜日や日曜日にメールを配信したくない場合があります。その場合、週末をスキップできます。
 
-1. Sales Connect で、「**キャンペーン**」タブをクリックします。
+1. [!DNL Sales Connect] で、「**[!UICONTROL Campaigns]**」タブをクリックします。
 
    ![](assets/one-2.png)
 
@@ -23,11 +23,11 @@ ht-degree: 100%
 
    ![](assets/two-2.png)
 
-1. 「**設定**」をクリックします。
+1. 「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/three-2.png)
 
-1. 「**週末をスキップ**」チェックボックスを選択します。
+1. 「**[!UICONTROL 週末をスキップ]**」チェックボックスを選択します。
 
    ![](assets/four-2.png)
 

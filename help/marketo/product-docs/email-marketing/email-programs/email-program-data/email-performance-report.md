@@ -4,8 +4,8 @@ description: メールの効果レポート — Marketo ドキュメント — �
 title: メールパフォーマンスレポート
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 100%
 
@@ -15,8 +15,8 @@ ht-degree: 100%
 
 配信、開封、クリックなどの統計を使用したメールの効果を確認するには、メールの効果レポートを作成します。
 
-1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**メール効果**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
-1. [レポート時間枠を変更](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**レポート**」タブをクリックします。
+1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL メール効果]**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
+1. [レポート時間枠を変更](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**[!UICONTROL レポート]**」タブをクリックします。
 1. レポートが表示されました。次に、レポートを表示して、メールの効果を確認します。
 
    >[!NOTE]
@@ -31,7 +31,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >メール効果レポートには、メール配信後に削除されたリードも含まれます。アクティブなリードのアクティビティのみを表示したい場合があります。その場合は、削除したユーザーをレポートから除外する必要があります。「**スマートリスト**」タブを使用して、レポートの[スマートリストを作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)します。特定のフィールドに対してフィルターを適用しない場合は、「メールアドレス」フィルターを&#x200B;**空でない**&#x200B;に設定します。
+   >メール効果レポートには、メール配信後に削除されたリードも含まれます。アクティブなリードのアクティビティのみを表示したい場合があります。その場合は、削除したユーザーをレポートから除外する必要があります。「**[!UICONTROL スマートリスト]**」タブを使用して、レポートの[スマートリストを作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)します。特定のフィールドに対してフィルターを適用しない場合は、「メールアドレス」フィルターを&#x200B;**[!UICONTROL 空でない]**&#x200B;に設定します。
 
    以下のレポート列から、キャンペーンメール効果レポートに含める[レポート列を選択](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)します。
 
@@ -75,11 +75,11 @@ ht-degree: 100%
 
 * **ルール 1**：各メールアクティビティレコードは、 _配信済み_、 _ハードバウンス_、 _ソフトバウンス_、 _保留中_&#x200B;のいずれか 1 つのみに設定されます。
 
-* **ルール 2**：メールのレコードが&#x200B;*開封済み*&#x200B;を示したら、*配信済み*&#x200B;としてカウントされます。
+* **ルール 2**：メールのレコードが&#x200B;*[!UICONTROL 開封済み]*&#x200B;を示したら、*配信済み*&#x200B;としてカウントされます。
 
-* **ルール 3**：メールのレコードが&#x200B;_クリック済みメール_&#x200B;あるいは&#x200B;_登録解除_&#x200B;を示したら、_配信済み_&#x200B;あるいは&#x200B;_開封済み_&#x200B;としてカウントされます。
+* **ルール 3**：メールのレコードが&#x200B;_[!UICONTROL クリック済みメール]_&#x200B;あるいは&#x200B;_[!UICONTROL 登録解除]_&#x200B;を示したら、_配信済み_&#x200B;あるいは&#x200B;_開封済み_&#x200B;としてカウントされます。
 
-* **ルール 4**：メールが&#x200B;_開封済み_&#x200B;の場合、バウンスは無視されます。メールが開封されていない場合、_ハードバウンス_&#x200B;が&#x200B;_ソフトバウンス_&#x200B;および&#x200B;_配信_&#x200B;よりも優先されます。
+* **ルール 4**：メールが&#x200B;_[!UICONTROL 開封済み]_&#x200B;の場合、バウンスは無視されます。メールが開封されていない場合、_ハードバウンス_&#x200B;が&#x200B;_ソフトバウンス_&#x200B;および&#x200B;_配信_&#x200B;よりも優先されます。
 
 * **ルール 5**：送信から 3 日後にメールアクティビティを受信しなかった場合、それは「_中止_」と見なされます。
 

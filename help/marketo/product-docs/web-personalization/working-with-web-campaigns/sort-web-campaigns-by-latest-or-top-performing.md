@@ -4,7 +4,7 @@ description: 新しい順または効果の高い順に web キャンペーン�
 title: 新しい順または効果の高い順に web キャンペーンを並べ替える
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 Web キャンペーンは、いくつかの異なる方法で並べ替えることができます。
 
-1. **Web キャンペーン**&#x200B;に移動します。
+1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -25,9 +25,9 @@ Web キャンペーンは、いくつかの異なる方法で並べ替えるこ�
    >
    >**定義**
    >
-   >**最新** - 作成された日付に基づいてキャンペーンを並べ替えます。最新のキャンペーンが上部に表示されます。
+   >**[!UICONTROL 最新]** - 作成された日付に基づいてキャンペーンを並べ替えます。最新のキャンペーンが上部に表示されます。
    >
-   >**実績上位** - クリックスルー率に基づいてキャンペーンを並べ替えます。最も高いクリックスルー率が一番上にあります。
+   >**[!UICONTROL 実績上位]** - クリックスルー率に基づいてキャンペーンを並べ替えます。最も高いクリックスルー率が一番上にあります。
 
    ![](assets/image2016-11-4-13-3a34-3a59.png)
 

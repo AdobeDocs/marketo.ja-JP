@@ -4,10 +4,10 @@ description: メールアドレスのカスタム同期フィルタールール 
 title: メールアドレスのカスタム同期フィルタールール
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
@@ -15,10 +15,9 @@ ht-degree: 20%
 
 メールアドレスのないレコードが同期されないようにするには、次のルールに従います。
 
-* リードを作成するとき、またはリードのメールアドレスフィールドが更新されたときに、リードにメールアドレスがあるかどうかを確認し、ある場合は「同期」を「mkto」に変更します **[!UICONTROL True]**。 それ以外の場合は **[!UICONTROL False]** に変更します。
+* リードが作成されたとき、またはリードのメールアドレスフィールドが更新されたときは、リードにメールアドレスが含まれているかどうかを確認して、ある場合は「同期」を「**[!UICONTROL True]**」に変更します。それ以外の場合は、「**[!UICONTROL False]**」に変更します。
 
-* 連絡先が作成された場合、または連絡先の [E メール アドレス ] フィールドが更新された場合は、[ アカウント ] レコードで、[ 同期 ] を [Mkto] に **[!UICONTROL True]**、[ 同期 ] を [Mkto] に **[!UICONTROL True]** に変更します。 それ以外の場合は、**[!UICONTROL False]** に変更します。
+* 取引先責任者が作成された場合、また取引先責任者先のメールアドレスフィールドが更新された場合は、取引先責任者にメールアドレスが含まれているかどうかを確認し、存在する場合は「Mkto に同期」を **[!UICONTROL True]** にし、アカウントレコードで「Mkto に同期」を **[!UICONTROL True]** に変更します。それ以外の場合は、「**[!UICONTROL False]**」に、変更します。
 
-* 連絡先の「会社名（parentcustomerid）」フィールドが更新されたら、連絡先の「Mkto に同期」フィールドが true であるかどうかを確認します。 その場合は、アカウントの「同期」を「Mkto」に変更し、**[!UICONTROL True]** に変更します。
-
-* オポチュニティの「見込み顧客（customerid）」フィールドまたは「連絡先（parentcontactid）」が更新された場合、アカウントの「Mkto に同期」フィールドが true であるか、連絡先の「Mkto に同期」フィールドが true であるかを確認します。 その場合は、機会に **[!UICONTROL True]** にも同期を Mkto に変更します。
+* 取引先責任者の「会社名 (parentcustomerid)」フィールドが更新されたら、その取引先責任者の「Mkto と同期」フィールドが true かどうかを確認します。その場合は、アカウント上の「Mkto と同期」も「**[!UICONTROL True]**」に変更します。
+* 商談の「見込み客（customerid）」フィールドまたは「取引先責任者（parentcontactid）」が更新されたら、アカウントの「Mkto に同期」フィールドが true か、または取引先責任者の「Mkto に同期」フィールドが true かを確認します。その場合は、商談でも「Mkto に同期」を **[!UICONTROL True]** に変更します。

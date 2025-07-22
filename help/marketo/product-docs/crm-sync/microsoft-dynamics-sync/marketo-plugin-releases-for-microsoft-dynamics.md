@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10099389
-description: Microsoft Dynamics 向け Marketo プラグインリリース - Marketo ドキュメント - 製品ドキュメント
-title: Microsoft Dynamics 向け Marketo プラグインリリース
+description: Marketo プラグインリリース  [!DNL Microsoft Dynamics] - Marketo ドキュメント – 製品ドキュメント
+title: Marketo プラグインのリリース  [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: f1fd9564abe4702c3a124442ee26027d4d22f23d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 86%
+source-wordcount: '457'
+ht-degree: 61%
 
 ---
 
-# Microsoft Dynamics 向け Marketo プラグインリリース {#marketo-plugin-releases-for-microsoft-dynamics}
+# [!DNL Microsoft Dynamics] 用Marketo プラグインのリリース {#marketo-plugin-releases-for-microsoft-dynamics}
 
-Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグインの最新バージョンをダウンロードします。Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
+[!DNL Microsoft Dynamics] に初めて同期する際には、Marketo用のプラグインの最新バージョンをダウンロードします。 Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-お使いの Dynamics リリースに対応した、[最新のプラグインをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}してください。
+[ リリースに対応する ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 最新のプラグインをダウンロード [!DNL Dynamics] します。
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
-## Dynamics ソリューションのアップデート {#updating-your-dynamics-solution}
+## [!DNL Dynamics] ソリューションの更新 {#updating-your-dynamics-solution}
 
-1. Dynamics CRM の既存のバージョンに対して、ソリューションの最新バージョンをインポートします（例：Dynamics CRM のバージョンが 1.4 で、最新バージョンが 1.5 の場合は、バージョン 1.4 _以降_&#x200B;をインポートします）。
+1. 既存のバージョンの [!DNL Dynamics] CRM に対して、ソリューションの最新バージョンをインポートします（例：[!DNL Dynamics] CRM のバージョンが 1.4 で、最新バージョンが 1.5 の場合は、_over_ バージョン 1.4 をインポートします）。
 
 1. 次のポップアップが表示されます。「**アップデート**」および「**カスタマイズを維持**」を選択し、「**インポート**」をクリックします。
 
@@ -31,7 +31,7 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
 
 >[!NOTE]
 >
->これらのバージョンは、Dynamics のオンプレミスバージョンとオンラインバージョンの両方で機能します。
+>これらのバージョンは、[!DNL Dynamics] のオンプレミスバージョンとオンラインバージョンの両方で機能します。
 
 <table> 
  <tbody> 
@@ -51,21 +51,19 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
    <td>バグ修正：MS Dynamics で連絡先を結合できないバグを修正しました。</td> 
   </tr> 
   <tr> 
-   <td>5.0.1.8</td> 
-   <td>2023/3/27</td> 
-   <td>バグ修正：プラグインが MS Dynamics の UI 要素の他のカスタマイズを上書きするのを防ぎます。
-   <p>
-   バグ修正：5.0.1.1 で欠落したナビゲーションタイルを復元しました。</td> 
+   <td colspan="1">4.2.0.0</td> 
+   <td colspan="1">2020/10/16</td> 
+   <td colspan="1">MS [!DNL Dynamics] でのキャンペーン同期のサポートを追加しました。</td> 
   </tr> 
   <tr> 
-   <td>5.0.1.1</td> 
-   <td>2021/04/02</td> 
-   <td>複数選択オプションセットフィールドの同期のサポート（この機能は V9.X 以降でのみ利用可能）。</td> 
+   <td colspan="1">4.0.0.24</td> 
+   <td colspan="1">2018/08/22</td> 
+   <td colspan="1">[!DNL Microsoft Dynamics] バージョン 9.x の標準のリード認定サポートを追加して、連絡先プロセスをサポートするようになりました。</td> 
   </tr> 
   <tr> 
-   <td>4.2.0.0</td> 
-   <td>2020/10/16</td> 
-   <td>MS Dynamics との Campaign 同期のサポートを追加しました。</td> 
+   <td colspan="1">4.0.0.23</td> 
+   <td colspan="1">2018/06/27</td> 
+   <td colspan="1">バグ修正：[!DNL Dynamics] 2013 のMarketo ソリューションのインストールを試みている際にビジネスプロセスエラーが発生しました。</td> 
   </tr> 
   <tr> 
    <td>4.0.0.24</td> 
@@ -73,9 +71,9 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
    <td>Microsoft Dynamics バージョン 9.x 標準の、認定リードの取引先責任者プロセスに対するサポートが追加されました。</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.23</td> 
-   <td>2018/06/27</td> 
-   <td>バグ修正：Dynamics 2013 用 Marketo ソリューションのインストール中に発生するビジネスプロセスエラー。</td> 
+   <td colspan="1"><p>4.0.0.21</p></td> 
+   <td colspan="1">2016/11/9</td> 
+   <td colspan="1">バグ修正：プラグインは、カスタムオブジェクトのステート変更をキャプチャするイベントをサブスクライブしませんでした。この修正は、[!DNL Dynamics] CRM オンプレミス 2011 に固有です。 </td> 
   </tr> 
   <tr> 
    <td>4.0.0.22</td> 
@@ -118,14 +116,14 @@ Microsoft Dynamics に初めて同期するときは、Marketo 用のプラグ�
    <td>バグ修正：ログインユーザに Marketo 設定の権限がないので、顧客が CRM でリードを作成できませんでした。</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.14</td> 
-   <td>2016/01/18</td> 
-   <td>バグ修正：セキュリティ上の問題に対処するために、通常の Dynamics ユーザのアクセス制限を作成しました。</td> 
+   <td colspan="1">4.0.0.14</td> 
+   <td colspan="1">2016/01/18</td> 
+   <td colspan="1">バグ修正：セキュリティ上の問題に対処するために、通常の [!DNL Dynamics] ユーザーに対するアクセス制限を作成しました。</td> 
   </tr> 
   <tr> 
-   <td>4.0.0.13</td> 
-   <td>2015/12/30</td> 
-   <td>バグ修正：Dynamics のアップデートが、Marketo のステップと画像に同期されませんでした。</td> 
+   <td colspan="1">4.0.0.13</td> 
+   <td colspan="1">2015/12/30</td> 
+   <td>バグ修正：[!DNL Dynamics] のアップデートが、手順や画像についてMarketoと同期されていませんでした。</td> 
   </tr> 
   <tr> 
    <td>4.0.0.12</td> 

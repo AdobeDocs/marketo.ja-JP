@@ -4,16 +4,16 @@ description: メールへの添付ファイルまたはトラック可能コン�
 title: メールへの添付ファイルまたはトラック可能コンテンツの追加
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 100%
+source-wordcount: '290'
+ht-degree: 74%
 
 ---
 
-# メールに添付ファイルまたはトラッキング可能なコンテンツを追加する {#add-an-attachment-or-trackable-content-to-your-email}
+# メールへの添付ファイルまたはトラック可能コンテンツの追加 {#add-an-attachment-or-trackable-content-to-your-email}
 
-Sales Connect を通じてメールを送信する場合、ファイルを添付ファイルとして追加するか、ファイルをダウンロード可能（かつトラッキング可能）なリンクにするかを選択できます。
+[!DNL Sales Connect] 経由でメールを送信する場合、ファイルを添付ファイルとして追加するか、ファイルをダウンロード可能な（トラッキング可能な）リンクにするオプションがあります。
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Sales Connect を通じてメールを送信する場合、ファイルを添付
 
 ## 添付ファイルの追加 {#add-an-attachment}
 
-1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**作成**」を選択しています）。
+1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**[!UICONTROL 作成]**」を選択しています）。
 
    ![](assets/one-4.png)
 
-1. 「宛先」フィールドに入力し、「件名」を入力します。
+1. 「[!UICONTROL  宛先 ]」フィールドに入力し、「件名 [!UICONTROL  を入力 ] ます。
 
    ![](assets/attach-two.png)
 
@@ -33,7 +33,7 @@ Sales Connect を通じてメールを送信する場合、ファイルを添付
 
    ![](assets/attach-three.png)
 
-1. 添付するファイルを選択し、「**挿入**」をクリックします。
+1. 添付するファイルを選択し、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/attach-four.png)
 
@@ -47,11 +47,11 @@ Sales Connect を通じてメールを送信する場合、ファイルを添付
 
 ## トラック可能コンテンツを追加 {#add-trackable-content}
 
-1. メールのドラフトを作成します（複数の方法があります。この例では、作成ウィンドウを選択します）。
+1. メールドラフトを作成します（これを行う方法は複数あります。この例では、「[!UICONTROL  作成 ]」ウィンドウを選択しています）。
 
    ![](assets/one-4.png)
 
-1. 「宛先」フィールドに入力し、「件名」を入力します。
+1. 「[!UICONTROL  宛先 ]」フィールドに入力し、「件名 [!UICONTROL  を入力 ] ます。
 
    ![](assets/two-4.png)
 
@@ -59,7 +59,7 @@ Sales Connect を通じてメールを送信する場合、ファイルを添付
 
    ![](assets/three-4.png)
 
-1. トラックするコンテンツを選択し、「**コンテンツをトラック**」スライダーをクリックし、「**挿入**」をクリックします。
+1. 追加するコンテンツを選択し、「**[!UICONTROL コンテンツは追跡されています]**」スライダーをクリックして、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/four-4.png)
 

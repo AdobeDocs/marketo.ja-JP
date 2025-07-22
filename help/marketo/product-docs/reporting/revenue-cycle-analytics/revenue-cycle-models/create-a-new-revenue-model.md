@@ -4,28 +4,28 @@ description: 収益モデルの新規作成 - Marketo ドキュメント - 製�
 title: 収益モデルの新規作成
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
 # 収益モデルの新規作成 {#create-a-new-revenue-model}
 
-1. 収益サイクルモデルを新規作成するには、My Marketo ホーム画面の「**分析**」ボタンをクリックします。
+1. 新しい収益サイクルモデルを作成するには、**[!UICONTROL My Marketo]** ホーム画面の [!UICONTROL Analytics] ボタンをクリックします。
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. 「**分析**」タブで、「**新規作成**」をクリックして、「**新規収益サイクルモデル**」を選択します。
+1. 「**[!UICONTROL 分析]**」タブで、「**[!UICONTROL 新規作成]**」をクリックして、「**[!UICONTROL 新規収益サイクルモデル]**」を選択します。
 
    ![](assets/image2015-4-27-11-3a55-3a51.png)
 
-1. **新規収益サイクルモデル**&#x200B;モーダルウィンドウが表示されます。名前を入力して「**作成**」をクリックします。
+1. **[!UICONTROL 新規収益サイクルモデル]**&#x200B;モーダルウィンドウが表示されます。名前を入力して「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2015-4-27-11-3a57-3a59.png)
 
-1. モデルのホームビューで「**下書きの編集**」をクリックします。
+1. モデルのホームビューで「**[!UICONTROL 下書きの編集]**」をクリックします。
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 

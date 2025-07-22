@@ -4,10 +4,10 @@ description: スケジュール表示からのプログラム全体の再スケ�
 title: スケジュール表示からのプログラム全体の再スケジュール
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 100%
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. アンカーエントリを選択します。この移動に基づいて、他のすべてのエントリも一緒に移動します。
+1. [!UICONTROL  アンカーエントリ ] を選択します。 この移動に基づいて、他のすべてのエントリも一緒に移動します。
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
-1. 新しい開始日を選択します。
+1. [!UICONTROL  新しい開始日 ] を選択します。
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 

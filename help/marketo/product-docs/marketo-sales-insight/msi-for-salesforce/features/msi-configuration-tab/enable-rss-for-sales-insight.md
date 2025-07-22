@@ -4,34 +4,34 @@ description: Sales Insight の RSS を有効にする - Marketo ドキュメン�
 title: Sales Insight の RSS を有効にする
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 100%
+source-wordcount: '90'
+ht-degree: 45%
 
 ---
 
-# Sales Insight の RSS を有効にする {#enable-rss-for-sales-insight}
+# [!DNL Sales Insight] の RSS を有効にする {#enable-rss-for-sales-insight}
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-Marketo のユーザーが Salesforce だけでなく RSS フィードでもリードフィードを表示したい場合は、Marketo 管理者が最初に有効にする必要があります。手順は簡単です。
+Marketo ユーザーが [!DNL Salesforce] だけでなく RSS フィードでもリードフィードを表示したい場合は、まずMarketo管理者が有効にする必要があります。 手順は簡単です。
 
-1. My Marketo で、「**管理者**」をクリックし、「**Sales Insight**」をクリックします。
+1. マイ Marketoで **[!UICONTROL 管理者]** をクリックし、**[!DNL Sales Insight]** をクリックします。
 
    ![](assets/set-up-rss-1-hands.png)
 
-1. 「設定」で、「**編集**」をクリックします。RSS フィードは、**無効**&#x200B;と表示されます。
+1. 「設定」で、「**[!UICONTROL 編集]**」をクリックします。RSS フィードは、**[!UICONTROL 無効]**&#x200B;と表示されます。
 
    ![](assets/rss-settings-tab.png)
 
-1. 設定を編集ダイアログボックスで、「**RSS フィード**」チェックボックスをオンにし、「**保存**」をクリックします。
+1. [!UICONTROL  設定を編集 ] ダイアログボックスで、「**[!UICONTROL RSS フィード]**」チェックボックスをオンにして、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/rss-edit-settings-2-hands.png)
 
-   RSS フィードが&#x200B;**有効**&#x200B;と表示されるようになりました。
+   RSS フィードが&#x200B;**[!UICONTROL 有効]**&#x200B;と表示されるようになりました。
 
    ![](assets/rss-final-box.png)
 

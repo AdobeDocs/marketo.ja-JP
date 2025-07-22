@@ -4,7 +4,7 @@ description: フォームへのリッチテキストの追加 - Marketo ドキ�
 title: フォームへのリッチテキストの追加
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 フィールド間に手順やその他の情報を追加するには、フォームでリッチテキストを使用します。ご確認ください。
 
-1. **マーケティング活動**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. フォームを選択して、「**フォームの編集**」をクリックします。
+1. フォームを選択して、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. 「**リッチテキスト**」を選択します。
+1. 「**[!UICONTROL リッチテキスト]**」を選択します。
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,15 +39,15 @@ ht-degree: 100%
    >
    >フォームに区切り記号が必要な場合は、「横線」ボタンを使用します。
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. 「**終了**」をクリックします。
+1. 「**[!UICONTROL 終了]**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. 「**承認して閉じる**」をクリックします。
+1. 「**[!UICONTROL 承認して閉じる]**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 

@@ -1,63 +1,63 @@
 ---
 unique-page-id: 14745793
-description: CRM 用の Sales Connect のカスタマイズ - Marketo ドキュメント - 製品ドキュメント
-title: CRM 用の Sales Connect のカスタマイズ
+description: CRM の [!DNL Sales Connect] カスタマイズ - Marketo ドキュメント – 製品ドキュメント
+title: CRM 用の [!DNL Sales Connect] カスタマイズ
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
-workflow-type: ht
-source-wordcount: '690'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '676'
+ht-degree: 90%
 
 ---
 
-# CRM 用の Sales Connect のカスタマイズ {#sales-connect-customizations-for-crm}
+# CRM 用の [!DNL Sales Connect] カスタマイズ {#sales-connect-customizations-for-crm}
 
 以下のフィールドとボタンは、Salesforce CRM のメタデータ API によって作成されます。フィールドを作成したら、管理者は、CRM でページのレイアウトを設定して公開する必要があります。手順は[こちら](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)にあります。
 
-## Salesforce でのカスタマイズのインストール方法 {#how-to-install-customizations-in-salesforce}
+## [!DNL Salesforce] にカスタマイズをインストールする方法 {#how-to-install-customizations-in-salesforce}
 
-1. Sales Connect で、歯車アイコンをクリックし、「**設定**」を選択します。
+1. [!DNL Sales Connect] で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one.png)
 
-1. 管理設定で、**Salesforce** を選択します。
+1. [!UICONTROL  管理設定 ] で、**[!UICONTROL Salesforce]** を選択します。
 
    ![](assets/two.png)
 
-1. 「**Marketo Sales Connect のカスタマイズ**」をクリックします。
+1. **[!UICONTROL Marketo Sales Engage のカスタマイズ]** をクリックします。
 
    ![](assets/three.png)
 
-1. 「**Salesforce に接続**」をクリックします。
+1. 「**[!UICONTROL Salesforce に接続]**」をクリックします。
 
    ![](assets/four.png)
 
-1. Salesforce にログインします。
+1. [!DNL Salesforce] にログインします。
 
    ![](assets/five.png)
 
-## Salesforce カスタマイズのアップデート {#update-salesforce-customization}
+## [!DNL Salesforce] のカスタマイズの更新 {#update-salesforce-customization}
 
-Salesforce カスタマイズパッケージのアップデートには、機能強化とバグ修正が含まれます。アップデートが利用可能かどうか、またはアップデートを実行するには、次の手順に従います。
+[!DNL Salesforce] カスタマイズパッケージの更新には、機能強化とバグ修正が含まれます。 アップデートが利用可能かどうか、またはアップデートを実行するには、次の手順に従います。
 
 >[!NOTE]
 >
 >**管理者権限が必要。**
 
-1. [Web アプリケーション](https://www.toutapp.com)で、歯車アイコンをクリックし、「**設定**」を選択します。
+1. [Web アプリケーション](https://www.toutapp.com)で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. 管理設定で、**Salesforce** をクリックします。
+1. [!UICONTROL  管理者設定 ] で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. アップデートが利用可能な場合は、Sales Connect カスタマイズカードが表示されます。「**カスタマイズをアップデート**」をクリックします。
+1. 更新が利用可能な場合、[!DNL Sales Connect] カスタマイズカードが表示されます。 「**[!UICONTROL カスタマイズをアップデート]**」をクリックします。
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. 「**アップグレード**」をクリックします。
+1. 「**[!UICONTROL アップグレード]**」をクリックします。
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 

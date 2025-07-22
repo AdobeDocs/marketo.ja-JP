@@ -4,7 +4,7 @@ description: メールチャンピオン／挑戦者の追加 - Marketo ドキ�
 title: メールチャンピオン／挑戦者の追加
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 >
 >チャンピオン／挑戦者メールは、トリガーキャンペーンとエンゲージメントプログラムストリームでのみ機能します。バッチメールの場合は、メールプログラムの [A/B テスト機能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を使用します。
 
-1. **マーケティング活動**&#x200B;に移動します。
+1. **[!UICONTROL マーケティング活動]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
@@ -40,7 +40,7 @@ ht-degree: 100%
    >
    >1 回限りのメール配信について詳しくは、[メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を参照してください。
 
-1. 「**メールアクション**」で、「**新規テスト**」をクリックします。
+1. 「**[!UICONTROL メールアクション]**」で、「**[!UICONTROL 新規テスト]**」をクリックします。
 
    ![](assets/chmapion2.jpg)
 

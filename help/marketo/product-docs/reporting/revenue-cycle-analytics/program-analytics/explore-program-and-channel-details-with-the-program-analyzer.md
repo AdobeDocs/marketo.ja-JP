@@ -4,26 +4,26 @@ description: プログラムアナライザーを使用したプログラムお�
 title: プログラムアナライザーを使用したプログラムおよびチャネルの詳細の調査
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
-# プログラムアナライザーを使用したプログラムおよびチャネルの詳細の調査 {#explore-program-channel-details-with-the-program-analyzer}
+# [!UICONTROL  プログラムアナライザー ] によるプログラムとチャネルの詳細の探索 {#explore-program-channel-details-with-the-program-analyzer}
 
-詳細なプログラムおよびチャネル統計は、プログラムアナライザーで確認できます。また、収益サイクルエクスプローラーで開くこともできます。
+[!UICONTROL  プログラムアナライザー ] で、詳細なプログラムとチャネルの統計を確認できます。 また、収益サイクルエクスプローラーで開くこともできます。
 
 >[!PREREQUISITES]
 >
->[プログラムアナライザーの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[ プログラムアナライザ [!UICONTROL  の作成 ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
 >この機能は一部の Marketo エディションに含まれています。詳細はアカウントマネージャーにお問い合わせください。
 
-1. 「**分析**」をクリックします。
+1. 「**[!UICONTROL 分析]**」をクリックします。
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. チャネルまたはプログラムの特定の統計を確認するには（選択した&#x200B;**表示**&#x200B;による）、対応する吹き出しをクリックします。
+1. チャネルまたはプログラムの特定の統計を確認するには（選択した&#x200B;**[!UICONTROL 表示]**&#x200B;による）、対応する吹き出しをクリックします。
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
@@ -49,7 +49,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >1 つのチャネルをクリックすると、表示が「プログラム別」に切り替わり、そのチャネルのみにフィルタリングされます。すべてのチャネルに戻るには、**表示**／**チャネル別**&#x200B;を選択します。
+   >1 つのチャネルをクリックすると、表示が「プログラム別」に切り替わり、そのチャネルのみにフィルタリングされます。すべてのチャネルに戻るには、**[!UICONTROL 表示]**／**[!UICONTROL チャネル別]**&#x200B;を選択します。
 
 1. 収益サイクルエクスプローラーを開いて統計をさらに詳しく調べるには、ポップアップダイアログでその数をクリックします。
 

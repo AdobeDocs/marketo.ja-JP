@@ -4,7 +4,7 @@ description: Content-AI 用の JavaScript のデプロイ - Marketo ドキュメ
 title: Content-AI 用の JavaScript のデプロイ
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 100%
@@ -17,11 +17,11 @@ ht-degree: 100%
 
 ## タグの生成 {#generate-tag}
 
-1. 予測コンテンツアカウントにログインします。「**アカウント設定**」に移動します。
+1. 予測コンテンツアカウントにログインします。「**[!UICONTROL アカウント設定]**」に移動します。
 
    ![](assets/settings-dropdown-account-hands.png)
 
-1. 「**ドメイン設定**」で、関連するドメインを探し、「**タグを生成**」をクリックします。
+1. 「**[!UICONTROL ドメイン設定]**」で、関連するドメインを探し、「**[!UICONTROL タグを生成]**」をクリックします。
 
    ![](assets/generate-tag.png)
 
@@ -33,6 +33,6 @@ ht-degree: 100%
    >
    >Web パーソナライズの JavaScript タグをコピーし、ページヘッダー（`<head> </head>` タグの間）の最初のスクリプトとして貼り付けます。実装に関する詳細な手順は、[こちら](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)を参照してください。
 
-1. ランディングページとサブドメインも含めてすべてのページにタグがあることを確認します。Web サイトのページを右クリックして、これを確認します。Web ブラウザーで「**ページソースを表示**」に移動します。「RTP」を検索します。
+1. ランディングページとサブドメインも含めてすべてのページにタグがあることを確認します。Web サイトのページを右クリックして、これを確認します。Web ブラウザーで「**[!UICONTROL ページソースを表示]**」に移動します。「RTP」を検索します。
 
-1. タグの切り替えが「**ON**」に設定されていることを確認します。
+1. タグの切り替えが「**[!UICONTROL ON]**」に設定されていることを確認します。

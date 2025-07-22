@@ -4,16 +4,16 @@ description: Web パーソナライゼーション用語集 - Marketo ドキュ�
 title: Web パーソナライゼーション用語集
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 100%
+source-wordcount: '253'
+ht-degree: 92%
 
 ---
 
-# Web パーソナライゼーション用語集 {#web-personalization-glossary}
+# [!DNL Web Personalization] 用語集 {#web-personalization-glossary}
 
-Marketo web パーソナライズの世界と言語に関するインサイトがいくつかあります。
+[!DNL Marketo Web Personalization] の世界と言語に関するインサイト。
 
 | 用語 | 定義 |
 |---|---|
@@ -29,7 +29,7 @@ Marketo web パーソナライズの世界と言語に関するインサイト�
 
 ## ワイルドカードの例 {#wildcard-examples}
 
-Web パーソナライズでワイルドカードを使用する方法は 3 つあります。
+[!DNL Web Personalization] でワイルドカードを使用する方法は 3 つあります。
 
 pricing で終わるページ URL（例：`www.marketo.com/pricing`）のすべての訪問者を一致させます
 

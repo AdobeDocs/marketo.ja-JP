@@ -1,103 +1,103 @@
 ---
 unique-page-id: 7504923
-description: マネージャーアカウントを使用した収益モデルでの Google AdWords コンバージョンの設定 - Marketo ドキュメント - 製品ドキュメント
-title: マネージャーアカウントを使用した収益モデルでの Google AdWords コンバージョンの設定
+description: 管理者アカウントを持つ収益モデルの Set [!DNL Google AdWords] Conversions - Marketo ドキュメント – 製品ドキュメント
+title: Set [!DNL Google AdWords] Conversions in the Revenue Model with a Manager Account
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 100%
+source-wordcount: '402'
+ht-degree: 30%
 
 ---
 
-# マネージャーアカウントを使用した収益モデルでの Google AdWords コンバージョンの設定 {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
+# マネージャ [!DNL Google AdWords] アカウントを持つ収益モデルでのコンバージョンの設定 {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
-Google AdWords のアカウントを Marketo とリンクすると、オフラインのコンバージョンデータが Marketo から GoogleAdWords に自動的にアップロードされます。[カスタム列を追加した後には](https://support.google.com/adwords/answer/3073556)、AdWords UI を使って、どのクリックが資格を満たすリード、商談、新規顧客 (あるいは追跡した収益ステージ) につながったかを簡単に確認できるようになります。
+[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。その後、[!DNL AdWords] UI から、[ で ](https://support.google.com/adwords/answer/3073556) カスタム列を追加 [!DNL AdWords] した後、どのクリックが適格なリード、商談、新規顧客（または追跡したい収益ステージ）につながったかを簡単に確認できます。
 
-複数の Google Adwords アカウントがある場合、[Google AdWords マネージャーアカウント](https://www.google.com/adwords/manager-accounts/)（旧称：マイクライアントセンター）を使用して、Marketo と統合できます。
+複数の [!DNL Google Adwords] アカウントがある場合は、[[!DNL Google AdWords] Manager アカウント ](https://www.google.com/adwords/manager-accounts/) （旧称：My Client Center）を使用して、それらをMarketoと統合できます。
 
-AdWords オフラインコンバージョンを収益モデルの 1 つ以上のステージにマッピングできます。次の 2 つの方法があります。
+[!DNL AdWords] のオフラインコンバージョンを収益モデルの 1 つ以上のステージにマッピングできます。 次の 2 つの方法があります。
 
 * ステージアクション
-* AdWords マッピング
+* [!DNL AdWords] マッピング
 
 >[!PREREQUISITES]
 >
->[マネージャーアカウントによる Google AdWords を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
+>[ マネージャ  [!DNL Google AdWords]  アカウントを持つ Launchpoint Service として追加 ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md)
 
 ## ステージアクションを使用する {#use-stage-action}
 
-ステージアクションで AdWords コンバージョンをマッピングします。
+「ステージアクション」の下で [!DNL AdWords] コンバージョンをマッピングします。
 
-1. AdWords コンバージョンにマッピングする手順を選択します。
+1. [!DNL AdWords] 変換にマッピングするステップを選択します。
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
-1. **ステージアクション**&#x200B;ドロップダウンで、「**AdWords コンバージョンを設定**」を選択します。
+1. **[!UICONTROL ステージアクション]**&#x200B;ドロップダウンで、「**[!UICONTROL AdWords コンバージョンを設定]**」を選択します。
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. **AdWords コンバージョンの設定**.
+1. **[!DNL AdWords]変換を設定**.
 
    >[!NOTE]
    >
-   >子アカウントごとに異なる AdWords コンバージョンを選択できます。
+   >子アカウントごとに異なる [!DNL AdWords] コンバージョンを選択できます。
 
    ![](assets/image2015-3-27-17-3a16-3a37.png)
 
-   ヒント：AdWords 変換がない場合は、「**+新しいコンバージョン**」をクリックして作成します。
+   ヒント：[!DNL AdWords] しいコンバージョンがない場合は、「**[!UICONTROL +新規コンバージョン]**」をクリックして作成します。
 
    ![](assets/image2015-3-27-17-3a18-3a58.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-3-27-17-3a21-3a15.png)
 
-1. すべての AdWords コンバージョンを収益ステージにマッピングしたら、概要ページに戻ります。「**モデルアクション**」を選択し、「**ステージの承認**」を選択します。
+1. すべての [!DNL AdWords] コンバージョンの売上高ステージへのマッピングが完了したら、概要ページに戻ります。 「**[!UICONTROL モデルアクション]**」を選択し、「**[!UICONTROL ステージの承認]**」を選択します。
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
 ## 上級ヒント：新しいコンバージョンを追加する {#pro-tip-add-a-new-conversion}
 
-上級向けのヒントです。新しい AdWords オフラインコンバージョンは、Marketo から作成できます。
+上級向けのヒントです。新しい [!DNL AdWords] オフラインコンバージョンをMarketoから作成できます。
 
 >[!CAUTION]
 >
->Marketo から作成された新しいコンバージョンでは、「最適化」設定が有効になっています。つまり、このコンバージョンについては、AdWords の入札方針を利用して入札を最適化できるということです。この設定は、AdWords アカウントから変更できます。
+>Marketo から作成された新しいコンバージョンでは、「最適化」設定が有効になっています。つまり、入札戦略 [!DNL AdWords] よって、これらのコンバージョンに対する入札を最適化できます。 この設定は [!DNL AdWords] アカウントから変更できます。
 
-1. **ステージアクション**&#x200B;ドロップダウンで、「**AdWords コンバージョンを設定**」を選択します。
+1. **[!UICONTROL ステージアクション]**&#x200B;ドロップダウンで、「**[!UICONTROL AdWords コンバージョンを設定]**」を選択します。
 
    ![](assets/image2015-2-26-16-3a52-3a24.png)
 
-1. 「**新しいコンバージョン**」を選択します。
+1. 「**[!UICONTROL 新しいコンバージョン]**」を選択します。
 
    ![](assets/image2015-3-27-17-3a23-3a13.png)
 
-1. **コンバージョン名**&#x200B;を入力します。「**保存**」をクリックします。
+1. **コンバージョン名**&#x200B;を入力します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-3-27-17-3a24-3a49.png)
 
-   これで完了です。この新しいコンバージョンは、AdWords アカウントに表示されます。
+   これで完了です。この新しいコンバージョンは、[!DNL AdWords] アカウントに表示されます。
 
-## AdWords マッピングを使用する {#use-adwords-mapping}
+## [!DNL AdWords] マッピングの使用 {#use-adwords-mapping}
 
-AdWords マッピングを使用して、すべてのモデルステージを AdWords コンバージョンに 1 か所で関連付けることができます。
+[!DNL AdWords] マッピングを使用すると、すべてのモデルステージを [!DNL AdWords] コンバージョンに 1 か所で関連付けることができます。
 
-1. 「**AdWords マッピングの編集**」を選択します。
+1. 「**[!UICONTROL AdWords マッピングの編集]**」を選択します。
 
    ![](assets/image2015-2-26-17-3a3-3a29.png)
 
-1. 追跡する各ステージで、目的の **AdWords アカウント**&#x200B;と **AdWords コンバージョン**&#x200B;を選択します。
+1. 追跡するステージごとに **[!DNL AdWords]目的の** アカウントと目的の **[!DNL AdWords]コンバージョン** を選択します。
 
    ![](assets/image2015-3-27-17-3a30-3a15.png)
 
-1. ステージをマッピングしたら、「**保存**」をクリックします。
+1. ステージをマッピングしたら、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-3-27-17-3a30-3a48.png)
 
-1. すべての AdWords コンバージョンを収益ステージにマッピングしたら、概要ページに戻ります。「**モデルアクション**」を選択し、「**ステージの承認**」を選択します。
+1. すべての [!DNL AdWords] コンバージョンの売上高ステージへのマッピングが完了したら、概要ページに戻ります。 「**[!UICONTROL モデルアクション]**」を選択し、「**[!UICONTROL ステージの承認]**」を選択します。
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-オフラインのコンバージョンデータを表示するには、AdWords アカウントにログインする必要があります。[カスタム列機能](https://support.google.com/adwords/answer/3073556)を使用して、Marketo にインポートするオフラインコンバージョンごとにコンバージョン数の列を作成することをお勧めします。
+オフラインコンバージョンデータを表示するには、[!DNL AdWords] アカウントにログインする必要があります。 [カスタム列機能](https://support.google.com/adwords/answer/3073556)を使用して、Marketo にインポートするオフラインコンバージョンごとにコンバージョン数の列を作成することをお勧めします。

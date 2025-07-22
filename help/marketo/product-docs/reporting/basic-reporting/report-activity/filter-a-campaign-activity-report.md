@@ -4,16 +4,16 @@ description: キャンペーンアクティビティレポートをフィルタ�
 title: キャンペーンアクティビティレポートをフィルターする
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
 # キャンペーンアクティビティレポートをフィルターする {#filter-a-campaign-activity-report}
 
-特定の[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)を基準にして、[キャンペーンアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)を絞り込みます。
+[ キャンペーンアクティビティレポート ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) を特定の [ スマートキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) に焦点を当てます。
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ ht-degree: 100%
 
    ![](assets/filter-a-campaign-activity-report-1.png)
 
-1. 「**セットアップ**」タブをクリックし、「**キャンペーン**」をダブルクリックします。
+1. 「**[!UICONTROL セットアップ]**」タブをクリックし、「**[!UICONTROL キャンペーン]**」をダブルクリックします。
 
    ![](assets/filter-a-campaign-activity-report-2.png)
 
-1. レポートに含めるフォルダーと特定のスマートキャンペーンを選択します。「**適用**」をクリックします。
+1. レポートに含めるフォルダーと特定のスマートキャンペーンを選択します。「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/filter-a-campaign-activity-report-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 100%
    >
    >フォルダーを選択すると、レポートの実行時にフォルダーに含まれるすべての項目がレポートに含まれます。
 
-1. 完了です。「**レポート**」タブをクリックして、レポートで選択したスマートキャンペーン&#x200B;_のみ_&#x200B;を表示します。
+1. 完了です。「**[!UICONTROL レポート]**」タブをクリックして、レポートで選択したスマートキャンペーン&#x200B;_のみ_&#x200B;を表示します。
 
    ![](assets/filter-a-campaign-activity-report-4.png)
 

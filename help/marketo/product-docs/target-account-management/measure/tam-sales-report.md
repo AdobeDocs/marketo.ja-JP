@@ -4,7 +4,7 @@ description: TAM セールスレポート - Marketo ドキュメント - 製品�
 title: TAM セールスレポート
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
@@ -33,28 +33,28 @@ ht-degree: 100%
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>顧客スコア</strong></td> 
+   <td><strong><span class="uicontrol">顧客スコア</span></strong></td> 
    <td> 
     <div>
       顧客スコア別の週別トレンド（セットアップで選択）と現在の顧客スコア 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>セールスパイプライン</strong></td> 
+   <td><strong><span class="uicontrol">セールスパイプライン</span></strong></td> 
    <td> 
     <div>
       パイプライン別の週別トレンドと、現在のパイプラインの合計数およびオープン商談数 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>ページビュー</strong></td> 
+   <td><strong><span class="uicontrol">ページビュー</span></strong></td> 
    <td> 
     <div>
-      ページビューの週別トレンドと、合計ページビュー数および個別訪問者数 
+      ページビューの週別トレンドと、合計ページビュー数およびユニーク訪問者数 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>注目のアクション</strong></td> 
+   <td><strong><span class="uicontrol">注目のアクション</span></strong></td> 
    <td> 
     <div>
       その週に発生した注目のアクションの合計数 

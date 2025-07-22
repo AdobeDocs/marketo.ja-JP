@@ -4,7 +4,7 @@ description: メールにシステムトークンをリンクとして追加す�
 title: メールにシステムトークンをリンクとして追加する
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 
 メールに追加する方法を次に示します。
 
-1. メールを探して選択し、「**ドラフトを編集**」をクリックします。
+1. メールを探して選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/one-1.png)
 
@@ -35,11 +35,11 @@ ht-degree: 100%
 
    ![](assets/two-1.png)
 
-1. トークンを含むリンクに変換するテキストをハイライト表示し、「**リンクを挿入／編集**」ボタンをクリックします。
+1. トークンを含むリンクに変換するテキストをハイライト表示し、「**[!UICONTROL リンクを挿入／編集]**」ボタンをクリックします。
 
    ![](assets/three-1.png)
 
-1. 「リンク URL」にトークンを入力し、「**挿入**」をクリックします。
+1. 「リンク URL」にトークンを入力し、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/four-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 100%
    >
    >目的のトークン（**`{{system.forwardToFriendLink}}`**、**`{{system.unsubscribeLink}}`**、**`{{system.viewAsWebpageLink}}`** のいずれか）をコピー＆ペーストします。
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 

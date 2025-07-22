@@ -4,7 +4,7 @@ description: フリーフォームランディングページに新しいフォ�
 title: フリーフォームランディングページに新しいフォームを追加する
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
@@ -20,15 +20,15 @@ ht-degree: 100%
 >* [フォームの作成](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [フリーフォームランディングページの作成](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
-1. ランディングページを選択して、「**ドラフトの編集**」をクリックします。
+1. ランディングページを選択して、「**[!UICONTROL ドラフトの編集]**」をクリックします。
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. **フォーム**&#x200B;要素をページにドラッグ&amp;ドロップします。
+1. **[!UICONTROL フォーム]**&#x200B;要素をページにドラッグ&amp;ドロップします。
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -38,9 +38,9 @@ ht-degree: 100%
 
 1. フォローアップページを選択するときには、3 つのオプションがあります。
 
-   * **ランディングページ** - Marketo ランディングページを選択する場合
-   * **外部 URL**  - 使用したい任意の URL を選択する場合
-   * **定義済みのフォーム** - フォームレベルで定義されている設定を使用します。
+   * **[!UICONTROL ランディングページ]** - Marketo ランディングページを選択する場合
+   * **[!UICONTROL 外部 URL]**  - 使用したい任意の URL を選択する場合
+   * **[!UICONTROL 定義済みのフォーム]** - フォームレベルで定義されている設定を使用します。
 
    >[!NOTE]
    >
@@ -48,7 +48,7 @@ ht-degree: 100%
    >
    >フォローアップページとは、フォームを送信した後で表示されるページです。
 
-1. 次に「**挿入**」をクリックします。
+1. 次に「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 

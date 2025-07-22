@@ -1,18 +1,17 @@
 ---
-description: Dynamic Chat のアクティビティ - Marketo ドキュメント - 製品ドキュメント
-title: Dynamic Chat のアクティビティ
-feature: Dynamic Chat
+description: '[!DNL Dynamic Chat] アクティビティ - Marketo ドキュメント – 製品ドキュメント'
+title: '[!DNL Dynamic Chat] アクティビティ'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 23%
+source-wordcount: '237'
+ht-degree: 5%
 
 ---
 
-# Dynamic Chat のアクティビティ {#dynamic-chat-activities}
+# [!DNL Dynamic Chat] アクティビティ {#dynamic-chat-activities}
 
-Dynamic Chatでは、スマートリストで使用するためのいくつかのフィルターとトリガーを提供しています。
+[!DNL Dynamic Chat] では、スマートリストで使用するためのいくつかのフィルターとトリガーを提供しています。
 
 ![](assets/dynamic-chat-activities-1.png)
 
@@ -47,7 +46,7 @@ Dynamic Chatでは、スマートリストで使用するためのいくつか�
   </tr>
   <tr>
     <td style="width:25%"><b> ミーティングをスケジュール済み</b></td>
-    <td>Dynamic Chatが訪問者エージェントとのミーティングを予約したときに発生します。
+    <td>訪問者がDynamic Chat エージェントとのミーティングを予約すると発生します。
     <br> セッションごとに、訪問者ごとに複数の会議予約イベントが存在する可能性があります。</td>
   </tr>
 </tbody>
@@ -55,6 +54,6 @@ Dynamic Chatでは、スマートリストで使用するためのいくつか�
 
 ## 注意事項 {#things-to-note}
 
-* 条件は、Dynamic Chat のフローステップでサポートされます
-* Dynamic Chat のアクティビティは、[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"} と同期されます
-* 人物レコードのアクティビティログで、個々の Dynamic Chat アクティビティを表示できます
+* 条件は、[!DNL Dynamic Chat] のフローステップでサポートされています
+* [!DNL Dynamic Chat] アクティビティは [[!DNL Marketo Sales Insight]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"} に同期できます
+* 個々の [!DNL Dynamic Chat] アクティビティは、人物レコードのアクティビティログに表示できます

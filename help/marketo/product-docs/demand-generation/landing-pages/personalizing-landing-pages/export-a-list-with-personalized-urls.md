@@ -4,7 +4,7 @@ description: パーソナライズされた URL を含むリストのエクス�
 title: パーソナライズされた URL を含むリストのエクスポート
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 100%
@@ -18,11 +18,11 @@ ht-degree: 100%
 >* [アカウントでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [ランディングページでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. リストまたはスマートリストを選択し、「**リード**」タブをクリックして結果を取得し、excel アイコンをクリックします。インライン：**Marketo の一意のコード**&#x200B;と **Marketo の一意の名前**[列が表示されていることを確認してください。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)
+1. リストまたはスマートリストを選択し、「**[!UICONTROL リード]**」タブをクリックして結果を取得し、excel アイコンをクリックします。インライン：**[!UICONTROL Marketo の一意のコード]**&#x200B;と **[!UICONTROL Marketo の一意の名前]**[列が表示されていることを確認してください。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. 「**パーソナライズ URL を含める**」のチェックをオンにして、PURL を生成するランディングページを見つけて選択します。
+1. 「**[!UICONTROL パーソナライズ URL を含める]**」のチェックをオンにして、PURL を生成するランディングページを見つけて選択します。
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
@@ -34,11 +34,11 @@ ht-degree: 100%
    >
    >同じランディングページに複数の URL が表示される場合、過去のある時点でページの URL を変更し、リダイレクトを作成したことが原因である可能性があります。
 
-1. 「**スタイル**」を選択して「**エクスポート**」をクリックします。
+1. 「**[!UICONTROL スタイル]**」を選択して「**[!UICONTROL エクスポート]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
-1. エクスポートが完了したら、「**今すぐダウンロード**」リンクをクリックしてファイルを保存します。
+1. エクスポートが完了したら、「**[!UICONTROL 今すぐダウンロード]**」リンクをクリックしてファイルを保存します。
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 

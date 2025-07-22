@@ -4,8 +4,8 @@ description: 複数のワークスペースをまたいだリストやスマー�
 title: 複数のワークスペースをまたいだリストやスマートリストの参照
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. キャンペーンフォルダーを右クリックします。「**新規フォルダー**」を選択します。
+1. キャンペーンフォルダーを右クリックします。「**[!UICONTROL 新規フォルダー]**」を選択します。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 

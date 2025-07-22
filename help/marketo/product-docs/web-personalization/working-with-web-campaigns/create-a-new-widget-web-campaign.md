@@ -4,10 +4,10 @@ description: 新しいウィジェット Web キャンペーンを作成する �
 title: 新しいウィジェット Web キャンペーンを作成する
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '628'
-ht-degree: 100%
+source-wordcount: '629'
+ht-degree: 93%
 
 ---
 
@@ -17,15 +17,15 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
 ## ウィジェット Web キャンペーンを作成する {#create-a-widget-web-campaign}
 
-1. 「**Web キャンペーン**」に移動します
+1. 「**[!UICONTROL Web キャンペーン]**」に移動します
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. 「**Web キャンペーンの新規作成**」を選択します。
+1. 「**[!UICONTROL Web キャンペーンの新規作成]**」を選択します。
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. キャンペーンタイプとして「**ウィジェット**」を選択します。
+1. キャンペーンタイプとして「**[!UICONTROL ウィジェット]**」を選択します。
 
    ![](assets/3.png)
 
@@ -33,7 +33,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
    ![](assets/4.png)
 
-1. 「**プレビュー**」をクリックして、この Web キャンペーンがサイトでどう応答するかを確認します。
+1. 「**[!UICONTROL プレビュー]**」をクリックして、この Web キャンペーンがサイトでどう応答するかを確認します。
 
    ![](assets/preview.png)
 
@@ -95,11 +95,11 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
 >[!NOTE]
 >
->**Web キャンペーンの A/B テストを実施する場合、最適な結果を得るために、1 つ以上の Web キャンペーンの** A/B テスト[を実施できます。](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)自動チューニング機能によって、パフォーマンスの良いキャンペーンが自動的に認識され、最もコンバージョンの高いキャンペーンが続行されて他のキャンペーンは一時停止されます。
+>**Web キャンペーンの A/B テストを実施する場合、最適な結果を得るために、1 つ以上の Web キャンペーンの** A/B テスト[を実施できます。](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)[!UICONTROL  自動調整 ] 機能を使用すると、プラットフォームはよりパフォーマンスの高いキャンペーンを自動的に認識し、コンバージョン率が最も高いキャンペーンを続行し、他のキャンペーンを一時停止します。
 
 ## Web キャンペーンを編集する {#edit-a-web-campaign}
 
-Web キャンペーンページで、キャンペーンの「**編集**」をクリックします。
+[!UICONTROL Web キャンペーン]ページで、キャンペーンの「**[!UICONTROL 編集]**」をクリックします。
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
@@ -113,13 +113,13 @@ Web キャンペーンページで、キャンペーンの「**編集**」をク
 
 ## Web キャンペーンをプレビューする {#preview-a-web-campaign}
 
-Web キャンペーンページで、確認したい Web キャンペーンの「**プレビュー**」をクリックします
+[!UICONTROL Web キャンペーン ] ページで、プレビューする Web キャンペーンの **[!UICONTROL プレビュー]** をクリックします
 
 ![](assets/widget-campaign-preview-hand.png)
 
-## Web キャンペーンを削除する {#delete-a-web-campaign}
+## Web キャンペーンの削除 {#delete-a-web-campaign}
 
-1. Web キャンペーンページで、削除したい Web キャンペーンの「**削除**」をクリックします。
+1. [!UICONTROL Web キャンペーン]ページで、削除する web キャンペーンの「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/widget-campaign-delete-hand.png)
 

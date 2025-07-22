@@ -4,7 +4,7 @@ description: URL パスをリダイレクトする - Marketo ドキュメント 
 title: URL パスをリダイレクトする
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 100%
@@ -19,15 +19,15 @@ Marketo を使用すると、任意のページに URL パスを簡単にリダ�
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」で「**ランディングページ**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」で「**[!UICONTROL ランディングページ]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a43-3a29.png)
 
-1. 「**ルール**」タブをクリックしてから、**新規**／**新規リダイレクトルール**&#x200B;をクリックします。
+1. 「**[!UICONTROL ルール]**」タブをクリックしてから、**[!UICONTROL 新規]**／**[!UICONTROL 新規リダイレクトルール]**&#x200B;をクリックします。
 
    ![](assets/image2014-9-18-13-3a43-3a40.png)
 
-1. 最初の&#x200B;**オリジナル URL** ドロップダウンをクリックして、自分の Marketo CNAME を選択します。
+1. 最初の&#x200B;**[!UICONTROL オリジナル URL]** ドロップダウンをクリックして、自分の Marketo CNAME を選択します。
 
    ![](assets/image2014-9-18-13-3a43-3a49.png)
 
@@ -35,11 +35,11 @@ Marketo を使用すると、任意のページに URL パスを簡単にリダ�
    >
    >自分の Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md) で始まる URL のみをリダイレクトできます。
 
-1. 右にある 2 番目の&#x200B;**オリジナル URL** フィールドに、リダイレクトする URL パス（または特定のページ）を入力します。
+1. 右にある 2 番目の&#x200B;**[!UICONTROL オリジナル URL]** フィールドに、リダイレクトする URL パス（または特定のページ）を入力します。
 
    ![](assets/image2014-9-18-13-3a43-3a59.png)
 
-1. 「**非 Marketo ランディングページを使用**」をクリックして、訪問者をリダイレクトするページを「**リダイレクト URL**」フィールドに入力して、「**作成**」をクリックします。
+1. 「**[!UICONTROL 非 Marketo ランディングページを使用]**」をクリックして、訪問者をリダイレクトするページを「**[!UICONTROL リダイレクト URL]**」フィールドに入力して、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a44-3a7.png)
 

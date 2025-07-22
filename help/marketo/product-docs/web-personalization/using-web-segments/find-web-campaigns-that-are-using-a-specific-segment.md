@@ -4,7 +4,7 @@ description: 特定のセグメントを使用している web キャンペー�
 title: 特定のセグメントを使用している web キャンペーンの検索
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 100%
@@ -15,11 +15,11 @@ ht-degree: 100%
 
 特定のセグメントを使用する web キャンペーンをお探しですか？
 
-1. 「**セグメント**」に移動します。
+1. 「**[!UICONTROL セグメント]**」に移動します。
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. **セグメント**&#x200B;を検索します。**セグメント名**&#x200B;を選択します。右側のパネルで、「**関連するキャンペーン**」をクリックすると、この特定のセグメントに関連付けられているキャンペーンが表示されます。
+1. **セグメント**&#x200B;を検索します。**セグメント名**&#x200B;を選択します。右側のパネルで、「**[!UICONTROL 関連するキャンペーン]**」をクリックすると、この特定のセグメントに関連付けられているキャンペーンが表示されます。
 
    ![](assets/image2014-11-26-14-21-59.png)
 

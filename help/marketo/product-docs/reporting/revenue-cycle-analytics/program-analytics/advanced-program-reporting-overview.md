@@ -4,10 +4,10 @@ description: 高度なプログラムレポートの概要 - Marketo ドキュ�
 title: 高度なプログラムレポートの概要
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ## 分析領域について {#whats-an-analysis-area}
 
-分析領域には、収益エクスプローラー内の様々なデータセットおよび指標が含まれます。各領域は、表示するよう選択したレポート対象に関連します。
+分析エリアにはそれぞれ、[!UICONTROL  収益エクスプローラー ] 内の異なるデータセットと指標が含まれています。 各領域は、表示するよう選択したレポート対象に関連します。
 
 ## プログラム分析領域 {#program-analysis-areas}
 
@@ -41,7 +41,7 @@ ht-degree: 100%
 
 * **商談の影響分析**：商談を創出したプログラムや主要エンゲージメントの影響を測定して、マーケティングの貢献度を証明します。
 
-## レポートのオプション {#report-options}
+## [!UICONTROL  報告書のオプション ] {#report-options}
 
 各レポートには、エクスペリエンスのカスタマイズに役立ついくつかのオプションがあります。
 

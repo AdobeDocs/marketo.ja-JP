@@ -4,7 +4,7 @@ description: アカウントでパーソナライズ URL を有効にする - Ma
 title: アカウントでパーソナライズ URL を有効にする
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
@@ -19,15 +19,15 @@ ht-degree: 100%
 >
 >**管理者権限が必要**
 
-1. **管理者**&#x200B;セクションに移動して、「**ランディングページ**」をクリックします。
+1. **[!UICONTROL 管理者]**&#x200B;セクションに移動して、「**[!UICONTROL ランディングページ]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. 「**編集**」をクリックします。
+1. 「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. 「**パーソナライズ URL を有効にする**」ボックスのチェックをオンにして、「**保存**」をクリックします。
+1. 「**[!UICONTROL パーソナライズ URL を有効にする]**」ボックスのチェックをオンにして、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 

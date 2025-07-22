@@ -4,10 +4,10 @@ description: 予測コンテンツの概要 - Marketo ドキュメント - 製�
 title: 予測コンテンツの概要
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
 
@@ -27,19 +27,19 @@ ht-degree: 100%
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
-## 予測エンゲージメント {#predictive-engagement}
+## [!UICONTROL  予測エンゲージメント ] {#predictive-engagement}
 
 合計クリック数とダイレクトリード数を比較し、コンバージョン率を確認し、様々なソースのパフォーマンスを比較します。
 
 ![](assets/predictive-engagement-actual.png)
 
-## ビュー別のコンテンツ傾向  {#content-trend-by-views}
+## [!UICONTROL  ビュー別コンテンツのトレンド ]  {#content-trend-by-views}
 
 すべてのコンテンツに関するビューと予測コンテンツとの一致を比較します。
 
 ![](assets/4.png)
 
-## エンゲージメント別の上位カテゴリー {#top-categories-by-engagement}
+## [!UICONTROL  エンゲージメント別上位カテゴリ ] {#top-categories-by-engagement}
 
 最も魅力的なコンテンツのカテゴリを知りたい場合、このグラフでわかります。
 
@@ -47,4 +47,4 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->カテゴリリンク（上の画像の例：リードジェン、メールなど）をクリックすると、クリックしたカテゴリがフィルターに追加されたすべてのコンテンツページが開き、そのカテゴリのコンテンツ分析が表示されます。
+>カテゴリリンク（上記の画像の例：leadgen、メールなど）をクリックすると、クリックしたカテゴリがフィルターに追加された「すべてのコンテンツ」ページが開き、そのカテゴリのコンテンツ分析が表示されます。

@@ -4,26 +4,26 @@ description: 商談の影響分析でマーケティング事例を伝える - M
 title: 商談の影響分析でマーケティング事例を伝える
 exl-id: 07a8fd25-b80e-4015-931f-f490bb5e48e5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 100%
+ht-degree: 85%
 
 ---
 
-# 商談の影響分析でマーケティング事例を伝える {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# [!UICONTROL  オポチュニティの影響分析 ] を使用してマーケティングストーリーを伝える {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
-商談の影響分析を使用して、重要な商談に対するマーケティングの役割を説明します。マーケティングが、ファーストタッチから商談の創出や成立、その他の機会にどのように影響したのかを示します。
+[!UICONTROL  オポチュニティ影響分析 ] を使用して、重要なオポチュニティにおけるマーケティングの役割を示します。 マーケティングが、ファーストタッチから商談の創出や成立、その他の機会にどのように影響したのかを示します。
 
 >[!PREREQUISITES]
 >
->[商談の影響分析の作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[ オポチュニティ影響分析 [!UICONTROL  の作成 ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
-1. **分析**&#x200B;に移動し、「**商談の影響分析**」を選択します。
+1. **[!UICONTROL 分析]**&#x200B;に移動し、「**[!UICONTROL 商談の影響分析]**」を選択します。
 
    ![](assets/analytics-opportunityhand.png)
 
-   商談の影響分析は、その商談に関わるインタラクションやプログラム、イベントの成功を視覚的に表現したものです。グラフを参照してみましょう。
+   [!UICONTROL  オポチュニティ影響分析 ] は、そのオポチュニティに関するインタラクション、プログラム、イベントの成功を視覚的に表現したものです。 グラフを参照してみましょう。
 
    * ![--](assets/image2014-10-3-13-3a43-3a21.png) **オレンジ色のドット**&#x200B;は、商談の中の注目のアクションを表します（メールの開封、展示会への訪問、ホワイトペーパーのダウンロードなど）。ドットが大きいほど、インタラクションが多くなります。
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
    * **商談のライフサイクル**。緑色の商談期間の前後の灰色の領域に、商談に導いたインタラクションとその後のインタラクションが表示されます。
 
-   **設定**&#x200B;パネルには、アカウントのリードが一覧表示されます。
+   **[!UICONTROL 設定]**&#x200B;パネルには、アカウントのリードが一覧表示されます。
 
    * **括弧内の数**&#x200B;は、その連絡先とのインタラクション数です。
 
@@ -61,4 +61,4 @@ ht-degree: 100%
 
    >[!MORELIKETHIS]
    >
-   >[商談の影響分析の設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[ オポチュニティ影響分析 [!UICONTROL  の設定 ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

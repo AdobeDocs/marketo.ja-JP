@@ -4,15 +4,15 @@ description: Salesforce に記録されなかった - Marketo ドキュメント
 title: Salesforce に記録されなかった
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 15%
 
 ---
 
-# Salesforce に記録されなかった {#didnt-log-to-salesforce}
+# が [!DNL Salesforce] にログを記録しませんでした {#didnt-log-to-salesforce}
 
-Salesforce に通話記録が表示されない場合は、Salesforce でリード／連絡先が見つからないことが原因である可能性があります。
+通話が [!DNL Salesforce] に記録されない場合は、[!DNL Salesforce] でリード/連絡先が見つからないことが原因である可能性があります。
 
-正しいリード／連絡先に対する通話を記録するには、Sales Connect で Salesforce ID が必要です。Salesforce ID を Sales Connect に追加する最もいい方法は、[Sales Connect にプッシュ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)機能を使用することです。Sales Connect にプッシュを使用する場合、連絡先の移行データに Salesforce ID が含められます。
+問い合わせを正しいリード/連絡先に記録 [!DNL Sales Connect] るには、[!DNL Salesforce] ID が必要です。 [!DNL Salesforce] ID を [!DNL Sales Connect] に追加する最適な方法は、[ プッシュ通知  [!DNL Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md) 機能を使用することです。 プッシュを使用して [!DNL Sales Connect] を移行する場合、[!DNL Salesforce] ID が連絡先の移行に含まれます。

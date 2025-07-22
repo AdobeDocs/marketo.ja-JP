@@ -3,10 +3,10 @@ description: 国際通話 - Marketo ドキュメント - 製品ドキュメン�
 title: 国際通話
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 100%
+source-wordcount: '392'
+ht-degree: 97%
 
 ---
 
@@ -143,7 +143,7 @@ ht-degree: 100%
 
 ## 国際電話に関する FAQ {#international-calling-faq}
 
-**なぜ Sales Insight Actions ですべての国に対する国際電話の発信をサポートしないのですか？**
+**なぜ、すべての国に対す [!DNL Sales Insight Actions] 国際的要求を支持しないのか。**
 
 セールスダイヤラーでは国際電話を追加費用なしで提供しています。見込み客や顧客とのコミュニケーションを取りやすくするために、標準的な料金の国際通話のサポートを開始しました。米国、カナダ以外の、ヨーロッパ、アジア、その他の主要地域の 34 か国を対象とします。今後も顧客の意見に基づいて幅を広げていきます。
 

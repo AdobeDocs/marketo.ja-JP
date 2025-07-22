@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378814
-description: 顧客リスト - Marketo ドキュメント - 製品ドキュメント
-title: 顧客リスト
+description: '[!UICONTROL  アカウントリスト ] - Marketo ドキュメント – 製品ドキュメント'
+title: '[!UICONTROL  口座簿 ]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '343'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
-# 顧客リスト {#account-lists}
+# [!UICONTROL  口座簿 ] {#account-lists}
 
 顧客リストは、一緒にターゲット設定できる重点顧客の集まりです。顧客リストを使用すると、特定顧客を業種、場所、または会社の規模別にターゲット設定できます。
 
@@ -21,15 +21,15 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Marketo ターゲット顧客管理で作成された顧客リストは、[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) でスマートリストと web キャンペーンを作成するときに自動的に使用可能になります。
+>Marketo[!UICONTROL Target アカウント管理 ] で作成したアカウントリストは、[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) でスマートリストや web キャンペーンを作成する際に自動的に使用できます。
 
 ## 新規顧客リストの作成 {#create-a-new-account-list}
 
-1. **新規作成**&#x200B;ドロップダウンをクリックして、「**新規顧客リストを作成**」を選択します。
+1. **[!UICONTROL 新規作成]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 新規顧客リストを作成]**」を選択します。
 
    ![](assets/1a.png)
 
-1. リストに名前を付け、「**作成**」をクリックします。
+1. リストに名前を付け、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/three-0.png)
 
@@ -41,7 +41,7 @@ ht-degree: 100%
 
 ## 新規動的顧客リストの作成 {#create-a-new-dynamic-account-list}
 
-1. **新規作成**&#x200B;ドロップダウンをクリックして、「**新規動的顧客リストを作成**」を選択します。
+1. **[!UICONTROL 新規作成]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 新規動的顧客リストを作成]**」を選択します。
 
    ![](assets/1.png)
 
@@ -49,7 +49,7 @@ ht-degree: 100%
 
    ![](assets/image2017-7-18-9-48-23.png)
 
-1. 「**作成**」をクリックします。
+1. 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/step4.jpg)
 
@@ -63,11 +63,11 @@ ht-degree: 100%
 >
 >これらの手順は、顧客リストにのみ適用されます。_動的_&#x200B;顧客リストは、関連する CRM 顧客ビューの名前を使用します。
 
-1. 名前を変更する顧客を選択し、**顧客リストのアクション**&#x200B;ドロップダウンをクリックして「**顧客リストを名前変更**」を選択します。
+1. 名前を変更する顧客を選択し、**[!UICONTROL 顧客リストのアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 顧客リストを名前変更]**」を選択します。
 
    ![](assets/three.png)
 
-1. 新しい名前を入力し、「**名前変更**」をクリックします。
+1. 新しい名前を入力し、「**[!UICONTROL 名前変更]**」をクリックします。
 
    ![](assets/four.png)
 
@@ -81,15 +81,15 @@ ht-degree: 100%
 >
 >これらの手順は、顧客リストと動的顧客リストの両方で同じです。
 
-1. 削除する顧客を選択し、**顧客リストのアクション**&#x200B;ドロップダウンをクリックして「**顧客リストを削除**」を選択します。
+1. 削除する顧客を選択し、**[!UICONTROL 顧客リストのアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 顧客リストを削除]**」を選択します。
 
    ![](assets/five.png)
 
-1. 「**削除**」をクリックします。
+1. 「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/six.png)
 
 >[!MORELIKETHIS]
 >
->* [既存の重点顧客を顧客リストに追加する](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [ アカウントリストへの既存の [!UICONTROL  名前付きアカウント ] の追加 ](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [アカウントリストインサイト](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)

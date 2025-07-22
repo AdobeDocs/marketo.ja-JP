@@ -4,30 +4,30 @@ description: メールに「Web ページとして表示」リンクを追加す
 title: メールに「Web ページとして表示」リンクを追加する
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
 # メールに「Web ページとして表示」リンクを追加する {#add-a-view-as-web-page-link-to-an-email}
 
-メールには限られた機能があります（CSS は限られており、JavaScript やフォームはありません）。「Web ページとして表示」を使用して、メールをブラウザーに表示するためのリンクを提供します。これにより、Munchkin を使用して受信者に cookie を設定します。
+メールには限られた機能があります（CSS は限られており、JavaScript やフォームはありません）。「Web ページとして表示」を使用して、メールをブラウザーに表示するためのリンクを提供します。これにより、[!DNL Munchkin] を使用して受信者に Cookie が設定されます。
 
 >[!NOTE]
 >
 >メールを新規作成する場合、「Web ページとして表示」は有効になっていません。有効にしてメールをクローンした場合、この設定はコピーされます。
 
-1. メールを選択して、「**ドラフトを編集**」をクリックします。
+1. メールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/one-5.png)
 
-1. メールエディターで、「**メール設定**」をクリックします。
+1. メールエディターで、「**[!UICONTROL メール設定]**」をクリックします。
 
    ![](assets/two-5.png)
 
-1. 「**Web ページとして表示を含める**」ボックスのチェックをオンにして「**保存**」をクリックします。
+1. 「**[!UICONTROL Web ページリンクとして表示を含める]**」ボックスをオンにして、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/three-4.png)
 

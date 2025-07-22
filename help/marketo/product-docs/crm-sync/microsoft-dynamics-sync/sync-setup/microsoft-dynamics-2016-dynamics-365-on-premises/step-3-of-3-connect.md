@@ -1,27 +1,27 @@
 ---
-description: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 3 / 3 - Marketo ドキュメント - 製品ドキュメント
-title: Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 3 / 3
+description: Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 オンプレミスのインストール手順 3/3 - Marketo ドキュメント – 製品ドキュメント
+title: Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 オンプレミスのインストール手順 3 / 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
-workflow-type: ht
-source-wordcount: '414'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '399'
+ht-degree: 72%
 
 ---
 
-# 手順 3 / 3：Marketo Dynamics（2016 オンプレミス／Dynamics 365 オンプレミス）の接続 {#step-of-connect-marketo-dynamics-on-premises-2016}
+# 手順 3/3:Marketo [!DNL Dynamics] の接続（2016 On Prem/[!DNL Dynamics] 365 オンプレミス） {#step-of-connect-marketo-dynamics-on-premises-2016}
 
 >[!PREREQUISITES]
 >
->* [Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}
->* [Microsoft Dynamics 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md){target="_blank"}
+>* [Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 オンプレミスのインストール手順 1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 オンプレミスのインストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-## Dynamics 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
+## 同期ユーザー情報 [!DNL Dynamics] 入力 {#enter-dynamics-sync-user-information}
 
 1. Marketo にログインし、「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. 「**[!UICONTROL 資格情報を入力]**」で「**[!UICONTROL 編集]**」をクリックします。
+1. **手順 1：資格情報を入力**&#x200B;の「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -43,7 +43,7 @@ ht-degree: 100%
    >
    >送信後に後続のスキーマの変更を元に戻すことができないので、資格情報が正しいことを確認してください。間違った資格情報を保存した場合は、新しい Marketo サブスクリプションを取得する必要があります。
 
-1. 「**[!UICONTROL ユーザー名]**」、「**[!UICONTROL パスワード]**」と Microsoft Dynamics の「**[!UICONTROL URL]**」、「**クライアント ID／シークレット**」を入力します。終了したら「**[!UICONTROL 保存]**」をクリックします。
+1. **ユーザー名**、**パスワード**、[!DNL Microsoft Dynamics] **URL**、および **クライアント ID/シークレット** を入力します。 終了したら「**保存**」をクリックします。
 
    ![](assets/step-3-of-3-5.png)
 
@@ -55,11 +55,11 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >URL がわからない場合は、こちらの [Dynamics 組織サービス URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) の検索方法をご覧ください。
+   >URL がわからない場合は、[[!DNL Dynamics]  組織サービス URL](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md) の検索方法については、こちらを参照してください。
 
 ## 同期するフィールドを選択 {#select-fields-to-sync}
 
-1. 「**[!UICONTROL 同期するフィールドを選択]**」で「**[!UICONTROL 編集]**」をクリックします。
+1. **[!UICONTROL 手順 2：同期するフィールドを選択]**&#x200B;の「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -69,13 +69,13 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Marketo は、同期するフィールドへの参照を保存します。Dynamics でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}の状態で実行することをお勧めします。次に、[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}を編集および保存して、Marketo のスキーマを更新します。
+>Marketo は、同期するフィールドへの参照を保存します。[!DNL Dynamics] でフィールドを削除する場合は、[ 同期を無効 ](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md) にして行うことをお勧めします。 次に、[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)を編集および保存して、Marketo のスキーマを更新します。
 
 ## カスタムフィルターのフィールドを同期する {#sync-fields-for-a-custom-filter}
 
 カスタムフィルターを作成した場合は、Marketo と同期する新しいフィールドを選択するようにします。
 
-1. 「管理」に移動し、「**[!DNL Microsoft Dynamics]**」を選択します。
+1. 「管理者」に移動し、**[!DNL Microsoft Dynamics]** を選択します。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
@@ -89,13 +89,13 @@ ht-degree: 100%
 
 ## 同期を有効にする {#enable-sync}
 
-1. 「**[!UICONTROL 同期の有効化]**」で「**[!UICONTROL 編集]**」をクリックします。
+1. **[!UICONTROL 手順 3：同期を有効にする]**&#x200B;の「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-52-2.png)
 
    >[!CAUTION]
    >
-   >Marketo は、Microsoft Dynamics の同期や、人物を手動で入力した場合には、自動的に重複排除を行いません。
+   >Marketoは、[!DNL Microsoft Dynamics] 同期に対する重複除外、またはユーザーを手動で入力しても自動的に重複除外を実行しません。
 
 1. ポップアップの内容をすべて読み、メールアドレスを入力して、「**[!UICONTROL 同期を開始]**」をクリックします。
 

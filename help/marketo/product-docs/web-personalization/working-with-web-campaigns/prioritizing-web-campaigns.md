@@ -4,10 +4,10 @@ description: Web キャンペーンの優先順位付け — Marketo ドキュ�
 title: Web キャンペーンの優先順位付け
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 100%
+ht-degree: 71%
 
 ---
 
@@ -26,24 +26,24 @@ ht-degree: 100%
 >
 >ゾーン内キャンペーンと（ウィジェットまたはダイアログ）キャンペーンが、同じページで応答することもあります。
 
-1. 「Web キャンペーン」に移動します
+1. 「**[!UICONTROL Web キャンペーン]**」に移動します
 
    ![](assets/web-campaigns-hand-6.jpg)
 
    >[!NOTE]
    >
-   >目的の Web キャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
+   >目的の web キャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
-1. キャンペーンを編集ページで、「優先度スコア」（9999 =最も高い優先度、1 =最も低い優先度）を設定します。
+1. キャンペーンを編集ページで、[!UICONTROL  優先度スコア ] （9999 =最も高い優先度 1 =最も低い優先度）を設定します。
 
    ![](assets/image2015-7-9-20-3a20-3a58.png)
 
    >[!TIP]
    >
-   >キャンペーンの優先度スコアは、キャンペーンの重複が生じる可能性があり、いずれかのキャンペーンの重要度が高い場合にのみ使用することをお勧めします。すべてのキャンペーンに優先度を設定する必要はありません。
+   >キャンペーンの重複が発生する可能性がある場合にのみ、キャンペーン [!UICONTROL  優先度スコア ] を使用し、いずれかのキャンペーンの重要度を高めることをお勧めします。 すべてのキャンペーンに優先度を設定する必要はありません。
 
 1. キャンペーンを保存または起動します。
 
-1. Web キャンペーンページに表示される優先度スコアを参照してください。
+1. [!UICONTROL Web キャンペーン ] ページに表示される [!UICONTROL  優先度スコア ] を確認します。
 
 ![](assets/web-campaign-priority-score.jpg)

@@ -4,7 +4,7 @@ description: ヒートグリッドのカスタマイズと表示 - Marketo ド�
 title: ヒートグリッドのカスタマイズと表示
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
@@ -15,12 +15,12 @@ ht-degree: 100%
 
 ヒートグリッドは、データを色付きのグリッドで視覚的に表し、良いパターンと悪いパターンをより簡単かつ迅速に識別できます。
 
-1. レポートで、グラフアイコンをクリックし、「**ヒートグリッド**」をクリックします。
+1. レポートで、グラフアイコンをクリックし、「**[!UICONTROL ヒートグリッド]**」をクリックします。
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. **ヒートグリッド**&#x200B;を変更するには、**プロパティ**&#x200B;領域に移動します。
+1. **[!UICONTROL ヒートグリッド]**&#x200B;を変更するには、**[!UICONTROL プロパティ]**&#x200B;領域に移動します。
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   これで完了です。これで、**ヒートグリッド**&#x200B;ができました。
+   これで完了です。これで、**[!UICONTROL ヒートグリッド]**&#x200B;ができました。

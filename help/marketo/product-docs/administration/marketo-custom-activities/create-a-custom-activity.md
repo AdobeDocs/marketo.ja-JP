@@ -4,10 +4,10 @@ description: カスタムアクティビティの作成 - Marketo ドキュメ�
 title: カスタムアクティビティの作成
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 68%
 
 ---
 
@@ -37,13 +37,13 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >API 名を変更する場合は、名前が他のカスタムアクティビティのフィールドと競合しないことを確認してください。
+   >[!UICONTROL API 名 ] を変更する場合は、その名前が他のカスタムアクティビティのフィールドと競合していないことを確認します。
 
 1. 「[!UICONTROL フィルター]」および「[!UICONTROL トリガー]」を定義し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/create-a-custom-activity-5.png)
 
-1. 主フィールドに、カスタムアクティビティの目的をまとめた名前を付けます。
+1. カスタムアクティビティの目的を要約した **[!UICONTROL 名前]** をプライマリフィールドに入力します。
 
    ![](assets/create-a-custom-activity-6.png)
 

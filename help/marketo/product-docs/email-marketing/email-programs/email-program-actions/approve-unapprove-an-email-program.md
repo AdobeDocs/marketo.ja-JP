@@ -4,7 +4,7 @@ description: メールプログラムを承認／承認取消する — Marketo 
 title: メールプログラムを承認／承認取消する
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 
 プログラムの準備が整ったので、最後の手順はプログラムを承認することです。その方法をご紹介します。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 100%
    >
    >メールプログラムを承認しない場合、メールは送信されません。
 
-1. 「**承認**」タイルの下で、「**プログラムの承認**」をクリックします。
+1. 「**[!UICONTROL 承認]**」タイルの下で、「**[!UICONTROL プログラムの承認]**」をクリックします。
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +53,7 @@ ht-degree: 100%
 
 気が変わって、メールを送りたくなくなった場合は、メールプログラムの承認を取り消すことができます。
 
-1. **マーケティングアクティビティ**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ ht-degree: 100%
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. 「**承認**」タイルで「**プログラムの承認を取り消す**」をクリックします。
+1. 「**[!UICONTROL 承認]**」タイルで「**[!UICONTROL プログラムの承認を取り消す]**」をクリックします。
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

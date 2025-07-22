@@ -4,20 +4,20 @@ description: Microsoft Dynamics 2015 オンプレミス向け Marketo インス�
 title: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 2 / 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
-workflow-type: ht
-source-wordcount: '370'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '359'
+ht-degree: 85%
 
 ---
 
-# 手順 2 / 3 Dynamics（2015 オンプレミス）向け Marketo の設定{#step-of-set-up-for-marketo-on-premises-2015}
+# 手順 2/3 Marketo for [!DNL Dynamics] の設定（2015 オンプレミス）{#step-of-set-up-for-marketo-on-premises-2015}
 
 前の手順を完了させたら、先に進みましょう。
 
 >[!PREREQUISITES]
 >
->[Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 1 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md){target="_blank"}
+>[Marketo for [!DNL Microsoft Dynamics] 2015 オンプレミスでのインストール手順 1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
 
 ## 同期ユーザのロールの割り当て {#assign-sync-user-role}
 
@@ -25,7 +25,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 >[!NOTE]
 >
->これは、Marketo バージョン 4.0.0.14 以降に適用されます。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。お使いの Marketo をアップグレードするには、[Microsoft Dynamics 用 Marketo ソリューションのアップグレード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}を参照してください。
+>これは、Marketo バージョン 4.0.0.14 以降に適用されます。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。Marketoをアップグレードするには、[Marketo ソリューションのアップグレード  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) を参照してください。
 
 >[!IMPORTANT]
 >
@@ -47,7 +47,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
    ![](assets/assign4.png)
 
-1. 「Marketo 同期ユーザ」のチェックをオンにして、「**[!UICONTROL OK]**」をクリックします。
+1. 「[!UICONTROL Marketo 同期ユーザ]」のチェックをオンにして、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/assign5.png)
 
@@ -97,10 +97,10 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 ## 手順 3 に進む前に {#before-proceeding-to-step}
 
-* 同期するレコード数を制限する場合は、[カスタム同期フィルターを設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md){target="_blank"}します。
-* [Microsoft Dynamics 同期を検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}プロセスを実行します。初期設定が正しく行われたことを確認します。
-* Microsoft Dynamics CRM で、Marketo 同期ユーザにログインします。
+* 同期するレコード数を制限する場合は、[カスタム同期フィルターを設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)します。
+* [Validate [!DNL Microsoft Dynamics] Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) プロセスを実行します。 初期設定が正しく行われたことを確認します。
+* [!DNL Microsoft Dynamics] CRM でMarketo同期ユーザーにログインします。
 
 >[!MORELIKETHIS]
 >
->[Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 3 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md){target="_blank"}
+>[Marketo for [!DNL Microsoft Dynamics] 2015 オンプレミスのインストール手順 3/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)

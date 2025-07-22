@@ -4,14 +4,14 @@ description: Marketo 同期に対する Salesforce フィールドの非表示 �
 title: Marketo 同期に対する Salesforce フィールドの非表示
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 86%
+source-wordcount: '165'
+ht-degree: 66%
 
 ---
 
-# Marketo 同期に対する Salesforce フィールドの非表示 {#hide-a-salesforce-field-from-the-marketo-sync}
+# Marketo同期から [!DNL Salesforce] フィールドを非表示にする {#hide-a-salesforce-field-from-the-marketo-sync}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Salesforce のすべてのフィールドがマーケティングに役立つわ
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. 検索バーに「プロファイル」と入力し、「ユーザーを管理 **[!UICONTROL の下の**&#x200B;[!UICONTROL &#x200B; プロファイル &#x200B;]&#x200B;**をクリック]** ます。
+1. 検索バーに「プロファイル」と入力し、「ユーザーを管理 **[!UICONTROL の下の]** プロファイル **[!UICONTROL をクリック]** ます。
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -45,7 +45,7 @@ Salesforce のすべてのフィールドがマーケティングに役立つわ
 
    >[!NOTE]
    >
-   >Salesforce で非表示にしたフィールドが既に Marketo と同期されている場合は、Marketo でも非表示にする必要があります。
+   >[!DNL Salesforce] で非表示にするフィールドが既にMarketoと同期されている場合、それを使用しないようにするには、Marketoでも非表示にする必要があります。
 
    これで完了です。次の同期が完了すると、Marketo ではこのフィールドは表示されなくなります。
 

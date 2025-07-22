@@ -4,32 +4,32 @@ description: パフォーマンスインサイトの設定 - Marketo ドキュ�
 title: パフォーマンスインサイトの設定
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
-# パフォーマンスインサイトの設定 {#setting-up-performance-insights}
+# 設定 [!UICONTROL  パフォーマンスインサイト ] {#setting-up-performance-insights}
 
 以下の手順に従って MPI を設定します。
 
 ## 商談の設定 {#opportunity-setup}
 
-1. 「**管理者**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/admin.png)
 
-1. 「**収益サイクルアナリティクス**」をクリックします。
+1. 「**[!UICONTROL 収益サイクルアナリティクス]**」をクリックします。
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >収益サイクルアナリティクスがない場合は、手順 2 で「**プログラム分析**」を選択する必要があります。
+   >収益サイクルアナリティクスがない場合は、手順 2 で「**[!UICONTROL プログラム分析]**」を選択する必要があります。
 
-1. 「属性」で、「**編集**」をクリックします。
+1. 「属性」で、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/three-1.png)
 
@@ -45,18 +45,18 @@ ht-degree: 100%
    >
    >すべての商談に次の適切なフィールドが設定されていることを確認します。
    >
-   >* 商談額
-   >* クローズ済み
-   >* 獲得済み
-   >* 作成日（お客様の場合は設定できません）
-   >* クローズ日（お客様の場合は設定できません）
-   >* 商談のタイプ
+   >* [!UICONTROL  オポチュニティの金額 ]
+   >* [!UICONTROL  終了 ]
+   >* [!UICONTROL  勝った ]
+   >* [!UICONTROL  作成日 ] （お客様の場合は設定できない場合があります）
+   >* [!UICONTROL  クローズ日 ] （お客様の場合は設定できない場合があります）
+   >* [!UICONTROL  商談タイプ ]
 
 ## プログラムセットアップ {#program-setup}
 
 少なくとも 12 か月間、プログラムのコストを更新します。これは、手動で実行するか、プログラム API を使用して実行できます。この例では、手動でおこないます。
 
-1. 「**マーケティングアクティビティ**」をクリックします。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」をクリックします。
 
    ![](assets/ma.png)
 
@@ -64,29 +64,29 @@ ht-degree: 100%
 
    ![](assets/select-program.png)
 
-1. 「**設定**」タブをクリックします。
+1. 「**[!UICONTROL 設定]**」タブをクリックします。
 
    ![](assets/setup-tab.png)
 
-1. **期間原価**&#x200B;をキャンバスにドラッグします。
+1. **[!UICONTROL 期間原価]**&#x200B;をキャンバスにドラッグします。
 
    ![](assets/period-cost.png)
 
-1. 12 か月以上前にプログラムの月を設定し、「**Ok**」をクリックします。
+1. 12 か月以上前にプログラムの月を設定し、「**[!UICONTROL Ok]**」をクリックします。
 
    ![](assets/set-period.png)
 
-1. 期間原価を設定し、「**保存**」をクリックします。
+1. 期間原価を設定し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/set-cost.png)
 
 次に、分析動作をレビューして、特定のチャネルを分析に含める必要があるかどうかを示します。分析動作（標準、包括的、運用可能）を設定します。
 
-1. 「**管理者**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/admin.png)
 
-1. 「**タグ**」をクリックします。
+1. 「**[!UICONTROL タグ]**」をクリックします。
 
    ![](assets/tags.png)
 
@@ -98,7 +98,7 @@ ht-degree: 100%
 
    ![](assets/channel-click.png)
 
-1. **分析動作**&#x200B;ドロップダウンをクリックして、目的の動作を選択します。
+1. **[!UICONTROL 分析動作]**&#x200B;ドロップダウンをクリックして、目的の動作を選択します。
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ ht-degree: 100%
 
    ![](assets/success.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/save.png)
 

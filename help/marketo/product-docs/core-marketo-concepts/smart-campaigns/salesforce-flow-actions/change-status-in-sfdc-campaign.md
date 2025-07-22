@@ -4,10 +4,10 @@ description: SFDC キャンペーンでのステータス変更 - Marketo ドキ
 title: SFDC キャンペーンでのステータス変更
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: ht
-source-wordcount: '94'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '93'
+ht-degree: 94%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Salesforce と統合されている場合にのみ使用できます。
+>[!DNL Salesforce] と統合されている場合にのみ使用できます。
 
 リードが Salesforce に存在しない場合、またはまだキャンペーンのメンバーでない場合は、自動的に同期され、適切なステータスで Salesforce キャンペーンに追加されます。
 

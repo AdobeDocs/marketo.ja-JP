@@ -4,20 +4,20 @@ description: Sales Connect での注目のアクション - Marketo ドキュメ
 title: Sales Connect の注目のアクション
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 3a3287ed20962a052e0015161e34e33a95dd450a
-workflow-type: ht
-source-wordcount: '285'
-ht-degree: 100%
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
+source-wordcount: '274'
+ht-degree: 78%
 
 ---
 
-# Sales Connect の注目のアクション {#interesting-moments-in-sales-connect}
+# 注目のアクション（[!DNL Sales Connect]） {#interesting-moments-in-sales-connect}
 
-注目のアクションは、Marketo Sales Connect を通じてセールスチームとコミュニケーションを取るための鍵となります。
+興味深い瞬間は、[!DNL Marketo Sales Connect] を通じてセールスチームとコミュニケーションを取るための鍵です。
 
 >[!AVAILABILITY]
 >
->注目のアクションを使用できるのは、[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) と Marketo Sales Connect を契約されたお客様だけです。
+>これらの機能は、[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) および [!DNL Marketo Sales Connect] のお客様のみが利用できます。
 
 >[!PREREQUISITES]
 >
@@ -39,15 +39,15 @@ ht-degree: 100%
 
    ![](assets/image2015-1-8-18-3a8-3a54.png)
 
-1. **注目のアクション**&#x200B;フローステップをドラッグします。
+1. **[!UICONTROL 注目のアクション]**&#x200B;フローステップをドラッグします。
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. **タイプ**&#x200B;を選択します（メール、マイルストーン、web）。
+1. **タイプ** （[!UICONTROL  メール ]、[!UICONTROL  マイルストーン ] または [!UICONTROL Web]）を選択します。
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
-1. このアクションが重要である理由として、セールスチームへのメッセージを「**説明**」フィールドに記入します。
+1. このアクションが重要である理由として、セールスチームへのメッセージを「**[!UICONTROL 説明]**」フィールドに記入します。
 
    ![](assets/image2015-1-8-18-3a18-3a23.png)
 
@@ -61,8 +61,8 @@ ht-degree: 100%
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
-## 注目のアクションは、Sales Connect でどのように表示されるか {#what-does-an-interesting-moment-look-like-in-sales-connect}
+## [!DNL Sales Connect] で興味深い瞬間は何に見えますか？ {#what-does-an-interesting-moment-look-like-in-sales-connect}
 
-注目のアクションは、ユーザーのライブフィードにリアルタイムで表示されます。Salesforce のリード所有者 ID を利用して、ユーザが所有する関連リードの注目のアクションを表示します。リード名の横にあるドロップダウンをクリックすると、電子メール、電話、販売キャンペーンでリードを素早くフォローアップできます。
+注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。リードの所有者 ID を使用して、関連するリードの中で自分が所有者であ [!DNL Salesforce] ユーザーの興味深い瞬間を表示します。 リード名の横にあるドロップダウンをクリックすると、電子メール、電話、販売キャンペーンでリードを素早くフォローアップできます。
 
 ![](assets/engagement.jpg)

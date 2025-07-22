@@ -4,9 +4,9 @@ description: イベントパートナー - Marketo ドキュメント - 製品�
 title: イベントパートナー
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,7 @@ Marketo をイベントパートナーに接続して、オンラインイベン
 
 オンライン Marketo イベントをイベントパートナーと統合する手順を参照してください。
 
-* [Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+* [[!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
 * [Adobe 接続](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
 * [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-* [GoToWebinar](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
+* [[!DNL GoToWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)

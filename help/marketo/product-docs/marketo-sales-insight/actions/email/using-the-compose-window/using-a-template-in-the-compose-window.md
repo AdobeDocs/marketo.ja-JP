@@ -3,10 +3,10 @@ description: 作成ウィンドウでのテンプレートの使用 - Marketo �
 title: 作成ウィンドウでのテンプレートの使用
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 100%
 
 ## テンプレートの検索と使用 {#finding-and-using-templates}
 
-1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**作成**」を選択しています）。
+1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**[!UICONTROL 作成]**」を選択しています）。
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. 「宛先」フィールドに値を入力します。
+1. 「[!UICONTROL To]」フィールドに値を入力します。
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. 検索するカテゴリを選択します（またはすべてのカテゴリを検索するには「すべて」を選択します）。
+1. 検索対象のカテゴリを選択します（または、すべてのカテゴリを検索する場合は [!UICONTROL  すべて ] を選択します）。
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 100%
 
 特定のテンプレートカテゴリを **5 つまで**&#x200B;お気に入りに設定して、最も使用頻度の高いテンプレートに素早くアクセスできます。
 
-1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**作成**」を選択しています）。
+1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**[!UICONTROL 作成]**」を選択しています）。
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. **お気に入り**&#x200B;の横にある「+」アイコンをクリックします。
+1. **お気に入り** の横にある [!UICONTROL +] アイコンをクリックします。
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. **カテゴリをピン留め**&#x200B;ドロップダウンをクリックし、目的のカテゴリを選択します。
+1. **[!UICONTROL カテゴリをピン留め]**&#x200B;ドロップダウンをクリックし、目的のカテゴリを選択します。
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -70,6 +70,6 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >**お気に入り**&#x200B;はデフォルトで存在します。カテゴリではなく、お気に入りのメールテンプレートが格納されます。
+   >**[!UICONTROL お気に入り]**&#x200B;はデフォルトで存在します。カテゴリではなく、お気に入りのメールテンプレートが格納されます。
 
    選択したカテゴリがピン留めされました。

@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 100%
+source-wordcount: '284'
+ht-degree: 91%
 
 ---
 
 # 人物の詳細表示 {#person-detail-view}
 
-人物の詳細表示には、Marketo セールスアカウント内の各人物の詳細なプロファイルが表示されます。
+人物の詳細ビューには、[!DNL Marketo Sales] アカウント内の各人物の詳細なプロファイルが表示されます。
 
 ## アクセス方法 {#how-to-access}
 
-1. 人物の詳細表示にアクセスするには、「**人物**」タブをクリックします。
+1. 人物の詳細表示にアクセスするには、「**[!UICONTROL 人物]**」タブをクリックします。
 
    ![](assets/person-detail-view-1.png)
 
@@ -46,8 +46,8 @@ ht-degree: 100%
 
 **アカウント情報**
 
-* Salesforce に人物を追加できます
-* Salesforce からアカウントおよびリード／取引先責任者情報を取得します
+* [!DNL Salesforce] にユーザーを追加できます
+* [!DNL Salesforce] からアカウントおよびリード/連絡先情報を取り込む
 
 **カスタムフィールド**
 

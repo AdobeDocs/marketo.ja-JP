@@ -4,7 +4,7 @@ description: プログラムでのタグの使用 - Marketo ドキュメント -
 title: プログラムでのタグの使用
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 83%
@@ -21,7 +21,7 @@ ht-degree: 83%
 
 ## プログラムでのタグの使用 {#use-a-tag-in-a-program}
 
-1. プログラムを選択します。「**設定**」をクリックします。
+1. プログラムを選択します。「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -33,7 +33,7 @@ ht-degree: 83%
 
    ![](assets/use-tags-in-a-program-3.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/use-tags-in-a-program-4.png)
 
@@ -43,7 +43,7 @@ ht-degree: 83%
 
 ## タグの編集 {#edit-a-tag}
 
-1. 「**設定**」タブに移動します。タグを右クリックします。「**編集**」を選択します。
+1. 「**[!UICONTROL 設定]**」タブに移動します。タグを右クリックします。「**[!UICONTROL 編集]**」を選択します。
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -51,7 +51,7 @@ ht-degree: 83%
 
    ![](assets/use-tags-in-a-program-7.png)
 
-1. 「**保存**」をクリックします。
+1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/use-tags-in-a-program-8.png)
 
@@ -61,11 +61,11 @@ ht-degree: 83%
 
 ## タグの削除  {#delete-a-tag}
 
-1. 「**設定**」タブに移動します。タグを右クリックし、「**削除**」を選択します。
+1. 「**[!UICONTROL 設定]**」タブに移動します。タグを右クリックし、「**[!UICONTROL 削除]**」を選択します。
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. 「**削除**」をクリックして確定します。
+1. 「**[!UICONTROL 削除]**」をクリックして確定します。
 
    ![](assets/use-tags-in-a-program-11.png)
 

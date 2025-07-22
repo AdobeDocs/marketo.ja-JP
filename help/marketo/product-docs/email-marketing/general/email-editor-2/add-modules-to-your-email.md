@@ -4,16 +4,16 @@ description: メールにモジュールを追加する - Marketo ドキュメ�
 title: メールにモジュールを追加する
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 100%
+source-wordcount: '250'
+ht-degree: 90%
 
 ---
 
 # メールにモジュールを追加する {#add-modules-to-your-email}
 
-メールエディター 2.0 のモジュールは、テンプレートで定義されたメールのセクションです。モジュールには、要素、変数、その他の HTML コンテンツの任意の組み合わせを含めることができます。メールには簡単に追加できます。
+[!DNL Email Editor 2.0] では、モジュールとは、テンプレートで定義されるメールのセクションです。 モジュールには、要素、変数、その他の HTML コンテンツの任意の組み合わせを含めることができます。メールには簡単に追加できます。
 
 1. メールを作成します。必ず、モジュールを含むテンプレートを選択（または作成）してください。
 
@@ -21,9 +21,9 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >ほとんどの Marketo スターターテンプレートにはモジュールが含まれています。また、[独自のものを作成](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules)することもできます。
+   >ほとんどのMarketo[!UICONTROL  スターターテンプレート ] には [!UICONTROL  モジュール ] が含まれています。 また、[独自のものを作成](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules)することもできます。
 
-1. メールの右端にある「**モジュール**」をクリックします。
+1. メールの右端にある「**[!UICONTROL モジュール]**」をクリックします。
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ ht-degree: 100%
 
    ![](assets/nine-2.png)
 
-1. 歯車アイコンをクリックし、モジュールの移動先に応じて、「**上に移動**」または「**下に移動**」を選択します。
+1. 歯車アイコンをクリックし、モジュールの移動先に応じて、「**[!UICONTROL 上に移動]**」または「**[!UICONTROL 下に移動]**」を選択します。
 
    ![](assets/ten-2.png)
 

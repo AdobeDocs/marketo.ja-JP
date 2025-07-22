@@ -4,7 +4,7 @@ description: 「メール全体」A/B テストを使用する — Marketo ド�
 title: 「メール全体」A/B テストを使用する
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 100%
@@ -19,15 +19,15 @@ ht-degree: 100%
 >
 >[A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. 「メール」タイルで、目的のメールを選択して「**A/B テストの追加**」をクリックします。
+1. 「メール」タイルで、目的のメールを選択して「**[!UICONTROL A/B テストの追加]**」をクリックします。
 
 ![](assets/image2014-9-12-15-3a22-3a12.png)
 
-1. 新しいウィンドウが開きます。**テストタイプ**&#x200B;ドロップダウンをクリックし、「**メール全体**」を選択します。
+1. 新しいウィンドウが開きます。**[!UICONTROL テストタイプ]**&#x200B;ドロップダウンをクリックし、「**[!UICONTROL メール全体]**」を選択します。
 
    ![](assets/image2014-9-12-15-3a22-3a27.png)
 
-1. 既存のテスト情報（件名テストなど）がある場合は、「**テストのリセット**」をクリックします。
+1. 既存のテスト情報（件名テストなど）がある場合は、「**[!UICONTROL テストのリセット]**」をクリックします。
 
    ![](assets/image2014-9-12-15-3a22-3a40.png)
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
    ![](assets/image2014-9-12-15-3a22-3a52.png)
 
-1. 「**追加**」をクリックしてメールを適用します。
+1. 「**[!UICONTROL 追加]**」をクリックしてメールを適用します。
 
    ![](assets/image2014-9-12-15-3a23-3a20.png)
 
@@ -47,7 +47,7 @@ ht-degree: 100%
 
    [](assets/image2014-9-12-15-3a23-3a49.png)
 
-1. 「**追加**」をクリックして 2 つ目のメールを適用します。A/B テストを送信するオーディエンスの割合をスライダーで選択して、「**次へ**」をクリックします。
+1. 「**[!UICONTROL 追加]**」をクリックして 2 つ目のメールを適用します。A/B テストを送信するオーディエンスの割合をスライダーで選択して、「**[!UICONTROL 次へ]**」をクリックします。
 
    [](assets/image2014-9-12-15-3a24-3a1.png)
 

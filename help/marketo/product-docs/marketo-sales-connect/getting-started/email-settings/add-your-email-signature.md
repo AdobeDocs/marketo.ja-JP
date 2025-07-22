@@ -4,10 +4,10 @@ description: 電子メール署名の追加 - Marketo ドキュメント - 製�
 title: 電子メール署名の追加
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 100%
 
 Sales Connect からのメールは、自分のメールクライアントから送信する場合とシームレスなエクスペリエンスであるように感じたいものです。これを行う最も良い方法は、電子メールの署名を追加することです。
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/add-your-email-signature-1.png)
 
-1. マイアカウントで、「**メール設定**」を選択します。
+1. [!UICONTROL  マイアカウント ] で **[!UICONTROL メール設定]** を選択します。
 
    ![](assets/add-your-email-signature-2.png)
 
-1. 「**アドレスと署名**」をクリックし、署名を作成するメール ID を選択します。
+1. 「**[!UICONTROL アドレスと署名]**」をクリックし、署名を作成するメール ID を選択します。
 
    ![](assets/add-your-email-signature-3.png)
 
-1. 署名カードで、「**編集**」をクリックします。
+1. [!UICONTROL  署名 ] カードで、「編集 **[!UICONTROL をクリックし]** す。
 
    ![](assets/add-your-email-signature-4.png)
 
-1. 目的のテキスト（または画像）を入力し、「**保存**」をクリックします。
+1. 目的のテキスト（または画像）を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-your-email-signature-5.png)
 

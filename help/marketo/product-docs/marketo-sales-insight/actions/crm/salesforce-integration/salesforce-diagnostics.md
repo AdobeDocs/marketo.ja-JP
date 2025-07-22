@@ -3,24 +3,24 @@ description: Salesforce 診断 - Marketo ドキュメント - 製品ドキュメ
 title: Salesforce 診断
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 9384d72b335a4b975b190816ea999ad067fddeda
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1374'
-ht-degree: 100%
+source-wordcount: '1344'
+ht-degree: 75%
 
 ---
 
-# Salesforce 診断 {#salesforce-diagnostics}
+# [!DNL Salesforce] 診断 {#salesforce-diagnostics}
 
-Salesforce 統合の一部には、Web アプリケーション内に Salesforce の診断ページが含まれています。このページでは、失敗したデータログから Salesforce にエラーを取り込みます。エラーは役に立ちますが、常に読みやすいわけでは限りません。そのため、エラーメッセージを説明するのに役立つカンニングペーパーを作成しました。
+[!DNL Salesforce] 統合の一部には、web アプリケーション内の [!DNL Salesforce] 診断ページが含まれます。 このページは、[!DNL Salesforce] への失敗したデータログからのエラーをキャプチャします。 エラーは役に立ちますが、常に読みやすいわけでは限りません。そのため、エラーメッセージを説明するのに役立つカンニングペーパーを作成しました。
 
 ## アクセス診断 {#access-diagnostics}
 
-1. 歯車アイコンをクリックし、「**設定**」を選択します。
+1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/salesforce-diagnostics-1.png)
 
-1. 「統合」で、「**診断**」をクリックします。
+1. [!UICONTROL  統合 ] で、「**[!UICONTROL 診断]**」をクリックします。
 
    ![](assets/salesforce-diagnostics-2.png)
 
@@ -30,13 +30,13 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **カテゴリ：**&#x200B;アクセス/検証\
 **メッセージ：** API is disabled for this user\
 **状況：**&#x200B;ユーザが API にアクセスできません\
-**トラブルシューティング手順：** Salesforce 管理者は、ユーザ API へのアクセス権を付与する必要があります。
+**トラブルシューティング手順：** 管理者 [!DNL Salesforce]、ユーザー API アクセスを許可する必要があります。
 
 **エラー：** AUTHENTICATION_FAILURE\
 **カテゴリ：**&#x200B;認証\
 **メッセージ：** invalid_grant: authentication failure\
 **状況：**&#x200B;認証に失敗します\
-**トラブルシューティング手順：** Salesforce から切断し、再接続します。
+**トラブルシューティングの手順：** [!DNL Salesforce] から切断してから再接続します。
 
 **エラー：** CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY\
 **カテゴリ：**&#x200B;アクセス/検証\
@@ -66,14 +66,14 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **エラー：**EXPIRED_ACCESS
 **カテゴリ：**認証
 **メッセージ：**invalid_grant: expired access/refresh token
-**状況：**&#x200B;アクセスまたは更新トークンの期限が切れています。トークンは [Salesforce のセッション設定](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)に基づいて期限切れになります。
-**トラブルシューティング手順：**&#x200B;再認証が必要になります。Salesforce 接続を切断し、再接続します。
+**状況：**&#x200B;アクセスまたは更新トークンの期限が切れています。トークンは、[ のセッション設定  [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via) に基づいて期限切れになります。
+**トラブルシューティング手順：**&#x200B;再認証が必要になります。[!DNL Salesforce] 接続を切断し、再接続します。
 
 **エラー：** FAILED_WRITE\
 **カテゴリ：**&#x200B;断続的\
 **メッセージ：** end of file reached\
-**状況：**&#x200B;顧客側での最適でないトリガーが原因と考えられる、Salesforce のパフォーマンスの問題。\
-**トラブルシューティング手順：**&#x200B;再試行ロジックで処理する必要があります。それでも問題が解決しない場合は、Salesforce の管理者に問い合わせて、問題のあるトリガーのトラブルシューティングを依頼します。
+**最新情報：** お客様側の最適でないトリガーが原因である可能性が高い、[!DNL Salesforce] のパフォーマンスの問題。\
+**トラブルシューティング手順：**&#x200B;再試行ロジックで処理する必要があります。それでも機能しない場合は、[!DNL Salesforce] 管理者と協力して、問題のあるトリガーのトラブルシューティングを行ってください。
 
 **エラー：** FIELD_CUSTOM_VALIDATION_EXCEPTION
 **カテゴリ：**アクセス/検証
@@ -82,30 +82,31 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **エラー：** FIELD_FILTER_VALIDATION_EXCEPTION\
 **カテゴリ：**&#x200B;アクセス/検証\
 **メッセージ：** Value does not exist or does not match filter criteria\
-**状況：** Salesforce の既存の不正なデータが更新時に強制されます。\
+**エラーの発生状況：** 更新時に [!DNL Salesforce] 内の既存の無効なデータが適用されます。\
 **トラブルシューティングの手順：**&#x200B;上記を参照してください。
 
 **エラー：** FIELD_INTEGRITY_EXCEPTION\
 **カテゴリ：**&#x200B;アクセス/検証\
 **メッセージ：** The existing country/territory doesn&#39;t recognize the state value for field: State/Province Code\
-**状況：** Salesforce の既存の不正なデータが更新時に強制されます。\
+**エラーの発生状況：** 更新時に [!DNL Salesforce] 内の既存の無効なデータが適用されます。\
 **トラブルシューティングの手順：**&#x200B;上記を参照してください。
 
 **エラー：** INACTIVE_ORGANIZATION\
 **カテゴリ：**&#x200B;認証\
 **メッセージ：** invalid_grant: inactive organization\
-**状況：** Salesforce 組織がアクティブではなくなりました。**トラブルシューティング手順：** Salesforce から切断し、再接続します。
+**最新情報：** [!DNL Salesforce] 組織がアクティブではなくなりました。
+**トラブルシューティングの手順：** 接続を解除してから、[!DNL Salesforce] から再接続します。
 
-**エラー：**INACTIVE_USER
-**カテゴリ：**認証
-**メッセージ：**invalid_grant: inactive user
-**状況：**Salesforce ユーザがアクティブでなくなっています
-**トラブルシューティング手順：** Salesforce から切断し、再接続します。
+**エラー：** INACTIVE_USER
+**カテゴリ：** 認証
+**メッセージ：** invalid_grant：非アクティブなユーザー
+**最新情報：**[!DNL Salesforce] ユーザーがアクティブではなくなりました
+**トラブルシューティングの手順：** 接続を解除してから、[!DNL Salesforce] から再接続します。
 
 **エラー：** INSERT_UPDATE_EXPERIENCE_NOT_ALLOWED_DURING_MAINTENANCE\
 **カテゴリ：**&#x200B;断続的\
 **メッセージ：**（追加のメッセージはありません）\
-**状況：** Salesforce インスタンスはメンテナンスモードです。\
+**発生の状況：** インスタンス [!DNL Salesforce] メンテナンスモードになっています。\
 **トラブルシューティング手順：**&#x200B;システムメンテナンスが完了するまで待ってから、ログを再試行します。
 
 **エラー：**INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY
@@ -117,7 +118,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **カテゴリ：**アクセス／検証
 **メッセージ：**insufficient access rights on object id
 **状況：**&#x200B;最新のアクティビティログは、書き込みアクセス権を持たないので、特定のレコードを編集できません。\
-**トラブルシューティング手順：** Salesforce でのユーザアクセスを許可するか、そのユーザのオブジェクトに対する最新のアクティビティログを無効にします。
+**トラブルシューティングの手順：** そのユーザーのオブジェクトの最新のアクティビティログを [!DNL Salesforce] 定または無効化して、ユーザーにアクセスを付与します。
 
 **エラー：** INVALID_FIELD\
 **カテゴリ：**&#x200B;断続的\
@@ -128,13 +129,13 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **エラー：** INVALID_FIELD_FOR_INSERT_UPDATE\
 **カテゴリ：**&#x200B;アクセス/検証\
 **メッセージ：** Unable to create/update fields: MSE_Replied__c. Please check the security settings of this field.**状況：**&#x200B;最新のアクティビティログトランザクションの実行に必要な Sales Insight Actions カスタムフィールドへの書き込みアクセス権がユーザに与えられていません。チームがパッケージをインストールしたが、ユーザに対して正しいフィールドが有効になっていない可能性があります。\
-**トラブルシューティング手順：** Salesforce 管理者は、カスタムフィールドへのアクセス権を付与するか、最新のアクティビティのログを無効にする必要があります。
+**トラブルシューティング手順：** 管理者 [!DNL Salesforce]、カスタムフィールドへのアクセス権を付与するか、最新のアクティビティログをオフにする必要があります。
 
 **エラー：** INVALID_GRANT\
 **カテゴリ：**&#x200B;認証\
 **メッセージ：** invalid_grant: ip restricted\
-**状況：** Salesforce にアクセスしようとしていますが、IP 制限が設定されているので、アドビではアクセスできません。\
-**トラブルシューティング手順：** Salesforce 管理者がアドビの IP を許可リストに登録する必要があります。IP アドレスを取得するには、サポートに問い合わせる必要があります。
+**最新情報：** お客様の [!DNL Salesforce] にアクセスしようとしていますが、IP 制限が設定されているため、アクセスできません。\
+**トラブルシューティング手順：**[!DNL Salesforce] 管理者は、IP を許可リストに加えるする必要があります。 IP アドレスを取得するには、サポートに問い合わせる必要があります。
 
 **エラー：** INVALID_TYPE\
 **カテゴリ：**&#x200B;アクセス/検証\
@@ -146,7 +147,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **カテゴリ：**&#x200B;断続的\
 **メッセージ：** Your query request was running too long\
 **状況：**&#x200B;上記を参照してください。\
-**トラブルシューティング手順：**&#x200B;再試行ロジックで処理する必要があります。それでも問題が解決しない場合は、Salesforce 管理者に問い合わせて、問題のあるトリガーのトラブルシューティングを依頼します。
+**トラブルシューティング手順：**&#x200B;再試行ロジックで処理する必要があります。それでも機能しない場合は、[!DNL Salesforce] 管理者と協力して、問題のあるトリガーのトラブルシューティングを行ってください。
 
 **エラー：** REQUEST_LIMIT_EXCEEDED\
 **カテゴリ：**&#x200B;断続的\
@@ -159,7 +160,7 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 2 - 統合が多すぎるため、組織が 24 時間周期の期間を超えています。\
 **トラブルシューティング手順：**
 1 - 影響を受けたオブジェクトの既存のトリガーを確認します。1 つ以上のオブジェクトのロールアップログを無効にする可能性があります。\
-2 - Salesforce からさらに API 呼び出しを購入します。1 つ以上のオブジェクトのロールアップログを無効にする可能性があります。
+2 - [!DNL Salesforce] からさらに API 呼び出しを購入します。 1 つ以上のオブジェクトのロールアップログを無効にする可能性があります。
 
 **エラー：** REQUIRED_FIELD_MISSING\
 **カテゴリ：**&#x200B;アクセス/検証\
@@ -170,22 +171,22 @@ Salesforce 統合の一部には、Web アプリケーション内に Salesforce
 **エラー：** SERVER_UNAVAILABLE\
 **カテゴリ：**&#x200B;断続的\
 **メッセージ：** server too busy\
-**状況：**&#x200B;顧客による最適でないトリガーが原因と考えられる、Salesforce のパフォーマンスの問題\
-**トラブルシューティング手順：**&#x200B;再試行ロジックで処理する必要があります。まだ機能しない場合は、Salesforce 管理者と協力して、問題のあるトリガーをトラブルシューティングします。
+**最新情報：** お客様の最適でないトリガーが原因と思われる、[!DNL Salesforce] のパフォーマンスの問題\
+**トラブルシューティング手順：**&#x200B;再試行ロジックで処理する必要があります。それでもうまくいかない場合は、[!DNL Salesforce] 管理者と協力して、問題のあるトリガーをトラブルシューティングします。
 
 **エラー：** TXN_SECURITY_NO_ACCESS\
 **カテゴリ：**&#x200B;アクセス/検証\
 **メッセージ：** The operation you requested isn&#39;t allowed due to a security policy in your organization.システム管理者にお問い合わせください。**状況：**&#x200B;何らかのセキュリティ制限が設定されています。 https://developer.salesforce.com/forums/?id= 「レコード ID」を参照してください。\
-**トラブルシューティング手順：** Salesforce の管理者に問い合わせて、特定の制限事項を確認します。
+**トラブルシューティング手順：**[!DNL Salesforce] 管理者に問い合わせて、特定の制限が何であるかを確認します。
 
 **エラー：** UNABLE_TO_LOCK_ROW\
 **カテゴリ：**&#x200B;断続的\
 **メッセージ：** unable to obtain exclusive access to this record or 1 records: 「レコード ID」\
 **状況：**&#x200B;トリガーが発生し、グループメールの場合など、同じレコードに複数回アクセスしようとする可能性があります。\
-**トラブルシューティング手順：**&#x200B;再試行ロジックで処理する必要があります。それでも問題が解決しない場合は、Salesforce 管理者に問い合わせて、問題のあるトリガーのトラブルシューティングを依頼します。
+**トラブルシューティング手順：**&#x200B;再試行ロジックで処理する必要があります。それでも機能しない場合は、[!DNL Salesforce] 管理者と協力して、問題のあるトリガーのトラブルシューティングを行ってください。
 
 **エラー：**UNKNOWN_EXCEPTION
 **カテゴリ：**&#x200B;その他\
 **メッセージ：** Unknown Exception occurred\
-**状況：** Salesforce での未処理の例外。\
-**トラブルシューティング手順：** Salesforce でケースを作成し、エラーメッセージに数値をコピーします。これは、Salesforce コードがエラーを適切に処理しないためです。
+**発生している問題：** [!DNL Salesforce] で未処理の例外が発生しました。\
+**トラブルシューティング手順：**[!DNL Salesforce] でケースをファイルし、エラーメッセージの数値をコピーします。 これは、エラー [!DNL Salesforce] 適切に処理しないコードです。

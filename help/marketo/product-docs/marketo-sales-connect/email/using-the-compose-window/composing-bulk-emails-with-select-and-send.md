@@ -4,10 +4,10 @@ description: 「選択して送信」による一括メールの作成 - Marketo
 title: 「選択して送信」による一括メールの作成
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '404'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## メールの送信 {#sending-emails}
 
-1. 人物ページに移動します。
+1. **[!UICONTROL 人物]** ページに移動します。
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 100%
    >
    >「選択して送信」を使用する場合は、最大 200 名の人物を選択できます。
 
-1. 「**選択したメール**」ボタンをクリックします。
+1. 「**[!UICONTROL 選択したメール]**」ボタンをクリックします。
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >テンプレートを選択し、送信前にすべての動的フィールドが正しく入力されていることを確認する場合は、「**動的フィールドをプレビュー**」をクリックします。すべてのメールをプレビューするには、一括サイドバーのすべての受信者が選択されていることを確認します。1 つのメールを選択し、「**動的フィールドをプレビュー**」をクリックした場合、そのメールのみがプレビューされます。
+   >テンプレートを選択し、送信前にすべての動的フィールドが正しく入力されていることを確認する場合は、「**[!UICONTROL 動的フィールドをプレビュー]**」をクリックします。すべてのメールをプレビューするには、一括サイドバーのすべての受信者が選択されていることを確認します。1 つのメールを選択し、「**[!UICONTROL 動的フィールドをプレビュー]**」をクリックした場合、そのメールのみがプレビューされます。
 
 ## メールの編集 {#editing-emails}
 
@@ -59,7 +59,7 @@ ht-degree: 100%
    >
    >特定のメール受信者をクリックすると、そのメールに反映される変更を確認できます。
 
-1. 「**送信**」（または「[スケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)」）をクリックして、一括電子メール更新を行ったすべての受信者に送信します。
+1. 「**[!UICONTROL 送信]**」（または「[[!UICONTROL スケジュール]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)」）をクリックして、一括電子メール更新を行ったすべての受信者に送信します。
 
    ![](assets/bulk-four.png)
 
@@ -89,7 +89,7 @@ ht-degree: 100%
    >
    >他の受信者をクリックすると、以前に選択した受信者に加えた変更が表示されないことがわかります。
 
-1. 「**送信**」（または「[スケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)」）をクリックして、一括電子メール更新を行ったすべての受信者に送信します。
+1. 「**[!UICONTROL 送信]**」（または「[[!UICONTROL スケジュール]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)」）をクリックして、一括電子メール更新を行ったすべての受信者に送信します。
 
    ![](assets/each-four.png)
 

@@ -4,8 +4,8 @@ description: カスタム DKIM 署名の設定 - Marketo ドキュメント - �
 title: カスタム DKIM 署名の設定
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
-workflow-type: ht
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 DKIM 署名をパーソナライズして、選択したドメインを反映させることができます。手順は以下のとおりです。
 
-1. 「**管理者**」セクションに移動します。
+1. 「**[!UICONTROL 管理者]**」セクションに移動します。
 
    ![](assets/set-up-a-custom-dkim-signature-1.png)
 
@@ -66,11 +66,11 @@ DKIM 署名をパーソナライズして、選択したドメインを反映さ
    >
    >その際は、新しいレコードが公開され、システムによって検証されるまで、DKIM はドメインに対して署名されないことに注意してください。 新しい DKIM レコードがインターネット全体に完全に反映されるまでに 24～48 時間かかる場合があるので、それに応じて変更を計画します。
 
-1. IT に&#x200B;**ホストレコード**&#x200B;および&#x200B;**文字列の値**&#x200B;を送信します。レコードを作成して、送信元ドメインに関連付けられているすべてのネームサーバーに反映させるように依頼します。Marketo の DKIM 検証では、DKIM 鍵が DKIM 署名済みのドメインに関連付けられているすべてのネームサーバーに伝播される必要があります。
+1. IT に&#x200B;**[!UICONTROL ホストレコード]**&#x200B;および&#x200B;**[!UICONTROL 文字列の値]**&#x200B;を送信します。レコードを作成して、送信元ドメインに関連付けられているすべてのネームサーバーに反映させるように依頼します。Marketo の DKIM 検証では、DKIM 鍵が DKIM 署名済みのドメインに関連付けられているすべてのネームサーバーに伝播される必要があります。
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 
-1. レコードの作成を確認したら、Marketo に戻り、ドメインを選択して、「**DNS を確認**」をクリックします。
+1. レコードの作成を確認したら、Marketo に戻り、ドメインを選択して、「**[!UICONTROL DNS を確認]**」をクリックします。
 
    ![](assets/set-up-a-custom-dkim-signature-6.png)
 

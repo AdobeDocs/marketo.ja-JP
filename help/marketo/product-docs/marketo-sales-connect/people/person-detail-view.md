@@ -4,10 +4,10 @@ description: 人物の詳細表示 - Marketo ドキュメント - 製品ドキ�
 title: 人物の詳細表示
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 100%
+source-wordcount: '281'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## アクセス方法 {#how-to-access}
 
-1. 人物の詳細表示にアクセスするには、「**人物**」タブをクリックします。
+1. 人物の詳細表示にアクセスするには、「**[!UICONTROL 人物]**」タブをクリックします。
 
    ![](assets/person-detail-view-1.png)
 
@@ -45,8 +45,8 @@ ht-degree: 100%
 
 **アカウント情報**
 
-* Salesforce に人物を追加できます
-* Salesforce からアカウントおよびリード／取引先責任者情報を取得します
+* [!DNL Salesforce] にユーザーを追加できます
+* [!DNL Salesforce] からアカウントおよびリード/連絡先情報を取り込む
 
 **カスタムフィールド**
 
@@ -76,19 +76,19 @@ ht-degree: 100%
 
 ![](assets/person-detail-view-5.png)
 
-**セールスキャンペーン**
+**[!UICONTROL セールスキャンペーン]**
 
 * この人物が属するアクティブなキャンペーンまたは完了したキャンペーンを確認できます
 
-**マーケティングキャンペーン**
+**[!UICONTROL マーケティングキャンペーン]**
 
 * この人物が属するマーケティングキャンペーンを確認できます
 
-**セールスメール**
+**[!UICONTROL セールスメール]**
 
 * この人物に送信したメールとエンゲージメント指標を確認できます
 
-**セールス電話**
+**[!UICONTROL セールス電話]**
 
 * この人物に対して行った通話を確認できます
 
