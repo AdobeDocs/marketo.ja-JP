@@ -80,7 +80,7 @@ ht-degree: 46%
     </tbody> 
    </table>
 
-   * 企業向け API ドキュメント：[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * 企業向け API ドキュメント：[https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * 会社の同期に関する API ドキュメント：[https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. MS [!DNL Dynamics] のリード/連絡先をMarketoに同期します。
@@ -117,7 +117,7 @@ ht-degree: 46%
     </tbody> 
    </table>
 
-   * リード向け API ドキュメント：[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
+   * リード向け API ドキュメント：[https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
    * リードの同期に関する API ドキュメント：[https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
 1. MS [!DNL Dynamics] オポチュニティをMarketoに同期します。
@@ -154,7 +154,7 @@ ht-degree: 46%
     </tbody> 
    </table>
 
-   * オポチュニティに関する API ドキュメント：[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * オポチュニティに関する API ドキュメント：[https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * オポチュニティを同期するための API ドキュメント：[https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. MS [!DNL Dynamics] 連絡先ロールをMarketoに同期します。
@@ -191,7 +191,7 @@ ht-degree: 46%
     </tbody> 
    </table>
 
-   * オポチュニティに関する API ドキュメント：[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * オポチュニティに関する API ドキュメント：[https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * オポチュニティを同期するための API ドキュメント：[https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 最後の興味深い瞬間/MSI スコアリングフィールドを MS [!DNL Dynamics] に同期
