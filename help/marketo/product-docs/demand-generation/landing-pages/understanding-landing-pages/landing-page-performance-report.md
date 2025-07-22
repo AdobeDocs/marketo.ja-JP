@@ -19,7 +19,7 @@ ht-degree: 94%
 >
 >スマートリストとランディングページの効果レポートの数値に不一致がある場合は、スマートリストでは人物に関するデータのみがフィルタリングされるのに対し、ランディングページの効果レポートには人物データに加えて、ソーシャルメディア（Facebook、Google 広告など）や匿名アクティビティが含まれることが原因である可能性があります。
 
-1. [ レポートを作成 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) し、[!UICONTROL  ランディングページのパフォーマンス ] [ レポートタイプ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) を選択します。
+1. [ レポートを作成 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) し、[!UICONTROL &#x200B; ランディングページのパフォーマンス &#x200B;] [ レポートタイプ ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md) を選択します。
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「[!UICONTROL レポート]」タブをクリックします。
 1. これで完了です。レポートを参照して、ランディングページの効果を評価します。
 

@@ -17,7 +17,7 @@ ht-degree: 71%
 
 >[!PREREQUISITES]
 >
->[Facebook リード広告 [!UICONTROL  統合を設定 ] する必要があり ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) す。
+>[Facebook リード広告 [!UICONTROL &#x200B; 統合を設定 &#x200B;] する必要があり ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) す。
 
 1. [!UICONTROL Facebook Power Editor] で、キャンペーンと広告を選択し、「**[!UICONTROL 編集]**」をクリックします。
 
@@ -57,4 +57,4 @@ ht-degree: 71%
 
 >[!NOTE]
 >
->[ 有効/無効 [!UICONTROL Facebook リード広告 ]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[ 有効/無効 [!UICONTROL Facebook リード広告 &#x200B;]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

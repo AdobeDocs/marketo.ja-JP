@@ -31,6 +31,6 @@ ht-degree: 95%
 
 >[!MORELIKETHIS]
 >
->* [Web キャンペーンのラベル [!UICONTROL  付け ]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Web キャンペーンのラベル [!UICONTROL &#x200B; 付け &#x200B;]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
 >* [特定のラベルからのセグメントの表示](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [セグメントのラベル付け](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

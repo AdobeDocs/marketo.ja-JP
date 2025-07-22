@@ -39,7 +39,7 @@ Adobe Experience Manager（AEM）を設定し、AEM のアセットにアクセ�
 
    ![](assets/2a.png)
 
-1. ブラウザーで、「[!UICONTROL Adobe Granite クロスオリジンリソース共有ポリシー ]」を検索します（Windows の場合は ctrl+f、Macの場合は cmd+f）。
+1. ブラウザーで、「[!UICONTROL Adobe Granite クロスオリジンリソース共有ポリシー &#x200B;]」を検索します（Windows の場合は ctrl+f、Macの場合は cmd+f）。
 
    ![](assets/three.png)
 

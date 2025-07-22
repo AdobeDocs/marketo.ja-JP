@@ -18,7 +18,7 @@ ht-degree: 15%
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. **[!UICONTROL ドラフトを編集]** をクリックします（フォームが既に承認されている場合は、[!UICONTROL  ドラフトを作成 ]）をクリックします。
+1. **[!UICONTROL ドラフトを編集]** をクリックします（フォームが既に承認されている場合は、[!UICONTROL &#x200B; ドラフトを作成 &#x200B;]）をクリックします。
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 

@@ -23,7 +23,7 @@ Marketo Engage は、Salesforce カスタムオブジェクトの同期を細か
 
    ![](assets/add-remove-custom-object-field-1.png)
 
-1. **[!UICONTROL Admin]** をクリックし、**[!UICONTROL Salesforce オブジェクト同期 ].** をクリックします
+1. **[!UICONTROL Admin]** をクリックし、**[!UICONTROL Salesforce オブジェクト同期 &#x200B;].** をクリックします
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 

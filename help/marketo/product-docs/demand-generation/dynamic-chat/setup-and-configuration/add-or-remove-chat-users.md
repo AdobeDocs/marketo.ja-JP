@@ -40,7 +40,7 @@ ht-degree: 87%
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. 追加するユーザーの [!UICONTROL  名前、ユーザーグループまたはメールアドレス ] を入力します。 姓と名はオプションです。
+1. 追加するユーザーの [!UICONTROL &#x200B; 名前、ユーザーグループまたはメールアドレス &#x200B;] を入力します。 姓と名はオプションです。
 
    ![](assets/add-or-remove-chat-users-5.png)
 

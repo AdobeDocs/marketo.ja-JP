@@ -18,7 +18,7 @@ ht-degree: 92%
 >[!PREREQUISITES]
 >
 >[セグメント化の作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->>[セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>&#x200B;>[セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >

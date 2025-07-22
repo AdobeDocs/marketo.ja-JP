@@ -25,7 +25,7 @@ ht-degree: 74%
 
    ![](assets/one-4.png)
 
-1. 「[!UICONTROL  宛先 ]」フィールドに入力し、「件名 [!UICONTROL  を入力 ] ます。
+1. 「[!UICONTROL &#x200B; 宛先 &#x200B;]」フィールドに入力し、「件名 [!UICONTROL &#x200B; を入力 &#x200B;] ます。
 
    ![](assets/attach-two.png)
 
@@ -47,11 +47,11 @@ ht-degree: 74%
 
 ## トラック可能コンテンツを追加 {#add-trackable-content}
 
-1. メールドラフトを作成します（これを行う方法は複数あります。この例では、「[!UICONTROL  作成 ]」ウィンドウを選択しています）。
+1. メールドラフトを作成します（これを行う方法は複数あります。この例では、「[!UICONTROL &#x200B; 作成 &#x200B;]」ウィンドウを選択しています）。
 
    ![](assets/one-4.png)
 
-1. 「[!UICONTROL  宛先 ]」フィールドに入力し、「件名 [!UICONTROL  を入力 ] ます。
+1. 「[!UICONTROL &#x200B; 宛先 &#x200B;]」フィールドに入力し、「件名 [!UICONTROL &#x200B; を入力 &#x200B;] ます。
 
    ![](assets/two-4.png)
 

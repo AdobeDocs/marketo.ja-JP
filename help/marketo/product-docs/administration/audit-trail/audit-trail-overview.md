@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377945
-description: 監査記録 ] 概要 – Marketo ドキュメント – 製品ドキュメント
+description: 監査記録 &rbrack; 概要 – Marketo ドキュメント – 製品ドキュメント
 title: 監査記録の概要
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail

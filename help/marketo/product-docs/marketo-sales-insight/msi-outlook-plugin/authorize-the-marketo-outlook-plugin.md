@@ -27,7 +27,7 @@ ht-degree: 64%
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. [!UICONTROL Marketo プラグインを認証 ] ダイアログが表示されたら、「**[!UICONTROL コードをリクエスト]**」をクリックします。
+1. [!UICONTROL Marketo プラグインを認証 &#x200B;] ダイアログが表示されたら、「**[!UICONTROL コードをリクエスト]**」をクリックします。
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 

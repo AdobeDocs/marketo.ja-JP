@@ -43,7 +43,7 @@ ht-degree: 78%
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. **タイプ** （[!UICONTROL  メール ]、[!UICONTROL  マイルストーン ] または [!UICONTROL Web]）を選択します。
+1. **タイプ** （[!UICONTROL &#x200B; メール &#x200B;]、[!UICONTROL &#x200B; マイルストーン &#x200B;] または [!UICONTROL Web]）を選択します。
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 

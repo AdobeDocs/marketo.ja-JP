@@ -15,7 +15,7 @@ ht-degree: 84%
 
 各&#x200B;_[!UICONTROL リードステータス]_&#x200B;値に表示されるリードの数を毎月確認して、プロセス内でのリードの移動状況を確認します。
 
-1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL ステータス別のリード]**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
+1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL ステータス別のリード]**&#x200B;[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**[!UICONTROL レポート]**」タブをクリックします。
 

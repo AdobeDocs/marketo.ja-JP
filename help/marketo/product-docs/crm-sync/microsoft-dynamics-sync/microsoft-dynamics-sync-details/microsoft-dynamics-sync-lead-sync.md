@@ -33,7 +33,7 @@ Marketoから [!DNL Dynamics] 同期は非常に強力です。 詳細は次の�
 
 >[!NOTE]
 >
->「[!UICONTROL  ユーザーをMicrosoftに同期 ]」フローアクション（トリガーキャンペーンのみ）を使用する場合、リード/連絡先はリアルタイムで [!DNL Dynamics] に作成されます。
+>「[!UICONTROL &#x200B; ユーザーをMicrosoftに同期 &#x200B;]」フローアクション（トリガーキャンペーンのみ）を使用する場合、リード/連絡先はリアルタイムで [!DNL Dynamics] に作成されます。
 
 ## Marketoのユーザーを [!DNL Dynamics] でリードに手動で強制的に同期させることはできますか？ {#can-i-manually-force-a-sync-of-a-person-from-marketo-to-a-lead-in-dynamics}
 

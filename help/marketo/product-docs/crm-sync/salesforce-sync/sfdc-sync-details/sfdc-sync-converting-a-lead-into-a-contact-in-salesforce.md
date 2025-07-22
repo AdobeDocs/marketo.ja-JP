@@ -28,4 +28,4 @@ Marketo では、レコードの SFDC タイプが連絡先になります。
 >
 >[!DNL Salesforce] で変換する場合は、[ リードカスタムフィールドが適切にマッピングされている ](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm) ことを確認します。 データは失いたくありません。
 
-「[!UICONTROL  リードはコンバート済み ]」および「[!UICONTROL  リードはコンバート済み ]」を使用してトリガーおよびフィルター処理できます。
+「[!UICONTROL &#x200B; リードはコンバート済み &#x200B;]」および「[!UICONTROL &#x200B; リードはコンバート済み &#x200B;]」を使用してトリガーおよびフィルター処理できます。

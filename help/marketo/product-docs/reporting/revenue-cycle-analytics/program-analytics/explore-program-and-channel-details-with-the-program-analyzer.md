@@ -11,13 +11,13 @@ ht-degree: 87%
 
 ---
 
-# [!UICONTROL  プログラムアナライザー ] によるプログラムとチャネルの詳細の探索 {#explore-program-channel-details-with-the-program-analyzer}
+# [!UICONTROL &#x200B; プログラムアナライザー &#x200B;] によるプログラムとチャネルの詳細の探索 {#explore-program-channel-details-with-the-program-analyzer}
 
-[!UICONTROL  プログラムアナライザー ] で、詳細なプログラムとチャネルの統計を確認できます。 また、収益サイクルエクスプローラーで開くこともできます。
+[!UICONTROL &#x200B; プログラムアナライザー &#x200B;] で、詳細なプログラムとチャネルの統計を確認できます。 また、収益サイクルエクスプローラーで開くこともできます。
 
 >[!PREREQUISITES]
 >
->[ プログラムアナライザ [!UICONTROL  の作成 ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[ プログラムアナライザ [!UICONTROL &#x200B; の作成 &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >

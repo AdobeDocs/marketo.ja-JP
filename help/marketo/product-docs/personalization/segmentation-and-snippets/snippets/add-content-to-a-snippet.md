@@ -33,7 +33,7 @@ ht-degree: 94%
 
 スニペットには、3 種類のコンテンツを追加できます。
 
-## [!UICONTROL  トークン ] を追加 {#add-token}
+## [!UICONTROL &#x200B; トークン &#x200B;] を追加 {#add-token}
 
 1. **[!UICONTROL トークン]**&#x200B;要素をドラッグ＆ドロップします。
 

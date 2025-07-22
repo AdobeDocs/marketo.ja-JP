@@ -47,7 +47,7 @@ ht-degree: 81%
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. [!UICONTROL  ソリューション情報 ] を表示し、「**[!UICONTROL ソリューションパッケージの詳細を表示]**」をクリックします。
+1. [!UICONTROL &#x200B; ソリューション情報 &#x200B;] を表示し、「**[!UICONTROL ソリューションパッケージの詳細を表示]**」をクリックします。
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
@@ -55,7 +55,7 @@ ht-degree: 81%
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. [!UICONTROL  ソリューション情報 ] ページに戻り、「**[!UICONTROL 次へ]**」をクリックします。
+1. [!UICONTROL &#x200B; ソリューション情報 &#x200B;] ページに戻り、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 

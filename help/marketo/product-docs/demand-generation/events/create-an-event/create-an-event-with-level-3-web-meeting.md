@@ -27,19 +27,19 @@ ht-degree: 50%
 * **タイムゾーン** - Web キャストのタイムゾーン設定。
 * **説明** - Web キャストの説明。
 
-1. 新しいイベントを選択します。**[!UICONTROL イベントアクション ] をクリック**、**[!UICONTROL イベント設定 ].** をクリックします。
+1. 新しいイベントを選択します。**[!UICONTROL イベントアクション &#x200B;] をクリック**、**[!UICONTROL イベント設定 &#x200B;].** をクリックします。
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. [!UICONTROL  イベント パートナー ] の下で **[!UICONTROL Level 3 Web Meeting]** を選択します。
+1. [!UICONTROL &#x200B; イベント パートナー &#x200B;] の下で **[!UICONTROL Level 3 Web Meeting]** を選択します。
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
-1. [!UICONTROL  ログイン ] の下で、[!DNL Level 3] ログインを選択します。
+1. [!UICONTROL &#x200B; ログイン &#x200B;] の下で、[!DNL Level 3] ログインを選択します。
 
    ![](assets/image2016-3-24-15-3a43-3a43.png)
 
-1. [!UICONTROL  イベント ] で、使用する [!DNL Level 3] イベントを選択します。
+1. [!UICONTROL &#x200B; イベント &#x200B;] で、使用する [!DNL Level 3] イベントを選択します。
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 

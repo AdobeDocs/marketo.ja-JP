@@ -68,7 +68,7 @@ MSI Actions パッケージの使用を開始したら、[!DNL Sales Connect] �
    >
    >グレー表示になっているボタンがない場合は、まだ追加されていないことを意味します。このセクションはスキップできます。
 
-1. MSC ボタンを「[!UICONTROL  カスタム・ボタン ] セクションからコンソールにドラッグ・アンド・ドロップします。
+1. MSC ボタンを「[!UICONTROL &#x200B; カスタム・ボタン &#x200B;] セクションからコンソールにドラッグ・アンド・ドロップします。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-10.png)
 
@@ -76,13 +76,13 @@ MSI Actions パッケージの使用を開始したら、[!DNL Sales Connect] �
 
    ![](assets/uninstall-salesforce-lightning-customization-package-11.png)
 
-## [!DNL Sales Connect] アクティビティ履歴 [!UICONTROL  セクションから ] フィールドを削除 {#remove-sales-connect-fields-from-activity-history-section}
+## [!DNL Sales Connect] アクティビティ履歴 [!UICONTROL &#x200B; セクションから &#x200B;] フィールドを削除 {#remove-sales-connect-fields-from-activity-history-section}
 
-1. ページの下部までスクロールして「[!UICONTROL  アクティビティ履歴 ]」関連のリストセクションに移動し、レンチ アイコンをクリックします。
+1. ページの下部までスクロールして「[!UICONTROL &#x200B; アクティビティ履歴 &#x200B;]」関連のリストセクションに移動し、レンチ アイコンをクリックします。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. 「[!DNL Sales Connect] 選択したフィールド [!UICONTROL 」領域から ] のフィールドを選択し、「[!UICONTROL  削除 ]」矢印をクリックします。 終了したら、「**[!UICONTROL OK]**」をクリックします。
+1. 「[!DNL Sales Connect] 選択したフィールド [!UICONTROL 」領域から &#x200B;] のフィールドを選択し、「[!UICONTROL &#x200B; 削除 &#x200B;]」矢印をクリックします。 終了したら、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 
@@ -110,11 +110,11 @@ MSI Actions パッケージの使用を開始したら、[!DNL Sales Connect] �
 
    ![](assets/uninstall-salesforce-lightning-customization-package-17.png)
 
-1. [!UICONTROL  リスト表示 ] の横の矢印をクリックし、「**[!UICONTROL 編集]**」を選択します。
+1. [!UICONTROL &#x200B; リスト表示 &#x200B;] の横の矢印をクリックし、「**[!UICONTROL 編集]**」を選択します。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-18.png)
 
-1. **[!UICONTROL MSC キャンペーンに追加]**、**[!UICONTROL MSC による電子メール]**、および **[!UICONTROL MSC へのプッシュ]** を選択し、[!UICONTROL  削除 ] 矢印をクリックします。 「**[!UICONTROL 保存]**」をクリックします。
+1. **[!UICONTROL MSC キャンペーンに追加]**、**[!UICONTROL MSC による電子メール]**、および **[!UICONTROL MSC へのプッシュ]** を選択し、[!UICONTROL &#x200B; 削除 &#x200B;] 矢印をクリックします。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-19.png)
 
@@ -172,7 +172,7 @@ MSI Actions パッケージの使用を開始したら、[!DNL Sales Connect] �
 
 1. 「**[!UICONTROL タブをカスタマイズ]**」をクリックします。
 
-1. 右側の「Marketo Sales 送信トレイ」オプションを選択します。[!UICONTROL  削除 ] 矢印をクリックしてから、「**[!UICONTROL 保存]** をクリックします。
+1. 右側の「Marketo Sales 送信トレイ」オプションを選択します。[!UICONTROL &#x200B; 削除 &#x200B;] 矢印をクリックしてから、「**[!UICONTROL 保存]** をクリックします。
 
 ## パッケージ [!DNL Sales Connect] 削除 {#delete-sales-connect-package}
 
@@ -210,7 +210,7 @@ MSI Actions パッケージの使用を開始したら、[!DNL Sales Connect] �
   <td>テキスト</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC キャンペーン ]</td>
+  <td>[!UICONTROL MSC キャンペーン &#x200B;]</td>
   <td>取引先責任者／リードに適用されている MSC キャンペーンの名前を記録します</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
@@ -222,13 +222,13 @@ MSI Actions パッケージの使用を開始したら、[!DNL Sales Connect] �
   <td>テキスト</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC キャンペーンの現在の手順 ]</td>
+  <td>[!UICONTROL MSC キャンペーンの現在の手順 &#x200B;]</td>
   <td>取引先責任者／リードに適用されているキャンペーンがある場合、このフィールドには、リード／取引先責任者が現在適用されているステップの名前が記録されます</td>
   <td>アクティビティ</td>
   <td>チェックボックス</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC 電子メール添付ファイルが表示されました ]</td>
+  <td>[!UICONTROL MSC 電子メール添付ファイルが表示されました &#x200B;]</td>
   <td>ファイルが添付されたメールが送信され、受信者が閲覧した場合に、データを記録します</td>
   <td>アクティビティ</td>
   <td>チェックボックス</td>
@@ -240,19 +240,19 @@ MSI Actions パッケージの使用を開始したら、[!DNL Sales Connect] �
   <td>チェックボックス</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC E メール返信 ]</td>
+  <td>[!UICONTROL MSC E メール返信 &#x200B;]</td>
   <td>受信者がメールに返信したときにチェックマークを記録します</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC 電子メールの状態 ]</td>
+  <td>[!UICONTROL MSC 電子メールの状態 &#x200B;]</td>
   <td>メールが送信済み／処理中／バウンスされたかどうかを表示します（バウンスメールのトラッキングは、使用する配信チャネルに依存します）</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC メール テンプレート ]</td>
+  <td>[!UICONTROL MSC メール テンプレート &#x200B;]</td>
   <td>リード／取引先責任者に送信されたメールで使用された MSC テンプレートの名前を記録します</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
@@ -393,7 +393,7 @@ MSI Actions パッケージの使用を開始したら、[!DNL Sales Connect] �
   <th>タイプ</th>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC メールの送信 ]</td>
+  <td>[!UICONTROL MSC メールの送信 &#x200B;]</td>
   <td>からの販売 E メールの送信 [!DNL Salesforce]</td>
   <td>
   <p>アカウント 
@@ -402,21 +402,21 @@ MSI Actions パッケージの使用を開始したら、[!DNL Sales Connect] �
   <p>商談</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC キャンペーンに追加 ]</td>
+  <td>[!UICONTROL MSC キャンペーンに追加 &#x200B;]</td>
   <td>から MSC キャンペーンに追加 [!DNL Salesforce]</td>
   <td>
   <p>取引先責任者
   <p>リード</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC へのプッシュ ]</td>
+  <td>[!UICONTROL MSC へのプッシュ &#x200B;]</td>
   <td>[!DNL Salesforce] から MSC への連絡先のプッシュ</td>
   <td>
   <p>取引先責任者
   <p>リード</td>
  </tr>
  <tr>
-  <td>[!MSC を使用した UICONTROL 呼び出し ]</td>
+  <td>[!UICONTROL MSC を使用した 呼び出し &#x200B;]</td>
   <td>から営業の電話をかける [!DNL Salesforce]</td>
   <td>
   <p>取引先責任者
@@ -431,14 +431,14 @@ MSI Actions パッケージの使用を開始したら、[!DNL Sales Connect] �
   <th>タイプ</th>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC キャンペーンに追加 ]</td>
+  <td>[!UICONTROL MSC キャンペーンに追加 &#x200B;]</td>
   <td>から MSC キャンペーンに追加 [!DNL Salesforce]</td>
   <td>
   <p>取引先責任者
   <p>リード</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC へのプッシュ ]</td>
+  <td>[!UICONTROL MSC へのプッシュ &#x200B;]</td>
   <td>[!DNL Salesforce] から MSC への連絡先のプッシュ</td>
   <td>
   <p>取引先責任者

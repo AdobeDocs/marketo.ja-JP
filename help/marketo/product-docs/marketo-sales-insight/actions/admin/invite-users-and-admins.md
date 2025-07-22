@@ -20,7 +20,7 @@ ht-degree: 93%
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL User Management]**」を選択します。
+1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、「**[!UICONTROL User Management]**」を選択します。
 
    ![](assets/invite-users-and-admins-2.png)
 
@@ -64,7 +64,7 @@ ht-degree: 93%
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL User Management]**」を選択します。
+1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、「**[!UICONTROL User Management]**」を選択します。
 
    ![](assets/invite-users-and-admins-9.png)
 

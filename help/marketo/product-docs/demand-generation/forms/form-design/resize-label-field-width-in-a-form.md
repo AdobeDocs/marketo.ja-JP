@@ -31,7 +31,7 @@ ht-degree: 87%
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. [!UICONTROL  ラベル幅 ] または [!UICONTROL  フィールド幅 ] のピクセル値を入力します。
+1. [!UICONTROL &#x200B; ラベル幅 &#x200B;] または [!UICONTROL &#x200B; フィールド幅 &#x200B;] のピクセル値を入力します。
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 

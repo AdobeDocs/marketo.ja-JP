@@ -11,13 +11,13 @@ ht-degree: 46%
 
 ---
 
-# [!UICONTROL  予測コンテンツ ] のタイトルの承認取消 {#unapprove-a-title-for-predictive-content}
+# [!UICONTROL &#x200B; 予測コンテンツ &#x200B;] のタイトルの承認取消 {#unapprove-a-title-for-predictive-content}
 
-[!UICONTROL  すべてのコンテンツ ] ページまたは [!UICONTROL  コンテンツを編集 ] ポップアップで、予測コンテンツのタイトルの承認を取り消すことができます。
+[!UICONTROL &#x200B; すべてのコンテンツ &#x200B;] ページまたは [!UICONTROL &#x200B; コンテンツを編集 &#x200B;] ポップアップで、予測コンテンツのタイトルの承認を取り消すことができます。
 
-## [!UICONTROL  すべてのコンテンツ ] ページ {#all-content-page}
+## [!UICONTROL &#x200B; すべてのコンテンツ &#x200B;] ページ {#all-content-page}
 
-1. [!UICONTROL  すべてのコンテンツ ] ページで、コンテンツの横にあるチェックボックスをオンにして選択します。
+1. [!UICONTROL &#x200B; すべてのコンテンツ &#x200B;] ページで、コンテンツの横にあるチェックボックスをオンにして選択します。
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
@@ -25,7 +25,7 @@ ht-degree: 46%
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
-## [!UICONTROL  コンテンツを編集 ] ポップアップ {#edit-content-pop-up}
+## [!UICONTROL &#x200B; コンテンツを編集 &#x200B;] ポップアップ {#edit-content-pop-up}
 
 編集中にタイトルの承認を取り消すことができます。
 
@@ -37,6 +37,6 @@ ht-degree: 46%
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
-どの方法を使用しても、承認アイコンが [!UICONTROL  すべてのコンテンツ ] ページに表示されず、[!UICONTROL  予測コンテンツ ] ページからタイトルが表示されなくなります。
+どの方法を使用しても、承認アイコンが [!UICONTROL &#x200B; すべてのコンテンツ &#x200B;] ページに表示されず、[!UICONTROL &#x200B; 予測コンテンツ &#x200B;] ページからタイトルが表示されなくなります。
 
 ![](assets/unapprove-content-no-icon.png)

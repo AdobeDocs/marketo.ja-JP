@@ -43,7 +43,7 @@ ht-degree: 96%
 
    ![](assets/seven.png)
 
-1. 「[!UICONTROL  スケジュール ]」タブで、「**[!UICONTROL 1 回実行]**」をクリックします。
+1. 「[!UICONTROL &#x200B; スケジュール &#x200B;]」タブで、「**[!UICONTROL 1 回実行]**」をクリックします。
 
    ![](assets/eight.png)
 

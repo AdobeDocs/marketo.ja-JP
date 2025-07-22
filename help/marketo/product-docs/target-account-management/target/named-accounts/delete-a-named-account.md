@@ -11,7 +11,7 @@ ht-degree: 96%
 
 ---
 
-# [!UICONTROL  指定アカウント ] を削除 {#delete-a-named-account}
+# [!UICONTROL &#x200B; 指定アカウント &#x200B;] を削除 {#delete-a-named-account}
 
 重点顧客を削除するには、次の手順に従います。
 

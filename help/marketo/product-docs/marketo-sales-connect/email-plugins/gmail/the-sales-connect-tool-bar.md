@@ -17,7 +17,7 @@ ht-degree: 42%
 
 | ボタン | 説明 |
 |---|---|
-| **[!UICONTROL ライブフィード ] ボタン** | [!DNL Sales Connect] [ ライブフィード ](https://toutapp.com/next#live) が開き、メールに関するリアルタイムのトラッキング情報を取得できます。 |
-| **[!UICONTROL タスク ] ボタン** | すべてのタスクのドロップダウンが表示されます。 |
-| **[!UICONTROL テンプレートと会話 ] ボタン** | [Web アプリケーション ](https://toutapp.com/login) の [!UICONTROL  テンプレート ] ページと [!UICONTROL  会話 ] ページをそれぞれ開きます。 すべてが Gmail ページ内に表示されます。 |
+| **[!UICONTROL ライブフィード &#x200B;] ボタン** | [!DNL Sales Connect] [ ライブフィード ](https://toutapp.com/next#live) が開き、メールに関するリアルタイムのトラッキング情報を取得できます。 |
+| **[!UICONTROL タスク &#x200B;] ボタン** | すべてのタスクのドロップダウンが表示されます。 |
+| **[!UICONTROL テンプレートと会話 &#x200B;] ボタン** | [Web アプリケーション ](https://toutapp.com/login) の [!UICONTROL &#x200B; テンプレート &#x200B;] ページと [!UICONTROL &#x200B; 会話 &#x200B;] ページをそれぞれ開きます。 すべてが Gmail ページ内に表示されます。 |
 | **[!UICONTROL Sales Gong] ボタン** | チームメイトと契約／勝ち取りを祝うことができます。 |

@@ -19,7 +19,7 @@ ht-degree: 86%
 
 ![](assets/one-1.png)
 
-検索ボックスに「[!UICONTROL  指定顧客 ]」と入力して、両方の [!UICONTROL  指定顧客 ]トリガーを検索します。
+検索ボックスに「[!UICONTROL &#x200B; 指定顧客 &#x200B;]」と入力して、両方の [!UICONTROL &#x200B; 指定顧客 &#x200B;]トリガーを検索します。
 
 ![](assets/two-1.png)
 

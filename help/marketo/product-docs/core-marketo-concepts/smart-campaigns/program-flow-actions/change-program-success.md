@@ -31,7 +31,7 @@ ht-degree: 83%
 
    >[!NOTE]
    >
-   >[!UICONTROL  成功日 ] を任意の値に設定すると、成功は自動的に true に設定されます。 [!UICONTROL Success] を true に設定すると、成功日が現在の日付に自動的に設定されます。
+   >[!UICONTROL &#x200B; 成功日 &#x200B;] を任意の値に設定すると、成功は自動的に true に設定されます。 [!UICONTROL Success] を true に設定すると、成功日が現在の日付に自動的に設定されます。
 
 1. 「**[!UICONTROL 新しい値]**」を **[!UICONTROL true]** か **[!UICONTROL false]** に設定します。
 

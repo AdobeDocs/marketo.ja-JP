@@ -15,7 +15,7 @@ ht-degree: 93%
 
 メールはドラフト状態で開始します。通常は、ユーザーが承認するまで、システムでは使用できません。メールを承認するには、いくつかの方法があります。
 
-## [!UICONTROL  メールアクション ] メニューを使用して承認 {#approve-it-using-the-email-actions-menu}
+## [!UICONTROL &#x200B; メールアクション &#x200B;] メニューを使用して承認 {#approve-it-using-the-email-actions-menu}
 
 1. メールを検索して選択し、**[!UICONTROL メールアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 承認]**」を選択します。
 

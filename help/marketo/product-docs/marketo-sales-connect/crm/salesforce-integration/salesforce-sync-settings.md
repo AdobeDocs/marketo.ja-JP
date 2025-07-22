@@ -25,7 +25,7 @@ ht-degree: 57%
 
    ![](assets/one-2.png)
 
-1. [!UICONTROL  マイアカウント ] （管理者の場合は [!UICONTROL  管理者設定 ]）で、**[!UICONTROL Salesforce]** をクリックします。
+1. [!UICONTROL &#x200B; マイアカウント &#x200B;] （管理者の場合は [!UICONTROL &#x200B; 管理者設定 &#x200B;]）で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/two-2.png)
 
@@ -55,7 +55,7 @@ ht-degree: 57%
 
    ![](assets/one-3.png)
 
-1. [!UICONTROL  マイアカウント ] （管理者の場合は [!UICONTROL  管理者設定 ]）で、**[!UICONTROL Salesforce]** をクリックします。
+1. [!UICONTROL &#x200B; マイアカウント &#x200B;] （管理者の場合は [!UICONTROL &#x200B; 管理者設定 &#x200B;]）で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/two-3.png)
 
@@ -90,7 +90,7 @@ ht-degree: 57%
 1. 「**[!UICONTROL メール管理]**」をクリックします。
 1. 「**[!UICONTROL Salesforce にメール送信]**」をクリックします。
 1. 「**[!UICONTROL 編集]**」をクリックします。
-1. 「[!UICONTROL  アクティブ ]」の横にあるチェックボックスをオンにします。
+1. 「[!UICONTROL &#x200B; アクティブ &#x200B;]」の横にあるチェックボックスをオンにします。
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
 ## [!DNL Salesforce] のタスクに Sales Connect のタスク/リマインダーを同期 {#sync-sales-connect-tasks-reminders-to-salesforce-tasks}
@@ -99,7 +99,7 @@ ht-degree: 57%
 
    ![](assets/one-3.png)
 
-1. [!UICONTROL  マイアカウント ] （管理者の場合は [!UICONTROL  管理者設定 ]）で、**[!UICONTROL Salesforce]** をクリックします。
+1. [!UICONTROL &#x200B; マイアカウント &#x200B;] （管理者の場合は [!UICONTROL &#x200B; 管理者設定 &#x200B;]）で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/two-2.png)
 
@@ -111,6 +111,6 @@ ht-degree: 57%
 
    ![](assets/seven-2.png)
 
-1. 目的のオプションを選択します（「[!UICONTROL Salesforce タスクに同期しない ]」がデフォルトで選択されています）。
+1. 目的のオプションを選択します（「[!UICONTROL Salesforce タスクに同期しない &#x200B;]」がデフォルトで選択されています）。
 
    ![](assets/eight.png)

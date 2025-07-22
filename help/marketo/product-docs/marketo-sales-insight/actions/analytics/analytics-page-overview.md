@@ -12,7 +12,7 @@ ht-degree: 89%
 
 # 分析ページの概要 {#analytics-page-overview}
 
-「分析」タブでは、メールのエンゲージメントに関するデータを確認できます。個人データとチームデータの両方が表示されます。管理者は、「自分 [!UICONTROL  タブでユーザーでフィルタリングすることもでき ] す。
+「分析」タブでは、メールのエンゲージメントに関するデータを確認できます。個人データとチームデータの両方が表示されます。管理者は、「自分 [!UICONTROL &#x200B; タブでユーザーでフィルタリングすることもでき &#x200B;] す。
 
 ## 更新の頻度 {#how-often-does-it-update}
 
@@ -36,11 +36,11 @@ ht-degree: 89%
 
 「[自分](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}」タブは、メール、テンプレート、リンクのエンゲージメントを確認するのに最適です。Sales Insight Actions の管理者は、チーム上の任意のユーザでフィルタリングして統計を確認できます。
 
-## [!UICONTROL  チーム ] タブ {#team-tab}
+## [!UICONTROL &#x200B; チーム &#x200B;] タブ {#team-tab}
 
 [「チーム」タブ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}で、チーム全体の統計とランキングを表示できます。また、作成した任意のサブチームでフィルタリングすることもできます。
 
-## 「[!UICONTROL  コンテンツ ]」タブ {#content-tab}
+## 「[!UICONTROL &#x200B; コンテンツ &#x200B;]」タブ {#content-tab}
 
 「[コンテンツ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"}」タブには、テンプレート、コンテンツおよびリンクに関する統計が含まれます。全員または管理者が作成したチームでフィルターできます。
 

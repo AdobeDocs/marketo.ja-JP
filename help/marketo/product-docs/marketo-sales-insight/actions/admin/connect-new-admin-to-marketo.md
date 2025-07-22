@@ -16,9 +16,9 @@ ht-degree: 81%
 
 2 番目の管理者が Marketo に管理者として接続していない場合
 
-1. プライマリ管理者は、2 人目の管理者をMarketoから [!UICONTROL  設定 ]/Marketo/[!UICONTROL  ユーザーアクセス ] で切断する必要があります。
+1. プライマリ管理者は、2 人目の管理者をMarketoから [!UICONTROL &#x200B; 設定 &#x200B;]/Marketo/[!UICONTROL &#x200B; ユーザーアクセス &#x200B;] で切断する必要があります。
 
-1. セカンダリ管理者が MSC アカウントにログインし、[!UICONTROL  設定 ]/Marketoに移動して **[!UICONTROL 接続]** をクリックします。
+1. セカンダリ管理者が MSC アカウントにログインし、[!UICONTROL &#x200B; 設定 &#x200B;]/Marketoに移動して **[!UICONTROL 接続]** をクリックします。
 
 1. セカンダリユーザーが Marketo に管理者として接続されます。
 

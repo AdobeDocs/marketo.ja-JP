@@ -11,13 +11,13 @@ ht-degree: 45%
 
 ---
 
-# [!UICONTROL  プログラムアナライザ ] を使用したプログラムの有効性の比較 {#compare-program-effectiveness-with-the-program-analyzer}
+# [!UICONTROL &#x200B; プログラムアナライザ &#x200B;] を使用したプログラムの有効性の比較 {#compare-program-effectiveness-with-the-program-analyzer}
 
-[!UICONTROL  プログラムアナライザー ] を使用すると、プログラムのコスト、メンバーの獲得、パイプライン、収益を比較して、最も効果が高いプログラムと最も効果が低いプログラムを特定できます。
+[!UICONTROL &#x200B; プログラムアナライザー &#x200B;] を使用すると、プログラムのコスト、メンバーの獲得、パイプライン、収益を比較して、最も効果が高いプログラムと最も効果が低いプログラムを特定できます。
 
 >[!PREREQUISITES]
 >
->[ プログラムアナライザ [!UICONTROL  の作成 ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[ プログラムアナライザ [!UICONTROL &#x200B; の作成 &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 1. 「**[!UICONTROL 分析]**」をクリックします。
 
@@ -83,7 +83,7 @@ ht-degree: 45%
 
    ![](assets/image2014-9-17-18-3a55-3a47.png)
 
-[!DNL Paper Fest 12] プログラムは、より多くの収益（より大きなバブル）に影響を与えるだけでなく、比較的高いプログラムコスト（右側）にもかかわらず、[!UICONTROL  トレードショー ] チャネルのすべてのプログラムの投資への最良のリターン（最も環境に優しいバブル）を持っています。
+[!DNL Paper Fest 12] プログラムは、より多くの収益（より大きなバブル）に影響を与えるだけでなく、比較的高いプログラムコスト（右側）にもかかわらず、[!UICONTROL &#x200B; トレードショー &#x200B;] チャネルのすべてのプログラムの投資への最良のリターン（最も環境に優しいバブル）を持っています。
 
 >[!TIP]
 >
@@ -92,4 +92,4 @@ ht-degree: 45%
 >[!MORELIKETHIS]
 >
 >* [ プログラムアナライザーを使用したプログラムとチャネルの詳細の調査 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [ チャネルの有効性と [!UICONTROL  プログラムアナライザーの比較 ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [ チャネルの有効性と [!UICONTROL &#x200B; プログラムアナライザーの比較 &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)

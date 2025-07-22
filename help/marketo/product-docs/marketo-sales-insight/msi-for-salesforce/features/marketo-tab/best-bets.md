@@ -35,12 +35,12 @@ ht-degree: 21%
 
 **インラインエンゲージメント**
 
-[!UICONTROL  アクション ] 列の下の Dota メニューをクリックすると、次のエンゲージメントオプションを使用して、特定のリードまたは連絡先に連絡できます。
+[!UICONTROL &#x200B; アクション &#x200B;] 列の下の Dota メニューをクリックすると、次のエンゲージメントオプションを使用して、特定のリードまたは連絡先に連絡できます。
 
-* [!UICONTROL Marketo メールの送信 ]
-* [!UICONTROL Marketo キャンペーンに追加 ]
-* [!UICONTROL Marketoで表示 ]
-* [!UICONTROL  ウォッチリストに追加 ]
+* [!UICONTROL Marketo メールの送信 &#x200B;]
+* [!UICONTROL Marketo キャンペーンに追加 &#x200B;]
+* [!UICONTROL Marketoで表示 &#x200B;]
+* [!UICONTROL &#x200B; ウォッチリストに追加 &#x200B;]
 
 ![](assets/best-bets-1.png)
 
@@ -48,9 +48,9 @@ ht-degree: 21%
 
 チェックボックスを使用して [!DNL Best Bets] ページから 1 人以上のリードまたは連絡先を選択し、次のエンゲージメントオプションを使用してグループとして連絡することができます。
 
-* [!UICONTROL Marketo メールの送信 ]
-* [!UICONTROL Marketo キャンペーンに追加 ]
-* [!UICONTROL  ウォッチリストに追加 ]
+* [!UICONTROL Marketo メールの送信 &#x200B;]
+* [!UICONTROL Marketo キャンペーンに追加 &#x200B;]
+* [!UICONTROL &#x200B; ウォッチリストに追加 &#x200B;]
 
 ![](assets/best-bets-2.png)
 

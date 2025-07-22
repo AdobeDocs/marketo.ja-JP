@@ -90,7 +90,7 @@ ht-degree: 39%
 
    ![](assets/one.png)
 
-1. [!UICONTROL  マイアカウント ] で **[!UICONTROL メール設定]** を選択します。
+1. [!UICONTROL &#x200B; マイアカウント &#x200B;] で **[!UICONTROL メール設定]** を選択します。
 
    ![](assets/two.png)
 

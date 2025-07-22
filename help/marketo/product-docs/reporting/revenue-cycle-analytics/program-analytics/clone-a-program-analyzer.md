@@ -41,4 +41,4 @@ ht-degree: 96%
 
    >[!MORELIKETHIS]
    >
-   >[ プログラムアナライザ [!UICONTROL  の作成 ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+   >[ プログラムアナライザ [!UICONTROL &#x200B; の作成 &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)

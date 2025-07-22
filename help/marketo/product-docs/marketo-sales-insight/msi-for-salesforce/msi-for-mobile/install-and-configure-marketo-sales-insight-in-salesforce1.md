@@ -33,7 +33,7 @@ ht-degree: 70%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] の [!DNL Salesforce1] には、[!DNLB ベストベット ]、リードフィード、注目のモーメント、Marketo Campaign に追加が含まれます。
+>[!DNL Marketo Sales Insight] の [!DNL Salesforce1] には、[!DNL B ベストベット &#x200B;]、リードフィード、注目のモーメント、Marketo Campaign に追加が含まれます。
 
 ## [!DNL Salesforce1] モバイルアプリの有効化 {#enable-the-salesforce1-mobile-app}
 

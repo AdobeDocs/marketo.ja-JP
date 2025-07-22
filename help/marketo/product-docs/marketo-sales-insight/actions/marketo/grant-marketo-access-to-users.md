@@ -14,7 +14,7 @@ ht-degree: 64%
 
 [!DNL Sales Insight Actions] ユーザーにMarketoへのアクセス権を付与するには、この記事の手順に従います。 これにより、ライブフィードの注目のアクションなどの機能が解放され、マーケティングキャンペーンにアクセスできるようになります。
 
-Marketo接続へのアクセス権を付与するMarketo/[[!DNL Sales Insight Actions]](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) チームアクセス [!UICONTROL  ページ（]）にユーザーが表示されるようにするには、ユーザーを [!DNL Sales Insight Actions] に招待する必要があります。
+Marketo接続へのアクセス権を付与するMarketo/[[!DNL Sales Insight Actions]](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) チームアクセス [!UICONTROL &#x200B; ページ（]）にユーザーが表示されるようにするには、ユーザーを [!DNL Sales Insight Actions] に招待する必要があります。
 
 >[!CAUTION]
 >
@@ -24,7 +24,7 @@ Marketo接続へのアクセス権を付与するMarketo/[[!DNL Sales Insight Ac
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. [!UICONTROL  管理者設定 ] で、**Marketo** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、**Marketo** をクリックします。
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
@@ -48,4 +48,4 @@ Marketo接続へのアクセス権を付与するMarketo/[[!DNL Sales Insight Ac
 
    ![](assets/grant-marketo-access-to-users-6.png)
 
-[!UICONTROL  チーム管理 ] ページから追加のユーザーを追加し、上記の手順に従ってユーザーを接続できます。
+[!UICONTROL &#x200B; チーム管理 &#x200B;] ページから追加のユーザーを追加し、上記の手順に従ってユーザーを接続できます。

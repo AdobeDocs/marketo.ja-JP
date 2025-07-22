@@ -17,7 +17,7 @@ Marketo [!DNL Sales Connect] には、メールを配信するための複数の
 
 ## 推奨：メール接続による Gmail または [!DNL Exchange] {#recommended-gmail-or-exchange-via-email-connection}
 
-[!DNL Sales Connect] れにより、メール接続サービスを通じて、設定を合理化し、配信品質を向上させることができます。 [!UICONTROL  メール接続 ] を使用すると、各ユーザーは [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) または [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) アカウントに接続し、すべてのメールの配信チャネル [!DNL Sales Connect] して利用で [!DNL Sales Connect] ます。
+[!DNL Sales Connect] れにより、メール接続サービスを通じて、設定を合理化し、配信品質を向上させることができます。 [!UICONTROL &#x200B; メール接続 &#x200B;] を使用すると、各ユーザーは [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) または [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) アカウントに接続し、すべてのメールの配信チャネル [!DNL Sales Connect] して利用で [!DNL Sales Connect] ます。
 
 Gmail や [!DNL Exchange] を利用すると、他の配信チャネルオプションに比べて明らかなメリットが得られます。
 

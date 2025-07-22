@@ -46,15 +46,15 @@ Web キャンペーンがいつ、どのように表示されるかに関して�
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>[!UICONTROL 下の折り目 ]</strong></td> 
+   <td><strong>[!UICONTROL 下の折り目 &#x200B;]</strong></td> 
    <td>訪問者がスクロールしなければ見えない画面領域にまでスクロールすると、キャンペーンが表示されます。訪問者がスクロールしないで閲覧する事のできる画面領域に戻ると、キャンペーンは非表示になります。</td> 
   </tr> 
   <tr> 
-   <td><strong>[!UICONTROL パーセント ]</strong></td> 
+   <td><strong>[!UICONTROL パーセント &#x200B;]</strong></td> 
    <td>訪問者がページの事前に決定された割合にスクロールした場合に、キャンペーンが表示されます。</td> 
   </tr> 
   <tr> 
-   <td><strong>[!UICONTROL ピクセル ]</strong></td> 
+   <td><strong>[!UICONTROL ピクセル &#x200B;]</strong></td> 
    <td><p>訪問者がページの事前に指定された最上位ピクセルにスクロールすると、キャンペーンが表示されます。</p></td> 
   </tr> 
  </tbody> 
@@ -68,7 +68,7 @@ Web キャンペーンがいつ、どのように表示されるかに関して�
 
    ![](assets/ei1.png)
 
-1. [!UICONTROL  終了インテント ] はモバイルと互換性がないことを示すメッセージが表示されます。
+1. [!UICONTROL &#x200B; 終了インテント &#x200B;] はモバイルと互換性がないことを示すメッセージが表示されます。
 
    ![](assets/ei2.png)
 

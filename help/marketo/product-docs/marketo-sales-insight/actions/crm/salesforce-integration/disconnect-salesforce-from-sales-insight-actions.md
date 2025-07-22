@@ -22,11 +22,11 @@ ht-degree: 21%
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-1.png)
 
-1. [!UICONTROL  管理者設定 ] で、**[!UICONTROL Salesforce]** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. [[!UICONTROL  接続とカスタマイズ ]] タブで、[**[!UICONTROL 切断]**] をクリックします。
+1. [[!UICONTROL &#x200B; 接続とカスタマイズ &#x200B;]] タブで、[**[!UICONTROL 切断]**] をクリックします。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 
@@ -36,10 +36,10 @@ ht-degree: 21%
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-4.png)
 
-1. [!UICONTROL  マイアカウント ] で、**[!UICONTROL Salesforce]** を選択します。
+1. [!UICONTROL &#x200B; マイアカウント &#x200B;] で、**[!UICONTROL Salesforce]** を選択します。
 
 PICC
 
-1. [[!UICONTROL  接続とカスタマイズ ]] タブで、[**[!UICONTROL 切断]**] をクリックします。
+1. [[!UICONTROL &#x200B; 接続とカスタマイズ &#x200B;]] タブで、[**[!UICONTROL 切断]**] をクリックします。
 
 PICC

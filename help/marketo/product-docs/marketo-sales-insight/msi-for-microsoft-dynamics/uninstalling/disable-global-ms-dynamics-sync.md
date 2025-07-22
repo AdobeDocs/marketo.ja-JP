@@ -29,4 +29,4 @@ ht-degree: 40%
 
    >[!NOTE]
    >
-   >インスタンスに「[!UICONTROL  同期を無効にする ]」ボタンが表示されない場合は、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support) にお問い合わせください。
+   >インスタンスに「[!UICONTROL &#x200B; 同期を無効にする &#x200B;]」ボタンが表示されない場合は、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support) にお問い合わせください。

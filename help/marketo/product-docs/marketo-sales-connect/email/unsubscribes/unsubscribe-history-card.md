@@ -13,11 +13,11 @@ ht-degree: 53%
 
 # 登録解除履歴カード {#unsubscribe-history-card}
 
-[!UICONTROL  購読解除履歴 ] カードは、管理者とユーザーが連絡先の購読解除履歴に関するコンテキスト情報を取得するのに役立ちます。
+[!UICONTROL &#x200B; 購読解除履歴 &#x200B;] カードは、管理者とユーザーが連絡先の購読解除履歴に関するコンテキスト情報を取得するのに役立ちます。
 
 >[!NOTE]
 >
->ここに移動するには、「[!UICONTROL  人物 ] タブをクリックして人物を選択します。 これは、（購読を解除している場合は）ユーザーの詳細表示の [!UICONTROL  バージョン情報 ] タブの下部にあります。
+>ここに移動するには、「[!UICONTROL &#x200B; 人物 &#x200B;] タブをクリックして人物を選択します。 これは、（購読を解除している場合は）ユーザーの詳細表示の [!UICONTROL &#x200B; バージョン情報 &#x200B;] タブの下部にあります。
 
 ![](assets/1-1.jpg)
 
@@ -28,11 +28,11 @@ ht-degree: 53%
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>[!UICONTROL 日付 ]</strong></td> 
+   <td><strong>[!UICONTROL 日付 &#x200B;]</strong></td> 
    <td><p>配信停止／再購読が行われた日付を表示します。</p></td> 
   </tr> 
   <tr> 
-   <td><strong>[!UICONTROL の詳細 ]</strong></td> 
+   <td><strong>[!UICONTROL の詳細 &#x200B;]</strong></td> 
    <td><p>再購読：[!DNL Sales Connect] 管理者が連絡先レコードから手動で購読解除を削除しました。 また、取引先責任者の配信停止理由に関する詳細も表示されます。</p><p>配信停止：取引先責任者が配信停止された。</p></td> 
   </tr> 
   <tr> 

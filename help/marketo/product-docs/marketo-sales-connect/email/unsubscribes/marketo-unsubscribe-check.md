@@ -13,7 +13,7 @@ ht-degree: 64%
 
 # Marketo 配信停止チェック {#marketo-unsubscribe-check}
 
-[!UICONTROL Marketo登録解除チェック ] は、チームのMarketoへの接続を使用して、Marketo Lead Management system の登録解除したユーザーにメールが送信されないようにします。 営業ユーザーが [!DNL Sales Connect] を含むメールを送信すると、Marketoに対して API 呼び出しが行われ、メール ID が登録解除されているかどうかを確認します。 配信停止の場合、メール送信がブロックされます。
+[!UICONTROL Marketo登録解除チェック &#x200B;] は、チームのMarketoへの接続を使用して、Marketo Lead Management system の登録解除したユーザーにメールが送信されないようにします。 営業ユーザーが [!DNL Sales Connect] を含むメールを送信すると、Marketoに対して API 呼び出しが行われ、メール ID が登録解除されているかどうかを確認します。 配信停止の場合、メール送信がブロックされます。
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 64%
 
    ![](assets/one-2.png)
 
-1. [!UICONTROL  管理者設定 ] で、「**[!UICONTROL 購読解除]**」をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、「**[!UICONTROL 購読解除]**」をクリックします。
 
    ![](assets/two-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 64%
 
    ![](assets/three-3.png)
 
-1. 「[!UICONTROL Marketo登録解除チェック ]」セクションで、スライダーをクリックしてチェックをアクティブにします。
+1. 「[!UICONTROL Marketo登録解除チェック &#x200B;]」セクションで、スライダーをクリックしてチェックをアクティブにします。
 
    ![](assets/four-2.png)
 

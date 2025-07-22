@@ -31,7 +31,7 @@ ht-degree: 97%
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. [!UICONTROL  ターゲットセグメント ] を選択します。
+1. [!UICONTROL &#x200B; ターゲットセグメント &#x200B;] を選択します。
 
    ![](assets/set-web-campaign-education.jpg)
 

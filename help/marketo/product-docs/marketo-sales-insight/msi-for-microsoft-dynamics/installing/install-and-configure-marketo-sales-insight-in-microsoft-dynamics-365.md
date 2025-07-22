@@ -37,7 +37,7 @@ ht-degree: 66%
 
    >[!NOTE]
    >
-   >次に進む前に、あらかじめ Marketo ソリューションを[](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)インストールして設定しておく必要があります。
+   >次に進む前に、あらかじめ Marketo ソリューションを[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)インストールして設定しておく必要があります。
 
 1. 「**[!UICONTROL インポート]**」をクリックします。
 
@@ -101,7 +101,7 @@ Marketo インスタンスを [!DNL Sales Insight] で [!DNL Dynamics] に関連
    >
    >これらのフィールドのいずれかが見つからない場合は、見つからないフィールドの名前のエラーメッセージが Marketo に表示されます。これを修正するには、[この手順](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
 
-1. [!DNL Microsoft Dynamics] に戻り、「設定 ![](assets/image2015-5-13-15-3a49-3a19.png) の横にある「[!UICONTROL 」アイコンをクリックし ] ドロップダウンで「**[!UICONTROL Marketo API 設定]**」を選択します。
+1. [!DNL Microsoft Dynamics] に戻り、「設定 ![](assets/image2015-5-13-15-3a49-3a19.png) の横にある「[!UICONTROL 」アイコンをクリックし &#x200B;] ドロップダウンで「**[!UICONTROL Marketo API 設定]**」を選択します。
 
    ![](assets/image2015-5-13-16-3a4-3a1.png)
 

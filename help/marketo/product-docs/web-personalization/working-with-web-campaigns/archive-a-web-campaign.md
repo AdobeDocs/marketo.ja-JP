@@ -27,4 +27,4 @@ ht-degree: 93%
 
 >[!MORELIKETHIS]
 >
->[Web キャンペーン [!UICONTROL  の削除 ]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>[Web キャンペーン [!UICONTROL &#x200B; の削除 &#x200B;]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)

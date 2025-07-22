@@ -31,7 +31,7 @@ ht-degree: 98%
 
    ![](assets/pasted-image-at-2016-05-31-02-09-pm.png)
 
-1. メッセージは「[!UICONTROL  アクティブ ]」になりました。
+1. メッセージは「[!UICONTROL &#x200B; アクティブ &#x200B;]」になりました。
 
    ![](assets/image2016-5-12-13-3a49-3a5.png)
 

@@ -15,7 +15,7 @@ ht-degree: 87%
 
 Web キャンペーンとは、特定のセグメントに関連付けてカスタマイズされたリアクションで、ウェブサイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、[ゾーン内置換](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、ウィジェット機能、メールアラートのいずれかです。
 
-[!UICONTROL Web キャンペーン ] ページまたは [!UICONTROL Web キャンペーンを設定 ] ページから、Web キャンペーンを開始または一時停止できます。
+[!UICONTROL Web キャンペーン &#x200B;] ページまたは [!UICONTROL Web キャンペーンを設定 &#x200B;] ページから、Web キャンペーンを開始または一時停止できます。
 
 1. 「**[!UICONTROL ウェブパーソナライズ]**」をクリックします
 

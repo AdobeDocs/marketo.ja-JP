@@ -31,7 +31,7 @@ ht-degree: 94%
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
-1. [!UICONTROL  日付トークン ] を選択して、待機ステップを終了するタイミングを指定します。
+1. [!UICONTROL &#x200B; 日付トークン &#x200B;] を選択して、待機ステップを終了するタイミングを指定します。
 
    * `{{my._____}}`
    * `{{lead.______}}`

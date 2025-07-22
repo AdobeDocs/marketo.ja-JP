@@ -24,7 +24,7 @@ ht-degree: 30%
 
    ![](assets/salesforce-sync-settings-1.png)
 
-1. [!UICONTROL  管理者設定 ] （管理者でない場合は「[!UICONTROL  マイアカウント ]」）で、**[!UICONTROL Salesforce]** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] （管理者でない場合は「[!UICONTROL &#x200B; マイアカウント &#x200B;]」）で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/salesforce-sync-settings-2.png)
 
@@ -32,7 +32,7 @@ ht-degree: 30%
 
    ![](assets/salesforce-sync-settings-3.png)
 
-1. [!UICONTROL  メールのアクティビティを記録 ] の横にある矢印をクリックして [!DNL Salesforce] きます。
+1. [!UICONTROL &#x200B; メールのアクティビティを記録 &#x200B;] の横にある矢印をクリックして [!DNL Salesforce] きます。
 
    ![](assets/salesforce-sync-settings-4.png)
 
@@ -42,7 +42,7 @@ ht-degree: 30%
 
 ## [!DNL Salesforce] へのメール（BCC）経由での [!DNL Salesforce] へのメールアクティビティのログ記録 {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
-「[!UICONTROL Salesforceにメールを送信（BCC） ]」を有効化すると、営業メールの BCC が送信されます。メールは、商談、リードおよび連絡先のアクティビティとして記録されます。
+「[!UICONTROL Salesforceにメールを送信（BCC） &#x200B;]」を有効化すると、営業メールの BCC が送信されます。メールは、商談、リードおよび連絡先のアクティビティとして記録されます。
 
 >[!PREREQUISITES]
 >
@@ -54,7 +54,7 @@ ht-degree: 30%
 
    ![](assets/salesforce-sync-settings-6.png)
 
-1. [!UICONTROL  管理者設定 ] （管理者でない場合は「[!UICONTROL  マイアカウント ]」）で、**[!UICONTROL Salesforce]** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] （管理者でない場合は「[!UICONTROL &#x200B; マイアカウント &#x200B;]」）で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/salesforce-sync-settings-7.png)
 
@@ -73,7 +73,7 @@ ht-degree: 30%
 1. 「**[!UICONTROL マイ設定]**」を選択します。
 1. 「**[!UICONTROL メール]**」を選択します。
 1. 「**[!UICONTROL メールを Salesforce に送信]**」を選択します。
-1. このページには、「[!UICONTROL Salesforce アドレスにメールを送信 ]」というラベルの付いたフィールドが表示されます。 その横に何も入力されていない場合は、下にスクロールして「[!UICONTROL  使用可能なメールアドレス ]」を表示します。
+1. このページには、「[!UICONTROL Salesforce アドレスにメールを送信 &#x200B;]」というラベルの付いたフィールドが表示されます。 その横に何も入力されていない場合は、下にスクロールして「[!UICONTROL &#x200B; 使用可能なメールアドレス &#x200B;]」を表示します。
 1. BCC を送信するメールアドレスを入力します。
 1. 「**[!UICONTROL 変更を保存]**」をクリックします。
 
@@ -98,7 +98,7 @@ ht-degree: 30%
 
    ![](assets/salesforce-sync-settings-10.png)
 
-1. [!UICONTROL  管理者設定 ] （管理者でない場合は「[!UICONTROL  マイアカウント ]」）で、**[!UICONTROL Salesforce]** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] （管理者でない場合は「[!UICONTROL &#x200B; マイアカウント &#x200B;]」）で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/salesforce-sync-settings-11.png)
 
@@ -130,4 +130,4 @@ ht-degree: 30%
 
 最初の同期の後、[!DNL Sales Insight Actions] で作成、編集、完了または削除したタスクは、[!DNL Salesforce] のタスクリストに同期されます。 [!DNL Salesforce] で作成、編集、完了または削除すると、[!DNL Sales Insight Actions] のタスクリストが更新されます。
 
-この同期を有効にするには、web アプリケーションの [!UICONTROL  設定 ] ページで「同期」ボックスをオンにするだけです。
+この同期を有効にするには、web アプリケーションの [!UICONTROL &#x200B; 設定 &#x200B;] ページで「同期」ボックスをオンにするだけです。

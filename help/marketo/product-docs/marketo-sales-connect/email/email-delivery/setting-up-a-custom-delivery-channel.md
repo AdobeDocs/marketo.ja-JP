@@ -29,7 +29,7 @@ ht-degree: 64%
 
    ![](assets/setting-up-a-custom-delivery-channel-1.png)
 
-1. [!UICONTROL  マイアカウント ] で、「**[!UICONTROL メール設定]**」をクリックします。
+1. [!UICONTROL &#x200B; マイアカウント &#x200B;] で、「**[!UICONTROL メール設定]**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 64%
 
    ![](assets/setting-up-a-custom-delivery-channel-3.png)
 
-1. [!UICONTROL SMTP サーバー ] の資格情報を入力し、「**[!UICONTROL 接続]**」をクリックします。
+1. [!UICONTROL SMTP サーバー &#x200B;] の資格情報を入力し、「**[!UICONTROL 接続]**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-4.png)
 
@@ -45,7 +45,7 @@ ht-degree: 64%
    >
    >これが唯一の配信チャネルの場合、すべてのメール ID に自動的に割り当てられるため、ここで完了です。これが唯一の配信チャネルでない場合は、手順 5 に進んでください。
 
-1. [!UICONTROL  メール設定 ] を開いたまま、「**[!UICONTROL アドレスと署名]**」をクリックします。
+1. [!UICONTROL &#x200B; メール設定 &#x200B;] を開いたまま、「**[!UICONTROL アドレスと署名]**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-5.png)
 
@@ -53,11 +53,11 @@ ht-degree: 64%
 
    ![](assets/setting-up-a-custom-delivery-channel-6.png)
 
-1. [!UICONTROL  配信品質 ] カードで、「**[!UICONTROL 編集]**」をクリックします。
+1. [!UICONTROL &#x200B; 配信品質 &#x200B;] カードで、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-7.png)
 
-1. [!UICONTROL  チャネル ] ドロップダウンをクリックし、追加したカスタム配信チャネルを選択します。 「**[!UICONTROL 保存]**」をクリックします。
+1. [!UICONTROL &#x200B; チャネル &#x200B;] ドロップダウンをクリックし、追加したカスタム配信チャネルを選択します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-8.png)
 
@@ -75,7 +75,7 @@ ht-degree: 64%
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
-1. [!UICONTROL  管理者設定 ] で **[!UICONTROL 一般]** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 一般]** をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 
@@ -83,7 +83,7 @@ ht-degree: 64%
 
    ![](assets/setting-up-a-custom-delivery-channel-11.png)
 
-1. [!UICONTROL SMTP サーバー ] の資格情報を入力し、「**[!UICONTROL 接続]**」をクリックします。
+1. [!UICONTROL SMTP サーバー &#x200B;] の資格情報を入力し、「**[!UICONTROL 接続]**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-12.png)
 

@@ -11,7 +11,7 @@ ht-degree: 73%
 
 ---
 
-# [!UICONTROL  プログラムアナライザ ] の作成 {#create-a-program-analyzer}
+# [!UICONTROL &#x200B; プログラムアナライザ &#x200B;] の作成 {#create-a-program-analyzer}
 
 マーケティング売上高に最も貢献しているプログラムやチャネルを見つけましょう。プログラムアナライザーを使用して、すべてのコストとリターンの詳細を、プログラム別やチャネル別に調べ、比較します。
 
@@ -39,7 +39,7 @@ ht-degree: 73%
 
    ![](assets/image2016-10-31-15-3a25-3a57.png)
 
-1. 例えば、「期間コスト [!UICONTROL  フィルターをカスタマイズするには ] フィルターをダブルクリックします。
+1. 例えば、「期間コスト [!UICONTROL &#x200B; フィルターをカスタマイズするには &#x200B;] フィルターをダブルクリックします。
 
    ![](assets/image2016-10-31-15-3a33-3a2.png)
 
@@ -55,7 +55,7 @@ ht-degree: 73%
 
    ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-1. [!UICONTROL  保存先 ] および [!UICONTROL  フォルダー ] ドロップダウンを使用して、カスタムアナライザーを保存する場所を選択します。 新しいカスタムアナライザーに名前を付けます。説明はオプションです。「**[!UICONTROL 保存]**」をクリックします。
+1. [!UICONTROL &#x200B; 保存先 &#x200B;] および [!UICONTROL &#x200B; フォルダー &#x200B;] ドロップダウンを使用して、カスタムアナライザーを保存する場所を選択します。 新しいカスタムアナライザーに名前を付けます。説明はオプションです。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 
@@ -69,7 +69,7 @@ ht-degree: 73%
 
 >[!MORELIKETHIS]
 >
->* [ チャネルの有効性と [!UICONTROL  プログラムアナライザーの比較 ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
->* [ プログラムの有効性と [!UICONTROL  プログラム アナライザー ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md) の比較
+>* [ チャネルの有効性と [!UICONTROL &#x200B; プログラムアナライザーの比較 &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [ プログラムの有効性と [!UICONTROL &#x200B; プログラム アナライザー &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md) の比較
 >* [ プログラムアナライザーを使用したプログラムとチャネルの詳細の調査 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [ プログラムアナライザ [!UICONTROL  のクローン ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
+>* [ プログラムアナライザ [!UICONTROL &#x200B; のクローン &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)

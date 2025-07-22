@@ -30,7 +30,7 @@ PICC
 
 PICC
 
-1. を選択し、[!DNL Sales Connect] 管理者に次のMarketo資格情報を送信します：[!UICONTROL Munchkin ID]、[!UICONTROL  クライアント ID]、[!UICONTROL  クライアントシークレット ]。
+1. を選択し、[!DNL Sales Connect] 管理者に次のMarketo資格情報を送信します：[!UICONTROL Munchkin ID]、[!UICONTROL &#x200B; クライアント ID]、[!UICONTROL &#x200B; クライアントシークレット &#x200B;]。
 
 PICC
 
@@ -44,7 +44,7 @@ PICC
 
 PICC
 
-1. [!UICONTROL  管理設定 ] で、**Marketo** を選択します。
+1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、**Marketo** を選択します。
 
 PICC
 

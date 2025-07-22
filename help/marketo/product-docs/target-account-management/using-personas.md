@@ -47,9 +47,9 @@ ht-degree: 86%
 
 ## ペルソナを表示する {#view-your-personas}
 
-特定の [!UICONTROL  指定アカウント ] にアクセスして、ペルソナを表示します。
+特定の [!UICONTROL &#x200B; 指定アカウント &#x200B;] にアクセスして、ペルソナを表示します。
 
-1. 目的の [!UICONTROL  指定顧客 ] を選択します。
+1. 目的の [!UICONTROL &#x200B; 指定顧客 &#x200B;] を選択します。
 
    ![](assets/one-a.png)
 
@@ -63,7 +63,7 @@ ht-degree: 86%
 
    >[!NOTE]
    >
-   >[!UICONTROL  タイトルペルソナ ] の X は、ワイルドカード文字として機能します。 例えば、「CXO」には CEO、CFO などが含まれます。
+   >[!UICONTROL &#x200B; タイトルペルソナ &#x200B;] の X は、ワイルドカード文字として機能します。 例えば、「CXO」には CEO、CFO などが含まれます。
 
 ## ペルソナフィルター {#persona-filters}
 

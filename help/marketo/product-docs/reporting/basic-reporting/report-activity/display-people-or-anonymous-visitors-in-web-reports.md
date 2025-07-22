@@ -17,9 +17,9 @@ ht-degree: 80%
 >
 >[Web サイトへの Munchkin トラッキングコードの追加](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-[[!UICONTROL Web ページアクティビティ ]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) および [[!UICONTROL  会社 Web アクティビティ ] レポートでは ](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) サイトを訪問した [ 人物または匿名訪問者 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) を確認できます。 匿名の訪問者には、メトロエリアなどの推測されるデータがあります。次に、レポートに既知のリードと匿名訪問者のどちらを表示するかを選択する方法を示します。
+[[!UICONTROL Web ページアクティビティ &#x200B;]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) および [[!UICONTROL &#x200B; 会社 Web アクティビティ &#x200B;] レポートでは ](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) サイトを訪問した [ 人物または匿名訪問者 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) を確認できます。 匿名の訪問者には、メトロエリアなどの推測されるデータがあります。次に、レポートに既知のリードと匿名訪問者のどちらを表示するかを選択する方法を示します。
 
-1. [!UICONTROL Web ページアクティビティ ] レポートで、「**[!UICONTROL 設定]**」をクリックします。
+1. [!UICONTROL Web ページアクティビティ &#x200B;] レポートで、「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/image2015-3-10-11-3a43-3a13.png)
 

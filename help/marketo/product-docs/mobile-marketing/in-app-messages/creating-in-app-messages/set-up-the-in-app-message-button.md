@@ -15,7 +15,7 @@ ht-degree: 78%
 
 デフォルトのボタンデザインを使用したり変更したり、独自のカスタムボタン画像をアップロードしたりできます。
 
-1. ボタンをクリックして「[!UICONTROL  スタイル ]」タブを開き、編集します。
+1. ボタンをクリックして「[!UICONTROL &#x200B; スタイル &#x200B;]」タブを開き、編集します。
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
@@ -69,11 +69,11 @@ ht-degree: 78%
 
    >[!NOTE]
    >
-   >ボタンには常にタップアクションがあるので、「タップアクション」チェックボックスが自動的に選択され、デフォルトメッセージ「[!UICONTROL  メッセージを閉じる ]」が表示されます。
+   >ボタンには常にタップアクションがあるので、「タップアクション」チェックボックスが自動的に選択され、デフォルトメッセージ「[!UICONTROL &#x200B; メッセージを閉じる &#x200B;]」が表示されます。
 
 もう少しです。最後に、[アプリ内メッセージのバックグラウンドと「閉じる」ボタンを設定します。](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
 >* [アプリ内メッセージについて](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [ アプリ内メッセージ [!UICONTROL  のレイアウトの選択 ]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [ アプリ内メッセージ [!UICONTROL &#x200B; のレイアウトの選択 &#x200B;]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

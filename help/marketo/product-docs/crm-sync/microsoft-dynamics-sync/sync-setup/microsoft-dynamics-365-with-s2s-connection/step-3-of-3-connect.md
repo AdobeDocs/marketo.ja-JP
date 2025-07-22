@@ -80,11 +80,11 @@ ht-degree: 82%
 
 カスタムフィルターを作成した場合は、Marketo と同期する新しいフィールドを選択するようにします。
 
-1. [!UICONTROL  管理者 ] に移動し、「**[!UICONTROL Microsoft Dynamics]**」を選択します。
+1. [!UICONTROL &#x200B; 管理者 &#x200B;] に移動し、「**[!UICONTROL Microsoft Dynamics]**」を選択します。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. **[!UICONTROL フィールド同期の詳細]** で [!UICONTROL  編集 ] をクリックします。
+1. **[!UICONTROL フィールド同期の詳細]** で [!UICONTROL &#x200B; 編集 &#x200B;] をクリックします。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 

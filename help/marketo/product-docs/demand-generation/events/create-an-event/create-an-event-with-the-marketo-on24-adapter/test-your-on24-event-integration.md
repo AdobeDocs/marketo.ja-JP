@@ -31,7 +31,7 @@ ht-degree: 89%
 イベント発生後にデータが更新される方法を次に示します。
 
 * Marketo では、毎晩 ON24 から出席者データを取得します。
-* Marketoと ON24 の間で出席者データが同期されると、Marketoはメンバーシップステータスを [!UICONTROL  出席済み ]、[!UICONTROL  出席済みオンデマンド ]、または [!UICONTROL  表示なし ] に更新します。 イベントの「**[!UICONTROL 概要]**」タブで、イベントのステータスが「**[!UICONTROL イベント完了]**」に更新されます。
+* Marketoと ON24 の間で出席者データが同期されると、Marketoはメンバーシップステータスを [!UICONTROL &#x200B; 出席済み &#x200B;]、[!UICONTROL &#x200B; 出席済みオンデマンド &#x200B;]、または [!UICONTROL &#x200B; 表示なし &#x200B;] に更新します。 イベントの「**[!UICONTROL 概要]**」タブで、イベントのステータスが「**[!UICONTROL イベント完了]**」に更新されます。
 
 >[!MORELIKETHIS]
 >

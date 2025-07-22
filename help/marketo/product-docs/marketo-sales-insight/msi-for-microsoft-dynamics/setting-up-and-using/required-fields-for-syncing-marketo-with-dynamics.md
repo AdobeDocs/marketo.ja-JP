@@ -13,7 +13,7 @@ ht-degree: 61%
 
 # Marketoと [!DNL Dynamics] を同期するための必須フィールド {#required-fields-for-syncing-marketo-with-dynamics}
 
-これらのフィールド *必須* は、[!UICONTROL  が機能するために ] リード [!UICONTROL  と ] 連絡先 [!DNL Sales Insight] の両方でMarketoと同期される必要があります。
+これらのフィールド *必須* は、[!UICONTROL &#x200B; が機能するために &#x200B;] リード [!UICONTROL &#x200B; と &#x200B;] 連絡先 [!DNL Sales Insight] の両方でMarketoと同期される必要があります。
 
 * 優先度
 * 緊急度
@@ -23,27 +23,27 @@ ht-degree: 61%
 
 同期フィールドを確認して追加する方法を次に示します。
 
-1. [!UICONTROL  管理者 ] に移動して、**[!UICONTROL Microsoft Dynamics]** をクリックします。
+1. [!UICONTROL &#x200B; 管理者 &#x200B;] に移動して、**[!UICONTROL Microsoft Dynamics]** をクリックします。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. **[!UICONTROL フィールド同期の詳細]** で [!UICONTROL  編集 ] をクリックします。
+1. **[!UICONTROL フィールド同期の詳細]** で [!UICONTROL &#x200B; 編集 &#x200B;] をクリックします。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. [!UICONTROL  リード ] で「[!UICONTROL  優先度 ]」チェックボックスをオンにします。
+1. [!UICONTROL &#x200B; リード &#x200B;] で「[!UICONTROL &#x200B; 優先度 &#x200B;]」チェックボックスをオンにします。
 
    ![](assets/image2016-6-8-13-3a33-3a50.png)
 
-1. 下にスクロールして、「緊急度 [!UICONTROL  チェックボックスをオン ] します。
+1. 下にスクロールして、「緊急度 [!UICONTROL &#x200B; チェックボックスをオン &#x200B;] します。
 
    ![](assets/image2016-6-8-13-3a35-3a22.png)
 
-1. 「。..相対的なスコア [!UICONTROL  チェックボックス ] 選択します。
+1. 「。..相対的なスコア [!UICONTROL &#x200B; チェックボックス &#x200B;] 選択します。
 
    ![](assets/image2016-6-8-13-3a36-3a1.png)
 
-1. 次に、「連絡先 [!UICONTROL  の「優先度 ]」、「[!UICONTROL  緊急度 ]」、「[!UICONTROL  相対的なスコア ] のチェックボックスをオン  します。
+1. 次に、「連絡先 [!UICONTROL &#x200B; の「優先度 &#x200B;]」、「[!UICONTROL &#x200B; 緊急度 &#x200B;]」、「[!UICONTROL &#x200B; 相対的なスコア &#x200B;] のチェックボックスをオン  します。
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 

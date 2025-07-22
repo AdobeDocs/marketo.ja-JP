@@ -17,7 +17,7 @@ ht-degree: 94%
 
 >[!PREREQUISITES]
 >
->コンテンツは、[ すべてのコンテンツ ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) ページの [!UICONTROL  予測コンテンツ向けの承認 ] が必要です。
+>コンテンツは、[ すべてのコンテンツ ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) ページの [!UICONTROL &#x200B; 予測コンテンツ向けの承認 &#x200B;] が必要です。
 
 1. **[!UICONTROL 予測コンテンツ]**&#x200B;ページで、「タイトル」をクリックして、エディターを開きます
 

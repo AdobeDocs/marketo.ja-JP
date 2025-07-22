@@ -20,7 +20,7 @@ ht-degree: 75%
 
    ![](assets/salesforce-diagnostics-1.png)
 
-1. [!UICONTROL  統合 ] で、「**[!UICONTROL 診断]**」をクリックします。
+1. [!UICONTROL &#x200B; 統合 &#x200B;] で、「**[!UICONTROL 診断]**」をクリックします。
 
    ![](assets/salesforce-diagnostics-2.png)
 
@@ -63,9 +63,9 @@ ht-degree: 75%
 **状況：**&#x200B;レコードは、承認プロセス中で、承認を所有する人によって承認または拒否されるまで、追加の編集内容からロックされます。\
 **トラブルシューティングの手順：**&#x200B;上記を参照してください。
 
-**エラー：**EXPIRED_ACCESS
-**カテゴリ：**認証
-**メッセージ：**invalid_grant: expired access/refresh token
+**エラー：**&#x200B;EXPIRED_ACCESS
+**カテゴリ：**&#x200B;認証
+**メッセージ：**&#x200B;invalid_grant: expired access/refresh token
 **状況：**&#x200B;アクセスまたは更新トークンの期限が切れています。トークンは、[ のセッション設定  [!DNL Salesforce]](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via) に基づいて期限切れになります。
 **トラブルシューティング手順：**&#x200B;再認証が必要になります。[!DNL Salesforce] 接続を切断し、再接続します。
 
@@ -76,7 +76,7 @@ ht-degree: 75%
 **トラブルシューティング手順：**&#x200B;再試行ロジックで処理する必要があります。それでも機能しない場合は、[!DNL Salesforce] 管理者と協力して、問題のあるトリガーのトラブルシューティングを行ってください。
 
 **エラー：** FIELD_CUSTOM_VALIDATION_EXCEPTION
-**カテゴリ：**アクセス/検証
+**カテゴリ：**&#x200B;アクセス/検証
 **メッセージ：**&#x200B;顧客によって異なります。**状況：**&#x200B;オブジェクトのカスタム検証ルールが失敗します。**トラブルシューティング手順：** このエラーを引き起こしているカスタム検証ルールを確認します。これは慣習的な規則なので、エラーは 1 回限りで対処する必要があります。
 
 **エラー：** FIELD_FILTER_VALIDATION_EXCEPTION\
@@ -100,7 +100,7 @@ ht-degree: 75%
 **エラー：** INACTIVE_USER
 **カテゴリ：** 認証
 **メッセージ：** invalid_grant：非アクティブなユーザー
-**最新情報：**[!DNL Salesforce] ユーザーがアクティブではなくなりました
+**最新情報：**&#x200B;[!DNL Salesforce] ユーザーがアクティブではなくなりました
 **トラブルシューティングの手順：** 接続を解除してから、[!DNL Salesforce] から再接続します。
 
 **エラー：** INSERT_UPDATE_EXPERIENCE_NOT_ALLOWED_DURING_MAINTENANCE\
@@ -109,14 +109,14 @@ ht-degree: 75%
 **発生の状況：** インスタンス [!DNL Salesforce] メンテナンスモードになっています。\
 **トラブルシューティング手順：**&#x200B;システムメンテナンスが完了するまで待ってから、ログを再試行します。
 
-**エラー：**INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY
-**カテゴリ：**アクセス／検証
-**メッセージ：**insufficient access rights on object id
+**エラー：**&#x200B;INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY
+**カテゴリ：**&#x200B;アクセス／検証
+**メッセージ：**&#x200B;insufficient access rights on object id
 **状況：**&#x200B;タスクの親レコードにアクセスできません。**トラブルシューティングの手順：**&#x200B;上記を参照してください。
 
 **エラー：** INSUFFICIENT_ACCESS_OR_READONLY\
-**カテゴリ：**アクセス／検証
-**メッセージ：**insufficient access rights on object id
+**カテゴリ：**&#x200B;アクセス／検証
+**メッセージ：**&#x200B;insufficient access rights on object id
 **状況：**&#x200B;最新のアクティビティログは、書き込みアクセス権を持たないので、特定のレコードを編集できません。\
 **トラブルシューティングの手順：** そのユーザーのオブジェクトの最新のアクティビティログを [!DNL Salesforce] 定または無効化して、ユーザーにアクセスを付与します。
 
@@ -135,7 +135,7 @@ ht-degree: 75%
 **カテゴリ：**&#x200B;認証\
 **メッセージ：** invalid_grant: ip restricted\
 **最新情報：** お客様の [!DNL Salesforce] にアクセスしようとしていますが、IP 制限が設定されているため、アクセスできません。\
-**トラブルシューティング手順：**[!DNL Salesforce] 管理者は、IP を許可リストに加えるする必要があります。 IP アドレスを取得するには、サポートに問い合わせる必要があります。
+**トラブルシューティング手順：**&#x200B;[!DNL Salesforce] 管理者は、IP を許可リストに加えるする必要があります。 IP アドレスを取得するには、サポートに問い合わせる必要があります。
 
 **エラー：** INVALID_TYPE\
 **カテゴリ：**&#x200B;アクセス/検証\
@@ -177,7 +177,7 @@ ht-degree: 75%
 **エラー：** TXN_SECURITY_NO_ACCESS\
 **カテゴリ：**&#x200B;アクセス/検証\
 **メッセージ：** The operation you requested isn&#39;t allowed due to a security policy in your organization.システム管理者にお問い合わせください。**状況：**&#x200B;何らかのセキュリティ制限が設定されています。 https://developer.salesforce.com/forums/?id= 「レコード ID」を参照してください。\
-**トラブルシューティング手順：**[!DNL Salesforce] 管理者に問い合わせて、特定の制限が何であるかを確認します。
+**トラブルシューティング手順：**&#x200B;[!DNL Salesforce] 管理者に問い合わせて、特定の制限が何であるかを確認します。
 
 **エラー：** UNABLE_TO_LOCK_ROW\
 **カテゴリ：**&#x200B;断続的\
@@ -185,8 +185,8 @@ ht-degree: 75%
 **状況：**&#x200B;トリガーが発生し、グループメールの場合など、同じレコードに複数回アクセスしようとする可能性があります。\
 **トラブルシューティング手順：**&#x200B;再試行ロジックで処理する必要があります。それでも機能しない場合は、[!DNL Salesforce] 管理者と協力して、問題のあるトリガーのトラブルシューティングを行ってください。
 
-**エラー：**UNKNOWN_EXCEPTION
+**エラー：**&#x200B;UNKNOWN_EXCEPTION
 **カテゴリ：**&#x200B;その他\
 **メッセージ：** Unknown Exception occurred\
 **発生している問題：** [!DNL Salesforce] で未処理の例外が発生しました。\
-**トラブルシューティング手順：**[!DNL Salesforce] でケースをファイルし、エラーメッセージの数値をコピーします。 これは、エラー [!DNL Salesforce] 適切に処理しないコードです。
+**トラブルシューティング手順：**&#x200B;[!DNL Salesforce] でケースをファイルし、エラーメッセージの数値をコピーします。 これは、エラー [!DNL Salesforce] 適切に処理しないコードです。

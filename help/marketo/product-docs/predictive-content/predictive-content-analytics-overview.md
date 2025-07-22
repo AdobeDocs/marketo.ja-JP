@@ -25,7 +25,7 @@ ht-degree: 79%
 
 ![](assets/one.png)
 
-[!UICONTROL Analytics] は、[!UICONTROL  ビュー別のトップコンテンツ ]、[!UICONTROL  コンバージョン率によるトップコンテンツ ]、[!UICONTROL  トレンドコンテンツ ]、[!UICONTROL  提案コンテンツ ]、[!UICONTROL  コンテンツ ] の複数のセクションで構成されます。
+[!UICONTROL Analytics] は、[!UICONTROL &#x200B; ビュー別のトップコンテンツ &#x200B;]、[!UICONTROL &#x200B; コンバージョン率によるトップコンテンツ &#x200B;]、[!UICONTROL &#x200B; トレンドコンテンツ &#x200B;]、[!UICONTROL &#x200B; 提案コンテンツ &#x200B;]、[!UICONTROL &#x200B; コンテンツ &#x200B;] の複数のセクションで構成されます。
 
 ![](assets/new-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 79%
 
 ![](assets/new-3point5.png)
 
-様々な属性/プロパティ（[!UICONTROL ABM アカウントリスト ]、[!UICONTROL  国 ] など）で結果をフィルタリングできます。
+様々な属性/プロパティ（[!UICONTROL ABM アカウントリスト &#x200B;]、[!UICONTROL &#x200B; 国 &#x200B;] など）で結果をフィルタリングできます。
 
 ![](assets/pca.png)
 
@@ -45,13 +45,13 @@ ht-degree: 79%
 
 ![](assets/dates.png)
 
-## [!UICONTROL  ビュー別の上位コンテンツ ] {#top-content-by-views}
+## [!UICONTROL &#x200B; ビュー別の上位コンテンツ &#x200B;] {#top-content-by-views}
 
 選択した日付範囲あたりの閲覧回数が最も多いコンテンツを表示します。
 
 ![](assets/new-6.png)
 
-## [!UICONTROL  コンバージョン率別の上位コンテンツ ] {#top-content-by-conversion-rate}
+## [!UICONTROL &#x200B; コンバージョン率別の上位コンテンツ &#x200B;] {#top-content-by-conversion-rate}
 
 選択した日付範囲のコンバージョン率を基準に、コンバージョン率の最も高いコンテンツを表示します。
 
@@ -63,13 +63,13 @@ ht-degree: 79%
 >
 >**コンバージョン率**：ダイレクトコンバージョンをクリック数で割って計算した割合.
 
-## [!UICONTROL  コンテンツのトレンド ] {#trending-content}
+## [!UICONTROL &#x200B; コンテンツのトレンド &#x200B;] {#trending-content}
 
 過去 2 週間とその前の 2 週間の閲覧回数を比較し、コンテンツの人気上昇を表示します。
 
 ![](assets/new-8.png)
 
-## [!UICONTROL  提案内容 ] {#suggested-content}
+## [!UICONTROL &#x200B; 提案内容 &#x200B;] {#suggested-content}
 
 お客様が定義したフィルターに基づき、マーケティング活動での促進を提案するコンテンツを表示します。
 
@@ -81,7 +81,7 @@ ht-degree: 79%
 
 >[!NOTE]
 >
->下のアイコンが見えますか？左から右は、[!UICONTROL  コンテンツを表示 ]、[!UICONTROL CSV に書き出し ]、[!UICONTROL  コンテンツを承認 ] です。
+>下のアイコンが見えますか？左から右は、[!UICONTROL &#x200B; コンテンツを表示 &#x200B;]、[!UICONTROL CSV に書き出し &#x200B;]、[!UICONTROL &#x200B; コンテンツを承認 &#x200B;] です。
 
 ## [!UICONTROL コンテンツ] {#content}
 

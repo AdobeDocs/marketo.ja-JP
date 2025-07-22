@@ -1,7 +1,7 @@
 ---
 unique-page-id: 12980105
-description: ユーザーを招待してアクセス [!UICONTROL  アカウント Insight] - Marketo ドキュメント – 製品ドキュメント
-title: アクセスするユーザーを招待 [!UICONTROL  アカウントのInsight]
+description: ユーザーを招待してアクセス [!UICONTROL &#x200B; アカウント Insight] - Marketo ドキュメント – 製品ドキュメント
+title: アクセスするユーザーを招待 [!UICONTROL &#x200B; アカウントのInsight]
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
@@ -11,9 +11,9 @@ ht-degree: 81%
 
 ---
 
-# アクセスするユーザーを招待 [!UICONTROL  アカウントのInsight] {#invite-users-to-access-account-insight}
+# アクセスするユーザーを招待 [!UICONTROL &#x200B; アカウントのInsight] {#invite-users-to-access-account-insight}
 
-次の手順に従って、[!UICONTROL  アカウントInsight] へのアクセス権をユーザーに付与します。
+次の手順に従って、[!UICONTROL &#x200B; アカウントInsight] へのアクセス権をユーザーに付与します。
 
 1. 「**[!UICONTROL 管理者]**」をクリックします。
 

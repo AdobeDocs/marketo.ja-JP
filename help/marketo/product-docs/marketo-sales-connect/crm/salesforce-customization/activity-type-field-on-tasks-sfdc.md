@@ -13,7 +13,7 @@ ht-degree: 58%
 
 # タスクの「アクティビティタイプ」フィールド（SFDC） {#activity-type-field-on-tasks-sfdc}
 
-[!DNL Sales Connect] を使用すると、メールと通話を [!DNL Salesforce] のアクティビティとしてログに記録できます。 [!DNL Salesforce] に貴重なデータを含めるには、[!UICONTROL  タイプ ] フィールドに正しい値を入力することが重要です。
+[!DNL Sales Connect] を使用すると、メールと通話を [!DNL Salesforce] のアクティビティとしてログに記録できます。 [!DNL Salesforce] に貴重なデータを含めるには、[!UICONTROL &#x200B; タイプ &#x200B;] フィールドに正しい値を入力することが重要です。
 
 >[!NOTE]
 >

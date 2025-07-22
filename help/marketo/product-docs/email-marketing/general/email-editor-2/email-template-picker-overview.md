@@ -33,7 +33,7 @@ ht-degree: 93%
 
 ![](assets/five-2.png)
 
-**[!UICONTROL Design Studio]** ツリーの **[!UICONTROL メール]**/[!UICONTROL  テンプレート ] の下に表示されるすべてのフォルダーは、**[!UICONTROL マイテンプレート]** で使用できます。
+**[!UICONTROL Design Studio]** ツリーの **[!UICONTROL メール]**/[!UICONTROL &#x200B; テンプレート &#x200B;] の下に表示されるすべてのフォルダーは、**[!UICONTROL マイテンプレート]** で使用できます。
 
 ![](assets/six-1.png)
 

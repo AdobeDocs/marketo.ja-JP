@@ -25,7 +25,7 @@ ht-degree: 94%
 
    ![](assets/two-3.png)
 
-1. [!UICONTROL  グループアクション ] ボタンをクリックし、「**[!UICONTROL メールグループ]**」を選択します。
+1. [!UICONTROL &#x200B; グループアクション &#x200B;] ボタンをクリックし、「**[!UICONTROL メールグループ]**」を選択します。
 
    ![](assets/three-3.png)
 

@@ -10,9 +10,9 @@ ht-degree: 90%
 
 ---
 
-# 「[!UICONTROL  コンテンツ ] タブについて {#understanding-the-content-tab}
+# 「[!UICONTROL &#x200B; コンテンツ &#x200B;] タブについて {#understanding-the-content-tab}
 
-[!UICONTROL  コンテンツ ] タブは、テンプレートを使用する際のチームのメールエンゲージメントに関するものです。 重要だと思われる 3 つの指標を自動的にバブル表示します。
+[!UICONTROL &#x200B; コンテンツ &#x200B;] タブは、テンプレートを使用する際のチームのメールエンゲージメントに関するものです。 重要だと思われる 3 つの指標を自動的にバブル表示します。
 
 ## 秘密兵器 {#secret-weapon}
 

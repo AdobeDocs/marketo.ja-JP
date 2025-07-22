@@ -38,7 +38,7 @@ Marketo管理者は、[!DNL Sales Insight] で特定の権限を持っていま�
 
    ![](assets/four.png)
 
-1. [!UICONTROL  リードスコアリング設定 ] で、「**[!UICONTROL 編集]**」をクリックします。
+1. [!UICONTROL &#x200B; リードスコアリング設定 &#x200B;] で、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/five.png)
 
@@ -68,12 +68,12 @@ Marketo管理者は、[!DNL Sales Insight] で特定の権限を持っていま�
 
 **配信停止設定：**
 
-[!UICONTROL  テンプレートなし ]、[!UICONTROL  標準メール ] および [!UICONTROL  運用メール ] に対して、次の購読解除設定から選択できます
+[!UICONTROL &#x200B; テンプレートなし &#x200B;]、[!UICONTROL &#x200B; 標準メール &#x200B;] および [!UICONTROL &#x200B; 運用メール &#x200B;] に対して、次の購読解除設定から選択できます
 
-* [!UICONTROL  購読解除設定に従う ]
-* [!UICONTROL  複数の受信者の場合は購読解除設定に従う ]
-* [!UICONTROL 5 人を超える受信者が登録した場合は購読解除の設定に従う ]
-* [!UICONTROL  購読解除設定を無視 ]
+* [!UICONTROL &#x200B; 購読解除設定に従う &#x200B;]
+* [!UICONTROL &#x200B; 複数の受信者の場合は購読解除設定に従う &#x200B;]
+* [!UICONTROL 5 人を超える受信者が登録した場合は購読解除の設定に従う &#x200B;]
+* [!UICONTROL &#x200B; 購読解除設定を無視 &#x200B;]
 
 **テンプレートをロックする機能を有効化：**
 
@@ -81,7 +81,7 @@ Marketo管理者は、[!DNL Sales Insight] で特定の権限を持っていま�
 
 **RSS フィードの有効化：**
 
-有効化すると、MSI ユーザーは、[!DNL Salesforce] のリードフィードに加えて、RSS フィードでリードフィードを表示できます。 「[!UICONTROL  トークンの有効期限 ]」機能が無効になっている場合にのみ、RSS フィードが機能します。
+有効化すると、MSI ユーザーは、[!DNL Salesforce] のリードフィードに加えて、RSS フィードでリードフィードを表示できます。 「[!UICONTROL &#x200B; トークンの有効期限 &#x200B;]」機能が無効になっている場合にのみ、RSS フィードが機能します。
 
 **トークンの有効期限：**
 

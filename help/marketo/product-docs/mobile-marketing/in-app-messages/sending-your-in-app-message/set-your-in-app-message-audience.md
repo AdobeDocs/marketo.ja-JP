@@ -33,7 +33,7 @@ ht-degree: 81%
 
    >[!NOTE]
    >
-   >デフォルトのトリガー（[!UICONTROL  アプリを開く ]）と、デベロッパーがコードに追加したカスタムトリガーが、[!UICONTROL  アクション ] セレクターに自動的に表示されます。 カスタムイベントがない場合は、デベロッパーに問い合わせて、カスタムイベントがアプリに追加されていることを確認してください。カスタムイベントのコーディングと承認プロセスの完了には時間がかかる場合があります。詳しくは、[この記事](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
+   >デフォルトのトリガー（[!UICONTROL &#x200B; アプリを開く &#x200B;]）と、デベロッパーがコードに追加したカスタムトリガーが、[!UICONTROL &#x200B; アクション &#x200B;] セレクターに自動的に表示されます。 カスタムイベントがない場合は、デベロッパーに問い合わせて、カスタムイベントがアプリに追加されていることを確認してください。カスタムイベントのコーディングと承認プロセスの完了には時間がかかる場合があります。詳しくは、[この記事](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
 
 1. 必要な場合、**[!UICONTROL モバイルアプリアクティビティあり]**&#x200B;トリガーでは制約を利用できます。
 

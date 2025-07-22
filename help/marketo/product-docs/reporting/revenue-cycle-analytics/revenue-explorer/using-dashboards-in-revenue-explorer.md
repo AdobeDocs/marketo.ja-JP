@@ -11,9 +11,9 @@ ht-degree: 70%
 
 ---
 
-# [!UICONTROL  収益エクスプローラー ] でのダッシュボードの使用 {#using-dashboards-in-revenue-explorer}
+# [!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] でのダッシュボードの使用 {#using-dashboards-in-revenue-explorer}
 
-ダッシュボードは、[!UICONTROL  収益エクスプローラー ] レポートを組み合わせたもので、リード、キャンペーン、オポチュニティおよび/またはモデルの概要を簡単に把握できます。
+ダッシュボードは、[!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] レポートを組み合わせたもので、リード、キャンペーン、オポチュニティおよび/またはモデルの概要を簡単に把握できます。
 
 ## ダッシュボードの新規作成 {#creating-a-new-dashboard}
 
@@ -61,7 +61,7 @@ ht-degree: 70%
 
    ![](assets/ten.png)
 
-1. 保存するには、[!UICONTROL  保存 ] アイコンをクリックして [!UICONTROL  ファイル名 ] を入力し、[!UICONTROL  収益エクスプローラー ] フォルダーをダッシュボードの目的のフォルダーにダブルクリックして **[!UICONTROL 保存]** をクリックします。
+1. 保存するには、[!UICONTROL &#x200B; 保存 &#x200B;] アイコンをクリックして [!UICONTROL &#x200B; ファイル名 &#x200B;] を入力し、[!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] フォルダーをダッシュボードの目的のフォルダーにダブルクリックして **[!UICONTROL 保存]** をクリックします。
 
    ![](assets/eleven.png)
 

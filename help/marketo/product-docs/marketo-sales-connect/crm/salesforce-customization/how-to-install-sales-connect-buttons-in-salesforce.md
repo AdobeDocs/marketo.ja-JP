@@ -19,9 +19,9 @@ ht-degree: 67%
 1. 「**[!UICONTROL カスタマイズ]**」をクリックします。
 1. 「**[!UICONTROL リード]**」をクリックします。
 1. 「**[!UICONTROL ページレイアウト]**」をクリックします。
-1. ボタンを追加する **[!UICONTROL リードレイアウト]** の横にある [!UICONTROL  編集 ] をクリックします。
+1. ボタンを追加する **[!UICONTROL リードレイアウト]** の横にある [!UICONTROL &#x200B; 編集 &#x200B;] をクリックします。
 1. 「**[!UICONTROL ボタン]**」をクリックします。
-1. 「[!UICONTROL Sales Connect]」ボタンを「[!UICONTROL  リード詳細 ]」セクションにドラッグ&amp;ドロップします。
+1. 「[!UICONTROL Sales Connect]」ボタンを「[!UICONTROL &#x200B; リード詳細 &#x200B;]」セクションにドラッグ&amp;ドロップします。
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
    >[!NOTE]

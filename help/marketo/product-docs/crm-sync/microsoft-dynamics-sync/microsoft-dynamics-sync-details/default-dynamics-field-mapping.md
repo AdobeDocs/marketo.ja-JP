@@ -29,48 +29,48 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft作成日 ]</td>
-      <td>[!UICONTROL の作成日 ]</td>
+      <td>[!UICONTROL Microsoft作成日 &#x200B;]</td>
+      <td>[!UICONTROL の作成日 &#x200B;]</td>
       <td>createdon</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 敬称 ]</td>
-      <td>[!UICONTROL 敬称 ]</td>
+      <td>[!UICONTROL 敬称 &#x200B;]</td>
+      <td>[!UICONTROL 敬称 &#x200B;]</td>
       <td>salutation</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 先頭 ]</td>
-      <td>[!UICONTROL の名 ]</td>
+      <td>[!UICONTROL 先頭 &#x200B;]</td>
+      <td>[!UICONTROL の名 &#x200B;]</td>
       <td>firstname</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 中央 ]</td>
-      <td>[!UICONTROL のミドルネーム ]</td>
+      <td>[!UICONTROL 中央 &#x200B;]</td>
+      <td>[!UICONTROL のミドルネーム &#x200B;]</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の最後 ]</td>
-      <td>[!UICONTROL の姓 ]</td>
+      <td>[!UICONTROL の最後 &#x200B;]</td>
+      <td>[!UICONTROL の姓 &#x200B;]</td>
       <td>lastname</td>
     </tr>
     <tr>
-      <td>[!UICONTROL メール ]</td>
-      <td>[!UICONTROL メール ]</td>
+      <td>[!UICONTROL メール &#x200B;]</td>
+      <td>[!UICONTROL メール &#x200B;]</td>
       <td>emailaddress1</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 役職 ]</td>
-      <td>[!UICONTROL 役職 ]</td>
+      <td>[!UICONTROL 役職 &#x200B;]</td>
+      <td>[!UICONTROL 役職 &#x200B;]</td>
       <td>jobtitle</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 電話 ]</td>
-      <td>[!UICONTROL ビジネス電話 ]</td>
+      <td>[!UICONTROL 電話 &#x200B;]</td>
+      <td>[!UICONTROL ビジネス電話 &#x200B;]</td>
       <td>telephone1</td>
     </tr>
     <tr>
-      <td>[!UICONTROL モバイル ]</td>
-      <td>[!UICONTROL 携帯電話 ]</td>
+      <td>[!UICONTROL モバイル &#x200B;]</td>
+      <td>[!UICONTROL 携帯電話 &#x200B;]</td>
       <td>mobilephone</td>
     </tr>
     <tr>
@@ -79,7 +79,7 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <td>fax</td>
     </tr>
     <tr>
-      <td>[!UICONTROL アドレス ]</td>
+      <td>[!UICONTROL アドレス &#x200B;]</td>
       <td>[!UICONTROL 通り 1]</td>
       <td>address1_line1</td>
     </tr>
@@ -89,18 +89,18 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の状態 ]</td>
-      <td>[!UICONTROL 都道府県 ]</td>
+      <td>[!UICONTROL の状態 &#x200B;]</td>
+      <td>[!UICONTROL 都道府県 &#x200B;]</td>
       <td>address1_stateorprovince</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 国 ]</td>
-      <td>[!UICONTROL の国/地域 ]</td>
+      <td>[!UICONTROL 国 &#x200B;]</td>
+      <td>[!UICONTROL の国/地域 &#x200B;]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 郵便番号 ]</td>
-      <td>[!UICONTROL 郵便番号 ]</td>
+      <td>[!UICONTROL 郵便番号 &#x200B;]</td>
+      <td>[!UICONTROL 郵便番号 &#x200B;]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
@@ -109,33 +109,33 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <td>leadsourcecode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 人物ステータス ]</td>
-      <td>[!UICONTROL の状態 ]</td>
+      <td>[!UICONTROL 人物ステータス &#x200B;]</td>
+      <td>[!UICONTROL の状態 &#x200B;]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 状態の理由 ]</td>
-      <td>[!UICONTROL 状態の理由 ]</td>
+      <td>[!UICONTROL 状態の理由 &#x200B;]</td>
+      <td>[!UICONTROL 状態の理由 &#x200B;]</td>
       <td>statuscode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 人物メモ ]</td>
-      <td>[!UICONTROL の説明 ]</td>
+      <td>[!UICONTROL 人物メモ &#x200B;]</td>
+      <td>[!UICONTROL の説明 &#x200B;]</td>
       <td>description</td>
     </tr>
     <tr>
-      <td>[!UICONTROL を呼び出さない ]</td>
-      <td>[!UICONTROL で電話を許可しない ]</td>
+      <td>[!UICONTROL を呼び出さない &#x200B;]</td>
+      <td>[!UICONTROL で電話を許可しない &#x200B;]</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の購読解除 ]</td>
-      <td>[!UICONTROL で電子メールを一括で送信しない ]</td>
+      <td>[!UICONTROL の購読解除 &#x200B;]</td>
+      <td>[!UICONTROL で電子メールを一括で送信しない &#x200B;]</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 人物評価 ]</td>
-      <td>[!UICONTROL 評価 ]</td>
+      <td>[!UICONTROL 人物評価 &#x200B;]</td>
+      <td>[!UICONTROL 評価 &#x200B;]</td>
       <td>leadqualitycode</td>
     </tr>
     <tr>
@@ -149,83 +149,83 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoftがメールを送信しない ]</td>
-      <td>[!UICONTROL でメールを許可しない ]</td>
+      <td>[!UICONTROL Microsoftがメールを送信しない &#x200B;]</td>
+      <td>[!UICONTROL でメールを許可しない &#x200B;]</td>
       <td>donotemail</td>
     </tr>
     <tr>
       <td>[!UICONTROL Microsoft Do Not Fax]</td>
-      <td>[!UICONTROL で FAX を許可しない ]</td>
+      <td>[!UICONTROL で FAX を許可しない &#x200B;]</td>
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoftがマーケティング資料を送信しない ]</td>
-      <td>[!UICONTROL マーケティング資料 ]</td>
+      <td>[!UICONTROL Microsoftがマーケティング資料を送信しない &#x200B;]</td>
+      <td>[!UICONTROL マーケティング資料 &#x200B;]</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft ホーム電話 ]</td>
-      <td>[!UICONTROL ホーム電話 ]</td>
+      <td>[!UICONTROL Microsoft ホーム電話 &#x200B;]</td>
+      <td>[!UICONTROL ホーム電話 &#x200B;]</td>
       <td>telephone2</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft推奨の連絡方法 ]</td>
-      <td>[!UICONTROL 推奨の連絡方法 ]</td>
+      <td>[!UICONTROL Microsoft推奨の連絡方法 &#x200B;]</td>
+      <td>[!UICONTROL 推奨の連絡方法 &#x200B;]</td>
       <td>preferredcontactmethodcode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft トピック ]</td>
-      <td>[!UICONTROL トピック ]</td>
+      <td>[!UICONTROL Microsoft トピック &#x200B;]</td>
+      <td>[!UICONTROL トピック &#x200B;]</td>
       <td>subject</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 最終注目の瞬間の日付 ]</td>
-      <td>[!UICONTROL 最終注目の瞬間の日付 ]</td>
+      <td>[!UICONTROL 最終注目の瞬間の日付 &#x200B;]</td>
+      <td>[!UICONTROL 最終注目の瞬間の日付 &#x200B;]</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 最後の興味深いモーメントの説明 ]</td>
-      <td>[!UICONTROL 最後の興味深いモーメントの説明 ]</td>
+      <td>[!UICONTROL 最後の興味深いモーメントの説明 &#x200B;]</td>
+      <td>[!UICONTROL 最後の興味深いモーメントの説明 &#x200B;]</td>
       <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 最後の興味深いモーメント ソース ]</td>
-      <td>[!UICONTROL 最後の興味深いモーメント ソース ]</td>
+      <td>[!UICONTROL 最後の興味深いモーメント ソース &#x200B;]</td>
+      <td>[!UICONTROL 最後の興味深いモーメント ソース &#x200B;]</td>
       <td>mkt_leadinterestingmomentsource</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 最後の興味深いモーメント タイプ ]</td>
-      <td>[!UICONTROL 最後の興味深いモーメント タイプ ]</td>
+      <td>[!UICONTROL 最後の興味深いモーメント タイプ &#x200B;]</td>
+      <td>[!UICONTROL 最後の興味深いモーメント タイプ &#x200B;]</td>
       <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 会社 ]</td>
-      <td>[!UICONTROL 会社名 ]</td>
+      <td>[!UICONTROL 会社 &#x200B;]</td>
+      <td>[!UICONTROL 会社名 &#x200B;]</td>
       <td>companyname</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 相対スコア ]</td>
-      <td>[!UICONTROL 相対スコア ]</td>
+      <td>[!UICONTROL 相対スコア &#x200B;]</td>
+      <td>[!UICONTROL 相対スコア &#x200B;]</td>
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の優先度 ]</td>
-      <td>[!UICONTROL の優先度 ]</td>
+      <td>[!UICONTROL の優先度 &#x200B;]</td>
+      <td>[!UICONTROL の優先度 &#x200B;]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の相対的な緊急度 ]</td>
-      <td>[!UICONTROL 緊急度 ]</td>
+      <td>[!UICONTROL の相対的な緊急度 &#x200B;]</td>
+      <td>[!UICONTROL 緊急度 &#x200B;]</td>
       <td>mkt_ecqurency</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 件名 ]</td>
-      <td>[!UICONTROL トピック ]</td>
+      <td>[!UICONTROL 件名 &#x200B;]</td>
+      <td>[!UICONTROL トピック &#x200B;]</td>
       <td>subject</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の年間売上高 ]</td>
-      <td>[!UICONTROL の年間売上高 ]</td>
+      <td>[!UICONTROL の年間売上高 &#x200B;]</td>
+      <td>[!UICONTROL の年間売上高 &#x200B;]</td>
       <td>revenue</td>
     </tr>
   </tbody>
@@ -244,11 +244,11 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>[!UICONTROL 所有者 ] </td>
+      <td>[!UICONTROL 所有者 &#x200B;] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の作成日 ]</td>
+      <td>[!UICONTROL の作成日 &#x200B;]</td>
       <td>createdon</td>
     </tr>
   </tbody>
@@ -269,93 +269,93 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft作成日 ]</td>
-      <td>[!UICONTROL の作成日 ]</td>
+      <td>[!UICONTROL Microsoft作成日 &#x200B;]</td>
+      <td>[!UICONTROL の作成日 &#x200B;]</td>
       <td>createdon</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 敬称 ]</td>
-      <td>[!UICONTROL 敬称 ]</td>
+      <td>[!UICONTROL 敬称 &#x200B;]</td>
+      <td>[!UICONTROL 敬称 &#x200B;]</td>
       <td>salutation</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 先頭 ]</td>
-      <td>[!UICONTROL の名 ]</td>
+      <td>[!UICONTROL 先頭 &#x200B;]</td>
+      <td>[!UICONTROL の名 &#x200B;]</td>
       <td>firstname</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 中央 ]</td>
-      <td>[!UICONTROL のミドルネーム ]</td>
+      <td>[!UICONTROL 中央 &#x200B;]</td>
+      <td>[!UICONTROL のミドルネーム &#x200B;]</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の最後 ]</td>
-      <td>[!UICONTROL の姓 ]</td>
+      <td>[!UICONTROL の最後 &#x200B;]</td>
+      <td>[!UICONTROL の姓 &#x200B;]</td>
       <td>lastname</td>
     </tr>
     <tr>
-      <td>[!UICONTROL メール ]</td>
-      <td>[!UICONTROL メール ]</td>
+      <td>[!UICONTROL メール &#x200B;]</td>
+      <td>[!UICONTROL メール &#x200B;]</td>
       <td>emailaddress1</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 役職 ]</td>
-      <td>[!UICONTROL 役職 ]</td>
+      <td>[!UICONTROL 役職 &#x200B;]</td>
+      <td>[!UICONTROL 役職 &#x200B;]</td>
       <td>jobtitle</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 電話 ]</td>
-      <td>[!UICONTROL ビジネス電話 ]</td>
+      <td>[!UICONTROL 電話 &#x200B;]</td>
+      <td>[!UICONTROL ビジネス電話 &#x200B;]</td>
       <td>telephone1</td>
     </tr>
     <tr>
-      <td>[!UICONTROL モバイル ]</td>
-      <td>[!UICONTROL 携帯電話 ]</td>
+      <td>[!UICONTROL モバイル &#x200B;]</td>
+      <td>[!UICONTROL 携帯電話 &#x200B;]</td>
       <td>mobilephone</td>
     </tr>
     <tr>
-      <td>[!UICONTROL アドレス ]</td>
+      <td>[!UICONTROL アドレス &#x200B;]</td>
       <td>[!UICONTROL 住所 1：番地 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
       <td>[！市区町村 ]</td>
-      <td>[!UICONTROL 住所 1：市区町村 ]</td>
+      <td>[!UICONTROL 住所 1：市区町村 &#x200B;]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の状態 ]</td>
-      <td>[!UICONTROL 住所 1：都道府県 ]</td>
+      <td>[!UICONTROL の状態 &#x200B;]</td>
+      <td>[!UICONTROL 住所 1：都道府県 &#x200B;]</td>
       <td>address1_stateorprovince</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 国 ]</td>
-      <td>[!UICONTROL 住所 1：国/地域 ]</td>
+      <td>[!UICONTROL 国 &#x200B;]</td>
+      <td>[!UICONTROL 住所 1：国/地域 &#x200B;]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 郵便番号 ]</td>
-      <td>[!UICONTROL 住所 1：郵便番号 ]</td>
+      <td>[!UICONTROL 郵便番号 &#x200B;]</td>
+      <td>[!UICONTROL 住所 1：郵便番号 &#x200B;]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 人物ステータス ]</td>
-      <td>[!UICONTROL の状態 ]</td>
+      <td>[!UICONTROL 人物ステータス &#x200B;]</td>
+      <td>[!UICONTROL の状態 &#x200B;]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 状態の理由 ]</td>
-      <td>[!UICONTROL 状態の理由 ]</td>
+      <td>[!UICONTROL 状態の理由 &#x200B;]</td>
+      <td>[!UICONTROL 状態の理由 &#x200B;]</td>
       <td>statuscode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL を呼び出さない ]</td>
-      <td>[!UICONTROL で電話を許可しない ]</td>
+      <td>[!UICONTROL を呼び出さない &#x200B;]</td>
+      <td>[!UICONTROL で電話を許可しない &#x200B;]</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の購読解除 ]</td>
-      <td>[!UICONTROL で電子メールを一括で送信しない ]</td>
+      <td>[!UICONTROL の購読解除 &#x200B;]</td>
+      <td>[!UICONTROL で電子メールを一括で送信しない &#x200B;]</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
@@ -369,43 +369,43 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoftがメールを送信しない ]</td>
-      <td>[!UICONTROL でメールを許可しない ]</td>
+      <td>[!UICONTROL Microsoftがメールを送信しない &#x200B;]</td>
+      <td>[!UICONTROL でメールを許可しない &#x200B;]</td>
       <td>donotemail</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft ホーム電話 ]</td>
-      <td>[!UICONTROL ホーム電話 ]</td>
+      <td>[!UICONTROL Microsoft ホーム電話 &#x200B;]</td>
+      <td>[!UICONTROL ホーム電話 &#x200B;]</td>
       <td>telephone2</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft推奨の連絡方法 ]</td>
-      <td>[!UICONTROL 推奨の連絡方法 ]</td>
+      <td>[!UICONTROL Microsoft推奨の連絡方法 &#x200B;]</td>
+      <td>[!UICONTROL 推奨の連絡方法 &#x200B;]</td>
       <td>preferredcontactmethodcode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 最終注目の瞬間の日付 ]</td>
-      <td>[!UICONTROL 最終注目の瞬間の日付 ]</td>
+      <td>[!UICONTROL 最終注目の瞬間の日付 &#x200B;]</td>
+      <td>[!UICONTROL 最終注目の瞬間の日付 &#x200B;]</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 最後の興味深いモーメント タイプ ]</td>
-      <td>[!UICONTROL 最後の興味深いモーメント タイプ ]</td>
+      <td>[!UICONTROL 最後の興味深いモーメント タイプ &#x200B;]</td>
+      <td>[!UICONTROL 最後の興味深いモーメント タイプ &#x200B;]</td>
       <td>mkt_lastinterestingmomenttype</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 最後の興味深いモーメント ソース ]</td>
-      <td>[!UICONTROL 最後の興味深いモーメント ソース ]</td>
+      <td>[!UICONTROL 最後の興味深いモーメント ソース &#x200B;]</td>
+      <td>[!UICONTROL 最後の興味深いモーメント ソース &#x200B;]</td>
       <td>mkt_leadinterestingmomentsource</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 最後の興味深いモーメントの説明 ]</td>
-      <td>[!UICONTROL 最後の興味深いモーメントの説明 ]</td>
+      <td>[!UICONTROL 最後の興味深いモーメントの説明 &#x200B;]</td>
+      <td>[!UICONTROL 最後の興味深いモーメントの説明 &#x200B;]</td>
       <td>mkt_lastinterestingmomentdesc</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoftがマーケティング資料を送信しない ]</td>
-      <td>[!UICONTROL マーケティング資料 ]</td>
+      <td>[!UICONTROL Microsoftがマーケティング資料を送信しない &#x200B;]</td>
+      <td>[!UICONTROL マーケティング資料 &#x200B;]</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
@@ -414,33 +414,33 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の優先度 ]</td>
-      <td>[!UICONTROL の優先度 ]</td>
+      <td>[!UICONTROL の優先度 &#x200B;]</td>
+      <td>[!UICONTROL の優先度 &#x200B;]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の相対的な緊急度 ]</td>
-      <td>[!UICONTROL 緊急度 ]</td>
+      <td>[!UICONTROL の相対的な緊急度 &#x200B;]</td>
+      <td>[!UICONTROL 緊急度 &#x200B;]</td>
       <td>mkt_ecqurency</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 相対スコア ]</td>
-      <td>[!UICONTROL 相対スコア ]</td>
+      <td>[!UICONTROL 相対スコア &#x200B;]</td>
+      <td>[!UICONTROL 相対スコア &#x200B;]</td>
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 人物メモ ]</td>
-      <td>[!UICONTROL の説明 ]</td>
+      <td>[!UICONTROL 人物メモ &#x200B;]</td>
+      <td>[!UICONTROL の説明 &#x200B;]</td>
       <td>説明 </td>
     </tr>
     <tr>
-      <td>[!UICONTROL 人物スコア ]</td>
-      <td>[!UICONTROL リードスコア ]</td>
+      <td>[!UICONTROL 人物スコア &#x200B;]</td>
+      <td>[!UICONTROL リードスコア &#x200B;]</td>
       <td>mkt_leadscore</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 人物メモ ]</td>
-      <td>[!UICONTROL の説明 ]</td>
+      <td>[!UICONTROL 人物メモ &#x200B;]</td>
+      <td>[!UICONTROL の説明 &#x200B;]</td>
       <td>説明 </td>
     </tr>
   </tbody>
@@ -459,15 +459,15 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>[!UICONTROL 所有者 ] </td>
+      <td>[!UICONTROL 所有者 &#x200B;] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の作成日 ]</td>
+      <td>[!UICONTROL の作成日 &#x200B;]</td>
       <td>createdon</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 会社名 ]</td>
+      <td>[!UICONTROL 会社名 &#x200B;]</td>
       <td>parentcustomerid</td>
     </tr>
   </tbody>
@@ -488,28 +488,28 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>[!UICONTROL アカウント （a） ]</td>
-      <td>[!UICONTROL アカウント ]</td>
+      <td>[!UICONTROL アカウント （a） &#x200B;]</td>
+      <td>[!UICONTROL アカウント &#x200B;]</td>
       <td>accountid</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 請求先住所 ]</td>
+      <td>[!UICONTROL 請求先住所 &#x200B;]</td>
       <td>[!UICONTROL 住所 1：番地 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 請求都市 ]</td>
-      <td>[!UICONTROL 住所 1：市区町村 ]</td>
+      <td>[!UICONTROL 請求都市 &#x200B;]</td>
+      <td>[!UICONTROL 住所 1：市区町村 &#x200B;]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 請求国 ]</td>
-      <td>[!UICONTROL 住所 1：国/地域 ]</td>
+      <td>[!UICONTROL 請求国 &#x200B;]</td>
+      <td>[!UICONTROL 住所 1：国/地域 &#x200B;]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 請求郵便番号 ]</td>
-      <td>[!UICONTROL 住所 1：郵便番号 ]</td>
+      <td>[!UICONTROL 請求郵便番号 &#x200B;]</td>
+      <td>[!UICONTROL 住所 1：郵便番号 &#x200B;]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
@@ -523,68 +523,68 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>[!UICONTROL メイン電話 ]</td>
-      <td>[!UICONTROL メイン電話 ]</td>
+      <td>[!UICONTROL メイン電話 &#x200B;]</td>
+      <td>[!UICONTROL メイン電話 &#x200B;]</td>
       <td>telephone1</td>
     </tr>
     <tr>
-      <td>[!UICONTROL ビジネス タイプ ]</td>
-      <td>[!UICONTROL ビジネス タイプ ]</td>
+      <td>[!UICONTROL ビジネス タイプ &#x200B;]</td>
+      <td>[!UICONTROL ビジネス タイプ &#x200B;]</td>
       <td>businesstypecode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft アカウント番号 ]</td>
-      <td>[!UICONTROL アカウント番号 ]</td>
+      <td>[!UICONTROL Microsoft アカウント番号 &#x200B;]</td>
+      <td>[!UICONTROL アカウント番号 &#x200B;]</td>
       <td>accountnumber</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft会社ステータス ]</td>
-      <td>[!UICONTROL の状態 ]</td>
+      <td>[!UICONTROL Microsoft会社ステータス &#x200B;]</td>
+      <td>[!UICONTROL の状態 &#x200B;]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の年間売上高 ]</td>
-      <td>[!UICONTROL の年間売上高 ]</td>
+      <td>[!UICONTROL の年間売上高 &#x200B;]</td>
+      <td>[!UICONTROL の年間売上高 &#x200B;]</td>
       <td>revenue</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 会社注記 ]</td>
-      <td>[!UICONTROL の説明 ]</td>
+      <td>[!UICONTROL 会社注記 &#x200B;]</td>
+      <td>[!UICONTROL の説明 &#x200B;]</td>
       <td>description</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 業界 ]</td>
-      <td>[!UICONTROL 業界 ]</td>
+      <td>[!UICONTROL 業界 &#x200B;]</td>
+      <td>[!UICONTROL 業界 &#x200B;]</td>
       <td>industrycode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL SIC コード ]</td>
-      <td>[!UICONTROL SIC コード ]</td>
+      <td>[!UICONTROL SIC コード &#x200B;]</td>
+      <td>[!UICONTROL SIC コード &#x200B;]</td>
       <td>sic</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Web サイト ]</td>
-      <td>[!UICONTROL Web サイト ]</td>
+      <td>[!UICONTROL Web サイト &#x200B;]</td>
+      <td>[!UICONTROL Web サイト &#x200B;]</td>
       <td>website</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 従業員数 ]</td>
-      <td>[!UICONTROL 従業員数 ]</td>
+      <td>[!UICONTROL 従業員数 &#x200B;]</td>
+      <td>[!UICONTROL 従業員数 &#x200B;]</td>
       <td>numberofemployees</td>
     </tr>
     <tr>
-      <td>[!UICONTROL SIC コード ]</td>
-      <td>[!UICONTROL SIC コード ]</td>
+      <td>[!UICONTROL SIC コード &#x200B;]</td>
+      <td>[!UICONTROL SIC コード &#x200B;]</td>
       <td>sic</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 会社 ]</td>
-      <td>[!UICONTROL アカウント名 ]</td>
+      <td>[!UICONTROL 会社 &#x200B;]</td>
+      <td>[!UICONTROL アカウント名 &#x200B;]</td>
       <td>name</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 従業員数 ]</td>
-      <td>[!UICONTROL 従業員数 ]</td>
+      <td>[!UICONTROL 従業員数 &#x200B;]</td>
+      <td>[!UICONTROL 従業員数 &#x200B;]</td>
       <td>numberofemployees</td>
     </tr>
   </tbody>
@@ -603,11 +603,11 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>[!UICONTROL 所有者 ] </td>
+      <td>[!UICONTROL 所有者 &#x200B;] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の作成日 ]</td>
+      <td>[!UICONTROL の作成日 &#x200B;]</td>
       <td>createdon</td>
     </tr>
   </tbody>
@@ -628,33 +628,33 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>[!UICONTROL 閉じる確率 ]</td>
-      <td>[!UICONTROL の確率 ]</td>
+      <td>[!UICONTROL 閉じる確率 &#x200B;]</td>
+      <td>[!UICONTROL の確率 &#x200B;]</td>
       <td>closeprobability</td>
     </tr>
     <tr>
-      <td>[!UICONTROL ステージ ]</td>
-      <td>[!UICONTROL の状態 ]</td>
+      <td>[!UICONTROL ステージ &#x200B;]</td>
+      <td>[!UICONTROL の状態 &#x200B;]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 実際のクローズ日 ]</td>
-      <td>[!UICONTROL 実際のクローズ日 ]</td>
+      <td>[!UICONTROL 実際のクローズ日 &#x200B;]</td>
+      <td>[!UICONTROL 実際のクローズ日 &#x200B;]</td>
       <td>actualclosedate</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 名 ]</td>
-      <td>[!UICONTROL トピック ]</td>
+      <td>[!UICONTROL 名 &#x200B;]</td>
+      <td>[!UICONTROL トピック &#x200B;]</td>
       <td>name</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 予測値 ]</td>
-      <td>[!UICONTROL のテスト。 売上高 ]</td>
+      <td>[!UICONTROL 予測値 &#x200B;]</td>
+      <td>[!UICONTROL のテスト。 売上高 &#x200B;]</td>
       <td>estimatedValue</td>
     </tr>
     <tr>
-      <td>[!UICONTROL の説明 ]</td>
-      <td>[!UICONTROL の説明 ]</td>
+      <td>[!UICONTROL の説明 &#x200B;]</td>
+      <td>[!UICONTROL の説明 &#x200B;]</td>
       <td>description</td>
     </tr>
   </tbody>
@@ -673,15 +673,15 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>[!UICONTROL 所有者 ] </td>
+      <td>[!UICONTROL 所有者 &#x200B;] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 商談 ]</td>
+      <td>[!UICONTROL 商談 &#x200B;]</td>
       <td>opportunityId</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 見込み顧客 ]</td>
+      <td>[!UICONTROL 見込み顧客 &#x200B;]</td>
       <td>customerId</td>
     </tr>
   </tbody>
@@ -702,15 +702,15 @@ Marketo Engage アカウントを最初にMicrosoftと同期すると、Marketo�
       <th>説明</th>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft型 ]</td>
+      <td>[!UICONTROL Microsoft型 &#x200B;]</td>
       <td>リードまたは取引先責任者。空の場合、リードは Marketo にのみ存在します</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft作成日 ]</td>
+      <td>[!UICONTROL Microsoft作成日 &#x200B;]</td>
       <td>[!DNL MS Dynamics] に作成された日付（Marketoで作成された日付と異なる場合があります）</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoftが削除されました ]</td>
+      <td>[!UICONTROL Microsoftが削除されました &#x200B;]</td>
       <td>以前は Microsoft に存在したが、削除され、現在は Marketo にしか存在しない個人</td>
     </tr>
   </tbody>

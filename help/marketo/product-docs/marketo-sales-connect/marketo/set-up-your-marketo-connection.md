@@ -28,7 +28,7 @@ Marketo 内から一連の資格情報を取得する必要があります。こ
 
    ![](assets/manually-set-up-your-marketo-connection-2.png)
 
-1. 選択して、次のMarketo資格情報（[!DNL Sales Connect]Munchkin アカウント ID[!UICONTROL 、] クライアント ID[!UICONTROL 、] クライアントシークレット [!UICONTROL ）を ] 管理者に送信します。
+1. 選択して、次のMarketo資格情報（[!DNL Sales Connect]Munchkin アカウント ID[!UICONTROL 、] クライアント ID[!UICONTROL 、] クライアントシークレット [!UICONTROL ）を &#x200B;] 管理者に送信します。
 
    ![](assets/manually-set-up-your-marketo-connection-3.jpg)
 
@@ -42,7 +42,7 @@ Marketo 内から一連の資格情報を取得する必要があります。こ
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. [!UICONTROL  管理設定 ] で、**[!UICONTROL Marketo]** を選択します。
+1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、**[!UICONTROL Marketo]** を選択します。
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 

@@ -26,7 +26,7 @@ ht-degree: 91%
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. 検索対象のカテゴリを選択します（または、すべてのカテゴリを検索する場合は [!UICONTROL  すべて ] を選択します）。
+1. 検索対象のカテゴリを選択します（または、すべてのカテゴリを検索する場合は [!UICONTROL &#x200B; すべて &#x200B;] を選択します）。
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 

@@ -23,9 +23,9 @@ ht-degree: 65%
 
 >[!NOTE]
 >
->プログラムの最初に、予測コストを入力します。プログラムの期間が完了したら、[!UICONTROL  期間コスト ] を編集して、実際のコストを入力できます。 これにより、正確なレポート結果が得られます。
+>プログラムの最初に、予測コストを入力します。プログラムの期間が完了したら、[!UICONTROL &#x200B; 期間コスト &#x200B;] を編集して、実際のコストを入力できます。 これにより、正確なレポート結果が得られます。
 
-## [!UICONTROL  期間コスト ] を定義 {#define-a-period-cost}
+## [!UICONTROL &#x200B; 期間コスト &#x200B;] を定義 {#define-a-period-cost}
 
 1. プログラムまたはイベントの「**[!UICONTROL 設定]**」タブに移動します。
 
@@ -51,9 +51,9 @@ ht-degree: 65%
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
-## [!UICONTROL  期間コスト ] の編集 {#edit-a-period-cost}
+## [!UICONTROL &#x200B; 期間コスト &#x200B;] の編集 {#edit-a-period-cost}
 
-1. [!UICONTROL  期間コスト ] を右クリックし、ポップアップメニューから **[!UICONTROL 編集]** を選択して **[!UICONTROL コストを編集]** ダイアログボックスを開きます。
+1. [!UICONTROL &#x200B; 期間コスト &#x200B;] を右クリックし、ポップアップメニューから **[!UICONTROL 編集]** を選択して **[!UICONTROL コストを編集]** ダイアログボックスを開きます。
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -61,9 +61,9 @@ ht-degree: 65%
 
    ![](assets/image2015-4-24-16-3a27-3a38.png)
 
-## [!UICONTROL  期間コスト ] の削除 {#delete-a-period-cost}
+## [!UICONTROL &#x200B; 期間コスト &#x200B;] の削除 {#delete-a-period-cost}
 
-1. 削除する [!UICONTROL  期間費用 ] を右クリックし、ポップアップメニューから **[!UICONTROL 削除]** を選択して **[!UICONTROL 費用を削除]** プロンプトを表示します。
+1. 削除する [!UICONTROL &#x200B; 期間費用 &#x200B;] を右クリックし、ポップアップメニューから **[!UICONTROL 削除]** を選択して **[!UICONTROL 費用を削除]** プロンプトを表示します。
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 

@@ -11,9 +11,9 @@ ht-degree: 75%
 
 ---
 
-# [!UICONTROL  売上高エクスプローラー ] レポートの作成 {#create-a-revenue-explorer-report}
+# [!UICONTROL &#x200B; 売上高エクスプローラー &#x200B;] レポートの作成 {#create-a-revenue-explorer-report}
 
-[!UICONTROL  売上高エクスプローラー ] レポートを使用すると、マーケティングイニシアチブの ROI を追跡できます。
+[!UICONTROL &#x200B; 売上高エクスプローラー &#x200B;] レポートを使用すると、マーケティングイニシアチブの ROI を追跡できます。
 
 >[!AVAILABILITY]
 >
@@ -41,5 +41,5 @@ ht-degree: 75%
 
 >[!MORELIKETHIS]
 >
->* [[!UICONTROL  収益エクスプローラー ] レポートへのフィールドの追加 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [[!UICONTROL  収益エクスプローラー ] レポートへのカスタムメジャーの追加 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)
+>* [[!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] レポートへのフィールドの追加 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [[!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] レポートへのカスタムメジャーの追加 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

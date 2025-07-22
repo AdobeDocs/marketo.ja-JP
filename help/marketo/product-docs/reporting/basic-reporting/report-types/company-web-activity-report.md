@@ -21,7 +21,7 @@ Web サイトを訪問している会社を確認します。同じレポート�
 >
 >Marketoで web サイトのアクティビティを取得するには、まず [ サイトに  [!DNL Munchkin]  設定 ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) する必要があります。
 
-1. [ レポートを作成 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) し、[!UICONTROL  会社 web アクティビティ ] レポート [ レポートタイプ ](report-type-overview.md) を選択します。
+1. [ レポートを作成 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) し、[!UICONTROL &#x200B; 会社 web アクティビティ &#x200B;] レポート [ レポートタイプ ](report-type-overview.md) を選択します。
 
 1. レポートで[既知または匿名のリードの表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)を選択します。
 

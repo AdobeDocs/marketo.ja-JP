@@ -23,7 +23,7 @@ ht-degree: 90%
 
    ![](assets/two.png)
 
-1. 名前を入力し、**[!UICONTROL プログラムの種類]** として [!UICONTROL  メール ] を選択し、**[!UICONTROL 作成]** をクリックします。
+1. 名前を入力し、**[!UICONTROL プログラムの種類]** として [!UICONTROL &#x200B; メール &#x200B;] を選択し、**[!UICONTROL 作成]** をクリックします。
 
    ![](assets/three.png)
 

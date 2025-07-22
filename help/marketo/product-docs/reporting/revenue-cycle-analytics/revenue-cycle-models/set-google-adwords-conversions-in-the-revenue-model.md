@@ -57,7 +57,7 @@ ht-degree: 38%
 
 ## ステージアクションを使用する {#use-stage-action}
 
-また、「[!UICONTROL  ステージアクション ]」の下で **[!UICONTROL AdWords コンバージョン]** をマッピングすることもできます。
+また、「[!UICONTROL &#x200B; ステージアクション &#x200B;]」の下で **[!UICONTROL AdWords コンバージョン]** をマッピングすることもできます。
 
 1. [!DNL AdWords] 変換にマッピングするステップを選択します。
 
@@ -107,7 +107,7 @@ ht-degree: 38%
 
 ## [!DNL AdWords] マッピングの使用 {#use-adwords-mapping}
 
-[!UICONTROL  マッピングを使用すると、すべてのモデルステージを ]AdWords コンバージョン [!DNL AdWords] に 1 か所で関連付けることができます。
+[!UICONTROL &#x200B; マッピングを使用すると、すべてのモデルステージを &#x200B;]AdWords コンバージョン [!DNL AdWords] に 1 か所で関連付けることができます。
 
 1. 「**[!UICONTROL AdWords マッピングの編集]**」を選択します。
 

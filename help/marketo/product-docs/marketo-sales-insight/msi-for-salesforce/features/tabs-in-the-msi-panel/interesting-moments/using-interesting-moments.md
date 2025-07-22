@@ -37,7 +37,7 @@ ht-degree: 69%
 
    ![](assets/using-interesting-moments-2.png)
 
-1. **タイプ** （[!UICONTROL  メール ]、[!UICONTROL  マイルストーン ] または [!UICONTROL Web]）を選択します。
+1. **タイプ** （[!UICONTROL &#x200B; メール &#x200B;]、[!UICONTROL &#x200B; マイルストーン &#x200B;] または [!UICONTROL Web]）を選択します。
 
    ![](assets/using-interesting-moments-3.png)
 
@@ -77,11 +77,11 @@ ht-degree: 69%
 
 ## 注目のアクションを購読 {#subscribe-to-interesting-moments}
 
-興味深いモーメントを購読するには、「興味深いモーメント」タブまたはリードフィードで「[!UICONTROL  購読 ]」ボタンをクリックします。 以下の手順は両方で同じです。
+興味深いモーメントを購読するには、「興味深いモーメント」タブまたはリードフィードで「[!UICONTROL &#x200B; 購読 &#x200B;]」ボタンをクリックします。 以下の手順は両方で同じです。
 
 1. 購読アイコンをクリックします。その後、「メール購読」タブに移動します。
 
-1. [!UICONTROL  名前 ]、[!UICONTROL  アカウント ]、[!UICONTROL  タイプ ]、または [!UICONTROL  説明 ] に基づいて、受信するメールアラートのタイプを選択できます。
+1. [!UICONTROL &#x200B; 名前 &#x200B;]、[!UICONTROL &#x200B; アカウント &#x200B;]、[!UICONTROL &#x200B; タイプ &#x200B;]、または [!UICONTROL &#x200B; 説明 &#x200B;] に基づいて、受信するメールアラートのタイプを選択できます。
 
 1. アラートを送信するメールアドレスを選択します（自分／チームメンバー）
 

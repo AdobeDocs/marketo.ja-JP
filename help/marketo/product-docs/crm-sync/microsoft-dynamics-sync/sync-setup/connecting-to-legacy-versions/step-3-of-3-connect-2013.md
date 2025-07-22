@@ -46,7 +46,7 @@ ht-degree: 72%
    >
    >送信後に後続のスキーマの変更を元に戻すことができないので、資格情報が正しいことを確認してください。間違った資格情報を保存した場合は、新しい Marketo サブスクリプションを取得する必要があります。
 
-1. **[!UICONTROL ユーザー名]**、**[!UICONTROL パスワード]**、[!DNL Microsoft Dynamics]**URL** を入力し、「**[!UICONTROL 保存]**」をクリックします。
+1. **[!UICONTROL ユーザー名]**、**[!UICONTROL パスワード]**、[!DNL Microsoft Dynamics]&#x200B;**URL** を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-3-26-11-3a47-3a59.png)
 
@@ -75,11 +75,11 @@ ht-degree: 72%
 
 カスタムフィルターを作成した場合は、Marketo と同期する新しいフィールドを選択するようにします。
 
-1. [!UICONTROL  管理者 ] に移動し、「**[!UICONTROL Microsoft Dynamics]**」を選択します。
+1. [!UICONTROL &#x200B; 管理者 &#x200B;] に移動し、「**[!UICONTROL Microsoft Dynamics]**」を選択します。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. **[!UICONTROL フィールド同期の詳細]** で [!UICONTROL  編集 ] をクリックします。
+1. **[!UICONTROL フィールド同期の詳細]** で [!UICONTROL &#x200B; 編集 &#x200B;] をクリックします。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 

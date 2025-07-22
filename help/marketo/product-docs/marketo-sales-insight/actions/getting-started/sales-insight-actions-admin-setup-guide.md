@@ -82,11 +82,11 @@ ht-degree: 78%
 
    ![](assets/msi-actions-admin-guide-3.png)
 
-1. [!UICONTROL  管理者設定 ] で、**[!UICONTROL Salesforce]** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/msi-actions-admin-guide-4.png)
 
-1. [[!UICONTROL  接続とカスタマイズ ]] タブで、[**[!UICONTROL 接続]**] をクリックします。
+1. [[!UICONTROL &#x200B; 接続とカスタマイズ &#x200B;]] タブで、[**[!UICONTROL 接続]**] をクリックします。
 
    ![](assets/msi-actions-admin-guide-5.png)
 
@@ -102,7 +102,7 @@ ht-degree: 78%
 
    ![](assets/msi-actions-admin-guide-7.png)
 
-1. [!UICONTROL  管理者設定 ] で、**Marketo** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、**Marketo** をクリックします。
 
    ![](assets/msi-actions-admin-guide-8.png)
 
@@ -150,7 +150,7 @@ Marketoと [!DNL Salesforce] に存在する人物レコードは、Marketo Sale
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL User Management]**」を選択します。
+1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、「**[!UICONTROL User Management]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-15.png)
 
@@ -174,7 +174,7 @@ Marketoと [!DNL Salesforce] に存在する人物レコードは、Marketo Sale
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL User Management]**」を選択します。
+1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、「**[!UICONTROL User Management]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-19.png)
 

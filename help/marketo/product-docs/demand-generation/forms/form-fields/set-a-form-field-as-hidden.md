@@ -23,7 +23,7 @@ ht-degree: 87%
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. フィールドを選択し、**[!UICONTROL フィールドタイプ]** を **[!UICONTROL 非表示 ].** に設定します。
+1. フィールドを選択し、**[!UICONTROL フィールドタイプ]** を **[!UICONTROL 非表示 &#x200B;].** に設定します。
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 

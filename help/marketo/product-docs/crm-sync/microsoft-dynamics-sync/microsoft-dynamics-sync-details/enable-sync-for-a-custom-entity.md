@@ -40,7 +40,7 @@ ht-degree: 90%
    >
    >カスタムエンティティを有効または無効にするには、グローバル同期を一時的に無効にする必要があります。
 
-1. [!UICONTROL  データベース管理 ] で、「**[!UICONTROL Dynamics エンティティ同期]**」リンクをクリックします。
+1. [!UICONTROL &#x200B; データベース管理 &#x200B;] で、「**[!UICONTROL Dynamics エンティティ同期]**」リンクをクリックします。
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 

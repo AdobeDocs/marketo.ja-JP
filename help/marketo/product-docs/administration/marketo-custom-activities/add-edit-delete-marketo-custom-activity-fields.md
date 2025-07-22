@@ -83,7 +83,7 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >[!UICONTROL API 名 ] は、フィールドを編集する際に自動入力されません。 フィールド [!UICONTROL Name] と [!UICONTROL Api Name] が一致する必要はありませんが、一致することをお勧めします。
+   >[!UICONTROL API 名 &#x200B;] は、フィールドを編集する際に自動入力されません。 フィールド [!UICONTROL Name] と [!UICONTROL Api Name] が一致する必要はありませんが、一致することをお勧めします。
 
    >[!CAUTION]
    >

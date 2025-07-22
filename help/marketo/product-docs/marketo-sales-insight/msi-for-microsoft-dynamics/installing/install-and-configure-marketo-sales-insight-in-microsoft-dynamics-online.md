@@ -143,11 +143,11 @@ Marketo インスタンスを [!DNL Sales Insight] で [!DNL Dynamics] に関連
 
    ![](assets/enable-three.png)
 
-1. **[!UICONTROL フィールド同期の詳細]** の横にある [!UICONTROL  編集 ] をクリックします。
+1. **[!UICONTROL フィールド同期の詳細]** の横にある [!UICONTROL &#x200B; 編集 &#x200B;] をクリックします。
 
    ![](assets/enable-four.png)
 
-1. これにより _自動的に_、以前に無効にした MSI フィールド（[!UICONTROL  緊急度 ]、[!UICONTROL  相対スコア ]、および [!UICONTROL  優先度 ]）が選択されます。 「**[!UICONTROL 保存]**」をクリックして、データの同期を開始します。
+1. これにより _自動的に_、以前に無効にした MSI フィールド（[!UICONTROL &#x200B; 緊急度 &#x200B;]、[!UICONTROL &#x200B; 相対スコア &#x200B;]、および [!UICONTROL &#x200B; 優先度 &#x200B;]）が選択されます。 「**[!UICONTROL 保存]**」をクリックして、データの同期を開始します。
 
    ![](assets/enable-five.png)
 

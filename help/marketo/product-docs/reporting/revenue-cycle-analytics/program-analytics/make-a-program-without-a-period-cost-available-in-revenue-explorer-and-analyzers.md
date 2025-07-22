@@ -37,7 +37,7 @@ ht-degree: 96%
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. [!UICONTROL Analytics の動作 ] を「含む **に変更し** 「**[!UICONTROL 保存]**」をクリックします。
+1. [!UICONTROL Analytics の動作 &#x200B;] を「含む **に変更し** 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 

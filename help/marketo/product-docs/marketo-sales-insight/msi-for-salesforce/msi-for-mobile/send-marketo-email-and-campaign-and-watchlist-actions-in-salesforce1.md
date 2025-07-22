@@ -17,7 +17,7 @@ ht-degree: 74%
 
    ![](assets/one-1.png)
 
-1. 縦並びの 3 つのドットをクリックします。下部では、「[!UICONTROL Marketo Campaign に追加 ]」、「[!UICONTROL Marketo メールを送信 ]」、「[!UICONTROL Marketoで表示 ]」、「[!UICONTROL  ウォッチリストから追加 ]」、「[!UICONTROL  ウォッチリストから削除 ]」から選択できます。
+1. 縦並びの 3 つのドットをクリックします。下部では、「[!UICONTROL Marketo Campaign に追加 &#x200B;]」、「[!UICONTROL Marketo メールを送信 &#x200B;]」、「[!UICONTROL Marketoで表示 &#x200B;]」、「[!UICONTROL &#x200B; ウォッチリストから追加 &#x200B;]」、「[!UICONTROL &#x200B; ウォッチリストから削除 &#x200B;]」から選択できます。
 
    ![](assets/two-1.png)
 

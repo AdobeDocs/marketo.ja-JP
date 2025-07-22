@@ -16,7 +16,7 @@ ht-degree: 78%
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. 「**[!UICONTROL 設定]**」をクリックします。「[!UICONTROL  検索レイアウト ]」を検索し、「**[!UICONTROL リード]** の下の **[!UICONTROL 検索レイアウト]** をクリックします。
+1. 「**[!UICONTROL 設定]**」をクリックします。「[!UICONTROL &#x200B; 検索レイアウト &#x200B;]」を検索し、「**[!UICONTROL リード]** の下の **[!UICONTROL 検索レイアウト]** をクリックします。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 

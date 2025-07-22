@@ -17,7 +17,7 @@ Marketo のリードと顧客の照合を使用して、適切なリードを適
 
 >[!NOTE]
 >
->**リードとアカウントのマッチング** は、Marketo [!UICONTROL Target アカウント管理 ] のビルトイン機能です。 ファジィ論理を使用して、ほぼリアルタイムで適切な重点顧客にリードを自動的に一致させます。これらの重点顧客は、CRM アカウントまたは Marketo の会社です。
+>**リードとアカウントのマッチング** は、Marketo [!UICONTROL Target アカウント管理 &#x200B;] のビルトイン機能です。 ファジィ論理を使用して、ほぼリアルタイムで適切な重点顧客にリードを自動的に一致させます。これらの重点顧客は、CRM アカウントまたは Marketo の会社です。
 
 ## 概要 {#overview}
 
@@ -65,7 +65,7 @@ Marketo リードとアカウントのマッチングはMarketo [!UICONTROL Targ
 
    ![](assets/lead-to-account-matching-2.png)
 
-1. 「[!UICONTROL  一致したアカウントのレポート ]」を検索して、フィールドがあることを確認します。
+1. 「[!UICONTROL &#x200B; 一致したアカウントのレポート &#x200B;]」を検索して、フィールドがあることを確認します。
 
    ![](assets/lead-to-account-matching-3.png)
 

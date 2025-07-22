@@ -16,7 +16,7 @@ ht-degree: 0%
 
 自動ログインを使用するには：
 
-* [Login Management settings](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) は&quot;[!UICONTROL Salesforceのみ&quot;に設定する必要があり ] す。
+* [Login Management settings](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) は&quot;[!UICONTROL Salesforceのみ&quot;に設定する必要があり &#x200B;] す。
 
 * ユーザーは、[!DNL Sales Insight Actions] の使用を招待されている必要があります
 

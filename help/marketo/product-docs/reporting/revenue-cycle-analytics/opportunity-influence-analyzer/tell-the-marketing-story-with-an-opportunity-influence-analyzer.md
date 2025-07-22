@@ -11,19 +11,19 @@ ht-degree: 85%
 
 ---
 
-# [!UICONTROL  オポチュニティの影響分析 ] を使用してマーケティングストーリーを伝える {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
+# [!UICONTROL &#x200B; オポチュニティの影響分析 &#x200B;] を使用してマーケティングストーリーを伝える {#tell-the-marketing-story-with-an-opportunity-influence-analyzer}
 
-[!UICONTROL  オポチュニティ影響分析 ] を使用して、重要なオポチュニティにおけるマーケティングの役割を示します。 マーケティングが、ファーストタッチから商談の創出や成立、その他の機会にどのように影響したのかを示します。
+[!UICONTROL &#x200B; オポチュニティ影響分析 &#x200B;] を使用して、重要なオポチュニティにおけるマーケティングの役割を示します。 マーケティングが、ファーストタッチから商談の創出や成立、その他の機会にどのように影響したのかを示します。
 
 >[!PREREQUISITES]
 >
->[ オポチュニティ影響分析 [!UICONTROL  の作成 ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>[ オポチュニティ影響分析 [!UICONTROL &#x200B; の作成 &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
 
 1. **[!UICONTROL 分析]**&#x200B;に移動し、「**[!UICONTROL 商談の影響分析]**」を選択します。
 
    ![](assets/analytics-opportunityhand.png)
 
-   [!UICONTROL  オポチュニティ影響分析 ] は、そのオポチュニティに関するインタラクション、プログラム、イベントの成功を視覚的に表現したものです。 グラフを参照してみましょう。
+   [!UICONTROL &#x200B; オポチュニティ影響分析 &#x200B;] は、そのオポチュニティに関するインタラクション、プログラム、イベントの成功を視覚的に表現したものです。 グラフを参照してみましょう。
 
    * ![--](assets/image2014-10-3-13-3a43-3a21.png) **オレンジ色のドット**&#x200B;は、商談の中の注目のアクションを表します（メールの開封、展示会への訪問、ホワイトペーパーのダウンロードなど）。ドットが大きいほど、インタラクションが多くなります。
 
@@ -61,4 +61,4 @@ ht-degree: 85%
 
    >[!MORELIKETHIS]
    >
-   >[ オポチュニティ影響分析 [!UICONTROL  の設定 ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+   >[ オポチュニティ影響分析 [!UICONTROL &#x200B; の設定 &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

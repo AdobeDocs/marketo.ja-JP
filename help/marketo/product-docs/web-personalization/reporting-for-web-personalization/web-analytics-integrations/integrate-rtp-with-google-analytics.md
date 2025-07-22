@@ -84,7 +84,7 @@ RTP キャンペーンを測定し、サイト全体の平均値と関連付け�
 
 >[!NOTE]
 >
->セグメントデータを GA に送信するには、[[!UICONTROL  セグメントを編集 ] ページ ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) の RTP プラットフォームで、「**[!UICONTROL Segment Match でGoogle Analyticsにイベントを送信]**」チェックボックスをオンにします。
+>セグメントデータを GA に送信するには、[[!UICONTROL &#x200B; セグメントを編集 &#x200B;] ページ ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) の RTP プラットフォームで、「**[!UICONTROL Segment Match でGoogle Analyticsにイベントを送信]**」チェックボックスをオンにします。
 
 ## Google Analytics レポートと RTP データの設定 {#setting-up-google-analytics-reports-with-rtp-data}
 

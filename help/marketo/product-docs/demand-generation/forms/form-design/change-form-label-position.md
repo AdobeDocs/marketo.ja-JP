@@ -33,8 +33,8 @@ ht-degree: 97%
 
    現在、次の 2 つのオプションがあります。
 
-   * [!UICONTROL  左 ] （デフォルト）
-   * [!UICONTROL  上 ]
+   * [!UICONTROL &#x200B; 左 &#x200B;] （デフォルト）
+   * [!UICONTROL &#x200B; 上 &#x200B;]
 
 1. 「**[!UICONTROL 終了]**」をクリックします。
 

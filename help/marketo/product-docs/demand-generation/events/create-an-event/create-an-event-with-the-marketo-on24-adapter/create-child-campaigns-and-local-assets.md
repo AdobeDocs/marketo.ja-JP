@@ -73,7 +73,7 @@ Marketo を使用して、イベントの確認メールを送信します。担
 
 >[!NOTE]
 >
->Marketo以外のランディングページでMarketo フォームを使用している場合、トリガーは **[!UICONTROL フォーム名]** で [!UICONTROL  フォームに入力 ] されます。
+>Marketo以外のランディングページでMarketo フォームを使用している場合、トリガーは **[!UICONTROL フォーム名]** で [!UICONTROL &#x200B; フォームに入力 &#x200B;] されます。
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 

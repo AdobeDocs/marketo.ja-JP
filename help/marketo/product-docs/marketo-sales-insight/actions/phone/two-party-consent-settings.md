@@ -22,11 +22,11 @@ ht-degree: 90%
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. [!UICONTROL  管理者設定 ] で **[!UICONTROL 一般]** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 一般]** をクリックします。
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. [!UICONTROL  通話録音 ] カードで、「**[!UICONTROL 録画通知の管理]**」をクリックします。
+1. [!UICONTROL &#x200B; 通話録音 &#x200B;] カードで、「**[!UICONTROL 録画通知の管理]**」をクリックします。
 
    ![](assets/two-party-consent-settings-3.png)
 

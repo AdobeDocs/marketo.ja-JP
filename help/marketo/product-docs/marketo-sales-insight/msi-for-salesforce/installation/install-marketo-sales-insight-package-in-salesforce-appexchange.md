@@ -41,7 +41,7 @@ ht-degree: 54%
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-3.png)
 
-1. 「[!UICONTROL  管理者のみをインストール ]」（および後で特定のプロファイルへの MSI アクセスを提供）、「[!UICONTROL  すべてのユーザーをインストール ]」、または「[!UICONTROL  特定のプロファイルをインストール ]」を選択できます。
+1. 「[!UICONTROL &#x200B; 管理者のみをインストール &#x200B;]」（および後で特定のプロファイルへの MSI アクセスを提供）、「[!UICONTROL &#x200B; すべてのユーザーをインストール &#x200B;]」、または「[!UICONTROL &#x200B; 特定のプロファイルをインストール &#x200B;]」を選択できます。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-4.png)
 

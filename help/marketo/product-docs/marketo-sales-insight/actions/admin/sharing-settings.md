@@ -24,7 +24,7 @@ Sales Insight Actions アカウントを最初に作成すると、設定の共�
 
    ![](assets/sharing-settings-1.png)
 
-1. [!UICONTROL  管理者設定 ] で、「**[!UICONTROL 共有アクセス]**」を選択します。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、「**[!UICONTROL 共有アクセス]**」を選択します。
 
    ![](assets/sharing-settings-2.png)
 

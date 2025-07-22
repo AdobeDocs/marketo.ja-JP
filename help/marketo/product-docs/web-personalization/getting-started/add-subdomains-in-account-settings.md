@@ -11,9 +11,9 @@ ht-degree: 80%
 
 ---
 
-# [!UICONTROL  アカウント設定 ] へのサブドメインの追加 {#add-subdomains-in-account-settings}
+# [!UICONTROL &#x200B; アカウント設定 &#x200B;] へのサブドメインの追加 {#add-subdomains-in-account-settings}
 
-[!UICONTROL  アカウント設定 ] でプライマリドメインにサブドメインを追加する方法を以下に示します。 これにより、プライマリドメインの特定の RTP JavaScript に関連するサブドメインを管理できます。[!DNL Javascript] タグは、追加したサブドメインにデプロイすることをお勧めします。
+[!UICONTROL &#x200B; アカウント設定 &#x200B;] でプライマリドメインにサブドメインを追加する方法を以下に示します。 これにより、プライマリドメインの特定の RTP JavaScript に関連するサブドメインを管理できます。[!DNL Javascript] タグは、追加したサブドメインにデプロイすることをお勧めします。
 
 1. Web パーソナライゼーションで、**[!UICONTROL アカウント設定]**&#x200B;に移動します。
 

@@ -15,7 +15,7 @@ ht-degree: 62%
 
 ![](assets/one.png)
 
-[!DNL Web Personalization] キャンペーンを設定 [!UICONTROL  ページにある ] リッチテキストエディターを使用すると、テキストの書式設定、リンクおよび画像挿入を行うことができます。 標準的なワードプロセッサーソフトウェアと同じような書式設定のオプションもあります。
+[!DNL Web Personalization] キャンペーンを設定 [!UICONTROL &#x200B; ページにある &#x200B;] リッチテキストエディターを使用すると、テキストの書式設定、リンクおよび画像挿入を行うことができます。 標準的なワードプロセッサーソフトウェアと同じような書式設定のオプションもあります。
 
 次は、リッチテキストエディターで重要なアイコンの一部です。
 
@@ -51,7 +51,7 @@ ht-degree: 62%
 
 >[!NOTE]
 >
->Web トークンは、[ アカウント設定 ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)/[!DNL Marketo Database] データベース [!DNL Web Personalization] の下の [!UICONTROL  で管理される ] ーザーの [!UICONTROL  人物データ ] を使用します。 Web トークンが [!UICONTROL  アカウント設定 ]/[!UICONTROL  データベース ] にまだ存在しない新しいデータベースフィールドである場合、自動的に追加され、アクティベートするまで最大 24 時間かかることがあります。
+>Web トークンは、[ アカウント設定 ](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)/[!DNL Marketo Database] データベース [!DNL Web Personalization] の下の [!UICONTROL &#x200B; で管理される &#x200B;] ーザーの [!UICONTROL &#x200B; 人物データ &#x200B;] を使用します。 Web トークンが [!UICONTROL &#x200B; アカウント設定 &#x200B;]/[!UICONTROL &#x200B; データベース &#x200B;] にまだ存在しない新しいデータベースフィールドである場合、自動的に追加され、アクティベートするまで最大 24 時間かかることがあります。
 
 >[!MORELIKETHIS]
 >

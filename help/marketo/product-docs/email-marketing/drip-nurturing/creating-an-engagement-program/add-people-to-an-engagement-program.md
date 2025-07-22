@@ -15,7 +15,7 @@ ht-degree: 65%
 
 ユーザーがエンゲージメントプログラムのメンバーになる方法はいくつかあります。
 
-* [[!UICONTROL  エンゲージメントプログラムへの追加 ]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
+* [[!UICONTROL &#x200B; エンゲージメントプログラムへの追加 &#x200B;]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
 * [[!UICONTROL エンゲージメントプログラムケイデンスの変更]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)フローステップ
 * [[!UICONTROL エンゲージメントプログラムストリームの変更]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md)フローステップ
 * [[!UICONTROL プログラムステータスの変更]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)フローステップ

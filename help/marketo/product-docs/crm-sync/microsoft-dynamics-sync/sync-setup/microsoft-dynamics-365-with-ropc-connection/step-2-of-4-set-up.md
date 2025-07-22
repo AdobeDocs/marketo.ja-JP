@@ -20,7 +20,7 @@ ht-degree: 86%
 
 ## ユーザの新規作成 {#create-a-new-user}
 
-1. [!DNL Dynamics] にログインします。 [!UICONTROL  設定 ] アイコンをクリックし、「**[!UICONTROL 詳細設定]**」を選択します。
+1. [!DNL Dynamics] にログインします。 [!UICONTROL &#x200B; 設定 &#x200B;] アイコンをクリックし、「**[!UICONTROL 詳細設定]**」を選択します。
 
    ![](assets/one.png)
 
@@ -100,13 +100,13 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 もう少しです。あとは、作成した新しいユーザーについて Marketo ソルーションに知らせるだけです。
 
-1. 「[!UICONTROL  詳細設定 ]」セクションに戻り、「![](assets/image2015-5-13-15-3a49-3a19.png) 設定 [!UICONTROL  の横にある ] アイコンをクリックして、「**[!UICONTROL Marketo設定]**」を選択します。
+1. 「[!UICONTROL &#x200B; 詳細設定 &#x200B;]」セクションに戻り、「![](assets/image2015-5-13-15-3a49-3a19.png) 設定 [!UICONTROL &#x200B; の横にある &#x200B;] アイコンをクリックして、「**[!UICONTROL Marketo設定]**」を選択します。
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL 設定]** メニューに [!UICONTROL Marketo設定 ] が表示されない場合は、ページを更新してください。 うまくいかない場合は、再度 [Marketo Solution を公開](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)するか、ログアウトしてから再度ログインしてください。
+   >**[!UICONTROL 設定]** メニューに [!UICONTROL Marketo設定 &#x200B;] が表示されない場合は、ページを更新してください。 うまくいかない場合は、再度 [Marketo Solution を公開](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)するか、ログアウトしてから再度ログインしてください。
 
 1. 「**[!UICONTROL デフォルト]**」をクリックします。
 
@@ -124,7 +124,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
    ![](assets/seventeen.png)
 
-1. ![](assets/image2015-5-13-15-3a49-3a19-1.png) 設定 [!UICONTROL  の横にある ] のアイコンをクリックし、「**[!UICONTROL ソリューション]**」を選択します。
+1. ![](assets/image2015-5-13-15-3a49-3a19-1.png) 設定 [!UICONTROL &#x200B; の横にある &#x200B;] のアイコンをクリックし、「**[!UICONTROL ソリューション]**」を選択します。
 
    ![](assets/eighteen.png)
 

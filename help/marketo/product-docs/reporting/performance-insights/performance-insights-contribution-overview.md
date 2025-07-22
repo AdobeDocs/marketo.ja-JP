@@ -11,9 +11,9 @@ ht-degree: 80%
 
 ---
 
-# [!UICONTROL  パフォーマンスインサイト ] 貢献度の概要 {#performance-insights-contribution-overview}
+# [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] 貢献度の概要 {#performance-insights-contribution-overview}
 
-Marketo[!UICONTROL  パフォーマンスインサイト ] では、投稿ビューがデフォルトで表示されます。
+Marketo[!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] では、投稿ビューがデフォルトで表示されます。
 
 ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ Marketo[!UICONTROL  パフォーマンスインサイト ] では、投稿ビュ
 
 >[!NOTE]
 >
->[[!UICONTROL  ファーストタッチ ] および [!UICONTROL  マルチタッチ ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) について説明します。
+>[[!UICONTROL &#x200B; ファーストタッチ &#x200B;] および [!UICONTROL &#x200B; マルチタッチ &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) について説明します。
 
 指標を表示する期間を選択します。この例では、現在の年（年初から本日）を見ています。
 
@@ -57,7 +57,7 @@ Marketo[!UICONTROL  パフォーマンスインサイト ] では、投稿ビュ
 
 ![](assets/eight.png)
 
-以下のデータグリッドはスプレッドシートのように機能し、選択したアトリビューションモデル（[!UICONTROL  ファーストタッチ ]/[!UICONTROL  マルチタッチ ]）の下で使用可能なすべての指標を表示します。 選択した指標を含む列がハイライト表示されます。
+以下のデータグリッドはスプレッドシートのように機能し、選択したアトリビューションモデル（[!UICONTROL &#x200B; ファーストタッチ &#x200B;]/[!UICONTROL &#x200B; マルチタッチ &#x200B;]）の下で使用可能なすべての指標を表示します。 選択した指標を含む列がハイライト表示されます。
 
 ![](assets/9.png)
 

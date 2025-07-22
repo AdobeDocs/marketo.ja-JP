@@ -43,7 +43,7 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
 >[!PREREQUISITES]
 >
->最新バージョンのMarketo プラグイン（3.0.0.1 以降）をインストールします。 Marketo/[!UICONTROL  管理者 ]/[!DNL Microsoft Dynamics]/[!UICONTROL Marketo ソリューションをダウンロード ] に移動します。
+>最新バージョンのMarketo プラグイン（3.0.0.1 以降）をインストールします。 Marketo/[!UICONTROL &#x200B; 管理者 &#x200B;]/[!DNL Microsoft Dynamics]/[!UICONTROL Marketo ソリューションをダウンロード &#x200B;] に移動します。
 
 ## SyncToMkto フィールドの作成 {#create-synctomkto-field}
 
@@ -69,7 +69,7 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
    >[!NOTE]
    >
-   >このフィールドの表示名を任意に選択しますが、「名前」フィールドは正確に **new_synctomkto** にする必要があります。デフォルトの接頭辞として **new** を使用する必要があります。デフォルトを変更した場合は、ここに移動して、](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}カスタムフィールド名のデフォルトの接頭辞をリセットします[。新しいフィールドを作成した後で、このフィールドを元に戻すことができます。
+   >このフィールドの表示名を任意に選択しますが、「名前」フィールドは正確に **new_synctomkto** にする必要があります。デフォルトの接頭辞として **new** を使用する必要があります。デフォルトを変更した場合は、ここに移動して、[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}カスタムフィールド名のデフォルトの接頭辞をリセットします。新しいフィールドを作成した後で、このフィールドを元に戻すことができます。
 
    >[!NOTE]
    >
@@ -113,7 +113,7 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. ワークフローの名前を入力し、**[!UICONTROL カテゴリ]** として [!UICONTROL  ワークフロー ] を選択し、**[!UICONTROL エンティティ]** として [!UICONTROL  リード ] を選択します。 次に、「**OK**」をクリックします。
+1. ワークフローの名前を入力し、**[!UICONTROL カテゴリ]** として [!UICONTROL &#x200B; ワークフロー &#x200B;] を選択し、**[!UICONTROL エンティティ]** として [!UICONTROL &#x200B; リード &#x200B;] を選択します。 次に、「**OK**」をクリックします。
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 

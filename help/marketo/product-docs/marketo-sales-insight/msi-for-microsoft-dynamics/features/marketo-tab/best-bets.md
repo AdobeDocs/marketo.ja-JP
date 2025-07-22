@@ -12,11 +12,11 @@ ht-degree: 32%
 
 # [!DNL Best Bets] {#best-bets}
 
-「[!UICONTROL  ベストベット ]」タブには、優先度に基づいてすべてのホットリードのリストが含まれています。優先度は、緊急度と相対スコアを使用して計算されます。
+「[!UICONTROL &#x200B; ベストベット &#x200B;]」タブには、優先度に基づいてすべてのホットリードのリストが含まれています。優先度は、緊急度と相対スコアを使用して計算されます。
 
 「アクション」列の下のドットメニューをクリックすると、次のようなエンゲージメントオプションを使用できます。
-* [!UICONTROL Marketo メールの送信 ]
-* [!UICONTROL Marketo キャンペーンに追加 ]
+* [!UICONTROL Marketo メールの送信 &#x200B;]
+* [!UICONTROL Marketo キャンペーンに追加 &#x200B;]
 
 また、「[!DNL Best Bets]」タブから複数のリードを選択し、「_[!UICONTROL Marketo メールを送信]_」または _[!UICONTROL Marketo Campaign に追加]_ を選択することもできます。
 

@@ -11,7 +11,7 @@ ht-degree: 83%
 
 ---
 
-# [!UICONTROL  収益エクスプローラー ] レポートでのフィールドの削除 {#deleting-a-field-in-a-revenue-explorer-report}
+# [!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] レポートでのフィールドの削除 {#deleting-a-field-in-a-revenue-explorer-report}
 
 間違ったフィールドをレポートにドラッグする場合があります。削除する方法を説明しましょう。
 
@@ -25,4 +25,4 @@ ht-degree: 83%
 
 >[!MORELIKETHIS]
 >
->[ 売上高エクスプローラー [!UICONTROL  レポート ] 保存 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[ 売上高エクスプローラー [!UICONTROL &#x200B; レポート &#x200B;] 保存 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

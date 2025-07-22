@@ -93,7 +93,7 @@ PMCF トークンは、トークンファミリーのメンバードメインで
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. 目的のプログラムメンバーカスタムフィールドトークンを検索して選択します。[!UICONTROL  デフォルト値 ] を入力し、**[!UICONTROL 挿入]** をクリックします。
+1. 目的のプログラムメンバーカスタムフィールドトークンを検索して選択します。[!UICONTROL &#x200B; デフォルト値 &#x200B;] を入力し、**[!UICONTROL 挿入]** をクリックします。
 
    ![](assets/program-member-custom-field-tokens-13.png)
 

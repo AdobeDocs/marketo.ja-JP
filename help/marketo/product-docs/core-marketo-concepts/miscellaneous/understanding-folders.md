@@ -54,7 +54,7 @@ ht-degree: 79%
 
 ## フォルダーのアーカイブ {#archive-a-folder}
 
-Marketo では、既存のフォルダーをアーカイブフォルダーに変換できます。アーカイブフォルダーは、[!UICONTROL  マーケティングアクティビティ ]、[!UICONTROL  データベース ] および [!UICONTROL Design Studio] に存在します。
+Marketo では、既存のフォルダーをアーカイブフォルダーに変換できます。アーカイブフォルダーは、[!UICONTROL &#x200B; マーケティングアクティビティ &#x200B;]、[!UICONTROL &#x200B; データベース &#x200B;] および [!UICONTROL Design Studio] に存在します。
 
 ![](assets/image2015-4-20-19-3a3-3a46.png)
 

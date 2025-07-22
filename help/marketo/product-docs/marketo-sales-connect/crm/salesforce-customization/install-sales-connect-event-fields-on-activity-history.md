@@ -27,9 +27,9 @@ ht-degree: 43%
    >
    >[!DNL Sales Connect] はいくつかのページレイアウトをインストールしますが、チームが既にデフォルトで使用している場合は、そこにインストールする必要があります。 使用しない場合は、[!DNL Sales Connect] のページレイアウトを削除できます。
 
-1. 「[!UICONTROL  アクティビティ履歴 ]」セクションまでスクロールします。
+1. 「[!UICONTROL &#x200B; アクティビティ履歴 &#x200B;]」セクションまでスクロールします。
 1. レンチをクリックして編集します。
-1. [!UICONTROL  アクティビティ履歴 ] セクションに含める [!UICONTROL Sales Connect] フィールドを選択します。 [!UICONTROL Sales Connect] フィールドが表示されない場合は、間違った [!DNL Salesforce] パッケージがインストールされている可能性があります。
+1. [!UICONTROL &#x200B; アクティビティ履歴 &#x200B;] セクションに含める [!UICONTROL Sales Connect] フィールドを選択します。 [!UICONTROL Sales Connect] フィールドが表示されない場合は、間違った [!DNL Salesforce] パッケージがインストールされている可能性があります。
 1. 「**[!UICONTROL 追加]**」をクリックして、目的のフィールドを上に移動します。
 1. 「**[!UICONTROL OK]**」をクリックします。
 1. 「**[!UICONTROL 保存]**」をクリックします。

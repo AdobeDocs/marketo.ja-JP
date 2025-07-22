@@ -25,7 +25,7 @@ TAM セールスレポートは、アカウントチームに毎週送信され�
 
    ![](assets/tam-report-setup-2.png)
 
-1. [!UICONTROL  週別レポート ] の下の **[!UICONTROL 編集]** をクリックします。
+1. [!UICONTROL &#x200B; 週別レポート &#x200B;] の下の **[!UICONTROL 編集]** をクリックします。
 
    ![](assets/three-3.png)
 
@@ -67,7 +67,7 @@ TAM セールスレポートは、アカウントチームに毎週送信され�
 
    ![](assets/tam-report-setup-10.png)
 
-1. [!UICONTROL  週別レポート ] の下で、[ 登録解除 [!UICONTROL  として表示されている番号をクリック ] ます。
+1. [!UICONTROL &#x200B; 週別レポート &#x200B;] の下で、&lbrack; 登録解除 [!UICONTROL &#x200B; として表示されている番号をクリック &#x200B;] ます。
 
    ![](assets/nine.png)
 

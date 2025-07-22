@@ -39,7 +39,7 @@ ht-degree: 54%
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
-1. ここで、カスタム [!DNL Facebook] フィールドをMarketo フィールドにマッピングします。 **[!UICONTROL 追加 ].** をクリックします。
+1. ここで、カスタム [!DNL Facebook] フィールドをMarketo フィールドにマッピングします。 **[!UICONTROL 追加 &#x200B;].** をクリックします。
 
    ![](assets/image2017-10-24-9-3a33-3a49.png)
 

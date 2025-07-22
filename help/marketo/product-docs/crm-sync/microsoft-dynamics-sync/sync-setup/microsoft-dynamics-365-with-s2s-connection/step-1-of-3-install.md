@@ -54,7 +54,7 @@ ht-degree: 78%
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. [!UICONTROL  ソリューション情報 ] ページに戻り、「**[!UICONTROL 次へ]**」をクリックします。
+1. [!UICONTROL &#x200B; ソリューション情報 &#x200B;] ページに戻り、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
@@ -78,7 +78,7 @@ ht-degree: 78%
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
-1. [!UICONTROL Marketoのリード管理 ] がソリューションのリストに表示されます。
+1. [!UICONTROL Marketoのリード管理 &#x200B;] がソリューションのリストに表示されます。
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 

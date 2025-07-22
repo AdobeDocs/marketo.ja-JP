@@ -33,7 +33,7 @@ ht-degree: 57%
    >
    >モバイルアプリデベロッパーから&#x200B;**[!UICONTROL サーバー API キー]**&#x200B;および&#x200B;**[!UICONTROL プロジェクト番号]**&#x200B;が必要です。開発者はこれを受け取るには、[!DNL Google Play Developer Console] にログインしてアプリを登録し、クラウドメッセージングを有効にします。
 
-1. [!UICONTROL Server API キー ] と [!UICONTROL  プロジェクト番号 ] を入力します。 「**[!UICONTROL 保存]**」をクリックします。
+1. [!UICONTROL Server API キー &#x200B;] と [!UICONTROL &#x200B; プロジェクト番号 &#x200B;] を入力します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 

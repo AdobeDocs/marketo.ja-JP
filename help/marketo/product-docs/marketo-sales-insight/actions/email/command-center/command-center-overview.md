@@ -12,11 +12,11 @@ ht-degree: 84%
 
 # コマンドセンターの概要 {#command-center-overview}
 
-[!UICONTROL  コマンドセンター ] は、次のステップを把握するのに役立つ単一の統一ビューであり、何も亀裂から落ちないようにすることができます。
+[!UICONTROL &#x200B; コマンドセンター &#x200B;] は、次のステップを把握するのに役立つ単一の統一ビューであり、何も亀裂から落ちないようにすることができます。
 
 ## メールの管理 {#manage-emails}
 
-[!UICONTROL  コマンドセンター ] の「メール」セクションでは、メールアクティビティをすべて管理できます。 [!DNL Sales Connect] から送信されたメールを確認するには、メールのアウトボックスと考えてください。 スケジュールされたメールの管理、メールに関心を寄せている人の確認、メールの配信に問題があるかどうかの確認などを行います。
+[!UICONTROL &#x200B; コマンドセンター &#x200B;] の「メール」セクションでは、メールアクティビティをすべて管理できます。 [!DNL Sales Connect] から送信されたメールを確認するには、メールのアウトボックスと考えてください。 スケジュールされたメールの管理、メールに関心を寄せている人の確認、メールの配信に問題があるかどうかの確認などを行います。
 
 ![](assets/command-center-overview-1.png)
 
@@ -29,21 +29,21 @@ ht-degree: 84%
   <th>説明</th>
  </tr>
  <tr>
-  <th rowspan="2">[!UICONTROL 送信 ]</th>
-  <td>[!UICONTROL 配信済み ]</td>
+  <th rowspan="2">[!UICONTROL 送信 &#x200B;]</th>
+  <td>[!UICONTROL 配信済み &#x200B;]</td>
   <td>受信者に配信されたメール。</td>
  </tr>
  <tr>
-  <td>[!UICONTROL がアーカイブされました ]</td>
+  <td>[!UICONTROL がアーカイブされました &#x200B;]</td>
   <td>メールトラッキングを無効にするためにユーザがアーカイブしたメール。</td>
  </tr>
  <tr>
-  <th rowspan="3">[!UICONTROL 保留中 ]</th>
-  <td>[!UICONTROL がスケジュール済み ]</td>
+  <th rowspan="3">[!UICONTROL 保留中 &#x200B;]</th>
+  <td>[!UICONTROL がスケジュール済み &#x200B;]</td>
   <td>現在配信がスケジュールされているメール。メールが送信されると、配信済みフォルダーに移動します。</td>
  </tr>
  <tr>
-  <td>[!UICONTROL ドラフト ]</td>
+  <td>[!UICONTROL ドラフト &#x200B;]</td>
   <td>下書きとして保存されたメール。<br/>
 <strong>注意：</strong>下書きとして保存できるメールは 1 つだけです。一括メール（「メールを選択して送信」と「メールをグループ化」）は下書きとして保存されません。</td>
  </tr>
@@ -52,18 +52,18 @@ ht-degree: 84%
   <td>これは、送信モーション中にメールが処理される中間の状態を示します。メールが処理中であるのは、わずかの間です。</td>
  </tr>
  <tr>
-  <th rowspan="3">[!UICONTROL 未配信 ]</th>
-  <td>[!UICONTROL が失敗しました ]</td>
+  <th rowspan="3">[!UICONTROL 未配信 &#x200B;]</th>
+  <td>[!UICONTROL が失敗しました &#x200B;]</td>
   <td>配信に失敗したメール。
 </td>
  </tr>
  <tr>
-  <td>[!UICONTROL バウンス ]</td>
+  <td>[!UICONTROL バウンス &#x200B;]</td>
   <td>受信者のメールサーバーから拒否されたメール。<br/>
 <strong>注意：</strong>これは、従来の ToutApp ユーザで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</td>
  </tr>
  <tr>
-  <td>[!UICONTROL スパム ]</td>
+  <td>[!UICONTROL スパム &#x200B;]</td>
   <td>受信者によって手動でスパムとマークされたメール。<br/>
 <strong>注意：</strong>これは、従来の ToutApp ユーザで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</td>
  </tr>

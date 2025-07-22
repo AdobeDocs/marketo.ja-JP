@@ -75,7 +75,7 @@ ht-degree: 81%
 
 1. Azure ポータルで、アプリケーションのホームページに移動します。
 
-1. [!UICONTROL  管理 ] で、「**[!UICONTROL API 権限]**」をクリックします。
+1. [!UICONTROL &#x200B; 管理 &#x200B;] で、「**[!UICONTROL API 権限]**」をクリックします。
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 

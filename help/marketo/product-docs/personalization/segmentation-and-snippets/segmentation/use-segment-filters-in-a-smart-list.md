@@ -11,11 +11,11 @@ ht-degree: 83%
 
 ---
 
-# [!UICONTROL  スマートリスト ] でのセグメントフィルターの使用 {#use-segment-filters-in-a-smart-list}
+# [!UICONTROL &#x200B; スマートリスト &#x200B;] でのセグメントフィルターの使用 {#use-segment-filters-in-a-smart-list}
 
 >[!PREREQUISITES]
 >
->* [ スマートリスト [!UICONTROL  作成 ]](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [ スマートリスト [!UICONTROL &#x200B; 作成 &#x200B;]](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [セグメント化の作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 セグメントフィルターを使用してスマートリストのパフォーマンスを最適化します。

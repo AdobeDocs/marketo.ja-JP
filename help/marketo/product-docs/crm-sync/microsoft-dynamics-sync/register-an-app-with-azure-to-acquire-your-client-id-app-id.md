@@ -34,7 +34,7 @@ Azure Active Directory は、オンプレミス ディレクトリをクラウ�
 
    ![](assets/two.png)
 
-1. [!UICONTROL  管理 ] で、「**[!UICONTROL アプリ登録]**」をクリックします。
+1. [!UICONTROL &#x200B; 管理 &#x200B;] で、「**[!UICONTROL アプリ登録]**」をクリックします。
 
    ![](assets/three.png)
 
@@ -56,7 +56,7 @@ Azure Active Directory は、オンプレミス ディレクトリをクラウ�
 
    ![](assets/seven.png)
 
-1. [!UICONTROL  管理 ] で、「**[!UICONTROL API 権限]**」をクリックします。
+1. [!UICONTROL &#x200B; 管理 &#x200B;] で、「**[!UICONTROL API 権限]**」をクリックします。
 
    ![](assets/eight.png)
 
@@ -68,7 +68,7 @@ Azure Active Directory は、オンプレミス ディレクトリをクラウ�
 
    ![](assets/ten.png)
 
-1. **[!UICONTROL 組織ユーザーとして共通データサービスにアクセス]** ボックスをオンにし、「**[!UICONTROL 権限を追加 ]** をクリックします。
+1. **[!UICONTROL 組織ユーザーとして共通データサービスにアクセス]** ボックスをオンにし、「**[!UICONTROL 権限を追加 &#x200B;]** をクリックします。
 
    ![](assets/eleven.png)
 

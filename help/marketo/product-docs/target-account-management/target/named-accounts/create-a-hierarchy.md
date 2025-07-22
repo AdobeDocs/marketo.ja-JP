@@ -15,7 +15,7 @@ ht-degree: 93%
 
 階層は CRM で作成する必要があります。ただし、CRM がない場合は、次の手順に従って階層を手動で作成します。
 
-1. [!UICONTROL  指定顧客 ] で、「**[!UICONTROL 階層でグループ化]**」チェックボックスをクリックします。
+1. [!UICONTROL &#x200B; 指定顧客 &#x200B;] で、「**[!UICONTROL 階層でグループ化]**」チェックボックスをクリックします。
 
    ![](assets/create-a-hierarchy-1.png)
 

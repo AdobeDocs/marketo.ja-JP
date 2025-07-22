@@ -19,8 +19,8 @@ ht-degree: 47%
 
    ![](assets/settings-dropdown-hand.png)
 
-1. [!UICONTROL  コンテンツ検索 ] を **[!UICONTROL オン]** に切り替えます。
+1. [!UICONTROL &#x200B; コンテンツ検索 &#x200B;] を **[!UICONTROL オン]** に切り替えます。
 
    ![](assets/content-discovery-on-hand.png)
 
-[!UICONTROL  コンテンツ検出 ] を [!UICONTROL  オン ] に設定すると、Web 訪問者がファイルをクリックしたりビデオを視聴したりしたときに、PDFまたはビデオコンテンツが自動検出されます。 このコンテンツピース（URL、コンテンツ名、画像 URL）が追加され、すべてのコンテンツページでトラックされます。ビデオを自動検出すると、web 訪問者がYouTube、[!DNL Vimeo]、[!DNL Wistia] の埋め込みビデオをクリックして見たときに、ビデオが検出されます。 他のコンテンツを自動検出するには、[コンテンツパターンを作成](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md)する必要があります。
+[!UICONTROL &#x200B; コンテンツ検出 &#x200B;] を [!UICONTROL &#x200B; オン &#x200B;] に設定すると、Web 訪問者がファイルをクリックしたりビデオを視聴したりしたときに、PDFまたはビデオコンテンツが自動検出されます。 このコンテンツピース（URL、コンテンツ名、画像 URL）が追加され、すべてのコンテンツページでトラックされます。ビデオを自動検出すると、web 訪問者がYouTube、[!DNL Vimeo]、[!DNL Wistia] の埋め込みビデオをクリックして見たときに、ビデオが検出されます。 他のコンテンツを自動検出するには、[コンテンツパターンを作成](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md)する必要があります。

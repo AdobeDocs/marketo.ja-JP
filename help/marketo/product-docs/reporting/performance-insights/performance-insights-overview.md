@@ -11,17 +11,17 @@ ht-degree: 51%
 
 ---
 
-# [!UICONTROL  パフォーマンスインサイト ] の概要 {#performance-insights-overview}
+# [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] の概要 {#performance-insights-overview}
 
-Marketo[!UICONTROL  パフォーマンスインサイト ] は、チャネルミックスを最適化して最大限の効果を得るとともに、長期的なトレンドを明らかにして一貫性のある勝者戦略を見つけるのに役立ちます。
+Marketo[!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] は、チャネルミックスを最適化して最大限の効果を得るとともに、長期的なトレンドを明らかにして一貫性のある勝者戦略を見つけるのに役立ちます。
 
 >[!AVAILABILITY]
 >
 >必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-[!UICONTROL  パフォーマンスインサイト ] は、過去 24 か月のデータを（最大）読み込みます。 これには、現在の年累計データと、前年のデータが含まれます。例えば、2019 年 1 月 31 日に、MPI はその月のデータを読み込み、2018 年から毎月読み込みます。2019 年 12 月 31 日に、MPI は 2019 年と 2018 年の毎月のデータを読み込みます。
+[!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] は、過去 24 か月のデータを（最大）読み込みます。 これには、現在の年累計データと、前年のデータが含まれます。例えば、2019 年 1 月 31 日に、MPI はその月のデータを読み込み、2018 年から毎月読み込みます。2019 年 12 月 31 日に、MPI は 2019 年と 2018 年の毎月のデータを読み込みます。
 
-[!UICONTROL  パフォーマンスインサイト ] にアクセスするには、Analytics ホーム画面で該当するアイコンをクリックします。
+[!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] にアクセスするには、Analytics ホーム画面で該当するアイコンをクリックします。
 
 ![](assets/one.png)
 
@@ -31,7 +31,7 @@ Marketo[!UICONTROL  パフォーマンスインサイト ] は、チャネルミ
 
 ![](assets/two.png)
 
-デフォルトでは、表示されるデータは、[!UICONTROL  エンゲージメント ] によるパフォーマンスを反映しています。 パフォーマンスに切り替えるには、いずれか **[!UICONTROL パイプライン]** または **[!UICONTROL 売上高]** をクリックします。
+デフォルトでは、表示されるデータは、[!UICONTROL &#x200B; エンゲージメント &#x200B;] によるパフォーマンスを反映しています。 パフォーマンスに切り替えるには、いずれか **[!UICONTROL パイプライン]** または **[!UICONTROL 売上高]** をクリックします。
 
 ![](assets/3.png)
 
@@ -43,7 +43,7 @@ Marketo[!UICONTROL  パフォーマンスインサイト ] は、チャネルミ
 
 ## 設定 {#settings}
 
-[!UICONTROL  売上高 ] ダッシュボードと [!UICONTROL  パイプライン ] ダッシュボードで [[!UICONTROL  設定 ]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) アイコンをクリックして、追加のパラメーターを設定します。
+[!UICONTROL &#x200B; 売上高 &#x200B;] ダッシュボードと [!UICONTROL &#x200B; パイプライン &#x200B;] ダッシュボードで [[!UICONTROL &#x200B; 設定 &#x200B;]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) アイコンをクリックして、追加のパラメーターを設定します。
 
 ![](assets/5.png)
 

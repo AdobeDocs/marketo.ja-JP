@@ -13,7 +13,7 @@ ht-degree: 64%
 
 # 分析カードについて {#understanding-analytics-cards}
 
-毎月の初めに、Marketo Moments には 3 つの異なるレポートカード、[!UICONTROL  獲得リード ]、[!UICONTROL  新規リード ]、および [!UICONTROL  登録解除 ] が用意されています。 それぞれ 6 か月間の月別パフォーマンスと傾向を示します。
+毎月の初めに、Marketo Moments には 3 つの異なるレポートカード、[!UICONTROL &#x200B; 獲得リード &#x200B;]、[!UICONTROL &#x200B; 新規リード &#x200B;]、および [!UICONTROL &#x200B; 登録解除 &#x200B;] が用意されています。 それぞれ 6 か月間の月別パフォーマンスと傾向を示します。
 
 >[!IMPORTANT]
 >
@@ -33,13 +33,13 @@ ht-degree: 64%
 * 前月比の比較
 * 大多数または上位 3 件の棒グラフ（カードに応じて異なります）
 
-例えば、「取得済みリード [!UICONTROL Analytics カードの詳細を見てみましょう ]。
+例えば、「取得済みリード [!UICONTROL Analytics カードの詳細を見てみましょう &#x200B;]。
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
 この例では、赤は選択した日付範囲で値が減少したことを示します。緑は、値が増加したことを示します。
 
-## [!UICONTROL  獲得リード数 ] {#acquired-leads}
+## [!UICONTROL &#x200B; 獲得リード数 &#x200B;] {#acquired-leads}
 
 **[!UICONTROL 獲得したリード]**&#x200B;カードには、新規リード数の前月比トレンドのレポートが表示されます。
 
@@ -49,13 +49,13 @@ ht-degree: 64%
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## [!UICONTROL  新しいリード ] {#new-leads}
+## [!UICONTROL &#x200B; 新しいリード &#x200B;] {#new-leads}
 
 **[!UICONTROL 新規リード]**&#x200B;カードには、過去 6 か月間のインスタンスの新規リード総数の前月比トレンドのレポートが表示されます。
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## [!UICONTROL  購読解除 ] {#unsubscribes}
+## [!UICONTROL &#x200B; 購読解除 &#x200B;] {#unsubscribes}
 
 **[!UICONTROL 登録解除]**&#x200B;カードには、過去 6 か月間の登録解除率の前月比トレンドレポートが表示されます。
 

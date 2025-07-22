@@ -51,7 +51,7 @@ ht-degree: 95%
 
 ## ゲートステージの編集 {#edit-a-gate-stage}
 
-[!UICONTROL  名前 ]、[!UICONTROL  説明 ] を編集し、ゲートステージの [!UICONTROL  タイプ ] を調整します。 また、「[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)」を選択することもできます。
+[!UICONTROL &#x200B; 名前 &#x200B;]、[!UICONTROL &#x200B; 説明 &#x200B;] を編集し、ゲートステージの [!UICONTROL &#x200B; タイプ &#x200B;] を調整します。 また、「[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)」を選択することもできます。
 
 1. **[!UICONTROL ゲート]**&#x200B;ステージアイコンをクリックします。
 

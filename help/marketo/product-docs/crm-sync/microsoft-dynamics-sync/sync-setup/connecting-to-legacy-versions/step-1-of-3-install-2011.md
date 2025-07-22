@@ -79,11 +79,11 @@ ht-degree: 77%
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. [!UICONTROL Marketo リード管理 ] が **[!UICONTROL すべてのソリューション]** ページに表示されます。
+1. [!UICONTROL Marketo リード管理 &#x200B;] が **[!UICONTROL すべてのソリューション]** ページに表示されます。
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. [!UICONTROL Marketo リード管理 ] を選択し、「**[!UICONTROL すべてのカスタマイズを公開]**」をクリックします。
+1. [!UICONTROL Marketo リード管理 &#x200B;] を選択し、「**[!UICONTROL すべてのカスタマイズを公開]**」をクリックします。
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 

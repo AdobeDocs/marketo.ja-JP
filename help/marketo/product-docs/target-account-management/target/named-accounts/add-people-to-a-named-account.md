@@ -11,7 +11,7 @@ ht-degree: 72%
 
 ---
 
-# [!UICONTROL  指定アカウント ] にユーザーを追加 {#add-people-to-a-named-account}
+# [!UICONTROL &#x200B; 指定アカウント &#x200B;] にユーザーを追加 {#add-people-to-a-named-account}
 
 TAM で重点顧客に手動でリードを追加する方法は 3 つあります。
 
@@ -29,7 +29,7 @@ TAM で重点顧客に手動でリードを追加する方法は 3 つありま�
 
    ![](assets/three.png)
 
-1. **[!UICONTROL 指定したアカウント]** ドロップダウンをクリックし、目的の [!UICONTROL  指定したアカウント ] を選択して **[!UICONTROL 今すぐ実行]** をクリックします。
+1. **[!UICONTROL 指定したアカウント]** ドロップダウンをクリックし、目的の [!UICONTROL &#x200B; 指定したアカウント &#x200B;] を選択して **[!UICONTROL 今すぐ実行]** をクリックします。
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ TAM で重点顧客に手動でリードを追加する方法は 3 つありま�
 
    ![](assets/five.png)
 
-1. 検索ボックスに「[!UICONTROL  指定アカウントに追加 ] と入力します。
+1. 検索ボックスに「[!UICONTROL &#x200B; 指定アカウントに追加 &#x200B;] と入力します。
 
    ![](assets/six.png)
 
@@ -47,7 +47,7 @@ TAM で重点顧客に手動でリードを追加する方法は 3 つありま�
 
    ![](assets/seven.png)
 
-1. **[!UICONTROL 指定顧客]** ドロップダウンをクリックし、目的の [!UICONTROL  指定顧客 ] を選択します。
+1. **[!UICONTROL 指定顧客]** ドロップダウンをクリックし、目的の [!UICONTROL &#x200B; 指定顧客 &#x200B;] を選択します。
 
    ![](assets/eight.png)
 

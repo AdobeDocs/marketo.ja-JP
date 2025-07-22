@@ -19,7 +19,7 @@ ht-degree: 69%
 
    ![](assets/one-5.png)
 
-1. 「[!UICONTROL  宛先 ]」フィールドに入力し、「件名 [!UICONTROL  を入力 ] ます。
+1. 「[!UICONTROL &#x200B; 宛先 &#x200B;]」フィールドに入力し、「件名 [!UICONTROL &#x200B; を入力 &#x200B;] ます。
 
    ![](assets/two-5.png)
 

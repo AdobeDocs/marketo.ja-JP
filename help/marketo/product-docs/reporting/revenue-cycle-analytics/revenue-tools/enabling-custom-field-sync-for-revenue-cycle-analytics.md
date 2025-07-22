@@ -11,7 +11,7 @@ ht-degree: 67%
 
 ---
 
-# [!UICONTROL  収益サイクル分析 ] のカスタムフィールド同期の有効化 {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# [!UICONTROL &#x200B; 収益サイクル分析 &#x200B;] のカスタムフィールド同期の有効化 {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 次の手順で、収益サイクルアナリティクスレポートでカスタムフィールドを使用できるようになります。
 
@@ -39,4 +39,4 @@ ht-degree: 67%
 
    >[!NOTE]
    >
-   >フィールドを有効にすると、翌日、データを [!UICONTROL  収益サイクル分析 ] で使用できるようになります。
+   >フィールドを有効にすると、翌日、データを [!UICONTROL &#x200B; 収益サイクル分析 &#x200B;] で使用できるようになります。

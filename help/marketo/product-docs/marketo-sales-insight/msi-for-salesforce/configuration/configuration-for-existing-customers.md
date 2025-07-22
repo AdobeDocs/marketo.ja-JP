@@ -51,7 +51,7 @@ ht-degree: 49%
 
    ![](assets/configuration-for-existing-customers-6.png)
 
-1. [!UICONTROL  リモートサイト名 ] （「MarketoRestAPI」のようなものです）と [!UICONTROL  リモートサイト URL] （Marketoの Rest API 設定パネルからの API URL）を入力します。
+1. [!UICONTROL &#x200B; リモートサイト名 &#x200B;] （「MarketoRestAPI」のようなものです）と [!UICONTROL &#x200B; リモートサイト URL] （Marketoの Rest API 設定パネルからの API URL）を入力します。
 
    ![](assets/configuration-for-existing-customers-7.png)
 
@@ -65,6 +65,6 @@ ht-degree: 49%
 
 1. 管理ページの Rest API パネルから資格情報 [!DNL Marketo’s Sales Insight] コピーします。 これらをSalesforceの [!DNL Sales Insight] 設定ページの Rest API セクションに貼り付けます。
 
-1. [!UICONTROL API 秘密鍵 ] を入力します。
+1. [!UICONTROL API 秘密鍵 &#x200B;] を入力します。
 
    ![](assets/configuration-for-existing-customers-9.png)

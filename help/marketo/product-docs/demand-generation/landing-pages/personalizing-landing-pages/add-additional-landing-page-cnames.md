@@ -61,11 +61,11 @@ ht-degree: 90%
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. **[!UICONTROL ドメインエイリアス ] を入力します。**&#x200B;を入力します。訪問者が URL を入力しない場合、**[!UICONTROL デフォルトのページ]**&#x200B;が表示されます。その場合の移動先を入力します。
+1. **[!UICONTROL ドメインエイリアス &#x200B;] を入力します。**&#x200B;を入力します。訪問者が URL を入力しない場合、**[!UICONTROL デフォルトのページ]**&#x200B;が表示されます。その場合の移動先を入力します。
 
    >[!NOTE]
    >
-   >[!UICONTROL  デフォルトページ ] には、ランディングページまたは外部 URL （公開 web サイトなど）を選択できます。
+   >[!UICONTROL &#x200B; デフォルトページ &#x200B;] には、ランディングページまたは外部 URL （公開 web サイトなど）を選択できます。
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 

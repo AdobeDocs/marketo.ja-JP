@@ -17,7 +17,7 @@ RTP JavaScript タグは、ウェブパーソナライズが web アクティビ
 
 >[!NOTE]
 >
->**Web サイト上の HTML コードからタグを削除する必要はありません。** アカウント設定 [!UICONTROL  を使用して制御で ] ます。
+>**Web サイト上の HTML コードからタグを削除する必要はありません。** アカウント設定 [!UICONTROL &#x200B; を使用して制御で &#x200B;] ます。
 
 ## タグの有効化または無効化 {#enable-or-disable-the-tag}
 
@@ -29,8 +29,8 @@ RTP JavaScript タグは、ウェブパーソナライズが web アクティビ
 
    ![](assets/account-settings-domain-tag.jpg)
 
-   [!UICONTROL  タグ ] が [!UICONTROL  オフ ] に設定されている場合、JavaScript コードは無効になり、[!UICONTROL web Personalization] では、web アクティビティのトラッキングや、web サイトでのキャンペーンまたはコンテンツレコメンデーションの実行は行われません。
+   [!UICONTROL &#x200B; タグ &#x200B;] が [!UICONTROL &#x200B; オフ &#x200B;] に設定されている場合、JavaScript コードは無効になり、[!UICONTROL web Personalization] では、web アクティビティのトラッキングや、web サイトでのキャンペーンまたはコンテンツレコメンデーションの実行は行われません。
 
-1. RTP タグを有効にするには、[!UICONTROL  ドメイン ] と [!UICONTROL  ドメイン設定 ] の [!UICONTROL  タグ ] で、「**[!UICONTROL オン]**」切り替えスイッチを選択します。
+1. RTP タグを有効にするには、[!UICONTROL &#x200B; ドメイン &#x200B;] と [!UICONTROL &#x200B; ドメイン設定 &#x200B;] の [!UICONTROL &#x200B; タグ &#x200B;] で、「**[!UICONTROL オン]**」切り替えスイッチを選択します。
 
    簡単です。

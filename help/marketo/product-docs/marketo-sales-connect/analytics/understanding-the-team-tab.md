@@ -1,7 +1,7 @@
 ---
 unique-page-id: 14352414
-description: 「[!UICONTROL  チーム ]」タブについて – Marketo ドキュメント – 製品ドキュメント
-title: 「[!UICONTROL  チーム ]」タブについて
+description: 「[!UICONTROL &#x200B; チーム &#x200B;]」タブについて – Marketo ドキュメント – 製品ドキュメント
+title: 「[!UICONTROL &#x200B; チーム &#x200B;]」タブについて
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
@@ -11,9 +11,9 @@ ht-degree: 82%
 
 ---
 
-# 「[!UICONTROL  チーム ]」タブについて {#understanding-the-team-tab}
+# 「[!UICONTROL &#x200B; チーム &#x200B;]」タブについて {#understanding-the-team-tab}
 
-「[!UICONTROL  チーム ]」タブでは、3 つの重要な指標をハイライト表示します。
+「[!UICONTROL &#x200B; チーム &#x200B;]」タブでは、3 つの重要な指標をハイライト表示します。
 
 ## テンプレートを使って送信されたメール数 {#emails-sent-with-template}
 

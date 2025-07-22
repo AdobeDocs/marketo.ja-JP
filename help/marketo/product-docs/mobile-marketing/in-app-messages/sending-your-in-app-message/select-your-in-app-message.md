@@ -29,6 +29,6 @@ ht-degree: 82%
 
    >[!TIP]
    >
-   >別のメッセージを選択するには、「[!UICONTROL  アプリ内メッセージ ]」フィールドで削除します。 次に、「[!UICONTROL  新しいアプリ内メッセージ ] リンクが表示されます。 それをクリックし、別のメッセージを選択します。
+   >別のメッセージを選択するには、「[!UICONTROL &#x200B; アプリ内メッセージ &#x200B;]」フィールドで削除します。 次に、「[!UICONTROL &#x200B; 新しいアプリ内メッセージ &#x200B;] リンクが表示されます。 それをクリックし、別のメッセージを選択します。
 
 その調子です。次に、[送信のスケジュールを設定](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)します。

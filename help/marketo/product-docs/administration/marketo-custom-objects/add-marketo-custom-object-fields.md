@@ -43,7 +43,7 @@ ht-degree: 96%
 
    >[!NOTE]
    >
-   >[!UICONTROL API 名 ] は、承認されるまで編集できません。
+   >[!UICONTROL API 名 &#x200B;] は、承認されるまで編集できません。
 
 1. 次に、リストから適切な[!UICONTROL データタイプ]を選択します。
 

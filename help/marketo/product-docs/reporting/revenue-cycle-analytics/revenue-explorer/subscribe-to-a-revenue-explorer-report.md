@@ -11,7 +11,7 @@ ht-degree: 95%
 
 ---
 
-# [!UICONTROL  売上高エクスプローラー ] レポートの購読 {#subscribe-to-a-revenue-explorer-report}
+# [!UICONTROL &#x200B; 売上高エクスプローラー &#x200B;] レポートの購読 {#subscribe-to-a-revenue-explorer-report}
 
 収益サイクルエクスプローラーレポートから更新を受け取り、共有するには、既存のレポートにメールアドレスを配信登録することができます。
 

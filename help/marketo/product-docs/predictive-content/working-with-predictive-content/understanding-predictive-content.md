@@ -13,7 +13,7 @@ ht-degree: 80%
 
 # 予測コンテンツについて {#understanding-predictive-content}
 
-[予測コンテンツのタイトルを承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)した後、ここで作業します。[!UICONTROL  予測コンテンツ ] ページには、予測コンテンツ用に承認したすべてのタイトルが表示されます。
+[予測コンテンツのタイトルを承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)した後、ここで作業します。[!UICONTROL &#x200B; 予測コンテンツ &#x200B;] ページには、予測コンテンツ用に承認したすべてのタイトルが表示されます。
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -36,7 +36,7 @@ ht-degree: 80%
 
 **[!UICONTROL 有効ソース]**
 
-有効なコンテンツのタイプ（[!UICONTROL  メール ]、[!UICONTROL  リッチメディア ]、[!UICONTROL  レコメンデーションバー ] ごとにフィルタリングします。
+有効なコンテンツのタイプ（[!UICONTROL &#x200B; メール &#x200B;]、[!UICONTROL &#x200B; リッチメディア &#x200B;]、[!UICONTROL &#x200B; レコメンデーションバー &#x200B;] ごとにフィルタリングします。
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
@@ -58,7 +58,7 @@ ht-degree: 80%
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
-[!UICONTROL  コンバージョン率 ] 列のバーにマウスポインターを置くと、コンバージョン率、ダイレクトコンバージョン、クリックされたデータが表示されます。
+[!UICONTROL &#x200B; コンバージョン率 &#x200B;] 列のバーにマウスポインターを置くと、コンバージョン率、ダイレクトコンバージョン、クリックされたデータが表示されます。
 
 ![](assets/predictive-content-conversion-rate-popup-hand.png)
 

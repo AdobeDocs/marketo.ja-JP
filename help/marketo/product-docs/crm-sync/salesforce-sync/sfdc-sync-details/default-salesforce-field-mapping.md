@@ -19,80 +19,80 @@ Marketo Engage アカウントを最初にSalesforceと同期すると、Marketo
 
 | SFDC フィールド | Marketo フィールド |
 |---|---|
-| [!UICONTROL  年間収益 ] | [!UICONTROL  年間収益 ] |
-| [!UICONTROL  市区町村 ] | [!UICONTROL  市区町村 ] |
-| [!UICONTROL  会社 ] | [!UICONTROL  会社名 ] |
-| [!UICONTROL  コンバート日 ] | [!UICONTROL SFDCが変換された日付 ] |
-| [!UICONTROL  国 ] | [!UICONTROL  国 ] |
-| [!UICONTROL  作成日 ] | [!UICONTROL SFDC作成日 ] |
-| [!UICONTROL 説明] | [!UICONTROL  人物メモ ] |
-| [!UICONTROL メール] | [!UICONTROL  メールアドレス ] |
-| [!UICONTROL  ファックス ] | [!UICONTROL FAX 番号 ] |
-| [!UICONTROL  名 ] | [!UICONTROL  名 ] |
-| [!UICONTROL メールオプトアウト] | [!UICONTROL  登録解除 ] |
+| [!UICONTROL &#x200B; 年間収益 &#x200B;] | [!UICONTROL &#x200B; 年間収益 &#x200B;] |
+| [!UICONTROL &#x200B; 市区町村 &#x200B;] | [!UICONTROL &#x200B; 市区町村 &#x200B;] |
+| [!UICONTROL &#x200B; 会社 &#x200B;] | [!UICONTROL &#x200B; 会社名 &#x200B;] |
+| [!UICONTROL &#x200B; コンバート日 &#x200B;] | [!UICONTROL SFDCが変換された日付 &#x200B;] |
+| [!UICONTROL &#x200B; 国 &#x200B;] | [!UICONTROL &#x200B; 国 &#x200B;] |
+| [!UICONTROL &#x200B; 作成日 &#x200B;] | [!UICONTROL SFDC作成日 &#x200B;] |
+| [!UICONTROL 説明] | [!UICONTROL &#x200B; 人物メモ &#x200B;] |
+| [!UICONTROL メール] | [!UICONTROL &#x200B; メールアドレス &#x200B;] |
+| [!UICONTROL &#x200B; ファックス &#x200B;] | [!UICONTROL FAX 番号 &#x200B;] |
+| [!UICONTROL &#x200B; 名 &#x200B;] | [!UICONTROL &#x200B; 名 &#x200B;] |
+| [!UICONTROL メールオプトアウト] | [!UICONTROL &#x200B; 登録解除 &#x200B;] |
 | [!UICONTROL 業界] | [!UICONTROL 業界] |
-| [!UICONTROL  変換済み ] | [!UICONTROL SFDCはコンバージョンされました ] |
-| [!UICONTROL  削除済み ] | [!UICONTROL SFDCが削除されました ] |
-| [!UICONTROL  姓 ] | [!UICONTROL  姓 ] |
-| [!UICONTROL  リードSource] | [!UICONTROL ソース] |
-| [!UICONTROL  リードスコア ] | [!UICONTROL スコア] |
-| [!UICONTROL  携帯電話 ] | [!UICONTROL  携帯電話番号 ] |
-| [!UICONTROL  従業員 ] | [!UICONTROL  従業員数 ] |
-| [!UICONTROL  電話 ] | [!UICONTROL  電話番号 ] |
-| [!UICONTROL  郵便番号 ] | [!UICONTROL  郵便番号 ] |
-| [!UICONTROL  レーティング ] | [!UICONTROL  レーティング ] |
+| [!UICONTROL &#x200B; 変換済み &#x200B;] | [!UICONTROL SFDCはコンバージョンされました &#x200B;] |
+| [!UICONTROL &#x200B; 削除済み &#x200B;] | [!UICONTROL SFDCが削除されました &#x200B;] |
+| [!UICONTROL &#x200B; 姓 &#x200B;] | [!UICONTROL &#x200B; 姓 &#x200B;] |
+| [!UICONTROL &#x200B; リードSource] | [!UICONTROL ソース] |
+| [!UICONTROL &#x200B; リードスコア &#x200B;] | [!UICONTROL スコア] |
+| [!UICONTROL &#x200B; 携帯電話 &#x200B;] | [!UICONTROL &#x200B; 携帯電話番号 &#x200B;] |
+| [!UICONTROL &#x200B; 従業員 &#x200B;] | [!UICONTROL &#x200B; 従業員数 &#x200B;] |
+| [!UICONTROL &#x200B; 電話 &#x200B;] | [!UICONTROL &#x200B; 電話番号 &#x200B;] |
+| [!UICONTROL &#x200B; 郵便番号 &#x200B;] | [!UICONTROL &#x200B; 郵便番号 &#x200B;] |
+| [!UICONTROL &#x200B; レーティング &#x200B;] | [!UICONTROL &#x200B; レーティング &#x200B;] |
 | [!UICONTROL 敬称] | [!UICONTROL 敬称] |
-| [!UICONTROL  都道府県 ] | [!UICONTROL  都道府県 ] |
+| [!UICONTROL &#x200B; 都道府県 &#x200B;] | [!UICONTROL &#x200B; 都道府県 &#x200B;] |
 | [!UICONTROL ステータス] | [!UICONTROL ステータス] |
-| [!UICONTROL  番地 ] | [!UICONTROL アドレス] |
-| [!UICONTROL タイトル] | [!UICONTROL  役職 ] |
-| [!UICONTROL Web サイト ] | [!UICONTROL Web サイト ] |
+| [!UICONTROL &#x200B; 番地 &#x200B;] | [!UICONTROL アドレス] |
+| [!UICONTROL タイトル] | [!UICONTROL &#x200B; 役職 &#x200B;] |
+| [!UICONTROL Web サイト &#x200B;] | [!UICONTROL Web サイト &#x200B;] |
 
 ## 連絡先フィールド {#contact-fields}
 
 | SFDC フィールド | Marketo フィールド |
 |---|---|
-| [!UICONTROL  生年月日 ] | [!UICONTROL  生年月日 ] |
-| [!UICONTROL  作成日 ] | [!UICONTROL SFDC作成日 ] |
-| [!UICONTROL  連絡先の説明 ] | [!UICONTROL  人物メモ ] |
-| [!UICONTROL メール] | [!UICONTROL  メールアドレス ] |
-| [!UICONTROL  勤務先 FAX 番号 ] | [!UICONTROL FAX 番号 ] |
-| [!UICONTROL  名 ] | [!UICONTROL  名 ] |
-| [!UICONTROL メールオプトアウト] | [!UICONTROL  登録解除 ] |
-| [!UICONTROL  削除済み ] | [!UICONTROL SFDCが削除されました ] |
-| [!UICONTROL  姓 ] | [!UICONTROL  姓 ] |
-| [!UICONTROL  リードSource] | [!UICONTROL ソース] |
-| [!UICONTROL  リードスコア ] | [!UICONTROL スコア] |
-| [!UICONTROL MailingCity] | [!UICONTROL  市区町村 ] |
-| [!UICONTROL MailingCountry] | [!UICONTROL  国 ] |
-| [!UICONTROL MailingPostalCode] | [!UICONTROL  郵便番号 ] |
-| [!UICONTROL MailingState] | [!UICONTROL  都道府県 ] |
+| [!UICONTROL &#x200B; 生年月日 &#x200B;] | [!UICONTROL &#x200B; 生年月日 &#x200B;] |
+| [!UICONTROL &#x200B; 作成日 &#x200B;] | [!UICONTROL SFDC作成日 &#x200B;] |
+| [!UICONTROL &#x200B; 連絡先の説明 &#x200B;] | [!UICONTROL &#x200B; 人物メモ &#x200B;] |
+| [!UICONTROL メール] | [!UICONTROL &#x200B; メールアドレス &#x200B;] |
+| [!UICONTROL &#x200B; 勤務先 FAX 番号 &#x200B;] | [!UICONTROL FAX 番号 &#x200B;] |
+| [!UICONTROL &#x200B; 名 &#x200B;] | [!UICONTROL &#x200B; 名 &#x200B;] |
+| [!UICONTROL メールオプトアウト] | [!UICONTROL &#x200B; 登録解除 &#x200B;] |
+| [!UICONTROL &#x200B; 削除済み &#x200B;] | [!UICONTROL SFDCが削除されました &#x200B;] |
+| [!UICONTROL &#x200B; 姓 &#x200B;] | [!UICONTROL &#x200B; 姓 &#x200B;] |
+| [!UICONTROL &#x200B; リードSource] | [!UICONTROL ソース] |
+| [!UICONTROL &#x200B; リードスコア &#x200B;] | [!UICONTROL スコア] |
+| [!UICONTROL MailingCity] | [!UICONTROL &#x200B; 市区町村 &#x200B;] |
+| [!UICONTROL MailingCountry] | [!UICONTROL &#x200B; 国 &#x200B;] |
+| [!UICONTROL MailingPostalCode] | [!UICONTROL &#x200B; 郵便番号 &#x200B;] |
+| [!UICONTROL MailingState] | [!UICONTROL &#x200B; 都道府県 &#x200B;] |
 | [!UICONTROL MailingStreet] | [!UICONTROL アドレス] |
-| [!UICONTROL  携帯電話 ] | [!UICONTROL  携帯電話番号 ] |
-| [!UICONTROL  勤務先電話番号 ] | [!UICONTROL  電話番号 ] |
+| [!UICONTROL &#x200B; 携帯電話 &#x200B;] | [!UICONTROL &#x200B; 携帯電話番号 &#x200B;] |
+| [!UICONTROL &#x200B; 勤務先電話番号 &#x200B;] | [!UICONTROL &#x200B; 電話番号 &#x200B;] |
 | [!UICONTROL 敬称] | [!UICONTROL 敬称] |
-| [!UICONTROL タイトル] | [!UICONTROL  役職 ] |
+| [!UICONTROL タイトル] | [!UICONTROL &#x200B; 役職 &#x200B;] |
 
 ## アカウントフィールド {#account-fields}
 
-| [!UICONTROL SFDC フィールド ] | [!UICONTROL Marketo フィールド ] |
+| [!UICONTROL SFDC フィールド &#x200B;] | [!UICONTROL Marketo フィールド &#x200B;] |
 |---|---|
-| [!UICONTROL  年間収益 ] | [!UICONTROL  年間収益 ] |
-| [!UICONTROL  請求先都市 ] | [!UICONTROL  請求先都市 ] |
-| [!UICONTROL  請求国 ] | [!UICONTROL  請求国 ] |
-| [!UICONTROL  請求先郵便番号 ] | [!UICONTROL  請求郵便番号 ] |
-| [!UICONTROL  請求先の都道府県 ] | [!UICONTROL  請求国 ] |
-| [!UICONTROL  請求先住所 ] | [!UICONTROL  請求先住所 ] |
-| [!UICONTROL  アカウントの説明 ] | [!UICONTROL  会社注記 ] |
+| [!UICONTROL &#x200B; 年間収益 &#x200B;] | [!UICONTROL &#x200B; 年間収益 &#x200B;] |
+| [!UICONTROL &#x200B; 請求先都市 &#x200B;] | [!UICONTROL &#x200B; 請求先都市 &#x200B;] |
+| [!UICONTROL &#x200B; 請求国 &#x200B;] | [!UICONTROL &#x200B; 請求国 &#x200B;] |
+| [!UICONTROL &#x200B; 請求先郵便番号 &#x200B;] | [!UICONTROL &#x200B; 請求郵便番号 &#x200B;] |
+| [!UICONTROL &#x200B; 請求先の都道府県 &#x200B;] | [!UICONTROL &#x200B; 請求国 &#x200B;] |
+| [!UICONTROL &#x200B; 請求先住所 &#x200B;] | [!UICONTROL &#x200B; 請求先住所 &#x200B;] |
+| [!UICONTROL &#x200B; アカウントの説明 &#x200B;] | [!UICONTROL &#x200B; 会社注記 &#x200B;] |
 | [!UICONTROL 業界] | [!UICONTROL 業界] |
-| [!UICONTROL  削除済み ] | [!UICONTROL SFDCが削除されました ] |
-| [!UICONTROL  アカウント名 ] | [!UICONTROL  会社名 ] |
-| [!UICONTROL  従業員 ] | [!UICONTROL  従業員数 ] |
-| [!UICONTROL  アカウントの電話 ] | [!UICONTROL  メイン電話 ] |
-| [!UICONTROL SIC コード ] | [!UICONTROL SIC コード ] |
-| [!UICONTROL  アカウントサイト ] | [!UICONTROL  サイト ] |
-| [!UICONTROL  アカウントタイプ ] | [!UICONTROL SFDCの種類 ] |
-| [!UICONTROL Web サイト ] | [!UICONTROL Web サイト ] |
+| [!UICONTROL &#x200B; 削除済み &#x200B;] | [!UICONTROL SFDCが削除されました &#x200B;] |
+| [!UICONTROL &#x200B; アカウント名 &#x200B;] | [!UICONTROL &#x200B; 会社名 &#x200B;] |
+| [!UICONTROL &#x200B; 従業員 &#x200B;] | [!UICONTROL &#x200B; 従業員数 &#x200B;] |
+| [!UICONTROL &#x200B; アカウントの電話 &#x200B;] | [!UICONTROL &#x200B; メイン電話 &#x200B;] |
+| [!UICONTROL SIC コード &#x200B;] | [!UICONTROL SIC コード &#x200B;] |
+| [!UICONTROL &#x200B; アカウントサイト &#x200B;] | [!UICONTROL &#x200B; サイト &#x200B;] |
+| [!UICONTROL &#x200B; アカウントタイプ &#x200B;] | [!UICONTROL SFDCの種類 &#x200B;] |
+| [!UICONTROL Web サイト &#x200B;] | [!UICONTROL Web サイト &#x200B;] |
 
 ## Marketoの [!DNL Salesforce] 関連のシステムフィールド（読み取り専用） {#salesforce-related-system-fields-in-marketo-read-only}
 

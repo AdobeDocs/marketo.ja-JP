@@ -13,7 +13,7 @@ ht-degree: 62%
 
 # メールレポート {#email-reports}
 
-ユーザーが受け取る自動メールレポートをカスタマイズするには、[[!UICONTROL  ユーザー設定 ] の節を参照してください ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
+ユーザーが受け取る自動メールレポートをカスタマイズするには、[[!UICONTROL &#x200B; ユーザー設定 &#x200B;] の節を参照してください ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
 
 ## ウェブパーソナライズメールレポート {#web-personalization-email-reports}
 
@@ -33,7 +33,7 @@ ht-degree: 62%
 
 日別／週別のリードレポートでは、リードのメールアドレス、組織名、場所、状態、リードキャプチャの日付、リードが属するセグメント情報に従って、web サイトから最新の 100 人についてのメールをユーザーに送信します。
 
-## [!UICONTROL  最もパフォーマンスの高いリアルタイムキャンペーン ] {#top-performing-real-time-campaigns}
+## [!UICONTROL &#x200B; 最もパフォーマンスの高いリアルタイムキャンペーン &#x200B;] {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
@@ -67,6 +67,6 @@ ht-degree: 62%
 
 >[!NOTE]
 >
->Marketo ウェブパーソナライズは、web サイトで入力されたフォームでの web 訪問者のメールアドレスを取り込みます。このユーザーは [!UICONTROL Web Personalization][!UICONTROL  ユーザー ] ページに表示され、概要レポートで使用されます。
+>Marketo ウェブパーソナライズは、web サイトで入力されたフォームでの web 訪問者のメールアドレスを取り込みます。このユーザーは [!UICONTROL Web Personalization][!UICONTROL &#x200B; ユーザー &#x200B;] ページに表示され、概要レポートで使用されます。
 
 ユーザーが受け取る自動メールレポートをカスタマイズするには、[ユーザー設定セクション](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)を参照にしてください。

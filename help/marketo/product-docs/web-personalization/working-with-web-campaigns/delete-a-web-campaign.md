@@ -21,7 +21,7 @@ ht-degree: 80%
    >
    >目的の web キャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
-1. [!UICONTROL Web キャンペーン ] ページで、削除するキャンペーンの **[!UICONTROL 削除]** をクリックします。
+1. [!UICONTROL Web キャンペーン &#x200B;] ページで、削除するキャンペーンの **[!UICONTROL 削除]** をクリックします。
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 

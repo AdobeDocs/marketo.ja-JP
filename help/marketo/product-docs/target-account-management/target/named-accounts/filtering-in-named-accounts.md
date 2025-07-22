@@ -11,7 +11,7 @@ ht-degree: 86%
 
 ---
 
-# [!UICONTROL  重点顧客 ] でのフィルタリング {#filtering-in-named-accounts}
+# [!UICONTROL &#x200B; 重点顧客 &#x200B;] でのフィルタリング {#filtering-in-named-accounts}
 
 フィルタリングは、データをすばやく絞り込む優れた方法です。
 

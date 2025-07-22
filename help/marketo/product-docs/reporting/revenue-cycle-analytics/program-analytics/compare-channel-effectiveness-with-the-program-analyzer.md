@@ -11,13 +11,13 @@ ht-degree: 71%
 
 ---
 
-# [!UICONTROL  プログラムアナライザー ] を使用したチャネルの有効性の比較 {#compare-channel-effectiveness-with-the-program-analyzer}
+# [!UICONTROL &#x200B; プログラムアナライザー &#x200B;] を使用したチャネルの有効性の比較 {#compare-channel-effectiveness-with-the-program-analyzer}
 
-[!UICONTROL  プログラムアナライザー ] を使用して、チャネルコスト、メンバーの獲得、パイプライン、収益などを比較し、最も効果的でないチャネルを特定します。
+[!UICONTROL &#x200B; プログラムアナライザー &#x200B;] を使用して、チャネルコスト、メンバーの獲得、パイプライン、収益などを比較し、最も効果的でないチャネルを特定します。
 
 >[!PREREQUISITES]
 >
->[ プログラムアナライザ [!UICONTROL  の作成 ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[ プログラムアナライザ [!UICONTROL &#x200B; の作成 &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 1. **[!UICONTROL My Marketo]** で「**分析**」をクリックします。
 
@@ -79,9 +79,9 @@ ht-degree: 71%
 
 >[!TIP]
 >
->以上の手順の例では、作成されたパイプラインに基づいて効果を測定します。[!UICONTROL Y 軸 ] ドロップダウンを使用して、[!UICONTROL  新規名 ]、[!UICONTROL  メンバー ]、[!UICONTROL  成功あたりのコスト ] など、チャネルの有効性を測定する他の方法を選択します。
+>以上の手順の例では、作成されたパイプラインに基づいて効果を測定します。[!UICONTROL Y 軸 &#x200B;] ドロップダウンを使用して、[!UICONTROL &#x200B; 新規名 &#x200B;]、[!UICONTROL &#x200B; メンバー &#x200B;]、[!UICONTROL &#x200B; 成功あたりのコスト &#x200B;] など、チャネルの有効性を測定する他の方法を選択します。
 
 >[!MORELIKETHIS]
 >
 >* [ プログラムアナライザーを使用したプログラムとチャネルの詳細の調査 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [ プログラムの有効性と [!UICONTROL  プログラム アナライザー ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md) の比較
+>* [ プログラムの有効性と [!UICONTROL &#x200B; プログラム アナライザー &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md) の比較

@@ -29,7 +29,7 @@ OK、[!DNL Marketo Sales Insight] しいソリューションを [!DNL Microsoft
 
    ![](assets/image2014-12-12-9-3a4-3a56.png)
 
-1. [!UICONTROL  設定 ] の下の **[!UICONTROL カスタマイズ]** をクリックします。
+1. [!UICONTROL &#x200B; 設定 &#x200B;] の下の **[!UICONTROL カスタマイズ]** をクリックします。
 
    ![](assets/image2015-4-29-14-3a22-3a1.png)
 

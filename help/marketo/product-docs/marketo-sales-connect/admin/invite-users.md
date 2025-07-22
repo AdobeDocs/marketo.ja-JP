@@ -19,7 +19,7 @@ ht-degree: 90%
 
    ![](assets/one.png)
 
-1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL User Management]**」を選択します。
+1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、「**[!UICONTROL User Management]**」を選択します。
 
    ![](assets/invite-team-members-2.png)
 

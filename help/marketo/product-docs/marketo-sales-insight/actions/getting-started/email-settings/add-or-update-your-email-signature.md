@@ -18,7 +18,7 @@ Marketo Sales からのメールは、自分のメールクライアントから
 
    ![](assets/add-or-update-your-email-signature-1.png)
 
-1. [!UICONTROL  マイアカウント ] で **[!UICONTROL メール設定]** を選択します。
+1. [!UICONTROL &#x200B; マイアカウント &#x200B;] で **[!UICONTROL メール設定]** を選択します。
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
@@ -26,7 +26,7 @@ Marketo Sales からのメールは、自分のメールクライアントから
 
    ![](assets/add-or-update-your-email-signature-3.png)
 
-1. [!UICONTROL  署名 ] カードで、「編集 **[!UICONTROL をクリックし]** す。
+1. [!UICONTROL &#x200B; 署名 &#x200B;] カードで、「編集 **[!UICONTROL をクリックし]** す。
 
    ![](assets/add-or-update-your-email-signature-4.png)
 

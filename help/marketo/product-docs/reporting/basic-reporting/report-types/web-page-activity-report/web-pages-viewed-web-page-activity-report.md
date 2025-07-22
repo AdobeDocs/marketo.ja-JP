@@ -13,7 +13,7 @@ ht-degree: 63%
 
 # 閲覧された web ページ、web ページアクティビティレポート {#web-pages-viewed-web-page-activity-report}
 
-[[!UICONTROL Web ページアクティビティ ] レポート ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) から、レポートのユーザーが表示した特定のページを表示できます。
+[[!UICONTROL Web ページアクティビティ &#x200B;] レポート ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) から、レポートのユーザーが表示した特定のページを表示できます。
 
 >[!PREREQUISITES]
 >

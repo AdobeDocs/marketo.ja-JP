@@ -21,7 +21,7 @@ ht-degree: 90%
 
    ![](assets/one.png)
 
-1. [!UICONTROL  管理設定 ] で、**[!UICONTROL Salesforce]** を選択します。
+1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、**[!UICONTROL Salesforce]** を選択します。
 
    ![](assets/two.png)
 
@@ -49,7 +49,7 @@ ht-degree: 90%
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. [!UICONTROL  管理者設定 ] で、**[!UICONTROL Salesforce]** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 

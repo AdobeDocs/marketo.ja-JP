@@ -11,7 +11,7 @@ ht-degree: 89%
 
 ---
 
-# 設定 [!UICONTROL  パフォーマンスインサイト ] {#setting-up-performance-insights}
+# 設定 [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] {#setting-up-performance-insights}
 
 以下の手順に従って MPI を設定します。
 
@@ -45,12 +45,12 @@ ht-degree: 89%
    >
    >すべての商談に次の適切なフィールドが設定されていることを確認します。
    >
-   >* [!UICONTROL  オポチュニティの金額 ]
-   >* [!UICONTROL  終了 ]
-   >* [!UICONTROL  勝った ]
-   >* [!UICONTROL  作成日 ] （お客様の場合は設定できない場合があります）
-   >* [!UICONTROL  クローズ日 ] （お客様の場合は設定できない場合があります）
-   >* [!UICONTROL  商談タイプ ]
+   >* [!UICONTROL &#x200B; オポチュニティの金額 &#x200B;]
+   >* [!UICONTROL &#x200B; 終了 &#x200B;]
+   >* [!UICONTROL &#x200B; 勝った &#x200B;]
+   >* [!UICONTROL &#x200B; 作成日 &#x200B;] （お客様の場合は設定できない場合があります）
+   >* [!UICONTROL &#x200B; クローズ日 &#x200B;] （お客様の場合は設定できない場合があります）
+   >* [!UICONTROL &#x200B; 商談タイプ &#x200B;]
 
 ## プログラムセットアップ {#program-setup}
 

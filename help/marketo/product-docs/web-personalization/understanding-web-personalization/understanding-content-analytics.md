@@ -44,7 +44,7 @@ ht-degree: 88%
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL タイトル ]</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL タイトル &#x200B;]</strong></td> 
    <td colspan="1" rowspan="1">デジタルコンテンツアセットの名前。「<strong>タイトル</strong>」をクリックすると、コンテンツ URL が新しいタブで開きます。</td> 
   </tr> 
   <tr> 
@@ -52,7 +52,7 @@ ht-degree: 88%
    <td colspan="1">コンテンツが<a href="#">コンテンツレコメンデーション</a>に追加されたかどうかを示します。</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL ビュー ]</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL ビュー &#x200B;]</strong></p></td> 
    <td colspan="1" rowspan="1"><p>コンテンツアセットに対する web 訪問者からの表示数。表示、開封、視聴またはダウンロードされた回数。「表示」列の数をクリックしてドリルダウンし、コンテンツの閲覧者を確認します</p></td> 
   </tr> 
   <tr> 
@@ -86,7 +86,7 @@ ht-degree: 88%
 
 * **[!UICONTROL ビュー]**：選択した時間範囲のコンテンツの表示数
 * **[!UICONTROL ダイレクトコンバージョン]**：同じ訪問でコンテンツを表示し、フォームに入力した web 訪問者数
-* **[!UICONTROL コンバージョン率 ]****:** ダイレクトコンバージョンで計算されたコンバージョン率をクリック数で割った値
+* **[!UICONTROL コンバージョン率 &#x200B;]**&#x200B;**:** ダイレクトコンバージョンで計算されたコンバージョン率をクリック数で割った値
 
 **[!UICONTROL トレンド]**
 

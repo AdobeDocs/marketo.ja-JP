@@ -11,7 +11,7 @@ ht-degree: 86%
 
 ---
 
-# [!UICONTROL  売上高エクスプローラー ] レポートの書き出し {#exporting-a-revenue-explorer-report}
+# [!UICONTROL &#x200B; 売上高エクスプローラー &#x200B;] レポートの書き出し {#exporting-a-revenue-explorer-report}
 
 任意の収益エクスプローラレポートを書き出して、他のユーザーと共有できます。
 
@@ -35,4 +35,4 @@ ht-degree: 86%
 
 >[!MORELIKETHIS]
 >
->[ 収益エクスプローラー [!UICONTROL  レポートのサブスクライブ ] る ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[ 収益エクスプローラー [!UICONTROL &#x200B; レポートのサブスクライブ &#x200B;] る ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

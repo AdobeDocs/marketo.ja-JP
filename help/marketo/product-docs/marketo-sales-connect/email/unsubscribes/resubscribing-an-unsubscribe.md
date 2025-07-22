@@ -11,7 +11,7 @@ ht-degree: 62%
 
 ---
 
-# 購読の再登録 [!UICONTROL  購読解除 ] {#resubscribing-an-unsubscribe}
+# 購読の再登録 [!UICONTROL &#x200B; 購読解除 &#x200B;] {#resubscribing-an-unsubscribe}
 
 メール受信に再びオプトインしたい場合があります。ここでは、登録解除したメールを再びメール可能にする方法を示します。
 

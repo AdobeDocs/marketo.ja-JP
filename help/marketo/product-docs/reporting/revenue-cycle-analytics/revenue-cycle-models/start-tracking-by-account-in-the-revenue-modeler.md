@@ -13,7 +13,7 @@ ht-degree: 83%
 
 # 収益モデラーでの顧客別トラッキングの開始 {#start-tracking-by-account-in-the-revenue-modeler}
 
-売上高ステージのModelerと [!UICONTROL  売上高エクスプローラー ] を使用すると、モデルを進めながら、リードとアカウントの業績をinsightで把握できます。
+売上高ステージのModelerと [!UICONTROL &#x200B; 売上高エクスプローラー &#x200B;] を使用すると、モデルを進めながら、リードとアカウントの業績をinsightで把握できます。
 
 >[!NOTE]
 >

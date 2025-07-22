@@ -20,7 +20,7 @@ ht-degree: 93%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 「**[!UICONTROL スマートリスト]**」タブで、「[!UICONTROL  販売アプリ ]」を検索します。
+1. 「**[!UICONTROL スマートリスト]**」タブで、「[!UICONTROL &#x200B; 販売アプリ &#x200B;]」を検索します。
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 

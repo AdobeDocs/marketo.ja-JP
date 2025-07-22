@@ -31,7 +31,7 @@ ht-degree: 76%
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
-1. [!UICONTROL  フィールド同期の詳細 ] で、**[!UICONTROL 編集]** をクリックします。
+1. [!UICONTROL &#x200B; フィールド同期の詳細 &#x200B;] で、**[!UICONTROL 編集]** をクリックします。
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 

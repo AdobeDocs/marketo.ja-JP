@@ -36,7 +36,7 @@ ht-degree: 83%
 
 **日付**
 
-検索の日付範囲を選択します。プリセットされた日付は、選択したメールステータス（[!UICONTROL  送信済み ]、[!UICONTROL  未配信 ]、[!UICONTROL  保留中 ]）に応じて更新されます。
+検索の日付範囲を選択します。プリセットされた日付は、選択したメールステータス（[!UICONTROL &#x200B; 送信済み &#x200B;]、[!UICONTROL &#x200B; 未配信 &#x200B;]、[!UICONTROL &#x200B; 保留中 &#x200B;]）に応じて更新されます。
 
 ![](assets/advanced-search-overview-5.png)
 
@@ -52,7 +52,7 @@ ht-degree: 83%
   <td><strong>説明</strong></td>
  </tr>
  <tr>
-  <td><strong>[!UICONTROL ビュー形式 ]</strong></td>
+  <td><strong>[!UICONTROL ビュー形式 &#x200B;]</strong></td>
   <td>Sales Connect インスタンスの特定の送信者でフィルターします（このオプションは、管理者のみが利用できます）。</td>
  </tr>
  <tr>
@@ -60,14 +60,14 @@ ht-degree: 83%
   <td>特定の受信者グループでメールをフィルタリングします。</td>
  </tr>
  <tr>
-  <td><strong>[！ユーザー別 UICONTROL]</strong></td>
+  <td><strong>[!UICONTROL ユーザー別]</strong></td>
   <td>特定の受信者でフィルターします。</td>
  </tr>
 </table>
 
 **タイミング**
 
-作成日、配信日、失敗した日付、スケジュールした日付別に選択します。選択するメールステータス（[!UICONTROL  送信済み ]、[!UICONTROL  未配信 ]、[!UICONTROL  保留中 ]）によって、使用可能なオプションが変わります。
+作成日、配信日、失敗した日付、スケジュールした日付別に選択します。選択するメールステータス（[!UICONTROL &#x200B; 送信済み &#x200B;]、[!UICONTROL &#x200B; 未配信 &#x200B;]、[!UICONTROL &#x200B; 保留中 &#x200B;]）によって、使用可能なオプションが変わります。
 
 ![](assets/advanced-search-overview-7.png)
 
@@ -83,13 +83,13 @@ ht-degree: 83%
 
 ![](assets/advanced-search-overview-9.png)
 
-_**ステータス：送信済み**_
+_&#x200B;**ステータス：送信済み**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
-送信したメールアクティビティ別にフィルタリングします。[!UICONTROL  ビュー ]/[!UICONTROL  ビューなし ]、[!UICONTROL  クリック数 ]/[!UICONTROL  クリック数なし ]、[!UICONTROL  返信 ]/[!UICONTROL  返信なし ] を選択できます。
+送信したメールアクティビティ別にフィルタリングします。[!UICONTROL &#x200B; ビュー &#x200B;]/[!UICONTROL &#x200B; ビューなし &#x200B;]、[!UICONTROL &#x200B; クリック数 &#x200B;]/[!UICONTROL &#x200B; クリック数なし &#x200B;]、[!UICONTROL &#x200B; 返信 &#x200B;]/[!UICONTROL &#x200B; 返信なし &#x200B;] を選択できます。
 
-_**ステータス：保留中**_
+_&#x200B;**ステータス：保留中**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -101,20 +101,20 @@ _**ステータス：保留中**_
   <td><strong>説明</strong></td>
  </tr>
  <tr>
-  <td><strong>[!UICONTROL がスケジュール済み ]</strong></td>
+  <td><strong>[!UICONTROL がスケジュール済み &#x200B;]</strong></td>
   <td>作成ウィンドウ（Salesforce または web アプリ）、メールプラグイン、またはキャンペーンからスケジュールされたメール。</td>
  </tr>
  <tr>
-  <td><strong>[!UICONTROL ドラフト ]</strong></td>
+  <td><strong>[!UICONTROL ドラフト &#x200B;]</strong></td>
   <td>現在のステートがドラフトのメールです。メールをドラフトとして保存するには、件名と受信者が必要です。</td>
  </tr>
  <tr>
-  <td><strong>[!UICONTROL を実行中 ]</strong></td>
+  <td><strong>[!UICONTROL を実行中 &#x200B;]</strong></td>
   <td>送信中のメール。メールがこの状態に保たれるのは数秒間ほどです。</td>
  </tr>
 </table>
 
-_**ステータス：未配信**_
+_&#x200B;**ステータス：未配信**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -126,15 +126,15 @@ _**ステータス：未配信**_
   <td><strong>説明</strong></td>
  </tr>
  <tr>
-  <td><strong>[!UICONTROL が失敗しました ]</strong></td>
+  <td><strong>[!UICONTROL が失敗しました &#x200B;]</strong></td>
   <td>Sales Connect からのメール送信に失敗した場合（一般的な理由は次のとおりです。配信停止／ブロック済み取引先責任者に送信されたメール、または動的フィールドへの入力で問題が発生した場合）。</td>
  </tr>
  <tr>
-  <td><strong>[!UICONTROL バウンス ]</strong></td>
+  <td><strong>[!UICONTROL バウンス &#x200B;]</strong></td>
   <td>メールは、受信者のサーバーによって拒否された場合、バウンス済みとしてマークされます。Sales Connect サーバー経由で送信されたメールのみがここに表示されます。</td>
  </tr>
  <tr>
-  <td><strong>[!UICONTROL スパム ]</strong></td>
+  <td><strong>[!UICONTROL スパム &#x200B;]</strong></td>
   <td>受信者によってメールがスパム（迷惑メールの一般用語）としてマークされた場合。Sales Connect サーバー経由で送信されたメールのみがここに表示されます。</td>
  </tr>
 </table>

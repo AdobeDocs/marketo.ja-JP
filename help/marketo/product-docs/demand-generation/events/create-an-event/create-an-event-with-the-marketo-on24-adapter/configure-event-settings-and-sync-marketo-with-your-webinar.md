@@ -21,15 +21,15 @@ Marketo イベントを設定して Marketo と ON24 を接続するには、次
 
    ![](assets/one.png)
 
-1. 「ON24」を [!UICONTROL  イベントパートナー ] として選択します。
+1. 「ON24」を [!UICONTROL &#x200B; イベントパートナー &#x200B;] として選択します。
 
    ![](assets/two.png)
 
-1. [!UICONTROL  ログイン ] アカウント（表示名など）を選択します。
+1. [!UICONTROL &#x200B; ログイン &#x200B;] アカウント（表示名など）を選択します。
 
    ![](assets/three.png)
 
-1. [!UICONTROL  イベント ID] を入力します（ON24 から取得します）。 「**[!UICONTROL 保存]**」をクリックします。
+1. [!UICONTROL &#x200B; イベント ID] を入力します（ON24 から取得します）。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/four.png)
 
@@ -39,9 +39,9 @@ Marketo イベントを設定して Marketo と ON24 を接続するには、次
 
 ## スケジュールを設定 {#set-the-schedule}
 
-ON24 ウェビナーに関連付けられたイベントを設定すると、イベントスケジュールに ON24 のデータが入力されます。[!UICONTROL  イベントスケジュール ] ダイアログボックスにアクセスするには、次の手順に従います。
+ON24 ウェビナーに関連付けられたイベントを設定すると、イベントスケジュールに ON24 のデータが入力されます。[!UICONTROL &#x200B; イベントスケジュール &#x200B;] ダイアログボックスにアクセスするには、次の手順に従います。
 
-1. イベントを選択します。**[!UICONTROL イベントアクション]** ドロップダウンをクリックし、「**[!UICONTROL スケジュール ].**」を選択します。
+1. イベントを選択します。**[!UICONTROL イベントアクション]** ドロップダウンをクリックし、「**[!UICONTROL スケジュール &#x200B;].**」を選択します。
 
    ![](assets/five.png)
 
@@ -51,7 +51,7 @@ ON24 ウェビナーに関連付けられたイベントを設定すると、イ
 
    >[!NOTE]
    >
-   >ON24 でイベント情報を更新した場合は、**[!UICONTROL イベントアクション]** メニューの [!UICONTROL  ウェビナープロバイダーからの更新 ] をクリックして、新しいデータが入力されることを確認します。
+   >ON24 でイベント情報を更新した場合は、**[!UICONTROL イベントアクション]** メニューの [!UICONTROL &#x200B; ウェビナープロバイダーからの更新 &#x200B;] をクリックして、新しいデータが入力されることを確認します。
 
 次の[子キャンペーンとローカルアセットの作成](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}手順に進むことができます。
 

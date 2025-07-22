@@ -28,7 +28,7 @@ ht-degree: 45%
 
 1. ブラウザーの新しいタブで [!DNL Dynamics] にログインし、目的のフィールドを削除します。
 
-1. Marketoに戻り、[!DNL Microsoft Dynamics] の下の **[!UICONTROL 手順 2：同期するフィールドを選択]**」の横にある [!UICONTROL  編集 ] をクリックします。
+1. Marketoに戻り、[!DNL Microsoft Dynamics] の下の **[!UICONTROL 手順 2：同期するフィールドを選択]**」の横にある [!UICONTROL &#x200B; 編集 &#x200B;] をクリックします。
 
    ![](assets/sync-before-deleting-them-in-dynamics-4.png)
 
@@ -42,6 +42,6 @@ ht-degree: 45%
 
 >[!NOTE]
 >
->[!DNL Dynamics] のフィールドを削除する前に同期を停止しないと、同期でエラーが発生する場合があります。 エラーが発生した場合、同期は停止します。再開する前に、同期でスキーマの変更を受け入れるために、Marketo管理者は「[!UICONTROL  同期するフィールドを選択 ]」（上記）を確認して **[!UICONTROL 保存]** をクリックする必要があります。
+>[!DNL Dynamics] のフィールドを削除する前に同期を停止しないと、同期でエラーが発生する場合があります。 エラーが発生した場合、同期は停止します。再開する前に、同期でスキーマの変更を受け入れるために、Marketo管理者は「[!UICONTROL &#x200B; 同期するフィールドを選択 &#x200B;]」（上記）を確認して **[!UICONTROL 保存]** をクリックする必要があります。
 
 変更が保存された後、忘れずに同期を有効にしてください。

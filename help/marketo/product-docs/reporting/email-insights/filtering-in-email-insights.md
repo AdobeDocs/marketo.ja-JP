@@ -11,9 +11,9 @@ ht-degree: 72%
 
 ---
 
-# [!UICONTROL  メールインサイト ] でのフィルタリング {#filtering-in-email-insights}
+# [!UICONTROL &#x200B; メールインサイト &#x200B;] でのフィルタリング {#filtering-in-email-insights}
 
-[!UICONTROL  メールインサイト ] には、データをフィルタリングする様々な方法があります。
+[!UICONTROL &#x200B; メールインサイト &#x200B;] には、データをフィルタリングする様々な方法があります。
 
 ## [!UICONTROL メールインサイト] {#email-insights}
 
@@ -59,10 +59,10 @@ ht-degree: 72%
 
 >[!NOTE]
 >
->日付範囲は、[!UICONTROL Analytics] ページと [!UICONTROL  送信 ] ページの両方に適用されます。 ただし、「**比較**」オプションは、「[!UICONTROL Analytics]」ページにのみ適用できます。
+>日付範囲は、[!UICONTROL Analytics] ページと [!UICONTROL &#x200B; 送信 &#x200B;] ページの両方に適用されます。 ただし、「**比較**」オプションは、「[!UICONTROL Analytics]」ページにのみ適用できます。
 
 ## アカウントベースドマーケティング {#account-based-marketing}
 
-[[!UICONTROL  ターゲットアカウント管理 ]](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) を使用する場合は、特別なフィルターがあります。
+[[!UICONTROL &#x200B; ターゲットアカウント管理 &#x200B;]](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) を使用する場合は、特別なフィルターがあります。
 
 ![](assets/abm.png)

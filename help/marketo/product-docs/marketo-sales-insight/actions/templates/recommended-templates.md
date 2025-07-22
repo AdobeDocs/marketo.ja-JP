@@ -22,7 +22,7 @@ ht-degree: 91%
 
    ![](assets/recommended-templates-2.png)
 
-1. [!UICONTROL  推奨テンプレート ] カードで、「**[!UICONTROL 編集]**」をクリックします。
+1. [!UICONTROL &#x200B; 推奨テンプレート &#x200B;] カードで、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/recommended-templates-3.png)
 

@@ -22,17 +22,17 @@ ht-degree: 61%
 ## Marketo セールスメールの送信 {#send-marketo-sales-email}
 
 1. リード／連絡先／アカウントのページレイアウトを編集します。
-1. [!UICONTROL  ボタン ] のセクションを選択します。
+1. [!UICONTROL &#x200B; ボタン &#x200B;] のセクションを選択します。
 1. 「**[!UICONTROL MSC メールを送信]**」ボタンを選択して、「詳細」の&#x200B;**[!UICONTROL カスタムボタン]**&#x200B;セクションに配置します。
 
 ## Marketo Sales Connect で通話 {#call-with-marketo-sales-connect}
 
 1. リード／連絡先／アカウントのページレイアウトを編集します。
 1. ボタンのセクションを選択します。
-1. **[!UICONTROL MSC を使用した通話]** ボタンを選択し、**[!UICONTROL 詳細]** の [!UICONTROL  カスタムボタン ] セクションにドラッグします。
+1. **[!UICONTROL MSC を使用した通話]** ボタンを選択し、**[!UICONTROL 詳細]** の [!UICONTROL &#x200B; カスタムボタン &#x200B;] セクションにドラッグします。
 
 ## キャンペーンに追加 {#add-to-campaign}
 
 1. リード／連絡先／アカウントのページレイアウトを編集します。
-1. [!UICONTROL  ボタン ] のセクションを選択します。
-1. 「**[!UICONTROL MSC キャンペーンに追加]**」ボタンを選択し、**[!UICONTROL 詳細]** の [!UICONTROL  カスタム・ボタン ] セクションにドラッグします。
+1. [!UICONTROL &#x200B; ボタン &#x200B;] のセクションを選択します。
+1. 「**[!UICONTROL MSC キャンペーンに追加]**」ボタンを選択し、**[!UICONTROL 詳細]** の [!UICONTROL &#x200B; カスタム・ボタン &#x200B;] セクションにドラッグします。

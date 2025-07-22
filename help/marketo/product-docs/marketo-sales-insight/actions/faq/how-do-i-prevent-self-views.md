@@ -42,7 +42,7 @@ ht-degree: 48%
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. 左側のメニューの [!UICONTROL  自動ダウンロード ] をクリックし、[**[!UICONTROL HTML E メールまたは RSS アイテムの画像を自動的にダウンロードしない]**] チェック ボックスをオンにします。
+1. 左側のメニューの [!UICONTROL &#x200B; 自動ダウンロード &#x200B;] をクリックし、[**[!UICONTROL HTML E メールまたは RSS アイテムの画像を自動的にダウンロードしない]**] チェック ボックスをオンにします。
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
@@ -50,7 +50,7 @@ ht-degree: 48%
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. [**[!UICONTROL オプション ] ダイアログ ボックスで []** OK[!DNL Outlook]] をクリックします。
+1. [**[!UICONTROL オプション &#x200B;] ダイアログ ボックスで []** OK[!DNL Outlook]] をクリックします。
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 
@@ -62,10 +62,10 @@ ht-degree: 48%
 
    ![](assets/how-do-i-prevent-self-views-8.png)
 
-1. [!UICONTROL  電子メール ] の下で **[!UICONTROL 読み取り]** を選択します。
+1. [!UICONTROL &#x200B; 電子メール &#x200B;] の下で **[!UICONTROL 読み取り]** を選択します。
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. [!UICONTROL  セキュリティ ] の下の **[!UICONTROL なし]** ラジオボタンをクリックします。
+1. [!UICONTROL &#x200B; セキュリティ &#x200B;] の下の **[!UICONTROL なし]** ラジオボタンをクリックします。
 
    ![](assets/how-do-i-prevent-self-views-10.png)

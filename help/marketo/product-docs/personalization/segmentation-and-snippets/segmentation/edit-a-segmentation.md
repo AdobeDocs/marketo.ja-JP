@@ -25,7 +25,7 @@ ht-degree: 81%
 
    ![](assets/two.png)
 
-1. **[!UICONTROL ステータス]** が [!UICONTROL  ドラフトで承認済み ] に変更されます。 セグメント化に&#x200B;**[!UICONTROL ドラフト]**&#x200B;フォルダーが作成されます。
+1. **[!UICONTROL ステータス]** が [!UICONTROL &#x200B; ドラフトで承認済み &#x200B;] に変更されます。 セグメント化に&#x200B;**[!UICONTROL ドラフト]**&#x200B;フォルダーが作成されます。
 
    ![](assets/three.png)
 
@@ -37,9 +37,9 @@ ht-degree: 81%
 
    >[!NOTE]
    >
-   >編集できるのは [!UICONTROL  ドラフト ] のセグメントのみで、承認済みのセグメント化は編集できません。
+   >編集できるのは [!UICONTROL &#x200B; ドラフト &#x200B;] のセグメントのみで、承認済みのセグメント化は編集できません。
 
-1. **[!UICONTROL セグメントの追加]**、****&#x200B;編集（名前を変更または順序を変更）、または&#x200B;****&#x200B;セグメントの削除。
+1. **[!UICONTROL セグメントの追加]**、**&#x200B;**&#x200B;編集（名前を変更または順序を変更）、または&#x200B;**&#x200B;**&#x200B;セグメントの削除。
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -53,13 +53,13 @@ ht-degree: 81%
 
 ## セグメントルールを編集する {#edit-segment-rules}
 
-1. [!UICONTROL  ドラフト ]**セグメント** で、**[!UICONTROL スマートリスト]** に移動します。 [セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)と同様のルールを適用します。
+1. [!UICONTROL &#x200B; ドラフト &#x200B;]&#x200B;**セグメント** で、**[!UICONTROL スマートリスト]** に移動します。 [セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)と同様のルールを適用します。
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
    >[!NOTE]
    >
-   >承認済みセグメントは編集できません。[!UICONTROL  ドラフト ] フォルダーのセグメントをクリックして編集します。
+   >承認済みセグメントは編集できません。[!UICONTROL &#x200B; ドラフト &#x200B;] フォルダーのセグメントをクリックして編集します。
 
    >[!NOTE]
    >

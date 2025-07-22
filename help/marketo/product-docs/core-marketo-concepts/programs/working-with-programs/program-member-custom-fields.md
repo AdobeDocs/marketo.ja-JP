@@ -43,7 +43,7 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >[!UICONTROL  プログラムメンバー ] カスタムフィールドでサポートされるタイプは、ブール値、日付、日時、浮動小数点、整数、文字列、URL です。 [フィールドタイプの詳細](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}。
+   >[!UICONTROL &#x200B; プログラムメンバー &#x200B;] カスタムフィールドでサポートされるタイプは、ブール値、日付、日時、浮動小数点、整数、文字列、URL です。 [フィールドタイプの詳細](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}。
 
 ## オブジェクトの詳細 {#object-descriptions}
 

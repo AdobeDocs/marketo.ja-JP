@@ -24,7 +24,7 @@ ht-degree: 81%
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
-1. 「[!UICONTROL  宛先 ]」フィールドに入力し、「件名 [!UICONTROL  を入力 ] ます。
+1. 「[!UICONTROL &#x200B; 宛先 &#x200B;]」フィールドに入力し、「件名 [!UICONTROL &#x200B; を入力 &#x200B;] ます。
 
    ![](assets/add-an-attachment-or-trackable-content-2.png)
 
@@ -50,7 +50,7 @@ ht-degree: 81%
 
    ![](assets/add-an-attachment-or-trackable-content-6.png)
 
-1. 「[!UICONTROL  宛先 ]」フィールドに入力し、「件名 [!UICONTROL  を入力 ] ます。
+1. 「[!UICONTROL &#x200B; 宛先 &#x200B;]」フィールドに入力し、「件名 [!UICONTROL &#x200B; を入力 &#x200B;] ます。
 
    ![](assets/add-an-attachment-or-trackable-content-7.png)
 

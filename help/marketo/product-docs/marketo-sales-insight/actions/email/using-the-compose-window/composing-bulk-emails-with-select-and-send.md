@@ -14,7 +14,7 @@ ht-degree: 95%
 
 # 「選択して送信」による一括メールの作成 {#composing-bulk-emails-with-select-and-send}
 
-「[!UICONTROL  選択 ]」および「[!UICONTROL  送信 ] オプションを使用して、メールを送信または編集する方法を以下に示します。
+「[!UICONTROL &#x200B; 選択 &#x200B;]」および「[!UICONTROL &#x200B; 送信 &#x200B;] オプションを使用して、メールを送信または編集する方法を以下に示します。
 
 ## メールの送信 {#sending-emails}
 

@@ -23,7 +23,7 @@ ht-degree: 71%
 
 - [web アプリケーション](https://toutapp.com/login)に進み、ログインしていることを確認します。
 
-- Cookie が有効になっていることを確認します。[!DNL Chrome] を使用している場合は、[!UICONTROL  設定 ]/[!UICONTROL  詳細設定を表示 ]/[!UICONTROL  コンテンツ設定 ]/[!UICONTROL  サードパーティ Cookie およびサイトデータをブロック ] に移動します。
+- Cookie が有効になっていることを確認します。[!DNL Chrome] を使用している場合は、[!UICONTROL &#x200B; 設定 &#x200B;]/[!UICONTROL &#x200B; 詳細設定を表示 &#x200B;]/[!UICONTROL &#x200B; コンテンツ設定 &#x200B;]/[!UICONTROL &#x200B; サードパーティ Cookie およびサイトデータをブロック &#x200B;] に移動します。
 
 - 接続を解除してから、[!DNL Sales Connect] ブラウザー拡張機能に再接続してみてください。
 

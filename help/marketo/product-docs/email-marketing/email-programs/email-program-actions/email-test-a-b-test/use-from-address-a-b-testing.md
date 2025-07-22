@@ -11,7 +11,7 @@ ht-degree: 97%
 
 ---
 
-# 「[!UICONTROL  送信者アドレス ]」 A/B テストの使用 {#use-from-address-a-b-testing}
+# 「[!UICONTROL &#x200B; 送信者アドレス &#x200B;]」 A/B テストの使用 {#use-from-address-a-b-testing}
 
 メールの A/B テストはとても簡単に実施できます。なかでも興味深いのが、**[!UICONTROL 送信元アドレス]**&#x200B;テストです。その設定方法を説明しましょう。
 

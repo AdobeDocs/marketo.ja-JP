@@ -15,7 +15,7 @@ ht-degree: 77%
 
 ## 取引先責任者の作成 {#creating-contacts}
 
-1. [!UICONTROL  人物 ] ページで「**[!UICONTROL グループアクション]**」ボタンをクリックし、「**[!UICONTROL 連絡先を作成]**」を選択します。
+1. [!UICONTROL &#x200B; 人物 &#x200B;] ページで「**[!UICONTROL グループアクション]**」ボタンをクリックし、「**[!UICONTROL 連絡先を作成]**」を選択します。
 
    ![](assets/one-2.png)
 

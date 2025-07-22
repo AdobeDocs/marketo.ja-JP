@@ -11,7 +11,7 @@ ht-degree: 87%
 
 ---
 
-# 既存のフリーフォームのランディングページテンプレートを作成 [!UICONTROL  モバイル互換 ] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# 既存のフリーフォームのランディングページテンプレートを作成 [!UICONTROL &#x200B; モバイル互換 &#x200B;] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 これは、テンプレートエディターとランディングページエディターの 2 か所でおこなえます。
 
@@ -49,7 +49,7 @@ ht-degree: 87%
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
-## テンプレート [!UICONTROL  モバイル互換 ] の理由 {#what-makes-a-template-mobile-compatible}
+## テンプレート [!UICONTROL &#x200B; モバイル互換 &#x200B;] の理由 {#what-makes-a-template-mobile-compatible}
 
 いい質問です。テンプレートには次のタグが必要です。
 
@@ -63,7 +63,7 @@ ht-degree: 87%
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-テンプレートに変更を加えた場合は、「[!UICONTROL  テンプレートアクション ]」をクリックし、「[!UICONTROL  モバイル互換性を検証 ]」を選択します。
+テンプレートに変更を加えた場合は、「[!UICONTROL &#x200B; テンプレートアクション &#x200B;]」をクリックし、「[!UICONTROL &#x200B; モバイル互換性を検証 &#x200B;]」を選択します。
 
 ## フリーフォームランディングページエディターからのテンプレートのアップグレード {#upgrading-a-template-from-the-free-form-landing-page-editor}
 

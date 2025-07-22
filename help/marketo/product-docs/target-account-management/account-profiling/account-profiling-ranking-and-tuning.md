@@ -13,7 +13,7 @@ ht-degree: 73%
 
 # アカウントのプロファイリングのランキングと調整 {#account-profiling-ranking-and-tuning}
 
-アカウント・プロファイリングでは、理想的な顧客プロファイル（ICP）を識別し、ICP に基づいてデータベース内の企業をランク付けし、ICP インディケータ・データを [!UICONTROL  指定勘定科目 ] として昇格された勘定科目に追加します。
+アカウント・プロファイリングでは、理想的な顧客プロファイル（ICP）を識別し、ICP に基づいてデータベース内の企業をランク付けし、ICP インディケータ・データを [!UICONTROL &#x200B; 指定勘定科目 &#x200B;] として昇格された勘定科目に追加します。
 
 >[!IMPORTANT]
 >
@@ -158,11 +158,11 @@ ht-degree: 73%
 
 ![](assets/tool-tip.png)
 
-[!UICONTROL ICP インジケータの追加 ] ドロップダウンをクリックして、モデルにインジケータを追加します。
+[!UICONTROL ICP インジケータの追加 &#x200B;] ドロップダウンをクリックして、モデルにインジケータを追加します。
 
 ![](assets/add-icp.png)
 
-「[!UICONTROL  エクスポート ]」ボックスをチェックすると、[!UICONTROL  指定勘定科目 ] 詳細ページに ICP インディケータを表示でき、選択した ICP インディケータを [ 指定勘定科目フィルタ ](/help/marketo/product-docs/target-account-management/engage/account-filters.md) の制約として使用できます。
+「[!UICONTROL &#x200B; エクスポート &#x200B;]」ボックスをチェックすると、[!UICONTROL &#x200B; 指定勘定科目 &#x200B;] 詳細ページに ICP インディケータを表示でき、選択した ICP インディケータを [ 指定勘定科目フィルタ ](/help/marketo/product-docs/target-account-management/engage/account-filters.md) の制約として使用できます。
 
 ![](assets/export.png)
 
@@ -170,7 +170,7 @@ ht-degree: 73%
 >
 >ICP 指標は、**[!UICONTROL 重点顧客のメンバー]**&#x200B;フィルターとトリガーに制約として含まれます。
 
-[!UICONTROL  インジケーターの重み付け ] は、各インジケーターがモデルで受け取る重要度を制御するものです。
+[!UICONTROL &#x200B; インジケーターの重み付け &#x200B;] は、各インジケーターがモデルで受け取る重要度を制御するものです。
 
 ![](assets/weightage.png)
 

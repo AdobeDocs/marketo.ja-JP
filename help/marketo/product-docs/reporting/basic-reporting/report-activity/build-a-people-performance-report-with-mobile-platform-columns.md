@@ -37,7 +37,7 @@ ht-degree: 87%
 
    ![](assets/five-1.png)
 
-1. [!UICONTROL  開封されたメール ] フィルターを見つけて、キャンバスにドラッグします。
+1. [!UICONTROL &#x200B; 開封されたメール &#x200B;] フィルターを見つけて、キャンバスにドラッグします。
 
    ![](assets/six-1.png)
 
@@ -51,7 +51,7 @@ ht-degree: 87%
 
    >[!TIP]
    >
-   >この例では [!UICONTROL  開封されたメール ] フィルターを使用しました。 [!UICONTROL  クリックされたメール ] フィルターは Platform の制約を持つので、使用することもできます。
+   >この例では [!UICONTROL &#x200B; 開封されたメール &#x200B;] フィルターを使用しました。 [!UICONTROL &#x200B; クリックされたメール &#x200B;] フィルターは Platform の制約を持つので、使用することもできます。
 
 1. [!UICONTROL Platform] を **[!UICONTROL iOS]** に設定します。
 

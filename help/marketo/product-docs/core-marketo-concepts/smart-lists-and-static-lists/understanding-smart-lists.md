@@ -40,7 +40,7 @@ ht-degree: 91%
 
 ## 「スマートリスト」タブ {#smart-list-tab}
 
-フィルターを追加および定義して、「[!UICONTROL  ユーザー ] タブで特定のユーザーグループを表示します。
+フィルターを追加および定義して、「[!UICONTROL &#x200B; ユーザー &#x200B;] タブで特定のユーザーグループを表示します。
 
 ![](assets/understanding-smart-lists-3.png)
 

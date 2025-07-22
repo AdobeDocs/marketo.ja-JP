@@ -23,11 +23,11 @@ ht-degree: 91%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. **[!UICONTROL 設定]** タブの下の [!UICONTROL Analytics の動作 ] をキャンバスにドラッグします。
+1. **[!UICONTROL 設定]** タブの下の [!UICONTROL Analytics の動作 &#x200B;] をキャンバスにドラッグします。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. 必要な [!UICONTROL Analytics の動作 ] を選択します。
+1. 必要な [!UICONTROL Analytics の動作 &#x200B;] を選択します。
 
    >[!NOTE]
    >

@@ -34,7 +34,7 @@ ht-degree: 74%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Audience Builder で、「**[!UICONTROL カスタムディメンション]**」の下の **[!UICONTROL シーケンス]** と [!UICONTROL RTP データを検索 ] をクリックします [!UICONTROL [!]UICONTROL カスタム変数 ]、[!UICONTROL  イベント ]。
+1. Audience Builder で、「**[!UICONTROL カスタムディメンション]**」の下の **[!UICONTROL シーケンス]** と [!UICONTROL RTP データを検索 &#x200B;] をクリックします [!UICONTROL UICONTROL [ !] カスタム変数 &#x200B;]、[!UICONTROL &#x200B; イベント &#x200B;]。
 
 >[!TIP]
 >
@@ -54,8 +54,8 @@ ht-degree: 74%
 
 **RTP セグメント化されたオーディエンスデータからのリマーケティングオーディエンスの例**
 
-1. **[!UICONTROL シーケンス ].** をクリックします
-1. **[!UICONTROL イベントラベル ].** を選択
+1. **[!UICONTROL シーケンス &#x200B;].** をクリックします
+1. **[!UICONTROL イベントラベル &#x200B;].** を選択
 1. **[!UICONTROL セグメント化されたオーディエンス名]**&#x200B;を入力します（RTP で表示されるように）。
 1. 「**[!UICONTROL 適用]**」をクリックします。
 
@@ -67,7 +67,7 @@ ht-degree: 74%
 
 1. 「**[!UICONTROL シーケンス]**」をクリックします。
 1. 「**[!UICONTROL RTP-Industry]**」を選択します。
-1. **業界名**&#x200B;を入力します（例：[!UICONTROL  金融機関 ]、[!UICONTROL  教育 ]...）。
+1. **業界名**&#x200B;を入力します（例：[!UICONTROL &#x200B; 金融機関 &#x200B;]、[!UICONTROL &#x200B; 教育 &#x200B;]...）。
 1. 「**[!UICONTROL 適用]**」をクリックします。
 1. **[!UICONTROL オーディエンス名]**&#x200B;を入力します。「**[!UICONTROL 保存]**」をクリックします。
 
@@ -79,11 +79,11 @@ ht-degree: 74%
 
    ![](assets/image2015-1-15-18-3a31-3a58.png)
 
-1. **[!UICONTROL キャンペーン名]** を入力し、**[!UICONTROL リマーケティング ] タイプを選択します。**
+1. **[!UICONTROL キャンペーン名]** を入力し、**[!UICONTROL リマーケティング &#x200B;] タイプを選択します。**
 
    ![](assets/image2015-1-15-18-3a35-3a7.png)
 
-1. **[!UICONTROL 広告グループ名 ] を入力**、**[!UICONTROL 拡張 CPC]** を入力し、**[!UICONTROL リマーケティングリスト]** を選択します。
+1. **[!UICONTROL 広告グループ名 &#x200B;] を入力**、**[!UICONTROL 拡張 CPC]** を入力し、**[!UICONTROL リマーケティングリスト]** を選択します。
 
    ![](assets/image2015-1-15-18-3a51-3a57.png)
 

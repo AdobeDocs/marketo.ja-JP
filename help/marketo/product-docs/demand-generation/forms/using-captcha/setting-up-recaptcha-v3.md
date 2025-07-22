@@ -14,9 +14,9 @@ ht-degree: 58%
 
 ReCAPTCHA v3 は、テキスト、画像、ボタンといったユーザへのチャレンジを使用せずに、フォーム送信の疑わしさを評価するストレスフリーのエクスペリエンスです。[詳細情報](https://developers.google.com/search/blog/2018/10/introducing-recaptcha-v3-new-way-to){target="_blank"}
 
-## [!UICONTROL  データセンター ] および [!UICONTROL Munchkin ID] を取得 {#retrieve-your-data-center-and-munchkin-id}
+## [!UICONTROL &#x200B; データセンター &#x200B;] および [!UICONTROL Munchkin ID] を取得 {#retrieve-your-data-center-and-munchkin-id}
 
-以下の「[!UICONTROL reCAPTCHA v3] の初期設定」セクションの手順 6 では、Marketo Engage サブスクリプションの [!UICONTROL  データセンター ] と [!UICONTROL Munchkin ID] が必要になります。 確認方法は、以下のとおりです。
+以下の「[!UICONTROL reCAPTCHA v3] の初期設定」セクションの手順 6 では、Marketo Engage サブスクリプションの [!UICONTROL &#x200B; データセンター &#x200B;] と [!UICONTROL Munchkin ID] が必要になります。 確認方法は、以下のとおりです。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -26,7 +26,7 @@ ReCAPTCHA v3 は、テキスト、画像、ボタンといったユーザへの�
 
    ![](assets/setting-up-recaptcha-v3-2.png)
 
-1. 下方向にスクロールして [!UICONTROL  サポート情報 ] を表示します。
+1. 下方向にスクロールして [!UICONTROL &#x200B; サポート情報 &#x200B;] を表示します。
 
    ![](assets/setting-up-recaptcha-v3-3.png)
 
@@ -38,7 +38,7 @@ ReCAPTCHA v3 は、テキスト、画像、ボタンといったユーザへの�
 
 1. Google アカウントでログイン／サインアップします。
 
-1. [!UICONTROL  作成 ] ボタン（+記号）をクリックして、新しいキーを作成します。
+1. [!UICONTROL &#x200B; 作成 &#x200B;] ボタン（+記号）をクリックして、新しいキーを作成します。
 
 1. Marketo Engage に使用するキーを識別するラベルを作成します。
 
@@ -52,7 +52,7 @@ ReCAPTCHA v3 は、テキスト、画像、ボタンといったユーザへの�
 
    >[!NOTE]
    >
-   >例えば、アカウントの [!UICONTROL  データセンター ] が「sjst」の場合、許可リストに加えるするドメインは `app-sjst.marketo.com` です。 [!UICONTROL Munchkin 許可リストに加える ID] が 123-ABC-789 の場合、ドメインは `123-ABC-789.mktoweb.com` になります。
+   >例えば、アカウントの [!UICONTROL &#x200B; データセンター &#x200B;] が「sjst」の場合、許可リストに加えるするドメインは `app-sjst.marketo.com` です。 [!UICONTROL Munchkin 許可リストに加える ID] が 123-ABC-789 の場合、ドメインは `123-ABC-789.mktoweb.com` になります。
 
 1. このサービスに関するアラートを受け取る所有者と追加のメールアドレスを設定します。
 
@@ -78,7 +78,7 @@ ReCAPTCHA v3 は、テキスト、画像、ボタンといったユーザへの�
 
    ![](assets/setting-up-recaptcha-v3-5.png)
 
-1. **[!UICONTROL CAPTCHA]** 設定の [!UICONTROL  編集 ] をクリックします。
+1. **[!UICONTROL CAPTCHA]** 設定の [!UICONTROL &#x200B; 編集 &#x200B;] をクリックします。
 
    ![](assets/setting-up-recaptcha-v3-6.png)
 

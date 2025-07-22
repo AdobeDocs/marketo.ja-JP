@@ -19,4 +19,4 @@ ht-degree: 13%
 
 * [!DNL Salesforce] 管理者と協力して、これらのセキュリティ設定が [!DNL Sales Connect] に干渉していないことを確認します。
 
-* [!DNL Salesforce] 管理者の場合は、「[!UICONTROL  セキュリティ制御 ]」タブの下にフィールドのアクセシビリティを表示できます。 [!DNL Sales Connect] がやり取りする主なフィールドは、[!UICONTROL  アカウント ]、[!UICONTROL  連絡先 ]、[!UICONTROL  オポチュニティ ]、[!UICONTROL  リード ]、[!UICONTROL  タスク ] です。
+* [!DNL Salesforce] 管理者の場合は、「[!UICONTROL &#x200B; セキュリティ制御 &#x200B;]」タブの下にフィールドのアクセシビリティを表示できます。 [!DNL Sales Connect] がやり取りする主なフィールドは、[!UICONTROL &#x200B; アカウント &#x200B;]、[!UICONTROL &#x200B; 連絡先 &#x200B;]、[!UICONTROL &#x200B; オポチュニティ &#x200B;]、[!UICONTROL &#x200B; リード &#x200B;]、[!UICONTROL &#x200B; タスク &#x200B;] です。

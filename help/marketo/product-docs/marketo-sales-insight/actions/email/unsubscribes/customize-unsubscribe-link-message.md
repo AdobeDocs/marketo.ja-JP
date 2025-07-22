@@ -22,7 +22,7 @@ ht-degree: 87%
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. [!UICONTROL  管理者設定 ] で、「**[!UICONTROL 購読解除]**」をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、「**[!UICONTROL 購読解除]**」をクリックします。
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 

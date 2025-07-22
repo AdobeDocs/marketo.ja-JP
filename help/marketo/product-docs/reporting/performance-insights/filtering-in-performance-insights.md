@@ -11,7 +11,7 @@ ht-degree: 90%
 
 ---
 
-# [!UICONTROL  パフォーマンスインサイト ] でのフィルタリング {#filtering-in-performance-insights}
+# [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] でのフィルタリング {#filtering-in-performance-insights}
 
 データを簡単にフィルタリングして、特定の情報に対してクエリを実行します。
 
@@ -80,4 +80,4 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->[!UICONTROL  エンゲージメント ] ダッシュボードでは、プログラムタグとワークスペースフィルターのみ使用できます。
+>[!UICONTROL &#x200B; エンゲージメント &#x200B;] ダッシュボードでは、プログラムタグとワークスペースフィルターのみ使用できます。

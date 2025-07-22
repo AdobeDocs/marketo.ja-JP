@@ -13,9 +13,9 @@ ht-degree: 63%
 
 # 同期ステータス {#sync-status}
 
-「同期ステータス」タブと「同期エラー [!UICONTROL  タブでは、同期プロセスの現在のスループットとバックログ ] タブを [!UICONTROL  認 ] できます。
+「同期ステータス」タブと「同期エラー [!UICONTROL &#x200B; タブでは、同期プロセスの現在のスループットとバックログ &#x200B;] タブを [!UICONTROL &#x200B; 認 &#x200B;] できます。
 
-## [!UICONTROL  同期ステータス ] タブ {#sync-status-tab}
+## [!UICONTROL &#x200B; 同期ステータス &#x200B;] タブ {#sync-status-tab}
 
 1. 「**[!UICONTROL 管理者]**」をクリックし、「**[!UICONTROL Microsoft Dynamics]**」をクリックします。
 
@@ -45,9 +45,9 @@ ht-degree: 63%
 
    >[!NOTE]
    >
-   >[!UICONTROL  最終時間 ] ビューを見ると、[!UICONTROL  挿入 ] 列と [!UICONTROL  更新 ] 列に「なし」と表示されます。これは予期される動作です。
+   >[!UICONTROL &#x200B; 最終時間 &#x200B;] ビューを見ると、[!UICONTROL &#x200B; 挿入 &#x200B;] 列と [!UICONTROL &#x200B; 更新 &#x200B;] 列に「なし」と表示されます。これは予期される動作です。
 
-## [!UICONTROL  同期エラー ] タブ {#sync-errors-tab}
+## [!UICONTROL &#x200B; 同期エラー &#x200B;] タブ {#sync-errors-tab}
 
 操作、方向、エラーコード、エラーメッセージなどの詳細との同期に失敗したリード（およびその他のオブジェクト）の参照、検索、エクスポートを行います。
 

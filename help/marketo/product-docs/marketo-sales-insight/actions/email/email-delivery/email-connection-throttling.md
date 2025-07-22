@@ -33,7 +33,7 @@ ht-degree: 78%
 
    ![](assets/email-connection-throttling-1.png)
 
-1. [!UICONTROL  管理者設定 ] で **[!UICONTROL 一般]** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 一般]** をクリックします。
 
    ![](assets/email-connection-throttling-2.png)
 

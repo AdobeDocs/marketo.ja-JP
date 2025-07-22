@@ -85,19 +85,19 @@ ht-degree: 77%
 >
 >**[[!UICONTROL Web から画像を取得]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** は、[!UICONTROL Design Studio] と同じように機能します。
 
-**[!UICONTROL 開封トラッキングを無効にする]****[!UICONTROL 設定を編集]** では、必要に応じて開封トラッキングを無効にすることができます。
+**[!UICONTROL 開封トラッキングを無効にする]**&#x200B;**[!UICONTROL 設定を編集]** では、必要に応じて開封トラッキングを無効にすることができます。
 
 ![](assets/email-editor-v2-overview-13.png)
 
 **[!UICONTROL 設定を編集]**
 
-オプションで [!UICONTROL  プリヘッダー ] を追加できます。 [!UICONTROL  プリヘッダー ] は、インボックスでメールが表示された際の件名の後の短い概要テキストです。
+オプションで [!UICONTROL &#x200B; プリヘッダー &#x200B;] を追加できます。 [!UICONTROL &#x200B; プリヘッダー &#x200B;] は、インボックスでメールが表示された際の件名の後の短い概要テキストです。
 
 ![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
->メールエディターを使用する場合、トークンが [!UICONTROL  プリヘッダー ] で機能しない。 [!UICONTROL  プリヘッダー ] でトークンを使用するには、メールテンプレートで独自のHTMLを介している必要があります。
+>メールエディターを使用する場合、トークンが [!UICONTROL &#x200B; プリヘッダー &#x200B;] で機能しない。 [!UICONTROL &#x200B; プリヘッダー &#x200B;] でトークンを使用するには、メールテンプレートで独自のHTMLを介している必要があります。
 
 ほかにも、新しい機能がたくさんあります。お楽しみください。
 

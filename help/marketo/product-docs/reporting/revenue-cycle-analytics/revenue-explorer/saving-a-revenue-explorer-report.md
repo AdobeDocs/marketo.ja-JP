@@ -11,9 +11,9 @@ ht-degree: 71%
 
 ---
 
-# [!UICONTROL  収益エクスプローラー ] レポートの保存 {#saving-a-revenue-explorer-report}
+# [!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] レポートの保存 {#saving-a-revenue-explorer-report}
 
-[!UICONTROL  売上高エクスプローラー ] レポートは、選択したファイルに保存できます。
+[!UICONTROL &#x200B; 売上高エクスプローラー &#x200B;] レポートは、選択したファイルに保存できます。
 
 1. 保存アイコンをクリックします。
 
@@ -33,4 +33,4 @@ ht-degree: 71%
 
 >[!MORELIKETHIS]
 >
->[ 収益エクスプローラー [!UICONTROL  レポートのサブスクライブ ] る ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[ 収益エクスプローラー [!UICONTROL &#x200B; レポートのサブスクライブ &#x200B;] る ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

@@ -39,7 +39,7 @@ ht-degree: 90%
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. [!UICONTROL  登録ページ ] ドロップダウンをクリックし、登録ページとして機能するランディングページを選択します。
+1. [!UICONTROL &#x200B; 登録ページ &#x200B;] ドロップダウンをクリックし、登録ページとして機能するランディングページを選択します。
 
    ![](assets/setting-an-event-cap-4.png)
 

@@ -30,4 +30,4 @@ ht-degree: 45%
 1. 「**[!UICONTROL 設定]**」を選択します。
 1. 「**[!UICONTROL アプリの管理]**」を選択します。
 1. 「**[!UICONTROL 接続済みのアプリケーションの OAuth 使用状況]**」を選択します。
-1. [!DNL Sales Connect] の横に「[!UICONTROL  ブロック ]」が表示されていることを確認します。 「[!UICONTROL  ブロック解除 ]」と表示された場合は、ボタンをクリックして、[!DNL Sales Connect] の [!DNL Salesforce] へのアクセスのブロックを解除します。
+1. [!DNL Sales Connect] の横に「[!UICONTROL &#x200B; ブロック &#x200B;]」が表示されていることを確認します。 「[!UICONTROL &#x200B; ブロック解除 &#x200B;]」と表示された場合は、ボタンをクリックして、[!DNL Sales Connect] の [!DNL Salesforce] へのアクセスのブロックを解除します。

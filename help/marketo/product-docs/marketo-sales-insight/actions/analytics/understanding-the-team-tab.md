@@ -10,9 +10,9 @@ ht-degree: 90%
 
 ---
 
-# 「[!UICONTROL  チーム ]」タブについて {#understanding-the-team-tab}
+# 「[!UICONTROL &#x200B; チーム &#x200B;]」タブについて {#understanding-the-team-tab}
 
-「[!UICONTROL  チーム ]」タブでは、3 つの重要な指標をハイライト表示します。
+「[!UICONTROL &#x200B; チーム &#x200B;]」タブでは、3 つの重要な指標をハイライト表示します。
 
 ## テンプレートを使って送信されたメール数 {#emails-sent-with-template}
 

@@ -19,11 +19,11 @@ ht-degree: 80%
 
    ![](assets/one-1.png)
 
-1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL チーム管理]**」を選択します。
+1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、「**[!UICONTROL チーム管理]**」を選択します。
 
    ![](assets/two-1.png)
 
-1. [!UICONTROL  すべてのチーム ] の横の「**+**」をクリックします。
+1. [!UICONTROL &#x200B; すべてのチーム &#x200B;] の横の「**+**」をクリックします。
 
    ![](assets/three-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 80%
 
 ## サブチームにユーザーを追加 {#add-people-to-your-sub-team}
 
-1. [!UICONTROL  チーム管理 ] のまま、**[!UICONTROL 全員]** グループを選択します。
+1. [!UICONTROL &#x200B; チーム管理 &#x200B;] のまま、**[!UICONTROL 全員]** グループを選択します。
 
    ![](assets/five-1.png)
 

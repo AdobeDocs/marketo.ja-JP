@@ -55,7 +55,7 @@ Marketo Sales Insight は言語別に格納されます。したがって、複�
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Marketo に移動します。[[!DNL Marketo Sales Insight] **[!UICONTROL API 設定 ]**詳細 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight) を見つけます。
+1. Marketo に移動します。[[!DNL Marketo Sales Insight] **[!UICONTROL API 設定 &#x200B;]**&#x200B;詳細 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight) を見つけます。
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 

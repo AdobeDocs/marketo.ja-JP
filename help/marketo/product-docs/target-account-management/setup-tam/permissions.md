@@ -31,7 +31,7 @@ ht-degree: 82%
 
    ![](assets/three-2.png)
 
-1. [!UICONTROL  役割名 ] を入力し、「**Access Target アカウント管理**」チェックボックスの横にある「**[!UICONTROL +]**」アイコンをクリックします。
+1. [!UICONTROL &#x200B; 役割名 &#x200B;] を入力し、「**Access Target アカウント管理**」チェックボックスの横にある「**[!UICONTROL +]**」アイコンをクリックします。
 
    ![](assets/permissions-4.png)
 

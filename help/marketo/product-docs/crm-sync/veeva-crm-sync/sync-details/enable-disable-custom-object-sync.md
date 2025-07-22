@@ -62,7 +62,7 @@ ht-degree: 55%
 >
 >スマートキャンペーンでは、カスタムオブジェクトをトリガーと共に使用することはできません。
 
-1. [!UICONTROL  スマートリスト ] で、「**[!UICONTROL 商談あり]**」フィルターにドラッグして **[!UICONTROL True]** に設定します。
+1. [!UICONTROL &#x200B; スマートリスト &#x200B;] で、「**[!UICONTROL 商談あり]**」フィルターにドラッグして **[!UICONTROL True]** に設定します。
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
@@ -70,7 +70,7 @@ ht-degree: 55%
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-これで完了です。これで、このカスタムオブジェクトのデータを [!UICONTROL  スマートキャンペーン ] および [!UICONTROL  スマートリスト ] で使用できるようになりました。
+これで完了です。これで、このカスタムオブジェクトのデータを [!UICONTROL &#x200B; スマートキャンペーン &#x200B;] および [!UICONTROL &#x200B; スマートリスト &#x200B;] で使用できるようになりました。
 
 >[!MORELIKETHIS]
 >

@@ -57,7 +57,7 @@ ht-degree: 94%
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. 表示された [!UICONTROL  モデルを未承認 ] ダイアログで、「**[!UICONTROL 未承認]**」をクリックします。
+1. 表示された [!UICONTROL &#x200B; モデルを未承認 &#x200B;] ダイアログで、「**[!UICONTROL 未承認]**」をクリックします。
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

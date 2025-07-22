@@ -41,11 +41,11 @@ ht-degree: 51%
 
    ![](assets/win-3.png)
 
-1. [[!UICONTROL Microsoft Outlook のセキュリティ センター ]] で、[**[!UICONTROL セキュリティ センターの設定]**] をクリックします。
+1. [[!UICONTROL Microsoft Outlook のセキュリティ センター &#x200B;]] で、[**[!UICONTROL セキュリティ センターの設定]**] をクリックします。
 
    ![](assets/win-4.png)
 
-1. 左側のメニューの [!UICONTROL  自動ダウンロード ] をクリックし、[**[!UICONTROL HTML E メールまたは RSS アイテムの画像を自動的にダウンロードしない]**] チェック ボックスをオンにします。
+1. 左側のメニューの [!UICONTROL &#x200B; 自動ダウンロード &#x200B;] をクリックし、[**[!UICONTROL HTML E メールまたは RSS アイテムの画像を自動的にダウンロードしない]**] チェック ボックスをオンにします。
 
    ![](assets/win-5.png)
 
@@ -53,7 +53,7 @@ ht-degree: 51%
 
    ![](assets/win-6.png)
 
-1. [**[!UICONTROL オプション ] ダイアログ ボックスで []** OK[!DNL Outlook]] をクリックします。
+1. [**[!UICONTROL オプション &#x200B;] ダイアログ ボックスで []** OK[!DNL Outlook]] をクリックします。
 
    ![](assets/win-6.png)
 
@@ -65,10 +65,10 @@ ht-degree: 51%
 
    ![](assets/mac-1.png)
 
-1. [!UICONTROL  電子メール ] の下で **[!UICONTROL 読み取り]** を選択します。
+1. [!UICONTROL &#x200B; 電子メール &#x200B;] の下で **[!UICONTROL 読み取り]** を選択します。
 
    ![](assets/mac-2.png)
 
-1. [!UICONTROL  セキュリティ ] の下の **[!UICONTROL なし]** ラジオボタンをクリックします。
+1. [!UICONTROL &#x200B; セキュリティ &#x200B;] の下の **[!UICONTROL なし]** ラジオボタンをクリックします。
 
    ![](assets/mac-3.png)

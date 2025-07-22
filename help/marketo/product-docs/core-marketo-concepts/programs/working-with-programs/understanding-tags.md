@@ -29,7 +29,7 @@ ht-degree: 82%
 >
 >**例**
 >
->* [!UICONTROL  タグタイプ ] = プログラム所有者
+>* [!UICONTROL &#x200B; タグタイプ &#x200B;] = プログラム所有者
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 

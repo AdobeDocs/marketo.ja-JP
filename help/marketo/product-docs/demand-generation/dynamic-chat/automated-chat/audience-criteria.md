@@ -28,7 +28,7 @@ Marketo Engage スマートリストと同様に、オーディエンス条件�
 
    ![](assets/audience-criteria-3.png)
 
-1. 「[!UICONTROL  次よりも大きい ]」時間を 20 秒に設定します。
+1. 「[!UICONTROL &#x200B; 次よりも大きい &#x200B;]」時間を 20 秒に設定します。
 
    ![](assets/audience-criteria-4.png)
 

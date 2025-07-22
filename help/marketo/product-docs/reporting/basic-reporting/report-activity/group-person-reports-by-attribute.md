@@ -31,7 +31,7 @@ ht-degree: 79%
    >
    >[セグメント別にリードレポートをグループ化](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md)することもできます。
 
-   [!UICONTROL  グループ化の条件 ] ダイアログで、グループ化に使用するユーザーまたは会社の属性を選択します。
+   [!UICONTROL &#x200B; グループ化の条件 &#x200B;] ダイアログで、グループ化に使用するユーザーまたは会社の属性を選択します。
 
    ![](assets/image2017-3-28-11-3a34-3a42.png)
 

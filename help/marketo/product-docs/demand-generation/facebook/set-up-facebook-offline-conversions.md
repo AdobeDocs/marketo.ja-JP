@@ -30,7 +30,7 @@ ht-degree: 50%
 
    >[!NOTE]
    >
-   >まだ行っていない場合は、[Facebook リード広告の設定 [!UICONTROL  を行い、ここに戻っ ]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) ください。
+   >まだ行っていない場合は、[Facebook リード広告の設定 [!UICONTROL &#x200B; を行い、ここに戻っ &#x200B;]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) ください。
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 

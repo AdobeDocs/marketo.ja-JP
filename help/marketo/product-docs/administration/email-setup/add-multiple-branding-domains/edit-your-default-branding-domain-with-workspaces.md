@@ -21,7 +21,7 @@ ht-degree: 86%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. [!UICONTROL  ブランディングドメイン ] テーブルで、現在の汎用ドメインを選択し、**[!UICONTROL 編集]** をクリックして、会社のブランドドメインに変更します。
+1. [!UICONTROL &#x200B; ブランディングドメイン &#x200B;] テーブルで、現在の汎用ドメインを選択し、**[!UICONTROL 編集]** をクリックして、会社のブランドドメインに変更します。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 

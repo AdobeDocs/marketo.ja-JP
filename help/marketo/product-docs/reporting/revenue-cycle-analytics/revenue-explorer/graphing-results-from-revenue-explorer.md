@@ -11,9 +11,9 @@ ht-degree: 90%
 
 ---
 
-# [!UICONTROL  収益エクスプローラー ] からのグラフ結果 {#graphing-results-from-revenue-explorer}
+# [!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] からのグラフ結果 {#graphing-results-from-revenue-explorer}
 
-デフォルトでは、[!UICONTROL  収益エクスプローラー ] のレポートはテーブルとして表示されます。 また、結果を様々な形式のグラフとして表示するオプションもあります。
+デフォルトでは、[!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] のレポートはテーブルとして表示されます。 また、結果を様々な形式のグラフとして表示するオプションもあります。
 
 1. レポートの&#x200B;**[!UICONTROL 表示形式]**&#x200B;ドロップダウンメニューで矢印をクリックします。異なるグラフオプションが表示されます。
 
@@ -37,7 +37,7 @@ ht-degree: 90%
 
 ![](assets/line.png)
 
-**[!UICONTROL 列行コンボ]**: [!UICONTROL  列 ] グラフと [!UICONTROL  行 ] グラフの組み合わせ。
+**[!UICONTROL 列行コンボ]**: [!UICONTROL &#x200B; 列 &#x200B;] グラフと [!UICONTROL &#x200B; 行 &#x200B;] グラフの組み合わせ。
 
 ![](assets/column-line-combo.png)
 

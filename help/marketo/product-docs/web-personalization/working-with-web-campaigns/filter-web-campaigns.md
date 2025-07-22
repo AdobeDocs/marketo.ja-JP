@@ -19,7 +19,7 @@ ht-degree: 69%
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. [!UICONTROL Web キャンペーン ] ページで、「**[!UICONTROL フィルター]**」をクリックします。
+1. [!UICONTROL Web キャンペーン &#x200B;] ページで、「**[!UICONTROL フィルター]**」をクリックします。
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 

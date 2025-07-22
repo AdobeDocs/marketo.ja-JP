@@ -21,7 +21,7 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >ほとんどのMarketo[!UICONTROL  スターターテンプレート ] には [!UICONTROL  モジュール ] が含まれています。 また、[独自のものを作成](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules)することもできます。
+   >ほとんどのMarketo[!UICONTROL &#x200B; スターターテンプレート &#x200B;] には [!UICONTROL &#x200B; モジュール &#x200B;] が含まれています。 また、[独自のものを作成](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules)することもできます。
 
 1. メールの右端にある「**[!UICONTROL モジュール]**」をクリックします。
 

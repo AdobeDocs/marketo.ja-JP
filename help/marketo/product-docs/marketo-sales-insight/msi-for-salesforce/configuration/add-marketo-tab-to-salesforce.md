@@ -16,7 +16,7 @@ ht-degree: 63%
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. 左側のリストで「Marketo 」を選択します。次に、「**[!UICONTROL 追加]**」をクリックして **[!UICONTROL 選択済み ] タブ** に追加します。
+1. 左側のリストで「Marketo 」を選択します。次に、「**[!UICONTROL 追加]**」をクリックして **[!UICONTROL 選択済み &#x200B;] タブ** に追加します。
 
    >[!TIP]
    >

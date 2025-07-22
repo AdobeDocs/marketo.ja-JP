@@ -11,7 +11,7 @@ ht-degree: 86%
 
 ---
 
-# アカウントリストへの既存の [!UICONTROL  名前付きアカウント ] の追加 {#add-an-existing-named-account-to-an-account-list}
+# アカウントリストへの既存の [!UICONTROL &#x200B; 名前付きアカウント &#x200B;] の追加 {#add-an-existing-named-account-to-an-account-list}
 
 既存の重点顧客を顧客リストに追加する操作は簡単です。
 
@@ -35,4 +35,4 @@ ht-degree: 86%
 
 >[!MORELIKETHIS]
 >
->[ 指定アカウント [!UICONTROL  の作成 ]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[ 指定アカウント [!UICONTROL &#x200B; の作成 &#x200B;]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

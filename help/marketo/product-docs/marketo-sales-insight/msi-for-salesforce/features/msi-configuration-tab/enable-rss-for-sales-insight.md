@@ -27,7 +27,7 @@ Marketo ユーザーが [!DNL Salesforce] だけでなく RSS フィードでも
 
    ![](assets/rss-settings-tab.png)
 
-1. [!UICONTROL  設定を編集 ] ダイアログボックスで、「**[!UICONTROL RSS フィード]**」チェックボックスをオンにして、「**[!UICONTROL 保存]**」をクリックします。
+1. [!UICONTROL &#x200B; 設定を編集 &#x200B;] ダイアログボックスで、「**[!UICONTROL RSS フィード]**」チェックボックスをオンにして、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/rss-edit-settings-2-hands.png)
 

@@ -13,7 +13,7 @@ ht-degree: 53%
 
 # [!DNL Marketo Sales Insight] 用 [!DNL Microsoft Dynamics] ソリューションのアップグレード {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
-[!DNL Microsoft Dynamics] 用に新しい [!DNL Sales Insight] ソリューションがリリースされた場合は、アカウントの [!UICONTROL  管理者 ] 領域からアップグレードをダウンロードできます。
+[!DNL Microsoft Dynamics] 用に新しい [!DNL Sales Insight] ソリューションがリリースされた場合は、アカウントの [!UICONTROL &#x200B; 管理者 &#x200B;] 領域からアップグレードをダウンロードできます。
 
 >[!NOTE]
 >

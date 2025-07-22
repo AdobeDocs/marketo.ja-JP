@@ -55,7 +55,7 @@ ht-degree: 62%
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. Marketoに [!UICONTROL Facebook リード広告 ] を取り込ませるページを選択し、「**[!UICONTROL 次へ]**」をクリックします。
+1. Marketoに [!UICONTROL Facebook リード広告 &#x200B;] を取り込ませるページを選択し、「**[!UICONTROL 次へ]**」をクリックします。
 
    >[!TIP]
    >

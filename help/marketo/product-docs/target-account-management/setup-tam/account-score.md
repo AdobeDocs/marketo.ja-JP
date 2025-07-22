@@ -11,9 +11,9 @@ ht-degree: 82%
 
 ---
 
-# [!UICONTROL  アカウントのスコア ] {#account-score}
+# [!UICONTROL &#x200B; アカウントのスコア &#x200B;] {#account-score}
 
-アカウントのスコアリングは、[!UICONTROL Target アカウント管理 ] の重要な部分です。 アカウントのエンゲージメントレベルを判断するのに役立ちます。
+アカウントのスコアリングは、[!UICONTROL Target アカウント管理 &#x200B;] の重要な部分です。 アカウントのエンゲージメントレベルを判断するのに役立ちます。
 
 ## アカウントのスコアリングとは {#what-is-account-scoring}
 
@@ -65,15 +65,15 @@ B2B の購入プロセスの複雑な世界では、1 人の個人が購入を�
 
    ![](assets/account-score-2.png)
 
-1. [!UICONTROL  スコアリングフィールド ] で、**[!UICONTROL 編集]** をクリックします。
+1. [!UICONTROL &#x200B; スコアリングフィールド &#x200B;] で、**[!UICONTROL 編集]** をクリックします。
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >最大 **5 個** のフィールドを選択して、[!UICONTROL  アカウントスコア ] を計算できます。
+   >最大 **5 個** のフィールドを選択して、[!UICONTROL &#x200B; アカウントスコア &#x200B;] を計算できます。
 
-1. [!UICONTROL  アカウントスコア ] の名前を入力し、「**[!UICONTROL 人物スコアを選択]**」ドロップダウンをクリックして、対応するスコアを選択します。
+1. [!UICONTROL &#x200B; アカウントスコア &#x200B;] の名前を入力し、「**[!UICONTROL 人物スコアを選択]**」ドロップダウンをクリックして、対応するスコアを選択します。
 
    ![](assets/account-score-4.png)
 

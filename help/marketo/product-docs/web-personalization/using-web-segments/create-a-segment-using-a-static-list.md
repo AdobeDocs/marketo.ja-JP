@@ -47,6 +47,6 @@ ht-degree: 89%
    >
    >And/or ドロップダウンは、それだけです。クリックして **[!UICONTROL and]**、**[!UICONTROL or]**、**[!UICONTROL and/or]** のいずれかを選択します。
 
-1. 「**[!UICONTROL 保存]**」をクリックしてセグメントを保存するか、「**[!UICONTROL 保存してキャンペーンを定義]**」をクリックして保存し、「[!UICONTROL  キャンペーン ]」ページに移動します。
+1. 「**[!UICONTROL 保存]**」をクリックしてセグメントを保存するか、「**[!UICONTROL 保存してキャンペーンを定義]**」をクリックして保存し、「[!UICONTROL &#x200B; キャンペーン &#x200B;]」ページに移動します。
 
    ![](assets/eight-1.png)

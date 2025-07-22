@@ -13,23 +13,23 @@ ht-degree: 73%
 
 # リード効果レポート {#people-performance-report}
 
-[!UICONTROL  人物パフォーマンス ] レポートを使用して、データベースの増加率を経時的に測定します。 追加した人数と追加した日時を確認できます。リードの詳細を確認し、プログラムを評価します。個人属性または会社属性、または[セグメント化](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)で結果をグループ化します。
+[!UICONTROL &#x200B; 人物パフォーマンス &#x200B;] レポートを使用して、データベースの増加率を経時的に測定します。 追加した人数と追加した日時を確認できます。リードの詳細を確認し、プログラムを評価します。個人属性または会社属性、または[セグメント化](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)で結果をグループ化します。
 
-1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL リード効果]**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
+1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL リード効果]**&#x200B;[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**[!UICONTROL レポート]**」タブをクリックします。
 
-1. これで完了です。これで、[!UICONTROL  人物パフォーマンス ] レポートを調査する準備が整いました。 以下のリストで、さらに詳しい情報を得る方法を説明します。
+1. これで完了です。これで、[!UICONTROL &#x200B; 人物パフォーマンス &#x200B;] レポートを調査する準備が整いました。 以下のリストで、さらに詳しい情報を得る方法を説明します。
 
    >[!NOTE]
    >
-   >デフォルトでは、[!UICONTROL  人物パフォーマンス ] レポートは *[!UICONTROL 作成日]* 月ごとにグループ化されます。
+   >デフォルトでは、[!UICONTROL &#x200B; 人物パフォーマンス &#x200B;] レポートは *[!UICONTROL 作成日]* 月ごとにグループ化されます。
 
    ![](assets/one.png)
 
 ## リード効果レポートの機能 {#the-power-of-people-performance-reports}
 
-[!UICONTROL  人物パフォーマンス ] レポートは非常に強力です。 さらにグループ化、フィルタリング、設定することで、[!UICONTROL  データベース ] 内のユーザーや、プログラムの有効性について多くのことを学習できます。
+[!UICONTROL &#x200B; 人物パフォーマンス &#x200B;] レポートは非常に強力です。 さらにグループ化、フィルタリング、設定することで、[!UICONTROL &#x200B; データベース &#x200B;] 内のユーザーや、プログラムの有効性について多くのことを学習できます。
 
 次の操作が可能です。
 

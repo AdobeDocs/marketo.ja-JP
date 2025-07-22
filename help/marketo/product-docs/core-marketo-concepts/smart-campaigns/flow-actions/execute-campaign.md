@@ -89,7 +89,7 @@ True に設定した場合、次のトークンコンテキストが子キャン
 
 ### 例 1 - True {#example-one-true}
 
-最初の親キャンペーンのキャンペーンフローを実行手順で、「[!UICONTROL  親キャンペーントークンコンテキストを使用 ]」が **[!UICONTROL True]** に設定されています。
+最初の親キャンペーンのキャンペーンフローを実行手順で、「[!UICONTROL &#x200B; 親キャンペーントークンコンテキストを使用 &#x200B;]」が **[!UICONTROL True]** に設定されています。
 
 ![](assets/execute-campaign-5.png)
 

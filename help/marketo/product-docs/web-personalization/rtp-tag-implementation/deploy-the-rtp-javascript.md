@@ -15,7 +15,7 @@ ht-degree: 90%
 
 RTP タグを生成して設定するには、以下のインストール手順に従ってください
 
-## [!UICONTROL  タグを生成 ] {#generate-tag}
+## [!UICONTROL &#x200B; タグを生成 &#x200B;] {#generate-tag}
 
 1. RTP アカウントにログインします。「**[!UICONTROL アカウント設定]**」に移動します。
 
@@ -35,9 +35,9 @@ RTP タグを生成して設定するには、以下のインストール手順�
 
    ランディングページとサブドメインも含めて、すべてのページにタグがあることを確認してください。Web サイトのページを右クリックして、これを確認します。Web ブラウザーで「ページソースを表示」に移動します。「RTP」を検索します。
 
-1. [!UICONTROL  タグ ] 切り替えを **[!UICONTROL オン]** に設定。
+1. [!UICONTROL &#x200B; タグ &#x200B;] 切り替えを **[!UICONTROL オン]** に設定。
 
-   [!UICONTROL  タグ ] 切り替えが [!UICONTROL  オン ] に設定されていることを確認します。 「組織」タブにデータが入り始めます。
+   [!UICONTROL &#x200B; タグ &#x200B;] 切り替えが [!UICONTROL &#x200B; オン &#x200B;] に設定されていることを確認します。 「組織」タブにデータが入り始めます。
 
    これで、RTP タグが設定され、[セグメント](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)とリアルタイムキャンペーンの作成を開始する準備が整いました。
 

@@ -48,7 +48,7 @@ ht-degree: 44%
 
    >[!NOTE]
    >
-   >同期ユーザーから Marketo で[不要なフィールドをすべて非表示](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)にした後で、「**[!UICONTROL 同期フィールド]**」をクリックするようにしてください。[!UICONTROL  フィールドを同期 ] をクリックすると、ユーザーに表示されるすべてのフィールドは、Marketoに完全に作成され、削除できなくなります。
+   >同期ユーザーから Marketo で[不要なフィールドをすべて非表示](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)にした後で、「**[!UICONTROL 同期フィールド]**」をクリックするようにしてください。[!UICONTROL &#x200B; フィールドを同期 &#x200B;] をクリックすると、ユーザーに表示されるすべてのフィールドは、Marketoに完全に作成され、削除できなくなります。
 
 1. [!DNL Salesforce] 設定のパート 2 （[!DNL Salesforce]Professional[ または ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)Enterprise[）で作成した ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) Sync User 資格情報を入力して、**[!UICONTROL フィールドを同期]** （Marketo サンドボックスを **[!UICONTROL サンドボックスに同期する場合のみ]** サンドボックス [!DNL Salesforce] をオンにします）をクリックします。
 
@@ -64,7 +64,7 @@ ht-degree: 44%
 
    >[!CAUTION]
    >
-   >[マッピングを調べてカスタマイズしたい](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)場合、これが唯一のチャンスです。[!UICONTROL Salesforce同期を開始 ] をクリックすると、完了です。
+   >[マッピングを調べてカスタマイズしたい](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)場合、これが唯一のチャンスです。[!UICONTROL Salesforce同期を開始 &#x200B;] をクリックすると、完了です。
 
 ## 同期 [!DNL Salesforce] 開始 {#start-salesforce-sync}
 

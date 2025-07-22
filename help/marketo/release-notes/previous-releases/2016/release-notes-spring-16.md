@@ -67,7 +67,7 @@ Marketo ユーザログインの IP 許可リストに追加する機能と同�
 
 **新しいフィールドのデータを更新**：任意の時点で新しい同期フィールドを有効にでき、そのフィールドのすべてのデータ値が [!DNL Dynamics] CRM からMarketoに更新されるようになりました。 初期設定時にすべてのフィールドを選択する必要が生じる心配はなくなりました。既存の同期フィールドを無効にし、後で再度有効にすると、そのフィールドのすべてのデータ値が [!DNL Dynamics] CRM からMarketoに更新されます。
 
-**リードを連絡先として同期**: [!UICONTROL  リードをMicrosoftに同期 ] フローアクションには、リードまたは連絡先として同期する新しいオプションが追加されました。
+**リードを連絡先として同期**: [!UICONTROL &#x200B; リードをMicrosoftに同期 &#x200B;] フローアクションには、リードまたは連絡先として同期する新しいオプションが追加されました。
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -77,7 +77,7 @@ Marketo ユーザログインの IP 許可リストに追加する機能と同�
 
 **[!DNL Microsoft Dynamics]2016**：コネクタは、[!DNL Dynamics] 2016 [!DNL Online] および [!DNL On-premise] バージョンで完全に認定されています。
 
-**プラグインのアップデートに関するドキュメントが追加されました。**[プラグインの更新に関するドキュメントの記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
+**プラグインのアップデートに関するドキュメントが追加されました。**&#x200B;[プラグインの更新に関するドキュメントの記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
 
 ## [わかりやすいインスタンス名](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 

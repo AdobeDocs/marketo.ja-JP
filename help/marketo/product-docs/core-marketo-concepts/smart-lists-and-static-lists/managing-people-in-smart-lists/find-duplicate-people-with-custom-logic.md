@@ -33,10 +33,10 @@ Marketo Engageには、メールアドレスを照合して重複するユーザ
 
 1. 次の 4 つのオプションの中から 1 つを選択します。
 
-   * [!UICONTROL  メールアドレス ]
-   * [!UICONTROL  姓名 ]
-   * [!UICONTROL  姓 ]
-   * [!UICONTROL  更新日時 ]
+   * [!UICONTROL &#x200B; メールアドレス &#x200B;]
+   * [!UICONTROL &#x200B; 姓名 &#x200B;]
+   * [!UICONTROL &#x200B; 姓 &#x200B;]
+   * [!UICONTROL &#x200B; 更新日時 &#x200B;]
 
    >[!NOTE]
    >

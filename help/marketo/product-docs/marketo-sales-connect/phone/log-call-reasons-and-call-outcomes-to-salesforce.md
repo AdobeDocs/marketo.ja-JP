@@ -39,7 +39,7 @@ ht-degree: 63%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
-1. データタイプ「[!UICONTROL  テキスト ]」を選択し、「次へ **[!UICONTROL をクリック]** ます。
+1. データタイプ「[!UICONTROL &#x200B; テキスト &#x200B;]」を選択し、「次へ **[!UICONTROL をクリック]** ます。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
@@ -105,7 +105,7 @@ ht-degree: 63%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. 「クイック検索」ボックスに「[!UICONTROL  アクティビティ ]」と入力します。
+1. 「クイック検索」ボックスに「[!UICONTROL &#x200B; アクティビティ &#x200B;]」と入力します。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 

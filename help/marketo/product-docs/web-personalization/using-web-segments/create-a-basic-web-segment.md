@@ -43,7 +43,7 @@ ht-degree: 92%
 
    ![](assets/industries-hand.jpg)
 
-1. ドロップダウンから追加する [!UICONTROL  業種 ] を選択します。 **[!UICONTROL 金融サービス ] 業界** を選択します。
+1. ドロップダウンから追加する [!UICONTROL &#x200B; 業種 &#x200B;] を選択します。 **[!UICONTROL 金融サービス &#x200B;] 業界** を選択します。
 
    ![](assets/segment-industries.png)
 

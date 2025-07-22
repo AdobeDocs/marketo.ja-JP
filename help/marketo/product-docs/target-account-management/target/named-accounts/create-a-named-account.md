@@ -11,11 +11,11 @@ ht-degree: 63%
 
 ---
 
-# [!UICONTROL  指定アカウント ] の作成 {#create-a-named-account}
+# [!UICONTROL &#x200B; 指定アカウント &#x200B;] の作成 {#create-a-named-account}
 
 重点顧客を手動で作成するには、次の手順に従います。
 
-1. [!UICONTROL  重点顧客 ] で「新規 **[!UICONTROL 」ドロップダウンをクリックし]** 「**[!UICONTROL 重点顧客の作成]**」を選択します。
+1. [!UICONTROL &#x200B; 重点顧客 &#x200B;] で「新規 **[!UICONTROL 」ドロップダウンをクリックし]** 「**[!UICONTROL 重点顧客の作成]**」を選択します。
 
    ![](assets/two-1.png)
 
@@ -29,4 +29,4 @@ ht-degree: 63%
 
 >[!MORELIKETHIS]
 >
->[ 指定アカウント [!UICONTROL  へのユーザーの追加 ]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+>[ 指定アカウント [!UICONTROL &#x200B; へのユーザーの追加 &#x200B;]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)

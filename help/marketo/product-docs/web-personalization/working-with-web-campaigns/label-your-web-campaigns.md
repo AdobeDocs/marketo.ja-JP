@@ -17,7 +17,7 @@ ht-degree: 93%
 
 ## Web キャンペーンにラベルを追加する {#add-a-label-to-a-web-campaign}
 
-1. [!DNL Web Personalization] にログインし、[!UICONTROL Web キャンペーン ] エリアに移動します。
+1. [!DNL Web Personalization] にログインし、[!UICONTROL Web キャンペーン &#x200B;] エリアに移動します。
 
    ![](assets/web-campaigns-hand.jpg)
 

@@ -42,7 +42,7 @@ ht-degree: 83%
 
 <table>
  <tr>
-  <td><strong>[!UICONTROL テンプレート ]</strong></td>
+  <td><strong>[!UICONTROL テンプレート &#x200B;]</strong></td>
   <td>レビューして編集したり、条件を設定してテンプレートを推奨テンプレートにしたり、メモを追加したりできます</td>
  </tr>
  <tr>
@@ -54,7 +54,7 @@ ht-degree: 83%
   <td>このテンプレートを使用して送信されたすべてのメールを表示します。フィルターを適用した検索を実行します。</td>
  </tr>
  <tr>
-  <td><strong>[!UICONTROL キャンペーン ]</strong></td>
+  <td><strong>[!UICONTROL キャンペーン &#x200B;]</strong></td>
   <td>テンプレートが使用されているキャンペーンを確認します。</td>
  </tr>
 </table>
@@ -77,9 +77,9 @@ ht-degree: 83%
 
    >[!NOTE]
    >
-   >共有されているテンプレートは、**[!UICONTROL テンプレート]** ページの左側にある [!UICONTROL  チームテンプレート ] ヘッダーに表示されます。 チームは、Premium ユーザのみが使用できます。
+   >共有されているテンプレートは、**[!UICONTROL テンプレート]** ページの左側にある [!UICONTROL &#x200B; チームテンプレート &#x200B;] ヘッダーに表示されます。 チームは、Premium ユーザのみが使用できます。
 
-1. [!UICONTROL  共有先 ] ドロップダウンをクリックして、共有するチームを選択します。
+1. [!UICONTROL &#x200B; 共有先 &#x200B;] ドロップダウンをクリックして、共有するチームを選択します。
 
    ![](assets/manage-templates-8.png)
 

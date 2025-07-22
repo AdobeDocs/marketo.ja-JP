@@ -17,7 +17,7 @@ ht-degree: 70%
 
 ## グループの作成 {#create-a-group}
 
-1. [!UICONTROL  人物 ] ページで、「**グループ** の横の [!UICONTROL +] をクリックします。
+1. [!UICONTROL &#x200B; 人物 &#x200B;] ページで、「**グループ** の横の [!UICONTROL +] をクリックします。
 
    ![](assets/one-4.png)
 
@@ -29,7 +29,7 @@ ht-degree: 70%
 
 ## グループに取引先責任者を追加 {#add-contacts-to-a-group}
 
-1. [!UICONTROL  ユーザー ] ページで、ユーザーを追加するグループを見つけて選択します。
+1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、ユーザーを追加するグループを見つけて選択します。
 
    ![](assets/three-3.png)
 
@@ -53,7 +53,7 @@ ht-degree: 70%
 
 ## グループの共有 {#share-a-group}
 
-1. [!UICONTROL  ユーザー ] ページで、共有するグループを見つけて選択します。
+1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、共有するグループを見つけて選択します。
 
    ![](assets/six.png)
 
@@ -73,7 +73,7 @@ ht-degree: 70%
 
 ## グループの共有解除 {#unshare-a-group}
 
-1. [!UICONTROL  ユーザー ] ページで、共有を解除するグループを見つけて選択します。
+1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、共有を解除するグループを見つけて選択します。
 
    ![](assets/ten.png)
 
@@ -89,7 +89,7 @@ ht-degree: 70%
 
 ## グループ名の変更 {#rename-a-group}
 
-1. [!UICONTROL  ユーザー ] ページで、名前を変更するグループを見つけて選択します。
+1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、名前を変更するグループを見つけて選択します。
 
    ![](assets/six.png)
 
@@ -103,7 +103,7 @@ ht-degree: 70%
 
 ## グループの削除 {#delete-a-group}
 
-1. [!UICONTROL  ユーザー ] ページで、削除するグループを見つけて選択します。
+1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、削除するグループを見つけて選択します。
 
    ![](assets/fifteen.png)
 

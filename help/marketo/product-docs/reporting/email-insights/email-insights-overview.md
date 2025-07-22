@@ -13,7 +13,7 @@ ht-degree: 71%
 
 # メールインサイトの概要 {#email-insights-overview}
 
-**[!UICONTROL メールインサイト]** は、メールマーケターに履歴データからの強力なインサイトを提供します。 これは、2 つの独立した、しかし関連するセクション、[!UICONTROL Analytics] と [!UICONTROL  送信 ] で構成されています。
+**[!UICONTROL メールインサイト]** は、メールマーケターに履歴データからの強力なインサイトを提供します。 これは、2 つの独立した、しかし関連するセクション、[!UICONTROL Analytics] と [!UICONTROL &#x200B; 送信 &#x200B;] で構成されています。
 
 **[!UICONTROL メールインサイト]** にアクセスするには、マイMarketo（または Analytics のホーム画面）でタイルをクリックするだけです。
 
@@ -31,7 +31,7 @@ ht-degree: 71%
 
 **フィルター**
 
-高度な[フィルター](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)を使用して、オーディエンス、コンテンツ、プラットフォーム別に結果を分析します。同じフィルターが [!UICONTROL Analytics] と [!UICONTROL  送信 ] の両方に適用されます。
+高度な[フィルター](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)を使用して、オーディエンス、コンテンツ、プラットフォーム別に結果を分析します。同じフィルターが [!UICONTROL Analytics] と [!UICONTROL &#x200B; 送信 &#x200B;] の両方に適用されます。
 
 ![](assets/filter.png)
 
@@ -41,7 +41,7 @@ ht-degree: 71%
 
 ![](assets/three.png)
 
-## [!UICONTROL  送信数 ] {#sends}
+## [!UICONTROL &#x200B; 送信数 &#x200B;] {#sends}
 
 [[!UICONTROL 送信]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)ページでは、最近のメール通信の特性を調べます。
 

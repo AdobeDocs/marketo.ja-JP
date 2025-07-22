@@ -52,7 +52,7 @@ ht-degree: 70%
 
    >[!NOTE]
    >
-   >* Marketoの [!UICONTROL  ユーザー名 ] は、CRM の同期ユーザーのユーザー名と一致する必要があります。 形式は、`user@domain.com` または DOMAIN\user です。
+   >* Marketoの [!UICONTROL &#x200B; ユーザー名 &#x200B;] は、CRM の同期ユーザーのユーザー名と一致する必要があります。 形式は、`user@domain.com` または DOMAIN\user です。
    >* URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
 ## 同期するフィールドを選択 {#select-fields-to-sync}
@@ -79,7 +79,7 @@ ht-degree: 70%
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. **[!UICONTROL フィールド同期の詳細]** で [!UICONTROL  編集 ] をクリックします。
+1. **[!UICONTROL フィールド同期の詳細]** で [!UICONTROL &#x200B; 編集 &#x200B;] をクリックします。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 

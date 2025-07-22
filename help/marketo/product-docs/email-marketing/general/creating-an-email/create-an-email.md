@@ -27,7 +27,7 @@ Marketo でメールを作成する方法は主に 2 つあります。両方を
 
    >[!NOTE]
    >
-   >[!UICONTROL Design Studio] でメールを作成すると、「[!UICONTROL  メール ]」の下のツリーに表示されます。
+   >[!UICONTROL Design Studio] でメールを作成すると、「[!UICONTROL &#x200B; メール &#x200B;]」の下のツリーに表示されます。
 
 シンプルです。もう 1 つは…
 

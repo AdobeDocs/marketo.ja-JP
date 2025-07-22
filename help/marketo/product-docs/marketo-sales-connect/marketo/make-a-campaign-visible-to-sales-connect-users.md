@@ -39,7 +39,7 @@ ht-degree: 84%
 
    ![](assets/make-a-marketing-campaign-visible-msc-6.png)
 
-1. 「[!UICONTROL  タイプ ]」には、「**[!UICONTROL Web]**」を選択します。
+1. 「[!UICONTROL &#x200B; タイプ &#x200B;]」には、「**[!UICONTROL Web]**」を選択します。
 
    ![](assets/make-a-marketing-campaign-visible-msc-7.png)
 

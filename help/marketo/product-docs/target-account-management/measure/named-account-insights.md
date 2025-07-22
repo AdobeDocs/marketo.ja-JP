@@ -25,11 +25,11 @@ ht-degree: 79%
 >
 >グラフには、過去 90 日間のインサイトが表示されます。
 
-**[!UICONTROL 経時的なアカウントのエンゲージメント]**&#x200B;右側の「**[!UICONTROL 表示]**」ドロップダウンをクリックして、表示内容を変更します。[!UICONTROL  アカウントスコア ] に加えて、[!UICONTROL  合計売上高 ] 別に表示できます。
+**[!UICONTROL 経時的なアカウントのエンゲージメント]**&#x200B;右側の「**[!UICONTROL 表示]**」ドロップダウンをクリックして、表示内容を変更します。[!UICONTROL &#x200B; アカウントスコア &#x200B;] に加えて、[!UICONTROL &#x200B; 合計売上高 &#x200B;] 別に表示できます。
 
 ![](assets/two-new.png)
 
-...または [!UICONTROL  パイプライン ].
+...または [!UICONTROL &#x200B; パイプライン &#x200B;].
 
 ![](assets/three-new.png)
 
@@ -84,9 +84,9 @@ ht-degree: 79%
 
 ![](assets/four-1.png)
 
-## [!UICONTROL  潜在ユーザー ] {#potential-people}
+## [!UICONTROL &#x200B; 潜在ユーザー &#x200B;] {#potential-people}
 
-リードとアカウントのマッチングでは、ファジーロジックを使用して、「潜在的な人物 [!UICONTROL  タブで解決できる弱い一致を見つけ ] す。
+リードとアカウントのマッチングでは、ファジーロジックを使用して、「潜在的な人物 [!UICONTROL &#x200B; タブで解決できる弱い一致を見つけ &#x200B;] す。
 
 ![](assets/five-1.png)
 
@@ -94,13 +94,13 @@ ht-degree: 79%
 >
 >リストに表示された任意のユーザーを追加するには、ユーザーを選択し、「**[!UICONTROL ユーザーを追加]**」をクリックします。
 
-## [!UICONTROL  使用者 ] {#used-by}
+## [!UICONTROL &#x200B; 使用者 &#x200B;] {#used-by}
 
 このタブには、特定の重点顧客またはアカウントリストを現在参照しているスマートキャンペーン、web キャンペーン、スマートリストまたはレポートが表示されます。
 
 ![](assets/six-1.png)
 
-## [!UICONTROL  アカウントチーム ] {#account-team}
+## [!UICONTROL &#x200B; アカウントチーム &#x200B;] {#account-team}
 
 このタブで、アカウントチームのメンバーの表示、メンバーの追加／削除、アカウント所有者の割り当てをおこないます。
 
@@ -110,8 +110,8 @@ ht-degree: 79%
 >
 >「**[!UICONTROL アカウントチームのアクション]**」ドロップダウンをクリックして、アカウントメンバーを追加または削除するか、アカウント所有者を割り当てます。
 
-## [!UICONTROL ICP 指標 ] {#icp-indicators}
+## [!UICONTROL ICP 指標 &#x200B;] {#icp-indicators}
 
-[!UICONTROL  モデルを調整 ] したときにエクスポートするために選択した [ICP 指標 ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) を表示します。
+[!UICONTROL &#x200B; モデルを調整 &#x200B;] したときにエクスポートするために選択した [ICP 指標 ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) を表示します。
 
 ![](assets/eight.png)

@@ -11,19 +11,19 @@ ht-degree: 84%
 
 ---
 
-# [!UICONTROL  パフォーマンスインサイト ] トレンドの概要 {#performance-insights-trend-overview}
+# [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] トレンドの概要 {#performance-insights-trend-overview}
 
-[!UICONTROL  トレンド ] 一定期間におけるのチャネルパフォーマンスを表示します。
+[!UICONTROL &#x200B; トレンド &#x200B;] 一定期間におけるのチャネルパフォーマンスを表示します。
 
 「**[!UICONTROL トレンド]**」タブをクリックして、この表示にアクセスします。
 
 ![](assets/1.png)
 
-## [!UICONTROL  トレンド ] {#trend}
+## [!UICONTROL &#x200B; トレンド &#x200B;] {#trend}
 
 ![](assets/2-1.png)
 
-パフォーマンスを表示する指標を選択します。この例では、[[!UICONTROL  ファーストタッチ ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) を介して獲得した商談を見ていきます。
+パフォーマンスを表示する指標を選択します。この例では、[[!UICONTROL &#x200B; ファーストタッチ &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) を介して獲得した商談を見ていきます。
 
 ![](assets/3-2.png)
 

@@ -20,7 +20,7 @@ ht-degree: 91%
 
    ![](assets/change-your-marketo-sales-password-1.png)
 
-1. [!UICONTROL  マイプロファイル ] ページがデフォルトで開きます。 [!UICONTROL  アカウントの詳細 ] で、「**[!UICONTROL パスワードを変更]**」チェックボックスを選択します。
+1. [!UICONTROL &#x200B; マイプロファイル &#x200B;] ページがデフォルトで開きます。 [!UICONTROL &#x200B; アカウントの詳細 &#x200B;] で、「**[!UICONTROL パスワードを変更]**」チェックボックスを選択します。
 
    ![](assets/change-your-marketo-sales-password-2.png)
 

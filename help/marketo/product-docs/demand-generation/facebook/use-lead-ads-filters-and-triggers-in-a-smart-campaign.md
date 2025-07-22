@@ -13,7 +13,7 @@ ht-degree: 45%
 
 # スマートキャンペーンでのリード広告のフィルターとトリガーの使用 {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
 
-[!UICONTROL Facebook リード広告 ] を有効にすると、スマートキャンペーンでそれらを使用してプログラムの成功を確認できます。 [!DNL Facebook] リード広告ユニットに情報を送信すると、その情報は直ちにMarketoにプッシュされます。
+[!UICONTROL Facebook リード広告 &#x200B;] を有効にすると、スマートキャンペーンでそれらを使用してプログラムの成功を確認できます。 [!DNL Facebook] リード広告ユニットに情報を送信すると、その情報は直ちにMarketoにプッシュされます。
 
 1. **[!UICONTROL Facebook リード広告フォームへの入力]** フィルターまたはトリガーを使用します。
 

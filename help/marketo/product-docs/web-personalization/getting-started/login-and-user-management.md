@@ -31,7 +31,7 @@ ht-degree: 93%
 
    ![](assets/three-1.png)
 
-1. [!UICONTROL  役割名 ] を入力し、「[!UICONTROL  権限 ]」を選択します。 「**[!UICONTROL 作成]**」をクリックします（この役割は[すべてのワークスペースに適用](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)されます）。
+1. [!UICONTROL &#x200B; 役割名 &#x200B;] を入力し、「[!UICONTROL &#x200B; 権限 &#x200B;]」を選択します。 「**[!UICONTROL 作成]**」をクリックします（この役割は[すべてのワークスペースに適用](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)されます）。
 
    ![](assets/four.png)
 

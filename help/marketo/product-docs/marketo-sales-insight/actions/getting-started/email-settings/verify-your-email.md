@@ -18,11 +18,11 @@ ht-degree: 78%
 
    ![](assets/verify-your-email-1.png)
 
-1. [!UICONTROL  マイアカウント ] で、「**[!UICONTROL メール設定]**」をクリックします。
+1. [!UICONTROL &#x200B; マイアカウント &#x200B;] で、「**[!UICONTROL メール設定]**」をクリックします。
 
    ![](assets/verify-your-email-2.png)
 
-1. [!UICONTROL  アドレスと署名 ] の下で、確認したいメールを見つけて、**[!UICONTROL 確認メールを再送信]** をクリックします。 新しい確認用メールが送信されます。
+1. [!UICONTROL &#x200B; アドレスと署名 &#x200B;] の下で、確認したいメールを見つけて、**[!UICONTROL 確認メールを再送信]** をクリックします。 新しい確認用メールが送信されます。
 
    ![](assets/verify-your-email-3.png)
 

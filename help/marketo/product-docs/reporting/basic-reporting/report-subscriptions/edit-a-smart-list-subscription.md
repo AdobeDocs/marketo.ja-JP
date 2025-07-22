@@ -15,10 +15,10 @@ ht-degree: 87%
 
 これらの列は、マーケティング活動またはデータベースに表示される「購読」タブで直接編集できます。
 
-* [!UICONTROL  受信者 ]
+* [!UICONTROL &#x200B; 受信者 &#x200B;]
 * [!UICONTROL 頻度]
-* [!UICONTROL  列 ]
-* [!UICONTROL  配信を終了 ]
+* [!UICONTROL &#x200B; 列 &#x200B;]
+* [!UICONTROL &#x200B; 配信を終了 &#x200B;]
 * [!UICONTROL 形式]
 
 1. **[!UICONTROL データベース]**&#x200B;を選択します（この例では使用していますが、マーケティング活動はまったく同じように機能します）。

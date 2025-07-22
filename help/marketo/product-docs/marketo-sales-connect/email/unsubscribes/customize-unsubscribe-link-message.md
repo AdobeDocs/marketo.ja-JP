@@ -25,7 +25,7 @@ ht-degree: 85%
 
    ![](assets/one.png)
 
-1. [!UICONTROL  マイアカウント ] で「**[!UICONTROL 購読解除]**」を選択します。
+1. [!UICONTROL &#x200B; マイアカウント &#x200B;] で「**[!UICONTROL 購読解除]**」を選択します。
 
    ![](assets/two-1.png)
 
@@ -51,7 +51,7 @@ ht-degree: 85%
 
    ![](assets/six.png)
 
-1. [!UICONTROL  管理者設定 ] で、「**[!UICONTROL 購読解除]**」を選択します。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、「**[!UICONTROL 購読解除]**」を選択します。
 
    ![](assets/eight.png)
 

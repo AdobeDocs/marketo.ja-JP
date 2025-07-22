@@ -37,7 +37,7 @@ Sales Insight Actions を使用すると、見込み客の返信を [!DNL Salesf
 
 1. **[!UICONTROL セットアップ]**／**[!UICONTROL カスタマイズ]**／**[!UICONTROL アクティビティ]**／**[!UICONTROL タスクフィールド]**&#x200B;に移動します。
 1. 「**[!UICONTROL タイプ]**」をクリックします。
-1. [!UICONTROL  タスク タイプ選択リストの値 ] の下の **[!UICONTROL 新規]** をクリックします。
+1. [!UICONTROL &#x200B; タスク タイプ選択リストの値 &#x200B;] の下の **[!UICONTROL 新規]** をクリックします。
 1. 空のボックスに「Reply」と入力します。必ず「R」を大文字にして、「**[!UICONTROL 保存]**」をクリックします。
 
    >[!NOTE]

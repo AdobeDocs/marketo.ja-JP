@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377552
-description: Marketo[!UICONTROL  営業Insight] プラグイン管理者の指定 – Marketo ドキュメント – 製品ドキュメント
+description: Marketo[!UICONTROL &#x200B; 営業Insight] プラグイン管理者の指定 – Marketo ドキュメント – 製品ドキュメント
 title: Marketo[!UICONTROL Sales Insight] プラグイン管理者の指定
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights

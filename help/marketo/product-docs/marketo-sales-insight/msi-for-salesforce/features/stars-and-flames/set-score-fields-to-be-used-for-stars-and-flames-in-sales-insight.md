@@ -11,7 +11,7 @@ ht-degree: 82%
 
 ---
 
-# [!UICONTROL  で ] 星 [!UICONTROL  と ] 炎 [!DNL Sales Insight] に使用するスコアフィールドを設定 {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# [!UICONTROL &#x200B; で &#x200B;] 星 [!UICONTROL &#x200B; と &#x200B;] 炎 [!DNL Sales Insight] に使用するスコアフィールドを設定 {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >

@@ -26,7 +26,7 @@ ht-degree: 46%
 
 これらの手順に従うと、Marketo 同期ユーザはカスタムフィールドをアップデートできます。
 
-1. Enter キーを押さずにナビゲーション検索バーの **[!UICONTROL アカウント]** （個人アカウント）ページレイアウトをクリックし、**[!UICONTROL 連絡先]** の [!UICONTROL  ページレイアウト ] をクリックします。
+1. Enter キーを押さずにナビゲーション検索バーの **[!UICONTROL アカウント]** （個人アカウント）ページレイアウトをクリックし、**[!UICONTROL 連絡先]** の [!UICONTROL &#x200B; ページレイアウト &#x200B;] をクリックします。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-1.png)
 
@@ -72,7 +72,7 @@ ht-degree: 46%
 
 >[!NOTE]
 >
->他の [!UICONTROL  アカウント ] ページレイアウトに対してこの手順を繰り返します。
+>他の [!UICONTROL &#x200B; アカウント &#x200B;] ページレイアウトに対してこの手順を繰り返します。
 
 ## プロファイルの作成 {#create-a-profile}
 
@@ -88,7 +88,7 @@ ht-degree: 46%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-9.png)
 
-1. **[!UICONTROL 標準ユーザー]** を選択し、プロファイルに「[!UICONTROL Marketo - Salesforce同期 ]」という名前を付けて、**[!UICONTROL 保存]** をクリックします。
+1. **[!UICONTROL 標準ユーザー]** を選択し、プロファイルに「[!UICONTROL Marketo - Salesforce同期 &#x200B;]」という名前を付けて、**[!UICONTROL 保存]** をクリックします。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-10.png)
 
@@ -98,7 +98,7 @@ ht-degree: 46%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-11.png)
 
-1. 「[!UICONTROL  管理者権限 ]」セクションで、「[!UICONTROL API が有効 ]」が選択されていることを確認します。
+1. 「[!UICONTROL &#x200B; 管理者権限 &#x200B;]」セクションで、「[!UICONTROL API が有効 &#x200B;]」が選択されていることを確認します。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-12.png)
 
@@ -106,15 +106,15 @@ ht-degree: 46%
    >
    >[!UICONTROL パスワードの有効期限なし]ボックスのチェックは必ずオンにしてください。
 
-1. 「[!UICONTROL  一般ユーザー権限 ]」セクションで、[!UICONTROL  イベントを編集 ] および [!UICONTROL  タスクを編集 ] が選択されていることを確認します。
+1. 「[!UICONTROL &#x200B; 一般ユーザー権限 &#x200B;]」セクションで、[!UICONTROL &#x200B; イベントを編集 &#x200B;] および [!UICONTROL &#x200B; タスクを編集 &#x200B;] が選択されていることを確認します。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
-1. [[!UICONTROL  標準オブジェクトのアクセス許可 ]] セクションで、[[!UICONTROL  アカウント ]]、[[!UICONTROL  連絡先 ]] に対して [[!UICONTROL  読み取り ]]、[[!UICONTROL  作成 ]]、[[!UICONTROL  編集 ]]、[[!UICONTROL  削除 ]] のアクセス許可がオンになっていることを確認します。
+1. [[!UICONTROL &#x200B; 標準オブジェクトのアクセス許可 &#x200B;]] セクションで、[[!UICONTROL &#x200B; アカウント &#x200B;]]、[[!UICONTROL &#x200B; 連絡先 &#x200B;]] に対して [[!UICONTROL &#x200B; 読み取り &#x200B;]]、[[!UICONTROL &#x200B; 作成 &#x200B;]]、[[!UICONTROL &#x200B; 編集 &#x200B;]]、[[!UICONTROL &#x200B; 削除 &#x200B;]] のアクセス許可がオンになっていることを確認します。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. 「[!UICONTROL  カスタムオブジェクトの権限 ]」セクションで、[!UICONTROL  呼び出し ]、[!UICONTROL  呼び出しキーメッセージ ] およびその他の目的のカスタムオブジェクトに対して [!UICONTROL  読み取り ] 権限がオンになっていることを確認します。
+1. 「[!UICONTROL &#x200B; カスタムオブジェクトの権限 &#x200B;]」セクションで、[!UICONTROL &#x200B; 呼び出し &#x200B;]、[!UICONTROL &#x200B; 呼び出しキーメッセージ &#x200B;] およびその他の目的のカスタムオブジェクトに対して [!UICONTROL &#x200B; 読み取り &#x200B;] 権限がオンになっていることを確認します。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 
@@ -130,7 +130,7 @@ ht-degree: 46%
    >
    >この手順を実行すると、Marketo に表示する必要のないフィールドが防止され、混乱が軽減され、同期が高速化されます。
 
-1. [!UICONTROL  プロファイルの詳細 ] ページで、「**[!UICONTROL フィールドレベルのセキュリティ]**」セクションに移動します。 **[!UICONTROL 表示]** をクリックして、[!UICONTROL  連絡先 ] および [!UICONTROL  アカウント ] オブジェクトのアクセシビリティを編集します。
+1. [!UICONTROL &#x200B; プロファイルの詳細 &#x200B;] ページで、「**[!UICONTROL フィールドレベルのセキュリティ]**」セクションに移動します。 **[!UICONTROL 表示]** をクリックして、[!UICONTROL &#x200B; 連絡先 &#x200B;] および [!UICONTROL &#x200B; アカウント &#x200B;] オブジェクトのアクセシビリティを編集します。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-17.png)
 
@@ -142,7 +142,7 @@ ht-degree: 46%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-不要なフィールドを探し、[!UICONTROL  読み取りアクセス ] と [!UICONTROL  編集アクセス ] のチェックが **ン** 解除されていることを確認します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
+不要なフィールドを探し、[!UICONTROL &#x200B; 読み取りアクセス &#x200B;] と [!UICONTROL &#x200B; 編集アクセス &#x200B;] のチェックが **ン** 解除されていることを確認します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
 ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
@@ -150,7 +150,7 @@ ht-degree: 46%
 >
 >カスタムフィールドのアクセシビリティのみを編集します。
 
-1. 不要なフィールドをすべて無効にした後、次のオブジェクトフィールドの [!UICONTROL  読み取りアクセス ] および [!UICONTROL  編集アクセス ] を確認します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
+1. 不要なフィールドをすべて無効にした後、次のオブジェクトフィールドの [!UICONTROL &#x200B; 読み取りアクセス &#x200B;] および [!UICONTROL &#x200B; 編集アクセス &#x200B;] を確認します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
 <table>
  <tbody>
@@ -181,7 +181,7 @@ Marketoが CRM にアクセスするには資格情報 [!DNL Veeva] 必要です
 >
 >組織に追加の [!DNL Veeva] CRM ライセンスがない場合は、システム管理者プロファイルで既存のマーケティングユーザーを使用できます。
 
-1. ナビゲーション検索バーに「ユーザー」と入力し、「ユーザーを管理 **[!UICONTROL の下の]** ユーザー [!UICONTROL  をクリック ] ます。
+1. ナビゲーション検索バーに「ユーザー」と入力し、「ユーザーを管理 **[!UICONTROL の下の]** ユーザー [!UICONTROL &#x200B; をクリック &#x200B;] ます。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-20.png)
 

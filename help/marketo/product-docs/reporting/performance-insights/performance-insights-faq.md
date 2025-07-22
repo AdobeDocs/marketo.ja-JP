@@ -11,9 +11,9 @@ ht-degree: 99%
 
 ---
 
-# [!UICONTROL  パフォーマンスインサイト ]FAQ {#performance-insights-faq}
+# [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;]FAQ {#performance-insights-faq}
 
-## 「エンゲージメント [!UICONTROL  タブの「成功 ] の定義は何ですか？ {#what-is-the-definition-of-success-in-the-engagement-tab}
+## 「エンゲージメント [!UICONTROL &#x200B; タブの「成功 &#x200B;] の定義は何ですか？ {#what-is-the-definition-of-success-in-the-engagement-tab}
 
 成功は、Marketo での有意義なインタラクションの尺度です。プログラムの目的は、リードまたは見込み客との有意義なインタラクションを作成することです。成功は、その目標を達成したステータスに達したときにマークされます。オンラインセミナーへの参加、メールのリンククリック、web フォームの記入などです。成功は、プログラムチャネルによって異なります。
 

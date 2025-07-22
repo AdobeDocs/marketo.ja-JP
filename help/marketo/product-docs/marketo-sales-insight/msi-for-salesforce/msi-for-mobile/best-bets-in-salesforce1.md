@@ -17,11 +17,11 @@ ht-degree: 36%
 
 1. [!DNL Salesforce] アプリのMarketo エリアに移動します。
 
-   ドロップダウンで、「[!UICONTROL  ベストベット ]」、「[!UICONTROL  マイウォッチリスト ]」、「[!UICONTROL  ウェブアクティビティ ]」、「[!UICONTROL  匿名ウェブアクティビティ ]」または「[!UICONTROL  マイメール ]」を選択できます。
+   ドロップダウンで、「[!UICONTROL &#x200B; ベストベット &#x200B;]」、「[!UICONTROL &#x200B; マイウォッチリスト &#x200B;]」、「[!UICONTROL &#x200B; ウェブアクティビティ &#x200B;]」、「[!UICONTROL &#x200B; 匿名ウェブアクティビティ &#x200B;]」または「[!UICONTROL &#x200B; マイメール &#x200B;]」を選択できます。
 
    ![](assets/one-2.png)
 
 >[!MORELIKETHIS]
 >
->* [[!UICONTROL Salesforce1 の注目のアクション ]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [[!UICONTROL Salesforce1 でのMarketoのメールおよび Campaign と監視リストのアクションの送信 ]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>* [[!UICONTROL Salesforce1 の注目のアクション &#x200B;]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [[!UICONTROL Salesforce1 でのMarketoのメールおよび Campaign と監視リストのアクションの送信 &#x200B;]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

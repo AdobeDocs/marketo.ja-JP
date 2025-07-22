@@ -18,7 +18,7 @@ ht-degree: 75%
 >[!PREREQUISITES]
 >
 >* [ウェブパーソナライズデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定を完成します
->* [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [カスタムオーディエンスとリマーケティングに関する Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)を確認します。
+>* [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [カスタムオーディエンスとリマーケティングに関する Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)を確認します。
 
 ## [!DNL Facebook] でのオーディエンスの作成 {#creating-an-audience-in-facebook}
 
@@ -36,7 +36,7 @@ ht-degree: 75%
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. [!UICONTROL Web サイトトラフィック ] リストで、「**[!UICONTROL カスタムの組み合わせ]**」を選択します。
+1. [!UICONTROL Web サイトトラフィック &#x200B;] リストで、「**[!UICONTROL カスタムの組み合わせ]**」を選択します。
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -44,7 +44,7 @@ ht-degree: 75%
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. [!UICONTROL  イベント ] リストで「**[!UICONTROL RTP リマーケティング]**」を選択し、パラメーターを選択します。
+1. [!UICONTROL &#x200B; イベント &#x200B;] リストで「**[!UICONTROL RTP リマーケティング]**」を選択し、パラメーターを選択します。
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
