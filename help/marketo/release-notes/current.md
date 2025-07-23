@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 974818d6f1c5ea2bfeab4f480608f6288e611041
+source-git-commit: d13bf2943f493579f75fe8c9a0c3f675f74a09f0
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 93%
+source-wordcount: '683'
+ht-degree: 91%
 
 ---
 
@@ -32,9 +32,9 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr> 
-   <td><strong>メールデザイナー - カスタム CSS サポート</strong>：メールをデザインする際に、独自のカスタム CSS をメールデザイナー内に直接追加できるようになりました。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td><strong> メールDesigner - カスタム CSS</strong>：メールをデザインする際に、独自のカスタム CSS をメールDesigner内に直接追加できるようになりました。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">メールコンテンツへのカスタム CSS の追加</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -142,7 +142,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Munchkin Cookie および ECID を表示可能 </strong>:<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page"> ユーザーの詳細ページ）の_Info_ タブに、Munchkin Cookie と ECID （Experience Cloud ID）番号のリストが表示されるようになり、その情報を取得するための API 呼び出しへの依存を減らすことができま </a>。</td>
+   <td><strong>Munchkin Cookie および ECID を表示可能 </strong>:<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page"> ユーザーの詳細ページ）の_Info_ タブに、Munchkin Cookie と ECID （Experience Cloud ID）番号のリストが表示されるようになり、その情報を取得するための API 呼び出しへの依存を減らすことができま </a>。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>

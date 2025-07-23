@@ -2,15 +2,16 @@
 solution: Marketo Engage
 product: marketo
 title: スパム暗殺者
-description: ここにテキストが入ります
+description: SpamAssassin を使用してメールコンテンツをテストし、スパムとしてマークされる可能性を確認する方法を説明します。
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
+source-git-commit: d13bf2943f493579f75fe8c9a0c3f675f74a09f0
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 9%
+source-wordcount: '200'
+ht-degree: 8%
 
 ---
 

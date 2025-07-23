@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
-workflow-type: ht
-source-wordcount: '9296'
-ht-degree: 100%
+source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
+workflow-type: tm+mt
+source-wordcount: '9294'
+ht-degree: 99%
 
 ---
 
@@ -367,7 +367,7 @@ ht-degree: 100%
             + [複数のワークスペースをまたいだリストやスマートリストの参照](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
             + [リストまたはスマートリストの更新](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/refresh-a-list-or-smart-list.md)
             + [スマートリストからの単一フローステップの実行](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md)
-            + [システムスマートリストの使用](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
+            + [ビルトイン／システムのスマートリストの使用](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md)
             + [スマートリストでの非アクティブフィルターの使用](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md)
             + [スマートリストでのデータ値変更済みフィルターの使用](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md)
             + [高度なスマートリストルールロジックの使用](product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md)
@@ -1029,8 +1029,8 @@ ht-degree: 100%
          + [機能の比較](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
          + [メールテンプレートオーサリング](product-docs/email-marketing/email-designer/email-template-authoring.md)
-         + [カスタム CSS ドキュメント](product-docs/email-marketing/email-designer/custom-css.md)
-         + [ブランドキットドキュメント](product-docs/email-marketing/email-designer/brand-kit.md)
+         + [カスタム CSS](product-docs/email-marketing/email-designer/custom-css.md)
+         + [ブランドキット](product-docs/email-marketing/email-designer/brand-kit.md)
          + [Litmus を使用したメールレンダリングのテスト](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [パーソナライゼーショントークン](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [AEM Assets の操作](product-docs/email-marketing/email-designer/aem-assets.md)
