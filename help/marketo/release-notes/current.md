@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: d13bf2943f493579f75fe8c9a0c3f675f74a09f0
 workflow-type: tm+mt
 source-wordcount: '683'
-ht-degree: 91%
+ht-degree: 97%
 
 ---
 
@@ -142,7 +142,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>Munchkin Cookie および ECID を表示可能 </strong>:<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page"> ユーザーの詳細ページ）の_Info_ タブに、Munchkin Cookie と ECID （Experience Cloud ID）番号のリストが表示されるようになり、その情報を取得するための API 呼び出しへの依存を減らすことができま </a>。</td>
+   <td><strong>Munchkin Cookie および ECID が表示可能</strong>：<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">担当者の詳細ページ</a>の _Info_ タブに、Munchkin Cookie と ECID （Experience Cloud ID）番号のリストが表示されるようになったため、その情報を取得するための API 呼び出しへの依存を減らすことができます。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
