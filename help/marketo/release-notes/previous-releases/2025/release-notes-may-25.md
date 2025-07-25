@@ -2,9 +2,10 @@
 description: リリースノート - 2025年5月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2025年5月
 feature: Release Information
-source-git-commit: 5dea84390b7d008ad0b19c5bc0e113f2a886ca72
+exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
+source-git-commit: 0297260b69c8573445c1f727a94f308138ee2895
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '436'
 ht-degree: 100%
 
 ---
@@ -17,7 +18,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
@@ -29,16 +30,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:65%">機能</th> 
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
-  </tr>
-  <tr> 
-   <td><strong>メールコンテンツのパーソナライゼーション</strong>：Marketo Engage は、他の AEP アプリケーショントークンと同じキャメルケース構文に従うようになったので、Adobe DX 製品全体で一貫性のあるエクスペリエンスが提供されます。すべての標準トークンと、メンバー、プログラム、マイトークンなどの Marketo Engage 固有のトークンが、新しいメールデザイナーで使用できます。</td> 
-   <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md">パーソナライゼーショントークン</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
   </tr>
   <tr> 
    <td><strong>メールデザイナーアセットのロールベースのアクセス制御</strong>：ロールベースのアクセス制御（RBAC）システムへの新しい機能強化により、新しいメールデザイナーで活用されるアセットに対して、より詳細な権限と改善されたユーザー管理が提供されます。</td> 

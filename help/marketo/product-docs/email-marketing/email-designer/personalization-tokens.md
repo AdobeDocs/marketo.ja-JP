@@ -6,7 +6,9 @@ description: 新しいMarketo Engage メールDesignerでパーソナライゼ�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+hide: true
+hidefromtoc: true
+source-git-commit: 0297260b69c8573445c1f727a94f308138ee2895
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 3%
