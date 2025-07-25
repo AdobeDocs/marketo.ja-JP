@@ -5,14 +5,14 @@ description: 新しいAdobe Marketo Engage メールDesignerへようこそ。
 title: 概要
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
+source-git-commit: fd34d8ff9e57a2c04ece1201a7b0ebaf1b2bd9c7
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '856'
 ht-degree: 1%
 
 ---
 
-# メールデザイナー - 概要 {#overview}
+# メールデザイナーの概要 {#overview}
 
 新しいAdobe Marketo Engage メールDesignerへようこそ。
 
@@ -53,8 +53,6 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 * [ フラグメント ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：メールおよびメールテンプレート用の再利用可能なコンポーネントとしてビジュアルコンテンツフラグメントを作成し使用する方法を説明します。
 
 * [ カスタマイズ可能なフラグメント ](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}：フラグメントのフィールドの一部を編集可能にして、フラグメントをカスタマイズする方法を説明します。
-
-* [Personalization トークン ](/help/marketo/product-docs/email-marketing/email-designer/personalization-tokens.md){target="_blank"}：新しい E メールデザイナーでのパーソナライゼーショントークンの新しいフォーマットについて説明します。
 
 * [AEM Assets の操作 ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}:Marketo Engageで使用するためにAEM デジタルアセットに簡単にアクセスする方法を説明します。
 
