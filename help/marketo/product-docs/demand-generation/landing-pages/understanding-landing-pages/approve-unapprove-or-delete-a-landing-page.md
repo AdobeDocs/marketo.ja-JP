@@ -4,85 +4,73 @@ description: ランディングページの承認、未承認、削除 - Marketo
 title: ランディングページの承認、未承認、削除
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 40f7cc71d816505149ee56b8dca34b5e17ae75b7
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 97%
+source-wordcount: '253'
+ht-degree: 28%
 
 ---
 
 # ランディングページの承認、未承認、削除 {#approve-unapprove-or-delete-a-landing-page}
 
-ランディングページは、ユーザーが承認するまでドラフトモードになります。承認をおこなうと、残りのシステムでページを使用できるようになります。承認済みのランディングページを編集すると、Marketo はそのドラフトを保存しますが、ドラフトを承認するまでは承認済みのバージョンが引き続き使用されます。
+ランディングページは、承認するまでドラフトモードになります。 承認をおこなうと、残りのシステムでページを使用できるようになります。承認済みのランディングページを編集すると、Marketo Engageはドラフトを保存しますが、ドラフトを承認するまで、承認済みバージョンを引き続き使用します。
 
 ## ランディングページの承認 {#approve-a-landing-page}
 
-1. ランディングページを選択し、**[!UICONTROL ランディングページのアクション]**&#x200B;に移動して、「**[!UICONTROL 承認]**」をクリックします。
+1. 目的のランディングページを選択し、をクリックして **[!UICONTROL ドラフトを承認]** をクリックします。
+
+   ![](assets/approve-unapprove-or-delete-a-landing-page-1.png)
 
    >[!TIP]
    >
-   >[複数のページを一度に承認](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md)して、楽することができます。
+   >必要に応じて、[ 複数のページを一度に承認 ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) できます。
 
-   ![](assets/image2014-9-16-15-3a28-3a22.png)
+また、左側のナビゲーションでランディングページを右クリックし、「**[!UICONTROL 承認]**」を選択することもできます。
 
-1. ランディングページを右クリックし、「**[!UICONTROL 承認]**」をクリックします。
-
-   ![](assets/image2014-9-16-15-3a30-3a4.png)
-
-   >[!NOTE]
-   >
-   >承認されると、ランディングページアイコンに緑のチェックマークが付きます。
-
-## ランディングページの承認取消 {#unapprove-a-landing-page}
-
-1. ランディングページを選択し、**[!UICONTROL ランディングページのアクション]**&#x200B;に移動して、「**[!UICONTROL 承認取消]**」をクリックします。
-
-   ![](assets/image2014-9-16-15-3a31-3a8.png)
-
-1. ランディングページを右クリックし、「**[!UICONTROL 承認取消]**」をクリックします。
-
-   ![](assets/image2014-9-16-15-3a31-3a34.png)
+![](assets/approve-unapprove-or-delete-a-landing-page-2.png)
 
 >[!NOTE]
 >
->未承認のランディングページは Web に公開されなくなり、追加のアクティビティは生成されません。[承認されていないランディングページとその Facebook タブの閲覧者には、フォールバックページが表示されます。](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)
+>承認済みのランディングページには、緑のチェックマークが追加されています。
+
+## ランディングページの承認取消 {#unapprove-a-landing-page}
+
+1. 目的のランディングページを選択し、「**[!UICONTROL 未承認]**」をクリックします。
+
+   ![](assets/approve-unapprove-or-delete-a-landing-page-3.png)
+
+左側のナビゲーションでランディングページを右クリックし、「**[!UICONTROL 未承認]**」を選択することもできます。
+
+![](assets/approve-unapprove-or-delete-a-landing-page-4.png)
+
+>[!NOTE]
+>
+>承認されていないランディングページは web に公開されなくなり、アクティビティは追加されません。 未承認のランディングページとその Facebook タブへの訪問者には、[ フォールバックページ ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md) が表示されます。
 
 ## ランディングページの削除 {#delete-a-landing-page}
 
-1. ランディングページを選択し、**[!UICONTROL ランディングページのアクション]**&#x200B;に移動して、「**[!UICONTROL 削除]**」をクリックします。
+1. 目的のランディングページを選択します。 **[!UICONTROL ランディングページのアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 削除]**」を選択します。
 
-   ![](assets/image2014-9-16-15-3a49-3a59.png)
+   ![](assets/approve-unapprove-or-delete-a-landing-page-5.png)
 
-   >[!NOTE]
+   >[!IMPORTANT]
    >
-   >承認済みのランディングページを削除することはできません。まず、承認を取消してください。
+   >承認済みのランディングページは削除できません。 まず、承認を取り消す必要があります。
 
-1. ランディングページを右クリックし、「**[!UICONTROL 削除]**」をクリックします。
+また、左側のナビゲーションでランディングページを右クリックし、「**[!UICONTROL 削除]**」を選択することもできます。
 
-   ![](assets/image2014-9-16-15-3a50-3a40.png)
+![](assets/approve-unapprove-or-delete-a-landing-page-6.png)
 
 ## 複数のランディングページの削除 {#delete-multiple-landing-pages}
 
-一度に複数のランディングページを削除しますか？手順は以下のとおりです。
+1. メインの [!UICONTROL Design Studio] 画面で、「**[!UICONTROL ランディングページ]**」をクリックします。
 
-1. [!UICONTROL Design Studio] で、「**[!UICONTROL ランディングページ]**」をクリックします。
+   ![](assets/approve-unapprove-or-delete-a-landing-page-7.png)
 
-   ![](assets/one.png)
+1. 目的のランディングページを選択します。 **[!UICONTROL ランディングページのアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 削除]**」を選択します。
 
-1. 削除する最初のランディングページをクリックし、Shift キーを押しながら最後のページをクリックします。
+   ![](assets/approve-unapprove-or-delete-a-landing-page-8.png)
 
-   ![](assets/two.png)
+1. 「**[!UICONTROL 削除]**」をクリックして確定します。
 
-   >[!TIP]
-   >
-   >Ctrl キーを押しながらクリックして、順次的でない複数のランディングページを削除することもできます。
-
-1. **[!UICONTROL ランディングページのアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 削除]**」を選択します。
-
-   ![](assets/three.png)
-
-1. 「**[!UICONTROL 削除]**」をクリックします。
-
-   ![](assets/four.png)
-
-これで完了です。これで、ランディングページの承認、承認取消、削除の方法を理解できました。
+   ![](assets/approve-unapprove-or-delete-a-landing-page-9.png)
