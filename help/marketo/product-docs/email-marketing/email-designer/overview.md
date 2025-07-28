@@ -5,9 +5,9 @@ description: 新しいAdobe Marketo Engage メールDesignerへようこそ。
 title: 概要
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: fd34d8ff9e57a2c04ece1201a7b0ebaf1b2bd9c7
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '856'
+source-wordcount: '852'
 ht-degree: 1%
 
 ---
@@ -114,4 +114,4 @@ API を使用して編集されているAssetsは、現時点では、新しい�
 
 **新しいメールDesignerでは、どのブラウザーを使用できますか？**
 
-Google Chrome、Apple Safari またはMicrosoft Edgeの使用をお勧めします。 Mozilla Firefox の完全サポートは、間もなく利用できるようになります。
+現時点では、Google Chrome、Apple Safari、Microsoft Edge、Mozilla Firefox のいずれかを使用することをお勧めします。
