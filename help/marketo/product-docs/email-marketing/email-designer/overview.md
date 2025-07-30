@@ -5,9 +5,9 @@ description: 新しいAdobe Marketo Engage メールDesignerへようこそ。
 title: 概要
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '870'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 1%
 
 新しいAdobe Marketo Engage メールDesignerへようこそ。
 
-E メールデザイナーはMarketo Engageの最新のイノベーションで、標準の標準の標準テンプレートと共に視覚的なドラッグ&amp;ドロップエディターを提供することで、生産性と効率を向上させるために、改善された E メールおよび E メールテンプレートの作成体験を提供することを目的としています。 ベンダーにお金をかけることなく、カスタマイズされたメールテンプレートを簡単に作成できます。
+E メールDesignerは、Marketo Engageの最新のイノベーションであり、標準の標準の標準テンプレートと共に視覚的なドラッグ&amp;ドロップエディターを提供することで、生産性と効率を向上させる改良された E メールおよび E メールテンプレートの作成体験を提供することを目的としています。 ベンダーにお金をかけることなく、カスタマイズされたメールテンプレートを簡単に作成できます。
 
 >[!NOTE]
 >
@@ -24,9 +24,9 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 
 ## アクセス方法 {#how-to-access}
 
-+++メールデザイナーへのアクセス方法を学ぶ
++++メールDesignerにアクセスする方法を学ぶ
 
-新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
+新しいメールDesignerにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
 ### ユーザーを追加 {#add-users}
 
@@ -64,13 +64,15 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 
 * [Litmus でのメールのレンダリングのテスト ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}:Marketo Engageで Litmus アカウントを利用すると、一般的なメールクライアントでのメールのレンダリングを即座に確認できます。
 
+* [SpamAssassin によるスパム検出 ](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}:Marketo Engageの SpamAssassin を使用すると、メールコンテンツをテストして、ISP/メールボックスプロバイダーがスパムとしてマークする可能性を確認できます。
+
 * [ 機能比較 ](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較します。
 
 ## よくある質問 {#faq}
 
 **古いメールエディターは引き続き機能しますか？ もしそうなら、どれくらいの期間ですか？**
 
-はい、古い（クラシック）メールエディターは新しいメールデザイナーと共存します。 クラシックエディターで作成されたメールは残ります。 現時点では、クラシックエディターが非推奨（廃止予定）になる日付はありませんが、2025 年を通じて引き続き機能します。
+はい、古い（クラシック）メールエディターは、新しいメールDesignerと共存します。 クラシックエディターで作成されたメールは残ります。 現時点では、クラシックエディターが非推奨（廃止予定）になる日付はありませんが、2025 年を通じて引き続き機能します。
 
 **新しいメールDesignerのメールを使用できるのはどのプログラムですか？**
 
@@ -82,11 +84,11 @@ E メールデザイナーはMarketo Engageの最新のイノベーションで�
 
 **新しいデザイナーアセットを別のプログラムに簡単に移動できますか？**
 
-現時点ではできません。 ただし、その機能は近日中に提供される予定です。
+はい！
 
-**新しいメールデザイナーでは API を使用してアセットを編集できますか？**
+**新しいメールDesignerでは API を使用してアセットを編集できますか？**
 
-API を使用して編集されているAssetsは、現時点では、新しい電子メールデザイナーではサポートされていません。
+API を使用して編集されているAssetsは、現時点では、新しいメールDesignerではサポートされていません。
 
 **ブランディング（フォント、ロゴ、色）を強制する方法はありますか？**
 
@@ -100,7 +102,7 @@ API を使用して編集されているAssetsは、現時点では、新しい�
 
 これはWYSIWYGです。HTMLの知識は必要ありません。 デザイナーでテンプレートを簡単に作成できるので、外部の web 開発者を減らすことができます。 ただし、HTMLを使用して CSS を更新し、個々のセクションを編集するオプションは残ります。 また、クラシックエディターから新しいデザイナーにテンプレートを簡単に移行する方法にも取り組んでいます。
 
-**新しい E メールデザイナーは AMP 言語をサポートしていますか？**
+**新しい Email Designerは AMP 言語をサポートしていますか？**
 
 現時点では、AMP のサポートはありません。
 
