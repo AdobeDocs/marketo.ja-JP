@@ -6,7 +6,7 @@ description: SpamAssassin を使用してメールコンテンツをテストし
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 6954850e-2b1a-4bf5-b918-1c54d6926b7e
-source-git-commit: aba42b7480c6e042c462c423615ad35a5f66212f
+source-git-commit: 67674c3e1ce7614d7f7c533b0074e2fbc8edfa28
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 8%
@@ -43,7 +43,7 @@ SpamAssassin はコンテンツを分析し、様々な条件に基づいてス�
    >
    >全体のスコアが 5 を超える場合、メールが受信者にブロックされたり、配信時にスパムと見なされたりすることがあります。
 
-1. スコアが高すぎると思われる場合は、レポートの結果に基づいて電子メールDesignerのコンテンツを編集し、**スパムレポート** を再実行します。
+1. スコアが高すぎると判断した場合は、レポートの結果に基づいて電子メールDesignerのコンテンツを編集し、**スパムレポート** を再実行します。
 
    ![](assets/email-spam-report-4.png){width="800" zoomable="yes"}
 
