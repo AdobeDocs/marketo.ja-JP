@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: be29cfb700afad9f3298c8ccd4808780a88712a0
 workflow-type: tm+mt
-source-wordcount: '677'
-ht-degree: 97%
+source-wordcount: '714'
+ht-degree: 93%
 
 ---
 
@@ -35,6 +35,16 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><strong> メールDesigner - カスタム CSS</strong>：メールをデザインする際に、独自のカスタム CSS をメールDesigner内に直接追加できるようになりました。</td> 
    <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">メールコンテンツへのカスタム CSS の追加</a></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong> メールDesigner - SpamAssassin を使用したスパムの検出 </strong>:Marketo Engageで SpamAssassin を使用すると、メールコンテンツをテストして、ISP/メールボックスプロバイダーがスパムとマークする可能性を確認できます。</td> 
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">メールコンテンツへのカスタム CSS の追加</a></td>
   </tr>
   <tr> 
    <td> </td> 
