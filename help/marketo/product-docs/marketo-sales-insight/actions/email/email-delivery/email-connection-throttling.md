@@ -3,10 +3,10 @@ description: メール接続のスロットリング - Marketo ドキュメン�
 title: メール接続のスロットリング
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: b4e5d17aa882a89b01f77f875312b0d71aa754f3
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 78%
+source-wordcount: '402'
+ht-degree: 77%
 
 ---
 
@@ -14,26 +14,26 @@ ht-degree: 78%
 
 [!DNL Sales Connect] アカウントを統合して [!DNL Exchange] または Gmail メールプロバイダーを通じて送信すると、設定が合理化され、1:1 のセールスコミュニケーション向けにメール配信品質が最適化されます。 ただし、システムを正常な状態に保ち、アカウントを安全に保つため、Gmail と [!DNL Exchange] ではメール送信制限を適用しています。 これらの制限は、プロバイダーの裁量によって増減することができます。
 
-## メール接続のスロットリング（ベータ版） {#email-connection-throttling-beta}
+## 概要 {#overview}
 
 メール接続のスロットリングを使用すると、Sales Connect 管理者は、Gmail または Exchange を配信チャネルとして使用する場合に、配信チャネルプロバイダーに引き渡されるメールの割合が強制的な制限を超えないように、メールの送信率を設定できます。
 
 制限を継続的に超えると、配信チャネルプロバイダーが疑わしい動作と見なし、メール送信が失敗したり、アカウントが無効になったりする場合があります。
 
-**メモ／ハイライト**
+## 注意事項 {#things-to-note}
 
 * ユーザーが Gmail または [!DNL Exchange] に接続すると、自動的に有効になります
 * ニーズに合わせてレコメンデーションの設定を増減する場合は、カスタマイズ可能です
 * Gmail または [!DNL Exchange] を介して送信されるメールのみをスロットルし、カスタム配信チャネルではスロットルしません
 * メール接続のスロットリングは、各ユーザがメールプロバイダーと独自に接続しているため、各ユーザのメールを個別にキューイングします
 
-**メール接続のスロットリングの設定**
+## メール接続スロットル設定を指定しています {#configuring}
 
 1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/email-connection-throttling-1.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 一般]** をクリックします。
+1. [!UICONTROL  管理者設定 ] で **[!UICONTROL 一般]** をクリックします。
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -57,7 +57,7 @@ ht-degree: 78%
 
 ## メールプロバイダーの制限 {#email-provider-limits}
 
-**[!DNL Outlook 365]**
+### [!DNL Outlook 365] {#outlook}
 
 ビジネス／エンタープライズ
 
@@ -67,7 +67,7 @@ ht-degree: 78%
 
 詳しくは[こちら](https://docs.microsoft.com/ja-jp/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits)をご覧さい。
 
-**Gmail**
+### Gmail {#gmail}
 
 * 1 日あたり 2,000 件（体験版およびフラグ付きアカウントの場合は 500 件）
 * 1 秒あたり 2 件のメール（API の上限）
@@ -75,7 +75,7 @@ ht-degree: 78%
 
 詳しくは[こちら](https://support.google.com/a/answer/166852?hl=jp)をご覧さい。
 
-**[!DNL Microsoft Exchange Server (2010, 2013)]**
+### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft-exchange}
 
 サーバーが組織でホストされるので、制限は組織の IT 部門によって設定されます。必要に応じて、ネットワーク管理者またはシステム管理者に問い合わせてください。
 
