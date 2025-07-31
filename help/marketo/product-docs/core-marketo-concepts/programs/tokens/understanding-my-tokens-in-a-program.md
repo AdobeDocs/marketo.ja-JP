@@ -4,10 +4,10 @@ description: プログラム内のマイトークンの理解 - Marketo ドキ�
 title: プログラム内のマイトークンの理解
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 94%
+source-wordcount: '422'
+ht-degree: 92%
 
 ---
 
@@ -86,6 +86,10 @@ ht-degree: 94%
 グローバル変数を作成して、ツリーの下位レベルで上書きできます。
 
 プログラムやフォルダーの移動はトークンにも影響を与えます。移動するときに参照が壊れていないことを必ず確認してください。
+
+>[!IMPORTANT]
+>
+>[ バッチキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"} では、ネストされたトークンはサポートされていません。
 
 >[!NOTE]
 >
