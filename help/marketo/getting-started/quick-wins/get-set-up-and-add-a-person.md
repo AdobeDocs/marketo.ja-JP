@@ -4,10 +4,10 @@ description: セットアップと人物の追加 - Marketo ドキュメント -
 title: セットアップと人物の追加
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
-workflow-type: ht
-source-wordcount: '226'
-ht-degree: 100%
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
+source-wordcount: '225'
+ht-degree: 92%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## 手順 1：Marketo Engage にログインする {#step-log-in-to-marketo}
 
-1. メールで受け取った資格情報を使用して、[Marketo Engage にログインします](https://app.marketo.com){target="_blank"}。
+1. メールで受け取った資格情報を使用して [Marketo Engageにログイン ](https://app.marketo.com){target="_blank"} します。
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -77,4 +77,4 @@ ht-degree: 100%
 
 <br> 
 
-[ミッション 1：一斉配信メールの送信 ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[ミッション 1:E メールブラスト ► を送信する](/help/marketo/getting-started/quick-wins/send-an-email.md)

@@ -3,7 +3,7 @@ description: クイックスタートメールテンプレート - Marketo ド�
 title: クイックスタートメールテンプレート
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '565'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # クイックスタートメールテンプレート {#quick-start-email-template}
 
-Marketo Engageリファレンスライブラリの一部のスタータープログラムには、シンプルで使いやすくカスタマイズ可能なメールテンプレートが含まれており、様々なマーケティングのユースケースにわたってメールを素早く作成できます。
+Marketo Engage参照ライブラリの一部のスタータープログラムには、シンプルで使いやすくカスタマイズ可能なメールテンプレートが含まれており、様々なマーケティングのユースケースにわたってメールを素早く作成できます。
 
 Marketo Engageのメールエディターには、レイアウトを変更し、メールのコンテンツを編集するのに役立つ機能が備わっています。
 
@@ -24,7 +24,7 @@ Marketo Engageのメールエディターには、レイアウトを変更し、
 
 * **変数**：モジュールを選択すると、エディターの右側に変数が表示されます。 これらは、画像やテキスト要素を使用して簡単に編集できないモジュールの属性を調整するために使用できます。
 
-詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## モジュールの概要 {#modules-summary}
 
@@ -89,13 +89,13 @@ Marketo Engageのメールエディターには、レイアウトを変更し、
    * モジュールの上部のパディング
    * モジュールの下のパディング
    * モジュールの背景色
-   * CTA テキストカラー
-   * CTA の背景色
-   * CTA 境界線のカラー
-   * CTA 境界線の半径（ボタンを丸くする場合 – **注意**：この機能は、Microsoft Outlook メールクライアントでは機能しません）
+   * CTAのテキストカラー
+   * CTAの背景色
+   * CTAの境界線のカラー
+   * CTAの境界線の半径（ボタンを丸くする場合 – **注意**：この機能は、Microsoft Outlook メールクライアントでは機能しません）
    * CTA URL
-   * CTA テキスト
-   * CTA の整合性
+   * CTAテキスト
+   * CTAの整合性
 * ![](assets/quick-start-email-template-6.png)
 
 ### ディバイダーモジュール {#divider-module}

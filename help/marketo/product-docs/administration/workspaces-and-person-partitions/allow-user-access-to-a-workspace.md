@@ -4,16 +4,16 @@ description: ワークスペースへのユーザーアクセス権の設定 - M
 title: ワークスペースへのユーザーアクセス権の設定
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
 # ワークスペースへのユーザーアクセス権の設定 {#allow-user-access-to-a-workspace}
 
-ワークスペースは、任意の理由（ビジネスユニットや地域の分離など）で使用できます。各チームのアセット（スマートリスト、プログラムなど）を分離します。以下の手順を実行すると、1 つまたは複数のワークスペースに対するユーザーのアクセス権を設定することができます。
+ワークスペースは、任意の理由（ビジネスユニットや地域の分離など）で使用できます。各チームのアセット（スマートリスト、プログラムなど）を分けます。 以下の手順を実行すると、1 つまたは複数のワークスペースに対するユーザーのアクセス権を設定することができます。
 
 >[!NOTE]
 >
@@ -46,4 +46,3 @@ ht-degree: 100%
 変更を保存すると、更新が表示されます。
 
 ![](assets/allow-user-access-to-a-workspace-5.png)
-

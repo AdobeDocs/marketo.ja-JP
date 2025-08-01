@@ -2,8 +2,8 @@
 description: リリースノート - 2022年1月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022年1月
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '897'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 **_四半期リリース_**
 

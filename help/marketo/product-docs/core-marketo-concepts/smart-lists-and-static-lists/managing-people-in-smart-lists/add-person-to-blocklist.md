@@ -4,7 +4,7 @@ description: リードをブロックリストに追加 - Marketo ドキュメ�
 title: リードをブロックリストに追加
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 44%
@@ -81,4 +81,4 @@ ht-degree: 44%
 
 >[!TIP]
 >
->**トリガーブロックリストに加える可能な属性を持つ今後のすべてのユーザーについて、{Block Listed が true** の **Change Data Value** を使用して [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}0} パーソナライゼーションキャンペーンを作成します。
+>[トリガーブロックリストに加える可能な属性を持つ今後のすべてのユーザーについて、{Block Listed が true](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} の **Change Data Value** を使用して **0} パーソナライゼーションキャンペーンを作成します。**

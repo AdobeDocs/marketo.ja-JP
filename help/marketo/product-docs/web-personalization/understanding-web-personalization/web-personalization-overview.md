@@ -4,7 +4,7 @@ description: ウェブパーソナライズの概要 - Marketo ドキュメン�
 title: ウェブパーソナライズの概要
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 67%
@@ -15,7 +15,7 @@ ht-degree: 67%
 
 ## はじめに {#introduction}
 
-Marketoの新規のお客様の場合、[!UICONTROL &#x200B; リアルタイム Personalization] は 4 つのアプリに分けられ、これら 2 つのタイル（[!UICONTROL Web Personalization] および [!UICONTROL &#x200B; コンテンツ AI] を使用してアクセスされます。
+Marketoの新規のお客様の場合、[!UICONTROL  リアルタイム Personalization] は 4 つのアプリに分けられ、これら 2 つのタイル（[!UICONTROL Web Personalization] および [!UICONTROL  コンテンツ AI] を使用してアクセスされます。
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
@@ -32,8 +32,8 @@ Marketoの新規のお客様の場合、[!UICONTROL &#x200B; リアルタイム 
 次の 4 つのアプリが用意されています。
 
 * [!UICONTROL Web パーソナライズ機能]
-* [!UICONTROL &#x200B; アカウントベースの Web マーケティング &#x200B;]
-* [!UICONTROL Web サイトリターゲティング &#x200B;]
+* [!UICONTROL  アカウントベースの Web マーケティング ]
+* [!UICONTROL Web サイトリターゲティング ]
 * [!UICONTROL ContentAI]
 
 **[!UICONTROL ウェブパーソナライズ]** タイルは、パーソナライズされた web キャンペーンを作成するためのアクセスポイントです。アカウントベースのウェブマーケティング と Web リターゲティング。コンテンツ分析ページでコンテンツを追加できます。
@@ -46,7 +46,7 @@ Marketoの新規のお客様の場合、[!UICONTROL &#x200B; リアルタイム 
 
 >[!NOTE]
 >
->[!UICONTROL &#x200B; アカウントベースの web マーケティング &#x200B;] または [!UICONTROL web サイトのリターゲティング &#x200B;] にアクセスするには、[!UICONTROL Web Personalization] アプリがない場合でも、[!UICONTROL Web Personalization] タイルをクリックする必要があります。
+>[!UICONTROL  アカウントベースの web マーケティング ] または [!UICONTROL web サイトのリターゲティング ] にアクセスするには、[!UICONTROL Web Personalization] アプリがない場合でも、[!UICONTROL Web Personalization] タイルをクリックする必要があります。
 
 ## 組織 {#organizations}
 
@@ -66,20 +66,20 @@ Marketoの新規のお客様の場合、[!UICONTROL &#x200B; リアルタイム 
 
 組織ページの右パネルには、次の機能およびインサイトが表示されます。
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>スプレッドシートアイコン</strong>：パネルの右上にあるアイコンで、オフラインで使用するために、組織テーブルを CSV 形式でダウンロードできます</p><p><strong>[!UICONTROL メールアラートの設定 &#x200B;]</strong>：選択した組織が web サイトを訪問するたびに、ログインしたユーザーにメールを送信します</p><p><strong>[!UICONTROL リード &#x200B;]</strong>：選択した組織のリードテーブルを開きます</p><p><strong>[!UICONTROL 共有 &#x200B;]</strong>：ポップアップウィンドウが開き、この web ページにアクセスした組織の詳細がメールで共有されます</p><p><strong>場所アイコン</strong>：選択した組織の国と市区町村を表示します</p><p><strong>リンク</strong>：Jigsaw、Whois、Linkedin、Google、Twitter は、各ウェブページからの追加情報を含む新しいウィンドウを開き、選択した組織に対する詳細なインサイトを提供します</p><p><strong>[!UICONTROL Search]</strong>：訪問者が検索エンジンを使用して到着した場合に使用するキーワードを表示します</p><p><strong>[!UICONTROL リファラー &#x200B;]</strong>: サイトへのトラフィックを参照したページの URL リンクを表示します</p><p><strong>[!UICONTROL 訪問者 &#x200B;]</strong>：訪問回数、選択した組織で表示されたページ数、E メールアドレス（送信フォームを完了した場合）、および最終訪問日時が表示されます</p><p><strong>[!UICONTROL Clickstream]</strong>：サイト上のユーザーアクティビティと URL パス、および各ページの訪問時間の表を表示します</p></td> 
-   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>スプレッドシートアイコン</strong>：パネルの右上にあるアイコンで、オフラインで使用するために、組織テーブルを CSV 形式でダウンロードできます</p><p><strong>[!UICONTROL メールアラートの設定 ]</strong>：選択した組織が web サイトを訪問するたびに、ログインしたユーザーにメールを送信します</p><p><strong>[!UICONTROL リード ]</strong>：選択した組織のリードテーブルを開きます</p><p><strong>[!UICONTROL 共有 ]</strong>：ポップアップウィンドウが開き、この web ページにアクセスした組織の詳細がメールで共有されます</p><p><strong>場所アイコン</strong>：選択した組織の国と市区町村を表示します</p><p><strong>リンク</strong>：Jigsaw、Whois、Linkedin、Google、Twitter は、各ウェブページからの追加情報を含む新しいウィンドウを開き、選択した組織に対する詳細なインサイトを提供します</p><p><strong>[!UICONTROL Search]</strong>：訪問者が検索エンジンを使用して到着した場合に使用するキーワードを表示します</p><p><strong>[!UICONTROL リファラー ]</strong>: サイトへのトラフィックを参照したページの URL リンクを表示します</p><p><strong>[!UICONTROL 訪問者 ]</strong>：訪問回数、選択した組織で表示されたページ数、E メールアドレス（送信フォームを完了した場合）、および最終訪問日時が表示されます</p><p><strong>[!UICONTROL Clickstream]</strong>：サイト上のユーザーアクティビティと URL パス、および各ページの訪問時間の表を表示します</p></td>
+   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td>
+  </tr>
+ </tbody>
 </table>
 
 **組織を共有**
 
 Web サイト訪問者の情報を同僚と共有したい場合は、組織をクリックし、右側のパネルの「共有」リンクをクリックします。
 
-これにより、「[!UICONTROL &#x200B; この組織を共有 &#x200B;]」オーバーレイがアクティブになり、web サイトに訪問した組織の名前と詳細を記載したメールを送信できます。
+これにより、「[!UICONTROL  この組織を共有 ]」オーバーレイがアクティブになり、web サイトに訪問した組織の名前と詳細を記載したメールを送信できます。
 
 ![](assets/image2014-11-10-19-3a25-3a42.png)
 
@@ -91,37 +91,37 @@ Web サイト訪問者の情報を同僚と共有したい場合は、組織を�
 
 ![](assets/image2014-11-10-19-3a45-3a49.png)
 
-[!UICONTROL &#x200B; 訪問者 &#x200B;] ページの右側のパネルには、次のインサイトが表示されます。
+[!UICONTROL  訪問者 ] ページの右側のパネルには、次のインサイトが表示されます。
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>スプレッドシートアイコン</strong></td> 
-   <td colspan="1" rowspan="1">パネルの右上にあるアイコンで、オフラインで使用するために、訪問者テーブルを CSV 形式でダウンロードできます</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>組織名</strong></p></td> 
-   <td colspan="1" rowspan="1"> </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>キャンペーンの設定</strong></td> 
-   <td colspan="1" rowspan="1">選択した訪問者に関連付けられたキャンペーン CTA を設定できます</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>ロケーション</strong></td> 
-   <td colspan="1">訪問者の国、都道府県、市区町村が表示されます</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>クリックストリーム</strong></td> 
-   <td colspan="1" rowspan="1">訪問者アクティビティ、サイト上の URL パス、各ページの訪問時間のテーブルが表示されます</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">名前</th>
+   <th colspan="1" rowspan="1">説明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>スプレッドシートアイコン</strong></td>
+   <td colspan="1" rowspan="1">パネルの右上にあるアイコンで、オフラインで使用するために、訪問者テーブルを CSV 形式でダウンロードできます</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>組織名</strong></p></td>
+   <td colspan="1" rowspan="1"> </td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>キャンペーンの設定</strong></td>
+   <td colspan="1" rowspan="1">選択した訪問者に関連付けられたキャンペーン CTA を設定できます</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>ロケーション</strong></td>
+   <td colspan="1">訪問者の国、都道府県、市区町村が表示されます</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>クリックストリーム</strong></td>
+   <td colspan="1" rowspan="1">訪問者アクティビティ、サイト上の URL パス、各ページの訪問時間のテーブルが表示されます</td>
+  </tr>
+ </tbody>
 </table>
 
 ## リアルタイム {#real-time}
@@ -134,37 +134,37 @@ Web サイト訪問者の情報を同僚と共有したい場合は、組織を�
 
 リアルタイムページは、オンサイト訪問者の詳細に関する次の 6 つの情報テーブルに分割されます。
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL 訪問者 &#x200B;]</strong></td> 
-   <td colspan="1" rowspan="1"> 現在ウェブサイトにアクセスしている訪問者数を表します</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL クリック数/分 &#x200B;]</strong></p></td> 
-   <td colspan="1" rowspan="1"> サイトでの 1 分あたりのクリック数を示すライブ線グラフ</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL 上位の組織 &#x200B;]</strong></td> 
-   <td colspan="1" rowspan="1">組織テーブルの短いバージョン</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL リアルタイム セグメント &#x200B;]</strong></td> 
-   <td colspan="1">指定したセグメントに一致する、現在オンサイトの訪問者の数</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL は現在参照中です &#x200B;]</strong></td> 
-   <td colspan="1">オンサイト訪問者が現在閲覧中のページの URL</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL の上位の参照 &#x200B;]</strong></td> 
-   <td colspan="1" rowspan="1">訪問者をサイトに導いたリファラル URL</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">名前</th>
+   <th colspan="1" rowspan="1">説明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL 訪問者 ]</strong></td>
+   <td colspan="1" rowspan="1"> 現在ウェブサイトにアクセスしている訪問者数を表します</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL クリック数/分 ]</strong></p></td>
+   <td colspan="1" rowspan="1"> サイトでの 1 分あたりのクリック数を示すライブ線グラフ</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL 上位の組織 ]</strong></td>
+   <td colspan="1" rowspan="1">組織テーブルの短いバージョン</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL リアルタイム セグメント ]</strong></td>
+   <td colspan="1">指定したセグメントに一致する、現在オンサイトの訪問者の数</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL は現在参照中です ]</strong></td>
+   <td colspan="1">オンサイト訪問者が現在閲覧中のページの URL</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL の上位の参照 ]</strong></td>
+   <td colspan="1" rowspan="1">訪問者をサイトに導いたリファラル URL</td>
+  </tr>
+ </tbody>
 </table>

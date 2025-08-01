@@ -3,14 +3,14 @@ description: コマンドセンターのクイックアクション - Marketo �
 title: コマンドセンターのクイックアクション
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '323'
 ht-degree: 89%
 
 ---
 
-# [!UICONTROL &#x200B; コマンドセンター &#x200B;] のクイックアクション {#quick-actions-in-the-command-center}
+# [!UICONTROL  コマンドセンター ] のクイックアクション {#quick-actions-in-the-command-center}
 
 メールグリッドには 2 種類のクイックアクション列があります。メールに対してアクションを実行できるメールアクションと、数回のクリックでエンゲージメントアクションを実行できるフォローアップアクションがあります。
 
@@ -27,59 +27,59 @@ ht-degree: 89%
 
 **[!UICONTROL アーカイブ済み]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL アーカイブ解除 &#x200B;]</td> 
-   <td>メールを配信されたフォルダーに戻し、表示およびクリックの追跡を再開します。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL 削除 &#x200B;]</td> 
-   <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL アーカイブ解除 ]</td>
+   <td>メールを配信されたフォルダーに戻し、表示およびクリックの追跡を再開します。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL 削除 ]</td>
+   <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td>
+  </tr>
+ </tbody>
 </table>
 
-**[!UICONTROL ドラフト &#x200B;] および [!UICONTROL &#x200B; スケジュール済み]**
+**[!UICONTROL ドラフト ] および [!UICONTROL  スケジュール済み]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL 編集 &#x200B;]</td> 
-   <td>編集する作成ウィンドウでメールを開きます。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL 削除 &#x200B;]</td> 
-   <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL 編集 ]</td>
+   <td>編集する作成ウィンドウでメールを開きます。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL 削除 ]</td>
+   <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td>
+  </tr>
+ </tbody>
 </table>
 
-**[!UICONTROL 失敗 &#x200B;]、[!UICONTROL &#x200B; バウンス &#x200B;] および [!UICONTROL &#x200B; スパム]**
+**[!UICONTROL 失敗 ]、[!UICONTROL  バウンス ] および [!UICONTROL  スパム]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL 再試行送信 &#x200B;]</td> 
-   <td>即座にメールの再送信を試みます。</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL 削除 &#x200B;]</td> 
-   <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL 再試行送信 ]</td>
+   <td>即座にメールの再送信を試みます。</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL 削除 ]</td>
+   <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL フォローアップアクション]**

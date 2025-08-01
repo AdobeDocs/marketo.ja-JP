@@ -1,15 +1,16 @@
 ---
 description: インタラクティブなウェビナーの配信 – Marketo ドキュメント – 製品ドキュメント
-title: インタラクティブなウェビナーの配信
+title: インタラクティブウェビナーの配信
 feature: Interactive Webinars
-source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
+exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1052'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# インタラクティブなウェビナーの配信 {#deliver-an-interactive-webinar}
+# インタラクティブウェビナーの配信 {#deliver-an-interactive-webinar}
 
 これで、インタラクティブウェビナーを開始する準備が整いました。 プレゼンテーションについて知る必要のあるすべての情報を説明します。
 
@@ -130,12 +131,12 @@ ht-degree: 0%
 
 ### アクセシビリティ {#accessibility}
 
-Adobeは、インタラクティブウェビナーのアクセシビリティを向上させることによって、発表者や障害のある参加者を含めるよう努めています。 このソフトウェアは、あらゆるタイプのユーザーのニーズに応え、視覚、聴覚、運動などの障害を持つユーザーも含めた世界標準に準拠するように継続的に強化されています。
+Adobeは、インタラクティブウェビナーのアクセシビリティを向上させることにより、発表者や障がいのある参加者を含めるよう努めています。 このソフトウェアは、あらゆるタイプのユーザーのニーズに応え、視覚、聴覚、運動などの障害を持つユーザーも含めた世界標準に準拠するように継続的に強化されています。
 
-Adobe Connectが視覚、聴覚、運動のニーズ [ に対する支援を提供する方法について説明 ](https://helpx.adobe.com/jp/adobe-connect/using/accessibility-features.html){target="_blank"} ます。
+Adobe Connectが視覚、聴覚、運動のニーズ [ に対する支援を提供する方法について説明 ](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"} ます。
 
 ### クローズドキャプション {#closed-captions}
 
 クローズドキャプションは、Adobe Connect ルーム内の音声をテキストで表現したもので、耳が聞こえない参加者や聞こえにくい参加者がイベントに参加するのに役立ちます。 オーディオコンテンツのリアルタイムキャプションをイベントに統合し、これらのキャプションをクローズドキャプション表示に表示できます。
 
-詳細情報 [ クローズドキャプションを有効にする ](https://helpx.adobe.com/jp/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
+詳細情報 [ クローズドキャプションを有効にする ](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。

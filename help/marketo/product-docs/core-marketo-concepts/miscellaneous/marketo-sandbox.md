@@ -3,8 +3,8 @@ unique-page-id: 11386358
 description: Marketo サンドボックス - Marketo ドキュメント - 製品ドキュメント
 title: Marketo サンドボックス
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 100%
 

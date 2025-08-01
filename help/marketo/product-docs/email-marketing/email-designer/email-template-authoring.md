@@ -4,9 +4,9 @@ title: メールテンプレート
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1840'
+source-wordcount: '1838'
 ht-degree: 5%
 
 ---
@@ -159,7 +159,7 @@ _テンプレートをデザイン_ ページで、いくつかのオプショ�
 
 >[!TIP]
 >
->フラグメントをメール内の水平レイアウト全体に配置する場合は、1:1 列構造を追加してから、フラグメントをメール内にドラッグ&amp;ドロップします。
+>フラグメントをメール内の水平レイアウト全体に配置する場合は、:1 列構造を追加してから、フラグメントをメール内にドラッグ&amp;ドロップします。
 
 メールを保存すると、フラグメントの詳細ページの _[!UICONTROL 送信者]_ タブに表示されます。 メールテンプレートに追加されたフラグメントは、テンプレート内では編集できません。ソースフラグメントがコンテンツを定義します。
 

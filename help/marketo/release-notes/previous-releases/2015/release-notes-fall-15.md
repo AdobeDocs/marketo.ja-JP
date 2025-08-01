@@ -4,10 +4,10 @@ description: リリースノート - 2015年秋 - Marketo ドキュメント - �
 title: リリースノート - 2015年秋
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
-source-wordcount: '967'
-ht-degree: 100%
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
+source-wordcount: '966'
+ht-degree: 97%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 [Marketo カスタムオブジェクト](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-管理 UI からカスタムオブジェクトを簡単に作成できます。現在、Marketo では 1:N カスタムオブジェクトを作成し、それをリードや会社に接続する機能をサポートしています。
+管理 UI からカスタムオブジェクトを簡単に作成できます。現在、Marketoで 1:N カスタムオブジェクトを作成し、リードまたは会社に接続する機能をサポートしています。
 
 >[!NOTE]
 >
@@ -138,7 +138,7 @@ RTP キャンペーンを複製すると、より迅速かつ効率的に、よ�
 
 ```
 <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-<td background="someImage.png"> 
+<td background="someImage.png">
 ```
 
 ## [!DNL Microsoft Dynamics] - 同期を検証 {#microsoft-dynamics-validate-sync}

@@ -4,7 +4,7 @@ description: プログラム収益ステージ分析領域について - Marketo
 title: プログラム収益ステージ分析領域について
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 100%
@@ -41,114 +41,114 @@ ht-degree: 100%
 
 **モデルの属性**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>ディメンション</strong></td> 
-   <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>モデルはアクティブか</p></td> 
-   <td colspan="1" rowspan="1"><p>現在モデルが承認済みでアクティブかどうかを示します。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>ステージはアクティブか</p></td> 
-   <td colspan="1" rowspan="1"><p>ステージがアクティブかどうかを示します。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>成功パス上</p></td> 
-   <td colspan="1" rowspan="1"><p>ステージが成功パス上にあるかどうかを説明します</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>モデル</p></td> 
-   <td colspan="1" rowspan="1"><p>モデル名</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>ステージ</p></td> 
-   <td colspan="1" rowspan="1"><p>収益サイクルモデルに存在するステージ。2 つのステージ間の測定を分析する際に、「開始」ステージとして使用されます</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>ステージタイプ</p></td> 
-   <td colspan="1" rowspan="1"><p>タイプについて説明します。各ステージの在庫、SLA、またはゲート</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>ディメンション</strong></td>
+   <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>モデルはアクティブか</p></td>
+   <td colspan="1" rowspan="1"><p>現在モデルが承認済みでアクティブかどうかを示します。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>ステージはアクティブか</p></td>
+   <td colspan="1" rowspan="1"><p>ステージがアクティブかどうかを示します。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>成功パス上</p></td>
+   <td colspan="1" rowspan="1"><p>ステージが成功パス上にあるかどうかを説明します</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>モデル</p></td>
+   <td colspan="1" rowspan="1"><p>モデル名</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>ステージ</p></td>
+   <td colspan="1" rowspan="1"><p>収益サイクルモデルに存在するステージ。2 つのステージ間の測定を分析する際に、「開始」ステージとして使用されます</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>ステージタイプ</p></td>
+   <td colspan="1" rowspan="1"><p>タイプについて説明します。各ステージの在庫、SLA、またはゲート</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **プログラムの属性**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>ディメンション</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>プログラムチャネル</p></td> 
-   <td colspan="1" rowspan="1"><p>プログラムチャネル</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>プログラム名</p></td> 
-   <td colspan="1" rowspan="1"><p>プログラム名</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>ディメンション</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>プログラムチャネル</p></td>
+   <td colspan="1" rowspan="1"><p>プログラムチャネル</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>プログラム名</p></td>
+   <td colspan="1" rowspan="1"><p>プログラム名</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **プログラムコスト期間**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>ディメンション</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>コスト年</p></td> 
-   <td colspan="1" rowspan="1"><p>プログラムコスト期間</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>コスト四半期</p></td> 
-   <td colspan="1" rowspan="1"><p>プログラムコスト期間</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>コスト月</p></td> 
-   <td colspan="1" rowspan="1"><p>プログラムコスト期間</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>ディメンション</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>コスト年</p></td>
+   <td colspan="1" rowspan="1"><p>プログラムコスト期間</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>コスト四半期</p></td>
+   <td colspan="1" rowspan="1"><p>プログラムコスト期間</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>コスト月</p></td>
+   <td colspan="1" rowspan="1"><p>プログラムコスト期間</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **ステージメンバーシップ**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>測定</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>モデルはアクティブか</p></td> 
-   <td colspan="1" rowspan="1"><p>現在モデルが承認済みでアクティブかどうかを示します。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>ステージはアクティブか</p></td> 
-   <td colspan="1" rowspan="1"><p>ステージがアクティブかどうかを示します。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>成功パス上</p></td> 
-   <td colspan="1" rowspan="1"><p>ステージが成功パス上にあるかどうかを説明します</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>新しい名前あたりのコスト</p></td> 
-   <td colspan="1" rowspan="1"><p>ステージに到達した新しい名前の平均コスト</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>新しい名前（現在）</p></td> 
-   <td colspan="1" rowspan="1"><p>現在ステージに存在し、プログラムによって取得されたリードの合計数</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p>新しい名前（かつて）</p></td> 
-   <td colspan="1" rowspan="1"><p>タイプについて説明します。各ステージの在庫、SLA、またはゲート</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>測定</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>モデルはアクティブか</p></td>
+   <td colspan="1" rowspan="1"><p>現在モデルが承認済みでアクティブかどうかを示します。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>ステージはアクティブか</p></td>
+   <td colspan="1" rowspan="1"><p>ステージがアクティブかどうかを示します。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>成功パス上</p></td>
+   <td colspan="1" rowspan="1"><p>ステージが成功パス上にあるかどうかを説明します</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>新しい名前あたりのコスト</p></td>
+   <td colspan="1" rowspan="1"><p>ステージに到達した新しい名前の平均コスト</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>新しい名前（現在）</p></td>
+   <td colspan="1" rowspan="1"><p>現在ステージに存在し、プログラムによって取得されたリードの合計数</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p>新しい名前（かつて）</p></td>
+   <td colspan="1" rowspan="1"><p>タイプについて説明します。各ステージの在庫、SLA、またはゲート</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

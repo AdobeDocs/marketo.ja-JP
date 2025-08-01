@@ -4,7 +4,7 @@ description: メールリンク効果レポート - Marketo ドキュメント -
 title: メールリンク効果レポート
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 94%
@@ -41,35 +41,35 @@ ht-degree: 94%
 
 メールリンク効果レポートで[使用可能な列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)は次のとおりです。
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">[!UICONTROL 列 &#x200B;]</th> 
-   <th colspan="1" rowspan="1">説明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL リンク &#x200B;]</td> 
-   <td colspan="1" rowspan="1">メール名でグループ化。<br>プラス（+）をクリックすると、そのメールに含まれているすべてのリンクが表示されます。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL クリック数 &#x200B;]</td> 
-   <td colspan="1" rowspan="1">そのリンクがクリックされた回数。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL クリック数 &#x200B;]</td> 
-   <td colspan="1" rowspan="1">そのメール内のすべてのリンクでの合計クリック数のうち、このリンクに対する割合。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL のユーザー &#x200B;]</td> 
-   <td colspan="1" rowspan="1">リンクをクリックしたユニークユーザ数。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL ユーザー &#x200B;]</td> 
-   <td colspan="1" rowspan="1">メール内のリンクをクリックした合計ユニークユーザ数のうち、このリンクに対する割合。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">[!UICONTROL 列 ]</th>
+   <th colspan="1" rowspan="1">説明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL リンク ]</td>
+   <td colspan="1" rowspan="1">メール名でグループ化。<br>プラス（+）をクリックすると、そのメールに含まれているすべてのリンクが表示されます。</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL クリック数 ]</td>
+   <td colspan="1" rowspan="1">そのリンクがクリックされた回数。</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL クリック数 ]</td>
+   <td colspan="1" rowspan="1">そのメール内のすべてのリンクでの合計クリック数のうち、このリンクに対する割合。</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL のユーザー ]</td>
+   <td colspan="1" rowspan="1">リンクをクリックしたユニークユーザ数。</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL ユーザー ]</td>
+   <td colspan="1" rowspan="1">メール内のリンクをクリックした合計ユニークユーザ数のうち、このリンクに対する割合。</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

@@ -4,7 +4,7 @@ description: 手順 1／3 - Marketo フィールドの Salesforce への追加�
 title: 手順 1／3 - Marketo フィールドの Salesforce への追加（Professional）
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 70%
@@ -53,47 +53,47 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 1. 次の表に示すように、フィールドの「[!UICONTROL フィールドラベル]」、「[!UICONTROL 長さ]」、「[!UICONTROL フィールド名]」を入力します。
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      フィールドラベル 
-    </div></th> 
-   <th> 
+      フィールドラベル
+    </div></th>
+   <th>
     <div>
-      フィールド名 
-    </div></th> 
-   <th> 
+      フィールド名
+    </div></th>
+   <th>
     <div>
-      データタイプ 
-    </div></th> 
-   <th> 
+      データタイプ
+    </div></th>
+   <th>
     <div>
-      フィールド属性 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>スコア</td> 
-   <td>mkto71_Lead_Score</td> 
-   <td>数字</td> 
-   <td>長さ 10 <br>小数点以下桁数 0 </td> 
-  </tr> 
-  <tr> 
-   <td>取得日</td> 
-   <td>mkto71_Acquisition_Date</td> 
-   <td>日時</td> 
-   <td> </td> 
-  </tr> 
-  <tr> 
-   <td>新規顧客獲得プログラム</td> 
-   <td>mkto71_Acquisition_Program</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
- </tbody> 
+      フィールド属性
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>スコア</td>
+   <td>mkto71_Lead_Score</td>
+   <td>数字</td>
+   <td>長さ 10 <br>小数点以下桁数 0 </td>
+  </tr>
+  <tr>
+   <td>取得日</td>
+   <td>mkto71_Acquisition_Date</td>
+   <td>日時</td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td>新規顧客獲得プログラム</td>
+   <td>mkto71_Acquisition_Program</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -134,93 +134,93 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 1. リードオブジェクトと同様に、連絡先オブジェクトの「スコア」、「獲得日」、「獲得プログラム」フィールドについて手順 3 ～ 10 を実行します。
 1. 必要に応じて、このテーブルの追加のカスタムフィールドに対して上記の手順を実行します。
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>フィールドラベル</th> 
-   <th>フィールド名</th> 
-   <th>データタイプ</th> 
-   <th>フィールド属性</th> 
-  </tr> 
-  <tr> 
-   <td>新規顧客獲得プログラム ID</td> 
-   <td>mkto71_Acquisition_Program_Id</td> 
-   <td>数字</td> 
-   <td>長さ 18 <br>小数点以下桁数 0 </td> 
-  </tr> 
-  <tr> 
-   <td>訪問者の参照元</td> 
-   <td>mkto71_Original_Referrer</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
-  <tr> 
-   <td>参照元検索エンジン</td> 
-   <td>mkto71_Original_Search_Engine</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
-  <tr> 
-   <td>参照元検索フレーズ</td> 
-   <td>mkto71_Original_Search_Phrase</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
-  <tr> 
-   <td>参照元のソース情報</td> 
-   <td>mkto71_Original_Source_Info</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
-  <tr> 
-   <td>参照元のソースのタイプ</td> 
-   <td>mkto71_Original_Source_Type</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
-  <tr> 
-   <td>推測される市区町村</td> 
-   <td>mkto71_Inferred_City</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
-  <tr> 
-   <td>推測される企業</td> 
-   <td>mkto71_Inferred_Company</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
-  <tr> 
-   <td>推測される国</td> 
-   <td>mkto71_Inferred_Country</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
-  <tr> 
-   <td>推測される都市圏</td> 
-   <td>mkto71_Inferred_Metropolitan_Area</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
-  <tr> 
-   <td>推測される市外局番</td> 
-   <td>mkto71_Inferred_Phone_Area_Code</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
-  <tr> 
-   <td>推測される郵便番号</td> 
-   <td>mkto71_Inferred_Postal_Code</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
-  <tr> 
-   <td>推測される都道府県／地域</td> 
-   <td>mkto71_Inferred_State_Region</td> 
-   <td>テキスト</td> 
-   <td>長さ 255</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>フィールドラベル</th>
+   <th>フィールド名</th>
+   <th>データタイプ</th>
+   <th>フィールド属性</th>
+  </tr>
+  <tr>
+   <td>新規顧客獲得プログラム ID</td>
+   <td>mkto71_Acquisition_Program_Id</td>
+   <td>数字</td>
+   <td>長さ 18 <br>小数点以下桁数 0 </td>
+  </tr>
+  <tr>
+   <td>訪問者の参照元</td>
+   <td>mkto71_Original_Referrer</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+  <tr>
+   <td>参照元検索エンジン</td>
+   <td>mkto71_Original_Search_Engine</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+  <tr>
+   <td>参照元検索フレーズ</td>
+   <td>mkto71_Original_Search_Phrase</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+  <tr>
+   <td>参照元のソース情報</td>
+   <td>mkto71_Original_Source_Info</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+  <tr>
+   <td>参照元のソースのタイプ</td>
+   <td>mkto71_Original_Source_Type</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+  <tr>
+   <td>推測される市区町村</td>
+   <td>mkto71_Inferred_City</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+  <tr>
+   <td>推測される企業</td>
+   <td>mkto71_Inferred_Company</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+  <tr>
+   <td>推測される国</td>
+   <td>mkto71_Inferred_Country</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+  <tr>
+   <td>推測される都市圏</td>
+   <td>mkto71_Inferred_Metropolitan_Area</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+  <tr>
+   <td>推測される市外局番</td>
+   <td>mkto71_Inferred_Phone_Area_Code</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+  <tr>
+   <td>推測される郵便番号</td>
+   <td>mkto71_Inferred_Postal_Code</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+  <tr>
+   <td>推測される都道府県／地域</td>
+   <td>mkto71_Inferred_State_Region</td>
+   <td>テキスト</td>
+   <td>長さ 255</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

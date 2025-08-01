@@ -3,7 +3,7 @@ description: プログラムインポートライブラリの概要 - Marketo �
 title: プログラムインポートライブラリの概要
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 12%
@@ -14,7 +14,7 @@ ht-degree: 12%
 
 Marketo Engage参照ライブラリには、Marketo インスタンスに直接読み込んで、チームをサポートするプログラムを構築するためのキックスタートを実行できるスタータープログラムがいくつか含まれています。
 
-ライブラリには、メール、エンゲージメント、イベント、スコアリング、配信品質、運用などのプログラムが含まれます。 すべてのプログラムは、Adobeプロダクトチームが開発し、質と効果を最大限に高めるために [ グローバルプロフェッショナルサービス ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} チームが審査を行っています。
+ライブラリには、メール、エンゲージメント、イベント、スコアリング、配信品質、運用などのプログラムが含まれます。 すべてのプログラムは、Adobe製品チームが開発し、質と効果を最大限に高めるために [ グローバルプロフェッショナルサービス ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} チームが審査しました。
 
 ## 使用可能なプログラムの例 {#available-program-examples}
 

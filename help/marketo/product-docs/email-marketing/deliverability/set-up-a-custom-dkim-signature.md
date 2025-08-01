@@ -4,7 +4,7 @@ description: カスタム DKIM 署名の設定 - Marketo ドキュメント - �
 title: カスタム DKIM 署名の設定
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 100%
@@ -41,12 +41,12 @@ DKIM 署名をパーソナライズして、選択したドメインを反映さ
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
-   <table> 
+   <table>
    <tr>
    <td width="20%"><b>セレクター</b></td>
    <td>DKIM レコードの公開鍵部分を検索するために使用される一意の文字列/識別子。 任意の文字列を指定するか、その DKIM キー/レコードの目的を分離して識別する一意の ID を指定できます。</td>
    </tr>
-   <tr> 
+   <tr>
    <td width="20%"><b>キーサイズ</b></td>
    <td>DKIM 署名の暗号化に使用するセキュリティのレベル。</td>
    </tr>

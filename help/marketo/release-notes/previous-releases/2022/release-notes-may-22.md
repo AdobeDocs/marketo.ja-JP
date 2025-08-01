@@ -2,8 +2,8 @@
 description: リリースノート - 2022 年 5 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022 年 5 月
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '803'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 **_四半期リリース_**
 
@@ -69,4 +69,4 @@ ht-degree: 100%
 
 **_製品リリースウェビナー_**
 
-[2022年3月および 5月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}
+[2022年3月および5月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

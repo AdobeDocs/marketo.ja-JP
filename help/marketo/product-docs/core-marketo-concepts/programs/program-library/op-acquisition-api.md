@@ -3,7 +3,7 @@ description: OP-Acquisition-API - Marketo ドキュメント – 製品ドキュ
 title: OP-Acquisition-API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 21%
@@ -16,48 +16,48 @@ ht-degree: 21%
 
 ## チャネルサマリ {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>チャネル</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>チャネル</th>
    <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
-  </tr> 
-  <tr> 
-   <td>オペレーショナル</td> 
+  </tr>
+  <tr>
+   <td>オペレーショナル</td>
    <td>01 – メンバー</td>
    <td>オペレーショナル</td>
    <td>デフォルト</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>タイプ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>タイプ</th>
    <th>テンプレート名</th>
    <th>アセット名</th>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>取得の設定 – バッチ</td>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>取得の設定 – トリガー</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
    <td>キャンペーン（すべてのスマートキャンペーンを含む）</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-acquisition-api-1.png)

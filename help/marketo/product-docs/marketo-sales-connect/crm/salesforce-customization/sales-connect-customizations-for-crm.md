@@ -4,7 +4,7 @@ description: CRM の [!DNL Sales Connect] カスタマイズ - Marketo ドキュ
 title: CRM 用の [!DNL Sales Connect] カスタマイズ
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '676'
 ht-degree: 90%
@@ -21,7 +21,7 @@ ht-degree: 90%
 
    ![](assets/one.png)
 
-1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、**[!UICONTROL Salesforce]** を選択します。
+1. [!UICONTROL  管理設定 ] で、**[!UICONTROL Salesforce]** を選択します。
 
    ![](assets/two.png)
 
@@ -49,7 +49,7 @@ ht-degree: 90%
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、**[!UICONTROL Salesforce]** をクリックします。
+1. [!UICONTROL  管理者設定 ] で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 

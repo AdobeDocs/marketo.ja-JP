@@ -4,7 +4,7 @@ description: 登録コードを使用したMarketo Email Add [!DNL Outlook] in �
 title: 登録コードを使用した、用のMarketo E メール  [!DNL Outlook]  ドインのインストール
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '536'
 ht-degree: 88%

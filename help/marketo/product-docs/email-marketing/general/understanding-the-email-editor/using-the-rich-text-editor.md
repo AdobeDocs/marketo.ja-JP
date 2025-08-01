@@ -4,7 +4,7 @@ description: リッチテキストエディターの使用 - Marketo ドキュ�
 title: リッチテキストエディターの使用
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '739'
 ht-degree: 86%
@@ -35,30 +35,30 @@ ht-degree: 86%
 
    ![](assets/three.png)
 
-1. **[!UICONTROL メール &#x200B;]/[!UICONTROL &#x200B; スニペットエディター]** ドロップダウンで、「`<div>`」または「[!UICONTROL &#x200B; なし &#x200B;] を選択し、「**[!UICONTROL 保存]**」をクリックします。 この例では `<div>` が使用されています。
+1. **[!UICONTROL メール ]/[!UICONTROL  スニペットエディター]** ドロップダウンで、「`<div>`」または「[!UICONTROL  なし ] を選択し、「**[!UICONTROL 保存]**」をクリックします。 この例では `<div>` が使用されています。
 
    ![](assets/four.png)
 
    メールテンプレートに `<div class=“mktEditable”></div>` がある場合、セクションを開き、エディターで「ここにテキストを入力」と入力すると、次の HTML ソース動作が表示されます。
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>&lt;p&gt;</th> 
-   <th>&lt;div&gt;</th> 
-   <th>None</th> 
-  </tr> 
-  <tr> 
-   <td><p>&lt;div class=“mktEditable”&gt;<br>&lt;p&gt;ここにテキストを入力&lt;/p&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class=“mktEditable”&gt;<br>&lt;div&gt;ここにテキストを入力&lt;/div&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="“mktEditable”"&gt;<br>ここにテキストを入力<br>&lt;/div&gt;</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>&lt;p&gt;</th>
+   <th>&lt;div&gt;</th>
+   <th>None</th>
+  </tr>
+  <tr>
+   <td><p>&lt;div class=“mktEditable”&gt;<br>&lt;p&gt;ここにテキストを入力&lt;/p&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class=“mktEditable”&gt;<br>&lt;div&gt;ここにテキストを入力&lt;/div&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="“mktEditable”"&gt;<br>ここにテキストを入力<br>&lt;/div&gt;</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]
 >
->同じ手順に従って、手順 4 で **[!UICONTROL メール]** / [!UICONTROL &#x200B; スニペットエディター &#x200B;] ではなく [!UICONTROL &#x200B; ランディングページエディター &#x200B;] ドロップダウンをクリックして、ランディングページエディターのルートブロック要素を変更することもできます。
+>同じ手順に従って、手順 4 で **[!UICONTROL メール]** / [!UICONTROL  スニペットエディター ] ではなく [!UICONTROL  ランディングページエディター ] ドロップダウンをクリックして、ランディングページエディターのルートブロック要素を変更することもできます。
 
 >[!NOTE]
 >
@@ -70,34 +70,34 @@ RTE に含まれる機能を次に示します。
 
 | アイコン | 名前 | 機能 |
 |---|---|---|
-| ![--](assets/image2015-7-9-10-3a23-3a24.png) | [!UICONTROL &#x200B; フォントファミリー &#x200B;] | 自分のスタイルを選んでください。たくさんあります。 |
-| ![--](assets/image2015-7-9-10-3a22-3a11.png) | [!UICONTROL &#x200B; フォントサイズ &#x200B;] | どれくらいの大きさがいりますか？8px ～ 90px の 25 の選択肢。 |
-| ![--](assets/image2015-7-9-10-3a59-3a4.png) | [!UICONTROL &#x200B; スタイル &#x200B;] | 「段落」または「6 つの見出しスタイル」（ランディングページ用）を選択します。 |
-| ![--](assets/image2015-7-9-10-3a20-3a1.png) | [!UICONTROL &#x200B; 行間 &#x200B;] | 線間の距離を選択します。 |
-| ![--](assets/image2015-7-9-10-3a25-3a52.png) | [!UICONTROL &#x200B; テキストの色 &#x200B;] | 黒、赤、または何でも好きなもの。 |
-| ![--](assets/image2015-7-9-10-3a24-3a38.png) | [!UICONTROL &#x200B; 背景色 &#x200B;] | ハイライト表示して強調。 |
-| ![--](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL &#x200B; 太字 &#x200B;] | **より濃く、より太い**。 |
-| ![--](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL &#x200B; 斜体 &#x200B;] | *斜め（強調または引用）* |
-| ![--](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL &#x200B; アンダーライン &#x200B;] | テキストの下に行を配置します。 |
-| ![--](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL &#x200B; 整合性 &#x200B;] | このドロップダウンを使用して、テキストと画像をレイアウトします。中央揃え、左または右揃えを選択するか、エッジをエッジに広げて位置合わせを完全におこないます。 |  | ![--](assets/image2015-7-9-10-3a32-3a47.png) | リスト | ドロップダウンから箇条書き記号または数字を選択します。箇条書き記号は、リストとステップ付きの番号に適しています。 |
-| ![--](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL &#x200B; インデント &#x200B;] | インデントを増減します。段落や目立たせる任意のテキストに使用します。 |
-| ![--](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL &#x200B; リンクを挿入/編集 &#x200B;] | Web サイトやその他のコンテンツへのリンクを配置し、簡単に変更できます。 |
-| ![--](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL &#x200B; 画像を挿入/編集 &#x200B;] | 絵は千語の価値があります。1 つ追加しましょう。カメラアイコンをクリックして、Design Studio を参照します。画像を並べてドロップできます。 |
-| ![--](assets/image2015-7-9-10-3a40-3a36.png) | [!UICONTROL &#x200B; トークンを挿入 &#x200B;] | メールのパーソナライズ機能とデータのトラッキングに最適な強力なツールです。必ずデフォルト値を入力してください。 |
-| ![--](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL &#x200B; 元に戻す &#x200B;] | エラー！1 つ前のステップに戻って、もう一度試してみましょう。 |
-| ![--](assets/image2015-7-9-10-3a42-3a13.png) | [!UICONTROL &#x200B; やり直し &#x200B;] | 元のままでよければ、元に戻ります。 |
-| ![--](assets/image2015-7-9-10-3a43-3a29.png) | [!UICONTROL &#x200B; テーブル &#x200B;] | このように、独自のものを構築します。ドロップダウンメニューを使用して設定できます。 |
-| ![--](assets/image2015-7-9-10-3a45-3a1.png) | [!UICONTROL &#x200B; アンカーの挿入 &#x200B;] | 錨を下ろします。 |
-| ![--](assets/image2015-7-9-10-3a45-3a48.png) | [!UICONTROL &#x200B; 水平線 &#x200B;] | 多くの用途があり、セクションを分割するのに最適です。 |
-| ![--](assets/image2015-10-6-12-3a12-3a17.png) | [!UICONTROL HTMLを編集 &#x200B;] | HTML ソースエディターがポップアップ表示され、コードを編集できます。 |
-| ![--](assets/image2015-7-9-10-3a47-3a36.png) | [!UICONTROL &#x200B; 添字 &#x200B;] | （O`<sub>2</sub>` のように）低く垂れ下がる文字。 |
-| ![--](assets/image2015-7-9-10-3a48-3a35.png) | [!UICONTROL &#x200B; 上付き文字 &#x200B;] | 累乗などに使います（2`<sup>6</sup>`）。 |
-| ![--](assets/image2015-7-9-10-3a49-3a31.png) | [!UICONTROL &#x200B; 取り消し線 &#x200B;] | `<s>Put a line through text, like this</s>`. |
-| ![--](assets/image2015-7-9-10-3a50-3a11.png) | [!UICONTROL &#x200B; 特殊文字 &#x200B;] | ユーロの話をするにしても、数学にしても、選択肢は 243 あります。 |
-| ![--](assets/image2015-7-9-10-3a52-3a26.png) | [!UICONTROL &#x200B; 検索と置換 &#x200B;] | 各インスタンスを自分で探すよりもはるかに速く検索して変更できます。 |
-| ![--](assets/image2015-7-9-10-3a53-3a37.png) | [!UICONTROL &#x200B; 書式のクリア &#x200B;] | 標準に戻します。 |
+| ![--](assets/image2015-7-9-10-3a23-3a24.png) | [!UICONTROL  フォントファミリー ] | 自分のスタイルを選んでください。たくさんあります。 |
+| ![--](assets/image2015-7-9-10-3a22-3a11.png) | [!UICONTROL  フォントサイズ ] | どれくらいの大きさがいりますか？8px ～ 90px の 25 の選択肢。 |
+| ![--](assets/image2015-7-9-10-3a59-3a4.png) | [!UICONTROL  スタイル ] | 「段落」または「6 つの見出しスタイル」（ランディングページ用）を選択します。 |
+| ![--](assets/image2015-7-9-10-3a20-3a1.png) | [!UICONTROL  行間 ] | 線間の距離を選択します。 |
+| ![--](assets/image2015-7-9-10-3a25-3a52.png) | [!UICONTROL  テキストの色 ] | 黒、赤、または何でも好きなもの。 |
+| ![--](assets/image2015-7-9-10-3a24-3a38.png) | [!UICONTROL  背景色 ] | ハイライト表示して強調。 |
+| ![--](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL  太字 ] | **より濃く、より太い**。 |
+| ![--](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL  斜体 ] | *斜め（強調または引用）* |
+| ![--](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL  アンダーライン ] | テキストの下に行を配置します。 |
+| ![--](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL  整合性 ] | このドロップダウンを使用して、テキストと画像をレイアウトします。中央揃え、左または右揃えを選択するか、エッジをエッジに広げて位置合わせを完全におこないます。 |  | ![--](assets/image2015-7-9-10-3a32-3a47.png) | リスト | ドロップダウンから箇条書き記号または数字を選択します。箇条書き記号は、リストとステップ付きの番号に適しています。 |
+| ![--](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL  インデント ] | インデントを増減します。段落や目立たせる任意のテキストに使用します。 |
+| ![--](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL  リンクを挿入/編集 ] | Web サイトやその他のコンテンツへのリンクを配置し、簡単に変更できます。 |
+| ![--](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL  画像を挿入/編集 ] | 絵は千語の価値があります。1 つ追加しましょう。カメラアイコンをクリックして、Design Studio を参照します。画像を並べてドロップできます。 |
+| ![--](assets/image2015-7-9-10-3a40-3a36.png) | [!UICONTROL  トークンを挿入 ] | メールのパーソナライズ機能とデータのトラッキングに最適な強力なツールです。必ずデフォルト値を入力してください。 |
+| ![--](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL  元に戻す ] | エラー！1 つ前のステップに戻って、もう一度試してみましょう。 |
+| ![--](assets/image2015-7-9-10-3a42-3a13.png) | [!UICONTROL  やり直し ] | 元のままでよければ、元に戻ります。 |
+| ![--](assets/image2015-7-9-10-3a43-3a29.png) | [!UICONTROL  テーブル ] | このように、独自のものを構築します。ドロップダウンメニューを使用して設定できます。 |
+| ![--](assets/image2015-7-9-10-3a45-3a1.png) | [!UICONTROL  アンカーの挿入 ] | 錨を下ろします。 |
+| ![--](assets/image2015-7-9-10-3a45-3a48.png) | [!UICONTROL  水平線 ] | 多くの用途があり、セクションを分割するのに最適です。 |
+| ![--](assets/image2015-10-6-12-3a12-3a17.png) | [!UICONTROL HTMLを編集 ] | HTML ソースエディターがポップアップ表示され、コードを編集できます。 |
+| ![--](assets/image2015-7-9-10-3a47-3a36.png) | [!UICONTROL  添字 ] | （O`<sub>2</sub>` のように）低く垂れ下がる文字。 |
+| ![--](assets/image2015-7-9-10-3a48-3a35.png) | [!UICONTROL  上付き文字 ] | 累乗などに使います（2`<sup>6</sup>`）。 |
+| ![--](assets/image2015-7-9-10-3a49-3a31.png) | [!UICONTROL  取り消し線 ] | `<s>Put a line through text, like this</s>`. |
+| ![--](assets/image2015-7-9-10-3a50-3a11.png) | [!UICONTROL  特殊文字 ] | ユーロの話をするにしても、数学にしても、選択肢は 243 あります。 |
+| ![--](assets/image2015-7-9-10-3a52-3a26.png) | [!UICONTROL  検索と置換 ] | 各インスタンスを自分で探すよりもはるかに速く検索して変更できます。 |
+| ![--](assets/image2015-7-9-10-3a53-3a37.png) | [!UICONTROL  書式のクリア ] | 標準に戻します。 |
 | ![--](assets/image2015-7-9-10-3a55-3a2.png) | [!UICONTROL キャンセル] | ボタンを押して「やめとく」と言います。 |
-| ![--](assets/image2015-7-9-10-3a56-3a2.png) | [!UICONTROL &#x200B; 保存 &#x200B;] | ボタンを押して「これでいい」と言います。 |
+| ![--](assets/image2015-7-9-10-3a56-3a2.png) | [!UICONTROL  保存 ] | ボタンを押して「これでいい」と言います。 |
 
 >[!TIP]
 >
@@ -127,7 +127,7 @@ RTE に含まれる機能を次に示します。
 
    ![](assets/three.png)
 
-1. **[!UICONTROL ランディングページエディター]** ドロップダウンで、「`<p>`」または「なし [!UICONTROL &#x200B; を選択し &#x200B;] 「**[!UICONTROL 保存]**」をクリックします。 この例では `<p>` が使用されています。
+1. **[!UICONTROL ランディングページエディター]** ドロップダウンで、「`<p>`」または「なし [!UICONTROL  を選択し ] 「**[!UICONTROL 保存]**」をクリックします。 この例では `<p>` が使用されています。
 
    ![](assets/five.png)
 

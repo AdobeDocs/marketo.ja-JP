@@ -3,7 +3,7 @@ description: Sales Insight Actions 機能の概要 - Marketo ドキュメント 
 title: Sales Insight Actions 機能の概要
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1361'
 ht-degree: 80%
@@ -113,28 +113,28 @@ MSI パネル内のタブでは、以下のデータを使用できます。
 
 ## リードおよび取引先責任者のリスト表示（一括アクション） {#lead-and-contact-list-view}
 
-* [!UICONTROL &#x200B; 販売メールの送信 &#x200B;] – 表示、クリックおよび連絡先/リードのリストへの返信トラッキングを使用して、パーソナライズされたメールまたはテンプレート化されたメールを送信する機能
-* [!UICONTROL &#x200B; セールスキャンペーンに追加 &#x200B;] - メールとタスクのシーケンスであるセールスプレイブックを連絡先/リードのリストに追加します
+* [!UICONTROL  販売メールの送信 ] – 表示、クリックおよび連絡先/リードのリストへの返信トラッキングを使用して、パーソナライズされたメールまたはテンプレート化されたメールを送信する機能
+* [!UICONTROL  セールスキャンペーンに追加 ] - メールとタスクのシーケンスであるセールスプレイブックを連絡先/リードのリストに追加します
 
 ## 「Marketo グローバル」タブ {#marketo-global-tab}
 
-**[!UICONTROL おすすめコンテンツ &#x200B;] タブ**
+**[!UICONTROL おすすめコンテンツ ] タブ**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 
-[!UICONTROL &#x200B; おすすめコンテンツ &#x200B;] タブのドロップダウンから、次の一括アクションを使用できます。
+[!UICONTROL  おすすめコンテンツ ] タブのドロップダウンから、次の一括アクションを使用できます。
 
-* [!UICONTROL &#x200B; セールスメールの送信 &#x200B;] - パーソナライズされたメールやテンプレート化されたメールを、表示、クリック、返信のトラッキングを使用して送信する機能
-* [!UICONTROL Sales Campaign に追加 &#x200B;] - メールとタスクのシーケンスである販売プレイブックにリードを追加します
+* [!UICONTROL  セールスメールの送信 ] - パーソナライズされたメールやテンプレート化されたメールを、表示、クリック、返信のトラッキングを使用して送信する機能
+* [!UICONTROL Sales Campaign に追加 ] - メールとタスクのシーケンスである販売プレイブックにリードを追加します
 
   ![](assets/sales-insight-actions-feature-overview-4.png)
 
-「[!UICONTROL &#x200B; おすすめコンテンツ &#x200B;]」タブでは、個々のリードや連絡先に対して次のインラインアクションを使用できます。
+「[!UICONTROL  おすすめコンテンツ ]」タブでは、個々のリードや連絡先に対して次のインラインアクションを使用できます。
 
-* [!UICONTROL &#x200B; セールスメールの送信 &#x200B;] - パーソナライズされたメールやテンプレート化されたメールを、表示、クリック、返信のトラッキングを使用して送信する機能
-* [!UICONTROL Sales Campaign に追加 &#x200B;] - メールとタスクのシーケンスである販売プレイブックにリードを追加します
-* [!UICONTROL &#x200B; セールスコール &#x200B;] - CRM 内のダイヤラーを使用してセールスコールを行います
-* [!UICONTROL &#x200B; タスクを追加 &#x200B;] – 見込みリードに関するメール、電話、顧客、Linkedin のタスクを作成します
+* [!UICONTROL  セールスメールの送信 ] - パーソナライズされたメールやテンプレート化されたメールを、表示、クリック、返信のトラッキングを使用して送信する機能
+* [!UICONTROL Sales Campaign に追加 ] - メールとタスクのシーケンスである販売プレイブックにリードを追加します
+* [!UICONTROL  セールスコール ] - CRM 内のダイヤラーを使用してセールスコールを行います
+* [!UICONTROL  タスクを追加 ] – 見込みリードに関するメール、電話、顧客、Linkedin のタスクを作成します
 
   ![](assets/sales-insight-actions-feature-overview-5.png)
 
@@ -178,12 +178,12 @@ Marketo で取り込まれたセールスアクティビティ：
 
 フィルターとトリガーには、以下のものがあります。
 
-* [!UICONTROL &#x200B; 販売メールが送信されました &#x200B;]
-* [!UICONTROL &#x200B; 営業メールを開く &#x200B;]
-* [!UICONTROL &#x200B; 販売メールのクリック数 &#x200B;]
-* [!UICONTROL &#x200B; 販売に関する E メールへの返信 &#x200B;]
-* [!UICONTROL &#x200B; セールス・コールの受信 &#x200B;]
-* [!UICONTROL &#x200B; セールスキャンペーンに追加 &#x200B;]
-* [!UICONTROL &#x200B; セールス・キャンペーンから削除 &#x200B;]
+* [!UICONTROL  販売メールが送信されました ]
+* [!UICONTROL  営業メールを開く ]
+* [!UICONTROL  販売メールのクリック数 ]
+* [!UICONTROL  販売に関する E メールへの返信 ]
+* [!UICONTROL  セールス・コールの受信 ]
+* [!UICONTROL  セールスキャンペーンに追加 ]
+* [!UICONTROL  セールス・キャンペーンから削除 ]
 
   ![](assets/sales-insight-actions-feature-overview-7.png)

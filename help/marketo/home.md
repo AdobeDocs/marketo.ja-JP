@@ -2,8 +2,8 @@
 title: Marketo 製品ドキュメント
 description: これらの Marketo 製品ドキュメントを使用して、マーケティングを次のレベルに引き上げる方法を学びます。Marketo のチュートリアルから始めて、その他の人気の記事もお読みください。
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 

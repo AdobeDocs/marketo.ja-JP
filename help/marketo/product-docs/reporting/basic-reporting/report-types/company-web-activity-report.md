@@ -4,7 +4,7 @@ description: 会社の web アクティビティレポート - Marketo ドキュ
 title: 会社の web アクティビティレポート
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 88%
@@ -21,7 +21,7 @@ Web サイトを訪問している会社を確認します。同じレポート�
 >
 >Marketoで web サイトのアクティビティを取得するには、まず [ サイトに  [!DNL Munchkin]  設定 ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md) する必要があります。
 
-1. [ レポートを作成 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) し、[!UICONTROL &#x200B; 会社 web アクティビティ &#x200B;] レポート [ レポートタイプ ](report-type-overview.md) を選択します。
+1. [ レポートを作成 ](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) し、[!UICONTROL  会社 web アクティビティ ] レポート [ レポートタイプ ](report-type-overview.md) を選択します。
 
 1. レポートで[既知または匿名のリードの表示](/help/marketo/product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)を選択します。
 
@@ -37,39 +37,39 @@ Web サイトを訪問している会社を確認します。同じレポート�
 
    会社の web アクティビティレポートで[選択できる列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)は次のとおりです。
 
-<table> 
- <thead> 
-  <tr> 
-   <th>列</th> 
-   <th>説明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>企業</td> 
-   <td>訪問者の会社。<br><strong>太字で表示された会社名</strong>には、少なくとも 1 人のリードがいることがわかっています。</td> 
-  </tr> 
-  <tr> 
-   <td>推測される会社あるいは ISP</td> 
-   <td>訪問者の IP アドレスから推測される会社。<br> <strong>太字で表示された会社名</strong>は、これが ISP ではなく会社であることを示します。 </td> 
-  </tr> 
-  <tr> 
-   <td>ページ表示</td> 
-   <td>訪問者が読み込んだページの数。</td> 
-  </tr> 
-  <tr> 
-   <td>リード</td> 
-   <td>この会社からサイトを訪問した訪問者の人数。</td> 
-  </tr> 
-  <tr> 
-   <td>国、都道府県／地域、市区町村</td> 
-   <td>会社の地理的な位置。</td> 
-  </tr> 
-  <tr> 
-   <td>初回／最終訪問（タイムゾーン）</td> 
-   <td>この会社からの誰かによる最初／最後の訪問の日時。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>列</th>
+   <th>説明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>企業</td>
+   <td>訪問者の会社。<br><strong>太字で表示された会社名</strong>には、少なくとも 1 人のリードがいることがわかっています。</td>
+  </tr>
+  <tr>
+   <td>推測される会社あるいは ISP</td>
+   <td>訪問者の IP アドレスから推測される会社。<br> <strong>太字で表示された会社名</strong>は、これが ISP ではなく会社であることを示します。 </td>
+  </tr>
+  <tr>
+   <td>ページ表示</td>
+   <td>訪問者が読み込んだページの数。</td>
+  </tr>
+  <tr>
+   <td>リード</td>
+   <td>この会社からサイトを訪問した訪問者の人数。</td>
+  </tr>
+  <tr>
+   <td>国、都道府県／地域、市区町村</td>
+   <td>会社の地理的な位置。</td>
+  </tr>
+  <tr>
+   <td>初回／最終訪問（タイムゾーン）</td>
+   <td>この会社からの誰かによる最初／最後の訪問の日時。</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

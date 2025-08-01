@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '627'
-ht-degree: 67%
+ht-degree: 71%
 
 ---
 
@@ -65,8 +65,8 @@ HTML コンポーネントの場合、特定の要素のみを編集可能なフ
 以下の要素を、HTML コンポーネント内の編集可能なフィールドにすることができます。
 
 * テキストの一部
-* リンクまたは画像の完全な URL （URL の一部では機能しません）
-* CSS プロパティ全体（部分プロパティでは機能しません）
+* リンクまたは画像の完全な URL（URL の一部では機能しません）
+* CSS プロパティ全体（部分的なプロパティでは機能しません）
 
 例えば、以下のコードでは、赤色でハイライト表示された各要素をプロパティにすることができます。
 

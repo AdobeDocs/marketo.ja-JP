@@ -3,7 +3,7 @@ description: Marketo Engage の最新 UX の概要 - Marketo ドキュメント 
 title: Marketo Engage の最新 UX の概要
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 100%
@@ -54,112 +54,112 @@ Adobe Marketo Engage 最新 UX（ユーザエクスペリエンス）によう�
 
 **Marketo Classic vs. 新しい Marketo**
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <th>機能</th> 
-   <th>Classic</th> 
-   <th>次世代</th> 
+   <th>機能</th>
+   <th>Classic</th>
+   <th>次世代</th>
   </tr>
   <tr>
-   <td>複数のフィルターを同時に適用</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>複数のフィルターを同時に適用</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>ドラフトと承認ツリーのノードを組み合わせ</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>ドラフトと承認ツリーのノードを組み合わせ</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>プログラムフォルダー内でのローカルアセットの作成</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>プログラムフォルダー内でのローカルアセットの作成</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>ダブルクリックしてツリーノードを展開／折りたたみ</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>ダブルクリックしてツリーノードを展開／折りたたみ</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>ツリーからエンゲージメントストリームにドラッグ＆ドロップ</td> 
-   <td><strong>X</strong></td> 
-   <td></td> 
+   <td>ツリーからエンゲージメントストリームにドラッグ＆ドロップ</td>
+   <td><strong>X</strong></td>
+   <td></td>
   </tr>
   <tr>
-   <td>ツリー内にドラッグ＆ドロップ</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>ツリー内にドラッグ＆ドロップ</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>アセットのタイプと状態でフィルタリング</td> 
-   <td><i>部分</i></td> 
-   <td><strong>X</strong></td>  
+   <td>アセットのタイプと状態でフィルタリング</td>
+   <td><i>部分</i></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>背景をハイライトして、フォーカス状態の階層を表示</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>背景をハイライトして、フォーカス状態の階層を表示</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>検索中のキーワードのハイライト</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>検索中のキーワードのハイライト</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>水平方向のスクロール</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>水平方向のスクロール</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>ツリーノードのホバー状態</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>ツリーノードのホバー状態</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>ツリー全体をすばやく折りたたむ</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>ツリー全体をすばやく折りたたむ</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>ルートノードにすばやく折りたたむ</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>ルートノードにすばやく折りたたむ</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>リアルタイム更新</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>リアルタイム更新</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>リサイズ可能なツリー</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>リサイズ可能なツリー</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>アーカイブ済みフォルダーを検索</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>アーカイブ済みフォルダーを検索</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>ツリー検索からグローバル検索に移動する際に検索文字列を保存</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>ツリー検索からグローバル検索に移動する際に検索文字列を保存</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>1 つのツリーにすべてのワークスペースを表示</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>1 つのツリーにすべてのワークスペースを表示</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>状態バッジとツールチップ</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>状態バッジとツールチップ</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>「次の語句で始まる」検索ロジック</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>「次の語句で始まる」検索ロジック</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
  </tbody>
 </table>
@@ -170,24 +170,24 @@ Adobe Marketo Engage 最新 UX（ユーザエクスペリエンス）によう�
 
 ![](assets/overview-7.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>スーパーボールのドロップダウンは不要</td> 
+   <td>1</td>
+   <td>スーパーボールのドロップダウンは不要</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>すべての前のスーパーボール項目をリスト表示</td> 
+   <td>2</td>
+   <td>すべての前のスーパーボール項目をリスト表示</td>
   </tr>
   <tr>
   <tr>
-   <td>3</td> 
-   <td>複数の購読がある場合は、サブ名をクリックして別の購読に簡単に切り替え</td> 
+   <td>3</td>
+   <td>複数の購読がある場合は、サブ名をクリックして別の購読に簡単に切り替え</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>グローバル検索 - ここからインスタンス全体を検索できるようになりました</td> 
+   <td>4</td>
+   <td>グローバル検索 - ここからインスタンス全体を検索できるようになりました</td>
   </tr>
  </tbody>
 </table>

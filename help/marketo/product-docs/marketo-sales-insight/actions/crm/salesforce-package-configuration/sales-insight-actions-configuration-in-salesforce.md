@@ -2,7 +2,7 @@
 description: Salesforce での Sales Insight Actions 設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce での Sales Insight Actions 設定
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 56%
@@ -22,7 +22,7 @@ ht-degree: 56%
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. 「[!UICONTROL &#x200B; リモートサイト &#x200B;]」を検索し、「**[!UICONTROL リモートサイト設定]**」を選択します。
+1. 「[!UICONTROL  リモートサイト ]」を検索し、「**[!UICONTROL リモートサイト設定]**」を選択します。
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
 1. 「**[!UICONTROL 新規リモートサイト]**」をクリックします。
@@ -47,19 +47,19 @@ ht-degree: 56%
 
    >[!NOTE]
    >
-   >上部バーに「[!UICONTROL Marketo営業Insight設定 &#x200B;]」が表示されない場合は、「**+**」記号をクリックして「すべてのタブ」の下に表示されます。
+   >上部バーに「[!UICONTROL Marketo営業Insight設定 ]」が表示されない場合は、「**+**」記号をクリックして「すべてのタブ」の下に表示されます。
 
 1. 「**[!UICONTROL MSI アクションを有効にする]**」チェックボックスをオンにします。
 
    ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
-1. [!UICONTROL API 秘密鍵 &#x200B;] を入力します。
+1. [!UICONTROL API 秘密鍵 ] を入力します。
 
    ![](assets/msi-actions-configuration-in-salesforce-7.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL API 秘密鍵 &#x200B;] が手元にない場合は、[ この記事 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) の手順に従って見つけることができます。
+   >[!UICONTROL API 秘密鍵 ] が手元にない場合は、[ この記事 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) の手順に従って見つけることができます。
 
 1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
@@ -75,7 +75,7 @@ ht-degree: 56%
 
    ![](assets/msi-actions-configuration-in-salesforce-8.png)
 
-1. MSI 操作を無効にするには、[!UICONTROL &#x200B; 操作設定 &#x200B;] の下で対応する機能のチェックをオフにします。
+1. MSI 操作を無効にするには、[!UICONTROL  操作設定 ] の下で対応する機能のチェックをオフにします。
 
    ![](assets/msi-actions-configuration-in-salesforce-9.png)
 

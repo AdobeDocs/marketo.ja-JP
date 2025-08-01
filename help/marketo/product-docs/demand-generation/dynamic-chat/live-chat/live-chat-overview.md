@@ -3,8 +3,8 @@ description: ライブチャットの概要 - Marketo ドキュメント - 製�
 title: ライブチャットの概要
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 100%
 
@@ -49,25 +49,25 @@ ht-degree: 100%
 
 ![](assets/live-chat-overview-2.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>ラウンドロビン</b></td>
    <td>チャットは、エージェントに順番に割り当てられます。</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>エージェント</b></td>
    <td>チャットを受信する特定のエージェントを選択します。</td>
   </tr>
-    <tr> 
+    <tr>
    <td><b>カスタムルール</b></td>
    <td>訪問者のルーティング先を検討する際には、すべてのカスタムルールがサイクルスルーされます。訪問者がカスタムルールに該当しない場合は、<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">ライブチャットのフォールバックメッセージ</a>が表示されます。</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>チーム</b></td>
    <td>チャットを受信する特定のチームを選択します。このオプションを選択すると、そのチーム内でラウンドロビンで割り当てられます。</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## ライブチャット通知 {#live-chat-notifications}
@@ -102,7 +102,7 @@ ht-degree: 100%
 >
 >また、Dynamic Chat にログインしていない場合にアラートが届くようにブラウザー通知を設定するオプションもあります。
 >
->* [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=ja&amp;co=GENIE.Platform%3DDesktop){target="_blank"} でブラウザー通知を有効にする
+>* [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=ja&co=GENIE.Platform%3DDesktop){target="_blank"} でブラウザー通知を有効にする
 >* [Mozilla Firefox](https://support.mozilla.org/ja-JP/kb/push-notifications-firefox){target="_blank"} でブラウザー通知を有効にする
 
 ### 失敗したアクション通知 {#failed-action-notifications}

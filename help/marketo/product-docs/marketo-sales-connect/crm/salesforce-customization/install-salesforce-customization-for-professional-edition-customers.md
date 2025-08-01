@@ -4,7 +4,7 @@ description: Professional Edition 版のお客様向けのインストール  [!
 title: Professional Edition ユーザ  [!DNL Salesforce]  向けのインストールとカスタマイズ
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 32%
@@ -26,7 +26,7 @@ ht-degree: 32%
 
    ![](assets/one-4.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、**[!UICONTROL Salesforce]** をクリックします。
+1. [!UICONTROL  管理者設定 ] で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/two-4.png)
 

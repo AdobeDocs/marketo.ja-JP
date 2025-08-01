@@ -4,7 +4,7 @@ description: .NET アドインの概要 — Marketo ドキュメント — 製�
 title: .NET アドインの概要
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 80%
@@ -35,6 +35,6 @@ ht-degree: 80%
 
 アドビは、すべての個人用テンプレートおよびチーム間の共有テンプレートと同期します。また、最後に使用したテンプレートと最も頻繁に使用するテンプレートは自動的に取り込まれ、簡単にアクセスできます。
 
-## [!UICONTROL &#x200B; ログアウト &#x200B;] ボタン {#the-tout-it-button}
+## [!UICONTROL  ログアウト ] ボタン {#the-tout-it-button}
 
 パーソナライズされたメールを入力して、準備が整ったら、常に「**[!UICONTROL Tout It]**」ボタンをクリックしてトラッキングするようにしてください。「トラッキングの魔法を追加しているのでお待ちください。」というボックスが表示されます。

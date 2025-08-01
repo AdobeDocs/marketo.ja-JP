@@ -4,7 +4,7 @@ description: 新しいワークスペースの作成 - Marketo ドキュメン�
 title: 新しいワークスペースの作成
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
@@ -30,7 +30,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->ワークスペースのベストプラクティスについて詳しくは、[Marketo プロフェッショナルサービス{target="_blank"}にお問い合わせください。](https://business.adobe.com/products/marketo/services-support.html)
+>ワークスペースのベストプラクティスの詳細については、[Marketo プロフェッショナルサービス](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

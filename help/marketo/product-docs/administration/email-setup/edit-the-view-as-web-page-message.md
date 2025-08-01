@@ -4,8 +4,8 @@ description: 「Web ページとして表示」メッセージの編集 - Market
 title: 「Web ページとして表示」メッセージの編集
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 100%
 

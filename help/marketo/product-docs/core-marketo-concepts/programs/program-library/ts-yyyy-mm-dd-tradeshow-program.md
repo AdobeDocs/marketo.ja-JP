@@ -3,7 +3,7 @@ description: TS-YYYY-MM-DD-Tradeshow プログラム - Marketo ドキュメン�
 title: TS-YYYY-MM-DD-展示会プログラム
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 18%
@@ -12,23 +12,23 @@ ht-degree: 18%
 
 # TS-YYYY-MM-DD-展示会プログラム {#ts-yyyy-mm-dd-tradeshow-program}
 
-Marketo Engageイベントを活用した招待状とフォローアップメールを含む展示会プログラムの一例です。
+これは、Marketo Engageイベントプログラムを利用した招待状とフォローアップメールを含む展示会プログラムの例です。
 
-詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>チャネル</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>チャネル</th>
    <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
-  </tr> 
-  <tr> 
-   <td>イベント</td> 
-   <td>01 – 招待 
+  </tr>
+  <tr>
+   <td>イベント</td>
+   <td>01 – 招待
    <br/>02-Waitlisted
    <br/>03 – 登録
    <br/>04 – 来場ブース
@@ -37,145 +37,145 @@ Marketo Engageイベントを活用した招待状とフォローアップメー
    <td>包含</td>
    <td>イベント</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>タイプ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>タイプ</th>
    <th>テンプレート名</th>
    <th>アセット名</th>
-  </tr> 
-  <tr> 
-   <td>メール</td> 
+  </tr>
+  <tr>
+   <td>メール</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>01-Email-Thank You</td>
   </tr>
-   <tr> 
-   <td>メール</td> 
+   <tr>
+   <td>メール</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>02a- メール – 招待</td>
   </tr>
   <tr>
-  <tr> 
-   <td>ローカル報告書</td> 
+  <tr>
+   <td>ローカル報告書</td>
    <td> </td>
    <td>メールの効果</td>
   </tr>
-  <tr> 
-   <td>ローカル報告書</td> 
+  <tr>
+   <td>ローカル報告書</td>
    <td> </td>
    <td>プログラム効果</td>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>00 – 獲得プログラムのキャプチャ</td>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>01 – 招待の送信</td>
   </tr>
-   <tr> 
-   <td>スマートキャンペーン</td> 
+   <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>02 - フォローアップメールの送信</td>
   </tr>
-   <tr> 
-   <td>スマートキャンペーン</td> 
+   <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>03 - フォローアップメールによるエンゲージメント （成功）</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
-   <td>Assets – すべてのクリエイティブアセットが格納されています 
+   <td>Assets – すべてのクリエイティブアセットが格納されています
 <br/> （メールおよびランディングページ用のサブフォルダー）</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
    <td>キャンペーン – すべてのスマートキャンペーンを格納します。</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
    <td>レポート</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/ts-yyyy-mm-dd-tradeshow-program-1.png)
 
 ## 含まれるマイトークン {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>トークンのタイプ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>トークンのタイプ</th>
    <th>トークン名</th>
    <th>値</th>
   </tr>
-  <tr> 
-   <td>カレンダーファイル</td> 
+  <tr>
+   <td>カレンダーファイル</td>
    <td><code>{{my.AddToCalendar}}</code></td>
    <td>ダブルクリックして詳細を表示</td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-   <tr> 
-   <td>リッチテキスト</td> 
+   <tr>
+   <td>リッチテキスト</td>
    <td><code>{{my.Event-Booth#}}</code></td>
    <td><code><--My Booth Number--></code></td>
   </tr>
-   <tr> 
-   <td>テキスト</td> 
+   <tr>
+   <td>テキスト</td>
    <td><code>{{my.Event-City}}</code></td>
    <td><code><--My Event City Here--></code></td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Event-Date}}</code></td>
    <td><code><--My Event Date--></code></td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Event-Time}}</code></td>
    <td><code><--My Event Time + TimeZone--></code></td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Event-Title}}</code></td>
    <td><code><--My Event Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Event-Type}}</code></td>
    <td>展示会</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 競合ルール {#conflict-rules}

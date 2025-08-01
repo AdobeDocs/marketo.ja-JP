@@ -4,7 +4,7 @@ description: 新しいウィジェット Web キャンペーンを作成する �
 title: 新しいウィジェット Web キャンペーンを作成する
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '629'
 ht-degree: 93%
@@ -37,65 +37,65 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
    ![](assets/preview.png)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong>テンプレート</strong></td> 
-   <td colspan="1">事前作成済みのテンプレートの中から 1 つを選択します。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>表示場所</strong></td> 
-   <td colspan="1">Web キャンペーンを表示する<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">タイミングと方法をカスタマイズ</a>できます。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>アニメートイン／アウト</strong></td> 
-   <td colspan="1">ダイアログの入力時や終了時に設定します。効果（ドロップ、ブラインド、スライド、フェード、効果なし）、時間（秒）、方向（上下左右）を選択します。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>位置</strong></td> 
-   <td colspan="1">ページ上でのウィジェットの位置に関する 4 つのオプション（上下左右）のいずれかを選択します。位置 % は、ウィジェットがブラウザーページで表示される位置を示す割合です（例：「50% 下」ではウィジェットをページの下半分に表示し、「10% 左」ではウィジェットをページの左上近くに表示します）。<br></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>ウィジェット色</strong></td> 
-   <td colspan="1" rowspan="1"><p>ウィジェットの色を、カラーチャートから選択するか、RGB の色コードで入力します。下部にあるバーをいずれかの方向に動かして、ウィジェット背景の透明性も選択できます。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>ウィジェットボタン</strong><br></p></td> 
-   <td colspan="1" rowspan="1">ウィジェットボタン自体をカスタマイズします。<br>矢印：右側のドロップダウンメニューで、複数の異なるアイコンから選択できます。左のドロップダウンで色が決まります。<br>カスタム：ホストされている画像の URL を挿入します。受け入れられるファイルタイプ — .JPEG、.GIF（アニメーションを含む）、.PNG、.APNG、.SVG、.BMP。<br>テキスト：ウィジェットはテキストにすることができます。色、サイズ、フォントをカスタマイズします。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>固定</strong></td> 
-   <td colspan="1">これを選択すると、訪問者のセッションを通じて、すべての Web ページにウィジェットが表示されます。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>キャンペーンディスプレイ上のウィジェットを最小化</strong></td> 
-   <td colspan="1">ウィジェットを挿入しますが、最小化したままにします。最大化するには、ウィジェットをクリックする必要があります。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>既定値に戻す </strong></td> 
-   <td colspan="1">ウィジェットの設定をオリジナルの設定に戻し、ウィジェットの色もデフォルトの透明灰色にします。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>オンサイトのプレビュー </strong></td> 
-   <td colspan="1">公開する前にキャンペーンをプレビューします。<br> 
-    <ul> 
-     <li>URL - キャンペーンを実行するサンプルの URL を入力し、キャンペーンがどのように見えるか、サンプルをプレビューします。</li> 
-     <li>プレビュー -「<strong>プレビュー</strong>」をクリックすると、サンプル URL の新しいウィンドウが開き、キャンペーンの応答を確認できます（最高の Web キャンペーンプレビューエクスペリエンスのために <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome 拡張機能</a>を追加します）。 </li> 
-     <li>共有 -「共有」ボタンを使用すると、プロキシキャンペーンを表示するリンクが記載されたメールを同僚に送信できます。</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">名前</th>
+   <th colspan="1" rowspan="1">説明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong>テンプレート</strong></td>
+   <td colspan="1">事前作成済みのテンプレートの中から 1 つを選択します。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>表示場所</strong></td>
+   <td colspan="1">Web キャンペーンを表示する<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md" rel="nofollow">タイミングと方法をカスタマイズ</a>できます。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>アニメートイン／アウト</strong></td>
+   <td colspan="1">ダイアログの入力時や終了時に設定します。効果（ドロップ、ブラインド、スライド、フェード、効果なし）、時間（秒）、方向（上下左右）を選択します。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>位置</strong></td>
+   <td colspan="1">ページ上でのウィジェットの位置に関する 4 つのオプション（上下左右）のいずれかを選択します。位置 % は、ウィジェットがブラウザーページで表示される位置を示す割合です（例：「50% 下」ではウィジェットをページの下半分に表示し、「10% 左」ではウィジェットをページの左上近くに表示します）。<br></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>ウィジェット色</strong></td>
+   <td colspan="1" rowspan="1"><p>ウィジェットの色を、カラーチャートから選択するか、RGB の色コードで入力します。下部にあるバーをいずれかの方向に動かして、ウィジェット背景の透明性も選択できます。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>ウィジェットボタン</strong><br></p></td>
+   <td colspan="1" rowspan="1">ウィジェットボタン自体をカスタマイズします。<br>矢印：右側のドロップダウンメニューで、複数の異なるアイコンから選択できます。左のドロップダウンで色が決まります。<br>カスタム：ホストされている画像の URL を挿入します。受け入れられるファイルタイプ — .JPEG、.GIF（アニメーションを含む）、.PNG、.APNG、.SVG、.BMP。<br>テキスト：ウィジェットはテキストにすることができます。色、サイズ、フォントをカスタマイズします。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>固定</strong></td>
+   <td colspan="1">これを選択すると、訪問者のセッションを通じて、すべての Web ページにウィジェットが表示されます。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>キャンペーンディスプレイ上のウィジェットを最小化</strong></td>
+   <td colspan="1">ウィジェットを挿入しますが、最小化したままにします。最大化するには、ウィジェットをクリックする必要があります。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>既定値に戻す </strong></td>
+   <td colspan="1">ウィジェットの設定をオリジナルの設定に戻し、ウィジェットの色もデフォルトの透明灰色にします。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>オンサイトのプレビュー </strong></td>
+   <td colspan="1">公開する前にキャンペーンをプレビューします。<br>
+    <ul>
+     <li>URL - キャンペーンを実行するサンプルの URL を入力し、キャンペーンがどのように見えるか、サンプルをプレビューします。</li>
+     <li>プレビュー -「<strong>プレビュー</strong>」をクリックすると、サンプル URL の新しいウィンドウが開き、キャンペーンの応答を確認できます（最高の Web キャンペーンプレビューエクスペリエンスのために <a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">Chrome 拡張機能</a>を追加します）。 </li>
+     <li>共有 -「共有」ボタンを使用すると、プロキシキャンペーンを表示するリンクが記載されたメールを同僚に送信できます。</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
 >
->**Web キャンペーンの A/B テストを実施する場合、最適な結果を得るために、1 つ以上の Web キャンペーンの** A/B テスト[を実施できます。](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md) [!UICONTROL &#x200B; 自動調整 &#x200B;] 機能を使用すると、プラットフォームはよりパフォーマンスの高いキャンペーンを自動的に認識し、コンバージョン率が最も高いキャンペーンを続行し、他のキャンペーンを一時停止します。
+>**Web キャンペーンの A/B テストを実施する場合、最適な結果を得るために、1 つ以上の Web キャンペーンの** A/B テスト[を実施できます。](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)[!UICONTROL  自動調整 ] 機能を使用すると、プラットフォームはよりパフォーマンスの高いキャンペーンを自動的に認識し、コンバージョン率が最も高いキャンペーンを続行し、他のキャンペーンを一時停止します。
 
 ## Web キャンペーンを編集する {#edit-a-web-campaign}
 
@@ -113,7 +113,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
 ## Web キャンペーンをプレビューする {#preview-a-web-campaign}
 
-[!UICONTROL Web キャンペーン &#x200B;] ページで、プレビューする Web キャンペーンの **[!UICONTROL プレビュー]** をクリックします
+[!UICONTROL Web キャンペーン ] ページで、プレビューする Web キャンペーンの **[!UICONTROL プレビュー]** をクリックします
 
 ![](assets/widget-campaign-preview-hand.png)
 

@@ -3,7 +3,7 @@ description: GenAI の機能 – Marketo ドキュメント – 製品ドキュ�
 title: GenAI の機能
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '630'
 ht-degree: 0%
@@ -68,7 +68,7 @@ Adobe GenAI の利用条件に同意したら、次に、個々のユーザー�
 
    >[!NOTE]
    >
-   >* 必要に応じて、「_サムズアップ_」アイコンまたは「![ サムズアップ _」アイコンまたは「_ サムズダウン ](assets/icon-thumbs-up.png)![ サムズダウンアイコン ](assets/icon-thumbs-down.png) アイコンを使用して、生成されたチャプター/概要の品質を評価できます。 また、フラグアイコン ![ フラグアイコン ](assets/icon-flag.png) をクリックして、問題のあるコンテンツにフラグを立てることもできます。
+   >* 必要に応じて、「_サムズアップ_」アイコンまたは「![ サムズアップ ](assets/icon-thumbs-up.png)」アイコンまたは「_サムズダウン_![ サムズダウンアイコン ](assets/icon-thumbs-down.png) アイコンを使用して、生成されたチャプター/概要の品質を評価できます。 また、フラグアイコン ![ フラグアイコン ](assets/icon-flag.png) をクリックして、問題のあるコンテンツにフラグを立てることもできます。
    >
    >* 初期概要に満足できない場合は、「**[!UICONTROL 概要を再生成]**」ボタンをクリックすると、別のバージョンが生成されます。
 

@@ -4,7 +4,7 @@ description: リードフィードの使用 - Marketo ドキュメント - 製�
 title: リードフィードの使用
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 82%
@@ -29,45 +29,45 @@ ht-degree: 82%
 
 ![](assets/using-the-lead-feed-2.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><p>項目</p></td> 
-   <td><p>説明</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>A. リード／連絡先</p></td> 
-   <td><p>注目のアクションを行った人</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>B. イベントタイプ</p></td> 
-   <td><p>このアクションのカテゴリ（web、電子メール、マイルストーン）</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>C. アカウント名</p></td> 
-   <td><p>企業名</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>D. 時間</p></td> 
-   <td><p>注目のアクションが起きたとき</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>E. イベント詳細</p></td> 
-   <td><p>注目のアクションの理由</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>F. 配信登録</p></td> 
-   <td><p>このようなイベントに関するメール通知を受信</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>G. スター</p></td> 
-   <td><p>この人は最有望見込客（優先順位が高い）</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><p>項目</p></td>
+   <td><p>説明</p></td>
+  </tr>
+  <tr>
+   <td><p>A. リード／連絡先</p></td>
+   <td><p>注目のアクションを行った人</p></td>
+  </tr>
+  <tr>
+   <td><p>B. イベントタイプ</p></td>
+   <td><p>このアクションのカテゴリ（web、電子メール、マイルストーン）</p></td>
+  </tr>
+  <tr>
+   <td><p>C. アカウント名</p></td>
+   <td><p>企業名</p></td>
+  </tr>
+  <tr>
+   <td><p>D. 時間</p></td>
+   <td><p>注目のアクションが起きたとき</p></td>
+  </tr>
+  <tr>
+   <td><p>E. イベント詳細</p></td>
+   <td><p>注目のアクションの理由</p></td>
+  </tr>
+  <tr>
+   <td><p>F. 配信登録</p></td>
+   <td><p>このようなイベントに関するメール通知を受信</p></td>
+  </tr>
+  <tr>
+   <td><p>G. スター</p></td>
+   <td><p>この人は最有望見込客（優先順位が高い）</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## RSS の更新情報の取得 {#getting-rss-updates}

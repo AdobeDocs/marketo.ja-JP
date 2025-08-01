@@ -4,8 +4,8 @@ description: ランディングページへの SSL の追加 — Marketo ドキ�
 title: ランディングページへの SSL の追加
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '714'
 ht-degree: 100%
 

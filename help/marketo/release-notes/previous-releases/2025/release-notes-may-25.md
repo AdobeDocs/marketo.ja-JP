@@ -3,7 +3,7 @@ description: リリースノート - 2025年5月 - Marketo ドキュメント - 
 title: リリースノート - 2025年5月
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-source-git-commit: 4a575c96100921c69c09996c649db979ac22cd4d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 100%
@@ -24,39 +24,39 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 以下の機能は標準リリースサイクルに該当します。リリースは **2025年5月23日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
-<table style="table-layout:auto"> 
+<table style="table-layout:auto">
  <tbody>
- <tr> 
-   <th style="width:65%">機能</th> 
+ <tr>
+   <th style="width:65%">機能</th>
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
   </tr>
-  <tr> 
-   <td><strong>メールデザイナーアセットのロールベースのアクセス制御</strong>：ロールベースのアクセス制御（RBAC）システムへの新しい機能強化により、新しいメールデザイナーで活用されるアセットに対して、より詳細な権限と改善されたユーザー管理が提供されます。</td> 
+  <tr>
+   <td><strong>メールデザイナーアセットのロールベースのアクセス制御</strong>：ロールベースのアクセス制御（RBAC）システムへの新しい機能強化により、新しいメールデザイナーで活用されるアセットに対して、より詳細な権限と改善されたユーザー管理が提供されます。</td>
    <td>リリース済み</td>
    <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">新しい E メールデザイナーに対するきめ細かい権限（ブログ投稿）</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>メールデザイナーで作成したメールの複製</strong>：新しいメールデザイナーを使用して作成した既存のメールを複製できるようになりました。</td> 
+  <tr>
+   <td><strong>メールデザイナーで作成したメールの複製</strong>：新しいメールデザイナーを使用して作成した既存のメールを複製できるようになりました。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>任意の属性のトリガートークン</strong>：スマートキャンペーンフィールドで任意のアクティビティ属性のデータを使用できるように、トリガートークンの一覧が拡張されています。</td> 
+  <tr>
+   <td><strong>任意の属性のトリガートークン</strong>：スマートキャンペーンフィールドで任意のアクティビティ属性のデータを使用できるように、トリガートークンの一覧が拡張されています。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 

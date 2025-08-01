@@ -4,7 +4,7 @@ description: タブレットからイベントへの人物のチェックイン 
 title: タブレットからイベントへの人物のチェックイン
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '834'
 ht-degree: 81%
@@ -113,7 +113,7 @@ Marketo データベースに存在していない人物を手動で追加でき
 
 ## チェックインの取り消し {#reverse-a-check-in}
 
-_Marketoと同期する前に_ ユーザーを誤ってチェックインした場合は、[!UICONTROL &#x200B; 出席 &#x200B;] ステータスを元に戻すことができます。
+_Marketoと同期する前に_ ユーザーを誤ってチェックインした場合は、[!UICONTROL  出席 ] ステータスを元に戻すことができます。
 
 1. リスト内の名前をタップし、人物のレコードで「**[!UICONTROL 取り消し]**」をタップします。
 

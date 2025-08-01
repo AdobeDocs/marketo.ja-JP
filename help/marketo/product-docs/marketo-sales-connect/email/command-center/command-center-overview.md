@@ -4,7 +4,7 @@ description: コマンドセンターの概要 - Marketo ドキュメント - �
 title: コマンドセンターの概要
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 86%
@@ -17,65 +17,65 @@ ht-degree: 86%
 
 ## メールの管理 {#manage-emails}
 
-[!UICONTROL &#x200B; コマンドセンター &#x200B;] の「メール」セクションでは、メールアクティビティをすべて管理できます。 [!DNL Sales Connect] から送信されたメールを確認するには、メールのアウトボックスと考えてください。 スケジュールされたメールの管理、メールに関心を寄せている人の確認、メールの配信に問題があるかどうかの確認などを行います。
+[!UICONTROL  コマンドセンター ] の「メール」セクションでは、メールアクティビティをすべて管理できます。 [!DNL Sales Connect] から送信されたメールを確認するには、メールのアウトボックスと考えてください。 スケジュールされたメールの管理、メールに関心を寄せている人の確認、メールの配信に問題があるかどうかの確認などを行います。
 
 ![](assets/command-center-overview-1.png)
 
 メールセクションでは、すべてのメールを俯瞰して、プライマリタブとサブタブを使用して組織を簡素化できます。プライマリタブとサブタブは、メールがステータスに基づいて自動的に保存されるフォルダーの役割を果たします。
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td title="背景色：グレー"><p title=""><strong><span>プライマリ</span> </strong></p></td> 
-   <td title="背景色：グレー"><p title=""><strong><span>サブ</span> </strong></p></td> 
-   <td title="背景色：グレー"><p title=""><strong><span>説明</span> </strong></p></td> 
-  </tr> 
-  <tr> 
-   <td title="背景色：青"><strong title="">送信済み</strong></td> 
-   <td title="背景色：青">[!UICONTROL 配信済み &#x200B;]</td> 
-   <td title="背景色：青">受信者に配信されたメール。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景色：青"><br></td> 
-   <td title="背景色：青">[!UICONTROL がアーカイブされました &#x200B;]</td> 
-   <td title="背景色：青">メールのトラッキングを無効にするためにユーザーがアーカイブしたメール。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景色：グレー"><strong title="">保留中</strong></td> 
-   <td title="背景色：グレー">[!UICONTROL がスケジュール済み &#x200B;]</td> 
-   <td title="背景色：グレー">現在配信がスケジュールされているメール。メールが送信されると、配信済みフォルダーに移動します。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景色：グレー"><br></td> 
-   <td title="背景色：グレー">[!UICONTROL ドラフト &#x200B;]</td> 
-   <td title="背景色：グレー"><p>下書きとして保存されたメール。<br><strong>注意：</strong>下書きとして保存できるメールは 1 つだけです。一括メール（「メールを選択して送信」と「メールをグループ化」）は下書きとして保存されません。</p></td> 
-  </tr> 
-  <tr> 
-   <td title="背景色：グレー"><br></td> 
-   <td title="背景色：グレー">[!UICONTROL を実行中 &#x200B;]</td> 
-   <td title="背景色：グレー">これは、送信モーション中にメールが処理される中間の状態を示します。メールが処理中であるのは、わずかの間です。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景色：青"><strong title="">未配信</strong></td> 
-   <td title="背景色：青">[!UICONTROL が失敗しました &#x200B;]</td> 
-   <td title="背景色：青">配信に失敗したメール。</td> 
-  </tr> 
-  <tr> 
-   <td title="背景色：青"><br></td> 
-   <td title="背景色：青">[!UICONTROL バウンス &#x200B;]</td> 
-   <td title="背景色：青"><p>受信者のメールサーバーから拒否されたメール。<br><strong>注意：</strong>これは、従来の ToutApp ユーザーで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</p></td> 
-  </tr> 
-  <tr> 
-   <td title="背景色：青"><br></td> 
-   <td title="背景色：青">[!UICONTROL スパム &#x200B;]</td> 
-   <td title="背景色：青"><p>受信者によって手動でスパムとマークされたメール。<br><strong>注意：</strong>これは、従来の ToutApp ユーザーで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td title="背景色：グレー"><p title=""><strong><span>プライマリ</span> </strong></p></td>
+   <td title="背景色：グレー"><p title=""><strong><span>サブ</span> </strong></p></td>
+   <td title="背景色：グレー"><p title=""><strong><span>説明</span> </strong></p></td>
+  </tr>
+  <tr>
+   <td title="背景色：青"><strong title="">送信済み</strong></td>
+   <td title="背景色：青">[!UICONTROL 配信済み ]</td>
+   <td title="背景色：青">受信者に配信されたメール。</td>
+  </tr>
+  <tr>
+   <td title="背景色：青"><br></td>
+   <td title="背景色：青">[!UICONTROL がアーカイブされました ]</td>
+   <td title="背景色：青">メールのトラッキングを無効にするためにユーザーがアーカイブしたメール。</td>
+  </tr>
+  <tr>
+   <td title="背景色：グレー"><strong title="">保留中</strong></td>
+   <td title="背景色：グレー">[!UICONTROL がスケジュール済み ]</td>
+   <td title="背景色：グレー">現在配信がスケジュールされているメール。メールが送信されると、配信済みフォルダーに移動します。</td>
+  </tr>
+  <tr>
+   <td title="背景色：グレー"><br></td>
+   <td title="背景色：グレー">[!UICONTROL ドラフト ]</td>
+   <td title="背景色：グレー"><p>下書きとして保存されたメール。<br><strong>注意：</strong>下書きとして保存できるメールは 1 つだけです。一括メール（「メールを選択して送信」と「メールをグループ化」）は下書きとして保存されません。</p></td>
+  </tr>
+  <tr>
+   <td title="背景色：グレー"><br></td>
+   <td title="背景色：グレー">[!UICONTROL を実行中 ]</td>
+   <td title="背景色：グレー">これは、送信モーション中にメールが処理される中間の状態を示します。メールが処理中であるのは、わずかの間です。</td>
+  </tr>
+  <tr>
+   <td title="背景色：青"><strong title="">未配信</strong></td>
+   <td title="背景色：青">[!UICONTROL が失敗しました ]</td>
+   <td title="背景色：青">配信に失敗したメール。</td>
+  </tr>
+  <tr>
+   <td title="背景色：青"><br></td>
+   <td title="背景色：青">[!UICONTROL バウンス ]</td>
+   <td title="背景色：青"><p>受信者のメールサーバーから拒否されたメール。<br><strong>注意：</strong>これは、従来の ToutApp ユーザーで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</p></td>
+  </tr>
+  <tr>
+   <td title="背景色：青"><br></td>
+   <td title="背景色：青">[!UICONTROL スパム ]</td>
+   <td title="背景色：青"><p>受信者によって手動でスパムとマークされたメール。<br><strong>注意：</strong>これは、従来の ToutApp ユーザーで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## タスクの管理 {#manage-tasks}
@@ -88,7 +88,7 @@ ht-degree: 86%
 
 作成ウィンドウまたはキャンペーンを使用して見込客のエンゲージメントを開始したら、詳細検索機能を使用して、最もエンゲージメントの高い見込客の再ターゲティングを開始できます。
 
-例えば、MSC のキャンペーンに 100 人を追加する場合、メールを閲覧してクリックしたが、返信しなかった人を再度ターゲティングしたいと考えるでしょう。これを行うには、Campaign フィルターを表示とクリックのステータス [!UICONTROL &#x200B; アクティビティ &#x200B;] フィルターと共に使用して、再ターゲットするユーザーのリストを識別します。
+例えば、MSC のキャンペーンに 100 人を追加する場合、メールを閲覧してクリックしたが、返信しなかった人を再度ターゲティングしたいと考えるでしょう。これを行うには、Campaign フィルターを表示とクリックのステータス [!UICONTROL  アクティビティ ] フィルターと共に使用して、再ターゲットするユーザーのリストを識別します。
 
 ボーナス：詳細検索を保存すると、動的リストとして機能し、受信者がメールを表示またはクリックすると、エンゲージメント条件を満たすメールが追加されます。
 

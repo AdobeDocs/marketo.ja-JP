@@ -1,16 +1,16 @@
 ---
 description: Room Management - Marketo ドキュメント – 製品ドキュメント
-title: 部屋の管理
+title: ルーム管理
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 1%
 
 ---
 
-# 部屋の管理 {#room-management}
+# ルーム管理 {#room-management}
 
 Adobe Connectを活用したインタラクティブウェビナールームは、魅力的で共同作業が可能なオンラインイベントを促進するように設計されています。 これらのウェビナーでは、ウェビナー中に作成および使用されたコンテンツと録画を保存します。 部屋を作成する権限を持つメンバーは、中央の場所から部屋にアクセスして管理できます。
 

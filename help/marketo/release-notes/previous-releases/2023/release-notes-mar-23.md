@@ -3,20 +3,20 @@ description: リリースノート - 2023年3月 - Marketo ドキュメント - 
 title: リリースノート - 2023年3月
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: d4bd94b22b4f9da993150a94d2757014cbf87d80
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 100%
+ht-degree: 93%
 
 ---
 
 # リリースノート：2023年3月 {#release-notes-mar-23}
 
-以下に、2023年3月リリースに含まれるすべての機能を示します。機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
+以下に、2023年3月リリースに含まれるすべての機能を示します。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
@@ -28,12 +28,12 @@ ht-degree: 100%
 
 * **ランディングページテンプレートの詳細およびフォームの詳細の使用先コンポーネントの拡張**：新しい「使用先」UI タブには、選択したアセットを使用したアセットに関する詳細など、ランディングページテンプレートの詳細およびフォームの詳細に関する追加情報が表示されます。検索、並べ替え、フィルタリング機能を使用して、長いリストのアセットに対する分析を実行します。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
@@ -42,12 +42,12 @@ ht-degree: 100%
 
 * **ランディングページから切り替えスイッチとクラシックエクスペリエンスを削除**：ランディングページの切り替えスイッチとクラシックエクスペリエンスの廃止は、新しいエクスペリエンスを完全に採用するのに役立ちます。新しいエクスペリエンスでは、古いエクスペリエンスに依存したり、常に 2 つのエクスペリエンスを切り替える必要がなく、これらのアセットで提供される機能を完全に使用できます。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
@@ -56,12 +56,12 @@ ht-degree: 100%
 
 * **ツリーノードのパフォーマンスの向上**：ツリーノードの数が多い場合は、パフォーマンスが大幅に向上します。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
@@ -74,12 +74,12 @@ ht-degree: 100%
 
 * **Facebook Graph API アップデートを使用するための Marketo Facebook 統合のアップグレード**：Facebook が Facebook Graph API v15 に最近アップグレードしたことから、特定の広告アカウントに対して作成できるカスタムオーディエンスが 500 個までに制限されるようになりました。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
@@ -96,12 +96,12 @@ ht-degree: 100%
 
 * **Dynamic Chat のダイアログエンゲージメントレポート**：訪問者タイプやエンゲージメントタイプでフィルタリングする機能など、時間の経過に伴うダイアログのエンゲージメントをより見やすく表示できます。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
@@ -110,12 +110,12 @@ ht-degree: 100%
 
 * **Dynamic Chat のロールと権限**：Dynamic Chat にロールと権限を導入することで、管理者が、アプリの様々な領域の表示と使用を選択したユーザータイプに制限できるようにします。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
@@ -124,26 +124,26 @@ ht-degree: 100%
 
 * **Dynamic Chat のプログラムチャネルとしてのチャット**：Dynamic Chat で獲得した人物のプログラム進行を追跡する新しい「チャット」プログラムチャネルを作成します。例えば、マーケターが新規リードをキャプチャするための Dynamic Chat ダイアログに関連付けられたプログラムを持っているとします。そのプログラムをチャットチャネルに割り当てることで、リードがいつプログラムのメンバーとなっているか、またいつ成功したかを追跡できるようになります。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
   </tbody>
 </table>
 
-* **Dynamic Chat の推測される属性**：推測される IP データ（市区町村、都道府県、国など）がDynamic Chat で獲得した新しい人物の人物レコードに確実に書き込まれます。
+* **Dynamic Chatの推定属性**：推定される IP データ（市区町村、都道府県、国など）が、Dynamic Chatで取得された新規ユーザーの人物レコードに書き込まれるようにします。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
@@ -152,12 +152,12 @@ ht-degree: 100%
 
 * **Dynamic Chat の追加言語サポート**：9 つのサポート対象言語から選択して、静的な Dynamic Chat コンテンツを表示できるようになりました。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
@@ -166,12 +166,12 @@ ht-degree: 100%
 
 * **Dynamic Chat のストリームデザイナープレビューのノードにジャンプ**：プレビューパネルからストリームデザイナーのノードに直接ジャンプします。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
@@ -180,4 +180,4 @@ ht-degree: 100%
 
 ## お知らせ {#announcements}
 
-* **_製品リリースウェビナー_**：[2023年3月および 5月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**:[2023 年 3 月および 5 月のMarketo Engage リリースウェビナー ](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

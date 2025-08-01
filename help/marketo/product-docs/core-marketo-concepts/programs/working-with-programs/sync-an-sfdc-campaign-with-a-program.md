@@ -4,7 +4,7 @@ description: SFDC キャンペーンとプログラムの同期 - Marketo ドキ
 title: SFDC キャンペーンとプログラムの同期
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 47%
@@ -21,7 +21,7 @@ Marketo Engageを使用すると、プログラムを [!DNL Salesforce] キャ�
 
 >[!CAUTION]
 >
->SFDC キャンペーンをMarketo Engageのプログラムと同期する場合、暗黙の SFDC アクション（SFDC キャンペーンに追加、SFDC に同期など）は、プログラムの子キャンペーンに対して無効になります。
+>SFDC キャンペーンをMarketo Engage プログラムと同期する場合、暗黙のSFDC アクション（SFDC キャンペーンに追加、SFDCに同期など）は、プログラムの子キャンペーンに対して無効になります。
 
 1. 「**[!UICONTROL マーケティング活動]**」に移動します。
 

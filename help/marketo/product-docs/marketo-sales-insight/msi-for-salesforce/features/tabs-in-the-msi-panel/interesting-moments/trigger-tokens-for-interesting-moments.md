@@ -4,7 +4,7 @@ description: 注目のアクションのトリガートークン - Marketo ド�
 title: 注目のアクションのトリガートークン
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: a9aa55184a7971d3c82d106481f1f83593a7dd99
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 96%
@@ -32,683 +32,683 @@ ht-degree: 96%
 ### メールトリガー {#email-triggers}
 
 <table style="table-layout:auto">
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
+ <colgroup>
   <col>
   <col>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Link}}</code></th> 
-   <th><code>{{trigger.Subject}}</code></th> 
-   <th><code>{{trigger.Category}}</code></th> 
-   <th><code>{{trigger.Details}}</code></th> 
-   <th><code>{{trigger.Web Page}}</code></th> 
-   <th><code>{{trigger.Client IP Address}}</code></th> 
-   <th><code>{{trigger.Sent By}}</code></th> 
-   <th><code>{{trigger.Received By}}</code></th> 
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th><code>{{trigger.Trigger Name}}</code></th>
+   <th><code>{{trigger.Name}}</code></th>
+   <th><code>{{trigger.Link}}</code></th>
+   <th><code>{{trigger.Subject}}</code></th>
+   <th><code>{{trigger.Category}}</code></th>
+   <th><code>{{trigger.Details}}</code></th>
+   <th><code>{{trigger.Web Page}}</code></th>
+   <th><code>{{trigger.Client IP Address}}</code></th>
+   <th><code>{{trigger.Sent By}}</code></th>
+   <th><code>{{trigger.Received By}}</code></th>
    <th><code>{{trigger.Referrer}}</code></th>
    <th><code>{{trigger.Search Engine}}</code></th>
    <th><code>{{trigger.Search Query}}</code></th>
    <th><code>{{trigger.Browser}}</code></th>
-  </tr> 
-  <tr> 
-   <td>メール内リンクをクリック</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>ハードバウンスメール</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>ソフトバウンスメール</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>メール配信完了</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>メールを開く</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-    <tr> 
-   <td>友達への転送メール受信</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-    <tr> 
-   <td>友達への転送メール送信</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
+  </tr>
+  <tr>
+   <td>メール内リンクをクリック</td>
    <td><img src="assets/check.png" alt="check"></td>
-  </tr> 
-  <tr> 
-   <td>メール配信停止</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
- </tbody> 
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>ハードバウンスメール</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>ソフトバウンスメール</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>メール配信完了</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>メールを開く</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+    <tr>
+   <td>友達への転送メール受信</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+    <tr>
+   <td>友達への転送メール送信</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+  </tr>
+  <tr>
+   <td>メール配信停止</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
-### Salesforce トリガー {#salesforce-triggers}
+### Salesforceトリガー {#salesforce-triggers}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
+<table style="table-layout:auto">
+ <colgroup>
   <col>
   <col>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Link}}</code></th> 
-   <th><code>{{trigger.Subject}}</code></th> 
-   <th><code>{{trigger.Category}}</code></th> 
-   <th><code>{{trigger.Details}}</code></th> 
-   <th><code>{{trigger.Web Page}}</code></th> 
-   <th><code>{{trigger.Client IP Address}}</code></th> 
-   <th><code>{{trigger.Sent By}}</code></th> 
-   <th><code>{{trigger.Received By}}</code></th> 
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th><code>{{trigger.Trigger Name}}</code></th>
+   <th><code>{{trigger.Name}}</code></th>
+   <th><code>{{trigger.Link}}</code></th>
+   <th><code>{{trigger.Subject}}</code></th>
+   <th><code>{{trigger.Category}}</code></th>
+   <th><code>{{trigger.Details}}</code></th>
+   <th><code>{{trigger.Web Page}}</code></th>
+   <th><code>{{trigger.Client IP Address}}</code></th>
+   <th><code>{{trigger.Sent By}}</code></th>
+   <th><code>{{trigger.Received By}}</code></th>
    <th><code>{{trigger.Referrer}}</code></th>
    <th><code>{{trigger.Search Engine}}</code></th>
    <th><code>{{trigger.Search Query}}</code></th>
    <th><code>{{trigger.Browser}}</code></th>
-  </tr> 
-  <tr> 
-   <td>セールスメール内のリンクをクリック</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+  </tr>
+  <tr>
+   <td>セールスメール内のリンクをクリック</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>セールスメール送信</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>セールスメールを開く</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>セールスメールのバウンス</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>セールスメールを受信</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
    <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+  </tr>
+  <tr>
+   <td>セールスメール送信</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-    <tr> 
-   <td>商談更新</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-    <tr> 
-   <td>所有者の変更</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>リードのコンバージョン</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>リードを SFDC から削除</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>リードを SFDC に同期</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>商談から削除</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>SFDC キャンペーンから削除</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>アクティビティの記録</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+  </tr>
+  <tr>
+   <td>セールスメールを開く</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>アクティビティの更新</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>商談に追加</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>SFDC キャンペーンに追加</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>SFDC キャンペーンでのステータス変更</td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
- </tbody> 
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>セールスメールのバウンス</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>セールスメールを受信</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+    <tr>
+   <td>商談更新</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+    <tr>
+   <td>所有者の変更</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>リードのコンバージョン</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>リードを SFDC から削除</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>リードを SFDC に同期</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>商談から削除</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>SFDC キャンペーンから削除</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>アクティビティの記録</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>アクティビティの更新</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>商談に追加</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>SFDC キャンペーンに追加</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>SFDC キャンペーンでのステータス変更</td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 ### Sales Connect トリガー {#sales-connect-triggers}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
+<table style="table-layout:auto">
+ <colgroup>
   <col>
   <col>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Link}}</code></th> 
-   <th><code>{{trigger.Subject}}</code></th> 
-   <th><code>{{trigger.Category}}</code></th> 
-   <th><code>{{trigger.Details}}</code></th> 
-   <th><code>{{trigger.Web Page}}</code></th> 
-   <th><code>{{trigger.Client IP Address}}</code></th> 
-   <th><code>{{trigger.Sent By}}</code></th> 
-   <th><code>{{trigger.Received By}}</code></th> 
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th><code>{{trigger.Trigger Name}}</code></th>
+   <th><code>{{trigger.Name}}</code></th>
+   <th><code>{{trigger.Link}}</code></th>
+   <th><code>{{trigger.Subject}}</code></th>
+   <th><code>{{trigger.Category}}</code></th>
+   <th><code>{{trigger.Details}}</code></th>
+   <th><code>{{trigger.Web Page}}</code></th>
+   <th><code>{{trigger.Client IP Address}}</code></th>
+   <th><code>{{trigger.Sent By}}</code></th>
+   <th><code>{{trigger.Received By}}</code></th>
    <th><code>{{trigger.Referrer}}</code></th>
    <th><code>{{trigger.Search Engine}}</code></th>
    <th><code>{{trigger.Search Query}}</code></th>
    <th><code>{{trigger.Browser}}</code></th>
-  </tr> 
-  <tr> 
-   <td>セールスメール内のリンクをクリック</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>セールスメール送信</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>セールスメールを開く</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>セールスメールのバウンス</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>セールスメールを受信</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td>
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
-  <tr> 
-   <td>セールスキャンペーンに追加</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td>
-  </tr> 
+  </tr>
   <tr>
-   <td>所有者の変更</td> 
-   <td>セールスキャンペーンから削除</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+   <td>セールスメール内のリンクをクリック</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>セールス電話を受信</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
- </tbody> 
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>セールスメール送信</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>セールスメールを開く</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>セールスメールのバウンス</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>セールスメールを受信</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>セールスキャンペーンに追加</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>所有者の変更</td>
+   <td>セールスキャンペーンから削除</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>セールス電話を受信</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 ### Dynamic Chat トリガートークン {#dynamic-chat-trigger-tokens}
@@ -740,7 +740,7 @@ ht-degree: 96%
 </thead>
 <tbody>
   <tr>
-    <td>ダイアログに関与した</td>
+    <td>ダイアログでエンゲージ済み</td>
     <td></td>
     <td></td>
     <td><img src="assets/check.png" alt="check"></td>
@@ -784,7 +784,7 @@ ht-degree: 96%
     <td><img src="assets/check.png" alt="check"></td>
   </tr>
   <tr>
-    <td>ダイアログでエージェントに関与した</td>
+    <td>ダイアログでエージェントとエンゲージ済み</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -828,7 +828,7 @@ ht-degree: 96%
     <td></td>
   </tr>
   <tr>
-    <td>ダイアログでミーティングをスケジュールした</td>
+    <td>ダイアログでミーティングをスケジュール</td>
     <td><img src="assets/check.png" alt="check"></td>
     <td><img src="assets/check.png" alt="check"></td>
     <td></td>
@@ -916,7 +916,7 @@ ht-degree: 96%
     <td></td>
   </tr>
   <tr>
-    <td>ダイアログでドキュメントを操作した</td>
+    <td>ダイアログでドキュメントを操作済み</td>
     <td></td>
     <td></td>
     <td></td>
@@ -964,93 +964,93 @@ ht-degree: 96%
 
 ### その他 {#miscellaneous}
 
-<table style="table-layout:auto"> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
+<table style="table-layout:auto">
+ <colgroup>
   <col>
   <col>
   <col>
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th><code>{{trigger.Trigger Name}}</code></th> 
-   <th><code>{{trigger.Name}}</code></th> 
-   <th><code>{{trigger.Link}}</code></th> 
-   <th><code>{{trigger.Subject}}</code></th> 
-   <th><code>{{trigger.Category}}</code></th> 
-   <th><code>{{trigger.Details}}</code></th> 
-   <th><code>{{trigger.Web Page}}</code></th> 
-   <th><code>{{trigger.Client IP Address}}</code></th> 
-   <th><code>{{trigger.Sent By}}</code></th> 
-   <th><code>{{trigger.Received By}}</code></th> 
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th><code>{{trigger.Trigger Name}}</code></th>
+   <th><code>{{trigger.Name}}</code></th>
+   <th><code>{{trigger.Link}}</code></th>
+   <th><code>{{trigger.Subject}}</code></th>
+   <th><code>{{trigger.Category}}</code></th>
+   <th><code>{{trigger.Details}}</code></th>
+   <th><code>{{trigger.Web Page}}</code></th>
+   <th><code>{{trigger.Client IP Address}}</code></th>
+   <th><code>{{trigger.Sent By}}</code></th>
+   <th><code>{{trigger.Received By}}</code></th>
    <th><code>{{trigger.Referrer}}</code></th>
    <th><code>{{trigger.Search Engine}}</code></th>
    <th><code>{{trigger.Search Query}}</code></th>
    <th><code>{{trigger.Browser}}</code></th>
-  </tr> 
-  <tr> 
-   <td>フォームの入力</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
+  </tr>
+  <tr>
+   <td>フォームの入力</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Web ページにアクセス</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
    <td><br></td>
-  </tr> 
-  <tr> 
-   <td>Web ページのリンクをクリック</td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
-   <td><img src="assets/check.png" alt="check"></td> 
-   <td><br></td> 
-   <td><br></td> 
    <td><br></td>
-  </tr> 
- </tbody> 
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Web ページにアクセス</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>Web ページのリンクをクリック</td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><img src="assets/check.png" alt="check"></td>
+   <td><br></td>
+   <td><br></td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

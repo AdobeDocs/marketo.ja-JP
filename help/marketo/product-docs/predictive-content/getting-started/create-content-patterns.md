@@ -4,7 +4,7 @@ description: コンテンツパターンの作成 - Marketo ドキュメント -
 title: コンテンツパターンの作成
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 82%
@@ -27,7 +27,7 @@ ht-degree: 82%
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Web ページが存在するドメインの URL 拡張子を追加します。カテゴリを選択します（例：[!UICONTROL &#x200B; ブログ &#x200B;]、[!UICONTROL &#x200B; 記事 &#x200B;]、[!UICONTROL &#x200B; データシート &#x200B;]、[!UICONTROL &#x200B; プレスリリース &#x200B;]）。
+1. Web ページが存在するドメインの URL 拡張子を追加します。カテゴリを選択します（例：[!UICONTROL  ブログ ]、[!UICONTROL  記事 ]、[!UICONTROL  データシート ]、[!UICONTROL  プレスリリース ]）。
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -48,7 +48,7 @@ ht-degree: 82%
 * ワイルドカードは、式内の任意の場所で使用できます（例：_domain.com/&#42;_, _domain.com/&#42;blog&#42;_）
 
 * 式の最後に/&#42; を使用して、パターン検出を続行することをお勧めします（例：_domain.com/blog/&#42;_ は、ブログフォルダー内のすべての投稿を検出します）
-* コンテンツパターンでは大文字と小文字が区別されません（例：_domain.com/Blog/&#42;_ は、_domain.com/Blog&rbrace; および_ 4&rbrace;domain.com/blog _上のすべての HTML ページを検出します）_
+* コンテンツパターンでは大文字と小文字が区別されません（例：_domain.com/Blog/&#42;_ は、_domain.com/Blog} および_ 4}domain.com/blog _上のすべての HTML ページを検出します）_
 
 * URL パラメーターは検出しません（これにより、同じコンテンツ URL で異なるパラメーターを持つ複数の項目が検出されるのを回避します）
 
@@ -56,31 +56,31 @@ ht-degree: 82%
 
 _domain.com_ の場合：
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>URL パターン</th> 
-   <th>結果</th> 
-  </tr> 
-  <tr> 
-   <td>blog/*</td> 
-   <td><p>domain.com/blog/ というパターンに一致するすべてのコンテンツを検出します。</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td> 
-  </tr> 
-  <tr> 
-   <td>article/2017/*</td> 
-   <td><p>domain.com/article/2017/ というパターンに一致するすべてのコンテンツを検出します。</p><p>domain.com/article/2017/5-top-tricks</p></td> 
-  </tr> 
-  <tr> 
-   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td> 
-   <td><p>「datasheets」という単語を含む URL を検出します。</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td> 
-  </tr> 
-  <tr> 
-   <td>press-release</td> 
-   <td><p>完全に一致する HTML ページが 1 つだけ検出されます。</p><p>domain.com/press-release</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"> </td> 
-   <td colspan="1"><p>URL 式が空の場合、URL パターンはホームページのみを検出します。</p><p>domain.com</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>URL パターン</th>
+   <th>結果</th>
+  </tr>
+  <tr>
+   <td>blog/*</td>
+   <td><p>domain.com/blog/ というパターンに一致するすべてのコンテンツを検出します。</p><p>domain.com/blog/5-top-tricks</p><p>domain.com/blog/2017/new-year-solutions</p><p>domain.com/Blog/3-best-recipes</p></td>
+  </tr>
+  <tr>
+   <td>article/2017/*</td>
+   <td><p>domain.com/article/2017/ というパターンに一致するすべてのコンテンツを検出します。</p><p>domain.com/article/2017/5-top-tricks</p></td>
+  </tr>
+  <tr>
+   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
+   <td><p>「datasheets」という単語を含む URL を検出します。</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td>
+  </tr>
+  <tr>
+   <td>press-release</td>
+   <td><p>完全に一致する HTML ページが 1 つだけ検出されます。</p><p>domain.com/press-release</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"> </td>
+   <td colspan="1"><p>URL 式が空の場合、URL パターンはホームページのみを検出します。</p><p>domain.com</p></td>
+  </tr>
+ </tbody>
 </table>

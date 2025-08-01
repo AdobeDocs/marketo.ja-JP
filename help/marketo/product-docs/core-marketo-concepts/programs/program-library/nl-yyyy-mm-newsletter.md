@@ -3,7 +3,7 @@ description: NL-YYYY-MM-Newsletter - Marketo ドキュメント – 製品ドキ
 title: NL-YYYY-MM-ニュースレター
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 19%
@@ -12,106 +12,106 @@ ht-degree: 19%
 
 # NL-YYYY-MM-ニュースレター {#nl-yyyy-mm-newsletter}
 
-次の例では、Marketo Engageのメールプログラムを使用して、1 つのニュースレターのメールを送信します。 メールには、A/B テストを含めることも、含めないこともできます。
+次の例では、Marketo Engage メールプログラムを使用して、1 つのニュースレターのメールを送信します。 メールには、A/B テストを含めることも、含めないこともできます。
 
-詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>チャネル</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>チャネル</th>
    <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
-  </tr> 
-  <tr> 
-   <td>ニュースレター</td> 
-   <td>01 – メンバー 
+  </tr>
+  <tr>
+   <td>ニュースレター</td>
+   <td>01 – メンバー
 <br/>02-Engaged-Success</td>
    <td>包含</td>
    <td>メール</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>タイプ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>タイプ</th>
    <th>テンプレート名</th>
    <th>アセット名</th>
-  </tr> 
-  <tr> 
-   <td>メール</td> 
+  </tr>
+  <tr>
+   <td>メール</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>01 - メール</td>
   </tr>
-  <tr> 
-   <td>ローカル報告書</td> 
+  <tr>
+   <td>ローカル報告書</td>
    <td> </td>
    <td>メールの効果</td>
   </tr>
-  <tr> 
-   <td>ローカル報告書</td> 
+  <tr>
+   <td>ローカル報告書</td>
    <td> </td>
    <td>メールリンクの効果</td>
   </tr>
   <tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>01 - エンゲージ済み（プログラム成功）</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
-   <td>Assets – すべてのクリエイティブアセットが格納されています 
+   <td>Assets – すべてのクリエイティブアセットが格納されています
 <br/> （メール用のサブフォルダー）  </td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
    <td>キャンペーン – すべてのスマートキャンペーンを格納します。</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
    <td>レポート</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/nl-yyyy-mm-newsletter-1.png)
 
 ## 含まれるマイトークン {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>トークンのタイプ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>トークンのタイプ</th>
    <th>トークン名</th>
    <th>値</th>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 競合ルール {#conflict-rules}

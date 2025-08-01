@@ -4,7 +4,7 @@ description: プログラム効果レポートの作成 - Marketo ドキュメ�
 title: プログラム効果レポートの作成
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
@@ -27,29 +27,29 @@ ht-degree: 100%
 
 プログラム効果レポートの列は次のとおりです。
 
-<table> 
- <thead> 
-  <tr> 
-   <th>列</th> 
-   <th>説明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>チャネル</td> 
-   <td>プログラムのチャネルタイプ。</td> 
-  </tr> 
-  <tr> 
-   <td>新しい名前</td> 
-   <td>プログラムで新規獲得した人物。</td> 
-  </tr> 
-  <tr> 
-   <td>成功</td> 
-   <td>プログラムのステータスで定義された成功を達成したメンバーの数。 </td> 
-  </tr> 
-  <tr> 
-   <td>総コスト</td> 
-   <td><p>プログラム内の全期間原価の合計。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>列</th>
+   <th>説明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>チャネル</td>
+   <td>プログラムのチャネルタイプ。</td>
+  </tr>
+  <tr>
+   <td>新しい名前</td>
+   <td>プログラムで新規獲得した人物。</td>
+  </tr>
+  <tr>
+   <td>成功</td>
+   <td>プログラムのステータスで定義された成功を達成したメンバーの数。 </td>
+  </tr>
+  <tr>
+   <td>総コスト</td>
+   <td><p>プログラム内の全期間原価の合計。</p></td>
+  </tr>
+ </tbody>
 </table>

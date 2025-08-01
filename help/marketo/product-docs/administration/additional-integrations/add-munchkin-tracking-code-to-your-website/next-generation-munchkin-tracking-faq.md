@@ -6,10 +6,10 @@ exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '698'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -45,8 +45,8 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->**トリガー**：Web ページへの訪問、Web ページが料金ページ\
->**フロー**：変更スコア 10 以上と注目のアクション
+>**トリガー**：Web ページへの訪問、Web ページが料金ページ
+>>**フロー**：スコア +10 と興味深い瞬間を変更
 >>**Web**：料金ページを閲覧した
 >
 >[!DNL Munchkin] V2 では、匿名ユーザーが料金ページを訪問しても、すぐにはキャンペーンは開始しません。匿名ユーザーが既知のユーザーとなった時点から、その人物にこのキャンペーンが適用されます。以下の処理が行われます。

@@ -3,7 +3,7 @@ description: Salesforce との登録解除の同期 - Marketo ドキュメント
 title: Salesforce との登録解除の同期
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '475'
 ht-degree: 58%
@@ -40,11 +40,11 @@ ht-degree: 58%
 
    ![](assets/syncing-unsubscribes-with-salesforce-1.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 購読解除]** を選択します。
+1. [!UICONTROL  管理者設定 ] で **[!UICONTROL 購読解除]** を選択します。
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. 「**[!UICONTROL 統合]**」タブをクリックします。[!UICONTROL Salesforceに同期 &#x200B;] で、夜間同期を有効にします。
+1. 「**[!UICONTROL 統合]**」タブをクリックします。[!UICONTROL Salesforceに同期 ] で、夜間同期を有効にします。
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 
@@ -87,7 +87,7 @@ ht-degree: 58%
 
    ![](assets/syncing-unsubscribes-with-salesforce-10.png)
 
-1. [!UICONTROL &#x200B; メールオプトアウト &#x200B;] をページレイアウトにドラッグ&amp;ドロップします。
+1. [!UICONTROL  メールオプトアウト ] をページレイアウトにドラッグ&amp;ドロップします。
 
    ![](assets/syncing-unsubscribes-with-salesforce-11.png)
 

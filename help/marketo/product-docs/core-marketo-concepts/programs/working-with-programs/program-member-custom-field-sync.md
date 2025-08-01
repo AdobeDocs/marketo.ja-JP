@@ -3,7 +3,7 @@ description: プログラムメンバーカスタムフィールドの同期 - M
 title: プログラムメンバーカスタムフィールドの同期
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 68%
@@ -39,13 +39,13 @@ ht-degree: 68%
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. マッピングするMarketo[!UICONTROL &#x200B; プログラムメンバーカスタムフィールド &#x200B;] を選択します。
+1. マッピングするMarketo[!UICONTROL  プログラムメンバーカスタムフィールド ] を選択します。
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >ドロップダウンには、[!UICONTROL &#x200B; のフィールドのデータタイプに一致する &#x200B;] プログラムメンバーカスタムフィールド [!DNL Salesforce] のみが表示されます。
+   >ドロップダウンには、[!UICONTROL  のフィールドのデータタイプに一致する ] プログラムメンバーカスタムフィールド [!DNL Salesforce] のみが表示されます。
 
 1. さらにフィールドマッピングを行う場合は、検索ボックスをクリアし、手順 3～5 を繰り返します。
 
@@ -59,7 +59,7 @@ ht-degree: 68%
 
    >[!NOTE]
    >
-   >[!DNL Salesforce] のフィールドのデータタイプの名前を変更または変更する場合、[!UICONTROL &#x200B; プログラムメンバーカスタムフィールド &#x200B;] を使用して、そのフィールドのマッピングを削除します。 ただし、レビュー後に新しいフィールドで再マッピングできます。
+   >[!DNL Salesforce] のフィールドのデータタイプの名前を変更または変更する場合、[!UICONTROL  プログラムメンバーカスタムフィールド ] を使用して、そのフィールドのマッピングを削除します。 ただし、レビュー後に新しいフィールドで再マッピングできます。
 
 ## プログラムメンバーカスタムフィールドから Salesforce フィールドのマッピングを解除 {#unmap-salesforce-fields-from-program-member-custom-fields}
 

@@ -1,11 +1,11 @@
 ---
-description: Marketo Engageコミュニティ -Marketo Engageドキュメント
-title: Marketo Engage共同体
+description: Marketo Engage コミュニティ - Marketo Engage ドキュメント – 製品ドキュメント
+title: Marketo Engage コミュニティ
 hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 8%
@@ -14,11 +14,11 @@ ht-degree: 8%
 
 # Adobe Marketo Engage コミュニティ {#marketo-engage-community}
 
-[Adobe Marketo Engage コミュニティ ](https://nation.marketo.com/) （マーケティング国家とも呼ばれます）では、Marketoの従業員だけでなく、他のユーザーからもMarketo Engageインスタンスについて詳しく知ることができます。 作業に取り掛かる前に、時間をおいて [ コミュニティガイドライン ](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines) について理解してください。
+[Adobe Marketo Engage コミュニティ ](https://nation.marketo.com/) （マーケティング国家とも呼ばれます）では、Marketoの従業員や他のユーザーから、Marketo Engage インスタンスについて詳しく知ることができます。 作業に取り掛かる前に、時間をおいて [ コミュニティガイドライン ](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines) について理解してください。
 
 ## ユーザー名を登録 {#register-your-username}
 
-1. Marketo Engageインスタンスにログインします。
+1. Marketo Engage インスタンスにログインします。
 
 1. マイMarketoで、コミュニティ タイルをクリックします。
 
@@ -46,7 +46,7 @@ ht-degree: 8%
 
 >[!TIP]
 >
->より幅広い結果を得るには、ロングテールではなく、キーワード検索を集中的に使用します（例えば、「Dynamic ChatにDynamic Chatを追加する方法」ではなく「エージェント」を検索）
+>より幅広い結果を得るには、ロングテールではなく、キーワードに焦点を当てた検索を使用します（例えば、「Dynamic Chatでエージェントを追加する方法」ではなく「Dynamic Chat」を検索します）
 
 ## 質問を送信 {#submit-a-question}
 
@@ -56,7 +56,7 @@ ht-degree: 8%
 
 ## ブログ投稿を読む {#read-blog-posts}
 
-このセクションには、Marketo Engageのユーザー（複数のチャンピオンを含む）とMarketoの従業員の両方から役立つ情報が満載です。 追加情報が必要な場合は、コメントを下部に残します。
+このセクションには、Marketo Engageのユーザー（複数のチャンピオンを含む）とMarketoの従業員の両方が提供する役立つ情報が満載です。 追加情報が必要な場合は、コメントを下部に残します。
 
 スクリーンショット
 
@@ -78,11 +78,11 @@ Marketoユーザーグループ（MUG）は、世界中のさまざまな地域�
 
 スクリーンショット
 
-## Marketo Engage購読の結合 {#merging-marketo-engage-subscriptions}
+## Marketo Engageの購読の結合 {#merging-marketo-engage-subscriptions}
 
 >[!NOTE]
 >
->これは、複数のMarketo Engageサブスクリプションを持ち、マーケティングネーションコミュニティにログインする際に誤って複数のプロファイルを作成したユーザーにのみ適用されます。
+>これは、複数のMarketo Engage サブスクリプションを持ち、マーケティングネーションコミュニティにログインする際に誤って複数のプロファイルを作成したユーザーにのみ適用されます。
 
 複数のコミュニティプロファイルの履歴を結合するには、次の手順に従います。 上書きされたプロファイルデータは取得できないので、コミュニティ アクティビティの少ないコミュニティプロファイルを上書きすることをお勧めします。
 
@@ -91,7 +91,7 @@ Marketoユーザーグループ（MUG）は、世界中のさまざまな地域�
 リクエストでは、次の詳細を指定してください。
 
 * 会社のメールアドレス
-* Marketo Engageの実稼動配信登録に関連付けられた、プライマリコミュニティプロファイルの URL
+* Marketo Engage実稼動版サブスクリプションに関連付けられたプライマリコミュニティプロファイル URL
 * 上書きして結合するコミュニティプロファイルの URL。
 
 アドビのコミュニティチームが 4 ～ 6 営業日でコミュニティプロファイルを統合します。完了すると、ログイン時にメインコミュニティプロファイルにエンゲージメント履歴が表示されます。 表示されない場合は、アカウントからログアウトし、再度ログインして確認してください。

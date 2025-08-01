@@ -3,7 +3,7 @@ description: 一括メール送信オプション - Marketo ドキュメント -
 title: 一括メール送信オプション
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 77%
@@ -16,41 +16,41 @@ ht-degree: 77%
 
 **グループメール vs. 選択して送信**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>送信のタイプ</th> 
-   <th>メールの最大数</th> 
-   <th>送信開始者</th> 
-   <th>メールを一括編集</th> 
-   <th>各メールを一意に編集</th> 
-   <th>テンプレートおよび動的フィールドのサポート</th> 
-  </tr> 
-  <tr> 
-   <td>グループメール</td> 
-   <td>1,000</td> 
-   <td>グループを選択して「[!UICONTROL グループアクション &#x200B;]」ボタンをクリックするか、「宛先」フィールドにグループ名を入力します。</td> 
-   <td>はい</td> 
-   <td>いいえ</td> 
-   <td>はい</td> 
-  </tr> 
-  <tr> 
-   <td>選択して送信</td> 
-   <td>200</td> 
-   <td>グリッドでユーザーを選択して、アクションバーの「[!UICONTROL 選択されたメール &#x200B;]」ボタンをクリックするか、一括メールサイドバーに受信者を入力します。</td> 
-   <td>はい</td> 
-   <td>はい</td> 
-   <td>はい</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>送信のタイプ</th>
+   <th>メールの最大数</th>
+   <th>送信開始者</th>
+   <th>メールを一括編集</th>
+   <th>各メールを一意に編集</th>
+   <th>テンプレートおよび動的フィールドのサポート</th>
+  </tr>
+  <tr>
+   <td>グループメール</td>
+   <td>1,000</td>
+   <td>グループを選択して「[!UICONTROL グループアクション ]」ボタンをクリックするか、「宛先」フィールドにグループ名を入力します。</td>
+   <td>はい</td>
+   <td>いいえ</td>
+   <td>はい</td>
+  </tr>
+  <tr>
+   <td>選択して送信</td>
+   <td>200</td>
+   <td>グリッドでユーザーを選択して、アクションバーの「[!UICONTROL 選択されたメール ]」ボタンをクリックするか、一括メールサイドバーに受信者を入力します。</td>
+   <td>はい</td>
+   <td>はい</td>
+   <td>はい</td>
+  </tr>
+ </tbody>
 </table>
 
 **グループメールの使用**

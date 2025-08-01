@@ -3,8 +3,8 @@ description: ルーティング - Marketo ドキュメント - 製品ドキュ�
 title: ルーティング
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '338'
 ht-degree: 100%
 

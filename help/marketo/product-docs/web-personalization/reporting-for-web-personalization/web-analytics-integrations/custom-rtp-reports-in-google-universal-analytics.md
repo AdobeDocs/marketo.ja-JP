@@ -4,7 +4,7 @@ description: Google ユニバーサルアナリティクスでのカスタム RT
 title: Google ユニバーサルアナリティクスでのカスタム RTP レポート
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 94%
@@ -22,7 +22,7 @@ ht-degree: 94%
 * RTP B2B
 * RTP エンゲージメント
 
-## [!UICONTROL &#x200B; カスタムレポート &#x200B;] の設定 {#setting-up-a-custom-report}
+## [!UICONTROL  カスタムレポート ] の設定 {#setting-up-a-custom-report}
 
 1. Google Analytics にログインします。
 
@@ -64,41 +64,41 @@ ht-degree: 94%
 
 1. **ディメンションドリルダウン**&#x200B;セクションで、各タブの関連するディメンションを次のように設定します。
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      タブ名 
-    </div></th> 
-   <th> 
+      タブ名
+    </div></th>
+   <th>
     <div>
       ディメンションドリルダウン
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>業界</td> 
-   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>グループ</td> 
-   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>カテゴリ</td> 
-   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>組織</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>業界</td>
+   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>グループ</td>
+   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>カテゴリ</td>
+   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>組織</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. フィルターを設定せず、このレポートを&#x200B;**[!UICONTROL すべてのウェブサイトデータ]**&#x200B;で使用できるように設定します（または特定の Analytics アカウントに関連する場合は変更します）。
@@ -121,7 +121,7 @@ ht-degree: 94%
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. 「[!UICONTROL &#x200B; 指標グループ &#x200B;]」セクションで、ビジネスに関連する指標を選択します。 次にレコメンデーションを示します。
+1. 「[!UICONTROL  指標グループ ]」セクションで、ビジネスに関連する指標を選択します。 次にレコメンデーションを示します。
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
@@ -137,86 +137,86 @@ ht-degree: 94%
 
 1. **ディメンションドリルダウン**&#x200B;セクションで、各タブの関連するディメンションを次のように設定します。
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      タブ名 
-    </div></th> 
-   <th> 
+      タブ名
+    </div></th>
+   <th>
     <div>
-      ディメンションドリルダウン 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>すべてのエンゲージメント</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM 別のエンゲージメント</td> 
-   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>カテゴリ別のエンゲージメント</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>グループ別のエンゲージメント</td> 
-   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>業界別のエンゲージメント</td> 
-   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+      ディメンションドリルダウン
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>すべてのエンゲージメント</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM 別のエンゲージメント</td>
+   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>カテゴリ別のエンゲージメント</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>グループ別のエンゲージメント</td>
+   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>業界別のエンゲージメント</td>
+   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. 次のフィルターを設定します。
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Inc／Exc 
-    </div></th> 
-   <th> 
+      Inc／Exc
+    </div></th>
+   <th>
     <div>
-      フィールド 
-    </div></th> 
-   <th> 
+      フィールド
+    </div></th>
+   <th>
     <div>
-      一致のタイプ 
-    </div></th> 
-   <th> 
+      一致のタイプ
+    </div></th>
+   <th>
     <div>
-      値 
-    </div></th> 
-   <th colspan="1"> 
+      値
+    </div></th>
+   <th colspan="1">
     <div>
-      コメント 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td><p>含む</p></td> 
-   <td><p><span class="uicontrol">イベントカテゴリ</span></p></td> 
-   <td>正規表現</td> 
-   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td> 
-   <td colspan="1">RTP に関連していない他のすべてのカスタムイベントをフィルタリングします</td> 
-  </tr> 
-  <tr> 
-   <td>除外する</td> 
-   <td><span class="uicontrol">イベントラベル</span></td> 
-   <td>正規表現</td> 
-   <td>#</td> 
-   <td colspan="1">キャンペーン名に#を使用して、レポートキャンペーンからフィルタリングできます</td> 
-  </tr> 
- </tbody> 
+      コメント
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><p>含む</p></td>
+   <td><p><span class="uicontrol">イベントカテゴリ</span></p></td>
+   <td>正規表現</td>
+   <td>RTP-Campaigns|RTP-Recommendations|RTP-Segments</td>
+   <td colspan="1">RTP に関連していない他のすべてのカスタムイベントをフィルタリングします</td>
+  </tr>
+  <tr>
+   <td>除外する</td>
+   <td><span class="uicontrol">イベントラベル</span></td>
+   <td>正規表現</td>
+   <td>#</td>
+   <td colspan="1">キャンペーン名に#を使用して、レポートキャンペーンからフィルタリングできます</td>
+  </tr>
+ </tbody>
 </table>
 
 1. このレポートを&#x200B;**[!UICONTROL すべてのウェブサイトデータ]**&#x200B;で使用できるように設定します（必要に応じて変更します）。

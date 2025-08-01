@@ -4,7 +4,7 @@ description: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（En
 title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 69%
@@ -49,10 +49,10 @@ ht-degree: 69%
 
 1. **[!UICONTROL 管理権限]**&#x200B;セクションで、次のボックスがオンになっていることを確認します。
 
-   * [!UICONTROL API 有効 &#x200B;]
-   * [!UICONTROL HTML テンプレートの編集 &#x200B;]
-   * [!UICONTROL &#x200B; 公開文書の管理 &#x200B;]
-   * [!UICONTROL &#x200B; 公開テンプレートの管理 &#x200B;]
+   * [!UICONTROL API 有効 ]
+   * [!UICONTROL HTML テンプレートの編集 ]
+   * [!UICONTROL  公開文書の管理 ]
+   * [!UICONTROL  公開テンプレートの管理 ]
 
    ![](assets/image2014-12-9-9-3a19-3a38.png)
 
@@ -60,15 +60,15 @@ ht-degree: 69%
    >
    >**[!UICONTROL パスワードの有効期限なし]**&#x200B;ボックスのチェックは必ずオンにしてください。
 
-1. 「[!UICONTROL &#x200B; 一般ユーザー権限 &#x200B;]」セクションで、次のボックスがオンになっていることを確認します。
+1. 「[!UICONTROL  一般ユーザー権限 ]」セクションで、次のボックスがオンになっていることを確認します。
 
-   * [!UICONTROL &#x200B; リードを変換 &#x200B;]
-   * [!UICONTROL &#x200B; イベントの編集 &#x200B;]
-   * [!UICONTROL &#x200B; タスクの編集 &#x200B;]
+   * [!UICONTROL  リードを変換 ]
+   * [!UICONTROL  イベントの編集 ]
+   * [!UICONTROL  タスクの編集 ]
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. 「[!UICONTROL &#x200B; 標準オブジェクトの権限 &#x200B;]」セクションで、[!UICONTROL &#x200B; 読み取り、作成、編集、削除 &#x200B;] 権限がオンになっていることを確認します。
+1. 「[!UICONTROL  標準オブジェクトの権限 ]」セクションで、[!UICONTROL  読み取り、作成、編集、削除 ] 権限がオンになっていることを確認します。
 
    * [!UICONTROL アカウント]
    * [!UICONTROL キャンペーン]
@@ -121,25 +121,25 @@ ht-degree: 69%
 
 1. 不要なフィールドをすべて無効にした後で、次のオブジェクトフィールドの&#x200B;**[!UICONTROL 読み取りアクセスと編集アクセス]**&#x200B;のチェックをオンにします。完了したら、「**[!UICONTROL 保存]**」をクリックします。
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>オブジェクト</th> 
-   <th>フィールド</th> 
-  </tr> 
-  <tr> 
-   <td>アカウント</td> 
-   <td>タイプフィールド</td> 
-  </tr> 
-  <tr> 
-   <td>イベント</td> 
-   <td>すべてのフィールド</td> 
-  </tr> 
-  <tr> 
-   <td>タスク</td> 
-   <td>すべてのフィールド</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>オブジェクト</th>
+   <th>フィールド</th>
+  </tr>
+  <tr>
+   <td>アカウント</td>
+   <td>タイプフィールド</td>
+  </tr>
+  <tr>
+   <td>イベント</td>
+   <td>すべてのフィールド</td>
+  </tr>
+  <tr>
+   <td>タスク</td>
+   <td>すべてのフィールド</td>
+  </tr>
+ </tbody>
 </table>
 
 ![](assets/sfdc-check-the-boxes.png)

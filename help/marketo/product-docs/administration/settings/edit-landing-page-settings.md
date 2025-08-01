@@ -4,7 +4,7 @@ description: ランディングページ設定の編集 - Marketo ドキュメ�
 title: ランディングページ設定の編集
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 100%

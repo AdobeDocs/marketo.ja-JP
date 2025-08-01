@@ -3,7 +3,7 @@ description: Sales Insight へのアクセスをプロファイルに追加 - Ma
 title: Sales Insight へのアクセスをプロファイルに追加
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 44%
@@ -60,7 +60,7 @@ ht-degree: 44%
 
 1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
-1. [!UICONTROL &#x200B; 連絡先 &#x200B;]、[!UICONTROL &#x200B; 商談 &#x200B;]、[!UICONTROL &#x200B; アカウント &#x200B;]」ページレイアウトに対して、これらの手順を繰り返します。
+1. [!UICONTROL  連絡先 ]、[!UICONTROL  商談 ]、[!UICONTROL  アカウント ]」ページレイアウトに対して、これらの手順を繰り返します。
 
 ## プロファイルのレイアウトへの割り当て {#assign-profile-to-layout}
 
@@ -68,15 +68,15 @@ ht-degree: 44%
 
 1. 「**[!UICONTROL 割り当てを編集]**」を選択します。
 
-1. リストから [!DNL Sales Insight] プロファイルを選択し、「[!DNL Sales insight] ページレイアウトを選択 [!UICONTROL 」ドロップダウンから &#x200B;] レイアウトを選択します。
+1. リストから [!DNL Sales Insight] プロファイルを選択し、「[!DNL Sales insight] ページレイアウトを選択 [!UICONTROL 」ドロップダウンから ] レイアウトを選択します。
 
 1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
-1. [!UICONTROL &#x200B; 連絡先 &#x200B;]、[!UICONTROL &#x200B; 商談 &#x200B;]、[!UICONTROL &#x200B; アカウント &#x200B;]」ページレイアウトに対して、これらの手順を繰り返します。
+1. [!UICONTROL  連絡先 ]、[!UICONTROL  商談 ]、[!UICONTROL  アカウント ]」ページレイアウトに対して、これらの手順を繰り返します。
 
 ## その他の変更点 {#other-changes}
 
 [!DNL Sales Insight] の項目が表示される他の場所を次に示します。 プロファイルを使用してアクセスを制限することはできないので、これらの項目を完全に削除する必要があります。
 
-* [!DNL Sales Insight] 連絡先 [!UICONTROL 、] リード [!UICONTROL 、] アカウント [!UICONTROL &#x200B; の検索レイアウトから &#x200B;] のボタンを削除
+* [!DNL Sales Insight] 連絡先 [!UICONTROL 、] リード [!UICONTROL 、] アカウント [!UICONTROL  の検索レイアウトから ] のボタンを削除
 * 連絡先リストとリードリストから [!DNL Sales Insight] 列を削除

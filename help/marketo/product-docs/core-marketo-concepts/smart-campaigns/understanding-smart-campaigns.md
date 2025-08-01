@@ -4,8 +4,8 @@ description: スマートキャンペーンについて - Marketo ドキュメ�
 title: スマートキャンペーンについて
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 6dd6ce30dd90684ca685ae709cd9ab95e1c7d7e8
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 100%
 
@@ -21,24 +21,24 @@ Marketo Engage が車なら、スマートキャンペーンはそのエンジ�
 
 スマートリストは、スマートキャンペーンで&#x200B;_誰_&#x200B;をターゲットに設定するのかを定義する方法です。フィルターとトリガーがあります。
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>タイプ</th> 
-   <th>例</th> 
-   <th>説明</th> 
-  </tr> 
-  <tr> 
-   <td>フィルター</td> 
-   <td>リンクをクリックした</td> 
-   <td><p>現在の時点で条件を満たすすべての人物をひとまとめに収集します。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">トリガー</td> 
-   <td colspan="1">リンクをクリック</td> 
-   <td colspan="1">誰かが何かを実行すると、即座にフローが開始します。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>タイプ</th>
+   <th>例</th>
+   <th>説明</th>
+  </tr>
+  <tr>
+   <td>フィルター</td>
+   <td>リンクをクリックした</td>
+   <td><p>現在の時点で条件を満たすすべての人物をひとまとめに収集します。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1">トリガー</td>
+   <td colspan="1">リンクをクリック</td>
+   <td colspan="1">誰かが何かを実行すると、即座にフローが開始します。</td>
+  </tr>
+ </tbody>
 </table>
 
 フィルターは様々な方法で組み合わせたり、トリガーと組み合わせて使用したりできます。これは強力なツールです。試してみてください。

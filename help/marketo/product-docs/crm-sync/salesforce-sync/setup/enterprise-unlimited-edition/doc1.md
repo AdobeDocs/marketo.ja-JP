@@ -4,10 +4,10 @@ title: 手順 1/3 - SalesforceへのMarketo フィールドの追加（Enterpris
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 63%
+ht-degree: 67%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 63%
 
 >[!PREREQUISITES]
 >
->Marketo EngageとSalesforceを同期するには、Salesforce API にアクセスできる必要があります。
+>Marketo Engage と Salesforce の間で同期するには、Salesforce API へのアクセス権が必要です。
 
 Marketo は、一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。Salesforce でこのデータを使用する場合は、以下の手順に従ってください。
 
@@ -51,7 +51,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    スクリーンショット
 
-1. 適切なフィールドタイプを選択します（スコア – 数値、獲得プログラム – テキスト、獲得日 – 日時の場合）。
+1. 適切なフィールドタイプを選択します（スコア - 数値、新規顧客獲得プログラム - テキスト、獲得日 - 日時）。
 
    スクリーンショット
 

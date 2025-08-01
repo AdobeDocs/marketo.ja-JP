@@ -4,7 +4,7 @@ description: リードデータの管理 - Marketo ドキュメント - 製品�
 title: リードデータの管理
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 86%
@@ -49,54 +49,54 @@ ht-degree: 86%
    >* 文字列タイプの上限は 255 文字です
    >* 非表示のフィールドは自動的に削除されます
 
-<table> 
- <tbody> 
-  <tr> 
-   <th><p>REST API 名</p></th> 
-   <th><p>SOAP API 名</p></th> 
-   <th><p>フレンドリ名</p></th> 
-  </tr> 
-  <tr> 
-   <td><p>department</p></td> 
-   <td><p>Department</p></td> 
-   <td><p>Department</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>title</p></td> 
-   <td><p>Title</p></td> 
-   <td><p>Job Title</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>rating</p></td> 
-   <td><p>Rating</p></td> 
-   <td><p>Rating</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadScore</p></td> 
-   <td><p>LeadScore</p></td> 
-   <td><p>Score</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadStatus</p></td> 
-   <td><p>LeadStatus</p></td> 
-   <td><p>Status</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>priority</p></td> 
-   <td><p>Priority</p></td> 
-   <td><p>Priority</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadRole</p></td> 
-   <td><p>LeadRole</p></td> 
-   <td><p>Role</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>unsubscribed</p></td> 
-   <td><p>登録解除済み</p></td> 
-   <td><p>登録解除済み</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th><p>REST API 名</p></th>
+   <th><p>SOAP API 名</p></th>
+   <th><p>フレンドリ名</p></th>
+  </tr>
+  <tr>
+   <td><p>department</p></td>
+   <td><p>Department</p></td>
+   <td><p>Department</p></td>
+  </tr>
+  <tr>
+   <td><p>title</p></td>
+   <td><p>Title</p></td>
+   <td><p>Job Title</p></td>
+  </tr>
+  <tr>
+   <td><p>rating</p></td>
+   <td><p>Rating</p></td>
+   <td><p>Rating</p></td>
+  </tr>
+  <tr>
+   <td><p>leadScore</p></td>
+   <td><p>LeadScore</p></td>
+   <td><p>Score</p></td>
+  </tr>
+  <tr>
+   <td><p>leadStatus</p></td>
+   <td><p>LeadStatus</p></td>
+   <td><p>Status</p></td>
+  </tr>
+  <tr>
+   <td><p>priority</p></td>
+   <td><p>Priority</p></td>
+   <td><p>Priority</p></td>
+  </tr>
+  <tr>
+   <td><p>leadRole</p></td>
+   <td><p>LeadRole</p></td>
+   <td><p>Role</p></td>
+  </tr>
+  <tr>
+   <td><p>unsubscribed</p></td>
+   <td><p>登録解除済み</p></td>
+   <td><p>登録解除済み</p></td>
+  </tr>
+ </tbody>
 </table>
 
 新しい [!DNL Web Personalization] アカウントには、次のリードフィールドが標準で提供されています。

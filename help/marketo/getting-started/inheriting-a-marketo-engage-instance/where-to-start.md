@@ -3,10 +3,10 @@ description: 継承した既存の Marketo Engage インスタンスを最適化
 title: 開始する場所
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '450'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
@@ -18,11 +18,11 @@ ht-degree: 100%
 
 Marketing Nation コミュニティで適切に設定されていることを確認してください。
 
-* [**プロファイルを設定します**](https://nation.marketo.com/){target="_blank"}。
+* [**プロファイルを設定**](https://nation.marketo.com/){target="_blank"} します。
 
-* 詳しくは、[**マーケティングコミュニティのガイドライン**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}を参照してください。
+* [**マーケティングコミュニティガイドライン**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"} を参照してください。
 
-* [**サポートケースの送信**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"}方法（および&#x200B;[**承認済みサポート取引先責任者として設定**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}されていることを確認する方法）を参照してください。
+* [**サポートケースを提出する**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"}方法を学ぶ（また、[**認証済みのサポート担当者として設定**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}されていることを確認する）。
 
 ## Marketing Nation プロファイルを統合 {#merge-your-marketing-nation-profile}
 
@@ -30,7 +30,7 @@ Marketing Nation コミュニティで適切に設定されていることを確
 
 1. 現在の Marketo Engage サブスクリプションにアクセスできるメールアドレスを使用して、ユーザ名／コミュニティプロファイルを作成します。
 
-1. 新しい会社情報を使用して[プロファイルを作成](https://nation.marketo.com/){target="_blank"}したら、`ccare@marketo.com` にリクエストを送信して、以前のコミュニティプロファイルのデータを新しいプロファイルに統合します。
+1. [ プロファイルを作成したら ](https://nation.marketo.com/){target="_blank"} 新しい会社情報を入力し、`ccare@marketo.com` にリクエストを送信して、古いコミュニティプロファイルのデータを新しいプロファイルと結合します。
 
 1. リクエストでは、次の詳細を指定してください。
 

@@ -3,7 +3,7 @@ description: 通話結果 - Marketo ドキュメント - 製品ドキュメン�
 title: 通話結果
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 81%
@@ -58,7 +58,7 @@ ht-degree: 81%
 
    ![](assets/call-outcomes-8.png)
 
-1. 「[!UICONTROL &#x200B; 回答済み &#x200B;]」ドロップダウンをクリックし、結果タイプを選択します（この例では、「回答済み」を選択しています）。 「**[!UICONTROL 追加]**」をクリックします。
+1. 「[!UICONTROL  回答済み ]」ドロップダウンをクリックし、結果タイプを選択します（この例では、「回答済み」を選択しています）。 「**[!UICONTROL 追加]**」をクリックします。
 
    ![](assets/call-outcomes-9.png)
 

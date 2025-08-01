@@ -3,7 +3,7 @@ description: OP-Deliverability Management - Marketo ドキュメント – 製�
 title: OP-配信品質管理
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 21%
@@ -16,86 +16,86 @@ ht-degree: 21%
 
 >[!NOTE]
 >
->インポートするには、カスタム文字列フィールド「マーケティング中断の理由」が必要です。 [詳細情報](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}。
+>インポートするには、カスタム文字列フィールド「マーケティング中断の理由」が必要です。 [詳細情報](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}
 
-詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>チャネル</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>チャネル</th>
    <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
-  </tr> 
-  <tr> 
-   <td>オペレーショナル</td> 
+  </tr>
+  <tr>
+   <td>オペレーショナル</td>
    <td>01 – メンバー</td>
    <td>オペレーショナル</td>
    <td>デフォルト</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 必須フィールド {#prerequisite-fields}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>タイプ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>タイプ</th>
    <th>フレンドリ名</th>
    <th>API 名</th>
   </tr>
-  <tr> 
-   <td>文字列</td> 
+  <tr>
+   <td>文字列</td>
    <td>マーケティング中断の理由</td>
    <td>MarketingSuspendedReason</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>タイプ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>タイプ</th>
    <th>テンプレート名</th>
    <th>アセット名</th>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>マーケティング慢性的な無応答者の休止</td>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>マーケティングの慢性的なバウンスメールを中断</td>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>メールの更新後に「メールが無効です」をリセット</td>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>メールの更新後に「マーケティングが中断されました」をリセット</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
    <td>管理</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
    <td>レビュー</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-deliverability-management-1.png)

@@ -6,10 +6,10 @@ description: Marketo EngageのメールDesigner内でメールコンテンツに
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: de3999dd6ede77c8fc591e24a69f062954b8c870
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '620'
-ht-degree: 29%
+ht-degree: 32%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 29%
 
    >[!NOTE]
    >
-   >「**[!UICONTROL カスタム CSS を追加]**」ボタンは、「**[!UICONTROL 本文]**」が選択されている場合にのみ使用できます。 ただし、コンテンツ内のすべてのコンポーネントにカスタム CSS スタイルを適用できます。
+   >「**[!UICONTROL カスタム CSS を追加]**」ボタンは、「**[!UICONTROL 本文]**」を選択した場合にのみ使用できます。ただし、コンテンツ内のすべてのコンポーネントにカスタム CSS スタイルを適用できます。
 
 1. ポップアップ表示される専用のテキスト領域に CSS コードを入力します。カスタム CSS [ が有効で、適切な構文に従っていることを確認します ](#use-valid-css)。 終了したら「**保存**」をクリックします。
 
@@ -216,11 +216,11 @@ E メールデザイナーに読み込んだコンテンツでカスタム CSS �
 
 カスタム CSS が適用されていない場合は、以下の提案を試してください。
 
-* CSS が有効で、構文エラー（中括弧の欠落、プロパティ名の誤りなど）がないことを確認します。 [方法についてはこちらを参照](#use-valid-css)
+* CSS が有効で、構文エラー（中括弧の欠落、プロパティ名の誤りなど）がないことを確認します。 [詳細情報](#use-valid-css)
 
 * CSS が、`<style>` 属性を持つ `data-name="global-custom"` タグに追加されていることを確認します。
 
-* `global-custom` スタイルタグの属性 `data-disabled` が `true` に設定されているかどうかを確認します。 その場合、カスタム CSS は適用されません。
+* `global-custom` スタイルのタグに属性 `data-disabled` が `true` に設定されているかどうかを確認します。その場合、カスタム CSS は適用されません。
 
 +++ 例：
 

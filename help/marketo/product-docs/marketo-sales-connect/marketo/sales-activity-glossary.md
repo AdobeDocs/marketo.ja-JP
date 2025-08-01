@@ -3,7 +3,7 @@ description: セールスアクティビティ用語集 - Marketo ドキュメ�
 title: セールスアクティビティ用語集
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 43%
@@ -29,7 +29,7 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
  </tr>
  <tr>
   <th rowspan="9">セールスメールを送信</th>
-  <td>[!UICONTROL の送信者 &#x200B;]</td>
+  <td>[!UICONTROL の送信者 ]</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -38,26 +38,26 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   <td>[!UICONTROL テンプレート ID]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売テンプレート &#x200B;] URL</td>
+  <td>[!UICONTROL 販売テンプレート ] URL</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売キャンペーン &#x200B;] URL</td>
+  <td>[!UICONTROL 販売キャンペーン ] URL</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売テンプレート &#x200B;] の名前</td>
+  <td>[!UICONTROL 販売テンプレート ] の名前</td>
  </tr>
  <tr>
-  <td>[!UICONTROL メールの件名 &#x200B;]</td>
+  <td>[!UICONTROL メールの件名 ]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売キャンペーン名 &#x200B;]</td>
+  <td>[!UICONTROL 販売キャンペーン名 ]</td>
  </tr>
  <tr>
   <td>[!UICONTROL Marketo販売担当者 ID]</td>
  </tr>
  <tr>
   <th rowspan="9"> セールスメールを開く</th>
-  <td>[!UICONTROL の送信者 &#x200B;]</td>
+  <td>[!UICONTROL の送信者 ]</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -72,23 +72,23 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   <td>[!UICONTROL 販売キャンペーン URL]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売テンプレート名 &#x200B;]</td>
+  <td>[!UICONTROL 販売テンプレート名 ]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL メールの件名 &#x200B;]</td>
+  <td>[!UICONTROL メールの件名 ]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売キャンペーン名 &#x200B;]</td>
+  <td>[!UICONTROL 販売キャンペーン名 ]</td>
  </tr>
  <tr>
   <td>[!UICONTROL Marketo販売担当者 ID]</td>
  </tr>
  <tr>
   <th rowspan="10">セールスメールをクリック</th>
-  <td>[!UICONTROL リンク &#x200B;]</td>
+  <td>[!UICONTROL リンク ]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL の送信者 &#x200B;]</td>
+  <td>[!UICONTROL の送信者 ]</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -103,20 +103,20 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   <td>[!UICONTROL 販売キャンペーン URL]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売テンプレート名 &#x200B;]</td>
+  <td>[!UICONTROL 販売テンプレート名 ]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL メールの件名 &#x200B;]</td>
+  <td>[!UICONTROL メールの件名 ]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売キャンペーン名 &#x200B;]</td>
+  <td>[!UICONTROL 販売キャンペーン名 ]</td>
  </tr>
  <tr>
   <td>[!UICONTROL Marketo販売担当者 ID]</td>
  </tr>
 <tr>
   <th rowspan="3">セールスメールに返信</th>
-  <td>[!UICONTROL の受信元 &#x200B;]</td>
+  <td>[!UICONTROL の受信元 ]</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -129,47 +129,47 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   <td>[!UICONTROL Sales Call Made By]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売呼び出しの状態 &#x200B;]</td>
+  <td>[!UICONTROL 販売呼び出しの状態 ]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売呼び出し件名 &#x200B;]</td>
+  <td>[!UICONTROL 販売呼び出し件名 ]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売キャンペーン名 &#x200B;]</td>
+  <td>[!UICONTROL 販売キャンペーン名 ]</td>
  </tr>
  <tr>
   <td>[!UICONTROL 販売キャンペーン URL]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売電話番号の呼び出し &#x200B;]</td>
+  <td>[!UICONTROL 販売電話番号の呼び出し ]</td>
  </tr>
  <tr>
   <td>ソース</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売呼び出し期間 &#x200B;]</td>
+  <td>[!UICONTROL 販売呼び出し期間 ]</td>
  </tr>
  <tr>
   <td>[!UICONTROL 販売呼び出し録画 URL]</td>
  </tr>
   <tr>
-  <td>[!UICONTROL 販売呼び出しの応答者 &#x200B;]</td>
+  <td>[!UICONTROL 販売呼び出しの応答者 ]</td>
  </tr>
  <tr>
   <td>[!UICONTROL Marketo販売担当者 ID]</td>
  </tr>
  <tr>
   <th rowspan="6">セールスキャンペーンに追加</th>
-  <td>[!UICONTROL 販売キャンペーン名 &#x200B;]</td>
+  <td>[!UICONTROL 販売キャンペーン名 ]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売呼び出しの状態 &#x200B;]</td>
+  <td>[!UICONTROL 販売呼び出しの状態 ]</td>
  </tr>
  <tr>
   <td>[!UICONTROL 販売キャンペーン URL]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL の送信者 &#x200B;]</td>
+  <td>[!UICONTROL の送信者 ]</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -179,16 +179,16 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
  </tr>
  <tr>
   <th rowspan="6">セールスキャンペーンから削除</th>
-  <td>[!UICONTROL 販売キャンペーン名 &#x200B;]</td>
+  <td>[!UICONTROL 販売キャンペーン名 ]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売呼び出しの状態 &#x200B;]</td>
+  <td>[!UICONTROL 販売呼び出しの状態 ]</td>
  </tr>
  <tr>
   <td>[!UICONTROL 販売キャンペーン URL]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL の送信者 &#x200B;]</td>
+  <td>[!UICONTROL の送信者 ]</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -216,96 +216,96 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
 
 ## 説明 {#descriptions}
 
-<table> 
+<table>
  <tr>
   <th>属性</th>
   <th>説明</th>
  </tr>
- <tbody> 
- <tr> 
-   <td><strong>[!UICONTROL の詳細 &#x200B;]</strong></td> 
-   <td>バウンスエラーメッセージの詳細。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL メール &#x200B;]</strong></td> 
-   <td>バウンスしたメールアドレス。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL リンク &#x200B;]</strong></td> 
-   <td>クリックされた URL。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Marketo販売担当者 ID]</strong></td> 
-   <td>[!DNL Sales Connect] の人物レコードの一意の ID。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL の受信元 &#x200B;]</strong></td> 
-   <td>メール送信者のメールアドレス。</td> 
+ <tbody>
+ <tr>
+   <td><strong>[!UICONTROL の詳細 ]</strong></td>
+   <td>バウンスエラーメッセージの詳細。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL 販売呼び出しの応答者 &#x200B;]</strong></td> 
-   <td>電話に出た人の名前。</td> 
+  <tr>
+   <td><strong>[!UICONTROL メール ]</strong></td>
+   <td>バウンスしたメールアドレス。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL 販売呼び出し期間 &#x200B;]</strong></td> 
-   <td>電話の長さ（秒）。</td> 
+  <tr>
+   <td><strong>[!UICONTROL リンク ]</strong></td>
+   <td>クリックされた URL。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL Sales Call Made By]</strong></td> 
-   <td>電話をかけた人のメールアドレス。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Marketo販売担当者 ID]</strong></td>
+   <td>[!DNL Sales Connect] の人物レコードの一意の ID。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL 販売呼び出し録画 URL]</strong></td> 
-   <td>通話記録の URL。</td> 
+  <tr>
+   <td><strong>[!UICONTROL の受信元 ]</strong></td>
+   <td>メール送信者のメールアドレス。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL 販売呼び出しの状態 &#x200B;]</strong></td> 
-   <td>電話の最終的な電話ステータスを保存します。このステータスには、完了、応答なし、キャンセル、失敗が含まれます。</td> 
+  <tr>
+   <td><strong>[!UICONTROL 販売呼び出しの応答者 ]</strong></td>
+   <td>電話に出た人の名前。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL 販売呼び出し件名 &#x200B;]</strong></td> 
-   <td>ダイヤラー内でセールスユーザーによって選択された電話の結果。</td> 
+  <tr>
+   <td><strong>[!UICONTROL 販売呼び出し期間 ]</strong></td>
+   <td>電話の長さ（秒）。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL 販売キャンペーン ID]</strong></td> 
-   <td>[!DNL Sales Connect] の Sales Campaign アセットの一意の ID。</td> 
+  <tr>
+   <td><strong>[!UICONTROL Sales Call Made By]</strong></td>
+   <td>電話をかけた人のメールアドレス。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL 販売キャンペーン名 &#x200B;]</strong></td> 
-   <td>セールスキャンペーンの名前。</td> 
+  <tr>
+   <td><strong>[!UICONTROL 販売呼び出し録画 URL]</strong></td>
+   <td>通話記録の URL。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL 販売キャンペーン URL]</strong></td> 
-   <td>[!DNL Sales Connect] Sales Campaign の URL。</td> 
+  <tr>
+   <td><strong>[!UICONTROL 販売呼び出しの状態 ]</strong></td>
+   <td>電話の最終的な電話ステータスを保存します。このステータスには、完了、応答なし、キャンセル、失敗が含まれます。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL 販売メールの件名 &#x200B;]</strong></td> 
-   <td>メールの件名行と一意の ID（例：件名（MSC-12345678）</td> 
+  <tr>
+   <td><strong>[!UICONTROL 販売呼び出し件名 ]</strong></td>
+   <td>ダイヤラー内でセールスユーザーによって選択された電話の結果。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL 販売電話番号の呼び出し &#x200B;]</strong></td> 
-   <td>セールスが発信した電話番号。</td> 
+  <tr>
+   <td><strong>[!UICONTROL 販売キャンペーン ID]</strong></td>
+   <td>[!DNL Sales Connect] の Sales Campaign アセットの一意の ID。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL 販売テンプレート名 &#x200B;]</strong></td> 
-   <td>[!DNL Sales Connect] 内の電子メールテンプレートの名前。</td> 
+  <tr>
+   <td><strong>[!UICONTROL 販売キャンペーン名 ]</strong></td>
+   <td>セールスキャンペーンの名前。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL 販売テンプレート URL]</strong></td> 
-   <td>[!DNL Sales Connect] メールテンプレートの URL。</td> 
+  <tr>
+   <td><strong>[!UICONTROL 販売キャンペーン URL]</strong></td>
+   <td>[!DNL Sales Connect] Sales Campaign の URL。</td>
   </tr>
-  <tr> 
-   <td><strong>[!UICONTROL の送信者 &#x200B;]</strong></td>
-   <td>メール送信者のメールアドレス。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Source]</strong></td> 
+  <tr>
+   <td><strong>[!UICONTROL 販売メールの件名 ]</strong></td>
+   <td>メールの件名行と一意の ID（例：件名（MSC-12345678）</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL 販売電話番号の呼び出し ]</strong></td>
+   <td>セールスが発信した電話番号。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL 販売テンプレート名 ]</strong></td>
+   <td>[!DNL Sales Connect] 内の電子メールテンプレートの名前。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL 販売テンプレート URL]</strong></td>
+   <td>[!DNL Sales Connect] メールテンプレートの URL。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL の送信者 ]</strong></td>
+   <td>メール送信者のメールアドレス。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Source]</strong></td>
    <td>アクティビティのソース。10 月 21 日（PT）リリースより前の [!DNL Sales Connect] アクティビティでは、「Tout」に設定されます。 10 月 21 日（PT）リリース以降、[!DNL Sales Connect] のアクティビティの「セールスアプリ」となる予定です。</td>
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL テンプレート ID]</strong></td> 
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL テンプレート ID]</strong></td>
    <td>ソースが Tout の場合、テンプレート ID は [!DNL Marketo Sales Connect] のテンプレート ID になります。 複数のテンプレートに存在する可能性のある件名の代わりに、特定のテンプレートをターゲットにする場合に使用します。
-</td> 
-  </tr> 
- </tbody> 
+</td>
+  </tr>
+ </tbody>
 </table>

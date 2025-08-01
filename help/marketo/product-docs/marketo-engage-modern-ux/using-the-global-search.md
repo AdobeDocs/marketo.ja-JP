@@ -3,7 +3,7 @@ description: グローバル検索の使用 - Marketo ドキュメント - 製�
 title: グローバル検索の使用
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
@@ -40,27 +40,27 @@ ht-degree: 100%
 
 ![](assets/using-the-global-search-6.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>項目／宛先の名前</td> 
+   <td>1</td>
+   <td>項目／宛先の名前</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>各項目／宛先へのパス（パンくずリスト）</td> 
+   <td>2</td>
+   <td>各項目／宛先へのパス（パンくずリスト）</td>
   </tr>
   <tr>
-   <td>3</td> 
-   <td>項目／宛先が最後に変更された日時</td> 
+   <td>3</td>
+   <td>項目／宛先が最後に変更された日時</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>項目／宛先が作成された日時</td> 
+   <td>4</td>
+   <td>項目／宛先が作成された日時</td>
   </tr>
   <tr>
-   <td>5</td> 
-   <td>検索結果を絞り込むためのフォーカスされたフィルターの実装</td> 
+   <td>5</td>
+   <td>検索結果を絞り込むためのフォーカスされたフィルターの実装</td>
   </tr>
  </tbody>
 </table>

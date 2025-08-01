@@ -4,7 +4,7 @@ description: ストリームケイデンスの設定 - Marketo ドキュメン�
 title: ストリームケイデンスの設定
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 95%
@@ -51,7 +51,7 @@ ht-degree: 95%
 
    >[!TIP]
    >
-   >ケイデンスは、**[!UICONTROL 繰り返し &#x200B;]:[!UICONTROL &#x200B; 毎週]**/**[!UICONTROL 毎 &#x200B;]:1[!UICONTROL &#x200B; 週]**/**[!UICONTROL オン]**：全日を選択することで、毎日実行するように設定できます。
+   >ケイデンスは、**[!UICONTROL 繰り返し ]:[!UICONTROL  毎週]**/**[!UICONTROL 毎 ]:1[!UICONTROL  週]**/**[!UICONTROL オン]**：全日を選択することで、毎日実行するように設定できます。
 
    次に、時間を選択します。[受信者タイムゾーン](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)を使用する場合は（例：ローカルタイムゾーンに従った配信）、チェックをオンにして、「**[!UICONTROL 保存]**」をクリックします。
 

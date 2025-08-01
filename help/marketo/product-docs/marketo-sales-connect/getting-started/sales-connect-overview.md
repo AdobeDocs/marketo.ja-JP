@@ -4,7 +4,7 @@ description: Sales Connect の概要 - Marketo ドキュメント - 製品ドキ
 title: Sales Connect の概要
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 100%
@@ -37,45 +37,45 @@ Marketo Sales Connect は、様々な機能を備えた多面的なセールス�
 
 ![](assets/2018-05-11-at-3.30-pm.jpg)
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>アクティビティのタイプ</th> 
-   <th>説明</th> 
-  </tr> 
-  <tr> 
-   <td><p>セールスメールを送信</p></td> 
-   <td><p>ユーザが Sales Connect からセールスメールを送信。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>セールスメール開封</p></td> 
-   <td><p>リードが Sales Connect から送信されたセールスメールを開封。</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>セールスメールクリック</p></td> 
-   <td><p>リードが Sales Connect から送信されたセールスメールのリンクをクリック。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>セールスメール受信</p></td> 
-   <td colspan="1"><p>Sales Connect から送信されたセールスメールをリードが受信。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>セールス電話受信</p></td> 
-   <td colspan="1"><p>リードが、セールス担当者から<a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">セールス電話</a>を使用した電話を受信。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>セールスキャンペーンに追加</p></td> 
-   <td colspan="1"><p>Sales Connect（キャンペーンページ）で作成したセールスキャンペーンにリードが追加。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>セールスキャンペーンから削除</p></td> 
-   <td colspan="1"><p>リードが販売キャンペーンから削除。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>注目のアクション</p></td> 
-   <td colspan="1"><p>リードが Marketo で注目のアクションを起こした。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>アクティビティのタイプ</th>
+   <th>説明</th>
+  </tr>
+  <tr>
+   <td><p>セールスメールを送信</p></td>
+   <td><p>ユーザが Sales Connect からセールスメールを送信。</p></td>
+  </tr>
+  <tr>
+   <td><p>セールスメール開封</p></td>
+   <td><p>リードが Sales Connect から送信されたセールスメールを開封。</p></td>
+  </tr>
+  <tr>
+   <td><p>セールスメールクリック</p></td>
+   <td><p>リードが Sales Connect から送信されたセールスメールのリンクをクリック。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>セールスメール受信</p></td>
+   <td colspan="1"><p>Sales Connect から送信されたセールスメールをリードが受信。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>セールス電話受信</p></td>
+   <td colspan="1"><p>リードが、セールス担当者から<a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">セールス電話</a>を使用した電話を受信。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>セールスキャンペーンに追加</p></td>
+   <td colspan="1"><p>Sales Connect（キャンペーンページ）で作成したセールスキャンペーンにリードが追加。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>セールスキャンペーンから削除</p></td>
+   <td colspan="1"><p>リードが販売キャンペーンから削除。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>注目のアクション</p></td>
+   <td colspan="1"><p>リードが Marketo で注目のアクションを起こした。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## マーケティングキャンペーンの共有 {#share-marketing-campaigns}

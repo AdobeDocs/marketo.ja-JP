@@ -4,7 +4,7 @@ description: プログラム原価分析領域について - Marketo ドキュ�
 title: プログラム原価分析領域について
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
@@ -51,25 +51,25 @@ ht-degree: 100%
 
 ## メンバーシップ {#membership}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>測定</th> 
-   <th>説明</th> 
-  </tr> 
-  <tr> 
-   <td>新しい名前の割合</td> 
-   <td>プログラムで獲得したリードの割合</td> 
-  </tr> 
-  <tr> 
-   <td>メンバー</td> 
-   <td>プログラムのリードの合計</td> 
-  </tr> 
-  <tr> 
-   <td>新しい名前</td> 
-   <td>プログラムが獲得した新しい名前の合計</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>測定</th>
+   <th>説明</th>
+  </tr>
+  <tr>
+   <td>新しい名前の割合</td>
+   <td>プログラムで獲得したリードの割合</td>
+  </tr>
+  <tr>
+   <td>メンバー</td>
+   <td>プログラムのリードの合計</td>
+  </tr>
+  <tr>
+   <td>新しい名前</td>
+   <td>プログラムが獲得した新しい名前の合計</td>
+  </tr>
+ </tbody>
 </table>
 
 ## プログラムの属性 {#program-attributes}

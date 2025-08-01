@@ -4,7 +4,7 @@ description: SEO - ページについて - Marketo ドキュメント - 製品�
 title: SEO - ページについて
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 100%

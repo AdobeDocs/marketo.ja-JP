@@ -3,7 +3,7 @@ description: 自動追加登録解除メッセージ設定 – Marketo ドキュ
 title: 登録解除メッセージの自動追加設定
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 9%
@@ -12,7 +12,7 @@ ht-degree: 9%
 
 # 登録解除メッセージの自動追加設定 {#auto-append-unsubscribe-message-setting}
 
-送信されたすべてのメールに購読解除メッセージが含まれていることを確認して、受信者が通信を簡単にオプトアウトできるようにします。 登録解除メッセージを追加が有効になっている場合、Marketo Sales から送信されるすべてのコミュニケーションには、Web アプリケーション、Salesforce、Gmail プラグイン、Outlook プラグインから送信されるメールを含む、登録解除メッセージが含まれます。
+送信されたすべてのメールに購読解除メッセージが含まれていることを確認して、受信者が通信を簡単にオプトアウトできるようにします。 購読解除メッセージを追加が有効になっている場合、Marketo Sales から送信されるすべてのコミュニケーションには、Web アプリケーション、Salesforce、Gmail プラグイン、Outlook プラグインから送信されるメールを含む、購読解除メッセージが含まれます。
 
 ## 注意事項 {#things-to-note}
 

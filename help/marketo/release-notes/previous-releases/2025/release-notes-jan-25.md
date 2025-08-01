@@ -3,10 +3,10 @@ description: リリースノート - 2025年1月 - Marketo ドキュメント - 
 title: リリースノート - 2025年1月
 feature: Release Information
 exl-id: fd816b9c-9e06-4292-87d6-9fa991c4681f
-source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '551'
-ht-degree: 93%
+ht-degree: 96%
 
 ---
 
@@ -18,46 +18,46 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
 次の機能は標準リリースサイクルに該当し、リリースは **2025年1月17日（PT）**&#x200B;から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">機能</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">機能</th>
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
   </tr>
-    <tr> 
+    <tr>
    <td><strong>新しいメールデザイナー</strong>：Marketo Engage の新しいネイティブメールデザイナーを使用して、最新の効率的なメールを作成します。事前に設計された標準のメールテンプレートの 1 つにアクセスするか、独自のテンプレートを簡単に作成します。動的コンテンツを使用し、Adobe Experience Manager Cloud Services から画像にアクセスします。コンテンツアクセラレーターの生成 AI 機能を使用して、革新的でパフォーマンスの高いメールを大規模に作成します。
    <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：新しいメールデザイナーにアクセスするには、Marketo Engage サブスクリプションを <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management システム（IMS）</a>に移行する必要があります。まだ移行しておらず、迅速な対応をリクエストする場合は、アドビのアカウントチーム（担当のアカウントマネージャー）または <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo サポート</a>にお問い合わせください。コンテンツアクセラレーターの生成 AI 機能に対するアクセス権を取得するには、アドビのアカウントチームにお問い合わせください。</td>
    <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">メールデザイナー - 概要</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
    <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>インタラクティブウェビナーのイベントから登録者を登録解除</strong>：何らかの理由でウェビナーの登録者が必要ない場合は、登録解除できるようになりました。ワークフローにより、登録者は Marketo イベントプログラムと Adobe Connect の両方から削除されます。</td> 
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>アーカイブ時にキャンペーンを無効にする</strong>：アクティブなトリガーキャンペーンを無効にし、アーカイブ時にフォルダー内のキャンペーンの予定されているバッチ実行をキャンセルします。アクティブなキャンペーン（トリガーキャンペーンをアクティブ化とバッチキャンペーンをスケジュール）を含むフォルダーのアーカイブに追加の権限チェックがあるので、この機能はこのリリースではデフォルトで無効になり、Marketo Engage サブスクリプションで<b>管理</b>／<b>アイデアスペース</b>に移動して有効にすることができます。</td> 
+  <tr>
+   <td><strong>インタラクティブウェビナーのイベントから登録者を登録解除</strong>：何らかの理由でウェビナーの登録者が必要ない場合は、登録解除できるようになりました。ワークフローにより、登録者は Marketo イベントプログラムと Adobe Connect の両方から削除されます。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
- </tbody> 
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>アーカイブ時にキャンペーンを無効にする</strong>：アクティブなトリガーキャンペーンを無効にし、アーカイブ時にフォルダー内のキャンペーンの予定されているバッチ実行をキャンセルします。アクティブなキャンペーン（トリガーキャンペーンをアクティブ化とバッチキャンペーンをスケジュール）を含むフォルダーのアーカイブに追加の権限チェックがあるので、この機能はこのリリースではデフォルトで無効になり、Marketo Engage サブスクリプションで<b>管理</b>／<b>アイデアスペース</b>に移動して有効にすることができます。</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+ </tbody>
 </table>
 <br/>
 
@@ -75,6 +75,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **プログラムメンバー API の更新**:[ プログラムメンバーの取得 ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} API が強化され、プログラムメンバーの識別子を取得する機能がサポートされるようになりました。 これを行うには、API リクエストの fields パラメーターで指定されたフィールドのリストに ID を追加します。
 
-* **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2025年10月31日（PT）以降は使用できなくなります。すべての新規および既存の統合は、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2025年10月31日（PT）以降は使用できなくなります。すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API の廃止**: Marketo SOAP API のサポートは 2025 年 10 月 31 日に終了します。 SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
+* **SOAP API の廃止**：Marketo SOAP API のサポートは、2025年10月31日（PT）に終了する予定です。SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。

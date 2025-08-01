@@ -3,10 +3,10 @@ description: エンゲージメントダッシュボード - Marketo ドキュ�
 title: エンゲージメントダッシュボード
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1743'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -103,7 +103,7 @@ Adobe Connectを活用したインタラクティブウェビナーでは、様�
 
 イベントのライブセッションのパフォーマンスの概要を説明します。 概要には、主要指標、エンゲージメントの推移、参加者のインタラクションが含まれます。 これは、主催者がイベントの成功を評価し、改善すべき領域を特定するのに役立ちます。
 
-左側のパネルから「**[!UICONTROL エンゲージメント]**」を選択して、ライブセッションのパフォーマンスを表示します。 **[!UICONTROL エンゲージメントの概要（PDF）をクリック]** して、ライブセッションのパフォーマンスサマリーをダウンロードします。 概要では、様々なセクションでデータを提供しています。
+左側のパネルから「**[!UICONTROL エンゲージメント]**」を選択して、ライブセッションのパフォーマンスを表示します。 **[!UICONTROL エンゲージメントサマリー（PDF）をクリック]** して、ライブセッションのパフォーマンスサマリーをダウンロードします。 概要では、様々なセクションでデータを提供しています。
 
 ![](assets/engagement-dashboard-5.png)
 

@@ -3,7 +3,7 @@ description: Googleへのリストの送信 – Marketo ドキュメント – �
 title: Google へのリストの送信
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 7%
@@ -12,7 +12,7 @@ ht-degree: 7%
 
 # Google へのリストの送信 {#send-a-list-to-google}
 
-Google カスタマーマッチを使用する場合は、次の手順に従ってMarketo Engageの静的リストをGoogle アカウントに送信します。
+Google カスタマーマッチを使用する場合は、次の手順に従ってMarketo Engage静的リストをGoogle アカウントに送信します。
 
 1. Marketo Engageで、目的のリストを見つけて選択します。
 

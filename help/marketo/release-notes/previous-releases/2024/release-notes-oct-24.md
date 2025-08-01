@@ -1,9 +1,9 @@
 ---
-description: リリースノート - 2024 年 10 月 - Marketo ドキュメント - 製品ドキュメント
-title: リリースノート - 2024 年 10 月
+description: リリースノート - 2024年10月 - Marketo ドキュメント - 製品ドキュメント
+title: リリースノート - 2024年10月
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 88%
@@ -18,73 +18,73 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
 以下の機能は標準リリースサイクルに該当し、リリースは **2024年10月4日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">機能</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">機能</th>
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
   </tr>
-    <tr> 
-   <td><strong>インタラクティブウェビナーのトークン化</strong>：ウェビナーの詳細を手動で追加しなくても、トークンを使用してメールやランディングページでインタラクティブウェビナーを促進できるようになりました。</td> 
+    <tr>
+   <td><strong>インタラクティブウェビナーのトークン化</strong>：ウェビナーの詳細を手動で追加しなくても、トークンを使用してメールやランディングページでインタラクティブウェビナーを促進できるようになりました。</td>
    <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">インタラクティブウェビナーのプロモーション</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>スマートリストの「影響に設定」カウント</strong>：スマートキャンペーンの選定ルールを編集した際に影響を受けるユーザの数を確認します。</td> 
+   <tr>
+   <td><strong>スマートリストの「影響に設定」カウント</strong>：スマートキャンペーンの選定ルールを編集した際に影響を受けるユーザの数を確認します。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>ナビゲーションパネルの「マイアカウント」ボタン</strong>：Adobe Identity Management システムに移行したユーザは、左側のナビゲーションパネルの新しい「マイアカウント」ボタンを使用して、タイムゾーンの設定とサブスクリプションの詳細にアクセスできます。</td> 
+   <tr>
+   <td><strong>ナビゲーションパネルの「マイアカウント」ボタン</strong>：Adobe Identity Management システムに移行したユーザは、左側のナビゲーションパネルの新しい「マイアカウント」ボタンを使用して、タイムゾーンの設定とサブスクリプションの詳細にアクセスできます。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-   <tr> 
+   <tr>
    <td><strong>メールパフォーマンスレポートの機能強化</strong>：メールレポートの指標とアクティビティトラッキングに関する複数の改善が行われ、追加のインサイトが提供され、精度が向上しました。
    <ul>
    <li>削除および結合された人物をメールパフォーマンス指標からフィルタリングします。</li>
    <li>応答アクティビティを 3 日間待機した後、メールは<i>中止</i>として分類されるようになりました。</li>
    <li>メール開封数は、スマートキャンペーンごとに個別にユニーク開封数としてカウントされます</li>
-   </td> 
+   </td>
    <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">メールパフォーマンスレポート</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-   <tr> 
+   <tr>
    <td><strong>Salesforce同期バックログの指標 </strong>：最適な同期エクスペリエンスを得るために CRM の更新を計画およびスケジュールするために、同期のスループットとバックログの傾向を監視します。
-   </td> 
+   </td>
    <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce 同期バックログ指標</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 

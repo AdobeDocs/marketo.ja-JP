@@ -4,10 +4,10 @@ description: セールス担当者にアラート - Marketo ドキュメント -
 title: セールス担当者にアラート
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 100%
+source-wordcount: '402'
+ht-degree: 97%
 
 ---
 
@@ -139,4 +139,4 @@ ht-degree: 100%
 
 [◄ ミッション 7：メールのパーソナライズ](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[ミッション 9：人物データの更新 ►](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[ミッション 9：個人データ ► ータの更新](/help/marketo/getting-started/quick-wins/update-person-data.md)

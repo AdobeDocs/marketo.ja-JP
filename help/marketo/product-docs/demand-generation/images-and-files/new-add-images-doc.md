@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 5cf6231b8da65d81d89b52cb2ef2cbe7422a4842
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 13%
@@ -90,11 +90,11 @@ PICC
 
    ![](assets/add-images-and-files-to-marketo-13.png)
 
-1. 画像を保存するMarketo Engageフォルダーを選択します。 この例では、Images and Files （デフォルト）のままにします。 「**インポート**」をクリックします。
+1. 画像を保存するMarketo Engage フォルダーを選択します。 この例では、Images and Files （デフォルト）のままにします。 「**インポート**」をクリックします。
 
    ![](assets/add-images-and-files-to-marketo-14.png)
 
-### Adobe Experience Manager からのインポート {#import-from-adobe-experience-manager}
+### Adobe Experience Manager からの読み込み {#import-from-adobe-experience-manager}
 
 テキスト
 
@@ -110,7 +110,7 @@ PICC
 
    >[!NOTE]
    >
-   >以前にサインインしたことがない場合は、AEM アカウントにサインインするように求められます。
+   >まだログインしていない場合は、AEM アカウントにログインするように求められます。
 
 1. テキスト
 

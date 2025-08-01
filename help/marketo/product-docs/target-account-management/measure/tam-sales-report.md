@@ -4,7 +4,7 @@ description: TAM セールスレポート - Marketo ドキュメント - 製品�
 title: TAM セールスレポート
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%
@@ -30,35 +30,35 @@ ht-degree: 100%
 
 ## セールスレポートキー {#sales-report-key}
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">顧客スコア</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">顧客スコア</span></strong></td>
+   <td>
     <div>
-      顧客スコア別の週別トレンド（セットアップで選択）と現在の顧客スコア 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">セールスパイプライン</span></strong></td> 
-   <td> 
+      顧客スコア別の週別トレンド（セットアップで選択）と現在の顧客スコア
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">セールスパイプライン</span></strong></td>
+   <td>
     <div>
-      パイプライン別の週別トレンドと、現在のパイプラインの合計数およびオープン商談数 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">ページビュー</span></strong></td> 
-   <td> 
+      パイプライン別の週別トレンドと、現在のパイプラインの合計数およびオープン商談数
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">ページビュー</span></strong></td>
+   <td>
     <div>
-      ページビューの週別トレンドと、合計ページビュー数およびユニーク訪問者数 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">注目のアクション</span></strong></td> 
-   <td> 
+      ページビューの週別トレンドと、合計ページビュー数およびユニーク訪問者数
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">注目のアクション</span></strong></td>
+   <td>
     <div>
-      その週に発生した注目のアクションの合計数 
-    </div></td> 
-  </tr> 
- </tbody> 
+      その週に発生した注目のアクションの合計数
+    </div></td>
+  </tr>
+ </tbody>
 </table>

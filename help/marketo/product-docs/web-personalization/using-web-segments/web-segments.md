@@ -4,7 +4,7 @@ description: Web セグメント - Marketo ドキュメント - 製品ドキュ�
 title: Web セグメント
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2043'
 ht-degree: 92%
@@ -23,35 +23,35 @@ ht-degree: 92%
 
 **グラフ**：セグメントページには、セグメントの訪問者数（y 軸）とセグメント名（x 軸）に応じて、選択したセグメントの棒グラフが表示されます。
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>名前</strong></td> 
-   <td colspan="1" rowspan="1">セグメントのタイトル</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>一致</strong></p></td> 
-   <td colspan="1" rowspan="1">セグメントのカスタマイズされた定義済みの条件を満たす訪問者の数</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>キャンペーンの設定</strong></td> 
-   <td colspan="1" rowspan="1">選択した検索語に関連付けられたキャンペーン CTA を設定できます</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>訪問者</strong></td> 
-   <td colspan="1">選択した検索語に関連付けられている訪問者テーブルのプレビュー</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>クリックストリーム</strong></td> 
-   <td colspan="1" rowspan="1">サイト上での訪問者のアクティビティや URL パスおよび各ページの滞在を表示 </td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">名前</th>
+   <th colspan="1" rowspan="1">説明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>名前</strong></td>
+   <td colspan="1" rowspan="1">セグメントのタイトル</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>一致</strong></p></td>
+   <td colspan="1" rowspan="1">セグメントのカスタマイズされた定義済みの条件を満たす訪問者の数</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>キャンペーンの設定</strong></td>
+   <td colspan="1" rowspan="1">選択した検索語に関連付けられたキャンペーン CTA を設定できます</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>訪問者</strong></td>
+   <td colspan="1">選択した検索語に関連付けられている訪問者テーブルのプレビュー</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>クリックストリーム</strong></td>
+   <td colspan="1" rowspan="1">サイト上での訪問者のアクティビティや URL パスおよび各ページの滞在を表示 </td>
+  </tr>
+ </tbody>
 </table>
 
 詳しくは、[セグメントラベルの作成および表示方法](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)をご覧ください
@@ -76,7 +76,7 @@ ht-degree: 92%
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-セグメントを有効または無効にするには、テーブルのそのセグメントのチェックボックスを選択し、テーブルの下部にある「[!UICONTROL &#x200B; アクションを選択 &#x200B;]」ドロップダウンボックスで、アクション「[!UICONTROL &#x200B; 有効 &#x200B;]」または「[!UICONTROL &#x200B; 無効 &#x200B;]」を選択します。 セグメントが無効の場合、「状態 [!UICONTROL &#x200B; 列に「無効 &#x200B;] と表示されます。
+セグメントを有効または無効にするには、テーブルのそのセグメントのチェックボックスを選択し、テーブルの下部にある「[!UICONTROL  アクションを選択 ]」ドロップダウンボックスで、アクション「[!UICONTROL  有効 ]」または「[!UICONTROL  無効 ]」を選択します。 セグメントが無効の場合、「状態 [!UICONTROL  列に「無効 ] と表示されます。
 
 ## セグメントを作成 {#create-segments}
 
@@ -160,7 +160,7 @@ ht-degree: 92%
 
 **組織グループ**
 
-「**[!UICONTROL プロファイルセグメント化]**」セクションで、「組織グループ **[!UICONTROL の横にあるチェックボックスをオン &#x200B;] します。**
+「**[!UICONTROL プロファイルセグメント化]**」セクションで、「組織グループ **[!UICONTROL の横にあるチェックボックスをオン ] します。**
 
 * ドロップダウンボックスで、次の選択肢から選択します。
 
@@ -219,14 +219,14 @@ ht-degree: 92%
 
 見込み客のステータス（既知または匿名）に従ってセグメントを定義します。
 
-* 既知 - 既知の訪問者のドロップダウンボックスからこのオプションを選択します。訪問者は Web サイトにフォームを送信し、[!DNL Web Personalization][!UICONTROL &#x200B; 人物 &#x200B;] ページに表示されると知られています。
+* 既知 - 既知の訪問者のドロップダウンボックスからこのオプションを選択します。訪問者は Web サイトにフォームを送信し、[!DNL Web Personalization][!UICONTROL  人物 ] ページに表示されると知られています。
 * 匿名 - 匿名訪問者のドロップダウンボックスで、このオプションを選択します。
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
 ### 行動 {#behavioral}
 
-**[!UICONTROL 訪問回数 &#x200B;] -** 訪問者行動または ID に従ってセグメントを定義します。
+**[!UICONTROL 訪問回数 ] -** 訪問者行動または ID に従ってセグメントを定義します。
 
 * 訪問数 - ドロップダウンボックスからこのオプションを選択して、ウェブサイトの見込み客の訪問数を指定します。
 
@@ -258,7 +258,7 @@ ht-degree: 92%
 
 **[!UICONTROL モバイル OS]**
 
-[!UICONTROL &#x200B; モバイル OS] をセグメントエディターにドラッグ&amp;ドロップします
+[!UICONTROL  モバイル OS] をセグメントエディターにドラッグ&amp;ドロップします
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
@@ -292,7 +292,7 @@ ht-degree: 92%
 >
 >**ワイルドカードの使用 -** 何かを含む検索語または URL を含める場合（例：「[google.com](https://google.com)」または「検索語製品」）、これをワイルドカードと呼び、両端にアスタリスク（&#42;）を付けて入力する必要があります。このように、[google.com](https://google.com) は、「&#42; [google.com](https://google.com)&#42;」として入力する必要があります。
 
-## 編集 [!UICONTROL &#x200B; セグメント &#x200B;] {#edit-segments}
+## 編集 [!UICONTROL  セグメント ] {#edit-segments}
 
 作成済みのセグメントを編集できます。
 

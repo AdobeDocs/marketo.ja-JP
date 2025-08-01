@@ -3,10 +3,10 @@ description: リリースノート - 2022 年 10 月 - Marketo ドキュメン�
 title: リリースノート - 2022 年 10 月
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
@@ -26,15 +26,15 @@ ht-degree: 100%
 
 </br>
 
-* **プログラムメンバーカスタムフィールドの同期**：プログラムメンバー用にキャプチャされた拡張可能なフィールド（例：食べ物、セッション、トラックなどのイベント登録中の出席者の環境設定）と、Salesforce のキャンペーンメンバーフィールドを双方向で同期できます。
+* **プログラムメンバーカスタムフィールド同期**：プログラムメンバー用にキャプチャされた拡張可能なフィールド（例：食べ物、セッション、トラックなどのイベント登録中の出席者の環境設定）をSalesforceのキャンペーンメンバーフィールドと双方向同期する機能。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
-   <td>出荷済み</td>
+  <tr>
+   <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">プログラムメンバーカスタムフィールドの同期</a></td>
   </tr>
   </tbody>
@@ -42,13 +42,13 @@ ht-degree: 100%
 
 * **Adobe Privacy Service の統合**：Privacy Service と調和し、Experience Cloud 製品全体のデータプライバシー規制へのコンプライアンスを自動化します。現在、このサービスは、Adobe Identity Management システムにオンボーディングした Marketo Engage のお客様のみが利用できます。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
-   <td>出荷済み</td>
+  <tr>
+   <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
@@ -63,13 +63,13 @@ ht-degree: 100%
    * ランディングページテンプレートの詳細
    * メールテンプレートリスト
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
-   <td>出荷済み</td>
+  <tr>
+   <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切替スイッチ</a></td>
   </tr>
   </tbody>
@@ -77,13 +77,13 @@ ht-degree: 100%
 
 * **メールテンプレートの詳細の「使用者」タブの拡張**：新しいエクスペリエンスでは、アセットのステータス、最終変更日、最終変更者など、メールテンプレートを使用しているアセットに関する追加情報が表示されます。また、アセットで使用されるリストの検索、並べ替え、フィルタリングを行うこともできます。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
-   <td>出荷済み</td>
+  <tr>
+   <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -91,13 +91,13 @@ ht-degree: 100%
 
 * **レポートアセットフィルターのモーダル**：レポート設定モーダルの新しいデザインで、設定メニューで新しいアセットツリーと、作成日および変更日のフィルターを表示します。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
-   <td>出荷済み</td>
+  <tr>
+   <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -109,13 +109,13 @@ ht-degree: 100%
 
 * **リードの一括読み込み：セールス担当者との関連付け**：パリティ付きのリード REST API で一括読み込みプロセス中にリードをセールス担当者に関連付け、複雑さを軽減し、必要な API 呼び出し数を減らすことができます。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
-   <td>出荷済み</td>
+  <tr>
+   <td>リリース済み</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">リードの一括読み込み</a></td>
   </tr>
   </tbody>
@@ -129,13 +129,13 @@ ht-degree: 100%
 
 * **Sales Insight と動的チャットの統合**：Insight ダッシュボードに、スマートグリッドの動的チャットアクティビティと、週別の概要および詳細カードが含まれるようになりました。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
-   <td>出荷済み</td>
+  <tr>
+   <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">動的チャットの統合</a></td>
   </tr>
   </tbody>
@@ -147,13 +147,13 @@ ht-degree: 100%
 
 * **動的チャットのダイアログストリームの自動配置**：混み合ったダイアログキャンバスが、「自動配置」ボタンを押すことで、すべての項目がきれいで読みやすい形式に整理され、改善されます。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
-   <td>出荷済み</td>
+  <tr>
+   <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">ストリームデザイナーのアイコン</a></td>
   </tr>
   </tbody>
@@ -161,13 +161,13 @@ ht-degree: 100%
 
 * **動的チャットのミーティングリンク**：訪問者に送信されるすべてのカレンダー招待に、Google と Outlook の Teams または Meet のリンクを自動的に含めるオプションです。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
-   <td>出荷済み</td>
+  <tr>
+   <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">カレンダー</a></td>
   </tr>
   </tbody>
@@ -175,13 +175,13 @@ ht-degree: 100%
 
 * **動的チャットの追加のデータタイプをサポート**：3 つの新しいデータタイプ（ブーリアン、整数、浮動少数）を使用すると、スコアに基づくターゲティングや、訪問者に「はい／いいえ」回答形式で質問するなど、動的チャットの既存の Marketo Engage フィールドをより活用できます。
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>ステータス</b></td>
    <td><b>ドキュメントの更新</b></td>
   </tr>
-  <tr> 
-   <td>出荷済み</td>
+  <tr>
+   <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
   </tbody>

@@ -4,7 +4,7 @@ description: レポートのタイムフレームを変更する — Marketo ド
 title: レポートのタイムフレームを変更する
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 100%
@@ -43,7 +43,7 @@ ht-degree: 100%
    >
    >特定の日付を設定するには、ドロップダウンメニューから「**[!UICONTROL カスタム]**」を選択し、「**[!UICONTROL 開始日]**」および「**[!UICONTROL 終了日]**」のカレンダーフィールドに日付を入力します。
 
-   「**[!UICONTROL レポート]**」タブをクリックすると、選択したタイムフレームのレポートが表示されます。\
+   「**[!UICONTROL レポート]**」タブをクリックすると、選択したタイムフレームのレポートが表示されます。
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

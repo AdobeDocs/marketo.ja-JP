@@ -4,8 +4,8 @@ description: フォームの言語の変更 - Marketo ドキュメント - 製�
 title: フォームの言語の変更
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 210c18f522a8358d02eb19018755daf2af2bd280
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 100%
 
@@ -58,4 +58,3 @@ ht-degree: 100%
 これで、選択した言語がフォームに反映されます。
 
 ![](assets/change-the-language-of-a-form-8.png)
-

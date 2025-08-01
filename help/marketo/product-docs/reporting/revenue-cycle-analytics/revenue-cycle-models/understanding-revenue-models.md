@@ -4,7 +4,7 @@ description: 収益モデルについて - Marketo ドキュメント - 製品�
 title: 収益モデルについて
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 100%

@@ -3,7 +3,7 @@ description: リリースノート - 2025年3月 - Marketo ドキュメント - 
 title: リリースノート - 2025年3月
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-source-git-commit: f236f2cf73637ee1a0ee6062c1ecbf82f0e02130
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 98%
@@ -18,45 +18,45 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
 以下の機能は標準リリースサイクルに該当し、リリースは **2025年3月28日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">機能</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">機能</th>
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
   </tr>
-    <tr> 
+    <tr>
    <td><strong>すべてのプログラムで使用可能なメールデザイナー</strong>：新しいメールデザイナーのメールは、エンゲージメントプログラム、デフォルトプログラム、イベントプログラムをまたいでアクセスできるようになりました（唯一の例外はインタラクティブウェビナープログラムです）。以前は、メールプログラムでのみ使用できました。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
+  <tr>
    <td><strong>インタラクティブウェビナーの生成 AI 機能</strong>：オンデマンドウェビナーのチャプターと概要を生成できるようになりました。データの HTML ファイルを編集して書き出します。</td>
    <td>リリース済み</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI の機能</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI の機能</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
    <td> </td>
    <td> </td>
+   <td> </td>
   </tr>
-  <tr> 
-   <td><strong>グローバルおよびワークスペースのマイトークン</strong>：ワークスペースとグローバルレベルの両方でマイトークンを設定して、Marketo Engage ワークスペースをまたいで、さらにはインスタンス全体でのブランドとマーケティングの販促物に対する生産性の向上と制御を可能にします。</td> 
+  <tr>
+   <td><strong>グローバルおよびワークスペースのマイトークン</strong>：ワークスペースとグローバルレベルの両方でマイトークンを設定して、Marketo Engage ワークスペースをまたいで、さらにはインスタンス全体でのブランドとマーケティングの販促物に対する生産性の向上と制御を可能にします。</td>
    <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">グローバルなマイトークンの作成</a></td>
   </tr>
-  </tbody> 
+  </tbody>
 </table>
 <br/>
 

@@ -4,7 +4,7 @@ description: Facebook でのカスタムオーディエンスへのリードの�
 title: Facebook でのカスタムオーディエンスへのリードの追加
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 56%
@@ -39,7 +39,7 @@ ht-degree: 56%
 
    >[!NOTE]
    >
-   >**[!UICONTROL オーディエンスにリードを追加]**：カスタムサブタイプを持つ [!DNL Facebook] オーディエンスのみが使用できます。\
+   >**[!UICONTROL オーディエンスにリードを追加]**：カスタムサブタイプを持つ [!DNL Facebook] オーディエンスのみが使用できます。
    >**[!UICONTROL オーディエンスからリードを削除]**：静的リストまたはスマートリストのリードを [!DNL Facebook] オーディエンスから削除します。
 
 1. 完了すると、ステータスが更新されます。

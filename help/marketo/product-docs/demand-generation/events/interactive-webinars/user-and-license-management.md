@@ -3,7 +3,7 @@ description: ユーザーとライセンスの管理 - Marketo ドキュメン�
 title: ユーザーとライセンスの管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 100%
@@ -66,32 +66,32 @@ ht-degree: 100%
 
    ![](assets/user-and-license-management-11.png)
 
-<table> 
+<table>
   <tr>
    <td width="20%"><b>開始日</b></td>
    <td width="80%">ライセンスが開始する日付。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>有効期限</b></td>
    <td width="80%">ライセンスの期限が切れる日付。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>タイプ</b></td>
    <td width="80%">購入したライセンスのタイプ。共有イベントライセンス、共有ルームライセンス、追加のストレージライセンスの 3 つのタイプを使用できます。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>イベントのキャパシティ</b></td>
    <td width="80%">イベントに参加できる参加者の最大数。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>合計イベント数</b></td>
    <td width="80%">このライセンスでプロビジョニングされたイベントの合計数。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>消費済みイベント</b></td>
    <td width="80%">完了したイベントの合計数。</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>ストレージ容量</b></td>
    <td width="80%">記録、資料、ヒーロー画像、ドキュメントおよびその他のアセットの格納に使用できるストレージ容量。</td>
   </tr>

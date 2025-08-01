@@ -2,10 +2,11 @@
 description: Salesforce同期バックログ指標 – Marketo ドキュメント – 製品ドキュメント
 title: Salesforce 同期バックログ指標
 feature: Reporting
-source-git-commit: cfd7e3f70246a0a36793f747f0f2f40bcb9619c5
+exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1048'
-ht-degree: 43%
+ht-degree: 44%
 
 ---
 
@@ -15,7 +16,7 @@ ht-degree: 43%
 
 ## アクセス方法 {#how-to-access}
 
-1. Marketo Engageで、「管理者 **エリアに移動** ます。
+1. Marketo Engage で、**管理**&#x200B;エリアに移動します。
 
    ![](assets/salesforce-sync-backlog-metrics-1.png)
 
@@ -83,24 +84,24 @@ ht-degree: 43%
 
 ## 同期のバックログの原因 {#what-causes-sync-backlogs}
 
-Marketo Engage側で更新を行った場合でも、CRM 側で更新を行った場合でも、再同期するレコードはトリガーされ、通常の CRMMarketo Engageサイクルで他方の側の情報が更新されます。 Salesforce上のレコードに対して更新が行われるたびに、「SysModStamp」と呼ばれるシステム変更タイムスタンプが生成されます。 これにより、同期する変更がキューに入れられます。
+更新をMarketo Engage側で行った場合でも CRM 側で行った場合でも、再同期されるレコードがトリガーされ、通常のMarketo Engageから CRM への同期サイクルを通じて他方の側の情報が更新されます。 Salesforce上のレコードに対して更新が行われるたびに、「SysModStamp」と呼ばれるシステム変更タイムスタンプが生成されます。 これにより、同期する変更がキューに入れられます。
 
-フィールド値の変更など、大量の更新が行われると、多数のレコードが変更され、新しい SysModStamps が発生します。 その後、多数の人物レコードの更新を、Marketo Engageと CRM の間で再同期する必要があり、ときに一時的なバックログが作成されることがあります。
+フィールド値の変更など、大量の更新が行われると、多数のレコードが変更され、新しい SysModStamps が発生します。 その後、多数の人物レコードの更新を、Marketo Engageと CRM の間で再同期する必要があります。その結果、一時的なバックログが作成されることがあります。
 
 ## 同期バックログの管理のベストプラクティス {#best-practices}
 
 **同期ユーザーに表示されるフィールド**：同期するために表示されるフィールドが、同期する必要があり、マーケティング活動に価値を持つフィールドのみであることを確認します。 最終変更日のタイムスタンプを更新するSalesforce内のレコードに対する更新が行われると、同期バックログへのレコードがキューに入れられ、不要なフィールドの同期により、同期中のより重要なフィールドの速度が低下する可能性があります。 不要なフィールドが同期ユーザーに対して非表示になっている場合、これらのフィールドを更新すると、スキップが発生し、更新よりもはるかに速く処理されます。 Salesforce管理者と協力して、ベストプラクティス [ こちら ](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} を確認し、Marketo Sync ユーザーに表示されるフィールドを更新します。
 
-**不要なレコードの非表示またはフィルター**：レコードが市場向きでない場合、同期リソースを無駄にしている可能性があります。 同期ユーザーが表示できない場合は、同期を試みるリソースを無駄にしません。 [Marketo Engageサポート ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} は、追加の条件に基づいてレコードの同期を禁止する同期フィルターの設定に役立ちます。 カスタム同期フィルターの設定について詳しくは [ こちらを参照 ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 Salesforce内でインデックスフィールドを使用することを強くお勧めします（詳しくは、salesforce にお問い合わせください）。
+**不要なレコードの非表示またはフィルター**：レコードが市場向きでない場合、同期リソースを無駄にしている可能性があります。 同期ユーザーが表示できない場合は、同期を試みるリソースを無駄にしません。 [Marketo Engage サポート ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} は、追加の条件に基づいてレコードの同期を禁止する同期フィルターの設定をサポートします。 カスタム同期フィルターの設定について詳しくは [ こちらを参照 ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 Salesforce内でインデックスフィールドを使用することを強くお勧めします（詳しくは、salesforce にお問い合わせください）。
 
 **重要でない時間帯に一括更新をスケジュール**: データ同期パターンを確認して、重要でない期間を特定します。 可能であれば、これらの重要でない期間に一括更新をスケジュールできるかどうかを確認します。
 
 **頻繁に更新されるフィールド**：一部のフィールドは頻繁に更新される傾向があります。 例えば、通貨の変更が必要な通貨フィールドなどです。 これらを同期する必要があるか、またはフィールドの設計を変える必要があるかを確認します。 頻繁に更新され、必要のない他のフィールドがある場合は、同期ユーザーに対して非表示にします。 フィールドを更新している可能性のあるSFDC管理者の統合について確認してください。
 
-**カスタムオブジェクト**：同期が有効になっている [ カスタムオブジェクト ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} を定期的に確認し、同期する必要がなくなったオブジェクトは無効にします。
+**カスタムオブジェクト**：同期が有効になっている [ カスタムオブジェクト ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} を定期的に確認し、同期する必要がなくなったオブジェクトは無効にします。
 
-**アクティビティ**:[ アクティビティがあるかどうかを確認 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} 同期が有効になっていましたが、同期から削除される可能性があります。  これらのアクティビティは、リードごとに 1 日に 1 回だけ同期されます。
+**アクティビティ**:[ アクティビティがあるかどうかを確認 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} 同期が有効になっていましたが、同期から削除される可能性があります。  これらのアクティビティは、リードごとに 1 日に 1 回だけ同期されます。
 
 **同期エラーの確認**：例外処理により同期が遅くなる場合があります。 ユーザー通知を確認し、エラーを解決すると、同期の正常性が向上する可能性があります。
 
-**サポートへのお問い合わせ**：上記のすべてのベストプラクティスに従っていて、まだ重大なバックログが発生している場合は、[Marketo Engageサポートにお問い合わせください ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}。
+**サポートへのお問い合わせ**：上記のすべてのベストプラクティスに従っていて、まだ重大なバックログが発生している場合は、[Marketo Engage サポートにお問い合わせください ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}。

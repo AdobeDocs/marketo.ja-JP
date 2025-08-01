@@ -4,7 +4,7 @@ description: Adobe Analytics との連携 - Marketo ドキュメント - 製品�
 title: Adobe Analytics との連携
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1059'
 ht-degree: 87%
@@ -64,8 +64,8 @@ AA でこれらの変数を設定するには、次の手順を実行します�
 
 1. AA アカウントで&#x200B;**[!UICONTROL 管理ツール]**&#x200B;に移動します。
 1. 連携で使用する&#x200B;**[!UICONTROL レポートスイート]**&#x200B;を選択します。
-1. **[!UICONTROL 設定を編集]** で **[!UICONTROL コンバージョン]** に移動し、「**[[!UICONTROL コンバージョン変数 &#x200B;]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**」を選択します。\
-   [コンバージョン変数](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)数を選択します。以下をおすすめします。
+1. **[!UICONTROL 設定を編集]** で **[!UICONTROL コンバージョン]** に移動し、「**[[!UICONTROL コンバージョン変数 ]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**」を選択します。
+[コンバージョン変数](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)数を選択します。以下をおすすめします。
 
    1. Evar 20：業界カスタムコンバージョン
    1. Evar 21：組織のカスタムコンバージョン
@@ -80,7 +80,7 @@ AA でこれらの変数を設定するには、次の手順を実行します�
 
       1. 「有効期限」フィールドを&#x200B;**[!UICONTROL 訪問]**&#x200B;に変更します。
 
-1. **[!UICONTROL 設定を編集]** の **[!UICONTROL コンバージョン]** に移動し、「**[[!UICONTROL 成功イベント &#x200B;]](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**」を選択します。
+1. **[!UICONTROL 設定を編集]** の **[!UICONTROL コンバージョン]** に移動し、「**[[!UICONTROL 成功イベント ]](https://microsite.omniture.com/t2/help/en_US/reference/#Configure_success_events)**」を選択します。
 
    1. 「カスタム成功イベント」イベント番号を選択します。以下をおすすめします。
 
@@ -110,9 +110,9 @@ AA でこれらの変数を設定するには、次の手順を実行します�
 
       1. 4 つのプロパティ名を変更します。これは、レポートスイートに表示される名前です。
 
-   1. [!UICONTROL &#x200B; 有効 &#x200B;] フィールドを **[!UICONTROL 有効]** に選択します。
+   1. [!UICONTROL  有効 ] フィールドを **[!UICONTROL 有効]** に選択します。
 
-   1. 「[!UICONTROL &#x200B; パスレポート &#x200B;]」フィールドを **[!UICONTROL 有効]** に選択します。
+   1. 「[!UICONTROL  パスレポート ]」フィールドを **[!UICONTROL 有効]** に選択します。
 
 ## [!DNL Marketo Real-Time Personalization] で設定（RTP） {#set-up-in-marketo-real-time-personalization-rtp}
 
@@ -134,20 +134,20 @@ AA でこれらの変数を設定するには、次の手順を実行します�
 >
 >**コンバージョン変数**
 >
->* [!UICONTROL &#x200B; 業界カスタムコンバージョン &#x200B;] - スロット 20
->* [!UICONTROL &#x200B; 組織のカスタムコンバージョン &#x200B;] - スロット 21
+>* [!UICONTROL  業界カスタムコンバージョン ] - スロット 20
+>* [!UICONTROL  組織のカスタムコンバージョン ] - スロット 21
 >
 >**カスタムイベント**
 >
->* [!UICONTROL Campaign カスタムイベント &#x200B;] - スロット 20
->* [!UICONTROL &#x200B; セグメントカスタムイベント &#x200B;] - スロット 21
+>* [!UICONTROL Campaign カスタムイベント ] - スロット 20
+>* [!UICONTROL  セグメントカスタムイベント ] - スロット 21
 >
 >**トラフィック変数**
 >
->* [!UICONTROL &#x200B; セグメント組織トラフィック変数 &#x200B;] - スロット 20
->* [!UICONTROL &#x200B; セグメント業界のトラフィック変数 &#x200B;] - スロット 21
->* [!UICONTROL Campaign 組織トラフィック変数 &#x200B;] - スロット 22
->* [!UICONTROL Campaign 業界トラフィック変数 &#x200B;] - スロット 23
+>* [!UICONTROL  セグメント組織トラフィック変数 ] - スロット 20
+>* [!UICONTROL  セグメント業界のトラフィック変数 ] - スロット 21
+>* [!UICONTROL Campaign 組織トラフィック変数 ] - スロット 22
+>* [!UICONTROL Campaign 業界トラフィック変数 ] - スロット 23
 >
 >**これらのスロット番号が、AA で作成された変数とイベント番号と一致していることを確認してください。**
 
@@ -176,7 +176,7 @@ AA でカスタマイズされたレポートやダッシュボードの例を�
 
 [RTP ダッシュボード](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)と呼ばれる&#x200B;**新しいダッシュボード**&#x200B;を作成します。このダッシュボードは、垂直線および RTP セグメントに従った訪問者の分類を理解するのに役立ちます。
 
-1. 「**[!UICONTROL ダッシュボード &#x200B;]」をクリック**、「**[!UICONTROL ダッシュボードを追加]**」をクリックします。
+1. 「**[!UICONTROL ダッシュボード ]」をクリック**、「**[!UICONTROL ダッシュボードを追加]**」をクリックします。
 
 1. ダッシュボードに **RTP ダッシュボード**&#x200B;という名前を付けます。
 
@@ -216,11 +216,11 @@ AA でカスタマイズされたレポートやダッシュボードの例を�
 
 ## Adobe Analytics でのインプレッション数とクリック数（コンバージョン）の表示 {#view-impressions-and-clicks-conversions-in-adobe-analytics}
 
-1. **[!UICONTROL カスタム &#x200B;] リンク** をクリックします。
+1. **[!UICONTROL カスタム ] リンク** をクリックします。
 
    ![](assets/sitecatalyst1-1.png)
 
-1. インプレッションを検索して、セグメントを表示し、キャンペーンのインプレッション数を表すキャンペーン名を表示します。\
+1. インプレッションを検索して、セグメントを表示し、キャンペーンのインプレッション数を表すキャンペーン名を表示します。
    ![](assets/sitecatalyst1.png)
 
 1. コンバージョンを検索して、キャンペーンのクリック数を表すセグメント名とキャンペーン名を表示します。

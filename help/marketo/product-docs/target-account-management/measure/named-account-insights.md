@@ -4,7 +4,7 @@ description: 重点顧客インサイト - Marketo ドキュメント - 製品�
 title: 重点顧客インサイト
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 79%
@@ -25,29 +25,29 @@ ht-degree: 79%
 >
 >グラフには、過去 90 日間のインサイトが表示されます。
 
-**[!UICONTROL 経時的なアカウントのエンゲージメント]**&#x200B;右側の「**[!UICONTROL 表示]**」ドロップダウンをクリックして、表示内容を変更します。[!UICONTROL &#x200B; アカウントスコア &#x200B;] に加えて、[!UICONTROL &#x200B; 合計売上高 &#x200B;] 別に表示できます。
+**[!UICONTROL 経時的なアカウントのエンゲージメント]**&#x200B;右側の「**[!UICONTROL 表示]**」ドロップダウンをクリックして、表示内容を変更します。[!UICONTROL  アカウントスコア ] に加えて、[!UICONTROL  合計売上高 ] 別に表示できます。
 
 ![](assets/two-new.png)
 
-...または [!UICONTROL &#x200B; パイプライン &#x200B;].
+...または [!UICONTROL  パイプライン ].
 
 ![](assets/three-new.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">アカウントスコア</span></strong></td> 
-   <td><p><span class="uicontrol"> 管理者 </span> で作成したすべてのアカウントスコアに基づいて、週別のエンゲージメントを参照してください。 これらのアカウントスコアを並べて比較できます。週別のエンゲージメントを判断するため、任意の曜日から最大のエンゲージメントを取り込みます。</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">パイプライン</span></strong></td> 
-   <td>経時的なパイプラインを表示します。週ごとの経時的なパイプラインを判断するため、最終日にパイプラインを取得します。</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">売上高</span></strong></td> 
-   <td>経時的な売上高を表示します。週ごとの経時的な売上高を判断するため、その週の全売上高の合計を取り込みます。</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">アカウントスコア</span></strong></td>
+   <td><p><span class="uicontrol"> 管理者 </span> で作成したすべてのアカウントスコアに基づいて、週別のエンゲージメントを参照してください。 これらのアカウントスコアを並べて比較できます。週別のエンゲージメントを判断するため、任意の曜日から最大のエンゲージメントを取り込みます。</p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">パイプライン</span></strong></td>
+   <td>経時的なパイプラインを表示します。週ごとの経時的なパイプラインを判断するため、最終日にパイプラインを取得します。</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">売上高</span></strong></td>
+   <td>経時的な売上高を表示します。週ごとの経時的な売上高を判断するため、その週の全売上高の合計を取り込みます。</td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL 注目のアクション]**
@@ -84,9 +84,9 @@ ht-degree: 79%
 
 ![](assets/four-1.png)
 
-## [!UICONTROL &#x200B; 潜在ユーザー &#x200B;] {#potential-people}
+## [!UICONTROL  潜在ユーザー ] {#potential-people}
 
-リードとアカウントのマッチングでは、ファジーロジックを使用して、「潜在的な人物 [!UICONTROL &#x200B; タブで解決できる弱い一致を見つけ &#x200B;] す。
+リードとアカウントのマッチングでは、ファジーロジックを使用して、「潜在的な人物 [!UICONTROL  タブで解決できる弱い一致を見つけ ] す。
 
 ![](assets/five-1.png)
 
@@ -94,13 +94,13 @@ ht-degree: 79%
 >
 >リストに表示された任意のユーザーを追加するには、ユーザーを選択し、「**[!UICONTROL ユーザーを追加]**」をクリックします。
 
-## [!UICONTROL &#x200B; 使用者 &#x200B;] {#used-by}
+## [!UICONTROL  使用者 ] {#used-by}
 
 このタブには、特定の重点顧客またはアカウントリストを現在参照しているスマートキャンペーン、web キャンペーン、スマートリストまたはレポートが表示されます。
 
 ![](assets/six-1.png)
 
-## [!UICONTROL &#x200B; アカウントチーム &#x200B;] {#account-team}
+## [!UICONTROL  アカウントチーム ] {#account-team}
 
 このタブで、アカウントチームのメンバーの表示、メンバーの追加／削除、アカウント所有者の割り当てをおこないます。
 
@@ -110,8 +110,8 @@ ht-degree: 79%
 >
 >「**[!UICONTROL アカウントチームのアクション]**」ドロップダウンをクリックして、アカウントメンバーを追加または削除するか、アカウント所有者を割り当てます。
 
-## [!UICONTROL ICP 指標 &#x200B;] {#icp-indicators}
+## [!UICONTROL ICP 指標 ] {#icp-indicators}
 
-[!UICONTROL &#x200B; モデルを調整 &#x200B;] したときにエクスポートするために選択した [ICP 指標 ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) を表示します。
+[!UICONTROL  モデルを調整 ] したときにエクスポートするために選択した [ICP 指標 ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) を表示します。
 
 ![](assets/eight.png)

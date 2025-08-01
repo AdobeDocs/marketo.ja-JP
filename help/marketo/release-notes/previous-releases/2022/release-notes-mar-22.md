@@ -3,10 +3,10 @@ description: リリースノート - 2022年3月 - Marketo ドキュメント - 
 title: リリースノート - 2022年3月
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
-source-wordcount: '750'
-ht-degree: 100%
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
+source-wordcount: '749'
+ht-degree: 97%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->星（![星](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 **_四半期リリース_**
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
-* **[!DNL Dynamic Chat]**：プロアクティブで魅力的な、一対一のパーソナライズされた会話でリードとアカウントの両方をターゲットにすることで、web サイト上のあらゆる機会を最大化します。[Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engage ユーザは、B2B マーケティングおよびセールスのユースケースに対して、統合されたクロスチャネルエクスペリエンスの主要部として、チャットを活用し始めることができます。チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
+* **[!DNL Dynamic Chat]**：プロアクティブで魅力的な、1:1 のパーソナライズされた会話で、リードとアカウントの両方をターゲティングすることで、web サイト上のすべての機会を最大化します。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engage ユーザは、B2B マーケティングおよびセールスのユースケースに対して、統合されたクロスチャネルエクスペリエンスの主要部として、チャットを活用し始めることができます。チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
 
 * **メールボットアクティビティのフィルタリング機能強化**：以前にリリースした[メールボットアクティビティのフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}を機能強化し、ボットとして識別されたアクティビティの記録をオプトインできるようになりました。ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
 

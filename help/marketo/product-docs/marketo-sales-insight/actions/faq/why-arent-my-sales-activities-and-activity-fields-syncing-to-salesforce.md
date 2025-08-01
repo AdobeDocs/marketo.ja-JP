@@ -2,10 +2,10 @@
 description: セールスアクティビティおよびアクティビティフィールドが Salesforce に同期されない理由- Marketo ドキュメント - 製品ドキュメント
 title: セールスアクティビティおよびアクティビティフィールドが Salesforce に同期されない理由
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 100%
 
 * Salesforce に接続していることを確認してください。各ユーザーは、メールおよび電話を Salesforce に記録するために接続している必要があります。
 * [Salesforce 同期設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}が設定されていることを確認してください。
-* メールは、プライマリルックアップとしての Salesforce ID およびセカンダリとしてのメールアドレスに基づいてレコードルックアップを行います。[Actions web アプリ](https://toutapp.com/next#command_center){target="_blank"}で、人物レコードに Salesforce ID およびメールアドレスがリンクされていることを確認できます。
-* 電話は、Salesforce ID のみに基づいてレコードルックアップを行います。Actions の人物レコードに Salesforce ID が存在しない場合、電話は記録されません。[Actions web アプリ](https://toutapp.com/next#command_center){target="_blank"}で、人物レコードに Salesforce ID がリンクされていることを確認できます。
+* メールは、プライマリルックアップとしての Salesforce ID およびセカンダリとしてのメールアドレスに基づいてレコードルックアップを行います。[ アクション web アプリ ](https://toutapp.com/next#command_center){target="_blank"} で、人物レコードにSalesforce ID とメールアドレスのリンクがあることを確認できます。
+* 電話は、Salesforce ID のみに基づいてレコードルックアップを行います。Actions の人物レコードに Salesforce ID が存在しない場合、電話は記録されません。[ アクション web アプリ ](https://toutapp.com/next#command_center){target="_blank"} で、人物レコードにSalesforce ID がリンクされていることを確認できます。
 
 **Salesforce アップデートにアクティビティフィールドが表示されません。**
 

@@ -3,10 +3,10 @@ description: 対話型フローの概要 - Marketo ドキュメント - 製品�
 title: 対話型フローの概要
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -20,30 +20,30 @@ ht-degree: 100%
 
 ダイアログと対話型フローにはいくつかの類似点がありますが、これら 2 つの機能は異なります。
 
-<table> 
- <tbody> 
-  <tr> 
-   <th style="width:50%">ダイアログ</th> 
+<table>
+ <tbody>
+  <tr>
+   <th style="width:50%">ダイアログ</th>
    <th style="width:50%">対話型フロー</th>
-  </tr> 
-  <tr> 
-   <td>ダイアログにはターゲットが設定されます。実装したパラメーターに基づいて、特定のページとオーディエンスに向けた対話をデザインします。</td> 
+  </tr>
+  <tr>
+   <td>ダイアログにはターゲットが設定されます。実装したパラメーターに基づいて、特定のページとオーディエンスに向けた対話をデザインします。</td>
    <td>対話型フローはトリガーされます。フォームへの入力、リンクのクリックなど、訪問者のアクションに基づいて、トリガーできる対話をデザインします。</td>
   </tr>
-   <tr> 
-   <td>チャットボットインターフェイスでのみサポートされます。</td> 
+   <tr>
+   <td>チャットボットインターフェイスでのみサポートされます。</td>
    <td>現在はポップアップインターフェイスでサポートされていますが、さらに多くのインターフェイスが予定されています。</td>
   </tr>
   </tr>
-   <tr> 
-   <td>リードの同じセグメントに対して優先順位を付けて複数のダイアログを作成できるので、各訪問者は引き続き関与しながら、優先度に従って順番にダイアログを表示できます。</td> 
+   <tr>
+   <td>リードの同じセグメントに対して優先順位を付けて複数のダイアログを作成できるので、各訪問者は引き続き関与しながら、優先度に従って順番にダイアログを表示できます。</td>
    <td>対話型フローには優先順位がなく、決定されたコールトゥアクションに基づいて、同じリードによって何度でもトリガーできます。</td>
   </tr>
   <tr>
    <td>チャットボットの対話は、ダイアログによって強化されます。</td>
    <td>Marketo Engage の<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">対話型フォーム</a>は、対話型フローによって強化されます。</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 「ストリームデザイナー」タブ {#stream-designer-tab}
@@ -82,7 +82,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->[対話 SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=ja){target="_blank"} の実際の動作をご覧ください。
+>[ 会話SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} の動作を参照してください。
 
 >[!MORELIKETHIS]
 >

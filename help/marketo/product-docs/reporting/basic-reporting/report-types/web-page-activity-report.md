@@ -4,7 +4,7 @@ description: Web ページアクティビティレポート - Marketo ドキュ�
 title: Web ページアクティビティレポート
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 94%
@@ -32,52 +32,52 @@ ht-degree: 94%
 
    >[!NOTE]
    >
-   >データが [!UICONTROL web ページアクティビティ &#x200B;] レポートに反映されるまで、最大 24 時間かかる場合があります。
+   >データが [!UICONTROL web ページアクティビティ ] レポートに反映されるまで、最大 24 時間かかる場合があります。
 
    >[!TIP]
    >
    >サイトを最も多く訪問したリードを見つけるには、レポートを&#x200B;_ページビュー数_&#x200B;列で[並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}て、「降順に並べ替え」を選択します。
 
-   [Marketo は web サイトへの匿名訪問者を](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}データベースに追加するので、このレポートに表示するよう選択できます。匿名でも豊富な情報が提供されます。\
+   [Marketo は web サイトへの匿名訪問者を](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}データベースに追加するので、このレポートに表示するよう選択できます。匿名でも豊富な情報が提供されます。
    Web ページアクティビティレポートで[選択できる列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}は次のとおりです。
 
-<table> 
- <thead> 
-  <tr> 
-   <th>列</th> 
-   <th>説明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>顧客</td> 
+<table>
+ <thead>
+  <tr>
+   <th>列</th>
+   <th>説明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>顧客</td>
    <td>訪問者の名前、役職および会社。<br><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md" target="_blank">クリック</a></strong>すると、訪問されたページが表示されます。</td>
-  </tr> 
-  <tr> 
-   <td>初回／最終訪問（タイムゾーン）</td> 
-   <td>この会社からの誰かによる最初／最後の訪問の日時。</td> 
-  </tr> 
-  <tr> 
-   <td>ページ表示</td> 
+  </tr>
+  <tr>
+   <td>初回／最終訪問（タイムゾーン）</td>
+   <td>この会社からの誰かによる最初／最後の訪問の日時。</td>
+  </tr>
+  <tr>
+   <td>ページ表示</td>
    <td>この訪問者が読み込んだページの数。</td>
-  </tr> 
-  <tr> 
-   <td>HTTP 照会元</td> 
-   <td>訪問者がページにたどったリンクを含むページの URL。</td> 
-  </tr> 
-  <tr> 
-   <td>エントリページ</td> 
-   <td>訪問者が訪問した最初のページ </td> 
-  </tr> 
-  <tr> 
-   <td>推測される企業あるいは ISP</td> 
-   <td>訪問者の IP アドレスから推測される会社。<strong>太字で表示された名前</strong>は、これが ISP ではなく会社であることを示します。 </td> 
-  </tr> 
-  <tr> 
-   <td>推測される国、都道府県／地域、市区町村</td> 
-   <td>訪問者の IP アドレスから推測される、訪問者の地理的な位置。</td> 
-  </tr> 
- </tbody> 
+  </tr>
+  <tr>
+   <td>HTTP 照会元</td>
+   <td>訪問者がページにたどったリンクを含むページの URL。</td>
+  </tr>
+  <tr>
+   <td>エントリページ</td>
+   <td>訪問者が訪問した最初のページ </td>
+  </tr>
+  <tr>
+   <td>推測される企業あるいは ISP</td>
+   <td>訪問者の IP アドレスから推測される会社。<strong>太字で表示された名前</strong>は、これが ISP ではなく会社であることを示します。 </td>
+  </tr>
+  <tr>
+   <td>推測される国、都道府県／地域、市区町村</td>
+   <td>訪問者の IP アドレスから推測される、訪問者の地理的な位置。</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

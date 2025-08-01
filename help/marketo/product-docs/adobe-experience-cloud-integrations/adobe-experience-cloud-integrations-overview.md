@@ -3,7 +3,7 @@ description: Adobe Experience Cloud 統合の概要 - Marketo ドキュメント
 title: Adobe Experience Cloud 統合の概要
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 100%

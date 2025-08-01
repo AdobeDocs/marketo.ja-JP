@@ -3,8 +3,8 @@ unique-page-id: 17727823
 description: リリースノート - 19 年冬 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 19 年冬
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 100%
 

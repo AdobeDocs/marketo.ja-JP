@@ -4,10 +4,10 @@ description: Salesforce Lightning での一括アクションの使用 - Marketo
 title: Salesforce Lightning での一括アクションの使用
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 57%
+ht-degree: 46%
 
 ---
 
@@ -39,10 +39,10 @@ ht-degree: 57%
 
 1. MSC メールがポップアップ表示されます。次の機能が含まれます。
 
-   a. 「[!UICONTROL &#x200B; 宛先 &#x200B;]」フィールドに「すべての入金」と表示されます。これは、「リード・リスト表示」で選択したリードのリストに対応します\
-   b. このリストは左側の一括作成パネルに表示されます。受信者はここで追加または削除できます。\
-   c. テンプレートを選択するか、独自のメールを作成できます。\
-   d. メールをすぐに送信したり、後で送信するようにスケジュールを設定したりできます。
+   a. 「[!UICONTROL  宛先 ]」フィールドに「すべての入金」と表示されます。これは、「リード・リスト表示」で選択したリードのリストに対応します
+b.このリストは、「一括作成」と呼ばれる左側のパネルに表示されます。ここで受信者を追加または削除できます
+c. テンプレートを選択するか、独自のメールを作成できます
+d. メールをすぐに送信することも、後で送信するようにスケジュールすることもできます
 
    ![](assets/three-5.png)
 
@@ -56,7 +56,7 @@ ht-degree: 57%
 
    ![](assets/five-4.png)
 
-1. 「[!UICONTROL &#x200B; キャンペーンにユーザーを追加 &#x200B;]」ポップアップが表示されます。 「**[!UICONTROL 次へ]**」をクリックし、通常のキャンペーンフローを実行して、MSC キャンペーンをトリガーします。
+1. 「[!UICONTROL  キャンペーンにユーザーを追加 ]」ポップアップが表示されます。 「**[!UICONTROL 次へ]**」をクリックし、通常のキャンペーンフローを実行して、MSC キャンペーンをトリガーします。
 
    ![](assets/six-1.png)
 
@@ -70,7 +70,7 @@ ht-degree: 57%
 
    ![](assets/eight-2.png)
 
-1. 「[!DNL Salesforce] Bridge」という新しいタブが開きます。 **[!UICONTROL グループに進む &#x200B;]→** ボタンをクリックします。
+1. 「[!DNL Salesforce] Bridge」という新しいタブが開きます。 **[!UICONTROL グループに進む ]→** ボタンをクリックします。
 
    ![](assets/nine-2.png)
 

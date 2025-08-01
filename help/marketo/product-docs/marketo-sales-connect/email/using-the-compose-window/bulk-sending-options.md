@@ -4,7 +4,7 @@ description: 一括送信オプション - Marketo ドキュメント - 製品�
 title: 一括送信オプション
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 94%
@@ -17,41 +17,41 @@ ht-degree: 94%
 
 **グループメール vs. 選択して送信**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><p><span>送信の</span><span>タイプ</span> </p></th> 
-   <th><p><span>メールの</span><span></span><span>最大数</span> </p></th> 
-   <th><p><span>送信</span><span>開始者</span></p></th> 
-   <th><p><span>メールを</span><span>一括編集</span> </p></th> 
-   <th><p><span></span><span>各メールを一意に</span><span>編集</span> </p></th> 
-   <th><p><span>テンプレートおよび</span><span>動的フィールドのサポート</span> </p></th> 
-  </tr> 
-  <tr> 
-   <td><p><span>グループメール</span> </p></td> 
-   <td><p><span>1,000</span> </p></td> 
-   <td><p><span>グループを選択して</span><span>「グループアクション」</span><span>ボタンを</span><span>クリックするか、「宛先」フィールドにグループ名を入力します。</span> </p></td> 
-   <td><p><span>はい</span> </p></td> 
-   <td><p><span>いいえ</span> </p></td> 
-   <td><p><span>はい</span> </p></td> 
-  </tr> 
-  <tr> 
-   <td><p><span>選択</span><span>して</span><span>送信</span> </p></td> 
-   <td><p><span>200</span> </p></td> 
-   <td><p><span>グリッド内のユーザーを選択し、アクションバーの「選択したメール」ボタンをクリックする</span><span>か、一括メールサイドバーに</span><span>受信者を</span><span></span><span>入力します。</span></p></td> 
-   <td><p><span>はい</span> </p></td> 
-   <td><p><span>はい</span> </p></td> 
-   <td><p><span>はい</span> </p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><p><span>送信の</span><span>タイプ</span> </p></th>
+   <th><p><span>メールの</span><span></span><span>最大数</span> </p></th>
+   <th><p><span>送信</span><span>開始者</span></p></th>
+   <th><p><span>メールを</span><span>一括編集</span> </p></th>
+   <th><p><span></span><span>各メールを一意に</span><span>編集</span> </p></th>
+   <th><p><span>テンプレートおよび</span><span>動的フィールドのサポート</span> </p></th>
+  </tr>
+  <tr>
+   <td><p><span>グループメール</span> </p></td>
+   <td><p><span>1,000</span> </p></td>
+   <td><p><span>グループを選択して</span><span>「グループアクション」</span><span>ボタンを</span><span>クリックするか、「宛先」フィールドにグループ名を入力します。</span> </p></td>
+   <td><p><span>はい</span> </p></td>
+   <td><p><span>いいえ</span> </p></td>
+   <td><p><span>はい</span> </p></td>
+  </tr>
+  <tr>
+   <td><p><span>選択</span><span>して</span><span>送信</span> </p></td>
+   <td><p><span>200</span> </p></td>
+   <td><p><span>グリッド内のユーザーを選択し、アクションバーの「選択したメール」ボタンをクリックする</span><span>か、一括メールサイドバーに</span><span>受信者を</span><span></span><span>入力します。</span></p></td>
+   <td><p><span>はい</span> </p></td>
+   <td><p><span>はい</span> </p></td>
+   <td><p><span>はい</span> </p></td>
+  </tr>
+ </tbody>
 </table>
 
 **グループメールの使用**

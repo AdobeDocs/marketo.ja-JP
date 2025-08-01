@@ -4,10 +4,10 @@ description: ランディングページのリダイレクト - Marketo ドキ�
 title: ランディングページのリダイレクト
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 100%
+source-wordcount: '142'
+ht-degree: 96%
 
 ---
 
@@ -62,4 +62,4 @@ ht-degree: 100%
 
 <br> 
 
-[◄ミッション 9：リードデータの更新](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[◄ ミッション 9：リードデータの更新](/help/marketo/getting-started/quick-wins/update-person-data.md)

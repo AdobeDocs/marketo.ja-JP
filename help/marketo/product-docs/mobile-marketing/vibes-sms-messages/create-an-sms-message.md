@@ -3,7 +3,7 @@ description: SMS メッセージの作成 – Marketo ドキュメント – 製
 title: SMS メッセージの作成
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 16%
@@ -16,7 +16,7 @@ SMS メッセージの作成方法は次のとおりです。
 
 >[!AVAILABILITY]
 >
->この機能は、Adobe Marketo Engage アカウントのアドオンとして使用できます。適切にプロビジョニングするには、Adobeで購入する必要があります。 詳しくは、Adobeアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。 Marketo Vibes SMS のネイティブ統合は、米国とカナダで利用できます。 他の国では、Marketoの Webhook を介した接続は、[Vibes に直接連絡 ](https://www.vibes.com/talk-to-sales) することで利用できます。
+>この機能は、Adobe Marketo Engage アカウントのアドオンとして使用できます。適切にプロビジョニングするには、Adobe経由で購入する必要があります。 詳しくは、Adobe アカウントチーム（担当のアカウントマネージャー）にお問い合わせください。 Marketo Vibes SMS のネイティブ統合は、米国とカナダで利用できます。 他の国では、Marketoの Webhook を介した接続は、[Vibes に直接連絡 ](https://www.vibes.com/talk-to-sales) することで利用できます。
 
 >[!PREREQUISITES]
 >
@@ -72,7 +72,7 @@ SMS メッセージの作成方法は次のとおりです。
 
    >[!NOTE]
    >
-   >デフォルトでは、2 つのトラッキングリンクが選択されています。 「mkt_tok を含める」のチェックを外しても、リンクの追跡は可能ですが、リダイレクト後、宛先 URL には mkt_tok クエリ文字列パラメーターは含まれません。 このパラメーターは、ユーザーアクティビティ（ユーザーがオプトアウトした場合など）を適切にトラッキングするために、Marketo ランディングページと Munchkin で使用されます。
+   >デフォルトでは、2 つのトラッキングリンクが選択されています。 「mkt_tok を含める」のチェックを外しても、リンクの追跡は可能ですが、リダイレクト後、宛先 URL には mkt_tok クエリ文字列パラメーターは含まれません。 このパラメーターは、Marketo ランディングページおよびMunchkinで使用され、人物アクティビティ（ユーザーがオプトアウトした場合など）が適切にトラッキングされるようにします。
 
 1. 外部 URL を使用する場合は、「**外部 URL**」を選択し、URL を入力/貼り付けて、「**挿入**」をクリックします。
 

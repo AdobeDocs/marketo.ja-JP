@@ -4,7 +4,7 @@ description: 割り当てルールを使用した人物パーティションの�
 title: 割り当てルールを使用した人物パーティションの割り当て
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 100%

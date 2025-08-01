@@ -1,18 +1,18 @@
 ---
 description: 製品使用状況ダッシュボード - Marketo ドキュメント – 製品ドキュメント
-title: 製品使用ダッシュボード
+title: 製品使用状況ダッシュボード
 hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 8a4f0015f99e62127f8b690263fb07de6a0a6e6f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '610'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# 製品使用ダッシュボード {#product-usage-dashboards}
+# 製品使用状況ダッシュボード {#product-usage-dashboards}
 
 Marketo Engage製品使用状況ダッシュボードを使用すると、特定の制限やバックログに対する製品およびプラットフォームの使用状況、毎日の割り当てに対する使用状況、サブスクリプションの主要指標を表示できます。 インフラストラクチャは、特定の属性の製品レベルに対して定義されたパフォーマンス制限を提供するために割り当てられます。 これらの制限の一部（API の使用状況など）は、パッケージまたは製品層の一部として購入した契約上の制限です。
 

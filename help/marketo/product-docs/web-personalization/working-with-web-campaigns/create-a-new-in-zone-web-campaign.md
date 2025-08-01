@@ -4,7 +4,7 @@ description: 新しいゾーン内 Web キャンペーンを作成する — Mar
 title: 新しいゾーン内 Web キャンペーンを作成する
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '693'
 ht-degree: 92%
@@ -21,7 +21,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. **[!UICONTROL 新しい Web キャンペーンの作成 &#x200B;].** を選択します。
+1. **[!UICONTROL 新しい Web キャンペーンの作成 ].** を選択します。
 
    ![](assets/create-new-web-campaign-hand.png)
 
@@ -33,49 +33,49 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
    >
    >**ゾーン ID とは**
    >
-   >ゾーン ID は、「[!UICONTROL &#x200B; インゾーン &#x200B;]」 Web キャンペーンをオンサイトに配置する場所です。 「[!UICONTROL &#x200B; ゾーン ID]」を見つけるには、web サイトに移動して、web キャンペーンと置き換えたい領域を選択し、右クリックします。 Chrome の場合、「要素の検証」を使いますが、他のブラウザーでは異なる場合があります。
+   >ゾーン ID は、「[!UICONTROL  インゾーン ]」 Web キャンペーンをオンサイトに配置する場所です。 「[!UICONTROL  ゾーン ID]」を見つけるには、web サイトに移動して、web キャンペーンと置き換えたい領域を選択し、右クリックします。 Chrome の場合、「要素の検証」を使いますが、他のブラウザーでは異なる場合があります。
    >
    >次に、ウェブサイトで該当するセクションの「id」を探します。検証中の要素なので、ハイライトされます。たとえば、Chrome で右クリックして、ハイライトされたテキストが `<div id="featured-slider">` であれば、ゾーン ID セクションで入力するのは「featured-slider」です。通常、「div id」が使用されますが、「h1 id」、「p id」などの任意の ID が使用されることもあります。
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong> ゾーン ID </strong></td> 
-   <td colspan="1" rowspan="1"><p>キャンペーンで置き換えたい ウェブサイト要素の HTML コードで見つかった id の名前を入力します。</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> 固定 </strong></p></td> 
-   <td colspan="1" rowspan="1">ゾーン内キャンペーンでは、「固定」チェックボックスがデフォルトで選択されており、ゾーン内キャンペーンは、ウェブサイトでの訪問者のセッション中ずっとゾーン ID の位置に固定されます。ゾーン内の設定は常に「固定」にしておくことをお勧めします。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> フェーディング</strong> </p></td> 
-   <td colspan="1" rowspan="1">「効果の使用」チェックボックスと「フェード」を選択すると、ウェブサイトでゾーン ID のエリアにフェード効果が設定されます。ゾーン内がグラフィックバナーの場合は、ページがまず読み込まれてから、フェード効果付きでキャンペーンがアクティブになります。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>スライディング</strong></td> 
-   <td colspan="1">「効果の使用」チェックボックスと「スライド」オプションを選択すると、ウェブサイトでゾーン ID のエリアにスライド効果が設定されます。ゾーン内がグラフィックバナーの場合は、ページがまず読み込まれてから、左から右へのスライド効果付きでキャンペーンがアクティブになります。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> リッチテキストエディター  </strong></td> 
-   <td colspan="1">リッチテキストエディターを使うと、テキストの書式設定、リンク指定、画像の挿入が可能です。詳細は<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">こちら</a>をご覧ください。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> オンサイトのプレビュー   </strong></td> 
-   <td colspan="1">公開する前にキャンペーンをプレビューします。<br> 
-    <ul> 
-     <li> URL - キャンペーンを実行するサンプルの URL を入力し、キャンペーンがどのように見えるか、サンプルをプレビューします。</li> 
-     <li>デバイス - デスクトップ、モバイル（縦置き）、モバイル（横置き）、タブレット（縦置き）、タブレット（横置き）の各デバイスでキャンペーンがどのように表示されるかをプレビューします。</li> 
-     <li> プレビュー -「<strong>プレビュー</strong>」をクリックすると、サンプル URL の新しいウィンドウが開き、キャンペーンの応答を確認できます。</li> 
-     <li> 共有 -「共有」ボタンを使用すると、プロキシキャンペーンを表示するリンクが記載されたメールを同僚に送信できます。</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">名前</th>
+   <th colspan="1" rowspan="1">説明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong> ゾーン ID </strong></td>
+   <td colspan="1" rowspan="1"><p>キャンペーンで置き換えたい ウェブサイト要素の HTML コードで見つかった id の名前を入力します。</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> 固定 </strong></p></td>
+   <td colspan="1" rowspan="1">ゾーン内キャンペーンでは、「固定」チェックボックスがデフォルトで選択されており、ゾーン内キャンペーンは、ウェブサイトでの訪問者のセッション中ずっとゾーン ID の位置に固定されます。ゾーン内の設定は常に「固定」にしておくことをお勧めします。</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> フェーディング</strong> </p></td>
+   <td colspan="1" rowspan="1">「効果の使用」チェックボックスと「フェード」を選択すると、ウェブサイトでゾーン ID のエリアにフェード効果が設定されます。ゾーン内がグラフィックバナーの場合は、ページがまず読み込まれてから、フェード効果付きでキャンペーンがアクティブになります。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>スライディング</strong></td>
+   <td colspan="1">「効果の使用」チェックボックスと「スライド」オプションを選択すると、ウェブサイトでゾーン ID のエリアにスライド効果が設定されます。ゾーン内がグラフィックバナーの場合は、ページがまず読み込まれてから、左から右へのスライド効果付きでキャンペーンがアクティブになります。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> リッチテキストエディター  </strong></td>
+   <td colspan="1">リッチテキストエディターを使うと、テキストの書式設定、リンク指定、画像の挿入が可能です。詳細は<a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">こちら</a>をご覧ください。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> オンサイトのプレビュー   </strong></td>
+   <td colspan="1">公開する前にキャンペーンをプレビューします。<br>
+    <ul>
+     <li> URL - キャンペーンを実行するサンプルの URL を入力し、キャンペーンがどのように見えるか、サンプルをプレビューします。</li>
+     <li>デバイス - デスクトップ、モバイル（縦置き）、モバイル（横置き）、タブレット（縦置き）、タブレット（横置き）の各デバイスでキャンペーンがどのように表示されるかをプレビューします。</li>
+     <li> プレビュー -「<strong>プレビュー</strong>」をクリックすると、サンプル URL の新しいウィンドウが開き、キャンペーンの応答を確認できます。</li>
+     <li> 共有 -「共有」ボタンを使用すると、プロキシキャンペーンを表示するリンクが記載されたメールを同僚に送信できます。</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

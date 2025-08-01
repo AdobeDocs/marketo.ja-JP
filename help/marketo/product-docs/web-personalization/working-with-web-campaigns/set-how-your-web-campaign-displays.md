@@ -4,7 +4,7 @@ description: Web キャンペーンの表示方法の設定 - Marketo ドキュ�
 title: Web キャンペーンの表示方法の設定
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 91%
@@ -43,21 +43,21 @@ Web キャンペーンがいつ、どのように表示されるかに関して�
 
    ![](assets/s2.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL 下の折り目 &#x200B;]</strong></td> 
-   <td>訪問者がスクロールしなければ見えない画面領域にまでスクロールすると、キャンペーンが表示されます。訪問者がスクロールしないで閲覧する事のできる画面領域に戻ると、キャンペーンは非表示になります。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL パーセント &#x200B;]</strong></td> 
-   <td>訪問者がページの事前に決定された割合にスクロールした場合に、キャンペーンが表示されます。</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL ピクセル &#x200B;]</strong></td> 
-   <td><p>訪問者がページの事前に指定された最上位ピクセルにスクロールすると、キャンペーンが表示されます。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL 下の折り目 ]</strong></td>
+   <td>訪問者がスクロールしなければ見えない画面領域にまでスクロールすると、キャンペーンが表示されます。訪問者がスクロールしないで閲覧する事のできる画面領域に戻ると、キャンペーンは非表示になります。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL パーセント ]</strong></td>
+   <td>訪問者がページの事前に決定された割合にスクロールした場合に、キャンペーンが表示されます。</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL ピクセル ]</strong></td>
+   <td><p>訪問者がページの事前に指定された最上位ピクセルにスクロールすると、キャンペーンが表示されます。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## エグジットインテント {#exit-intent}
@@ -68,7 +68,7 @@ Web キャンペーンがいつ、どのように表示されるかに関して�
 
    ![](assets/ei1.png)
 
-1. [!UICONTROL &#x200B; 終了インテント &#x200B;] はモバイルと互換性がないことを示すメッセージが表示されます。
+1. [!UICONTROL  終了インテント ] はモバイルと互換性がないことを示すメッセージが表示されます。
 
    ![](assets/ei2.png)
 

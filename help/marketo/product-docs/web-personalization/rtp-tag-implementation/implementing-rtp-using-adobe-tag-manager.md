@@ -4,7 +4,7 @@ description: Adobe Tag Manager を使用した RTP の実装 - Marketo ドキュ
 title: Adobe Tag Manager を使用した RTP の実装
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 79%
@@ -23,13 +23,13 @@ RTP タグを実装するには、次のインストール手順に従います�
 
    ![](assets/image2014-11-30-15-3a19-3a21-4.png)
 
-1. [!UICONTROL &#x200B; ドメイン &#x200B;] の下で関連するドメインを見つけて、「**[!UICONTROL タグを生成]**」をクリックします。
+1. [!UICONTROL  ドメイン ] の下で関連するドメインを見つけて、「**[!UICONTROL タグを生成]**」をクリックします。
 
    ![](assets/image2014-11-30-15-3a20-3a17-4.png)
 
 1. [!DNL Dynamic Tag Manager] アカウント （[https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)）にログインします。
 
-1. **[!UICONTROL ダッシュボード &#x200B;] に移動します。**&#x200B;関連する web プロパティをクリックします。
+1. **[!UICONTROL ダッシュボード ] に移動します。**&#x200B;関連する web プロパティをクリックします。
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 
@@ -37,15 +37,15 @@ RTP タグを実装するには、次のインストール手順に従います�
 
 1. 次の情報を入力します。
 
-   1. [!UICONTROL &#x200B; 名前 &#x200B;]: **Marketo RTP**
-   1. [!UICONTROL &#x200B; 条件 &#x200B;] （折りたたみ） :トリガールール **[!UICONTROL 場所 – ページの上部]**
+   1. [!UICONTROL  名前 ]: **Marketo RTP**
+   1. [!UICONTROL  条件 ] （折りたたみ） :トリガールール **[!UICONTROL 場所 – ページの上部]**
    1. [!UICONTROL JavaScript] （折りたたみ）:「**[!UICONTROL 新規スクリプトを追加]**」をクリックします
 
    ![](assets/image2014-12-3-17-3a59-3a40.png)
 
 1. 新しいタグを **MarketoRTP タグ**&#x200B;と呼びます
 
-1. [!UICONTROL RTP タグ &#x200B;] から次のコードを削除します。
+1. [!UICONTROL RTP タグ ] から次のコードを削除します。
 
    * `<script type='text/javascript'>`
    * `</script>`

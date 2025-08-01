@@ -2,7 +2,7 @@
 description: セールスアクティビティ属性の Salesforce へのログ - Marketo ドキュメント - 製品ドキュメント
 title: セールスアクティビティ属性の Salesforce へのログ
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 62%
@@ -40,14 +40,14 @@ Salesforce管理者は、カスタムアクティビティフィールドを [!D
   <th>サイズ</th>
  </tr>
   <tr>
-  <td>[!UICONTROL 呼び出しの結果 &#x200B;]</td>
+  <td>[!UICONTROL 呼び出しの結果 ]</td>
   <td>mktosales_call_outcome</td>
   <td>mktosales_call_outcome__c</td>
   <td>テキスト</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 呼び出しの理由 &#x200B;]</td>
+  <td>[!UICONTROL 呼び出しの理由 ]</td>
   <td>mktosales_call_reason</td>
   <td>mktosales_call_reason__c</td>
   <td>テキスト</td>
@@ -68,14 +68,14 @@ Salesforce管理者は、カスタムアクティビティフィールドを [!D
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketoセールス・キャンペーン &#x200B;]</td>
+  <td>[!UICONTROL Marketoセールス・キャンペーン ]</td>
   <td>MSE_Campaign</td>
   <td>MSE_Campaign__c</td>
   <td>テキスト</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo Sales Campaign の現在の手順 &#x200B;]</td>
+  <td>[!UICONTROL Marketo Sales Campaign の現在の手順 ]</td>
   <td>MSE_Current_Campaign_Step</td>
   <td>MSE_Current_Campaign_Step__c</td>
   <td>テキスト</td>
@@ -89,7 +89,7 @@ Salesforce管理者は、カスタムアクティビティフィールドを [!D
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業向けメール添付ファイルを表示 &#x200B;]</td>
+  <td>[!UICONTROL Marketo営業向けメール添付ファイルを表示 ]</td>
   <td>MSE_Presentation_Viewed</td>
   <td>MSE_Presentation_Viewed__c</td>
   <td>チェックボックス</td>
@@ -103,21 +103,21 @@ Salesforce管理者は、カスタムアクティビティフィールドを [!D
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業メール返信 &#x200B;]</td>
+  <td>[!UICONTROL Marketo営業メール返信 ]</td>
   <td>MSE_Replied</td>
   <td>MSE_Replied__c</td>
   <td>チェックボックス</td>
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業電子メールのステータス &#x200B;]</td>
+  <td>[!UICONTROL Marketo営業電子メールのステータス ]</td>
   <td>MSE_Email_Status</td>
   <td>MSE_Email_Status__c</td>
   <td>テキスト</td>
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業メールテンプレート &#x200B;]</td>
+  <td>[!UICONTROL Marketo営業メールテンプレート ]</td>
   <td>MSE_Template</td>
   <td>MSE_Template__c</td>
   <td>テキスト</td>
@@ -138,7 +138,7 @@ Salesforce管理者は、カスタムアクティビティフィールドを [!D
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketoの営業メールが表示されました &#x200B;]</td>
+  <td>[!UICONTROL Marketoの営業メールが表示されました ]</td>
   <td>MSE_Viewed</td>
   <td>MSE_Viewed__c</td>
   <td>チェックボックス</td>

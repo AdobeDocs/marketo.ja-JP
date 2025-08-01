@@ -2,7 +2,7 @@
 description: エンゲージメントマップの概要 – Marketo ドキュメント – 製品ドキュメント
 title: エンゲージメントマップの概要
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 22%
@@ -25,7 +25,7 @@ ht-degree: 22%
 
 ![](assets/engagement-map-overview-2.png)
 
-エンゲージメントマップに表示されたら、「エンゲージメントマップ [&#128279;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md) および [ 設定 ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"} の 2 つのタブが表示さ {target="_blank"} ます。
+エンゲージメントマップに表示されたら、「エンゲージメントマップ [ および ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} 設定 [ の 2 つのタブが表示さ ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"} ます。
 
 ![](assets/engagement-map-overview-3.png)
 
@@ -73,19 +73,19 @@ ht-degree: 22%
 
 **エンゲージメントマップですべてのキャンペーンを再構築する必要がありますか？**
 
-いいえ。エンゲージメントマップには、完全な後方互換性があります。 ボタンをクリックするだけで、既存の各キャンペーンを視覚的なエンゲージメントマップインターフェイスで確認できます。
+いいえ、できません。 エンゲージメントマップには、完全な後方互換性があります。 ボタンをクリックするだけで、既存の各キャンペーンを視覚的なエンゲージメントマップインターフェイスで確認できます。
 
-**エンゲージメントマップをMarketo Engageーに含めると、フォルダー構造にアクセスできなくなり、スマートキャンペーンの作成方法を再学習する必要がありますか？**
+**エンゲージメントマップがMarketo Engageにあるということは、フォルダー構造にアクセスできなくなるということですか？また、スマートキャンペーンの作成方法を学び直す必要がありますか？**
 
-いいえ。エンゲージメントマップの優れた点は、両方の長所を活かせるということです。現在のキャンペーンの作成方法と相補しているからです。 すべてのユーザーにMarketo Engageの強力な機能セットが提供され、クリアなビジュアルで補完されます。
+いいえ、できません。 エンゲージメントマップの優れた点は、両方の長所を活かせるということです。現在のキャンペーンの作成方法と相補しているからです。 すべてのユーザーは、Marketo Engageの強力な機能セットを引き続き利用でき、明確なビジュアルで補完されるようになりました。
 
 **Engagement Map は有料アドオンですか？**
 
-いいえ。すべてのサブスクリプションの既存および新規のMarketo Engageユーザーは、この補完的な機能にアクセスできます。
+いいえ、できません。 すべてのサブスクリプションの既存および新規のMarketo Engage ユーザーは、この補完的な機能にアクセスできます。
 
 **Marketo Engage管理者は、Engagement Map のオン/オフを切り替える責任がありますか？**
 
-いいえ。エンゲージメントマップは、該当するインスタンスのすべてのユーザーが使用できます。 特定のユーザーやワークスペースなどに対してオン/オフを切り替えることはできません。
+いいえ、できません。 エンゲージメントマップは、該当するインスタンスのすべてのユーザーが使用できます。 特定のユーザーやワークスペースなどに対してオン/オフを切り替えることはできません。
 
 **他のビジュアルビルダーとの違いは**
 
@@ -95,7 +95,7 @@ ht-degree: 22%
 
 * 機能：すべてのビジュアルが標準で用意されているので、使いやすくなっています。ネストされた構造により、詳細に検討して全体像を把握できます。
 
-* パワー：Marketo Engageの既存の高度な機能をすべて視覚的なフォーマットで維持できます。
+* パワー：Marketo Engageの既存の高度な機能をすべて視覚的な形式で維持できます。
 
 >[!MORELIKETHIS]
 >

@@ -4,7 +4,7 @@ description: トークンの概要 - Marketo ドキュメント - 製品ドキ�
 title: トークンの概要
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 93%
@@ -157,9 +157,9 @@ ht-degree: 93%
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## [!UICONTROL &#x200B; マイトークン &#x200B;] {#my-tokens}
+## [!UICONTROL  マイトークン ] {#my-tokens}
 
-[!UICONTROL &#x200B; マイトークン &#x200B;] は、プログラム内で定義され、`{{my.` で始まり、その後にトークン用に作成した名前が続きます。 [プログラム内のマイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)を参照してください。
+[!UICONTROL  マイトークン ] は、プログラム内で定義され、`{{my.` で始まり、その後にトークン用に作成した名前が続きます。 [プログラム内のマイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)を参照してください。
 
 ## メンバートークン {#member-token}
 

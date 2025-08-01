@@ -4,7 +4,7 @@ description: コンテンツ分析について - Marketo ドキュメント - �
 title: コンテンツ分析について
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 88%
@@ -35,39 +35,39 @@ ht-degree: 88%
 
 分析テーブルには、次の詳細が表示されます。
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">名前</th> 
-   <th colspan="1" rowspan="1">説明</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL タイトル &#x200B;]</strong></td> 
-   <td colspan="1" rowspan="1">デジタルコンテンツアセットの名前。「<strong>タイトル</strong>」をクリックすると、コンテンツ URL が新しいタブで開きます。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>レコメンデーション</strong><strong>アイコン</strong></p><p><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">コンテンツが<a href="#">コンテンツレコメンデーション</a>に追加されたかどうかを示します。</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL ビュー &#x200B;]</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>コンテンツアセットに対する web 訪問者からの表示数。表示、開封、視聴またはダウンロードされた回数。「表示」列の数をクリックしてドリルダウンし、コンテンツの閲覧者を確認します</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td> 
-   <td colspan="1" rowspan="1">同じ訪問でコンテンツを表示し、フォームに入力した web 訪問者</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>分析アイコン</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">コンテンツの分析の詳細を見ます</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p><strong>削除アイコン</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">コンテンツ分析からコンテンツを削除</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">名前</th>
+   <th colspan="1" rowspan="1">説明</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL タイトル ]</strong></td>
+   <td colspan="1" rowspan="1">デジタルコンテンツアセットの名前。「<strong>タイトル</strong>」をクリックすると、コンテンツ URL が新しいタブで開きます。</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>レコメンデーション</strong><strong>アイコン</strong></p><p><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1">コンテンツが<a href="#">コンテンツレコメンデーション</a>に追加されたかどうかを示します。</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL ビュー ]</strong></p></td>
+   <td colspan="1" rowspan="1"><p>コンテンツアセットに対する web 訪問者からの表示数。表示、開封、視聴またはダウンロードされた回数。「表示」列の数をクリックしてドリルダウンし、コンテンツの閲覧者を確認します</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td>
+   <td colspan="1" rowspan="1">同じ訪問でコンテンツを表示し、フォームに入力した web 訪問者</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>分析アイコン</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1">コンテンツの分析の詳細を見ます</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p><strong>削除アイコン</strong></p><p><img alt="--" src="assets/image2015-12-7-10-3a36-3a52.png" data-linked-resource-id="10096391" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1">コンテンツ分析からコンテンツを削除</td>
+  </tr>
+ </tbody>
 </table>
 
 ## 追加のコンテンツ分析を表示 {#view-additional-content-analytics}
@@ -86,7 +86,7 @@ ht-degree: 88%
 
 * **[!UICONTROL ビュー]**：選択した時間範囲のコンテンツの表示数
 * **[!UICONTROL ダイレクトコンバージョン]**：同じ訪問でコンテンツを表示し、フォームに入力した web 訪問者数
-* **[!UICONTROL コンバージョン率 &#x200B;]**&#x200B;**:** ダイレクトコンバージョンで計算されたコンバージョン率をクリック数で割った値
+* **[!UICONTROL コンバージョン率 ]****:** ダイレクトコンバージョンで計算されたコンバージョン率をクリック数で割った値
 
 **[!UICONTROL トレンド]**
 

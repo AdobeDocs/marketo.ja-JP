@@ -2,8 +2,8 @@
 description: リリースノート - 2021 年 8 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2021 年 8 月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 100%
 

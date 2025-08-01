@@ -3,10 +3,10 @@ description: Adobe Identity Management の概要 - Marketo ドキュメント - 
 title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 8d4a542687119e7e4044b26eeafcc71315609f19
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '445'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -20,12 +20,12 @@ ht-degree: 100%
 
 Adobe ID にオンボードされたサブスクリプションの場合、Adobe Admin Console がユーザ管理に使用されます。シングルサインオンなどの ID 関連の概念も、Admin Console で管理されます。
 
-* 詳しくは、[Adobe Admin Console](https://helpx.adobe.com/jp/enterprise/using/admin-console.html){target="_blank"} を参照してください。
-* 詳しくは、[Marketo サブスクリプションに関連するアドビ組織の設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}を参照してください。
+* [Adobe Admin Console](https://helpx.adobe.com/jp/enterprise/using/admin-console.html){target="_blank"} の詳細情報を検索します。
+* 詳しくは [Marketo サブスクリプションに関連するAdobe組織の設定 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} を参照してください。
 
 >[!NOTE]
 >
->シングルサインオンを実装し、アドビ組織に SSO を実装されていない状態でサブスクリプションが Adobe ID にオンボードされている場合は、[Marketo サポート](https://nation.marketo.com/){target="_blank"}にチケットを送信し、「Admin Console での Marketo、SSO の実装」というトピックを指定します。
+>シングルサインオンの実装を希望しており、アドビ組織に SSO が実装されていない状態でサブスクリプションが Adobe ID に既にオンボードされている場合は、[Marketo サポート](https://nation.marketo.com/){target="_blank"}にチケットを送信し、「Admin Console での Marketo、SSO の実装」というトピックを指定してください。
 
 ## プロファイルレベル {#profile-levels}
 

@@ -4,7 +4,7 @@ description: RTP を Google ユニバーサルアナリティクスに連携す�
 title: RTP を Google ユニバーサルアナリティクスに連携する
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 68%
@@ -40,46 +40,45 @@ RTP のデータを [!DNL Google Universal Analytics] 用すると、B2B ユー�
 1. Google Analytics で、以下の手順を実行します。
 
    1. 「**[!UICONTROL 管理]**」に移動します
-   1. **[!UICONTROL アカウント &#x200B;].** を選択します
-   1. **[!UICONTROL プロパティ &#x200B;].** を選択します。
+   1. **[!UICONTROL アカウント ].** を選択します
+   1. **[!UICONTROL プロパティ ].** を選択します。
    1. 「**[!UICONTROL カスタム定義]**」の「**[!UICONTROL カスタムディメンション]**」を選択します。
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 新しいカスタムディメンションを追加します。「**[!UICONTROL +新規カスタムフィールド]**」をクリックします
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. 次の **[!UICONTROL カスタムディメンション &#x200B;] を追加します。**
+1. 次の **[!UICONTROL カスタムディメンション ] を追加します。**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>カスタムディメンション名</strong></p></td> 
-   <td><p><strong>範囲</strong></p></td> 
-   <td><p><strong>アクティブ</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Organization</strong></p></td> 
-   <td><p>セッション</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Industry</strong></p></td> 
-   <td><p>セッション</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Category</strong></p></td> 
-   <td><p>セッション</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong>RTP-Group</strong></p></td> 
-   <td><p>セッション</p></td> 
-   <td><p align="center">✓</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>カスタムディメンション名</strong></p></td>
+   <td><p><strong>範囲</strong></p></td>
+   <td><p><strong>アクティブ</strong></p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Organization</strong></p></td>
+   <td><p>セッション</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Industry</strong></p></td>
+   <td><p>セッション</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Category</strong></p></td>
+   <td><p>セッション</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+  <tr>
+   <td><p><strong>RTP-Group</strong></p></td>
+   <td><p>セッション</p></td>
+   <td><p align="center">✓</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -98,7 +97,7 @@ GUA でカスタムディメンションをアクティブにしたら、RTP プ
 
 ## RTP アカウントで、GUA 連携を有効にする {#activate-the-gua-integration-in-your-rtp-account}
 
-1. RTP プラットフォームで、**[!UICONTROL アカウント設定 &#x200B;].** に移動します。
+1. RTP プラットフォームで、**[!UICONTROL アカウント設定 ].** に移動します。
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
@@ -118,8 +117,8 @@ GUA でカスタムディメンションをアクティブにしたら、RTP プ
 
 ## Google Analytics で古いダッシュボードを削除する {#remove-old-dashboards-in-google-analytics}
 
-1. Google Analytics で、以下の手順を実行します。**[!UICONTROL レポート &#x200B;].** に移動します。
-1. **[!UICONTROL ダッシュボード &#x200B;].** をクリックします。
+1. Google Analytics で、以下の手順を実行します。**[!UICONTROL レポート ].** に移動します。
+1. **[!UICONTROL ダッシュボード ].** をクリックします。
 1. **[!UICONTROL マイレポート]**&#x200B;を選択します（「RTP B2B」または「RTP Performance」）。
 1. 「**[!UICONTROL マイレポートを削除]**」をクリックします。
 

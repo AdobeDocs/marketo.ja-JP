@@ -3,7 +3,7 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: be29cfb700afad9f3298c8ccd4808780a88712a0
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '714'
 ht-degree: 93%
@@ -24,139 +24,139 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 次の機能は標準リリースサイクルに従っており、**2025年7月11日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
-<table style="table-layout:auto"> 
+<table style="table-layout:auto">
  <tbody>
- <tr> 
-   <th style="width:65%">機能</th> 
+ <tr>
+   <th style="width:65%">機能</th>
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
   </tr>
-  <tr> 
-   <td><strong> メールDesigner - カスタム CSS</strong>：メールをデザインする際に、独自のカスタム CSS をメールDesigner内に直接追加できるようになりました。</td> 
+  <tr>
+   <td><strong> メールDesigner - カスタム CSS</strong>：メールをデザインする際に、独自のカスタム CSS をメールDesigner内に直接追加できるようになりました。</td>
    <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">メールコンテンツへのカスタム CSS の追加</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong> メールDesigner - SpamAssassin を使用したスパムの検出 </strong>:Marketo Engageで SpamAssassin を使用すると、メールコンテンツをテストして、ISP/メールボックスプロバイダーがスパムとマークする可能性を確認できます。</td> 
+  <tr>
+   <td><strong> メールDesigner - SpamAssassin を使用したスパムの検出 </strong>:Marketo Engageで SpamAssassin を使用すると、メールコンテンツをテストして、ISP/メールボックスプロバイダーがスパムとマークする可能性を確認できます。</td>
    <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">メールコンテンツへのカスタム CSS の追加</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>メールデザイナー - アセットの移動とプログラム削除のサポート</strong>：プログラム間でメールアセットをすばやく再配置します。 また、新しいデザイナーのメールアセットを含むプログラムも削除できるようになりました。</td> 
+  <tr>
+   <td><strong>メールデザイナー - アセットの移動とプログラム削除のサポート</strong>：プログラム間でメールアセットをすばやく再配置します。 また、新しいデザイナーのメールアセットを含むプログラムも削除できるようになりました。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>メールデザイナー - Firefox サポート</strong>：メールデザイナーが Mozilla Firefox で完全にサポートされるようになりました。 最適なエクスペリエンスを得るには、ブラウザーを常に最新の状態に保ちます。</td> 
+  <tr>
+   <td><strong>メールデザイナー - Firefox サポート</strong>：メールデザイナーが Mozilla Firefox で完全にサポートされるようになりました。 最適なエクスペリエンスを得るには、ブラウザーを常に最新の状態に保ちます。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>メールデザイナー - プロパティページからコンテンツをシミュレート</strong>：編集画面に戻ることなく、<i>メールプロパティ</i>からメールアセットのコンテンツをシミュレートします。</td> 
+  <tr>
+   <td><strong>メールデザイナー - プロパティページからコンテンツをシミュレート</strong>：編集画面に戻ることなく、<i>メールプロパティ</i>からメールアセットのコンテンツをシミュレートします。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-   <tr> 
-   <td> </td> 
+   <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>メールデザイナー - アセットのロールベースのアクセス制御</strong>：5月のリリースでは、編集、承認および削除権限に対してロールベースのアクセス制御（RBAC）が実装されました。 このリリースで読み取り権限が使用できるようになりました。</td> 
+  <tr>
+   <td><strong>メールデザイナー - アセットのロールベースのアクセス制御</strong>：5月のリリースでは、編集、承認および削除権限に対してロールベースのアクセス制御（RBAC）が実装されました。 このリリースで読み取り権限が使用できるようになりました。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>メールデザイナー - 公開済みメールのメールプロパティを編集</strong>：メールの公開後も<i>メールプロパティ</i>で編集を行います。</td> 
+  <tr>
+   <td><strong>メールデザイナー - 公開済みメールのメールプロパティを編集</strong>：メールの公開後も<i>メールプロパティ</i>で編集を行います。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>メールデザイナー - ブランディングドメインとドメイン IP 設定を選択</strong>：すべてのメールアセットに対して「ブランディングドメイン」と「ドメイン IP 設定」を選択できるようになりました。</td> 
+  <tr>
+   <td><strong>メールデザイナー - ブランディングドメインとドメイン IP 設定を選択</strong>：すべてのメールアセットに対して「ブランディングドメイン」と「ドメイン IP 設定」を選択できるようになりました。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>メールデザイナー - GenStudio の統合</strong>：メール内からパフォーマンスマーケティングを行うために GenStudio を統合し、マーケティングの効率を向上させ、ブランドの一貫性を維持します。</td> 
+  <tr>
+   <td><strong>メールデザイナー - GenStudio の統合</strong>：メール内からパフォーマンスマーケティングを行うために GenStudio を統合し、マーケティングの効率を向上させ、ブランドの一貫性を維持します。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>REST API エラーコード通知の更新</strong>：アプリ内通知に REST API エラーの 2 つのクラス（606 - 最大レート制限超え、および 607 - 1 日の割り当て量に到達）が追加されました。</td> 
+  <tr>
+   <td><strong>REST API エラーコード通知の更新</strong>：アプリ内通知に REST API エラーの 2 つのクラス（606 - 最大レート制限超え、および 607 - 1 日の割り当て量に到達）が追加されました。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>フィールド管理でのプログラムメンバー標準フィールドの表示</strong>：<i>フィールド管理</i>の標準およびカスタムプログラムメンバーフィールドの両方が表示されるようになりました。</td> 
+  <tr>
+   <td><strong>フィールド管理でのプログラムメンバー標準フィールドの表示</strong>：<i>フィールド管理</i>の標準およびカスタムプログラムメンバーフィールドの両方が表示されるようになりました。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
-   <td><strong>フィールド管理の REST API 名</strong>：この更新により、管理者は、リストをエクスポートしなくても REST API フィールド名を確認できます。</td> 
+  <tr>
+   <td><strong>フィールド管理の REST API 名</strong>：この更新により、管理者は、リストをエクスポートしなくても REST API フィールド名を確認できます。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-  <tr> 
+  <tr>
    <td><strong>Munchkin Cookie および ECID が表示可能</strong>：<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page">担当者の詳細ページ</a>の _Info_ タブに、Munchkin Cookie と ECID （Experience Cloud ID）番号のリストが表示されるようになったため、その情報を取得するための API 呼び出しへの依存を減らすことができます。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 

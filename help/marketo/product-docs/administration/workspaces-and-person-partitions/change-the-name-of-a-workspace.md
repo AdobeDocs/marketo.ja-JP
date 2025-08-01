@@ -4,7 +4,7 @@ description: ワークスペースの名前を変更する - Marketo ドキュ�
 title: ワークスペースの名前を変更する
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%

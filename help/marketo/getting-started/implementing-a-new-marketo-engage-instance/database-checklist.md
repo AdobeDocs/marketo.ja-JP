@@ -1,9 +1,9 @@
 ---
-description: 新しいMarketo Engageインスタンスにデータベース セクションを設定します。
+description: 新しいMarketo Engage インスタンスにデータベース セクションを設定します。
 title: 新しいインスタンスのベストプラクティス – データベースチェックリスト
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 70%
@@ -28,7 +28,7 @@ ht-degree: 70%
 <tbody>
   <tr>
     <td>すべてのユーザ</td>
-    <td><li>CRM との1 対 1 の同期を実装するか、システム間を移動する人物とタイミングを制限するフィルターを適用するかを決定します。</li> 
+    <td><li>CRM との1 対 1 の同期を実装するか、システム間を移動する人物とタイミングを制限するフィルターを適用するかを決定します。</li>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html?lang=ja" target="_blank">Marketo Engage データベース</a>内の人物とマーケティング可能な人物の合計数を確認します。</li></td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ ht-degree: 70%
   </tr>
   <tr>
     <td>マーケティング中断</td>
-    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">マーケティング中断</a>の条件を定義します。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">マーケティング中断</a>の条件を定義します。</li></td>
   </tr>
   <tr>
     <td>バウンスしたメールアドレス </td>
@@ -46,9 +46,9 @@ ht-degree: 70%
   </tr>
   <tr>
     <td>重複の可能性</td>
-    <td><li>重複の可能性のあるリスト内の人物を確認します。</li> 
-    <li>重複管理戦略を定義して、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html?lang=ja" target="_blank">人物を手動で統合</a>するかどうかを決定します。</li>  
-    <li>CRM 統合を行っている場合は、プロセスを定義し、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">CRM でリードを結合する効果</a>を考慮します。</li></td>
+    <td><li>重複の可能性のあるリスト内の人物を確認します。</li>
+    <li>重複管理戦略を定義して、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html?lang=ja" target="_blank">人物を手動で統合</a>するかどうかを決定します。</li>
+    <li>CRM 統合を行っている場合は、プロセスを定義し、<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">CRM でリードを結合する効果</a>を考慮します。</li></td>
   </tr>
   <tr>
     <td>獲得プログラムなし</td>

@@ -4,20 +4,20 @@ title: 対話型フローランディングページを使用
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '226'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
 # 対話型フローランディングページを使用{#use-a-conversational-flow-landing-page}
 
-Dynamic Chatの会話フローをMarketo Engageランディングページに直接埋め込むと、訪問者は、フォームに入力したりチャットボットとやり取りしたりしなくても、Dynamic Chatを通じてミーティングをスケジュールできます。
+Dynamic Chatの会話フローをMarketo Engage ランディングページに直接埋め込むと、訪問者は、フォームに入力したりチャットボットとやり取りしたりしなくても、Dynamic Chatを通じてミーティングをスケジュールできます。
 
 >[!PREREQUISITES]
 >
->**ミーティング予約 [&#128279;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) カードのみを含むシンプルな  会話フロー** を作成します。
+>[ ミーティング予約 ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) カードのみを含むシンプルな **会話フロー** を作成します。
 
 ## ガイド付きランディングページ {#guided-landing-pages}
 
@@ -47,4 +47,3 @@ STEVE 会議からのメモ
 ガイド付き lp、テンプレートの新しい div id、変換フローの選択
 
 フリーフォーム lp、引き継ぎアイコン – 注意：追加メモ – エディターに cf を配置すると、プレビューが表示されません（プレースホルダーも表示されません） – サイドバーに、cf がページ上にあることが表示されます – ガイド付き lp は要素としてリストします – 説明時に「現時点で」を使用します – 機能は週 22 日まで有効です
-

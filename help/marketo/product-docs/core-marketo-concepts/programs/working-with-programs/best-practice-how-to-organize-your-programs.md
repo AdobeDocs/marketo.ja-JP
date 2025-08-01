@@ -4,10 +4,10 @@ description: ベストプラクティス - プログラムの整理方法 - Mark
 title: ベストプラクティス - プログラムの整理方法
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -121,4 +121,4 @@ Marketo の最も優れた機能の 1 つは、プログラムの複製を作成
 
 ## 概要 {#summary}
 
-ご覧の通り、Marketo には多くの力があります。ここでは基本を説明しましたが、成功のために、[Marketo Engage の専門家](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}が提供する追加のサービスによる微調整を検討してください。
+ご覧の通り、Marketo には多くの力があります。ここでは基本を説明しましたが、[0}Marketo Engageのエキスパートによるその他のサービスを検討して、微調整を行い、成功に向けたセットアップを行ってください。](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}

@@ -2,7 +2,7 @@
 description: セールスアクションデータの Marketo および Salesforce との同期- Marketo ドキュメント - 製品ドキュメント
 title: セールスアクションデータの Marketo および Salesforce との同期
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1068'
 ht-degree: 100%

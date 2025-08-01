@@ -4,8 +4,8 @@ description: キャンペーンアクティビティレポート - Marketo ド�
 title: キャンペーンアクティビティレポート
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 0fded7d82543f221c96ad08f1486728a39f495e7
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 100%
 

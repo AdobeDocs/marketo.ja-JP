@@ -4,10 +4,10 @@ description: Marketo のプロトコルの設定 - Marketo ドキュメント - 
 title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2131'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
@@ -39,8 +39,8 @@ ht-degree: 100%
 
 `2` **メールトラッキングリンク用の CNAME の追加**
 
-`[YourEmailCNAME]`が Marketo が割り当てたデフォルトのトラッキングリンク[MktoTrackingLink]を以下の形式で指すように、送信されたメール CNAME マーケティングを追加します。\
-`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
+CNAME マーケティングから送信されたメールを追加し、Marketo Engage`[YourEmailCNAME]` 割り当てたデフォルトのトラッキングリンクである [MktoTrackingLink] を、次の形式で指すようにします。
+CNAME `[YourEmailCNAME].[YourDomain].com` の `[MktoTrackingLink]`
 
 例：
 
@@ -92,11 +92,11 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 
 1. SPF を設定するには、DNS エントリに以下の行を追加します。
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   include: mktomail.com ~all
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
+include: mktomail.com ～all
 
-   DNS エントリに既に SPF レコードが存在する場合は、以下のコードを追加します。\
-   include: mktomail.com
+   DNS エントリに既存の SPF レコードがある場合は、次のレコードを追加するだけです。
+次を含む：mktomail.com
 
    CompanyDomain を Web サイトのメインドメイン（例：`(company.com/)`）で置き換え、CorpIP を会社のメールサーバーの IP アドレス（例：&quot;255.255.255.255&quot;）が該当します。 Marketo を通じて複数のドメインからメールを送信する場合は、IT スタッフに各ドメインに対してこの行を（1 行で）追加してもらう必要があります。
 
@@ -193,9 +193,9 @@ DMARC レコードには、DMARC タグと呼ばれる複数のコンポーネ�
     <td>オプション</td>
     <td>ドメイン所有者はレポートオプションを指定できます。</td>
     <td>0：すべてが失敗した場合にレポートを生成
-    <br>1：何か失敗した場合にレポートを生成
-    <br>d：DKIM が失敗した場合にレポートを生成
-    <br>s：SPF が失敗した場合にレポートを生成</td>
+    <br>1：失敗した場合にレポートを生成する
+    <br>d: DKIMが失敗した場合にレポートを生成
+    <br>s:SPF が失敗した場合にレポートを生成</td>
     <td>1（DMARC レポートに推奨）</td>
   </tr>
   <tr>

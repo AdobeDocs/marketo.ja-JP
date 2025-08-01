@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512272
-description: " [!DNL Webex]  を  [!DNL LaunchPoint]  サービスとして追加 - Marketo ドキュメント - 製品ドキュメント"
-title: " [!DNL Webex]  を  [!DNL LaunchPoint]  サービスとして追加"
+description: サ  [!DNL Webex]  ビスとして追加  [!DNL LaunchPoint]  Marketo ドキュメント – 製品ドキュメント
+title: サ  [!DNL Webex]  ビスとして  [!DNL LaunchPoint]  追加
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: d8ee31db267a6e24ed4c764b6feae882e3dc6266
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 

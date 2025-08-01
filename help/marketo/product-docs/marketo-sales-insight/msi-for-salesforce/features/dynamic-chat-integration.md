@@ -3,7 +3,7 @@ description: 動的チャットの統合 - Marketo ドキュメント - 製品�
 title: 動的チャットの統合
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 43%
@@ -28,7 +28,7 @@ Sales Insight と動的チャットの統合について詳しく説明します
 
 1. [!DNL Salesforce] アカウントにログインし、タブバーの最後にある「+」をクリックして、「**[!DNL Marketo Sales Insight Config]**」をクリックします。
 
-1. クリックして「[!UICONTROL Visualforce パネル &#x200B;]」を展開します。
+1. クリックして「[!UICONTROL Visualforce パネル ]」を展開します。
 
    ![](assets/dynamic-chat-integration-1.png)
 
@@ -70,7 +70,7 @@ Sales Insight と動的チャットの統合について詳しく説明します
 
 ![](assets/dynamic-chat-integration-3.png)
 
-「チャット」タブは、リードパネルと取引先責任者パネルで使用できます。[!UICONTROL &#x200B; アクティビティタイプ &#x200B;]、[!UICONTROL &#x200B; ダイアログ名 &#x200B;] および [!UICONTROL &#x200B; 日付 &#x200B;] 列が含まれます。
+「チャット」タブは、リードパネルと取引先責任者パネルで使用できます。[!UICONTROL  アクティビティタイプ ]、[!UICONTROL  ダイアログ名 ] および [!UICONTROL  日付 ] 列が含まれます。
 
 ![](assets/dynamic-chat-integration-4.png)
 
@@ -78,16 +78,16 @@ Sales Insight と動的チャットの統合について詳しく説明します
 
 ![](assets/dynamic-chat-integration-5.png)
 
-同様に、アカウントパネルと商談パネルには、[!UICONTROL &#x200B; 名前 &#x200B;]、[!UICONTROL &#x200B; アクティビティタイプ &#x200B;]、[!UICONTROL &#x200B; ダイアログ名 &#x200B;]、[!UICONTROL &#x200B; 日付 &#x200B;] 列が含まれています。
+同様に、アカウントパネルと商談パネルには、[!UICONTROL  名前 ]、[!UICONTROL  アクティビティタイプ ]、[!UICONTROL  ダイアログ名 ]、[!UICONTROL  日付 ] 列が含まれています。
 
 ![](assets/dynamic-chat-integration-6.png)
 
-「チャット」タブは、「グローバル Marketo」タブにも表示されます。次の列と共に、3 つのアクティビティタイプ（[!UICONTROL &#x200B; エンゲージメントダイアログ &#x200B;]、[!UICONTROL &#x200B; 予定予定 &#x200B;]、[!UICONTROL &#x200B; 達成目標 &#x200B;]）が含まれます。
+「チャット」タブは、「グローバル Marketo」タブにも表示されます。次の列と共に、3 つのアクティビティタイプ（[!UICONTROL  エンゲージメントダイアログ ]、[!UICONTROL  予定予定 ]、[!UICONTROL  達成目標 ]）が含まれます。
 
-* [!UICONTROL &#x200B; 人物 &#x200B;]
+* [!UICONTROL  人物 ]
 * [!UICONTROL アカウント]
-* [!UICONTROL &#x200B; アクティビティタイプ &#x200B;] （[!UICONTROL &#x200B; エンゲージメント済みダイアログ &#x200B;]、[!UICONTROL &#x200B; スケジュール済み予定 &#x200B;]、[!UICONTROL &#x200B; 目標達成 &#x200B;]）
-* [!UICONTROL &#x200B; ダイアログ名 &#x200B;]
+* [!UICONTROL  アクティビティタイプ ] （[!UICONTROL  エンゲージメント済みダイアログ ]、[!UICONTROL  スケジュール済み予定 ]、[!UICONTROL  目標達成 ]）
+* [!UICONTROL  ダイアログ名 ]
 * [!UICONTROL 日付]
 
 ここでも、アクティビティタイプをクリックすると、そのアクティビティの詳細を確認できます。
@@ -96,11 +96,10 @@ Sales Insight と動的チャットの統合について詳しく説明します
 
 >[!NOTE]
 >
->「[!UICONTROL Dynamic Chat データを有効にする &#x200B;]」チェックボックスが無効になっている場合、次の機能は無効になります。
+>「[!UICONTROL Dynamic Chat データを有効にする ]」チェックボックスが無効になっている場合、次の機能は無効になります。
 >
 >* Insights ダッシュボードのチャットアクティビティの行（スマートグリッドと週別リスト表示）
 >* リード、取引先責任者、アカウント、商談の各パネルの「チャット」タブ
 >* 「グローバル Marketo」タブの「チャット」タブ
 >
 >これらの機能の 1 つのみを無効にすることはできません。
-

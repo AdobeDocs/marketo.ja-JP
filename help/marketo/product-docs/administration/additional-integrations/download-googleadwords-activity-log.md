@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512607
-description: " [!DNL GoogleAdwords Activity Log]  のダウンロード- Marketo ドキュメント - 製品ドキュメント"
-title: " [!DNL GoogleAdwords Activity Log] のダウンロード"
+description: ダウンロード  [!DNL GoogleAdwords Activity Log] - Marketo ドキュメント – 製品ドキュメント
+title: ダウンロード  [!DNL GoogleAdwords Activity Log]
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
 

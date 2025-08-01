@@ -3,7 +3,7 @@ description: コールバック関数 - Marketo ドキュメント - 製品ド�
 title: コールバック関数
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: f355022fb7e6f733bb7485229e395b0fe1a9818f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 100%
@@ -19,9 +19,9 @@ Dynamic Chat ウィジェットコールバック関数を使用すると、対�
 このイベントは、Dynamic Chat ウィジェットの使用準備が整っていることを示し、Dynamic Chat に関連するすべてのスクリプトが web ページに読み込まれると発生します。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    // code here will execute when chatbot scripts are loaded in a webpage 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    // code here will execute when chatbot scripts are loaded in a webpage
+});
 ```
 
 ## 対話イベント {#conversation-events}
@@ -33,12 +33,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 Web サイトの訪問者をターゲットとした対話（ダイアログなど）が解決され、チャットボットが訪問者に表示されます。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
- // code here will execute when the chatbot is loaded for a visitor 
-    }); 
-});  
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => {
+ // code here will execute when the chatbot is loaded for a visitor
+    });
+});
 ```
 
 ### 対話エンゲージ済み {#conversation-engaged}
@@ -46,12 +46,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 訪問者がチャットボットに関与しました（最初の応答を提供するなど）。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_ENGAGED, (event) => { 
- // code here will execute when a visitor engages with the chatbot 
-     }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_ENGAGED, (event) => {
+ // code here will execute when a visitor engages with the chatbot
+     });
+});
 ```
 
 ### 対話完了 {#conversation-completed}
@@ -59,12 +59,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 訪問者が対話の終了に達しました。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_COMPLETED, (event) => { 
- // code here will execute when a conversation is completed 
-     }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_COMPLETED, (event) => {
+ // code here will execute when a conversation is completed
+     });
+});
 ```
 
 ### 対話クローズ済み
@@ -72,12 +72,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 訪問者が終了に達する前に対話をクローズしました。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_CLOSED, (event) => { 
- // code here will execute when a conversation is closed 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_CLOSED, (event) => {
+ // code here will execute when a conversation is closed
+    });
+});
 ```
 
 `event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。このメタデータには、`event.data` にアクセスすることでアクセスできます。
@@ -124,12 +124,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 このイベントは、訪問者が対話中に電話番号を入力した際にトリガーされます。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_INPUT_PHONE, (event) => { 
- // code here will execute when a visitor provides their phone number 
-    }); 
-});  
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_INPUT_PHONE, (event) => {
+ // code here will execute when a visitor provides their phone number
+    });
+});
 ```
 
 ### メール ID {#email-id}
@@ -137,12 +137,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 このイベントは、訪問者が対話中にメールアドレスを入力した際にトリガーされます。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_INPUT_EMAIL, (event) => { 
- // code here will execute when a visitor provides their email address 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_INPUT_EMAIL, (event) => {
+ // code here will execute when a visitor provides their email address
+    });
+});
 ```
 
 `event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。このメタデータには、`event.data` にアクセスすることでアクセスできます。
@@ -191,12 +191,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 このイベントは、訪問者がエージェントのカレンダーでミーティングを予約するとトリガーされます。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_MEETING_BOOKED, (event) => { 
- // code here will execute when a meeting is booked 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_MEETING_BOOKED, (event) => {
+ // code here will execute when a meeting is booked
+    });
+});
 ```
 
 `event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。このメタデータには、`event.data` にアクセスすることでアクセスできます。
@@ -257,12 +257,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 このイベントは、訪問者がライブエージェントとチャットするオプションを選択し、対応可能なエージェントが解決されるとトリガーされます。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUESTED, (event) => { 
- // code here will execute when a visitor requests a live chat 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUESTED, (event) => {
+ // code here will execute when a visitor requests a live chat
+    });
+});
 ```
 
 ### ライブチャット開始済み {#live-chat-initiated}
@@ -270,12 +270,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 このイベントは、訪問者がライブエージェントとチャットするオプションを選択し、エージェントがチャットを受け入れるとトリガーされます。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_INITIATED, (event) => { 
- // code here will execute after a live agent accepts the chat 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_INITIATED, (event) => {
+ // code here will execute after a live agent accepts the chat
+    });
+});
 ```
 
 ### ライブチャット終了済み {#live-chat-ended}
@@ -283,12 +283,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 このイベントは、訪問者とライブエージェント間の対話が終了するとトリガーされます。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_ENDED, (event) => { 
- // code here will execute when a live chat is ended 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_ENDED, (event) => {
+ // code here will execute when a live chat is ended
+    });
+});
 ```
 
 ### ライブチャットタイムアウト {#live-chat-timeout}
@@ -296,12 +296,12 @@ window.addEventListener('adobedx.conversations.ready', () => {
 このイベントは、訪問者が応答の停止やドロップを行ったので、ライブチャットの対話がタイムアウトするとトリガーされます。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUEST_TIMEOUT, (event) => { 
- // code here will execute when a visitor abandons a live chat 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_LIVE_CHAT_REQUEST_TIMEOUT, (event) => {
+ // code here will execute when a visitor abandons a live chat
+    });
+});
 ```
 
 `event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。このメタデータには、`event.data` にアクセスすることでアクセスできます。
@@ -350,15 +350,15 @@ window.addEventListener('adobedx.conversations.ready', () => {
 これらのイベントのいずれかを Adobe Analytics や Google Analytics などの分析プラットフォームに送信する場合は、これらの Dynamic Chat イベント内にそれぞれのトラッキング呼び出しを追加する必要があります。次の例のようになります。
 
 ```javascript
-window.addEventListener('adobedx.conversations.ready', () => { 
-    const {addListener, Enum} = window.AdobeDX; 
-    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => { 
- // Enter Adobe Analytics or Google Analytics function here 
-    ga('send', 'event', { 
-      eventCategory: Dynamic Chat Conversations', 
-      eventAction: 'Conversation Triggered', 
-      eventLabel: event.data.payload.id, 
-    }); 
-    }); 
-}); 
+window.addEventListener('adobedx.conversations.ready', () => {
+    const {addListener, Enum} = window.AdobeDX;
+    addListener(Enum.Events.CONVERSATION_TRIGGERED, (event) => {
+ // Enter Adobe Analytics or Google Analytics function here
+    ga('send', 'event', {
+      eventCategory: Dynamic Chat Conversations',
+      eventAction: 'Conversation Triggered',
+      eventLabel: event.data.payload.id,
+    });
+    });
+});
 ```

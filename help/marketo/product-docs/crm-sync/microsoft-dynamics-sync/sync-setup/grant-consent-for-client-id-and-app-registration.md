@@ -3,7 +3,7 @@ description: クライアント ID とアプリの登録に対する同意の付
 title: クライアント ID とアプリ登録に対する同意の付与
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 81%
@@ -30,25 +30,25 @@ ht-degree: 81%
    state value can be any ID (e.g.,12345)
    ```
 
-   <table> 
-    <colgroup> 
-     <col> 
-     <col> 
-    </colgroup> 
-    <tbody> 
-     <tr> 
-      <td><strong>client_id の値</strong></td> 
-      <td>アプリ登録プロセスで生成される client_id である必要があります</td> 
-     </tr> 
-     <tr> 
-      <td><strong>redirect_uri の値</strong></td> 
-      <td>アプリの登録／リダイレクト URI の時点で入力された値と同じである必要があります</td> 
-     </tr> 
-     <tr> 
-      <td><strong>state の値</strong></td> 
-      <td>任意の ID を指定できます（例：12345）</td> 
-     </tr> 
-    </tbody> 
+   <table>
+    <colgroup>
+     <col>
+     <col>
+    </colgroup>
+    <tbody>
+     <tr>
+      <td><strong>client_id の値</strong></td>
+      <td>アプリ登録プロセスで生成される client_id である必要があります</td>
+     </tr>
+     <tr>
+      <td><strong>redirect_uri の値</strong></td>
+      <td>アプリの登録／リダイレクト URI の時点で入力された値と同じである必要があります</td>
+     </tr>
+     <tr>
+      <td><strong>state の値</strong></td>
+      <td>任意の ID を指定できます（例：12345）</td>
+     </tr>
+    </tbody>
    </table>
 
    最終的な URL は次のようになります。`https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`
@@ -75,7 +75,7 @@ ht-degree: 81%
 
 1. Azure ポータルで、アプリケーションのホームページに移動します。
 
-1. [!UICONTROL &#x200B; 管理 &#x200B;] で、「**[!UICONTROL API 権限]**」をクリックします。
+1. [!UICONTROL  管理 ] で、「**[!UICONTROL API 権限]**」をクリックします。
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 

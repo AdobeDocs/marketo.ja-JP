@@ -3,7 +3,7 @@ description: NUR-YYYY-MM-Simple Nurture - Marketo ドキュメント – 製品�
 title: NUR-YYYY-MM-シンプルな育成
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 20%
@@ -12,131 +12,131 @@ ht-degree: 20%
 
 # NUR-YYYY-MM-シンプルな育成 {#nur-yyyy-mm-simple-nurture}
 
-これは、Marketo Engageエンゲージメントプログラムを利用したシンプルな育成プログラムの例です。ケイデンドコンテンツを使用して、行動に基づくジャーニーでレコードをガイドするストリームを利用しながら、データベースに時間の経過と共にドリップします。
+これは、Marketo Engage エンゲージメントプログラムを利用したシンプルな育成プログラムの例です。ケイデンドコンテンツを使用して、行動に基づくジャーニーでレコードをガイドするストリームを利用しながら、データベースに時間の経過と共にドリップします。
 
-詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>チャネル</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>チャネル</th>
    <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
-  </tr> 
-  <tr> 
-   <td>ナーチャリング</td> 
-   <td>01 - メンバー 
+  </tr>
+  <tr>
+   <td>ナーチャリング</td>
+   <td>01 - メンバー
 <br/>02 - エンゲージメント – 成功</td>
    <td>包含</td>
    <td>エンゲージメント</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>タイプ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>タイプ</th>
    <th>テンプレート名</th>
    <th>アセット名</th>
-  </tr> 
-  <tr> 
-   <td>メール</td> 
+  </tr>
+  <tr>
+   <td>メール</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>01 - メール</td>
   </tr>
-   <tr> 
-   <td>メール</td> 
+   <tr>
+   <td>メール</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>02 - メール</td>
   </tr>
-   <tr> 
-   <td>メール</td> 
+   <tr>
+   <td>メール</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>03 - メール</td>
   </tr>
-  <tr> 
-   <td>ローカル報告書</td> 
+  <tr>
+   <td>ローカル報告書</td>
    <td> </td>
    <td>メールの効果</td>
   </tr>
-  <tr> 
-   <td>ローカル報告書</td> 
+  <tr>
+   <td>ローカル報告書</td>
    <td> </td>
    <td>エンゲージメントストリームの効果</td>
   </tr>
   <tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>01 - ナーチャリングに追加</td>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>02 – 育成の一時停止</td>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>03 – 育成の再開</td>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>04 - エンゲージ済み（プログラム成功）</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
    <td>Assets – すべてのクリエイティブアセットが格納されています
    <br/> （メール用のサブフォルダー）</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
    <td>キャンペーン – すべてのスマートキャンペーンを格納します。</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
    <td>レポート</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/nur-yyyy-mm-simple-nurture-1.png)
 
 ## 含まれるマイトークン {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>トークンのタイプ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>トークンのタイプ</th>
    <th>トークン名</th>
    <th>値</th>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 競合ルール {#conflict-rules}

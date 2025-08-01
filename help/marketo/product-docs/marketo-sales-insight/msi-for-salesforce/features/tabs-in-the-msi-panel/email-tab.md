@@ -3,7 +3,7 @@ description: 「メール」タブ - Marketo ドキュメント - 製品ドキ�
 title: 「メール」タブ
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 59%
@@ -21,9 +21,9 @@ ht-degree: 59%
 
 件名行の横に Marketo アイコンが付いたメールは、Marketo からメールが送信されたことを示します。「Marketo」アイコンのないメールは、メールが [!DNL Sales Insight] から送信されたことを示します。
 
-「[!UICONTROL &#x200B; 配信ステータスを確認 &#x200B;]」ボタンをクリックすると、メールの配信ステータスを示す新しいタブが開きます。
+「[!UICONTROL  配信ステータスを確認 ]」ボタンをクリックすると、メールの配信ステータスを示す新しいタブが開きます。
 
-<table> 
+<table>
  <tbody>
   <tr>
    <td><strong>Marketo から送信されたメール</strong></td>

@@ -4,7 +4,7 @@ description: フリーフォームランディングページを作成する - M
 title: フリーフォームランディングページを作成する
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 77%
@@ -73,4 +73,4 @@ ht-degree: 77%
 
 >[!TIP]
 >
->[!UICONTROL &#x200B; 作成 &#x200B;] をクリックした後すぐにエディターを開かない場合は **[!UICONTROL 「新しいページのランディングページエディターを開く]** のチェックを外します。
+>[!UICONTROL  作成 ] をクリックした後すぐにエディターを開かない場合は **[!UICONTROL 「新しいページのランディングページエディターを開く]** のチェックを外します。

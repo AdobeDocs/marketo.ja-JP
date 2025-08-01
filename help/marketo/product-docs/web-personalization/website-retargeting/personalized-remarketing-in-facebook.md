@@ -4,7 +4,7 @@ description: Facebook でのパーソナライズリマーケティング - Mark
 title: Facebook でのパーソナライズリマーケティング
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 75%
@@ -18,7 +18,7 @@ ht-degree: 75%
 >[!PREREQUISITES]
 >
 >* [ウェブパーソナライズデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定を完成します
->* [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [カスタムオーディエンスとリマーケティングに関する Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)を確認します。
+>* [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [カスタムオーディエンスとリマーケティングに関する Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)を確認します。
 
 ## [!DNL Facebook] でのオーディエンスの作成 {#creating-an-audience-in-facebook}
 
@@ -36,7 +36,7 @@ ht-degree: 75%
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. [!UICONTROL Web サイトトラフィック &#x200B;] リストで、「**[!UICONTROL カスタムの組み合わせ]**」を選択します。
+1. [!UICONTROL Web サイトトラフィック ] リストで、「**[!UICONTROL カスタムの組み合わせ]**」を選択します。
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
@@ -44,7 +44,7 @@ ht-degree: 75%
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. [!UICONTROL &#x200B; イベント &#x200B;] リストで「**[!UICONTROL RTP リマーケティング]**」を選択し、パラメーターを選択します。
+1. [!UICONTROL  イベント ] リストで「**[!UICONTROL RTP リマーケティング]**」を選択し、パラメーターを選択します。
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
@@ -58,47 +58,47 @@ ht-degree: 75%
 
 ## [!DNL Facebook] の RTP データ ポイント {#rtp-data-points-in-facebook}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>イベント名</th> 
-   <th> </th> 
-  </tr> 
-  <tr> 
-   <td>RTP リマーケティング</td> 
-   <td> 
-    <div> 
-     <table> 
-      <tbody> 
-       <tr> 
-        <th>パラメーター</th> 
-        <th>値</th> 
-       </tr> 
-       <tr> 
-        <td>ABM リスト</td> 
-        <td>（顧客ベースのリスト）</td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">カテゴリ</td> 
-        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">グループ</td> 
-        <td colspan="1"><p>エンタープライズ</p><p>中小企業</p></td> 
-       </tr> 
-       <tr> 
-        <td>業界</td> 
-        <td><p>防衛</p><p>教育</p><p>金融サービス</p><p>政府</p><p>医療、医薬品、バイオテクノロジー</p><p>ソフトウェア、インターネット</p><p>...（RTP 業界のオプションに従って）</p></td> 
-       </tr> 
-       <tr> 
-        <td colspan="1">セグメント化されたオーディエンス</td> 
-        <td colspan="1">（RTP で作成されたセグメント化されたオーディエンス名）</td> 
-       </tr> 
-      </tbody> 
-     </table> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>イベント名</th>
+   <th> </th>
+  </tr>
+  <tr>
+   <td>RTP リマーケティング</td>
+   <td>
+    <div>
+     <table>
+      <tbody>
+       <tr>
+        <th>パラメーター</th>
+        <th>値</th>
+       </tr>
+       <tr>
+        <td>ABM リスト</td>
+        <td>（顧客ベースのリスト）</td>
+       </tr>
+       <tr>
+        <td colspan="1">カテゴリ</td>
+        <td colspan="1"><p>Fortune 500</p><p>Fortune 1000</p><p>Global 2000</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">グループ</td>
+        <td colspan="1"><p>エンタープライズ</p><p>中小企業</p></td>
+       </tr>
+       <tr>
+        <td>業界</td>
+        <td><p>防衛</p><p>教育</p><p>金融サービス</p><p>政府</p><p>医療、医薬品、バイオテクノロジー</p><p>ソフトウェア、インターネット</p><p>...（RTP 業界のオプションに従って）</p></td>
+       </tr>
+       <tr>
+        <td colspan="1">セグメント化されたオーディエンス</td>
+        <td colspan="1">（RTP で作成されたセグメント化されたオーディエンス名）</td>
+       </tr>
+      </tbody>
+     </table>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 広告によるオーディエンスのターゲティング {#target-your-audience-with-an-ad}

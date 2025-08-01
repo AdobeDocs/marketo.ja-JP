@@ -4,7 +4,7 @@ description: Wordpress での RTP の実装 — Marketo ドキュメント — �
 title: Wordpress での RTP の実装
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 69%
@@ -13,7 +13,7 @@ ht-degree: 69%
 
 # [!DNL Wordpress] への RTP の実装 {#implementing-rtp-on-wordpress}
 
-[!UICONTROL RTP タグを実装するには &#x200B;] 以下のインストール手順に従ってください。
+[!UICONTROL RTP タグを実装するには ] 以下のインストール手順に従ってください。
 
 1. **テーマの** header.php **[!DNL WordPress]ファイルを開き** す。
 
@@ -29,7 +29,7 @@ ht-degree: 69%
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
-1. [!UICONTROL &#x200B; ドメイン &#x200B;] の下で関連するドメインを見つけて、「**[!UICONTROL タグを生成]**」をクリックします。
+1. [!UICONTROL  ドメイン ] の下で関連するドメインを見つけて、「**[!UICONTROL タグを生成]**」をクリックします。
 
    ![](assets/image2014-11-30-15-3a20-3a17-1.png)
 

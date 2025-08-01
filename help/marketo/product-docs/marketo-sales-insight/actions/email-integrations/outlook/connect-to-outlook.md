@@ -2,10 +2,10 @@
 description: Outlook への接続 - Marketo ドキュメント - 製品ドキュメント
 title: Outlook への接続
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -45,15 +45,15 @@ Outlook に接続すると、返信トラッキング、Outlook 配信チャネ�
 
    ![](assets/connect-to-outlook-6.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook オンライン</strong></td> 
-      <td>Exchange オンラインとも呼ばれます</td> 
+      <td><strong>Outlook オンライン</strong></td>
+      <td>Exchange オンラインとも呼ばれます</td>
      </tr>
      <tr>
-      <td><strong>Exchange オンプレミス</strong></td> 
-      <td>Exchange 2013 および 2016 を含む</td> 
+      <td><strong>Exchange オンプレミス</strong></td>
+      <td>Exchange 2013 および 2016 を含む</td>
      </tr>
     </tbody>
    </table>
@@ -108,15 +108,15 @@ Exchange オンプレミスに接続すると、返信トラッキング、Outlo
 
    ![](assets/connect-to-outlook-15.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook オンライン</strong></td> 
-      <td>Exchange オンラインとも呼ばれます</td> 
+      <td><strong>Outlook オンライン</strong></td>
+      <td>Exchange オンラインとも呼ばれます</td>
      </tr>
      <tr>
-      <td><strong>Exchange オンプレミス</strong></td> 
-      <td>Exchange 2013 および 2016 を含む</td> 
+      <td><strong>Exchange オンプレミス</strong></td>
+      <td>Exchange 2013 および 2016 を含む</td>
      </tr>
     </tbody>
    </table>
@@ -145,8 +145,8 @@ IT チームと連携して、Marketo Sales に Outlook オンラインアカウ
 
 IT チームの環境設定および現在の設定に応じて、アクセスの付与方法について問い合わせるのが最善です。以下に、話し合いのガイドとして役立つ記事の一部を示します。
 
-* グローバルな同意：[Microsoft 365 管理者のための統合アプリおよび Azure AD](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* ユーザーの同意：[アプリケーションに対するユーザーの同意の設定](https://learn.microsoft.com/ja-jp/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* 管理者の同意：[管理者の同意ワークフローの設定](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* ユーザーの同意をオンまたはオフにする：[Microsoft 365 のアプリに対するユーザーの同意の管理](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* Microsoft Defender による管理：[OAuth アプリの管理](https://learn.microsoft.com/ja-jp/defender-cloud-apps/manage-app-permissions){target="_blank"}
+* グローバル同意：[Microsoft 365 管理者向けの統合アプリと Azure AD](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
+* ユーザーの同意：[ アプリケーションに対するユーザーの同意方法を設定します ](https://learn.microsoft.com/ja-jp/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
+* 管理者の同意：[ 管理者の同意ワークフローを設定 ](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* ユーザー同意のオンまたはオフ：[Microsoft 365 でのアプリに対するユーザー同意の管理 ](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* Microsoft Defender を使用した管理：[OAuth アプリを管理 ](https://learn.microsoft.com/ja-jp/defender-cloud-apps/manage-app-permissions){target="_blank"}

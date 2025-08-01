@@ -4,7 +4,7 @@ description: フォームフィールドへのツールチップ説明の追加 
 title: フォームフィールドへのツールチップ説明の追加
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%

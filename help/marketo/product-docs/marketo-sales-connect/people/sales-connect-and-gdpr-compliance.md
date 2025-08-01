@@ -4,10 +4,10 @@ description: Sales Connect と GDPR への準拠 - Marketo ドキュメント - 
 title: Sales Connect と GDPR への準拠
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1355'
-ht-degree: 74%
+ht-degree: 73%
 
 ---
 
@@ -86,11 +86,11 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 ![](assets/four.png)
 
-[!UICONTROL &#x200B; 認証タイプ &#x200B;] と [!UICONTROL Source タイプ &#x200B;] の 2 つのドロップダウンが表示されます。
+[!UICONTROL  認証タイプ ] と [!UICONTROL Source タイプ ] の 2 つのドロップダウンが表示されます。
 
 ![](assets/5.png)
 
-[!UICONTROL &#x200B; 認証タイプ &#x200B;] として「[!UICONTROL &#x200B; 同意 &#x200B;]」を選択すると、「[!UICONTROL &#x200B; 同意日 &#x200B;]」および「[!UICONTROL &#x200B; 処理の目的 &#x200B;]」の 2 つの必須フィールドが表示されます。 この 2 つのフィールドは、他のオプションには適用されません。
+[!UICONTROL  認証タイプ ] として「[!UICONTROL  同意 ]」を選択すると、「[!UICONTROL  同意日 ]」および「[!UICONTROL  処理の目的 ]」の 2 つの必須フィールドが表示されます。 この 2 つのフィールドは、他のオプションには適用されません。
 
 ![](assets/6.png)
 
@@ -100,7 +100,7 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 一括アクション** [!DNL Marketo Sales Connect] を使用すると、連絡先の認証タイプとSource タイプを一括でアップデートして、コンプライアンスプロセスの貴重な時間を節約することもできます。
 
-[!UICONTROL &#x200B; 人物 &#x200B;] ページから 1 人以上の連絡先を選択すると、上部のコンテナに「認証」ボタンと「Source」ボタンが表示されます。 これらのボタンを使用して、複数の連絡先の認証またはソースを同時に設定できます。
+[!UICONTROL  人物 ] ページから 1 人以上の連絡先を選択すると、上部のコンテナに「認証」ボタンと「Source」ボタンが表示されます。 これらのボタンを使用して、複数の連絡先の認証またはソースを同時に設定できます。
 
 ![](assets/eight.jpg)
 
@@ -124,44 +124,44 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 個人の詳細表示から取引先責任者情報をエクスポートできます。エクスポートすると、次の列を含む.CSV ファイルがダウンロードされます。
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL の名 &#x200B;]</td> 
-   <td>[!UICONTROL Web サイト &#x200B;]</td> 
-   <td>[!DNL Facebook]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL の姓 &#x200B;]</td> 
-   <td>[!UICONTROL その他 &#x200B;]</td> 
-   <td>[!DNL Twitter]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL 会社 &#x200B;]</td> 
-   <td>[!UICONTROL 更新日時 &#x200B;]</td> 
-   <td>[!DNL LinkedIn]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL タイトル &#x200B;]</td> 
-   <td>[!UICONTROL の作成場所 &#x200B;]</td> 
-   <td>[!UICONTROL のエクスポート先 &#x200B;]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL メール ID]</td> 
-   <td>[!UICONTROL Salesforce ID]</td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL 電話番号 &#x200B;]</td> 
-   <td>[!UICONTROL 人物 ID]</td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL の名 ]</td>
+   <td>[!UICONTROL Web サイト ]</td>
+   <td>[!DNL Facebook]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL の姓 ]</td>
+   <td>[!UICONTROL その他 ]</td>
+   <td>[!DNL Twitter]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL 会社 ]</td>
+   <td>[!UICONTROL 更新日時 ]</td>
+   <td>[!DNL LinkedIn]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL タイトル ]</td>
+   <td>[!UICONTROL の作成場所 ]</td>
+   <td>[!UICONTROL のエクスポート先 ]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL メール ID]</td>
+   <td>[!UICONTROL Salesforce ID]</td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL 電話番号 ]</td>
+   <td>[!UICONTROL 人物 ID]</td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -180,9 +180,9 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 GDPR の一般的に誤解される領域として、組織のデータベースから配信停止する取引先責任者が含まれます。購読解除を選択したユーザーのデータの保護に関する新しいルールに準拠するために、[!DNL Marketo Sales Connect] に次の機能が含まれています。
 
-**登録解除リンク：** [!DNL Sales Connect] web アプリケーションから送信されるすべてのメールに登録解除リンクが自動的に追加され、連絡先に、オプトアウトするためのアクセス可能な方法が付与されます。\
-**購読解除同期：** ユーザーは、CRM （[!DNL Salesforce]）との間で購読解除を同期して、オプトアウトが最新であることを確認できます。\
-**配信停止履歴：**&#x200B;ユーザは、過去のオプトアウトおよびオプトインを個人の詳細表示で確認できます。\
+**登録解除リンク：** [!DNL Sales Connect] web アプリケーションから送信されるすべてのメールに登録解除リンクが自動的に追加され、連絡先に、オプトアウトするためのアクセス可能な方法が付与されます。
+**購読解除同期：** ユーザーは、CRM （[!DNL Salesforce]）との間で購読解除を同期して、オプトアウトが最新であることを確認できます。
+**購読解除履歴：** ユーザーは、オプトアウトおよびオプトインの履歴をユーザーの詳細表示に表示できます。
 **配信停止の削除：**&#x200B;配信停止済みの取引先責任者を再度オプトインするには、ユーザが管理者権限を持っている必要があり、その取引先責任者が自身に連絡することに新たに同意したことを示す必要があります。
 
 ## 今後の更新 {#future-updates}

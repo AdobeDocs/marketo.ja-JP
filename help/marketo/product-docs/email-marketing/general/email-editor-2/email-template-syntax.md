@@ -4,8 +4,8 @@ description: メールテンプレートの構文 - Marketo ドキュメント -
 title: メールテンプレートの構文
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
-workflow-type: ht
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 100%
 

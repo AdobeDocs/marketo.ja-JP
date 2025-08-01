@@ -3,7 +3,7 @@ description: アクションデータ同期に関する FAQ - Marketo ドキュ�
 title: アクションデータ同期に関する FAQ
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '958'
 ht-degree: 41%
@@ -122,4 +122,3 @@ Sales Actions データベースは、Marketo Engage データベースに存在
 >* [[!DNL Salesforce] 同期設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [ リマインダータスクの同期先  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/actions/tasks/reminder-task-sync-with-salesforce.md)
 >* [データ同期の開始](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md#initiate-data-sync)
-

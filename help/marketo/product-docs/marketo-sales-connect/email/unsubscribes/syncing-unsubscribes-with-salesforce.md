@@ -4,7 +4,7 @@ description: Salesforce との登録解除の同期 - Marketo ドキュメント
 title: Salesforce との登録解除の同期
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 59%
@@ -35,7 +35,7 @@ ht-degree: 59%
 
    ![](assets/one-1.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 購読解除]** を選択します。
+1. [!UICONTROL  管理者設定 ] で **[!UICONTROL 購読解除]** を選択します。
 
    ![](assets/two-2.png)
 
@@ -82,7 +82,7 @@ ht-degree: 59%
 
    ![](assets/ten.png)
 
-1. [!UICONTROL &#x200B; メールオプトアウト &#x200B;] をページレイアウトにドラッグ&amp;ドロップします。
+1. [!UICONTROL  メールオプトアウト ] をページレイアウトにドラッグ&amp;ドロップします。
 
    ![](assets/11.png)
 

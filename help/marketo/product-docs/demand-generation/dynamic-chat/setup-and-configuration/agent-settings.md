@@ -3,7 +3,7 @@ description: エージェント設定 - Marketo ドキュメント - 製品ド�
 title: エージェント設定
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 78%
@@ -63,17 +63,17 @@ Google で設定すると、Dynamic Chat に対して次の権限が付与され
 
 ![](assets/agent-settings-4.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>ミーティング期間</b></td>
    <td>訪問者に表示される、空いている会議時間枠の長さを決定します。</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>ミーティング間のバッファ時間</b></td>
    <td>会議後のバッファーとして設定した時間。30 分に設定すると、カレンダーで予定されている会議の終了から 30 分後まで、誰も会議を予約できません。</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 >[!TIP]

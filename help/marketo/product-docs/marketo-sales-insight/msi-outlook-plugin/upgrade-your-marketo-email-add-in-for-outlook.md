@@ -4,7 +4,7 @@ description: Marketo E メールアドインのアップグレード – Marketo
 title: Marketo E メールアドインのアップグレード  [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 60%
@@ -23,98 +23,98 @@ ht-degree: 60%
 
 お使いのバージョンのMicrosoft [!DNL Outlook] に適したインストーラーをダウンロードします。
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th colspan="2">シングルユーザー招待によるインストール</th> 
-   <th colspan="2">エンタープライズキーによるインストール</th> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="dnl">Outlook</span> バージョン</strong></td> 
-   <td><strong>32 ビット</strong></td> 
-   <td><strong>64 ビット</strong></td> 
-   <td><strong>32 ビット</strong></td> 
-   <td><strong>64 ビット</strong></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2000</td> 
-   <td>サポート対象外</td> 
-   <td>なし</td> 
-   <td>サポート対象外</td> 
-   <td>なし</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook 2003</span></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td>なし</td> 
-   <td>サポート対象外</td> 
-   <td>なし</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2007</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td>なし</td> 
-   <td>サポート対象外</td> 
-   <td>なし</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2010</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl"> 見通し </span> 2013</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2016</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Outlook</span> 2019 年</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
-  </tr> 
-  <tr> 
-   <td>Macの <span class="dnl">Outlook</span></td> 
-   <td>サポート対象外</td> 
-   <td>サポート対象外</td> 
-   <td>サポート対象外</td> 
-   <td>サポート対象外</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Outlook</span> Web App</td> 
-   <td colspan="1">サポート対象外</td> 
-   <td colspan="1">サポート対象外</td> 
-   <td colspan="1">サポート対象外</td> 
-   <td colspan="1">サポート対象外</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Office</span> 365*</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th colspan="2">シングルユーザー招待によるインストール</th>
+   <th colspan="2">エンタープライズキーによるインストール</th>
+  </tr>
+  <tr>
+   <td><strong><span class="dnl">Outlook</span> バージョン</strong></td>
+   <td><strong>32 ビット</strong></td>
+   <td><strong>64 ビット</strong></td>
+   <td><strong>32 ビット</strong></td>
+   <td><strong>64 ビット</strong></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2000</td>
+   <td>サポート対象外</td>
+   <td>なし</td>
+   <td>サポート対象外</td>
+   <td>なし</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook 2003</span></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td>
+   <td>なし</td>
+   <td>サポート対象外</td>
+   <td>なし</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2007</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td>
+   <td>なし</td>
+   <td>サポート対象外</td>
+   <td>なし</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2010</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl"> 見通し </span> 2013</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2016</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Outlook</span> 2019 年</td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td>
+  </tr>
+  <tr>
+   <td>Macの <span class="dnl">Outlook</span></td>
+   <td>サポート対象外</td>
+   <td>サポート対象外</td>
+   <td>サポート対象外</td>
+   <td>サポート対象外</td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Outlook</span> Web App</td>
+   <td colspan="1">サポート対象外</td>
+   <td colspan="1">サポート対象外</td>
+   <td colspan="1">サポート対象外</td>
+   <td colspan="1">サポート対象外</td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Office</span> 365*</td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">ダウンロード</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">ダウンロード</a></td>
+  </tr>
+ </tbody>
 </table>
 
 &#42;Office 365 バージョン：Windows クライアントのみ（Windows 10、Windows 11、Enterprise または Pro）。
@@ -167,5 +167,5 @@ ht-degree: 60%
 
 >[!MORELIKETHIS]
 >
->* [Marketo Email Add-in for [!UICONTROL Outlook を使用したメールの送信とトラッキング &#x200B;]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Marketo Email Add-in for [!UICONTROL Outlook を使用したメールの送信とトラッキング ]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
 >* [Marketo テンプレートを使用した [!UICONTROL Outlook] からの送信とトラッキング ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

@@ -3,7 +3,7 @@ description: Salesforce アクティビティ詳細のカスタマイズの設�
 title: Salesforce アクティビティ詳細のカスタマイズの設定
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '675'
 ht-degree: 69%

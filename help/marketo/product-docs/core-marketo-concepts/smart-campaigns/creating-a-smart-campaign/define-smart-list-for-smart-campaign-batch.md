@@ -4,7 +4,7 @@ description: スマートキャンペーン用スマートリストの定義 |�
 title: スマートキャンペーン用スマートリストの定義 | バッチ
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: c3aa1a29b084cb1c1add9d22cdbfc23bdcf7512b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 100%

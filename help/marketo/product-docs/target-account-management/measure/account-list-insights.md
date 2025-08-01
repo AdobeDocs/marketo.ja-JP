@@ -4,7 +4,7 @@ description: 顧客リストインサイト - Marketo ドキュメント - 製�
 title: 顧客リストインサイト
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 98%
@@ -29,17 +29,17 @@ ht-degree: 98%
 
 ![](assets/two-new-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">パイプライン</span></strong></td> 
-   <td colspan="1">経時的なパイプラインを表示します。週ごとの経時的なパイプラインを判断するため、最終日にパイプラインを取得します。</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">売上高</span></strong></td> 
-   <td><p>経時的な売上高を表示します。週ごとの経時的な売上高を判断するため、その週の全売上高の合計を取り込みます。</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">パイプライン</span></strong></td>
+   <td colspan="1">経時的なパイプラインを表示します。週ごとの経時的なパイプラインを判断するため、最終日にパイプラインを取得します。</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">売上高</span></strong></td>
+   <td><p>経時的な売上高を表示します。週ごとの経時的な売上高を判断するため、その週の全売上高の合計を取り込みます。</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## 重点顧客タブ {#named-accounts-tab}
@@ -52,7 +52,7 @@ ht-degree: 98%
 >
 >このタブで重点顧客を選択して「**[!UICONTROL 重点顧客を削除]**」をクリックして、重点顧客を削除することができます。
 
-## [!UICONTROL &#x200B; 使用者 &#x200B;] タブ {#used-by-tab}
+## [!UICONTROL  使用者 ] タブ {#used-by-tab}
 
 「**[!UICONTROL 使用者]**」タブをクリックして、どのアセットがその顧客リストを参照しているかを確認します。
 

@@ -4,7 +4,7 @@ description: Google タグマネージャーを使用した RTP の実装 - Mark
 title: Google タグマネージャーを使用した RTP の実装
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 72%
@@ -27,7 +27,7 @@ RTP タグを実装するには、次のインストール手順に従います�
 
    ![](assets/image2014-11-30-15-3a19-3a21.png)
 
-1. [!UICONTROL &#x200B; ドメイン &#x200B;] の下で関連するドメインを見つけて、「**[!UICONTROL タグを生成]**」をクリックします。
+1. [!UICONTROL  ドメイン ] の下で関連するドメインを見つけて、「**[!UICONTROL タグを生成]**」をクリックします。
 
    ![](assets/image2014-11-30-15-3a20-3a17.png)
 

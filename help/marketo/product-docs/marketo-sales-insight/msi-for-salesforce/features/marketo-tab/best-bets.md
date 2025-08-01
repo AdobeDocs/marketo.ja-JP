@@ -3,7 +3,7 @@ description: 最有望見込客 - Marketo ドキュメント - 製品ドキュ�
 title: 最有望見込客
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '298'
 ht-degree: 21%
@@ -35,12 +35,12 @@ ht-degree: 21%
 
 **インラインエンゲージメント**
 
-[!UICONTROL &#x200B; アクション &#x200B;] 列の下の Dota メニューをクリックすると、次のエンゲージメントオプションを使用して、特定のリードまたは連絡先に連絡できます。
+[!UICONTROL  アクション ] 列の下の Dota メニューをクリックすると、次のエンゲージメントオプションを使用して、特定のリードまたは連絡先に連絡できます。
 
-* [!UICONTROL Marketo メールの送信 &#x200B;]
-* [!UICONTROL Marketo キャンペーンに追加 &#x200B;]
-* [!UICONTROL Marketoで表示 &#x200B;]
-* [!UICONTROL &#x200B; ウォッチリストに追加 &#x200B;]
+* [!UICONTROL Marketo メールの送信 ]
+* [!UICONTROL Marketo キャンペーンに追加 ]
+* [!UICONTROL Marketoで表示 ]
+* [!UICONTROL  ウォッチリストに追加 ]
 
 ![](assets/best-bets-1.png)
 
@@ -48,9 +48,9 @@ ht-degree: 21%
 
 チェックボックスを使用して [!DNL Best Bets] ページから 1 人以上のリードまたは連絡先を選択し、次のエンゲージメントオプションを使用してグループとして連絡することができます。
 
-* [!UICONTROL Marketo メールの送信 &#x200B;]
-* [!UICONTROL Marketo キャンペーンに追加 &#x200B;]
-* [!UICONTROL &#x200B; ウォッチリストに追加 &#x200B;]
+* [!UICONTROL Marketo メールの送信 ]
+* [!UICONTROL Marketo キャンペーンに追加 ]
+* [!UICONTROL  ウォッチリストに追加 ]
 
 ![](assets/best-bets-2.png)
 

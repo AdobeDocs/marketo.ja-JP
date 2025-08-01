@@ -4,7 +4,7 @@ description: ウェブパーソナライズデータによるリターゲティ�
 title: ウェブパーソナライズデータによるリターゲティング
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '388'
 ht-degree: 71%
@@ -26,30 +26,30 @@ ht-degree: 71%
 
 [!DNL Web Personalization] は、オーディエンスを作成しリマーケティング広告キャンペーンを実行するために、次のデータをを通じてリマーケティングプラットフォームに送信します。
 
-<table> 
- <tbody> 
-  <tr> 
-   <th colspan="1">[!DNL Web Personalization] データ</th> 
-  </tr> 
-  <tr> 
-   <th><p>業界</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>グループ（エンタープライズ、中小企業）</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>カテゴリー（Fortune 500/1000、Global 2000）</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>ABM リスト（名前付きアカウントリスト）</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>セグメント化オーディエンス（セグメントに基づく）</p></th> 
-  </tr> 
-  <tr> 
-   <th><p>クリックされた Web キャンペーン</p></th> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th colspan="1">[!DNL Web Personalization] データ</th>
+  </tr>
+  <tr>
+   <th><p>業界</p></th>
+  </tr>
+  <tr>
+   <th><p>グループ（エンタープライズ、中小企業）</p></th>
+  </tr>
+  <tr>
+   <th><p>カテゴリー（Fortune 500/1000、Global 2000）</p></th>
+  </tr>
+  <tr>
+   <th><p>ABM リスト（名前付きアカウントリスト）</p></th>
+  </tr>
+  <tr>
+   <th><p>セグメント化オーディエンス（セグメントに基づく）</p></th>
+  </tr>
+  <tr>
+   <th><p>クリックされた Web キャンペーン</p></th>
+  </tr>
+ </tbody>
 </table>
 
 ## リマーケティング設定 {#remarketing-configuration}

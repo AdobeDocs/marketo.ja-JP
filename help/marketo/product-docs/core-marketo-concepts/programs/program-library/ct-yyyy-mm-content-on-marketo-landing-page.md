@@ -3,7 +3,7 @@ description: Marketo ランディングページの CT-YYYY-MM-Content - Marketo
 title: CT-YYYY-MM-Marketo ランディングページのコンテンツ
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '474'
 ht-degree: 16%
@@ -12,161 +12,161 @@ ht-degree: 16%
 
 # CT-YYYY-MM-Marketo ランディングページのコンテンツ {#ct-yyyy-mm-content-on-marketo-landing-page}
 
-この例は、Marketo Engageのデフォルトプログラムを使用したMarketo EngageフォームでMarketo Engageのランディングページを活用するコンテンツプログラムを作成するように設計されています。 コンテンツ/オファーにアクセスするためのフォームです。 オファーへのリンクは、ありがとうページに表示したり、ありがとうメールで送信したりできます。
+この例は、Marketo Engageのデフォルトプログラムを使用して、Marketo Engage ランディングページとMarketo Engage フォームを活用するコンテンツプログラムを作成するように設計されています。 コンテンツ/オファーにアクセスするためのフォームです。 オファーへのリンクは、ありがとうページに表示したり、ありがとうメールで送信したりできます。
 
-詳細な手順に関するサポートやプログラムのカスタマイズについては、Adobeアカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>チャネル</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>チャネル</th>
    <th>メンバーシップのステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
-  </tr> 
-  <tr> 
-   <td>Web コンテンツ</td> 
-   <td>01 – メンバー 
+  </tr>
+  <tr>
+   <td>Web コンテンツ</td>
+   <td>01 – メンバー
 <br/>02-Engaged-Success</td>
    <td>包含</td>
    <td>デフォルト</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## プログラムには、次のAssetsが含まれています {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>タイプ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>タイプ</th>
    <th>テンプレート名</th>
    <th>アセット名</th>
-  </tr> 
-  <tr> 
-   <td>メール</td> 
+  </tr>
+  <tr>
+   <td>メール</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
    <td>01-Email-Thank You</td>
   </tr>
-  <tr> 
-   <td>ランディングページ</td> 
+  <tr>
+   <td>ランディングページ</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
    <td>01 - LP – 登録</td>
   </tr>
-  <tr> 
-   <td>ランディングページ</td> 
+  <tr>
+   <td>ランディングページ</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
    <td>02 - LP – ありがとうございました</td>
   </tr>
-  <tr> 
-   <td>フォーム</td> 
+  <tr>
+   <td>Form</td>
    <td> </td>
    <td>FM - コンテンツ登録フォーム</td>
   </tr>
-  <tr> 
-   <td>ローカル報告書</td> 
+  <tr>
+   <td>ローカル報告書</td>
    <td> </td>
    <td>メールの効果</td>
   </tr>
-  <tr> 
-   <td>ローカル報告書</td> 
+  <tr>
+   <td>ローカル報告書</td>
    <td> </td>
    <td>ランディングページの効果</td>
   </tr>
-   <tr> 
-   <td>スマートキャンペーン</td> 
+   <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>00 – 獲得プログラムのキャプチャ</td>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>01 – 入力済みフォーム</td>
   </tr>
-  <tr> 
-   <td>スマートキャンペーン</td> 
+  <tr>
+   <td>スマートキャンペーン</td>
    <td> </td>
    <td>02 - エンゲージ済み（プログラム成功）</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
-   <td>Assets – すべてのクリエイティブアセットを格納します。 
+   <td>Assets – すべてのクリエイティブアセットを格納します。
 <br/> （メール、ランディングページ、Formsのサブフォルダー）  </td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
    <td>キャンペーン – すべてのスマートキャンペーンを格納します。</td>
   </tr>
-  <tr> 
-   <td>フォルダー</td> 
+  <tr>
+   <td>フォルダー</td>
    <td> </td>
    <td>レポート</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/ct-yyyy-mm-content-on-marketo-landing-page-1.png)
 
 ## 含まれるマイトークン {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>トークンのタイプ</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>トークンのタイプ</th>
    <th>トークン名</th>
    <th>値</th>
-  </tr> 
-  <tr> 
-   <td>リッチテキスト</td> 
+  </tr>
+  <tr>
+   <td>リッチテキスト</td>
    <td><code>{{my.Content-Description}}</code></td>
-   <td>ダブルクリックして詳細を表示  
-<br/><code><--My Content Description Here--></code> 
-<br/> このコンテンツの説明は、「マイトークン」タブのプログラムレベルで編集します。 
-<br/> 学習者： 
+   <td>ダブルクリックして詳細を表示
+<br/><code><--My Content Description Here--></code>
+<br/> このコンテンツの説明は、「マイトークン」タブのプログラムレベルで編集します。
+<br/> 学習者：
 <li>箇条書き 1</li>
 <li>箇条書き 2</li>
 <li>箇条書き 3</li></td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Content-Title}}</code></td>
    <td><code><--My Content Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Content-Type}}</code></td>
    <td><code><--My Content Type Here--></code></td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Content-URL}}</code></td>
    <td>my.ContentURL?without=http://</td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>テキスト</td> 
+  <tr>
+   <td>テキスト</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>My.ThankYouPageURL?http://なし</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## 競合ルール {#conflict-rules}
