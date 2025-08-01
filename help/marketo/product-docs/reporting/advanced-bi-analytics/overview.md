@@ -125,7 +125,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 次のビデオでは、複数ページのドリルスルーレポートのエクスペリエンスの例を確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451683/?quality=12&learn=on&captions=jpn){transcript=true}
 
 ## Advanced BI Analytics の標準レポート {#standard-reports}
 
