@@ -4,16 +4,16 @@ description: カスタムエンティティの同期の有効化 - Marketo ド�
 title: カスタムエンティティの同期の有効化
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 4f36194fb76fd8e26c2fd6fe49526d88d355a24a
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 90%
 
 ---
 
 # カスタムエンティティの同期の有効化 {#enable-sync-for-a-custom-entity}
 
-[!DNL Dynamics] のカスタムエンティティデータをMarketoで使用できるようにする必要がある場合は、次の方法で同期を有効にします。
+[!DNL Dynamics] のカスタムエンティティデータをMarketo Engageで使用できるようにする必要がある場合は、次の方法で同期を有効にします。
 
 >[!PREREQUISITES]
 >
@@ -40,7 +40,7 @@ ht-degree: 90%
    >
    >カスタムエンティティを有効または無効にするには、グローバル同期を一時的に無効にする必要があります。
 
-1. [!UICONTROL &#x200B; データベース管理 &#x200B;] で、「**[!UICONTROL Dynamics エンティティ同期]**」リンクをクリックします。
+1. [!UICONTROL  データベース管理 ] で、「**[!UICONTROL Dynamics エンティティ同期]**」リンクをクリックします。
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
