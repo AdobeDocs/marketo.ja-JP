@@ -37,7 +37,7 @@ ht-degree: 70%
   </tr>
   <tr>
     <td>マーケティング中断</td>
-    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">マーケティング中断</a>の条件を定義します。</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">マーケティング中断</a>の条件を定義します。</li></td>
   </tr>
   <tr>
     <td>バウンスしたメールアドレス </td>
@@ -48,7 +48,7 @@ ht-degree: 70%
     <td>重複の可能性</td>
     <td><li>重複の可能性のあるリスト内の人物を確認します。</li>
     <li>重複管理戦略を定義して、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html?lang=ja" target="_blank">人物を手動で統合</a>するかどうかを決定します。</li>
-    <li>CRM 統合を行っている場合は、プロセスを定義し、<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">CRM でリードを結合する効果</a>を考慮します。</li></td>
+    <li>CRM 統合を行っている場合は、プロセスを定義し、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">CRM でリードを結合する効果</a>を考慮します。</li></td>
   </tr>
   <tr>
     <td>獲得プログラムなし</td>

@@ -62,7 +62,7 @@ _ユーザーを移行する必要が&#x200B;**ない**&#x200B;場合_ - Marketo
 
 **解決策**:
 
-_ユーザーを移行する必要がある場合_ （および移行組織でドメイン適用が有効になっている場合） – ドメイン適用（DE）ポリシーに準拠するには、メールアドレスをMarketo Engageで更新する必要があります。 または、システム管理者は、[ ドメインを移動 ](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} して、別のドメイン強制（DE）無効ディレクトリに移動するか、DE ポリシー下にない [ 新しいディレクトリを作成 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} することができます。 Marketo Engage管理者は、このユーザーのユーザー移行を移行コンソールから再実行できます。
+_ユーザーを移行する必要がある場合_ （および移行組織でドメイン適用が有効になっている場合） – ドメイン適用（DE）ポリシーに準拠するには、メールアドレスをMarketo Engageで更新する必要があります。 または、システム管理者は、[ ドメインを移動 ](https://helpx.adobe.com/jp/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} して、別のドメイン強制（DE）無効ディレクトリに移動するか、DE ポリシー下にない [ 新しいディレクトリを作成 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} することができます。 Marketo Engage管理者は、このユーザーのユーザー移行を移行コンソールから再実行できます。
 
 _ユーザーを移行する必要がある場合_ （およびドメインの適用が別の組織で有効になっている場合） – ドメインが要求された組織のシステム管理者が、ユーザーのメールアドレスを例外リストに追加する必要があります。 Marketo Engage管理者は、このユーザーのユーザー移行を移行コンソールから再実行できます。
 

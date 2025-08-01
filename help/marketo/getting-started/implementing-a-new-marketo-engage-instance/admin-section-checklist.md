@@ -28,7 +28,7 @@ ht-degree: 67%
     <td>ロール</td>
     <td><li>事前に作成されたロールを確認し、各ロールに割り当てられている権限／アクセス権を確認します。</li>
     <li>組織のニーズに基づいて、<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=ja#create-a-new-role" target="_blank">新しいロールを作成</a>または<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.html?lang=ja#edit-a-role" target="_blank">ロールを編集</a>します。</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user" target="_blank">ユーザを適切なロールに割り当てます</a>。ユーザーは、「ロール」でロールを付与する前に、Adobe Admin Consoleの購読に追加される必要があります。 <a href="/help/marketo/getting-started/initial-setup/user-setup.md"> 初期設定チェックリスト </a> のユーザーの節を参照してください。</li>
+    <li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user" target="_blank">ユーザを適切なロールに割り当てます</a>。ユーザーは、「ロール」でロールを付与する前に、Adobe Admin Consoleの購読に追加される必要があります。 <a href="/help/marketo/getting-started/initial-setup/user-setup.md"> 初期設定チェックリスト </a> のユーザーの節を参照してください。</li>
     <li>ユーザにロールを割り当てた後、ロールごとのユーザ数を確認します。</li>
     <li>トラブルシューティングを簡単に行うために、各 API ユーザに一意のロールを実装します。</li></td>
   </tr>
