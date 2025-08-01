@@ -24,7 +24,7 @@ Marketo EngageのメールDesignerでAEM Assets Asset リポジトリーを活�
 
 スクリーンショット
 
-1. **2}Adobe Experience Manager Cloud Services** の横にある「編集 _をクリックします。_
+1. **2&rbrace;Adobe Experience Manager Cloud Services** の横にある「編集 _をクリックします。_
 
 スクリーンショット
 

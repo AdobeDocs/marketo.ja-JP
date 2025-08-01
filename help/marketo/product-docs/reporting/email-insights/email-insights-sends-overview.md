@@ -13,7 +13,7 @@ ht-degree: 83%
 
 # メールインサイトの送信の概要 {#email-insights-sends-overview}
 
-[!UICONTROL  送信 ] ページで、最近のメール通信の特性を確認します。
+[!UICONTROL &#x200B; 送信 &#x200B;] ページで、最近のメール通信の特性を確認します。
 
 ![](assets/one.png)
 

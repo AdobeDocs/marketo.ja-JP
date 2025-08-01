@@ -69,7 +69,7 @@ ht-degree: 11%
 
 ## Adobe Identity ManagementでのDynamic Chatの設定 {#dynamic-chat-on-adobe-identity-management}
 
-Marketo Engageのネイティブなスレッド自動処理チャネルである [0}Dynamic Chat} を使用するには、](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=ja)Adobe Admin Console[ の以下の手順に従って、ユーザー権限の設定を行います。](https://adminconsole.adobe.com/){target="_blank"}
+Marketo Engageのネイティブなスレッド自動処理チャネルである [0&rbrace;Dynamic Chat&rbrace; を使用するには、](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=ja)Adobe Admin Console[ の以下の手順に従って、ユーザー権限の設定を行います。](https://adminconsole.adobe.com/){target="_blank"}
 
 <table>
 <thead>

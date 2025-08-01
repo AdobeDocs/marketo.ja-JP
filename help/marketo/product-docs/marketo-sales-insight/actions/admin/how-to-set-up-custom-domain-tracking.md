@@ -16,7 +16,7 @@ ht-degree: 78%
 
 go.toutapp.com を指すドメインの CNAME レコードを設定するには、IT チームのサポートが必要です。この CNAME は、すべてのトラッキングリンク（例：go.yourcompany.com）に表示されます。
 
-CNAME が正しく設定されていることを IT チームに確認したら、アクションの [!UICONTROL  カスタムドメイントラッキング ] ページに追加できます。
+CNAME が正しく設定されていることを IT チームに確認したら、アクションの [!UICONTROL &#x200B; カスタムドメイントラッキング &#x200B;] ページに追加できます。
 
 >[!NOTE]
 >
@@ -32,10 +32,10 @@ CNAME が正しく設定されていることを IT チームに確認したら�
 
    ![](assets/how-to-set-up-custom-domain-tracking-1.png)
 
-1. [!UICONTROL  管理設定 ] で、「**[!UICONTROL トラッキング]**」を選択します。
+1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、「**[!UICONTROL トラッキング]**」を選択します。
 
    ![](assets/how-to-set-up-custom-domain-tracking-2.png)
 
-1. 「[!UICONTROL  カスタムドメイントラッキング ]」タブで、CNAME を入力し、「**[!UICONTROL 接続]**」をクリックします。
+1. 「[!UICONTROL &#x200B; カスタムドメイントラッキング &#x200B;]」タブで、CNAME を入力し、「**[!UICONTROL 接続]**」をクリックします。
 
    ![](assets/how-to-set-up-custom-domain-tracking-3.png)

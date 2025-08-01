@@ -35,7 +35,7 @@ ht-degree: 59%
 
    ![](assets/one-1.png)
 
-1. [!UICONTROL  管理者設定 ] で **[!UICONTROL 購読解除]** を選択します。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 購読解除]** を選択します。
 
    ![](assets/two-2.png)
 
@@ -82,7 +82,7 @@ ht-degree: 59%
 
    ![](assets/ten.png)
 
-1. [!UICONTROL  メールオプトアウト ] をページレイアウトにドラッグ&amp;ドロップします。
+1. [!UICONTROL &#x200B; メールオプトアウト &#x200B;] をページレイアウトにドラッグ&amp;ドロップします。
 
    ![](assets/11.png)
 

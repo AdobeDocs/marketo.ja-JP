@@ -28,8 +28,8 @@ ht-degree: 33%
   <th>属性</th>
  </tr>
  <tr>
-  <th rowspan="9">[!UICONTROL 販売メールの送信 ]</th>
-  <td>[!UICONTROL の送信者 ]</td>
+  <th rowspan="9">[!UICONTROL 販売メールの送信 &#x200B;]</th>
+  <td>[!UICONTROL の送信者 &#x200B;]</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -44,20 +44,20 @@ ht-degree: 33%
   <td>[!UICONTROL 販売キャンペーン URL]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売テンプレート名 ]</td>
+  <td>[!UICONTROL 販売テンプレート名 &#x200B;]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL メールの件名 ]</td>
+  <td>[!UICONTROL メールの件名 &#x200B;]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売キャンペーン名 ]</td>
+  <td>[!UICONTROL 販売キャンペーン名 &#x200B;]</td>
  </tr>
  <tr>
   <td>[!UICONTROL Marketo販売担当者 ID]</td>
  </tr>
  <tr>
-  <th rowspan="9">[!UICONTROL のオープン販売電子メール ]</th>
-  <td>[!UICONTROL の送信者 ]</td>
+  <th rowspan="9">[!UICONTROL のオープン販売電子メール &#x200B;]</th>
+  <td>[!UICONTROL の送信者 &#x200B;]</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -72,23 +72,23 @@ ht-degree: 33%
   <td>[!UICONTROL 販売キャンペーン URL]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売テンプレート名 ]</td>
+  <td>[!UICONTROL 販売テンプレート名 &#x200B;]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL メールの件名 ]</td>
+  <td>[!UICONTROL メールの件名 &#x200B;]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売キャンペーン名 ]</td>
+  <td>[!UICONTROL 販売キャンペーン名 &#x200B;]</td>
  </tr>
  <tr>
   <td>[!UICONTROL Marketo販売担当者 ID]</td>
  </tr>
  <tr>
-  <th rowspan="10">[!UICONTROL クリック済み販売メール ]</th>
-  <td>[!UICONTROL リンク ]</td>
+  <th rowspan="10">[!UICONTROL クリック済み販売メール &#x200B;]</th>
+  <td>[!UICONTROL リンク &#x200B;]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL の送信者 ]</td>
+  <td>[!UICONTROL の送信者 &#x200B;]</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -103,20 +103,20 @@ ht-degree: 33%
   <td>[!UICONTROL 販売キャンペーン URL]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売テンプレート名 ]</td>
+  <td>[!UICONTROL 販売テンプレート名 &#x200B;]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL メールの件名 ]</td>
+  <td>[!UICONTROL メールの件名 &#x200B;]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売キャンペーン名 ]</td>
+  <td>[!UICONTROL 販売キャンペーン名 &#x200B;]</td>
  </tr>
  <tr>
   <td>[!UICONTROL Marketo販売担当者 ID]</td>
  </tr>
 <tr>
-  <th rowspan="3">[!UICONTROL がセールスメールに返信しました ]</th>
-  <td>[!UICONTROL の受信元 ]</td>
+  <th rowspan="3">[!UICONTROL がセールスメールに返信しました &#x200B;]</th>
+  <td>[!UICONTROL の受信元 &#x200B;]</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -125,51 +125,51 @@ ht-degree: 33%
   <td>[!UICONTROL Marketo販売担当者 ID]</td>
  </tr>
  <tr>
-  <th rowspan="11">[!UICONTROL がセールス コールを受信しました ]</th>
+  <th rowspan="11">[!UICONTROL がセールス コールを受信しました &#x200B;]</th>
   <td>[!UICONTROL Sales Call Made By]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売呼び出しの状態 ]</td>
+  <td>[!UICONTROL 販売呼び出しの状態 &#x200B;]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売呼び出し件名 ]</td>
+  <td>[!UICONTROL 販売呼び出し件名 &#x200B;]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売キャンペーン名 ]</td>
+  <td>[!UICONTROL 販売キャンペーン名 &#x200B;]</td>
  </tr>
  <tr>
   <td>[!UICONTROL 販売キャンペーン URL]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売電話番号の呼び出し ]</td>
+  <td>[!UICONTROL 販売電話番号の呼び出し &#x200B;]</td>
  </tr>
  <tr>
   <td>ソース</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売呼び出し期間 ]</td>
+  <td>[!UICONTROL 販売呼び出し期間 &#x200B;]</td>
  </tr>
  <tr>
   <td>[!UICONTROL 販売呼び出し録画 URL]</td>
  </tr>
   <tr>
-  <td>[!UICONTROL 販売呼び出しの応答者 ]</td>
+  <td>[!UICONTROL 販売呼び出しの応答者 &#x200B;]</td>
  </tr>
  <tr>
   <td>[!UICONTROL Marketo販売担当者 ID]</td>
  </tr>
  <tr>
-  <th rowspan="6">[!UICONTROL 販売キャンペーンに追加 ]</th>
-  <td>[!UICONTROL 販売キャンペーン名 ]</td>
+  <th rowspan="6">[!UICONTROL 販売キャンペーンに追加 &#x200B;]</th>
+  <td>[!UICONTROL 販売キャンペーン名 &#x200B;]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売呼び出しの状態 ]</td>
+  <td>[!UICONTROL 販売呼び出しの状態 &#x200B;]</td>
  </tr>
  <tr>
   <td>[!UICONTROL 販売キャンペーン URL]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL の送信者 ]</td>
+  <td>[!UICONTROL の送信者 &#x200B;]</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -178,17 +178,17 @@ ht-degree: 33%
   <td>[!UICONTROL 販売キャンペーン ID]</td>
  </tr>
  <tr>
-  <th rowspan="6">[!UICONTROL をセールス キャンペーンから削除 ]</th>
-  <td>[!UICONTROL 販売キャンペーン名 ]</td>
+  <th rowspan="6">[!UICONTROL をセールス キャンペーンから削除 &#x200B;]</th>
+  <td>[!UICONTROL 販売キャンペーン名 &#x200B;]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 販売呼び出しの状態 ]</td>
+  <td>[!UICONTROL 販売呼び出しの状態 &#x200B;]</td>
  </tr>
  <tr>
   <td>[!UICONTROL 販売キャンペーン URL]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL の送信者 ]</td>
+  <td>[!UICONTROL の送信者 &#x200B;]</td>
  </tr>
  <tr>
   <td>ソース</td>
@@ -223,15 +223,15 @@ ht-degree: 33%
  </tr>
  <tbody>
  <tr>
-   <td><strong>[!UICONTROL の詳細 ]</strong></td>
+   <td><strong>[!UICONTROL の詳細 &#x200B;]</strong></td>
    <td>バウンスエラーメッセージの詳細。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL メール ]</strong></td>
+   <td><strong>[!UICONTROL メール &#x200B;]</strong></td>
    <td>バウンスしたメールアドレス。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL リンク ]</strong></td>
+   <td><strong>[!UICONTROL リンク &#x200B;]</strong></td>
    <td>クリックされた URL。</td>
   </tr>
   <tr>
@@ -239,15 +239,15 @@ ht-degree: 33%
    <td>[!DNL Sales Insight Actions] の人物レコードの一意の ID。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL の受信元 ]</strong></td>
+   <td><strong>[!UICONTROL の受信元 &#x200B;]</strong></td>
    <td>メール送信者のメールアドレス。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL 販売呼び出しの応答者 ]</strong></td>
+   <td><strong>[!UICONTROL 販売呼び出しの応答者 &#x200B;]</strong></td>
    <td>電話に出た人の名前。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL 販売呼び出し期間 ]</strong></td>
+   <td><strong>[!UICONTROL 販売呼び出し期間 &#x200B;]</strong></td>
    <td>電話の長さ（秒）。</td>
   </tr>
   <tr>
@@ -259,11 +259,11 @@ ht-degree: 33%
    <td>通話記録の URL。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL 販売呼び出しの状態 ]</strong></td>
+   <td><strong>[!UICONTROL 販売呼び出しの状態 &#x200B;]</strong></td>
    <td>電話の最終的な電話ステータスを保存します。このステータスには、完了、応答なし、キャンセル、失敗が含まれます。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL 販売呼び出し件名 ]</strong></td>
+   <td><strong>[!UICONTROL 販売呼び出し件名 &#x200B;]</strong></td>
    <td>ダイヤラー内でセールスユーザーによって選択された電話の結果。</td>
   </tr>
   <tr>
@@ -271,7 +271,7 @@ ht-degree: 33%
    <td>[!DNL Sales Insight Actions] の Sales Campaign アセットの一意の ID。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL 販売キャンペーン名 ]</strong></td>
+   <td><strong>[!UICONTROL 販売キャンペーン名 &#x200B;]</strong></td>
    <td>セールスキャンペーンの名前。</td>
   </tr>
   <tr>
@@ -279,15 +279,15 @@ ht-degree: 33%
    <td>[!DNL Sales Insight Actions] Sales Campaign の URL。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL 販売メールの件名 ]</strong></td>
+   <td><strong>[!UICONTROL 販売メールの件名 &#x200B;]</strong></td>
    <td>メールの件名行と一意の ID（例：件名（SIA-12345678）</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL 販売電話番号の呼び出し ]</strong></td>
+   <td><strong>[!UICONTROL 販売電話番号の呼び出し &#x200B;]</strong></td>
    <td>セールスが発信した電話番号。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL 販売テンプレート名 ]</strong></td>
+   <td><strong>[!UICONTROL 販売テンプレート名 &#x200B;]</strong></td>
    <td>[!DNL Sales Insight Actions] 内の電子メールテンプレートの名前。</td>
   </tr>
   <tr>
@@ -295,7 +295,7 @@ ht-degree: 33%
    <td>[!DNL Sales Insight Actions] メールテンプレートの URL。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL の送信者 ]</strong></td>
+   <td><strong>[!UICONTROL の送信者 &#x200B;]</strong></td>
    <td>メール送信者のメールアドレス。</td>
   </tr>
   <tr>

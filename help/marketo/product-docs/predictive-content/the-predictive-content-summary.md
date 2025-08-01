@@ -27,19 +27,19 @@ ht-degree: 74%
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
-## [!UICONTROL  予測エンゲージメント ] {#predictive-engagement}
+## [!UICONTROL &#x200B; 予測エンゲージメント &#x200B;] {#predictive-engagement}
 
 合計クリック数とダイレクトリード数を比較し、コンバージョン率を確認し、様々なソースのパフォーマンスを比較します。
 
 ![](assets/predictive-engagement-actual.png)
 
-## [!UICONTROL  ビュー別コンテンツのトレンド ]  {#content-trend-by-views}
+## [!UICONTROL &#x200B; ビュー別コンテンツのトレンド &#x200B;]  {#content-trend-by-views}
 
 すべてのコンテンツに関するビューと予測コンテンツとの一致を比較します。
 
 ![](assets/4.png)
 
-## [!UICONTROL  エンゲージメント別上位カテゴリ ] {#top-categories-by-engagement}
+## [!UICONTROL &#x200B; エンゲージメント別上位カテゴリ &#x200B;] {#top-categories-by-engagement}
 
 最も魅力的なコンテンツのカテゴリを知りたい場合、このグラフでわかります。
 

@@ -86,11 +86,11 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 ![](assets/four.png)
 
-[!UICONTROL  認証タイプ ] と [!UICONTROL Source タイプ ] の 2 つのドロップダウンが表示されます。
+[!UICONTROL &#x200B; 認証タイプ &#x200B;] と [!UICONTROL Source タイプ &#x200B;] の 2 つのドロップダウンが表示されます。
 
 ![](assets/5.png)
 
-[!UICONTROL  認証タイプ ] として「[!UICONTROL  同意 ]」を選択すると、「[!UICONTROL  同意日 ]」および「[!UICONTROL  処理の目的 ]」の 2 つの必須フィールドが表示されます。 この 2 つのフィールドは、他のオプションには適用されません。
+[!UICONTROL &#x200B; 認証タイプ &#x200B;] として「[!UICONTROL &#x200B; 同意 &#x200B;]」を選択すると、「[!UICONTROL &#x200B; 同意日 &#x200B;]」および「[!UICONTROL &#x200B; 処理の目的 &#x200B;]」の 2 つの必須フィールドが表示されます。 この 2 つのフィールドは、他のオプションには適用されません。
 
 ![](assets/6.png)
 
@@ -100,7 +100,7 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 一括アクション** [!DNL Marketo Sales Connect] を使用すると、連絡先の認証タイプとSource タイプを一括でアップデートして、コンプライアンスプロセスの貴重な時間を節約することもできます。
 
-[!UICONTROL  人物 ] ページから 1 人以上の連絡先を選択すると、上部のコンテナに「認証」ボタンと「Source」ボタンが表示されます。 これらのボタンを使用して、複数の連絡先の認証またはソースを同時に設定できます。
+[!UICONTROL &#x200B; 人物 &#x200B;] ページから 1 人以上の連絡先を選択すると、上部のコンテナに「認証」ボタンと「Source」ボタンが表示されます。 これらのボタンを使用して、複数の連絡先の認証またはソースを同時に設定できます。
 
 ![](assets/eight.jpg)
 
@@ -132,24 +132,24 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
  </colgroup>
  <tbody>
   <tr>
-   <td>[!UICONTROL の名 ]</td>
-   <td>[!UICONTROL Web サイト ]</td>
+   <td>[!UICONTROL の名 &#x200B;]</td>
+   <td>[!UICONTROL Web サイト &#x200B;]</td>
    <td>[!DNL Facebook]</td>
   </tr>
   <tr>
-   <td>[!UICONTROL の姓 ]</td>
-   <td>[!UICONTROL その他 ]</td>
+   <td>[!UICONTROL の姓 &#x200B;]</td>
+   <td>[!UICONTROL その他 &#x200B;]</td>
    <td>[!DNL Twitter]</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 会社 ]</td>
-   <td>[!UICONTROL 更新日時 ]</td>
+   <td>[!UICONTROL 会社 &#x200B;]</td>
+   <td>[!UICONTROL 更新日時 &#x200B;]</td>
    <td>[!DNL LinkedIn]</td>
   </tr>
   <tr>
-   <td>[!UICONTROL タイトル ]</td>
-   <td>[!UICONTROL の作成場所 ]</td>
-   <td>[!UICONTROL のエクスポート先 ]</td>
+   <td>[!UICONTROL タイトル &#x200B;]</td>
+   <td>[!UICONTROL の作成場所 &#x200B;]</td>
+   <td>[!UICONTROL のエクスポート先 &#x200B;]</td>
   </tr>
   <tr>
    <td>[!UICONTROL メール ID]</td>
@@ -157,7 +157,7 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
    <td><br></td>
   </tr>
   <tr>
-   <td>[!UICONTROL 電話番号 ]</td>
+   <td>[!UICONTROL 電話番号 &#x200B;]</td>
    <td>[!UICONTROL 人物 ID]</td>
    <td><br></td>
   </tr>

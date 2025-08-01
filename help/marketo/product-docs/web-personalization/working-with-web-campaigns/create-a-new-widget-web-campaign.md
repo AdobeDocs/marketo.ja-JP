@@ -95,7 +95,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
 >[!NOTE]
 >
->**Web キャンペーンの A/B テストを実施する場合、最適な結果を得るために、1 つ以上の Web キャンペーンの** A/B テスト[を実施できます。](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)[!UICONTROL  自動調整 ] 機能を使用すると、プラットフォームはよりパフォーマンスの高いキャンペーンを自動的に認識し、コンバージョン率が最も高いキャンペーンを続行し、他のキャンペーンを一時停止します。
+>**Web キャンペーンの A/B テストを実施する場合、最適な結果を得るために、1 つ以上の Web キャンペーンの** A/B テスト[を実施できます。](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md) [!UICONTROL &#x200B; 自動調整 &#x200B;] 機能を使用すると、プラットフォームはよりパフォーマンスの高いキャンペーンを自動的に認識し、コンバージョン率が最も高いキャンペーンを続行し、他のキャンペーンを一時停止します。
 
 ## Web キャンペーンを編集する {#edit-a-web-campaign}
 
@@ -113,7 +113,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
 ## Web キャンペーンをプレビューする {#preview-a-web-campaign}
 
-[!UICONTROL Web キャンペーン ] ページで、プレビューする Web キャンペーンの **[!UICONTROL プレビュー]** をクリックします
+[!UICONTROL Web キャンペーン &#x200B;] ページで、プレビューする Web キャンペーンの **[!UICONTROL プレビュー]** をクリックします
 
 ![](assets/widget-campaign-preview-hand.png)
 

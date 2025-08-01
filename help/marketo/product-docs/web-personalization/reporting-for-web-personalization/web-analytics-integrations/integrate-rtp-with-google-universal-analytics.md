@@ -40,16 +40,17 @@ RTP のデータを [!DNL Google Universal Analytics] 用すると、B2B ユー�
 1. Google Analytics で、以下の手順を実行します。
 
    1. 「**[!UICONTROL 管理]**」に移動します
-   1. **[!UICONTROL アカウント ].** を選択します
-   1. **[!UICONTROL プロパティ ].** を選択します。
+   1. **[!UICONTROL アカウント &#x200B;].** を選択します
+   1. **[!UICONTROL プロパティ &#x200B;].** を選択します。
    1. 「**[!UICONTROL カスタム定義]**」の「**[!UICONTROL カスタムディメンション]**」を選択します。
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 新しいカスタムディメンションを追加します。「**[!UICONTROL +新規カスタムフィールド]**」をクリックします
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. 次の **[!UICONTROL カスタムディメンション ] を追加します。**
+1. 次の **[!UICONTROL カスタムディメンション &#x200B;] を追加します。**
 
 <table>
  <tbody>
@@ -97,7 +98,7 @@ GUA でカスタムディメンションをアクティブにしたら、RTP プ
 
 ## RTP アカウントで、GUA 連携を有効にする {#activate-the-gua-integration-in-your-rtp-account}
 
-1. RTP プラットフォームで、**[!UICONTROL アカウント設定 ].** に移動します。
+1. RTP プラットフォームで、**[!UICONTROL アカウント設定 &#x200B;].** に移動します。
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
@@ -117,8 +118,8 @@ GUA でカスタムディメンションをアクティブにしたら、RTP プ
 
 ## Google Analytics で古いダッシュボードを削除する {#remove-old-dashboards-in-google-analytics}
 
-1. Google Analytics で、以下の手順を実行します。**[!UICONTROL レポート ].** に移動します。
-1. **[!UICONTROL ダッシュボード ].** をクリックします。
+1. Google Analytics で、以下の手順を実行します。**[!UICONTROL レポート &#x200B;].** に移動します。
+1. **[!UICONTROL ダッシュボード &#x200B;].** をクリックします。
 1. **[!UICONTROL マイレポート]**&#x200B;を選択します（「RTP B2B」または「RTP Performance」）。
 1. 「**[!UICONTROL マイレポートを削除]**」をクリックします。
 

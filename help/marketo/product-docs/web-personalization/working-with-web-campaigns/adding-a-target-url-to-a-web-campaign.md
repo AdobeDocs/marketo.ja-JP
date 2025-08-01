@@ -38,11 +38,11 @@ ht-degree: 90%
  </thead>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL 任意のページ ]</strong></td>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL 任意のページ &#x200B;]</strong></td>
    <td colspan="1" rowspan="1"><p>任意のページにキャンペーンを表示できるようにします。</p></td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL 一致時に URL パラメーターを含める ]</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL 一致時に URL パラメーターを含める &#x200B;]</strong></p></td>
    <td colspan="1" rowspan="1">URL パラメーターを追加して、一致させ、このパラメーターを含む URL でキャンペーンを表示します。例：campaign=cpc</td>
   </tr>
  </tbody>
@@ -50,7 +50,7 @@ ht-degree: 90%
 
 ## ターゲット URL への複数の URL の追加 {#adding-multiple-urls-to-target-url}
 
-プラスアイコン（![—](assets/image2015-2-18-8-3a40-3a59.png)）をクリックすると、[!UICONTROL  複数値エントリ ] ダイアログが開き、複数の URL を追加できます。 1 行に 1 つの URL を追加します。
+プラスアイコン（![—](assets/image2015-2-18-8-3a40-3a59.png)）をクリックすると、[!UICONTROL &#x200B; 複数値エントリ &#x200B;] ダイアログが開き、複数の URL を追加できます。 1 行に 1 つの URL を追加します。
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 

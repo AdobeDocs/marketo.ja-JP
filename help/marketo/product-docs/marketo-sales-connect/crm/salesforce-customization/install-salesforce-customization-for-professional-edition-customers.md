@@ -26,7 +26,7 @@ ht-degree: 32%
 
    ![](assets/one-4.png)
 
-1. [!UICONTROL  管理者設定 ] で、**[!UICONTROL Salesforce]** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、**[!UICONTROL Salesforce]** をクリックします。
 
    ![](assets/two-4.png)
 

@@ -22,7 +22,7 @@ ht-degree: 94%
 * RTP B2B
 * RTP エンゲージメント
 
-## [!UICONTROL  カスタムレポート ] の設定 {#setting-up-a-custom-report}
+## [!UICONTROL &#x200B; カスタムレポート &#x200B;] の設定 {#setting-up-a-custom-report}
 
 1. Google Analytics にログインします。
 
@@ -121,7 +121,7 @@ ht-degree: 94%
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. 「[!UICONTROL  指標グループ ]」セクションで、ビジネスに関連する指標を選択します。 次にレコメンデーションを示します。
+1. 「[!UICONTROL &#x200B; 指標グループ &#x200B;]」セクションで、ビジネスに関連する指標を選択します。 次にレコメンデーションを示します。
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 

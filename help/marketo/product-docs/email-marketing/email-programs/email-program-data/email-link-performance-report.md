@@ -44,29 +44,29 @@ ht-degree: 94%
 <table>
  <thead>
   <tr>
-   <th colspan="1" rowspan="1">[!UICONTROL 列 ]</th>
+   <th colspan="1" rowspan="1">[!UICONTROL 列 &#x200B;]</th>
    <th colspan="1" rowspan="1">説明</th>
   </tr>
  </thead>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1">[!UICONTROL リンク ]</td>
+   <td colspan="1" rowspan="1">[!UICONTROL リンク &#x200B;]</td>
    <td colspan="1" rowspan="1">メール名でグループ化。<br>プラス（+）をクリックすると、そのメールに含まれているすべてのリンクが表示されます。</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1">[!UICONTROL クリック数 ]</td>
+   <td colspan="1" rowspan="1">[!UICONTROL クリック数 &#x200B;]</td>
    <td colspan="1" rowspan="1">そのリンクがクリックされた回数。</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1">% [!UICONTROL クリック数 ]</td>
+   <td colspan="1" rowspan="1">% [!UICONTROL クリック数 &#x200B;]</td>
    <td colspan="1" rowspan="1">そのメール内のすべてのリンクでの合計クリック数のうち、このリンクに対する割合。</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1">[!UICONTROL のユーザー ]</td>
+   <td colspan="1" rowspan="1">[!UICONTROL のユーザー &#x200B;]</td>
    <td colspan="1" rowspan="1">リンクをクリックしたユニークユーザ数。</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1">% [!UICONTROL ユーザー ]</td>
+   <td colspan="1" rowspan="1">% [!UICONTROL ユーザー &#x200B;]</td>
    <td colspan="1" rowspan="1">メール内のリンクをクリックした合計ユニークユーザ数のうち、このリンクに対する割合。</td>
   </tr>
  </tbody>

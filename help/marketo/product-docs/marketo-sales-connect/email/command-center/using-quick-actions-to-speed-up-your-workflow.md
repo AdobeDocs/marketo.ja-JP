@@ -35,11 +35,11 @@ ht-degree: 96%
  </colgroup>
  <tbody>
   <tr>
-   <td>[!UICONTROL アーカイブ解除 ]</td>
+   <td>[!UICONTROL アーカイブ解除 &#x200B;]</td>
    <td>メールを配信されたフォルダーに戻し、表示およびクリックの追跡を再開します。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 削除 ]</td>
+   <td>[!UICONTROL 削除 &#x200B;]</td>
    <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td>
   </tr>
  </tbody>
@@ -54,11 +54,11 @@ ht-degree: 96%
  </colgroup>
  <tbody>
   <tr>
-   <td>[!UICONTROL 編集 ]</td>
+   <td>[!UICONTROL 編集 &#x200B;]</td>
    <td>編集する作成ウィンドウでメールを開きます。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 削除 ]</td>
+   <td>[!UICONTROL 削除 &#x200B;]</td>
    <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td>
   </tr>
  </tbody>
@@ -73,11 +73,11 @@ ht-degree: 96%
  </colgroup>
  <tbody>
   <tr>
-   <td>[!UICONTROL 再試行送信 ]</td>
+   <td>[!UICONTROL 再試行送信 &#x200B;]</td>
    <td>即座にメールの再送信を試みます。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 削除 ]</td>
+   <td>[!UICONTROL 削除 &#x200B;]</td>
    <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td>
   </tr>
  </tbody>

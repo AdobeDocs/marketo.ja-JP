@@ -15,7 +15,7 @@ ht-degree: 91%
 
 メールパフォーマンス統計を[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)でグループ化して表示するには、キャンペーンメール効果レポートを実行します。
 
-1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL キャンペーンメール効果]**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
+1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL キャンペーンメール効果]**&#x200B;[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**[!UICONTROL レポート]**」タブをクリックします。
 
@@ -31,11 +31,11 @@ ht-degree: 91%
 
    | 列 | 説明 |
    |---|---|
-   | [!UICONTROL  ハードバウンス ] | メールアドレスが存在しないなどの恒久的な状態が原因で、メールが拒否されました。 |
-   | [!UICONTROL  ソフトバウンス ] | サーバーがダウンしている、インボックスがいっぱいになっているなどの一時的な状態が原因で、メールが拒否されました。 |
+   | [!UICONTROL &#x200B; ハードバウンス &#x200B;] | メールアドレスが存在しないなどの恒久的な状態が原因で、メールが拒否されました。 |
+   | [!UICONTROL &#x200B; ソフトバウンス &#x200B;] | サーバーがダウンしている、インボックスがいっぱいになっているなどの一時的な状態が原因で、メールが拒否されました。 |
    | [!UICONTROL 保留中] | メールは配信中です。 |
-   | [!UICONTROL  クリックされたリンク ] | メール内のリンクをクリックしたメール受信者の数。 |
-   | [!UICONTROL  登録解除 ] | メールの&#x200B;**[!UICONTROL 登録解除]**&#x200B;リンクをクリックし、フォームに記入したメール受信者の数。 |
+   | [!UICONTROL &#x200B; クリックされたリンク &#x200B;] | メール内のリンクをクリックしたメール受信者の数。 |
+   | [!UICONTROL &#x200B; 登録解除 &#x200B;] | メールの&#x200B;**[!UICONTROL 登録解除]**&#x200B;リンクをクリックし、フォームに記入したメール受信者の数。 |
 
    >[!NOTE]
    >

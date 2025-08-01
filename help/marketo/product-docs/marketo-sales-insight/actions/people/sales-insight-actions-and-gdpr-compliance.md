@@ -73,8 +73,8 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 * [!UICONTROL CRM 同期]
 * [!UICONTROL インポート]
-* [!UICONTROL  手動アップロード ]
-* [!UICONTROL Chrome拡張機能 ]
+* [!UICONTROL &#x200B; 手動アップロード &#x200B;]
+* [!UICONTROL Chrome拡張機能 &#x200B;]
 * [!UICONTROL その他]
 
 **コンプライアンスカードの編集**
@@ -83,15 +83,15 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
 
-[!UICONTROL  認証タイプ ] と [!UICONTROL Source タイプ ] の 2 つのドロップダウンが表示されます。
+[!UICONTROL &#x200B; 認証タイプ &#x200B;] と [!UICONTROL Source タイプ &#x200B;] の 2 つのドロップダウンが表示されます。
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 
-[!UICONTROL  認証タイプ ] として「同意」を選択すると、「[!UICONTROL  同意日 ]」および「[!UICONTROL  処理の目的 ]」の 2 つの必須フィールドが表示されます。 この 2 つのフィールドは、他のオプションには適用されません。
+[!UICONTROL &#x200B; 認証タイプ &#x200B;] として「同意」を選択すると、「[!UICONTROL &#x200B; 同意日 &#x200B;]」および「[!UICONTROL &#x200B; 処理の目的 &#x200B;]」の 2 つの必須フィールドが表示されます。 この 2 つのフィールドは、他のオプションには適用されません。
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-3.png)
 
-[!UICONTROL  認証の種類 ] または [!UICONTROL Sourceの種類 ] に&quot;[!UICONTROL  その他 ]&quot;を選択した場合は、[!UICONTROL Sourceの種類 ] を説明するテキストを入力できます。
+[!UICONTROL &#x200B; 認証の種類 &#x200B;] または [!UICONTROL Sourceの種類 &#x200B;] に&quot;[!UICONTROL &#x200B; その他 &#x200B;]&quot;を選択した場合は、[!UICONTROL Sourceの種類 &#x200B;] を説明するテキストを入力できます。
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-4.png)
 
@@ -99,7 +99,7 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 [!DNL Sales Insight Actions] た、連絡先の認証タイプとSource タイプを一括でアップデートして、コンプライアンスプロセスの貴重な時間を節約することもできます。
 
-[!UICONTROL  人物 ] ページから 1 人以上の連絡先を選択すると、右側にドータ（3 つのドットメニュー）が表示されます。 クリックすると、「認証」と「ソース」がオプションに表示されます。複数の取引先責任者の認証またはソースを同時に設定できます。
+[!UICONTROL &#x200B; 人物 &#x200B;] ページから 1 人以上の連絡先を選択すると、右側にドータ（3 つのドットメニュー）が表示されます。 クリックすると、「認証」と「ソース」がオプションに表示されます。複数の取引先責任者の認証またはソースを同時に設定できます。
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
@@ -107,7 +107,7 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-6.png)
 
-[!UICONTROL  認証 ] タイプが更新されると、確認ポップアップが表示され、更新された詳細がユーザーの詳細表示の準拠カードに表示されます。
+[!UICONTROL &#x200B; 認証 &#x200B;] タイプが更新されると、確認ポップアップが表示され、更新された詳細がユーザーの詳細表示の準拠カードに表示されます。
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-7.png)
 
@@ -131,24 +131,24 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
  </colgroup>
  <tbody>
   <tr>
-   <td>[!UICONTROL の名 ]</td>
-   <td>[!UICONTROL Web サイト ]</td>
+   <td>[!UICONTROL の名 &#x200B;]</td>
+   <td>[!UICONTROL Web サイト &#x200B;]</td>
    <td>[!DNL Facebook]</td>
   </tr>
   <tr>
-   <td>[!UICONTROL の姓 ]</td>
-   <td>[!UICONTROL その他 ]</td>
+   <td>[!UICONTROL の姓 &#x200B;]</td>
+   <td>[!UICONTROL その他 &#x200B;]</td>
    <td>[!DNL Twitter]</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 会社 ]</td>
-   <td>[!UICONTROL 更新日時 ]</td>
+   <td>[!UICONTROL 会社 &#x200B;]</td>
+   <td>[!UICONTROL 更新日時 &#x200B;]</td>
    <td>[!DNL LinkedIn]</td>
   </tr>
   <tr>
-   <td>[!UICONTROL タイトル ]</td>
-   <td>[!UICONTROL の作成場所 ]</td>
-   <td>[!UICONTROL のエクスポート先 ]</td>
+   <td>[!UICONTROL タイトル &#x200B;]</td>
+   <td>[!UICONTROL の作成場所 &#x200B;]</td>
+   <td>[!UICONTROL のエクスポート先 &#x200B;]</td>
   </tr>
   <tr>
    <td>[!UICONTROL メール ID]</td>
@@ -156,7 +156,7 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
    <td><br></td>
   </tr>
   <tr>
-   <td>[!UICONTROL 電話番号 ]</td>
+   <td>[!UICONTROL 電話番号 &#x200B;]</td>
    <td>[!UICONTROL 人物 ID]</td>
    <td><br></td>
   </tr>
@@ -179,7 +179,7 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 GDPR の一般的に誤解される領域として、組織のデータベースから配信停止する取引先責任者が含まれます。購読解除を選択したユーザーのデータの保護に関する新しいルールに準拠するために、[!DNL Sales Insight Actions] に次の機能が含まれています。
 
-**登録解除リンク：**Sales Connect Web アプリケーションから送信されるすべてのメールに登録解除リンクが自動的に追加され、連絡先にアクセス可能なオプトアウト方法が提供されます。
+**登録解除リンク：**&#x200B;Sales Connect Web アプリケーションから送信されるすべてのメールに登録解除リンクが自動的に追加され、連絡先にアクセス可能なオプトアウト方法が提供されます。
 **購読解除同期：** ユーザーは、CRM （Salesforce）との間で購読解除を同期して、オプトアウトが最新であることを確認できます。
 **購読解除履歴：** ユーザーは、オプトアウトおよびオプトインの履歴をユーザーの詳細表示に表示できます。
 **配信停止の削除：**&#x200B;配信停止済みの取引先責任者を再度オプトインするには、ユーザが管理者権限を持っている必要があり、その取引先責任者が自身に連絡することに新たに同意したことを示す必要があります。

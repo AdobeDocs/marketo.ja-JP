@@ -27,19 +27,19 @@ ht-degree: 83%
 
    <table>
    <tr>
-   <td><b>[!UICONTROL 開封数 ]</b></td>
+   <td><b>[!UICONTROL 開封数 &#x200B;]</b></td>
    <td>メールに画像がダウンロードされると、開封が登録されます。画像を含めていなくても、デフォルトで Marketo がすべての HTML メールに 1 つのトラッキングピクセルを挿入します。</td>
    </tr>
    <tr>
-   <td><b>[!UICONTROL クリック数 ]</b></td>
+   <td><b>[!UICONTROL クリック数 &#x200B;]</b></td>
    <td>デフォルトでは、メール内のリンクにはトラッキング情報が埋め込まれており、誰がどのリンクをクリックしたか、リンクが合計で何回クリックされたかなどを確認できます。</td>
    </tr>
    <tr>
-   <td><b>[!UICONTROL クリックして開く ] %</b></td>
+   <td><b>[!UICONTROL クリックして開く &#x200B;] %</b></td>
    <td>開封され、メール内のリンクがクリックされたメールの割合。これは、ユニーククリック数をユニーク開封数で割り、100 倍してパーセンテージとして表示することで、メールの関連性とコンテキストを測定します。</td>
    </tr>
    <tr>
-   <td><b>[!UICONTROL エンゲージメントスコア ]</b></td>
+   <td><b>[!UICONTROL エンゲージメントスコア &#x200B;]</b></td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">エンゲージメントスコア</a>は、コンテンツの効果を判断するのに役立ちます。</td>
    </tr>
    </table>

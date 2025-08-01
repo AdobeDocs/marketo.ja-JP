@@ -40,14 +40,14 @@ Salesforce管理者は、カスタムアクティビティフィールドを [!D
   <th>サイズ</th>
  </tr>
   <tr>
-  <td>[!UICONTROL 呼び出しの結果 ]</td>
+  <td>[!UICONTROL 呼び出しの結果 &#x200B;]</td>
   <td>mktosales_call_outcome</td>
   <td>mktosales_call_outcome__c</td>
   <td>テキスト</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 呼び出しの理由 ]</td>
+  <td>[!UICONTROL 呼び出しの理由 &#x200B;]</td>
   <td>mktosales_call_reason</td>
   <td>mktosales_call_reason__c</td>
   <td>テキスト</td>
@@ -68,14 +68,14 @@ Salesforce管理者は、カスタムアクティビティフィールドを [!D
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketoセールス・キャンペーン ]</td>
+  <td>[!UICONTROL Marketoセールス・キャンペーン &#x200B;]</td>
   <td>MSE_Campaign</td>
   <td>MSE_Campaign__c</td>
   <td>テキスト</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo Sales Campaign の現在の手順 ]</td>
+  <td>[!UICONTROL Marketo Sales Campaign の現在の手順 &#x200B;]</td>
   <td>MSE_Current_Campaign_Step</td>
   <td>MSE_Current_Campaign_Step__c</td>
   <td>テキスト</td>
@@ -89,7 +89,7 @@ Salesforce管理者は、カスタムアクティビティフィールドを [!D
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業向けメール添付ファイルを表示 ]</td>
+  <td>[!UICONTROL Marketo営業向けメール添付ファイルを表示 &#x200B;]</td>
   <td>MSE_Presentation_Viewed</td>
   <td>MSE_Presentation_Viewed__c</td>
   <td>チェックボックス</td>
@@ -103,21 +103,21 @@ Salesforce管理者は、カスタムアクティビティフィールドを [!D
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業メール返信 ]</td>
+  <td>[!UICONTROL Marketo営業メール返信 &#x200B;]</td>
   <td>MSE_Replied</td>
   <td>MSE_Replied__c</td>
   <td>チェックボックス</td>
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業電子メールのステータス ]</td>
+  <td>[!UICONTROL Marketo営業電子メールのステータス &#x200B;]</td>
   <td>MSE_Email_Status</td>
   <td>MSE_Email_Status__c</td>
   <td>テキスト</td>
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業メールテンプレート ]</td>
+  <td>[!UICONTROL Marketo営業メールテンプレート &#x200B;]</td>
   <td>MSE_Template</td>
   <td>MSE_Template__c</td>
   <td>テキスト</td>
@@ -138,7 +138,7 @@ Salesforce管理者は、カスタムアクティビティフィールドを [!D
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketoの営業メールが表示されました ]</td>
+  <td>[!UICONTROL Marketoの営業メールが表示されました &#x200B;]</td>
   <td>MSE_Viewed</td>
   <td>MSE_Viewed__c</td>
   <td>チェックボックス</td>

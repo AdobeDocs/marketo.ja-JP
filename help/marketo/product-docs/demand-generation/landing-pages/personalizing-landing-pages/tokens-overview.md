@@ -157,9 +157,9 @@ ht-degree: 93%
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## [!UICONTROL  マイトークン ] {#my-tokens}
+## [!UICONTROL &#x200B; マイトークン &#x200B;] {#my-tokens}
 
-[!UICONTROL  マイトークン ] は、プログラム内で定義され、`{{my.` で始まり、その後にトークン用に作成した名前が続きます。 [プログラム内のマイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)を参照してください。
+[!UICONTROL &#x200B; マイトークン &#x200B;] は、プログラム内で定義され、`{{my.` で始まり、その後にトークン用に作成した名前が続きます。 [プログラム内のマイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)を参照してください。
 
 ## メンバートークン {#member-token}
 

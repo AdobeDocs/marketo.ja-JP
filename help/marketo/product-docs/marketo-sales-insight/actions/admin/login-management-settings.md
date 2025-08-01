@@ -16,7 +16,7 @@ ht-degree: 50%
 
 >[!NOTE]
 >
->デフォルトでは、[!UICONTROL  つのインスタンスに対して「]0}Salesforceのみ }」オプションが選択されます。 [!DNL Sales Insight Actions]この設定は、ユーザーが [ から ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) 自動ログイン [!DNL Salesforce] できるようにすることをお勧めします。
+>デフォルトでは、[!UICONTROL &#x200B; つのインスタンスに対して「]0&rbrace;Salesforceのみ &rbrace;」オプションが選択されます。 [!DNL Sales Insight Actions]この設定は、ユーザーが [ から ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) 自動ログイン [!DNL Salesforce] できるようにすることをお勧めします。
 
 ## ログイン管理設定の更新 {#update-login-management-settings}
 
@@ -30,7 +30,7 @@ ht-degree: 50%
 
    ![](assets/login-management-settings-1.png)
 
-1. [!UICONTROL  管理者設定 ] で **[!UICONTROL 一般]** をクリックします。
+1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 一般]** をクリックします。
 
    ![](assets/login-management-settings-2.png)
 
@@ -42,15 +42,15 @@ ht-degree: 50%
 
 Salesforceのみ：[!DNL Sales Insight Actions] で [!DNL Salesforce] を使用する場合にのみ認証できます。 これは [!DNL Sales Insight Actions] インスタンスのデフォルトの選択であり、ユーザー名とパスワードを管理しなくてもシームレスに認証できるので、推奨されます。
 
-### 「[!UICONTROL Salesforceのみ ]」が選択されている場合、インスタンスの新規ユーザーはアカウントをどのようにアクティブ化しますか？ {#activate-when-salesforce-only-is-selected}
+### 「[!UICONTROL Salesforceのみ &#x200B;]」が選択されている場合、インスタンスの新規ユーザーはアカウントをどのようにアクティブ化しますか？ {#activate-when-salesforce-only-is-selected}
 
 招待メールの「**[!UICONTROL 使用を開始]**」ボタンをクリックすると、新規ユーザーはアカウントアクティベーション画面に送信され、Salesforce インスタンスに接続して [!DNL Sales Insight Actions] アカウントをアクティブ化する必要があります。
 
 ![](assets/login-management-settings-4.png)
 
-### 「[!UICONTROL Salesforceのみ ]」が選択されている場合、ユーザーが認証できる認証方法は何ですか？ {#what-authentication-methods}
+### 「[!UICONTROL Salesforceのみ &#x200B;]」が選択されている場合、ユーザーが認証できる認証方法は何ですか？ {#what-authentication-methods}
 
-ログイン画面に移動する際、ユーザはまずメールアドレスを入力します。次に、「Salesforce ワンクリック [!UICONTROL  ログイン ]」ボタンをクリックし、ログイン中のSalesforce アカウントを使用して認証できます。
+ログイン画面に移動する際、ユーザはまずメールアドレスを入力します。次に、「Salesforce ワンクリック [!UICONTROL &#x200B; ログイン &#x200B;]」ボタンをクリックし、ログイン中のSalesforce アカウントを使用して認証できます。
 
 >[!NOTE]
 >
@@ -70,6 +70,6 @@ Salesforceのみ：[!DNL Sales Insight Actions] で [!DNL Salesforce] を使用�
 
 ![](assets/login-management-settings-6.png)
 
-### 「[!UICONTROL  すべてのログイン方法」が選択されている場合、インスタンスのユーザーはど ] の方法でログインできますか？ {#what-are-users-allowed-to-log-in-with-all-login}
+### 「[!UICONTROL &#x200B; すべてのログイン方法」が選択されている場合、インスタンスのユーザーはど &#x200B;] の方法でログインできますか？ {#what-are-users-allowed-to-log-in-with-all-login}
 
 当社のログインページを使用する場合、ユーザはまず自分のメールアドレスを入力します。次に、すべてのログインオプション（ユーザ名／パスワード、SFDC、Gmail、SSO）を提供するページに送信されます。

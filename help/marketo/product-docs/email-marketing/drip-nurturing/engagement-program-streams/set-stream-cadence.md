@@ -51,7 +51,7 @@ ht-degree: 95%
 
    >[!TIP]
    >
-   >ケイデンスは、**[!UICONTROL 繰り返し ]:[!UICONTROL  毎週]**/**[!UICONTROL 毎 ]:1[!UICONTROL  週]**/**[!UICONTROL オン]**：全日を選択することで、毎日実行するように設定できます。
+   >ケイデンスは、**[!UICONTROL 繰り返し &#x200B;]:[!UICONTROL &#x200B; 毎週]**/**[!UICONTROL 毎 &#x200B;]:1[!UICONTROL &#x200B; 週]**/**[!UICONTROL オン]**：全日を選択することで、毎日実行するように設定できます。
 
    次に、時間を選択します。[受信者タイムゾーン](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)を使用する場合は（例：ローカルタイムゾーンに従った配信）、チェックをオンにして、「**[!UICONTROL 保存]**」をクリックします。
 

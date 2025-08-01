@@ -48,15 +48,15 @@ Marketo Sales Insight を使用しない場合、Marketo Engage は特定のイ�
  </thead>
  <tbody>
   <tr>
-   <td>[!UICONTROL 入力済みフォーム ]</td>
+   <td>[!UICONTROL 入力済みフォーム &#x200B;]</td>
    <td>任意の Marketo フォームに入力しました</td>
   </tr>
   <tr>
-   <td>[!UICONTROL がリストに追加されました ]</td>
+   <td>[!UICONTROL がリストに追加されました &#x200B;]</td>
    <td><p>フローステップ：静的リストに追加されました</p></td>
   </tr>
   <tr>
-   <td>[!UICONTROL 送信済み電子メール ]</td>
+   <td>[!UICONTROL 送信済み電子メール &#x200B;]</td>
    <td>フローステップ：メールが送信されました</td>
   </tr>
   <tr>
@@ -68,31 +68,31 @@ Marketo Sales Insight を使用しない場合、Marketo Engage は特定のイ�
    <td>メールを開きました（画像ブロックなし）</td>
   </tr>
   <tr>
-   <td>[！メール内のクリックされたリンクを UICONTROL]</td>
+   <td>[!UICONTROL メール内のクリックされたリンクを]</td>
    <td>Marketo から送信されたメール内のリンクをクリックしました</td>
   </tr>
   <tr>
-   <td>[!UICONTROL がリストから削除されました ]</td>
+   <td>[!UICONTROL がリストから削除されました &#x200B;]</td>
    <td>フローステップ：静的リストから削除されました</td>
   </tr>
   <tr>
-   <td>[!UICONTROL フローから削除 ]</td>
+   <td>[!UICONTROL フローから削除 &#x200B;]</td>
    <td>フローステップ：フローから削除されました</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 販売電子メールが送信されました ]</td>
+   <td>[!UICONTROL 販売電子メールが送信されました &#x200B;]</td>
    <td>Marketo Sales Insight 経由でメールを送信されました</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 販売 E メール開封数 ]</td>
+   <td>[!UICONTROL 販売 E メール開封数 &#x200B;]</td>
    <td>Marketo Sales Insight 経由で送信したメールを開封しました</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 販売メール内のクリックリンク ]</td>
+   <td>[!UICONTROL 販売メール内のクリックリンク &#x200B;]</td>
    <td>Marketo Sales Insight を通じて送信されたメール内のリンクをクリックしました</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 販売電子メールを受信 ]</td>
+   <td>[!UICONTROL 販売電子メールを受信 &#x200B;]</td>
    <td>MSI Outlook プラグインでセールス担当者がメールを受信し、ログに記録しました</td>
   </tr>
  </tbody>
