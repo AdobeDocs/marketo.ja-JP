@@ -3,9 +3,9 @@ description: 動的フィールド - Marketo ドキュメント - 製品ドキ�
 title: 動的フィールド
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '535'
 ht-degree: 60%
 
 ---
@@ -61,9 +61,9 @@ ht-degree: 60%
 | `{{friendly_unsubscribe}}` | メールにはうんざりですか？ こちらにお知らせください |
 | `{{my_name}}` | キース・フリン |
 | `{{my_signature}}` | Keith Flynn （シニアテクニカルライター） – Adobe |
-| `{{personal_email}}` | keith@pickyouremail.com |
+| `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | シニアテクニカルライター |
-| `{{work_website}}` | https://www.adobe.com |
+| `{{work_website}}` | <https://www.adobe.com> |
 
 **注意事項**：
 

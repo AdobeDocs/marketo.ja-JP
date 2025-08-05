@@ -4,7 +4,7 @@ description: Facebook でのパーソナライズリマーケティング - Mark
 title: Facebook でのパーソナライズリマーケティング
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 75%
@@ -17,8 +17,8 @@ ht-degree: 75%
 
 >[!PREREQUISITES]
 >
->* [ウェブパーソナライズデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定を完成します
->* [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [カスタムオーディエンスとリマーケティングに関する Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)を確認します。
+>* [Web パーソナライゼーションデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定を完成します
+>* [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [カスタムオーディエンスとリマーケティングに関する Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)を確認します。
 
 ## [!DNL Facebook] でのオーディエンスの作成 {#creating-an-audience-in-facebook}
 
@@ -26,35 +26,35 @@ ht-degree: 75%
 
 1. 「**[!UICONTROL ツール]**」をクリックして、「**[!UICONTROL オーディエンス]**」を選択します。
 
-   ![](assets/one-1.png)
+![](assets/one-1.png)
 
 1. 「**[!UICONTROL カスタムオーディエンスを作成]**」をクリックします。
 
-   ![](assets/two-1.png)
+![](assets/two-1.png)
 
 1. 「**[!UICONTROL ウェブサイトトラフィック]**」を選択します。
 
-   ![](assets/image2015-1-19-16-3a32-3a2.png)
+![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. [!UICONTROL Web サイトトラフィック &#x200B;] リストで、「**[!UICONTROL カスタムの組み合わせ]**」を選択します。
+1. [!UICONTROL Web サイトトラフィック ] リストで、「**[!UICONTROL カスタムの組み合わせ]**」を選択します。
 
-   ![](assets/image2015-1-19-16-3a33-3a21.png)
+![](assets/image2015-1-19-16-3a33-3a21.png)
 
 1. Include リストで、「**[!UICONTROL イベント]**」を選択します。
 
-   ![](assets/image2015-1-19-16-3a34-3a9.png)
+![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. [!UICONTROL &#x200B; イベント &#x200B;] リストで「**[!UICONTROL RTP リマーケティング]**」を選択し、パラメーターを選択します。
+1. [!UICONTROL  イベント ] リストで「**[!UICONTROL RTP リマーケティング]**」を選択し、パラメーターを選択します。
 
-   ![](assets/image2015-1-19-16-3a52-3a29.png)
+![](assets/image2015-1-19-16-3a52-3a29.png)
 
 1. この例では、[!UICONTROL Education] を含めるために **[!UICONTROL Industry]** を選択します。 「**[!UICONTROL 教育]**」を入力し、「**[!UICONTROL 過去の期間]**」を編集して 180 日にします。オーディエンス名に「**教育業界**」と入力します。「**[!UICONTROL オーディエンスを作成]**」をクリックします。
 
-   ![](assets/image2015-1-19-16-3a56-3a15.png)
+![](assets/image2015-1-19-16-3a56-3a15.png)
 
 1. これで、[!DNL Facebook] の RTP データを使用して新しいカスタムオーディエンスを作成しました。
 
-   ![](assets/image2015-1-19-16-3a59-3a2.png)
+![](assets/image2015-1-19-16-3a59-3a2.png)
 
 ## [!DNL Facebook] の RTP データ ポイント {#rtp-data-points-in-facebook}
 
@@ -129,5 +129,5 @@ ht-degree: 75%
 
 >[!MORELIKETHIS]
 >
->* [ウェブパーソナライズデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [Web パーソナライゼーションデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 >* [Google でのパーソナライズリマーケティング](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)

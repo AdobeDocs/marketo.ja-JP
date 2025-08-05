@@ -4,7 +4,7 @@ description: 広告ネットワーク統合について - Marketo ドキュメ�
 title: 広告ネットワーク統合について
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 77%
@@ -36,7 +36,7 @@ ht-degree: 77%
 
    * 例えば、ユーザーが広告を検索し、表示してクリックし、オンラインでフォームに入力するとします。その後、デモをオフラインで受け取り、CRM の機会になります。広告主がここでターゲットにします
 
-* Web サイト訪問者をリターゲティング（[Web パーソナライズ機能](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}を使用）して、Web サイトに戻します。
+* Web サイト訪問者をリターゲティング（[web パーソナライゼーション](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}を使用）して、web サイトに戻します。
 
    * セグメント別または垂直にパーソナライズ
 

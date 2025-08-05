@@ -4,10 +4,10 @@ description: カスタムフィールドタイプの用語集 - Marketo ドキ�
 title: カスタムフィールドタイプの用語集
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '595'
-ht-degree: 100%
+source-wordcount: '594'
+ht-degree: 98%
 
 ---
 
@@ -55,7 +55,7 @@ Marketo でカスタムフィールドを作成する場合、タイプのリス
 
 **名前の例**：Created Date — ユーザーが作成された日時を保存します
 
-**値の例**：8/19/14 2:00
+**値の例：** 8/19/14 2:00
 
 **演算子**：is、not、between、in past、in past before、in future、in future after、in time frame、after、before、on or after、on or before、is empty、is not empty
 
@@ -63,7 +63,7 @@ Marketo でカスタムフィールドを作成する場合、タイプのリス
 
 **名前の例**：Alternate Email — ユーザーの代替メールアドレスを保持します（デフォルトのメールアドレスフィールドのように、実際にはこのフィールドにメールを送信することはできません。特別なメールです）
 
-**値の例**：name@company.com
+**値の例：** <name@company.com>
 
 **演算子**：is、is not、starts with、not starts with、contains、not contains、is empty、is not empty
 
@@ -133,6 +133,6 @@ Marketo でカスタムフィールドを作成する場合、タイプのリス
 
 **名前の例**：Blog - ユーザーブログ URL を格納するフィールドを作成します
 
-**値の例**：www.myblog.com
+**値の例：** &lt;www.myblog.com>
 
 **演算子**：is、is not、starts with、not starts with、contains、not contains、is empty、is not empty

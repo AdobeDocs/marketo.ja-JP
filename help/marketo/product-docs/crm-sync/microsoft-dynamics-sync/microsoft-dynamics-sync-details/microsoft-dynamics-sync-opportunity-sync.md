@@ -4,7 +4,7 @@ description: Microsoft Dynamics 同期 - 商談の同期 - Marketo ドキュメ�
 title: Microsoft Dynamics 同期 - 商談の同期
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 15%
@@ -36,6 +36,5 @@ Marketoから [!DNL Dynamics] 同期は非常に強力です。 以下に、商�
    * 連絡先の値が「」に設定されていてアカウントが空のままの場合、Marketoは `opportunitycontactrole` を作成し、オポチュニティに関するアカウントを連絡先のアカウントに設定します。 連絡先にアカウントがない場合、このフィールドは空白のままになります。
    * アカウントの値が「」に設定され、連絡先が空のままの場合、Marketoは、opportunity のアカウントをこのアカウントに設定するだけです。
    * 両方の値が設定されている場合、Dynamics では customerid の値として考慮が選択されるので、動作は上記と同じになります。
-
 
 * 関係者を通して：Dynamics は接続を使用して、商談を作成ページから関係者を通じて連絡を取ります。 これにより、新しい関係者ごとに `opportunitycontactrole` レコードを作成します。

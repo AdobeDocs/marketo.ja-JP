@@ -4,7 +4,7 @@ description: ON24 イベント統合の例 - Marketo ドキュメント - 製品
 title: ON24 イベント統合の例
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 90%
@@ -59,7 +59,7 @@ ht-degree: 90%
 
 >[!CAUTION]
 >
->Marketo フォームを使用してイベントに担当者を登録するか、適切な API 統合による Marketo 以外のフォームを使用して Marketo に登録データをプッシュする必要があります。これは、[!UICONTROL &#x200B; イベントパートナー &#x200B;] 統合を成功させるうえで非常に重要です。 **注意**:Marketo以外のランディングページでMarketo フォームを使用している場合、トリガーは **[!UICONTROL フォーム名]** で [!UICONTROL &#x200B; フォームに入力 &#x200B;] されます。
+>Marketo フォームを使用してイベントに担当者を登録するか、適切な API 統合による Marketo 以外のフォームを使用して Marketo に登録データをプッシュする必要があります。これは、[!UICONTROL  イベントパートナー ] 統合を成功させるうえで非常に重要です。 **注意**:Marketo以外のランディングページでMarketo フォームを使用している場合、トリガーは **[!UICONTROL フォーム名]** で [!UICONTROL  フォームに入力 ] されます。
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 

@@ -2,10 +2,10 @@
 description: リリースノート - 2021 年 8 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2021 年 8 月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '903'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 100%
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] リードジェネレーションフォーム統合**：[!DNL LinkedIn] がリードジェネレーションフォームの広告ユニットを通じてフォームの入力をキャプチャする際に発生するコンバージョンに対して収益属性を実行できるようになりました。これらのインサイトを使用して、フォームのパフォーマンスと有料メディアへの投資を最適化できます。[!DNL LinkedIn] リードジェネレーションフォームは、[!DNL LinkedIn] で最も急速に成長している有料メディア製品の一つで、この新機能は、[!DNL Bizible] との既存の [!DNL LinkedIn] 広告統合に含まれています。
+* **[!DNL Bizible][!DNL LinkedIn] リードジェネレーションフォーム統合**：[!DNL LinkedIn] がリードジェネレーションフォームの広告ユニットを通じてフォームの入力をキャプチャする際に発生するコンバージョンに対して収益属性を実行できるようになりました。これらのインサイトを使用して、フォームのパフォーマンスと有料メディアへの投資を最適化できます。[!DNL LinkedIn] リード世代Formsは、[!DNL LinkedIn] で最も急速に成長している有料メディア製品の 1 つです。この新しい機能は、[!DNL LinkedIn] との既存の [!DNL Bizible] Ads 統合に含まれています。
 
 * **Velocity ダッシュボードの改善**：より深いインサイトを得るための新しい Velocity 指標とダッシュボードフィルターを追加しました。このダッシュボードは、マーケターが段階的なリードと商談の速度、および様々な形式のマーケティングとセールスエンゲージメントの効率を理解するために使用します。
 

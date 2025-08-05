@@ -4,7 +4,7 @@ description: サービスとして  [!DNL Facebook]  カスタムオーディエ
 title: Add [!DNL Facebook] Custom Audiences as a [!DNL LaunchPoint] Service
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 32%
@@ -45,7 +45,7 @@ ht-degree: 32%
 
    >[!NOTE]
    >
-   >カスタムオーディエンス統合を機能させるには __ Business Manager アカウントを使用する [!DNL Facebook] 必要があります）。 Business Manager アカウントの設定方法については、[[!DNL Facebook]  ヘルプ ](https://www.facebook.com/business/help/1710077379203657) を参照してください。
+   >カスタムオーディエンス統合を機能させるには ** Business Manager アカウントを使用する [!DNL Facebook] 必要があります）。 Business Manager アカウントの設定方法については、[[!DNL Facebook]  ヘルプ ](https://www.facebook.com/business/help/1710077379203657) を参照してください。
 
 1. プロンプトが表示されたら、「**[!UICONTROL OK]**」をクリックして、[!DNL Facebook] へのMarketo アプリケーションのインストールを承認します。
 
@@ -55,7 +55,7 @@ ht-degree: 32%
 
    >[!NOTE]
    >
-   >「**[!UICONTROL 基本照合]**」では電子メールアドレスのみが使用されます。**[!UICONTROL 詳細照合]**&#x200B;では、7 つの追加フィールドが使用されて、一致率を高め、コンバージョンを増やします。ただし、会社のプライバシーポリシーで追加フィールドの共有が許可されていない場合や、データに含まれていない場合は、「[!UICONTROL &#x200B; 基本一致 &#x200B;]」を選択します。
+   >「**[!UICONTROL 基本照合]**」では電子メールアドレスのみが使用されます。**[!UICONTROL 詳細照合]**&#x200B;では、7 つの追加フィールドが使用されて、一致率を高め、コンバージョンを増やします。ただし、会社のプライバシーポリシーで追加フィールドの共有が許可されていない場合や、データに含まれていない場合は、「[!UICONTROL  基本一致 ]」を選択します。
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,7 +63,7 @@ ht-degree: 32%
 
    >[!CAUTION]
    >
-   >移動する前に、[ アカウント内で  [!DNL Facebook] カスタムオーディエンス条件に同意する ](https://www.facebook.com/ads/manage/customaudiences/tos.php) [!DNL Facebook] ことを確認してください。 これをおこなわないと、オーディエンスのアップデートが失敗します。
+   >移動する前に、[ アカウント内で  [!DNL Facebook] カスタムオーディエンス条件に同意する ](https://www.facebook.com/ads/manage/customaudiences/tos.php)[!DNL Facebook] ことを確認してください。 これをおこなわないと、オーディエンスのアップデートが失敗します。
 
 >[!MORELIKETHIS]
 >

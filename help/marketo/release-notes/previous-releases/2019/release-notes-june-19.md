@@ -4,8 +4,8 @@ description: リリースノート - 2019 年 6 月 - Marketo ドキュメント
 title: リリースノート - 2019 年 6 月
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 100%
 
@@ -68,4 +68,4 @@ ht-degree: 100%
 * **ドリフト統合**：ドリフト会話がお客様のジャーニーに与える影響を理解します。[!DNL Bizible] は会話からメールアドレスを抽出し、新規リードを作成したり、既存リードにタッチポイントを連携したりします。
 * **ローカライゼーション**：[!DNL Bizible] は、Marketo でサポートされているすべての言語（英語、日本語、ドイツ語、スペイン語、フランス語、ポルトガル語）で利用できるようになりました。
 
-***製品リリースウェビナー***：2019年6月リリースイノベーションのウェビナーの録画を[こちら](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)でご覧ください。
+_**製品リリースウェビナー**_：2019年6月リリースイノベーションのウェビナーの録画を[こちら](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)でご覧ください。

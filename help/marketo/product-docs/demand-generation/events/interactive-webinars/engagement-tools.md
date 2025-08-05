@@ -4,9 +4,9 @@ title: インタラクティブウェビナーのエンゲージメントツー�
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1270'
 ht-degree: 1%
 
 ---
@@ -99,7 +99,7 @@ Web リンクポッドについて詳しくは、このビデオを参照して�
 
 ### カスタムポッド {#custom-pods}
 
-カスタムポッドは、Adobe Connectが提供する機能を拡張します。 無料で利用できる一般的なカスタムポッドには、カウントダウンタイマー、時計、ハウスキーパー、タイトラー、Word Cloud があります。 カスタムポッドは、https://apps.adobeconnect.com/から.pod または.zip ファイルとしてダウンロードできます。
+カスタムポッドは、Adobe Connectが提供する機能を拡張します。 無料で利用できる一般的なカスタムポッドには、カウントダウンタイマー、時計、ハウスキーパー、タイトラー、Word Cloud があります。 カスタムポッドは、.pod または.zip ファイルとして <https://apps.adobeconnect.com/> からダウンロードできます。
 
 カスタムポッドを使用するには：
 

@@ -4,7 +4,7 @@ description: メールの効果レポート — Marketo ドキュメント — �
 title: メールパフォーマンスレポート
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 100%
@@ -36,6 +36,7 @@ ht-degree: 100%
    以下のレポート列から、キャンペーンメール効果レポートに含める[レポート列を選択](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)します。
 
    <table><thead>
+
 <tr>
     <th>列</th>
     <th>説明</th>
@@ -75,7 +76,7 @@ ht-degree: 100%
 
 * **ルール 1**：各メールアクティビティレコードは、 _配信済み_、 _ハードバウンス_、 _ソフトバウンス_、 _保留中_&#x200B;のいずれか 1 つのみに設定されます。
 
-* **ルール 2**：メールのレコードが&#x200B;*[!UICONTROL 開封済み]*&#x200B;を示したら、*配信済み*&#x200B;としてカウントされます。
+* **ルール 2**：メールのレコードが&#x200B;_[!UICONTROL 開封済み]_&#x200B;を示したら、_配信済み_&#x200B;としてカウントされます。
 
 * **ルール 3**：メールのレコードが&#x200B;_[!UICONTROL クリック済みメール]_&#x200B;あるいは&#x200B;_[!UICONTROL 登録解除]_&#x200B;を示したら、_配信済み_&#x200B;あるいは&#x200B;_開封済み_&#x200B;としてカウントされます。
 

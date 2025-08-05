@@ -4,7 +4,7 @@ description: テンプレート 16A - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 16A
 exl-id: c55e4f9c-7aca-4cb6-b79a-5b25fd70ac3e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 16A {#template-16a}
 
-右クリックして[テンプレート 16A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html?lang=ja)します
+右クリックして[テンプレート 16A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html)します
 
 ![](assets/image2015-8-14-10-3a19-3a21.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 16A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html?lang=ja)
+[Template 16A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16a.html)

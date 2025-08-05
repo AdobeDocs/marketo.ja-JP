@@ -4,7 +4,7 @@ description: テンプレート 9A - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 9A
 exl-id: cc729eee-224b-4acd-87d8-7fb9155d73fb
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 9A {#template-9a}
 
-右クリックして[テンプレート 9A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html?lang=ja)します
+右クリックして[テンプレート 9A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)します
 
 ![](assets/image2015-7-28-15-3a9-3a26.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html?lang=ja)
+[Template 9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)

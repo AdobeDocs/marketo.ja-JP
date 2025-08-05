@@ -4,7 +4,7 @@ description: メールテンプレートの構文 - Marketo ドキュメント -
 title: メールテンプレートの構文
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 100%
@@ -230,7 +230,7 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 宣言の例：
 
-`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1">`
 
 使用例：
 

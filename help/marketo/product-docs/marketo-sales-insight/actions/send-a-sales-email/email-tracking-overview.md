@@ -3,10 +3,10 @@ description: メールトラッキングの概要 - Marketo ドキュメント -
 title: メールトラッキングの概要
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 64%
+source-wordcount: '487'
+ht-degree: 56%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 64%
 
 見込み客のメールへの返信をトラッキングで [!DNL Sales Connect] ない場合、返信検出に基づくキャンペーンを停止したり、Salesforceへの返信をログに記録したりすることはできません。 どのメールアドレスでも返信できるとはどういう意味でしょうか？
 
-つまり、flynn@flynnsarcade.com にメールを送信し、kevinf@flynnsarcade.com で返信しても、返信をトラックできます。さらに、flynn@flynnsarcade.com と CC alan@encom.com にメールを送信し、Alan が返信すると、同様に返信が検出され、キャンペーンが終了します。
+つまり、<flynn@flynnsarcade.com> にメールを送信し、そのユーザーが <kevinf@flynnsarcade.com> を使用して応答すると、返信を追跡できます。 さらに、<flynn@flynnsarcade.com> と CC <alan@encom.com> にメールを送信し、Alan が返信すると、返信を検出してキャンペーンも終了します。
 
-## メールの添付ファイルのトラック方法 {#how-to-track-your-email-attachments}
+## メールの添付ファイルのトラッキング方法 {#how-to-track-your-email-attachments}
 
 [!DNL Sales Connect] では、添付ファイル（.doc、.ppt、.pdf）のトラッキングを提供しており、添付ファイルがいつ開かれ、ダウンロードされたかを確認したり、受信者が閲覧しているページを確認したりできます。 [Web アプリケーション](https://toutapp.com/login)と Gmail（または Google Apps）の両方で、トラッキング可能な添付ファイル機能を使用できます。
 

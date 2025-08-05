@@ -4,10 +4,10 @@ description: 返信トラッキングの動作方法 - Marketo ドキュメン�
 title: 返信トラッキングの動作方法
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 61%
+source-wordcount: '163'
+ht-degree: 37%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 61%
 
 [!DNL Sales Connect] がメールへの見込み客の返信を追跡できない場合、返信検出に基づくキャンペーンを停止したり、[!DNL Salesforce] への返信をログに記録したりすることはできません。  どのメールアドレスでも返信できるとはどういう意味でしょうか？
 
-つまり、flynn@flynnsarcade.com にメールを送信し、kevinf@flynnsarcade.com で返信しても、返信をトラックできます。さらに、flynn@flynnsarcade.com と CC alan@encom.com にメールを送信し、Alan が返信すると、同様に返信が検出され、キャンペーンが終了します。
+つまり、<flynn@flynnsarcade.com> にメールを送信し、そのユーザーが <kevinf@flynnsarcade.com> を使用して応答すると、返信を追跡できます。 さらに、<flynn@flynnsarcade.com> と CC <alan@encom.com> にメールを送信し、Alan が返信すると、返信を検出してキャンペーンも終了します。

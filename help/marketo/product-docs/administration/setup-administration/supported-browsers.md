@@ -4,8 +4,8 @@ description: サポートされているブラウザー — Marketo ドキュメ
 title: サポートされているブラウザー
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: 63cd902df11ec13586ab565f0151b7cd47f2b423
-workflow-type: ht
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
 
@@ -21,7 +21,6 @@ Marketo では現在、以下のブラウザーをサポートしています。
 | [[!DNL Mozilla Firefox]](https://www.mozilla.org/ja/firefox/new/){target="_blank"} | 最新 |
 | [[!DNL Apple Safari]](https://www.apple.com/safari/){target="_blank"} | 最新 |
 | [[!DNL Microsoft Edge]](https://www.microsoft.com/ja-jp/edge){target="_blank"} | 最新 |
-
 
 >[!NOTE]
 >

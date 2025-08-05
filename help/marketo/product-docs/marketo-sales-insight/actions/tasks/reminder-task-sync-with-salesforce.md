@@ -3,7 +3,7 @@ description: Salesforce とのリマインダータスク同期 - Marketo ドキ
 title: Salesforce とのリマインダータスク同期
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 34%
@@ -31,32 +31,32 @@ ht-degree: 34%
   <th>[!DNL Salesforce] タスク</th>
  </tr>
  <tr>
-  <td>[!UICONTROL タスク名 &#x200B;]</td>
-  <td>[!UICONTROL 件名フィールド &#x200B;]</td>
+  <td>[!UICONTROL タスク名 ]</td>
+  <td>[!UICONTROL 件名フィールド ]</td>
   <td>タスクのタイトルを示す短い概要フィールドです。</td>
  </tr>
  <tr>
-  <td>[!UICONTROL の状態 &#x200B;]</td>
-  <td>[!UICONTROL タスクの状態 &#x200B;]</td>
+  <td>[!UICONTROL の状態 ]</td>
+  <td>[!UICONTROL タスクの状態 ]</td>
   <td><p>タスクのステータスを表示します。[!DNL Sales Insight Actions] タスクには、[!DNL Salesforce] タスクの状態の選択リスト内の 2 つの値にマッピングされる 2 つの状態があります。</p>
   <p>[!DNL Sales Insight Actions] で開く= [!DNL Salesforce] で開始されていません。</p>
   <p>[!DNL Sales Insight Actions] に完了= [!DNL Salesforce] に完了します。</p>
   <p>[!DNL Salesforce] の他のステータス値は、[!DNL Sales Insight Actions] と同期されません。</p></td>
  </tr>
  <tr>
-  <td>[!UICONTROL の優先度 &#x200B;]</td>
-  <td>[!UICONTROL の優先度 &#x200B;]</td>
+  <td>[!UICONTROL の優先度 ]</td>
+  <td>[!UICONTROL の優先度 ]</td>
   <td><p>[!DNL Sales Insight Actions] 優先度は、Normal または High のいずれかであり、[!DNL Salesforce] の Normal および High の優先度の値にマップされます。</p>
   <p>[!DNL Salesforce] の優先度（低）の値は [!DNL Sales Insight Actions] と同期されません。</p></td>
  </tr>
  <tr>
-  <td>[!UICONTROL の期日 &#x200B;]</td>
-  <td>[!UICONTROL の期日 &#x200B;]</td>
+  <td>[!UICONTROL の期日 ]</td>
+  <td>[!UICONTROL の期日 ]</td>
   <td>タスクの期限です。</td>
  </tr>
  <tr>
-  <td>[!UICONTROL の詳細 &#x200B;]</td>
-  <td>[!UICONTROL コメント &#x200B;]</td>
+  <td>[!UICONTROL の詳細 ]</td>
+  <td>[!UICONTROL コメント ]</td>
   <td>リマインダータスクで完了する予定の内容に関する詳細情報を表示します。</td>
  </tr>
 </table>
@@ -81,4 +81,4 @@ ht-degree: 34%
 
 >[!NOTE]
 >
->[!DNL Sales Insight Actions] アクティビティの詳細のカスタマイズ [!DNL Salesforce] 設定で `{{activity_subject}}` の動的フィールドを使用している場合、タスクの件名フィールドを [ で更新でき、その更新が、対応する同期済みタスクの ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) の件名フィールドで同期されます。 逆に、[!DNL Salesforce] の「件名」フィールドに行われた更新は、_リマインダータスクの「件名」フィールドに同期_ されません [!DNL Sales Insight Actions]。
+>[!DNL Sales Insight Actions] アクティビティの詳細のカスタマイズ [!DNL Salesforce] 設定で `{{activity_subject}}` の動的フィールドを使用している場合、タスクの件名フィールドを [ で更新でき、その更新が、対応する同期済みタスクの ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) の件名フィールドで同期されます。 逆に、[!DNL Salesforce] の「件名」フィールドに行われた更新は、*リマインダータスクの「件名」フィールドに同期* されません [!DNL Sales Insight Actions]。

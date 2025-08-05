@@ -4,7 +4,7 @@ description: モバイルスマートキャンペーンのトリガーとフィ�
 title: モバイルスマートキャンペーンのトリガーとフィルター
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 98%
@@ -129,7 +129,7 @@ ht-degree: 98%
 >
 >**例**
 >
->*買い物*&#x200B;アクションタイプで、非常に具体的なアクションを追加の制約によって定義できます。
+>_買い物_&#x200B;アクションタイプで、非常に具体的なアクションを追加の制約によって定義できます。
 >
 >* シャツを購入
 >   * 色は赤

@@ -4,10 +4,10 @@ description: RTP を Google Analytics に連携する — Marketo ドキュメ�
 title: RTP を Google Analytics に連携する
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 94%
+source-wordcount: '580'
+ht-degree: 92%
 
 ---
 
@@ -64,7 +64,7 @@ RTP キャンペーンを測定し、サイト全体の平均値と関連付け�
 
 ## RTP と Google Analytics の設定 {#setting-up-rtp-with-google-analytics}
 
-1. GA アカウントにメール rtp.ga2@gmail.com を読み取りおよび分析ユーザーとして追加します。詳細は[こちら](https://support.google.com/analytics/answer/2884495?hl=ja)をご覧ください。
+1. メール <rtp.ga2@gmail.com> を読み取り/分析ユーザーとして GA アカウントに追加します。 詳細は[こちら](https://support.google.com/analytics/answer/2884495?hl=ja)をご覧ください。
 
 1. RTP アカウント内で次の手順を実行します。「**[!UICONTROL アカウント設定]**」に移動します。
 
@@ -84,7 +84,7 @@ RTP キャンペーンを測定し、サイト全体の平均値と関連付け�
 
 >[!NOTE]
 >
->セグメントデータを GA に送信するには、[[!UICONTROL &#x200B; セグメントを編集 &#x200B;] ページ ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) の RTP プラットフォームで、「**[!UICONTROL Segment Match でGoogle Analyticsにイベントを送信]**」チェックボックスをオンにします。
+>セグメントデータを GA に送信するには、[[!UICONTROL  セグメントを編集 ] ページ ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) の RTP プラットフォームで、「**[!UICONTROL Segment Match でGoogle Analyticsにイベントを送信]**」チェックボックスをオンにします。
 
 ## Google Analytics レポートと RTP データの設定 {#setting-up-google-analytics-reports-with-rtp-data}
 

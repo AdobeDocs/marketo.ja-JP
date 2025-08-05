@@ -4,7 +4,7 @@ title: 一時ドキュメント
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: a65ff2cb24b264cd2d3a1c9c7e0109bcf69ac996
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 4%
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ### Assetsを追加 {#add-assets}
 
-Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
+Marketo Engage インスタンスの [ 画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存される画像を追加します。
 
 >[!NOTE]
 >
@@ -37,9 +37,7 @@ Marketo Engageインスタンスの [ 画像とファイル ](/help/marketo/prod
 
 「条件付きコンテンツを有効にする」をクリックし、動的コンテンツを追加して、条件付きルールに基づいてコンテンツをターゲットプロファイルに適応させます。
 
-
-
-必要に応じて、詳細メニューの「コードエディターに切り替え」をクリックしてコードエディターに切り替え、メールをさらにパーソナライズできます。 これにより、例えばトラッキングタグやカスタムHTMLタグを追加するために、メールソースコードを編集できます。
+必要に応じて、詳細メニューの「コードエディターに切り替え」をクリックしてコードエディターに切り替え、メールをさらにパーソナライズできます。 これにより、例えばトラッキングタグやカスタム HTML タグを追加するために、メールソースコードを編集できます。
 
 注意
 コードエディターに切り替えた後で、このメールのビジュアルデザイナーに戻すことはできません。

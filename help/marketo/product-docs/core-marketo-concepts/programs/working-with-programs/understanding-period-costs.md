@@ -4,7 +4,7 @@ description: 期間原価について - Marketo ドキュメント - 製品ド�
 title: 期間原価について
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 84%
@@ -39,7 +39,7 @@ ht-degree: 84%
 
    ![](assets/graph1.png)
 
-   …その前と後の月に獲得された連絡先&#x200B;*のみ*&#x200B;が 3 月分に計上されます。
+   …その前と後の月に獲得された連絡先&#x200B;_のみ_&#x200B;が 3 月分に計上されます。
 
    ![](assets/graph2.png)
 

@@ -4,7 +4,7 @@ description: テンプレート 1E - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 1E
 exl-id: 3ff781e3-2dc9-4581-b116-e588596c0249
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 1E {#template-1e}
 
-右クリックして[テンプレート 1E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=ja)します
+右クリックして[テンプレート 1E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)します
 
 ![](assets/image2015-5-29-9-3a14-3a40.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=ja)
+[Template 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)

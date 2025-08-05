@@ -4,7 +4,7 @@ description: テンプレート 8A - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 8A
 exl-id: d73f9f29-7309-4525-a5fe-171ba67151ac
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 8A {#template-8a}
 
-右クリックして[テンプレート 8A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html?lang=ja)します
+右クリックして[テンプレート 8A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)します
 
 ![](assets/image2015-7-29-9-3a53-3a6.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 8A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html?lang=ja)
+[Template 8A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8a.html)

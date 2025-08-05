@@ -4,7 +4,7 @@ description: テンプレート 9C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 9C
 exl-id: 60c7b740-1b96-4ff1-92ba-05e573d513d1
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 9C {#template-9c}
 
-右クリックして[テンプレート 9C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html?lang=ja)します
+右クリックして[テンプレート 9C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)します
 
 ![](assets/image2015-7-28-15-3a35-3a30.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 9C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html?lang=ja)
+[Template 9C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9c.html)

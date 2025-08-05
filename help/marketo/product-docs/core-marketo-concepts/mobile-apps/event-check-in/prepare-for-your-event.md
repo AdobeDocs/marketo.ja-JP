@@ -4,7 +4,7 @@ description: イベントの準備 - Marketo ドキュメント - 製品ドキ�
 title: イベントの準備
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 79%
@@ -17,11 +17,11 @@ ht-degree: 79%
 
 >[!IMPORTANT]
 >
->2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Events アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo EngageインスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Events アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo Engage インスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}
 
 ## 新しい Marketo の役割の作成 {#create-a-new-marketo-role}
 
-Marketo には、イベントチェックインアプリ用の特別なユーザーの役割があります。モバイルアプリケーションへのアクセス権を持つ [!DNL iPad] ユーザーまたは [!DNL Android] ユーザー用の [ 新しいMarketo ロールを作成 ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) します。
+Marketo には、イベントチェックインアプリ用の特別なユーザーの役割があります。モバイルアプリケーションへのアクセス権を持つ [ ユーザーまたは ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ユーザー用の [!DNL iPad] 新しいMarketo ロールを作成 [!DNL Android] します。
 
 ## 新しいタブレットユーザーのイベントへの招待 {#invite-new-tablet-users-to-the-event}
 
@@ -49,7 +49,7 @@ Marketo には、イベントチェックインアプリ用の特別なユーザ
 
 ## イベントにユーザーを追加 {#add-people-to-your-event}
 
-_タイミング_&#x200B;がわかったので、*対象ユーザー*&#x200B;を追加します。
+_タイミング_&#x200B;がわかったので、_対象ユーザー_&#x200B;を追加します。
 
 1. 既にユーザーのリストがある場合は、「マイ Marketo」で、「**[!UICONTROL データベース]**」タイルをクリックします。
 

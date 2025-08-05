@@ -4,8 +4,8 @@ description: リリースノート - 2018 年秋 - Marketo ドキュメント - 
 title: リリースノート - 2018 年秋
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+workflow-type: tm+mt
 source-wordcount: '820'
 ht-degree: 100%
 
@@ -19,9 +19,9 @@ ht-degree: 100%
 
 ## 主要プラットフォームの機能拡張 {#core-platform-enhancements}
 
-**[Web パーソナライズ機能](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
+**[Web パーソナライゼーション](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
-Web パーソナライズ機能が複数のワークスペースに対応するようになりました。
+Web パーソナライゼーションが複数のワークスペースに対応するようになりました。
 
 ## Marketo [!DNL Sales Engage] {#marketo-sales-engage}
 

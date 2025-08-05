@@ -4,10 +4,10 @@ description: 動的フィールド用語集 — Marketo ドキュメント — �
 title: 動的フィールド用語集
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 57%
+source-wordcount: '243'
+ht-degree: 56%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 57%
 | `{{friendly_unsubscribe}}` | メールにはうんざりですか？ こちらにお知らせください |
 | `{{my_name}}` | キース・フリン |
 | `{{my_signature}}` | Keith Flynn （シニアテクニカルライター） – Adobe |
-| `{{personal_email}}` | keith@pickyouremail.com |
+| `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | シニアテクニカルライター |
-| `{{work_website}}` | https://www.adobe.com |
+| `{{work_website}}` | <https://www.adobe.com> |
 
 **注意事項**：
 

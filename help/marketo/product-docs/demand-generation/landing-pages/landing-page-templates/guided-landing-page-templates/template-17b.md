@@ -4,7 +4,7 @@ description: テンプレート 17B - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 17B
 exl-id: f1483278-0f4a-40a4-b652-1df2be5abfa4
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 17B {#template-17b}
 
-右クリックして[テンプレート 17B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html?lang=ja)します
+右クリックして[テンプレート 17B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)します
 
 ![](assets/image2015-8-17-16-3a50-3a15.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 17B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html?lang=ja)
+[テンプレート 17B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)

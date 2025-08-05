@@ -6,7 +6,7 @@ description: Marketo EngageのメールDesigner内でメールコンテンツに
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '620'
 ht-degree: 32%
@@ -132,7 +132,6 @@ ht-degree: 32%
 
 +++
 
-
 +++ 無効な CSS のサンプル
 
 無効な CSS を入力すると、CSS を保存できないことを示すエラーメッセージが表示されます。 無効な CSS の例を以下に示します。
@@ -200,7 +199,6 @@ body {
 ```
 
 +++
-
 
 カスタム CSS は、E メールデザイナーの&#x200B;**[!UICONTROL 設定]**&#x200B;パネルでは解釈または検証されません。これは完全に独立しており、「**[!UICONTROL カスタム CSS を追加]**」オプションを通じてのみ変更できます。
 

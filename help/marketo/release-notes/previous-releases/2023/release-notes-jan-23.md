@@ -3,7 +3,7 @@ description: リリースノート - 2023年1月 - Marketo ドキュメント - 
 title: リリースノート - 2023年1月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 96%
@@ -41,6 +41,7 @@ ht-degree: 96%
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切替スイッチ</a></td>
   </tr>
   </tbody>
+
 </table>
 
 * **メールテンプレートの詳細とスニペットの詳細に対するコンポーネントでの使用の拡張**：新しい「UI で使用」タブには、最終変更日や変更者など、各使用者アセットに関する追加情報が表示されます。検索、並べ替え、フィルタリング機能を使用すると、簡単に分析を実行できます。この新しい UI コンポーネントは、メールテンプレートとスニペットアセットから取り込まれます。

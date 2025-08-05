@@ -4,10 +4,10 @@ description: リリースノート - 2015年7月 - Marketo ドキュメント - 
 title: リリースノート - 2015年7月
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
-source-wordcount: '279'
-ht-degree: 100%
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+workflow-type: tm+mt
+source-wordcount: '278'
+ht-degree: 96%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 100%
 
 **REST API を介した会社オブジェクトアクセス**：REST APIで、Marketo 会社（別名「アカウント」）オブジェクトにアクセスできるようになりました。つまり、Marketo で作成した会社オブジェクトの読み取り、更新、削除を行い、更新された[!DNL Lead] API を使用して、それらの会社にリードを関連付けることができます。
 
-会社 API のリファレンスガイドで[詳細]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies）をご確認ください。
+[ 詳細 ]<https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies>）については、Company API のリファレンスガイドを参照してください。
 
 ## メール配信へのアクセス {#access-email-deliverability}
 

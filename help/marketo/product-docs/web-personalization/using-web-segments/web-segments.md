@@ -4,7 +4,7 @@ description: Web セグメント - Marketo ドキュメント - 製品ドキュ�
 title: Web セグメント
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '2043'
 ht-degree: 92%
@@ -76,7 +76,7 @@ ht-degree: 92%
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-セグメントを有効または無効にするには、テーブルのそのセグメントのチェックボックスを選択し、テーブルの下部にある「[!UICONTROL &#x200B; アクションを選択 &#x200B;]」ドロップダウンボックスで、アクション「[!UICONTROL &#x200B; 有効 &#x200B;]」または「[!UICONTROL &#x200B; 無効 &#x200B;]」を選択します。 セグメントが無効の場合、「状態 [!UICONTROL &#x200B; 列に「無効 &#x200B;] と表示されます。
+セグメントを有効または無効にするには、テーブルのそのセグメントのチェックボックスを選択し、テーブルの下部にある「[!UICONTROL  アクションを選択 ]」ドロップダウンボックスで、アクション「[!UICONTROL  有効 ]」または「[!UICONTROL  無効 ]」を選択します。 セグメントが無効の場合、「状態 [!UICONTROL  列に「無効 ] と表示されます。
 
 ## セグメントを作成 {#create-segments}
 
@@ -160,7 +160,7 @@ ht-degree: 92%
 
 **組織グループ**
 
-「**[!UICONTROL プロファイルセグメント化]**」セクションで、「組織グループ **[!UICONTROL の横にあるチェックボックスをオン &#x200B;] します。**
+「**[!UICONTROL プロファイルセグメント化]**」セクションで、「組織グループ **[!UICONTROL の横にあるチェックボックスをオン ] します。**
 
 * ドロップダウンボックスで、次の選択肢から選択します。
 
@@ -177,7 +177,7 @@ ht-degree: 92%
 * **次の会社（特定の名前）から**
 
    * 追加する会社を選択ドロップダウンからターゲットにする会社を選択します。
-   * ターゲットとする顧客リストの名前を入力できます。* マッチングを向上するために、手動で名前を入力するかわりに&#x200B;_常に_&#x200B;アカウントリストを使用することを推奨します（以下を参照）。
+   * ターゲットとする顧客リストの名前を入力できます。* マッチングを向上するために、手動で名前を入力するかわりに&#x200B;*常に*&#x200B;アカウントリストを使用することを推奨します（以下を参照）。
 
 **アカウントリスト**
 
@@ -187,7 +187,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->アカウントリスト名の横にある角括弧内の数字は、ウェブパーソナライズの [Read API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/web-personalization).のリストのインデックス参照として使用されます。
+>アカウントリスト名の横にある角括弧内の数字は、web パーソナライゼーションの [Read API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/web-personalization).のリストのインデックス参照として使用されます。
 
 **ISP の除外**
 
@@ -219,14 +219,14 @@ ht-degree: 92%
 
 見込み客のステータス（既知または匿名）に従ってセグメントを定義します。
 
-* 既知 - 既知の訪問者のドロップダウンボックスからこのオプションを選択します。訪問者は Web サイトにフォームを送信し、[!DNL Web Personalization][!UICONTROL &#x200B; 人物 &#x200B;] ページに表示されると知られています。
+* 既知 - 既知の訪問者のドロップダウンボックスからこのオプションを選択します。訪問者は Web サイトにフォームを送信し、[!DNL Web Personalization][!UICONTROL  人物 ] ページに表示されると知られています。
 * 匿名 - 匿名訪問者のドロップダウンボックスで、このオプションを選択します。
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
 ### 行動 {#behavioral}
 
-**[!UICONTROL 訪問回数 &#x200B;] -** 訪問者行動または ID に従ってセグメントを定義します。
+**[!UICONTROL 訪問回数 ] -** 訪問者行動または ID に従ってセグメントを定義します。
 
 * 訪問数 - ドロップダウンボックスからこのオプションを選択して、ウェブサイトの見込み客の訪問数を指定します。
 
@@ -258,7 +258,7 @@ ht-degree: 92%
 
 **[!UICONTROL モバイル OS]**
 
-[!UICONTROL &#x200B; モバイル OS] をセグメントエディターにドラッグ&amp;ドロップします
+[!UICONTROL  モバイル OS] をセグメントエディターにドラッグ&amp;ドロップします
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
@@ -286,13 +286,13 @@ ht-degree: 92%
 
 **ユーザコンテキスト API**
 
-ウェブパーソナライズ API 呼び出しについて詳しくは[こちら](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/web-personalization)を参照してください。
+Web パーソナライゼーション API 呼び出しについて詳しくは[こちら](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/web-personalization)を参照してください。
 
 >[!TIP]
 >
 >**ワイルドカードの使用 -** 何かを含む検索語または URL を含める場合（例：「[google.com](https://google.com)」または「検索語製品」）、これをワイルドカードと呼び、両端にアスタリスク（&#42;）を付けて入力する必要があります。このように、[google.com](https://google.com) は、「&#42; [google.com](https://google.com)&#42;」として入力する必要があります。
 
-## 編集 [!UICONTROL &#x200B; セグメント &#x200B;] {#edit-segments}
+## 編集 [!UICONTROL  セグメント ] {#edit-segments}
 
 作成済みのセグメントを編集できます。
 

@@ -6,10 +6,10 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 50%
+source-wordcount: '303'
+ht-degree: 49%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo の&#x200B;_ソーシャルアプリ_&#x200B;を使用すると、リー
 
 ランディングページの共有で生成される [!DNL Facebook] しいリッチ投稿で使用するページ情報のタイプを指定できます。
 
-1. ***[!UICONTROL ビデオまたはソーシャルボタンのエディターで]** Facebook メッセージ *[!DNL YouTube*]*」を選択します。
+1. _**[!UICONTROL ビデオまたはソーシャルボタンのエディターで]** Facebook メッセージ _[!DNL YouTube_]_を選択します。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

@@ -4,7 +4,7 @@ description: テンプレート 13C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 13C
 exl-id: 05624f86-03ab-45ab-8daa-61cf4f2b44ba
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 13C {#template-13c}
 
-右クリックして[テンプレート 13C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=ja)します
+右クリックして[テンプレート 13C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)します
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=ja)
+[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)

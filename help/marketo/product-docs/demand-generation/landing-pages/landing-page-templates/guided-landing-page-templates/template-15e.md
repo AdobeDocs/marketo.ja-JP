@@ -4,7 +4,7 @@ description: テンプレート 15E - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 15E
 exl-id: 4f0b474d-b347-4ce9-bc6c-0479468cf6e6
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 15E {#template-15e}
 
-右クリックして[テンプレート 15E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html?lang=ja)します
+右クリックして[テンプレート 15E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)します
 
 ![](assets/image2015-8-13-14-3a8-3a14.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 15E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html?lang=ja)
+[Template 15E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15e.html)

@@ -4,7 +4,7 @@ description: 非ネイティブ統合向け [!DNL Sales Insight] キュメント
 title: '非ネイティブ統合の [!DNL Sales Insight] ー  [!DNL Salesforce] '
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1200'
 ht-degree: 52%
@@ -53,12 +53,12 @@ ht-degree: 52%
     </tbody>
    </table>
 
-   * 販売担当者向け API ドキュメント：[https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * 販売担当者向け API ドキュメント：[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * 販売担当者の同期に関する API ドキュメント：[https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. [!DNL Salesforce] アカウントをMarketoに同期します。
 
-   [!DNL Salesforce] アカウントについては、Marketo会社をアップサートする必要があります。 企業のアップサートには、「_externalCompanyId_」および「_externalSalesPersonId_」フィールドが必須です。
+   [!DNL Salesforce] アカウントについては、Marketo会社をアップサートする必要があります。 企業のアップサートには、「*externalCompanyId*」および「*externalSalesPersonId*」フィールドが必須です。
 
    <table>
     <colgroup>
@@ -85,12 +85,12 @@ ht-degree: 52%
     </tbody>
    </table>
 
-   * 企業向け API ドキュメント：[https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * 企業向け API ドキュメント：[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * 会社の同期に関する API ドキュメント：[https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies/operation/syncCompaniesUsingPOST){target="_blank"}
 
 1. [!DNL Salesforce] のリード/連絡先をMarketoに同期します。
 
-   [!DNL Salesforce] リード/連絡先のMarketo リードをアップサートする必要があります。 リードのアップサートには、「_externalPersonId_」、「_externalSalesPersonId_」および「_externalCompanyId_」フィールドが必須です。
+   [!DNL Salesforce] リード/連絡先のMarketo リードをアップサートする必要があります。 リードのアップサートには、「*externalPersonId*」、「*externalSalesPersonId*」および「*externalCompanyId*」フィールドが必須です。
 
    <table>
     <colgroup>
@@ -127,7 +127,7 @@ ht-degree: 52%
 
 1. 商談 [!DNL Salesforce]Marketoに同期します。
 
-   [!DNL Salesforce] Opportunity のMarketo Opportunity をアップサートする必要があります。 商談のアップサートには、「_externalOpportunityId_」、「_externalCompanyId_」および「_externalSalesPersonId_」フィールドが必須です。
+   [!DNL Salesforce] Opportunity のMarketo Opportunity をアップサートする必要があります。 商談のアップサートには、「*externalOpportunityId*」、「*externalCompanyId*」および「*externalSalesPersonId*」フィールドが必須です。
 
    <table>
     <colgroup>
@@ -159,12 +159,12 @@ ht-degree: 52%
     </tbody>
    </table>
 
-   * オポチュニティに関する API ドキュメント：[https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * オポチュニティに関する API ドキュメント：[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * オポチュニティを同期するための API ドキュメント：[https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 連絡先 [!DNL Salesforce] 役割をMarketoに同期します。
 
-   [!DNL Salesforce][!DNL Salesforce] 商談の連絡先ロールは、Marketo商談ロールを介して同期できます。 商談ロールレコードには、「_externalOpportunityId_」、「_role_」および「_leadId_」フィールドが必須です。
+   [!DNL Salesforce][!DNL Salesforce] 商談の連絡先ロールは、Marketo商談ロールを介して同期できます。 商談ロールレコードには、「*externalOpportunityId*」、「*role*」および「*leadId*」フィールドが必須です。
 
    <table>
     <colgroup>
@@ -196,14 +196,14 @@ ht-degree: 52%
     </tbody>
    </table>
 
-   * オポチュニティに関する API ドキュメント：[https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * オポチュニティに関する API ドキュメント：[https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * オポチュニティを同期するための API ドキュメント：[https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. 「最新の注目のアクション」／「MSI スコア」フィールドを SFDC に同期します。
 
    [!DNL Salesforce] オブジェクトがMarketoに正しく同期されると、MSI 機能を利用できるようになります。 MSI の「最新の注目のアクション」／「スコア」フィールドは、リードの REST API で公開されます。これらのフィールドは、MSI によって計算され、読み取り専用です。
 
-   Marketo リードの最後の興味深い瞬間/スコアリングフィールドは、REST API リードエンドポイントを使用して、[!DNL Salesforce] に定期的に同期する必要があります。 _externalPersonId_ を filterType として使用し、コンテン [!DNL Salesforce] リード GUID を filterValue として渡すことで、Marketo リードのこのエンドポイントをクエリします。
+   Marketo リードの最後の興味深い瞬間/スコアリングフィールドは、REST API リードエンドポイントを使用して、[!DNL Salesforce] に定期的に同期する必要があります。 *externalPersonId* を filterType として使用し、コンテン [!DNL Salesforce] リード GUID を filterValue として渡すことで、Marketo リードのこのエンドポイントをクエリします。
 
    | GET /rest/v1/leads.json?filterType=externalPersonId&amp;filterValues=salesforceLeadId1,salesforceLeadId2 |
    |---|

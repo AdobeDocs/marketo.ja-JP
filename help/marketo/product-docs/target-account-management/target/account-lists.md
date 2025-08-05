@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378814
-description: '[!UICONTROL &#x200B; アカウントリスト &#x200B;] - Marketo ドキュメント – 製品ドキュメント'
-title: '[!UICONTROL &#x200B; 口座簿 &#x200B;]'
+description: '[!UICONTROL  アカウントリスト ] - Marketo ドキュメント – 製品ドキュメント'
+title: '[!UICONTROL  口座簿 ]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '343'
 ht-degree: 88%
 
 ---
 
-# [!UICONTROL &#x200B; 口座簿 &#x200B;] {#account-lists}
+# [!UICONTROL  口座簿 ] {#account-lists}
 
 顧客リストは、一緒にターゲット設定できる重点顧客の集まりです。顧客リストを使用すると、特定顧客を業種、場所、または会社の規模別にターゲット設定できます。
 
@@ -21,7 +21,7 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->Marketo[!UICONTROL Target アカウント管理 &#x200B;] で作成したアカウントリストは、[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) でスマートリストや web キャンペーンを作成する際に自動的に使用できます。
+>Marketo[!UICONTROL Target アカウント管理 ] で作成したアカウントリストは、[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) でスマートリストや web キャンペーンを作成する際に自動的に使用できます。
 
 ## 新規顧客リストの作成 {#create-a-new-account-list}
 
@@ -61,7 +61,7 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->これらの手順は、顧客リストにのみ適用されます。_動的_&#x200B;顧客リストは、関連する CRM 顧客ビューの名前を使用します。
+>これらの手順は、顧客リストにのみ適用されます。*動的*&#x200B;顧客リストは、関連する CRM 顧客ビューの名前を使用します。
 
 1. 名前を変更する顧客を選択し、**[!UICONTROL 顧客リストのアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 顧客リストを名前変更]**」を選択します。
 
@@ -91,5 +91,5 @@ ht-degree: 88%
 
 >[!MORELIKETHIS]
 >
->* [ アカウントリストへの既存の [!UICONTROL &#x200B; 名前付きアカウント &#x200B;] の追加 ](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [ アカウントリストへの既存の [!UICONTROL  名前付きアカウント ] の追加 ](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [アカウントリストインサイト](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)
