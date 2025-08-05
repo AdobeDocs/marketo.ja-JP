@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 17B {#template-17b}
 
-右クリックして[テンプレート 17B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)します
+右クリックして[テンプレート 17B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html?lang=ja)します
 
 ![](assets/image2015-8-17-16-3a50-3a15.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 17B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html)
+[テンプレート 17B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html?lang=ja)

@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 13C {#template-13c}
 
-右クリックして[テンプレート 13C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)します
+右クリックして[テンプレート 13C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=ja)します
 
 ![](assets/image2015-8-11-11-3a45-3a44.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html)
+[Template13C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13c.html?lang=ja)

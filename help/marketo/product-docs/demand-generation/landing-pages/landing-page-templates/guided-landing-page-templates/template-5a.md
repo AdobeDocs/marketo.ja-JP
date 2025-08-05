@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 5A {#template-5a}
 
-右クリックして[テンプレート 5A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)します
+右クリックして[テンプレート 5A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html?lang=ja)します
 
 ![](assets/image2015-6-29-16-3a9-3a32.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
+[Template 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html?lang=ja)

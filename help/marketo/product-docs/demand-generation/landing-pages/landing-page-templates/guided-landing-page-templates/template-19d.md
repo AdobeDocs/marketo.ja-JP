@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 19D {#template-19d}
 
-右クリックして[テンプレート 19D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)します
+右クリックして[テンプレート 19D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html?lang=ja)します
 
 ![](assets/image2015-9-16-17-3a1-3a31.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 19D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)
+[Template 19D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html?lang=ja)
