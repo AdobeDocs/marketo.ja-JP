@@ -12,4 +12,4 @@ ht-degree: 33%
 
 # CRM 同期 {#crm-sync}
 
-**![SFDC同期 ](assets/sfdc.png)SFDC同期** [SFDC同期世界で最もクールなSalesforce同期。 本当に素晴らしいです。](https://docs.marketo.com/display/DOCS/Salesforce+Sync)     **![Microsoft Dynamic Sync](assets/dynamics.png)Microsoft Dynamic Sync**[Microsoft Dynamic Sync Microsoftが CRM で楽しい新しいテクニックを見せています。](https://docs.marketo.com/display/DOCS/Microsoft+Dynamics+Sync)
+**![SFDC同期 ](assets/sfdc.png)SFDC同期** [SFDC同期世界で最もクールなSalesforce同期。 本当に素晴らしいです。](https://docs.marketo.com/display/DOCS/Salesforce+Sync)     **![Microsoft Dynamic Sync](assets/dynamics.png)Microsoft Dynamic Sync**&#x200B;[Microsoft Dynamic Sync Microsoftが CRM で楽しい新しいテクニックを見せています。](https://docs.marketo.com/display/DOCS/Microsoft+Dynamics+Sync)

@@ -55,7 +55,7 @@ ht-degree: 32%
 
    >[!NOTE]
    >
-   >「**[!UICONTROL 基本照合]**」では電子メールアドレスのみが使用されます。**[!UICONTROL 詳細照合]**&#x200B;では、7 つの追加フィールドが使用されて、一致率を高め、コンバージョンを増やします。ただし、会社のプライバシーポリシーで追加フィールドの共有が許可されていない場合や、データに含まれていない場合は、「[!UICONTROL  基本一致 ]」を選択します。
+   >「**[!UICONTROL 基本照合]**」では電子メールアドレスのみが使用されます。**[!UICONTROL 詳細照合]**&#x200B;では、7 つの追加フィールドが使用されて、一致率を高め、コンバージョンを増やします。ただし、会社のプライバシーポリシーで追加フィールドの共有が許可されていない場合や、データに含まれていない場合は、「[!UICONTROL &#x200B; 基本一致 &#x200B;]」を選択します。
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
@@ -63,7 +63,7 @@ ht-degree: 32%
 
    >[!CAUTION]
    >
-   >移動する前に、[ アカウント内で  [!DNL Facebook] カスタムオーディエンス条件に同意する ](https://www.facebook.com/ads/manage/customaudiences/tos.php)[!DNL Facebook] ことを確認してください。 これをおこなわないと、オーディエンスのアップデートが失敗します。
+   >移動する前に、[ アカウント内で  [!DNL Facebook] カスタムオーディエンス条件に同意する ](https://www.facebook.com/ads/manage/customaudiences/tos.php) [!DNL Facebook] ことを確認してください。 これをおこなわないと、オーディエンスのアップデートが失敗します。
 
 >[!MORELIKETHIS]
 >

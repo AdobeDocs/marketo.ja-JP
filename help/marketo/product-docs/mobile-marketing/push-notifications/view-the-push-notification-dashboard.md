@@ -27,7 +27,7 @@ ht-degree: 80%
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. iOSとAndroidの [!UICONTROL  合計送信済み数 ] と [!UICONTROL  合計タップ数 ] を円グラフで表示できます。 下にスクロールして、棒グラフの [!UICONTROL  減衰をタップ ] を表示します。
+1. iOSとAndroidの [!UICONTROL &#x200B; 合計送信済み数 &#x200B;] と [!UICONTROL &#x200B; 合計タップ数 &#x200B;] を円グラフで表示できます。 下にスクロールして、棒グラフの [!UICONTROL &#x200B; 減衰をタップ &#x200B;] を表示します。
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

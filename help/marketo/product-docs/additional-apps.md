@@ -12,4 +12,4 @@ ht-degree: 30%
 
 # その他のアプリ {#additional-apps}
 
-**![Marketo Financial Management](assets/office-09.png)Marketo Financial Management** [Marketo Financial Management の予算と計画。 このツールは、マーケティング費用の整理に役立ちます。](https://docs.marketo.com/display/DOCS/Marketo+Financial+Management)     **![SEO](assets/seo-15.png)SEO**[SEO 人々が最も関連性の高いキーワードを検索する際に、最初のページに移動します。](https://docs.marketo.com/display/DOCS/SEO)     **![MarketoのセールスInsight](assets/alerts-10.png)MarketoのセールスInsight** [MarketoのセールスInsightMarketoを活用しましょう。](https://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)
+**![Marketo Financial Management](assets/office-09.png)Marketo Financial Management** [Marketo Financial Management の予算と計画。 このツールは、マーケティング費用の整理に役立ちます。](https://docs.marketo.com/display/DOCS/Marketo+Financial+Management)     **![SEO](assets/seo-15.png)SEO**&#x200B;[SEO 人々が最も関連性の高いキーワードを検索する際に、最初のページに移動します。](https://docs.marketo.com/display/DOCS/SEO)     **![MarketoのセールスInsight](assets/alerts-10.png)MarketoのセールスInsight** [MarketoのセールスInsightMarketoを活用しましょう。](https://docs.marketo.com/display/DOCS/Marketo+Sales+Insight)

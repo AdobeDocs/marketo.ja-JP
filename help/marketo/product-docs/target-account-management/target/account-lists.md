@@ -1,7 +1,7 @@
 ---
 unique-page-id: 11378814
-description: '[!UICONTROL  アカウントリスト ] - Marketo ドキュメント – 製品ドキュメント'
-title: '[!UICONTROL  口座簿 ]'
+description: '[!UICONTROL &#x200B; アカウントリスト &#x200B;] - Marketo ドキュメント – 製品ドキュメント'
+title: '[!UICONTROL &#x200B; 口座簿 &#x200B;]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
 source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
@@ -11,7 +11,7 @@ ht-degree: 88%
 
 ---
 
-# [!UICONTROL  口座簿 ] {#account-lists}
+# [!UICONTROL &#x200B; 口座簿 &#x200B;] {#account-lists}
 
 顧客リストは、一緒にターゲット設定できる重点顧客の集まりです。顧客リストを使用すると、特定顧客を業種、場所、または会社の規模別にターゲット設定できます。
 
@@ -21,7 +21,7 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->Marketo[!UICONTROL Target アカウント管理 ] で作成したアカウントリストは、[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) でスマートリストや web キャンペーンを作成する際に自動的に使用できます。
+>Marketo[!UICONTROL Target アカウント管理 &#x200B;] で作成したアカウントリストは、[Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) でスマートリストや web キャンペーンを作成する際に自動的に使用できます。
 
 ## 新規顧客リストの作成 {#create-a-new-account-list}
 
@@ -91,5 +91,5 @@ ht-degree: 88%
 
 >[!MORELIKETHIS]
 >
->* [ アカウントリストへの既存の [!UICONTROL  名前付きアカウント ] の追加 ](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [ アカウントリストへの既存の [!UICONTROL &#x200B; 名前付きアカウント &#x200B;] の追加 ](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [アカウントリストインサイト](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)

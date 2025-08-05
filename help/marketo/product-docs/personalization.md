@@ -13,4 +13,4 @@ ht-degree: 44%
 # パーソナライゼーション {#personalization}
 
 マーケティングが個人化されればされるほど、応答の可能性は高くなります。Marketo には多くのパーソナライゼーションオプションがあります。
-**![セグメント化とスニペット ](assets/graphic-design-tools-18.png) セグメント化とスニペット**[ セグメント化とスニペットは、メールとランディングページを動的にし、パーソナライズします。](https://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)     **![ランディングページ ](assets/office-artboard-80.png) ランディングページ**[ ランディングページ個別のコピーやレイアウトでランディングページを輝かせます。](https://docs.marketo.com/display/DOCS/Personalizing+Landing+Pages)     **![メール ](assets/office-27-1.png) メール**[ メールは、詳細にカスタマイズできます。 メールマーケティング：一般で機能をご確認ください。](https://docs.marketo.com/display/DOCS/General)
+**![セグメント化とスニペット ](assets/graphic-design-tools-18.png) セグメント化とスニペット**&#x200B;[ セグメント化とスニペットは、メールとランディングページを動的にし、パーソナライズします。](https://docs.marketo.com/display/DOCS/Segmentation+and+Snippets)     **![ランディングページ ](assets/office-artboard-80.png) ランディングページ**&#x200B;[ ランディングページ個別のコピーやレイアウトでランディングページを輝かせます。](https://docs.marketo.com/display/DOCS/Personalizing+Landing+Pages)     **![メール ](assets/office-27-1.png) メール**&#x200B;[ メールは、詳細にカスタマイズできます。 メールマーケティング：一般で機能をご確認ください。](https://docs.marketo.com/display/DOCS/General)
