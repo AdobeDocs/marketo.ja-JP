@@ -3,7 +3,7 @@ description: ウェビナーチームの追加 - Marketo ドキュメント - �
 title: ウェビナーチームの追加
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 88%
@@ -14,17 +14,17 @@ ht-degree: 88%
 
 インタラクティブウェビナーのウェビナーチームは、Adobe Connect でのウェビナーの配信を成功させるのに貢献するすべてのロールで構成されます。プレゼンターと共同主催者の両方が含まれます。
 
->[!NOTE]
->
->Marketo Engage でのプレゼンターと共同主催者は、Adobe Connect でのウェビナー配信中のプレゼンターとホストのロールに正確にマッピングします。共同主催者はレイアウトとポッドを変更できますが、プレゼンターは変更できません。
-
-プレゼンターはウェビナーエクスペリエンスの配信に参加する外部のロールですが、共同主催者はプレゼンターとして機能するだけでなく、ウェビナー配信の管理面も処理できます。共同主催者は、内部と外部の両方になることができます。外部の共同主催者は、Marketo のインタラクティブウェビナーイベントプログラムにはアクセスできませんが、Adobe Connect での配信中にホストの権限を持ちます。内部の共同主催者は、Marketo のインタラクティブウェビナーイベントプログラムと、配信中のホストの権限の両方にアクセスできます。これにより、インタラクティブウェビナープログラムの元の作成者がインタラクティブウェビナーのユーザセットに含まれなくなった場合や、Marketo ユーザでさえなくなった場合に、内部の共同主催者がインタラクティブウェビナーイベントプログラムを主導できます。
-
 >[!PREREQUISITES]
 >
 >* [インタラクティブウェビナーの作成](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
 >
 >* [インタラクティブウェビナーのデザイン](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
+
+プレゼンターはウェビナーエクスペリエンスの配信に参加する外部のロールですが、共同主催者はプレゼンターとして機能するだけでなく、ウェビナー配信の管理面も処理できます。共同主催者は、内部と外部の両方になることができます。外部の共同主催者は、Marketo のインタラクティブウェビナーイベントプログラムにはアクセスできませんが、Adobe Connect での配信中にホストの権限を持ちます。内部の共同主催者は、Marketo のインタラクティブウェビナーイベントプログラムと、配信中のホストの権限の両方にアクセスできます。これにより、インタラクティブウェビナープログラムの元の作成者がインタラクティブウェビナーのユーザセットに含まれなくなった場合や、Marketo ユーザでさえなくなった場合に、内部の共同主催者がインタラクティブウェビナーイベントプログラムを主導できます。
+
+>[!NOTE]
+>
+>Marketo Engage でのプレゼンターと共同主催者は、Adobe Connect でのウェビナー配信中のプレゼンターとホストのロールに正確にマッピングします。共同主催者はレイアウトとポッドを変更できますが、プレゼンターは変更できません。
 
 ## 共同主催者の追加 {#add-a-co-host}
 

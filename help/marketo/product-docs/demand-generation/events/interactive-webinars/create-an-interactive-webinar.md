@@ -3,9 +3,9 @@ description: インタラクティブウェビナーの作成 - Marketo ドキ�
 title: インタラクティブウェビナーの作成
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
-workflow-type: ht
-source-wordcount: '306'
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
+workflow-type: tm+mt
+source-wordcount: '284'
 ht-degree: 100%
 
 ---
@@ -65,11 +65,3 @@ ht-degree: 100%
 >前のウェビナーが予定時間を超過した場合に備えて、連続する 2 つのイベントの間には 30 分の間隔を空けることをお勧めします（ライセンスが同時ウェビナーをサポートしている場合を除く）。
 
 次に、[ウェビナーをデザイン](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}します。
-
->[!IMPORTANT]
->
->プレゼンターや共同主催者を追加する&#x200B;_前_&#x200B;に、ウェビナーをデザインすることを強くお勧めします。
-
->[!MORELIKETHIS]
->
->[プレゼンターや共同司会者を追加する方法について詳しくは、こちらを参照してください](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}

@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 99%
@@ -729,8 +729,8 @@ ht-degree: 99%
             + [インタラクティブウェビナーのベストプラクティス](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
             + [ユーザーとライセンスの管理](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [インタラクティブウェビナーの作成](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
-            + [ウェビナーチームの追加](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [インタラクティブウェビナーの設計](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [ウェビナーチームの追加](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [インタラクティブウェビナーのテスト](product-docs/demand-generation/events/interactive-webinars/testing-an-interactive-webinar.md)
             + [インタラクティブウェビナーの配信](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [テンプレート](product-docs/demand-generation/events/interactive-webinars/templates.md)
@@ -742,7 +742,7 @@ ht-degree: 99%
             + [生成 AI 機能](product-docs/demand-generation/events/interactive-webinars/gen-ai.md)
             + [イベントワークフロー](product-docs/demand-generation/events/interactive-webinars/event-workflows.md)
             + [エンゲージメントダッシュボード](product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md)
-            + [Marketo Sales Insight のインタラクティブウェビナー](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-in-marketo-sales-insight.md)
+            + [Marketo セールスインサイトのインタラクティブウェビナー](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-in-marketo-sales-insight.md)
       + Facebook {#facebook}
          + [Facebook でのカスタムオーディエンスへのリードの追加](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Facebook でのカスタムオーディエンスの作成](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
@@ -1514,12 +1514,12 @@ ht-degree: 99%
                + [メールアクティビティ](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/email-activities.md)
                + [Web アクティビティ](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/web-activities.md)
          + インストール中 {#installing}
-            + [Microsoft Dynamics 用 Marketo Sales Insight ソリューションのダウンロード](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
-            + [Marketo Sales Insight の Microsoft Dynamics 2011 へのインストールと設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
-            + [Marketo Sales Insight の Microsoft Dynamics 2013 へのインストールと設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
-            + [Marketo Sales Insight の Microsoft Dynamics 2015 へのインストールと設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
-            + [Marketo Sales Insight の Microsoft Dynamics 365 へのインストールと設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
-            + [Marketo Sales Insight の Microsoft Dynamics Online へのインストールおよび設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
+            + [Microsoft Dynamics 用 Marketo セールスインサイトソリューションのダウンロード](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)
+            + [Marketo セールスインサイトの Microsoft Dynamics 2011 へのインストールと設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
+            + [Marketo セールスインサイトの Microsoft Dynamics 2013 へのインストールと設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
+            + [Marketo セールスインサイトの Microsoft Dynamics 2015 へのインストールと設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
+            + [Marketo セールスインサイトの Microsoft Dynamics 365 へのインストールと設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
+            + [Marketo セールスインサイトの Microsoft Dynamics Online へのインストールおよび設定](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
          + 設定と使用 {#setting-up-and-using}
             + [Microsoft Dynamics から Marketo Campaign へのリード／取引先責任者の追加](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
             + [Marketo と Dynamics を同期するための必須フィールド](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)
@@ -1534,10 +1534,10 @@ ht-degree: 99%
          + インストール {#installation}
             + [Salesforce AppExchange での Marketo セールスインサイトパッケージのインストール](product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
          + 設定 {#configuration}
-            + [Salesforce Enterprise／Unlimited での Marketo Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
-            + [Salesforce Professional Edition での Marketo Sales Insight の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+            + [Salesforce Enterprise／Unlimited での Marketo セールスインサイトの設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+            + [Salesforce Professional Edition での Marketo セールスインサイトの設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
             + [既存顧客の設定](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md)
-            + [Salesforce の Marketo Sales Insight 設定タブ](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+            + [Salesforce の Marketo セールスインサイト設定タブ](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Salesforce への「Marketo」タブの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
             + [Marketo 管理者向け Sales Insight ページ](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
             + [Sales Insight 権限セットの追加](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
@@ -1552,7 +1552,7 @@ ht-degree: 99%
             + [Marketo セールスインサイトの複数レコードへのメール送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/send-an-email-to-multiple-records-in-marketo-sales-insight.md)
             + MSI パネルのアクション {#actions-in-the-msi-panel}
                + [Sales Insight でのアクションの選択](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
-               + [Marketo Sales Insight での登録解除フッターの設定](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
+               + [Marketo セールスインサイトでの登録解除フッターの設定](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [セールステンプレートのロック](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
                + [Sales Insight へのメールの公開](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [テストメールの送信](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
@@ -1577,7 +1577,7 @@ ht-degree: 99%
                   + [注目のアクションの使用](product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)
          + モバイル用 MSI {#msi-for-mobile}
             + [Salesforce1 での最有望見込客](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
-            + [Salesforce1 での Marketo Sales Insight のインストールおよび設定](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
+            + [Salesforce1 での Marketo セールスインサイトのインストールおよび設定](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/install-and-configure-marketo-sales-insight-in-salesforce1.md)
             + [Salesforce1 での注目のアクション](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
             + [Salesforce1 でのリードフィードの表示](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/seeing-lead-feed-in-salesforce1.md)
             + [Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション](product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
@@ -1592,7 +1592,7 @@ ht-degree: 99%
          + [IT による Marketo Outlook プラグインのアンインストール](product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
          + [Outlook 用メールアドインを使用したメールの送信とトラッキング](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
          + [Marketo テンプレートを使用した Outlook からの送信とトラッキング](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
-         + [Marketo Sales Insight プラグイン管理者の指定](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
+         + [Marketo セールスインサイトプラグイン管理者の指定](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
          + [Outlook 用 Marketo メールアドインのアップグレード](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
       + [非ネイティブ MS Dynamics 統合用 Sales Insight](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [非ネイティブ Salesforce 統合用セールスインサイト](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
@@ -1823,7 +1823,7 @@ ht-degree: 99%
             + [売上高エクスプローラーでのダッシュボードの使用](product-docs/reporting/revenue-cycle-analytics/revenue-explorer/using-dashboards-in-revenue-explorer.md)
          + 収益ツール {#revenue-tools}
             + [期間原価の定義](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
-            + [売上高サイクル分析のカスタムフィールド同期の有効化](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
+            + [収益サイクル分析のカスタムフィールド同期の有効化](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
             + [売上高ステージ別のリードレポート](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
             + アトリビューション {#attribution}
                + [アトリビューションについて](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
@@ -1880,7 +1880,7 @@ ht-degree: 99%
          + [アカウントプロファイリングの設定](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
          + [アカウントのプロファイリングのランキングと調整](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
          + [新しいアカウントの検出](product-docs/target-account-management/account-profiling/new-account-discovery.md)
-   + ウェブパーソナライズ {#web-personalization}
+   + Web パーソナライゼーション {#web-personalization}
       + アカウントベースのウェブマーケティング {#account-based-web-marketing}
          + [TAM によるアカウントベース web マーケティング](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [新規アカウントリストの作成](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
