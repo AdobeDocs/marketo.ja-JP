@@ -4,10 +4,10 @@ description: フォームを作成する - Marketo ドキュメント - 製品�
 title: フォームを作成する
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: f796f40952bcacf15a2141dfec4c76c2fa3f0796
+source-git-commit: f27b520544583b9511428b0bc3a41cc1527cc332
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 50%
+source-wordcount: '106'
+ht-degree: 39%
 
 ---
 
@@ -21,23 +21,19 @@ ht-degree: 50%
 
 1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/create-a-form-1.png)
 
-1. **プログラム**&#x200B;を選択します。
+1. 目的のプログラムを見つけます。 そのフォルダーを右クリックして、「**[!UICONTROL 新しいローカルアセット]**」を選択します。
 
-   ![](assets/programseelct.png)
-
-1. 「**[!UICONTROL 新規作成]**」から「**[!UICONTROL 新規ローカルアセット]**」を選択します。
-
-   ![](assets/newlocalasset.png)
+   ![](assets/create-a-form-2.png)
 
 1. 「**[!UICONTROL フォーム]**」を選択します。
 
-   ![](assets/image2014-9-15-17-3a1-3a20.png)
+   ![](assets/create-a-form-3.png)
 
 1. フォーム&#x200B;**[!UICONTROL 名前]**&#x200B;を入力し、「**[!UICONTROL 作成]**」をクリックします。
 
-   ![](assets/newformwithhands.png)
+   ![](assets/create-a-form-4.png)
 
 >[!TIP]
 >
