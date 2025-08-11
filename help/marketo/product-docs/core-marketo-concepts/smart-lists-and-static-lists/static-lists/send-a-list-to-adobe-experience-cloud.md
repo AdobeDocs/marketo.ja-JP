@@ -4,10 +4,10 @@ description: Adobe Experience Cloud へのリストの送信 - Marketo ドキュ
 title: Adobe Experience Cloud へのリストの送信
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
-workflow-type: ht
-source-wordcount: '784'
-ht-degree: 100%
+source-git-commit: 8bc619b9b9a75c3b20a8f30ebf902ab4b881e627
+workflow-type: tm+mt
+source-wordcount: '811'
+ht-degree: 84%
 
 ---
 
@@ -70,7 +70,7 @@ ht-degree: 100%
 
    ![](assets/send-a-list-to-adobe-experience-cloud-7.png)
 
-1. 「**OK**」をクリックします。
+1. 「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/send-a-list-to-adobe-experience-cloud-8.png)
 
@@ -92,13 +92,15 @@ ht-degree: 100%
 
 ## 注意事項 {#things-to-note}
 
-**Adobe Analytics との共有**
+### Adobe Analyticsへの共有 {#sharing-to-adobe-analytics}
 
-* Adobe Audience Manager と Adobe Analytics の両方を所有しているお客様は、この統合を使用して Marketo から Adobe Analytics レポートスイートにオーディエンスを共有できますが、これを有効にするには、Adobe Audience Manager で追加の設定手順を行う必要があります。この設定方法について詳しくは、[Adobe Audience Manager のドキュメント](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"}を参照してください。
+* Adobe Audience ManagerとAdobe Analyticsの両方を所有するユーザーの場合、この統合により、オーディエンスをMarketoからAdobe Analytics レポートスイートに共有できますが、これを有効にするには、Adobe Audience Managerでいくつかの追加設定手順を実行する必要があります。 設定方法について詳しくは、[Adobe Audience Managerのドキュメント ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"} を参照してください。
 
-* リストが空の場合や、ECID 値を持つ人物がいない場合、リスト名は Marketo Engage の外部で参照されるようにプッシュされません。
+* リストをMarketoからAdobe Audience Managerにアップロードした後は、Adobe Targetからアクセスすることもできます。 この設定は [Adobe Targetで有効にする必要があります ](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
 
-**Adobe Audience Manager 顧客向け特性の使用**
+* リストが空の場合、または ECID 値を持つユーザーがいない場合、リスト名はプッシュされず、Marketoの外部で参照されません。
+
+### Adobe Audience Managerのお客様向けの特性の使用 {#trait-usage-aam}
 
 Marketo でリストの書き出しを開始すると、Adobe Audience Manager インスタンスに次の変更が反映されます。
 
