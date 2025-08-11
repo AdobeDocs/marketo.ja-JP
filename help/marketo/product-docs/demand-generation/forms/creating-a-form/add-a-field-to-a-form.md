@@ -4,47 +4,53 @@ description: フォームへのフィールドの追加 - Marketo ドキュメ�
 title: フォームへのフィールドの追加
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 92bc76d7538d24fabe7c3c69d7a4988b543edd39
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 88%
+source-wordcount: '138'
+ht-degree: 64%
 
 ---
 
 # フォームへのフィールドの追加 {#add-a-field-to-a-form}
 
-[フォームを作成](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)して[テーマを選択](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)したら、ユーザーが入力するフィールドを追加できます。手順は次のとおりです。
+[フォームを作成](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}して[テーマを選択](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}したら、ユーザーが入力するフィールドを追加できます。手順は次のとおりです。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
-   ![](assets/login-marketing-activities-2.png)
+   ![](assets/add-a-field-to-a-form-1.png)
 
-1. フォームを選択して、「**[!UICONTROL フォームの編集]**」をクリックします。
+1. フォームを選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします
 
-   ![](assets/editform-1.png)
-
-1. 「**+**」をクリックします。
-
-   ![](assets/image2014-9-15-17-18-17.png)
+   ![](assets/add-a-field-to-a-form-2.png)
 
    >[!NOTE]
    >
-   >新しいフォームを作成すると、[!UICONTROL &#x200B; 名 &#x200B;]、[!UICONTROL &#x200B; 姓 &#x200B;]、および [!UICONTROL &#x200B; メールアドレス &#x200B;] が自動的に追加されます。
+   >対象のフォームが _承認済み_ 状態の場合は、まず **ドラフトを作成** をクリックする必要があります。
+
+1. フォームで、「**+**」記号をクリックします。
+
+   ![](assets/add-a-field-to-a-form-3.png)
+
+   >[!NOTE]
+   >
+   >新しいフォームを作成すると、[!UICONTROL  名 ]、[!UICONTROL  姓 ]、および [!UICONTROL  メールアドレス ] が自動的に追加されます。
 
 1. フォームに追加するフィールドを探して選択します。
 
-   ![](assets/image2014-9-15-17-3a18-3a26.png)
+   ![](assets/add-a-field-to-a-form-4.png)
 
 1. 必要なだけフィールドを追加して、「**[!UICONTROL 完了]**」をクリックします。
 
-   ![](assets/image2014-9-15-17-3a18-3a35.png)
+   ![](assets/add-a-field-to-a-form-5.png)
 
-1. 「**[!UICONTROL 承認して終了]**」をクリックします。
+1. 「**[!UICONTROL 承認して閉じる]**」をクリックします。
 
-   ![](assets/image2014-9-15-17-3a18-3a43.png)
+   ![](assets/add-a-field-to-a-form-6.png)
 
 >[!NOTE]
 >
 >フォームの変更によって作成されたランディングページのドラフトを必ず承認してください。
 
-順調ですね。この調子で行きましょう。次に、[フォームフィールドを必須にする](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)方法を学びます。
+>[!MORELIKETHIS]
+>
+>[ フォームフィールドを必須にする ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}
