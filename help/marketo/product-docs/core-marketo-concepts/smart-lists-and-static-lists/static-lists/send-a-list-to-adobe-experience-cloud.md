@@ -4,9 +4,9 @@ description: Adobe Experience Cloud へのリストの送信 - Marketo ドキュ
 title: Adobe Experience Cloud へのリストの送信
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 8bc619b9b9a75c3b20a8f30ebf902ab4b881e627
+source-git-commit: 781f1350b4eae731bd77013ed9f238d77a6fcd32
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '810'
 ht-degree: 84%
 
 ---
@@ -96,7 +96,7 @@ ht-degree: 84%
 
 * Adobe Audience ManagerとAdobe Analyticsの両方を所有するユーザーの場合、この統合により、オーディエンスをMarketoからAdobe Analytics レポートスイートに共有できますが、これを有効にするには、Adobe Audience Managerでいくつかの追加設定手順を実行する必要があります。 設定方法について詳しくは、[Adobe Audience Managerのドキュメント ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"} を参照してください。
 
-* リストをMarketoからAdobe Audience Managerにアップロードした後は、Adobe Targetからアクセスすることもできます。 この設定は [Adobe Targetで有効にする必要があります ](https://experienceleague.adobe.com/ja/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
+* リストをMarketoからAdobe Audience Managerにアップロードした後は、Adobe Targetからアクセスすることもできます。 この設定は [Adobe Targetで有効にする必要があります ](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
 
 * リストが空の場合、または ECID 値を持つユーザーがいない場合、リスト名はプッシュされず、Marketoの外部で参照されません。
 
