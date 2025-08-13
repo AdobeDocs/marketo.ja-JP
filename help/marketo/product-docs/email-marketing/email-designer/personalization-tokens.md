@@ -8,9 +8,9 @@ feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 2488e0e6af38a4d50b1a8f5f6194c64bd8504717
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---
@@ -49,6 +49,5 @@ ht-degree: 3%
 
    * 取り消し/やり直し
    * 検索/検索と置換
-   * Autocomplete
 
 * 以前にMarketo Engageでサポートされていた **すべて** トークンは、新しいパーソナライゼーションエディターでサポートされます。
