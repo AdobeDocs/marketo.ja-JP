@@ -3,10 +3,10 @@ description: モデルとインサイト - Marketo ドキュメント - 製品�
 title: モデルとインサイト
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 785f7ce976e96deaef37e197f6ba772b477aa81c
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 66%
+source-wordcount: '218'
+ht-degree: 57%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 66%
 
 モデルの状態を評価する方法を次に示します。
 
-Marketo Engageの **[!UICONTROL 管理者]** 領域にある **[!UICONTROL Predictive Audiences]** の下の **[!UICONTROL モデルとデータヘルス]** セクションに移動します。 ここでは、すべてのモデルとそのステータスが表示されます。
+Marketo Engageの **[!UICONTROL 管理]** 領域にある **[!UICONTROL Predictive Audiences]** の下の「モデルとデータヘルス **[!UICONTROL セクションに移動し]** す。 ここでは、すべてのモデルとそのステータスが表示されます。
 
 ![画像 1](assets/models-and-insights-1.png)
 
@@ -29,3 +29,5 @@ Marketo Engageの **[!UICONTROL 管理者]** 領域にある **[!UICONTROL Predi
 * **パフォーマンス**：データ完全性およびデータ品質に基づくモデルのヘルスの分類（以下を参照）。
 * **データの完全性**：存在／完了しているデータ属性の割合。
 * **データ品質**：良好で使用可能なデータを含む属性の割合。
+
+* **最終トレーニング日**：現在のモデルと、2 週間ごとにトレーニングされる新しいモデルの間の評価で最も優れたモデルの日付。
