@@ -3,7 +3,7 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: c4fe9a5048c8c0a750d186edde1557cd082e73e4
+source-git-commit: ab880e2499ed34eb15fd656b5b4eae0635a6e012
 workflow-type: tm+mt
 source-wordcount: '575'
 ht-degree: 46%
@@ -42,6 +42,16 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
+   <td><strong> メールDesigner – オートコンプリートの削除 </strong>：トークンパーソナライゼーションエディターのオートコンプリートオプションが、エラーのあるオブジェクトを指していたので、削除されました。 現時点では、再実装の予定はありません。</td>
+   <td>リリース済み</td>
+   <td>該当なし</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong> メールDesigner- メールプレビューの最適化 </strong>：一部のユーザーにおいて、メール/メールテンプレート/フラグメントの詳細ページでメールをプレビューしようとすると、読み込み時間が遅くなるという問題が発生していました。 このエクスペリエンスは、読み込み時間が最大 60% 高速化するように最適化されています。</td>
    <td><i>まもなくリリース</i></td>
    <td>該当なし</td>
@@ -66,17 +76,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><i>まもなくリリース</i></td>
    <td>該当なし</td>
   </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> メールDesigner – オートコンプリートの削除 </strong>：トークンパーソナライゼーションエディターのオートコンプリートオプションが、エラーのあるオブジェクトを指していたので、削除されました。 現時点では、再実装の予定はありません。</td>
-   <td>リリース済み</td>
-   <td>該当なし</td>
-  </tr>
- </tbody>
+  </tbody>
 </table>
 <br/>
 

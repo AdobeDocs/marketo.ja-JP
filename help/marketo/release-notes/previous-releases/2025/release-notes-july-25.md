@@ -2,10 +2,11 @@
 description: リリースノート - 2025 年 7 月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2025年7月
 feature: Release Information
-source-git-commit: 8101d9c73571948847d00dfc21f21c39bcd1d975
+exl-id: 86776722-c640-4e55-9551-38ff34de566b
+source-git-commit: ab880e2499ed34eb15fd656b5b4eae0635a6e012
 workflow-type: tm+mt
-source-wordcount: '716'
-ht-degree: 92%
+source-wordcount: '691'
+ht-degree: 91%
 
 ---
 
@@ -104,16 +105,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><strong>メールデザイナー - ブランディングドメインとドメイン IP 設定を選択</strong>：すべてのメールアセットに対して「ブランディングドメイン」と「ドメイン IP 設定」を選択できるようになりました。</td>
    <td>リリース済み</td>
    <td>該当なし</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>メールデザイナー - GenStudio の統合</strong>：メール内からパフォーマンスマーケティングを行うために GenStudio を統合し、マーケティングの効率を向上させ、ブランドの一貫性を維持します。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
   </tr>
   <tr>
    <td> </td>
