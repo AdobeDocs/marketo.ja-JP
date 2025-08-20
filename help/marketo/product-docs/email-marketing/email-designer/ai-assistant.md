@@ -1,27 +1,27 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: AI アシスタントの使用
+title: AI アシスタントを使用
 description: Adobeのジェネレーティブ AI テクノロジーを活用して、メールに便利なテキストや画像を追加します。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '734'
-ht-degree: 2%
+source-wordcount: '726'
+ht-degree: 3%
 
 ---
 
-# AI アシスタントの使用 {#use-the-ai-assistant}
+# AI アシスタントを使用 {#use-ai-assistant}
 
-Marketo Engage メールDesignerの AI アシスタントは、現代的でパフォーマンスの高い直感的なメールを作成するのに役立ちます。 これは、Adobeの生成 AI テクノロジーと迅速なライブラリを、特定のペルソナ/購入グループ、マーケティングジャーニーステージ、コミュニケーション戦略、トーンなどに適したコンテンツの作成を支援する画像生成用のFireflyと組み合わせることで実現されます。 また、特定のブランドアセットを利用してコンテンツを作成することもできます。
+Marketo Engage メールDesignerの AI アシスタントを使用すると、現代的でパフォーマンスの高い直感的なメールを作成できます。 これは、Adobeの生成 AI テクノロジーと迅速なライブラリを、特定のペルソナ/購入グループ、マーケティングジャーニーステージ、コミュニケーション戦略、トーンなどに適したコンテンツの作成を支援する画像生成用のFireflyと組み合わせることで実現されます。 また、特定のブランドアセットを利用してコンテンツを作成することもできます。
 
 >[!PREREQUISITES]
 >
 >AI アシスタントはデフォルトでは有効になっていません。 まず、コアの Gen-AI 条件と、メールDesignerの Gen-AI 機能を使用するための補足条件に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
 
-AI アシスタントには、主に次の 3 つのユースケースがあります。
+AI アシスタントの主なユースケースは 3 つあります。
 
 * メールの [ 件名を作成 ](#create-a-subject-line)
 * メールの [ 特定のセクションのコンテンツを作成 ](#create-content-for-a-specific-section)
@@ -93,7 +93,7 @@ AI アシスタントに対して「**参照コンテンツを使用**」オプ�
 
 ![](assets/use-the-ai-assistant-7.png)
 
-この例では、ヘルスケアテンプレートを使用しています。 既存の医療専門家のイメージがニーズを満たさない場合は、AI アシスタントに医療専門家の独自のイメージを作成するように指示できます。 画像コンテンツを選択し、AI アシスタントをクリックするだけです。
+この例では、ヘルスケアテンプレートを使用しています。 既存の医療専門家のイメージがニーズを満たさない場合は、AI アシスタントに医療専門家の独自のイメージを作成するように指示できます。 画像のコンテンツを選択し、AI アシスタントをクリックするだけです。
 
 ![](assets/use-the-ai-assistant-8.png)
 

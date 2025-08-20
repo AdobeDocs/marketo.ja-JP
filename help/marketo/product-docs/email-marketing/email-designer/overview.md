@@ -5,9 +5,9 @@ description: 新しいAdobe Marketo Engage メールDesignerへようこそ。
 title: 概要
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '869'
 ht-degree: 1%
 
 ---
@@ -58,7 +58,7 @@ E メールDesignerは、Marketo Engageの最新のイノベーションであ�
 
 * [Adobe Expressで画像を編集 ](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}:Adobe Expressを使用して、Adobe Marketo Engage メールエディターで画像を編集する方法を説明します。
 
-* [AI アシスタントの使用 ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}:Adobeの生成 AI テクノロジーを活用して、便利なテキストや画像をメールに追加します。
+* [AI アシスタントを使用 ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}:Adobeの生成 AI テクノロジーを活用して、便利なテキストや画像をメールに追加します。
 
 * [ メールテンプレート内のコンテンツのロック ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：メールテンプレート内のコンテンツをロックして、意図しない編集や削除を防ぐ方法について説明します。
 
