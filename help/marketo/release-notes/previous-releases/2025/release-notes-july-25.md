@@ -3,10 +3,10 @@ description: リリースノート - 2025 年 7 月 – Marketo ドキュメン�
 title: リリースノート - 2025年7月
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: ab880e2499ed34eb15fd656b5b4eae0635a6e012
+source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
 workflow-type: tm+mt
-source-wordcount: '691'
-ht-degree: 91%
+source-wordcount: '714'
+ht-degree: 92%
 
 ---
 
@@ -32,6 +32,16 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr>
+   <td><strong>メールデザイナー - GenStudio の統合</strong>：メール内からパフォーマンスマーケティングを行うために GenStudio を統合し、マーケティングの効率を向上させ、ブランドの一貫性を維持します。</td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">Marketo Engage の GenStudio の統合</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong> メールDesigner - カスタム CSS</strong>：メールをデザインする際に、独自のカスタム CSS をメールDesigner内に直接追加できるようになりました。</td>
    <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">メールコンテンツへのカスタム CSS の追加</a></td>
@@ -44,7 +54,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong> メールDesigner - SpamAssassin を使用したスパムの検出 </strong>:Marketo Engageで SpamAssassin を使用すると、メールコンテンツをテストして、ISP/メールボックスプロバイダーがスパムとマークする可能性を確認できます。</td>
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">メールコンテンツへのカスタム CSS の追加</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">メールスパムレポート</a></td>
   </tr>
   <tr>
    <td> </td>

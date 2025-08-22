@@ -1,23 +1,28 @@
 ---
 title: Marketo Engage の GenStudio の統合
 description: Marketo EngageでGenStudioを使用する方法を説明します。
-hide: true
-hidefromtoc: true
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: bd1179a632c0363d62e262cb153b8f83dc0bfbf5
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 10%
+source-wordcount: '395'
+ht-degree: 9%
 
 ---
 
 # Marketo Engage の GenStudio の統合 {#genstudio-integration-for-marketo-engage}
 
 Adobe GenStudio for Performance Marketingは、独自の広告やメールを作成し、ブランド標準を満たし、企業ポリシーに準拠した、インパクトのあるパーソナライズされたマーケティングキャンペーンを推進できる、ジェネレーティブ AI ファーストのアプリケーションです。 コンテンツ作成の複雑さを簡素化する多くのツールを提供します。
+
+>[!AVAILABILITY]
+>
+>この機能を活用するには、次の手順に従います。
+>
+>* IMS 組織は、Marketo Engageと同じ IMS 組織でGenStudio for Performance Marketingをプロビジョニングする必要があります（詳しくは、アカウントマネージャーにお問い合わせください）
+>* GenStudio for Performance Marketing（システムマネージャー、編集者または共同作業者）のユーザー資格が必要です
 
 >[!INFO]
 >
