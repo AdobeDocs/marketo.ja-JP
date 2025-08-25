@@ -4,10 +4,10 @@ description: IP ベースの API アクセス用の許可リストの作成 - Ma
 title: IP ベースの API アクセス用の許可リストの作成
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 5d6269ca9b229311ed4260d5340aad6cd1ea0067
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 100%
+source-wordcount: '172'
+ht-degree: 77%
 
 ---
 
@@ -18,6 +18,12 @@ ht-degree: 100%
 >[!NOTE]
 >
 >**管理者権限が必要**
+
+>[!NOTE]
+>
+>この機能は、Marketo Engageの IP ベースのログイン制限とは無関係に動作し（Admin Consoleの IP アクセスリスト*に置き換えられます）、[Adobe IMSの移行後も引き続き機能し ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) す。
+>> 
+>>&#42;IP アクセスリストの一般提供は、2025 年第 4 四半期に予定されています。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
