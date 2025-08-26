@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ab880e2499ed34eb15fd656b5b4eae0635a6e012
+source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
 workflow-type: tm+mt
-source-wordcount: '575'
-ht-degree: 46%
+source-wordcount: '596'
+ht-degree: 44%
 
 ---
 
@@ -33,8 +33,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong> メールDesigner - レポート </strong>：メールのパフォーマンスおよびメールリンクのパフォーマンスレポートに、新しいメールDesignerを使用して作成されたメールのデータが表示されるようになりました。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td>該当なし</td>
   </tr>
   <tr>
    <td> </td>
@@ -53,7 +53,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong> メールDesigner- メールプレビューの最適化 </strong>：一部のユーザーにおいて、メール/メールテンプレート/フラグメントの詳細ページでメールをプレビューしようとすると、読み込み時間が遅くなるという問題が発生していました。 このエクスペリエンスは、読み込み時間が最大 60% 高速化するように最適化されています。</td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong> メールDesigner - テンプレートの修正 </strong>：一部の標準提供テンプレートに、レンダリングの問題が発生していました（特定のブラウザーやダークモードで正しくレンダリングされない、画像のアラインメントが正しくない、CTA ボタンの配置が正しくないなど）。 これらはすべて、このリリースで修正されています。</td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -73,8 +73,18 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong> 電子メールDesigner - コンテンツのロックに関する修正 </strong>：以前は、コンテンツロック機能を備えた電子メールテンプレートが作成され、そのテンプレートを使用して電子メールが作成されている場合、電子メールがリセットされたり、「デザインを変更」が選択されたりしても、コンテンツのロックが維持されていました。 この問題は、このリリースで修正されました。</td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
    <td>該当なし</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Smart Campaign 制限を編集する権限 </strong>：管理者は、Smart Campaign 制限を変更する権限を、権限のあるユーザーのみに制限できるようになりました。</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
   </tr>
   </tbody>
 </table>
