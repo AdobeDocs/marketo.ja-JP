@@ -36,7 +36,7 @@ Audience Manager、B2B CDP Marketo コネクタ、[!DNL Dynamic Chat]などの�
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. アドビの IMS 組織 ID を入力し（[こちら](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}を参照して特定）、「**[!UICONTROL OK]**」をクリックします。
+1. アドビの IMS 組織 ID を入力し（[こちら](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=ja){target="_blank"}を参照して特定）、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
