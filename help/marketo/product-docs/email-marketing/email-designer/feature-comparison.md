@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
+source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
 workflow-type: tm+mt
-source-wordcount: '892'
+source-wordcount: '907'
 ht-degree: 14%
 
 ---
@@ -259,11 +259,11 @@ ht-degree: 14%
     <td>Velocity スクリプティング</td>
     <td>メールで Velocity スクリプティングを使用する機能。</td>
     <td>対応可能</td>
-    <td>まもなくリリース</td>
+    <td>不要</td>
   </tr>
   <tr>
-    <td>ブランドキット</td>
-    <td>ブランドガイドラインを反映したメールを改善する機能。</td>
+    <td>Handlebar スクリプティング</td>
+    <td>メールで Velocity スクリプティングを使用する機能。</td>
     <td>利用不可</td>
     <td>2025 年第 3 四半期に予定</td>
   </tr>
@@ -272,6 +272,12 @@ ht-degree: 14%
     <td>Marketo Engage内でメールの承認ワークフローを導入する機能。</td>
     <td>利用不可</td>
     <td>2025 年第 4 四半期に予定</td>
+  </tr>
+  <tr>
+    <td>ブランドキット</td>
+    <td>ブランドガイドラインを反映したメールを改善する機能。</td>
+    <td>利用不可</td>
+    <td>2026 年第 1 四半期に予定</td>
   </tr>
   <tr>
     <td>実験（A/B テスト）</td>
