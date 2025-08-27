@@ -4,20 +4,16 @@ description: ' [!DNL Microsoft Dynamics]  同期について – Marketo ドキ�
 title: Microsoft Dynamics 同期について
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 43%
+source-wordcount: '209'
+ht-degree: 39%
 
 ---
 
 # [!DNL Microsoft Dynamics] 同期について {#understanding-the-microsoft-dynamics-sync}
 
 Marketoと [!DNL Microsoft Dynamics] は一緒だ。 お客様の販売データとマーケティングデータの同期を維持します。
-
->[!NOTE]
->
->Marketo は、現時点では、Java 7  と互換性のある SSL 証明書のみをサポートしています。
 
 >[!CAUTION]
 >

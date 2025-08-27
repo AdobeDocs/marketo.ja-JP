@@ -4,9 +4,9 @@ description: アドビ組織マッピングの設定 - Marketo ドキュメン�
 title: アドビ組織マッピングの設定
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 5ef17e8c3988706a4d95332312ffb035f35bb269
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '230'
 ht-degree: 93%
 
 ---
@@ -36,7 +36,7 @@ Audience Manager、B2B CDP Marketo コネクタ、[!DNL Dynamic Chat]などの�
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Adobe IMS 組織 ID を入力し（確認方法については、[こちら](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=ja){target="_blank"}を参照）、「**[!UICONTROL OK]**」をクリックします。
+1. アドビの IMS 組織 ID を入力し（[こちら](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}を参照して特定）、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -54,4 +54,4 @@ Audience Manager、B2B CDP Marketo コネクタ、[!DNL Dynamic Chat]などの�
 
 1. _まだログインしていない_&#x200B;場合は、新しいタブ／ウィンドウにポップアップが表示されます。アドビ組織にログインします（このアクションで組織アクセスが検証されます）。
 
-これで完了です。Adobe Experience Cloudから [ オーディエンスデータを共有 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} または [ オーディエンスを同期 ](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} できるようになりました。
+Adobe Experience Cloudから [ オーディエンスデータを共有 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} または [ オーディエンスを同期 ](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} できるようになりました。

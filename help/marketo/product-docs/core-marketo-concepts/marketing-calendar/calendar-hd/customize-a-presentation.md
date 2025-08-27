@@ -4,10 +4,10 @@ description: プレゼンテーションのカスタマイズ - Marketo ドキ�
 title: プレゼンテーションのカスタマイズ
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 100%
+source-wordcount: '295'
+ht-degree: 92%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 ## ビューの選択 {#choosing-the-views}
 
-プレゼンテーションは、選択した各[フィルター定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}で順に表示されます。必要な数のビューをドラッグし、表示間隔をカスタマイズしてください。
+プレゼンテーションは、選択した各[フィルター定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}で順に表示されます。必要な数のビューをドラッグし、表示頻度をカスタマイズしてください。
 
 1. 右側のツリーから、プレゼンテーションで順に使用したい各ビューをドラッグします。
 
@@ -42,9 +42,9 @@ ht-degree: 100%
 
    ![](assets/image2015-3-24-14-3a23-3a26.png)
 
-## ローテーションの表示間隔の設定 {#set-the-frequency-of-rotation}
+## ローテーションの表示頻度の設定 {#set-the-frequency-of-rotation}
 
-プレゼンテーションで使用するビューをドラッグしたら、各ビューを入れ替える表示間隔を設定します。
+プレゼンテーションで使用するビューを取り込んだら、異なるビュー間で回転する頻度を設定します。
 
 1. **[!UICONTROL 5 分]**&#x200B;をクリックします（これがデフォルトの間隔です）。
 

@@ -4,9 +4,9 @@ description: SEO - キーワードトレンドレポートの使用 - Marketo �
 title: SEO - キーワードトレンドレポートの使用
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '169'
 ht-degree: 100%
 
 ---
@@ -50,16 +50,12 @@ ht-degree: 100%
 
 ## データのエクスポート {#exporting-data}
 
->[!TIP]
->
->レポートはデスクトップにエクスポートできます。
-
 1. 「**[!UICONTROL CSV をエクスポート]**」または「**[!UICONTROL PDF をエクスポート]**」をクリックします。
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   完成です。キーワードランキングを競合他社と比較して確認することもできます。
+キーワードランキングを競合他社と比較して確認することもできます。
 
-   >[!NOTE]
-   >
-   >[競合 KW ランクトレンドレポートの使用](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+>[!NOTE]
+>
+>[競合 KW ランクトレンドレポートの使用](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

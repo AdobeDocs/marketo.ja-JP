@@ -3,9 +3,9 @@ description: 新しいMarketo Engage インスタンスを実装する際のベ�
 title: 開始する場所
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 6%
 
 ---
@@ -48,6 +48,6 @@ Marketo Engage インスタンス [ 新しい実装管理者チェックリス�
 
 コミュニティの基本を学ぶ：
 
-1. **Adobe IDを続行** をクリックし、ログインページでプライマリサブスクリプションを選択します。
+1. **[!UICONTROL AdobeID で続行]** をクリックし、ログインページでプライマリサブスクリプションを選択します。
 1. ログインしたら、コミュニティプロファイルを入力します。
 1. 情報を送信すると、コミュニティホームページにアクセスし、順調に進みます。
