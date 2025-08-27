@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '892'
 ht-degree: 14%
 
 ---
@@ -177,6 +177,17 @@ ht-degree: 14%
     <td><a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">Litmus と統合 </a> して、様々なメールクライアントでメールがどのようにレンダリングされるかを確認する機能。</td>
     <td>利用不可</td>
     <td>対応可能</td>
+    <tr>
+    <td>GenStudioとの統合</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">GenStudioとの統合 </a> 機能。</td>
+    <td>利用不可</td>
+    <td>対応可能</td>
+  </tr>
+  <tr>
+    <td>スパムアサシンの統合</td>
+    <td>配信前に <a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md"> スパムと見なされる可能性のあるメールを検出 </a> できます。</td>
+    <td>利用不可</td>
+    <td>対応可能</td>
   </tr>
   <tr>
     <td>Personalization Editor</td>
@@ -227,12 +238,6 @@ ht-degree: 14%
     <td>まもなくリリース</td>
   </tr>
   <tr>
-    <td>Gen Studio との統合</td>
-    <td>Gen Studio との統合機能。</td>
-    <td>利用不可</td>
-    <td>まもなくリリース</td>
-  </tr>
-  <tr>
     <td>電子メールアセットを使用したプログラムの移動、削除、読み込みのサポート</td>
     <td>メールプログラムを電子メールアセットと共に移動、削除、読み込む機能。</td>
     <td>対応可能</td>
@@ -254,23 +259,11 @@ ht-degree: 14%
     <td>Velocity スクリプティング</td>
     <td>メールで Velocity スクリプティングを使用する機能。</td>
     <td>対応可能</td>
-    <td>不要</td>
-  </tr>
-   <tr>
-    <td>Handlebar スクリプティング</td>
-    <td>メールで Handlebar スクリプティングを使用する機能。</td>
-    <td>利用不可</td>
-    <td>2025 年第 3 四半期に予定</td>
+    <td>まもなくリリース</td>
   </tr>
   <tr>
     <td>ブランドキット</td>
     <td>ブランドガイドラインを反映したメールを改善する機能。</td>
-    <td>利用不可</td>
-    <td>2025 年第 3 四半期に予定</td>
-  </tr>
-  <tr>
-    <td>スパムアサシンの統合</td>
-    <td>配信前にメールがスパムとしてマークされる可能性を検出する機能。</td>
     <td>利用不可</td>
     <td>2025 年第 3 四半期に予定</td>
   </tr>
