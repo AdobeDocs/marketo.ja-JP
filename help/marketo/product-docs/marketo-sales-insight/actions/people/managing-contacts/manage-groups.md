@@ -27,19 +27,19 @@ ht-degree: 65%
    <th>説明</th>
   </tr>
   <tr>
-   <td>[!UICONTROL すべてのユーザー ]</td>
+   <td>[!UICONTROL すべてのユーザー &#x200B;]</td>
    <td>表示可能なすべてのユーザのすべての取引先責任者。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 動的グループ ]</td>
+   <td>[!UICONTROL 動的グループ &#x200B;]</td>
    <td>取引先責任者：所有しているすべての取引先責任者。<br>配信停止：通信の受信をオプトアウトした取引先責任者。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL マイ グループ ]</td>
+   <td>[!UICONTROL マイ グループ &#x200B;]</td>
    <td>作成したグループ。自分の取引先責任者や、自分と共有されている取引先責任者を含めることができます。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL チーム グループ ]</td>
+   <td>[!UICONTROL チーム グループ &#x200B;]</td>
    <td>自分と共有されているグループ、または自分が共有しているグループ。チームメイトが所有している取引先責任者や、共有した取引先責任者を含めることができます。</td>
   </tr>
  </tbody>
@@ -47,7 +47,7 @@ ht-degree: 65%
 
 ## グループの作成 {#create-a-group}
 
-1. [!UICONTROL  人物 ] ページで、「**グループ** の横の [!UICONTROL +] をクリックします。
+1. [!UICONTROL &#x200B; 人物 &#x200B;] ページで、「**グループ** の横の [!UICONTROL +] をクリックします。
 
    ![](assets/manage-groups-1.png)
 
@@ -81,7 +81,7 @@ ht-degree: 65%
 
 ## グループの共有 {#share-a-group}
 
-1. [!UICONTROL  ユーザー ] ページで、共有するグループを見つけて選択します。
+1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、共有するグループを見つけて選択します。
 
    ![](assets/manage-groups-8.png)
 
@@ -97,7 +97,7 @@ ht-degree: 65%
 
 ## グループの共有解除 {#unshare-a-group}
 
-1. [!UICONTROL  ユーザー ] ページで、共有を解除するグループを見つけて選択します。
+1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、共有を解除するグループを見つけて選択します。
 
    ![](assets/manage-groups-11.png)
 
@@ -113,7 +113,7 @@ ht-degree: 65%
 
 ## グループ名の変更 {#rename-a-group}
 
-1. [!UICONTROL  ユーザー ] ページで、名前を変更するグループを見つけて選択します。
+1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、名前を変更するグループを見つけて選択します。
 
    ![](assets/manage-groups-14.png)
 
