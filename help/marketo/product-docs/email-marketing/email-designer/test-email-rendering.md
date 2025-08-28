@@ -6,10 +6,10 @@ description: Marketo Engage ユーザーは、Litmus アカウントを統合し
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 919406f948456bc265a73841c87a6d74605f045e
+source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 8%
+source-wordcount: '370'
+ht-degree: 5%
 
 ---
 
@@ -19,9 +19,11 @@ Marketo Engageの [Litmus](https://www.litmus.com/email-testing) アカウント
 
 >[!AVAILABILITY]
 >
->この機能は、[ エンタープライズプラン ](https://www.litmus.com/pricing/enterprise){target="_blank"} アカウントで有効な Litmus アカウントを持つすべてのMarketo Engage ユーザーが利用できます。
+>この機能は、アクティブな Litmus アカウントを持つすべてのMarketo Engage ユーザーが利用できます。
 
-## 使用方法 {#how-to-use}
+## Litmus Enterprise ユーザー {#litmus-enterprise}
+
+次の手順は、[Litmus エンタープライズプラン ](https://www.litmus.com/pricing/enterprise){target="_blank"} を使用するユーザー向けです。
 
 1. _メールコンテンツを編集_ 画面で、「**コンテンツをシミュレート**」ボタンをクリックします。
 
@@ -62,3 +64,27 @@ Marketo Engageの [Litmus](https://www.litmus.com/email-testing) アカウント
 **オプションの手順**：メールに変更を加える場合は、「**メールをレンダリング**」をクリックして表示した後、必ず「Litmus **メールのプレビュー**」画面の右上にある「_再テスト_」ボタンをクリックします。
 
 ![](assets/test-email-rendering-with-litmus-7.png)
+
+## Litmus コアユーザー {#litmus-core}
+
+次の手順は、[Litmus コアプラン ](https://www.litmus.com/pricing/){target="_blank"} を使用するユーザー向けです。
+
+1. Litmus アカウントで、「テスト **」画面の「** テストアドレスをコピー _」ボタンをクリックして、テストメールアドレスを取得します。_
+
+   ![](assets/test-email-rendering-with-litmus-8.png){width="800" zoomable="yes"}
+
+1. Marketo Engageで、目的のメールの _メールコンテンツを編集_ 画面に移動し、「**コンテンツをシミュレート**」ボタンをクリックします。
+
+   ![](assets/test-email-rendering-with-litmus-9.png){width="600" zoomable="yes"}
+
+1. テスト用の受信者を選択し、「**配達確認を送信** ボタンをクリックします。
+
+   ![](assets/test-email-rendering-with-litmus-10.png){width="800" zoomable="yes"}
+
+1. 手順 1 でコピーした Litmus メールアドレスを入力し、もう一度 **配達確認を送信** をクリックします。
+
+   ![](assets/test-email-rendering-with-litmus-11.png)
+
+1. Litmus アカウント内（Litmus からコピーしたメールアドレスに対応するフォルダー内）のメールを確認します。
+
+   ![](assets/test-email-rendering-with-litmus-12.png){width="800" zoomable="yes"}
