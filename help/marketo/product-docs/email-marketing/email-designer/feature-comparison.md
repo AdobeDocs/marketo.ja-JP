@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
+source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '892'
 ht-degree: 14%
 
 ---
@@ -259,13 +259,7 @@ ht-degree: 14%
     <td>Velocity スクリプティング</td>
     <td>メールで Velocity スクリプティングを使用する機能。</td>
     <td>対応可能</td>
-    <td>不要</td>
-  </tr>
-  <tr>
-    <td>Handlebar スクリプティング</td>
-    <td>メールで Velocity スクリプティングを使用する機能。</td>
-    <td>利用不可</td>
-    <td>2025 年第 3 四半期に予定</td>
+    <td>まもなくリリース</td>
   </tr>
   <tr>
     <td>コンテンツ承認ワークフロー</td>
