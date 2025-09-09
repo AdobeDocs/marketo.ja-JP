@@ -5,8 +5,8 @@ feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '589'
-ht-degree: 90%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -66,7 +66,7 @@ Dynamic Chat の言語を変更するには、次の手順に従います。
 
 >[!IMPORTANT]
 >
->プロファイルレベルで言語を変更すると、_だけでなく、_ すべて [!DNL Dynamic Chat] のExperience Cloud アプリケーションの言語も変更されます。
+>プロファイルレベルで言語を変更すると、[!DNL Dynamic Chat] だけでなく、_すべて_&#x200B;の Experience Cloud アプリケーションの言語が変更されます。
 
 1. Experience Cloud アカウントで、設定アイコンをクリックし、「**[!UICONTROL 環境設定]**」を選択します。
 
@@ -82,13 +82,13 @@ Dynamic Chat の言語を変更するには、次の手順に従います。
 
    >[!NOTE]
    >
-   >言語は数十種類ありますが、サポートされてい [!DNL Dynamic Chat] 言語は英語、フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語のみです。
+   >数十の言語から選択できますが、[!DNL Dynamic Chat] では次の言語のみをサポートしています。英語、フランス語、ドイツ語、日本語、スペイン語、イタリア語、ポルトガル語（ブラジル）、韓国語、簡体字中国語、繁体字中国語。
 
 言語を更新すると、自身で入力した単語（ストリーム応答など）を除き、アプリ自体のすべての情報が変更されます。
 
 ## Dynamic Chat データ保持制限 {#dynamic-chat-data-retention-limits}
 
-Dynamic Chat 内の制限/パラメーターの一部を以下に示します。詳細については、Marketo Engage[Product Description page](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"} をご覧ください。
+Dynamic Chat 内の制限/パラメーターの一部を以下に示します。リストについて詳しくは、Marketo Engage の[製品説明ページ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}を参照してください。
 
 <table>
   <th>データタイプ</th>
