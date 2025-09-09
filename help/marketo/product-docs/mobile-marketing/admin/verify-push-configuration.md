@@ -5,7 +5,7 @@ title: プッシュ設定の検証
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 

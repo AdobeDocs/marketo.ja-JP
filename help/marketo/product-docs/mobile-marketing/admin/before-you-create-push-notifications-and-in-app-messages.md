@@ -5,7 +5,7 @@ title: プッシュ通知およびアプリ内メッセージを作成する前�
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '336'
 ht-degree: 100%
 

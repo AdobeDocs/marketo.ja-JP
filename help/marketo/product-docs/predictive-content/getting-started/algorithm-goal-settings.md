@@ -5,7 +5,7 @@ title: アルゴリズムの目標設定
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
 ht-degree: 100%
 

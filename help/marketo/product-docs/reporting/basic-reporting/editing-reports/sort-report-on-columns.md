@@ -5,7 +5,7 @@ title: 列でのレポートの並べ替え
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 

@@ -5,7 +5,7 @@ title: レポート列の選択
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
 ht-degree: 100%
 

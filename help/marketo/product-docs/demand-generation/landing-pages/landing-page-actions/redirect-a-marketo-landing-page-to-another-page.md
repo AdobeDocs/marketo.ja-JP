@@ -5,7 +5,7 @@ title: Marketo のランディングページを別のページにリダイレ�
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
 ht-degree: 100%
 

@@ -5,7 +5,7 @@ title: ワークスペースをまたいだレポートメール、キャンペ�
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 

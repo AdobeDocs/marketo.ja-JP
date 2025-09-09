@@ -5,7 +5,7 @@ title: エンゲージメントプログラムからメンバーを削除する
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
 ht-degree: 100%
 

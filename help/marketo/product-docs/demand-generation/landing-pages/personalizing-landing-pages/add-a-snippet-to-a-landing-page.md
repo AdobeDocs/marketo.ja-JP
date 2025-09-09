@@ -5,7 +5,7 @@ title: ランディングページにスニペットを追加する
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
 ht-degree: 100%
 

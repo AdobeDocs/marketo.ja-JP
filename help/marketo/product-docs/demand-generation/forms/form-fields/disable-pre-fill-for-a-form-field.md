@@ -5,7 +5,7 @@ title: フォームフィールドの事前入力を無効にする
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
 ht-degree: 100%
 

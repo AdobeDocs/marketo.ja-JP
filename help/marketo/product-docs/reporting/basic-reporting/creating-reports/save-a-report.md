@@ -5,7 +5,7 @@ title: レポートの保存
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 

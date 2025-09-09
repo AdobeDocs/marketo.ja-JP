@@ -5,7 +5,7 @@ title: すべてのコンテンツについて
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '271'
 ht-degree: 100%
 

@@ -5,7 +5,7 @@ title: 基本レポートを配信登録する
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
 ht-degree: 100%
 

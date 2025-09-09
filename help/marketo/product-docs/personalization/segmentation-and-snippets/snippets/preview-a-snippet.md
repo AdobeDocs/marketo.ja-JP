@@ -5,7 +5,7 @@ title: スニペットのプレビュー
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
 ht-degree: 100%
 

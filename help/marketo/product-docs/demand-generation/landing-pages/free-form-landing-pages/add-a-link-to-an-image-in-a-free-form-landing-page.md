@@ -5,7 +5,7 @@ title: フリーフォームランディングページで画像にリンクを�
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 

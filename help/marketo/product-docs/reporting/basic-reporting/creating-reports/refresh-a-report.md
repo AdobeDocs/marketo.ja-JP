@@ -5,7 +5,7 @@ title: レポートの更新
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
 ht-degree: 100%
 

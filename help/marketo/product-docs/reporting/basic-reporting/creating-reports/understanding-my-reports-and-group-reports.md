@@ -5,7 +5,7 @@ title: 自分のレポートとグループのレポートについて
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
 

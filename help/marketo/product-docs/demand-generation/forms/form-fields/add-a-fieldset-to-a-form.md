@@ -5,7 +5,7 @@ title: フォームにフィールドセットを追加する
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
 ht-degree: 100%
 

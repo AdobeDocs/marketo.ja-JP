@@ -5,7 +5,7 @@ title: レポートメール URL の有効期限を変更する
 exl-id: fcce8cb7-816d-46de-b3de-37908bea5097
 feature: Reporting
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 

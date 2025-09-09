@@ -5,7 +5,7 @@ title: セールスインテリジェンス
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
 ht-degree: 100%
 

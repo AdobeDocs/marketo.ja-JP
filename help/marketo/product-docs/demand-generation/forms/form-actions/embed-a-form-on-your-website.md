@@ -5,7 +5,7 @@ title: Web サイトへのフォームの埋め込み
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '210'
 ht-degree: 100%
 

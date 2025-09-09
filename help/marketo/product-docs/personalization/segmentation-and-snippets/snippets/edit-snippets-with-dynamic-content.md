@@ -5,7 +5,7 @@ title: 動的コンテンツでスニペットを編集する
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
 ht-degree: 100%
 

@@ -5,7 +5,7 @@ title: カレンダー機能
 exl-id: 15d127a8-ed9a-4e87-b41e-0126a38ec2b8
 feature: Marketo Sales Connect
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
 ht-degree: 100%
 

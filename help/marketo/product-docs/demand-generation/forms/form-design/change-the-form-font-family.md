@@ -5,7 +5,7 @@ title: フォームフォントファミリの変更
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '141'
 ht-degree: 100%
 

@@ -5,7 +5,7 @@ title: フォーム内のフィールドの並べ替え
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 

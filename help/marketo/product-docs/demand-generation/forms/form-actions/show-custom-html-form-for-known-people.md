@@ -5,7 +5,7 @@ title: 既知のリードのカスタム HTML フォームの表示
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '254'
 ht-degree: 100%
 

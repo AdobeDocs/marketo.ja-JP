@@ -5,7 +5,7 @@ title: フォームフィールドへのヒントテキストの追加
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '120'
 ht-degree: 100%
 

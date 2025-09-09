@@ -5,7 +5,7 @@ title: パーソナライズされた URL を含むリストのエクスポー�
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '174'
 ht-degree: 100%
 

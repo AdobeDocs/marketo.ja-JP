@@ -5,7 +5,7 @@ title: 送信ボタンのスタイルとカラーの変更
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '148'
 ht-degree: 100%
 

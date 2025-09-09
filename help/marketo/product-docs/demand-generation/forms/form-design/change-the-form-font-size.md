@@ -5,7 +5,7 @@ title: フォームのフォントサイズの変更
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
 ht-degree: 100%
 

@@ -5,7 +5,7 @@ title: ワークスペースをまたいだモデルの共有
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
 ht-degree: 100%
 

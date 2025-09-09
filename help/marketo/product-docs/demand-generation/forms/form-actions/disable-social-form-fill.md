@@ -5,7 +5,7 @@ title: ソーシャルフォーム入力を無効にする
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 

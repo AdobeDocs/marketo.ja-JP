@@ -5,7 +5,7 @@ title: フォームの削除
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 

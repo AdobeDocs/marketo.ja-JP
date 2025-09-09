@@ -5,7 +5,7 @@ title: テンプレートカテゴリの削除
 exl-id: 99c64f83-4ff1-4355-af09-0527ca455632
 feature: Marketo Sales Connect
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
 ht-degree: 100%
 

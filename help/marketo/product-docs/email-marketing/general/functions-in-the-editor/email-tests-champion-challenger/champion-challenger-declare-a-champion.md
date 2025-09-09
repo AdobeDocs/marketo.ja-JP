@@ -5,7 +5,7 @@ title: チャンピオン／挑戦者：チャンピオンの発表
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '124'
 ht-degree: 100%
 

@@ -5,7 +5,7 @@ title: セグメント化の作成
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
 ht-degree: 100%
 

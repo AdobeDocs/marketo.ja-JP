@@ -5,7 +5,7 @@ title: フリーフォームランディングページへのカスタム HTML �
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
 ht-degree: 100%
 
