@@ -4,10 +4,10 @@ description: Salesforce Enterprise／Unlimited エディションでの Marketo 
 title: Salesforce Enterprise／Unlimited での Marketo セールスインサイトの設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 07b2e888c31c6e98a3207fad5d277261f7f193af
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 94%
+source-wordcount: '926'
+ht-degree: 88%
 
 ---
 
@@ -235,9 +235,9 @@ Salesforce のセキュリティ強化により、AppExchange パッケージは
 
 1. Salesforce で、タブバーの最後にある「**+**」をクリックし、「**[!UICONTROL Marketo セールスインサイトの設定]**」をクリックします。
 
-1. [Marketo のセールスインサイト管理ページ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}の Soap API パネルから資格情報をコピーし、[!DNL Salesforce] [!DNL Sales Insight] 設定ページの「Soap API」セクションにペーストします。
+1. [Marketo Sales Insight Admin ページの Soap API パネルから資格情報をコピーして ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}[!DNL Salesforce] [!DNL Sales Insight] Configuration ページの Soap API セクションに貼り付けます。
 
-1. [Marketoのセールスインサイト管理ページ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}の Rest API パネルから資格情報をコピーし、[!DNL Salesforce] [!DNL Sales Insight] 設定ページの「Rest API」セクションにペーストします。
+1. [Marketo Sales Insight管理者ページの Rest API パネルから資格情報をコピーして ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}[!DNL Salesforce] [!DNL Sales Insight] Configuration ページの Rest API セクションに貼り付けます。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 

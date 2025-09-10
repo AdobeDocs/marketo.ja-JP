@@ -3,16 +3,16 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 44%
+source-wordcount: '494'
+ht-degree: 51%
 
 ---
 
-# リリースノート：2025年8月 {#release-notes-aug-25}
+# リリースノート：2025年9月 {#release-notes-sep-25}
 
-以下に、2025 年 8 月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+以下に、2025 年 9 月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
@@ -22,7 +22,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-次の機能は標準リリースサイクルに従っており、**2025年8月22日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
+次の機能は標準リリースサイクルに従っており、**2025年9月19日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,57 +32,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong> メールDesigner - レポート </strong>：メールのパフォーマンスおよびメールリンクのパフォーマンスレポートに、新しいメールDesignerを使用して作成されたメールのデータが表示されるようになりました。</td>
-   <td>リリース済み</td>
-   <td>該当なし</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> メールDesigner – オートコンプリートの削除 </strong>：トークンパーソナライゼーションエディターのオートコンプリートオプションが、エラーのあるオブジェクトを指していたので、削除されました。 現時点では、再実装の予定はありません。</td>
-   <td>リリース済み</td>
-   <td>該当なし</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> メールDesigner- メールプレビューの最適化 </strong>：一部のユーザーにおいて、メール/メールテンプレート/フラグメントの詳細ページでメールをプレビューしようとすると、読み込み時間が遅くなるという問題が発生していました。 このエクスペリエンスは、読み込み時間が最大 60% 高速化するように最適化されています。</td>
-   <td>リリース済み</td>
-   <td>該当なし</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> メールDesigner - テンプレートの修正 </strong>：一部の標準提供テンプレートに、レンダリングの問題が発生していました（特定のブラウザーやダークモードで正しくレンダリングされない、画像のアラインメントが正しくない、CTA ボタンの配置が正しくないなど）。 これらはすべて、このリリースで修正されています。</td>
-   <td>リリース済み</td>
-   <td>該当なし</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> 電子メールDesigner - コンテンツのロックに関する修正 </strong>：以前は、コンテンツロック機能を備えた電子メールテンプレートが作成され、そのテンプレートを使用して電子メールが作成されている場合、電子メールがリセットされたり、「デザインを変更」が選択されたりしても、コンテンツのロックが維持されていました。 この問題は、このリリースで修正されました。</td>
-   <td>リリース済み</td>
-   <td>該当なし</td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Smart Campaign 制限を編集する権限 </strong>：管理者は、Smart Campaign 制限を変更する権限を、権限のあるユーザーのみに制限できるようになりました。</td>
+   <td><strong> オンデマンドのウェビナーアクティビティの保持 </strong>：インタラクティブウェビナーのユーザーは、30 日以上オンデマンドのウェビナーダッシュボードのデータを使用できるようになりました（以前は、ウェビナーの日から最大 30 日でした）。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -91,6 +41,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 <br/>
 
 ## お知らせ {#announcements}
+
+* **新しいメールDesignerでの Velocity スクリプティングへの戻り**:Adobe Marketo Engageは今年 6 月、新しいメールDesigner用に _条件付きコンテンツ_ と呼ばれる機能をリリースしました。 この機能は、動的コンテンツの柔軟性をもう少し高めるために、Velocity スクリプティングではなく Handlebar スクリプティングを利用していました。 しかし、一部のトークンが正しく解決されないことが判明した場合は、一時的に無効にすることにしました。 [詳細情報](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Marketo Engage ID のサポート終了**: 2025 年 8 月、AdobeはMarketo Engage ID のサポートを段階的に廃止し始めました（`login.marketo.com` 経由でログイン）。 Marketo Engage へのアクセスが中断されないようにするには、2025年9月30日（PT）までに [Adobe ID](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} に移行する必要があります。
 

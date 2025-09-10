@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
 workflow-type: tm+mt
-source-wordcount: '9300'
+source-wordcount: '9304'
 ht-degree: 99%
 
 ---
@@ -612,15 +612,15 @@ ht-degree: 99%
             + [デフォルトの Salesforce フィールドマッピング](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping.md)
             + [Marketo 同期に対する Salesforce フィールドの非表示](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)
             + [同期前のプログラムステータスと Salesforce キャンペーンステータスの照合方法](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md)
-            + [SFDC 同期：アカウントの同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
-            + [SFDC 同期：アクティビティの同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
+            + [SFDC の同期：アカウントの同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)
+            + [SFDC 同期：アクティビティ同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md)
             + [SFDC 同期：キャンペーンの同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md)
             + [SFDC 同期：取引先責任者の同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)
             + [SFDC 同期：Salesforce でリードを取引先責任者に変換](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-converting-a-lead-into-a-contact-in-salesforce.md)
             + [SFDC 同期：カスタムオブジェクトの同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md)
             + [SFDC 同期：リード／取引先責任者の削除](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-deleting-a-lead-contact.md)
             + [SFDC 同期：フィールドの同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)
-            + [SFDC 同期：リード／アカウントの所有者の同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
+            + [SFDC 同期：リード／アカウント所有者の同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md)
             + [SFDC 同期：リードキュー](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-queue.md)
             + [SFDC 同期：リードの同期](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md)
             + [SFDC 同期：リード／取引先責任者の結合](product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-merging-a-lead-contact-person.md)
@@ -1078,7 +1078,7 @@ ht-degree: 99%
             + [メールプログラム結果の表示](product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md)
             + [メールプログラムダッシュボードの表示](product-docs/email-marketing/email-programs/email-program-data/view-the-email-program-dashboard.md)
          + メールプログラムでの人物の管理 {#managing-people-in-email-programs}
-            + [リストインポートによる対象ユーザーの定義](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+            + [リスト読み込みによるオーディエンスの定義](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
             + [スマートリストを使用したオーディエンス定義](product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
             + [非ラテン文字リストのインポート](product-docs/email-marketing/email-programs/managing-people-in-email-programs/import-a-non-latin-characters-list.md)
       + 一般 {#general}
@@ -1713,7 +1713,7 @@ ht-degree: 99%
          + レポートアクティビティ {#report-activity}
             + [モバイルプラットフォームの列がある人物の効果レポートの作成](product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md)
             + [レポートメールの URL の有効期限の変更](product-docs/reporting/basic-reporting/report-activity/change-the-expiration-time-for-urls-in-report-emails.md)
-            + [レポートをグループ化レポートに複製](product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
+            + [レポートをグループレポートにクローンする](product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
             + [レポートの複製](product-docs/reporting/basic-reporting/report-activity/clone-a-report.md)
             + [レポートの削除](product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)
             + [Web レポートでのリードまたは匿名の訪問者の表示](product-docs/reporting/basic-reporting/report-activity/display-people-or-anonymous-visitors-in-web-reports.md)
@@ -1970,6 +1970,7 @@ ht-degree: 99%
          + [リリースノート：2025年4月](release-notes/previous-releases/2025/release-notes-apr-25.md)
          + [リリースノート：2025年5月](release-notes/previous-releases/2025/release-notes-may-25.md)
          + [リリースノート：2025 年 7 月](release-notes/previous-releases/2025/release-notes-july-25.md)
+         + [リリースノート：2025 年 8 月](release-notes/previous-releases/2025/release-notes-aug-25.md)
       + 2024年 {#2024}
          + [リリースノート：2024年1月](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [リリースノート：2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
