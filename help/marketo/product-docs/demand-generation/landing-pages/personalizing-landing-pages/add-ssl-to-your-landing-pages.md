@@ -4,10 +4,10 @@ description: ランディングページへの SSL の追加 — Marketo ドキ�
 title: ランディングページへの SSL の追加
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
+source-git-commit: 2bbfe8f1d000f182aba3a1d3e0c58c1be47b76a7
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 91%
+source-wordcount: '702'
+ht-degree: 85%
 
 ---
 
@@ -59,9 +59,7 @@ Marketo Engage では、デフォルトで、セキュリティで保護され�
 
 >[!NOTE]
 >
->* リストの「SSL 証明書」列には、この機能がリリースされた後（2025年4月25日（PT））に作成されたすべてのドメインエイリアスの証明書ステータスが表示されます。Marketo サポートを通じてドメインに対して SSL を有効にした場合、証明書は引き続き存在しますが、表には表示されません。この表は、この記事の手順を使用して追加されたドメインの SSL 証明書のみを反映しています。
->
->* SSL が準備完了状態になるまで、最長 3 分かかる場合があります。変更を表示するには、ページを更新する必要があります。
+>SSL が準備完了状態になるまで、最長 3 分かかる場合があります。変更を表示するには、ページを更新する必要があります。
 
 ## エラーメッセージ {#error-messages}
 
@@ -107,6 +105,4 @@ Marketo Engage では、デフォルトで、セキュリティで保護され�
 
 * **既存の SSL**：ドメインの追加中に、事前に手動で作成した可能性のある既存の SSL がシステムによってチェックされます。この検証が発生した場合は、SSL 作成を選択せずにドメインを作成すると、SSL が接続されます。追加kの詳細やオプションについては、[サポートにお問い合わせください](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
-* **既存のドメインへの証明書の追加**：現時点では、既存のドメインへの証明書の追加はサポートされていません。既存のドメインの場合や、SSL 証明書のボックスをオンにしなかった場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡して、証明書を追加する必要があります。
-
-* **ドメインの削除**：ドメインを削除すると、SSL 証明書が自動的に削除されます。
+* **ドメインの削除**:SSL 証明書を自動的に削除 **削除しない** します。 このガードレールは、web サイトに SSL 証明書がない結果となるユーザーエラーを防ぎます。 SSL 証明書を削除する場合は、[ サポートにお問い合わせください ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
