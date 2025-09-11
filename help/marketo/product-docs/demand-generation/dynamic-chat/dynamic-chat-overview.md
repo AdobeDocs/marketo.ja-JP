@@ -4,15 +4,15 @@ title: Dynamic Chat の概要
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '589'
+ht-degree: 100%
 
 ---
 
 # [!DNL Dynamic Chat] 概要 {#dynamic-chat-overview}
 
-Dynamic Chat では、使いやすいインターフェイスを利用して、web サイトを訪問するリードと取引先の両方をターゲットに設定できます。名前、取引先責任者情報、フリーテキストなど、関連するコンテンツを収集します。また、サイト訪問者は、ライブエージェントとチャットしたり、セールスチームとのミーティングを予約したりすることもできます。Dynamic Chat のアクティビティとエンゲージメントデータを使用して、Marketo プログラムにメンバーを追加し、クロスチャネルアクティビティをトリガーできます。
+Dynamic Chat では、使いやすいインターフェイスを利用して、web サイトを訪問するリードと取引先の両方をターゲットに設定できます。 名前、取引先責任者情報、フリーテキストなど、関連するコンテンツを収集します。 また、サイト訪問者は、ライブエージェントとチャットしたり、セールスチームとのミーティングを予約したりすることもできます。 Dynamic Chat のアクティビティとエンゲージメントデータを使用して、Marketo プログラムにメンバーを追加し、クロスチャネルアクティビティをトリガーできます。
 
 >[!TIP]
 >
@@ -20,7 +20,7 @@ Dynamic Chat では、使いやすいインターフェイスを利用して、w
 
 ## 統合 {#integrations}
 
-Dynamic Chat の主要な要素は、Marketo サブスクリプションとネイティブにインターフェイスする機能です。この統合の全機能を活用するには、まずデータ同期を開始する必要があります。Marketo データベースのサイズによっては、最初の [1 回限りの同期](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}が完了するまでに最大 24 時間かかる場合があります。
+Dynamic Chat の主要な要素は、Marketo サブスクリプションとネイティブにインターフェイスする機能です。 この統合の全機能を活用するには、まずデータ同期を開始する必要があります。 Marketo データベースのサイズによっては、最初の [1 回限りの同期](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"}が完了するまでに最大 24 時間かかる場合があります。
 
 以下が同期されます。
 
@@ -30,23 +30,23 @@ Dynamic Chat の主要な要素は、Marketo サブスクリプションとネ�
 
 ## ダイアログ {#dialogues}
 
-ダイアログは、単一のチャットエンゲージメントを表します。Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。[ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}。
+ダイアログは、単一のチャットエンゲージメントを表します。 Web サイト訪問者に対して魅力的なチャットダイアログを開くのに必要なすべての要素を含むコンテナと考えてください。 各ダイアログで、ダイアログを表示するページ、表示するページ、ダイアログ自体の内容とフローを指定できます。 さらに、指標を見つけて、ダイアログのパフォーマンスを確認できます。 [ダイアログの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md){target="_blank"}。
 
 ## 設定 {#configuration}
 
-「設定」タブで、様々なダイアログの外観をカスタマイズします。フォント、色、応答時間などを変更します。[設定の詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md){target="_blank"}。
+「設定」タブで、様々なダイアログの外観をカスタマイズします。 フォント、色、応答時間などを変更します。 [設定の詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/configuration.md){target="_blank"}。
 
 ## カレンダー {#calendar}
 
-Outlook または Gmail のカレンダーを接続して、チャットボットでの予定スケジュールに使用します。[カレンダーの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#connect-calendar){target="_blank"}
+Outlook または Gmail のカレンダーを接続して、チャットボットでの予定スケジュールに使用します。 [カレンダーの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#connect-calendar){target="_blank"}
 
 ## 会議 {#meetings}
 
-Web サイトの訪問者が様々なダイアログを使用してスケジュールしたすべての予定が表示されます。[ミーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
+Web サイトの訪問者が様々なダイアログを使用してスケジュールしたすべての予定が表示されます。 [ミーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md){target="_blank"}
 
 ## ルーティング {#routing}
 
-ここでは、カレンダーに関連付けられたすべてのエージェントのリストと、web サイトの訪問者に表示される順序を確認でき、またカスタムのルーティングルールを作成できます。[ルーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}
+ここでは、カレンダーに関連付けられたすべてのエージェントのリストと、web サイトの訪問者に表示される順序を確認でき、またカスタムのルーティングルールを作成できます。 [ルーティングの詳細](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}
 
 ## ライブチャット {#live-chat}
 
@@ -88,7 +88,7 @@ Dynamic Chat の言語を変更するには、次の手順に従います。
 
 ## Dynamic Chat データ保持制限 {#dynamic-chat-data-retention-limits}
 
-Dynamic Chat 内の制限/パラメーターの一部を以下に示します。リストについて詳しくは、Marketo Engage の[製品説明ページ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}を参照してください。
+Dynamic Chat 内の制限/パラメーターの一部を以下に示します。 リストについて詳しくは、Marketo Engage の[製品説明ページ](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}を参照してください。
 
 <table>
   <th>データタイプ</th>
