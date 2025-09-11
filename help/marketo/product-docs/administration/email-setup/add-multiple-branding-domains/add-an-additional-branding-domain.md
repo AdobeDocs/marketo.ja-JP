@@ -4,10 +4,10 @@ description: 付加的なブランディングドメインの追加 - Marketo �
 title: 付加的なブランディングドメインの追加
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
-workflow-type: ht
-source-wordcount: '602'
-ht-degree: 100%
+source-git-commit: de2f73f932fd38211dba96d8697ef4bb4fd0f0da
+workflow-type: tm+mt
+source-wordcount: '588'
+ht-degree: 74%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 1. 「**[!UICONTROL 追加]**」をクリックして、ブランディングドメインを追加します。
 
-   ![](assets/add-an-additional-branding-domain-3.png)
+   ![](assets/add-an-additional-branding-domain-3.png){width="600"}
 
 1. 新しいブランディングドメインの名前を入力し、「_プライマリドメインにする_」や「_SSL 証明書を生成_」（両方ともオプション）を選択して、「**[!UICONTROL 保存]**」をクリックします。
 
@@ -41,6 +41,20 @@ ht-degree: 100%
 >
 >* _SSL 証明書を生成_：ドメインの作成に Secure Sockets Layer（SSL）を作成できます。最初のトラッキングドメインでは、インフラストラクチャの 1 回限りの設定が開始しますが、これには数時間かかる場合があります。完了すると通知が届き、最初のドメインを設定できます。既存のドメインに SSL を追加するには、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
 
+## 既存のドメインの SSL の編集
+
+既存のドメインで SSL を有効にするには、次の手順に従います。
+
+1. _[!UICONTROL 管理者]_ エリアから、「**[!UICONTROL メール]**」を選択します。
+
+1. 「_[!UICONTROL ドメイン]_」タブで、ドメイン行を選択し、「**[!UICONTROL SSL を追加]**」をクリックします。
+
+   ![ 管理者 – メール – ドメイン - SSL を追加 ](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
+
+1. ダイアログで、「**[!UICONTROL 確認]**」をクリックします。
+
+   ![SSL を追加 – 確認 ](./assets/generate-ssl-cert-confirm.png){width="400"}
+
 ## エラーメッセージ {#error-messages}
 
 <table><thead>
@@ -49,29 +63,29 @@ ht-degree: 100%
     <th>詳細</th>
   </tr></thead>
 <tbody>
-  <tr>
-    <td><i>ドメインの作成中に予期しないエラーが発生しました。サポートが必要な場合は、サポートにお問い合わせください。</i></td>
-    <td>予期しないエラーが発生しました。ログとエラーの詳細を収集し、問題を <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート</a>にエスカレートしてください。</td>
-  </tr>
-  <tr>
-    <td><i>SSL 証明書は既に発行されています。</i></td>
-    <td>このカスタムドメインには、SSL 証明書が既に存在します。証明書の有効期限が切れているか、再発行が必要な場合を除き、これ以上のアクションは必要ありません。</td>
+<tr>
+    <td><i>ドメインが既に存在します。</i></td>
+    <td>同じ名前のドメインが既に存在します。</td>
   </tr>
   <tr>
     <td><i>ドメインがデフォルトのドメインにマッピングされていません。</i></td>
     <td>カスタムドメインがデフォルトのドメインに正しくマッピングされていません。ドメインマッピング設定を確認し、DNS 設定が正しいデフォルトのドメインを指していることを確認してください。</td>
   </tr>
   <tr>
-    <td><i>Cloudflare の設定が開始されました。後でもう一度やり直してください。</i></td>
-    <td>インスタンスに対して最初のトラッキングドメインを作成すると、Cloudfare で 1 回限りのインフラストラクチャ設定が行われます。このメッセージは、設定が開始されており、最大 3 時間かかる可能性があることを示します。</td>
+    <td><i>CAA レコードがサポートされていないので、SSL 証明書を発行できませんでした。 CAA レコードを更新するように IT にリクエストします。</i></td>
+    <td>CAA レコードが最新ではありません。 Marketo Engage管理の SSL 証明書を使用している場合は、ベンダーが推奨する証明書に CAA レコードを更新する必要があります。 CAA レコードを更新するには、担当の IT 部門に問い合わせてください。 詳しくは、<a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246"> このページ </a> を参照してください。</td>
   </tr>
   <tr>
-    <td><i>Cloudflare の設定はまだ進行中です。後でもう一度やり直してください。</i></td>
-    <td>上記を参照してください</td>
+    <td><i>SSL 証明書は既に発行されています。</i></td>
+    <td>このカスタムドメインには、SSL 証明書が既に存在します。証明書の有効期限が切れているか、再発行が必要な場合を除き、これ以上のアクションは必要ありません。</td>
   </tr>
   <tr>
-    <td><i>予期しないエラーにより、Cloudflare の設定に失敗しました。カスタマーサポートにお問い合わせください。</i></td>
-    <td>Cloudfare インフラストラクチャの初期設定に失敗しました。サポートが必要な場合は、<a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート</a>にお問い合わせください。</td>
+    <td><i>デフォルトのドメインが見つかりませんでした。サポートが必要な場合は、サポートにお問い合わせください。</i></td>
+    <td>デフォルトのドメインを見つけようとした際に問題が発生しました。調査いたしますので、サポートにお問い合わせください。</td>
+  </tr>
+  <tr>
+    <td><i>ドメインの作成中に予期しないエラーが発生しました。サポートが必要な場合は、サポートにお問い合わせください。</i></td>
+    <td>予期しないエラーが発生しました。ログとエラーの詳細を収集し、問題を<a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート</a>にエスカレートしてください。</td>
   </tr>
 </tbody></table>
 
@@ -83,13 +97,7 @@ ht-degree: 100%
 
 * **既存の SSL**：ドメインの追加中に、事前に手動で作成した可能性のある既存の SSL がシステムによってチェックされます。この検証が発生した場合は、SSL 作成を選択せずにドメインを作成すると、SSL が接続されます。追加kの詳細やオプションについては、[サポートにお問い合わせください](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
-* **初回のトラッキングドメイン**：メールトラッキングリンクドメインを初めて作成する場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}による手動介入が必要になります。UI では、同じドメインでの後続のサブドメインの作成が許可されます。
-
-* **既存のドメインへの証明書の追加**：現時点では、既存のドメインへの証明書の追加はサポートされていません。既存のドメインの場合や、SSL 証明書のボックスをオンにしなかった場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡して、証明書を追加する必要があります。
-
-* **既存のドメインの証明書の編集または削除**：既存の SSL を更新または削除する必要がある場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
-
-* **ドメインの削除**：現時点では、ドメインを削除しても、SSL 証明書は自動的に削除されません。これは、今後のリリースで対処される予定です。
+* **ドメインの削除**:SSL 証明書を自動的に削除 **削除しない** します。 このガードレールは、web サイトに SSL 証明書がない結果となるユーザーエラーを防ぎます。 SSL 証明書を削除する場合は、[ サポートにお問い合わせください ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

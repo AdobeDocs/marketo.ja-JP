@@ -4,10 +4,10 @@ description: ランディングページへの SSL の追加 — Marketo ドキ�
 title: ランディングページへの SSL の追加
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 2bbfe8f1d000f182aba3a1d3e0c58c1be47b76a7
+source-git-commit: de2f73f932fd38211dba96d8697ef4bb4fd0f0da
 workflow-type: tm+mt
-source-wordcount: '702'
-ht-degree: 85%
+source-wordcount: '801'
+ht-degree: 71%
 
 ---
 
@@ -59,7 +59,27 @@ Marketo Engage では、デフォルトで、セキュリティで保護され�
 
 >[!NOTE]
 >
->SSL が準備完了状態になるまで、最長 3 分かかる場合があります。変更を表示するには、ページを更新する必要があります。
+>SSL が準備完了状態になるまで、最大 3 分かかる場合があります。 ページを更新して、変更を表示します。
+
+## 既存のドメインのエイリアスに対する SSL の編集
+
+既存のドメインエイリアスに対して SSL を有効にするには、次の手順に従います。
+
+1. _[!UICONTROL 管理者]_ エリアで、左側のナビゲーションの **[!UICONTROL 統合]** を展開し、「**[!UICONTROL ランディングページ]**」を選択します。
+
+1. ページの上部にある「**[!UICONTROL ルール]** タブを選択します。
+
+1. 編集するドメインエイリアス行を選択し、上部の **[!UICONTROL SSL を追加]** をクリックします。
+
+   ![ 管理領域 – 統合/ ランディングページ – 「ルール」タブ – ドメインエイリアスの選択 ](./assets/admin-landing-pages-rules-add-ssl.png){width="800" zoomable="yes"}
+
+1. ダイアログで、「**[!UICONTROL 確認]**」をクリックします。
+
+   ![SSL を追加 – 確認 ](./assets/generate-ssl-cert-confirm.png){width="400"}
+
+>[!NOTE]
+>
+>SSL が準備完了状態になるまで、最大 3 分かかる場合があります。 ページを更新して、変更を表示します。
 
 ## エラーメッセージ {#error-messages}
 
