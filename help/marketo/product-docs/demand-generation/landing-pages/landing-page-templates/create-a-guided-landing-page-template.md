@@ -4,16 +4,16 @@ description: ガイド付きランディングページテンプレートの作�
 title: ガイド付きランディングページテンプレートの作成
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 87%
+source-wordcount: '1122'
+ht-degree: 85%
 
 ---
 
 # ガイド付きランディングページテンプレートの作成 {#create-a-guided-landing-page-template}
 
-ガイド付きランディングページテンプレートには、特別な構文があります。この構文を使用して、カスタマイズ可能な内容と、テンプレートから作成された各ランディングページで最終的にコンテンツが生成される場所を指定します。「ガイド付き」ランディングページエディター内でカスタマイズできるのは、編集可能として指定した地域または変数のみです。
+ガイド付きランディングページテンプレートには、特別な構文があります。この構文を使用して、カスタマイズ可能な内容と、テンプレートから作成された各ランディングページで最終的にコンテンツが生成される場所を指定します。「ガイド付き」ランディングページエディター内でカスタマイズできるのは、編集可能として指定した領域または変数のみです。
 
 >[!TIP]
 >
@@ -76,7 +76,7 @@ src：文字列 URL。 これは、画像のデフォルト値として使用さ
 
 >[!NOTE]
 >
->`<img>` バージョンを使用する場合、レンダリングされた HTML には `<img>` タグの周りに生成された div ラッパーが含まれます。クラス「mktoImg.mktoGen&quot;，が表示され :inline-block す。
+>`<img>` バージョンを使用する場合、レンダリングされた HTML には `<img>` タグの周りに生成された div ラッパーが含まれます。クラスに設定されます。」mktoImg.mktoGen&quot;，が表示され :inline-block す。
 
 ## Form {#form}
 
@@ -119,36 +119,6 @@ src：文字列 URL。 これは、画像のデフォルト値として使用さ
 例:
 
 `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
-
-## 投票 {#poll}
-
-必須の属性：
-**class**: &quot;mktoPoll&quot;
-**id**: ID 文字列。 文字、数字、ダッシュ（-）、アンダースコア（_）のみが含まれます。スペースは使用できません。一意である必要があります。**mktoName**：文字列。これは、ランディングページエディターに表示される表示名です。ベストプラクティスは、わかりやすい名前を使用することです。
-
-例:
-
-`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
-
-## 参照元 {#referral}
-
-必須の属性：
-**class**: &quot;mktoReferral&quot;
-**id**: ID 文字列。 文字、数字、ダッシュ（-）、アンダースコア（_）のみが含まれます。スペースは使用できません。一意である必要があります。**mktoName**：文字列。これは、ランディングページエディターに表示される表示名です。ベストプラクティスは、わかりやすい名前を使用することです。
-
-例:
-
-`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
-
-## 懸賞 {#sweepstakes}
-
-必須の属性：
-**class**: 「mktoSweepstakes」
-**id**: ID 文字列。 文字、数字、ダッシュ（-）、アンダースコア（_）のみが含まれます。スペースは使用できません。一意である必要があります。**mktoName**：文字列。これは、ランディングページエディターに表示される表示名です。ベストプラクティスは、わかりやすい名前を使用することです。
-
-例:
-
-`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## 編集可能な変数 {#editable-variables}
 
