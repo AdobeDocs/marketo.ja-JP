@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '655'
 ht-degree: 41%
 
 ---
@@ -62,7 +62,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> ダークモード </strong>：ダークモードを利用できるようになりました。これにより、サポートメールクライアントやアプリが、テキスト、ボタン、その他の UI 要素に、暗い背景と明るい色のメールを表示できます。</td>
+   <td><strong> メールDesigner - ダークモード </strong>：ダークモードを使用できるようになりました。これにより、サポートメールクライアントやアプリが、テキスト、ボタンなどの UI 要素に、暗い背景と明るい色のメールを表示できます。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
