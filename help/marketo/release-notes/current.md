@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+source-git-commit: 9189d45829a23a3b9eb75fc4125db92c3508773d
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 51%
+source-wordcount: '653'
+ht-degree: 41%
 
 ---
 
@@ -33,6 +33,46 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong> オンデマンドのウェビナーアクティビティの保持 </strong>：インタラクティブウェビナーのユーザーは、30 日以上オンデマンドのウェビナーダッシュボードのデータを使用できるようになりました（以前は、ウェビナーの日から最大 30 日でした）。</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> メールDesigner - コンテンツCollaborationワークフロー </strong>：メールアセット内でMarketo ユーザーにコメントし、共同作業できるようになりました。 チームメンバーにタグ付けすると（適切なアセット権限を持つMarketo ユーザー）、メールまたはパルス通知が届きます。</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> メールDesigner - AI アシスタントの権限 </strong>:Marketo管理者は、特定のユーザーに GenAI 機能へのアクセスを提供できます。</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> ダークモード </strong>：ダークモードを利用できるようになりました。これにより、サポートメールクライアントやアプリが、テキスト、ボタン、その他の UI 要素に、暗い背景と明るい色のメールを表示できます。</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> 電子メールDesigner - リダイレクトの修正 </strong>：新しいDesignerを使用して作成された電子メールの URL で、リダイレクトの問題が発生していました（URL の直接貼り付けや、電子メールアセットのブックマークが常に機能するとは限りませんでした）。 この問題は解決されました。 さらに、<b> メールテンプレート </b>/<b> 詳細 </b>/<b> 使用者 </b> からのメールアセットへのリンクは、対応するメールアセットにリダイレクトされます。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
