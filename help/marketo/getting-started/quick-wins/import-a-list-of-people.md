@@ -5,9 +5,9 @@ title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '577'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 91%
 >
 >[セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-このチュートリアルでは、スプレッドシートファイルからMarketoにユーザーを読み込む方法を説明します。
+このチュートリアルでは、スプレッドシートファイルから Marketo に人物を読み込む方法を学びます。
 
 ## 手順 1：スプレッドシートをダウンロード／編集する {#step-download-and-edit-a-spreadsheet}
 
@@ -113,7 +113,7 @@ ht-degree: 91%
 
    >[!TIP]
    >
-   >最適な自動マッピングの結果を得るには、列ヘッダーが常にフィールドと完全に一致する必要があります（大文字と小文字が区別されます）。 カスタムフィールドを使用していて、ドロップダウンに表示されていない場合は、オプションになるように、戻って[作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}します。
+   >最適な自動マッピング結果を得るには、列ヘッダーは、常にフィールドと完全に一致する（大文字と小文字を区別）必要があります。カスタムフィールドを使用していて、ドロップダウンに表示されていない場合は、オプションになるように、戻って[作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}します。
 
    >[!NOTE]
    >
@@ -127,7 +127,7 @@ ht-degree: 91%
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. **トレードショープログラム**&#x200B;に戻り、「**[!UICONTROL メンバー]**」タブをクリックします。インポートしたユーザーがすべて表示されます。
+1. **トレードショープログラム**&#x200B;に戻り、「**[!UICONTROL メンバー]**」タブをクリックします。読み込んだすべての人物が表示されます。
 
    ![](assets/import-a-list-of-people-15.png)
 
@@ -139,8 +139,8 @@ ht-degree: 91%
 
 トレードショーの出席者は、Marketo プログラムのメンバーになりました。
 
-<br> 
+<br>
 
-[◄ Mission 4：メール自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[◄ミッション 4：メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[任務 6：点滴、点滴、育成 ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[ミッション 6：ドリップ、ドリップ、ナーチャリング►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

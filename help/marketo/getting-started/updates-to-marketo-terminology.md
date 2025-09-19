@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 title: Marketo 用語のアップデート
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '328'
 ht-degree: 100%
 
@@ -139,10 +139,10 @@ Lead という単語を含むトークンは、変更&#x200B;**されません**
 
 名前の変更に加えて、4 つの異なるアプリで構成されるようになりました。
 
-| **[Web パーソナライズ機能](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | ホーム画面に独自のタイルを表示 |
+| **[Web パーソナライゼーション](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | ホーム画面に独自のタイルを表示 |
 |---|---|
-| **[アカウントベースの web マーケティング](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Web パーソナライズ機能タイルを通じてアクセス可能 |
-| **[パーソナライズされたリターゲティング](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Web パーソナライズ機能タイルを通じてアクセス可能 |
+| **[アカウントベースの web マーケティング](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Web パーソナライゼーションタイルを通じてアクセス可能 |
+| **[パーソナライズされたリターゲティング](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Web パーソナライゼーションタイルを通じてアクセス可能 |
 | **[予測コンテンツ](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | ホーム画面に独自のタイルを表示 |
 
 >[!NOTE]

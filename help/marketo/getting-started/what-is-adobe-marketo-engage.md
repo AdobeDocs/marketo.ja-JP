@@ -5,15 +5,15 @@ title: Adobe Marketo Engage とは
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 # Adobe Marketo Engage とは {#what-is-adobe-marketo-engage}
 
-Adobe Marketo Engage は、マーケティングの自動処理ソフトウェアです。マーケティングの自動処理により、マーケティングタスクとワークフローを合理化、自動化、測定できるので、運用効率を高め、収益をより迅速に伸ばすことができます。
+Adobe Marketo Engage は、マーケティングオートメーションソフトウェアです。マーケティングオートメーションにより、マーケティングタスクとワークフローを合理化、自動化、測定できるので、運用効率を高め、収益をより迅速に伸ばすことができます。
 
 ## Marketo Engage でできること {#what-can-i-do-in-marketo-engage}
 
@@ -55,12 +55,12 @@ Marketo Engage には、マーケティング目標の達成に役立つ多く�
 
 ## 1 週間に送信できるメールの合計数など、制限をカバーするもののリストはありますか？ {#list-of-limits}
 
-あります。静的制限（およびその他のパラメーター）の概要を [ この記事で ](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"} します。
+あります。静的制限（およびその他のパラメーター）については、[この記事](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}を参照してください。
 
 ## Marketo は、どのくらいの期間データを保持しますか？ {#data-retention-policy}
 
-詳しくは、[ このマーケティング民族のブログ投稿 ](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} を参照してください。
+詳しくは、[この Marketing Nation ブログ投稿](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"}を参照してください。
 
 <br>
 
-Marketo Engage へようこそ
+Marketo Engage へようこそ。

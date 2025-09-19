@@ -1,28 +1,28 @@
 ---
-description: ヘルプセンター – Marketo Engage ドキュメント – 製品ドキュメント
+description: ヘルプセンター - Marketo Engage ドキュメント - 製品ドキュメント
 title: ヘルプセンター
 feature: Getting Started
 exl-id: 3dd7c005-a416-4808-9418-9114df76d963
 source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '312'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
 # ヘルプセンター {#help-center}
 
-Adobe Marketo Engage のヘルプセンターは、サポートを受ける際の一元的な場所として機能します。様々なリソース（[ 製品ドキュメント ](/help/marketo/home.md){target="_blank"}、[ リリース情報 ](/help/marketo/release-notes/current.md){target="_blank"}、[ マーケティングネーションコミュニティ ](https://nation.marketo.com/){target="_blank"} など）にリンクする以外に、エクスペリエンスレベル別に整理された便利な製品内ウォークスルーにアクセスできます。
+Adobe Marketo Engage のヘルプセンターは、サポートを受ける際の一元的な場所として機能します。様々なリソース（例えば、[製品ドキュメント](/help/marketo/home.md){target="_blank"}、[リリース情報](/help/marketo/release-notes/current.md){target="_blank"}、[Marketing Nation コミュニティ](https://nation.marketo.com/){target="_blank"}）へのリンクに加えて、エクスペリエンスレベルで整理された、便利な製品内ウォークスルーにアクセスできます。
 
-## アクセス方法 {#how-to-access}
+## アクセスする方法 {#how-to-access}
 
-サブスクリプションがまだAdobe Identity Management System （IMS）に移行されているかどうかに応じて、2 つの異なるエクスペリエンスがあります。
+サブスクリプションが Adobe ID 管理システム（IMS）に移行されているかどうかに応じて、2 つの異なるエクスペリエンスがあります。
 
-### Adobe IMS前の移行 {#pre-adobe-ims-integration}
+### Adobe IMS 移行前 {#pre-adobe-ims-integration}
 
-これらの手順は、[Adobe IMSに移行されて _ない_ Marketo Engage ユーザーを対象と ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} ています。
+これらの手順は、[Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} にまだ移行して&#x200B;_いない_ Marketo Engage ユーザーを対象としています。
 
-Marketo Engageに [ ログイン ](https://login.marketo.com/){target="_blank"} し、「ヘルプ」アイコンをクリックします。
+Marketo Engage に[ログイン](https://login.marketo.com/){target="_blank"}し、ヘルプアイコンをクリックします。
 
 ![](assets/help-center-1.png)
 
@@ -54,7 +54,7 @@ Marketo Engageに [ ログイン ](https://login.marketo.com/){target="_blank"} 
 
 #### 新着情報 {#whats-new}
 
-「新機能」タブには、Marketo Engageの最新リリースの詳細が含まれています。
+「新着情報」タブには、Marketo Engage の最新リリースの詳細が含まれています。
 
 ![](assets/help-center-7.png)
 
@@ -68,26 +68,26 @@ Marketo Engageに [ ログイン ](https://login.marketo.com/){target="_blank"} 
 
 ![](assets/help-center-8.png)
 
-### Adobe IMS後の移行 {#post-adobe-ims-integration}
+### Adobe IMS 移行後 {#post-adobe-ims-integration}
 
-これらの手順は、[Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に既に移行されているMarketo Engage ユーザーを対象としています。
+これらの手順は、[Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に既に移行した Marketo Engage ユーザーを対象としています。
 
-Marketo Engageに [ ログイン ](https://experience.adobe.com/){target="_blank"} し、「ヘルプ」アイコンをクリックします。
+Marketo Engage に[ログイン](https://experienceleague.adobe.com/ja){target="_blank"}し、ヘルプアイコンをクリックします。
 
 ![](assets/help-center-9.png)
 
-ヘルプセンターが表示されます。 表示されているヘルプ リソースのいずれかをクリックして、それぞれの領域に移動します。 また、特定の用語を検索することもできます。
+ヘルプセンターが表示されます。表示されているヘルプリソースのいずれかをクリックして、それぞれの領域に移動します。また、特定の用語を検索することもできます。
 
 ![](assets/help-center-10.png)
 
-ガイド （以前はヘルプセンターのAdobe IMS前の移行の一部）が左側のナビゲーションエリアに表示されます。
+ガイド（以前は Adobe IMS 移行前のヘルプセンターの一部）が左側のナビゲーション領域に表示されるようになりました。
 
 ![](assets/help-center-11.png)
 
-ガイドセンターには、「ガイド」と「新機能」の 2 つのタブがあります。 ガイドは、Marketo Engageの一般的な機能に関するクイックウォークスルーとして機能します。 目的のガイドをクリックするか、特定のガイドを検索します。
+ガイドセンターには、「ガイド」と「新着情報」の 2 つのタブがあります。ガイドは、Marketo Engage で人気の高い機能の簡単なウォークスルーとして機能します。目的のガイドをクリックするか、特定のガイドを検索します。
 
 ![](assets/help-center-12.png)
 
-「新機能」タブには、Marketo Engageの最新リリースの詳細が含まれています。
+「新着情報」タブには、Marketo Engage の最新リリースの詳細が含まれています。
 
 ![](assets/help-center-13.png)

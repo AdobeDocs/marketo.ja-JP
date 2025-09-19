@@ -5,9 +5,9 @@ title: Marketo Engage 用語集
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '4065'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -192,7 +192,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
    <td colspan="1"><strong>エンゲージメントプログラム</strong>で Marketo がコンテンツに付与する 0 ～ 100 点のスコア。このスコアは、<strong>開封数</strong>、<strong>クリック数</strong>、<strong>配信停止数</strong>、プログラムの成功などを使用した高度な数式によって判定されます。</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Cookie</strong></td>
+   <td colspan="1"><strong>cookie</strong></td>
    <td colspan="1"><span>Cookie は、エクスペリエンスをパーソナライズ（ログイン情報や好みなどを記憶）するのに役立つ、web サイトからユーザの web ブラウザーに送信される小さなデータです。 </span></td>
   </tr>
   <tr>
@@ -253,7 +253,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><strong>デモグラフィックスコア</strong></td>
-   <td colspan="1">役職、売上規模、対象業界など、その人物が持つ特定の属性に基づいて割り当てられたポイント値。通常、製品や企業に対する人物の適合性を測定するために使用されます。 </td>
+   <td colspan="1">役職、売上規模、ターゲット業界など、その人物が持つ特定の属性に基づいて割り当てられたポイント値。通常、製品や企業に対する人物の適合性を測定するために使用されます。 </td>
   </tr>
   <tr>
    <td colspan="1"><strong>デザインスタジオ</strong></td>
@@ -429,7 +429,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
  <tbody>
   <tr>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>注目のアクション</strong></a></td>
-   <td><p><strong>Marketo Sales Insight</strong> において、ユーザーが特に関連があると考えられる事象（ユーザーがサイトの特定のページにアクセスした場合、メール内の特定のリンクをクリックした場合など）であり、セールスチームに知らせたい事象。</p></td>
+   <td><p><strong>Marketo セールスインサイト</strong>において、特に関連があると考えられる事象（ユーザがサイトの特定のページにアクセスした場合、メール内の特定のリンクをクリックした場合など）であり、セールスチームに知らせたい事象。</p></td>
   </tr>
  </tbody>
 </table>
@@ -865,7 +865,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
    <td>Marketo のレポートのタイプ。これにより、web サイトを訪問している既知の<i>または</i>匿名の人物を確認できます。</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Web パーソナライズ</strong></td>
+   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Web パーソナライゼーション</strong></td>
    <td>ターゲティングおよびパーソナライゼーションプラットフォームを提供するアドオン機能。Marketo ユーザが既知の訪問者や匿名の訪問者と、誰であるか、何をしているかに基づいて、リアルタイムにやり取りするのに役立ちます。</td>
   </tr>
   <tr>
