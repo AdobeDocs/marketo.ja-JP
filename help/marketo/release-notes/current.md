@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
+source-git-commit: c83145ca5e723f19e5bc89279ccd40cf4cf68ee3
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '654'
 ht-degree: 60%
 
 ---
@@ -42,7 +42,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> メールDesigner - コンテンツCollaborationワークフロー </strong>：メールアセット内でMarketo ユーザーにコメントし、共同作業できるようになりました。 チームメンバーにタグ付けすると（適切なアセット権限を持つMarketo ユーザー）、メールまたはパルス通知が届きます。</td>
+   <td><strong> メールDesigner - コンテンツCollaborationワークフロー </strong>：メールアセット内のMarketo ユーザーにコメントを付けたり、共同作業したりできるようになりました。 チームメンバーにタグ付けすると（適切なアセット権限を持つMarketo ユーザー）、メールまたはパルス通知が届きます。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -62,7 +62,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> メールDesigner - ダークモード </strong>：ダークモードを使用できるようになりました。これにより、サポートメールクライアントやアプリが、テキスト、ボタンなどの UI 要素に、暗い背景と明るい色のメールを表示できます。</td>
+   <td><strong> メールDesigner - ダークモード </strong>：ダークモードを利用できるようになりました。これにより、サポートメールクライアントやアプリが、テキスト、ボタン、その他の UI 要素に、暗い背景と明るい色のメールを表示できます。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
