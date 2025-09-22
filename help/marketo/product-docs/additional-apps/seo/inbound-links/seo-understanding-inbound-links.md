@@ -13,7 +13,7 @@ ht-degree: 89%
 
 # SEO - [!UICONTROL インバウンドリンク]について {#seo-understanding-inbound-links}
 
-[!UICONTROL  インバウンドリンク ] は、検索エンジンに対して、サイトが参照する価値があることを示します。
+[!UICONTROL &#x200B; インバウンドリンク &#x200B;] は、検索エンジンに対して、サイトが参照する価値があることを示します。
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 

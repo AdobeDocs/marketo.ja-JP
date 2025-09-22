@@ -50,4 +50,4 @@ ht-degree: 90%
 >
 >**Marketo Engage アクセスを維持するには、2019 年 12 月 13 日より前に、すべてのクライアントシステムが TLS 1.2 に準拠している必要があります**。詳細は[こちら](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)をご覧ください。
 
-**_製品リリースウェビナー_**[ ご参加ください ](https://engage.marketo.com/August_19_Release_Webinar.html)8 月 28 日（PT） 1:00PM PT / 4:00PM ET に、製品チームがホストするライブウェビナーと、このリリースに含まれる機能の詳細をご覧ください。
+**_製品リリースウェビナー_**&#x200B;[ ご参加ください ](https://engage.marketo.com/August_19_Release_Webinar.html)8 月 28 日（PT） 1:00PM PT / 4:00PM ET に、製品チームがホストするライブウェビナーと、このリリースに含まれる機能の詳細をご覧ください。

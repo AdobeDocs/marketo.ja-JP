@@ -121,4 +121,4 @@ Marketo の最も優れた機能の 1 つは、プログラムの複製を作成
 
 ## 概要 {#summary}
 
-ご覧の通り、Marketo には多くの力があります。ここでは基本を説明しましたが、[0}Marketo Engageのエキスパートによるその他のサービスを検討して、微調整を行い、成功に向けたセットアップを行ってください。](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}
+ご覧の通り、Marketo には多くの力があります。ここでは基本を説明しましたが、[0&rbrace;Marketo Engageのエキスパートによるその他のサービスを検討して、微調整を行い、成功に向けたセットアップを行ってください。](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}

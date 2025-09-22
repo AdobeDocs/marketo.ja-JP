@@ -31,7 +31,7 @@ ht-degree: 18%
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. 「[!UICONTROL  繰り返し間隔 ]」を 1 のままにし、「火曜日」を選択して「保存 **[!UICONTROL をクリックし]** す。
+1. 「[!UICONTROL &#x200B; 繰り返し間隔 &#x200B;]」を 1 のままにし、「火曜日」を選択して「保存 **[!UICONTROL をクリックし]** す。
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 

@@ -14,7 +14,7 @@ ht-degree: 15%
 
 新しい会話フローを作成する方法を次に示します。
 
-1. [!UICONTROL  自動チャット ] の下の **[!UICONTROL 会話フロー]** をクリックします。
+1. [!UICONTROL &#x200B; 自動チャット &#x200B;] の下の **[!UICONTROL 会話フロー]** をクリックします。
 
    ![](assets/create-a-conversational-flow-1.png)
 

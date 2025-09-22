@@ -12,4 +12,4 @@ ht-degree: 31%
 
 # モバイルアプリ {#mobile-apps}
 
-**![イベントのチェックイン ](assets/mobile-checkin-icon.png) イベントのチェックイン**[ イベントのチェックイン タブレットからイベントへの顧客のチェックイン。](https://docs.marketo.com/display/DOCS/Event+Check-in)     **![Marketoの瞬間 ](assets/moments-icon.png)Marketoの瞬間**[Marketoの瞬間重要な時に、何が重要かを見る。](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+**![イベントのチェックイン ](assets/mobile-checkin-icon.png) イベントのチェックイン**&#x200B;[ イベントのチェックイン タブレットからイベントへの顧客のチェックイン。](https://docs.marketo.com/display/DOCS/Event+Check-in)     **![Marketoの瞬間 ](assets/moments-icon.png)Marketoの瞬間**&#x200B;[Marketoの瞬間重要な時に、何が重要かを見る。](https://docs.marketo.com/display/DOCS/Marketo+Moments)
