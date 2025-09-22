@@ -4,10 +4,10 @@ description: コンテンツレコメンデーションバーを有効にする 
 title: コンテンツレコメンデーションバーを有効にする
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -51,9 +51,9 @@ ht-degree: 97%
    >
    >* 表示 URL はドメインのパスにする必要があります
    >* https:// や https:// は含めません
-   >* ワイルドカード &#42; 使用
-   >* セミコロンを区切り記号として使用します
-   >* 例：/contact_us&#42;; &#42;action=logout&#42;
+   >* ワイルドカードには &#42; を指定します。
+   >* セミコロンを区切り記号として使用します。
+   >* 例：/contact_us&#42;、&#42;action=logout&#42;
    >* このフィールドでは大文字と小文字が区別されます
 
 ## レコメンデーションバーについての注意事項 {#recommendation-bar-considerations}

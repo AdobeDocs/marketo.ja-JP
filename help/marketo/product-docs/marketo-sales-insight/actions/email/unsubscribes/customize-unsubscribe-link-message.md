@@ -3,10 +3,10 @@ description: 配信停止リンクメッセージのカスタマイズ - Marketo
 title: 配信停止リンクメッセージのカスタマイズ
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -16,13 +16,13 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->この情報はデータベースに取り込まれないため、[!DNL Marketo Sales] でサードパーティの登録解除リンクを使用することはできません。
+>[!DNL Marketo Sales] ではサードパーティの登録解除リンクは使用できません。この情報は、アドビのデータベースに取り込まれないからです。
 
 1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、「**[!UICONTROL 購読解除]**」をクリックします。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL 登録解除]**」をクリックします。
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 

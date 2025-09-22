@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11382593
-description: ウェブパーソナライズを追跡しないように設定する - Marketo ドキュメント - 製品ドキュメント
-title: ウェブパーソナライズを追跡しないように設定する
+description: Web パーソナライゼーションを追跡しないように設定する - Marketo ドキュメント - 製品ドキュメント
+title: Web パーソナライゼーションを追跡しないように設定する
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 38%
+ht-degree: 100%
 
 ---
 
-# トラッキングしない [!UICONTROL Web Personalization] の設定 {#setting-web-personalization-to-do-not-track}
+# [!UICONTROL Web パーソナライゼーション]を追跡しないように設定 {#setting-web-personalization-to-do-not-track}
 
 Web 訪問者は、「Do Not Track」（DNT）を選択して、どのウェブサイトでもトラッキングを防ぐようにブラウザーを設定できます。これにより、特定のブラウザーおよびデバイスでのトラッキングを防ぐことができます。
 
-[!UICONTROL Web Personalization] および [!UICONTROL &#x200B; 予測コンテンツ &#x200B;] では、マーケターは、ブラウザーの Do Not Track （DNT）設定をサポートするか無視するかを示す切替スイッチを設定できます。 アカウントでの切り替えは、デフォルトでオフに設定されています。これは、アプリケーションで DNT が有効でないことを意味します。
+[!UICONTROL Web パーソナライゼーション]および[!UICONTROL 予測コンテンツ]では、マーケターは、ブラウザーの「Do Not Track」（DNT）設定をサポートするか無視するかを切り替えて設定できます。アカウントでの切り替えは、デフォルトでオフに設定されています。これは、アプリケーションで DNT が有効でないことを意味します。
 
 ## 切り替えを有効または無効にする {#enable-or-disable-the-toggle}
 
@@ -23,14 +23,14 @@ Web 訪問者は、「Do Not Track」（DNT）を選択して、どのウェブ�
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. [!UICONTROL &#x200B; ドメイン &#x200B;] および [!UICONTROL &#x200B; ドメイン設定 &#x200B;] で「**[!UICONTROL オン]**」を選択して「[!UICONTROL DNT に従う &#x200B;]」切替スイッチを有効にします。
+1. [!UICONTROL ドメイン]と[!UICONTROL ドメインの設定]で、「**[!UICONTROL オン]**」を選択して、「[!UICONTROL DNT を遵守]」の切り替えを有効にします。
 
    ![](assets/two-1.png)
 
-   切り替えが [!UICONTROL &#x200B; オン &#x200B;] に設定されている場合、web Personalizationは、ブラウザーのトラッキングしない（DNT）設定に従ってサポートし、web アクティビティのトラッキングや、web サイトでのキャンペーンまたはコンテンツのレコメンデーションの実行を行いません。
+   切り替えを「[!UICONTROL オン]」に設定すると、web パーソナライゼーションはブラウザーの「Do Not Track （DNT）」設定を遵守してサポートし、web アクティビティを追跡したり、web サイト上でキャンペーンやコンテンツレコメンデーションを実行したりしません。
 
    >[!NOTE]
    >
-   >切り替えを [!UICONTROL &#x200B; オン &#x200B;] に設定すると、特定の領域のMarketoの値と機能に影響を与える可能性があります。
+   >切り替えを[!UICONTROL オン]に設定すると、特定の領域での Marketo の値と機能に影響を与える場合があります。
 
-1. [!UICONTROL DNT に従う &#x200B;] トグルを無効にし、ブラウザの Do No Track （DNT）設定を無視するには、**[!UICONTROL DNT に従う]** の下の [!UICONTROL &#x200B; オフ &#x200B;] を選択します。
+1. 「[!UICONTROL DNT を遵守]」切替スイッチを無効にし、ブラウザーの「Do No Track（DNT）」設定を無視するには、「[!UICONTROL DNT を遵守]」で「**[!UICONTROL オフ]**」を選択します。

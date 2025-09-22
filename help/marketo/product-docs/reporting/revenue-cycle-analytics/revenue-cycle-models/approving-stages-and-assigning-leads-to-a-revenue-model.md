@@ -4,10 +4,10 @@ description: ステージの承認と収益モデルへのリードの割り当�
 title: ステージの承認と収益モデルへのリードの割り当て
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '342'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 90%
 
    ![](assets/image2015-4-29-11-3a39-3a39.png)
 
-1. **[!UICONTROL リードアクション]**&#x200B;ドロップダウンを開いて、「**[!UICONTROL 特別]**」を選択します。「**[!UICONTROL 収益ステージを変更…]**」をクリックします。
+1. **[!UICONTROL リードアクション]**&#x200B;ドロップダウンを開いて、「**[!UICONTROL 特別]**」を選択します。「**[!UICONTROL 収益ステージを変更...]**」をクリックします。
 
    ![](assets/image2015-4-29-11-3a40-3a38.png)
 
@@ -81,13 +81,13 @@ ht-degree: 90%
 
 ## 割り当てルールの例 {#example-assignment-rule}
 
-[!UICONTROL &#x200B; リードスコア &#x200B;] ルールを作成して、最小スコアの新しいリードを適切なステップに割り当てます。
+[!UICONTROL リードスコア]ルールを作成して、最小スコアの新規リードを適切な手順に割り当てます。
 
 1. **[!UICONTROL If]** で、「**[!UICONTROL リードスコア]**」を選択します。次に、**[!UICONTROL at least]** を選択します。
 
    ![](assets/image2015-4-29-13-3a27-3a8.png)
 
-1. フィールドに **40** と入力し、**[!UICONTROL ステージ]** として [!UICONTROL &#x200B; 営業リード &#x200B;] を選択します。 「**[!UICONTROL 保存]**」をクリックして終了します。
+1. フィールドに「**40**」と入力し、**[!UICONTROL セールスリード]**&#x200B;を[!UICONTROL ステージ]として選択します。「**[!UICONTROL 保存]**」をクリックして終了します。
 
    ![](assets/image2015-4-29-14-3a4-3a23.png)
 

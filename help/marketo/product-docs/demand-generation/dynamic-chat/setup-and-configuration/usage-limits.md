@@ -3,8 +3,8 @@ description: セキュリティ設定 - Marketo ドキュメント - 製品ド�
 title: セキュリティ設定
 feature: Dynamic Chat
 exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
-source-git-commit: 18494906815d907371996ae6c93a3ed59f139ffc
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 

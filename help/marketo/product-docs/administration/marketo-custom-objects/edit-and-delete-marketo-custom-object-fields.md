@@ -4,10 +4,10 @@ description: Marketo カスタムオブジェクトフィールドの編集と�
 title: Marketo カスタムオブジェクトフィールドの編集と削除
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 94%
    >
    >API 名は編集できません。
 
-1. 変更内容は **[!UICONTROL フィールド]** リストに表示されます。
+1. 変更が&#x200B;**[!UICONTROL フィールド]**&#x200B;リストに表示されます。
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 

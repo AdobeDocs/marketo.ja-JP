@@ -4,16 +4,16 @@ description: キャンペーンアクティビティレポートをフィルタ�
 title: キャンペーンアクティビティレポートをフィルターする
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 # キャンペーンアクティビティレポートをフィルターする {#filter-a-campaign-activity-report}
 
-[ キャンペーンアクティビティレポート ](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) を特定の [ スマートキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) に焦点を当てます。
+特定の[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)を基準にして、[キャンペーンアクティビティレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)を絞り込みます。
 
 >[!NOTE]
 >

@@ -4,16 +4,16 @@ description: カテゴリの設定 - Marketo ドキュメント - 製品ドキ�
 title: カテゴリの設定
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 # カテゴリの設定 {#set-up-categories}
 
-予測コンテンツでカテゴリを作成し、Web またはメールで予測結果をグループ化します。例えば、ブログのみ、または特定の言語のコンテンツで作業できます。また、ページビューを検索およびフィルタリングすることもできます。カテゴリは、参照しやすいように、[!UICONTROL &#x200B; すべてのコンテンツ &#x200B;] ページと [!UICONTROL &#x200B; 予測コンテンツ &#x200B;] ページに表示されます。
+予測コンテンツでカテゴリを作成し、Web またはメールで予測結果をグループ化します。例えば、ブログのみ、または特定の言語のコンテンツで作業できます。また、ページビューを検索およびフィルタリングすることもできます。カテゴリは、簡単に参照できるように、[!UICONTROL すべてのコンテンツ]ページと[!UICONTROL 予測コンテンツ]ページに表示されます。
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 

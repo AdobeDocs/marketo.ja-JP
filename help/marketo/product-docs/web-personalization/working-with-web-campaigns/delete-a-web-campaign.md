@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719410
 description: Web キャンペーンを削除する - Marketo ドキュメント - 製品ドキュメント
-title: Web キャンペーンを削除する
+title: Web キャンペーンの削除
 exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
-# Web キャンペーンを削除する {#delete-a-web-campaign}
+# Web キャンペーンの削除 {#delete-a-web-campaign}
 
 1. 「**[!UICONTROL Web キャンペーン]**」に移動します
 
@@ -21,7 +21,7 @@ ht-degree: 80%
    >
    >目的の web キャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
-1. [!UICONTROL Web キャンペーン &#x200B;] ページで、削除するキャンペーンの **[!UICONTROL 削除]** をクリックします。
+1. [!UICONTROL Web キャンペーン]ページで、削除するキャンペーンの「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/web-campaigns-1-delete-hand-1.png)
 

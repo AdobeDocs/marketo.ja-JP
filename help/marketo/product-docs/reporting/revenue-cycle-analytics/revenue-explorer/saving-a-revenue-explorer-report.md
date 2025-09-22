@@ -4,16 +4,16 @@ description: 収益エクスプローラレポートの保存 - Marketo ドキ�
 title: 収益エクスプローラレポートの保存
 exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '81'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] レポートの保存 {#saving-a-revenue-explorer-report}
+# [!UICONTROL 収益エクスプローラー]レポートの保存 {#saving-a-revenue-explorer-report}
 
-[!UICONTROL &#x200B; 売上高エクスプローラー &#x200B;] レポートは、選択したファイルに保存できます。
+[!UICONTROL 収益エクスプローラー]レポートは、任意のファイルに保存できます。
 
 1. 保存アイコンをクリックします。
 
@@ -33,4 +33,4 @@ ht-degree: 71%
 
 >[!MORELIKETHIS]
 >
->[ 収益エクスプローラー [!UICONTROL &#x200B; レポートのサブスクライブ &#x200B;] る ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[[!UICONTROL 収益エクスプローラー]レポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

@@ -4,10 +4,10 @@ description: A/B テストの勝者条件の定義 - Marketo ドキュメント 
 title: A/B テストの勝者条件の定義
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '426'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -27,19 +27,19 @@ ht-degree: 83%
 
    <table>
    <tr>
-   <td><b>[!UICONTROL 開封数 &#x200B;]</b></td>
+   <td><b>[!UICONTROL 開封数]</b></td>
    <td>メールに画像がダウンロードされると、開封が登録されます。画像を含めていなくても、デフォルトで Marketo がすべての HTML メールに 1 つのトラッキングピクセルを挿入します。</td>
    </tr>
    <tr>
-   <td><b>[!UICONTROL クリック数 &#x200B;]</b></td>
+   <td><b>[!UICONTROL クリック数]</b></td>
    <td>デフォルトでは、メール内のリンクにはトラッキング情報が埋め込まれており、誰がどのリンクをクリックしたか、リンクが合計で何回クリックされたかなどを確認できます。</td>
    </tr>
    <tr>
-   <td><b>[!UICONTROL クリックして開く &#x200B;] %</b></td>
+   <td><b>[!UICONTROL クリック/開封率] %</b></td>
    <td>開封され、メール内のリンクがクリックされたメールの割合。これは、ユニーククリック数をユニーク開封数で割り、100 倍してパーセンテージとして表示することで、メールの関連性とコンテキストを測定します。</td>
    </tr>
    <tr>
-   <td><b>[!UICONTROL エンゲージメントスコア &#x200B;]</b></td>
+   <td><b>[!UICONTROL エンゲージメントスコア]</b></td>
    <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=ja" target="_blank">エンゲージメントスコア</a>は、コンテンツの効果を判断するのに役立ちます。</td>
    </tr>
    </table>
@@ -48,7 +48,7 @@ ht-degree: 83%
    >
    >「エンゲージメントスコア」を選択した場合、テストは 24 時間以上実行する必要があります。[エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}について学びます。
 
-1. また、「**[!UICONTROL カスタムコンバージョン]**」を選択し、「**[!UICONTROL 編集]** をクリックして、条件をカスタマイズすることもできます。
+1. また、「**[!UICONTROL カスタムコンバージョン]**」を選択して「**[!UICONTROL 編集]**」をクリックすることで、条件をカスタマイズすることもできます。
 
    ![](assets/image2014-9-12-15-3a51-3a53.png)
 
@@ -66,7 +66,7 @@ ht-degree: 83%
 
    >[!IMPORTANT]
    >
-   >Marketoでは、このメールプログラムからメールを送信されたユーザーに対してのみトリガー/フィルターを許可するので、「送信済みのメール」フィルターを追加する必要はありません。 さらに、メール関連のトリガーやフィルターを使用する場合は、演算子として「is any」を使用します。
+   >Marketo では、このメールプログラムからメールが送信された人物に対してのみトリガー／フィルターが許可されるので、「メールが送信されました」フィルターを追加する必要はありません。さらに、メール関連のトリガー／フィルターを使用する場合は、演算子として「が次のいずれかである」が使用されます。
 
 1. 「**[!UICONTROL 閉じる]**」をクリックします。
 

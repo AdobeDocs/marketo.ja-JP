@@ -4,10 +4,10 @@ description: メールプログラムの作成 - Marketo ドキュメント - �
 title: メールプログラムの作成
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 90%
 
    ![](assets/two.png)
 
-1. 名前を入力し、**[!UICONTROL プログラムの種類]** として [!UICONTROL &#x200B; メール &#x200B;] を選択し、**[!UICONTROL 作成]** をクリックします。
+1. 名前を入力し、「[!UICONTROL プログラムタイプ]」として「**[!UICONTROL メール]**」を選択し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/three.png)
 
@@ -38,4 +38,4 @@ ht-degree: 90%
 >[!MORELIKETHIS]
 >
 >* [スマートリストを使用したオーディエンス定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [リストインポートによる対象ユーザーの定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
+>* [リスト読み込みによるオーディエンスの定義](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)

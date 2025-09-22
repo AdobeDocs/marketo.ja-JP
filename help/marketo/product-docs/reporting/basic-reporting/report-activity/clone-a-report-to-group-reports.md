@@ -4,16 +4,16 @@ description: レポートをグループレポートにクローンする - Mark
 title: レポートをグループレポートにクローンする
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 # レポートをグループレポートにクローンする {#clone-a-report-to-group-reports}
 
-**[!UICONTROL マイレポート]** 内のレポートは、ユーザーにのみ表示されます。 他のすべてのレポートにアクセスできるようにするにはどうすればよいでしょうか。その方法は次のとおりです。
+**[!UICONTROL マイレポート]**&#x200B;にあるレポートは、自分だけに表示されます。他のすべてのレポートにアクセスできるようにするにはどうすればよいでしょうか。その方法は次のとおりです。
 
 1. **[!UICONTROL 分析]**&#x200B;領域で、目的の[保存済みレポート](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)をクリックします。
 

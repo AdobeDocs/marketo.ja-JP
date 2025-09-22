@@ -4,18 +4,18 @@ description: 重点顧客の作成 - Marketo ドキュメント - 製品ドキ�
 title: 重点顧客の作成
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; 指定アカウント &#x200B;] の作成 {#create-a-named-account}
+# [!UICONTROL 重点顧客の作成] {#create-a-named-account}
 
 重点顧客を手動で作成するには、次の手順に従います。
 
-1. [!UICONTROL &#x200B; 重点顧客 &#x200B;] で「新規 **[!UICONTROL 」ドロップダウンをクリックし]** 「**[!UICONTROL 重点顧客の作成]**」を選択します。
+1. 「[!UICONTROL 重点顧客]」で、「**[!UICONTROL 新規]**」ドロップダウンをクリックし、「**[!UICONTROL 重点顧客を作成]**」を選択します。
 
    ![](assets/two-1.png)
 
@@ -29,4 +29,4 @@ ht-degree: 63%
 
 >[!MORELIKETHIS]
 >
->[ 指定アカウント [!UICONTROL &#x200B; へのユーザーの追加 &#x200B;]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+>[[!UICONTROL 重点顧客]](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)に人物を追加

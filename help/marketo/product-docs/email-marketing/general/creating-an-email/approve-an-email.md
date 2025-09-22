@@ -4,10 +4,10 @@ description: メールの承認 - Marketo ドキュメント - 製品ドキュ�
 title: メールの承認
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 メールはドラフト状態で開始します。通常は、ユーザーが承認するまで、システムでは使用できません。メールを承認するには、いくつかの方法があります。
 
-## [!UICONTROL &#x200B; メールアクション &#x200B;] メニューを使用して承認 {#approve-it-using-the-email-actions-menu}
+## [!UICONTROL メールアクション]メニューを使用した承認 {#approve-it-using-the-email-actions-menu}
 
 1. メールを検索して選択し、**[!UICONTROL メールアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 承認]**」を選択します。
 

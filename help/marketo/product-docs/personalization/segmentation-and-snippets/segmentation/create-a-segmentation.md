@@ -4,8 +4,8 @@ description: セグメント化の作成 - Marketo ドキュメント - 製品�
 title: セグメント化の作成
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%
 

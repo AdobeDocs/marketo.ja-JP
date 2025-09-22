@@ -4,8 +4,8 @@ description: ストリームの追加 - Marketo ドキュメント - 製品ド�
 title: ストリームの追加
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
 

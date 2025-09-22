@@ -3,7 +3,7 @@ description: EM-YYYY-MM-DD-Single Email Send - Marketo ドキュメント – �
 title: EM-YYYY-MM-DD-シングルメール送信
 feature: Programs
 exl-id: 58782d4c-658b-42cd-9ca3-fa53c7476e48
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 20%

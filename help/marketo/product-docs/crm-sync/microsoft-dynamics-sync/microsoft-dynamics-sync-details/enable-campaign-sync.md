@@ -3,26 +3,26 @@ description: キャンペーン同期の有効化 - Marketo ドキュメント -
 title: キャンペーン同期の有効化
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
 # キャンペーン同期の有効化 {#enable-campaign-sync}
 
-このオプションを選択すると、Marketoで [!DNL MS Dynamics] Campaign にメンバーを追加したり削除したりできます。
+このオプションを使用すると、Marketo は [!DNL MS Dynamics] キャンペーンにメンバーを追加および削除できます。
 
 >[!PREREQUISITES]
 >
->Marketo用 [!DNL Dynamics] プラグインの最新バージョンにアップデートします。
+>Marketo 用 [!DNL Dynamics] プラグインを最新バージョンにアップデートします。
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-1. **[!UICONTROL マイMarketo]** で **[!UICONTROL 管理者]** をクリックします。
+1. **[!UICONTROL My Marketo]** で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/enable-campaign-sync-1.png)
 
@@ -38,8 +38,8 @@ ht-degree: 37%
 
    ![](assets/enable-campaign-sync-4.png)
 
-これで手順は完了です。同期に [!DNL Microsoft Dynamics] からデータを取り込む時間を与えるだけで、準備完了です。
+これで手順は完了です。[!DNL Microsoft Dynamics] からデータを取り込む同期を少しお待ちください。
 
 >[!NOTE]
 >
->「[!DNL Dynamics] Campaign 同期」チェックボックスをリセットすると、以前に同期したすべてのキャンペーンデータと、[!DNL Dynamics] のマーケティングリストとの関連付けが更新されます。
+>「[!DNL Dynamics] キャンペーン同期」チェックボックスをリセットすると、以前に同期されたすべてのキャンペーンデータと、[!DNL Dynamics] のマーケティングリストとの関連付けが更新されます。

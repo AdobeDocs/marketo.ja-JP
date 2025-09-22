@@ -4,8 +4,8 @@ description: チャンピオン／挑戦者：件名 - Marketo ドキュメン�
 title: チャンピオン／挑戦者：件名
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 100%
 

@@ -1,37 +1,37 @@
 ---
 unique-page-id: 6095029
-description: 収益モデルでの Set [!DNL Google AdWords] Conversions - Marketo ドキュメント – 製品ドキュメント
-title: 収益モデルでのセ  [!DNL Google AdWords]  トコンバージョン
+description: 収益モデルでの  [!DNL Google AdWords]  コンバージョンの設定 - Marketo ドキュメント - 製品ドキュメント
+title: 収益モデルでの  [!DNL Google AdWords]  コンバージョンの設定
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '454'
-ht-degree: 38%
+ht-degree: 100%
 
 ---
 
 # 収益モデルでの [!DNL Google AdWords] コンバージョンの設定 {#set-google-adwords-conversions-in-the-revenue-model}
 
-[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。その後、[!DNL AdWords] UI から、[ で ](https://support.google.com/adwords/answer/3073556) カスタム列を追加 [!DNL AdWords] した後、どのクリックが適格なリード、商談、新規顧客（または追跡したい収益ステージ）につながったかを簡単に確認できます。
+[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。[!DNL AdWords] に[カスタム列を追加](https://support.google.com/adwords/answer/3073556)した後、[!DNL AdWords] UI を使って、どのクリックが適格なリード、商談、新規顧客（またはトラックする収益ステージ）につながったかを簡単に確認できるようになります。
 
 >[!NOTE]
 >
->これは、Marketoから [!DNL Google AdWords] へのプッシュ統合です。 コンバージョンデータは、_ポータルに_ のみ [!DNL Google AdWords] 表示され、Marketo UI には _表示されません_。
+>これは、Marketo から [!DNL Google AdWords] へのプッシュ統合です。コンバージョンデータは、[!DNL Google AdWords] のポータルで&#x200B;_のみ_&#x200B;表示され、Marketo のユーザインタフェイスでは表示&#x200B;_されません_。
 
-詳細は、[Google のオフラインコンバージョンインポート機能](https://support.google.com/adwords/answer/2998031?hl=en)を参照してください。収益モデル [!DNL AdWords]1 つ以上のステージにオフラインコンバージョンをマッピングします。 マッピングをおこなう方法は 3 つあります。
+詳しくは、[Google のオフラインコンバージョンの読み込み機能](https://support.google.com/adwords/answer/2998031?hl=en)を参照してください。[!DNL AdWords] オフラインコンバージョンを収益モデルの 1 つ以上のステージにマッピングします。マッピングを行う方法は 3 つあります。
 
-* [!DNL AdWords] Conversion
+* [!DNL AdWords] コンバージョン
 * ステージアクション
 * [!DNL AdWords] マッピング
 
-ステージアクションを使用する場合は [!DNL AdWords]Marketoから新しいオフラインコンバージョンを作成できます。
+ステージアクションを使用すると、Marketo から新しい [!DNL AdWords] オフラインコンバージョンを作成できます。
 
 >[!PREREQUISITES]
 >
->[LaunchPoint サ  [!DNL Google AdWords]  ビスとして追加 ](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+>[ [!DNL Google AdWords]  を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
-## コンバージョン [!DNL AdWords] 使用 {#use-adwords-conversion}
+## [!DNL AdWords] コンバージョンの使用 {#use-adwords-conversion}
 
 1. **[!UICONTROL Analytics]** エリアに移動します。
 
@@ -45,7 +45,7 @@ ht-degree: 38%
 
    ![](assets/image2015-3-10-15-3a3-3a20.png)
 
-1. コンバージョンにマッピングする収益ステー [!DNL AdWords] を選択します。
+1. [!DNL AdWords] コンバージョンにマッピングする収益ステージを選択します。
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
@@ -53,13 +53,13 @@ ht-degree: 38%
 
    ![](assets/image2015-2-26-16-3a46-3a15.png)
 
-   作業は以上です。[!DNL AdWords] コンバージョンデータは、選択した頻度で [!DNL Google AdWords] にアップロードされます。
+   作業は以上です。[!DNL AdWords] コンバージョンデータは、選択したケイデンスで [!DNL Google AdWords] にアップロードされます。
 
-## ステージアクションを使用する {#use-stage-action}
+## ステージアクションの使用 {#use-stage-action}
 
-また、「[!UICONTROL &#x200B; ステージアクション &#x200B;]」の下で **[!UICONTROL AdWords コンバージョン]** をマッピングすることもできます。
+**[!UICONTROL ステージアクション]**&#x200B;で [!UICONTROL AdWords コンバージョン]をマッピングすることもできます。
 
-1. [!DNL AdWords] 変換にマッピングするステップを選択します。
+1. [!DNL AdWords] コンバージョンにマッピングする手順を選択します。
 
    ![](assets/image2015-2-26-16-3a40-3a2.png)
 
@@ -71,7 +71,7 @@ ht-degree: 38%
 
    ![](assets/image2015-2-26-16-3a54-3a47.png)
 
-   **ヒント**:[!DNL AdWords] しいコンバージョンがない場合は、「**[!UICONTROL +新規コンバージョン]**」をクリックして作成します。
+   **ヒント**：[!DNL AdWords] コンバージョンがない場合は、「**[!UICONTROL + 新しいコンバージョン]**」をクリックして作成します。
 
    ![](assets/image2015-2-26-21-3a22-3a10.png)
 
@@ -79,17 +79,17 @@ ht-degree: 38%
 
    ![](assets/image2015-2-26-16-3a56-3a2.png)
 
-1. すべての [!DNL AdWords] コンバージョンの売上高ステージへのマッピングが完了したら、概要ページに戻ります。 「**[!UICONTROL モデルアクション]**」を選択し、「**[!UICONTROL ステージの承認]**」を選択します。
+1. すべての [!DNL AdWords] コンバージョンを収益ステージにマッピングしたら、概要ページに戻ります。「**[!UICONTROL モデルアクション]**」を選択し、「**[!UICONTROL ステージを承認]**」を選択します。
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
 ## 上級ヒント：新しいコンバージョンを追加する {#pro-tip-add-a-new-conversion}
 
-上級向けのヒントです。新しい [!DNL AdWords] オフラインコンバージョンをMarketoから作成できます。
+上級向けのヒントです。新しい [!DNL AdWords] オフラインコンバージョンは、Marketo から作成できます。
 
 >[!CAUTION]
 >
->Marketo から作成された新しいコンバージョンでは、「最適化」設定が有効になっています。つまり、入札戦略 [!DNL AdWords] よって、これらのコンバージョンに対する入札を最適化できます。 この設定は [!DNL AdWords] アカウントから変更できます。
+>Marketo から作成された新しいコンバージョンでは、「最適化」設定が有効になっています。つまり、このコンバージョンについては、[!DNL AdWords] の入札方針を利用して入札を最適化できるということです。この設定は、[!DNL AdWords] アカウントから変更できます。
 
 1. **[!UICONTROL ステージアクション]**&#x200B;ドロップダウンで、「**[!UICONTROL AdWords コンバージョンを設定]**」を選択します。
 
@@ -107,7 +107,7 @@ ht-degree: 38%
 
 ## [!DNL AdWords] マッピングの使用 {#use-adwords-mapping}
 
-[!UICONTROL &#x200B; マッピングを使用すると、すべてのモデルステージを &#x200B;]AdWords コンバージョン [!DNL AdWords] に 1 か所で関連付けることができます。
+[!DNL AdWords] マッピングを使用して、すべてのモデルステージを [!UICONTROL AdWords コンバージョン]に 1 か所で関連付けることができます。
 
 1. 「**[!UICONTROL AdWords マッピングの編集]**」を選択します。
 
@@ -121,8 +121,8 @@ ht-degree: 38%
 
    ![](assets/image2015-2-26-17-3a7-3a48.png)
 
-1. すべての [!DNL AdWords] コンバージョンの売上高ステージへのマッピングが完了したら、概要ページに戻ります。 「**[!UICONTROL モデルアクション]**」を選択し、「**[!UICONTROL ステージの承認]**」を選択します。
+1. すべての [!DNL AdWords] コンバージョンを収益ステージにマッピングしたら、概要ページに戻ります。「**[!UICONTROL モデルアクション]**」を選択し、「**[!UICONTROL ステージを承認]**」を選択します。
 
    ![](assets/image2015-2-27-12-3a20-3a20.png)
 
-オフラインコンバージョンデータを表示するには、[!DNL AdWords] アカウントにログインする必要があります。 [カスタム列機能](https://support.google.com/adwords/answer/3073556)を使用して、Marketo にインポートするオフラインコンバージョンごとにコンバージョン数の列を作成することをお勧めします。
+オフラインのコンバージョンデータを表示するには、[!DNL AdWords] アカウントにログインする必要があります。[カスタム列機能](https://support.google.com/adwords/answer/3073556)を使用して、Marketo に読み込むオフラインコンバージョンごとにコンバージョン数の列を作成することをお勧めします。

@@ -4,23 +4,23 @@ description: SFDC 同期 - リードキュー - Marketo ドキュメント - 製
 title: SFDC 同期 - リードキュー
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 
 # SFDC 同期：リードキュー {#sfdc-sync-lead-queue}
 
-Marketoでは、リードの配信に役立つユーザーを [[!DNL Salesforce]  リードキュー ](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm) に追加できます。 詳細は以下の通りです。
+Marketo では、[[!DNL Salesforce]  のリードキュー](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm)に人物を追加して、リードの配布に役立てることができます。詳細は以下の通りです。
 
 ## Marketo のキューに個人を割り当てる方法 {#how-to-assign-a-person-to-a-queue-in-marketo}
 
-次のいずれかのフロー・アクションを使用して、[!DNL Salesforce] のリード・キューに個人を割り当てることができます。
+次のいずれかのフローアクションを使用して、[!DNL Salesforce] のリードキューに人物を割り当てることができます。
 
-* [ ユーザーをSFDCに同期 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
-* [ 所有者の変更 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
+* [人物を SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}
+* [所有者を変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Marketoでは、リードの配信に役立つユーザーを [[!DNL Salesforce]
 
 ## 個人がキューに属する場合、リード所有者情報はどのように保存されますか？ {#how-is-lead-owner-information-stored-if-the-person-belongs-to-a-queue}
 
-リードが [!DNL Salesforce] のキューに所有されている場合、リードが所有者に割り当てられるまで、これらの販売所有者フィールドは空のままになります。
+リードが [!DNL Salesforce] のキューに所有されている場合、リードが所有者に割り当てられるまで、これらのセールス所有者フィールドは空のままになります。
 
 * セールス所有者の名
 * セールス所有者の姓

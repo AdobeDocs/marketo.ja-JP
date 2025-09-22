@@ -4,10 +4,10 @@ description: リッチメディアの予測コンテンツを編集する - Mark
 title: リッチメディアの予測コンテンツを編集する
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '216'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 94%
 
 >[!PREREQUISITES]
 >
->コンテンツは、[ すべてのコンテンツ ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) ページの [!UICONTROL &#x200B; 予測コンテンツ向けの承認 &#x200B;] が必要です。
+>[!UICONTROL すべてのコンテンツ]ページで、コンテンツが[予測コンテンツに対して承認されている](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)必要があります。
 
-1. **[!UICONTROL 予測コンテンツ]**&#x200B;ページで、「タイトル」をクリックして、エディターを開きます
+1. **[!UICONTROL 予測コンテンツ]**&#x200B;ページで、「タイトル」をクリックして、エディターを開きます。
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 

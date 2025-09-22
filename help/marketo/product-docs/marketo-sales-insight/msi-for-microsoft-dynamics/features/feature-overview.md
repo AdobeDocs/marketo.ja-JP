@@ -4,10 +4,10 @@ description: 機能の概要 - Marketo ドキュメント - 製品ドキュメ�
 title: 機能の概要
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -23,24 +23,24 @@ ht-degree: 70%
 * スコア
 * メール（開いてクリック）
 
-## リードレイアウトでのカスタムフィールドのカスタマイ [!DNL Marketo Sales Insight]  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## リードレイアウトの [!DNL Marketo Sales Insight] カスタムフィールド  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * リードのスコア
 * 相対スコア
 * 優先度
 * 緊急度
 
-## リードレイアウトの「call to action」ボタンを [!DNL Marketo Sales Insight] きます  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## リードレイアウトの [!DNL Marketo Sales Insight] のコールトゥアクションボタン  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Marketo キャンペーンに追加
 * Marketo メールの送信
 
-## リ [!DNL Marketo Sales Insight] ドリスト表示の一括アクションボタン  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## リードリスト表示の [!DNL Marketo Sales Insight] の一括アクションボタン  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * Marketo キャンペーンに追加
 * Marketo メールの送信
 
-## 連絡先レイアウトの [!DNL Marketo Sales Insight] パネル  {#marketo-sales-insight-panel-in-contact-layout}
+## 取引先責任者レイアウトの [!DNL Marketo Sales Insight] パネル  {#marketo-sales-insight-panel-in-contact-layout}
 
 * 星と炎
 * 注目のアクション
@@ -48,19 +48,19 @@ ht-degree: 70%
 * スコア
 * メール（開いてクリック）
 
-## 連絡先レイアウ [!DNL Marketo Sales Insight] でのカスタムフィールドの作成  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## 取引先責任者レイアウトの [!DNL Marketo Sales Insight] カスタムフィールド  {#marketo-sales-insight-custom-fields-in-contact-layout}
 
 * リードのスコア
 * 相対スコア
 * 優先度
 * 緊急度
 
-## 連絡先レイアウトの「call to action」ボタンを [!DNL Marketo Sales Insight] きます。  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## 取引先責任者レイアウトの [!DNL Marketo Sales Insight] のコールトゥアクションボタン  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * Marketo キャンペーンに追加
 * Marketo メールの送信
 
-## 連絡先リスト表示の [!DNL Marketo Sales Insight] 一括アクションボタン  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## 取引先責任者リスト表示の [!DNL Marketo Sales Insight] の一括アクションボタン  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * Marketo キャンペーンに追加
 * Marketo メールの送信

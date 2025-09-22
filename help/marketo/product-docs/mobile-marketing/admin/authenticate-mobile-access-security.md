@@ -4,16 +4,16 @@ description: モバイルアクセスセキュリティの認証 - Marketo ド�
 title: モバイルアクセスセキュリティの認証
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
 # モバイルアクセスセキュリティの認証 {#authenticate-mobile-access-security}
 
-モバイルユーザーのセキュリティを強化するために、Marketoでは 2 つの新しい ID （[!UICONTROL &#x200B; アクセスキー &#x200B;] と [!UICONTROL &#x200B; アクセスキー &#x200B;] を提供しています。 これらを使用すると、アプリにログインしているユーザーが実際には何者であるかを確認できます。
+モバイルユーザのセキュリティを強化するために、Marketo では、[!UICONTROL アクセスキー]と[!UICONTROL アクセス秘密鍵]の 2 つの新しい ID を提供しています。これらを使用すると、アプリにログインしているユーザーが実際には何者であるかを確認できます。
 
 ID を有効にするには、コードを取得し、安全な照合を設定できるように IT 部門に提供する必要があります。
 
@@ -21,7 +21,7 @@ ID を有効にするには、コードを取得し、安全な照合を設定�
 >
 >この機能を有効にするには、サポートに連絡し、「Vespa セキュアモード」をリクエストします。
 
-1. Marketoで、「**[!UICONTROL 管理者]**」を選択し、「**[!UICONTROL モバイルアプリとデバイス]**」をクリックします。
+1. Marketo で、「**[!UICONTROL 管理]**」を選択して、「**[!UICONTROL モバイルアプリとデバイス]**」をクリックします。
 
    ![](assets/image2015-12-1-14-3a36-3a30.png)
 
@@ -29,7 +29,7 @@ ID を有効にするには、コードを取得し、安全な照合を設定�
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. 下にスクロールして、「[!UICONTROL Access セキュリティ &#x200B;]」セクションで **[!UICONTROL 編集]** をクリックします。
+1. 下にスクロールし、「[!UICONTROL アクセスセキュリティ]」セクションで、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
@@ -37,6 +37,6 @@ ID を有効にするには、コードを取得し、安全な照合を設定�
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 
-1. [!UICONTROL &#x200B; アクセスセキュリティ &#x200B;] エリアに、2 つの新しいコードが表示されるようになりました。 これらは必ず IT 部門に送ってください。
+1. 「[!UICONTROL アクセスセキュリティ]」領域に、2 つの新しいコードが表示されます。これらを必ず IT 部門に送信してください。
 
    ![](assets/image2015-12-1-14-3a57-3a34.png)

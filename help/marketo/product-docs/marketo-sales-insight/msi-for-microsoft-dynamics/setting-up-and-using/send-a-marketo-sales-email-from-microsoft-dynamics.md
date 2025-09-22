@@ -4,18 +4,18 @@ description: Microsoft Dynamics からの Marketo セールスメールの送信
 title: Microsoft Dynamics からの Marketo セールスメールの送信
 exl-id: 9ee53a3e-8bbe-458a-9905-a1e1503f9553
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
-# [!DNL Marketo Sales] から [!DNL Microsoft Dynamics] E メールを送信 {#send-a-marketo-sales-email-from-microsoft-dynamics}
+# [!DNL Microsoft Dynamics] からの [!DNL Marketo Sales] メールの送信 {#send-a-marketo-sales-email-from-microsoft-dynamics}
 
-営業チームは、メールを送信し、[!DNL Microsoft Dynamics] 内から直接、開封数とクリック数の追跡を受けることができます。 手順は次のとおりです。
+セールスチームは、[!DNL Microsoft Dynamics] からメールを送信し、直接開封数とクリック数をトラックできます。手順は次のとおりです。
 
-1. [!DNL Dynamics] では、**[!UICONTROL 営業]** エリアに移動します。
+1. [!DNL Dynamics] で、**[!UICONTROL セールス]**&#x200B;領域に移動します。
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
@@ -47,8 +47,8 @@ ht-degree: 69%
    >
    >一度に最大 300 通の Marketo メールを送信できます。
 
-これで完了です。これで、Marketoでトラッキングされたメールを [!DNL Microsoft Dynamics] 内から直接送信する方法がわかりました。
+これで完了です。これで、[!DNL Microsoft Dynamics] から Marketo でトラッキングできるメールを直接送信する方法を理解できました。
 
 >[!MORELIKETHIS]
 >
->[Marketo キャンペーンへのリード/連絡先の追加： [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
+>[ [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) から Marketo キャンペーンへのリード／取引先責任者の追加

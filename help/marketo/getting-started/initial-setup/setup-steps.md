@@ -4,7 +4,7 @@ short-description: Adobe Marketo Engage を使い始めたばかりですか？�
 title: 設定手順
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1687'
 ht-degree: 80%
@@ -147,7 +147,6 @@ IT 管理者様
 `3)` Marketo を許可リストに加えてください。
 
     * メール許可リストで IP アドレスを使用している場合は、以下に示す IP を追加します。
-
     199.15.212.0/22
     
     192.28.144.0/20

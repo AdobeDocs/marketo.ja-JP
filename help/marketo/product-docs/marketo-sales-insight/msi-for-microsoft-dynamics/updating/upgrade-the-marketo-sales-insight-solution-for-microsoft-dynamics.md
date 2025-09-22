@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6849099
-description: Microsoft Dynamics 用 Marketo Sales Insight ソリューションのアップグレード - Marketo ドキュメント - 製品ドキュメント
-title: Microsoft Dynamics 用 Marketo Sales Insight ソリューションのアップグレード
+description: Microsoft Dynamics 用 Marketo セールスインサイトソリューションのアップグレード - Marketo ドキュメント - 製品ドキュメント
+title: Microsoft Dynamics 用 Marketo セールスインサイトソリューションのアップグレード
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 53%
+ht-degree: 100%
 
 ---
 
-# [!DNL Marketo Sales Insight] 用 [!DNL Microsoft Dynamics] ソリューションのアップグレード {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
+# [!DNL Microsoft Dynamics] 用 [!DNL Marketo Sales Insight] ソリューションのアップグレード {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
-[!DNL Microsoft Dynamics] 用に新しい [!DNL Sales Insight] ソリューションがリリースされた場合は、アカウントの [!UICONTROL &#x200B; 管理者 &#x200B;] 領域からアップグレードをダウンロードできます。
+[!DNL Sales Insight] 用の新しい [!DNL Microsoft Dynamics] ソリューションがリリースされると、アカウントの[!UICONTROL 管理者]領域からアップグレードをダウンロードできます。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 53%
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-3.png)
 
-1. [!DNL Microsoft Dynamics] バージョンに適したソリューションを選択します。
+1. [!DNL Microsoft Dynamics] のバージョンに適したソリューションを選択します。
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 53%
 
 ## アップグレードの実行 {#performing-the-upgrade}
 
-1. 既存のバージョンの [!DNL Dynamics CRM] に対して、ソリューションの最新バージョンをインポートします（例：[!DNL Dynamics CRM] のバージョンが 1.4 で、最新バージョンが 1.5 の場合は、_over_ バージョン 1.4 をインポートします）。
+1. [!DNL Dynamics CRM] の既存のバージョンに対して、ソリューションの最新バージョンを読み込みます（例：[!DNL Dynamics CRM] のバージョンが 1.4 で、最新バージョンが 1.5 の場合は、バージョン 1.4 _以降_&#x200B;を読み込みます）。
 
 2. 次のポップアップが表示されます。「**[!UICONTROL アップグレードのステージ]**」および「**[!UICONTROL カスタマイズを維持]**」を選択し、「**[!UICONTROL インポート]**」をクリックします。
 

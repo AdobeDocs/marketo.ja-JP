@@ -4,14 +4,14 @@ description: 重点顧客にリードを追加する - Marketo ドキュメン�
 title: 重点顧客にリードを追加する
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; 指定アカウント &#x200B;] にユーザーを追加 {#add-people-to-a-named-account}
+# [!UICONTROL 重点顧客]にリードを追加 {#add-people-to-a-named-account}
 
 TAM で重点顧客に手動でリードを追加する方法は 3 つあります。
 
@@ -25,11 +25,11 @@ TAM で重点顧客に手動でリードを追加する方法は 3 つありま�
 
    ![](assets/two.png)
 
-1. リードをクリックして選択します。**[!UICONTROL 人物アクション]** ドロップダウンをクリックし、「**[!UICONTROL マーケティング]**」をクリックして、「**[!UICONTROL 指定されたアカウントに追加…]**」を選択します。
+1. リードをクリックして選択します。**[!UICONTROL リードのアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL マーケティング]**」をクリックし、「**[!UICONTROL 重点顧客に追加...]**」を選択します。
 
    ![](assets/three.png)
 
-1. **[!UICONTROL 指定したアカウント]** ドロップダウンをクリックし、目的の [!UICONTROL &#x200B; 指定したアカウント &#x200B;] を選択して **[!UICONTROL 今すぐ実行]** をクリックします。
+1. **[!UICONTROL 重点顧客]**&#x200B;ドロップダウンから、目的の[!UICONTROL 重点顧客]を選択し、「**[!UICONTROL 今すぐ実行]**」をクリックします。
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ TAM で重点顧客に手動でリードを追加する方法は 3 つありま�
 
    ![](assets/five.png)
 
-1. 検索ボックスに「[!UICONTROL &#x200B; 指定アカウントに追加 &#x200B;] と入力します。
+1. 検索ボックスに「[!UICONTROL 重点顧客に追加]」と入力します。
 
    ![](assets/six.png)
 
@@ -47,7 +47,7 @@ TAM で重点顧客に手動でリードを追加する方法は 3 つありま�
 
    ![](assets/seven.png)
 
-1. **[!UICONTROL 指定顧客]** ドロップダウンをクリックし、目的の [!UICONTROL &#x200B; 指定顧客 &#x200B;] を選択します。
+1. **[!UICONTROL 重点顧客]**&#x200B;ドロップダウンをクリックして、目的の[!UICONTROL 重点顧客]を選択します。
 
    ![](assets/eight.png)
 

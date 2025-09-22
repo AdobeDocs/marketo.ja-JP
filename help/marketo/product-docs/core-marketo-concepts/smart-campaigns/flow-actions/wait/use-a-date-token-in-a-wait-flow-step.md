@@ -4,10 +4,10 @@ description: 待機フローステップで日付トークンを使用 - Marketo
 title: 待機フローステップで日付トークンを使用
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 94%
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
-1. 「**[!UICONTROL タイプ]**」ドロップダウンで、「**[!UICONTROL 日付トークン]**」を選択します。
+1. **[!UICONTROL タイプ]**&#x200B;ドロップダウンで、「**[!UICONTROL 日付トークン]**」を選択します。
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
-1. [!UICONTROL &#x200B; 日付トークン &#x200B;] を選択して、待機ステップを終了するタイミングを指定します。
+1. 「[!UICONTROL 日付トークン]」を選択して、待機ステップを終了するタイミングを指定します。
 
    * `{{my._____}}`
    * `{{lead.______}}`

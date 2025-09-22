@@ -4,10 +4,10 @@ description: Salesforce 同期について — Marketo ドキュメント — �
 title: Salesforce 同期について
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -17,17 +17,17 @@ Marketo Engageと Salesforce は密接に連携しています。お客様の販
 
 ## 同期の仕組み {#how-sync-works}
 
-Marketoは毎日、[!DNL Salesforce] と同期します。 各同期は、しばらく時間がかかり、5 分間一時停止してから、再び開始します。
+Marketo は、毎日、常に [!DNL Salesforce] と同期します。各同期は、しばらく時間がかかり、5 分間一時停止してから、再び開始します。
 
 >[!NOTE]
 >
->Marketoが [!DNL Salesforce] からデータベース全体をコピーするので、サブスクリプションの最初の同期には数時間または数日かかる場合があります。 その後、各同期には、通常、数秒または数分かかり、変更されたデータのみが同期されます。
+>Marketo が [!DNL Salesforce] からデータベース全体をコピーするので、サブスクリプションの最初の同期には、数時間または数日かかる場合があります。その後、各同期には、通常、数秒または数分かかり、変更されたデータのみが同期されます。
 
 ![](assets/sync-illustration.png)
 
-[!DNL Salesforce] とMarketoの同期は、リード、連絡先および [!DNL Salesforce] キャンペーンに対してのみ双方向です。 このような場合、[!DNL Salesforce] またはMarketoで変更を加えるたびに、その変更が両方のシステムに反映されます。 その他の同期はすべて [!DNL Salesforce] からMarketoへの同期のみです。 詳しくは、次のリンクをクリックしてください。
+[!DNL Salesforce] と Marketo の間の同期は、リード、取引先責任者、[!DNL Salesforce] キャンペーンのみ双方向です。この場合、[!DNL Salesforce] または Marketo で変更を加えるたびに、更新内容が両方のシステムに反映されます。その他のすべての同期は、[!DNL Salesforce] から Marketo に対してのみです。詳しくは、次のリンクをクリックしてください。
 
-## Marketoと [!DNL Salesforce] の間で同期されるもの {#what-is-synced-between-marketo-and-salesforce}
+## Marketo と [!DNL Salesforce] の間で同期されるもの {#what-is-synced-between-marketo-and-salesforce}
 
 * [リード](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-sync.md){target="_blank"}
 * [取引先責任者](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}
@@ -42,4 +42,4 @@ Marketoは毎日、[!DNL Salesforce] と同期します。 各同期は、しば
 >
 >[Salesforce 用に Marketo で入力した資格情報](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}は、データの同期に使用されます。その資格情報でアクセスできるデータのみが含まれます。
 
-Marketoと [!DNL Salesforce] のシンクロは、世界で最もパワフルなものです。 まるで魔法のように、変更を加えるとすぐに他のシステムが最新の状態になります。
+Marketo と [!DNL Salesforce] の同期は、世界で最も強力です。まるで魔法のように、変更を加えるとすぐに他のシステムが最新の状態になります。

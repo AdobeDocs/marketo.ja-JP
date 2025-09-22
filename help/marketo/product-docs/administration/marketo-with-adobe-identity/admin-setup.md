@@ -3,8 +3,8 @@ description: 管理者設定 - Marketo ドキュメント - 製品ドキュメ�
 title: 管理者設定
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%
 

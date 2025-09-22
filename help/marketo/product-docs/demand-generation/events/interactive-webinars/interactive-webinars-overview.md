@@ -3,20 +3,20 @@ description: インタラクティブウェビナーの概要 — Marketo ドキ
 title: インタラクティブウェビナーの概要
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
 # インタラクティブウェビナーの概要 {#interactive-webinars-overview}
 
-インタラクティブウェビナー機能は、Marketo Engage 内のアドビの組み込みウェビナープラットフォームです。追加のツールや統合は必要ありません。
+インタラクティブウェビナー機能は、Marketo Engage 内のアドビのビルトインのウェビナープラットフォームです。追加のツールや統合は必要ありません。
 
 >[!IMPORTANT]
 >
->Adobe Connect によるインタラクティブウェビナーは、Adobe Connect へのビルトイン統合を備えた機能です。インタラクティブウェビナーの使用には、追加の利用条件が適用されます。契約を確認するか、[アドビに連絡](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}して追加の利用条件についてお問い合わせください。
+>Adobe Connect によるインタラクティブウェビナーは、Adobe Connect へのビルトイン統合を備えた機能です。インタラクティブウェビナーの使用には、追加の利用条件が適用されます。追加条件については、契約書を確認するか、[Adobeにお問い合わせ ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} ください。
 
 ## インタラクティブウェビナーとは {#what-is-interactive-webinars}
 

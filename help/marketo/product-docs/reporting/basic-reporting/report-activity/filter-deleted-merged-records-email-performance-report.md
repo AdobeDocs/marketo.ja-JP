@@ -2,14 +2,15 @@
 description: メールレポートの結合/削除されたレコードのフィルタリング - Marketo ドキュメント – 製品ドキュメント
 title: E メールレポートの結合/削除レコードをフィルタリングする
 feature: Reporting
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 22%
+ht-degree: 29%
 
 ---
 
-# 電子メールパフォーマンスレポートの削除/結合されたレコードのフィルタリング {#filter-deleted-merged-records-in-an-email-performance-report}
+# メールパフォーマンスレポートの削除／結合されたレコードのフィルタリング {#filter-deleted-merged-records-in-an-email-performance-report}
 
 メールパフォーマンスレポートは、プログラム内のメール（「ローカルアセット」）、Design Studio 内のメール（「グローバルアセット」）、またはアーカイブされたメールに焦点を当てます。
 

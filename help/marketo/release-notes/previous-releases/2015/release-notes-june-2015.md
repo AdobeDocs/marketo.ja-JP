@@ -4,7 +4,7 @@ description: リリースノート - 2015 年 6 月 - Marketo ドキュメント
 title: リリースノート - 2015 年 6 月
 exl-id: 5a26121f-a168-4bb6-b471-aca1f343e4c2
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # リリースノート：2015 年 6 月 {#release-notes-june}
 
-2015 年 6 月リリースには、次の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
+2015 年 6 月リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
 
 ## [属性電子メール レポート](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
 

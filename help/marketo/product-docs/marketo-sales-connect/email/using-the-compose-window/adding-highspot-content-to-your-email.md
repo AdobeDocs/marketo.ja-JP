@@ -4,26 +4,26 @@ description: メールへの Highspot コンテンツの追加 - Marketo Docs - 
 title: メールへの Highspot コンテンツの追加
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
-# メールへ [!DNL Highspot] コンテンツの追加 {#adding-highspot-content-to-your-email}
+# メールへの [!DNL Highspot] コンテンツの追加 {#adding-highspot-content-to-your-email}
 
-[!DNL Highspot] のお客様は、[!DNL Highspot] しいメールに [!DNL Sales Connect] のコンテンツを簡単に挿入できます。
+[!DNL Highspot] のお客様は、[!DNL Sales Connect] メールに [!DNL Highspot] コンテンツを簡単に挿入できます。
 
 1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**[!UICONTROL 作成]**」を選択しています）。
 
    ![](assets/one-5.png)
 
-1. 「[!UICONTROL &#x200B; 宛先 &#x200B;]」フィールドに入力し、「件名 [!UICONTROL &#x200B; を入力 &#x200B;] ます。
+1. 「[!UICONTROL 宛先]」フィールドに入力し、「[!UICONTROL 件名]」を入力します。
 
    ![](assets/two-5.png)
 
-1. [!DNL Highspot] コンテンツを挿入するメール内の場所をクリックします。 （添付ファイルアイコンの横にある）矢印ドロップダウンをクリックし、「**[!UICONTROL Highspot]**」を選択します。
+1. [!DNL Highspot] コンテンツを挿入するメール内の場所をクリックします。（添付ファイルアイコンの横にある）矢印ドロップダウンをクリックし、「**[!UICONTROL Highspot]**」を選択します。
 
    ![](assets/three-5.png)
 

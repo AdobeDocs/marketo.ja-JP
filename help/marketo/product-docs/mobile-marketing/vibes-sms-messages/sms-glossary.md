@@ -3,7 +3,7 @@ description: SMS 用語集 – Marketo ドキュメント – 製品ドキュメ
 title: SMS 用語集
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 1%
@@ -35,7 +35,7 @@ ht-degree: 1%
     <td>company_key は、プラットフォームアカウントの一意の英数字 ID です。 Vibes プラットフォームに複数の会社アカウント（子アカウントなど）がある場合、複数の company_keys が存在する可能性があります。 Marketo Engageの各インスタンスは、1 つの Vibes company_key にのみマッピングできます。</td>
   </tr>
   <tr>
-    <td>CTA （コールトゥアクション）</td>
+    <td>CTA（call to action）</td>
     <td>繰り返しテキストメッセージプログラムまたはサブスクリプションリストに購読者を獲得するための、デジタルまたは物理的なサイネージまたは言語スクリプト。 オンライン、ソーシャルメディア、電子メール、印刷などに配置できます。</td>
   </tr>
   <tr>

@@ -4,10 +4,10 @@ description: リリースノート - 2014年8月 - Marketo ドキュメント - 
 title: リリースノート - 2014年8月
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
-source-wordcount: '400'
-ht-degree: 100%
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
+source-wordcount: '399'
+ht-degree: 98%
 
 ---
 
@@ -69,7 +69,7 @@ Marketo から[ユーザーと役割のリストをエクスポート](/help/mar
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## 1 対 1 のセグメント化とターゲティングの強化 {#enhanced-segmentation-and-targeting}
+## 強化 1:1 セグメント化とターゲティング {#enhanced-segmentation-and-targeting}
 
 既知の訪問者をターゲティングするために、詳細フィルター演算子を使用できるようになりました。
 

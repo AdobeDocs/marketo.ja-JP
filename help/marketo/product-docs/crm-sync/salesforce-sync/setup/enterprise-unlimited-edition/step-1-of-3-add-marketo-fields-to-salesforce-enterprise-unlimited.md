@@ -4,34 +4,34 @@ description: 手順 1／3 - Marketo フィールドの Salesforce への追加�
 title: 手順 1／3 - Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '753'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
-# 手順 1/3:[!DNL Salesforce] へのMarketo フィールドの追加（Enterprise/Unlimited） {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# 手順 1／3：Marketo フィールドの [!DNL Salesforce] への追加（Enterprise／Unlimited） {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
->Marketoと [!DNL Salesforce] を同期するには [!DNL Salesforce]API へのアクセス権が必要です。
+>Marketo と [!DNL Salesforce] の間で同期するには、[!DNL Salesforce] API へのアクセス権が必要です。
 
-Marketo は、一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。このデータを [!DNL Salesforce] に取り込む場合は、以下の手順に従ってください。
+Marketo は、一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。[!DNL Salesforce] でこのデータを使用する場合は、以下の手順に従ってください。
 
-1. リードおよび連絡先オブジェクトに、スコア、獲得プログラム、獲得日の 3 つのカスタムフィールドを [!DNL Salesforce] に作成します。
-1. これらのカスタムフィールドをリードと連絡先の間でマッピングし、コンバージョン時に [!DNL Salesforce] の値が引き継がれるようにします。
+1. [!DNL Salesforce] でリードと取引先責任者オブジェクトの 3 つのカスタムフィールド（スコア、新規顧客獲得プログラム、取得日）を作成します。
+1. これらのカスタムフィールドをリードと取引先責任者の間にマッピングし、[!DNL Salesforce] でのコンバージョン時に値が持ち越されるようにします。
 1. 必要に応じて、その他のフィールドを作成できます（以下の表を参照）。
 
-これらのカスタムフィールドはすべてオプションであり、Marketoと [!DNL Salesforce] を同期するために必要なものではありません。 ベストプラクティスとして、「スコア」、「獲得プログラム」、「獲得日」のフィールドを作成することをお勧めします。
+これらのカスタムフィールドはすべてオプションで、Marketo と [!DNL Salesforce] を同期するのに必須ではありません。ベストプラクティスとして、「スコア」、「新規顧客獲得プログラム」、「取得日」のフィールドを作成することをお勧めします。
 
-## [!DNL Salesforce] へのMarketo フィールドの追加 {#add-marketo-fields-to-salesforce}
+## Marketo フィールドを [!DNL Salesforce] に追加 {#add-marketo-fields-to-salesforce}
 
-上記のリストのリードオブジェクトおよび連絡先オブジェクトに 3 つのカスタムフィールド [!DNL Salesforce] 追加します。 さらに追加する場合は、この節の最後にある使用可能フィールドのテーブルを参照してください。
+上記の [!DNL Salesforce] 内のリードおよび取引先責任者オブジェクトに 3 つのカスタムフィールドを追加します。さらに追加する場合は、この節の最後にある使用可能フィールドのテーブルを参照してください。
 
 3 つのカスタムフィールドのそれぞれに対して、次の手順を実行して追加します。「スコア」から始めます。
 
-1. [!DNL Salesforce] にログインし、「設定 **[!UICONTROL をクリック]** ます。
+1. [!DNL Salesforce] にログインし、「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
@@ -98,7 +98,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 >[!NOTE]
 >
->[!DNL Salesforce] は、API 名の作成にフィールド名を使用する場合、フィールド名に__c を追加します。
+>[!DNL Salesforce] では、フィールド名を使用して API 名を作成するときに、フィールド名に __c を追加します。
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -114,7 +114,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    * すべての役割を&#x200B;**[!UICONTROL 表示]**&#x200B;および&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;に設定します。
 
-   * 同期ユーザーのプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
+   * 同期ユーザのプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
 
       * 同期ユーザーとして&#x200B;_システム管理者_&#x200B;のプロファイルを持つユーザーがいる場合は、システム管理者プロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします（以下を参照）。
       * 同期ユーザーに&#x200B;_カスタムプロファイル_&#x200B;を作成した場合は、のカスタムプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
@@ -130,7 +130,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
 1. 左側のビルドメニューで、「**[!UICONTROL カスタマイズ]**」をクリックして「連絡先」を選択します。「[!UICONTROL フィールド]」をクリックします。
-1. リードオブジェクトと同様に、連絡先オブジェクトの「スコア」、「獲得日」、「獲得プログラム」フィールドについて手順 3 ～ 10 を実行します。
+1. リードオブジェクトと同様に、連絡先オブジェクトの「スコア」、「獲得日」、「新規顧客獲得プログラム」フィールドについて手順 3 ～ 10 を実行します。
 1. 必要に応じて、このテーブルの追加のカスタムフィールドに対して上記の手順を実行します。
 
 <table>
@@ -238,21 +238,21 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 >[!NOTE]
 >
->Marketoによって自動的に割り当てられたフィールドの値は、新しいフィールドを作成したときに [!DNL Salesforce] で直ちに使用できなくなります。 Marketoは、次回いずれかのシステムのレコードに対する更新（つまり、Marketoと [!DNL Salesforce] の間で同期されるいずれかのフィールドの更新）時に [!DNL Salesforce] ータと同期します。
+>Marketo によって自動的に割り当てられたフィールドの値は、新しいフィールドが作成されたときに [!DNL Salesforce] ですぐに使用できるわけではありません。Marketo は、次のアップデート時にいずれかのシステム上のレコードに対して [!DNL Salesforce] とデータを同期します（つまり、Marketo と [!DNL Salesforce] の間で同期されているフィールドのアップデート）。
 
 ## コンバージョン用のカスタムフィールドのマッピング {#map-custom-fields-for-conversions}
 
-[!DNL Salesforce] のリードオブジェクトのカスタムフィールドは、コンバージョンが発生したときにデータが引き継がれるように、コンタクトオブジェクトのコンタクトフィールドにマッピングする必要があります。
+コンバージョンが発生した際にデータが引き継がれるように、[!DNL Salesforce] 内のリードオブジェクトのカスタムフィールドを取引先責任者オブジェクトの取引先責任者フィールドにマッピングする必要があります。
 
 1. 右上隅にある「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. ナビゲーション検索で「フィールド」と入力します。Enter は押しません。様々なオブジェクトの下にフィールドが表示されます。「**[!UICONTROL リード]** の下の [!UICONTROL &#x200B; フィールド &#x200B;] をクリックします。
+1. ナビゲーション検索で「フィールド」と入力します。Enter は押しません。フィールドは色々なオブジェクトの下に表示されます。「[!UICONTROL リード]」の下の「**[!UICONTROL フィールド]**」をクリックします。
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. 「[!UICONTROL &#x200B; リードカスタムフィールドと関係 &#x200B;]」セクションに移動し、「**[!UICONTROL リードフィールドをマッピング]**」をクリックします。
+1. 「[!UICONTROL リードのカスタムフィールドと関係]」セクションに移動し、「**[!UICONTROL リードフィールドをマッピング]**」をクリックします。
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -272,4 +272,4 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 >[!MORELIKETHIS]
 >
->[ 手順 2/3:Marketoのユーザー  [!DNL Salesforce]  作成（Enterprise/Unlimited） ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[手順 2／3：Marketo 用の  [!DNL Salesforce]  ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)

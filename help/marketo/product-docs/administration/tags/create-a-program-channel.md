@@ -4,10 +4,10 @@ description: プログラムチャネルの作成 - Marketo ドキュメント -
 title: プログラムチャネルの作成
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 90%
 
    >[!TIP]
    >
-   >モバイルチェックインアプリで新しいユーザーが作成された場合、イベントプログラムで [!UICONTROL &#x200B; 登録済み &#x200B;] に設定されます。 ユーザーがアプリでイベントにチェックインすると、イベントプログラムでそのユーザーは [!UICONTROL &#x200B; 出席 &#x200B;] に設定されます。
+   >モバイルチェックインアプリで新しい人物を作成すると、イベントプログラムで「[!UICONTROL 登録済み]」に設定されます。人物がアプリのイベントにチェックインされると、イベントプログラムで「[!UICONTROL 出席済み]」に設定されます。
 
 1. 「**[!UICONTROL 成功]**」プログラムステータスを選択し、「**[!UICONTROL 作成]**」をクリックします。
 

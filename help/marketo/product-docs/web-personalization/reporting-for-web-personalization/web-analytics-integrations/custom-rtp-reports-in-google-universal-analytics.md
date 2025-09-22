@@ -4,10 +4,10 @@ description: Google ユニバーサルアナリティクスでのカスタム RT
 title: Google ユニバーサルアナリティクスでのカスタム RTP レポート
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -22,13 +22,13 @@ ht-degree: 94%
 * RTP B2B
 * RTP エンゲージメント
 
-## [!UICONTROL &#x200B; カスタムレポート &#x200B;] の設定 {#setting-up-a-custom-report}
+## [!UICONTROL カスタムレポート]の設定 {#setting-up-a-custom-report}
 
 1. Google Analytics にログインします。
 
 1. 上部のメニューの「**[!UICONTROL カスタマイズ]**」をクリックします。
 
-1. **[!UICONTROL 新規カスタムレポート]** をクリックします。
+1. 「**[!UICONTROL 新規カスタムレポート]**」をクリックします。
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -121,7 +121,7 @@ ht-degree: 94%
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. 「[!UICONTROL &#x200B; 指標グループ &#x200B;]」セクションで、ビジネスに関連する指標を選択します。 次にレコメンデーションを示します。
+1. [!UICONTROL 指標グループ]セクションで、ビジネスに関連する指標を選択します。次にレコメンデーションを示します。
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 

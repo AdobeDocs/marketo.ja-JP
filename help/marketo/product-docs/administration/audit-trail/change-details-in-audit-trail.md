@@ -4,7 +4,7 @@ description: 監査記録の変更の詳細 — Marketo ドキュメント — �
 title: 監査記録の詳細の変更
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1902'
 ht-degree: 100%

@@ -4,10 +4,10 @@ description: リリースノート - 2020 年 2 月 21 日（PT）- Marketo ド�
 title: リリースノート - 2020 年 2 月
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
-source-wordcount: '639'
-ht-degree: 100%
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
+source-wordcount: '637'
+ht-degree: 94%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 100%
 * **作成ウィンドウのアップデート**：[!DNL Sales Connect] でテンプレートを選択してメールを送信するプロセスを効率化しました。テンプレートカテゴリの保存、メールのスケジュール設定、メールの一括送信、ビューとクリックの追跡機能を備えたメール送信など、Web クライアントと Salesforce の作成ウィンドウを、販売者のためのワンストップショップとしてご利用いただけます。
 * **コマンドセンターのアップデート**：[!DNL Sales Connect] のコマンドセンターを再構築し、[!DNL Sales Connect] から開始されたすべてのメール、コール、タスクを販売者が把握できるようにしました。また、メールのエンゲージメントや配信可能性などの情報もすべてコマンドセンターから確認できます。
 
-<br>
+<br> 
 
 ## お知らせ {#announcements}
 
@@ -59,4 +59,4 @@ ht-degree: 100%
 * **Asset API「_method」パラメーター**：2020 年 9 月以降、Asset API エンドポイントは、URI 長制限を回避するための POST ボディ内のクエリパラメーターを渡す方法として「_method」パラメーターを受け付けなくなります。このパラメーターを必要とするリクエストに対応するため、Asset API の URI 制限が 6 KB から 65 KB に引き上げられ、長いリクエスト URI を送信できるようになります。
 * **Internet Explorer サポートの廃止**：2020 年 7 月 31 日（PT）の 7 月リリースから、Marketo Engage のユーザーインターフェイスは Internet Explorer でのサポートが終了します。
 
-**_製品リリースウェビナー_**：3 月 3 日午前 11 時（PT）／午後 2 時（ET）に開催される製品チーム主催のライブウェビナーに[参加](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)して、今回のリリースに含まれる機能の詳細をご確認ください
+**_製品リリースウェビナー_**[ ご参加ください ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)3 月 3 日（PT） 11:00AM PT / 2:00PM ET で、製品チームがホストするライブウェビナーと、このリリースに含まれる機能の詳細をご覧ください。

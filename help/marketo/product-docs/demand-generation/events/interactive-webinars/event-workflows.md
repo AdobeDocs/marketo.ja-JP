@@ -3,8 +3,8 @@ description: イベントワークフロー - Marketo ドキュメント - 製�
 title: イベントワークフロー
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 8222d5d8d5600ffac72b3aac69137ba395169932
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 100%
 

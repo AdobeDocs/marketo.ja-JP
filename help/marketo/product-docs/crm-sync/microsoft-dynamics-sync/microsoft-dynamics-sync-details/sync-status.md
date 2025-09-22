@@ -4,18 +4,18 @@ description: 同期ステータス - Marketo ドキュメント - 製品ドキ�
 title: 同期ステータス
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
 # 同期ステータス {#sync-status}
 
-「同期ステータス」タブと「同期エラー [!UICONTROL &#x200B; タブでは、同期プロセスの現在のスループットとバックログ &#x200B;] タブを [!UICONTROL &#x200B; 認 &#x200B;] できます。
+「[!UICONTROL 同期ステータス]」タブと「[!UICONTROL 同期エラー]」タブで、同期プロセスの現在のスループットとバックログをタブに保つことができます。
 
-## [!UICONTROL &#x200B; 同期ステータス &#x200B;] タブ {#sync-status-tab}
+## 「[!UICONTROL 同期ステータス]」タブ {#sync-status-tab}
 
 1. 「**[!UICONTROL 管理者]**」をクリックし、「**[!UICONTROL Microsoft Dynamics]**」をクリックします。
 
@@ -35,7 +35,7 @@ ht-degree: 63%
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. **[!UICONTROL 表示]** ドロップダウンをクリックし、「**[!UICONTROL 最終時間]**」を選択してスループット情報を表示します。
+1. **[!UICONTROL 表示]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 過去 1 時間]**」を選択してスループット情報を表示します。
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -45,9 +45,9 @@ ht-degree: 63%
 
    >[!NOTE]
    >
-   >[!UICONTROL &#x200B; 最終時間 &#x200B;] ビューを見ると、[!UICONTROL &#x200B; 挿入 &#x200B;] 列と [!UICONTROL &#x200B; 更新 &#x200B;] 列に「なし」と表示されます。これは予期される動作です。
+   >「[!UICONTROL 過去 1 時間]」ビューを表示している場合、「[!UICONTROL 挿入]」列と「[!UICONTROL 更新]」列には「N/A」と表示されます。これは期待されている動作です。
 
-## [!UICONTROL &#x200B; 同期エラー &#x200B;] タブ {#sync-errors-tab}
+## 「[!UICONTROL 同期エラー]」タブ {#sync-errors-tab}
 
 操作、方向、エラーコード、エラーメッセージなどの詳細との同期に失敗したリード（およびその他のオブジェクト）の参照、検索、エクスポートを行います。
 

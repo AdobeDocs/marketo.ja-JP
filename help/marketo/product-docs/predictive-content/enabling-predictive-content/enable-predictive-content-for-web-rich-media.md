@@ -4,10 +4,10 @@ description: Web リッチメディアの予測コンテンツを有効にする
 title: Web リッチメディアの予測コンテンツの有効化
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ Web リッチメディアは、機械学習と予測分析を利用して、最�
 
 リッチメディアのコンテンツタイトル、説明、画像を準備できたら、コンテンツピースを 1 つずつ、または複数まとめて有効にすることができます。
 
-1. 個々のタイトルを有効にするには、タイトルをクリックしてエディターを開きます。「**[!UICONTROL リッチメディア]**」をクリックし、「**[!UICONTROL リッチメディアの予測コンテンツに対して有効]**」ボックスのチェックをオンにして「**[!UICONTROL 保存]**」をクリックします。
+1. 個々のタイトルを有効にするには、タイトルをクリックしてエディターを開きます。「**[!UICONTROL リッチメディア]**」をクリックし、「**[!UICONTROL リッチメディアでの予測コンテンツを有効にする]**」ボックスをオンにして、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
@@ -47,7 +47,7 @@ Web リッチメディアは、機械学習と予測分析を利用して、最�
 
 ## JavaScript コードのカスタマイズと web サイトへの埋め込み  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Marketo Developers サイトの Rich Media Recommendation テンプレートに関するドキュメントを参照してください [ こちら ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}。 ここでは、web サイトのテンプレートをカスタマイズする方法について説明します。
+詳しくは、[Marketo Developers サイト](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}のリッチメディアレコメンデーションテンプレートのドキュメントを参照してください。ここでは、web サイトのテンプレートをカスタマイズする方法について説明します。
 
 Web サイトでテンプレートを表示したい場所に JavaScript コードを貼り付けます。
 

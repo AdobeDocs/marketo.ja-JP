@@ -4,16 +4,16 @@ description: ランディングページテストグループを複製する —
 title: ランディングページテストグループを複製する
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 # ランディングページテストグループを複製する {#cloning-a-landing-page-test-group}
 
-[!UICONTROL Design Studio] から、ランディングページテストグループを検索および複製できます。
+[!UICONTROL デザインスタジオ]では、ランディングページのテストグループを検索して複製できます。
 
 1. 未承認のページを右クリックします。「**[!UICONTROL 複製]**」を選択します。
 

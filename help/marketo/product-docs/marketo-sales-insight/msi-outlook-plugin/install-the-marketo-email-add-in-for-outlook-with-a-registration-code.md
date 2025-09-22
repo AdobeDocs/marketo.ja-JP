@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949711
-description: 登録コードを使用したMarketo Email Add [!DNL Outlook] in のインストール - Marketo ドキュメント – 製品ドキュメント
-title: 登録コードを使用した、用のMarketo E メール  [!DNL Outlook]  ドインのインストール
+description: 登録コードを使用した  [!DNL Outlook]  用 Marketo メールアドインのインストール - Marketo ドキュメント - 製品ドキュメント
+title: 登録コードを使用した  [!DNL Outlook]  用 Marketo メールアドインのインストール
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '536'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# 登録コードを使用して [!DNL Outlook] 用するMarketo E メールアドインのインストール {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# 登録コードを使用した [!DNL Outlook] 用 Marketo メールアドインのインストール {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 ユーザーがノートパソコンの管理者設定にアクセスできる場合は、登録コードを直接送信できます。
 
@@ -39,7 +39,7 @@ ht-degree: 88%
 
    >[!NOTE]
    >
-   >現時点では、以下のリンクは [!DNL Microsoft Edge] でのみ、または [!DNL Chrome] で右クリックしても機能します。 ご迷惑をおかけして申し訳ありません。
+   >現時点では、以下のリンクは、[!DNL Microsoft Edge] または [!DNL Chrome] で右クリックした場合にのみ機能します。ご迷惑をおかけして申し訳ありません。
 
 <table><thead>
   <tr>
@@ -154,7 +154,7 @@ ht-degree: 88%
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. [!DNL Microsoft Outlook] を開いて、「Marketo」ボタンを確認します。
+1. [!DNL Microsoft Outlook] を開くと、「Marketo」ボタンが表示されます。
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

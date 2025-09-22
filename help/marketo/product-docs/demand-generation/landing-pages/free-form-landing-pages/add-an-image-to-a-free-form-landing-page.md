@@ -4,10 +4,10 @@ description: フリーフォームランディングページへの画像の追�
 title: フリーフォームランディングページへの画像の追加
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 87%
 >
 >[画像とファイルを Marketo に追加](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. フリーフォームのランディングページを選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします。
+1. フリーフォームランディングページを選択し、「**[!UICONTROL 下書きの編集]**」をクリックします。
 
    ![](assets/landingpageeditdraft.jpg)
 

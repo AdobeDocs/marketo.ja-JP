@@ -3,7 +3,7 @@ description: リリースノート - 2023 年 9 月 – Marketo ドキュメン�
 title: リリースノート - 2023年9月
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '922'
 ht-degree: 23%
@@ -20,7 +20,7 @@ ht-degree: 23%
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-次の機能は標準リリースサイクルに従っており、**2023年9月8日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
+次の機能は標準リリースサイクルに従っており、**2023年9月8日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -91,7 +91,7 @@ ht-degree: 23%
   <tr>
    <td><strong>MarketoとWorkfrontの統合 </strong>: MarketoとWorkfrontをご利用の場合は、Workfront テンプレートを使用して 2 つの製品を統合し、新しい自動処理ワークフローのロックを解除して、キャンペーンの実行を合理化できるようになりました。</td>
    <td>リリース済み</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=ja" target="_blank">ブループリントのレビューと承認</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">ブループリントのレビューと承認</a></td>
   </tr>
  </tbody>
 </table>

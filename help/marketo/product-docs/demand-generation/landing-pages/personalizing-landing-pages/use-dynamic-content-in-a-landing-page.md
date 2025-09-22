@@ -4,10 +4,10 @@ description: ランディングページでの動的コンテンツの使用 - M
 title: ランディングページでの動的コンテンツの使用
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 78%
 
    ![](assets/login-marketing-activities.png)
 
-   **[!UICONTROL ランディングページ]** をクリックしてから、**[!UICONTROL ドラフトを編集]** をクリックします。
+   **[!UICONTROL ランディングページ]**&#x200B;をクリックしてから、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/landingpageeditdraft.jpg)
 
@@ -35,21 +35,21 @@ ht-degree: 78%
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 
-   **[!UICONTROL セグメント化]** の名前を入力し、「**[!UICONTROL 保存]**」をクリックします。
+   「**[!UICONTROL セグメント化名]**」を入力して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
-   セグメント化とそのセグメントが、右側の **[!UICONTROL 動的]** の下に表示されます。
+   セグメント化とそのセグメントは、右側の「**[!UICONTROL 動的]**」の下に表示されます。
 
    ![](assets/image2015-5-21-12-3a36-3a40.png)
 
    >[!NOTE]
    >
-   >デフォルトでは、すべてのランディングページ要素は **[!UICONTROL 静的]** です。
+   >すべてのランディングページ要素は、デフォルトでは&#x200B;**[!UICONTROL 静的]**&#x200B;です。
 
 ## 要素を動的にする {#make-element-dynamic}
 
-1. 要素を **[!UICONTROL 静的]** から **[!UICONTROL 動的]** にドラッグ&amp;ドロップします。
+1. 「**[!UICONTROL 静的]**」から「**[!UICONTROL 動的]**」に要素をドラッグ＆ドロップします。
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 

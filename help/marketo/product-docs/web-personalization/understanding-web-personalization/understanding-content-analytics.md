@@ -4,10 +4,10 @@ description: コンテンツ分析について - Marketo ドキュメント - �
 title: コンテンツ分析について
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '377'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 88%
 
 ![](assets/one.png)
 
-[!UICONTROL Content Analytics] ページでは、次の操作を実行できます。
+[!UICONTROL コンテンツ分析]ページでは、次の操作を実行できます。
 
 * 時間範囲（日、週、月）でフィルタリングする
 * コンテンツのタイトルとコンテンツ URL で検索する
@@ -44,7 +44,7 @@ ht-degree: 88%
  </thead>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL タイトル &#x200B;]</strong></td>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL タイトル]</strong></td>
    <td colspan="1" rowspan="1">デジタルコンテンツアセットの名前。「<strong>タイトル</strong>」をクリックすると、コンテンツ URL が新しいタブで開きます。</td>
   </tr>
   <tr>
@@ -52,11 +52,11 @@ ht-degree: 88%
    <td colspan="1">コンテンツが<a href="#">コンテンツレコメンデーション</a>に追加されたかどうかを示します。</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL ビュー &#x200B;]</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL 表示]</strong></p></td>
    <td colspan="1" rowspan="1"><p>コンテンツアセットに対する web 訪問者からの表示数。表示、開封、視聴またはダウンロードされた回数。「表示」列の数をクリックしてドリルダウンし、コンテンツの閲覧者を確認します</p></td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL ダイレクトコンバージョン数]</strong></td>
    <td colspan="1" rowspan="1">同じ訪問でコンテンツを表示し、フォームに入力した web 訪問者</td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ ht-degree: 88%
 
 * **[!UICONTROL ビュー]**：選択した時間範囲のコンテンツの表示数
 * **[!UICONTROL ダイレクトコンバージョン]**：同じ訪問でコンテンツを表示し、フォームに入力した web 訪問者数
-* **[!UICONTROL コンバージョン率 &#x200B;]**&#x200B;**:** ダイレクトコンバージョンで計算されたコンバージョン率をクリック数で割った値
+* **[!UICONTROL コンバージョン率]****：**&#x200B;ダイレクトコンバージョン数をクリック数で割って計算されたコンバージョン率
 
 **[!UICONTROL トレンド]**
 
@@ -96,7 +96,7 @@ ht-degree: 88%
 
 ![](assets/six.png)
 
-[!UICONTROL Content Analytics] ページで、削除するコンテンツの「削除」アイコンをクリックします。 コンテンツを削除するかどうかを確認するメッセージが表示されます。
+[!UICONTROL コンテンツ分析]ページで、削除するコンテンツの削除アイコンをクリックします。コンテンツを削除するかどうかを確認するメッセージが表示されます。
 
 >[!MORELIKETHIS]
 >

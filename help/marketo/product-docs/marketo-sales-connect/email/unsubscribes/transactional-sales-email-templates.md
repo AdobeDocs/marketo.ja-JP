@@ -2,7 +2,7 @@
 description: トランザクション販売のメールテンプレート - Marketo ドキュメント – 製品ドキュメント
 title: トランザクションセールスメールテンプレート
 feature: Marketo Sales Connect
-source-git-commit: 7c8703059d7d28afbf57f4f285ac972fb9d8fbef
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 7%

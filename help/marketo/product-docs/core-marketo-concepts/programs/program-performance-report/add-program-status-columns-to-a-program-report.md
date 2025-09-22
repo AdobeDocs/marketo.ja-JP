@@ -4,7 +4,7 @@ description: プログラムレポートへのプログラムステータス列�
 title: プログラムレポートへのプログラムステータス列の追加
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 82%
@@ -39,7 +39,7 @@ ht-degree: 82%
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. これで完了です。「[!UICONTROL &#x200B; レポート &#x200B;]」タブをクリックして、プログラムステータス列を含むレポートを表示します。
+1. これで完了です。「[!UICONTROL  レポート ]」タブをクリックして、プログラムステータス列を含むレポートを表示します。
 
    ![](assets/programreport.jpg)
 

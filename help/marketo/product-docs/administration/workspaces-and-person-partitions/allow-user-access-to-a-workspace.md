@@ -4,7 +4,7 @@ description: ワークスペースへのユーザーアクセス権の設定 - M
 title: ワークスペースへのユーザーアクセス権の設定
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 90%

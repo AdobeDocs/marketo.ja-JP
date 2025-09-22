@@ -4,10 +4,10 @@ description: レポートのサイズを設定する — Marketo ドキュメン
 title: レポートのサイズを設定する
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 76%
 
    >[!TIP]
    >
-   >制限を変更すると、書き出された [!DNL Excel] ファイルだけでなく、レポートのサイズ自体が変更されるので、レポートの生成に時間がかかりすぎる場合は、制限を減らします。
+   >制限を変更すると、書き出される [!DNL Excel] ファイルだけではなく、レポート自体のサイズが変わります。したがって、レポートの生成に時間がかかる場合は、制限を引き下げてください。
 
 1. 「**[!UICONTROL 保存]**」をクリックして、新しい制限を確定します。
 

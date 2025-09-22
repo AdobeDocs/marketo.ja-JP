@@ -4,10 +4,10 @@ description: メールの認証 - Marketo ドキュメント - 製品ドキュ�
 title: メールの認証
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 72%
 
    ![](assets/verify-your-email-1.png)
 
-1. [!UICONTROL &#x200B; マイアカウント &#x200B;] で、「**[!UICONTROL メール設定]**」をクリックします。
+1. 「[!UICONTROL マイアカウント]」で、「**[!UICONTROL メール設定]**」をクリックします。
 
    ![](assets/verify-your-email-2.png)
 
-1. [!UICONTROL &#x200B; アドレスと署名 &#x200B;] の下で、検証するメール ID を見つけて、「**[!UICONTROL 検証メールを再送信]**」をクリックします。 新しい確認用メールが送信されます。
+1. 「[!UICONTROL アドレスと署名]」で、確認するメール ID を探し、「**[!UICONTROL 認証メールを再送信]**」をクリックします。新しい確認用メールが送信されます。
 
    ![](assets/verify-your-email-3.png)
 

@@ -4,8 +4,8 @@ description: 収益エクスプローラーレポートへのカスタム測定�
 title: 収益エクスプローラーレポートへのカスタム測定の追加
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 100%
 
@@ -31,13 +31,13 @@ ht-degree: 100%
 
    ![](assets/image2016-1-26-11-3a26-3a23.png)
 
-1. 左側の必要な項目をクリックし、矢印をクリックして上に移動します。必要に応じて数学記号を追加します。
+1. 左側の必要な項目をクリックし、矢印をクリックして上に移動します。必要に応じて数学シンボルを追加します。
 
    ![](assets/image2016-1-26-11-3a16-3a55.png)
 
    >[!TIP]
    >
-   >数学記号は、自分で入力するか、選択ボックスを使用します。
+   >数学シンボルは、自分で入力するか、選択ボックスを使用します。
 
 1. 完了したら、「**[!UICONTROL OK]**」をクリックします。
 

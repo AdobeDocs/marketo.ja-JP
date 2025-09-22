@@ -3,8 +3,8 @@ unique-page-id: 12977439
 description: リリースノート - 2017 年春 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2017 年春
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 100%
 
@@ -80,7 +80,7 @@ Marketo ABM で、重点顧客に最大 10 個のカスタムフィールドを�
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-**[ウェブキャンペーンのアーカイブ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
+**[Web キャンペーンのアーカイブ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
 アーカイブは、[!UICONTROL web キャンペーン]をアーカイブし、デフォルトの web キャンペーン表示で非表示にできる、新しい web キャンペーンステータスです。これにより、最も関連性の高いアクティブなキャンペーンに焦点を当て、古いアーカイブされたキャンペーンをオンデマンドで取得できます。
 
@@ -88,7 +88,7 @@ Marketo ABM で、重点顧客に最大 10 個のカスタムフィールドを�
 
 **[ローカリゼーション](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-Marketo でサポートされているすべての言語（英語、日本語、ドイツ語、スペイン語、フランス語、ポルトガル語）でウェブパーソナライズを利用できるようになりました。
+Marketo でサポートされているすべての言語（英語、日本語、ドイツ語、スペイン語、フランス語、ポルトガル語）で web パーソナライゼーションを利用できるようになりました。
 
 ## 予測機能の強化 {#predictive-enhancements}
 

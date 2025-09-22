@@ -4,8 +4,8 @@ description: テンプレートの削除 - Marketo ドキュメント - 製品�
 title: テンプレートの削除
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
 

@@ -4,18 +4,18 @@ description: SFDC 同期 - リード／アカウント所有者の同期 - Marke
 title: SFDC 同期 - リード／アカウント所有者の同期
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# SFDC 同期：リード／アカウントの所有者の同期 {#sfdc-sync-lead-account-owner-sync}
+# SFDC 同期：リード／アカウント所有者の同期 {#sfdc-sync-lead-account-owner-sync}
 
-これらは技術的には [!DNL Salesforce] の「ユーザー」テーブルを同期していますが、リード/アカウント所有者フィールドと呼ぶことにします。
+リード／アカウント所有者の同期は、技術的には [!DNL Salesforce] の「ユーザ」テーブルを同期することですが、これをリード／アカウント所有者フィールドと呼ぶことにします。
 
-## Marketo Engageに同期されるフィールドはどれですか？ {#which-fields-will-sync-to-marketo-engage}
+## Marketo Engage と同期するのはどのフィールドですか？ {#which-fields-will-sync-to-marketo-engage}
 
 Marketo に同期された各ユーザに対して、次の所有者フィールドも同期します。
 
@@ -48,4 +48,4 @@ Marketo に同期された各ユーザに対して、次の所有者フィール
 * Marketo の割り当て（および再割り当て）ルール
 * [所有者を変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}、[リードを SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}、[タスクを作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}の各フローアクションで使用
 
-Marketoは素晴らしい [!DNL Salesforce] 同期を持っています。 業界でも極めて優れています。
+Marketo は、[!DNL Salesforce] との同期において業界でも極めて優れています。

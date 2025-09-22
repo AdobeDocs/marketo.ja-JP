@@ -4,16 +4,16 @@ description: 優先度、緊急度、相対スコア、最有望見込客 - Mark
 title: 優先度、緊急度、相対スコア、最有望見込客
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '445'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
-# 優先度、緊急度、相対的なスコア、[!DNL Best Bets] {#priority-urgency-relative-score-and-best-bets}
+# 優先度、緊急度、相対スコア、[!DNL Best Bets] {#priority-urgency-relative-score-and-best-bets}
 
-[!DNL Marketo Sales Insight] では、優先度に基づいて最適なリードや連絡先を選択します。 リードまたはコンタクトの優先度には、緊急度と相対スコアの 2 つの要素があります。
+[!DNL Marketo Sales Insight] は、優先度に基づいて最適なリードと取引先責任者を選択します。リードまたはコンタクトの優先度には、緊急度と相対スコアの 2 つの要素があります。
 
 ![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
@@ -39,7 +39,7 @@ ht-degree: 93%
 
 ## [!DNL Best Bets] {#best-bets}
 
-[!DNL Best Bets] は、緊急度と相対的スコアが最も高いリードおよび連絡先です。 このリストに表示されるのは、自分が所有者であるリードだけで、リードのスコアが変化するとリストも更新されます。
+[!DNL Best Bets] は、緊急度スコアと相対スコアが最も高いリードと取引先責任者です。このリストに表示されるのは、自分が所有者であるリードだけで、リードのスコアが変化するとリストも更新されます。
 
 >[!NOTE]
 >

@@ -4,10 +4,10 @@ description: MSI パッケージのアップグレード - Marketo ドキュメ�
 title: MSI パッケージのアップグレード
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 51%
 
 >[!IMPORTANT]
 >
->Salesforceによってセキュリティが強化されたので、Insightのセールス・パッケージは標準オブジェクトに対する権限を付与できなくなりました。 今後、Sales Insight ユーザーのSalesforce プロファイルは、リード、連絡先、アカウント、オポチュニティなどの標準オブジェクトに対する読み取りアクセス権を持つ必要があります。 [ 設定方法については、こちらを参照してください ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}。
+>Salesforce によるセキュリティ強化により、セールスインサイトパッケージでは標準オブジェクトへの権限を付与できなくなりました。今後、セールスインサイトユーザの Salesforce プロファイルには、リード、取引先責任者、アカウント、商談などの標準オブジェクトに対する読み取りアクセス権が必要になります。[その設定方法について詳しくは、こちらを参照してください](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#grant-sales-insight-users-profile-access){target="_blank"}。
 
 1. [appexchange のこのページ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}に移動します。
 
-1. 手順 1 のページの右上隅から [!DNL Salesforce] インスタンス（Marketo インスタンスに接続されたもの。サンドボックスにすることも、実稼動にすることもできます）にログインします。 [!DNL Salesforce] にマネージ パッケージをインストールまたはアップグレードするには、管理者権限が必要です。
+1. 手順 1 のページの右上隅にある [!DNL Salesforce] インスタンス（Marketo インスタンスに接続されているものは、サンドボックスまたは実稼動）にログインします。[!DNL Salesforce] で管理パッケージをインストール／アップグレードするには、管理者権限が必要です。
 
-1. 「**すぐに入手**」ボタンをクリックします。インストールする場所を選択するように求められます。 以前のバージョンの MSI が既に存在するので、アップグレードするオプションが与えられます。手順 1 でログインしたアカウントに基づいて、オプションを選択します。
+1. 「**すぐに入手**」ボタンをクリックします。インストール先を選択するよう求められます。以前のバージョンの MSI が既に存在するので、アップグレードするオプションが与えられます。手順 1 でログインしたアカウントに基づいて、オプションを選択します。
 
    >[!TIP]
    >
    >実稼動インスタンスをアップグレードする前に、サンドボックスインスタンスでこれをテストすることをお勧めします。
 
-1. このパッケージをアップグレードするには、[ 管理者専用にインストール ] （および後で特定のプロファイルへの MSI アクセスを提供）、[ すべてのユーザー用にインストール ]、または [ 特定のプロファイル用にインストール ] を選択します。 この例では、「管理者専用」を選択しています。選択が完了したら、「**アップグレード**」をクリックします。
+1. 「管理者専用にインストール」（および後で特定のプロファイルに MSI アクセスを提供）、「すべてのユーザ用にインストール」、「特定のプロファイル用にインストール」のいずれかを選択してパッケージをアップグレードできます。この例では、「管理者専用」を選択しています。選択が完了したら、「**アップグレード**」をクリックします。
 
    ![](assets/four.png)
 

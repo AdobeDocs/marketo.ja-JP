@@ -4,26 +4,26 @@ description: パフォーマンスインサイトの貢献度の概要 - Marketo
 title: パフォーマンスインサイトの貢献度の概要
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '378'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] 貢献度の概要 {#performance-insights-contribution-overview}
+# [!UICONTROL パフォーマンスインサイト]の貢献度の概要 {#performance-insights-contribution-overview}
 
-Marketo[!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] では、投稿ビューがデフォルトで表示されます。
+Marketo [!UICONTROL パフォーマンスインサイト]では、貢献度ビューがデフォルトで表示されます。
 
 ![](assets/one-1.png)
 
-パフォーマンスを表示する指標を選択します。この例では、**[!UICONTROL 売上高]** ダッシュボードの _[!UICONTROL マルチタッチ]_ を介して獲得した商談を見ていきます。
+パフォーマンスを表示する指標を選択します。この例では、_[!UICONTROL 収益]_&#x200B;ダッシュボードの&#x200B;**[!UICONTROL マルチタッチ]**&#x200B;で成立した商談を見てみます。
 
 ![](assets/2.png)
 
 >[!NOTE]
 >
->[[!UICONTROL &#x200B; ファーストタッチ &#x200B;] および [!UICONTROL &#x200B; マルチタッチ &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) について説明します。
+>詳しくは、[[!UICONTROL ファーストタッチ]と[!UICONTROL マルチタッチ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)を参照してください。
 
 指標を表示する期間を選択します。この例では、現在の年（年初から本日）を見ています。
 
@@ -31,7 +31,7 @@ Marketo[!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] で�
 
 >[!NOTE]
 >
->「前年」の選択を一時的に解除しました。**[!UICONTROL カスタム範囲]** 選択を使用して、前年のパフォーマンスデータ全体を表示するオプションは引き続き用意されています。
+>「前年」の選択を一時的に解除しました。「**[!UICONTROL カスタム範囲]**」選択を使用することで、引き続き、前年のパフォーマンスデータ全体を表示するオプションがあります。
 
 指標は、ドーナツグラフと棒グラフで表示されます。
 
@@ -57,7 +57,7 @@ Marketo[!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] で�
 
 ![](assets/eight.png)
 
-以下のデータグリッドはスプレッドシートのように機能し、選択したアトリビューションモデル（[!UICONTROL &#x200B; ファーストタッチ &#x200B;]/[!UICONTROL &#x200B; マルチタッチ &#x200B;]）の下で使用可能なすべての指標を表示します。 選択した指標を含む列がハイライト表示されます。
+以下のデータグリッドは、スプレッドシートのように機能し、選択したアトリビューションモデル（[!UICONTROL ファーストタッチ]／[!UICONTROL マルチタッチ]）で使用可能なすべての指標を表示します。選択した指標を含む列がハイライト表示されます。
 
 ![](assets/9.png)
 

@@ -4,10 +4,10 @@ description: 付加的なランディングページ CNAME の追加 - Marketo �
 title: 付加的なランディングページ CNAME の追加
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -61,11 +61,11 @@ ht-degree: 90%
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. **[!UICONTROL ドメインエイリアス &#x200B;] を入力します。**&#x200B;を入力します。訪問者が URL を入力しない場合、**[!UICONTROL デフォルトのページ]**&#x200B;が表示されます。その場合の移動先を入力します。
+1. **[!UICONTROL ドメインエイリアス]を入力します。**&#x200B;を入力します。訪問者が URL を入力しない場合、**[!UICONTROL デフォルトのページ]**&#x200B;が表示されます。その場合の移動先を入力します。
 
    >[!NOTE]
    >
-   >[!UICONTROL &#x200B; デフォルトページ &#x200B;] には、ランディングページまたは外部 URL （公開 web サイトなど）を選択できます。
+   >[!UICONTROL デフォルトページ]の場合は、ランディングページまたは公開 web サイトなどの外部 URL を選択できます。
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 

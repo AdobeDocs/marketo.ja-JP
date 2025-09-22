@@ -1,21 +1,21 @@
 ---
-description: ヘルプセンター – Marketo Engageドキュメント
+description: ヘルプセンター - Marketo Engage ドキュメント - 製品ドキュメント
 title: ヘルプセンター
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
 # ヘルプセンター {#help-center}
 
-Adobe Marketo Engage のヘルプセンターは、サポートを受ける際の一元的な場所として機能します。様々なリソース（[ 製品ドキュメント ](/help/marketo/home.md){target="_blank"}、[ リリース情報 ](/help/marketo/release-notes/current.md){target="_blank"}、[ マーケティングネーションコミュニティ ](https://nation.marketo.com/){target="_blank"} など）にリンクする以外に、エクスペリエンスレベル別に整理された便利な製品内ウォークスルーにアクセスできます。
+Adobe Marketo Engage のヘルプセンターは、サポートを受ける際の一元的な場所として機能します。様々なリソース（例えば、[製品ドキュメント](/help/marketo/home.md){target="_blank"}、[リリース情報](/help/marketo/release-notes/current.md){target="_blank"}、[Marketing Nation コミュニティ](https://nation.marketo.com/){target="_blank"}）へのリンクに加えて、エクスペリエンスレベルで整理された、便利な製品内ウォークスルーにアクセスできます。
 
-## アクセス方法 {#how-to-access}
+## アクセスする方法 {#how-to-access}
 
 Marketo Engage にログインしたら、ヘルプアイコンをクリックします。
 

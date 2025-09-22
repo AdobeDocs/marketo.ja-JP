@@ -4,10 +4,10 @@ description: 収益モデルの承認／承認取消 - Marketo ドキュメン�
 title: 収益モデルの承認／承認取消
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 94%
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 
-1. 表示された [!UICONTROL &#x200B; モデルを未承認 &#x200B;] ダイアログで、「**[!UICONTROL 未承認]**」をクリックします。
+1. 表示される[!UICONTROL モデルの承認を取消]ダイアログで、「**[!UICONTROL 取消]**」をクリックします。
 
    ![](assets/image2017-3-28-8-3a21-3a9.png)
 

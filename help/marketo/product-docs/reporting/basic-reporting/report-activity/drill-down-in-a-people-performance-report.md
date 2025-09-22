@@ -4,8 +4,8 @@ description: リード効果レポートのドリルダウン - Marketo ドキ�
 title: リード効果レポートのドリルダウン
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 

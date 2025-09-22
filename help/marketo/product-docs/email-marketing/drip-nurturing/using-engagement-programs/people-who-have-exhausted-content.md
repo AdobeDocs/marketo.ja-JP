@@ -4,10 +4,10 @@ description: コンテンツ消費済みのリード - Marketo ドキュメン�
 title: コンテンツ消費済みのリード
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -53,10 +53,10 @@ ht-degree: 89%
 
 ## ストリーム {#stream}
 
-1. また、ストリーム自体の「[!UICONTROL &#x200B; ストリーム &#x200B;]」タブで、コンテンツを使い果たした合計ユーザーを確認することもできます。
+1. ストリーム自体の「[!UICONTROL ストリーム]」タブでも、コンテンツを消費済みであるリードの合計数を確認できます。
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 
    >[!NOTE]
    >
-   >この数は、各キャストの実行後すぐに更新されます。
+   >この数字は、各キャストの実行後すぐに更新されます。

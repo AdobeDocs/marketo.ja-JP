@@ -4,8 +4,8 @@ description: タスクの作成 - Marketo ドキュメント - 製品ドキュ�
 title: タスクの作成
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 

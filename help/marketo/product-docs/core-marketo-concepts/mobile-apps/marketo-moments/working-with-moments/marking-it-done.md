@@ -4,20 +4,20 @@ description: 完了としてマーク - Marketo ドキュメント - 製品ド�
 title: 完了としてマーク
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 45%
+ht-degree: 88%
 
 ---
 
 # 完了としてマーク {#marking-it-done}
 
-メールプログラム、イベントまたは分析カードを [!UICONTROL &#x200B; 完了 &#x200B;] としてマークして、ストリームから削除します。 これを行う方法は 2 つあります。
+メールプログラム、イベントまたは分析カードを [!UICONTROL  完了 ] としてマークして、ストリームから削除します。 これを行う方法は 2 つあります。
 
 >[!IMPORTANT]
 >
->2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Moments アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo EngageインスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。[詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 1. アクションメニューをタップします。
 

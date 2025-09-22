@@ -3,16 +3,16 @@ description: グループの管理 - Marketo ドキュメント - 製品ドキ�
 title: グループの管理
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: a88e7978a74d6aaaaad882a83cdfa3e80a4c50cb
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 65%
+ht-degree: 85%
 
 ---
 
 # グループの管理 {#manage-groups}
 
-[!DNL Sales Insight Actions] でグループを管理する方法を説明します。
+[!DNL Sales Insight Actions] でグループを管理する方法について説明します。
 
 ## グループタイプ {#group-types}
 
@@ -27,19 +27,19 @@ ht-degree: 65%
    <th>説明</th>
   </tr>
   <tr>
-   <td>[!UICONTROL すべてのユーザー &#x200B;]</td>
-   <td>表示可能なすべてのユーザのすべての取引先責任者。</td>
+   <td>[!UICONTROL すべての人物]</td>
+   <td>表示されるすべてのユーザのすべての取引先責任者。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 動的グループ &#x200B;]</td>
-   <td>取引先責任者：所有しているすべての取引先責任者。<br>配信停止：通信の受信をオプトアウトした取引先責任者。</td>
+   <td>[!UICONTROL 動的グループ]</td>
+   <td>取引先責任者：所有しているすべての取引先責任者。<br>登録解除：通信の受信をオプトアウトした取引先責任者。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL マイ グループ &#x200B;]</td>
+   <td>[!UICONTROL マイグループ]</td>
    <td>作成したグループ。自分の取引先責任者や、自分と共有されている取引先責任者を含めることができます。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL チーム グループ &#x200B;]</td>
+   <td>[!UICONTROL チームグループ]</td>
    <td>自分と共有されているグループ、または自分が共有しているグループ。チームメイトが所有している取引先責任者や、共有した取引先責任者を含めることができます。</td>
   </tr>
  </tbody>
@@ -47,7 +47,7 @@ ht-degree: 65%
 
 ## グループの作成 {#create-a-group}
 
-1. [!UICONTROL &#x200B; 人物 &#x200B;] ページで、「**グループ** の横の [!UICONTROL +] をクリックします。
+1. [!UICONTROL 人物]ページで、[!UICONTROL グループ]の横の「**+**」アイコンをクリックします。
 
    ![](assets/manage-groups-1.png)
 
@@ -81,7 +81,7 @@ ht-degree: 65%
 
 ## グループの共有 {#share-a-group}
 
-1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、共有するグループを見つけて選択します。
+1. [!UICONTROL 人物]ページで、共有するグループを見つけて選択します。
 
    ![](assets/manage-groups-8.png)
 
@@ -97,7 +97,7 @@ ht-degree: 65%
 
 ## グループの共有解除 {#unshare-a-group}
 
-1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、共有を解除するグループを見つけて選択します。
+1. [!UICONTROL 人物]ページで、共有を解除するグループを見つけて選択します。
 
    ![](assets/manage-groups-11.png)
 
@@ -113,7 +113,7 @@ ht-degree: 65%
 
 ## グループ名の変更 {#rename-a-group}
 
-1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、名前を変更するグループを見つけて選択します。
+1. [!UICONTROL 人物]ページで、名前を変更するグループを見つけて選択します。
 
    ![](assets/manage-groups-14.png)
 

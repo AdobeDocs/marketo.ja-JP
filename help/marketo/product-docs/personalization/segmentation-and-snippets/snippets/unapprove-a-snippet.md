@@ -4,10 +4,10 @@ description: スニペットの承認を取り消す - Marketo ドキュメン�
 title: スニペットの承認を取り消す
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 82%
 
 未承認のスニペットは、メールやランディングページでは使用できません。
 
-1. **[!UICONTROL Design Studio]** に移動します。
+1. **[!UICONTROL デザインスタジオ]**&#x200B;に移動します。
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. スニペットに移動し、アセットが **[!UICONTROL 使用者]** のものでないことを確認します。
+1. スニペットに移動し、アセット&#x200B;**[!UICONTROL で使用]**&#x200B;されていないことを確認します。
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 

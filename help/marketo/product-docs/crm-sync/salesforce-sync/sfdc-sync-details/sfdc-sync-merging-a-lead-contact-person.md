@@ -4,10 +4,10 @@ description: SFDC 同期 - リード／取引先責任者／人物の結合 - Ma
 title: SFDC 同期 - リード／取引先責任者／人物の結合
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 80%
 
 場合によっては、ルールをリストするのが最適なこともあります。ここでは、次の手順をおこないます。
 
-* **[!DNL Salesforce]** で 2 つのリードを結合すると、通常の同期ではMarketoに通知され、リードはMarketoのユーザーとして自動的に結合されます。
-* **Marketoで 2 人を結合すると** 実際には [!DNL Salesforce] でリードとして結合するのと同じプロセスが呼び出されます。 この場合も自動的に処理されます。
+* **[!DNL Salesforce]** で 2 つのリードを結合すると、通常の同期は Marketo に通知され、リードは Marketo のユーザとして自動的に結合されます。
+* **Marketo** で 2 人の人物を結合しても、[!DNL Salesforce] のリードと同じプロセスが実行されます。この場合も自動的に処理されます。
 * また、**リード（人物）を取引先責任者**&#x200B;に結合する方法も同様です。最終的には両方に 1 つの取引先責任者が存在することになります。
 * 結合時には、デフォルトのスコアが合計されます。
 

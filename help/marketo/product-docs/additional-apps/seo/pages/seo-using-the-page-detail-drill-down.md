@@ -4,7 +4,7 @@ description: SEO - ページ詳細ドリルダウンの使用 - Marketo ドキ�
 title: SEO - ページ詳細ドリルダウンの使用
 exl-id: 2fa1fdf3-2d42-424c-911e-188195e4551a
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 100%
@@ -44,7 +44,7 @@ ht-degree: 100%
 | [!UICONTROL Facebook いいね！] | [!DNL Facebook] でこのページ共有が「いいね！」された回数。 |
 | [!UICONTROL Facebook クリック] | [!DNL Facebook share] からのクリック数。 |
 
-## [!UICONTROL ページ最適化対象キーワード] {#keyword-s-that-page-is-optimized-for}
+## [!UICONTROL ページ最適化対象キーワード]  {#keyword-s-that-page-is-optimized-for}
 
 ここで[ページを最適化するための対象キーワードを選択します。](/help/marketo/product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
 

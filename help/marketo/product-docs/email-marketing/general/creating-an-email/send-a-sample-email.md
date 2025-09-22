@@ -4,7 +4,7 @@ description: サンプルメールの送信 - Marketo ドキュメント - 製�
 title: サンプルメールの送信
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 100%

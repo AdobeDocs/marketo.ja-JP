@@ -4,10 +4,10 @@ description: ドリップ、ドリップ、ナーチャリング - Marketo ド�
 title: ドリップ、ドリップ、ナーチャリング
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 100%
+source-wordcount: '466'
+ht-degree: 97%
 
 ---
 
@@ -166,6 +166,6 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
 <br> 
 
-[◄ ミッション 5：人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
+[◄ ミッション 5：ユーザーのリストをインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)
 
-[ミッション 7：メールのパーソナライズ ►](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[ミッション 7：メール ► 信のパーソナライズ](/help/marketo/getting-started/quick-wins/personalize-an-email.md)

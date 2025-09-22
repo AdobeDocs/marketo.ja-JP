@@ -4,16 +4,16 @@ description: リードフィードの使用 - Marketo ドキュメント - 製�
 title: リードフィードの使用
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # リードフィードの使用 {#using-the-lead-feed}
 
-リードフィードは、リードが行った注目のイベントに関する最新リストです。「Marketo」タブをクリックすると、右側に表示されます。RSS や [!DNL Twitter] フィードのようなもので、最新の更新がリストの先頭に表示されます。 このリストを使って、記憶が新しいうちにリードにアクセスしましょう。
+リードフィードは、リードが行った注目のイベントに関する最新リストです。「Marketo」タブをクリックすると、右側に表示されます。RSS または [!DNL Twitter] のフィードにも似ており、最新の更新情報がリストのトップに表示されます。このリストを使って、記憶が新しいうちにリードにアクセスしましょう。
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 82%
 
 リードフィードの各項目は、このリードのマーケティング履歴の注目すべきアクティビティまたはイベントです。
 
-[!DNL Salesforce] で表示する場合、各項目には次の項目があります。
+[!DNL Salesforce] で表示する場合、各項目には次の内容が含まれます。
 
 ![](assets/using-the-lead-feed-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 82%
   </tr>
   <tr>
    <td><p>C. アカウント名</p></td>
-   <td><p>企業名</p></td>
+   <td><p>会社名</p></td>
   </tr>
   <tr>
    <td><p>D. 時間</p></td>
@@ -72,7 +72,7 @@ ht-degree: 82%
 
 ## RSS の更新情報の取得 {#getting-rss-updates}
 
-RSS フィードによるリードフィードの更新も取得できます。RSS フィードを使用すると、[!DNL Salesforce] に接続していなくても、リードに関する更新情報を受け取ることができます。 フィードには、[!DNL Salesforce] でリードフィードと同じ情報に加えて、次の情報も含まれます（利用可能な場合）。
+RSS フィードによるリードフィードの更新も取得できます。RSS フィードを使用すると、[!DNL Salesforce] に接続していない場合でも、リードの更新を受け取ることができます。フィードには、[!DNL Salesforce] のリードフィードと同じ情報と、それに加えて次の情報が含まれます（使用可能な場合）。
 
 * メールアドレス
 * 電話番号

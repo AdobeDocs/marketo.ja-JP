@@ -4,8 +4,8 @@ description: メールプログラムダッシュボードを Excel に書き出
 title: メールプログラムダッシュボードを Excel に書き出す
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 

@@ -3,16 +3,16 @@ description: Sales Insight Actions アカウントを Salesforce に接続 - Mar
 title: Sales Insight Actions アカウントを Salesforce に接続
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
-# [!DNL Sales Insight Actions] アカウントの [!DNL Salesforce] への接続 {#connect-your-sales-insight-actions-account-to-salesforce}
+# [!DNL Sales Insight Actions] アカウントを [!DNL Salesforce] に接続 {#connect-your-sales-insight-actions-account-to-salesforce}
 
-アカウントを [!DNL Sales Insight Actions] に接続するには、次 [!DNL Salesforce] 簡単な手順に従います。
+次の簡単な手順に従って、[!DNL Sales Insight Actions] アカウントを [!DNL Salesforce] に接続します。
 
 ## 管理者として接続する方法 {#how-to-connect-as-an-admin}
 
@@ -20,11 +20,11 @@ ht-degree: 68%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-1.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、**[!UICONTROL Salesforce]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL Salesforce]**」をクリックします。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. [[!UICONTROL &#x200B; 接続とカスタマイズ &#x200B;]] タブで、[**[!UICONTROL Salesforce] をクリックし]**&#x200B;[**[!UICONTROL 接続]**] をクリックします。
+1. 「[!UICONTROL 接続とカスタマイズ]」タブで、「**[!UICONTROL Salesforce]**」、「**[!UICONTROL 接続]**」の順にクリックします。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
@@ -40,9 +40,9 @@ ht-degree: 68%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-5.png)
 
-1. [!UICONTROL &#x200B; マイアカウント &#x200B;] で、**[!UICONTROL Salesforce]** を選択します。
+1. 「[!UICONTROL マイアカウント]」で、「**[!UICONTROL Salesforce]**」を選択します。
 
-1. [!UICONTROL [ 接続とカスタマイズ ] タブ &#x200B;] で、[**[!UICONTROL Salesforce] をクリックし]**&#x200B;[**[!UICONTROL 接続]**] をクリックします。
+1. 「[!UICONTROL 接続とカスタマイズ]」タブで、「**[!UICONTROL Salesforce]**」、「**[!UICONTROL 接続]**」の順にクリックします。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 

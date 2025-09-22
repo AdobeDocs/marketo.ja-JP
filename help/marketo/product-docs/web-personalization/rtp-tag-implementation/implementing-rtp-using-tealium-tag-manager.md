@@ -4,22 +4,22 @@ description: Tealium タグマネージャーを使用した RTP の実装 — M
 title: Tealium タグマネージャーを使用した RTP の実装
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 
-# タグマネージャーを使用した RTP[!DNL Tealium] 実装 {#implementing-rtp-using-tealium-tag-manager}
+# [!DNL Tealium] タグマネージャーを使用した RTP の実装 {#implementing-rtp-using-tealium-tag-manager}
 
 RTP タグを実装するには、次のインストール手順に従います。
 
-1. [!DNL Tealium] Tag Manager アカウントにログインします。
+1. [!DNL Tealium] タグマネージャーアカウントにログインします。
 
-1. [!UICONTROL &#x200B; タグ &#x200B;] タブに移動し、タグマーケットプレイスの [!UICONTROL &#x200B; その他 &#x200B;] タブにある [!UICONTROL Tealium カスタムコンテナタグ &#x200B;] を追加します。
+1. 「[!UICONTROL タグ]」タブに移動し、タグマーケットプレイスの「[!UICONTROL その他]」タブにある「[!UICONTROL Tealium カスタムコンテナタグ]」を追加します。
 
-1. [!UICONTROL &#x200B; タイトル &#x200B;] フィールドに「**Marketo RTP**」と入力し、「**[!UICONTROL 終了]**」をクリックします。
+1. 「[!UICONTROL タイトル]」フィールドに、「**Marketo RTP**」と入力して「**[!UICONTROL 完了]**」をクリックします。
 
 1. 変更を保存します。
 
@@ -29,9 +29,9 @@ RTP タグを実装するには、次のインストール手順に従います�
 
 1. プロファイルを保存したら、Tealium iQ コンソールの右上隅にある名前／メールアドレスをクリックします。
 
-1. [!UICONTROL &#x200B; 管理者 &#x200B;] メニューで、「**[!UICONTROL アカウント管理者]**」の [!UICONTROL &#x200B; テンプレートを管理 &#x200B;] をクリックします。
+1. [!UICONTROL 管理者]メニューの「[!UICONTROL アカウント管理者]」で「**[!UICONTROL テンプレートを管理]**」をクリックします。
 
-1. ドロップダウンリストから **[!UICONTROL Tealium カスタムコンテナ &#x200B;]:Marketo RTP** を選択して、タグテンプレートを開きます。
+1. ドロップダウンリストから「**[!UICONTROL Tealium カスタムコンテナ]：Marketo RTP**」を選択して、タグテンプレートを開きます。
 
 1. RTP アカウントにログインします。
 
@@ -43,7 +43,7 @@ RTP タグを実装するには、次のインストール手順に従います�
 
 1. ドメインで、該当するドメインを選択し、「**[!UICONTROL タグの生成]**」をクリックします。
 
-1. RTP JavaScript タグをコピーして、Tealium プロファイルテンプレートの [!UICONTROL &#x200B; 開始タグライブラリコード &#x200B;] と [!UICONTROL &#x200B; 終了タグライブラリコード &#x200B;] の間に貼り付けます。
+1. RTP JavaScript タグをコピーし、Tealium プロファイルテンプレートの「[!UICONTROL Start Tag Library Code]」と「[!UICONTROL End Tag Library Code]」の間に貼り付けます。
 
    >[!NOTE]
    >
@@ -53,4 +53,4 @@ RTP タグを実装するには、次のインストール手順に従います�
    >
    >このファイルに配置するコードから `<script type='text/javascript'>` タグと `</script>` タグを削除します。
 
-1. **[!UICONTROL プロファイルテンプレートを保存]** をクリックして、新しいプロファイルを公開します。
+1. 「**[!UICONTROL プロファイルテンプレートを保存]**」をクリックすると、新しいプロファイルが公開されます。

@@ -3,8 +3,8 @@ unique-page-id: 11384018
 description: リリースノート - 2016年秋 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2016年秋
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 100%
 

@@ -3,10 +3,10 @@ description: Smart Campaign での SMS オプションの使用 – Marketo ド�
 title: スマートキャンペーンでの SMS オプションの使用
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 38%
+ht-degree: 49%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 38%
 
 以下に、いくつかの例を示します。
 
-**SMS メッセージバウンス**&#x200B;トリガーは、SMS メッセージがバウンスした場合に、メールの送信などのフローを開始します。
+**SMS メッセージのバウンス**&#x200B;トリガーは、SMS メッセージがバウンスしたときにメールの送信などのフローを開始します。
 
 **Vibes リストの購読**&#x200B;トリガーは、ユーザーが購読するとフローを開始します。
 
@@ -50,7 +50,7 @@ ht-degree: 38%
 
 **Vibes リストに購読済み**&#x200B;フィルターは、*一度でも* Vibes を購読していたことのあるすべての人を検索します。削除されたリードがフローから除外されても、登録解除済みのリードと削除済みのリードの両方が含まれます。このフィルターは、レポートに最適です。
 
-これに対し、**Vibes リストのメンバー** フィルターは、現在 Vibes を購読している *任意のユーザー* を見つけ、スマートキャンペーンやリストでの使用に最も適しています。
+これに対して、**Vibes リストのメンバー**&#x200B;フィルターは、現在 Vibes を購読している&#x200B;*すべての*&#x200B;ユーザを検索するので、スマートキャンペーンまたはリストでの使用に最も適しています。
 
 >[!NOTE]
 >
@@ -66,7 +66,7 @@ SMS フローステップは 3 つから選択できます。
 <tbody>
   <tr>
     <td style="width:20%"><b>SMS メッセージの送信</b></td>
-    <td>このフローアクションは、オプトインした Vibes 購読リストを購読しているMarketo スマートリストのユーザーにメッセージを送信します。 購読プロセスは開始されません。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">詳細情報</a></td>
+    <td>このフローアクションは、オプトインした Vibes 購読リストを購読しているMarketo スマートリストのユーザーにメッセージを送信します。 購読プロセスは開始されません。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md">詳細情報</a>。</td>
   </tr>
 
 <tr>

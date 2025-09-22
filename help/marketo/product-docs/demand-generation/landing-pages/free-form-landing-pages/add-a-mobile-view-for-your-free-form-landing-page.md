@@ -4,8 +4,8 @@ description: フリーフォームランディングページのモバイル表�
 title: フリーフォームランディングページのモバイル表示の追加
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 100%
 

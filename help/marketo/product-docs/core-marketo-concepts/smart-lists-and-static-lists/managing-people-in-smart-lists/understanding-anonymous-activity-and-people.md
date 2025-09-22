@@ -4,20 +4,20 @@ description: 匿名アクティビティとリードについて - Marketo ド�
 title: 匿名アクティビティとリードについて
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
 # 匿名アクティビティとリードについて {#understanding-anonymous-activity-and-people}
 
-Marketoのランディングページ（[Munchkin トラッキングコード ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} を持つ Web サイト上のページ）に初めてアクセスした際、Marketoは *匿名アクティビティ* を作成し、ブラウザー Cookie を使用してトラッキングします。 識別されると、その訪問者はリードとなり、ブラウザーの Cookie に関連付けられた履歴が結合されます。
+Marketo のランディングページ（または web サイト上で [Munchkin トラッキングコード](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}を持つページ）に初めて訪問すると、Marketo は&#x200B;*匿名アクティビティ*&#x200B;を作成し、ブラウザー cookie を使用してトラックします。識別されると、その訪問者は人物となり、ブラウザーの cookie に関連付けられた履歴が結合されます。
 
 >[!IMPORTANT]
 >
->既知ののBeta機能 **[!DNL Munchkin]V2 匿名再生アクティビティを有効にすると** 匿名リードが既知のレコードに正常に結合された後に、匿名リードプロモーションによってトリガーされたキャンペーンが常に再生されるようになります。 その結果、再生されたキャンペーンのデータ値の変更ステップで変更されたカスタムフィールドは、既知のレコードに保持されます。
+>ベータ版機能である **[!DNL Munchkin]V2 Anonymous Replay Activity on Known** を有効にすると、匿名リードのプロモーションによってトリガーされたキャンペーンが、匿名リードが既知のレコードに正常に結合された後に常に再生されるようになります。その結果、再生されたキャンペーンのデータ値の変更ステップで変更されたカスタムフィールドは、既知のレコードに保持されます。
 
 **匿名**&#x200B;アクティビティは、次の場合に作成されます。
 

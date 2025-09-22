@@ -4,16 +4,16 @@ description: マイトークンでの URL の使用 - Marketo ドキュメント
 title: マイトークンでの URL の使用
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 # マイトークンでの URL の使用 {#using-urls-in-my-tokens}
 
-以下の手順に従って、[!UICONTROL &#x200B; マイトークン &#x200B;] を使用して、メールに URL を挿入します。
+以下の手順に従って、[!UICONTROL マイトークン]を使用してメールに URL を挿入します。
 
 1. プログラムを選択し、「**[!UICONTROL マイトークン]**」をクリックします。
 
@@ -63,7 +63,7 @@ ht-degree: 88%
 
    ![](assets/nine.png)
 
-1. リンクを表示するテキストをハイライト表示し、「[!UICONTROL &#x200B; リンクを挿入/編集 &#x200B;]」アイコンをクリックします。
+1. リンクを表示するテキストをハイライト表示し、[!UICONTROL リンクを挿入／編集]アイコンをクリックします。
 
    ![](assets/ten.png)
 

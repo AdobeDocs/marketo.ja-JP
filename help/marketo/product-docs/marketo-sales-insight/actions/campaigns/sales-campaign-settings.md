@@ -3,10 +3,10 @@ description: セールスキャンペーンの設定 - Marketo ドキュメン�
 title: セールスキャンペーンの設定
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 80%
 
 >[!NOTE]
 >
->[!UICONTROL &#x200B; 週末をスキップ &#x200B;] を有効にすると、メールは週に 5 日に基づいてスケジュールされます。 つまり、ステップがスケジュールされると、週末は日として無視されます。
+>「[!UICONTROL 週末をスキップ]」を有効にすると、5 日間の週に基づいてメールがスケジュールされます。つまり、ステップがスケジュールされると、週末は日として無視されます。
 
 1. 「**[!UICONTROL キャンペーン]**」をクリックします。
 
@@ -60,7 +60,7 @@ ht-degree: 80%
 
 ## 返信があった場合 {#if-a-reply-occurs}
 
-Gmail または [!DNL Exchange] の返信トラッキングを有効にしている場合、受信者がメールに返信すると、販売キャンペーンを自動的に終了できます。
+Gmail または [!DNL Exchange] の返信追跡を有効にした場合、受信者がメールに返信すると自動的にセールスキャンペーンを終了します。
 
 1. 「**[!UICONTROL キャンペーン]**」をクリックします。
 
@@ -81,5 +81,5 @@ Gmail または [!DNL Exchange] の返信トラッキングを有効にしてい
 >[!MORELIKETHIS]
 >
 >* [セールスキャンペーンの作成](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->* [ メール手順の Sales Campaign 送信オプションについて ](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
+>* [メールステップのセールスキャンペーン送信オプションについて](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}
 >* [セールスキャンペーンのステップのタイプとリマインダータスク](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}

@@ -4,8 +4,8 @@ description: スマートキャンペーン結果の表示 - Marketo ドキュ�
 title: スマートキャンペーン結果の表示
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 100%
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # スマートキャンペーン結果の表示 {#view-smart-campaign-results}
 
-スマートキャンペーンで発生したすべての内訳を表示するには、手順は次のとおりです。
+スマートキャンペーンで発生したすべての分類を表示するには、手順は次のとおりです。
 
 >[!TIP]
 >

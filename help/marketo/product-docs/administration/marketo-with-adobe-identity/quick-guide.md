@@ -3,10 +3,10 @@ description: クイックガイド - Marketo ドキュメント - 製品ドキ�
 title: クイックガイド
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -38,7 +38,7 @@ Marketo Engage API 専用ユーザは Marketo Engage で作成および管理す
 
 ## CSV を使用したユーザの追加 {#add-users-via-csv}
 
-[CSV の読み込み](https://helpx.adobe.com/jp/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[CSV の読み込み ](https://helpx.adobe.com/jp/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## ユーザログイン {#user-sign-in}
 

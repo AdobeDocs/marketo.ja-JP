@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11377640
-description: Marketo [!DNL Outlook] Plugin の認証 – Marketo ドキュメント – 製品ドキュメント
-title: Marketo [!DNL Outlook] Plugin の認証
+description: Marketo  [!DNL Outlook]  プラグインの認証 - Marketo ドキュメント - 製品ドキュメント
+title: Marketo  [!DNL Outlook]  プラグインの認証
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
-# Marketo [!DNL Outlook] プラグインを承認する {#authorize-the-marketo-outlook-plugin}
+# Marketo [!DNL Outlook] プラグインの認証 {#authorize-the-marketo-outlook-plugin}
 
-[!DNL Outlook] でMarketo MSI プラグインを使用するには、このプラグインを認証する必要があります。
+[!DNL Outlook] で Marketo MSI プラグインを使用するには、認証する必要があります。
 
 >[!PREREQUISITES]
 >
->プラグインが既にインストールされている必要があり、Marketo 管理者によってプラグインユーザーとしての認証が必要です。
+>プラグインが既にインストールされている必要があり、Marketo 管理者によってプラグインユーザとしての認証が必要です。
 
 >[!IMPORTANT]
 >
@@ -27,7 +27,7 @@ ht-degree: 64%
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. [!UICONTROL Marketo プラグインを認証 &#x200B;] ダイアログが表示されたら、「**[!UICONTROL コードをリクエスト]**」をクリックします。
+1. [!UICONTROL Marketo プラグインを認証]ダイアログが表示されたら、「**[!UICONTROL リクエストコード]**」をクリックします。
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
@@ -35,7 +35,7 @@ ht-degree: 64%
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. デフォルトの [!DNL Outlook] アカウントのメールアドレスがチェックアウトすると、登録キーを受け取ります。 ポップアップに入力し、「**[!UICONTROL 送信]**」をクリックします。
+1. デフォルトの [!DNL Outlook] アカウントのメールアドレスがチェックアウトされると、登録キーが送信されます。ポップアップに入力し、「**[!UICONTROL 送信]**」をクリックします。
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 

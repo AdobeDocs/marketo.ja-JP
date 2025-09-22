@@ -4,16 +4,16 @@ description: Salesforce Lightning での一括アクションの使用 - Marketo
 title: Salesforce Lightning での一括アクションの使用
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 44%
+ht-degree: 74%
 
 ---
 
 # [!DNL Salesforce Lightning] での一括アクションの使用 {#using-bulk-actions-in-salesforce-lightning}
 
-キャンペーンへのリードの追加、一括メールの送信、リードの [!DNL Salesforce] から [!DNL Sales Connect] へのプッシュなど、一括アクションを実行する方法を説明します。
+キャンペーンへのリードの追加、一括メールの送信、[!DNL Salesforce] から [!DNL Sales Connect] へのリードのプッシュなど、一括アクションの実行方法を説明します。
 
 >[!PREREQUISITES]
 >
@@ -28,13 +28,13 @@ ht-degree: 44%
 
 ## 一括メール {#bulk-email}
 
-1. [!DNL Salesforce] で「**[!UICONTROL リード]**」タブをクリックし、目的のリードのリストを選択します。
+1. [!DNL Salesforce] で、「**[!UICONTROL リード]**」タブをクリックし、目的のリードのリストを選択します。
 
    ![](assets/one-6.png)
 
    >[!NOTE]
    >
-   >既に使用するリストに存在する場合は、「MSC 一括アクション」ボタンが表示されるように、ドロップダウンからリストを選択して再実行する必要があります。これは変更 [!DNL Salesforce] きない動作です。
+   >使用するリストに既に存在する場合は、「MSC 一括アクション」ボタンが表示されるように、ドロップダウンからリストを選択して再実行する必要があります。これは、変更できない [!DNL Salesforce] の動作です。
 
 1. （画面の右端にある）矢印ドロップダウンをクリックし、「**[!UICONTROL MSC でのメール]**」を選択します。
 
@@ -42,7 +42,7 @@ ht-degree: 44%
 
 1. MSC メールがポップアップ表示されます。次の機能が含まれます。
 
-   a. 「[!UICONTROL &#x200B; 宛先 &#x200B;]」フィールドに「すべての入金」と表示されます。これは、「リード・リスト表示」で選択したリードのリストに対応します
+   a. 「[!UICONTROL  宛先 ]」フィールドに「すべての入金」と表示されます。これは、「リード・リスト表示」で選択したリードのリストに対応します
 b.このリストは、「一括作成」と呼ばれる左側のパネルに表示されます。ここで受信者を追加または削除できます
 c. テンプレートを選択するか、独自のメールを作成できます
 d. メールをすぐに送信することも、後で送信するようにスケジュールすることもできます
@@ -51,7 +51,7 @@ d. メールをすぐに送信することも、後で送信するようにス�
 
 ## キャンペーンに追加 {#add-to-campaign}
 
-1. [!DNL Salesforce] で「**[!UICONTROL リード]**」タブをクリックし、目的のリードのリストを選択します。
+1. [!DNL Salesforce] で、「**[!UICONTROL リード]**」タブをクリックし、目的のリードのリストを選択します。
 
    ![](assets/four-4.png)
 
@@ -59,13 +59,13 @@ d. メールをすぐに送信することも、後で送信するようにス�
 
    ![](assets/five-4.png)
 
-1. 「[!UICONTROL &#x200B; キャンペーンにユーザーを追加 &#x200B;]」ポップアップが表示されます。 「**[!UICONTROL 次へ]**」をクリックし、通常のキャンペーンフローを実行して、MSC キャンペーンをトリガーします。
+1. 「[!UICONTROL キャンペーンに人物を追加]」ポップアップが表示されます。「**[!UICONTROL 次へ]**」をクリックし、通常のキャンペーンフローを実行して、MSC キャンペーンをトリガーします。
 
    ![](assets/six-1.png)
 
 ## [!DNL Marketo Sales Connect] にプッシュ {#push-to-marketo-sales-connect}
 
-1. [!DNL Salesforce] で「**[!UICONTROL リード]**」タブをクリックし、目的のリードのリストを選択します。
+1. [!DNL Salesforce] で、「**[!UICONTROL リード]**」タブをクリックし、目的のリードのリストを選択します。
 
    ![](assets/seven-2.png)
 
@@ -73,11 +73,11 @@ d. メールをすぐに送信することも、後で送信するようにス�
 
    ![](assets/eight-2.png)
 
-1. 「[!DNL Salesforce] Bridge」という新しいタブが開きます。 **[!UICONTROL グループに進む &#x200B;]→** ボタンをクリックします。
+1. 「[!DNL Salesforce] Bridge」という新しいタブが開きます。 「**[!UICONTROL グループに進む]→**」ボタンをクリックします。
 
    ![](assets/nine-2.png)
 
-1. MSC アカウントに送信され、日時スタンプを使用して作成されたグループが表示されます。同期が完了すると通知が届き、[!DNL Salesforce] から同期されたリードがグループに含まれます。
+1. MSC アカウントに移動し、日時スタンプを使用して作成されたグループが表示されます。同期が完了すると、通知が届き、[!DNL Salesforce] から同期されたリードがグループに含まれます。
 
    ![](assets/ten-1.png)
 

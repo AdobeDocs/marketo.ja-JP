@@ -3,7 +3,7 @@ description: Salesforce 同期ステータス - Marketo ドキュメント - 製
 title: Salesforce 同期ステータス
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 81%
@@ -40,7 +40,7 @@ ht-degree: 81%
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. 日付と時間の範囲を選択し、ドロップダウンをクリックして [!UICONTROL &#x200B; オブジェクトタイプ &#x200B;]、[!UICONTROL &#x200B; 操作タイプ &#x200B;]、[!UICONTROL &#x200B; ステータスタイプ &#x200B;] でフィルタリングします。
+1. 日付と時間の範囲を選択し、ドロップダウンをクリックして [!UICONTROL  オブジェクトタイプ ]、[!UICONTROL  操作タイプ ]、[!UICONTROL  ステータスタイプ ] でフィルタリングします。
 
    ![](assets/salesforce-sync-status-5.png)
 
@@ -64,7 +64,7 @@ ht-degree: 81%
   <tr>
    <th>フィールド</th>
    <th>説明</th>
-   <th>Enum 値</th>
+   <th>列挙の値</th>
   </tr>
   <tr>
    <td colspan="1">開始：</td>

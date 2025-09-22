@@ -4,7 +4,7 @@ description: Vibes を LaunchPoint サービスとして追加する - Marketo �
 title: Vibes を LaunchPoint サービスとして追加する
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 29%
@@ -39,11 +39,11 @@ SMS アクティビティを活用してMarketo Engage インスタンスでキ�
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. 設定で、Vibes [!UICONTROL &#x200B; ユーザー名 &#x200B;]、[!UICONTROL &#x200B; パスワード &#x200B;]、[!UICONTROL &#x200B; 会社キー &#x200B;] を入力します（これらはすべて Vibes アカウントにあります）。 「**[!UICONTROL 作成]**」をクリックします。
+1. 設定で、Vibes [!UICONTROL  ユーザー名 ]、[!UICONTROL  パスワード ]、[!UICONTROL  会社キー ] を入力します（これらはすべて Vibes アカウントにあります）。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   新しい SMS サービスが [!UICONTROL &#x200B; インストールされたサービス &#x200B;] リストに表示されます。
+   新しい SMS サービスが [!UICONTROL  インストールされたサービス ] リストに表示されます。
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
 

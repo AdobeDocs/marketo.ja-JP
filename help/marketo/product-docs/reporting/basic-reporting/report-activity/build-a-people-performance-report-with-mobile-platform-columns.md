@@ -4,10 +4,10 @@ description: モバイルプラットフォームの列があるリード効果�
 title: モバイルプラットフォームの列があるリード効果レポートを作成する
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 87%
 
    ![](assets/five-1.png)
 
-1. [!UICONTROL &#x200B; 開封されたメール &#x200B;] フィルターを見つけて、キャンバスにドラッグします。
+1. 「[!UICONTROL 開封済みメール]」フィルターを見つけて、キャンバスまでドラッグします。
 
    ![](assets/six-1.png)
 
@@ -51,9 +51,9 @@ ht-degree: 87%
 
    >[!TIP]
    >
-   >この例では [!UICONTROL &#x200B; 開封されたメール &#x200B;] フィルターを使用しました。 [!UICONTROL &#x200B; クリックされたメール &#x200B;] フィルターは Platform の制約を持つので、使用することもできます。
+   >この例では、「[!UICONTROL 開封済みメール]」フィルターを使いました。「プラットフォーム」制約があるので、「[!UICONTROL クリック済みメール]」フィルターを使用することもできます。
 
-1. [!UICONTROL Platform] を **[!UICONTROL iOS]** に設定します。
+1. 「[!UICONTROL プラットフォーム]」を「**[!UICONTROL iOS]**」に設定します。
 
    ![](assets/nine.png)
 

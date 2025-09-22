@@ -4,10 +4,10 @@ description: アプリ内メッセージの承認 - Marketo ドキュメント -
 title: アプリ内メッセージの承認
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 98%
 
    ![](assets/pasted-image-at-2016-05-31-02-09-pm.png)
 
-1. メッセージは「[!UICONTROL &#x200B; アクティブ &#x200B;]」になりました。
+1. これで、メッセージが「[!UICONTROL アクティブ]」になります。
 
    ![](assets/image2016-5-12-13-3a49-3a5.png)
 

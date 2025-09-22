@@ -4,7 +4,7 @@ description: グローバルオーバーレイの使用 - Marketo ドキュメ�
 title: グローバルオーバーレイの使用
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 100%

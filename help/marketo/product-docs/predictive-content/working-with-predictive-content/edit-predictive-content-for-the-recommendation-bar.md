@@ -4,8 +4,8 @@ description: レコメンデーションバーの予測コンテンツの編集 
 title: レコメンデーションバーの予測コンテンツの編集
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
 

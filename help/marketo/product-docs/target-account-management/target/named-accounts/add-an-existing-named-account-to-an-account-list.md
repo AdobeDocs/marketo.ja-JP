@@ -4,14 +4,14 @@ description: 既存の重点顧客を顧客リストに追加する - Marketo �
 title: 既存の重点顧客を顧客リストに追加する
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
-# アカウントリストへの既存の [!UICONTROL &#x200B; 名前付きアカウント &#x200B;] の追加 {#add-an-existing-named-account-to-an-account-list}
+# 既存の[!UICONTROL 重点顧客]を顧客リストに追加する {#add-an-existing-named-account-to-an-account-list}
 
 既存の重点顧客を顧客リストに追加する操作は簡単です。
 
@@ -35,4 +35,4 @@ ht-degree: 86%
 
 >[!MORELIKETHIS]
 >
->[ 指定アカウント [!UICONTROL &#x200B; の作成 &#x200B;]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[[!UICONTROL 重点顧客]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)の作成

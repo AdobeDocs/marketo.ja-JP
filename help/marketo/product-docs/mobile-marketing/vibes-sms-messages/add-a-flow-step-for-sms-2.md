@@ -4,7 +4,7 @@ title: SMS のフローステップの追加
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 43%
@@ -19,7 +19,7 @@ Marketo Engageには、SMS スマートキャンペーンで使用できる 3 �
 <tbody>
   <tr>
     <td style="width:25%">SMS メッセージの送信</td>
-    <td>このフローアクションは、オプトインした Vibes 購読リストを購読しているMarketo スマートリストのユーザーにメッセージを送信します。 購読プロセスは開始されません。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">詳細情報</a></td>
+    <td>このフローアクションは、オプトインした Vibes 購読リストを購読しているMarketo スマートリストのユーザーにメッセージを送信します。 購読プロセスは開始されません。 <a href="/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-a-vibes-sms-message.md">詳細情報</a>。</td>
   </tr>
 
 <tr>

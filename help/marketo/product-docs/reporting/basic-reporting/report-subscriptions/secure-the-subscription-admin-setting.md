@@ -4,8 +4,8 @@ description: 購読管理者設定の保護 - Marketo ドキュメント - 製�
 title: 購読管理設定の保護
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 100%
 

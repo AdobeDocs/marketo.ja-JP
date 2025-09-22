@@ -4,10 +4,10 @@ description: Web ページアクティビティレポート - Marketo ドキュ�
 title: Web ページアクティビティレポート
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '322'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 94%
 
    >[!NOTE]
    >
-   >データが [!UICONTROL web ページアクティビティ &#x200B;] レポートに反映されるまで、最大 24 時間かかる場合があります。
+   >データが [!UICONTROL web ページのアクティビティ]レポートに反映されるまでに最大 24 時間かかる場合があります。
 
    >[!TIP]
    >

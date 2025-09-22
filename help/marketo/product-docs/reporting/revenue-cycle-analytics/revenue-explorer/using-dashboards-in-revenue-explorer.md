@@ -4,16 +4,16 @@ description: 収益エクスプローラーでのダッシュボードの使用 
 title: 収益エクスプローラーでのダッシュボードの使用
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] でのダッシュボードの使用 {#using-dashboards-in-revenue-explorer}
+# [!UICONTROL 収益エクスプローラー]でのダッシュボードの使用 {#using-dashboards-in-revenue-explorer}
 
-ダッシュボードは、[!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] レポートを組み合わせたもので、リード、キャンペーン、オポチュニティおよび/またはモデルの概要を簡単に把握できます。
+ダッシュボードは、[!UICONTROL 収益エクスプローラー]レポートを組み合わせたもので、リード、キャンペーン、商談、モデルの概要を素早く把握できます。
 
 ## ダッシュボードの新規作成 {#creating-a-new-dashboard}
 
@@ -57,11 +57,11 @@ ht-degree: 70%
 
    ![](assets/nine.png)
 
-1. セクションの名前を変更するには、そのセクションをクリックして選択し、「**[!UICONTROL タイトル]**」に目的の名前を入力して、「**[!UICONTROL 適用]**」をクリックします。 各セクションに対して繰り返します。
+1. セクション名を変更するには、セクションをクリックして選択し、「**[!UICONTROL タイトル]**」に目的の名前を入力して、「**[!UICONTROL 適用]**」をクリックします。各セクションに対して繰り返します。
 
    ![](assets/ten.png)
 
-1. 保存するには、[!UICONTROL &#x200B; 保存 &#x200B;] アイコンをクリックして [!UICONTROL &#x200B; ファイル名 &#x200B;] を入力し、[!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] フォルダーをダッシュボードの目的のフォルダーにダブルクリックして **[!UICONTROL 保存]** をクリックします。
+1. 保存するには、[!UICONTROL 保存]アイコンをクリックし、[!UICONTROL ファイル名]を入力し、[!UICONTROL 収益エクスプローラー]フォルダーをダブルクリックして、ダッシュボード用の目的のフォルダーに移動し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/eleven.png)
 

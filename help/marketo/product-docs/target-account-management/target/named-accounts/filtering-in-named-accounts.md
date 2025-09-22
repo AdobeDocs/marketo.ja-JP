@@ -4,14 +4,14 @@ description: 重点顧客でのフィルタリングー - Marketo ドキュメ�
 title: 重点顧客でのフィルタリング
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; 重点顧客 &#x200B;] でのフィルタリング {#filtering-in-named-accounts}
+# [!UICONTROL 重点顧客]でのフィルタリング {#filtering-in-named-accounts}
 
 フィルタリングは、データをすばやく絞り込む優れた方法です。
 
@@ -25,7 +25,7 @@ ht-degree: 86%
 
    >[!NOTE]
    >
-   >複数の検索パラメーターの組み合わせがあります。この例では、_[!UICONTROL Industry] = Banking, [!UICONTROL Country] = United States, Max [!UICONTROL Employees] = 10000_ を見つけます。
+   >複数の検索パラメーターの組み合わせがあります。この例では、_[!UICONTROL 業界] = 銀行業、[!UICONTROL 国] = 米国、最大[!UICONTROL 従業員数] = 10000_ を見つけます。
 
 1. **[!UICONTROL 業界]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 銀行業]**」を選択します。
 

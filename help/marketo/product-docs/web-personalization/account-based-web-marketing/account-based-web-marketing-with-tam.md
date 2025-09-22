@@ -4,10 +4,10 @@ description: TAM によるアカウントベース Web マーケティング —
 title: TAM によるアカウントベース Web マーケティング
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 29%
+ht-degree: 100%
 
 ---
 
@@ -15,25 +15,25 @@ ht-degree: 29%
 
 Marketo に、新しく[[!UICONTROL ターゲットアカウント管理]](/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md)（TAM）アプリケーションが導入されました。
 
-Marketo[!UICONTROL Web Personalization] および [!UICONTROL Target アカウント管理 &#x200B;] （TAM）を使用する場合：
+Marketo [!UICONTROL web パーソナライゼーション]と[!UICONTROL ターゲットアカウント管理]（TAM）の併用には、次のような特徴があります。
 
-* TAM は [!UICONTROL &#x200B; アカウント リスト &#x200B;] のソースです
-* [!UICONTROL &#x200B; アカウントリスト &#x200B;] は、TAM で管理（作成、編集、削除）されます
-* [!UICONTROL &#x200B; アカウントリスト &#x200B;] は、セグメント化で使用するために [!UICONTROL Web Personalization] に同期されます。 ドロップダウンから選択してください
+* TAM が[!UICONTROL アカウントリスト]のソースになります。
+* [!UICONTROL アカウントリスト]は TAM で管理（作成、編集、削除）されます。
+* [!UICONTROL アカウントリスト]は、セグメント化で使用できるように [!UICONTROL web パーソナライゼーション]に同期されます。ドロップダウンから選択してください
 
    * **注**：同期には、最大で 5 分かかります。
 
-* [!UICONTROL Web Personalization] では、TAM で作成した [ アカウントリストからのターゲティングアカウントをセグメント ](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md) 作成し、これらのアカウントのコンテンツをパーソナライズできます
+* [!UICONTROL Web パーソナライゼーション]では、TAM で作成した[アカウントリストから、アカウントをターゲットにしたセグメント](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)を作成し、そのアカウントに対してコンテンツをパーソナライズできます。
 
 ## 既存の ABWM の顧客 {#for-existing-abwm-customers}
 
 すでに ABWM を使用している場合は、次のようになります。
 
-* ABWM では [!UICONTROL &#x200B; アカウントリスト &#x200B;] を、TAM では _アカウントリスト_ を作成できます
-* TAM では [!UICONTROL &#x200B; アカウントリスト &#x200B;] を、ABWM では _および_ を作成、編集、および削除できます
-* [!UICONTROL &#x200B; アカウントリスト &#x200B;] （ABWM と TAM の両方から）は、セグメント化で使用するために [!UICONTROL Web Personalization] に同期されます
+* ABWM _および_ TAM に[!UICONTROL アカウントリスト]を作成できます。
+* TAM _および_ ABWM に[!UICONTROL アカウントリスト]を作成、編集、削除できます。
+* [!UICONTROL アカウントリスト]（ABWM と TAM の両方から）は、セグメント化の使用を目的に [!UICONTROL web パーソナライゼーション]と同期されます。
 
-   * **注**：同期には、最大で 5 分かかります。
+   * **メモ**：同期には、最大で 5 分かかります。
 
-* [!UICONTROL Web Personalization] では、ABWM と TAM の両方 [!UICONTROL &#x200B; で作成された &#x200B;] アカウントリスト _からアカウントをターゲティングするセグメントを作成し_ これらのアカウントのコンテンツをパーソナライズできます
-* CSV ファイルは、[!UICONTROL Web Personalization] アカウントのリストページでアップロードできます
+* [!UICONTROL Web パーソナライゼーション]では、ABWM と TAM の&#x200B;_両方_&#x200B;で作成した[!UICONTROL アカウントリスト]から、アカウントをターゲットにしたセグメントを作成し、そのアカウントに対してコンテンツをパーソナライズできます。
+* [!UICONTROL Web パーソナライゼーション]のアカウントリストページで、CSV ファイルをアップロードできます。

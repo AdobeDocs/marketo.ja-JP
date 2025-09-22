@@ -4,10 +4,10 @@ description: リリースノート - 2016 年春 - Marketo ドキュメント - 
 title: リリースノート - 2016 年春
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '790'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 83%
 
 ## [メールインサイト](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
 
-メールインサイトは、集計データの新しい履歴メール分析エクスペリエンスで、エンドツーエンドで再設計され、超高速パフォーマンスを実現します。 メールマーケターのニーズやワークフローに合わせて最適化された、まったく新しいユーザインターフェイスデザインが特徴です。
+メールインサイトは、過去の新しい集計データのメール分析エクスペリエンスです。迅速なパフォーマンスを実現するエンドツーエンドで再設計されました。メールマーケターのニーズやワークフローに合わせて最適化された、まったく新しいユーザインターフェイスデザインが特徴です。
 
 >[!NOTE]
 >
@@ -63,21 +63,21 @@ Marketo ユーザログインの IP 許可リストに追加する機能と同�
 
 ## [新しい高速 Microsoft Dynamics 同期コネクタ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
-新しい高速 Dynamics コネクタは、初期同期で最大 20 倍、増分同期で最大 5 倍の速度を実現します。 新規顧客はすべて、リリース日にこのコネクタにオンボーディングされます。既存顧客に対しては、夏のリリース期間中に徐々に展開されます。
+新しい高速 Dynamics コネクタは、初期同期の場合は最大 20 倍、増分同期の場合は最大 5 倍の速度を提供します。新規顧客はすべて、リリース日にこのコネクタにオンボーディングされます。既存顧客に対しては、夏のリリース期間中に徐々に展開されます。
 
-**新しいフィールドのデータを更新**：任意の時点で新しい同期フィールドを有効にでき、そのフィールドのすべてのデータ値が [!DNL Dynamics] CRM からMarketoに更新されるようになりました。 初期設定時にすべてのフィールドを選択する必要が生じる心配はなくなりました。既存の同期フィールドを無効にし、後で再度有効にすると、そのフィールドのすべてのデータ値が [!DNL Dynamics] CRM からMarketoに更新されます。
+**新しいフィールドのデータを更新**：これで、任意の時点で新しい同期フィールドを有効にできます。そのフィールドのすべてのデータ値が [!DNL Dynamics] CRM から Marketo に更新されます。初期設定時にすべてのフィールドを選択する必要が生じる心配はなくなりました。既存の同期フィールドを無効にし、後で再度有効にした場合、そのフィールドのすべてのデータ値が [!DNL Dynamics] CRM から Marketo に更新されます。
 
-**リードを連絡先として同期**: [!UICONTROL &#x200B; リードをMicrosoftに同期 &#x200B;] フローアクションには、リードまたは連絡先として同期する新しいオプションが追加されました。
+**リードを取引先責任者として同期**：「[!UICONTROL リードを Microsoft に同期]」フローアクションには、リードまたは取引先責任者として同期する新しいオプションが追加されました。
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
-**同期エラー管理タブ**：操作、方向、エラーコード、エラーメッセージなどの詳細との同期に失敗したリード（およびその他のオブジェクト）の参照、検索、書き出しをおこないます。
+**同期エラー管理タブ**：操作、方向、エラーコード、エラーメッセージなどの詳細との同期に失敗したリード（およびその他のオブジェクト）の参照、検索、書き出しを行います。
 
 ![](assets/sync-errors.png)
 
 **[!DNL Microsoft Dynamics]2016**：コネクタは、[!DNL Dynamics] 2016 [!DNL Online] および [!DNL On-premise] バージョンで完全に認定されています。
 
-**プラグインのアップデートに関するドキュメントが追加されました。**&#x200B;[プラグインの更新に関するドキュメントの記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
+**プラグインのアップデートに関するドキュメントが追加されました。**[プラグインの更新に関するドキュメントの記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
 
 ## [わかりやすいインスタンス名](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
@@ -99,4 +99,4 @@ Marketo ユーザログインの IP 許可リストに追加する機能と同�
 
 ## カスタムアクティビティ {#custom-activities}
 
-Marketo 管理者は、Marketo カスタムアクティビティ定義モデラーを使用して、カスタムアクティビティタイプを定義および管理できるようになりました。Marketo Custom Object Modeler と同様（および併用）、管理者は、ビジネスニーズに合わせてデータモデルを拡張できるようになりました。この機能の使用方法の詳細は、[Marketo ドキュメントサイト](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)にあります。
+Marketo 管理者は、Marketo カスタムアクティビティ定義モデラーを使用して、カスタムアクティビティタイプを定義および管理できるようになりました。Marketo カスタムオブジェクトモデラーと同様（および併用）、管理者は、ビジネスニーズに合わせてデータモデルを拡張できるようになりました。この機能の使用方法の詳細は、[Marketo ドキュメントサイト](/help/marketo/product-docs/administration/marketo-custom-activities/understanding-custom-activities.md)にあります。

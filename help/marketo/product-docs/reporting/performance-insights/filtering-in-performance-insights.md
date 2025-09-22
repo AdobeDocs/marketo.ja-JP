@@ -4,14 +4,14 @@ description: パフォーマンスインサイトのフィルタリング — Ma
 title: パフォーマンスインサイトのフィルタリング
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] でのフィルタリング {#filtering-in-performance-insights}
+# [!UICONTROL パフォーマンスインサイト]のフィルタリング {#filtering-in-performance-insights}
 
 データを簡単にフィルタリングして、特定の情報に対してクエリを実行します。
 
@@ -65,7 +65,7 @@ ht-degree: 90%
   </tr>
   <tr>
    <td colspan="1"><p><strong><span class="uicontrol">商談</span></strong></p></td>
-   <td colspan="1"><p>Salesforce（CRM）設定の商談オブジェクトで設定された商談タイプ。</p></td>
+   <td colspan="1"><p>Salesforce（CRM）設定の商談オブジェクトに設定された商談タイプ。</p></td>
   </tr>
   <tr>
    <td><p><strong><span class="uicontrol">プログラムタグ</span></strong></p></td>
@@ -80,4 +80,4 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->[!UICONTROL &#x200B; エンゲージメント &#x200B;] ダッシュボードでは、プログラムタグとワークスペースフィルターのみ使用できます。
+>[!UICONTROL エンゲージメント]ダッシュボードでは、プログラムタグとワークスペースフィルターのみを使用できます。

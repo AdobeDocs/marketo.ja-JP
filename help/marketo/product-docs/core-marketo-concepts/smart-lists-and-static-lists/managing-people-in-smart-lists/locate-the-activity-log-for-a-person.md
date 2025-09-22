@@ -4,7 +4,7 @@ description: リードのアクティビティログの検索 - Marketo ドキ�
 title: リードのアクティビティログの検索
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 90%
@@ -13,7 +13,7 @@ ht-degree: 90%
 
 # リードのアクティビティログの検索 {#locate-the-activity-log-for-a-person}
 
-アクティビティログは、最終的な情報の拠り所です。これは、Marketo Engageにおける個人のジャーニーの完全な物語です。
+アクティビティログは、最終的な情報の拠り所です。これは、Marketo Engageでの人物のジャーニーの完全なストーリーです。
 
 1. 「**[!UICONTROL データベース]**」に移動します。
 

@@ -4,9 +4,9 @@ title: メールオーサリング
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1742'
+source-wordcount: '1740'
 ht-degree: 5%
 
 ---
@@ -193,7 +193,7 @@ E メールデザイナーからのメールは、Design Studio で作成して�
 
 >[!TIP]
 >
->フラグメントをメール内の水平レイアウト全体に配置する場合は、1:1 列構造を追加してから、フラグメントをメール内にドラッグ&amp;ドロップします。
+>フラグメントをメール内の水平レイアウト全体に配置する場合は、:1 列構造を追加してから、フラグメントをメール内にドラッグ&amp;ドロップします。
 
 メールを保存すると、フラグメントの詳細ページの _[!UICONTROL 送信者]_ タブに表示されます。 メールテンプレートに追加されたフラグメントは、テンプレート内では編集できません。ソースフラグメントがコンテンツを定義します。
 

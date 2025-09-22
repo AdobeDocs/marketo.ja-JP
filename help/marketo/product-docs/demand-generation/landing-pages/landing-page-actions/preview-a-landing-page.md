@@ -4,8 +4,8 @@ description: ランディングページをプレビューする — Marketo ド
 title: ランディングページをプレビューする
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 100%
 

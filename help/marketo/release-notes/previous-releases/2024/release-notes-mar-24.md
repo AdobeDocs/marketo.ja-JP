@@ -3,7 +3,7 @@ description: リリースノート - 2024年3月 - Marketo ドキュメント - 
 title: リリースノート - 2024年3月
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 65%
@@ -64,4 +64,4 @@ ht-degree: 65%
 
 * **プログラムメンバー取得 API の修正**: [ プログラムメンバーを取得 ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Program-Members/operation/getProgramMembersUsingGET){target="_blank"} エンドポイントの動作を修正する変更が最近加えられました。 以前は、 `updatedAt` フィルタータイプを使用して日付範囲を指定すると、その範囲内で更新されたプログラムメンバーシップレコードが応答に含まれない可能性がありました。 また、指定した日付範囲外で更新されたプログラムメンバーシップレコードが応答に正しく含まれない可能性がありました。 両方の問題が解決されました。
 
-* **アカウント Insight ブラウザープラグインの廃止**:Adobeは、2024 年 4 月 8 日にChrome web ストアから Target アカウント管理 [ アカウント Insight ブラウザープラグイン ](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} を削除します。 既存のユーザー：Marketo Engage インスタンスをAdobe ID およびAdmin Consoleに移行するまで、プラグインを引き続き使用できます。 この変更は、Marketo Engage内の他の TAM 機能/データ **またはセールスInsightで動作するChromeおよび Outlook 電子メールプラグインに** 影響しません）。 [詳細情報](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}
+* **アカウント Insight ブラウザープラグインの廃止**:Adobeは、2024 年 4 月 8 日にChrome web ストアから Target アカウント管理 [ アカウント Insight ブラウザープラグイン ](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} を削除します。 既存のユーザー：Marketo Engage インスタンスをAdobe ID およびAdmin Consoleに移行するまで、プラグインを引き続き使用できます。 この変更は、Marketo Engage内の他の TAM 機能/データ **またはセールスInsightで動作するChromeおよび Outlook 電子メールプラグインに** 影響しません）。 [詳細情報](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}。

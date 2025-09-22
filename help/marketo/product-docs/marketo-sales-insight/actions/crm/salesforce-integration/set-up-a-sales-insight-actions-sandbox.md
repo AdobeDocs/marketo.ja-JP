@@ -2,10 +2,10 @@
 description: Sales Insight Actions サンドボックスの設定 - Marketo ドキュメント - 製品ドキュメント
 title: Sales Insight Actions サンドボックスの設定
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 1f228323c18204149630a7cb77d6ae0a88b425e3
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '671'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions は、[Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
+>Marketo セールスインサイト Actions は、[Marketo セールスインサイトパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
 Marketo サンドボックスがある場合、Actions インスタンスを、テスト目的でサンドボックスと共に使用できるようにすることができます。
 
@@ -25,7 +25,7 @@ Salesforce サンドボックスインスタンスと連携するように Actio
 >
 >詳しくは、ユーザが [Actions シートをアクティブ化](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md){target="_blank"}する方法を参照してください。また、ユーザが [Salesforce を使用して認証](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}する方法も参照してください。さらに、ユーザにメールとパスワードによる認証を行わせる場合について詳しくは、[ログイン管理の設定の記事](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}を参照してください。
 
-## Marketo サンドボックス にプロビジョニングする Actions インスタンスをリクエスト {#request=an-actions-instance}
+## Marketo サンドボックスにプロビジョニングする Actions インスタンスをリクエストします。 {#request=an-actions-instance}
 
 Marketo サンドボックスインスタンスでは、リクエストがない限り、Sales Insight Actions が有効になりません。リクエストを送信するには、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
@@ -73,7 +73,7 @@ Actions では、まず Salesforce の実稼動ユーザで新しいインスタ
 
 ## Salesforce サンドボックスとの互換性を持たせるように Actions インスタンスの変換をリクエスト {#request-your-actions-instance-be-converted}
 
-1. [Marketo Engage サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に問い合わせ、新しい Sales Insight Actions インスタンスを Salesforce サンドボックスと互換性を持たせる設定を行うようリクエストします。
+1. Marketo Engage Sandbox に対応するように新しい Sales Insight Actions インスタンスを設定するには、[Salesforce サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。
 
 1. toutapp.com/login ページの「Salesforce でログイン」ボタンを使用してログインし、すべてが正しく設定されていることをテストします。
 

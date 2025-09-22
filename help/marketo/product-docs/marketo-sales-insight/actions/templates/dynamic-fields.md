@@ -3,10 +3,10 @@ description: 動的フィールド - Marketo ドキュメント - 製品ドキ�
 title: 動的フィールド
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '535'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 60%
 
 >[!TIP]
 >
->「first_name」フィールドと「company」フィールドは、[!DNL Sales Insight Actions] と [!DNL Salesforce] の両方に参照される唯一のフィールドです。 つまり、[web アプリケーション ](https://toutapp.com/login) に連絡先が存在しない場合は、一致するメールアドレスを持つ連絡先/ リードレコードが見つかるかどうかを [!DNL Salesforce] で確認します。 その後、そのレコードの情報を使用してフィールドにデータを入力します。
+>「first_name」フィールドと「company」フィールドは、[!DNL Sales Insight Actions] と [!DNL Salesforce] の両方に表示される唯一のフィールドです。つまり、取引先責任者が [web アプリケーション](https://toutapp.com/login)に存在しない場合、[!DNL Salesforce] を調べて、一致するメールアドレスを持つ取引先責任者／リードレコードが見つかるかどうかを確認します。その後、そのレコードの情報を使用してフィールドにデータを入力します。
 
 ## テンプレートへの動的フィールドの挿入 {#insert-a-dynamic-field-into-a-template}
 
@@ -26,9 +26,9 @@ ht-degree: 60%
 
    >[!NOTE]
    >
-   >[!DNL Sales Insight Actions] に存在する連絡先にメールを送信する際に、基本的な動的フィールドを使用できます。 それらのフィールドは、取引先責任者から直接引き出されます。
+   >[!DNL Sales Insight Actions] に存在する取引先責任者にメールを送信する場合は、基本的な動的フィールドを使用できます。それらのフィールドは、取引先責任者から直接取り込まれます。
 
-[!DNL Salesforce] に存在する連絡先にメールを送信する場合は、[!DNL Salesforce] の動的フィールドを利用できます。 フィールドはすべて「sfdc」で始まります。[!DNL Salesforce] への接続がある限り、これらのフィールドはテンプレートに情報を入力するた [!DNL Salesforce] にリード/連絡先を直接呼び出します。
+[!DNL Salesforce] に存在する取引先責任者にメールを送信する場合は、[!DNL Salesforce] の動的フィールドを利用できます。フィールドはすべて「sfdc」で始まります。[!DNL Salesforce] と連携している限り、動的フィールドは [!DNL Salesforce] 内のリード／取引先責任者を直接呼び出し、テンプレートに情報を入力します。
 
 ## 件名行に動的フィールドを挿入 {#insert-dynamic-fields-in-a-subject-line}
 
@@ -48,19 +48,19 @@ ht-degree: 60%
 
 ## 動的フィールド用語集 {#dynamic-fields-glossary}
 
-[!DNL Sales Insight Actions] でテンプレートを作成する場合は、常に「**[!UICONTROL 動的フィールドを挿入]** ボタンを使用して動的フィールドを統合することをお勧めします。
+[!DNL Sales Insight Actions] でテンプレートを作成する場合は、必ず「**[!UICONTROL 動的フィールドを挿入]**」ボタンをクリックして動的フィールドを統合することを推奨します。
 
 このツールは、`auto-personalize your email` に使用されて `pulling information from the People page` によって時間を大幅に節約できます。
 
 | 動的フィールド | メールに表示される内容の例 |
 |---|---|
-| `{{company}}` | Adobe |
-| `{{company_friendly}}` | Adobe |
-| `{{first_name}}` | Keith さん |
-| `{{team_unsubscribe}}` | 私たちからのメールの受信を希望しない場合は、ここをクリックしてください |
-| `{{friendly_unsubscribe}}` | メールにはうんざりですか？ こちらにお知らせください |
-| `{{my_name}}` | キース・フリン |
-| `{{my_signature}}` | Keith Flynn （シニアテクニカルライター） – Adobe |
+| `{{company}}` | アドビ |
+| `{{company_friendly}}` | アドビ |
+| `{{first_name}}` | Keith |
+| `{{team_unsubscribe}}` | 今後当社からのメールの受信を希望しない場合は、こちらをクリックしてください |
+| `{{friendly_unsubscribe}}` | メールにうんざりしていませんか？こちらからお知らせください |
+| `{{my_name}}` | Keith Flynn |
+| `{{my_signature}}` | Keith Flynn、シニアテクニカルライター - アドビ |
 | `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | シニアテクニカルライター |
 | `{{work_website}}` | <https://www.adobe.com> |
@@ -69,9 +69,9 @@ ht-degree: 60%
 
 * 取引先責任者の情報が正しく入力されていない場合や人物ページに表示されていない場合は、情報がテンプレートに正しく取り込まれません。
 * `{{company}}` と `{{company_friendly}}` の違いは、`{{company_friendly}}` では顧客の取引先責任者の会社名から Inc.、LLC.などの正式な名称が削除されることです。
-* `{{company_friendly}}` を使用する場合、取引先責任者の詳細では必ず、Inc. または Co. をコンマで区切ってください。値を取り込む際に削除 [!DNL Sales Insight Actions] る内容を把握するには、次の方法があります。
+* `{{company_friendly}}` を使用する場合、取引先責任者の詳細では必ず、Inc. または Co. をコンマで区切ってください。これは、[!DNL Sales Insight Actions] が、値を取り込む際に削除する必要があるものを認識する方法です。
 * メールテンプレートを、`{{my_name}}` や `{{my_title}}` のような事前定義済みの属性を使用してパーソナライズできます。これらのフィールドを使用すると、メールテンプレートですばやく自己参照できます。
-* システムは、送信される各メールにユーザーの署名を自動的に追加します。 ユーザーが `{{my_signature}}` 動的フィールドを含むテンプレートを使用している場合、システムは、`{{my_signature}}` 動的フィールドが配置されている署名を入力します。 重複を避けるために追加されたものだけです。 グローバル `{{team_unsubscribe}}` 追加購読解除設定が有効になっている場合、システムは同じように処理します。
+* システムにより、送信される各メールにユーザの署名が自動的に追加されます。ユーザが `{{my_signature}}` 動的フィールドを含むテンプレートを使用している場合、`{{my_signature}}` 動的フィールドが配置されている場所に署名が入力されます。重複を避けるために、署名はその場所にのみ追加されます。グローバル追加登録解除設定が有効になっている場合、`{{team_unsubscribe}}` も同様に処理されます。
 
 >[!TIP]
 >

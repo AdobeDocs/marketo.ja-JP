@@ -3,8 +3,8 @@ unique-page-id: 12255606
 description: リリースノート - 17年冬 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 17年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
 この API は、カスタムオブジェクトを Marketo に同期する高速なインターフェイスを提供します。CSV、TSV または SSV スプレッドシートファイルは、カスタムオブジェクトとして Marketo に読み込むことができます。
 
-## [ウェブパーソナライズキャンペーンの書き出し](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [Web パーソナライゼーションキャンペーンの書き出し](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
 すべての web キャンペーンの詳細と分析を CSV 形式で書き出します。その後、データを便利なレイアウトで表示できます。
 

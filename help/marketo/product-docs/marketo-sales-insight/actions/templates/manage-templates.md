@@ -3,10 +3,10 @@ description: テンプレートの管理 - Marketo ドキュメント - 製品�
 title: テンプレートの管理
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ ht-degree: 83%
 
    ![](assets/manage-templates-3.png)
 
-1. テンプレートエディターで、メールの件名を作成し、必要なメッセージを入力します。編集ツール（フォント、テキストサイズなど）を使用して、外観をカスタマイズします。 「**[!UICONTROL 保存]**」をクリックして、変更を確定します。
+1. テンプレートエディターで、メールの件名を作成し、必要なメッセージを入力します。編集ツール（フォント、テキストサイズなど）を使用して、外観をカスタマイズします。「**[!UICONTROL 保存]**」をクリックして、変更を確定します。
 
    ![](assets/manage-templates-4.png)
 
 >[!TIP]
 >
->常に、テンプレートに直接テキストを入力するか、プレーンテキストエディター（[!DNL Notepad] や [!DNL TextEdit] など）からコピーします。 リッチテキストエディター（MS [!DNL Word] など）からコピーして貼り付けると、書式が正しく設定されない場合があります。
+>必ずテンプレートに直接テキストを入力するか、プレーンテキストエディター（[!DNL Notepad]や [!DNL TextEdit] など）からコピーするようにします。リッチテキストエディター（MS [!DNL Word] など）からコピー＆ペーストすると、書式が不揃いになる場合があります。
 
 ## テンプレートの詳細を表示 {#view-template-details}
 
@@ -42,7 +42,7 @@ ht-degree: 83%
 
 <table>
  <tr>
-  <td><strong>[!UICONTROL テンプレート &#x200B;]</strong></td>
+  <td><strong>[!UICONTROL テンプレート]</strong></td>
   <td>レビューして編集したり、条件を設定してテンプレートを推奨テンプレートにしたり、メモを追加したりできます</td>
  </tr>
  <tr>
@@ -50,11 +50,11 @@ ht-degree: 83%
   <td>テンプレートのエンゲージメント分析を確認します。フィルターを適用した検索を実行します。</td>
  </tr>
  <tr>
-  <td><strong>[!UICONTROL Emails]</strong></td>
+  <td><strong>[!UICONTROL メール]</strong></td>
   <td>このテンプレートを使用して送信されたすべてのメールを表示します。フィルターを適用した検索を実行します。</td>
  </tr>
  <tr>
-  <td><strong>[!UICONTROL キャンペーン &#x200B;]</strong></td>
+  <td><strong>[!UICONTROL キャンペーン]</strong></td>
   <td>テンプレートが使用されているキャンペーンを確認します。</td>
  </tr>
 </table>
@@ -77,9 +77,9 @@ ht-degree: 83%
 
    >[!NOTE]
    >
-   >共有されているテンプレートは、**[!UICONTROL テンプレート]** ページの左側にある [!UICONTROL &#x200B; チームテンプレート &#x200B;] ヘッダーに表示されます。 チームは、Premium ユーザのみが使用できます。
+   >共有されているテンプレートは、[!UICONTROL テンプレート]ページの左側にある&#x200B;**[!UICONTROL チームテンプレート]**&#x200B;ヘッダーの下に表示されます。チームは、Premium ユーザのみが使用できます。
 
-1. [!UICONTROL &#x200B; 共有先 &#x200B;] ドロップダウンをクリックして、共有するチームを選択します。
+1. [!UICONTROL 共有するチーム]ドロップダウンをクリックし、共有するチームを選択します。
 
    ![](assets/manage-templates-8.png)
 

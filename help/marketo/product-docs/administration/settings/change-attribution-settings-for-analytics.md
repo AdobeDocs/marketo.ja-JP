@@ -4,7 +4,7 @@ description: 分析用属性設定の変更 - Marketo ドキュメント - 製�
 title: 分析用属性設定の変更
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 
-1. 「**[!UICONTROL 収益サイクルアナリティクス]**」をクリックします。
+1. 「**[!UICONTROL 収益サイクル分析]**」をクリックします。
 
    ![](assets/change-attribution-settings-for-analytics-2.png)
 

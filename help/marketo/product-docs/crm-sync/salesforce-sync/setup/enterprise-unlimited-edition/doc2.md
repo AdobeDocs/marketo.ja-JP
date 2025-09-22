@@ -4,10 +4,10 @@ title: 手順 2/3 - MarketoのSalesforce ユーザーを作成する（Enterpris
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 57%
+ht-degree: 61%
 
 ---
 
@@ -123,7 +123,7 @@ ht-degree: 57%
 
 >[!TIP]
 >
->専用のSalesforce アカウント（`marketo@yourcompany.com` など）を作成して、Marketoによる変更を他のSalesforce ユーザーと区別します。
+>Marketo が加えた変更と他の Salesforce ユーザが加えた変更を区別できるように、専用の Salesforce アカウント（`marketo@yourcompany.com` など）を作成します。
 
 1. ナビゲーションの検索バーに「ユーザーの管理」と入力し、「ユーザー」をクリックします。 「新規ユーザー」をクリックします。
 

@@ -3,7 +3,7 @@ description: クラシックアイコン用語集 - Marketo ドキュメント -
 title: クラシックアイコン用語集
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '563'
 ht-degree: 96%
@@ -210,7 +210,7 @@ Marketo Classic インターフェイスの古いアイコンを以下に示し�
   <tr>
    <td><img src="assets/image2015-1-9-9-3a39-3a28.png">
     </td>
-   <td>売上高サイクル分析</td>
+   <td>収益サイクル分析</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-19-3a20-3a47.png">

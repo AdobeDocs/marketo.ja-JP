@@ -4,10 +4,10 @@ description: クイックアクションを使用したワークフローのス�
 title: クイックアクションを使用したワークフローのスピードアップ
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '330'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,11 +35,11 @@ ht-degree: 96%
  </colgroup>
  <tbody>
   <tr>
-   <td>[!UICONTROL アーカイブ解除 &#x200B;]</td>
-   <td>メールを配信されたフォルダーに戻し、表示およびクリックの追跡を再開します。</td>
+   <td>[!UICONTROL アーカイブ解除]</td>
+   <td>メールを配信済みフォルダーに戻し、表示およびクリックの追跡を再開します。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 削除 &#x200B;]</td>
+   <td>[!UICONTROL 削除]</td>
    <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td>
   </tr>
  </tbody>
@@ -54,11 +54,11 @@ ht-degree: 96%
  </colgroup>
  <tbody>
   <tr>
-   <td>[!UICONTROL 編集 &#x200B;]</td>
+   <td>[!UICONTROL 編集]</td>
    <td>編集する作成ウィンドウでメールを開きます。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 削除 &#x200B;]</td>
+   <td>[!UICONTROL 削除]</td>
    <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td>
   </tr>
  </tbody>
@@ -73,11 +73,11 @@ ht-degree: 96%
  </colgroup>
  <tbody>
   <tr>
-   <td>[!UICONTROL 再試行送信 &#x200B;]</td>
+   <td>[!UICONTROL 再試行送信]</td>
    <td>即座にメールの再送信を試みます。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 削除 &#x200B;]</td>
+   <td>[!UICONTROL 削除]</td>
    <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td>
   </tr>
  </tbody>
@@ -92,4 +92,4 @@ ht-degree: 96%
 | フォローアップメールを送信 | 選択したインラインメール本文が追加され、受信者への送信準備が整った状態で、作成ウィンドウを開きます。 |
 | 電話をかける | セールス電話を開いて、メール受信者に電話をかけます。 |
 | inMail を送信 | LinkedIn にリダイレクトして、その人物に InMail メッセージを送信します。 |
-| タスクを作成する | リマインダータスクを作成するための作成タスクポップアップを開きます。 |
+| タスクの作成 | リマインダータスクを作成するための作成タスクポップアップを開きます。 |

@@ -4,16 +4,16 @@ description: Marketo を Dynamics と同期するための必須フィールド 
 title: Marketo と Dynamics を同期するための必須フィールド
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
-# Marketoと [!DNL Dynamics] を同期するための必須フィールド {#required-fields-for-syncing-marketo-with-dynamics}
+# Marketo と [!DNL Dynamics] を同期する必須フィールド {#required-fields-for-syncing-marketo-with-dynamics}
 
-これらのフィールド *必須* は、[!UICONTROL &#x200B; が機能するために &#x200B;] リード [!UICONTROL &#x200B; と &#x200B;] 連絡先 [!DNL Sales Insight] の両方でMarketoと同期される必要があります。
+[!DNL Sales Insight] で[!UICONTROL リード]と[!UICONTROL 取引先責任者]の両方を機能させるには、次のフィールドを Marketo と同期する&#x200B;*必要があります*。
 
 * 優先度
 * 緊急度
@@ -23,27 +23,27 @@ ht-degree: 61%
 
 同期フィールドを確認して追加する方法を次に示します。
 
-1. [!UICONTROL &#x200B; 管理者 &#x200B;] に移動して、**[!UICONTROL Microsoft Dynamics]** をクリックします。
+1. 「[!UICONTROL 管理者]」に移動し、「**[!UICONTROL Microsoft Dynamics]**」をクリックします。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. **[!UICONTROL フィールド同期の詳細]** で [!UICONTROL &#x200B; 編集 &#x200B;] をクリックします。
+1. 「[!UICONTROL フィールド同期の詳細]」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. [!UICONTROL &#x200B; リード &#x200B;] で「[!UICONTROL &#x200B; 優先度 &#x200B;]」チェックボックスをオンにします。
+1. 「[!UICONTROL リード]」で「[!UICONTROL 優先度]」チェックボックスをオンにします。
 
    ![](assets/image2016-6-8-13-3a33-3a50.png)
 
-1. 下にスクロールして、「緊急度 [!UICONTROL &#x200B; チェックボックスをオン &#x200B;] します。
+1. 下にスクロールし、「[!UICONTROL 緊急度]」チェックボックスをオンにして...
 
    ![](assets/image2016-6-8-13-3a35-3a22.png)
 
-1. 「。..相対的なスコア [!UICONTROL &#x200B; チェックボックス &#x200B;] 選択します。
+1. ...「[!UICONTROL 相対スコア]」チェックボックスもオンにします。
 
    ![](assets/image2016-6-8-13-3a36-3a1.png)
 
-1. 次に、「連絡先 [!UICONTROL &#x200B; の「優先度 &#x200B;]」、「[!UICONTROL &#x200B; 緊急度 &#x200B;]」、「[!UICONTROL &#x200B; 相対的なスコア &#x200B;] のチェックボックスをオン  します。
+1. 次に、[!UICONTROL 取引先責任者]の「[!UICONTROL 優先度]」、「[!UICONTROL 緊急度]」、「[!UICONTROL 相対スコア]」のチェックボックスをオンにします。
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 

@@ -3,10 +3,10 @@ description: キャンペーンの実行 - Marketo ドキュメント - 製品�
 title: キャンペーンの実行
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '706'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -89,7 +89,7 @@ True に設定した場合、次のトークンコンテキストが子キャン
 
 ### 例 1 - True {#example-one-true}
 
-最初の親キャンペーンのキャンペーンフローを実行手順で、「[!UICONTROL &#x200B; 親キャンペーントークンコンテキストを使用 &#x200B;]」が **[!UICONTROL True]** に設定されています。
+最初の親キャンペーンの実行キャンペーンフローステップで、「[!UICONTROL 親キャンペーントークンコンテキストを使用する]」が **[!UICONTROL True]** に設定されています。
 
 ![](assets/execute-campaign-5.png)
 

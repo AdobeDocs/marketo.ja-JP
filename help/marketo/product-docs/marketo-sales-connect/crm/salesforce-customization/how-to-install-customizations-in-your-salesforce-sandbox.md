@@ -4,10 +4,10 @@ description: Salesforce サンドボックスにカスタマイズ機能をイ�
 title: Salesforce サンドボックスにカスタマイズ機能をインストールする方法
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 55%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 55%
 
    ![](assets/one-3.png)
 
-1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、**[!UICONTROL Salesforce]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」で「**[!UICONTROL Salesforce]**」をクリックします。
 
    ![](assets/two-3.png)
 
@@ -33,4 +33,4 @@ ht-degree: 55%
 
    ![](assets/three-3.png)
 
-   次に、通常の [!DNL Salesforce] アカウントの場合と同様に、カスタマイズをインストールする手順を実行します。
+   次に、通常の [!DNL Salesforce] アカウントと同様に、カスタマイズ機能をインストールする手順を実行します。

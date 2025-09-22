@@ -4,8 +4,8 @@ description: リリースノート - 2015 年 1 月 - Marketo ドキュメント
 title: リリースノート - 2015 年 1 月
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 2015 年 1 月リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
 
-## マーケティング自動処理の更新 {#marketing-automation-updates}
+## マーケティングオートメーションの更新 {#marketing-automation-updates}
 
 **モバイル対応のランディングページ**
 

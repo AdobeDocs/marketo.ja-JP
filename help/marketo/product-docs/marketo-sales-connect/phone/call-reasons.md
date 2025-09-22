@@ -3,10 +3,10 @@ description: 通話理由 - Marketo ドキュメント - 製品ドキュメン�
 title: 通話理由
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 89%
 
    ![](assets/call-reasons-1.png)
 
-1. [!UICONTROL Admin Settings] で **[!UICONTROL Dialer]** を選択します。
+1. 「[!UICONTROL 管理者設定]」で「**[!UICONTROL ダイヤラー]**」を選択します。
 
    ![](assets/call-reasons-2.png)
 
@@ -46,11 +46,11 @@ ht-degree: 89%
 
    ![](assets/call-reasons-5.png)
 
-1. [!UICONTROL Admin Settings] で **[!UICONTROL Dialer]** を選択します。
+1. 「[!UICONTROL 管理者設定]」で「**[!UICONTROL ダイヤラー]**」を選択します。
 
    ![](assets/call-reasons-6.png)
 
-1. **[!UICONTROL 通話理由の管理]** をクリックします。
+1. 「**[!UICONTROL 通話理由を管理]**」をクリックします。
 
    ![](assets/call-reasons-7.png)
 

@@ -3,16 +3,16 @@ description: 「コンテンツ」タブについて - Marketo ドキュメン�
 title: 「コンテンツ」タブについて
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# 「[!UICONTROL &#x200B; コンテンツ &#x200B;] タブについて {#understanding-the-content-tab}
+# 「[!UICONTROL コンテンツ]」タブについて {#understanding-the-content-tab}
 
-[!UICONTROL &#x200B; コンテンツ &#x200B;] タブは、テンプレートを使用する際のチームのメールエンゲージメントに関するものです。 重要だと思われる 3 つの指標を自動的にバブル表示します。
+「[!UICONTROL コンテンツ]」タブは、テンプレートを使用する際のチームのメールエンゲージメントに関するものです。重要だと思われる 3 つの指標を自動的にバブル表示します。
 
 ## 秘密兵器 {#secret-weapon}
 

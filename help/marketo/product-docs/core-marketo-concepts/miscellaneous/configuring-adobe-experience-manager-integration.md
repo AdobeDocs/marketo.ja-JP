@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -35,11 +35,11 @@ Adobe Experience Manager（AEM）を設定し、AEM のアセットにアクセ�
 
    ![](assets/two.png)
 
-1. **[!UICONTROL ツール]**&#x200B;で「**[!UICONTROL 運用]**」を選択し、「**[!UICONTROL Web コンソール]**」を選択します。
+1. 「**[!UICONTROL ツール]**」で、「**[!UICONTROL 運用]**」をクリックし、「**[!UICONTROL web コンソール]**」を選択します。
 
    ![](assets/2a.png)
 
-1. ブラウザーで、「[!UICONTROL Adobe Granite クロスオリジンリソース共有ポリシー &#x200B;]」を検索します（Windows の場合は ctrl+f、Macの場合は cmd+f）。
+1. ブラウザーで、「[!UICONTROL Adobe Granite クロスオリジンリソース共有ポリシー]」を検索します（Windows では Ctrl + F キー、Mac では Cmd + F キー）。
 
    ![](assets/three.png)
 

@@ -3,16 +3,16 @@ description: Sales Insight Actions での注目のアクション - Marketo ド�
 title: Sales Insight Actions での注目のアクション
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
-# 注目のアクション（[!DNL Sales Insight Actions]） {#interesting-moments-in-sales-insight-actions}
+# [!DNL Sales Insight Actions] での注目のアクション {#interesting-moments-in-sales-insight-actions}
 
-興味深い瞬間は、[!DNL Marketo Sales Insight Actions] を通じてセールスチームとコミュニケーションを取るための鍵です。
+注目のアクションは、[!DNL Marketo Sales Insight Actions] を通じてセールスチームとコミュニケーションを取る鍵となります。
 
 ## 注目のアクションとは何でしょうか。 {#what-is-an-interesting-moment}
 
@@ -50,8 +50,8 @@ ht-degree: 81%
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 
-## [!DNL Sales Insight Actions] で興味深い瞬間は何に見えますか？ {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+## 注目のアクションは、[!DNL Sales Insight Actions] でどのように表示されるか {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。リードの所有者 ID を使用して、関連するリードの中で自分が所有者であ [!DNL Salesforce] ユーザーの興味深い瞬間を表示します。 リード名の横にあるドロップダウンをクリックすると、電子メール、電話、販売キャンペーンでリードを素早くフォローアップできます。
+注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。[!DNL Salesforce] のリード所有者 ID を利用して、ユーザが所有する関連リードの注目のアクションを表示します。リード名の横にあるドロップダウンをクリックすると、メール、電話、セールスキャンペーンでリードを素早くフォローアップできます。
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)

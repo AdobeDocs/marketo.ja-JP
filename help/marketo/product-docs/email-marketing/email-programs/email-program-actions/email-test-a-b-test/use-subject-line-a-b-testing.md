@@ -4,10 +4,10 @@ description: 「件名ライン」A/B テストを使用する — Marketo ド�
 title: 「件名ライン」A/B テストを使用する
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 94%
 >
 >[A/B テストの追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. **[!UICONTROL メールタイル]** の下で、メールを選択した状態で **[!UICONTROL A/B テストを追加]** をクリックします。
+1. 「**[!UICONTROL メール]**」タイルで、目的のメールを選択して「**[!UICONTROL A/B テストの追加]**」をクリックします。
 
 ![](assets/image2014-9-12-15-3a6-3a2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 94%
    >
    >「**+**」をクリックすると、件名ラインを追加できます。
 
-1. A/B テストを送信したい対象ユーザーの割合をスライダーで選択して、「**[!UICONTROL 次へ]**」をクリックします。
+1. A/B テストを送信したいオーディエンスの割合をスライダーで選択して、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2014-9-12-15-3a10-3a4.png)
 

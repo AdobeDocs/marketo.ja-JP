@@ -3,18 +3,18 @@ description: 推奨テンプレート - Marketo ドキュメント - 製品ド�
 title: 推奨テンプレート
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
 # 推奨テンプレート {#recommended-templates}
 
-[!DNL Sales Insight Action] の推奨テンプレートは、時間を節約しながら適切なメッセージを得るのに役立ちます。 これにより、メールを送信する際のフローが良くなり、適切な人物に適切なメールを見つけようとする際の不確実性が軽減されます。
+[!DNL Sales Insight Action] の推奨テンプレートは、時間を節約しながら適切なメッセージを伝えるのに役立ちます。これにより、メールを送信する際のフローが良くなり、適切な人物に適切なメールを見つけようとする際の不確実性が軽減されます。
 
-1. **[!UICONTROL テンプレート]** タブに移動します。
+1. 「**[!UICONTROL テンプレート]**」タブに移動します。
 
    ![](assets/recommended-templates-1.png)
 
@@ -22,7 +22,7 @@ ht-degree: 91%
 
    ![](assets/recommended-templates-2.png)
 
-1. [!UICONTROL &#x200B; 推奨テンプレート &#x200B;] カードで、「**[!UICONTROL 編集]**」をクリックします。
+1. [!UICONTROL 推奨テンプレート]カードで、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/recommended-templates-3.png)
 

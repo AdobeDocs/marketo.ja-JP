@@ -3,10 +3,10 @@ description: 権限 - Marketo ドキュメント - 製品ドキュメント
 title: 権限
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '712'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -16,7 +16,7 @@ Dynamic Chat では、定義済み権限を持つ 5 つのデフォルトプロ�
 
 ## 既存の権限の編集 {#edit-existing-permissions}
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"} で、「**Dynamic Chat**」をクリックします。
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"} で、**Dynamic Chat** をクリックします。
 
    ![](assets/permissions-1.png)
 
@@ -50,7 +50,7 @@ Dynamic Chat では、定義済み権限を持つ 5 つのデフォルトプロ�
 
 ## プロファイルの作成 {#create-a-profile}
 
-1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"} で、「**Dynamic Chat**」をクリックします。
+1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"} で、**Dynamic Chat** をクリックします。
 
    ![](assets/permissions-8.png)
 

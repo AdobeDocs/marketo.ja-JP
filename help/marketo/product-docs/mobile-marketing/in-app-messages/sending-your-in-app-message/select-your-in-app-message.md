@@ -4,10 +4,10 @@ description: アプリ内メッセージの選択 - Marketo ドキュメント -
 title: アプリ内メッセージの選択
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -29,6 +29,6 @@ ht-degree: 82%
 
    >[!TIP]
    >
-   >別のメッセージを選択するには、「[!UICONTROL &#x200B; アプリ内メッセージ &#x200B;]」フィールドで削除します。 次に、「[!UICONTROL &#x200B; 新しいアプリ内メッセージ &#x200B;] リンクが表示されます。 それをクリックし、別のメッセージを選択します。
+   >別のメッセージを選択するには、「[!UICONTROL アプリ内メッセージ]」フィールドで削除します。次に、[!UICONTROL 新しいアプリ内メッセージ]リンクが戻ります。それをクリックし、別のメッセージを選択します。
 
 その調子です。次に、[送信のスケジュールを設定](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/schedule-your-in-app-message.md)します。

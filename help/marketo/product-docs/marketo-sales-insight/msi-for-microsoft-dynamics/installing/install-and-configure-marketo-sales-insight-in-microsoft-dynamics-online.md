@@ -1,27 +1,27 @@
 ---
 unique-page-id: 37355602
-description: Marketo Sales Insight の Microsoft Dynamics Online へのインストールおよび設定 - Marketo ドキュメント - 製品ドキュメント
-title: Marketo Sales Insight の Microsoft Dynamics Online へのインストールおよび設定
+description: Marketo セールスインサイトの Microsoft Dynamics Online へのインストールおよび設定 - Marketo ドキュメント - 製品ドキュメント
+title: Marketo セールスインサイトの Microsoft Dynamics Online へのインストールおよび設定
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '459'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
-# [!DNL Marketo Sales Insight] での [!DNL Microsoft Dynamics Online] のインストールと設定 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
+# [!DNL Microsoft Dynamics Online] での [!DNL Marketo Sales Insight] のインストールと設定 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
 
-[!DNL Marketo Sales Insight] は、マーケティングチームが持つ豊富なデータに対する「窓口」をセールスチームに提供するための素晴らしいツールです。 [!DNL Microsoft Dynamics Online] でインストールおよび設定する方法を次に示します。
+[!DNL Marketo Sales Insight] は、マーケティングチームが持つ豊富なデータをセールスチームに「窓」として提供する素晴らしいツールです。[!DNL Microsoft Dynamics Online] にインストールし、設定する方法は以下のとおりです。
 
 >[!PREREQUISITES]
 >
 >Marketo と Microsoft の統合を完了します。
 >
->お使いのバージョンの [ に合った ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 正しいソリューションをダウンロード [!DNL Microsoft Dynamics CRM] してください。
+>お使いのバージョンの [!DNL Microsoft Dynamics CRM] に[適したソリューションをダウンロードします](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。
 
-## ソリューションのインポート {#import-solution}
+## ソリューションの読み込み {#import-solution}
 
 >[!NOTE]
 >
@@ -77,11 +77,11 @@ ht-degree: 67%
 
    >[!NOTE]
    >
-   >必ずグローバル [!DNL MS Dynamics] 同期を有効にします。
+   >必ずグローバル [!DNL MS Dynamics] 同期を有効にしてください。
 
-## Marketoと [!DNL Sales Insight] の接続 {#connect-marketo-and-sales-insight}
+## Marketo と [!DNL Sales Insight] の接続 {#connect-marketo-and-sales-insight}
 
-Marketo インスタンスを [!DNL Sales Insight] で [!DNL Dynamics] に関連付けましょう。 手順は次のとおりです。
+Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連付けましょう。手順は次のとおりです。
 
 >[!NOTE]
 >
@@ -105,7 +105,7 @@ Marketo インスタンスを [!DNL Sales Insight] で [!DNL Dynamics] に関連
 
    >[!NOTE]
    >
-   >_が機能するには、次のフィールドをMarketoと同期する必要があります_ リードと連絡先の両方 [!DNL Sales Insight]。
+   >[!DNL Sales Insight] を機能させるには、_リードと取引先責任者の両方_&#x200B;で、次のフィールドを Marketo と同期する必要があります。
    >
    >* 優先度
    >* 緊急度
@@ -113,7 +113,7 @@ Marketo インスタンスを [!DNL Sales Insight] で [!DNL Dynamics] に関連
    >
    >これらのフィールドのいずれかが見つからない場合は、見つからないフィールドの名前のエラーメッセージが Marketo に表示されます。これを修正するには、[この手順](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
 
-1. [!DNL Microsoft Dynamics] に戻り、**[!UICONTROL 設定]** に移動します。
+1. [!DNL Microsoft Dynamics] に戻り、「**[!UICONTROL 設定]**」に移動します。
 
    ![](assets/image2014-12-12-9-3a7-3a25-1.png)
 
@@ -143,17 +143,17 @@ Marketo インスタンスを [!DNL Sales Insight] で [!DNL Dynamics] に関連
 
    ![](assets/enable-three.png)
 
-1. **[!UICONTROL フィールド同期の詳細]** の横にある [!UICONTROL &#x200B; 編集 &#x200B;] をクリックします。
+1. 「[!UICONTROL フィールド同期の詳細]」の横にある「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/enable-four.png)
 
-1. これにより _自動的に_、以前に無効にした MSI フィールド（[!UICONTROL &#x200B; 緊急度 &#x200B;]、[!UICONTROL &#x200B; 相対スコア &#x200B;]、および [!UICONTROL &#x200B; 優先度 &#x200B;]）が選択されます。 「**[!UICONTROL 保存]**」をクリックして、データの同期を開始します。
+1. これにより、以前に無効にした MSI フィールド（[!UICONTROL 緊急度]、[!UICONTROL 相対スコア]、[!UICONTROL 優先度]）が&#x200B;_自動的_&#x200B;に選択されます。「**[!UICONTROL 保存]**」をクリックして、データの同期を開始します。
 
    ![](assets/enable-five.png)
 
-## ユーザーアクセスの設定 {#set-user-access}
+## ユーザアクセスの設定 {#set-user-access}
 
-最後に、特定のユーザーに [!DNL Marketo Sales Insight] を使用するためのアクセス権を付与する必要があります。
+最後に、[!DNL Marketo Sales Insight] を使用するには、特定のユーザにアクセス権を付与する必要があります。
 
 1. 「**[!UICONTROL 設定]**」に移動します。
 
@@ -163,22 +163,22 @@ Marketo インスタンスを [!DNL Sales Insight] で [!DNL Dynamics] に関連
 
    ![](assets/image2015-4-29-14-3a56-3a33-1.png)
 
-1. 「**[!UICONTROL ユーザー]**」をクリックします。
+1. 「**[!UICONTROL ユーザ]**」をクリックします。
 
    ![](assets/image2015-4-29-14-3a57-3a46-1.png)
 
-1. アクセス権を付与するユーザーを選択し、「[!DNL Sales Insight] 役割 **[!UICONTROL 管理]**」をクリックします。
+1. [!DNL Sales Insight] へのアクセス権を付与するユーザを選択し、「**[!UICONTROL ロールを管理]**」をクリックします。
 
    ![](assets/image2015-4-29-14-3a59-3a31-1.png)
 
-1. [!DNL Marketo Sales Insight] の役割を選択して、「**[!UICONTROL OK]**」をクリックします。
+1. [!DNL Marketo Sales Insight] ロールを選択して、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a9-3a22-1.png)
 
-   これですべて完了です。最後に、テストするには、[!DNL Dynamics] へのアクセス権を持つユーザーとして [!DNL Marketo Sales Insight] にログインし、リードまたは連絡先を確認します。
+   これですべて完了です。最後に、[!DNL Marketo Sales Insight] にアクセスし、リードや取引先責任者を調べるユーザとして [!DNL Dynamics] にログインし、テストを実施します。
 
    ![](assets/image2015-4-29-15-3a2-3a27-1.png)
 
 >[!MORELIKETHIS]
 >
->[リード／連絡先レコードの星と炎の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[リード／取引先責任者レコードの星と炎の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

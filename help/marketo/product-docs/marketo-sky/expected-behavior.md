@@ -4,25 +4,25 @@ title: 予想される動作
 hide: true
 hidefromtoc: true
 exl-id: d19130cf-186e-4aad-be32-6aad18c9d08b
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
 # 予想される動作 {#expected-behavior}
 
-この記事では、[!UICONTROL Predictive Audiences] （PA）に関連する期待される動作に関する情報を確認します。
+この記事では、[!UICONTROL 予測オーディエンス]（PA）に関連する予想される動作についての情報を紹介します。
 
 ## データとプライバシーに関する考慮事項
 
 * AI／ML モデルに必要なデータ処理はすべて、北米で実行されます。
 * AI／ML モデルでは、姓名、性別、メール、取引先責任者番号など、特定のリード情報は使用しません。モデルは、ファーモグラフィックとアクティビティログから派生した一般的な属性のみを利用します。
 
-**[!UICONTROL Predictive Audiences] の場合は、次の動作が予想されます**
+**[!UICONTROL 予測オーディエンス]の場合、次の動作が予想されます**
 
-* PA には、[!DNL Marketo Sky] と [!DNL Marketo Classic] の両方のエクスペリエンスでアクセスできます。 特定の機能の可用性を次に示します。
+* PA には、[!DNL Marketo Sky] と [!DNL Marketo Classic] の両方のエクスペリエンスでアクセスできます。特定の機能の可用性を次に示します。
    * 予測フィルター - [!DNL Sky/Classic]
    * 予測登録 - [!DNL Sky/Classic]
    * リードレベルの可能性予測 - [!DNL Sky/Classic]

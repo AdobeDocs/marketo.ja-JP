@@ -3,20 +3,20 @@ description: コマンドセンターの概要 - Marketo ドキュメント - �
 title: コマンドセンターの概要
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '498'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 # コマンドセンターの概要 {#command-center-overview}
 
-[!UICONTROL &#x200B; コマンドセンター &#x200B;] は、次のステップを把握するのに役立つ単一の統一ビューであり、何も亀裂から落ちないようにすることができます。
+[!UICONTROL コマンドセンター]は単一の統合ビューで、何も抜け落ちがないように確認しながら、次のステップを考え出すのに役立ちます。
 
 ## メールの管理 {#manage-emails}
 
-[!UICONTROL &#x200B; コマンドセンター &#x200B;] の「メール」セクションでは、メールアクティビティをすべて管理できます。 [!DNL Sales Connect] から送信されたメールを確認するには、メールのアウトボックスと考えてください。 スケジュールされたメールの管理、メールに関心を寄せている人の確認、メールの配信に問題があるかどうかの確認などを行います。
+[!UICONTROL コマンドセンター]のメールセクションでは、すべてのメールアクティビティを管理できます。[!DNL Sales Connect] から送信されたメールを確認するためのメール送信ボックスと考えてください。スケジュールされたメールの管理、メールに関心を寄せている人の確認、メールの配信に問題があるかどうかの確認などを行います。
 
 ![](assets/command-center-overview-1.png)
 
@@ -29,41 +29,41 @@ ht-degree: 84%
   <th>説明</th>
  </tr>
  <tr>
-  <th rowspan="2">[!UICONTROL 送信 &#x200B;]</th>
-  <td>[!UICONTROL 配信済み &#x200B;]</td>
+  <th rowspan="2">[!UICONTROL 送信済み]</th>
+  <td>[!UICONTROL 配信済み]</td>
   <td>受信者に配信されたメール。</td>
  </tr>
  <tr>
-  <td>[!UICONTROL がアーカイブされました &#x200B;]</td>
-  <td>メールトラッキングを無効にするためにユーザがアーカイブしたメール。</td>
+  <td>[!UICONTROL アーカイブ済み]</td>
+  <td>メールのトラッキングを無効にするためにユーザがアーカイブしたメール。</td>
  </tr>
  <tr>
-  <th rowspan="3">[!UICONTROL 保留中 &#x200B;]</th>
-  <td>[!UICONTROL がスケジュール済み &#x200B;]</td>
+  <th rowspan="3">[!UICONTROL 保留中]</th>
+  <td>[!UICONTROL スケジュール済み]</td>
   <td>現在配信がスケジュールされているメール。メールが送信されると、配信済みフォルダーに移動します。</td>
  </tr>
  <tr>
-  <td>[!UICONTROL ドラフト &#x200B;]</td>
+  <td>[!UICONTROL ドラフト]</td>
   <td>下書きとして保存されたメール。<br/>
 <strong>注意：</strong>下書きとして保存できるメールは 1 つだけです。一括メール（「メールを選択して送信」と「メールをグループ化」）は下書きとして保存されません。</td>
  </tr>
  <tr>
-  <td>[!UICONTROL In] を実行中</td>
+  <td>[!UICONTROL 進行中]</td>
   <td>これは、送信モーション中にメールが処理される中間の状態を示します。メールが処理中であるのは、わずかの間です。</td>
  </tr>
  <tr>
-  <th rowspan="3">[!UICONTROL 未配信 &#x200B;]</th>
-  <td>[!UICONTROL が失敗しました &#x200B;]</td>
+  <th rowspan="3">[!UICONTROL 未配信]</th>
+  <td>[!UICONTROL 失敗]</td>
   <td>配信に失敗したメール。
 </td>
  </tr>
  <tr>
-  <td>[!UICONTROL バウンス &#x200B;]</td>
+  <td>[!UICONTROL バウンス済み]</td>
   <td>受信者のメールサーバーから拒否されたメール。<br/>
 <strong>注意：</strong>これは、従来の ToutApp ユーザで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</td>
  </tr>
  <tr>
-  <td>[!UICONTROL スパム &#x200B;]</td>
+  <td>[!UICONTROL スパム]</td>
   <td>受信者によって手動でスパムとマークされたメール。<br/>
 <strong>注意：</strong>これは、従来の ToutApp ユーザで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</td>
  </tr>

@@ -4,8 +4,8 @@ description: アカウントでパーソナライズ URL を有効にする - Ma
 title: アカウントでパーソナライズ URL を有効にする
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 100%
 

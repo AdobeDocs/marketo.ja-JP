@@ -4,10 +4,10 @@ description: Web キャンペーンにフォームを埋め込む — Marketo �
 title: Web キャンペーンにフォームを埋め込む
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Web キャンペーン（ダイアログ、ゾーン内、ウィジェット）�
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. [!DNL Web Personalization] では、**[!UICONTROL Web キャンペーン]** に移動します。
+1. [!DNL Web Personalization] で、「**[!UICONTROL web キャンペーン]**」に移動します。
 
    ![](assets/web-campaigns-hand-7.jpg)
 
@@ -35,7 +35,7 @@ Web キャンペーン（ダイアログ、ゾーン内、ウィジェット）�
 
    ![](assets/five-1.png)
 
-1. フォーム埋め込みコードを [!UICONTROL HTML Source Editor] に貼り付けます。 「**[!UICONTROL 更新]**」をクリックします。
+1. フォーム埋め込みコードを [!UICONTROL HTML ソースエディター]にペーストします。「**[!UICONTROL 更新]**」をクリックします。
 
    ![](assets/six-1.png)
 
@@ -73,7 +73,7 @@ Web キャンペーン（ダイアログ、ゾーン内、ウィジェット）�
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. フォーム埋め込みコードと背景スタイルコードを、[!UICONTROL HTML Source Editor] に貼り付けます。 「**[!UICONTROL 更新]**」をクリックします。
+1. フォーム埋め込みコードを背景スタイルコードと共に [!UICONTROL HTML ソースエディター]にペーストします。「**[!UICONTROL 更新]**」をクリックします。
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 

@@ -4,10 +4,10 @@ description: 収益モデル SLA ステージの使用 - Marketo ドキュメン
 title: 収益モデル SLA ステージの使用
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ SLA とは、「サービスレベル契約」の略です。これらのステ�
 
 ## SLA ステージの追加 {#add-an-sla-stage}
 
-1. 新しい収益サイクルモデルSLAのステージを追加するには、**[!UICONTROL My Marketo]** ホーム画面の [!UICONTROL Analytics] ボタンをクリックします。
+1. 収益サイクルモデルの SLA ステージを追加するには、[!UICONTROL My Marketo ]ホーム画面の「**[!UICONTROL 分析]**」ボタンをクリックします。
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
@@ -43,7 +43,7 @@ SLA とは、「サービスレベル契約」の略です。これらのステ�
 
 ## SLA ステージの編集 {#edit-an-sla-stage}
 
-SLAステージアイコンを選択したら、「**[!UICONTROL 名前]**」を編集し、「**[!UICONTROL 説明]**」を追加して、「**[!UICONTROL タイプ]**」を変更します。 また、「[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)」を選択することもできます。
+SLA ステージアイコンを選択すると、**[!UICONTROL 名前]**&#x200B;を編集し、**[!UICONTROL 説明]**&#x200B;を追加して、**[!UICONTROL タイプ]**&#x200B;を調整できます。また、「[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)」を選択することもできます。
 
 1. SLA ステージアイコンをクリックします。
 
@@ -63,6 +63,6 @@ SLAステージアイコンを選択したら、「**[!UICONTROL 名前]**」を
 
    ![](assets/image2015-4-27-16-3a2-3a47.png)
 
-1. ステージをクリックして削除し、「**[!UICONTROL ステージアクション]**」ドロップダウンで「**[!UICONTROL 削除]**」を選択することもできます。
+1. また、ステージをクリックし、**[!UICONTROL ステージのアクション]**&#x200B;ドロップダウンで「**[!UICONTROL 削除]**」を選択して、ステージを削除することもできます。
 
    ![](assets/image2015-4-27-17-3a20-3a41.png)

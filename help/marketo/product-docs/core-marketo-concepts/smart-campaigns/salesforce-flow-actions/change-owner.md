@@ -4,10 +4,10 @@ description: 所有者の変更 - Marketo ドキュメント - 製品ドキュ�
 title: 所有者の変更
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 80%
 
 ![](assets/change-owner-1.png)
 
-1. 変更したい所有者もしくはリードのキューを選択します。
+1. 変更する所有者もしくはリードのキューを選択します。
 
    ![](assets/change-owner-2.png)
 
    >[!CAUTION]
    >
-   >[!DNL Salesforce] では、連絡先をリードキューに割り当てることはできません。 SFDC 取引先責任者のレコードの場合：
+   >[!DNL Salesforce] では取引先責任者をリードのキューに割り当てることはできません。SFDC 取引先責任者のレコードの場合：
    >
    >* Marketo は、取引先責任者が Salesforce に同期された&#x200B;**場合のみ**、リードを重複して作成します。つまり、**[リードを SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)**&#x200B;フローステップを `AssignTo=<a lead queue>` と共に使用すると、Marketo は Salesforce で重複したリードを作成し、リードキューに割り当てます。
    >
@@ -31,4 +31,4 @@ ht-degree: 80%
 
    >[!NOTE]
    >
-   >[!DNL Salesforce] アカウントにまだレコードが存在しない場合、同期が行われ、選択したユーザーに割り当てられます。
+   >レコードが [!DNL Salesforce] アカウントにまだ存在しない場合は、レコードが同期され、選択したユーザに割り当てられます。

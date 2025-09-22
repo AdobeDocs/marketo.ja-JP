@@ -4,10 +4,10 @@ description: チームメンバーへのタスクの割り当て - Marketo ド�
 title: チームメンバーへのタスクの割り当て
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -35,19 +35,19 @@ ht-degree: 78%
 
    ![](assets/four-1.png)
 
-1. タスクを割り当てるチームのユーザーを **[!UICONTROL タスクを割り当て]** フィールドで選択します。
+1. 「**[!UICONTROL タスクを割り当てる]**」フィールドで、タスクを割り当てるチームの担当者を選択します。
 
    ![](assets/five.png)
 
-1. 「人物」フィールドに、取引先責任者となる人物を追加します。
+1. 「人物」フィールドに、該当する人物を追加します。
 
    ![](assets/six.png)
 
-1. **[!UICONTROL 期限]** を選択します。
+1. 「**[!UICONTROL 期限]**」を選択します。
 
    ![](assets/seven.png)
 
-1. **[!UICONTROL 優先度]** を設定します。
+1. 「**[!UICONTROL 優先度]**」を設定します。
 
    ![](assets/eight.png)
 

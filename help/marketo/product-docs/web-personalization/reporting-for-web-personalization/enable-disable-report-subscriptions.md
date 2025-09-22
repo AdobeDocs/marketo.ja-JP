@@ -4,18 +4,18 @@ description: レポート購読の有効化／無効化 - Marketo ドキュメ�
 title: レポート購読の有効化／無効化
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
 # レポート購読の有効化／無効化 {#enable-disable-report-subscriptions}
 
-[!UICONTROL Web Personalization] には、メールで送信される便利なレポートがいくつか用意されています。 購読する方法は以下のとおりです。
+[!UICONTROL Web パーソナライゼーション]には、メールで送信される便利なレポートがいくつか用意されています。購読する方法は以下のとおりです。
 
-1. [!UICONTROL Web Personalization] にログインします。 ログイン名の下にある「**[!UICONTROL ユーザー設定]**」をクリックします。
+1. [!UICONTROL Web パーソナライゼーション]にログインします。ログイン名の下にある「**[!UICONTROL ユーザー設定]**」をクリックします。
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 

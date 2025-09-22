@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900597
-description: リストインポートによる対象ユーザーの定義 - Marketo ドキュメント - 製品ドキュメント
-title: リストインポートによる対象ユーザーの定義
+description: リスト読み込みによるオーディエンスの定義 - Marketo ドキュメント - 製品ドキュメント
+title: リスト読み込みによるオーディエンスの定義
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '374'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
-# リストインポートによる対象ユーザーの定義 {#define-an-audience-by-importing-a-list}
+# リスト読み込みによるオーディエンスの定義 {#define-an-audience-by-importing-a-list}
 
 >[!PREREQUISITES]
 >
@@ -21,7 +21,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->対象ユーザーの指定は、メールプログラムが承認されていない状態でのみ機能します。
+>オーディエンスの指定は、メールプログラムが承認されていない状態でのみ機能します。
 >
 >インポートされる日付／時間フィールドはすべて、アメリカの中央時間帯として処理されます。日付／時間フィールドが異なるタイムゾーンに指定されている場合、Excel の関数を用いて中央時間帯（アメリカ／シカゴ）に変換することができます。
 
@@ -29,7 +29,7 @@ ht-degree: 96%
 
    ![](assets/login-marketing-activities-1.png)
 
-1. メールプログラムを選択し、「**[!UICONTROL オーディエンス]** タイルの下の **[!UICONTROL リストを読み込み]** をクリックします。
+1. メールプログラムを選択し、「**[!UICONTROL オーディエンス]**」タイルの下部にある「**[!UICONTROL リストを読み込む]**」をクリックします。
 
    ![](assets/importlist.png)
 

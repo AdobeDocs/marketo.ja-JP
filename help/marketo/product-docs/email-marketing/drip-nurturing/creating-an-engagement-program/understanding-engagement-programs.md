@@ -4,10 +4,10 @@ description: エンゲージメントプログラムについて - Marketo ド�
 title: エンゲージメントプログラムについて
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 94%
 
 ## キャスト {#cast}
 
-**&#x200B;**&#x200B;キャストは、エンゲージメントプログラムからメールを送信するイベントです。
+****&#x200B;キャストは、エンゲージメントプログラムからメールを送信するイベントです。
 
 >[!NOTE]
 >
@@ -74,7 +74,7 @@ ht-degree: 94%
 
 ## ユーザーケイデンス {#person-cadence}
 
-**ユーザーケイデンス**&#x200B;は、エンゲージメントプログラムからコンテンツを受け取る機能を定義するステータスです。**[!UICONTROL エンゲージメントプログラム頻度を変更]** フローステップを使用して、これを [!UICONTROL &#x200B; 一時停止 &#x200B;] または [!UICONTROL &#x200B; 標準 &#x200B;] に変更できます。
+**ユーザーケイデンス**&#x200B;は、エンゲージメントプログラムからコンテンツを受け取る機能を定義するステータスです。**[!UICONTROL エンゲージメントプログラムケイデンスを変更]**&#x200B;フローステップを使用して、「[!UICONTROL 一時停止]」または「[!UICONTROL 通常]」に変更します。
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 

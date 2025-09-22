@@ -2,7 +2,7 @@
 description: リリースノート - 2023年5月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2023年5月
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 94%
@@ -74,7 +74,7 @@ ht-degree: 94%
   </tr>
   <tr>
    <td>開始されたロールアウト</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=ja">インタラクティブウェビナーの概要</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">インタラクティブウェビナーの概要</a></td>
   </tr>
   </tbody>
 </table>

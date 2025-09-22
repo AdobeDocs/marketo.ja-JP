@@ -4,10 +4,10 @@ description: プログラムの複製 - Marketo ドキュメント - 製品ド�
 title: プログラムの複製
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 79%
 
 プログラム全体とそのアセットすべてを手軽に素早く複製します。一から構築しなおす必要はありません。
 
-1. 複製するプログラムを探して選択します。 **[!UICONTROL プログラムアクション]** ドロップダウンで、「**[!UICONTROL クローン]**」をクリックします。
+1. 複製するプログラムを見つけて選択します。**[!UICONTROL プログラムアクション]**&#x200B;ドロップダウンで、「**[!UICONTROL 複製]**」をクリックします。
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,15 +23,15 @@ ht-degree: 79%
 
    >[!NOTE]
    >
-   >プログラムは[キャンペーン](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [フォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)または[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)に複製できます。クローンを作成する前に、基になるすべての依存アセット（メール、スニペット、ランディングページテンプレートなど）を宛先ワークスペースと共有していることを確認します。
+   >プログラムは[キャンペーン](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)[フォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)または[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)に複製できます。複製する前に、基になるすべての依存アセット（メール、スニペット、ランディングページテンプレートなど）を宛先ワークスペースと共有していることを確認します。
 
    ![](assets/cloneto.png)
 
    >[!NOTE]
    >
-   >上のスクリーンショットの [!UICONTROL &#x200B; メモ &#x200B;] を参照してください。 つまり、リスト内の 1000 人以上のユーザーを含むプログラムを複製すると、リスト自体は複製されますが、空になります。999 人以下のリストを含むプログラムを複製すると、そのリストはそのメンバーと共に複製されたプログラムに表示されます。
+   >上のスクリーンショットの[!UICONTROL メモ]を参照してください。つまり、リスト内の 1000 人以上のユーザーを含むプログラムを複製すると、リスト自体は複製されますが、空になります。999 人以下のリストを含むプログラムを複製すると、そのリストはそのメンバーと共に複製されたプログラムに表示されます。
 
-1. **[!UICONTROL 名前]** を入力します。
+1. **[!UICONTROL 名前]**&#x200B;を入力します。
 
    ![](assets/cloneprogramname.png)
 

@@ -3,10 +3,10 @@ description: 動的フィールドに入力されないのはなぜですか？-
 title: 動的フィールドに入力されないのはなぜですか？
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 79%
+ht-degree: 95%
 
 ---
 
@@ -22,7 +22,7 @@ Sales Insight Actions には、基本、カスタム、Salesforce の 3 つの�
 
 [!DNL Salesforce] フィールド：例：`{{sfdc_account_name}}`
 
-* このフィールドが Sales Insight Actions と正しく接続されていることを確認します。[ 設定 ] （<https://toutapp.com/login{target="_blank"}> ページに移動して、CRM の横にある **管理** をクリックします。
+* このフィールドがセールスインサイトアクションと正しく接続されていることを確認します。[ 設定 ] （<https://toutapp.com/login{target="_blank"}> ページに移動して、CRM の横にある **管理** をクリックします。
 
 **基本フィールドとカスタムフィールドのトラブルシューティング**
 
@@ -34,7 +34,7 @@ Marketo セールスインサイト Actions カスタムフィールド：例え
 
 ## すべての動的フィールドに値が入力されずにメールが送信された理由 {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-メ [!DNL Sales Insight Actions] ル内のすべての動的フィールドに値を入力できない場合、メールの送信が停止されます。 **ただし**、このルールにはいくつかの例外があります。一部のフィールドは空白で送信されるか、値が見つかった場合は値を自動入力します。これらのフィールドと、フィールドに値を入力できない場合の反応を以下に示します。
+メールの動的フィールドをすべて入力できない場合、[!DNL Sales Insight Actions] はメールの送信を停止します。**ただし**、このルールにはいくつかの例外があります。一部のフィールドは空白で送信されるか、値が見つかった場合は値を自動入力します。これらのフィールドと、フィールドに値を入力できない場合の反応を以下に示します。
 
 `{{first_name}}` = 空白
 
@@ -48,4 +48,4 @@ Marketo セールスインサイト Actions カスタムフィールド：例え
 
 >[!NOTE]
 >
->`{{first_name}}` フィールドは、情報を取り込もうとして [!DNL Sales Insight Actions] と [!DNL Salesforce] の両方を検索します。 このリスト内の他のすべてのフィールドは、フィールドに値を入力するた [!DNL Sales Insight Actions] にのみ参照されます。
+>「`{{first_name}}`」フィールドは、[!DNL Sales Insight Actions] と [!DNL Salesforce] の両方を検索して情報の取り込みを試みます。このリストの他のフィールドはすべて、[!DNL Sales Insight Actions] のみ検索してフィールドに入力されます。

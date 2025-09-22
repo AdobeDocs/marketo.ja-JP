@@ -4,10 +4,10 @@ description: 既存顧客の設定 - Marketo ドキュメント - 製品ドキ�
 title: 既存顧客の設定
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 49%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 49%
 
 >[!PREREQUISITES]
 >
->[!DNL Salesforce] パッケージが最新バージョンにアップグレードされていることを確認してください
+>[!DNL Salesforce] パッケージが最新バージョンにアップグレードされていることを確認してください。
 
-## Marketoでの [!DNL Sales Insight] の設定 {#configure-sales-insight-in-marketo}
+## Marketo での [!DNL Sales Insight] の設定 {#configure-sales-insight-in-marketo}
 
-1. ブラウザーで新しいタブを開き、Marketo アカウントから [!DNL Marketo Sales Insights] 資格情報を取得します。
+1. ブラウザーで新しいタブを開き、Marketo アカウントから [!DNL Marketo Sales Insights] の資格情報を取得します。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -37,7 +37,7 @@ ht-degree: 49%
 
 1. 確認ポップアップが表示されます。「**[!UICONTROL OK]**」をクリックします。
 
-## [!DNL Sales Insight] での [!DNL Salesforce] の設定 {#configure-sales-insight-in-salesforce}
+## [!DNL Salesforce] での [!DNL Sales Insight] の設定 {#configure-sales-insight-in-salesforce}
 
 1. Salesforce で、「**[!UICONTROL 設定]**」をクリックします。
 
@@ -51,7 +51,7 @@ ht-degree: 49%
 
    ![](assets/configuration-for-existing-customers-6.png)
 
-1. [!UICONTROL &#x200B; リモートサイト名 &#x200B;] （「MarketoRestAPI」のようなものです）と [!UICONTROL &#x200B; リモートサイト URL] （Marketoの Rest API 設定パネルからの API URL）を入力します。
+1. [!UICONTROL リモートサイト名]（「MarketoRestAPI」など）と[!UICONTROL リモートサイト URL]（Marketo の Rest API 設定パネルの API URL）を入力します。
 
    ![](assets/configuration-for-existing-customers-7.png)
 
@@ -61,10 +61,10 @@ ht-degree: 49%
 
    Rest API 用のリモートサイト設定が作成されました。
 
-## Marketo Sales Insight へのアクセス {#access-marketo-sales-insight}
+## Marketo セールスインサイトへのアクセス {#access-marketo-sales-insight}
 
-1. 管理ページの Rest API パネルから資格情報 [!DNL Marketo’s Sales Insight] コピーします。 これらをSalesforceの [!DNL Sales Insight] 設定ページの Rest API セクションに貼り付けます。
+1. [!DNL Marketo’s Sales Insight] 管理ページの Rest API パネルから資格情報をコピーします。Salesforce の [!DNL Sales Insight] 設定ページの Rest API セクションに貼り付けます。
 
-1. [!UICONTROL API 秘密鍵 &#x200B;] を入力します。
+1. [!UICONTROL API 秘密鍵]を入力します。
 
    ![](assets/configuration-for-existing-customers-9.png)

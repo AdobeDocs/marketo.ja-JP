@@ -4,7 +4,7 @@ description: SEO - 問題を CSV にエクスポート - Marketo ドキュメン
 title: SEO - 問題を CSV にエクスポート
 exl-id: a3012408-eeb4-4f09-af01-5c0e5dec4625
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 100%

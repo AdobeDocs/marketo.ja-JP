@@ -4,10 +4,10 @@ description: 「トラックしない」ブラウザーのサポート設定の�
 title: 「トラックしない」ブラウザーのサポート設定の編集
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 82%
 
 >[!NOTE]
 >
->「追跡しない」はデフォルトで **[!UICONTROL 無視]** に設定されるので、必要に応じて手順を実行する必要はありません。
+>「トラックしない」は、デフォルトで「**[!UICONTROL 無視]**」に設定されるので、この設定にする場合は手順を実行する必要はありません。
 
 1. 「**[!UICONTROL 管理者]**」をクリックします。
 

@@ -4,10 +4,10 @@ description: メールテンプレート選択ツールの概要 - Marketo ド�
 title: メールテンプレート選択ツールの概要
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 93%
 
 ![](assets/five-2.png)
 
-**[!UICONTROL Design Studio]** ツリーの **[!UICONTROL メール]**/[!UICONTROL &#x200B; テンプレート &#x200B;] の下に表示されるすべてのフォルダーは、**[!UICONTROL マイテンプレート]** で使用できます。
+[!UICONTROL デザインスタジオ]ツリーの&#x200B;**[!UICONTROL メール]**／**[!UICONTROL テンプレート]**&#x200B;に表示されるすべてのフォルダーは、**[!UICONTROL マイテンプレート]**&#x200B;で使用できます。
 
 ![](assets/six-1.png)
 

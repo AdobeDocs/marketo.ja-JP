@@ -2,18 +2,18 @@
 description: セールスアクティビティ属性の Salesforce へのログ - Marketo ドキュメント - 製品ドキュメント
 title: セールスアクティビティ属性の Salesforce へのログ
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '304'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
-# 販売アクティビティ属性の [!DNL Salesforce] へのロギング {#logging-sales-activity-attributes-to-salesforce}
+# セールスアクティビティ属性の [!DNL Salesforce] へのログ {#logging-sales-activity-attributes-to-salesforce}
 
-Salesforce管理者は、カスタムアクティビティフィールドを [!DNL Salesforce] に手動で追加できます。
+Salesforce 管理者は、カスタムアクティビティフィールドを [!DNL Salesforce] に手動で追加できます。
 
-1. [!DNL Salesforce] アカウントで、「設定 **[!UICONTROL をクリック]** します。
+1. [!DNL Salesforce] アカウントで、「**[!UICONTROL 設定]**」をクリックします。
 
 1. クイック検索フィールドで「アクティビティのカスタムフィールド」を検索し、クリックします。
 
@@ -25,7 +25,7 @@ Salesforce管理者は、カスタムアクティビティフィールドを [!D
 
 次の表では各列を説明します。
 
-* **フィールドラベル**:UI に表示されるフィールド名（この名前は、チームが読みやすいようにカスタマイズできます）
+* **フィールドラベル**：UI に表示されるフィールド名（この名前は、チームによる読みやすさを向上させるためにカスタマイズできます）
 * **フィールド名**：フィールドの技術的な名前（入力したフィールド名が、下の表の「フィールド名」と一致していることを確認してください）
 * **API 名**：API 用のフィールドの技術的な名前（入力した API 名が以下の表の API 名と一致していることを確認してください）
 * **データタイプ**：フィールドのタイプ
@@ -40,105 +40,105 @@ Salesforce管理者は、カスタムアクティビティフィールドを [!D
   <th>サイズ</th>
  </tr>
   <tr>
-  <td>[!UICONTROL 呼び出しの結果 &#x200B;]</td>
+  <td>[!UICONTROL 通話結果]</td>
   <td>mktosales_call_outcome</td>
   <td>mktosales_call_outcome__c</td>
   <td>テキスト</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>[!UICONTROL 呼び出しの理由 &#x200B;]</td>
+  <td>[!UICONTROL 通話理由]</td>
   <td>mktosales_call_reason</td>
   <td>mktosales_call_reason__c</td>
   <td>テキスト</td>
   <td>50</td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo Sales Call Local Presence ID]</td>
+  <td>[!UICONTROL Marketo セールス電話ローカルプレゼンス ID]</td>
   <td>MSE_Call_Local_Presence_ID</td>
   <td>MSE_Call_Local_Presence_ID__c</td>
   <td>テキスト</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo セールス コール録画 URL]</td>
+  <td>[!UICONTROL Marketo セールス通話記録 URL]</td>
   <td>MSE_Call_Recording</td>
   <td>MSE_Call_Recording__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketoセールス・キャンペーン &#x200B;]</td>
+  <td>[!UICONTROL Marketo セールスキャンペーン]</td>
   <td>MSE_Campaign</td>
   <td>MSE_Campaign__c</td>
   <td>テキスト</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo Sales Campaign の現在の手順 &#x200B;]</td>
+  <td>[!UICONTROL Marketo セールスキャンペーンの現在の手順]</td>
   <td>MSE_Current_Campaign_Step</td>
   <td>MSE_Current_Campaign_Step__c</td>
   <td>テキスト</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo販売キャンペーン URL]</td>
+  <td>[!UICONTROL Marketo セールスキャンペーン URL]</td>
   <td>MSE_Campaign_Details_Link</td>
   <td>MSE_Campaign_Details_Link__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業向けメール添付ファイルを表示 &#x200B;]</td>
+  <td>[!UICONTROL 閲覧済みの Marketo セールスメール添付ファイル]</td>
   <td>MSE_Presentation_Viewed</td>
   <td>MSE_Presentation_Viewed__c</td>
   <td>チェックボックス</td>
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo Sales Email Clicked]</td>
+  <td>[!UICONTROL クリック済みの Marketo セールスメール]</td>
   <td>MSE_Clicked</td>
   <td>MSE_Clicked__c</td>
   <td>チェックボックス</td>
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業メール返信 &#x200B;]</td>
+  <td>[!UICONTROL 返信済みの Marketo セールスメール]</td>
   <td>MSE_Replied</td>
   <td>MSE_Replied__c</td>
   <td>チェックボックス</td>
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業電子メールのステータス &#x200B;]</td>
+  <td>[!UICONTROL Marketo セールスメールステータス]</td>
   <td>MSE_Email_Status</td>
   <td>MSE_Email_Status__c</td>
   <td>テキスト</td>
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業メールテンプレート &#x200B;]</td>
+  <td>[!UICONTROL Marketo セールスメールテンプレート]</td>
   <td>MSE_Template</td>
   <td>MSE_Template__c</td>
   <td>テキスト</td>
   <td>255</td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業メールテンプレート URL]</td>
+  <td>[!UICONTROL Marketo セールスメールテンプレート URL]</td>
   <td>MSE_Template_Details</td>
   <td>MSE_Template_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketo営業メール URL]</td>
+  <td>[!UICONTROL Marketo セールスメール URL]</td>
   <td>MSE_Details</td>
   <td>MSE_Details__c</td>
   <td>URL</td>
   <td></td>
  </tr>
  <tr>
-  <td>[!UICONTROL Marketoの営業メールが表示されました &#x200B;]</td>
+  <td>[!UICONTROL 閲覧済みの Marketo セールスメール]</td>
   <td>MSE_Viewed</td>
   <td>MSE_Viewed__c</td>
   <td>チェックボックス</td>

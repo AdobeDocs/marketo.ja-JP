@@ -3,7 +3,7 @@ description: Adobe ID を使用したユーザーログイン - Marketo ドキ�
 title: Adobe ID を使用したユーザログイン
 exl-id: d17f4de3-491c-45a7-b4b8-f68b9bd35124
 feature: Marketo with Adobe Identity
-source-git-commit: d1ea45826d9ddf55a67d615b757b6deb9b5c6fc2
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%

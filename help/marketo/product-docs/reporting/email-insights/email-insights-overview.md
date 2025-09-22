@@ -4,18 +4,18 @@ description: メールインサイトの概要 - Marketo ドキュメント - �
 title: メールインサイトの概要
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 # メールインサイトの概要 {#email-insights-overview}
 
-**[!UICONTROL メールインサイト]** は、メールマーケターに履歴データからの強力なインサイトを提供します。 これは、2 つの独立した、しかし関連するセクション、[!UICONTROL Analytics] と [!UICONTROL &#x200B; 送信 &#x200B;] で構成されています。
+**[!UICONTROL メールインサイト]**&#x200B;では、メールマーケターが履歴データから強力なインサイトを引き出すことができます。メールインサイトは独立しつつ関連性のある 2 つのセクション（[!UICONTROL アナリティクス]と[!UICONTROL 送信]）で構成されています。
 
-**[!UICONTROL メールインサイト]** にアクセスするには、マイMarketo（または Analytics のホーム画面）でタイルをクリックするだけです。
+**[!UICONTROL メールインサイト]**&#x200B;にアクセスするには、「My Marketo」（またはアナリティクスホーム画面）から、「メールインサイト」のタイルをクリックするだけです。
 
 ![](assets/icon.png)
 
@@ -31,7 +31,7 @@ ht-degree: 71%
 
 **フィルター**
 
-高度な[フィルター](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)を使用して、オーディエンス、コンテンツ、プラットフォーム別に結果を分析します。同じフィルターが [!UICONTROL Analytics] と [!UICONTROL &#x200B; 送信 &#x200B;] の両方に適用されます。
+高度な[フィルター](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)を使用して、オーディエンス、コンテンツ、プラットフォーム別に結果を分析します。同じフィルターが、[!UICONTROL アナリティクス]と[!UICONTROL 送信]のどちらにも適用されます。
 
 ![](assets/filter.png)
 
@@ -41,7 +41,7 @@ ht-degree: 71%
 
 ![](assets/three.png)
 
-## [!UICONTROL &#x200B; 送信数 &#x200B;] {#sends}
+## [!UICONTROL 送信] {#sends}
 
 [[!UICONTROL 送信]](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)ページでは、最近のメール通信の特性を調べます。
 
@@ -55,7 +55,7 @@ ht-degree: 71%
 
 >[!NOTE]
 >
->データが **[!UICONTROL メールインサイト]** に反映されるまで、最大 8 時間かかる場合があります。
+>**[!UICONTROL メールインサイト]**&#x200B;へのデータ反映には、最大 8 時間を要する可能性があります。
 
 ## カスタムディメンション {#custom-dimensions}
 

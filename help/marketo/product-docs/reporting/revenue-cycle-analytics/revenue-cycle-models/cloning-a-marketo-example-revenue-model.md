@@ -4,10 +4,10 @@ description: Marketo 収益モデルの例の複製 - Marketo ドキュメント
 title: Marketo 収益モデル例の複製
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo には、刺激を与えるのに役立つ収益モデラーの例が用
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. [!UICONTROL &#x200B; モデルアクション &#x200B;] から「**[!UICONTROL モデルをクローン]**」を選択します。
+1. [!UICONTROL モデルアクション]で、「**[!UICONTROL モデルを複製]**」を選択します。
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 

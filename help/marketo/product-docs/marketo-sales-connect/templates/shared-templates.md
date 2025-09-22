@@ -4,8 +4,8 @@ description: 共有テンプレート - Marketo ドキュメント - 製品ド�
 title: 共有テンプレート
 exl-id: 9640c9a6-00fc-4a7d-8366-f04f2b2483e4
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
 

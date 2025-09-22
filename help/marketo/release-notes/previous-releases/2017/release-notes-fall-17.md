@@ -4,7 +4,7 @@ description: リリースノート - 2017 年秋 - Marketo ドキュメント - 
 title: リリースノート - 2017 年秋
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '586'
 ht-degree: 100%
@@ -72,13 +72,13 @@ ABM アカウントリスト全体でコンテンツのパフォーマンスを�
 
 ## Web パーソナライゼーションの機能拡張 {#web-personalization-enhancements}
 
-**[ウェブキャンペーン用トークン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[Web キャンペーン用トークン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Web キャンペーンでトークンを使用できるようになりました。トークンを活用してパーソナライズされたメッセージやコンテンツを配信し、web キャンペーンでのエンゲージメントを高めます。
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-**[ウェブキャンペーンエディタにおけるデザインスタジオ画像](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[Web キャンペーンエディターにおけるデザインスタジオ画像](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Marketo 内の複数のチャネルでクリエイティブアセットと画像を再利用することで、時間を節約できます。
 

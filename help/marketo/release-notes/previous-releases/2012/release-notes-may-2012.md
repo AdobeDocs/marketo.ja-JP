@@ -4,8 +4,8 @@ description: リリースノート - 2012年5月 - Marketo ドキュメント - 
 title: リリースノート - 2012年5月
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 100%
 
@@ -117,7 +117,7 @@ Marketo [!DNL Sales Insight] と共有するメールテンプレートを指定
 
 ## [!DNL Sales Insight] から商談アナライザーへのアクセス {#access-opportunity-analyzer-from-sales-insight}
 
-Marketo [!DNL Sales Insight] から商談アナライザーへの直接アクセスを可能にし、どのマーケティング活動がエンゲージメントを促進しているかについてのインサイトをセールス担当に提供します。注意.売上高サイクル分析ライセンスが必要です。
+Marketo [!DNL Sales Insight] から商談アナライザーへの直接アクセスを可能にし、どのマーケティング活動がエンゲージメントを促進しているかについてのインサイトをセールス担当に提供します。注意.収益サイクル分析ライセンスが必要です。
 
 ## 連絡先ステータスのカスタムフィールド {#custom-field-for-contact-status}
 

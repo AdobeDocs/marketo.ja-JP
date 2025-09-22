@@ -4,10 +4,10 @@ description: スマートリスト購読の編集 - Marketo ドキュメント -
 title: スマートリスト購読の編集
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -15,10 +15,10 @@ ht-degree: 87%
 
 これらの列は、マーケティング活動またはデータベースに表示される「購読」タブで直接編集できます。
 
-* [!UICONTROL &#x200B; 受信者 &#x200B;]
+* [!UICONTROL 受信者]
 * [!UICONTROL 頻度]
-* [!UICONTROL &#x200B; 列 &#x200B;]
-* [!UICONTROL &#x200B; 配信を終了 &#x200B;]
+* [!UICONTROL 列]
+* [!UICONTROL 配信終了]
 * [!UICONTROL 形式]
 
 1. **[!UICONTROL データベース]**&#x200B;を選択します（この例では使用していますが、マーケティング活動はまったく同じように機能します）。
@@ -29,7 +29,7 @@ ht-degree: 87%
 
    ![](assets/two.png)
 
-1. 「**[!UICONTROL 受信者]**」列をクリックすると開くので、メールアドレスを追加して入力できます（コンマで区切ります）。
+1. 「**[!UICONTROL 受信者]**」列をクリックすると、その他のメールアドレスを入力できるように表示されます（コンマで区切ります）。
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 

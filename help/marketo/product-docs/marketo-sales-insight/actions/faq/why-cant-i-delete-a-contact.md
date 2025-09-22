@@ -3,7 +3,7 @@ description: 取引先責任者を削除できない理由- Marketo ドキュメ
 title: 取引先責任者を削除できない理由
 exl-id: 35e9d5c3-f7f8-4047-b63a-7548841d8267
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%

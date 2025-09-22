@@ -1,25 +1,25 @@
 ---
 unique-page-id: 12980105
-description: ユーザーを招待してアクセス [!UICONTROL &#x200B; アカウント Insight] - Marketo ドキュメント – 製品ドキュメント
-title: アクセスするユーザーを招待 [!UICONTROL &#x200B; アカウントのInsight]
+description: '[!UICONTROL 顧客インサイト]にアクセスするユーザを招待 - Marketoドキュメント - 製品ドキュメント'
+title: '[!UICONTROL 顧客インサイト]にアクセスするユーザを招待'
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
-# アクセスするユーザーを招待 [!UICONTROL &#x200B; アカウントのInsight] {#invite-users-to-access-account-insight}
+# [!UICONTROL 顧客インサイト]にアクセスするユーザを招待 {#invite-users-to-access-account-insight}
 
-次の手順に従って、[!UICONTROL &#x200B; アカウントInsight] へのアクセス権をユーザーに付与します。
+[!UICONTROL 顧客インサイト]へのアクセス権をユーザに与えるには、次の手順に従います。
 
 1. 「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/admin-1.png)
 
-1. クリック **[!UICONTROL ユーザーとロール]** を設定します。 次に、 **[!UICONTROL セールスユーザ]** タブ、および **[!UICONTROL 新規セールスユーザの招待]**.
+1. クリック **[!UICONTROL ユーザーとロール]** を設定します。 次に、「**[!UICONTROL セールスユーザ]**」タブ、および&#x200B;**[!UICONTROL 新規セールスユーザの招待]**。
 
    ![](assets/two-6.png)
 
@@ -49,6 +49,6 @@ ht-degree: 81%
 
    ![](assets/six-3.png)
 
-1. 送信メッセージを調べ、必要な変更（オプション）をおこない、 **[!UICONTROL 送信]**.
+1. 送信メッセージを調べ、必要な変更（オプション）を行い、「**[!UICONTROL 送信]**」。
 
    ![](assets/seven-2.png)

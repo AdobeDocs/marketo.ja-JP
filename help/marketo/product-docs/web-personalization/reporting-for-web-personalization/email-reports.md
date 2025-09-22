@@ -4,18 +4,18 @@ description: メールレポート - Marketo ドキュメント - 製品ドキ�
 title: メールレポート
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # メールレポート {#email-reports}
 
-ユーザーが受け取る自動メールレポートをカスタマイズするには、[[!UICONTROL &#x200B; ユーザー設定 &#x200B;] の節を参照してください ](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)。
+ユーザが受け取る自動メールレポートをカスタマイズするには、[[!UICONTROL ユーザ設定]セクション](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)を参照にしてください。
 
-## ウェブパーソナライズメールレポート {#web-personalization-email-reports}
+## Web パーソナライゼーションメールレポート {#web-personalization-email-reports}
 
 日別または週別のメールレポートがユーザーのメールアドレスに送信され、組織、リード、キャンペーン、アセットの最新のパフォーマンスデータを提供します。
 
@@ -33,7 +33,7 @@ ht-degree: 62%
 
 日別／週別のリードレポートでは、リードのメールアドレス、組織名、場所、状態、リードキャプチャの日付、リードが属するセグメント情報に従って、web サイトから最新の 100 人についてのメールをユーザーに送信します。
 
-## [!UICONTROL &#x200B; 最もパフォーマンスの高いリアルタイムキャンペーン &#x200B;] {#top-performing-real-time-campaigns}
+## [!UICONTROL 実績上位のリアルタイムキャンペーン] {#top-performing-real-time-campaigns}
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
@@ -55,18 +55,18 @@ ht-degree: 62%
 
 ![](assets/six.png)
 
-概要レポートは、パーソナライズされたキャンペーンまたは推奨コンテンツに関与してから既知の人物になったクリック数と人数（ダイレクトまたは支援）に基づいて、すべてのキャンペーンと推奨コンテンツのパフォーマンスを示すメール（毎月または四半期）をユーザーに送信します。 このレポートは、結果を前月または前四半期と比較します。
+概要レポートは、クリック数とパーソナライズされたキャンペーンまたは推奨コンテンツにエンゲージし、その後認識済み顧客になった人数（ダイレクトまたはアシスト）に基づいて、すべてのキャンペーンと推奨コンテンツのパフォーマンスについてのメール（月次または四半期）がユーザに送信されます。このレポートは、結果を前月または前四半期と比較します。
 
 >[!NOTE]
 >
 >**定義**
 >
->**[!UICONTROL ダイレクトコンバージョン]**：パーソナライズされたキャンペーンまたは推奨コンテンツのアセットをクリックし、同じ訪問セッションで Web 訪問者が、自分のメールアドレスで Web サイト上のフォームに入力する。
+>**[!UICONTROL ダイレクトコンバージョン]**：パーソナライズされたキャンペーンまたは推奨されたコンテンツアセットをクリックし、同じセッション中にそれぞれのメールアドレスで、web サイト上のフォーム入力まで進んだ web 訪問者。
 >
->**[!UICONTROL アシストコンバージョン]**:Web サイト上の任意のフォームに入力し、メールアドレスを離れる Web 訪問者。以前の訪問（過去 6 か月以内）で、パーソナライズされたキャンペーンまたは推奨コンテンツアセットをクリックした。
+>**[!UICONTROL アシストコンバージョン]**：以前（過去 6 か月以内）に、パーソナライズされたキャンペーンまたは推奨されたコンテンツアセットをクリックし、web サイト上のフォームに入力してメールアドレスを残した web 訪問者。
 
 >[!NOTE]
 >
->Marketo ウェブパーソナライズは、web サイトで入力されたフォームでの web 訪問者のメールアドレスを取り込みます。このユーザーは [!UICONTROL Web Personalization][!UICONTROL &#x200B; ユーザー &#x200B;] ページに表示され、概要レポートで使用されます。
+>Marketo web パーソナライゼーションは、web サイトで入力されたフォームでの web 訪問者のメールアドレスを取り込みます。これは [!UICONTROL web パーソナライゼーション]の[!UICONTROL 人物]ページに表示され、概要レポートで使用される人物です。
 
-ユーザーが受け取る自動メールレポートをカスタマイズするには、[ユーザー設定セクション](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)を参照にしてください。
+ユーザが受け取る自動メールレポートをカスタマイズするには、[ユーザ設定](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)の節を参照にしてください。

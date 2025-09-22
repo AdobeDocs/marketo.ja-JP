@@ -4,10 +4,10 @@ description: マーケティングカレンダーのライセンスの発行／�
 title: マーケティングカレンダーのライセンスの発行／取消
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 94%
 >
 >**管理者権限が必要**
 
-[マーケティングカレンダー](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}を操作するには、アクセスする必要があるユーザーにライセンスを発行します。手順は以下のとおりです。
+[マーケティングカレンダー](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}を操作するには、アクセスする必要があるユーザーにライセンスを発行します。手順は次のとおりです。
 
 1. 「**[!UICONTROL 管理者]**」セクションに移動します。
 
@@ -27,7 +27,7 @@ ht-degree: 94%
 
    ![](assets/2.png)
 
-1. ユーザーを選択し、 **[!UICONTROL ライセンスを発行]**.
+1. ユーザーを選択し、「**[!UICONTROL ライセンスを発行]**」。
 
    >[!TIP]
    >
@@ -35,7 +35,7 @@ ht-degree: 94%
 
    ![](assets/3.png)
 
-1. チェック **[!UICONTROL ライセンスの有効化]**&#x200B;ライセンスの有効化&#x200B;**[!UICONTROL 保存]**.
+1. **[!UICONTROL ライセンスを有効化]**&#x200B;を確認し、「**[!UICONTROL 保存]**」。
 
    >[!NOTE]
    >
@@ -43,6 +43,6 @@ ht-degree: 94%
 
    ![](assets/4.png)
 
-   これで完了です。「[!UICONTROL &#x200B; カレンダー &#x200B;]?」の下の緑のチェックマークを確認します。
+   これで完了です。「[!UICONTROL カレンダー]」の下の緑色のチェックマークを確認してください。
 
    ![](assets/5.png)

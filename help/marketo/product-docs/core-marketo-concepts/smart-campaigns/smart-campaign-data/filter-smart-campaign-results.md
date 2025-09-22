@@ -4,8 +4,8 @@ description: スマートキャンペーン結果のフィルタリング - Mark
 title: スマートキャンペーン結果のフィルタリング
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
 

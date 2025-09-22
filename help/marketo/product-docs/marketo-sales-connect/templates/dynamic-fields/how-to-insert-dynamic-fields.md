@@ -4,10 +4,10 @@ description: 動的フィールドの挿入方法 — Marketo ドキュメント
 title: 動的フィールドの挿入方法
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '229'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 57%
 
 >[!TIP]
 >
->「first_name」フィールドと「company」フィールドは、[!DNL Sales Connect] と [!DNL Salesforce] の両方に参照される唯一のフィールドです。 つまり、[web アプリケーション ](https://toutapp.com/login) に連絡先が存在しない場合は、一致するメールアドレスを持つ連絡先/ リードレコードが見つかるかどうかを [!DNL Salesforce] で確認します。 その後、そのレコードの情報を使用してフィールドにデータを入力します。
+>「first_name」フィールドと「company」フィールドは、[!DNL Sales Connect] と [!DNL Salesforce] の両方に表示される唯一のフィールドです。つまり、取引先責任者が [web アプリケーション](https://toutapp.com/login)に存在しない場合、[!DNL Salesforce] を調べて、一致するメールアドレスを持つ取引先責任者／リードレコードが見つかるかどうかを確認します。その後、そのレコードの情報を使用してフィールドにデータを入力します。
 
 ## テンプレートへの動的フィールドの挿入 {#insert-a-dynamic-field-into-a-template}
 
@@ -27,9 +27,9 @@ ht-degree: 57%
 
    >[!NOTE]
    >
-   >[!DNL Sales Connect] に存在する連絡先にメールを送信する際に、基本的な動的フィールドを使用できます。 それらのフィールドは、取引先責任者から直接引き出されます。
+   >[!DNL Sales Connect] に存在する取引先責任者にメールを送信する場合は、基本的な動的フィールドを使用できます。それらのフィールドは、取引先責任者から直接取り込まれます。
 
-[!DNL Salesforce] に存在する連絡先にメールを送信する場合は、[!DNL Salesforce] の動的フィールドを利用できます。 フィールドはすべて「sfdc」で始まります。[!DNL Salesforce] への接続がある限り、これらのフィールドはテンプレートに情報を入力するた [!DNL Salesforce] にリード/連絡先を直接呼び出します。
+[!DNL Salesforce] に存在する取引先責任者にメールを送信する場合は、[!DNL Salesforce] の動的フィールドを利用できます。フィールドはすべて「sfdc」で始まります。[!DNL Salesforce] と連携している限り、動的フィールドは [!DNL Salesforce] 内のリード／取引先責任者を直接呼び出し、テンプレートに情報を入力します。
 
 ## 件名行に動的フィールドを挿入 {#insert-dynamic-fields-in-a-subject-line}
 

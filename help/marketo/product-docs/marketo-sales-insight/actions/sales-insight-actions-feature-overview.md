@@ -3,10 +3,10 @@ description: Sales Insight Actions 機能の概要 - Marketo ドキュメント 
 title: Sales Insight Actions 機能の概要
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1361'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -16,9 +16,9 @@ Sales Insight Actions を使用して、マーケティングを活用したイ�
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions は、[Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
+>Marketo セールスインサイト Actions は、[Marketo セールスインサイトパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
-insightのセールス活動の概要に関するビデオについては、[ ここをクリック ](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=ja){target="_blank"} してください。
+Sales Insight Actions のビデオの概要について詳しくは、[こちらをクリック](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=ja){target="_blank"}してください。
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -40,7 +40,7 @@ insightのセールス活動の概要に関するビデオについては、[ �
    * キャンペーンアクティビティは、Marketo の人物レコードに記録されます
    * Marketo スマートキャンペーンのフィルターとトリガーに対応（詳しくは以下を参照）
 
-* セールス・コール
+* セールス電話
    * CRM 内のダイヤラーを使用してセールス電話をかけます
    * ローカルプレゼンス、事前記録済みを含みます
    * ログ呼び出しの結果、パネルでの通話記録、アクティビティ履歴
@@ -50,8 +50,8 @@ insightのセールス活動の概要に関するビデオについては、[ �
 * タスクを追加
    * リードのメール、電話、InMail、カスタムタスクを作成します
    * セールスキャンペーンでタスク作成を自動化
-   * タスクを [!DNL Salesforce] と同期
-   * 「アクティビティ履歴」セクション [!DNL Salesforce] タスクを記録する
+   * [!DNL Salesforce] とのタスクの同期
+   * [!DNL Salesforce] の「アクティビティ履歴」セクションでタスクを記録
 
 ライブフィードにアクセスするには、上部のナビゲーションで ((0)) アイコンをクリックします。セールスアクティビティのライブ更新を確認する機能や、画面のドッキング機能が含まれます。
 
@@ -60,7 +60,7 @@ insightのセールス活動の概要に関するビデオについては、[ �
 MSI パネル内のタブでは、以下のデータを使用できます。
 
 * Insights ダッシュボード
-   * エンゲージメント速度グリッドには、セールスメール、セールスキャンペーンアクション、セールスコールのアクティビティが含まれます
+   * エンゲージメント速度グリッドには、セールスメール、セールスキャンペーンアクション、セールス電話からのアクティビティが含まれます
    * 今後のセールスキャンペーン - リードが進行中のキャンペーンの一部である場合、この情報は、「今後のセールスキャンペーン」タブで確認できます
    * 今後のタスク - リードに関する今後のタスクがある場合、この情報は「今後のタスク」タブで確認できます
 
@@ -97,7 +97,7 @@ MSI パネル内のタブでは、以下のデータを使用できます。
 タブでは以下のデータを使用できます。
 
 * Insights ダッシュボード
-   * エンゲージメント速度グリッドには、セールス電子メール、セールス・キャンペーン・アクション、セールス・コールからのアクティビティが含まれます
+   * エンゲージメント速度グリッドには、セールスメール、セールスキャンペーンアクション、セールス電話からのアクティビティが含まれます。
    * 今後のセールスキャンペーン - アカウント／商談からの取引先責任者が進行中のキャンペーンの一部である場合、この情報は「今後のセールスキャンペーン」タブで確認できます
    * 今後のタスク - アカウント／商談からの取引先責任者に関する今後のタスクがある場合、この情報は「今後のタスク」タブで確認できます
 
@@ -113,28 +113,28 @@ MSI パネル内のタブでは、以下のデータを使用できます。
 
 ## リードおよび取引先責任者のリスト表示（一括アクション） {#lead-and-contact-list-view}
 
-* [!UICONTROL &#x200B; 販売メールの送信 &#x200B;] – 表示、クリックおよび連絡先/リードのリストへの返信トラッキングを使用して、パーソナライズされたメールまたはテンプレート化されたメールを送信する機能
-* [!UICONTROL &#x200B; セールスキャンペーンに追加 &#x200B;] - メールとタスクのシーケンスであるセールスプレイブックを連絡先/リードのリストに追加します
+* [!UICONTROL セールスメールを送信] - 表示、クリック、返信のトラッキングを含むパーソナライズされたメールまたはテンプレート化されたメールを、取引先責任者／リードのリストに送信する機能。
+* [!UICONTROL セールスキャンペーンに追加] - 一連のメールとタスクで構成されるセールスプレイブックに取引先責任者／リードのリストを追加します。
 
 ## 「Marketo グローバル」タブ {#marketo-global-tab}
 
-**[!UICONTROL おすすめコンテンツ &#x200B;] タブ**
+「**[!UICONTROL 最有望見込客]」タブ**
 
 ![](assets/sales-insight-actions-feature-overview-3.png)
 
-[!UICONTROL &#x200B; おすすめコンテンツ &#x200B;] タブのドロップダウンから、次の一括アクションを使用できます。
+「[!UICONTROL 最有望見込客]」タブのドロップダウンから、次の一括アクションを使用できます。
 
-* [!UICONTROL &#x200B; セールスメールの送信 &#x200B;] - パーソナライズされたメールやテンプレート化されたメールを、表示、クリック、返信のトラッキングを使用して送信する機能
-* [!UICONTROL Sales Campaign に追加 &#x200B;] - メールとタスクのシーケンスである販売プレイブックにリードを追加します
+* [!UICONTROL セールスメールを送信] - 表示、クリック、返信のトラッキングを含むパーソナライズされたメールまたはテンプレート化されたメールを送信する機能。
+* [!UICONTROL セールスキャンペーンに追加] - 一連のメールとタスクで構成されるセールスプレイブックにリードを追加。
 
   ![](assets/sales-insight-actions-feature-overview-4.png)
 
-「[!UICONTROL &#x200B; おすすめコンテンツ &#x200B;]」タブでは、個々のリードや連絡先に対して次のインラインアクションを使用できます。
+「[!UICONTROL 最有望見込客]」タブでは、個々のリード／取引先責任者に対して次のインラインアクションを使用できます。
 
-* [!UICONTROL &#x200B; セールスメールの送信 &#x200B;] - パーソナライズされたメールやテンプレート化されたメールを、表示、クリック、返信のトラッキングを使用して送信する機能
-* [!UICONTROL Sales Campaign に追加 &#x200B;] - メールとタスクのシーケンスである販売プレイブックにリードを追加します
-* [!UICONTROL &#x200B; セールスコール &#x200B;] - CRM 内のダイヤラーを使用してセールスコールを行います
-* [!UICONTROL &#x200B; タスクを追加 &#x200B;] – 見込みリードに関するメール、電話、顧客、Linkedin のタスクを作成します
+* [!UICONTROL セールスメールを送信] - 表示、クリック、返信のトラッキングを含むパーソナライズされたメールまたはテンプレート化されたメールを送信する機能。
+* [!UICONTROL セールスキャンペーンに追加] - 一連のメールとタスクで構成されるセールスプレイブックにリードを追加。
+* [!UICONTROL セールス電話] - CRM 内のダイヤラーを使用してセールス電話をかけます。
+* [!UICONTROL タスクを追加] - 見込みリード向けのメール、通話、顧客、Linkedin のタスクを作成します。
 
   ![](assets/sales-insight-actions-feature-overview-5.png)
 
@@ -154,8 +154,8 @@ MSI パネル内のタブでは、以下のデータを使用できます。
 
 * 作成および完了したメール、通話、InMail、カスタムタスクは、このタブでタスク管理に使用できます。タスクを追加する機能を含みます
 * セールスキャンペーンでタスク作成を自動化
-* タスクを [!DNL Salesforce] と同期
-* 「アクティビティ履歴」セクション [!DNL Salesforce] タスクを記録する
+* [!DNL Salesforce] とのタスクの同期
+* [!DNL Salesforce] の「アクティビティ履歴」セクションでタスクを記録
 
   ![](assets/sales-insight-actions-feature-overview-6.png)
 
@@ -172,18 +172,18 @@ Marketo で取り込まれたセールスアクティビティ：
 * セールスメールを開く - リードが送信されたセールスメールを開封
 * セールスメールのリンクをクリック - リードがセールスメールのリンクをクリック
 * 返信済みのセールスメール - リードがセールスメールに返信
-* セールス・コールの受信：リードは、セールス・コールを使用して営業担当者からコールを受け取ります。
+* セールス電話を受信 - リードが、セールス担当者からセールス電話を使用した電話を受信。
 * セールスキャンペーンに追加 - 作成したセールスキャンペーンにリードを追加
 * セールスキャンペーンから削除 - 作成したセールスキャンペーンからリードを削除
 
 フィルターとトリガーには、以下のものがあります。
 
-* [!UICONTROL &#x200B; 販売メールが送信されました &#x200B;]
-* [!UICONTROL &#x200B; 営業メールを開く &#x200B;]
-* [!UICONTROL &#x200B; 販売メールのクリック数 &#x200B;]
-* [!UICONTROL &#x200B; 販売に関する E メールへの返信 &#x200B;]
-* [!UICONTROL &#x200B; セールス・コールの受信 &#x200B;]
-* [!UICONTROL &#x200B; セールスキャンペーンに追加 &#x200B;]
-* [!UICONTROL &#x200B; セールス・キャンペーンから削除 &#x200B;]
+* [!UICONTROL セールスメールを送信]
+* [!UICONTROL セールスメールを開く]
+* [!UICONTROL セールスメールをクリック]
+* [!UICONTROL セールスメールに返信]
+* [!UICONTROL セールス電話を受信]
+* [!UICONTROL セールスキャンペーンに追加]
+* [!UICONTROL セールスキャンペーンから削除]
 
   ![](assets/sales-insight-actions-feature-overview-7.png)

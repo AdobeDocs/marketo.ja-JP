@@ -4,10 +4,10 @@ description: SEO ダッシュボードについて - SEO スナップショッ�
 title: SEO ダッシュボードについて - SEO スナップショット
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 87%
+ht-degree: 96%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 87%
 
 ダッシュボードを使用すると、キーワードのランクの傾向と SEO に対するサイトの最適化状況を大まかに把握できます。
 
-SEO の取り組みを改善するために何に注力すべきかを調べるには、「[[!UICONTROL レコメンデーション]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)」セクションに表示されます。
+SEO の取り組みを改善するために何に注力すべきかを調べるには、このダッシュボードの「[[!UICONTROL レコメンデーション]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)」セクションに表示されます。
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
@@ -41,7 +41,7 @@ SEO の取り組みを改善するために何に注力すべきかを調べる�
 
 ## [!UICONTROL 平均ページ最適化スコア] {#average-page-optimization-score}
 
-[!UICONTROL &#x200B; ページ最適化の平均スコア &#x200B;] は独自のMarketo スコアで、サイト上のすべてのページを 1～100 のスケールで測定します。
+[!UICONTROL 平均ページ最適化スコア]は、Marketo 独自のスコアで、サイト上のすべてのページを 1～100 のスケールで測定します。
 
 何十ものベストプラクティスの集まりに基づいたものです。スコアが 70 以上の場合は、サイトが最適化されていることを示します。
 

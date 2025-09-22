@@ -4,16 +4,16 @@ description: カスタムロジックでの重複リードの検索 - Marketo �
 title: カスタムロジックでの重複リードの検索
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
 # カスタムロジックでの重複リードの検索 {#find-duplicate-people-with-custom-logic}
 
-Marketo Engageには、メールアドレスを照合して重複するユーザーを検索するシステムスマートリストがあります。 別のフィールドを使用して重複を検索する方法を次に示します。
+Marketo Engage には、メールアドレスを照合して重複するリードを見つけるシステムスマートリストがあります。別のフィールドを使用して重複を検索する方法を次に示します。
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ Marketo Engageには、メールアドレスを照合して重複するユーザ
 
 ![](assets/ma-2.png)
 
-1. スマート・リストを選択し、「**[!UICONTROL スマート・リスト]**」タブをクリックします。
+1. スマートリストを選択し、「**[!UICONTROL スマートリスト]**」タブをクリックします。
 
    ![](assets/two-4.png)
 
@@ -33,10 +33,10 @@ Marketo Engageには、メールアドレスを照合して重複するユーザ
 
 1. 次の 4 つのオプションの中から 1 つを選択します。
 
-   * [!UICONTROL &#x200B; メールアドレス &#x200B;]
-   * [!UICONTROL &#x200B; 姓名 &#x200B;]
-   * [!UICONTROL &#x200B; 姓 &#x200B;]
-   * [!UICONTROL &#x200B; 更新日時 &#x200B;]
+   * [!UICONTROL メールアドレス]
+   * [!UICONTROL 姓名]
+   * [!UICONTROL 名前（姓）]
+   * [!UICONTROL 更新日時]
 
    >[!NOTE]
    >
@@ -44,4 +44,4 @@ Marketo Engageには、メールアドレスを照合して重複するユーザ
 
    ![](assets/four-2.png)
 
-   完了です。スマートリストを実行して、以前に選択したフィールドで同じ値を持つ人物を検索します。
+   完了です。スマートリストを実行すると、あらかじめ選択したフィールドに同じ値を持つリードを検索できます。

@@ -3,26 +3,26 @@ description: Salesforce アクティビティ詳細のカスタマイズの設�
 title: Salesforce アクティビティ詳細のカスタマイズの設定
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '675'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
-# アクティビティ [!DNL Salesforce] 詳細のカスタマイズの設定 {#configure-salesforce-activity-detail-customization}
+# [!DNL Salesforce] アクティビティ詳細のカスタマイズ設定 {#configure-salesforce-activity-detail-customization}
 
 >[!PREREQUISITES]
 >
->* [!DNL Salesforce] と [!DNL Marketo Sales Connect] [ 接続する必要があります ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* API を使用したメールアクティビティのログが[有効になっている](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [!DNL Salesforce] および [!DNL Marketo Sales Connect] [を選択する必要があります。](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* API を使用したメールアクティビティのログを[有効にする必要があります。](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
-アクティビティの詳細のカスタマイズにより、管理者は、[!DNL Sales Connect] しいアクティビティ/リマインダータスクがSalesforceに同期された際に、Salesforce タスク – 件名フィールドにログを記録する情報を設定できます。
+アクティビティ詳細のカスタマイズを使用すると、管理者は、[!DNL Sales Connect] のアクティビティ／リマインダータスクが Salesforce に同期されたときに、Salesforce タスクの件名フィールドに記録する情報を設定できます。
 
 >[!NOTE]
 >
->* リマインダータスクの [!DNL Sales Connect] に件名フィールドに加えられた更新は、アクティビティの詳細のカスタマイズで [!DNL Salesforce] の動的フィールドを使用している場合、対応する `{{activity_subject}}` スタムタスクの件名フィールドに反映されます。
->* [!DNL Salesforce] の件名フィールドに情報を記録する場合、改行はサポートされていません。 セールスタスクの件名が更新されると、アクティビティ詳細のカスタマイズエディターで改行が削除されます。
+>* アクティビティ詳細のカスタマイズで `{{activity_subject}}` 動的フィールドを使用している場合、[!DNL Sales Connect] のリマインダータスクの件名フィールドに対して行われた更新は、対応する [!DNL Salesforce] タスクの件名フィールドに反映されます。
+>* 情報を [!DNL Salesforce] 件名フィールドに記録する場合、改行はサポートされません。セールスタスクの件名が更新されると、アクティビティ詳細のカスタマイズエディターで改行が削除されます。
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -52,15 +52,15 @@ ht-degree: 69%
 
 >[!NOTE]
 >
->メールの返信をアクティビティとして [!DNL Salesforce] に記録する場合、[!DNL Salesforce] のアクティビティの詳細のカスタマイズ設定は使用されません。 代わりに、「返信：メールの件名」として記録されます。
+>メール返信をアクティビティとして [!DNL Salesforce] に記録する場合、[!DNL Salesforce] のアクティビティ詳細のカスタマイズ設定は使用されません。代わりに、「返信：メールの件名」として記録されます。
 
 ## サポートされるアクティビティの動的フィールド {#activity-dynamic-fields-supported}
 
-アクティビティの動的フィールドでは、セールスアクティビティに関する情報を参照してデータが入力されます。現在は、アクティビティの詳細のカスタマイズ [!DNL Salesforce] 使用できます。
+アクティビティの動的フィールドでは、セールスアクティビティに関する情報を参照してデータが入力されます。現在、これは [!DNL Salesforce] アクティビティ詳細のカスタマイズと共に使用できます。
 
 >[!NOTE]
 >
->特定のアクティビティまたはタスクの動的フィールドに入力する値がない場合、[!DNL Salesforce] のタスク – 件名フィールドが更新されても、その動的フィールドのデータは入力されません。
+>特定のアクティビティ／タスクの動的フィールドに入力する値がない場合、[!DNL Salesforce] タスクの件名フィールドが更新されても、その動的フィールドのデータは入力されません。
 
 <table>
  <tr>
@@ -103,9 +103,9 @@ ht-degree: 69%
 
 >[!NOTE]
 >
->**管理者権限が必要。**
+>**管理者権限が必要です。**
 
-アクティビティの詳細を設定する際は、[!DNL Salesforce] でタスク履歴を確認する際に、売上に最も関連のあるデータを検討します。
+アクティビティ詳細を設定する際は、[!DNL Salesforce] でタスク履歴を確認する際に、どのデータがセールスに最も関連するかを検討します。
 
 1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
@@ -119,7 +119,7 @@ ht-degree: 69%
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. アクティビティの詳細のカスタマイズエディターで、任意のフリーテキストを追加します。追加したテキストは動的ではなく、[!DNL Salesforce] に同期されたすべてのタスクの件名フィールドに対して変更されません。
+1. アクティビティの詳細のカスタマイズエディターで、任意のフリーテキストを追加します。追加したテキストは動的ではなく、[!DNL Salesforce] に同期されたすべてのタスクの件名フィールドで変更されないままになります。
 
    ![](assets/configure-salesforce-activity-detail-customization-6.png)
 
@@ -141,10 +141,10 @@ ht-degree: 69%
 
 >[!NOTE]
 >
->[!DNL Salesforce] では、255 文字制限が適用されます。 アクティビティの詳細がこの値を超えると、[!DNL Salesforce] の件名フィールドに情報が確実に保存されるように、内容が切り捨てられます。
+>[!DNL Salesforce] では 255 文字の制限が適用されます。アクティビティの詳細がこれを超えると、情報を [!DNL Salesforce] 件名フィールドに保存できるように切り捨てられます。
 
 >[!MORELIKETHIS]
 >
 >* [同期設定](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
->* [ リマインダータスクの同期先  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
->* [[!DNL Sales Connect] CRM 向けカスタマイズ ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
+>* [ [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md) とのリマインダータスク同期
+>* CRM 用の [[!DNL Sales Connect]  のカスタマイズ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

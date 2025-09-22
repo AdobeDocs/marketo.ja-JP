@@ -4,7 +4,7 @@ description: テンプレート 11D - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 11D
 exl-id: ca4ab098-6fc6-48a6-b2b2-0e1f075ea168
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 11D {#template-11d}
 
-右クリックして[テンプレート 11D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html?lang=ja)します
+右クリックして[テンプレート 11D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)します
 
 ![](assets/template-11d.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 11D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html?lang=ja)
+[Template 11D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11d.html)

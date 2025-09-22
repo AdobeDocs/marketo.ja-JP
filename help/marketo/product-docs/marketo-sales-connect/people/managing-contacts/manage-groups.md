@@ -4,20 +4,20 @@ description: グループの管理 - Marketo ドキュメント - 製品ドキ�
 title: グループの管理
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
 # グループの管理 {#manage-groups}
 
-[!DNL Sales Connect] でグループを管理する方法を説明します。
+[!DNL Sales Connect] でグループを管理する方法について説明します。
 
 ## グループの作成 {#create-a-group}
 
-1. [!UICONTROL &#x200B; 人物 &#x200B;] ページで、「**グループ** の横の [!UICONTROL +] をクリックします。
+1. [!UICONTROL 人物]ページで、[!UICONTROL グループ]の横の「**+**」アイコンをクリックします。
 
    ![](assets/one-4.png)
 
@@ -29,7 +29,7 @@ ht-degree: 70%
 
 ## グループに取引先責任者を追加 {#add-contacts-to-a-group}
 
-1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、ユーザーを追加するグループを見つけて選択します。
+1. [!UICONTROL 人物]ページで、人物を追加するグループを探して選択します。
 
    ![](assets/three-3.png)
 
@@ -53,7 +53,7 @@ ht-degree: 70%
 
 ## グループの共有 {#share-a-group}
 
-1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、共有するグループを見つけて選択します。
+1. [!UICONTROL 人物]ページで、共有するグループを見つけて選択します。
 
    ![](assets/six.png)
 
@@ -73,7 +73,7 @@ ht-degree: 70%
 
 ## グループの共有解除 {#unshare-a-group}
 
-1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、共有を解除するグループを見つけて選択します。
+1. [!UICONTROL 人物]ページで、共有を解除するグループを見つけて選択します。
 
    ![](assets/ten.png)
 
@@ -89,7 +89,7 @@ ht-degree: 70%
 
 ## グループ名の変更 {#rename-a-group}
 
-1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、名前を変更するグループを見つけて選択します。
+1. [!UICONTROL 人物]ページで、名前を変更するグループを見つけて選択します。
 
    ![](assets/six.png)
 
@@ -103,7 +103,7 @@ ht-degree: 70%
 
 ## グループの削除 {#delete-a-group}
 
-1. [!UICONTROL &#x200B; ユーザー &#x200B;] ページで、削除するグループを見つけて選択します。
+1. [!UICONTROL 人物]ページで、削除するグループを見つけて選択します。
 
    ![](assets/fifteen.png)
 

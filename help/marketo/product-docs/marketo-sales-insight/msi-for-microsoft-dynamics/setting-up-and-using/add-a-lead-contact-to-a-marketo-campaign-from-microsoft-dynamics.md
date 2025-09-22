@@ -4,18 +4,18 @@ description: Microsoft Dynamics から Marketo Campaign へのリード／連絡
 title: Microsoft Dynamics から Marketo Campaign へのリード／連絡先の追加
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 48%
+ht-degree: 100%
 
 ---
 
-# [!DNL Microsoft Dynamics] からのMarketo キャンペーンへのリード/連絡先の追加 {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
+# [!DNL Microsoft Dynamics] から Marketo キャンペーンへのリード／取引先責任者の追加 {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
-[!DNL Microsoft Dynamics] 内から直接Marketo スマートキャンペーンに、リード/連絡先をすばやく簡単に追加できます。 手順は次のとおりです。
+[!DNL Microsoft Dynamics] 内から直接、Marketo のスマートキャンペーンにリードや取引先責任者を素早く簡単に追加できます。手順は次のとおりです。
 
-1. [!DNL Dynamics] では、**[!UICONTROL 営業]** エリアに移動します。
+1. [!DNL Dynamics] で、**[!UICONTROL セールス]**&#x200B;領域に移動します。
 
    ![](assets/image2014-10-20-12-3a9-3a56.png)
 
@@ -37,6 +37,6 @@ ht-degree: 48%
 
    >[!NOTE]
    >
-   >キャンペーンをドロップダウンに表示するには、キャンペーンを設定する際に、[**をソースとして** キャンペーンがリクエストされています ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)トリガー[!DNL Sales Insight] を使用します。
+   >ドロップダウンにキャンペーンを表示するには、キャンペーンを設定する際に、「[**キャンペーンをリクエスト**」トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)を使用し、[!DNL Sales Insight] をソースにします。
 
-以上です。これで、[!DNL Dynamics] から直接Marketo スマートキャンペーンの機能を手に入れることができます。
+以上です。これで Marketo のスマートキャンペーンのパワーを [!DNL Dynamics] から直接使用できます。

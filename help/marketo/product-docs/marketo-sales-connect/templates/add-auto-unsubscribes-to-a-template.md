@@ -4,16 +4,16 @@ description: 自動登録解除のテンプレートへの追加 - Marketo ド�
 title: 自動登録解除のテンプレートへの追加
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # 自動登録解除のテンプレートへの追加 {#add-auto-unsubscribes-to-a-template}
 
-1. テンプレートを選択し、「**[!UICONTROL 登録解除]** セクションの [!UICONTROL &#x200B; 編集 &#x200B;] をクリックします。
+1. テンプレートを選択し、「[!UICONTROL 登録解除]」セクションの「**[!UICONTROL 編集]**」をクリックします。
 
 1. 自動登録解除、自動ブロック登録解除、またはその両方を追加するかどうかを選択します。
 

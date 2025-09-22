@@ -4,10 +4,10 @@ description: リードと顧客の照合 - Marketo ドキュメント - 製品�
 title: リードと顧客の照合
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '470'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo のリードと顧客の照合を使用して、適切なリードを適
 
 >[!NOTE]
 >
->**リードとアカウントのマッチング** は、Marketo [!UICONTROL Target アカウント管理 &#x200B;] のビルトイン機能です。 ファジィ論理を使用して、ほぼリアルタイムで適切な重点顧客にリードを自動的に一致させます。これらの重点顧客は、CRM アカウントまたは Marketo の会社です。
+>**リードと顧客の照合**&#x200B;は、Marketo [!UICONTROL ターゲット顧客管理]のビルトインの機能です。ファジィ論理を使用して、ほぼリアルタイムで適切な重点顧客にリードを自動的に一致させます。これらの重点顧客は、CRM アカウントまたは Marketo の会社です。
 
 ## 概要 {#overview}
 
@@ -37,7 +37,7 @@ Marketo のリードと顧客の照合は、次の 4 つの手順に従います
 
 **手順 4**：強い一致と弱い一致を持つ提案企業のリストを提示します。提案された会社の 1 つに基づいて重点顧客を作成する場合、一致するルールを作成して、新規リード（例：フォームに入力されたリード）を適切な重点顧客に自動的に関連付けます。これにより、リードの照合の心配を減らし、収益の獲得についての心配を減らすことができます。
 
-Marketo リードとアカウントのマッチングはMarketo [!UICONTROL Target Account Management] の組み込み機能なので、リードとアカウントのマッチングはほぼリアルタイムで行われます（リードがMarketo フォームに記入した瞬間など、リードと適切な名前付きアカウントを関連付けます）。 このイベントを使用して、アラートをトリガーし、顧客の所有者に対して、重点顧客からの新規リードの通知をおこなうことができます。
+Marketo のリードとアカウントの照合は Marketo [!UICONTROL ターゲットアカウント管理]のビルトインの機能なので、ほぼリアルタイムで行われます（例えば、リードが Marketo フォームに入力した瞬間に、適切な重点顧客と関連付けます）。このイベントを使用して、アラートをトリガーし、顧客の所有者に対して、重点顧客からの新規リードの通知をおこなうことができます。
 
 >[!NOTE]
 >
@@ -65,7 +65,7 @@ Marketo リードとアカウントのマッチングはMarketo [!UICONTROL Targ
 
    ![](assets/lead-to-account-matching-2.png)
 
-1. 「[!UICONTROL &#x200B; 一致したアカウントのレポート &#x200B;]」を検索して、フィールドがあることを確認します。
+1. 「[!UICONTROL Reporting Matched Account]」を検索して、フィールドが存在することを確認します。
 
    ![](assets/lead-to-account-matching-3.png)
 

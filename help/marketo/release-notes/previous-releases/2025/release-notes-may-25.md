@@ -3,7 +3,7 @@ description: リリースノート - 2025年5月 - Marketo ドキュメント - 
 title: リリースノート - 2025年5月
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 100%

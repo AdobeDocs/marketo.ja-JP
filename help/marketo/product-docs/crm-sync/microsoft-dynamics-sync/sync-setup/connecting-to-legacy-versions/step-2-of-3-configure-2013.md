@@ -4,10 +4,10 @@ description: 手順 2 / 3 - Marketo（2013 オンプレミス）の同期ユー�
 title: 手順 2 / 3 - Marketo（2013 オンプレミス）の同期ユーザーの設定
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 87%
 
 >[!PREREQUISITES]
 >
->[ 手順 1/3:Marketo ソリューションを  [!DNL Dynamics]  （2013 オンプレミス）にインストールする ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
+>[手順 1／3： [!DNL Dynamics] （2013 オンプレミス）での Marketo ソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
 
 ## 同期ユーザのロールの割り当て {#assign-sync-user-role}
 
@@ -25,7 +25,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 >[!NOTE]
 >
->これは、Marketo プラグインバージョン 4.0.0.14 以降に当てはまります。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。Marketoをアップグレードするには、[Marketo ソリューションのアップグレード  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) を参照してください。
+>これは、Marketo プラグインバージョン 4.0.0.14 以降に当てはまります。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。Marketo をアップグレードする方法について詳しくは、[ [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) 用 Marketo ソリューションのアップグレードを参照してください。
 
 >[!IMPORTANT]
 >
@@ -39,7 +39,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
    ![](assets/image2014-12-11-11-3a13-3a29.png)
 
-1. ユーザーのリストが表示されます。専用の Marketo 同期ユーザを選択するか、[Active Directory Federation Services（AFDS）](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"}管理者に問い合わせて、[Marketo 専用ユーザ](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx){target="_blank"}の新規作成を依頼します。
+1. ユーザーのリストが表示されます。専用の Marketo 同期ユーザを選択するか、[Active Directory Federation Services（AFDS）](https://msdn.microsoft.com/ja-jp/library/bb897402.aspx){target="_blank"}管理者に問い合わせて、[Marketo 専用ユーザ](https://blogs.technet.com/b/askpfeplat/archive/2014/04/21/introduction-to-active-directory-federation-services-ad-fs-alternateloginid-feature.aspx){target="_blank"}の新規作成を依頼します。
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -90,11 +90,11 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 ## 手順 3 に進む前に {#before-proceeding-to-step}
 
 * 同期するレコード数を制限する場合は、[カスタム同期フィルターを設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)します。
-* [Validate [!DNL Microsoft Dynamics] Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) プロセスを実行します。 初期設定が正しく行われたことを確認します。
-* [!DNL Microsoft Dynamics] CRM でMarketo同期ユーザーにログインします。
+* [ [!DNL Microsoft Dynamics]  同期を検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)プロセスを実行します。初期設定が正しく行われたことを確認します。
+* [!DNL Microsoft Dynamics] CRM で、Marketo 同期ユーザにログインします。
 
 これで完了です。
 
 >[!MORELIKETHIS]
 >
->[ 手順 3/3:Marketoと  [!DNL Dynamics]  （2013 オンプレミス）を接続する ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
+>[手順 3／3：Marketo と  [!DNL Dynamics] （2013 オンプレミス）の接続](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)

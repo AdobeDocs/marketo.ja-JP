@@ -4,8 +4,8 @@ description: メールチャンピオン／挑戦者の追加 - Marketo ドキ�
 title: メールチャンピオン／挑戦者の追加
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 100%
 

@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
 # カスタムオブジェクト同期 {#custom-object-sync}
 
-[!DNL Veeva] CRM インスタンスで作成されたカスタムオブジェクトも、Marketo Engageに含めることができます。 その設定方法を説明します。
+[!DNL Veeva] CRM インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。その設定方法を説明します。
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ ht-degree: 68%
 
 >[!PREREQUISITES]
 >
->カスタムオブジェクトを使用するには、CRM の連絡先またはアカウントオブジェクトに関連付ける必要 [!DNL Veeva] あります。
+>カスタムオブジェクトを使用するには、[!DNL Veeva] CRM で取引先責任者またはアカウントオブジェクトに関連付けられている必要があります。
 
 ## カスタムオブジェクトの有効化 {#enable-custom-object}
 
@@ -66,7 +66,7 @@ ht-degree: 68%
 
    ![](assets/custom-object-sync-8.png)
 
-1. [!DNL Veeva] のすべてのカスタムオブジェクトを表示するには、**[!UICONTROL 管理者]** と **[!UICONTROL Veeva オブジェクト同期]** をクリックします。
+1. すべての [!DNL Veeva] カスタムオブジェクトを表示するには、「**[!UICONTROL 管理者]**」をクリックし、「**[!UICONTROL Veeva オブジェクト同期]**」をクリックします。
 
    ![](assets/custom-object-sync-9.png)
 
@@ -78,5 +78,5 @@ ht-degree: 68%
 
 >[!MORELIKETHIS]
 >
->* [ コールとコールのキーメッセージの同期 ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+>* [通話と通話の主要メッセージの同期](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
 >* [スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／削除](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

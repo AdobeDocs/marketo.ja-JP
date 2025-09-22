@@ -4,10 +4,10 @@ description: ワークスペースを使用したデフォルトのブランデ�
 title: ワークスペースを使用したデフォルトのブランディングドメインの編集
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 86%
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. [!UICONTROL &#x200B; ブランディングドメイン &#x200B;] テーブルで、現在の汎用ドメインを選択し、**[!UICONTROL 編集]** をクリックして、会社のブランドドメインに変更します。
+1. [!UICONTROL ブランディングドメイン]テーブルで、現在の汎用ドメインを選択し、「**[!UICONTROL 編集]**」をクリックして、会社のブランディングドメインに変更します。
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 

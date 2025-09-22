@@ -4,7 +4,7 @@ description: スマートキャンペーンでのリード制限数の上書き 
 title: スマートキャンペーンでのリード制限数の上書き
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 35%
@@ -13,7 +13,7 @@ ht-degree: 35%
 
 # スマートキャンペーンでのリード制限数の上書き {#override-person-restrictions-in-a-smart-campaign}
 
-Marketo Engageを使用すると、スマートキャンペーンの対象となる最大人数を設定できます。これにより、データベース全体に誤ってメールが送信されるのを回避できます。 この制限を&#x200B;_上書き_&#x200B;する場合は、次の手順に従います。
+Marketo Engageでは、スマートキャンペーンの対象となる最大人数を設定できます。これにより、データベース全体に誤ってメールが送信されるのを回避できます。 この制限を&#x200B;_上書き_&#x200B;する場合は、次の手順に従います。
 
 >[!PREREQUISITES]
 >

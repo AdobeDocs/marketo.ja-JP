@@ -4,8 +4,8 @@ description: スマートリストからの単一フローステップの実行 
 title: スマートリストからの単一フローステップの実行
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 100%
 

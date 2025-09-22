@@ -3,10 +3,10 @@ description: 「メール」タブ - Marketo ドキュメント - 製品ドキ�
 title: 「メール」タブ
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 59%
 * 開封済み
 * クリック済み
 
-件名行の横に Marketo アイコンが付いたメールは、Marketo からメールが送信されたことを示します。「Marketo」アイコンのないメールは、メールが [!DNL Sales Insight] から送信されたことを示します。
+件名行の横に Marketo アイコンが付いたメールは、Marketo からメールが送信されたことを示します。Marketo アイコンが付いていないメールは、メールが [!DNL Sales Insight] から送信されたことを示します。
 
-「[!UICONTROL &#x200B; 配信ステータスを確認 &#x200B;]」ボタンをクリックすると、メールの配信ステータスを示す新しいタブが開きます。
+「[!UICONTROL 配信ステータスを確認]」ボタンをクリックすると、新しいタブが開き、メールの配信ステータスが表示されます。
 
 <table>
  <tbody>
@@ -38,5 +38,5 @@ ht-degree: 59%
 
 >[!NOTE]
 >
->* CRM から [!DNL Sales Insight] に送信されたメールの配信ステータス [!DNL Salesforce] 使用できません。
->* このタブには、Marketoから送信されるメールのテンプレート名と、[!DNL Sales Insight] から送信されるメールの件名が表示されます。 プレビューモードで開いて、送信されたメールの件名行を確認するか、リード／取引先責任者／アカウント／商談パネルの「メール」タブを参照します。
+>* [!DNL Salesforce] CRM から [!DNL Sales Insight] に送信されたメールの配信ステータスは使用できません。
+>* このタブには、Marketo から送信されたメールのテンプレート名と、[!DNL Sales Insight] から送信されたメールの件名が反映されます。プレビューモードで開いて、送信されたメールの件名行を確認するか、リード／取引先責任者／アカウント／商談パネルの「メール」タブを参照します。

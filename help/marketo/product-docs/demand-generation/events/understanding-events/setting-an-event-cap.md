@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 90%
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. [!UICONTROL &#x200B; 登録ページ &#x200B;] ドロップダウンをクリックし、登録ページとして機能するランディングページを選択します。
+1. 「[!UICONTROL 登録ページ]」ドロップダウンリストをクリックして、登録ページとして機能するランディングページを選択します。
 
    ![](assets/setting-an-event-cap-4.png)
 

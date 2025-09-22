@@ -4,10 +4,10 @@ description: コンテンツパターンの作成 - Marketo ドキュメント -
 title: コンテンツパターンの作成
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '367'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 82%
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Web ページが存在するドメインの URL 拡張子を追加します。カテゴリを選択します（例：[!UICONTROL &#x200B; ブログ &#x200B;]、[!UICONTROL &#x200B; 記事 &#x200B;]、[!UICONTROL &#x200B; データシート &#x200B;]、[!UICONTROL &#x200B; プレスリリース &#x200B;]）。
+1. Web ページが存在するドメインの URL 拡張子を追加します。カテゴリを選択します（例：[!UICONTROL ブログ]、[!UICONTROL 記事]、[!UICONTROL データシート]、[!UICONTROL プレスリリース]）。
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -45,10 +45,10 @@ ht-degree: 82%
 
 ## コンテンツパターンのルール {#content-pattern-rules}
 
-* ワイルドカードは、式内の任意の場所で使用できます（例：_domain.com/&#42;_, _domain.com/&#42;blog&#42;_）
+* 式の任意の場所でワイルドカードを使用できます（例：_domain.com/&#42;_、_domain.com/&#42;blog&#42;_）
 
-* 式の最後に/&#42; を使用して、パターン検出を続行することをお勧めします（例：_domain.com/blog/&#42;_ は、ブログフォルダー内のすべての投稿を検出します）
-* コンテンツパターンでは大文字と小文字が区別されません（例：_domain.com/Blog/&#42;_ は、_domain.com/Blog&rbrace; および_ 4&rbrace;domain.com/blog _上のすべての HTML ページを検出します）_
+* パターン検出を続行するには、式の末尾に /&#42; を使用することをお勧めします（例：_domain.com/blog/&#42;_ は、ブログフォルダー内のすべての投稿を検出します）。
+* コンテンツパターンでは大文字と小文字が区別されません（例：_domain.com/Blog/&#42;_ は、_domain.com/Blog_ および _domain.com/blog_ のすべての HTML ページを検出します）。
 
 * URL パラメーターは検出しません（これにより、同じコンテンツ URL で異なるパラメーターを持つ複数の項目が検出されるのを回避します）
 

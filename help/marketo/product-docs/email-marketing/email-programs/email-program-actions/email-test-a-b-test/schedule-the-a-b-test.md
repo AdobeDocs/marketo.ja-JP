@@ -4,16 +4,16 @@ description: A/B テストのスケジュール - Marketo ドキュメント - �
 title: A/B テストのスケジュール
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 # A/B テストのスケジュール {#schedule-the-a-b-test}
 
-メールプログラムに A/B テストを追加し、推奨結果の条件を定義したら、いつテストが開始するかをスケジュールする必要があります。手順は以下のとおりです。
+メールプログラムに A/B テストを追加し、推奨結果の条件を定義したら、いつテストが開始するかをスケジュールする必要があります。手順は次のとおりです。
 
 >[!PREREQUISITES]
 >
@@ -47,7 +47,7 @@ ht-degree: 95%
    >
    >勝者を手動で発表する場合は、「**レポートを送信**」日時の代わりに「**メールを送信終了**」日時を定義します。
 
-   これで全部です。完了しました。概要を確認し、「**[!UICONTROL 閉じる]**」をクリックするだけです。
+   これで全部です。完了したら、概要を確認し、「**[!UICONTROL 閉じる]**」をクリックします。
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 

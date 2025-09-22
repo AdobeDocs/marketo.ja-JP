@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '320'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 72%
 
 >[!NOTE]
 >
->[!DNL Sales Connect] からMarketo キャンペーンにユーザーを追加するには、[!DNL Sales Connect] のユーザーのMarketo リード ID が必要です。
+>[!DNL Sales Connect] から Marketo キャンペーンに人物を追加するには、[!DNL Sales Connect] に人物の Marketo リード ID が必要です。
 
 1. 「**[!UICONTROL リード]**」タブをクリックします。
 
@@ -40,7 +40,7 @@ ht-degree: 72%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、取引先責任者をさらに追加することもできます。必要に応じて、「個人 [!UICONTROL &#x200B; をクリックし &#x200B;] 入力します。 終了したら「**[!UICONTROL 次へ]**」をクリックします。
+1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、取引先責任者をさらに追加することもできます。選択する場合は、「[!UICONTROL 個人]」をクリックして入力します。終了したら「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/add-to-marketing-campaign-5.png)
 
@@ -54,7 +54,7 @@ PICC
 
 >[!NOTE]
 >
->目的のワークスペースが表示されない場合は、管理者がMarketo[!UICONTROL &#x200B; チームアクセス &#x200B;] ページを使用してプロビジョニングしていることを確認します。
+>必要なワークスペースが表示されない場合は、管理者が Marketo [!UICONTROL チームアクセス]ページでワークスペースをプロビジョニングしていることを確認してください。
 
 1. 目的のキャンペーンを選択し、「**[!UICONTROL 次へ]**」をクリックします。
 
@@ -70,7 +70,7 @@ PICC
 
 PICC
 
-1. [!UICONTROL &#x200B; マイグループ &#x200B;] で、キャンペーンに追加するグループを選択します。
+1. 「[!UICONTROL マイグループ]」で、キャンペーンに追加するグループを選択します。
 
 PICC
 
@@ -78,7 +78,7 @@ PICC
 
 PICC
 
-1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、取引先責任者をさらに追加することもできます。必要に応じて、「個人 [!UICONTROL &#x200B; をクリックし &#x200B;] 入力します。 終了したら「**[!UICONTROL 次へ]**」をクリックします。
+1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、取引先責任者をさらに追加することもできます。選択する場合は、「[!UICONTROL 個人]」をクリックして入力します。終了したら「**[!UICONTROL 次へ]**」をクリックします。
 
 PICC
 
@@ -88,7 +88,7 @@ PICC
 
 >[!NOTE]
 >
->[!DNL Sales Connect] からMarketo キャンペーンにユーザーを追加するには、[!DNL Sales Connect] のユーザーのMarketo リード ID が必要です。
+>[!DNL Sales Connect] から Marketo キャンペーンに人物を追加するには、[!DNL Sales Connect] にその人物の Marketo リード ID が必要です。
 
 1. ワークスペースドロップダウンをクリックし、グループを追加するキャンペーンが含まれているワークスペースを選択します。
 

@@ -4,10 +4,10 @@ description: ライブフィードの概要 - Marketo ドキュメント - 製�
 title: ライブフィードの概要
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '389'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -48,7 +48,7 @@ MSE メールのエンゲージメント（表示、クリック、返信）を�
 >
 >カスタムの日付フィルターはライブフィードでは使用できませんが、web アプリケーションでは使用できます。
 
-クイックアクションボタンを使用すると、電話をかけるか、メールを送信するか、ユーザーの [!DNL Linkedin] プロファイルにすばやく移動することができます。
+クイックアクションボタンを使用して、通話、メールの送信、リードの [!DNL Linkedin] プロファイルへの移動をすばやく行うことができます。
 
 ## 「ターゲット」タブ {#target-tab}
 
@@ -58,7 +58,7 @@ MSE メールのエンゲージメント（表示、クリック、返信）を�
 
 * リードは、Marketo でユーザースコアが増加すると生成されます。
 * 上位 50 名のリードが表示されます。
-* [!DNL Salesforce] で自分に割り当てられたユーザーのみが表示されます。
+* [!DNL Salesforce] で割り当てられたリードのみが表示されます。
 
 ## アイコン用語集 {#icon-glossary}
 

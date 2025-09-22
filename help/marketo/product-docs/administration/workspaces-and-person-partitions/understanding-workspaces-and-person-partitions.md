@@ -4,10 +4,10 @@ description: ワークスペースと人物パーティションについて - M
 title: ワークスペースと人物パーティションについて
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 100%
+source-wordcount: '535'
+ht-degree: 96%
 
 ---
 
@@ -113,9 +113,9 @@ ht-degree: 100%
 
 人物パーティションを[ワークスペース](create-a-new-workspace.md)に割り当てるには、以下の設定に従います。
 
-* 1 つのワークスペースと 1 つの人物パーティション（1：1）
-* 1 つのワークスペースに対して多数の人物パーティション （1：x）
-* 多数のワークスペースに対して 1 つの人物パーティション（x：1）
+* 1 つのワークスペースから 1 人のユーザー用のパーティション （1:1）
+* 1 つのワークスペースから多数のユーザー用のパーティション （1:x）
+* 多数のワークスペースを 1 人のユーザーがパーティションに分割（x:1）
 
 >[!NOTE]
 >

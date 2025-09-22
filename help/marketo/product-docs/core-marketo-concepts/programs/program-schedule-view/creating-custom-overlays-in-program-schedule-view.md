@@ -4,10 +4,10 @@ description: プログラムスケジュール表示でのカスタムオーバ�
 title: カスタムオーバーレイの作成
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 83%
 
    ![](assets/image2014-9-24-10-3a20-3a17.png)
 
-1. オーバーレイに表示したい [!UICONTROL &#x200B; エントリタイプ &#x200B;] を選択します。
+1. オーバーレイで表示する[!UICONTROL エントリタイプ]を選択します。
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 

@@ -2,7 +2,7 @@
 description: セールスアクションデータの Marketo および Salesforce との同期- Marketo ドキュメント - 製品ドキュメント
 title: セールスアクションデータの Marketo および Salesforce との同期
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1068'
 ht-degree: 100%
@@ -37,7 +37,7 @@ Sales Insight Actions のデータ統合フィールド同期を使用すると�
 
 セールス所有者は、Marketo 同期ユーザーや、特定の Salesforce またはセールスユーザーである必要はありません。必要なのは、Salesforce のリード所有者と取引先責任者所有者フィールドにユーザーがリストされていることだけです。これにより、リードとして識別して Sales Insight Actions に同期できます。同期するフィールドが更新されると、Sales Insight Actions でも検出され、更新されます。
 
-## Sales Insight スマートグリッドに表示されるアクティビティデータは、どこから入手されるのですか？ {#where-does-the-activity-data-get-sourced-from}
+## セールスインサイトスマートグリッドに表示されるアクティビティデータは、どこから入手されるのですか？ {#where-does-the-activity-data-get-sourced-from}
 
 ![](assets/actions-data-sync-faq-3.png)
 
@@ -96,7 +96,7 @@ Sales Actions データベースは、Marketo Engage データベースに存在
 以下に、Marketo に記録されるアクティビティのリストを示します。
 
 * セールスメールを送信
-* セールスメール開封
+* セールスメールを開く
 * セールスメールクリック
 * セールスメールに返信
 * セールスメールバウンス

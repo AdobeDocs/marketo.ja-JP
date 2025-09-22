@@ -2,8 +2,8 @@
 description: プライバシーリクエスト - Marketo ドキュメント - 製品ドキュメント
 title: プライバシーリクエスト
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 100%
 

@@ -4,16 +4,16 @@ description: 選択リスト値の追加／削除 - Marketo ドキュメント -
 title: 選択リスト値の追加／削除
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 # 選択リスト値の追加／削除 {#add-remove-picklist-values}
 
-[!DNL Salesforce] での選択リスト値の追加と削除について知っておくべきことを以下に示します。
+次は、[!DNL Salesforce] で選択リストの値を追加および削除する方法について知っておく必要があることです。
 
 ## 選択リスト値の追加 {#adding-picklist-values}
 
@@ -25,13 +25,13 @@ ht-degree: 66%
 
 ## 選択リスト値の削除 {#remove-picklist-values}
 
-[!DNL Salesforce] のフィールドから選択リスト値を削除した場合は、このフィールドをホストするすべてのフォームからこの値を手動で削除する必要があります。
+[!DNL Salesforce] のフィールドから選択リスト値が削除された場合、このフィールドをホストするすべてのフォームからこの値を手動で削除する必要があります。
 
 >[!NOTE]
 >
->Salesforceのリードフィールドと連絡先フィールドに異なる値が設定されている場合、共通の値をMarketo Engageで使用することができます。
+>Salesforce のリードフィールドと取引先責任者フィールドの値が異なる場合、共通の値を Marketo Engage で使用できます。
 
-[!DNL Salesforce] のリードフィールドと連絡先フィールドの値が異なる場合：
+[!DNL Salesforce] のリードフィールドと取引先責任者フィールドの値が異なる場合：
 
 1. SFDC で選択リストに値を追加すると、通知が届きます。
 1. 通知には、使用箇所が示されます。これで、この新しい値を必要に応じてフォーム上のオプションとして追加できます。

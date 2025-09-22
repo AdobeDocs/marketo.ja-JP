@@ -4,20 +4,20 @@ description: Sales Insight で星と炎に使用するスコアフィールド�
 title: Sales Insight で星と炎に使用するスコアフィールドの設定
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; で &#x200B;] 星 [!UICONTROL &#x200B; と &#x200B;] 炎 [!DNL Sales Insight] に使用するスコアフィールドを設定 {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# [!DNL Sales Insight] で[!UICONTROL 星]と[!UICONTROL 炎]に使用するスコアフィールドの設定 {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-デフォルト [!DNL Marketo Sales Insight] は、「リードスコア **[!UICONTROL フィールドを使用して星と炎を計算します]** 別のフィールドを選択する場合は、次をおこないます。
+デフォルトでは、[!DNL Marketo Sales Insight] は「**[!UICONTROL リードスコア]**」フィールドを使用して星と炎を計算します。別のフィールドを選択する場合は、次をおこないます。
 
 >[!TIP]
 >
@@ -53,7 +53,7 @@ ht-degree: 82%
 
    >[!NOTE]
    >
-   >再計算 [!DNL Sales insight] はしばらく時間がかかります。 後で CRM をチェックして星と炎を確認できます。
+   >[!DNL Sales insight] の再計算には時間がかかります。後で CRM をチェックして星と炎を確認できます。
 
    >[!MORELIKETHIS]
    >

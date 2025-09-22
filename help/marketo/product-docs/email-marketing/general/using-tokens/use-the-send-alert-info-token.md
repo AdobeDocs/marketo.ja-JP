@@ -4,8 +4,8 @@ description: アラート情報送信トークン {{SP_Send_Alert_Info}} の使�
 title: アラート情報送信トークンの使用
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 100%
 

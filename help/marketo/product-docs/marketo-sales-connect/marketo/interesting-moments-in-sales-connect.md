@@ -4,20 +4,20 @@ description: Sales Connect での注目のアクション - Marketo ドキュメ
 title: Sales Connect の注目のアクション
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '274'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
-# 注目のアクション（[!DNL Sales Connect]） {#interesting-moments-in-sales-connect}
+# [!DNL Sales Connect] での注目のアクション {#interesting-moments-in-sales-connect}
 
-興味深い瞬間は、[!DNL Marketo Sales Connect] を通じてセールスチームとコミュニケーションを取るための鍵です。
+注目のアクションは、[!DNL Marketo Sales Connect] を通じてセールスチームとコミュニケーションを取る鍵となります。
 
 >[!AVAILABILITY]
 >
->これらの機能は、[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md) および [!DNL Marketo Sales Connect] のお客様のみが利用できます。
+>注目のアクションを使用できるのは、[Marketo セールスインサイト](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md)と[!DNL Marketo Sales Connect] を契約されたお客様だけです。
 
 >[!PREREQUISITES]
 >
@@ -43,7 +43,7 @@ ht-degree: 78%
 
    ![](assets/image2015-1-8-18-3a15-3a20.png)
 
-1. **タイプ** （[!UICONTROL &#x200B; メール &#x200B;]、[!UICONTROL &#x200B; マイルストーン &#x200B;] または [!UICONTROL Web]）を選択します。
+1. **タイプ**&#x200B;を選択します（[!UICONTROL メール]、[!UICONTROL マイルストーン]、[!UICONTROL web]）。
 
    ![](assets/image2015-1-8-18-3a17-3a16.png)
 
@@ -61,8 +61,8 @@ ht-degree: 78%
 
 ![](assets/image2015-1-14-18-3a45-3a58.png)
 
-## [!DNL Sales Connect] で興味深い瞬間は何に見えますか？ {#what-does-an-interesting-moment-look-like-in-sales-connect}
+## 注目のアクションは、[!DNL Sales Connect] でどのように表示されるか {#what-does-an-interesting-moment-look-like-in-sales-connect}
 
-注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。リードの所有者 ID を使用して、関連するリードの中で自分が所有者であ [!DNL Salesforce] ユーザーの興味深い瞬間を表示します。 リード名の横にあるドロップダウンをクリックすると、電子メール、電話、販売キャンペーンでリードを素早くフォローアップできます。
+注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。[!DNL Salesforce] のリード所有者 ID を利用して、ユーザが所有する関連リードの注目のアクションを表示します。リード名の横にあるドロップダウンをクリックすると、メール、電話、セールスキャンペーンでリードを素早くフォローアップできます。
 
 ![](assets/engagement.jpg)

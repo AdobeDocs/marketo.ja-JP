@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378468
-description: 監査証跡でのフィルタリング - Marketo ドキュメント - 製品ドキュメント
-title: 監査証跡でのフィルタリング
+description: 監査記録でのフィルタリング - Marketo ドキュメント - 製品ドキュメント
+title: 監査記録でのフィルタリング
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 100%
 
 ---
 
-# 監査証跡でのフィルタリング {#filtering-in-audit-trail}
+# 監査記録でのフィルタリング {#filtering-in-audit-trail}
 
 時間枠、アセットタイプ、ユーザー、実行されたアクションなどでフィルタリングします。
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. 「**[!UICONTROL セキュリティ]**」で、「**[!UICONTROL 監査証跡]**」を選択します。
+1. 「**[!UICONTROL セキュリティ]**」で、「**[!UICONTROL 監査記録]**」を選択します。
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -55,8 +55,8 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >ワークスペースが有効になっている場合は、すべてのワークスペースの監査データが表示されます。ワークスペースフィルターを適用すると、監査証跡を使用するたびに、Marketo で以前のワークスペース値が記憶されます。アセットレベルでのワークスペース権限が適用されます。
+   >ワークスペースが有効になっている場合は、すべてのワークスペースの監査データが表示されます。ワークスペースフィルターを適用すると、監査記録を使用するたびに、Marketo で以前のワークスペース値が記憶されます。アセットレベルでのワークスペース権限が適用されます。
 
    >[!MORELIKETHIS]
    >
-   >[監査証跡の詳細の変更](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
+   >[監査記録の詳細の変更](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)

@@ -4,7 +4,7 @@ description: プレゼンテーションの作成 - Marketo ドキュメント -
 title: プレゼンテーションの作成
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 91%
@@ -24,7 +24,7 @@ ht-degree: 91%
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. 右下隅にある **0&rbrace;Presentations&rbrace; をクリックします。**
+1. 右下隅の **[!UICONTROL プレゼンテーション]** をクリックします。
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 

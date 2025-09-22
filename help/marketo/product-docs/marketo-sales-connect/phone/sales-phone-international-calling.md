@@ -4,7 +4,7 @@ description: Sales Phone での国際通話 - Marketo ドキュメント — 製
 title: Sales Phone での国際通話
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '399'
 ht-degree: 100%
@@ -148,7 +148,7 @@ Sales Phone によって国際的なコミュニケーションが容易にな�
 
 **MSE ですべての国に対する国際電話の発信をサポートしない理由：**
 
-Sales Phone では国際電話を追加費用なしで提供しています。見込み客や顧客とのコミュニケーションを取りやすくするために、標準的な料金の国際通話のサポートを開始しました。米国、カナダ以外の、ヨーロッパ、アジア、その他の主要地域の 34 か国を対象とします。今後も顧客の意見に基づいて幅を広げていきます。
+Sales Phone では国際電話を追加費用なしで提供しています。見込み客や顧客とのコミュニケーションを取りやすくするために、標準的な料金の国際通話のサポートを開始しました。米国、カナダ以外の、ヨーロッパ、アジア、その他の主要地域の 34 か国を対象とします。今後もお客様のフィードバックに基づいて幅を広げていきます。
 
 **米国外のどの国から発信できますか？**
 

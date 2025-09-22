@@ -4,10 +4,10 @@ description: テンプレートを使用した web キャンペーンの作成 -
 title: テンプレートを使用した web キャンペーンの作成
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 97%
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. [!UICONTROL &#x200B; ターゲットセグメント &#x200B;] を選択します。
+1. 「[!UICONTROL ターゲットセグメント]」を選択します。
 
    ![](assets/set-web-campaign-education.jpg)
 

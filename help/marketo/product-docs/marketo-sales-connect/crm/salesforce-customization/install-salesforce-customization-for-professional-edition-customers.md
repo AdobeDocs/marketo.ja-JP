@@ -1,24 +1,24 @@
 ---
 unique-page-id: 27656223
-description: Professional Edition 版のお客様向けのインストール  [!DNL Salesforce]  カスタマイズ - Marketo ドキュメント – 製品ドキュメント
-title: Professional Edition ユーザ  [!DNL Salesforce]  向けのインストールとカスタマイズ
+description: Professional Edition 顧客向け  [!DNL Salesforce]  カスタマイズのインストール - Marketo ドキュメント - 製品ドキュメント
+title: Professional Edition 顧客向け  [!DNL Salesforce]  カスタマイズのインストール
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
-# [!DNL Salesforce] Customization for Professional Edition のインストール {#install-salesforce-customization-for-professional-edition-customers}
+# Professional Edition 顧客向け [!DNL Salesforce] カスタマイズのインストール {#install-salesforce-customization-for-professional-edition-customers}
 
-[!DNL Salesforce] Professional Edition を使用しているお客様は、次の手順に従ってカスタマイズをインストールする必要があります。
+[!DNL Salesforce] Professional Edition を使用しているお客様が、カスタマイズをインストールするには、次の手順に従う必要があります。
 
 >[!PREREQUISITES]
 >
 >* [!DNL Sales Connect] 管理者は、[!DNL Salesforce] アカウントと [!DNL Sales Connect] アカウントを接続する必要があります。
->* 使用される [!DNL Salesforce] インスタンスには、13 個のカスタムアクティビティフィールドをインストールするためのスペースが必要です。
+>* 使用する [!DNL Salesforce] インスタンスには、13 個のカスタムアクティビティフィールドをインストールするための領域が必要です。
 
 ## インストール {#installation}
 
@@ -26,18 +26,18 @@ ht-degree: 32%
 
    ![](assets/one-4.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、**[!UICONTROL Salesforce]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL Salesforce]**」をクリックします。
 
    ![](assets/two-4.png)
 
-1. [!DNL Salesforce] アカウントに接続されていることを確認します。
+1. [!DNL Salesforce] アカウントに接続していることを確認します。
 
    >[!CAUTION]
    >
-   >接続している場合は、緑色の「[!UICONTROL Install]」ボタンが表示されます。 このボタンをクリックし&#x200B;**しない**&#x200B;で、代わりに手順 4 に進んでください。
+   >接続している場合、緑色の「[!UICONTROL インストール]」ボタンが表示されます。このボタンをクリック&#x200B;**しない**&#x200B;で、代わりに手順 4 に進みます。
 
-1. 接続している [!DNL Salesforce] アカウントにログインし、[ このリンク ](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ) をクリックします。
-1. [!DNL Sales Connect] のインストール ページに移動します。
+1. 接続している [!DNL Salesforce] アカウントにログインし、[このリンク](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ)をクリックします。
+1. [!DNL Sales Connect] インストールページが表示されます。
 
    ![](assets/install-package.png)
 
@@ -48,7 +48,7 @@ ht-degree: 32%
 
    Marketo Sales Connect のカスタマイズ機能が表示されます。
 
-   [!DNL Sales Connect] インスタンスで [!DNL Salesforce] を設定するには、「Installation Guide」の 7 ページ目の「CONFIGURING THE SALES ENGAGE SALESFORCE PACKAGE」から始まる手順に従ってください。
+   [!DNL Salesforce] インスタンスで [!DNL Sales Connect] を設定するには、インストールガイドの 7 ページ目の「SALES ENGAGE SALESFORCE パッケージの設定」セクションから始まる手順に従ってください。
 
    >[!NOTE]
    >

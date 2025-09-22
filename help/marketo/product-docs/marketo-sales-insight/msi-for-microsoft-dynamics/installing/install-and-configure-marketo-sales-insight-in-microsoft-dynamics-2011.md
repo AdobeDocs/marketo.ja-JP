@@ -1,29 +1,29 @@
 ---
 unique-page-id: 3571735
-description: Marketo Sales Insight の Microsoft Dynamics 2011 へのインストールと設定 - Marketo ドキュメント - 製品ドキュメント
-title: Marketo Sales Insight の Microsoft Dynamics 2011 へのインストールと設定
+description: Marketo セールスインサイトの Microsoft Dynamics 2011 へのインストールと設定 - Marketo ドキュメント - 製品ドキュメント
+title: Marketo セールスインサイトの Microsoft Dynamics 2011 へのインストールと設定
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '371'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# [!DNL Marketo Sales Insight] での [!DNL Microsoft Dynamics 2011] のインストールと設定 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
+# [!DNL Microsoft Dynamics 2011] での [!DNL Marketo Sales Insight] のインストールと設定 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
-[!DNL Marketo Sales Insight] は、セールスチームにとって素晴らしいツールです。 オンプレミスでインストールおよび設定する方法の手順を次に示 [!DNL Microsoft Dynamics 2011] ます。
+[!DNL Marketo Sales Insight] は、セールスチームが使えるとても便利なツールです。[!DNL Microsoft Dynamics 2011] オンプレミスで Marketo セールスインサイトをインストールし、設定する方法を、以下に順を追って説明します。
 
 >[!PREREQUISITES]
 >
 >Marketo と Microsoft の統合を完了します。
 >
->お使いのバージョンの [ CRM の ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) 正しいソリューションをダウンロード [!DNL Microsoft Dynamics] します。
+>お使いのバージョンの [!DNL Microsoft Dynamics] CRM に[適したソリューションをダウンロードします](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)。
 
-## ソリューションのインポート {#import-solution}
+## ソリューションの読み込み {#import-solution}
 
-1. [!DNL Microsoft Dynamics] CRM にログインします。 左下のメニューで「**[!UICONTROL 設定]**」をクリックします。
+1. [!DNL Microsoft Dynamics] CRM にログインします。左下のメニューで「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/image2015-5-4-10-3a39-3a44.png)
 
@@ -39,7 +39,7 @@ ht-degree: 79%
    >
    >次に進む前に、あらかじめ Marketo ソリューションを[インストールして設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)しておく必要があります。
 
-1. 「**[!UICONTROL 参照]**」をクリックします。ダウンロードした [!DNL Marketo Sales Insight] ソリューション [ 選択 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) ます。 「**[!UICONTROL 次へ]**」をクリックします。
+1. 「**[!UICONTROL 参照]**」をクリックします。[ダウンロード](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md)した [!DNL Marketo Sales Insight] ソリューションを選択します。「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-5-4-10-3a55-3a15.png)
 
@@ -59,7 +59,7 @@ ht-degree: 79%
 
    ![](assets/crmhand.png)
 
-1. [!DNL Marketo Sales Insight] がソリューションリストに表示されます。 これで完了です。
+1. [!DNL Marketo Sales Insight] がソリューションリストに表示されます。これで完了です。
 
    ![](assets/image2015-5-4-11-3a2-3a37.png)
 
@@ -121,7 +121,7 @@ ht-degree: 79%
 
 ## ユーザーアクセスの設定 {#set-user-access}
 
-ユーザーの役割を設定し、特定のユーザーに [!DNL Sales Insight] へのアクセス権を付与します。
+特定のユーザに [!DNL Sales Insight] へのアクセス権を付与するユーザのロールを設定します。
 
 1. 「**[!UICONTROL 設定]**」を選択します。
 
@@ -139,7 +139,7 @@ ht-degree: 79%
 
    ![](assets/image2015-5-4-11-3a35-3a8.png)
 
-1. **[!UICONTROL Marketo Sales Insight]** の役割を選択し、「**[!UICONTROL OK]**」をクリックします。
+1. **[!UICONTROL Marketo セールスインサイト]**&#x200B;のロールを選択し、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
@@ -147,8 +147,8 @@ ht-degree: 79%
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
 
-   おめでとうございます。あなたは今、[!DNL Marketo Sales Insight] の力を解き放っている。
+   おめでとうございます。これで、[!DNL Marketo Sales Insight] を活用できるようになりました。
 
 >[!MORELIKETHIS]
 >
->[リード／連絡先レコードの星と炎の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[リード／取引先責任者レコードの星と炎の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

@@ -2,7 +2,7 @@
 description: セールスアクティビティの Salesforce への同期 - Marketo ドキュメント - 製品ドキュメント
 title: セールスアクティビティの Salesforce への同期
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '761'
 ht-degree: 100%

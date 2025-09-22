@@ -3,7 +3,7 @@ description: Response Library - Marketo ドキュメント – 製品ドキュ�
 title: 回答ライブラリ
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 5%
@@ -32,7 +32,7 @@ ht-degree: 5%
 
    ![](assets/response-library-4.png)
 
-1. 「更新」をクリックすると、新しい質問が上部に表示され、ステータスは「[!UICONTROL &#x200B; 処理中 &#x200B;] になります。
+1. 「更新」をクリックすると、新しい質問が上部に表示され、ステータスは「[!UICONTROL  処理中 ] になります。
 
    ![](assets/response-library-5.png)
 
@@ -44,7 +44,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->生成されたすべての質問と回答には、デフォルトで「[!UICONTROL &#x200B; レビューが必要 &#x200B;]」ステータスが割り当てられます。 「[!UICONTROL &#x200B; 承認済み &#x200B;]」の質問と回答のみが、チャット訪問者に提供されます。
+>生成されたすべての質問と回答には、デフォルトで「[!UICONTROL  レビューが必要 ]」ステータスが割り当てられます。 「[!UICONTROL  承認済み ]」の質問と回答のみが、チャット訪問者に提供されます。
 
 1. **[!UICONTROL 応答ライブラリ]** で、目的の質問をクリックします。
 
@@ -85,7 +85,7 @@ ht-degree: 5%
 </tbody>
 </table>
 
-1. ファイルの編集が完了したら、「応答ライブラリ **[!UICONTROL 」タブに戻り、「]** 応答をアップロード **&#x200B;**&#x200B;をクリックします。
+1. ファイルの編集が完了したら、「応答ライブラリ **[!UICONTROL 」タブに戻り、「]** 応答をアップロード **** をクリックします。
 
    ![](assets/response-library-9.png)
 

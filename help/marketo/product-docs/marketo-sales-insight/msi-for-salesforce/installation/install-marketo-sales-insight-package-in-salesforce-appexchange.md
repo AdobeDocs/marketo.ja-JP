@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516390
-description: Salesforce AppExchange での Marketo Sales Insight パッケージのインストール - Marketo ドキュメント - 製品ドキュメント
-title: Salesforce AppExchange での Marketo Sales Insight パッケージのインストール
+description: Salesforce AppExchange での Marketo セールスインサイトパッケージのインストール - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce AppExchange での Marketo セールスインサイトパッケージのインストール
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 
-# [!DNL Marketo Sales Insight] AppExchangeへの [!DNL Salesforce] パッケージのインストール {#install-marketo-sales-insight-package-in-salesforce-appexchange}
+# [!DNL Salesforce] AppExchange での [!DNL Marketo Sales Insight] パッケージのインストール {#install-marketo-sales-insight-package-in-salesforce-appexchange}
 
-[!DNL Marketo Sales Insight] が提供するすべての利点を享受するには、[!DNL Salesforce] のサブスクリプションに [!DNL Sales Insight] アプリをインストールする必要があります。 手順は次のとおりです。
+[!DNL Sales Insight] が提供するすべての優れた機能を利用するには、[!DNL Salesforce] サブスクリプションに [!DNL Marketo Sales Insight] アプリをインストールする必要があります。手順は次のとおりです。
 
 >[!NOTE]
 >
@@ -21,15 +21,15 @@ ht-degree: 54%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] は [!DNL Salesforce] Platform （Shield）暗号化と互換性があります。
+>[!DNL Marketo Sales Insight] は、[!DNL Salesforce] Platform（Shield）Encryption と互換性があります。
 
-1. の [AppExchangeページに移動して  [!DNL Marketo Sales Insight]](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)**[!UICONTROL 今すぐ取得]** をクリックします。
+1. [ [!DNL Marketo Sales Insight] の AppExchange ページ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)に移動し、「**[!UICONTROL 今すぐ取得]**」をクリックします。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
-1. 「**[!UICONTROL AppExchangeにログイン]**」ボタンをクリックし、[!DNL Salesforce] の資格情報を使用してログインします。
+1. 「**[!UICONTROL AppExchange にログイン]**」ボタンをクリックし、[!DNL Salesforce] の資格情報を使用してログインします。
 
-1. 接続されている [!DNL Salesforce] アカウントのログインを入力し、「**[!UICONTROL 実稼動にインストール]**」をクリックします。
+1. 接続した [!DNL Salesforce] アカウントログインを入力し、「**[!UICONTROL 実稼動環境にインストール]**」をクリックします。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-2.png)
 
@@ -41,7 +41,7 @@ ht-degree: 54%
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-3.png)
 
-1. 「[!UICONTROL &#x200B; 管理者のみをインストール &#x200B;]」（および後で特定のプロファイルへの MSI アクセスを提供）、「[!UICONTROL &#x200B; すべてのユーザーをインストール &#x200B;]」、または「[!UICONTROL &#x200B; 特定のプロファイルをインストール &#x200B;]」を選択できます。
+1. 「[!UICONTROL 管理者専用にインストール]」（および後で特定のプロファイルに MSI アクセスを提供）、「[!UICONTROL すべてのユーザ用にインストール]」、「[!UICONTROL 特定のプロファイル用にインストール]」を選択できます。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-4.png)
 
@@ -49,7 +49,7 @@ ht-degree: 54%
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-5.png)
 
-1. **[!UICONTROL Marketo Sales Insight]** がインストール済みパッケージに含まれていることを確認します。
+1. **[!UICONTROL Marketo セールスインサイト]**&#x200B;がインストール済みパッケージに含まれていることを確認します。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-6.png)
 
@@ -57,11 +57,11 @@ ht-degree: 54%
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-7.png)
 
-1. 「[!UICONTROL objects]」を検索し、「作成 **[!UICONTROL の下の]** オブジェクト **[!UICONTROL をクリックし]** す。
+1. 「[!UICONTROL オブジェクト]」を検索し、「**[!UICONTROL 作成]**」の下の「**[!UICONTROL オブジェクト]**」をクリックします。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-8.png)
 
-1. すべての項目について **[!UICONTROL デプロイ済み]** がチェックされていることを再確認 [!DNL Marketo Sales Insight] ます。
+1. すべての [!DNL Marketo Sales Insight] 項目で、「**[!UICONTROL デプロイ済み]**」がチェックされていることを再確認します。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-9.png)
 
@@ -73,10 +73,10 @@ ht-degree: 54%
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-11.png)
 
-完成です。これで、[!DNL Marketo Sales Insight] のインストールとデプロイが完了しました。 あとは、セールスチーム向けの設定を進めて、セールスが急上昇するのを楽しみに待ちましょう。
+これで完了です。これで、[!DNL Marketo Sales Insight] のインストールとデプロイが完了しました。あとは、セールスチーム向けの設定を進めて、セールスが急上昇するのを楽しみに待ちましょう。
 
 >[!MORELIKETHIS]
 >
->* [Configure [!DNL Marketo Sales Insight] in [!DNL Salesforce] Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->* [Configure [!DNL Marketo Sales Insight] in [!DNL Salesforce] Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [ [!DNL Salesforce]  Professional Edition での  [!DNL Marketo Sales Insight]  の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [ [!DNL Salesforce]  Enterprise／Unlimited での  [!DNL Marketo Sales Insight]  の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 >* [Sales Insight へのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

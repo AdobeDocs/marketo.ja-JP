@@ -3,10 +3,10 @@ description: 新規管理者を Marketo に接続 — Marketo ドキュメント
 title: 新規管理者を Marketo に接続
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -16,9 +16,9 @@ ht-degree: 81%
 
 2 番目の管理者が Marketo に管理者として接続していない場合
 
-1. プライマリ管理者は、2 人目の管理者をMarketoから [!UICONTROL &#x200B; 設定 &#x200B;]/Marketo/[!UICONTROL &#x200B; ユーザーアクセス &#x200B;] で切断する必要があります。
+1. プライマリ管理者は、[!UICONTROL 設定]／Marketo／[!UICONTROL ユーザアクセス]から 2 番目の管理者を Marketo から切断する必要があります。
 
-1. セカンダリ管理者が MSC アカウントにログインし、[!UICONTROL &#x200B; 設定 &#x200B;]/Marketoに移動して **[!UICONTROL 接続]** をクリックします。
+1. セカンダリ管理者が MSC アカウントにログインし、[!UICONTROL 設定]／Marketo に移動して、「**[!UICONTROL 接続]**」をクリックします。
 
 1. セカンダリユーザーが Marketo に管理者として接続されます。
 
@@ -32,7 +32,7 @@ ht-degree: 81%
 
 Marketo 統合を設定する管理者を削除する場合は、この記事を参照してください。
 
-Marketo統合は、[!DNL Sales Connect]/Actions 管理者ユーザーに関連付けられます。 通常、これは管理者であり、Marketo接続ページの **[!UICONTROL 接続]** ボタンを最初にクリックして、接続を確立しました。
+Marketo 統合は、[!DNL Sales Connect]／Actions 管理者ユーザに結び付けられます。通常、これは、Marketo 接続ページで最初に「**[!UICONTROL 接続]**」ボタンをクリックし、接続を確立した管理者です。
 
 Marketo 接続を確立した管理者を削除するには、まず別の管理者ユーザーが新しい接続を確立する必要があります。これをおこなうために完了する必要があるタスクを以下に示しました。
 
@@ -82,4 +82,4 @@ Marketo 接続を確立した管理者を削除するには、まず別の管理
 
 1. 「**[!UICONTROL 切断]**」をクリックします。
 
-新しい管理者がMarketoへの接続を確立し、元の管理者が切断されたので、最初に接続された管理者は [!DNL Sales Connect]/Actions インスタンスから安全に削除できます。
+新しい管理者が Marketo への接続を確立し、元の管理者が切断されたので、最初に接続した管理者を [!DNL Sales Connect]／Actions インスタンスから安全に削除できます。

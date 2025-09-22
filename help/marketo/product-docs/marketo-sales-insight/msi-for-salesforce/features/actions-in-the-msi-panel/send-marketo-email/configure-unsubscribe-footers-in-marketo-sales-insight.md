@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953373
-description: Marketo Sales Insight の配信停止フッターの設定 - Marketo ドキュメント - 製品ドキュメント
-title: Marketo Sales Insight の配信停止フッターの設定
+description: Marketo セールスインサイトの配信停止フッターの設定 - Marketo ドキュメント - 製品ドキュメント
+title: Marketo セールスインサイトの配信停止フッターの設定
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# [!DNL Marketo Sales Insight] での購読解除フッターの設定 {#configure-unsubscribe-footers-in-marketo-sales-insight}
+# [!DNL Marketo Sales Insight] の登録解除フッターの設定 {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 セールスメールでは、配信停止フッターが自動的に下部に表示されます。ただし、必要に応じて設定を調整できます。
 
@@ -23,7 +23,7 @@ ht-degree: 89%
 >
 >**定義**
 >
->**営業メール** は、[!DNL Sales Insight] から送信されたものです（Marketo Outlook プラグインから送信されたメールは含まれません）。
+>**セールスメール**&#x200B;は、[!DNL Sales Insight] から送信されるものです（Marketo Outlook プラグインから送信されたものは含まれません）。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

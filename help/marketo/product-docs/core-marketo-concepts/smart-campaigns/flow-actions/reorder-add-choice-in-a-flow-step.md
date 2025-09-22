@@ -4,7 +4,7 @@ description: フローステップでの「選択肢を追加」の並べ替え 
 title: フローステップの「選択肢を追加」の並べ替え
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 100%

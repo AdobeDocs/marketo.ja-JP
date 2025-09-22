@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2949716
-description: メールアドインを使用したメールの送信とトラッキング  [!DNL Outlook] Marketo ドキュメント – 製品ドキュメント
-title: ' [!DNL Outlook] の E メールアドインを使用した E メールの送信およびトラッキング'
+description: ' [!DNL Outlook]  用メールアドインを使用したメールの送信とトラッキング - Marketo ドキュメント - 製品ドキュメント'
+title: ' [!DNL Outlook] 用メールアドインを使用したメールの送信とトラッキング'
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
-# [!DNL Outlook] 用 E メールアドインによる E メールの送信と追跡 {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# [!DNL Outlook] 用メールアドインを使用したメールの送信とトラッキング {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
-Marketoを使用したメールを [!DNL Outlook] から直接送信および追跡できます。
+[!DNL Outlook] から直接、Marketo のメールを送信して、トラッキングできます。
 
 >[!PREREQUISITES]
 >
->まだインストールしていない場合は、[ [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 用のMarketo E メール アドインをインストールします。
+>まだインストールしていない場合は、[ [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 用 Marketo メールアドインをインストールします。
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Marketoを使用したメールを [!DNL Outlook] から直接送信および追
 
    >[!TIP]
    >
-   >Marketoテンプレートを使用する場合は、[ テンプレートの使用  [!DNL Outlook]  からの送信およびトラッキング ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md) を参照してください。
+   >Marketo テンプレートを使用する場合は、[テンプレートを使用した  [!DNL Outlook]  からの送信とトラッキング](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)を参照してください。
 
 1. 最後にプレビューを確認してから、「**[!UICONTROL 送信]**」をクリックします。
 
@@ -51,11 +51,11 @@ Marketoを使用したメールを [!DNL Outlook] から直接送信および追
    >
    >スパム対策テクノロジーは、多くの場合、メール送信後 20 秒以内に発生した開封数およびクリック数を拒否するので、テスト中には少なくとも 20 秒経ってから開封またはクリックしてください。
 
-   [!DNL Outlook] から送信されたメールを誰が受信したかを確認するには、「[!UICONTROL &#x200B; 送信済みの販売メール」フィルターを使用してスマートリストを作成し &#x200B;] す。
+   [!DNL Outlook] を通じて送信されたメールの受信者を確認するには、「[!UICONTROL 送信済みセールスメール]」フィルターを使用してスマートリストを作成します。
 
    ![](assets/was-sent-sales-email.png)
 
-簡単ですね。このメールは販売員の [!DNL Outlook] ーザーから送信されたものですが、Marketoでトラッキングされます。
+簡単です。このメールはセールスチームの [!DNL Outlook] から送信されますが、トラッキングは Marketo で行われます。
 
 >[!MORELIKETHIS]
 >

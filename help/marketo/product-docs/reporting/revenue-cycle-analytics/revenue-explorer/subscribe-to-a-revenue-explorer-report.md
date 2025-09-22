@@ -4,14 +4,14 @@ description: 収益エクスプローラーレポートの購読 - Marketo ド�
 title: 収益エクスプローラーレポートの購読
 exl-id: 448a4d56-8fd6-4e5b-b78e-d854b93c4aa4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; 売上高エクスプローラー &#x200B;] レポートの購読 {#subscribe-to-a-revenue-explorer-report}
+# [!UICONTROL 収益エクスプローラー]レポートの購入 {#subscribe-to-a-revenue-explorer-report}
 
 収益サイクルエクスプローラーレポートから更新を受け取り、共有するには、既存のレポートにメールアドレスを配信登録することができます。
 

@@ -4,10 +4,10 @@ description: Facebook でのカスタムオーディエンスの作成- Marketo 
 title: Facebook でのカスタムオーディエンスの作成
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 61%
 
 >[!PREREQUISITES]
 >
->* [LaunchPoint サ  [!DNL Facebook]  ビスとしてのカスタムオーディエンスの追加 ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} 「管理者」セクション
->* [ アカウント内の  [!DNL Facebook]](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} のカスタムオーディエンス条件に同意 [!DNL Facebook] ます。
+>* 管理者セクションで、[ [!DNL Facebook]  カスタムオーディエンスを LaunchPoint サービスとして追加](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}します。
+>* [!DNL Facebook] アカウント内で [ [!DNL Facebook] のカスタムオーディエンスの条件に同意](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}します。
 
 >[!TIP]
 >
->詳しくは、[ カスタムオーディエンス  [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"} を参照してください。
+>詳しくは、[ [!DNL Facebook] でのカスタムオーディエンス](https://www.facebook.com/help/341425252616329){target="_blank"}を参照してください。
 
 1. オーディエンスを作成するリードを含むスマートリストまたは静的リストを探して選択します。
 
@@ -64,8 +64,8 @@ ht-degree: 61%
 
    >[!NOTE]
    >
-   >[!DNL Facebook] にプッシュするすべてのリストが静的になります。 Marketoのスマートリストは、転送後に加えられた変更を反映するために [!DNL Facebook] のオーディエンスリストを自動更新しません。
+   >[!DNL Facebook] にプッシュしたすべてのリストは静的になります。Marketo のスマートリストは、[!DNL Facebook] のオーディエンスリストを自動更新しないので、転送後に行われた変更は反映されません。
 
    >[!MORELIKETHIS]
    >
-   >[ でのカスタムオーディエンスへのリードの追加  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[ [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md) でのカスタムオーディエンスへのリードの追加

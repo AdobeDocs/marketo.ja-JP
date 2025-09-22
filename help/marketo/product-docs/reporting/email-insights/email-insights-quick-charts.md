@@ -4,10 +4,10 @@ description: メールインサイトのクイックグラフ - Marketo ドキ�
 title: メールインサイトのクイックグラフ
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '231'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 95%
 
 この例では、カリフォルニア州とフロリダ州での 2016 年 2 月の最初の 3 週間の開封率を選択します。
 
-1. [!UICONTROL Analytics] 画面の右側にある日付フィルターをクリックします。
+1. [!UICONTROL 分析]画面の右側で日付フィルターをクリックします。
 
    ![](assets/one-1.png)
 

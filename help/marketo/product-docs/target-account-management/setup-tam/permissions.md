@@ -4,16 +4,16 @@ description: 権限 - Marketo ドキュメント - 製品ドキュメント
 title: 権限
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # 権限 {#permissions}
 
-ユーザーが TAM を使用できるようにするには、権限を設定する必要があります。手順は以下のとおりです。
+ユーザーが TAM を使用できるようにするには、権限を設定する必要があります。手順は次のとおりです。
 
 1. 「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -31,7 +31,7 @@ ht-degree: 82%
 
    ![](assets/three-2.png)
 
-1. [!UICONTROL &#x200B; 役割名 &#x200B;] を入力し、「**Access Target アカウント管理**」チェックボックスの横にある「**[!UICONTROL +]**」アイコンをクリックします。
+1. [!UICONTROL ロール名]を入力し、「**[!UICONTROL ターゲットアカウント管理にアクセス]**」チェックボックスの横にある「**+**」アイコンをクリックします。
 
    ![](assets/permissions-4.png)
 
@@ -43,7 +43,7 @@ ht-degree: 82%
    >
    >また、一部のオプションのみを選択するオプションもあります。一部のみ選択するには、各チェックボックスを個別にオンにします。
 
-1. **+** をクリックして **[!UICONTROL アクセス管理者]** メニューを開きます。 「**[!UICONTROL ABM 管理にアクセス]**」チェックボックスをオンにし（ABM は TAM の以前の名前です）、「**[!UICONTROL 作成]**」をクリックします。
+1. 「**+**」をクリックして、**[!UICONTROL アクセス管理]**&#x200B;メニューを開きます。「**[!UICONTROL ABM 管理にアクセス]**」チェックボックスをオンにし（ABM は TAM の以前の名前です）、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/permissions-6.png)
 

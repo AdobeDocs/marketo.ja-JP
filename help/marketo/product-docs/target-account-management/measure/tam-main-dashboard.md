@@ -4,24 +4,24 @@ description: TAM メインダッシュボード - Marketo ドキュメント - �
 title: TAM メインダッシュボード
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
 # TAM メインダッシュボード {#tam-main-dashboard}
 
-メインダッシュボードには、[!UICONTROL &#x200B; ターゲットアカウント管理 &#x200B;] の取り組みの概要が表示されます。 成功を示しているターゲット顧客や顧客リスト、さらに注意が必要な顧客を確認できます。
+メインダッシュボードには、[!UICONTROL ターゲットアカウント管理]作業の概要が表示されます。成功を示しているターゲット顧客や顧客リスト、さらに注意が必要な顧客を確認できます。
 
 ![](assets/one.png)
 
-アカウントリストでフィルタリングするには、「**[!UICONTROL 表示]**」ドロップダウンをクリックします。
+アカウントリストでフィルタリングするには、**[!UICONTROL 表示]**&#x200B;ドロップダウンをクリックして、
 
 ![](assets/two.png)
 
-選択をおこないます。この例では、「**[!UICONTROL ハイテク]**」アカウントリストを選択しています。
+選択を行います。この例では、「**[!UICONTROL ハイテク]**」アカウントリストを選択しています。
 
 ![](assets/three.png)
 

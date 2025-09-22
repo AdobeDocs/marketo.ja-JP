@@ -4,10 +4,10 @@ description: 予測コンテンツ分析の概要 - Marketo ドキュメント -
 title: 予測コンテンツ分析の概要
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 79%
 
 >[!NOTE]
 >
->[!UICONTROL Analytics] タブとコンテンツ分析機能は、Marketo予測コンテンツでのみ使用できます。
+>「[!UICONTROL 分析]」タブおよびコンテンツ分析機能は、Marketo 予測コンテンツでのみ使用できます。
 
 ## 概要 {#overview}
 
@@ -25,7 +25,7 @@ ht-degree: 79%
 
 ![](assets/one.png)
 
-[!UICONTROL Analytics] は、[!UICONTROL &#x200B; ビュー別のトップコンテンツ &#x200B;]、[!UICONTROL &#x200B; コンバージョン率によるトップコンテンツ &#x200B;]、[!UICONTROL &#x200B; トレンドコンテンツ &#x200B;]、[!UICONTROL &#x200B; 提案コンテンツ &#x200B;]、[!UICONTROL &#x200B; コンテンツ &#x200B;] の複数のセクションで構成されます。
+[!UICONTROL 分析]は、複数のセクション（[!UICONTROL 最も閲覧数の多いコンテンツ]、[!UICONTROL コンバージョン率の最も高いコンテンツ]、[!UICONTROL トレンド分析コンテンツ]、[!UICONTROL 推奨コンテンツ]、[!UICONTROL コンテンツ]）で構成されます。
 
 ![](assets/new-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 79%
 
 ![](assets/new-3point5.png)
 
-様々な属性/プロパティ（[!UICONTROL ABM アカウントリスト &#x200B;]、[!UICONTROL &#x200B; 国 &#x200B;] など）で結果をフィルタリングできます。
+様々な属性／プロパティ（[!UICONTROL ABM アカウントリスト]、[!UICONTROL 国]など）で結果をフィルタリングできます。
 
 ![](assets/pca.png)
 
@@ -45,13 +45,13 @@ ht-degree: 79%
 
 ![](assets/dates.png)
 
-## [!UICONTROL &#x200B; ビュー別の上位コンテンツ &#x200B;] {#top-content-by-views}
+## [!UICONTROL 最も閲覧数の多いコンテンツ] {#top-content-by-views}
 
 選択した日付範囲あたりの閲覧回数が最も多いコンテンツを表示します。
 
 ![](assets/new-6.png)
 
-## [!UICONTROL &#x200B; コンバージョン率別の上位コンテンツ &#x200B;] {#top-content-by-conversion-rate}
+## [!UICONTROL コンバージョン率の最も高いコンテンツ] {#top-content-by-conversion-rate}
 
 選択した日付範囲のコンバージョン率を基準に、コンバージョン率の最も高いコンテンツを表示します。
 
@@ -63,13 +63,13 @@ ht-degree: 79%
 >
 >**コンバージョン率**：ダイレクトコンバージョンをクリック数で割って計算した割合.
 
-## [!UICONTROL &#x200B; コンテンツのトレンド &#x200B;] {#trending-content}
+## [!UICONTROL トレンド分析コンテンツ] {#trending-content}
 
 過去 2 週間とその前の 2 週間の閲覧回数を比較し、コンテンツの人気上昇を表示します。
 
 ![](assets/new-8.png)
 
-## [!UICONTROL &#x200B; 提案内容 &#x200B;] {#suggested-content}
+## [!UICONTROL 推奨コンテンツ] {#suggested-content}
 
 お客様が定義したフィルターに基づき、マーケティング活動での促進を提案するコンテンツを表示します。
 
@@ -81,7 +81,7 @@ ht-degree: 79%
 
 >[!NOTE]
 >
->下のアイコンが見えますか？左から右は、[!UICONTROL &#x200B; コンテンツを表示 &#x200B;]、[!UICONTROL CSV に書き出し &#x200B;]、[!UICONTROL &#x200B; コンテンツを承認 &#x200B;] です。
+>下のアイコンが見えますか？左から右に、[!UICONTROL コンテンツを表示]、[!UICONTROL CSV への書き出し]、[!UICONTROL コンテンツを承認]が表示されます。
 
 ## [!UICONTROL コンテンツ] {#content}
 

@@ -4,8 +4,8 @@ description: メールプログラムを承認／承認取消する — Marketo 
 title: メールプログラムを承認／承認取消する
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 100%
 

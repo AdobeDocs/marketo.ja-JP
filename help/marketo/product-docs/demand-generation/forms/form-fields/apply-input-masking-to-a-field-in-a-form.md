@@ -4,10 +4,10 @@ description: フォーム内のフィールドへの入力マスクの適用 - M
 title: フォーム内のフィールドへの入力マスクの適用
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 92%
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. フィールドを選択し、**[!UICONTROL フィールドタイプ]***が **[!UICONTROL テキスト]** に設定されていることを確認します。
+1. フィールドを選択して、**[!UICONTROL フィールドタイプ]*** を&#x200B;**[!UICONTROL テキスト]**&#x200B;に設定します。
 
    >[!NOTE]
    >

@@ -4,16 +4,16 @@ description: リードデータの管理 - Marketo ドキュメント - 製品�
 title: リードデータの管理
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 # リードデータの管理 {#manage-person-data}
 
-セグメント化で使用する人物フィールドを選択して、[!DNL Web Personalization] ーザーの人物データを活用します。
+セグメントで使用する人物のフィールドを選択して、[!DNL Web Personalization] で人物のデータを活用します。
 
 1. 「**[!UICONTROL アカウント設定]**」に移動します。
 
@@ -99,8 +99,8 @@ ht-degree: 86%
  </tbody>
 </table>
 
-新しい [!DNL Web Personalization] アカウントには、次のリードフィールドが標準で提供されています。
+新しい [!DNL Web Personalization] アカウント用に、次のリードフィールドが標準で提供されています。
 
 >[!MORELIKETHIS]
 >
->[既知のリードデータを使用したセグメントの作成](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[認識済み顧客のデータを使用したセグメントの作成](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)

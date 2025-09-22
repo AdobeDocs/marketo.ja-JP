@@ -4,22 +4,22 @@ description: SFDC 同期 - フィールドの同期 - Marketo ドキュメント
 title: SFDC 同期 - フィールドの同期
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 # SFDC 同期：フィールドの同期 {#sfdc-sync-field-sync}
 
-Marketoは、[!DNL Salesforce] からフィールド情報を同期します。 以下に詳細を示します。
+Marketo は、[!DNL Salesforce] からフィールド情報を同期します。以下に詳細を示します。
 
 ## 同期されるフィールド {#which-fields-are-synced}
 
 SFDC のほとんどの標準フィールドと、同期ユーザーが表示権限を持つカスタムフィールドを同期します。
 
-## Marketoのレコードが [!DNL Salesforce] のリードか連絡先かを判断する方法 {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
+## Marketo のレコードが [!DNL Salesforce] のリードと取引先責任者のどちらなのかを判断する方法 {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
 
 Marketo には、「SFDC のタイプ」というフィールドがあります。このフィールドは、リード、連絡先または空の 3 つの値を取ります。空の場合は、この Marketo のリードが SFDC に存在しないことを意味します。
 
@@ -59,6 +59,6 @@ SFDC のルックアップフィールドでは、ID は同期されますが、
 
 数式フィールドは同期されますが、数式内の参照に対する更新は、[SystemModStamp](https://help.salesforce.com/apex/HTViewSolution?id=000193203&language=ja_JP){target="_blank"} に対する更新があるまで同期されません。
 
-## 以前Marketoと同期していたフィールドを [!DNL Salesforce] から削除するとどうなりますか？ {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
+## 以前に Marketo と同期していたフィールドを [!DNL Salesforce] から削除する場合の動作 {#what-happens-when-i-delete-a-field-from-salesforce-that-was-previously-syncing-with-marketo}
 
-Marketoのフィールドを削除しても、SFDCのフィールドは自動的には削除されず、同期が停止するだけです。
+SFDC でフィールドを削除しても、Marketo のフィールドは自動的に削除されず、単に同期が停止します。

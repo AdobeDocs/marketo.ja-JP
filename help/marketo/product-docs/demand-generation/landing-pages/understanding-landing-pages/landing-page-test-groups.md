@@ -4,10 +4,10 @@ description: ランディングページのテストグループ — Marketo ド
 title: ランディングページのテストグループ
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ Marketo は、テストグループ内のテスト対象の各ページのペー
 
    ![](assets/three-1.png)
 
-1. **[!UICONTROL テストグループアクション]** ドロップダウンをクリックし、「**[!UICONTROL テストグループを承認]**」を選択します。
+1. **[!UICONTROL テストグループオプション]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL テストグループの承認]**」を選択します。
 
    ![](assets/four-1.png)
 

@@ -4,20 +4,20 @@ description: リードから着信したメールを Marketo でログに記録�
 title: リードから着信したメールを Marketo でログに記録する
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 51%
+ht-degree: 100%
 
 ---
 
 # リードから着信したメールを Marketo でログに記録する {#log-inbound-mail-from-your-leads-in-marketo}
 
-Marketo Email Add-In を使用すると、す [!DNL Outlook] にリードからの返信をログに記録できます。
+[!DNL Outlook] では、Marketo メールアドインを使用して、リードからの返信をログに記録できます。
 
 ## メインの [!DNL Outlook] アプリケーションから {#from-the-main-outlook-application}
 
-1. ログに記録するメールを選択し、「**[!UICONTROL Marketoでログに記録]**」をクリックします。
+1. ログに記録するメールを選択し、「**[!UICONTROL Marketo でログを記録]**」をクリックします。
 
 ![](assets/image2014-9-23-17-3a12-3a44.png)
 
@@ -31,7 +31,7 @@ Marketo Email Add-In を使用すると、す [!DNL Outlook] にリードから�
 
 ## メール自体から {#from-the-email-itself}
 
-メールを開いた場合は、そこから「**[!UICONTROL Marketoでログ]** ボタンをクリックするだけです。
+メールを開いている場合は、そこから「**[!UICONTROL Marketo でログ]**」ボタンをクリックするだけです。
 
 ![](assets/image2014-9-23-17-3a14-3a14.png)
 
@@ -43,5 +43,5 @@ Marketo Email Add-In を使用すると、す [!DNL Outlook] にリードから�
 
 >[!MORELIKETHIS]
 >
->* [Marketo Email Add-in for を使用したメールの送信とトラッキング  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Marketo テンプレ  [!DNL Outlook]  トを使用した送信とトラッキング ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [ [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md) 用 Marketo メールアドインを使用したメールの送信とトラック
+>* [Marketo テンプレートを使用した  [!DNL Outlook]  からの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

@@ -4,14 +4,14 @@ description: 登録解除の再登録 - Marketo ドキュメント - 製品ド�
 title: 登録解除の再登録
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
-# 購読の再登録 [!UICONTROL &#x200B; 購読解除 &#x200B;] {#resubscribing-an-unsubscribe}
+# [!UICONTROL 登録解除]の再登録 {#resubscribing-an-unsubscribe}
 
 メール受信に再びオプトインしたい場合があります。ここでは、登録解除したメールを再びメール可能にする方法を示します。
 
@@ -25,7 +25,7 @@ ht-degree: 62%
 
 >[!NOTE]
 >
->購読解除同期を有効にしている場合、ToutApp の購読解除を削除し、人物レコードのオプトアウトの [!DNL Salesforce] をオフにして、再び同期しないようにする必要があります。
+>登録解除の同期をオンにしている場合、ToutApp から登録解除を削除し、ユーザレコードが再び同期しないように [!DNL Salesforce] でオプトアウトをオフにする必要があります。
 
 1. [web アプリケーション](https://toutapp.com/login)に移動して、「**[!UICONTROL ユーザー]**」をクリックします。
 
@@ -43,4 +43,4 @@ ht-degree: 62%
 
 >[!NOTE]
 >
->購読解除同期をオンにしている場合、Salesforceのレコードのオプトアウトボックスもオフにする必要があります。オフにすると、[!DNL Sales Connect] でユーザーがオプトアウトされたことを検出するため、夜間同期によって [!DNL Salesforce] でユーザーの登録が再度解除されます。 いずれかのレコードがオプトアウト／登録解除された場合、同期により、リンクされたレコードがそのようにマークされます。
+>登録解除同期をオンにしている場合、Salesforce のレコードのオプトアウトボックスもオフにする必要があります。オフにしないと、夜間同期で、そのユーザが [!DNL Salesforce] でオプトアウトされていることが検出され、[!DNL Sales Connect] でそのユーザの登録が解除されます。いずれかのレコードがオプトアウト／登録解除された場合、同期により、リンクされたレコードがそのようにマークされます。

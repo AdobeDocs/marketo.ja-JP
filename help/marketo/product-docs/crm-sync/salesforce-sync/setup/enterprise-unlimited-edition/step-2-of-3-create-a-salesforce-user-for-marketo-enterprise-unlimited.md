@@ -4,14 +4,14 @@ description: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（En
 title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '424'
-ht-degree: 69%
+ht-degree: 96%
 
 ---
 
-# 手順 2/3:Marketoの [!DNL Salesforce] ユーザーを作成する（Enterprise/Unlimited） {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
+# 手順 2／3：Marketo 用の [!DNL Salesforce] ユーザの作成（Enterprise／Unlimited） {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
 >
@@ -19,9 +19,9 @@ ht-degree: 69%
 
 >[!PREREQUISITES]
 >
->[ 手順 1/3:Marketo フィールドの追加先  [!DNL Salesforce]  （Enterprise/Unlimited） ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>[手順 1／3：Marketo フィールドの  [!DNL Salesforce]  への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
-この記事では、プロファイルでユーザー権限 [!DNL Salesforce] 設定し、Marketoと [!DNL Salesforce] の統合アカウントを作成します。
+この記事では、[!DNL Salesforce] プロファイルでユーザ権限を設定し、Marketo-[!DNL Salesforce] 統合アカウントを作成します。
 
 ## プロファイルの作成 {#create-a-profile}
 
@@ -49,10 +49,10 @@ ht-degree: 69%
 
 1. **[!UICONTROL 管理権限]**&#x200B;セクションで、次のボックスがオンになっていることを確認します。
 
-   * [!UICONTROL API 有効 &#x200B;]
-   * [!UICONTROL HTML テンプレートの編集 &#x200B;]
-   * [!UICONTROL &#x200B; 公開文書の管理 &#x200B;]
-   * [!UICONTROL &#x200B; 公開テンプレートの管理 &#x200B;]
+   * [!UICONTROL API 有効]
+   * [!UICONTROL HTML テンプレートを編集]
+   * [!UICONTROL 公開ドキュメントを管理]
+   * [!UICONTROL 公開テンプレートを管理]
 
    ![](assets/image2014-12-9-9-3a19-3a38.png)
 
@@ -60,15 +60,15 @@ ht-degree: 69%
    >
    >**[!UICONTROL パスワードの有効期限なし]**&#x200B;ボックスのチェックは必ずオンにしてください。
 
-1. 「[!UICONTROL &#x200B; 一般ユーザー権限 &#x200B;]」セクションで、次のボックスがオンになっていることを確認します。
+1. [!UICONTROL 一般ユーザ権限]セクションで、次のボックスがオンになっていることを確認します。
 
-   * [!UICONTROL &#x200B; リードを変換 &#x200B;]
-   * [!UICONTROL &#x200B; イベントの編集 &#x200B;]
-   * [!UICONTROL &#x200B; タスクの編集 &#x200B;]
+   * [!UICONTROL リードをコンバート]
+   * [!UICONTROL イベントを編集]
+   * [!UICONTROL タスクを編集]
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. 「[!UICONTROL &#x200B; 標準オブジェクトの権限 &#x200B;]」セクションで、[!UICONTROL &#x200B; 読み取り、作成、編集、削除 &#x200B;] 権限がオンになっていることを確認します。
+1. [!UICONTROL 標準オブジェクト権限]セクションで、[!UICONTROL 読み取り、作成、編集、削除]の権限が次の項目に対して有効になっていることを確認します。
 
    * [!UICONTROL アカウント]
    * [!UICONTROL キャンペーン]
@@ -78,7 +78,7 @@ ht-degree: 69%
 
    >[!NOTE]
    >
-   >キャンペーン同期を使用する場合は、[!UICONTROL Campaigns] に権限を付与します。
+   >キャンペーン同期を使用する予定がある場合は、[!UICONTROL キャンペーン]に権限を付与します。
 
    ![](assets/image2014-12-9-9-3a19-3a57.png)
 
@@ -162,4 +162,4 @@ ht-degree: 69%
 
 >[!NOTE]
 >
->[ 手順 3/3:Marketoと  [!DNL Salesforce]  を接続する（Enterprise/Unlimited） ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>[手順 3／3：Marketo と  [!DNL Salesforce]  の接続（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)

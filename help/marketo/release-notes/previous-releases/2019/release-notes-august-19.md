@@ -4,10 +4,10 @@ description: リリースノート - 2019 年 8 月 20 日 - Marketo ドキュ�
 title: リリースノート - 2019 年 8 月
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
-source-wordcount: '327'
-ht-degree: 100%
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
+source-wordcount: '325'
+ht-degree: 90%
 
 ---
 
@@ -50,4 +50,4 @@ ht-degree: 100%
 >
 >**Marketo Engage アクセスを維持するには、2019 年 12 月 13 日より前に、すべてのクライアントシステムが TLS 1.2 に準拠している必要があります**。詳細は[こちら](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)をご覧ください。
 
-**_製品リリースウェビナー_**：8 28 午後 1 時（PT）／午後 4 時（ET）に開催される製品チーム主催のライブウェビナーに[参加](https://engage.marketo.com/August_19_Release_Webinar.html)して、今回のリリースに含まれる機能の詳細をご確認ください。
+**_製品リリースウェビナー_**[ ご参加ください ](https://engage.marketo.com/August_19_Release_Webinar.html)8 月 28 日（PT） 1:00PM PT / 4:00PM ET に、製品チームがホストするライブウェビナーと、このリリースに含まれる機能の詳細をご覧ください。

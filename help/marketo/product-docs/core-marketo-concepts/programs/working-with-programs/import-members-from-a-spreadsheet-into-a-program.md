@@ -4,10 +4,10 @@ description: スプレッドシートからプログラムへのメンバーの�
 title: スプレッドシートからプログラムへのメンバーのインポート
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 84%
 
 ## CSV ファイルを準備する {#prepare-your-csv-file}
 
-1. 次の例のように、標準の CSV ファイルを [!DNL Excel] に作成します。
+1. 以下の例のように、[!DNL Excel] で標準の CSV ファイルを作成します。
 
    ![](assets/image2014-9-18-14-3a33-3a4.png)
 
    >[!CAUTION]
    >
-   >日付を日付フィールドにインポートする場合は、2024 年 9 月 29 日（月/日/年）の形式を使用します。
+   >「日付」フィールドに日付をインポートする場合は、次の形式を使用します。9/29/24（月／日／年）
 
 ## CSV を Marketo にインポートする {#import-your-csv-into-marketo}
 

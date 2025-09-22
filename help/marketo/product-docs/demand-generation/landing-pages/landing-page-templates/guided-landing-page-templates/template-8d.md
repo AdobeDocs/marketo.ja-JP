@@ -4,7 +4,7 @@ description: テンプレート 8D - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 8D
 exl-id: 09c22a82-fc20-4b6e-b60b-714dccaae175
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 8D {#template-8d}
 
-右クリックして[テンプレート 8D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html?lang=ja)します
+右クリックして[テンプレート 8D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)します
 
 ![](assets/image2015-7-29-14-3a28-3a56.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 8D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html?lang=ja)
+[Template 8D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)

@@ -4,10 +4,10 @@ description: モバイルスマートキャンペーンのトリガーとフィ�
 title: モバイルスマートキャンペーンのトリガーとフィルター
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '814'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 98%
 
 「プッシュ通知が送信された」を除くすべてのトリガーおよびフィルターには、次の 2 つの標準制約が含まれています。
 
-* デバイスタイプ - [!DNL iPod]、iPhone、[!DNL iPhone 6 Plus]、[!DNL iPad mini]、iPad、Android スマートフォン、Android タブレット、不明（プリセットリストです）
+* デバイスタイプ - [!DNL iPod]、iPhone、[!DNL iPhone 6 Plus]、[!DNL iPad mini]、iPad、Android スマートフォン、Android タブレット、不明（これはプリセットリストです）
 
 * プラットフォーム - iPhone または Android
 

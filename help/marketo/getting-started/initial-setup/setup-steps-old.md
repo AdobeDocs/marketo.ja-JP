@@ -6,7 +6,7 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2086'
 ht-degree: 92%
@@ -227,7 +227,6 @@ IT 管理者様
 `3)` Marketo を許可リストに加えてください。
 
     * メール許可リストで IP アドレスを使用している場合は、以下に示す IP を追加します。
-
     199.15.212.0/22
     
     192.28.144.0/20

@@ -3,14 +3,14 @@ description: Salesforce に接続する際の「リクエストを認証でき�
 title: Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
-# [!DNL Salesforce] への接続時に「要求を認証できませんでした」と表示される問題を修正する方法 {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
+# [!DNL Salesforce] に接続する際の「リクエストを認証できませんでした」の修正方法 {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
 Marketo Sales インスタンスを Salesforce に接続しようとして「リクエストを認証できません」というエラーが表示される場合は、Salesforce インスタンスの設定に関係している可能性があります。
 
@@ -35,7 +35,7 @@ URL を確認することで、取得しているタイプを識別できます�
 
 URL 内に「Oauth App Blocked」というエラータイプ（または別のタイプ）が記載された「要求を認証できませんでした」というエラーメッセージが表示された場合は、Salesforce API へのアクセスが制限されている可能性があります。Salesforce 管理者に、以下が実施されていることを確認してください。
 
-### ユーザ権限での API が有効化されている {#enable-api-in-user-permissions}
+### ユーザ権限での API の有効化 {#enable-api-in-user-permissions}
 
 1. Salesforce 管理者を Salesforce にログインしてもらいます。
 1. 「**設定**」を選択します。

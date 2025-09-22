@@ -4,10 +4,10 @@ description: イベントカードについて - Marketo ドキュメント - �
 title: イベントカードについて
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 44%
+ht-degree: 82%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 44%
 
 >[!IMPORTANT]
 >
->2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Moments アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo EngageインスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。[詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 メールプログラムカードをタップすると、次の操作を実行できます。
 
@@ -25,7 +25,7 @@ ht-degree: 44%
 * [イベントを完了としてマーク](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [イベントモーメントカードを共有](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-イベントカードは 2 枚あります。イベントの数時間前に送信された [!UICONTROL &#x200B; オンデッキ &#x200B;] カードには、新規登録した人数が示されます。 後で送信される [!UICONTROL &#x200B; 結果 &#x200B;] カードには、実際に参加した人数が表示されます。
+イベントカードは 2 枚あります。イベントの数時間前に送信された [!UICONTROL  オンデッキ ] カードには、新規登録した人数が示されます。 後で送信される [!UICONTROL  結果 ] カードには、実際に参加した人数が表示されます。
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
 

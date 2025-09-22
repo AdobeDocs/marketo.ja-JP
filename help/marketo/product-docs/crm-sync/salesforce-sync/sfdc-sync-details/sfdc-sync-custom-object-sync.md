@@ -4,16 +4,16 @@ description: SFDC 同期 - カスタムオブジェクトの同期 - Marketo ド
 title: SFDC 同期 - カスタムオブジェクトの同期
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
 # SFDC 同期：カスタムオブジェクトの同期 {#sfdc-sync-custom-object-sync}
 
-[!DNL Salesforce] インスタンスで作成されたカスタムオブジェクトは、Marketoの一部にすることもできます。  その設定方法を説明しましょう。
+[!DNL Salesforce] インスタンスで作成されたカスタムオブジェクトも、Marketo の一部にすることができます。その設定方法を説明します。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 79%
 
 >[!PREREQUISITES]
 >
->カスタムオブジェクトを使用するには、[ 内の ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)lead[、](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)contact[ または ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)account[!DNL Salesforce] オブジェクトに関連付ける必要があります。
+>カスタムオブジェクトを使用するには、カスタムオブジェクトは [!DNL Salesforce] で[リード](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md)、[取引先責任者](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md)、[アカウント](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md)オブジェクトのいずれかに関連付けられている必要があります。
 
 >[!IMPORTANT]
 >
@@ -75,7 +75,7 @@ ht-degree: 79%
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. [!DNL Salesforce] のカスタムオブジェクトをすべて表示するには、「**[!UICONTROL 管理者]** と **[!UICONTROL Salesforce オブジェクト同期]** リンク（上記の手順 1 と同じ）をクリックします。
+1. すべての [!DNL Salesforce] カスタムオブジェクトを表示するには、**[!UICONTROL 管理者]**／**[!UICONTROL Salesforce オブジェクト同期]**&#x200B;リンクをクリックします（上記の手順 1 と同じ）。
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

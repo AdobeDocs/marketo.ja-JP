@@ -3,20 +3,20 @@ description: Salesforce Classic への一括アクションボタンの追加 - 
 title: Salesforce Classic への一括アクションボタンの追加
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
-# [!DNL Salesforce] Classic への一括アクションボタンの追加{#add-bulk-action-buttons-to-salesforce-classic}
+# [!DNL Salesforce] への一括アクションボタンの追加{#add-bulk-action-buttons-to-salesforce-classic}
 
-[!DNL Salesforce] レイアウトにMarketo ボタンを追加できます。 次に例を示します。
+[!DNL Salesforce] レイアウトに Marketo ボタンを追加できます。次に例を示します。
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. 「**[!UICONTROL 設定]**」をクリックします。「[!UICONTROL &#x200B; 検索レイアウト &#x200B;]」を検索し、「**[!UICONTROL リード]** の下の **[!UICONTROL 検索レイアウト]** をクリックします。
+1. 「**[!UICONTROL 設定]**」をクリックします。「[!UICONTROL 検索レイアウト]」を検索し、「**[!UICONTROL リード]**」の下の「**[!UICONTROL 検索レイアウト]**」をクリックします。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 

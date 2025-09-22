@@ -4,18 +4,18 @@ description: デフォルトのカスタムフィールド接頭辞の設定 - M
 title: デフォルトのカスタムフィールド接頭辞の設定
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
 # デフォルトのカスタムフィールド接頭辞の設定 {#set-a-default-custom-field-prefix}
 
-Marketo独自のフィールドを正しく同期させるには、カスタムフィールドのデフォルトの [!DNL Microsoft Dynamics] プレフィックスを **新規** にする必要があります。 デフォルトの接頭辞を変更する方法を次に示します。
+カスタムフィールドのデフォルトの [!DNL Microsoft Dynamics] 接頭辞は、Marketo 独自のフィールドを正しく同期させるために、**new** である必要があります。デフォルトの接頭辞を変更する方法を次に示します。
 
-1. [!UICONTROL &#x200B; 設定 &#x200B;] に移動し、「**[!UICONTROL カスタマイズ &#x200B;].** を選択します。
+1. 「[!UICONTROL 設定]」に移動し、「**[!UICONTROL カスタマイズ]」を選択します。**
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 
@@ -31,7 +31,7 @@ Marketo独自のフィールドを正しく同期させるには、カスタム�
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
-1. [!UICONTROL &#x200B; 設定 &#x200B;]/[!UICONTROL &#x200B; ソリューション &#x200B;] に移動して、カスタマイズを公開します。
+1. [!UICONTROL 設定]／[!UICONTROL ソリューション]に移動して、カスタマイズを公開します。
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 

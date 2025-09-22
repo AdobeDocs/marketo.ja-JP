@@ -4,8 +4,8 @@ description: モバイルアプリの削除 - Marketo ドキュメント - 製�
 title: モバイルアプリの削除
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
 

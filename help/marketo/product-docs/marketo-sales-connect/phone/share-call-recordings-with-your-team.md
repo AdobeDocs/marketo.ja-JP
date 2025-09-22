@@ -4,10 +4,10 @@ description: 通話録音をチームと共有する - Marketo Docs - 製品ド�
 title: 通話録音をチームと共有する
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -21,17 +21,17 @@ Sales Phone を使用すると、通話録音を記録および保存できま�
 
 1. ユーザーの詳細を開きます。
 
-1. アクティビティリストの下で [!UICONTROL &#x200B; 呼び出しアクティビティ &#x200B;] を見つけます。
+1. アクティビティリストで「[!UICONTROL 通話アクティビティ]」を見つけます。
 
 1. 通話録音を右クリックし、リンク URL をコピーします。
 
-## [!DNL Salesforce] タスクから録画リンクをコピー {#copy-recording-link-from-the-salesforce-task}
+## [!DNL Salesforce] タスクからの録音リンクのコピー {#copy-recording-link-from-the-salesforce-task}
 
 >[!NOTE]
 >
 >このリンクを取得するには、通話を [!DNL Salesforce] に記録する必要があります。
 
-1. [!DNL Salesforce] で作成した通話タスクに移動します。
+1. その通話用に [!DNL Salesforce] で作成したタスクに移動します。
 
 1. 「セールス通話録音」フィールドに一覧表示されているリンクをコピーします。
 

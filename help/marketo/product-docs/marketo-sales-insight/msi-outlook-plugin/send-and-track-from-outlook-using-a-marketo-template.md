@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949283
-description: Marketo テンプレートを使用した送信  [!DNL Outlook]  トラッキング - Marketo ドキュメント – 製品ドキュメント
-title: Marketo テンプレートを使用した  [!DNL Outlook]  からの送信とトラッキング
+description: Marketo テンプレートを使用した  [!DNL Outlook]  からの送信とトラック - Marketo ドキュメント - 製品ドキュメント
+title: Marketo テンプレートを使用した  [!DNL Outlook]  からの送信とトラック
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '195'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
-# Marketo テンプレートを使用した [!DNL Outlook] からの送信とトラッキング {#send-and-track-from-outlook-using-a-marketo-template}
+# Marketo テンプレートを使用した [!DNL Outlook] からの送信とトラック {#send-and-track-from-outlook-using-a-marketo-template}
 
 マーケティングチームがテンプレートを利用できるようにしている場合、この機能を使用してメールを作成する際の時間を節約できます。
 

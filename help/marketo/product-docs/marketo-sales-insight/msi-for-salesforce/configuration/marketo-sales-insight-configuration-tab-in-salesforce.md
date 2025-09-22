@@ -1,21 +1,21 @@
 ---
 unique-page-id: 42762322
-description: Salesforce の Marketo Sales Insight 設定タブ - Marketo ドキュメント - 製品ドキュメント
-title: Salesforce の Marketo Sales Insight 設定タブ
+description: Salesforce の Marketo セールスインサイト設定タブ - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce の Marketo セールスインサイト設定タブ
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '615'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
-# [!DNL Marketo Sales Insight] の「[!DNL Salesforce] 設定」タブ {#marketo-sales-insight-configuration-tab-in-salesforce}
+# [!DNL Salesforce] の [!DNL Marketo Sales Insight] 設定タブ {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## 操作上の設定 {#operational-settings}
 
-SFDCで [!DNL Sales Insight] の使用を開始するには、これを設定する必要があります。
+SFDC で [!DNL Sales Insight] を使用するには、この設定が必要です。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 
@@ -35,17 +35,17 @@ SFDCで [!DNL Sales Insight] の使用を開始するには、これを設定す
    * リードと取引先責任者 MSI レイアウトのドロップダウンから「Marketo キャンペーンに追加」オプションを非表示にできます
 * 今後のイベント：招待イベント、ユーザに対するすべてのイベント、またはこのタブを完全に非表示にできます
 * 今後のキャンペーン：すべてのメールキャンペーンを表示、またはこのタブを完全に非表示にできます
-* 今後のキャンペーンとイベントの読み込み：オンデマンドの「今後の項目を読み込み」ボタンの背後にイベントおよび「キャンペーン」タブを配置することで、ユーザーが実行する Rest API 呼び出しの数を減らす機能
+* 今後のキャンペーンおよびイベントの読み込み：「イベントとキャンペーン」タブをオンデマンドの「次の項目を読み込み」ボタンの後に配置することで、ユーザが行う Rest API 呼び出しの数を減らすことができます。
 * タブ設定：デフォルトでは、5 つのタブすべてが使用可能になります。Sales Insight パネルでタブの順序を選択できます。すべてのレイアウト（リード、取引先責任者、アカウント、商談）に同じ順序が適用されます。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-2.png)
 
 **「Marketo グローバル」タブ**
 
-* RSS フィードが有効：有効にすると、MSI ユーザは（Salesforce のリードフィードに加えて）RSS フィードでリードフィードを表示できます。RSS フィードは、「トークンの有効期限」機能が無効になっている場合にのみ機能します。 この設定は、Marketo Sales Insight 管理ページで制御します。
+* RSS フィードが有効：有効にすると、MSI ユーザは（Salesforce のリードフィードに加えて）RSS フィードでリードフィードを表示できます。RSS フィードは、「トークンの有効期限」機能が無効な場合にのみ機能します。この設定は、Marketo セールスインサイト管理ページで制御します。
 * 最有望見込客（デバッグモード）
-* デフォルトの非表示：ここで選択するオプションは、「非表示」アイコンをクリックすると、Marketoのおすすめコンテンツのタブにベストベットが表示されない日数です
-* 連絡先ステータスフィールド：ここで選択するオプションは、Marketoの「おすすめコンテンツ」タブのステータスヘッダー列に入力される値です
+* デフォルトの非表示：ここで選択するオプションは、「非表示」アイコンをクリックしたときに、Marketo の「最有望見込客」タブに最有望見込客が非表示になる日数です。
+* 取引先責任者ステータスフィールド：ここで選択するオプションは、Marketo の「最有望見込客」タブの「ステータスヘッダー」列に入力される値です。
 * ライブフィード設定：ライブフィードのみを表示するオプション（リードパネル、取引先責任者パネル、アカウントパネル、商談パネル、グローバル Marketo ページ）、リードフィードのみを表示するオプション（Marketo グローバルページ内）、またはライブとリードフィードの両方を表示するオプション
 * タブ設定：デフォルトでは、5 つのタブすべてが使用可能になります。Marketo グローバルページでタブの順序を選択できます
 
@@ -65,11 +65,11 @@ SFDCで [!DNL Sales Insight] の使用を開始するには、これを設定す
 
 ## サポート設定 {#support-settings}
 
-このチェックボックスを選択すると、Salesforce インスタンスでデバッグログが有効になります。 問題のトラブルシューティングに役立ちます。
+このチェックボックスをオンにすると、Salesforce インスタンスでデバッグログが有効になります。問題のトラブルシューティングに役立ちます。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
 
-## Marketo Sales Insight のリセット {#reset-marketo-sales-insight}
+## Marketo セールスインサイトのリセット {#reset-marketo-sales-insight}
 
 これを選択すると、SFDC 内のすべての設定が消去され、復元できなくなります。すべてを再度設定する必要があります。
 
@@ -77,8 +77,8 @@ SFDCで [!DNL Sales Insight] の使用を開始するには、これを設定す
 
 >[!IMPORTANT]
 >
->Sales Insights のアクション機能を使用している場合を除き、「MSI アクションを有効にする」チェックボックスを選択しないでください。
+>セールスインサイトのアクション機能を使用していない場合は、「MSI アクションを有効にする」チェックボックスをオンにしないでください。
 
 >[!MORELIKETHIS]
 >
->[Sales Insight へのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>[セールスインサイトへのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

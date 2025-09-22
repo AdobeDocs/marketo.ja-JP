@@ -4,20 +4,20 @@ description: プログラムアナライザーを使用したプログラムお�
 title: プログラムアナライザーを使用したプログラムおよびチャネルの詳細の調査
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; プログラムアナライザー &#x200B;] によるプログラムとチャネルの詳細の探索 {#explore-program-channel-details-with-the-program-analyzer}
+# [!UICONTROL プログラムアナライザー]を使用したプログラムおよびチャネルの詳細の調査 {#explore-program-channel-details-with-the-program-analyzer}
 
-[!UICONTROL &#x200B; プログラムアナライザー &#x200B;] で、詳細なプログラムとチャネルの統計を確認できます。 また、収益サイクルエクスプローラーで開くこともできます。
+詳細なプログラムおよびチャネル統計は、[!UICONTROL プログラムアナライザー]で確認できます。また、収益サイクルエクスプローラーで開くこともできます。
 
 >[!PREREQUISITES]
 >
->[ プログラムアナライザ [!UICONTROL &#x200B; の作成 &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[[!UICONTROL プログラムアナライザーの作成]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >

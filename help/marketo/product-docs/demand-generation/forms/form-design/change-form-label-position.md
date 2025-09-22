@@ -4,16 +4,16 @@ description: フォームラベルの位置の変更 — Marketo ドキュメン
 title: フォームラベルの位置の変更
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
 # フォームラベルの位置の変更 {#change-form-label-position}
 
-[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)を作成する場合、フォームフィールドラベルの位置を簡単に変更できます。どうやって。
+[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)を作成する場合、フォームフィールドラベルの位置を簡単に変更できます。手順は次のとおりです。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -33,8 +33,8 @@ ht-degree: 97%
 
    現在、次の 2 つのオプションがあります。
 
-   * [!UICONTROL &#x200B; 左 &#x200B;] （デフォルト）
-   * [!UICONTROL &#x200B; 上 &#x200B;]
+   * [!UICONTROL 左]（デフォルト）
+   * [!UICONTROL 上]
 
 1. 「**[!UICONTROL 終了]**」をクリックします。
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11377488
-description: エンタープライズキーを使用した  [!DNL Outlook]  用Marketo アドインのインストール – Marketo ドキュメント – 製品ドキュメント
-title: エンタープライズキーを使用した  [!DNL Outlook]  用のMarketo アドインのインストール
+description: エンタープライズキーを使用した  [!DNL Outlook]  用 Marketo アドインのインストール - Marketo ドキュメント - 製品ドキュメント
+title: エンタープライズキーを使用した  [!DNL Outlook]  用 Marketo アドインのインストール
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# Enterprise Key を使用して [!DNL Outlook] 用するMarketo アドインのインストール {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
+# エンタープライズキーを使用した [!DNL Outlook] 用 Marketo アドインのインストール {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
 多くの場合、セールス担当者は自分のノート PC で管理者権限を持っておらず、IT チームがすべてのソフトウェアをリモートでインストールする責任を負います。Outlook 用 Marketo アドインは、この方法でエンタープライズキーを使用してインストールできます。エンタープライズキーは、管理者の Sales Insight セクションにあります。「エンタープライズキーを表示」ボタンが表示されない場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に問い合わせて有効にします。
 
@@ -39,7 +39,7 @@ ht-degree: 79%
 
    ![](assets/image2016-7-25-14-3a35-3a38.png)
 
-1. [!DNL Outlook Enterprise] ライセンスキーをコピーして、それを [ このリンク ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md) と共に電子メールに貼り付け、リモートでインストールするために IT 部門に送信します。
+1. [このリンク](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-installation-by-it.md)と [!DNL Outlook Enterprise] ライセンスキーをコピーし、メールに貼り付け、リモートインストール用に IT 部門に送信します。
 
    ![](assets/image2016-7-25-14-3a39-3a9.png)
 

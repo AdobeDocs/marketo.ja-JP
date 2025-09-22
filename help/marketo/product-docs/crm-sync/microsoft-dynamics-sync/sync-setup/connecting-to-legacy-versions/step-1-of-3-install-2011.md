@@ -4,16 +4,16 @@ description: 手順 1 / 3 - Marketo ソリューション（2011 オンプレミ
 title: 手順 1 / 3 - Marketo ソリューション（2011 オンプレミス版）のインストール
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
 # 手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール {#step-of-install-the-marketo-solution-on-premises}
 
-オンプレミスとMarketo[!DNL Microsoft Dynamics] 同期する前に、まず [!DNL Dynamics] にMarketo ソリューションをインストールする必要があります。
+[!DNL Microsoft Dynamics] オンプレミスと Marketo を同期する前に、まず [!DNL Dynamics] に Marketo ソリューションをインストールする必要があります。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 77%
 
 >[!PREREQUISITES]
 >
->[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0、2.1、または 3.0（ADFS）が設定された、[インターネットに接続する展開](https://learn.microsoft.com/ja-jp/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"}（IFD）が構成されている必要があります。**注意**：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
+>[Active Directory Federation Services](https://msdn.microsoft.com/ja-jp/library/bb897402.aspx){target="_blank"} 2.0、2.1、または 3.0（ADFS）が設定された、[インターネットに接続する展開](https://learn.microsoft.com/ja-jp/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"}（IFD）が構成されている必要があります。**注意**：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
 >
 >始める前に、[Marketo リード管理ソリューションをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}します。
 
@@ -31,7 +31,7 @@ ht-degree: 77%
 >
 >この同期を実行するには、CRM 管理者権限が必要です。
 
-1. **[!DNL Dynamics]** にログインし、左下のメニューで **[!UICONTROL 設定]** を選択します。
+1. **[!DNL Dynamics]** にログインして、左下のメニューで「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/image2015-4-2-11-3a32-3a53.png)
 
@@ -79,11 +79,11 @@ ht-degree: 77%
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
-1. [!UICONTROL Marketo リード管理 &#x200B;] が **[!UICONTROL すべてのソリューション]** ページに表示されます。
+1. [!UICONTROL Marketo リード管理]が、**[!UICONTROL すべてのソリューション]**&#x200B;ページに表示されます。
 
    ![](assets/image2015-4-2-11-3a46-3a55.png)
 
-1. [!UICONTROL Marketo リード管理 &#x200B;] を選択し、「**[!UICONTROL すべてのカスタマイズを公開]**」をクリックします。
+1. 「[!UICONTROL Marketo リード管理]」を選択し、「**[!UICONTROL すべてのカスタマイズを公開]**」をクリックします。
 
    ![](assets/image2015-4-2-11-3a48-3a21.png)
 
@@ -93,4 +93,4 @@ ht-degree: 77%
 
 >[!MORELIKETHIS]
 >
->[ 手順 2/3: [!DNL Dynamics]  （2011 オンプレミス）でMarketo Sync ユーザーを設定する ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+>[手順 2／3： [!DNL Dynamics] （2011 オンプレミス）での Marketo 同期ユーザの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

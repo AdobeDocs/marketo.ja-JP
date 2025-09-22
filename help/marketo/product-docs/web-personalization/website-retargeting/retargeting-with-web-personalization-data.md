@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720796
-description: ウェブパーソナライズデータによるリターゲティング — Marketo ドキュメント — 製品ドキュメント
-title: ウェブパーソナライズデータによるリターゲティング
+description: Web パーソナライゼーションデータによるリターゲティング - Marketo ドキュメント - 製品ドキュメント
+title: Web パーソナライゼーションデータによるリターゲティング
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '388'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -15,16 +15,16 @@ ht-degree: 71%
 
 >[!AVAILABILITY]
 >
->ウェブサイトのリターゲティングが、ウェブパーソナライズタイルの下に表示されるようになりました。リターゲティングのみを購入した場合、このタイルが表示され、[!DNL Web Personalization] のみ **リターゲティング機能が有効になっている** 製品にアクセスできます。 アカウント設定、リターゲティングページ、セグメント、追加のトラッキングページにアクセスできます。
+>Web サイトのリターゲティングが、web パーソナライゼーションタイルの下に表示されるようになりました。リターゲティングのみを購入した場合は、このタイルが表示され、リターゲティング機能&#x200B;**のみ**&#x200B;が有効になっている [!DNL Web Personalization] 製品にアクセスできます。アカウント設定、リターゲティングページ、セグメント、追加のトラッキングページにアクセスできます。
 
 「どんな人か」「何をしたか」に基づく広告表示を利用して、過去にサイトを訪問した見込み客を、リマーケティングのターゲットにします。パーソナライズされたレターゲティングでは、業界、特定顧客および認識済みリードのデータに基づき、関連性のある広告を出すことで特定のオーディエンスにターゲティングできます。
 
-現在、ウェブパーソナライズは、次のリマーケティングプラットフォームにデータを追加します。
+現在、web パーソナライゼーションは、次のリマーケティングプラットフォームにデータを追加します。
 
 * [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 * [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
-[!DNL Web Personalization] は、オーディエンスを作成しリマーケティング広告キャンペーンを実行するために、次のデータをを通じてリマーケティングプラットフォームに送信します。
+[!DNL Web Personalization] は、次のデータをリマーケティングプラットフォームに送信して、オーディエンスを作成し、リマーケティング広告キャンペーンを実行します。
 
 <table>
  <tbody>
@@ -62,21 +62,21 @@ ht-degree: 71%
    >
    >リターゲティング設定は、ドメインごとまたはサブドメインごとにおこないます。これらのドメインからを通じてリターゲティングプラットフォームにデータを送信する場合は、他のドメインをアクティブ化します。
 
-1. ドメインごとにGoogle Analyticsまたは [!DNL Google Universal Analytics] の設定をアクティベートします。
+1. ドメインごとに、Google Analytics または [!DNL Google Universal Analytics] の設定をアクティブ化します。
 
    >[!NOTE]
    >
    >ウェブサイトに Google リターゲティングタグを実装する必要があります。
    >
-   >ウェブパーソナライズと Google Analytics との連携をすでに設定している場合は、「アカウント設定」の設定と同じなので、この部分を編集する必要はありません。
+   >Web パーソナライゼーションと Google Analytics との連携を既に設定している場合は、「アカウント設定」の設定と同じなので、この部分を編集する必要はありません。
 
    ![](assets/two.png)
 
-1. Facebook の設定をアクティブ化します。「[!DNL Facebook]」アコーディオンをクリックして展開し、「**[!UICONTROL オン]**」をクリックして、それぞれのイベントとデータを Facebook Audience Managerに送信します。 「**[!UICONTROL 保存]**」をクリックします。
+1. Facebook の設定をアクティブ化します。「[!DNL Facebook]」アコーディオンをクリックして展開し、「**[!UICONTROL オン]**」をクリックして、それぞれのイベントとデータを Facebook Audience Manager に送信します。「**[!UICONTROL 保存]**」をクリックします。
 
    >[!NOTE]
    >
-   >この機能を使用するには、[[!DNL Facebook]  カスタムオーディエンスピクセル ](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) が Web サイトにインストールされている必要があります。
+   >この機能を動作させるには、[[!DNL Facebook]  カスタムオーディエンスピクセル](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) を web サイトにインストールする必要があります。
 
    ![](assets/three.png)
 
@@ -98,4 +98,4 @@ ht-degree: 71%
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
-   これで、[!DNL Web Personalization] でリターゲティングの設定を完了し、リターゲティングプラットフォームにログインし、このデータに基づいてオーディエンスを作成し、リターゲティング広告キャンペーンを設定しました。
+   これで、[!DNL Web Personalization] のリターゲティングの設定が完了し、リターゲティングプラットフォームにログインして、このデータに基づいてオーディエンスを作成し、リターゲティング広告キャンペーンを設定しました。

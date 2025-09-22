@@ -3,16 +3,16 @@ description: Marketo Sales のパスワードの変更 - Marketo ドキュメン
 title: Marketo Sales のパスワードの変更
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
 # Marketo Sales のパスワードの変更 {#change-your-marketo-sales-password}
 
-パスワードを変更する必要がある場合、手順は以下のとおりです。
+パスワードを変更する必要がある場合、手順は次のとおりです。
 
 ## サインイン中のパスワード変更 {#change-your-password-while-signed-in}
 
@@ -20,7 +20,7 @@ ht-degree: 91%
 
    ![](assets/change-your-marketo-sales-password-1.png)
 
-1. [!UICONTROL &#x200B; マイプロファイル &#x200B;] ページがデフォルトで開きます。 [!UICONTROL &#x200B; アカウントの詳細 &#x200B;] で、「**[!UICONTROL パスワードを変更]**」チェックボックスを選択します。
+1. デフォルトで[!UICONTROL マイプロファイル]ページが開きます。「[!UICONTROL アカウントの詳細]」で、「**[!UICONTROL パスワードを変更]**」チェックボックスを選択します。
 
    ![](assets/change-your-marketo-sales-password-2.png)
 

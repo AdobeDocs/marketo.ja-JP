@@ -4,10 +4,10 @@ description: ペルソナの使用 - Marketo ドキュメント - 製品ドキ�
 title: ペルソナの使用
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -47,9 +47,9 @@ ht-degree: 86%
 
 ## ペルソナを表示する {#view-your-personas}
 
-特定の [!UICONTROL &#x200B; 指定アカウント &#x200B;] にアクセスして、ペルソナを表示します。
+特定の[!UICONTROL 重点顧客]にアクセスして、ペルソナを表示します。
 
-1. 目的の [!UICONTROL &#x200B; 指定顧客 &#x200B;] を選択します。
+1. 目的の[!UICONTROL 重点顧客]を選択します。
 
    ![](assets/one-a.png)
 
@@ -63,7 +63,7 @@ ht-degree: 86%
 
    >[!NOTE]
    >
-   >[!UICONTROL &#x200B; タイトルペルソナ &#x200B;] の X は、ワイルドカード文字として機能します。 例えば、「CXO」には CEO、CFO などが含まれます。
+   >[!UICONTROL 役職ペルソナ]内の X は、ワイルドカード文字として機能します。例えば、「CXO」には CEO、CFO などが含まれます。
 
 ## ペルソナフィルター {#persona-filters}
 

@@ -4,20 +4,20 @@ description: イベントプログラムへのメンバーの追加 - Marketo �
 title: イベントプログラムへのメンバーの追加
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 # イベントプログラムへのメンバーの追加 {#adding-members-to-an-event-program}
 
-この記事は、イベント上限またはイベントゴールを利用するユーザーにのみ適用されます。
+この記事は、イベントキャップまたはイベントゴールを利用するユーザーにのみ適用されます。
 
 >[!CAUTION]
 >
->イベントプログラムにユーザーのリストを直接インポートすると、これらのレコードがゴールトラッキングレポートおよびイベント上限進行状況レポートの実際の登録でカウントされなくなります。以下の手順に従って、レコードが確実にカウントされるようにします。
+>イベントプログラムにユーザーのリストを直接インポートすると、これらのレコードがゴールトラッキングレポートおよびイベントキャップ進行状況レポートの実際の登録でカウントされなくなります。以下の手順に従って、レコードが確実にカウントされるようにします。
 
 1. リードを作成し、[静的リストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md)します。
 
@@ -43,7 +43,7 @@ ht-degree: 96%
 
    ![](assets/seven.png)
 
-1. 「[!UICONTROL &#x200B; スケジュール &#x200B;]」タブで、「**[!UICONTROL 1 回実行]**」をクリックします。
+1. 「[!UICONTROL スケジュール]」タブで、「**[!UICONTROL 1 回実行]**」をクリックします。
 
    ![](assets/eight.png)
 
@@ -51,4 +51,4 @@ ht-degree: 96%
 
    ![](assets/nine.png)
 
-1. スマートキャンペーンの実行後に、メンバーがプログラムに追加されます。ゴールトラッキングやイベント上限進行状況が正しく計測されるようになります。
+1. スマートキャンペーンの実行後に、メンバーがプログラムに追加されます。ゴールトラッキングやイベントキャップ進行状況が正しく計測されるようになります。

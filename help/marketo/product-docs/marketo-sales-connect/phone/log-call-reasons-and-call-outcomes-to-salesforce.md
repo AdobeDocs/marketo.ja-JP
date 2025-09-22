@@ -3,16 +3,16 @@ description: Salesforce に通話理由と通話結果を記録 - Marketo ドキ
 title: Salesforce に通話理由と通話結果を記録
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '449'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
-# 通話理由と通話結果を [!DNL Salesforce] に記録する {#log-call-reasons-and-call-outcomes-to-salesforce}
+# [!DNL Salesforce] に通話理由と通話結果を記録 {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-レポートや表示の目的で、通話の結果と通話理由をログに記録し [!DNL Salesforce] い場合は、それぞれにカスタムアクティビティフィールドを作成できます。 各フィールドは、特定の API 名（[!DNL Salesforce] では「フィールド名」と呼ばれます）を使用する必要があります。
+レポートや表示の目的で、通話の結果や通話理由を [!DNL Salesforce] に記録する場合は、それぞれにカスタムアクティビティフィールドを作成できます。各フィールドは、特定の API 名（[!DNL Salesforce] では「フィールド名」と呼ばれます）を使用する必要があります。
 
 * 通話の結果フィールド名：mktosales_call_outcome
 * 通話理由フィールド名：mktosales_call_reason
@@ -21,9 +21,9 @@ ht-degree: 63%
 
 ## [!DNL Salesforce] Classic {#salesforce-classic}
 
-### [!DNL Salesforce] Classic にカスタムアクティビティフィールドを作成  {#create-custom-activity-field-in-salesforce-classic}
+### [!DNL Salesforce] Classic でのカスタムアクティビティフィールドの作成  {#create-custom-activity-field-in-salesforce-classic}
 
-1. [!DNL Salesforce] で、**[!UICONTROL 設定]** をクリックします。
+1. [!DNL Salesforce] で、「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -39,7 +39,7 @@ ht-degree: 63%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
-1. データタイプ「[!UICONTROL &#x200B; テキスト &#x200B;]」を選択し、「次へ **[!UICONTROL をクリック]** ます。
+1. データタイプ「[!UICONTROL テキスト]」を選択し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
@@ -57,19 +57,19 @@ ht-degree: 63%
 
    >[!NOTE]
    >
-   >カスタムフィールドが、[!DNL Sales Connect] ユーザーが使用するプロファイルと、他の任意の表示したいプロファイルに対して表示されていることを確認します。
+   >[!DNL Sales Connect] ユーザが使用するプロファイルと、他に表示するプロファイルにカスタムフィールドが表示されていることを確認します。
 
 1. フィールドを追加するページレイアウトを選択し、「**[!UICONTROL 保存]**」をクリックします（オプションで、「**[!UICONTROL 保存して新規作成]**」をクリックし、「通話理由」フィールドに対してこのプロセスを繰り返すことができます）。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
-### [!DNL Salesforce] Classic のタスクページレイアウトへのカスタムアクティビティフィールドの追加 {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
+### [!DNL Salesforce] Classic のタスクページレイアウトにカスタムアクティビティフィールドを追加 {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
 >[!NOTE]
 >
 >上記の手順 9 で目的のページレイアウトを選択しなかった場合にのみ、これらの手順に従う必要があります。
 
-1. [!DNL Salesforce] で、**[!UICONTROL 設定]** をクリックします。
+1. [!DNL Salesforce] で、「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -95,7 +95,7 @@ ht-degree: 63%
 
 ## [!DNL Salesforce] Lightning {#salesforce-lightning}
 
-### [!DNL Salesforce] Lightning でのカスタムアクティビティフィールドの作成 {#create-custom-activity-field-in-salesforce-lightning}
+### [!DNL Salesforce] Lightning でカスタムアクティビティフィールドを作成 {#create-custom-activity-field-in-salesforce-lightning}
 
 1. [!DNL Salesforce] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
@@ -105,7 +105,7 @@ ht-degree: 63%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. 「クイック検索」ボックスに「[!UICONTROL &#x200B; アクティビティ &#x200B;]」と入力します。
+1. クイック検索ボックスに「[!UICONTROL アクティビティ]」と入力します。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
@@ -121,7 +121,7 @@ ht-degree: 63%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-### [!DNL Salesforce] Lightning でタスクページレイアウトにカスタムアクティビティフィールドを追加する {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### [!DNL Salesforce] Lightning のタスクページレイアウトにカスタムアクティビティフィールドを追加 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
 1. [!DNL Salesforce] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
@@ -131,7 +131,7 @@ ht-degree: 63%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
-1. 「クイック検索」ボックスに「[!UICONTROL Task]」と入力します。
+1. クイック検索ボックスに「[!UICONTROL タスク]」と入力します。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 

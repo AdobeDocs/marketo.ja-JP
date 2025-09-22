@@ -4,7 +4,7 @@ description: テンプレート 6A - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 6A
 exl-id: 7bfc6301-f012-4865-a592-6dc5f60469d3
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 6A {#template-6a}
 
-右クリックして[テンプレート 6A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html?lang=ja)します
+右クリックして[テンプレート 6A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)します
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html?lang=ja)
+[Template 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)

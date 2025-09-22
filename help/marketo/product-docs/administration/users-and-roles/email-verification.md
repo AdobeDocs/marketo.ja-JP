@@ -3,8 +3,8 @@ description: メールの検証 - Marketo ドキュメント - 製品ドキュ�
 title: メールの検証
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '469'
 ht-degree: 100%
 

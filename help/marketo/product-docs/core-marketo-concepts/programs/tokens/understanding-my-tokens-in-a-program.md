@@ -4,10 +4,10 @@ description: プログラム内のマイトークンの理解 - Marketo ドキ�
 title: プログラム内のマイトークンの理解
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 92%
+ht-degree: 98%
 
 ---
 
@@ -73,7 +73,7 @@ ht-degree: 92%
 
 >[!CAUTION]
 >
->[!DNL Microsoft Dynamics] または [!DNL Salesforce] で Sales Insightからメールを送信しても、マイトークンが解決されません。入力されるのは標準トークン（リード、会社など）のみです。 ただし、トークンのデフォルト値は&#x200B;_機能します_。
+>[!DNL Microsoft Dynamics] または [!DNL Salesforce] のセールスインサイトからメールを送信しても、マイトークンは解決されません。標準のトークン（リード、会社など）のみが入力されます。ただし、トークンのデフォルト値は&#x200B;_機能します_。
 
 ## トークンのネスト {#nesting-tokens}
 

@@ -4,10 +4,10 @@ description: アップロードした画像またはファイルの削除 - Mark
 title: アップロードした画像またはファイルの削除
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 52%
+ht-degree: 56%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 52%
 >
 >削除すると、画像やファイルはMarketo Engageから完全に削除され、復元できなくなります。
 
-1. **[!UICONTROL Design Studio]** に移動します。
+1. **[!UICONTROL デザインスタジオ]**&#x200B;に移動します。
 
    ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. 「**[!UICONTROL 画像とファイル]**」を選択します。
+1. 「**[!UICONTROL 画像とファイル]**」を選択します
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 

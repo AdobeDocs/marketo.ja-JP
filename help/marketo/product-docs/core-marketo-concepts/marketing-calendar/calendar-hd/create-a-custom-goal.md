@@ -4,7 +4,7 @@ description: カスタムゴールの作成 - Marketo ドキュメント - 製�
 title: カスタムゴールの作成
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 77%
@@ -21,7 +21,7 @@ ht-degree: 77%
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. 右下隅にある **0&rbrace;Presentations&rbrace; をクリックします。**
+1. 右下隅の **[!UICONTROL プレゼンテーション]** をクリックします。
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 

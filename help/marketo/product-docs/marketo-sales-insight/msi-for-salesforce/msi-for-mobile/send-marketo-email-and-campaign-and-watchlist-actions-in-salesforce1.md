@@ -4,20 +4,20 @@ description: Salesforce1 での Marketo メール送信、キャンペーンお�
 title: Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '170'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
-# [!DNL Salesforce1] でのMarketoのメールおよび Campaign と監視リストのアクションの送信 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# [!DNL Salesforce1] での Marketo メール送信、キャンペーンおよびウォッチリストアクション {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. [!DNL Salesforce1] のリードの詳細エリアに移動し、「**[!UICONTROL 関連]**」タブをクリックします。
+1. [!DNL Salesforce1] の「リードの詳細」領域に移動し、「**[!UICONTROL 関連]**」タブをクリックします。
 
    ![](assets/one-1.png)
 
-1. 縦並びの 3 つのドットをクリックします。下部では、「[!UICONTROL Marketo Campaign に追加 &#x200B;]」、「[!UICONTROL Marketo メールを送信 &#x200B;]」、「[!UICONTROL Marketoで表示 &#x200B;]」、「[!UICONTROL &#x200B; ウォッチリストから追加 &#x200B;]」、「[!UICONTROL &#x200B; ウォッチリストから削除 &#x200B;]」から選択できます。
+1. 縦並びの 3 つのドットをクリックします。画面下部で、「[!UICONTROL Marketo キャンペーンに追加]」、「[!UICONTROL Marketo メールを送信]」、「[!UICONTROL Marketo で表示]」、「[!UICONTROL ウォッチリストに追加]」、「[!UICONTROL ウォッチリストから削除]」から選択できます。
 
    ![](assets/two-1.png)
 

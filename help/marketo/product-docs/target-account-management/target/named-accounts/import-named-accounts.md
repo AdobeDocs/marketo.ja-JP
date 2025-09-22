@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12615800
-description: '[!UICONTROL &#x200B; 指定アカウント &#x200B;] の読み込み – Marketo ドキュメント – 製品ドキュメント'
-title: インポート [!UICONTROL &#x200B; 重点顧客 &#x200B;]
+description: '[!UICONTROL 重点顧客]の読み込み - Marketo ドキュメント - 製品ドキュメント'
+title: '[!UICONTROL 重点顧客]の読み込み'
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '479'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
-# インポート [!UICONTROL &#x200B; 重点顧客 &#x200B;] {#import-named-accounts}
+# [!UICONTROL 重点顧客]の読み込み {#import-named-accounts}
 
 ターゲット顧客の候補がいっぱいの CSV を既にお持ちの場合、TAM に直接読み込むことができます。
 
@@ -33,15 +33,15 @@ ht-degree: 57%
 
    >[!NOTE]
    >
-   >**[!UICONTROL ドメイン名別]** を選択する場合は、指定アカウントとドメインの両方のフィールドを含める必要があります。
+   >「**[!UICONTROL ドメイン名別]**」を選択した場合は、「重点顧客」フィールドと「ドメイン」フィールドの両方を含める必要があります。
 
-1. 重点顧客を追加する顧客リストを選択するには、**[!UICONTROL 顧客リスト]**&#x200B;ドロップダウンリストから選択します。
+1. 重点顧客を追加するアカウントリストを選択するには、**[!UICONTROL アカウントリスト]**&#x200B;ドロップダウンリストから選択します。
 
    ![](assets/inafour.png)
 
    >[!NOTE]
    >
-   >また、ドロップダウンボックスに名前を入力するだけで、新しい [!UICONTROL &#x200B; アカウントリスト &#x200B;] を作成できます。
+   >また、ドロップダウンボックスに名前を入力するだけで、新しい[!UICONTROL アカウントリスト]を作成することもできます。
 
 1. 読み込みの通知を送信するには、**[!UICONTROL アラートの送信先]**&#x200B;ドロップダウンリストから、Marketo ユーザを選択します。メールアドレスを手動で入力することは&#x200B;_できません_。
 
@@ -63,46 +63,46 @@ ht-degree: 57%
    >
    >「インポートステータスを確認」では、最近の 3 日間のアクティビティのみが表示されます。
 
-[!UICONTROL &#x200B; アカウント名 &#x200B;] による重複排除のシナリオ：
+[!UICONTROL アカウント名]で重複解除する場合のシナリオは、次のとおりです。
 
 <table>
  <tbody>
   <tr>
-   <td><strong>既存の <span class="uicontrol"> 名前付きアカウント </span> 名を使用したレコードのインポート</strong></td>
-   <td><p>既存のレコードをアップデート</p></td>
+   <td><strong>既存の<span class="uicontrol">重点顧客</span>名を持つレコードの読み込み</strong></td>
+   <td><p>既存のレコードを更新</p></td>
   </tr>
   <tr>
-   <td><strong>新しい <span class="uicontrol"> 指定顧客 </span> 名でのレコードのインポート</strong></td>
+   <td><strong>新しい<span class="uicontrol">重点顧客</span>名を持つレコードの読み込み</strong></td>
    <td>新しいレコードを作成</td>
   </tr>
  </tbody>
 </table>
 
-[!UICONTROL &#x200B; ドメイン名 &#x200B;] による重複排除のシナリオ：
+[!UICONTROL ドメイン名で]重複解除する場合のシナリオは、次のとおりです。
 
 <table>
  <tbody>
   <tr>
-   <td><strong>新しい顧客名と新しいドメイン名を持つレコードの読み込み</strong></td>
-   <td>指定した情報で新しい <span class="uicontrol"> 指定アカウント </span> が作成されます</td>
+   <td><strong>新しいアカウント名と新しいドメイン名を持つレコードの読み込み</strong></td>
+   <td>提供された情報を使用して新しい<span class="uicontrol">重点顧客</span>を作成</td>
   </tr>
   <tr>
-   <td><strong>既存の顧客名と既存のドメイン名を持つレコードの読み込み</strong></td>
-   <td>既存の <span class="uicontrol"> 指定アカウント </span> を更新します</td>
+   <td><strong>既存のアカウント名と既存のドメイン名を持つレコードの読み込み</strong></td>
+   <td>既存の<span class="uicontrol">重点顧客</span>を更新</td>
   </tr>
    <tr>
-   <td><strong>新しい顧客名と既存のドメイン名を持つレコードの読み込み</strong></td>
-   <td>ドメイン名と一致する既存の <span class="uicontrol"> 指定アカウント </span> に新しいアカウント名を追加し、その他の情報（業界、州など）を更新します</td>
+   <td><strong>新しいアカウント名と既存のドメイン名を持つレコードの読み込み</strong></td>
+   <td>ドメイン名に一致する既存の<span class="uicontrol">重点顧客</span>に新しいアカウント名を付加し、その他の情報（業種、都道府県など）を更新</td>
   </tr>
   <tr>
-   <td><strong>既存の <span class="uicontrol"> 名前付きアカウント </span> 名および新しいドメイン名を持つレコードのインポート</strong></td>
-   <td>アカウント名と一致する既存の <span class="uicontrol"> 指定アカウント </span> に新しいドメイン名を追加し、その他の情報（業界、州など）を更新します</td>
+   <td><strong>既存の<span class="uicontrol">重点顧客</span>名と新しいドメイン名を含むレコードの読み込み</strong></td>
+   <td>アカウント名に一致する既存の<span class="uicontrol">重点顧客</span>に新しいドメイン名を付加し、その他の情報（業種、都道府県など）を更新</td>
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->Marketoが名前付きアカウントを追加する際に、その [!UICONTROL &#x200B; 名前付きアカウント &#x200B;] の一部である必要があるユーザーを特定できるようにするルールを（バックグラウンドで）更新しています。 例：「IBM」を「IBM, USA」に更新すると、どちらかの会社名を持つ人物が [!UICONTROL &#x200B; 特定のアカウント &#x200B;] に関連付けられます。
+>Marketo が重点顧客を付加する際、[!UICONTROL 重点顧客]に含まれる必要のある人物を識別できるルールが（バックグラウンドで）更新されます。例：「IBM」を「米国 IBM」に更新すると、どちらの会社名を持つ人物が[!UICONTROL 重点顧客]に関連付けられます。
 
 Marketo が重複と見なすレコードを検出した場合は、最初のレコードのみが処理されます。

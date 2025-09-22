@@ -4,10 +4,10 @@ description: 人物の詳細ページの使用 - Marketo ドキュメント - �
 title: 人物の詳細ページの使用
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 85%
 * プログラムの「**メンバー**」タブ
 * **スマートキャンペーン**&#x200B;内のキャンペーンメンバーの表示
 * **レポート**
-  <br> 
+  <br>
 
 1. 任意の人物をダブルクリックするか、左側の ID をシングルクリックします。
 
@@ -76,16 +76,16 @@ ht-degree: 85%
 | 請求先住所（国） | 請求先住所（郵便番号） | 請求先住所（都道府県） | 市区町村 | 企業名 |
 | 国 | 作成日時 | 生年月日 | 部門 | 電話連絡拒否 |
 | 電話連絡拒否の原因 | 電話連絡拒否の理由 | メールアドレス | メール無効 | メール無効の理由 |
-| 外部企業 ID | 外部セールス担当者 ID | ファックス番号 | 名 | 氏名 |
+| 外部企業 ID | 外部セールス担当者 ID | ファックス番号 | 名前（名） | 氏名 |
 | 業界 | 推測される市区町村 | 推測される企業 | 推測される国 | 推測される都市圏 |
 | 推測される市外局番 | 推測される郵便番号 | 推測される都道府県／地域 | 匿名 | 顧客 |
-| パートナー | 役職 | 姓 | 評価 | スコア |
-| 人物のソース | ステータス | 代表電話番号 | Marketo Social [!DNL Facebook] の表示名 | Marketo Social [!DNL Facebook] Id |
-| Marketo Social [!DNL Facebook] の写真 URL | Marketo Social [!DNL Facebook] プロファイル URL | Marketo Social [!DNL Facebook] Reach | Marketo Social [!DNL Facebook] の参照登録 | Marketo Social [!DNL Facebook] 関連の訪問 |
-| Marketo ソーシャル性別 | Marketo ソーシャルを最後の参照元とする登録 | Marketo ソーシャルを最後の参照元とする訪問 | Marketo Social [!DNL LinkedIn] の表示名 | Marketo Social [!DNL LinkedIn] Id |
-| Marketo Social [!DNL LinkedIn] の写真 URL | Marketo Social [!DNL LinkedIn] プロファイル URL | Marketo Social [!DNL LinkedIn] Reach | Marketo Social [!DNL LinkedIn] の参照登録 | Marketo Social [!DNL LinkedIn] 関連の訪問 |
-| Marketo ソーシャル Syndication ID | Marketo ソーシャルを参照元とする合計登録数 | Marketo ソーシャルを参照元とする合計訪問数 | Marketo Social [!DNL Twitter] の表示名 | Marketo Social [!DNL Twitter] Id |
-| Marketo Social [!DNL Twitter] の写真 URL | Marketo Social [!DNL Twitter] プロファイル URL | Marketo Social [!DNL Twitter] Reach | Marketo Social [!DNL Twitter] の参照登録 | Marketo Social [!DNL Twitter] 関連の訪問 |
+| パートナー | 役職 | 名前（姓） | 評価 | スコア |
+| 人物のソース | ステータス | 代表電話番号 | Marketo ソーシャル [!DNL Facebook] の表示名 | Marketo ソーシャル [!DNL Facebook] の ID |
+| Marketo ソーシャル [!DNL Facebook] の画像 URL | Marketo ソーシャル [!DNL Facebook] のプロファイル URL | Marketo ソーシャル [!DNL Facebook] のリーチ | Marketo ソーシャル [!DNL Facebook] を参照元とする登録数 | Marketo ソーシャル [!DNL Facebook] を参照元とする訪問数 |
+| Marketo ソーシャル性別 | Marketo ソーシャルを最後の参照元とする登録 | Marketo ソーシャルを最後の参照元とする訪問 | Marketo ソーシャル [!DNL LinkedIn] の表示名 | Marketo ソーシャル [!DNL LinkedIn] の ID |
+| Marketo ソーシャル [!DNL LinkedIn] の画像 URL | Marketo ソーシャル [!DNL LinkedIn] のプロファイル URL | Marketo ソーシャル [!DNL LinkedIn] のリーチ | Marketo ソーシャル [!DNL LinkedIn] を参照元とする登録数 | Marketo ソーシャル [!DNL LinkedIn] を参照元とする訪問数 |
+| Marketo ソーシャル Syndication ID | Marketo ソーシャルを参照元とする合計登録数 | Marketo ソーシャルを参照元とする合計訪問数 | Marketo ソーシャル [!DNL Twitter] の表示名 | Marketo ソーシャル [!DNL Twitter] の ID |
+| Marketo ソーシャル [!DNL Twitter] の画像 URL | Marketo ソーシャル [!DNL Twitter] のプロファイル URL | Marketo ソーシャル [!DNL Twitter] のリーチ | Marketo ソーシャル [!DNL Twitter] を参照元とする登録数 | Marketo ソーシャル [!DNL Twitter] を参照元とする訪問数 |
 | ミドルネーム | 携帯電話番号 | 従業員数 | 電話番号 | 郵便番号 |
 | 優先度 | 相対スコア | ロール | 敬称 | SIC コード |
 | サイト | ステート | 登録解除 | 登録解除の理由 | 更新時刻 |

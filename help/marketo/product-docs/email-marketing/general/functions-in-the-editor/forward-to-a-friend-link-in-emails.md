@@ -4,10 +4,10 @@ description: メール内の「友達に転送」リンク - Marketo ドキュ�
 title: メール内の「友達に転送」リンク
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '703'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 98%
 
 ## メールテンプレートへのリンクの追加 {#add-the-link-to-an-email-template}
 
-1. **[!UICONTROL Design Studio]** に移動します。
+1. **[!UICONTROL デザインスタジオ]**&#x200B;に移動します。
 
    ![](assets/one-8.png)
 
@@ -42,7 +42,7 @@ ht-degree: 98%
 
    >[!CAUTION]
    >
-   >メールテンプレートでスタイル **位置:relative** を使用することはお勧めしません。 「友達に転送」ボックスの位置と表示に問題が生じる可能性があります。
+   >メールテンプレート内での&#x200B;**位置:relative**&#x200B;のスタイル設定の使用はお勧めしません「友達に転送」ボックスの位置と表示に問題が生じる可能性があります。
 
 1. 「**[!UICONTROL ドラフトをプレビュー]**」を使用して、テンプレートが希望どおりに表示されることを確認します。
 
@@ -134,7 +134,7 @@ ht-degree: 98%
 
    >[!NOTE]
    >
-   >転送を受け取った友達が不明なリードの場合、新しいリードが作成され、「友達に転送」がリードの&#x200B;**ソース**&#x200B;に指定されます。
+   >転送を受け取った友達が不明なリードの場合、新しいリードが作成され、「友達に転送」がリードの&#x200B;**ソース**に指定されます。
    >メールがプログラムのローカルアセットである場合、プログラムはリードの&#x200B;**新規顧客獲得プログラム**&#x200B;に指定されます。
 
 ## トリガーまたは転送アクティビティを使用したフィルター {#trigger-or-filter-using-forwarding-activity}

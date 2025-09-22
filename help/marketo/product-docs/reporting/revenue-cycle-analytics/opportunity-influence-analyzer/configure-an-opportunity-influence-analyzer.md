@@ -4,10 +4,10 @@ description: 商談の影響分析の設定 - Marketo ドキュメント - 製�
 title: 商談の影響分析の設定
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
@@ -23,21 +23,21 @@ ht-degree: 69%
 
    ![](assets/login-to-analytics.png)
 
-1. **[!UICONTROL Analytics]** に移動し、オポチュニティ影響力アナライザーを選択します。
+1. **[!UICONTROL 分析]**&#x200B;に移動し、「商談の影響分析」を選択します。
 
    ![](assets/image2014-9-17-12-3a28-3a33.png)
 
-   アナライザーグラフに注目のアクションが多すぎる場合は、**[!UICONTROL 設定]**&#x200B;パネルで人を選択解除するか、注目のアクションのタイプを減らすことで、注目のアクション数を減らすことができます。
+   アナライザーグラフに注目のアクションが多すぎる場合は、**[!UICONTROL 設定]**&#x200B;パネルで人物を選択解除するか、注目のアクションのタイプを減らすことで、注目のアクション数を減らすことができます。
 
-1. 含める注目のアクションのタイプを設定するには、「**[!UICONTROL 設定]**」タブに移動して、「注目のアクション **[!UICONTROL フィルターをドラッグ]** ます。
+1. 含める注目のアクションのタイプを設定するには、「**[!UICONTROL 設定]**」タブに移動し、対象の「**[!UICONTROL 注目のアクション]**」フィルターをドラッグします。
 
    ![](assets/image2014-9-17-12-3a29-3a10.png)
 
-1. **[!UICONTROL すべて]**、**[!UICONTROL なし]**、または **[!UICONTROL 一部]** を表示するかどうかを選択します。
+1. 「**[!UICONTROL すべて]**」、「**[!UICONTROL なし]**」、「**[!UICONTROL 一部]**」の表示のいずれかを選択します。
 
    ![](assets/image2014-9-17-12-3a29-3a18.png)
 
-1. **[!UICONTROL 一部]** を選択すると、含めるタイプを選択できます。
+1. 「**[!UICONTROL 一部]**」を選択した場合は、含めるタイプを選択できます。
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 

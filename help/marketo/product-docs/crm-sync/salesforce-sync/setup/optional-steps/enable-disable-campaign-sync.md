@@ -4,10 +4,10 @@ description: キャンペーン同期の有効化／無効化 - Marketo ドキ�
 title: キャンペーン同期の有効化／無効化
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 65%
+ht-degree: 71%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 65%
 >
 >**管理者権限が必要**
 
-このオプションを使用すると、Marketo Engageはプログラムメンバーシップとステータスを Salesforce キャンペーンと同期できます。また、その逆も可能です。
+このオプションを使用すると、Marketo Engageは、プログラムメンバーシップとステータスをSalesforce キャンペーンと同期できます。また、その逆も可能です。
 
-1. **[!UICONTROL Admin]** に移動し、「**[!DNL Salesforce]**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」に移動し、「**[!DNL Salesforce]**」をクリックします。
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
@@ -27,7 +27,7 @@ ht-degree: 65%
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. **[!UICONTROL Salesforce キャンペーン同期を有効にする]** をオンにして、「**[!UICONTROL 保存]**」をクリックします。
+1. **[!UICONTROL Salesforce Campaign 同期を有効にする]** をオンにして、「**[!UICONTROL 保存]** をクリックします。
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 

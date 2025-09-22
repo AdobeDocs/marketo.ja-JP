@@ -4,7 +4,7 @@ description: ハイパーリンクテキストの追加 - Marketo ドキュメ�
 title: ハイパーリンクテキストの追加
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 76%

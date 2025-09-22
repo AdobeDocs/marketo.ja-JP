@@ -3,10 +3,10 @@ description: テストメールの送信 - Marketo ドキュメント - 製品�
 title: テストメールの送信
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 78%
 
 メールを送信する前に、任意のメールアドレスにテストメールを送信することで、メールフォーマットとトークンをテストできます。
 
-1. リードまたは連絡先の [!DNL Sales Insight] にある [!DNL Salesforce] パネルに移動します。
+1. リードまたは取引先責任者の [!DNL Salesforce] の [!DNL Sales Insight] パネルに移動します。
 
 1. 「**[!UICONTROL Marketo メールを送信]**」をクリックします。
 
@@ -34,4 +34,4 @@ ht-degree: 78%
 
 >[!NOTE]
 >
->テストメールを送信した後も「[!UICONTROL Marketo メールを送信 &#x200B;]」ページに残るので、作成したメールが失われることはありません。
+>テストメールを送信した後も、「[!UICONTROL Marketo メールを送信]」ページに留まるので、作成したメールは失われません。

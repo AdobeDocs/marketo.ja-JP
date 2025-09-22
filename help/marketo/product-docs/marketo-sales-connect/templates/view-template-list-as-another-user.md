@@ -4,8 +4,8 @@ description: テンプレートリストを別のユーザとして表示 - Mark
 title: テンプレートリストを別のユーザとして表示
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '77'
 ht-degree: 100%
 

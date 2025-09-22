@@ -4,20 +4,20 @@ description: タスクの「アクティビティタイプ」フィールド（S
 title: タスクの「アクティビティタイプ」フィールド（SFDC）
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
 # タスクの「アクティビティタイプ」フィールド（SFDC） {#activity-type-field-on-tasks-sfdc}
 
-[!DNL Sales Connect] を使用すると、メールと通話を [!DNL Salesforce] のアクティビティとしてログに記録できます。 [!DNL Salesforce] に貴重なデータを含めるには、[!UICONTROL &#x200B; タイプ &#x200B;] フィールドに正しい値を入力することが重要です。
+[!DNL Sales Connect] を使用すると、メールと通話を [!DNL Salesforce] のアクティビティとして記録できます。[!DNL Salesforce] で有用なデータを持つ重要な点は、「[!UICONTROL タイプ]」フィールドに正しい値が入力されることです。
 
 >[!NOTE]
 >
->BCC を介したメールのログは、タスクタイプの選択リストを参照せず、代わりに、BCC アドレスを通じて [!DNL Salesforce] に配信されるので、タイプ フィールドに「メール」と自動的に入力します。
+>BCC によってメールをログに記録する場合、BCC アドレスを通じて [!DNL Salesforce] に配信されるので、「タスクタイプ」選択リストは参照されず、代わりに、タイプフィールドには自動的に「メール」が入力されます。
 
 ## 要件 {#requirements}
 
@@ -32,14 +32,14 @@ ht-degree: 58%
 
 1. [Salesforce.com](https://salesforce.com) に移動し、右上隅の「設定」をクリックします。
 1. 「**[!UICONTROL カスタマイズ]**」をクリックします。
-1. **[!UICONTROL アクティビティ]** をクリックします。
+1. 「**[!UICONTROL アクティビティ]**」をクリックします。
 1. 「**[!UICONTROL タスクフィールド]**」をクリックします。
 1. 「**[!UICONTROL タイプ]**」をクリックします。
 1. 「タスクタイプ選択リスト」が表示されます。「デフォルト」が選択されていないことを確認します。
-1. [!UICONTROL Email]、[!UICONTROL Call]、および [!UICONTROL Reply] に [!UICONTROL Type] 値がリストされていることを確認します。
+1. 「[!UICONTROL メール]」、「[!UICONTROL 通話]」、「[!UICONTROL 返信]」に「[!UICONTROL タイプ]」の値が表示されていることを確認します。
 
 これで、「タイプ」フィールドに、ログに記録されたメール、通話、返信の対応する値が表示されます。これらの値は、Sales Connect リマインダータスクには設定され&#x200B;_ません_。
 
 >[!NOTE]
 >
->値として「返信」が表示されない場合は、「**[!UICONTROL 新規]**」をクリックして返信を追加します。「返信」は、[!DNL Salesforce] の標準値ではありません。
+>値として「返信」が表示されない場合は、「**[!UICONTROL 新規]**」をクリックして返信を追加します。[!DNL Salesforce] では、「返信」は標準値ではありません。

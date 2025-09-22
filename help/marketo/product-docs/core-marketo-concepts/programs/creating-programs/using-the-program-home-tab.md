@@ -4,7 +4,7 @@ description: 「プログラムホーム」タブの使用 - Marketo ドキュ�
 title: 「プログラムホーム」タブの使用
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 86%

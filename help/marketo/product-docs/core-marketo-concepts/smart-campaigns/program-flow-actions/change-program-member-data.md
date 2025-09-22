@@ -3,7 +3,7 @@ description: プログラムメンバーの変更 - Marketo ドキュメント -
 title: プログラムメンバーの変更
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 83%
@@ -38,7 +38,7 @@ ht-degree: 83%
 
 >[!TIP]
 >
->フィールドを更新する代わりにクリアする場合は、「新しい値 [!UICONTROL &#x200B; として「NULL」（引用符なし、すべて大文字）を入力でき &#x200B;] す。
+>フィールドを更新する代わりにクリアする場合は、「新しい値 [!UICONTROL  として「NULL」（引用符なし、すべて大文字）を入力でき ] す。
 
 >[!MORELIKETHIS]
 >

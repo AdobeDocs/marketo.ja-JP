@@ -4,10 +4,10 @@ description: 既知のリードデータを使用してセグメントを作成�
 title: 既知のリードデータを使用してセグメントを作成する
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -53,12 +53,12 @@ ht-degree: 87%
 
    ![](assets/eight.png)
 
-1. [!UICONTROL AND]/[!UICONTROL OR] 演算子を選択します。 追加するフィールドを選択します。複数のリードデータフィールドを選択します。リードデータの値を入力します。
+1. [!UICONTROL AND] または [!UICONTROL OR] 演算子を選択します。追加するフィールドを選択します。複数のリードデータフィールドを選択します。リードデータの値を入力します。
 
    ![](assets/nine.png)
 
-1. 「**[!UICONTROL 保存]**」をクリックしてセグメントを保存するか、「**[!UICONTROL 保存してキャンペーンを定義]**」をクリックして保存し、「[!UICONTROL &#x200B; キャンペーン &#x200B;]」ページに移動します。
+1. 「**[!UICONTROL 保存]**」をクリックしてセグメントを保存するか、「**[!UICONTROL 保存してキャンペーンを設定]**」をクリックして保存し、[!UICONTROL キャンペーン]ページに移動します。
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 
-   これで、既知のリードのデータをターゲットにするセグメントが設定されました。
+   これで、認識済み顧客のデータをターゲットにするセグメントが設定されました。

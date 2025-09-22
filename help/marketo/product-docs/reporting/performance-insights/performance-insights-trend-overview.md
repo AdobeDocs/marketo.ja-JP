@@ -4,26 +4,26 @@ description: パフォーマンスインサイトのトレンドの概要 - Mark
 title: パフォーマンスインサイトのトレンドの概要
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;] トレンドの概要 {#performance-insights-trend-overview}
+# [!UICONTROL パフォーマンスインサイト]のトレンドの概要 {#performance-insights-trend-overview}
 
-[!UICONTROL &#x200B; トレンド &#x200B;] 一定期間におけるのチャネルパフォーマンスを表示します。
+[!UICONTROL トレンド]は、ある期間のチャネルパフォーマンスを示します。
 
 「**[!UICONTROL トレンド]**」タブをクリックして、この表示にアクセスします。
 
 ![](assets/1.png)
 
-## [!UICONTROL &#x200B; トレンド &#x200B;] {#trend}
+## [!UICONTROL トレンド] {#trend}
 
 ![](assets/2-1.png)
 
-パフォーマンスを表示する指標を選択します。この例では、[[!UICONTROL &#x200B; ファーストタッチ &#x200B;]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md) を介して獲得した商談を見ていきます。
+パフォーマンスを表示する指標を選択します。この例では、[[!UICONTROL ファーストタッチ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)を介して獲得した機会を見ていきます。
 
 ![](assets/3-2.png)
 

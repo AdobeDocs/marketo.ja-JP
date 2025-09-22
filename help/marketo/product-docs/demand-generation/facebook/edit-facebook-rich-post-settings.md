@@ -6,16 +6,16 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 49%
+ht-degree: 95%
 
 ---
 
-# リッチ投稿設定 [!DNL Facebook] 編集 {#edit-facebook-rich-post-settings}
+# [!DNL Facebook] リッチ投稿設定の編集 {#edit-facebook-rich-post-settings}
 
-[!DNL Facebook] で他のユーザーがあなたを共有するときに投稿をカスタマイズします。
+ユーザが [!DNL Facebook] で自社の情報を共有するときの投稿をカスタマイズします。
 
 >[!AVAILABILITY]
 >
@@ -25,13 +25,13 @@ Marketo の&#x200B;_ソーシャルアプリ_&#x200B;を使用すると、リー
 
 ## リッチ投稿オプションの選択 {#select-rich-post-options}
 
-ランディングページの共有で生成される [!DNL Facebook] しいリッチ投稿で使用するページ情報のタイプを指定できます。
+ランディングページからの共有によって生成される [!DNL Facebook] リッチ投稿について、使用するページ情報のタイプを指定できます。
 
-1. _&#x200B;**[!UICONTROL ビデオまたはソーシャルボタンのエディターで]** Facebook メッセージ _[!DNL YouTube_]_&#x200B;を選択します。
+1. _**[!UICONTROL ビデオまたはソーシャルボタンのエディターで]** Facebook メッセージ _[!DNL YouTube_]_を選択します。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
-1. [!DNL Facebook] メッセージに対して次のオプションから選択します。
+1. [!DNL Facebook] メッセージについて、以下のオプションを選択します。
 
    * 静的コンテンツの追加：タイトル、キャプション、説明を手動で入力するには、このオプションを選択します。
 
@@ -43,17 +43,17 @@ Marketo の&#x200B;_ソーシャルアプリ_&#x200B;を使用すると、リー
 
    >[!NOTE]
    >
-   >これらは既にページソースに存在しているはずですが、より詳細に制御するには、ランディングページに特定の [!DNL Facebook] OG タグを追加します。
+   >これらのタグは、ページのソースにあらかじめ存在している必要がありますが、より厳密に制御するために、特定の [!DNL Facebook] OG タグをランディングページに追加することができます。
 
-   * リッチコンテンツを追加しない：ランディングページからの [!DNL Facebook] 投稿をメインメッセージとリンクのみに制限します。
+   * リッチコンテンツを追加しない：ランディングページからの [!DNL Facebook] 投稿を、メインのメッセージとリンクだけに制限します。
 
    ![](assets/image2014-9-22-16-3a48-3a18.png)
 
 ## ランディングページへの [!DNL Facebook] OG タグの追加 {#add-facebook-og-tags-to-a-landing-page}
 
-ランディングページから [!DNL Facebook] 共有に含めるページ要素を制御するには、タイトル、キャプション、説明の OG （グラフを開く）タグ [!DNL Facebook] ランディングページに追加します。
+ランディングページから [!DNL Facebook] 共有に含まれるページ要素を制御するには、ランディングページにタイトル、キャプションおよび説明用の [!DNL Facebook] OG（Open Graph）タグを追加します。
 
-1. **[!DNL YouTube]ビデオ** またはソーシャルボタンを含むランディングページを開きます。
+1. **[!DNL YouTube]ビデオ**&#x200B;またはソーシャルボタンを含むランディングページを開きます。
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
@@ -63,7 +63,7 @@ Marketo の&#x200B;_ソーシャルアプリ_&#x200B;を使用すると、リー
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
-1. og:title、og:caption、og:description を定義するHTMLを追加します。 次の行をコピー＆ペーストして、プレースホルダーテキストを置き換えます。
+1. og:title、og:caption、og:description を定義する HTML を追加します。次の行をコピー＆ペーストして、プレースホルダーテキストを置き換えます。
 
    `<meta property="og:title" content="My Post Title"/>`
 

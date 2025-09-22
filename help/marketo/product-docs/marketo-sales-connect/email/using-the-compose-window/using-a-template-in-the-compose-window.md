@@ -4,10 +4,10 @@ description: 作成ウィンドウでのテンプレートの使用 - Marketo �
 title: 作成ウィンドウでのテンプレートの使用
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 95%
 
    ![](assets/one-6.png)
 
-1. 「[!UICONTROL To]」フィールドに値を入力します。
+1. 「[!UICONTROL 宛先]」フィールドを入力します。
 
    ![](assets/searching-two.png)
 
@@ -47,7 +47,7 @@ ht-degree: 95%
 
    ![](assets/one-6.png)
 
-1. **お気に入り** の横にある [!UICONTROL +] アイコンをクリックします。
+1. [!UICONTROL お気に入り]の横にある「**+**」アイコンをクリックします。
 
    ![](assets/pinning-two.png)
 

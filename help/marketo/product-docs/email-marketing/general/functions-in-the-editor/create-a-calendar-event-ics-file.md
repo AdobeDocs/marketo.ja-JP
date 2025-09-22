@@ -4,10 +4,10 @@ description: カレンダーイベント（.ics）ファイルの作成 - Market
 title: カレンダーイベント（.ics）ファイルの作成
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 90%
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 
-1. **トークン名** を入力し、**[!UICONTROL クリックして編集]** をクリックします。
+1. **トークン名**&#x200B;を入力し、「**[!UICONTROL クリックして編集]**」をクリックします。
 
    ![](assets/image2014-9-11-15-3a34-3a10.png)
 

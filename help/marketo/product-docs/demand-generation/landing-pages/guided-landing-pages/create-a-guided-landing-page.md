@@ -4,10 +4,10 @@ description: ガイド付きランディングページを作成する - Marketo
 title: ガイド付きランディングページテンプレートを作成する
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 89%
 
 ## プログラムでガイド付きランディングページを作成する {#create-a-guided-landing-page-in-a-program}
 
-ガイド付きランディングページは、プログラムのローカルアセットとして作成することも、[!UICONTROL Design Studio] で作成してグローバルに使用することもできます。
+ガイド付きランディングページは、プログラムのローカルアセットとして、または[!UICONTROL デザインスタジオ]で作成してグローバルに使用できます。
 
 1. 「**[!UICONTROL マーケティング活動]**」に移動します。
 

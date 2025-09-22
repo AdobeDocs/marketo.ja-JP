@@ -3,7 +3,7 @@ description: Sales Insight Actions はどのブラウザーをサポートして
 title: Sales Insight Actions はどのブラウザーをサポートしていますか？
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
@@ -12,7 +12,7 @@ ht-degree: 100%
 
 # Sales Insight Actions はどのブラウザーをサポートしていますか？ {#which-browsers-does-sales-insight-actions-support}
 
-Marketo Sales Actions は、現在、次のブラウザーをサポートしています。
+Marketo セールスインサイト Actions は、現在、次のブラウザーをサポートしています。
 
 <table>
  <tbody>

@@ -4,16 +4,16 @@ description: フリーフォームランディングページでの動的コン�
 title: フリーフォームランディングページでの動的コンテンツの使用
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '206'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
 # フリーフォームランディングページでの動的コンテンツの使用 {#use-dynamic-content-in-a-free-form-landing-page}
 
-ランディングページで動的コンテンツを使用すると、ターゲット情報に関心が生じます。
+ランディングページで動的コンテンツを使用することで、ターゲットを絞った情報でオーディエンスの関心を引き付けます。
 
 >[!PREREQUISITES]
 >
@@ -35,11 +35,11 @@ ht-degree: 91%
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
-1. [!UICONTROL &#x200B; セグメント化 &#x200B;] の名前を入力し、「**[!UICONTROL 保存]**」をクリックします。
+1. 「[!UICONTROL セグメント化名]」を入力して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-17-12-3a8-3a53.png)
 
-1. セグメント化とそのセグメントが、右側の [!UICONTROL &#x200B; 動的 &#x200B;] の下に表示されます。
+1. セグメント化とそのセグメントは、右側の「[!UICONTROL 動的]」の下に表示されます。
 
    ![](assets/image2014-9-17-12-3a9-3a3.png)
 

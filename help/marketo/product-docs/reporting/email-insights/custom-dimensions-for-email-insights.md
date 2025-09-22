@@ -4,10 +4,10 @@ description: メールインサイトのカスタムディメンション - Mark
 title: メールインサイトのカスタムディメンション
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 87%
 >
 >カスタムディメンションは、削除も置き換えも&#x200B;**できない**&#x200B;ので、注意して 10 個を選択してください。
 
-1. [!UICONTROL &#x200B; メールインサイト &#x200B;] で、ページの右上にある歯車アイコンをクリックします。
+1. [!UICONTROL メールインサイト]で、ページの右上にある歯車アイコンをクリックします。
 
    ![](assets/cd1.png)
 

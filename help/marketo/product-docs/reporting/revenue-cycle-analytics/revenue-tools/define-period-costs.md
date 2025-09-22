@@ -4,10 +4,10 @@ description: 期間原価の定義 - Marketo ドキュメント - 製品ドキ�
 title: 期間原価の定義
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 65%
 
 >[!NOTE]
 >
->プログラムの最初に、予測コストを入力します。プログラムの期間が完了したら、[!UICONTROL &#x200B; 期間コスト &#x200B;] を編集して、実際のコストを入力できます。 これにより、正確なレポート結果が得られます。
+>プログラムの最初に、予測コストを入力します。プログラムの期間が完了したら、「[!UICONTROL 期間原価]」を編集し、実際のコストを入力できます。これにより、正確なレポート結果が得られます。
 
-## [!UICONTROL &#x200B; 期間コスト &#x200B;] を定義 {#define-a-period-cost}
+## [!UICONTROL 期間原価]の定義 {#define-a-period-cost}
 
 1. プログラムまたはイベントの「**[!UICONTROL 設定]**」タブに移動します。
 
@@ -45,15 +45,15 @@ ht-degree: 65%
 
    >[!NOTE]
    >
-   >通貨（USD、EUR など）は、Marketo管理者が管理するグローバル設定です
+   >通貨（USD、EUR など）は、Marketo 管理者が管理するグローバル設定です。
 
 1. （オプション）説明的な&#x200B;**[!UICONTROL メモ]**&#x200B;を入力して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
-## [!UICONTROL &#x200B; 期間コスト &#x200B;] の編集 {#edit-a-period-cost}
+## [!UICONTROL 期間原価]の編集 {#edit-a-period-cost}
 
-1. [!UICONTROL &#x200B; 期間コスト &#x200B;] を右クリックし、ポップアップメニューから **[!UICONTROL 編集]** を選択して **[!UICONTROL コストを編集]** ダイアログボックスを開きます。
+1. [!UICONTROL 期間原価]を右クリックし、ポップアップメニューから「**[!UICONTROL 編集]**」を選択すると、**[!UICONTROL コストを編集]**&#x200B;ダイアログボックスが開きます。
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -61,9 +61,9 @@ ht-degree: 65%
 
    ![](assets/image2015-4-24-16-3a27-3a38.png)
 
-## [!UICONTROL &#x200B; 期間コスト &#x200B;] の削除 {#delete-a-period-cost}
+## [!UICONTROL 期間原価]の削除 {#delete-a-period-cost}
 
-1. 削除する [!UICONTROL &#x200B; 期間費用 &#x200B;] を右クリックし、ポップアップメニューから **[!UICONTROL 削除]** を選択して **[!UICONTROL 費用を削除]** プロンプトを表示します。
+1. 削除する[!UICONTROL 期間原価]を右クリックし、ポップアップメニューから「**[!UICONTROL 削除]**」を選択すると、**[!UICONTROL コストを削除]**&#x200B;プロンプトが表示されます。
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 

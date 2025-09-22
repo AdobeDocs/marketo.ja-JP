@@ -4,10 +4,10 @@ description: 成功パス分析の作成 - Marketo ドキュメント - 製品�
 title: 成功パス分析の作成
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 89%
    >
    >指定した時間枠内にデータが見つからなかったという警告が表示された場合は、「**[!UICONTROL 閉じる]**」をクリックして、時間枠を変更します。プロンプトが表示されない場合は&#x200B;**[!UICONTROL 設定]**&#x200B;に移動して、「**[!UICONTROL 時間枠]**」をダブルクリックします。
 
-1. データがない場合や時間枠を変更する場合は、ドロップダウンから 1 つ選択し、「**[!UICONTROL 保存]**」をクリックします。
+1. データがない場合や、時間枠を変更する場合は、ドロップダウンからいずれかを選択して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/timeframe.png)
 

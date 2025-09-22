@@ -4,10 +4,10 @@ description: タブレットからイベントへの人物のチェックイン 
 title: タブレットからイベントへの人物のチェックイン
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '834'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 81%
 
 >[!IMPORTANT]
 >
->2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Events アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo Engage インスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}
+>2023年10月2日（PT）に、アドビは Marketo イベントアプリをすべてのアプリストアから削除しました。タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。[詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
-アプリは、[!DNL iPad] と [!DNL Android] の両方で同じように機能します。ただし、レイアウトやデザインの小さな違いを除きます。
+アプリは [!DNL iPad] と [!DNL Android] の両方で同じように動作しますが、レイアウトとデザインで微妙な違いが生じる場合があります。
 
 >[!PREREQUISITES]
 >
->* Marketo でイベントを作成し、招待済みの人物および登録済みの人物を設定します。
+>* Marketo でイベントを作成し、招待済みの人物および登録済みの人物を入力します。
 
-## 登録ゲストのチェックイン {#check-in-registered-guests}
+## 登録済みゲストのチェックイン {#check-in-registered-guests}
 
 1. [!DNL iPad] または [!DNL Android] タブレットのアプリアイコンをタップします。
 
@@ -55,7 +55,7 @@ ht-degree: 81%
 
    >[!NOTE]
    >
-   >プロセスは [!DNL iPad] と [!DNL Android] では同じですが、画面が異なり、項目の場所が異なる場合があります。 この記事では、[!DNL iPad] インターフェイスを取り上げます。 参照用に、このセクションの [!DNL Android] 画面を比較してください。
+   >プロセスは [!DNL iPad] と [!DNL Android] で同じですが、画面は異なるため、項目が異なる場所に存在する場合があります。この記事では、[!DNL iPad] インターフェイスで説明します。参考に、この節の [!DNL Android] 画面を比較してみてください。
 
    **[!DNL iPad]**
 
@@ -69,7 +69,7 @@ ht-degree: 81%
 
    ![](assets/img-0068-35-hands.png)
 
-ゲストのステータスが「出席済み」になり、チェックマークが付きます。Marketo と同期すると、その人物のレコードが更新されます。「同期」ボタンの赤いカウンターが増分され、Marketo との最後の同期以降のチェックイン数が表示されます。同期ボタンは表示が異なり、[!DNL iPad] と [!DNL Android] で異なる場所にあります。
+ゲストのステータスが「出席済み」になり、チェックマークが付きます。Marketo と同期すると、その人物のレコードが更新されます。「同期」ボタンの赤いカウンターが増分され、Marketo との最後の同期以降のチェックイン数が表示されます。「同期」ボタンは、[!DNL iPad] と [!DNL Android] で外観が異なる場合や表示される場所が異なる場合があります。
 
 **[!DNL iPad]**
 
@@ -113,7 +113,7 @@ Marketo データベースに存在していない人物を手動で追加でき
 
 ## チェックインの取り消し {#reverse-a-check-in}
 
-_Marketoと同期する前に_ ユーザーを誤ってチェックインした場合は、[!UICONTROL &#x200B; 出席 &#x200B;] ステータスを元に戻すことができます。
+誤ってチェックインした場合は、_Marketo と同期する前の場合_&#x200B;は、「[!UICONTROL 出席済み]」ステータスを取り消すことができます。
 
 1. リスト内の名前をタップし、人物のレコードで「**[!UICONTROL 取り消し]**」をタップします。
 
@@ -135,7 +135,7 @@ _Marketoと同期する前に_ ユーザーを誤ってチェックインした�
 
    >[!NOTE]
    >
-   >[!DNL Android] では、「**[!UICONTROL 完了]** ボタンは非表示になっている場合があります。 下にスクロールして見つけます。
+   >[!DNL Android] では、「**[!UICONTROL 完了]**」ボタンが隠れている可能性があります。下にスクロールして見つけます。
 
 アプリを Marketo と同期すると、情報が更新されます。
 

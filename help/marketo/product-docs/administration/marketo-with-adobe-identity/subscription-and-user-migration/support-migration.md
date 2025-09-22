@@ -3,7 +3,7 @@ description: Marketo Engage サポートの移行 – Marketo ドキュメント
 title: Marketo Engage サポートの移行
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 2%
@@ -16,7 +16,7 @@ Adobe Marketo Engage サポートプロセスに対する今後の変更点に�
 
 ## Marketo EngageAdmin Console {#marketo-engage-admin-console}
 
-最初の更新では、Marketo Engage ユーザー向けに新しい [0&rbrace;Adobe Admin Console&rbrace; が導入されました。 ](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"}Adobe Admin Consoleを使用すると、ユーザーと購読をより効率的に管理できます。 このアップデートにより、現在のAdobe製品の使用方法に影響を与えることなく、管理機能をより詳細に制御できます。 つまり、強化された管理機能を活用しながら、日々の運用をシームレスに継続できます。
+最初の更新では、Marketo Engage ユーザー向けに新しい [0}Adobe Admin Console} が導入されました。 ](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"}Adobe Admin Consoleを使用すると、ユーザーと購読をより効率的に管理できます。 このアップデートにより、現在のAdobe製品の使用方法に影響を与えることなく、管理機能をより詳細に制御できます。 つまり、強化された管理機能を活用しながら、日々の運用をシームレスに継続できます。
 
 ## Marketo Engage サポートポータルの更新と移行 {#marketo-engage-support-portal}
 
@@ -44,7 +44,7 @@ Adobe Marketo Engage サポートプロセスに対する今後の変更点に�
 
 * Adobe IDを使用してMarketo Engageにログインする方法について詳しくは [ こちらを参照 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} してください。
 
-* [Adobe Experience League](https://experienceleague.adobe.com/ja?lang=ja){target="_blank"} の詳細情報。
+* [Adobe Experience League](https://experienceleague.adobe.com/?lang=ja){target="_blank"} の詳細情報。
 
 ## まだ質問がある場合 {#still-have-questions}
 

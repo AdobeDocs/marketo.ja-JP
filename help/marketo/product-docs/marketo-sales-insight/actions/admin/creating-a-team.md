@@ -3,10 +3,10 @@ description: チームの作成 - Marketo ドキュメント - 製品ドキュ�
 title: チームの作成
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -20,11 +20,11 @@ ht-degree: 84%
 
    ![](assets/creating-a-team-1.png)
 
-1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、「**[!UICONTROL チーム管理]**」を選択します。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL チーム管理]**」を選択します。
 
    ![](assets/creating-a-team-2.png)
 
-1. [!UICONTROL &#x200B; チーム &#x200B;] の横にある「**+**」アイコンをクリックします。
+1. [!UICONTROL チーム]の横の「**+**」アイコンをクリックします。
 
    ![](assets/creating-a-team-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 84%
 
 ## チームに人物を追加 {#add-people-to-a-team}
 
-1. [!UICONTROL &#x200B; チーム管理 &#x200B;] のまま、「**[!UICONTROL すべてのメンバー]**」を選択します。
+1. 引き続き[!UICONTROL チーム管理]で、「**[!UICONTROL すべてのメンバー]**」を選択します。
 
    ![](assets/creating-a-team-5.png)
 

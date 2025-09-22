@@ -4,10 +4,10 @@ description: スマートキャンペーンでのブロックされた人物の�
 title: スマートキャンペーンでのブロックされた人物の表示
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo Engage データベースで、ブロックリスト登録済み、登�
    >
    >通信制限に達したユーザーがメール受信をブロックされる場合もあります。「管理者」セクションの[通信制限を編集](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}で、方法を参照してください。
 
-   「**[!UICONTROL ブロックされたリード]**」タブには、メールを受信していない可能性のある人物が表示されます。
+   「**[!UICONTROL ブロック済みのリード]**」タブには、メールを受信しない可能性のある人物が表示されます。
 
    ![](assets/view-blocked-people-in-a-smart-campaign-2.png)
 

@@ -4,7 +4,7 @@ description: アドビ組織マッピングの設定 - Marketo ドキュメン�
 title: アドビ組織マッピングの設定
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 93%
@@ -36,7 +36,7 @@ Audience Manager、B2B CDP Marketo コネクタ、[!DNL Dynamic Chat]などの�
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. アドビの IMS 組織 ID を入力し（[こちら](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=ja){target="_blank"}を参照して特定）、「**[!UICONTROL OK]**」をクリックします。
+1. アドビの IMS 組織 ID を入力し（[こちら](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}を参照して特定）、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

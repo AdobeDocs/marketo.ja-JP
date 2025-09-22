@@ -4,10 +4,10 @@ description: キャンペーンからリードを削除する — Marketo ドキ
 title: キャンペーンからリードを削除する
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 86%
 
 受信者が返信したら、キャンペーンを自動的に終了できます。また、キャンペーンをその受信者に対して「成功」とマークするように選択できます。
 
-これを設定するには、キャンペーンを作成した後、「[!UICONTROL &#x200B; キャンペーン &#x200B;]」タブの [!UICONTROL &#x200B; 設定 &#x200B;] 部分の [!UICONTROL &#x200B; 購読解除 &#x200B;] ボックスをオンにします。 どちらのオプションもキャンペーンを終了し受信者はこれ以上メールを受信しません。この機能を使用するには、返信のトラッキングが必要です。
+これを設定するには、キャンペーンを作成した後、「[!UICONTROL キャンペーン]」タブの「[!UICONTROL 設定]」部分にある「[!UICONTROL 登録解除]」ボックスをオンにします。どちらのオプションもキャンペーンを終了し受信者はこれ以上メールを受信しません。この機能を使用するには、返信のトラッキングが必要です。
 
 さらに、キャンペーン自体から人物を削除したり、人物ページ内のキャンペーンから人物を削除したり、人物のグループ全体を削除したりできます。以下の 3 つの方法すべてを見てみましょう。
 
@@ -43,7 +43,7 @@ ht-degree: 86%
 
 ## 人物ページ内のキャンペーンからリードを削除する {#remove-a-person-from-a-campaign-within-the-people-page}
 
-1. [!DNL Sales Connect] で、「**[!UICONTROL 人物]** タブをクリックします。
+1. [!DNL Sales Connect] で、「**[!UICONTROL 人物]**」タブをクリックします。
 
    ![](assets/one-a.png)
 
@@ -57,7 +57,7 @@ ht-degree: 86%
 
 ## キャンペーンから人物グループを削除する {#remove-a-group-of-people-from-a-campaign}
 
-1. [!DNL Sales Connect] で、「**[!UICONTROL 人物]** タブをクリックします。
+1. [!DNL Sales Connect] で、「**[!UICONTROL 人物]**」タブをクリックします。
 
    ![](assets/one-b.png)
 

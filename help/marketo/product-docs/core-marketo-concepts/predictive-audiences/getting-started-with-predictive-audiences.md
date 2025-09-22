@@ -3,7 +3,7 @@ description: 予測オーディエンスの概要 - Marketo ドキュメント -
 title: 予測オーディエンスの概要
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 100%
@@ -20,11 +20,11 @@ PA には次の機能が含まれます。
 * [予測フィルター](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md){target="_blank"}
 * [モデルと影響要因](/help/marketo/product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md){target="_blank"}
 * AI／ML ベースのインサイト
-* 目標のトラッキングと予測登録 -（目標のトラッキングは、イベントプログラムに対して最新 UX の切替を有効にしている場合にのみ利用できます）
+* 目標のトラッキングと予測登録 -（目標のトラッキングは、イベントプログラムに対して最新 UX の切替スイッチを有効にしている場合にのみ利用できます）
 
 >[!NOTE]
 >
->目標のトラッキングと予測登録は、イベントプログラムに対して最新 UX の切替を有効にしているユーザーにのみ適用されます。
+>目標のトラッキングと予測登録は、イベントプログラムに対して最新 UX の切替スイッチを有効にしているユーザーにのみ適用されます。
 
 AI／ML モデルのパフォーマンスは、サブスクリプション内のデータに依存します。モデルが頻繁に使用されるほど、特定のサブスクリプションデータやビジネスに合わせて調整されます。
 

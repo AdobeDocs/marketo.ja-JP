@@ -2,7 +2,7 @@
 description: Gmail への接続 - Marketo ドキュメント - 製品ドキュメント
 title: Gmail への接続
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 100%
@@ -15,7 +15,7 @@ Gmail に接続すると、返信トラッキング、Gmail 配信チャネル�
 
 >[!CAUTION]
 >
->メールを自動的に既読としてマークするために、Gmail アカウントで[フィルターを使用](https://support.google.com/mail/answer/6579?hl=ja#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}している、またはルールを使用している場合、返信のトラッキングで問題が発生する可能性があります。Gmail で返信トラッキングを使用する場合に、メールを自動的に既読としてマークするルールを無効にすることをお勧めします。
+>メールを自動的に既読としてマークするために、Gmail アカウントで[フィルターを使用](https://support.google.com/mail/answer/6579?hl=ja#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}している場合、またはルールを使用している場合、返信のトラッキングで問題が発生する可能性があります。Gmail で返信トラッキングを使用する場合に、メールを自動的に既読としてマークするルールを無効にすることをお勧めします。
 
 1. Marketo Sales で、歯車アイコンをクリックし、「**設定**」を選択します。
 

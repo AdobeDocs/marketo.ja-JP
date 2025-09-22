@@ -3,16 +3,16 @@ description: カスタムオブジェクトメタデータのエクスポート 
 title: カスタムオブジェクトメタデータのエクスポート
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 # カスタムオブジェクトメタデータのエクスポート {#custom-object-metadata-export}
 
-アドビのSOAP API または [!DNL Munchkin] API を使用している場合は、カスタムオブジェクトメタデータスキーマを書き出すことができます。 手順は次のとおりです
+当社の SOAP API または [!DNL Munchkin] API を使用している場合は、カスタムオブジェクトメタデータスキーマを書き出すことができます。手順は次のとおりです。
 
 >[!AVAILABILITY]
 >

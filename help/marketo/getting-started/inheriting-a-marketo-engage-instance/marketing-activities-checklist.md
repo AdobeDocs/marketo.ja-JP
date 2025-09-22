@@ -3,7 +3,7 @@ description: 継承インスタンス マーケティングアクティビティ
 title: 継承インスタンス マーケティングアクティビティのチェックリスト
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '809'
 ht-degree: 93%
@@ -35,7 +35,7 @@ Marketo Engage インスタンス内の様々なプログラムを他のユー�
    <td><li>類似のプログラムタイプは<a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md" target="_blank">一貫して構造化</a>されていますか？</li>
 <li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期間原価</a>は設定されていますか？</li>
 <li>すべてのプログラムは <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">SFDC キャンペーンに同期</a>されていますか（該当する場合）？</li>
-<li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">獲得プログラム</a>を対象者に割り当てるフローステップはありますか？</li>
+<li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">新規顧客獲得プログラム</a>を対象者に割り当てるフローステップはありますか？</li>
 <li>プログラムテンプレートの一元的な場所は設定されていますか？
    <br/>     設定されていない場合は、<a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Marketo Engage プログラムライブラリ</a>にあるいくつかの事前定義済みプログラムの例から選択してください。</li></td>
   </tr>

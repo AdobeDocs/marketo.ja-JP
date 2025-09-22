@@ -3,16 +3,16 @@ description: メール接続のスロットリング - Marketo ドキュメン�
 title: メール接続のスロットリング
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: b4e5d17aa882a89b01f77f875312b0d71aa754f3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 77%
+ht-degree: 96%
 
 ---
 
 # メール接続のスロットリング {#email-connection-throttling}
 
-[!DNL Sales Connect] アカウントを統合して [!DNL Exchange] または Gmail メールプロバイダーを通じて送信すると、設定が合理化され、1:1 のセールスコミュニケーション向けにメール配信品質が最適化されます。 ただし、システムを正常な状態に保ち、アカウントを安全に保つため、Gmail と [!DNL Exchange] ではメール送信制限を適用しています。 これらの制限は、プロバイダーの裁量によって増減することができます。
+[!DNL Sales Connect] アカウントを統合して、[!DNL Exchange] または Gmail のメールプロバイダーを通じて送信すると、1:1 のセールス通信の合理化された設定とメール配信品質を最適化できます。ただし、システムの健全性とアカウントの安全性を維持するのに、Gmail と [!DNL Exchange] ではメール送信の制限が実施されます。これらの制限は、プロバイダーの裁量によって増減することができます。
 
 ## 概要 {#overview}
 
@@ -23,8 +23,8 @@ ht-degree: 77%
 ## 注意事項 {#things-to-note}
 
 * ユーザーが Gmail または [!DNL Exchange] に接続すると、自動的に有効になります
-* ニーズに合わせてレコメンデーションの設定を増減する場合は、カスタマイズ可能です
-* Gmail または [!DNL Exchange] を介して送信されるメールのみをスロットルし、カスタム配信チャネルではスロットルしません
+* ニーズに合わせてレコメンデーションの設定を増減する場合は、カスタマイズできます。
+* Gmail または [!DNL Exchange] を通じて送信されるメールのみスロットリングし、カスタム配信チャネルをスロットリングしません。
 * メール接続のスロットリングは、各ユーザがメールプロバイダーと独自に接続しているため、各ユーザのメールを個別にキューイングします
 
 ## メール接続スロットル設定を指定しています {#configuring}
@@ -33,7 +33,7 @@ ht-degree: 77%
 
    ![](assets/email-connection-throttling-1.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 一般]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL 一般]**」をクリックします。
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -53,7 +53,7 @@ ht-degree: 77%
 
    ![](assets/email-connection-throttling-6.png)
 
-変更を保存すると、すべてのユーザーは、接続された Gmail アカウントまたは [!DNL Exchange] アカウントにメールをバッチで送信して配信できます。
+変更を保存すると、すべてのユーザは、接続された Gmail または [!DNL Exchange] アカウントに一括でメールを送信して配信できます。
 
 ## メールプロバイダーの制限 {#email-provider-limits}
 

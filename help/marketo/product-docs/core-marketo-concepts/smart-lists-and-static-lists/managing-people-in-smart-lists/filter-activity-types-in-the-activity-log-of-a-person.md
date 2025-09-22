@@ -4,7 +4,7 @@ description: 人物のアクティビティログでのアクティビティタ�
 title: 人物のアクティビティログでのアクティビティタイプのフィルタリング
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 95%
@@ -23,13 +23,13 @@ ht-degree: 95%
 
    ![](assets/one.png)
 
-1. 「**&#x200B;**&#x200B;フィルター」ドロップダウンを選択します。
+1. 「****&#x200B;フィルター」ドロップダウンを選択します。
 
    ![](assets/two-3.png)
 
 ## カスタムフィルターを作成する {#creating-custom-filters}
 
-1. 「**&#x200B;**&#x200B;フィルター」ドロップダウンをクリックします。「**[!UICONTROL カスタム]**」を選択します。
+1. 「****&#x200B;フィルター」ドロップダウンをクリックします。「**[!UICONTROL カスタム]**」を選択します。
 
    ![](assets/three-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 95%
 
 保存済みフィルターには、「[!UICONTROL フィルター]」ドロップダウンリストからアクセスできます。
 
-1. 「**&#x200B;**&#x200B;フィルター」ドロップダウンをクリックします。「**[!UICONTROL カスタム]**」を選択します。
+1. 「****&#x200B;フィルター」ドロップダウンをクリックします。「**[!UICONTROL カスタム]**」を選択します。
 
    ![](assets/seven-1.png)
 

@@ -3,28 +3,28 @@ description: Salesforce 同期設定 - Marketo ドキュメント - 製品ドキ
 title: Salesforce 同期設定
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '639'
-ht-degree: 30%
+ht-degree: 100%
 
 ---
 
-# [!DNL Salesforce] Sync Settings {#salesforce-sync-settings}
+# [!DNL Salesforce] 同期設定 {#salesforce-sync-settings}
 
-## API を使用した [!DNL Salesforce] へのメールアクティビティのログ記録 {#logging-email-activity-to-salesforce-via-api}
+## メールアクティビティのログを API 経由で [!DNL Salesforce] に記録 {#logging-email-activity-to-salesforce-via-api}
 
-この機能を使用するには、[!DNL Salesforce] の Enterprise/Unlimited 版、または Web サービス API 経由で統合を購入している場合は Professional 版を使用する必要があります。
+この機能を使用するには、[!DNL Salesforce] の Enterprise／Unlimited エディション、または Professional エディション（Web Services API を通じて統合を購入済みの場合）を使用する必要があります。
 
 >[!PREREQUISITES]
 >
->[!DNL Salesforce] と [!DNL Sales Insight Actions] を接続する必要があります。
+>[!DNL Salesforce] および [!DNL Sales Insight Actions] を接続する必要があります。
 
 1. [!DNL Sales Insight Actions] で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/salesforce-sync-settings-1.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] （管理者でない場合は「[!UICONTROL &#x200B; マイアカウント &#x200B;]」）で、**[!UICONTROL Salesforce]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」（または管理者でない場合は「[!UICONTROL マイアカウント]」）で、「**[!UICONTROL Salesforce]**」をクリックします。
 
    ![](assets/salesforce-sync-settings-2.png)
 
@@ -32,29 +32,29 @@ ht-degree: 30%
 
    ![](assets/salesforce-sync-settings-3.png)
 
-1. [!UICONTROL &#x200B; メールのアクティビティを記録 &#x200B;] の横にある矢印をクリックして [!DNL Salesforce] きます。
+1. [!DNL Salesforce] への「[!UICONTROL メールアクティビティのログを記録]」の横の矢印をクリックします。
 
    ![](assets/salesforce-sync-settings-4.png)
 
-1. 「**[!UICONTROL Salesforce API]**」タブをクリックします。このカードでは、[!DNL Salesforce] に情報を記録するための環境設定を行うことができます。 終了したら「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL Salesforce API]**」タブをクリックします。このカードでは、[!DNL Salesforce] に情報を記録する際の環境設定を設定できます。終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/salesforce-sync-settings-5.png)
 
-## [!DNL Salesforce] へのメール（BCC）経由での [!DNL Salesforce] へのメールアクティビティのログ記録 {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
+## メールアクティビティのログを [!DNL Salesforce] にメール送信（BCC）して [!DNL Salesforce] に記録 {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
-「[!UICONTROL Salesforceにメールを送信（BCC） &#x200B;]」を有効化すると、営業メールの BCC が送信されます。メールは、商談、リードおよび連絡先のアクティビティとして記録されます。
+「[!UICONTROL Salesforce にメールを送信（BCC）]」を有効にすると、セールスメールの BCC が送信され、メールは商談、リード、取引先責任者に関するアクティビティとして記録されます。
 
 >[!PREREQUISITES]
 >
->[!DNL Salesforce] と [!DNL Sales Insight Actions] を接続する必要があります。
+>[!DNL Salesforce] および [!DNL Sales Insight Actions] を接続する必要があります。
 
-**メール（BCC）で [!DNL Salesforce] にメールを記録するには**
+**メール（BCC）を使用して [!DNL Salesforce] にメールを記録するには**
 
 1. Marketo Sales で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/salesforce-sync-settings-6.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] （管理者でない場合は「[!UICONTROL &#x200B; マイアカウント &#x200B;]」）で、**[!UICONTROL Salesforce]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」（または管理者でない場合は「[!UICONTROL マイアカウント]」）で、「**[!UICONTROL Salesforce]**」をクリックします。
 
    ![](assets/salesforce-sync-settings-7.png)
 
@@ -66,20 +66,20 @@ ht-degree: 30%
 
    ![](assets/salesforce-sync-settings-9.png)
 
-何らかの理由で [!DNL Salesforce] アドレスへのメールが取り込まれない場合は、次の手順に従って、[!DNL Salesforce] アカウントで BCC 機能を有効にします。
+何らかの理由で [!DNL Salesforce] へのメールアドレスが取り込まれない場合は、以下の手順に従って、[!DNL Salesforce] アカウントで BCC 機能を有効にします。
 
 1. [!DNL Salesforce] インスタンスにログインします。
 1. 右上隅にあるユーザー名を探し、ドロップダウンバーを選択します。
 1. 「**[!UICONTROL マイ設定]**」を選択します。
 1. 「**[!UICONTROL メール]**」を選択します。
 1. 「**[!UICONTROL メールを Salesforce に送信]**」を選択します。
-1. このページには、「[!UICONTROL Salesforce アドレスにメールを送信 &#x200B;]」というラベルの付いたフィールドが表示されます。 その横に何も入力されていない場合は、下にスクロールして「[!UICONTROL &#x200B; 使用可能なメールアドレス &#x200B;]」を表示します。
+1. このページに、「[!UICONTROL Salesforce アドレス宛てにメールを送信]」というラベルの付いたフィールドが表示されます。横に何も入力されていない場合は、「[!UICONTROL アクセス可能なメールアドレス]」までスクロールします。
 1. BCC を送信するメールアドレスを入力します。
 1. 「**[!UICONTROL 変更を保存]**」をクリックします。
 
-**設定に [!DNL Salesforce] するメールが見つかりません**
+**マイ設定で [!DNL Salesforce] へのメール送信が見つからない**
 
-「設定」の下に「[!DNL Salesforce] へのマイメール」が表示されない場合は、管理者が有効にしていない可能性があります。 これは、チームが [!DNL Salesforce] を初めて使用する場合や、チームが [!DNL Salesforce] から提供された BCC アドレスを使用したことがない場合に発生する可能性があります。
+「設定」に「[!DNL Salesforce] へのメール送信」が表示されない場合は、管理者が有効にしていない可能性があります。これは、チームが [!DNL Salesforce] を初めて使用した場合や、チームが [!DNL Salesforce] が提供する BCC アドレスを使用したことがない場合に発生する可能性があります。
 
 >[!NOTE]
 >
@@ -92,13 +92,13 @@ ht-degree: 30%
 1. 「アクティブ」の横のボックスをオンにします。
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
-## [!DNL Sales Insight Actions] のタスク/リマインダーを [!DNL Salesforce] のタスクに同期 {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
+## [!DNL Sales Insight Actions] タスク／[!DNL Salesforce] タスクのリマインダーを同期 {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
 1. [!DNL Sales Insight Actions] で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/salesforce-sync-settings-10.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] （管理者でない場合は「[!UICONTROL &#x200B; マイアカウント &#x200B;]」）で、**[!UICONTROL Salesforce]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」（または管理者でない場合は「[!UICONTROL マイアカウント]」）で、「**[!UICONTROL Salesforce]**」をクリックします。
 
    ![](assets/salesforce-sync-settings-11.png)
 
@@ -106,28 +106,28 @@ ht-degree: 30%
 
    ![](assets/salesforce-sync-settings-12.png)
 
-1. 「Marketo Sales Tasks/Reminders to [!DNL Salesforce] Tasks」の横の矢印をクリックします。
+1. 「Marketo Sales タスク／[!DNL Salesforce] タスクのリマインダーを同期」の横の矢印をクリックします。
 
    ![](assets/salesforce-sync-settings-13.png)
 
-1. 目的のオプションを選択します（「[!DNL Salesforce] のタスクに同期しない」はデフォルトで選択されています）。
+1. 目的のオプションを選択します（「[!DNL Salesforce] タスクに同期しない」がデフォルトで選択されています）。
 
    ![](assets/salesforce-sync-settings-14.png)
 
 ## [!DNL Sales Insight Actions] タスクの [!DNL Salesforce] との初めての同期 {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
 
-最初に [!DNL Sales Insight Actions] タスクと [!DNL Salesforce] タスクの同期を有効にすると、[!DNL Salesforce] タスクがインポートされます。 お客様が現在のタスクをプッシ [!DNL Sales Insight Actions] で完了できるよ [!DNL Salesforce] には、進めません。 煩雑さと重複を減らすために、[!DNL Sales Insight Actions] から [!DNL Salesforce] に同期されるタスクは、SFDCと同期した後に作成されるタスクのみ [!DNL Sales Insight Actions] す。
+[!DNL Sales Insight Actions] と [!DNL Salesforce] のタスク間の同期を初めて有効にすると、[!DNL Salesforce] のタスクが読み込まれます。[!DNL Sales Insight Actions] の現在のタスクは [!DNL Salesforce] にプッシュされません。[!DNL Sales Insight Actions] から [!DNL Salesforce] に同期されるタスクは、[!DNL Sales Insight Actions] を SFDC と同期した後に作成されるタスクのみです。
 
-[!DNL Sales Insight Actions] タスクとSFDC タスクを同期すると、次のようになります。
+[!DNL Sales Insight Actions] と SFDC のタスクを同期すると、次の処理が行われます。
 
 タスクの同期で「保存」をクリックすると、タスクの同期が開始されます。最初は時間がかかります。
 
-過去 24 時間以内に更新または作成されたリマインダーは、SFDCから [!DNL Sales Insight Actions] に取り込まれます。 同期は期限に基づいており、これらのタスクはすべてバックエンドで同期されますが、コマンドセンターでは、今日と明日のタスクのみが表示されます。
+過去 24 時間に更新または作成されたリマインダーは、SFDC から [!DNL Sales Insight Actions] に取り込まれます。同期は期限に基づいており、これらのタスクはすべてバックエンドで同期されますが、コマンドセンターでは、今日と明日のタスクのみが表示されます。
 
 同期が以前にオンになっていて、SFDC 内のタスクを削除した場合、過去 15 日間に削除されたすべてのタスクがコマンドセンターから削除されます。
 
-同期が有効になっている限り、[!DNL Sales Insight Actions] とSFDCの間でタスクを継続的に同期します。
+同期が有効になっている限り、[!DNL Sales Insight Actions] と SFDC の間でタスクが常に同期されます。
 
-最初の同期の後、[!DNL Sales Insight Actions] で作成、編集、完了または削除したタスクは、[!DNL Salesforce] のタスクリストに同期されます。 [!DNL Salesforce] で作成、編集、完了または削除すると、[!DNL Sales Insight Actions] のタスクリストが更新されます。
+初回同期の後、[!DNL Sales Insight Actions] で作成、編集、完了または削除したタスクは、[!DNL Salesforce] のタスクリストに同期されます。また、[!DNL Salesforce] でタスクが作成、編集、完了、削除されると、[!DNL Sales Insight Actions] のタスクリストが更新されます。
 
-この同期を有効にするには、web アプリケーションの [!UICONTROL &#x200B; 設定 &#x200B;] ページで「同期」ボックスをオンにするだけです。
+この同期を有効にするには、web アプリケーションの[!UICONTROL 設定ページ]で同期ボックスをオンにします。

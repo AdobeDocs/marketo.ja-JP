@@ -6,7 +6,7 @@ exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 9b779bc767b1bda058a9040035e8ca21ccd53e8d
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 100%
@@ -35,7 +35,7 @@ Social ボタンは、人々に、友人とコンテンツを共有するよう�
 
    ランディングページがアクティブになると、_ソーシャルボタン（Analytics 使用）によって生成されたアクティビティがソーシャルダッシュボード_&#x200B;に表示されます。
 
-   代わりに[!UICONTROL いいね！/おすすめボタン（Lite）]を追加する場合は、[ランディングページのパフォーマンスレポート](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)で共有数を確認してください。
+   代わりに[!UICONTROL いいね！／おすすめボタン（Lite）]を追加する場合は、[ランディングページのパフォーマンスレポート](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md)で共有数を確認してください。
 
 1. ドロップダウンメニューから「**[!UICONTROL 新規作成]**」を選択します。
 

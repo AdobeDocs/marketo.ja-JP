@@ -4,16 +4,16 @@ description: 「送信元アドレス」A/B テストを使用する — Marketo
 title: 「送信元アドレス」A/B テストを使用する
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# 「[!UICONTROL &#x200B; 送信者アドレス &#x200B;]」 A/B テストの使用 {#use-from-address-a-b-testing}
+# 「[!UICONTROL 送信元アドレス]」A/B テストを使用する {#use-from-address-a-b-testing}
 
-メールの A/B テストはとても簡単に実施できます。なかでも興味深いのが、**[!UICONTROL 送信元アドレス]**&#x200B;テストです。その設定方法を説明しましょう。
+メールの A/B テストはとても簡単に実施できます。なかでも興味深いのが、**[!UICONTROL 送信元アドレス]**&#x200B;テストです。その設定方法を説明します。
 
 >[!PREREQUISITES]
 >

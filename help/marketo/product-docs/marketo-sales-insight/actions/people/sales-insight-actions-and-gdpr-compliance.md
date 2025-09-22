@@ -3,10 +3,10 @@ description: Sales Insight Actions と GDPR への準拠 - Marketo ドキュメ�
 title: Sales Insight Actions と GDPR への準拠
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1370'
-ht-degree: 71%
+ht-degree: 95%
 
 ---
 
@@ -41,19 +41,19 @@ GDPR は、EU 内または EEA 外で、EU 内のデータ主体に対するマ�
 
 GDPR には、過去、現在、将来のプラクティスをマーケターが確認する必要がある重要な側面が 2 つあります。1 つ目は、個人が個人データを処理することに同意すること、もう 1 つは、説明責任、すなわち、GDPR の原則がどのように遵守されているかを示せることです。
 
-Marketo プラットフォームでの同意と説明責任に関する広範な情報を、電子ブック『[GDPR and The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/)』にて提供しています。ただし、この記事では、組織が GDPR ルールに準拠するのに役立つ [!DNL Sales Insight Actions] の新機能を重点的に説明します。
+Marketo プラットフォームでの同意と説明責任に関する広範な情報を、電子ブック『[GDPR and The Marketer](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/)』にて提供しています。ただし、この記事では、GDPR ルールの遵守に役立つ、[!DNL Sales Insight Actions] の新機能に焦点を当てます。
 
-## [!DNL Sales Insight Actions] での GDPR コンプライアンス {#gdpr-compliance-in-marketo-sales-connect}
+## [!DNL Sales Insight Actions] での GDPR への準拠 {#gdpr-compliance-in-marketo-sales-connect}
 
-[!DNL Sales Insight Actions] は、Marketo エンゲージメントプラットフォームの一部を成す強力なアプリケーションで、セールスとマーケティングに関するワークフローとビューを 1 つにまとめ、共同作業を通じてパイプラインを迅速に推進します。 [!DNL Sales Insight Actions] の新機能は、GDPR コンプライアンスを念頭に置いて特別に作成されました。 3 つの機能についての概要と、適切に使用されることで、お客様の組織の GDPR コンプライアンス活動にいかに役立つかを説明します。
+[!DNL Sales Insight Actions] は、Marketo Engagement Platform の一部である強力なアプリケーションで、セールスとマーケティングの単一のワークフローとビューを提供し、共同作業によるエンゲージメントを通じてより迅速にパイプラインを推進します。[!DNL Sales Insight Actions] の新機能は、GDPR への準拠を念頭に置いて作成されました。3 つの機能についての概要と、適切に使用されることで、お客様の組織の GDPR コンプライアンス活動にいかに役立つかを説明します。
 
 ## コンプライアンスカード {#compliance-card}
 
-[!DNL Sales Insight Actions] のユーザーの詳細ビューには、連絡先の認証タイプに関する主要な情報とSourceのタイプに関する情報を提供するコンプライアンスカードが含まれています。 これにより、ユーザは、データのプライバシーにとって重要な情報を簡単に追加および追跡でき、キャンペーン／アウトリーチ戦略に関して、より十分な情報に基づいた意思決定を行うのに役立ちます。
+[!DNL Sales Insight Actions] には、取引先責任者の認証タイプとそのソースタイプに関する重要な情報を提供するコンプライアンスカードが、人物の詳細表示に含まれています。これにより、ユーザは、データのプライバシーにとって重要な情報を簡単に追加および追跡でき、キャンペーン／アウトリーチ戦略に関して、より十分な情報に基づいた意思決定を行うのに役立ちます。
 
 **取引先責任者認証タイプ**
 
-コンプライアンスカード内のユーザは、「認証」ドロップダウンを使用して、取引先責任者の個人データを処理する法的根拠を追跡できます。連絡先の認証タイプを把握することで、ユーザー [!DNL Sales Insight Actions] アウトリーチの実践に関してより十分な情報に基づいた意思決定を行い、各キャンペーンやエンゲージメントが合法かつ適切であることを確認できます。
+コンプライアンスカード内のユーザは、「認証」ドロップダウンを使用して、取引先責任者の個人データを処理する法的根拠を追跡できます。取引先責任者の認証タイプを理解すると、[!DNL Sales Insight Actions] のユーザは、アウトリーチプラクティスに関する情報に基づいた意思決定を行うのに役立ち、各キャンペーンまたはエンゲージメントが法的かつ適切であることを確認できます。
 
 ユーザは、次のように、様々な選択肢から選択できます。
 
@@ -67,14 +67,14 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 **取引先責任者ソースタイプ**
 
-新しいコンプライアンスカード内で、ユーザは取引先責任者のソースを追跡できます。Source タイプは、[!DNL Sales Insight Actions] に最初にアップロードされた際に連絡先の情報が入ってきた場所を定義します。 取引先責任者のソースタイプを把握すると、アウトリーチプラクティスに関する決定や、個人データを保存する他のシステムや場所の決定にも役立ち、各エンゲージメントが GDPR 法に準拠していることを確認できます。
+新しいコンプライアンスカード内で、ユーザは取引先責任者のソースを追跡できます。ソースタイプは、[!DNL Sales Insight Actions] に最初にアップロードされた際の取引先責任者の情報元を定義します。取引先責任者のソースタイプを把握すると、アウトリーチプラクティスに関する決定や、個人データを保存する他のシステムや場所の決定にも役立ち、各エンゲージメントが GDPR 法に準拠していることを確認できます。
 
 この場合も、ユーザには次のようなドロップダウンオプションが提供されます。
 
 * [!UICONTROL CRM 同期]
-* [!UICONTROL インポート]
-* [!UICONTROL &#x200B; 手動アップロード &#x200B;]
-* [!UICONTROL Chrome拡張機能 &#x200B;]
+* [!UICONTROL 読み込み]
+* [!UICONTROL 手動アップロード]
+* [!UICONTROL Chrome 拡張]
 * [!UICONTROL その他]
 
 **コンプライアンスカードの編集**
@@ -83,31 +83,31 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
 
-[!UICONTROL &#x200B; 認証タイプ &#x200B;] と [!UICONTROL Source タイプ &#x200B;] の 2 つのドロップダウンが表示されます。
+[!UICONTROL 認証タイプ]と[!UICONTROL ソースタイプ]の 2 つのドロップダウンが表示されます。
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 
-[!UICONTROL &#x200B; 認証タイプ &#x200B;] として「同意」を選択すると、「[!UICONTROL &#x200B; 同意日 &#x200B;]」および「[!UICONTROL &#x200B; 処理の目的 &#x200B;]」の 2 つの必須フィールドが表示されます。 この 2 つのフィールドは、他のオプションには適用されません。
+[!UICONTROL 認証タイプ]の「同意」を選択した場合は、必須フィールドの「[!UICONTROL 同意日]」と「[!UICONTROL 処理の目的]」が表示されます。この 2 つのフィールドは、他のオプションには適用されません。
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-3.png)
 
-[!UICONTROL &#x200B; 認証の種類 &#x200B;] または [!UICONTROL Sourceの種類 &#x200B;] に&quot;[!UICONTROL &#x200B; その他 &#x200B;]&quot;を選択した場合は、[!UICONTROL Sourceの種類 &#x200B;] を説明するテキストを入力できます。
+[!UICONTROL 認証タイプ]または[!UICONTROL ソースタイプ]に「[!UICONTROL その他]」を選択した場合は、[!UICONTROL ソースタイプ]を説明するテキストを入力できます。
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-4.png)
 
 **一括アクション**
 
-[!DNL Sales Insight Actions] た、連絡先の認証タイプとSource タイプを一括でアップデートして、コンプライアンスプロセスの貴重な時間を節約することもできます。
+[!DNL Sales Insight Actions] を使用すると、取引先責任者の認証タイプとソースタイプを一括で更新し、コンプライアンスプロセスの貴重な時間を節約できます。
 
-[!UICONTROL &#x200B; 人物 &#x200B;] ページから 1 人以上の連絡先を選択すると、右側にドータ（3 つのドットメニュー）が表示されます。 クリックすると、「認証」と「ソース」がオプションに表示されます。複数の取引先責任者の認証またはソースを同時に設定できます。
+[!UICONTROL 人物]ページから 1 つ以上の取引先責任者を選択すると、右側にドット（3 ドットメニュー）が表示されます。クリックすると、「認証」と「ソース」がオプションに表示されます。複数の取引先責任者の認証またはソースを同時に設定できます。
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
-「認証」モーダルをクリックすると、「コンプライアンスカード」のドロップダウンオプションに一致するポップアップが表示されます。
+「認証」モーダルをクリックすると、コンプライアンスカードのドロップダウンオプションに一致するポップアップが表示されます。
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-6.png)
 
-[!UICONTROL &#x200B; 認証 &#x200B;] タイプが更新されると、確認ポップアップが表示され、更新された詳細がユーザーの詳細表示の準拠カードに表示されます。
+[!UICONTROL 認証]タイプが更新されると、確認ポップアップが表示され、人物の詳細表示のコンプライアンスカードに更新された詳細が表示されます。
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-7.png)
 
@@ -119,7 +119,7 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-9.png)
 
-## [!DNL Sales Insight Actions] から連絡先データをエクスポート中 {#exporting-contact-data-from-marketo-sales-connect}
+## [!DNL Sales Insight Actions] からの取引先責任者データの書き出し {#exporting-contact-data-from-marketo-sales-connect}
 
 個人の詳細表示から取引先責任者情報をエクスポートできます。エクスポートすると、次の列を含む.CSV ファイルがダウンロードされます。
 
@@ -131,24 +131,24 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
  </colgroup>
  <tbody>
   <tr>
-   <td>[!UICONTROL の名 &#x200B;]</td>
-   <td>[!UICONTROL Web サイト &#x200B;]</td>
+   <td>[!UICONTROL 名前（名）]</td>
+   <td>[!UICONTROL Web サイト]</td>
    <td>[!DNL Facebook]</td>
   </tr>
   <tr>
-   <td>[!UICONTROL の姓 &#x200B;]</td>
-   <td>[!UICONTROL その他 &#x200B;]</td>
+   <td>[!UICONTROL 名前（姓）]</td>
+   <td>[!UICONTROL その他]</td>
    <td>[!DNL Twitter]</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 会社 &#x200B;]</td>
-   <td>[!UICONTROL 更新日時 &#x200B;]</td>
+   <td>[!UICONTROL 会社]</td>
+   <td>[!UICONTROL 更新日時]</td>
    <td>[!DNL LinkedIn]</td>
   </tr>
   <tr>
-   <td>[!UICONTROL タイトル &#x200B;]</td>
-   <td>[!UICONTROL の作成場所 &#x200B;]</td>
-   <td>[!UICONTROL のエクスポート先 &#x200B;]</td>
+   <td>[!UICONTROL タイトル]</td>
+   <td>[!UICONTROL 作成場所]</td>
+   <td>[!UICONTROL エクスポート場所]</td>
   </tr>
   <tr>
    <td>[!UICONTROL メール ID]</td>
@@ -156,8 +156,8 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
    <td><br></td>
   </tr>
   <tr>
-   <td>[!UICONTROL 電話番号 &#x200B;]</td>
-   <td>[!UICONTROL 人物 ID]</td>
+   <td>[!UICONTROL 電話番号]</td>
+   <td>[!UICONTROL 顧客 ID]</td>
    <td><br></td>
   </tr>
  </tbody>
@@ -173,13 +173,13 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 >[!NOTE]
 >
->GDPR では、UI から連絡先を削除する機能も必要ですが、この機能は既に [!DNL Sales Insight Actions] に備わっています。
+>GDPR では UI から取引先責任者を削除する機能も必要ですが、[!DNL Sales Insight Actions] には既にこの機能があります。
 
 ## 配信停止 {#unsubscribes}
 
-GDPR の一般的に誤解される領域として、組織のデータベースから配信停止する取引先責任者が含まれます。購読解除を選択したユーザーのデータの保護に関する新しいルールに準拠するために、[!DNL Sales Insight Actions] に次の機能が含まれています。
+GDPR の一般的に誤解される領域として、組織のデータベースから配信停止する取引先責任者が含まれます。登録解除を選択したユーザのデータ保護に関する新しいルールに従うために、[!DNL Sales Insight Actions] に次の機能が含まれています。
 
-**登録解除リンク：**&#x200B;Sales Connect Web アプリケーションから送信されるすべてのメールに登録解除リンクが自動的に追加され、連絡先にアクセス可能なオプトアウト方法が提供されます。
+**登録解除リンク：**Sales Connect Web アプリケーションから送信されるすべてのメールに登録解除リンクが自動的に追加され、連絡先にアクセス可能なオプトアウト方法が提供されます。
 **購読解除同期：** ユーザーは、CRM （Salesforce）との間で購読解除を同期して、オプトアウトが最新であることを確認できます。
 **購読解除履歴：** ユーザーは、オプトアウトおよびオプトインの履歴をユーザーの詳細表示に表示できます。
 **配信停止の削除：**&#x200B;配信停止済みの取引先責任者を再度オプトインするには、ユーザが管理者権限を持っている必要があり、その取引先責任者が自身に連絡することに新たに同意したことを示す必要があります。

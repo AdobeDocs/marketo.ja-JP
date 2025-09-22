@@ -4,8 +4,8 @@ description: モバイルプッシュ通知の送信 - Marketo ドキュメン�
 title: モバイルプッシュ通知の送信
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 100%
 

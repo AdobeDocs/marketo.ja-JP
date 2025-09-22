@@ -4,10 +4,10 @@ description: プログラムレベルでの分析動作の上書き - Marketo �
 title: プログラムレベルでの分析動作の上書き
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 91%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. **[!UICONTROL 設定]** タブの下の [!UICONTROL Analytics の動作 &#x200B;] をキャンバスにドラッグします。
+1. 「**[!UICONTROL 設定]**」タブで、「[!UICONTROL 分析動作]」をキャンバスにドラッグします。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. 必要な [!UICONTROL Analytics の動作 &#x200B;] を選択します。
+1. 必要な[!UICONTROL 分析動作]を選択します。
 
    >[!NOTE]
    >

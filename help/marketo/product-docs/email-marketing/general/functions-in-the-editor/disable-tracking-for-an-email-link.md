@@ -4,10 +4,10 @@ description: メールリンクのトラッキングを無効にする — Marke
 title: メールリンクのトラッキングを無効にする
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 97%
 
    ![](assets/four-4.png)
 
-1. **[!UICONTROL Include mkt_tok] ボックス** が消えます。 「**[!UICONTROL 適用]**」をクリックします。
+1. **[!UICONTROL Include mkt_tok] チェックボックス**&#x200B;が消えます。「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/five-3.png)
 

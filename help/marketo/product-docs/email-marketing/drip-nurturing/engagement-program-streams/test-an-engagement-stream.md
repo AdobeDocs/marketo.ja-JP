@@ -4,10 +4,10 @@ description: エンゲージメントストリームのテスト - Marketo ド�
 title: エンゲージメントストリームのテスト
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 91%
    >
    >探しているテストユーザーが存在しない場合は、「**[!UICONTROL ユーザーを作成]**」オプションを使用して即座に作成できます。
 
-   **[!UICONTROL 初期ストリーム]** をクリックし、テストするストリームを選択して **[!UICONTROL キャストを実行]** をクリックします。
+   「**[!UICONTROL 初期ストリーム]**」をクリックし、テストするストリームを選択し、「**[!UICONTROL キャストを実行]**」をクリックします。
    ![](assets/five-rubiks.png)
 
 1. ユーザーが、以前に設定した[トランジションルール](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md)に入った場合は、更新アイコンをクリックします。

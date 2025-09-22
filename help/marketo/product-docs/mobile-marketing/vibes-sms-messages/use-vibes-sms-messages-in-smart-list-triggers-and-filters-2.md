@@ -4,22 +4,22 @@ title: スマートリストトリガーとフィルターでの Vibes SMS メ�
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '411'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
 # スマートリストトリガーとフィルターでの Vibes SMS メッセージの使用 {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-[Vibes SMS メッセージを作成 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"} した後は、スマートキャンペーン内でスマートリストのトリガーとフィルターを使用して、メリットを享受できます。 手順は以下のとおりです。
+[Vibes SMS メッセージを作成](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}したら、スマートキャンペーン内のスマートリストトリガーおよびフィルターを使用して、そのメリットを活用できます。手順は次のとおりです。
 
 1. My Marketo で、**[!UICONTROL マーケティング活動]**&#x200B;をクリックします。
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
-1. SMS アセットを使用するスマートキャンペーンを選択します。 トリガーの上にドラッグします。 この例では、**フォームへの入力** を使用しています。
+1. SMS アセットを使用するスマートキャンペーンを選択します。トリガーの上にドラッグします。この例では、**フォームを記入**&#x200B;を使用しています。
 
    ![](assets/fills-out-form-pull-over.jpg)
 
@@ -29,20 +29,20 @@ ht-degree: 46%
 
 SMS メッセージの送信：
 
-* マーケティングアクティビティ /新しいスマートキャンペーンを選択
-   * スマートリスト/Vibes リストを選択フィルターと適切なロジック/Vibes リスト：ドロップダウンからのリストの選択（Vibes プラットフォームから同期されるモバイルデータベースリスト）
-      * セグメント化を調整し、SMS とメールのフィルターおよびトリガーを 1 つのキャンペーン内で活用できます。
-      * Vibes フィルター：Vibes リストを購読 vs. Vibes リストのメンバー – ロジックがメールと一致する
-         * Vibes リストを購読 – Vibes リストを購読したことがある参加者（購読解除した場合も含む）。   – 主にクロスチャネルマーケティング活動に利用
-            * 注意：SMS メッセージは、Vibes モバイルデータベース リストに登録されていない場合、登録を解除したユーザーには送信されません
-         * バイブリストのメンバー – アクティブで確認済みのサブスクライバー
-         * リストに追加 – バイブリストはこのフィルターを使用しません。これはMarketo リスト用です
+* マーケティングアクティビティ／新規スマートキャンペーンを選択
+   * スマートリスト／Vibes リストフィルターを選択＆ロジックを修正／Vibes リスト：ドロップダウンからリストを選択（Vibes プラットフォームから同期されるモバイルデータベースリスト）
+      * セグメント化を調整し、SMS とメールのフィルターおよびトリガーを 1 つのキャンペーン内で活用可能
+      * Vibes フィルター：Vibes リストを購読 vs. Vibes リストのメンバー - ロジックがメールと一致
+         * Vibes リストを購読 - Vibes リストを購読したことがある参加者（登録解除した場合も含む）。- 主にクロスチャネルマーケティング活動に利用
+            * メモ：SMS メッセージは、Vibes モバイルデータベースリストに登録されていない場合、登録解除したユーザーには送信されません
+         * Vibes リストのメンバー - アクティブで確認済みの購読者
+         * リストに追加 - Vibes リストはこのフィルターを使用しません。これはMarketo リスト用です
 
 ![](assets/new-sms-search2.png)
 
 以下に、いくつかの例を示します。
 
-**SMS メッセージバウンス**&#x200B;トリガーは、SMS メッセージがバウンスした場合に、メールの送信などのフローを開始します。
+**SMS メッセージのバウンス**&#x200B;トリガーは、SMS メッセージがバウンスしたときにメールの送信などのフローを開始します。
 
 ![](assets/sms-message-bounces-real.jpg)
 
@@ -60,7 +60,7 @@ SMS メッセージの送信：
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-これに対し、**Vibes リストのメンバー** フィルターは、現在 Vibes を購読している *任意のユーザー* を見つけ、スマートキャンペーンやリストでの使用に最も適しています。
+これに対して、**Vibes リストのメンバー**&#x200B;フィルターは、現在 Vibes を購読している&#x200B;*すべての*&#x200B;ユーザを検索するので、スマートキャンペーンまたはリストでの使用に最も適しています。
 
 ![](assets/image001.png)
 

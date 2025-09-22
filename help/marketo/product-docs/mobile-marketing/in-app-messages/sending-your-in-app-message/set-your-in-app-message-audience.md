@@ -4,10 +4,10 @@ description: アプリ内メッセージオーディエンスの設定 - Marketo
 title: アプリ内メッセージオーディエンスの設定
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 81%
 
    ![](assets/image2016-5-9-15-3a15-3a7.png)
 
-1. スマートリストの「**[!UICONTROL モバイルアプリのアクティビティがある]**」トリガーが自動的に入力されます。 ドロップダウンをクリックし、メッセージを配置するアプリを選択します。
+1. スマートリストでは、「**[!UICONTROL モバイルアプリアクティビティあり]**」トリガーが自動的に入力されます。ドロップダウンをクリックし、メッセージを配置するアプリを選択します。
 
    ![](assets/image2016-5-9-15-3a18-3a10.png)
 
@@ -33,13 +33,13 @@ ht-degree: 81%
 
    >[!NOTE]
    >
-   >デフォルトのトリガー（[!UICONTROL &#x200B; アプリを開く &#x200B;]）と、デベロッパーがコードに追加したカスタムトリガーが、[!UICONTROL &#x200B; アクション &#x200B;] セレクターに自動的に表示されます。 カスタムイベントがない場合は、デベロッパーに問い合わせて、カスタムイベントがアプリに追加されていることを確認してください。カスタムイベントのコーディングと承認プロセスの完了には時間がかかる場合があります。詳しくは、[この記事](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
+   >[!UICONTROL アクションセレクター]には、デフォルトのトリガー（[!UICONTROL アプリを開く]）と、デベロッパーがコードに追加したカスタムトリガーが自動的に表示されます。カスタムイベントがない場合は、デベロッパーに問い合わせて、カスタムイベントがアプリに追加されていることを確認してください。カスタムイベントのコーディングと承認プロセスの完了には時間がかかる場合があります。詳しくは、[この記事](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)を参照してください。
 
 1. 必要な場合、**[!UICONTROL モバイルアプリアクティビティあり]**&#x200B;トリガーでは制約を利用できます。
 
    ![](assets/image2016-5-9-15-3a22-3a27.png)
 
-1. スマートリストにフィルターを追加して、アプリ内メッセージの受信者を制限できます。この例では、**[!UICONTROL 獲得日]** フィルターを使用して、2016 年 6 月 9 日に取得されたユーザーのみがアプリ内メッセージを送信します。
+1. スマートリストにフィルターを追加して、アプリ内メッセージの受信者を制限できます。この例では、**[!UICONTROL 獲得日]**&#x200B;フィルターを使用して、2016年6月9日（PT）に獲得したユーザのみにアプリ内メッセージを送信します。
 
    ![](assets/image2016-5-9-15-3a26-3a2.png)
 

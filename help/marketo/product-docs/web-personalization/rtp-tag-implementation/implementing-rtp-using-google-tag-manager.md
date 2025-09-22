@@ -4,10 +4,10 @@ description: Google タグマネージャーを使用した RTP の実装 - Mark
 title: Google タグマネージャーを使用した RTP の実装
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ RTP タグを実装するには、次のインストール手順に従います�
 
 1. [!DNL Google Tag Manager] アカウントにログインします。
 
-1. 新しい **[!UICONTROL Tag]**/**[!UICONTROL Tag Configurations]**/**[!UICONTROL Custom HTML Tag] を追加します。** これを **RTP** と呼びます。
+1. 新しい&#x200B;**[!UICONTROL タグ]**／**[!UICONTROL タグ設定]**／**[!UICONTROL カスタム HTML タグ]を追加します。**「**RTP**」と名前を付けます。
 
-1. **RTP アカウント** にログインします。
+1. **RTP アカウント**&#x200B;にログインします。
 
 1. 「**[!UICONTROL アカウント設定]**」に移動します。
 
@@ -27,13 +27,13 @@ RTP タグを実装するには、次のインストール手順に従います�
 
    ![](assets/image2014-11-30-15-3a19-3a21.png)
 
-1. [!UICONTROL &#x200B; ドメイン &#x200B;] の下で関連するドメインを見つけて、「**[!UICONTROL タグを生成]**」をクリックします。
+1. [!UICONTROL ドメイン]で、該当するドメインを選択し、「**[!UICONTROL タグを生成]**」をクリックします。
 
    ![](assets/image2014-11-30-15-3a20-3a17.png)
 
-1. RTP JavaScript タグをコピーし、新しく作成した&#x200B;**カスタム HTML タグ**&#x200B;にペーストします（手順 1）。
+1. RTP JavaScript タグをコピーし、作成した新しい&#x200B;**カスタム HTML タグ**&#x200B;にペーストします（手順 1）。
 
-1. **[!UICONTROL Add Rule to Fire Tag]** をクリックします。 「**[!UICONTROL すべてのページ]**」を選択します。
+1. 「**[!UICONTROL タグをトリガーするルールを追加]**」をクリックします。「**[!UICONTROL すべてのページ]**」を選択します。
 
 1. 「**[!UICONTROL 保存]**」をクリックして、[新しいバージョンを公開](https://support.google.com/tagmanager/answer/2699097?hl=ja)します。
 

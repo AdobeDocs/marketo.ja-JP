@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557275
-description: システムスマートリストの使用 - Marketo ドキュメント - 製品ドキュメント
-title: システムスマートリストの使用
+description: ビルトイン／システムのスマートリストの使用 - Marketo ドキュメント - 製品ドキュメント
+title: ビルトイン／システムのスマートリストの使用
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 100%
 
 ---
 
-# システムスマートリストの使用 {#use-built-in-system-smart-lists}
+# ビルトイン／システムのスマートリストの使用 {#use-built-in-system-smart-lists}
 
 Marketo Engage にはとても便利なビルトインのスマートリストがあります。ぜひ確認してみてください。
 

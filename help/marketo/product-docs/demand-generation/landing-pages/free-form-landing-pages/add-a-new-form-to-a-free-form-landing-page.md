@@ -4,8 +4,8 @@ description: フリーフォームランディングページに新しいフォ�
 title: フリーフォームランディングページに新しいフォームを追加する
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 100%
 

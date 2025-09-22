@@ -4,10 +4,10 @@ description: グループメールによるメールの送信 - Marketo ドキ�
 title: グループメールによるメールの送信
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 94%
 
    ![](assets/two-3.png)
 
-1. [!UICONTROL &#x200B; グループアクション &#x200B;] ボタンをクリックし、「**[!UICONTROL メールグループ]**」を選択します。
+1. 「[!UICONTROL グループアクション]」ボタンをクリックし、「**[!UICONTROL グループにメールを送信]**」を選択します。
 
    ![](assets/three-3.png)
 

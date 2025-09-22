@@ -4,8 +4,8 @@ description: レポートの保存 - Marketo ドキュメント - 製品ドキ�
 title: レポートの保存
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 

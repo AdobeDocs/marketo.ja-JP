@@ -4,8 +4,8 @@ description: リリースノート - 2014年12月 - Marketo ドキュメント -
 title: リリースノート - 2014年12月
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 100%
 
@@ -83,7 +83,7 @@ UTF-16、Shift-JIS、EUC-JP でエンコードされた[ファイルをインポ
 
 ## RTP：アカウントリストモジュール {#rtp-named-account-list-module}
 
-新しい[!UICONTROL 重点顧客]ページで、利益率の高い主要なアカウントを管理およびモニターします。これらの組織を特定し、ターゲティングするには、アカウントリストをアップロードします。アカウントベースのマーケティングプランを実装し、様々なチャネル（web および広告）をまたいで主要アカウントをターゲティングする、より高い制御性と柔軟性を提供するプロセスを自動化しました。
+新しい[!UICONTROL 重点顧客]ページで、利益率の高い主要なアカウントを管理およびモニターします。これらの組織を特定し、ターゲットにするには、アカウントリストをアップロードします。アカウントベースのマーケティングプランを実装し、様々なチャネル（web および広告）をまたいで主要アカウントをターゲットにする、より高い制御性と柔軟性を提供するプロセスを自動化しました。
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 

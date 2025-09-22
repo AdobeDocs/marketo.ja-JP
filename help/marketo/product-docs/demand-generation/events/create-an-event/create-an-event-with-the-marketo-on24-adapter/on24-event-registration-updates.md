@@ -4,10 +4,10 @@ description: ON24 イベント登録のアップデート -  Marketo ドキュ�
 title: ON24 イベント登録のアップデート
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '282'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 72%
 
 1. 登録トリガーキャンペーン：
 
-   * [!UICONTROL &#x200B; スマートリスト &#x200B;] で、「トリガー」を **[!UICONTROL フォームに入力]** に設定します。
-   * フローで、[!UICONTROL &#x200B; ステータスが進行 &#x200B;] を **[!UICONTROL 承認保留中]** に設定します。
+   * 「[!UICONTROL スマートリスト]」で、トリガーを「**[!UICONTROL フォームを記入]**」に設定します。
+   * 「フロー」で、「[!UICONTROL 進行中のステータス]」を「**[!UICONTROL 承認待ち]**」に設定します。
 
 1. 「イベント」に移動し、「**[!UICONTROL メンバー]**」タブをクリックします。このタブには、フォームに入力したすべての個人が表示されます。ステータスは「**[!UICONTROL 承認待ち]**」に設定されています。
 1. グリッドの上部にあるフィルターを使用して、ステータスが「**[!UICONTROL 承認待ち]**」の個人のみを表示します。
@@ -29,11 +29,11 @@ ht-degree: 72%
 
 ## 登録エラーのある個人の処理 {#handling-people-with-a-registration-error}
 
-ある人物が登録されずに、ステータス [!UICONTROL &#x200B; 登録エラー &#x200B;] に設定された場合は、回復するのに遅すぎるわけではありません。
+個人が登録されずステータスが「[!UICONTROL 登録エラー]」に設定された場合、回復できます。
 
-1. 「[!UICONTROL &#x200B; メンバー &#x200B;]」タブで、ステータスが **[!UICONTROL 登録エラー]** のユーザーのリストをフィルタリングします。
+1. 「[!UICONTROL メンバー]」タブで、ステータスが「**[!UICONTROL 登録エラー]**」の個人のリストをフィルターします。
 1. 続行する前に、統合に関する問題を特定し、修正したことを確認します（管理の「**[!UICONTROL イベントパートナー]**」でエラーがないことを確認してください）。
-1. イシューが解決したら、[!UICONTROL &#x200B; 登録エラー &#x200B;] ステータスのすべての人物を選択し、ステータスを **[!UICONTROL 登録済み]** に変更します。 ON24 への登録が再試行されます。
+1. 問題が解決したら、「[!UICONTROL 登録エラー]」ステータスのすべての個人を選択し、ステータスを「**[!UICONTROL 登録済み]**」に変更します。ON24 への登録が再試行されます。
 
 ## ON24 からのメンバーステータスのアップデート {#updating-member-status-from-on}
 

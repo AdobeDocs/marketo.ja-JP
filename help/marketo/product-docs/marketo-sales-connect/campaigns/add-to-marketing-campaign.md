@@ -4,10 +4,10 @@ description: マーケティング キャンペーンへの追加 - Marketo ド�
 title: マーケティングキャンペーンへの追加
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '309'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 64%
 
 >[!NOTE]
 >
->[!DNL Sales Connect] からMarketo キャンペーンにユーザーを追加するには、[!DNL Sales Connect] のユーザーのMarketo リード ID が必要です。
+>[!DNL Sales Connect] から Marketo キャンペーンに人物を追加するには、[!DNL Sales Connect] に人物の Marketo リード ID が必要です。
 
 1. 「**[!UICONTROL リード]**」タブをクリックします。
 
@@ -39,7 +39,7 @@ ht-degree: 64%
 
    ![](assets/four-3.png)
 
-1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、取引先責任者をさらに追加することもできます。必要に応じて、「個人 **[!UICONTROL をクリックし]** 入力します。 終了したら「**[!UICONTROL 次へ]**」をクリックします。
+1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、取引先責任者をさらに追加することもできます。選択する場合は、「**[!UICONTROL 個人]**」をクリックして入力します。終了したら「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/five-2.png)
 
@@ -47,7 +47,7 @@ ht-degree: 64%
 
    ![](assets/six-1.png)
 
-1. [!UICONTROL &#x200B; ワークスペース &#x200B;] ドロップダウンをクリックして、グループを追加するキャンペーンを含むワークスペースを選択します。
+1. [!UICONTROL ワークスペース]ドロップダウンをクリックし、グループを追加するキャンペーンが含まれているワークスペースを選択します。
 
    ![](assets/seven-1.png)
 
@@ -69,7 +69,7 @@ ht-degree: 64%
 
    ![](assets/one-3.png)
 
-1. [!UICONTROL &#x200B; マイグループ &#x200B;] で、キャンペーンに追加するグループを選択します。
+1. 「[!UICONTROL マイグループ]」で、キャンペーンに追加するグループを選択します。
 
    ![](assets/eleven.png)
 
@@ -77,7 +77,7 @@ ht-degree: 64%
 
    ![](assets/twelve.png)
 
-1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、取引先責任者をさらに追加することもできます。必要に応じて、「個人 **[!UICONTROL をクリックし]** 入力します。 終了したら「**[!UICONTROL 次へ]**」をクリックします。
+1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、取引先責任者をさらに追加することもできます。選択する場合は、「**[!UICONTROL 個人]**」をクリックして入力します。終了したら「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/thirteen.png)
 
@@ -87,9 +87,9 @@ ht-degree: 64%
 
    >[!NOTE]
    >
-   >[!UICONTROL Sales Connect] からMarketo キャンペーンにユーザーを追加するには、[!UICONTROL Sales Connect] にそのユーザーのMarketo リード ID が必要です。
+   >[!UICONTROL Sales Connect] から Marketo キャンペーンにリードを追加するには、[!UICONTROL Sales Connect] にリードの Marketo リード ID が必要です。
 
-1. **[!UICONTROL ワークスペース]** ドロップダウンをクリックして、グループを追加するキャンペーンを含むワークスペースを選択します。
+1. **[!UICONTROL ワークスペース]**&#x200B;ドロップダウンをクリックし、グループを追加するキャンペーンが含まれているワークスペースを選択します。
 
    ![](assets/seven-1.png)
 

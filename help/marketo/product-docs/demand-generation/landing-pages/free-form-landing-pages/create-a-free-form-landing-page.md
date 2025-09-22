@@ -4,16 +4,16 @@ description: フリーフォームランディングページを作成する - M
 title: フリーフォームランディングページを作成する
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
 # フリーフォームランディングページを作成する {#create-a-free-form-landing-page}
 
-自由形式のランディングページは、プログラムのローカルアセットとして作成することも、[!UICONTROL Design Studio] で作成してグローバルに使用することもできます。
+フリーフォームのランディングページは、プログラムのローカルアセットとして、または[!UICONTROL デザインスタジオ]で作成してグローバルに使用できます。
 
 >[!NOTE]
 >
@@ -73,4 +73,4 @@ ht-degree: 77%
 
 >[!TIP]
 >
->[!UICONTROL &#x200B; 作成 &#x200B;] をクリックした後すぐにエディターを開かない場合は **[!UICONTROL 「新しいページのランディングページエディターを開く]** のチェックを外します。
+>「**[!UICONTROL 作成]**」をクリックした直後にエディターを開きたくない場合は、「[!UICONTROL 新しいページに対してランディングページエディターを開く]」のチェックを外します。

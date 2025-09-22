@@ -4,8 +4,8 @@ description: レポートの更新 - Marketo ドキュメント - 製品ドキ�
 title: レポートの更新
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 

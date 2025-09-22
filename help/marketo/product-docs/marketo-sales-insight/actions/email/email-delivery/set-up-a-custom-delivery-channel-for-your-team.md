@@ -3,10 +3,10 @@ description: チーム向けのカスタム配信チャネルの設定 - Marketo
 title: チーム向けのカスタム配信チャネルの設定
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -20,13 +20,13 @@ ht-degree: 87%
 >
 >* SMTP サーバーの設定に加えて、メールを送信する前に、[メール ID を認証する必要があります](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)。
 >* お使いの SMTP サーバーに適したサーバー資格情報を取得するには、IT チームまたは SMTP サーバーのベンダーと協力することをお勧めします。
->* SMTP サーバー資格情報を使用して Gmail と [!DNL Exchange] サーバーを接続することはできません。 これらのプロバイダーとの統合には、アドビのメール接続サービスを使用してください。
+>* SMTP サーバーの資格情報を使用して Gmail サーバーや [!DNL Exchange] サーバーに接続できません。これらのプロバイダーとの統合には、アドビのメール接続サービスを使用してください。
 
 1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 一般]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL 一般]**」をクリックします。
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
@@ -45,4 +45,4 @@ ht-degree: 87%
    >[!MORELIKETHIS]
    >
    >* [Gmail ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-   >* [ ユーザー  [!DNL Outlook]  メール接続 ](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >* [ [!DNL Outlook]  ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

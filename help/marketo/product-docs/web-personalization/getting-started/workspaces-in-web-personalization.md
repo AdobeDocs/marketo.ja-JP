@@ -1,23 +1,23 @@
 ---
 unique-page-id: 17727499
-description: ウェブパーソナライズのワークスペース - Marketo ドキュメント - 製品ドキュメント
-title: ウェブパーソナライズのワークスペース
+description: Web パーソナライゼーションのワークスペース - Marketo ドキュメント - 製品ドキュメント
+title: Web パーソナライゼーションのワークスペース
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Web Personalization] のワークスペース {#workspaces-in-web-personalization}
+# [!UICONTROL Web パーソナライゼーション]のワークスペース {#workspaces-in-web-personalization}
 
-[!UICONTROL Web Personalization] では、web キャンペーンおよび web セグメント用に複数のワークスペースをサポートしています。
+[!UICONTROL Web パーソナライゼーション]は、web キャンペーンと web セグメント用の複数のワークスペースをサポートします。
 
 ## ワークスペースの切り替え {#switch-workspaces}
 
-ウェブパーソナライズでワークスペースを切り替えるには、左上の地球のアイコンをクリックし、ドロップダウンから別のワークスペースを選択します。
+Web パーソナライゼーションでワークスペースを切り替えるには、左上の地球のアイコンをクリックし、ドロップダウンから別のワークスペースを選択します。
 
 ![](assets/ss7.png)
 

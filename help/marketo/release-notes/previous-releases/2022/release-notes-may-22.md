@@ -2,7 +2,7 @@
 description: リリースノート - 2022 年 5 月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2022 年 5 月
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '803'
 ht-degree: 100%
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 **[!DNL Dynamic Chat]** の拡張言語サポート：[!DNL Dynamic Chat] のユーザインターフェイスが、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語でも使用できるようになりました。チャットダイアログは、これらの言語でも設定できます。
 
-**[!DNL Dynamic Chat]** の URL を除外：ターゲット条件から特定の URL を除外する機能と共に、[!DNL Dynamic Chat] が表示される web ページを制御します。
+**[!DNL Dynamic Chat]** の URL を除外：ターゲティング条件から特定の URL を除外する機能と共に、[!DNL Dynamic Chat] が表示される web ページを制御します。
 
 **[メールボットアクティビティのフィルタリング強化](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}**：既存の IAB リストの一致識別に加えて、非表示リンクのユーザーエージェントまたは IP と近接性パターンに基づいてボットの動作を識別する機能により、引き続きデータベースの正常性を保護します。ボットアクティビティの統計を表示して、各タイプで識別されたボットアクティビティの数を把握できます。
 

@@ -4,8 +4,8 @@ description: リリースノート - 2013年9月 - Marketo ドキュメント - 
 title: リリースノート - 2013年9月
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 100%
 

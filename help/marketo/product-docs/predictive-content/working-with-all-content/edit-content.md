@@ -4,22 +4,22 @@ description: コンテンツの編集 - Marketo ドキュメント - 製品ド�
 title: コンテンツの編集
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
 # コンテンツの編集 {#edit-content}
 
-[!UICONTROL &#x200B; すべてのコンテンツ &#x200B;] ページのリストにいくつかの編集を加えることができます。
+[!UICONTROL すべてのコンテンツ]ページで、一覧を編集できます。
 
-1. **[!UICONTROL すべてのコンテンツ]**&#x200B;ページで、編集するタイトルの行にマウスポインタを合わせて、編集アイコンをクリックします。
+1. **[!UICONTROL すべてのコンテンツ]**&#x200B;ページで、編集するタイトルの行にポインタを合わせて、編集アイコンをクリックします。
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
-1. [!UICONTROL &#x200B; コンテンツ名 &#x200B;] および [!UICONTROL &#x200B; コンテンツ URL] を変更します（「クエリパラメーター」チェックボックスはオプションです）。
+1. 「[!UICONTROL コンテンツ名]」と「[!UICONTROL コンテンツ URL]」を変更します（「クエリパラメーター」チェックボックスはオプションです）。
 
    ![](assets/edit-content-2.png)
 

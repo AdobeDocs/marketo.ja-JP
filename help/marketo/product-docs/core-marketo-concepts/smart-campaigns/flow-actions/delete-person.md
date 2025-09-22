@@ -4,8 +4,8 @@ description: 人物の削除 - Marketo ドキュメント - 製品ドキュメ�
 title: 人物の削除
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 100%
 

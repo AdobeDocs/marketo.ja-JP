@@ -4,10 +4,10 @@ description: 永続的な登録解除 - Marketo ドキュメント - 製品ド�
 title: 永続的な登録解除
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ Marketo では、ユーザのレコードの「情報」タブにある登録解
 
 ## メールアドレスの変更 {#changing-an-email-address}
 
-リードのメールアドレスを登録解除に変更すると、そのリードは登録解除になります。この変更は、Marketoまたは [!DNL Salesforce] で行われます。
+リードのメールアドレスを登録解除に変更すると、そのリードは登録解除になります。この変更は、Marketo でも [!DNL Salesforce] でも発生します。
 
 ## 再度の配信登録 {#re-subscribing}
 

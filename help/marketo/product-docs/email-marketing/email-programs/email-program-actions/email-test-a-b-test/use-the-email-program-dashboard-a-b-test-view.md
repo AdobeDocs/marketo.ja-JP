@@ -4,7 +4,7 @@ description: メールプログラムのダッシュボードを使用する：A
 title: メールプログラムのダッシュボードを使用する：A/B テストビュー
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
@@ -37,7 +37,7 @@ ht-degree: 100%
 
 ## 概要 {#summary}
 
-クリックと登録解除のバリエーションごとの内訳を確認でき、容易な比較が可能です。
+クリックと登録解除のバリエーションごとの分類を確認でき、容易な比較が可能です。
 
 ![](assets/image2014-9-12-16-3a16-3a45.png)
 

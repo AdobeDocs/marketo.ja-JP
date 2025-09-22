@@ -4,7 +4,7 @@ description: マーケティングカレンダーのフィルタリング - Mark
 title: マーケティングカレンダーのフィルタリング
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 84%
@@ -23,7 +23,7 @@ ht-degree: 84%
 
    >[!NOTE]
    >
-   >デフォルトのエントリタイプは **[!UICONTROL メール]**&#x200B;**[!UICONTROL プログラム]** および **[!UICONTROL メールを使用したスマートキャンペーン]** です。
+   >デフォルトのエントリタイプは **[!UICONTROL メール]****[!UICONTROL プログラム]** および **[!UICONTROL メールを使用したスマートキャンペーン]** です。
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 

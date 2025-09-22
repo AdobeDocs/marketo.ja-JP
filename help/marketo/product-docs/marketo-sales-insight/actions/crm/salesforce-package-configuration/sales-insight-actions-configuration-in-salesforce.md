@@ -2,27 +2,27 @@
 description: Salesforce での Sales Insight Actions 設定 - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce での Sales Insight Actions 設定
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '241'
-ht-degree: 56%
+ht-degree: 100%
 
 ---
 
-# [!DNL Sales Insight Actions] での [!DNL Salesforce] 設定 {#sales-insight-actions-configuration-in-salesforce}
+# [!DNL Salesforce] での [!DNL Sales Insight Actions] 設定 {#sales-insight-actions-configuration-in-salesforce}
 
 >[!PREREQUISITES]
 >
->* [ インスタンスに Sales Insight パッケージを ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) インストール [ または ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md) アップグレード [!DNL Salesforce] します
->* [Marketo Sales Insightの設定  [!DNL Salesforce] Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [!DNL Salesforce] インスタンスでのセールスインサイトパッケージの[インストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)または[アップグレード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)
+>* [ [!DNL Salesforce]  Enterprise／Unlimited での Marketo セールスインサイトの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 ## [!DNL Salesforce] に新しいリモートサイトを追加 {#add-new-remote-site-in-salesforce}
 
-1. [!DNL Salesforce] で、**[!UICONTROL 設定]** をクリックします。
+1. [!DNL Salesforce] で、「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/msi-actions-configuration-in-salesforce-1.png)
 
-1. 「[!UICONTROL &#x200B; リモートサイト &#x200B;]」を検索し、「**[!UICONTROL リモートサイト設定]**」を選択します。
+1. 「[!UICONTROL リモートサイト]」を検索し、「**[!UICONTROL リモートサイト設定]**」を選択します。
    ![](assets/msi-actions-configuration-in-salesforce-2.png)
 
 1. 「**[!UICONTROL 新規リモートサイト]**」をクリックします。
@@ -39,27 +39,27 @@ ht-degree: 56%
 
 1. リモートサイト名を入力します（「MarketoSalesInsight2」など）。リモートサイトの URL `https://mkto-sales-connect.adobe.io` を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
-## CRM 全体での [!DNL Sales Insight Actions] の有効化 {#enabling-sales-insight-actions-across-the-crm}
+## CRM 全体で [!DNL Sales Insight Actions] を有効にする {#enabling-sales-insight-actions-across-the-crm}
 
-1. [!DNL Salesforce] で、「**[!UICONTROL Marketo営業Insight設定]**」タブをクリックします。
+1. [!DNL Salesforce] で、「**[!UICONTROL Marketo セールスインサイト設定]**」タブをクリックします。
 
    ![](assets/msi-actions-configuration-in-salesforce-5.png)
 
    >[!NOTE]
    >
-   >上部バーに「[!UICONTROL Marketo営業Insight設定 &#x200B;]」が表示されない場合は、「**+**」記号をクリックして「すべてのタブ」の下に表示されます。
+   >上部のバーに「[!UICONTROL Marketo セールスインサイト設定]」が表示されない場合は、「**+**」記号をクリックし、「すべてのタブ」から見つけます。
 
 1. 「**[!UICONTROL MSI アクションを有効にする]**」チェックボックスをオンにします。
 
    ![](assets/msi-actions-configuration-in-salesforce-6.png)
 
-1. [!UICONTROL API 秘密鍵 &#x200B;] を入力します。
+1. [!UICONTROL API 秘密鍵]を入力します。
 
    ![](assets/msi-actions-configuration-in-salesforce-7.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL API 秘密鍵 &#x200B;] が手元にない場合は、[ この記事 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) の手順に従って見つけることができます。
+   >[!UICONTROL API 秘密鍵]をお持ちでない場合は、[この記事](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)の手順を参照してください。
 
 1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
@@ -75,7 +75,7 @@ ht-degree: 56%
 
    ![](assets/msi-actions-configuration-in-salesforce-8.png)
 
-1. MSI 操作を無効にするには、[!UICONTROL &#x200B; 操作設定 &#x200B;] の下で対応する機能のチェックをオフにします。
+1. MSI アクションを無効にするには、「[!UICONTROL アクション設定]」で対応する機能のチェックを外します。
 
    ![](assets/msi-actions-configuration-in-salesforce-9.png)
 

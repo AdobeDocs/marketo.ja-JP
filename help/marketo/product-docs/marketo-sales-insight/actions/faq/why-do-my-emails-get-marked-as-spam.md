@@ -2,10 +2,10 @@
 description: メールがスパムとしてマークされるのはなぜですか？ - Marketo ドキュメント - 製品ドキュメント
 title: メールがスパムとしてマークされる理由
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 90%
+ht-degree: 95%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 90%
 
 * 住所が記載された完全なメール署名があることを確認します。
 
-* [ スパム対応法 ](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"} に準拠していることを確認します。
+* 読み上げて [CAN-SPAM 法](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}に準拠していることを確認します。

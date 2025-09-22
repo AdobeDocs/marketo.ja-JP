@@ -4,8 +4,8 @@ description: アプリ内メッセージの背景の設定 - Marketo ドキュ�
 title: アプリ内メッセージの背景の設定
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 100%
 

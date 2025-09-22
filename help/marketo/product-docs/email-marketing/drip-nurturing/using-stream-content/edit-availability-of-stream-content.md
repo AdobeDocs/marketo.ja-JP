@@ -4,8 +4,8 @@ description: ストリームコンテンツの可用性の編集 - Marketo ド�
 title: ストリームコンテンツの可用性の編集
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 

@@ -4,14 +4,14 @@ description: Outlook から Sales Connect をアンインストールする方�
 title: Outlook から Sales Connect をアンインストールする方法
 exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
-# [!DNL Sales Connect] から [!DNL Outlook] をアンインストールする方法 {#how-to-uninstall-sales-connect-from-outlook}
+# [!DNL Outlook] から [!DNL Sales Connect] をアンインストールする方法 {#how-to-uninstall-sales-connect-from-outlook}
 
 >[!NOTE]
 >
@@ -19,12 +19,12 @@ ht-degree: 66%
 
 1. **[!UICONTROL 開始]**&#x200B;メニューをクリックします。
 
-1. **[!UICONTROL プログラム]** リストで [!UICONTROL ToutApp] を見つけます。
+1. 「[!UICONTROL プログラム]」リストで「**[!UICONTROL ToutApp]**」を探します。
 
 1. クリックし、「**[!UICONTROL 登録解除]**」を選択します。
 
 1. コントロールパネルに移動します。
 
-1. 「[!UICONTROL &#x200B; プログラムの追加と削除 &#x200B;]」をプルアップします。
+1. 「[!UICONTROL プログラムの追加と削除]」をプルアップします。
 
 1. リストから「[!UICONTROL ToutApp]」を選択し、「**[!UICONTROL 削除]**」を選択します。

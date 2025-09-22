@@ -4,14 +4,14 @@ description: 地域を編集する - Marketo ドキュメント - 製品ドキ�
 title: 地域を編集する
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 100%
 
 ---
 
-# [!UICONTROL 地域の編集] {#edit-regions}
+# [!UICONTROL 地域を編集] {#edit-regions}
 
 特定の地域のデータのみを表示するようにユーザーの地域設定を変更したい場合は、
 

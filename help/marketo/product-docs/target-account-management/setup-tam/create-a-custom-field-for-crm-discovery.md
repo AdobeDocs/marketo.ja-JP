@@ -4,8 +4,8 @@ description: CRM 検出用のカスタムフィールドの作成 - Marketo ド�
 title: CRM 検出用のカスタムフィールドの作成
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 100%
 

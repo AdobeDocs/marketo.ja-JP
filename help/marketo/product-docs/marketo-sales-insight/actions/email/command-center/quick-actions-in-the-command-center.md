@@ -3,14 +3,14 @@ description: コマンドセンターのクイックアクション - Marketo �
 title: コマンドセンターのクイックアクション
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '323'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; コマンドセンター &#x200B;] のクイックアクション {#quick-actions-in-the-command-center}
+# [!UICONTROL コマンドセンター]のクイックアクション {#quick-actions-in-the-command-center}
 
 メールグリッドには 2 種類のクイックアクション列があります。メールに対してアクションを実行できるメールアクションと、数回のクリックでエンゲージメントアクションを実行できるフォローアップアクションがあります。
 
@@ -34,17 +34,17 @@ ht-degree: 89%
  </colgroup>
  <tbody>
   <tr>
-   <td>[!UICONTROL アーカイブ解除 &#x200B;]</td>
-   <td>メールを配信されたフォルダーに戻し、表示およびクリックの追跡を再開します。</td>
+   <td>[!UICONTROL アーカイブ解除]</td>
+   <td>メールを配信済みフォルダーに戻し、表示およびクリックの追跡を再開します。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 削除 &#x200B;]</td>
+   <td>[!UICONTROL 削除]</td>
    <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td>
   </tr>
  </tbody>
 </table>
 
-**[!UICONTROL ドラフト &#x200B;] および [!UICONTROL &#x200B; スケジュール済み]**
+**[!UICONTROL ドラフト]および[!UICONTROL スケジュール済み]**
 
 <table>
  <colgroup>
@@ -53,17 +53,17 @@ ht-degree: 89%
  </colgroup>
  <tbody>
   <tr>
-   <td>[!UICONTROL 編集 &#x200B;]</td>
+   <td>[!UICONTROL 編集]</td>
    <td>編集する作成ウィンドウでメールを開きます。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 削除 &#x200B;]</td>
+   <td>[!UICONTROL 削除]</td>
    <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td>
   </tr>
  </tbody>
 </table>
 
-**[!UICONTROL 失敗 &#x200B;]、[!UICONTROL &#x200B; バウンス &#x200B;] および [!UICONTROL &#x200B; スパム]**
+**[!UICONTROL 失敗]、[!UICONTROL バウンス]、[!UICONTROL スパム]**
 
 <table>
  <colgroup>
@@ -72,11 +72,11 @@ ht-degree: 89%
  </colgroup>
  <tbody>
   <tr>
-   <td>[!UICONTROL 再試行送信 &#x200B;]</td>
+   <td>[!UICONTROL 再試行送信]</td>
    <td>即座にメールの再送信を試みます。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 削除 &#x200B;]</td>
+   <td>[!UICONTROL 削除]</td>
    <td><p>メールを削除します。<br><strong>注意：</strong>キャンペーンの一環として送信されたメールは削除できません。</p></td>
   </tr>
  </tbody>
@@ -90,5 +90,5 @@ ht-degree: 89%
 |---|---|
 | フォローアップメールを送信 | 選択したインラインメール本文が追加され、受信者への送信準備が整った状態で、作成ウィンドウを開きます。 |
 | 電話をかける | セールス電話を開いて、メール受信者に電話をかけます。 |
-| inMail を送信 | [!DNL LinkedIn] にリダイレクトして、InMail メッセージを送信します。 |
-| タスクを作成する | リマインダータスクを作成するための作成タスクポップアップを開きます。 |
+| inMail を送信 | [!DNL LinkedIn] にリダイレクトして、InMail メッセージをリードに送信します。 |
+| タスクの作成 | リマインダータスクを作成するための作成タスクポップアップを開きます。 |

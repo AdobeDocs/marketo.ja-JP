@@ -4,7 +4,7 @@ description: 受信者タイムゾーンを使用してスケジュールされ�
 title: 受信者タイムゾーンを使用してスケジュールされたメールプログラムの配信を中止する
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 72%
@@ -17,7 +17,7 @@ ht-degree: 72%
 
 受信者のタイムゾーンでスケジュールされたメールプログラムは最大 24 時間実行できるので、プログラムの配信を中止すると、その時点以降の後続の送信がキャンセルされます。
 
-1. キャンセルするメールプログラムを選択し、コントロールパネルの **[!UICONTROL 承認]** タイルの下にある [!UICONTROL &#x200B; 配信中止 &#x200B;] をクリックします。
+1. キャンセルするメールプログラムを選択し、コントロールパネルの **[!UICONTROL 承認]** タイルの下にある [!UICONTROL  配信中止 ] をクリックします。
 
    ![](assets/ptz-abortdelivery.png)
 

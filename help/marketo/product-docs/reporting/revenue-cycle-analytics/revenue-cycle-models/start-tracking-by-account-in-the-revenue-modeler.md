@@ -4,16 +4,16 @@ description: 収益モデラーでの顧客別トラッキングの開始 - Mark
 title: 収益モデラーでの顧客別トラッキングの開始
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
 # 収益モデラーでの顧客別トラッキングの開始 {#start-tracking-by-account-in-the-revenue-modeler}
 
-売上高ステージのModelerと [!UICONTROL &#x200B; 売上高エクスプローラー &#x200B;] を使用すると、モデルを進めながら、リードとアカウントの業績をinsightで把握できます。
+収益ステージモデラーと[!UICONTROL 収益エクスプローラー]を使用すると、リードとアカウントがモデル内を進行するにつれて、そのパフォーマンスを把握できます。
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ ht-degree: 83%
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
-1. 表示されるダイアログで、「**[!UICONTROL はい]**」を選択し、中央の右向き矢印をクリックします。 これにより、「顧客別トラッキング」が有効なステージのみがフィルタリングされます。完了したら、「**[!UICONTROL OK]**」をクリックします。
+1. 表示されるダイアログで、「**[!UICONTROL はい]**」を選択し、中央にある右向き矢印をクリックします。これにより、「顧客別トラッキング」が有効なステージのみがフィルタリングされます。完了したら、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 

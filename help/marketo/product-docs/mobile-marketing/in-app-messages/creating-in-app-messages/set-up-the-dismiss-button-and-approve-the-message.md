@@ -4,10 +4,10 @@ description: 「閉じる」ボタンを設定してメッセージを承認す�
 title: 却下ボタンの設定とメッセージの承認
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >**[!UICONTROL メッセージアクション]** ドロップダウンから直接 [!UICONTROL &#x200B; 承認して閉じる &#x200B;] を選択することもできます（手順 1 を参照）が、安全を確保するために、最初にメッセージをプレビューしてはいかがでしょうか。
+   >[!UICONTROL メッセージアクション]ドロップダウンから直接「**[!UICONTROL 承認して閉じる]**」を選択することもできますが（手順 1 を参照）、安全のために、最初にメッセージをプレビューすることをお勧めします。
 
 1. 承認せずにエディターを閉じるには、タブを閉じます。自動保存されるので、後で戻って承認できます。
 

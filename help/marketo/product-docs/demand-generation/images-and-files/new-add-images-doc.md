@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 13%
+ht-degree: 26%
 
 ---
 
@@ -18,19 +18,19 @@ ht-degree: 13%
 
 ## 画像またはファイルのアップロード {#upload-image-or-file}
 
-1. **Design Studio** に移動します。
+1. **デザインスタジオ**&#x200B;に移動します。
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. 「**[!UICONTROL 画像とファイル]**」を選択します。
+1. 「**[!UICONTROL 画像とファイル]**」を選択します
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、「**[!UICONTROL 画像またはファイルのアップロード]**」を選択します。
+1. **[!UICONTROL 画像とファイルのアクション]**&#x200B;ドロップダウンをクリックし、「**[!UICONTROL 画像またはファイルをアップロード]**」を選択します。
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
-1. 目的の画像またはファイルをドラッグ&amp;ドロップするか、コンピューターを参照して選択します。
+1. 目的の画像／ファイルをドラッグ＆ドロップするか、コンピュータを参照して探します。
 
    ![](assets/add-images-and-files-to-marketo-4.png)
 
@@ -90,7 +90,7 @@ PICC
 
    ![](assets/add-images-and-files-to-marketo-13.png)
 
-1. 画像を保存するMarketo Engage フォルダーを選択します。 この例では、Images and Files （デフォルト）のままにします。 「**インポート**」をクリックします。
+1. 画像を保存するMarketo Engage フォルダーを選択します。 この例では、Images and Files （デフォルト）のままにします。 「**読み込み**」をクリックします。
 
    ![](assets/add-images-and-files-to-marketo-14.png)
 

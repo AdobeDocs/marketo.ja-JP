@@ -4,16 +4,16 @@ description: 収益エクスプローラーからの結果のグラフ化 - Mark
 title: 収益エクスプローラーからの結果のグラフ化
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] からのグラフ結果 {#graphing-results-from-revenue-explorer}
+# [!UICONTROL 収益エクスプローラー]からの結果のグラフ化 {#graphing-results-from-revenue-explorer}
 
-デフォルトでは、[!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] のレポートはテーブルとして表示されます。 また、結果を様々な形式のグラフとして表示するオプションもあります。
+デフォルトでは、[!UICONTROL 収益エクスプローラー]のレポートはテーブルとして表示されます。また、結果を様々な形式のグラフとして表示するオプションもあります。
 
 1. レポートの&#x200B;**[!UICONTROL 表示形式]**&#x200B;ドロップダウンメニューで矢印をクリックします。異なるグラフオプションが表示されます。
 
@@ -37,7 +37,7 @@ ht-degree: 90%
 
 ![](assets/line.png)
 
-**[!UICONTROL 列行コンボ]**: [!UICONTROL &#x200B; 列 &#x200B;] グラフと [!UICONTROL &#x200B; 行 &#x200B;] グラフの組み合わせ。
+**[!UICONTROL 行列コンボ]**：[!UICONTROL 列]グラフと[!UICONTROL 折れ線]グラフの組み合わせ。
 
 ![](assets/column-line-combo.png)
 

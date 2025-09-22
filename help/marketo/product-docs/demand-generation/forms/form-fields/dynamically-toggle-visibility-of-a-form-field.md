@@ -4,10 +4,10 @@ description: フォームフィールドの表示設定の動的な切り替え 
 title: フォームフィールドの表示設定の動的な切り替え
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ Marketo フォームの素晴らしい機能の 1 つは、フォームフィー
 
    >[!TIP]
    >
-   >「[!UICONTROL &#x200B; 次で始まる &#x200B;] など、ファジーマッチを選択できるので、これは素晴らしいです。
+   >「[!UICONTROL 次の語句で始まる]」のようなあいまい一致を選択できる素晴らしい機能です。
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -69,6 +69,6 @@ Marketo フォームの素晴らしい機能の 1 つは、フォームフィー
 
 >[!IMPORTANT]
 >
->Forms 2.0 では、[API 関数 ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} を使用してカスタムスクリプトでフィールド値を設定または更新すると、フォームフィールドの動作がシームレスに機能します。
+>Forms 2.0 の [API 関数](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"}カスタムスクリプトを使用してフィールド値が設定または更新された場合、フォームフィールドの動作はシームレスに機能します。
 >
 >Forms 2.0 JavaScript API 以外の外部スクリプトでフィールドの値が変更されると、条件付きフィールドが期待どおりに動作しない場合があります。

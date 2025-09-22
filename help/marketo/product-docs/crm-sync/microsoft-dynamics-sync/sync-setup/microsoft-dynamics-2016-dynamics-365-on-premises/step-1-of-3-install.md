@@ -1,18 +1,18 @@
 ---
-description: Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365 オンプレミス 1/3 - Marketo ドキュメント – 製品ドキュメント
-title: Marketo for [!DNL Microsoft Dynamics] 2016/Dynamics 365 オンプレミスのインストール手順 1/3
+description: ' [!DNL Microsoft Dynamics] 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 1 / 3 - Marketo ドキュメント - 製品ドキュメント'
+title: ' [!DNL Microsoft Dynamics] 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 1 / 3'
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '293'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
-# 手順 1 / 3：Marketo（2016 オンプレミス／Dynamics 365 オンプレミス）の同期ユーザーの設定 {#step-of-configure-sync-user-for-marketo-on-premises-2016}
+# 手順 1 / 3：Marketo（2016 オンプレミス／Dynamics 365 オンプレミス）の同期ユーザの設定 {#step-of-configure-sync-user-for-marketo-on-premises-2016}
 
-[!DNL Microsoft Dynamics] 2016 オンプレミス/Dynamics 365 をMarketoと同期する前に、まずMarketo ソリューションを Dynamics にインストールする必要があります。
+[!DNL Microsoft Dynamics] 2016 オンプレミス／Dynamics 365 と Marketo を同期する前に、Dynamics に Marketo ソリューションをインストールする必要があります。
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ ht-degree: 68%
 
 >[!PREREQUISITES]
 >
->[!DNL Microsoft Dynamics] オンプレミスを使用している場合は、[Active Directory フェデレーション サービス ](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) 2.0 以降（ADFS）が構成された [ インターネット接続展開 ](https://msdn.microsoft.com/en-us/library/bb897402.aspx) （IFD）が必要です。 注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
+>[!DNL Microsoft Dynamics] オンプレミスを使用している場合は、[Active Directory Federation Services](https://msdn.microsoft.com/ja-jp/library/bb897402.aspx) 2.0 以降（ADFS）で[インターネットに接続するデプロイメント](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)（IFD）を設定する必要があります。注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
 >
 >始める前に、[Marketo リード管理ソリューションをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}します。
 
@@ -30,7 +30,7 @@ ht-degree: 68%
 >
 >この同期を実行するには、CRM 管理者権限が必要です。
 
-1. **[!DNL Dynamics]にログインします。** **[!DNL Microsoft Dynamics]CRM** ドロップダウンメニューをクリックし、「**[!UICONTROL 設定]**」を選択します。
+1. **[!DNL Dynamics]にログインします。****[!DNL Microsoft Dynamics]CRM** ドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -38,7 +38,7 @@ ht-degree: 68%
 
    ![](assets/image2015-3-19-8-33-3.png)
 
-1. 「**[!UICONTROL インポート]**」をクリックします。
+1. 「**[!UICONTROL 読み込み]**」をクリックします。
 
    ![](assets/image2015-3-19-8-34-8.png)
 
@@ -94,4 +94,4 @@ ht-degree: 68%
 
    >[!MORELIKETHIS]
    >
-   >[Marketo for [!DNL Dynamics] 2015 On-Prem および 2016 365 On-Prem のインストール ステップ 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+   >[ [!DNL Dynamics] 2015 オンプレミスおよび 2016 365 オンプレミス向け Marketo インストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)

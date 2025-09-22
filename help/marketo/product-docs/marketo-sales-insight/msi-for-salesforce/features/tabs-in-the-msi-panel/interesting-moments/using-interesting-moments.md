@@ -4,20 +4,20 @@ description: 注目のアクションの使用 - Marketo ドキュメント - �
 title: 注目のアクションの使用
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
 # 注目のアクションの使用 {#using-interesting-moments}
 
-興味深い瞬間は、[!DNL Marketo Sales Insight] アプリを通じてセールスチームとコミュニケーションを取るための鍵です。
+注目のアクションは、[!DNL Marketo Sales Insight] アプリを通じてセールスチームとコミュニケーションをとる鍵となります。
 
 >[!AVAILABILITY]
 >
->これらは、[!DNL Marketo Sales Insight] および [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) のお客様のみが利用できます。
+>注目のアクションを使用できるのは、[!DNL Marketo Sales Insight] と[[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) を契約されたお客様だけです。
 
 ## 注目のアクションとは何でしょうか。 {#what-is-an-interesting-moment}
 
@@ -37,7 +37,7 @@ ht-degree: 69%
 
    ![](assets/using-interesting-moments-2.png)
 
-1. **タイプ** （[!UICONTROL &#x200B; メール &#x200B;]、[!UICONTROL &#x200B; マイルストーン &#x200B;] または [!UICONTROL Web]）を選択します。
+1. **タイプ**&#x200B;を選択します（[!UICONTROL メール]、[!UICONTROL マイルストーン]、[!UICONTROL web]）。
 
    ![](assets/using-interesting-moments-3.png)
 
@@ -63,25 +63,25 @@ ht-degree: 69%
 
 ![](assets/using-interesting-moments-5.png)
 
-## [!DNL Salesforce] で興味深い瞬間は何に見えますか？  {#what-does-an-interesting-moment-look-like-in-salesforce}
+## 注目のアクションは、[!DNL Salesforce] でどのように表示されるか  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-アプリを [ インストール  [!DNL Marketo Sales Insight]  すると、リード ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) 連絡先、アカウント、商談のページに注目すべき瞬間が表示されます。 また、これらの指標は、リードフィード、リー [!DNL Sales Insight] ー、監視リストの [!DNL Best Bets] ダッシュボードにも表示されます。
+[ [!DNL Marketo Sales Insight]  アプリをインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)していれば、注目のアクションはリード、取引先責任者、アカウント、または商談ページに表示されます。また、[!DNL Sales Insight] ダッシュボードで、「リードフィード」、「[!DNL Best Bets]」、「ウォッチリスト」にも表示されます。
 
 ![](assets/using-interesting-moments-6.png)
 
-## [!DNL Salesforce1] で興味深い瞬間は何に見えますか？ {#what-does-an-interesting-moment-look-like-in-salesforce-1}
+## 注目のアクションは、[!DNL Salesforce1] でどのように表示されるか {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
-[!DNL Marketo Sales Insight] 用に [!DNL Salesforce1] をインストールまたは更新すると、リードの関連リンクの下に興味深い瞬間が表示されます。
+[!DNL Salesforce1] 用の [!DNL Marketo Sales Insight] をインストールまたは更新すると、リードの関連リンクの下に注目のアクションが表示されます。
 
 ![](assets/using-interesting-moments-7.png)
 
 ## 注目のアクションを購読 {#subscribe-to-interesting-moments}
 
-興味深いモーメントを購読するには、「興味深いモーメント」タブまたはリードフィードで「[!UICONTROL &#x200B; 購読 &#x200B;]」ボタンをクリックします。 以下の手順は両方で同じです。
+「注目のアクション」タブまたはリードフィードで「[!UICONTROL 購読]」ボタンをクリックすると、注目のアクションを購読できます。以下の手順は両方で同じです。
 
 1. 購読アイコンをクリックします。その後、「メール購読」タブに移動します。
 
-1. [!UICONTROL &#x200B; 名前 &#x200B;]、[!UICONTROL &#x200B; アカウント &#x200B;]、[!UICONTROL &#x200B; タイプ &#x200B;]、または [!UICONTROL &#x200B; 説明 &#x200B;] に基づいて、受信するメールアラートのタイプを選択できます。
+1. 受け取るメールアラートのタイプを、[!UICONTROL 名前]、[!UICONTROL アカウント]、[!UICONTROL タイプ]、[!UICONTROL 説明]のいずれかに基づいて選択できます。
 
 1. アラートを送信するメールアドレスを選択します（自分／チームメンバー）
 

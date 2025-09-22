@@ -4,7 +4,7 @@ description: リリースノート - 2012年6月 - Marketo ドキュメント - 
 title: リリースノート - 2012年6月
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 100%
@@ -79,7 +79,7 @@ Marketo へのリストインポートがはるかに簡単になりました。
 
 注意：メール効果レポートのアップグレードが進行中です。
 
-## Marketo 売上高サイクル分析の機能強化 {#marketo-revenue-cycle-analytics-enhancements}
+## Marketo 収益サイクル分析の機能強化 {#marketo-revenue-cycle-analytics-enhancements}
 
 ### プログラム商談分析の新しい指標  {#new-metrics-in-program-opportunity-analysis}
 

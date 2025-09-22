@@ -4,10 +4,10 @@ description: リリースノート - 2020 年 1 月 - Marketo ドキュメント
 title: リリースノート - 2020 年 1 月
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
-source-wordcount: '796'
-ht-degree: 100%
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
+source-wordcount: '794'
+ht-degree: 95%
 
 ---
 
@@ -57,7 +57,7 @@ ht-degree: 100%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [画像編集](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=ja#design-studio)：Marketo Engage を終了せずに、アドビの編集機能にアクセスできます。この新しい機能により、[!UICONTROL Design Studio] で直接画像の拡張、切り抜き、画像へのテキストの追加などを簡単に実行できます。
+* [画像編集](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：Marketo Engage を終了せずに、アドビの編集機能にアクセスできます。この新しい機能により、[!UICONTROL Design Studio] で直接画像の拡張、切り抜き、画像へのテキストの追加などを簡単に実行できます。
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -76,4 +76,4 @@ ht-degree: 100%
 >
 >* **ITP 2.1+ [!DNL Munchkin] のアップデート**：[!DNL Safari] の cookie ポリシーが変更されたので、[!DNL Munchkin] が同じドメインで複数のセッションをまたいでユーザを追跡する機能は、ITP によって、訪問者が使用しているブラウザーとブラウザーのバージョンに基づいて 1 日または 7 日に制限されます。これを考慮して、新しい web サービスを実装し、HTTP 応答を介して Set-Cookie ヘッダーで Munchkin の Cookie を設定できるようにしています。この新しいサービスの実装方法の詳細については、[こちら](https://nation.marketo.com/docs/DOC-7351)を参照してください。
 
-**_製品リリースウェビナー_**：3 月 3 日午前 11 時（PT）／午後 2 時（ET）に開催される製品チーム主催のライブウェビナーに[参加](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)して、今回のリリースに含まれる機能の詳細をご確認ください
+**_製品リリースウェビナー_**[ ご参加ください ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)3 月 3 日（PT） 11:00AM PT / 2:00PM ET で、製品チームがホストするライブウェビナーと、このリリースに含まれる機能の詳細をご覧ください。

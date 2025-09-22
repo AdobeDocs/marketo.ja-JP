@@ -4,10 +4,10 @@ description: スニペットへのコンテンツの追加 - Marketo ドキュ�
 title: スニペットへのコンテンツの追加
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 94%
 
 スニペットには、3 種類のコンテンツを追加できます。
 
-## [!UICONTROL &#x200B; トークン &#x200B;] を追加 {#add-token}
+## [!UICONTROL トークン]の追加 {#add-token}
 
 1. **[!UICONTROL トークン]**&#x200B;要素をドラッグ＆ドロップします。
 
@@ -71,7 +71,7 @@ ht-degree: 94%
    >
    >書式設定ツールを使用して、テキストをカスタマイズします。
 
-1. メールの場合、「**[!UICONTROL テキストバージョン （メールの場合）]**」タブをクリックします。
+1. メールの場合は、「**[!UICONTROL テキストバージョン（メールの場合）]**」タブをクリックします。
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 

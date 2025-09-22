@@ -4,7 +4,7 @@ description: アップロードされた画像とファイルの検索 - Marketo
 title: アップロードされた画像とファイルの検索
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 42%
@@ -15,7 +15,7 @@ ht-degree: 42%
 
 画像またはファイルの検索を実行する方法を説明します。
 
-1. **[!UICONTROL Design Studio]** に移動します。
+1. **[!UICONTROL デザインスタジオ]**&#x200B;に移動します。
 
    ![](assets/search-uploaded-images-and-files-1.png)
 

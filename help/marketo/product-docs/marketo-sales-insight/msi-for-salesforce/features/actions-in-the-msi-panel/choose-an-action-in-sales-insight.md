@@ -4,16 +4,16 @@ description: Sales Insight でのアクションの選択 - Marketo ドキュメ
 title: Sales Insight でのアクションの選択
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
-# [!DNL Sales Insight] でアクションを選択 {#choose-an-action-in-sales-insight}
+# [!DNL Sales Insight] でのアクションの選択 {#choose-an-action-in-sales-insight}
 
-[!DNL Sales Insight] Classic と Lightning の [!DNL Salesforce] ドロップダウンでは、次のアクションを使用できます。
+[!DNL Salesforce] Classic と Lightning の [!DNL Sales Insight] ドロップダウンから、次のアクションを使用できます。
 
 * Marketo メールの送信
 * Marketo キャンペーンに追加
@@ -37,13 +37,13 @@ ht-degree: 78%
 
   ![](assets/choose-an-action-in-sales-insight-2.png)
 
-「**[!DNL Best Bets]」タブ**
+**[!DNL Best Bets]タブ**
 
-* 「一括アクション」タブ [!DNL Best Bets]、グループアクションで、ユーザープロファイルによって制御できます
+* 「[!DNL Best Bets] 一括アクション」タブ：グループアクション。ユーザプロファイルで制御できます
 
   ![](assets/choose-an-action-in-sales-insight-3.png)
 
-* [!DNL Best Bets] インラインアクション」タブ：単一のアクションで、ユーザープロファイルによって制御できます
+* 「[!DNL Best Bets] インラインアクション」タブ：単一のアクション。ユーザプロファイルで制御できます
 
   ![](assets/choose-an-action-in-sales-insight-4.png)
 

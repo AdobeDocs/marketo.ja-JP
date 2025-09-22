@@ -4,10 +4,10 @@ description: プッシュ通知ダッシュボードの表示 - Marketo ドキ�
 title: プッシュ通知ダッシュボードの表示
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 80%
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. iOSとAndroidの [!UICONTROL &#x200B; 合計送信済み数 &#x200B;] と [!UICONTROL &#x200B; 合計タップ数 &#x200B;] を円グラフで表示できます。 下にスクロールして、棒グラフの [!UICONTROL &#x200B; 減衰をタップ &#x200B;] を表示します。
+1. iOS と Android の[!UICONTROL 合計送信数]および[!UICONTROL 合計タップ数]を円グラフで表示できます。下にスクロールして、棒グラフで「[!UICONTROL タップの減衰]」を確認します。
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

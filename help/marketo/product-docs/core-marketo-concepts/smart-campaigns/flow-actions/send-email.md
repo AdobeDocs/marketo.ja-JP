@@ -4,8 +4,8 @@ description: メールの送信 - Marketo ドキュメント - 製品ドキュ�
 title: メールの送信
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 

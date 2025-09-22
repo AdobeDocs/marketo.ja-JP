@@ -4,20 +4,20 @@ description: パフォーマンスインサイトのクイックグラフ - Mark
 title: パフォーマンスインサイトのクイックグラフ
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; パフォーマンスインサイト &#x200B;][!UICONTROL &#x200B; クイックグラフ &#x200B;] {#performance-insights-quick-charts}
+# [!UICONTROL パフォーマンスインサイト]の[!UICONTROL クイックグラフ] {#performance-insights-quick-charts}
 
-[!UICONTROL &#x200B; クイックグラフ &#x200B;] は、カスタマイズして保存するサムネールで、最も多く使用するグラフのクイックビューを提供します。
+[!UICONTROL クイックグラフ]は、カスタマイズして保存するサムネールで、最も多く使用するグラフを素早く表示できます。
 
 ## 新しいクイックグラフの作成 {#create-a-new-quick-chart}
 
-[!UICONTROL &#x200B; クイックグラフ &#x200B;] は、指定したデータから派生します。 この例では、**新しい商談（ファーストタッチ）、商談のタイプとして新しいビジネス、日付として年初から本日**&#x200B;を選択します。
+[!UICONTROL クイックグラフ]は、指定したデータから取得されます。この例では、**新しい商談（ファーストタッチ）、商談のタイプとして新しいビジネス、日付として年初から本日**&#x200B;を選択します。
 
 1. 日付フィルターをクリックし、「**[!UICONTROL 現在の年（YTD）]**」を選択します。
 

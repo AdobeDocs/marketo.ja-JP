@@ -4,8 +4,8 @@ description: フィールドへのデータ追加 - Marketo ドキュメント -
 title: フィールドへのデータ追加
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 100%
 

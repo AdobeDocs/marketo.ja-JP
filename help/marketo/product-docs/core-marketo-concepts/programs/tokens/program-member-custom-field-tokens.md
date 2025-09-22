@@ -4,10 +4,10 @@ description: プログラムメンバーカスタムフィールドトークン 
 title: プログラムメンバーカスタムフィールドトークン
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 93%
 
 PMCF トークンは、トークンファミリーのメンバードメインでサポートされます。
 
-メンバートークンは、プログラムメンバーの範囲のフィールドに使用されます。現状では、メンバートークンは、統合サービスパートナーから一意の値を挿入するためにも使用されます。トークン `{{member.webinar url}}`、サービスプロバイダーによって生成されたその人物の一意の確認 URL を自動的に解決します。 {{member.registration code}} は、サービスプロバイダーから提供された登録コードに解決されます。
+メンバートークンは、プログラムメンバーの範囲のフィールドに使用されます。現状では、メンバートークンは、統合サービスパートナーから一意の値を挿入するためにも使用されます。`{{member.webinar url}}` トークンは、サービスプロバイダーによって生成されたユーザの一意の確認 URL を自動的に解決します。{{member.registration code}} は、サービスプロバイダーから提供される登録コードに解決されます。
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ PMCF トークンは、トークンファミリーのメンバードメインで
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
-1. 目的のプログラムメンバーカスタムフィールドトークンを検索して選択します。[!UICONTROL &#x200B; デフォルト値 &#x200B;] を入力し、**[!UICONTROL 挿入]** をクリックします。
+1. 目的のプログラムメンバーカスタムフィールドトークンを検索して選択します。[!UICONTROL デフォルト値]を入力し、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/program-member-custom-field-tokens-13.png)
 

@@ -3,16 +3,16 @@ description: メールへの添付ファイルまたはトラック可能コン�
 title: メールへの添付ファイルまたはトラック可能コンテンツの追加
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
 # メールへの添付ファイルまたはトラック可能コンテンツの追加 {#add-an-attachment-or-trackable-content-to-your-email}
 
-[!DNL Marketo Sales] 経由でメールを送信する場合、ファイルを添付ファイルとして追加するか、ファイルをダウンロード可能な（トラッキング可能な）リンクにするオプションがあります。
+[!DNL Marketo Sales] からメールを送信する際には、ファイルを添付ファイルとして追加するか、ファイルをダウンロード可能（かつトラック可能）リンクにするかを選択できます。
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ ht-degree: 81%
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
-1. 「[!UICONTROL &#x200B; 宛先 &#x200B;]」フィールドに入力し、「件名 [!UICONTROL &#x200B; を入力 &#x200B;] ます。
+1. 「[!UICONTROL 宛先]」フィールドに入力し、「[!UICONTROL 件名]」を入力します。
 
    ![](assets/add-an-attachment-or-trackable-content-2.png)
 
@@ -46,11 +46,11 @@ ht-degree: 81%
 
 ## トラック可能コンテンツを追加 {#add-trackable-content}
 
-1. メールドラフトを作成します（これを行う方法は複数あります。この例では、「**[!UICONTROL 作成]**」ウィンドウを選択しています）。
+1. メールのドラフトを作成します（複数の方法があります。この例では、**[!UICONTROL 作成]**&#x200B;ウィンドウを選択します）。
 
    ![](assets/add-an-attachment-or-trackable-content-6.png)
 
-1. 「[!UICONTROL &#x200B; 宛先 &#x200B;]」フィールドに入力し、「件名 [!UICONTROL &#x200B; を入力 &#x200B;] ます。
+1. 「[!UICONTROL 宛先]」フィールドに入力し、「[!UICONTROL 件名]」を入力します。
 
    ![](assets/add-an-attachment-or-trackable-content-7.png)
 
@@ -58,7 +58,7 @@ ht-degree: 81%
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. 追加するコンテンツを選択し、「**[!UICONTROL コンテンツは追跡されています]**」スライダーをクリックして、「**[!UICONTROL 挿入]**」をクリックします。
+1. 追加するコンテンツを選択し、**[!UICONTROL コンテンツをトラック]**&#x200B;スライダーをクリックし、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 

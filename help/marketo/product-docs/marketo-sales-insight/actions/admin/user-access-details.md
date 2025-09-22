@@ -3,10 +3,10 @@ description: ユーザアクセスの詳細 - Marketo ドキュメント - 製�
 title: ユーザアクセスの詳細
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 90%
 
 ![](assets/user-access-details-4.png)
 
-管理者は、「表示形態 [!UICONTROL &#x200B; ドロップダウンを使用して、ユーザーキャンペーンおよびキャンペーンカテゴリを表示 &#x200B;] きます。
+管理者は、「[!UICONTROL 次のユーザとして表示]」ドロップダウンで、ユーザのキャンペーンおよびキャンペーンカテゴリを表示できます。
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,18 @@ ht-degree: 90%
    * ユーザは所属するチームのみの詳細を表示できます
    * ユーザは独自の分析を表示できます
 
-* [!UICONTROL People] ページ：
+* [!UICONTROL 人物]ページ：
 
    * ユーザは全員とグループを共有できます
    * ユーザは、所属するチームとのみグループを共有できます
    * ユーザは、アクションデータベース内のすべてのユーザを表示できます
    * ユーザが削除されると、そのユーザの共有取引先責任者は、そのユーザを削除したマスター管理者に所有権を転送します
 
-* [!UICONTROL &#x200B; チーム &#x200B;] 管理ページ：
+* [!UICONTROL チーム]管理ページ：
 
    * 表示できません
 
-* [!UICONTROL &#x200B; テンプレート &#x200B;] ページ：
+* [!UICONTROL テンプレート]ページ：
 
    * ユーザは全員とテンプレートを共有できます
    * ユーザは、管理者が許可するカテゴリにテンプレートを共有できます

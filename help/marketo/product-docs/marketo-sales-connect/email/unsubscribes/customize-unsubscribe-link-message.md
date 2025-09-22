@@ -4,10 +4,10 @@ description: 登録解除リンクメッセージのカスタマイズ - Marketo
 title: 配信停止リンクメッセージのカスタマイズ
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 85%
 
 >[!NOTE]
 >
->この情報はデータベースに取り込まれないため、[!DNL Sales Connect] でサードパーティの登録解除リンクを使用することはできません。
+>[!DNL Sales Connect] ではサードパーティの登録解除リンクは使用できません。この情報は、アドビのデータベースに取り込まれないからです。
 
 ## 自分のメッセージをカスタマイズする {#customize-messaging-for-yourself}
 
@@ -25,7 +25,7 @@ ht-degree: 85%
 
    ![](assets/one.png)
 
-1. [!UICONTROL &#x200B; マイアカウント &#x200B;] で「**[!UICONTROL 購読解除]**」を選択します。
+1. 「[!UICONTROL マイアカウント]」で、「**[!UICONTROL 登録解除]**」を選択します。
 
    ![](assets/two-1.png)
 
@@ -51,7 +51,7 @@ ht-degree: 85%
 
    ![](assets/six.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、「**[!UICONTROL 購読解除]**」を選択します。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL 登録解除]**」を選択します。
 
    ![](assets/eight.png)
 

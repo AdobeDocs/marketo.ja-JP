@@ -3,7 +3,7 @@ description: Advanced BI Analytics の概要 – Marketo ドキュメント – 
 title: 高度な BI 分析の概要
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1044'
 ht-degree: 6%
@@ -98,7 +98,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
    ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
 
-1. [ その他 ] アイコン （**...**）をクリックします
+1. 「その他」アイコン（**`...`**）をクリック
 
    ![](assets/export-a-visualization-3.png)
 
@@ -125,7 +125,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 次のビデオでは、複数ページのドリルスルーレポートのエクスペリエンスの例を確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451683/?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Advanced BI Analytics の標準レポート {#standard-reports}
 
@@ -237,7 +237,6 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 ## 注意事項 {#note}
 
 * カスタムレポートは、以下の [ 新しいエクスペリエンスの学習 ](#learning-the-new-experience) の節で説明されている主な動作の変更を使用して、従来のエクスペリエンスから新しいエクスペリエンスに複製されました。
-
 * 従来のエクスペリエンスのダッシュボードは転送できず、新しいエクスペリエンスで再作成する必要があります。 これらは、新しいエクスペリエンスのレポートとして再作成でき、新しいエクスペリエンスのフィルターが可能な値を自動的に取り込みます。
 
   >[!NOTE]
@@ -251,9 +250,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
   >売上高エクスプローラーに 700 を超えるレポートがある場合、一部のレポートは他のレポートと組み合わされ、レポート内のページを介して統合されています。
   >
   >* レポートにメールサブスクリプションがある場合、結合されませんでした。
-  >
   >* _同じフォルダー_ 内の残りのレポートは、レポート領域によって 1 つ以上のレポートに結合されました。 レポート領域に 5 つ以上のレポートがある場合、それらは複数の結合レポートに統合されました。
-  >
   >* 各組み合わせレポートのページ数は 5 ページ以下です。
 
 * 特定のビジュアライゼーションでは、クエリあたり 100 万行という制限があります。 クエリがこの値を超えると、次のエラーが表示されます：`The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`。 これを修正するには、日付範囲を減らしたり、レポートのフィルターを調整してクエリ結果の行数を減らしたりします。

@@ -4,16 +4,16 @@ description: アクティビティ同期のカスタマイズ - Marketo ドキ�
 title: アクティビティ同期のカスタマイズ
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '306'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
 # アクティビティ同期のカスタマイズ {#customize-activities-sync}
 
-Marketo Sales Insight を使用しない場合、Marketo Engage は特定のイベントに対して Salesforce のアクティビティ履歴レコードを作成できます。有効にする方法は、以下のとおりです。
+Marketo セールスインサイトを使用しない場合、Marketo Engage は特定のイベントに対して Salesforce のアクティビティ履歴レコードを作成できます。有効にする方法は、以下のとおりです。
 
 >[!NOTE]
 >
@@ -48,51 +48,51 @@ Marketo Sales Insight を使用しない場合、Marketo Engage は特定のイ�
  </thead>
  <tbody>
   <tr>
-   <td>[!UICONTROL 入力済みフォーム &#x200B;]</td>
-   <td>任意の Marketo フォームに入力しました</td>
+   <td>[!UICONTROL フォームに入力済み]</td>
+   <td>任意の Marketo フォームに入力しました。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL がリストに追加されました &#x200B;]</td>
-   <td><p>フローステップ：静的リストに追加されました</p></td>
+   <td>[!UICONTROL リストに追加済み]</td>
+   <td><p>フローステップ：静的リストに追加されました。</p></td>
   </tr>
   <tr>
-   <td>[!UICONTROL 送信済み電子メール &#x200B;]</td>
-   <td>フローステップ：メールが送信されました</td>
+   <td>[!UICONTROL メール送信済み]</td>
+   <td>フローステップ：メールが送信されました。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL Email delivered]</td>
+   <td>[!UICONTROL メール配信済み]</td>
    <td>メールを受信しました（バウンスなし）</td>
   </tr>
   <tr>
-   <td>[!UICONTROL Email opened]</td>
+   <td>[!UICONTROL メール開封済み]</td>
    <td>メールを開きました（画像ブロックなし）</td>
   </tr>
   <tr>
-   <td>[!UICONTROL メール内のクリックされたリンクを]</td>
-   <td>Marketo から送信されたメール内のリンクをクリックしました</td>
+   <td>[!UICONTROL メール内リンクをクリック済み]</td>
+   <td>Marketo から送信されたメール内のリンクをクリックしました。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL がリストから削除されました &#x200B;]</td>
-   <td>フローステップ：静的リストから削除されました</td>
+   <td>[!UICONTROL リストから削除済み]</td>
+   <td>フローステップ：静的リストから削除されました。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL フローから削除 &#x200B;]</td>
-   <td>フローステップ：フローから削除されました</td>
+   <td>[!UICONTROL フローから削除]</td>
+   <td>フローステップ：フローから削除されました。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 販売電子メールが送信されました &#x200B;]</td>
-   <td>Marketo Sales Insight 経由でメールを送信されました</td>
+   <td>[!UICONTROL セールスメール送信済み]</td>
+   <td>Marketo セールスインサイト経由でメールを送信されました。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 販売 E メール開封数 &#x200B;]</td>
-   <td>Marketo Sales Insight 経由で送信したメールを開封しました</td>
+   <td>[!UICONTROL セールスメール開封済み]</td>
+   <td>Marketo セールスインサイト経由で送信したメールを開封しました。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 販売メール内のクリックリンク &#x200B;]</td>
-   <td>Marketo Sales Insight を通じて送信されたメール内のリンクをクリックしました</td>
+   <td>[!UICONTROL セールスメール内リンクをクリック]</td>
+   <td>Marketo セールスインサイトを通じて送信されたメール内のリンクをクリックしました。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL 販売電子メールを受信 &#x200B;]</td>
+   <td>[!UICONTROL セールスメール受信済み]</td>
    <td>MSI Outlook プラグインでセールス担当者がメールを受信し、ログに記録しました</td>
   </tr>
  </tbody>

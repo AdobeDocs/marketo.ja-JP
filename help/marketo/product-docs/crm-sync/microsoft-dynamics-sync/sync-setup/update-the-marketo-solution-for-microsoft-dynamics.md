@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6849029
-description: Marketo ソリューションの更新  [!DNL Microsoft Dynamics]  Marketo ドキュメント – 製品ドキュメント
-title: ' [!DNL Microsoft Dynamics] のMarketo ソリューションの更新'
+description: ' [!DNL Microsoft Dynamics]  向け Marketo ソリューションのアップデート - Marketo ドキュメント - 製品ドキュメント'
+title: ' [!DNL Microsoft Dynamics] 向け Marketo ソリューションのアップデート'
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-# [!DNL Microsoft Dynamics] のMarketo ソリューションの更新 {#update-the-marketo-solution-for-microsoft-dynamics}
+# [!DNL Microsoft Dynamics] 向け Marketo ソリューションのアップデート {#update-the-marketo-solution-for-microsoft-dynamics}
 
-新しい [!DNL Microsoft Dynamics] ソリューションがリリースされたら、アカウントの管理領域からアップデートをダウンロードできます。
+新しい [!DNL Microsoft Dynamics] ソリューションがリリースされると、アカウントの管理者領域からアップデートをダウンロードできます。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 33%
 
    ![](assets/admin.png)
 
-1. **[!DNL Microsoft Dynamics]** をクリックします。
+1. 「**[!DNL Microsoft Dynamics]**」をクリックします。
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
@@ -35,15 +35,15 @@ ht-degree: 33%
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
-1. [!DNL Microsoft Dynamics] バージョンに適したソリューションを選択します。
+1. [!DNL Microsoft Dynamics] のバージョンに適したソリューションを選択します。
 
    ![](assets/msd-online.png)
 
    これで完了です。ソリューションの zip ファイルがデバイスにダウンロードされます。インストール手順に慣れていない場合は、[!UICONTROL Dynamics] 管理者にお問い合わせください。
 
-## 更新の実行 {#performing-the-update}
+## アップデートの実行 {#performing-the-update}
 
-1. 既存のバージョンの [!DNL Dynamics] CRM に対して、ソリューションの最新バージョンをインポートします（例：[!DNL Dynamics] CRM のバージョンが 1.4 で、最新バージョンが 1.5 の場合は、_over_ バージョン 1.4 をインポートします）。
+1. [!DNL Dynamics] CRM の既存のバージョンに対して、ソリューションの最新バージョンを読み込みます（例：[!DNL Dynamics] CRM のバージョンが 1.4 で、最新バージョンが 1.5 の場合は、バージョン 1.4 _以降_&#x200B;を読み込みます）。
 
 1. 次のポップアップが表示されます。「**[!UICONTROL アップデート]**」および「**[!UICONTROL カスタマイズを維持]**」を選択し、「**[!UICONTROL インポート]**」をクリックします。
 
@@ -51,4 +51,4 @@ ht-degree: 33%
 
 >[!CAUTION]
 >
->「更新」ではなく「アップグレード」を選択すると、[!DNL Dynamics] 環境でデータが破損する可能性があります。 **必ず更新を選択してください**&#x200B;[!UICONTROL &#x200B; 読み込みオプション &#x200B;]。
+>アップデートの代わりにアップグレードを選択すると、[!DNL Dynamics] 環境でデータが破損する可能性があります。「[!UICONTROL 読み込みオプション]」で、**必ず「アップデート」を選択してください**。

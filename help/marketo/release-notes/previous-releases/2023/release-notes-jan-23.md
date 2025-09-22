@@ -3,7 +3,7 @@ description: リリースノート - 2023年1月 - Marketo ドキュメント - 
 title: リリースノート - 2023年1月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 96%
@@ -26,7 +26,7 @@ ht-degree: 96%
 
 </br>
 
-* **最新の UX によるアップデートされた画面**：最新の UX（旧称：次世代エクスペリエンス）では、トグルスイッチを介してアクセス可能な、アップデートされたデザインと操作性の強化を提供する、追加の更新された画面を提供します。
+* **最新の UX によるアップデートされた画面**：最新の UX（旧称：次世代エクスペリエンス）では、切替スイッチを介してアクセス可能な、アップデートされたデザインと操作性の強化を提供する、追加の更新された画面を提供します。
 
    * スニペットのリスト表示
    * ランディングページテンプレートリスト

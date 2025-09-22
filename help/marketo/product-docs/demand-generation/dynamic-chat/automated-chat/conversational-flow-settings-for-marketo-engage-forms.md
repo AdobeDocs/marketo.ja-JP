@@ -3,7 +3,7 @@ description: Marketo Engage フォームの対話型フローの設定 - Marketo
 title: Marketo Engage フォームの対話型フローの設定
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 100%
@@ -54,7 +54,7 @@ Marketo Engage フォームを Dynamic Chat 対話型フローと統合して、
    >
    >静的／スマートリストのメンバーとして資格を得るには、フォーム送信の前に訪問者のブラウザーを既知のユーザとして cookie にする必要があります。
 
-   **オプションの手順**：各手順内の「**+**」記号をクリックして属性を追加すると、オーディエンスを絞り込むことができます（使用可能な属性は、フォームで選択したフィールドです）。次の例では、カリフォルニア州のアドビテクニカルライターをターゲットにしています。
+   **オプションの手順**：各手順内の「**+**」記号をクリックして属性を追加すると、オーディエンスを絞り込むことができます（使用可能な属性は、フォームで選択したフィールドです）。次の例では、カリフォルニア州のアドビテクニカルライターをターゲティングしています。
 
    ![](assets/conversational-flow-settings-8.png)
 

@@ -4,16 +4,16 @@ description: Sales Connect アカウントの Salesforce への接続 - Marketo 
 title: Sales Connect アカウントの Salesforce への接続
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
 # Sales Connect アカウントの Salesforce への接続 {#connect-your-sales-connect-account-to-salesforce}
 
-[!DNL Sales Connect] を [!DNL Salesforce] に接続するには、次の簡単な手順に従います。
+次の簡単な手順に従って、[!DNL Sales Connect] を [!DNL Salesforce] に接続します。
 
 ## 管理者として接続する方法 {#how-to-connect-as-an-admin}
 
@@ -21,11 +21,11 @@ ht-degree: 61%
 
    ![](assets/one.png)
 
-1. [!UICONTROL &#x200B; Admin Settings] で、**[!UICONTROL Salesforce]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」で「**[!UICONTROL Salesforce]**」をクリックします。
 
    ![](assets/six.png)
 
-1. [[!UICONTROL &#x200B; 接続とカスタマイズ &#x200B;]] タブで、[**[!UICONTROL 接続]**] をクリックします。
+1. 「[!UICONTROL 接続とカスタマイズ]」タブで、「**[!UICONTROL 接続]**」をクリックします。
 
    ![](assets/seven.png)
 
@@ -41,11 +41,11 @@ ht-degree: 61%
 
    ![](assets/one.png)
 
-1. [!UICONTROL &#x200B; マイアカウント &#x200B;] で、**[!UICONTROL Salesforce]** を選択します。
+1. [!UICONTROL マイアカウント]で、「**[!UICONTROL Salesforce]**」を選択します。
 
    ![](assets/two.png)
 
-1. [[!UICONTROL &#x200B; 接続とカスタマイズ &#x200B;]] タブで、[**[!UICONTROL 接続]**] をクリックします。
+1. 「[!UICONTROL 接続とカスタマイズ]」タブで、「**[!UICONTROL 接続]**」をクリックします。
 
    ![](assets/three.png)
 

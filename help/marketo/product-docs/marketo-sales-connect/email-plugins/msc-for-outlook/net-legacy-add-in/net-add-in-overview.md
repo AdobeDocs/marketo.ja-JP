@@ -4,10 +4,10 @@ description: .NET アドインの概要 — Marketo ドキュメント — 製�
 title: .NET アドインの概要
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -27,14 +27,14 @@ ht-degree: 80%
 
 「**[!UICONTROL カレンダー]**」ボタンを押して、都合の良い時間を受信者に知らせます。
 
-これにより、[!DNL Outlook] のカレンダーを取り込み、空いている特定の日付と時刻を追加し、情報をメールに追加できます。
+[!DNL Outlook] のカレンダーが取り込まれます。空いている特定の日時を追加して、メールにこの情報を追加できます。
 
 ## テンプレートの取り込み {#pulling-in-a-template}
 
-[!DNL Outlook] テンプレート **[!UICONTROL ボタンを押して、事前定義済みの Tout テンプレートを]** メッセージに取り込みます。
+事前に作成した Tout テンプレートを [!DNL Outlook] メッセージに取り込むには、「**[!UICONTROL テンプレート]**」ボタンをクリックします。
 
 アドビは、すべての個人用テンプレートおよびチーム間の共有テンプレートと同期します。また、最後に使用したテンプレートと最も頻繁に使用するテンプレートは自動的に取り込まれ、簡単にアクセスできます。
 
-## [!UICONTROL &#x200B; ログアウト &#x200B;] ボタン {#the-tout-it-button}
+## 「[!UICONTROL Tout It]」ボタン {#the-tout-it-button}
 
 パーソナライズされたメールを入力して、準備が整ったら、常に「**[!UICONTROL Tout It]**」ボタンをクリックしてトラッキングするようにしてください。「トラッキングの魔法を追加しているのでお待ちください。」というボックスが表示されます。

@@ -4,10 +4,10 @@ description: 新しいウィジェット Web キャンペーンを作成する �
 title: 新しいウィジェット Web キャンペーンを作成する
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '629'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -95,7 +95,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
 >[!NOTE]
 >
->**Web キャンペーンの A/B テストを実施する場合、最適な結果を得るために、1 つ以上の Web キャンペーンの** A/B テスト[を実施できます。](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md) [!UICONTROL &#x200B; 自動調整 &#x200B;] 機能を使用すると、プラットフォームはよりパフォーマンスの高いキャンペーンを自動的に認識し、コンバージョン率が最も高いキャンペーンを続行し、他のキャンペーンを一時停止します。
+>**Web キャンペーンの A/B テストを実施する場合、最適な結果を得るために、1 つ以上の Web キャンペーンの** A/B テスト[を実施できます。](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)[!UICONTROL 自動チューニング]機能によって、パフォーマンスの良いキャンペーンが自動的に認識され、最もコンバージョンの高いキャンペーンが続行されて他のキャンペーンは一時停止されます。
 
 ## Web キャンペーンを編集する {#edit-a-web-campaign}
 
@@ -113,7 +113,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
 ## Web キャンペーンをプレビューする {#preview-a-web-campaign}
 
-[!UICONTROL Web キャンペーン &#x200B;] ページで、プレビューする Web キャンペーンの **[!UICONTROL プレビュー]** をクリックします
+[!UICONTROL Web キャンペーン]ページで、確認する web キャンペーンの「**[!UICONTROL プレビュー]**」をクリックします。
 
 ![](assets/widget-campaign-preview-hand.png)
 

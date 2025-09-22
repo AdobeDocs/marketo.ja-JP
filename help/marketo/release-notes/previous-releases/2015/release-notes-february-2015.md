@@ -4,8 +4,8 @@ description: リリースノート - 2015年2月 - Marketo ドキュメント - 
 title: リリースノート - 2015年2月
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 2015年2月リリースには、次の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。お待たせしました。
 
-## マーケティング自動化の強化 {#marketing-automation-enhancements}
+## マーケティングオートメーションの強化 {#marketing-automation-enhancements}
 
 **[スマートキャンペーンの移動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
@@ -47,6 +47,6 @@ SSL3 のサポートを削除します。古い web ブラウザーのサポー�
 
 ![](assets/image2015-2-19-11-3a0-3a30.png)
 
-**アカウントベースターゲットへの国と都道府県の追加**
+**アカウントベースターゲティングへの国と都道府県の追加**
 
 ネームドアカウントリストに国と都道府県が追加できます。特定のロケーションからのキーアカウントを絞りこめます。

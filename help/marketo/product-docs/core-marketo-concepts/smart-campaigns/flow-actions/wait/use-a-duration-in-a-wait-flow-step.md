@@ -4,8 +4,8 @@ description: 待機フローステップで停止期間を使用 - Marketo ド�
 title: 待機フローステップで停止期間を使用
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 100%
 

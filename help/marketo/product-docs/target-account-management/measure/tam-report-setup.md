@@ -4,10 +4,10 @@ description: TAMレポートの設定 - Marketo ドキュメント - 製品ド�
 title: TAM レポートの設定
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ TAM セールスレポートは、アカウントチームに毎週送信され�
 
    ![](assets/tam-report-setup-2.png)
 
-1. [!UICONTROL &#x200B; 週別レポート &#x200B;] の下の **[!UICONTROL 編集]** をクリックします。
+1. 「[!UICONTROL 週別レポート]」で、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/three-3.png)
 
@@ -67,7 +67,7 @@ TAM セールスレポートは、アカウントチームに毎週送信され�
 
    ![](assets/tam-report-setup-10.png)
 
-1. [!UICONTROL &#x200B; 週別レポート &#x200B;] の下で、&lbrack; 登録解除 [!UICONTROL &#x200B; として表示されている番号をクリック &#x200B;] ます。
+1. 「[!UICONTROL 週別レポート]」で、「[!UICONTROL 登録解除]」と表示されている数をクリックします。
 
    ![](assets/nine.png)
 

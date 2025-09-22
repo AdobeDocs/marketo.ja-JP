@@ -4,10 +4,10 @@ description: フォームを含むランディングページ - Marketo ドキ�
 title: フォームを含むランディングページ
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '552'
-ht-degree: 100%
+source-wordcount: '550'
+ht-degree: 98%
 
 ---
 
@@ -179,6 +179,6 @@ ht-degree: 100%
 
 <br> 
 
-[◄ ミッション 1：一斉配信メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[◄ ミッション 1:E メール ブラストの送信](/help/marketo/getting-started/quick-wins/send-an-email.md)
 
-[ミッション 3：シンプルなスコアリング ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)
+[ミッション 3：簡単なスコアリング ►](/help/marketo/getting-started/quick-wins/simple-scoring.md)

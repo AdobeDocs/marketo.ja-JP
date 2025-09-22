@@ -1,23 +1,23 @@
 ---
 unique-page-id: 37355600
-description: MS [!DNL Dynamics] Instance から MSI をアンインストールする – Marketo ドキュメント – 製品情報
-title: MS [!DNL Dynamics] Instance から MSI をアンインストールする
+description: MS  [!DNL Dynamics]  インスタンスから MSI をアンインストール - Marketo ドキュメント - 製品ドキュメント
+title: MS  [!DNL Dynamics]  インスタンスから MSI をアンインストール
 exl-id: 86e8dbc9-236f-42ad-96e8-cdb1b4c3bed2
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 38%
+ht-degree: 100%
 
 ---
 
-# MS [!DNL Dynamics] インスタンスから MSI をアンインストールする {#uninstall-msi-from-your-ms-dynamics-instance}
+# MS [!DNL Dynamics] インスタンスから MSI をアンインストール {#uninstall-msi-from-your-ms-dynamics-instance}
 
-MS [!DNL Dynamics] インスタンスから MSI をアンインストールするには、Marketoと MS [!DNL Dynamics] の両方で手順を実行する必要があります。
+MS [!DNL Dynamics] インスタンスから MSI をアンインストールするには、Marketo と MS [!DNL Dynamics] の両方で手順を実行する必要があります。
 
 >[!PREREQUISITES]
 >
->[ グローバル MS [!DNL Dynamics] Sync の無効化 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
+>[グローバル MS  [!DNL Dynamics]  同期の無効化](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/uninstalling/disable-global-ms-dynamics-sync.md)
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -45,12 +45,12 @@ MS [!DNL Dynamics] インスタンスから MSI をアンインストールす�
 
 1. 「**[!UICONTROL ソリューション]**」をクリックします。
 
-1. **[!UICONTROL Marketo Sales Insight]** を選択し、削除アイコンをクリックします。
+1. **[!UICONTROL Marketo セールスインサイト]**&#x200B;を選択し、削除アイコンをクリックします。
 
 1. ソリューションをアンインストールモーダルが表示されたら、「**[!UICONTROL OK]**」をクリックします。
 
-   MS [!DNL Dynamics] ソリューションが完全にアンインストールされるまで、通常は約 20 分かかります。 ただし、MS [!DNL Dynamics] インスタンスが大きい場合は、少し時間がかかる場合があります。
+   MS [!DNL Dynamics] ソリューションが完全にアンインストールされるまで、通常 20 分ほどかかります。ただし、大きな MS [!DNL Dynamics] インスタンスがある場合は、もう少し時間がかかる場合があります。
 
    >[!NOTE]
    >
-   >MSI をアンインストールしたら、必ずグローバル MS [!DNL Dynamics] 同期を有効にしてください。
+   >MSI をアンインストールしたら、必ずグローバル MS [!DNL Dynamics] 同期をオンにしてください。

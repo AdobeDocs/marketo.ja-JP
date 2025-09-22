@@ -3,7 +3,7 @@ description: リリースノート - 2022 年 10 月 - Marketo ドキュメン�
 title: リリースノート - 2022 年 10 月
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '603'
 ht-degree: 94%
@@ -58,7 +58,7 @@ ht-degree: 94%
 
 </br>
 
-* **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、トグルスイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
+* **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、切替スイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
    * ランディングページテンプレートの詳細
    * メールテンプレートリスト

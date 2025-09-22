@@ -4,10 +4,10 @@ description: メールスクリプトトークンを作成する — Marketo ド
 title: メールスクリプトトークンを作成する
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '218'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 88%
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. メールスクリプトトークンに名前を付け、そのコンテンツを **[!UICONTROL クリックして編集]** します。
+1. メールスクリプトトークンに名前を付け、**[!UICONTROL クリックして内容を編集]**&#x200B;します。
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. 右側のツリーを使用して、**[!UICONTROL Person]**、**[!UICONTROL Opportunity]**、**[!UICONTROL Custom Object]** トークンをドラッグします。
+1. 右側のツリーを使用して、**[!UICONTROL リード]**、**[!UICONTROL 商談]**、または&#x200B;**[!UICONTROL カスタムオブジェクト]**&#x200B;トークンをドラッグします。
 
    ![](assets/five-2.png)
 

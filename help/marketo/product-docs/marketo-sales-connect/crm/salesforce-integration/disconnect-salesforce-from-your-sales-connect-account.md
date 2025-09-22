@@ -4,16 +4,16 @@ description: Salesforce を Sales Connect アカウントから切断 - Marketo 
 title: Salesforce を Sales Connect アカウントから切断
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 43%
+ht-degree: 100%
 
 ---
 
 # Salesforce を Sales Connect アカウントから切断 {#disconnect-salesforce-from-your-sales-connect-account}
 
-場合によっては、[!DNL &#x200B; Salesforce] アカウントを [!DNL Sales Connect] アカウントから切断する必要があります。 手順は以下のとおりです。
+[!DNL  Salesforce] アカウントを [!DNL Sales Connect] アカウントから切断する必要が生じる場合があります。手順は次のとおりです。
 
 ## Salesforce から管理者として切断する方法 {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -21,24 +21,24 @@ ht-degree: 43%
 
    ![](assets/one-1.png)
 
-1. [!UICONTROL &#x200B; Admin Settings] で、**[!UICONTROL Salesforce]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」で「**[!UICONTROL Salesforce]**」をクリックします。
 
    ![](assets/six-1.png)
 
-1. [[!UICONTROL &#x200B; 接続とカスタマイズ &#x200B;]] タブで、[**[!UICONTROL 切断]**] をクリックします。
+1. 「[!UICONTROL 接続とカスタマイズ]」タブで、「**[!UICONTROL 切断]**」をクリックします。
 
    ![](assets/seven-1.png)
 
 ## 管理者以外のユーザとして Salesforce との接続を切断する方法 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. [!DNL &#x200B; Sales Connect] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
+1. [!DNL  Sales Connect] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one-1.png)
 
-1. [!UICONTROL &#x200B; マイアカウント &#x200B;] で、**[!UICONTROL Salesforce]** を選択します。
+1. 「[!UICONTROL マイアカウント]」で、「**[!UICONTROL Salesforce]**」を選択します。
 
    ![](assets/two-1.png)
 
-1. [[!UICONTROL &#x200B; 接続とカスタマイズ &#x200B;]] タブで、[**[!UICONTROL 切断]**] をクリックします。
+1. 「[!UICONTROL 接続とカスタマイズ]」タブで、「**[!UICONTROL 切断]**」をクリックします。
 
    ![](assets/3333.png)

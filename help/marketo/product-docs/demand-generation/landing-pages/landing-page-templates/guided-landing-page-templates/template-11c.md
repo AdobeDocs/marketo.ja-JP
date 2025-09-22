@@ -4,7 +4,7 @@ description: テンプレート 11C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 11C
 exl-id: 7398604e-5a38-4630-b28e-31dc16cfcec3
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 79%
@@ -13,7 +13,7 @@ ht-degree: 79%
 
 # テンプレート 11C {#template-11c}
 
-右クリックして[テンプレート 11C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html?lang=ja)します
+右クリックして[テンプレート 11C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)します
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
@@ -26,4 +26,4 @@ ht-degree: 79%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html?lang=ja)
+[Template 11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)

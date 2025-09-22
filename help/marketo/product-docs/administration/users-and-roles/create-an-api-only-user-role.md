@@ -4,8 +4,8 @@ description: API 専用ユーザーロールの作成 - Marketo ドキュメン�
 title: API 専用ユーザーロールの作成
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 

@@ -4,10 +4,10 @@ description: 「選択して送信」による一括メールの作成 - Marketo
 title: 「選択して送信」による一括メールの作成
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '404'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 98%
 
 ## メールの送信 {#sending-emails}
 
-1. **[!UICONTROL 人物]** ページに移動します。
+1. **[!UICONTROL 人物]**&#x200B;ページに移動します。
 
    ![](assets/one-2.png)
 

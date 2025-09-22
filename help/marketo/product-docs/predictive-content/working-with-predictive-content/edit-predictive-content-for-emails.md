@@ -4,10 +4,10 @@ description: メールの予測コンテンツの編集 - Marketo ドキュメ�
 title: メールの予測コンテンツの編集
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 94%
 
 >[!PREREQUISITES]
 >
->コンテンツは、[ すべてのコンテンツ ](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) ページの [!UICONTROL &#x200B; 予測コンテンツ向けの承認 &#x200B;] が必要です。
+>[!UICONTROL すべてのコンテンツ]ページで、コンテンツが[予測コンテンツに対して承認されている](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)必要があります。
 
-1. [!UICONTROL 予測コンテンツ]ページで、「タイトル」をクリックして、エディターを開きます
+1. [!UICONTROL 予測コンテンツ]ページで、「タイトル」をクリックして、エディターを開きます。
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 

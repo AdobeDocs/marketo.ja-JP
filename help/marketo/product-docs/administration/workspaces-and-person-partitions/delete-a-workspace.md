@@ -4,7 +4,7 @@ description: ワークスペースの削除 - Marketo ドキュメント - 製�
 title: ワークスペースの削除
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 100%

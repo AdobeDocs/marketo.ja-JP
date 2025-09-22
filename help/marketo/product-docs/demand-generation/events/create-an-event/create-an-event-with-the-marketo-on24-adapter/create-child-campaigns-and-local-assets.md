@@ -4,10 +4,10 @@ description: 子キャンペーンとローカルアセットの作成 - Marketo
 title: 子キャンペーンとローカルアセットの作成
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '665'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ Design Studio を使用して、子キャンペーンとローカルアセット
 
 担当者が ON24 に適切に登録されるようにするには、次のフィールドを Marketo フォームに含める必要があります。
 
-* 名
-* 姓
+* 名前（名）
+* 名前（姓）
 * メールアドレス
 
 次のフィールドを ON24 にプッシュすることもできます。
@@ -73,7 +73,7 @@ Marketo を使用して、イベントの確認メールを送信します。担
 
 >[!NOTE]
 >
->Marketo以外のランディングページでMarketo フォームを使用している場合、トリガーは **[!UICONTROL フォーム名]** で [!UICONTROL &#x200B; フォームに入力 &#x200B;] されます。
+>Marketo 以外のランディングページで Marketo フォームを使用している場合、トリガーは、[!UICONTROL フォーム名]を含む&#x200B;**[!UICONTROL フォームへの記入]**&#x200B;になります。
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 

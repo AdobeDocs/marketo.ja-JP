@@ -4,10 +4,10 @@ description: フォームへの国選択リストの追加 - Marketo ドキュ�
 title: フォームへの国選択リストの追加
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 98%
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. **[!UICONTROL 詳細エディター]** をクリックします。
+1. 「**[!UICONTROL 詳細エディター]**」をクリックします。
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 

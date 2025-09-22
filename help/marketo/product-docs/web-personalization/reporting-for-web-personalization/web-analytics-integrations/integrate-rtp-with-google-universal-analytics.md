@@ -4,24 +4,24 @@ description: RTP を Google ユニバーサルアナリティクスに連携す�
 title: RTP を Google ユニバーサルアナリティクスに連携する
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
-# RTP と [!DNL Google Universal Analytics] の統合 {#integrate-rtp-with-google-universal-analytics}
+# RTP を [!DNL Google Universal Analytics] に統合 {#integrate-rtp-with-google-universal-analytics}
 
 ## はじめに {#intro}
 
-[!DNL Google Universal Analytics] （GUA）と [!DNL Marketo Real-Time Personalization] （RTP）の地図データおよびパーソナライゼーションデータを活用して、オンラインマーケティングの取り組みをより適切に測定および分析します。
+[!DNL Marketo Real-Time Personalization]（RTP）の企業情報データやパーソナライゼーションデータと [!DNL Google Universal Analytics]（GUA）を併用すると、オンラインマーケティングの取り組みについて、測定と分析の精度が向上します。
 
-この投稿では、[!DNL Marketo Real-Time Personalization] （RTP）プラットフォームを設定し、[!DNL Google Universal Analytics] （GUA）アカウントと統合する方法について説明します。 RTP データを GUA アカウントに追加すると、Web サイト訪問者のパフォーマンスを組織、業種、ファーモグラフィック、RTP セグメント別に確認することができます。
+ここでは、[!DNL Google Universal Analytics]（GUA）アカウントを設定して [!DNL Marketo Real-Time Personalization]（RTP）プラットフォームと統合する方法について説明します。RTP データを GUA アカウントに追加すると、web サイト訪問者のパフォーマンスを組織、業種、ファーモグラフィック、RTP セグメント別に確認することができます。
 
 **[!DNL Google Universal Analytics]**
 
-RTP のデータを [!DNL Google Universal Analytics] 用すると、B2B ユーザーがオンラインコンテンツとどのようにやり取りするかをより深く理解でき、パーソナライゼーションキャンペーンからより良い結果を測定し得るのに役立ちます。 [ 詳細情報  [!DNL Google Universal Analytics]](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1)。
+[!DNL Google Universal Analytics] と RTP のデータを見ると、B2B のユーザがオンラインコンテンツをどう使っているかがよくわかり、パーソナライゼーションキャンペーンを測定して有効に活用できます。[詳しくは、 [!DNL Google Universal Analytics] を参照してください。](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1)。
 
 >[!NOTE]
 >
@@ -29,10 +29,10 @@ RTP のデータを [!DNL Google Universal Analytics] 用すると、B2B ユー�
 >
 >コーディングや特殊な設定は必要ありません。次のチェックリストを確認してください。
 >
->* RTP ディメンションは [!DNL Google Universal Analytics] で作成されます
+>* RTP ディメンションは [!DNL Google Universal Analytics] で作成されている
 >* [RTP のタグが、Google タグマネージャーで正しくインストールされている](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
->* [!DNL Google Universal Analytics] 統合は、RTP のアカウント設定で有効になっています
->* [[!DNL Google Universal Analytics] Google Tag Manager でタグが正しく設定されている ](https://support.google.com/tagmanager/answer/6107124?hl=ja)
+>* [!DNL Google Universal Analytics] の統合が、RTP のアカウント設定で有効にされている
+>* [[!DNL Google Universal Analytics]  のタグが、Google タグマネージャーで正しく設定されている](https://support.google.com/tagmanager/answer/6107124?hl=ja)
 >* [Google タグマネージャーのタグが、Web サイトに適切にインストールされている](https://developers.google.com/tag-manager/quickstart)
 
 ## GUA でカスタムディメンションを設定する {#set-up-custom-dimensions-in-gua}
@@ -40,17 +40,16 @@ RTP のデータを [!DNL Google Universal Analytics] 用すると、B2B ユー�
 1. Google Analytics で、以下の手順を実行します。
 
    1. 「**[!UICONTROL 管理]**」に移動します
-   1. **[!UICONTROL アカウント &#x200B;].** を選択します
-   1. **[!UICONTROL プロパティ &#x200B;].** を選択します。
+   1. 「**[!UICONTROL アカウント]」を選択します。**
+   1. 「**[!UICONTROL プロパティ]」を選択します。**
    1. 「**[!UICONTROL カスタム定義]**」の「**[!UICONTROL カスタムディメンション]**」を選択します。
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. 新しいカスタムディメンションを追加します。「**[!UICONTROL +新規カスタムフィールド]**」をクリックします
 
    ![](assets/image2014-11-29-11-3a8-3a16.png)
 
-1. 次の **[!UICONTROL カスタムディメンション &#x200B;] を追加します。**
+1. 次の&#x200B;**[!UICONTROL カスタムディメンション]を追加します。**
 
 <table>
  <tbody>
@@ -98,13 +97,13 @@ GUA でカスタムディメンションをアクティブにしたら、RTP プ
 
 ## RTP アカウントで、GUA 連携を有効にする {#activate-the-gua-integration-in-your-rtp-account}
 
-1. RTP プラットフォームで、**[!UICONTROL アカウント設定 &#x200B;].** に移動します。
+1. RTP プラットフォームで、「**[!UICONTROL アカウント設定]」に移動します。**
 
    ![](assets/image2014-11-29-11-3a27-3a7.png)
 
 1. 「**[!UICONTROL アカウント設定]**」で、「**[!UICONTROL ドメイン]**」をクリックします。
 1. 「**[!UICONTROL Analytics]**」で、「**[!UICONTROL Google ユニバーサルアナリティクス]**」をクリックします。
-1. 関連するカスタムディメンションとイベントを **[!UICONTROL オン]** にして、RTP からこのデータを [!DNL Google Universal Analytics] に追加します。
+1. 該当する「カスタムディメンション」と「イベント」を&#x200B;**[!UICONTROL オン]**&#x200B;にして、このデータを RTP から [!DNL Google Universal Analytics] に追加します。
 1. GUA のインデックス番号に合わせたディメンションの&#x200B;**[!UICONTROL インデックス番号]**&#x200B;を入力します。
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
@@ -118,9 +117,9 @@ GUA でカスタムディメンションをアクティブにしたら、RTP プ
 
 ## Google Analytics で古いダッシュボードを削除する {#remove-old-dashboards-in-google-analytics}
 
-1. Google Analytics で、以下の手順を実行します。**[!UICONTROL レポート &#x200B;].** に移動します。
-1. **[!UICONTROL ダッシュボード &#x200B;].** をクリックします。
-1. **[!UICONTROL マイレポート]**&#x200B;を選択します（「RTP B2B」または「RTP Performance」）。
-1. 「**[!UICONTROL マイレポートを削除]**」をクリックします。
+1. Google Analytics で、以下の手順を実行します。「**[!UICONTROL レポート]」に移動します。**
+1. 「**[!UICONTROL ダッシュボード]」をクリックします。**
+1. **[!UICONTROL ダッシュボード]**&#x200B;を選択します（「RTP B2B」または「RTP Performance」）。
+1. 「**[!UICONTROL ダッシュボードを削除]**」をクリックします。
 
 ![](assets/image2014-11-29-11-3a42-3a55.png)

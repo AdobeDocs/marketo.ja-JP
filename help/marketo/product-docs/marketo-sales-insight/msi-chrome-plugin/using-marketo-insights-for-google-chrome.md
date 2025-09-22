@@ -4,20 +4,20 @@ description: Google Chrome 用 Marketo Insights の使用 - Marketo ドキュメ
 title: Google Chrome 用 Marketo Insights の使用
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# [!DNL Google Chrome] でのMarketo Insights の使用 {#using-marketo-insights-for-google-chrome}
+# [!DNL Google Chrome] 用 Marketo Insights の使用 {#using-marketo-insights-for-google-chrome}
 
-Marketo Insights for [!DNL Google Chrome] を含むGoogle メールを送信および追跡します。
+[!DNL Google Chrome] 用 Marketo Insights を使用して、Google メールを送信し、追跡します。
 
 >[!PREREQUISITES]
 >
->[Marketo Insights のインストール対象  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+>[ [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ Marketo Insights for [!DNL Google Chrome] を含むGoogle メールを送信お�
    >
    >メッセージは、「**[!UICONTROL 送信]**」ボタンがパープルの場合のみトラッキングされます。
 
-1. メールはすぐに Marketo Sales Insight に表示され、すべての開封数とクリック数がトラッキングされます。
+1. メールはすぐに Marketo セールスインサイトに表示され、すべての開封数とクリック数がトラッキングされます。
 
    ![](assets/image2015-4-23-16-3a59-3a43.png)
 
@@ -75,5 +75,5 @@ Marketo Insights for [!DNL Google Chrome] を含むGoogle メールを送信お�
 
    >[!MORELIKETHIS]
    >
-   >* [Marketo Insights のインストール対象  [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
-   >* [Google メールでリードとアカウントの情報とアクティビティを表示](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
+   >* [ [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
+   >* [Google メールで人物とアカウントの情報とアクティビティを表示](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

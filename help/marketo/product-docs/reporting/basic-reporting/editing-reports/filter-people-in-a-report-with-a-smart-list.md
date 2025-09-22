@@ -4,8 +4,8 @@ description: スマートリストを使ってレポートでリードをフィ�
 title: スマートリストを使ってレポートでリードをフィルターする
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 

@@ -4,16 +4,16 @@ description: Wordpress Enterprise での RTP の実装 - Marketo ドキュメン
 title: Wordpress Enterprise での RTP の実装
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
 # Wordpress Enterprise での RTP の実装 {#implementing-rtp-on-wordpress-enterprise}
 
-[!UICONTROL RTP タグを実装するには &#x200B;] 以下のインストール手順に従ってください。
+[!UICONTROL RTP タグ]を実装するには、次のインストール手順に従います。
 
 1. 「**[!UICONTROL アカウント設定]**」に移動します。
 
@@ -21,13 +21,13 @@ ht-degree: 72%
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. [!UICONTROL &#x200B; ドメイン &#x200B;] の下で関連するドメインを見つけて、「**[!UICONTROL タグを生成]**」をクリックします。
+1. 「[!UICONTROL ドメイン]」で、該当するドメインを選択し、「**[!UICONTROL タグを生成]**」をクリックします。
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
 1. RTP JavaScript タグをコピーします。
 
-1. [!DNL WordPress] アカウントに管理者ユーザーとしてログインします
+1. [!DNL WordPress] アカウントに管理者ユーザとしてログインします。
 
    a. **[!UICONTROL 表示方法]**&#x200B;の下にある「**[!UICONTROL カスタム JavaScript]**」に移動します。b. RTP JavaScript タグを既存のコードの直後にペーストします。
 

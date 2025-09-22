@@ -4,10 +4,10 @@ description: プログラムチャネルの表示設定の切り替え - Marketo
 title: プログラムチャネルの表示設定の切り替え
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -41,6 +41,6 @@ ht-degree: 90%
 
 ## プログラムチャネルを再表示する {#unhide-a-program-channel}
 
-1. プログラムチャネルの非表示を解除するには、「**[!UICONTROL 非表示を表示]**」チェックボックスをオンにします。
+1. プログラムチャネルを再表示するには、「**[!UICONTROL 非表示項目の表示]**」チェックボックスをオンにします。
 
    ![](assets/hide-unhide-a-program-channel-5.png)

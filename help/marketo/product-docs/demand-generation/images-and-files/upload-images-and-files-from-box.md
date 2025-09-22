@@ -4,10 +4,10 @@ description: Box から画像とファイルをアップロードする — Mark
 title: Box から画像とファイルをアップロードする
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -27,15 +27,15 @@ ht-degree: 83%
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
-1. [!DNL Box] ログインを入力します。
+1. [!DNL Box] のログイン情報を入力します。
 
    ![](assets/image2014-9-16-12-3a51-3a10.png)
 
-1. Marketoが [!DNL Box] アカウントにアクセスできるようにします。
+1. Marketo から [!DNL Box] アカウントへのアクセスを許可します。
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. ファイルを保存する場所を選択します。次に、アップロード元の **[!DNL Box]** フォルダーを選択します。 「**[!UICONTROL 次へ]**」をクリックします。
+1. ファイルを保存する場所を選択します。次に、アップロード元の **[!DNL Box]** フォルダーを選択します。「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 

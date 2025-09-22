@@ -4,7 +4,7 @@ description: テンプレート 19C - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 19C
 exl-id: 9f518caf-2270-46d8-b9ce-3b11b10af338
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 19C {#template-19c}
 
-右クリックして[テンプレート 19C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html?lang=ja)します
+右クリックして[テンプレート 19C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)します
 
 ![](assets/image2015-9-16-16-3a52-3a26.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html?lang=ja)
+[Template 19C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19c.html)

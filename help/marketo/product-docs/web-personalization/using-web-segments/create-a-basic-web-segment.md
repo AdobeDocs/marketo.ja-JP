@@ -4,10 +4,10 @@ description: 基本的な web セグメントの作成 - Marketoドキュメン�
 title: 基本的な web セグメントの作成
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 92%
 
    ![](assets/industries-hand.jpg)
 
-1. ドロップダウンから追加する [!UICONTROL &#x200B; 業種 &#x200B;] を選択します。 **[!UICONTROL 金融サービス &#x200B;] 業界** を選択します。
+1. ドロップダウンから追加する[!UICONTROL 業種]を選択します。「**[!UICONTROL 金融サービス]業界**」を選択します。
 
    ![](assets/segment-industries.png)
 

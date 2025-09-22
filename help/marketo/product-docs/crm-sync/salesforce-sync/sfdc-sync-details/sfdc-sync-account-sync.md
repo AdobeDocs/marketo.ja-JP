@@ -4,16 +4,16 @@ description: SFDC の同期 - アカウントの同期 - Marketo ドキュメン
 title: SFDC の同期 - アカウントの同期
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
-# SFDC 同期：アカウントの同期 {#sfdc-sync-account-sync}
+# SFDC の同期：アカウントの同期 {#sfdc-sync-account-sync}
 
-Marketoは、アカウント情報も [!DNL Salesforce] と同期します。 次に、知っておくべき点をいくつか示します。
+Marketo は、アカウント情報を [!DNL Salesforce] と同期します。次に、知っておくべき点をいくつか示します。
 
 ## 情報の同期方向 {#which-way-does-the-information-sync}
 
@@ -35,6 +35,6 @@ Marketo で取引先責任者の「アカウント」フィールドを更新す
 >
 >このフローステップの使用例は非常に限られています。確かでないなら、使わない方がいいです。
 
-## [!DNL Salesforce] のアカウントフィールドを変更すると、各連絡先のデータ値を変更アクティビティログに記録されますか？  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
+## [!DNL Salesforce] の「アカウント」フィールドに変更を加えると、各取引先責任者のデータ値を変更アクティビティログが表示されますか？  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
 
-ほとんどの場合されます。ただし、アカウントに 5,000 人を超える取引先責任者が存在し、そのアカウントのフィールドが SFDC で変更された場合は、変更を同期しますが、5,000 人を超える取引先責任者のアクティビティはログに記録されません。
+ほとんどの場合は、表示されます。ただし、アカウントに 5,000 人を超える取引先責任者が存在し、そのアカウントのフィールドが SFDC で変更された場合は、変更を同期しますが、5,000 人を超える取引先責任者のアクティビティはログに記録されません。

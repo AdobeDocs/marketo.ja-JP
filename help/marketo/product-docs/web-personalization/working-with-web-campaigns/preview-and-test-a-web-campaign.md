@@ -4,10 +4,10 @@ description: Web キャンペーンのプレビューとテスト - Marketo ド�
 title: Web キャンペーンのプレビューとテスト
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '394'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 83%
 
 ## Web キャンペーンの作成ページでのプレビュー {#preview-a-web-campaign-on-the-creation-page}
 
-1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
+1. 「**[!UICONTROL Web キャンペーン]**」に移動します。
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
@@ -39,13 +39,13 @@ ht-degree: 83%
 
    >[!NOTE]
    >
-   >また、キャンペーンのプレビューを最適に行うために、ブラウザープラグイン（[[!DNL Chrome]](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) または [[!DNL Firefox]](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)）をインストールするオプションもあります。 以下の節を参照してください。
+   >また、キャンペーンをプレビューする際のエクスペリエンスを最大限に高めるには、ブラウザープラグイン（[[!DNL Chrome]](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) または [[!DNL Firefox]](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)）をインストールすることもできます。以下の節を参照してください。
 
 ## ブラウザープラグインを使用した作成ページでの web キャンペーンのプレビュー {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. 上記の節の手順 1 および 2 に従います。
 
-1. ブラウザープラグインへのリンクをクリックします（この場合は [!DNL Chrome] を使用します）。
+1. ブラウザープラグインへのリンクをクリックします（この場合は [!DNL Chrome] を使用）。
 
    ![](assets/4-1.png)
 
@@ -87,7 +87,7 @@ ht-degree: 83%
 
 1. セグメントに名前を付けます。
 
-1. [!UICONTROL &#x200B; 行動 &#x200B;] の下の [!UICONTROL &#x200B; ページを含める &#x200B;] をキャンバスにドラッグします。 値 &#42;sandbox=1&#42; を追加します。 「**[!UICONTROL キャンペーンの保存と定義]**」をクリックします。
+1. 「[!UICONTROL 行動]」の下で、「[!UICONTROL ページを含める]」をキャンバスにドラッグします。値 &#42;sandbox=1&#42; を追加します。「**[!UICONTROL キャンペーンの保存と定義]**」をクリックします。
 
    ![](assets/segment.png)
 
@@ -109,4 +109,4 @@ ht-degree: 83%
 
 >[!NOTE]
 >
->リダイレクトキャンペーンをプレビューすることはできません。サンドボックスセグメント（特定のページをターゲットにする – &#42;sandbox=redirect&#42;）を使用してのみ、セグメントをテストできます
+>リダイレクトキャンペーンをプレビューすることはできません。これらをテストする唯一の方法は、（特定のページでターゲットにする）サンドボックスセグメントを使用することです（&#42;sandbox=redirect&#42;）

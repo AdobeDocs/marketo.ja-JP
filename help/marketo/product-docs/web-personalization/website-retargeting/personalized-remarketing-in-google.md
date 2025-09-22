@@ -4,10 +4,10 @@ description: Google でのパーソナライズリマーケティング — Mark
 title: Google でのパーソナライズリマーケティング
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 74%
 
 >[!PREREQUISITES]
 >
->* [ データを使用したリターゲティング  [!DNL Web Personalization]  設定を完了 ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) ます
+>* [ [!DNL Web Personalization]  データを使用したリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)の設定の完了
 >* [リマーケティングと Google Analytics のヘルプ](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645)ドキュメントを確認してください。
 
 ## Google でのリマーケティングオーディエンスの作成 {#creating-a-remarketing-audience-in-google}
@@ -30,11 +30,11 @@ ht-degree: 74%
 
    ![](assets/image2015-1-15-17-3a26-3a40.png)
 
-1. **[!UICONTROL リンク設定]**:[!DNL Google Adwords] アカウントにリンクします。 **[!UICONTROL オーディエンスを定義]**：「**[!UICONTROL 新規作成]**」をクリックします。
+1. **[!UICONTROL リンク設定]**：[!DNL Google Adwords] アカウントにリンクします。**[!UICONTROL オーディエンスを定義]**：「**[!UICONTROL 新規作成]**」をクリックします。
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. Audience Builder で、「**[!UICONTROL カスタムディメンション]**」の下の **[!UICONTROL シーケンス]** と [!UICONTROL RTP データを検索 &#x200B;] をクリックします [!UICONTROL UICONTROL [ !] カスタム変数 &#x200B;]、[!UICONTROL &#x200B; イベント &#x200B;]。
+1. Audience Builder で、「**[!UICONTROL シーケンス]**」をクリックして、「**[!UICONTROL RTP データを検索]**」を「[!UICONTROL カスタムディメンション]」、「[!UICONTROL [!]UICONTROL カスタム変数]」、「[!UICONTROL イベント]」の下でクリックします。
 
 >[!TIP]
 >
@@ -54,8 +54,8 @@ ht-degree: 74%
 
 **RTP セグメント化されたオーディエンスデータからのリマーケティングオーディエンスの例**
 
-1. **[!UICONTROL シーケンス &#x200B;].** をクリックします
-1. **[!UICONTROL イベントラベル &#x200B;].** を選択
+1. 「**[!UICONTROL シーケンス]」をクリックします。**
+1. 「**[!UICONTROL イベントラベル]」を選択します。**
 1. **[!UICONTROL セグメント化されたオーディエンス名]**&#x200B;を入力します（RTP で表示されるように）。
 1. 「**[!UICONTROL 適用]**」をクリックします。
 
@@ -67,7 +67,7 @@ ht-degree: 74%
 
 1. 「**[!UICONTROL シーケンス]**」をクリックします。
 1. 「**[!UICONTROL RTP-Industry]**」を選択します。
-1. **業界名**&#x200B;を入力します（例：[!UICONTROL &#x200B; 金融機関 &#x200B;]、[!UICONTROL &#x200B; 教育 &#x200B;]...）。
+1. **業界名**&#x200B;を入力します（例：[!UICONTROL 金融サービス]、[!UICONTROL 教育]…）。
 1. 「**[!UICONTROL 適用]**」をクリックします。
 1. **[!UICONTROL オーディエンス名]**&#x200B;を入力します。「**[!UICONTROL 保存]**」をクリックします。
 
@@ -75,15 +75,15 @@ ht-degree: 74%
 
 ## [!DNL Google Adwords] でのリマーケティング広告キャンペーンの作成 {#create-a-remarketing-ad-campaign-in-google-adwords}
 
-1. **[!DNL Google Adwords]** にログインします。 「**[!UICONTROL キャンペーン]**」をクリックして、「**[!UICONTROL ネットワークのみを表示]**」を選択します。
+1. **[!DNL Google Adwords]** にログインします。「**[!UICONTROL キャンペーン]**」をクリックして、「**[!UICONTROL ネットワークのみを表示]**」を選択します。
 
    ![](assets/image2015-1-15-18-3a31-3a58.png)
 
-1. **[!UICONTROL キャンペーン名]** を入力し、**[!UICONTROL リマーケティング &#x200B;] タイプを選択します。**
+1. **[!UICONTROL キャンペーン名]**&#x200B;を入力して、「**[!UICONTROL タイプリマーケティング]」を選択します。**
 
    ![](assets/image2015-1-15-18-3a35-3a7.png)
 
-1. **[!UICONTROL 広告グループ名 &#x200B;] を入力**、**[!UICONTROL 拡張 CPC]** を入力し、**[!UICONTROL リマーケティングリスト]** を選択します。
+1. **[!UICONTROL 広告グループ名]を入力し、****[!UICONTROL 拡張 CPC]** を入力して、「**[!UICONTROL リマーケティングリスト]**」を選択します。
 
    ![](assets/image2015-1-15-18-3a51-3a57.png)
 
@@ -94,5 +94,5 @@ ht-degree: 74%
 
 >[!MORELIKETHIS]
 >
->* [ データを使用したリタ  [!DNL Web Personalization]  ゲティング ](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [ パーソナライズされたリマーケティング  [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
+>* [ [!DNL Web Personalization]  データを使用したリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [ [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) でのパーソナライズリマーケティング

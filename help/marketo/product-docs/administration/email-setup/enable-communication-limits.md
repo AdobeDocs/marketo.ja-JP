@@ -4,10 +4,10 @@ description: 通信制限の有効化 - Marketo ドキュメント - 製品ド�
 title: 通信制限の有効化
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 84%
    >
    >**例**
    >
-   >上記の設定では、（1 日あたりのメール送信 **を超えて受信されることはありません。また** 任意の 7 日間に **5 を超えて受信されることはありません**。
+   >上記の設定により、ユーザは、**1 日に 1 通**&#x200B;を超えるメールまたは&#x200B;**任意の 7 日間で 5 通**&#x200B;を超えるメールを受け取らなくなります。
 
    >[!NOTE]
    >
@@ -71,4 +71,4 @@ ht-degree: 84%
 
 >[!MORELIKETHIS]
 >
->[ 通信制限の適用先  [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[ [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md) への通信制限の適用

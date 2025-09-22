@@ -4,8 +4,8 @@ description: アラートの送信 - Marketo ドキュメント - 製品ドキ�
 title: アラートの送信
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 100%
 

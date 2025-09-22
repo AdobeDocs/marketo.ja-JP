@@ -4,10 +4,10 @@ description: 新しいテンプレートの作成 - Marketo ドキュメント -
 title: 新しいテンプレートの作成
 exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 59%
 
 >[!TIP]
 >
->常に、テンプレートに直接テキストを入力するか、プレーンテキストエディター（[!DNL Notepad] または [!DNL TextEdit]）からコピーします。 リッチテキストエディター（[!DNL MS Word] など）からコピーして貼り付けると、書式が不規則になる場合があります。
+>必ずテンプレートに直接テキストを入力するか、プレーンテキストエディター（[!DNL Notepad] や [!DNL TextEdit] など）からコピーするようにします。リッチテキストエディター（[!DNL MS Word] など）からコピー＆ペーストすると、書式が不揃いになる場合があります。

@@ -4,8 +4,8 @@ description: 人物のコンバージョン - Marketo ドキュメント - 製�
 title: 人物のコンバージョン
 exl-id: b0ff0b63-a6a3-48c5-92ef-7ece5c182d28
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 

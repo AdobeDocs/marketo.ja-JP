@@ -4,7 +4,7 @@ description: メール分析領域について - Marketo ドキュメント - �
 title: メール分析領域について
 exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 100%
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->これは、Select Edition または[収益サイクルアナリティクス](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)アドオンを持つユーザーが使用できます。詳細は、セールス担当者にお問い合わせください。
+>これは、Select Edition または[収益サイクル分析](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/)アドオンを持つユーザーが使用できます。詳細は、セールス担当者にお問い合わせください。
 
 ## メールクリックアクティビティのヒートグリッド {#email-click-activity-heat-grid}
 

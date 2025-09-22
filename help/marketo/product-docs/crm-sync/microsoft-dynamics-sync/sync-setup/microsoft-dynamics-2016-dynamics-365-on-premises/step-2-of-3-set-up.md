@@ -1,26 +1,26 @@
 ---
-description: Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 オンプレミスのインストール手順 2/3 - Marketo ドキュメント – 製品ドキュメント
-title: Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 オンプレミスのインストール手順 2 / 3
+description: ' [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 2／3 - Marketo ドキュメント - 製品ドキュメント'
+title: ' [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 2／3'
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '473'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
-# 手順 2/3 Marketo for [!DNL Dynamics] の設定（2016 オンプレミス/[!DNL Dynamics] 365 オンプレミス）{#step-of-set-up-for-marketo-on-premises-2016}
+# 手順 2／3 [!DNL Dynamics]（2016 オンプレミス／[!DNL Dynamics] 365 オンプレミス）向け Marketo の設定{#step-of-set-up-for-marketo-on-premises-2016}
 
 前の手順を完了させたら、先に進みましょう。
 
 >[!PREREQUISITES]
 >
->[Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 オンプレミスのインストール手順 1/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>[ [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 1／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
 
 ## 新規ユーザを作成 {#create-a-new-user}
 
-1. [!DNL Dynamics] にログインします。 「設定」アイコンをクリックし、「詳細設定」を選択します。
+1. [!DNL Dynamics] にログインします。「設定」アイコンをクリックし、「詳細設定」を選択します。
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-1.png)
 
@@ -62,7 +62,7 @@ ht-degree: 80%
 
 ## 新しいクライアントアプリケーションを作成する {#create-a-new-client-application}
 
-新しいクライアントアプリケーションを作成し、権限を付与するには、[この Microsoft 記事](https://docs.microsoft.com/ja-jp/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later)の手順に従ってください。[!DNL Dynamics] クライアントアプリケーションのクライアント ID と秘密鍵をメモしておいてください。
+新しいクライアントアプリケーションを作成し、権限を付与するには、[この Microsoft 記事](https://docs.microsoft.com/ja-jp/windows-server/identity/ad-fs/development/enabling-oauth-confidential-clients-with-ad-fs#create-an-application-group-in-ad-fs-2016-or-later)の手順に従ってください。[!DNL Dynamics] クライアントアプリケーションのクライアント ID／秘密鍵をメモしておいてください。
 
 ## 同期ユーザのロールの割り当て {#assign-sync-user-role}
 
@@ -70,7 +70,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 >[!NOTE]
 >
->これは、Marketo バージョン 4.0.0.14 以降に適用されます。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。Marketoをアップグレードするには、[Marketo ソリューションのアップグレード  [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) を参照してください。
+>これは、Marketo バージョン 4.0.0.14 以降に適用されます。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。お使いの Marketo をアップグレードする方法について詳しくは、[ [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) 用 Marketo ソリューションのアップグレードを参照してください。
 
 >[!IMPORTANT]
 >
@@ -84,7 +84,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
    ![](assets/assign2.png)
 
-1. ユーザのリストが表示されます。専用の Marketo 同期ユーザを選択するか、[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"}（ADFS）管理者に問い合わせて、Marketo 専用ユーザの作成を依頼します。
+1. ユーザのリストが表示されます。専用の Marketo 同期ユーザを選択するか、[Active Directory Federation Services](https://msdn.microsoft.com/ja-jp/library/bb897402.aspx){target="_blank"}（ADFS）管理者に問い合わせて、Marketo 専用ユーザの作成を依頼します。
 
    ![](assets/image2015-3-26-10-3a39-3a35.png)
 
@@ -135,9 +135,9 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 ## 手順 3 に進む前に {#before-proceeding-to-step}
 
 * 同期するレコード数を制限する場合は、[カスタム同期フィルターを設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)します。
-* [Validate [!DNL Microsoft Dynamics] Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md) プロセスを実行します。 初期設定が正しく行われたことを確認します。
-* [!DNL Microsoft Dynamics] CRM でMarketo同期ユーザーにログインします。
+* [ [!DNL Microsoft Dynamics]  同期を検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)プロセスを実行します。初期設定が正しく行われたことを確認します。
+* [!DNL Microsoft Dynamics] CRM で、Marketo 同期ユーザにログインします。
 
 >[!MORELIKETHIS]
 >
->[Marketo for [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 オンプレミスのインストール手順 3 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
+>[ [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 3／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)

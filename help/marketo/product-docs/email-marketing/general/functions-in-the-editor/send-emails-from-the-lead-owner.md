@@ -4,16 +4,16 @@ description: リード所有者からのメール送信 — Marketo ドキュメ
 title: リード所有者からのメール送信
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
 # リード所有者からのメール送信 {#send-emails-from-the-lead-owner}
 
-リード所有者の代わりにリードにメールを送信する場合はどうすればよいですか？手順は以下のとおりです。
+リード所有者の代わりにリードにメールを送信する場合はどうすればよいですか？手順は次のとおりです。
 
 1. 目的のメールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
@@ -47,7 +47,7 @@ ht-degree: 91%
    >
    >姓と名のトークンの間にスペースを追加していることを確認してください。
 
-1. 「**[!UICONTROL 送信元アドレス]**」フィールドをクリックし（既存のメールアドレスを削除します）、「**トークンを挿入**」ボタンをクリックします。
+1. 「**[!UICONTROL 差出人アドレス]**」フィールドをクリックして（既存のメールアドレスを削除）、「**トークンを挿入**」ボタンをクリックします。
 
    ![](assets/eight.png)
 

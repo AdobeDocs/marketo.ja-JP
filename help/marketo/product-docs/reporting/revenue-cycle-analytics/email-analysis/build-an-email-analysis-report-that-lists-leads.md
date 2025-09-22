@@ -4,10 +4,10 @@ description: リードを一覧表示するメール分析レポートの作成 
 title: リードを一覧表示するメール分析レポートの作成
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -31,11 +31,11 @@ ht-degree: 91%
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. **[!UICONTROL E メール分析]** を選択し、「**[!UICONTROL OK]**」をクリックします。
+1. 「**[!UICONTROL メール分析]**」を選択し、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. **[!UICONTROL メール名]** 黄色のドットを見つけて右クリックし、「**[!UICONTROL フィルター…]**」を選択します。
+1. 黄色ドットが付いた「**[!UICONTROL メール名]**」を探し、右クリックして「**[!UICONTROL フィルター...]**」を選択します。
 
    ![](assets/report-that-lists-leads-4.png)
 

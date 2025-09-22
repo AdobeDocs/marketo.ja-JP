@@ -4,7 +4,7 @@ description: ユーザログイン履歴 - Marketo ドキュメント - 製品�
 title: ユーザログイン履歴
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 100%
@@ -71,4 +71,4 @@ ht-degree: 100%
 
    >[!MORELIKETHIS]
    >
-   >[監査証跡の概要](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
+   >[監査記録の概要](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

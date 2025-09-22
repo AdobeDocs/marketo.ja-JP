@@ -4,16 +4,16 @@ description: 星と炎のカスタマイズ - Marketo ドキュメント - 製�
 title: 星と炎のカスタマイズ
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 # 星と炎のカスタマイズ {#customize-stars-and-flames}
 
-[!DNL Marketo Sales Insight] は、星と炎を使用してリードを優先順位付けします。 Marketo は、誰が 1-2-3 の星や炎を取得するかを自動的に決定します。ただし、数式を変更することはできます。手順は次のとおりです。
+[!DNL Marketo Sales Insight] は、星と炎を使用してリードに優先順位を付けます。Marketo は、誰が 1-2-3 の星や炎を取得するかを自動的に決定します。ただし、数式を変更することはできます。手順は次のとおりです。
 
 >[!AVAILABILITY]
 >
@@ -23,7 +23,7 @@ ht-degree: 95%
 >
 >**管理者権限が必要**
 
-1. 「[!UICONTROL 管理者]」で、「**[!UICONTROL Sales Insight]**」をクリックします。
+1. 「[!UICONTROL 管理者]」で、「**[!UICONTROL セールスインサイト]**」をクリックします。
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 

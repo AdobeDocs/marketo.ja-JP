@@ -4,16 +4,16 @@ description: Marketo メールアドインライセンスの発行 - Marketo ド
 title: Marketo メールアドインライセンスの発行
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
 # Marketo メールアドインライセンスの発行 {#issue-a-marketo-email-add-in-license}
 
-Marketo Email [!DNL Outlook] Add-in を使用するユーザーには、まずライセンスが必要です。 ライセンスを提供する方法は 2 つあります。
+Marketo メール [!DNL Outlook] アドインを使用するユーザには、まずライセンスが発行される必要があります。ライセンスを提供する方法は 2 つあります。
 
 * **[エンタープライズキーのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**：この方法は、セールス担当が自社のノートパソコンに対する管理者権限を持たず、プラグインやソフトウェアなどをインストールできない場合に使用します。この場合、Marketo 管理者は許可されたユーザーのリストに対してライセンスを発行します。次に、IT チームは、エンタープライズキーを使用して、認証済みユーザーのすべての PC にプラグインをリモートで展開します。次に、プラグインユーザーが承認します。
 * **[登録コードのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**：セールス担当が社内のノート PC に管理者権限を持ち、プラグインやソフトウェアなどをインストールできる場合に、この方法を使用します。使用します。このプロセスでは、Marketo 管理者が許可されたユーザーのリストに対してライセンスを発行し、登録電子メールをダウンロードリンクを使用して直接送信します。セールス担当者は、プラグインのダウンロードリンクと一意の登録 URL が記載されたメールを受け取ります。
@@ -50,6 +50,6 @@ Marketo Email [!DNL Outlook] Add-in を使用するユーザーには、まず�
 
 >[!MORELIKETHIS]
 >
->* [Enterprise キーを使用した用のMarketo アド  [!DNL Outlook]  ンのインストール ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
->* [ 登録コードを使用した、のMarketo E メールアド  [!DNL Outlook]  ンのインストール ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
->* [Marketo E メールアドインのアップグレード  [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
+>* [エンタープライズキーを使用した  [!DNL Outlook]  用 Marketo アドインのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
+>* [登録コードを使用した  [!DNL Outlook]  用 Marketo メールアドインのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
+>* [ [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md) 用 Marketo メールアドインのアップグレード

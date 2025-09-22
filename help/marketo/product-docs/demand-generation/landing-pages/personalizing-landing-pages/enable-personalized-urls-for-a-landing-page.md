@@ -4,10 +4,10 @@ description: ランディングページでパーソナライズ URL を有効�
 title: ランディングページでパーソナライズ URL を有効にする
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 88%
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. これで、**[!UICONTROL パーソナライズされた URL を有効にする]** をオンにして、「保存 **[!UICONTROL をクリックでき]** す。
+1. 「**[!UICONTROL パーソナライズ URL を有効にする]**」チェックボックスをオンにし、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 

@@ -4,10 +4,10 @@ description: 新規アカウントリストの作成 - Marketo ドキュメン�
 title: 新規アカウントリストの作成
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '406'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 96%
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. 「**[!UICONTROL 参照]**」を選択し、CSV ファイルをアップロードします（CSV ファイルが条件を満たしていることを確認してください）。**[!UICONTROL リスト名]** と **[!UICONTROL 説明]** を追加します。 「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL 参照]**」を選択し、CSV ファイルをアップロードします（CSV ファイルが条件を満たしていることを確認してください）。**[!UICONTROL リスト名]**&#x200B;と&#x200B;**[!UICONTROL 説明]**&#x200B;を追加します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -68,7 +68,7 @@ ht-degree: 96%
 
 ![](assets/create-new-account-list-edit.jpg)
 
-**[!UICONTROL 参照…]** を選択し、新しい CSV ファイルをアップロードします。 アップロードしたファイルは元のファイルに置き換わります。「**[!UICONTROL 保存]**」をクリックします。新しくアップロードされたファイルは、Marketo サポートが承認するまで保留状態になります。保留状態の場合、元のファイルがそのままアクティブになります。
+「**[!UICONTROL 参照...]**」を選択し、新しい CSV ファイルをアップロードします。アップロードしたファイルは元のファイルに置き換わります。「**[!UICONTROL 保存]**」をクリックします。新しくアップロードされたファイルは、Marketo サポートが承認するまで保留状態になります。保留状態の場合、元のファイルがそのままアクティブになります。
 
 ![](assets/set-account-list-edit-hands.jpg)
 

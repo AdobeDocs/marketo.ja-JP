@@ -4,10 +4,10 @@ description: 顧客フィルター - Marketo ドキュメント - 製品ドキ�
 title: 顧客フィルター
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
@@ -29,23 +29,23 @@ ht-degree: 46%
 
    ![](assets/three.png)
 
-## [!UICONTROL &#x200B; アカウントリストのメンバー &#x200B;] {#member-of-account-list}
+## [!UICONTROL アカウントリストのメンバー] {#member-of-account-list}
 
-このフィルターを使用するには、「**[!UICONTROL アカウントリスト]**」ドロップダウンをクリックします。
+このフィルターを使用するには、**[!UICONTROL アカウントリスト]**&#x200B;ドロップダウンをクリックして、
 
 ![](assets/four.png)
 
-目的の顧客リストを選択します。
+目的のアカウントリストを選択します。
 
 ![](assets/five.png)
 
 >[!NOTE]
 >
->[!UICONTROL &#x200B; アカウントリストのメンバー &#x200B;] フィルターには、「[!UICONTROL is]」という修飾子のみが存在します。追加の修飾子（「is not」や「is any」など）は使用できません。
+>「[!UICONTROL アカウントリストのメンバー]」フィルターにある修飾子は「[!UICONTROL が次に等しい]」1 つだけです。追加の修飾子（「が次に等しくない」や「が次のいずれかである」など）は使用できません。
 
-## [!UICONTROL &#x200B; 指定勘定の社員 &#x200B;] {#member-of-named-account}
+## [!UICONTROL 重点顧客のメンバー] {#member-of-named-account}
 
-まず、修飾子を選択します。特定の名前付きアカウントの場合は **[!UICONTROL is]**、任意の名前付きアカウントの場合は **[!UICONTROL is any]** です。
+まず、修飾子を選択します。特定の重点顧客の場合は「**[!UICONTROL が次に等しい]**」、任意の重点顧客の場合は「**[!UICONTROL が次のいずれかである]**」です。
 
 ![](assets/six.png)
 
@@ -57,11 +57,11 @@ ht-degree: 46%
 
 ![](assets/eight.png)
 
-「[!UICONTROL is any]」修飾子を使用する場合は、[ 制約 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) を利用して検索結果を絞り込むことができます。 必要な数だけ追加してください。
+「[!UICONTROL が次のいずれかである]」修飾子を使用する場合、[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)を使用して検索結果を絞り込むことをお勧めします。必要な数だけ追加します。
 
 ![](assets/nine.png)
 
-単一の最上位アカウントのメンバーのみが必要な場合は、「[!UICONTROL &#x200B; 子を含める &#x200B;]」を **[!UICONTROL false]** に設定します。 すべての子アカウントのメンバーが必要な場合は **[!UICONTROL true]** を選択します。
+単一の最上位顧客からのみメンバーを取得する場合は、「[!UICONTROL 子を含める]」を **[!UICONTROL false]** に設定します。すべての子顧客からメンバーを取得する場合は、**[!UICONTROL true]** を選択します。
 
 ![](assets/ten.png)
 

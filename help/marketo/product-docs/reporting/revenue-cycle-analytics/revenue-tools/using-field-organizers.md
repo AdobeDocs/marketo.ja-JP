@@ -4,8 +4,8 @@ description: フィールドオーガナイザの使用 — Marketoドキュメ�
 title: フィールドオーガナイザーの使用
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 100%
 

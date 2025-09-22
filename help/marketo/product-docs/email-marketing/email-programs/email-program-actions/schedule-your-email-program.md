@@ -4,8 +4,8 @@ description: メールプログラムのスケジュールを設定する — Ma
 title: メールプログラムのスケジュールを設定する
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 

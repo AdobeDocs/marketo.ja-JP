@@ -4,10 +4,10 @@ description: 新しいゾーン内 Web キャンペーンを作成する — Mar
 title: 新しいゾーン内 Web キャンペーンを作成する
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '693'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. **[!UICONTROL 新しい Web キャンペーンの作成 &#x200B;].** を選択します。
+1. 「**[!UICONTROL Web キャンペーンを新規作成]」を選択します。**
 
    ![](assets/create-new-web-campaign-hand.png)
 
@@ -33,7 +33,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
    >
    >**ゾーン ID とは**
    >
-   >ゾーン ID は、「[!UICONTROL &#x200B; インゾーン &#x200B;]」 Web キャンペーンをオンサイトに配置する場所です。 「[!UICONTROL &#x200B; ゾーン ID]」を見つけるには、web サイトに移動して、web キャンペーンと置き換えたい領域を選択し、右クリックします。 Chrome の場合、「要素の検証」を使いますが、他のブラウザーでは異なる場合があります。
+   >ゾーン ID とは、「[!UICONTROL ゾーン内]」web キャンペーンをサイトのどこに配置するかを示す情報です。「[!UICONTROL ゾーン ID]」は、web サイトに移動して web キャンペーンで置き換えるエリアを選択して右クリックするだけで見つけることができます。Chrome の場合、「要素の検証」を使いますが、他のブラウザーでは異なる場合があります。
    >
    >次に、ウェブサイトで該当するセクションの「id」を探します。検証中の要素なので、ハイライトされます。たとえば、Chrome で右クリックして、ハイライトされたテキストが `<div id="featured-slider">` であれば、ゾーン ID セクションで入力するのは「featured-slider」です。通常、「div id」が使用されますが、「h1 id」、「p id」などの任意の ID が使用されることもあります。
 
@@ -106,7 +106,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
 [Web キャンペーンを複製する](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/clone-a-web-campaign.md)を参照してください。
 
-## Web キャンペーンを削除する {#delete-a-web-campaign}
+## Web キャンペーンの削除 {#delete-a-web-campaign}
 
 1. Web キャンペーンページで、確認したい Web キャンペーンの「**[!UICONTROL 削除]**」をクリックします。
 

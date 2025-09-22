@@ -4,10 +4,10 @@ description: 他の CRM へのメールを記録する方法 — Marketo ドキ�
 title: 他の CRM へのメールを記録する方法
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ CRM が BCC アドレスを提供する場合は、CRM のその他セクショ�
 
 **ほとんどすべての CRM**：
 
-* 自動 BCC 機能は、[!DNL Sales Connect] と一緒にリードに送信したメールを記録するほとんどすべての CRM で機能します。 活用するには、CRM が BCC アドレスを提供していることを確認してください。
+* アドビの自動 BCC 機能は、[!DNL Sales Connect] でリードに送信したほとんどすべての CRM レコードメールで機能します。活用するには、CRM が BCC アドレスを提供していることを確認してください。
 
 **[!DNL Salesforce]**：
 
@@ -31,6 +31,6 @@ CRM が BCC アドレスを提供する場合は、CRM のその他セクショ�
 1. 「**CRM**」をクリックします。
 1. その他の CRM の下の「**[!UICONTROL 接続]**」をクリックします。
 1. 「**[!UICONTROL 設定]**」をクリックし、「BCC にメールを送信」の下に BCC アドレスを貼り付けます。
-1. **[!UICONTROL 保存]** をクリックすると、BCC アドレスが [!DNL Sales Connect] に保存されます。
+1. 「**[!UICONTROL 保存]**」をクリックすると、BCC アドレスが [!DNL Sales Connect] に保存されます。
 
    メールが BCC 経由で CRM に記録されるようになります。

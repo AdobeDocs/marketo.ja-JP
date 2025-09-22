@@ -4,10 +4,10 @@ description: Salesforce フィールドのアクセシビリティの編集 — 
 title: Salesforce フィールドのアクセシビリティの編集
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 13%
 
 [!DNL Salesforce] へのメールアクティビティログが表示されない場合は、チームのフィールドアクセシビリティの制限が原因である可能性があります。
 
-* Salesforceのフィールドレベルのセキュリティ [!DNL Salesforce] より、管理者は、ユーザーが表示および編集できる情報に制限を設けることができます。 フィールドレベルのセキュリティを設定する場合は、フィールドがユーザーに表示されるのを妨げていないことを確認 [!DNL Sales Connect] てください。
+* Salesforce のフィールドレベルセキュリティにより、[!DNL Salesforce] の管理者は、ユーザが表示および編集可能な情報に制限を設けることができます。フィールドレベルのセキュリティを設定する場合は、ユーザが「[!DNL Sales Connect]」フィールドを表示する機能に干渉しないようにしてください。
 
-* [!DNL Salesforce] 管理者と協力して、これらのセキュリティ設定が [!DNL Sales Connect] に干渉していないことを確認します。
+* [!DNL Salesforce] 管理者と連携して、これらのセキュリティ設定が [!DNL Sales Connect] に干渉しないようにします。
 
-* [!DNL Salesforce] 管理者の場合は、「[!UICONTROL &#x200B; セキュリティ制御 &#x200B;]」タブの下にフィールドのアクセシビリティを表示できます。 [!DNL Sales Connect] がやり取りする主なフィールドは、[!UICONTROL &#x200B; アカウント &#x200B;]、[!UICONTROL &#x200B; 連絡先 &#x200B;]、[!UICONTROL &#x200B; オポチュニティ &#x200B;]、[!UICONTROL &#x200B; リード &#x200B;]、[!UICONTROL &#x200B; タスク &#x200B;] です。
+* [!DNL Salesforce] 管理者には、「[!UICONTROL セキュリティコントロール]」タブで「フィールドアクセシビリティ」が表示されます。[!DNL Sales Connect] がやり取りする主なフィールドは、「[!UICONTROL アカウント]」、「[!UICONTROL 取引先責任者]」、「[!UICONTROL 商談]」、「[!UICONTROL リード]」、「[!UICONTROL タスク]」です。

@@ -4,10 +4,10 @@ description: メールリンク効果レポート - Marketo ドキュメント -
 title: メールリンク効果レポート
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -44,29 +44,29 @@ ht-degree: 94%
 <table>
  <thead>
   <tr>
-   <th colspan="1" rowspan="1">[!UICONTROL 列 &#x200B;]</th>
+   <th colspan="1" rowspan="1">[!UICONTROL 列]</th>
    <th colspan="1" rowspan="1">説明</th>
   </tr>
  </thead>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1">[!UICONTROL リンク &#x200B;]</td>
+   <td colspan="1" rowspan="1">[!UICONTROL リンク]</td>
    <td colspan="1" rowspan="1">メール名でグループ化。<br>プラス（+）をクリックすると、そのメールに含まれているすべてのリンクが表示されます。</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1">[!UICONTROL クリック数 &#x200B;]</td>
+   <td colspan="1" rowspan="1">[!UICONTROL クリック数]</td>
    <td colspan="1" rowspan="1">そのリンクがクリックされた回数。</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1">% [!UICONTROL クリック数 &#x200B;]</td>
+   <td colspan="1" rowspan="1">% [!UICONTROL クリック]</td>
    <td colspan="1" rowspan="1">そのメール内のすべてのリンクでの合計クリック数のうち、このリンクに対する割合。</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1">[!UICONTROL のユーザー &#x200B;]</td>
+   <td colspan="1" rowspan="1">[!UICONTROL 人物]</td>
    <td colspan="1" rowspan="1">リンクをクリックしたユニークユーザ数。</td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1">% [!UICONTROL ユーザー &#x200B;]</td>
+   <td colspan="1" rowspan="1">% [!UICONTROL 人物]</td>
    <td colspan="1" rowspan="1">メール内のリンクをクリックした合計ユニークユーザ数のうち、このリンクに対する割合。</td>
   </tr>
  </tbody>

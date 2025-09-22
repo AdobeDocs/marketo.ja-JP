@@ -3,22 +3,22 @@ description: ユーザーへのアクセス権の付与 - Marketo ドキュメ�
 title: ユーザーへのアクセス権の付与
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
 # ユーザーへのアクセス権の付与 {#granting-access-to-users}
 
-[!DNL Sales Connect] ユーザーにMarketoへのアクセス権を付与するには、この記事の手順に従います。 これにより、ライブフィードの注目のアクションなどの機能が解放され、マーケティングキャンペーンにアクセスできるようになります。
+この記事の手順に従って、[!DNL Sales Connect] ユーザに Marketo 接続へのアクセス権を付与します。これにより、ライブフィードの注目のアクションなどの機能が解放され、マーケティングキャンペーンにアクセスできるようになります。
 
-Marketo接続へのアクセス権を付与するMarketo/[!DNL Sales Connect] チームアクセス [ ページ（](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)）にユーザーが表示される前に、ユーザーを [!DNL Sales Connect] ここ）に招待する必要があります。
+ユーザが（[!DNL Sales Connect] の）Marketo／[!UICONTROL チームアクセス]ページに表示されるには、[こちら](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)でユーザを [!DNL Sales Connect] に招待する必要があります。そこで、Marketo 接続へのアクセス権が付与されます。
 
 >[!CAUTION]
 >
->[!DNL Sales Connect] をMarketoに接続してから 10 分待ってから、これらの手順を実行してください。
+>[!DNL Sales Connect] を Marketo に接続し、10 分待ってから、以下の手順を実行してください。
 
 1. 1 人または複数のユーザを選択し、「**[!UICONTROL 接続]**」をクリックします。
 

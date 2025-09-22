@@ -4,8 +4,8 @@ description: フローステップでの「選択肢を追加」の使用 - Mark
 title: フローステップでの「選択肢を追加」の使用
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 100%
 

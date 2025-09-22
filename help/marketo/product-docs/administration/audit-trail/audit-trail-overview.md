@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377945
-description: 監査記録 &rbrack; 概要 – Marketo ドキュメント – 製品ドキュメント
+description: 監査記録の概要 - Marketo ドキュメント - 製品ドキュメント
 title: 監査記録の概要
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ Marketo は、以下に対する[作成、編集、削除](/help/marketo/product
 
 >[!NOTE]
 >
->Marketo は、現時点で web パーソナライズ機能、予測コンテンツ、Sales Insight 内で行われた変更を監査するのには&#x200B;_役立ちません_。
+>Marketo は、現時点で web パーソナライゼーション、予測コンテンツ、Sales Insight 内で行われた変更を監査するのには&#x200B;_役立ちません_。
 
 ## 監査記録のコンポーネント {#audit-trail-components}
 

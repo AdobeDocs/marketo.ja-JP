@@ -4,10 +4,10 @@ description: RTP を Google Analytics に連携する — Marketo ドキュメ�
 title: RTP を Google Analytics に連携する
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 92%
+ht-degree: 97%
 
 ---
 
@@ -84,7 +84,7 @@ RTP キャンペーンを測定し、サイト全体の平均値と関連付け�
 
 >[!NOTE]
 >
->セグメントデータを GA に送信するには、[[!UICONTROL &#x200B; セグメントを編集 &#x200B;] ページ ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) の RTP プラットフォームで、「**[!UICONTROL Segment Match でGoogle Analyticsにイベントを送信]**」チェックボックスをオンにします。
+>セグメントデータを GA に送信するには、RTP プラットフォームの[[!UICONTROL セグメント編集]ページ](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)で、「**[!UICONTROL セグメント一致で Google Analytics にイベントを送信する]**」チェックボックスをオンにします。
 
 ## Google Analytics レポートと RTP データの設定 {#setting-up-google-analytics-reports-with-rtp-data}
 
@@ -92,4 +92,4 @@ Google Analytics では、ダッシュボード、GA セグメント化および
 
 * [ダッシュボード](https://support.google.com/analytics/answer/1068216?hl=ja)では、Web サイトのパフォーマンスの概要を示します。
 * GA セグメントは、GA インターフェイス内の訪問者をフィルターし、セグメントごとのトラフィックを表示することを目的としています。セグメントの作成方法については、[こちら](https://support.google.com/analytics/answer/3124493?hl=ja)を参照してください。
-* [カスタマイズされたレポート](https://support.google.com/analytics/answer/1033013?hl=ja)を作成してスケジュールされたメールを表示／設定する&#x200B;**[!UICONTROL カスタマイズ]**/**[!UICONTROL 新しいカスタムレポート]** を参照してください。
+* [カスタマイズされたレポート](https://support.google.com/analytics/answer/1033013?hl=ja)を作成してスケジュールされたメールを表示／設定する「**[!UICONTROL カスタマイズ]**／**[!UICONTROL 新しいカスタムレポート]**」の下を確認します。

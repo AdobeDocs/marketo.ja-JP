@@ -4,16 +4,16 @@ description: 商談フィルターおよびトリガー - Marketo ドキュメ�
 title: 商談フィルターおよびトリガー
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '473'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
 # 商談フィルターおよびトリガー {#opportunity-filters-and-triggers}
 
-商談のフィルターとトリガーを使用すると、[!DNL Salesforce] から商談イベントをトラッキングできます。 他のフィルターおよびトリガーとは少し異なります。
+商談フィルターおよびトリガーを使うと、[!DNL Salesforce] からの商談イベントをトラックできます。他のフィルターおよびトリガーとは少し異なります。
 
 ## 商談フィルター {#opportunity-filters}
 

@@ -4,10 +4,10 @@ description: システムトークンの用語集 - Marketo ドキュメント -
 title: システムトークンの用語集
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 100%
+source-wordcount: '249'
+ht-degree: 93%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ## system.time {#system-time}
 
-`{{system.time}}` トークンは、実行時に現在時刻を **04:34 PM (GMT -0700)** のようにレンダリングします。
+`{{system.time}}` トークンは、実行時に **04:34PM （GMT -0700）のように現在の時刻をレンダリングします**
 
 **使用場所：**
 

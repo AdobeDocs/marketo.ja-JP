@@ -3,10 +3,10 @@ description: 二者間による同意の設定 - Marketo ドキュメント - �
 title: 二者間による同意の設定
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 90%
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 一般]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL 一般]**」をクリックします。
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. [!UICONTROL &#x200B; 通話録音 &#x200B;] カードで、「**[!UICONTROL 録画通知の管理]**」をクリックします。
+1. [!UICONTROL 通話記録]カードで、「**[!UICONTROL 録画通知を管理]**」をクリックします。
 
    ![](assets/two-party-consent-settings-3.png)
 
@@ -46,6 +46,6 @@ ht-degree: 90%
 
    ![](assets/two-party-consent-settings-6.png)
 
-1. 切り替えボタンをクリックして、選択したメッセージを通話録音の最初に再生するようにします。
+1. 切替スイッチボタンをクリックして、選択したメッセージを通話録音の最初に再生するようにします。
 
    ![](assets/two-party-consent-settings-7.png)

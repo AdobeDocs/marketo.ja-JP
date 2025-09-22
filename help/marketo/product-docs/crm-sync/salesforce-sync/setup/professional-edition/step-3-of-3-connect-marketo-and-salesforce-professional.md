@@ -4,16 +4,16 @@ description: 手順 3／3 — Marketo と Salesforce の接続（Professional）
 title: 手順 3／3 — Marketo と Salesforce の接続（Professional）
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '386'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
-# 手順 3/3:Marketoと [!DNL Salesforce] を接続する（Professional） {#step-of-connect-marketo-and-salesforce-professional}
+# 手順 3／3：Marketo と [!DNL Salesforce] の接続（Professional） {#step-of-connect-marketo-and-salesforce-professional}
 
-この記事では、設定済みのSalesforce インスタンスと同期するようにMarketo Engageを設定します。
+この記事では、設定済みの Salesforce インスタンスと同期するように Marketo を設定します。
 
 >[!PREREQUISITES]
 >
@@ -26,11 +26,11 @@ ht-degree: 67%
 >
 >既にセキュリティトークンを持っている場合は、直接「同期ユーザー資格情報の設定」に進んで、準備を完了させます。
 
-1. Marketo Sync User を使用してSalesforceにログインし、同期ユーザーの名前をクリックして、**[!UICONTROL My Settings]** をクリックします。
+1. Marketo 同期ユーザで Salesforce にログインし、同期ユーザの名前をクリックしてから、「**[!UICONTROL マイ設定]**」をクリックします。
 
    ![](assets/image2015-5-21-14-3a11-3a17.png)
 
-1. ナビゲーションの検索バーに「リセット」と入力し、**[!UICONTROL セキュリティトークンをリセット]** をクリックします。
+1. ナビゲーション検索バーに、「リセット」と入力して、「**[!UICONTROL セキュリティトークンのリセット]**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a52-3a42.png)
 
@@ -42,7 +42,7 @@ ht-degree: 67%
 
 ## 同期ユーザー資格情報の設定 {#set-sync-user-credentials}
 
-1. Marketoで、**[!UICONTROL 管理者]** に移動して **[!UICONTROL CRM]** を選択し、**[!UICONTROL Salesforce.com と同期]** をクリックします。
+1. Marketo で、「**[!UICONTROL 管理]**」に移動し、「**[!UICONTROL CRM]**」を選択して、「**[!UICONTROL Salesforce .com との同期]**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a52-3a58.png)
 
@@ -50,7 +50,7 @@ ht-degree: 67%
    >
    >同期ユーザーから Marketo で[不要なフィールドをすべて非表示](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}にした後で、「**[!UICONTROL 同期フィールド]**」をクリックするようにしてください。「同期フィールド」をクリックすると、ユーザーが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
 
-1. Salesforce設定のパート 2 （[Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)、[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)）で作成したSalesforce Sync ユーザーの資格情報を入力し、「**[!UICONTROL フィールドを同期]**」をクリックします。
+1. Salesforce 設定のパート 2 で作成した Salesforce 同期ユーザの資格情報（[Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) または [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)）を入力して、「**[!UICONTROL 同期フィールド]**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a53-3a8.png)
 
@@ -66,15 +66,15 @@ ht-degree: 67%
    >
    >[マッピングを調べてカスタマイズしたい](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"}場合、これが唯一のチャンスです。「Salesforce 同期の開始」をクリックすると、同期されます。
 
-## 同期 [!DNL Salesforce] 開始 {#start-salesforce-sync}
+## [!DNL Salesforce] 同期の開始 {#start-salesforce-sync}
 
-1. 「**[!UICONTROL Salesforce 同期の開始]**」をクリックして、Marketo と Salesforce の間の永続的な同期を開始します。
+1. 「**[!UICONTROL Salesforce 同期の開始]**」をクリックして、Marketo と Salesforce の永続的な同期を開始します。
 
    ![](assets/image2014-12-9-9-3a53-3a24.png)
 
    >[!CAUTION]
    >
-   >Marketoは、[!DNL Salesforce] 同期に対する重複除外、またはリードを手動で追加しても自動的に重複除外を実行しません。
+   >Marketo は、[!DNL Salesforce] の同期に対して、またはリードを手動で入力した場合には、自動的に重複排除を行いません。
 
 1. 「**[!UICONTROL 同期の開始]**」をクリックします。
 
@@ -86,7 +86,7 @@ ht-degree: 67%
 
 ## 同期の検証 {#verify-sync}
 
-Marketoの管理領域に、[!DNL Salesforce] 同期のステータスメッセージが表示されます。 次の手順に従うことで、同期が正しく機能していることを確認できます。
+Marketo の「管理」領域に、[!DNL Salesforce] 同期に関するステータスメッセージが表示されます。次の手順に従うことで、同期が正しく機能していることを確認できます。
 
 1. Marketo で、「**[!UICONTROL 管理]**」をクリックして、「**Salesforce**」をクリックします。
 
@@ -100,9 +100,9 @@ Marketoの管理領域に、[!DNL Salesforce] 同期のステータスメッセ�
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-Marketoの最も強力な機能の 1 つの設定が完了しました。
+Marketo の最も強力な機能の 1 つの設定が完了しました。
 
 >[!MORELIKETHIS]
 >
->* [Salesforce AppExchange での Marketo Sales Insight パッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
->* [Salesforce Professional Edition での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md){target="_blank"}
+>* [Salesforce AppExchange での Marketo セールスインサイトパッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [Salesforce Professional Edition での Marketo セールスインサイトの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md){target="_blank"}

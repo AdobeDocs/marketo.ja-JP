@@ -2,10 +2,10 @@
 description: Salesforce Classic からの Marketo Sales Connect のアンインストール - Marketo ドキュメント - 製品ドキュメント
 title: Salesforce Classic からの Marketo Sales Connect のアンインストール
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1186'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -13,13 +13,13 @@ ht-degree: 71%
 
 以下に、Sales Insight Actions の使用を開始した後で Salesforce アカウントから Marketo Sales Connect パッケージをアンインストールする方法を示します。
 
-## ページレイアウトからの [!DNL Sales Connect] フィールドの削除 {#remove-sales-connect-fields-from-page-layout}
+## ページレイアウトから [!DNL Sales Connect] フィールドを削除 {#remove-sales-connect-fields-from-page-layout}
 
-1. [!DNL Salesforce] Classic で、**[!UICONTROL 設定]** をクリックします。
+1. [!DNL Salesforce] Classic で、「**[!UICONTROL 設定]**」をクリックします。
 
    ![](assets/uninstall-salesforce-classic-customization-package-1.png)
 
-1. 左側のナビゲーションの [!UICONTROL &#x200B; ビルド &#x200B;] で、（クリックせずに） [!UICONTROL &#x200B; カスタマイズ &#x200B;] を展開し、次に [!UICONTROL &#x200B; リード &#x200B;] を展開します。 次に、「**[!UICONTROL ページレイアウト]**」を選択します。
+1. 左側のナビゲーションの「[!UICONTROL ビルド]」で、「[!UICONTROL カスタマイズ]」、「[!UICONTROL リード]」の順に展開します（ただし、クリックしないでください）。次に、「**[!UICONTROL ページレイアウト]**」を選択します。
 
    ![](assets/uninstall-salesforce-classic-customization-package-2.png)
 
@@ -35,7 +35,7 @@ ht-degree: 71%
    >
    >グレー表示になっているフィールドがない場合は、まだページレイアウトに追加されていないことを意味します。このセクションはスキップできます。
 
-1. [!DNL Sales Connect] のカスタムフィールドがあるセクションまでスクロールします。
+1. [!DNL Sales Connect] のカスタムフィールドが設定されたセクションにスクロールします。
 
    ![](assets/uninstall-salesforce-classic-customization-package-5.png)
 
@@ -45,7 +45,7 @@ ht-degree: 71%
 
    ![](assets/uninstall-salesforce-classic-customization-package-6.png)
 
-## ページレイアウトからの [!DNL Sales Connect] ボタンの削除 {#remove-sales-connect-buttons-from-page-layouts}
+## ページレイアウトから [!DNL Sales Connect] のボタンを削除 {#remove-sales-connect-buttons-from-page-layouts}
 
 1. コンソールで（上記の手順 4）、「**[!UICONTROL ボタン]**」を選択します。「MSC」を検索します。グレー表示のボタンがすべて、「カスタムボタン」セクションに追加されました。削除する必要があります。
 
@@ -55,33 +55,33 @@ ht-degree: 71%
    >
    >グレー表示になっているボタンがない場合は、まだ追加されていないことを意味します。このセクションはスキップできます。
 
-1. MSC ボタンを「[!UICONTROL &#x200B; カスタム・ボタン &#x200B;] セクションからコンソールにドラッグ・アンド・ドロップします。
+1. 「[!UICONTROL カスタムボタン]」セクションからコンソールに MSC ボタンをドラッグ＆ドロップします。
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
-1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
+1. 終了したら「**[!UICONTROL クイック保存]**」をクリックします。
 
    ![](assets/uninstall-salesforce-classic-customization-package-9.png)
 
-## [!DNL Sales Connect] アクティビティ履歴 [!UICONTROL &#x200B; セクションから &#x200B;] フィールドを削除 {#remove-sales-connect-fields-from-activity-history-section}
+## 「[!UICONTROL アクティビティ履歴]」セクションから [!DNL Sales Connect] のフィールドを削除 {#remove-sales-connect-fields-from-activity-history-section}
 
-1. ページの下部までスクロールして「[!UICONTROL &#x200B; アクティビティ履歴 &#x200B;]」関連のリストセクションに移動し、レンチ アイコンをクリックします。
+1. ページの下部までスクロールして、「[!UICONTROL アクティビティ履歴]」関連リストセクションに移動し、レンチアイコンをクリックします。
 
    ![](assets/uninstall-salesforce-classic-customization-package-10.png)
 
-1. 「[!DNL Sales Connect] 選択したフィールド [!UICONTROL 」領域から &#x200B;] のフィールドを選択し、「[!UICONTROL &#x200B; 削除 &#x200B;]」矢印をクリックします。 終了したら、「**[!UICONTROL OK]**」をクリックします。
+1. 「[!UICONTROL 選択したフィールド]」領域で「[!DNL Sales Connect] のフィールド」を選択し、「[!UICONTROL 削除]」矢印をクリックします。終了したら、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/uninstall-salesforce-classic-customization-package-11.png)
 
    >[!NOTE]
    >
-   >MSE _is_ [!DNL Sales Connect] の略語。 これは「Marketo Sales Engage」という名前です
+   >MSE _は_ [!DNL Sales Connect] の略語です。これは「Marketo Sales Engage」という名前です。
 
 1. リードページの操作が完了したら、「**保存**」をクリックします。
 
-## リードリスト表示から [!DNL Sales Connect] 一括アクションボタンを削除 {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
+## リードリスト表示から [!DNL Sales Connect] の一括アクションボタンを削除 {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. 左側のナビゲーションの [!UICONTROL &#x200B; ビルド &#x200B;] で、（クリックせずに） [!UICONTROL &#x200B; カスタマイズ &#x200B;] を展開し、次に [!UICONTROL &#x200B; リード &#x200B;] を展開します。 次に、「**[!UICONTROL 検索レイアウト]**」を選択します。
+1. 左側のナビゲーションの「[!UICONTROL ビルド]」で、「[!UICONTROL カスタマイズ]」、「[!UICONTROL リード]」の順に展開します（ただし、クリックしないでください）。次に、「**[!UICONTROL 検索レイアウト]**」を選択します。
 
    ![](assets/uninstall-salesforce-classic-customization-package-12.png)
 
@@ -89,7 +89,7 @@ ht-degree: 71%
 
    ![](assets/uninstall-salesforce-classic-customization-package-13.png)
 
-1. **[!UICONTROL MSC Campaign （Classic）に追加]**、**[!UICONTROL MSC （Classic）とメール]**、**[!UICONTROL MSC （Classic）にプッシュ]** を選択し、[!UICONTROL &#x200B; 削除 &#x200B;] 矢印をクリックします。 「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL MSC キャンペーン（Classic）に追加]**」、「**[!UICONTROL MSC（Classic）でメール送信]**」、「**[!UICONTROL MSC（Classic）にプッシュ]**」を選択し、[!UICONTROL 削除]の矢印をクリックします。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/uninstall-salesforce-classic-customization-package-14.png)
 
@@ -97,9 +97,9 @@ ht-degree: 71%
 
 ## 取引先責任者の MSC 設定を削除 {#remove-msc-configuration-for-contacts}
 
-1. [!DNL Salesforce] で、**[!UICONTROL 設定]** をクリックします。
+1. [!DNL Salesforce] で、「**[!UICONTROL 設定]**」をクリックします。
 
-1. 左側のナビゲーションの [!UICONTROL &#x200B; ビルド &#x200B;] で、「[!UICONTROL &#x200B; カスタマイズ &#x200B;]」を展開し、次に「[!UICONTROL &#x200B; 連絡先 &#x200B;]」を展開します（クリックしないでください）。 次に、「**[!UICONTROL ページレイアウト]**」を選択します。
+1. 左側のナビゲーションの「[!UICONTROL ビルド]」で、「[!UICONTROL カスタマイズ]」、「[!UICONTROL 取引先責任者]」の順に展開します（ただし、クリックしないでください）。次に、「**[!UICONTROL ページレイアウト]**」を選択します。
 
 1. 取引先責任者レイアウトの横にある「**[!UICONTROL 編集]**」をクリックします。
 
@@ -107,9 +107,9 @@ ht-degree: 71%
 
 ## 商談の MSC 設定を削除 {#remove-msc-configuration-for-opportunity}
 
-1. [!DNL Salesforce] で、**[!UICONTROL 設定]** をクリックします。
+1. [!DNL Salesforce] で、「**[!UICONTROL 設定]**」をクリックします。
 
-1. 左側のナビゲーションの [!UICONTROL &#x200B; ビルド &#x200B;] で、「[!UICONTROL &#x200B; カスタマイズ &#x200B;]」を展開し、次に「[!UICONTROL &#x200B; 商談 &#x200B;]」を展開します（クリックしないでください）。 次に、「**[!UICONTROL ページレイアウト]**」を選択します。
+1. 左側のナビゲーションの「[!UICONTROL ビルド]」で、「[!UICONTROL カスタマイズ]」、「[!UICONTROL 商談]」の順に展開します（ただし、クリックしないでください）。次に、「**[!UICONTROL ページレイアウト]**」を選択します。
 
 1. 商談レイアウトの横にある「**[!UICONTROL 編集]**」をクリックします。
 
@@ -121,9 +121,9 @@ ht-degree: 71%
 
 ## アカウントの MSC 設定を削除 {#remove-msc-configuration-for-account}
 
-1. [!DNL Salesforce] で、**[!UICONTROL 設定]** をクリックします。
+1. [!DNL Salesforce] で、「**[!UICONTROL 設定]**」をクリックします。
 
-1. 左側のナビゲーションの [!UICONTROL &#x200B; ビルド &#x200B;] で、「[!UICONTROL &#x200B; カスタマイズ &#x200B;]」を展開し、次に「[!UICONTROL &#x200B; アカウント &#x200B;]」を展開します（ただし、クリックしないでください）。 次に、「**[!UICONTROL ページレイアウト]**」を選択します。
+1. 左側のナビゲーションの「[!UICONTROL ビルド]」で、「[!UICONTROL カスタマイズ]」、「[!UICONTROL アカウント]」の順に展開します（ただし、クリックしないでください）。次に、「**[!UICONTROL ページレイアウト]**」を選択します。
 
 1. アカウントレイアウトの横にある「**[!UICONTROL 編集]**」をクリックします。
 
@@ -133,19 +133,19 @@ ht-degree: 71%
 
 ![](assets/uninstall-salesforce-classic-customization-package-16.png)
 
-## Marketo Sales 送信トレイを削除 {#remove-marketo-sales-outbox}
+## Marketo Sales アウトボックスを削除 {#remove-marketo-sales-outbox}
 
 1. [!DNL Salesforce] で、画面上部の「**+**」タブをクリックします。
 
 1. 「**[!UICONTROL タブをカスタマイズ]**」をクリックします。
 
-1. 右側の「Marketo Sales 送信トレイ」オプションを選択します。[!UICONTROL &#x200B; 削除 &#x200B;] 矢印をクリックしてから、「**[!UICONTROL 保存]** をクリックします。
+1. 右側の「Marketo Sales 送信トレイ」オプションを選択します。[!UICONTROL 削除]矢印をクリックし、「**[!UICONTROL 保存]**」をクリックします。
 
-## パッケージ [!DNL Sales Connect] 削除 {#delete-sales-connect-package}
+## [!DNL Sales Connect] パッケージを削除 {#delete-sales-connect-package}
 
 Salesforce アカウントからすべてのオブジェクトを削除したら、以下の手順に従います。
 
-1. [!DNL Salesforce] で、**[!UICONTROL 設定]** をクリックします。
+1. [!DNL Salesforce] で、「**[!UICONTROL 設定]**」をクリックします。
 
 1. 「クイック検索」ボックスに、「Apex Classes」と入力します。
 
@@ -165,19 +165,19 @@ Salesforce アカウントからすべてのオブジェクトを削除したら
   <th>データタイプ</th>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC 呼び出しのローカル プレゼンス ID]</td>
-  <td>ユーザーは、MSC 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。着信電話は、受信者のローカル番号を表示します</td>
+  <td>[!UICONTROL MSC 電話ローカルプレゼンス ID]</td>
+  <td>ユーザは、MSC 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。着信電話は、受信者のローカル番号を表示します</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC 呼び出し記録 URL]</td>
+  <td>[!UICONTROL MSC 電話録音 URL]</td>
   <td>通話は録音され、録音のリンクはここに記録されます </td>
   <td>アクティビティ</td>
   <td>テキスト</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC キャンペーン &#x200B;]</td>
+  <td>[!UICONTROL MSC キャンペーン]</td>
   <td>取引先責任者／リードに適用されている MSC キャンペーンの名前を記録します</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
@@ -189,43 +189,43 @@ Salesforce アカウントからすべてのオブジェクトを削除したら
   <td>テキスト</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC キャンペーンの現在の手順 &#x200B;]</td>
+  <td>[!UICONTROL MSC キャンペーンの現在のステップ]</td>
   <td>取引先責任者／リードに適用されているキャンペーンがある場合、このフィールドには、リード／取引先責任者が現在適用されているステップの名前が記録されます</td>
   <td>アクティビティ</td>
   <td>チェックボックス</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC 電子メール添付ファイルが表示されました &#x200B;]</td>
+  <td>[!UICONTROL MSC メール添付ファイルの閲覧]</td>
   <td>ファイルが添付されたメールが送信され、受信者が閲覧した場合に、データを記録します</td>
   <td>アクティビティ</td>
   <td>チェックボックス</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC Email Clicked]</td>
+  <td>[!UICONTROL MSC メールのクリック]</td>
   <td>受信者がメール内のリンクをクリックしたときにチェックマークを記録します</td>
   <td>アクティビティ</td>
   <td>チェックボックス</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC E メール返信 &#x200B;]</td>
+  <td>[!UICONTROL MSC メールの返信]</td>
   <td>受信者がメールに返信したときにチェックマークを記録します</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC 電子メールの状態 &#x200B;]</td>
+  <td>[!UICONTROL MSC メールのステータス]</td>
   <td>メールが送信済み／処理中／バウンスされたかどうかを表示します（バウンスメールのトラッキングは、使用する配信チャネルに依存します）</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC メール テンプレート &#x200B;]</td>
+  <td>[!UICONTROL MSC メールテンプレート]</td>
   <td>リード／取引先責任者に送信されたメールで使用された MSC テンプレートの名前を記録します</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC メール テンプレート URL]</td>
+  <td>[!UICONTROL MSC メールテンプレート URL]</td>
   <td>MSC で作成されたテンプレートの URL を記録します。これをクリックすると、MSC web アプリでテンプレートが開きます</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
@@ -237,7 +237,7 @@ Salesforce アカウントからすべてのオブジェクトを削除したら
   <td>テキスト</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC Email Viewed]</td>
+  <td>[!UICONTROL MSC メールの表示]</td>
   <td>受信者がメールを表示したときにチェックマークを記録します</td>
   <td>アクティビティ</td>
   <td>チェックボックス</td>
@@ -360,8 +360,8 @@ Salesforce アカウントからすべてのオブジェクトを削除したら
   <th>タイプ</th>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC メールの送信 &#x200B;]</td>
-  <td>からの販売 E メールの送信 [!DNL Salesforce]</td>
+  <td>[!UICONTROL MSC メールを送信]</td>
+  <td>次からセールスメールを送信します。 [!DNL Salesforce]</td>
   <td>
   <p>アカウント
   <p>取引先責任者
@@ -369,22 +369,22 @@ Salesforce アカウントからすべてのオブジェクトを削除したら
   <p>商談</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC キャンペーンに追加 &#x200B;]</td>
-  <td>から MSC キャンペーンに追加 [!DNL Salesforce]</td>
+  <td>[!UICONTROL MSC キャンペーンに追加]</td>
+  <td>次から MSC キャンペーンに追加します。 [!DNL Salesforce]</td>
   <td>
   <p>取引先責任者
   <p>リード</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC へのプッシュ &#x200B;]</td>
-  <td>[!DNL Salesforce] から MSC への連絡先のプッシュ</td>
+  <td>[!UICONTROL MSC にプッシュ]</td>
+  <td>[!DNL Salesforce] から MSC に取引先責任者をプッシュします。</td>
   <td>
   <p>取引先責任者
   <p>リード</td>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC を使用した 呼び出し &#x200B;]</td>
-  <td>から営業の電話をかける [!DNL Salesforce]</td>
+  <td>[!UICONTROL MSC で電話]</td>
+  <td>次からセールス電話をかけます。 [!DNL Salesforce]</td>
   <td>
   <p>取引先責任者
   <p>リード</td>
@@ -398,22 +398,22 @@ Salesforce アカウントからすべてのオブジェクトを削除したら
   <th>タイプ</th>
  </tr>
  <tr>
-  <td>[!UICONTROL MSC キャンペーンに追加（クラシック） &#x200B;]</td>
-  <td>から MSC キャンペーンに追加 [!DNL Salesforce]</td>
+  <td>[!UICONTROL MSC キャンペーン（Classic）に追加]</td>
+  <td>次から MSC キャンペーンに追加します。 [!DNL Salesforce]</td>
   <td>
   <p>取引先責任者
   <p>リード</td>
  </tr>
  <tr>
-  <td>[!UICONTROL による MSC へのプッシュ（クラシック） &#x200B;]</td>
-  <td>[!DNL Salesforce] から MSC への連絡先のプッシュ</td>
+  <td>[!UICONTROL MSC（Classic）にプッシュ]</td>
+  <td>[!DNL Salesforce] から MSC に取引先責任者をプッシュします。</td>
   <td>
   <p>取引先責任者
   <p>リード</td>
  </tr>
  <tr>
-  <td>[ !MSC との電子メールを制御（クラシック） ]</td>
-  <td>からの MSC を含む電子メール [!DNL Salesforce]</td>
+  <td>[!UICONTROL MSC（Classic）でメールを送信]</td>
+  <td>次から MSC でメールを送信します。 [!DNL Salesforce]</td>
   <td>
   <p>取引先責任者
   <p>リード</td>

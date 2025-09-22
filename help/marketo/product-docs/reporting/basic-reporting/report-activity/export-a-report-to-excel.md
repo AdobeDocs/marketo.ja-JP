@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360020
-description: レポートの書き出し先  [!DNL Excel]  Marketo ドキュメント – 製品ドキュメント
-title: レポートのエクスポート先  [!DNL Excel]
+description: レポートの  [!DNL Excel]  への書き出し - Marketo ドキュメント - 製品ドキュメント
+title: レポートの  [!DNL Excel] への書き出し
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
-# [!DNL Excel] へのレポートのエクスポート {#export-a-report-to-excel}
+# レポートの [!DNL Excel] への書き出し {#export-a-report-to-excel}
 
-レポートを [!DNL Excel] ファイルにエクスポートして、他のソフトウェアでデータを操作できます。
+任意のレポートを [!DNL Excel] ファイルに書き出して、他のソフトウェアでデータを処理できます。
 
 1. **[!UICONTROL マーケティング活動]**&#x200B;領域に移動します。
 
@@ -27,7 +27,7 @@ ht-degree: 46%
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
-   それだけです。ブラウザーで、[!DNL Excel] ファイルをシステムに保存するように求められます。
+   それだけです。[!DNL Excel] ファイルをシステムに保存するように求めるプロンプトがブラウザーに表示されます。
 
    >[!MORELIKETHIS]
    >

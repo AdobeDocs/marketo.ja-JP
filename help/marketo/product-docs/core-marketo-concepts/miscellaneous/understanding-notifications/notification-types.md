@@ -3,10 +3,10 @@ unique-page-id: 2953243
 description: 通知のタイプ - Marketo ドキュメント - 製品ドキュメント
 title: 通知のタイプ
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -24,13 +24,13 @@ CRM 同期通知は、誤った権限や同期の停止など、CRM 同期で検
 
 **[!DNL Microsoft Dynamics]**
 
-[!DNL Dynamics] 通知は 24 時間ごとに 1 回送信され、その期間に同期に失敗したリードが含まれます。 障害の一般的な原因は、重複リード（上記）またはフィールド長の不一致エラーです。
+[!DNL Dynamics] 通知は 24 時間に 1 回送信され、その期間に同期できなかったリードが含まれます。障害の一般的な原因は、重複リード（上記）またはフィールド長の不一致エラーです。
 
 ![](assets/image2016-1-20-11-3a19-3a58.png)
 
 **[!DNL Salesforce]**
 
-[!DNL Salesforce] を使用する場合、同期エラー通知は次のようになります。 一般的なエラーには、期限切れの資格情報や、API の制限を超えたものが含まれます。
+[!DNL Salesforce] を使用する場合、同期エラー通知は次のようになります。一般的なエラーには、期限切れの資格情報や、API の制限を超えたものが含まれます。
 
 ![](assets/salesforcesyncerror.png)
 

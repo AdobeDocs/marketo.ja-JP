@@ -4,7 +4,7 @@ description: リリースノート - 2019 年 6 月 - Marketo ドキュメント
 title: リリースノート - 2019 年 6 月
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 100%

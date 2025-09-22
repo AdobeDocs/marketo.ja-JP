@@ -4,16 +4,16 @@ description: プログラムのインポート - Marketo ドキュメント - �
 title: プログラムのインポート
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '551'
-ht-degree: 67%
+ht-degree: 69%
 
 ---
 
 # プログラムのインポート {#import-a-program}
 
-プログラムは、あるMarketo Engageサブスクリプションから別のサブスクリプションサブスクリプションに読み込むことができます。 例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。また、[Marketo プログラムライブラリ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"} から事前定義済みプログラムを読み込むこともできます。
+プログラムは、あるMarketo Engage サブスクリプションから別のサブスクリプションに読み込むことができます。 例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。また、[Marketo プログラムライブラリ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"} から事前定義済みプログラムを読み込むこともできます。
 
 >[!CAUTION]
 >
@@ -33,7 +33,7 @@ ht-degree: 67%
    >
    >* プログラムのインポートは、「プログラムのインポート」権限が有効になっているロールを持つユーザのみが使用できます。詳しくは、[ユーザのロールと権限の管理](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}を参照してください。
    >
-   >* サンドボックスアカウントをライブサブスクリプションに接続するには、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} にお問い合わせください。
+   >* サンドボックスアカウントをライブサブスクリプションに接続するには、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にご連絡ください。
 
 1. Marketo **[!UICONTROL サブスクリプション]**&#x200B;を選択してインポートするプログラムを選択します。「**[!UICONTROL 次へ]**」をクリックします。
 

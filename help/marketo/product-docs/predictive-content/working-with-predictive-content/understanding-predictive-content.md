@@ -4,22 +4,22 @@ description: 予測コンテンツについて - Marketo ドキュメント - �
 title: 予測コンテンツについて
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
 # 予測コンテンツについて {#understanding-predictive-content}
 
-[予測コンテンツのタイトルを承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)した後、ここで作業します。[!UICONTROL &#x200B; 予測コンテンツ &#x200B;] ページには、予測コンテンツ用に承認したすべてのタイトルが表示されます。
+[予測コンテンツのタイトルを承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)した後、ここで作業します。[!UICONTROL 予測コンテンツ]ページには、予測コンテンツに対して承認したすべてのタイトルが表示されます。
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
 ページに表示されるフィールドは、次のとおりです。
 
-* **[!UICONTROL 画像と名前]**：コンテンツの一部の名前と選択した画像
+* **[!UICONTROL 画像とタイトル]**：コンテンツの名前と選択した画像
 * **[!UICONTROL ソースにより有効]**：タイトルがリッチメディア、電子メールまたはレコメンデーションバーに対して承認されているかどうかを表示します。
 * **[!UICONTROL カテゴリ]**：ユーザーが作成し、web またはメールの予測結果をグループ化するために使用
 * **[!UICONTROL クリック数]**：推奨コンテンツの合計クリック数（すべてのソースを含む）
@@ -36,7 +36,7 @@ ht-degree: 80%
 
 **[!UICONTROL 有効ソース]**
 
-有効なコンテンツのタイプ（[!UICONTROL &#x200B; メール &#x200B;]、[!UICONTROL &#x200B; リッチメディア &#x200B;]、[!UICONTROL &#x200B; レコメンデーションバー &#x200B;] ごとにフィルタリングします。
+[!UICONTROL メール]、[!UICONTROL リッチメディア]、[!UICONTROL レコメンデーションバー]のうち、有効になっているコンテンツのタイプを基準にフィルターします。
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
@@ -58,7 +58,7 @@ ht-degree: 80%
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
-[!UICONTROL &#x200B; コンバージョン率 &#x200B;] 列のバーにマウスポインターを置くと、コンバージョン率、ダイレクトコンバージョン、クリックされたデータが表示されます。
+「[!UICONTROL コンバージョン率]」列のバーにポインタを合わせると、コンバージョン率、ダイレクトコンバージョン数、クリック数のデータを確認できます。
 
 ![](assets/predictive-content-conversion-rate-popup-hand.png)
 

@@ -4,14 +4,14 @@ description: 収益エクスプローラレポートの書き出し - Marketo �
 title: 収益エクスプローラレポートの書き出し
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; 売上高エクスプローラー &#x200B;] レポートの書き出し {#exporting-a-revenue-explorer-report}
+# [!UICONTROL 収益エクスプローラー]レポートの書き出し {#exporting-a-revenue-explorer-report}
 
 任意の収益エクスプローラレポートを書き出して、他のユーザーと共有できます。
 
@@ -35,4 +35,4 @@ ht-degree: 86%
 
 >[!MORELIKETHIS]
 >
->[ 収益エクスプローラー [!UICONTROL &#x200B; レポートのサブスクライブ &#x200B;] る ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[[!UICONTROL 収益エクスプローラー]レポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

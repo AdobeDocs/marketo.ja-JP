@@ -3,10 +3,10 @@ description: Sales Insight Actions 管理者設定ガイド - Marketo ドキュ�
 title: Sales Insight Actions 管理者設定ガイド
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '646'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 78%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions は、[Marketo Sales Insight パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
+>Marketo セールスインサイト Actions は、[Marketo セールスインサイトパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
 >[!PREREQUISITES]
 >
->* Marketo Engage アカウントに対して MSI アクションが有効になっていることを、Adobe アカウントチーム（アカウントマネージャー）に確認します（アカウントマネージャーがない場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください）。
+>* MSI アクションが Marketo Engage アカウントで有効になっていることをアドビのアカウントチーム（担当のアカウントマネージャー）に確認します（アカウントマネージャーがいない場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください）。
 >* Marketo と Salesforce の同期を設定する必要があります。
 
 <table>
@@ -31,8 +31,8 @@ ht-degree: 78%
   <td>Marketo Sales アカウントの設定</td>
  </tr>
  <tr>
-  <td>Marketo管理者または <br/>[!DNL Salesforce] 管理者</td>
-  <td>Marketo Sales アカウントの接続先 [!DNL Salesforce]</td>
+  <td>Marketo 管理者または <br/>[!DNL Salesforce] 管理者</td>
+  <td>Marketo Sales アカウントを次に接続 [!DNL Salesforce]</td>
  </tr>
  <tr>
   <td>Marketo 管理者</td>
@@ -48,11 +48,11 @@ ht-degree: 78%
  </tr>
  <tr>
   <td>[!DNL Salesforce] 管理</td>
-  <td>での MSI パッケージのインストールまたはアップグレード [!DNL Salesforce]</td>
+  <td>次での MSI パッケージのインストール／アップグレード [!DNL Salesforce]</td>
  </tr>
  <tr>
   <td>[!DNL Salesforce] 管理</td>
-  <td>での MSI アクションの設定 [!DNL Salesforce]</td>
+  <td>次での MSI アクションの設定 [!DNL Salesforce]</td>
  </tr>
 </table>
 
@@ -76,17 +76,17 @@ ht-degree: 78%
 >
 >追加のユーザーは、Marketo からは追加されず、代わりに Sales アカウントのユーザー管理ページから追加されます。ユーザーの追加について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"}してください。
 
-## Marketo営業アカウントの [!DNL Salesforce] への接続 {#connect-marketo-sales-account-to-salesforce}
+## Marketo Sales アカウントを [!DNL Salesforce] に接続 {#connect-marketo-sales-account-to-salesforce}
 
 1. Marketo Sales アカウントで、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-3.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、**[!UICONTROL Salesforce]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」で「**[!UICONTROL Salesforce]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-4.png)
 
-1. [[!UICONTROL &#x200B; 接続とカスタマイズ &#x200B;]] タブで、[**[!UICONTROL 接続]**] をクリックします。
+1. 「[!UICONTROL 接続とカスタマイズ]」タブで、「**[!UICONTROL 接続]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-5.png)
 
@@ -102,7 +102,7 @@ ht-degree: 78%
 
    ![](assets/msi-actions-admin-guide-7.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、**Marketo** をクリックします。
+1. 「[!UICONTROL 管理者設定]」で、「**Marketo**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-8.png)
 
@@ -112,11 +112,11 @@ ht-degree: 78%
 
 >[!NOTE]
 >
->接続できない場合は、Marketo Sales Insight の「Actions 設定」タブから資格情報をコピーし、「設定」タブにペーストします。
+>接続できない場合は、Marketo セールスインサイトの「Actions 設定」タブから資格情報をコピーし、「設定」タブにペーストします。
 
 ## データ同期の開始 {#initiate-data-sync}
 
-Sales Insight Actions のデータ統合フィールド同期により、Insight データベースからMarketo Engage Actions データベースにユーザー情報を取り込み、ユーザーのデータを最新の状態に保ち、Marketoと [!DNL Salesforce] 全体で適切なレコードにアクティビティを確実に記録することができます。
+セールスインサイトアクションのデータ統合フィールドの同期により、Marketo Engage データベースからセールスインサイトアクションのデータベースに個人情報を取り込み、個人データを最新の状態に保ち、Marketo と [!DNL Salesforce] で適切なレコードにアクティビティを記録できます。
 
 >[!CAUTION]
 >
@@ -138,7 +138,7 @@ Sales Insight Actions のデータ統合フィールド同期により、Insight
 
    ![](assets/msi-actions-admin-guide-13.png)
 
-Marketoと [!DNL Salesforce] に存在する人物レコードは、Marketo Sales Apps アカウントに同期されます。
+Marketo と [!DNL Salesforce] に存在する人物レコードが、Marketo セールスアプリアカウントと同期されます。
 
 >[!NOTE]
 >
@@ -150,7 +150,7 @@ Marketoと [!DNL Salesforce] に存在する人物レコードは、Marketo Sale
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、「**[!UICONTROL User Management]**」を選択します。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL ユーザ管理]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-15.png)
 
@@ -174,7 +174,7 @@ Marketoと [!DNL Salesforce] に存在する人物レコードは、Marketo Sale
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. [!UICONTROL &#x200B; 管理設定 &#x200B;] で、「**[!UICONTROL User Management]**」を選択します。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL ユーザ管理]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-19.png)
 

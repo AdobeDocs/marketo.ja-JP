@@ -3,10 +3,10 @@ description: 手順 4 / 4 - Marketo ソリューションとリソース所有�
 title: 手順 4 / 4 - Marketo ソリューションとリソース所有者のパスワード制御接続の接続
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 79%
 >
 >* [手順 1 / 4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションのインストール](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
 >* [手順 2 / 4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
->* [ 手順 3/4:MS でのクライアントアプリのセットアップ  [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
+>* [手順 3／4：MS  [!DNL Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md) でのクライアントアプリの設定
 
 >[!NOTE]
 >
@@ -26,9 +26,9 @@ ht-degree: 79%
 
 >[!NOTE]
 >
->基本認証から [!DNL OAuth] 認証にアップグレードする場合は、[ この記事 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md) を使用して認証を再設定できます。
+>基本認証から [!DNL OAuth] にアップグレードする場合は、[この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)を参照して認証を再設定できます。
 
-## 同期ユーザー情報 [!DNL Dynamics] 入力 {#enter-dynamics-sync-user-information}
+## [!DNL Dynamics] 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
 
 1. Marketo にログインし、「**[!UICONTROL 管理]**」をクリックします。
 
@@ -54,7 +54,7 @@ ht-degree: 79%
    >
    >新しい資格情報を入力する前に、[こちらでそれらを検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}できます。
 
-1. **[!UICONTROL ユーザー名]**、**[!UICONTROL パスワード]**、[!DNL Microsoft Dynamics] **[!UICONTROL URL]**、**[!UICONTROL クライアント ID]**、および **[!UICONTROL クライアントシークレット]** を入力します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
+1. **[!UICONTROL ユーザ名]**、**[!UICONTROL パスワード]**、[!DNL Microsoft Dynamics] **[!UICONTROL URL]**、**[!UICONTROL クライアント ID]** および&#x200B;**[!UICONTROL クライアント秘密鍵]**&#x200B;を入力します。終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 
@@ -74,17 +74,17 @@ ht-degree: 79%
 
 >[!NOTE]
 >
->Marketo は、同期するフィールドへの参照を保存します。[!DNL Dynamics] でフィールドを削除する場合は、[ 同期を無効 ](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md) にして行うことをお勧めします。 次に、[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)を編集および保存して、Marketo のスキーマを更新します。
+>Marketo は、同期するフィールドへの参照を保存します。[!DNL Dynamics] でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)の状態で実行することをお勧めします。次に、「[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)」を編集および保存して、Marketo のスキーマを更新します。
 
 ## カスタムフィルターのフィールドを同期する {#sync-fields-for-a-custom-filter}
 
 カスタムフィルターを作成した場合は、Marketo と同期する新しいフィールドを選択するようにします。
 
-1. [!UICONTROL &#x200B; 管理者 &#x200B;] に移動し、「**[!UICONTROL Microsoft Dynamics]**」を選択します。
+1. 「[!UICONTROL 管理者]」に移動し、「**[!UICONTROL Microsoft Dynamics]**」を選択します。
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. **[!UICONTROL フィールド同期の詳細]** で [!UICONTROL &#x200B; 編集 &#x200B;] をクリックします。
+1. 「[!UICONTROL フィールド同期の詳細]」で「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -100,7 +100,7 @@ ht-degree: 79%
 
    >[!CAUTION]
    >
-   >Marketoは、[!UICONTROL Microsoft Dynamics] との同期、またはユーザーやリードを手動で入力した場合には、自動的に重複排除を行いません。
+   >Marketo は、[!UICONTROL Microsoft Dynamics] の同期に対して、または人物やリードを手動で入力した場合には、自動的に重複排除を行いません。
 
 1. ポップアップの内容をすべて読み、メールアドレスを入力して、「**[!UICONTROL 同期を開始]**」をクリックします。
 
@@ -112,4 +112,4 @@ ht-degree: 79%
 
 >[!MORELIKETHIS]
 >
->[Reconfigure [!DNL Dynamics] Authentication メソッド ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
+>[ [!DNL Dynamics]  認証方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)の再設定

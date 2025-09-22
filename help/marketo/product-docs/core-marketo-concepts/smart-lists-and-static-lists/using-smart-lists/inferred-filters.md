@@ -4,8 +4,8 @@ description: 推測フィルター - Marketo ドキュメント - 製品ドキ�
 title: 推測フィルター
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 100%
 

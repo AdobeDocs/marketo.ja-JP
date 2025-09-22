@@ -4,10 +4,10 @@ description: フィールドの名前を変更する - Marketo ドキュメン�
 title: フィールドの名前を変更する
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -45,4 +45,4 @@ ht-degree: 83%
 
 >[!CAUTION]
 >
->[!DNL Salesforce] で API 名を変更すると、Marketoによって新しいフィールドが作成され、古いフィールドは残されます。
+>[!DNL Salesforce] で API 名を変更すると、Marketo は新しいフィールドを作成し、古いフィールドはそのままにします。

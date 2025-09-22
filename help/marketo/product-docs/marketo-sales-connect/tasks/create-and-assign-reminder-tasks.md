@@ -3,10 +3,10 @@ description: リマインダータスクの作成と割り当て - Marketo ド�
 title: リマインダータスクの作成と割り当て
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '143'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 92%
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
-1. 「[!UICONTROL &#x200B; メール &#x200B;]」、「[!UICONTROL &#x200B; 通話 &#x200B;]」、「[!UICONTROL &#x200B; メール内 &#x200B;]」または「[!UICONTROL &#x200B; カスタム &#x200B;] タスクからタスクタイプを選択します。
+1. タスクタイプを、[!UICONTROL メール]、[!UICONTROL 電話]、[!UICONTROL InMail]、[!UICONTROL カスタム]タスクから選択します。
 
    ![](assets/create-and-assign-reminder-tasks-3.png)
 

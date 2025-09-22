@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7511512
-description: Salesforce1 での Marketo Sales Insight のインストールおよび設定 - Marketo ドキュメント - 製品ドキュメント
-title: Salesforce1 での Marketo Sales Insight のインストールおよび設定
+description: Salesforce1 での Marketo セールスインサイトのインストールおよび設定 - Marketo ドキュメント - 製品ドキュメント
+title: Salesforce1 での Marketo セールスインサイトのインストールおよび設定
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
-# [!DNL Marketo Sales Insight] での [!DNL Salesforce1] のインストールと設定 {#install-and-configure-marketo-sales-insight-in-salesforce}
+# [!DNL Salesforce1] での [!DNL Marketo Sales Insight] のインストールと設定 {#install-and-configure-marketo-sales-insight-in-salesforce}
 
 >[!NOTE]
 >
@@ -21,23 +21,23 @@ ht-degree: 70%
 >
 >Salesforce Enterprise／Unlimited をお持ちの場合：
 >
->* [ 手順 1/3:Marketo フィールドの追加先  [!DNL Salesforce]  （Enterprise/Unlimited） ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [ 手順 2/3:Marketoのユーザー  [!DNL Salesforce]  作成（Enterprise/Unlimited） ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [ 手順 3/3:Marketoと  [!DNL Salesforce]  を接続する（Enterprise/Unlimited） ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
->* [Configure [!DNL Marketo Sales Insight] in [!DNL Salesforce] Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [手順 1／3：Marketo フィールドの  [!DNL Salesforce]  への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [手順 2／3：Marketo 用の  [!DNL Salesforce]  ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [手順 3／3：Marketo と  [!DNL Salesforce]  の接続（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
+>* [ [!DNL Salesforce]  Enterprise／Unlimited での  [!DNL Marketo Sales Insight]  の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 >
 >Salesforce Professional をお持ちの場合：
 >
->* [Salesforce Professional Edition での Marketo Sales Insight の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [Salesforce Professional Edition での Marketo セールスインサイトの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] の [!DNL Salesforce1] には、[!DNL B ベストベット &#x200B;]、リードフィード、注目のモーメント、Marketo Campaign に追加が含まれます。
+>[!DNL Salesforce1] の [!DNL Marketo Sales Insight] には、[!DNLB最有望見込客]、リードフィード、注目のアクション、Marketo キャンペーンに追加が含まれます。
 
-## [!DNL Salesforce1] モバイルアプリの有効化 {#enable-the-salesforce1-mobile-app}
+## [!DNL Salesforce1] モバイルアプリを有効にする {#enable-the-salesforce1-mobile-app}
 
-1. 「**[!DNL Setup]**」をクリックし、「**[!DNL Mobile Administration]**」をクリックします。
+1. 「**[!DNL Setup]**」、「**[!DNL Mobile Administration]**」の順にクリックします。
 
    ![](assets/image2015-4-21-15-3a29-3a22.png)
 
@@ -87,7 +87,7 @@ ht-degree: 70%
 
    ![](assets/image2015-5-5-11-3a15-3a21.png)
 
-1. 目的のプロファイルをクリックして **[!UICONTROL 編集]** します。
+1. 任意のプロファイルをクリックして&#x200B;**[!UICONTROL 編集]**&#x200B;します。
 
    ![](assets/image2015-5-5-13-3a51-3a36.png)
 
@@ -131,7 +131,7 @@ ht-degree: 70%
 
    >[!NOTE]
    >
-   >連絡先、アカウント、商談のオブジェクトに対して、組織が使用するすべてのページレイアウト（マーケティング、販売など）について手順を繰り返します。
+   >取引先責任者、アカウント、商談の各オブジェクトに対して、組織が使用するすべてのページレイアウト（マーケティング、セールスなど）に手順を繰り返します。
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
@@ -147,7 +147,7 @@ ht-degree: 70%
 
    ![](assets/image2015-4-22-17-3a52-3a15.png)
 
-1. 「**[!UICONTROL フィールド]**」をクリックして、「**[!UICONTROL Marketo キャンペーンに追加]**」を **[!UICONTROL Marketo Sales Insight]** セクションにドラッグします。
+1. 「**[!UICONTROL フィールド]**」をクリックして、「**[!UICONTROL Marketo キャンペーンに追加]**」を **[!UICONTROL Marketo セールスインサイト]**&#x200B;セクションにドラッグします。
 
    ![](assets/configure-step-6.png)
 
@@ -159,10 +159,10 @@ ht-degree: 70%
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
-もう少しです。[!DNL Marketo Sales Insight] for [!DNL Salesforce1] のインストールが完了しました。 これで安心です。
+もう少しです。これで、[!DNL Salesforce1] 用 [!DNL Marketo Sales Insight] のインストールが完了しました。これで安心です。
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Best Bets] in [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)
->* [ 注目のアクション  [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
->* [Marketoのメール送信、Campaign および監視リストのアクション  [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
+>*  [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md) の [[!DNL Best Bets] 
+>* [ [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md) での注目のアクション
+>* [ [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md) での Marketo メール送信、キャンペーンおよびウォッチリストアクション

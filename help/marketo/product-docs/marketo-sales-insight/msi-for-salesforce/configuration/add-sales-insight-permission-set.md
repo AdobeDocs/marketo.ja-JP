@@ -3,28 +3,28 @@ description: Sales Insight 権限セットの追加 - Marketo ドキュメント
 title: Sales Insight 権限セットの追加
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '349'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
-# 権限セット [!DNL Sales Insight] 追加 {#add-sales-insight-permission-set}
+# [!DNL Sales Insight] 権限セットの追加 {#add-sales-insight-permission-set}
 
-[!DNL Sales Insight] の [!DNL Salesforce] 機能へのアクセスを追加するには、次の手順を使用します。 [!DNL Salesforce] Classic および Lightning に適用可能
+次の手順を使用して、[!DNL Salesforce] の [!DNL Sales Insight] 機能へのアクセス権を追加します。[!DNL Salesforce] Classic および Lightning に適用可能
 
 >[!PREREQUISITES]
 >
->この機能を使用するには、[ [!DNL Sales Insight] [!DNL Salesforce] パッケージをアップデート ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} してバージョン 1.8000 以降にアップグレードします。
+>この機能を使用するには、バージョン 1.8000 以降に [ [!DNL Sales Insight] [!DNL Salesforce] パッケージを更新](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}します。
 
 >[!IMPORTANT]
 >
->以前、すべてのプロファイルに対して [!DNL Sales Insight] アクセス権を付与したり、すべてのユーザーに [!DNL Sales Insight] を実装したりした場合、この権限セットを使用するには [ プロファイルレベルのアクセス権を削除 ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} する必要があります。
+>以前にすべてのプロファイルに [!DNL Sales Insight] のアクセス権を付与している場合や、すべてのユーザに [!DNL Sales Insight] を実装している場合は、[プロファイルレベルのアクセス権を削除](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}して、この権限セットを使用する必要があります。
 
 ## 概要 {#overview}
 
-「Marketo アプリ」権限は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部です。 これには、以下に示すオブジェクト、apex クラス、visualforce ページへのアクセスが含まれます。これらはすべての機能にアクセスする [!DNL Sales Insight] めに必要です。
+「Marketo アプリ」権限は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部です。これには、以下に示すオブジェクト、apex クラス、visualforce ページへのアクセスが含まれます。これらは、すべての [!DNL Sales Insight] 機能にアクセスするために必要です。
 
 **オブジェクト設定**
 
@@ -111,6 +111,6 @@ ht-degree: 70%
 
 >[!NOTE]
 >
->[!DNL Sales Insight] へのアクセス権を持たないユーザーには、「このタブにアクセスするための十分な権限がありません」というメッセージが表示されます。
+>[!DNL Sales Insight] へのアクセス権を持たないユーザには、「このタブにアクセスするのに十分な権限がありません」というメッセージが表示されます。
 
-これで完了です。[!DNL Sales Insight] アクセスが正常に追加されました。 アクセスを追加する他のプロファイルに対しても同じ手順を繰り返します。
+これで完了です。[!DNL Sales Insight] へのアクセス権が正常に追加されました。アクセス権を追加する他のプロファイルに対しても同じ手順を繰り返します。

@@ -4,16 +4,16 @@ description: メールプログラム結果の表示 - Marketo ドキュメン�
 title: メールプログラム結果の表示
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
 # メールプログラム結果の表示 {#view-email-program-results}
 
-スマートキャンペーンの [!UICONTROL &#x200B; 結果 &#x200B;] タブと同様に、メールプログラムにも同じ情報が表示されます。
+スマートキャンペーンの「[!UICONTROL 結果]」タブと同様に、メールプログラムにも同じ情報が表示されます。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 

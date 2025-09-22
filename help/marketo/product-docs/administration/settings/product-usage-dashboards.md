@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 2%
@@ -16,7 +16,7 @@ ht-degree: 2%
 
 Marketo Engage製品使用状況ダッシュボードを使用すると、特定の制限やバックログに対する製品およびプラットフォームの使用状況、毎日の割り当てに対する使用状況、サブスクリプションの主要指標を表示できます。 インフラストラクチャは、特定の属性の製品レベルに対して定義されたパフォーマンス制限を提供するために割り当てられます。 これらの制限の一部（API の使用状況など）は、パッケージまたは製品層の一部として購入した契約上の制限です。
 
-## アクセス方法 {#how-to-access}
+## アクセスする方法 {#how-to-access}
 
 1. Marketo Engage で、「**管理者**」をクリックします。
 

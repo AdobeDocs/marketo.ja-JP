@@ -4,10 +4,10 @@ description: アカウントチームのセットアップ — Marketoドキュ�
 title: アカウントチームの設定
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -23,21 +23,21 @@ ht-degree: 79%
 
    ![](assets/account-team-setup-2.png)
 
-1. [ アカウントチームメンバ ] で、 **[!UICONTROL 編集]**.
+1. アカウントチームメンバーで、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/3.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL &#x200B; アカウントの役割 &#x200B;] については、名前を付け、CRM で目的のユーザー検索フィールドと一致させます。
+   >「[!UICONTROL アカウントロール]」に名前を付け、CRM の目的のユーザルックアップフィールドと照合します。
 
-1. [!UICONTROL &#x200B; アカウントの役割 &#x200B;] 名を入力し、「**CRM**」フィールドを選択します。 10 個まで追加できます。
+1. [!UICONTROL アカウントロール]名を入力し、「**CRM**」フィールドを選択します。10 個まで追加します。
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL &#x200B; アカウント所有者 &#x200B;] を選択することはできません。 CRM のアカウントレベルからデフォルトで選択されます。
+   >[!UICONTROL アカウント所有者]は選択できません。CRM のアカウントレベルからデフォルトで選択されます。
 
 1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 

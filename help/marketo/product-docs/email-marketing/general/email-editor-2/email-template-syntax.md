@@ -4,7 +4,7 @@ description: メールテンプレートの構文 - Marketo ドキュメント -
 title: メールテンプレートの構文
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 100%
@@ -269,11 +269,11 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 オプションの属性
 
-* **default**：切り替えスイッチのデフォルトの状態を決定するブール値。省略した場合は False です。
+* **default**：切替スイッチのデフォルトの状態を決定するブール値。省略した場合は False です。
 * **false_value**：切り替えがオフの場合に挿入される値。省略した場合は False です。
 * **true_value**：切り替えがオンの場合に挿入される値。省略した場合は True です。
-* **false_value_name**：OFF の場合にトグルに表示される UI。省略した場合は False です。
-* **true_value_name**：ON の場合にトグルに表示される UI。省略した場合は True です。
+* **false_value_name**：OFF の場合に切替スイッチに表示される UI。省略した場合は False です。
+* **true_value_name**：ON の場合に切替スイッチに表示される UI。省略した場合は True です。
 * **mktoModuleScope**：ブール値。モジュールで使用する場合に、変数をローカル（true）にするかグローバル（false）にするかを制御します。省略した場合のデフォルト値は False です。
 
 宣言の例：

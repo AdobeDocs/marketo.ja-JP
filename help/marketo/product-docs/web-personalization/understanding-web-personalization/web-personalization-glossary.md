@@ -4,21 +4,21 @@ description: Web パーソナライゼーション用語集 - Marketo ドキュ�
 title: Web パーソナライゼーション用語集
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 # [!DNL Web Personalization] 用語集 {#web-personalization-glossary}
 
-[!DNL Marketo Web Personalization] の世界と言語に関するインサイト。
+[!DNL Marketo Web Personalization] の世界と言語に関するインサイトがいくつかあります。
 
 | 用語 | 定義 |
 |---|---|
 | **匿名訪問者** | フォームに入力したことも web サイトに詳細を残したこともない web 訪問者。 |
-| **Web キャンペーン** | 特定のセグメントに関連付けられたカスタマイズされたリアクション。Web パーソナライズでは、web キャンペーンには、ダイアログ、ゾーン内、ウィジェットが含まれます。 |
+| **Web キャンペーン** | 特定のセグメントに関連付けられたカスタマイズされたリアクション。Web パーソナライゼーションでは、web キャンペーンには、ダイアログ、ゾーン内、ウィジェットが含まれます。 |
 | **クリックストリーム** | サイト上での訪問者のアクティビティや URL パスおよび各ページでの滞在時間 |
 | **ISP** | インターネットサービスプロバイダー |
 | **既知の訪問者** | フォームに入力し、web サイトに詳細（メールアドレス）を残した、または Marketo のメールのリンクをクリックした web 訪問者。 |

@@ -4,8 +4,8 @@ description: リリースノート - 2012年4月 - Marketo ドキュメント - 
 title: リリースノート - 2012年4月
 exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 100%
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 ## セグメントフィルターとトリガー {#segmentation-filters-and-triggers}
 
-同じリードのグループを一貫してターゲットしますか？その場合、スマートリストのセグメント化を利用してターゲットリードを特定します。セグメント化を使用すると、リードデータベース全体が常にセグメント化され、一貫性を保つためにプログラム全体で再利用できます。セグメント化の結果は、リクエスト時にスマートリストを実行する必要がないので、すばやく取り込まれます。
+同じリードのグループを一貫してターゲットしますか？その場合、スマートリストのセグメント化を利用してターゲティングしたリードを特定します。セグメント化を使用すると、リードデータベース全体が常にセグメント化され、一貫性を保つためにプログラム全体で再利用できます。セグメント化の結果は、リクエスト時にスマートリストを実行する必要がないので、すばやく取り込まれます。
 
 ![](assets/image2014-9-23-10-3a3-3a57.png)
 
@@ -50,7 +50,7 @@ ht-degree: 100%
 
 [!DNL Salesforce] とサブスクリプションを同期していない場合は、[!DNL Salesforce] を参照するすべてのフォルダーとフローアクションが削除されます。
 
-## Marketo 売上高サイクル分析 {#marketo-revenue-cycle-analytics}
+## Marketo 収益サイクル分析 {#marketo-revenue-cycle-analytics}
 
 **売上高サイクルモデラーでのゲートステージの機能強化**
 

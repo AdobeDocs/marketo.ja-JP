@@ -4,10 +4,10 @@ description: トラッキング動作の表示方法 - Marketo ドキュメン�
 title: トラッキング動作の表示方法
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 66%
 
 送信メールの中に見えない画像を配置することによって、メールの開封はトラックされます。
 
-誰かがメールに返信したが、[!DNL Sales Connect] れが表示されなかったと言っている場合、受信者がメールクライアント内で画像を有効にしなかった可能性があります（例えば、メールの「画像をダウンロードするには、ここをクリック」メッセージをクリックします）。
+受信者が送信メールに応答しても、[!DNL Sales Connect] では未開封と表示されている場合、受信者がメールクライアント内の画像を有効にしていない可能性があります（例：メール内の「画像をダウンロードするには、ここをクリック」をクリック）。
 
 メール統計のトラックに関するより良い情報を得るためのヒント：
 

@@ -4,10 +4,10 @@ description: プログラム情報を示すメール分析レポートの作成 
 title: プログラム情報を示すメール分析レポートの作成
 exl-id: 9d7fd359-c06e-4dab-a0d7-9c360bb44d0d
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 94%
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. **[!UICONTROL 送信済み（週）]**&#x200B;の黄色い点をみつけて、右クリックします。「**[!UICONTROL フィルター…]**」をクリックします。
+1. **[!UICONTROL 送信済み（週）]**&#x200B;の黄色い点をみつけて、右クリックします。「**[!UICONTROL フィルター...]**」をクリックします。
 
    >[!NOTE]
    >
@@ -39,7 +39,7 @@ ht-degree: 94%
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. 「**[!UICONTROL 現在送信済み（週）]**」をチェックし、「**[!UICONTROL OK]**」をクリックします。
+1. 「**[!UICONTROL 現在の送信済み (週)]**」をオンにして、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
@@ -55,6 +55,6 @@ ht-degree: 94%
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 
-   完成です。レポートは次のようになります。
+   これで完了です。レポートは次のようになります。
 
    ![](assets/image2014-9-17-19-3a45-3a1.png)

@@ -4,10 +4,10 @@ description: 人物の詳細表示 - Marketo ドキュメント - 製品ドキ�
 title: 人物の詳細表示
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '281'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -45,8 +45,8 @@ ht-degree: 95%
 
 **アカウント情報**
 
-* [!DNL Salesforce] にユーザーを追加できます
-* [!DNL Salesforce] からアカウントおよびリード/連絡先情報を取り込む
+* [!DNL Salesforce] に人物を追加できます
+* [!DNL Salesforce] からアカウントおよびリード／取引先責任者情報を取得します
 
 **カスタムフィールド**
 

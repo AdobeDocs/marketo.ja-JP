@@ -4,10 +4,10 @@ description: コンテンツと添付ファイルに関する FAQ - Marketo ド�
 title: コンテンツと添付ファイルに関する FAQ
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '261'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -17,17 +17,17 @@ ht-degree: 72%
 
 **添付ファイル**&#x200B;は、通常の電子メールクライアントで使用する添付ファイルと同じです。
 
-**コンテンツ** は、アドビがトラッキングする必要のあるすべてのファイル（PPT、PDF、Word ドキュメントなど）を記述するために使用するもので [!DNL Sales Connect]。
+**コンテンツ**&#x200B;は、[!DNL Sales Connect] で追跡するファイル（PPT、PDF、Word ドキュメントなど）を説明するために使用するものです。
 
 このボタンをクリックすると、既にアップロード済みのファイルを選択するか、新しいファイルをアップロードしてトラックできます。使用するメールまたはテンプレートにリンクが挿入されます。
 
-受信側で、受信者がリンクをクリックすると、コンテンツがブラウザーに入力されます。これにより、各ページビューを追跡し、ライブフィードで [!DNL Sales Connect] ユーザーにレポートできます。
+受信側で、受信者がリンクをクリックすると、コンテンツがブラウザーに入力されます。これにより、各ページビューを追跡し、ライブフィード内の [!DNL Sales Connect] ユーザに報告することができます。
 
-ファイルとコンテンツのオプションは、1 回限りのメール、テンプレート、キャンペーン、[!DNL Outlook] （[!DNL Windows] とMacの両方）、Gmail、OWA で使用できます。
+ファイルとコンテンツのオプションは、1 回限りのメール、テンプレート、キャンペーン、[!DNL Outlook]（[!DNL Windows] と Mac の両方）、Gmail、OWA で使用できます。
 
 ## コンテンツは誰が管理し、どこに保存されますか？ {#who-manages-the-content-and-where-is-it-stored}
 
-テンプレートの作成機能を持つ任意のユーザーが [!DNL Sales Connect] リポジトリにコンテンツをアップロードできます。 つまり、ユーザは選択したコンテンツをアップロードできます。
+テンプレートを作成できる任意のユーザが、[!DNL Sales Connect] リポジトリにコンテンツをアップロードできます。つまり、ユーザは選択したコンテンツをアップロードできます。
 
 ## コンテンツ、プレイブック、テンプレートなどをチームで作成／整理できますか？ {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 

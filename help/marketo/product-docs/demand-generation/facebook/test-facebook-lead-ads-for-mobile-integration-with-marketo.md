@@ -4,32 +4,32 @@ description: Marketo とのモバイル統合に向けた Facebook リード広�
 title: Marketo とのモバイル統合に向けた Facebook リード広告のテスト
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
-# Marketo[!DNL Facebook] のモバイル統合向けリード広告のテスト {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
+# Marketo とのモバイル統合に向けた [!DNL Facebook] リード広告のテスト {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
 
 リード広告を作成した後、テストする必要があります。
 
 >[!PREREQUISITES]
 >
->[Facebook リード広告 [!UICONTROL &#x200B; 統合を設定 &#x200B;] する必要があり ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) す。
+>[[!UICONTROL Facebook リード広告]の統合を設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)する必要があります。
 
 1. [!UICONTROL Facebook Power Editor] で、キャンペーンと広告を選択し、「**[!UICONTROL 編集]**」をクリックします。
 
-1. **[!UICONTROL リンク]**&#x200B;の下で、「**[!UICONTROL モバイルアプリで表示]**」リンクをクリックします。
+1. 「**[!UICONTROL リンク]**」で、「**[!UICONTROL モバイルアプリで表示]**」リンクをクリックします。
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
-1. 承認されたアカウントでモバイルデバイスでアクセスできる新しい通知が [!DNL Facebook] アカウントに送信されます。 「**[!UICONTROL OK]**」をクリックします。
+1. 新しい通知が [!DNL Facebook] アカウントに送信され、認証済みアカウントでモバイルデバイスからアクセスできるようになります。「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
-1. モバイルデバイスで、**[!UICONTROL モバイルアプリの「]** 通知 [!DNL Facebook]」をタップします。
+1. モバイルデバイスで、[!DNL Facebook] モバイルアプリの「**[!UICONTROL 通知]**」をタップします。
 
    ![](assets/image2016-3-11-8-3a38-3a35.png)
 
@@ -57,4 +57,4 @@ ht-degree: 71%
 
 >[!NOTE]
 >
->[ 有効/無効 [!UICONTROL Facebook リード広告 &#x200B;]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[[!UICONTROL Facebook リード広告の有効化／無効化]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

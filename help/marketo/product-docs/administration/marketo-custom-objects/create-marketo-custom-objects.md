@@ -4,10 +4,10 @@ description: Marketo カスタムオブジェクトの作成 - Marketo ドキュ
 title: Marketo カスタムオブジェクトの作成
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '698'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 96%
 >
 >カスタムオブジェクトが承認されると、リンクまたは重複排除フィールドの作成、編集、削除はできなくなります。
 
-## 1 対多構造のカスタムフィールドの作成 {#create-a-custom-object-for-a-one-to-many-structure}
+## 1 対多構造のカスタムオブジェクトの作成 {#create-a-custom-object-for-a-one-to-many-structure}
 
 この例では、1 対多の構造で使用する「自動車」カスタムオブジェクトを示します。後で、多対多構造で使用する「コース」カスタムオブジェクトと中間オブジェクトを作成します。
 
@@ -55,7 +55,7 @@ ht-degree: 96%
 
    ![](assets/create-marketo-custom-objects-5.png)
 
-1. カスタムオブジェクト情報には、入力した内容が表示されます。状態が **[!UICONTROL ドラフト]** であることに注意してください。
+1. カスタムオブジェクト情報には、入力した内容が表示されます。ステートが&#x200B;**[!UICONTROL ドラフト]**&#x200B;であることに注意してください。
 
    ![](assets/create-marketo-custom-objects-6.png)
 
@@ -65,7 +65,7 @@ ht-degree: 96%
    >
    >Marketo カスタムオブジェクトの入力は、リストのインポート、または [API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api) 経由でのみ可能です。
 
-## 多対多構造のカスタムフィールドの作成 {#create-a-custom-object-for-a-many-to-many-structure}
+## 多対多構造のカスタムオブジェクトの作成 {#create-a-custom-object-for-a-many-to-many-structure}
 
 この例では、「コース」のカスタムオブジェクトを示します。このオブジェクトを使用して、人物／会社とコースの間に多対多の関係を作成します。作業が完了したら、中間オブジェクトを作成して、データベース内の人物や会社に接続します。
 
@@ -97,7 +97,7 @@ ht-degree: 96%
 
    ![](assets/create-marketo-custom-objects-11.png)
 
-1. カスタムオブジェクト情報には、入力した内容が表示されます。状態が **[!UICONTROL ドラフト]** であることに注意してください。
+1. カスタムオブジェクト情報には、入力した内容が表示されます。ステートが&#x200B;**[!UICONTROL ドラフト]**&#x200B;であることに注意してください。
 
    ![](assets/create-marketo-custom-objects-12.png)
 
@@ -139,7 +139,7 @@ ht-degree: 96%
 
    ![](assets/create-marketo-custom-objects-17.png)
 
-1. カスタムオブジェクト情報には、入力した内容が表示されます。状態が **[!UICONTROL ドラフト]** であることに注意してください。
+1. カスタムオブジェクト情報には、入力した内容が表示されます。ステートが&#x200B;**[!UICONTROL ドラフト]**&#x200B;であることに注意してください。
 
    次の手順は、[リンクフィールドを追加](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)して、中間オブジェクトを人物／会社とカスタムオブジェクトに接続します。
 

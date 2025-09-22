@@ -3,8 +3,8 @@ description: インタラクティブウェビナーの変更または削除 - M
 title: インタラクティブウェビナーの変更または削除
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 100%
 

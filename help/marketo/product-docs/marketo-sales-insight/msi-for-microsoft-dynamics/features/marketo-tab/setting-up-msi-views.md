@@ -3,16 +3,16 @@ description: MSI ビューの設定 - Marketo ドキュメント - 製品ドキ�
 title: MSI ビューの設定
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 # MSI ビューの設定 {#setting-up-msi-views}
 
-Dynamics に [!DNL Sales Insight] プラグインをインストールすると、[!DNL Best Bets] および関連ダッシュボードがサイトマップ上に自動的に追加されます。 何らかの理由でダッシュボードが追加されない場合に手動で追加する方法を次に示します。
+Dynamics に [!DNL Sales Insight] プラグインをインストールすると、サイトマップに [!DNL Best Bets] と関連するダッシュボードが自動的に追加されます。何らかの理由でダッシュボードが追加されない場合に手動で追加する方法を次に示します。
 
 1. Dynamics で、歯車アイコンをクリックし、ドロップダウンから「**[!UICONTROL 詳細設定]**」をクリックします。
 

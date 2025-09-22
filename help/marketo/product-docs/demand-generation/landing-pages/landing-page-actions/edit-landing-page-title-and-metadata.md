@@ -4,8 +4,8 @@ description: ランディングページのタイトルとメタデータの編�
 title: ランディングページのタイトルとメタデータの編集
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 100%
 

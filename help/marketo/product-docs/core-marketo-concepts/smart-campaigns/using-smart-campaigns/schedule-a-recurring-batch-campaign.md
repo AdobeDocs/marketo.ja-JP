@@ -4,16 +4,16 @@ description: 繰り返しバッチキャンペーンのスケジュール - Mark
 title: 繰り返しバッチキャンペーンのスケジュール
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 19%
+source-wordcount: '143'
+ht-degree: 18%
 
 ---
 
 # 繰り返しバッチキャンペーンのスケジュール {#schedule-a-recurring-batch-campaign}
 
-繰り返しを使用すると、バッチキャンペーンを定期的なスケジュールで実行できます。 例：週に 1 回、火曜日の午前 10:00
+繰り返しを使用すると、バッチキャンペーンを定期的なスケジュールで実行できます。 例：週に 1 回、火曜日午前 10:00。
 
 1. スマートキャンペーンを選択し、「**[!UICONTROL スケジュール]**」タブに移動して、「**[!UICONTROL 繰り返しをスケジュール]**」をクリックします。
 
@@ -31,7 +31,7 @@ ht-degree: 19%
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. 「[!UICONTROL &#x200B; 繰り返し間隔 &#x200B;]」を 1 のままにし、「火曜日」を選択して「保存 **[!UICONTROL をクリックし]** す。
+1. 「[!UICONTROL  繰り返し間隔 ]」を 1 のままにし、「火曜日」を選択して「保存 **[!UICONTROL をクリックし]** す。
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 

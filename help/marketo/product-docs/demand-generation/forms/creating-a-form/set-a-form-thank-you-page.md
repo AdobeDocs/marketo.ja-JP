@@ -4,10 +4,10 @@ description: フォームの「ありがとうございます」ページを設�
 title: フォームの「ありがとうございました」ページを設定する
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '361'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 93%
 
 >[!TIP]
 >
->URL は、どこかでホストされたファイルの URL にすることができます。これを行うと、「[!UICONTROL &#x200B; 送信 &#x200B;]」ボタンは「[!UICONTROL &#x200B; ダウンロード &#x200B;]」ボタンのように動作します。
+>この URL は、どこか別の場所にホストされたファイルの URL でも構いません。その場合、「[!UICONTROL 送信]」ボタンは「[!UICONTROL ダウンロード]」ボタンのように動作します。
 
 ## ランディングページ {#landing-page}
 
@@ -139,4 +139,4 @@ ht-degree: 93%
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 
-完成です。
+これで完了です。

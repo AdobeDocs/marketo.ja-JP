@@ -4,10 +4,10 @@ description: グループタイプ - Marketo ドキュメント - 製品ドキ�
 title: グループタイプ
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -28,19 +28,19 @@ ht-degree: 78%
    <th>説明</th>
   </tr>
   <tr>
-   <td><p>[!UICONTROL すべてのユーザー &#x200B;]</p></td>
-   <td>表示可能なすべてのユーザのすべての取引先責任者。</td>
+   <td><p>[!UICONTROL すべての人物]</p></td>
+   <td>表示されるすべてのユーザのすべての取引先責任者。</td>
   </tr>
   <tr>
-   <td colspan="1"><p>[!UICONTROL 動的グループ &#x200B;]</p></td>
-   <td colspan="1">取引先責任者：所有しているすべての取引先責任者。<br>配信停止：通信の受信をオプトアウトした取引先責任者。</td>
+   <td colspan="1"><p>[!UICONTROL 動的グループ]</p></td>
+   <td colspan="1">取引先責任者：所有しているすべての取引先責任者。<br>登録解除：通信の受信をオプトアウトした取引先責任者。</td>
   </tr>
   <tr>
-   <td><p>[!UICONTROL マイ グループ &#x200B;]</p></td>
+   <td><p>[!UICONTROL マイグループ]</p></td>
    <td>作成したグループ。自分の取引先責任者や、自分と共有されている取引先責任者を含めることができます。</td>
   </tr>
   <tr>
-   <td><p>[!UICONTROL チーム グループ &#x200B;]</p></td>
+   <td><p>[!UICONTROL チームグループ]</p></td>
    <td>自分と共有されているグループ、または自分が共有しているグループ。チームメイトが所有している連絡先や、共有した連絡先を含めることができます。</td>
   </tr>
  </tbody>

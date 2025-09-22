@@ -4,14 +4,14 @@ description: Salesforce 同期の有効化／無効化 - Marketo ドキュメン
 title: Salesforce 同期の有効化／無効化
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
-# [!DNL Salesforce] 同期を有効/無効にします {#enable-disable-the-salesforce-sync}
+# [!DNL Salesforce] 同期の有効化／無効化 {#enable-disable-the-salesforce-sync}
 
 同期またはフィールドの設定に大きな変更を加える場合は、構成中に同期を無効にする必要があります。その方法をご紹介します。
 

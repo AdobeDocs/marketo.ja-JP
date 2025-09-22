@@ -4,7 +4,7 @@ description: 初期フィールドマッピングの編集 - Marketo ドキュ�
 title: 初期フィールドマッピングの編集
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 70%
@@ -15,13 +15,13 @@ ht-degree: 70%
 
 >[!NOTE]
 >
->この機能は、Salesforce への初期同期の前にのみアクセスできます。 一度「**[!UICONTROL 今すぐ同期]**」ボタンが押されると、この操作は実行できなくなります。
+>この機能には、Salesforceに初期同期する前にのみアクセスできます。 一度「**[!UICONTROL 今すぐ同期]**」ボタンが押されると、この操作は実行できなくなります。
 
-Salesforce への初期同期中、Marketo Engageは同様の名前を持つカスタムフィールドをMarketo側の 1 つのフィールドに自動的に結合し、CRM のリードオブジェクトおよび連絡先オブジェクトの両方とデータを交換できるようにします。 この記事では、これらのマッピングをカスタマイズする方法について説明します。
+Salesforceへの初期同期中に、Marketo Engageは同じような名前のカスタムフィールドをMarketo側の 1 つのフィールドに自動的に結合し、CRM のリードオブジェクトおよび連絡先オブジェクトの両方とデータを交換できるようにします。 この記事では、これらのマッピングをカスタマイズする方法について説明します。
 
 ## マッピングされていないフィールドをマッピング {#map-unmapped-fields}
 
-[!UICONTROL &#x200B; マッピングされていないフィールド &#x200B;] フォルダーにフィールドが表示された場合、Salesforce のリードまたは連絡先の類似フィールドにマッピングされていません。 これは修正できます。
+[!UICONTROL  マッピングされていないフィールド ] フォルダーにフィールドが表示された場合、Salesforceのリードまたは連絡先の同様のフィールドにマッピングされていません。 これは修正できます。
 
 1. 「**[!UICONTROL マッピングを編集]**」をクリックします。
 

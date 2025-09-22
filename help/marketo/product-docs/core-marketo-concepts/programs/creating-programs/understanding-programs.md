@@ -4,7 +4,7 @@ description: プログラムについて - Marketo ドキュメント - 製品�
 title: プログラムについて
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 77%
@@ -27,7 +27,7 @@ ht-degree: 77%
 
 ## メールプログラム {#email-programs}
 
-**[従来のメールブラスト](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}**。A/B テストや&#x200B;**[メールヘッド開始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}**&#x200B;など、素晴らしい組み込み機能を備えています。
+**[従来のメールブラスト](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}**。A/B テストや&#x200B;**[メールヘッド開始](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}**&#x200B;など、便利なビルトインの機能を備えています。
 
 ## デフォルトプログラム {#default-programs}
 

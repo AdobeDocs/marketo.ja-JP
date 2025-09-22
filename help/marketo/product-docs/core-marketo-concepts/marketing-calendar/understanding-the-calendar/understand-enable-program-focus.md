@@ -4,7 +4,7 @@ description: プログラムフォーカスの理解／有効化 - Marketo ド�
 title: プログラムフォーカスの理解／有効化
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 100%

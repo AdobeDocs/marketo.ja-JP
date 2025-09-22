@@ -4,16 +4,16 @@ description: 手順 1 / 3 - Dynamics（2013 オンプレミス）での Marketo 
 title: 手順 1 / 3 - Dynamics（2013 オンプレミス）での Marketo ソリューションのインストール
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '276'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
-# 手順 1/3:[!DNL Dynamics] にMarketo ソリューションをインストールする（2013 オンプレミス） {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
+# 手順 1／3：[!DNL Dynamics]（2013 オンプレミス）での Marketo ソリューションのインストール {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
-オンプレミスとMarketo[!DNL Microsoft Dynamics] 同期する前に、まず [!DNL Dynamics] にMarketo ソリューションをインストールする必要があります。
+[!DNL Microsoft Dynamics] オンプレミスと Marketo を同期する前に、まず [!DNL Dynamics] に Marketo ソリューションをインストールする必要があります。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 81%
 
 >[!PREREQUISITES]
 >
->[Active Directory Federation Services](https://msdn.microsoft.com/en-us/library/bb897402.aspx){target="_blank"} 2.0、2.1、または 3.0（ADFS）が設定された、[インターネットに接続する展開](https://learn.microsoft.com/ja-jp/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"}（IFD）が構成されている必要があります。注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
+>[Active Directory Federation Services](https://msdn.microsoft.com/ja-jp/library/bb897402.aspx){target="_blank"} 2.0、2.1、または 3.0（ADFS）が設定された、[インターネットに接続する展開](https://learn.microsoft.com/ja-jp/dynamics365/customerengagement/on-premises/deploy/configure-an-internet-facing-deployment){target="_blank"}（IFD）が構成されている必要があります。注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
 >
 >始める前に、[Marketo ソリューションをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}します。
 
@@ -31,7 +31,7 @@ ht-degree: 81%
 >
 >この同期を実行するには、CRM 管理者権限が必要です。
 
-1. **[!DNL Dynamics]** にログインします。 「**[!UICONTROL Microsoft Dynamics CRM]**」ドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。
+1. **[!DNL Dynamics]** にログインします。「**[!UICONTROL Microsoft Dynamics CRM]**」ドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/image2014-12-11-10-3a39-3a41.png)
 
@@ -47,7 +47,7 @@ ht-degree: 81%
 
    ![](assets/image2015-3-26-9-3a54-3a1.png)
 
-1. [!UICONTROL &#x200B; ソリューション情報 &#x200B;] を表示し、「**[!UICONTROL ソリューションパッケージの詳細を表示]**」をクリックします。
+1. [!UICONTROL ソリューション情報]を表示し、「**[!UICONTROL ソリューションパッケージの詳細を表示]**」をクリックします。
 
    ![](assets/image2015-11-18-11-3a12-3a8.png)
 
@@ -55,7 +55,7 @@ ht-degree: 81%
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
-1. [!UICONTROL &#x200B; ソリューション情報 &#x200B;] ページに戻り、「**[!UICONTROL 次へ]**」をクリックします。
+1. [!UICONTROL ソリューション情報]ページに戻り、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 

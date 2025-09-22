@@ -4,7 +4,7 @@ description: Marketo ユーザーの管理 - Marketo ドキュメント - 製品
 title: Marketo ユーザーの管理
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 100%
@@ -115,7 +115,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->ユーザーからメールが届かないと申告があった場合、迷惑メールフォルダーに振り分けられている可能性があるので、確認を促してください。
+>ユーザからメールが届かないと申告があった場合、迷惑／スパムメールフォルダーに振り分けられている可能性があるので、確認を促してください。
 
 ## 権限の変更とユーザー情報の編集 {#change-permissions-and-edit-user-information}
 

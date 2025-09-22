@@ -4,16 +4,16 @@ description: スケジュール表示からのプログラム全体の再スケ�
 title: スケジュール表示からのプログラム全体の再スケジュール
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
 # スケジュール表示からのプログラム全体の再スケジュール {#rescheduling-an-entire-program-from-the-schedule-view}
 
-日付を含むプログラムまたはイベントを複製するときに、すべての日付を一度に再スケジュールする場合、手順は以下のとおりです。
+日付を含むプログラムまたはイベントを複製するときに、すべての日付を一度に再スケジュールする場合、手順は次のとおりです。
 
 1. 再スケジュールするプログラムを選択します。
 
@@ -23,11 +23,11 @@ ht-degree: 92%
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. [!UICONTROL &#x200B; アンカーエントリ &#x200B;] を選択します。 この移動に基づいて、他のすべてのエントリも一緒に移動します。
+1. 「[!UICONTROL アンカーエントリ]」を選択します。この移動に基づいて、他のすべてのエントリも一緒に移動します。
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
-1. [!UICONTROL &#x200B; 新しい開始日 &#x200B;] を選択します。
+1. [!UICONTROL 新しい開始日]を選択します。
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 

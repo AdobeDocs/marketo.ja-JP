@@ -4,10 +4,10 @@ description: 収益モデルゲートステージの使用 - Marketo ドキュ�
 title: 収益モデルゲートステージの使用
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '272'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 95%
 
 ## ゲートステージの編集 {#edit-a-gate-stage}
 
-[!UICONTROL &#x200B; 名前 &#x200B;]、[!UICONTROL &#x200B; 説明 &#x200B;] を編集し、ゲートステージの [!UICONTROL &#x200B; タイプ &#x200B;] を調整します。 また、「[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)」を選択することもできます。
+[!UICONTROL 名前]、[!UICONTROL 説明]を編集し、ゲートステージの[!UICONTROL タイプ]を調整します。また、「[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)」を選択することもできます。
 
 1. **[!UICONTROL ゲート]**&#x200B;ステージアイコンをクリックします。
 

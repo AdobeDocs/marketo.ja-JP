@@ -4,10 +4,10 @@ description: MSI 機能の概要 - Marketo ドキュメント - 製品ドキュ�
 title: MSI 機能の概要
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '931'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -87,7 +87,7 @@ Visualforce ページ：
 * 緊急度の値
 * Marketo で表示 - このフィールドをクリックして、Marketo で編集不可能なリードのビューを開きます。含まれるもの：リード情報、会社情報、SFDC リード情報、SFDC カスタムフィールド、アクティビティログ
 * Mkto リードスコア
-* [!DNL Sales Insight] - コンタクト先の完全なリストページを開く
+* [!DNL Sales Insight] - 取引先責任者の完全なリストページを開きます。
 
 ## アカウントのレイアウト {#account-layout}
 
@@ -99,7 +99,7 @@ Visualforce ページ：
 
 フィールド：
 
-* [!DNL Sales Insight] - コンタクト先の完全なリストページを開く
+* [!DNL Sales Insight] - 取引先責任者の完全なリストページを開きます。
 
 アクション：
 
@@ -121,7 +121,7 @@ Visualforce ページ：
 
 フィールド：
 
-* [!DNL Sales Insight] - コンタクト先の完全なリストページを開く
+* [!DNL Sales Insight] - 取引先責任者の完全なリストページを開きます。
 * Marketo 商談分析 - Marketo で商談の影響アナライザーを開く
 
 アクション：
@@ -136,9 +136,9 @@ Visualforce ページ：
 
 ## リードおよび取引先責任者のリスト表示（一括アクション） {#lead-and-contact-list-view-bulk-actions}
 
-[!DNL Salesforce Lightning]：リードおよび連絡先リスト表示の「ウォッチリストに追加」、「Marketo Campaign に追加」および「Marketo メールを送信」一括アクションボタン。
+[!DNL Salesforce Lightning]：「ウォッチリストに追加」、「Marketo キャンペーンに追加」、「リードおよび取引先責任者」リスト表示の「Marketo メールを送信」一括アクションボタン。
 
-[!DNL Salesforce Classic]：リードおよび連絡先リスト表示の「ウォッチリストに追加」、「Marketo Campaign に追加」、「Marketo メールを送信」一括アクションボタン。
+[!DNL Salesforce Classic]：「ウォッチリストに追加」、「Marketo キャンペーンに追加」、「リードおよび取引先責任者」リスト表示の「Marketo メールを送信」一括アクションボタン。
 
 ## Marketo タブ {#marketo-tab}
 
@@ -157,7 +157,7 @@ Visualforce ページ：
    * ビューの作成と編集、時間枠フィルタリング機能を含む
    * 列 - ページビュー、名前、アカウント、最終訪問
 
-* 匿名の Web アクティビティ
+*  匿名の Web アクティビティ
 
    * ビューの作成と編集、時間枠フィルタリング機能を含む
    * 列 - ページビュー、会社、前回の訪問、調査（会社の LinkedIn ページを開く）
@@ -184,22 +184,22 @@ Visualforce ページ：
 
 >[!MORELIKETHIS]
 >
->[[!DNL Marketo Sales Insight]  の「設定」タブ  [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
+> [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md) での「[[!DNL Marketo Sales Insight]  設定」タブ
 
 ## [!DNL Sales Insight] パフォーマンスレポート {#sales-insight-performance-reports}
 
-[!DNL Salesforce]、[!DNL Microsoft Dynamics]、Gmail または [!DNL Outlook] プラグインを通じて送信されたメールのパフォーマンスを表示します
+[!DNL Salesforce]、[!DNL Microsoft Dynamics]、Gmail または [!DNL Outlook] プラグインを通じて送信されるメールのパフォーマンスを表示します。
 
 ## モバイル用 MSI {#msi-for-mobile}
 
-モバイルアプリケーションでは MSI 機能 [!DNL Salesforce] サポートされています
+MSI 機能は、[!DNL Salesforce] モバイルアプリケーションでサポートされています。
 
 ## 言語サポート {#language-support}
 
-[!DNL Marketo Sales Insight] は言語によって保存されます。 したがって、複数の言語を扱う場合は、言語ごとに別個に資格情報を入力する必要があります。
+[!DNL Marketo Sales Insight] は、言語ごとに保存されます。したがって、複数の言語を扱う場合は、言語ごとに別個に資格情報を入力する必要があります。
 
 >[!NOTE]
 >
->* ウォッチリストに追加するには、連絡先/リードがデフォルトパーティションに存在する必要があります。
+>* ウォッチリストに追加するには、取引先責任者／リードがデフォルトパーティションに存在する必要があります。
 >
->* MSI [!DNL Salesforce] パッケージは、依存フィールドを含むカスタム ビューをサポートしていません。
+>* MSI [!DNL Salesforce] パッケージは、依存フィールドを含むカスタムビューをサポートしていません。

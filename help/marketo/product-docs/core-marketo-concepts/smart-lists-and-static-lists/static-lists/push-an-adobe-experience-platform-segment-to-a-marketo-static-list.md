@@ -3,10 +3,10 @@ description: Adobe Experience Platform セグメントの Marketo 静的リス�
 title: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '658'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >「[!UICONTROL &#x200B; 既存のMarketo ユーザーのみを一致 &#x200B;]」を選択した場合は、メールまたは ECID をマッピングするだけで済むので、手順 13～16 をスキップできます。
+   >「[!UICONTROL 既存の Marketo の人物に一致のみ]」を選択した場合は、メールや ECID のマッピングのみ必要なので、手順 13～16 をスキップできます。
 
 1. この節はオプションです。「**[!UICONTROL 作成]**」をクリックしてスキップします。
 
@@ -79,7 +79,7 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >複数のセグメントを選択する場合は、「[!UICONTROL &#x200B; セグメントスケジュール &#x200B;]」タブで、各セグメントを指定された静的リストにマッピングする必要があります。
+   >複数のセグメントを選択する場合は、「[!UICONTROL セグメントスケジュール]」タブで、各セグメントを指定した静的リストにマッピングする必要があります。
 
    >[!IMPORTANT]
    >
@@ -99,7 +99,7 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >Experience Platform の属性を、組織が Marketo Engage でアクセスできる任意の属性にマッピングできます。[API リクエストの説明 ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} を使用して、組織がアクセスできる属性フィールドを取得します。
+   >Experience Platform の属性を、組織が Marketo Engage でアクセスできる任意の属性にマッピングできます。組織がアクセスできる属性フィールドを取得する方法について詳しくは、[API リクエストの説明](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"}を参照してください。
 
 1. 姓と会社名に対しても、「**[!UICONTROL 新しいマッピングを追加]**」を再度クリックし、**[!UICONTROL lastName]** と **[!UICONTROL companyName]**.を選択して、手順 15 を 2 回繰り返します。
 

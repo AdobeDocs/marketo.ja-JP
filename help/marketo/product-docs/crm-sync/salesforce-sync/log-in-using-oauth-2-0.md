@@ -3,10 +3,10 @@ description: OAuth 2.0 を使用したログイン - Marketo ドキュメント 
 title: OAuth 2.0 を使用したログイン
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 3e007c6ddc150227310f2d38a7f77ad86ca15ffa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '524'
-ht-degree: 88%
+ht-degree: 97%
 
 ---
 
@@ -16,7 +16,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
 >[!IMPORTANT]
 >
->OAuth を使用してMarketoと [!DNL Salesforce] を接続するには、間違ったユーザー名でMarketoに接続しないように、プライベート（匿名）ブラウザーで [!DNL Salesforce] にログインします。
+>OAuth を使用して Marketo と [!DNL Salesforce] に接続するには、誤ったユーザ名で [!DNL Salesforce] に接続しないよう、プライベート（匿名）ブラウザーで Marketo にログインします。
 
 ## 接続アプリの設定 {#set-up-connected-app}
 
@@ -56,7 +56,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 >* Marketo 同期ユーザを Salesforce で作成する必要があります。
 >* 既存の顧客の場合、顧客のサブスクリプションで「SFDC 同期で OAuth を有効にする」機能が有効になります。
 >* ポップアップブロッカーが無効になっています。
->* 連携されたアプリが作成され、[!UICONTROL Consumer Key] と [!UICONTROL Consumer Secret] が使用できます。
+>* Connected App が作成され、[!UICONTROL Consumer Key] と [!UICONTROL Consumer Secret] を使用できるようになりました。
 
 >[!CAUTION]
 >
@@ -102,7 +102,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
    ![](assets/setting-up-oauth-2-15.png)
 
-Marketoと [!DNL Salesforce] の同期が進行中です。
+Marketo と [!DNL Salesforce] の同期が進行中です。
 
 ![](assets/setting-up-oauth-2-16.png)
 

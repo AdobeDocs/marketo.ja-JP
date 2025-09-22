@@ -3,10 +3,10 @@ description: セールスアクティビティのトリガーとフィルター 
 title: セールスアクティビティのトリガーとフィルター
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 81%
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. 「**[!UICONTROL スマートリスト]**」タブで、「[!UICONTROL &#x200B; 販売アプリ &#x200B;]」を検索します。
+1. 「**[!UICONTROL スマートリスト]**」タブで、「[!UICONTROL セールスアプリ]」を検索します。
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ ht-degree: 81%
 
 >[!NOTE]
 >
->アクティビティ、制約、定義の完全なリストについては、[[!DNL Sales Insight Actions]  アクティビティの用語集 ](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md) をご覧ください。
+>アクティビティ、制約、定義の完全なリストについて詳しくは、[[!DNL Sales Insight Actions]  アクティビティ用語集](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)を参照してください。

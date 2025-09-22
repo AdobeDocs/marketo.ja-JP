@@ -4,10 +4,10 @@ description: ブロック済みドメイン - Marketo ドキュメント - 製�
 title: ブロック済みドメイン
 exl-id: 67e27112-8ade-4167-9c58-8a6839bdb6cc
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 94%
 
    ![](assets/one-3.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 一般]** をクリックします。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL 一般]**」をクリックします。
 
    ![](assets/two-3.png)
 

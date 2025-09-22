@@ -3,8 +3,8 @@ unique-page-id: 13795395
 description: リリースノート - 2018年冬 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2018年冬
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '582'
 ht-degree: 100%
 
@@ -68,15 +68,15 @@ Velocity のスクリプト記述が、動的コンテンツを使用するメ�
 
 新しい [!DNL LinkedIn] API により、複数の [!DNL LinkedIn] Campaign Manager アカウントにわたって Marketo データベース内のユーザをリターゲットできるようになりました。
 
-## Web パーソナライズ機能 {#web-personalization}
+## Web パーソナライゼーション {#web-personalization}
 
-**Web パーソナライズ用の日本語データソース**
+**Web パーソナライゼーション用の日本語データソース**
 
-Marketo では、web 訪問者の識別（逆引き IP 参照）や、日本からの訪問者のパーソナライゼーションを改善するために、web パーソナライズ用の日本語データソースを追加しています。組織名は日本語で表示されます。
+Marketo では、web 訪問者の識別（逆引き IP 参照）や、日本からの訪問者のパーソナライゼーションを改善するために、web パーソナライゼーション用の日本語データソースを追加しています。組織名は日本語で表示されます。
 
 **[静的リストを使用した web セグメントの作成](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-a-static-list.md)**
 
-Web パーソナライズで、マーケティングアクティビティ（MLM）で定義された静的リストに含まれる既知の web 訪問者に対して、コンテンツをパーソナライズできるようになりました。この機能強化により、様々なチャネルにわたって静的リストをマーケティングし、web サイト上のパーソナライズされたコンテンツを使用して、これらのリスト上の人をターゲティングできるようになりました。
+Web パーソナライゼーションで、マーケティングアクティビティ（MLM）で定義された静的リストに含まれる既知の web 訪問者に対して、コンテンツをパーソナライズできるようになりました。この機能強化により、様々なチャネルにわたって静的リストをマーケティングし、web サイト上のパーソナライズされたコンテンツを使用して、これらのリスト上の人をターゲットにできるようになりました。
 
 ## ContentAI {#contentai}
 

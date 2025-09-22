@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10099389
-description: Marketo プラグインリリース  [!DNL Microsoft Dynamics] - Marketo ドキュメント – 製品ドキュメント
-title: Marketo プラグインのリリース  [!DNL Microsoft Dynamics]
+description: ' [!DNL Microsoft Dynamics]  向け Marketo プラグインリリース - Marketo ドキュメント - 製品ドキュメント'
+title: ' [!DNL Microsoft Dynamics] 向け Marketo プラグインリリース'
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '457'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
-# [!DNL Microsoft Dynamics] 用Marketo プラグインのリリース {#marketo-plugin-releases-for-microsoft-dynamics}
+# [!DNL Microsoft Dynamics] 向け Marketo プラグインリリース {#marketo-plugin-releases-for-microsoft-dynamics}
 
-[!DNL Microsoft Dynamics] に初めて同期する際には、Marketo用のプラグインの最新バージョンをダウンロードします。 Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
+[!DNL Microsoft Dynamics] に初めて同期するときは、Marketo 用のプラグインの最新バージョンをダウンロードします。Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-[ リリースに対応する ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) 最新のプラグインをダウンロード [!DNL Dynamics] します。
+お使いの [!DNL Dynamics] リリースに対応した、[最新のプラグインをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)してください。
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
-## [!DNL Dynamics] ソリューションの更新 {#updating-your-dynamics-solution}
+## [!DNL Dynamics] ソリューションのアップデート {#updating-your-dynamics-solution}
 
-1. 既存のバージョンの [!DNL Dynamics] CRM に対して、ソリューションの最新バージョンをインポートします（例：[!DNL Dynamics] CRM のバージョンが 1.4 で、最新バージョンが 1.5 の場合は、_over_ バージョン 1.4 をインポートします）。
+1. [!DNL Dynamics] CRM の既存のバージョンに対して、ソリューションの最新バージョンを読み込みます（例：[!DNL Dynamics] CRM のバージョンが 1.4 で、最新バージョンが 1.5 の場合は、バージョン 1.4 _以降_&#x200B;を読み込みます）。
 
 1. 次のポップアップが表示されます。「**アップデート**」および「**カスタマイズを維持**」を選択し、「**インポート**」をクリックします。
 
@@ -42,28 +42,28 @@ ht-degree: 61%
   </tr>
   <tr>
    <td>5.0.2.1</td>
-   <td>1/19/24</td>
+   <td>2024年1月19日（PT）</td>
    <td>バグ修正：カスタムエンティティ同期に関連するバグを修正しました。</td>
   </tr>
   <tr>
    <td>5.0.2.0</td>
-   <td>2023/3/24</td>
-   <td>バグ修正：MS Dynamics で連絡先を結合できないバグを修正しました。</td>
+   <td>2023年3月24日（PT）</td>
+   <td>バグ修正：MS Dynamics で取引先責任者を結合できないバグを修正しました。</td>
   </tr>
   <tr>
    <td colspan="1">4.2.0.0</td>
    <td colspan="1">2020/10/16</td>
-   <td colspan="1">MS [!DNL Dynamics] でのキャンペーン同期のサポートを追加しました。</td>
+   <td colspan="1">MS [!DNL Dynamics] との Campaign 同期のサポートを追加しました。</td>
   </tr>
   <tr>
    <td colspan="1">4.0.0.24</td>
    <td colspan="1">2018/08/22</td>
-   <td colspan="1">[!DNL Microsoft Dynamics] バージョン 9.x の標準のリード認定サポートを追加して、連絡先プロセスをサポートするようになりました。</td>
+   <td colspan="1">[!DNL Microsoft Dynamics] バージョン 9.x 標準の、認定リードの取引先責任者プロセスに対するサポートが追加されました。</td>
   </tr>
   <tr>
    <td colspan="1">4.0.0.23</td>
    <td colspan="1">2018/06/27</td>
-   <td colspan="1">バグ修正：[!DNL Dynamics] 2013 のMarketo ソリューションのインストールを試みている際にビジネスプロセスエラーが発生しました。</td>
+   <td colspan="1">バグ修正：[!DNL Dynamics] 2013 用 Marketo ソリューションのインストール中に発生するビジネスプロセスエラー。</td>
   </tr>
   <tr>
    <td>4.0.0.24</td>
@@ -118,12 +118,12 @@ ht-degree: 61%
   <tr>
    <td colspan="1">4.0.0.14</td>
    <td colspan="1">2016/01/18</td>
-   <td colspan="1">バグ修正：セキュリティ上の問題に対処するために、通常の [!DNL Dynamics] ユーザーに対するアクセス制限を作成しました。</td>
+   <td colspan="1">バグ修正：セキュリティ上の問題を対処するために、通常の [!DNL Dynamics] ユーザのアクセス制限を作成しました。</td>
   </tr>
   <tr>
    <td colspan="1">4.0.0.13</td>
    <td colspan="1">2015/12/30</td>
-   <td>バグ修正：[!DNL Dynamics] のアップデートが、手順や画像についてMarketoと同期されていませんでした。</td>
+   <td>バグ修正：[!DNL Dynamics] のアップデートが、Marketo のステップと画像に同期されませんでした。</td>
   </tr>
   <tr>
    <td>4.0.0.12</td>

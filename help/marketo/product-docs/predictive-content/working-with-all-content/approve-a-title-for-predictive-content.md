@@ -4,18 +4,18 @@ description: 予測コンテンツのタイトルの承認 - Marketo ドキュ�
 title: 予測コンテンツのタイトルの承認
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
 # 予測コンテンツのタイトルの承認 {#approve-a-title-for-predictive-content}
 
-[!UICONTROL &#x200B; すべてのコンテンツ &#x200B;] ページまたは [!UICONTROL &#x200B; コンテンツを編集 &#x200B;] ポップアップで承認することで、[!UICONTROL &#x200B; すべてのコンテンツ &#x200B;] ページに任意のタイトルを予測コンテンツに追加できます。
+[!UICONTROL すべてのコンテンツ]ページまたは[!UICONTROL コンテンツを編集]ポップアップで承認すると、[!UICONTROL すべてのコンテンツ]ページのタイトルはどれでも予測コンテンツに追加できるようになります。
 
-## [!UICONTROL &#x200B; すべてのコンテンツ &#x200B;] ページ {#all-content-page}
+## [!UICONTROL すべてのコンテンツ]ページ {#all-content-page}
 
 1. コンテンツの横にあるボックスをオンにします。
 
@@ -25,22 +25,22 @@ ht-degree: 39%
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
-## [!UICONTROL &#x200B; コンテンツを編集 &#x200B;] ポップアップ {#edit-content-pop-up}
+## [!UICONTROL コンテンツを編集]ポップアップ {#edit-content-pop-up}
 
-また、[!UICONTROL &#x200B; コンテンツを編集 &#x200B;] ポップアップで、予測コンテンツのタイトルを直接承認することもできます。
+[!UICONTROL コンテンツを編集]ポップアップで、予測コンテンツのタイトルを直接承認することもできます。
 
 1. コンテンツの一部にカーソルを移動し、行の最後にある編集アイコンをクリックします。
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. **[!UICONTROL コンテンツを編集]** ポップアップの「[!UICONTROL &#x200B; 予測コンテンツの承認 &#x200B;] ボックスをオンにして、「**[!UICONTROL 保存]**」をクリックします。
+1. [!UICONTROL コンテンツを編集]ポップアップの「**[!UICONTROL 予測コンテンツを承認]**」ボックスをオンにして、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
-どちらの方法を使用する場合でも、「[!UICONTROL &#x200B; 予測コンテンツの承認 &#x200B;] アイコンが行に表示されます。
+どちらを使用しても、「[!UICONTROL 予測コンテンツを承認]」アイコンが行に表示されます。
 
 ![](assets/five.png)
 
-これで、「予測コンテンツ [!UICONTROL &#x200B; ページに表示されたタイトルを確認でき &#x200B;] す。
+これで、[!UICONTROL 予測コンテンツ]ページにタイトルが表示されます。
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)

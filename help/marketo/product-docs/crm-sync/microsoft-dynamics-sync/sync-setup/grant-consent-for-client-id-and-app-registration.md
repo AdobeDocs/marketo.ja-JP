@@ -3,20 +3,20 @@ description: クライアント ID とアプリの登録に対する同意の付
 title: クライアント ID とアプリ登録に対する同意の付与
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
 # クライアント ID とアプリ登録に対する同意の付与 {#grant-consent-for-client-id-and-app-registration}
 
-必要な同意/権限を付与する方法については、次の手順に従います。
+必要な同意／権限を付与する方法について詳しくは、次の手順に従います。
 
-## 同期ユーザーに委任されたユーザー権限を付与する {#grant-delegated-user-permissions-for-the-sync-user}
+## 同期ユーザに委任されたユーザ権限を付与 {#grant-delegated-user-permissions-for-the-sync-user}
 
-1. クリーンテキストプログラム（Windows の場合はメモ帳、Macの場合はテキスト編集）を使用して、以下のテキストを貼り付け、`client_id`、`redirect_uri`、`state` の値を置き換えることにより、認証用の Uniform Resource Identifier （URI）を作成します。
+1. クリーンテキストプログラム（Windows の場合はメモ帳、Mac の場合はテキスト編集）を使用して、下のテキストを貼り付け、`client_id`、`redirect_uri`、`state` の値を置き換えて、認証用の Uniform Resource Identifier（URI）を作成します。
 
    ```
    https://login.microsoftonline.com/common/oauth2/authorize?
@@ -75,7 +75,7 @@ ht-degree: 81%
 
 1. Azure ポータルで、アプリケーションのホームページに移動します。
 
-1. [!UICONTROL &#x200B; 管理 &#x200B;] で、「**[!UICONTROL API 権限]**」をクリックします。
+1. 「[!UICONTROL 管理]」で、「**[!UICONTROL API 権限]**」をクリックします。
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 

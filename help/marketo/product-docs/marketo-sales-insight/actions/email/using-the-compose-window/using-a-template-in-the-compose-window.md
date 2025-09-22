@@ -3,10 +3,10 @@ description: 作成ウィンドウでのテンプレートの使用 - Marketo �
 title: 作成ウィンドウでのテンプレートの使用
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '292'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 91%
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. 「[!UICONTROL To]」フィールドに値を入力します。
+1. 「[!UICONTROL 宛先]」フィールドを入力します。
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 91%
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. 検索対象のカテゴリを選択します（または、すべてのカテゴリを検索する場合は [!UICONTROL &#x200B; すべて &#x200B;] を選択します）。
+1. 検索するカテゴリを選択します（またはすべてのカテゴリを検索するには「[!UICONTROL すべて]」を選択します）。
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
@@ -46,7 +46,7 @@ ht-degree: 91%
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. **お気に入り** の横にある [!UICONTROL +] アイコンをクリックします。
+1. [!UICONTROL お気に入り]の横にある「**+**」アイコンをクリックします。
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 

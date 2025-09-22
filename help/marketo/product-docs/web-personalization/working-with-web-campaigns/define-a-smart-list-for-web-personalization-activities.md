@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10097867
-description: ウェブパーソナライズアクティビティのスマートリストを定義する - Marketo ドキュメント - 製品ドキュメント
-title: ウェブパーソナライズアクティビティのスマートリストを定義する
+description: Web パーソナライゼーションアクティビティのスマートリストを定義する - Marketo ドキュメント - 製品ドキュメント
+title: Web パーソナライゼーションアクティビティのスマートリストを定義する
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
-# [!DNL Web Personalization] アクティビティのスマート・リストの定義 {#define-a-smart-list-for-web-personalization-activities}
+# [!DNL Web Personalization] アクティビティのスマートリストを定義 {#define-a-smart-list-for-web-personalization-activities}
 
-スマートキャンペーンでスマートリストを定義する場合は、フィルターとトリガーで [!DNL Web Personalization] のアクティビティを使用できます。 ここでは、[!DNL Web Personalization] call to action（キャンペーン）をクリックしたユーザーをキャプチャします。
+スマートキャンペーンでスマートリストを定義する際に、フィルターおよびトリガーで [!DNL Web Personalization] アクティビティを使用できます。ここでは、[!DNL Web Personalization] のコールトゥアクション（キャンペーン）をクリックしたすべてのユーザを取り込みます。
 
-トリガーを使用して、メールやアラートを送信したり、クリックして [!DNL Web Personalization] call to actionに関与した訪問者に基づいて値やスコアを変更したりします。 [!DNL Web Personalization] しいcall to actionをクリックしたリードをフィルタリングして表示することもできます。
+トリガーを使用して、メールやアラートを送信したり、[!DNL Web Personalization] のコールトゥアクションにエンゲージした訪問者に基づいて値やスコアを変更したりします。また、[!DNL Web Personalization] のコールトゥアクションをクリックしたリードをフィルタリングして表示することもできます。
 
 1. スマートキャンペーンで、「**[!UICONTROL スマートリスト]**」タブをクリックします。
 

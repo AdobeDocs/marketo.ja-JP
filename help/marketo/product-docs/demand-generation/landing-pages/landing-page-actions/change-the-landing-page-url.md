@@ -4,22 +4,22 @@ description: ランディングページ URL の変更 - Marketo ドキュメン
 title: ランディングページ URL の変更
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
 # ランディングページ URL の変更 {#change-the-landing-page-url}
 
-ランディングページの URL を変更できます。 これにより、URL を覚えやすくなり、SEO が向上します。
+ランディングページの URL は変更できます。これにより、URL を覚えやすくし、SEO を改善できます。
 
 1. 目的のランディングページを見つけて選択します。
 
    ![](assets/change-the-landing-page-url-1.png)
 
-1. **ランディングページのアクション** ドロップダウンをクリックし、**URL ツール** までスクロールして **URL 設定** を選択します。
+1. 「**ランディングページのアクション**」ドロップダウンをクリックして、「**URL ツール**」までスクロールして「**URL 設定**」を選択します。
 
    ![](assets/change-the-landing-page-url-2.png)
 

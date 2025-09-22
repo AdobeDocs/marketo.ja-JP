@@ -4,30 +4,30 @@ description: Salesforce との登録解除の同期 - Marketo ドキュメント
 title: Salesforce との登録解除の同期
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '417'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
-# 購読解除と [!DNL Salesforce] の同期 {#syncing-unsubscribes-with-salesforce}
+# [!DNL Salesforce] との登録解除の同期 {#syncing-unsubscribes-with-salesforce}
 
-## 購読解除が [!DNL Salesforce] と同期するための要件 {#requirements-for-unsubscribes-to-sync-to-salesforce}
+## [!DNL Salesforce] と登録解除を同期する際の要件 {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
 * 登録解除の同期を有効にする必要があります（夜間同期）
-* オプトアウトフィールドを [!DNL Salesforce] にインストールする必要があります
-* [!DNL Sales Connect] の人物レコードには [!DNL Salesforce] ID が必要です
+* [!DNL Salesforce] に「オプトアウト」フィールドをインストールする必要があります。
+* [!DNL Sales Connect] の人物のレコードには [!DNL Salesforce] ID が必要です。
 
 **登録解除のプッシュ**
 
-登録解除が [!DNL Sales Connect] で収集されると、リアルタイムで [!DNL Salesforce] にプッシュし、同期するように選択したオプトアウトフィールドのいずれかを更新します。 [!DNL Salesforce] 同期を無効にした場合でも、購読解除をメールオプトアウトにプッシュします。
+[!DNL Sales Connect] で登録解除が収集された場合は、リアルタイムで [!DNL Salesforce] にプッシュし、同期対象として選択した「オプトアウト」フィールドのいずれかを更新します。[!DNL Salesforce] 同期を無効にしても、登録解除はメールオプトアウトに引き続きプッシュされます。
 
 **登録解除を同期**
 
-登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。同期は 1 日 1 回、午後 8:00 （PST）頃に行われます。 Marketo Sales 内のすべての登録解除と Salesforce の「オプトアウト」フィールドが双方向に同期されます。
+登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。同期は 1 日に 1 回、午後 8:00 PST 頃に実行されます。Marketo Sales 内のすべての登録解除と Salesforce の「オプトアウト」フィールドが双方向に同期されます。
 
-## [!DNL Salesforce] への購読解除同期の設定 {#configure-unsubscribe-sync-to-salesforce}
+## [!DNL Salesforce] への登録解除同期の設定 {#configure-unsubscribe-sync-to-salesforce}
 
 ユーザーは、登録解除を Marketo も同期できる標準の「メールオプトアウト」フィールドに同期するか、「Marketo セールスオプトアウトフィールド」に同期してセールス登録解除とマーケティング登録解除を区別できるようにするかを指定できます。
 
@@ -35,7 +35,7 @@ ht-degree: 59%
 
    ![](assets/one-1.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で **[!UICONTROL 購読解除]** を選択します。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL 登録解除]**」を選択します。
 
    ![](assets/two-2.png)
 
@@ -49,14 +49,14 @@ ht-degree: 59%
 
    | フィールド | 説明 |
    |---|---|
-   | **[!UICONTROL Salesforce オプトアウトフィールドに同期]** | デフォルトで選択されている場合は、「オプトアウト」フィールド [!DNL Salesforce] のみ更新されます。 |
+   | **[!UICONTROL Salesforce オプトアウトフィールドに同期]** | デフォルトで選択され、「[!DNL Salesforce] オプトアウト」フィールドのみが更新されます。 |
    | **[!UICONTROL Marketo Sales オプトアウトフィールドに同期]** | セールスとマーケティングの登録解除を分ける場合は、このオプションを選択して、追加の [Marketo Sales オプトアウトフィールド](#msoo)を更新します。 |
 
 ## ページレイアウトの「オプトアウト」フィールドのインストール {#installing-the-opt-out-field-in-the-page-layout}
 
 **メールオプトアウト**
 
-「メールオプトアウト」は、[!DNL Salesforce] からインストールできる [!DNL Salesforce] の標準フィールドです。 インストールするには [!DNL Salesforce] 管理者である必要があります。
+「メールオプトアウト」は、[!DNL Salesforce] からインストールできる [!DNL Salesforce] の標準フィールドです。インストールするには、[!DNL Salesforce] 管理者である必要があります。
 
 1. [Salesforce.com](https://salesforce.com) に移動し、ログインします。
 
@@ -82,7 +82,7 @@ ht-degree: 59%
 
    ![](assets/ten.png)
 
-1. [!UICONTROL &#x200B; メールオプトアウト &#x200B;] をページレイアウトにドラッグ&amp;ドロップします。
+1. 「[!UICONTROL メールオプトアウト]」をページレイアウトにドラッグ＆ドロップします。
 
    ![](assets/11.png)
 
@@ -92,6 +92,6 @@ ht-degree: 59%
 
 ## Marketo Sales オプトアウト {#marketo-sales-opt-out}
 
-「Marketoの販売オプトアウト」フィールドは、Marketo [!DNL Sales Connect] Customizations をインストールしたユーザーが使用できるカスタムフィールドです。
+「Marketo Sales オプトアウト」フィールドは、Marketo [!DNL Sales Connect] カスタマイズ機能をインストールしたユーザが使用できるカスタムフィールドです。
 
-Marketo [!DNL Sales Connect] Customizations をに正常にインストールす [!DNL Salesforce] と、Marketoの「Sales Opt Out」フィールドが表示されます。
+Marketo [!DNL Sales Connect] カスタマイズ機能を [!DNL Salesforce] に正常にインストールすると、「Marketo Sales オプトアウト」フィールドが表示されます。

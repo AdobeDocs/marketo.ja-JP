@@ -4,22 +4,22 @@ description: リード所有者へのメール通知をオフにする - Marketo
 title: リード所有者へのメール通知をオフにする
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
 # リード所有者へのメール通知をオフにする {#turn-off-email-notifications-to-lead-owner}
 
-リードの割り当て時にリード所有者に送信される自動メール通知を無効に [!DNL Salesforce] ることができます。 手順は以下のとおりです。
+リード割り当て時に [!DNL Salesforce] のリード所有者に送信される自動メール通知をオフにできます。手順は次のとおりです。
 
 1. 「**[!UICONTROL 管理者]**」に移動します。
 
    ![](assets/admin-1.png)
 
-1. **[!DNL Salesforce]** をクリックします。
+1. 「**[!DNL Salesforce]**」をクリックします。
 
    ![](assets/adminsalesforce.png)
 

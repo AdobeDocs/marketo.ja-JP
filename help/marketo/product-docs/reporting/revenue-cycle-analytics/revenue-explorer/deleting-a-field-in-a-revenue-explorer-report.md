@@ -4,14 +4,14 @@ description: 収益エクスプローラレポートのフィールドの削除 
 title: 収益エクスプローラレポートのフィールドの削除
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] レポートでのフィールドの削除 {#deleting-a-field-in-a-revenue-explorer-report}
+# [!UICONTROL 収益エクスプローラー]レポートのフィールドの削除 {#deleting-a-field-in-a-revenue-explorer-report}
 
 間違ったフィールドをレポートにドラッグする場合があります。削除する方法を説明しましょう。
 
@@ -25,4 +25,4 @@ ht-degree: 83%
 
 >[!MORELIKETHIS]
 >
->[ 売上高エクスプローラー [!UICONTROL &#x200B; レポート &#x200B;] 保存 ](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[[!UICONTROL 収益エクスプローラー]レポートの保存](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

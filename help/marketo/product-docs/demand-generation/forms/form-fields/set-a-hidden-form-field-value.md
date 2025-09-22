@@ -4,10 +4,10 @@ description: 非表示フォームフィールドの値を設定する — Marke
 title: 非表示フォームフィールドの値を設定する
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 78%
 
 ## デフォルト値の使用 {#use-default-value}
 
-「**[!UICONTROL デフォルト値]** を使用」を選択すると、このフォームの送信時に常に使用される特定の値をハードコードできます。 **[!UICONTROL デフォルト値]** を入力し、「**[!UICONTROL 保存]**」をクリックします。
+「**[!UICONTROL デフォルト値]**&#x200B;の使用」を選択すると、このフォームの送信時に常に使用される特定の値をハードコードできます。「**[!UICONTROL デフォルト値]**」を入力して、「**[!UICONTROL 保存]**」をクリックします。
 
 ![](assets/image2014-9-15-13-3a5-3a27.png)
 
@@ -49,7 +49,7 @@ ht-degree: 78%
 
 >[!TIP]
 >
->URL パラメーターが見つからない場合は、**[!UICONTROL デフォルト値]** を入力できます。
+>URL パラメーターが見つからない場合に備えて「**[!UICONTROL デフォルト値]**」を入力することも可能です。
 
 ## Cookie 値 {#cookie-value}
 
@@ -59,13 +59,13 @@ Cookie にデータを保存する場合は、**[!UICONTROL Cookie 値]**&#x200B
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
-1. cookie **[!UICONTROL パラメーター名]** を入力し、「**[!UICONTROL 保存]**」をクリックします。
+1. 目的の cookie の「**[!UICONTROL パラメーター名]**」を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-15-13-3a8-3a43.png)
 
    >[!TIP]
    >
-   >パラメーター/cookie が見つからない場合は、**[!UICONTROL デフォルト値]** を入力できます。
+   >パラメーター／cookie が見つからない場合に備えて「**[!UICONTROL デフォルト値]**」を入力することも可能です。
 
 ## リファラーパラメーター {#referrer-parameter}
 

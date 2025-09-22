@@ -3,16 +3,16 @@ description: フローステップサービス - Marketo ドキュメント - �
 title: フローステップサービス
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1233'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 # フローステップサービス {#flow-step-service}
 
-セルフサービスのフローステップは、web サービスをオーサリング、公開、Adobe Marketo Engage スマートキャンペーンに統合するためのフレームワークと機能のセットです。このガイドは、既に作成および公開しているサービスをインストールして使用したい Marketo Engage のエンドユーザを対象としています。独自のサービスの作成と公開について詳しくは、[[!DNL GitHub]  サービスプロバイダーインターフェイスのリポジトリ ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"} を参照してください。 概念実証ルックアップテーブルの実装については、[ こちら ](https://github.com/adobe/mkto-flow-lookup){target="_blank"} を参照してください。
+セルフサービスのフローステップは、web サービスをオーサリング、公開、Adobe Marketo Engage スマートキャンペーンに統合するためのフレームワークと機能のセットです。このガイドは、既に作成および公開しているサービスをインストールして使用したい Marketo Engage のエンドユーザを対象としています。独自のサービスのオーサリングと公開について詳しくは、サービスプロバイダーインターフェイス用の [[!DNL GitHub]  リポジトリ](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}を参照してください。概念実証ルックアップテーブルの実装について詳しく、[こちら](https://github.com/adobe/mkto-flow-lookup){target="_blank"}を参照してください。
 
 ## サービスのオンボーディングと管理 {#onboarding-and-managing-services}
 
@@ -20,7 +20,7 @@ ht-degree: 93%
 
 ## インストール URL {#installation-url}
 
-インストールを開始するには、まず、サービスを定義する OpenAPI ドキュメントの URL を取得する必要があります。これをサービスプロバイダーから提供してもらう必要があります。通常は、`/openapi.json` で終わる URL が含まれます。完全な URL は、`https://www.example.com/OpenAPI.json` のようになります。この URL を取得したら、「管理 [!UICONTROL &#x200B; セクションの &#x200B;] サービスプロバイダー [!UICONTROL &#x200B; メニューに移動 &#x200B;] ます。
+インストールを開始するには、まず、サービスを定義する OpenAPI ドキュメントの URL を取得する必要があります。これをサービスプロバイダーから提供してもらう必要があります。通常は、`/openapi.json` で終わる URL が含まれます。完全な URL は、`https://www.example.com/OpenAPI.json` のようになります。この URL を取得したら、「[!UICONTROL 管理者]」セクションの[!UICONTROL サービスプロバイダー]メニューに移動します。
 
 「**[!UICONTROL 次へ]**」をクリックして、「サービス資格情報を入力」セクションに移動します。
 
@@ -90,7 +90,7 @@ ht-degree: 93%
 
 ## 選択リストの更新 {#refreshing-picklists}
 
-Marketo では毎晩サービスの選択リストが更新されますが、キャンペーンの作成など、新しい選択肢が必要になる場合があります。これらは、更新ボタンを使用して、フローステップの任意のインスタンスから簡単に更新できます。または、[!UICONTROL &#x200B; 管理 &#x200B;]/[!UICONTROL &#x200B; サービスプロバイダー &#x200B;] メニューに移動し、サービスを選択したら [!UICONTROL &#x200B; 選択リストを更新 &#x200B;] をクリックします。
+Marketo では毎晩サービスの選択リストが更新されますが、キャンペーンの作成など、新しい選択肢が必要になる場合があります。更新ボタンを使用して、フローステップの任意のインスタンスから簡単に更新できます。または、サービスを選択したら、[!UICONTROL 管理者]／[!UICONTROL サービスプロバイダー]メニューに移動し、「[!UICONTROL 選択リストを更新]」をクリックします。
 
 ## 受信フィールドの確認 {#checking-incoming-fields}
 

@@ -4,8 +4,8 @@ description: リリースノート - 2020 年 7 月 - Marketo ドキュメント
 title: リリースノート - 2020 年 7 月
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '629'
 ht-degree: 100%
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!AVAILABILITY]
 >
->ご契約状況によっては、星印（![（星）](assets/yellow-star.png)）がついている機能は有償オプションの追加契約が必要となる場合があります。詳細は Marketo Engage 担当営業にお問い合わせください。
+>ご契約状況によっては、星印（![（星）](assets/yellow-star.png)）がついている機能は有償オプションの追加購入が必要となる場合があります。詳細は Marketo Engage 担当営業にお問い合わせください。
 
 **_四半期リリース_**&#x200B;以下の機能は **2020 年 7 月 31 日**（PT）にリリースされます。
 

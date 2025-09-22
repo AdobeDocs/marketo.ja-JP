@@ -3,10 +3,10 @@ description: プログラムメンバーカスタムフィールドの同期 - M
 title: プログラムメンバーカスタムフィールドの同期
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 68%
 >[!PREREQUISITES]
 >
 >* [プログラムメンバーカスタムフィールド](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}の作成
->* [ キャンペーン  [!DNL Salesforce]  プログラムとの同期 ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [ [!DNL Salesforce]  キャンペーンとプログラムを同期](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -27,11 +27,11 @@ ht-degree: 68%
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. 「**[!DNL Salesforce]**」をクリックし、「プログラムメンバーのカスタムフィールド同期」の横にある「**[!UICONTROL 編集]**」をクリックします。
+1. 「**[!DNL Salesforce]**」をクリックし、プログラムメンバーカスタムフィールドの同期の横にある「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. 検索ボックスを使用して、マッピングする [!DNL Salesforce] フィールドを見つけます。 この例では、Do Not Call を使用しています。
+1. 検索ボックスを使用して、マッピングする [!DNL Salesforce] フィールドを見つけます。この例では、Do Not Call を使用しています。
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -39,13 +39,13 @@ ht-degree: 68%
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. マッピングするMarketo[!UICONTROL &#x200B; プログラムメンバーカスタムフィールド &#x200B;] を選択します。
+1. マッピングする目的の Marketo [!UICONTROL プログラムメンバーカスタムフィールド]を選択します。
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >ドロップダウンには、[!UICONTROL &#x200B; のフィールドのデータタイプに一致する &#x200B;] プログラムメンバーカスタムフィールド [!DNL Salesforce] のみが表示されます。
+   >ドロップダウンには、[!DNL Salesforce] フィールドのデータタイプと一致する[!UICONTROL プログラムメンバーカスタムフィールド]のみが表示されます。
 
 1. さらにフィールドマッピングを行う場合は、検索ボックスをクリアし、手順 3～5 を繰り返します。
 
@@ -55,21 +55,21 @@ ht-degree: 68%
 
    >[!IMPORTANT]
    >
-   >マッピングされたフィールド上のプログラムメンバーデータに対する変更は、今後、Marketoと [!DNL Salesforce] の間で同期されます。
+   >マッピングしたフィールド上のプログラムメンバーデータへの変更内容は、今後、Marketo と [!DNL Salesforce] の間で同期されます。
 
    >[!NOTE]
    >
-   >[!DNL Salesforce] のフィールドのデータタイプの名前を変更または変更する場合、[!UICONTROL &#x200B; プログラムメンバーカスタムフィールド &#x200B;] を使用して、そのフィールドのマッピングを削除します。 ただし、レビュー後に新しいフィールドで再マッピングできます。
+   >[!DNL Salesforce] でフィールドの名前を変更するか、フィールドのデータタイプを変更すると、そのフィールドと[!UICONTROL プログラムメンバーカスタムフィールド]とのマッピングがすべて削除されます。ただし、レビュー後に新しいフィールドで再マッピングできます。
 
 ## プログラムメンバーカスタムフィールドから Salesforce フィールドのマッピングを解除 {#unmap-salesforce-fields-from-program-member-custom-fields}
 
-フィールドを置き換えるために解放する場合や、一般的な変更を行う場合は、最初にマッピング解除を実行する必要があります。手順は以下のとおりです。
+フィールドを置き換えるために解放する場合や、一般的な変更を行う場合は、最初にマッピング解除を実行する必要があります。手順は次のとおりです。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. 「**[!DNL Salesforce]**」をクリックし、「プログラムメンバーのカスタムフィールド同期」の横にある「**[!UICONTROL 編集]**」をクリックします。
+1. 「**[!DNL Salesforce]**」をクリックし、プログラムメンバーカスタムフィールドの同期の横にある「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-8.png)
 

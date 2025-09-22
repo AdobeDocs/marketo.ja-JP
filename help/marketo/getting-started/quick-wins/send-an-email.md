@@ -4,10 +4,10 @@ description: メールの送信 - Marketo ドキュメント - 製品ドキュ�
 title: メールの送信
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 97%
+source-wordcount: '402'
+ht-degree: 94%
 
 ---
 
@@ -137,6 +137,6 @@ ht-degree: 97%
 
 <br> 
 
-[◄ セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[設定 ◄ 開始してユーザーを追加するには](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[ミッション 2：フォームを含むランディングページ ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[ミッション 2：フォーム ► ージを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)

@@ -4,16 +4,16 @@ description: 特定の IP をトラッキングから除外する - Marketo ド�
 title: 特定の IP をトラッキングから除外する
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
 # 特定の IP をトラッキングから除外する {#exclude-specific-ips-from-being-tracked}
 
-[!UICONTROL Web Personalization] のトラッキングとレポートから自分の従業員と組織名を除外したいと思ったことはありませんか？
+[!UICONTROL Web パーソナライゼーション]のトラッキングとレポートから自分の従業員や組織名を除外したい場合は、
 
 個々の IP および IP の範囲の全部または一部を除外できます。
 
@@ -21,11 +21,11 @@ ht-degree: 76%
 >
 >この処理は、完了までに最大 5 分かかる場合があります。
 
-1. [!UICONTROL Web Personalization] にログインし、ログインの下の **[!UICONTROL アカウント設定]** をクリックします。
+1. [!UICONTROL Web パーソナライゼーション]にログインし、ログインで、「**[!UICONTROL アカウント設定]**」をクリックします。
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. **[!UICONTROL IP の除外]** 領域までスクロールダウンします。 初めて IP アドレスを除外する場合は、空の「**[!UICONTROL IP アドレスの除外]**」フィールドをクリックします。
+1. 「**[!UICONTROL IP の除外]**」領域まで下にスクロールします。初めて IP アドレスを除外する場合は、空の「**[!UICONTROL IP アドレスの除外]**」フィールドをクリックします。
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 76%
    >
    >1 つの IPv4 または IPv6 アドレス、またはフルレンジ、半レンジ、またはサブネットマスクを除外できます。上記の例の項目は、Marketo フォーム自体に用意されている例に基づいて、それぞれ 1 つを示しています。
 
-1. [!UICONTROL IP アドレスを除外 &#x200B;] フィールドに、入力した IP アドレスが表示されるようになりました。 IP 除外を編集するには、緑色のプラス記号をクリックしてフォームを再度開きます。
+1. 「[!UICONTROL IP アドレスを除外]」フィールドに、入力した IP アドレスが一覧表示されます。IP 除外を編集するには、緑色のプラス記号をクリックしてフォームを再度開きます。
 
    ![](assets/exclude-ips-after.png)
 

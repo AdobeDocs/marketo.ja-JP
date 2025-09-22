@@ -3,7 +3,7 @@ description: SMS メッセージの送信 – Marketo ドキュメント – 製
 title: SMS メッセージの送信
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 11%
@@ -18,7 +18,7 @@ ht-degree: 11%
 >
 >SMS メッセージを送信する場合：
 >
->* 電話番号によるMarketo Engageの重複排除。 したがって、複数のユーザーが同じ電話番号を持っている場合、1 つの Vibes サブスクリプションリストにのみメンバーであれば、1 人のユーザーのみがメッセージを受け取ります。 重複排除は、Marketo プログラムレベルではなく、Vibes サブスクリプションリストレベルで行われます。
+>* Marketo Engageでは、電話番号による重複排除が行われます。 したがって、複数のユーザーが同じ電話番号を持っている場合、1 つの Vibes サブスクリプションリストにのみメンバーであれば、1 人のユーザーのみがメッセージを受け取ります。 重複排除は、Marketo プログラムレベルではなく、Vibes サブスクリプションリストレベルで行われます。
 >* メッセージはブロックリストに登録されたリードやマーケティングが中断されたリードには送信されません。
 >* Vibes モバイルデータベース リストに登録されていない場合、SMS メッセージは登録を解除したユーザーには送信されません。
 

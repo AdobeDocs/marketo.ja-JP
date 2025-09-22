@@ -4,8 +4,8 @@ description: HTML の使用 - Marketo ドキュメント - 製品ドキュメン
 title: HTML の使用
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 100%
 

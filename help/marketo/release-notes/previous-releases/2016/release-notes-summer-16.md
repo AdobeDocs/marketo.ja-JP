@@ -3,7 +3,7 @@ unique-page-id: 11380218
 description: リリースノート - 2016 年夏 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2016 年夏
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '774'
 ht-degree: 100%
@@ -89,7 +89,7 @@ Marketo 内で SMS メッセージを簡単に作成できます。リッチ Mar
 
 ![](assets/enterprise-key.png)
 
-## [ウェブパーソナライズキャンペーン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
+## [Web パーソナライゼーションキャンペーン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
 
 ウェブサイト上で web キャンペーンが反応するまでの時間を指定します。
 

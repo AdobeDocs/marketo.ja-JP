@@ -4,10 +4,10 @@ description: リードを一覧表示するプログラムメンバーシップ�
 title: リードを一覧表示するプログラムメンバーシップ分析レポートの作成
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '153'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -31,15 +31,15 @@ ht-degree: 84%
 
    ![](assets/three.png)
 
-1. **[!UICONTROL プログラム名]** の黄色いドットを探してダブルクリックします。
+1. **[!UICONTROL プログラム名]**&#x200B;の黄色の点を見つけて、ダブルクリックします。
 
    ![](assets/four.png)
 
-1. 青い点 **[!UICONTROL Members]** を探してダブルクリックします。
+1. **[!UICONTROL メンバー]**&#x200B;の青色の点を見つけて、ダブルクリックします。
 
    ![](assets/five.png)
 
-1. 青い点 **[!UICONTROL 成功（合計）]** を検索してダブルクリックします。
+1. **[!UICONTROL 成功（合計）]**&#x200B;の青色の点を見つけて、ダブルクリックします。
 
    ![](assets/six.png)
 

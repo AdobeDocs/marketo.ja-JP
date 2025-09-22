@@ -3,10 +3,10 @@ description: 通話結果 - Marketo ドキュメント - 製品ドキュメン�
 title: 通話結果
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 81%
 
    ![](assets/call-outcomes-1.png)
 
-1. [!UICONTROL Admin Settings] で **[!UICONTROL Dialer]** を選択します。
+1. 「[!UICONTROL 管理者設定]」で「**[!UICONTROL ダイヤラー]**」を選択します。
 
    ![](assets/call-outcomes-2.png)
 
-1. 「**[!UICONTROL 呼び出し結果を有効にする]**」を選択します。
+1. 「**[!UICONTROL 通話結果を有効にする]**」を選択します。
 
    ![](assets/call-outcomes-3.png)
 
@@ -46,11 +46,11 @@ ht-degree: 81%
 
    ![](assets/call-outcomes-5.png)
 
-1. [!UICONTROL Admin Settings] で **[!UICONTROL Dialer]** を選択します。
+1. 「[!UICONTROL 管理者設定]」で「**[!UICONTROL ダイヤラー]**」を選択します。
 
    ![](assets/call-outcomes-6.png)
 
-1. **[!UICONTROL 呼び出し結果の管理]** をクリックします。
+1. 「**[!UICONTROL 通話結果を管理]**」をクリックします。
 
    ![](assets/call-outcomes-7.png)
 
@@ -58,7 +58,7 @@ ht-degree: 81%
 
    ![](assets/call-outcomes-8.png)
 
-1. 「[!UICONTROL &#x200B; 回答済み &#x200B;]」ドロップダウンをクリックし、結果タイプを選択します（この例では、「回答済み」を選択しています）。 「**[!UICONTROL 追加]**」をクリックします。
+1. [!UICONTROL 回答済み]ドロップダウンをクリックして、結果のタイプを選択します（この例では、「回答済み」を選択しています）。「**[!UICONTROL 追加]**」をクリックします。
 
    ![](assets/call-outcomes-9.png)
 

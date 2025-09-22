@@ -4,7 +4,7 @@ description: ワークスペースを使用した付加的なブランディン�
 title: ワークスペースを使用した付加的なブランディングドメインの追加
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%

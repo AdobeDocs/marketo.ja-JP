@@ -4,16 +4,16 @@ title: 手順 3/3 - MarketoとSalesforceの接続（Enterprise/Unlimited）
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 50%
+ht-degree: 78%
 
 ---
 
 # 手順 3 / 3：Marketo と Salesforce の接続（Enterprise／Unlimited） {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
-この記事では、設定済みのSalesforce インスタンスと同期するようにMarketo Engageを設定します。
+この記事では、設定済みの Salesforce インスタンスと同期するように Marketo を設定します。
 
 >[!PREREQUISITES]
 >
@@ -26,4 +26,4 @@ ht-degree: 50%
 >
 >既にセキュリティトークンを持っている場合は、直接「同期ユーザー資格情報の設定」に進んで、準備を完了させます。
 
-1. Marketo Sync User を使用してSalesforceにログインし、同期ユーザーの名前をクリックして、**[!UICONTROL My Settings]** をクリックします。
+1. Marketo 同期ユーザで Salesforce にログインし、同期ユーザの名前をクリックしてから、「**[!UICONTROL マイ設定]**」をクリックします。

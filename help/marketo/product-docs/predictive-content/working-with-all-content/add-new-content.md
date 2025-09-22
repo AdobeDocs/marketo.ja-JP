@@ -4,16 +4,16 @@ description: 新規コンテンツの追加 - Marketo ドキュメント - 製�
 title: 新規コンテンツの追加
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # 新規コンテンツの追加 {#add-new-content}
 
-[!UICONTROL &#x200B; すべてのコンテンツ &#x200B;] ページにコンテンツを手動で簡単に追加できます。
+[!UICONTROL すべてのコンテンツ]ページには、コンテンツを手動で簡単に追加できます。
 
 1. **[!UICONTROL コンテンツを追加]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL コンテンツを追加]**」を選択します。
 

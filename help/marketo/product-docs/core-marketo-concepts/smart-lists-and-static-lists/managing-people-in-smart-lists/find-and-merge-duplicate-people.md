@@ -4,16 +4,16 @@ description: 重複した人物の検索と結合 - Marketo ドキュメント -
 title: 重複した人物の検索と結合
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
 # 重複した人物の検索と結合 {#find-and-merge-duplicate-people}
 
-新しいユーザーがシステムに入ると、Marketo Engageは自動的に重複を排除します。 ただし、CRM が最初に重複を送信した可能性があります。 結合する方法は以下のとおりです。
+Marketo は、新しい人物がシステムに入ると、自動的に重複排除します。ただし、CRM が最初に重複を Marketo に送信している可能性があります。結合する方法は以下のとおりです。
 
 >[!CAUTION]
 >
@@ -21,11 +21,11 @@ ht-degree: 68%
 
 >[!PREREQUISITES]
 >
->重複の検索と結合には、[ 組み込み/システムのスマートリスト ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"} を使用する必要があります。
+>重複の検索と結合には、[ビルトイン／システムのスマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}を使用します。
 
 >[!NOTE]
 >
->Marketoは、[!DNL Salesforce] 同期または [!DNL Microsoft Dynamics] 同期、またはユーザーを手動で入力した場合に対して、自動的に重複排除を行いません。
+>Marketo は、[!DNL Salesforce] または [!DNL Microsoft Dynamics] の同期や、人物を手動で入力した場合には、自動的に重複排除を行いません。
 
 ## 重複を検索する {#find-duplicates}
 
@@ -35,9 +35,9 @@ ht-degree: 68%
 
    >[!CAUTION]
    >
-   >[!DNL Salesforce] ユーザーのアカウントを使用している場合、Marketoでの人物の結合が機能しない可能性があります。 可能であれば [!DNL Salesforce] のレコードを結合してください。
+   >[!DNL Salesforce] の個人取引先を使用している場合は、Marketo の人物の結合が機能しない場合があります。可能な場合は、[!DNL Salesforce] でレコードを結合してください。
 
-1. **[!UICONTROL 重複の可能性]** システムスマートリストを選択し、「**[!UICONTROL ユーザー]**」タブをクリックします。
+1. システムスマートリストから&#x200B;**[!UICONTROL 重複の可能性]**&#x200B;を選択し、「**[!UICONTROL 人物]**」タブをクリックします。
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
@@ -75,10 +75,10 @@ ht-degree: 68%
 
 Salesforce と統合している場合、Salesforce のリードの結合の効果に関していくつかの注意事項があります。
 
-* リードまたは連絡先のみを結合する場合、通常の [!DNL Salesforce] ルールに従って結合されます。
-* リードと連絡先を結合する場合、通常のリード規則に従って結合する前に、すべてのリー [!DNL Salesforce] が連絡先に変換されます。
+* リードのみまたは取引先責任者のみを結合する場合、通常の [!DNL Salesforce] ルールに従って結合されます。
+* リードと取引先責任者を結合する場合、通常の [!DNL Salesforce] ルールに従って結合する前に、すべてのリードが取引先責任者にコンバージョンされます。
 
-リードまたは連絡先を結合する際のSalesforceの動作について詳しくは、次の [!DNL Salesforce] ドキュメントを確認してください。
+リードまたは取引先責任者を結合する際の Salesforce の動作の詳細は、次の [!DNL Salesforce] ドキュメントを確認してください。
 
 * [重複したリードの結合](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
 * [重複した連絡先の結合](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}

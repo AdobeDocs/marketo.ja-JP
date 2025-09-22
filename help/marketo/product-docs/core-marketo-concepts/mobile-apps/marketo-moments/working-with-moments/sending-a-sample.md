@@ -4,10 +4,10 @@ description: サンプルの送信 - Marketo ドキュメント - 製品ドキ�
 title: サンプルの送信
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 41%
 
 >[!IMPORTANT]
 >
->2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Moments アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo Engage インスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}
+>2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。[詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 ## 標準の方法 {#the-regular-way}
 
@@ -35,6 +35,6 @@ ht-degree: 41%
 
 ## クイックウェイ {#the-quick-way}
 
-1. [!UICONTROL &#x200B; メールプレビュー &#x200B;] 画面の紙飛行機アイコンをタップして、プレビューから直接サンプルを送信します。
+1. [!UICONTROL メールのプレビュー]画面の紙飛行機アイコンをタップして、プレビューからサンプルを直接送信します。
 
    ![](assets/image2015-9-25-10-3a28-3a47.png)

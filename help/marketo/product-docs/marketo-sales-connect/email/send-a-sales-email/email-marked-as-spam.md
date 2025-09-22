@@ -4,8 +4,8 @@ description: スパムとしてマークされたメール - Marketo ドキュ�
 title: スパムとしてマークされたメール
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 2c9816c35187e333d9631ddfe76fea298db09da5
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 100%
 

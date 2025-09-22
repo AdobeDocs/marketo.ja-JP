@@ -4,10 +4,10 @@ description: スマートリストについて - Marketo ドキュメント - �
 title: スマートリストについて
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 91%
 
 ## 「スマートリスト」タブ {#smart-list-tab}
 
-フィルターを追加および定義して、「[!UICONTROL &#x200B; ユーザー &#x200B;] タブで特定のユーザーグループを表示します。
+「[!UICONTROL 人物]」タブ内で特定のグループの人物を表示するには、フィルターを追加して定義します。
 
 ![](assets/understanding-smart-lists-3.png)
 

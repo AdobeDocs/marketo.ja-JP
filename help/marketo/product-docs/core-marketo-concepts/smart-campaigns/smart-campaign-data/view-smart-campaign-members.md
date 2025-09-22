@@ -4,8 +4,8 @@ description: スマートキャンペーンメンバーの表示 - Marketo ド�
 title: スマートキャンペーンメンバーの表示
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 4fbc339a7aeb9d8a34ca3935d45f19538d362751
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 

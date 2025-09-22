@@ -4,30 +4,30 @@ description: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Pr
 title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Professional）
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '427'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
-# 手順 2/3:Marketoの [!DNL Salesforce] ユーザーを作成する（Professional） {#step-of-create-a-salesforce-user-for-marketo-professional}
+# 手順 2／3：Marketo 用の [!DNL Salesforce] ユーザの作成（Professional） {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
->これらの手順は、Salesforce管理者が実行する必要があります。
+>これらの手順は、Salesforce 管理者が実行する必要があります。
 
 >[!PREREQUISITES]
 >
 >[手順 1／3：Marketo フィールドの Salesforce への追加（Professional）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
-この記事では、[!DNL Salesforce] しいページレイアウトでフィールドの権限をカスタマイズし、Marketo[!DNL Salesforce] ースの Sync User を作成します。
+この記事では、[!DNL Salesforce] ページレイアウトを使用してフィールド権限をカスタマイズし、Marketo-[!DNL Salesforce] 間の同期ユーザを作成します。
 
 ## ページレイアウトの設定 {#set-page-layouts}
 
-[!DNL Salesforce] Professional では、[!DNL Salesforce] Enterprise/Unlimited のプロファイルとは異なり、ページレイアウトを使用してフィールドレベルのアクセシビリティを設定します。 これらの手順に従うと、Marketo 同期ユーザはカスタムフィールドをアップデートできます。
+[!DNL Salesforce] Professional は、[!DNL Salesforce] Enterprise／Unlimited のプロファイルとは異なり、ページレイアウトでフィールドレベルのアクセシビリティを設定します。これらの手順に従うと、Marketo 同期ユーザはカスタムフィールドをアップデートできます。
 
-1. [!UICONTROL Enter] キーを押さずにナビゲーション検索バーに「**[!UICONTROL ページレイアウト]**」と入力し、**[!UICONTROL リード]** の下の **[!UICONTROL ページレイアウト]** をクリックします。
+1. ナビゲーション検索バーで「[!UICONTROL ページレイアウト]」と入力します。**[!UICONTROL Enter]** を押さず、**[!UICONTROL リード]**&#x200B;の下にある「**[!UICONTROL ページレイアウト]**」をクリックします。
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
@@ -49,22 +49,22 @@ ht-degree: 66%
 
 1. 次のフィールドに対して、上記の手順を繰り返します。
 
-   * [!UICONTROL &#x200B; 取得プログラム &#x200B;]
-   * [!UICONTROL &#x200B; 獲得プログラム Id]
+   * [!UICONTROL 新規顧客獲得プログラム]
+   * [!UICONTROL 新規顧客獲得プログラム ID]
    * [!UICONTROL メールオプトアウト]
-   * [!UICONTROL &#x200B; 推測される都市 &#x200B;]
-   * [!UICONTROL &#x200B; 推測される会社 &#x200B;]
-   * [!UICONTROL &#x200B; 推測される国 &#x200B;]
-   * [!UICONTROL &#x200B; 推測されるメトロポリタンエリア &#x200B;]
-   * [!UICONTROL &#x200B; 推測される市外局番 &#x200B;]
-   * [!UICONTROL &#x200B; 推測される郵便番号 &#x200B;]
-   * [!UICONTROL &#x200B; 推測されるステート領域 &#x200B;]
-   * [!UICONTROL &#x200B; リードスコア &#x200B;]
-   * [!UICONTROL &#x200B; 元のリファラー &#x200B;]
-   * [!UICONTROL &#x200B; 元の検索エンジン &#x200B;]
-   * [!UICONTROL &#x200B; 元の検索語句 &#x200B;]
-   * [!UICONTROL &#x200B; 元のSource情報 &#x200B;]
-   * [!UICONTROL 参照元のソースのタイプ]
+   * [!UICONTROL 推測される市区町村]
+   * [!UICONTROL 推測される会社]
+   * [!UICONTROL 推測される国]
+   * [!UICONTROL 推測される都市圏]
+   * [!UICONTROL 推測される市外局番]
+   * [!UICONTROL 推測される郵便番号]
+   * [!UICONTROL 推測される都道府県／地域]
+   * [!UICONTROL リードのスコア]
+   * [!UICONTROL オリジナルリファラー]
+   * [!UICONTROL 元の検索エンジン]
+   * [!UICONTROL 元の検索フレーズ]
+   * [!UICONTROL 元のソース情報]
+   * [!UICONTROL 元のソースのタイプ]
 
    >[!NOTE]
    >
@@ -92,11 +92,11 @@ ht-degree: 66%
 
 ## 同期ユーザを作成 {#create-sync-user}
 
-Marketoが [!DNL Salesforce] にアクセスするには資格情報が必要です。 これは、次の手順で作成した専用ユーザで行うのが最適です。
+Marketo は、[!DNL Salesforce] にアクセスする資格情報が必要です。これは、次の手順で作成した専用ユーザで行うのが最適です。
 
 >[!NOTE]
 >
->組織に追加のSalesforce ライセンスがない場合は、システム管理者プロファイルで既存のマーケティングユーザーを使用できます。
+>組織に追加の Salesforce ライセンスがない場合は、システム管理者プロファイルを持つ既存のマーケティングユーザを使用できます。
 
 1. ナビゲーション検索バーに「ユーザー」と入力し、「**[!UICONTROL ユーザーを管理]**」の下の「**[!UICONTROL ユーザー]**」をクリックします。
 
@@ -114,7 +114,7 @@ Marketoが [!DNL Salesforce] にアクセスするには資格情報が必要で
    >
    >入力した電子メールアドレスが有効であることを確認します。パスワードをリセットするには、同期ユーザとしてログインする必要があります。
 
-これで完了です。これで、Marketoが [!DNL Salesforce] に接続するために使用できるアカウントが作成されました。 やってみましょう。
+これで完了です。Marketo が [!DNL Salesforce] への接続に使用できるアカウントが作成されました。やってみましょう。
 
 >[!MORELIKETHIS]
 >

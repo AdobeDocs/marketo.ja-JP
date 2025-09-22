@@ -4,10 +4,10 @@ description: ガイド付きランディングページにフォームを追加�
 title: ガイド付きランディングページにフォームを追加する
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -41,15 +41,15 @@ ht-degree: 82%
 
 1. フォローアップページを選択するときには、3 つのオプションがあります。
 
-   * **[!UICONTROL ランディングページ]** - Marketo ランディングページを選択します
-   * **[!UICONTROL 外部 URL]** – 必要な URL を選択します
-   * **[!UICONTROL フォーム定義]** - フォームレベルで定義された設定を使用します
+   * **[!UICONTROL ランディングページ]** - Marketo ランディングページを選択します。
+   * **[!UICONTROL 外部 URL]** - 使用する任意の URL を選択します。
+   * **[!UICONTROL 定義済みのフォーム]** - フォームレベルで定義されている設定を使用します。
 
    >[!NOTE]
    >
    >フォローアップページとは、フォームを送信した後で表示されるページです。
 
-1. この例では、[!UICONTROL Form Defined] を使用します。 次に「**[!UICONTROL 挿入]**」をクリックします。
+1. この例では、[!UICONTROL 定義済みのフォーム]を使用します。次に「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 

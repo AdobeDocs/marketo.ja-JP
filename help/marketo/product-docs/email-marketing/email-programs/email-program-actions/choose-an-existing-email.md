@@ -4,8 +4,8 @@ description: 既存のメールを選択する - Marketo ドキュメント - �
 title: 既存のメールを選択する
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 100%
 

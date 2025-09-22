@@ -4,8 +4,8 @@ description: フォームへのリッチテキストの追加 - Marketo ドキ�
 title: フォームへのリッチテキストの追加
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 

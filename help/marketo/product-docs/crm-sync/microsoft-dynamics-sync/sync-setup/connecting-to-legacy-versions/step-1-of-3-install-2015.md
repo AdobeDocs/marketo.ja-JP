@@ -4,16 +4,16 @@ description: Microsoft Dynamics 2015 オンプレミス向け Marketo インス�
 title: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 1 / 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
 # 手順 1 / 3：Marketo（2015 オンプレミス）の同期ユーザーの設定 {#step-of-configure-sync-user-for-marketo-on-premises-2015}
 
-2015 オンプレミス [!DNL Microsoft Dynamics]Marketoと同期する前に、まず [!DNL Dynamics] にMarketo ソリューションをインストールする必要があります。
+[!DNL Microsoft Dynamics] 2015 オンプレミスと Marketo を同期する前に、[!DNL Dynamics] に Marketo ソリューションをインストールする必要があります。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 77%
 
 >[!PREREQUISITES]
 >
->[!DNL Microsoft Dynamics] オンプレミスを使用している場合は、[Active Directory フェデレーション サービス ](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) 2.0 以降（ADFS）が構成された [ インターネット接続展開 ](https://msdn.microsoft.com/en-us/library/bb897402.aspx) （IFD）が必要です。 注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
+>[!DNL Microsoft Dynamics] オンプレミスを使用している場合は、[Active Directory Federation Services](https://msdn.microsoft.com/ja-jp/library/bb897402.aspx) 2.0 以降（ADFS）で[インターネットに接続するデプロイメント](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)（IFD）を設定する必要があります。注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
 >
 >始める前に、[Marketo リード管理ソリューションをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}します。
 
@@ -39,7 +39,7 @@ ht-degree: 77%
 
    ![](assets/image2015-3-19-8-33-3.png)
 
-1. 「**[!UICONTROL インポート]**」をクリックします。
+1. 「**[!UICONTROL 読み込み]**」をクリックします。
 
    ![](assets/image2015-3-19-8-34-8.png)
 
@@ -47,7 +47,7 @@ ht-degree: 77%
 
    ![](assets/image2015-3-19-9-20-56.png)
 
-1. [!UICONTROL &#x200B; ソリューション情報 &#x200B;] を表示し、「**[!UICONTROL ソリューションパッケージの詳細を表示]**」をクリックします。
+1. [!UICONTROL ソリューション情報]を表示し、「**[!UICONTROL ソリューションパッケージの詳細を表示]**」をクリックします。
 
    ![](assets/image2015-11-18-11-12-8.png)
 
@@ -55,7 +55,7 @@ ht-degree: 77%
 
    ![](assets/step6.png)
 
-1. [!UICONTROL &#x200B; ソリューション情報 &#x200B;] ページに戻り、「**[!UICONTROL 次へ]**」をクリックします。
+1. [!UICONTROL ソリューション情報]ページに戻り、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-3-19-9-21-50.png)
 
@@ -95,4 +95,4 @@ ht-degree: 77%
 
    >[!MORELIKETHIS]
    >
-   >[Marketo for [!DNL Microsoft Dynamics] 2015 オンプレミスのインストール手順 2/3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
+   >[ [!DNL Microsoft Dynamics]  2015 オンプレミス向け Marketo インストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)

@@ -3,7 +3,7 @@ description: ジェネレーティブ AI の概要 – Marketo ドキュメン�
 title: Dynamic Chatのジェネレーティブ AI
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 9%
@@ -80,7 +80,7 @@ Adobe Dynamic Chatのジェネレーティブ AI を活用した機能により�
 
 **生成できる質問と回答の量に制限はありますか？**
 
-はい。 この時点では、ライフタイム制限は 1000 です。
+はい。この時点では、ライフタイム制限は 1000 です。
 
 **生成 AI では、どの言語が利用できますか？**
 

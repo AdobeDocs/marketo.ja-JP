@@ -3,7 +3,7 @@ description: Highspot との統合 - Marketo ドキュメント - 製品ドキ�
 title: Highspot との統合
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 100%

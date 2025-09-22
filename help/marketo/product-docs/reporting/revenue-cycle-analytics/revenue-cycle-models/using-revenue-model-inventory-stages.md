@@ -4,10 +4,10 @@ description: 収益モデル在庫ステージの使用 - Marketo ドキュメ�
 title: 収益モデル在庫ステージの使用
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 98%
 
 在庫アイコンを選択すると、**[!UICONTROL 名前]**&#x200B;を編集し、**[!UICONTROL 説明]**&#x200B;を追加し、**[!UICONTROL タイプ]**&#x200B;を調整することができます。また、「[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)」を選択することもできます。
 
-1. **[!UICONTROL 在庫]** アイコンをクリックします。
+1. **[!UICONTROL 在庫]**&#x200B;アイコンをクリックします。
 
    ![](assets/image2015-4-27-15-3a55-3a10.png)
 

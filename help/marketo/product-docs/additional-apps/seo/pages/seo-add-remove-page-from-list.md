@@ -4,7 +4,7 @@ description: SEO - リストに対するページの追加／削除 - Marketo �
 title: SEO - リストに対するページの追加／削除
 exl-id: 05394bfc-b8c5-41a4-b6dd-78e7a408b7a2
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 100%

@@ -4,16 +4,16 @@ description: フォーム内のラジオフィールドまたは選択された�
 title: フォーム内のラジオフィールドまたは選択されたフィールドでの値の定義
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
 # フォーム内のラジオフィールドまたは選択されたフィールドでの値の定義 {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-ラジオボタンまたは選択タイプとして[フィールドタイプを設定](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)したら、ユーザーが選択できる値を定義します。
+ラジオボタンまたは選択タイプとして[フィールドタイプを設定](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)したら、手順は次のとおりです。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -29,7 +29,7 @@ ht-degree: 66%
 
    >[!NOTE]
    >
-   >最初のデフォルト値は常に「[!UICONTROL &#x200B; 選択…]」です。自由に編集できます。 デフォルトのラジオボタンを別の行に変更した場合、「[!UICONTROL &#x200B; 選択…]」はフォームの選択肢として表示されません。
+   >最初かつデフォルトの値は常に「[!UICONTROL 選択…]」です。それは自由に編集できます。デフォルトのラジオボタンを別の行に変更した場合は、「[!UICONTROL 選択…]」は、フォーム内の選択肢として表示されません。
 
 1. クリックして値を追加します。
 
@@ -39,15 +39,15 @@ ht-degree: 66%
    >
    >**定義**
    >
-   >**[!UICONTROL 表示値 &#x200B;]:** 訪問者に表示する内容。
+   >**[!UICONTROL 表示値]：**&#x200B;訪問者に表示される内容。
    >
-   >**[!UICONTROL Stored Value]:** Marketoに記録される内容。
+   >**[!UICONTROL 保存値]：** Marketo での記録内容。
 
 1. 必要なだけの値を追加して、「**[!UICONTROL 保存]**」をクリックします。
 
    >[!NOTE]
    >
-   >[!UICONTROL &#x200B; 格納された値 &#x200B;] を入力しない場合、Marketoは [!UICONTROL &#x200B; 表示値 &#x200B;] を使用して格納します。
+   >「[!UICONTROL 保存値]」を入力しない場合、「[!UICONTROL 表示値]」を使用して値が保存されます。
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 

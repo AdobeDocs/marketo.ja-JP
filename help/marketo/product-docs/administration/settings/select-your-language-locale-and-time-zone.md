@@ -4,10 +4,10 @@ description: 言語、ロケール、タイムゾーンの選択 - Marketo ド�
 title: 言語、ロケール、タイムゾーンの選択
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 8062434857f5bd9da81aa79035e89f459851c4b1
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Marketo Engage サブスクリプションが ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}Adobe ID で Marketo[ に移行されている場合は、この記事の[タイムゾーン](#change-your-time-zone)のみが適用されます。言語やロケールを変更するには、[Adobe アカウントプロファイル](https://account.adobe.com/profile){target="_blank"}で設定にアクセスする必要があります。
+>Marketo Engage サブスクリプションが ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}Adobe ID で Marketo[ に移行されている場合は、この記事の[タイムゾーン](#change-your-time-zone)のみが適用されます。言語やロケールを変更するには、[Adobe アカウントプロファイル ](https://account.adobe.com/profile){target="_blank"} でこれらの設定にアクセスする必要があります。
 
 ## サポートされている言語 {#supported-languages}
 

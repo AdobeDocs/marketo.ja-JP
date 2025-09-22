@@ -4,7 +4,7 @@ description: レポートタイプの概要 — Marketo ドキュメント — �
 title: レポートタイプの概要
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 100%
@@ -39,7 +39,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">Sales Insight のメール効果</a></strong></td>
-   <td>Salesforce、Microsoft Dynamics、Outlook および Gmail プラグインで Marketo Sales Insight を通じて送信されたメールのやり取りを確認します。</td>
+   <td>Salesforce、Microsoft Dynamics、Outlook および Gmail プラグインで Marketo セールスインサイトを通じて送信されたメールのやり取りを確認します。</td>
   </tr>
   <tr>
    <td><strong><a href="people-by-status-report.md">ステータス別のリードレポート</a></strong></td>
@@ -47,7 +47,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">売上高ステージ別のリードレポート</a></strong></td>
-   <td>売上高モデルの基本レポート。詳しくは、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">売上高サイクル分析</a>を参照してください。</td>
+   <td>売上高モデルの基本レポート。詳しくは、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">収益サイクル分析</a>を参照してください。</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">ランディングページの効果</a>  </strong></td>
@@ -55,7 +55,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">プログラム効果</a>  </strong></td>
-   <td>メンバーや成功などの基本的なプログラム指標。詳しくは、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">売上高サイクル分析</a>を参照してください。</td>
+   <td>メンバーや成功などの基本的なプログラム指標。詳しくは、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">収益サイクル分析</a>を参照してください。</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">企業 Web アクティビティ</a></strong></td>

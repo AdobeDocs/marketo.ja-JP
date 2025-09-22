@@ -4,16 +4,16 @@ description: カスタムフィールドを収益エクスプローラに同期 
 title: カスタムフィールドを収益エクスプローラに同期
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
-# カスタムフィールドを [!UICONTROL &#x200B; 収益エクスプローラー &#x200B;] に同期 {#sync-custom-fields-to-the-revenue-explorer}
+# カスタムフィールドを[!UICONTROL 収益エクスプローラー]に同期 {#sync-custom-fields-to-the-revenue-explorer}
 
-[!UICONTROL &#x200B; 売上高サイクル分析 &#x200B;] では、カスタムデータフィールドについてレポートできます。そのためには、Marketoするカスタムフィールドを設定する必要があります。
+[!UICONTROL 収益サイクル分析]では、カスタム Marketo フィールドに関するレポートを作成できるので、同期するカスタムフィールドを設定する必要があります。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 66%
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. 「**[!UICONTROL 収益サイクルアナリティクス]**」を選択します。
+1. 「**[!UICONTROL 収益サイクル分析]**」を選択します。
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
@@ -39,12 +39,12 @@ ht-degree: 66%
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. 任意の「**[!UICONTROL 収益サイクルアナリティクスタイプ]**」を選択し、「**[!UICONTROL 保存]**」をクリックします。
+1. 任意の「**[!UICONTROL 収益サイクル分析タイプ]**」を選択し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 
    >[!TIP]
    >
-   >有効化すると、翌日に、データを [!UICONTROL &#x200B; 収益サイクル分析 &#x200B;] で利用できるようになります。
+   >有効にすると、翌日に[!UICONTROL 収益サイクル分析]でデータを使用できるようになります。
 
-   これで完了です。収益サイクルアナリティクスにカスタムフィールドを追加する方法を理解できました。
+   これで完了です。収益サイクル分析にカスタムフィールドを追加する方法を理解できました。

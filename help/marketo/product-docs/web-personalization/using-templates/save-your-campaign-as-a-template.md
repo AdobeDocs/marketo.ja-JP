@@ -4,10 +4,10 @@ description: キャンペーンをテンプレートとして保存する - Mark
 title: キャンペーンをテンプレートとして保存する
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
@@ -31,6 +31,6 @@ ht-degree: 69%
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 
-1. これで完了です。次回キャンペーンを作成してテンプレートを選択するときは、キャンペーンを設定ページで [!UICONTROL &#x200B; マイテンプレート &#x200B;] のチェックボックスをオンにして、保存したテンプレートを表示します。
+1. これで完了です。次にキャンペーンを作成してテンプレートを選択する際に、保存されたテンプレートがキャンペーンを設定ページの「[!UICONTROL マイテンプレート]」に表示されます。
 
    ![](assets/image2014-9-17-20-3a55-3a31.png)

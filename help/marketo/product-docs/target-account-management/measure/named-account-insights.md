@@ -4,10 +4,10 @@ description: 重点顧客インサイト - Marketo ドキュメント - 製品�
 title: 重点顧客インサイト
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 79%
 >
 >グラフには、過去 90 日間のインサイトが表示されます。
 
-**[!UICONTROL 経時的なアカウントのエンゲージメント]**&#x200B;右側の「**[!UICONTROL 表示]**」ドロップダウンをクリックして、表示内容を変更します。[!UICONTROL &#x200B; アカウントスコア &#x200B;] に加えて、[!UICONTROL &#x200B; 合計売上高 &#x200B;] 別に表示できます。
+**[!UICONTROL 経時的なアカウントのエンゲージメント]**&#x200B;右側の「**[!UICONTROL 表示]**」ドロップダウンをクリックして、表示内容を変更します。[!UICONTROL アカウントスコア]に加えて、[!UICONTROL 合計売上高]別...
 
 ![](assets/two-new.png)
 
-...または [!UICONTROL &#x200B; パイプライン &#x200B;].
+...または[!UICONTROL パイプライン]別に表示できます。
 
 ![](assets/three-new.png)
 
@@ -37,7 +37,7 @@ ht-degree: 79%
  <tbody>
   <tr>
    <td><strong><span class="uicontrol">アカウントスコア</span></strong></td>
-   <td><p><span class="uicontrol"> 管理者 </span> で作成したすべてのアカウントスコアに基づいて、週別のエンゲージメントを参照してください。 これらのアカウントスコアを並べて比較できます。週別のエンゲージメントを判断するため、任意の曜日から最大のエンゲージメントを取り込みます。</p></td>
+   <td><p>「<span class="uicontrol">管理</span>」で作成したすべてのアカウントスコアに基づき、エンゲージメントを週ごとに表示します。これらのアカウントスコアを並べて比較できます。週別のエンゲージメントを判断するため、任意の曜日から最大のエンゲージメントを取り込みます。</p></td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">パイプライン</span></strong></td>
@@ -52,13 +52,13 @@ ht-degree: 79%
 
 **[!UICONTROL 注目のアクション]**
 
-[!DNL Marketo Sales Insight] のユーザーが利用できる、アカウントレベルでロールアップされた興味深い瞬間を参照してください。
+[!DNL Marketo Sales Insight] のユーザが使用できる、アカウントレベルでロールアップされた注目のアクションを確認できます。
 
 ![](assets/int-mom.png)
 
 **上位リード**
 
-これらのユーザーは、重点顧客のユーザーごと（Sales Insight の[最善策](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）が示す最新性や緊急性の優先度、またはユーザーが定義したスコアに基づいて計算されます。**[!UICONTROL 優先度]** は、[!DNL Marketo Sales Insight] のユーザーのみが使用できます。
+これらのユーザーは、重点顧客のユーザーごと（Sales Insight の[最善策](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）が示す最新性や緊急性の優先度、またはユーザーが定義したスコアに基づいて計算されます。**[!UICONTROL 優先度]**&#x200B;は、[!DNL Marketo Sales Insight] のユーザのみが使用できます。
 
 ![](assets/top-ten.png)
 
@@ -84,23 +84,23 @@ ht-degree: 79%
 
 ![](assets/four-1.png)
 
-## [!UICONTROL &#x200B; 潜在ユーザー &#x200B;] {#potential-people}
+## [!UICONTROL 見込み顧客] {#potential-people}
 
-リードとアカウントのマッチングでは、ファジーロジックを使用して、「潜在的な人物 [!UICONTROL &#x200B; タブで解決できる弱い一致を見つけ &#x200B;] す。
+リードとアカウントの照合ではあいまい一致ロジックを使用し、「[!UICONTROL 見込み顧客]」タブで解決できる弱い一致を見つけます。
 
 ![](assets/five-1.png)
 
 >[!NOTE]
 >
->リストに表示された任意のユーザーを追加するには、ユーザーを選択し、「**[!UICONTROL ユーザーを追加]**」をクリックします。
+>リストに表示された任意の人物を追加するには、人物を選択し、「**[!UICONTROL 人物を追加]**」をクリックします。
 
-## [!UICONTROL &#x200B; 使用者 &#x200B;] {#used-by}
+## [!UICONTROL 使用者] {#used-by}
 
 このタブには、特定の重点顧客またはアカウントリストを現在参照しているスマートキャンペーン、web キャンペーン、スマートリストまたはレポートが表示されます。
 
 ![](assets/six-1.png)
 
-## [!UICONTROL &#x200B; アカウントチーム &#x200B;] {#account-team}
+## [!UICONTROL アカウントチーム] {#account-team}
 
 このタブで、アカウントチームのメンバーの表示、メンバーの追加／削除、アカウント所有者の割り当てをおこないます。
 
@@ -110,8 +110,8 @@ ht-degree: 79%
 >
 >「**[!UICONTROL アカウントチームのアクション]**」ドロップダウンをクリックして、アカウントメンバーを追加または削除するか、アカウント所有者を割り当てます。
 
-## [!UICONTROL ICP 指標 &#x200B;] {#icp-indicators}
+## [!UICONTROL ICP 指標] {#icp-indicators}
 
-[!UICONTROL &#x200B; モデルを調整 &#x200B;] したときにエクスポートするために選択した [ICP 指標 ](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning) を表示します。
+[モデルを調整](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md#model-tuning)したときに書き出す、[!UICONTROL ICP インジケーター]を表示します。
 
 ![](assets/eight.png)

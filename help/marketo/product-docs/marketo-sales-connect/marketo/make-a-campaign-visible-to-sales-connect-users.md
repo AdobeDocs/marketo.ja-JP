@@ -4,14 +4,14 @@ description: Sales Connect ユーザにキャンペーンを表示 - Marketo ド
 title: Sales Connect ユーザにキャンペーンを表示
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# キャンペーンを [!DNL Sales Connect] ユーザーに表示 {#make-a-campaign-visible-to-sales-connect-users}
+# [!DNL Sales Connect] ユーザにキャンペーンを表示 {#make-a-campaign-visible-to-sales-connect-users}
 
 キャンペーンは、表示されている場合にのみ共有できます。その方法を説明しましょう。
 
@@ -27,7 +27,7 @@ ht-degree: 84%
 
    ![](assets/make-a-marketing-campaign-visible-msc-3.png)
 
-1. ソースの場合は、「[!UICONTROL is]」 **[!UICONTROL Web サービス API]** を選択します。
+1. ソースには、「[!UICONTROL is]」「**[!UICONTROL Web サービス API]**」を選択します。
 
    ![](assets/make-a-marketing-campaign-visible-msc-4.png)
 
@@ -39,7 +39,7 @@ ht-degree: 84%
 
    ![](assets/make-a-marketing-campaign-visible-msc-6.png)
 
-1. 「[!UICONTROL &#x200B; タイプ &#x200B;]」には、「**[!UICONTROL Web]**」を選択します。
+1. [!UICONTROL タイプ]には、「**[!UICONTROL Web]**」を選択します。
 
    ![](assets/make-a-marketing-campaign-visible-msc-7.png)
 

@@ -1,22 +1,22 @@
 ---
-description: 再設定  [!DNL Dynamics]  認証方法 – Marketo ドキュメント – 製品ドキュメント
-title: 再構成  [!DNL Dynamics]  認証方法
+description: ' [!DNL Dynamics]  認証方法の再設定 - Marketo ドキュメント - 製品ドキュメント'
+title: ' [!DNL Dynamics]  認証方法の再設定'
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
 # Dynamics 認証方法の再設定 {#reconfigure-dynamics-authentication-method}
 
-[!DNL Dynamics] 認証方法を更新するには、次の手順に従います。
+次の手順に従って、[!DNL Dynamics] 認証方法を更新します。
 
 >[!PREREQUISITES]
 >
->次のいずれかの記事に記載されている目的の認証方法を使用して、[!DNL Microsoft Dynamics] および Active Directory （Azure AD/ADFS）にアプリケーションを設定します。
+>次の記事のいずれかで、目的の認証方法を使用して、[!DNL Microsoft Dynamics] および Active Directory（Azure AD/ADFS）でアプリケーションを設定します。
 >
 >* [手順 2 / 3：サーバー間接続を使用した Marketo ソリューションの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
 >* [手順 2 / 4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
@@ -48,7 +48,7 @@ ht-degree: 75%
    >[!NOTE]
    >
    >* 具体的なフィールドは選択した認証方法によって異なり、以前の認証方法に応じてフォームが自動的に更新されます。
-   >* 以前に同期したことがある場合、上記のフォームのデータは事前入力されている可能性があります。 すべての資格情報を再入力し、正しい値が設定されていることを確認してください。
+   >* 以前にも同期したことがある場合、上記のフォームデータが事前入力されている場合があります。すべての資格情報を再入力し、正しい値が設定されていることを確認してください。
 
 1. すべて問題ない場合、同期の検証ですべて緑のチェックマーク ![](assets/green-check.png) が生成されます。メッセージを確認し、「**[!UICONTROL 切替]**」をクリックして認証方法を更新します。
 
@@ -56,7 +56,7 @@ ht-degree: 75%
 
    >[!NOTE]
    >
-   >![](assets/red-x.png) が表示された場合は、その手順に問題があります。問題を特定して修正するには、[ 修正  [!DNL Dynamics]  検証同期の問題 ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) を参照してください。 次に、上記の画像のような結果になるまで同期検証手順を再実行します。
+   >![](assets/red-x.png) が表示された場合は、その手順に問題があります。問題を特定して修正するには、[ [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照してください。次に、上記の画像のような結果になるまで同期検証手順を再実行します。
 
 1. 「**[!UICONTROL 確認]**」をクリックして続行します。
 

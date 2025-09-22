@@ -4,22 +4,22 @@ description: Web キャンペーンのフィルター - Marketo ドキュメン�
 title: Web キャンペーンのフィルター
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
 # Web キャンペーンのフィルター {#filter-web-campaigns}
 
-数百の [!DNL Web Personalization] キャンペーンを作成したら、フィルターを使用して、関心のあるキャンペーンのみを表示できると非常に役に立ちます。
+数百の [!DNL Web Personalization] キャンペーンを作成した後は、フィルターを使用して、関心のあるキャンペーンのみを表示できます。
 
 1. 「**[!UICONTROL Web キャンペーン]**」に移動します。
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. [!UICONTROL Web キャンペーン &#x200B;] ページで、「**[!UICONTROL フィルター]**」をクリックします。
+1. [!UICONTROL Web キャンペーン]ページで、「**[!UICONTROL フィルター]**」をクリックします。
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 

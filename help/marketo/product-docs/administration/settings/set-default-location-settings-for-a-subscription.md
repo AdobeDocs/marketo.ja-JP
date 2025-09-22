@@ -4,7 +4,7 @@ description: サブスクリプションのデフォルトの場所の設定 - M
 title: サブスクリプションのデフォルトの場所の設定
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 100%
@@ -47,7 +47,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >[Salesforce.com](https://salesforce.com/) 用 Marketo Sales Insight は、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語をサポートしています。
+   >[Salesforce.com](https://salesforce.com/) 用 Marketo セールスインサイトは、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語をサポートしています。
 
 ## サブスクリプションのデフォルトの通貨の設定 {#set-the-default-currency-settings-for-a-subscription}
 

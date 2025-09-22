@@ -4,10 +4,10 @@ description: 静的リストを使用したセグメントの作成 - Marketo �
 title: 静的リストを使用したセグメントの作成
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -47,6 +47,6 @@ ht-degree: 89%
    >
    >And/or ドロップダウンは、それだけです。クリックして **[!UICONTROL and]**、**[!UICONTROL or]**、**[!UICONTROL and/or]** のいずれかを選択します。
 
-1. 「**[!UICONTROL 保存]**」をクリックしてセグメントを保存するか、「**[!UICONTROL 保存してキャンペーンを定義]**」をクリックして保存し、「[!UICONTROL &#x200B; キャンペーン &#x200B;]」ページに移動します。
+1. 「**[!UICONTROL 保存]**」をクリックしてセグメントを保存するか、「**[!UICONTROL 保存してキャンペーンを設定]**」をクリックして保存し、[!UICONTROL キャンペーン]ページに移動します。
 
    ![](assets/eight-1.png)

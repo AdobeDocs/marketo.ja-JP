@@ -4,10 +4,10 @@ description: SFDC の同期 - 商談の同期 - Marketo ドキュメント - 製
 title: SFDC の同期 - 商談の同期
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '281'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 70%
 
 ## 2 つのシステム間で商談の詳細を同期させる方法を教えてください。 {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
 
-同期は、[!DNL Salesforce] からMarketoへの一方向です。 [!DNL Salesforce] 内のオポチュニティに対する更新がMarketoに同期されます。
+同期は [!DNL Salesforce] から Marketo への一方向で行われます。[!DNL Salesforce] での商談のアップデートは、Marketo に同期されます。
 
 >[!NOTE]
 >
->[Marketoに入力する資格情報  [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) は、データの同期に使用されます。 その資格情報でアクセスできるデータのみが含まれます。
+>[ [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 用に Marketo で入力した資格情報は、データの同期に使用されます。その資格情報でアクセスできるデータのみが含まれます。
 
 ## 商談の同期を開始できますか？ {#can-i-initiate-an-opportunity-sync}
 
-いいえ、できません。[!DNL Salesforce] のオポチュニティに対する変更は、Marketoに自動的に同期されます。
+いいえ、できません。[!DNL Salesforce] での商談に対する変更は、Marketo に自動的に同期されます。
 
 ## Marketo は、商談額で複数の通貨をサポートしていますか。 {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-いいえ。Marketo では 1 つの通貨のみをサポートしています。オポチュニティの金額は [!DNL Salesforce] から同期されますが、その通貨はMarketo サブスクリプションの [ デフォルトの通貨 ](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) になります。
+いいえ。Marketo では 1 つの通貨のみをサポートしています。商談額は [!DNL Salesforce] から同期されますが、通貨は Marketo サブスクリプションの[デフォルトの通貨](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription)になります。
 
 ## Marketo は商談額と取引先責任者をどのように関連付けますか？ {#how-does-marketo-associate-opportunities-and-contacts}
 
@@ -59,4 +59,4 @@ Marketo は、[商談取引先責任者のロール](https://help.salesforce.com
 >
 >フィルターとトリガーの制約を確認してください。そこには、たくさんの素晴らしい詳細があります。
 >
->[!DNL Salesforce] で商談オブジェクトに新しいフィールドを作成するだけで、自動的に制約になります。
+>[!DNL Salesforce] の商談オブジェクトに新しいフィールドを作成するだけで、自動的に制約になります。

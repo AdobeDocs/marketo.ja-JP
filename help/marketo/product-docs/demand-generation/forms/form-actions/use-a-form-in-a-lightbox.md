@@ -4,8 +4,8 @@ description: Lightbox でのフォームの使用 - Marketo ドキュメント -
 title: Lightbox でのフォームの使用
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 100%
 

@@ -4,16 +4,16 @@ description: 「コンテンツ」タブについて - Marketo ドキュメン�
 title: 「コンテンツ」タブについて
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '185'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
-# 「[!UICONTROL &#x200B; コンテンツ &#x200B;] タブについて {#understanding-the-content-tab}
+# 「[!UICONTROL コンテンツ]」タブについて {#understanding-the-content-tab}
 
-[!UICONTROL &#x200B; コンテンツ &#x200B;] タブは、テンプレートを使用する際のチームのメールエンゲージメントに関するものです。 重要だと思われる 3 つの指標を自動的にバブル表示します。
+「[!UICONTROL コンテンツ]」タブは、テンプレートを使用する際のチームのメールエンゲージメントに関するものです。重要だと思われる 3 つの指標を自動的にバブル表示します。
 
 ## 秘密兵器 {#secret-weapon}
 
@@ -27,6 +27,6 @@ ht-degree: 75%
 
 これは、共有されたかどうかにかかわらず、エンゲージメントの度合いが最も低いテンプレートです。
 
-ページを下にスクロールして、「[!UICONTROL &#x200B; テンプレート &#x200B;]」セクションを表示します。このセクションには、チームが（この時間枠内で）使用してきたすべてのテンプレートが、最も多くの表示回数*で表示されます。*
+ページを下にスクロールすると、（一定期間に）チームが使用したすべてのテンプレートとそれらの最大参照数を表示した「[!UICONTROL テンプレート]」セクションを確認できます*。*
 
 チームが送信した上位の添付ファイル（最も多くの表示を取得）や、上位のリンク（最も多くのクリックを得る）も確認できます。

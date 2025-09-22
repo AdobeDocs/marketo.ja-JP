@@ -4,10 +4,10 @@ description: セグメント化の削除 - Marketo ドキュメント - 製品�
 title: セグメント化の削除
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 91%
    >
    >関連付けを削除するには、セグメントを使用するアセットの代替オプションを削除または作成します。
 
-1. 承認を取り消したら、**[!UICONTROL セグメント化アクション]** および [!UICONTROL &#x200B; 削除 &#x200B;] をクリックします。
+1. 承認が取り消されたら、「**[!UICONTROL セグメント化アクション]**」をクリックしてセグメント化を[!UICONTROL 削除]します。
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
 

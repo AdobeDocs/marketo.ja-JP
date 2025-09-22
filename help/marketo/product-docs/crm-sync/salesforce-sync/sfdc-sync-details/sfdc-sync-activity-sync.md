@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953473
-description: SFDC同期 – アクティビティ同期 – Marketo ドキュメント – 製品ドキュメント
-title: SFDC同期 – アクティビティ同期
+description: SFDC 同期 - アクティビティ同期 - Marketo ドキュメント - 製品ドキュメント
+title: SFDC 同期 - アクティビティ同期
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
-# SFDC 同期：アクティビティの同期 {#sfdc-sync-activity-sync}
+# SFDC 同期：アクティビティ同期 {#sfdc-sync-activity-sync}
 
-Marketoは、[!DNL Salesforce] アクティビティデータも同期します。 質問と回答をいくつか示します。
+Marketo は、[!DNL Salesforce] アクティビティデータを介して同期も行います。質問と回答をいくつか示します。
 
 ## Marketo はどのタイプのアクティビティデータを同期しますか。 {#what-types-of-activity-data-does-marketo-sync-over}
 
@@ -21,7 +21,7 @@ Marketo は、リードまたは取引先責任者に関連付けられたイベ
 
 ## アクティビティの詳細は、2 つのシステム間でどのように同期されていますか。 {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-同期は、[!DNL Salesforce] からMarketoへの一方向です。 ただし、[!DNL Salesforce] タスクを作成 [ フローステップまたは ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md) アクティビティ同期をカスタマイズ [ を使用して、](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md) でタスクを作成 [!DNL Salesforce] きます。
+同期は [!DNL Salesforce] から Marketo への一方向で行われます。ただし、[タスクを作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)フローステップまたは[アクティビティの同期をカスタマイズ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)を [!DNL Salesforce] に使用して、[!DNL Salesforce] でタスクを作成できます。
 
 ## Marketo を使用してタスクを作成することはできますか。 {#can-i-create-a-task-using-marketo}
 

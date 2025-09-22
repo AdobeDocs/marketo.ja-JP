@@ -3,8 +3,8 @@ unique-page-id: 10097199
 description: リリースノート - 2016 年冬 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2016 年冬
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '490'
 ht-degree: 100%
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 ## [匿名フィルター](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-スマートリスト用の Is Anonymous フィルターが削除されました。詳しくは、[次世代 Munchkin 追跡に関する FAQ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) ドキュメントを参照してください。この変更は、匿名の web 訪問者と既知の web 訪問者を引き続き識別し、これらの訪問者に対してリアルタイムでコンテンツをパーソナライズするウェブパーソナライズ（RTP）には影響しません。
+スマートリスト用の Is Anonymous フィルターが削除されました。詳しくは、[次世代 Munchkin 追跡に関する FAQ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) ドキュメントを参照してください。この変更は、匿名の web 訪問者と既知の web 訪問者を引き続き識別し、これらの訪問者に対してリアルタイムでコンテンツをパーソナライズするweb パーソナライゼーション（RTP）には影響しません。
 
 ## [データベースダッシュボード](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 

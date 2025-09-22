@@ -4,16 +4,16 @@ description: Google Chrome への Marketo Insights のインストール - Marke
 title: Google Chrome への Marketo Insights のインストール
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
-# [!DNL Google Chrome] 用Marketo Insights のインストール {#install-marketo-insights-for-google-chrome}
+# [!DNL Google Chrome] への Marketo Insights のインストール {#install-marketo-insights-for-google-chrome}
 
-次の手順に従って、強力なChrome アドインの使用を開始します。 拡張機能をインストールするのに、Marketo 管理者である必要はありません。
+次の手順に従って、強力な Chrome アドインの使用を開始します。拡張機能をインストールするのに、Marketo 管理者である必要はありません。
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 76%
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
-1. [!DNL Chrome] のMarketo ロゴを右クリックし、「**[!UICONTROL オプション]**」を選択します。
+1. [!DNL Chrome] で Marketo のロゴを右クリックし、「**[!UICONTROL オプション]**」を選択します。
 
    ![](assets/two.png)
 
@@ -37,7 +37,7 @@ ht-degree: 76%
 
    >[!NOTE]
    >
-   >登録コードは、Marketo管理者がMarketo Email Add-in License を発行した後に送信される電子メールに含まれます [ 電子メールアドインライセンスの発行 ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}。 **有効期限は 14 日間です**。
+   >Reg コードは、Marketo 管理者が [Marketo メールアドインライセンスを発行](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}した後に送信されるメールに記載されています。**Reg コードは 14 日後に有効期限が切れます**。
 
 1. オフラインアクセスを許可するには、「**[!UICONTROL 許可]**」をクリックします。
 

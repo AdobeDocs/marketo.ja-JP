@@ -4,8 +4,8 @@ description: シンプルなスコアリング - Marketo ドキュメント - �
 title: シンプルなスコアリング
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 100%
 

@@ -3,8 +3,8 @@ unique-page-id: 14745959
 description: リリースノート - 2018 年春 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2018 年春
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '461'
 ht-degree: 100%
 

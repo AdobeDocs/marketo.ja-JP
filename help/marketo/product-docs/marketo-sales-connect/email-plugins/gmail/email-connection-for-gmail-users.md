@@ -4,10 +4,10 @@ description: Gmail ユーザのメール接続 - Marketo ドキュメント - �
 title: Gmail ユーザのメール接続
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Gmail に接続すると、返信トラッキング、Gmail 配信チャネル�
 
 >[!CAUTION]
 >
->Gmail アカウントで [ フィルターを使用 ](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"} またはルールを使用して、メールを自動的に既読としてマークしている場合、返信トラッキングで問題が発生する可能性があります。 Gmail で返信トラッキングを使用する場合に、メールを自動的に既読としてマークするルールを無効にすることをお勧めします。
+>メールを自動的に既読としてマークするために、Gmail アカウントで[フィルターを使用](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}している場合、またはルールを使用している場合、返信のトラッキングで問題が発生する可能性があります。Gmail で返信トラッキングを使用する場合に、メールを自動的に既読としてマークするルールを無効にすることをお勧めします。
 
 1. [!DNL Sales Connect] で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 

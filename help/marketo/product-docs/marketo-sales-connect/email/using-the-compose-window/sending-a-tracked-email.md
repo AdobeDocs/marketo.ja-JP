@@ -4,23 +4,23 @@ description: トラッキングするメールの送信 - Marketo ドキュメ�
 title: トラッキングするメールの送信
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # トラッキングするメールの送信 {#sending-a-tracked-email}
 
-[!DNL Marketo Sales Connect] でメールを送信する際に、ビュー数（メールの開封）およびクリック数（クリックされたリンク）がトラッキングされます。
+[!DNL Marketo Sales Connect] を使用してメールを送信する際に、表示数（メール開封数）とクリック数（クリックされたリンク数）が追跡されます。
 
 >[!PREREQUISITES]
 >
 >トラッキングするメールを送信する前に、ID を認証し、メール配信チャネルを設定する必要があります。
 >
 >* [メールアドレスの確認](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/verify-your-email.md)
->* [[!DNL Outlook]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) または [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) 用の配信チャネルの設定
+>* [[!DNL Outlook]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) または [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) の配信チャネルの設定
 
 1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**[!UICONTROL 作成]**」を選択しています）。
 
@@ -32,7 +32,7 @@ ht-degree: 82%
 
    >[!NOTE]
    >
-   >「**[!UICONTROL To]**」フィールドに入力できるユーザーは 1 人のみです。
+   >「**[!UICONTROL 宛先]**」フィールドに入力できるのは 1 人だけです。
 
 1. CC または BCC を送信する受信者を各フィールドに追加します。
 

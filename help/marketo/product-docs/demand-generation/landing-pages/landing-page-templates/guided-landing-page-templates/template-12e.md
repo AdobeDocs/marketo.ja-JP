@@ -4,7 +4,7 @@ description: テンプレート 12E - Marketo ドキュメント - 製品ドキ�
 title: テンプレート 12E
 exl-id: fc330e23-9247-4565-a607-0c10d3ef89c6
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 12E {#template-12e}
 
-右クリックして[テンプレート 12E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=ja)します
+右クリックして[テンプレート 12E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)します
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=ja)
+[Template 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)

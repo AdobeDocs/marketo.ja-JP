@@ -4,10 +4,10 @@ description: メールでの動的コンテンツの使用 - Marketo ドキュ�
 title: メールでの動的コンテンツの使用
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 90%
 
    ![](assets/1.2.png)
 
-1. この例では、件名を動的にします。[!UICONTROL &#x200B; 件名 &#x200B;] フィールドをクリックしてから、「**動的にする** ボタンをクリックします。
+1. この例では、件名を動的にします。「[!UICONTROL 件名]」フィールドをクリックし、「**動的にする**」ボタンをクリックします。
 
    ![](assets/1.3.png)
 
@@ -45,7 +45,7 @@ ht-degree: 90%
 
    ![](assets/1.4.png)
 
-   セグメント化とそのセグメントが、右側の [!UICONTROL &#x200B; 動的 &#x200B;] タブの下に表示されます。
+   セグメント化とそのセグメントが右側の「[!UICONTROL 動的]」タブに表示されます。
 
    ![](assets/1.5.png)
 

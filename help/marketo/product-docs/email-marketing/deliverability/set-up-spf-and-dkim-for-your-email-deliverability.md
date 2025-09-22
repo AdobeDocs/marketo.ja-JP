@@ -4,10 +4,10 @@ description: メール到達率のための SPF と DKIM の設定 - Marketo ド
 title: メール到達率のための SPF と DKIM の設定
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '421'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -31,7 +31,7 @@ DNS エントリに次の行を追加するよう、ネットワーク管理者�
 
 DNS エントリに既に SPF レコードが存在する場合は、次を追加します。
 
-include: mktomail.com
+include:mktomail.com
 
 ## DKIM の設定 {#set-up-dkim}
 

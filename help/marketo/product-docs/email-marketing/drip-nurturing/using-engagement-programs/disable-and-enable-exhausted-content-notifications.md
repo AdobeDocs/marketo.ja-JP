@@ -4,8 +4,8 @@ description: コンテンツ消費済み通知の無効化と有効化 — Marke
 title: コンテンツ消費済み通知の無効化と有効化
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 100%
 

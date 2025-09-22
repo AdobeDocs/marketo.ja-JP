@@ -4,10 +4,10 @@ description: 特定のラベルからの web キャンペーンの表示 - Marke
 title: 特定のラベルからの web キャンペーンの表示
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '82'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -31,6 +31,6 @@ ht-degree: 95%
 
 >[!MORELIKETHIS]
 >
->* [Web キャンペーンのラベル [!UICONTROL &#x200B; 付け &#x200B;]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [[!UICONTROL Web キャンペーンのラベル付け]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
 >* [特定のラベルからのセグメントの表示](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [セグメントのラベル付け](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

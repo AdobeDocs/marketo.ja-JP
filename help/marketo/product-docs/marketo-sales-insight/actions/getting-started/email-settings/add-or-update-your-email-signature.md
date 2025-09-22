@@ -3,10 +3,10 @@ description: メール署名の追加または更新 - Marketo ドキュメン�
 title: メール署名の追加または更新
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -18,7 +18,7 @@ Marketo Sales からのメールは、自分のメールクライアントから
 
    ![](assets/add-or-update-your-email-signature-1.png)
 
-1. [!UICONTROL &#x200B; マイアカウント &#x200B;] で **[!UICONTROL メール設定]** を選択します。
+1. [!UICONTROL マイアカウント]で、「**[!UICONTROL メール設定]**」を選択します。
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
@@ -26,7 +26,7 @@ Marketo Sales からのメールは、自分のメールクライアントから
 
    ![](assets/add-or-update-your-email-signature-3.png)
 
-1. [!UICONTROL &#x200B; 署名 &#x200B;] カードで、「編集 **[!UICONTROL をクリックし]** す。
+1. [!UICONTROL 署名]カードで、「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/add-or-update-your-email-signature-4.png)
 

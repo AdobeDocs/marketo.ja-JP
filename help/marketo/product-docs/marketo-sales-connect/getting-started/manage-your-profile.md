@@ -3,16 +3,16 @@ description: プロファイルの管理 - Marketo ドキュメント - 製品�
 title: プロファイルの管理
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
 # プロファイルの管理 {#manage-your-profile}
 
-[!UICONTROL &#x200B; マイプロファイル &#x200B;] ページでは、名前、アカウントの言語/ロケール/タイムゾーンを更新し、パスワードも変更できます。
+[!UICONTROL マイプロファイル]ページで、名前、アカウントの言語、ロケール、タイムゾーンの更新およびパスワードも変更できます。
 
 ## アカウントの詳細 {#account-details}
 
@@ -34,7 +34,7 @@ ht-degree: 83%
 
 ## 連携 {#your-integrations}
 
-ページの右側の「[!UICONTROL &#x200B; 統合 &#x200B;]」セクションには、アカウントのすべての接続のステータスが表示されます。
+ページの右側の「[!UICONTROL 統合]」セクションに、アカウントのすべての接続ステータスが表示されます。
 
 ![](assets/manage-your-profile-3.png)
 

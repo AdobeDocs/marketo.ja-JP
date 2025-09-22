@@ -4,10 +4,10 @@ description: フリーフォームランディングページ画像へのリン�
 title: フリーフォームランディングページ画像へのリンクの追加
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 74%
 >
 >これが該当するのは、フリーフォームランディングページだけです。
 
-1. ランディングページに追加した画像を選択し、**[!UICONTROL プロパティシート &#x200B;].** を展開します。
+1. ランディングページに追加した画像を選択し、**[!UICONTROL プロパティシート]を展開します。**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. **[!UICONTROL linkUrl].** に宛先リンクを入力します
+1. 「**[!UICONTROL リンク URL]」に mailto リンクを入力します。**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

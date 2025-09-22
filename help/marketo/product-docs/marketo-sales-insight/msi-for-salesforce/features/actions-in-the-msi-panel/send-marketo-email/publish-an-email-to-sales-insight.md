@@ -4,16 +4,16 @@ description: Sales Insight への電子メールの公開 - Marketo ドキュメ
 title: Sales Insight への電子メールの公開
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
 # [!DNL Sales Insight] へのメールの公開 {#publish-an-email-to-sales-insight}
 
-[!DNL Sales Insight] に公開」設定を有効にして、セールスチームと [!DNL Sales Insight] および Gmail アドインの両方でメールを [!DNL Outlook] 用できるようにします。 また、有効期限を指定することもできます。
+[!DNL Sales Insight] に公開する設定を有効にして、セールスチームが [!DNL Sales Insight] だけでなく、[!DNL Outlook] および Gmail アドインでもメールを利用できるようにします。また、有効期限を指定することもできます。
 
 1. 目的のメールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
@@ -23,7 +23,7 @@ ht-degree: 62%
 
    ![](assets/two.png)
 
-1. 「**[!UICONTROL Marketo Sales Insight に公開]**」をオンにします。
+1. 「**[!UICONTROL Marketo セールスインサイトに公開]**」をオンにします。
 
    ![](assets/three.png)
 
@@ -33,9 +33,9 @@ ht-degree: 62%
 
    >[!NOTE]
    >
-   >有効期限の :59 後 11 時（CST）に（設定した場合）、利用可能にしたメールは [!DNL Sales Insight] およびそのアドインのいずれかから消えます。 もちろん、Marketo では引き続きアクセス可能です。
+   >（設定した場合）有効期限日の午後 11:59（CST）に、使用可能にしたメールが [!DNL Sales Insight] およびアドインから削除されます。もちろん、Marketo では引き続きアクセスできます。
 
-1. **[!DNL Save]** をクリックします。
+1. 「**[!DNL Save]**」をクリックします。
 
    ![](assets/five.png)
 
@@ -43,7 +43,7 @@ ht-degree: 62%
 
 >[!NOTE]
 >
->[ または ](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md) で [!DNL Sales Insight] からメールを送信する際に [!DNL Microsoft Dynamics] マイトークン [!DNL Salesforce] が解決されません。入力されるのは標準トークン（リード、会社など）のみです。 ただし、トークンのデフォルト値は機能します。
+>[!DNL Microsoft Dynamics] または [!DNL Salesforce] の [!DNL Sales Insight] からメールを送信しても、[マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md)は解決されません。標準のトークン（リード、会社など）のみが入力されます。ただし、トークンのデフォルト値は機能します。
 
 >[!TIP]
 >

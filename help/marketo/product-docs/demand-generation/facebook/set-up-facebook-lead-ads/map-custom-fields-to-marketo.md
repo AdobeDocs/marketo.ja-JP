@@ -4,16 +4,16 @@ description: カスタムフィールドの Marketo へのマッピング — Ma
 title: カスタムフィールドの Marketo へのマッピング
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 
 # カスタムフィールドの Marketo へのマッピング {#map-custom-fields-to-marketo}
 
-オンライン配信サービスを使用する頻度など、デフォルトで保存されてい [!DNL Facebook] 標準情報以上の情報を収集したい場合があります。 これを実現するには、[ リード広告で ](https://ja-jp.facebook.com/business/help/774623835981457?&helpref=uf_permalink) カスタム質問を作成 [!DNL Facebook] します。
+オンライン配信サービスの利用頻度など、[!DNL Facebook] がデフォルトで保存する標準的な情報よりも多くの情報を収集したい場合があります。これは、[!DNL Facebook] リード広告で[カスタムの質問を作成](https://ja-jp.facebook.com/business/help/774623835981457?&helpref=uf_permalink)することで実現できます。
 
 ただし、**Marketo は、このデータの収集を自動的に開始しません**。Marketo でカスタムフィールド値の取得を開始するには、それらのカスタムフィールドを Marketo のフィールドに&#x200B;**マッピングする必要があります**。
 
@@ -39,17 +39,17 @@ ht-degree: 54%
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
-1. ここで、カスタム [!DNL Facebook] フィールドをMarketo フィールドにマッピングします。 **[!UICONTROL 追加 &#x200B;].** をクリックします。
+1. ここで、カスタム [!DNL Facebook] フィールドを Marketo フィールドにマッピングします。「**[!UICONTROL 追加]」をクリックします。**
 
    ![](assets/image2017-10-24-9-3a33-3a49.png)
 
-1. 新しい行に、[!DNL Facebook] のカスタムフィールドの名前を入力します。
+1. 新しい行に、[!DNL Facebook] カスタムフィールドの名前を入力します。
 
    ![](assets/image2017-10-24-9-3a37-3a3.png)
 
    >[!NOTE]
    >
-   >ここには、フォームテンプレートに保存され [!DNL Facebook] フィールドのみがオプションとして表示されます。
+   >ここには、[!DNL Facebook] のフォームテンプレートに保存されたフィールドのみがオプションとして表示されます。
 
 1. 「**[!UICONTROL Marketo フィールド]**」列をクリックします。マッピングしたいフィールドを入力して検索します。フィールドを選択したら、「**[!UICONTROL 保存]**」をクリックします。
 
@@ -57,8 +57,8 @@ ht-degree: 54%
 
    >[!NOTE]
    >
-   >[!DNL Facebook] フィールドをマッピングするMarketoにフィールドがまだない場合は、[ カスタムフィールドの作成 ](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) を参照してください。
+   >[!DNL Facebook] フィールドのマッピング先のフィールドが Marketo にまだない場合は、[カスタムフィールドを作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)する方法を参照してください。
 
 >[!CAUTION]
 >
->Marketoでデータを収集するには **新しい** フィールドに対してこのプロセスを実行する [!DNL Facebook] 必要があります）。
+>Marketo でデータを収集するには、新しい [!DNL Facebook] フィールドに対してこの処理を実行する&#x200B;**必要があります**。

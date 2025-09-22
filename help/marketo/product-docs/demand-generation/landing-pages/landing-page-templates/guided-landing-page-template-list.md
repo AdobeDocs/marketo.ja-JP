@@ -4,10 +4,10 @@ description: ガイド付きランディングページテンプレートリス�
 title: ガイド付きランディングページテンプレートリスト
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -23,10 +23,10 @@ ht-degree: 93%
 
 1. より大きく表示するには、テンプレートの名前をクリックします。
 1. 選択したテンプレートをダウンロードします。
-1. Marketoで、**[!UICONTROL Design Studio].** に移動します。
-1. 左側のツリーで **[!UICONTROL ランディングページ]** をクリックし、「**[!UICONTROL テンプレート &#x200B;]** を選択します。
+1. Marketo で、**[!UICONTROL デザインスタジオ]に移動します。**
+1. 左側のツリーで、「**[!UICONTROL ランディングページ]**」をクリックして、「**[!UICONTROL テンプレート]」を選択します。**
 
-1. メニューバーで、「**[!UICONTROL テンプレートをインポート &#x200B;].**」をクリックします。
+1. メニューバーで、「**[!UICONTROL インポートテンプレート]」をクリックします。**
 1. ダウンロードしたファイルを選択し、テンプレート名を入力して、「**[!UICONTROL インポート]**」をクリックします（わかりやすい名前を必ず選択し、編集モードが&#x200B;**[!UICONTROL ガイド付き]**&#x200B;であることを示します)。
 
 <table>

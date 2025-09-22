@@ -4,10 +4,10 @@ description: メールヘッダーの編集 - Marketo ドキュメント - 製�
 title: メールヘッダーの編集
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo のメールヘッダーは完全にカスタマイズ可能です。こ
 
 * **[!UICONTROL 送信者]** - 表示する送信者の名前
 * **[!UICONTROL 送信者アドレス]** — 表示する送信者のメールアドレス
-* **[!UICONTROL 返信先]** – ある人物の返信を送信するメールアドレス（「送信者アドレス [!UICONTROL &#x200B; とは異なることができます &#x200B;]
+* **[!UICONTROL 返信先]** - 返信を送信するメールアドレス（[!UICONTROL 送信者]のアドレスとは異なる場合があります）
 * **[!UICONTROL 件名]** — メールの件名行
 
 これらの値を編集するには、各フィールドをクリックし、情報を入力します。
@@ -36,11 +36,11 @@ Marketo のメールヘッダーは完全にカスタマイズ可能です。こ
 
 ![](assets/three-2.png)
 
-[!UICONTROL &#x200B; 送信者アドレス &#x200B;] フィールドの右端にあるキーアイコンを使用すると、カスタムのDKIM署名を使用しているかどうかを確認できます。
+「[!UICONTROL 送信者アドレス]」フィールドの右端にあるキーアイコンを使用すると、カスタム DKIM 署名を使用しているかどうかを確認できます。
 
 ![](assets/four-2.png)
 
-[!UICONTROL &#x200B; 件名 &#x200B;] フィールドの右端にあるカウンターを使用すると、件名を推奨される 50 文字の制限を超えないようにできます。
+「[!UICONTROL 件名]」フィールドの右端にあるカウンターは、件名を推奨される 50 文字以下に保つのに役立ちます。
 
 ![](assets/five-1.png)
 

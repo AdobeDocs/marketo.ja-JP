@@ -4,10 +4,10 @@ description: モバイルアプリの追加 - Marketo ドキュメント - 製�
 title: モバイルアプリの追加
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
@@ -34,13 +34,13 @@ ht-degree: 78%
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. 名前を入力します。**[!UICONTROL タイプ]** ドロップダウンで、使用する環境のタイプ（「サンドボックス [!UICONTROL &#x200B; または &#x200B;] 実稼動 [!UICONTROL &#x200B; を選択し &#x200B;] す。 「**[!UICONTROL 保存]**」をクリックします。
+1. 名前を入力します。**[!UICONTROL タイプ]**&#x200B;ドロップダウンで、使用する環境のタイプ（[!UICONTROL サンドボックス]または[!UICONTROL 実稼動]）を選択します。「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL &#x200B; 実稼動 &#x200B;] 環境では、[!UICONTROL &#x200B; 実稼動 &#x200B;] 通知証明書を使用することをお勧めします。 [!UICONTROL &#x200B; サンドボックス &#x200B;] 証明書は、問題なく [!UICONTROL &#x200B; 実稼動 &#x200B;] 環境にインストールされますが、通知は受け取りません。 環境証明書や通知証明書に関する不明点がある場合は、Marketo 管理者またはモバイルアプリデベロッパーにお問い合わせください。
+   >[!UICONTROL 実稼動]環境では、[!UICONTROL 実稼動]通知証明書を使用することをお勧めします。[!UICONTROL サンドボックス]証明書を[!UICONTROL 実稼動]環境にインストールすることはできますが、通知は受信できません。環境証明書や通知証明書に関する不明点がある場合は、Marketo 管理者またはモバイルアプリデベロッパーにお問い合わせください。
 
    作業は以上です。次に、Android および iOS デバイスと連携するようにアプリを設定します。
 

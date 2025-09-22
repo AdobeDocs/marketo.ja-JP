@@ -4,10 +4,10 @@ description: 売上高モデラーで 2 つのステージを結合する — Ma
 title: 売上高モデラーで 2 つのステージを結合する
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 73%
 
    ![](assets/image2015-4-29-15-3a7-3a3.png)
 
-1. 結合するステージを右クリックし、メニューで **[!UICONTROL 結合 &#x200B;] ステージ** を選択します。
+1. 結合したいステージを右クリックして、メニューで「**[!UICONTROL ステージの]結合**」を選択します。
 
    ![](assets/image2015-4-29-15-3a10-3a6.png)
 
@@ -41,4 +41,4 @@ ht-degree: 73%
 
 >[!NOTE]
 >
->**[!UICONTROL 結合ステージ]** プルダウンで「[!UICONTROL &#x200B; なし &#x200B;]」を選択し、モデルからリードを削除します
+>[!UICONTROL ステージの結合]プルダウンで「**[!UICONTROL なし]**」を選択し、リードをモデルから削除します

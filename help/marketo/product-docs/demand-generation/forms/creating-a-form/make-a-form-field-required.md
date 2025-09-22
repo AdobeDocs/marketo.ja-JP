@@ -4,10 +4,10 @@ description: フォームフィールドを必須にする - Marketo ドキュ�
 title: フォームフィールドを必須にする
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 30%
+ht-degree: 42%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 30%
    >
    >フォームが承認されていない場合は、「**ドラフトを編集**」をクリックします。
 
-1. 必須にするフィールドを選択し、「**[!UICONTROL 必須]** にチェックを入れます。
+1. 必須にするフィールドを選択し、「**[!UICONTROL 必須]**」をオンにします。
 
    ![](assets/make-a-form-field-required-3.png)
 

@@ -4,10 +4,10 @@ description: 期間原価がないプログラムを収益エクスプローラ�
 title: 期間原価がないプログラムを収益エクスプローラーとアナライザーで使用可能にする
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '250'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 96%
 >
 >プログラムアナライザーは、期間原価別にプログラムの成功をバケット化します。期間原価がない場合、プログラムの分析動作に関係なく、プログラムの成功は表示されません。分析動作が設定されている場合、商談指標（パイプラインの商談、獲得した収益など）のデータが表示されます。
 
-1. 「[!UICONTROL 管理]」セクションで「**[!UICONTROL 編集]**」をクリックします。
+1. 「[!UICONTROL 管理]」セクションで「**[!UICONTROL タグ]**」をクリックします。
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -37,7 +37,7 @@ ht-degree: 96%
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. [!UICONTROL Analytics の動作 &#x200B;] を「含む **に変更し** 「**[!UICONTROL 保存]**」をクリックします。
+1. [!UICONTROL 分析の動作]を&#x200B;**包括的**&#x200B;に変更し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 

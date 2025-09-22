@@ -4,8 +4,8 @@ description: エンゲージメントプログラムストリームの変更 - M
 title: エンゲージメントプログラムストリームの変更
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
 

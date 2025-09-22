@@ -4,24 +4,24 @@ description: 個人取引先の使用 -  Marketo ドキュメント - 製品ド�
 title: 個人取引先の使用
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
 # 個人取引先の使用 {#using-person-accounts}
 
-組織のニーズに合わせて、Salesforce で個人取引先を設定できます。Marketo Engageでの人物アカウントの扱い方を次に示します。
+組織のニーズに合わせて、Salesforce で個人取引先を設定できます。Marketo Engage が個人取引先を扱う方法を次に示します。
 
 >[!NOTE]
 >
->デフォルトの [!DNL Salesforce] アカウントはビジネスアカウントです。 [!DNL Salesforce] 管理者は、個別にユーザーアカウントを設定する必要があります。
+>デフォルトの [!DNL Salesforce] アカウントは、ビジネスアカウントです。[!DNL Salesforce] 管理者は、個人取引先を個別に設定する必要があります。
 
 ## 個人取引先とは {#what-is-a-person-account}
 
-人物アカウントは、[!DNL Salesforce] のアカウントオブジェクトに非常に似ています。 ただし、個人取引先は、アカウントフィールドと連絡先フィールドの両方にアクセスできます。
+個人取引先は、[!DNL Salesforce] のアカウントオブジェクトと非常に似ています。ただし、個人取引先は、アカウントフィールドと連絡先フィールドの両方にアクセスできます。
 
 ## 個人取引先が Marketo に同期されるとどうなりますか？ {#what-happens-when-a-person-account-is-synced-to-marketo}
 
@@ -33,15 +33,15 @@ ht-degree: 82%
 
 ## ビジネスアカウントと個人取引先を区別する方法を教えてください。 {#how-do-i-differentiate-business-accounts-and-person-accounts}
 
-スマートリストの「ユーザーアカウント」フィルターを使用して、標準のビジネスアカウントからユーザーアカウントを分離します。
+スマートリストで「個人取引先」フィルターを使用して、個人取引先を標準のビジネスアカウントと区別します。
 
-## 個人取引先情報は Marketo Sales Insight でどこに表示されますか？ {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
+## 個人取引先情報は Marketo セールスインサイトでどこに表示されますか？ {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
 個人取引先に関連するアクティビティは、**[!UICONTROL アカウント]**&#x200B;パネルに表示されます。
 
 >[!NOTE]
 >
->Marketo Sales Insight の「**[!UICONTROL Marketo キャンペーンに追加]**」と「**[!UICONTROL メールを送信]**」の各オプションは、現在、個人取引先では使用できません。
+>Marketo セールスインサイトの「**[!UICONTROL Marketo キャンペーンに追加]**」と「**[!UICONTROL メールを送信]**」の各オプションは、現在、個人取引先では使用できません。
 
 ## 個人取引先に商談を関連付ける方法を教えてください。 {#how-do-i-associate-opportunities-to-a-person-account}
 

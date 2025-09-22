@@ -3,10 +3,10 @@ description: 初期設定 - Marketo ドキュメント - 製品ドキュメン�
 title: 初期設定
 feature: Dynamic Chat
 exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -14,13 +14,13 @@ ht-degree: 84%
 
 以下の手順に従って、Dynamic Chat を設定します。
 
-## Admin Console にアクセスする {#access-admin-console}
+## Admin Console へのアクセス {#access-admin-console}
 
 >[!NOTE]
 >
 >**管理者権限が必要。**
 
-1. Marketo インスタンスで [!DNL Dynamic Chat] を有効にすると、指定したシステム管理者にお知らせメールが届きます。 そのメールで、「**[!UICONTROL 開始する]**」をクリックします。
+1. Marketo インスタンスに対して [!DNL Dynamic Chat] を有効にすると、指定されたシステム管理者にウェルカムメールが送信されます。そのメールで、「**[!UICONTROL 開始する]**」をクリックします。
 
    ![](assets/initial-setup-1.png)
 

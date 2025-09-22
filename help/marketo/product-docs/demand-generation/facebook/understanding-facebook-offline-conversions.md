@@ -4,22 +4,22 @@ description: Facebook オフラインコンバージョンについて — Marke
 title: Facebook オフラインコンバージョンについて
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
 # [!DNL Facebook] オフラインコンバージョンについて {#understanding-facebook-offline-conversions}
 
-Facebook リード広告キャンペーンは、リードを生成し、マーケティングキャンペーンで使用するために Marketo に送信します。ただし、オフラインコンバージョンを可視化しないと、[!DNL Facebook] の広告主はどの広告が最も効果的かを知ることができません。 次に例を示します。
+Facebook リード広告キャンペーンは、リードを生成し、マーケティングキャンペーンで使用するために Marketo に送信します。ただし、オフラインコンバージョンを視認できない場合、[!DNL Facebook] の広告主は、最も効果的な広告を把握できません。次に例を示します。
 
 >[!NOTE]
 >
 >**例**
 >
->[!UICONTROL Facebook リード広告 &#x200B;] は 3 つの広告を実行します。
+>[!UICONTROL Facebook リード広告]では 3 つの広告が実行されます。
 >
 >* 広告 1 が 20 リードを生成
 >* 広告 2 が 30 リードを生成
@@ -36,12 +36,12 @@ Facebook リード広告キャンペーンは、リードを生成し、マー�
 >
 >オフラインコンバージョンがないと、広告主はおそらく広告 3 にさらに投資するでしょう。オフラインコンバージョンデータを使用すると、広告主は広告 1 に投資する可能性が高くなります。
 
-[Facebook オフラインコンバージョンを設定 ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) して、オフライン広告パフォーマンスを [!DNL Facebook] に送信できます。
+[Facebook オフラインコンバージョンを設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)して、オフラインの広告パフォーマンスを [!DNL Facebook] に送信できます。
 
-1. [[!DNL Facebook] [!UICONTROL LaunchPoint] 統合 ](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) が最新であることを確認します。
+1. [[!DNL Facebook] [!UICONTROL  Launchpoint] 統合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)が最新であることを確認します。
 1. 収益サイクルモデルのステージを、[!DNL Facebook] のオフラインコンバージョンステージにマッピングします。
-1. [!DNL Facebook] リードが [!DNL Facebook] リード広告から生成され、マッピングされたステージに到達すると、Marketoは、安全な自動 API を使用して、オフラインコンバージョンデータを 1 日に数回 [!DNL Facebook] に送り返します。 データは、[!DNL Facebook] 広告マネージャーレポートに表示されます。
+1. [!DNL Facebook] リードが [!DNL Facebook] リード広告から生成され、マッピングされたステージに到達すると、Marketo は、安全で自動化された API を使用して、オフラインコンバージョンデータを 1 日に数回 [!DNL Facebook] に送信します。データが [!DNL Facebook] Ads Manager レポートに表示されます。
 
 >[!MORELIKETHIS]
 >
->[ 設定  [!DNL Facebook]  オフラインコンバージョン ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+>[ [!DNL Facebook]  オフラインコンバージョンの設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)

@@ -4,16 +4,16 @@ description: Email Editor v2.0 の概要 — Marketo ドキュメント — 製�
 title: メールエディター v2.0 の概要
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '423'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
 # メールエディター v2.0 の概要 {#email-editor-v2-overview}
 
-[!DNL Email Editor v2.0] をアクティベートすると、いくつかの新機能が表示されます。
+[!DNL Email Editor v2.0] を有効化すると、いくつかの新機能に気づかれるでしょう。
 
 **メールテンプレート選択ツール**
 
@@ -83,21 +83,21 @@ ht-degree: 77%
 
 >[!NOTE]
 >
->**[[!UICONTROL Web から画像を取得]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** は、[!UICONTROL Design Studio] と同じように機能します。
+>「**[[!UICONTROL Web から画像を取得]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**」は、[!UICONTROL デザインスタジオ]の場合と同じように動作します。
 
-**[!UICONTROL 開封トラッキングを無効にする]**&#x200B;**[!UICONTROL 設定を編集]** では、必要に応じて開封トラッキングを無効にすることができます。
+「**[!UICONTROL 設定を編集]**」の「**[!UICONTROL オープントラッキングを無効にする]**」で、必要に応じてオープントラッキングを無効にできます。
 
 ![](assets/email-editor-v2-overview-13.png)
 
 **[!UICONTROL 設定を編集]**
 
-オプションで [!UICONTROL &#x200B; プリヘッダー &#x200B;] を追加できます。 [!UICONTROL &#x200B; プリヘッダー &#x200B;] は、インボックスでメールが表示された際の件名の後の短い概要テキストです。
+[!UICONTROL プリヘッダー]を追加するオプションがあります。[!UICONTROL プリヘッダー]とは、インボックスでメールを表示する際、件名の後に表示される短い概要です。
 
 ![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
->メールエディターを使用する場合、トークンが [!UICONTROL &#x200B; プリヘッダー &#x200B;] で機能しない。 [!UICONTROL &#x200B; プリヘッダー &#x200B;] でトークンを使用するには、メールテンプレートで独自のHTMLを介している必要があります。
+>メールエディターを使用している際には、トークンは[!UICONTROL プリヘッダー]で機能しません。[!UICONTROL プリヘッダー]でトークンを使用するには、メールテンプレートで独自の HTML を使用する必要があります。
 
 ほかにも、新しい機能がたくさんあります。お楽しみください。
 

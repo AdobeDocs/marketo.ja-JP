@@ -4,10 +4,10 @@ description: メールの要素を編集する - Marketo ドキュメント - �
 title: メールの要素を編集する
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '499'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 81%
 
    >[!CAUTION]
    >
-   >Web サイトや Word ドキュメントなどのリッチテキストソースからテキストをコピー＆ペーストしないでください。代わりに、最初にリッチテキストをプレーンテキストエディター（[!DNL Notepad] （Windows）や [!DNL TextEdit] （Mac）など）に貼り付けます。 「クリーン」になったら、プレーンテキストエディターからコピーしてメールに貼り付けることができます。
+   >Web サイトや Word ドキュメントなどのリッチテキストソースからテキストをコピー＆ペーストしないでください。代わりに、まず [!DNL Notepad]（Windows）や [!DNL TextEdit]（Mac）などのプレーンテキストエディターにリッチテキストを貼り付けます。「クリーン」になったら、プレーンテキストエディターからコピーしてメールに貼り付けることができます。
 
 ## 画像要素の編集方法 {#how-to-edit-the-image-element}
 
@@ -65,9 +65,9 @@ ht-degree: 81%
 
    >[!NOTE]
    >
-   >Marketo トークンを使用する場合は、このオプションを使用します。トークンを使用する場合、画像はエディターで壊れて表示されますが、プレビューモードとサンプルを送信メールではレンダリングされます。
+   >Marketo トークンを使用する場合は、このオプションを使用します。トークンを使用する場合、画像はエディターで壊れて表示されますが、プレビューモードと「サンプルメールを送信」ではレンダリングされます。
 
-   外部 URL を使用するには、まず画像の URL に貼り付けます。必要に応じて寸法を変更し、[!UICONTROL &#x200B; 代替テキスト &#x200B;] （オプション）を追加します。 次に、「**[!UICONTROL スワップ]**」を押します。
+   外部 URL を使用するには、まず画像の URL に貼り付けます。必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]を追加します（オプション）。次に、「**[!UICONTROL スワップ]**」を押します。
 
    ![](assets/eight.png)
 
@@ -81,7 +81,7 @@ ht-degree: 81%
 
    ![](assets/ten.png)
 
-   必要に応じて寸法を変更し、[!UICONTROL &#x200B; 代替テキスト &#x200B;] （オプション）を変更してから、**[!UICONTROL 入れ替え]** を押します。
+   必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]（オプション）を変更して、「**[!UICONTROL スワップ]**」を押します。
 
    ![](assets/eleven.png)
 
@@ -91,11 +91,11 @@ ht-degree: 81%
 
    **Design Studio**
 
-   [!UICONTROL Design Studio] から画像を挿入するには、画像を見つけます。
+   [!UICONTROL デザインスタジオ]から画像を挿入するには、画像を配置して...
 
    ![](assets/twelve.png)
 
-   ...挿入します。必要に応じて寸法を変更し、[!UICONTROL &#x200B; 代替テキスト &#x200B;] （オプション）を変更してから、**[!UICONTROL 入れ替え]** を押します。
+   ...挿入します。必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]（オプション）を変更して、「**[!UICONTROL スワップ]**」を押します。
 
    ![](assets/thirteen.png)
 
@@ -127,7 +127,7 @@ ht-degree: 81%
 
    ![](assets/twenty.png)
 
-1. [!DNL Vimeo] またはYouTubeからビデオの URL を貼り付けます。 次に、プレビューを読み込むための URL ボックスの外側をクリックします。必要に応じて寸法を変更し、[!UICONTROL &#x200B; 代替テキスト &#x200B;] （任意）を追加して、**[!UICONTROL 挿入]** を押します。
+1. [!DNL Vimeo] または YouTube からビデオの URL を貼り付けます。次に、プレビューを読み込む URL ボックスの外側をクリックします。必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]（オプション）を追加して、「**[!UICONTROL 挿入]**」を押します。
 
    ![](assets/twentyone.png)
 

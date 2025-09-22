@@ -4,10 +4,10 @@ description: メールを作成する - Marketo ドキュメント - 製品ド�
 title: メールを作成する
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo でメールを作成する方法は主に 2 つあります。両方を
 
 ## Design Studio でメールを作成する {#create-an-email-in-the-design-studio}
 
-1. **[!UICONTROL Design Studio]** に移動します。
+1. **[!UICONTROL デザインスタジオ]**&#x200B;に移動します。
 
    ![](assets/create-an-email-1.png)
 
@@ -27,7 +27,7 @@ Marketo でメールを作成する方法は主に 2 つあります。両方を
 
    >[!NOTE]
    >
-   >[!UICONTROL Design Studio] でメールを作成すると、「[!UICONTROL &#x200B; メール &#x200B;]」の下のツリーに表示されます。
+   >[!UICONTROL デザインスタジオ]でメールを作成すると、「[!UICONTROL メール]」の下のツリーに表示されます。
 
 シンプルです。もう 1 つは…
 

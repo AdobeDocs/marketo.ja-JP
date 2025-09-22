@@ -4,10 +4,10 @@ description: フローステップでのトークンの使用 - Marketo ドキ�
 title: フローステップでのトークンの使用
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 96%
 * データ値の変更
 * プログラムメンバーの変更
 * 注目のアクション
-* [!DNL Salesforce] Campaign の手順（追加、削除、ステータスの変更）
-* タスクを作成
+* [!DNL Salesforce] キャンペーン手順（追加、削除、ステータスの変更）
+* タスクの作成
 * アラートの送信（トリガーキャンペーンのみ）
 
 1. フローステップで、`{{` と入力し始めると、トークンのカテゴリが表示されます。

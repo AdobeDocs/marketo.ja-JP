@@ -4,10 +4,10 @@ description: モデル効果分析（リード）のカスタムフィールド�
 title: モデル効果分析（リード）のカスタムフィールドグループの有効化
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '344'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -24,29 +24,29 @@ ht-degree: 66%
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>シナリオ</strong></p></td>
-   <td colspan="1" rowspan="1"><p><strong><span class="uicontrol"> モデルパフォーマンス分析（リード） </span> 領域への影響</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong><span class="uicontrol">モデルパフォーマンス分析（リード）</span>領域への影響</strong></p></td>
    <td colspan="1" rowspan="1"><p><strong>リード分析、キャンペーン分析、商談分析の各領域に与える影響</strong></p></td>
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>標準リードまたは会社フィールドに関連付けられたカスタムフィールドグループを有効にする</strong></p></td>
-   <td colspan="1" rowspan="1"><p><span class="uicontrol"> モデルパフォーマンス分析（リード） </span> 領域のレポートに対して、カスタムフィールドグループが有効になっています</p></td>
+   <td colspan="1" rowspan="1"><p>カスタムフィールドグループが<span class="uicontrol">モデルパフォーマンス分析（リード）</span>領域でのレポートに対して有効になる</p></td>
    <td colspan="1" rowspan="1"><p>影響なし</p></td>
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>ユーザー設定の個人または会社フィールドに関連付けられたカスタムフィールドグループを有効にする</strong></p></td>
-   <td colspan="1" rowspan="1"><p><span class="uicontrol"> モデルパフォーマンス分析（リード） </span> 領域のレポートに対して、カスタムフィールドグループが有効になっています</p></td>
+   <td colspan="1" rowspan="1"><p>カスタムフィールドグループが<span class="uicontrol">モデルパフォーマンス分析（リード）</span>領域でのレポートに対して有効になる</p></td>
    <td colspan="1" rowspan="1"><p>カスタムフィールド自体が、リード分析、キャンペーン分析、商談分析エリアでのレポート作成に対して有効になる</p><p><strong>注意</strong>：これらの分析領域では、カスタムフィールドグループはサポートされていないので、グループの関連付けは収益サイクルエクスプローラーには表示されません。表示されるのはカスタムフィールド<em>のみ</em>です。</p></td>
   </tr>
  </tbody>
 </table>
 
-[!UICONTROL &#x200B; モデルパフォーマンス分析（リード） &#x200B;] 領域でレポート用のカスタムフィールドグループを有効にするには、次の手順に従います。
+[!UICONTROL モデルパフォーマンス分析（リード）]領域でのレポートに対してカスタムフィールドグループを有効にするには、次の手順に従います。
 
 1. 「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/one-1.png)
 
-1. 「**[!UICONTROL 収益サイクルアナリティクス]**」をクリックします。
+1. 「**[!UICONTROL 収益サイクル分析]**」をクリックします。
 
    ![](assets/two-1.png)
 
@@ -60,7 +60,7 @@ ht-degree: 66%
 
    >[!NOTE]
    >
-   >この例では、標準フィールド（状態）のカスタムフィールドグループを有効にしました。したがって、影響を受けるのは [!UICONTROL &#x200B; モデル性能分析（リード） &#x200B;] 領域のみでした。 ユーザーまたは会社のカスタムフィールドのカスタムフィールドグループが有効になっている場合、有効になっているグループは「同期の概要」タブの [!UICONTROL &#x200B; モデル性能分析（リード） &#x200B;] セクションに表示され、リード、キャンペーンおよび商談分析のカスタムフィールドの数が 1 増えます。
+   >この例では、標準フィールド（状態）のカスタムフィールドグループを有効にしました。そのため、影響を受けたのは、[!UICONTROL モデルパフォーマンス分析（リード）]領域のみです。カスタム人物または会社フィールドのカスタムフィールドグループが有効になっている場合、有効なグループが「同期の概要」タブの[!UICONTROL モデルパフォーマンス分析（リード）]セクションに表示され、リード、キャンペーン、商談分析のカスタムフィールド数が 1 増加します。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 

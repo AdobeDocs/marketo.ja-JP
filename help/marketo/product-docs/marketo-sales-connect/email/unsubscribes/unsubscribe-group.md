@@ -4,10 +4,10 @@ description: 登録解除グループ - Marketo ドキュメント - 製品ド�
 title: 登録解除グループ
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 50%
 
 ![](assets/2_c3.png)
 
-管理者の場合は、購読解除グループに移動して [!UICONTROL &#x200B; アカウントの購読解除 &#x200B;] でフィルタリングすると、人物データベースに収集されたすべての購読解除を確認できます。
+管理者は、登録解除グループに移動して、「[!UICONTROL アカウント登録解除]」でフィルタリングし、ユーザデータベースで収集された登録解除をすべて表示できます。
 
 ![](assets/3_c3.png)

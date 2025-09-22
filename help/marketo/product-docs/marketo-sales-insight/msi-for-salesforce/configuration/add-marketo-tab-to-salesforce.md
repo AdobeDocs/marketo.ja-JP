@@ -3,20 +3,20 @@ description: Salesforce への「Marketo」タブの追加 - Marketo ドキュ�
 title: Salesforce への「Marketo」タブの追加
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 63%
+ht-degree: 100%
 
 ---
 
-# [!DNL Salesforce] に「Marketo」タブを追加 {#add-marketo-tab-to-salesforce}
+# [!DNL Salesforce] への「Marketo」タブの追加 {#add-marketo-tab-to-salesforce}
 
-1. [!DNL Salesforce] で、[**+**] をクリックし、[**[!UICONTROL マイ タブのカスタマイズ]**] をクリックします。
+1. [!DNL Salesforce] で、「**+**」をクリックして、「**[!UICONTROL タブをカスタマイズ]**」をクリックします。
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. 左側のリストで「Marketo 」を選択します。次に、「**[!UICONTROL 追加]**」をクリックして **[!UICONTROL 選択済み &#x200B;] タブ** に追加します。
+1. 左側のリストで「Marketo」を選択します。次に、「**[!UICONTROL 追加]**」をクリックして、**[!UICONTROL 選択された]タブ**&#x200B;に追加します。
 
    >[!TIP]
    >

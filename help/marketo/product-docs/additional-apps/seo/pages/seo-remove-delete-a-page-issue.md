@@ -4,7 +4,7 @@ description: SEO - ページの問題の削除 - Marketo ドキュメント - �
 title: SEO - ページの問題の削除
 exl-id: cc1e5318-5c64-4022-bb56-6a96607ced7d
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%

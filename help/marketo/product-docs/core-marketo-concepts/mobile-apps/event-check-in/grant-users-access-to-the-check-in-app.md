@@ -4,20 +4,20 @@ description: チェックインアプリに対するアクセス権をユーザ�
 title: チェックインアプリに対するアクセス権をユーザーに付与する
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
 # チェックインアプリに対するアクセス権をユーザーに付与する {#grant-users-access-to-the-check-in-app}
 
-Marketo Engageには、イベントチェックインアプリ用の特別なユーザーロールがあります。 アプリを使用する権限を持つ新しい役割の作成方法は、次のとおりです。
+Marketo Engage には、イベントチェックインアプリ用の特別なユーザのロールがあります。アプリを使用する権限を持つ新しいロールの作成方法は、次のとおりです。
 
 >[!IMPORTANT]
 >
->2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Events アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo Engage インスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}
+>2023年10月2日（PT）に、アドビは Marketo イベントアプリをすべてのアプリストアから削除しました。タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。[詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 ## モバイル用の新しいユーザーの役割の作成 {#create-a-new-user-role-for-mobile}
 
@@ -59,6 +59,6 @@ Marketo Engageには、イベントチェックインアプリ用の特別なユ
 
    >[!TIP]
    >
-   >既存のユーザーの場合、新しい役割を作成するか、現在の役割に [!UICONTROL &#x200B; モバイルアプリケーションへのアクセス &#x200B;] 権限を追加できます。
+   >既存のユーザの場合は、新しいロールを作成するか、現在のロールに[!UICONTROL モバイルアプリケーションへのアクセス]権限を追加できます。
 
-ユーザーには、チェックインアプリへのアクセス権を持っていることを知らせるメールが届きます。
+ユーザには、チェックインアプリへのアクセス権を持っていることを知らせるメールが届きます。

@@ -4,16 +4,16 @@ description: アカウントプロファイリングのランキングと調整 
 title: アカウントのプロファイリングのランキングと調整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '401'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
 # アカウントのプロファイリングのランキングと調整 {#account-profiling-ranking-and-tuning}
 
-アカウント・プロファイリングでは、理想的な顧客プロファイル（ICP）を識別し、ICP に基づいてデータベース内の企業をランク付けし、ICP インディケータ・データを [!UICONTROL &#x200B; 指定勘定科目 &#x200B;] として昇格された勘定科目に追加します。
+アカウントプロファイリングは、理想的な顧客プロファイル（ICP）を特定し、ICP に基づきデータベース内の企業をランク付けし、[!UICONTROL 重点顧客]として昇格されたアカウントに ICP 指標データを追加します。
 
 >[!IMPORTANT]
 >
@@ -158,23 +158,23 @@ ht-degree: 73%
 
 ![](assets/tool-tip.png)
 
-[!UICONTROL ICP インジケータの追加 &#x200B;] ドロップダウンをクリックして、モデルにインジケータを追加します。
+「[!UICONTROL ICP 指標の追加]」ドロップダウンをクリックして、モデルに追加の指標を挿入します。
 
 ![](assets/add-icp.png)
 
-「[!UICONTROL &#x200B; エクスポート &#x200B;]」ボックスをチェックすると、[!UICONTROL &#x200B; 指定勘定科目 &#x200B;] 詳細ページに ICP インディケータを表示でき、選択した ICP インディケータを [ 指定勘定科目フィルタ ](/help/marketo/product-docs/target-account-management/engage/account-filters.md) の制約として使用できます。
+「[!UICONTROL エクスポート]」ボックスをオンにすると、[!UICONTROL 重点顧客]の詳細ページで ICP 指標を表示でき、選択した ICP 指標を[重点顧客フィルター](/help/marketo/product-docs/target-account-management/engage/account-filters.md)の制約として使用できます。
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->ICP 指標は、**[!UICONTROL 重点顧客のメンバー]**&#x200B;フィルターとトリガーに制約として含まれます。
+>ICP 指標は、**[!UICONTROL 重点顧客のメンバー]**&#x200B;のフィルターとトリガーに制約として含まれます。
 
-[!UICONTROL &#x200B; インジケーターの重み付け &#x200B;] は、各インジケーターがモデルで受け取る重要度を制御するものです。
+[!UICONTROL 指標の重み付け]は、モデル内で各指標が受け取る重要度のレベルを制御します。
 
 ![](assets/weightage.png)
 
-**[!UICONTROL モデルを更新]** をクリックして、これらの変更を有効にします。
+変更を有効にするには、「**[!UICONTROL モデルを更新]**」をクリックします。
 
 ![](assets/refresh-button.png)
 

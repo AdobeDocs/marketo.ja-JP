@@ -3,10 +3,10 @@ description: 設定の共有 - Marketo ドキュメント - 製品ドキュメ�
 title: 設定の共有
 exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -14,17 +14,17 @@ ht-degree: 97%
 
 ユーザが共有可能な項目やカテゴリを制限して、テンプレートを適切に管理しましょう。
 
-Sales Insight Actions アカウントを最初に作成すると、設定の共有が有効になります。これにより、チームのカテゴリ内のコンテンツを共有できる機能をユーザに追加しなくても、アカウント管理者がテンプレートカテゴリを作成し、構成できるようになります。
+Sales Insight Actions アカウントを最初に作成すると、設定の共有が有効になります。これにより、アカウント管理者は、ユーザがチームのカテゴリ内のコンテンツを共有できるようにする前に、テンプレートカテゴリを作成し、整理する機会を得られます。
 
 設定の共有が有効になると、管理者のみカテゴリを共有できます。チーム管理者やチーム全員が共有権限を持つには、権限の追加が必要になります。設定の共有を無効にした場合、制限はなく、すべてのユーザが任意のテンプレートカテゴリで共有できます。
 
-## 設定の共有 {#configure-your-sharing-settings}
+## 設定の共有の設定 {#configure-your-sharing-settings}
 
 1. [Web アプリケーションで](https://toutapp.com/login)、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/sharing-settings-1.png)
 
-1. [!UICONTROL &#x200B; 管理者設定 &#x200B;] で、「**[!UICONTROL 共有アクセス]**」を選択します。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL アクセス権の共有]**」を選択します。
 
    ![](assets/sharing-settings-2.png)
 

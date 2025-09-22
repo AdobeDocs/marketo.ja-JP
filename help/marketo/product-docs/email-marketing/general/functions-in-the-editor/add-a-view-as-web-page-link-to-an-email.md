@@ -4,16 +4,16 @@ description: メールに「Web ページとして表示」リンクを追加す
 title: メールに「Web ページとして表示」リンクを追加する
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '160'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 # メールに「Web ページとして表示」リンクを追加する {#add-a-view-as-web-page-link-to-an-email}
 
-メールには限られた機能があります（CSS は限られており、JavaScript やフォームはありません）。「Web ページとして表示」を使用して、メールをブラウザーに表示するためのリンクを提供します。これにより、[!DNL Munchkin] を使用して受信者に Cookie が設定されます。
+メールには限られた機能があります（CSS は限られており、JavaScript やフォームはありません）。「Web ページとして表示」を使用して、メールをブラウザーに表示するためのリンクを提供します。これにより、[!DNL Munchkin] を使用して受信者に cookie を設定します。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 88%
 
    ![](assets/two-5.png)
 
-1. 「**[!UICONTROL Web ページリンクとして表示を含める]**」ボックスをオンにして、「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL Web ページリンクとして表示を含める]**」ボックスのチェックをオンにして「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/three-4.png)
 

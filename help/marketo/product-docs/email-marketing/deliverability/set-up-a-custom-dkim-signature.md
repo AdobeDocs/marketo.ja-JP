@@ -4,7 +4,7 @@ description: カスタム DKIM 署名の設定 - Marketo ドキュメント - �
 title: カスタム DKIM 署名の設定
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 >
 >この記事の手順の一部を完了するには、IT チームの支援が必要になる場合があります。
 
-DKIM 署名をパーソナライズして、選択したドメインを反映させることができます。手順は以下のとおりです。
+DKIM 署名をパーソナライズして、選択したドメインを反映させることができます。手順は次のとおりです。
 
 1. 「**[!UICONTROL 管理者]**」セクションに移動します。
 

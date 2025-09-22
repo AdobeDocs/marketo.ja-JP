@@ -4,10 +4,10 @@ description: ランディングページにカレンダーイベントの ICS �
 title: ランディングページにカレンダーイベントの ICS ファイルを追加する
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 91%
 >
 >* [カレンダーイベント（.ics）ファイルを作成する](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. ランディングページエディターで「**{...}**」をクリックし、トークンを挿入します。
+1. ランディングページエディターで、「**{...}**」をクリックしてトークンを挿入します。
 
    ![](assets/image2015-7-8-17-3a51-3a29.png)
 
