@@ -57,7 +57,7 @@ ht-degree: 95%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [画像編集](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：Marketo Engage を終了せずに、アドビの編集機能にアクセスできます。この新しい機能により、[!UICONTROL Design Studio] で直接画像の拡張、切り抜き、画像へのテキストの追加などを簡単に実行できます。
+* [画像編集](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=ja#design-studio)：Marketo Engage を終了せずに、アドビの編集機能にアクセスできます。この新しい機能により、[!UICONTROL Design Studio] で直接画像の拡張、切り抜き、画像へのテキストの追加などを簡単に実行できます。
 
 ## [!DNL Sales Insight] {#sales-insight}
 

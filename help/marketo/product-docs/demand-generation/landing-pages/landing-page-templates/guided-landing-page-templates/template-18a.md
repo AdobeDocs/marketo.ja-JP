@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 18A {#template-18a}
 
-右クリックして[テンプレート 18A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)します
+右クリックして[テンプレート 18A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html?lang=ja)します
 
 ![](assets/image2015-8-17-17-3a57-3a23.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 18A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)
+[Template 18A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html?lang=ja)

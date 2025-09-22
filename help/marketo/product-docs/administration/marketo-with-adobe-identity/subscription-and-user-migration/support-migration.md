@@ -44,7 +44,7 @@ Adobe Marketo Engage サポートプロセスに対する今後の変更点に�
 
 * Adobe IDを使用してMarketo Engageにログインする方法について詳しくは [ こちらを参照 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} してください。
 
-* [Adobe Experience League](https://experienceleague.adobe.com/?lang=ja){target="_blank"} の詳細情報。
+* [Adobe Experience League](https://experienceleague.adobe.com/ja?lang=ja){target="_blank"} の詳細情報。
 
 ## まだ質問がある場合 {#still-have-questions}
 

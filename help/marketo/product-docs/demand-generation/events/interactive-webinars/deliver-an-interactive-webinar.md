@@ -133,10 +133,10 @@ ht-degree: 2%
 
 Adobeは、インタラクティブウェビナーのアクセシビリティを向上させることにより、発表者や障がいのある参加者を含めるよう努めています。 このソフトウェアは、あらゆるタイプのユーザーのニーズに応え、視覚、聴覚、運動などの障害を持つユーザーも含めた世界標準に準拠するように継続的に強化されています。
 
-Adobe Connectが視覚、聴覚、運動のニーズ [ に対する支援を提供する方法について説明 ](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"} ます。
+Adobe Connectが視覚、聴覚、運動のニーズ [ に対する支援を提供する方法について説明 ](https://helpx.adobe.com/jp/adobe-connect/using/accessibility-features.html){target="_blank"} ます。
 
 ### クローズドキャプション {#closed-captions}
 
 クローズドキャプションは、Adobe Connect ルーム内の音声をテキストで表現したもので、耳が聞こえない参加者や聞こえにくい参加者がイベントに参加するのに役立ちます。 オーディオコンテンツのリアルタイムキャプションをイベントに統合し、これらのキャプションをクローズドキャプション表示に表示できます。
 
-詳細情報 [ クローズドキャプションを有効にする ](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
+詳細情報 [ クローズドキャプションを有効にする ](https://helpx.adobe.com/jp/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。

@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 7F {#template-7f}
 
-右クリックして[テンプレート 7F をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)します
+右クリックして[テンプレート 7F をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html?lang=ja)します
 
 ![](assets/image2015-7-29-14-3a52-3a10.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 7F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html)
+[Template 7F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7f.html?lang=ja)

@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 12E {#template-12e}
 
-右クリックして[テンプレート 12E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)します
+右クリックして[テンプレート 12E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=ja)します
 
 ![](assets/image2015-8-4-14-3a45-3a47.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html)
+[Template 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=ja)

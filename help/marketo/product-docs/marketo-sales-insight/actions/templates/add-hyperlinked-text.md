@@ -26,7 +26,7 @@ ht-degree: 100%
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. リンク先の URL を入力します（例：`https://experienceleague.adobe.com/docs/marketo/using/home.html`）。URL を同じウィンドウで開くか、新しいウィンドウで開くかを選択し、「**[!UICONTROL 保存]**」をクリックします。
+1. リンク先の URL を入力します（例：`https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja`）。URL を同じウィンドウで開くか、新しいウィンドウで開くかを選択し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-hyperlinked-text-4.png)
 

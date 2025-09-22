@@ -13,7 +13,7 @@ ht-degree: 100%
 
 # テンプレート 1D {#template-1d}
 
-右クリックして[テンプレート 1D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)します
+右クリックして[テンプレート 1D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=ja)します
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+[Template1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=ja)
