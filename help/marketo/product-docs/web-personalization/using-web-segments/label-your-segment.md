@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## セグメントのタグ付け {#tag-a-segment}
 
-1. [[!DNL Web Personalization] にログインし、「**[!UICONTROL セグメント]**」に移動します。
+1. [!DNL Web Personalization] にログインし、「**[!UICONTROL セグメント]**」に移動します。
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
