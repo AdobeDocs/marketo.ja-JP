@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: AI アシスタントを使用
-description: Adobeのジェネレーティブ AI テクノロジーを活用して、メールに便利なテキストや画像を追加します。
+description: アドビの生成 AI テクノロジーを活用して、メールに役立つテキストや画像を追加します。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
 source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
 source-wordcount: '726'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
