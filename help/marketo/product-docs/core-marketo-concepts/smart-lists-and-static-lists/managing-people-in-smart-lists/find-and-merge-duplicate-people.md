@@ -4,10 +4,10 @@ description: 重複した人物の検索と結合 - Marketo ドキュメント -
 title: 重複した人物の検索と結合
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 100%
+source-wordcount: '419'
+ht-degree: 88%
 
 ---
 
@@ -21,7 +21,7 @@ Marketo は、新しい人物がシステムに入ると、自動的に重複排
 
 >[!PREREQUISITES]
 >
->重複の検索と結合には、[ビルトイン／システムのスマートリスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}を使用します。
+>重複の検索とマージには、[ 組み込み/システムのスマートリスト ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"} を使用します。
 
 >[!NOTE]
 >
@@ -59,13 +59,15 @@ Marketo は、新しい人物がシステムに入ると、自動的に重複排
    >
    >同じ人物に対して 2 つ以上の重複が存在する場合があります。それらすべてを一度に選択します。
 
-1. レコード間で&#x200B;_一致しない_&#x200B;値が表示されます。各フィールドに保持する値を選択します。終了したら「**[!UICONTROL 結合]**」をクリックします。どちらの値も不要な場合は、「**[!UICONTROL カスタム]**」にチェックを入れて任意の値を入力します。
+1. 一致しないレコード間の値が表示されます。 _各フィールドに保持する値を選択します_。 終了したら「**[!UICONTROL 結合]**」をクリックします。どちらの値も不要な場合は、「**[!UICONTROL カスタム]**」にチェックを入れて任意の値を入力します。
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >人物を手動で結合する場合、最初に選択した人物が「勝者」になります。つまり、「人物」タブでレコード ID 198 と 199 を結合するときに、最初に 199 をクリックした場合、199 が結合された人のレコード ID になります。これは、2 つ以上のレコードが結合される場合にも当てはまります。
+   >* Salesforceとは異なり、Marketoでユーザーを結合する場合、スコアは合計 _されません_。 保持する値を選択します。
+   >
+   >* 人物を手動で結合する場合、最初に選択した人物が「勝者」になります。つまり、「人物」タブでレコード ID 198 と 199 を結合するときに、最初に 199 をクリックした場合、199 が結合された人のレコード ID になります。これは、2 つ以上のレコードが結合される場合にも当てはまります。
 
    >[!TIP]
    >
