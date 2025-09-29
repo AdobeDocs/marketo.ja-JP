@@ -6,10 +6,10 @@ description: アドビの生成 AI テクノロジーを活用して、メール
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
-source-wordcount: '726'
-ht-degree: 5%
+source-wordcount: '814'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,33 @@ Marketo Engage メールDesignerの AI アシスタントを使用すると、�
 
 >[!PREREQUISITES]
 >
->AI アシスタントはデフォルトでは有効になっていません。 まず、コアの Gen-AI 条件と、メールDesignerの Gen-AI 機能を使用するための補足条件に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
+>AI アシスタントはデフォルトでは有効になっていません。 まず、メールDesignerで Gen-AI 機能を使用するための [ コア Gen-AI 条件と補足条件 ](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
+
+## 権限の設定 {#set-up-permissions}
+
+_後_ 上記の前提条件に従って、Marketo管理者は、ユーザーに「GenAI」ボタンが表示されるまで、特定のユーザーや役割へのアクセスを適用する必要があります。
+
+1. Marketo Engageで、「**管理者**」をクリックして、「**ユーザーと役割**」を選択します。
+
+   ![](assets/use-the-ai-assistant-0a.png)
+
+1. 「**役割**」タブで、目的の役割をダブルクリックします。
+
+   ![](assets/use-the-ai-assistant-0b.png)
+
+1. _Access Design Studio_ で、「**AI アシスタントにアクセス**」チェックボックスを選択し、「**保存**」をクリックします。
+
+   ![](assets/use-the-ai-assistant-0c.png)
+
+1. 「ユーザー」タブをクリックし、アクセス権を付与するユーザーを選択します。
+
+   ![](assets/use-the-ai-assistant-0d.png)
+
+1. 手順 3 で選択した役割と、目的のワークスペース（該当する場合）を選択します。 「**保存**」をクリックします。
+
+   ![](assets/use-the-ai-assistant-0e.png)
+
+## ユースケース {#use-cases}
 
 AI アシスタントの主なユースケースは 3 つあります。
 
