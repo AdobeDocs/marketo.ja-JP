@@ -3,7 +3,7 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fb620ef951ab6d6c24e5694a8d0b398855906644
+source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 91%
@@ -54,7 +54,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>E メールデザイナー - AI アシスタントの権限</strong>：Marketo 管理者は、特定のユーザに生成 AI 機能へのアクセスを提供できます。</td>
    <td>リリース済み</td>
-   <td><a href="/help\marketo\product-docs\email-marketing\email-designer\ai-assistant.md#set-up-permissions">権限の設定</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">権限の設定</a></td>
   </tr>
   <tr>
    <td> </td>
