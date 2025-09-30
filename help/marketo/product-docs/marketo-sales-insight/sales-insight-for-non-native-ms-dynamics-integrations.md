@@ -3,10 +3,10 @@ description: 非ネイティブ MS  [!DNL Dynamics]  統合用 [!DNL Sales Insig
 title: 非ネイティブ MS  [!DNL Dynamics]  統合用 [!DNL Sales Insight]
 exl-id: 07613ff8-b197-4a3d-88e9-720b68a6b8da
 feature: Marketo Sales Insights
-source-git-commit: fb620ef951ab6d6c24e5694a8d0b398855906644
+source-git-commit: 7a57e52b497b271beff95b203bddd0c911e2e6a3
 workflow-type: tm+mt
-source-wordcount: '1269'
-ht-degree: 96%
+source-wordcount: '1262'
+ht-degree: 97%
 
 ---
 
@@ -259,6 +259,6 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
 
    >[!NOTE]
    >
-   >リード/連絡先およびアカウントのオブジェクトタイプの場合：これらの必須フィールドに対して独自のカスタムフィールドに同期する場合、アドビでは、Marketo Sales Insights の操作中にこのカスタマイズをサポートします。 このカスタマイズのヘルプについては、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。
+   >リード/連絡先およびアカウントのオブジェクトタイプの場合：Marketoでは、Marketo Sales Insights を使用する際に、独自のカスタムフィールドを外部 ID フィールドとして使用する機能がサポートされています。 このカスタマイズに関するヘルプが必要な場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。
 
    非ネイティブ同期を成功させるには、外部フィールドを適切に使用することが重要です。一部のビューにデータが表示されない場合は、特定のフィールドが正しく同期されていない可能性があります。例えば、リードのアカウントの下にある MSI ウィジェットを参照したときにリードのアクティビティや関心を引くモーメントが表示されない場合は、リードの会社またはアカウントが正しく同期されていない可能性があります。外部フィールドを指定してこのリードに対して GET リクエストを実行すると、リードが正しく同期されたかどうかを検証できます。また、Marketo の外部セールス担当者のメールは、MS Dynamics のそのユーザのメールと一致する必要があります。メールが一致しない場合、MS Dynamics の「Marketo」タブにデータが表示されないことがあります。
