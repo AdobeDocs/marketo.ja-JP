@@ -68,11 +68,11 @@ ht-degree: 42%
 
 >[!NOTE]
 >
->メールDesignerで [ カスタムダークモード設定 ](#define-custom-dark-mode) を定義する方法を説明します。
+>メールDesignerで [&#x200B; カスタムダークモード設定 &#x200B;](#define-custom-dark-mode) を定義する方法を説明します。
 
 電子メールクライアントごとに、いくつかの制限が適用される場合があります。 例えば、画像が存在する場合、一部のクライアント（Apple Mail 16 など）ではダークモードが生成されません。
 
-最適な結果を得るには、ターゲット設定しているメールクライアントでコンテンツをテストします。 各クライアントでシミュレーションを確認するには、メールDesignerの [ メールのレンダリング ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) 機能を使用します。
+最適な結果を得るには、ターゲット設定しているメールクライアントでコンテンツをテストします。 各クライアントでシミュレーションを確認するには、メールDesignerの [&#x200B; メールのレンダリング &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) 機能を使用します。
 
 ## E メールデザイナーでのダークモード {#dark-mode-email-designer}
 
@@ -88,7 +88,7 @@ E メールデザイナーでのダークモードに関しては、考慮すべ
 
 1. E メールデザイナーのホームページで、「**[!UICONTROL ゼロからデザイン]**」オプションを選択します。
 
-1. [ 構造とコンテンツ ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content) をメールに追加します。
+1. [&#x200B; 構造とコンテンツ &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content) をメールに追加します。
 
 1. 右上で、「**[!UICONTROL ダークモード]** 切り替えを有効にします。
 
@@ -104,7 +104,7 @@ E メールデザイナーでのダークモードに関しては、考慮すべ
 
 >[!CAUTION]
 >
->最終的なレンダリングは、受信者のメールクライアントによって異なる場合があります。各メールクライアントのシミュレーションを確認するには、[ メールのレンダリング ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) 機能を使用します。
+>最終的なレンダリングは、受信者のメールクライアントによって異なる場合があります。各メールクライアントのシミュレーションを確認するには、[&#x200B; メールのレンダリング &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) 機能を使用します。
 
 ### カスタムダークモードの定義 {#define-custom-dark-mode}
 
@@ -118,7 +118,7 @@ E メールデザイナーでのダークモードに関しては、考慮すべ
 
 カスタムダークモードの設定を定義するには、次の手順に従います。
 
-1. メールDesignerの [ ダークモードプレビュー ](#preview-dark-mode) に切り替えます。
+1. メールDesignerの [&#x200B; ダークモードプレビュー &#x200B;](#preview-dark-mode) に切り替えます。
 
 1. テキスト、背景、ボタンなどのスタイル設定色属性を編集します。
 
@@ -138,7 +138,7 @@ E メールデザイナーでのダークモードに関しては、考慮すべ
 
    ![](assets/dark-mode-5.png)
 
-1. 「**[!UICONTROL メールをレンダリング]**」を選択し、Litmus アカウントに接続します。様々なメールクライアントでの最終的なダークモードレンダリングを確認できます。詳しくは、[ メールのレンダリング ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) を参照してください。
+1. 「**[!UICONTROL メールをレンダリング]**」を選択し、Litmus アカウントに接続します。様々なメールクライアントでの最終的なダークモードレンダリングを確認できます。詳しくは、[&#x200B; メールのレンダリング &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) を参照してください。
 
    >[!IMPORTANT]
    >
@@ -146,7 +146,7 @@ E メールデザイナーでのダークモードに関しては、考慮すべ
 
 ## ベストプラクティス {#best-practices}
 
-ダークモードの採用が主要なメールクライアント間で増加するにつれて、[ カスタムダークモード ](#define-custom-dark-mode) を使用しているかどうかに関係なく、メールが明暗の両方の環境でどのようにレンダリングされるかを考慮することが重要になります。
+ダークモードの採用が主要なメールクライアント間で増加するにつれて、[&#x200B; カスタムダークモード &#x200B;](#define-custom-dark-mode) を使用しているかどうかに関係なく、メールが明暗の両方の環境でどのようにレンダリングされるかを考慮することが重要になります。
 
 ダークモードでは、カラー、背景、画像を変更でき、デザインの選択肢を上書きする場合もあります。 視覚的な一貫性、アクセシビリティ、ブランドの整合性を確保するには、次に示すベストプラクティスに従ってください。
 
@@ -182,4 +182,4 @@ E メールデザイナーでのダークモードに関しては、考慮すべ
 
 * 問題を早期に発見するには、反転したカラースキームを使用する E メールデザイナーの[ダークモードのプレビュー](#preview-dark-mode)を使用します。
 
-* Litmus を活用した [ メールレンダリング ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) 機能を使用して、主要なメールクライアントをまたいでデザインをシミュレートし、ダークモードでの色と画像の動作を確認します。
+* Litmus を活用した [&#x200B; メールレンダリング &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) 機能を使用して、主要なメールクライアントをまたいでデザインをシミュレートし、ダークモードでの色と画像の動作を確認します。
