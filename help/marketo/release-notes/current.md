@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +42,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> メールDesigner - コンテンツCollaborationワークフロー </strong>：メールアセット内のMarketo ユーザーにコメントを付けたり、共同作業したりできるようになりました。 チームメンバー（適切なアセット権限を持つ Marketo ユーザ）にタグ付けすると、メールまたはパルス通知が届きます。</td>
+   <td><strong>E メールデザイナー - コンテンツ共同作業ワークフロー</strong>：メールアセット内で Marketo ユーザにコメントしたり、Marketo ユーザと共同作業したりできるようになりました。チームメンバー（適切なアセット権限を持つ Marketo ユーザ）にタグ付けすると、メールまたはパルス通知が届きます。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -62,7 +62,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> メールDesigner - ダークモード </strong>：ダークモードを利用できるようになりました。これにより、サポートメールクライアントやアプリが、テキスト、ボタン、その他の UI 要素に、暗い背景と明るい色のメールを表示できます。</td>
+   <td><strong>E メールデザイナー - ダークモード</strong>：ダークモードを使用し、サポートメールクライアントやアプリで、暗い背景と、明るい色のテキストやボタン、他の UI 要素を表示できるようになりました。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
