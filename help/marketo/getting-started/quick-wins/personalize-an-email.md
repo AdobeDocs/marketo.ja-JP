@@ -5,9 +5,9 @@ title: メールのパーソナライズ
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '336'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -103,6 +103,6 @@ ht-degree: 96%
 
 <br> 
 
-[◄ ミッション 6：ドリップ、ドリップ、ナーチャー](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[◄ミッション 6：ドリップ、ドリップ、ナーチャリング](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
 
-[ミッション 8：セールス担当者への ► 告](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)
+[ミッション 8：セールス担当者にアラート►](/help/marketo/getting-started/quick-wins/alert-the-sales-rep.md)

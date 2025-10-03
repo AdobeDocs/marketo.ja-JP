@@ -5,9 +5,9 @@ title: メールの送信
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '402'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -117,7 +117,7 @@ ht-degree: 94%
 
    >[!NOTE]
    >
-   >[ 受信者のタイムゾーン ](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} と [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"} の詳細をご覧ください。
+   >詳しくは、[受信者のタイムゾーン](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"}と[ヘッドスタート](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}を参照してください。
 
 1. 15 分以上後の時間を選択してください。
 
@@ -135,8 +135,8 @@ ht-degree: 94%
 
 ## ミッション完了です。 {#mission-complete}
 
-<br> 
+<br>
 
-[設定 ◄ 開始してユーザーを追加するには](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
+[◄セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 
-[ミッション 2：フォーム ► ージを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[ミッション 2：フォームを含むランディングページ►](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)

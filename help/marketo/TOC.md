@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '9308'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -1041,7 +1041,7 @@ ht-degree: 99%
          + [カスタマイズ可能なフラグメント](product-docs/email-marketing/email-designer/customizable-fragments.md)
          + [Marketo Engage の GenStudio の統合](product-docs/email-marketing/email-designer/genstudio.md)
          + [コンテンツのロック](product-docs/email-marketing/email-designer/content-locking.md)
-         + [メールCollaboration](product-docs/email-marketing/email-designer/email-collaboration.md)
+         + [メールでの共同作業](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [AI アシスタント](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [SpamAssassin を使用したメールスパムレポート](product-docs/email-marketing/email-designer/spam-report.md)
       + メールプログラム {#email-programs}

@@ -7,9 +7,9 @@ hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -127,4 +127,4 @@ Marketo Engage の主な機能を学ぶには、以下のミッションを完�
 
 ## 手順 4 おめでとうございます！Nation に参加する準備は万全です  {#congrats-youre-ready-for-the-nation}
 
-[ マーケティングネーション ](https://nation.marketo.com){target="_blank"} をチェックしてください。
+詳しくは、[Marketing Nation](https://nation.marketo.com){target="_blank"} を参照してください。
