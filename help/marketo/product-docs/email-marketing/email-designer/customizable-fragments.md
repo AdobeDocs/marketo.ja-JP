@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cc6c04ca8a72f6efb0bec93cba084fe2993f53f0
 workflow-type: tm+mt
-source-wordcount: '627'
-ht-degree: 71%
+source-wordcount: '414'
+ht-degree: 64%
 
 ---
 
@@ -51,29 +51,29 @@ ht-degree: 71%
 1. 完了したら、変更を保存します。
 
 フラグメントをメールに追加すると、フラグメントで設定されたすべての編集可能フィールドをユーザーがカスタマイズできるようになります。
+<!--
+## Add editable fields in HTML components and expression fragments {#expression}
 
-## HTML コンポーネントと式フラグメントへの編集可能なフィールドの追加 {#expression}
+To make portions of an HTML component or an expression fragment editable, you must use a specific syntax in the expression editor. This involves declaring a _variable_ with a default value that users can override after adding the fragment to their content.
 
-HTML コンポーネントまたは式フラグメントの一部を編集可能にするには、式エディターで特定の構文を使用する必要があります。これには、フラグメントをコンテンツに追加した後にユーザーが上書きできるデフォルト値を持つ&#x200B;_変数_&#x200B;を宣言することが含まれます。
+For example, suppose you want to create a fragment to add to your emails, and allow users to customize a specific color used in different locations, such as frames or buttons' background colors. When creating your fragment, you need to declare a variable with a _unique ID_ (e.g., "color"), and call it at the desired locations in the fragment content where you want to apply this color. When adding the fragment to their content, users will be able to customize the color used wherever the variable is referenced.
 
-例えば、メールに追加するフラグメントを作成し、フレームやボタンの背景色など、様々な場所で使用される特定の色をユーザーがカスタマイズできるようにするとします。フラグメントを作成する場合は、_一意の ID_ （「color」など）を持つ変数を宣言し、この色を適用するフラグメントコンテンツ内の目的の場所で呼び出す必要があります。 フラグメントをコンテンツに追加すると、ユーザーは変数が参照される場所で使用する色をカスタマイズできます。
+For HTML components, only specific elements can become editable fields. Expand the section below for more information.
 
-HTML コンポーネントの場合、特定の要素のみを編集可能なフィールドにすることができます。詳しくは、以下の節を展開してください。
++++Editable elements in HTML components:
 
-+++HTML コンポーネントの編集可能な要素：
+The elements below can become editable fields in an HTML component:
 
-以下の要素を、HTML コンポーネント内の編集可能なフィールドにすることができます。
+* A portion of text
+* A full URL for link or image (doesn't work with portion of a URL)
+* Entire CSS property (doesn't work with partial property)
 
-* テキストの一部
-* リンクまたは画像の完全な URL（URL の一部では機能しません）
-* CSS プロパティ全体（部分的なプロパティでは機能しません）
-
-例えば、以下のコードでは、赤色でハイライト表示された各要素をプロパティにすることができます。
+For example, in the code below, each element highlighted in red can become a property:
 
 ![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
-
+-->
 >[!MORELIKETHIS]
 >
 >[フラグメント](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}
