@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: f960d7918d97a2c5e3d16673bc4c5c592004ff1e
-workflow-type: ht
-source-wordcount: '9308'
-ht-degree: 100%
+source-git-commit: 753455b40ead039a56c595fa61ab9a95b7936382
+workflow-type: tm+mt
+source-wordcount: '9311'
+ht-degree: 99%
 
 ---
 
@@ -1029,11 +1029,12 @@ ht-degree: 100%
          + [機能の比較](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
          + [メールテンプレートオーサリング](product-docs/email-marketing/email-designer/email-template-authoring.md)
+         + [アクセシブルなコンテンツの設計](product-docs/email-marketing/email-designer/accessible-content.md)
          + [カスタム CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [ブランドテーマ](product-docs/email-marketing/email-designer/brand-themes.md)
          + [ブランドを適用](product-docs/email-marketing/email-designer/apply-brand.md)
          + [ダークモード](product-docs/email-marketing/email-designer/dark-mode.md)
-         + [Litmus を使用したメールレンダリングのテスト](product-docs/email-marketing/email-designer/test-email-rendering.md)
+         + [Litmus を使用したメールのレンダリングのテスト](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [パーソナライゼーショントークン](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [AEM Assets の操作](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Adobe Express を使用した画像の編集](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
