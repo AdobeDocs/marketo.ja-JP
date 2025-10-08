@@ -5,9 +5,9 @@ description: 新しいAdobe Marketo Engage メールDesignerへようこそ。
 title: 概要
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 6389e9549ec8caf9d96e6524e46b61e801fc7806
 workflow-type: tm+mt
-source-wordcount: '869'
+source-wordcount: '881'
 ht-degree: 1%
 
 ---
@@ -72,7 +72,7 @@ E メールDesignerは、Marketo Engageの最新のイノベーションであ�
 
 **古いメールエディターは引き続き機能しますか？ もしそうなら、どれくらいの期間ですか？**
 
-はい、古い（クラシック）メールエディターは、新しいメールDesignerと共存します。 クラシックエディターで作成されたメールは残ります。 現時点では、クラシックエディターが非推奨（廃止予定）になる日付はありませんが、2025 年を通じて引き続き機能します。
+はい、古い（クラシック）メールエディターは、新しいメールDesignerと共存します。 クラシックエディターで作成されたメールは残ります。 現時点では、クラシックエディターが非推奨（廃止予定）になる日付はありませんが、2026 年になっても引き続き機能します。 数ヶ月前に予告して、その古い編集者を非推奨にしようではないか。
 
 **新しいメールDesignerのメールを使用できるのはどのプログラムですか？**
 
