@@ -26,47 +26,47 @@ E メールDesignerは、Marketo Engageの最新のイノベーションであ�
 
 +++メールDesignerにアクセスする方法を学ぶ
 
-新しいメールDesignerにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
+新しいメールDesignerにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
 ### ユーザーを追加 {#add-users}
 
 1. Marketo Engageで、「**[!UICONTROL 管理者]** エリアに移動し、「新しいメールDesigner **[!UICONTROL を選択し]** す。
 
-   ![ 管理者の左側のナビゲーションにある「新しい電子メールDesigner」を選択 ](assets/overview-1.png){width="600" zoomable="yes"}
+   ![&#x200B; 管理者の左側のナビゲーションにある「新しい電子メールDesigner」を選択 &#x200B;](assets/overview-1.png){width="600" zoomable="yes"}
 
 1. 「**[!UICONTROL ユーザーを追加]**」をクリックします。
 
-   ![ 「ユーザーを追加」ボタン ](assets/overview-2.png){width="600" zoomable="yes"}
+   ![&#x200B; 「ユーザーを追加」ボタン &#x200B;](assets/overview-2.png){width="600" zoomable="yes"}
 
 1. **[!UICONTROL 新しい値を追加]** ドロップダウンで、目的のユーザーを選択します。 終了したら、「**[!UICONTROL OK]**」をクリックします。
 
-   ![ リストからのユーザーの選択 ](assets/overview-3.png){width="600" zoomable="yes"}
+   ![&#x200B; リストからのユーザーの選択 &#x200B;](assets/overview-3.png){width="600" zoomable="yes"}
 
 +++
 
 ## 利用可能な記事 {#available-articles}
 
-* [ メールオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：新しいエディターでメールを作成、デザイン、参照する方法について説明します。
+* [&#x200B; メールオーサリング &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：新しいエディターでメールを作成、デザイン、参照する方法について説明します。
 
-* [ メールテンプレートオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
+* [&#x200B; メールテンプレートオーサリング &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
 
-* [ フラグメント ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：メールおよびメールテンプレート用の再利用可能なコンポーネントとしてビジュアルコンテンツフラグメントを作成し使用する方法を説明します。
+* [&#x200B; フラグメント &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：メールおよびメールテンプレート用の再利用可能なコンポーネントとしてビジュアルコンテンツフラグメントを作成し使用する方法を説明します。
 
-* [ カスタマイズ可能なフラグメント ](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}：フラグメントのフィールドの一部を編集可能にして、フラグメントをカスタマイズする方法を説明します。
+* [&#x200B; カスタマイズ可能なフラグメント &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}：フラグメントのフィールドの一部を編集可能にして、フラグメントをカスタマイズする方法を説明します。
 
-* [AEM Assets の操作 ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}:Marketo Engageで使用するためにAEM デジタルアセットに簡単にアクセスする方法を説明します。
+* [AEM Assets の操作 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}:Marketo Engageで使用するためにAEM デジタルアセットに簡単にアクセスする方法を説明します。
 
-* [Adobe Expressで画像を編集 ](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}:Adobe Expressを使用して、Adobe Marketo Engage メールエディターで画像を編集する方法を説明します。
+* [Adobe Expressで画像を編集 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}:Adobe Expressを使用して、Adobe Marketo Engage メールエディターで画像を編集する方法を説明します。
 
-* [AI アシスタントを使用 ](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}:Adobeの生成 AI テクノロジーを活用して、便利なテキストや画像をメールに追加します。
+* [AI アシスタントを使用 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}:Adobeの生成 AI テクノロジーを活用して、便利なテキストや画像をメールに追加します。
 
-* [ メールテンプレート内のコンテンツのロック ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：メールテンプレート内のコンテンツをロックして、意図しない編集や削除を防ぐ方法について説明します。
+* [&#x200B; メールテンプレート内のコンテンツのロック &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}：メールテンプレート内のコンテンツをロックして、意図しない編集や削除を防ぐ方法について説明します。
 
-* [Litmus でのメールのレンダリングのテスト ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}:Marketo Engageで Litmus アカウントを利用すると、一般的なメールクライアントでのメールのレンダリングを即座に確認できます。
+* [Litmus でのメールのレンダリングのテスト &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}:Marketo Engageで Litmus アカウントを利用すると、一般的なメールクライアントでのメールのレンダリングを即座に確認できます。
 
-* [SpamAssassin によるスパム検出 ](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}:Marketo Engageの SpamAssassin を使用すると、メールコンテンツをテストして、ISP/メールボックスプロバイダーがスパムとしてマークする可能性を確認できます。
+* [SpamAssassin によるスパム検出 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}:Marketo Engageの SpamAssassin を使用すると、メールコンテンツをテストして、ISP/メールボックスプロバイダーがスパムとしてマークする可能性を確認できます。
 
-* [ 機能比較 ](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較します。
+* [&#x200B; 機能比較 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較します。
 
 ## よくある質問 {#faq}
 
