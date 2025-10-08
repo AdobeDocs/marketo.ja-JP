@@ -3,10 +3,10 @@ description: イベントワークフロー - Marketo ドキュメント - 製�
 title: イベントワークフロー
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 9c6a441bc2ae10953d68f84db798da057c56f2d7
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 100%
+source-wordcount: '456'
+ht-degree: 87%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 ## 手動による同期 {#manual-sync}
 
-インタラクティブウェビナーでは、ウェビナーのエンゲージメントデータを、ウェビナーが終了してから 2 時間以内に自動で受信していない場合、Adobe Connect から取得できます。概要ページに「今すぐ同期」ボタンが表示されます。「**今すぐ同期**」をクリックすると、Adobe Connect からの取り込みをトリガーして、Marketo Engage にデータが入力されます。同期が行われると、ボタンが非表示になり、「ダッシュボード」タブにデータが入力されます。
+インタラクティブウェビナーでは、ウェビナーのエンゲージメントデータを、ウェビナーが終了してから 2 時間以内に自動で受信していない場合、Adobe Connect から取得できます。インタラクティブウェビナーの配信日から 31 日後、ウェビナーの _ダッシュボード_ のヘッダーの右側に「オンデマンド同期アクティビティ」オプションが表示されます。 クリックすると、Adobe Connectからの取り込みがトリガーされ、Marketo Engageにデータが入力されます。 ウェビナーの日付から「**オンデマンドアクティビティを同期**」をクリックする日付までのデータが同期されます。
 
 ## ダッシュボードウィジェット {#dashboard-widgets}
 
