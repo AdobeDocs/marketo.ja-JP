@@ -1,20 +1,20 @@
 ---
 title: アクセス可能なコンテンツのデザイン
-description: Marketo Engageでメール用のアクセシブルなコンテンツをデザインする方法を説明します。
+description: Adobe Marketo Engageでメール用のアクセシブルなコンテンツをデザインする方法を説明します。
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: メール, デザイン, アクセシビリティ
-source-git-commit: 753455b40ead039a56c595fa61ab9a95b7936382
+source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
 workflow-type: tm+mt
-source-wordcount: '1367'
+source-wordcount: '1368'
 ht-degree: 45%
 
 ---
 
 # アクセス可能なコンテンツのデザイン {#accessible-content}
 
-[&#x200B; 欧州アクセシビリティ法 &#x200B;](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"} は、加盟国間の国のルールの違いによる障壁を取り除くことにより、アクセシブルな製品やサービスの内部市場を強化することを目的とした指令です。
+[ 欧州アクセシビリティ法 ](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"} は、加盟国間の国のルールの違いによる障壁を取り除くことにより、アクセシブルな製品やサービスの内部市場を強化することを目的とした指令です。
 
 この規制では、電子メール、ニュースレター、PDF、ダウンロード可能なコンテンツを含むすべてのデジタル通信にアクセスできると述べています。 したがって、受信者用のコンテンツを作成する場合は、アクセシブルなフォントや読み取り可能な形式を使用したり、画像用の代替テキストを提供するなど、特定のガイドラインに従う必要があります。
 
@@ -130,7 +130,7 @@ Marketo EngageのメールDesignerを使用すると、様々なデバイスや�
 
 ## ダークモードの使用 {#dark-mode}
 
-[&#x200B; ダークモード &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md){target="_blank"} は、明るい感度や視覚障害のあるユーザーの視覚的なアクセシビリティを強化し、視聴体験を向上させます。
+[ ダークモード ](/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md){target="_blank"} は、明るい感度や視覚障害のあるユーザーの視覚的なアクセシビリティを強化し、視聴体験を向上させます。
 
 <!--![](assets/accessible-dark-mode.png){width="90%"}-->
 
