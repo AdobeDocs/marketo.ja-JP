@@ -43,7 +43,7 @@ ht-degree: 97%
 
 ## [!DNL Google Chrome] 用 Marketo Insights {#marketo-insights-for-google-chrome}
 
-[ [!DNL Google Chrome] 用 Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[&#x200B; [!DNL Google Chrome] 用 Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 [!DNL Google Mail] [!DNL Sales Insight] 拡張機能の更新がリリースされました。[[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb) で確認できます。
 

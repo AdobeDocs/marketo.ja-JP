@@ -16,8 +16,8 @@ ht-degree: 42%
 
 >[!PREREQUISITES]
 >
->* [ 手順 1/3：へのMarketo フィールドの追加  [!DNL Veeva]](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
->* [ 手順 2/3:Marketoのユ  [!DNL Veeva]  ザーを作成する ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target="_blank"}
+>* [&#x200B; 手順 1/3：へのMarketo フィールドの追加  [!DNL Veeva]](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
+>* [&#x200B; 手順 2/3:Marketoのユ  [!DNL Veeva]  ザーを作成する &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage.md){target="_blank"}
 
 >[!IMPORTANT]
 >
@@ -31,7 +31,7 @@ ht-degree: 42%
 
    >[!NOTE]
    >
-   >「フィールドを同期」をクリックする前に、Marketoで同期ユーザーから必ず [ 必要のないすべてのフィールドを非表示 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} にしてください。 「同期フィールド」をクリックすると、ユーザが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
+   >「フィールドを同期」をクリックする前に、Marketoで同期ユーザーから必ず [&#x200B; 必要のないすべてのフィールドを非表示 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} にしてください。 「同期フィールド」をクリックすると、ユーザが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
 
 1. 「**[!UICONTROL Veeva でログイン]**」をクリックします。
 
@@ -91,4 +91,4 @@ Marketoの管理領域に、[!DNL Veeva] CRM 同期用のステータスメッ�
 
 >[!MORELIKETHIS]
 >
->[ カスタムオブジェクトの設定 ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
+>[&#x200B; カスタムオブジェクトの設定 &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}

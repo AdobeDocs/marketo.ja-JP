@@ -22,7 +22,7 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
+>新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ ht-degree: 6%
 
 ## テンプレートをデザイン {#design-your-template}
 
-_テンプレートをデザイン_ ページで、いくつかのオプションから選択できます。 [ ゼロからデザイン ](#design-from-scratch)、[ 独自のHTMLを読み込む ](#import-html) または [ 既存のテンプレートを選択 ](#choose-a-template) （サンプルまたは既に保存したもの）からデザインします。
+_テンプレートをデザイン_ ページで、いくつかのオプションから選択できます。 [&#x200B; ゼロからデザイン &#x200B;](#design-from-scratch)、[&#x200B; 独自のHTMLを読み込む &#x200B;](#import-html) または [&#x200B; 既存のテンプレートを選択 &#x200B;](#choose-a-template) （サンプルまたは既に保存したもの）からデザインします。
 
 ![](assets/design-your-template-1.png)
 
@@ -60,7 +60,7 @@ _テンプレートをデザイン_ ページで、いくつかのオプショ�
 
 1. _テンプレートをデザイン_ ページで、「**ゼロからデザイン**」を選択します。
 
-1. [ 構造とコンテンツ ](#add-structure-and-content) を追加します。
+1. [&#x200B; 構造とコンテンツ &#x200B;](#add-structure-and-content) を追加します。
 
 ### HTMLの読み込み {#import-your-html}
 
@@ -154,7 +154,7 @@ _テンプレートをデザイン_ ページで、いくつかのオプショ�
 
 ### Assetsを追加 {#add-assets}
 
-Marketo Engage インスタンスの [ 画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存される画像を追加します。
+Marketo Engage インスタンスの [&#x200B; 画像とファイル &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存される画像を追加します。
 
 >[!NOTE]
 >
@@ -215,7 +215,7 @@ Marketo Engage インスタンスの [ 画像とファイル ](/help/marketo/pro
 
    ![](assets/personalize-content-1.png)
 
-1. 目的の [ トークンタイプ ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} をクリックします。
+1. 目的の [&#x200B; トークンタイプ &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} をクリックします。
 
    ![](assets/personalize-content-2.png)
 
@@ -287,7 +287,7 @@ Marketo Engage インスタンスの [ 画像とファイル ](/help/marketo/pro
 
 * **テンプレートをリセット**：ビジュアルメールデザイナーキャンバスを空白のスレートにクリアし、コンテンツの作成を再開するには、これを選択します。
 
-* **デザインを変更**:_テンプレートのデザイン_ ページに戻ります。 ここから、「[ テンプレートのデザイン ](#design-your-template) セクションで説明されている通りのアクションを実行できます。
+* **デザインを変更**:_テンプレートのデザイン_ ページに戻ります。 ここから、「[&#x200B; テンプレートのデザイン &#x200B;](#design-your-template) セクションで説明されている通りのアクションを実行できます。
 
 * **HTMLを書き出し**：ビジュアルキャンバスのコンテンツを、zip ファイルとしてパッケージ化されたHTML形式のローカルシステムにダウンロードします。
 
@@ -357,4 +357,4 @@ _メールテンプレート_ リストページで、左側のチェックボ�
 
 >[!MORELIKETHIS]
 >
->[ メールオーサリング ](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}：新しいデザイナーでメールを作成、デザイン、参照する方法を説明します。
+>[&#x200B; メールオーサリング &#x200B;](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}：新しいデザイナーでメールを作成、デザイン、参照する方法を説明します。

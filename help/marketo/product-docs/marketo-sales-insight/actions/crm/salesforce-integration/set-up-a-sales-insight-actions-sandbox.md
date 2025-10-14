@@ -73,7 +73,7 @@ Actions では、まず Salesforce の実稼動ユーザで新しいインスタ
 
 ## Salesforce サンドボックスとの互換性を持たせるように Actions インスタンスの変換をリクエスト {#request-your-actions-instance-be-converted}
 
-1. Marketo Engage Sandbox に対応するように新しい Sales Insight Actions インスタンスを設定するには、[Salesforce サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。
+1. Marketo Engage Sandbox に対応するように新しい Sales Insight Actions インスタンスを設定するには、[Salesforce サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。
 
 1. toutapp.com/login ページの「Salesforce でログイン」ボタンを使用してログインし、すべてが正しく設定されていることをテストします。
 

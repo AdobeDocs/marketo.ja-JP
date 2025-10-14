@@ -49,4 +49,4 @@ SMS アクティビティを活用してMarketo Engage インスタンスでキ�
 
 >[!MORELIKETHIS]
 >
->[Vibes ビデオデモ ](https://vimeo.com/215233767/1ed136adbc)
+>[Vibes ビデオデモ &#x200B;](https://vimeo.com/215233767/1ed136adbc)

@@ -45,7 +45,7 @@ ht-degree: 32%
 
    >[!NOTE]
    >
-   >カスタムオーディエンス統合を機能させるには ** Business Manager アカウントを使用する [!DNL Facebook] 必要があります）。 Business Manager アカウントの設定方法については、[[!DNL Facebook]  ヘルプ ](https://www.facebook.com/business/help/1710077379203657) を参照してください。
+   >カスタムオーディエンス統合を機能させるには ** Business Manager アカウントを使用する [!DNL Facebook] 必要があります）。 Business Manager アカウントの設定方法については、[[!DNL Facebook]  ヘルプ &#x200B;](https://www.facebook.com/business/help/1710077379203657) を参照してください。
 
 1. プロンプトが表示されたら、「**[!UICONTROL OK]**」をクリックして、[!DNL Facebook] へのMarketo アプリケーションのインストールを承認します。
 
@@ -63,10 +63,10 @@ ht-degree: 32%
 
    >[!CAUTION]
    >
-   >移動する前に、[ アカウント内で  [!DNL Facebook] カスタムオーディエンス条件に同意する ](https://www.facebook.com/ads/manage/customaudiences/tos.php) [!DNL Facebook] ことを確認してください。 これをおこなわないと、オーディエンスのアップデートが失敗します。
+   >移動する前に、[&#x200B; アカウント内で  [!DNL Facebook] カスタムオーディエンス条件に同意する &#x200B;](https://www.facebook.com/ads/manage/customaudiences/tos.php) [!DNL Facebook] ことを確認してください。 これをおこなわないと、オーディエンスのアップデートが失敗します。
 
 >[!MORELIKETHIS]
 >
->* [ でのカスタムオーディエンスの作成  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [&#x200B; でのカスタムオーディエンスの作成  [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
->* [ リード広告  [!DNL Facebook]  設定 ](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [&#x200B; リード広告  [!DNL Facebook]  設定 &#x200B;](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

@@ -21,7 +21,7 @@ ht-degree: 65%
 
 まず、[!DNL Zoom] でウェビナーを作成します。 [!DNL Zoom] の作成に関する特定の設定はMarketoで使用され、その他の設定は [!DNL Zoom] でのみ使用されます。
 
-Marketo イベントを作成し、それに [!DNL Zoom] ウェビナーを関連付けると、システムで登録と出席の情報を共有できるようになります。 ウェビナーの作成のヘルプについては、[ ウェビナーの概要  [!DNL Zoom]  を参照してください ](https://support.zoom.us/hc/ja/articles/200917029-Getting-Started-With-Webinar)。
+Marketo イベントを作成し、それに [!DNL Zoom] ウェビナーを関連付けると、システムで登録と出席の情報を共有できるようになります。 ウェビナーの作成のヘルプについては、[&#x200B; ウェビナーの概要  [!DNL Zoom]  を参照してください &#x200B;](https://support.zoom.us/hc/ja/articles/200917029-Getting-Started-With-Webinar)。
 
 ウェビナーに関する次の情報を入力すると、アダプターを介して Marketo に取り込まれます。この情報に変更を加えた場合、Marketo で変更を表示するには、イベントアクションで「ウェビナープロバイダーから更新」リンクをクリックする必要があります。
 
@@ -53,7 +53,7 @@ Marketo イベントを作成し、それに [!DNL Zoom] ウェビナーを関�
 
 >[!TIP]
 >
->[!DNL Zoom] で設定する追加のフィールドがあり、統合には影響しません。 これらのフィールドについて詳しくは、[[!DNL Zoom]  ウェビナーヘルプセンター ](https://support.zoom.us/hc/ja/sections/200324965-Video-Webinar) を参照してください。
+>[!DNL Zoom] で設定する追加のフィールドがあり、統合には影響しません。 これらのフィールドについて詳しくは、[[!DNL Zoom]  ウェビナーヘルプセンター &#x200B;](https://support.zoom.us/hc/ja/sections/200324965-Video-Webinar) を参照してください。
 
 それでは、Marketo に移動しましょう。
 

@@ -65,4 +65,4 @@ Marketo アカウントとマッチしたオーディエンス [!DNL LinkedIn] �
 
 >[!MORELIKETHIS]
 >
->[Marketoリストまたはスマートリストをオーディエンスセグメ  [!DNL LinkedIn]  トとして使用 ](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+>[Marketoリストまたはスマートリストをオーディエンスセグメ  [!DNL LinkedIn]  トとして使用 &#x200B;](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

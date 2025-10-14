@@ -30,8 +30,8 @@ ht-degree: 15%
    >
    >これにより、システムテキストの言語のみが変更されます。 コンテンツの翻訳は自分で行う必要があります。
 
-1. ダイアログと同様に、この時点で [ ストリームを作成 ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} します。
+1. ダイアログと同様に、この時点で [&#x200B; ストリームを作成 &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} します。
 
 >[!MORELIKETHIS]
 >
->[ 対話型フローの概要 ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}
+>[&#x200B; 対話型フローの概要 &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}

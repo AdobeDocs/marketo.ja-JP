@@ -59,4 +59,4 @@ ht-degree: 94%
 * **Asset API「_method」パラメーター**：2020 年 9 月以降、Asset API エンドポイントは、URI 長制限を回避するための POST ボディ内のクエリパラメーターを渡す方法として「_method」パラメーターを受け付けなくなります。このパラメーターを必要とするリクエストに対応するため、Asset API の URI 制限が 6 KB から 65 KB に引き上げられ、長いリクエスト URI を送信できるようになります。
 * **Internet Explorer サポートの廃止**：2020 年 7 月 31 日（PT）の 7 月リリースから、Marketo Engage のユーザーインターフェイスは Internet Explorer でのサポートが終了します。
 
-**_製品リリースウェビナー_**&#x200B;[ ご参加ください ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)3 月 3 日（PT） 11:00AM PT / 2:00PM ET で、製品チームがホストするライブウェビナーと、このリリースに含まれる機能の詳細をご覧ください。
+**_製品リリースウェビナー_**&#x200B;[&#x200B; ご参加ください &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)3 月 3 日（PT） 11:00AM PT / 2:00PM ET で、製品チームがホストするライブウェビナーと、このリリースに含まれる機能の詳細をご覧ください。

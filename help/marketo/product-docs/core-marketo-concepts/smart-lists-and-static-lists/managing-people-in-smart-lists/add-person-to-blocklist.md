@@ -15,7 +15,7 @@ ht-degree: 44%
 
 リードをブロックリストに追加すると、コンテンツを気に入ってくれた有望な人だけにコンテンツを読んでもらえるようになります。
 
-1. 新しい [ デフォルトプログラム ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} を作成し、「ブロックリストに追加」という名前を付けます。
+1. 新しい [&#x200B; デフォルトプログラム &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} を作成し、「ブロックリストに追加」という名前を付けます。
 
 1. 「**[!UICONTROL 新規作成]**」をクリックして、「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 

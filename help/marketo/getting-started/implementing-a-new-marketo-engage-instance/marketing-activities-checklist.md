@@ -55,7 +55,7 @@ ht-degree: 57%
 
 >[!NOTE]
 >
->プログラム、ランディングページ、メールなどのマーケティングアセットを別々の領域に格納するには、[ 管理者セクションのチェックリスト ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) を参照して、ワークスペースの設定方法を確認してください。
+>プログラム、ランディングページ、メールなどのマーケティングアセットを別々の領域に格納するには、[&#x200B; 管理者セクションのチェックリスト &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions) を参照して、ワークスペースの設定方法を確認してください。
 
 <table>
 <thead>

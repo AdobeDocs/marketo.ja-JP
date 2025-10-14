@@ -62,7 +62,7 @@ ht-degree: 95%
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. 会議室とテンプレートの詳細については、[ このAdobe ヘルプ記事 ](https://helpx.adobe.com/jp/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"} の「会議室のテンプレートとレイアウト」セクションを参照してください。
+1. 会議室とテンプレートの詳細については、[&#x200B; このAdobe ヘルプ記事 &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"} の「会議室のテンプレートとレイアウト」セクションを参照してください。
 
 1. ウェビナーの設計が完了したら、「**ルームから退出**」をクリックします。
 

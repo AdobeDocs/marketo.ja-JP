@@ -146,7 +146,7 @@ IT チームと連携して、Marketo Sales に Outlook オンラインアカウ
 IT チームの環境設定および現在の設定に応じて、アクセスの付与方法について問い合わせるのが最善です。以下に、話し合いのガイドとして役立つ記事の一部を示します。
 
 * グローバル同意：[Microsoft 365 管理者向けの統合アプリと Azure AD](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* ユーザーの同意：[ アプリケーションに対するユーザーの同意方法を設定します ](https://learn.microsoft.com/ja-jp/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
-* 管理者の同意：[ 管理者の同意ワークフローを設定 ](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
-* ユーザー同意のオンまたはオフ：[Microsoft 365 でのアプリに対するユーザー同意の管理 ](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
-* Microsoft Defender を使用した管理：[OAuth アプリを管理 ](https://learn.microsoft.com/ja-jp/defender-cloud-apps/manage-app-permissions){target="_blank"}
+* ユーザーの同意：[&#x200B; アプリケーションに対するユーザーの同意方法を設定します &#x200B;](https://learn.microsoft.com/ja-jp/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
+* 管理者の同意：[&#x200B; 管理者の同意ワークフローを設定 &#x200B;](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* ユーザー同意のオンまたはオフ：[Microsoft 365 でのアプリに対するユーザー同意の管理 &#x200B;](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* Microsoft Defender を使用した管理：[OAuth アプリを管理 &#x200B;](https://learn.microsoft.com/ja-jp/defender-cloud-apps/manage-app-permissions){target="_blank"}

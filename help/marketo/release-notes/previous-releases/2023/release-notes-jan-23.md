@@ -192,6 +192,6 @@ ht-degree: 96%
 
 ## お知らせ {#announcements}
 
-* **Marketo REST API の変更**：2022年10月リリースでは、Marketo REST API 応答メッセージに若干の変更を加えました。詳しくは、こちらの [Marketo民族の投稿 ](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} を参照してください。
+* **Marketo REST API の変更**：2022年10月リリースでは、Marketo REST API 応答メッセージに若干の変更を加えました。詳しくは、こちらの [Marketo民族の投稿 &#x200B;](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} を参照してください。
 
-* **_製品リリースウェビナー_**:[2022 年 10 月および 2023 年 1 月Marketo Engageリリースウェビナー ](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**:[2022 年 10 月および 2023 年 1 月Marketo Engageリリースウェビナー &#x200B;](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

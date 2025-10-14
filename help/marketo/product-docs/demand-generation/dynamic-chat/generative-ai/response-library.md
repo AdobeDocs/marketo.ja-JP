@@ -56,7 +56,7 @@ ht-degree: 5%
 
 ## 質問/回答の一括編集とアップロード {#bulk-edit-and-upload-questions-responses}
 
-[ ダウンロードした Excel ファイル ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"} で一括編集を行う手順を以下に示します。 これらは、ファイルの「タスクの詳細」タブでも確認できます。
+[&#x200B; ダウンロードした Excel ファイル &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"} で一括編集を行う手順を以下に示します。 これらは、ファイルの「タスクの詳細」タブでも確認できます。
 
 <table>
 <thead>

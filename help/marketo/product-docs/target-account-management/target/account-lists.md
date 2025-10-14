@@ -91,5 +91,5 @@ ht-degree: 88%
 
 >[!MORELIKETHIS]
 >
->* [ アカウントリストへの既存の [!UICONTROL &#x200B; 名前付きアカウント &#x200B;] の追加 ](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [&#x200B; アカウントリストへの既存の [!UICONTROL &#x200B; 名前付きアカウント &#x200B;] の追加 &#x200B;](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [アカウントリストインサイト](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)

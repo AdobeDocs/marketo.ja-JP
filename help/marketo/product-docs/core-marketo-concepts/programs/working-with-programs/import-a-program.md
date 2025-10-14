@@ -13,7 +13,7 @@ ht-degree: 69%
 
 # プログラムのインポート {#import-a-program}
 
-プログラムは、あるMarketo Engage サブスクリプションから別のサブスクリプションに読み込むことができます。 例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。また、[Marketo プログラムライブラリ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"} から事前定義済みプログラムを読み込むこともできます。
+プログラムは、あるMarketo Engage サブスクリプションから別のサブスクリプションに読み込むことができます。 例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。また、[Marketo プログラムライブラリ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"} から事前定義済みプログラムを読み込むこともできます。
 
 >[!CAUTION]
 >
@@ -85,4 +85,4 @@ ht-degree: 69%
 
 >[!CAUTION]
 >
->プログラムを読み込む際、[ 動的コンテンツ ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} を含むメールやランディングページはスキップされます。
+>プログラムを読み込む際、[&#x200B; 動的コンテンツ &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} を含むメールやランディングページはスキップされます。

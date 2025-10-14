@@ -35,15 +35,15 @@ ht-degree: 32%
    >
    >「**[!UICONTROL カスタム CSS を追加]**」ボタンは、「**[!UICONTROL 本文]**」を選択した場合にのみ使用できます。ただし、コンテンツ内のすべてのコンポーネントにカスタム CSS スタイルを適用できます。
 
-1. ポップアップ表示される専用のテキスト領域に CSS コードを入力します。カスタム CSS [ が有効で、適切な構文に従っていることを確認します ](#use-valid-css)。 終了したら「**保存**」をクリックします。
+1. ポップアップ表示される専用のテキスト領域に CSS コードを入力します。カスタム CSS [&#x200B; が有効で、適切な構文に従っていることを確認します &#x200B;](#use-valid-css)。 終了したら「**保存**」をクリックします。
 
    ![](assets/custom-css-2.png)
 
    >[!NOTE]
    >
-   >[ コンテンツがロックされたテンプレート ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md) を使用する場合、カスタム CSS をコンテンツに追加することはできません。 ボタンのラベルが **[!UICONTROL カスタム CSS を表示]** に変わり、表示されるカスタム CSS は読み取り専用になります。
+   >[&#x200B; コンテンツがロックされたテンプレート &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md) を使用する場合、カスタム CSS をコンテンツに追加することはできません。 ボタンのラベルが **[!UICONTROL カスタム CSS を表示]** に変わり、表示されるカスタム CSS は読み取り専用になります。
 
-1. CSS がコンテンツに適用されていることを確認します。 表示されない場合は、[ トラブルシューティング ](#troubleshooting) の節を確認してください。
+1. CSS がコンテンツに適用されていることを確認します。 表示されない場合は、[&#x200B; トラブルシューティング &#x200B;](#troubleshooting) の節を確認してください。
 
    ![](assets/custom-css-3.png)
 
@@ -206,7 +206,7 @@ body {
 
 E メールデザイナーに読み込んだコンテンツでカスタム CSS を使用する場合は、次の点を考慮します。
 
-* CSS を含むコンテンツを [ 外部HTMLの読み込み ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) する場合、そのコンテンツを変換しない限り、コンテンツは **[!UICONTROL 互換モード]** になり、「**[!UICONTROL CSS スタイル]**」セクションは使用できません。
+* CSS を含むコンテンツを [&#x200B; 外部HTMLの読み込み &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) する場合、そのコンテンツを変換しない限り、コンテンツは **[!UICONTROL 互換モード]** になり、「**[!UICONTROL CSS スタイル]**」セクションは使用できません。
 
 * メールのDesignerで作成されたコンテンツに、「**[!UICONTROL カスタム CSS を追加]**」オプションを通じて適用された CSS が含まれている場合、以前に適用された CSS は、同じオプションから表示および編集できます。
 

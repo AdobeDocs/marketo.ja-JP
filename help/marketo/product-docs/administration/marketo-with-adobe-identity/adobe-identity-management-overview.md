@@ -21,7 +21,7 @@ ht-degree: 95%
 Adobe ID にオンボードされたサブスクリプションの場合、Adobe Admin Console がユーザ管理に使用されます。シングルサインオンなどの ID 関連の概念も、Admin Console で管理されます。
 
 * [Adobe Admin Console](https://helpx.adobe.com/jp/enterprise/using/admin-console.html){target="_blank"} の詳細情報を検索します。
-* 詳しくは [Marketo サブスクリプションに関連するAdobe組織の設定 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} を参照してください。
+* 詳しくは [Marketo サブスクリプションに関連するAdobe組織の設定 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} を参照してください。
 
 >[!NOTE]
 >

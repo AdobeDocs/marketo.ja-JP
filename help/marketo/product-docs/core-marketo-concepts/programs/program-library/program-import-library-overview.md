@@ -14,7 +14,7 @@ ht-degree: 12%
 
 Marketo Engage参照ライブラリには、Marketo インスタンスに直接読み込んで、チームをサポートするプログラムを構築するためのキックスタートを実行できるスタータープログラムがいくつか含まれています。
 
-ライブラリには、メール、エンゲージメント、イベント、スコアリング、配信品質、運用などのプログラムが含まれます。 すべてのプログラムは、Adobe製品チームが開発し、質と効果を最大限に高めるために [ グローバルプロフェッショナルサービス ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} チームが審査しました。
+ライブラリには、メール、エンゲージメント、イベント、スコアリング、配信品質、運用などのプログラムが含まれます。 すべてのプログラムは、Adobe製品チームが開発し、質と効果を最大限に高めるために [&#x200B; グローバルプロフェッショナルサービス &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} チームが審査しました。
 
 ## 使用可能なプログラムの例 {#available-program-examples}
 
@@ -22,11 +22,11 @@ Marketo Engage参照ライブラリには、Marketo インスタンスに直接�
 
 * [NL-YYYY-MM-Newsletter](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nl-yyyy-mm-newsletter.md){target="_blank"}
 
-* [WBN-YYYY-MM-DD – ウェビナープログラム ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
+* [WBN-YYYY-MM-DD – ウェビナープログラム &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wbn-yyyy-mm-dd-webinar-program.md){target="_blank"}
 
-* [EV-YYYY-MM-DD-Event プログラム ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md){target="_blank"}
+* [EV-YYYY-MM-DD-Event プログラム &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ev-yyyy-mm-dd-event-program.md){target="_blank"}
 
-* [TS-YYYY-MM-DD-Tradeshow プログラム ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md){target="_blank"}
+* [TS-YYYY-MM-DD-Tradeshow プログラム &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ts-yyyy-mm-dd-tradeshow-program.md){target="_blank"}
 
 * [NUR-YYYY-MM-Simple Nurture](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/nur-yyyy-mm-simple-nurture.md){target="_blank"}
 
@@ -34,15 +34,15 @@ Marketo Engage参照ライブラリには、Marketo インスタンスに直接�
 
 * [Marketo ランディングページの CT-YYYY-MM-Content](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md){target="_blank"}
 
-* [CT-YYYY-MM-Content Non-Marketoランディングページ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
+* [CT-YYYY-MM-Content Non-Marketoランディングページ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md){target="_blank"}
 
-* [WR-YYYY-MM-Web リクエスト・プログラム ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
+* [WR-YYYY-MM-Web リクエスト・プログラム &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md){target="_blank"}
 
-* [OA-YYYY-MM-Online Advertising Marketoのランディングページ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md){target="_blank"}
+* [OA-YYYY-MM-Online Advertising Marketoのランディングページ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md){target="_blank"}
 
-* [OP データ管理 ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md){target="_blank"}
+* [OP データ管理 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md){target="_blank"}
 
-* [OP リード管理 ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md){target="_blank"}
+* [OP リード管理 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md){target="_blank"}
 
 * [OP-Scoring-Behavior](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md){target="_blank"}
 
@@ -50,8 +50,8 @@ Marketo Engage参照ライブラリには、Marketo インスタンスに直接�
 
 * [OP-Acquisition-API](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-acquisition-api.md){target="_blank"}
 
-* [OP 配信品質管理 ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md){target="_blank"}
+* [OP 配信品質管理 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management.md){target="_blank"}
 
 >[!MORELIKETHIS]
 >
->[ プログラムのインポート ](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}
+>[&#x200B; プログラムのインポート &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}

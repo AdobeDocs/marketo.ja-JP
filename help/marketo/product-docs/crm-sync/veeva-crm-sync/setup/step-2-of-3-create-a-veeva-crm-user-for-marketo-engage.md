@@ -18,7 +18,7 @@ ht-degree: 46%
 
 >[!PREREQUISITES]
 >
->[ 手順 1/3:Marketo フィールドの追加  [!DNL Salesforce]  （Professional） ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
+>[&#x200B; 手順 1/3:Marketo フィールドの追加  [!DNL Salesforce]  （Professional） &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
 
 この記事では、[!DNL Veeva] CRM ページレイアウトでフィールドの権限をカスタマイズし、[!DNL Marketo-Veeva] CRM 同期ユーザーを作成します。
 
@@ -201,4 +201,4 @@ Marketoが CRM にアクセスするには資格情報 [!DNL Veeva] 必要です
 
 >[!MORELIKETHIS]
 >
->[ 手順 3/3:Marketoと  [!DNL Veeva] CRM の接続 ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}
+>[&#x200B; 手順 3/3:Marketoと  [!DNL Veeva] CRM の接続 &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}

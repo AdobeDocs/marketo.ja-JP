@@ -49,11 +49,11 @@ ht-degree: 74%
 
 1. 「_[!UICONTROL ドメイン]_」タブで、ドメイン行を選択し、「**[!UICONTROL SSL を追加]**」をクリックします。
 
-   ![ 管理者 – メール – ドメイン - SSL を追加 ](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
+   ![&#x200B; 管理者 – メール – ドメイン - SSL を追加 &#x200B;](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
 1. ダイアログで、「**[!UICONTROL 確認]**」をクリックします。
 
-   ![SSL を追加 – 確認 ](./assets/generate-ssl-cert-confirm.png){width="400"}
+   ![SSL を追加 – 確認 &#x200B;](./assets/generate-ssl-cert-confirm.png){width="400"}
 
 ## エラーメッセージ {#error-messages}
 
@@ -97,7 +97,7 @@ ht-degree: 74%
 
 * **既存の SSL**：ドメインの追加中に、事前に手動で作成した可能性のある既存の SSL がシステムによってチェックされます。この検証が発生した場合は、SSL 作成を選択せずにドメインを作成すると、SSL が接続されます。追加kの詳細やオプションについては、[サポートにお問い合わせください](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
-* **ドメインの削除**:SSL 証明書を自動的に削除 **削除しない** します。 このガードレールは、web サイトに SSL 証明書がない結果となるユーザーエラーを防ぎます。 SSL 証明書を削除する場合は、[ サポートにお問い合わせください ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+* **ドメインの削除**:SSL 証明書を自動的に削除 **削除しない** します。 このガードレールは、web サイトに SSL 証明書がない結果となるユーザーエラーを防ぎます。 SSL 証明書を削除する場合は、[&#x200B; サポートにお問い合わせください &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

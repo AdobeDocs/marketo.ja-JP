@@ -32,11 +32,11 @@ ht-degree: 82%
 
 ## リストにユーザーを追加／削除する方法 {#ways-to-add-remove-people-from-a-list}
 
-1. スマートキャンペーンフローステップ（[ リストに追加 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}、[ リストから削除 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"}）
+1. スマートキャンペーンフローステップ（[&#x200B; リストに追加 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}、[&#x200B; リストから削除 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"}）
 
-1. [ 単一アクションフローステップ ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
+1. [&#x200B; 単一アクションフローステップ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. ツリー内のリストにユーザーをドラッグする
-1. [ リストのインポート ](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+1. [&#x200B; リストのインポート &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## 静的リストの使用例 {#some-uses-of-a-static-list}
 

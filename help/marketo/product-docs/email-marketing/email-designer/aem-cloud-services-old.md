@@ -36,7 +36,7 @@ Marketo EngageのメールDesignerでAEM Assets Asset リポジトリーを活�
 >
 >Marketo Engage サブスクリプションと同じ IMS 組織に関連付けられているリポジトリーのみが表示されます。
 
-1. リポジトリを設定するには、[ サービス資格情報証明書 ](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) を追加する必要があります。 「**+証明書を追加**」ボタンをクリックします。
+1. リポジトリを設定するには、[&#x200B; サービス資格情報証明書 &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) を追加する必要があります。 「**+証明書を追加**」ボタンをクリックします。
 
 スクリーンショット
 
@@ -52,4 +52,4 @@ Marketo EngageのメールDesignerでAEM Assets Asset リポジトリーを活�
 
 >[!MORELIKETHIS]
 >
->[Experience Manager アセットの操作 ](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md)
+>[Experience Manager アセットの操作 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md)

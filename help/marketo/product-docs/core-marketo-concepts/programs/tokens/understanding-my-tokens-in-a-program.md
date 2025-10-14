@@ -89,7 +89,7 @@ ht-degree: 98%
 
 >[!IMPORTANT]
 >
->[ バッチキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"} では、ネストされたトークンはサポートされていません。
+>[&#x200B; バッチキャンペーン &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"} では、ネストされたトークンはサポートされていません。
 
 >[!NOTE]
 >

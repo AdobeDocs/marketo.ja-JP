@@ -28,9 +28,9 @@ Marketo Engageは [!DNL Veeva] CRM と毎日同期されます。 各同期は�
 
 ## Marketo Engageと [!DNL Veeva] の間で同期されるもの {#what-is-synced-between-marketo-engage-and-veeva}
 
-* [ 人物アカウント ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
+* [&#x200B; 人物アカウント &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * ユーザ
-* [Call および Call Key オブジェクト ](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
+* [Call および Call Key オブジェクト &#x200B;](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
 * [カスタムオブジェクト](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
 ## 留意事項 {#things-to-know}

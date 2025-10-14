@@ -62,7 +62,7 @@ _ユーザーを移行する必要が&#x200B;**ない**&#x200B;場合_ - Marketo
 
 **解決策**:
 
-_ユーザーを移行する必要がある場合_ （および移行組織でドメイン適用が有効になっている場合） – ドメイン適用（DE）ポリシーに準拠するには、メールアドレスをMarketo Engageで更新する必要があります。 または、システム管理者は、[ ドメインを移動 ](https://helpx.adobe.com/jp/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} して、別のドメイン強制（DE）無効ディレクトリに移動するか、DE ポリシー下にない [ 新しいディレクトリを作成 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} することができます。 Marketo Engage管理者は、このユーザーのユーザー移行を移行コンソールから再実行できます。
+_ユーザーを移行する必要がある場合_ （および移行組織でドメイン適用が有効になっている場合） – ドメイン適用（DE）ポリシーに準拠するには、メールアドレスをMarketo Engageで更新する必要があります。 または、システム管理者は、[&#x200B; ドメインを移動 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} して、別のドメイン強制（DE）無効ディレクトリに移動するか、DE ポリシー下にない [&#x200B; 新しいディレクトリを作成 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} することができます。 Marketo Engage管理者は、このユーザーのユーザー移行を移行コンソールから再実行できます。
 
 _ユーザーを移行する必要がある場合_ （およびドメインの適用が別の組織で有効になっている場合） – ドメインが要求された組織のシステム管理者が、ユーザーのメールアドレスを例外リストに追加する必要があります。 Marketo Engage管理者は、このユーザーのユーザー移行を移行コンソールから再実行できます。
 
@@ -79,8 +79,8 @@ _ユーザーを移行する必要が&#x200B;**ない**&#x200B;場合_ - Marketo
 1. 使用権限のみのアカウントが（該当する場合）作成され、認証用アカウントとしてフェデレーテッド アカウントにリンクされます。
 
 **詳細情報**
-* [ シングルサインオンなしの ID の設定 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
-* [ シングルサインオンでの ID の設定 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
+* [&#x200B; シングルサインオンなしの ID の設定 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
+* [&#x200B; シングルサインオンでの ID の設定 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
 
 ### Pendo 移行に失敗しました {#pendo-migration-failed}
 
@@ -104,13 +104,13 @@ _ユーザーを移行する必要がある場合_
 
 1. Marketo Engage管理者が移行コンソールで移行を再実行します。
 
-1. コンソールにアクセスできない場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) に連絡して、移行を再実行してください。
+1. コンソールにアクセスできない場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) に連絡して、移行を再実行してください。
 
 _ユーザーが&#x200B;**ない**&#x200B;場合、移行する必要があります_
 
 * Marketo Engage管理者は、移行コンソールのユーザーをスキップする必要があります。
 * すべてのユーザーが移行またはスキップされたら、「**[!UICONTROL 移行完了]**」をクリックして確定します。
-* エラーが解決しない場合は、関連する詳細と共にサポートケースを [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) に送信してください。
+* エラーが解決しない場合は、関連する詳細と共にサポートケースを [Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) に送信してください。
 
 
 ### ユーザーを作成できませんでした {#user-creation-failed}
@@ -147,4 +147,4 @@ _ユーザーが&#x200B;**ない**&#x200B;場合、移行する必要があり�
 
 **解決策**:
 
-[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} の関連詳細を添えて、サポートケースを送信します。
+[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} の関連詳細を添えて、サポートケースを送信します。

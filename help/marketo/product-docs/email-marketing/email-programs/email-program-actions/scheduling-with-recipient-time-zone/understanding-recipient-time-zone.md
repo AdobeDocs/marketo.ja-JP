@@ -30,7 +30,7 @@ ht-degree: 67%
 
 ## エンゲージメントプログラム {#engagement-programs}
 
-[ エンゲージメントプログラムストリームのスケジュール ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) と [!UICONTROL &#x200B; 受信者のタイムゾーン &#x200B;] がアクティブになると、プログラムキャストは UTC +14:00 の午前 0 時に実行を開始します。 ユーザは世界中のすべてのタイムゾーンでキャストの対象として認定される可能性があるので、最初のキャストを少なくとも 25 時間後（24 時間+キャンペーンの開始までしばらく）にスケジュールする必要があります。この時間に UTC +14 で処理を開始すると :00 このキャストの対象となるすべての人物に対して、スケジュールされた日時にメールが送信されることが保証されます。
+[&#x200B; エンゲージメントプログラムストリームのスケジュール &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md) と [!UICONTROL &#x200B; 受信者のタイムゾーン &#x200B;] がアクティブになると、プログラムキャストは UTC +14:00 の午前 0 時に実行を開始します。 ユーザは世界中のすべてのタイムゾーンでキャストの対象として認定される可能性があるので、最初のキャストを少なくとも 25 時間後（24 時間+キャンペーンの開始までしばらく）にスケジュールする必要があります。この時間に UTC +14 で処理を開始すると :00 このキャストの対象となるすべての人物に対して、スケジュールされた日時にメールが送信されることが保証されます。
 
 ## タイムゾーンの計算 {#calculating-time-zone}
 

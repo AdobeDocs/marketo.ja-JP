@@ -15,7 +15,7 @@ ht-degree: 63%
 
 >[!PREREQUISITES]
 >
->* [ サービ  [!DNL GoToWebinar]  として  [!DNL LaunchPoint]  追加 ](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
+>* [&#x200B; サービ  [!DNL GoToWebinar]  として  [!DNL LaunchPoint]  追加 &#x200B;](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
 
@@ -55,7 +55,7 @@ Marketo イベントを作成し、それに [!DNL GoToWebinar] ーザーを関�
 
 >[!TIP]
 >
->その他の [!DNL GoToWebinar] ヘルプが必要な場合は、[ ヘルプ サイト ](https://support.logmeininc.com/gotowebinar) を参照してください。
+>その他の [!DNL GoToWebinar] ヘルプが必要な場合は、[&#x200B; ヘルプ サイト &#x200B;](https://support.logmeininc.com/gotowebinar) を参照してください。
 
 それでは、Marketo に移動しましょう。
 

@@ -65,7 +65,7 @@ ht-degree: 94%
 
 インタラクティブウェビナーは、マーケターが Marketo Engage 内でイベントを作成、管理および配信できるネイティブでシームレスなエクスペリエンスを提供することで、既存のイベントおよびウェビナーのエクスペリエンスを強化します。イベントのタイプに応じてウェビナーをカスタマイズし、必要に応じてプレゼンターを追加することもできます。ライブ投票、チャット、Q＆A セッション、web リンクのクリック、ドキュメントのダウンロードなど、Adobe Connect の機能を通じて豊富なエンゲージメントインサイトを取得できます。豊富なダッシュボード指標を使用して、Marketo Engage で直接ウェビナー録画を取得し、パフォーマンスを評価できます。
 
-インタラクティブウェビナーは、徐々にロールアウトされます。以前のアクセスを要求するには、[ このフォーム ](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"} に入力してください。
+インタラクティブウェビナーは、徐々にロールアウトされます。以前のアクセスを要求するには、[&#x200B; このフォーム &#x200B;](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"} に入力してください。
 
 <table>
   <tr>
@@ -81,4 +81,4 @@ ht-degree: 94%
 
 ## お知らせ {#announcements}
 
-* **_製品リリースウェビナー_**:[2023 年 3 月および 5 月のMarketo Engage リリースウェビナー ](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**:[2023 年 3 月および 5 月のMarketo Engage リリースウェビナー &#x200B;](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

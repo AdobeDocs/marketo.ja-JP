@@ -17,7 +17,7 @@ Marketo Engageを使用すると、プログラムを [!DNL Salesforce] キャ�
 
 >[!PREREQUISITES]
 >
->最初に [ 有効にする  [!DNL Salesforce]  キャンペーン同期 ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} が必要です。
+>最初に [&#x200B; 有効にする  [!DNL Salesforce]  キャンペーン同期 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"} が必要です。
 
 >[!CAUTION]
 >
@@ -39,7 +39,7 @@ Marketo Engageを使用すると、プログラムを [!DNL Salesforce] キャ�
 
    >[!TIP]
    >
-   >既存の [!DNL Salesforce] キャンペーンを選択する場合は、[ キャンペーンのプログラムステータスとMarketo プログラムを一致させる  [!DNL Salesforce]  ことを確認 ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"} ます。
+   >既存の [!DNL Salesforce] キャンペーンを選択する場合は、[&#x200B; キャンペーンのプログラムステータスとMarketo プログラムを一致させる  [!DNL Salesforce]  ことを確認 &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md){target="_blank"} ます。
 
 1. 新しいキャンペーンの名前を入力し、「**[!UICONTROL 保存]**」をクリックします。
 

@@ -16,11 +16,11 @@ SMS メッセージの作成方法は次のとおりです。
 
 >[!AVAILABILITY]
 >
->この機能は、Adobe Marketo Engage アカウントのアドオンとして使用できます。適切にプロビジョニングするには、Adobe経由で購入する必要があります。 詳しくは、Adobe アカウントチーム（担当のアカウントマネージャー）にお問い合わせください。 Marketo Vibes SMS のネイティブ統合は、米国とカナダで利用できます。 他の国では、Marketoの Webhook を介した接続は、[Vibes に直接連絡 ](https://www.vibes.com/talk-to-sales) することで利用できます。
+>この機能は、Adobe Marketo Engage アカウントのアドオンとして使用できます。適切にプロビジョニングするには、Adobe経由で購入する必要があります。 詳しくは、Adobe アカウントチーム（担当のアカウントマネージャー）にお問い合わせください。 Marketo Vibes SMS のネイティブ統合は、米国とカナダで利用できます。 他の国では、Marketoの Webhook を介した接続は、[Vibes に直接連絡 &#x200B;](https://www.vibes.com/talk-to-sales) することで利用できます。
 
 >[!PREREQUISITES]
 >
->[LaunchPoint サービスとしての Vibes の追加 ](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
+>[LaunchPoint サービスとしての Vibes の追加 &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
 1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 

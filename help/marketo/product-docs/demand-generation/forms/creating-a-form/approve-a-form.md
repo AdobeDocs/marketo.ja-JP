@@ -31,7 +31,7 @@ ht-degree: 51%
 
    ![](assets/approve-a-form-3.png)
 
-   承認され、（ランディングページに追加 [ 準備が整いました ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}。
+   承認され、（ランディングページに追加 [&#x200B; 準備が整いました &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}。
 
    >[!NOTE]
    >

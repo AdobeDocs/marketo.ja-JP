@@ -19,8 +19,8 @@ ht-degree: 74%
 >
 >[!DNL Sales Connect] パッケージの最新バージョンに更新し、リード/連絡先ビューに一括アクションボタンをインストールします。
 >
->* [ 英語の指示 ](assets/sf-guide-for-lightning-en.pdf)
->* [ 日本語の指示 ](assets/sf-guide-for-lightning-ja.pdf)
+>* [&#x200B; 英語の指示 &#x200B;](assets/sf-guide-for-lightning-en.pdf)
+>* [&#x200B; 日本語の指示 &#x200B;](assets/sf-guide-for-lightning-ja.pdf)
 
 >[!NOTE]
 >

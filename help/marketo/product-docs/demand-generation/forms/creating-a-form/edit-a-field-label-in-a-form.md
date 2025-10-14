@@ -33,7 +33,7 @@ ht-degree: 67%
 
    >[!TIP]
    >
-   >![ 鉛筆 ](assets/icon-pencil.png) アイコンをクリックして、リッチテキストエディターにアクセスします。
+   >![&#x200B; 鉛筆 &#x200B;](assets/icon-pencil.png) アイコンをクリックして、リッチテキストエディターにアクセスします。
 
 1. 「**[!UICONTROL 終了]**」をクリックします。
 
@@ -45,4 +45,4 @@ ht-degree: 67%
 
 >[!NOTE]
 >
->フォームの変更によって作成された [ ランディングページのドラフトを承認 ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} することを忘れないでください。
+>フォームの変更によって作成された [&#x200B; ランディングページのドラフトを承認 &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} することを忘れないでください。

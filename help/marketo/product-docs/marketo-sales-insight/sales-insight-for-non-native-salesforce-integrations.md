@@ -17,7 +17,7 @@ ht-degree: 52%
 
 >[!PREREQUISITES]
 >
->* MSI のセットアップを開始する前に、Marketo インスタンスで「MSI 非ネイティブ」機能が有効になっていました。 そうでない場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。 この機能をまだ購入していない場合は、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>* MSI のセットアップを開始する前に、Marketo インスタンスで「MSI 非ネイティブ」機能が有効になっていました。 そうでない場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。 この機能をまだ購入していない場合は、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 >* [MSI パッケージが設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}された Salesforce アカウント。
 >* Marketo REST API が[正常に設定](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}されている。公開されている CRUD API は、非ネイティブ同期を実行するための基盤となります。
 >* オブジェクトと関係を理解するには、[このブログ記事](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"}を参照してください。

@@ -12,7 +12,7 @@ ht-degree: 67%
 
 # 新しいインスタンスのベストプラクティス：「管理者」セクションのチェックリスト {#new-instance-best-practices-admin-section-checklist}
 
-新しいMarketo Engage インスタンスに移動する新しい管理者として、以下のチェックリストを適用して、実装プロセスを導くことができます。 これらのすべてのガイドと同様に、[ チェックリストをダウンロード ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) したり、進行状況を追跡したりすることもできます。
+新しいMarketo Engage インスタンスに移動する新しい管理者として、以下のチェックリストを適用して、実装プロセスを導くことができます。 これらのすべてのガイドと同様に、[&#x200B; チェックリストをダウンロード &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) したり、進行状況を追跡したりすることもできます。
 
 ## ロール {#roles}
 

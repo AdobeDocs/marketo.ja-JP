@@ -76,4 +76,4 @@ ht-degree: 95%
 >
 >* **ITP 2.1+ [!DNL Munchkin] のアップデート**：[!DNL Safari] の cookie ポリシーが変更されたので、[!DNL Munchkin] が同じドメインで複数のセッションをまたいでユーザを追跡する機能は、ITP によって、訪問者が使用しているブラウザーとブラウザーのバージョンに基づいて 1 日または 7 日に制限されます。これを考慮して、新しい web サービスを実装し、HTTP 応答を介して Set-Cookie ヘッダーで Munchkin の Cookie を設定できるようにしています。この新しいサービスの実装方法の詳細については、[こちら](https://nation.marketo.com/docs/DOC-7351)を参照してください。
 
-**_製品リリースウェビナー_**&#x200B;[ ご参加ください ](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)3 月 3 日（PT） 11:00AM PT / 2:00PM ET で、製品チームがホストするライブウェビナーと、このリリースに含まれる機能の詳細をご覧ください。
+**_製品リリースウェビナー_**&#x200B;[&#x200B; ご参加ください &#x200B;](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html)3 月 3 日（PT） 11:00AM PT / 2:00PM ET で、製品チームがホストするライブウェビナーと、このリリースに含まれる機能の詳細をご覧ください。

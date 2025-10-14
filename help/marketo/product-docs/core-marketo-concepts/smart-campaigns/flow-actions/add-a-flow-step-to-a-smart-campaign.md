@@ -39,7 +39,7 @@ ht-degree: 70%
 >
 >入力が無効な場合には、赤色の線が表示されます。この赤線の上にカーソルを置くと、修正方法を確認できます。
 
-これで完了です。スマートキャンペーンをスケジュールまたはアクティブ化する前に、必ず [ スマートキャンペーンをレビューおよび検証 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} してください。
+これで完了です。スマートキャンペーンをスケジュールまたはアクティブ化する前に、必ず [&#x200B; スマートキャンペーンをレビューおよび検証 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} してください。
 
 >[!MORELIKETHIS]
 >

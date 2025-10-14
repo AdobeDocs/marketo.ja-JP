@@ -17,7 +17,7 @@ ht-degree: 92%
 
 >[!IMPORTANT]
 >
->Marketo Engage サブスクリプションが [&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}Adobe ID で Marketo に移行されている場合は、この記事の[タイムゾーン](#change-your-time-zone)のみが適用されます。言語やロケールを変更するには、[Adobe アカウントプロファイル ](https://account.adobe.com/profile){target="_blank"} でこれらの設定にアクセスする必要があります。
+>Marketo Engage サブスクリプションが [&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}Adobe ID で Marketo に移行されている場合は、この記事の[タイムゾーン](#change-your-time-zone)のみが適用されます。言語やロケールを変更するには、[Adobe アカウントプロファイル &#x200B;](https://account.adobe.com/profile){target="_blank"} でこれらの設定にアクセスする必要があります。
 
 ## サポートされている言語 {#supported-languages}
 

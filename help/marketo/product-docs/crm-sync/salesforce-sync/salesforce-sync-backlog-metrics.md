@@ -90,18 +90,18 @@ ht-degree: 44%
 
 ## 同期バックログの管理のベストプラクティス {#best-practices}
 
-**同期ユーザーに表示されるフィールド**：同期するために表示されるフィールドが、同期する必要があり、マーケティング活動に価値を持つフィールドのみであることを確認します。 最終変更日のタイムスタンプを更新するSalesforce内のレコードに対する更新が行われると、同期バックログへのレコードがキューに入れられ、不要なフィールドの同期により、同期中のより重要なフィールドの速度が低下する可能性があります。 不要なフィールドが同期ユーザーに対して非表示になっている場合、これらのフィールドを更新すると、スキップが発生し、更新よりもはるかに速く処理されます。 Salesforce管理者と協力して、ベストプラクティス [ こちら ](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} を確認し、Marketo Sync ユーザーに表示されるフィールドを更新します。
+**同期ユーザーに表示されるフィールド**：同期するために表示されるフィールドが、同期する必要があり、マーケティング活動に価値を持つフィールドのみであることを確認します。 最終変更日のタイムスタンプを更新するSalesforce内のレコードに対する更新が行われると、同期バックログへのレコードがキューに入れられ、不要なフィールドの同期により、同期中のより重要なフィールドの速度が低下する可能性があります。 不要なフィールドが同期ユーザーに対して非表示になっている場合、これらのフィールドを更新すると、スキップが発生し、更新よりもはるかに速く処理されます。 Salesforce管理者と協力して、ベストプラクティス [&#x200B; こちら &#x200B;](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} を確認し、Marketo Sync ユーザーに表示されるフィールドを更新します。
 
-**不要なレコードの非表示またはフィルター**：レコードが市場向きでない場合、同期リソースを無駄にしている可能性があります。 同期ユーザーが表示できない場合は、同期を試みるリソースを無駄にしません。 [Marketo Engage サポート ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} は、追加の条件に基づいてレコードの同期を禁止する同期フィルターの設定をサポートします。 カスタム同期フィルターの設定について詳しくは [ こちらを参照 ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 Salesforce内でインデックスフィールドを使用することを強くお勧めします（詳しくは、salesforce にお問い合わせください）。
+**不要なレコードの非表示またはフィルター**：レコードが市場向きでない場合、同期リソースを無駄にしている可能性があります。 同期ユーザーが表示できない場合は、同期を試みるリソースを無駄にしません。 [Marketo Engage サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} は、追加の条件に基づいてレコードの同期を禁止する同期フィルターの設定をサポートします。 カスタム同期フィルターの設定について詳しくは [&#x200B; こちらを参照 &#x200B;](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 Salesforce内でインデックスフィールドを使用することを強くお勧めします（詳しくは、salesforce にお問い合わせください）。
 
 **重要でない時間帯に一括更新をスケジュール**: データ同期パターンを確認して、重要でない期間を特定します。 可能であれば、これらの重要でない期間に一括更新をスケジュールできるかどうかを確認します。
 
 **頻繁に更新されるフィールド**：一部のフィールドは頻繁に更新される傾向があります。 例えば、通貨の変更が必要な通貨フィールドなどです。 これらを同期する必要があるか、またはフィールドの設計を変える必要があるかを確認します。 頻繁に更新され、必要のない他のフィールドがある場合は、同期ユーザーに対して非表示にします。 フィールドを更新している可能性のあるSFDC管理者の統合について確認してください。
 
-**カスタムオブジェクト**：同期が有効になっている [ カスタムオブジェクト ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} を定期的に確認し、同期する必要がなくなったオブジェクトは無効にします。
+**カスタムオブジェクト**：同期が有効になっている [&#x200B; カスタムオブジェクト &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} を定期的に確認し、同期する必要がなくなったオブジェクトは無効にします。
 
-**アクティビティ**:[ アクティビティがあるかどうかを確認 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} 同期が有効になっていましたが、同期から削除される可能性があります。  これらのアクティビティは、リードごとに 1 日に 1 回だけ同期されます。
+**アクティビティ**:[&#x200B; アクティビティがあるかどうかを確認 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} 同期が有効になっていましたが、同期から削除される可能性があります。  これらのアクティビティは、リードごとに 1 日に 1 回だけ同期されます。
 
 **同期エラーの確認**：例外処理により同期が遅くなる場合があります。 ユーザー通知を確認し、エラーを解決すると、同期の正常性が向上する可能性があります。
 
-**サポートへのお問い合わせ**：上記のすべてのベストプラクティスに従っていて、まだ重大なバックログが発生している場合は、[Marketo Engage サポートにお問い合わせください ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}。
+**サポートへのお問い合わせ**：上記のすべてのベストプラクティスに従っていて、まだ重大なバックログが発生している場合は、[Marketo Engage サポートにお問い合わせください &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}。

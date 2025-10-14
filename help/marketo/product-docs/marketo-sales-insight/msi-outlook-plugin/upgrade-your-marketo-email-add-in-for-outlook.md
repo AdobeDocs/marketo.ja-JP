@@ -121,7 +121,7 @@ ht-degree: 60%
 
 ## アップグレード {#upgrade}
 
-1. [[!DNL Microsoft Outlook]  バージョン ](https://support.microsoft.com/ja-jp/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us) を特定します。
+1. [[!DNL Microsoft Outlook]  バージョン &#x200B;](https://support.microsoft.com/ja-jp/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us) を特定します。
 
 1. 上のリストからお使いのバージョンを選択します。
 
@@ -168,4 +168,4 @@ ht-degree: 60%
 >[!MORELIKETHIS]
 >
 >* [Marketo Email Add-in for [!UICONTROL Outlook を使用したメールの送信とトラッキング &#x200B;]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Marketo テンプレートを使用した [!UICONTROL Outlook] からの送信とトラッキング ](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Marketo テンプレートを使用した [!UICONTROL Outlook] からの送信とトラッキング &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

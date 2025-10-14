@@ -13,7 +13,7 @@ ht-degree: 32%
 
 # プログラムスケジュールビューでのバッチスマートキャンペーンの作成 {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-プログラムスケジュール表示で、新しいスマートキャンペーンを作成したり、プログラム内で [ 既存のスマートキャンペーンを再実行 ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} したりできます。
+プログラムスケジュール表示で、新しいスマートキャンペーンを作成したり、プログラム内で [&#x200B; 既存のスマートキャンペーンを再実行 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} したりできます。
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ ht-degree: 32%
 
    ![](assets/four.png)
 
-1. [ スマートキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} ルールを選択します。
+1. [&#x200B; スマートキャンペーン &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} ルールを選択します。
 
    ![](assets/changeprogramstatus-hands.png)
 

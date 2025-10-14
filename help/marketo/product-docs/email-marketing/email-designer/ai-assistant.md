@@ -19,7 +19,7 @@ Marketo Engage メールDesignerの AI アシスタントを使用すると、�
 
 >[!PREREQUISITES]
 >
->AI アシスタントはデフォルトでは有効になっていません。 まず、メールDesignerで Gen-AI 機能を使用するための [ コア Gen-AI 条件と補足条件 ](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
+>AI アシスタントはデフォルトでは有効になっていません。 まず、メールDesignerで Gen-AI 機能を使用するための [&#x200B; コア Gen-AI 条件と補足条件 &#x200B;](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
 
 ## 権限の設定 {#set-up-permissions}
 
@@ -49,9 +49,9 @@ _後_ 上記の前提条件に従って、Marketo管理者は、ユーザーに�
 
 AI アシスタントの主なユースケースは 3 つあります。
 
-* メールの [ 件名を作成 ](#create-a-subject-line)
-* メールの [ 特定のセクションのコンテンツを作成 ](#create-content-for-a-specific-section)
-* 選択したテンプレートからの [ メール全体の作成 ](#create-an-entire-email)
+* メールの [&#x200B; 件名を作成 &#x200B;](#create-a-subject-line)
+* メールの [&#x200B; 特定のセクションのコンテンツを作成 &#x200B;](#create-content-for-a-specific-section)
+* 選択したテンプレートからの [&#x200B; メール全体の作成 &#x200B;](#create-an-entire-email)
 
 ## 件名行を作成 {#create-a-subject-line}
 
@@ -59,7 +59,7 @@ AI アシスタントの主なユースケースは 3 つあります。
 
 ![](assets/use-the-ai-assistant-1.png)
 
-メールを作成すると、右側の _詳細_ 列に件名が表示されます。 その横にある AI アシスタントボタン（![ フィルターアイコン ](assets/icon-ai-assistant.png)）をクリックすると、生成 AI 機能を使用して新しい件名を作成する方法を確認できます。
+メールを作成すると、右側の _詳細_ 列に件名が表示されます。 その横にある AI アシスタントボタン（![&#x200B; フィルターアイコン &#x200B;](assets/icon-ai-assistant.png)）をクリックすると、生成 AI 機能を使用して新しい件名を作成する方法を確認できます。
 
 ![](assets/use-the-ai-assistant-2.png)
 
@@ -135,7 +135,7 @@ AI アシスタントに対して「**参照コンテンツを使用**」オプ�
 
 ## 選択したテンプレートからメール全体を作成 {#create-an-entire-email}
 
-このオプションは、既存のテンプレートを使用してメールを作成した場合にのみ使用できます。 メールDesignerから提供される標準テンプレート、作成済みの保存済みテンプレートまたは「HTMLの読み込み」オプションを使用して読み込まれたテンプレートを選択できます。 このオプションは、メールに対して [ ゼロからデザイン ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch) を選択した場合は使用できません。
+このオプションは、既存のテンプレートを使用してメールを作成した場合にのみ使用できます。 メールDesignerから提供される標準テンプレート、作成済みの保存済みテンプレートまたは「HTMLの読み込み」オプションを使用して読み込まれたテンプレートを選択できます。 このオプションは、メールに対して [&#x200B; ゼロからデザイン &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch) を選択した場合は使用できません。
 
 テンプレート内のコンポーネントを選択せずにテンプレートを選択し、電子メールDesignerの「AI アシスタント」ボタンをクリックします。
 

@@ -42,7 +42,7 @@ ht-degree: 97%
 
 >[!CAUTION]
 >
->この機能は、スニペット承認のワークフローで時間を節約するために用意されています。制限事項があるので、注意してください。詳しくは [ こちらの記事 ](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} をご覧ください。
+>この機能は、スニペット承認のワークフローで時間を節約するために用意されています。制限事項があるので、注意してください。詳しくは [&#x200B; こちらの記事 &#x200B;](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} をご覧ください。
 
 >[!MORELIKETHIS]
 >

@@ -16,11 +16,11 @@ Adobe Marketo Engage サポートプロセスに対する今後の変更点に�
 
 ## Marketo EngageAdmin Console {#marketo-engage-admin-console}
 
-最初の更新では、Marketo Engage ユーザー向けに新しい [0&rbrace;Adobe Admin Console&rbrace; が導入されました。 ](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"}Adobe Admin Consoleを使用すると、ユーザーと購読をより効率的に管理できます。 このアップデートにより、現在のAdobe製品の使用方法に影響を与えることなく、管理機能をより詳細に制御できます。 つまり、強化された管理機能を活用しながら、日々の運用をシームレスに継続できます。
+最初の更新では、Marketo Engage ユーザー向けに新しい [0&rbrace;Adobe Admin Console&rbrace; が導入されました。 &#x200B;](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"}Adobe Admin Consoleを使用すると、ユーザーと購読をより効率的に管理できます。 このアップデートにより、現在のAdobe製品の使用方法に影響を与えることなく、管理機能をより詳細に制御できます。 つまり、強化された管理機能を活用しながら、日々の運用をシームレスに継続できます。
 
 ## Marketo Engage サポートポータルの更新と移行 {#marketo-engage-support-portal}
 
-2 回目の更新では、サポートチケットの送信方法が大幅に改善されます。 以前は、[ マーケティングネーション ](https://nation.marketo.com/){target="_blank"} ポータルを使用してサポートリクエストを送信していました。 今後、このプロセスは、すべてのサポートチケットの送信を Adobe Experience League にリダイレクトすることで効率化されます。 マーケティング国家は、当分の間、Marketo Engage/測定コミュニティの本拠地のままになります。 近い将来、これらのリソースを Adobe Experience League にも移行する予定です。
+2 回目の更新では、サポートチケットの送信方法が大幅に改善されます。 以前は、[&#x200B; マーケティングネーション &#x200B;](https://nation.marketo.com/){target="_blank"} ポータルを使用してサポートリクエストを送信していました。 今後、このプロセスは、すべてのサポートチケットの送信を Adobe Experience League にリダイレクトすることで効率化されます。 マーケティング国家は、当分の間、Marketo Engage/測定コミュニティの本拠地のままになります。 近い将来、これらのリソースを Adobe Experience League にも移行する予定です。
 
 ## 何が変わっていますか？ {#whats-changing}
 
@@ -40,9 +40,9 @@ Adobe Marketo Engage サポートプロセスに対する今後の変更点に�
 
 ## その他のリソース {#additional-resources}
 
-* [Adobe Admin Consoleを使用して、Adobeの使用権限を組織全体で管理する方法 ](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html){target="_blank"} ついて説明します。
+* [Adobe Admin Consoleを使用して、Adobeの使用権限を組織全体で管理する方法 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/admin-roles.html){target="_blank"} ついて説明します。
 
-* Adobe IDを使用してMarketo Engageにログインする方法について詳しくは [ こちらを参照 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} してください。
+* Adobe IDを使用してMarketo Engageにログインする方法について詳しくは [&#x200B; こちらを参照 &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"} してください。
 
 * [Adobe Experience League](https://experienceleague.adobe.com/ja?lang=ja){target="_blank"} の詳細情報。
 

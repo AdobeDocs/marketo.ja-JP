@@ -21,7 +21,7 @@ ht-degree: 77%
 
 >[!NOTE]
 >
->この機能は、Marketo Engageの IP ベースのログイン制限とは無関係に動作し（Admin Consoleの IP アクセスリスト*に置き換えられます）、[Adobe IMSの移行後も引き続き機能し ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) す。
+>この機能は、Marketo Engageの IP ベースのログイン制限とは無関係に動作し（Admin Consoleの IP アクセスリスト*に置き換えられます）、[Adobe IMSの移行後も引き続き機能し &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md) す。
 >&#x200B;> 
 >&#x200B;>&#42;IP アクセスリストの一般提供は、2025 年第 4 四半期に予定されています。
 

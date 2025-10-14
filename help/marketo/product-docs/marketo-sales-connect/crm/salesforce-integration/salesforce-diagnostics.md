@@ -65,7 +65,7 @@ ht-degree: 48%
 **エラー：**&#x200B;EXPIRED_ACCESS
 **カテゴリ：**&#x200B;認証
 **メッセージ：**&#x200B;invalid_grant: expired access/refresh token
-**状況：**&#x200B;アクセスまたは更新トークンの期限が切れています。トークンは [ [!DNL Salesforce] のセッション設定](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)に基づいて期限切れになります。
+**状況：**&#x200B;アクセスまたは更新トークンの期限が切れています。トークンは [&#x200B; [!DNL Salesforce] のセッション設定](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)に基づいて期限切れになります。
 **トラブルシューティング手順：**&#x200B;再認証が必要になります。[!DNL Salesforce] 接続を切断し、再接続します。
 
 <br> 

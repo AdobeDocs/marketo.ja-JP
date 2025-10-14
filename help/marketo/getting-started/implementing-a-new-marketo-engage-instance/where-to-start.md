@@ -14,7 +14,7 @@ ht-degree: 6%
 
 新しいAdobe Marketo Engage インスタンスへようこそ。 強力なマーケティング自動化機能を使用して、マーケティングタスクとワークフローを合理化、自動化、測定する準備を整えます。
 
-この「新しいMarketo Engage インスタンスの実装」ガイドでは、インスタンスをシームレスに実装して長期的なハイジーンと運用効率を確保するためのベストプラクティスを説明します。 各チェックリストは、設定の進行状況を追跡するのに役立つ手順を提供します。 [ ダウンロード可能なチェックリスト ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} を使用して、今後のインスタンス監査とユーザーのオンボーディングに関する作業を文書化します。
+この「新しいMarketo Engage インスタンスの実装」ガイドでは、インスタンスをシームレスに実装して長期的なハイジーンと運用効率を確保するためのベストプラクティスを説明します。 各チェックリストは、設定の進行状況を追跡するのに役立つ手順を提供します。 [&#x200B; ダウンロード可能なチェックリスト &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} を使用して、今後のインスタンス監査とユーザーのオンボーディングに関する作業を文書化します。
 
 ## 初期設定 {#initial-setup}
 
@@ -22,13 +22,13 @@ ht-degree: 6%
 
 * [設定手順](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
-* [ プロトコルの設定 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}
+* [&#x200B; プロトコルの設定 &#x200B;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}
 
-* [ ユーザー設定チェックリスト ](/help/marketo/getting-started/initial-setup/user-setup.md){target="_blank"}
+* [&#x200B; ユーザー設定チェックリスト &#x200B;](/help/marketo/getting-started/initial-setup/user-setup.md){target="_blank"}
 
 ## 新しいMarketo Engage インスタンスのベストプラクティスチェックリスト {#best-practice-checklists-new-instance}
 
-Marketo Engage インスタンス [ 新しい実装管理者チェックリスト ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} をダウンロードするか、以下のオンラインガイドを参照してください。
+Marketo Engage インスタンス [&#x200B; 新しい実装管理者チェックリスト &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"} をダウンロードするか、以下のオンラインガイドを参照してください。
 
 * [「管理者」セクション](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
@@ -40,11 +40,11 @@ Marketo Engage インスタンス [ 新しい実装管理者チェックリス�
 
 * [分析](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md){target="_blank"}
 
-* [ 新しいインスタンス設定のドキュメント化 ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
+* [&#x200B; 新しいインスタンス設定のドキュメント化 &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## 他のユーザーとつながる {#connect-with-your-peers}
 
-[Adobe Marketo Engage コミュニティ ](https://nation.marketo.com/){target="_blank"} （マーケティング大国とも呼ばれます）にアクセスして、Marketo Engage社員や他のユーザーからMarketo Engage インスタンスの詳細を学びます。
+[Adobe Marketo Engage コミュニティ &#x200B;](https://nation.marketo.com/){target="_blank"} （マーケティング大国とも呼ばれます）にアクセスして、Marketo Engage社員や他のユーザーからMarketo Engage インスタンスの詳細を学びます。
 
 コミュニティの基本を学ぶ：
 

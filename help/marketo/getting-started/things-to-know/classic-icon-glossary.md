@@ -12,7 +12,7 @@ ht-degree: 96%
 
 # クラシックアイコン用語集 {#classic-icon-glossary}
 
-Marketo Classic インターフェイスの古いアイコンを以下に示します。 現在のアイコンの用語集は [ こちら ](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"} にあります。
+Marketo Classic インターフェイスの古いアイコンを以下に示します。 現在のアイコンの用語集は [&#x200B; こちら &#x200B;](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"} にあります。
 
 **一般アイコン**
 

@@ -30,7 +30,7 @@ ht-degree: 82%
 >
 >優先度は、訪問者が複数のダイアログに同時に振り分けた場合に、どのダイアログを訪問者に表示するかを決定します。
 
-次に、[ ストリームの作成 ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} 方法を説明します。
+次に、[&#x200B; ストリームの作成 &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"} 方法を説明します。
 
 >[!MORELIKETHIS]
 >

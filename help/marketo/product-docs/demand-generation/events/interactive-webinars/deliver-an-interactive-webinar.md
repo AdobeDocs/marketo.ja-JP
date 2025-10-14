@@ -60,7 +60,7 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >詳しくは、[ イベントのパフォーマンスと録画 ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} を参照してください。
+   >詳しくは、[&#x200B; イベントのパフォーマンスと録画 &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"} を参照してください。
 
 ## 参加者のエクスペリエンス {#participant-experience}
 
@@ -84,7 +84,7 @@ ht-degree: 2%
 
 「ホスト&amp;プレゼンターエリア」 （「バックステージ」とも呼ばれます）は、会議室の右側にあるプライベートエリアで、ホストとプレゼンターのみが見ることができます。 イベントの前、中、後に共同作業に使用できます。 チャット、メモ、その他のポッドを、ホストとプレゼンターのエリア内のバックチャネルとして使用します。
 
-アクセスするには、部屋のドロップダウンメニューから **ホストとプレゼンターのエリア** を選択します。 この領域について詳しくは、[ 次のビデオ ](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} を参照してください。
+アクセスするには、部屋のドロップダウンメニューから **ホストとプレゼンターのエリア** を選択します。 この領域について詳しくは、[&#x200B; 次のビデオ &#x200B;](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"} を参照してください。
 
 ### ブロードキャスト制御 {#broadcast-controls}
 
@@ -92,7 +92,7 @@ ht-degree: 2%
 
 緑の部屋を出た後に自動的に録音を開始するように、ブロードキャストコントロールを設定できます。 これにより、ホストが手動で録画を開始および停止する必要がなくなります。 放送を一時停止または停止すると、録画も一時停止または停止されます。 すべてが自動です。
 
-ブロードキャスト制御について詳しくは [ このビデオを参照 ](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}。
+ブロードキャスト制御について詳しくは [&#x200B; このビデオを参照 &#x200B;](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}。
 
 ### レコーディング内のチャット {#chats-in-recordings}
 
@@ -104,7 +104,7 @@ ht-degree: 2%
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-詳しくは、[ チャットパネル ](https://helpx.adobe.com/jp/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} を参照してください。
+詳しくは、[&#x200B; チャットパネル &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} を参照してください。
 
 ### 準備モード {#prepare-mode}
 
@@ -122,21 +122,21 @@ ht-degree: 2%
 
 これにより、準備モードがオフになり、アクティブなレイアウトに戻ります。
 
-準備モードについて詳しくは [ このビデオを参照 ](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}。
+準備モードについて詳しくは [&#x200B; このビデオを参照 &#x200B;](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}。
 
 >[!NOTE]
 >
 >* ライブポッドに対して行われた変更は、即座に参加者に反映されます。
->* [ チャットパネル ](https://helpx.adobe.com/jp/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} は準備モードの一部ではなく、変更は参加者に即座に反映されます。
+>* [&#x200B; チャットパネル &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} は準備モードの一部ではなく、変更は参加者に即座に反映されます。
 
 ### アクセシビリティ {#accessibility}
 
 Adobeは、インタラクティブウェビナーのアクセシビリティを向上させることにより、発表者や障がいのある参加者を含めるよう努めています。 このソフトウェアは、あらゆるタイプのユーザーのニーズに応え、視覚、聴覚、運動などの障害を持つユーザーも含めた世界標準に準拠するように継続的に強化されています。
 
-Adobe Connectが視覚、聴覚、運動のニーズ [ に対する支援を提供する方法について説明 ](https://helpx.adobe.com/jp/adobe-connect/using/accessibility-features.html){target="_blank"} ます。
+Adobe Connectが視覚、聴覚、運動のニーズ [&#x200B; に対する支援を提供する方法について説明 &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/accessibility-features.html){target="_blank"} ます。
 
 ### クローズドキャプション {#closed-captions}
 
 クローズドキャプションは、Adobe Connect ルーム内の音声をテキストで表現したもので、耳が聞こえない参加者や聞こえにくい参加者がイベントに参加するのに役立ちます。 オーディオコンテンツのリアルタイムキャプションをイベントに統合し、これらのキャプションをクローズドキャプション表示に表示できます。
 
-詳細情報 [ クローズドキャプションを有効にする ](https://helpx.adobe.com/jp/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
+詳細情報 [&#x200B; クローズドキャプションを有効にする &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。

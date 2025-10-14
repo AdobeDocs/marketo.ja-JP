@@ -19,7 +19,7 @@ ht-degree: 50%
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
 
-まず、[!DNL Level 3] でウェビナーを作成します。 サポートが必要な場合は、[[!DNL Level 3]  リソースライブラリ ](https://www.level3.com/en/resource-library/) をご覧ください。 [!DNL BrightTalk] によく似ていることがわかります。  Marketoでは、[!DNL Level 3] のフィールドの小さなサブセットを使用します。
+まず、[!DNL Level 3] でウェビナーを作成します。 サポートが必要な場合は、[[!DNL Level 3]  リソースライブラリ &#x200B;](https://www.level3.com/en/resource-library/) をご覧ください。 [!DNL BrightTalk] によく似ていることがわかります。  Marketoでは、[!DNL Level 3] のフィールドの小さなサブセットを使用します。
 
 * **名前** - Web キャストの名前。
 * **開始日** - Web キャストの開始日。

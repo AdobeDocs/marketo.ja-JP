@@ -180,4 +180,4 @@ ht-degree: 93%
 
 ## お知らせ {#announcements}
 
-* **_製品リリースウェビナー_**:[2023 年 3 月および 5 月のMarketo Engage リリースウェビナー ](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**:[2023 年 3 月および 5 月のMarketo Engage リリースウェビナー &#x200B;](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

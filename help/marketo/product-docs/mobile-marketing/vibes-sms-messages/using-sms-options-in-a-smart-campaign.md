@@ -12,15 +12,15 @@ ht-degree: 49%
 
 # スマートキャンペーンでの SMS オプションの使用 {#using-sms-options-in-a-smart-campaign}
 
-[SMS メッセージを作成 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} した後は、スマートキャンペーン内でスマートリストのトリガーとフィルターを使用して、メリットを享受できます。
+[SMS メッセージを作成 &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} した後は、スマートキャンペーン内でスマートリストのトリガーとフィルターを使用して、メリットを享受できます。
 
 >[!NOTE]
 >
->SMS メッセージを送信する場合は、[ 特定の記事 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} を用意しています。
+>SMS メッセージを送信する場合は、[&#x200B; 特定の記事 &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} を用意しています。
 
 >[!PREREQUISITES]
 >
->SMS トリガー/フィルターは、[Vibes サービスが有効 ](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"} になっている場合にのみ表示されます。
+>SMS トリガー/フィルターは、[Vibes サービスが有効 &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"} になっている場合にのみ表示されます。
 
 ## SMS トリガー {#sms-triggers}
 
@@ -86,6 +86,6 @@ SMS フローステップは 3 つから選択できます。
 
 >[!MORELIKETHIS]
 >
->* [SMS メッセージの送信 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [SMS メッセージの送信 &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
 >* [スマートキャンペーン用スマートリストの定義 |トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
 >* [スマートキャンペーン用スマートリストの定義 | バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

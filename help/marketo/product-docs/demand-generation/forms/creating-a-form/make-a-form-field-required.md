@@ -13,7 +13,7 @@ ht-degree: 42%
 
 # フォームフィールドを必須にする {#make-a-form-field-required}
 
-[ フォームにフィールドを追加 ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} する際に、フィールドの入力者に対して、いくつかのフィールドを必須にする必要がある場合があります。 手順は次のとおりです。
+[&#x200B; フォームにフィールドを追加 &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} する際に、フィールドの入力者に対して、いくつかのフィールドを必須にする必要がある場合があります。 手順は次のとおりです。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -41,8 +41,8 @@ ht-degree: 42%
 
 >[!NOTE]
 >
->このフォームは変更の反映まで有効です。[ すべてのランディングページを承認 ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} することを忘れないでください。
+>このフォームは変更の反映まで有効です。[&#x200B; すべてのランディングページを承認 &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} することを忘れないでください。
 
 >[!MORELIKETHIS]
 >
->[ フォームに追加したフィールドの並べ替え ](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"}
+>[&#x200B; フォームに追加したフィールドの並べ替え &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"}

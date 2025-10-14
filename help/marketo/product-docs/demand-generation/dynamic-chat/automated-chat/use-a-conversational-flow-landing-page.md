@@ -17,7 +17,7 @@ Dynamic Chatの会話フローをMarketo Engage ランディングページに�
 
 >[!PREREQUISITES]
 >
->[ ミーティング予約 ](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) カードのみを含むシンプルな **会話フロー** を作成します。
+>[&#x200B; ミーティング予約 &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) カードのみを含むシンプルな **会話フロー** を作成します。
 
 ## ガイド付きランディングページ {#guided-landing-pages}
 

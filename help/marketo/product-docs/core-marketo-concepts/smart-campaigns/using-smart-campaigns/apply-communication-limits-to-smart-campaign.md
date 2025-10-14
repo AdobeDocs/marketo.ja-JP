@@ -37,6 +37,6 @@ ht-degree: 84%
 
 >[!TIP]
 >
->これをデフォルトにするには、「管理者」セクションで [ 通信の制限 ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} を編集します。
+>これをデフォルトにするには、「管理者」セクションで [&#x200B; 通信の制限 &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} を編集します。
 
 誤ってオーディエンスに大量のメールを送信しないようにすることができます。

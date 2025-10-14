@@ -23,7 +23,7 @@ ht-degree: 72%
 
 >[!CAUTION]
 >
->[!DNL Account Insight] プラグインは、[SSO のみ ](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) （シングルサインオン）が有効になっているサブスクリプションでは機能しません。
+>[!DNL Account Insight] プラグインは、[SSO のみ &#x200B;](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) （シングルサインオン）が有効になっているサブスクリプションでは機能しません。
 
 >[!CAUTION]
 >

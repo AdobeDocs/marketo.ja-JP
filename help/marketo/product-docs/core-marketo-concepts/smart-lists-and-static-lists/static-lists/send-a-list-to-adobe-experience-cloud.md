@@ -94,9 +94,9 @@ ht-degree: 84%
 
 ### Adobe Analyticsへの共有 {#sharing-to-adobe-analytics}
 
-* Adobe Audience ManagerとAdobe Analyticsの両方を所有するユーザーの場合、この統合により、オーディエンスをMarketoからAdobe Analytics レポートスイートに共有できますが、これを有効にするには、Adobe Audience Managerでいくつかの追加設定手順を実行する必要があります。 設定方法について詳しくは、[Adobe Audience Managerのドキュメント ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"} を参照してください。
+* Adobe Audience ManagerとAdobe Analyticsの両方を所有するユーザーの場合、この統合により、オーディエンスをMarketoからAdobe Analytics レポートスイートに共有できますが、これを有効にするには、Adobe Audience Managerでいくつかの追加設定手順を実行する必要があります。 設定方法について詳しくは、[Adobe Audience Managerのドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"} を参照してください。
 
-* リストをMarketoからAdobe Audience Managerにアップロードした後は、Adobe Targetからアクセスすることもできます。 この設定は [Adobe Targetで有効にする必要があります ](https://experienceleague.adobe.com/ja/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
+* リストをMarketoからAdobe Audience Managerにアップロードした後は、Adobe Targetからアクセスすることもできます。 この設定は [Adobe Targetで有効にする必要があります &#x200B;](https://experienceleague.adobe.com/ja/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}。
 
 * リストが空の場合、または ECID 値を持つユーザーがいない場合、リスト名はプッシュされず、Marketoの外部で参照されません。
 

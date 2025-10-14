@@ -36,4 +36,4 @@ ht-degree: 9%
 
 >[!TIP]
 >
->「登録解除メッセージを追加」設定を無効にした場合、通信にオプトアウトオプションが含まれるように、テンプレートに登録解除フッターを追加することをお勧めします。 これを行うには、各テンプレートに独自のカスタムメッセージを追加するか、`{{team_unsubscribe}}` [ 動的フィールド ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} を使用します。
+>「登録解除メッセージを追加」設定を無効にした場合、通信にオプトアウトオプションが含まれるように、テンプレートに登録解除フッターを追加することをお勧めします。 これを行うには、各テンプレートに独自のカスタムメッセージを追加するか、`{{team_unsubscribe}}` [&#x200B; 動的フィールド &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} を使用します。

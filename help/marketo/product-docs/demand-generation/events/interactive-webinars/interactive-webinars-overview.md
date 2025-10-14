@@ -16,7 +16,7 @@ ht-degree: 97%
 
 >[!IMPORTANT]
 >
->Adobe Connect によるインタラクティブウェビナーは、Adobe Connect へのビルトイン統合を備えた機能です。インタラクティブウェビナーの使用には、追加の利用条件が適用されます。追加条件については、契約書を確認するか、[Adobeにお問い合わせ ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} ください。
+>Adobe Connect によるインタラクティブウェビナーは、Adobe Connect へのビルトイン統合を備えた機能です。インタラクティブウェビナーの使用には、追加の利用条件が適用されます。追加条件については、契約書を確認するか、[Adobeにお問い合わせ &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} ください。
 
 ## インタラクティブウェビナーとは {#what-is-interactive-webinars}
 

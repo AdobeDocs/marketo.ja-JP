@@ -12,7 +12,7 @@ ht-degree: 11%
 
 # SMS メッセージの送信 {#send-a-vibes-sms-message}
 
-[SMS メッセージが作成されました ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}。次に送信します。 バッチまたはトリガーキャンペーンを介して送信できます。
+[SMS メッセージが作成されました &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}。次に送信します。 バッチまたはトリガーキャンペーンを介して送信できます。
 
 >[!NOTE]
 >
@@ -76,5 +76,5 @@ ht-degree: 11%
 
 >[!MORELIKETHIS]
 >
->* [Vibes メッセージの作成 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
->* [ スマートキャンペーンでの SMS オプションの使用 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}
+>* [Vibes メッセージの作成 &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
+>* [&#x200B; スマートキャンペーンでの SMS オプションの使用 &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

@@ -61,4 +61,4 @@ ht-degree: 52%
 
 >[!TIP]
 >
->[ アクティビティログ ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} を使用して、スマートキャンペーン内で何が発生したかを段階的に確認できます。 アクティビティログは、各リードの詳細ページにある一番右側のタブから確認できます。
+>[&#x200B; アクティビティログ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} を使用して、スマートキャンペーン内で何が発生したかを段階的に確認できます。 アクティビティログは、各リードの詳細ページにある一番右側のタブから確認できます。

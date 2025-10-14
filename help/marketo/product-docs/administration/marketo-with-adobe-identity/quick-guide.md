@@ -38,7 +38,7 @@ Marketo Engage API 専用ユーザは Marketo Engage で作成および管理す
 
 ## CSV を使用したユーザの追加 {#add-users-via-csv}
 
-[CSV の読み込み ](https://helpx.adobe.com/jp/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[CSV の読み込み &#x200B;](https://helpx.adobe.com/jp/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## ユーザログイン {#user-sign-in}
 

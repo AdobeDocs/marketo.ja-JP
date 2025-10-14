@@ -54,4 +54,4 @@ Audience Manager、B2B CDP Marketo コネクタ、[!DNL Dynamic Chat]などの�
 
 1. _まだログインしていない_&#x200B;場合は、新しいタブ／ウィンドウにポップアップが表示されます。アドビ組織にログインします（このアクションで組織アクセスが検証されます）。
 
-Adobe Experience Cloudから [ オーディエンスデータを共有 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} または [ オーディエンスを同期 ](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} できるようになりました。
+Adobe Experience Cloudから [&#x200B; オーディエンスデータを共有 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} または [&#x200B; オーディエンスを同期 &#x200B;](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} できるようになりました。

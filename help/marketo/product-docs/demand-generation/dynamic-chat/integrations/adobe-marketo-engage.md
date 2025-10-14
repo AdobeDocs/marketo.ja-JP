@@ -18,7 +18,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->Dynamic Chatでは、[Marketo ネイティブ ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} およびカスタムの人物フィールドと会社フィールドの同期をサポートしています。
+>Dynamic Chatでは、[Marketo ネイティブ &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} およびカスタムの人物フィールドと会社フィールドの同期をサポートしています。
 
 1. マイ Marketo で、**[!UICONTROL 動的チャット]**&#x200B;タイルをクリックします。
 

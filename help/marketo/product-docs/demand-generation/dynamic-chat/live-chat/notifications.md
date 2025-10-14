@@ -28,7 +28,7 @@ ht-degree: 80%
 
 ### Windows 版 Chrome
 
-Googleでは、Windows のブラウザー通知を有効にする手順について [ この記事 ](https://support.mozilla.org/ja-JP/kb/push-notifications-firefox){target="_blank"} で概要を説明しています。
+Googleでは、Windows のブラウザー通知を有効にする手順について [&#x200B; この記事 &#x200B;](https://support.mozilla.org/ja-JP/kb/push-notifications-firefox){target="_blank"} で概要を説明しています。
 
 ### Mac OS 版 Chrome
 
@@ -36,14 +36,14 @@ Googleでは、Windows のブラウザー通知を有効にする手順につい
 
 ## Firefox で通知を有効にする{#enable-notifications-in-firefox}
 
-Firefox では、様々なブラウザーバージョンとオペレーティングシステムの手順について [ この記事 ](https://support.mozilla.org/ja-JP/kb/push-notifications-firefox){target="_blank"} で概要を説明しています。
+Firefox では、様々なブラウザーバージョンとオペレーティングシステムの手順について [&#x200B; この記事 &#x200B;](https://support.mozilla.org/ja-JP/kb/push-notifications-firefox){target="_blank"} で概要を説明しています。
 
 ## OS 通知 {#os-notifications}
 
 エージェントがブラウザーで通知を許可した後も通知を受信しない場合は、OS の通知設定でブラウザーの通知を有効にする必要がある場合があります。
 
-[ 通知：Mac](https://support.apple.com/ja-jp/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+[&#x200B; 通知：Mac](https://support.apple.com/ja-jp/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
-[ 通知：Windows](https://support.microsoft.com/ja-jp/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+[&#x200B; 通知：Windows](https://support.microsoft.com/ja-jp/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
 MSI アクション通知が発生したことがありますか？

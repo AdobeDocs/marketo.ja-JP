@@ -15,8 +15,8 @@ ht-degree: 87%
 
 * Salesforce に接続していることを確認してください。各ユーザーは、メールおよび電話を Salesforce に記録するために接続している必要があります。
 * [Salesforce 同期設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}が設定されていることを確認してください。
-* メールは、プライマリルックアップとしての Salesforce ID およびセカンダリとしてのメールアドレスに基づいてレコードルックアップを行います。[ アクション web アプリ ](https://toutapp.com/next#command_center){target="_blank"} で、人物レコードにSalesforce ID とメールアドレスのリンクがあることを確認できます。
-* 電話は、Salesforce ID のみに基づいてレコードルックアップを行います。Actions の人物レコードに Salesforce ID が存在しない場合、電話は記録されません。[ アクション web アプリ ](https://toutapp.com/next#command_center){target="_blank"} で、人物レコードにSalesforce ID がリンクされていることを確認できます。
+* メールは、プライマリルックアップとしての Salesforce ID およびセカンダリとしてのメールアドレスに基づいてレコードルックアップを行います。[&#x200B; アクション web アプリ &#x200B;](https://toutapp.com/next#command_center){target="_blank"} で、人物レコードにSalesforce ID とメールアドレスのリンクがあることを確認できます。
+* 電話は、Salesforce ID のみに基づいてレコードルックアップを行います。Actions の人物レコードに Salesforce ID が存在しない場合、電話は記録されません。[&#x200B; アクション web アプリ &#x200B;](https://toutapp.com/next#command_center){target="_blank"} で、人物レコードにSalesforce ID がリンクされていることを確認できます。
 
 **Salesforce アップデートにアクティビティフィールドが表示されません。**
 

@@ -16,7 +16,7 @@ ht-degree: 94%
 
 以下の 2 つの異なる方法を使用して、ボットアクティビティを確認します。
 
-* [ インタラクティブAdvertisingビューローボットリスト ](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"} との一致：IAB UA/IP （ユーザーエージェント/IP アドレス）リストのすべての項目と一致するアクティビティは、ボットとしてマークされます。
+* [&#x200B; インタラクティブAdvertisingビューローボットリスト &#x200B;](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"} との一致：IAB UA/IP （ユーザーエージェント/IP アドレス）リストのすべての項目と一致するアクティビティは、ボットとしてマークされます。
 * 近接性パターンと一致：同時に 2 つ以上のアクティビティが発生した場合（1 秒未満）、それらはボットとして識別されます。比較時に考慮される属性は以下のとおりです。
    * リード ID（同じであること）
    * メールアセット（同じであること）

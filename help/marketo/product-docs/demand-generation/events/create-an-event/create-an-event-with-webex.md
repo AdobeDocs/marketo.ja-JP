@@ -23,7 +23,7 @@ Webex でウェビナーを作成したら、イベントをMarketo Engageと同
 
 ## ウェビナーのスケジュール設定 {#schedule-your-webinar}
 
-イベントのスケジュールを設定し、[Webex](https://www.webex.com/){target="_blank"} で優先設定を選択します。 Marketoに表示できる情報は、ウェビナー名、開始日/終了日時、タイムゾーン、説明のみです。 Webex ウェビナーに関する追加情報 [ こちらを参照 ](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}。
+イベントのスケジュールを設定し、[Webex](https://www.webex.com/){target="_blank"} で優先設定を選択します。 Marketoに表示できる情報は、ウェビナー名、開始日/終了日時、タイムゾーン、説明のみです。 Webex ウェビナーに関する追加情報 [&#x200B; こちらを参照 &#x200B;](https://help.webex.com/en-us/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}。
 
 ### 基本情報 {#basic-information}
 

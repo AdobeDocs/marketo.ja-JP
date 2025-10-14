@@ -14,7 +14,7 @@ ht-degree: 6%
 
 # Redpen テスト {#redpen-test}
 
-Marketo Engage を使用する際に目にする可能性のある多くの用語の定義を以下に示します。期間の追加をリクエストするには、[ メールを送信 ](mailto:GRP-Marketo-articlefeedback@adobe.com) してください。
+Marketo Engage を使用する際に目にする可能性のある多くの用語の定義を以下に示します。期間の追加をリクエストするには、[&#x200B; メールを送信 &#x200B;](mailto:GRP-Marketo-articlefeedback@adobe.com) してください。
 
 誤った文法を使用して Redpen をテストする場合は、文法上の誤りを意図的に含む段落を記述します。 次に、Redpen ツールを実行して、ドキュメントのエラーを分析します。 文法の誤りごとに、Redpen が推奨する修正内容を確認します。
 

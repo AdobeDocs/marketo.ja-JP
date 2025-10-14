@@ -17,7 +17,7 @@ ht-degree: 39%
 
 >[!NOTE]
 >
->Marketo Engageが [ フォームの安全性を確保 ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038) するために行っていることを説明します。
+>Marketo Engageが [&#x200B; フォームの安全性を確保 &#x200B;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038) するために行っていることを説明します。
 
 1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
 

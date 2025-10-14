@@ -23,7 +23,7 @@ ht-degree: 28%
 
    >[!TIP]
    >
-   >必要に応じて、[ 複数のページを一度に承認 ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) できます。
+   >必要に応じて、[&#x200B; 複数のページを一度に承認 &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) できます。
 
 また、左側のナビゲーションでランディングページを右クリックし、「**[!UICONTROL 承認]**」を選択することもできます。
 
@@ -45,7 +45,7 @@ ht-degree: 28%
 
 >[!NOTE]
 >
->承認されていないランディングページは web に公開されなくなり、アクティビティは追加されません。 未承認のランディングページとその Facebook タブへの訪問者には、[ フォールバックページ ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md) が表示されます。
+>承認されていないランディングページは web に公開されなくなり、アクティビティは追加されません。 未承認のランディングページとその Facebook タブへの訪問者には、[&#x200B; フォールバックページ &#x200B;](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md) が表示されます。
 
 ## ランディングページの削除 {#delete-a-landing-page}
 

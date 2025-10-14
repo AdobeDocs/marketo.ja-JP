@@ -33,7 +33,7 @@ ht-degree: 57%
 
    >[!NOTE]
    >
-   >通信の制限は、デフォルトではスマートキャンペーンには適用されません。 スマートキャンペーンに通信制限を適用する [ 方法を説明 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} ます。
+   >通信の制限は、デフォルトではスマートキャンペーンには適用されません。 スマートキャンペーンに通信制限を適用する [&#x200B; 方法を説明 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} ます。
 
    >[!NOTE]
    >
