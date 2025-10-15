@@ -4,10 +4,10 @@ description: ロールの権限の説明 - Marketo ドキュメント - 製品�
 title: ロール権限の説明
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
 workflow-type: tm+mt
-source-wordcount: '1447'
-ht-degree: 100%
+source-wordcount: '1451'
+ht-degree: 98%
 
 ---
 
@@ -120,7 +120,7 @@ Design Studio のタブとツリーの表示にアクセスできるが、詳細
 
 * メールにアクセス
    * メールの編集 - メールを編集、作成、複製できるようにします
-      * メールを運用可能にする - メールを運用可能にできるようにします詳しくは、[メールを操作可能にする](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)をご覧ください
+      * 運用用メールの作成と編集 – 運用用メールを作成および編集する権限をユーザーに付与します。 詳しくは、[メールを操作可能にする](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)をご覧ください
 
       * メールの承認 - メールを承認できるようにします。
       * メールの削除 - メールを削除できるようにします。
