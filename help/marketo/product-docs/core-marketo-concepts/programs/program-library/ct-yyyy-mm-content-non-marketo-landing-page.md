@@ -14,7 +14,7 @@ ht-degree: 16%
 
 これは、Marketo Engageのデフォルトプログラムを使用してMarketo Engage以外のランディングページのコンテンツをダウンロードするための、Marketo Engage フォームを含むコンテンツプログラムの例です。 このプログラムは、Web サイトに埋め込まれたMarketo Engage フォームで動作することを目的としています。 オファー/コンテンツへのリンクは、お礼メールで送信できます。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

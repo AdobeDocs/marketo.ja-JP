@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Marketo Engageエンゲージメントプログラムを活用した高度人材育成プログラムの一例です。 ネストされたメールプログラムは、既に消費したコンテンツをユーザーが受信するのを防いだり、各ストリームで消費するコンテンツのタイプを制御したりできます。 アトリビューションレポートは、ネストされた電子メールプログラムごとに実行できます。 チャネル：「ナーチャー」と、ネストされたメールプログラム用の専用「ナーチャー E メール」チャネルが、Marketo Engageのメールプログラムを利用して 1 通のニュースレターメールを送信します。 メールには、A/B テストを含めることも、含めないこともできます。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

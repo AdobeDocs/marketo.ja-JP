@@ -64,6 +64,6 @@ Marketing Nation コミュニティで適切に設定されていることを確
 
 * **[Adobe Marketo Engage コミュニティ](https://nation.marketo.com/){target="_blank"}**&#x200B;では Marketo Engage ユーザとつながり、知識を深めることができます。
 
-* Marketo Engage インスタンスを最大限に活用するための実践的なサポートが必要な場合は、**[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}** にお問い合わせください。
+* Marketo Engage インスタンスを最大限に活用するための実践的なサポートが必要な場合は、**[Adobe Professional Services](https://business.adobe.com/jp/products/marketo/services-support.html){target="_blank"}** にお問い合わせください。
 
 * Marketo Engage の様々な側面に関する&#x200B;**[厳選されたチュートリアルビデオを](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja){target="_blank"}**&#x200B;ご覧ください。

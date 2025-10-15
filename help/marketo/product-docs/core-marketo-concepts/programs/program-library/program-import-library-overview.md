@@ -14,7 +14,7 @@ ht-degree: 12%
 
 Marketo Engage参照ライブラリには、Marketo インスタンスに直接読み込んで、チームをサポートするプログラムを構築するためのキックスタートを実行できるスタータープログラムがいくつか含まれています。
 
-ライブラリには、メール、エンゲージメント、イベント、スコアリング、配信品質、運用などのプログラムが含まれます。 すべてのプログラムは、Adobe製品チームが開発し、質と効果を最大限に高めるために [&#x200B; グローバルプロフェッショナルサービス &#x200B;](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} チームが審査しました。
+ライブラリには、メール、エンゲージメント、イベント、スコアリング、配信品質、運用などのプログラムが含まれます。 すべてのプログラムは、Adobe製品チームが開発し、質と効果を最大限に高めるために [&#x200B; グローバルプロフェッショナルサービス &#x200B;](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} チームが審査しました。
 
 ## 使用可能なプログラムの例 {#available-program-examples}
 

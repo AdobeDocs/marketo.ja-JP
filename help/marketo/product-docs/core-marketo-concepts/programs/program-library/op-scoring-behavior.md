@@ -14,7 +14,7 @@ ht-degree: 31%
 
 この例は、Marketo Engageのデフォルトプログラムを使用した、行動スコアリングの高度な（トークン化された）運用プログラムです。 プログラムの「マイトークン」タブでスコアリング値を表示および編集します。 「行動スコア」というカスタムスコアフィールドが必要です。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

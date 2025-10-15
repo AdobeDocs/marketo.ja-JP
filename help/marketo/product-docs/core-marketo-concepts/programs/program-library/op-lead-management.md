@@ -18,7 +18,7 @@ ht-degree: 16%
 >
 >Marketo Engageでは、データベース内のレコードは人物/人物と呼ばれます。 この例のリード管理は、CRM のレコードを参照しています。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html) のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

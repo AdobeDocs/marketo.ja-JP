@@ -30,7 +30,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->ワークスペースのベストプラクティスの詳細については、[Marketo プロフェッショナルサービス](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
+>ワークスペースのベストプラクティスの詳細については、[Marketo プロフェッショナルサービス](https://business.adobe.com/jp/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

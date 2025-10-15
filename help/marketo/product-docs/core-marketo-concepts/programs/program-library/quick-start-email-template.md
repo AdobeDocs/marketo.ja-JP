@@ -24,7 +24,7 @@ Marketo Engageのメールエディターには、レイアウトを変更し、
 
 * **変数**：モジュールを選択すると、エディターの右側に変数が表示されます。 これらは、画像やテキスト要素を使用して簡単に編集できないモジュールの属性を調整するために使用できます。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## モジュールの概要 {#modules-summary}
 

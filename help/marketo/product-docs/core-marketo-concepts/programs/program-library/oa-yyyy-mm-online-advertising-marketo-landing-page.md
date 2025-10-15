@@ -14,7 +14,7 @@ ht-degree: 15%
 
 これは、登録フォームを含むMarketo ランディングページを含み、Marketoのデフォルトプログラムを利用する、オンライン広告トラッキングプログラムの例です。 オファーへのリンクは、ありがとうページに表示したり、ありがとうメールで送信したりできます。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
