@@ -33,7 +33,7 @@ ht-degree: 76%
 
    >[!NOTE]
    >
-   >新しいフォームを作成すると、[!UICONTROL 姓][!UICONTROL 名]と[!UICONTROL メールアドレス]は自動的に追加されます。
+   >新しいフォームを作成すると、[!UICONTROL 姓]&#x200B;[!UICONTROL 名]と[!UICONTROL メールアドレス]は自動的に追加されます。
 
 1. フォームに追加するフィールドを探して選択します。
 

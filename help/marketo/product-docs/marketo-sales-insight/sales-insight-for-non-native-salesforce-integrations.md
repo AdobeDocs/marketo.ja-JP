@@ -164,7 +164,7 @@ ht-degree: 52%
 
 1. 連絡先 [!DNL Salesforce] 役割をMarketoに同期します。
 
-   [!DNL Salesforce][!DNL Salesforce] 商談の連絡先ロールは、Marketo商談ロールを介して同期できます。 商談ロールレコードには、「*externalOpportunityId*」、「*role*」および「*leadId*」フィールドが必須です。
+   [!DNL Salesforce]&#x200B;[!DNL Salesforce] 商談の連絡先ロールは、Marketo商談ロールを介して同期できます。 商談ロールレコードには、「*externalOpportunityId*」、「*role*」および「*leadId*」フィールドが必須です。
 
    <table>
     <colgroup>
