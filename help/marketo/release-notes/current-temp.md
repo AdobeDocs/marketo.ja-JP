@@ -5,16 +5,16 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 76%
+source-wordcount: '538'
+ht-degree: 86%
 
 ---
 
-# リリースノート：2025年9月 {#release-notes-sep-25}
+# リリースノート：2025年10月 {#release-notes-oct-25}
 
-以下に、2025 年 9 月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+以下に、2025 年 10 月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
@@ -24,7 +24,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-次の機能は標準リリースサイクルに従っており、**2025年9月19日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに該当し、リリースは **2025年10月31日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -34,17 +34,63 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong> オンデマンドのウェビナーアクティビティの保持 </strong>：インタラクティブウェビナーのユーザーは、30 日以上オンデマンドのウェビナーダッシュボードのデータを使用できるようになりました（以前は、ウェビナーの日から最大 30 日でした）。</td>
+   <td><strong> タイトル </strong>：テキスト</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> タイトル </strong>：テキスト</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> タイトル </strong>：テキスト</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> タイトル </strong>：テキスト</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+ <tr>
+   <td><strong> タイトル </strong>：テキスト</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr>
   </tbody>
 </table>
 <br/>
 
 ## お知らせ {#announcements}
 
-* **新しいメールDesignerでの Velocity スクリプティングへの戻り**:Adobe Marketo Engageは今年 6 月、新しいメールDesigner用に _条件付きコンテンツ_ と呼ばれる機能をリリースしました。 この機能は、動的コンテンツの柔軟性をもう少し高めるために、Velocity スクリプティングではなく Handlebar スクリプティングを利用していました。 しかし、一部のトークンが正しく解決されないことが判明した場合は、一時的に無効にすることにしました。 [詳細情報](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
+* **REST API のダブルスラッシュの廃止**: 2025 年 9 月 16 日（PT）に、Adobeは、新しいテクノロジーを活用し、セキュリティと拡張性を強化した REST API URL 用のより新しいホスティングインフラストラクチャに移行しました。 サブスクリプションで、URL に 2 つのスラッシュ（//）を含む API を使用している場合は、次の手順について [ この国の POST](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} を参照してください。
+
+* **新しい E メールデザイナーでの Velocity スクリプトへのスイッチバック**：Adobe Marketo Engage は今年 6 月、新しいメールデザイナー用に&#x200B;_条件付きコンテンツ_&#x200B;と呼ばれる機能をリリースしました。この機能は、動的コンテンツの柔軟性をもう少し高めるために、Velocity スクリプトではなく Handlebar スクリプトを利用していました。しかし、一部のトークンが正しく解決されないことが判明した場合は、一時的に無効にすることにしました。[詳細情報](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Marketo Engage ID の提供終了**：2025年8月に、Adobe は Marketo Engage ID のサポートの段階的な廃止を開始します（`login.marketo.com` 経由でのログイン）。Marketo Engage へのアクセスが中断されないようにするには、2025年9月30日（PT）までに [Adobe ID](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} に移行する必要があります。
 

@@ -3,9 +3,9 @@ description: OAuth 2.0 を使用したログイン - Marketo ドキュメント 
 title: OAuth 2.0 を使用したログイン
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: d51ea5140b7b4a67dbf4c18ab8a6409c08eafa7d
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
 workflow-type: tm+mt
-source-wordcount: '635'
+source-wordcount: '634'
 ht-degree: 64%
 
 ---
@@ -56,11 +56,11 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
    ![](assets/log-in-using-oauth-8.png)
 
-1. 新しい外部クライアントアプリが作成されたら、「**設定**」タブをクリックし、「**OAuth 設定**」セクションを展開します。
+1. 新しい外部クライアントアプリを作成したら、「**設定**」タブを選択し、「**OAuth 設定**」セクションを展開します。
 
    ![](assets/log-in-using-oauth-9.png)
 
-1. **コンシューマーキーとコンシューマーシークレット** ボタンをクリックし、新しいタブを開くように促します。 両方の番号をコピーして保存します（後でMarketo Engageで使用するために必要になります）。
+1. **消費者キーと秘密鍵** ボタンをクリックし、新しいタブを開くように促します。 両方の番号をコピーして保存します（後でMarketo Engageで使用するために必要になります）。
 
    ![](assets/log-in-using-oauth-10.png)
 
@@ -92,7 +92,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
    >[!CAUTION]
    >
-   >「Salesforce でログイン」ボタンではなく、「ユーザー名」、「パスワード」、「トークン」の各フィールドが表示されている場合は、Marketo サブスクリプションの基本認証が有効になっています。詳しくは、[基本認証を使用した Marketo の設定](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}を参照してください。同期が一連の資格情報を使用し始めると、Salesforce の資格情報またはサブスクリプションを切り替えられなくなります。Salesforce認証用に Oauth 2.0 を設定するには、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。
+   >「Salesforce でログイン」ボタンではなく、「ユーザー名」、「パスワード」、「トークン」の各フィールドが表示されている場合は、Marketo サブスクリプションの基本認証が有効になっています。詳しくは、[基本認証を使用した Marketo の設定](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}を参照してください。同期が一連の資格情報を使用し始めると、Salesforce の資格情報またはサブスクリプションを切り替えられなくなります。Salesforce認証用に Oauth 2.0 を設定するには、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} にお問い合わせください。
 
 1. Salesforce ログインページのポップアップが表示されます。「Marketo 同期ユーザー」資格情報をキー入力し、ログインします。
 

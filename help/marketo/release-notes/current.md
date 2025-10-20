@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
+workflow-type: tm+mt
+source-wordcount: '704'
+ht-degree: 92%
 
 ---
 
@@ -81,6 +81,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 <br/>
 
 ## お知らせ {#announcements}
+
+* **REST API のダブルスラッシュの廃止**: 2025 年 9 月 16 日（PT）に、Adobeは、新しいテクノロジーを活用し、セキュリティと拡張性を強化した REST API URL 用のより新しいホスティングインフラストラクチャに移行しました。 サブスクリプションで、URL に 2 つのスラッシュ（//）を含む API を使用している場合は、次の手順について [ この国の POST](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} を参照してください。
 
 * **新しい E メールデザイナーでの Velocity スクリプトへのスイッチバック**：Adobe Marketo Engage は今年 6 月、新しいメールデザイナー用に&#x200B;_条件付きコンテンツ_&#x200B;と呼ばれる機能をリリースしました。この機能は、動的コンテンツの柔軟性をもう少し高めるために、Velocity スクリプトではなく Handlebar スクリプトを利用していました。しかし、一部のトークンが正しく解決されないことが判明した場合は、一時的に無効にすることにしました。[詳細情報](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
