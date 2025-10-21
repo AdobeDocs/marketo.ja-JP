@@ -4,10 +4,10 @@ description: IP に基づく Marketo ログインの制限 - Marketo ドキュ�
 title: IP に基づく Marketo ログインの制限
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '236'
+ht-degree: 60%
 
 ---
 
@@ -21,7 +21,12 @@ IP アドレスに基づいて、ユーザの Marketo へのアクセスを制�
 
 >[!IMPORTANT]
 >
->この記事の情報は、login.marketo.com に直接ログインするユーザを対象としており、Adobe ID で認証するユーザには当てはまりません。現時点では、シングルサインオン（SSO）ログインに IP 制限を適用することはできません。
+>Adobe Admin Console（AAC）は、[IP ベースのアクセス制御 ](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"} をサポートしています。 スムーズな移行を確実に行うために、この機能が有効になっている場合は、2026 年第 1 四半期まで、Adobe ID ユーザーを含む既存のMarketo Engage IP 制限が有効になります。
+>
+>* AAC IP ベースのアクセスはいつでも設定できます。
+>* AAC とMarketo Engageの両方の制限を同時に実行できます。 互換性のために同じ IP 許可リストを使用します。
+>
+>2026 年第 1 四半期以降、Marketo Engageの IP 制限は廃止されます。 IP ベースのアクセスは AAC でのみ管理され、ログイン制限を適用するように設定する必要があります。 最終移行日は後日発表されます。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -50,5 +55,3 @@ IP アドレスに基づいて、ユーザの Marketo へのアクセスを制�
    >複数の制限を追加できますが、すべて許可されるか、すべてブロックされるかのいずれかとなります。許可済みとブロック済みを混在させて適合させることはできません。
 
    ![](assets/restrict-marketo-logins-based-on-ip-4.png)
-
-   これで、マーケティングデータの安全性が今まで以上に向上しました。
