@@ -21,7 +21,7 @@ ht-degree: 80%
 
 >[!NOTE]
 >
->この機能は、Marketo Engageとは独立して動作します [IP ベースのログイン制限 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}。これは、Admin Consoleの [IP ベースのアクセス制御 ](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"} に置き換えられています。 Adobe IMSの移行後も、引き続きそのまま機能します。
+>この機能は、Marketo Engageとは独立して動作します [IP ベースのログイン制限 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}。これは、Admin Consoleの [IP ベースのアクセス制御 &#x200B;](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"} に置き換えられています。 Adobe IMSの移行後も、引き続きそのまま機能します。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
