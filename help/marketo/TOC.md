@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 84f50f836d4908f0b5547598ad6b60a321b80e98
-workflow-type: ht
-source-wordcount: '9314'
-ht-degree: 100%
+source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
+workflow-type: tm+mt
+source-wordcount: '9318'
+ht-degree: 99%
 
 ---
 
@@ -278,7 +278,7 @@ ht-degree: 100%
             + [予定されているバッチキャンペーンの実行のキャンセル](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md)
             + [繰り返し予定されているバッチキャンペーンの実行のキャンセル](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-recurring-batch-campaign-run.md)
             + [トリガースマートキャンペーンの無効化 | 「スケジュール」タブ](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/deactivate-a-trigger-smart-campaign-schedule-tab.md)
-            + [スマートキャンペーンでのクオリフィケーションルールの編集](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
+            + [スマートキャンペーンでの選定ルールの編集](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md)
             + [スマートキャンペーンの移動](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)
             + [スマートキャンペーンでの人物制限の上書き](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
             + [トリガーキャンペーンの優先度の上書き](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/priority-override-for-trigger-campaigns.md)
@@ -1975,6 +1975,7 @@ ht-degree: 100%
          + [リリースノート：2025年5月](release-notes/previous-releases/2025/release-notes-may-25.md)
          + [リリースノート：2025年7月](release-notes/previous-releases/2025/release-notes-july-25.md)
          + [リリースノート：2025年8月](release-notes/previous-releases/2025/release-notes-aug-25.md)
+         + [リリースノート：2025 年 9 月](release-notes/previous-releases/2025/release-notes-sep-25.md)
       + 2024年 {#2024}
          + [リリースノート：2024年1月](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [リリースノート：2024年3月](release-notes/previous-releases/2024/release-notes-mar-24.md)
