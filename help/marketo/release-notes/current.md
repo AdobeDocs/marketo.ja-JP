@@ -4,15 +4,15 @@ title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '688'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
 # リリースノート：2025年10月 {#release-notes-oct-25}
 
-以下に、2025 年 10 月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+以下に、2025年10月リリースに含まれるすべての機能を示します。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
@@ -22,7 +22,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、リリースは **2025年10月31日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに従い、**2025年10月31日**（PT）からリリースを開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,7 +32,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong> テンプレートインポーター </strong>：クラシックメールエディターからメールテンプレートを読み込んで、Design Studio で新規メールDesignerと互換性のあるテンプレートを作成します。</td>
+   <td><strong>テンプレートインポーター</strong>：クラシックメールエディターからメールテンプレートを読み込んで、デザインスタジオの新しい E メールデザイナーと互換性のあるテンプレートを作成します。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -42,18 +42,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> メールDesigner – 条件付きコンテンツ </strong>：新しいメールDesignerのパリティ機能。トークンを超えてメールのパーソナライゼーションを行うことができます。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> メールDesigner - A/B テスト </strong>：新しいメールDesignerのパリティ機能。A/B テストを実行して、最適な応答を受けるコンテンツのタイプを確認できます。</td>
+   <td><strong>E メールデザイナー - 条件付きコンテンツ</strong>：新しい E メールデザイナーのパリティ機能により、トークン以外でもメールのパーソナライゼーションを実現できます。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -64,7 +53,18 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> メールDesigner - ブランドテーマ </strong>:Marketo Engage内でブランドテーマを定義できるようになりました。 スタイル設定を再利用し、メールテンプレートやその他のメールアセット全体で適用して、ブランドの一貫性を保つことができます。</td>
+   <td><strong>E メールデザイナー - A/B テスト</strong>：新しい E メールデザイナーのパリティ機能により、A/B テストを実行して、最適な応答を受信するコンテンツのタイプを確認できます。</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E メールデザイナー - ブランドテーマ</strong>：Marketo Engage 内でブランドテーマを定義できるようになりました。スタイル設定は、ブランドの一貫性を確保するために、メールテンプレートやその他のメールアセットをまたいで再利用および適用できます。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -75,7 +75,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
  <tr>
-   <td><strong> メールDesigner – 画像をHTML コンバーターに </strong>：メールの準拠した PNG/JPEG画像ファイルをアップロードすると、新しいメールDesignerで使用するために、自動的にHTMLに変換されます。</td>
+   <td><strong>E メールデザイナー - 画像から HTML へのコンバーター</strong>：あるメールの互換 PNG／JPEG 画像ファイルをアップロードすると、HTML へと自動的に変換され、新しい E メールデザイナーできるようになります。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -85,7 +85,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> メールDesigner - メール複製アクション </strong>：マーケティングアクティビティでメールを別のプログラムフォルダーに複製し、既存のメールをすばやく再利用できるようになりました。</td>
+   <td><strong>E メールデザイナー - メールを複製アクション</strong>：マーケティングアクティビティでメールを別のプログラムフォルダーに複製し、既存のメールをすばやく再利用できるようになりました。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -105,7 +105,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
    * _シングルサインオン（SSO）の廃止_：[Marketo ID SSO](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} のサポートは、2025年7月30日（PT）に終了しました。この機能は、Adobe ID への移行が完了するまで有効です。Adobe Admin Console の Adobe ID 向けのシングルサインオンは個別に設定する必要があります。 設定手順について詳しくは、[ID とシングルサインオンの設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}を参照してください。
 
-* **_フレンドに転送_ 機能の廃止**:2025 年 9 月 29 日（PT）に、Marketo Engage 2.0 のメール（従来のメールエディター）の _フレンドに転送_ 機能は、すべてのサブスクリプションで完全に廃止されました。 これは、既にトークンを使用して送信されている、または送信がスケジュールされているメール内の「友達に転送」トークンと「友達に転送」リンクに影響を与えました。 [詳細情報](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
+* **_友達に転送_機能の廃止**：2025年9月29日（PT）に、Marketo Engage 2.0 のメール（従来のメールエディター）の&#x200B;_友達に転送_&#x200B;機能は、すべてのサブスクリプションで完全に廃止されました。この廃止は、トークンを使用して既に送信されている、または送信されるようにスケジュールされたメール内の「友達に転送」トークンと「友達に転送」リンクに影響しました。[詳細情報](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
 * **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2026年1月31日（PT）以降は使用できなくなります。すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
