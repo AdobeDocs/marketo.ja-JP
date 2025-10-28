@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
-workflow-type: ht
-source-wordcount: '688'
-ht-degree: 100%
+source-git-commit: 517ac202934acb737aa7b1496693668871f38f71
+workflow-type: tm+mt
+source-wordcount: '690'
+ht-degree: 96%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong>テンプレートインポーター</strong>：クラシックメールエディターからメールテンプレートを読み込んで、デザインスタジオの新しい E メールデザイナーと互換性のあるテンプレートを作成します。</td>
+   <td><strong> メールDesigner - テンプレートインポーター </strong>：クラシックメールエディターからメールテンプレートを読み込んで、Design Studio の新規メールDesignerと互換性のあるテンプレートを作成します。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
