@@ -2,7 +2,7 @@
 description: リリースノート - 2025 年 9 月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2025年9月
 feature: Release Information
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
+source-git-commit: 7f56808ec26ec28065cc974716a5eab66e1d38b3
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 98%
@@ -32,8 +32,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>オンデマンドのウェビナーアクティビティの保持</strong>：インタラクティブウェビナーのユーザは、30 日以上の間、オンデマンドのウェビナーダッシュボードのデータを使用できるようになりました（以前は、ウェビナーの日から 30 日まででした）。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手動同期</a></td>
   </tr>
   <tr>
    <td> </td>
