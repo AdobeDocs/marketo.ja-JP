@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: dda635ffac84c76eb60ecac395707914c4902c9d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '730'
-ht-degree: 91%
+source-wordcount: '731'
+ht-degree: 90%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong> メールDesigner - テンプレートインポーター </strong>：クラシックメールエディターからメールテンプレートを読み込んで、Design Studio の新規メールDesignerと互換性のあるテンプレートを作成します。</td>
+   <td><strong> メールDesigner - テンプレートインポーター（Beta） </strong>：クラシックメールエディターからメールテンプレートを読み込んで、Design Studio の新しいメールDesignerと互換性のあるテンプレートを作成します。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -95,7 +95,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **Salesforce CRM 統合のアップグレード**：新しいバージョンのネイティブ CRM 統合が、2025 年 11 月 13 日（PT）から 7 日間、ネイティブコネクタが有効になっているアクティブなサンドボックスにデプロイされます。 詳細は [&#x200B; この民族の投稿 &#x200B;](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"} で確認する
+* **Salesforce CRM 統合のアップグレード**：新しいバージョンのネイティブ CRM 統合が、2025 年 11 月 13 日（PT）から 7 日間、ネイティブコネクタが有効になっているアクティブなサンドボックスにデプロイされます。 詳細は [ この民族の投稿 ](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"} で確認する
 
 * **REST API 二重スラッシュの廃止**：2025年9月16日（PT）に、アドビでは、セキュリティとスケーラビリティを追加した、新しいテクノロジーを活用した REST API URL 用のより最新のホスティングインフラストラクチャに移行しました。サブスクリプションで URL に二重スラッシュ（//）が含まれる API を使用している場合は、次の手順について[この Nation の投稿](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"}を参照してください。
 

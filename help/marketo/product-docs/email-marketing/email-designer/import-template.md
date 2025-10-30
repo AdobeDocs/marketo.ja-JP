@@ -5,18 +5,19 @@ title: テンプレートのインポート
 description: 既存のメールテンプレートをクラシックエディターから新しいメールDesignerに読み込む方法を説明します。
 level: Beginner, Intermediate
 feature: Email Designer
+badge: ベータ版
 hide: true
 hidefromtoc: true
-source-git-commit: f5f5e256631b09937d97d7b70f9475f2c286676d
+source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '723'
 ht-degree: 3%
 
 ---
 
 # テンプレートのインポート {#template-import}
 
-既存のメールテンプレートを従来のエディターから新しいメールDesignerにシームレスに読み込むことで、デザインを維持し、使い慣れた再利用可能な構造でテンプレートを迅速に作成できます。
+既存のメールテンプレートを従来のエディターから新しいメールDesignerにシームレスに読み込むことで、デザインを維持し、使い慣れた再利用可能な構造でテンプレートを迅速に作成できます。 [ ベストプラクティス ](#best-practices) を確認し、[ 制限事項と対策 ](#limitations-and-remedies) について学びます。
 
 1. **デザインスタジオ**&#x200B;に移動します。
 
@@ -77,6 +78,8 @@ ht-degree: 3%
 * 読み込み後、再利用可能なセクションをフラグメントとして保存し、メール作成者が使用できるように承認できます。 ブランドテーマを適用して、一貫性とコンプライアンスを維持します。
 
 * Velocity スクリプティングを引き続き使用できます。また、フラグメントと条件付きコンテンツを組み合わせて古いスニペットを再実装し、柔軟性とコントロールを向上させることを検討できます。
+
+## 制限事項と対策 {#limitations-and-remedies}
 
 <table><thead>
   <tr>
