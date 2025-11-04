@@ -2,9 +2,9 @@
 description: リリースノート - 2025 年 9 月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2025年9月
 feature: Release Information
-source-git-commit: 7f56808ec26ec28065cc974716a5eab66e1d38b3
+source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '704'
 ht-degree: 98%
 
 ---
@@ -33,17 +33,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>オンデマンドのウェビナーアクティビティの保持</strong>：インタラクティブウェビナーのユーザは、30 日以上の間、オンデマンドのウェビナーダッシュボードのデータを使用できるようになりました（以前は、ウェビナーの日から 30 日まででした）。</td>
    <td>リリース済み</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手動同期</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E メールデザイナー - コンテンツ共同作業ワークフロー</strong>：メールアセット内で Marketo ユーザにコメントしたり、Marketo ユーザと共同作業したりできるようになりました。チームメンバー（適切なアセット権限を持つ Marketo ユーザ）にタグ付けすると、メールまたはパルス通知が届きます。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手動同期</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -71,9 +61,19 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
+   <td><strong>E メールデザイナー - コンテンツ共同作業ワークフロー</strong>：メールアセット内で Marketo ユーザにコメントしたり、Marketo ユーザと共同作業したりできるようになりました。チームメンバー（適切なアセット権限を持つ Marketo ユーザ）にタグ付けすると、メールまたはパルス通知が届きます。</td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration">メールでの共同作業</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>E メールデザイナー - リダイレクトの修正</strong>：新しいデザイナーを使用して作成されたメールの URL で、リダイレクトの問題が発生していました（URL の直接貼り付けやメールアセットのブックマークが常に機能するとは限りませんでした）。この問題は解決されました。さらに、<b>メールテンプレート</b>／<b>詳細</b>／<b>使用者</b>からのメールアセットへのリンクは、対応するメールアセットにリダイレクトされます。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td>該当なし</td>
   </tr>
   </tbody>
 </table>
