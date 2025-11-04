@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 95bfc3434b1bee5b0050d628cd5f2af219597bad
+source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 14%
+source-wordcount: '888'
+ht-degree: 15%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 14%
 
 以下の表を使用して、以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較してください。
 
-詳しくは、このページ（および [&#x200B; 最新のリリースノート &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
+詳しくは、このページ（および [ 最新のリリースノート ](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
 
 <table><thead>
   <tr>
@@ -262,21 +262,21 @@ ht-degree: 14%
     <td>まもなくリリース</td>
   </tr>
   <tr>
-    <td>コンテンツ承認ワークフロー</td>
-    <td>Marketo Engage内でメールの承認ワークフローを導入する機能。</td>
-    <td>利用不可</td>
-    <td>2025 年第 4 四半期に予定</td>
-  </tr>
-  <tr>
     <td>ブランドキット</td>
     <td>ブランドガイドラインを反映したメールを改善する機能。</td>
     <td>利用不可</td>
-    <td>2026 年第 1 四半期に予定</td>
+    <td>まもなくリリース</td>
   </tr>
   <tr>
     <td>実験（A/B テスト）</td>
     <td>オーディエンスに送信する前にメールをテストする機能。</td>
     <td>対応可能</td>
+    <td>まもなくリリース</td>
+  </tr>
+  <tr>
+    <td>コンテンツ承認ワークフロー</td>
+    <td>Marketo Engage内でメールの承認ワークフローを導入する機能。</td>
+    <td>利用不可</td>
     <td>未定</td>
   </tr>
   <tr>
