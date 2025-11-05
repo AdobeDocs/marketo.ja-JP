@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: e786cb9f2e8b9726743b4cd2a368252b6731b5c2
+source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '885'
 ht-degree: 15%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 15%
 
 以下の表を使用して、以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較してください。
 
-詳しくは、このページ（および [&#x200B; 最新のリリースノート &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
+詳しくは、このページ（および [ 最新のリリースノート ](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
 
 <table><thead>
   <tr>
@@ -208,6 +208,12 @@ ht-degree: 15%
     <td>Assetsの参照で使用可能</td>
   </tr>
   <tr>
+    <td>メールテンプレートコンバーター</td>
+    <td>新しいメールDesignerに <a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank"> 既存のMarketo テンプレートを読み込む </a> 機能。</td>
+    <td>不要</td>
+    <td>対応可能</td>
+  </tr>
+  <tr>
     <td>キャンバスにドラッグ&amp;ドロップ</td>
     <td>構造とコンテンツをキャンバスにドラッグ&amp;ドロップできます。</td>
     <td>モジュールのみ</td>
@@ -241,12 +247,6 @@ ht-degree: 15%
     <td>電子メールアセットを使用したプログラムの移動、削除、読み込みのサポート</td>
     <td>メールプログラムを電子メールアセットと共に移動、削除、読み込む機能。</td>
     <td>対応可能</td>
-    <td>まもなくリリース</td>
-  </tr>
-  <tr>
-    <td>Marketo テンプレートコンバーター/インポート</td>
-    <td>既存のMarketo テンプレートを、新規メールDesignerに合わせて変換する機能。</td>
-    <td>不要</td>
     <td>まもなくリリース</td>
   </tr>
   <tr>
