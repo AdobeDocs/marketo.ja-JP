@@ -4,10 +4,10 @@ description: A/B テストの勝者条件の定義 - Marketo ドキュメント 
 title: A/B テストの勝者条件の定義
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 100%
+source-wordcount: '432'
+ht-degree: 96%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 1. デフォルトの&#x200B;**[!UICONTROL 勝者の条件]**&#x200B;オプションが最初に表示されます。
 
-   ![](assets/image2014-9-12-15-3a51-3a3.png)
+   ![](assets/define-the-a-b-test-winner-criteria-1.png)
 
    <table>
    <tr>
@@ -50,35 +50,33 @@ ht-degree: 100%
 
 1. また、「**[!UICONTROL カスタムコンバージョン]**」を選択して「**[!UICONTROL 編集]**」をクリックすることで、条件をカスタマイズすることもできます。
 
-   ![](assets/image2014-9-12-15-3a51-3a53.png)
+   ![](assets/define-the-a-b-test-winner-criteria-2.png)
 
    >[!NOTE]
    >
    >カスタムコンバージョンでは、トリガーとフィルターを使用して、任意のイベントをコンバージョンとして設定できます。
 
-1. ウィンドウがポップ表示されます。任意のトリガーを見つけ、キャンバスにドラッグします。
+1. ウィンドウが開きます。 任意のトリガーを見つけ、キャンバスにドラッグします。
 
-   ![](assets/image2014-9-12-15-3a52-3a18.png)
+   ![](assets/define-the-a-b-test-winner-criteria-3.png)
 
 1. トリガーを定義します。
 
-   ![](assets/image2014-9-12-15-3a53-3a11.png)
+   ![](assets/define-the-a-b-test-winner-criteria-4.png)
 
    >[!IMPORTANT]
    >
    >Marketo では、このメールプログラムからメールが送信された人物に対してのみトリガー／フィルターが許可されるので、「メールが送信されました」フィルターを追加する必要はありません。さらに、メール関連のトリガー／フィルターを使用する場合は、演算子として「が次のいずれかである」が使用されます。
 
-1. 「**[!UICONTROL 閉じる]**」をクリックします。
+1. 開いた新しいウィンドウ（またはタブ）を閉じます。 スマート・リストは自動保存されます。
 
-   ![](assets/image2014-9-12-15-3a53-3a36.png)
-
-   完成です。次に、勝者の決定方法を決めます。
+次に、勝者の決定方法を決めます。
 
 ## 勝者の発表 {#declare-winner}
 
 1. 2 つの使用可能なオプションの 1 つを選択します。
 
-   ![](assets/image2014-9-12-15-3a53-3a44.png)
+   ![](assets/define-the-a-b-test-winner-criteria-5.png)
 
    >[!NOTE]
    >
@@ -88,10 +86,10 @@ ht-degree: 100%
 
 1. 「自動」はすばらしいもので、デフォルトのオプションになっています。「**[!UICONTROL 次へ]**」をクリックします。
 
-   ![](assets/image2014-9-12-15-3a54-3a35.png)
+   ![](assets/define-the-a-b-test-winner-criteria-6.png)
 
    >[!TIP]
    >
    >「**[!UICONTROL 手動]**」を選択すると、テストが送信され、勝者の発表を待機します。結果のレポートが届きます。
 
-完璧です。次に、[A/B テストをスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}します。
+次に、[A/B テストをスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}します。
