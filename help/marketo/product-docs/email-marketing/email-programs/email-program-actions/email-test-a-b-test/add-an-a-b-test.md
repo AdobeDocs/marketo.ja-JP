@@ -4,10 +4,10 @@ description: A/B テストの追加 — Marketo ドキュメント — 製品ド
 title: A/B テストの追加
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: de037f08506f51ecf4a98a0806a8b2a430f6bc81
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 100%
+source-wordcount: '183'
+ht-degree: 93%
 
 ---
 
@@ -24,21 +24,21 @@ ht-degree: 100%
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
-   ![](assets/login-marketing-activities.png)
+   ![](assets/add-an-a-b-test-1.png)
 
 1. メールプログラムを選択します。
 
-   ![](assets/selectemailprogram.jpg)
+   ![](assets/add-an-a-b-test-2.jpg)
 
 1. **[!UICONTROL メール]**&#x200B;タイルの下で、「**[!UICONTROL A/B テストを追加]**」をクリックします。
 
-   ![](assets/image2014-9-12-14-3a39-3a29.png)
+   ![](assets/add-an-a-b-test-3.png)
 
    >[!NOTE]
    >
    >A/B テストを追加すると、選択したメールは他のプログラムで使用できなくなります。
 
-1. 新しいウィンドウがポップアップ表示されて、いろいろな&#x200B;**テストタイプ**&#x200B;がリストされるので、1 つ選択します。続行するには、以下の関連記事の 1 つを参照してください。
+1. 別の **テストタイプ** を選択できる新しいウィンドウが開きます。 続行するには、以下の関連記事の 1 つを参照してください。
 
    >[!CAUTION]
    >
