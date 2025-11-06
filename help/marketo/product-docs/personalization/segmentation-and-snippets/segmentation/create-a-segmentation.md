@@ -4,9 +4,9 @@ description: セグメント化の作成 - Marketo ドキュメント - 製品�
 title: セグメント化の作成
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '223'
 ht-degree: 100%
 
 ---
@@ -17,11 +17,11 @@ ht-degree: 100%
 
 1. **[!UICONTROL データベース]**&#x200B;に移動します。
 
-   ![](assets/image2017-3-28-13-3a44-3a54.png)
+   ![](assets/create-a-segmentation-1.png)
 
 1. 「**[!UICONTROL 新規]**」をクリックし、次に「**[!UICONTROL 新規セグメント化]**」をクリックします。
 
-   ![](assets/image2017-3-28-13-3a56-3a57.png)
+   ![](assets/create-a-segmentation-2.png)
 
    >[!TIP]
    >
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 1. **[!UICONTROL 名前]**&#x200B;を入力し、「**[!UICONTROL セグメントを追加]**」をクリックして名前を付けます。
 
-   ![](assets/image2014-9-15-10-3a1-3a1.png)
+   ![](assets/create-a-segmentation-3.png)
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ ht-degree: 100%
 
 1. 必要な数のセグメントを追加します（最大 100 個）。
 
-   ![](assets/image2014-9-15-10-3a1-3a16.png)
+   ![](assets/create-a-segmentation-4.png)
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ ht-degree: 100%
 
 1. セグメントをドラッグ＆ドロップして順序を変更します。完了したら、「**[!UICONTROL 作成]**」をクリックします。
 
-   ![](assets/image2014-9-15-10-3a1-3a30.png)
+   ![](assets/create-a-segmentation-5.png)
 
    >[!NOTE]
    >
