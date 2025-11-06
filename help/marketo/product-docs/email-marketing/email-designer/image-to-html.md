@@ -24,8 +24,8 @@ Image to HTML Converter は、静的な画像を完全にカスタマイズ可�
 
 >[!PREREQUISITES]
 >
->* まず、メールDesignerで Gen-AI 機能を使用するための [ コア Gen-AI 条件と補足条件 ](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
->* _Marketoの役割で_ 名前へのアクセス _および_ メールテンプレートへのアクセス [ 権限が有効になっている必要があり ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role) す。
+>* まず、メールDesignerで Gen-AI 機能を使用するための [&#x200B; コア Gen-AI 条件と補足条件 &#x200B;](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
+>* _Marketoの役割で_ 名前へのアクセス _および_ メールテンプレートへのアクセス [&#x200B; 権限が有効になっている必要があり &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role) す。
 
 ## 画像を変換 {#convert-an-image}
 
@@ -118,7 +118,7 @@ Image to HTML Converter は、静的な画像を完全にカスタマイズ可�
 **変換後**
 
 * **ドラフトのレビュー**：変換が完了すると、テンプレートは自動的にドラフトとして保存されます。 時間をかけて、生成されるHTMLを正確に慎重に確認します。
-* **徹底的にテスト**：様々なメールクライアントやデバイスでメールをテストします。 より迅速な結果を得るには、[Litmus 統合 ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) を活用します。
+* **徹底的にテスト**：様々なメールクライアントやデバイスでメールをテストします。 より迅速な結果を得るには、[Litmus 統合 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) を活用します。
 * **手動で調整**：メールDesignerの完全な編集機能を使用して、必要に応じて調整を行います。
 * **ブランドの整合性**：色、フォント、スタイル設定がブランドガイドラインと一致することを確認します。
 * **Personalization**：必要に応じて、動的コンテンツとパーソナライゼーショントークンを追加します。
