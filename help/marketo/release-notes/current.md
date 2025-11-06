@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+source-git-commit: a53178021f3abdbfc5e1cdff76bc1f0483c4b887
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '729'
 ht-degree: 99%
 
 ---
@@ -86,8 +86,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>E メールデザイナー - メールを複製アクション</strong>：マーケティングアクティビティでメールを別のプログラムフォルダーに複製し、既存のメールをすばやく再利用できるようになりました。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース済み</td>
+   <td>該当なし</td>
   </tr>
   </tbody>
 </table>
