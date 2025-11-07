@@ -5,9 +5,9 @@ title: 条件付きコンテンツ
 description: 条件付きコンテンツをメールで使用すると、受信者に応じたコンテンツを動的に表示できます。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '303'
 ht-degree: 5%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->少なくとも 1 つのセグメント化 [&#x200B; 作成 &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) および [&#x200B; 承認 &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) を持っている。
+>少なくとも 1 つのセグメント化 [ 作成 ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) および [ 承認 ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) を持っている。
 
 ## 条件付きコンテンツを追加 {#add-conditional-content}
 
@@ -46,7 +46,7 @@ ht-degree: 5%
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. 新しい画像が表示されます。 識別しやすいように、バリアントの名前を変更することをお勧めします。 省略記号をクリックし、「名前を変更 **を選択す** だけです。
+1. 新しい画像が表示されます。 識別しやすいように、バリアントの名前を変更することをお勧めします。 「。..」をクリックし、「名前を変更 **を選択し** す。
 
    >[!NOTE]
    >
