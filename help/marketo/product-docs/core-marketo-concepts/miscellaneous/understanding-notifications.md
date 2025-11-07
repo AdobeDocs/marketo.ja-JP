@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: 通知について - Marketo ドキュメント - 製品ドキュメント
 title: 通知について
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 34%
@@ -28,7 +28,7 @@ ht-degree: 34%
 
 配信登録すると、通知をメールで受信できます。
 
-1. _通知_ 画面で、「購読 **[!UICONTROL をクリック]** します。
+1. _通知_ 画面で、「**[!UICONTROL 購読]**」をクリックします。
 
    ![](assets/understanding-notifications-3.png)
 
@@ -38,7 +38,7 @@ ht-degree: 34%
 
 >[!NOTE]
 >
->**[!UICONTROL 送信先]** ボックスに入力できるのは、メールアドレスのみです。既存の購読者のリストは表示されません。
+>_[!UICONTROL 送信先]_ ボックスに入力できるのは、メールアドレスのみです。既存の購読者のリストは表示されません。
 
 場合によっては、Microsoft Dynamics 同期エラーファイルなど、コンマ区切り値（CSV）ファイルをダウンロードするための「完全なリストを表示」リンクが通知に表示されることがあります。Marketo Engageでは、これらの CSV ファイルが 30 日間保持されます。 それ以降にファイルをダウンロードしようとすると、404 エラーが発生します。
 
