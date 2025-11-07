@@ -23,7 +23,7 @@ Image to HTML Converter は、静的な画像を完全にカスタマイズ可�
 >[!PREREQUISITES]
 >
 >* まず、メールDesignerで Gen-AI 機能を使用するための [&#x200B; コア Gen-AI 条件と補足条件 &#x200B;](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
->* _メールテンプレートへのアクセス_ および _メールテンプレートの編集/生成_ 権限を [Marketo ロールで &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role) 有効にしておく必要があります。
+>* _メールテンプレートへのアクセス_ および _メールテンプレートの編集/生成_ 権限を [Marketo ロールで &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role) 有効にしておく必要があります。
 
 ## 画像を変換 {#convert-an-image}
 
