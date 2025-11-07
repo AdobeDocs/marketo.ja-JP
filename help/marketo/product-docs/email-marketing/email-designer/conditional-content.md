@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
+source-git-commit: 6f2d3256f3422f1c5054dfd87db3e31c862724a5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 6%
@@ -20,21 +20,21 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->少なくとも 1 つのセグメント化 [&#x200B; 作成 &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) および [&#x200B; 承認 &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) を持っている。
+>少なくとも 1 つのセグメント化 [ 作成 ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) および [ 承認 ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) を持っている。
 
 ## 条件付きコンテンツを追加 {#add-conditional-content}
 
 1. 目的のメールを開き、「**メールコンテンツを編集**」をクリックします。
 
-   ![](assets/conditional-content-1.png){width="800" zoomable="yes"}
+   ![](assets/conditional-content-1.png)
 
 1. 条件付きにするコンテンツを選択します（この例では、ヘッダー画像を選択しています）。 _条件付きコンテンツを有効にする_ アイコンをクリックします。
 
    ![](assets/conditional-content-2.png)
 
-1. 箱がオレンジ色になります。 左側の _条件を選択アイコン_ （）をクリックして、バリアントを定義します。
+1. 箱がオレンジ色になります。 左側の _条件を選択_ アイコンをクリックして、バリアントを定義します。
 
-   ![](assets/conditional-content-3.png)
+   ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
 1. 目的のセグメントを選択し、「**選択**」をクリックします。
 
@@ -46,11 +46,11 @@ ht-degree: 6%
 
 1. 該当する画像を選択し、「**選択**」をクリックします。
 
-   ![](assets/conditional-content-6.png)
+   ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
 1. 新しい画像が表示されます。 識別しやすいように、バリアントの名前を変更することをお勧めします。
 
-   ![](assets/conditional-content-7.png)
+   ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
 1. 別のバリアントを追加するには（オプション）、「**バリアントを追加**」をクリックして、同じ手順に従います。
 
