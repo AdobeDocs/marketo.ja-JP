@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '884'
-ht-degree: 15%
+source-wordcount: '883'
+ht-degree: 14%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 15%
 
 以下の表を使用して、以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較してください。
 
-詳しくは、このページ（および [&#x200B; 最新のリリースノート &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
+詳しくは、このページ（および [ 最新のリリースノート ](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
 
 <table><thead>
   <tr>
@@ -226,12 +226,6 @@ ht-degree: 15%
     <td>フラグメントをドラッグ&amp;ドロップ</td>
   </tr>
   <tr>
-    <td>グローバルテーマ</td>
-    <td>組織全体で承認済みのテーマを適用でき、スタイル、色、フォントサイズなどの要素の一貫性を確保できる。</td>
-    <td>利用不可</td>
-    <td>まもなくリリース</td>
-  </tr>
-  <tr>
     <td>動的コンテンツ/条件付きコンテンツ</td>
     <td>ターゲットオーディエンスに基づいて、メール内で <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank"> バリアントを作成 </a> できます。</td>
     <td>対応可能</td>
@@ -239,9 +233,9 @@ ht-degree: 15%
   </tr>
   <tr>
     <td>HTMLの画像</td>
-    <td>画像をHTMLに変換し、を使用してメールを作成する機能。</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank"> 画像をHTMLに変換 </a> し、を使用してメールを作成する機能。</td>
     <td>利用不可</td>
-    <td>まもなくリリース</td>
+    <td>対応可能</td>
   </tr>
   <tr>
     <td>電子メールアセットを使用したプログラムの移動、削除、読み込みのサポート</td>
@@ -264,6 +258,12 @@ ht-degree: 15%
   <tr>
     <td>ブランドキット</td>
     <td>ブランドガイドラインを反映したメールを改善する機能。</td>
+    <td>利用不可</td>
+    <td>まもなくリリース</td>
+  </tr>
+  <tr>
+    <td>グローバルテーマ</td>
+    <td>組織全体で承認済みのテーマを適用でき、スタイル、色、フォントサイズなどの要素の一貫性を確保できる。</td>
     <td>利用不可</td>
     <td>まもなくリリース</td>
   </tr>

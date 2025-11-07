@@ -5,10 +5,10 @@ title: 条件付きコンテンツ
 description: 条件付きコンテンツをメールで使用すると、受信者に応じたコンテンツを動的に表示できます。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 6%
+source-wordcount: '304'
+ht-degree: 5%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->少なくとも 1 つのセグメント化 [&#x200B; 作成 &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) および [&#x200B; 承認 &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) を持っている。
+>少なくとも 1 つのセグメント化 [ 作成 ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) および [ 承認 ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) を持っている。
 
 ## 条件付きコンテンツを追加 {#add-conditional-content}
 
@@ -30,7 +30,7 @@ ht-degree: 6%
 
    ![](assets/conditional-content-2.png)
 
-1. 箱がオレンジ色になります。 左側の _条件を選択_ アイコンをクリックして、バリアントを定義します。
+1. ハイライトボックスがオレンジ色になります。 左側の _条件を選択_ アイコン（![](assets/icon-select-condition.png)）をクリックして、バリアントを定義します。
 
    ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
@@ -46,7 +46,11 @@ ht-degree: 6%
 
    ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
-1. 新しい画像が表示されます。 識別しやすいように、バリアントの名前を変更することをお勧めします。
+1. 新しい画像が表示されます。 識別しやすいように、バリアントの名前を変更することをお勧めします。 省略記号をクリックし、「名前を変更 **を選択す** だけです。
+
+   >[!NOTE]
+   >
+   >省略記号をクリックすると、バリアントの定義済み条件を表示したり、バリアントを複製したりできます。 複数のバリアントがある場合、削除オプションが使用できるようになります。 バリアントが 1 つしかない場合、それを削除する方法は、単に _条件付きコンテンツを有効にする_ アイコンを再度クリックすることです（その上にカーソルを置くと、_条件付きコンテンツを無効にする_ と表示されるようになりました）。
 
    ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 

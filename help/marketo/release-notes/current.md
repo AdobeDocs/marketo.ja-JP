@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '730'
 ht-degree: 99%
 
 ---
@@ -47,6 +47,25 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">条件付きコンテンツ</a></td>
   </tr>
   <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+ <tr>
+   <td><strong>E メールデザイナー - 画像から HTML へのコンバーター</strong>：あるメールの互換 PNG／JPEG 画像ファイルをアップロードすると、HTML へと自動的に変換され、新しい E メールデザイナーできるようになります。</td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">画像をHTML テンプレートに変換する</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E メールデザイナー - メールを複製アクション</strong>：マーケティングアクティビティでメールを別のプログラムフォルダーに複製し、既存のメールをすばやく再利用できるようになりました。</td>
+   <td>リリース済み</td>
+   <td>該当なし</td>
+  </tr>
   <tr>
    <td> </td>
    <td> </td>
@@ -58,7 +77,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><i>まもなくリリース</i></td>
   </tr>
   <tr>
-  <tr>
    <td> </td>
    <td> </td>
    <td> </td>
@@ -67,27 +85,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><strong>E メールデザイナー - ブランドテーマ</strong>：Marketo Engage 内でブランドテーマを定義できるようになりました。スタイル設定は、ブランドの一貫性を確保するために、メールテンプレートやその他のメールアセットをまたいで再利用および適用できます。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>E メールデザイナー - 画像から HTML へのコンバーター</strong>：あるメールの互換 PNG／JPEG 画像ファイルをアップロードすると、HTML へと自動的に変換され、新しい E メールデザイナーできるようになります。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E メールデザイナー - メールを複製アクション</strong>：マーケティングアクティビティでメールを別のプログラムフォルダーに複製し、既存のメールをすばやく再利用できるようになりました。</td>
-   <td>リリース済み</td>
-   <td>該当なし</td>
   </tr>
   </tbody>
 </table>
