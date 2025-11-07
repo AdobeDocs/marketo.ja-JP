@@ -1,15 +1,15 @@
 ---
-title: Marketo Engage の GenStudio の統合
-description: Marketo EngageでGenStudioを使用する方法を説明します。
+title: 画像をHTML テンプレートに変換する
+description: このコードなしツールを使用すると、画像を編集可能なメールテンプレートに変換できます。
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
+source-git-commit: 1e067b5f5e8a989d2fc98d54a5a5720cc93c644c
 workflow-type: tm+mt
-source-wordcount: '1278'
+source-wordcount: '1283'
 ht-degree: 1%
 
 ---
@@ -24,8 +24,8 @@ Image to HTML Converter は、静的な画像を完全にカスタマイズ可�
 
 >[!PREREQUISITES]
 >
->* まず、メールDesignerで Gen-AI 機能を使用するための [&#x200B; コア Gen-AI 条件と補足条件 &#x200B;](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
->* _メールテンプレートへのアクセス_ および _メールテンプレートの編集/生成_ 権限を [Marketo ロールで &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role) 有効にしておく必要があります。
+>* まず、メールDesignerで Gen-AI 機能を使用するための [ コア Gen-AI 条件と補足条件 ](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
+>* _メールテンプレートへのアクセス_ および _メールテンプレートの編集/生成_ 権限を [Marketo ロールで ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role) 有効にしておく必要があります。
 
 ## 画像を変換 {#convert-an-image}
 
@@ -110,7 +110,7 @@ Image to HTML Converter は、静的な画像を完全にカスタマイズ可�
 **変換後**
 
 * **ドラフトのレビュー**：変換が完了すると、テンプレートは自動的にドラフトとして保存されます。 時間をかけて、生成されるHTMLを正確に慎重に確認します。
-* **徹底的にテスト**：様々なメールクライアントやデバイスでメールをテストします。 より迅速な結果を得るには、[Litmus 統合 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) を活用します。
+* **徹底的にテスト**：様々なメールクライアントやデバイスでメールをテストします。 より迅速な結果を得るには、[Litmus 統合 ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) を活用します。
 * **手動で調整**：メールDesignerの完全な編集機能を使用して、必要に応じて調整を行います。
 * **ブランドの整合性**：色、フォント、スタイル設定がブランドガイドラインと一致することを確認します。
 * **Personalization**：必要に応じて、動的コンテンツとパーソナライゼーショントークンを追加します。

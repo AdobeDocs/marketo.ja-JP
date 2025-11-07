@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 6f1b4b6478e95d6d8aa332622daf2f29dd794bfe
+source-git-commit: 1e067b5f5e8a989d2fc98d54a5a5720cc93c644c
 workflow-type: tm+mt
-source-wordcount: '9323'
+source-wordcount: '9325'
 ht-degree: 99%
 
 ---
@@ -1028,6 +1028,7 @@ ht-degree: 99%
          + [概要](product-docs/email-marketing/email-designer/overview.md)
          + [機能の比較](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
+         + [条件付きコンテンツ](product-docs/email-marketing/email-designer/conditional-content.md)
          + [メールテンプレートオーサリング](product-docs/email-marketing/email-designer/email-template-authoring.md)
          + [テンプレートの読み込み](product-docs/email-marketing/email-designer/import-template.md)
          + [画像のHTML テンプレートへの変換](product-docs/email-marketing/email-designer/image-to-html.md)
@@ -1202,7 +1203,7 @@ ht-degree: 99%
             + [Salesforce ID の Sales Connect へのインポート](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [アクティビティ履歴への Sales Connect イベントフィールドのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
             + [Professional Edition 顧客向け Salesforce カスタマイズのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
-            + [&#x200B; セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
+            + [ セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Salesforce のレポートダッシュボード](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [CRM 用の Sales Connect のカスタマイズ](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Salesforce Classic での一括アクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
@@ -1741,7 +1742,7 @@ ht-degree: 99%
          + レポートタイプ {#report-types}
             + [キャンペーンアクティビティレポート](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [キャンペーンメールの効果レポート](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-            + [&#x200B; 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+            + [ 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [ステータス別のリードレポート](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [人物のパフォーマンスレポート](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [レポートタイプの概要](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
