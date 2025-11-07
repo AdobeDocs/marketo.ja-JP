@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '884'
 ht-degree: 15%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 15%
 
 以下の表を使用して、以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較してください。
 
-詳しくは、このページ（および [&#x200B; 最新のリリースノート &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
+詳しくは、このページ（および [ 最新のリリースノート ](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
 
 <table><thead>
   <tr>
@@ -233,9 +233,9 @@ ht-degree: 15%
   </tr>
   <tr>
     <td>動的コンテンツ/条件付きコンテンツ</td>
-    <td>ターゲットオーディエンスに基づいてメールのバリエーションを作成する機能。</td>
+    <td>ターゲットオーディエンスに基づいて、メール内で <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank"> バリアントを作成 </a> できます。</td>
     <td>対応可能</td>
-    <td>まもなくリリース</td>
+    <td>対応可能</td>
   </tr>
   <tr>
     <td>HTMLの画像</td>
