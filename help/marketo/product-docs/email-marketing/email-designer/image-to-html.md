@@ -5,9 +5,9 @@ solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
 workflow-type: tm+mt
-source-wordcount: '1283'
+source-wordcount: '1287'
 ht-degree: 1%
 
 ---
@@ -22,8 +22,8 @@ Image to HTML Converter は、静的な画像を完全にカスタマイズ可�
 
 >[!PREREQUISITES]
 >
->* まず、メールDesignerで Gen-AI 機能を使用するための [&#x200B; コア Gen-AI 条件と補足条件 &#x200B;](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
->* _メールテンプレートへのアクセス_ および _メールテンプレートの編集/生成_ 権限を [Marketo ロールで &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role) 有効にしておく必要があります。
+>* まず、メールDesignerで Gen-AI 機能を使用するための [ コア Gen-AI 条件と補足条件 ](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
+>* _メールテンプレートへのアクセス_ および _メールテンプレートの編集/生成_ 権限を [Marketo ロールで ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role) 有効にしておく必要があります。
 
 ## 画像を変換 {#convert-an-image}
 
@@ -53,7 +53,7 @@ Image to HTML Converter は、静的な画像を完全にカスタマイズ可�
    >
    >生成プロセスには、画像デザインの複雑さとサイズに応じて最大 5 分かかる場合があります。 AI の処理はバックグラウンドで行われるので、変換処理中に、この画面から移動して他のタスクを実行できます。 ステータスの変更を確認するには、_メールテンプレート_ ライブラリ画面を更新する必要がある場合があります。
 
-1. 変換が完了すると、テンプレートは自動的にドラフトとして保存されます。 選択…
+1. 変換が完了すると、テンプレートは自動的にドラフトとして保存されます。 名前をクリックして表示/編集します。
 
    ![](assets/image-to-html-5.png)
 
@@ -108,7 +108,7 @@ Image to HTML Converter は、静的な画像を完全にカスタマイズ可�
 **変換後**
 
 * **ドラフトのレビュー**：変換が完了すると、テンプレートは自動的にドラフトとして保存されます。 時間をかけて、生成されるHTMLを正確に慎重に確認します。
-* **徹底的にテスト**：様々なメールクライアントやデバイスでメールをテストします。 より迅速な結果を得るには、[Litmus 統合 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) を活用します。
+* **徹底的にテスト**：様々なメールクライアントやデバイスでメールをテストします。 より迅速な結果を得るには、[Litmus 統合 ](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) を活用します。
 * **手動で調整**：メールDesignerの完全な編集機能を使用して、必要に応じて調整を行います。
 * **ブランドの整合性**：色、フォント、スタイル設定がブランドガイドラインと一致することを確認します。
 * **Personalization**：必要に応じて、動的コンテンツとパーソナライゼーショントークンを追加します。
