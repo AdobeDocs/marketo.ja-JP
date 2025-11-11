@@ -34,7 +34,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>E メールデザイナー - テンプレートインポーター (Beta)</strong>：クラシックメールエディターからメールテンプレートを読み込み、デザインスタジオの新しい E メールデザイナーと互換性のあるテンプレートを作成します。</td>
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">テンプレートのインポート</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">テンプレートインポート</a></td>
   </tr>
   <tr>
    <td> </td>
