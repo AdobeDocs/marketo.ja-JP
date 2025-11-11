@@ -33,7 +33,7 @@ ht-degree: 7%
 
 ## ブランドテーマの作成 {#create-a-brand-theme}
 
-1. 手順に従って [ メールテンプレートを作成 ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) します。
+1. 手順に従って [&#x200B; メールテンプレートを作成 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) します。
 
 1. _テンプレートのデザイン_ 画面で、「**テーマを作成または編集**」を選択します。
 
@@ -77,7 +77,7 @@ ht-degree: 7%
 
 ![](assets/brand-themes-8.png)
 
-編集が完了したら、戻るには左向き矢印（![ 左向き矢印アイコン ](assets/icon-back-arrow.png)）をクリックします。
+編集が完了したら、戻るには左向き矢印（![&#x200B; 左向き矢印アイコン &#x200B;](assets/icon-back-arrow.png)）をクリックします。
 
 バリアントを編集するには、その鉛筆アイコンをクリックします。
 
