@@ -1,16 +1,16 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITLE
-description: 説明。
+title: ブランドテーマ
+description: ブランドガイドラインを作成および管理する方法について説明します。
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
+source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1201'
 ht-degree: 7%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 7%
 
 ## ブランドテーマの作成 {#create-a-brand-theme}
 
-1. 手順に従って [&#x200B; メールテンプレートを作成 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) します。
+1. 手順に従って [ メールテンプレートを作成 ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) します。
 
 1. _テンプレートのデザイン_ 画面で、「**テーマを作成または編集**」を選択します。
 
@@ -77,21 +77,17 @@ ht-degree: 7%
 
 ![](assets/brand-themes-8.png)
 
-編集が完了したら、戻るには左向き矢印（![&#x200B; 左向き矢印アイコン &#x200B;](assets/icon-back-arrow.png)）をクリックします。
+編集が完了したら、戻るには左向き矢印（![ 左向き矢印アイコン ](assets/icon-back-arrow.png)）をクリックします。
 
 バリアントを編集するには、その鉛筆アイコンをクリックします。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-9.png)
 
 >[!NOTE]
 >
 >最大 6 つのバリアントを作成できます。
 
-複数の要素をカスタマイズできます。
-
-![](assets/brand-themes-.png)
-
-バリアント設定は次のカテゴリにグループ化されます。
+複数の要素をカスタマイズできます。 バリアント設定は次のカテゴリにグループ化されます。
 
 * 一般
 * 見出し
@@ -102,55 +98,49 @@ ht-degree: 7%
 
 これらの設定を使用すると、本文、構造、背景、コンテナ、画像などのカラーを設定できます。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-10.png)
 
 **見出し**
 
 各見出しタイプのテキストと境界線の色を [ 見出し 1] から [ 見出し 6] に設定します。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-11.png)
 
 **段落**
 
 テキストと境界線のカラーを最大 3 つの段落タイプに設定します。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-12.png)
 
 **ボタン**
 
 プライマリ、セカンダリ、三次の 3 種類のボタンの塗りつぶし、境界線、およびテキストの色を設定します。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-13.png)
 
 ### テキスト設定 {#text-settings}
 
 グローバル、見出しおよび段落のフォントタイプとサイズを設定します。
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-14.png)
 
 **グローバル**
 
-「グローバルテキスト設定」で、「標準」と「Google」の間のフォームライブラリを選択します。
+標準またはGoogleのフォントライブラリとそれぞれのフォントファミリーを選択します。
 
-![](assets/brand-themes-.png)
-
-「標準」で、別のフォントファミリーから選択します。
-
-![](assets/brand-themes-.png)
-
-同様に、「Googleのフォント」には、それぞれサポートされているフォントから選択するオプションが表示されます。
+![](assets/brand-themes-15.png)
 
 **見出し**
 
-ここでは、異なる見出しタイプに対して、フォントライブラリ、ファミリー、サイズ、テキストスタイル、テキスト配置を設定できます。
+異なる見出しタイプに対して、フォントライブラリ、ファミリー、サイズ、テキストスタイル、テキストの配置を設定します。
 
-スクリーンショット
+![](assets/brand-themes-16.png)
 
 **段落**
 
-ここでは、異なる段落プリセットに対して、フォントライブラリ、ファミリー、サイズ、テキストスタイルおよびテキストの配置を設定できます。
+異なる段落プリセットに対して、フォントライブラリ、ファミリー、サイズ、テキストスタイルおよびテキストの配置を設定します。
 
-スクリーンショット
+![](assets/brand-themes-17.png)
 
 ### 間隔と境界線 {#spacing-and-border}
 
