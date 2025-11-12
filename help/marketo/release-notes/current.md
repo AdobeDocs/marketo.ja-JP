@@ -3,9 +3,9 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '729'
 ht-degree: 99%
 
 ---
@@ -35,6 +35,16 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><strong>E メールデザイナー - テンプレートインポーター (Beta)</strong>：クラシックメールエディターからメールテンプレートを読み込み、デザインスタジオの新しい E メールデザイナーと互換性のあるテンプレートを作成します。</td>
    <td>リリース済み</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">テンプレートインポート</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E メールデザイナー - ブランドテーマ</strong>：Marketo Engage 内でブランドテーマを定義できるようになりました。スタイル設定は、ブランドの一貫性を確保するために、メールテンプレートやその他のメールアセットをまたいで再利用および適用できます。</td>
+   <td>リリース済み</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">ブランドテーマ</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -73,16 +83,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>E メールデザイナー - A/B テスト</strong>：新しい E メールデザイナーのパリティ機能により、A/B テストを実行して、最適な応答を受信するコンテンツのタイプを確認できます。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E メールデザイナー - ブランドテーマ</strong>：Marketo Engage 内でブランドテーマを定義できるようになりました。スタイル設定は、ブランドの一貫性を確保するために、メールテンプレートやその他のメールアセットをまたいで再利用および適用できます。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>

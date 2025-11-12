@@ -5,10 +5,8 @@ title: ブランドテーマ
 description: ブランドガイドラインを作成および管理する方法について説明します。
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
 source-wordcount: '1097'
 ht-degree: 6%
@@ -23,7 +21,7 @@ ht-degree: 6%
 
 ## テーマの作成 {#create-a-theme}
 
-1. 手順に従って [&#x200B; メールテンプレートを作成 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) します。
+1. 手順に従って [ メールテンプレートを作成 ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) します。
 
 1. _テンプレートのデザイン_ 画面で、「**テーマを作成または編集**」を選択します。
 
@@ -67,7 +65,7 @@ ht-degree: 6%
 
 ![](assets/brand-themes-8.png)
 
-編集が完了したら、戻るには左向き矢印（![&#x200B; 左向き矢印アイコン &#x200B;](assets/icon-back-arrow.png)）をクリックします。
+編集が完了したら、戻るには左向き矢印（![ 左向き矢印アイコン ](assets/icon-back-arrow.png)）をクリックします。
 
 バリアントを編集するには、その鉛筆アイコンをクリックします。
 
@@ -285,7 +283,7 @@ _列の間隔_ を使用して、グリッドの間隔をコントロールし�
 
 ## 既存のテーマの編集 {#edit-a-brand-theme}
 
-1. 手順に従って [&#x200B; メールテンプレートを作成 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) します。
+1. 手順に従って [ メールテンプレートを作成 ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) します。
 
 1. _テンプレートのデザイン_ 画面で、「**テーマを作成または編集**」を選択します。
 
@@ -313,7 +311,7 @@ _列の間隔_ を使用して、グリッドの間隔をコントロールし�
 
 ### メール内 {#in-your-emails}
 
-1. 手順に従って [&#x200B; メールを作成 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email) します。
+1. 手順に従って [ メールを作成 ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email) します。
 
 1. 作成後、「**メールコンテンツを編集**」をクリックします。
 
@@ -377,7 +375,7 @@ _列の間隔_ を使用して、グリッドの間隔をコントロールし�
 
 ### フラグメントで {#in-your-fragments}
 
-1. 手順に従って [&#x200B; フラグメントを作成 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment) します。
+1. 手順に従って [ フラグメントを作成 ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment) します。
 
 1. **[設定](#settings)** のオプションを使用してコンテンツテーマをデザインします。
 

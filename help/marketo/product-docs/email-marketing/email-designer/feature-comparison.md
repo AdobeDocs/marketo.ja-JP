@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '883'
+source-wordcount: '868'
 ht-degree: 14%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 14%
 
 以下の表を使用して、以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較してください。
 
-詳しくは、このページ（および [&#x200B; 最新のリリースノート &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
+詳しくは、このページ（および [ 最新のリリースノート ](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
 
 <table><thead>
   <tr>
@@ -232,6 +232,12 @@ ht-degree: 14%
     <td>対応可能</td>
   </tr>
   <tr>
+    <td>ブランドテーマ</td>
+    <td>組織全体で <a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank"> 承認済みのテーマを適用 </a> でき、スタイル、色、フォントサイズなどの要素の一貫性を確保できます。</td>
+    <td>利用不可</td>
+    <td>対応可能</td>
+  </tr>
+  <tr>
     <td>HTMLの画像</td>
     <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank"> 画像をHTMLに変換 </a> し、を使用してメールを作成する機能。</td>
     <td>利用不可</td>
@@ -253,18 +259,6 @@ ht-degree: 14%
     <td>Velocity スクリプティング</td>
     <td>メールで Velocity スクリプティングを使用する機能。</td>
     <td>対応可能</td>
-    <td>まもなくリリース</td>
-  </tr>
-  <tr>
-    <td>ブランドキット</td>
-    <td>ブランドガイドラインを反映したメールを改善する機能。</td>
-    <td>利用不可</td>
-    <td>まもなくリリース</td>
-  </tr>
-  <tr>
-    <td>グローバルテーマ</td>
-    <td>組織全体で承認済みのテーマを適用でき、スタイル、色、フォントサイズなどの要素の一貫性を確保できる。</td>
-    <td>利用不可</td>
     <td>まもなくリリース</td>
   </tr>
   <tr>
