@@ -26,21 +26,21 @@ E メールDesignerは、Marketo Engageの最新のイノベーションであ�
 
 +++メールDesignerにアクセスする方法を学ぶ
 
-新しいメールDesignerにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
+新しいメールDesignerにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
 
 ### ユーザーを追加 {#add-users}
 
 1. Marketo Engageで、「**[!UICONTROL 管理者]** エリアに移動し、「新しいメールDesigner **[!UICONTROL を選択し]** す。
 
-   ![ 管理者の左側のナビゲーションにある「新しい電子メールDesigner」を選択 ](assets/overview-1.png){width="600" zoomable="yes"}
+   ![&#x200B; 管理者の左側のナビゲーションにある「新しい電子メールDesigner」を選択 &#x200B;](assets/overview-1.png){width="600" zoomable="yes"}
 
 1. 「**[!UICONTROL ユーザーを追加]**」をクリックします。
 
-   ![ 「ユーザーを追加」ボタン ](assets/overview-2.png){width="600" zoomable="yes"}
+   ![&#x200B; 「ユーザーを追加」ボタン &#x200B;](assets/overview-2.png){width="600" zoomable="yes"}
 
 1. **[!UICONTROL 新しい値を追加]** ドロップダウンで、目的のユーザーを選択します。 終了したら、「**[!UICONTROL OK]**」をクリックします。
 
-   ![ リストからのユーザーの選択 ](assets/overview-3.png){width="600" zoomable="yes"}
+   ![&#x200B; リストからのユーザーの選択 &#x200B;](assets/overview-3.png){width="600" zoomable="yes"}
 
 +++
 
@@ -48,21 +48,21 @@ E メールDesignerは、Marketo Engageの最新のイノベーションであ�
 
 ### はじめに {#getting-started}
 
-* [ メールオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：新しいエディターでメールを作成、デザイン、参照する方法について説明します。
+* [&#x200B; メールオーサリング &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}：新しいエディターでメールを作成、デザイン、参照する方法について説明します。
 
-* [ メールテンプレートオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
+* [&#x200B; メールテンプレートオーサリング &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
 
-* [ フラグメント ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：メールおよびメールテンプレート用の再利用可能なコンポーネントとしてビジュアルコンテンツフラグメントを作成し使用する方法を説明します。
+* [&#x200B; フラグメント &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}：メールおよびメールテンプレート用の再利用可能なコンポーネントとしてビジュアルコンテンツフラグメントを作成し使用する方法を説明します。
 
 ### 新機能 {#new-features}
 
-* [ 画像からHTML コンバーターへ ](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：メールの準拠した PNG/JPEG画像ファイルをアップロードすると、新しいメールDesignerで使用するために、自動的にHTMLに変換されます。
+* [&#x200B; 画像からHTML コンバーターへ &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：メールの準拠した PNG/JPEG画像ファイルをアップロードすると、新しいメールDesignerで使用するために、自動的にHTMLに変換されます。
 
-* [ ブランドテーマ ](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}:Marketo Engage内でブランドテーマを定義します。 スタイル設定は、ブランドの一貫性を確保するために、メールテンプレートやその他のメールアセットをまたいで再利用および適用できます。
+* [&#x200B; ブランドテーマ &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}:Marketo Engage内でブランドテーマを定義します。 スタイル設定は、ブランドの一貫性を確保するために、メールテンプレートやその他のメールアセットをまたいで再利用および適用できます。
 
-* [ テンプレートインポーター ](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}：クラシックメールエディターからメールテンプレートを読み込んで、Design Studio で新規メールDesignerと互換性のあるテンプレートを作成します。
+* [&#x200B; テンプレートインポーター &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}：クラシックメールエディターからメールテンプレートを読み込んで、Design Studio で新規メールDesignerと互換性のあるテンプレートを作成します。
 
-* [ 条件付きコンテンツ ](/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md){target="_blank"}：トークンを超えてメールのパーソナライゼーションを実現できる、新しいメールDesignerのパリティ機能。
+* [&#x200B; 条件付きコンテンツ &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md){target="_blank"}：トークンを超えてメールのパーソナライゼーションを実現できる、新しいメールDesignerのパリティ機能。
 
 ## よくある質問 {#faq}
 
@@ -76,7 +76,7 @@ E メールDesignerは、Marketo Engageの最新のイノベーションであ�
 
 **既存のメールテンプレートは新しいデザイナーで機能しますか？**
 
-はい。ただし、[ 読み込む必要があります ](/help/marketo/product-docs/email-marketing/email-designer/import-template.md)。
+はい。ただし、[&#x200B; 読み込む必要があります &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/import-template.md)。
 
 **新しいデザイナーアセットを別のプログラムに簡単に移動できますか？**
 
@@ -88,7 +88,7 @@ API を使用して編集されているAssetsは、現時点では、新しい�
 
 **ブランディング（フォント、ロゴ、色）を強制する方法はありますか？**
 
-はい、あります。[ ブランドテーマ ](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md) を使用して、ブランドガイドラインを作成および管理します。
+はい、あります。[&#x200B; ブランドテーマ &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md) を使用して、ブランドガイドラインを作成および管理します。
 
 **テンプレート用のモジュールは、よりカスタマイズ可能かつスケーラブルになりますか？**
 
