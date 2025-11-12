@@ -19,7 +19,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->フラグメントは、古いメールエディターの [ スニペット ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md){target="_blank"} に相当します。
+>フラグメントは、古いメールエディターの [&#x200B; スニペット &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md){target="_blank"} に相当します。
 
 ワークフローでフラグメントを最大限に活用するには：
 
@@ -34,23 +34,23 @@ ht-degree: 2%
 
 ビジュアルフラグメントにアクセスするには、Marketo Engageの **Design Studio** に移動します。 左側のツリーで、「**[!UICONTROL フラグメント（新規）]**」をクリックします。
 
-![ フラグメントへのアクセス ](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
+![&#x200B; フラグメントへのアクセス &#x200B;](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
 デフォルトでは、テーブルは「_[!UICONTROL 変更済み]_ 列で並べ替えられます。 その他の列タイトルをクリックして、テーブルの並べ替え基準を変更します。 同じタイトルをもう一度クリックすると、昇順と降順が切り替わります。
 
 ### 検索とフィルター
 
-検索バーを使用して、名前でフラグメントを検索します。 _フィルター_ アイコン（![ フィルターアイコン ](assets/icon-filter.svg)）をクリックして、使用可能なフィルターオプションを表示し、目的の設定を選択します。
+検索バーを使用して、名前でフラグメントを検索します。 _フィルター_ アイコン（![&#x200B; フィルターアイコン &#x200B;](assets/icon-filter.svg)）をクリックして、使用可能なフィルターオプションを表示し、目的の設定を選択します。
 
-![ 表示されたフラグメントのフィルタリング ](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
+![&#x200B; 表示されたフラグメントのフィルタリング &#x200B;](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
 
 ### 列のカスタマイズ {#customize-the-column-display}
 
-右上の _テーブルをカスタマイズ_ アイコン（![ テーブルアイコンをカスタマイズ ](assets/icon-column-settings.svg)）をクリックして、テーブルに表示する列をカスタマイズします。
+右上の _テーブルをカスタマイズ_ アイコン（![&#x200B; テーブルアイコンをカスタマイズ &#x200B;](assets/icon-column-settings.svg)）をクリックして、テーブルに表示する列をカスタマイズします。
 
 必要な列を選択し、「**[!UICONTROL 適用]**」をクリックします。
 
-![ テーブルモーダルのカスタマイズ ](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
+![&#x200B; テーブルモーダルのカスタマイズ &#x200B;](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
 ### フラグメントステータス {#fragment-status}
 
@@ -98,7 +98,7 @@ ht-degree: 2%
 
 1. 新しいビジュアルフラグメントを作成するには、フラグメントリストページの右上にある **[!UICONTROL フラグメントを作成]** をクリックします。
 
-   ![ フラグメントを作成ボタン ](assets/create-fragments-1.png){width="700" zoomable="yes"}
+   ![&#x200B; フラグメントを作成ボタン &#x200B;](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
 1. フラグメントに **[!UICONTROL 名前]** とオプションの **[!UICONTROL 説明]** を入力します。
 
@@ -109,11 +109,11 @@ ht-degree: 2%
    * 文字：英数字および特殊文字は問題ありません
    * 予約文字は使用できません **_使用できません_**: `\ / : * ? " < > |`
 
-   ![ フラグメントを作成モーダル ](assets/create-fragments-2.png){width="400" zoomable="yes"}
+   ![&#x200B; フラグメントを作成モーダル &#x200B;](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
 1. 「**[!UICONTROL 作成]**」をクリックします。
 
-   ![ フラグメントを作成モーダル ](assets/create-fragments-3.png){width="400" zoomable="yes"}
+   ![&#x200B; フラグメントを作成モーダル &#x200B;](assets/create-fragments-3.png){width="400" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -125,7 +125,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >手動スタイル設定を選択した場合は、[ コンテンツデザインツール ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} を使用して、視覚的なフラグメントコンテンツを作成します。
+   >手動スタイル設定を選択した場合は、[&#x200B; コンテンツデザインツール &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} を使用して、視覚的なフラグメントコンテンツを作成します。
 
 1. _テーマ_ アイコンをクリックします。
 
@@ -133,7 +133,7 @@ ht-degree: 2%
 
    >[!INFO]
    >
-   >詳しくは、[ テーマ設定 ](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"} を参照してください。
+   >詳しくは、[&#x200B; テーマ設定 &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"} を参照してください。
 
 1. **[!UICONTROL 保存]** をクリックすれば、いつでもドラフトフラグメントを保存できます。
 
@@ -147,7 +147,7 @@ ht-degree: 2%
 >
 >公開されたフラグメントがメールまたはメールテンプレートで使用されている場合、その名前を変更したり、コンテンツを編集したりすることはできません。 フラグメントに変更を加える場合は、ドラフトバージョンを作成できます。
 
-![ 公開済みフラグメントの詳細を表示 ](assets/view-fragment-details-1.png){width="600" zoomable="yes"}
+![&#x200B; 公開済みフラグメントの詳細を表示 &#x200B;](assets/view-fragment-details-1.png){width="600" zoomable="yes"}
 
 **[!UICONTROL フラグメントを編集]** をクリックして、フラグメントをビジュアルコンテンツエディターで開きます。
 
@@ -161,7 +161,7 @@ ht-degree: 2%
 >
 >メールまたはメールテンプレートで現在使用されているフラグメントは削除できません。
 
-![ フラグメントの参照で使用 ](assets/view-fragment-used-by-1.png){width="600" zoomable="yes"}
+![&#x200B; フラグメントの参照で使用 &#x200B;](assets/view-fragment-used-by-1.png){width="600" zoomable="yes"}
 
 リンクをクリックして、フラグメントが使用されている対応するメールまたはメールテンプレートを開きます。
 
@@ -176,7 +176,7 @@ ht-degree: 2%
 
 この操作を実行すると、確認ダイアログが開きます。 **[!UICONTROL キャンセル]** をクリックするか、「**[!UICONTROL 削除]**」をクリックして削除を確定すると、プロセスを中止できます。
 
-![ フラグメントを削除ダイアログ ](assets/fragment-delete-dialog.png){width="400"}
+![&#x200B; フラグメントを削除ダイアログ &#x200B;](assets/fragment-delete-dialog.png){width="400"}
 
 ## フラグメントの編集 {#edit-fragments}
 
@@ -196,7 +196,7 @@ ht-degree: 2%
 
 1. 必要な編集を行います。
 
-   ![ ドラフト状態のフラグメントの詳細 ](assets/fragment-draft-details.png){width="600" zoomable="yes"}
+   ![&#x200B; ドラフト状態のフラグメントの詳細 &#x200B;](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
 1. ビジュアルデザイナーでコンテンツを変更するには、「**[!UICONTROL フラグメントを編集]** をクリックします。 終了したら「**保存**」をクリックします。
 
@@ -218,7 +218,7 @@ ht-degree: 2%
 
    ダイアログで **[!UICONTROL OK]** をクリックして、ドラフトバージョンをビジュアルデザイナーで開きます。 必要に応じて、`image source` KG - リンクをここで変更できます。
 
-   ![ ドラフトバージョンを作成ダイアログ ](assets/fragments-create-draft-version.png){width="300"}
+   ![&#x200B; ドラフトバージョンを作成ダイアログ &#x200B;](assets/fragments-create-draft-version.png){width="300"}
 
 1. **[!UICONTROL 保存]** または **[!UICONTROL 保存して閉じる]** をクリックして、フラグメントの詳細に戻ります。
 
@@ -234,7 +234,7 @@ _[!UICONTROL フラグメント]_ リストページからドラフトバージ�
 
 * フラグメント名の横にある _詳細_ アイコン（**...**）をクリックし、「**[!UICONTROL ドラフトバージョンを開く]**」を選択します。
 
-  ![ ドラフトバージョンを開く ](assets/fragments-create-draft-version.png){width="300"}
+  ![&#x200B; ドラフトバージョンを開く &#x200B;](assets/fragments-create-draft-version.png){width="300"}
 
 * フラグメント名をクリックして開きます。 次に、右上の **[!UICONTROL ドラフトバージョンを開く]** をクリックします。
 
@@ -261,11 +261,11 @@ _[!UICONTROL フラグメント]_ リストページからドラフトバージ�
 * _[!UICONTROL フラグメント]_ リストページで、フラグメント名の横にある _詳細_ アイコン（**...**）をクリックし、「**[!UICONTROL 複製]**」を選択します。
 * フラグメントの詳細ページの右上にある「**[!UICONTROL ..」をクリックします。詳細を表示して]** 「複製 **[!UICONTROL を選択]** ます。
 
-![ フラグメントを複製 ](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
+![&#x200B; フラグメントを複製 &#x200B;](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
 ダイアログで、一意の名前と説明（オプション）を入力します。 「**[!UICONTROL 複製]**」をクリックします。
 
-![ 複製されたフラグメントの名前と説明を入力 ](assets/fragment-duplicate-dialog.png){width="400"}
+![&#x200B; 複製されたフラグメントの名前と説明を入力 &#x200B;](assets/fragment-duplicate-dialog.png){width="400"}
 
 複製されたフラグメントは、_フラグメント_ リストに表示されます。
 
@@ -299,7 +299,7 @@ _[!UICONTROL フラグメント]_ リストページからドラフトバージ�
 
 >[!TIP]
 >
->フラグメントをメール内の水平レイアウト全体に配置する場合は、[!UICONTROL 1:1 列 ] 構造を追加してから、フラグメントをドラッグ&amp;ドロップします。
+>フラグメントをメール内の水平レイアウト全体に配置する場合は、[!UICONTROL 1:1 列 &#x200B;] 構造を追加してから、フラグメントをドラッグ&amp;ドロップします。
 
 メール/メールテンプレートを保存した後、「_[!UICONTROL 使用者]_ タブを選択すると、フラグメントの詳細ページに表示されます。 追加されたフラグメントは、メールまたはテンプレート内では編集できません。公開されたソースフラグメントがコンテンツを定義します。
 
@@ -315,8 +315,8 @@ _[!UICONTROL フラグメント]_ リストページからドラフトバージ�
 
 エディターページでフラグメントを選択すると、これらのアクションはコンテキストツールバーと、右側のプロパティパネルから使用できます。
 
-![ 選択されているフラグメントへのアクションの適用 ](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
+![&#x200B; 選択されているフラグメントへのアクションの適用 &#x200B;](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
 
 >[!MORELIKETHIS]
 >
->[ カスタマイズ可能なフラグメント ](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)
+>[&#x200B; カスタマイズ可能なフラグメント &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md)
