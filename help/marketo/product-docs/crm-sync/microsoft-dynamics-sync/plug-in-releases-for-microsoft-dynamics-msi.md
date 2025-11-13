@@ -4,10 +4,10 @@ description: ' [!DNL Microsoft Dynamics]  MSI 向けプラグインリリース 
 title: ' [!DNL Microsoft Dynamics]  MSI 向けプラグインリリース'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
 workflow-type: tm+mt
-source-wordcount: '403'
-ht-degree: 100%
+source-wordcount: '442'
+ht-degree: 91%
 
 ---
 
@@ -63,7 +63,9 @@ Marketo のネイティブ CRM 同期ソリューションを [!DNL Dynamics] �
    <td>2.00.31</td>
    <td>匿名 web アクティビティのページネーションに変更します。
    <p>
-   ユーザビューから秘密鍵の情報を暗号化します。暗号化を実行するには、新しいパッケージの読み込み後にパスワードを変更する必要があります。</td>
+   ユーザビューから秘密鍵の情報を暗号化します。暗号化を実行するには、新しいパッケージの読み込み後にパスワードを変更する必要があります。
+   <p>
+   Dynamics プラグインの MSI を更新する場合は、新しいパッケージがインストールされた状態でアクセス権限が発生しないように、SOAP API 秘密鍵と MSI 資格情報の両方を更新の形で更新することをお勧めします。</td>
   </tr>
   <tr>
    <td>2023年10月18日（PT）</td>
