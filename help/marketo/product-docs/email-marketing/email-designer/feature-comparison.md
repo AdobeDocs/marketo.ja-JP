@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '865'
 ht-degree: 14%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 14%
 
 以下の表を使用して、以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較してください。
 
-詳しくは、このページ（および [&#x200B; 最新のリリースノート &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
+詳しくは、このページ（および [ 最新のリリースノート ](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
 
 <table><thead>
   <tr>
@@ -244,22 +244,22 @@ ht-degree: 14%
     <td>対応可能</td>
   </tr>
   <tr>
+    <td>Velocity スクリプティング</td>
+    <td>メールで Velocity スクリプティングを使用する機能。</td>
+    <td>対応可能</td>
+    <td>対応可能</td>
+  </tr>
+  <tr>
     <td>電子メールアセットを使用したプログラムの移動、削除、読み込みのサポート</td>
     <td>メールプログラムを電子メールアセットと共に移動、削除、読み込む機能。</td>
     <td>対応可能</td>
-    <td>まもなくリリース</td>
+    <td>対応可能</td>
   </tr>
   <tr>
     <td>役割と権限</td>
     <td>メール、メールテンプレート、フラグメントの役割と権限を追加する機能。</td>
     <td>対応可能</td>
-    <td>まもなくリリース</td>
-  </tr>
-  <tr>
-    <td>Velocity スクリプティング</td>
-    <td>メールで Velocity スクリプティングを使用する機能。</td>
     <td>対応可能</td>
-    <td>まもなくリリース</td>
   </tr>
   <tr>
     <td>実験（A/B テスト）</td>
