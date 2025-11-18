@@ -52,13 +52,13 @@ ht-degree: 82%
 
 ### 新機能 {#new-features}
 
-* [ 画像からHTML コンバーターへ ](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：メールの準拠した PNG/JPEG画像ファイルをアップロードすると、新しいメールDesignerで使用するために、自動的にHTMLに変換されます。
+* [&#x200B; 画像からHTML コンバーターへ &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：メールの準拠した PNG/JPEG画像ファイルをアップロードすると、新しいメールDesignerで使用するために、自動的にHTMLに変換されます。
 
-* [ ブランドテーマ ](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}:Marketo Engage内でブランドテーマを定義します。 スタイル設定は、ブランドの一貫性を確保するために、メールテンプレートやその他のメールアセットをまたいで再利用および適用できます。
+* [&#x200B; ブランドテーマ &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}:Marketo Engage内でブランドテーマを定義します。 スタイル設定は、ブランドの一貫性を確保するために、メールテンプレートやその他のメールアセットをまたいで再利用および適用できます。
 
-* [ テンプレートインポーター ](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}：クラシックメールエディターからメールテンプレートを読み込んで、Design Studio で新規メールDesignerと互換性のあるテンプレートを作成します。
+* [&#x200B; テンプレートインポーター &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}：クラシックメールエディターからメールテンプレートを読み込んで、Design Studio で新規メールDesignerと互換性のあるテンプレートを作成します。
 
-* [ 条件付きコンテンツ ](/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md){target="_blank"}：トークンを超えてメールのパーソナライゼーションを実現できる、新しいメールDesignerのパリティ機能。
+* [&#x200B; 条件付きコンテンツ &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md){target="_blank"}：トークンを超えてメールのパーソナライゼーションを実現できる、新しいメールDesignerのパリティ機能。
 
 ## よくある質問 {#faq}
 
@@ -72,7 +72,7 @@ ht-degree: 82%
 
 **既存のメールテンプレートは新しいデザイナーで機能しますか？**
 
-はい。ただし、[ 読み込む必要があります ](/help/marketo/product-docs/email-marketing/email-designer/import-template.md)。
+はい。ただし、[&#x200B; 読み込む必要があります &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/import-template.md)。
 
 **新しいデザイナーアセットを別のプログラムに簡単に移動できますか？**
 
@@ -84,7 +84,7 @@ ht-degree: 82%
 
 **ブランディング（フォント、ロゴ、カラー）を適用する方法はありますか？**
 
-はい、あります。[ ブランドテーマ ](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md) を使用して、ブランドガイドラインを作成および管理します。
+はい、あります。[&#x200B; ブランドテーマ &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md) を使用して、ブランドガイドラインを作成および管理します。
 
 **テンプレートのモジュールを作成すると、よりカスタマイズ可能で拡張性が高くなりますか？**
 
