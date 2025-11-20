@@ -3,10 +3,10 @@ description: Adobe Identity Management に関するよくある質問 - Marketo 
 title: Adobe Identity Management に関するよくある質問
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95ed91736b7276dd7a5b9e09958c1f09832ae719
 workflow-type: tm+mt
-source-wordcount: '1645'
-ht-degree: 100%
+source-wordcount: '1579'
+ht-degree: 94%
 
 ---
 
@@ -83,7 +83,7 @@ Ultimate Success を利用している場合は、Admin Console Migration White 
 
 **Adobe Admin Console の詳細はどこで確認できますか？**
 
-[Https://helpx.adobe.com/jp/enterprise/admin-guide.html](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"} にアクセスしてください。
+[Https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"} にアクセスしてください。
 
 **マイアカウントのユーザアカウントに変更を加えるためには、Marketo の管理者セクションにアクセスするのでしょうか？**
 
@@ -123,11 +123,9 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 
 **サブスクリプションで IP 制限設定を使用している場合、Adobe ID の移行後はどうなりますか？**
 
-サブスクリプションを Adobe ID にオンボードした場合、IP 制限設定は Adobe Admin Console に移行されません。 Marketo の IP 制限設定には、特定の IP アドレスからのアクセスのみを許可することや、特定の IP アドレスからのアクセスをブロックすることが含まれます。 現時点では、Adobe Identity Management システムは IP 制限機能をサポートしていません。
+現在の IP 制限は、2026 年第 1 四半期までアクティブのままになります（これは、移行前に有効になっていたサブスクリプションに適用されます）。 これらの制限はAdobe ID ユーザーにも適用されるので、アクセス制御は引き続き期待どおりに動作します。
 
-2025年半ばに、Adobe Identity Management システムは特定の IP アドレスのみを許可する機能をリリースし、現在この機能を使用している Marketo ユーザのトランジションをサポートします。現在この機能を使用しているユーザは、機能がリリースされるまでユーザの移行は行われません。 機能が提供されると、移行がスケジュールされていることがユーザに通知されます。 この機能について詳しくは、機能が利用可能になった時点で提供されます。
-
-現在、特定のアドレスへのアクセスをブロックする IP 制限を使用しているユーザは、Adobe Identity Management システムでサポートされていないので、Adobe ID に移行すると、この機能を使用できなくなります。
+2026 年第 1 四半期以降、従来の IP 制限は廃止されます。 それ以降は、IP ベースのアクセスは、Adobe Admin Console（AAC）でのみ管理されます。 安全なアクセスを維持するには、AAC で IP 制限を設定する必要があります。 詳しくは、こちらの [Marketing Nation のブログ投稿 ](https://nation.marketo.com/t5/product-blogs/updated-important-update-ip-restrictions-feature-transition/ba-p/358420){target="_blank"} を参照してください。
 
 **「シングルサインオンをバイパス」オプションがあるロールを持つユーザがいる場合、Adobe ID の移行後はどうなりますか？**
 
