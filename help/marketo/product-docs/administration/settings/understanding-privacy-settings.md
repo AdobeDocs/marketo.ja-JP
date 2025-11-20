@@ -4,10 +4,10 @@ description: プライバシー設定について - Marketo ドキュメント -
 title: プライバシー設定について
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 100%
+source-wordcount: '479'
+ht-degree: 98%
 
 ---
 
@@ -68,11 +68,7 @@ Cookie を設置できることを検証するには、自分が cookie を設�
 
 マーケターは、匿名化した IP アドレスでユーザーをトラッキングすることで、プライバシーを保持できます。これを行うには、このコードを web サイトに埋め込まれている RTP または [!DNL Munchkin] JavaScript に追加します。
 
-* [!DNL Munchkin] の場合、init 関数に {&quot;anonymizeIP&quot;,true} を追加するだけです。
-
-  >[!NOTE]
-  >
-  >このパラメーターを使用するには、[!DNL Munchkin] V2 を有効にする必要があります。これをお使いのサブスクリプションで有効にするには、[Marketo サポート](https://nation.marketo.com/community/support_solutions)にお問い合わせください。
+* [!DNL Munchkin] しくは、`{"anonymizeIP",true}`init 関数 [ に ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"} を追加します。
 
 * Web パーソナライゼーション（RTP）の場合は、これを javascript に追加します。
 
