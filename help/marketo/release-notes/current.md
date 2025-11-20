@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
 source-wordcount: '729'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -64,7 +64,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
  <tr>
    <td><strong>E メールデザイナー - 画像から HTML へのコンバーター</strong>：あるメールの互換 PNG／JPEG 画像ファイルをアップロードすると、HTML へと自動的に変換され、新しい E メールデザイナーできるようになります。</td>
    <td>リリース済み</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">画像をHTML テンプレートに変換する</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">HTML テンプレートへの画像の変換</a></td>
   </tr>
   <tr>
    <td> </td>

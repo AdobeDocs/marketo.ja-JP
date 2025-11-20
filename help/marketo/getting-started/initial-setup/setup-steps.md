@@ -44,7 +44,7 @@ ht-degree: 80%
 * **ドメインの MX レコードを設定します。** MX レコードを使用すると、返信や自動返信を処理するために、メールを送信するドメインにメールを受け取ることができます。会社ドメインから送信する場合は、既にこの設定が完了している可能性があります。そうでない場合は、通常、会社ドメインの MX レコードにマッピングするように設定できます。
 * **送信元アドレスの推奨設定。**&#x200B;すべてのメールキャンペーンの送信元アドレスに、有効な既存メールドメインと動作中のメールドメインを使用する必要があります。会社ドメインから送信するのではなく、会社ドメインのサブドメインを設定すると便利です。これにより、会社のメールストリームの問題が Marketo のメールストリームに影響を与えず、逆についても同様のことが言えます。さらに、`something@nonexistentdomain.com` からメールを送信すると、メールがフィルターされたりブロックされたりします。送信者の送信元アドレスで使用されるドメインには、有効で動作中の postmaster@ アカウントと abuse@ アカウントが必要です。
 
-Google アプリを使用して自社のメールをホストしている場合、お使いのドメインで abuse@ や postmaster@ のメールを作成することはできません。この問題を回避するには、「abuse」および「postmaster」という名前のグループを作成する必要があります。これらのグループのメンバーであるユーザーには、これらのアドレス（例：<postmaster@domain.com>）に送信されたメールが届きます。 グループ作成の詳細な手順については、[&#x200B; こちら &#x200B;](https://support.google.com/a/answer/33343#adminconsole){target="_blank"} を参照してください。
+Google アプリを使用して自社のメールをホストしている場合、お使いのドメインで abuse@ や postmaster@ のメールを作成することはできません。この問題を回避するには、「abuse」および「postmaster」という名前のグループを作成する必要があります。これらのグループのメンバーであるユーザーには、これらのアドレス（例：<postmaster@domain.com>）に送信されたメールが届きます。 グループ作成の詳細な手順については、[ こちら ](https://support.google.com/a/answer/33343#adminconsole){target="_blank"} を参照してください。
 
 メールトラッキングリンクの CNAME を選択します（手順 3 で選択したランディングページ CNAME とは&#x200B;_異なる_&#x200B;ものを選択）。以下に例を示します。
 
@@ -270,10 +270,10 @@ Marketo Engageには、任意の web ページでの人物アクティビティ�
 
 ## パフォーマンスの期待値 {#performance-expectations}
 
-Marketo のパフォーマンスに関して期待できる点は何ですか？マーケティングキャンペーンのサイズと複雑さに応じて異なる場合があります。ただし、[Marketo Engageの製品説明 &#x200B;](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"} に記載されているいくつかのテーブルの「標準」列に概説されているパフォーマンスレベルと同等のパフォーマンスレベルを期待できます。 「Performance」列と「Performance Plus」列は、[&#x200B; より高いパフォーマンス・レベル &#x200B;](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"} を提供するパフォーマンス層パッケージを指します。
+Marketo のパフォーマンスに関して期待できる点は何ですか？マーケティングキャンペーンのサイズと複雑さに応じて異なる場合があります。ただし、[Marketo Engageの製品説明 ](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"} に記載されているいくつかのテーブルの「標準」列に概説されているパフォーマンスレベルと同等のパフォーマンスレベルを期待できます。 「Performance」列と「Performance Plus」列は、[ より高いパフォーマンス・レベル ](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"} を提供するパフォーマンス層パッケージを指します。
 
 >[!MORELIKETHIS]
 >
->* [Marketo Engageのプロトコルの設定 &#x200B;](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
+>* [Marketo Engageのプロトコルの設定 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
 >
->* [&#x200B; ユーザー設定 &#x200B;](/help/marketo/getting-started/initial-setup/user-setup.md)
+>* [ ユーザー設定 ](/help/marketo/getting-started/initial-setup/user-setup.md)

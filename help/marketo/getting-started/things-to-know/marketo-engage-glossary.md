@@ -5,7 +5,7 @@ title: Marketo Engage 用語集
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '4065'
 ht-degree: 100%
 
@@ -527,7 +527,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
    <td>マーケターが見込み客と関わりを持ち、パフォーマンスをトラッキングできるようにするアドオン型の多面的なセールスツール。</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Marketo Sales Insight（MSI）</strong></td>
+   <td colspan="1"><strong>Marketo セールスインサイト（MSI）</strong></td>
    <td colspan="1">マーケターが <strong>CRM</strong> からのマーケティングインサイトを販売者に提供できるようにするアドオン機能。</td>
   </tr>
   <tr>
@@ -665,8 +665,8 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
  </colgroup>
  <tbody>
   <tr>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md" rel="nofollow"><strong>クオリフィケーションルール</strong></a></td>
-   <td><strong>スマートキャンペーン</strong>で所定の条件を満たすと、対象となります。前述のスマートキャンペーンで<strong>フロー</strong>を何回実行できるかを決定するクオリフィケーションルールを設定できます。</p></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md" rel="nofollow"><strong>選定ルール</strong></a></td>
+   <td><strong>スマートキャンペーン</strong>で所定の条件を満たすと、対象となります。前述のスマートキャンペーンで<strong>フロー</strong>を何回実行できるかを決定する選定ルールを設定できます。</p></td>
   </tr>
  </tbody>
 </table>
