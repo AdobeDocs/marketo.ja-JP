@@ -13,15 +13,15 @@ ht-degree: 11%
 
 # ユーザー設定チェックリスト {#user-setup-checklist}
 
-[ 初期設定の手順 ](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} がすべて完了したので、次は、継続的にスムーズに使用するための基本的な要素を確立します。 これにより、Marketo Engageを使用したジャーニーの基盤が構築され、その機能を最大限に活用できるようになります。 それでは始めましょう。
+[&#x200B; 初期設定の手順 &#x200B;](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"} がすべて完了したので、次は、継続的にスムーズに使用するための基本的な要素を確立します。 これにより、Marketo Engageを使用したジャーニーの基盤が構築され、その機能を最大限に活用できるようになります。 それでは始めましょう。
 
 >[!NOTE]
 >
->また、このチェックリストを [ ベストプラクティスのリストと共に ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 新しいインスタンスに対してダウンロードし、移動中に手順を確認することもできます。
+>また、このチェックリストを [&#x200B; ベストプラクティスのリストと共に &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx) 新しいインスタンスに対してダウンロードし、移動中に手順を確認することもできます。
 
 ## Adobe Identity ManagementのMarketo Engage {#marketo-engage-on-adobe-identity-management}
 
-新しいMarketo Engage サブスクリプションは、[Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html) に転送されます。 Adobe Admin Consoleで次の User Management レビューに進みます。
+新しいMarketo Engage サブスクリプションは、[Adobe Identity Management System （IMS） &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html) に転送されます。 Adobe Admin Consoleで次の User Management レビューに進みます。
 
 <table>
 <thead>
@@ -69,7 +69,7 @@ ht-degree: 11%
 
 ## Adobe Identity ManagementでのDynamic Chatの設定 {#dynamic-chat-on-adobe-identity-management}
 
-Marketo Engageのネイティブなスレッド自動処理チャネルである [0}Dynamic Chat} を使用するには、](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=ja)Adobe Admin Console[ の以下の手順に従って、ユーザー権限の設定を行います。](https://adminconsole.adobe.com/){target="_blank"}
+Marketo Engageのネイティブなスレッド自動処理チャネルである [0&rbrace;Dynamic Chat&rbrace; を使用するには、](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html?lang=ja)Adobe Admin Console[&#x200B; の以下の手順に従って、ユーザー権限の設定を行います。](https://adminconsole.adobe.com/){target="_blank"}
 
 <table>
 <thead>
@@ -124,4 +124,4 @@ Marketo Engageのネイティブなスレッド自動処理チャネルである
 
 <p>
 
-Marketo Engage アカウントの準備が整ったので、アドビの [ 新しいMarketo Engage インスタンスのベストプラクティス ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} の節を確認して、投資を最大限に活用し、長期的な成功を収めるためのセットアップを行ってください。
+Marketo Engage アカウントの準備が整ったので、アドビの [&#x200B; 新しいMarketo Engage インスタンスのベストプラクティス &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"} の節を確認して、投資を最大限に活用し、長期的な成功を収めるためのセットアップを行ってください。
