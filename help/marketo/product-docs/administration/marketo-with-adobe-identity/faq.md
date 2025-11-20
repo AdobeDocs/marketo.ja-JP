@@ -83,7 +83,7 @@ Ultimate Success を利用している場合は、Admin Console Migration White 
 
 **Adobe Admin Console の詳細はどこで確認できますか？**
 
-[Https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"} にアクセスしてください。
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"} にアクセスしてください。
 
 **マイアカウントのユーザアカウントに変更を加えるためには、Marketo の管理者セクションにアクセスするのでしょうか？**
 
@@ -125,7 +125,7 @@ Adobe IMS は、現在、Marketo のデバイス認証機能などをサポー�
 
 現在の IP 制限は、2026 年第 1 四半期までアクティブのままになります（これは、移行前に有効になっていたサブスクリプションに適用されます）。 これらの制限はAdobe ID ユーザーにも適用されるので、アクセス制御は引き続き期待どおりに動作します。
 
-2026 年第 1 四半期以降、従来の IP 制限は廃止されます。 それ以降は、IP ベースのアクセスは、Adobe Admin Console（AAC）でのみ管理されます。 安全なアクセスを維持するには、AAC で IP 制限を設定する必要があります。 詳しくは、こちらの [Marketing Nation のブログ投稿 ](https://nation.marketo.com/t5/product-blogs/updated-important-update-ip-restrictions-feature-transition/ba-p/358420){target="_blank"} を参照してください。
+2026 年第 1 四半期以降、従来の IP 制限は廃止されます。 それ以降は、IP ベースのアクセスは、Adobe Admin Console（AAC）でのみ管理されます。 安全なアクセスを維持するには、AAC で IP 制限を設定する必要があります。 詳しくは、こちらの [Marketing Nation のブログ投稿 &#x200B;](https://nation.marketo.com/t5/product-blogs/updated-important-update-ip-restrictions-feature-transition/ba-p/358420){target="_blank"} を参照してください。
 
 **「シングルサインオンをバイパス」オプションがあるロールを持つユーザがいる場合、Adobe ID の移行後はどうなりますか？**
 
