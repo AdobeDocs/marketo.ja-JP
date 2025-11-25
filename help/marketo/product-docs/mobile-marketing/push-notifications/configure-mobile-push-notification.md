@@ -1,13 +1,12 @@
 ---
-unique-page-id: 7512454
 description: モバイルプッシュ通知の設定 - Marketo ドキュメント - 製品ドキュメント
 title: モバイルプッシュ通知の設定
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 100%
+source-wordcount: '464'
+ht-degree: 74%
 
 ---
 
@@ -27,7 +26,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >プッシュメッセージが 1 つのプラットフォーム（iOS など）にのみ適用される場合は、他のプラットフォームのセレクターを「**無効**」にスライドして除外できます。
+   >プッシュメッセージが 1 つのプラットフォーム（iOSなど）のみに適用される場合は、セレクターを手動で **無効** にスライドすることで、他のプラットフォームを除外できます。
 
 1. 「**[!UICONTROL 次へ]**」をクリックします。
 
@@ -55,11 +54,7 @@ ht-degree: 100%
 
    ![](assets/configure-mobile-push-notification-6.png)
 
-   >[!NOTE]
-   >
-   >メッセージとタップアクションは、両方のプラットフォームで同じように表示されます。
-
-1. iOS のみの場合は、チェックボックスをオンにして、メッセージが届いたときにアプリにサウンドを再生するように指示します。Android ではサウンドは自動的に再生されます。
+1. iOSの場合、メッセージの受信時にサウンドを再生するようにアプリに指示するには、チェックボックスをオンにします。 Android ではサウンドは自動的に再生されます。
 
    ![](assets/configure-mobile-push-notification-7.png)
 
@@ -71,7 +66,13 @@ ht-degree: 100%
 
    ![](assets/configure-mobile-push-notification-9.png)
 
-これで完了です。これで、プッシュ通知を送信する準備が整いました。
+プッシュ通知を送信する準備が整いました。
+
+「`Limited Access: You do not have sufficient privileges to perform this action`」というエラーが表示された場合は、ユーザーに **Access Design Studio** > `Access Landing Page` 権限が設定されていることと、次のうち少なくとも 1 つが設定されていることを確認します。
+
+* プッシュ通知の承認
+* プッシュ通知を削除
+* プッシュ通知の編集
 
 ## ディープリンク URI {#deep-link-uris}
 
@@ -81,7 +82,7 @@ ht-degree: 100%
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-ただし、アプリのディープリンク構造は、上記の例とは異なる場合があります。デベロッパーには、ディープリンク URI を定義する多くのオプションがあるので、使用したいページの URI（リンク）をデベロッパーに送信するよう依頼してください。これにより、プッシュメッセージに入力した URI が適切な場所を指すようになります。デベロッパーが実行できる操作について詳しくは、[こちら](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)をご覧ください。
+ただし、アプリのディープリンク構造は、上記の例とは異なる場合があります。開発者はディープリンク URI を定義する際に多くのオプションを使用できるので、使用したいページの URI （リンク）を開発者に送信してもらってください。 これにより、プッシュメッセージに入力する URI が適切な場所を指すようになります。 デベロッパーが実行できる操作について詳しくは、[こちら](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app)をご覧ください。
 
 >[!MORELIKETHIS]
 >
