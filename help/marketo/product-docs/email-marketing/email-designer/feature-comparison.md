@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
 source-wordcount: '866'
 ht-degree: 14%
@@ -18,7 +18,7 @@ ht-degree: 14%
 
 以下の表を使用して、以前のメールエディター（メールエディター 2.0）の機能と新しいメールDesignerの機能を比較してください。
 
-詳しくは、このページ（および [&#x200B; 最新のリリースノート &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
+詳しくは、このページ（および [ 最新のリリースノート ](/help/marketo/release-notes/current.md){target="_blank"}）を参照してください。
 
 <table><thead>
   <tr>
@@ -250,12 +250,6 @@ ht-degree: 14%
     <td>対応可能</td>
   </tr>
   <tr>
-    <td>電子メールアセットを使用したプログラムの移動、削除、読み込みのサポート</td>
-    <td>メールプログラムを電子メールアセットと共に移動、削除、読み込む機能。</td>
-    <td>対応可能</td>
-    <td>利用不可</td>
-  </tr>
-  <tr>
     <td>役割と権限</td>
     <td>メール、メールテンプレート、フラグメントの役割と権限を追加する機能。</td>
     <td>対応可能</td>
@@ -284,6 +278,12 @@ ht-degree: 14%
     <td>メール、メールテンプレート、フラグメントのHTML コンテンツを変更する機能。</td>
     <td>対応可能</td>
     <td>未定</td>
+  </tr>
+  <tr>
+    <td>電子メールアセットを使用したプログラムの移動、削除、読み込みのサポート</td>
+    <td>メールプログラムを電子メールアセットと共に移動、削除、読み込む機能。</td>
+    <td>対応可能</td>
+    <td>利用不可</td>
   </tr>
   <tr>
     <td>予測コンテンツ</td>

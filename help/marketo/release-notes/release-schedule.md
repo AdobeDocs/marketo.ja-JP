@@ -4,10 +4,10 @@ description: リリーススケジュール - Marketo ドキュメント - 製�
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 8148440f2893fa27922b91ea641fc591cab57680
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 97%
+source-wordcount: '137'
+ht-degree: 96%
 
 ---
 
@@ -31,12 +31,6 @@ _リリース日／機能は変更される場合があります。_
    <th width="250px">リリース</th>
    <th width="250px">リリース日</th>
    <th width="250px">ステータス</th>
-  </tr>
-  <tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">2025年5月</a></td>
-   <td>2025年5月23日（PT）</td>
-   <td>リリース済み</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">2025年7月</a></td>
@@ -66,6 +60,16 @@ _リリース日／機能は変更される場合があります。_
   <tr>
   <td>2026 年 2 月</td>
    <td>2026 年 2 月 20 日（Pt）</td>
+   <td>予定通り</td>
+  </tr>
+  <tr>
+  <td>2026 年 3 月</td>
+   <td>2026年3月27日（PT）</td>
+   <td>予定通り</td>
+  </tr>
+  <tr>
+  <td>26 年 5 月</td>
+   <td>2026年5月1日（PT）</td>
    <td>予定通り</td>
   </tr>
  </tbody>
