@@ -4,16 +4,20 @@ description: Email Editor v2.0 の概要 — Marketo ドキュメント — 製�
 title: メールエディター v2.0 の概要
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 100%
+source-wordcount: '469'
+ht-degree: 87%
 
 ---
 
 # メールエディター v2.0 の概要 {#email-editor-v2-overview}
 
-[!DNL Email Editor v2.0] を有効化すると、いくつかの新機能に気づかれるでしょう。
+クラシックメールエディターの概要。
+
+>[!IMPORTANT]
+>
+>正確な日付は設定されていませんが、クラシックメールエディターは 2026 年中に廃止される可能性があります（正確な日付については発表予定です）。 高度な [ メールDesigner](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} は、クラシックエディターでは使用できない機能が多いので、導入を開始することを強くお勧めします。
 
 **メールテンプレート選択ツール**
 
