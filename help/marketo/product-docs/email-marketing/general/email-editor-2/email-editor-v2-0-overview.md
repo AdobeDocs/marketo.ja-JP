@@ -17,7 +17,7 @@ ht-degree: 87%
 
 >[!IMPORTANT]
 >
->正確な日付は設定されていませんが、クラシックメールエディターは 2026 年中に廃止される可能性があります（正確な日付については発表予定です）。 高度な [ メールDesigner](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} は、クラシックエディターでは使用できない機能が多いので、導入を開始することを強くお勧めします。
+>正確な日付は設定されていませんが、クラシックメールエディターは 2026 年中に廃止される可能性があります（正確な日付については発表予定です）。 高度な [&#x200B; メールDesigner](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} は、クラシックエディターでは使用できない機能が多いので、導入を開始することを強くお勧めします。
 
 **メールテンプレート選択ツール**
 
