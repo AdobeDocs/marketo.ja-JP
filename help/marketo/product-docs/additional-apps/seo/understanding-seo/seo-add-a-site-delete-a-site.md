@@ -4,10 +4,10 @@ description: SEO - サイトの追加と削除 - Marketo ドキュメント - �
 title: SEO - サイトの追加と削除
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '217'
+ht-degree: 82%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 100%
 
 Marketo がサイトのページに関連するデータ（インバウンドリンクとレコメンデーション）を取り込むには、ここでサイトの URL を定義する必要があります。
 
->[!AVAILABILITY]
+>[!IMPORTANT]
 >
->すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>2026 年 3 月 31 日（PT）に、Marketo Engageは検索エンジン最適化機能を廃止します。 3 月 30 日以前に関連データを書き出してください。 [詳細情報](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>
+>* [ 書き出しの問題 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ キーワード結果のエクスポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ キーワードのトレンドを書き出し ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ 競合企業キーワードの傾向のエクスポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## [!UICONTROL サイトの追加] {#add-a-site}
 

@@ -4,16 +4,25 @@ description: SEO - キーワード結果のフィルタリング - Marketo ド�
 title: SEO - キーワード結果のフィルタリング
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 100%
+source-wordcount: '186'
+ht-degree: 75%
 
 ---
 
 # SEO - キーワード結果のフィルタリング {#seo-filter-keyword-results}
 
-[キーワード](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)が大量にある場合あります。キーワードにフィルターを適用する様々な方法があります。
+[キーワード](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)が大量にある場合あります。次に、フィルターする様々な方法を示します。
+
+>[!IMPORTANT]
+>
+>2026 年 3 月 31 日（PT）に、Marketo Engageは検索エンジン最適化機能を廃止します。 3 月 30 日以前に関連データを書き出してください。 [詳細情報](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>
+>* [ 書き出しの問題 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ キーワード結果のエクスポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ キーワードのトレンドを書き出し ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ 競合企業キーワードの傾向のエクスポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## リストで絞り込む {#filter-by-list}
 

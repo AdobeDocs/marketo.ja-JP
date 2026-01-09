@@ -4,10 +4,10 @@ description: SEO - ページについて - Marketo ドキュメント - 製品�
 title: SEO - ページについて
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 100%
+source-wordcount: '302'
+ht-degree: 87%
 
 ---
 
@@ -15,17 +15,20 @@ ht-degree: 100%
 
 ## ページ最適化スコア／To Do ウィジェット {#page-optimization-score-to-do-widget}
 
-![](assets/image2014-9-17-21-3a52-3a3.png)
-
 ページ[!UICONTROL 最適化スコア]は、1 ～ 100 のスケールで、検索に対してページがどの程度最適化されているかを示す全体的なランキングです。これは、SEO の数十のベストプラクティスに基づいたものです。
 
 * 0~35 = 適切に最適化されていません
 * 35~70 = 適切な軌道に乗っています
 * 70~100 =素晴らしい！
 
->[!TIP]
+>[!IMPORTANT]
 >
->[!UICONTROL To Do] ボックスの「[!UICONTROL 影響度大]」リンクをクリックすると、「[!UICONTROL 問題]」タブにリダイレクトされ、解決すべき優先度の高い問題が表示されます。
+>2026 年 3 月 31 日（PT）に、Marketo Engageは検索エンジン最適化機能を廃止します。 3 月 30 日以前に関連データを書き出してください。 [詳細情報](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>
+>* [ 書き出しの問題 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ キーワード結果のエクスポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ キーワードのトレンドを書き出し ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ 競合企業キーワードの傾向のエクスポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## 「[!UICONTROL ページ]」タブ {#pages-tab}
 

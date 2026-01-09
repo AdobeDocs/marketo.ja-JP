@@ -4,16 +4,25 @@ description: SEO - メールアラートの環境設定 - Marketo ドキュメ�
 title: SEO - メールアラートの環境設定
 exl-id: 7675a589-dc40-433b-bf0c-1e78e4d653b5
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 100%
+source-wordcount: '103'
+ht-degree: 63%
 
 ---
 
 # SEO - メールアラートの環境設定 {#seo-set-your-email-alert-preferences}
 
 メールの環境設定をカスタマイズして、SEO の取り組みを更新するタイミングを決定できます。
+
+>[!IMPORTANT]
+>
+>2026 年 3 月 31 日（PT）に、Marketo Engageは検索エンジン最適化機能を廃止します。 3 月 30 日以前に関連データを書き出してください。 [詳細情報](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>
+>* [ 書き出しの問題 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ キーワード結果のエクスポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ キーワードのトレンドを書き出し ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ 競合企業キーワードの傾向のエクスポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. 上部のナビゲーションバーで、ユーザー名をクリックします。「**[!UICONTROL メール環境設定]**」をクリックします。
 
