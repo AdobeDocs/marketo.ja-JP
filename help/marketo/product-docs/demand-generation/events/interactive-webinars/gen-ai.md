@@ -3,9 +3,9 @@ description: GenAI の機能 – Marketo ドキュメント – 製品ドキュ�
 title: GenAI の機能
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '630'
+source-wordcount: '674'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 * **自動チャプター生成**:AI を利用したテクノロジーが、ウェビナーコンテンツのチャプターを作成します。
 
 * **AI で生成された概要**：ウェビナーの自動テキスト概要を取得します。
+
+* **AI ベースのブログ生成**：ウェビナーからオンブランドのブログコンテンツを自動的に生成します。
 
 * **編集可能なコンテンツ**：手動および AI を利用した編集機能を使用して、生成されたチャプターおよび概要を必要に応じて変更します。
 
@@ -68,7 +70,7 @@ Adobe GenAI の利用条件に同意したら、次に、個々のユーザー�
 
    >[!NOTE]
    >
-   >* 必要に応じて、「_サムズアップ_」アイコンまたは「![&#x200B; サムズアップ &#x200B;](assets/icon-thumbs-up.png)」アイコンまたは「_サムズダウン_![&#x200B; サムズダウンアイコン &#x200B;](assets/icon-thumbs-down.png) アイコンを使用して、生成されたチャプター/概要の品質を評価できます。 また、フラグアイコン ![&#x200B; フラグアイコン &#x200B;](assets/icon-flag.png) をクリックして、問題のあるコンテンツにフラグを立てることもできます。
+   >* 必要に応じて、「_サムズアップ_」アイコンまたは「![ サムズアップ ](assets/icon-thumbs-up.png)」アイコンまたは「_サムズダウン_![ サムズダウンアイコン ](assets/icon-thumbs-down.png) アイコンを使用して、生成されたチャプター/概要の品質を評価できます。 また、フラグアイコン ![ フラグアイコン ](assets/icon-flag.png) をクリックして、問題のあるコンテンツにフラグを立てることもできます。
    >
    >* 初期概要に満足できない場合は、「**[!UICONTROL 概要を再生成]**」ボタンをクリックすると、別のバージョンが生成されます。
 
@@ -102,13 +104,15 @@ Adobe GenAI の利用条件に同意したら、次に、個々のユーザー�
 
 >[!TIP]
 >
->[&#x200B; 制約 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} を使用して、ターゲットオーディエンスをさらに絞り込みます。
+>[ 制約 ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} を使用して、ターゲットオーディエンスをさらに絞り込みます。
 
 ## 注意事項 {#things-to-note}
 
 * チャプターの削除または結合は、ビデオコンテンツそのものではなく、チャプタースタックにのみ影響します。 これらのアクションは永続的です。
 
 * GenAI 機能は柔軟で、Marketo Engageの機能だけでなく、様々な web ページエディターで使用できます。
+
+* セミナー室で開催されるセッションのみ、ブログの生成に使用できます。 セミナールームは、イベントモジュールまたはセミナー（共有ルーム/イベント）ライセンスを持つアカウントでのみ利用できます。
 
 * 常に変更内容をプレビューして、必要な機能と外観を確保します。
 
