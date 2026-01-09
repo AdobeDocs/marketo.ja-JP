@@ -133,16 +133,16 @@ ht-degree: 1%
 
 Adobeは、インタラクティブウェビナーのアクセシビリティを向上させることにより、発表者や障がいのある参加者を含めるよう努めています。 このソフトウェアは、あらゆるタイプのユーザーのニーズに応え、視覚、聴覚、運動などの障害を持つユーザーも含めた世界標準に準拠するように継続的に強化されています。
 
-Adobe Connectが視覚、聴覚、運動のニーズ [&#x200B; に対する支援を提供する方法について説明 &#x200B;](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"} ます。
+Adobe Connectが視覚、聴覚、運動のニーズ [&#x200B; に対する支援を提供する方法について説明 &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/accessibility-features.html){target="_blank"} ます。
 
 ### クローズドキャプション {#closed-captions}
 
 クローズドキャプションは、Adobe Connect ルーム内の音声をテキストで表現したもので、耳が聞こえない参加者や聞こえにくい参加者がイベントに参加するのに役立ちます。 オーディオコンテンツのリアルタイムキャプションをイベントに統合し、これらのキャプションをクローズドキャプション表示に表示できます。
 
-詳細情報 [&#x200B; クローズドキャプションを有効にする &#x200B;](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
+詳細情報 [&#x200B; クローズドキャプションを有効にする &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}。
 
 ### シミュレートされたライブウェビナー {#simulated-live-webinars}
 
 シミュレートされたライブウェビナー形式を使用して、収録済みのウェビナーをライブであるかのように表示します。 参加者は、スケジュールされた時間に参加し、リアルタイムでセッションを体験して、チャット、投票、Q&amp;A などのインタラクティブ機能を楽しむことができます。シミュレートされたライブウェビナーでは、記録されたコンテンツの信頼性と、ライブイベントのインタラクティブなエクスペリエンスを組み合わせます。
 
-[&#x200B; シミュレートされたライブウェビナー &#x200B;](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"} の詳細情報。
+[&#x200B; シミュレートされたライブウェビナー &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"} の詳細情報。
