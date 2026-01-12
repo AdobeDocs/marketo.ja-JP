@@ -64,7 +64,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## Adobe Connectの機能 {#adobe-connect-features}
 
-Marketo Engage[&#x200B; インタラクティブウェビナー &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} 機能は、Adobe Connectを活用し、イベントデータでユーザー管理とキャンペーンを強化し、ユーザー品質を向上させます。 インタラクティブウェビナーのユーザーに直接影響する、最近のAdobe Connect リリースの一部を以下に示します。
+Marketo Engage[&#x200B; インタラクティブウェビナー &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} 機能は、Adobe Connectを活用し、イベントデータでユーザー管理とキャンペーンを強化し、ユーザー品質を向上させます。 インタラクティブウェビナーのユーザーに直接影響する、最近のAdobe Connect リリースの一部を以下に示します。
 
 * **調査ポッド**:Adobe Connect 12.11 では、構造化されたフィードバックフォームをホストがライブセッション内で直接設計して配信できる新しい調査ポッドが導入されました。
 
@@ -72,7 +72,7 @@ Marketo Engage[&#x200B; インタラクティブウェビナー &#x200B;](https:
 
 * **Enhanced Room Interface Experience**:Adobe Connect 12.11 は、Creative CloudやExperience Cloudなどの他のAdobe製品で使用されているビジュアル言語と連携して、Adobeの最新の Spectrum 2 デザインフレームワークに基づいて構築された、新しくより現代的なルームインターフェイスを導入しました。
 
-詳しくは、[Adobe Connect 12.11 リリースノート &#x200B;](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} を参照してください。
+詳しくは、[Adobe Connect 12.11 リリースノート &#x200B;](https://helpx.adobe.com/jp/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} を参照してください。
 
 ## お知らせ {#announcements}
 
