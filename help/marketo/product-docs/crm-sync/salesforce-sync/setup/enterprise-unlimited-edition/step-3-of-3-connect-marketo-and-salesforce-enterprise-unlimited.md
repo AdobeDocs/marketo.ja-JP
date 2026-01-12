@@ -4,10 +4,10 @@ description: 手順 3 / 3 - Marketo と Salesforce の接続（Enterprise／Unli
 title: 手順 3 / 3 - Marketo と Salesforce の接続（Enterprise／Unlimited）
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f27e0d42161161347cc4c774853fb04e7ccecb5c
 workflow-type: tm+mt
-source-wordcount: '461'
-ht-degree: 100%
+source-wordcount: '460'
+ht-degree: 92%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >「ユーザ名」、「パスワード」、「トークン」の各フィールドではなく「[!DNL Salesforce] にログイン」ボタンが表示される場合、Marketo サブスクリプションで OAuth が有効になっています。詳しくは、[この記事を参照](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)してください。同期が一連の資格情報を使用し始めるとすぐに、**[!DNL Salesforce] の資格情報またはサブスクリプションを切り替えられなくなります**。基本認証を使用する場合は、カスタマーサクセスマネージャーにお問い合わせください。
+   >「ユーザー名/パスワード/トークン」フィールドではなく「[!DNL Salesforce] にログイン」ボタンが表示されている場合、Marketoの購読は OAuth に対して有効になっています。 詳しくは、[この記事を参照](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)してください。同期が一連の資格情報を使用し始めるとすぐに、**[!DNL Salesforce] の資格情報またはサブスクリプションを切り替えられなくなります**。基本認証を使用する場合は、アカウントマネージャーにお問い合わせください。
 
 1. 警告を読んでから、「**[!UICONTROL 資格情報の確認]**」をクリックします。
 
