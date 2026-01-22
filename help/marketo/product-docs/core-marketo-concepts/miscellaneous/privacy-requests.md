@@ -2,7 +2,7 @@
 description: プライバシーリクエスト - Marketo ドキュメント - 製品ドキュメント
 title: プライバシーリクエスト
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 0105c6480f75f8daf3db61cd400a4956698839d9
+source-git-commit: 245e8b2b25a7c51e8e46ace31e189a6132a9ada7
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 99%
@@ -66,7 +66,7 @@ b. アクションの対象となるユーザのメールアドレス
 
 “regulation”：
 
-* **gdpr、**、**ccpa**、**pdpa**、**lgpd_bra**&#x200B;**nzpa_nzl** のいずれか（リクエストに適用されるプライバシー規則）
+* **gdpr、**、**ccpa**、**pdpa**、**lgpd_bra****nzpa_nzl** のいずれか（リクエストに適用されるプライバシー規則）
 
 ## 例 1：GDPR 削除リクエスト {#gdpr-delete-request}
 
@@ -196,4 +196,4 @@ JSON 応答
 
 >[!MORELIKETHIS]
 >
->[プライバシー管理](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
+>[プライバシー管理](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md){target="_blank"}
