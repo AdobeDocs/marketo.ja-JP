@@ -2,10 +2,10 @@
 description: プライバシーリクエスト - Marketo ドキュメント - 製品ドキュメント
 title: プライバシーリクエスト
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0105c6480f75f8daf3db61cd400a4956698839d9
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -56,7 +56,7 @@ b. アクションの対象となるユーザのメールアドレス
 
 * &quot;action&quot;：**access** または **delete** のいずれか
 * “userIDs”：
-   * “namespace”：**email**
+   * &quot;namespace&quot;: **電子メール**
    * “type”：**standard**
    * &quot;value&quot;：`<Data Subject's Email Address>`
 
@@ -87,7 +87,7 @@ JSON リクエスト
       ],
       "userIDs": [
         {
-          "namespace": "email",
+          "namespace": "Email",
           "type": "standard",
           "value": "john.doe@adobe.com"
         }
@@ -117,7 +117,7 @@ JSON 応答
           ],
           "userIDs": [
             {
-              "namespace": "email",
+              "namespace": "Email",
               "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
@@ -150,7 +150,7 @@ JSON リクエスト
       ],
       "userIDs": [
         {
-          "namespace": "email",
+          "namespace": "Email",
           "type": "standard",
           "value": "john.doe@adobe.com"
         }
@@ -180,7 +180,7 @@ JSON 応答
           ],
           "userIDs": [
             {
-              "namespace": "email",
+              "namespace": "Email",
               "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
