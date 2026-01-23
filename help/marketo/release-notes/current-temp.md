@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 96050d108aae64bbdab377cf5e31392df177b363
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 61%
+source-wordcount: '599'
+ht-degree: 49%
 
 ---
 
@@ -34,7 +34,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong> 機能タイトル </strong>：機能の説明。</td>
+   <td><strong> メールDesigner - ブランド管理（ベータ版） </strong>：組織/ブランドに固有のコピーライティングガイドラインに基づいてメールコンテンツを生成します。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -44,7 +44,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> 機能タイトル </strong>：機能の説明。</td>
+   <td><strong> メールDesigner - AI アシスタントの機能強化 </strong>：ブランドアセットをファイルとして手動で追加するのではなく、プロンプトに直接ブランドアセットを追加し、モデルに対して、コンテンツを生成するためにそのソースを参照するように依頼できるようになりました。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -54,7 +54,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> 機能タイトル </strong>：機能の説明。</td>
+   <td><strong> メールDesigner - フラグメントのビジュアルプレビュー </strong>：公開されたすべてのフラグメントがサムネールとして表示されるようになり、必要なフラグメントをより迅速に特定できるようになりました。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -64,7 +64,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> 機能タイトル </strong>：機能の説明。</td>
+   <td><strong> メールDesigner – 箇条書き </strong>：メールDesignerでメールをオーサリングする際に、複数レベルの箇条書きを作成できるようになりました。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -74,7 +74,12 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> 機能タイトル </strong>：機能の説明。</td>
+   <td><strong> メールDesigner – 条件付きコンテンツの機能強化 </strong>：古いメールエディターの <i> 動的コンテンツ </i> 機能と同等です。
+   <ul>
+   <li>条件付きコンテンツを共有フォルダーのセグメント化に適用できるようになりました。</li>
+   <li>セグメントがアルファベット順に並べ替えられました。</li>
+   </ul>
+   </td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -84,17 +89,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> 機能タイトル </strong>：機能の説明。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> 機能タイトル </strong>：機能の説明。</td>
+   <td><strong> メールDesigner - フォルダー </strong>：メールDesigner（メール、メールテンプレート、フラグメント）を使用して作成されたアセットをフォルダーで整理できるようになりました。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -102,19 +97,23 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 </table>
 <br/>
 
-## Adobe Connectの機能 {#adobe-connect-features}
+## 非標準のリリースサイクル機能 {#non-standard-release-cycle-features}
 
-これらの機能は、Adobe Connect チームによって既にリリースされています。 Marketo Engage[&#x200B; インタラクティブウェビナー &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} は、Adobe Connectを活用しています。 したがって、以下の機能は、インタラクティブウェビナーのユーザーにのみ適用されます。
+次の機能は、標準のMarketo Engage リリースサイクルの外部でリリースされました。
 
-* **調査ポッド**:Adobe Connect 12.11 では、構造化されたフィードバックフォームをホストがライブセッション内で直接設計して配信できる新しい調査ポッドが導入されました。
+### インタラクティブウェビナー {#interactive-webinars}
+
+* **調査ポッド**：新しい調査ポッドを使用すると、ホストは、ライブセッション内で直接構造化されたフィードバックフォームを設計して配信できます。
 
 * **リソースポッド**：新しいリソースポッドは、以前の「ファイル」ポッドと「web リンク」ポッドに代わるものであり、ライブセッション中にリソースを共有するための単一の統一された方法を提供します。
 
-* **Enhanced Room Interface Experience**:Adobe Connect 12.11 は、Creative CloudやExperience Cloudなどの他のAdobe製品で使用されているビジュアル言語と連携して、Adobeの最新の Spectrum 2 デザインフレームワークに基づいて構築された、新しくより現代的なルームインターフェイスを導入しました。
+* **Enhanced Room Interface Experience**:Creative CloudやExperience Cloudなどの他のAdobe製品で使用されているビジュアル言語と連携して、Adobeの最新の Spectrum 2 デザインフレームワークに基づいて構築された、新しくより現代的なルームインターフェイスをお楽しみください。
 
-詳しくは、[Adobe Connect 12.11 リリースノート &#x200B;](https://helpx.adobe.com/jp/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} を参照してください。
+詳しくは、[ このページ ](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} を参照してください。
 
 ## お知らせ {#announcements}
+
+* **Marketo コミュニティの移行が完了しました**：新しい Adobe Experience League コミュニティが公開されました。 [ いくつかの機能強化 ](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} が行われ、Marketo コミュニティのエクスペリエンスがさらに向上しました。 [ ご覧ください ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}。
 
 * **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2026年3月31日（PT）以降は使用できなくなります。すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
