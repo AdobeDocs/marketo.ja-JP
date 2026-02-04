@@ -4,10 +4,10 @@ description: Marketo のプロトコルの設定 - Marketo ドキュメント - 
 title: Marketo のプロトコルの設定
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
 workflow-type: tm+mt
-source-wordcount: '2131'
-ht-degree: 96%
+source-wordcount: '2129'
+ht-degree: 100%
 
 ---
 
@@ -39,8 +39,7 @@ ht-degree: 96%
 
 `2` **メールトラッキングリンク用の CNAME の追加**
 
-CNAME マーケティングから送信されたメールを追加し、Marketo Engage`[YourEmailCNAME]` 割り当てたデフォルトのトラッキングリンクである [MktoTrackingLink] を、次の形式で指すようにします。
-CNAME `[YourEmailCNAME].[YourDomain].com` の `[MktoTrackingLink]`
+`[YourEmailCNAME]` が [MktoTrackingLink]（Marketo が割り当てたデフォルトのトラッキングリンク）を「`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`」の形式で指すように、送信されたメール CNAME マーケティングを追加します
 
 例：
 
@@ -63,8 +62,6 @@ CNAME `[YourEmailCNAME].[YourDomain].com` の `[MktoTrackingLink]`
 Marketo を使用してテストメールを送信する（メールの破棄を送信する前のベストプラクティス）と、メールが有効であることを検証するために送信者の IP アドレスに依存するスパム対策システムによってテストメールがブロックされる場合があります。これらのテスト用のメールが届くようにするには、許可リストに Marketo を追加します。
 
 以下の IP アドレスを会社の許可リストに追加します。
-
-103.237.104.0/22
 
 130.248.172.0/24
 
@@ -92,11 +89,11 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 
 1. SPF を設定するには、DNS エントリに以下の行を追加します。
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
-include: mktomail.com ～all
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
+include: mktomail.com ~all
 
-   DNS エントリに既存の SPF レコードがある場合は、次のレコードを追加するだけです。
-次を含む：mktomail.com
+   DNS エントリに既に SPF レコードが存在する場合は、以下のコードを追加します。
+include: mktomail.com
 
    CompanyDomain を Web サイトのメインドメイン（例：`(company.com/)`）で置き換え、CorpIP を会社のメールサーバーの IP アドレス（例：&quot;255.255.255.255&quot;）が該当します。 Marketo を通じて複数のドメインからメールを送信する場合は、IT スタッフに各ドメインに対してこの行を（1 行で）追加してもらう必要があります。
 
@@ -193,9 +190,9 @@ DMARC レコードには、DMARC タグと呼ばれる複数のコンポーネ�
     <td>オプション</td>
     <td>ドメイン所有者はレポートオプションを指定できます。</td>
     <td>0：すべてが失敗した場合にレポートを生成
-    <br>1：失敗した場合にレポートを生成する
-    <br>d: DKIMが失敗した場合にレポートを生成
-    <br>s:SPF が失敗した場合にレポートを生成</td>
+    <br>1：何か失敗した場合にレポートを生成
+    <br>d：DKIM が失敗した場合にレポートを生成
+    <br>s：SPF が失敗した場合にレポートを生成</td>
     <td>1（DMARC レポートに推奨）</td>
   </tr>
   <tr>
@@ -286,11 +283,11 @@ MX レコードを使用すると、メールの送信元のドメインに対�
 
 **Webhook**
 
-Marketo Engage[Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}は、アウトバウンド統合メカニズムです。スマートキャンペーンの一部として[&#x200B; Webhook を呼び出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"}フローアクションが実行されると、外部の web サービスに対して HTTP リクエストが行われます。 Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
+Marketo Engage[Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}は、アウトバウンド統合メカニズムです。スマートキャンペーンの一部として[ Webhook を呼び出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"}フローアクションが実行されると、外部の web サービスに対して HTTP リクエストが行われます。 Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
 
 **CRM 同期**
 
-Marketo Engage[Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}と[&#x200B; Microsoft Dynamics同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}は、CRM ベンダーによって公開された API へのアウトバウンド HTTP リクエストを行う統合メカニズムです。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
+Marketo Engage[Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}と[ Microsoft Dynamics同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}は、CRM ベンダーによって公開された API へのアウトバウンド HTTP リクエストを行う統合メカニズムです。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
 
 **Marketo Engage アウトバウンド IP アドレスブロック**
 
@@ -300,9 +297,6 @@ Marketo Engage[Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesf
  <tbody>
   <tr>
    <th>IP ブロック（CIDR 表記）</th>
-  </tr>
-  <tr>
-   <td>103.237.104.0/22</td>
   </tr>
    <tr>
    <td>130.248.172.0/24</td>

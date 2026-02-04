@@ -6,16 +6,16 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
 workflow-type: tm+mt
 source-wordcount: '2086'
-ht-degree: 92%
+ht-degree: 97%
 
 ---
 
 # 設定手順 {#setup-steps}
 
-**Adobe Marketo Engageへようこそ！**
+**Adobe Marketo Engage へようこそ**
 
 Marketoの使用に取り組む前に、実行する必要がある手順がいくつかあります。
 
@@ -40,7 +40,7 @@ Marketoの使用に取り組む前に、実行する必要がある手順がい�
 
 >[!IMPORTANT]
 >
->Marketo サブスクリプションが 2023 年 7 月 31 日（PT）以降に作成された場合、または既に [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に移行されている場合、以下に説明するユーザー追加の手順は適用されません。 代わりに [&#x200B; この記事 &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} を参照してください。
+>Marketo サブスクリプションが 2023 年 7 月 31 日（PT）以降に作成された場合、または既に [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に移行されている場合、以下に説明するユーザー追加の手順は適用されません。 代わりに [ この記事 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} を参照してください。
 
 メールで受け取った資格情報を使用して、[ここ](https://app.marketo.com/){target="_blank"}から Marketo にログインします。
 
@@ -162,7 +162,7 @@ Marketo サポートから、ご自身が自社の Marketo カスタマーサポ
 * **ドメインの MX レコードを設定します。** MX レコードを使用すると、返信や自動返信を処理するために、メールを送信するドメインにメールを受け取ることができます。会社ドメインから送信する場合は、既にこの設定が完了している可能性があります。そうでない場合は、通常、会社ドメインの MX レコードにマッピングするように設定できます。
 * **送信元アドレスの推奨設定。**&#x200B;すべてのメールキャンペーンの送信元アドレスに、有効な既存メールドメインと動作中のメールドメインを使用する必要があります。会社ドメインから送信するのではなく、会社ドメインのサブドメインを設定すると便利です。これにより、会社のメールストリームの問題が Marketo のメールストリームに影響を与えず、逆についても同様のことが言えます。さらに、`something@nonexistentdomain.com` からメールを送信すると、メールがフィルターされたりブロックされたりします。送信者の送信元アドレスで使用されるドメインには、有効で動作中の postmaster@ アカウントと abuse@ アカウントが必要です。
 
-Google アプリを使用して自社のメールをホストしている場合、お使いのドメインで abuse@ や postmaster@ のメールを作成することはできません。この問題を回避するには、「abuse」および「postmaster」という名前のグループを作成する必要があります。これらのグループのメンバーであるユーザーには、これらのアドレス（例：<postmaster@domain.com>）に送信されたメールが届きます。 グループ作成の詳細な手順については、[&#x200B; こちら &#x200B;](https://support.google.com/a/answer/33343#adminconsole){target="_blank"} を参照してください。
+Google アプリを使用して自社のメールをホストしている場合、お使いのドメインで abuse@ や postmaster@ のメールを作成することはできません。この問題を回避するには、「abuse」および「postmaster」という名前のグループを作成する必要があります。このグループのメンバーであるユーザは、そのアドレスに送信されたメールを受信します（例：<postmaster@domain.com>）。グループ作成の詳しい手順については、[こちら](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}を参照してください。
 
 メールトラッキングリンクの CNAME を選択します（手順 3 で選択したランディングページ CNAME とは&#x200B;_異なる_&#x200B;ものを選択）。以下に例を示します。
 
@@ -226,7 +226,7 @@ IT 管理者様
 
 `3)` Marketo を許可リストに加えてください。
 
-    * メール許可リストで IP アドレスを使用している場合は、以下に示す IP を追加します。
+    * メール許可リストで IP アドレスを使用する場合は、以下にリストされている IP を追加します。
     199.15.212.0/22
     
     192.28.144.0/20
@@ -238,8 +238,6 @@ IT 管理者様
     130.248.172.0/24
     
     130.248.173.0/24
-    
-    103.237.104.0/22
     
     94.236.119.0/26
 
@@ -263,7 +261,7 @@ DNS エントリに既に SPF レコードが存在する場合は、以下の�
 
 include:mktomail.com
 
-`[`**From Domain** を From Domain （例：company.com）のメールに、**CorpIP** を企業のメールサーバーの IP アドレス （例：255.255.255.255）に置き換えます。  Marketo を通じて複数のドメインからメールを送信する場合は、IT スタッフに各ドメインに対してこの行を（1 行で）追加してもらう必要があります。`]`
+`[`**From Domain** をメール送信元ドメイン（例：company.com）に、**CorpIP** を会社のメールサーバーの IP アドレス（例：255.255.255.255）に置き換えます。Marketo を通じて複数のドメインからメールを送信する場合は、IT スタッフに各ドメインに対してこの行を（1 行で）追加してもらう必要があります。`]`
 
 `b.`DKIM の場合は、設定するドメインごとに DNS リソースレコードを作成してください。署名する各ドメインのホストレコードと TXT 値を以下に示します。
 
@@ -350,6 +348,6 @@ Marketo には、任意の web ページ上のユーザーアクティビティ�
 
 ## パフォーマンスの期待値 {#performance-expectations}
 
-Marketo のパフォーマンスに関して期待できる点は何ですか？マーケティングキャンペーンのサイズと複雑さに応じて異なる場合があります。ただし、[Marketo Engageの製品説明 &#x200B;](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"} に記載されているいくつかのテーブルの「標準」列に概説されているパフォーマンスレベルと同等のパフォーマンスレベルを期待できます。 「Performance」列と「Performance Plus」列は、[&#x200B; より高いパフォーマンス・レベル &#x200B;](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"} を提供するパフォーマンス層パッケージを指します。
+Marketo のパフォーマンスに関して期待できる点は何ですか？マーケティングキャンペーンのサイズと複雑さに応じて異なる場合があります。それでも、[Marketo Engage 製品説明](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage-product-description.html){target="_blank"}にあるいくつかの表の「標準」列で説明されているものと同等のパフォーマンスレベルを期待できます。「パフォーマンス」列と「パフォーマンスプラス」列は、[高いパフォーマンスレベル](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}を提供するパフォーマンスティアパッケージを示します。
 
 すべての設定手順が完了しました。さっそく Marketo を使用してみましょう。
