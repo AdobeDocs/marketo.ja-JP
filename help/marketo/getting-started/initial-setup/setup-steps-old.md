@@ -40,7 +40,7 @@ Marketoの使用に取り組む前に、実行する必要がある手順がい�
 
 >[!IMPORTANT]
 >
->Marketo サブスクリプションが 2023 年 7 月 31 日（PT）以降に作成された場合、または既に [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に移行されている場合、以下に説明するユーザー追加の手順は適用されません。 代わりに [ この記事 ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} を参照してください。
+>Marketo サブスクリプションが 2023 年 7 月 31 日（PT）以降に作成された場合、または既に [Adobe Identity Management](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に移行されている場合、以下に説明するユーザー追加の手順は適用されません。 代わりに [&#x200B; この記事 &#x200B;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"} を参照してください。
 
 メールで受け取った資格情報を使用して、[ここ](https://app.marketo.com/){target="_blank"}から Marketo にログインします。
 
