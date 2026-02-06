@@ -2,10 +2,10 @@
 description: リリースノート - 2023年5月 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2023年5月
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '345'
-ht-degree: 94%
+ht-degree: 93%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md">Experience Cloud インターフェイスの概要</a></td>
   </tr>
   </tbody>
@@ -47,7 +47,7 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">ヘルプセンター</a></td>
   </tr>
   </tbody>
@@ -65,7 +65,7 @@ ht-degree: 94%
 
 インタラクティブウェビナーは、マーケターが Marketo Engage 内でイベントを作成、管理および配信できるネイティブでシームレスなエクスペリエンスを提供することで、既存のイベントおよびウェビナーのエクスペリエンスを強化します。イベントのタイプに応じてウェビナーをカスタマイズし、必要に応じてプレゼンターを追加することもできます。ライブ投票、チャット、Q＆A セッション、web リンクのクリック、ドキュメントのダウンロードなど、Adobe Connect の機能を通じて豊富なエンゲージメントインサイトを取得できます。豊富なダッシュボード指標を使用して、Marketo Engage で直接ウェビナー録画を取得し、パフォーマンスを評価できます。
 
-インタラクティブウェビナーは、徐々にロールアウトされます。以前のアクセスを要求するには、[&#x200B; このフォーム &#x200B;](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"} に入力してください。
+インタラクティブウェビナーは、徐々にロールアウトされます。以前のアクセスを要求するには、[ このフォーム ](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"} に入力してください。
 
 <table>
   <tr>
@@ -74,11 +74,11 @@ ht-degree: 94%
   </tr>
   <tr>
    <td>開始されたロールアウト</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=ja">インタラクティブウェビナーの概要</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">インタラクティブウェビナーの概要</a></td>
   </tr>
   </tbody>
 </table>
 
 ## お知らせ {#announcements}
 
-* **_製品リリースウェビナー_**:[2023 年 3 月および 5 月のMarketo Engage リリースウェビナー &#x200B;](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**:[2023 年 3 月および 5 月のMarketo Engage リリースウェビナー ](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

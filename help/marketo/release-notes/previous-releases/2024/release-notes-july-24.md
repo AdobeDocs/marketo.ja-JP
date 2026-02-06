@@ -3,7 +3,7 @@ description: リリースノート - 2024 年 7 月 – Marketo ドキュメン�
 title: リリースノート - 2024年7月
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '521'
 ht-degree: 94%
@@ -33,7 +33,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr>
    <td><strong>インタラクティブウェビナーのエンゲージメントダッシュボード</strong>：ウェビナーのパフォーマンスの集計ビューとウェビナー中の各出席者のエンゲージメントの包括的なビューを取得し、Marketo Engage オーケストレーションツールを使用してターゲットとするリードを決定できます。</td>
-    <td>リリース済み</td>
+    <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">エンゲージメントダッシュボード</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr>
    <td><strong>インタラクティブウェビナーのルーム管理</strong>：作成された個々のルームにアクセスし（必要に応じて変更）、コンテンツと録画にアクセスします（必要に応じてクリアしてストレージを最適化します）。</td>
-    <td>リリース済み</td>
+    <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">ルーム管理</a></td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr>
    <td><strong>インタラクティブウェビナーのウェビナーカスタマイズ</strong>：ウェビナー戦略をブランド戦略とより簡単に一致させるために、共通のルームインターフェイス、中間画面（出席者のエントリ画面の背景など）、カスタムビデオ背景を使用することで、組織が承認した統一されたブランドエクスペリエンスを提供します。</td>
-    <td>リリース済み</td>
+    <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">インタラクティブウェビナーのカスタマイズ</a></td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr>
    <td><strong>Marketo REST API の変更</strong>：<a href="https://developers.marketo.com/rest-api/user-management/">User Management API</a> に小規模な変更を行っています。<a href="https://developers.marketo.com/rest-api/user-management/#browse_users">ユーザを参照</a>エンドポイントと<a href="https://developers.marketo.com/rest-api/user-management/#delete_user">ユーザを削除</a>エンドポイントの両方が、<a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">ターゲットアカウント管理</a>ユーザをサポートするようになりました。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
  </tbody>
@@ -87,6 +87,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ユーザは、Marketo Engage でこれらのソーシャル機能を作成、複製、埋め込むことができなくなります。既存のソーシャルアセットは、2025年1月31日（PT）まで引き続き機能します。[詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **クエリパラメーターのアクセストークンの廃止**：Marketo Engage REST API 呼び出しのクエリパラメーターでのアクセストークンを使用した認証のサポートは、将来のリリースで削除される予定です（具体的な日付は未定）。既存の統合は、Authorization ヘッダーの使用に移行する必要があります [&#x200B; 詳しくは、こちらを参照 &#x200B;](https://developers.marketo.com/rest-api/authentication/){target="_blank"}。 新規開発では、Marketo Engage での認証に Authorization ヘッダーのみを使用する必要があります。
+* **クエリパラメーターのアクセストークンの廃止**：Marketo Engage REST API 呼び出しのクエリパラメーターでのアクセストークンを使用した認証のサポートは、将来のリリースで削除される予定です（具体的な日付は未定）。既存の統合は、Authorization ヘッダーの使用に移行する必要があります [ 詳しくは、こちらを参照 ](https://developers.marketo.com/rest-api/authentication/){target="_blank"}。 新規開発では、Marketo Engage での認証に Authorization ヘッダーのみを使用する必要があります。
 
-* **LinkedIn の再認証が必要です**：LinkedIn では、Marketo Engage LinkedIn 統合で使用されるマーケティング API をアップグレードしています。この変更により、サービスが中断されないよう、2024年7月26日（PT）から 12月15日（PT）までの間に、**管理**／**LaunchPoint** メニューですべての LinkedIn LaunchPoint サービスを再認証する必要があります。これを実行する方法については、[こちらからリード生成フォーム](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"}と[こちらから一致するオーディエンス](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}を参照してください。リード生成フォームサービスには「LinkedIn リード生成」というタイプ、一致するオーディエンスサービスには「LinkedIn Matched オーディエンス」というタイプがあります。詳しくは、[&#x200B; 移行に関する FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"} を参照してください。
+* **LinkedIn の再認証が必要です**：LinkedIn では、Marketo Engage LinkedIn 統合で使用されるマーケティング API をアップグレードしています。この変更により、サービスが中断されないよう、2024年7月26日（PT）から 12月15日（PT）までの間に、**管理**／**LaunchPoint** メニューですべての LinkedIn LaunchPoint サービスを再認証する必要があります。これを実行する方法については、[こちらからリード生成フォーム](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"}と[こちらから一致するオーディエンス](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}を参照してください。リード生成フォームサービスには「LinkedIn リード生成」というタイプ、一致するオーディエンスサービスには「LinkedIn Matched オーディエンス」というタイプがあります。詳しくは、[ 移行に関する FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"} を参照してください。

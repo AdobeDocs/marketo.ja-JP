@@ -3,7 +3,7 @@ description: リリースノート - 2025 年 4 月 – Marketo ドキュメン�
 title: リリースノート - 2025年4月
 feature: Release Information
 exl-id: 94010780-41aa-4212-a1d4-1b78806bd728
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 96%
@@ -33,7 +33,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>Secure Socket Layer（SSL）セルフサービス</strong>：SSL 暗号化により、Marketo Engage インスタンスのランディングページを安全にすることができます。この機能を有効にするには、アドビサポートチームからのサポートが必要でした。Marketo ユーザは自分で有効にできるようになり、貴重な時間を節約できます。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md">ランディングページへの SSL の追加</a></td>
   </tr>
  </tbody>

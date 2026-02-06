@@ -3,10 +3,10 @@ description: リリースノート - 2024年6月 - Marketo ドキュメント - 
 title: リリースノート - 2024年6月
 feature: Release Information
 exl-id: 66e34e3f-86f3-4d68-a637-98e342e0d26c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr>
    <td><strong>インタラクティブウェビナー用のテンプレート</strong>：マーケターは、インタラクティブウェビナーの部屋レイアウトのカスタムテンプレートを作成できるようになりました。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">テンプレート</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr>
    <td><strong>フォームで推測されるフィールド</strong>：以前の web アクティビティがない状態でフォーム入力によってユーザを作成する場合に、推測されるフィールドにデータを入力するために、他のユーザコレクションメソッドと同じデータソースを使用するように更新されました。推測されるフィールドデータは、すべてのコレクションポイントにわたって一貫性を持つようになりました。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
  </tbody>

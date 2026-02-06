@@ -3,10 +3,10 @@ description: リリースノート - 2025年5月 - Marketo ドキュメント - 
 title: リリースノート - 2025年5月
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>メールデザイナーアセットのロールベースのアクセス制御</strong>：ロールベースのアクセス制御（RBAC）システムへの新しい機能強化により、新しいメールデザイナーで活用されるアセットに対して、より詳細な権限と改善されたユーザー管理が提供されます。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">新しい E メールデザイナーに対するきめ細かい権限（ブログ投稿）</a></td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>メールデザイナーで作成したメールの複製</strong>：新しいメールデザイナーを使用して作成した既存のメールを複製できるようになりました。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>任意の属性のトリガートークン</strong>：スマートキャンペーンフィールドで任意のアクティビティ属性のデータを使用できるように、トリガートークンの一覧が拡張されています。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
  </tbody>

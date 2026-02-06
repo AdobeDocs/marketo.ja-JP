@@ -3,10 +3,10 @@ description: リリースノート - 2024年10月 - Marketo ドキュメント -
 title: リリースノート - 2024年10月
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 88%
+ht-degree: 87%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
     <tr>
    <td><strong>インタラクティブウェビナーのトークン化</strong>：ウェビナーの詳細を手動で追加しなくても、トークンを使用してメールやランディングページでインタラクティブウェビナーを促進できるようになりました。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">インタラクティブウェビナーのプロモーション</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
    <tr>
    <td><strong>スマートリストの「影響に設定」カウント</strong>：スマートキャンペーンの選定ルールを編集した際に影響を受けるユーザの数を確認します。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
    <tr>
    <td><strong>ナビゲーションパネルの「マイアカウント」ボタン</strong>：Adobe Identity Management システムに移行したユーザは、左側のナビゲーションパネルの新しい「マイアカウント」ボタンを使用して、タイムゾーンの設定とサブスクリプションの詳細にアクセスできます。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <li>応答アクティビティを 3 日間待機した後、メールは<i>中止</i>として分類されるようになりました。</li>
    <li>メール開封数は、スマートキャンペーンごとに個別にユニーク開封数としてカウントされます</li>
    </td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">メールパフォーマンスレポート</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <tr>
    <td><strong>Salesforce同期バックログの指標 </strong>：最適な同期エクスペリエンスを得るために CRM の更新を計画およびスケジュールするために、同期のスループットとバックログの傾向を監視します。
    </td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Salesforce 同期バックログ指標</a></td>
   </tr>
  </tbody>
@@ -92,7 +92,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **一括抽出 API の更新**：一括抽出 API で columnHeaderNames オプションが関係する問題を修正しました。書き出したファイルでカスタム列ヘッダー名を指定できます。 以前は、非 ASCII 文字を含む列ヘッダー名が破損する可能性がありました。
 
-* **Rest API access_token パラメーターの廃止**:Marketo REST API 呼び出しの認証に使用される「access_token」クエリパラメーターは非推奨となり、2026 年 3 月 31 日（PT）以降は使用できなくなります。 すべての新規および既存の統合は、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります [&#x200B; 詳しくは、こちらを参照 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
+* **Rest API access_token パラメーターの廃止**:Marketo REST API 呼び出しの認証に使用される「access_token」クエリパラメーターは非推奨となり、2026 年 3 月 31 日（PT）以降は使用できなくなります。 すべての新規および既存の統合は、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります [ 詳しくは、こちらを参照 ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
 
 * **QR コードの廃止**：2024年10月4日（PT）に、プッシュ通知およびアプリ内メッセージアセットで使用する QR コード機能が廃止される予定です。これには、新しいテストデバイス用の QR コードの使用や、QR コードを使用した新しいアセットの作成が含まれます。使用頻度の低い機能を廃止することで、そのリソースを Marketo Engage の全体的なメンテナンスに再割り当てできます。
 

@@ -3,10 +3,10 @@ description: リリースノート - 2023年1月 - Marketo ドキュメント - 
 title: リリースノート - 2023年1月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 96%
+ht-degree: 95%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 96%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切替スイッチ</a></td>
   </tr>
   </tbody>
@@ -52,7 +52,7 @@ ht-degree: 96%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -70,7 +70,7 @@ ht-degree: 96%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -88,7 +88,7 @@ ht-degree: 96%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=ja">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
@@ -106,7 +106,7 @@ ht-degree: 96%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Bulk Export API 情報</a></td>
   </tr>
   </tbody>
@@ -116,7 +116,7 @@ ht-degree: 96%
 
 以下の機能は、アジャイル形式に従い、標準リリース日前後の様々な日付にリリースされます。各機能のステータスについては、以下を確認してください。
 
-### 動的チャット {#dynamic-chat}
+### Dynamic Chat {#dynamic-chat}
 
 </br>
 
@@ -128,7 +128,7 @@ ht-degree: 96%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -142,7 +142,7 @@ ht-degree: 96%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">カレンダー</a></td>
   </tr>
   </tbody>
@@ -156,7 +156,7 @@ ht-degree: 96%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -170,7 +170,7 @@ ht-degree: 96%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -184,7 +184,7 @@ ht-degree: 96%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">会議</a></td>
   </tr>
   </tbody>
@@ -192,6 +192,6 @@ ht-degree: 96%
 
 ## お知らせ {#announcements}
 
-* **Marketo REST API の変更**：2022年10月リリースでは、Marketo REST API 応答メッセージに若干の変更を加えました。詳しくは、こちらの [Marketo民族の投稿 &#x200B;](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} を参照してください。
+* **Marketo REST API の変更**：2022年10月リリースでは、Marketo REST API 応答メッセージに若干の変更を加えました。詳しくは、こちらの [Marketo民族の投稿 ](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} を参照してください。
 
-* **_製品リリースウェビナー_**:[2022 年 10 月および 2023 年 1 月Marketo Engageリリースウェビナー &#x200B;](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**:[2022 年 10 月および 2023 年 1 月Marketo Engageリリースウェビナー ](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

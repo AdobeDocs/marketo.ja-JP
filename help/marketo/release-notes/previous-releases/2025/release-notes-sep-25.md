@@ -2,10 +2,11 @@
 description: リリースノート - 2025 年 9 月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2025年9月
 feature: Release Information
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+exl-id: fd40d9df-67ba-4fc4-891f-81aebfd07b0a
+source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
 workflow-type: tm+mt
 source-wordcount: '704'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -32,8 +33,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>オンデマンドのウェビナーアクティビティの保持</strong>：インタラクティブウェビナーのユーザは、30 日以上の間、オンデマンドのウェビナーダッシュボードのデータを使用できるようになりました（以前は、ウェビナーの日から 30 日まででした）。</td>
-   <td>リリース済み</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手動同期</a></td>
+   <td>リリース日</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">手動同期</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -42,7 +43,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>E メールデザイナー - AI アシスタントの権限</strong>：Marketo 管理者は、特定のユーザに生成 AI 機能へのアクセスを提供できます。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">権限の設定</a></td>
   </tr>
   <tr>
@@ -52,7 +53,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>E メールデザイナー - ダークモード</strong>：ダークモードを使用し、サポートメールクライアントやアプリで、暗い背景と、明るい色のテキストやボタン、他の UI 要素を表示できるようになりました。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">ダークモード</a></td>
   </tr>
   <tr>
@@ -62,7 +63,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>E メールデザイナー - コンテンツ共同作業ワークフロー</strong>：メールアセット内で Marketo ユーザにコメントしたり、Marketo ユーザと共同作業したりできるようになりました。チームメンバー（適切なアセット権限を持つ Marketo ユーザ）にタグ付けすると、メールまたはパルス通知が届きます。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">メールでの共同作業</a></td>
   </tr>
   <tr>
@@ -72,7 +73,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>E メールデザイナー - リダイレクトの修正</strong>：新しいデザイナーを使用して作成されたメールの URL で、リダイレクトの問題が発生していました（URL の直接貼り付けやメールアセットのブックマークが常に機能するとは限りませんでした）。この問題は解決されました。さらに、<b>メールテンプレート</b>／<b>詳細</b>／<b>使用者</b>からのメールアセットへのリンクは、対応するメールアセットにリダイレクトされます。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>

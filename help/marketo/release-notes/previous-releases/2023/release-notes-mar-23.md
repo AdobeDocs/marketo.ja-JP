@@ -3,10 +3,10 @@ description: リリースノート - 2023年3月 - Marketo ドキュメント - 
 title: リリースノート - 2023年3月
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 93%
+ht-degree: 91%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 93%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -48,7 +48,7 @@ ht-degree: 93%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -62,7 +62,7 @@ ht-degree: 93%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -80,7 +80,7 @@ ht-degree: 93%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -102,7 +102,7 @@ ht-degree: 93%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -116,7 +116,7 @@ ht-degree: 93%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -130,7 +130,7 @@ ht-degree: 93%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -144,7 +144,7 @@ ht-degree: 93%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -158,7 +158,7 @@ ht-degree: 93%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -172,7 +172,7 @@ ht-degree: 93%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -180,4 +180,4 @@ ht-degree: 93%
 
 ## お知らせ {#announcements}
 
-* **_製品リリースウェビナー_**:[2023 年 3 月および 5 月のMarketo Engage リリースウェビナー &#x200B;](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**:[2023 年 3 月および 5 月のMarketo Engage リリースウェビナー ](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

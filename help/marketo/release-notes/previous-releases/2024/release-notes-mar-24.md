@@ -3,10 +3,10 @@ description: リリースノート - 2024年3月 - Marketo ドキュメント - 
 title: リリースノート - 2024年3月
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 65%
+ht-degree: 64%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 65%
   </tr>
   <tr>
    <td><strong>高度な対話型フローロジック</strong>：対話型フローのフォローアップ用に、単一の選択で評価用のフィールドを追加します。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo EngageFormsの対話型フロー設定</a></td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ ht-degree: 65%
    </tr>
     <tr>
    <td><strong>対話型フローロジックの並べ替え</strong>:Marketo EngageFormsでは、対話型フローの選択肢を、削除して元に戻す代わりに並べ替えることができるようになりました。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Marketo EngageFormsの対話型フロー設定</a></td>
    </tr>
   <tr>
@@ -53,7 +53,7 @@ ht-degree: 65%
     <tr>
    <td><strong>API アクティビティメタデータ </strong>:
    User Agent、Platform、Device などのメタデータが web アクティビティやメールアクティビティに含まれるようになりました。これにより、Marketo REST API を使用してこれらのアクティビティに関して一貫したインサイトを提供できます。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
  </tbody>
@@ -62,6 +62,6 @@ ht-degree: 65%
 
 ## お知らせ {#announcements}
 
-* **プログラムメンバー取得 API の修正**: [&#x200B; プログラムメンバーを取得 &#x200B;](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Program-Members/operation/getProgramMembersUsingGET){target="_blank"} エンドポイントの動作を修正する変更が最近加えられました。 以前は、 `updatedAt` フィルタータイプを使用して日付範囲を指定すると、その範囲内で更新されたプログラムメンバーシップレコードが応答に含まれない可能性がありました。 また、指定した日付範囲外で更新されたプログラムメンバーシップレコードが応答に正しく含まれない可能性がありました。 両方の問題が解決されました。
+* **プログラムメンバー取得 API の修正**: [ プログラムメンバーを取得 ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Program-Members/operation/getProgramMembersUsingGET){target="_blank"} エンドポイントの動作を修正する変更が最近加えられました。 以前は、 `updatedAt` フィルタータイプを使用して日付範囲を指定すると、その範囲内で更新されたプログラムメンバーシップレコードが応答に含まれない可能性がありました。 また、指定した日付範囲外で更新されたプログラムメンバーシップレコードが応答に正しく含まれない可能性がありました。 両方の問題が解決されました。
 
-* **アカウント Insight ブラウザープラグインの廃止**:Adobeは、2024 年 4 月 8 日にChrome web ストアから Target アカウント管理 [&#x200B; アカウント Insight ブラウザープラグイン &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} を削除します。 既存のユーザー：Marketo Engage インスタンスをAdobe ID およびAdmin Consoleに移行するまで、プラグインを引き続き使用できます。 この変更は、Marketo Engage内の他の TAM 機能/データ **またはセールスInsightで動作するChromeおよび Outlook 電子メールプラグインに** 影響しません）。 [詳細情報](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}。
+* **アカウント Insight ブラウザープラグインの廃止**:Adobeは、2024 年 4 月 8 日にChrome web ストアから Target アカウント管理 [ アカウント Insight ブラウザープラグイン ](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} を削除します。 既存のユーザー：Marketo Engage インスタンスをAdobe ID およびAdmin Consoleに移行するまで、プラグインを引き続き使用できます。 この変更は、Marketo Engage内の他の TAM 機能/データ **またはセールスInsightで動作するChromeおよび Outlook 電子メールプラグインに** 影響しません）。 [詳細情報](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}。

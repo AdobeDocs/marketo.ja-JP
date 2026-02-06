@@ -4,10 +4,10 @@ description: リリーススケジュール - Marketo ドキュメント - 製�
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 96%
+source-wordcount: '144'
+ht-degree: 93%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 96%
 
 * **予定通り** - 機能および機能強化を指定日にリリースする予定です
 * **進行中** - リリースの機能をロールアウト中です
-* **リリース済み** - リリースは完了しています
+* **完了** - リリースが完了しました
 
 _リリース日／機能は変更される場合があります。_
 
@@ -33,43 +33,48 @@ _リリース日／機能は変更される場合があります。_
    <th width="250px">ステータス</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">2025年7月</a></td>
-   <td>2025年7月11日（PT）</td>
-   <td>リリース済み</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">2025年8月</a></td>
    <td>2025年8月22日（PT）</td>
-   <td>リリース済み</td>
+   <td>Complete</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">2025年9月</a></td>
    <td>2025年9月19日（PT）</td>
-   <td>リリース済み</td>
+   <td>Complete</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">2025年10月</a></td>
    <td>2025年10月31日（PT）</td>
+   <td>Complete</td>
+  </tr>
+  <tr>
+  <td><a href="/help/marketo/release-notes/current.md">2026年1月</a></td>
+   <td>2026年1月30日（PT）</td>
    <td>進行中</td>
   </tr>
   <tr>
-  <td>2026年1月</td>
-   <td>2026年1月30日（PT）</td>
+  <td>2026年2月</td>
+   <td>2026年2月20日（PT）</td>
    <td>予定通り</td>
   </tr>
   <tr>
-  <td>2026 年 2 月</td>
-   <td>2026 年 2 月 20 日（Pt）</td>
-   <td>予定通り</td>
-  </tr>
-  <tr>
-  <td>2026 年 3 月</td>
+  <td>2026年3月</td>
    <td>2026年3月27日（PT）</td>
    <td>予定通り</td>
   </tr>
   <tr>
-  <td>26 年 5 月</td>
+  <td>26年5月</td>
    <td>2026年5月1日（PT）</td>
+   <td>予定通り</td>
+  </tr>
+  <tr>
+  <td>2026 年 5 月（2 回目のリリース）</td>
+   <td>2026年5月22日（PT）</td>
+   <td>予定通り</td>
+  </tr>
+  <tr>
+  <td>26年6月</td>
+   <td>2026年6月26日（PT）</td>
    <td>予定通り</td>
   </tr>
  </tbody>

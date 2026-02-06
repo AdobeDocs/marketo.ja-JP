@@ -3,10 +3,10 @@ description: リリースノート - 2023 年 7 月 – Marketo ドキュメン�
 title: リリースノート - 2023年7月
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 69%
+ht-degree: 68%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 69%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">エンゲージメントマップの概要</a></td>
   </tr>
   </tbody>
@@ -46,7 +46,7 @@ ht-degree: 69%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -68,7 +68,7 @@ ht-degree: 69%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -82,7 +82,7 @@ ht-degree: 69%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -100,7 +100,7 @@ ht-degree: 69%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">登録解除メッセージの自動追加設定</a></td>
   </tr>
   </tbody>
@@ -114,7 +114,7 @@ ht-degree: 69%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">フィールドプロンプト</a></td>
   </tr>
   </tbody>
@@ -128,13 +128,13 @@ ht-degree: 69%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">動的フィールド</a></td>
   </tr>
   </tbody>
 </table>
 
-* **Sales Insight 用の Dynamic Chat サポート**：すべての Dynamic Chat ユーザーに対して、このリリースで導入される新しい Dynamic Chat 属性をサポートするためのアップデートが行われました。
+* **セールスインサイトの Dynamic Chat サポート**：すべての Dynamic Chat ユーザ向けに、このリリースで導入された新しい Dynamic Chat 属性をサポートするためのアップデートが行われました。
 
 <table>
   <tr>
@@ -148,7 +148,7 @@ ht-degree: 69%
   </tbody>
 </table>
 
-* **Sales Insight Actions 用の Dynamic Chat サポート**：リードフィードおよびライブチャットがエージェントに転送される際の通知で、Dynamic Chat アクティビティをサポートしました。
+* **セールスインサイトアクションの Dynamic Chat サポート**：ライブチャットがエージェントにルーティングされた場合のリードフィードでの Dynamic Chat アクティビティおよび通知がサポートされるようになりました。
 
 <table>
   <tr>
@@ -170,7 +170,7 @@ ht-degree: 69%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Dynamic Chat トリガートークン</a></td>
   </tr>
   </tbody>
@@ -180,4 +180,4 @@ ht-degree: 69%
 
 * **Google Analytics 4 へのアップグレード**：Marketo では、以前、Universal Analytics をサポートしていましたが、2023年7月1日にデータの記録を停止します。RTP ユーザーは、Google Analytics ダッシュボードの移行プロセスに従って、RTP での Google Analytics 4 統合のサポートを完了させる必要があります。今後、ユーザーは、ランディングページに一意の英数字のタグ（html の `<head>` セクション内に配置）を持ち、Marketo が Google Analytics にデータを送信できるようになります。
 
-* **_製品リリースウェビナー_**:[2023 年 7 月および 9 月のMarketo Engage リリースウェビナー &#x200B;](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**:[2023 年 7 月および 9 月のMarketo Engage リリースウェビナー ](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

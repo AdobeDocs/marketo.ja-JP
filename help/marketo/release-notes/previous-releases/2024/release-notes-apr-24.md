@@ -3,7 +3,7 @@ description: リリースノート - 2024 年 4 月 – Marketo ドキュメン�
 title: リリースノート - 2024年4月
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 71%
@@ -33,7 +33,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
      <tr>
    <td><strong>インタラクティブウェビナーの機能強化</strong>：ホストとプレゼンターに対して、ウェビナータイトルの追加、部屋名の変更、イベント配信後にエンゲージメントデータを手動で同期する機能を提供できるようになりました。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">インタラクティブウェビナーの作成</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">手動による同期</a></li></td>
   </tr>
@@ -66,7 +66,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <li>リストの作成</li>
    <li>キャンペーンアクティビティをエクスポート</li>
    </td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">ロール権限の説明</a></td>
   </tr>
  </tbody>
@@ -75,7 +75,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **アクティビティ API の更新**: 4 月 26 日（PT）に、[Marketo REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"} を使用してアクティビティを取得する際に返される web ベースのアクティビティとメールベースのアクティビティに、新しい属性をいくつか追加します。 以下にリストされるアクティビティに、ブラウザー、プラットフォーム、デバイスおよびユーザーエージェント属性が含まれるようになりました。 [&#x200B; アクティビティタイプを取得 &#x200B;](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} エンドポイントを呼び出して、各アクティビティの属性の詳細を確認します。
+* **アクティビティ API の更新**: 4 月 26 日（PT）に、[Marketo REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"} を使用してアクティビティを取得する際に返される web ベースのアクティビティとメールベースのアクティビティに、新しい属性をいくつか追加します。 以下にリストされるアクティビティに、ブラウザー、プラットフォーム、デバイスおよびユーザーエージェント属性が含まれるようになりました。 [ アクティビティタイプを取得 ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} エンドポイントを呼び出して、各アクティビティの属性の詳細を確認します。
 
 **Web ベースのアクティビティ**
 

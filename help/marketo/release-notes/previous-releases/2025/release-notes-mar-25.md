@@ -3,10 +3,10 @@ description: リリースノート - 2025年3月 - Marketo ドキュメント - 
 title: リリースノート - 2025年3月
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '468'
-ht-degree: 98%
+ht-degree: 97%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
     <tr>
    <td><strong>すべてのプログラムで使用可能なメールデザイナー</strong>：新しいメールデザイナーのメールは、エンゲージメントプログラム、デフォルトプログラム、イベントプログラムをまたいでアクセスできるようになりました（唯一の例外はインタラクティブウェビナープログラムです）。以前は、メールプログラムでのみ使用できました。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -43,8 +43,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>インタラクティブウェビナーの生成 AI 機能</strong>：オンデマンドウェビナーのチャプターと概要を生成できるようになりました。データの HTML ファイルを編集して書き出します。</td>
-   <td>リリース済み</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI の機能</a></td>
+   <td>リリース日</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI の機能</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -53,7 +53,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>グローバルおよびワークスペースのマイトークン</strong>：ワークスペースとグローバルレベルの両方でマイトークンを設定して、Marketo Engage ワークスペースをまたいで、さらにはインスタンス全体でのブランドとマーケティングの販促物に対する生産性の向上と制御を可能にします。</td>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">グローバルなマイトークンの作成</a></td>
   </tr>
   </tbody>

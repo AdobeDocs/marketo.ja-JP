@@ -3,10 +3,10 @@ description: リリースノート - 2022 年 10 月 - Marketo ドキュメン�
 title: リリースノート - 2022 年 10 月
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 94%
+ht-degree: 92%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">プログラムメンバーカスタムフィールドの同期</a></td>
   </tr>
   </tbody>
@@ -48,7 +48,7 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
@@ -69,7 +69,7 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切替スイッチ</a></td>
   </tr>
   </tbody>
@@ -83,7 +83,7 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -97,7 +97,7 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -115,19 +115,19 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">リードの一括読み込み</a></td>
   </tr>
   </tbody>
 </table>
 
-### Sales Insight {#sales-insight}
+### セールスインサイト {#sales-insight}
 
 </br>
 
 ![（星印）](assets/yellow-star.png)
 
-* **Sales Insight と動的チャットの統合**：Insight ダッシュボードに、スマートグリッドの動的チャットアクティビティと、週別の概要および詳細カードが含まれるようになりました。
+* **セールスインサイトと Dynamic Chat の統合**：インサイトダッシュボードに、スマートグリッドの動的チャットアクティビティと、週別の概要および詳細カードが含まれるようになりました。
 
 <table>
   <tr>
@@ -135,7 +135,7 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">動的チャットの統合</a></td>
   </tr>
   </tbody>
@@ -153,7 +153,7 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">ストリームデザイナーのアイコン</a></td>
   </tr>
   </tbody>
@@ -167,7 +167,7 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">カレンダー</a></td>
   </tr>
   </tbody>
@@ -181,7 +181,7 @@ ht-degree: 94%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース済み</td>
+   <td>リリース日</td>
    <td>該当なし</td>
   </tr>
   </tbody>
