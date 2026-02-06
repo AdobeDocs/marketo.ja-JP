@@ -271,4 +271,4 @@ ht-degree: 21%
 
 * **Design Studio Assetsの切り替えスイッチの廃止**:Design Studio のクラシックインターフェイスと最新の UX エクスペリエンスを切り替えられる切り替えスイッチは廃止されます。古いバージョンの Design Studio エクスペリエンスと共に、最新の UX エクスペリエンスに完全に移行できます。 詳しくは、[こちらを参照](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}してください。
 
-* **_製品リリースウェビナー_**:[2023 年 7 月および 9 月のMarketo Engage リリースウェビナー ](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**:[2023 年 7 月および 9 月のMarketo Engage リリースウェビナー &#x200B;](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

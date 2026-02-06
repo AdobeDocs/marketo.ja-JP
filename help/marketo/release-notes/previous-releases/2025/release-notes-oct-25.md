@@ -92,9 +92,9 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **Salesforce CRM 統合のアップグレード**：ネイティブ CRM 統合の新しいバージョンは、2025年11月13日（PT）から 7 日間、ネイティブコネクターが有効になっているアクティブなサンドボックスにデプロイされます。詳細については、[ このコミュニティの投稿 ](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"} をご覧ください。
+* **Salesforce CRM 統合のアップグレード**：ネイティブ CRM 統合の新しいバージョンは、2025年11月13日（PT）から 7 日間、ネイティブコネクターが有効になっているアクティブなサンドボックスにデプロイされます。詳細については、[&#x200B; このコミュニティの投稿 &#x200B;](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"} をご覧ください。
 
-* **REST API 二重スラッシュの廃止**：2025年9月16日（PT）に、アドビでは、セキュリティとスケーラビリティを追加した、新しいテクノロジーを活用した REST API URL 用のより最新のホスティングインフラストラクチャに移行しました。サブスクリプションで、URL に 2 つのスラッシュ（//）を含む API を使用している場合は、次の手順について [ このコミュニティへの投稿 ](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} をお読みください。
+* **REST API 二重スラッシュの廃止**：2025年9月16日（PT）に、アドビでは、セキュリティとスケーラビリティを追加した、新しいテクノロジーを活用した REST API URL 用のより最新のホスティングインフラストラクチャに移行しました。サブスクリプションで、URL に 2 つのスラッシュ（//）を含む API を使用している場合は、次の手順について [&#x200B; このコミュニティへの投稿 &#x200B;](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} をお読みください。
 
 * **新しい E メールデザイナーでの Velocity スクリプトへのスイッチバック**：Adobe Marketo Engage は今年 6 月、新しいメールデザイナー用に&#x200B;_条件付きコンテンツ_&#x200B;と呼ばれる機能をリリースしました。この機能は、動的コンテンツの柔軟性をもう少し高めるために、Velocity スクリプトではなく Handlebar スクリプトを利用していました。しかし、一部のトークンが正しく解決されないことが判明した場合は、一時的に無効にすることにしました。[詳細情報](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 

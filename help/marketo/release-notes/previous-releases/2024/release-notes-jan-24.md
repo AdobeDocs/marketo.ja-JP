@@ -190,12 +190,12 @@ ht-degree: 94%
 
 ## お知らせ {#announcements}
 
-* **ワンクリックリスト登録解除の更新**：Gmail と Yahoo は、2024年2月1日（PT）に発効したいくつかの新しい送信者要件を実装しました。[ その概要と影響 ](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"} を説明します。
+* **ワンクリックリスト登録解除の更新**：Gmail と Yahoo は、2024年2月1日（PT）に発効したいくつかの新しい送信者要件を実装しました。[&#x200B; その概要と影響 &#x200B;](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"} を説明します。
 
-* **リード API の更新を同期**: [ リード API を同期 ](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"} の動作が、「`unsubscribed`」フィールドの更新に関して若干調整されました。 現在は、値として `null` を渡すと、`false` の値を渡すのと同じになります。
+* **リード API の更新を同期**: [&#x200B; リード API を同期 &#x200B;](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"} の動作が、「`unsubscribed`」フィールドの更新に関して若干調整されました。 現在は、値として `null` を渡すと、`false` の値を渡すのと同じになります。
 
 * **Marketo Engage Forms jQuery 1.x**：2024年1月リリースでは、Marketo Engage Forms の jQuery を jQuery 3.x に更新します。これは、古いバージョンの jQuery に依存するカスタムフォームの実装に影響を与える場合があります。詳しくは、[こちらを参照](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}してください。
 
 * **SSO のみのユーザのメール検証**：SSO のみのユーザは自動的に検証され、アクセスできないメールアカウントの使用が許可されました。1 月中旬以降、既存の SSO のみのユーザはすべて未検証になり、メールアカウントに送信されるリンクを通じてメールを再検証するように求められます。今後、すべての新しい SSO のみのユーザはメールアドレスを検証する必要があります。
 
-* [2024 年 1 月のMarketo Engage リリースウェビナー ](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"} をご覧ください。
+* [2024 年 1 月のMarketo Engage リリースウェビナー &#x200B;](https://engage.marketo.com/2024_January_Release_Webinar_OnDemandPage.html){target="_blank"} をご覧ください。

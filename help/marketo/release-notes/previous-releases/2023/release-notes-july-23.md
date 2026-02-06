@@ -180,4 +180,4 @@ ht-degree: 68%
 
 * **Google Analytics 4 へのアップグレード**：Marketo では、以前、Universal Analytics をサポートしていましたが、2023年7月1日にデータの記録を停止します。RTP ユーザーは、Google Analytics ダッシュボードの移行プロセスに従って、RTP での Google Analytics 4 統合のサポートを完了させる必要があります。今後、ユーザーは、ランディングページに一意の英数字のタグ（html の `<head>` セクション内に配置）を持ち、Marketo が Google Analytics にデータを送信できるようになります。
 
-* **_製品リリースウェビナー_**:[2023 年 7 月および 9 月のMarketo Engage リリースウェビナー ](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**:[2023 年 7 月および 9 月のMarketo Engage リリースウェビナー &#x200B;](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
