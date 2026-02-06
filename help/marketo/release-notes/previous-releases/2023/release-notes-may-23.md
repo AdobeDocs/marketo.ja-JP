@@ -74,7 +74,7 @@ ht-degree: 93%
   </tr>
   <tr>
    <td>開始されたロールアウト</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">インタラクティブウェビナーの概要</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=ja">インタラクティブウェビナーの概要</a></td>
   </tr>
   </tbody>
 </table>

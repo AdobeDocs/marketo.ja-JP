@@ -91,7 +91,7 @@ ht-degree: 21%
   <tr>
    <td><strong>MarketoとWorkfrontの統合 </strong>: MarketoとWorkfrontをご利用の場合は、Workfront テンプレートを使用して 2 つの製品を統合し、新しい自動処理ワークフローのロックを解除して、キャンペーンの実行を合理化できるようになりました。</td>
    <td>リリース日</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">ブループリントのレビューと承認</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=ja" target="_blank">ブループリントのレビューと承認</a></td>
   </tr>
  </tbody>
 </table>
