@@ -4,10 +4,10 @@ description: メールに「Web ページとして表示」リンクを追加す
 title: メールに「Web ページとして表示」リンクを追加する
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 100%
+source-wordcount: '170'
+ht-degree: 94%
 
 ---
 
@@ -17,7 +17,9 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->メールを新規作成する場合、「Web ページとして表示」は有効になっていません。有効にしてメールをクローンした場合、この設定はコピーされます。
+>* メールを新規作成する場合、「Web ページとして表示」は有効になっていません。有効にしてメールをクローンした場合、この設定はコピーされます。
+>
+>* 「Web ページとして表示」リンクは 6 か月後に期限が切れます。
 
 1. メールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
