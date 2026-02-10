@@ -4,10 +4,10 @@ description: LinkedIn リード生成フォームの設定 - Marketo ドキュ�
 title: LinkedIn リード生成フォームの設定
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '511'
-ht-degree: 100%
+source-wordcount: '492'
+ht-degree: 94%
 
 ---
 
@@ -15,17 +15,13 @@ ht-degree: 100%
 
 LinkedIn リード生成フォームを使用して、LinkedIn で広告キャンペーンを実行し、Marketo のリードを生成します。
 
->[!IMPORTANT]
->
->LinkedIn では、Marketo Engage LinkedIn 統合で使用されるマーケティング API をアップグレードしています。この変更により、サービスの中断を避けるために、2024年6月7日（PT）から 12月15日（PT）までの間、**管理**／**LaunchPoint** メニューですべての LinkedIn LaunchPoint サービスの再認証が必須になります。詳しくは、[移行に関する FAQ](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"} を参照してください。
-
 >[!NOTE]
 >
->**管理者権限が必要**
-
->[!NOTE]
+>* **管理者権限が必要**
 >
->LinkedIn リードは、会社 API を使用して作成された会社レコードに関連付けられている Marketo の既存の個人レコードと一致し、Marketo サブスクリプションが CRM に接続されていない場合、Marketo Engage に組み込まれません。
+>* LinkedIn リード生成フォームを作成する場合は、フォーム名に数字のみが含まれていないことを確認します。 フォーム名は、アルファベットまたは英数字のいずれかである必要があります。
+>
+>* LinkedIn リードは、会社 API を使用して作成された会社レコードに関連付けられている Marketo の既存の個人レコードと一致し、Marketo サブスクリプションが CRM に接続されていない場合、Marketo Engage に組み込まれません。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

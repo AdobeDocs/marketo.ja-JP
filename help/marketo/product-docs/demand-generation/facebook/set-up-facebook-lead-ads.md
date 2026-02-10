@@ -4,10 +4,10 @@ description: Facebook リード広告の設定 - Marketo ドキュメント - �
 title: Facebook リード広告の設定
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 100%
+source-wordcount: '338'
+ht-degree: 92%
 
 ---
 
@@ -17,7 +17,9 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->**管理者権限が必要**
+>* **管理者権限が必要**
+>
+>* Facebook リード広告フォームを作成する場合は、フォーム名に数字のみが含まれていることを確認してください。 フォーム名は、アルファベットまたは英数字のいずれかである必要があります。
 
 >[!AVAILABILITY]
 >
