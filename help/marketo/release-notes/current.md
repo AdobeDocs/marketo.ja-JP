@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 58%
+source-wordcount: '286'
+ht-degree: 60%
 
 ---
 
@@ -64,16 +64,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong> メールDesigner - API</strong>：メールDesignerに API 呼び出しを使用できるようになりました。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> 選択リスト管理 </strong>:Marketo インターフェイス内のフィールドで使用できる値を指定します。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
