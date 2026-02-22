@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
+source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 2%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 2%
 
 1. [Adobe Experience Cloud](https://experience.adobe.com/) からMarketo Engageにログインします。
 
-1. ヘッダーで「AI アシスタント」アイコンを選択します。
+1. ヘッダーの右側にある AI アシスタント アイコンを選択します。
 
    スクリーンショット
 
-1. 自然言語を使用して、プロンプトウィンドウに目的のプロンプトを入力します。
+1. 自然言語を使用して目的のプロンプトを入力します。
 
    スクリーンショット
 
@@ -36,7 +36,7 @@ ht-degree: 2%
 
    >[!TIP]
    >
-   >このアイコン（ここではアイコン画像）を使用して画面を展開し、このアイコン（ここではアイコン画像）を使用してプロンプト履歴を表示します。 &lt; – どのくらい遡るか。 設定はありますか？
+   >このアイコン（ここにアイコン画像）を使用して画面を展開し、このアイコン（ここにアイコン画像）を使用して履歴を表示したり、新しい会話を開始したりします。
 
 ## クイックスタート：60 秒のビデオの概要 {#video}
 
