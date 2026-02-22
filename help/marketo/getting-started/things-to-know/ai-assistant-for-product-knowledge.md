@@ -40,4 +40,4 @@ ht-degree: 2%
 
 ## クイックスタート：60 秒のビデオの概要 {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480116?captions=jpn&learn=on){transcript=true}
