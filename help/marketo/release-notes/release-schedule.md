@@ -4,9 +4,9 @@ description: リリーススケジュール - Marketo ドキュメント - 製�
 title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 5255f550b8aefcaaec0403589bb9a798187e884e
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 93%
 
 ---
@@ -33,29 +33,24 @@ _リリース日／機能は変更される場合があります。_
    <th width="250px">ステータス</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">2025年8月</a></td>
-   <td>2025年8月22日（PT）</td>
-   <td>Complete</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">2025年9月</a></td>
    <td>2025年9月19日（PT）</td>
    <td>Complete</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">2025年10月</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-oct-25.md">2025年10月</a></td>
    <td>2025年10月31日（PT）</td>
    <td>Complete</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">2026年1月</a></td>
+  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-jan-26.md">2026年1月</a></td>
    <td>2026年1月30日（PT）</td>
    <td>進行中</td>
   </tr>
   <tr>
-  <td>2026年2月</td>
+  <td><a href="/help/marketo/release-notes/current.md">2026年2月</a></td>
    <td>2026年2月20日（PT）</td>
-   <td>予定通り</td>
+   <td>進行中</td>
   </tr>
   <tr>
   <td>2026年3月</td>
@@ -75,6 +70,11 @@ _リリース日／機能は変更される場合があります。_
   <tr>
   <td>26年6月</td>
    <td>2026年6月26日（PT）</td>
+   <td>予定通り</td>
+  </tr>
+  <tr>
+  <td>26年7月</td>
+   <td>2026年7月31日（PT）</td>
    <td>予定通り</td>
   </tr>
  </tbody>
