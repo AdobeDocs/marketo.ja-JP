@@ -3,9 +3,9 @@ description: 継承インスタンス管理者チェックリスト - Marketo �
 title: 継承インスタンス管理者チェックリスト
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: ae094747a1ad593e9b6619f52d382669812863e5
 workflow-type: tm+mt
-source-wordcount: '1858'
+source-wordcount: '1850'
 ht-degree: 96%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 96%
   <tr>
    <td>サブスクリプションおよび Marketo Engage 製品管理者</td>
    <td><li>Marketo Engage サブスクリプションは <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a> に移行されましたか？
-<br/>     移行が完了している場合、「Adobe Admin Console システム管理者」から「Adobe Admin Console 製品管理者」ロールが付与されていますか？組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、<a href="https://helpx.adobe.com/jp/contact.html" target="_blank">アドビカスタマーケア</a>にお問い合わせください。</li>
+<br/>     移行が完了している場合、「Adobe Admin Console システム管理者」から「Adobe Admin Console 製品管理者」ロールが付与されていますか？組織内で誰がコンソールの管理者権限を持っているかが不明な場合は、<a href="https://helpx.adobe.com/contact.html" target="_blank">アドビカスタマーケア</a>にお問い合わせください。</li>
 <li>「Marketo Engage 製品管理者」の招待を受け入れましたか？Adobe Admin Console でロールが割り当てられると、メールが送信されます。
 <br/>     そうでない場合は、インボックスで<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">ウェルカムメール</a>を探し、招待を受け入れて Adobe ID をアクティベートします。</li></td>
   </tr>
@@ -69,7 +69,7 @@ ht-degree: 96%
 <li>会社にはユーザの削除に関するポリシーがありますか？</li>
 <li><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">管理者権限</a>を持つユーザ数はいくつですか？</li>
 <li>これらのユーザのいずれかを<a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">他のロール</a>に変更する必要がありますか？</li>
-<li>このインスタンスの <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md" target="_blank">API ユーザ</a>は誰ですか？</li></td>
+</td>
   </tr>
   <tr>
    <td>ロール</td>
@@ -313,8 +313,8 @@ ht-degree: 96%
   </tr>
   <td>Marketo セールスインサイト（該当する場合）</td>
    <td><li><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md" target="_blank">MSI パッケージはインストール</a>されていますか？</li>
-<li><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">Sales Insight の最新バージョンにアップグレード</a>しましたか？</li>
-<li>Sales Insight の設定は完了しましたか？<br/>     エンタープライズ／無制限ユーザは<a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">こちらをクリック</a>、プロフェッショナルユーザは<a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">こちらをクリック</a>してください。</li>
+<li><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md" target="_blank">セールスインサイトの最新バージョンにアップグレード</a>しましたか？</li>
+<li>セールスインサイトの設定は完了しましたか？<br/>     エンタープライズ／無制限ユーザは<a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md" target="_blank">こちらをクリック</a>、プロフェッショナルユーザは<a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md" target="_blank">こちらをクリック</a>してください。</li>
 <li>購入したシート数に基づいて<a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md" target="_blank">ユーザにアクセス権を付与</a>しましたか？</li>
 <li><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md" target="_blank">星と炎</a>はカスタマイズされていますか？</li></td>
   </tr>
