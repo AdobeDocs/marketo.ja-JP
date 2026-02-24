@@ -3,10 +3,10 @@ description: 最新のリリースノート - Marketo ドキュメント - 製�
 title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
+source-git-commit: 466f4b43124a2cb0894c4b8ce605521be1c4b4cd
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 60%
+source-wordcount: '306'
+ht-degree: 58%
 
 ---
 
@@ -43,6 +43,26 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
+   <td><strong> メールDesigner - API</strong>：メールDesignerに API 呼び出しを使用できるようになりました。</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> メールDesigner - ブランド管理（ベータ版） </strong>：組織/ブランドに固有のコピーライティングガイドラインに基づいてメールコンテンツを生成します。</td>
+   <td><i>まもなくリリース</i></td>
+   <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong> メールDesigner - ブランド品質チェッカー </strong>：一般的なコンテンツ品質を評価して、ブランドガイドラインに依存せずに、読みやすさ、コンテンツのまとまり、効果に関する潜在的な問題を特定します。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
@@ -54,16 +74,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong> メールDesigner - AI アシスタントの画像生成 </strong>：現在は、Fireflyに加えて、ナノバナナモデルを使用してメールコンテンツ用の AI アシスタントで画像を生成できます。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> メールDesigner - API</strong>：メールDesignerに API 呼び出しを使用できるようになりました。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
