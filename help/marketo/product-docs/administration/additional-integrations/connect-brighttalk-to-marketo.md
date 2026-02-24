@@ -4,8 +4,8 @@ description: ' [!DNL BrightTALK]  の Marketo への接続 - Marketo ドキュ�
 title: ' [!DNL BrightTALK]  の Marketo への接続'
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
-workflow-type: ht
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 100%
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 1. [API 専用ユーザーロール](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}を作成する。
 
-1. 手順 4 で作成した [!DNL BrightTALK] API ロールを使用して、[API ユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md){target="_blank"}します。
+1. 手順 4 で作成した [!DNL BrightTALK] API ロールを使用して、[API ユーザーを作成](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}します。
 
 1. **[!UICONTROL 管理]**&#x200B;領域に戻ります。
 

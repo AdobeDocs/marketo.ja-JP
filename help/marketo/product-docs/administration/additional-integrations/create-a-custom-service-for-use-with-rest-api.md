@@ -4,7 +4,7 @@ description: ReST API で使用するカスタムサービスの作成 - Marketo
 title: ReST API で使用するカスタムサービスの作成
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 100%
@@ -18,7 +18,7 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 >[!PREREQUISITES]
 >
 >* [API 専用ユーザーのロールの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [API 専用ユーザーの作成](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [API 専用ユーザーの作成](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
 >
 
 >[!NOTE]
@@ -43,7 +43,7 @@ Marketo との統合に ReST API を使用する場合、カスタムサービ�
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. サービスの「**[!UICONTROL 表示名]**」を入力します。**[!UICONTROL 先ほど作成した]**「[API 専用ユーザー](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)」を選択します。
+1. サービスの「**[!UICONTROL 表示名]**」を入力します。**[!UICONTROL 先ほど作成した]**「[API 専用ユーザー](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)」を選択します。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
