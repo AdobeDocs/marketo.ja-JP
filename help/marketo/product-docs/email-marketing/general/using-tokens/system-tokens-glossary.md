@@ -4,9 +4,9 @@ description: システムトークンの用語集 - Marketo ドキュメント -
 title: システムトークンの用語集
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: bf420edcc79aa551e286302fa002df9162371873
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '217'
 ht-degree: 93%
 
 ---
@@ -51,14 +51,6 @@ ht-degree: 93%
 * [注目のアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md){target="_blank"}フローステップ
 * [タスクの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}フローステップ
 * メールまたはテンプレートの本文
-
-## system.forwardToFriendLink {#system-forwardtofriendlink}
-
-`{{system.forwardToFriendLink}}` トークンを使用すると、[メール内の「友達に転送リンク」](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md){target="_blank"}の配置を制御できます。
-
-**使用場所：**
-
-* [システムトークンをメールまたはテンプレートのリンクとして追加](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md){target="_blank"}
 
 ## system.unsubscribeLink {#system-unsubscribelink}
 
