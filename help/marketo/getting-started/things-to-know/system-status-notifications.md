@@ -34,7 +34,7 @@ ht-degree: 2%
 
 「_データセンター_」フィールドでは、文字がデータセンター、数字がポッドです。 上記の例では、ユーザーはポッド 49 上の Ashburn データセンターにあります。
 
-[ サブスクリプションの作成 ](#create-a-subscription) の手順 7 では、地域の場所 **Marketo Ashburn** とポッド **ab49** を選択します。
+[&#x200B; サブスクリプションの作成 &#x200B;](#create-a-subscription) の手順 7 では、地域の場所 **Marketo Ashburn** とポッド **ab49** を選択します。
 
 <table style="width:300px;">
   <tr>
@@ -70,7 +70,7 @@ ht-degree: 2%
 
 ## 購読を作成 {#create-a-subscription}
 
-[ データセンターとポッド/サーバーを識別 ](#identify) した後、次の手順に従ってサブスクリプションを作成します。
+[&#x200B; データセンターとポッド/サーバーを識別 &#x200B;](#identify) した後、次の手順に従ってサブスクリプションを作成します。
 
 1. [status.adobe.com](https://status.adobe.com/ja) で、「**購読を管理**」をクリックします。
 
@@ -84,7 +84,7 @@ ht-degree: 2%
 
    ![](assets/subscribe-to-system-status-notifications-5.png)
 
-1. ![2}Experience Cloud](assets/icon-plus-sign.png) の横にある「プラス記号アイコン _アイコンをクリックして、メニューを展開します。__Adobe Marketo Engage_ に対しても、同じ操作を行います。
+1. ![2&rbrace;Experience Cloud](assets/icon-plus-sign.png) の横にある「プラス記号アイコン _アイコンをクリックして、メニューを展開します。__Adobe Marketo Engage_ に対しても、同じ操作を行います。
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
@@ -125,7 +125,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >この情報がどこにあるかを見落とした場合は、[ データセンターの特定 ](#identify) を参照してください。
+   >この情報がどこにあるかを見落とした場合は、[&#x200B; データセンターの特定 &#x200B;](#identify) を参照してください。
 
 1. サブスクリプションの環境設定 **メール** または **Slack** を選択し、「**続行**」をクリックします。
 
