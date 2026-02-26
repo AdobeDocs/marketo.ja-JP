@@ -4,7 +4,7 @@ title: システムステータス通知のサブスクライブ
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 5c82b2e793596878186256f993ed3d672152556d
+source-git-commit: cf60167b9e9ee2ea2a2861a3cd3c661781dbf0b0
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 3%
@@ -33,7 +33,7 @@ ht-degree: 3%
 
 「_データセンター_」フィールドでは、文字がデータセンター、数字がポッドです。 上記の例では、ユーザーはポッド 49 上の Ashburn データセンターにあります。
 
-[&#x200B; サブスクリプションの作成 &#x200B;](#create-a-subscription) の手順 7 では、地域の場所 **Marketo Ashburn** とポッド **ab49** を選択します。
+[ サブスクリプションの作成 ](#create-a-subscription) の手順 7 では、地域の場所 **Marketo Ashburn** とポッド **ab49** を選択します。
 
 <table style="width:225px;">
   <tr>
@@ -69,7 +69,7 @@ ht-degree: 3%
 
 ## 購読を作成 {#create-a-subscription}
 
-[&#x200B; データセンターとポッド/サーバーを識別 &#x200B;](#identify) した後、次の手順に従ってサブスクリプションを作成します。
+[ データセンターとポッド/サーバーを識別 ](#identify) した後、次の手順に従ってサブスクリプションを作成します。
 
 1. [status.adobe.com](https://status.adobe.com/ja) で、「**購読を管理**」をクリックします。
 
@@ -83,9 +83,9 @@ ht-degree: 3%
 
    ![](assets/subscribe-to-system-status-notifications-5.png)
 
-1. ![2&rbrace;Experience Cloud](assets/icon-plus-sign.png) の横にある「プラス記号アイコン _アイコンをクリックして、メニューを展開します。__Adobe Marketo Engage_ に対しても、同じ操作を行います。
+1. ![2}Experience Cloud](assets/icon-plus-sign.png) の横にある「プラス記号アイコン _アイコンをクリックして、メニューを展開します。__Adobe Marketo Engage_ に対しても、同じ操作を行います。
 
-   ![](assets/subscribe-to-system-status-notifications-6.png)
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
 
 1. 通知を受け取る製品オファーやサービスを選択し、「**続行**」をクリックします。
 
@@ -93,7 +93,7 @@ ht-degree: 3%
    >
    >「_Adobe Marketo Engage_」をオンにしてすべてを選択します。
 
-   ![](assets/subscribe-to-system-status-notifications-7.png)
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
 
 1. 目的のイベントタイプを選択します。
 
@@ -120,7 +120,7 @@ ht-degree: 3%
 
 1. 目的の地域の場所と環境を選択します。 「**続行**」をクリックします。
 
-   ![](assets/subscribe-to-system-status-notifications-9.png)
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
 
 1. サブスクリプションの環境設定 **メール** または **Slack** を選択し、「**続行**」をクリックします。
 
