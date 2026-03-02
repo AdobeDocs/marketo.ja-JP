@@ -2,12 +2,10 @@
 description: システムステータス通知の登録 – Marketo Engage ドキュメント – 製品ドキュメント
 title: システムステータス通知のサブスクライブ
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '357'
 ht-degree: 2%
 
 ---
@@ -22,8 +20,6 @@ ht-degree: 2%
 
 ## データセンターの特定 {#identify}
 
-+++データセンターとポッド/サーバーの特定
-
 1. Marketo Engageの「**管理者**」セクションで、「**マイアカウント**」をクリックします。
 
    ![](assets/subscribe-to-system-status-notifications-1.png)
@@ -34,43 +30,23 @@ ht-degree: 2%
 
 「_データセンター_」フィールドでは、文字がデータセンター、数字がポッドです。 上記の例では、ユーザーはポッド 49 上の Ashburn データセンターにあります。
 
-[&#x200B; サブスクリプションの作成 &#x200B;](#create-a-subscription) の手順 7 では、地域の場所 **Marketo Ashburn** とポッド **ab49** を選択します。
+[ 以下のセクション ](#create-a-subscription) のステップ 7 では、このユーザーは、地域の場所 **Marketo Ashburn** とポッド **ab49** を選択します。
 
-<table style="width:300px;">
-  <tr>
-    <th colspan="2">データセンターの略語</th>
-  </tr>
-  <tr>
-    <td style="width:25%;">ab</td>
-    <td>アシュバーン</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sj</td>
-    <td>サンノゼ</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sn</td>
-    <td>シドニー</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">ロン</td>
-    <td>ロンドン</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">nld</td>
-    <td>アムステルダム</td>
-  </tr>
-</table>
+**データセンターの略語**
+
+ab: Ashburn
+sj：サンノゼ
+sn：シドニー
+lon: ロンドン
+nld：アムステルダム
 
 >[!TIP]
 >
 >この手法は、サブスクリプションが含まれる Real Time Personalization（RTP）ポッド/サーバーを特定するためにも使用できます。
 
-+++
-
 ## 購読を作成 {#create-a-subscription}
 
-[&#x200B; データセンターとポッド/サーバーを識別 &#x200B;](#identify) した後、次の手順に従ってサブスクリプションを作成します。
+[ データセンターとポッド/サーバーを識別 ](#identify) した後、次の手順に従ってサブスクリプションを作成します。
 
 1. [status.adobe.com](https://status.adobe.com/ja) で、「**購読を管理**」をクリックします。
 
@@ -84,7 +60,7 @@ ht-degree: 2%
 
    ![](assets/subscribe-to-system-status-notifications-5.png)
 
-1. ![2&rbrace;Experience Cloud](assets/icon-plus-sign.png) の横にある「プラス記号アイコン _アイコンをクリックして、メニューを展開します。__Adobe Marketo Engage_ に対しても、同じ操作を行います。
+1. ![2}Experience Cloud](assets/icon-plus-sign.png) の横にある「プラス記号アイコン _アイコンをクリックして、メニューを展開します。__Adobe Marketo Engage_ に対しても、同じ操作を行います。
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
@@ -125,7 +101,7 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >この情報がどこにあるかを見落とした場合は、[&#x200B; データセンターの特定 &#x200B;](#identify) を参照してください。
+   >この情報がどこにあるかを見落とした場合は、[ データセンターの特定 ](#identify) を参照してください。
 
 1. サブスクリプションの環境設定 **メール** または **Slack** を選択し、「**続行**」をクリックします。
 

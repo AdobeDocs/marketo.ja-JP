@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,8 @@ ht-degree: 0%
    >
    >このアイコン ![](assets/icon-arrows.png) を使用して画面を展開し、このアイコン ![](assets/icon-conversation-history.png) を使用して履歴を表示したり、新しい会話を開始したりします。
 
-## クイックスタート：60 秒のビデオの概要 {#video}
+## クイックスタート：ビデオの概要 {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480116?captions=jpn&learn=on){transcript=true}
+製品知識の AI アシスタントの仕組みを約 1 分で確認できます。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
