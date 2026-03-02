@@ -42,4 +42,4 @@ ht-degree: 0%
 
 製品知識の AI アシスタントの仕組みを約 1 分で確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480116?captions=jpn&learn=on){transcript=true}
