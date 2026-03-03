@@ -83,7 +83,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **SEO 機能の廃止**: 2026 年 3 月 31 日火曜日（PT）に、Marketo Engageは検索エンジン最適化機能（SEO）を廃止します。 SEO を積極的に使用しない場合は、何もする必要はありません。 最近 SEO を使用した場合は、データを書き出すオプションがあります。 [詳細情報](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
+* **SEO 機能の廃止**: 2026 年 3 月 31 日火曜日（PT）に、Marketo Engageは検索エンジン最適化機能（SEO）を廃止します。 SEO を積極的に使用しない場合は、何もする必要はありません。 最近 SEO を使用した場合は、データを書き出すオプションがあります。 [詳細情報](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=ja){target="_blank"}。
 
 * **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2026年3月31日（PT）以降は使用できなくなります。すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
