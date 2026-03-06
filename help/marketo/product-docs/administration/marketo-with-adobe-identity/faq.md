@@ -83,7 +83,7 @@ Ultimate Success を利用している場合は、Admin Console Migration White 
 
 **Adobe Admin Console の詳細はどこで確認できますか？**
 
-[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"} にアクセスしてください。
+[https://helpx.adobe.com/jp/enterprise/admin-guide.html](https://helpx.adobe.com/jp/enterprise/admin-guide.html){target="_blank"} にアクセスしてください。
 
 **マイアカウントのユーザアカウントに変更を加えるためには、Marketo の管理者セクションにアクセスするのでしょうか？**
 

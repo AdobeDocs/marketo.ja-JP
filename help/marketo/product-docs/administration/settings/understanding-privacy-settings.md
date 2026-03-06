@@ -68,7 +68,7 @@ Cookie を設置できることを検証するには、自分が cookie を設�
 
 マーケターは、匿名化した IP アドレスでユーザーをトラッキングすることで、プライバシーを保持できます。これを行うには、このコードを web サイトに埋め込まれている RTP または [!DNL Munchkin] JavaScript に追加します。
 
-* [!DNL Munchkin] しくは、`{"anonymizeIP",true}`init 関数 [&#x200B; に &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"} を追加します。
+* [!DNL Munchkin] しくは、`{"anonymizeIP",true}`init 関数 [&#x200B; に &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"} を追加します。
 
 * Web パーソナライゼーション（RTP）の場合は、これを javascript に追加します。
 
