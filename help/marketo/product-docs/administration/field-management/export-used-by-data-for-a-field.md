@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417092
-description: フィールドの使用先データのエクスポート - Marketo ドキュメント - 製品ドキュメント
+description: フィールドを使用するアセットのリストを書き出し、チームにリンク解除をデリゲートできるようにします。
 title: フィールドの使用先データのエクスポート
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 84%
 
 ---
 

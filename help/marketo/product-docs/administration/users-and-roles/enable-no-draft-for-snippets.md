@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095636
-description: スニペットで「ドラフトなし」を有効にする - Marketo ドキュメント - 製品ドキュメント
+description: 新しいドラフトを必要とせずにスニペットの変更が承認済みアセットに適用されるように、スニペットに対して「ドラフトなし」を有効にする方法を説明します。
 title: スニペットで「ドラフトなし」を有効にする
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 100%
+source-wordcount: '160'
+ht-degree: 88%
 
 ---
 

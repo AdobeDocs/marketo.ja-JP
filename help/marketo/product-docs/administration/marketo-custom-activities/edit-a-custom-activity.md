@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10100269
-description: カスタムアクティビティの編集 - Marketo ドキュメント - 製品ドキュメント
+description: カスタムアクティビティを編集する方法と、ドラフトまたは公開済みステータスがどのように影響を受けるかを説明します。
 title: カスタムアクティビティの編集
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 86%
 
 ---
 

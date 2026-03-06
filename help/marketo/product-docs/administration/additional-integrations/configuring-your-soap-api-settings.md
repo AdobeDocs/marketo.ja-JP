@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360352
-description: SOAP API の設定 - Marketo ドキュメント - 製品ドキュメント
+description: 開発者向け管理 web サービスで、SOAP API 暗号化キーを設定し、エンドポイントの詳細を取得します。
 title: SOAP API の設定
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 100%
+source-wordcount: '88'
+ht-degree: 81%
 
 ---
 

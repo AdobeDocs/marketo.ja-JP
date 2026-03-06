@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10096583
-description: 次世代  [!DNL Munchkin]  トラッキングに関する FAQ - Marketo ドキュメント - 製品ドキュメント
+description: 次世代トラッキングロールアウトおよび匿名フィルタ  [!DNL Munchkin]  の変更に関する FAQ です。
 title: 次世代  [!DNL Munchkin]  トラッキングに関する FAQ
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 98%
+source-wordcount: '702'
+ht-degree: 97%
 
 ---
 
@@ -46,8 +46,8 @@ ht-degree: 98%
 >[!NOTE]
 >
 >**トリガー**：Web ページへの訪問、Web ページが料金ページ
->&#x200B;>**フロー**：スコア +10 と興味深い瞬間を変更
->&#x200B;>**Web**：料金ページを閲覧した
+>**フロー**：スコア +10 と興味深い瞬間を変更
+>**Web**：料金ページを閲覧した
 >
 >[!DNL Munchkin] V2 では、匿名ユーザーが料金ページを訪問しても、すぐにはキャンペーンは開始しません。匿名ユーザーが既知のユーザーとなった時点から、その人物にこのキャンペーンが適用されます。以下の処理が行われます。
 >

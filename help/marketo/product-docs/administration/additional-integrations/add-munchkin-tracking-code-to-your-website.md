@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360354
-description: Web サイトへの  [!DNL Munchkin]  トラッキングコードの追加 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo [!DNL Munchkin] JavaScriptをサイトに追加すると、訪問を追跡したり、web ベースのキャンペーンを有効にしたりできます。
 title: Web サイトへの  [!DNL Munchkin]  トラッキングコードの追加
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '666'
-ht-degree: 97%
+source-wordcount: '669'
+ht-degree: 98%
 
 ---
 
@@ -141,4 +141,4 @@ Marketo アカウントで Workspaces を使用している場合、ワークス
 
    >[!NOTE]
    >
-   >データが表示されない場合は、数分待ってから、下部の [!UICONTROL &#x200B; 更新 &#x200B;] アイコンをクリックします。
+   >データが表示されない場合は、数分待ってから、下部にある「[!UICONTROL 更新]」アイコンをクリックします。

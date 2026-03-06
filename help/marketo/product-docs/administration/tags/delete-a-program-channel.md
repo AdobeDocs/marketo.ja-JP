@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360281
-description: プログラムチャネルの削除 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムチャネルがプログラムに関連付けられていない場合にプログラムチャネルを削除する手順、またはプログラムチャネルが使用中の場合にプログラムチャネルを非表示にする手順。
 title: プログラムチャネルの削除
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 78%
 
 ---
 

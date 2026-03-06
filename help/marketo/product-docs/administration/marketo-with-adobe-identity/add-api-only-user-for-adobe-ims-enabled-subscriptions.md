@@ -1,12 +1,12 @@
 ---
-description: Adobe IMS が有効のサブスクリプション用 API 専用ユーザーの追加 - Marketo ドキュメント - 製品ドキュメント
+description: 購読がAdobe IMSを使用する場合に、Marketo Engageで API ユーザーのみを作成および管理する方法。
 title: Adobe IMS が有効のサブスクリプション用 API 専用ユーザーの追加
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 100%
+source-wordcount: '156'
+ht-degree: 89%
 
 ---
 

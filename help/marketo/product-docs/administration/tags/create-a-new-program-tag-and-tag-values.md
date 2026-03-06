@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360272
-description: プログラムタグとタグ値の新規作成 - Marketo ドキュメント - 製品ドキュメント
+description: カスタムプログラムタグを作成して値を割り当て、プログラムタイプを選択し、新しいプログラムを作成するときにタグを必須にする方法。
 title: プログラムタグとタグ値の新規作成
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '174'
+ht-degree: 87%
 
 ---
 

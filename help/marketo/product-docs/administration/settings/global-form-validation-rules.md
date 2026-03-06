@@ -1,12 +1,12 @@
 ---
-description: グローバルフォーム検証ルール - Marketo ドキュメント - 製品ドキュメント
+description: フォームの検証ルールへのアクセス権限を有効にし、グローバルルールを作成して、特定のドメインがMarketo Engage forms に送信するのをブロックする方法。
 title: グローバルフォーム検証ルール
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 100%
+source-wordcount: '296'
+ht-degree: 92%
 
 ---
 

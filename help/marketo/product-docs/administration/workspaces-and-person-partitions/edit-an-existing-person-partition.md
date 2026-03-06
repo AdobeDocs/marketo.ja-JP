@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360323
-description: 既存の人物パーティションを編集する - Marketo ドキュメント - 製品ドキュメント
+description: ユーザーのパーティション名とワークスペースの割り当てを編集する手順。
 title: 既存の人物パーティションを編集する
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '105'
+ht-degree: 90%
 
 ---
 

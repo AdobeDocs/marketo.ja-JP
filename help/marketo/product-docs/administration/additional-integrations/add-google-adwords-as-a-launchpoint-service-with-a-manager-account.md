@@ -1,23 +1,23 @@
 ---
 unique-page-id: 7504893
-description: "マネージャーアカウントで  [!DNL Google AdWords]  を  [!DNL Launchpoint]  サービスとして追加 - Marketo ドキュメント - 製品ドキュメント"
-title: "マネージャーアカウントで  [!DNL Google AdWords]  を  [!DNL Launchpoint]  サービスとして追加"
+description: LaunchPoint [!DNL Google AdWords]  管理者アカウントを使用して、複数のアカウントをMarketoと統合します。
+title: マネージャーアカウ  [!DNL Google AdWords]  トを持つサ  [!DNL Launchpoint]  ビスとして追加
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 100%
+source-wordcount: '306'
+ht-degree: 74%
 
 ---
 
 # マネージャーアカウントで [!DNL Google AdWords] を [!DNL Launchpoint] サービスとして追加 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。[!DNL AdWords] に[カスタム列を追加](https://support.google.com/adwords/answer/3073556){target="_blank"}した後、どのクリックが条件を満たすリードや商談、新規顧客（またはトラッキングしたいあらゆる売上高ステージ）につながったのかを [!DNL AdWords] UI から簡単に確認できるようになります。この情報は、Marketo UI には表示されません。
+[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。その後、[!DNL AdWords] UI から、[ で ](https://support.google.com/adwords/answer/3073556){target="_blank"} カスタム列を追加 [!DNL AdWords] した後、どのクリックが適格なリード、商談、新規顧客（または追跡したい収益ステージ）につながったかを簡単に確認できます。 この情報は、Marketo UI には表示されません。
 
-複数の [!DNL Google Adwords] アカウントがある場合、[[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"}（以前の [!DNL My Client Center]）を使用して、それらを Marketo と統合できます。
+複数の [!DNL Google Adwords] アカウントがある場合は、[[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} （旧称：[!DNL My Client Center]）を使用して、それらをMarketoと統合できます。
 
-詳しくは、[Google のオフラインコンバージョンのインポート機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}を参照してください。
+[Googleのオフラインコンバージョンインポート機能 ](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"} の詳細情報。
 
 >[!AVAILABILITY]
 >
@@ -82,7 +82,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >この機能を使用するには、[自動タギング](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。[!DNL AdWords] 内で有効化する必要があります。
+   >この機能を使用するには、[自動タグ付け](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。[!DNL AdWords] 内で有効化する必要があります。
 
 1. 「**[!UICONTROL 次へ]**」をクリックします。
 

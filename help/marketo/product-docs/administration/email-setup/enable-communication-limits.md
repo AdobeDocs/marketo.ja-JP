@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360222
-description: 通信制限の有効化 - Marketo ドキュメント - 製品ドキュメント
+description: 1 日ごとおよび 7 日ごとのメール制限を設定して、人物との過剰な通信を防ぎます。
 title: 通信制限の有効化
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 100%
+source-wordcount: '163'
+ht-degree: 92%
 
 ---
 

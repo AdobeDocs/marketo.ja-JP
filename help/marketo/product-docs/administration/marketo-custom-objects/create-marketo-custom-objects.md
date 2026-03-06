@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093192
-description: Marketo カスタムオブジェクトの作成 - Marketo ドキュメント - 製品ドキュメント
+description: 表示名、API 名、リードで表示の詳細など、1 対多または多対多の構造に対してMarketoのカスタムオブジェクトを作成する手順。
 title: Marketo カスタムオブジェクトの作成
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 100%
+source-wordcount: '711'
+ht-degree: 97%
 
 ---
 

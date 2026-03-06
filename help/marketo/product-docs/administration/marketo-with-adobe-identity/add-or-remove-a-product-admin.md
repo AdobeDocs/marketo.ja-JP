@@ -1,12 +1,12 @@
 ---
-description: 製品管理者の追加または削除 - Marketo ドキュメント - 製品ドキュメント
+description: Adobe Admin Consoleで製品管理者を追加または削除する手順。
 title: 製品管理者の追加または削除
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 100%
+source-wordcount: '288'
+ht-degree: 95%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360245
-description: 「管理者メール」セクションから登録解除テキストの削除 - Marketo ドキュメント - 製品ドキュメント
+description: テンプレートにリンクを作成する際に、HTML コメントを使用して、管理者メールからデフォルトの購読解除コンテンツを削除します。
 title: 「管理者メール」セクションから登録解除テキストの削除
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 100%
+source-wordcount: '172'
+ht-degree: 88%
 
 ---
 

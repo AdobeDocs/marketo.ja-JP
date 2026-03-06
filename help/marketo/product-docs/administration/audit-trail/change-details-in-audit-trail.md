@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11379928
-description: 監査記録の変更の詳細 — Marketo ドキュメント — 製品ドキュメント
+description: 変更点の詳細については、アセットと管理者アクションの監査記録レコードを参照してください。
 title: 監査記録の詳細の変更
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '1902'
-ht-degree: 100%
+source-wordcount: '1906'
+ht-degree: 99%
 
 ---
 

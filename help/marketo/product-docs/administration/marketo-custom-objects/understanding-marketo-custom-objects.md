@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093188
-description: Marketo カスタムオブジェクトについて - Marketo ドキュメント - 製品ドキュメント
+description: 1 対多および多対多の関係、フィルター、トリガー、管理者でこれらにアクセスする場所など、ビジネス固有の指標を追跡するためのカスタムオブジェクトの概要です。
 title: Marketo カスタムオブジェクトについて
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '699'
-ht-degree: 100%
+source-wordcount: '713'
+ht-degree: 96%
 
 ---
 
@@ -61,7 +61,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >各フィールドは自動的に更新されますが、「レコード」列のアイコンをクリックすれば更新できます。
+   >各フィールドは自動的に更新されますが、「レコード」列のアイコンをクリックすれば表示を更新できます。
 
 1. 右のオブジェクト名をクリックすると、詳細ページが開きます。
 

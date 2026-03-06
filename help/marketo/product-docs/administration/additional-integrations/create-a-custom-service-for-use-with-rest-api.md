@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360350
-description: ReST API で使用するカスタムサービスの作成 - Marketo ドキュメント - 製品ドキュメント
+description: API のみのユーザーにリンクされたカスタム LaunchPoint サービスを作成して、API 統合をリセットします。
 title: ReST API で使用するカスタムサービスの作成
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 100%
+source-wordcount: '208'
+ht-degree: 93%
 
 ---
 

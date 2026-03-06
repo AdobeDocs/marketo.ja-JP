@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10100275
-description: Marketo のカスタムアクティビティフィールドの追加／編集／削除 - Marketo ドキュメント - 製品ドキュメント
+description: カスタムアクティビティでフィールドを追加、編集、削除する方法。
 title: Marketo のカスタムアクティビティフィールドの追加／編集／削除
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '298'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 

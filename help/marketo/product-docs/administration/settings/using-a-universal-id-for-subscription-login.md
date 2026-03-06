@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10100311
-description: サブスクリプションログインでのユニバーサル ID の使用 - Marketo ドキュメント - 製品ドキュメント
+description: ユニバーサル ID を使用して、1 回のログインで複数のMarketo サブスクリプションにアクセスする方法、サブスクリプション間を切り替える方法、サブスクリプション全体でパスワードポリシーとプロファイルデータが機能する方法について説明します。
 title: サブスクリプションログインでのユニバーサル ID の使用
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '569'
-ht-degree: 100%
+source-wordcount: '583'
+ht-degree: 95%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->複数のサブスクリプションログイン ID がある場合は、複数のコミュニティプロファイルを持つこともできます。使用するプロファイルに接続されているユニバーサル ID の ID を必ず選択してください。これは、サンドボックスではなく、実稼動インスタンス用の ID を選択します。
+>複数のサブスクリプションログイン ID がある場合は、複数のコミュニティプロファイルを持つこともできます。使用するプロファイルに接続されているユニバーサル ID の ID を必ず選択してください。これは、サンドボックスではなく、本番稼働インスタンス用の ID を選択します。
 
 ## ログイン中 {#logging-in}
 

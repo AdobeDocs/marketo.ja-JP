@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382122
-description: 監査記録の有効化 - Marketo ドキュメント - 製品ドキュメント
+description: 役割の監査記録とログイン履歴を有効にし、管理者権限を使用して役割をユーザーに割り当てます。
 title: 監査記録の有効化
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 100%
+source-wordcount: '256'
+ht-degree: 92%
 
 ---
 

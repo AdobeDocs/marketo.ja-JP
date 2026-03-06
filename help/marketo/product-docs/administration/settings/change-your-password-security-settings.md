@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360185
-description: パスワードセキュリティ設定の変更 - Marketo ドキュメント - 製品ドキュメント
+description: テンプレート、有効期限、非アクティブセッションタイムアウトなど、購読パスワードポリシーを設定する方法。
 title: パスワードセキュリティ設定の変更
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 100%
+source-wordcount: '177'
+ht-degree: 92%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >変更しても、既存ユーザーにはそのことが通知されません。すべてのユーザーに確実に新しい設定を適用するためには、「**[!UICONTROL 有効期限]**」を 30 日に設定してから、元の期限に戻します。
+   >変更しても、既存ユーザーにはそのことが通知されません。まず&#x200B;**[!UICONTROL 有効期限]**&#x200B;を 30 日に設定し、全員が新しい設定に更新したことを確認した後、元の周期に戻します。
 
 1. 「**[!UICONTROL 非アクティブセッションタイムアウト]**」の値を選択します。ユーザーが非アクティブ（Marketo の操作をしていない状態）のときに、ログインが必要になるまでの時間を指定できます。
 

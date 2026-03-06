@@ -1,12 +1,12 @@
 ---
-description: Adobe Identity Management の概要 - Marketo ドキュメント - 製品ドキュメント
+description: 移行タイミング、Admin Console User Management、システム管理者や製品管理者などのプロファイルレベルを含む、Marketo EngageのAdobe Identity Managementの概要。
 title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 95%
+source-wordcount: '462'
+ht-degree: 89%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 95%
 Adobe ID にオンボードされたサブスクリプションの場合、Adobe Admin Console がユーザ管理に使用されます。シングルサインオンなどの ID 関連の概念も、Admin Console で管理されます。
 
 * [Adobe Admin Console](https://helpx.adobe.com/jp/enterprise/using/admin-console.html){target="_blank"} の詳細情報を検索します。
-* 詳しくは [Marketo サブスクリプションに関連するAdobe組織の設定 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} を参照してください。
+* 詳しくは [Marketo サブスクリプションに関連するAdobe組織の設定 ](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"} を参照してください。
 
 >[!NOTE]
 >

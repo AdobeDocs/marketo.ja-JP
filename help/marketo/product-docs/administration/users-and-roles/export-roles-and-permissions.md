@@ -1,12 +1,12 @@
 ---
-description: ロールと権限のエクスポート - Marketo ドキュメント - 製品ドキュメント
+description: すべての役割とその権限をエクスポートする方法を説明します。
 title: ロールと権限のエクスポート
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 100%
+source-wordcount: '85'
+ht-degree: 89%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359906
-description: Marketo ユーザーの管理 - Marketo ドキュメント - 製品ドキュメント
+description: ユーザーの作成および削除、パスワードのリセット、ユーザー情報およびAdobe ID を使用しないサブスクリプションの権限の編集を行う手順です。
 title: Marketo ユーザーの管理
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 100%
+source-wordcount: '415'
+ht-degree: 95%
 
 ---
 

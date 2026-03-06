@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512289
-description: " [!DNL GoToWebinar]  を  [!DNL LaunchPoint]  サービスとして追加 - Marketo ドキュメント - 製品ドキュメント"
-title: " [!DNL GoToWebinar]  を  [!DNL LaunchPoint]  サービスとして追加"
+description: LaunchPoint サ  [!DNL GoToWebinar]  ビスとして追加することで、Marketoがウェビナーの登録と出席を管理できるようになります。
+title: ' [!DNL GoToWebinar]  を  [!DNL LaunchPoint]  サービスとして追加'
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 100%
+source-wordcount: '157'
+ht-degree: 92%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378041
-description: ブランディングドメインの削除 - Marketo ドキュメント - 製品ドキュメント
+description: メール管理者テーブルからブランディングドメインを削除します（プライマリを削除する場合は、最初に別のプライマリを設定します）。
 title: ブランディングドメインの削除
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 100%
+source-wordcount: '69'
+ht-degree: 73%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094188
-description: カスタムオブジェクトの承認 - Marketo ドキュメント - 製品ドキュメント
+description: 1 対多、多対多、中間のオブジェクトの要件など、Admin で新規または編集済みのカスタムオブジェクトを承認する方法。
 title: カスタムオブジェクトの承認
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 100%
+source-wordcount: '288'
+ht-degree: 93%
 
 ---
 

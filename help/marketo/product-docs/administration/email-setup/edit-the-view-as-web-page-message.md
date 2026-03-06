@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360253
-description: 「Web ページとして表示」メッセージの編集 - Marketo ドキュメント - 製品ドキュメント
+description: 必要な変数を変更せずに、「Web ページとして表示」リンクテキストと管理者メールのHTMLをカスタマイズできます。
 title: 「Web ページとして表示」メッセージの編集
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 100%
+source-wordcount: '191'
+ht-degree: 90%
 
 ---
 

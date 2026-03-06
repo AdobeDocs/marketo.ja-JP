@@ -1,12 +1,12 @@
 ---
-description: Bulk Export API 情報 - Marketo ドキュメント - 製品ドキュメント
+description: 過去 7 日間と割り当てがリセットされた際の Bulk Extract API の容量使用状況を確認する方法。
 title: Bulk Export API 情報
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 61%
+source-wordcount: '106'
+ht-degree: 49%
 
 ---
 

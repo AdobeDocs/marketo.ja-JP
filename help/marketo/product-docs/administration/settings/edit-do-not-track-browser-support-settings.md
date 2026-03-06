@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6095047
-description: 「トラックしない」ブラウザーのサポート設定の編集 - Marketo ドキュメント - 製品ドキュメント
+description: 人物トラッキングを編集して、ブラウザーの Do Not Track リクエストを許可または無視する方法。
 title: 「トラックしない」ブラウザーのサポート設定の編集
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 100%
+source-wordcount: '132'
+ht-degree: 88%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360327
-description: 割り当てルールを使用した人物パーティションの割り当て - Marketo ドキュメント - 製品ドキュメント
+description: CRM の担当者を適切な担当者パーティションにルーティングする割り当てルールの設定方法。
 title: 割り当てルールを使用した人物パーティションの割り当て
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 100%
+source-wordcount: '176'
+ht-degree: 90%
 
 ---
 

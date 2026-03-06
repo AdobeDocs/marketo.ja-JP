@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512607
-description: ダウンロード  [!DNL GoogleAdwords Activity Log] - Marketo ドキュメント – 製品ドキュメント
+description: LaunchPoint からアクティビティ  [!DNL Google AdWords]  ログをダウンロードして、統合の問題のトラブルシューティングを行います。
 title: ダウンロード  [!DNL GoogleAdwords Activity Log]
 exl-id: db62de71-9e9e-46de-a788-3e9e4e7d09e7
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 86%
+source-wordcount: '51'
+ht-degree: 78%
 
 ---
 

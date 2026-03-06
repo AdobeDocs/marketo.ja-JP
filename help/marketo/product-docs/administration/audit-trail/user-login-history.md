@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377958
-description: ユーザログイン履歴 - Marketo ドキュメント - 製品ドキュメント
+description: 管理者ユーザーと役割を使用して、サブスクリプションにログインしたユーザーと、失敗した試行を含むタイミングを表示します。
 title: ユーザログイン履歴
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 91%
 
 ---
 

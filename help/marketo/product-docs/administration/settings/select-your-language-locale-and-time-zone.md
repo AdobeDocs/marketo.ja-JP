@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359904
-description: 言語、ロケール、タイムゾーンの選択 - Marketo ドキュメント - 製品ドキュメント
+description: 言語、ロケール、タイムゾーンを変更する方法を説明します。
 title: 言語、ロケール、タイムゾーンの選択
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 92%
+source-wordcount: '214'
+ht-degree: 87%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 92%
 
 >[!IMPORTANT]
 >
->Marketo Engage サブスクリプションが [&#128279;](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}Adobe ID で Marketo に移行されている場合は、この記事の[タイムゾーン](#change-your-time-zone)のみが適用されます。言語やロケールを変更するには、[Adobe アカウントプロファイル &#x200B;](https://account.adobe.com/profile){target="_blank"} でこれらの設定にアクセスする必要があります。
+>Marketo Engage サブスクリプションが ](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}Adobe ID で Marketo[ に移行されている場合は、この記事の[タイムゾーン](#change-your-time-zone)のみが適用されます。言語やロケールを変更するには、[Adobe アカウントプロファイル ](https://account.adobe.com/profile){target="_blank"} でこれらの設定にアクセスする必要があります。
 
 ## サポートされている言語 {#supported-languages}
 

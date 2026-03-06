@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360276
-description: プログラムチャネルの表示設定の切り替え - Marketo ドキュメント - 製品ドキュメント
+description: プログラムチャネルが使用中の場合に非表示にする手順、または「非表示を表示」チェックボックスを使用して非表示を解除する手順。
 title: プログラムチャネルの表示設定の切り替え
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 83%
 
 ---
 

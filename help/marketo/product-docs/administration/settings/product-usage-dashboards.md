@@ -1,13 +1,13 @@
 ---
-description: 製品使用状況ダッシュボード - Marketo ドキュメント – 製品ドキュメント
+description: 製品使用状況ダッシュボードにアクセスして制限、アクティビティ指標および主要サブスクリプション指標に対する使用状況を表示する方法。
 title: 製品使用状況ダッシュボード
 hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '620'
 ht-degree: 2%
 
 ---

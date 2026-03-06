@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360307
-description: アイデアスペースの機能を有効または無効にする - Marketo ドキュメント - 製品ドキュメント
+description: 実験的な宝箱の機能をオンまたはオフにする方法。
 title: アイデアスペースの機能を有効または無効にする
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 

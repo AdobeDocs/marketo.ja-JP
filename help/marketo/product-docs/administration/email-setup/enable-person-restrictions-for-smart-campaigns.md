@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360243
-description: スマートキャンペーンのリード制限の有効化 - Marketo ドキュメント - 製品ドキュメント
+description: データベース全体を誤ってメールで送信するのを避けるために、スマートキャンペーンの対象となるユーザーの最大数を設定します。
 title: スマートキャンペーンのリード制限の有効化
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
-workflow-type: ht
-source-wordcount: '150'
-ht-degree: 100%
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 87%
 
 ---
 

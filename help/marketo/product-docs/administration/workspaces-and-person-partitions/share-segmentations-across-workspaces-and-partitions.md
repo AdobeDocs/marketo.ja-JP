@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515767
-description: ワークスペースとパーティションをまたいだセグメント化の共有 - Marketo ドキュメント - 製品ドキュメント
+description: デフォルトのワークスペースでセグメント化を作成するための制限やヒントなど、ワークスペースおよびパーティション間でセグメント化を共有するためのルールと手順です。
 title: ワークスペースとパーティションをまたいだセグメント化の共有
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 100%
+source-wordcount: '485'
+ht-degree: 95%
 
 ---
 

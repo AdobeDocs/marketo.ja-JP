@@ -1,12 +1,12 @@
 ---
-description: メールボットアクティビティのフィルター - Marketo ドキュメント - 製品ドキュメント
+description: IAB リストのマッチングおよび近接パターンを使用して、メール ボットアクティビティをフィルタリングまたはログに記録し、水増しされた開封数およびクリック数を防ぎます。
 title: メールボットアクティビティのフィルター
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 94%
+source-wordcount: '494'
+ht-degree: 90%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 94%
 
 以下の 2 つの異なる方法を使用して、ボットアクティビティを確認します。
 
-* [&#x200B; インタラクティブAdvertisingビューローボットリスト &#x200B;](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"} との一致：IAB UA/IP （ユーザーエージェント/IP アドレス）リストのすべての項目と一致するアクティビティは、ボットとしてマークされます。
+* [ インタラクティブAdvertisingビューローボットリスト ](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"} との一致：IAB UA/IP （ユーザーエージェント/IP アドレス）リストのすべての項目と一致するアクティビティは、ボットとしてマークされます。
 * 近接性パターンと一致：同時に 2 つ以上のアクティビティが発生した場合（1 秒未満）、それらはボットとして識別されます。比較時に考慮される属性は以下のとおりです。
    * リード ID（同じであること）
    * メールアセット（同じであること）

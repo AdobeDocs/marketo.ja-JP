@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360198
-description: ユーザーのロールの作成、削除、編集および変更 - Marketo ドキュメント - 製品ドキュメント
+description: ユーザーの役割を作成、削除、編集する手順です。役割の命名、権限の選択、変更できないシステムの役割などが含まれます。
 title: ユーザーのロールの作成、削除、編集および変更
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 100%
+source-wordcount: '303'
+ht-degree: 93%
 
 ---
 

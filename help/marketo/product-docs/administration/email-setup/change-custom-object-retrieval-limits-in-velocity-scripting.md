@@ -1,12 +1,12 @@
 ---
-description: " [!DNL Velocity Scripting]  でのカスタムオブジェクト取得制限の変更 - Marketo ドキュメント - 製品ドキュメント"
-title: " [!DNL Velocity Scripting] でのカスタムオブジェクト取得制限の変更"
+description: E メール内のスクリプトの親カスタムオブジェクト取得制限を増減させます  [!DNL Velocity] 10～100）。
+title: ' [!DNL Velocity Scripting] のカスタムオブジェクトの取得制限を変更する'
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 100%
+source-wordcount: '252'
+ht-degree: 91%
 
 ---
 

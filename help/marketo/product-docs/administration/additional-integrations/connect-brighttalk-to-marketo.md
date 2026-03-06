@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15695874
-description: ' [!DNL BrightTALK]  の Marketo への接続 - Marketo ドキュメント - 製品ドキュメント'
+description: API 専用  [!DNL BrightTALK]  ユーザー資格情報を使用して、LaunchPoint 経由でチャネルをMarketoに接続します。
 title: ' [!DNL BrightTALK]  の Marketo への接続'
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 100%
+source-wordcount: '324'
+ht-degree: 96%
 
 ---
 

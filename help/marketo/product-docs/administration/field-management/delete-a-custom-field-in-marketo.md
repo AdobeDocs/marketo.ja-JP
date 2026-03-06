@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360339
-description: Marketo でのカスタムフィールドの削除 - Marketo ドキュメント - 製品ドキュメント
+description: 不要になったカスタムフィールドをユーザーインターフェイスで非表示にして、使用から削除する方法。
 title: Marketo でのカスタムフィールドの削除
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '102'
+ht-degree: 79%
 
 ---
 

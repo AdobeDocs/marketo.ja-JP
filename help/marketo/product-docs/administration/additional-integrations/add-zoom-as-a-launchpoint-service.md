@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17728028
-description: サ  [!DNL Zoom]  ビスとして追加  [!DNL LaunchPoint]  Marketo ドキュメント – 製品ドキュメント
-title: サ  [!DNL Zoom]  ビスとして  [!DNL LaunchPoint]  追加
+description: LaunchPoint サ  [!DNL Zoom]  ビスとして追加すると、Marketoでウェビナーの登録と出席を管理できるようになります。
+title: ' [!DNL Zoom]  を  [!DNL LaunchPoint]  サービスとして追加'
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '134'
 ht-degree: 90%
 
 ---
@@ -59,4 +59,4 @@ Marketo は、[!DNL Zoom] の登録と出席を管理します。
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md) でイベントを作成する方法を参照してください。
+>[ [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md) でイベントを作成する方法を参照してください。

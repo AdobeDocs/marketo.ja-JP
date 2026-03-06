@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098479
-description: カスタムアクティビティの作成 - Marketo ドキュメント - 製品ドキュメント
+description: 名前、API 名、フィルターおよびトリガー定義、プライマリフィールドなどの新しいカスタムアクティビティを作成するための手順。
 title: カスタムアクティビティの作成
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '122'
+ht-degree: 85%
 
 ---
 

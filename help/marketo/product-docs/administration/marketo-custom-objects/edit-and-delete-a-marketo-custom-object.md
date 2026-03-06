@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093690
-description: Marketo カスタムオブジェクトの編集と削除 - Marketo ドキュメント - 製品ドキュメント
+description: カスタムオブジェクトを編集または削除する手順。
 title: Marketo カスタムオブジェクトの編集と削除
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 100%
+source-wordcount: '270'
+ht-degree: 97%
 
 ---
 

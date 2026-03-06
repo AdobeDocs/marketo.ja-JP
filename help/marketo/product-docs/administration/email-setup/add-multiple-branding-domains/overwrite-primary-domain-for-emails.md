@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378051
-description: メールのプライマリドメインを上書きする - Marketo ドキュメント - 製品ドキュメント
+description: 個々のメールのプライマリブランディングドメインを上書きして、送信時のリンクのブランド化方法を変更します。
 title: メールのプライマリドメインを上書きする
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 83%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 プライマリブランドドメインは、メールごとに上書きできます。これにより、メールの送信時にリンクのブランドを設定する方法が変更されます。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 

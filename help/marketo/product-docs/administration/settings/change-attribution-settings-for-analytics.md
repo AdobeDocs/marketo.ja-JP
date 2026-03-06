@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360217
-description: 分析用属性設定の変更 - Marketo ドキュメント - 製品ドキュメント
+description: 収益サイクル分析でファーストタッチとマルチタッチのアトリビューション、リードコンバージョンおよびマーケティングに影響を与える商談オプションを設定する方法。
 title: 分析用属性設定の変更
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 100%
+source-wordcount: '197'
+ht-degree: 91%
 
 ---
 

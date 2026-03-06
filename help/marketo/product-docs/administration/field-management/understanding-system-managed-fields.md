@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472615
-description: システム管理のフィールドについて — Marketo ドキュメント — 製品ドキュメント
+description: ユーザーの詳細ページの編集不可のシステム管理フィールドと、各フィールドタイプの意味について説明します。
 title: システム管理のフィールドについて
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 100%
+source-wordcount: '532'
+ht-degree: 96%
 
 ---
 
@@ -121,7 +121,7 @@ ht-degree: 100%
   </tr>
   <tr>
     <td>セールスメール</td>
-    <td>リードに Sales Insight メールアドイン経由でメールが送信されました</td>
+    <td>リードにセールスインサイトメールアドイン経由でメールが送信されました</td>
   </tr>
   <tr>
     <td>人物</td>
@@ -173,7 +173,7 @@ ht-degree: 100%
   </tr>
   <tr>
     <td>セールスメール</td>
-    <td>リードに Sales Insight メールアドイン経由でメールが送信されました</td>
+    <td>リードにセールスインサイトメールアドイン経由でメールが送信されました</td>
   </tr>
   <tr>
     <td>Web サービス API</td>

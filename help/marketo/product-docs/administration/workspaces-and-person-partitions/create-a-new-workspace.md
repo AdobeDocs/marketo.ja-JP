@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360311
-description: 新しいワークスペースの作成 - Marketo ドキュメント - 製品ドキュメント
+description: 新しいワークスペースを作成する手順（名前の指定、ユーザーのパーティションの選択、プライマリブランドドメインの選択、ワークスペースの言語の設定など）。
 title: 新しいワークスペースの作成
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '226'
+ht-degree: 90%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
 >[!TIP]
 >
->ワークスペースのベストプラクティスの詳細については、[Marketo プロフェッショナルサービス](https://business.adobe.com/jp/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
+>ワークスペースのベストプラクティスの詳細については、[Marketo プロフェッショナルサービス](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

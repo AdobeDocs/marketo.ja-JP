@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095453
-description: Marketo カスタムオブジェクトフィールドの編集と削除 - Marketo ドキュメント - 製品ドキュメント
+description: フィールドアクションを使用して、承認されていないカスタムオブジェクトのフィールドを編集または削除する方法。
 title: Marketo カスタムオブジェクトフィールドの編集と削除
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 100%
+source-wordcount: '133'
+ht-degree: 89%
 
 ---
 

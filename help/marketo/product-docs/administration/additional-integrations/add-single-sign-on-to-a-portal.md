@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360356
-description: ポータルへのシングルサインオンの追加 - Marketo ドキュメント - 製品ドキュメント
+description: ID プロバイダーがMarketoのユーザーを認証するように SAML 2.0 シングルサインオンを有効にします（Adobe IMSには適用されません）。
 title: ポータルへのシングルサインオンの追加
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '606'
-ht-degree: 100%
+source-wordcount: '615'
+ht-degree: 96%
 
 ---
 

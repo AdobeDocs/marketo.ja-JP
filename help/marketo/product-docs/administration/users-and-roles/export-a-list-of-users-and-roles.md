@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359912
-description: ユーザーとロールのリストのエクスポート - Marketo ドキュメント - 製品ドキュメント
+description: ユーザーと役割のリストをエクスポートする方法を説明します。
 title: ユーザーとロールのリストのエクスポート
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '84'
+ht-degree: 88%
 
 ---
 

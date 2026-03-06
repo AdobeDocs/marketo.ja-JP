@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950682
-description: プログラムチャネルの作成 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムタイプ、成功ステータス、イベントのモバイルチェックインオプションなど、ステータスと進行状況ステップを含むプログラムチャネルを作成する手順。
 title: プログラムチャネルの作成
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 100%
+source-wordcount: '442'
+ht-degree: 95%
 
 ---
 

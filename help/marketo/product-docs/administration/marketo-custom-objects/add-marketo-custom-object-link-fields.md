@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097613
-description: Marketo カスタムオブジェクトリンクフィールドの追加 - Marketo ドキュメント - 製品ドキュメント
+description: リンクフィールドを追加して、1 対多および多対多の構造のためにカスタムオブジェクトを人物または会社に接続する方法（中間オブジェクトの使用を含む）。
 title: Marketo カスタムオブジェクトリンクフィールドの追加
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '702'
-ht-degree: 100%
+source-wordcount: '714'
+ht-degree: 96%
 
 ---
 

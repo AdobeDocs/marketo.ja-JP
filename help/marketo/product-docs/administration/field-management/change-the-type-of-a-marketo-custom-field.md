@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360331
-description: Marketo カスタムフィールドタイプの変更 - Marketo ドキュメント - 製品ドキュメント
+description: フィールド管理でカスタムフィールドのデータタイプを変更する方法（スコアフィールドと式フィールドは変更できません）。
 title: Marketo カスタムフィールドタイプの変更
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 100%
+source-wordcount: '110'
+ht-degree: 81%
 
 ---
 

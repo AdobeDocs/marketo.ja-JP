@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512270
-description: "Adobe Connect を  [!DNL LaunchPoint]  サービスとして追加 - Marketo ドキュメント - 製品ドキュメント"
-title: "Adobe Connect を  [!DNL LaunchPoint]  サービスとして追加"
+description: Adobe Connectを LaunchPoint サービスとして追加し、Marketoでウェビナーの登録と出席を管理できるようにします。
+title: Adobe Connect as a Service [!DNL LaunchPoint]  追加
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 100%
+source-wordcount: '202'
+ht-degree: 90%
 
 ---
 

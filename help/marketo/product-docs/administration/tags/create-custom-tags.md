@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950660
-description: カスタムタグの作成 - Marketo ドキュメント - 製品ドキュメント
+description: 値を使用して新しいタグタイプを作成し、適用するプログラムタイプを選択して、必須またはオプションとしてタグを設定する方法。
 title: カスタムタグの作成
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 100%
+source-wordcount: '236'
+ht-degree: 89%
 
 ---
 

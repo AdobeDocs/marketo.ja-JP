@@ -1,21 +1,21 @@
 ---
 unique-page-id: 6095008
-description: " [!DNL Google AdWords]  を  [!DNL LaunchPoint]  サービスとして追加 - Marketo ドキュメント - 製品ドキュメント"
-title: " [!DNL Google AdWords]  を  [!DNL LaunchPoint]  サービスとして追加"
+description: LaunchPoint を介してMarketoにリンクし  [!DNL Google AdWords] AdWords でレポートするためにオフラインコンバージョンデータをアップロードします。
+title: ' [!DNL Google AdWords]  を  [!DNL LaunchPoint]  サービスとして追加'
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 100%
+source-wordcount: '283'
+ht-degree: 79%
 
 ---
 
 # [!DNL Google AdWords] を [!DNL LaunchPoint] サービスとして追加 {#add-google-adwords-as-a-launchpoint-service}
 
-[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。[!DNL AdWords] に[カスタム列を追加](https://support.google.com/adwords/answer/3073556){target="_blank"}した後、どのクリックが条件を満たすリードや商談、新規顧客（またはトラッキングしたいあらゆる売上高ステージ）につながったのかを [!DNL AdWords] UI から簡単に確認できるようになります。この情報は、Marketo UI には表示されません。
+[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。その後、[!DNL AdWords] UI から、[ で ](https://support.google.com/adwords/answer/3073556){target="_blank"} カスタム列を追加 [!DNL AdWords] した後、どのクリックが適格なリード、商談、新規顧客（または追跡したい収益ステージ）につながったかを簡単に確認できます。 この情報は、Marketo UI には表示されません。
 
-詳しくは、[Google のオフラインコンバージョンのインポート機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}を参照してください。
+[Googleのオフラインコンバージョンインポート機能 ](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"} の詳細情報。
 
 >[!AVAILABILITY]
 >
@@ -88,7 +88,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >この機能を使用するには、[自動タギング](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。非アクティブ化は [!DNL AdWords] 内で行う必要があります。
+   >この機能を使用するには、[自動タグ付け](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。非アクティブ化は [!DNL AdWords] 内で行う必要があります。
 
 完了です。次は、関連記事を参照して、売上高モデルで [!DNL AdWords] のオフラインコンバージョンをマッピングする方法を学びましょう。
 

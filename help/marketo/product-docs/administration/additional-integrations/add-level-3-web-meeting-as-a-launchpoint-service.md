@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512292
-description: " [!DNL Level 3 Web Meeting]  を  [!DNL LaunchPoint]  サービスとして追加 - Marketo ドキュメント - 製品ドキュメント"
-title: " [!DNL Level 3 Web Meeting]  を  [!DNL LaunchPoint Service] として追加"
+description: LaunchPoint サ  [!DNL Level 3 Web Meeting]  ビスとして追加すると、Marketoへの登録と出席を管理できます。
+title: Add [!DNL Level 3 Web Meeting] as [!DNL LaunchPoint Service]
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 85%
 
 ---
 

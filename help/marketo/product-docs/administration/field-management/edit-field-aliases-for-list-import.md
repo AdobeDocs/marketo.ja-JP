@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360346
-description: リストのインポートのフィールドエイリアスの編集 - Marketo ドキュメント - 製品ドキュメント
+description: 不明な列ヘッダーを含むリストの読み込みが正しいMarketo フィールドにマッピングされるように、フィールドのエイリアスを作成および編集します。
 title: リストのインポートのフィールドエイリアスの編集
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '139'
+ht-degree: 87%
 
 ---
 

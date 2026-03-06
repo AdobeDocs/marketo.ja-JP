@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360309
-description: ワークスペースと人物パーティションについて - Marketo ドキュメント - 製品ドキュメント
+description: ワークスペースでマーケティングアセットを整理する方法と、人物パーティションが別々のデータベースとして機能する方法について説明します。
 title: ワークスペースと人物パーティションについて
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 96%
+source-wordcount: '540'
+ht-degree: 97%
 
 ---
 
@@ -113,9 +113,9 @@ ht-degree: 96%
 
 人物パーティションを[ワークスペース](create-a-new-workspace.md)に割り当てるには、以下の設定に従います。
 
-* 1 つのワークスペースから 1 人のユーザー用のパーティション （1:1）
-* 1 つのワークスペースから多数のユーザー用のパーティション （1:x）
-* 多数のワークスペースを 1 人のユーザーがパーティションに分割（x:1）
+* 1 つのワークスペースに対して 1 つの人物パーティション（1:1）
+* 1 つのワークスペースに対して多数の人物パーティション （1:x）
+* 多数のワークスペースに対して 1 つの人物パーティション（x:1）
 
 >[!NOTE]
 >

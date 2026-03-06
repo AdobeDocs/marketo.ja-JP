@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360315
-description: 人物パーティションの作成 - Marketo ドキュメント - 製品ドキュメント
+description: 新しいユーザーパーティションを作成し、名前を付けて、ワークスペースに割り当てる手順。
 title: 人物パーティションの作成
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 100%
+source-wordcount: '82'
+ht-degree: 82%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10100272
-description: カスタムアクティビティの公開 - Marketo ドキュメント - 製品ドキュメント
+description: カスタムアクティビティを公開する手順。
 title: カスタムアクティビティの公開
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 91%
 
 ---
 

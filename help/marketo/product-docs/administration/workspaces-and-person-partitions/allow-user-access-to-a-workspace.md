@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360325
-description: ワークスペースへのユーザーアクセス権の設定 - Marketo ドキュメント - 製品ドキュメント
+description: 1 つ以上のワークスペースに対するアクセス権をユーザーに付与する手順。
 title: ワークスペースへのユーザーアクセス権の設定
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 90%
+source-wordcount: '120'
+ht-degree: 81%
 
 ---
 

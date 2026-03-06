@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360274
-description: タグ値の管理 - Marketo ドキュメント - 製品ドキュメント
+description: タグタイプの選択や「非表示を表示」オプションの使用など、プログラムタグのタグ値を追加、非表示および表示する方法。
 title: タグ値の管理
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 100%
+source-wordcount: '191'
+ht-degree: 89%
 
 ---
 

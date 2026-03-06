@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377395
-description: 付加的なブランディングドメインの追加 - Marketo ドキュメント - 製品ドキュメント
+description: 1 つのインスタンスに複数のブランドのブランディングドメインを追加し、それぞれに独自のブランドトラッキングリンクを追加します。
 title: 付加的なブランディングドメインの追加
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '588'
-ht-degree: 74%
+source-wordcount: '597'
+ht-degree: 72%
 
 ---
 
@@ -49,11 +49,11 @@ ht-degree: 74%
 
 1. 「_[!UICONTROL ドメイン]_」タブで、ドメイン行を選択し、「**[!UICONTROL SSL を追加]**」をクリックします。
 
-   ![&#x200B; 管理者 – メール – ドメイン - SSL を追加 &#x200B;](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
+   ![ 管理者 – メール – ドメイン - SSL を追加 ](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
 1. ダイアログで、「**[!UICONTROL 確認]**」をクリックします。
 
-   ![SSL を追加 – 確認 &#x200B;](./assets/generate-ssl-cert-confirm.png){width="400"}
+   ![SSL を追加 – 確認 ](./assets/generate-ssl-cert-confirm.png){width="400"}
 
 ## エラーメッセージ {#error-messages}
 
@@ -97,7 +97,7 @@ ht-degree: 74%
 
 * **既存の SSL**：ドメインの追加中に、事前に手動で作成した可能性のある既存の SSL がシステムによってチェックされます。この検証が発生した場合は、SSL 作成を選択せずにドメインを作成すると、SSL が接続されます。追加kの詳細やオプションについては、[サポートにお問い合わせください](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
-* **ドメインの削除**:SSL 証明書を自動的に削除 **削除しない** します。 このガードレールは、web サイトに SSL 証明書がない結果となるユーザーエラーを防ぎます。 SSL 証明書を削除する場合は、[&#x200B; サポートにお問い合わせください &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+* **ドメインの削除**:SSL 証明書を自動的に削除 **削除しない** します。 このガードレールは、web サイトに SSL 証明書がない結果となるユーザーエラーを防ぎます。 SSL 証明書を削除する場合は、[ サポートにお問い合わせください ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

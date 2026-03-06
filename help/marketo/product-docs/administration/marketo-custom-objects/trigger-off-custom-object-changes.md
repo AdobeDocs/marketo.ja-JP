@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378713
-description: カスタムオブジェクトの変更のトリガー- Marketo ドキュメント - 製品ドキュメント
+description: カスタムオブジェクトを追加してトリガーを設定する手順とともに、Marketo カスタムオブジェクト用のスマートキャンペーンスマートリストでカスタムオブジェクトの追加トリガーまたは変更制約を使用する方法。
 title: カスタムオブジェクトの変更のトリガー
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 100%
+source-wordcount: '202'
+ht-degree: 86%
 
 ---
 

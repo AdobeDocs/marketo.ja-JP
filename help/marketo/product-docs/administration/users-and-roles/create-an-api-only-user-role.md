@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360203
-description: API 専用ユーザーロールの作成 - Marketo ドキュメント - 製品ドキュメント
+description: 役割名を定義し、付与する API アクセス権限を選択することで、REST API 統合用に API のみのユーザー役割を作成する方法。
 title: API 専用ユーザーロールの作成
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 100%
+source-wordcount: '138'
+ht-degree: 81%
 
 ---
 

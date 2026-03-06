@@ -1,12 +1,12 @@
 ---
-description: 製品管理者の設定 - Marketo ドキュメント - 製品ドキュメント
+description: システム管理者から招待された後に製品管理者が設定を完了するための手順（「開始」リンクとユーザーの追加を含む）。
 title: 製品管理者の設定
 exl-id: ed628075-69b8-44b5-b60d-b121cd5a3dbe
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 75%
 
 ---
 

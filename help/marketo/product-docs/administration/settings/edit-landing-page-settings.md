@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359918
-description: ランディングページ設定の編集 - Marketo ドキュメント - 製品ドキュメント
+description: ドメイン名、フォールバックページ、フォームの事前入力、その他のランディングページオプションの編集方法。
 title: ランディングページ設定の編集
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 100%
+source-wordcount: '237'
+ht-degree: 94%
 
 ---
 

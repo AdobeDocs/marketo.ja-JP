@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099785
-description: サブスクリプション設定の編集 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのサブスクリプションに一意の表示名を付けて、複数のサブスクリプションを区別する方法。
 title: サブスクリプション設定の編集
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 82%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 複数の Marketo サブスクリプションへのアクセス権があり、どれを使用しているかを確認したい場合は、それぞれに一意の名前を付けてみてください。その名前がサブスクリプションページの上部に表示されます。
 
-例えば、実稼動とサンドボックスの両方のインスタンスで作業する場合、1 つのサブスクリプションに **Marketo Production**、もう 1 つに **Marketo Sandbox** と名前を付けることができます。
+例えば、本番稼働とサンドボックスの両方のインスタンスで作業する場合、1 つのサブスクリプションに **Marketo Production**、もう 1 つに **Marketo Sandbox** と名前を付けることができます。
 
 1. 「**[!UICONTROL 管理者]**」に移動します。
 

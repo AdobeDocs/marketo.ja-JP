@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360360
-description: ' [!DNL Webhook]  の作成 - Marketo ドキュメント - 製品ドキュメント'
+description: Admin で Webhook を作成し、SMS や人物データなどのサードパーティの web サービスを呼び出します。
 title: ' [!DNL Webhook] の作成'
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 96%
+source-wordcount: '209'
+ht-degree: 89%
 
 ---
 

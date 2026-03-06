@@ -1,12 +1,12 @@
 ---
-description: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について - Marketo ドキュメント - 製品ドキュメント
+description: システム管理者や製品管理者の役割、Adobe Admin Console ID を使用したログイン、URL、移行タイムラインなど、サブスクリプションとユーザーがAdobeに移行すると変更される内容
 title: Marketo サブスクリプションと Adobe Admin Console へのユーザの移行について
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '1571'
-ht-degree: 100%
+source-wordcount: '1584'
+ht-degree: 98%
 
 ---
 

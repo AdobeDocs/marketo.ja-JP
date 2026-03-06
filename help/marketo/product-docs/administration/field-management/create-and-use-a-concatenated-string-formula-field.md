@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360337
-description: 連結文字列（数式）フィールドの作成と使用 - Marketo Docs - 製品ドキュメント
+description: 複数のフィールドの値を組み合わせたり、Marketo Engageの式フィールドを使用して条件付き値を作成したりします。
 title: 連結文字列（数式）フィールドの作成と使用
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 100%
+source-wordcount: '173'
+ht-degree: 91%
 
 ---
 

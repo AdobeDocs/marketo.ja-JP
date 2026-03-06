@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098433
-description: IP ベースの API アクセス用の許可リストの作成 - Marketo ドキュメント - 製品ドキュメント
+description: Admin Web Services の IP 制限を使用して、API アクセスを特定の IP アドレスまたは範囲に制限します。
 title: IP ベースの API アクセス用の許可リストの作成
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 80%
+source-wordcount: '170'
+ht-degree: 72%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 80%
 
 >[!NOTE]
 >
->この機能は、Marketo Engageとは独立して動作します [IP ベースのログイン制限 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}。これは、Admin Consoleの [IP ベースのアクセス制御 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/ip-based-access.html){target="_blank"} に置き換えられています。 Adobe IMSの移行後も、引き続きそのまま機能します。
+>この機能は、Marketo Engageとは独立して動作します [IP ベースのログイン制限 ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}。これは、Admin Consoleの [IP ベースのアクセス制御 ](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"} に置き換えられています。 Adobe IMSの移行後も、引き続きそのまま機能します。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

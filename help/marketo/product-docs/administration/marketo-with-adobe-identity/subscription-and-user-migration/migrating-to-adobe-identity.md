@@ -1,12 +1,12 @@
 ---
-description: Adobe ID への移行 - Marketo ドキュメント - 製品ドキュメント
+description: Migration Console を使用して移行前の日付を選択し、サブスクリプションがAdobe ID （SSO フローと非 SSO フローを含む）に移行する際にセルフサービスユーザーを移行する方法。
 title: Adobe ID への移行
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '2319'
-ht-degree: 100%
+source-wordcount: '2337'
+ht-degree: 98%
 
 ---
 

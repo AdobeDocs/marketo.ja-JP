@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359920
-description: フォールバックページの設定 - Marketo ドキュメント - 製品ドキュメント
+description: ランディングページがオフラインの場合や見つからない場合に訪問者に指定されたページが表示されるようにフォールバックページを設定する手順。
 title: フォールバックページの設定
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 73%
 
 ---
 

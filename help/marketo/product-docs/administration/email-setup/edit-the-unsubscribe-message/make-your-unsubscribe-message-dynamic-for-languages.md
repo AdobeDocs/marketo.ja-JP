@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6848782
-description: 登録解除メッセージを言語に対して動的に設定 - Marketo ドキュメント - 製品ドキュメント
+description: 動的コンテンツとセグメント化を使用して、登録解除メッセージとリンクを別の言語で表示します。
 title: 登録解除メッセージを言語に対して動的に設定
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 100%
+source-wordcount: '495'
+ht-degree: 96%
 
 ---
 

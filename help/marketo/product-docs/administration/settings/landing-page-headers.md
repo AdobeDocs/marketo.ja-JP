@@ -1,12 +1,12 @@
 ---
-description: ランディングページのヘッダー - Marketo ドキュメント - 製品ドキュメント
+description: Strict-Transport-Security および X-Frame-Options など、ランディングページドメインの HTTP ヘッダーをカスタマイズする方法。
 title: ランディングページのヘッダー
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '137'
+ht-degree: 90%
 
 ---
 

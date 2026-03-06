@@ -1,12 +1,12 @@
 ---
-description: 管理者設定 - Marketo ドキュメント - 製品ドキュメント
+description: Adobe Admin Consoleに追加された後のAdobe システム管理者の初期設定手順（Marketo Engageでの製品プロファイルの作成を含む）。
 title: 管理者設定
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 100%
+source-wordcount: '239'
+ht-degree: 90%
 
 ---
 

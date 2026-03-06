@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360247
-description: デフォルトのメール差出人と差出人ラベルの変更 - Marketo ドキュメント - 製品ドキュメント
+description: 管理者ユーザーとして、新しいメールの送信元メールと送信元ラベルのデフォルト値を設定します。
 title: デフォルトのメール差出人と差出人ラベルの変更
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '115'
+ht-degree: 86%
 
 ---
 
