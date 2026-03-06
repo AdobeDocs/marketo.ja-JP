@@ -71,4 +71,4 @@ ht-degree: 92%
 
 >[!MORELIKETHIS]
 >
->[ [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md) への通信制限の適用
+>[&#x200B; [!DNL Smart Campaign]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md) への通信制限の適用

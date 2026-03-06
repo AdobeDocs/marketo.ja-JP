@@ -15,4 +15,4 @@ ht-degree: 50%
 
 [!DNL Munchkin] は、web サイトに配置する JavaScript スニペットです。訪問回数、クリック数、フォームの入力回数をトラッキングします。また、様々なクールなことを行うための豊富な API を備えています。
 
-詳しくは、[ の開発者ページ  [!DNL Munchkin]](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"} を参照してください。
+詳しくは、[&#x200B; の開発者ページ  [!DNL Munchkin]](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"} を参照してください。

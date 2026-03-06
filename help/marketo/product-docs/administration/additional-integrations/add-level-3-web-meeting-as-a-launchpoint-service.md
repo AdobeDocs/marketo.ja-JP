@@ -49,4 +49,4 @@ Marketo は、[!DNL Level 3 Web Meeting] の登録と出席を管理します。
 
 >[!MORELIKETHIS]
 >
->[ [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"} でイベントを作成する方法を参照してください。
+>[&#x200B; [!DNL Level 3 Web Meeting]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-level-3-web-meeting.md){target="_blank"} でイベントを作成する方法を参照してください。

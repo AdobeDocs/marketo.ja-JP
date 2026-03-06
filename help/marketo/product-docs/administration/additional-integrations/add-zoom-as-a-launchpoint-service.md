@@ -59,4 +59,4 @@ Marketo は、[!DNL Zoom] の登録と出席を管理します。
 
 >[!MORELIKETHIS]
 >
->[ [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md) でイベントを作成する方法を参照してください。
+>[&#x200B; [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md) でイベントを作成する方法を参照してください。
