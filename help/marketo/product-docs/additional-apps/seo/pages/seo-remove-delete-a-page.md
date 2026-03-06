@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949262
-description: SEO - ページの削除 - Marketo ドキュメント - 製品ドキュメント
+description: 「ページ」セクションで、SEO トラッキングリストからページを完全に削除する方法を説明します。
 title: SEO - ページの削除
 exl-id: 4e42d01f-a3cf-4545-b476-54de195fa7f8
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 54%
+source-wordcount: '103'
+ht-degree: 41%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 54%
 >
 >2026 年 3 月 31 日（PT）に、Marketo Engageは検索エンジン最適化機能を廃止します。 3 月 30 日以前に関連データを書き出してください。 [詳細情報](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
 >
->* [&#x200B; 書き出しの問題 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [&#x200B; キーワード結果のエクスポート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [&#x200B; キーワードのトレンドを書き出し &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [&#x200B; 競合企業キーワードの傾向のエクスポート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [ 書き出しの問題 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ キーワード結果のエクスポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ キーワードのトレンドを書き出し ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [ 競合企業キーワードの傾向のエクスポート ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. 「**[!UICONTROL ページ]**」セクションに移動します。
 
