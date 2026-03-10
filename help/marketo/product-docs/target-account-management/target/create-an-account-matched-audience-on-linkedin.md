@@ -17,7 +17,7 @@ ht-degree: 88%
 
 >[!PREREQUISITES]
 >
->[ [!DNL LinkedIn]  の一致するオーディエンスを LaunchPoint サービスとして追加](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[&#x200B; [!DNL LinkedIn]  の一致するオーディエンスを LaunchPoint サービスとして追加](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
 1. TAM で、「**[!UICONTROL 顧客リスト]**」タブをクリックします。
 
@@ -51,4 +51,4 @@ ht-degree: 88%
 
 >[!MORELIKETHIS]
 >
->[ [!DNL LinkedIn]  のオーディエンスセグメント](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)として Marketo リストまたはスマートリストを使用
+>[&#x200B; [!DNL LinkedIn]  のオーディエンスセグメント](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)として Marketo リストまたはスマートリストを使用
