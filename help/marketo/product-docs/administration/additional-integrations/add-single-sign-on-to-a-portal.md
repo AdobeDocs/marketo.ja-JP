@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360356
-description: ID プロバイダーがMarketoのユーザーを認証するように SAML 2.0 シングルサインオンを有効にします（Adobe IMSには適用されません）。
+description: SAML 2.0 シングルサインオンを有効にして、ID プロバイダーがMarketoのユーザーを認証できるようにします。
 title: ポータルへのシングルサインオンの追加
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: bba45ef3db9cf8f1a7a9f9c818a5890ca63d6ec7
 workflow-type: tm+mt
 source-wordcount: '615'
-ht-degree: 96%
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,7 @@ SSO を有効にすると、IdP がユーザーの資格情報を検証できる
 
 >[!IMPORTANT]
 >
->これは、Adobe ID にオンボードされたサブスクリプションには適用されません。Adobe ID にオンボードされたサブスクリプションの場合、シングルサインオンは Adobe Admin Console のアドビ組織レベルで設定されます。現時点では、Adobe Admin Console は SP 開始のみをサポートしています。詳しくは、[こちらを参照](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}してください。
+>これは **Adobe ID に転送されたサブスクリプションには当てはまりません**。 （IMS 移行前の）以前の設定が表示される場合がありますが、適用されなくなります。 Adobe ID にオンボードされたサブスクリプションの場合、シングルサインオンは Adobe Admin Console のアドビ組織レベルで設定されます。詳しくは、[こちらを参照](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}してください。
 
 >[!NOTE]
 >
