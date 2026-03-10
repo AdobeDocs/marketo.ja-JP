@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355768
-description: Adobe Experience Manager でのアセットの読み込み - Marketo ドキュメント - 製品ドキュメント
+description: Adobe Experience ManagerからMarketo Design Studio にアセットを読み込む方法を説明します。 アセットセレクターを使用して、AEM画像にアクセスし、選択してMarketo キャンペーンに取り込みます。
 title: Adobe Experience Manager でのアセットの読み込み
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 100%
+source-wordcount: '245'
+ht-degree: 88%
 
 ---
 

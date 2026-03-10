@@ -1,12 +1,12 @@
 ---
-description: Adobe Experience Cloud 統合の概要 - Marketo ドキュメント - 製品ドキュメント
+description: ネイティブオーディエンスの同期やAudience Managerなど、Marketo EngageとAdobe Experience Cloudの統合について説明します。 Adobe アプリ全体で統合を設定し、B2B デマンドマーケティングのロックを解除します。
 title: Adobe Experience Cloud 統合の概要
 exl-id: ae75fb01-4b46-412f-b153-6f37c8de9b65
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '168'
-ht-degree: 100%
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+workflow-type: tm+mt
+source-wordcount: '186'
+ht-degree: 85%
 
 ---
 

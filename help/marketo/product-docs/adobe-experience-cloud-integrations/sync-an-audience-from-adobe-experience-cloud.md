@@ -1,12 +1,12 @@
 ---
-description: Adobe Experience Cloud からのオーディエンスの同期 - Marketo ドキュメント - 製品ドキュメント
+description: Adobe Experience CloudのオーディエンスをMarketo Engageに同期する方法を説明します。 オーディエンスライブラリからオーディエンスをMarketo データベースに取り込み、キャンペーンやプログラムで使用します。
 title: Adobe Experience Cloud からのオーディエンスの同期
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 67%
+source-wordcount: '291'
+ht-degree: 59%
 
 ---
 
