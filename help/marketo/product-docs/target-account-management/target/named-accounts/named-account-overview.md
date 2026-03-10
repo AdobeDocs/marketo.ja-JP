@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11378809
-description: '[!UICONTROL &#x200B; 指定アカウント &#x200B;] 概要 – Marketo ドキュメント – 製品ドキュメント'
-title: '[!UICONTROL &#x200B; 指定アカウント &#x200B;] 概要'
+description: 指定アカウントと、ターゲット企業の担当者を保持する方法について説明します。 ダッシュボード上のすべての名前付きアカウントの現在の属性データを表示します。
+title: '[!UICONTROL 重点顧客]の概要'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 87%
+source-wordcount: '255'
+ht-degree: 90%
 
 ---
 
-# [!UICONTROL &#x200B; 指定アカウント &#x200B;] 概要 {#named-account-overview}
+# [!UICONTROL 重点顧客]の概要 {#named-account-overview}
 
-[!UICONTROL &#x200B; 重点顧客 &#x200B;] には、ターゲティングしている会社のユーザーが含まれます。 ダッシュボードには、すべての重点顧客の各属性の現在のデータが表示されます。
+[!UICONTROL 重点顧客]は、ターゲットとする会社の人物を保持します。ダッシュボードには、すべての重点顧客の各属性の現在のデータが表示されます。
 
-## [!UICONTROL &#x200B; 重点顧客 &#x200B;] ダッシュボード {#named-accounts-dashboard}
+## [!UICONTROL 重点顧客]ダッシュボード {#named-accounts-dashboard}
 
 ![](assets/one.png)
 
@@ -27,7 +27,7 @@ ht-degree: 87%
 >
 >Marketo では、Marketo に同期されたすべての CRM ユーザーが「顧客所有者」または「顧客チームメンバー」のフィルター値として表示されます。
 
-## [!UICONTROL &#x200B; 名前付きアカウント &#x200B;] 属性 {#named-account-attributes}
+## [!UICONTROL 重点顧客]属性 {#named-account-attributes}
 
 <table>
  <tbody>

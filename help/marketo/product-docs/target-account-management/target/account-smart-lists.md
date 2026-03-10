@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378814
-description: アカウントスマートリスト - Marketo ドキュメント - 製品ドキュメント
+description: 価値の高いアカウントを識別するアカウントスマートリストの作成方法を説明します。 アカウントおよび一致した人物のフィルターを定義し、キャンペーンやエクスポートで結果を使用します。
 title: アカウントスマートリスト
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '507'
-ht-degree: 100%
+source-wordcount: '524'
+ht-degree: 95%
 
 ---
 

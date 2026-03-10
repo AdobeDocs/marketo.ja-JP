@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384433
-description: アカウントチームのセットアップ — Marketoドキュメント — 製品ドキュメント
+description: アカウントチームを設定し、CRM アカウントの役割を TAM にマッピングする方法を説明します。 アカウントチームメンバーになるユーザー検索フィールドを選択します。
 title: アカウントチームの設定
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 100%
+source-wordcount: '197'
+ht-degree: 88%
 
 ---
 
@@ -49,6 +49,6 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >* 異なるアカウント所有者を持つ複数の CRM アカウントが重点顧客にマージされると、Marketoは「アカウント所有者」を 1 つ選択し、他のアカウント所有者を「アカウント共有者」として追加します
+   >* 異なるアカウント所有者を持つ複数の CRM アカウントが重点顧客に結合されると、Marketoは「アカウント所有者」を 1 つ選択し、他のアカウント所有者を「アカウント共有者」として追加します
    >
    >* CRM の「役割」フィールドが後で名前変更または削除された場合、Marketo TAM は、ユーザーが TAM で設定を手動で更新するまで、更新された値の同期を停止します

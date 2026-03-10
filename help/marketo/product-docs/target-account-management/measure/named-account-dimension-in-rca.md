@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380789
-description: 収益サイクル分析の重点顧客ディメンション - Marketo ドキュメント - 製品ドキュメント
+description: Revenue Cycle Analytics で指定口座ディメンションを使用して、売上高ベースのレポートを作成する方法を説明します。 ターゲットアカウントからのパイプラインと収益の影響を測定します。
 title: 収益サイクル分析の重点顧客ディメンション
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 100%
+source-wordcount: '163'
+ht-degree: 85%
 
 ---
 

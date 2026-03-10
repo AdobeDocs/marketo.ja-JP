@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380778
-description: 権限 - Marketo ドキュメント - 製品ドキュメント
+description: ユーザーと役割の TAM 権限を設定する方法について説明します。 TAM を使用できるユーザーを制御するには、アクセス先のアカウント管理とアクセス先の ABM 管理者を許可します。
 title: 権限
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 100%
+source-wordcount: '159'
+ht-degree: 83%
 
 ---
 

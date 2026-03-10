@@ -1,33 +1,33 @@
 ---
 unique-page-id: 12979282
-description: '[!DNL Account Insight] プラグインの概要 – Marketo ドキュメント – 製品ドキュメント'
+description: セールスチームに TAM インサイトを表示するアカウント Insight Chrome プラグインについて説明します。 重点顧客、アクティビティフィードを表示し、効果的に顧客を引き込みます。
 title: '[!DNL Account Insight] プラグインの概要'
 exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 72%
+source-wordcount: '320'
+ht-degree: 92%
 
 ---
 
 # [!DNL Account Insight] プラグインの概要 {#account-insight-plug-in-overview}
 
-[!DNL Account Insight] は、実用的な TAM とアカウントのインサイトをセールスチームに提供する [!DNL Chrome] プラグインであり、セールスチームがより効果的にアカウントに関与できるようになります。
+[!DNL Account Insight] は、セールスチームに実用的な TAM と顧客の洞察を提供する [!DNL Chrome] プラグインで、顧客をより効果的にエンゲージできるようにします。
 
 >[!AVAILABILITY]
 >
->* 顧客インサイトは、TAM と Marketo Sales Insight の両方を持つすべてのユーザーに対して含まれます。TAM のみを持つユーザーの場合、顧客インサイトはアドオンとして購入できます。各ユーザーは、250 の顧客インサイトシートに制限されています。詳細は、セールス担当者にお問い合わせください。TAM を持たないユーザーは、この機能を利用できません。
+>* 顧客インサイトは、TAM と Marketo セールスインサイトの両方を持つすべてのユーザーに対して含まれます。TAM のみを持つユーザーの場合、顧客インサイトはアドオンとして購入できます。各ユーザーは、250 の顧客インサイトシートに制限されています。詳細は、セールス担当者にお問い合わせください。TAM を持たないユーザーは、この機能を利用できません。
 >
->* このプラグインは、現時点では [0&rbrace;Adobe ID 認証 &rbrace; と互換性がありません。](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}
+>* このプラグインは、現時点では [Adobe ID 認証](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}と互換性がありません。
 
 >[!CAUTION]
 >
->[!DNL Account Insight] プラグインは、[SSO のみ &#x200B;](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) （シングルサインオン）が有効になっているサブスクリプションでは機能しません。
+>[!DNL Account Insight] プラグインは、[SSO のみ](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)（シングルサインオン）が有効になっているサブスクリプションでは機能しません。
 
 >[!CAUTION]
 >
->顧客、リード、連絡先からプラグインを起動すると、CRM コンテキストが Salesforce で機能します。顧客、リード、連絡先からプラグインを起動すると、CRM コンテキストは Dynamics で機能しません。Dynamics ユーザーの場合は、[!DNL Account Insight] プラグインを使用することをお勧めします。
+>顧客、リード、連絡先からプラグインを起動すると、CRM コンテキストが Salesforce で機能します。顧客、リード、連絡先からプラグインを起動すると、CRM コンテキストは Dynamics で機能しません。Dynamics ユーザの場合は、[!DNL Account Insight] プラグインの使用をお勧めします。
 
 ## 重点顧客 {#named-accounts}
 
@@ -59,7 +59,7 @@ ht-degree: 72%
 
 ![](assets/na8.png)
 
-ビューを **[!UICONTROL エンゲージメント]** から **[!UICONTROL パイプライン]** に切り替えることもできます。
+また、表示を&#x200B;**[!UICONTROL エンゲージメント]**&#x200B;から&#x200B;**[!UICONTROL パイプライン]**&#x200B;に切り替えることもできます。
 
 ![](assets/na9.png)
 
@@ -67,7 +67,7 @@ ht-degree: 72%
 
 ![](assets/na10.png)
 
-## [!UICONTROL &#x200B; アクティビティフィード &#x200B;] {#activity-feed}
+## [!UICONTROL アクティビティフィード] {#activity-feed}
 
 アクティビティフィードには、過去 7 日間のアクティビティが表示されます。
 
@@ -77,7 +77,7 @@ ht-degree: 72%
 
 ![](assets/af2.png)
 
-複数の項目をクリックできます。重点顧客をクリックすると、詳細が表示されます。ユーザーの名前をクリックすると、そのユーザーのアクティビティが表示されます。**[!UICONTROL その他のアクティビティ]** をクリックすると、さらにアクティビティを表示できます。
+複数の項目をクリックできます。重点顧客をクリックすると、詳細が表示されます。ユーザーの名前をクリックすると、そのユーザーのアクティビティが表示されます。「**[!UICONTROL その他のアクティビティ]**」をクリックすると、その他のアクティビティが表示されます。
 
 ![](assets/af3.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17432598
-description: アカウントプロファイリングの設定 - Marketo ドキュメント - 製品ドキュメント
+description: アカウントプロファイルを設定し、TAM で理想的な顧客プロファイルモデルを作成する方法を説明します。 「モデル」タブの基本を学び、最初のモデルを作成します。
 title: アカウントプロファイリングの設定
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 85%
 
 ---
 

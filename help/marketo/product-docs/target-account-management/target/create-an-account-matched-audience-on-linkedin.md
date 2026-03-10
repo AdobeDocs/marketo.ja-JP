@@ -1,13 +1,13 @@
 ---
 unique-page-id: 26837421
-description: ' [!DNL LinkedIn]  のアカウントと一致するオーディエンスの作成 - Marketo ドキュメント - 製品ドキュメント'
+description: TAM アカウントリストから LinkedIn アカウントと一致するオーディエンスを作成する方法を説明します。 広告ターゲティングのために、LinkedIn チャネルをまたいでオーディエンスをアクティブ化します。
 title: ' [!DNL LinkedIn] のアカウントと一致するオーディエンスの作成'
 exl-id: 55f2106d-6078-4a47-ab00-6b6dc950a206
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 88%
 
 ---
 

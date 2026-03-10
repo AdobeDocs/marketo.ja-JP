@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380785
-description: 重点顧客インサイト - Marketo ドキュメント - 製品ドキュメント
+description: 重点顧客ダッシュボードと、ターゲット顧客の 360 度の表示について説明します。 エンゲージメント、オポチュニティ、アカウントチームおよび ICP 指標を表示します。
 title: 重点顧客インサイト
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 100%
+source-wordcount: '432'
+ht-degree: 95%
 
 ---
 
@@ -58,7 +58,7 @@ ht-degree: 100%
 
 **上位リード**
 
-これらのユーザーは、重点顧客のユーザーごと（Sales Insight の[最善策](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）が示す最新性や緊急性の優先度、またはユーザーが定義したスコアに基づいて計算されます。**[!UICONTROL 優先度]**&#x200B;は、[!DNL Marketo Sales Insight] のユーザのみが使用できます。
+これらユーザは、重点顧客ユーザごと（セールスインサイトの[最善策](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）が示す最新性や緊急性の優先度、またはユーザが定義したスコアに基づいて計算されます。**[!UICONTROL 優先度]**&#x200B;は、[!DNL Marketo Sales Insight] のユーザのみが使用できます。
 
 ![](assets/top-ten.png)
 

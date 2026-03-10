@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380732
-description: 顧客フィルター - Marketo ドキュメント - 製品ドキュメント
+description: アカウント中心のフィルターを使用して、重点顧客とペルソナを特定し、関与させる方法を説明します。 スマートキャンペーンで TAM フィルターを使用して、適切なアカウントをターゲットに設定します。
 title: 顧客フィルター
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 100%
+source-wordcount: '200'
+ht-degree: 88%
 
 ---
 

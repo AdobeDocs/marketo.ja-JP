@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378812
-description: 顧客の選択 - Marketo ドキュメント - 製品ドキュメント
+description: CRM またはMarketoの会社から潜在的なターゲットアカウントを見つける方法を説明します。 選択したアカウントを重点顧客として追加し、担当者を自動的に関連付けます。
 title: 顧客の選択
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '558'
-ht-degree: 100%
+source-wordcount: '575'
+ht-degree: 96%
 
 ---
 
@@ -75,7 +75,7 @@ CRM からターゲットとなる可能性のある顧客を特定します。
    >
    >* ほとんどのインターネットサービスプロバイダーとパブリックドメイン（yahoo.com、gmail.com など）を会社名として除外します
    >
-   >* CRM アカウントを重複排除します。1 つのレコードに「Acme」と「Acme Inc」（または Co、Corp、Corporation、Gmbh、Inc,、Incorporated、LLC、LLP、Ltd、PA、PC、PLLC、PLLC のサフィックスのいずれかが含まれる場合），TAM に単に「Acme」として統合します
+   >* CRM アカウントを重複排除します。1 つのレコードに「Acme」と「Acme Inc」（または Co、Corp、Corporation、Gmbh、Inc,、Incorporated、LLC、LLP、Ltd、PA、PC、PLLC、PLLC のサフィックスのいずれかが含まれる場合），TAM に単に「Acme」として結合します
 
 1. [!UICONTROL 重点顧客]列の下にある下向き矢印をクリックすると、ドロップダウンが表示されます。
 

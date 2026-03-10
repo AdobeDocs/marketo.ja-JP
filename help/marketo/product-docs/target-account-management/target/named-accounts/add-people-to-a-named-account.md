@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378816
-description: 重点顧客にリードを追加する - Marketo ドキュメント - 製品ドキュメント
+description: フローアクション、スマートキャンペーンフロー手順またはリストの読み込みを使用して、名前の付いたアカウントにユーザーを追加する方法を説明します。
 title: 重点顧客にリードを追加する
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 100%
+source-wordcount: '199'
+ht-degree: 90%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11381156
-description: リードと顧客の照合 - Marketo ドキュメント - 製品ドキュメント
+description: リードとアカウントのマッチング、およびMarketoのマッチングによって名前付きアカウントがほぼリアルタイムで導かれる仕組みについて説明します。 新しいリードの弱い一致とトリガーを解決します。
 title: リードと顧客の照合
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 100%
+source-wordcount: '485'
+ht-degree: 95%
 
 ---
 

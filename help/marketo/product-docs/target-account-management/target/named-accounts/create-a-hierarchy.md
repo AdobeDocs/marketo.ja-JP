@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795734
-description: 階層の作成 - Marketo ドキュメント - 製品ドキュメント
+description: CRM を使用しない場合に名前付きアカウント階層を手動で作成する方法を説明します。 階層ごとにグループ化を使用して、アカウントを親の名前付きアカウントにリンクします。
 title: 階層の作成
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 85%
 
 ---
 

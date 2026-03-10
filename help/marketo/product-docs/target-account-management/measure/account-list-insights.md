@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380787
-description: 顧客リストインサイト - Marketo ドキュメント - 製品ドキュメント
+description: アカウントリストダッシュボードと、重点顧客からの集計インサイトについて説明します。 パイプライン、売上高、上位アカウントおよび各リストを使用するアセットを表示します。
 title: 顧客リストインサイト
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '183'
+ht-degree: 87%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615798
-description: 既存の重点顧客を顧客リストに追加する - Marketo ドキュメント - 製品ドキュメント
+description: 既存の名前付きアカウントをアカウントリストに追加する方法を説明します。 指定アカウントアクションを使用し、目的のリストで「アカウントリストに追加」を選択します。
 title: 既存の重点顧客を顧客リストに追加する
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '107'
+ht-degree: 75%
 
 ---
 

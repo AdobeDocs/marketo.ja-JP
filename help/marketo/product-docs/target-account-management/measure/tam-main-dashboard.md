@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380783
-description: TAM メインダッシュボード - Marketo ドキュメント - 製品ドキュメント
+description: TAM のメインダッシュボードと、ターゲットアカウントの取り組みの概要について説明します。 アカウントリストでフィルタリングし、リストまたは名前付きアカウントインサイトにドリルインします。
 title: TAM メインダッシュボード
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '134'
+ht-degree: 81%
 
 ---
 

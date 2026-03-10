@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12255457
-description: TAM の概要 — Marketo ドキュメント — 製品ドキュメント
+description: インスタンスに追加した後に TAM を使い始める方法を説明します。 権限の設定、アカウントスコアの設定、名前付きアカウントの作成などの手順に従います。
 title: TAM の概要
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 100%
+source-wordcount: '303'
+ht-degree: 91%
 
 ---
 

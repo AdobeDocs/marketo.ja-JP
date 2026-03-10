@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615804
-description: 重点顧客でのフィルタリングー - Marketo ドキュメント - 製品ドキュメント
+description: 重点顧客をフィルターして、データをすばやく絞り込む方法を説明します。 業界、国、従業員、その他の CRM 同期フィールドをフィルターで使用します。
 title: 重点顧客でのフィルタリング
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 100%
+source-wordcount: '144'
+ht-degree: 84%
 
 ---
 

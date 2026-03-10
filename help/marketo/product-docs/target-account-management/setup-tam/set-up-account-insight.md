@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979223
-description: 顧客インサイトの設定 - Marketo ドキュメント - 製品ドキュメント
+description: セールスチームのアカウントInsightを設定する方法について説明します。 「販売」タブで、指定顧客とエンゲージメント担当者の優先順位付け方法を設定します。
 title: 顧客インサイトの設定
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '121'
+ht-degree: 80%
 
 ---
 

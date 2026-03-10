@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795510
-description: TAM 階層 - Marketo ドキュメント - 製品ドキュメント
+description: TAM 階層と、CRM から親子関係を継承する方法について説明します。 ワンクリックでアカウントファミリ全体をターゲットにしてレポートします。
 title: TAM 階層
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 100%
+source-wordcount: '161'
+ht-degree: 85%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355609
-description: 新しい顧客の検出 - Marketo ドキュメント - 製品ドキュメント
+description: 理想的な顧客プロファイルの AI を活用したレコメンデーションを使用して、ターゲットにする新しいアカウントを見つける方法を説明します。 新しいターゲットアカウントを見つけてアカウントリストに保存します。
 title: 新しい顧客の検出
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 100%
+source-wordcount: '318'
+ht-degree: 92%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615800
-description: '[!UICONTROL 重点顧客]の読み込み - Marketo ドキュメント - 製品ドキュメント'
+description: 名前付きアカウントを CSV ファイルから TAM に読み込む方法を説明します。 リストをアップロードし、アカウント名またはドメインで重複排除モードを選択し、フィールドをマッピングします。
 title: '[!UICONTROL 重点顧客]の読み込み'
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '479'
-ht-degree: 100%
+source-wordcount: '498'
+ht-degree: 94%
 
 ---
 

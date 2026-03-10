@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385183
-description: TAM セールスレポート - Marketo ドキュメント - 製品ドキュメント
+description: TAM Sales Report について説明します。このレポートは、トップアカウントとそのトレンドを記載した週別メールです。 アカウントのスコア、パイプライン、ページビューおよび注目のアクションを受信します。
 title: TAM セールスレポート
 exl-id: db4680df-74fd-41a4-9e9c-bf405da97bf0
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '143'
+ht-degree: 83%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380734
-description: アカウントトリガー - Marketo ドキュメント - 製品ドキュメント
+description: アカウントトリガーを使用してアカウントレベルの行動アクティビティをリッスンし操作する方法を説明します。 スマートキャンペーンで指定アカウントトリガーを使用して、主要なアカウントを関与させます。
 title: アカウントトリガー
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 79%
 
 ---
 

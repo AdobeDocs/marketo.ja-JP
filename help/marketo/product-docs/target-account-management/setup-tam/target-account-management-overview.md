@@ -1,27 +1,27 @@
 ---
 unique-page-id: 11381917
-description: '[!UICONTROL Target アカウント管理 &#x200B;] - Marketo ドキュメント – 製品ドキュメント'
-title: '[!UICONTROL Target アカウント管理 &#x200B;]'
+description: Marketo Target アカウント管理と、営業とマーケティングを統合して主要アカウントをターゲットにする方法について説明します。 ライセンスとセットアップ手順の概要。
+title: '[!UICONTROL ターゲットアカウント管理]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 71%
+source-wordcount: '259'
+ht-degree: 90%
 
 ---
 
-# [!UICONTROL Target アカウント管理 &#x200B;] {#target-account-management-overview}
+# [!UICONTROL ターゲットアカウント管理] {#target-account-management-overview}
 
-マーケター、[!UICONTROL &#x200B; ターゲットアカウント管理 &#x200B;] に対応 [!UICONTROL Target アカウント管理 &#x200B;]、マーケターにお問い合わせください。
+マーケターの皆さんに、[!UICONTROL ターゲットアカウント管理]を紹介します。[!UICONTROL ターゲットアカウント管理]を大いにご活用ください。
 
 ![](assets/photo-collage.png)
 
-Marketo[!UICONTROL Target アカウント管理 &#x200B;] とは
+Marketo [!UICONTROL ターゲットアカウント管理]とは
 
-Marketo[!UICONTROL Target Account Management] は、営業チームとマーケティングチームを統合して、高度に調整された方法で主要なアカウントをターゲットに設定し、アカウント中心の戦略、実行、成功の間のギャップを埋めます。
+Marketo [!UICONTROL ターゲットアカウント管理]では、1 つのプラットフォーム内で、セールスとマーケティングチームが連携し、アカウント中心の戦略、実行、成功のギャップを埋め、高度に調整された方法で主要アカウントをターゲットにし、エンゲージします。
 
-Marketo[!UICONTROL Target アカウント管理 &#x200B;] を使用する理由
+Marketo [!UICONTROL ターゲットアカウント管理]を使用する理由
 
 Marketo は、TAM とリード管理を 1 つのソリューションに統合し、マーケターがアカウントとリードの両方に対してパーソナライズされたキャンペーンを 1 回の動作で簡単に実行できるようにします。また、主要な意思決定者に連絡して、影響力のある人に対処することもできます。
 
