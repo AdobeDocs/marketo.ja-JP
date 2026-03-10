@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719291
-description: デフォルトのリーダーの姓と会社名の設定 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforce sync のデフォルトのユーザーの姓と会社名を設定する方法を説明します。 部分的なレコードがデフォルト値と同期されるように、管理オプションと同期オプションを使用します。
 title: デフォルトのリーダーの姓と会社名の設定
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '153'
+ht-degree: 83%
 
 ---
 

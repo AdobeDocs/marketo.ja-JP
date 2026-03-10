@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719289
-description: キャンペーン同期の有効化／無効化 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo EngageでSalesforce キャンペーン同期を有効または無効にする方法について説明します。
 title: キャンペーン同期の有効化／無効化
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 71%
+source-wordcount: '95'
+ht-degree: 60%
 
 ---
 

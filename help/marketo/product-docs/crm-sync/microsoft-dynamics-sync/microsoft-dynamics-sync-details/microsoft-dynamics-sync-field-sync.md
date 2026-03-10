@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571838
-description: Microsoft Dynamics 同期 - フィールドの同期 - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft DynamicsとMarketo間のフィールド同期の仕組みについて説明します。 リードおよび連絡先の双方向同期と、他のエンティティの一方向同期について説明します。
 title: Microsoft Dynamics 同期 - フィールドの同期
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 100%
+source-wordcount: '335'
+ht-degree: 92%
 
 ---
 

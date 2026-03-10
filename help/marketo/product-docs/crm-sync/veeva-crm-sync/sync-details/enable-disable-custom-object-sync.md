@@ -1,12 +1,12 @@
 ---
-description: カスタムオブジェクト同期の有効化／無効化 - Marketo ドキュメント - 製品ドキュメント
+description: Veeva CRM とMarketo Engageの間でカスタムオブジェクト同期を有効または無効にする方法を説明します。 Admin と Veeva Objects Sync を使用して、カスタムオブジェクトを選択および同期します。
 title: カスタムオブジェクト同期の有効化／無効化
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 100%
+source-wordcount: '231'
+ht-degree: 88%
 
 ---
 

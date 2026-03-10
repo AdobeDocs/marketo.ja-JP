@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719297
-description: カスタムオブジェクト同期の有効化／無効化 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo EngageでSalesforce カスタムオブジェクト同期を有効または無効にする方法について説明します。 Admin およびSalesforce オブジェクト同期を使用して、オブジェクトを選択し、スキーマを更新します。
 title: カスタムオブジェクト同期の有効化／無効化
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 100%
+source-wordcount: '235'
+ht-degree: 89%
 
 ---
 

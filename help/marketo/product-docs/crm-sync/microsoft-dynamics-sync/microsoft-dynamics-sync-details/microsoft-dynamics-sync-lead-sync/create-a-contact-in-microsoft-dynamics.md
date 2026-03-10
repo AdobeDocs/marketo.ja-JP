@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095389
-description: Microsoft Dynamics での取引先責任者の作成 - Marketo ドキュメント - 製品ドキュメント
+description: MarketoからMicrosoft Dynamicsで連絡先を作成する方法を説明します。 リアルタイムで連絡先を作成するためのトリガーキャンペーンで、ユーザーをMicrosoftに同期フローアクションを使用します。
 title: Microsoft Dynamics での取引先責任者の作成
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '133'
+ht-degree: 79%
 
 ---
 

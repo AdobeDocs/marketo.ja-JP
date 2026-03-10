@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098379
-description: 新しいカスタムフィールドに対する Microsoft Dynamics とのクイック同期の使用 - Marketo ドキュメント - 製品ドキュメント
+description: 新しいカスタムフィールドを追加する際に、Microsoft Dynamicsとクイック同期を使用する方法を説明します。 フィールドを追加した後に、Dynamics からMarketoにフィールドデータを更新します。
 title: 新しいカスタムフィールドに対する Microsoft Dynamics とのクイック同期の使用
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 100%
+source-wordcount: '363'
+ht-degree: 92%
 
 ---
 

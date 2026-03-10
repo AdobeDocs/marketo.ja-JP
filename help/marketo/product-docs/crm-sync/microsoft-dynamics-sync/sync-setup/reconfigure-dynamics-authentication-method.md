@@ -1,12 +1,12 @@
 ---
-description: ' [!DNL Dynamics]  認証方法の再設定 - Marketo ドキュメント - 製品ドキュメント'
+description: Marketoで Dynamics 認証方法を再設定する方法を説明します。 同期を無効にし、新しい認証方法の再構成を使用し、Web API または ROPC の資格情報を検証します。
 title: ' [!DNL Dynamics]  認証方法の再設定'
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 100%
+source-wordcount: '283'
+ht-degree: 91%
 
 ---
 

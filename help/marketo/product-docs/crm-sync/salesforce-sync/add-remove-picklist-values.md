@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719312
-description: 選択リスト値の追加／削除 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforce選択リスト値の追加と削除、およびそれらがMarketoに与える影響について説明します。 通知からフォームに新しい値を追加し、必要に応じて手動で値を削除します。
 title: 選択リスト値の追加／削除
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 100%
+source-wordcount: '243'
+ht-degree: 89%
 
 ---
 

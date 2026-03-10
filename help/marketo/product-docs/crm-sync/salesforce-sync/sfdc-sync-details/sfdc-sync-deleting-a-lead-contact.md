@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515131
-description: SFDC 同期 - リード／取引先責任者の削除 - Marketo ドキュメント - 製品ドキュメント
+description: SalesforceとMarketoの間におけるリードおよび連絡先の削除の仕組みについて説明します。 SFDCのユーザーを削除およびSFDCから削除フローアクションについて説明します。
 title: SFDC 同期 - リード／取引先責任者の削除
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '149'
+ht-degree: 85%
 
 ---
 

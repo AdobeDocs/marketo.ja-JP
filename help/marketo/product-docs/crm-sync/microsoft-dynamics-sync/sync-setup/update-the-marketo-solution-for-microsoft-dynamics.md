@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6849029
-description: ' [!DNL Microsoft Dynamics]  向け Marketo ソリューションのアップデート - Marketo ドキュメント - 製品ドキュメント'
+description: Microsoft DynamicsのMarketo ソリューションを更新する方法について説明します。 管理者から最新のソリューションをダウンロードし、Dynamics の既存のバージョンに読み込みます。
 title: ' [!DNL Microsoft Dynamics] 向け Marketo ソリューションのアップデート'
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '183'
+ht-degree: 86%
 
 ---
 

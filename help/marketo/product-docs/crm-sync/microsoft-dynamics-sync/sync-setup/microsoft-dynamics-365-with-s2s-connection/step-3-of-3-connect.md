@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571830
-description: 手順 3 / 3 - サーバー間接続を使用した Marketo ソリューションの接続 - Marketo ドキュメント - 製品ドキュメント
+description: サーバー間接続を使用してMarketo ソリューションを Dynamics 365 に接続する方法を説明します。 Marketo管理に同期ユーザー情報を入力し、同期を有効にする前に検証します。
 title: 手順 3 / 3 - サーバー間接続を使用した Marketo ソリューションの接続
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 100%
+source-wordcount: '462'
+ht-degree: 94%
 
 ---
 

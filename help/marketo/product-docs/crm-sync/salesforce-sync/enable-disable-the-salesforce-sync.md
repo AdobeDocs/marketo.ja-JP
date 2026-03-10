@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719310
-description: Salesforce 同期の有効化／無効化 - Marketo ドキュメント - 製品ドキュメント
+description: MarketoでSalesforce同期を有効または無効にする方法について説明します。 重要なフィールドや同期の変更を行う場合は、管理者で同期をオフにし、準備が整ったら再度有効にします。
 title: Salesforce 同期の有効化／無効化
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 72%
 
 ---
 

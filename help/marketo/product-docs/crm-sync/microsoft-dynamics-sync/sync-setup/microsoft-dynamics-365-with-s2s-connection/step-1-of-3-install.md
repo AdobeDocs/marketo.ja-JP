@@ -1,12 +1,12 @@
 ---
-description: 手順 1／3 - サーバー間接続を使用した Marketo ソリューションのインストール - Marketo ドキュメント - 製品ドキュメント
+description: Dynamics 365 にMarketo ソリューションをインストールし、サーバー間接続を有効にする方法について説明します。 管理者からソリューションを読み込み、インストール手順を完了します。
 title: 手順 1／3 - サーバー間接続を使用した Marketo ソリューションのインストール
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 100%
+source-wordcount: '268'
+ht-degree: 90%
 
 ---
 

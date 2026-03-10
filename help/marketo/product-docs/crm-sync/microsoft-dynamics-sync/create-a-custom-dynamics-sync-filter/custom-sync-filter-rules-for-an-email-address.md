@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095307
-description: メールアドレスのカスタム同期フィルタールール - Marketo ドキュメント - 製品ドキュメント
+description: Dynamics でメールアドレスのカスタム同期フィルタールールを設定する方法を説明します。 ワークフローを使用して、リードまたは連絡先にメールがあるかどうかに基づいて、Mkto に同期を設定します。
 title: メールアドレスのカスタム同期フィルタールール
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 100%
+source-wordcount: '220'
+ht-degree: 86%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953469
-description: SFDC の同期 - キャンペーンの同期 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo プログラムとSalesforce キャンペーンの同期について説明します。 プログラムをキャンペーンにマッピングし、両方のシステム間でメンバーとステータスの同期を維持します。
 title: SFDC の同期 - キャンペーンの同期
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '360'
-ht-degree: 100%
+source-wordcount: '374'
+ht-degree: 94%
 
 ---
 

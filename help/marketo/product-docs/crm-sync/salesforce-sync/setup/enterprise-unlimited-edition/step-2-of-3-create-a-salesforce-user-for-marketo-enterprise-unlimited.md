@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360364
-description: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）- Marketo ドキュメント - 製品ドキュメント
+description: Marketo用のSalesforce ユーザーを Enterprise 版または Unlimited Edition で作成する方法について説明します。 プロファイルを作成し、権限を設定し、MarketoとSalesforceの同期ユーザーを作成します。
 title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 96%
+source-wordcount: '433'
+ht-degree: 90%
 
 ---
 

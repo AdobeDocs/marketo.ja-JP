@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719308
-description: 既存の Salesforce フィールドの Marketo  同期への追加 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo同期に既存のSalesforce フィールドを追加する方法を説明します。 Salesforceの同期ユーザーにフィールドを表示して、次のサイクルで同期されるようにします。
 title: 既存の Salesforce フィールドの Marketo 同期への追加
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 100%
+source-wordcount: '172'
+ht-degree: 83%
 
 ---
 

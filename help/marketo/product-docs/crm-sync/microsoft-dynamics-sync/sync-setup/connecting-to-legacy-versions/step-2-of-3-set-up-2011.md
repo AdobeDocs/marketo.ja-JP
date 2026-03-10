@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571807
-description: 手順 2／3 -  [!DNL Dynamics] （2011 オンプレミス）での Marketo 同期ユーザの設定 - Marketo ドキュメント - 製品ドキュメント
+description: Dynamics 2011 オンプレミスでMarketo sync ユーザーを設定する方法を説明します。 Dynamics でユーザーを作成して、Marketo同期ユーザーのロールを割り当てます。
 title: 手順 2／3 -  [!DNL Dynamics] （2011 オンプレミス）での Marketo 同期ユーザの設定
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 100%
+source-wordcount: '374'
+ht-degree: 93%
 
 ---
 

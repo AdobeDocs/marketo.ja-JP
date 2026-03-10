@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571836
-description: Microsoft Dynamics Sync — アカウントの同期 — Marketoドキュメント — 製品ドキュメント
+description: アカウント情報をMicrosoft DynamicsからMarketoに同期する方法について説明します。 一方向の同期と連絡先とアカウントの関係について説明します。
 title: Microsoft Dynamics Sync — アカウントの同期
 exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 100%
+source-wordcount: '218'
+ht-degree: 91%
 
 ---
 

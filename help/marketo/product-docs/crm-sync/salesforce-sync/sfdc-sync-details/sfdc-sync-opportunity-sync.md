@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953467
-description: SFDC の同期 - 商談の同期 - Marketo ドキュメント - 製品ドキュメント
+description: SalesforceからMarketoへのオポチュニティ同期の仕組みを説明します。 商談の同期方法、連絡先との関連付け方法、商談トリガーとフィルターの使用方法を確認します。
 title: SFDC の同期 - 商談の同期
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 100%
+source-wordcount: '295'
+ht-degree: 92%
 
 ---
 

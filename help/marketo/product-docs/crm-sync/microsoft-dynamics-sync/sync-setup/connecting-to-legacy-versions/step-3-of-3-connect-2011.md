@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571809
-description: 手順 3／3 -  [!DNL Microsoft Dynamics]  と Marketo（2011 オンプレミス）の接続 - Marketo ドキュメント - 製品ドキュメント
+description: 最後の手順で、Microsoft Dynamics 2011 オンプレミスとMarketoを接続する方法について説明します。 Marketo Admin に sync user information と入力し、同期を有効にします。
 title: 手順 3／3 -  [!DNL Microsoft Dynamics]  と Marketo（2011 オンプレミス）の接続
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 100%
+source-wordcount: '391'
+ht-degree: 93%
 
 ---
 

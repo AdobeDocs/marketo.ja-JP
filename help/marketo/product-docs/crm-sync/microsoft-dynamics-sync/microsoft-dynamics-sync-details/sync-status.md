@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097584
-description: 同期ステータス - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft Dynamicsの同期ステータスと、スループットとバックログを監視する方法について説明します。 管理者で「同期ステータス」タブと「同期エラー」タブを表示します。
 title: 同期ステータス
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '182'
+ht-degree: 86%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
-   このテーブルは、各オブジェクトに対して、まだ同期されていない挿入と更新のバックログを示しています。
+   このテーブルには、各オブジェクトに対して、まだ同期されていない挿入と更新のバックログが表示されています。
 
 1. 任意の行をダブルクリックして、商談情報を表示します。
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099102
-description: ' [!DNL Microsoft Dynamics]  MSI 向けプラグインリリース - Marketo ドキュメント - 製品ドキュメント'
+description: Microsoft Dynamics MSI のプラグインリリースについて説明します。 バージョン履歴を検索し、Dynamics バージョンの最新のMarketo ソリューションをダウンロードします。
 title: ' [!DNL Microsoft Dynamics]  MSI 向けプラグインリリース'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 91%
+source-wordcount: '455'
+ht-degree: 86%
 
 ---
 

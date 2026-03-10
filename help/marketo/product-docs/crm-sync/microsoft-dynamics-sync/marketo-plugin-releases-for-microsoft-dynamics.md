@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099389
-description: ' [!DNL Microsoft Dynamics]  向け Marketo プラグインリリース - Marketo ドキュメント - 製品ドキュメント'
+description: Microsoft DynamicsのMarketo プラグインリリースについて説明します。 バージョン履歴を検索し、Dynamics インスタンスの最新のMarketo ソリューションをダウンロードします。
 title: ' [!DNL Microsoft Dynamics] 向け Marketo プラグインリリース'
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 100%
+source-wordcount: '470'
+ht-degree: 95%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719304
-description: 暗黙的な Salesforce アクション - Marketo ドキュメント - 製品ドキュメント
+description: ユーザーをSFDCまたはその他の操作に自動トリガー同期するSalesforce フローステップを理解します。 キャンペーンに追加、所有者を変更、タスクを作成、ユーザーを変換のルールについて説明します。
 title: 暗黙的な Salesforce アクション
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 100%
+source-wordcount: '162'
+ht-degree: 82%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-description: 手順 1/3 - SalesforceへのMarketo フィールドの追加（Enterprise/Unlimited） - Marketo ドキュメント – 製品ドキュメント
+description: Marketo フィールドをSalesforce Enterprise または Unlimited Edition に追加する方法を説明します。 リードおよび連絡先オブジェクトにスコア、獲得プログラム、獲得日を作成します。
 title: 手順 1/3 - SalesforceへのMarketo フィールドの追加（Enterprise/Unlimited）
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '655'
-ht-degree: 67%
+source-wordcount: '664'
+ht-degree: 66%
 
 ---
 

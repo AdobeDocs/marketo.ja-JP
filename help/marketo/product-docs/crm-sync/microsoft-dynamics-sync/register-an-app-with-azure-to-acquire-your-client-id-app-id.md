@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12983390
-description: アプリを Azure に登録してクライアント ID／アプリ ID を取得 - Marketo ドキュメント - 製品ドキュメント
+description: Azureにアプリを登録して、Dynamics 同期用のクライアント ID とアプリ ID を取得する方法について説明します。 Azureの Active Directory とアプリの登録を認証に使用します。
 title: アプリを Azure に登録してクライアント ID／アプリ ID を取得
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 100%
+source-wordcount: '343'
+ht-degree: 91%
 
 ---
 

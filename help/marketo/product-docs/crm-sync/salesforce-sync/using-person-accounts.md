@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719316
-description: 個人取引先の使用 -  Marketo ドキュメント - 製品ドキュメント
+description: Marketo EngageでのSalesforce人物アカウントの扱い方について説明します。 個人アカウントとビジネス・アカウントを区別し、スマート・リストで「個人アカウント」フィルタを使用します。
 title: 個人取引先の使用
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 100%
+source-wordcount: '306'
+ht-degree: 92%
 
 ---
 

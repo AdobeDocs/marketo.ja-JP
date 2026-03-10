@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953471
-description: SFDC 同期 - カスタムオブジェクトの同期 - Marketo ドキュメント - 製品ドキュメント
+description: SalesforceからMarketoへのカスタムオブジェクト同期を設定する方法について説明します。 カスタムオブジェクトを有効化して、スマートリスト、トリガーおよびキャンペーンで使用します。
 title: SFDC 同期 - カスタムオブジェクトの同期
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 100%
+source-wordcount: '312'
+ht-degree: 92%
 
 ---
 

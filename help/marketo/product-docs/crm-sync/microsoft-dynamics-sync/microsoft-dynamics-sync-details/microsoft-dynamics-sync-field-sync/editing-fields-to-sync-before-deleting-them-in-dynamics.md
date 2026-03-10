@@ -1,12 +1,12 @@
 ---
-description: Dynamics で削除する前に同期するフィールドを編集 - Marketo ドキュメント - 製品ドキュメント
+description: Dynamics でフィールドを削除する前に、Marketoで同期するようにフィールドを編集する方法を説明します。 同期を無効にし、スキーマを更新して、同期の選択からフィールドを削除します。
 title: Dynamics で削除する前に同期するフィールドを編集
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '214'
+ht-degree: 87%
 
 ---
 

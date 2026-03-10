@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098625
-description: ' [!DNL Microsoft Dynamics]  同期について - Marketo ドキュメント - 製品ドキュメント'
+description: Microsoft Dynamics同期によってMarketoと Dynamics のデータの同期を維持する方法について説明します。 リードおよび連絡先に対する同期対象と双方向同期の仕組みを確認します。
 title: Microsoft Dynamics 同期について
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 100%
+source-wordcount: '229'
+ht-degree: 88%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571848
-description: Microsoft Dynamics 同期 - リード同期 - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft DynamicsとMarketoの間でリード同期がどのように機能するかについて説明します。 双方向同期について理解し、「ユーザーをMicrosoftに同期」でリードを作成します。
 title: Microsoft Dynamics 同期 - リード同期
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 100%
+source-wordcount: '309'
+ht-degree: 92%
 
 ---
 

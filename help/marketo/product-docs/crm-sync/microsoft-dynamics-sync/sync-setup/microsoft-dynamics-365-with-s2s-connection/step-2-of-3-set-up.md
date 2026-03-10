@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571827
-description: 手順 2／3 - サーバー間接続を使用した Marketo ソリューションの設定 - Marketo ドキュメント - 製品ドキュメント
+description: Dynamics 365 のサーバー間接続を使用したMarketo ソリューションの設定方法について説明します。 Azure AD でクライアントアプリを作成し、同期ユーザーの同意を付与します。
 title: 手順 2／3 - サーバー間接続を使用した Marketo ソリューションの設定
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '515'
-ht-degree: 100%
+source-wordcount: '527'
+ht-degree: 94%
 
 ---
 

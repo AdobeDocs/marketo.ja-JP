@@ -1,12 +1,12 @@
 ---
-description: 手順 4 / 4 - Marketo ソリューションとリソース所有者のパスワード制御接続の接続 - Marketo ドキュメント - 製品ドキュメント
+description: ROPC 接続を使用してMarketo ソリューションを Dynamics 365 に接続する方法を説明します。 Marketo Admin に同期ユーザーの資格情報を入力し、同期を有効にします。
 title: 手順 4 / 4 - Marketo ソリューションとリソース所有者のパスワード制御接続の接続
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 100%
+source-wordcount: '438'
+ht-degree: 94%
 
 ---
 

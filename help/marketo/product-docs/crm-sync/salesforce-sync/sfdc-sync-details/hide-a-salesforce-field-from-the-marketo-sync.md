@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719306
-description: Marketo 同期に対する Salesforce フィールドの非表示 — Marketo ドキュメント — 製品ドキュメント
+description: Marketo同期でSalesforce フィールドを非表示にしてパフォーマンスを最適化する方法を説明します。 同期ユーザープロファイルでフィールドレベルのセキュリティを使用して、不要なフィールドを除外します。
 title: Marketo 同期に対する Salesforce フィールドの非表示
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 100%
+source-wordcount: '179'
+ht-degree: 85%
 
 ---
 

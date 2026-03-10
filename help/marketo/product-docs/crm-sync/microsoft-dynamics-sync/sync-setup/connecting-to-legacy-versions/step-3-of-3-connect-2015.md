@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504744
-description: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 3 / 3 - Marketo ドキュメント - 製品ドキュメント
+description: 最後の手順で、Marketoをオンプレミスの Dynamics 2015 に接続する方法を説明します。 Marketo Admin に同期ユーザーの資格情報を入力し、同期を有効にします。
 title: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 3 / 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 100%
+source-wordcount: '410'
+ht-degree: 94%
 
 ---
 

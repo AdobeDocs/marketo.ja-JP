@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10092977
-description: Microsoft Dynamics Sync フィルター - 認定 - Marketo ドキュメント - 製品ドキュメント
+description: リードを連絡先に変換する際の Dynamics 同期フィルターの選定プロセスについて説明します。 リードおよび取引先責任者同期フィルターの値がMarketo同期に与える影響を理解します。
 title: Microsoft Dynamics Sync フィルター - 認定
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '133'
+ht-degree: 80%
 
 ---
 

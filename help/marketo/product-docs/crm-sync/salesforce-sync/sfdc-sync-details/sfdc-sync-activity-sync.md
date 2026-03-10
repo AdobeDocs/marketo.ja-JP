@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953473
-description: SFDC 同期 - アクティビティ同期 - Marketo ドキュメント - 製品ドキュメント
+description: SalesforceのアクティビティとタスクをMarketoに同期する方法について説明します。 Marketoからタスクを作成し、スマートキャンペーンでアクティビティのトリガーとフィルターを使用する。
 title: SFDC 同期 - アクティビティ同期
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 100%
+source-wordcount: '175'
+ht-degree: 86%
 
 ---
 

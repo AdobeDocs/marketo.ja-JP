@@ -1,12 +1,12 @@
 ---
-description: キャンペーン同期の概要 - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft DynamicsとMarketo間のキャンペーン同期について説明します。 「Microsoft Campaign に追加」および「Microsoft Campaign から削除」フローのアクションとトリガーを使用します。
 title: キャンペーン同期の概要
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 100%
+source-wordcount: '159'
+ht-degree: 85%
 
 ---
 

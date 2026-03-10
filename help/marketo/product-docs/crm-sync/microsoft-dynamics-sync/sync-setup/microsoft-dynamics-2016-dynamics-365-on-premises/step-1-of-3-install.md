@@ -1,12 +1,12 @@
 ---
-description: ' [!DNL Microsoft Dynamics] 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 1 / 3 - Marketo ドキュメント - 製品ドキュメント'
+description: オンプレミスで Dynamics 2016 または Dynamics 365 用のMarketo ソリューションをインストールする方法について説明します。 ソリューションを読み込み、Dynamics のインストール手順を完了します。
 title: ' [!DNL Microsoft Dynamics] 2016／Dynamics 365 オンプレミス向け Marketo インストール手順 1 / 3'
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 100%
+source-wordcount: '303'
+ht-degree: 92%
 
 ---
 

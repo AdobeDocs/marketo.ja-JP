@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571805
-description: 手順 1 / 3 - Marketo ソリューション（2011 オンプレミス版）のインストール - Marketo ドキュメント - 製品ドキュメント
+description: Dynamics 2011 用Marketo ソリューションをオンプレミスにインストールする方法を説明します。 ソリューションを読み込み、Dynamics のインストール手順を完了します。
 title: 手順 1 / 3 - Marketo ソリューション（2011 オンプレミス版）のインストール
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 100%
+source-wordcount: '284'
+ht-degree: 92%
 
 ---
 

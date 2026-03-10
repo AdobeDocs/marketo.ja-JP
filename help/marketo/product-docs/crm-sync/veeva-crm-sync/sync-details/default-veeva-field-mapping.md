@@ -1,18 +1,18 @@
 ---
-description: デフォルト  [!DNL Veeva]  フィールドマッピング - Marketo ドキュメント – 製品ドキュメント
-title: デフォルト  [!DNL Veeva]  フィールドマッピング
+description: Veeva CRM とMarketo Engageのデフォルトの Veeva フィールドマッピングについて説明します。 連絡先フィールドとアカウントフィールドのマッピング方法および同期されるカスタムフィールドを参照してください。
+title: デフォルトの  [!DNL Veeva]  フィールドマッピング
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 72%
+source-wordcount: '270'
+ht-degree: 91%
 
 ---
 
 # デフォルトの [!DNL Veeva] フィールドマッピング {#default-veeva-field-mapping}
 
-Marketo Engage アカウントを [!DNL Veeva] と最初に同期すると、Marketoは、組み込みの [!DNL Veeva] フィールドとMarketo フィールドの間でこれらの関連付けを自動的に行います。 Marketoは、アカウントおよび連絡先のカスタムフィールドも同期します。
+Marketo Engage アカウントと [!DNL Veeva] の初回同期時に、Marketo ではビルトインの [!DNL Veeva] フィールドと Marketo フィールドの間でこれらの関連付けが自動的に行われます。Marketo は、アカウントと取引先責任者のカスタムフィールドも同期します。
 
 ## 連絡先フィールド {#contact-fields}
 
@@ -49,20 +49,20 @@ Marketo Engage アカウントを [!DNL Veeva] と最初に同期すると、Mar
       <td>FAX 番号</td>
     </tr>
     <tr>
-      <td>名</td>
-      <td>名</td>
+      <td>名前（名）</td>
+      <td>名前（名）</td>
     </tr>
     <tr>
       <td>メールオプトアウト</td>
-      <td>登録解除済み</td>
+      <td>配信停止完了</td>
     </tr>
     <tr>
       <td>削除済み</td>
       <td>SFDC 削除済み</td>
     </tr>
     <tr>
-      <td>姓</td>
-      <td>姓</td>
+      <td>名前（姓）</td>
+      <td>名前（姓）</td>
     </tr>
     <tr>
       <td>リードのソース</td>
@@ -192,9 +192,9 @@ Marketo Engage アカウントを [!DNL Veeva] と最初に同期すると、Mar
   </tbody>
 </table>
 
-## Marketoの [!DNL Veeva] 関連のシステムフィールド（読み取り専用） {#veeva-related-system-fields-in-marketo}
+## Marketo の [!DNL Veeva] 関連システムフィールド（読み取り専用） {#veeva-related-system-fields-in-marketo}
 
-これらのフィールドはMarketoで作成されますが、お客様が調整することはできません。
+これらのフィールドは Marketo で作成されますが、顧客は調整できません。
 
 <table>
   <colgroup>
@@ -210,11 +210,11 @@ Marketo Engage アカウントを [!DNL Veeva] と最初に同期すると、Mar
   <tbody>
     <tr>
       <td>[!DNL Veeva] ID</td>
-      <td>18 文字の [!DNL Salesforce] Id</td>
+      <td>18 文字の [!DNL Salesforce] ID</td>
     </tr>
     <tr>
       <td>[!DNL Veeva] タイプ</td>
-      <td>連絡先。 空の場合、リードは Marketo にのみ存在します</td>
+      <td>取引先責任者。空の場合、リードは Marketo に人物としてのみ存在します</td>
     </tr>
     <tr>
       <td>[!DNL Veeva] 作成日</td>
@@ -222,7 +222,7 @@ Marketo Engage アカウントを [!DNL Veeva] と最初に同期すると、Mar
     </tr>
     <tr>
       <td>[!DNL Veeva] 削除済み</td>
-      <td>以前は SFDC に存在したが、削除され、現在は Marketo にしか存在しない個人</td>
+      <td>以前は SFDC に存在したが、削除され、現在は Marketo にしか存在しない人物</td>
     </tr>
   </tbody>
 </table>

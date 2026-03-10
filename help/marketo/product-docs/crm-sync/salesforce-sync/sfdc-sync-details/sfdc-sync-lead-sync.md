@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953455
-description: SFDC 同期 - リードの同期 - Marketo ドキュメント - 製品ドキュメント
+description: SalesforceとMarketoの間でリード同期がどのように機能するかについて説明します。 双方向同期を理解し、Marketoからリードを作成し、検証ルールを尊重します。
 title: SFDC 同期 - リードの同期
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 100%
+source-wordcount: '243'
+ht-degree: 91%
 
 ---
 

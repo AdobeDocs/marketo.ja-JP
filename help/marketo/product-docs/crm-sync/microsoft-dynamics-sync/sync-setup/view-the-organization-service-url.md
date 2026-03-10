@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504770
-description: 組織サービス URL の表示 - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft Dynamicsで組織サービス URL を見つける方法を説明します。 「詳細設定」と「開発者向けリソース」を使用して、Marketo同期設定用の URL をコピーします。
 title: 組織サービス URL の表示
 exl-id: 37c6afa3-ae82-4134-8a00-b4dc08064f5d
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 85%
+source-wordcount: '98'
+ht-degree: 62%
 
 ---
 

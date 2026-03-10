@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571800
-description: 手順 3／3 — Marketo と Salesforce の接続（Professional）- Marketo ドキュメント - 製品ドキュメント
+description: Professional Edition の最後の手順で、MarketoとSalesforceを接続する方法を説明します。 同期ユーザーセキュリティトークンを取得し、Marketo Admin で資格情報を設定します。
 title: 手順 3／3 — Marketo と Salesforce の接続（Professional）
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 100%
+source-wordcount: '398'
+ht-degree: 93%
 
 ---
 

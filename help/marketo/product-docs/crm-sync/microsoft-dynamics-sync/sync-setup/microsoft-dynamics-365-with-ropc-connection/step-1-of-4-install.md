@@ -1,12 +1,12 @@
 ---
-description: 手順 1／4 - リソース所有者のパスワード制御接続を使用した Marketo ソリューションのインストール - Marketo ドキュメント - 製品ドキュメント
+description: ROPC 接続を使用してMarketo ソリューションを Dynamics 365 にインストールする方法を説明します。 Office 365 からソリューションをインポートし、インストール手順を完了します。
 title: 手順 1／4 - リソース所有者のパスワード制御接続を使用した Marketo ソリューションのインストール
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 100%
+source-wordcount: '309'
+ht-degree: 92%
 
 ---
 

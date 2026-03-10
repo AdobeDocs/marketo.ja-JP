@@ -1,12 +1,12 @@
 ---
-description: デフォルトの Dynamics フィールドマッピング - Marketo ドキュメント - 製品ドキュメント
+description: Dynamics とMarketo間のデフォルトのMicrosoft Dynamics フィールドマッピングについて説明します。 リード、連絡先、アカウント、商談の各フィールドが自動的にマッピングされる仕組みを確認します。
 title: デフォルトの Dynamics フィールドマッピング
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '1036'
-ht-degree: 100%
+source-wordcount: '1049'
+ht-degree: 97%
 
 ---
 

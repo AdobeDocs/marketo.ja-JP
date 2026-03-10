@@ -1,12 +1,12 @@
 ---
-description: 手順 2 / 4 - リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定 - Marketo ドキュメント - 製品ドキュメント
+description: ROPC 接続を使用したMarketo ソリューションの設定方法について説明します。 Dynamics で同期ユーザーを作成し、Marketo同期ユーザーの役割を割り当てて認証を行います。
 title: 手順 2 / 4 - リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '441'
-ht-degree: 100%
+source-wordcount: '448'
+ht-degree: 94%
 
 ---
 

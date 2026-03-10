@@ -1,12 +1,12 @@
 ---
-description: Salesforce 同期エラー — Marketo ドキュメント — 製品ドキュメント
+description: MarketoでSalesforce同期エラーを表示およびフィルタリングする方法を説明します。 レコードレベルおよびジョブレベルのエラーを参照し、エラーの詳細を使用して同期の問題のトラブルシューティングを行います。
 title: Salesforce 同期エラー
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 100%
+source-wordcount: '195'
+ht-degree: 87%
 
 ---
 

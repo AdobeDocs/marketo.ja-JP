@@ -1,16 +1,16 @@
 ---
-description: タスクを作成する  [!DNL Veeva] - Marketo ドキュメント – 製品ドキュメント
-title: ' [!DNL Veeva] でタスクを作成'
+description: Marketoから Veeva でタスクを作成し、セールスに何をいつするかを伝える方法を説明します。 タスクの作成フローステップを使用して、件名、説明、期限をカスタマイズします。
+title: ' [!DNL Veeva] でのタスクの作成'
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 88%
+source-wordcount: '138'
+ht-degree: 78%
 
 ---
 
-# [!DNL Veeva] でタスクを作成 {#create-task-in-veeva}
+# [!DNL Veeva] でのタスクの作成 {#create-task-in-veeva}
 
 マーケターは、取引の成立に関して営業を支援できる情報を持っています。タスクを作成して、タスクの実行内容と実行タイミングを営業に知らせることができます。
 

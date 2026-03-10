@@ -1,12 +1,12 @@
 ---
-description: クライアント ID とアプリの登録に対する同意の付与 - Marketo ドキュメント - 製品ドキュメント
+description: Dynamics 同期に使用するクライアント ID およびアプリ登録の同意を付与する方法を説明します。 認証 URI を作成し、同期ユーザーに委任されたユーザー権限を付与します。
 title: クライアント ID とアプリ登録に対する同意の付与
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 100%
+source-wordcount: '280'
+ht-degree: 89%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除 - Marketo ドキュメント - 製品ドキュメント
+description: Veeva のカスタムオブジェクトフィールドをスマートリストフィルターおよびトリガーの制約として追加または削除する方法について説明します。 Admin と Veeva Objects Sync を使用して、表示可能なフィールドを編集します。
 title: スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 100%
+source-wordcount: '193'
+ht-degree: 86%
 
 ---
 

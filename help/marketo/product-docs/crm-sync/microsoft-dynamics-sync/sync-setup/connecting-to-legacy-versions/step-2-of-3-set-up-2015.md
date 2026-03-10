@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504739
-description: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 2 / 3 - Marketo ドキュメント - 製品ドキュメント
+description: オンプレミスで Dynamics 2015 のMarketo同期ユーザーを設定する方法について説明します。 Dynamics でユーザーを作成して、Marketo同期ユーザーのロールを割り当てます。
 title: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 2 / 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 100%
+source-wordcount: '369'
+ht-degree: 93%
 
 ---
 

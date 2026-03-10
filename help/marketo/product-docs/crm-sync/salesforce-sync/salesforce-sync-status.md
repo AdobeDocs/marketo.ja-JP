@@ -1,12 +1,12 @@
 ---
-description: Salesforce 同期ステータス - Marketo ドキュメント - 製品ドキュメント
+description: Salesforce同期ステータスダッシュボードと同期統計の表示方法について説明します。 日付、操作タイプまたはオブジェクトタイプでフィルタリングし、同期エラーを CSV として書き出します。
 title: Salesforce 同期ステータス
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 81%
+source-wordcount: '574'
+ht-degree: 77%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 81%
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. 日付と時間の範囲を選択し、ドロップダウンをクリックして [!UICONTROL &#x200B; オブジェクトタイプ &#x200B;]、[!UICONTROL &#x200B; 操作タイプ &#x200B;]、[!UICONTROL &#x200B; ステータスタイプ &#x200B;] でフィルタリングします。
+1. 日付と時間の範囲を選択し、ドロップダウンをクリックして [!UICONTROL  オブジェクトタイプ ]、[!UICONTROL  操作タイプ ]、[!UICONTROL  ステータスタイプ ] でフィルタリングします。
 
    ![](assets/salesforce-sync-status-5.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719294
-description: アクティビティ同期のカスタマイズ - Marketo ドキュメント - 製品ドキュメント
+description: MarketoがSalesforceにプッシュするアクティビティをカスタマイズする方法を説明します。 「管理オプション」と「同期オプション」でアクティビティタイプを有効にして、イベントからSalesforceのアクティビティ履歴を作成します。
 title: アクティビティ同期のカスタマイズ
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 100%
+source-wordcount: '324'
+ht-degree: 92%
 
 ---
 
@@ -100,8 +100,8 @@ Marketo セールスインサイトを使用しない場合、Marketo Engage は
 
 >[!NOTE]
 >
->「セールスメール受信済み」は、配達済みとは&#x200B;_違います_。Sales Insight 経由で送信されたメールの配信ステータスはキャプチャされません。
+>「セールスメール受信済み」は、配達済みとは&#x200B;_違います_。セールスインサイト経由で送信されたメールの配信ステータスはキャプチャされません。
 
 >[!TIP]
 >
->Marketo の情報を更に Salesforce に追加することに関心がある場合は、[Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"} 製品をご確認ください。
+>Marketo の情報を更に Salesforce に追加することに関心がある場合は、[Marketo セールスインサイト](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}製品をご確認ください。

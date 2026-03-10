@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571840
-description: Microsoft  [!DNL Dynamics]  同期 - ユーザ同期 - Marketo ドキュメント - 製品ドキュメント
+description: ユーザーデータをMicrosoft DynamicsからMarketoに同期する方法について説明します。 同期する所有者フィールドと、スマートリストおよびフローアクションで所有者フィールドを使用する方法について説明します。
 title: Microsoft  [!DNL Dynamics]  同期 - ユーザ同期
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 100%
+source-wordcount: '164'
+ht-degree: 83%
 
 ---
 

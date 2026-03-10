@@ -1,14 +1,14 @@
 ---
-description: カスタムオブジェクト同期 - Marketo ドキュメント - 製品ドキュメント
+description: Veeva CRM からMarketo Engageへのカスタムオブジェクト同期を設定する方法を説明します。 管理でカスタム・オブジェクトを使用可能にし、スマート・リストおよびトリガーで使用します。
 title: カスタムオブジェクト同期
 hide: true
 hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 100%
+source-wordcount: '217'
+ht-degree: 87%
 
 ---
 

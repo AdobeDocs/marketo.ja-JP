@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953463
-description: SFDC 同期 - リード／アカウント所有者の同期 - Marketo ドキュメント - 製品ドキュメント
+description: リードおよびアカウント所有者フィールドをSalesforceからMarketoに同期する方法について説明します。 Marketoでリードオーナーを変更し、フローアクションとスマートリストでオーナーデータを使用する。
 title: SFDC 同期 - リード／アカウント所有者の同期
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '230'
+ht-degree: 87%
 
 ---
 

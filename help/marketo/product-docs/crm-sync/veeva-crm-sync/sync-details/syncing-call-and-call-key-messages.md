@@ -1,12 +1,12 @@
 ---
-description: 通話と通話の主要メッセージの同期 - Marketo ドキュメント - 製品ドキュメント
+description: 通話および通話キーメッセージオブジェクトを Veeva CRM からMarketo Engageに同期する方法について説明します。 スマートリストとキャンペーンで、呼び出し関連のトリガーおよびフィルターを使用します。
 title: 通話と通話の主要メッセージの同期
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 100%
+source-wordcount: '493'
+ht-degree: 94%
 
 ---
 

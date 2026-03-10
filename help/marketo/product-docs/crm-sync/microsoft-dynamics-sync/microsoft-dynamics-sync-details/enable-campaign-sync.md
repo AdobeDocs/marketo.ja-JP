@@ -1,12 +1,12 @@
 ---
-description: キャンペーン同期の有効化 - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft DynamicsとMarketoの間でキャンペーン同期を有効にする方法を説明します。 管理者のオプションをオンにして、Marketo プログラムが Dynamics キャンペーンと同期されるようにします。
 title: キャンペーン同期の有効化
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '121'
+ht-degree: 80%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360366
-description: 手順 3 / 3 - Marketo と Salesforce の接続（Enterprise／Unlimited）- Marketo ドキュメント - 製品ドキュメント
+description: エンタープライズまたは無制限の最後の手順で、MarketoとSalesforceを接続する方法について説明します。 同期ユーザーセキュリティトークンを取得し、資格情報を設定します。
 title: 手順 3 / 3 - Marketo と Salesforce の接続（Enterprise／Unlimited）
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: f27e0d42161161347cc4c774853fb04e7ccecb5c
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '460'
-ht-degree: 92%
+source-wordcount: '469'
+ht-degree: 88%
 
 ---
 
@@ -106,5 +106,5 @@ Marketo の最も強力な機能の 1 つの設定が完了しました。
 >
 >* [手順 1 / 3：Marketo フィールドの  [!DNL Salesforce]  への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [手順 2 / 3：Marketo の  [!DNL Salesforce]  ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [&#x200B; [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) での Marketo セールスインサイトパッケージのインストール
->* [&#x200B; [!DNL Salesforce]  Enterprise／Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) での Marketo セールスインサイトの設定
+>* [ [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) での Marketo セールスインサイトパッケージのインストール
+>* [ [!DNL Salesforce]  Enterprise／Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) での Marketo セールスインサイトの設定
