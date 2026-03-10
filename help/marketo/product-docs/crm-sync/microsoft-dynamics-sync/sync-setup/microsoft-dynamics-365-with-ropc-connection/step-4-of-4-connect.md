@@ -112,4 +112,4 @@ ht-degree: 94%
 
 >[!MORELIKETHIS]
 >
->[ [!DNL Dynamics]  認証方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)の再設定
+>[&#x200B; [!DNL Dynamics]  認証方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)の再設定

@@ -15,8 +15,8 @@ ht-degree: 94%
 
 >[!PREREQUISITES]
 >
->* [ [!DNL Microsoft Dynamics]  2015 オンプレミス向け Marketo インストール手順 1／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
->* [ [!DNL Microsoft Dynamics]  2015 オンプレミス向け Marketo インストール手順 2／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
+>* [&#x200B; [!DNL Microsoft Dynamics]  2015 オンプレミス向け Marketo インストール手順 1／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
+>* [&#x200B; [!DNL Microsoft Dynamics]  2015 オンプレミス向け Marketo インストール手順 2／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
 
 >[!NOTE]
 >

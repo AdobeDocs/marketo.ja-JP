@@ -19,4 +19,4 @@ ht-degree: 85%
 * [顧客の削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)フローアクション。これは、MKTO で人物を削除するものですが、`Salesforce` で削除することも選択できます。
 
 * [SFDC から削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md)フローアクション：これは、SFDC  でリードを削除するものですが、Marketo で人物を削除することも選択できます。
-* リードが [!DNL Salesforce] で削除され（Marketo では人物は削除されない）、その後、[ [!DNL Salesforce]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) との同期フローアクションを実行すると、[!DNL Salesforce] で新しいリードが作成されます。
+* リードが [!DNL Salesforce] で削除され（Marketo では人物は削除されない）、その後、[&#x200B; [!DNL Salesforce]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md) との同期フローアクションを実行すると、[!DNL Salesforce] で新しいリードが作成されます。

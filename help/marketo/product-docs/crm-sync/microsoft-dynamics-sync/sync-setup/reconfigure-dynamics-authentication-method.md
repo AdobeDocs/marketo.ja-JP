@@ -56,7 +56,7 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >![](assets/red-x.png) が表示された場合は、その手順に問題があります。問題を特定して修正するには、[ [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照してください。次に、上記の画像のような結果になるまで同期検証手順を再実行します。
+   >![](assets/red-x.png) が表示された場合は、その手順に問題があります。問題を特定して修正するには、[&#x200B; [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照してください。次に、上記の画像のような結果になるまで同期検証手順を再実行します。
 
 1. 「**[!UICONTROL 確認]**」をクリックして続行します。
 

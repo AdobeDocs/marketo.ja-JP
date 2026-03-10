@@ -50,4 +50,4 @@ ht-degree: 82%
 
 **[!UICONTROL SFDC Type]** フィルターを演算子を「[!UICONTROL 空でない]」に設定して使用すると、スマートリスト内の SFDC レコードを除外できます。すべての SFDC レコードでこのフィールドの値が設定されます。
 
-これらの自動アクションは、リードが現在 [Salesforce.com ](https://salesforce.com){target="_blank"} に存在しない場合にのみ発生します。
+これらの自動アクションは、リードが現在 [Salesforce.com &#x200B;](https://salesforce.com){target="_blank"} に存在しない場合にのみ発生します。
