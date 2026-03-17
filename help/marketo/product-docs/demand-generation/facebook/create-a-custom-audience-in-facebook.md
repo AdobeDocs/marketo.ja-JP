@@ -15,12 +15,12 @@ ht-degree: 91%
 
 >[!PREREQUISITES]
 >
->* 管理者セクションで、[ [!DNL Facebook]  カスタムオーディエンスを LaunchPoint サービスとして追加](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}します。
->* [!DNL Facebook] アカウント内で [ [!DNL Facebook] のカスタムオーディエンスの条件に同意](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}します。
+>* 管理者セクションで、[&#x200B; [!DNL Facebook]  カスタムオーディエンスを LaunchPoint サービスとして追加](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"}します。
+>* [!DNL Facebook] アカウント内で [&#x200B; [!DNL Facebook] のカスタムオーディエンスの条件に同意](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"}します。
 
 >[!TIP]
 >
->詳しくは、[ [!DNL Facebook] でのカスタムオーディエンス](https://www.facebook.com/help/341425252616329){target="_blank"}を参照してください。
+>詳しくは、[&#x200B; [!DNL Facebook] でのカスタムオーディエンス](https://www.facebook.com/help/341425252616329){target="_blank"}を参照してください。
 
 1. オーディエンスを作成するリードを含むスマートリストまたは静的リストを探して選択します。
 
@@ -68,4 +68,4 @@ ht-degree: 91%
 
    >[!MORELIKETHIS]
    >
-   >[ [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md) でのカスタムオーディエンスへのリードの追加
+   >[&#x200B; [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md) でのカスタムオーディエンスへのリードの追加

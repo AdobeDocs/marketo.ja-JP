@@ -16,7 +16,7 @@ Adobe Dynamic Chatのジェネレーティブ AI を活用した機能により�
 
 ## 権限 {#permissions}
 
-生成 AI を使用するには、目的のユーザーに適切な [ 権限 ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md) を付与してください。
+生成 AI を使用するには、目的のユーザーに適切な [&#x200B; 権限 &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md) を付与してください。
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -40,25 +40,25 @@ Adobe Dynamic Chatのジェネレーティブ AI を活用した機能により�
 
 ## 質問の生成 {#question-generation}
 
-販売、マーケティング、製品の知識を備えたトレーニングを受けたインターフェイスを使用して、AI 支援による訪問者向け会話で [ インバウンドエクスペリエンスを向上 ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) させます。
+販売、マーケティング、製品の知識を備えたトレーニングを受けたインターフェイスを使用して、AI 支援による訪問者向け会話で [&#x200B; インバウンドエクスペリエンスを向上 &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) させます。
 
 ![](assets/generative-ai-overview-5.png)
 
 ## 回答ライブラリ {#response-library}
 
-ジェネレーティブ AI チャットキャンペーン内で使用するために、すべての事前承認された質問と回答の [ カスタマイズされたコレクションを作成 ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) します。
+ジェネレーティブ AI チャットキャンペーン内で使用するために、すべての事前承認された質問と回答の [&#x200B; カスタマイズされたコレクションを作成 &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) します。
 
 ![](assets/generative-ai-overview-6.png)
 
 ## アクティビティログ {#activity-log}
 
-[ すべてのタスクのリストと ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) タスクに付随する詳細（名前、所有者、タイプ、編集者、タイミングなど）を確認します。
+[&#x200B; すべてのタスクのリストと &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) タスクに付随する詳細（名前、所有者、タイプ、編集者、タイミングなど）を確認します。
 
 ![](assets/generative-ai-overview-7.png)
 
 ## 未回答の質問 {#unanswered-questions}
 
-以前の会話の未回答の質問のリポジトリに基づいて、AI を使用して応答ライブラリの [ 追加の事前承認済み応答を作成 ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) します。
+以前の会話の未回答の質問のリポジトリに基づいて、AI を使用して応答ライブラリの [&#x200B; 追加の事前承認済み応答を作成 &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) します。
 
 ![](assets/generative-ai-overview-8.png)
 
@@ -70,7 +70,7 @@ Adobe Dynamic Chatのジェネレーティブ AI を活用した機能により�
 
 >[!IMPORTANT]
 >
->生成 AI を使用する場合は、[Adobe Experience Cloud生成 AI ユーザーガイドラインに従う必要があります。これにより ](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) 生成 AI を組み込んだAdobe Experience Cloud機能が安全かつ責任ある方法で使用されるようになります。
+>生成 AI を使用する場合は、[Adobe Experience Cloud生成 AI ユーザーガイドラインに従う必要があります。これにより &#x200B;](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) 生成 AI を組み込んだAdobe Experience Cloud機能が安全かつ責任ある方法で使用されるようになります。
 
 ## よくある質問 {#faq}
 

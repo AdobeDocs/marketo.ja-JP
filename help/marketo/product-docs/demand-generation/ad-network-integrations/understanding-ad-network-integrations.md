@@ -45,10 +45,10 @@ ht-degree: 90%
 統合を次のように使用できます。
 
 * [Google  [!DNL AdWords]  を  [!DNL LaunchPoint]  サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [ [!DNL Facebook] でのカスタムオーディエンスへのリードの追加](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [ [!DNL Facebook] でのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [ [!DNL Facebook]  オフラインコンバージョンの設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [ [!DNL LinkedIn]  のオーディエンスセグメントとして Marketo リストまたはスマートリストを使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [&#x200B; [!DNL Facebook] でのカスタムオーディエンスへのリードの追加](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [&#x200B; [!DNL Facebook] でのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [&#x200B; [!DNL Facebook]  オフラインコンバージョンの設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [&#x200B; [!DNL LinkedIn]  のオーディエンスセグメントとして Marketo リストまたはスマートリストを使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |   | オーディエンスデータ | リードの取り込み | オフラインコンバージョン |
 |---|---|---|---|

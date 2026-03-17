@@ -17,8 +17,8 @@ ht-degree: 87%
 
 >[!PREREQUISITES]
 >
->* [ [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成
->* [!DNL Facebook] アカウント内で [ [!DNL Facebook] のカスタムオーディエンスの条件に同意](https://www.facebook.com/ads/manage/customaudiences/tos.php)します。
+>* [&#x200B; [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成
+>* [!DNL Facebook] アカウント内で [&#x200B; [!DNL Facebook] のカスタムオーディエンスの条件に同意](https://www.facebook.com/ads/manage/customaudiences/tos.php)します。
 >
 
 1. 追加するリードを含むスマートリストまたは静的リストを探して選択します。
@@ -50,4 +50,4 @@ ht-degree: 87%
 
    >[!NOTE]
    >
-   >[ [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成
+   >[&#x200B; [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成

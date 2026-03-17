@@ -82,7 +82,7 @@ ht-degree: 92%
 
 >[!TIP]
 >
->[ 会話SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} の動作を参照してください。
+>[&#x200B; 会話SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} の動作を参照してください。
 
 >[!MORELIKETHIS]
 >

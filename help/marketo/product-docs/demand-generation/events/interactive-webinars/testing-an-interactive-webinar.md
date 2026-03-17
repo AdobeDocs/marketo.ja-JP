@@ -18,7 +18,7 @@ ht-degree: 2%
 
 任意のインタラクティブウェビナーをテストウェビナーとして使用できます。 このテストは、10 人以下のホストとプレゼンター（参加者）を追加することで実行できます。
 
-テストウェビナーを作成するワークフローは、インタラクティブウェビナーイベントプログラムの点で [ 他のウェビナーを作成する ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) ワークフローと同じです。 配信に選択した日付を遠い将来に設定することをお勧めします。
+テストウェビナーを作成するワークフローは、インタラクティブウェビナーイベントプログラムの点で [&#x200B; 他のウェビナーを作成する &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) ワークフローと同じです。 配信に選択した日付を遠い将来に設定することをお勧めします。
 
 >[!CAUTION]
 >
