@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352472
-description: Salesforce フィールドのアクセシビリティの編集 — Marketo ドキュメント — 製品ドキュメント
+description: Sales Connect のSalesforce フィールドのアクセシビリティを編集する方法について説明します。 Salesforceで Sales Connect が読み取りまたは書き込むことができるフィールドを制御します。
 title: Salesforce フィールドのアクセシビリティの編集
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 83%
 
 ---
 

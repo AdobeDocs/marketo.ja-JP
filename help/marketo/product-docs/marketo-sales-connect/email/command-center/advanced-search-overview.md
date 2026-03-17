@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356329
-description: 詳細検索の概要 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect Command Center での詳細検索について説明します。 受信者、日付、キャンペーン、その他のフィルターでメールとタスクを検索します。
 title: 詳細検索の概要
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 100%
+source-wordcount: '418'
+ht-degree: 95%
 
 ---
 

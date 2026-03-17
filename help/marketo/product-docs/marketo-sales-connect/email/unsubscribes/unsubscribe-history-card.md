@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746184
-description: 登録解除履歴カード- Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect の購読解除履歴カードについて説明します。 連絡先が登録解除した日時と方法をユーザー詳細ビューで表示します。
 title: 登録解除履歴カード
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 100%
+source-wordcount: '163'
+ht-degree: 87%
 
 ---
 

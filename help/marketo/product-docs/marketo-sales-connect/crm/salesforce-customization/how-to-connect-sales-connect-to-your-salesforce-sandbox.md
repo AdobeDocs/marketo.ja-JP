@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15368205
-description: Sales Connect を Salesforce サンドボックスに接続する方法 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect をSalesforce サンドボックスに接続する方法について説明します。 サンドボックス環境で統合をテスト用に設定します。
 title: Sales Connect を Salesforce サンドボックスに接続する方法
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 100%
+source-wordcount: '144'
+ht-degree: 86%
 
 ---
 

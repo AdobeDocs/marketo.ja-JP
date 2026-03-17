@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45417460
-description: チームメンバーへのタスクの割り当て - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect でチームメンバーにタスクを割り当てる方法について説明します。 コマンドセンターまたはライブフィードからメールまたはコールタスクを委任します。
 title: チームメンバーへのタスクの割り当て
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '131'
+ht-degree: 82%
 
 ---
 

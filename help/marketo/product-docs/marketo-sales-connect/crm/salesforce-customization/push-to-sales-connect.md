@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352477
-description: ' [!DNL Sales Connect]  にプッシュ - Marketo ドキュメント - 製品ドキュメント'
+description: Salesforceの「Push to Sales Connect」ボタンの使用方法を説明します。 Salesforceから Sales Connect にリードや連絡先をワンクリックで追加できます。
 title: ' [!DNL Sales Connect] にプッシュ'
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 87%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13796471
-description: ライブフィードの概要 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect のライブフィードについて説明します。 マーケティングおよびセールスから、メールおよびコンテンツに関するリアルタイムのエンゲージメントを表示します。
 title: ライブフィードの概要
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 100%
+source-wordcount: '402'
+ht-degree: 95%
 
 ---
 

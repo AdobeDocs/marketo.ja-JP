@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352403
-description: 追加的な管理者 — Marketo ドキュメント — 製品ドキュメント
+description: Sales Connect の追加の管理者とチーム管理について説明します。
 title: 追加的な管理者
 exl-id: 57c0024b-6b36-4b1c-bcee-b1dbb9fdb57d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 100%
+source-wordcount: '53'
+ht-degree: 81%
 
 ---
 

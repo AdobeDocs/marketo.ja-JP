@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352503
-description: 共有テンプレート - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect の共有テンプレートについて説明します。 チームまたは特定のチームとテンプレートを共有し、編集できるユーザーを制御します。
 title: 共有テンプレート
 exl-id: 9640c9a6-00fc-4a7d-8366-f04f2b2483e4
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '102'
+ht-degree: 80%
 
 ---
 

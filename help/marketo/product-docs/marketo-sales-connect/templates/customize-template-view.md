@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352629
-description: テンプレート表示をカスタマイズする -  Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect でテンプレートビューをカスタマイズする方法を説明します。 テンプレートリストに表示する列とフィルターを変更します。
 title: テンプレート表示をカスタマイズする
 exl-id: 893cb1ad-f0b9-4829-b1c7-8acda62986f9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '73'
+ht-degree: 73%
 
 ---
 

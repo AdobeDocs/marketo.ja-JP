@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352538
-description: テストメールが表示済みとされていない — Marketo ドキュメント — 製品ドキュメント
+description: テストメールが Sales Connect に表示されるとおりに表示されなかった場合にヘルプを表示します。 テストまたはプレビュー送信のビュートラッキングのトラブルシューティング。
 title: テストメールが表示済みとされていない
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 100%
+source-wordcount: '154'
+ht-degree: 85%
 
 ---
 

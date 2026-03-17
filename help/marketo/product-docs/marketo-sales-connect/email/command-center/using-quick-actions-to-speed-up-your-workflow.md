@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37357306
-description: クイックアクションを使用したワークフローのスピードアップ - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect でクイックアクションを使用してワークフローを高速化する方法を説明します。 Command Center からワンクリックで一般的なタスクを完了します。
 title: クイックアクションを使用したワークフローのスピードアップ
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 100%
+source-wordcount: '341'
+ht-degree: 93%
 
 ---
 

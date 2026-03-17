@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352592
-description: 動的フィールドの挿入方法 — Marketo ドキュメント — 製品ドキュメント
+description: Sales Connect テンプレートに動的フィールドを挿入する方法を説明します。 テンプレートエディターで、名、会社、その他の結合フィールドを追加します。
 title: 動的フィールドの挿入方法
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 100%
+source-wordcount: '242'
+ht-degree: 90%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13796464
-description: Sales Connect の概要 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Sales Connect と、セールスサイクル全体でのエンゲージメントを促進する方法について説明します。 ライブフィード、ユーザーの詳細およびキャンペーンを使用して、販売とマーケティングを結び付けます。
 title: Sales Connect の概要
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 100%
+source-wordcount: '254'
+ht-degree: 89%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352537
-description: メールの添付ファイルのトラック方法 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect でメールの添付ファイルをトラッキングする方法を説明します。 添付ファイルをトラッキング可能にして、受信者が開いたタイミングやダウンロードしたタイミングを確認します。
 title: メールの添付ファイルのトラック方法
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 100%
+source-wordcount: '168'
+ht-degree: 88%
 
 ---
 

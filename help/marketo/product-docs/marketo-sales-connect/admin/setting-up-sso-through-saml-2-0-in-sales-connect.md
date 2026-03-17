@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352405
-description: ' [!DNL Sales Connect]  で SAML 2.0 を使用した SSO の設定 - Marketo ドキュメント - 製品ドキュメント'
+description: Sales Connect の SAML 2.0 を使用した SSO の設定方法を説明します。 SSO プロバイダーと一意のドメインの要件と設定手順を取得します。
 title: ' [!DNL Sales Connect] で SAML 2.0 を使用した SSO の設定'
 exl-id: aab80626-d6d1-4194-9733-09c90c0b49a6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 100%
+source-wordcount: '265'
+ht-degree: 91%
 
 ---
 
@@ -25,7 +25,7 @@ SAML 2.0 仕様で SSO をサポートしています。ただし、現時点で
 * Marketo Sales Connect サブスクリプション
 * SSO アカウントからの metadata.xml（イシュー URL、検証用のエンドポイント、公開鍵）
 
-## セットアップ {#setup}
+## 設定 {#setup}
 
 チームの SSO インスタンスの metadata.xml には、発行者 URL、検証用のエンドポイント、および公開鍵が含まれている必要があります。
 

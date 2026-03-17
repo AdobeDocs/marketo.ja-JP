@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352444
-description: Sales Connect ツールバー -  Marketo ドキュメント - 製品ドキュメント
+description: Gmail の Sales Connect ツールバーについて説明します。 プラグインツールバーを使用して、テンプレートの挿入、メールの追跡、Salesforceへのログインを行います。
 title: Sales Connect ツールバー
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '113'
+ht-degree: 80%
 
 ---
 

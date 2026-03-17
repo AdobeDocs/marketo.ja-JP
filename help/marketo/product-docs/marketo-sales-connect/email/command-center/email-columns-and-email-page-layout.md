@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37357302
-description: メール列とメールページのレイアウト - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect のメール列とメールページレイアウトについて説明します。 コマンドセンターとメールビューに表示する列をカスタマイズします。
 title: メール列とメールページのレイアウト
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '521'
-ht-degree: 100%
+source-wordcount: '532'
+ht-degree: 96%
 
 ---
 

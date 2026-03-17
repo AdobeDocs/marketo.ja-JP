@@ -1,12 +1,12 @@
 ---
-description: 新しい Sales Connect インスタンスへのアクセス - Marketo ドキュメント - 製品ドキュメント
+description: 新しい Sales Connect インスタンスにアクセスする方法を説明します。 Marketo管理者が Sales Connect へのアクセス権を付与するためのプロビジョニング手順を説明します。
 title: 新しい Sales Connect インスタンスへのアクセス
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 83%
 
 ---
 

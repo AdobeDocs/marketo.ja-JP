@@ -1,12 +1,12 @@
 ---
-description: セールスアクティビティ用語集 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect 販売アクティビティの利用条件について説明します。 この用語集は、MarketoとSalesforceに同期するアクティビティタイプに使用します。
 title: セールスアクティビティ用語集
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '585'
-ht-degree: 100%
+source-wordcount: '597'
+ht-degree: 96%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352507
-description: Sales Connect の iPhone または Android アプリについて- Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect にiPhoneアプリとAndroidアプリのどちらを使用するかを説明します。 モバイルアクセスとサポートされているデバイスについて説明します。
 title: Sales Connect の iPhone または Android アプリについて
 exl-id: 94f1106a-69fe-44ea-bb57-beba51cee576
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 100%
+source-wordcount: '54'
+ht-degree: 66%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30081307
-description: 人物ページの列 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect の人物ページ列について説明します。 必要な連絡先情報を表示するために、表示する列をカスタマイズします。
 title: 人物ページの列
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 100%
+source-wordcount: '308'
+ht-degree: 93%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
-description: 通知 - Websocket 接続 - Marketo ドキュメント – 製品ドキュメント
+description: Websocket 接続を確立できません通知を受信したMarketo Engage ユーザーの通知の詳細
 title: 通知 - Websocket 接続
 hide: true
 hidefromtoc: true
 exl-id: 00c754f8-3850-4209-803d-5cdb108dc6dc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 86%
 
 ---
 

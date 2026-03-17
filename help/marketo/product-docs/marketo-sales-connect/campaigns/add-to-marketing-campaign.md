@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745611
-description: マーケティング キャンペーンへの追加 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect からMarketo マーケティングキャンペーンに個人またはグループを追加する方法について説明します。 ワークスペースを選択した状態で、「人物」タブと「マーケティングキャンペーン」オプションを使用します。
 title: マーケティングキャンペーンへの追加
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 92%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352423
-description: Sales Connect アカウントの Salesforce への接続 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect アカウントをSalesforceに接続する方法を説明します。 Salesforceへのメール、電話およびタスクのログ記録を有効にします。
 title: Sales Connect アカウントの Salesforce への接続
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 100%
+source-wordcount: '137'
+ht-degree: 86%
 
 ---
 

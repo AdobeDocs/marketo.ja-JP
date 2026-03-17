@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352402
-description: ユーザーの招待 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect アカウントにユーザーを招待する方法を説明します。 設定とユーザー管理でチームメンバーを追加し、クイックオンボーディングを実現します。
 title: ユーザーの招待
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 72%
 
 ---
 

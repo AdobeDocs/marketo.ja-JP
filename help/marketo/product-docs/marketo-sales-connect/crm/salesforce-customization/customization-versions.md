@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746655
-description: カスタマイズのバージョン — Marketo ドキュメント — 製品ドキュメント
+description: Salesforceの Sales Connect カスタマイズバージョンについて説明します。 バージョン履歴と、カスタマイズを更新またはロールバックする方法を説明します。
 title: カスタマイズのバージョン
 exl-id: 4ca3e330-0d3f-428b-a2a4-19bce63ca08c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 75%
 
 ---
 

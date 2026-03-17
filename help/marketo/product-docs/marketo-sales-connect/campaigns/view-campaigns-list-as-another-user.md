@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317367
-description: キャンペーンリストを別のユーザとして表示 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect でキャンペーンリストを別のユーザーとして表示する方法を説明します。 名前を付けて表示ドロップダウンを管理者として使用して、ユーザーのキャンペーンを表示できます。
 title: キャンペーンリストを別のユーザとして表示
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 73%
 
 ---
 

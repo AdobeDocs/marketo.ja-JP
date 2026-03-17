@@ -1,12 +1,12 @@
 ---
-description: Salesforce に通話理由と通話結果を記録 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect からSalesforceに通話理由と通話結果を記録する方法を説明します。 コールディスポジションが正しいSalesforce フィールドに同期していることを確認します。
 title: Salesforce に通話理由と通話結果を記録
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '449'
-ht-degree: 100%
+source-wordcount: '460'
+ht-degree: 95%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
-1. カスタムフィールドに、上で定義した名前を付けます。フィールドの長さの上限は 255 文字です。フィールドラベルは、セールスチームが表示できるフィールドで、チームのニーズに合わせてカスタマイズできます。
+1. カスタムフィールドに、上で定義したフィールド名を付けます。フィールドの長さの上限は 255 文字です。フィールドラベルは、セールスチームが表示できるフィールドで、チームのニーズに合わせてカスタマイズできます。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 

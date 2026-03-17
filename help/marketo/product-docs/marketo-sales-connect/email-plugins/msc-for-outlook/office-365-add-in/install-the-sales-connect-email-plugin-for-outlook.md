@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352455
-description: Outlook 用 Sales Connect メールプラグインのインストール - Marketo ドキュメント - 製品ドキュメント
+description: Outlook 用の Sales Connect メールプラグインのインストール方法を説明します。 このプラグインを追加すると、追跡されたメールを送信し、Outlook のテンプレートを使用できます。
 title: Outlook 用 Sales Connect メールプラグインのインストール
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 100%
+source-wordcount: '197'
+ht-degree: 88%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->Gmail および Outlook 用メールプラグインは、Marketo Sales Connect ユーザのみがサポートされます。これらは、Sales Insight アクションユーザにはサポート&#x200B;**されません**。
+>Gmail および Outlook 用メールプラグインは、Marketo Sales Connect ユーザのみがサポートされます。これらは、セールスインサイトアクションユーザにはサポート&#x200B;**されません**。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 100%
 >
 >i. 「ヘルプ」ボタン（上部のナビゲーションで「Outlook」の右にある）に移動します。
 >
->ii.ドロップダウンメニューで「**[!UICONTROL 更新を確認]**」を選択します。
+>ii. ドロップダウンメニューで「**[!UICONTROL 更新を確認]**」を選択します。
 >
 >iii.Outlook の最新バージョンに更新し、完了したら上記の手順に戻ります。
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352482
-description: 返信トラッキングの動作方法 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect での返信トラッキングの仕組みを理解します。 返信を検出し、SalesforceまたはMarketoに記録する方法について説明します。
 title: 返信トラッキングの動作方法
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 77%
+source-wordcount: '174'
+ht-degree: 67%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352545
-description: Gmail での予期しないエラー — Marketo ドキュメント — 製品ドキュメント
+description: Sales Connect Gmail プラグインで予期しないエラーが発生した場合は、お問い合わせください。 接続エラーとプラグインエラーのトラブルシューティング。
 title: Gmail での予期しないエラー
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '101'
+ht-degree: 81%
 
 ---
 

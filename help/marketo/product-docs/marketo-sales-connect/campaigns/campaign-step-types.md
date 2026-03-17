@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746690
-description: キャンペーンのステップの種類 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect でのキャンペーン手順のタイプについて説明します。 メール、電話、InMail またはカスタムタスクの手順を追加して、マルチチャネルキャンペーンを作成します。
 title: キャンペーンのステップの種類
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 100%
+source-wordcount: '193'
+ht-degree: 89%
 
 ---
 

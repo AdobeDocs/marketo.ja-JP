@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745825
-description: Sales Connect と GDPR への準拠 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect と GDPR への準拠について説明します。 Sales Connect がデータのプライバシーと同意要件をどのようにサポートするかを理解します。
 title: Sales Connect と GDPR への準拠
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1355'
-ht-degree: 95%
+source-wordcount: '1363'
+ht-degree: 94%
 
 ---
 
@@ -32,7 +32,7 @@ GDPR は、次の 6 つの主要な原則に基づいて構成されています
 
 ## 誰に適用されますか？ {#to-whom-does-it-apply}
 
-GDPR は、EU 内または EEA 外で、EU 内のデータ主体に対するマーケティング商品やサービスを行っている、または EU 内のデータ主体の行動を追跡している組織に適用されます。ヨーロッパで個人データの処理を伴うデータ主体と取引を行う場合、この法律が適用されます。規制違反者に対する大規模な罰金を科し、コンプライアンス違反に対する罰則は重要です。1 回の違反に対する最大罰金は、2,000 万ユーロまたは世界的年間売上高の 4%のいずれか大きい方です。
+GDPR は、EU 内または EEA 外で、EU 内のデータ主体に対するマーケティング商品やサービスを行っている、または EU 内のデータ主体の行動を追跡している組織に適用されます。 ヨーロッパで個人データの処理を伴うデータ主体と取引を行う場合、この法律が適用されます。 規制違反者に対する大規模な罰金を科し、コンプライアンス違反に対する罰則は重要です。1 回の違反に対する最大罰金は、2,000 万ユーロまたは世界的年間売上高の 4%のいずれか大きい方です。
 
 ## マーケティングに対する影響 {#implications-for-marketing}
 

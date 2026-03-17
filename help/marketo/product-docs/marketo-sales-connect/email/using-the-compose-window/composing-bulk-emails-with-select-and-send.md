@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356578
-description: 「選択して送信」による一括メールの作成 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect で Select と Send を使用して一括メールを作成する方法を説明します。 パーソナライゼーションを使用して、複数の連絡先に同じメールを送信します。
 title: 「選択して送信」による一括メールの作成
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 100%
+source-wordcount: '415'
+ht-degree: 94%
 
 ---
 

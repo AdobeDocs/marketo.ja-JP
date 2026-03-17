@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746167
-description: 登録解除グループ - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect の登録解除グループについて説明します。 グループ別に購読解除を整理し、どのキャンペーンがどのオプトアウトを尊重するかを制御します。
 title: 登録解除グループ
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '72'
+ht-degree: 76%
 
 ---
 

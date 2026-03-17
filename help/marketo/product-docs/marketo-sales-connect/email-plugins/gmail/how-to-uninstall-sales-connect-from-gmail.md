@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352548
-description: Gmail からの Sales Connect のアンインストール方法 - Marketo ドキュメント - 製品ドキュメント
+description: Gmail から Sales Connect プラグインをアンインストールする方法を説明します。 必要に応じて、Gmail アカウントからプラグインを削除します。
 title: Gmail からの Sales Connect のアンインストール方法
 exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 76%
 
 ---
 

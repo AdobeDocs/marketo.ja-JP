@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15368214
-description: Salesforce を Sales Connect アカウントから切断 - Marketo Docs - 製品ドキュメント
+description: Salesforceを Sales Connect アカウントから切断する方法を説明します。
 title: Salesforce を Sales Connect アカウントから切断
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '99'
+ht-degree: 89%
 
 ---
 

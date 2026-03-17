@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352408
-description: サーバーで Sales Connect を許可リストに加える方法を教えてください。- Marketo ドキュメント - 製品ドキュメント
+description: サーバで Sales Connect を許可リストに加えるする方法を説明します。 Sales Connect が E メールを送信および追跡できるように、必要な IP またはドメインを追加します。
 title: サーバーで Sales Connect を許可リストに加える方法を教えてください。
 exl-id: ae35bf20-d708-4fc8-bd11-6427bacd965b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '78'
+ht-degree: 71%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352410
-description: 電子メール署名の追加 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect でメール署名を追加する方法を説明します。 Web アプリまたはプラグインから送信される販売メールのデフォルト署名を設定します。
 title: 電子メール署名の追加
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '126'
+ht-degree: 80%
 
 ---
 

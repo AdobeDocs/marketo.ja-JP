@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352468
-description: CSV を使用した取引先責任者のインポート - Marketo ドキュメント - 製品ドキュメント
+description: CSV を使用して Sales Connect に連絡先をインポートする方法を説明します。 CSV ファイルをアップロードして、複数の連絡先やグループを一度に追加します。
 title: CSV を使用した取引先責任者のインポート
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 100%
+source-wordcount: '134'
+ht-degree: 83%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15368208
-description: Salesforce サンドボックスにカスタマイズ機能をインストールする方法 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforce サンドボックスに Sales Connect カスタマイズをインストールする方法を説明します。 ボタンとフィールドをテスト用にサンドボックスにデプロイします。
 title: Salesforce サンドボックスにカスタマイズ機能をインストールする方法
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 76%
 
 ---
 

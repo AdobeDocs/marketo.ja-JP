@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352510
-description: 推奨テンプレート - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect の推奨テンプレートについて説明します。 どのテンプレートが最適なエンゲージメントを得られるかを確認し、アウトリーチに使用します。
 title: 推奨テンプレート
 exl-id: 77356b26-ac9d-47c3-8547-1ab1009f6ca6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 100%
+source-wordcount: '335'
+ht-degree: 94%
 
 ---
 

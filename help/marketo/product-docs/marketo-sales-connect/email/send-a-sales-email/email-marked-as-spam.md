@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352525
-description: スパムとしてマークされたメール - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect の電子メールがスパムとしてマークされた場合のサポートを受けられます。 スパムの苦情を減らし、配信品質を向上させる方法を説明します。
 title: スパムとしてマークされたメール
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 100%
+source-wordcount: '231'
+ht-degree: 91%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352438
-description: セールス電話の概要 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect の Sales Phone について説明します。 アプリから呼び出しを行い、Salesforceにログインし、通話記録とローカルプレゼンスを使用します。
 title: セールス電話の概要
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 100%
+source-wordcount: '312'
+ht-degree: 92%
 
 ---
 

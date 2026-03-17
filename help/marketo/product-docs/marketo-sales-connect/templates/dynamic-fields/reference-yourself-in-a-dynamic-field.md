@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352601
-description: 動的フィールドでの自己参照 — Marketo ドキュメント — 製品ドキュメント
+description: Sales Connect の動的フィールドで自分自身を参照する方法を説明します。 テンプレートのパーソナライゼーションで送信者の名前または詳細を使用します。
 title: 動的フィールドでの自己参照
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 78%
 
 ---
 

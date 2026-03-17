@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352478
-description: トラッキングアクティビティが表示されない - Marketo ドキュメント - 製品ドキュメント
+description: Salesforceで Sales Connect トラッキングアクティビティが表示されない場合にヘルプを表示します。 メールや通話がSalesforceにログに記録されない可能性がある理由のトラブルシューティング。
 title: トラッキングアクティビティが表示されない
 exl-id: 8f3f6506-9367-4f08-84ef-636adf06e00d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 72%
 
 ---
 

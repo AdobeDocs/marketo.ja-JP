@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352608
-description: キャンペーンからリードを削除する — Marketo ドキュメント — 製品ドキュメント
+description: Sales Connect キャンペーンからユーザーを削除する方法を説明します。 キャンペーンまたは人物ページから個人を削除したり、グループを一括で削除したりできます。
 title: キャンペーンからリードを削除する
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 100%
+source-wordcount: '286'
+ht-degree: 91%
 
 ---
 

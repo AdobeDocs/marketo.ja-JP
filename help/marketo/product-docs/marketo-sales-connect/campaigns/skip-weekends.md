@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352622
-description: 週末のスキップ - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect キャンペーンを自動化する際に週末をスキップする方法を説明します。 キャンペーンのメールが土曜日や日曜日に送信されないようにします。
 title: 週末のスキップ
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 100%
+source-wordcount: '80'
+ht-degree: 76%
 
 ---
 

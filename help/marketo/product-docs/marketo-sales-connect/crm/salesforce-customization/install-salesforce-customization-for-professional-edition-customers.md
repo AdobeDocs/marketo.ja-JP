@@ -1,13 +1,13 @@
 ---
 unique-page-id: 27656223
-description: Professional Edition 顧客向け  [!DNL Salesforce]  カスタマイズのインストール - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect Salesforce customization for Professional Edition のインストール方法を説明します。 Salesforce PE を使用する場合は、カスタマイズを設定します。
 title: Professional Edition 顧客向け  [!DNL Salesforce]  カスタマイズのインストール
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 100%
+source-wordcount: '228'
+ht-degree: 92%
 
 ---
 

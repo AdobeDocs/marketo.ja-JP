@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352540
-description: セルフビューの防止 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect でセルフビューを防ぐ方法を説明します。 メールのプレビューやテストを行う際に独自の開封数をカウントすることは避けます。
 title: セルフビューの防止
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 100%
+source-wordcount: '307'
+ht-degree: 93%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352504
-description: テンプレートエンゲージメント — Marketo ドキュメント — 製品ドキュメント
+description: Sales Connect でのテンプレートのエンゲージメントを理解します。 Analytics で最も多くのビュー数、クリック数および返信数を取得したテンプレートを表示します。
 title: テンプレートエンゲージメント
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 90%
 
 ---
 

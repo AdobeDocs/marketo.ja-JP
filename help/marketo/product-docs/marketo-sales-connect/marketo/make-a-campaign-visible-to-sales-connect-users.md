@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745655
-description: Sales Connect ユーザにキャンペーンを表示 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo キャンペーンを Sales Connect ユーザーに表示する方法を説明します。 販売者が Sales Connect からリードを追加できるように、マーケティングキャンペーンを共有します。
 title: Sales Connect ユーザにキャンペーンを表示
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 100%
+source-wordcount: '124'
+ht-degree: 81%
 
 ---
 

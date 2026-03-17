@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352490
-description: Salesforce に記録されなかった - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect アクティビティがSalesforceにログインしなかった場合のヘルプを表示します。 メール、呼び出しまたはタスクが同期されない理由のトラブルシューティング。
 title: Salesforce に記録されなかった
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 100%
+source-wordcount: '88'
+ht-degree: 77%
 
 ---
 

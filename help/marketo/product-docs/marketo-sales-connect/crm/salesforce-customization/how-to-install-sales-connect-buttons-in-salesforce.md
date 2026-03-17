@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352473
-description: Salesforce に Sales Connect ボタンをインストールする方法 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforceに Sales Connect ボタンをインストールする方法を説明します。 「Push to Sales Connect」ボタンおよびその他のボタンをSalesforce レイアウトに追加します。
 title: Salesforce に Sales Connect ボタンをインストールする方法
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 84%
 
 ---
 

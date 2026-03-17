@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352488
-description: 取引先責任者を削除できない理由- Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect で連絡先を削除できない場合は、お問い合わせください。 アクセス許可と、いつ連絡先が削除からロックされるかを説明します。
 title: 取引先責任者を削除できない理由
 exl-id: 28218879-240e-450e-990d-1c2af0a74dc3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 80%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352436
-description: 営業電話のローカルプレゼンス - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect における Sales Phone のローカル・プレゼンスについて説明します。 応答率を向上させるために発信呼び出しを行う際に、ローカルの発信者 ID を表示します。
 title: 営業電話のローカルプレゼンス
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '153'
+ht-degree: 85%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Salesforce アクティビティ詳細のカスタマイズの設定 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect 用にSalesforce アクティビティの詳細をカスタマイズする方法を説明します。 Salesforceでのアクティビティの表示方法をカスタマイズします。
 title: Salesforce アクティビティ詳細のカスタマイズの設定
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '675'
-ht-degree: 100%
+source-wordcount: '683'
+ht-degree: 97%
 
 ---
 

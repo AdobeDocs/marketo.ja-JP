@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352612
-description: キャンペーンのスケジュール - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect キャンペーンをスケジュールする方法を説明します。 各メールステップの送信時間を設定するか、ユーザーを追加する際に最初のメールと同じ時間を使用します。
 title: キャンペーンのスケジュール
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 100%
+source-wordcount: '192'
+ht-degree: 85%
 
 ---
 

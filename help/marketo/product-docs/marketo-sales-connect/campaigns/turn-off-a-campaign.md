@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352609
-description: キャンペーンの無効化 - Marketo ドキュメント - 製品ドキュメント
+description: 受信者からの返信時に Sales Connect キャンペーンをオフにする方法を説明します。 1 人のユーザーに対するキャンペーンを終了するか、送信済みフォルダーから複数のユーザーを一括で削除します。
 title: キャンペーンの無効化
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 100%
+source-wordcount: '162'
+ht-degree: 82%
 
 ---
 

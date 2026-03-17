@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352434
-description: Sales Phone での国際通話 - Marketo ドキュメント — 製品ドキュメント
+description: Sales Connect での Sales Phone の国際通話について説明します。 国際電話の発信と記録、およびサポート対象の国を確認します。
 title: Sales Phone での国際通話
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 100%
+source-wordcount: '409'
+ht-degree: 95%
 
 ---
 

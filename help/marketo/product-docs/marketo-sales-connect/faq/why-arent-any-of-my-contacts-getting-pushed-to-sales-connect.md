@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352486
-description: Sales Connect に連絡先がプッシュされない理由- Marketo ドキュメント - 製品ドキュメント
+description: Salesforceから Sales Connect にプッシュされる連絡先がない場合は、お問い合わせください。 接続および同期設定のトラブルシューティング
 title: Sales Connect に連絡先がプッシュされない理由
 exl-id: a3659c14-356b-4b25-8aa7-251fd213290b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 77%
 
 ---
 

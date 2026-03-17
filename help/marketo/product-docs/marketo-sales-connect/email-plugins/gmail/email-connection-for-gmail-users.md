@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17728401
-description: Gmail ユーザのメール接続 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect での Gmail ユーザーのメール接続について説明します。 Gmail を接続して、トラッキング対象のメールとログのアクティビティをSalesforceに送信します。
 title: Gmail ユーザのメール接続
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 100%
+source-wordcount: '193'
+ht-degree: 89%
 
 ---
 

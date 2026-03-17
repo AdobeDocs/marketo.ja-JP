@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352553
-description: Sales Connect と Highspot の統合について- Marketo ドキュメント — 製品ドキュメント
+description: Sales Connect と Highspot の統合について説明します。 販売メールに Highspot のコンテンツを添付し、エンゲージメントを追跡します。
 title: Sales Connect と Highspot の統合について
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 100%
+source-wordcount: '192'
+ht-degree: 91%
 
 ---
 

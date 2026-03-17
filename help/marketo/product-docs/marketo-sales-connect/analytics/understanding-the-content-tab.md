@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352615
-description: 「コンテンツ」タブについて - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect の「コンテンツ」タブとテンプレートエンゲージメント指標について理解します。 秘密兵器、最高および最低のエンゲージメントテンプレート、トップの添付ファイルを表示します。
 title: 「コンテンツ」タブについて
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 100%
+source-wordcount: '199'
+ht-degree: 88%
 
 ---
 

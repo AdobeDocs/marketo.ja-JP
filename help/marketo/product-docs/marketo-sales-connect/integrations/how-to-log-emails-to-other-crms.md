@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352430
-description: 他の CRM へのメールを記録する方法 — Marketo ドキュメント — 製品ドキュメント
+description: Salesforce以外の CRM に Sales Connect のメールを記録する方法を説明します。 CRM にアクティビティを記録するためのオプションを取得します。
 title: 他の CRM へのメールを記録する方法
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 100%
+source-wordcount: '166'
+ht-degree: 87%
 
 ---
 

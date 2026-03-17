@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352621
-description: 送信オプションについて - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect でのキャンペーンメール手順の送信オプションについて説明します。 送信するタイミングを選択したり、自分で送信するタスクを作成したり、以前のメールにスレッド メールを送信したりできます。
 title: 送信オプションについて
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '601'
-ht-degree: 100%
+source-wordcount: '620'
+ht-degree: 95%
 
 ---
 

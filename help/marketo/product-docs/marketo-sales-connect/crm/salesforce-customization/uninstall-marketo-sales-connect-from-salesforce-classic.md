@@ -1,17 +1,17 @@
 ---
-description: Salesforce Classic からの Marketo Sales Connect のアンインストール - Marketo ドキュメント - 製品ドキュメント
+description: Salesforce Classic からMarketo Sales Connect をアンインストールする方法について説明します。 Classic から Sales Connect のカスタマイズとボタンを削除します。
 title: Salesforce Classic からの Marketo Sales Connect のアンインストール
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1186'
-ht-degree: 100%
+source-wordcount: '1193'
+ht-degree: 98%
 
 ---
 
 # Salesforce Classic からの Marketo Sales Connect のアンインストール {#uninstall-marketo-sales-connect-from-salesforce-classic}
 
-以下に、Sales Insight Actions の使用を開始した後で Salesforce アカウントから Marketo Sales Connect パッケージをアンインストールする方法を示します。
+以下に、セールスインサイトアクションの使用を開始した後で Salesforce アカウントから Marketo Sales Connect パッケージをアンインストールする方法を示します。
 
 ## ページレイアウトから [!DNL Sales Connect] フィールドを削除 {#remove-sales-connect-fields-from-page-layout}
 

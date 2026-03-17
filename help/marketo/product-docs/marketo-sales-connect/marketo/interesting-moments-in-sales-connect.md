@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30082174
-description: Sales Connect での注目のアクション - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect とMarketoの興味深い瞬間を理解します。 販売アクティビティがライブフィードに流れる瞬間を生み出す方法を説明します。
 title: Sales Connect の注目のアクション
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '274'
-ht-degree: 100%
+source-wordcount: '285'
+ht-degree: 92%
 
 ---
 

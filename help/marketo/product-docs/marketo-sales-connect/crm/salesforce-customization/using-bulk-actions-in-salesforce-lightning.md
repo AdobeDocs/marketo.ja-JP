@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762825
-description: Salesforce Lightning での一括アクションの使用 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforce Lightning と Sales Connect で一括アクションを使用する方法を説明します。 複数のリードまたは連絡先を一度に Sales Connect にプッシュします。
 title: Salesforce Lightning での一括アクションの使用
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 74%
+source-wordcount: '401'
+ht-degree: 69%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 74%
 >
 >[!DNL Sales Connect] パッケージの最新バージョンに更新し、リード/連絡先ビューに一括アクションボタンをインストールします。
 >
->* [&#x200B; 英語の指示 &#x200B;](assets/sf-guide-for-lightning-en.pdf)
->* [&#x200B; 日本語の指示 &#x200B;](assets/sf-guide-for-lightning-ja.pdf)
+>* [ 英語の指示 ](assets/sf-guide-for-lightning-en.pdf)
+>* [ 日本語の指示 ](assets/sf-guide-for-lightning-ja.pdf)
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ ht-degree: 74%
 
 1. MSC メールがポップアップ表示されます。次の機能が含まれます。
 
-   a. 「[!UICONTROL &#x200B; 宛先 &#x200B;]」フィールドに「すべての入金」と表示されます。これは、「リード・リスト表示」で選択したリードのリストに対応します
+   a. 「[!UICONTROL  宛先 ]」フィールドに「すべての入金」と表示されます。これは、「リード・リスト表示」で選択したリードのリストに対応します
 b.このリストは、「一括作成」と呼ばれる左側のパネルに表示されます。ここで受信者を追加または削除できます
 c. テンプレートを選択するか、独自のメールを作成できます
 d. メールをすぐに送信することも、後で送信するようにスケジュールすることもできます

@@ -1,12 +1,12 @@
 ---
-description: 通話理由 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect の問い合わせ理由を理解します。 を呼び出した理由を設定してログに記録し、Salesforceに正しく結果を同期します。
 title: 通話理由
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '176'
+ht-degree: 89%
 
 ---
 

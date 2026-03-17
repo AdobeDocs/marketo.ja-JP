@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45416564
-description: 通話記録の有効化 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect で通話記録を有効にする方法を説明します。 営業用の電話の録音を有効にし、2 者間の同意に従います。
 title: 通話記録の有効化
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '119'
+ht-degree: 83%
 
 ---
 

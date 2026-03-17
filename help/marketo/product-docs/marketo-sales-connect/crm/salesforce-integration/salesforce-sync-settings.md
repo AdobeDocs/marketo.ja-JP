@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317669
-description: Salesforce 同期設定 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect のSalesforce同期設定を理解します。 Sales Connect とSalesforce間の連絡先、アクティビティ、およびデータの同期方法を設定します。
 title: Salesforce 同期設定
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 100%
+source-wordcount: '436'
+ht-degree: 95%
 
 ---
 

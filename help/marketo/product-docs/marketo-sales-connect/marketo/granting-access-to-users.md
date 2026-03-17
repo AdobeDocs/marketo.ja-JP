@@ -1,12 +1,12 @@
 ---
-description: ユーザーへのアクセス権の付与 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのユーザーに Sales Connect のアクセス権を付与する方法を説明します。 Marketo admin を使用して、Sales Connect をチームにプロビジョニングします。
 title: ユーザーへのアクセス権の付与
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 100%
+source-wordcount: '203'
+ht-degree: 89%
 
 ---
 

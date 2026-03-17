@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746470
-description: カスタム配信チャネルの設定 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect でカスタム配信チャネルを設定する方法について説明します。 販売 E メールには、独自の SMTP または送信インフラストラクチャを使用します。
 title: カスタム配信チャネルの設定
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 100%
+source-wordcount: '398'
+ht-degree: 94%
 
 ---
 

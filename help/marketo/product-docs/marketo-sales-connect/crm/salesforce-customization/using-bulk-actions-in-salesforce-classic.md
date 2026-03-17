@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762794
-description: ' [!DNL Salesforce]  Classic での一括アクションの使用 - Marketo ドキュメント - 製品ドキュメント'
+description: Sales Connect でSalesforce Classic の一括アクションを使用する方法について説明します。 複数のリードまたは連絡先を一度に Sales Connect にプッシュします。
 title: ' [!DNL Salesforce]  Classic での一括アクションの使用'
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 76%
+source-wordcount: '359'
+ht-degree: 71%
 
 ---
 
@@ -35,8 +35,8 @@ ht-degree: 76%
 
 1. MSC メールがポップアップ表示されます。次の機能が含まれます。
 
-   a. 「[!UICONTROL &#x200B; 宛先 &#x200B;]」フィールドに「[!UICONTROL &#x200B; すべての受信者 &#x200B;]」と表示される – これは、リードリスト表示で選択したリードのリストに対応しています
-b.このリストは、「[!UICONTROL &#x200B; 一括作成 &#x200B;]」と呼ばれる左側のパネルに表示されます。ここで受信者を追加/削除できます
+   a. 「[!UICONTROL  宛先 ]」フィールドに「[!UICONTROL  すべての受信者 ]」と表示される – これは、リードリスト表示で選択したリードのリストに対応しています
+b.このリストは、「[!UICONTROL  一括作成 ]」と呼ばれる左側のパネルに表示されます。ここで受信者を追加/削除できます
 c. テンプレートを選択するか、独自のメールを作成できます
 d. メールに入力される動的フィールドをプレビューできます
 e. メールをすぐに送信することも、後で送信するようにスケジュールすることもできます

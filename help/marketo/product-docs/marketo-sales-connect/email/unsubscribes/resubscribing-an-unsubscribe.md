@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746177
-description: 登録解除の再登録 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect のサブスクリプションを解除した連絡先を再登録する方法について説明します。 必要に応じて、販売メールを受信する機能を復元します。
 title: 登録解除の再登録
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 100%
+source-wordcount: '205'
+ht-degree: 90%
 
 ---
 

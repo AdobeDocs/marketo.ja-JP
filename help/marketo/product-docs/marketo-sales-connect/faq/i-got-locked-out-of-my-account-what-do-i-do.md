@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352494
-description: 自分のアカウントから締め出されました。どうすればいいですか？- Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect アカウントからロックアウトされた場合のサポート。 パスワードをリセットする方法を説明するか、サポートに連絡してアクセスを取り戻してください。
 title: 自分のアカウントから締め出されました。どうすればいいですか？
 exl-id: ee6b61f8-24d5-4520-a111-00ece2ba02bc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 100%
+source-wordcount: '71'
+ht-degree: 69%
 
 ---
 

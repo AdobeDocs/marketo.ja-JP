@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352469
-description: Salesforce ID の Sales Connect へのインポート — Marketo ドキュメント — 製品ドキュメント
+description: Salesforce ID を Sales Connect にインポートする方法を説明します。 同期のために、Salesforceレコードを Sales Connect の連絡先にマッピングします。
 title: Salesforce ID の Sales Connect へのインポート
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 100%
+source-wordcount: '149'
+ht-degree: 87%
 
 ---
 

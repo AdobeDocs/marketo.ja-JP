@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45416566
-description: 二者間による同意の設定 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect の通話記録に関する 2 者間の同意設定について説明します。 記録の同意を義務付ける州法に準拠する。
 title: 二者間による同意の設定
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 100%
+source-wordcount: '166'
+ht-degree: 88%
 
 ---
 

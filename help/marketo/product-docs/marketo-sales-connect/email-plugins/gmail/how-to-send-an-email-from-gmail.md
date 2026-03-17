@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352440
-description: Gmail からメールを送信する方法 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect プラグインを使用して Gmail からトラッキング用メールを送信する方法を説明します。 Gmail で作成し、開封数、クリック数、返信数を追跡します。
 title: Gmail からメールを送信する方法
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 100%
+source-wordcount: '147'
+ht-degree: 84%
 
 ---
 

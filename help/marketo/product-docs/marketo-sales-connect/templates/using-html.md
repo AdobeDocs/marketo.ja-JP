@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352594
-description: HTML の使用 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect テンプレートでHTMLを使用する方法について説明します。 テンプレートの書式設定、リンク、詳細なレイアウト用のカスタム HTMLを追加します。
 title: HTML の使用
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 78%
 
 ---
 

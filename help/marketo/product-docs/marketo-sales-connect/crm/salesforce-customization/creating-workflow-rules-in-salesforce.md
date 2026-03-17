@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14745823
-description: Salesforce でのワークフロールールの作成 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforceで Sales Connect アクティビティのワークフロールールを作成する方法を説明します。 Sales Connect が E メールまたはコールを記録する際のアクションを自動化します。
 title: Salesforce でのワークフロールールの作成
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 100%
+source-wordcount: '480'
+ht-degree: 95%
 
 ---
 
 # Salesforce でのワークフロールールの作成 {#creating-workflow-rules-in-salesforce}
 
-Marketo Sales Insight（MSI）と Marketo Sales Connect（MSC）を並行して使用する場合、[!DNL Salesforce] の MSI の最有望見込客機能は更新されません。その他の MSI 機能はすべて通常どおりに動作します（iFrame での注目のアクションの表示、メール送信、キャンペーンへの追加など）。この記事では、最有望見込客を再度機能させるための回避策を示します。
+Marketo セールスインサイト（MSI）と Marketo Sales Connect（MSC）を並行して使用する場合、[!DNL Salesforce] の MSI の最有望見込客機能は更新されません。その他の MSI 機能はすべて通常どおりに動作します（iFrame での注目のアクションの表示、メール送信、キャンペーンへの追加など）。この記事では、最有望見込客を再度機能させるための回避策を示します。
 
 >[!NOTE]
 >

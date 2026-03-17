@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352463
-description: ' [!DNL Salesforce]  への Sales Connect ボタンの追加 - Marketo ドキュメント - 製品ドキュメント'
+description: Salesforceに Sales Connect ボタンを追加する方法を説明します。 Sales Connect アクションにすばやくアクセスするには、Salesforceに [Connect] ボタンを配置します。
 title: Salesforce への Sales Connect ボタンの追加
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 100%
+source-wordcount: '166'
+ht-degree: 87%
 
 ---
 

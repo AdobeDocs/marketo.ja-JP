@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352475
-description: アクティビティ履歴への Sales Connect イベントフィールドのインストール - Marketo ドキュメント - 製品ドキュメント
+description: Salesforceのアクティビティ履歴に Sales Connect のイベントフィールドをインストールする方法を説明します。 カスタムフィールドを追加して Sales Connect イベントを追跡します。
 title: アクティビティ履歴への Sales Connect イベントフィールドのインストール
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 100%
+source-wordcount: '268'
+ht-degree: 92%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: 自動追加登録解除メッセージ設定 – Marketo ドキュメント – 製品ドキュメント
+description: Sales Connect での自動追加登録解除メッセージ設定について説明します。 販売メールに購読解除リンクを自動的に追加します。
 title: 登録解除メッセージの自動追加設定
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 9%
+source-wordcount: '208'
+ht-degree: 8%
 
 ---
 
@@ -36,4 +36,4 @@ ht-degree: 9%
 
 >[!TIP]
 >
->「登録解除メッセージを追加」設定を無効にした場合、通信にオプトアウトオプションが含まれるように、テンプレートに登録解除フッターを追加することをお勧めします。 これを行うには、各テンプレートに独自のカスタムメッセージを追加するか、`{{team_unsubscribe}}` [&#x200B; 動的フィールド &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} を使用します。
+>「登録解除メッセージを追加」設定を無効にした場合、通信にオプトアウトオプションが含まれるように、テンプレートに登録解除フッターを追加することをお勧めします。 これを行うには、各テンプレートに独自のカスタムメッセージを追加するか、`{{team_unsubscribe}}` [ 動的フィールド ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"} を使用します。

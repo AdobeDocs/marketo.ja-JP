@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352437
-description: 通話録音をチームと共有する - Marketo Docs - 製品ドキュメント
+description: Sales Connect の通話記録をチームと共有する方法を説明します。 トレーニングやフォローアップのために、記録された通話にアクセスして共有します。
 title: 通話録音をチームと共有する
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '177'
+ht-degree: 88%
 
 ---
 

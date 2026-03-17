@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352476
-description: タスクの「アクティビティタイプ」フィールド（SFDC）- Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect をSalesforceと同期する際の、タスクの「アクティビティタイプ」フィールドについて説明します。 Salesforceでのタスクタイプのマッピングと表示について説明します。
 title: タスクの「アクティビティタイプ」フィールド（SFDC）
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 100%
+source-wordcount: '268'
+ht-degree: 91%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 「通話（Call）」、「返信（Reply）」、「メール（Email）」がすべて「タスクタイプ」の選択リストに存在する（大文字と小文字の区別）
 * 「タイプ」フィールドの値に対してアクションを実行するワークフローまたはトリガーがない
 
-## セットアップ {#setup}
+## 設定 {#setup}
 
 まず、適切な選択リスト値が設定されていることを確認します。選択リストに変更を加えるには、[!DNL Salesforce] 管理者の支援が必要です。
 

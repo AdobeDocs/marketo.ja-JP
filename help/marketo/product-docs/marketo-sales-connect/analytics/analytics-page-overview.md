@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352416
-description: '[!UICONTROL Analytics] ページの概要 – Marketo ドキュメント – 製品ドキュメント'
+description: Sales Connect Analytics ページとメールエンゲージメントデータについて説明します。 「自分」、「チーム」、「コンテンツ」の各タブにわたる個人およびチームの統計を表示します。
 title: 分析ページの概要
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 73%
+source-wordcount: '397'
+ht-degree: 94%
 
 ---
 
-# [!UICONTROL Analytics] ページの概要 {#analytics-page-overview}
+# [!UICONTROL 分析]ページの概要 {#analytics-page-overview}
 
-「[!UICONTROL Analytics]」タブには、メールのエンゲージメントに関するデータが表示されます。 個人データとチームデータの両方が表示されます。管理者は、「自分 [!UICONTROL &#x200B; タブでユーザーでフィルタリングすることもでき &#x200B;] す。
+「[!UICONTROL 分析]」タブでは、メールのエンゲージメントに関するデータを確認できます。個人データとチームデータの両方が表示されます。管理者は、「[!UICONTROL 自分]」タブでユーザによるフィルタリングも行うことができます。
 
 ## 更新の頻度 {#how-often-does-it-update}
 
@@ -27,21 +27,21 @@ ht-degree: 73%
 
 ## 分析タブ {#analytic-tabs}
 
-統計は、[!UICONTROL Me]、[!UICONTROL Team]、[!UICONTROL Content] の 3 つのタブに分けられます。 それぞれを使用して、アドビが提供するインサイトに関する異なる視点を得ることができます。
+統計は、「[!UICONTROL 自分]」、「[!UICONTROL チーム]」、「[!UICONTROL コンテンツ]」の 3 つのタブに分類されます。それぞれを使用して、アドビが提供するインサイトに関する異なる視点を得ることができます。
 
 分析ページのタブからタブに移動する際に、表示、クリックまたは返信アイコンをクリックして、統計を並べ替えることができます。
 
-[!UICONTROL Me] タブと [!UICONTROL Team] タブには、クローズされた取引に関する情報が表示されます。 この数は、チームのメンバーがクローズする回数によって制御されます。
+「[!UICONTROL 自分]」タブと「[!UICONTROL チーム]」タブには、クローズした取引に関する情報が表示されます。この数は、チームのメンバーがクローズする回数によって制御されます。
 
-## 「[!UICONTROL Me]」タブ {#me-tab}
+## 「[!UICONTROL 自分]」タブ {#me-tab}
 
-[!UICONTROL &#x200B; 自分 &#x200B;] タブは、メール、テンプレート、リンクのエンゲージメントを確認するのに最適な場所です。 [!DNL Sales Connect] の管理者は、チームの任意のユーザーでフィルタリングして、そのユーザーの統計情報を表示できます。
+「[!UICONTROL 自分]」タブは、メール、テンプレート、リンクのエンゲージメントを確認するのに最適です。[!DNL Sales Connect] の管理者は、チーム上の任意のユーザ別にフィルタリングして統計を確認できます。
 
-## [!UICONTROL &#x200B; チーム &#x200B;] タブ {#team-tab}
+## 「[!UICONTROL チーム]」タブ {#team-tab}
 
 チーム全体の統計とランク付けが表示されます。また、作成した任意のサブチームでフィルタリングすることもできます。
 
-## 「[!UICONTROL &#x200B; コンテンツ &#x200B;]」タブ {#content-tab}
+## 「[!UICONTROL コンテンツ]」タブ {#content-tab}
 
 「コンテンツ」タブには、テンプレート、コンテンツおよびリンクに関する統計が含まれます。全員または管理者が作成したチームでフィルターできます。
 

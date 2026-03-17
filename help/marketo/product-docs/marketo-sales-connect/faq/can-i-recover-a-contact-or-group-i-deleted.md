@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352485
-description: 削除した取引先責任者またはグループを復元できますか？- Marketo ドキュメント - 製品ドキュメント
+description: Sales Connect で削除した連絡先またはグループを復元できるかどうかについて説明します。 削除後の回復オプションについて説明します。
 title: 削除した取引先責任者またはグループを復元できますか？
 exl-id: 2d12187b-c64a-431f-aefa-d8ed1c90909c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '89'
+ht-degree: 77%
 
 ---
 
