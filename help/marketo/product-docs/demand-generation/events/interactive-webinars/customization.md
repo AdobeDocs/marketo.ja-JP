@@ -141,4 +141,4 @@ Adobe Connectには、すぐに使用できる 9 つのデフォルトの背景�
 
 * ホストは、部屋作成中にテーマを選択したり、部屋情報ページ（**部屋の上部バー** > **詳細メニュー** > **部屋情報を表示**）からテーマを更新したりできます。
 
-[&#x200B; テーマ &#x200B;](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"} の詳細情報。
+[&#x200B; テーマ &#x200B;](https://helpx.adobe.com/jp/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"} の詳細情報。
