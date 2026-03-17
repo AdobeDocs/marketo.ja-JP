@@ -14,7 +14,7 @@ ht-degree: 16%
 
 この例は、Marketo Engageのデフォルトプログラムを使用して、Marketo Engage ランディングページとMarketo Engage フォームを活用するコンテンツプログラムを作成するように設計されています。 コンテンツ/オファーにアクセスするためのフォームです。 オファーへのリンクは、ありがとうページに表示したり、ありがとうメールで送信したりできます。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

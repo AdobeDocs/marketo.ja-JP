@@ -14,7 +14,7 @@ ht-degree: 16%
 
 これは、Marketo Engageのデフォルトプログラムを使用した、連絡先リクエスト、見積もりリクエスト、デモリクエスト、体験版リクエストフォームに最適なプログラムの例です。 Marketoのランディングページで使用することも、Marketo以外のランディングページに埋め込まれたフォームとして使用することもできます。 フォームの送信時に、指定した個人にアラートメールが送信されます。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 
