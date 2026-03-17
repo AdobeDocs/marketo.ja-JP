@@ -15,7 +15,7 @@ ht-degree: 86%
 
 >[!PREREQUISITES]
 >
->サンドボックスへの接続を確立する際に、[!DNL  Sales Connect] アカウントをあらかじめ [!DNL Salesforce] に接続しておくことはできません。接続している場合、この記事の手順に従う前に、[切断してください](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)。
+>サンドボックスへの接続を確立する際に、[!DNL &#x200B; Sales Connect] アカウントをあらかじめ [!DNL Salesforce] に接続しておくことはできません。接続している場合、この記事の手順に従う前に、[切断してください](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)。
 
 1. [!DNL Sales Connect] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 

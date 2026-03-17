@@ -13,7 +13,7 @@ ht-degree: 89%
 
 # Salesforce を Sales Connect アカウントから切断 {#disconnect-salesforce-from-your-sales-connect-account}
 
-[!DNL  Salesforce] アカウントを [!DNL Sales Connect] アカウントから切断する必要が生じる場合があります。手順は次のとおりです。
+[!DNL &#x200B; Salesforce] アカウントを [!DNL Sales Connect] アカウントから切断する必要が生じる場合があります。手順は次のとおりです。
 
 ## Salesforce から管理者として切断する方法 {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -31,7 +31,7 @@ ht-degree: 89%
 
 ## 管理者以外のユーザとして Salesforce との接続を切断する方法 {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. [!DNL  Sales Connect] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
+1. [!DNL &#x200B; Sales Connect] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one-1.png)
 
