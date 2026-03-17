@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2952402
-description: 人物のアクティビティログでのアクティビティタイプのフィルタリング - Marketo ドキュメント - 製品ドキュメント
+description: 人物のアクティビティログでアクティビティタイプをフィルタリングする方法を説明します。 履歴を表示する際の特定のアクティビティに焦点を当てます。
 title: 人物のアクティビティログでのアクティビティタイプのフィルタリング
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 95%
+source-wordcount: '134'
+ht-degree: 80%
 
 ---
 
@@ -23,13 +23,13 @@ ht-degree: 95%
 
    ![](assets/one.png)
 
-1. 「**&#x200B;**&#x200B;フィルター」ドロップダウンを選択します。
+1. 「****&#x200B;フィルター」ドロップダウンを選択します。
 
    ![](assets/two-3.png)
 
 ## カスタムフィルターを作成する {#creating-custom-filters}
 
-1. 「**&#x200B;**&#x200B;フィルター」ドロップダウンをクリックします。「**[!UICONTROL カスタム]**」を選択します。
+1. 「****&#x200B;フィルター」ドロップダウンをクリックします。「**[!UICONTROL カスタム]**」を選択します。
 
    ![](assets/three-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 95%
 
 保存済みフィルターには、「[!UICONTROL フィルター]」ドロップダウンリストからアクセスできます。
 
-1. 「**&#x200B;**&#x200B;フィルター」ドロップダウンをクリックします。「**[!UICONTROL カスタム]**」を選択します。
+1. 「****&#x200B;フィルター」ドロップダウンをクリックします。「**[!UICONTROL カスタム]**」を選択します。
 
    ![](assets/seven-1.png)
 

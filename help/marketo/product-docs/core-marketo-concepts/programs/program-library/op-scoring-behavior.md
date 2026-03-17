@@ -1,12 +1,12 @@
 ---
-description: OP-Scoring-Behavior - Marketo ドキュメント – 製品ドキュメント
+description: スコアリング動作の操作プログラムテンプレート。 リードスコアリングの仕組みを定義するために使用します。
 title: OP-スコアリング-行動
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 31%
+source-wordcount: '355'
+ht-degree: 30%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 31%
 
 この例は、Marketo Engageのデフォルトプログラムを使用した、行動スコアリングの高度な（トークン化された）運用プログラムです。 プログラムの「マイトークン」タブでスコアリング値を表示および編集します。 「行動スコア」というカスタムスコアフィールドが必要です。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

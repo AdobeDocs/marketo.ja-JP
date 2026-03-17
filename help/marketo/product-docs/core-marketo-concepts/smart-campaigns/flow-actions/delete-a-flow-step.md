@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146987
-description: フローステップの削除 - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンからフローステップを削除する方法を説明します。 不要になったアクションをフローから削除します。
 title: フローステップの削除
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 98%
+source-wordcount: '381'
+ht-degree: 93%
 
 ---
 

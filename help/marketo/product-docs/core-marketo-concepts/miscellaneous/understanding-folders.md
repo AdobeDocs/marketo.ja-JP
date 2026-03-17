@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720779
-description: フォルダーについて - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンとアセットを整理するためのプログラム内のフォルダーについて説明します。 フォルダーの作成、名前変更、削除。
 title: フォルダーについて
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 100%
+source-wordcount: '277'
+ht-degree: 94%
 
 ---
 

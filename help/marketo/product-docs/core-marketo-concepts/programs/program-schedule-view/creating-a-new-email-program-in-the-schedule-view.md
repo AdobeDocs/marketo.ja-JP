@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147144
-description: スケジュール表示での新しいメールプログラムの作成 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムスケジュール表示から新しいメールプログラムを作成する方法を説明します。 メールプログラムエントリを追加し、設定します。
 title: スケジュール表示での新しいメールプログラムの作成
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 83%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 プログラムのスケジュール表示内からメールプログラムを作成できます。ここでは、その方法を説明します。
 
-1. 「**[!UICONTROL マーケティング活動]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 

@@ -1,11 +1,11 @@
 ---
-description: WR-YYYY-MM-Web リクエストプログラム - Marketo ドキュメント – 製品ドキュメント
+description: Web リクエストプログラムテンプレート。 ゲートされたコンテンツやフォームの送信に使用します。
 title: WR-YYYY-MM-web リクエストプログラム
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '405'
 ht-degree: 16%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 これは、Marketo Engageのデフォルトプログラムを使用した、連絡先リクエスト、見積もりリクエスト、デモリクエスト、体験版リクエストフォームに最適なプログラムの例です。 Marketoのランディングページで使用することも、Marketo以外のランディングページに埋め込まれたフォームとして使用することもできます。 フォームの送信時に、指定した個人にアラートメールが送信されます。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

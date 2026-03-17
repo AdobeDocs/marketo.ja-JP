@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356429
-description: Microsoft でのタスクの作成 - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft Dynamicsでフローステップからタスクを作成する方法を説明します。 誰かがフローに入ったときに所有者のタスクを作成します。
 title: Microsoft でのタスクの作成
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 100%
+source-wordcount: '184'
+ht-degree: 86%
 
 ---
 

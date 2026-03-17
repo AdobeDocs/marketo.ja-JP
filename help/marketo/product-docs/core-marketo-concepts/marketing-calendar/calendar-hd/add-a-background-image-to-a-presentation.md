@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504437
-description: プレゼンテーションへの背景画像の追加 - Marketo ドキュメント - 製品ドキュメント
+description: マーケティングカレンダープレゼンテーションに背景画像を追加する方法を説明します。 ライブラリから画像を選択して、プレゼンテーションをカスタマイズします。
 title: プレゼンテーションへの背景画像の追加
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 79%
 
 ---
 

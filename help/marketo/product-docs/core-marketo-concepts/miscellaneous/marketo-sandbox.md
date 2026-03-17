@@ -1,31 +1,31 @@
 ---
 unique-page-id: 11386358
-description: Marketo サンドボックス - Marketo ドキュメント - 製品ドキュメント
+description: 実稼動前にテストするためのMarketo Engage サンドボックスについて説明します。 実稼動に影響を与えずにテストするには、サンドボックスインスタンスを使用します。
 title: Marketo サンドボックス
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 89%
+source-wordcount: '301'
+ht-degree: 83%
 
 ---
 
 # Marketo サンドボックス {#marketo-sandbox}
 
-Marketo Engage サンドボックスは、実稼動環境で実装する前にテスト目的で使用される追加のインスタンスです。
+Marketo Engage サンドボックスは、本番環境で実装する前にテスト目的で使用される追加のインスタンスです。
 
 >[!AVAILABILITY]
 >
 >必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-Marketo サンドボックスが既に実稼動インスタンスと同期されている場合、通常の CRM に同期することはできません。同期に CRM のサンドボックスを使用し、元の同期と同じ手順をすべて実行します。
+Marketo サンドボックスが既に本番稼働インスタンスと同期されている場合、通常の CRM に同期することはできません。同期に CRM のサンドボックスを使用し、元の同期と同じ手順をすべて実行します。
 
 ## サンドボックスについて知っておくべきこと {#things-to-know-about-sandboxes}
 
-* ユーザーを追加する場合のプロセスは、[実稼動環境にユーザーを追加する](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users)場合のプロセスと同じです。既に Marketo ログインを持っている場合は、別のメールアドレスを使用する必要があります。
-* Marketo サンドボックスは空で始まりますが、実稼動インスタンスと同じ機能を使用できます。
-* サンドボックスでプログラムを作成し、それを実稼動環境に移動する場合は、[プログラムの読み込み](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)を実行できます。
-* サンドボックスは調整されるので、実稼動インスタンスがテスト環境に悪影響を及ぼすことはありません。1 回のキャンペーン実行で最大 20 通のメールを送信できます。
+* ユーザーを追加する場合のプロセスは、[本番環境にユーザーを追加する](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md#create-users)場合のプロセスと同じです。既に Marketo ログインを持っている場合は、別のメールアドレスを使用する必要があります。
+* Marketo サンドボックスは空で始まりますが、本番稼働インスタンスと同じ機能を使用できます。
+* サンドボックスでプログラムを作成し、それを本番環境に移動する場合は、[プログラムの読み込み](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)を実行できます。
+* サンドボックスは調整されるので、本番稼働インスタンスがテスト環境に悪影響を及ぼすことはありません。1 回のキャンペーン実行で最大 20 通のメールを送信できます。
 
 >[!CAUTION]
 >

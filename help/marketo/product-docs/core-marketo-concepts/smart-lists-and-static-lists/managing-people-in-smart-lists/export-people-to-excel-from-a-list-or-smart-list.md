@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557329
-description: リストまたはスマートリストから人物を Excel にエクスポート - Marketo ドキュメント - 製品ドキュメント
+description: リストまたはスマートリストから Excel にユーザーをエクスポートする方法を説明します。 レポート用にリストの人物をダウンロードします。
 title: リストまたはスマートリストから人物を Excel にエクスポート
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 82%
+source-wordcount: '192'
+ht-degree: 71%
 
 ---
 

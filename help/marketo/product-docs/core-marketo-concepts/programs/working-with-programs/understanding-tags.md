@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147112
-description: タグについて - Marketo ドキュメント - 製品ドキュメント
+description: プログラムを整理およびフィルタリングするためのタグについて説明します。 タグを使用して、プログラムの分類とレポートのフィルタリングを行います。
 title: タグについて
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 100%
+source-wordcount: '178'
+ht-degree: 91%
 
 ---
 

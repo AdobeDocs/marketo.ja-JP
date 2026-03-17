@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147001
-description: 標準スマートリストルールロジックの使用 - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンで標準のスマートリストルールロジックを使用する方法について説明します。 フィルターを AND ロジックと組み合わせて選定します。
 title: 標準スマートリストルールロジックの使用
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 73%
+source-wordcount: '139'
+ht-degree: 61%
 
 ---
 

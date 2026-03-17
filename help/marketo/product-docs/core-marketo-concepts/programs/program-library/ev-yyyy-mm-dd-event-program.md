@@ -1,11 +1,11 @@
 ---
-description: EV-YYYY-MM-DD-Event Program - Marketo ドキュメント – 製品ドキュメント
+description: イベントプログラムテンプレート。 これを使用して、一貫した命名構造でウェビナーおよびイベントを実行します。
 title: EV-YYYY-MM-DD-イベントプログラム
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '570'
 ht-degree: 22%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 22%
 
 Marketo Engageイベントプログラムを活用し、登録ページ、3 通の招待メール、フォローアップのメールを用意したイベントプログラムの一例です。 ロードショー、ランチ、ディナー、トレードショーイベントでのプレゼンテーションなど、登録が必要なすべてのイベントに適しています。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

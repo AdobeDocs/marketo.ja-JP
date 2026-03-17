@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953243
-description: 通知のタイプ - Marketo ドキュメント - 製品ドキュメント
+description: キャンペーンの失敗、CRM の同期、エンゲージメントなど、Marketoの通知タイプについて説明します。 各アラートの意味を理解する。
 title: 通知のタイプ
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '235'
-ht-degree: 100%
+source-wordcount: '247'
+ht-degree: 92%
 
 ---
 

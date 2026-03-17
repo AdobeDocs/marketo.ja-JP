@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147011
-description: エンゲージメントプログラムへの追加 - Marketo ドキュメント - 製品ドキュメント
+description: フローステップを使用して、エンゲージメントプログラムにユーザーを追加する方法を説明します。 メンバーがフローに入るときに、ストリームにメンバーを追加します。
 title: エンゲージメントプログラムへの追加
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 100%
+source-wordcount: '82'
+ht-degree: 71%
 
 ---
 

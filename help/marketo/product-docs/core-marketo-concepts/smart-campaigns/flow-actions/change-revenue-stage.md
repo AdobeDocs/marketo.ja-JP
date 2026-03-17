@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147080
-description: 売上高ステージの変更 - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンフローステップで収益ステージを変更する方法を説明します。 フロー内の人物の収益ステージを更新します。
 title: 売上高ステージの変更
 exl-id: 267f1a7a-b849-48e4-9bc8-56dd07168d1d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '89'
+ht-degree: 76%
 
 ---
 

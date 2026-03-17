@@ -1,11 +1,11 @@
 ---
-description: OA-YYYY-MM-Online Advertising Marketoのランディングページ - Marketo ドキュメント – 製品ドキュメント
+description: オンラインのAdvertising Marketo ランディングページプログラムテンプレート。 Marketo ページを使用した有料キャンペーンに使用します。
 title: OA-YYYY-MM-オンライン広告 Marketo ランディングページ
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '491'
 ht-degree: 15%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 これは、登録フォームを含むMarketo ランディングページを含み、Marketoのデフォルトプログラムを利用する、オンライン広告トラッキングプログラムの例です。 オファーへのリンクは、ありがとうページに表示したり、ありがとうメールで送信したりできます。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

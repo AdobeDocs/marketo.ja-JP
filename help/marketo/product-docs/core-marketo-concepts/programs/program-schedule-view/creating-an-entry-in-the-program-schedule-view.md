@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147102
-description: プログラムスケジュールビューでのエントリの作成 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムスケジュール ビューでエントリを作成する方法を説明します。 メールプログラム、スマートキャンペーンまたは基本エントリをスケジュールに追加します。
 title: プログラムスケジュールビューでのエントリの作成
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 100%
+source-wordcount: '185'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## 基本エントリの作成 {#create-a-basic-entry}
 
-1. 「**[!UICONTROL マーケティング活動]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 

@@ -1,11 +1,11 @@
 ---
-description: OP-Data Management - Marketo ドキュメント – 製品ドキュメント
+description: データ管理運用プログラムテンプレート。 データベースを常にクリーンで最新の状態に保つために使用します。
 title: OP-データ管理
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '327'
 ht-degree: 27%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 27%
 
 これは、Marketo Engage データベース内のレコードのデータ一貫性を管理する際に役立つ、デフォルトプログラムを使用したシンプルな運用データ管理ベストプラクティスワークフローの例です。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

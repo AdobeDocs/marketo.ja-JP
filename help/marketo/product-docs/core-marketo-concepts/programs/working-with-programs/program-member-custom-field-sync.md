@@ -1,12 +1,12 @@
 ---
-description: プログラムメンバーカスタムフィールドの同期 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforceを使用したプログラムメンバーカスタムフィールド同期について説明します。 カスタムメンバーデータと CRM の同期を維持します。
 title: プログラムメンバーカスタムフィールドの同期
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 100%
+source-wordcount: '359'
+ht-degree: 94%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146935
-description: トリガースマートキャンペーンのアクティブ化 | 「スケジュール」タブ - Marketo ドキュメント - 製品ドキュメント
+description: 「スケジュール」タブからトリガースマートキャンペーンをアクティブ化する方法について説明します。 キャンペーンをオンにして、トリガーのリッスンを開始します。
 title: トリガースマートキャンペーンのアクティブ化 | 「スケジュール」タブ
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 77%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146931
-description: 新規スマートキャンペーンの作成 - Marketo ドキュメント - 製品ドキュメント
+description: 新しいスマートキャンペーンの作成方法を説明します。 トリガーまたはスマート・リストを設定し、フロー・ステップを追加して処理を自動化します。
 title: 新規スマートキャンペーンの作成
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 85%
+source-wordcount: '132'
+ht-degree: 70%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 85%
 >
 >詳しくは、[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}を参照してください。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/create-a-new-smart-campaign-1.png)
 

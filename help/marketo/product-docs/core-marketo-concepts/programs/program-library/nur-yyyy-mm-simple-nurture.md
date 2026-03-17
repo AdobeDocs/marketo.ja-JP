@@ -1,12 +1,12 @@
 ---
-description: NUR-YYYY-MM-Simple Nurture - Marketo ドキュメント – 製品ドキュメント
+description: シンプル育成プログラムテンプレート。 明確な命名規則を持つ基本的な育成キャンペーンに使用します。
 title: NUR-YYYY-MM-シンプルな育成
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 20%
+source-wordcount: '356'
+ht-degree: 19%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 20%
 
 これは、Marketo Engage エンゲージメントプログラムを利用したシンプルな育成プログラムの例です。ケイデンドコンテンツを使用して、行動に基づくジャーニーでレコードをガイドするストリームを利用しながら、データベースに時間の経過と共にドリップします。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

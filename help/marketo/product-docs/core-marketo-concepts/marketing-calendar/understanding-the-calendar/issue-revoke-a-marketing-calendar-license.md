@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147255
-description: マーケティングカレンダーのライセンスの発行／取消 - Marketo ドキュメント - 製品ドキュメント
+description: ユーザーのマーケティングカレンダーライセンスを発行または取り消す方法について説明します。 カレンダーアクセスを許可または削除します。
 title: マーケティングカレンダーのライセンスの発行／取消
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 100%
+source-wordcount: '109'
+ht-degree: 84%
 
 ---
 

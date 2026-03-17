@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146940
-description: スマートキャンペーン用スマートリストの定義 |バッチ - Marketo ドキュメント - 製品ドキュメント
+description: バッチのスマートキャンペーンのスマートリストを定義する方法について説明します。 フィルターを使用して、キャンペーンにエントリするユーザーを選択します。
 title: スマートキャンペーン用スマートリストの定義 | バッチ
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 100%
+source-wordcount: '283'
+ht-degree: 93%
 
 ---
 

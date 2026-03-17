@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147249
-description: グローバルオーバーレイの使用 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムスケジュール表示でグローバルオーバーレイを使用する方法を説明します。 一貫性のある表示のために、プログラム間でオーバーレイを適用します。
 title: グローバルオーバーレイの使用
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 100%
+source-wordcount: '159'
+ht-degree: 87%
 
 ---
 

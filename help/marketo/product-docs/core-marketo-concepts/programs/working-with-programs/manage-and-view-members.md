@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147122
-description: メンバーの管理および表示 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムメンバーを管理および表示する方法について説明します。 プログラム内のユーザーを確認し、メンバーのステータスとデータを管理します。
 title: メンバーの管理および表示
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 100%
+source-wordcount: '262'
+ht-degree: 92%
 
 ---
 

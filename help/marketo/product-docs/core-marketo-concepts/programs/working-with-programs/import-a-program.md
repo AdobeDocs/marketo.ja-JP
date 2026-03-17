@@ -1,24 +1,24 @@
 ---
 unique-page-id: 1147108
-description: プログラムのインポート - Marketo ドキュメント - 製品ドキュメント
+description: Marketoにプログラムを読み込む方法を説明します。 ライブラリまたは別のインスタンスからプログラムを取り込みます。
 title: プログラムのインポート
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 7cf6194ba042fa47711bf9ef3b6d1d7570fe3451
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '553'
-ht-degree: 69%
+source-wordcount: '565'
+ht-degree: 66%
 
 ---
 
 # プログラムのインポート {#import-a-program}
 
-プログラムは、あるMarketo Engage サブスクリプションから別のサブスクリプションに読み込むことができます。 例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。また、[Marketo プログラムライブラリ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"} から事前定義済みプログラムを読み込むこともできます。
+プログラムは、あるMarketo Engage サブスクリプションから別のサブスクリプションに読み込むことができます。 例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。また、[Marketo プログラムライブラリ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"} から事前定義済みプログラムを読み込むこともできます。
 
 >[!CAUTION]
 >
 >
->* プログラムを読み込む際、スニペットや [&#x200B; 動的コンテンツ &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} を含むメールやランディングページはスキップされます。
+>* プログラムを読み込む際、スニペットや [ 動的コンテンツ ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"} を含むメールやランディングページはスキップされます。
 >
 >* [ カスタム オブジェクトが更新されました ] というトリガーを含むスマート リストを持つプログラムは、インポートに失敗します。 次に説明する手順を実行する前に、このトリガーをすべてのスマート リストから削除してください。
 

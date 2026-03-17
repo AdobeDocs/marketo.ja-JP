@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146958
-description: アラートの送信 - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンフローステップでアラートを送信する方法を説明します。 誰かがフローにエントリするか条件を満たした場合に、ユーザーに通知します。
 title: アラートの送信
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 100%
+source-wordcount: '169'
+ht-degree: 86%
 
 ---
 

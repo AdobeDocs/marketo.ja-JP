@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783557
-description: 完了としてマーク - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Moments アプリでモーメントを完了としてマークする方法を説明します。 完了したら、リストから項目をクリアします。
 title: 完了としてマーク
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 88%
+source-wordcount: '148'
+ht-degree: 75%
 
 ---
 
 # 完了としてマーク {#marking-it-done}
 
-メールプログラム、イベントまたは分析カードを [!UICONTROL &#x200B; 完了 &#x200B;] としてマークして、ストリームから削除します。 これを行う方法は 2 つあります。
+メールプログラム、イベントまたは分析カードを [!UICONTROL  完了 ] としてマークして、ストリームから削除します。 これを行う方法は 2 つあります。
 
 >[!IMPORTANT]
 >

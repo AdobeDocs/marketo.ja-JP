@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146960
-description: データ値の変更 - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンフローステップでデータ値を変更する方法を説明します。 フローの人物または会社フィールドを更新します。
 title: データ値の変更
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 100%
+source-wordcount: '124'
+ht-degree: 83%
 
 ---
 

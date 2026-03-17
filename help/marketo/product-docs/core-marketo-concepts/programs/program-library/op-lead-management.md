@@ -1,11 +1,11 @@
 ---
-description: OP-Lead Management - Marketo ドキュメント – 製品ドキュメント
+description: リード管理運用プログラムテンプレート。 リードのライフサイクルとスコアリングの管理に使用します。
 title: OP-リード管理
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '272'
 ht-degree: 16%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 16%
 >
 >Marketo Engageでは、データベース内のレコードは人物/人物と呼ばれます。 この例のリード管理は、CRM のレコードを参照しています。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html) のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

@@ -1,12 +1,12 @@
 ---
-description: 予測オーディエンスの概要 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoの Predictive Audiences と AI 駆動型ターゲティングについて説明します。 尤度値と予測フィルターを使用して目標を達成します。
 title: 予測オーディエンスの概要
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 100%
+source-wordcount: '234'
+ht-degree: 91%
 
 ---
 

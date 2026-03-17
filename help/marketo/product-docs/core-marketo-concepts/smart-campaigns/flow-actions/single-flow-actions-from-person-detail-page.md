@@ -1,14 +1,14 @@
 ---
-description: 人物の詳細ページからの単一フローアクション - Marketo ドキュメント - 製品ドキュメント
+description: 人物の詳細ページから単一のフローアクションを実行する方法を説明します。 ユーザーに対してオンデマンドで 1 つのフローステップを実行します。
 title: 人物の詳細ページからの単一フローアクション
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 67%
+source-wordcount: '132'
+ht-degree: 53%
 
 ---
 

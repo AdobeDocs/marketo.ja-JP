@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516639
-description: チェックインアプリに対するアクセス権をユーザーに付与する - Marketo ドキュメント - 製品ドキュメント
+description: イベントチェックインアプリへのアクセス権をユーザーに付与する方法を説明します。 モバイルイベントチェックインの役割を割り当てて、出席者をチェックインできるようにします。
 title: チェックインアプリに対するアクセス権をユーザーに付与する
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 100%
+source-wordcount: '275'
+ht-degree: 91%
 
 ---
 

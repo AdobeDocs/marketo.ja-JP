@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472404
-description: リードのアクティビティログの検索 - Marketo ドキュメント - 製品ドキュメント
+description: ユーザーのアクティビティログを見つける方法を説明します。 リードのメール、web およびその他のアクティビティ履歴を表示します。
 title: リードのアクティビティログの検索
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 90%
+source-wordcount: '138'
+ht-degree: 76%
 
 ---
 

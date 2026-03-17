@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146933
-description: バッチスマートキャンペーンの即時実行 | 「スケジュール」タブ - Marketo ドキュメント - 製品ドキュメント
+description: 「スケジュール」タブからバッチ Smart Campaign を今すぐ実行する方法を説明します。 スケジュールを設定する代わりに、キャンペーンをすぐに実行します。
 title: バッチスマートキャンペーンの即時実行 | 「スケジュール」タブ
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 72%
+source-wordcount: '112'
+ht-degree: 56%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953173
-description: スマートリストでのリストのメンバーの使用 - Marketo ドキュメント - 製品ドキュメント
+description: スマート・リスト・フィルタでリストのメンバーを使用する方法を説明します。 別のリストに含まれる人物を含めたり、除外したりします。
 title: スマートリストでのリストメンバーの使用
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 47%
+source-wordcount: '146'
+ht-degree: 36%
 
 ---
 

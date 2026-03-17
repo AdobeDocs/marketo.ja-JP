@@ -1,12 +1,12 @@
 ---
-description: OP-Scoring-Demographic - Marketo ドキュメント – 製品ドキュメント
+description: スコアリング人口統計学的運用プログラムテンプレート。 人口統計ベースのリードスコアリングに使用します。
 title: OP-スコアリング-デモグラフィック
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 36%
+source-wordcount: '316'
+ht-degree: 35%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 36%
 
 これは、人口統計スコアリングにMarketo Engageのデフォルトプログラムを利用した、高度な（トークン化された）運用プログラムの例です。 プログラムの「マイトークン」タブでスコアリング値を表示および編集します。 「デモグラフィックスコア」というカスタムスコアフィールドが必要です。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

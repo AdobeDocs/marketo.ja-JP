@@ -1,11 +1,11 @@
 ---
-description: Marketo ランディングページの CT-YYYY-MM-Content - Marketo ドキュメント – 製品ドキュメント
+description: Marketo ランディングページプログラムテンプレートのコンテンツ。 Marketoのランディングページでホストされるコンテンツに使用します。
 title: CT-YYYY-MM-Marketo ランディングページのコンテンツ
 feature: Programs
 exl-id: 638c4d6a-a8c7-4f03-9dae-07fecfb1302b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '481'
 ht-degree: 16%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 この例は、Marketo Engageのデフォルトプログラムを使用して、Marketo Engage ランディングページとMarketo Engage フォームを活用するコンテンツプログラムを作成するように設計されています。 コンテンツ/オファーにアクセスするためのフォームです。 オファーへのリンクは、ありがとうページに表示したり、ありがとうメールで送信したりできます。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

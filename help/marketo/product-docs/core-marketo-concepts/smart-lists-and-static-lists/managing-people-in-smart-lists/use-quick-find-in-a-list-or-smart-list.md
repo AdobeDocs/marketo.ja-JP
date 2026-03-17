@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557326
-description: リストまたはスマートリストでのクイック検索の使用 - Marketo ドキュメント - 製品ドキュメント
+description: リストまたはスマート リストでクイック検索を使用する方法を説明します。 リスト内の名前またはメールで特定のユーザーを検索します。
 title: リストまたはスマートリストでのクイック検索の使用
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 48%
+source-wordcount: '150'
+ht-degree: 36%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 48%
 
 クイック検索を使用して、リストまたはスマート・リストの結果からユーザーを検索します。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 

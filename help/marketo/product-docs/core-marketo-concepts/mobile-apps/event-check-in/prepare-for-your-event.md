@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099360
-description: イベントの準備 - Marketo ドキュメント - 製品ドキュメント
+description: イベントチェックインでイベントの準備をする方法を説明します。 参加者が到着する前に、アプリを設定してイベントプログラムを同期します。
 title: イベントの準備
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 94%
+source-wordcount: '414'
+ht-degree: 88%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 94%
 
 ## 新しい Marketo の役割の作成 {#create-a-new-marketo-role}
 
-Marketo には、イベントチェックインアプリ用の特別なユーザーの役割があります。モバイルアプリケーションへのアクセス権を持つ [&#x200B; ユーザーまたは &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ユーザー用の [!DNL iPad] 新しいMarketo ロールを作成 [!DNL Android] します。
+Marketo には、イベントチェックインアプリ用の特別なユーザーの役割があります。モバイルアプリケーションへのアクセス権を持つ [ ユーザーまたは ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ユーザー用の [!DNL iPad] 新しいMarketo ロールを作成 [!DNL Android] します。
 
 ## 新しいタブレットユーザーのイベントへの招待 {#invite-new-tablet-users-to-the-event}
 

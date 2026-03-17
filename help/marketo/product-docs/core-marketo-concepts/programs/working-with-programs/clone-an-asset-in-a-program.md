@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147152
-description: プログラム内でのアセットの複製 - Marketo ドキュメント - 製品ドキュメント
+description: プログラム内でアセットのクローンを作成する方法を説明します。 メール、ランディングページ、またはその他のローカルアセットのコピーを作成します。
 title: プログラムでのアセットの複製
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 93%
+source-wordcount: '129'
+ht-degree: 77%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 93%
 
 ## ローカルアセットを複製する {#clone-a-local-asset}
 
-1. 「**[!UICONTROL マーケティング活動]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 

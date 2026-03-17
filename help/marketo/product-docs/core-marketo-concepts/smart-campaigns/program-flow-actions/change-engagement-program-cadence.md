@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147013
-description: エンゲージメントプログラムケイデンスの変更 - Marketo ドキュメント - 製品ドキュメント
+description: フロー手順でエンゲージメントプログラム頻度を変更する方法を説明します。 ストリームでメールを受信する頻度を調整します。
 title: エンゲージメントプログラムケイデンスの変更
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 100%
+source-wordcount: '113'
+ht-degree: 82%
 
 ---
 

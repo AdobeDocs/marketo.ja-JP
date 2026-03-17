@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146972
-description: 繰り返しバッチキャンペーンのスケジュール - Marketo ドキュメント - 製品ドキュメント
+description: 繰り返しバッチキャンペーンをスケジュールする方法について説明します。 キャンペーンを毎日、毎週、毎月スケジュールで実行するように設定します。
 title: 繰り返しバッチキャンペーンのスケジュール
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 18%
+source-wordcount: '154'
+ht-degree: 11%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 18%
 
    ![](assets/schedule-a-recurring-batch-campaign-4.png)
 
-1. 「[!UICONTROL &#x200B; 繰り返し間隔 &#x200B;]」を 1 のままにし、「火曜日」を選択して「保存 **[!UICONTROL をクリックし]** す。
+1. 「[!UICONTROL  繰り返し間隔 ]」を 1 のままにし、「火曜日」を選択して「保存 **[!UICONTROL をクリックし]** す。
 
    ![](assets/schedule-a-recurring-batch-campaign-5.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147074
-description: 自動トリガーキャンペーンクリーンアップ - Marketo ドキュメント - 製品ドキュメント
+description: トリガーキャンペーンの自動クリーンアップについて説明します。 Marketoが古いトリガーキャンペーンの実行をクリーンアップする方法を理解します。
 title: 自動トリガーキャンペーンクリーンアップ
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 75%
+source-wordcount: '257'
+ht-degree: 70%
 
 ---
 

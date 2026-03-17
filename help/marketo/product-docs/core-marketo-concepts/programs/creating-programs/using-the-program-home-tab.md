@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147126
-description: 「プログラムホーム」タブの使用 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムの「ホーム」タブの使用方法を説明します。 プログラムの概要、パフォーマンス、主要な詳細を 1 か所で表示します。
 title: 「プログラムホーム」タブの使用
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 86%
+source-wordcount: '167'
+ht-degree: 76%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 86%
 
 ## 概要の表示 {#summary-view}
 
-1. 「**[!UICONTROL マーケティング活動]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 

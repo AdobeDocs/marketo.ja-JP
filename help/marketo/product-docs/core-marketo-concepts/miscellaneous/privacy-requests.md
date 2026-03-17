@@ -1,11 +1,11 @@
 ---
-description: プライバシーリクエスト - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでアクセスおよび削除のプライバシーリクエストを管理する方法について説明します。 Privacy Service UI または API を介してリクエストを送信し、コンシューマーデータを処理します。
 title: プライバシーリクエスト
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 245e8b2b25a7c51e8e46ace31e189a6132a9ada7
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 99%
+source-wordcount: '353'
+ht-degree: 92%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 99%
 >
 >* Adobe Identity Management システムにオンボーディングした Marketo Engage ユーザ
 >
->**- または -**
+>**または**
 >
 >* Adobe Identity Management システムに既に存在する別の Experience Cloud 製品（RT-CDP、B2B および B2P エディション、Audience Manager など）を使用する Marketo Engage ユーザ。
 
@@ -41,7 +41,7 @@ ht-degree: 99%
    a. IMS 組織 ID<br/>
 b. アクションの対象となるユーザのメールアドレス
 
-   IMS 組織 ID は、24 文字の英数字から成る文字列で、末尾に @AdobeOrg が付きます。マーケティングチームまたはアドビの内部システム管理者が組織の IMS Org ID を把握していない場合は、アドビカスタマーケア（`gdprsupport@adobe.com`）にお問い合わせください。Privacy API にリクエストを送信するには、IMS 組織 ID が必要です。
+   IMS 組織 ID は、24 文字の英数字から成る文字列で、末尾に @AdobeOrg が付きます。 マーケティングチームまたはアドビの内部システム管理者が組織の IMS Org ID を把握していない場合は、アドビカスタマーケア（`gdprsupport@adobe.com`）にお問い合わせください。Privacy API にリクエストを送信するには、IMS 組織 ID が必要です。
 
 1. Privacy Service では、アクセスリクエストと削除リクエストを Marketo Engage に送信し、既存のリクエストのステータスを確認できます。
 
@@ -66,7 +66,7 @@ b. アクションの対象となるユーザのメールアドレス
 
 “regulation”：
 
-* **gdpr、**、**ccpa**、**pdpa**、**lgpd_bra**&#x200B;**nzpa_nzl** のいずれか（リクエストに適用されるプライバシー規則）
+* **gdpr、**、**ccpa**、**pdpa**、**lgpd_bra****nzpa_nzl** のいずれか（リクエストに適用されるプライバシー規則）
 
 ## 例 1：GDPR 削除リクエスト {#gdpr-delete-request}
 

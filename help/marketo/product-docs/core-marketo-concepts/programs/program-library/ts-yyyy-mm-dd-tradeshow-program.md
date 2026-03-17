@@ -1,11 +1,11 @@
 ---
-description: TS-YYYY-MM-DD-Tradeshow プログラム - Marketo ドキュメント – 製品ドキュメント
+description: トレードショープログラムテンプレート。 一貫性のある名前でイベントや展示会に使用します。
 title: TS-YYYY-MM-DD-展示会プログラム
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '416'
 ht-degree: 18%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 18%
 
 これは、Marketo Engageイベントプログラムを利用した招待状とフォローアップメールを含む展示会プログラムの例です。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

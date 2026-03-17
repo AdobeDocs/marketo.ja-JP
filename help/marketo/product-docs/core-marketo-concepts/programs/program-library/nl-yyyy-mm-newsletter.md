@@ -1,12 +1,12 @@
 ---
-description: NL-YYYY-MM-Newsletter - Marketo ドキュメント – 製品ドキュメント
+description: ニュースレタープログラムテンプレート。 標準の名前を使用した繰り返しメールニュースレターに使用します。
 title: NL-YYYY-MM-ニュースレター
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 19%
+source-wordcount: '280'
+ht-degree: 18%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 19%
 
 次の例では、Marketo Engage メールプログラムを使用して、1 つのニュースレターのメールを送信します。 メールには、A/B テストを含めることも、含めないこともできます。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

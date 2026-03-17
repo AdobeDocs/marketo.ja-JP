@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146952
-description: リストに追加 - Marketo ドキュメント - 製品ドキュメント
+description: リストに追加フローステップを使用してリストにユーザーを追加する方法を説明します。 これを使用して、キャンペーンアクションからリストを作成します。
 title: リストに追加
 exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 100%
+source-wordcount: '51'
+ht-degree: 54%
 
 ---
 
@@ -20,5 +20,3 @@ ht-degree: 100%
 人物を追加するリストを選択します。
 
 ![](assets/add-to-list-2.png)
-
-とても簡単です。

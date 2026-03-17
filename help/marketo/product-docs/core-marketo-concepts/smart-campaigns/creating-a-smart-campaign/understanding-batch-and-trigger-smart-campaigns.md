@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953132
-description: バッチおよびトリガースマートキャンペーンについて - Marketo ドキュメント - 製品ドキュメント
+description: バッチおよびトリガースマートキャンペーンについて説明します。 各タイプを使用するタイミングと実行方法を理解する。
 title: バッチおよびトリガースマートキャンペーンについて
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 52%
+source-wordcount: '273'
+ht-degree: 47%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 52%
 
 **バッチスマートキャンペーン**
 
-* 毎日、毎週、毎月のように、反復するスケジュール設定が可能です。あるいは、単発で 1 回のみ実行するよう設定することも可能です。
+* 毎日、毎週、毎月のように、繰り返しのスケジュール設定が可能です。あるいは、単発で 1 回のみ実行するよう設定することも可能です。
 * [プログラムスケジュール表示](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/navigating-the-program-schedule-view.md){target="_blank"}に表示されます。Smart Campaign 内の「待機」ステップの後はビューに含まれません。
 
 <br> 
@@ -56,9 +56,9 @@ ht-degree: 52%
 
 **トリガーキャンペーン**
 
-* 反復するスケジュール設定はできません。アクティブまたは非アクティブの設定のみです。
+* 繰り返しのスケジュール設定はできません。アクティブまたは非アクティブの設定のみです。
 * トリガーは複数設定できます。ただし、いずれかのトリガーが起動した場合に、当該キャンペーンが実行されます。
 
 >[!TIP]
 >
->[&#x200B; アクティビティログ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} を使用して、スマートキャンペーン内で何が発生したかを段階的に確認できます。 アクティビティログは、各リードの詳細ページにある一番右側のタブから確認できます。
+>[ アクティビティログ ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} を使用して、スマートキャンペーン内で何が発生したかを段階的に確認できます。 アクティビティログは、各リードの詳細ページにある一番右側のタブから確認できます。

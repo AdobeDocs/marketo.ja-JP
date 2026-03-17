@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953415
-description: 人物の詳細ページの使用 - Marketo ドキュメント - 製品ドキュメント
+description: 人物の詳細ページの使用方法を説明します。 リード情報、アクティビティを表示および編集し、フローステップを 1 か所から実行します。
 title: 人物の詳細ページの使用
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '525'
-ht-degree: 100%
+source-wordcount: '537'
+ht-degree: 96%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 * プログラムの「**メンバー**」タブ
 * **スマートキャンペーン**&#x200B;内のキャンペーンメンバーの表示
 * **レポート**
-  <br>
+  <br> 
 
 1. 任意の人物をダブルクリックするか、左側の ID をシングルクリックします。
 
@@ -88,7 +88,7 @@ ht-degree: 100%
 | Marketo ソーシャル [!DNL Twitter] の画像 URL | Marketo ソーシャル [!DNL Twitter] のプロファイル URL | Marketo ソーシャル [!DNL Twitter] のリーチ | Marketo ソーシャル [!DNL Twitter] を参照元とする登録数 | Marketo ソーシャル [!DNL Twitter] を参照元とする訪問数 |
 | ミドルネーム | 携帯電話番号 | 従業員数 | 電話番号 | 郵便番号 |
 | 優先度 | 相対スコア | ロール | 敬称 | SIC コード |
-| サイト | ステート | 登録解除 | 登録解除の理由 | 更新時刻 |
+| サイト | ステート | 配信停止完了 | 登録解除の理由 | 更新時刻 |
 | 緊急度 | Web サイト |  |  |  |
 
 >[!NOTE]

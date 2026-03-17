@@ -1,12 +1,12 @@
 ---
-description: 予測フィルター - Marketo ドキュメント - 製品ドキュメント
+description: AI を使用してオーディエンスをターゲティングするための予測フィルターについて説明します。 スマートリストとキャンペーンでフィルターを使用して、適切な人物にリーチします。
 title: 予測フィルター
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 100%
+source-wordcount: '425'
+ht-degree: 95%
 
 ---
 

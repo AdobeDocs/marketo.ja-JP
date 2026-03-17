@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514027
-description: リードをマイクロソフトに同期 - Marketo ドキュメント - 製品ドキュメント
+description: フローステップを使用してユーザーをMicrosoft Dynamicsに同期する方法を説明します。 フローに入る際にリードデータを Dynamics にプッシュします。
 title: 人物をマイクロソフトに同期
 exl-id: cc6f1c03-ba74-418c-95d5-fb073a248379
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 100%
+source-wordcount: '87'
+ht-degree: 73%
 
 ---
 

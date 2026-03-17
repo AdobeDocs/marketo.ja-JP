@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355569
-description: プログラムメンバーカスタムフィールド - Marketo ドキュメント - 製品ドキュメント
+description: プログラムメンバーカスタムフィールドについて説明します。 プログラム内の各個人のカスタムデータを保存して使用します。
 title: プログラムメンバーカスタムフィールド
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 100%
+source-wordcount: '425'
+ht-degree: 96%
 
 ---
 

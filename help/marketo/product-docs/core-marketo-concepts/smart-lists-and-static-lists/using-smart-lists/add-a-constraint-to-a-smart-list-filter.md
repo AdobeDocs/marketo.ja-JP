@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949413
-description: スマートリストフィルターへの制約の追加 - Marketo ドキュメント - 製品ドキュメント
+description: スマートリストフィルターに制約を追加する方法を説明します。 より正確なリストを得るには、条件を追加してフィルターを絞り込みます。
 title: スマートリストフィルターへの制約の追加
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 100%
+source-wordcount: '185'
+ht-degree: 89%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 >* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [スマートリストで「データ値変更済み」フィルターを使用します。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md){target="_blank"}
 
-1. 「**[!UICONTROL マーケティング活動]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-1.png)
 

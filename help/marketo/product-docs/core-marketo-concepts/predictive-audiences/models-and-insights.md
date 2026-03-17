@@ -1,12 +1,12 @@
 ---
-description: モデルとインサイト - Marketo ドキュメント - 製品ドキュメント
+description: Predictive Audiences モデルと影響を与える要因について説明します。 AI インサイトを使用して、ターゲティングを調整し、キャンペーンのパフォーマンスを向上させます。
 title: モデルとインサイト
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 44%
+source-wordcount: '230'
+ht-degree: 39%
 
 ---
 
@@ -24,7 +24,7 @@ Marketo Engageの **[!UICONTROL 管理]** 領域にある **[!UICONTROL Predicti
 
 ![画像 1](assets/models-and-insights-1.png)
 
-* **トレーニングステータス**：モデルが積極的にトレーニング（予測の改善）を実施しているかどうかを示します。トレーニングは 2 週間ごとに自動的に行われます。 モデルが _処理中_ の場合、完了までに最大 24 時間かかる場合があります。 _失敗_ モデルについては、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} にお問い合わせください。
+* **トレーニングステータス**：モデルが積極的にトレーニング（予測の改善）を実施しているかどうかを示します。トレーニングは 2 週間ごとに自動的に行われます。 モデルが _処理中_ の場合、完了までに最大 24 時間かかる場合があります。 _失敗_ モデルについては、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} にお問い合わせください。
 * **スコアリングステータス**：モデルがプログラムメンバーの予測（可能性の割合）を積極的に計算しているかどうかを示します。
 * **パフォーマンス**：データ完全性およびデータ品質に基づくモデルのヘルスの分類（以下を参照）。
 * **データの完全性**：存在／完了しているデータ属性の割合。

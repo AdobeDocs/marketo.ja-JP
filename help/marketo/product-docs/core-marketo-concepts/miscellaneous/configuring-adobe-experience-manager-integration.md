@@ -1,15 +1,15 @@
 ---
 unique-page-id: 30081815
-description: Adobe Experience Manager 統合の設定 - Marketo ドキュメント - 製品ドキュメント
+description: MarketoとAdobe Experience Manager統合を設定する方法について説明します。 アセットにアクセスして Design Studio に読み込めるように、AEMをセットアップします。
 title: Adobe Experience Manager 統合の設定
 hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 100%
+source-wordcount: '228'
+ht-degree: 89%
 
 ---
 

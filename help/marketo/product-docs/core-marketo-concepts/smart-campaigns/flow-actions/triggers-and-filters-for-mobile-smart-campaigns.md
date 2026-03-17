@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9437991
-description: モバイルスマートキャンペーンのトリガーとフィルター - Marketo ドキュメント - 製品ドキュメント
+description: モバイルスマートキャンペーン用のトリガーとフィルターについて説明します。 アプリのイベントと属性をトリガーキャンペーンに使用します。
 title: モバイルスマートキャンペーンのトリガーとフィルター
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '814'
-ht-degree: 100%
+source-wordcount: '820'
+ht-degree: 97%
 
 ---
 

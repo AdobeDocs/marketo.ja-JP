@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147150
-description: プログラムでのタグの使用 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムでタグを使用する方法を説明します。 タグを追加してプログラムを整理し、カレンダーとレポートでフィルタリングを有効にします。
 title: プログラムでのタグの使用
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 83%
+source-wordcount: '176'
+ht-degree: 72%
 
 ---
 

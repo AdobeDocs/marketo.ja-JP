@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147129
-description: プログラム効果レポートの作成 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムのパフォーマンスレポートを作成する方法について説明します。 レポートを作成して、プログラムの ROI、成功、メンバーの指標を確認します。
 title: プログラム効果レポートの作成
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '135'
+ht-degree: 86%
 
 ---
 

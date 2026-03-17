@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147247
-description: カスタムエントリタイプの非表示と再表示 - Marketo Docs - 製品ドキュメント
+description: プログラムスケジュール表示でカスタムエントリタイプの表示/非表示を切り替える方法を説明します。 表示するエントリの種類を制御します。
 title: カスタムエントリタイプの非表示と再表示
 exl-id: 3e41b47d-86dd-4fb3-ab87-0be0b534fc0a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 90%
+source-wordcount: '118'
+ht-degree: 75%
 
 ---
 

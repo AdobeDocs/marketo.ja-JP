@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783561
-description: サンプルの送信 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Moments からサンプルメールを送信する方法を説明します。 アプリからサンプルを自分宛てに送信して、メールをテストします。
 title: サンプルの送信
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '146'
+ht-degree: 84%
 
 ---
 

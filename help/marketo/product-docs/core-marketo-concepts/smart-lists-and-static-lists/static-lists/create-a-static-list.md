@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11387513
-description: 静的リストの作成 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoで静的リストを作成する方法を説明します。 リストをデータベースに追加し、手動またはインポートによってユーザーを追加します。
 title: 静的リストの作成
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 80%
 
 ---
 

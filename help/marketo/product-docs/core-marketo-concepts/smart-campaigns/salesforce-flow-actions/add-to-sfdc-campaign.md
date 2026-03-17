@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147034
-description: SFDC キャンペーンに追加 - Marketo ドキュメント - 製品ドキュメント
+description: フローステップを使用してSalesforce キャンペーンにユーザーを追加する方法を説明します。 MarketoをSFDC キャンペーンに同期します。
 title: SFDC キャンペーンに追加
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 100%
+source-wordcount: '184'
+ht-degree: 89%
 
 ---
 

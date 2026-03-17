@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146901
-description: 高度なスマートリストルールロジックの使用 - Marketo ドキュメント - 製品ドキュメント
+description: 高度なスマート・リスト・ルール・ロジックの使用方法を説明します。 複雑な選定には、フィルターと AND および OR を組み合わせます。
 title: 高度なスマートリストルールロジックの使用
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 100%
+source-wordcount: '310'
+ht-degree: 94%
 
 ---
 

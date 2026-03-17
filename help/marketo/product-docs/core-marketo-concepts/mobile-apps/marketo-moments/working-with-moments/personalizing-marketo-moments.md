@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782021
-description: Marketo Moments のパーソナライズ - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Moments をパーソナライズする方法を説明します。 モバイルアプリ表示に表示するカードとインサイトをカスタマイズします。
 title: Marketo Moments のパーソナライズ
 exl-id: f92c9215-0ee3-4918-8194-e6d1684a71c6
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 100%
+source-wordcount: '143'
+ht-degree: 88%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557339
-description: 重複した人物の検索と結合 - Marketo ドキュメント - 製品ドキュメント
+description: 重複する人物を検索して結合する方法を説明します。 重複したレコードを 1 つに結合し、データベースをクリーンアップします。
 title: 重複した人物の検索と結合
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 88%
+source-wordcount: '427'
+ht-degree: 84%
 
 ---
 
@@ -21,7 +21,7 @@ Marketo は、新しい人物がシステムに入ると、自動的に重複排
 
 >[!PREREQUISITES]
 >
->重複の検索とマージには、[&#x200B; 組み込み/システムのスマートリスト &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"} を使用します。
+>重複の検索とマージには、[ 組み込み/システムのスマートリスト ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"} を使用します。
 
 >[!NOTE]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147021
-description: 所有者の変更 - Marketo ドキュメント - 製品ドキュメント
+description: フロー手順でSalesforceの所有者を変更する方法を説明します。 ユーザーがフローに入ると、新しいリードまたは連絡先所有者を割り当てます。
 title: 所有者の変更
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '183'
+ht-degree: 87%
 
 ---
 

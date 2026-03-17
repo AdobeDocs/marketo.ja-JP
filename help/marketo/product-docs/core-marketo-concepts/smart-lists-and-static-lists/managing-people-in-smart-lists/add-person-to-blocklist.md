@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9438139
-description: リードをブロックリストに追加 - Marketo ドキュメント - 製品ドキュメント
+description: ブロックリストにユーザーを追加する方法を説明します。 特定の人物やドメインにメールが送信されないようにします。
 title: リードをブロックリストに追加
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 44%
+source-wordcount: '194'
+ht-degree: 37%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 44%
 
 リードをブロックリストに追加すると、コンテンツを気に入ってくれた有望な人だけにコンテンツを読んでもらえるようになります。
 
-1. 新しい [&#x200B; デフォルトプログラム &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} を作成し、「ブロックリストに追加」という名前を付けます。
+1. 新しい [ デフォルトプログラム ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} を作成し、「ブロックリストに追加」という名前を付けます。
 
 1. 「**[!UICONTROL 新規作成]**」をクリックして、「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 

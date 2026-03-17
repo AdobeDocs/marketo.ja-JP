@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557333
-description: フローステップでの「選択肢を追加」の並べ替え - Marketo ドキュメント - 製品ドキュメント
+description: フローステップで選択肢を追加オプションを並べ替える方法を説明します。 キャンペーンの選択分岐の順序を変更します。
 title: フローステップの「選択肢を追加」の並べ替え
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 100%
+source-wordcount: '186'
+ht-degree: 89%
 
 ---
 

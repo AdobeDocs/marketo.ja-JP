@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147082
-description: 人物の削除 - Marketo ドキュメント - 製品ドキュメント
+description: フローステップを使用してデータベースから人物を削除する方法を説明します。 条件を満たす人物をMarketoから削除します
 title: 人物の削除
 exl-id: 40039444-9b2a-4b80-93bc-7da3d6e9475c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 100%
+source-wordcount: '127'
+ht-degree: 84%
 
 ---
 

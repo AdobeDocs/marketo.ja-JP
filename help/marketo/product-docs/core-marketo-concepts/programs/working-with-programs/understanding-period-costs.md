@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504676
-description: 期間原価について - Marketo ドキュメント - 製品ドキュメント
+description: 費用を追跡するためのプログラムの期間コストについて説明します。 レポートと ROI のプログラム期間にコストを割り当てます。
 title: 期間原価について
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 100%
+source-wordcount: '282'
+ht-degree: 93%
 
 ---
 

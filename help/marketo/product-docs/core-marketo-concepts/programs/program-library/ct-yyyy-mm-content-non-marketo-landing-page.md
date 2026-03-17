@@ -1,11 +1,11 @@
 ---
-description: CT-YYYY-MM-Content Non-Marketoランディングページ - Marketo ドキュメント – 製品ドキュメント
+description: Marketo以外のコンテンツのランディングページプログラムテンプレート。 外部ランディングページのコンテンツに使用します。
 title: CT-YYYY-MM-Marketo ランディングページ以外のコンテンツ
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '401'
 ht-degree: 16%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 これは、Marketo Engageのデフォルトプログラムを使用してMarketo Engage以外のランディングページのコンテンツをダウンロードするための、Marketo Engage フォームを含むコンテンツプログラムの例です。 このプログラムは、Web サイトに埋め込まれたMarketo Engage フォームで動作することを目的としています。 オファー/コンテンツへのリンクは、お礼メールで送信できます。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

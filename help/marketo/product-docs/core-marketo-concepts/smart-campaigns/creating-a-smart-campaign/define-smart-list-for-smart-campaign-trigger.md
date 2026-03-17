@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146942
-description: スマートキャンペーン用スマートリストの定義 |トリガー- Marketo ドキュメント - 製品ドキュメント
+description: トリガーのスマートキャンペーンのスマートリストを定義する方法について説明します。 トリガーに適格なユーザーを絞り込むフィルターを設定します。
 title: スマートキャンペーン用スマートリストの定義 |トリガー
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 100%
+source-wordcount: '262'
+ht-degree: 92%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147318
-description: キーボードショートカットの用語集 - Marketo ドキュメント - 製品ドキュメント
+description: エリア ナビゲーション、カレンダーなどのMarketoのキーボード ショートカットに関するヘルプを表示します。 ショートカットを使用すると、Marketo Engageをより迅速に移動できます。
 title: キーボードショートカットの用語集
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 94%
+source-wordcount: '127'
+ht-degree: 79%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 94%
 
 | キーボードショートカット | エリア |
 |---|---|
-| Alt／Opt + A | アナリティクス |
+| Alt／Opt + A | 分析 |
 | Alt／Opt + C | カレンダー |
 | Alt／Opt + D | デザイン スタジオ |
 | Alt／Opt + F | グローバル検索 |

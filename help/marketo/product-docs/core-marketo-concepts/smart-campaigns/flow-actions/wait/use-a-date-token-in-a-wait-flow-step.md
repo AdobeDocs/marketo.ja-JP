@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146997
-description: 待機フローステップで日付トークンを使用 - Marketo ドキュメント - 製品ドキュメント
+description: 待機フローステップで日付トークンを使用する方法を説明します。 トークンからの動的な日付まで待ってから続行します。
 title: 待機フローステップで日付トークンを使用
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 100%
+source-wordcount: '222'
+ht-degree: 90%
 
 ---
 

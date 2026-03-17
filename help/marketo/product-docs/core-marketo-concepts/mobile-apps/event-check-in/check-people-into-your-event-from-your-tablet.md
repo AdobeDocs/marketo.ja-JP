@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949839
-description: タブレットからイベントへの人物のチェックイン - Marketo ドキュメント - 製品ドキュメント
+description: タブレットからイベントにユーザーをチェックインする方法を説明します。 Event Check-in アプリを使用して、出席者をスキャンしてチェックインします。
 title: タブレットからイベントへの人物のチェックイン
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '834'
-ht-degree: 100%
+source-wordcount: '844'
+ht-degree: 97%
 
 ---
 

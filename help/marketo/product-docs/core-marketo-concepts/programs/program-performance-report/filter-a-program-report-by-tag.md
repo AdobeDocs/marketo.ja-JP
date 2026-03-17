@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147235
-description: プログラムレポートをタグでフィルター - Marketo ドキュメント - 製品ドキュメント
+description: タグでプログラムレポートをフィルタリングする方法を説明します。 特定のタグを持つプログラムのパフォーマンスを表示します。
 title: プログラムレポートをタグでフィルター
 exl-id: 6517cceb-c809-487a-a40f-2b24f3f3510e
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 83%
 
 ---
 

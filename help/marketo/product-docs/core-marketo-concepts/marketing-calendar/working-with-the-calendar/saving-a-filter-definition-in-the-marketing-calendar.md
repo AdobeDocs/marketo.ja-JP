@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147296
-description: マーケティングカレンダーでのフィルター定義の保存 - Marketo ドキュメント - 製品ドキュメント
+description: マーケティングカレンダーにフィルター定義を保存する方法を説明します。 フィルターを保存すると、様々なフィルター定義をすばやく切り替えることができます。
 title: マーケティングカレンダーでのフィルター定義の保存
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 78%
 
 ---
 

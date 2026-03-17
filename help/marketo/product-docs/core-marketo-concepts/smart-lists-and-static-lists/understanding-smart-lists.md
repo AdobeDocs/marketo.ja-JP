@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557130
-description: スマートリストについて - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでフィルターを使用してユーザーのグループを検索するスマートリストについて説明します。 キャンペーン、プログラム、レポートでスマートリストを作成および使用します。
 title: スマートリストについて
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 100%
+source-wordcount: '226'
+ht-degree: 89%
 
 ---
 

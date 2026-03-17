@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147055
-description: キャンペーンのアクション - スマートキャンペーンの削除 - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンの削除方法について説明します。 不要になったキャンペーンをマーケティングアクティビティから削除します。
 title: キャンペーンのアクション - スマートキャンペーンの削除
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 38%
+source-wordcount: '123'
+ht-degree: 28%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 38%
 
    >[!TIP]
    >
-   >アクティブなスマートキャンペーンの処理を削除せずにキャンセルするには、[&#x200B; スマートキャンペーンを中止 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) する方法を参照してください。
+   >アクティブなスマートキャンペーンの処理を削除せずにキャンセルするには、[ スマートキャンペーンを中止 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) する方法を参照してください。
 
 1. 「**[!UICONTROL 削除]**」をクリックして確定します。
 

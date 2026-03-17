@@ -1,12 +1,12 @@
 ---
-description: WBN-YYYY-MM-DD – ウェビナープログラム - Marketo ドキュメント – 製品ドキュメント
+description: ウェビナープログラムテンプレート。 標準の命名規則を持つウェビナーで使用します。
 title: WBN-YYYY-MM-DD-Webinar プログラム
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '591'
-ht-degree: 21%
+source-wordcount: '597'
+ht-degree: 20%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 21%
 
 これは、Marketo Engage Event Program を利用した、登録管理、3 通の招待メール、リマインダー付き、フォローアップメール付きのウェビナープログラムの例です。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 
 ## チャネルサマリ {#channel-summary}
 

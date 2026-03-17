@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147031
-description: SFDC から顧客を削除 - Marketo ドキュメント - 製品ドキュメント
+description: フローステップを使用してSalesforceからユーザーを削除する方法を説明します。 リードまたは連絡先がフローに入ったら、SFDCから削除します。
 title: SFDC からの顧客の削除
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 100%
+source-wordcount: '149'
+ht-degree: 83%
 
 ---
 

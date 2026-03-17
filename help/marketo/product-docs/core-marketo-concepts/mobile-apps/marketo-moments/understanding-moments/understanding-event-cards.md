@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8781974
-description: イベントカードについて - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Moments のイベントカードについて説明します。 イベントプログラムの詳細を表示し、モバイルアプリからアクションを実行します。
 title: イベントカードについて
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 82%
+source-wordcount: '163'
+ht-degree: 72%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 82%
 * [イベントを完了としてマーク](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [イベントモーメントカードを共有](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-イベントカードは 2 枚あります。イベントの数時間前に送信された [!UICONTROL &#x200B; オンデッキ &#x200B;] カードには、新規登録した人数が示されます。 後で送信される [!UICONTROL &#x200B; 結果 &#x200B;] カードには、実際に参加した人数が表示されます。
+イベントカードは 2 枚あります。イベントの数時間前に送信された [!UICONTROL  オンデッキ ] カードには、新規登録した人数が示されます。 後で送信される [!UICONTROL  結果 ] カードには、実際に参加した人数が表示されます。
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
 

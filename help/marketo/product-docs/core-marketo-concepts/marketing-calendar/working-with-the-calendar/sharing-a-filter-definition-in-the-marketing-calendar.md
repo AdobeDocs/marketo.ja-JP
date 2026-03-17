@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147304
-description: マーケティングカレンダーでのフィルター定義の共有 - Marketo ドキュメント - 製品ドキュメント
+description: マーケティングカレンダーのフィルター定義を他のユーザーと共有する方法を説明します。 フィルター URL をコピーして、チームと共有します。
 title: マーケティングカレンダーでのフィルター定義の共有
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 100%
+source-wordcount: '118'
+ht-degree: 80%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147064
-description: スマートキャンペーンへの通信制限の適用 - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンに通信制限を適用する方法を説明します。 ユーザーがキャンペーンを実行できるメールの数または時間の上限。
 title: スマートキャンペーンへの通信制限の適用
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 84%
+source-wordcount: '144'
+ht-degree: 70%
 
 ---
 
@@ -37,6 +37,6 @@ ht-degree: 84%
 
 >[!TIP]
 >
->これをデフォルトにするには、「管理者」セクションで [&#x200B; 通信の制限 &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} を編集します。
+>これをデフォルトにするには、「管理者」セクションで [ 通信の制限 ](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} を編集します。
 
 誤ってオーディエンスに大量のメールを送信しないようにすることができます。

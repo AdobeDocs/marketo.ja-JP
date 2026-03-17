@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147114
-description: プログラム内のマイトークンの理解 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムのマイトークンについて説明します。 トークンを使用して、プログラムまたはメンバーデータでコンテンツをパーソナライズします。
 title: プログラム内のマイトークンの理解
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 98%
+source-wordcount: '429'
+ht-degree: 94%
 
 ---
 
@@ -89,7 +89,7 @@ ht-degree: 98%
 
 >[!IMPORTANT]
 >
->[&#x200B; バッチキャンペーン &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"} では、ネストされたトークンはサポートされていません。
+>[ バッチキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"} では、ネストされたトークンはサポートされていません。
 
 >[!NOTE]
 >

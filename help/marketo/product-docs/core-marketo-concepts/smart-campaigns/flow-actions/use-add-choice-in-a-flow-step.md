@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146980
-description: フローステップでの「選択肢を追加」の使用 - Marketo ドキュメント - 製品ドキュメント
+description: フローステップで選択肢を追加を使用する方法を説明します。 選択ロジックを使用した条件に基づいてキャンペーンフローを分岐します。
 title: フローステップでの「選択肢を追加」の使用
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 90%
 
 ---
 

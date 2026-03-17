@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147100
-description: プログラムスケジュールビューの操作 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムスケジュール表示のナビゲーション方法を説明します。 時間を移動し、プログラム内のスケジュールされたエントリを表示します。
 title: プログラムスケジュールビューの操作
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 100%
+source-wordcount: '193'
+ht-degree: 90%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## スケジュールビューを検索 {#find-the-schedule-view}
 
-1. 「**[!UICONTROL マーケティング活動]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 

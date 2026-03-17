@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146974
-description: スマートキャンペーンでのクオリフィケーションルールの編集 - Marketo ドキュメント - 製品ドキュメント
-title: スマートキャンペーンでのクオリフィケーションルールの編集
+description: スマートキャンペーンで選定ルールを編集する方法を説明します。 ユーザーがキャンペーンを実行できる回数を変更します。
+title: スマートキャンペーンでの選定ルールの編集
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 57%
+source-wordcount: '222'
+ht-degree: 50%
 
 ---
 
-# スマートキャンペーンでのクオリフィケーションルールの編集 {#edit-qualification-rules-in-a-smart-campaign}
+# スマートキャンペーンでの選定ルールの編集 {#edit-qualification-rules-in-a-smart-campaign}
 
 選定ルールは、スマートキャンペーンでユーザーがフローを実行できる回数を制御します。 デフォルトでは、スマートキャンペーンを複数回トリガーした場合でも、フローを介して送信されるのは 1 回のみです。 これらの設定の変更方法を次に示します。
 
@@ -33,7 +33,7 @@ ht-degree: 57%
 
    >[!NOTE]
    >
-   >通信の制限は、デフォルトではスマートキャンペーンには適用されません。 スマートキャンペーンに通信制限を適用する [&#x200B; 方法を説明 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} ます。
+   >通信の制限は、デフォルトではスマートキャンペーンには適用されません。 スマートキャンペーンに通信制限を適用する [ 方法を説明 ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md){target="_blank"} ます。
 
    >[!NOTE]
    >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953331
-description: プログラムスケジュール表示でのスマートキャンペーンの再実行 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムスケジュール表示からスマートキャンペーンを再実行する方法を説明します。 バッチキャンペーンをオンデマンドで再実行します。
 title: プログラムスケジュール表示でのスマートキャンペーンの再実行
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 53%
+source-wordcount: '141'
+ht-degree: 41%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 53%
 
 プログラムスケジュール表示から、既存の Smart Campaign の新しい実行を直接簡単に作成できます。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 

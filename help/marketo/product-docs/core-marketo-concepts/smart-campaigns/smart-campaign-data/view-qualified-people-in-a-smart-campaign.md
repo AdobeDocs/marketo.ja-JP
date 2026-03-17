@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146966
-description: スマートキャンペーンの条件を満たす人物の表示 - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンで有資格者を表示する方法を説明します。 スマートリストまたはトリガーの条件を満たすユーザーを表示します。
 title: スマートキャンペーンの条件を満たす人物の表示
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 100%
+source-wordcount: '174'
+ht-degree: 89%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >条件を満たす人物の数は、スマートキャンペーンのクオリフィケーションルールにも依存します。詳しくは、[クオリフィケーションルールを編集](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}を参照してください。
+   >条件を満たす人物の数は、スマートキャンペーンの選定ルールにも依存します。詳しくは、[選定ルールを編集](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}を参照してください。
 
 作業は以上です。このリストを使用すると、スマートキャンペーンを実行する前に、フローを通過する可能性のある人物を確認できます。
 

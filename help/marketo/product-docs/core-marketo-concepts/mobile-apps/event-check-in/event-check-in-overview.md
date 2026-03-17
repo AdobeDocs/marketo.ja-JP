@@ -1,12 +1,12 @@
 ---
-description: イベントチェックインの概要
+description: タブレットから顧客をチェックインするためのイベントチェックインについて説明します。 チェックインアプリを使用して、イベント登録を管理します。
 title: イベントチェックインの概要
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 52%
+source-wordcount: '288'
+ht-degree: 68%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 52%
 
 >[!IMPORTANT]
 >
->2023 年 10 月 2 日（PT）に、AdobeはすべてのアプリストアからMarketo Events アプリを削除しました。 タブレット/モバイルデバイスにアプリが既にインストールされている場合は、当面の間そのアプリを使用し続けることができます。 Marketoの認証のためにMarketo EngageインスタンスがAdobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日（PT）に、アドビは Marketo イベントアプリをすべてのアプリストアから削除しました。タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。[詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 [!DNL iPad] または [!DNL Android] タブレット用のMarketo Events アプリを使用すると、イベントに到着した直後にユーザーを簡単にチェックインできます。
 
@@ -28,9 +28,9 @@ ht-degree: 52%
 
 イベント前：
 
-* イベントの [!DNL iPad] 人または [!DNL Android] 人のユーザー用に [&#x200B; 新しいMarketo ロールを作成 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} します
+* イベントの [ 人または ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"} 人のユーザー用に [!DNL iPad] 新しいMarketo ロールを作成 [!DNL Android] します
 * [新しいタブレットユーザーをイベントに招待](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}し、新しい役割を割り当てる
-* [&#x200B; 新しいMarketo イベントプログラムの作成 &#x200B;](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
+* [ 新しいMarketo イベントプログラムの作成 ](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * イベントの日付を指定する
 * イベントにユーザーを追加する
 

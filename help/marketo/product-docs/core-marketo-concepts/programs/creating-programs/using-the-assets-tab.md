@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147124
-description: 「アセット」タブの使用 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムで「Assets」タブを使用する方法を説明します。 プログラム内のすべてのローカルアセットを表示および管理します。
 title: 「アセット」タブの使用
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 73%
+source-wordcount: '148'
+ht-degree: 62%
 
 ---
 

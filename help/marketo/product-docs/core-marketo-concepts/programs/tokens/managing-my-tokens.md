@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147116
-description: マイトークンの管理 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムでマイトークンを管理する方法を説明します。 トークンを作成および使用して、プログラムのコンテンツとメールをパーソナライズします。
 title: マイトークンの管理
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '224'
+ht-degree: 91%
 
 ---
 

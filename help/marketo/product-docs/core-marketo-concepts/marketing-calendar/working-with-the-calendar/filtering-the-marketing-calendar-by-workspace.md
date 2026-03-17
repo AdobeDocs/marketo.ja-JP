@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147306
-description: ワークスペースによるマーケティングカレンダーのフィルタリング - Marketo ドキュメント - 製品ドキュメント
+description: マーケティングカレンダーをワークスペースでフィルタリングする方法を説明します。 フィルターパネルでは、特定のワークスペースで作成されたオブジェクトのみを表示します。
 title: ワークスペースによるマーケティングカレンダーのフィルタリング
 exl-id: 3f1259dd-a42d-4d9b-b2ba-1f1060f8dae6
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 94%
+source-wordcount: '80'
+ht-degree: 68%
 
 ---
 

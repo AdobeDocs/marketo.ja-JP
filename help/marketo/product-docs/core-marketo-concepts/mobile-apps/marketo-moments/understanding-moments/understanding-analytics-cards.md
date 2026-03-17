@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8781988
-description: 分析カードについて - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Moments の Analytics カードについて説明します。 モバイルアプリで主要指標とパフォーマンスインサイトを表示します。
 title: 分析カードについて
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 100%
+source-wordcount: '287'
+ht-degree: 94%
 
 ---
 

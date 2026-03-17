@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6848705
-description: ベストプラクティス - プログラムの整理方法 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムを整理するためのベストプラクティスに関するお問い合わせ。 Campaign のフォルダーとプログラムを構造化して、明確にし規模を拡大します。
 title: ベストプラクティス - プログラムの整理方法
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '847'
-ht-degree: 97%
+source-wordcount: '854'
+ht-degree: 95%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 97%
 >   * ライフサイクル
 >   * スコア
 >   * データ管理
->* Sales Insight
+>* セールスインサイト
 >   * 注目のアクション
 >   * セールスメール
 >   * 営業リクエストキャンペーン
@@ -121,4 +121,4 @@ Marketo の最も優れた機能の 1 つは、プログラムの複製を作成
 
 ## 概要 {#summary}
 
-ご覧の通り、Marketo には多くの力があります。ここでは基本を説明しましたが、[0&rbrace;Marketo Engageのエキスパートによるその他のサービスを検討して、微調整を行い、成功に向けたセットアップを行ってください。](https://business.adobe.com/jp/products/marketo/services-support.html){target="_blank"}
+ご覧の通り、Marketo には多くの力があります。ここでは基本を説明しましたが、[0}Marketo Engageのエキスパートによるその他のサービスを検討して、微調整を行い、成功に向けたセットアップを行ってください。](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}

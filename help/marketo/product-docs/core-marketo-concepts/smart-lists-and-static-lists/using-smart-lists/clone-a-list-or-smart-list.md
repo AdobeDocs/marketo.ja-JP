@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557320
-description: リストまたはスマートリストの複製 - Marketo ドキュメント - 製品ドキュメント
+description: リストまたはスマートリストを複製する方法を説明します。 新しいリストの開始点として使用するコピーを作成します。
 title: リストまたはスマートリストの複製
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 76%
 
 ---
 

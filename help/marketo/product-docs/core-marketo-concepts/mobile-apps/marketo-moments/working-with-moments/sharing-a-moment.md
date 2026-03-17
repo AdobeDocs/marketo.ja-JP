@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783559
-description: モーメントの共有 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Moments アプリからモーメントを共有する方法を説明します。 主要なインサイトやアクションを同僚に送信します。
 title: モーメントの共有
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 100%
+source-wordcount: '157'
+ht-degree: 88%
 
 ---
 

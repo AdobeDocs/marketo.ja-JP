@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2952636
-description: カスタムロジックでの重複リードの検索 - Marketo ドキュメント - 製品ドキュメント
+description: カスタムロジックを使用して重複する人物を検索する方法を説明します。 条件によって重複を識別するスマート・リストを作成します。
 title: カスタムロジックでの重複リードの検索
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 100%
+source-wordcount: '147'
+ht-degree: 87%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953188
-description: 推測フィルター - Marketo ドキュメント - 製品ドキュメント
+description: スマート リストで推論されるフィルターについて説明します。 Marketoがリンクされたアセットからフィルターを推測する方法を理解します。
 title: 推測フィルター
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 100%
+source-wordcount: '218'
+ht-degree: 93%
 
 ---
 

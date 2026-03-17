@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147066
-description: スマートキャンペーンでのリード制限数の上書き - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンでユーザー制限を上書きする方法を説明します。 通信制限に達した場合でもユーザーが実行できるようにします。
 title: スマートキャンペーンでのリード制限数の上書き
 exl-id: 45ff3e36-01fd-42ea-ba74-efd98867a58a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 35%
+source-wordcount: '146'
+ht-degree: 26%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo Engageでは、スマートキャンペーンの対象となる最大人
 
 >[!PREREQUISITES]
 >
->Marketo管理で [&#x200B; スマートキャンペーンの人物制限を有効にする &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} を必ずオンにします。
+>Marketo管理で [ スマートキャンペーンの人物制限を有効にする ](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} を必ずオンにします。
 
 1. **[!UICONTROL マーケティングアクティビティ]** で、スマートキャンペーンに移動し、「**[!UICONTROL スケジュール]**」をクリックします。
 

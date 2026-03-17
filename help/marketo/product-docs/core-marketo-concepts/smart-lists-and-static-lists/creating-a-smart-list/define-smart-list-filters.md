@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557316
-description: スマートリストフィルターの定義 - Marketo ドキュメント - 製品ドキュメント
+description: スマートリストフィルターの定義方法について説明します。 フィルターの制約と値を設定して、リストに表示するユーザーを決定します。
 title: スマートリストフィルターの定義
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 100%
+source-wordcount: '196'
+ht-degree: 90%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 この例では、次のフィルターを定義して、カリフォルニア州在住で、スコアが 50 を超える人をすべて検索します。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/define-smart-list-filters-1.png)
 

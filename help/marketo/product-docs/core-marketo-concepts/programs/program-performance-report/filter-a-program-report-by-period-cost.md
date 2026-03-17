@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147237
-description: プログラムレポートを期間原価でフィルター - Marketo ドキュメント - 製品ドキュメント
+description: 期間コストでプログラムレポートをフィルタリングする方法を説明します。 特定の原価期間のプログラム実績を表示します。
 title: プログラムレポートを期間原価でフィルター
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 100%
+source-wordcount: '99'
+ht-degree: 82%
 
 ---
 

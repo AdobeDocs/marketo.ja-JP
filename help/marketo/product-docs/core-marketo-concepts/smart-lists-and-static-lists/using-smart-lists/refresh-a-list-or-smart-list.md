@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557318
-description: リストまたはスマートリストの更新 - Marketo ドキュメント - 製品ドキュメント
+description: リストまたはスマート・リストをリフレッシュする方法を説明します。 現在のフィルター結果またはメンバーシップを反映するようにリストのユーザーを更新します。
 title: リストまたはスマートリストの更新
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 100%
+source-wordcount: '145'
+ht-degree: 84%
 
 ---
 

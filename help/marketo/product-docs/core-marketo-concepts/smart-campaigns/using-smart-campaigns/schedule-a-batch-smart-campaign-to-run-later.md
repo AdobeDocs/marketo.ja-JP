@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146970
-description: 後で実行するようにバッチスマートキャンペーンをスケジュール - Marketo ドキュメント - 製品ドキュメント
+description: 後で実行するようにバッチ Smart Campaign をスケジュールする方法を説明します。 キャンペーンを 1 回実行する日時を設定します。
 title: 後で実行するようにバッチスマートキャンペーンをスケジュール
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 86%
+source-wordcount: '141'
+ht-degree: 71%
 
 ---
 

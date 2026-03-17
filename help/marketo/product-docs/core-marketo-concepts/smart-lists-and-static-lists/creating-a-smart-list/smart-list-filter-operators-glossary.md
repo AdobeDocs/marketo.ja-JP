@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557312
-description: スマートリストフィルター演算子の用語集 - Marketo ドキュメント - 製品ドキュメント
+description: スマート リスト フィルター演算子に関するヘルプを表示します。 フィルターを作成するための equals、contains およびその他の演算子について説明します。
 title: スマートリストフィルター演算子の用語集
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 100%
+source-wordcount: '623'
+ht-degree: 97%
 
 ---
 
@@ -105,7 +105,7 @@ ht-degree: 100%
 **&#42;** 自然言語入力は便利です。入力できるパターンの一部を以下に示します。
 
 * 1 時間
-* 82 日間
+* 82 日
 * 3 週間
 * 14 か月
 * 1 年

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6094949
-description: スマートキャンペーンの移動 - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンの移動方法について説明します。 マーケティングアクティビティで、キャンペーンを別のフォルダーに移動します。
 title: スマートキャンペーンの移動
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 50%
+source-wordcount: '153'
+ht-degree: 42%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 50%
 >
 >ルールは変更されないので、キャンペーンのスマートリストまたはフローステップが元のプログラムを参照している場合は、自動更新は _行われないので、新しいプログラムを反映させるためにその情報を手動で更新する必要があり_ す。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/move-a-smart-campaign-1.png)
 

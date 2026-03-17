@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147294
-description: マーケティングカレンダーのフィルタリング - Marketo ドキュメント - 製品ドキュメント
+description: エントリタイプ、プログラムタグ、ワークスペースでマーケティングカレンダーをフィルタリングする方法を説明します。 表示するスケジュール済みアセットを制御します。
 title: マーケティングカレンダーのフィルタリング
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 84%
+source-wordcount: '124'
+ht-degree: 70%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 84%
 
    >[!NOTE]
    >
-   >デフォルトのエントリタイプは **[!UICONTROL メール]**&#x200B;**[!UICONTROL プログラム]** および **[!UICONTROL メールを使用したスマートキャンペーン]** です。
+   >デフォルトのエントリタイプは **[!UICONTROL メール]****[!UICONTROL プログラム]** および **[!UICONTROL メールを使用したスマートキャンペーン]** です。
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 

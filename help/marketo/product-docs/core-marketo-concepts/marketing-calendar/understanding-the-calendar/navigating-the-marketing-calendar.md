@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147257
-description: マーケティングカレンダーの操作 - Marketo ドキュメント - 製品ドキュメント
+description: 3 週間モードと月モードを含むマーケティングカレンダーの操作方法を説明します。 ビューを切り替え、議題を使用してスケジュールされたアセットを表示します。
 title: マーケティングカレンダーの操作
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 88%
+source-wordcount: '187'
+ht-degree: 77%
 
 ---
 

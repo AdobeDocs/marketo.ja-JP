@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557273
-description: フィルターを検索してスマートリストに追加 - Marketo ドキュメント - 製品ドキュメント
+description: スマートリストにフィルターを検索して追加する方法を説明します。 フィルターツリーからフィルターを参照して追加し、リストロジックを作成します。
 title: フィルターを検索してスマートリストに追加
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 100%
+source-wordcount: '145'
+ht-degree: 83%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 >
 >右側のツリーを確認してください。フィルターは非常に強力で、様々な機能があります。
 
-1. 「**[!UICONTROL マーケティング活動]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/find-and-add-filters-to-a-smart-list-1.png)
 

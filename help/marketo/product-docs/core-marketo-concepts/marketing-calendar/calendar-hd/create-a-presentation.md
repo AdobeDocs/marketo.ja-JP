@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7503971
-description: プレゼンテーションの作成 - Marketo ドキュメント - 製品ドキュメント
+description: HDTV でマーケティングカレンダープレゼンテーションをプロジェクトビューに作成する方法を説明します。 チームに合わせてワークスペース固有のプレゼンテーションを設定します。
 title: プレゼンテーションの作成
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 91%
+source-wordcount: '101'
+ht-degree: 72%
 
 ---
 

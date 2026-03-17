@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783555
-description: お気に入りの作成 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Moments でお気に入りを作成する方法を説明します。 モバイルアプリですばやくアクセスできるように、重要な項目をピン留めします。
 title: お気に入りの作成
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 81%
 
 ---
 

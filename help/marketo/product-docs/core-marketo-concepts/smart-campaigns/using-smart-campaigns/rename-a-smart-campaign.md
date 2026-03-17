@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147049
-description: スマートキャンペーンの名前の変更 - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンの名前を変更する方法については、こちらを参照してください。 キャンペーン設定または右クリックメニューからキャンペーン名を変更します。
 title: スマートキャンペーン名の変更
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 87%
+source-wordcount: '99'
+ht-degree: 70%
 
 ---
 

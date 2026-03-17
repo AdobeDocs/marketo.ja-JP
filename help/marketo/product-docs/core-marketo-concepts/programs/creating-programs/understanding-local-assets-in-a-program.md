@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147093
-description: プログラムのローカルアセットの理解 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムのローカルアセットについて説明します。 プログラム内でのメール、ランディングページ、その他のアセットのライブについて説明します。
 title: プログラムのローカルアセットの理解
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 82%
 
 ---
 

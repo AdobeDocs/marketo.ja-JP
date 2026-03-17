@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953362
-description: マーケティングカレンダーでエントリを直接確認 - Marketo ドキュメント - 製品ドキュメント
+description: マーケティングカレンダーでスマートキャンペーンとメールプログラムの仮のエントリを確認する方法を説明します。 検証を実行し、キャンペーンが実行されることを確認します。
 title: マーケティングカレンダーでエントリを直接確認
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 77%
 
 ---
 

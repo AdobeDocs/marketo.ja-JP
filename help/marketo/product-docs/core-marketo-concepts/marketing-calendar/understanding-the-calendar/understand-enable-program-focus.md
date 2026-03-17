@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953364
-description: プログラムフォーカスの理解／有効化 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムフォーカスを使用してマーケティングカレンダーエントリとやり取りする方法について説明します。 エントリを作成、編集、削除、または確認するために、プログラムへのフォーカスを有効にします。
 title: プログラムフォーカスの理解／有効化
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 100%
+source-wordcount: '166'
+ht-degree: 86%
 
 ---
 

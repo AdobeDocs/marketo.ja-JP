@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146968
-description: スマートキャンペーン結果の表示 - Marketo ドキュメント - 製品ドキュメント
+description: Smart Campaign の結果を表示する方法を説明します。 誰が資格を得たのか、フローを実行したのか、どのようなアクションが実行されたかを確認します。
 title: スマートキャンペーン結果の表示
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 100%
+source-wordcount: '126'
+ht-degree: 84%
 
 ---
 

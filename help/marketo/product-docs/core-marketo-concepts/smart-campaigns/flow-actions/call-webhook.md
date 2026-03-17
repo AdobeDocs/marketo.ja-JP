@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147023
-description: Web フックの呼び出し - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンフローステップから Webhook を呼び出す方法を説明します。 フローに入ったときに外部システムにデータを送信します。
 title: Web フックの呼び出し
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 74%
 
 ---
 

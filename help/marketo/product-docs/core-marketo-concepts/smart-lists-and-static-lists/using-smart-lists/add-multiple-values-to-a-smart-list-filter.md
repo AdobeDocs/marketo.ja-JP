@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360496
-description: スマートリストフィルターへの複数値の追加 - Marketo ドキュメント - 製品ドキュメント
+description: スマート・リスト・フィルタに複数の値を追加する方法を説明します。 柔軟性を高めるために、1 つのフィルターで複数の値のいずれかを一致させます。
 title: スマートリストフィルターへの複数値の追加
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 100%
+source-wordcount: '141'
+ht-degree: 85%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 カリフォルニア州在住のすべての人を検索する際に、「California」および「CA」の両方がデータベースに保存されている可能性があるとします。該当するすべての人物を含めるには、2 つの[!UICONTROL 州]フィルターを使用することもできますが、1 つのフィルターを使用する方が簡単です。
 
-1. 「**[!UICONTROL マーケティング活動]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-1.png)
 

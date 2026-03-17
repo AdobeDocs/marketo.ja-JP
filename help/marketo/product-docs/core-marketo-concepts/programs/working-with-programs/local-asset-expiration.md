@@ -1,12 +1,12 @@
 ---
-description: ローカルアセットの有効期限 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムでのローカルアセットの有効期限について説明します。 プログラム内のローカルアセットの有効期限が切れて削除されるタイミングを設定します。
 title: ローカルアセットの有効期限
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 100%
+source-wordcount: '276'
+ht-degree: 93%
 
 ---
 

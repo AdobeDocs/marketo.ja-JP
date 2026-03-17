@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7503973
-description: プレゼンテーションのカスタマイズ - Marketo ドキュメント - 製品ドキュメント
+description: ビューと目標を使用してマーケティングカレンダープレゼンテーションをカスタマイズする方法を説明します。 回転頻度を設定して、チームにとって最も重要な項目を表示します。
 title: プレゼンテーションのカスタマイズ
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 92%
+source-wordcount: '311'
+ht-degree: 85%
 
 ---
 

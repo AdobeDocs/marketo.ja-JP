@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147051
-description: スマートキャンペーンのチェックリスト - Marketo ドキュメント - 製品ドキュメント
+description: Smart Campaign チェックリストのヘルプを確認します。 アクティブ化する前に、このリストを使用して、キャンペーンが正しく設定されていることを確認します。
 title: スマートキャンペーンのチェックリスト
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 91%
+source-wordcount: '259'
+ht-degree: 83%
 
 ---
 

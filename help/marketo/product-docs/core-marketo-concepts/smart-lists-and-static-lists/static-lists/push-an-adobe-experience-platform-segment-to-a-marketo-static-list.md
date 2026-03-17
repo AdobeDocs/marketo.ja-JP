@@ -1,12 +1,12 @@
 ---
-description: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ - Marketo ドキュメント - 製品ドキュメント
+description: Adobe Experience Platform セグメントをMarketo静的リストにプッシュする方法を説明します。 AEP セグメントをMarketo リストに同期します。
 title: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '658'
-ht-degree: 100%
+source-wordcount: '663'
+ht-degree: 96%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 >* **[!UICONTROL 管理者]**／**[!UICONTROL Launchpoint]** に移動します。作成したロールの名前を探し、「**[!UICONTROL 詳細を表示]**」をクリックします。手順 7 で必要になるため、**[!UICONTROL クライアント ID]** と&#x200B;**[!UICONTROL クライアントシークレット]**&#x200B;の情報をコピーして保存します。
 >* Marketo で、静的リストを作成するか、既に作成した静的リストを見つけて選択します。ID が必要になります。
 
-1. [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"} にログインします。
+1. [Adobe Experience Platform](https://experienceleague.adobe.com/ja){target="_blank"} にログインします。
 
    ![](assets/push-an-adobe-experience-platform-segment-1.png)
 

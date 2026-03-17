@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557337
-description: リストおよびスマートリストのビューの作成と変更 - Marketo ドキュメント - 製品ドキュメント
+description: リストおよびスマート・リストのビューを作成および変更する方法を説明します。 「人物」タブに表示する列をカスタマイズします。
 title: リストおよびスマートリストのビューの作成と変更
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 100%
+source-wordcount: '231'
+ht-degree: 91%
 
 ---
 

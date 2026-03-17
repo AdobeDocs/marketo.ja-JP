@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951703
-description: キャンペーンのリクエスト - Marketo ドキュメント - 製品ドキュメント
+description: キャンペーンリクエスト フローステップの使用方法を説明します。 このステップが完了したときに実行する別のキャンペーンをトリガーします。
 title: キャンペーンのリクエスト
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 100%
+source-wordcount: '129'
+ht-degree: 85%
 
 ---
 

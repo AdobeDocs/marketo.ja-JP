@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147243
-description: プログラムスケジュールビューのエントリタイプ - Marketo ドキュメント - 製品ドキュメント
+description: プログラム スケジュール ビューのエントリ タイプについて説明します。 メールプログラム、スマートキャンペーン、その他のエントリタイプについて説明します。
 title: プログラムスケジュールビューのエントリタイプ
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 80%
+source-wordcount: '159'
+ht-degree: 71%
 
 ---
 

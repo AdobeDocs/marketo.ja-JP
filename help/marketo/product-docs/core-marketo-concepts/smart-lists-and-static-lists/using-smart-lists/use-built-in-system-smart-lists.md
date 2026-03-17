@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557275
-description: ビルトイン／システムのスマートリストの使用 - Marketo ドキュメント - 製品ドキュメント
+description: 組み込みリストとシステムのスマートリストの使用方法を説明します。 キャンペーンでは、「すべてのユーザー」または「すべての購読解除」などの事前定義済みリストを使用します。
 title: ビルトイン／システムのスマートリストの使用
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 100%
+source-wordcount: '206'
+ht-degree: 90%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147316
-description: リードの手動作成 - Marketo ドキュメント - 製品ドキュメント
+description: データベースでユーザーを手動で作成する方法を説明します。 メールとフィールドの値で新しいリードまたは連絡先を追加します。
 title: リードの手動作成
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 100%
+source-wordcount: '77'
+ht-degree: 72%
 
 ---
 

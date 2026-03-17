@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504130
-description: カスタムゴールの作成 - Marketo ドキュメント - 製品ドキュメント
+description: マーケティングカレンダーでカスタム目標を作成する方法を説明します。 手動で更新した目標を使用して、進捗を追跡し、チームをやる気にさせます。
 title: カスタムゴールの作成
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 77%
+source-wordcount: '122'
+ht-degree: 63%
 
 ---
 
