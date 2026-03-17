@@ -1,14 +1,14 @@
 ---
-description: アイコンの用語集 — Marketo ドキュメント — 製品ドキュメント
+description: Marketo Engage Modern UX のアイコンと、それらがクラシックからどのようにマッピングされるかを説明します。 この用語集を使用して、アセットのタイプ、キャンペーンの状態およびプログラムのタイプを特定します。
 title: アイコン用語集
 hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 100%
+source-wordcount: '261'
+ht-degree: 89%
 
 ---
 
@@ -223,7 +223,7 @@ ht-degree: 100%
   <tr>
    <td><strong>該当なし</strong></td>
    <td><img src="assets/trigger-inactive.png"></td>
-   <td>トリガー - 無効化済み</td>
+   <td>トリガー - 非アクティブ</td>
   </tr>
   <tr>
    <td><img src="assets/classic-workspace.png"></td>

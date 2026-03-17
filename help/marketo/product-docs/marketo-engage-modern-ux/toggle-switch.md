@@ -1,12 +1,14 @@
 ---
-description: 切替スイッチ - Marketo ドキュメント - 製品ドキュメント
+description: トグルスイッチを使用して、Marketo Classic と Modern UX を切り替える方法を説明します。 管理者で役割のアクセス権を設定し、個々またはすべての機能に対してアクセス権を有効にします。
 title: 切替スイッチ
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
+hide: true
+hidefromtoc: true
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '275'
-ht-degree: 100%
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+workflow-type: tm+mt
+source-wordcount: '299'
+ht-degree: 89%
 
 ---
 

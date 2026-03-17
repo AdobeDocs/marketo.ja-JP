@@ -1,12 +1,12 @@
 ---
-description: グローバル検索の使用 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Engageのグローバル検索を使用して、インスタンス全体でアセットを検索する方法を説明します。 検索を実行し、パンくずリストをクリックして項目にジャンプし、フィルターを使用して結果を絞り込みます。
 title: グローバル検索の使用
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 100%
+source-wordcount: '170'
+ht-degree: 82%
 
 ---
 
