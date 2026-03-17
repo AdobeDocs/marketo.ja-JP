@@ -1,12 +1,12 @@
 ---
-description: アクティビティログ - Marketo ドキュメント – 製品ドキュメント
+description: Dynamic Chatのジェネレーティブ AI アクティビティログについて説明します。 すべてのタスク、所有者、タイプおよび編集履歴を 1 か所で表示できます。
 title: アクティビティログ
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 7%
+source-wordcount: '66'
+ht-degree: 6%
 
 ---
 

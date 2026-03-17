@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515027
-description: ガイド付きランディングページに画像を追加する - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのガイド付きランディングページに画像を追加する方法を説明します。 テンプレートに画像要素を挿入して設定します。
 title: ガイド付きランディングページに画像を追加する
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 83%
 
 ---
 

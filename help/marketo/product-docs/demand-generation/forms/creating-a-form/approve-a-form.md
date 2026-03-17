@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359578
-description: フォームの承認 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでフォームを承認する方法を説明します。 ランディングページで使用できるようにフォームを承認し、リードのキャプチャを開始します。
 title: フォームの承認
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 51%
+source-wordcount: '128'
+ht-degree: 39%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 51%
 
 準備が整った既存のフォームを承認する方法を次に示します。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/approve-a-form-1.png)
 
@@ -31,7 +31,7 @@ ht-degree: 51%
 
    ![](assets/approve-a-form-3.png)
 
-   承認され、（ランディングページに追加 [&#x200B; 準備が整いました &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}。
+   承認され、（ランディングページに追加 [ 準備が整いました ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}。
 
    >[!NOTE]
    >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11379622
-description: Facebook リード広告の設定 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoで Facebook リード広告を設定する方法を説明します。 Facebook アカウントを接続し、リード広告提出物をMarketoに同期します。
 title: Facebook リード広告の設定
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 92%
+source-wordcount: '350'
+ht-degree: 86%
 
 ---
 

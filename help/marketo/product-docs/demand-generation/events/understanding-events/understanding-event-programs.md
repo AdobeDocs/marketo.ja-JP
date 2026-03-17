@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949841
-description: イベントプログラムについて - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのイベントプログラムについて説明します。 イベントやウェビナーの構造、チャネル、計画および実行方法について説明します。
 title: イベントプログラムについて
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 83%
 
 ---
 

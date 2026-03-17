@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359713
-description: ランディングページの効果レポート - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのランディングページパフォーマンスレポートについて説明します。 ランディングページの訪問数、コンバージョン数、その他の指標を表示します。
 title: ランディングページ効果レポート
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 100%
+source-wordcount: '217'
+ht-degree: 91%
 
 ---
 

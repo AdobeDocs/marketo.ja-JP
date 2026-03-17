@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096725
-description: Marketo でのイベントの作成 - Marketo ドキュメント - 製品ドキュメント
+description: ON24 統合用のイベントをMarketoで作成する方法を説明します。 プログラムを設定して、ON24 ウェビナーにリンクします。
 title: Marketo でのイベントの作成
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 100%
+source-wordcount: '149'
+ht-degree: 84%
 
 ---
 

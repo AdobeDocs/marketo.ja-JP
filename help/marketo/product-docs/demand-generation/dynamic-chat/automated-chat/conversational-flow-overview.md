@@ -1,12 +1,12 @@
 ---
-description: 対話型フローの概要 - Marketo ドキュメント - 製品ドキュメント
+description: 会話フローと、会話フローとダイアログとの違いについて説明します。 訪問者のアクションによってトリガーされるフローを設計して、フォームやポップアップで使用します。
 title: 対話型フローの概要
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 98%
+source-wordcount: '355'
+ht-degree: 92%
 
 ---
 
@@ -82,7 +82,7 @@ ht-degree: 98%
 
 >[!TIP]
 >
->[&#x200B; 会話SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=ja){target="_blank"} の動作を参照してください。
+>[ 会話SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} の動作を参照してください。
 
 >[!MORELIKETHIS]
 >

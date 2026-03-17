@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097969
-description: フリーフォームランディングページテンプレートを作成する - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでフリーフォームのランディングページテンプレートを作成する方法を説明します。 今後のランディングページ用に、再利用可能なテンプレートを Design Studio で作成します。
 title: フリーフォームランディングページテンプレートを作成する
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '208'
+ht-degree: 89%
 
 ---
 

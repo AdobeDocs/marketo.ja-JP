@@ -1,12 +1,12 @@
 ---
-description: コールバック関数 - Marketo ドキュメント - 製品ドキュメント
+description: Dynamic Chat ウィジェットコールバック関数を使用して、サードパーティプラットフォームにコンバージョンイベントを送信する方法について説明します。 トリガーされたアクション、エンゲージメントされたアクション、目標を達成したアクションにイベントを使用します。
 title: コールバック関数
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 100%
+source-wordcount: '632'
+ht-degree: 96%
 
 ---
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8160086
-description: テンプレート 3C - Marketo ドキュメント - 製品ドキュメント
+description: テンプレート 3C ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
 title: テンプレート 3C
 exl-id: 0bf7cb43-607e-4c9b-a860-511837925a1e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: '65'
+ht-degree: 72%
 
 ---
 
 # テンプレート 3C {#template-3c}
 
-右クリックして[テンプレート 3C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html?lang=ja)します
+右クリックして[テンプレート 3C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)します
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html?lang=ja)
+[Template 3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359730
-description: フリーフォームランディングページへのカスタム HTML の追加 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのフリーフォームのランディングページにカスタム HTMLを追加する方法を説明します。 カスタムコンテンツまたはトラッキング用にHTML ブロックを挿入します。
 title: フリーフォームランディングページへのカスタム HTML の追加
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 100%
+source-wordcount: '161'
+ht-degree: 86%
 
 ---
 

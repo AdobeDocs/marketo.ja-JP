@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359705
-description: フリーフォームランディングページに新しいフォームを追加する - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのフリーフォームのランディングページに新しいフォームを追加する方法を説明します。 Marketo フォームを挿入して、ページ上のリードを取り込みます。
 title: フリーフォームランディングページに新しいフォームを追加する
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 100%
+source-wordcount: '155'
+ht-degree: 84%
 
 ---
 

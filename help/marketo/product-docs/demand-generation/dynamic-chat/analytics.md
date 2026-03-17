@@ -1,16 +1,16 @@
 ---
-description: Analytics - Marketoドキュメント — 製品ドキュメント
-title: Analytics
+description: エンゲージメントとパフォーマンスのためのDynamic Chat Analytics ダッシュボードについて説明します。 ダイアログ指標、ミーティング予約、ライブチャットパフォーマンスを表示し、結果を書き出します。
+title: 分析
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 100%
+source-wordcount: '276'
+ht-degree: 92%
 
 ---
 
-# Analytics {#analytics}
+# 分析 {#analytics}
 
 レポートはダイアログレベルで利用できますが、以下の 3 つのダッシュボードを使用して全体的なエンゲージメントを確認してください。
 

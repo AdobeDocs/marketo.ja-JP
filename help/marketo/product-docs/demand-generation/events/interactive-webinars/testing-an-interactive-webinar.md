@@ -1,11 +1,11 @@
 ---
-description: インタラクティブウェビナーのテスト - Marketo ドキュメント – 製品ドキュメント
+description: 運用開始前にインタラクティブウェビナーをテストする方法について説明します。 登録、コンテンツ、エンゲージメントツールが期待どおりに機能することを確認します。
 title: インタラクティブウェビナーのテスト
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '381'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 任意のインタラクティブウェビナーをテストウェビナーとして使用できます。 このテストは、10 人以下のホストとプレゼンター（参加者）を追加することで実行できます。
 
-テストウェビナーを作成するワークフローは、インタラクティブウェビナーイベントプログラムの点で [&#x200B; 他のウェビナーを作成する &#x200B;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) ワークフローと同じです。 配信に選択した日付を遠い将来に設定することをお勧めします。
+テストウェビナーを作成するワークフローは、インタラクティブウェビナーイベントプログラムの点で [ 他のウェビナーを作成する ](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md) ワークフローと同じです。 配信に選択した日付を遠い将来に設定することをお勧めします。
 
 >[!CAUTION]
 >

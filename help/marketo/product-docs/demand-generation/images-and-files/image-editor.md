@@ -1,11 +1,11 @@
 ---
-description: 画像エディター - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Design Studio の画像エディターについて説明します。 Marketoを離れることなく、画像の切り抜き、サイズ変更および基本編集を行います。
 title: 画像エディター
 exl-id: fef96635-3011-4549-9c40-e92c3f33c398
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 100%
+source-wordcount: '71'
+ht-degree: 71%
 
 ---
 

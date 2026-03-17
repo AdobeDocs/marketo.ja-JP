@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359543
-description: フォームへのフィールドの追加 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでフィールドをフォームに追加する方法を説明します。 フォームフィールドを追加し、人物または会社の属性にマッピングします。
 title: フォームへのフィールドの追加
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 76%
+source-wordcount: '150'
+ht-degree: 63%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 76%
 
    >[!NOTE]
    >
-   >新しいフォームを作成すると、[!UICONTROL 姓]&#x200B;[!UICONTROL 名]と[!UICONTROL メールアドレス]は自動的に追加されます。
+   >新しいフォームを作成すると、[!UICONTROL 姓][!UICONTROL 名]と[!UICONTROL メールアドレス]は自動的に追加されます。
 
 1. フォームに追加するフィールドを探して選択します。
 
@@ -53,4 +53,4 @@ ht-degree: 76%
 
 >[!MORELIKETHIS]
 >
->[&#x200B; フォームフィールドを必須にする &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}
+>[ フォームフィールドを必須にする ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}

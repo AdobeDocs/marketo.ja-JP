@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515266
-description: ガイド付きランディングページを作成する - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでガイド付きランディングページを作成する方法を説明します。 テンプレートを選択し、ガイド付きエディターを使用してページを作成します。
 title: ガイド付きランディングページテンプレートを作成する
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '213'
+ht-degree: 90%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 ガイド付きランディングページは、プログラムのローカルアセットとして、または[!UICONTROL デザインスタジオ]で作成してグローバルに使用できます。
 
-1. 「**[!UICONTROL マーケティング活動]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/one-1.png)
 

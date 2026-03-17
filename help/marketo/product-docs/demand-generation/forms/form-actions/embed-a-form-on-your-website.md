@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359641
-description: Web サイトへのフォームの埋め込み - Marketo ドキュメント - 製品ドキュメント
+description: Web サイトにMarketo フォームを埋め込む方法を説明します。 埋め込みコードを取得し、フォームを任意の web ページに追加します。
 title: Web サイトへのフォームの埋め込み
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 100%
+source-wordcount: '222'
+ht-degree: 90%
 
 ---
 

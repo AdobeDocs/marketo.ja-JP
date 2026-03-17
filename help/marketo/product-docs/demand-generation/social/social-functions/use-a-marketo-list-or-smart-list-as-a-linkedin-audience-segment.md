@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504180
-description: LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoリストまたはスマートリストを LinkedIn オーディエンスセグメントとして使用する方法について説明します。 Ad Bridge経由で広告ターゲティングを行うために、LinkedIn にリストを送信します。
 title: LinkedIn のオーディエンスセグメントとしての Marketo リストまたはスマートリストの使用
 exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 100%
+source-wordcount: '203'
+ht-degree: 87%
 
 ---
 

@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2359616
-description: フォームでのソーシャルフォーム入力を有効にする — Marketo ドキュメント — 製品ドキュメント
+description: 訪問者がソーシャルネットワークを使用してフォームを送信できるように、ソーシャルフォーム入力を有効にする方法を説明します。 余分なリードデータを取得し、訪問者により迅速なエクスペリエンスを提供します。
 title: フォームでのソーシャルフォーム入力を有効にする
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 100%
+source-wordcount: '136'
+ht-degree: 80%
 
 ---
 

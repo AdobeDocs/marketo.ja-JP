@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515401
-description: ガイド付きランディングページテンプレートの作成 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでガイド付きランディングページテンプレートを作成する方法を説明します。 構文を使用して、ガイド付きエディターの編集可能な領域と変数を定義します。
 title: ガイド付きランディングページテンプレートの作成
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 85%
+source-wordcount: '1135'
+ht-degree: 83%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359742
-description: ランディングページの効果レポートをフィルターする — Marketo ドキュメント — 製品ドキュメント
+description: Marketoのランディングページパフォーマンスレポートをフィルタリングする方法を説明します。 日付、ページ、その他の条件で結果を絞り込みます。
 title: ランディングページの効果レポートをフィルターする
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 100%
+source-wordcount: '156'
+ht-degree: 87%
 
 ---
 

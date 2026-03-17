@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949844
-description: 新しいイベントプログラムの作成 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoで新しいイベントプログラムを作成する方法を説明します。 プログラムを設定し、チャネルを選択し、イベント設定を指定します。
 title: 新しいイベントプログラムの作成
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 100%
+source-wordcount: '190'
+ht-degree: 88%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: チャットユーザーの追加または削除 - Marketo ドキュメント - 製品ドキュメント
+description: Adobe Admin ConsoleでDynamic Chat ユーザーを追加または削除する方法を説明します。 製品プロファイルを割り当てて、チームのアクセスを管理します。
 title: チャットユーザーの追加または削除
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 100%
+source-wordcount: '276'
+ht-degree: 91%
 
 ---
 

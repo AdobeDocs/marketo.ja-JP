@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472348
-description: 既存のフリーフォームランディングページテンプレートのモバイルとの互換性の確保 - Marketo ドキュメント - 製品ドキュメント
+description: 既存のフリーフォームのランディングページテンプレートをモバイル互換にする方法を説明します。 テンプレートまたはランディングページエディターからのアップグレード。
 title: 既存のフリーフォームランディングページテンプレートのモバイルとの互換性の確保
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 100%
+source-wordcount: '258'
+ht-degree: 92%
 
 ---
 

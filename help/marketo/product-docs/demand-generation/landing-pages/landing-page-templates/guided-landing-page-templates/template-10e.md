@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8784011
-description: テンプレート 10E - Marketo ドキュメント - 製品ドキュメント
+description: テンプレート 10E ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
 title: テンプレート 10E
 exl-id: 81a61057-fe24-4dcb-9a9c-73eca9528b4b
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 100%
+source-wordcount: '62'
+ht-degree: 70%
 
 ---
 
 # テンプレート 10E {#template-10e}
 
-右クリックして[テンプレート 10E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=ja)します
+右クリックして[テンプレート 10E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)します
 
 ![](assets/image2015-7-27-11-3a6-3a25.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 10E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=ja)
+[Template 10E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)

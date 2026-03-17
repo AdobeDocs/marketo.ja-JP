@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359398
-description: フォームを作成する - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでフォームを作成する方法を説明します。 フィールドを追加し、フォームを設定して、ランディングページや web サイトで使用してリードをキャプチャします。
 title: フォームを作成する
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 39%
+source-wordcount: '125'
+ht-degree: 28%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 39%
 
 >[!NOTE]
 >
->Marketo Engageが [&#x200B; フォームの安全性を確保 &#x200B;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038) するために行っていることを説明します。
+>Marketo Engageが [ フォームの安全性を確保 ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038) するために行っていることを説明します。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/create-a-form-1.png)
 

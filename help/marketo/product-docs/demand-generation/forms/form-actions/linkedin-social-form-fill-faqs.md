@@ -1,15 +1,15 @@
 ---
 unique-page-id: 10098238
-description: LinkedIn ソーシャルフォーム入力に関する FAQ - Marketo ドキュメント - 製品ドキュメント
+description: LinkedIn ソーシャルフォームへのMarketo フォームの入力に関するお問い合わせ。 LinkedIn フォーム入力統合に関するよくある質問への回答を示します。
 title: LinkedIn ソーシャルフォーム入力に関する FAQ
 hide: true
 hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '518'
-ht-degree: 100%
+source-wordcount: '529'
+ht-degree: 96%
 
 ---
 

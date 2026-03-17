@@ -1,12 +1,12 @@
 ---
-description: 初期設定 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo インスタンスにDynamic Chatをセットアップする方法について説明します。 Admin Consoleにアクセスしてユーザーを追加し、Dynamic ChatをMarketoに接続します。
 title: 初期設定
 feature: Dynamic Chat
 exl-id: 3ce6bd24-8d08-46ca-b532-871d5813205e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '122'
+ht-degree: 81%
 
 ---
 

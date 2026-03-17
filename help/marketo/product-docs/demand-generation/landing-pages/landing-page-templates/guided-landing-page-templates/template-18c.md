@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9438212
-description: テンプレート 18C - Marketo ドキュメント - 製品ドキュメント
+description: テンプレート 18C ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
 title: テンプレート 18C
 exl-id: 0f70ec63-0621-42d8-8229-4b32de27ce8b
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 100%
+source-wordcount: '60'
+ht-degree: 70%
 
 ---
 
 # テンプレート 18C {#template-18c}
 
-右クリックして[テンプレート 18C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html?lang=ja)します
+右クリックして[テンプレート 18C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)します
 
 ![](assets/image2015-8-17-18-3a13-3a28.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 18C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html?lang=ja)
+[Template 18C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18c.html)

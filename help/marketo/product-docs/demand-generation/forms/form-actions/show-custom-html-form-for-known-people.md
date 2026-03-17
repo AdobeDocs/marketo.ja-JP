@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359644
-description: 既知のリードのカスタム HTML フォームの表示 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo フォームで既知のユーザーにカスタム HTMLを表示する方法を説明します。 認識された訪問者に対して異なるコンテンツやメッセージを表示する。
 title: 既知のリードのカスタム HTML フォームの表示
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 100%
+source-wordcount: '264'
+ht-degree: 92%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 訪問者が過去に氏名とメールアドレスを指定しており、フォーム全体を取得しない場合に、カスタム HTML（例：ダウンロードボタンのみ）を表示する方法について説明します。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-5.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359870
-description: アップロードされた画像またはファイルの URL を見つける — Marketo ドキュメント — 製品ドキュメント
+description: Marketoでアップロードした画像やファイルの URL を検索する方法について説明します。 メールまたは外部ページで使用するアセット URL を取得します。
 title: アップロードされた画像またはファイルの URL を見つける
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 59%
+source-wordcount: '83'
+ht-degree: 34%
 
 ---
 

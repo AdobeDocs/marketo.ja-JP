@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437571
-description: テンプレート 11F - Marketo ドキュメント - 製品ドキュメント
+description: テンプレート 11F ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
 title: テンプレート 11F
 exl-id: db5aa680-3fe1-408c-adaf-0e16e64f0032
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 68%
 
 ---
 
 # テンプレート 11F {#template-11f}
 
-右クリックして[テンプレート 11F をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html?lang=ja)します
+右クリックして[テンプレート 11F をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)します
 
 ![](assets/image2015-8-4-13-3a57-3a13.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html?lang=ja)
+[Template 11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)

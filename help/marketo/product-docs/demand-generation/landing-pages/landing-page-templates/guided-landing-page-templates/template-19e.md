@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10092902
-description: テンプレート 19E - Marketo ドキュメント - 製品ドキュメント
+description: テンプレート 19E ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
 title: テンプレート 19E
 exl-id: ab318a92-76b5-4ca6-bb51-6633ad498221
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 100%
+source-wordcount: '55'
+ht-degree: 67%
 
 ---
 
 # テンプレート 19E {#template-19e}
 
-右クリックして[テンプレート 19E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html?lang=ja)します
+右クリックして[テンプレート 19E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)します
 
 ![](assets/image2015-9-16-17-3a4-3a14.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 19E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html?lang=ja)
+[Template 19E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)

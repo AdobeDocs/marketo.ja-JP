@@ -1,12 +1,12 @@
 ---
-description: インタラクティブウェビナーの設計 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでのインタラクティブウェビナーのデザインについて説明します。 効果的なウェビナーエクスペリエンスを実現するために、コンテンツ、レイアウト、エンゲージメント要素を計画します。
 title: インタラクティブウェビナーの設計
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 80%
+source-wordcount: '577'
+ht-degree: 78%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 80%
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. 会議室とテンプレートの詳細については、[&#x200B; このAdobe ヘルプ記事 &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"} の「会議室のテンプレートとレイアウト」セクションを参照してください。
+1. 会議室とテンプレートの詳細については、[ このAdobe ヘルプ記事 ](https://helpx.adobe.com/jp/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"} の「会議室のテンプレートとレイアウト」セクションを参照してください。
 
 1. ウェビナーの設計が完了したら、「**ルームから退出**」をクリックします。
 
@@ -76,9 +76,9 @@ ht-degree: 80%
 
 **ポッド**：ウェビナー中に特定のアクティビティを実行するテンプレート内のコンポーネント。例えば、あるアクティビティでの参加者の反応を捉えるために投票を設定および配信することは、投票ポッドで処理できます。同様に、メッセージを伝えたりカジュアルにやり取りしたりするための参加者とのチャットは、チャットポッドを通じて実現できるアクティビティです。共有、メモ、ビデオ、チャット、出席者リスト、ファイル、Web リンク、投票、Q&amp;A など、他の複数のポッドを使用できます。
 
-      **調査ポッド**：ホストがライブセッション内で直接構造化されたフィードバックフォームを設計して配信できます。 調査ポッドは、複数の質問をまとめて提示できるようにすることで、既存の投票ポッド機能を拡張し、参加者のインサイトをより効率的かつ包括的に収集する方法を提供します。 [詳細情報](https://helpx.adobe.com/jp/adobe-connect/using/survey-pod.html){target="_blank"}
+      **調査ポッド**：ホストがライブセッション内で直接構造化されたフィードバックフォームを設計して配信できます。 調査ポッドは、複数の質問をまとめて提示できるようにすることで、既存の投票ポッド機能を拡張し、参加者のインサイトをより効率的かつ包括的に収集する方法を提供します。 [詳細情報](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **リソースポッド**：以前のファイルおよび web リンクポッドに代わるもので、ライブセッション中にリソースを共有する単一の統一された方法を提供します。 [詳細情報](https://helpx.adobe.com/jp/adobe-connect/using/resources-pod.html){target="_blank"}
+      **リソースポッド**：以前のファイルおよび web リンクポッドに代わるもので、ライブセッション中にリソースを共有する単一の統一された方法を提供します。 [詳細情報](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

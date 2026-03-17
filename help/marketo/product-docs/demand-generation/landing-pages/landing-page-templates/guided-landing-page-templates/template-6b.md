@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783929
-description: テンプレート 6B - Marketo ドキュメント - 製品ドキュメント
+description: テンプレート 6B ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
 title: テンプレート 6B
 exl-id: dea92a6b-d2ba-4b64-86e5-5a4366e164fd
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 100%
+source-wordcount: '61'
+ht-degree: 70%
 
 ---
 
 # テンプレート 6B {#template-6b}
 
-右クリックして[テンプレート 6B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html?lang=ja)します
+右クリックして[テンプレート 6B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)します
 
 ![](assets/image2015-7-29-11-3a33-3a2.png)
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html?lang=ja)
+[テンプレート 6B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6b.html)

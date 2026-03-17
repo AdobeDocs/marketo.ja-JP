@@ -1,12 +1,12 @@
 ---
-description: ストリームデザイナー - Marketo ドキュメント - 製品ドキュメント
+description: チャット会話を構築するためのストリームDesignerとカードについて説明します。 メッセージ、質問、ドキュメントキャプチャ、ミーティングの予約などをダイアログに追加します。
 title: ストリームデザイナー
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1199'
-ht-degree: 100%
+source-wordcount: '1215'
+ht-degree: 98%
 
 ---
 

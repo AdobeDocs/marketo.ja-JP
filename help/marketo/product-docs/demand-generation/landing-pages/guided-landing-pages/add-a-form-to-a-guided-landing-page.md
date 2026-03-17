@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515107
-description: ガイド付きランディングページにフォームを追加する - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのガイド付きランディングページにフォームを追加する方法を説明します。 フォーム要素を挿入し、Marketo フォームを選択します。
 title: ガイド付きランディングページにフォームを追加する
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 100%
+source-wordcount: '184'
+ht-degree: 88%
 
 ---
 

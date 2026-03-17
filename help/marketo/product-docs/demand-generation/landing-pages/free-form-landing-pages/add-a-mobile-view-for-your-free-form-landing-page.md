@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720856
-description: フリーフォームランディングページのモバイル表示の追加 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのフリーフォームランディングページにモバイルビューを追加する方法を説明します。 モバイルデバイスのページレイアウトを最適化します。
 title: フリーフォームランディングページのモバイル表示の追加
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 100%
+source-wordcount: '141'
+ht-degree: 85%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 >
 >モバイルビューは、幅が 480 px 以下の画面で機能します。つまり、スマートフォンです。デバイスの解像度に関する詳細情報は、[こちら](https://www.mydevice.io/)でご覧ください。
 
-1. 「**[!UICONTROL マーケティング活動]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 

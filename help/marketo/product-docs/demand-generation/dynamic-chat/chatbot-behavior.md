@@ -1,12 +1,12 @@
 ---
-description: チャットボットの動作 - Marketo ドキュメント - 製品ドキュメント
+description: ダイアログ、優先度、訪問者をまたいだDynamic Chat チャットボットの動作について説明します。 この参照を使用して、様々なシナリオでのチャットボットの動作を理解します。
 title: チャットボットの動作
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1680'
-ht-degree: 100%
+source-wordcount: '1697'
+ht-degree: 98%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: ON24 と Marketo の統合設定 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoとの ON24 統合の設定方法について説明します。 ON24 アカウントを接続して、ウェビナーと登録データを同期できます。
 title: ON24 と Marketo の統合設定
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 100%
+source-wordcount: '275'
+ht-degree: 92%
 
 ---
 

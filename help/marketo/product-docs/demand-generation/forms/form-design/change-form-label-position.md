@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359612
-description: フォームラベルの位置の変更 — Marketo ドキュメント — 製品ドキュメント
+description: Marketoでフォームラベルの位置を変更する方法を説明します。 フィールドの上、下、左または右にラベルを配置します。
 title: フォームラベルの位置の変更
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 100%
+source-wordcount: '138'
+ht-degree: 84%
 
 ---
 

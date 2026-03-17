@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359738
-description: ランディングページ URL の変更 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでランディングページの URL を変更する方法について説明します。 ランディングページの URL パスまたは見出しを更新します。
 title: ランディングページ URL の変更
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '107'
+ht-degree: 81%
 
 ---
 

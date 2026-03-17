@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437840
-description: テンプレート 16C - Marketo ドキュメント - 製品ドキュメント
+description: テンプレート 16C ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
 title: テンプレート 16C
 exl-id: 3e6369bd-4d36-4308-af41-65d67a01c172
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 100%
+source-wordcount: '60'
+ht-degree: 70%
 
 ---
 
 # テンプレート 16C {#template-16c}
 
-右クリックして[テンプレート 16C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=ja)します
+右クリックして[テンプレート 16C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)します
 
 ![](assets/image2015-8-14-12-3a58-3a46.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=ja)
+[Template 16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)

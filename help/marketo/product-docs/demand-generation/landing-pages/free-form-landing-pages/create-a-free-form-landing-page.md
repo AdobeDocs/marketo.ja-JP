@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359701
-description: フリーフォームランディングページを作成する - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでフリーフォームのランディングページを作成する方法を説明します。 ページをプログラムアセットとして作成するか、Design Studio でグローバルに使用するために作成します。
 title: フリーフォームランディングページを作成する
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 100%
+source-wordcount: '195'
+ht-degree: 87%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359532
-description: ランディングページでの動的コンテンツの使用 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo ランディングページで動的コンテンツを使用する方法を説明します。 様々なセグメントや訪問者に異なるコンテンツを表示します。
 title: ランディングページでの動的コンテンツの使用
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 90%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ## セグメント化を追加 {#add-segmentation}
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 

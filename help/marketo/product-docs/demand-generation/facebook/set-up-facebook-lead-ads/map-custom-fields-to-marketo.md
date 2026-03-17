@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12983101
-description: カスタムフィールドの Marketo へのマッピング — Marketo ドキュメント — 製品ドキュメント
+description: Facebook リード広告のカスタムフィールドをMarketoにマッピングする方法について説明します。 リード広告データがMarketoの正しい人物フィールドにマッピングされていることを確認します。
 title: カスタムフィールドの Marketo へのマッピング
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 100%
+source-wordcount: '259'
+ht-degree: 91%
 
 ---
 

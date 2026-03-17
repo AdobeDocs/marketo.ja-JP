@@ -1,12 +1,12 @@
 ---
-description: インタラクティブウェビナーの変更または削除 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでインタラクティブウェビナーを変更または削除する方法について説明します。 不要になった場合は、設定を更新したり、ウェビナーを削除したりできます。
 title: インタラクティブウェビナーの変更または削除
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 100%
+source-wordcount: '324'
+ht-degree: 93%
 
 ---
 

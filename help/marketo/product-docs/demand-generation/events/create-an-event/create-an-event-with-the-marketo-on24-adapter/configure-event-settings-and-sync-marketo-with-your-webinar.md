@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096673
-description: イベントの設定と Marketo とウェビナーの同期 - Marketo ドキュメント - 製品ドキュメント
+description: イベントを設定し、Marketoを ON24 ウェビナーと同期する方法について説明します。 フィールドをマッピングし、登録データを同期します。
 title: イベントの設定と Marketo とウェビナーの同期
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 100%
+source-wordcount: '238'
+ht-degree: 91%
 
 ---
 

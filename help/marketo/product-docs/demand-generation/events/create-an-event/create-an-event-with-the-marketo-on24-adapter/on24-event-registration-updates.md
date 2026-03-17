@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096683
-description: ON24 イベント登録のアップデート -  Marketo ドキュメント - 製品ドキュメント
+description: ON24 イベント登録のアップデートと、Marketoとの同期方法について説明します。 登録が変更されても、人物とプログラムのステータスを同期し続けます。
 title: ON24 イベント登録のアップデート
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '282'
-ht-degree: 100%
+source-wordcount: '296'
+ht-degree: 92%
 
 ---
 

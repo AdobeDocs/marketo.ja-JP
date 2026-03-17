@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12976798
-description: LinkedIn リード生成フォームの設定 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoで LinkedIn リード生成Formsを設定する方法を説明します。 LinkedIn を接続し、LaunchPoint を介してリード広告提出物をMarketoに同期します。
 title: LinkedIn リード生成フォームの設定
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 94%
+source-wordcount: '504'
+ht-degree: 90%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098242
-description: ソーシャルフォーム入力を無効にする - Marketo ドキュメント - 製品ドキュメント
+description: Marketo フォームでソーシャルフォーム入力を無効にする方法を説明します。 訪問者がソーシャルネットワークを使用して送信するオプションをオフにします。
 title: ソーシャルフォーム入力を無効にする
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 76%
 
 ---
 

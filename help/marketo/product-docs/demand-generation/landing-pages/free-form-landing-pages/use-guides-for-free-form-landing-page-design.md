@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359728
-description: フリーフォームランディングページデザインのガイドを使用する — Marketo ドキュメント — 製品ドキュメント
+description: Marketoでガイドを使用して、無料のランディングページデザインを行う方法を説明します。 要素を揃え、レイアウトとガイドの一貫性を維持します。
 title: フリーフォームランディングページデザインのガイドを使用する
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 100%
+source-wordcount: '121'
+ht-degree: 83%
 
 ---
 

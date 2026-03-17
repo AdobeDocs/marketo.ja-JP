@@ -1,12 +1,12 @@
 ---
-description: セキュリティ設定 - Marketo ドキュメント - 製品ドキュメント
+description: Dynamic Chatの使用制限とパッケージ情報について説明します。 1 か月のエンゲージメント済み会話制限およびカレンダーまたはライブチャットの席の制限を表示します。
 title: セキュリティ設定
 feature: Dynamic Chat
 exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 72%
 
 ---
 

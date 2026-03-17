@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096712
-description: ON24 でのウェビナーイベントの作成  - Marketo ドキュメント - 製品ドキュメント
+description: Marketoで使用するウェビナーイベントを ON24 で作成する方法について説明します。 Marketoと同期する前に、ON24 でイベントを設定します。
 title: ON24 でのウェビナーイベントの作成
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 100%
+source-wordcount: '183'
+ht-degree: 87%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: インタラクティブウェビナーのプロモーション - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでインタラクティブウェビナーをプロモーションする方法について説明します。 登録リンクを共有し、メールやキャンペーンで出席を促進します。
 title: インタラクティブウェビナーのプロモーション
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '786'
-ht-degree: 100%
+source-wordcount: '797'
+ht-degree: 97%
 
 ---
 

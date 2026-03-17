@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359803
-description: ランディングページでパーソナライズ URL を有効にする — Marketo ドキュメント — 製品ドキュメント
+description: Marketo ランディングページ用にパーソナライズされた URL を有効にする方法について説明します。 各受信者に一意の追跡可能な URL を設定します。
 title: ランディングページでパーソナライズ URL を有効にする
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 79%
 
 ---
 

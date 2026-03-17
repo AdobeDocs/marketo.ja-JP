@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359858
-description: 画像とファイルを Marketo に追加 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoに画像やファイルを追加する方法を説明します。 E メール、ランディングページ、フォームで使用するアセットを Design Studio にアップロードします。
 title: 画像とファイルを Marketo に追加
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 100%
+source-wordcount: '128'
+ht-degree: 82%
 
 ---
 

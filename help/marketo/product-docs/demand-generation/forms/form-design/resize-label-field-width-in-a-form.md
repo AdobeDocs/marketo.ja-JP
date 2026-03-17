@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359604
-description: フォーム内のラベル／フィールド幅のサイズ変更 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo フォームのラベルとフィールド幅のサイズを変更する方法について説明します。 ラベルの幅と入力領域を調整します。
 title: フォーム内のラベル／フィールド幅のサイズ変更
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 81%
 
 ---
 

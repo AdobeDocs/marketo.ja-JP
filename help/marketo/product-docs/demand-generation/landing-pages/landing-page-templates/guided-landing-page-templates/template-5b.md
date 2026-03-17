@@ -1,19 +1,19 @@
 ---
 unique-page-id: 8783917
-description: テンプレート 5B - Marketo ドキュメント - 製品ドキュメント
+description: テンプレート 5B ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
 title: テンプレート 5B
 exl-id: 738323ac-89bf-483a-ad63-2020bacc85cf
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 100%
+source-wordcount: '61'
+ht-degree: 70%
 
 ---
 
 # テンプレート 5B {#template-5b}
 
-右クリックして[テンプレート 5B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=ja)します
+右クリックして[テンプレート 5B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)します
 
 ![](assets/template-5b.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=ja)
+[テンプレート 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)

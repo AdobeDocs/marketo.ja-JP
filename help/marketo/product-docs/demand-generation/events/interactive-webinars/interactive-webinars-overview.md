@@ -1,12 +1,12 @@
 ---
-description: インタラクティブウェビナーの概要 — Marketo ドキュメント — 製品ドキュメント
+description: Marketoでのライブおよびオンデマンドエンゲージメント向けのインタラクティブウェビナーについて説明します。 組み込みのエンゲージメントツールを使用してウェビナーを作成、設計および配信します。
 title: インタラクティブウェビナーの概要
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 97%
+source-wordcount: '530'
+ht-degree: 96%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 97%
 
 >[!IMPORTANT]
 >
->Adobe Connect によるインタラクティブウェビナーは、Adobe Connect へのビルトイン統合を備えた機能です。インタラクティブウェビナーの使用には、追加の利用条件が適用されます。追加条件については、契約書を確認するか、[Adobeにお問い合わせ &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} ください。
+>Adobe Connect によるインタラクティブウェビナーは、Adobe Connect へのビルトイン統合を備えた機能です。インタラクティブウェビナーの使用には、追加の利用条件が適用されます。契約を確認するか、[アドビに連絡](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}して追加の利用条件についてお問い合わせください。
 
 ## インタラクティブウェビナーとは {#what-is-interactive-webinars}
 

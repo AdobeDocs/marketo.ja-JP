@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359590
-description: フォームの編集 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでフォームを編集する方法を説明します。 フィールド、設定、またはデザインを変更するには、フォームエディターを開きます。
 title: フォームの編集
 exl-id: fb0d0a35-c9ec-430a-8dee-ec8119cfc8f0
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 100%
+source-wordcount: '53'
+ht-degree: 66%
 
 ---
 
@@ -19,8 +19,6 @@ ht-degree: 100%
 
    ![](assets/login-marketing-activities.png)
 
-1. フォームを選択して、「**[!UICONTROL フォームの編集]**」をクリックします。
+1. フォームを選択し、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/editform.png)
-
-シンプルです。

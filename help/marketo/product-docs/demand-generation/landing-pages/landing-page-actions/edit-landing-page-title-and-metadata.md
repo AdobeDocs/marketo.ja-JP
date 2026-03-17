@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359726
-description: ランディングページのタイトルとメタデータの編集 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでランディングページのタイトルとメタデータを編集する方法を説明します。 SEO とディスプレイのページタイトルとメタ説明を更新します。
 title: ランディングページのタイトルとメタデータの編集
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 100%
+source-wordcount: '142'
+ht-degree: 84%
 
 ---
 

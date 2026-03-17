@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359734
-description: 動的コンテンツを含むランディングページのプレビュー — Marketo ドキュメント — 製品ドキュメント
+description: Marketoで動的コンテンツを含むランディングページをプレビューする方法について説明します。 様々なセグメントに対するコンテンツの変更方法を参照してください。
 title: 動的コンテンツを含むランディングページのプレビュー
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 100%
+source-wordcount: '96'
+ht-degree: 80%
 
 ---
 

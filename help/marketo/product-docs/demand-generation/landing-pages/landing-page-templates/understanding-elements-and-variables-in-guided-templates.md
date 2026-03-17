@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515069
-description: ガイド付きテンプレートの要素と変数について - Marketo ドキュメント - 製品ドキュメント
+description: Marketo ガイド付きランディングページテンプレートの要素と変数について説明します。 編集可能な内容とコンテンツの配置方法を定義する。
 title: ガイド付きテンプレートの要素と変数について
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 100%
+source-wordcount: '198'
+ht-degree: 89%
 
 ---
 

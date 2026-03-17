@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359746
-description: CNAME を使用したランディングページ URL のカスタマイズ - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでランディングページ URL を CNAME でカスタマイズする方法を説明します。 ランディングページリンクには独自のドメインを使用します。
 title: CNAME を使用したランディングページ URL のカスタマイズ
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 100%
+source-wordcount: '245'
+ht-degree: 91%
 
 ---
 

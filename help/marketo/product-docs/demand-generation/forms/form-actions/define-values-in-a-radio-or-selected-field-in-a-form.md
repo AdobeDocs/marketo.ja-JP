@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359614
-description: フォーム内のラジオフィールドまたは選択されたフィールドでの値の定義 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo フォームのラジオフィールドまたはドロップダウンフィールドの値を定義する方法について説明します。 訪問者が選択できるオプションを設定します。
 title: フォーム内のラジオフィールドまたは選択されたフィールドでの値の定義
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 100%
+source-wordcount: '201'
+ht-degree: 89%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359400
-description: フォームのテーマの選択 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでフォームテーマを選択する方法を説明します。 フォームのルックアンドフィールを制御するテーマを選択します。
 title: フォームのテーマの選択
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 88%
+source-wordcount: '149'
+ht-degree: 75%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 88%
 
 フォームのために素敵なテーマをたくさん作りました。どちらが一番お好きですか。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/select-a-form-theme-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359573
-description: フォームの「ありがとうございます」ページを設定する — Marketo ドキュメント — 製品ドキュメント
+description: Marketoで「ありがとうございます」ページのフォームを設定する方法を説明します。 送信者がフォームを送信した後、特定のページまたは URL に送信します。
 title: フォームの「ありがとうございました」ページを設定する
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '361'
-ht-degree: 100%
+source-wordcount: '375'
+ht-degree: 93%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## フォームを編集する {#edit-form}
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-5.png)
 

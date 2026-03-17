@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359866
-description: Web ページからの画像の取得 - Marketo ドキュメント - 製品ドキュメント
+description: Web ページからMarketoに画像を取り込む方法を説明します。 画像を URL から Design Studio に読み込みます。
 title: Web ページからの画像の取得
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 100%
+source-wordcount: '182'
+ht-degree: 89%
 
 ---
 

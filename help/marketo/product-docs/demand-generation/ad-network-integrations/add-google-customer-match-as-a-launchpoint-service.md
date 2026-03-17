@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12980661
-description: Google Customer Match as a [!DNL LaunchPoint] Service の追加 – Marketo ドキュメント – 製品ドキュメント
-title: Google Customer Match as a Service [!DNL LaunchPoint]  追加
+description: Google カスタマーマッチを LaunchPoint サービスとして追加する方法を説明します。 AdWords、YouTube、検索および Gmail でのターゲティング用に、Marketo オーディエンスをGoogleに送信します。
+title: Google カスタマーマッチを  [!DNL LaunchPoint]  サービスとして追加
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 38%
+source-wordcount: '194'
+ht-degree: 87%
 
 ---
 
-# Google Customer Match as a [!DNL LaunchPoint] Service の追加 {#add-google-customer-match-as-a-launchpoint-service}
+# Google カスタマーマッチを [!DNL LaunchPoint] サービスとして追加 {#add-google-customer-match-as-a-launchpoint-service}
 
-この統合を使用すると、[!DNL Google AdWords] を使用してターゲット設定するMarketo オーディエンスをGoogleに送信したり、YouTube、検索、[!DNL Gmail] 全体でオーディエンスを再ターゲットしたりできます。
+この統合により、Marketo のオーディエンスを Google に送信して [!DNL Google AdWords] を使用してターゲットにしたり、YouTube、検索、[!DNL Gmail] を通じてオーディエンスをリターゲティングしたりすることができます。
 
 >[!NOTE]
 >
@@ -39,11 +39,11 @@ ht-degree: 38%
 
    ![](assets/authorizeaccount-1.png)
 
-1. Google が新しいタブで開きます。ここから [!DNL Google AdWords] アカウントにログインします。
+1. Google が新しいタブで開きます。ここから、[!DNL Google AdWords] アカウントにログインします。
 
    >[!CAUTION]
    >
-   >Marketoが複数の [!DNL AdWords] アカウントにわたってオーディエンスを送信するには、次の手順で承認するGoogle ユーザーがこれらのアカウントの _すべて_ にアクセスできる必要があります。
+   >Marketo が複数の [!DNL AdWords] アカウント間でオーディエンスを送信するには、次の手順で認証する Google ユーザが、これらのアカウントの&#x200B;_すべて_&#x200B;にアクセスできる必要があります。
 
    ![](assets/chooseaccount.png)
 
@@ -51,11 +51,11 @@ ht-degree: 38%
 
    ![](assets/reviewpermissions.png)
 
-1. これで、[!DNL Google AdWords] アカウントがMarketoに接続されました。 「**[!UICONTROL 作成]**」をクリックします。
+1. これで、[!DNL Google AdWords] アカウントが Marketo に接続されました。「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/authorizesuccess.png)
 
-   これで完了です。「インストール済みサービス」タブに、Googleで一致したオーディエンスが [!DNL LaunchPoint] サービスとして表示されます。
+   これで完了です。これで、「インストール済みのサービス」タブに [!DNL LaunchPoint] サービスとして「Google と一致するオーディエンス」が表示されます。
 
 >[!NOTE]
 >

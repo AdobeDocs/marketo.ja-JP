@@ -1,11 +1,11 @@
 ---
-description: 質問の生成 – Marketo ドキュメント – 製品ドキュメント
+description: ソース URL とトピックを使用してDynamic Chatの質問を生成する方法を説明します。 AI 支援の回答を作成し、支援の回答でタスクステータスを追跡します。
 title: 質問の生成
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '315'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 3%
 
    >[!IMPORTANT]
    >
-   >Marketo Engageが指定された URL からコンテンツを削除できるようにするには、まず複数の IP アドレスを許可リストに加えるする必要があります。 [&#x200B; 詳しくは以下を参照してください &#x200B;](#ip-addresses-to-allowlist)。
+   >Marketo Engageが指定された URL からコンテンツを削除できるようにするには、まず複数の IP アドレスを許可リストに加えるする必要があります。 [ 詳しくは以下を参照してください ](#ip-addresses-to-allowlist)。
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ ht-degree: 3%
 
 >[!NOTE]
 >
->生成された質問と回答は、[&#x200B; 応答ライブラリ &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) でも表示できます。
+>生成された質問と回答は、[ 応答ライブラリ ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) でも表示できます。
 
 1. 目的のタスクを見つけて、名前の横にあるダウンロードアイコンをクリックします。
 
@@ -66,7 +66,7 @@ ht-degree: 3%
 
    >[!NOTE]
    >
-   >質問や回答を一括で追加/編集する場合は、[&#x200B; こちら &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) を参照して、再アップロードする方法を確認してください。
+   >質問や回答を一括で追加/編集する場合は、[ こちら ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) を参照して、再アップロードする方法を確認してください。
 
 1. 「**[!DNL Q&Rs]**」タブには、生成された質問や回答など、追加の詳細が表示されます。
 

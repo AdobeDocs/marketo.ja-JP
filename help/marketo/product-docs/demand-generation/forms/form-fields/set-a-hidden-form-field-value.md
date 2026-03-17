@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359663
-description: 非表示フォームフィールドの値を設定する — Marketo ドキュメント — 製品ドキュメント
+description: Marketoで非表示のフォームフィールド値を設定する方法を説明します。 フォーム送信と共に静的な値またはトークン値を渡します。
 title: 非表示フォームフィールドの値を設定する
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 100%
+source-wordcount: '312'
+ht-degree: 93%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: ウェビナーチームの追加 - Marketo ドキュメント - 製品ドキュメント
+description: インタラクティブウェビナーでウェビナーチームを追加する方法について説明します。 ウェビナーの作成、管理、配信に役立つチームメンバーを割り当てます。
 title: ウェビナーチームの追加
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '425'
-ht-degree: 88%
+source-wordcount: '437'
+ht-degree: 83%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 88%
 
 >[!NOTE]
 >
-> ![&#x200B; コホスト URL をコピーアイコン &#x200B;](assets/icon-copy-join-url.png) アイコンは、コホストの参加 URL をコピーし、![&#x200B; コホストへの招待メールを送信 &#x200B;](assets/icon-send-invitation-email.png) アイコンは、コホストへの招待メールを送信します。
+> ![ コホスト URL をコピーアイコン ](assets/icon-copy-join-url.png) アイコンは、コホストの参加 URL をコピーし、![ コホストへの招待メールを送信 ](assets/icon-send-invitation-email.png) アイコンは、コホストへの招待メールを送信します。
 
 ## プレゼンターの追加 {#add-a-presenter}
 
@@ -72,7 +72,7 @@ ht-degree: 88%
 
 >[!NOTE]
 >
-> ![&#x200B; 発表者 URL をコピー &#x200B;](assets/icon-copy-join-url.png) アイコンは発表者の参加 URL をコピーし、![&#x200B; 発表者に招待メールを送信 &#x200B;](assets/icon-send-invitation-email.png) アイコンは発表者に招待メールを送信します。
+> ![ 発表者 URL をコピー ](assets/icon-copy-join-url.png) アイコンは発表者の参加 URL をコピーし、![ 発表者に招待メールを送信 ](assets/icon-send-invitation-email.png) アイコンは発表者に招待メールを送信します。
 
 >[!MORELIKETHIS]
 >

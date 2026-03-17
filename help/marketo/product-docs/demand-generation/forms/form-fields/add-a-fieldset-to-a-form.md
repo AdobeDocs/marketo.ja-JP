@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359594
-description: フォームにフィールドセットを追加する - Marketo ドキュメント - 製品ドキュメント
+description: Marketo フォームにフィールドセットを追加する方法を説明します。 関連するフィールドを見出しとともにグループ化して、レイアウトを改善します。
 title: フォームにフィールドセットを追加する
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 81%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 フィールドセットは素晴らしいです。フィールドセットは多くのフィールドをグループ化します。グループ全体を一度に制御することもできます。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949966
-description: フォームへの国選択リストの追加 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo フォームに国選択リストを追加する方法を説明します。 訪問者に国を選択するためのドロップダウンを提供します。
 title: フォームへの国選択リストの追加
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 100%
+source-wordcount: '197'
+ht-degree: 90%
 
 ---
 

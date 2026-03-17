@@ -1,12 +1,12 @@
 ---
-description: Adobe Marketo Engage - Marketo ドキュメント - 製品ドキュメント
+description: Dynamic ChatをMarketo Engage サブスクリプションに接続する方法について説明します。 1 回限りの同期を実行し、ターゲティングするユーザーおよび会社の属性を選択します。
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 95%
+source-wordcount: '289'
+ht-degree: 87%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->Dynamic Chatでは、[Marketo ネイティブ &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} およびカスタムの人物フィールドと会社フィールドの同期をサポートしています。
+>Dynamic Chatでは、[Marketo ネイティブ ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} およびカスタムの人物フィールドと会社フィールドの同期をサポートしています。
 
 1. マイ Marketo で、**[!UICONTROL 動的チャット]**&#x200B;タイルをクリックします。
 

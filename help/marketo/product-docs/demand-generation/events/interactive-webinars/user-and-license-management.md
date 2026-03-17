@@ -1,12 +1,12 @@
 ---
-description: ユーザーとライセンスの管理 - Marketo ドキュメント - 製品ドキュメント
+description: インタラクティブウェビナーのユーザーとライセンスの管理について説明します。 アクセス権を割り当て、ウェビナーを作成または配信できるユーザーを管理します。
 title: ユーザーとライセンスの管理
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '717'
-ht-degree: 87%
+source-wordcount: '728'
+ht-degree: 84%
 
 ---
 

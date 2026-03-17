@@ -1,12 +1,12 @@
 ---
-description: Dynamic Chat の概要 - Marketo ドキュメント - 製品ドキュメント
+description: 訪問者のターゲティングとリードの収集に使用するDynamic Chatについて説明します。 ライブチャット、ミーティングの予約、チャットエンゲージメントからのMarketo プログラムのトリガーを設定します。
 title: Dynamic Chat の概要
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '589'
-ht-degree: 100%
+source-wordcount: '605'
+ht-degree: 96%
 
 ---
 

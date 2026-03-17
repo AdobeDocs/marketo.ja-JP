@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359675
-description: フォームフィールドの事前入力を無効にする - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのフォームフィールドの事前入力を無効にする方法を説明します。 既知の訪問者データのフィールドへの自動入力を停止します。
 title: フォームフィールドの事前入力を無効にする
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 100%
+source-wordcount: '178'
+ht-degree: 89%
 
 ---
 

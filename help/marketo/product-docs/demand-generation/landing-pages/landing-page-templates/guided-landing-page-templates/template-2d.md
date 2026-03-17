@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516478
-description: テンプレート 2D - Marketo ドキュメント - 製品ドキュメント
+description: テンプレート 2D ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
 title: テンプレート 2D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '73'
+ht-degree: 75%
 
 ---
 
 # テンプレート 2D {#template-2d}
 
-右クリックして[テンプレート 2D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=ja)します
+右クリックして[テンプレート 2D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)します
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=ja)
+[Template 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

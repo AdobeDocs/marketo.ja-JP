@@ -1,12 +1,12 @@
 ---
-description: エージェント設定 - Marketo ドキュメント - 製品ドキュメント
+description: Dynamic Chatでエージェントカレンダーとミーティングまたはライブチャットを設定する方法について説明します。 Outlook または Gmail を予定スケジュール用に接続します。
 title: エージェント設定
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 78%
+source-wordcount: '621'
+ht-degree: 75%
 
 ---
 
@@ -90,7 +90,7 @@ Google で設定すると、Dynamic Chat に対して次の権限が付与され
 
 >[!IMPORTANT]
 >
->* エージェントインボックスの [&#x200B; 利用可能 &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 切替スイッチ **は上書きされます** 「_ライブチャットの利用可能_」タブに入力された内容。 したがって、エージェントが 1p～5p で利用可能になるようにスケジュールされていても、3p ですぐに休憩する必要がある場合は、エージェントの設定を変更する必要はありません。 使用可否の切り替えステータスは、手動で変更されるまで、エージェントの使用可否の次のブロックに達するまで、またはエージェントが指定したタイムゾーンの午前 0 時まで保持されます（詳しくは、次の箇条書きを参照してください）。
+>* エージェントインボックスの [ 利用可能 ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 切替スイッチ **は上書きされます** 「_ライブチャットの利用可能_」タブに入力された内容。 したがって、エージェントが 1p～5p で利用可能になるようにスケジュールされていても、3p ですぐに休憩する必要がある場合は、エージェントの設定を変更する必要はありません。 使用可否の切り替えステータスは、手動で変更されるまで、エージェントの使用可否の次のブロックに達するまで、またはエージェントが指定したタイムゾーンの午前 0 時まで保持されます（詳しくは、次の箇条書きを参照してください）。
 >
 >* エージェントが可用性トグルを使用してステータスを「使用可能」に変更すると、可用性スケジュールで指定されたタイムゾーンの午前 0 時に、ステータスが自動的にリセットされます（使用不可に切り替わります）。 タイムゾーンを指定しない場合は、デフォルトで UTC （協定世界時）になります。
 

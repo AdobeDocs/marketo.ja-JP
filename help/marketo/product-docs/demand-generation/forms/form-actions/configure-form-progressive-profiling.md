@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359646
-description: フォームのプログレッシブプロファイリングの設定 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo フォームでプログレッシブプロファイルを設定する方法を説明します。 長いフォームを使用せずにより多くのデータを収集するために、経時的に異なるフィールドを表示します。
 title: フォームのプログレッシブプロファイリングの設定
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 100%
+source-wordcount: '347'
+ht-degree: 93%
 
 ---
 

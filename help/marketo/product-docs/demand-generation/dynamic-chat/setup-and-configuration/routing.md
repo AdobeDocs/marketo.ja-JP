@@ -1,12 +1,12 @@
 ---
-description: ルーティング - Marketo ドキュメント - 製品ドキュメント
+description: Dynamic Chatでの会議のルーティングとライブチャットについて説明します。 ラウンドロビンまたはカスタムルールを設定して、訪問者を特定のエージェントまたはチームに割り当てます。
 title: ルーティング
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 100%
+source-wordcount: '358'
+ht-degree: 93%
 
 ---
 

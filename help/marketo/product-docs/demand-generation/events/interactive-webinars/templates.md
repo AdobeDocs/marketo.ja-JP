@@ -1,11 +1,11 @@
 ---
-description: インタラクティブウェビナーでテンプレートを作成および実装する方法について説明します。
+description: インタラクティブウェビナーでテンプレートを作成および実装する方法について説明します。 テンプレートを使用してウェビナーのデザインを標準化し、作成を高速化します。
 title: インタラクティブウェビナーのテンプレート
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 089902e937d32e6bca77f20296d9751bcc4ebdd6
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '329'
 ht-degree: 10%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 10%
 
 ## 権限の付与 {#grant-permissions}
 
-組織内の任意のユーザーがインタラクティブウェビナーのテンプレートにアクセスできるようにする前に、Marketo Engage管理者は目的の役割へのアクセス権を追加する必要があります。
+組織内の任意のユーザーがインタラクティブウェビナーのテンプレートにアクセスできるようにするには、まず、Marketo Engage管理者が目的の役割へのアクセス権を追加する必要があります。
 
 1. Marketo Engage で、「**[!UICONTROL 管理者]**」をクリックします。
 

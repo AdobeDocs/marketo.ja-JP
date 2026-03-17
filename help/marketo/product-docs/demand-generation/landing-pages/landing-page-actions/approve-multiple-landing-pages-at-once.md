@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359724
-description: 複数のランディングページを一度に承認する - Marketo ドキュメント - 製品ドキュメント
+description: Marketoで複数のランディングページを一度に承認する方法を説明します。 ページを一括承認して、すばやくライブにします。
 title: 複数のランディングページを一度に承認する
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 79%
 
 ---
 

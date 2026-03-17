@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359540
-description: ランディングページにカレンダーイベントの ICS ファイルを追加する — Marketo ドキュメント — 製品ドキュメント
+description: Marketo ランディングページにカレンダーイベント ICS ファイルを含める方法を説明します。 訪問者が自分のカレンダーにイベントを追加できるようにします。
 title: ランディングページにカレンダーイベントの ICS ファイルを追加する
 exl-id: 3975f5ba-f514-4708-b51e-bc20d1eed6b4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 100%
+source-wordcount: '126'
+ht-degree: 82%
 
 ---
 

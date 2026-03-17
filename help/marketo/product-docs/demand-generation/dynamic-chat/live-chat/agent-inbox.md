@@ -1,12 +1,12 @@
 ---
-description: エージェントのインボックス - Marketo ドキュメント - 製品ドキュメント
+description: ライブチャットエージェントが会話をフィールドするエージェントインボックスについて説明します。 アクティブなチャットと過去のチャット、訪問者情報を表示し、可用性ステータスを設定します。
 title: エージェントのインボックス
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '581'
-ht-degree: 92%
+source-wordcount: '597'
+ht-degree: 89%
 
 ---
 

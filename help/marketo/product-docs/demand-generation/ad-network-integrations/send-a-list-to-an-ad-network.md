@@ -1,12 +1,12 @@
 ---
-description: 広告ネットワークへのリストの送信 - Marketo ドキュメント - 製品ドキュメント
+description: 静的リストを LinkedIn、Facebook またはGoogleに送信する方法を説明します。 リストのアクションと広告ネットワークに送信を使用して、オーディエンスと同期のオプションを選択します。
 title: 広告ネットワークへのリストの送信
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 100%
+source-wordcount: '231'
+ht-degree: 88%
 
 ---
 

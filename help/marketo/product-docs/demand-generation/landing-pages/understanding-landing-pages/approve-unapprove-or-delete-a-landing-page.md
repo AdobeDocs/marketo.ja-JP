@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359710
-description: ランディングページの承認、未承認、削除 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでランディングページを承認、未承認、削除する方法について説明します。 ライブになるページを制御し、不要になったページを削除します。
 title: ランディングページの承認、未承認、削除
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 28%
+source-wordcount: '266'
+ht-degree: 23%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 28%
 
    >[!TIP]
    >
-   >必要に応じて、[&#x200B; 複数のページを一度に承認 &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) できます。
+   >必要に応じて、[ 複数のページを一度に承認 ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) できます。
 
 また、左側のナビゲーションでランディングページを右クリックし、「**[!UICONTROL 承認]**」を選択することもできます。
 
@@ -45,7 +45,7 @@ ht-degree: 28%
 
 >[!NOTE]
 >
->承認されていないランディングページは web に公開されなくなり、アクティビティは追加されません。 未承認のランディングページとその Facebook タブへの訪問者には、[&#x200B; フォールバックページ &#x200B;](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md) が表示されます。
+>承認されていないランディングページは web に公開されなくなり、アクティビティは追加されません。 未承認のランディングページとその Facebook タブへの訪問者には、[ フォールバックページ ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md) が表示されます。
 
 ## ランディングページの削除 {#delete-a-landing-page}
 

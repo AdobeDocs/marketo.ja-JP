@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359740
-description: Marketo のランディングページを別のページにリダイレクトする - Marketo ドキュメント - 製品ドキュメント
+description: Marketo ランディングページを別のページにリダイレクトする方法を説明します。 訪問者がページにアクセスしたときに、別の URL に送信します。
 title: Marketo のランディングページを別のページにリダイレクトする
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 86%
 
 ---
 

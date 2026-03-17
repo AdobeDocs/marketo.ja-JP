@@ -1,14 +1,14 @@
 ---
-description: イベント目標の設定 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのイベントプログラムでイベントの目標を設定する方法を説明します。 成功指標を定義し、イベント目標に対する進捗を追跡します。
 title: イベント目標の設定
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 84%
 
 ---
 

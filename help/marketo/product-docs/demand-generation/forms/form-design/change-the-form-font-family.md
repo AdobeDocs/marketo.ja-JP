@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359608
-description: フォームフォントファミリの変更 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでフォームフォントファミリーを変更する方法を説明します。 フォームテキストに別のフォントを選択します。
 title: フォームフォントファミリの変更
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 100%
+source-wordcount: '150'
+ht-degree: 88%
 
 ---
 

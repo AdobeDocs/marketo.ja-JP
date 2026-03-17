@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949865
-description: Adobe Connect を使用したイベントの作成 - Marketo ドキュメント - 製品ドキュメント
+description: MarketoのAdobe Connectでイベントを作成する方法を説明します。 統合と同期の登録および出席データを設定します。
 title: Adobe Connect を使用したイベントの作成
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '415'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 95%
 
 ---
 
 # Adobe Connect を使用したイベントの作成 {#create-an-event-with-adobe-connect}
 
-Adobe Connect と同期すると、ウェビナーへの登録と参加を Marketo 内部で管理できるようになるので、リードの管理を見逃す心配がありません。
+Adobe Connect と同期すると、ウェビナーへの登録と参加を Marketo 内部で管理できるようになるので、エンゲージメントを見逃す心配がありません。
 
 >[!PREREQUISITES]
 >

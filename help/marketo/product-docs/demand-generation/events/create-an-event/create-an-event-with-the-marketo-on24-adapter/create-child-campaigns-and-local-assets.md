@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096675
-description: 子キャンペーンとローカルアセットの作成 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoで ON24 イベント用の子キャンペーンとローカルアセットを作成する方法を説明します。 様々な地域や言語のプログラムを整理します。
 title: 子キャンペーンとローカルアセットの作成
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '665'
-ht-degree: 100%
+source-wordcount: '676'
+ht-degree: 96%
 
 ---
 

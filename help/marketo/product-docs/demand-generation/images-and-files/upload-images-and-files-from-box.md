@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359868
-description: Box から画像とファイルをアップロードする — Marketo ドキュメント — 製品ドキュメント
+description: Box からMarketoに画像やファイルをアップロードする方法を説明します。 Box を接続して、アセットを Design Studio に読み込みます。
 title: Box から画像とファイルをアップロードする
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 82%
 
 ---
 

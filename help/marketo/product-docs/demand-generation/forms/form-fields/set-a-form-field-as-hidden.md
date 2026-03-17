@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359661
-description: フォームフィールドを非表示に設定する — Marketo ドキュメント — 製品ドキュメント
+description: Marketoでフォームフィールドを非表示として設定する方法を説明します。 訪問者にフィールドを表示せずにデータを保存します。
 title: フォームフィールドを非表示に設定する
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '88'
+ht-degree: 78%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 非表示のフォームフィールドでは、訪問者が入力しなくてもデータを取り込むことができます。その設定方法を説明しましょう。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 

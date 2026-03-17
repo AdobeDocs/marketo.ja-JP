@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720738
-description: Marketo ランディングページテンプレートの編集 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo ランディングページテンプレートの編集方法を説明します。 Design Studio のテンプレートを更新して、今後のページのレイアウトやコンテンツを変更します。
 title: Marketo ランディングページテンプレートの編集
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 100%
+source-wordcount: '105'
+ht-degree: 79%
 
 ---
 

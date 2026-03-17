@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11370892
-description: Marketo とのデスクトップ統合に向けた Facebook リード広告のテスト - Marketo ドキュメント - 製品ドキュメント
+description: Marketoと Facebook リード広告のデスクトップ統合をテストする方法について説明します。 デスクトップからのリード広告の送信内容が正しく同期されていることを確認します。
 title: Marketo とのデスクトップ統合に向けた Facebook リード広告のテスト
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 100%
+source-wordcount: '224'
+ht-degree: 91%
 
 ---
 

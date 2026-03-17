@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2950555
-description: Facebook リッチ投稿設定の編集 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoで Facebook リッチ投稿を編集する方法を説明します。 Facebook で共有した際にランディングページをどのように表示するかをカスタマイズします。
 title: Facebook リッチ投稿設定の編集
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 95%
+source-wordcount: '314'
+ht-degree: 89%
 
 ---
 
@@ -27,7 +27,7 @@ Marketo の&#x200B;_ソーシャルアプリ_&#x200B;を使用すると、リー
 
 ランディングページからの共有によって生成される [!DNL Facebook] リッチ投稿について、使用するページ情報のタイプを指定できます。
 
-1. _&#x200B;**[!UICONTROL ビデオまたはソーシャルボタンのエディターで]** Facebook メッセージ _[!DNL YouTube_]_&#x200B;を選択します。
+1. _**[!UICONTROL ビデオまたはソーシャルボタンのエディターで]** Facebook メッセージ _[!DNL YouTube_]_を選択します。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095239
-description: スマートキャンペーンでのリード広告フィルターとトリガーの使用 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo スマートキャンペーンで Facebook リード広告のフィルターとトリガーを使用する方法を説明します。 リードが Facebook から送信する際のアクションを自動化。
 title: スマートキャンペーンでのリード広告のフィルターとトリガーの使用
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 76%
 
 ---
 

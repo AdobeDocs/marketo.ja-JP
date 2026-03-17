@@ -1,12 +1,12 @@
 ---
-description: オンデマンドウェビナー - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのオンデマンドウェビナーについて説明します。 録画したウェビナーをライブイベント後に表示できるようにします。
 title: オンデマンドウェビナー
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '449'
-ht-degree: 100%
+source-wordcount: '461'
+ht-degree: 96%
 
 ---
 

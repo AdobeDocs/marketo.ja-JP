@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359736
-description: フリーフォームランディングページ画像へのリンクの追加 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのフリーフォームのランディングページで画像へのリンクを追加する方法を説明します。 画像を URL にクリック可能にします。
 title: フリーフォームランディングページ画像へのリンクの追加
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 100%
+source-wordcount: '93'
+ht-degree: 75%
 
 ---
 

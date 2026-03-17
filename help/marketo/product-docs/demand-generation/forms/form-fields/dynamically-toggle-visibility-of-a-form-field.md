@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949962
-description: フォームフィールドの表示設定の動的な切り替え - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでフォームフィールドを動的に表示または非表示にする方法について説明します。 他のフィールド値またはルールに基づいてフィールドを表示します。
 title: フォームフィールドの表示設定の動的な切り替え
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 100%
+source-wordcount: '252'
+ht-degree: 91%
 
 ---
 
@@ -25,7 +25,7 @@ Marketo フォームの素晴らしい機能の 1 つは、フォームフィー
 >
 >この例では、**国**&#x200B;が「米国」として選択されていない限り、「**州**」フィールドを非表示にします。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-8.png)
 

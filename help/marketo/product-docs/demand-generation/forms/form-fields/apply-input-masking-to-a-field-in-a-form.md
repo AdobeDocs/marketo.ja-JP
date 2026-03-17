@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359667
-description: フォーム内のフィールドへの入力マスクの適用 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのフォームフィールドに入力マスキングを適用する方法を説明します。 訪問者タイプに応じて電話、日付、その他のフィールドを書式設定します。
 title: フォーム内のフィールドへの入力マスクの適用
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 100%
+source-wordcount: '193'
+ht-degree: 89%
 
 ---
 

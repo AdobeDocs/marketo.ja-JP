@@ -1,12 +1,12 @@
 ---
-description: ダイアログの概要 - Marketo ドキュメント - 製品ドキュメント
+description: Dynamic Chatでの個々のチャットインタラクションとしてのダイアログについて説明します。 レポートの表示場所、閲覧者および有効性の監視を定義します。
 title: ダイアログの概要
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 92%
+source-wordcount: '270'
+ht-degree: 85%
 
 ---
 

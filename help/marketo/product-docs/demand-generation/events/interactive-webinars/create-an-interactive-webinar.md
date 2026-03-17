@@ -1,12 +1,12 @@
 ---
-description: インタラクティブウェビナーの作成 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでインタラクティブウェビナーを作成する方法について説明します。 手順に従ってウェビナーを設定し、ライブまたはオンデマンド配信の設定を行います。
 title: インタラクティブウェビナーの作成
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 100%
+source-wordcount: '300'
+ht-degree: 92%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 インタラクティブウェビナーを簡単な手順で作成します。
 
-1. 「**マーケティングアクティビティ**」に移動します。
+1. **マーケティングアクティビティ**&#x200B;に移動します。
 
    ![](assets/create-an-interactive-webinar-1.png)
 

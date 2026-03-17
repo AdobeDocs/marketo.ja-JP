@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359815
-description: パーソナライズされた URL を含むリストのエクスポート - Marketo ドキュメント - 製品ドキュメント
+description: パーソナライズされた URL を含むリストをMarketoから書き出す方法について説明します。 受信者のリストと一意のランディングページ URL を取得します。
 title: パーソナライズされた URL を含むリストのエクスポート
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 100%
+source-wordcount: '186'
+ht-degree: 88%
 
 ---
 
