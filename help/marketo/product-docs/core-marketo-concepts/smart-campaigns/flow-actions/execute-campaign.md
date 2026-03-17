@@ -60,7 +60,7 @@ True に設定した場合、次のトークンコンテキストが子キャン
 
 **API インタラクション**
 
-[API ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)のスケジュールまたはリクエストキャンペーンを使用する場合、どちらでも、呼び出し元のキャンペーンで設定されたトークンの値を上書きするマイトークンの値を渡すことができます。その後、そのキャンペーンが別のキャンペーンを実行し、「親コンテキストを使用」を「True」に設定した場合、アプリケーションで設定された値ではなく、API を介して渡された値が使用されます。
+[API &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)のスケジュールまたはリクエストキャンペーンを使用する場合、どちらでも、呼び出し元のキャンペーンで設定されたトークンの値を上書きするマイトークンの値を渡すことができます。その後、そのキャンペーンが別のキャンペーンを実行し、「親コンテキストを使用」を「True」に設定した場合、アプリケーションで設定された値ではなく、API を介して渡された値が使用されます。
 
 ## 注意事項 {#things-to-note}
 

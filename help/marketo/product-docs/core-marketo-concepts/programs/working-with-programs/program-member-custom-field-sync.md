@@ -15,7 +15,7 @@ ht-degree: 94%
 >[!PREREQUISITES]
 >
 >* [プログラムメンバーカスタムフィールド](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}の作成
->* [ [!DNL Salesforce]  キャンペーンとプログラムを同期](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [&#x200B; [!DNL Salesforce]  キャンペーンとプログラムを同期](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >

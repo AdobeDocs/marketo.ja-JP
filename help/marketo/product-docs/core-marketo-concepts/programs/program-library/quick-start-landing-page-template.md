@@ -16,7 +16,7 @@ Marketo Engage リファレンスライブラリの一部のスタータープ�
 
 >[!TIP]
 >
->詳しくは、[ ガイド付きランディングページテンプレート ](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"} を参照してください
+>詳しくは、[&#x200B; ガイド付きランディングページテンプレート &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"} を参照してください
 
 詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
 

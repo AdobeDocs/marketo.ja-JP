@@ -17,7 +17,7 @@ Marketo Engageでは、スマートキャンペーンの対象となる最大人
 
 >[!PREREQUISITES]
 >
->Marketo管理で [ スマートキャンペーンの人物制限を有効にする ](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} を必ずオンにします。
+>Marketo管理で [&#x200B; スマートキャンペーンの人物制限を有効にする &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md){target="_blank"} を必ずオンにします。
 
 1. **[!UICONTROL マーケティングアクティビティ]** で、スマートキャンペーンに移動し、「**[!UICONTROL スケジュール]**」をクリックします。
 

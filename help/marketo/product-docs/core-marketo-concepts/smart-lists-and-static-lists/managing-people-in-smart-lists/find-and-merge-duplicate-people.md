@@ -21,7 +21,7 @@ Marketo は、新しい人物がシステムに入ると、自動的に重複排
 
 >[!PREREQUISITES]
 >
->重複の検索とマージには、[ 組み込み/システムのスマートリスト ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"} を使用します。
+>重複の検索とマージには、[&#x200B; 組み込み/システムのスマートリスト &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"} を使用します。
 
 >[!NOTE]
 >
