@@ -43,5 +43,5 @@ ht-degree: 85%
 
 >[!MORELIKETHIS]
 >
->* [ [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md) 用 Marketo メールアドインを使用したメールの送信とトラック
+>* [&#x200B; [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md) 用 Marketo メールアドインを使用したメールの送信とトラック
 >* [Marketo テンプレートを使用した  [!DNL Outlook]  からの送信とトラック](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

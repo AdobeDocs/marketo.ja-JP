@@ -17,7 +17,7 @@ ht-degree: 92%
 
 >[!PREREQUISITES]
 >
->[ [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
+>[&#x200B; [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
 
 >[!NOTE]
 >
@@ -75,5 +75,5 @@ ht-degree: 92%
 
    >[!MORELIKETHIS]
    >
-   >* [ [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
+   >* [&#x200B; [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
    >* [Google メールで人物とアカウントの情報とアクティビティを表示](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

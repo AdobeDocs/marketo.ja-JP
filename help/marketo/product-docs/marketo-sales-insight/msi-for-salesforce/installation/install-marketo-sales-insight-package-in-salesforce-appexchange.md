@@ -23,7 +23,7 @@ ht-degree: 92%
 >
 >[!DNL Marketo Sales Insight] は、[!DNL Salesforce] Platform（Shield）Encryption と互換性があります。
 
-1. [ [!DNL Marketo Sales Insight] の AppExchange ページ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)に移動し、「**[!UICONTROL 今すぐ取得]**」をクリックします。
+1. [&#x200B; [!DNL Marketo Sales Insight] の AppExchange ページ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)に移動し、「**[!UICONTROL 今すぐ取得]**」をクリックします。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
@@ -77,6 +77,6 @@ ht-degree: 92%
 
 >[!MORELIKETHIS]
 >
->* [ [!DNL Salesforce]  Professional Edition での  [!DNL Marketo Sales Insight]  の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
->* [ [!DNL Salesforce]  Enterprise／Unlimited での  [!DNL Marketo Sales Insight]  の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [&#x200B; [!DNL Salesforce]  Professional Edition での  [!DNL Marketo Sales Insight]  の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
+>* [&#x200B; [!DNL Salesforce]  Enterprise／Unlimited での  [!DNL Marketo Sales Insight]  の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 >* [セールスインサイトへのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

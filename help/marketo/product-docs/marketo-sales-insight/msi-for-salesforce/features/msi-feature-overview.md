@@ -157,7 +157,7 @@ Visualforce ページ：
    * ビューの作成と編集、時間枠フィルタリング機能を含む
    * 列 - ページビュー、名前、アカウント、最終訪問
 
-*  匿名の Web アクティビティ
+* 匿名の Web アクティビティ
 
    * ビューの作成と編集、時間枠フィルタリング機能を含む
    * 列 - ページビュー、会社、前回の訪問、調査（会社の LinkedIn ページを開く）
@@ -184,7 +184,7 @@ Visualforce ページ：
 
 >[!MORELIKETHIS]
 >
-> [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md) での「[[!DNL Marketo Sales Insight]  設定」タブ
+> [!DNL Salesforce][&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md) での「[!DNL Marketo Sales Insight]  設定」タブ
 
 ## [!DNL Sales Insight] パフォーマンスレポート {#sales-insight-performance-reports}
 

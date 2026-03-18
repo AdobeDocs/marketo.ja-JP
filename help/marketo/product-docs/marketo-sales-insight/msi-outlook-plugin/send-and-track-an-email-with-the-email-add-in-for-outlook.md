@@ -17,7 +17,7 @@ ht-degree: 91%
 
 >[!PREREQUISITES]
 >
->まだインストールしていない場合は、[ [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 用 Marketo メールアドインをインストールします。
+>まだインストールしていない場合は、[&#x200B; [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 用 Marketo メールアドインをインストールします。
 
 >[!NOTE]
 >

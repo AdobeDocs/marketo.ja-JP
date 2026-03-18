@@ -14,7 +14,7 @@ ht-degree: 92%
 >[!PREREQUISITES]
 >
 >* [!DNL Salesforce] インスタンスでのセールスインサイトパッケージの[インストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)または[アップグレード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md)
->* [ [!DNL Salesforce]  Enterprise／Unlimited での Marketo セールスインサイトの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [&#x200B; [!DNL Salesforce]  Enterprise／Unlimited での Marketo セールスインサイトの設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 
 ## [!DNL Salesforce] に新しいリモートサイトを追加 {#add-new-remote-site-in-salesforce}
 

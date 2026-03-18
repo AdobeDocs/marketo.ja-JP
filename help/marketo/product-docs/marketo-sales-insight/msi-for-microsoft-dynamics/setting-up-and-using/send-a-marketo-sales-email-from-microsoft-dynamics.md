@@ -51,4 +51,4 @@ ht-degree: 86%
 
 >[!MORELIKETHIS]
 >
->[ [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) から Marketo キャンペーンへのリード／取引先責任者の追加
+>[&#x200B; [!DNL Microsoft Dynamics]](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) から Marketo キャンペーンへのリード／取引先責任者の追加

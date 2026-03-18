@@ -25,7 +25,7 @@ ht-degree: 91%
 
 >[!IMPORTANT]
 >
->Microsoft は、[Outlook for Windows の新しいバージョン ](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}をリリースしました。この新しいバージョンは、既存の MSI Outlook プラグインをサポートしていません。MSI Outlook プラグインは、Outlook のクラシックバージョンを実行している Windows デスクトップで引き続き機能します。組織向けの新しい Outlook for Windows の詳細については、[こちらをクリック](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}してください。
+>Microsoft は、[Outlook for Windows の新しいバージョン &#x200B;](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}をリリースしました。この新しいバージョンは、既存の MSI Outlook プラグインをサポートしていません。MSI Outlook プラグインは、Outlook のクラシックバージョンを実行している Windows デスクトップで引き続き機能します。組織向けの新しい Outlook for Windows の詳細については、[こちらをクリック](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}してください。
 
 1. My Marketo で、「**[!UICONTROL 管理者]**」をクリックし、「**[!UICONTROL セールスインサイト]**」をクリックします。
 
