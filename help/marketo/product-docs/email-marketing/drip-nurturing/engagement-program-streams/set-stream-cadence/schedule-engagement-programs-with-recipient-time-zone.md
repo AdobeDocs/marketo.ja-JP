@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12982909
-description: 受信者タイムゾーンを使用してエンゲージメントプログラムをスケジュールする - Marketo ドキュメント - 製品ドキュメント
+description: 受信者のタイムゾーンでエンゲージメントプログラムのキャストをスケジュールする方法を説明します。 グローバル配信の場合は、最初のキャストを 25 時間以上前に設定します。
 title: 受信者タイムゾーンを使用してエンゲージメントプログラムをスケジュールする
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 100%
+source-wordcount: '207'
+ht-degree: 88%
 
 ---
 

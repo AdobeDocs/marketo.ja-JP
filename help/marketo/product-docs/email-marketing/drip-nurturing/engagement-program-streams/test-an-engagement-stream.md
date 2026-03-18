@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359839
-description: エンゲージメントストリームのテスト - Marketo ドキュメント - 製品ドキュメント
+description: テスト担当者とエンゲージメントストリームをテストする方法を説明します。 プログラムアクションと実行キャストを使用して、コンテンツを送信し、トランジションルールを検証します。
 title: エンゲージメントストリームのテスト
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 100%
+source-wordcount: '175'
+ht-degree: 86%
 
 ---
 

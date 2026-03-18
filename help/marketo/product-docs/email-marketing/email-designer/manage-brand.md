@@ -2,15 +2,16 @@
 solution: Marketo Engage
 product: Marketo
 title: ブランドの管理
-description: ブランドガイドラインを作成および管理する方法について説明します。
+description: 電子メールDesignerでブランドガイドラインを作成および管理する方法を説明します。 メールのブランド設定を指定および更新します。
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1410'
-ht-degree: 85%
+source-wordcount: '1421'
+ht-degree: 84%
 
 ---
 
@@ -22,7 +23,7 @@ ht-degree: 85%
 
 >[!AVAILABILITY]
 >
->Adobe Marketo Engageで AI アシスタントを使用するには、[&#x200B; ユーザー使用許諾契約 &#x200B;](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} に同意する必要があります。 詳しくは、アドビ担当者にお問い合わせください。
+>Adobe Marketo Engageで AI アシスタントを使用するには、[ ユーザー使用許諾契約 ](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"} に同意する必要があります。 詳しくは、アドビ担当者にお問い合わせください。
 
 ## ブランドへのアクセス {#generative-access}
 

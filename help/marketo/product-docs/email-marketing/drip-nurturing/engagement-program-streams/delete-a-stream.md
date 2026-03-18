@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359936
-description: ストリームを削除する - Marketo ドキュメント - 製品ドキュメント
+description: エンゲージメントプログラムからストリームを削除する方法を説明します。 必要に応じてユーザーを最初に移動し、履歴データの損失を避けるために確認します。
 title: ストリームを削除する
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '105'
+ht-degree: 78%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 エンゲージメントプログラムからストリームを削除する必要がある場合は、次の手順を実行します。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 

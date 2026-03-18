@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359598
-description: メールプログラムダッシュボードを Excel に書き出す — Marketo ドキュメント — 製品ドキュメント
+description: メールプログラムダッシュボードを Excel に書き出す方法を説明します。 レポートおよび分析用のプログラム指標をダウンロードします。
 title: メールプログラムダッシュボードを Excel に書き出す
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '99'
+ht-degree: 81%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 メールプログラムを実行し、ダッシュボードにデータが表示されたら、その生データを Excel に書き出して、分析に役立てることができます。手順は以下のとおりです。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 

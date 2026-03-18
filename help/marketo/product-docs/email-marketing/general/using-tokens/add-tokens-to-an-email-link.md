@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147360
-description: メールリンクにトークンを追加する — Marketo ドキュメント — 製品ドキュメント
+description: メールリンクにトークンを追加する方法を説明します。 パーソナライゼーションおよびトラッキングのために、リンク URL に動的な値を挿入する。
 title: メールリンクにトークンを追加する
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 81%
 
 ---
 

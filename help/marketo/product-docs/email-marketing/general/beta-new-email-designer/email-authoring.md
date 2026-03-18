@@ -1,14 +1,14 @@
 ---
-description: メールオーサリング - Marketo ドキュメント – 製品ドキュメント
+description: 新しいメールDesignerでのメールオーサリングについて説明します。 Marketo Engageでメールを作成、パーソナライズ、プレビューします。
 title: メールオーサリング
 hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1503'
-ht-degree: 5%
+source-wordcount: '1514'
+ht-degree: 7%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだの場合は、Adobe アカウントチーム（アカウントマネージャー）または [Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support) にお問い合わせください。
+>新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだ移行しておらず、迅速な対応をリクエストする場合は、アドビのアカウントチーム（担当のアカウントマネージャー）または [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。
 
 ## メールの作成 {#create-an-email}
 
-1. [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"} からMarketo Engageにログインします。
+1. [Adobe Experience Cloud](https://experienceleague.adobe.com/ja){target="_blank"} からMarketo Engageにログインします。
 
 1. My Marketoで、「**Design Studio**」を選択します。
 
@@ -54,11 +54,11 @@ ht-degree: 5%
 
 1. _メールを作成_ ページが読み込まれます。 次のいずれかのオプションを選択できます。
 
-* ビジュアルメールエディターを使用した [&#x200B; ゼロからのデザイン &#x200B;](#design-from-scratch)
+* ビジュアルメールエディターを使用した [ ゼロからのデザイン ](#design-from-scratch)
 
-* HTMLまたは zip ファイルを使用した [&#x200B; 独自のHTMLの読み込み &#x200B;](#import-html)
+* HTMLまたは zip ファイルを使用した [ 独自のHTMLの読み込み ](#import-html)
 
-* [&#x200B; 既存のテンプレートを選択 &#x200B;](#choose-a-template) （サンプルまたは既に保存したもの）
+* [ 既存のテンプレートを選択 ](#choose-a-template) （サンプルまたは既に保存したもの）
 
 ### ゼロからデザイン {#design-from-scratch}
 
@@ -66,13 +66,13 @@ ht-degree: 5%
 
 1. _メールを作成_ ページで、「**ゼロからデザイン**」を選択します。
 
-1. [&#x200B; 構造とコンテンツ &#x200B;](#add-structure-and-content) をメールに追加します。
+1. [ 構造とコンテンツ ](#add-structure-and-content) をメールに追加します。
 
-1. [&#x200B; 画像 &#x200B;](#add-assets) を追加します。
+1. [ 画像 ](#add-assets) を追加します。
 
-1. コンテンツを [&#x200B; パーソナライズ &#x200B;](#personalize-content) します。
+1. コンテンツを [ パーソナライズ ](#personalize-content) します。
 
-1. リンクを確認し、[&#x200B; トラッキングを編集 &#x200B;](#edit-url-tracking) します。
+1. リンクを確認し、[ トラッキングを編集 ](#edit-url-tracking) します。
 
 ### HTML の読み込み {#import-html}
 
@@ -96,7 +96,7 @@ ht-degree: 5%
 >
 >HTMLのコンテンツがアップロードされると、コンテンツは互換モードになります。 このモードでは、テキストのパーソナライズ、リンクの追加、コンテンツへのアセットの追加のみを行うことができます。
 
-[&#x200B; 視覚的なメールエディターツール &#x200B;](#add-structure-and-content) を使用して、読み込んだコンテンツに必要な変更を加えることができます。
+[ 視覚的なメールエディターツール ](#add-structure-and-content) を使用して、読み込んだコンテンツに必要な変更を加えることができます。
 
 ### テンプレートを選択 {#choose-a-template}
 
@@ -160,7 +160,7 @@ ht-degree: 5%
 
 ### Assetsを追加 {#add-assets}
 
-Marketo Engage インスタンスの [&#x200B; 画像とファイル &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存される画像を追加します。
+Marketo Engage インスタンスの [ 画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存される画像を追加します。
 
 >[!NOTE]
 >
@@ -221,7 +221,7 @@ Marketo Engage インスタンスの [&#x200B; 画像とファイル &#x200B;](/
 
    ![](assets/authoring-personalize-content-1.png)
 
-1. 目的の [&#x200B; トークンタイプ &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} をクリックします。
+1. 目的の [ トークンタイプ ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} をクリックします。
 
    ![](assets/authoring-personalize-content-2.png)
 
@@ -287,7 +287,7 @@ Marketo Engage インスタンスの [&#x200B; 画像とファイル &#x200B;](/
 
 >[!NOTE]
 >
->[&#x200B; 運用中のメール &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) （マーケティング以外）に購読解除オプションの追加は必要ありません。
+>[ 運用中のメール ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) （マーケティング以外）に購読解除オプションの追加は必要ありません。
 
 * **HTMLのテキストバージョンが空です**:HTMLのコンテンツを表示できない場合に使用する、メール本文のテキストバージョンを定義する必要があります。
 
@@ -315,9 +315,9 @@ Marketo Engage インスタンスの [&#x200B; 画像とファイル &#x200B;](/
 
 新しいエディターでメールを作成したら、他のメールと同様に、スマートキャンペーンやスマートリストで参照できます。
 
-* [&#x200B; 通常の手順に従う &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ことによって、スマート・リストで参照します。
+* [ 通常の手順に従う ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) ことによって、スマート・リストで参照します。
 
-* スマートキャンペーンで参照するには [&#x200B; 通常の手順に従います &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
+* スマートキャンペーンで参照するには [ 通常の手順に従います ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)。
 
 >[!NOTE]
 >
@@ -325,4 +325,4 @@ Marketo Engage インスタンスの [&#x200B; 画像とファイル &#x200B;](/
 
 >[!MORELIKETHIS]
 >
->[&#x200B; メールテンプレート &#x200B;](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}：新しいデザイナーでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
+>[ メールテンプレート ](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}：新しいデザイナーでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。

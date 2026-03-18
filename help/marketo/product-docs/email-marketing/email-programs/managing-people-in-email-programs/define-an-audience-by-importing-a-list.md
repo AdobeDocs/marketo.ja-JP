@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900597
-description: リスト読み込みによるオーディエンスの定義 - Marketo ドキュメント - 製品ドキュメント
+description: リストを読み込んで、メールプログラムオーディエンスを定義する方法を説明します。 静的リストまたはアップロードされたリストを使用して、送信をターゲットにします。
 title: リスト読み込みによるオーディエンスの定義
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 100%
+source-wordcount: '384'
+ht-degree: 94%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 >
 >インポートされる日付／時間フィールドはすべて、アメリカの中央時間帯として処理されます。日付／時間フィールドが異なるタイムゾーンに指定されている場合、Excel の関数を用いて中央時間帯（アメリカ／シカゴ）に変換することができます。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -63,7 +63,7 @@ ht-degree: 100%
 >
 >「ブロック済み」の数に気づきましたか？この数は、条件を満たすリードのうち、以下の理由によりメールを送信できないサブセットを表します。
 >
->* 登録解除
+>* 配信停止完了
 >* マーケティングを中断したリード
 >* ブロックリスト掲載
 >* メール無効

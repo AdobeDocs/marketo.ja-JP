@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900565
-description: メールにカレンダーイベント（.ics）を追加する - Marketo ドキュメント - 製品ドキュメント
+description: メールにカレンダーイベント（.ics）を含める方法を説明します。 受信者が自分のカレンダーにイベントを追加できるように、添付ファイルを追加します。
 title: メールにカレンダーイベント（.ics）を追加する
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 100%
+source-wordcount: '103'
+ht-degree: 77%
 
 ---
 

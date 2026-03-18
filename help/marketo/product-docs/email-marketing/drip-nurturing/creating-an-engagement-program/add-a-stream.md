@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359787
-description: ストリームの追加 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのエンゲージメントプログラムに新しいストリームを追加する方法を説明します。 「ストリーム」タブから、プログラムごとに最大 25 個のストリームを追加します。
 title: ストリームの追加
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 100%
+source-wordcount: '73'
+ht-degree: 67%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 エンゲージメントプログラムには複数のストリームを追加できます。新しいストリームを追加する手順は以下のとおりです。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 

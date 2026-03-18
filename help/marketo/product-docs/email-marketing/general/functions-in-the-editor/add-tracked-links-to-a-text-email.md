@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900589
-description: テキストメールに追跡リンクを追加する - Marketo ドキュメント - 製品ドキュメント
+description: トラッキング対象のリンクをテキストのみのメールに追加する方法を説明します。 リンクトラッキングを有効にすると、メールレポートでのクリック数を測定できます。
 title: テキストメールに追跡リンクを追加する
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '174'
+ht-degree: 87%
 
 ---
 

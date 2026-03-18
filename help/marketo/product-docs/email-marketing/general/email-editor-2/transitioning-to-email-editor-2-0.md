@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11373011
-description: メールエディター 2.0 への移行 - Marketo ドキュメント - 製品ドキュメント
+description: メールエディター 2.0 への移行について説明します。変更内容と、クラシックエディターから新しいエクスペリエンスに移行する方法を説明します。
 title: メールエディター 2.0 への移行
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '618'
-ht-degree: 74%
+source-wordcount: '630'
+ht-degree: 71%
 
 ---
 

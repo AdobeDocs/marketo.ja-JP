@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11372299
-description: Email Editor v2.0 の概要 — Marketo ドキュメント — 製品ドキュメント
+description: メールエディター v2.0 とその機能の説明 モジュールベースのエディターとテンプレートピッカーを使用して、メールを作成および編集します。
 title: メールエディター v2.0 の概要
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '469'
-ht-degree: 87%
+source-wordcount: '480'
+ht-degree: 96%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 87%
 
 >[!IMPORTANT]
 >
->正確な日付は設定されていませんが、クラシックメールエディターは 2026 年中に廃止される可能性があります（正確な日付については発表予定です）。 高度な [&#x200B; メールDesigner](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"} は、クラシックエディターでは使用できない機能が多いので、導入を開始することを強くお勧めします。
+>正確な日付は設定されていませんが、クラシックメールエディターは 2026年中に廃止される可能性があります（正確な日付が決まり次第お知らせします）。高度な [E メールデザイナー](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}にはクラシックエディターでは使用できない多くの機能があるので、導入を開始することを強くお勧めします。
 
 **メールテンプレート選択ツール**
 

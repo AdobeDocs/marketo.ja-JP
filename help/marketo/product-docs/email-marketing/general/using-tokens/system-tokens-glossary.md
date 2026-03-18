@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147344
-description: システムトークンの用語集 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのメールで使用できるシステムトークンについて説明します。 用語集を使用して、パーソナライゼーションに適したトークンを見つけます。
 title: システムトークンの用語集
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: bf420edcc79aa551e286302fa002df9162371873
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 93%
+source-wordcount: '228'
+ht-degree: 85%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359596
-description: メールプログラムの通信制限を有効化／無効化する — Marketo ドキュメント — 製品ドキュメント
+description: メールプログラムで通信制限を有効または無効にする方法を説明します。 プログラムから電子メールを受信できる頻度を制御します。
 title: メールプログラムの通信制限を有効化／無効化する
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '144'
+ht-degree: 84%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 >
 >通信の制限は[管理者](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)セクションで設定され、1 人のリードに送信されるメールが多すぎないようにします。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-3.png)
 

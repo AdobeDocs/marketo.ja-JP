@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359669
-description: ストリームコンテンツのアクティベートとディアクティベート - Marketo ドキュメント - 製品ドキュメント
+description: エンゲージメントキャスト用のストリームコンテンツをアクティブ化および非アクティブ化する方法について説明します。
 title: ストリームコンテンツのアクティベートとディアクティベート
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 100%
+source-wordcount: '138'
+ht-degree: 92%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## ストリームコンテンツをアクティベートする {#activate-stream-content}
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 

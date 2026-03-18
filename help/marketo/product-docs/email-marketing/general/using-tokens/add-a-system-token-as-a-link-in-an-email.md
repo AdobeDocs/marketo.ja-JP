@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900573
-description: メールにシステムトークンをリンクとして追加する - Marketo ドキュメント - 製品ドキュメント
+description: システムトークンをメール内のリンクとして追加する方法を説明します。 購読解除などの動的リンクのリンク URL でトークンを使用します。
 title: メールにシステムトークンをリンクとして追加する
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 100%
+source-wordcount: '222'
+ht-degree: 89%
 
 ---
 

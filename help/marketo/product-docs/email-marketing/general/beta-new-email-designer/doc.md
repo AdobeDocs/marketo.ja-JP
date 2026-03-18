@@ -1,12 +1,12 @@
 ---
-description: 一時ドキュメント - Marketo ドキュメント – 製品ドキュメント
+description: 新しいメールDesignerベータ版の一時ドキュメント。 アセットを追加し、ベータテストにデザイナーを使用する（目次から非表示）。
 title: 一時ドキュメント
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '200'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ### Assetsを追加 {#add-assets}
 
-Marketo Engage インスタンスの [&#x200B; 画像とファイル &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存される画像を追加します。
+Marketo Engage インスタンスの [ 画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存される画像を追加します。
 
 >[!NOTE]
 >

@@ -2,15 +2,15 @@
 solution: Marketo Engage
 product: marketo
 title: コンテンツコンポーネント
-description: 説明。
+description: メールレイアウトをパーソナライズするためのコンテンツコンポーネントについて説明します。 メールDesignerの構造コンポーネント内にコンポーネントを追加し、スタイルを設定します。
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1290'
-ht-degree: 88%
+source-wordcount: '1308'
+ht-degree: 87%
 
 ---
 
@@ -158,7 +158,7 @@ ht-degree: 88%
 1. 新しく追加したコンポーネントをクリックし、画像プロパティを設定します。
 
    * 「**[!UICONTROL 画像タイトル]** 」に画像のタイトルを入力します。
-   * **[!UICONTROL 代替テキスト]**&#x200B;を使用すると、画像にリンクするキャプションを設定できます。これは HTML の alt 属性に対応します。
+   * **[!UICONTROL 代替テキスト]**&#x200B;を使用すると、画像にリンクするキャプションを定義できます。これは HTML の alt 属性に対応します。
 
    スクリーンショット
 

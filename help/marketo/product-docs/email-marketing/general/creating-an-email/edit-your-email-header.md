@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359453
-description: メールヘッダーの編集 - Marketo ドキュメント - 製品ドキュメント
+description: メールヘッダーを（名前から、メールから、返信先、件名から）編集する方法について説明します。 メールエディターでヘッダーフィールドを設定します。
 title: メールヘッダーの編集
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 100%
+source-wordcount: '210'
+ht-degree: 90%
 
 ---
 

@@ -2,12 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: 条件付きコンテンツ
-description: 条件付きコンテンツをメールで使用すると、受信者に応じたコンテンツを動的に表示できます。
+description: 受信者ごとに異なるコンテンツを表示する条件付きコンテンツについて説明します。 メールDesignerのルールを使用して、メールをパーソナライズします。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+exl-id: 979ef9db-920f-466f-8c7d-e9de1ee4cf00
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '308'
 ht-degree: 5%
 
 ---
@@ -18,7 +19,7 @@ ht-degree: 5%
 
 >[!PREREQUISITES]
 >
->少なくとも 1 つのセグメント化 [&#x200B; 作成 &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) および [&#x200B; 承認 &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) を持っている。
+>少なくとも 1 つのセグメント化 [ 作成 ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md) および [ 承認 ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md) を持っている。
 
 ## 条件付きコンテンツを追加 {#add-conditional-content}
 

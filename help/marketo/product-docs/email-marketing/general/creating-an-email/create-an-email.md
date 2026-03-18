@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10912163
-description: メールを作成する - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでメールを作成する方法を説明します。 テンプレートを選択するか、Design Studio またはメールプログラムでゼロから開始します。
 title: メールを作成する
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 100%
+source-wordcount: '222'
+ht-degree: 90%
 
 ---
 
@@ -33,7 +33,7 @@ Marketo でメールを作成する方法は主に 2 つあります。両方を
 
 ## マーケティングアクティビティでメールを作成する {#create-an-email-in-marketing-activities}
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/create-an-email-3.png)
 

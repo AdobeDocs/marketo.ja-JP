@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360219
-description: カスタム DKIM 署名の設定 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでドメインのカスタム DKIM署名を設定する方法について説明します。 管理者にドメインを追加し、それを操作して DNS レコードを公開します。
 title: カスタム DKIM 署名の設定
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 100%
+source-wordcount: '444'
+ht-degree: 93%
 
 ---
 

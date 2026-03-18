@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11371040
-description: メールテンプレートの構文 - Marketo ドキュメント - 製品ドキュメント
+description: メールエディター 2.0 のメールテンプレート構文について説明します。テンプレートのモジュールおよび編集可能なセクションには、正しい構文を使用します。
 title: メールテンプレートの構文
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '2449'
-ht-degree: 100%
+source-wordcount: '2462'
+ht-degree: 99%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359502
-description: 「メール全体」A/B テストを使用する — Marketo ドキュメント — 製品ドキュメント
+description: メール全体の A/B テストを実行する方法を説明します。 様々なメールバージョンをテストし、選択した条件に基づいて勝者を選択します。
 title: 「メール全体」A/B テストを使用する
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 100%
+source-wordcount: '282'
+ht-degree: 92%
 
 ---
 

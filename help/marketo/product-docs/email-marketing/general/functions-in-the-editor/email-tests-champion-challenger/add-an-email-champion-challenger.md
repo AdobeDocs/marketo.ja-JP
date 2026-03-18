@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359553
-description: メールチャンピオン／挑戦者の追加 - Marketo ドキュメント - 製品ドキュメント
+description: チャンピオン/チャレンジャーのメールテストを追加する方法を説明します。 複数のバリアントを設定し、勝者の選択方法を定義します。
 title: メールチャンピオン／挑戦者の追加
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 100%
+source-wordcount: '217'
+ht-degree: 90%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 >
 >チャンピオン／挑戦者メールは、トリガーキャンペーンとエンゲージメントプログラムストリームでのみ機能します。バッチメールの場合は、メールプログラムの [A/B テスト機能](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を使用します。
 
-1. **[!UICONTROL マーケティング活動]**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 

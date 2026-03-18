@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096400
-description: メールテンプレートを作成する - Marketo ドキュメント - 製品ドキュメント
+description: メールエディター 2.0 でメールテンプレートを作成する方法を説明します。モジュールと編集可能なセクションを使用して、再利用可能なテンプレートを作成します。
 title: メールテンプレートを作成する
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 100%
+source-wordcount: '284'
+ht-degree: 93%
 
 ---
 

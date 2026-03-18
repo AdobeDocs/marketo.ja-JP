@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359520
-description: 「日時」A/B テストの使用 - Marketo ドキュメント - 製品ドキュメント
+description: メールプログラムの日時 A/B テストを実行する方法を説明します。 様々な送信時間をテストし、パフォーマンスで勝者を選択します。
 title: 「日付／時間」A/B テストの使用
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 100%
+source-wordcount: '275'
+ht-degree: 92%
 
 ---
 

@@ -2,16 +2,16 @@
 solution: Marketo Engage
 product: marketo
 title: TITLE
-description: 再利用可能なテーマとモジュールを使用してメールの作成を合理化し、デザインの一貫性と効率を確保する方法について説明します。
+description: 一貫したデザインのために、ブランドテーマをメールに適用する方法を説明します。 メールDesignerで再利用可能なテーマとモジュールを使用します。
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '731'
+source-wordcount: '735'
 ht-degree: 74%
 
 ---
@@ -47,13 +47,13 @@ Key Benefits:
 
   _手動スタイル設定_ モードを選択した場合、メールをリセットしない限り、テーマを適用できません。
 
-* [&#x200B; フラグメント &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) は、_テーマを使用_ モードと _手動スタイル設定_ モード間で相互互換性がありません。
+* [ フラグメント ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) は、_テーマを使用_ モードと _手動スタイル設定_ モード間で相互互換性がありません。
 
   テーマが適用されているコンテンツでフラグメントを使用できるようにするには、このフラグメントを _テーマを使用_ モードで作成する必要があります。
 
-* HTMLで作成されたコンテンツを使用する場合は、[&#x200B; 互換モード &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) になり、このコンテンツにテーマを適用できません。
+* HTMLで作成されたコンテンツを使用する場合は、[ 互換モード ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) になり、このコンテンツにテーマを適用できません。
 
-  テーマを含む電子メールDesignerのすべての機能を最大限に活用するには、_テーマを使用_ モードで新しいコンテンツを作成するか、[&#x200B; 読み込んだHTML コンテンツ &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) を変換する必要があります。
+  テーマを含む電子メールDesignerのすべての機能を最大限に活用するには、_テーマを使用_ モードで新しいコンテンツを作成するか、[ 読み込んだHTML コンテンツ ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) を変換する必要があります。
 
 <!--If using a content created in Manual Styling mode or HTML, you cannot apply themes to this content. You must create a new content in Use Themes mode.
 
@@ -63,7 +63,7 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
 
 今後のメールコンテンツで活用できるテーマを定義するには、次の手順に従います。
 
-1. 開始するには、新しい [&#x200B; メールテンプレート &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) を作成します。
+1. 開始するには、新しい [ メールテンプレート ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) を作成します。
 
 1. 「**[!UICONTROL テーマを作成または編集]**」オプションを選択します。
 
@@ -127,7 +127,7 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
      >
      >_手動スタイル設定_ モードを選択した場合、メールをリセットしない限り、テーマを適用できません。
      >
-     >[&#x200B; フラグメント &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) を _テーマを使用_ モードで使用するには、このフラグメント自体が _テーマを使用_ モードを使用して作成されている必要があります。
+     >[ フラグメント ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) を _テーマを使用_ モードで使用するには、このフラグメント自体が _テーマを使用_ モードを使用して作成されている必要があります。
 
 1. E メールデザイナーに移動したら、右側のパネルにある「**[!UICONTROL テーマ]**」ボタンをクリックします。デフォルトのテーマまたはテンプレートのテーマが表示されます。このテーマでは、2 つのカラーバリアントを切り替えることができます。
 

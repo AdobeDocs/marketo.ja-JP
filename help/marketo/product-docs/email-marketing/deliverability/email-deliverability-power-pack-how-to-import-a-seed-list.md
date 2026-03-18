@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099077
-description: シードリストを Marketo Engage インスタンスに読み込む方法について説明します。
+description: インボックスプレースメントテスト用にシードリストをMarketo Engageに読み込む方法を説明します。 エベレストを使用して、配信品質キャンペーン用のリストをダウンロードし、追加します。
 title: メール配信品質パワーパック - シードリストの読み込み方法
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 84%
+source-wordcount: '343'
+ht-degree: 92%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 84%
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. [!DNL Everest] アプリケーションが開きます。 左側のナビゲーションで、「**[!UICONTROL フライト中]**」をクリックし、「**[!UICONTROL インボックスへの配置]**」を選択します。
+1. [!DNL Everest] アプリケーションが開きます。左側のナビゲーションで、「**[!UICONTROL フライト中]**」をクリックし、「**[!UICONTROL インボックスへの配置]**」を選択します。
 
    ![](assets/email-deliverability-power-pack-2.png)
 
@@ -33,13 +33,13 @@ ht-degree: 84%
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. **[!UICONTROL アクション]** ドロップダウンをクリックし、「**[!UICONTROL ダウンロード：1 行に 1 つ]**」を選択します。
+1. **[!UICONTROL アクション]**&#x200B;ドロップダウンをクリックし、「**[!UICONTROL 1 行につき 1 件ダウンロード]**」を選択します。
 
    ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >リストを最適化する場合は、シードリストオプティマイザー（ページの上部） [!DNL Everest] 使用します。
+   >[!DNL Everest] でリストを最適化する場合は、（ページ上部にある）シードリストオプティマイザーを使用します。
 
 1. 書き出し後、リストは txt ファイルとしてブラウザーのダウンロードフォルダーに表示されます。取得し、静的リストとして Marketo インスタンスに[インポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)します。
 
@@ -51,7 +51,7 @@ ht-degree: 84%
 
    >[!CAUTION]
    >
-   >これらのインボックスへの配置キャンペーンの数は 1 か月あたりで制限されています。取得数を確認するには、[!UICONTROL &#x200B; の &#x200B;] アカウント設定 [!UICONTROL /] サブスクリプション [!UICONTROL &#x200B; の下の &#x200B;] サブスクリプション [!DNL Everest] セクションを参照してください。 詳細については、Marketo の営業担当にお問い合わせください。
+   >これらのインボックスへの配置キャンペーンの数は 1 か月あたりで制限されています。数を確認するには、[!DNL Everest] の[!UICONTROL アカウント設定]／[!UICONTROL サブスクリプション]の下の「[!UICONTROL サブスクリプション]」セクションを参照してください。詳細については、Marketo の営業担当にお問い合わせください。
 
 ## 新しいシードリストの取得 {#acquiring-new-seedlists}
 

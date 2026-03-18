@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514918
-description: 登録解除について - Marketo ドキュメント - 製品ドキュメント
+description: Marketoの購読解除タイプ（購読解除、マーケティング中断、ブロックリストに加える）について説明します。 キャンペーンの各シナリオに適切なフィールドを使用します。
 title: 登録解除について
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 100%
+source-wordcount: '235'
+ht-degree: 91%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo には、実際にはいくつかの異なるタイプのビルトイン
 
 これらのフィールドはすべて、Marketo での登録にビルトインされています。これらはすべてブール型（チェックボックス）です。これらは Forms または[データ値を変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)フローステップで使用できます。
 
-## 登録解除済み {#unsubscribed}
+## 配信停止完了 {#unsubscribed}
 
 これは、標準の登録解除ページで使用されます。ユーザーがこのボックスをオンにした場合、または電子メールの登録解除リンクをクリックした場合、そのユーザーはマーケティング電子メールを受け取らなくなります。ただし、[オペレーショナルメール](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)は受け取ります。
 

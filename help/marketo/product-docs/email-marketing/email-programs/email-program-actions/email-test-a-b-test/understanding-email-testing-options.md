@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359483
-description: メールテストのオプションについて — Marketo ドキュメント — 製品ドキュメント
+description: A/B テストのメールテストオプションについて説明します。 件名、メール全体、送信者アドレス、日時のテストについて説明します。
 title: メールテストのオプションについて
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '109'
+ht-degree: 81%
 
 ---
 

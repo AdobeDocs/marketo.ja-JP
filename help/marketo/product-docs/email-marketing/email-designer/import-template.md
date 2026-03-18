@@ -1,21 +1,22 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: テンプレートのインポート
-description: 既存のメールテンプレートをクラシックエディターから新しいメールDesignerに読み込む方法を説明します。
+title: テンプレートインポート
+description: クラシックエディターからメールDesignerにメールテンプレートを読み込む方法を説明します。
 level: Beginner, Intermediate
 feature: Email Designer
 badge: ベータ版
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '759'
-ht-degree: 2%
+source-wordcount: '756'
+ht-degree: 3%
 
 ---
 
-# テンプレートのインポート {#template-import}
+# テンプレートインポート {#template-import}
 
-既存のメールテンプレートをクラシックエディターから新しいメールDesignerに簡単に読み込むことができ、デザインを維持しながら、使い慣れた再利用可能な構造でテンプレートを迅速に作成できます。 [&#x200B; ベストプラクティス &#x200B;](#best-practices) を確認し、[&#x200B; 制限事項と対策 &#x200B;](#limitations-and-remedies) について学びます。
+既存のメールテンプレートをクラシックエディターから新しいメールDesignerに簡単に読み込むことができ、デザインを維持しながら、使い慣れた再利用可能な構造でテンプレートを迅速に作成できます。 [ ベストプラクティス ](#best-practices) を確認し、[ 制限事項と対策 ](#limitations-and-remedies) について学びます。
 
 >[!NOTE]
 >

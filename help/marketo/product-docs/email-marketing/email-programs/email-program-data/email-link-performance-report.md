@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359478
-description: メールリンク効果レポート - Marketo ドキュメント - 製品ドキュメント
+description: メールリンクのパフォーマンスレポートを作成および使用する方法について説明します。 クリックとエンゲージメントに対するメール内の各リンクのパフォーマンスを確認します。
 title: メールリンク効果レポート
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 100%
+source-wordcount: '254'
+ht-degree: 90%
 
 ---
 

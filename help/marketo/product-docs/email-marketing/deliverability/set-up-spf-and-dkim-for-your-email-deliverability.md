@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720710
-description: メール到達率のための SPF と DKIM の設定 - Marketo ドキュメント - 製品ドキュメント
+description: メールの配信品質を向上させるために、DNS に SPF とDKIMを設定する方法を説明します。 あなたに代わってMarketoが送信を行うことを承認し、スパムフラグを減らします。
 title: メール到達率のための SPF と DKIM の設定
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 99%
+source-wordcount: '434'
+ht-degree: 94%
 
 ---
 

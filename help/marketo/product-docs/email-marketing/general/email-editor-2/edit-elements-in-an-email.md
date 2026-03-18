@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900558
-description: メールの要素を編集する - Marketo ドキュメント - 製品ドキュメント
+description: メールエディター 2.0 でメールの要素を編集する方法を説明します。メールレイアウトのテキスト、画像、その他のモジュールを変更します。
 title: メールの要素を編集する
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '499'
-ht-degree: 100%
+source-wordcount: '512'
+ht-degree: 95%
 
 ---
 

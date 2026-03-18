@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359581
-description: チャンピオン／挑戦者：メールテストの承認 - Marketo ドキュメント - 製品ドキュメント
+description: チャンピオン/チャレンジャーのメールテストを承認する方法を説明します。 テストを実行し、推奨結果を宣言できるように、承認を完了します。
 title: チャンピオン／挑戦者：メールテストの承認
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '151'
+ht-degree: 85%
 
 ---
 

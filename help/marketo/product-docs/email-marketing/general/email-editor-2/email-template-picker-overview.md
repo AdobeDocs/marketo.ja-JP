@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10912237
-description: メールテンプレート選択ツールの概要 - Marketo ドキュメント - 製品ドキュメント
+description: メールエディター 2.0 のメールテンプレートピッカーについて説明します。新しいメールを作成する際に、テンプレートから選択します。
 title: メールテンプレート選択ツールの概要
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 100%
+source-wordcount: '285'
+ht-degree: 94%
 
 ---
 

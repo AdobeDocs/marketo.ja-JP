@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359789
-description: ストリームのクローンを作成する - Marketo ドキュメント - 製品ドキュメント
+description: エンゲージメントプログラムストリームをテスト用にクローンする方法を説明します。 ストリーム歯車アイコンからクローンを作成し、新しいストリームにケイデンスを設定します。
 title: ストリームのクローンを作成する
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '96'
+ht-degree: 76%
 
 ---
 

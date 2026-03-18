@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900579
-description: メールリンクのトラッキングを無効にする — Marketo ドキュメント — 製品ドキュメント
+description: 特定のメールリンクのトラッキングを無効にする方法を説明します。 プライバシーまたはリダイレクト URL に必要な場合は、クリックの追跡を無効にします。
 title: メールリンクのトラッキングを無効にする
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 100%
+source-wordcount: '298'
+ht-degree: 93%
 
 ---
 

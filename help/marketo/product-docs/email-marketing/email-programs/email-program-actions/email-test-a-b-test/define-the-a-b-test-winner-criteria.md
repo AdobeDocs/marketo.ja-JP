@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359545
-description: A/B テストの勝者条件の定義 - Marketo ドキュメント - 製品ドキュメント
+description: A/B テストの勝者条件を定義する方法を説明します。 テストに成功するバリアントを決定する指標としきい値を設定します。
 title: A/B テストの勝者条件の定義
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '432'
-ht-degree: 96%
+source-wordcount: '442'
+ht-degree: 91%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951167
-description: メールプログラム結果の表示 - Marketo ドキュメント - 製品ドキュメント
+description: メールプログラムの結果とパフォーマンスを表示する方法を説明します。 プログラムの開封数、クリック数、バウンス数およびその他の指標へのアクセス。
 title: メールプログラム結果の表示
 exl-id: 31bb94f5-bb4a-4f9e-96c8-dd744b57f795
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 100%
+source-wordcount: '87'
+ht-degree: 78%
 
 ---
 

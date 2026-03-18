@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953572
-description: メールプログラムについて - Marketo ドキュメント - 製品ドキュメント
+description: メールプログラムとコントロールパネルについて説明します。 メールの送信、A/B テストの実行、ダッシュボードの表示を 1 か所で行います。
 title: メールプログラムについて
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 100%
+source-wordcount: '331'
+ht-degree: 93%
 
 ---
 

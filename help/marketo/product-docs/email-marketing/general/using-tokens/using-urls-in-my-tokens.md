@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382535
-description: マイトークンでの URL の使用 - Marketo ドキュメント - 製品ドキュメント
+description: マイトークンで URL を使用する方法を説明します。 メール内のリンクとランディングページのトークンに URL を格納し、参照します。
 title: マイトークンでの URL の使用
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 100%
+source-wordcount: '265'
+ht-degree: 92%
 
 ---
 

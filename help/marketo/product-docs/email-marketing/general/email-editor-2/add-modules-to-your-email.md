@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11371065
-description: メールにモジュールを追加する - Marketo ドキュメント - 製品ドキュメント
+description: メールエディター 2.0 でメールにモジュールを追加する方法を説明します。コンテンツモジュールを挿入および配置してレイアウトを作成します。
 title: メールにモジュールを追加する
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 100%
+source-wordcount: '262'
+ht-degree: 91%
 
 ---
 

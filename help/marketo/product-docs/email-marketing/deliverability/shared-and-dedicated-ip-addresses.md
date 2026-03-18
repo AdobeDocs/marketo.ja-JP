@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10912085
-description: 共有 IP アドレスと専用 IP アドレス — Marketo ドキュメント — 製品ドキュメント
+description: 共有および専用の IP アドレスとその長所と短所について説明します。 送信量と評判の目標に合ったオプションを決定します。
 title: 共有 IP アドレスと専用 IP アドレス
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 68%
+source-wordcount: '446'
+ht-degree: 64%
 
 ---
 

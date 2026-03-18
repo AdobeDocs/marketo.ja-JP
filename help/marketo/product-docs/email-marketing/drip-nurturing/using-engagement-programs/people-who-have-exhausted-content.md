@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359953
-description: コンテンツ消費済みのリード - Marketo ドキュメント - 製品ドキュメント
+description: すべてのストリームコンテンツを使い果たした人物を見つける方法を説明します。
 title: コンテンツ消費済みのリード
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 100%
+source-wordcount: '186'
+ht-degree: 94%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 100%
 
 ## 「メンバー」タブ {#members-tab}
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」エリアに移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/ma.png)
 

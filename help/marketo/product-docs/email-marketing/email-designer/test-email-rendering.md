@@ -1,19 +1,19 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Litmus を使用したメールレンダリングのテスト
-description: Marketo Engage ユーザーは、Litmus アカウントを統合して、様々なメールクライアントでのコンテンツのレンダリングをシームレスにテストできます。
+title: Litmus を使用したメールのレンダリングのテスト
+description: Litmus を使用して、クライアント間でメールのレンダリングをテストする方法を説明します。 Litmus アカウントを統合して、様々なメールクライアントでコンテンツをプレビューします。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '374'
 ht-degree: 5%
 
 ---
 
-# Litmus を使用したメールレンダリングのテスト {#test-email-rendering-with-litmus}
+# Litmus を使用したメールのレンダリングのテスト {#test-email-rendering-with-litmus}
 
 Marketo Engageの [Litmus](https://www.litmus.com/email-testing) アカウントを活用すると、一般的なメールクライアントでのメールのレンダリング方法を即座に確認できます。
 
@@ -23,7 +23,7 @@ Marketo Engageの [Litmus](https://www.litmus.com/email-testing) アカウント
 
 ## Litmus Enterprise ユーザー {#litmus-enterprise}
 
-次の手順は、[Litmus エンタープライズプラン &#x200B;](https://www.litmus.com/pricing/enterprise){target="_blank"} を使用するユーザー向けです。
+次の手順は、[Litmus エンタープライズプラン ](https://www.litmus.com/pricing/enterprise){target="_blank"} を使用するユーザー向けです。
 
 1. _メールコンテンツを編集_ 画面で、「**コンテンツをシミュレート**」ボタンをクリックします。
 
@@ -55,7 +55,7 @@ Marketo Engageの [Litmus](https://www.litmus.com/email-testing) アカウント
 
    >[!NOTE]
    >
-   >[&#x200B; デフォルトのメールクライアントリストをカスタマイズ &#x200B;](https://help.litmus.com/article/227-change-your-default-email-clients-list) する方法を説明します。
+   >[ デフォルトのメールクライアントリストをカスタマイズ ](https://help.litmus.com/article/227-change-your-default-email-clients-list) する方法を説明します。
 
 1. テストが完了したら、左上の後矢印をクリックして _コンテンツをシミュレート_ 画面に戻ります。
 
@@ -67,7 +67,7 @@ Marketo Engageの [Litmus](https://www.litmus.com/email-testing) アカウント
 
 ## Litmus コアユーザー {#litmus-core}
 
-次の手順は、[Litmus コアプラン &#x200B;](https://www.litmus.com/pricing/){target="_blank"} を使用するユーザー向けです。
+次の手順は、[Litmus コアプラン ](https://www.litmus.com/pricing/){target="_blank"} を使用するユーザー向けです。
 
 1. Litmus アカウントで、「テスト **」画面の「** テストアドレスをコピー _」ボタンをクリックして、テストメールアドレスを取得します。_
 

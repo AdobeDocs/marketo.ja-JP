@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359685
-description: エンゲージメントダッシュボード - Marketo ドキュメント - 製品ドキュメント
+description: エンゲージメントダッシュボードの概要と、コンテンツパフォーマンスの表示方法について説明します。 枯渇、時間の経過に伴うエンゲージメント、最高のエンゲージメントウィジェットを表示します。
 title: エンゲージメントダッシュボード
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 100%
+source-wordcount: '291'
+ht-degree: 93%
 
 ---
 

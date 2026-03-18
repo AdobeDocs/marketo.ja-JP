@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359476
-description: メールプログラムダッシュボードの使用 - Marketo ドキュメント - 製品ドキュメント
+description: メールプログラムダッシュボードを使用してパフォーマンスを表示する方法を説明します。 開封数、クリック数およびその他の指標を一目で監視できます。
 title: メールプログラムダッシュボードの使用
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '397'
-ht-degree: 100%
+source-wordcount: '408'
+ht-degree: 95%
 
 ---
 

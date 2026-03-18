@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359915
-description: ストリームコンテンツの削除 - Marketo ドキュメント - 製品ドキュメント
+description: 履歴を保持する必要がない場合に、ストリームコンテンツを削除する方法を説明します。
 title: ストリームコンテンツの削除
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 100%
+source-wordcount: '127'
+ht-degree: 88%
 
 ---
 

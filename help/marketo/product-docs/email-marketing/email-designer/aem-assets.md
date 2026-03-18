@@ -1,12 +1,12 @@
 ---
 title: Experience Manager Assets の操作
-description: Adobe Marketo Engageでコンテンツをオーサリングする際に、接続されたAEM Assets リポジトリの画像アセットを使用する方法について説明します。
+description: Marketo EngageのメールでAEM Assets画像を使用する方法を説明します。 AEM Cloud Services をリンクし、Designer でAssets as a Cloud Serviceを使用します。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '917'
 ht-degree: 3%
 
 ---
@@ -19,11 +19,11 @@ Adobe Experience Manager _Assets as a Cloud Service_ は、デジタルアセッ
 
 >[!PREREQUISITES]
 >
->* 統合には、_Assets as a Cloud Service_ および Dynamic Media のライセンスが必要です。 [Dynamic Media with Open API が有効になっている &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis) ことを確認します。 契約と設定に応じて、Adobe Experience Manager _Assets as a Cloud Service_ は、ビジュアルコンテンツをデザインする際にMarketo Engageから直接アクセスできます。
+>* 統合には、_Assets as a Cloud Service_ および Dynamic Media のライセンスが必要です。 [Dynamic Media with Open API が有効になっている ](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis) ことを確認します。 契約と設定に応じて、Adobe Experience Manager _Assets as a Cloud Service_ は、ビジュアルコンテンツをデザインする際にMarketo Engageから直接アクセスできます。
 
 >[!NOTE]
 >
->現在、Marketo Engageでは _0&rbrace;Adobe Experience Manager Assets&rbrace; の画像アセットのみがサポートされています。_&#x200B;アセットに対する変更は、Adobe Experience Manager Assets中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>現在、Marketo Engageでは _0}Adobe Experience Manager Assets} の画像アセットのみがサポートされています。_&#x200B;アセットに対する変更は、Adobe Experience Manager Assets中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## AEM Cloud Services へのリンク {#link-to-your-aem-cloud-services}
 
@@ -37,33 +37,33 @@ Adobe Experience Manager _Assets as a Cloud Service_ は、デジタルアセッ
 
 1. Marketo Engageで、「**管理者** エリアに移動し、左側のナビゲーションツリーで「**Adobe Experience Manager**」を選択します。
 
-   ![&#x200B; 「管理者」セクションで「Adobe Experience Manager」を選択します &#x200B;](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}。
+   ![ 「管理者」セクションで「Adobe Experience Manager」を選択します ](assets/access-the-ai-assistant-content-accelerator-1.png){width="800" zoomable="yes"}。
 
-1. **2&rbrace;Adobe Experience Manager Cloud Services** の横にある「編集 _をクリックします。_
+1. **2}Adobe Experience Manager Cloud Services** の横にある「編集 _をクリックします。_
 
-   ![&#x200B; 「編集」をクリック &#x200B;](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
+   ![ 「編集」をクリック ](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
 
 1. 1 つ以上のリポジトリーを選択します。
 
-   ![&#x200B; リポジトリを選択 &#x200B;](assets/access-the-ai-assistant-content-accelerator-3.png){width="800" zoomable="yes"}
+   ![ リポジトリを選択 ](assets/access-the-ai-assistant-content-accelerator-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
    >* Marketo Engage サブスクリプションと同じ IMS 組織に関連付けられているリポジトリーのみが表示されます。
    >
-   >* Marketo Engageでは、配信層からのリポジトリのみをサポートしています。 オーサー層を使用している場合にコンバージョンするには、[Adobe Experience Manager サポート &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-manager/content/overview/help-resources) にお問い合わせください。
+   >* Marketo Engageでは、配信層からのリポジトリのみをサポートしています。 オーサー層を使用している場合にコンバージョンするには、[Adobe Experience Manager サポート ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources) にお問い合わせください。
 
-1. リポジトリを設定するには、[&#x200B; サービス資格情報証明書 &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) を追加する必要があります。 「**+証明書を追加**」ボタンをクリックします。
+1. リポジトリを設定するには、[ サービス資格情報証明書 ](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials) を追加する必要があります。 「**+証明書を追加**」ボタンをクリックします。
 
-   ![&#x200B; 証明書を追加 &#x200B;](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}
+   ![ 証明書を追加 ](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}
 
 1. 証明書（JSON ファイルのみ）をドラッグ&amp;ドロップするか、コンピューターから選択します。 終了したら「**追加**」をクリックします。
 
-   ![&#x200B; マシン上の証明書を見つける &#x200B;](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
+   ![ マシン上の証明書を見つける ](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
 
 1. 設定済みのリポジトリが、ステータスと有効期限と共に以下に表示されます。 省略記号ボタン （**...**）をクリックして、証明書を表示します。 それ以外の場合は、完了です。
 
-   ![&#x200B; 証明書が追加されました &#x200B;](assets/access-the-ai-assistant-content-accelerator-6.png){width="700" zoomable="yes"}
+   ![ 証明書が追加されました ](assets/access-the-ai-assistant-content-accelerator-6.png){width="700" zoomable="yes"}
 
 これで、そのリポジトリー内の Digital Asset Management ライブラリのすべての画像に、Marketo EngageのメールDesignerからアクセスできるようになりました。
 
@@ -79,35 +79,35 @@ Adobe Experience Manager _Assets as a Cloud Service_ は、デジタルアセッ
 
 * 新しいコンテンツを作成する場合は、ダイアログで `AEM Assets` を **[!UICONTROL Image Source]** 項目として選択します。
 
-![&#x200B; 作成ダイアログで画像のソースとしてAEM Assetsを選択する &#x200B;](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
+![ 作成ダイアログで画像のソースとしてAEM Assetsを選択する ](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
 * 既存のコンテンツリソースを開く場合は、右側の `AEM Assets` 本文 _[!UICONTROL セクションで]_ を選択します。
 
-![&#x200B; プロパティで画像のソースとしてAEM Assetsを選択する &#x200B;](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
+![ プロパティで画像のソースとしてAEM Assetsを選択する ](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
 ### オーサリング用アセットへのアクセス {#access-assets-for-authoring}
 
 >[!IMPORTANT]
 >
->管理者は、アセットにアクセスする必要があるユーザーをAssets コンシューマーユーザー製品プロファイルまたはAssets ユーザー製品プロファイルに追加する必要があります。 [詳細情報](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>管理者は、アセットにアクセスする必要があるユーザーをAssets コンシューマーユーザー製品プロファイルまたはAssets ユーザー製品プロファイルに追加する必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 ビジュアルコンテンツエディターで、左側のサイドバーにある「_Experience Manager アセットセレクター_」アイコンをクリックします。 これにより、ツールパネルが、選択したリポジトリで使用可能なアセットのリストに変更されます。
 
-![Assets セレクターアイコンをクリックして、画像アセットにアクセスする &#x200B;](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"}
+![Assets セレクターアイコンをクリックして、画像アセットにアクセスする ](assets/work-with-experience-manager-assets-3.png){width="700" zoomable="yes"}
 
 複数のAEM リポジトリが接続されている場合は、「**[!UICONTROL 名前を付けて管理]**」ボタンをクリックして、使用するリポジトリを選択します。
 
-![AEM Assets リポジトリを選択して画像アセットにアクセスする &#x200B;](assets/work-with-experience-manager-assets-4.png){width="700" zoomable="yes"}
+![AEM Assets リポジトリを選択して画像アセットにアクセスする ](assets/work-with-experience-manager-assets-4.png){width="700" zoomable="yes"}
 
 目的のリポジトリを選択します。
 
-![AEM Assets リポジトリを選択して画像アセットにアクセスする &#x200B;](assets/work-with-experience-manager-assets-5.png){width="500" zoomable="yes"}
+![AEM Assets リポジトリを選択して画像アセットにアクセスする ](assets/work-with-experience-manager-assets-5.png){width="500" zoomable="yes"}
 
 画像アセットをビジュアルキャンバスに追加するには、複数の方法があります。
 
 * 左側のナビゲーションから画像サムネールをドラッグ&amp;ドロップします。
 
-![AEM Assets リポジトリを選択して画像アセットにアクセスする &#x200B;](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
+![AEM Assets リポジトリを選択して画像アセットにアクセスする ](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
 * キャンバスに画像コンポーネントを追加し、「参照 **[!UICONTROL をクリックして]** Assetsを選択 _[!UICONTROL ダイアログを開き]_ す。
 
@@ -115,7 +115,7 @@ Adobe Experience Manager _Assets as a Cloud Service_ は、デジタルアセッ
 
   必要なアセットを見つけるのに役立つツールが複数あります。
 
-![Assetsを選択ダイアログのツールを使用し、画像アセットを探して選択します &#x200B;](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Assetsを選択ダイアログのツールを使用し、画像アセットを探して選択します ](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * 右上の **[!UICONTROL リポジトリ]** を変更します。
 
@@ -131,4 +131,4 @@ Adobe Experience Manager _Assets as a Cloud Service_ は、デジタルアセッ
 
 * 「検索」フィールドにテキストを入力して、表示される項目をアセット名と一致するようにフィルタリングします。
 
-![&#x200B; フィルターと検索フィールドを使用してアセットを検索します &#x200B;](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
+![ フィルターと検索フィールドを使用してアセットを検索します ](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}

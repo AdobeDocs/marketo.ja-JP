@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950617
-description: メールでの動的コンテンツの使用 - Marketo ドキュメント - 製品ドキュメント
+description: メールで動的コンテンツを使用する方法を説明します。 ルールと属性に基づいて、異なるセグメントに異なるコンテンツを表示します。
 title: メールでの動的コンテンツの使用
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 100%
+source-wordcount: '270'
+ht-degree: 92%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 ## セグメント化を追加 {#add-segmentation}
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 

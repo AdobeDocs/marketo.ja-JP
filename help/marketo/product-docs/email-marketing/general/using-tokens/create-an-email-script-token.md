@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900577
-description: メールスクリプトトークンを作成する — Marketo ドキュメント — 製品ドキュメント
+description: メールスクリプトトークンの作成方法を説明します。 メールに動的な値を出力するカスタムトークンを定義します。
 title: メールスクリプトトークンを作成する
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 100%
+source-wordcount: '227'
+ht-degree: 92%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 上級の開発者は、メールで [Velocity スクリプト](https://velocity.apache.org/engine/1.7/user-guide.html)を使用できます。その方法を説明しましょう。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/ma.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900591
-description: メールプログラムの作成 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでメールプログラムを作成する方法を説明します。 オーディエンス、メール、スケジュールおよび承認を 1 か所で設定します。
 title: メールプログラムの作成
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 100%
+source-wordcount: '140'
+ht-degree: 86%
 
 ---
 

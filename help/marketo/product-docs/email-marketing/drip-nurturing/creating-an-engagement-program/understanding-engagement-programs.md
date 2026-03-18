@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359647
-description: エンゲージメントプログラムについて - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのエンゲージメントプログラム、ストリーム、コンテンツ、キャスト、ケイデンスについて説明します。 ナーチャリングプログラムがコンテンツを体系的に提示する方法を理解する。
 title: エンゲージメントプログラムについて
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 100%
+source-wordcount: '295'
+ht-degree: 93%
 
 ---
 

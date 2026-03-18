@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359559
-description: チャンピオン／挑戦者：送信者アドレス - Marketo ドキュメント - 製品ドキュメント
+description: アドレス指定のテストからチャンピオン/チャレンジャーを実行する方法を説明します。 様々な送信者アドレスをテストし、条件によって推奨結果を宣言します。
 title: チャンピオン／挑戦者：送信者アドレス
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 100%
+source-wordcount: '285'
+ht-degree: 93%
 
 ---
 

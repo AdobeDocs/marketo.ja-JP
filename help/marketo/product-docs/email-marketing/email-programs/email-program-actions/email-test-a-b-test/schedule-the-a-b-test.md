@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359547
-description: A/B テストのスケジュール - Marketo ドキュメント - 製品ドキュメント
+description: メールプログラムの A/B テストをスケジュールする方法を説明します。 送信時間と勝者が宣言されるタイミングを設定します。
 title: A/B テストのスケジュール
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 93%
+source-wordcount: '222'
+ht-degree: 83%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359584
-description: チャンピオン／挑戦者：チャンピオンの発表 — Marketo ドキュメント — 製品ドキュメント
+description: メールテスト用のチャンピオンを宣言する方法を説明します。 勝者バリアントを選択し、残りのオーディエンスに勝者を送信します。
 title: チャンピオン／挑戦者：チャンピオンの発表
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 100%
+source-wordcount: '138'
+ht-degree: 83%
 
 ---
 

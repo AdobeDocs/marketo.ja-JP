@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094576
-description: 永続的な登録解除 - Marketo ドキュメント - 製品ドキュメント
+description: 永続的な購読解除と、マスターのメールステータスが複数のユーザーに伝播する仕組みについて説明します。 Marketoで再購読とユーザーレコードを管理します。
 title: 永続的な登録解除
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 100%
+source-wordcount: '300'
+ht-degree: 93%
 
 ---
 

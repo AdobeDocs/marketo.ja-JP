@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359562
-description: チャンピオン／挑戦者：チャンピオンの条件の定義 — Marketo ドキュメント — 製品ドキュメント
+description: メールテストのチャンピオン条件を定義する方法を説明します。 どのバリアントがチャンピオン/チャレンジャーテストに勝つかを決定するルールを設定します。
 title: チャンピオン／挑戦者：チャンピオンの条件の定義
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 88%
 
 ---
 

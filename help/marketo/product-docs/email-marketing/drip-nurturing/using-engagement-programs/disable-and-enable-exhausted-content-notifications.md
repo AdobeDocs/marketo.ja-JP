@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359877
-description: コンテンツ消費済み通知の無効化と有効化 — Marketo ドキュメント — 製品ドキュメント
+description: 使い果たしたコンテンツ通知を有効または無効にする方法を説明します。 プログラムの「設定」タブと「疲れ果てたコンテンツ通知」設定を使用します。
 title: コンテンツ消費済み通知の無効化と有効化
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 78%
 
 ---
 

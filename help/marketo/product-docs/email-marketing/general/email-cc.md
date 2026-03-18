@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727995
-description: メール CC - Marketo ドキュメント - 製品ドキュメント
+description: Marketoの「CC でメールを送信」オプションについて説明します。 コンプライアンスや表示に必要な場合は、CC 受信者をメールに追加します。
 title: メール CC
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 100%
+source-wordcount: '566'
+ht-degree: 96%
 
 ---
 

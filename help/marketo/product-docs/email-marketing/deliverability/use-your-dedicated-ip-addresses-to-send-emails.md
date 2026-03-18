@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900587
-description: 専用 IP アドレスを使用したメール送信 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでメール送信に専用の IP アドレスを使用する方法を説明します。 配信品質コンサルタントによる IP ウォームアップと DNS 設定に関するコーチングを取得します。
 title: 専用 IP アドレスを使用したメール送信
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 100%
+source-wordcount: '428'
+ht-degree: 94%
 
 ---
 

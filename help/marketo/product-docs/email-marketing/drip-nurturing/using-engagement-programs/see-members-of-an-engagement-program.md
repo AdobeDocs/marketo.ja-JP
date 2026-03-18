@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359861
-description: エンゲージメントプログラムのメンバーの参照 - Marketo ドキュメント - 製品ドキュメント
+description: エンゲージメントプログラムのメンバーを表示する方法を説明します。
 title: エンゲージメントプログラムのメンバーの参照
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 100%
+source-wordcount: '60'
+ht-degree: 85%
 
 ---
 

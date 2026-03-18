@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359600
-description: A/B テストのキャンセル — Marketo ドキュメント — 製品ドキュメント
+description: メールプログラムの A/B テストをキャンセルする方法を説明します。 テストを停止し、残りのオーディエンスの処理方法を選択します。
 title: A/B テストのキャンセル
 exl-id: 7fc79e67-01db-4b6e-818e-fe61e720ad92
 feature: Email Programs, A/B Testing
-source-git-commit: de037f08506f51ecf4a98a0806a8b2a430f6bc81
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 76%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 メールプログラムに [A/B テストを追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)したが不要になったと判断した場合は、簡単に元に戻すことができます。手順は次のとおりです。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/cancel-the-a-b-test-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359494
-description: 「件名ライン」A/B テストを使用する — Marketo ドキュメント — 製品ドキュメント
+description: メールプログラムで件名の A/B テストを実行する方法を説明します。 様々な件名をテストし、パフォーマンスによって勝者を選択します。
 title: 「件名ライン」A/B テストを使用する
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 100%
+source-wordcount: '252'
+ht-degree: 91%
 
 ---
 

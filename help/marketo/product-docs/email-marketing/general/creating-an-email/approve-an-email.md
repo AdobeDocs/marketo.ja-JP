@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147342
-description: メールの承認 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムで使用できるようにメールを承認する方法を説明します。 スケジュールまたは送信する前に、承認ワークフローを完了します。
 title: メールの承認
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 100%
+source-wordcount: '117'
+ht-degree: 82%
 
 ---
 

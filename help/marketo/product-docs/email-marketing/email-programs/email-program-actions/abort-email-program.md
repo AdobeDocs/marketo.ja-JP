@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504840
-description: メールプログラムの中止 - Marketo ドキュメント - 製品ドキュメント
+description: 送信前または送信中にメールプログラムを中止する方法を説明します。 配信を停止し、必要に応じて残りのオーディエンスを処理します。
 title: メールプログラムの中止
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 81%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147358
-description: メールにスニペットを追加する - Marketo ドキュメント - 製品ドキュメント
+description: メールにスニペットを追加する方法を説明します。 再利用可能なコンテンツブロックをスニペットライブラリからメールに挿入します。
 title: メールにスニペットを追加する
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 100%
+source-wordcount: '162'
+ht-degree: 87%
 
 ---
 

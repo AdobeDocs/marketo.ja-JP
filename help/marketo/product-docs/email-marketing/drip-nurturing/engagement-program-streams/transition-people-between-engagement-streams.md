@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359947
-description: エンゲージメントストリーム間でリードを遷移させる — Marketo ドキュメント — 製品ドキュメント
+description: エンゲージメントストリーム間でユーザーを移動するためのトランジションルールを設定する方法について説明します。 取り込むストリームに対してルールを定義します。
 title: エンゲージメントストリーム間でリードを遷移させる
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 100%
+source-wordcount: '250'
+ht-degree: 90%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 エンゲージメントプログラムでは、複数のストリームを使用できます。[ストリームを追加](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)する場合は、ストリーム間でどのようにリードを遷移させるのかを定義することができます。この定義を&#x200B;**遷移ルール**&#x200B;と呼びます。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/ma.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098134
-description: エンゲージメントプログラムストリームへのプログラムの追加 — Marketo ドキュメント — 製品ドキュメント
+description: エンゲージメントストリームにおけるネストされたプログラムと、それらを使用するタイミングについて説明します。 サブグループ、マルチタッチ、追加フローステップ用のプログラムを追加します。
 title: エンゲージメントプログラムストリームへのプログラムの追加
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '461'
-ht-degree: 100%
+source-wordcount: '470'
+ht-degree: 95%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953419
-description: リッチテキストエディターの使用 - Marketo ドキュメント - 製品ドキュメント
+description: メールコンテンツにリッチテキストエディターを使用する方法を説明します。 メールエディターでテキストの書式設定、リンクの追加、コンテンツのスタイル設定を行います。
 title: リッチテキストエディターの使用
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '739'
-ht-degree: 100%
+source-wordcount: '752'
+ht-degree: 97%
 
 ---
 

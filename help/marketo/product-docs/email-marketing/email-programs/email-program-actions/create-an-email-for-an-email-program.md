@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900593
-description: メールプログラム向けメールの作成 - Marketo ドキュメント - 製品ドキュメント
+description: メールプログラムのメールを作成する方法を説明します。 新しいメールアセットを追加し、テンプレートまたは既存のメールを選択します。
 title: メールプログラム向けメールの作成
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 100%
+source-wordcount: '170'
+ht-degree: 87%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359659
-description: ストリームにコンテンツを追加する - Marketo ドキュメント - 製品ドキュメント
+description: エンゲージメントプログラムストリームにメールまたはプログラムを追加する方法を説明します。 ナーチャを構築するには、[ コンテンツを追加 ] ボタンまたはプラス アイコンを使用します。
 title: ストリームにコンテンツを追加する
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 87%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 エンゲージメントプログラムを作成したら、ストリームにコンテンツを追加する必要があります。ストリームにメールまたはプログラムを追加できます。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/add-content-to-a-stream-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359455
-description: メールプログラムのスケジュールを設定する — Marketo ドキュメント — 製品ドキュメント
+description: メールプログラムをスケジュールする方法を説明します。 配信の日時を設定し、オプションで受信者のタイムゾーンを使用します。
 title: メールプログラムのスケジュールを設定する
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 100%
+source-wordcount: '148'
+ht-degree: 86%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 メールプログラムを作成してオーディエンスを定義し、メールを選択したら、プログラムに&#x200B;*いつ*&#x200B;メールを送信するかを伝える必要があります。手順は以下のとおりです。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-1.png)
 

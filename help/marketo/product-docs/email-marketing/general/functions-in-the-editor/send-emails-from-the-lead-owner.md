@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147340
-description: リード所有者からのメール送信 — Marketo ドキュメント — 製品ドキュメント
+description: リード所有者のアドレスからメールを送信する方法を説明します。 「リード所有者から送信」オプションを使用すると、メールに正しい送信者が表示されます。
 title: リード所有者からのメール送信
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 100%
+source-wordcount: '206'
+ht-degree: 88%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795727
-description: 受信者タイムゾーンを使用してスケジュールされたメールプログラムの配信を中止する - Marketo ドキュメント - 製品ドキュメント
+description: 受信者のタイムゾーンでスケジュールされたメールプログラムの配信を中止する方法を説明します。 送信を停止し、残りの受信者を処理します。
 title: 受信者タイムゾーンを使用してスケジュールされたメールプログラムの配信を中止する
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 72%
+source-wordcount: '227'
+ht-degree: 64%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 72%
 
 受信者のタイムゾーンでスケジュールされたメールプログラムは最大 24 時間実行できるので、プログラムの配信を中止すると、その時点以降の後続の送信がキャンセルされます。
 
-1. キャンセルするメールプログラムを選択し、コントロールパネルの **[!UICONTROL 承認]** タイルの下にある [!UICONTROL &#x200B; 配信中止 &#x200B;] をクリックします。
+1. キャンセルするメールプログラムを選択し、コントロールパネルの **[!UICONTROL 承認]** タイルの下にある [!UICONTROL  配信中止 ] をクリックします。
 
    ![](assets/ptz-abortdelivery.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359665
-description: ストリームケイデンスの設定 - Marketo ドキュメント - 製品ドキュメント
+description: エンゲージメントプログラムのストリームケイデンスを設定する方法を説明します。 毎週または毎月のキャストをスケジュールし、オプションで受信者のタイムゾーンを使用します。
 title: ストリームケイデンスの設定
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 100%
+source-wordcount: '393'
+ht-degree: 94%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147352
-description: サンプルメールの送信 - Marketo ドキュメント - 製品ドキュメント
+description: ローンチ前にコンテンツをテストするためのサンプルメールの送信方法を説明します。 メールエディターを使用して、自分自身または他のユーザーにテストコピーを送信します。
 title: サンプルメールの送信
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 100%
+source-wordcount: '337'
+ht-degree: 92%
 
 ---
 

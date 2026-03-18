@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359467
-description: メールの効果レポート — Marketo ドキュメント — 製品ドキュメント
+description: メールパフォーマンスレポートを作成および使用する方法について説明します。 開封数、クリック数、バウンス数およびその他のメール指標を追跡します。
 title: メールパフォーマンスレポート
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 100%
+source-wordcount: '513'
+ht-degree: 96%
 
 ---
 
