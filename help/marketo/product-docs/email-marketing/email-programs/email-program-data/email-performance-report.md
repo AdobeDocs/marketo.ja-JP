@@ -15,7 +15,7 @@ ht-degree: 96%
 
 配信、開封、クリックなどの統計を使用したメールの効果を確認するには、メールの効果レポートを作成します。
 
-1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL メール効果]**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
+1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL メール効果]**&#x200B;[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 1. [レポート時間枠を変更](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**[!UICONTROL レポート]**」タブをクリックします。
 1. レポートが表示されました。次に、レポートを表示して、メールの効果を確認します。
 

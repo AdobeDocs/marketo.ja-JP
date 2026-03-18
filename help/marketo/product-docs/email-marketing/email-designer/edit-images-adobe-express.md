@@ -38,11 +38,11 @@ Adobe Express Editor にアクセスする方法は 2 つあります。
 
 1. Marketo Engageで、**[!UICONTROL Design Studio]** に移動して、「**[!UICONTROL 画像とファイル]**」を選択します。
 
-   ![Design Studio の左側のナビゲーションで画像とファイルを選択する ](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
+   ![Design Studio の左側のナビゲーションで画像とファイルを選択する &#x200B;](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
 1. 編集する画像を選択します。
 
-   ![ 画像の名前のクリック ](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
+   ![&#x200B; 画像の名前のクリック &#x200B;](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -52,7 +52,7 @@ Adobe Express Editor にアクセスする方法は 2 つあります。
 
 1. 画像の _詳細_ タブで、**[!UICONTROL Adobe Expressで編集]** をクリックします。
 
-   ![ 「Adobe Expressで編集」ボタンをクリック ](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
+   ![&#x200B; 「Adobe Expressで編集」ボタンをクリック &#x200B;](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -62,7 +62,7 @@ Adobe Express Editor にアクセスする方法は 2 つあります。
 
 1. Marketo Engageで、**[!UICONTROL Design Studio]** に移動して、「**[!UICONTROL 画像とファイル]**」を選択します。
 
-   ![Design Studio の左側のナビゲーションで画像とファイルを選択する ](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
+   ![Design Studio の左側のナビゲーションで画像とファイルを選択する &#x200B;](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -72,7 +72,7 @@ Adobe Express Editor にアクセスする方法は 2 つあります。
 
 1. 編集する画像の横にあるチェックボックスをオンにします。 **[!UICONTROL 画像とファイルのアクション]** ドロップダウンで、**[!UICONTROL Adobe Expressで編集]** を選択します。
 
-   ![ 画像名の横にあるチェックボックスをオンにし、「画像とファイルのアクション」ドロップダウンを使用する ](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
+   ![&#x200B; 画像名の横にあるチェックボックスをオンにし、「画像とファイルのアクション」ドロップダウンを使用する &#x200B;](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -84,11 +84,11 @@ Adobe Express Editor にアクセスする方法は 2 つあります。
 
 ### Enterprise ライセンスを持つユーザー {#users-with-an-enterprise-license}
 
-Adobe Expressの Enterprise ライセンスをお持ちの場合は、Express Editor 全体にアクセスできます。 カラー、明るさ、シャープネス、コントラスト、サイズなどの画像設定を調整できます。 AI マジックオプションを使用すると、背景の削除、オブジェクトの挿入と削除、画像の一部の消去を行うことができます。 各設定については、[Adobe Express ユーザーガイド ](https://helpx.adobe.com/jp/express/user-guide.html){target="_blank"} を参照してください。
+Adobe Expressの Enterprise ライセンスをお持ちの場合は、Express Editor 全体にアクセスできます。 カラー、明るさ、シャープネス、コントラスト、サイズなどの画像設定を調整できます。 AI マジックオプションを使用すると、背景の削除、オブジェクトの挿入と削除、画像の一部の消去を行うことができます。 各設定については、[Adobe Express ユーザーガイド &#x200B;](https://helpx.adobe.com/jp/express/user-guide.html){target="_blank"} を参照してください。
 
 >[!IMPORTANT]
 >
->すべてのAdobe Express編集機能にアクセスするには、購入したライセンスがMarketo Engage サブスクリプションと同じ IMS 組織に属している必要があります。 また、個々のユーザーは、Adobe Expressでライセンスを持っている必要があります。 [ ライセンスがない ](#users-without-an-enterprise-license) ユーザーは、Adobe Expressのクイックアクションにのみアクセスできます。
+>すべてのAdobe Express編集機能にアクセスするには、購入したライセンスがMarketo Engage サブスクリプションと同じ IMS 組織に属している必要があります。 また、個々のユーザーは、Adobe Expressでライセンスを持っている必要があります。 [&#x200B; ライセンスがない &#x200B;](#users-without-an-enterprise-license) ユーザーは、Adobe Expressのクイックアクションにのみアクセスできます。
 
 ### Enterprise ライセンスを持たないユーザー {#users-without-an-enterprise-license}
 
@@ -101,7 +101,7 @@ Enterprise ライセンスを持たないユーザーでも、いくつかのク
 
 機能には、画像ページの左側からアクセスできます。
 
-![Adobe Express編集オプションを示す画像ページ ](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
+![Adobe Express編集オプションを示す画像ページ &#x200B;](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### 画像のサイズ変更 {#resize-image}
 
@@ -109,7 +109,7 @@ Enterprise ライセンスを持たないユーザーでも、いくつかのク
 
 1. 必要な変更を加え、完了したら「**適用**」をクリックします。
 
-![ 使用可能なすべてのオプションを表示して画像ウィンドウのサイズを変更 ](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![&#x200B; 使用可能なすべてのオプションを表示して画像ウィンドウのサイズを変更 &#x200B;](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
@@ -137,7 +137,7 @@ Enterprise ライセンスを持たないユーザーでも、いくつかのク
 
 1. Adobe Expressが背景なしで画像を表示します。 必要に応じて、「**適用**」をクリックします。
 
-![ 背景を取り除いた犬だけの画像 ](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![&#x200B; 背景を取り除いた犬だけの画像 &#x200B;](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -149,7 +149,7 @@ Enterprise ライセンスを持たないユーザーでも、いくつかのク
 
 1. 画像の隅をドラッグして、目的の切り抜きを作成します。
 
-![ 写真の隅をドラッグして画像を切り抜く ](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![&#x200B; 写真の隅をドラッグして画像を切り抜く &#x200B;](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
 1. 終了したら「**[!UICONTROL 適用]**」をクリックします。
 
@@ -159,7 +159,7 @@ PNG ファイルをJPEG ファイルに、またはJPEG ファイルを PNG フ�
 
 1. 「**[!UICONTROL PNG/JPEGに変換]**」をクリックします。
 
-![PNG/JPEGに変換ウィンドウ ](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![PNG/JPEGに変換ウィンドウ &#x200B;](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. 「**[!UICONTROL 適用]**」をクリックします。
 
@@ -167,6 +167,6 @@ PNG ファイルをJPEG ファイルに、またはJPEG ファイルを PNG フ�
 
 すべての編集が完了したら、「**保存** をクリックして作業内容を保存します。
 
-![ 保存ボタン ](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
+![&#x200B; 保存ボタン &#x200B;](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 編集された画像は、元の画像と同じフォルダーに保存されます。

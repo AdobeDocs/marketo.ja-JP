@@ -23,7 +23,7 @@ Marketo Engageの [Litmus](https://www.litmus.com/email-testing) アカウント
 
 ## Litmus Enterprise ユーザー {#litmus-enterprise}
 
-次の手順は、[Litmus エンタープライズプラン ](https://www.litmus.com/pricing/enterprise){target="_blank"} を使用するユーザー向けです。
+次の手順は、[Litmus エンタープライズプラン &#x200B;](https://www.litmus.com/pricing/enterprise){target="_blank"} を使用するユーザー向けです。
 
 1. _メールコンテンツを編集_ 画面で、「**コンテンツをシミュレート**」ボタンをクリックします。
 
@@ -55,7 +55,7 @@ Marketo Engageの [Litmus](https://www.litmus.com/email-testing) アカウント
 
    >[!NOTE]
    >
-   >[ デフォルトのメールクライアントリストをカスタマイズ ](https://help.litmus.com/article/227-change-your-default-email-clients-list) する方法を説明します。
+   >[&#x200B; デフォルトのメールクライアントリストをカスタマイズ &#x200B;](https://help.litmus.com/article/227-change-your-default-email-clients-list) する方法を説明します。
 
 1. テストが完了したら、左上の後矢印をクリックして _コンテンツをシミュレート_ 画面に戻ります。
 
@@ -67,7 +67,7 @@ Marketo Engageの [Litmus](https://www.litmus.com/email-testing) アカウント
 
 ## Litmus コアユーザー {#litmus-core}
 
-次の手順は、[Litmus コアプラン ](https://www.litmus.com/pricing/){target="_blank"} を使用するユーザー向けです。
+次の手順は、[Litmus コアプラン &#x200B;](https://www.litmus.com/pricing/){target="_blank"} を使用するユーザー向けです。
 
 1. Litmus アカウントで、「テスト **」画面の「** テストアドレスをコピー _」ボタンをクリックして、テストメールアドレスを取得します。_
 
