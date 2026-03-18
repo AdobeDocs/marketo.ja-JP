@@ -1,12 +1,12 @@
 ---
-description: トラッキングするメールの送信 - Marketo ドキュメント - 製品ドキュメント
+description: ビュー数、クリック数、返信数を確認できるように、トラッキング対象の販売 E メールを送信する方法について説明します。 配信チャネルを使用し、コマンドセンターからトラッキングします。
 title: トラッキングするメールの送信
 hide: true
 hidefromtoc: true
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 100%
+source-wordcount: '215'
+ht-degree: 88%
 
 ---
 

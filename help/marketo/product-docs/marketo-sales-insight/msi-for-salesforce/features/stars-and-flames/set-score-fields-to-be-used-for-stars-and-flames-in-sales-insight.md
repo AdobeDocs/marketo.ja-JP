@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360301
-description: Sales Insight で星と炎に使用するスコアフィールドの設定 - Marketo ドキュメント - 製品ドキュメント
-title: Sales Insight で星と炎に使用するスコアフィールドの設定
+description: Sales Insightで星と炎のスコアフィールドを設定する方法を説明します。 Marketo スコアフィールドをSalesforceの MSI 表示にマッピングします。
+title: セールスインサイトで星と炎に使用するスコアフィールドの設定
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 100%
+source-wordcount: '168'
+ht-degree: 86%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 >* **[!UICONTROL 炎]**：炎は緊急度を表し、リードのスコアが最近どの程度変化したかを示します。
 >
 
-1. 「**[!UICONTROL 管理者]**」で、「**[!UICONTROL Sales Insight]**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」で、「**[!UICONTROL セールスインサイト]**」をクリックします。
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 

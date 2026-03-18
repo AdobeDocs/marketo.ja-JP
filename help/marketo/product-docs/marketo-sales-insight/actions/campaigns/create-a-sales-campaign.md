@@ -1,12 +1,12 @@
 ---
-description: セールスキャンペーンの作成 - Marketo ドキュメント - 製品ドキュメント
+description: メール、電話、InMail、カスタムタスクの手順を含むセールスキャンペーンの作成方法を説明します。 アウトリーチを整理、スケール、測定します。
 title: セールスキャンペーンの作成
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 100%
+source-wordcount: '328'
+ht-degree: 93%
 
 ---
 

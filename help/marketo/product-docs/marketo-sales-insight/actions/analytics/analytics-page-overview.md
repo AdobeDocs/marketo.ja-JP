@@ -1,12 +1,12 @@
 ---
-description: 分析ページの概要 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insightのアクションに関する「Analytics」タブとメールエンゲージメントデータについて説明します。 「自分」、「チーム」および「コンテンツ」タブで個人およびチームの統計を表示します。
 title: 分析ページの概要
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '384'
-ht-degree: 100%
+source-wordcount: '402'
+ht-degree: 93%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 
 ## 「[!UICONTROL 自分]」タブ {#me-tab}
 
-「[自分](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}」タブは、メール、テンプレート、リンクのエンゲージメントを確認するのに最適です。Sales Insight Actions の管理者は、チーム上の任意のユーザでフィルタリングして統計を確認できます。
+「[自分](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}」タブは、メール、テンプレート、リンクのエンゲージメントを確認するのに最適です。セールスインサイトアクションの管理者は、チーム上の任意のユーザでフィルタリングして統計を確認できます。
 
 ## 「[!UICONTROL チーム]」タブ {#team-tab}
 

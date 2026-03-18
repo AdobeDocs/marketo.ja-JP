@@ -1,20 +1,20 @@
 ---
-description: 返信ログ - Marketo ドキュメント — 製品ドキュメント
+description: 見込み客からの返信がSalesforceに記録されるように、返信ログについて説明します。 API ログがオンで、返信トラッキングが使用可能な場合は、ログ返信を有効にします。
 title: 返信ログ
 hide: true
 hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 100%
+source-wordcount: '267'
+ht-degree: 91%
 
 ---
 
 # 返信ログ {#reply-logging}
 
-Sales Insight Actions は、見込み客の [!DNL Salesforce] への返信を自動的に記録する機能を備えています。これを行うための構造は、メール返信トラッキングに基づいています。見込み客の返信を追跡できる場合は、その返信を [!DNL Salesforce] に記録できます。
+セールスインサイトアクションは、見込み客の [!DNL Salesforce] への返信を自動的に記録する機能を備えています。これを行うための構造は、メール返信トラッキングに基づいています。見込み客の返信を追跡できる場合は、その返信を [!DNL Salesforce] に記録できます。
 
 ## 要件 {#requirements}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949285
-description: リードから着信したメールを Marketo でログに記録する - Marketo ドキュメント - 製品ドキュメント
+description: Marketoでリードからインバウンドメールを記録する方法を説明します。 適切なリードレコードに対する返信とインバウンドメールをキャプチャして関連付けます。
 title: リードから着信したメールを Marketo でログに記録する
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 100%
+source-wordcount: '148'
+ht-degree: 85%
 
 ---
 

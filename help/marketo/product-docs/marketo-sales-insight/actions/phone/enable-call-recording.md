@@ -1,12 +1,12 @@
 ---
-description: 通話記録の有効化 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insightのアクションで通話の録画を有効にする方法を説明します。 録画を有効にし、必要に応じて双方関係者の同意を得ます。
 title: 通話記録の有効化
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '112'
+ht-degree: 82%
 
 ---
 

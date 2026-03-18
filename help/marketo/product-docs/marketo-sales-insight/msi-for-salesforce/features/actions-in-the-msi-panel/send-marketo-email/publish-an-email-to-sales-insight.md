@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949718
-description: Sales Insight への電子メールの公開 - Marketo ドキュメント - 製品ドキュメント
-title: Sales Insight への電子メールの公開
+description: Marketoから Sales Insightにメールを公開する方法を説明します。 MSI パネルで、Marketo メールテンプレートを営業ユーザーが使用できるようにします。
+title: セールスインサイトへのメールの公開
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 100%
+source-wordcount: '213'
+ht-degree: 88%
 
 ---
 

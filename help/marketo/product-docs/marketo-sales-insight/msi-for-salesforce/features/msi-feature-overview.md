@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356893
-description: MSI 機能の概要 - Marketo ドキュメント - 製品ドキュメント
+description: SalesforceのMarketo営業Insight機能について説明します。 パネルにリードスコアリング、アクティビティ、メールおよびキャンペーンアクションを表示します。
 title: MSI 機能の概要
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '931'
-ht-degree: 100%
+source-wordcount: '943'
+ht-degree: 97%
 
 ---
 
@@ -145,12 +145,12 @@ Visualforce ページ：
 * [!DNL Best Bets]
 
    * ビューを作成および編集する機能が含まれます。Marketo 設定ページの「デフォルトで非表示」オプションの設定に応じて、最優先を非表示にする機能
-   * 列 - 名前、アカウント、注目のアクション、ステータスヘッダー、アクション（星と炎）、非表示
+   * 列 - 名前、アカウント、注目のアクション、ステータスヘッダー、エンゲージメント（星と炎）、非表示
 
 * マイウォッチリスト
 
    * ビューの作成と編集が可能
-   * 列 - 名前、アカウント、注目のアクション、ステータスヘッダー、アクション（星と炎）、削除
+   * 列 - 名前、アカウント、注目のアクション、ステータスヘッダー、エンゲージメント（星と炎）、削除
 
 * Web アクティビティ
 

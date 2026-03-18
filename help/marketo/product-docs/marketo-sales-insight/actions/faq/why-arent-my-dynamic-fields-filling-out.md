@@ -1,12 +1,12 @@
 ---
-description: 動的フィールドに入力されないのはなぜですか？- Marketo ドキュメント - 製品ドキュメント
+description: 動的フィールドがテンプレートに入力されない場合のトラブルシューティング。 結合フィールドについては、Salesforce接続とフィールドマッピングを確認します。
 title: 動的フィールドに入力されないのはなぜですか？
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 95%
+source-wordcount: '301'
+ht-degree: 90%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 95%
 
 ## 確認内容 {#what-to-check}
 
-Sales Insight Actions には、基本、カスタム、Salesforce の 3 つのタイプの動的フィールドがあります。基本とカスタムの両方が [web アプリケーション](https://toutapp.com/login){target="_blank"}から取り込む情報を探します。Web アプリケーションに情報が存在しない場合、フィールドは空白になります。Salesforce フィールドは、[Salesforce.com](https://salesforce.com){target="_blank"} から情報を取り込みます。
+セールスインサイトアクションには、基本、カスタム、Salesforce の 3 つのタイプの動的フィールドがあります。基本とカスタムの両方が [web アプリケーション](https://toutapp.com/login){target="_blank"}から取り込む情報を探します。Web アプリケーションに情報が存在しない場合、フィールドは空白になります。Salesforce フィールドは、[Salesforce.com](https://salesforce.com){target="_blank"} から情報を取り込みます。
 
 **[!DNL Salesforce] フィールドのトラブルシューティング**
 

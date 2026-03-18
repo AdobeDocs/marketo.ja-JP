@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571737
-description: Marketo セールスインサイトの Microsoft Dynamics 2013 へのインストールと設定 - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft Dynamics 2013 でMarketo Sales Insightをインストールして設定する方法を説明します。 ソリューションを追加し、Marketoに接続します。
 title: Marketo セールスインサイトの Microsoft Dynamics 2013 へのインストールと設定
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 100%
+source-wordcount: '407'
+ht-degree: 95%
 
 ---
 
@@ -73,7 +73,7 @@ ht-degree: 100%
 
    ![](assets/image2014-12-12-9-3a6-3a40.png)
 
-## Marketo と Sales Insight の接続 {#connect-marketo-and-sales-insight}
+## Marketo とセールスインサイトの接続 {#connect-marketo-and-sales-insight}
 
 Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連付けましょう。
 
@@ -85,7 +85,7 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. **[!UICONTROL Sales Insight]** セクションで、「**[!UICONTROL API 設定を編集]**」をクリックします。
+1. **[!UICONTROL セールスインサイト]**&#x200B;セクションで、「**[!UICONTROL API 設定を編集]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
@@ -99,7 +99,7 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
 
    >[!NOTE]
    >
-   >Sales Insight を機能させるには、_リードと連絡先の両方_&#x200B;で、次のフィールドを Marketo と同期する必要があります。
+   >セールスインサイトを機能させるには、_リードと連絡先の両方_&#x200B;で、次のフィールドを Marketo と同期する必要があります。
    >
    >* 優先度
    >* 緊急度
@@ -135,7 +135,7 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
 
    ![](assets/image2014-12-12-9-3a8-3a42.png)
 
-1. Sales Insight へのアクセス権を付与するユーザーを選択し、「**[!UICONTROL 役割の管理]**」をクリックします。
+1. セールスインサイトへのアクセス権を付与するユーザを選択し、「**[!UICONTROL 役割の管理]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a9-3a13.png)
 

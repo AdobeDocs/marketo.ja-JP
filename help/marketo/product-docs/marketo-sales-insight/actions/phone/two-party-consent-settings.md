@@ -1,12 +1,12 @@
 ---
-description: 二者間による同意の設定 - Marketo ドキュメント - 製品ドキュメント
+description: 通話の録画に関する 2 パーティの同意設定を指定する方法を説明します。 国および地域の記録法に準拠します。
 title: 二者間による同意の設定
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 100%
+source-wordcount: '162'
+ht-degree: 89%
 
 ---
 

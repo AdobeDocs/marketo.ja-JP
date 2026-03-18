@@ -1,11 +1,11 @@
 ---
-description: セールスアクティビティの Salesforce への同期 - Marketo ドキュメント - 製品ドキュメント
+description: API または BCC を使用してセールスアクティビティをSalesforceに同期する方法を説明します。 メールと通話のログを設定します。
 title: セールスアクティビティの Salesforce への同期
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '761'
-ht-degree: 100%
+source-wordcount: '769'
+ht-degree: 97%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->Salesforce と Sales Insight Actions を接続する必要があります。
+>Salesforce とセールスインサイトアクションを接続する必要があります。
 
-1. Sales Insight Actions で、歯車アイコンをクリックし、「**設定**」を選択します。
+1. セールスインサイトアクションで、歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/sync-sales-activities-to-salesforce-1.png)
 
@@ -47,7 +47,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->Salesforce と Sales Insight Actions を接続する必要があります。
+>Salesforce とセールスインサイトアクションを接続する必要があります。
 
 **メール（BCC）を使用して Salesforce にメールを記録するには**
 
@@ -93,9 +93,9 @@ ht-degree: 100%
 1. 「アクティブ」の横のボックスをオンにします。
 1. 「**保存**」をクリックします。
 
-## Sales Insight Actions タスク／リマインダーを同期 {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
+## セールスインサイトアクションタスク／リマインダーを同期 {#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks}
 
-1. Sales Insight Actions で、歯車アイコンをクリックし、「**設定**」を選択します。
+1. セールスインサイトアクションで、歯車アイコンをクリックし、「**設定**」を選択します。
 
    ![](assets/sync-sales-activities-to-salesforce-10.png)
 
@@ -115,20 +115,20 @@ ht-degree: 100%
 
    ![](assets/sync-sales-activities-to-salesforce-14.png)
 
-## Sales Insight Actions タスクと Salesforce の初回同期 {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
+## セールスインサイトアクションタスクと Salesforce の初回同期 {#syncing-sales-insight-ations-tasks-with-salesforce-for-the-first-time}
 
-Sales Insight Actions と Salesforce のタスク間の同期を初めて有効にすると、Salesforce のタスクがインポートされます。Sales Insight Actions の現在のタスクは Salesforce にプッシュされません。Sales Insight Actions から Salesforce に同期されるタスクは、Sales Insight Actions を SFDC と同期した後に作成されるタスクのみです。
+セールスインサイトアクションと Salesforce のタスク間の同期を初めて有効にすると、Salesforce のタスクがインポートされます。セールスインサイトアクションの現在のタスクは Salesforce にプッシュされません。セールスインサイトアクションから Salesforce に同期されるタスクは、セールスインサイトアクションを SFDC と同期した後に作成されるタスクのみです。
 
-Sales Insight Actions と SFDC のタスクを同期すると、以下の処理が行われます。
+セールスインサイトアクションと SFDC のタスクを同期すると、次の処理が行われます。
 
 * タスクの同期で「保存」をクリックすると、タスクの同期が開始されます。最初は時間がかかります。
 
-* 過去 24 時間にアップデートまたは作成されたリマインダーは、SFDC から Sales Insight Actions に取り込まれます。同期は期限に基づいており、これらのタスクはすべてバックエンドで同期されますが、コマンドセンターでは、今日と明日のタスクのみが表示されます。
+* 過去 24 時間にアップデートまたは作成されたリマインダーは、SFDC からセールスインサイトアクションに取り込まれます。同期は期限に基づいており、これらのタスクはすべてバックエンドで同期されますが、コマンドセンターでは、今日と明日のタスクのみが表示されます。
 
 * 同期が以前にオンになっていて、SFDC 内のタスクを削除した場合、過去 15 日間に削除されたすべてのタスクがコマンドセンターから削除されます。
 
-* 同期が有効になっている限り、Sales Insight Actions と SFDC の間でタスクが常に同期されます。
+* 同期が有効になっている限り、セールスインサイトアクションと SFDC の間でタスクが常に同期されます。
 
-* 初回同期の後、Sales Insight Actions で作成、編集、完了または削除したタスクは、Salesforce のタスクリストに同期されます。また、Salesforce でタスクが作成、編集、完了、削除されると、Sales Insight Actions のタスクリストがアップデートされます。
+* 初回同期の後、セールスインサイトアクションで作成、編集、完了または削除したタスクは、Salesforce のタスクリストに同期されます。また、Salesforce でタスクが作成、編集、完了、削除されると、セールスインサイトアクションのタスクリストがアップデートされます。
 
 * この同期を有効にするには、web アプリケーションの設定ページで同期ボックスをオンにします。

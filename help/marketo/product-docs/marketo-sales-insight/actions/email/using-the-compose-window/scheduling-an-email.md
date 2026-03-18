@@ -1,10 +1,10 @@
 ---
-description: メールのスケジュール設定 - Marketo ドキュメント - 製品ドキュメント
+description: 後で配信するために営業メールをスケジュールする方法を説明します。 Sales Insightのアクションまたはインボックスで作成する日時を設定します。
 title: メールのスケジュール設定
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '147'
+ht-degree: 84%
 
 ---
 

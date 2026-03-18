@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11375827
-description: Marketo を Dynamics と同期するための必須フィールド - Marketo ドキュメント - 製品ドキュメント
+description: Marketoと Dynamics を同期するための必須フィールドについて説明します。 MSI が正しく機能するように、適切なフィールドがマッピングされていることを確認します。
 title: Marketo と Dynamics を同期するための必須フィールド
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 100%
+source-wordcount: '181'
+ht-degree: 88%
 
 ---
 

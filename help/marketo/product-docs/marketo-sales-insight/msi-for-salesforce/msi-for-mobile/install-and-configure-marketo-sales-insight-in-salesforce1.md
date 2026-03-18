@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511512
-description: Salesforce1 での Marketo セールスインサイトのインストールおよび設定 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforce Mobile （Salesforce1）にMarketo Sales Insightをインストールして設定する方法を説明します。 モバイルデバイスで MSI を使用します。
 title: Salesforce1 での Marketo セールスインサイトのインストールおよび設定
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 100%
+source-wordcount: '352'
+ht-degree: 94%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: 配信停止の概要 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insightのアクションでの購読解除の処理について説明します。 購読解除の仕組みと、MarketoやSalesforceとの同期について説明します。
 title: 配信停止の概要
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 100%
+source-wordcount: '354'
+ht-degree: 94%
 
 ---
 

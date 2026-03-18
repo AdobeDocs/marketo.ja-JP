@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762244
-description: リード／連絡先レコードの星と炎の設定 - Marketo ドキュメント - 製品ドキュメント
+description: Dynamics でリードおよび連絡先レコードの星と炎を設定する方法を説明します。 CRM でのリードスコアと緊急度を表示します。
 title: リード／連絡先レコードの星と炎の設定
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 100%
+source-wordcount: '192'
+ht-degree: 88%
 
 ---
 

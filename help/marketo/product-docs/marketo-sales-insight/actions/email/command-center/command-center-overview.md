@@ -1,12 +1,12 @@
 ---
-description: コマンドセンターの概要 - Marketo ドキュメント - 製品ドキュメント
+description: 販売メールとタスクを管理するためのコマンドセンターについて説明します。 Sales Insightのアクションで、送信済み電子メールを表示し、タスクを割り当て、クイックアクションを使用します。
 title: コマンドセンターの概要
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 100%
+source-wordcount: '515'
+ht-degree: 95%
 
 ---
 

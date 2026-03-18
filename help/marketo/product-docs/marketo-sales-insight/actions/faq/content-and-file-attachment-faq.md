@@ -1,12 +1,12 @@
 ---
-description: コンテンツと添付ファイルに関する FAQ - Marketo ドキュメント - 製品ドキュメント
+description: 販売メールのコンテンツと添付ファイルに関するよくある質問への回答を示します。 サイズ制限、トラッキングおよびベストプラクティスについて説明します。
 title: コンテンツと添付ファイルに関する FAQ
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 100%
+source-wordcount: '273'
+ht-degree: 92%
 
 ---
 

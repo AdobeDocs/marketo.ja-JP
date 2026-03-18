@@ -1,18 +1,18 @@
 ---
-description: 動的チャットの統合 - Marketo ドキュメント - 製品ドキュメント
+description: Dynamic ChatとMarketo Sales Insightの統合について説明します。 Salesforceの MSI パネルでチャットアクティビティとエンゲージメントを参照してください。
 title: 動的チャットの統合
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 100%
+source-wordcount: '404'
+ht-degree: 95%
 
 ---
 
 # 動的チャットの統合 {#dynamic-chat-integration}
 
-Sales Insight と動的チャットの統合について詳しく説明します。
+セールスインサイトと Dynamic Chat の統合について詳しく説明します。
 
 >[!PREREQUISITES]
 >

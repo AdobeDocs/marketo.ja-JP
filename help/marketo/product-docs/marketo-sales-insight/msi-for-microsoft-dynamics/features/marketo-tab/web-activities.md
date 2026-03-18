@@ -1,12 +1,12 @@
 ---
-description: Web アクティビティ - Marketo ドキュメント - 製品ドキュメント
+description: Dynamics の「Marketo」タブでの web アクティビティについて説明します。 リードおよび連絡先については、web 訪問とエンゲージメントデータを参照してください。
 title: Web アクティビティ
 exl-id: dca3f5ca-72b4-4c9c-a0fc-d9dee37c8ad6
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 100%
+source-wordcount: '89'
+ht-degree: 77%
 
 ---
 

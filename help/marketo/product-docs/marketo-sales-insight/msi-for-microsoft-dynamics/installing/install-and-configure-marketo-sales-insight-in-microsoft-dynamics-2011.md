@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571735
-description: Marketo セールスインサイトの Microsoft Dynamics 2011 へのインストールと設定 - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft Dynamics 2011 でMarketo Sales Insightをインストールして設定する方法を説明します。 ソリューションを追加し、セットアップを完了します。
 title: Marketo セールスインサイトの Microsoft Dynamics 2011 へのインストールと設定
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 100%
+source-wordcount: '376'
+ht-degree: 94%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 100%
 
    ![](assets/image2015-5-4-11-3a8-3a27.png)
 
-## Marketo と Sales Insight の接続  {#connect-marketo-and-sales-insight}
+## Marketo とセールスインサイトの接続  {#connect-marketo-and-sales-insight}
 
 >[!NOTE]
 >
@@ -77,7 +77,7 @@ ht-degree: 100%
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. **[!UICONTROL Sales Insight]** セクションで、「**[!UICONTROL API 設定を編集]**」をクリックします。
+1. **[!UICONTROL セールスインサイト]**&#x200B;セクションで、「**[!UICONTROL API 設定を編集]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
@@ -91,7 +91,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >Sales Insight を機能させるには、_リードと連絡先の両方_&#x200B;で、次のフィールドを Marketo と同期する必要があります。
+   >セールスインサイトを機能させるには、_リードと連絡先の両方_&#x200B;で、次のフィールドを Marketo と同期する必要があります。
    >
    >* 優先度
    >* 緊急度
@@ -143,7 +143,7 @@ ht-degree: 100%
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
-   これで完了です。これで、アクセス権を持つユーザーすべてが、リード／取引先責任者の詳細ビューで Sales Insight のセクションを閲覧できるようになりました。
+   これで完了です。これで、アクセス権を持つユーザすべてが、リード／取引先責任者の詳細ビューでセールスインサイトのセクションを閲覧できるようになりました。
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
 

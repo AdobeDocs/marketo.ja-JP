@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37357050
-description: MSI パッケージのアップグレード - Marketo ドキュメント - 製品ドキュメント
+description: SalesforceでMarketo Sales Insight パッケージをアップグレードする方法について説明します。 最新バージョンを取得し、アップグレードを適用します。
 title: MSI パッケージのアップグレード
 exl-id: 45004990-8452-4824-a9b2-89cd8302fe43
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 100%
+source-wordcount: '271'
+ht-degree: 92%
 
 ---
 
@@ -19,13 +19,13 @@ ht-degree: 100%
 
 1. [appexchange のこのページ](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO){target="_blank"}に移動します。
 
-1. 手順 1 のページの右上隅にある [!DNL Salesforce] インスタンス（Marketo インスタンスに接続されているものは、サンドボックスまたは実稼動）にログインします。[!DNL Salesforce] で管理パッケージをインストール／アップグレードするには、管理者権限が必要です。
+1. 手順 1 のページの右上隅にある [!DNL Salesforce] インスタンス（Marketo インスタンスに接続されているものは、サンドボックスまたは本番稼働）にログインします。[!DNL Salesforce] で管理パッケージをインストール／アップグレードするには、管理者権限が必要です。
 
 1. 「**すぐに入手**」ボタンをクリックします。インストール先を選択するよう求められます。以前のバージョンの MSI が既に存在するので、アップグレードするオプションが与えられます。手順 1 でログインしたアカウントに基づいて、オプションを選択します。
 
    >[!TIP]
    >
-   >実稼動インスタンスをアップグレードする前に、サンドボックスインスタンスでこれをテストすることをお勧めします。
+   >本番稼働インスタンスをアップグレードする前に、サンドボックスインスタンスでこれをテストすることをお勧めします。
 
 1. 「管理者専用にインストール」（および後で特定のプロファイルに MSI アクセスを提供）、「すべてのユーザ用にインストール」、「特定のプロファイル用にインストール」のいずれかを選択してパッケージをアップグレードできます。この例では、「管理者専用」を選択しています。選択が完了したら、「**アップグレード**」をクリックします。
 

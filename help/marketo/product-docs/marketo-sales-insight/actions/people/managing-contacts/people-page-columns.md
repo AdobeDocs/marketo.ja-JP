@@ -1,14 +1,14 @@
 ---
-description: 人物ページの列 - Marketo ドキュメント - 製品ドキュメント
+description: 人物ページ列とビューをカスタマイズする方法について説明します。 必要な連絡先データを表示するには、列を表示または非表示にします。
 title: 人物ページの列
 hide: true
 hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 100%
+source-wordcount: '310'
+ht-degree: 92%
 
 ---
 

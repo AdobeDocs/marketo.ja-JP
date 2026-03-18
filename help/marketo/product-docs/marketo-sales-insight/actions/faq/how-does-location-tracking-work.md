@@ -1,12 +1,12 @@
 ---
-description: 位置トラッキングの仕組み - Marketo ドキュメント - 製品ドキュメント
+description: 販売 E メールに対する場所トラッキングの仕組みを理解します。 収集する場所データとその使用方法について説明します。
 title: 位置トラッキングの仕組み
 exl-id: b4e0d121-0f3f-4477-b05a-466c8d2ac467
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 84%
 
 ---
 

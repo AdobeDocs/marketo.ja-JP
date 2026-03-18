@@ -1,12 +1,12 @@
 ---
-description: Sales Insight へのアクセスをプロファイルに追加 - Marketo ドキュメント - 製品ドキュメント
-title: Sales Insight へのアクセスをプロファイルに追加
+description: Salesforce プロファイルに Sales Insightのアクセス権を追加する方法を説明します。 Marketo Sales Insight パッケージへのアクセス権をユーザーに付与します。
+title: セールスインサイトへのアクセスをプロファイルに追加
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 100%
+source-wordcount: '404'
+ht-degree: 95%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 1. ページの上部にある「**[!UICONTROL 新規プロファイル]**」ボタンをクリックします。
 
-1. 複製するプロファイルを選択して、名前を付けます（例：Sales Insight ユーザ）。
+1. 複製するプロファイルを選択して、名前を付けます（例：セールスインサイトユーザ）。
 
 1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
@@ -56,7 +56,7 @@ ht-degree: 100%
 
 1. セットアップページに移動して、**[!UICONTROL アプリセットアップ]**／**[!UICONTROL カスタマイズ]**／**[!UICONTROL リード]**／**[!UICONTROL ページレイアウト]**&#x200B;をクリックします。次に、「**[!UICONTROL 新規]**」ボタンをクリックします。
 
-1. お好みのレイアウトを複製し、レイアウトに適切な名前を付けます（例：Sales Insight レイアウト）。
+1. お好みのレイアウトを複製し、レイアウトに適切な名前を付けます（例：セールスインサイトレイアウト）。
 
 1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 

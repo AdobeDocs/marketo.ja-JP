@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516390
-description: Salesforce AppExchange での Marketo セールスインサイトパッケージのインストール - Marketo ドキュメント - 製品ドキュメント
+description: Salesforce AppExchangeからMarketo Sales Insight パッケージをインストールする方法について説明します。 パッケージをSalesforce インスタンスに追加します。
 title: Salesforce AppExchange での Marketo セールスインサイトパッケージのインストール
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 100%
+source-wordcount: '260'
+ht-degree: 92%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 
 1. 「**[!UICONTROL AppExchange にログイン]**」ボタンをクリックし、[!DNL Salesforce] の資格情報を使用してログインします。
 
-1. 接続した [!DNL Salesforce] アカウントログインを入力し、「**[!UICONTROL 実稼動環境にインストール]**」をクリックします。
+1. 接続した [!DNL Salesforce] アカウントログインを入力し、「**[!UICONTROL 本番環境にインストール]**」をクリックします。
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-2.png)
 
@@ -79,4 +79,4 @@ ht-degree: 100%
 >
 >* [ [!DNL Salesforce]  Professional Edition での  [!DNL Marketo Sales Insight]  の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >* [ [!DNL Salesforce]  Enterprise／Unlimited での  [!DNL Marketo Sales Insight]  の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [Sales Insight へのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>* [セールスインサイトへのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

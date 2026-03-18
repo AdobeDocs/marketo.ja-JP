@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11377552
-description: Marketo [!UICONTROL Sales Insight] プラグイン管理者の指定 - Marketo ドキュメント - 製品ドキュメント
-title: Marketo [!UICONTROL Sales Insight] プラグイン管理者の指定
+description: Outlook 用のMarketo Sales Insight プラグイン管理者を指定する方法を説明します。 組織のアドインを管理できるユーザーを指定します。
+title: Marketo [!UICONTROL セールスインサイト]プラグイン管理者の指定
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '101'
+ht-degree: 80%
 
 ---
 
-# Marketo [!UICONTROL Sales Insight] プラグイン管理者の指定 {#specify-marketo-sales-insight-plugin-admins}
+# Marketo [!UICONTROL セールスインサイト]プラグイン管理者の指定 {#specify-marketo-sales-insight-plugin-admins}
 
 [!DNL Outlook] で MSI を設定するようにユーザを招待する際にユーザに送信するメールの通知に表示する取引先責任者を指定できます。
 
-1. My Marketo で、「**[!UICONTROL 管理者]**」をクリックし、「**[!UICONTROL Sales Insight]**」をクリックします。
+1. My Marketo で、「**[!UICONTROL 管理者]**」をクリックし、「**[!UICONTROL セールスインサイト]**」をクリックします。
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 

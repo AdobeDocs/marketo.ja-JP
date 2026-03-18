@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512654
-description: Salesforce1 でのリードフィードの表示 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforce Mobile （Salesforce1）でリードフィードを表示する方法を説明します。 モバイルの MSI パネルでリアルタイムのリードアクティビティを表示します。
 title: Salesforce1 でのリードフィードの表示
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '81'
+ht-degree: 74%
 
 ---
 

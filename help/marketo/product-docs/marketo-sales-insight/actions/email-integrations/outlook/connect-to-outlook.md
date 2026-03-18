@@ -1,17 +1,17 @@
 ---
-description: Outlook への接続 - Marketo ドキュメント - 製品ドキュメント
+description: Outlook を Sales Insight Actions に接続する方法を説明します。 アクションの統合を使用して、Outlook から販売メールを送信および追跡します。
 title: Outlook への接続
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 90%
+source-wordcount: '498'
+ht-degree: 86%
 
 ---
 
 # Outlook への接続 {#connect-to-outlook}
 
-Sales Insight Actions アカウントを Outlook に接続する方法を説明します。
+セールスインサイトアクションアカウントを Outlook に接続する方法を説明します。
 
 >[!NOTE]
 >
@@ -145,8 +145,8 @@ IT チームと連携して、Marketo Sales に Outlook オンラインアカウ
 
 IT チームの環境設定および現在の設定に応じて、アクセスの付与方法について問い合わせるのが最善です。以下に、話し合いのガイドとして役立つ記事の一部を示します。
 
-* グローバル同意：[Microsoft 365 管理者向けの統合アプリと Azure AD](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* ユーザーの同意：[&#x200B; アプリケーションに対するユーザーの同意方法を設定します &#x200B;](https://learn.microsoft.com/ja-jp/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
-* 管理者の同意：[&#x200B; 管理者の同意ワークフローを設定 &#x200B;](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
-* ユーザー同意のオンまたはオフ：[Microsoft 365 でのアプリに対するユーザー同意の管理 &#x200B;](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
-* Microsoft Defender を使用した管理：[OAuth アプリを管理 &#x200B;](https://learn.microsoft.com/ja-jp/defender-cloud-apps/manage-app-permissions){target="_blank"}
+* グローバルな同意：[Microsoft 365 管理者向けの統合アプリおよびAzure AD](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
+* ユーザーの同意：[ アプリケーションに対するユーザーの同意方法を設定します ](https://learn.microsoft.com/ja-jp/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
+* 管理者の同意：[ 管理者の同意ワークフローを設定 ](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* ユーザー同意のオンまたはオフ：[Microsoft 365 でのアプリに対するユーザー同意の管理 ](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* Microsoft Defender を使用した管理：[OAuth アプリを管理 ](https://learn.microsoft.com/ja-jp/defender-cloud-apps/manage-app-permissions){target="_blank"}

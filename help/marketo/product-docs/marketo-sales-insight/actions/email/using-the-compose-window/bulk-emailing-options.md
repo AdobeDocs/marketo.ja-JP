@@ -1,12 +1,12 @@
 ---
-description: 一括メール送信オプション - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insight Actions の一括メールオプションについて説明します。 グループメール、選択して送信またはキャンペーンを使用して、複数の受信者に送信します。
 title: 一括メール送信オプション
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 100%
+source-wordcount: '272'
+ht-degree: 92%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: サーバーで Sales Insight Actions を許可リストに加える方法を教えてください。- Marketo ドキュメント - 製品ドキュメント
-title: サーバーで Sales Insight Actions を許可リストに加える方法を教えてください。
+description: サーバーまたはファイアウォール上で営業Insightのアクションを許可リストに加えるする方法を説明します。 トラッキングと配信が可能な IP とドメインを取得します。
+title: サーバーでセールスインサイトアクションを許可リストに加える方法を教えてください。
 exl-id: 55ec5552-d71c-4f86-a8c8-44d6d9cb2c0b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '77'
+ht-degree: 71%
 
 ---
 

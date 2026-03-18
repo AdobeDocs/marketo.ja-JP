@@ -1,14 +1,14 @@
 ---
-description: Sales Insight Actions と Salesforce Lightning の互換性- Marketo ドキュメント - 製品ドキュメント
-title: Sales Insight Actions と Salesforce Lightning の互換性
+description: Salesforce Actions がInsight Lightning と互換性があるかどうかを確認します。 Lightning エクスペリエンスのアクションを使用します。
+title: セールスインサイトアクションと Salesforce Lightning の互換性
 hide: true
 hidefromtoc: true
 exl-id: 6c119652-8243-4fd2-ad29-1d87ffebf757
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 100%
+source-wordcount: '55'
+ht-degree: 69%
 
 ---
 

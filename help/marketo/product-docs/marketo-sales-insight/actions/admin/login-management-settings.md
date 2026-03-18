@@ -1,18 +1,18 @@
 ---
-description: ログイン管理の設定 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insight Actions 認証のログイン管理設定について説明します。 「Salesforceのみ」または他のオプションを設定します。
 title: ログイン管理の設定
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '453'
-ht-degree: 100%
+source-wordcount: '462'
+ht-degree: 96%
 
 ---
 
 # ログイン管理の設定 {#login-management-settings}
 
-ログイン管理の設定を使用すると、管理者は、Sales Insight Actions のユーザに対して、グローバルレベルで認証設定を設定できます。
+ログイン管理の設定を使用すると、管理者は、セールスインサイトアクションのユーザに対して、グローバルレベルで認証設定を設定できます。
 
 >[!NOTE]
 >

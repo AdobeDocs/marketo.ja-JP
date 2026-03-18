@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511877
-description: Salesforce1 での注目のアクション - Marketo ドキュメント - 製品ドキュメント
+description: Salesforce Mobile （Salesforce1）の興味深い瞬間について説明します。 モバイルの MSI パネルに主要なリードアクティビティが表示されます。
 title: Salesforce1 での注目のアクション
 exl-id: d9009ca9-82f2-4cf1-bf09-e84a7b53369d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '89'
+ht-degree: 79%
 
 ---
 

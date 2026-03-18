@@ -1,12 +1,12 @@
 ---
-description: Salesforce とのリマインダータスク同期 - Marketo ドキュメント - 製品ドキュメント
+description: リマインダータスクをSalesforceと同期する方法について説明します。 アクションのメール、通話、カスタムタスクがSalesforce アクティビティに表示されるようにします。
 title: Salesforce とのリマインダータスク同期
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '512'
-ht-degree: 100%
+source-wordcount: '522'
+ht-degree: 96%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->タスク同期を有効にする方法について詳しくは、[Sales Insight Actions タスク／リマインダーの Salesforce タスクへの同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks)を参照してください。
+>タスク同期を有効にする方法について詳しくは、[セールスインサイトアクションタスク／リマインダーの Salesforce タスクへの同期](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks)を参照してください。
 
 タスクの同期設定が有効になると、ユーザは、[!DNL Salesforce] と双方向に同期されたリマインダータスクを確認できます。つまり、ユーザは [!DNL Salesforce] または [!DNL Sales Insight Actions] からタスクを管理し、システムの整合性が維持されていることを確信できます。
 

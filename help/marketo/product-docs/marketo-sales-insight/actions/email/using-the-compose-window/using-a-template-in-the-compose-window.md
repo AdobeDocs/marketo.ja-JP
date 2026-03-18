@@ -1,12 +1,12 @@
 ---
-description: 作成ウィンドウでのテンプレートの使用 - Marketo ドキュメント - 製品ドキュメント
+description: 販売メールの送信時に作成ウィンドウでテンプレートを使用する方法を説明します。 すばやくアクセスできるように、テンプレートとピン カテゴリを挿入します。
 title: 作成ウィンドウでのテンプレートの使用
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 100%
+source-wordcount: '303'
+ht-degree: 92%
 
 ---
 

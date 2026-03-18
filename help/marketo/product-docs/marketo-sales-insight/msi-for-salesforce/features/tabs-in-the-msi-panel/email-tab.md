@@ -1,12 +1,12 @@
 ---
-description: 「メール」タブ - Marketo ドキュメント - 製品ドキュメント
+description: Marketo営業Insightパネルの「メール」タブについて説明します。 リードまたは連絡先に対して送信されたメール、開封数、クリック数および返信を表示します。
 title: 「メール」タブ
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 100%
+source-wordcount: '174'
+ht-degree: 86%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 100%
    <td>送信済み、配信済み、バウンス、ソフトバウンス</td>
   </tr>
   <tr>
-   <td><strong>Sales Insight から送信されたメール</strong></td>
+   <td><strong>セールスインサイトから送信されたメール</strong></td>
    <td>送信済み、バウンス</td>
   </tr>
  </tbody>

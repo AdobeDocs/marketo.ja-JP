@@ -1,12 +1,12 @@
 ---
-description: 動的フィールド - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insightのアクションテンプレートの動的フィールドについて説明します。 結合フィールドを使用して、連絡先および送信者データを含むメールをパーソナライズします。
 title: 動的フィールド
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '535'
-ht-degree: 100%
+source-wordcount: '549'
+ht-degree: 96%
 
 ---
 

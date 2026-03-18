@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10099167
-description: Sales Insight でのアクションの選択 - Marketo ドキュメント - 製品ドキュメント
-title: Sales Insight でのアクションの選択
+description: SalesforceからMarketo キャンペーンにリードまたは連絡先を追加する方法について説明します。 MSI パネルを使用して、レコードからキャンペーンに追加します。
+title: セールスインサイトでのアクションの選択
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 100%
+source-wordcount: '207'
+ht-degree: 87%
 
 ---
 
-# Sales Insight でのアクションの選択 {#choose-an-action-in-sales-insight}
+# セールスインサイトでのアクションの選択 {#choose-an-action-in-sales-insight}
 
-Salesforce Classic と Lightning の「Sales Insight」ドロップダウンから、次のアクションを使用できます。
+Salesforce Classic と Lightning の「セールスインサイト」ドロップダウンから、次のアクションを使用できます。
 
 * Marketo メールの送信
 * Marketo キャンペーンに追加

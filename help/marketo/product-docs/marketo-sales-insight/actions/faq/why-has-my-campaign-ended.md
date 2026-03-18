@@ -1,11 +1,11 @@
 ---
-description: キャンペーンが終了した理由 - Marketo ドキュメント - 製品ドキュメント
+description: 販売キャンペーンが終了した理由を理解します。 手動の終了、返信設定、バウンスの削除、自動終了条件について説明します。
 title: キャンペーンが終了した理由
 exl-id: db53f9ea-9ee2-40c2-a0c5-67b0e916a36d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 93%
+source-wordcount: '89'
+ht-degree: 80%
 
 ---
 

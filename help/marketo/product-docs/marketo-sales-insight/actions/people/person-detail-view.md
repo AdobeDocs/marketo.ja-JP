@@ -1,14 +1,14 @@
 ---
-description: 人物の詳細表示 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insightのアクションの人物詳細ビューについて説明します。 リードまたは連絡先の連絡先情報、アクティビティ履歴、クイックアクションを参照します。
 title: 人物の詳細表示
 hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 100%
+source-wordcount: '299'
+ht-degree: 92%
 
 ---
 

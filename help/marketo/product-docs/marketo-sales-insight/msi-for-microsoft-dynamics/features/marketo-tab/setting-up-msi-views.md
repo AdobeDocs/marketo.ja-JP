@@ -1,12 +1,12 @@
 ---
-description: MSI ビューの設定 - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft Dynamicsで MSI ビューを設定する方法について説明します。 ユーザーに表示するMarketo営業Insightのタブとデータを設定します。
 title: MSI ビューの設定
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 100%
+source-wordcount: '261'
+ht-degree: 91%
 
 ---
 

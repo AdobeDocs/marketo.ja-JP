@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953373
-description: Marketo セールスインサイトの配信停止フッターの設定 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Sales Insightで購読解除フッターを設定する方法を説明します。 販売メールの購読解除リンクとコンプライアンスを設定します。
 title: Marketo セールスインサイトの配信停止フッターの設定
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 100%
+source-wordcount: '210'
+ht-degree: 90%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 
    ![](assets/one-1.png)
 
-1. 「**[!UICONTROL Sales Insight]**」をクリックし、「**[!UICONTROL 設定を編集]**」をクリックします。
+1. 「**[!UICONTROL セールスインサイト]**」をクリックし、「**[!UICONTROL 設定を編集]**」をクリックします。
 
    ![](assets/two-1.png)
 

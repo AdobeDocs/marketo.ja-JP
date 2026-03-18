@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355602
-description: Marketo セールスインサイトの Microsoft Dynamics Online へのインストールおよび設定 - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft Dynamics Online でMarketo Sales Insightをインストールして設定する方法を説明します。 Dynamics Online のソリューションを設定します。
 title: Marketo セールスインサイトの Microsoft Dynamics Online へのインストールおよび設定
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '459'
-ht-degree: 100%
+source-wordcount: '465'
+ht-degree: 95%
 
 ---
 
@@ -91,7 +91,7 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
-1. 「[!UICONTROL Sales Insight]」セクションで、「**[!UICONTROL API 設定を編集]**」をクリックします。
+1. 「[!UICONTROL セールスインサイト]」セクションで、「**[!UICONTROL API 設定を編集]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a7-3a0-1.png)
 

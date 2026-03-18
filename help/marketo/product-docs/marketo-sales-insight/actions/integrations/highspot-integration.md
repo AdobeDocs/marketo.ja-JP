@@ -1,24 +1,24 @@
 ---
-description: Highspot との統合 - Marketo ドキュメント - 製品ドキュメント
+description: Highspot と Sales Insightのアクションとの統合について説明します。 販売メールで Highspot コンテンツを使用し、エンゲージメントを追跡します。
 title: Highspot との統合
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 100%
+source-wordcount: '346'
+ht-degree: 94%
 
 ---
 
 # Highspot との統合 {#highspot-integration}
 
-セールスチームは、Sales Insight Actions から Highspot 機能にアクセスし、セールスサイクル全体を通じて、より優れた可視性、効率性、パフォーマンスを実現できます。Sales Insight Actions ユーザは、Highspot と Sales Insight Actions 内のコンテンツ追跡と分析をキャプチャしながら、Highspot のセールスイネーブルメントプラットフォームに保存されたセールスコンテンツを選択し、メール、メールテンプレート、セールスキャンペーンに直接挿入できます。
+セールスチームは、セールスインサイトアクションから Highspot 機能にアクセスし、セールスサイクル全体を通じて、より優れた可視性、効率性、パフォーマンスを実現できます。セールスインサイトアクションユーザは、Highspot とセールスインサイトアクション内のコンテンツ追跡と分析をキャプチャしながら、Highspot のセールスイネーブルメントプラットフォームに保存されたセールスコンテンツを選択し、メール、メールテンプレート、セールスキャンペーンに直接挿入できます。
 
 ## Highspot 統合を有効にする {#enabling-highspot-integration}
 
 >[!NOTE]
 >
->Sales Insight Actions インスタンスの Highspot を有効にするには、管理者権限が必要です。
+>セールスインサイトアクションインスタンスの Highspot を有効にするには、管理者権限が必要です。
 
 1. 歯車アイコンをクリックし、「**設定**」を選択します。
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 ## Highspot コンテンツへのアクセスとメールによるコンテンツの共有 {#accessing-highspot-content}
 
-Highspot にアクセスし、Sales Insight Actions の作成ウィンドウ、テンプレートエディター、セールスキャンペーンメールエディターからメールにコンテンツを追加します。作成ウィンドウからコンテンツにアクセスする手順を以下に示します。
+Highspot にアクセスし、セールスインサイトアクションの作成ウィンドウ、テンプレートエディター、セールスキャンペーンメールエディターからメールにコンテンツを追加します。作成ウィンドウからコンテンツにアクセスする手順を以下に示します。
 
 1. メールの下書きを作成します（複数の方法があります。この例では、ヘッダーの「**作成**」を選択しています）。
 

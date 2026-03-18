@@ -1,12 +1,12 @@
 ---
-description: 「チーム」タブについて - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insight Actions の「Team」タブとチーム全体の電子メール指標を理解します。 テンプレートの使用状況、ピークエンゲージメント時間、クローズした契約、担当リーダーボードを表示します。
 title: 「チーム」タブについて
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '154'
+ht-degree: 85%
 
 ---
 

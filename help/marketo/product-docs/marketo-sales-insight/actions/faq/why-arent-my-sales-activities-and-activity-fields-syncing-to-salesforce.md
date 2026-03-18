@@ -1,11 +1,11 @@
 ---
-description: セールスアクティビティおよびアクティビティフィールドが Salesforce に同期されない理由- Marketo ドキュメント - 製品ドキュメント
+description: 営業アクティビティとフィールドがSalesforceと同期されない場合のトラブルシューティング。 API ログ、カスタムフィールド、権限を確認します。
 title: セールスアクティビティおよびアクティビティフィールドが Salesforce に同期されない理由
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 87%
+source-wordcount: '330'
+ht-degree: 82%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 87%
 
 * Salesforce に接続していることを確認してください。各ユーザーは、メールおよび電話を Salesforce に記録するために接続している必要があります。
 * [Salesforce 同期設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}が設定されていることを確認してください。
-* メールは、プライマリルックアップとしての Salesforce ID およびセカンダリとしてのメールアドレスに基づいてレコードルックアップを行います。[&#x200B; アクション web アプリ &#x200B;](https://toutapp.com/next#command_center){target="_blank"} で、人物レコードにSalesforce ID とメールアドレスのリンクがあることを確認できます。
-* 電話は、Salesforce ID のみに基づいてレコードルックアップを行います。Actions の人物レコードに Salesforce ID が存在しない場合、電話は記録されません。[&#x200B; アクション web アプリ &#x200B;](https://toutapp.com/next#command_center){target="_blank"} で、人物レコードにSalesforce ID がリンクされていることを確認できます。
+* メールは、プライマリルックアップとしての Salesforce ID およびセカンダリとしてのメールアドレスに基づいてレコードルックアップを行います。[ アクション web アプリ ](https://toutapp.com/next#command_center){target="_blank"} で、人物レコードにSalesforce ID とメールアドレスのリンクがあることを確認できます。
+* 電話は、Salesforce ID のみに基づいてレコードルックアップを行います。Actions の人物レコードに Salesforce ID が存在しない場合、電話は記録されません。[ アクション web アプリ ](https://toutapp.com/next#command_center){target="_blank"} で、人物レコードにSalesforce ID がリンクされていることを確認できます。
 
 **Salesforce アップデートにアクティビティフィールドが表示されません。**
 
@@ -27,4 +27,4 @@ Salesforce にメール[アクティビティ属性フィールド](/help/market
 
 >[!NOTE]
 >
->リード、連絡先、アカウントおよび商談オブジェクトに関連付けられたフィールドは、Sales Insight Salesforce パッケージと共にインストールされます。[タスク／アクティビティレコードタイプに関連付けられたフィールドは、Salesforce 管理者によって作成される必要があります](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}。
+>リード、取引先責任者、アカウントおよび商談オブジェクトに関連付けられたフィールドは、セールスインサイトSalesforce パッケージと共にインストールされます。[タスク／アクティビティレコードタイプに関連付けられたフィールドは、Salesforce 管理者によって作成される必要があります](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}。

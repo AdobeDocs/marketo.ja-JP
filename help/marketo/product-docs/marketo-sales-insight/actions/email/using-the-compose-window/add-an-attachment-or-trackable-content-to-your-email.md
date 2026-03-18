@@ -1,12 +1,12 @@
 ---
-description: メールへの添付ファイルまたはトラック可能コンテンツの追加 - Marketo ドキュメント - 製品ドキュメント
+description: 販売メールに添付ファイルまたはトラッキング可能なコンテンツを追加する方法を説明します。 エンゲージメントトラッキングのために、ファイルを添付するか、トラッキング可能なリンクとコンテンツを追加します。
 title: メールへの添付ファイルまたはトラック可能コンテンツの追加
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '415'
-ht-degree: 100%
+source-wordcount: '424'
+ht-degree: 94%
 
 ---
 

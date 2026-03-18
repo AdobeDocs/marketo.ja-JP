@@ -1,12 +1,12 @@
 ---
-description: Salesforce に通話理由と通話結果を記録 - Marketo ドキュメント - 製品ドキュメント
+description: 通話理由と通話結果をSalesforceに記録する方法を説明します。 呼び出しアクティビティと属性が CRM と同期していることを確認します。
 title: Salesforce に通話理由と通話結果を記録
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '461'
-ht-degree: 100%
+source-wordcount: '469'
+ht-degree: 95%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
-1. カスタムフィールドに、上で定義した名前を付けます。フィールドの長さの上限は 255 文字です。フィールドラベルは、セールスチームが表示できるフィールドで、チームのニーズに合わせてカスタマイズできます。
+1. カスタムフィールドに、上で定義したフィールド名を付けます。フィールドの長さの上限は 255 文字です。フィールドラベルは、セールスチームが表示できるフィールドで、チームのニーズに合わせてカスタマイズできます。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
@@ -57,7 +57,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >Sales Insight Actions ユーザが使用するプロファイルと、他に表示するプロファイルにカスタムフィールドが表示されていることを確認します。
+   >セールスインサイトアクションユーザが使用するプロファイルと、他に表示するプロファイルにカスタムフィールドが表示されていることを確認します。
 
 1. フィールドを追加するページレイアウトを選択し、「**保存**」をクリックします（オプションで、「**保存して新規作成**」をクリックし、「通話理由」フィールドに対してこのプロセスを繰り返すことができます）。
 

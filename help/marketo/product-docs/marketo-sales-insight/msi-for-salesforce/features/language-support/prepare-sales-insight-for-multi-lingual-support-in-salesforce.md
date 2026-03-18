@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7516460
-description: Salesforce での多言語サポートに向けた Sales Insight の準備 - Marketo ドキュメント - 製品ドキュメント
-title: Salesforce での多言語サポートに向けた Sales Insight の準備
+description: Salesforceで多言語サポート用のMarketo Sales Insightを準備する方法について説明します。 グローバルユーザーの言語とロケールを設定します。
+title: Salesforce での多言語サポートに向けたセールスインサイトの準備
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 100%
+source-wordcount: '234'
+ht-degree: 91%
 
 ---
 
-# Salesforce での多言語サポートに向けた Sales Insight の準備 {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
+# Salesforce での多言語サポートに向けたセールスインサイトの準備 {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]
 >

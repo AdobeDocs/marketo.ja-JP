@@ -1,11 +1,11 @@
 ---
-description: Salesforce リスト表示へのアクションボタンの追加 - Marketo ドキュメント - 製品ドキュメント
+description: 「Send Sales Email」ボタンと「Add to Sales Campaign」ボタンをSalesforceのリストビューに追加する方法を説明します。 リスト表示ボタンのレイアウトを使用して、Lightning または Classic でを設定します。
 title: Salesforce リスト表示へのアクションボタンの追加
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 97%
+source-wordcount: '306'
+ht-degree: 89%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->これらのボタンは、Sales Insight パッケージの一部です。リスト表示にインストールできるボタンが表示されない場合、[パッケージをアップグレード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}する必要がある可能性があります。
+>これらのボタンは、セールスインサイトパッケージの一部です。リスト表示にインストールできるボタンが表示されない場合、[パッケージをアップグレード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}する必要がある可能性があります。
 
 インストールするアクションボタンには、以下が含まれます。
 

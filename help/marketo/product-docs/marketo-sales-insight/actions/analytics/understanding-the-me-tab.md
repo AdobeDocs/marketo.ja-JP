@@ -1,12 +1,12 @@
 ---
-description: 「自分」タブについて - Marketo ドキュメント - 製品ドキュメント
+description: 「Sales Insight Actions」内の「Me」タブとメール・エンゲージメントに関する統計を理解します。 送信されたメール、テンプレートの使用状況、最も魅力的なメールおよび連絡先を表示します。
 title: 「自分」タブについて
 exl-id: 7663f2f3-5266-4ef0-a719-f6630cc0f427
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '107'
+ht-degree: 77%
 
 ---
 

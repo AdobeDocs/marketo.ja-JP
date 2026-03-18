@@ -1,12 +1,12 @@
 ---
-description: メール接続のスロットリング - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insight Actions のメール接続スロットルと送信制限について説明します。 スロットリングが配信に与える影響と制限の範囲内に収まる方法を説明します。
 title: メール接続のスロットリング
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 96%
+source-wordcount: '417'
+ht-degree: 91%
 
 ---
 

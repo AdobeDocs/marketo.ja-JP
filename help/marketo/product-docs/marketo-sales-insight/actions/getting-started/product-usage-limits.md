@@ -1,18 +1,18 @@
 ---
-description: 製品の使用制限 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insight Actions 製品の使用制限を理解します。 アカウントのメール、呼び出し、API 制限について説明します。
 title: 製品使用の制限
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 100%
+source-wordcount: '243'
+ht-degree: 93%
 
 ---
 
 # 製品使用の制限 {#product-usage-limits}
 
-以下に、Sales Insight Actions で使用可能な拡張セールスエンゲージメント機能の使用に対して適用される制限を示します。
+以下に、セールスインサイトアクションで使用可能な拡張セールスエンゲージメント機能の使用に対して適用される制限を示します。
 
 >[!NOTE]
 >

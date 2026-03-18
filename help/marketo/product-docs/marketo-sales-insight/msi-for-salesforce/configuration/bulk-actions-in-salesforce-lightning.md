@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356282
-description: Salesforce Lightning での一括アクション - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Sales Insight向けSalesforce Lightning での一括アクションについて説明します。 「Send Sales Email」と「Add to Sales Campaign」をリスト表示から使用します。
 title: Salesforce Lightning での一括アクション
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 100%
+source-wordcount: '128'
+ht-degree: 82%
 
 ---
 

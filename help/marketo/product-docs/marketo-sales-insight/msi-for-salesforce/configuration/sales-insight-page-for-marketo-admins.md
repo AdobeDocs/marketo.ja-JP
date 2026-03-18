@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762409
-description: Marketo 管理者向け Sales Insight ページ - Marketo ドキュメント - 製品ドキュメント
-title: Marketo 管理者向け Sales Insight ページ
+description: Marketo管理者向けの Sales Insightのページについて説明します。 アクションの設定と MSI 設定にアクセスします。
+title: Marketo 管理者向けセールスインサイトページ
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '404'
-ht-degree: 100%
+source-wordcount: '409'
+ht-degree: 96%
 
 ---
 
@@ -34,7 +34,7 @@ Marketo 管理者には、[!DNL Sales Insight] に関する特定の権限があ
 
 デフォルトでは、[!DNL Marketo Sales Insight] は「リードスコア」フィールドを使用して星と炎を計算します。別のフィールドを選択する場合は、次の方法を使用できます。
 
-1. Marketo の&#x200B;**[!UICONTROL 管理者]**&#x200B;領域で、「**[!UICONTROL Sales Insight]**」をクリックします。
+1. Marketo の&#x200B;**[!UICONTROL 管理者]**&#x200B;領域で、「**[!UICONTROL セールスインサイト]**」をクリックします。
 
    ![](assets/four.png)
 
@@ -50,7 +50,7 @@ Marketo 管理者には、[!DNL Sales Insight] に関する特定の権限があ
 
    ![](assets/seven.png)
 
-1. 「**[!UICONTROL 保存]**」をクリックします。Sales Insight の再計算には時間がかかります。後で CRM をチェックして星と炎を確認できます。
+1. 「**[!UICONTROL 保存]**」をクリックします。セールスインサイトの再計算には時間がかかります。後で CRM をチェックして星と炎を確認できます。
 
    ![](assets/eight.png)
 

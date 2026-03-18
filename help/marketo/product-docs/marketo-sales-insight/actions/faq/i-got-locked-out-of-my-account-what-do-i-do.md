@@ -1,12 +1,12 @@
 ---
-description: 自分のアカウントから締め出されました。どうすればいいですか？- Marketo ドキュメント - 製品ドキュメント
+description: insight Actions アカウントからロックアウトされたときにヘルプを入手してください。 アクセスを回復するために、パスワードをリセットする方法やSalesforceに再接続する方法について説明します。
 title: 自分のアカウントから締め出されました。どうすればいいですか？
 exl-id: e3ef9909-36e6-434b-8f6e-161af69e093b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 100%
+source-wordcount: '61'
+ht-degree: 63%
 
 ---
 

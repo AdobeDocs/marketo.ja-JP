@@ -1,12 +1,12 @@
 ---
-description: 詳細検索の概要 - Marketo ドキュメント - 製品ドキュメント
+description: コマンドセンターで詳細検索を使用して、メールとタスクを検索する方法を説明します。 日付、送信者、ステータス、その他の条件でフィルタリングします。
 title: 詳細検索の概要
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 100%
+source-wordcount: '443'
+ht-degree: 94%
 
 ---
 

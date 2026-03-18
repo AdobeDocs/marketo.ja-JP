@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472672
-description: Marketo セールスインサイトの複数レコードへのメール送信 - Marketo ドキュメント - 製品ドキュメント
+description: SalesforceのMarketo営業Insightから複数のレコードにメールを送信する方法を説明します。 アカウントまたはオポチュニティのすべての連絡先にメールを送信する。
 title: Marketo セールスインサイトの複数レコードへのメール送信
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 100%
+source-wordcount: '147'
+ht-degree: 84%
 
 ---
 

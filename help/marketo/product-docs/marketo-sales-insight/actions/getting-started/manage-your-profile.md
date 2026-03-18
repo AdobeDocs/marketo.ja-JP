@@ -1,10 +1,10 @@
 ---
-description: プロファイルの管理 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insightのアクションプロファイルを管理する方法について説明します。 設定の名前、メール、署名、通知の環境設定を更新します。
 title: プロファイルの管理
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 100%
+source-wordcount: '269'
+ht-degree: 93%
 
 ---
 

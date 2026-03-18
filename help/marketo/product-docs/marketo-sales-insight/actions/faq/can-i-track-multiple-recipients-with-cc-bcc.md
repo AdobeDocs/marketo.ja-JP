@@ -1,12 +1,12 @@
 ---
-description: CC/BCC を使用して複数の受信者を追跡できますか - Marketo ドキュメント - 製品ドキュメント
+description: CC と BCC を使用する場合に複数の受信者をトラッキングできるかどうかを説明します。 グループメールのトラッキング制限と動作について説明します。
 title: CC/BCC を使用して複数の受信者を追跡できますか
 exl-id: cc14cbb5-6c1f-470c-9836-dd853ef7befc
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 78%
 
 ---
 

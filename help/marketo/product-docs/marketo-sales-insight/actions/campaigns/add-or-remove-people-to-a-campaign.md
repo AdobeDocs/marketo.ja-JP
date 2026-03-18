@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352613
-description: キャンペーンに人物を追加 - Marketo ドキュメント - 製品ドキュメント
+description: Web アプリ、Salesforce、インボックスから Sales Campaigns のユーザーを追加または削除する方法を説明します。 キャンペーンを終了するために、返信およびバウンスオプションを自動的に設定します。
 title: キャンペーンに人物を追加
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 100%
+source-wordcount: '462'
+ht-degree: 94%
 
 ---
 

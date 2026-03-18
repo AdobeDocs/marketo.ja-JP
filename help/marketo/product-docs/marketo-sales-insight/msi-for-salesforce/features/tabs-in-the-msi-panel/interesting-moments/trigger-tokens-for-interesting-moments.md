@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146999
-description: 注目のアクションのトリガートークン - Marketo ドキュメント - 製品ドキュメント
+description: Marketoで興味深い瞬間のトリガートークンについて説明します。 MSI パネルで興味深い瞬間を作成するアクティビティを設定します。
 title: 注目のアクションのトリガートークン
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 96%
+source-wordcount: '556'
+ht-degree: 93%
 
 ---
 

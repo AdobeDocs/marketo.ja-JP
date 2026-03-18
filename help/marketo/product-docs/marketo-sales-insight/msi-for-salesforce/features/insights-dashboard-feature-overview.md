@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762514
-description: Insights ダッシュボード機能の概要 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Sales Insightの Insights ダッシュボードについて説明します。 エンゲージメントベロシティ、今後のキャンペーンおよびタスクをパネルに表示します。
 title: Insights ダッシュボード機能の概要
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1522'
-ht-degree: 100%
+source-wordcount: '1533'
+ht-degree: 98%
 
 ---
 

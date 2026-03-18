@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6849099
-description: Microsoft Dynamics 用 Marketo セールスインサイトソリューションのアップグレード - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft DynamicsのMarketo Sales Insight ソリューションをアップグレードする方法について説明します。 最新バージョンを取得し、アップグレードを適用します。
 title: Microsoft Dynamics 用 Marketo セールスインサイトソリューションのアップグレード
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '138'
+ht-degree: 85%
 
 ---
 

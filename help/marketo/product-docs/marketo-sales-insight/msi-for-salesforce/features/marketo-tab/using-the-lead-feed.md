@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512979
-description: リードフィードの使用 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforceの「Marketo」タブでのリードフィードの使用方法について説明します。 フィードでのリアルタイムのリードアクティビティとエンゲージメントを参照してください。
 title: リードフィードの使用
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 100%
+source-wordcount: '342'
+ht-degree: 93%
 
 ---
 

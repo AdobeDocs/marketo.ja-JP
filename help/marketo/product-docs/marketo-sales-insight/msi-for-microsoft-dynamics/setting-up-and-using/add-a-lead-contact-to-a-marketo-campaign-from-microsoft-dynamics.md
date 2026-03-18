@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953342
-description: Microsoft Dynamics から Marketo Campaign へのリード／連絡先の追加 - Marketo ドキュメント - 製品ドキュメント
+description: Microsoft DynamicsからMarketo キャンペーンにリードまたは連絡先を追加する方法について説明します。 MSI パネルを使用して、キャンペーンにリードを追加します。
 title: Microsoft Dynamics から Marketo Campaign へのリード／連絡先の追加
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 100%
+source-wordcount: '142'
+ht-degree: 83%
 
 ---
 

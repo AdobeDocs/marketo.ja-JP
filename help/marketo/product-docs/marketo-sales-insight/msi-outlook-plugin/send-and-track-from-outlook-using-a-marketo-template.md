@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949283
-description: Marketo テンプレートを使用した  [!DNL Outlook]  からの送信とトラック - Marketo ドキュメント - 製品ドキュメント
+description: Marketo テンプレートを使用して Outlook から送信およびトラッキングする方法を説明します。 販売テンプレートを挿入し、Outlook から追跡対象の電子メールを送信します。
 title: Marketo テンプレートを使用した  [!DNL Outlook]  からの送信とトラック
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 100%
+source-wordcount: '205'
+ht-degree: 89%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Sales Insight Actions 機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用の Sales Insight メールプラグインでは使用できません。現時点では、ユーザーは、Sales Insight メールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
+>セールスインサイトアクションの機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用のセールスインサイトメールプラグインでは使用できません。現時点では、ユーザは、セールスインサイトメールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
 
 1. Microsoft Outlook を開き、「**Marketo メッセージ**」をクリックします。
 

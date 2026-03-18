@@ -1,14 +1,14 @@
 ---
-description: テンプレートリストを別のユーザとして表示 - Marketo ドキュメント - 製品ドキュメント
+description: 管理者である場合に別のユーザーとしてテンプレートリストを表示する方法を説明します。 「別名で表示」を使用して、別のユーザーのテンプレートを表示します。
 title: テンプレートリストを別のユーザとして表示
 hide: true
 hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 100%
+source-wordcount: '90'
+ht-degree: 74%
 
 ---
 

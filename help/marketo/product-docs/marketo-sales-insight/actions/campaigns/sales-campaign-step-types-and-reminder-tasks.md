@@ -1,12 +1,12 @@
 ---
-description: セールスキャンペーンのステップのタイプとリマインダータスク - Marketo ドキュメント - 製品ドキュメント
+description: Sales Campaign のステップタイプとリマインダータスクについて説明します。 メール、通話、InMail、カスタムタスクステップを使用し、コマンドセンターとSalesforceでタスクをキューに入れます。
 title: セールスキャンペーンのステップのタイプとリマインダータスク
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 100%
+source-wordcount: '331'
+ht-degree: 92%
 
 ---
 

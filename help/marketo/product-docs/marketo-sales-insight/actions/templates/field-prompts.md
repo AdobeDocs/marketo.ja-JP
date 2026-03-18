@@ -1,11 +1,11 @@
 ---
-description: フィールドプロンプト - Marketo ドキュメント - 製品ドキュメント
+description: メールテンプレートのフィールドプロンプトについて説明します。 送信時に送信者にカスタムコンテンツの入力を求めるプレースホルダーを追加します。
 title: フィールドプロンプト
 exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 100%
+source-wordcount: '174'
+ht-degree: 88%
 
 ---
 

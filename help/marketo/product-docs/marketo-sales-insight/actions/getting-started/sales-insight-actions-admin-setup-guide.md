@@ -1,16 +1,16 @@
 ---
-description: Sales Insight Actions 管理者設定ガイド - Marketo ドキュメント - 製品ドキュメント
-title: Sales Insight Actions 管理者設定ガイド
+description: 管理者として Sales Insight Actions を設定する方法を説明します。 Marketo接続の設定、データ同期、ユーザーの招待を行います。
+title: セールスインサイトアクション管理者設定ガイド
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '646'
-ht-degree: 100%
+source-wordcount: '655'
+ht-degree: 97%
 
 ---
 
-# Sales Insight Actions 管理者設定ガイド {#sales-insight-actions-admin-setup-guide}
+# セールスインサイトアクション管理者設定ガイド {#sales-insight-actions-admin-setup-guide}
 
 >[!NOTE]
 >
@@ -66,7 +66,7 @@ ht-degree: 100%
    >
    >統合情報カードにクライアント ID およびクライアントシークレットが表示されていない場合、最初のユーザーを招待して Actions インスタンスを有効化することで、クライアント ID およびクライアントシークレットが表示されます。
 
-1. 「**Sales Insight**」をクリックし、「**Actions 設定**」をクリックします。Marketo 管理者のリストから選択し、「**招待を送信**」をクリックして招待します。
+1. 「**セールスインサイト**」をクリックし、「**アクション設定**」をクリックします。Marketo 管理者のリストから選択し、「**招待を送信**」をクリックして招待します。
 
    ![](assets/msi-actions-admin-guide-2.png)
 
@@ -120,13 +120,13 @@ ht-degree: 100%
 
 >[!CAUTION]
 >
->データ同期を開始したら、Sales Insight Actions インスタンスから元のユーザーを&#x200B;**削除しない**&#x200B;ようにします。これは、最初の招待が送信されたユーザーです。
+>データ同期を開始したら、セールスインサイトアクションインスタンスから元のユーザを&#x200B;**削除しない**&#x200B;ようにします。これは、最初の招待が送信されたユーザーです。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-10.png)
 
-1. 「**[!UICONTROL Sales Insight]**」をクリックします。
+1. 「**[!UICONTROL セールスインサイト]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-11.png)
 
@@ -142,7 +142,7 @@ Marketo と [!DNL Salesforce] に存在する人物レコードが、Marketo セ
 
 >[!NOTE]
 >
->Sales Insight Actions、Marketo、Salesforce 間の人物とアクティビティのデータ同期について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}してください。
+>セールスインサイトアクションs、Marketo、Salesforce 間の人物とアクティビティのデータ同期について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}してください。
 
 ## 個々のユーザーを MSI Actions に招待する {#invite-individual-users-to-msi-actions}
 

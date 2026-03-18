@@ -1,12 +1,12 @@
 ---
-description: グループメールによるメールの送信 - Marketo ドキュメント - 製品ドキュメント
+description: グループメールを使用して販売メールを送信する方法を説明します。 トラッキングオプションとパーソナライゼーションオプションを使用して、複数の受信者に一度にメールを送信します。
 title: グループメールによるメールの送信
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 100%
+source-wordcount: '172'
+ht-degree: 88%
 
 ---
 

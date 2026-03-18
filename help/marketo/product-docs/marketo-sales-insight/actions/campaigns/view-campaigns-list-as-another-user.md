@@ -1,12 +1,12 @@
 ---
-description: キャンペーンリストを別のユーザとして表示 - Marketo ドキュメント - 製品ドキュメント
+description: 管理者である場合にキャンペーンを別のユーザーとして表示する方法を説明します。 キャンペーン ページの「表示形式」ドロップダウンを使用すると、ユーザーのキャンペーンを表示できます。
 title: キャンペーンリストを別のユーザとして表示
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 72%
 
 ---
 

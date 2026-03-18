@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720314
-description: Sales Insight のメール効果レポート - Marketo ドキュメント - 製品ドキュメント
-title: Sales Insight のメール効果レポート
+description: SalesforceのInsightのセールスメールのパフォーマンスレポートについて説明します。 販売メールのメール指標とエンゲージメントを表示します。
+title: セールスインサイトのメール効果レポート
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 100%
+source-wordcount: '161'
+ht-degree: 88%
 
 ---
 
-# Sales Insight のメール効果レポート {#sales-insight-email-performance-report}
+# セールスインサイトのメール効果レポート {#sales-insight-email-performance-report}
 
 [!DNL Salesforce]、[!DNL Microsoft Dynamics]、Gmail または [!DNL Outlook] プラグインを通じて送信されるメールのパフォーマンスを表示します。
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. 「**[!UICONTROL Sales Insight のメール効果]**」をクリックします。
+1. 「**[!UICONTROL セールスインサイトのメール効果]**」をクリックします。
 
    ![](assets/analytics-salesemailreporthand.png)
 
@@ -37,7 +37,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >配信ステータスは、Sales Insight を通じて送信されたメールに対しては取得されず、このレポートやアクティビティログには含まれません。
+   >配信ステータスは、セールスインサイトを通じて送信されたメールに対しては取得されず、このレポートやアクティビティログには含まれません。
 
 >[!TIP]
 >

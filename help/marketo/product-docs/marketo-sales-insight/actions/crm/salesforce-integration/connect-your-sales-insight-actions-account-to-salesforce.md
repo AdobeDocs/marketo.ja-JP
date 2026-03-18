@@ -1,12 +1,12 @@
 ---
-description: Sales Insight Actions アカウントを Salesforce に接続 - Marketo ドキュメント - 製品ドキュメント
-title: Sales Insight Actions アカウントを Salesforce に接続
+description: insight Actions アカウントをSalesforceに接続する方法を説明します。
+title: セールスインサイトアクションアカウントを Salesforce に接続
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 100%
+source-wordcount: '127'
+ht-degree: 91%
 
 ---
 

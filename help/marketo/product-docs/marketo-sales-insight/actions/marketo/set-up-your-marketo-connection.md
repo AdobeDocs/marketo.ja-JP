@@ -1,14 +1,14 @@
 ---
-description: Marketo 接続の設定 - Marketo ドキュメント - 製品ドキュメント
+description: insight Sales Actions 用にMarketo接続を設定する方法について説明します。 Marketo管理者から接続して、インスタンスのアクションを有効にします。
 title: Marketo 接続の設定
 hide: true
 hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 100%
+source-wordcount: '193'
+ht-degree: 88%
 
 ---
 

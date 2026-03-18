@@ -1,12 +1,12 @@
 ---
-description: 取引先責任者を削除できない理由- Marketo ドキュメント - 製品ドキュメント
+description: Sales Insightのアクションで連絡先を削除できない理由を確認します。 所有者および連絡先の削除制限について説明します。
 title: 取引先責任者を削除できない理由
 exl-id: 35e9d5c3-f7f8-4047-b63a-7548841d8267
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 100%
+source-wordcount: '100'
+ht-degree: 80%
 
 ---
 

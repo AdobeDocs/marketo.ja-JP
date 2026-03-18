@@ -1,12 +1,12 @@
 ---
-description: Salesforce アクティビティ詳細のカスタマイズの設定 - Marketo ドキュメント - 製品ドキュメント
+description: タスクの件名フィールドにSalesforce アクティビティの詳細のカスタマイズを設定する方法について説明します。 アクティビティの同期時に、Salesforce タスクにどのようなログを記録するかを設定します。
 title: Salesforce アクティビティ詳細のカスタマイズの設定
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '679'
-ht-degree: 100%
+source-wordcount: '692'
+ht-degree: 96%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 >[!PREREQUISITES]
 >
->* Salesforce と Sales Insight Actions は、[接続されている必要があります](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+>* Salesforce とセールスインサイトアクションは、[接続されている必要があります](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
 >* API を使用したメールアクティビティのログが[有効になっている](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 アクティビティの詳細のカスタマイズを使用すると、管理者は、[!DNL Sales Insight Actions] のアクティビティ／リマインダータスクが [!DNL Salesforce] に同期されたときに、[!DNL Salesforce] タスクの件名フィールドに記録する情報を設定できます。
@@ -46,9 +46,9 @@ ht-degree: 100%
 この機能を使用して、以下のメリットをアンロックできます。
 
 * 件名フィールドに表示される情報をカスタマイズすることで、Salesforce での販売に関するアクティビティの詳細を簡単にスキャンできます。
-* 管理者は、件名フィールドに「Mkto_sales」などの一意の ID をタグ付けできるので、Sales Insight Actions のアクティビティを簡単に識別し、他のメールアクティビティ、通話アクティビティおよびタスクと区別できます。
+* 管理者は、件名フィールドに「Mkto_sales」などの一意の ID をタグ付けできるので、セールスインサイトアクションのアクティビティを簡単に識別し、他のメールアクティビティ、通話アクティビティおよびタスクと区別できます。
 * カスタムアクティビティフィールドの必要性を減らします。Salesforce では、カスタムアクティビティフィールドの数に制限が適用されるので、レポートで使用できるデータを制限できます。アクティビティの動的フィールドを使用して主要データを件名行に追加することで、Salesforce インスタンスで作成する必要のあるカスタムアクティビティフィールドの数を減らすことができます。
-* アクティビティとタスクの件名フィールドは、Sales Insight Actions が定義した一貫したパターンに従います。
+* アクティビティとタスクの件名フィールドは、セールスインサイトアクションが定義した一貫したパターンに従います。
 
 >[!NOTE]
 >

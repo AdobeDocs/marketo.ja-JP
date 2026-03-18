@@ -1,12 +1,12 @@
 ---
-description: 最有望見込客 - Marketo ドキュメント - 製品ドキュメント
+description: おすすめコンテンツについては、Salesforceの「Marketo」タブを参照してください。 どのリードが最もエンゲージメントが高く、セールスアウトリーチの準備ができているかを確認します。
 title: 最有望見込客
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 100%
+source-wordcount: '313'
+ht-degree: 93%
 
 ---
 

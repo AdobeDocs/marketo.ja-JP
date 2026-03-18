@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762519
-description: 既存顧客の設定 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforceの既存のお客様に対してMarketo Sales Insightを設定する方法について説明します。 古いパッケージからのアップデートまたはアクションの追加。
 title: 既存顧客の設定
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 100%
+source-wordcount: '179'
+ht-degree: 89%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 
    ![](assets/configuration-for-existing-customers-1.png)
 
-1. 「**[!UICONTROL Sales Insight]**」をクリックします。
+1. 「**[!UICONTROL セールスインサイト]**」をクリックします。
 
    ![](assets/configuration-for-existing-customers-2.png)
 

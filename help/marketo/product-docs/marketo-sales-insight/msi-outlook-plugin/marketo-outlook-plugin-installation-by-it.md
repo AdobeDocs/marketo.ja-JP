@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382815
-description: IT による Marketo  [!DNL Outlook]  プラグインのインストール - Marketo ドキュメント - 製品ドキュメント
+description: IT 部門がMarketo Outlook プラグインをインストールする方法を説明します。 Outlook ユーザー用にアドインを大規模に展開します。
 title: IT による Marketo  [!DNL Outlook]  プラグインのインストール
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 100%
+source-wordcount: '179'
+ht-degree: 88%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: 「コンテンツ」タブについて - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insight Actions の「Content」タブとテンプレートエンゲージメント指標について説明します。 秘密兵器、最高および最低のエンゲージメント、上部の添付ファイルとリンクを表示します。
 title: 「コンテンツ」タブについて
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 100%
+source-wordcount: '200'
+ht-degree: 88%
 
 ---
 

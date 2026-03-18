@@ -1,24 +1,24 @@
 ---
-description: Sales Insight Actions 機能の概要 - Marketo ドキュメント - 製品ドキュメント
-title: Sales Insight Actions 機能の概要
+description: 営業Insightのアクションと、マーケティングを活用した営業向けのインテリジェンスおよびエンゲージメントツールについて説明します。 販売メール、キャンペーン、ダイヤラー、タスクを使用して、予測を高速化します。
+title: セールスインサイトアクション機能の概要
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1361'
-ht-degree: 100%
+source-wordcount: '1375'
+ht-degree: 98%
 
 ---
 
-# Sales Insight Actions 機能の概要 {#msi-actions-feature-overview}
+# セールスインサイトアクション機能の概要 {#msi-actions-feature-overview}
 
-Sales Insight Actions を使用して、マーケティングを活用したインテリジェンスとエンゲージメントツールを 1 つのワークフローに統合し、潜在顧客の発掘を加速します。
+セールスインサイトアクションを使用して、マーケティングを活用したインテリジェンスとエンゲージメントツールを 1 つのワークフローに統合し、潜在顧客の発掘を加速します。
 
 >[!NOTE]
 >
 >Marketo セールスインサイト Actions は、[Marketo セールスインサイトパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
-Sales Insight Actions のビデオの概要について詳しくは、[こちらをクリック](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=ja){target="_blank"}してください。
+セールスインサイトアクションのビデオの概要については、[こちらをクリック](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=ja){target="_blank"}してください。
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 

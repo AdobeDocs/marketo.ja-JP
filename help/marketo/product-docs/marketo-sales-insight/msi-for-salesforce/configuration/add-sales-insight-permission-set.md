@@ -1,12 +1,12 @@
 ---
-description: Sales Insight 権限セットの追加 - Marketo ドキュメント - 製品ドキュメント
-title: Sales Insight 権限セットの追加
+description: Salesforceで Sales Insight権限セットを追加する方法を説明します。 Marketo Sales Insightへのアクセス権を必要とするユーザーにセットを割り当てます。
+title: セールスインサイト権限セットの追加
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '349'
-ht-degree: 100%
+source-wordcount: '362'
+ht-degree: 93%
 
 ---
 

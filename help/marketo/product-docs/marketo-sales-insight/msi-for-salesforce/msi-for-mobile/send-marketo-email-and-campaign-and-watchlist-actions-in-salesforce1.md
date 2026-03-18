@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511931
-description: Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション - Marketo ドキュメント - 製品ドキュメント
+description: Marketo メールを送信し、Salesforce Mobile で campaign と監視リストのアクションを使用する方法について説明します。 モバイルで MSI アクションを使用します。
 title: Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 100%
+source-wordcount: '176'
+ht-degree: 88%
 
 ---
 

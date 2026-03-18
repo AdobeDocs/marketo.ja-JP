@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360303
-description: 星と炎のカスタマイズ - Marketo ドキュメント - 製品ドキュメント
+description: Marketo セールスInsightで星と炎をカスタマイズする方法を説明します。 Salesforceでのリードスコアおよび緊急度の表示方法を設定します。
 title: 星と炎のカスタマイズ
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 100%
+source-wordcount: '186'
+ht-degree: 89%
 
 ---
 

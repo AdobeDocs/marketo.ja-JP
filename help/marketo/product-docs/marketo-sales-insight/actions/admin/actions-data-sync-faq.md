@@ -1,12 +1,12 @@
 ---
-description: アクションデータ同期に関する FAQ - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Engage、Salesforce、および Sales Insight Actions 間の Actions データ同期について説明します。 人物とアクティビティデータの同期に関するよくある質問への回答を示します。
 title: アクションデータ同期に関する FAQ
 feature: Sales Insight Actions
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '958'
-ht-degree: 100%
+source-wordcount: '974'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 100%
 
 ![](assets/actions-data-sync-faq-3.png)
 
-メール、電話、注目のアクション、web などのアクティビティデータは、すべて Marketo Engage のデータベースから取得されます。セールスユーザーが Sales Insight スマートグリッドを読み込むたびに、Marketo Engage インスタンスに対してデータを取得するリクエストが行われます。
+メール、電話、注目のアクション、web などのアクティビティデータは、すべて Marketo Engage のデータベースから取得されます。セールスユーザがセールスインサイトスマートグリッドを読み込むたびに、Marketo Engage インスタンスに対してデータを取得するリクエストが行われます。
 
 ![](assets/actions-data-sync-faq-4.png)
 

@@ -1,12 +1,12 @@
 ---
-description: 新規管理者を Marketo に接続 — Marketo ドキュメント — 製品ドキュメント
+description: 新しい管理者をMarketoに接続し、Marketo統合を転送する方法について説明します。 現在の管理者を切断し、新しい接続を確立するには、次の手順に従います。
 title: 新規管理者を Marketo に接続
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '491'
-ht-degree: 100%
+source-wordcount: '508'
+ht-degree: 94%
 
 ---
 

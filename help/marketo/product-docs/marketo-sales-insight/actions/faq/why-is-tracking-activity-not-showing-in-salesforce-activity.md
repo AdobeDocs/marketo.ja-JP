@@ -1,12 +1,12 @@
 ---
-description: Salesforce アクティビティにトラッキングアクティビティが表示されないのはなぜですか？- Marketo ドキュメント - 製品ドキュメント
+description: トラッキングアクティビティがSalesforce アクティビティに表示されない場合のトラブルシューティング。 同期設定、API ログ、権限を確認します。
 title: Salesforce アクティビティにトラッキングアクティビティが表示されないのはなぜですか？
 exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '83'
+ht-degree: 79%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: ブロック済みドメイン - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insight Actions でドメインをブロックして、競合他社やスパムトラップへの電子メール送信を防ぐ方法を説明します。
 title: ブロック済みドメイン
 exl-id: 004ba212-485e-4412-be75-7de13505d9b0
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 84%
 
 ---
 

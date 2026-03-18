@@ -1,12 +1,12 @@
 ---
-description: 国際通話 - Marketo ドキュメント - 製品ドキュメント
+description: Sales Insight Actions での国際通話について説明します。 ダイヤラから国際番号へのコールを行い、ログに記録します。
 title: 国際通話
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 100%
+source-wordcount: '404'
+ht-degree: 95%
 
 ---
 

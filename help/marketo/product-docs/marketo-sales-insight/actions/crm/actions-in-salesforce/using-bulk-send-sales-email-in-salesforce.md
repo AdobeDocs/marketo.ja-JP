@@ -1,11 +1,11 @@
 ---
-description: Salesforce でのセールスメールの一括送信の使用 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforceから一括販売メールを送信する方法を説明します。 リスト表示でリードまたは連絡先を選択し、Lightning または Classic の「Send Sales Email」ボタンを使用します。
 title: Salesforce でのセールスメールの一括送信の使用
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 95%
+source-wordcount: '613'
+ht-degree: 90%
 
 ---
 
@@ -19,7 +19,7 @@ Sales Actions を使用したアウトバウンド通信の拡大に役立つ、
 
 >[!PREREQUISITES]
 >
->[&#x200B; 最新の Sales Insight パッケージ &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} がSalesforce インスタンスにインストールされ、Salesforceの連絡先ビューとリードリストビューで [&#x200B; アクションボタン &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} が設定されていることを確認します。
+>[ 最新の Sales Insight パッケージ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} がSalesforce インスタンスにインストールされ、Salesforceの連絡先ビューとリードリストビューで [ アクションボタン ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} が設定されていることを確認します。
 
 ## Salesforce Lightning での一括メールの送信 {#sending-bulk-email-in-salesforce-lightning}
 

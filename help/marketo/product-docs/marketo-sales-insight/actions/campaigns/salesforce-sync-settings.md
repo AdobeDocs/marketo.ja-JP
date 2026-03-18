@@ -1,12 +1,12 @@
 ---
-description: Salesforce 同期設定 - Marketo ドキュメント - 製品ドキュメント
+description: メールアクティビティをログに記録するためのSalesforce同期設定を指定する方法について説明します。
 title: Salesforce 同期設定
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 100%
+source-wordcount: '643'
+ht-degree: 98%
 
 ---
 

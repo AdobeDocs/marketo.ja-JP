@@ -1,14 +1,14 @@
 ---
-description: 「選択して送信」による一括メールの作成 - Marketo ドキュメント - 製品ドキュメント
+description: 選択と送信を使用して一括メールを作成および送信する方法を説明します。 人物ページから連絡先を選択し、パーソナライズされたメールを大規模に送信します。
 title: 「選択して送信」による一括メールの作成
 hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 100%
+source-wordcount: '418'
+ht-degree: 94%
 
 ---
 

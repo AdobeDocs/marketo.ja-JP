@@ -1,11 +1,11 @@
 ---
-description: メールがスパムとしてマークされるのはなぜですか？ - Marketo ドキュメント - 製品ドキュメント
+description: 販売 E メールがスパムとしてマークされた場合のサポートを受けられます。 一般的な原因と、配信品質と送信者の評判を向上させる方法について説明します。
 title: メールがスパムとしてマークされる理由
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 95%
+source-wordcount: '190'
+ht-degree: 88%
 
 ---
 

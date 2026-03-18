@@ -1,10 +1,10 @@
 ---
-description: メールの「CC と BCC」セクションに一覧表示されている受信者からのビュー、クリックおよび返信はトラッキングされますか？ - Marketo ドキュメント - 製品ドキュメント
+description: ビュー、クリックおよび返信で CC および BCC 受信者をトラッキングするかどうかを説明します。 複数の受信者のトラッキング動作を把握します。
 title: メールの「CC」および「BCC」セクションに一覧表示されている受信者からの閲覧、クリックおよび返信は追跡されますか？
 exl-id: 9a839c61-7fcc-4a7f-a99e-ec5a4c2cc4f9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '117'
 ht-degree: 68%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: ユーザと管理者の招待 - Marketo ドキュメント - 製品ドキュメント
+description: User Management から Sales Insight アクションにユーザーと管理者を招待する方法を説明します。 メールまたは CSV でユーザーを追加し、チームとMarketo Workspace を割り当てます。
 title: ユーザと管理者の招待
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 100%
+source-wordcount: '207'
+ht-degree: 87%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
-description: Salesforce 診断 - Marketo ドキュメント - 製品ドキュメント
+description: Salesforceの診断と、失敗したデータログに関するエラーメッセージについて説明します。 Diagnostics ページにアクセスし、エラーチートシートを使用してトラブルシューティングを行います。
 title: Salesforce 診断
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1342'
-ht-degree: 49%
+source-wordcount: '1358'
+ht-degree: 48%
 
 ---
 
@@ -63,10 +63,10 @@ ht-degree: 49%
 **発生している内容：** レコードは承認プロセスにあり、承認を所有するユーザーによって承認または拒否されるまで、追加の編集からロックされます。
 **トラブルシューティングの手順：**&#x200B;上記を参照してください。
 
-**エラー：**&#x200B;EXPIRED_ACCESS
-**カテゴリ：**&#x200B;認証
-**メッセージ：**&#x200B;invalid_grant: expired access/refresh token
-**状況：**&#x200B;アクセスまたは更新トークンの期限が切れています。トークンは [&#x200B; [!DNL Salesforce] のセッション設定](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)に基づいて期限切れになります。
+**エラー：**EXPIRED_ACCESS
+**カテゴリ：**認証
+**メッセージ：**invalid_grant: expired access/refresh token
+**状況：**&#x200B;アクセスまたは更新トークンの期限が切れています。トークンは [ [!DNL Salesforce] のセッション設定](https://salesforce.stackexchange.com/questions/10759/invalid-grant-expired-access-refresh-token-error-when-authenticating-access-via)に基づいて期限切れになります。
 **トラブルシューティング手順：**&#x200B;再認証が必要になります。[!DNL Salesforce] 接続を切断し、再接続します。
 
 **エラー：** FAILED_WRITE
@@ -76,7 +76,7 @@ ht-degree: 49%
 **トラブルシューティング手順：**&#x200B;再試行ロジックで処理する必要があります。それでも問題が解決しない場合は、[!DNL Salesforce] の管理者に問い合わせて、問題のあるトリガーのトラブルシューティングを依頼します。
 
 **エラー：** FIELD_CUSTOM_VALIDATION_EXCEPTION
-**カテゴリ：**&#x200B;アクセス/検証
+**カテゴリ：**アクセス/検証
 **メッセージ：**&#x200B;顧客によって異なります。**状況：**&#x200B;オブジェクトのカスタム検証ルールが失敗します。**トラブルシューティング手順：** このエラーを引き起こしているカスタム検証ルールを確認します。これは慣習的な規則なので、エラーは 1 回限りで対処する必要があります。
 
 **エラー：** FIELD_FILTER_VALIDATION_EXCEPTION
@@ -95,13 +95,13 @@ ht-degree: 49%
 **カテゴリ：** 認証
 **メッセージ：** invalid_grant：非アクティブな組織
 **最新情報：** [!DNL Salesforce] 組織がアクティブではなくなりました。
-**トラブルシューティング手順：**&#x200B;[!DNL Salesforce] から切断し、再接続します。
+**トラブルシューティング手順：**[!DNL Salesforce] から切断し、再接続します。
 
-**エラー：**&#x200B;INACTIVE_USER
-**カテゴリ：**&#x200B;認証
-**メッセージ：**&#x200B;invalid_grant: inactive user
-**状況：**&#x200B;[!DNL Salesforce] ユーザがアクティブではなくなりました
-**トラブルシューティング手順：**&#x200B;[!DNL Salesforce] から切断し、再接続します。
+**エラー：**INACTIVE_USER
+**カテゴリ：**認証
+**メッセージ：**invalid_grant: 非アクティブなユーザ
+**状況：**[!DNL Salesforce] ユーザがアクティブではなくなりました
+**トラブルシューティング手順：**[!DNL Salesforce] から切断し、再接続します。
 
 **エラー：** INSERT_UPDATE_DELETE_NOT_ALLOWED_DURING_MAINTENANCE
 **カテゴリ：** 断続
@@ -109,16 +109,16 @@ ht-degree: 49%
 **発生の状況：** インスタンス [!DNL Salesforce] メンテナンスモードになっています。
 **トラブルシューティング手順：**&#x200B;システムメンテナンスが完了するまで待ってから、ログを再試行します。
 
-**エラー：**&#x200B;INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY
-**カテゴリ：**&#x200B;アクセス／検証
-**メッセージ：**&#x200B;insufficient access rights on object id
+**エラー：**INSUFFICIENT_ACCESS_ON_CROSS_REFERENCE_ENTITY
+**カテゴリ：**アクセス／検証
+**メッセージ：**insufficient access rights on object id
 **状況：**&#x200B;タスクの親レコードにアクセスできません。**トラブルシューティングの手順：**&#x200B;上記を参照してください。
 
 **エラー：** INSUFFICIENT_ACCESS_OR_READONLY
 **カテゴリ：** アクセス/検証
 **メッセージ：** オブジェクト ID のアクセス権が不十分です
 **問題：** ユーザーに書き込みアクセス権がないので、最新のアクティビティログで特定のレコードを編集できません。
-**トラブルシューティング手順：**&#x200B;[!DNL Salesforce] でユーザにアクセス権を付与するか、そのユーザのオブジェクトに対する最新のアクティビティログを無効にします。
+**トラブルシューティング手順：**[!DNL Salesforce] でユーザにアクセス権を付与するか、そのユーザのオブジェクトに対する最新のアクティビティログを無効にします。
 
 **エラー：** INVALID_FIELD
 **カテゴリ：** 断続
@@ -129,19 +129,19 @@ ht-degree: 49%
 **エラー：** INVALID_FIELD_FOR_INSERT_UPDATE
 **カテゴリ：** アクセス/検証
 **メッセージ：** フィールドを作成/更新できません：MSE_Replyed__c.このフィールドのセキュリティ設定を確認してください。
-**状況：**&#x200B;最新のアクティビティログトランザクションの実行に必要な Sales Insight Actions カスタムフィールドへの書き込みアクセス権がユーザに与えられていません。チームがパッケージをインストールしたが、ユーザーに対して正しいフィールドを有効にしていない可能性があります。
-**トラブルシューティング手順：**&#x200B;[!DNL Salesforce] 管理者は、カスタムフィールドへのアクセス権を付与するか、最新のアクティビティログを無効にする必要があります。
+**状況：**最新のアクティビティログトランザクションの実行に必要なセールスインサイトアクションカスタムフィールドへの書き込みアクセス権がユーザに与えられていません。チームがパッケージをインストールしたが、ユーザーに対して正しいフィールドを有効にしていない可能性があります。
+**トラブルシューティング手順：**[!DNL Salesforce] 管理者は、カスタムフィールドへのアクセス権を付与するか、最新のアクティビティログを無効にする必要があります。
 
 **エラー：** INVALID_GRANT
 **カテゴリ：** 認証
 **メッセージ：** invalid_grant: ip が制限されています
 **最新情報：** お客様の [!DNL Salesforce] にアクセスしようとしていますが、IP 制限が設定されているため、アクセスできません。
-**トラブルシューティング手順：**&#x200B;[!DNL Salesforce] 管理者がアドビの IP を許可リストに登録する必要があります。IP アドレスを取得するには、サポートに問い合わせる必要があります。
+**トラブルシューティング手順：**[!DNL Salesforce] 管理者がアドビの IP を許可リストに登録する必要があります。IP アドレスを取得するには、サポートに問い合わせる必要があります。
 
 **エラー：** INVALID_TYPE
 **カテゴリ：** アクセス/検証
 **メッセージ：** CreatedDate, （SELECT Id FROM Tasks） FROM Lead WHERE Email=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` type &#39;Lead&#39;はサポートされていません。 カスタムオブジェクトを使用する場合、必ずエンティティ名の後に &#39;__c&#39; を添付してください。Please reference your WSDL or the describe call for the appropriate names
-**状況：**&#x200B;ユーザがアクセスできない Salesforce のオブジェクトタイプをクエリしようとしています。これは、ユーザーがリードオブジェクトへの適切なアクセス権を持っていない可能性が高いです。
+**状況：**ユーザがアクセスできない Salesforce のオブジェクトタイプをクエリしようとしています。これは、ユーザーがリードオブジェクトへの適切なアクセス権を持っていない可能性が高いです。
 **トラブルシューティング手順：** Salesforce のリードオブジェクトに対して読み取りおよび更新アクセス権を付与するか、リードレコードへのメールログと最新のアクティビティのログをオフにします。
 
 **エラー：** QUERY_TIMEOUT
@@ -167,7 +167,7 @@ ht-degree: 49%
 **カテゴリ：** アクセス/検証
 **メッセージ：** 必須フィールドが見つかりません：`[Amount_Committed_Private_Capital__c]`
 **発生している処理：** これは、通常、最新のアクティビティログに対して発生します。 カスタムフィールドは必須として設定されていますが、値が空です。これは、レコードがカスタムフィールドの空の値で作成され、その後必須に設定された場合に発生する可能性があります。カスタムフィールドにタッチしていない場合でも、レコードを更新しようとすると、要件が適用されます。
-**トラブルシューティングの手順：**&#x200B;見つからないフィールドの値を手動で更新します。その後、Sales Insight Actions からのメッセージを再試行できます。
+**トラブルシューティングの手順：**&#x200B;見つからないフィールドの値を手動で更新します。その後、セールスインサイトアクションからのメッセージを再試行できます。
 
 **エラー：** SERVER_UNAVAILABLE
 **カテゴリ：** 断続
@@ -178,7 +178,7 @@ ht-degree: 49%
 **エラー：** TXN_SECURITY_NO_ACCESS
 **カテゴリ：** アクセス/検証
 **メッセージ：** 組織のセキュリティ ポリシーにより、要求された操作は許可されていません。 システム管理者にお問い合わせください。**何が起こっていますか：** 何らかのセキュリティ制限が設定されています – <https://developer.salesforce.com/forums/?id="record> ID を参照してください」
-**トラブルシューティング手順：**&#x200B;[!DNL Salesforce] 管理者に問い合わせて、特定の制限が何であるかを確認します。
+**トラブルシューティング手順：**[!DNL Salesforce] 管理者に問い合わせて、特定の制限が何であるかを確認します。
 
 **エラー：** UNABLE_TO_LOCK_ROW
 **カテゴリ：** 断続
@@ -190,4 +190,4 @@ ht-degree: 49%
 **カテゴリ：** その他
 **メッセージ：** 不明な例外が発生しました
 **発生している問題：** [!DNL Salesforce] で未処理の例外が発生しました。
-**トラブルシューティング手順：**&#x200B;[!DNL Salesforce] でケースを作成し、エラーメッセージに数値をコピーします。これは、[!DNL Salesforce] コードがエラーを適切に処理しないためです。
+**トラブルシューティング手順：**[!DNL Salesforce] でケースを作成し、エラーメッセージに数値をコピーします。これは、[!DNL Salesforce] コードがエラーを適切に処理しないためです。
