@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359514
-description: スニペットを複製する - Marketo ドキュメント - 製品ドキュメント
+description: スニペットを複製して、変更可能なコピーを作成する方法を説明します。 Design Studio とスニペットアクションを使用して、メールやランディングページ用のコンテンツを複製し、カスタマイズします。
 title: スニペットを複製する
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '91'
+ht-degree: 68%
 
 ---
 

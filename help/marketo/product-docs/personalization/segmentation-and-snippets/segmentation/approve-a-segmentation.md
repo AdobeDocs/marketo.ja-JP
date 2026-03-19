@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359457
-description: セグメント化の承認 - Marketo ドキュメント - 製品ドキュメント
+description: 動的コンテンツやレポートに使用できるようにセグメント化を承認する方法を説明します。 セグメントルールを定義した後、データベースアクションとセグメント化アクションを使用して承認します。
 title: セグメント化の承認
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 86%
+source-wordcount: '249'
+ht-degree: 76%
 
 ---
 

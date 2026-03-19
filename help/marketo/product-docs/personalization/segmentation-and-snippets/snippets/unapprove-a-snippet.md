@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359516
-description: スニペットの承認を取り消す - Marketo ドキュメント - 製品ドキュメント
+description: スニペットの承認を取り消して、変更を加えたり削除したりする方法を説明します。 アセットの関連付けを削除してから、スニペットアクションを使用して承認を取り消し、ドラフトステータスに設定します。
 title: スニペットの承認を取り消す
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '99'
+ht-degree: 73%
 
 ---
 

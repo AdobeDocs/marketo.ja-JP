@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359496
-description: スニペットへのコンテンツの追加 - Marketo ドキュメント - 製品ドキュメント
+description: スニペットにトークン、画像、ファイル、リッチテキストを追加する方法を説明します。 Design Studio のスニペットエディターを使用して、トークン、画像/ファイルおよびテキスト要素を追加します。
 title: スニペットへのコンテンツの追加
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '220'
+ht-degree: 87%
 
 ---
 

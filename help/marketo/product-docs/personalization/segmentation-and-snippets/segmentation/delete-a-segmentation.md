@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359510
-description: セグメント化の削除 - Marketo ドキュメント - 製品ドキュメント
+description: 不要になったセグメント化を削除する方法を説明します。 アセットの関連付けを削除し、セグメント化の承認を取り消してから、セグメント化アクションを使用して削除してください。
 title: セグメント化の削除
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '119'
+ht-degree: 81%
 
 ---
 

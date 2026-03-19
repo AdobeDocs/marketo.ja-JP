@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359474
-description: セグメント化を編集する - Marketo ドキュメント - 製品ドキュメント
+description: ドラフトを作成し、セグメントやルールを変更して、セグメント化を編集する方法を説明します。 セグメントを追加、編集または削除し、ドラフトでスマートリストルールを定義します。
 title: セグメント化を編集する
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '217'
+ht-degree: 87%
 
 ---
 

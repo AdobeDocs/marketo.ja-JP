@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095644
-description: ドラフトなしのスニペットを承認する - Marketo ドキュメント - 製品ドキュメント
+description: ドラフトなしのオプションを使用してスニペットを承認する方法を説明します。 承認時にすべての更新またはドラフトを作成を選択して、スニペットを使用するアセットの更新方法を制御します。
 title: ドラフトなしのスニペットを承認する
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 97%
+source-wordcount: '240'
+ht-degree: 86%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 97%
 
 >[!CAUTION]
 >
->この機能は、スニペット承認のワークフローで時間を節約するために用意されています。制限事項があるので、注意してください。詳しくは [&#x200B; こちらの記事 &#x200B;](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} をご覧ください。
+>この機能は、スニペット承認のワークフローで時間を節約するために用意されています。制限事項があるので、注意してください。詳しくは [ こちらの記事 ](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} をご覧ください。
 
 >[!MORELIKETHIS]
 >

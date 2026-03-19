@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359447
-description: セグメント化の作成 - Marketo ドキュメント - 製品ドキュメント
+description: レポート用および動的コンテンツ用のユーザーをグループ化するセグメント化の作成方法を説明します。 データベースにセグメントを追加し、順序を設定してから、セグメントルールを定義します。
 title: セグメント化の作成
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 100%
+source-wordcount: '240'
+ht-degree: 90%
 
 ---
 

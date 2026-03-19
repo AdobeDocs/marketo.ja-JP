@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359463
-description: スニペットの承認 - Marketo ドキュメント - 製品ドキュメント
+description: メールやランディングページで使用できるようにスニペットを承認する方法を説明します。 Design Studio とスニペットアクションを使用して、ステータスを「ドラフト」から「承認済み」に変更します。
 title: スニペットの承認
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 100%
+source-wordcount: '77'
+ht-degree: 62%
 
 ---
 

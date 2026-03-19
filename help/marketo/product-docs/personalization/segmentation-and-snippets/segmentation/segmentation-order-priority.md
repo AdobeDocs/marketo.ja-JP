@@ -1,24 +1,24 @@
 ---
 unique-page-id: 2359500
-description: セグメント化の順序の優先度 - Marketo ドキュメント - 製品ドキュメント
+description: セグメント化の優先順位と、その優先順位によってユーザーが属するセグメントが決定される仕組みについて説明します。 データベースのセグメントの順序を編集して、セグメントの評価を制御します。
 title: セグメント化の順序の優先度
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 100%
+source-wordcount: '144'
+ht-degree: 82%
 
 ---
 
 # セグメント化の順序の優先度 {#segmentation-order-priority}
 
-**順番**&#x200B;が、セグメント化での顧客の評価の優先度をどのように設定するかを理解することが重要です。
+**順序**&#x200B;が、セグメント化での顧客の評価の優先度をどのように設定するかを理解することが重要です。
 
 >[!PREREQUISITES]
 >
 >[セグメント化の作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->>[セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>[セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
