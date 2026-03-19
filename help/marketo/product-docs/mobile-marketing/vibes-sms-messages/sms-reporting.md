@@ -1,12 +1,12 @@
 ---
-description: SMS レポート - Marketo ドキュメント – 製品ドキュメント
+description: SMS メッセージダッシュボードとレポートについて説明します。 SMS キャンペーンの送信済み、配信済み、バウンス率およびアクティビティの推移を表示します。
 title: SMS レポート
 feature: Mobile Marketing
 exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 24%
+source-wordcount: '149'
+ht-degree: 22%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11376159
-description: プッシュ通知とアプリ内メッセージを作成する前に — Marketo ドキュメント — 製品ドキュメント
+description: プッシュおよびアプリ内メッセージを作成する前に設定すべき設定について説明します。 管理者および開発者の手順、SDK、カスタムイベントガイダンスを取得します。
 title: プッシュ通知およびアプリ内メッセージを作成する前に
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 100%
+source-wordcount: '345'
+ht-degree: 93%
 
 ---
 

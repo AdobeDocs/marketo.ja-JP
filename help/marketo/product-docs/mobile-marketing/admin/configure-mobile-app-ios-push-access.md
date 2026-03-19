@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512434
-description: モバイルアプリ iOS プッシュアクセスの設定 - Marketo ドキュメント - 製品ドキュメント
+description: モバイルアプリにiOS プッシュアクセスを設定する方法を説明します。 管理者で開発者から証明書とパスワードを追加します。
 title: モバイルアプリ iOS プッシュアクセスの設定
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 100%
+source-wordcount: '151'
+ht-degree: 86%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >モバイルアプリ開発者の&#x200B;**[!UICONTROL 証明書]**&#x200B;と&#x200B;**[!UICONTROL パスワード]**&#x200B;が必要です。開発者が Apple Developer Member Center にログインし、アプリのプッシュ通知証明書を設定してダウンロード、コンテンツを書き出すと、これらが送られます。開発者は、書き出しをおこなう際にパスワードを設定します。**重要**：証明書は、使用している環境（サンドボックスまたは実稼動）に適したものである必要があります。Marketo 管理者またはモバイルアプリ開発者に確認してください。
+   >モバイルアプリ開発者の&#x200B;**[!UICONTROL 証明書]**&#x200B;と&#x200B;**[!UICONTROL パスワード]**&#x200B;が必要です。開発者が Apple Developer Member Center にログインし、アプリのプッシュ通知証明書を設定してダウンロード、コンテンツを書き出すと、これらが送られます。開発者は、書き出しをおこなう際にパスワードを設定します。**重要**：証明書は、使用している環境（サンドボックスまたは本番稼働）に適したものである必要があります。Marketo 管理者またはモバイルアプリ開発者に確認してください。
 
 1. [!UICONTROL 証明書]を選択し、[!UICONTROL パスワード]を入力して、「**[!UICONTROL 保存]**」をクリックします。
 

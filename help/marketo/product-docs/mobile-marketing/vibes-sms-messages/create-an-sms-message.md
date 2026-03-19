@@ -1,12 +1,12 @@
 ---
-description: SMS メッセージの作成 – Marketo ドキュメント – 製品ドキュメント
+description: SMS メッセージの作成方法を説明します。 エディターでテキスト、トークン、リンクを追加し、文字制限とコンプライアンス要件に従います。
 title: SMS メッセージの作成
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '481'
-ht-degree: 16%
+source-wordcount: '495'
+ht-degree: 15%
 
 ---
 
@@ -16,13 +16,13 @@ SMS メッセージの作成方法は次のとおりです。
 
 >[!AVAILABILITY]
 >
->この機能は、Adobe Marketo Engage アカウントのアドオンとして使用できます。適切にプロビジョニングするには、Adobe経由で購入する必要があります。 詳しくは、Adobe アカウントチーム（担当のアカウントマネージャー）にお問い合わせください。 Marketo Vibes SMS のネイティブ統合は、米国とカナダで利用できます。 他の国では、Marketoの Webhook を介した接続は、[Vibes に直接連絡 &#x200B;](https://www.vibes.com/talk-to-sales) することで利用できます。
+>この機能は、Adobe Marketo Engage アカウントのアドオンとして使用できます。適切にプロビジョニングするには、Adobe経由で購入する必要があります。 詳しくは、Adobe アカウントチーム（担当のアカウントマネージャー）にお問い合わせください。 Marketo Vibes SMS のネイティブ統合は、米国とカナダで利用できます。 他の国では、Marketoの Webhook を介した接続は、[Vibes に直接連絡 ](https://www.vibes.com/talk-to-sales) することで利用できます。
 
 >[!PREREQUISITES]
 >
->[LaunchPoint サービスとしての Vibes の追加 &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
+>[LaunchPoint サービスとしての Vibes の追加 ](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/create-an-sms-message-1.png)
 

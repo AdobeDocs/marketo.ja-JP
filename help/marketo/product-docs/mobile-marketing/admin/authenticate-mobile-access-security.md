@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096158
-description: モバイルアクセスセキュリティの認証 - Marketo ドキュメント - 製品ドキュメント
+description: モバイルアプリのセキュリティ用にアクセスキーとアクセス秘密鍵を有効にする方法を説明します。 IT 部門にコードを提供し、アプリのログインを検証します。
 title: モバイルアクセスセキュリティの認証
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 100%
+source-wordcount: '158'
+ht-degree: 86%
 
 ---
 

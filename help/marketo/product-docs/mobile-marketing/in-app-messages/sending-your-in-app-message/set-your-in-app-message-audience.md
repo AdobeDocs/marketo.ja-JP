@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10617431
-description: アプリ内メッセージオーディエンスの設定 - Marketo ドキュメント - 製品ドキュメント
+description: アプリ内メッセージオーディエンスを設定する方法を説明します。 スマートリストを編集し、アプリとトリガーを選択し、表示制限を設定して、フィルターを追加します。
 title: アプリ内メッセージオーディエンスの設定
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 100%
+source-wordcount: '306'
+ht-degree: 92%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10100636
-description: アプリ内メッセージ画像の追加 - Marketo ドキュメント - 製品ドキュメント
+description: アプリ内メッセージに画像を追加してカスタマイズする方法を説明します。 Design Studio から選択し、フィット、境界、タップ操作をプラットフォームごとに設定します。
 title: アプリ内メッセージ画像の追加
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 100%
+source-wordcount: '359'
+ht-degree: 93%
 
 ---
 

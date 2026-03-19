@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512432
-description: モバイルアプリ Android プッシュアクセスの設定 - Marketo ドキュメント - 製品ドキュメント
+description: モバイルアプリにAndroid プッシュアクセスを設定する方法を説明します。 管理者で、開発者から Server API キーとプロジェクト番号を入力します。
 title: モバイルアプリ Android プッシュアクセスの設定
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 79%
 
 ---
 

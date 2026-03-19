@@ -1,13 +1,13 @@
 ---
-description: スマートリストのトリガーとフィルターでの Vibes SMS メッセージの使用 - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンで Vibes SMS トリガーとフィルターを使用する方法を説明します。 購読とリストメンバーシップで送信またはフィルターするタイミングを定義します。
 title: スマートリストトリガーとフィルターでの Vibes SMS メッセージの使用
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '411'
-ht-degree: 100%
+source-wordcount: '420'
+ht-degree: 94%
 
 ---
 

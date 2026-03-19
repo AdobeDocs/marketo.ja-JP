@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10100642
-description: アプリ内メッセージテキストの作成 - Marketo ドキュメント - 製品ドキュメント
+description: アプリ内メッセージのテキストとスタイルを作成する方法を説明します。 メインおよびサポートするテキスト、カラー、サイズ、配置、トークン、タップアクションを編集します。
 title: アプリ内メッセージテキストの作成
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 100%
+source-wordcount: '382'
+ht-degree: 94%
 
 ---
 

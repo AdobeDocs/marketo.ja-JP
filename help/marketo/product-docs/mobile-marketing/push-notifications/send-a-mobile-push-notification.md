@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512457
-description: モバイルプッシュ通知の送信 - Marketo ドキュメント - 製品ドキュメント
+description: モバイルプッシュ通知を送信する方法を説明します。 スマートリストとフローを使用したスマートキャンペーンを使用して、オーディエンスに対するプッシュをスケジュールします。
 title: モバイルプッシュ通知の送信
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 100%
+source-wordcount: '113'
+ht-degree: 78%
 
 ---
 

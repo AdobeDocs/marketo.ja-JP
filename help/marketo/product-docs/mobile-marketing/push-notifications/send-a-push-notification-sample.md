@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783141
-description: プッシュ通知サンプルの送信 - Marketo ドキュメント - 製品ドキュメント
+description: プッシュ通知サンプルを送信して、動作を確認する方法を説明します。 テストデバイスを選択するか追加して、エディターからサンプルを送信します。
 title: プッシュ通知サンプルの送信
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 100%
+source-wordcount: '287'
+ht-degree: 90%
 
 ---
 

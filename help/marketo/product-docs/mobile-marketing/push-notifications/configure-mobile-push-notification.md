@@ -1,12 +1,12 @@
 ---
-description: モバイルプッシュ通知の設定 - Marketo ドキュメント - 製品ドキュメント
+description: モバイルプッシュ通知を設定する方法を説明します。 アプリ、メッセージテキスト、タップ操作、ディープリンクを設定し、送信を承認します。
 title: モバイルプッシュ通知の設定
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 74%
+source-wordcount: '476'
+ht-degree: 71%
 
 ---
 

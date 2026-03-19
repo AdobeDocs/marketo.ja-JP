@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783146
-description: 新しいテストデバイスの追加 - Marketo ドキュメント - 製品ドキュメント
+description: 新しいプッシュ通知用テストデバイスを追加する方法を説明します。 URL または QR コードを使用して、デバイスを接続し、テストプッシュを送信します。
 title: 新しいテストデバイスの追加
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 100%
+source-wordcount: '146'
+ht-degree: 82%
 
 ---
 

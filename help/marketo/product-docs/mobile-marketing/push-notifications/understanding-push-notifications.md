@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511518
-description: プッシュ通知について - Marketo ドキュメント - 製品ドキュメント
+description: Marketoのプッシュ通知について説明します。 管理者と開発者の設定を理解し、スマートキャンペーンを使用して作成、設定および送信します。
 title: プッシュ通知について
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 100%
+source-wordcount: '226'
+ht-degree: 91%
 
 ---
 

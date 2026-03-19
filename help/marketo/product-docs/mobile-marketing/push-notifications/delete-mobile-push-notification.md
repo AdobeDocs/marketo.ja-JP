@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512463
-description: モバイルプッシュ通知の削除 - Marketo ドキュメント - 製品ドキュメント
+description: モバイルプッシュ通知を削除し、他のアセットで使用されていない場合に削除する方法を説明します。
 title: モバイルプッシュ通知の削除
 exl-id: 1f9d523e-b7aa-4880-8249-48cce92751aa
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 100%
+source-wordcount: '78'
+ht-degree: 75%
 
 ---
 

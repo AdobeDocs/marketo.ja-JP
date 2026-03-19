@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10092730
-description: プッシュ通知のプレビュー - Marketo ドキュメント - 製品ドキュメント
+description: AndroidとiOSでプッシュ通知をプレビューする方法を説明します。 ホーム画面、ロック画面、通知センターでの表示を確認します。
 title: プッシュ通知のプレビュー
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 100%
+source-wordcount: '260'
+ht-degree: 91%
 
 ---
 

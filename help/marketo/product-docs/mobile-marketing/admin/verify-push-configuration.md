@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512445
-description: プッシュ設定の検証 - Marketo ドキュメント - 製品ドキュメント
+description: モバイルアプリが同期されるようにプッシュ設定を検証する方法を説明します。 管理でプラットフォームを確認し、プッシュ通知の送信を開始します。
 title: プッシュ設定の検証
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 100%
+source-wordcount: '92'
+ht-degree: 77%
 
 ---
 

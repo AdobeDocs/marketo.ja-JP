@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512451
-description: プッシュ通知の作成 - Marketo ドキュメント - 製品ドキュメント
+description: プッシュ通知を作成する方法を説明します。 プログラムのローカルアセットとして追加し、モバイルアプリ用に設定してドレスアップします。
 title: プッシュ通知の作成
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 77%
 
 ---
 

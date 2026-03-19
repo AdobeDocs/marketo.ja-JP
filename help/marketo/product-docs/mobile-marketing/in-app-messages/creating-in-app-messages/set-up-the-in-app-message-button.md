@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10100644
-description: アプリ内メッセージボタンの設定 - Marketo ドキュメント - 製品ドキュメント
+description: アプリ内メッセージボタンを設定する方法について説明します。 AppleとAndroidのカラー、シェイプ、カスタム画像、フォントおよびタップアクションを設定します。
 title: アプリ内メッセージのボタンの設定
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 100%
+source-wordcount: '275'
+ht-degree: 92%
 
 ---
 

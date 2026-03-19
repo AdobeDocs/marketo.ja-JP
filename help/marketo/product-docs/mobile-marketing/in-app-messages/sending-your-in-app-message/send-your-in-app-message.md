@@ -1,12 +1,12 @@
 ---
-description: アプリ内メッセージの送信 - Marketo ドキュメント - 製品ドキュメント
+description: アプリ内メッセージの送信方法を説明します。 プログラムを作成し、Campaign コントロールパネルを使用してオーディエンスとメッセージを設定したあと、ローンチを承認します。
 title: アプリ内メッセージの送信
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 100%
+source-wordcount: '171'
+ht-degree: 86%
 
 ---
 

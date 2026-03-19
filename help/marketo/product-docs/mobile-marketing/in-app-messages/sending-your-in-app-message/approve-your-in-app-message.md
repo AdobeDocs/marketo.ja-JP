@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10617440
-description: アプリ内メッセージの承認 - Marketo ドキュメント - 製品ドキュメント
+description: アプリ内メッセージを承認して起動する方法を説明します。 アプリ内ダッシュボードを使用して、プログラムを一時停止、再開、または停止し、パフォーマンスを監視します。
 title: アプリ内メッセージの承認
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 100%
+source-wordcount: '335'
+ht-degree: 93%
 
 ---
 

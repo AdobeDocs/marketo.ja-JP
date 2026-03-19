@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10912178
-description: 「閉じる」ボタンを設定してメッセージを承認する - Marketo ドキュメント - 製品ドキュメント
+description: 解除ボタンを設定し、アプリ内メッセージを承認する方法を説明します。 カラーを設定、デザインを行い、アクションをタップした後、プレビューしてローンチを承認します。
 title: 却下ボタンの設定とメッセージの承認
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 100%
+source-wordcount: '359'
+ht-degree: 93%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10617434
-description: アプリ内メッセージの選択 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムのアプリ内メッセージを選択する方法を説明します。 ドロップダウンから選択し、編集、プレビューまたはスケジュールの続行を行います。
 title: アプリ内メッセージの選択
 exl-id: 3d705364-ea20-4ffd-8eda-10ec5f87c63d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 100%
+source-wordcount: '126'
+ht-degree: 83%
 
 ---
 

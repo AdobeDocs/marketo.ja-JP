@@ -1,26 +1,26 @@
 ---
-description: Smart Campaign での SMS オプションの使用 – Marketo ドキュメント – 製品ドキュメント
+description: スマートキャンペーンでの SMS トリガー、フィルター、フロー手順について説明します。 Vibes SMS アクティビティおよびリストを使用してキャンペーンをターゲットに設定しトリガーします。
 title: スマートキャンペーンでの SMS オプションの使用
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 49%
+source-wordcount: '415'
+ht-degree: 47%
 
 ---
 
 # スマートキャンペーンでの SMS オプションの使用 {#using-sms-options-in-a-smart-campaign}
 
-[SMS メッセージを作成 &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} した後は、スマートキャンペーン内でスマートリストのトリガーとフィルターを使用して、メリットを享受できます。
+[SMS メッセージを作成 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"} した後は、スマートキャンペーン内でスマートリストのトリガーとフィルターを使用して、メリットを享受できます。
 
 >[!NOTE]
 >
->SMS メッセージを送信する場合は、[&#x200B; 特定の記事 &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} を用意しています。
+>SMS メッセージを送信する場合は、[ 特定の記事 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} を用意しています。
 
 >[!PREREQUISITES]
 >
->SMS トリガー/フィルターは、[Vibes サービスが有効 &#x200B;](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"} になっている場合にのみ表示されます。
+>SMS トリガー/フィルターは、[Vibes サービスが有効 ](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"} になっている場合にのみ表示されます。
 
 ## SMS トリガー {#sms-triggers}
 
@@ -86,6 +86,6 @@ SMS フローステップは 3 つから選択できます。
 
 >[!MORELIKETHIS]
 >
->* [SMS メッセージの送信 &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [SMS メッセージの送信 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
 >* [スマートキャンペーン用スマートリストの定義 |トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
 >* [スマートキャンペーン用スマートリストの定義 | バッチ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

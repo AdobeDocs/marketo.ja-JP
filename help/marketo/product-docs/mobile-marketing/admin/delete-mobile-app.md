@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512442
-description: モバイルアプリの削除 - Marketo ドキュメント - 製品ドキュメント
+description: Marketoからモバイルアプリを削除する方法を説明します。 アプリを削除すると、プッシュ通知を送信できなくなります。
 title: モバイルアプリの削除
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 100%
+source-wordcount: '62'
+ht-degree: 64%
 
 ---
 

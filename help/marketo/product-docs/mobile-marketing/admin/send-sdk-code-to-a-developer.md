@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512448
-description: デベロッパーに SDK コードを送信する - Marketo ドキュメント - 製品ドキュメント
+description: SDK コードを開発者に送信する方法を説明します。 モバイルアプリアクションを使用して、AndroidとiOSを設定するためのコードスニペットをメールで送信します。
 title: 開発者への SDK コードの送信
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 100%
+source-wordcount: '130'
+ht-degree: 82%
 
 ---
 

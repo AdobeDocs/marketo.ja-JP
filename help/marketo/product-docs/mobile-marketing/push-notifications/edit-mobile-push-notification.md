@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512460
-description: モバイルプッシュ通知の編集 - Marketo ドキュメント - 製品ドキュメント
+description: モバイルプッシュ通知の編集方法を説明します。 マーケティングアクティビティを開き、プッシュアセットを選択し、「ドラフトを編集」を使用して変更を行います。
 title: モバイルプッシュ通知の編集
 exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 100%
+source-wordcount: '51'
+ht-degree: 56%
 
 ---
 

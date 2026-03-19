@@ -1,13 +1,13 @@
 ---
-description: SMS のフローステップの追加 - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーンに SMS フローステップを追加する方法を説明します。 「SMS メッセージの送信」、「Vibes リストの購読」または「Vibes リストの購読解除」を使用します。
 title: SMS のフローステップの追加
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '377'
-ht-degree: 43%
+source-wordcount: '390'
+ht-degree: 39%
 
 ---
 

@@ -1,18 +1,18 @@
 ---
-description: SMS メッセージの送信 – Marketo ドキュメント – 製品ドキュメント
+description: バッチまたはトリガーキャンペーンを使用して SMS メッセージを送信する方法について説明します。 スマートリストを定義し、SMS フローステップを送信を追加してから、スケジュールまたはアクティブ化します。
 title: SMS メッセージの送信
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 11%
+source-wordcount: '337'
+ht-degree: 10%
 
 ---
 
 # SMS メッセージの送信 {#send-a-vibes-sms-message}
 
-[SMS メッセージが作成されました &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}。次に送信します。 バッチまたはトリガーキャンペーンを介して送信できます。
+[SMS メッセージが作成されました ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}。次に送信します。 バッチまたはトリガーキャンペーンを介して送信できます。
 
 >[!NOTE]
 >
@@ -76,5 +76,5 @@ ht-degree: 11%
 
 >[!MORELIKETHIS]
 >
->* [Vibes メッセージの作成 &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
->* [&#x200B; スマートキャンペーンでの SMS オプションの使用 &#x200B;](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}
+>* [Vibes メッセージの作成 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
+>* [ スマートキャンペーンでの SMS オプションの使用 ](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}
