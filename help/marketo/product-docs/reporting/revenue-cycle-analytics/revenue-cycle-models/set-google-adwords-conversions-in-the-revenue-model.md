@@ -1,6 +1,6 @@
 ---
 unique-page-id: 6095029
-description: Set dnl google を使用して、Marketo Engageの売上高モデルで [!dnl google adwords] コンバージョンを設定する方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: Set dnl google を使用して、Marketo Engageの売上高モデルで [ !dnl google adwords] コンバージョンを設定する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: 収益モデルでの  [!DNL Google AdWords]  コンバージョンの設定
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
@@ -29,7 +29,7 @@ ht-degree: 94%
 
 >[!PREREQUISITES]
 >
->[ [!DNL Google AdWords]  を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
+>[&#x200B; [!DNL Google AdWords]  を LaunchPoint サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
 
 ## [!DNL AdWords] コンバージョンの使用 {#use-adwords-conversion}
 

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504923
-description: Marketo Engageの管理者アカウントを使用して、売上高モデルで [!dnl google adwords] コンバージョンを設定する方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageの管理者アカウントを使用して、売上高モデルで [ !dnl google adwords] コンバージョンを設定する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: マネージャーアカウントを使用した収益モデルでの  [!DNL Google AdWords]  コンバージョンの設定
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics

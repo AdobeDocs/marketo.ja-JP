@@ -60,7 +60,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 ## レポートのエクスポート {#export-a-report}
 
-レポート全体を書き出す場合、書き出しのオプションはPDFと PPT です。 データを.XLS または.CSV 形式で書き出す必要がある場合は、個々のビジュアライゼーションを書き出すことで行うことができます（[ 以下を参照 ](#export-a-visualization)）。
+レポート全体を書き出す場合、書き出しのオプションはPDFと PPT です。 データを.XLS または.CSV 形式で書き出す必要がある場合は、個々のビジュアライゼーションを書き出すことで行うことができます（[&#x200B; 以下を参照 &#x200B;](#export-a-visualization)）。
 
 >[!BEGINTABS]
 
@@ -236,7 +236,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 ## 注意事項 {#note}
 
-* カスタムレポートは、以下の [ 新しいエクスペリエンスの学習 ](#learning-the-new-experience) の節で説明されている主な動作の変更を使用して、従来のエクスペリエンスから新しいエクスペリエンスに複製されました。
+* カスタムレポートは、以下の [&#x200B; 新しいエクスペリエンスの学習 &#x200B;](#learning-the-new-experience) の節で説明されている主な動作の変更を使用して、従来のエクスペリエンスから新しいエクスペリエンスに複製されました。
 * 従来のエクスペリエンスのダッシュボードは転送できず、新しいエクスペリエンスで再作成する必要があります。 これらは、新しいエクスペリエンスのレポートとして再作成でき、新しいエクスペリエンスのフィルターが可能な値を自動的に取り込みます。
 
   >[!NOTE]
@@ -259,7 +259,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 新しいビジュアライゼーションエクスペリエンスは、組み込みのPower BI サービスを通じて提供されます。
 
-ビジュアライゼーションエクスペリエンスのクイックチュートリアルについては、Microsoft[Power BIでビジュアルを使用 ](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} ドキュメントを参照してください。 Marketo Engageでは、これらの機能のすべてが表示されるわけではありません。
+ビジュアライゼーションエクスペリエンスのクイックチュートリアルについては、Microsoft[Power BIでビジュアルを使用 &#x200B;](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} ドキュメントを参照してください。 Marketo Engageでは、これらの機能のすべてが表示されるわけではありません。
 
 ### 主要なエクスペリエンスの変更点 {#notable-experience-changes}
 
@@ -279,4 +279,4 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 >[!MORELIKETHIS]
 >
->[ 指標とディメンション ](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
+>[&#x200B; 指標とディメンション &#x200B;](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
