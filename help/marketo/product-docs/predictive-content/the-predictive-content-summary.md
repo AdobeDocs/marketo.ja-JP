@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384634
-description: 予測コンテンツの概要 - Marketo ドキュメント - 製品ドキュメント
+description: 予測コンテンツ概要ダッシュボードとそのテーブル、グラフ、主要指標について説明します。 上位コンテンツ、コンバージョン率、トレンドおよびカテゴリエンゲージメントを表示して、レコメンデーションを最適化します。
 title: 予測コンテンツの概要
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 87%
 
 ---
 

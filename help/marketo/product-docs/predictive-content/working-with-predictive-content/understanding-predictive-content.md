@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384665
-description: 予測コンテンツについて - Marketo ドキュメント - 製品ドキュメント
+description: 承認済みの予測コンテンツタイトル、有効なソース、クリックおよびコンバージョンデータについて説明します。 フィルターと日付を使用して、web とメールでのレコメンデーションのパフォーマンスを比較します。
 title: 予測コンテンツについて
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 100%
+source-wordcount: '323'
+ht-degree: 92%
 
 ---
 

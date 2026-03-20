@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385579
-description: コンテンツパターンの作成 - Marketo ドキュメント - 製品ドキュメント
+description: 予測コンテンツがHTML ページ訪問者の表示またはクリックを自動検出するように URL パターンを定義する方法を説明します。 コンテンツ設定の URL パターンにパスとカテゴリを追加します。
 title: コンテンツパターンの作成
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 100%
+source-wordcount: '385'
+ht-degree: 93%
 
 ---
 

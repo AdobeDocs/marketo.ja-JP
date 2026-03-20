@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384653
-description: コンテンツの編集 - Marketo ドキュメント - 製品ドキュメント
+description: タイトル、URL、カテゴリ、予測承認のすべてのコンテンツリストを編集する方法を説明します。
 title: コンテンツの編集
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 100%
+source-wordcount: '109'
+ht-degree: 87%
 
 ---
 

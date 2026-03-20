@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384659
-description: コンテンツの削除 - Marketo ドキュメント - 製品ドキュメント
+description: 追跡する必要がなくなったコンテンツを、すべてのコンテンツページから削除する方法を説明します。 コンテンツアクションを使用してコンテンツを削除し、リストを最新の状態に保ちます。
 title: コンテンツの削除
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 100%
+source-wordcount: '72'
+ht-degree: 61%
 
 ---
 

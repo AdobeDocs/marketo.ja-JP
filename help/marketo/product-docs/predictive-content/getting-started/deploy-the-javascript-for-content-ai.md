@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385053
-description: Content-AI 用の JavaScript のデプロイ - Marketo ドキュメント - 製品ドキュメント
+description: 予測コンテンツ用の RTP Web Personalization タグを生成して配置する方法を説明します。 ページヘッダーにコピーし、カバレッジを確認し、切り替えがオンのままであることを確認します。
 title: Content-AI 用の JavaScript のデプロイ
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 100%
+source-wordcount: '158'
+ht-degree: 82%
 
 ---
 

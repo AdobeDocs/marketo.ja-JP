@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385057
-description: カテゴリの設定 - Marketo ドキュメント - 製品ドキュメント
+description: 予測コンテンツでカテゴリを設定して、web またはメールでの予測結果をグループ化します。 フィルタリングと検索を容易にするカテゴリタグをコンテンツ設定で作成します。
 title: カテゴリの設定
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 100%
+source-wordcount: '169'
+ht-degree: 84%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514956
-description: Web リッチメディアの予測コンテンツを有効にする - Marketo ドキュメント - 製品ドキュメント
+description: サイト上で Web リッチメディアテンプレートの予測コンテンツを有効にする方法を説明します。 タイトルを個別にまたは一括でオンにしてから、開発者向けドキュメントに従ってJavaScriptを埋め込み、カスタマイズします。
 title: Web リッチメディアの予測コンテンツの有効化
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '307'
-ht-degree: 100%
+source-wordcount: '326'
+ht-degree: 90%
 
 ---
 

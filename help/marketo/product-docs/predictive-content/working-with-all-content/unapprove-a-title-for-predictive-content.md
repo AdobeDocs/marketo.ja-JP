@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384663
-description: 予測コンテンツのタイトルの承認取消 - Marketo ドキュメント - 製品ドキュメント
+description: すべてのコンテンツページまたはコンテンツを編集ポップアップから予測コンテンツのタイトルを未承認にする方法を説明します。 必要に応じて、予測コンテンツ ページからタイトルを削除します。
 title: 予測コンテンツのタイトルの承認取消
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 100%
+source-wordcount: '154'
+ht-degree: 81%
 
 ---
 

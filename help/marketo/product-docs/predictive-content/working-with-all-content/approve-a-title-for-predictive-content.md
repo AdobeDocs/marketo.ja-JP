@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384661
-description: 予測コンテンツのタイトルの承認 - Marketo ドキュメント - 製品ドキュメント
+description: すべてのコンテンツページまたはコンテンツを編集ポップアップから予測コンテンツのタイトルを承認する方法を説明します。 レコメンデーション用に、予測コンテンツ ページに承認済みコンテンツを追加します。
 title: 予測コンテンツのタイトルの承認
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 100%
+source-wordcount: '166'
+ht-degree: 83%
 
 ---
 

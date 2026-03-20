@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745750
-description: アルゴリズムの目標設定 - Marketo ドキュメント - 製品ドキュメント
+description: コンテンツ設定で予測コンテンツアルゴリズムの目標をクリック数またはコンバージョン数に設定する方法を説明します。 AI をビジネス目標に合わせて調整し、コンテンツのパフォーマンスを最大化します。
 title: アルゴリズムの目標設定
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 78%
 
 ---
 

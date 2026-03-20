@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720108
-description: コンテンツレコメンデーションバーを有効にする - Marketo ドキュメント - 製品ドキュメント
+description: 各 URL の予測分析を使用して、コンテンツ推奨バーを有効にし、スタイルを設定する方法を説明します。 コンテンツ設定を使用して、ページのオン/オフを切り替え、カラーとパスをカスタマイズします。
 title: コンテンツレコメンデーションバーを有効にする
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 100%
+source-wordcount: '341'
+ht-degree: 91%
 
 ---
 
