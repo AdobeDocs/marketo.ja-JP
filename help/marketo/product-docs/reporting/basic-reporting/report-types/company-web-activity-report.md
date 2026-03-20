@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360005
-description: 会社の web アクティビティレポート - Marketo ドキュメント - 製品ドキュメント
+description: Web サイトにアクセスしている会社を会社別にグループ化して示す、会社の web アクティビティレポートについて説明します。 既知または匿名の訪問者を表示し、ページビュー、人物および地理的な場所を追跡します。
 title: 会社の web アクティビティレポート
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 100%
+source-wordcount: '278'
+ht-degree: 89%
 
 ---
 

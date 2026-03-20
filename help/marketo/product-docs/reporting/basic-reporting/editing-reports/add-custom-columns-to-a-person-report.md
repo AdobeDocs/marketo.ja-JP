@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360201
-description: リードレポートにカスタム列を追加する - Marketo ドキュメント - 製品ドキュメント
+description: スマートリストをフィルターとして使用し、カスタムカラムを人物レポートに追加する方法を説明します。 「設定」タブでカスタム列をドラッグして、追加の指標でレポートを強化します。
 title: リードレポートにカスタム列を追加する
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 100%
+source-wordcount: '114'
+ht-degree: 75%
 
 ---
 

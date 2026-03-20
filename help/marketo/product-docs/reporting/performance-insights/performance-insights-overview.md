@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979006
-description: パフォーマンスインサイトの概要 - Marketo ドキュメント - 製品ドキュメント
+description: チャネルミックスを最適化し、一貫した勝者戦略の長期的なトレンドを明らかにするのに役立つパフォーマンスインサイトについて説明します。 貢献度やトレンドを分析し、データを PowerPoint または Excel にエクスポートします。
 title: パフォーマンスインサイトの概要
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 100%
+source-wordcount: '254'
+ht-degree: 89%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360399
-description: プログラムアナライザーの作成 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Engageでプログラムアナライザーを作成する方法について説明します。 このガイドを使用して、次の手順を完了します。
 title: プログラムアナライザーの作成
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 100%
+source-wordcount: '304'
+ht-degree: 92%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359963
-description: プログラムでのレポートの作成 - Marketo ドキュメント - 製品ドキュメント
+description: プログラム内でレポートを作成して、ユーザー、プログラム、ランディングページ、メール、ソーシャルアセットを分析する方法を説明します。 マーケティングアクティビティまたは「分析」タブから直接レポートを実行します。
 title: プログラムでのレポートの作成
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 100%
+source-wordcount: '200'
+ht-degree: 85%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 レポートを実行して、リード、プログラム、ランディングページ、メール、ソーシャルアセットを分析します。
 
-1. **[!UICONTROL マーケティング活動]**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 

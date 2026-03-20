@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095347
-description: 購読管理者設定の保護 - Marketo ドキュメント - 製品ドキュメント
+description: レポートをダウンロードする前にログインが必要な、サブスクリプション管理者設定を保護する方法について説明します。 このセキュリティ・オプションは、スマート・リスト・レポート設定の Admin Login Settings で構成します。
 title: 購読管理設定の保護
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 75%
 
 ---
 

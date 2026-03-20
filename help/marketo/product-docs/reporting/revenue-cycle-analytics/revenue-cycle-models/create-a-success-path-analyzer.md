@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360411
-description: 成功パス分析の作成 - Marketo ドキュメント - 製品ドキュメント
+description: 「成功パスアナライザーの作成」を使用して、Marketo Engageで成功パスアナライザーを作成する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: 成功パス分析の作成
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 100%
+source-wordcount: '198'
+ht-degree: 87%
 
 ---
 

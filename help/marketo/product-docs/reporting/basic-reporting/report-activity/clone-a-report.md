@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360028
-description: レポートを複製する - Marketo ドキュメント - 製品ドキュメント
+description: レポートを複製して、元のレポートを変更せずに複製を作成し、カスタマイズする方法を説明します。 レポートアクションを使用するか、右クリックして新しいレポートのクローンを作成し、名前を付けます。
 title: レポートを複製する
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 100%
+source-wordcount: '96'
+ht-degree: 72%
 
 ---
 

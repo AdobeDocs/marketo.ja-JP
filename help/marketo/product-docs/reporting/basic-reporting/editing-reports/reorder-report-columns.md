@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359999
-description: レポート列の並べ替え - Marketo ドキュメント - 製品ドキュメント
+description: 新しい位置にドラッグ&ドロップして、レポート列を並べ替える方法を説明します。 「レポート」タブの列の順序をカスタマイズして、最も重要なデータに優先順位を付けます。
 title: レポート列の並べ替え
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '111'
+ht-degree: 75%
 
 ---
 

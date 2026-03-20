@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719410
-description: Web キャンペーンを削除する - Marketo ドキュメント - 製品ドキュメント
+description: Web キャンペーンの削除 delete-a-web-campaign を使用して、Marketo Engageで web キャンペーンを削除する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: Web キャンペーンの削除
 exl-id: ec81c3c0-5822-4df4-b9ff-5635f44bc3c6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 100%
+source-wordcount: '88'
+ht-degree: 72%
 
 ---
 

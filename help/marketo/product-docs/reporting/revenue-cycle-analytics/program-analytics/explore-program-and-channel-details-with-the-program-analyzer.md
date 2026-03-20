@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360437
-description: プログラムアナライザーを使用したプログラムおよびチャネルの詳細の調査 - Marketo ドキュメント - 製品ドキュメント
+description: プログラム探索を含む、Marketo Engageのプログラムアナライザーを使用したプログラムとチャネルの詳細の探索について説明します。 このガイドを使用して、次の手順を完了します。
 title: プログラムアナライザーを使用したプログラムおよびチャネルの詳細の調査
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 100%
+source-wordcount: '209'
+ht-degree: 88%
 
 ---
 

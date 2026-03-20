@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360002
-description: レポートのサイズを設定する — Marketo ドキュメント — 製品ドキュメント
+description: 最大行数の制限をデフォルトの 5,000 行から変更して、レポートサイズを設定する方法を説明します。 「設定」タブのエクスポート行を調整して、レポートのパフォーマンスを最適化できます。
 title: レポートのサイズを設定する
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '131'
+ht-degree: 77%
 
 ---
 

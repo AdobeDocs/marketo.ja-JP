@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359994
-description: レポート列の選択 - Marketo ドキュメント - 製品ドキュメント
+description: 使用可能なオプションから選択して、レポートに表示する列を選択する方法を説明します。 列見出しをクリックして列を選択することにより、レポート・ビューをカスタマイズします。
 title: レポート列の選択
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 100%
+source-wordcount: '78'
+ht-degree: 67%
 
 ---
 

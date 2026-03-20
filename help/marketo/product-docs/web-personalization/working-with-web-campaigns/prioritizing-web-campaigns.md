@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782266
-description: Web キャンペーンの優先順位付け — Marketo ドキュメント — 製品ドキュメント
+description: Web キャンペーンの優先順位付けなど、Marketo Engageの web キャンペーンの優先順位付けについて説明します。 このガイドを使用して、次の手順を完了します。
 title: Web キャンペーンの優先順位付け
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 100%
+source-wordcount: '187'
+ht-degree: 89%
 
 ---
 

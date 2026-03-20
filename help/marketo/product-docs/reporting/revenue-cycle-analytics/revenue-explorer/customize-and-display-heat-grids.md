@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514224
-description: ヒートグリッドのカスタマイズと表示 - Marketo ドキュメント - 製品ドキュメント
+description: ヒートグリッドのカスタマイズと表示を含む、Marketo Engageのヒートグリッドのカスタマイズと表示について説明します。 このガイドを使用して、次の手順を完了します。
 title: ヒートグリッドのカスタマイズと表示
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 100%
+source-wordcount: '88'
+ht-degree: 72%
 
 ---
 

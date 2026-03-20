@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951252
-description: 新しい順または効果の高い順に web キャンペーンを並べ替える - Marketo ドキュメント - 製品ドキュメント
+description: 最新のまたは別に web キャンペーンを並べ替えを使用して、Marketo Engageで web キャンペーンを最新またはトップパフォーマンスで並べ替える方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: 新しい順または効果の高い順に web キャンペーンを並べ替える
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '106'
+ht-degree: 72%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359991
-description: レポート購読の管理 - Marketo ドキュメント - 製品ドキュメント
+description: Analytics の「購読」タブから、すべてのレポート購読を 1 か所で管理する方法を説明します。 頻度、受信者、設定を編集するか、必要に応じて購読を削除します。
 title: レポート購読の管理
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 100%
+source-wordcount: '236'
+ht-degree: 89%
 
 ---
 

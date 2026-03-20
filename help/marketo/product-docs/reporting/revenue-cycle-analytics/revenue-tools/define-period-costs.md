@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953444
-description: 期間原価の定義 - Marketo ドキュメント - 製品ドキュメント
+description: 「期間コストの定義：期間コストの定義」を使用して、Marketo Engageで期間コストを定義する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: 期間原価の定義
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 100%
+source-wordcount: '260'
+ht-degree: 91%
 
 ---
 

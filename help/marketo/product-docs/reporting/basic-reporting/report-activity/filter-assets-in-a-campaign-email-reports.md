@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360227
-description: キャンペーンメールレポートでのアセットのフィルター - Marketo ドキュメント - 製品ドキュメント
+description: キャンペーンメールのアセットのフィルターを使用して、Marketo Engageのキャンペーンメールレポートのアセットをフィルタリングする方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: キャンペーンメールレポートでのアセットのフィルター
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 100%
+source-wordcount: '176'
+ht-degree: 84%
 
 ---
 

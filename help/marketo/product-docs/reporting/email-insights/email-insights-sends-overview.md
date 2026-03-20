@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099413
-description: メールインサイトの送信の概要 - Marketo ドキュメント - 製品ドキュメント
+description: 最近のメール通信の特性を調べるメールインサイト送信ページについて説明します。 送信済みメールの配信指標、エンゲージメント指標、エンゲージメントスコアを表示します。
 title: メールインサイトの送信の概要
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 89%
+source-wordcount: '190'
+ht-degree: 76%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: Advanced BI Analytics の概要 – Marketo ドキュメント – 製品ドキュメント
+description: Marketo Engage データ用の高度なビジュアライゼーションと高速パフォーマンスを備えた柔軟なレポートインターフェイス、Advanced BI Analytics について説明します。 インタラクティブなダッシュボードと書き出しオプションを含むカスタムレポートを作成します。
 title: 高度な BI 分析の概要
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1044'
+source-wordcount: '1064'
 ht-degree: 6%
 
 ---
@@ -24,7 +24,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 * **高パフォーマンスのクエリエンジン**：大規模なデータセットに対して 5 倍の高速パフォーマンスを提供し、より迅速なデータ処理、迅速なレポート読み込み、よりスムーズな分析エクスペリエンスを可能にします。
 
-* **リッチで魅力的なビジュアライゼーション**：グラフ、マップ、KPI インジケーターなどの組み込みビジュアライゼーションオプションの膨大で拡張されたコレクションです。ダッシュボードをよりインサイトに富み、影響力を持たせ、データのストーリーテリングを大幅に強化します。
+* **リッチで魅力的なビジュアライゼーション**：グラフ、マップ、KPI インジケーターなどの組み込みビジュアライゼーションオプションの膨大で拡張されたコレクションです。ダッシュボードをよりインサイトに富み、影響力を持たせ、データのstorytellingを大幅に強化します。
 
 * **高度なインタラクティブ機能と動的フィルター**：動的スライサー、クロスフィルタリングおよび相互依存フィルターを複数のビジュアルに適用します。 複数ページレポートは、高度なドリルダウン、ドリルアップおよびドリルスルーをサポートし、簡単なデータ探索を実現します。
 
@@ -60,7 +60,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 ## レポートのエクスポート {#export-a-report}
 
-レポート全体を書き出す場合、書き出しのオプションはPDFと PPT です。 データを.XLS または.CSV 形式で書き出す必要がある場合は、個々のビジュアライゼーションを書き出すことで行うことができます（[&#x200B; 以下を参照 &#x200B;](#export-a-visualization)）。
+レポート全体を書き出す場合、書き出しのオプションはPDFと PPT です。 データを.XLS または.CSV 形式で書き出す必要がある場合は、個々のビジュアライゼーションを書き出すことで行うことができます（[ 以下を参照 ](#export-a-visualization)）。
 
 >[!BEGINTABS]
 
@@ -125,7 +125,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 次のビデオでは、複数ページのドリルスルーレポートのエクスペリエンスの例を確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451683/?quality=12&learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Advanced BI Analytics の標準レポート {#standard-reports}
 
@@ -236,7 +236,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 ## 注意事項 {#note}
 
-* カスタムレポートは、以下の [&#x200B; 新しいエクスペリエンスの学習 &#x200B;](#learning-the-new-experience) の節で説明されている主な動作の変更を使用して、従来のエクスペリエンスから新しいエクスペリエンスに複製されました。
+* カスタムレポートは、以下の [ 新しいエクスペリエンスの学習 ](#learning-the-new-experience) の節で説明されている主な動作の変更を使用して、従来のエクスペリエンスから新しいエクスペリエンスに複製されました。
 * 従来のエクスペリエンスのダッシュボードは転送できず、新しいエクスペリエンスで再作成する必要があります。 これらは、新しいエクスペリエンスのレポートとして再作成でき、新しいエクスペリエンスのフィルターが可能な値を自動的に取り込みます。
 
   >[!NOTE]
@@ -259,7 +259,7 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 新しいビジュアライゼーションエクスペリエンスは、組み込みのPower BI サービスを通じて提供されます。
 
-ビジュアライゼーションエクスペリエンスのクイックチュートリアルについては、Microsoft[Power BIでビジュアルを使用 &#x200B;](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} ドキュメントを参照してください。 Marketo Engageでは、これらの機能のすべてが表示されるわけではありません。
+ビジュアライゼーションエクスペリエンスのクイックチュートリアルについては、Microsoft[Power BIでビジュアルを使用 ](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} ドキュメントを参照してください。 Marketo Engageでは、これらの機能のすべてが表示されるわけではありません。
 
 ### 主要なエクスペリエンスの変更点 {#notable-experience-changes}
 
@@ -279,4 +279,4 @@ Advanced BI Analytics （以前の Revenue Explorer および Advanced Report Bu
 
 >[!MORELIKETHIS]
 >
->[&#x200B; 指標とディメンション &#x200B;](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
+>[ 指標とディメンション ](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}

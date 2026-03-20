@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359968
-description: レポートのタイムフレームを変更する — Marketo ドキュメント — 製品ドキュメント
+description: 特定のアクティビティの日付に焦点を当てるために、レポートの対象となる期間を変更する方法を説明します。 カスタム日付範囲を設定するか、「設定」タブで事前定義済みの時間枠を使用します。
 title: レポートのタイムフレームを変更する
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 100%
+source-wordcount: '181'
+ht-degree: 83%
 
 ---
 

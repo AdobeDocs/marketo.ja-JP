@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095084
-description: 収益エクスプローラーからの結果のグラフ化 - Marketo ドキュメント - 製品ドキュメント
+description: 売上高からの結果のグラフ化を含む、Marketo Engageの売上高エクスプローラーからの結果のグラフ化について説明します。 このガイドを使用して、次の手順を完了します。
 title: 収益エクスプローラーからの結果のグラフ化
 exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 100%
+source-wordcount: '267'
+ht-degree: 91%
 
 ---
 

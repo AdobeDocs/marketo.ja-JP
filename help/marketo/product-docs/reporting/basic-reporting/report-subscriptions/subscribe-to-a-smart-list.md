@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7505310
-description: スマートリストの購読 - Marketo ドキュメント - 製品ドキュメント
+description: スマートリストを購読して、インボックスに直接送信されたレポートを受信する方法を説明します。 カスタマイズ可能な頻度と形式を使用して、マーケティングアクティビティまたはデータベースから購読を作成します。
 title: スマートリストの購読
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 100%
+source-wordcount: '446'
+ht-degree: 93%
 
 ---
 

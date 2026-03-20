@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097163
-description: RTP JavaScript タグの有効化または無効化 - Marketo ドキュメント - 製品ドキュメント
+description: rtp の有効化や無効化など、Marketo Engageでの rtp JavaScript タグの有効化または無効化について説明します。 このガイドを使用して、次の手順を完了します。
 title: RTP JavaScript タグの有効化または無効化
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 100%
+source-wordcount: '151'
+ht-degree: 82%
 
 ---
 

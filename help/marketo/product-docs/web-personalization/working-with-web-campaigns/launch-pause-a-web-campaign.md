@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719406
-description: Web キャンペーンの起動／一時停止 - Marketo ドキュメント - 製品ドキュメント
+description: Web キャンペーンのローンチや一時停止など、Marketo Engageでの web キャンペーンのローンチ/一時停止について説明します。 このガイドを使用して、次の手順を完了します。
 title: Web キャンペーンの起動／一時停止
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 100%
+source-wordcount: '180'
+ht-degree: 87%
 
 ---
 

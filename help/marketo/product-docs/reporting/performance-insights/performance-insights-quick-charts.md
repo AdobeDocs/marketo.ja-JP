@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980873
-description: パフォーマンスインサイトのクイックグラフ - Marketo ドキュメント - 製品ドキュメント
+description: 頻繁に使用するグラフビューに対して、パフォーマンスインサイトでクイックグラフを作成および保存する方法を説明します。 迅速にアクセスできるように、特定のフィルターと指標を使用して最大 20 個のカスタムグラフを保存します。
 title: パフォーマンスインサイトのクイックグラフ
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 100%
+source-wordcount: '207'
+ht-degree: 85%
 
 ---
 

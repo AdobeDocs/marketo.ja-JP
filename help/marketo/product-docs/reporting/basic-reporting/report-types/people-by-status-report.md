@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360012
-description: ステータス別のリードレポート - Marketo ドキュメント - 製品ドキュメント
+description: 毎月、各ユーザーステータス値に表示されるユーザー数を示す、ステータス別ユーザーレポートについて説明します。 プロセスの進捗を追跡し、funnelのボトルネックを特定します。
 title: ステータス別のリードレポート
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '127'
+ht-degree: 77%
 
 ---
 

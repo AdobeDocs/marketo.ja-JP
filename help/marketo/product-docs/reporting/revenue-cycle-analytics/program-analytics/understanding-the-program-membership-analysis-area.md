@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718640
-description: プログラムメンバーシップ分析領域について - Marketo ドキュメント - 製品ドキュメント
+description: プログラムの理解を含め、Marketo Engageのプログラムメンバーシップ分析エリアについて説明します。 自信を持って次のステップに進みます。
 title: プログラムメンバーシップ分析領域について
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 100%
+source-wordcount: '246'
+ht-degree: 91%
 
 ---
 

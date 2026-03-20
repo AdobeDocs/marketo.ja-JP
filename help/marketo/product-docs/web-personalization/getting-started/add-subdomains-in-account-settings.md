@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727870
-description: アカウント設定にサブドメインを追加する — Marketo ドキュメント — 製品ドキュメント
+description: アカウント設定で「サブドメインを追加」を使用して、Marketo Engageのアカウント設定でサブドメインを追加する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: アカウント設定にサブドメインを追加する
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 100%
+source-wordcount: '161'
+ht-degree: 84%
 
 ---
 

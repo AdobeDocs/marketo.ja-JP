@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360188
-description: キャンペーンメールの効果レポート - Marketo ドキュメント - 製品ドキュメント
+description: スマートキャンペーン別にメール統計をグループ化する、Campaign メールのパフォーマンスレポートについて説明します。 開封数、クリック数、バウンス数、購読解除数をトラッキングして、キャンペーンの有効性を測定します。
 title: キャンペーンメールの効果レポート
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 100%
+source-wordcount: '234'
+ht-degree: 90%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718687
-description: 収益モデルの承認／承認取消 - Marketo ドキュメント - 製品ドキュメント
+description: 売上高モデルの承認取消を使用して、Marketo Engageで売上高モデルを承認または承認取消する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: 収益モデルの承認／承認取消
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 100%
+source-wordcount: '171'
+ht-degree: 85%
 
 ---
 

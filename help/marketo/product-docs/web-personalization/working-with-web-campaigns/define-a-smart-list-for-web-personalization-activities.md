@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097867
-description: Web パーソナライゼーションアクティビティのスマートリストを定義する - Marketo ドキュメント - 製品ドキュメント
+description: のスマートリストの定義を使用して、Marketo Engageの web パーソナライゼーションアクティビティのスマートリストを定義する方法について説明します。 このガイドを使用して、次の手順を完了します。
 title: Web パーソナライゼーションアクティビティのスマートリストを定義する
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 100%
+source-wordcount: '305'
+ht-degree: 90%
 
 ---
 

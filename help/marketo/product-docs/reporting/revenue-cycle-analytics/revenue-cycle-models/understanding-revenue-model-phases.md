@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718660
-description: 収益モデルのフェーズについて - Marketo ドキュメント - 製品ドキュメント
+description: 売上高モデルフェーズについて理解するなど、Marketo Engageの売上高モデルフェーズについて学びます。 このガイドを使用して、次の手順を完了します。
 title: 収益モデルのフェーズについて
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 100%
+source-wordcount: '74'
+ht-degree: 70%
 
 ---
 

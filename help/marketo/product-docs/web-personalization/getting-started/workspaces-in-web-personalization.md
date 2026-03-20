@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727499
-description: Web パーソナライゼーションのワークスペース - Marketo ドキュメント - 製品ドキュメント
+description: Web パーソナライゼーションのワークスペースなど、Marketo Engageの web パーソナライゼーションのワークスペースについて説明します。 このガイドを使用して、次の手順を完了します。
 title: Web パーソナライゼーションのワークスペース
 exl-id: 6b80fb8d-3f6a-4503-af5b-9627e5645247
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 82%
 
 ---
 

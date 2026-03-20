@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718681
-description: 収益モデラーでの顧客別トラッキングの開始 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Engageの売上高モデラーでのアカウント別の開始トラッキングについて説明します（アカウント別の開始トラッキングを含む）。 このガイドを使用して、次の手順を完了します。
 title: 収益モデラーでの顧客別トラッキングの開始
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 100%
+source-wordcount: '263'
+ht-degree: 90%
 
 ---
 

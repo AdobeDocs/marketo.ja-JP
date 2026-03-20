@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719400
-description: 新しいゾーン内 Web キャンペーンを作成する — Marketo ドキュメント — 製品ドキュメント
+description: ゾーン ID に基づいた web サイト要素を、パーソナライズされたコンテンツやグラフィカルバナーに置き換えるゾーン内 web キャンペーンを作成します。 ゾーン ID を使用すると、web サイトの特定の領域をターゲットにすることができます。
 title: 新しいゾーン内 Web キャンペーンを作成する
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '693'
-ht-degree: 100%
+source-wordcount: '711'
+ht-degree: 95%
 
 ---
 

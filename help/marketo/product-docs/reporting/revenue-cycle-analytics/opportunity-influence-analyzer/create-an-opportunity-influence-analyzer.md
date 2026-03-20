@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360235
-description: 商談の影響分析の設定 - Marketo ドキュメント - 製品ドキュメント
+description: 「オポチュニティの影響の作成」を使用して、Marketo Engageでオポチュニティの影響アナライザーを作成する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: 商談の影響分析の作成
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 100%
+source-wordcount: '224'
+ht-degree: 89%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 100%
    >
    >ほとんどの場合、**[!UICONTROL 全期間]**&#x200B;が最も単純な選択です。
 
-1. レポートが表示されます。メインタブをクリックして、商談に関わる興味深い瞬間と成功を確認します。
+1. レポートが表示されました。メインタブをクリックして、商談に関わる興味深い瞬間と成功を確認します。
 
    ![](assets/image2014-9-17-8-3a57-3a42.png)
 

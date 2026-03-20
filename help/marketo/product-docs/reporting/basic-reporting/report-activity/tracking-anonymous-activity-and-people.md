@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360181
-description: 匿名アクティビティとリードのトラッキング - Marketo ドキュメント - 製品ドキュメント
+description: 匿名アクティビティおよびのトラッキングを含む、Marketo Engageでの匿名アクティビティおよび人物のトラッキングについて説明します。 このガイドを使用して、次の手順を完了します。
 title: 匿名アクティビティとリードのトラッキング
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 100%
+source-wordcount: '235'
+ht-degree: 90%
 
 ---
 

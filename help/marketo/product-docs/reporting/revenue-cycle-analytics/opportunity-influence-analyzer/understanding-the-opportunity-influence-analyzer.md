@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718648
-description: 商談の影響分析について - Marketo ドキュメント - 製品ドキュメント
+description: の理解を含め、Marketo Engageのオポチュニティの影響アナライザーについて説明します。 このガイドを使用して、次の手順を完了します。
 title: 商談の影響分析について
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 100%
+source-wordcount: '267'
+ht-degree: 92%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 100%
 
 それぞれの商談はストーリーです。どこでリードに会ったのか。マーケティング／セールスプロセス中に、どのようなマーケティング機会に影響を受けたのか。
 
-商談の影響分析を使用すると、全体を確認できます。Sales Insight でも入手できます。
+商談の影響分析を使用すると、全体を確認できます。セールスインサイトでも入手できます。
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 

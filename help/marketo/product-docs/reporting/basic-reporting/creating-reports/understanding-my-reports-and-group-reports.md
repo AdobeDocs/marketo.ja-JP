@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511725
-description: 自分のレポートとグループレポートについて - Marketo ドキュメント - 製品ドキュメント
+description: 自分にのみ表示されるマイレポートと、すべての Workspace ユーザーに表示されるグループレポートの違いについて説明します。 保存したレポートを効果的に整理します。
 title: 自分のレポートとグループのレポートについて
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 100%
+source-wordcount: '89'
+ht-degree: 68%
 
 ---
 

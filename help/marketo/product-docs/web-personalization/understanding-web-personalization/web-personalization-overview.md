@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571900
-description: Web パーソナライゼーションの概要 - Marketo ドキュメント - 製品ドキュメント
+description: Web キャンペーン、アカウントベースの Web マーケティング、Web サイトリターゲティング、コンテンツ AI など、Web Personalizationの機能について説明します。 パーソナライズされた web エクスペリエンスと訪問者インサイトの基本を学びます。
 title: Web パーソナライゼーションの概要
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '849'
-ht-degree: 100%
+source-wordcount: '866'
+ht-degree: 97%
 
 ---
 

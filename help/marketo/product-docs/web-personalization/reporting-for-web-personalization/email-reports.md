@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719338
-description: メールレポート - Marketo ドキュメント - 製品ドキュメント
+description: 組織、人物、最もパフォーマンスの高いキャンペーン、概要レポートなど、web Personalization用の自動メールレポートについて説明します。 ユーザー設定で受け取るレポートをカスタマイズします。
 title: メールレポート
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 100%
+source-wordcount: '435'
+ht-degree: 94%
 
 ---
 

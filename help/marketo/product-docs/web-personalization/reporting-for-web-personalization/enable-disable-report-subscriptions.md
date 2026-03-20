@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949162
-description: レポート購読の有効化／無効化 - Marketo ドキュメント - 製品ドキュメント
+description: Web Personalizationのメールレポートのレポート購読を有効または無効にする方法について説明します。 ユーザー設定でレポートと頻度を選択して、自動メール通知をカスタマイズします。
 title: レポート購読の有効化／無効化
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 100%
+source-wordcount: '88'
+ht-degree: 70%
 
 ---
 

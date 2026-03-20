@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979012
-description: パフォーマンスインサイトのフィルタリング — Marketo ドキュメント — 製品ドキュメント
+description: ABM アカウントリスト、カスタム属性、商談タイプ、プログラムタグ、ワークスペースでパフォーマンスインサイトデータをフィルタリングする方法を説明します。 複数のフィルターを適用して特定の情報をクエリし、グラフを更新します。
 title: パフォーマンスインサイトのフィルタリング
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 100%
+source-wordcount: '331'
+ht-degree: 91%
 
 ---
 

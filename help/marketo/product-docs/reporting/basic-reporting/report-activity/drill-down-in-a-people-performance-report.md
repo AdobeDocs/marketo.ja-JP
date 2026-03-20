@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360035
-description: リード効果レポートのドリルダウン - Marketo ドキュメント - 製品ドキュメント
+description: 行を選択して属性を選択することにより、個人情報パフォーマンス・レポートをドリルダウンして、追加の個人情報を表示する方法を説明します。 新しいレポートタブで詳細なリードデータを調べます。
 title: リード効果レポートのドリルダウン
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 100%
+source-wordcount: '152'
+ht-degree: 79%
 
 ---
 

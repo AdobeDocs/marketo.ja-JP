@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718670
-description: 収益モデルゲートステージの使用 - Marketo ドキュメント - 製品ドキュメント
+description: 売上高モデルゲートステージを使用した、Marketo Engageの売上高モデルゲートステージの使用方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: 収益モデルゲートステージの使用
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 100%
+source-wordcount: '288'
+ht-degree: 91%
 
 ---
 
 # 収益モデルゲートステージの使用 {#using-revenue-model-gate-stages}
 
-ゲートステージは、資格を確認する役割を果たします。
+ゲートステージは、選定を確認する役割を果たします。
 
 >[!TIP]
 >

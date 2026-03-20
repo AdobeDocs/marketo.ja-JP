@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360014
-description: リード効果レポート - Marketo ドキュメント - 製品ドキュメント
+description: 時間の経過に伴うデータベースの増加を測定し、属性でユーザーをグループ化するユーザーパフォーマンスレポートについて説明します。 プログラムを分析し、ドリルダウン機能で詳細なリード情報を調べます。
 title: リード効果レポート
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 100%
+source-wordcount: '256'
+ht-degree: 89%
 
 ---
 

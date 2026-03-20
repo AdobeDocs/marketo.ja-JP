@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615749
-description: Web キャンペーンデータをエクスポートする — Marketo ドキュメント — 製品ドキュメント
+description: Web キャンペーンデータのエクスポート export-web-campaign-data を使用して、Marketo Engageで web キャンペーンデータをエクスポートする方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: Web キャンペーンデータをエクスポートする
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 65%
 
 ---
 

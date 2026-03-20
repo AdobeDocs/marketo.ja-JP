@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718672
-description: 収益モデルのトランジションを使用する - Marketo ドキュメント - 製品ドキュメント
+description: 売上高モデルトランジションを使用したMarketo Engageでの売上高モデルトランジションの使用方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: 収益モデルのトランジションを使用する
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 100%
+source-wordcount: '228'
+ht-degree: 89%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6094879
-description: Web キャンペーンへのターゲット URL の追加 - Marketo ドキュメント - 製品ドキュメント
+description: Web へのターゲット url の追加など、Marketo Engageで web キャンペーンにターゲット url を追加する方法について説明します。 このガイドを使用して、次の手順を完了します。
 title: Web キャンペーンへのターゲット URL の追加
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 100%
+source-wordcount: '274'
+ht-degree: 89%
 
 ---
 

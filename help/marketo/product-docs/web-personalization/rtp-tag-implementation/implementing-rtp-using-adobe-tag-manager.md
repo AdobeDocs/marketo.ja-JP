@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720218
-description: Adobe Tag Manager を使用した RTP の実装 - Marketo ドキュメント - 製品ドキュメント
+description: adobe tag を使用した rtp の実装など、Marketo Engageで adobe tag manager を使用した rtp の実装について説明します。 このガイドを使用して、次の手順を完了します。
 title: Adobe Tag Manager を使用した RTP の実装
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 100%
+source-wordcount: '223'
+ht-degree: 88%
 
 ---
 

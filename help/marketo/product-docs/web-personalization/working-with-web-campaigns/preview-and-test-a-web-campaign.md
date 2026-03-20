@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10092925
-description: Web キャンペーンのプレビューとテスト - Marketo ドキュメント - 製品ドキュメント
+description: Web キャンペーンのプレビューとテストを使用して、Marketo Engageで web キャンペーンをプレビューおよびテストする方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: Web キャンペーンのプレビューとテスト
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '394'
-ht-degree: 100%
+source-wordcount: '411'
+ht-degree: 93%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719396
-description: 特定のセグメントを使用している web キャンペーンの検索 - Marketo ドキュメント - 製品ドキュメント
+description: 特定のセグメントを使用している web キャンペーンをMarketo Engageで検索する方法について説明します。 自信を持って次のステップに進みます。
 title: 特定のセグメントを使用している web キャンペーンの検索
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 100%
+source-wordcount: '102'
+ht-degree: 74%
 
 ---
 

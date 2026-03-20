@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720125
-description: RTP を Google ユニバーサルアナリティクスに連携する — Marketo ドキュメント — 製品ドキュメント
+description: dnl google との rtp の統合を使用して、Marketo Engageで rtp を google universal analytics と統合する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: RTP を Google ユニバーサルアナリティクスに連携する
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 100%
+source-wordcount: '417'
+ht-degree: 93%
 
 ---
 

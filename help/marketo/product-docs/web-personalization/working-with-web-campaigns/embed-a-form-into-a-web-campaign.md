@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095554
-description: Web キャンペーンにフォームを埋め込む — Marketo ドキュメント — 製品ドキュメント
+description: Web キャンペーンへのフォームの埋め込みなど、Marketo Engageでの web キャンペーンへのフォームの埋め込みについて説明します。 このガイドを使用して、次の手順を完了します。
 title: Web キャンペーンにフォームを埋め込む
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 100%
+source-wordcount: '348'
+ht-degree: 91%
 
 ---
 

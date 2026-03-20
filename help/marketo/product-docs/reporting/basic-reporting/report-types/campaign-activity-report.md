@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360057
-description: キャンペーンアクティビティレポート - Marketo ドキュメント - 製品ドキュメント
+description: キャンペーン活動レポート campaign-activity-report など、Marketo Engageのキャンペーン活動レポートについて説明します。 このガイドを使用して、次の手順を完了します。
 title: キャンペーンアクティビティレポート
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 100%
+source-wordcount: '234'
+ht-degree: 91%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720151
-description: Marketo ランディングページでの RTP の実装 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo への rtp の実装を含め、Marketo Engageの Marketo ランディングページへの rtp の実装について説明します。 このガイドを使用して、次の手順を完了します。
 title: Marketo ランディングページでの RTP の実装
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 100%
+source-wordcount: '209'
+ht-degree: 88%
 
 ---
 

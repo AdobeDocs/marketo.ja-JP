@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360030
-description: レポートを削除する - Marketo ドキュメント - 製品ドキュメント
+description: ナビゲーションツリーでレポートを右クリックして、不要になったレポートを削除する方法を説明します。 古いレポートを削除して、レポートワークスペースを整理します。
 title: レポートを削除する
 exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 100%
+source-wordcount: '86'
+ht-degree: 70%
 
 ---
 

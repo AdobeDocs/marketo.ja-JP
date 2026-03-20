@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571888
-description: 収益サイクル分析のカスタムフィールド同期の有効化 - Marketo ドキュメント - 製品ドキュメント
+description: カスタムフィールドの有効化など、Marketo Engageで収益サイクル分析のカスタムフィールド同期を有効にする方法について説明します。 自信を持って次のステップに進みます。
 title: 収益サイクル分析のカスタムフィールド同期の有効化
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 100%
+source-wordcount: '112'
+ht-degree: 80%
 
 ---
 

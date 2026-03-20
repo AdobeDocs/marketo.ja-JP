@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097747
-description: 収益エクスプローラーレポートへのカスタム測定の追加 - Marketo ドキュメント - 製品ドキュメント
+description: カスタムメジャーの追加など、Marketo Engageの売上高エクスプローラーレポートへのカスタムメジャーの追加について説明します。 このガイドを使用して、次の手順を完了します。
 title: 収益エクスプローラーレポートへのカスタム測定の追加
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 100%
+source-wordcount: '217'
+ht-degree: 88%
 
 ---
 

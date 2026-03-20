@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360020
-description: レポートの  [!DNL Excel]  への書き出し - Marketo ドキュメント - 製品ドキュメント
+description: 他のソフトウェアで分析するために、レポートを Excel ファイルにエクスポートする方法を説明します。 「レポート」タブの「書き出し」ボタンをクリックして、データをダウンロードします。
 title: レポートの  [!DNL Excel] への書き出し
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '97'
+ht-degree: 74%
 
 ---
 

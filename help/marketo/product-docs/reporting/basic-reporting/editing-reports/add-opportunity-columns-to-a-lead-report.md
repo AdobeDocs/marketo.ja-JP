@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360018
-description: リードレポートに商談列を追加する - Marketo ドキュメント - 製品ドキュメント
+description: 商談の列をリードレポートに追加して、商談の統計と指標を表示する方法を説明します。 金額、コンバージョン率および販売サイクル情報を含む商談データを表示します。
 title: リードレポートに商談列を追加する
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: '295'
+ht-degree: 91%
 
 ---
 

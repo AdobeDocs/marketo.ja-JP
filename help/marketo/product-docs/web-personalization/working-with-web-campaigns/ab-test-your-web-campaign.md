@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719404
-description: Web キャンペーンで A/B テストを実施する — Marketo ドキュメント — 製品ドキュメント
+description: Web キャンペーンの ab テストを含む、Marketo Engageでの web キャンペーンの ab テストについて説明します。 このガイドを使用して、次の手順を完了します。
 title: Web キャンペーンで A/B テストを実施する
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 100%
+source-wordcount: '345'
+ht-degree: 93%
 
 ---
 

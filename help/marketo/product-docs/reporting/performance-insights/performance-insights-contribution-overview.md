@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979008
-description: パフォーマンスインサイトの貢献度の概要 - Marketo ドキュメント - 製品ドキュメント
+description: エンゲージメント、パイプライン、売上高指標を通じてマーケティングによる売上高に対する貢献を評価する、パフォーマンスインサイトの貢献ビューについて説明します。 ドーナツグラフと棒グラフを使用して、チャネルとプログラムのパフォーマンスを表示します。
 title: パフォーマンスインサイトの貢献度の概要
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '378'
-ht-degree: 100%
+source-wordcount: '398'
+ht-degree: 92%
 
 ---
 

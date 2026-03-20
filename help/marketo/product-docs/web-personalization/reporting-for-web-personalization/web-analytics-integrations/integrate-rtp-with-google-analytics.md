@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949158
-description: RTP を Google Analytics に連携する — Marketo ドキュメント — 製品ドキュメント
+description: rtp を google analytics と統合を使用して、Marketo Engageで rtp を google analytics と統合する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: RTP を Google Analytics に連携する
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 97%
+source-wordcount: '596'
+ht-degree: 93%
 
 ---
 

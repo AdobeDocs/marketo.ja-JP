@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099415
-description: メールインサイトのクイックグラフ - Marketo ドキュメント - 製品ドキュメント
+description: メールインサイトで頻繁に使用されるグラフビューのサムネールとしてクイックグラフを作成および保存する方法を説明します。 最大 20 個のカスタムグラフを保存し、クイックグラフ アイコンからすばやくアクセスします。
 title: メールインサイトのクイックグラフ
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 100%
+source-wordcount: '256'
+ht-degree: 87%
 
 ---
 

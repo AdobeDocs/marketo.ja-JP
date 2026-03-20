@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979858
-description: パフォーマンスインサイトに関する FAQ — Marketo ドキュメント — 製品ドキュメント
+description: アトリビューション設定、プログラムの表示、商談のマッピング、設定要件など、パフォーマンスインサイトに関するよくある質問への回答を示します。 MPI が CRM や分析とどのように連携するかを把握します。
 title: パフォーマンスインサイトに関する FAQ
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1346'
-ht-degree: 100%
+source-wordcount: '1367'
+ht-degree: 97%
 
 ---
 

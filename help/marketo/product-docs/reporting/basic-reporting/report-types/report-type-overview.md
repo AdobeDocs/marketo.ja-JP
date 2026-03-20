@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359965
-description: レポートタイプの概要 — Marketo ドキュメント — 製品ドキュメント
+description: 人物のパフォーマンス、メールのパフォーマンス、キャンペーンのメールのパフォーマンス、web アクティビティのレポートなど、使用可能なレポートタイプについて説明します。 分析のニーズに合ったレポートタイプを選択します。
 title: レポートタイプの概要
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 100%
+source-wordcount: '235'
+ht-degree: 88%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 100%
    <td>メールとのやり取りを確認します（配信済み、バウンス済み、開封済み、クリック済み、登録解除など）。</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">Sales Insight のメール効果</a></strong></td>
+   <td><strong><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md">セールスインサイトのメール効果</a></strong></td>
    <td>Salesforce、Microsoft Dynamics、Outlook および Gmail プラグインで Marketo セールスインサイトを通じて送信されたメールのやり取りを確認します。</td>
   </tr>
   <tr>

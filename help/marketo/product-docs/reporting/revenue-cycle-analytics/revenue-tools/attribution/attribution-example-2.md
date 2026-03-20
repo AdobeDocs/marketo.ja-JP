@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514146
-description: アトリビューションの例 2 - Marketo ドキュメント - 製品ドキュメント
+description: アトリビューション例 2 attribution-example など、Marketo Engageのアトリビューション例 2 について説明します。 このガイドを使用して、次の手順を完了します。
 title: アトリビューションの例 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 100%
+source-wordcount: '194'
+ht-degree: 89%
 
 ---
 

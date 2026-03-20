@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718654
-description: 収益モデルについて - Marketo ドキュメント - 製品ドキュメント
+description: 売上高モデルの理解を含む、Marketo Engageの売上高モデルの理解について説明します。 このガイドを使用して、次の手順を完了します。
 title: 収益モデルについて
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 100%
+source-wordcount: '577'
+ht-degree: 96%
 
 ---
 

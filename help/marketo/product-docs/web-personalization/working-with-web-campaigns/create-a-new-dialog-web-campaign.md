@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719398
-description: ダイアログ web キャンペーンの新規作成 - Marketo ドキュメント - 製品ドキュメント
+description: Web サイト上のポップアップメッセージを使用してコンテンツをリアルタイムでパーソナライズする、ダイアログ Web キャンペーンを作成します。 ダイアログのスタイル、位置、アニメーション、表示設定をカスタマイズして、訪問者を引き付けます。
 title: ダイアログ web キャンペーンの新規作成
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '749'
-ht-degree: 100%
+source-wordcount: '765'
+ht-degree: 96%
 
 ---
 

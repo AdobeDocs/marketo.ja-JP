@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472328
-description: レポートの更新 - Marketo ドキュメント - 製品ドキュメント
+description: 24 時間ごとに自動更新されるレポートであっても、レポートを手動で更新して最新データを取得する方法を説明します。 結果を更新するには、「更新」ボタンまたはレポートのアクション メニューを使用します。
 title: レポートの更新
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '131'
+ht-degree: 77%
 
 ---
 

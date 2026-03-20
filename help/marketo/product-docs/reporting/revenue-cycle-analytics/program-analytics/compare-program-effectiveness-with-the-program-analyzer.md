@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360403
-description: プログラムアナライザーを使用したプログラムの効果の比較 - Marketo ドキュメント - 製品ドキュメント
+description: プログラムの比較を含め、Marketo Engageのプログラムアナライザーを使用したプログラムの有効性の比較について説明します。 このガイドを使用して、次の手順を完了します。
 title: プログラムアナライザーを使用したプログラムの効果の比較
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '459'
-ht-degree: 100%
+source-wordcount: '471'
+ht-degree: 95%
 
 ---
 

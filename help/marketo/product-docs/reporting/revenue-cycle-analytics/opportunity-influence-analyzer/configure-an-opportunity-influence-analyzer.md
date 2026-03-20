@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360240
-description: 商談の影響分析の設定 - Marketo ドキュメント - 製品ドキュメント
+description: オポチュニティの影響の設定を使用して、Marketo Engageでオポチュニティの影響アナライザーを設定する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: 商談の影響分析の設定
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 100%
+source-wordcount: '178'
+ht-degree: 86%
 
 ---
 

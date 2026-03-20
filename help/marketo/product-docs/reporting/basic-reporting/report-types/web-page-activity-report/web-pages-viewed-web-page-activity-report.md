@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360052
-description: 閲覧された Web ページ、web ページアクティビティレポート - Marketo ドキュメント - 製品ドキュメント
+description: 閲覧した web ページ、Marketo Engageの web ページアクティビティレポート（閲覧した web ページ、web ページを含む）について説明します。 このガイドを使用して、次の手順を完了します。
 title: 閲覧された web ページ、web ページアクティビティレポート
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '123'
+ht-degree: 78%
 
 ---
 

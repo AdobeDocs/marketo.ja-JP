@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360199
-description: リードレポートを属性別にグループ化する - Marketo ドキュメント - 製品ドキュメント
+description: 属性別のグループ人物レポートを含む、Marketo Engageの属性別のグループ人物レポートについて説明します。 このガイドを使用して、次の手順を完了します。
 title: リードレポートを属性別にグループ化する
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 100%
+source-wordcount: '142'
+ht-degree: 83%
 
 ---
 

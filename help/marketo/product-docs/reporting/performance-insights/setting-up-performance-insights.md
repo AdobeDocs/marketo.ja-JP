@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12981145
-description: パフォーマンスインサイトの設定 - Marketo ドキュメント - 製品ドキュメント
+description: 商談の設定、プログラムコスト、分析動作、成功基準を設定して、パフォーマンスインサイトを設定する方法を説明します。 正確なレポートのために、適切なアトリビューションとデータフローを確保します。
 title: パフォーマンスインサイトの設定
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 100%
+source-wordcount: '329'
+ht-degree: 91%
 
 ---
 

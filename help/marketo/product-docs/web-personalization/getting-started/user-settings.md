@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719336
-description: ユーザー設定 - Marketo ドキュメント - 製品ドキュメント
+description: タイムゾーン、メールレポート、パスワード、モバイル通知、個人地域設定などのユーザー設定を構成する方法について説明します。 Web Personalizationのエクスペリエンスと書き出しの環境設定をカスタマイズします。
 title: ユーザー設定
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 100%
+source-wordcount: '225'
+ht-degree: 88%
 
 ---
 

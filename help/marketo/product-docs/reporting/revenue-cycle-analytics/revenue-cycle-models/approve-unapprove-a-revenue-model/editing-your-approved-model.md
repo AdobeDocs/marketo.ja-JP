@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472402
-description: 承認済みモデルの編集 - Marketo ドキュメント - 製品ドキュメント
+description: 承認済みモデルの編集など、Marketo Engageで承認済みモデルを編集する方法について説明します。 このガイドを使用して、次の手順を完了します。
 title: 承認済みモデルの編集
 exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 100%
+source-wordcount: '273'
+ht-degree: 91%
 
 ---
 

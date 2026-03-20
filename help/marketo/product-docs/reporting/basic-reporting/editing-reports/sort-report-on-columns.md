@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359996
-description: 列でのレポートの並べ替え - Marketo ドキュメント - 製品ドキュメント
+description: 最も重要な数値をハイライト表示するために、レポートデータを列で並べ替える方法を説明します。 「レポート」タブの列見出しをクリックして、昇順または降順のソート順序を選択します。
 title: 列でのレポートの並べ替え
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 100%
+source-wordcount: '98'
+ht-degree: 71%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094959
-description: 収益エクスプローラーでのダッシュボードの使用 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Engageの売上高エクスプローラーでダッシュボードを使用してダッシュボードを使用する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: 収益エクスプローラーでのダッシュボードの使用
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 100%
+source-wordcount: '265'
+ht-degree: 90%
 
 ---
 

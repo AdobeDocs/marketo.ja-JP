@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504051
-description: リードデータの管理 - Marketo ドキュメント - 製品ドキュメント
+description: ユーザーデータの管理を含む、Marketo Engageでのユーザーデータの管理について説明します。manage-person-data。 このガイドを使用して、次の手順を完了します。
 title: リードデータの管理
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 100%
+source-wordcount: '210'
+ht-degree: 90%
 
 ---
 
@@ -93,8 +93,8 @@ ht-degree: 100%
   </tr>
   <tr>
    <td><p>unsubscribed</p></td>
-   <td><p>登録解除済み</p></td>
-   <td><p>登録解除済み</p></td>
+   <td><p>配信停止完了</p></td>
+   <td><p>配信停止完了</p></td>
   </tr>
  </tbody>
 </table>

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795492
-description: パフォーマンスインサイトのの概要 - Marketo ドキュメント - 製品ドキュメント
+description: プログラム成功集計、前期間の設定、マーケティングに影響する機会、コスト計算オプションなど、パフォーマンスインサイトの設定について説明します。 ダッシュボードの表示に基づいて設定を指定します。
 title: パフォーマンスインサイトの設定
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '373'
-ht-degree: 100%
+source-wordcount: '391'
+ht-degree: 93%
 
 ---
 

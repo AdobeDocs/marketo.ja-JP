@@ -1,12 +1,12 @@
 ---
-description: レポートの概要 - Marketo ドキュメント - 製品ドキュメント
+description: 基本的なレポート、電子メールインサイト、パフォーマンスインサイト、高度な BI 分析など、Marketo Engageのレポートモジュールについて説明します。 ニーズに合ったレポートソリューションを見つけます。
 title: レポートの概要
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 100%
+source-wordcount: '405'
+ht-degree: 94%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718683
-description: ステージの承認と収益モデルへのリードの割り当て - Marketo ドキュメント - 製品ドキュメント
+description: ステージの承認とMarketo Engageでの収益モデルへのリードの割り当て（ステージおよびリードの承認を含む）について説明します。 自信を持って次のステップに進みます。
 title: ステージの承認と収益モデルへのリードの割り当て
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 100%
+source-wordcount: '352'
+ht-degree: 93%
 
 ---
 

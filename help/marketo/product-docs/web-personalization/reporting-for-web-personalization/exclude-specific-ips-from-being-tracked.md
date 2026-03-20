@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719340
-description: 特定の IP をトラッキングから除外する - Marketo ドキュメント - 製品ドキュメント
+description: 特定の IP アドレスまたは IP 範囲を Web Personalizationでのトラッキングから除外する方法を説明します。 アカウント設定のトラッキングとレポートから従業員と組織を除外します。
 title: 特定の IP をトラッキングから除外する
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 100%
+source-wordcount: '223'
+ht-degree: 87%
 
 ---
 

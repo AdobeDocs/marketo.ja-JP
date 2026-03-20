@@ -1,11 +1,11 @@
 ---
-description: 指標とディメンション - Marketo ドキュメント – 製品ドキュメント
+description: メール、リード、プログラム、商談分析など、高度な BI 分析レポートで使用可能な指標とディメンションについて説明します。 これらのデータ要素を使用してカスタムレポートを作成します。
 title: 指標とディメンション
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1058'
 ht-degree: 41%
 
 ---
@@ -317,7 +317,7 @@ ht-degree: 41%
             <li>参照元のソースのタイプ</li>
             <li>リードパーティション</li>
             <li>ソースのタイプを登録</li>
-            <li>登録解除済み</li>
+            <li>配信停止完了</li>
             <li>メールアドレス</li>
             <li>メール無効</li>
             <li>リード所有者のメールアドレス</li>
@@ -385,7 +385,7 @@ ht-degree: 41%
             <li>成功パス上</li>
             <li>トラック会社です</li>
             <li>モデル</li>
-            <li>Stage</li>
+            <li>ステージ</li>
             <li>ステージタイプ</li>
          </ul>
           <p>
@@ -622,7 +622,7 @@ ht-degree: 41%
             <li>開封済み</li>
             <li>送信済み</li>
             <li>ユニーククリック数</li>
-            <li>登録解除済み</li>
+            <li>配信停止完了</li>
           </ul>
       </td>
       <td>

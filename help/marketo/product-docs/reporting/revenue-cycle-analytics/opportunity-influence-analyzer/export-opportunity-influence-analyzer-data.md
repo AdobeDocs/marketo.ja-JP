@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360394
-description: 商談の影響分析のデータのエクスポート - Marketo ドキュメント - 製品ドキュメント
+description: 書き出しオポチュニティ影響アナライザーを使用して、Marketo Engageでオポチュニティ影響アナライザーデータを書き出す方法を説明します。 自信を持って次のステップに進みます。
 title: 商談の影響分析のデータのエクスポート
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 100%
+source-wordcount: '147'
+ht-degree: 85%
 
 ---
 

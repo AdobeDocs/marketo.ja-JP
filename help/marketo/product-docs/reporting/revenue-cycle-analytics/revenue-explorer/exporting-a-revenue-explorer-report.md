@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504749
-description: 収益エクスプローラレポートの書き出し - Marketo ドキュメント - 製品ドキュメント
+description: 売上高エクスプローラーレポートの書き出しを含む、Marketo Engageの売上高エクスプローラーレポートの書き出しについて説明します。 このガイドを使用して、次の手順を完了します。
 title: 収益エクスプローラレポートの書き出し
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 100%
+source-wordcount: '99'
+ht-degree: 75%
 
 ---
 

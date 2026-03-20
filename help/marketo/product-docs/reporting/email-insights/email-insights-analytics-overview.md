@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099411
-description: メールインサイトの分析の概要 - Marketo ドキュメント - 製品ドキュメント
+description: メール配信とエンゲージメントの指標に関する総時系列データを調査するメールインサイト分析について説明します。 グラフとガイド付きインサイトを使用して、関連するパフォーマンス要因を見つけます。
 title: メールインサイトの分析の概要
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 100%
+source-wordcount: '279'
+ht-degree: 90%
 
 ---
 

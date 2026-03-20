@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513141
-description: 分析ホームページの操作 - Marketo ドキュメント - 製品ドキュメント
+description: Analytics ホームページを移動して様々なレポートタイプにアクセスし、ホームビューに戻る方法を説明します。 レポートタイプを選択し、レポートワークスペースを管理します。
 title: 分析ホームページの操作
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 100%
+source-wordcount: '78'
+ht-degree: 65%
 
 ---
 

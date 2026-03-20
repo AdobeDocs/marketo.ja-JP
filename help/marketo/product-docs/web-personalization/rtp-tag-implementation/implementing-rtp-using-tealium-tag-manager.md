@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9437340
-description: Tealium タグマネージャーを使用した RTP の実装 — Marketo ドキュメント — 製品ドキュメント
+description: dnl を使用した rtp の実装など、Marketo Engageで tealium tag manager を使用した rtp の実装について説明します。 このガイドを使用して、次の手順を完了します。
 title: Tealium タグマネージャーを使用した RTP の実装
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 100%
+source-wordcount: '232'
+ht-degree: 89%
 
 ---
 

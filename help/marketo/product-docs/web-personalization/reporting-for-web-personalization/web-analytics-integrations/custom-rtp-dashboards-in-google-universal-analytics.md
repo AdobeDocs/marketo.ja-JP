@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504238
-description: Google ユニバーサルアナリティクスでのカスタム RTP ダッシュボード — Marketo ドキュメント — 製品ドキュメント
+description: のカスタム rtp ダッシュボードを含む、Marketo Engageの google universal analytics のカスタム rtp ダッシュボードについて説明します。 自信を持って次のステップに進みます。
 title: Google ユニバーサルアナリティクスでのカスタム RTP ダッシュボード
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '758'
-ht-degree: 100%
+source-wordcount: '769'
+ht-degree: 97%
 
 ---
 

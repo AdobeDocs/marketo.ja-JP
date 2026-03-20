@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511980
-description: レポートの保存 - Marketo ドキュメント - 製品ドキュメント
+description: レポートアクションから「名前を付けて保存」を選択して、デフォルトのレポートを保存して、後で再度表示する方法を説明します。 マイレポートまたはグループレポート内のフォルダーに保存されたレポートを整理します。
 title: レポートの保存
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 100%
+source-wordcount: '102'
+ht-degree: 72%
 
 ---
 

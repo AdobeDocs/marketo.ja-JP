@@ -1,12 +1,12 @@
 ---
-description: メールレポートの結合/削除されたレコードのフィルタリング - Marketo ドキュメント – 製品ドキュメント
+description: のフィルター削除済み結合レコードを使用して、Marketo Engageのメールレポートの結合/削除レコードをフィルタリングする方法を説明します。 自信を持って次のステップに進みます。
 title: E メールレポートの結合/削除レコードをフィルタリングする
 feature: Reporting
 exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 29%
+source-wordcount: '134'
+ht-degree: 26%
 
 ---
 

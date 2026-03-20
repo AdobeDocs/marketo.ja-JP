@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719402
-description: 新しいウィジェット Web キャンペーンを作成する — Marketo ドキュメント — 製品ドキュメント
+description: 拡張および契約機能を備え、web ページの垂直方向に固定テキストまたはバナーとして表示されるウィジェット web キャンペーンを作成します。 位置、カラー、アニメーション、および表示設定をカスタマイズします。
 title: 新しいウィジェット Web キャンペーンを作成する
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 100%
+source-wordcount: '649'
+ht-degree: 95%
 
 ---
 

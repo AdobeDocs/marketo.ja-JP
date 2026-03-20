@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951220
-description: モバイルプラットフォームの列があるリード効果レポートを作成する — Marketo ドキュメント — 製品ドキュメント
+description: ユーザーの作成を使用して、Marketo Engageでモバイルプラットフォーム列を含むユーザーのパフォーマンスレポートを作成する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: モバイルプラットフォームの列があるリード効果レポートを作成する
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 100%
+source-wordcount: '306'
+ht-degree: 91%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 100%
 
 ## モバイルのスマートリストを作成する {#create-mobile-smart-lists}
 
-1. **[!UICONTROL マーケティング活動]**&#x200B;に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/ma.png)
 

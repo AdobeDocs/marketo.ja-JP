@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360418
-description: 収益ステージ別のリードレポート - Marketo ドキュメント - 製品ドキュメント
+description: 収益ステージレポートを含む、Marketo Engageの収益ステージ別人物レポートについて説明します。 このガイドを使用して、次の手順を完了します。
 title: 収益ステージ別のリードレポート
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 100%
+source-wordcount: '150'
+ht-degree: 84%
 
 ---
 

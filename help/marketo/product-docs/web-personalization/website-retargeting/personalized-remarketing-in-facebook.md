@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720917
-description: Facebook でのパーソナライズリマーケティング - Marketo ドキュメント - 製品ドキュメント
+description: Dnl でのパーソナライズされたリマーケティングを含む、Marketo Engageの facebook でのパーソナライズされたリマーケティングについて説明します。 このガイドを使用して、次の手順を完了します。
 title: Facebook でのパーソナライズリマーケティング
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 100%
+source-wordcount: '299'
+ht-degree: 92%
 
 ---
 

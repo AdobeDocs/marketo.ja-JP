@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11375276
-description: メールインサイトのカスタムディメンション - Marketo ドキュメント — 製品ドキュメント
+description: セグメント化とプログラムタグを使用して、最大 10 個のカスタムディメンションをメールインサイトに追加する方法を説明します。 一度追加すると削除や置き換えはできないので、ディメンションは慎重に選択してください。
 title: メールインサイトのカスタムディメンション
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 100%
+source-wordcount: '126'
+ht-degree: 76%
 
 ---
 

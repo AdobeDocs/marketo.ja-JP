@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719408
-description: 既存の web キャンペーンを編集する - Marketo ドキュメント - 製品ドキュメント
+description: 「既存の web キャンペーンの編集」を使用して、Marketo Engageで既存の web キャンペーンを編集する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: 既存の web キャンペーンを編集する
 exl-id: 2c20f57d-2ee4-4d81-a8db-7d4de319fa78
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 67%
 
 ---
 

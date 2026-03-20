@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718651
-description: メール分析領域について - Marketo ドキュメント - 製品ドキュメント
+description: メール分析エリアの理解を含め、Marketo Engageのメール分析エリアについて説明します。 このガイドを使用して、次の手順を完了します。
 title: メール分析領域について
 exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '360'
-ht-degree: 100%
+source-wordcount: '375'
+ht-degree: 93%
 
 ---
 

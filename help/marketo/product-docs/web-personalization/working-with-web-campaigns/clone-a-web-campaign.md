@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093157
-description: Web キャンペーンを複製する - Marketo ドキュメント - 製品ドキュメント
+description: Web キャンペーンのクローン a web キャンペーンのクローンを使用して、Marketo Engageで web キャンペーンのクローンを作成する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: Web キャンペーンを複製する
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 100%
+source-wordcount: '182'
+ht-degree: 86%
 
 ---
 

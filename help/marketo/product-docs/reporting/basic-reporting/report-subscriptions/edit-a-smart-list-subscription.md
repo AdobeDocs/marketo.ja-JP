@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093041
-description: スマートリスト購読の編集 - Marketo ドキュメント - 製品ドキュメント
+description: 受信者、頻度、列、配信終了日および形式を更新して、スマートリスト購読を編集する方法について説明します。 「購読」タブで直接変更を加えます。
 title: スマートリスト購読の編集
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 100%
+source-wordcount: '214'
+ht-degree: 88%
 
 ---
 

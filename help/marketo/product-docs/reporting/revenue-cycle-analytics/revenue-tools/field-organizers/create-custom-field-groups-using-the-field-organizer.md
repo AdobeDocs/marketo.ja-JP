@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094404
-description: フィールドオーガナイザーを使用したカスタムフィールドグループの作成 - Marketo ドキュメント - 製品ドキュメント
+description: 「カスタムフィールドグループの作成」を使用して、Marketo Engageのフィールドオーガナイザーでカスタムフィールドグループを作成する方法を説明します。 このガイドを使用して、次の手順を完了します。
 title: フィールドオーガナイザーを使用したカスタムフィールドグループの作成
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 100%
+source-wordcount: '1015'
+ht-degree: 97%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
    ![](assets/two.png)
 
-1. 「**[!UICONTROL フィールド]**」をクリックし、文字列エディターにマッピングされる標準フィールドまたはカスタムフィールドを選択します（前の節の表を参照）。ここでは「[!UICONTROL 国]」を使用します。
+1. 「**[!UICONTROL フィールド]**」をクリックし、文字列エディターにマッピングするデータタイプで標準フィールドまたはカスタムフィールドを選択します（前の節の表を参照）。ここでは「[!UICONTROL 国]」を使用します。
 
    ![](assets/three.png)
 
@@ -99,7 +99,7 @@ ht-degree: 100%
 
    ![](assets/two.png)
 
-1. 「**[!UICONTROL フィールド]**」をクリックし、文字列エディターにマッピングされる標準フィールドまたはカスタムフィールドを選択します（前の節の表を参照）。ここでは「[!UICONTROL 年間収益]」を使用します。
+1. 「**[!UICONTROL フィールド]**」をクリックし、文字列エディターにマッピングするデータタイプで標準フィールドまたはカスタムフィールドを選択します（前の節の表を参照）。ここでは「[!UICONTROL 年間収益]」を使用します。
 
    ![](assets/nine.png)
 
@@ -153,7 +153,7 @@ ht-degree: 100%
 
    ![](assets/two.png)
 
-1. 「**[!UICONTROL フィールド]**」をクリックし、文字列エディターにマッピングされる標準フィールドまたはカスタムフィールドを選択します（前の節の表を参照）。ここでは「[!UICONTROL 取得日]」を使用します。
+1. 「**[!UICONTROL フィールド]**」をクリックし、文字列エディターにマッピングするデータタイプで標準フィールドまたはカスタムフィールドを選択します（前の節の表を参照）。ここでは「[!UICONTROL 取得日]」を使用します。
 
    ![](assets/fourteen.png)
 

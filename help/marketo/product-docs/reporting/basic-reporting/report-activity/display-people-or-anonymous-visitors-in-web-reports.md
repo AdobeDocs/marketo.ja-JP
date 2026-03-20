@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360008
-description: Web レポートでのリードまたは匿名の訪問者の表示 - Marketo ドキュメント - 製品ドキュメント
+description: Marketo Engageの web レポートでのディスプレイのユーザーまたは匿名訪問者について説明します。これには、ディスプレイのユーザーや匿名訪問者が含まれます。 このガイドを使用して、次の手順を完了します。
 title: Web レポートでのリードまたは匿名の訪問者の表示
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 100%
+source-wordcount: '170'
+ht-degree: 85%
 
 ---
 

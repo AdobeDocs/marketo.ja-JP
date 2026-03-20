@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718656
-description: 収益モデルの新規作成 - Marketo ドキュメント - 製品ドキュメント
+description: 新しい売上高モデルの作成 create-a-new-revenue-model を使用して、Marketo Engageで新しい売上高モデルを作成する方法を説明します。 自信を持って次のステップに進みます。
 title: 収益モデルの新規作成
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 100%
+source-wordcount: '132'
+ht-degree: 82%
 
 ---
 

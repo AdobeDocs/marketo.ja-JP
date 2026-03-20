@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359971
-description: Web ページアクティビティレポート - Marketo ドキュメント - 製品ドキュメント
+description: 訪問者の詳細情報を使用して、web サイトへの訪問者を示す web ページアクティビティレポートについて説明します。 既知または匿名の人物を表示し、ページビュー、エントリページおよびリファラーを追跡します。
 title: Web ページアクティビティレポート
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 100%
+source-wordcount: '344'
+ht-degree: 91%
 
 ---
 
