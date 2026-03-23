@@ -20,11 +20,11 @@ Marketo Engage の標準リリースノートページは[こちらを参照](/h
 
 ### 訪問者の待機時間の制限 {#visitor-wait-time}
 
-訪問者がフォールバックメッセージを受信するまでに、訪問者がライブエージェントに接続されるのを待つまでの最大時間（10～500秒）を設定します。 [詳細情報](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+訪問者がフォールバックメッセージを受信するまでに、訪問者がライブエージェントに接続されるのを待つまでの最大時間（10～500秒）を設定します。 [詳細情報](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### トランスクリプトをダウンロード {#download-transcript}
 
-ライブチャットが終了した後、チャットのトランスクリプトの.txt ファイルをダウンロードできるようになりました。 [詳細情報](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+ライブチャットが終了した後、チャットのトランスクリプトの.txt ファイルをダウンロードできるようになりました。 [詳細情報](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## 2025年6月リリース {#june-2025-release}
 
