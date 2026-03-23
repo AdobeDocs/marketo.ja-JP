@@ -20,7 +20,7 @@ Marketo Engage の標準リリースノートページは[こちらを参照](/h
 
 ### トランスクリプトをダウンロード {#download-transcript}
 
-ライブチャットが終了した後、チャットのトランスクリプトの.txt ファイルをダウンロードできるようになりました。 [詳細情報](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+ライブチャットが終了した後、チャットのトランスクリプトの.txt ファイルをダウンロードできるようになりました。 [詳細情報](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## 2025年6月リリース {#june-2025-release}
 
