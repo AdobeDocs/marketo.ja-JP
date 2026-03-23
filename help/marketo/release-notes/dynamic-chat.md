@@ -3,10 +3,10 @@ description: Dynamic Chat のリリースノート - Marketo ドキュメント 
 title: Dynamic Chat リリースノート
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 48f78a3f071cae40f788b647c6da48df903a6057
 workflow-type: tm+mt
-source-wordcount: '3414'
-ht-degree: 100%
+source-wordcount: '3438'
+ht-degree: 99%
 
 ---
 
@@ -15,6 +15,12 @@ ht-degree: 100%
 Adobe Dynamic Chat リリースは、継続的な配信モデルに基づいて動作します。このモデルにより、機能のデプロイメントに対するより拡張性の高いアプローチが可能になります。月に複数のリリースが行われる場合があるので、定期的に最新の情報を確認してください。
 
 Marketo Engage の標準リリースノートページは[こちらを参照](/help/marketo/release-notes/current.md){target="_blank"}してください。
+
+## 2026年3月リリース {#march-2026-release}
+
+### トランスクリプトをダウンロード {#download-transcript}
+
+ライブチャットが終了した後、チャットのトランスクリプトの.txt ファイルをダウンロードできるようになりました。 [詳細情報](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## 2025年6月リリース {#june-2025-release}
 
