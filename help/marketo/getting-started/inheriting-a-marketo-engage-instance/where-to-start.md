@@ -3,10 +3,10 @@ description: 継承した既存の Marketo Engage インスタンスを最適化
 title: 開始する場所
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: d6c5e15cfd955e958e873e1ddac92c8f1e0fc1da
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 91%
+source-wordcount: '542'
+ht-degree: 45%
 
 ---
 
@@ -14,31 +14,44 @@ ht-degree: 91%
 
 新しいジョブを開始する際や、既存のインスタンスを別の管理者から引き継ぐ際に、どこから始めればよいかわからないですか？既に実行されているライブインスタンスの引き継ぎには少し抵抗があるかもしれませんが、以下にまとめたリソースを活用するとすぐに慣れることができます。
 
-## Marketing Nation のセットアップを開始 {#get-set-up-in-the-marketing-nation}
+## Adobe Marketo Engage コミュニティでの設定 {#get-set-up}
 
-Marketing Nation コミュニティで適切に設定されていることを確認してください。
+Marketo Engage コミュニティで適切に設定されていることを確認します。
 
-* [**プロファイルを設定**](https://nation.marketo.com/){target="_blank"} します。
+* [**必須フィールド（会社、ソリューションの専門分野、国など）に入力して、プロファイル**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}を設定します
 
-* [**マーケティングコミュニティガイドライン**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"} を参照してください。
+* [**Adobe Experience League コミュニティガイドライン**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}をお読みください。
 
-* [**サポートケースを提出する**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"}方法を学ぶ（また、[**認証済みのサポート担当者として設定**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}されていることを確認する）。
+* [**サポートケース**](https://experienceleague.adobe.com/en/support#home){target="_blank"}を送信し、[ サポート管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}として設定されていることを確認する方法について説明します。
 
-## Marketing Nation プロファイルを統合 {#merge-your-marketing-nation-profile}
+## Marketo Engageのコミュニティプロファイルを統合 {#merge-your-community-profiles}
 
-以前の会社で Marketing Nation プロファイルを既に作成している場合は、次の手順に従って、その履歴を新しいプロファイルに統合します。
+以前の会社のMarketo Engage Community プロファイルを既にお持ちの場合は、次の手順に従って、その履歴を新しいプロファイルに反映します。
 
-1. 現在の Marketo Engage サブスクリプションにアクセスできるメールアドレスを使用して、ユーザ名／コミュニティプロファイルを作成します。
+### 手順1：新しいコミュニティプロファイルの作成 {#create-a-new-profile}
 
-1. [&#x200B; プロファイルを作成したら &#x200B;](https://nation.marketo.com/){target="_blank"} 新しい会社情報を入力し、`ccare@marketo.com` にリクエストを送信して、古いコミュニティプロファイルのデータを新しいプロファイルと結合します。
+1. 現在のMarketo Engage サブスクリプションにアクセスできる会社の電子メールアドレスまたは個人の電子メールアドレスを使用して、ユーザー名とコミュニティプロファイルを作成します。
 
-1. リクエストでは、次の詳細を指定してください。
+1. 会社、ソリューションの専門分野、国などのフィールドに入力します。
 
-* 以前のコミュニティプロファイルに関連付けられた、以前の会社のメールアドレス
-* 現在の Marketo Engage サブスクリプションに関連付けられた、新規の会社メールアドレス
+### 手順2：結合リクエストの送信 {#submit-merge-request}
+
+新しいアカウント情報を使用してプロファイルを作成したら、古いコミュニティプロファイルのデータを新しいプロファイルに統合するためのリクエストを`exlcommunity@adobe.com`に送信します。 リクエストで、次の詳細を指定します。
+
+* 古いコミュニティプロファイルに関連付けられている古いメールアドレス
+* 現在のMarketo Engage サブスクリプションに関連付けられている新しい会社の電子メールアドレス、または新しいプロファイルを作成するための個人の電子メール（使用されている場合）
 * 新しいユーザ名／コミュニティプロファイルの URL
 
-アドビのコミュニティチームが 4 ～ 6 営業日でコミュニティプロファイルを統合します。統合が完了すると、ログイン時に以前のエンゲージメントの履歴が新しいコミュニティプロファイルに表示されます。表示されない場合は、アカウントからログアウトし、再度ログインして確認してください。
+### 手順3：結合と再ログインの完了 {#complete-merge}
+
+Adobe コミュニティチームは、4～6営業日後にコミュニティプロファイルを統合します。 完了すると、ログイン時に新しいコミュニティプロファイルにエンゲージメント履歴が表示されます。
+
+エンゲージメント履歴が表示されない場合は、次のことをお試しください。
+
+* アカウントからログアウトし、再度ログインして確認します
+* ブラウザーのキャッシュをクリア
+* シークレット/プライベートブラウザーでログイン
+* アカウント IDが更新されるまで約2時間待ってから、もう一度確認してください
 
 ## Marketo Engage の継承インスタンスをすぐに開始  {#jumpstart-your-inherited-marketo-engage-instance}
 
@@ -60,10 +73,10 @@ Marketing Nation コミュニティで適切に設定されていることを確
 
 さらにサポートが必要ですか？以下のリンクから、アドビや他の Marketo Engage ユーザとつながることができます。
 
-* 正常に機能しない問題に関して技術的なサポートが必要な場合は、**[Marketo Engage カスタマーサポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**&#x200B;にお問い合わせください。
+* 正常に機能しない問題に関して技術的なサポートが必要な場合は、**[Marketo Engage カスタマーサポート](https://experienceleague.adobe.com/en/support){target="_blank"}**&#x200B;にお問い合わせください。
 
-* **[Adobe Marketo Engage コミュニティ](https://nation.marketo.com/){target="_blank"}**&#x200B;では Marketo Engage ユーザとつながり、知識を深めることができます。
+* **[Adobe Marketo Engage コミュニティ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**&#x200B;では Marketo Engage ユーザとつながり、知識を深めることができます。
 
-* Marketo Engage インスタンスを最大限に活用するための実践的なサポートが必要な場合は、**[Adobe Professional Services](https://business.adobe.com/jp/products/marketo/services-support.html){target="_blank"}** にお問い合わせください。
+* Marketo Engage インスタンスを最大限に活用するための実践的なサポートが必要な場合は、**[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}** にお問い合わせください。
 
 * Marketo Engage の様々な側面に関する&#x200B;**[厳選されたチュートリアルビデオを](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja){target="_blank"}**&#x200B;ご覧ください。
