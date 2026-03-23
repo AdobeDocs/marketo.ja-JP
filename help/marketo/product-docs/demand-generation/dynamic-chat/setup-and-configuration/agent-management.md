@@ -1,12 +1,12 @@
 ---
-description: Dynamic Chatでのエージェント管理について説明します。 エージェントの表示、チームの管理、フォールバックルールの設定、ミーティングやライブチャットの割り当て方法の制御を行います。
+description: Dynamic ChatのAgent Managementについて説明します。 エージェントの表示、チームの管理、フォールバックルールの設定、ミーティングやライブチャットの割り当て方法の制御を可能にします。
 title: エージェント管理
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 92%
+source-wordcount: '364'
+ht-degree: 77%
 
 ---
 
@@ -77,3 +77,17 @@ ht-degree: 92%
 >[!TIP]
 >
 >カスタムメッセージを作成する際は、フォントのスタイル設定、リンクの使用、絵文字の挿入を行うことができます。`:)`
+
+## 設定 {#settings}
+
+### 同時ライブチャット制限 {#concurrent-live-chat}
+
+エージェントが一度に実行できる同時アクティブチャットの数を設定します。 1 ～ 10の範囲で設定できます。
+
+![](assets/agent-management-10.png)
+
+### 訪問者の待機時間の制限 {#visitor-wait-time}
+
+訪問者がフォールバックメッセージを受信するまでに、訪問者がライブエージェントに接続されるのを待つ最大時間（秒単位）を制御します。 10 ～ 500秒の範囲で設定できます。
+
+![](assets/agent-management-11.png)
