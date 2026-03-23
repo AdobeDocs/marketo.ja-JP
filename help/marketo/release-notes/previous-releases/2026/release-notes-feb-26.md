@@ -3,10 +3,10 @@ description: リリースノート - 2026年2月 – Marketo ドキュメント 
 title: リリースノート - 2026年2月
 feature: Release Information
 exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
-source-git-commit: 2d774545b17959ec0dfdf3ed004e7679d925fb98
+source-git-commit: 937c4a43066f957ddbeab9363174bc04e9a7d718
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 43%
+source-wordcount: '400'
+ht-degree: 41%
 
 ---
 
@@ -64,8 +64,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong> メール Designer - AI アシスタント Image Generation</strong>：これで、Fireflyに加えて、Nano Banana モデルを使用して、メール コンテンツのAI アシスタントで画像を生成できます。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">メールの特定のセクションのコンテンツを作成</a></td>
   </tr>
   </tbody>
 </table>
@@ -73,7 +73,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **SEO機能の廃止**: 2026年3月31日火曜日、Marketo Engageは検索エンジン最適化機能（SEO）を廃止します。 SEOを積極的に活用していない場合、何もする必要はありません。 最近SEOを利用したことがある場合は、データを書き出すオプションもあります。 [詳細情報](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=ja){target="_blank"}。
+* **SEO機能の廃止**: 2026年3月31日火曜日、Marketo Engageは検索エンジン最適化機能（SEO）を廃止します。 SEOを積極的に活用していない場合、何もする必要はありません。 最近SEOを利用したことがある場合は、データを書き出すオプションもあります。 [詳細情報](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
 
 * **REST API結合リードの制限**:2026年3月31日（PT）以降、結合リード API呼び出しのleadIds パラメーターに25を超えるIDを含む呼び出しは、1080 エラーコードになり、呼び出しはスキップされます。 25以上のレコードを1つのレコードに統合する必要があるジョブは、それらの呼び出しを成功させるために複数のジョブに分割する必要があります。
 
