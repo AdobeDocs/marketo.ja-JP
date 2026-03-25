@@ -3,9 +3,9 @@ description: リリースノート - 2026年2月 – Marketo ドキュメント 
 title: リリースノート - 2026年2月
 feature: Release Information
 exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
-source-git-commit: 937c4a43066f957ddbeab9363174bc04e9a7d718
+source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '372'
 ht-degree: 41%
 
 ---
@@ -34,8 +34,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <li>ワークスペース間でフォルダーを共有し、フォルダーを右クリックして新しいアセットを作成し、ドラッグ&amp;ドロップでアセットを移動します。</li>
    </ul>
    </td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース</td>
+   <td>該当なし</td>
   </tr>
   <tr>
    <td> </td>
@@ -44,18 +44,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong> メールDesigner - API</strong>：メールDesignerにAPI呼び出しを使用できるようになりました。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Email Designer - Brand Quality Checker</strong>：一般的なコンテンツの品質を評価して、ブランドガイドラインに依存せずに、読みやすさ、コンテンツの一貫性、有効性に関する潜在的な問題を特定します。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース</td>
+   <td><a href="https://developer.adobe.com/marketo-apis/api/asset#">Marketo Asset API</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -65,7 +55,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong> メール Designer - AI アシスタント Image Generation</strong>：これで、Fireflyに加えて、Nano Banana モデルを使用して、メール コンテンツのAI アシスタントで画像を生成できます。</td>
    <td>リリース</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">メールの特定のセクションのコンテンツを作成</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant#create-content-for-a-specific-section">メールの特定のセクションのコンテンツを作成</a></td>
   </tr>
   </tbody>
 </table>
@@ -73,7 +63,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **SEO機能の廃止**: 2026年3月31日火曜日、Marketo Engageは検索エンジン最適化機能（SEO）を廃止します。 SEOを積極的に活用していない場合、何もする必要はありません。 最近SEOを利用したことがある場合は、データを書き出すオプションもあります。 [詳細情報](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=ja){target="_blank"}。
+* **SEO機能の廃止**: 2026年3月31日火曜日、Marketo Engageは検索エンジン最適化機能（SEO）を廃止します。 SEOを積極的に活用していない場合、何もする必要はありません。 最近SEOを利用したことがある場合は、データを書き出すオプションもあります。 [詳細情報](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}。
 
 * **REST API結合リードの制限**:2026年3月31日（PT）以降、結合リード API呼び出しのleadIds パラメーターに25を超えるIDを含む呼び出しは、1080 エラーコードになり、呼び出しはスキップされます。 25以上のレコードを1つのレコードに統合する必要があるジョブは、それらの呼び出しを成功させるために複数のジョブに分割する必要があります。
 
