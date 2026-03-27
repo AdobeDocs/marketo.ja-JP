@@ -1,10 +1,10 @@
 ---
 unique-page-id: 7514151
-description: アトリビューション例 4 attribution-example など、Marketo Engageのアトリビューション例 4 について説明します。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageのアトリビューション例4について説明します。アトリビューション例4のアトリビューション例も含まれます。 このガイドを使用して、次のステップを完了してください。
 title: アトリビューションの例 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 90%
@@ -22,8 +22,8 @@ ht-degree: 90%
 * 4 月 25 日｜John と Michelle が&#x200B;**両方**&#x200B;の商談に関連付けられる
 * 4 月 29 日｜[商談 1] が成立してクローズされる
 
-| プログラム名 | （コンテンツ） | （ウェビナー） |
-|---|---|---|
+| プログラム名 | （コンテンツ） | （ウェビナー） | | |
+|---|---|---|---|---|
 |   | （商談 1） | （商談 2） | （商談 1） | （商談 2） |
 | （MT）創出された商談 | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | （MT）創出されたパイプライン | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |

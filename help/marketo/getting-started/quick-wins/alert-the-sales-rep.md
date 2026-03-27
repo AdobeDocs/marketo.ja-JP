@@ -4,7 +4,7 @@ description: セールス担当者にアラート - Marketo ドキュメント -
 title: セールス担当者にアラート
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '402'
 ht-degree: 97%
@@ -61,7 +61,7 @@ ht-degree: 97%
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} は、アラートメール用の特別なトークンです。詳しくは、[アラート情報トークンの送信の使用](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"}を参照してください。
+   >`{{SP_Send_Alert_Info}}` は、アラートメール用の特別なトークンです。詳しくは、[アラート情報トークンの送信の使用](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}を参照してください。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
@@ -107,7 +107,7 @@ ht-degree: 97%
 
    >[!TIP]
    >
-   >「**[!UICONTROL クオリフィケーションルール]**」を「**[!UICONTROL 毎回]**」（スマートキャンペーンを編集する）に設定し、同じ人物が複数回アラートをトリガーできるようにします。
+   >「**[!UICONTROL 選定ルール]**」を「**[!UICONTROL 毎回]**」（スマートキャンペーンを編集する）に設定し、同じ人物が複数回アラートをトリガーできるようにします。
 
 1. 確認画面の「**[!UICONTROL アクティブ化]**」をクリックします。
 
@@ -137,6 +137,6 @@ ht-degree: 97%
 
 <br> 
 
-[◄ ミッション 7：メールのパーソナライズ](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[◄件のミッション 7：電子メールのパーソナライズ](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[ミッション 9：個人データ ► ータの更新](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[ミッション 9：人物データ ►の更新](/help/marketo/getting-started/quick-wins/update-person-data.md)

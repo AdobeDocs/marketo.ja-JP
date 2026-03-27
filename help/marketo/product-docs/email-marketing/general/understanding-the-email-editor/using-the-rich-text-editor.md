@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953419
-description: メールコンテンツにリッチテキストエディターを使用する方法を説明します。 メールエディターでテキストの書式設定、リンクの追加、コンテンツのスタイル設定を行います。
+description: メールコンテンツにリッチテキストエディターを使用する方法を説明します。 メールエディターでテキストの書式設定、リンクの追加、コンテンツのスタイル設定をおこなうことができます。
 title: リッチテキストエディターの使用
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '752'
-ht-degree: 97%
+ht-degree: 90%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 97%
 
    ![](assets/four.png)
 
-   メールテンプレートに `<div class=“mktEditable”></div>` がある場合、セクションを開き、エディターで「ここにテキストを入力」と入力すると、次の HTML ソース動作が表示されます。
+   メールテンプレートに`<div class="mktEditable"></div>`がある場合、セクションを開き、エディターで「テキストがここに入る」と入力すると、次のHTML Sourceの動作が表示されます。
 
 <table>
  <tbody>
@@ -49,9 +49,9 @@ ht-degree: 97%
    <th>None</th>
   </tr>
   <tr>
-   <td><p>&lt;div class=“mktEditable”&gt;<br>&lt;p&gt;ここにテキストを入力&lt;/p&gt;<br>&lt;/div&gt;</p></td>
-   <td><p>&lt;div class=“mktEditable”&gt;<br>&lt;div&gt;ここにテキストを入力&lt;/div&gt;<br>&lt;/div&gt;</p></td>
-   <td><p>&lt;div class="“mktEditable”"&gt;<br>ここにテキストを入力<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;&lt;ph&gt; id='25'/&gt;&lt;p&gt;ここにテキストを入力&lt;/p&gt;&lt;ph&gt;<br>&lt;/div&gt;<br></p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt; テキストがここに移動&lt;/div&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br> テキストがここに入る<br>&lt;/div&gt;</p></td>
   </tr>
  </tbody>
 </table>
@@ -79,7 +79,8 @@ RTE に含まれる機能を次に示します。
 | ![--](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL 太字] | **より濃く、より太い**。 |
 | ![--](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL 斜体] | *斜め（強調または引用）* |
 | ![--](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL 下線] | テキストの下に行を配置します。 |
-| ![--](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL 配置] | このドロップダウンを使用して、テキストと画像をレイアウトします。中央揃え、左または右揃えを選択するか、エッジをエッジに広げて位置合わせを完全におこないます。 |  | ![--](assets/image2015-7-9-10-3a32-3a47.png) | リスト | ドロップダウンから箇条書き記号または数字を選択します。箇条書き記号は、リストとステップ付きの番号に適しています。 |
+| ![--](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL 配置] | このドロップダウンを使用して、テキストと画像をレイアウトします。中央揃え、左または右揃えを選択するか、エッジをエッジに広げて位置合わせを完全におこないます。 |
+| ![--](assets/image2015-7-9-10-3a32-3a47.png) | リスト | ドロップダウンから箇条書き記号または数字を選択します。箇条書き記号は、リストとステップ付きの番号に適しています。 |
 | ![--](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL インデント] | インデントを増減します。段落や目立たせる任意のテキストに使用します。 |
 | ![--](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL リンクを挿入／編集] | Web サイトやその他のコンテンツへのリンクを配置し、簡単に変更できます。 |
 | ![--](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL 画像を挿入／編集] | 絵は千語の価値があります。1 つ追加しましょう。カメラアイコンをクリックして、Design Studio を参照します。画像を並べてドロップできます。 |

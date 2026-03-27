@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2952678
-description: メールでのアラート情報を送信トークンの使用方法を説明します。 時刻やプログラム名などの詳細を動的に挿入します。
+description: メールでアラート情報を送信トークンを使用する方法を説明します。 時間やプログラム名などの送信詳細を動的に挿入します。
 title: アラート情報送信トークンの使用
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 92%
@@ -52,7 +52,7 @@ ht-degree: 92%
 
    ![](assets/three-3.png)
 
-1. **[!UICONTROL {{SP_Send_Alert_Info}}]** トークンを検索して選択し、「**[!UICONTROL 挿入]**」をクリックします。
+1. **[!UICONTROL `{{SP_Send_Alert_Info}}`]** トークンを検索して選択し、「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 

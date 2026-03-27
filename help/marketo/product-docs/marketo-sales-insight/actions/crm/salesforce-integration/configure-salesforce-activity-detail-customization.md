@@ -1,11 +1,11 @@
 ---
-description: タスクの件名フィールドにSalesforce アクティビティの詳細のカスタマイズを設定する方法について説明します。 アクティビティの同期時に、Salesforce タスクにどのようなログを記録するかを設定します。
+description: タスクの件名フィールドに対してSalesforce アクティビティの詳細カスタマイズを設定する方法について説明します。 アクティビティが同期されたときに、Salesforce タスクに対するログを設定します。
 title: Salesforce アクティビティ詳細のカスタマイズの設定
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 2186cfc201f9f61df4e1fe9cd5f6da1a4a8996bf
 workflow-type: tm+mt
-source-wordcount: '692'
+source-wordcount: '685'
 ht-degree: 96%
 
 ---
@@ -68,33 +68,33 @@ ht-degree: 96%
   <th>説明</th>
  </tr>
  <tr>
-  <td>{{activity_type}}</td>
+  <td><code>{{activity_type}}</code></td>
   <td>メール、呼び出し、InMail、カスタムのいずれかのタスクタイプが入力されます。</td>
  </tr>
  <tr>
-  <td>{{activity_subject}}</td>
+  <td><code>{{activity_subject}}</code></td>
   <td><p>タスクの件名を入力します。</p>
       <p>メールの場合は、メールの件名行が入力されます。</p>
       <p>呼び出し、InMail、カスタムの場合、タスク名／件名フィールドに値を含むリマインダータスクが作成された場合に値が入力されます。</p></td>
  </tr>
  <tr>
-  <td>{{sales_campaign_name}}</td>
+  <td><code>{{sales_campaign_name}}</code></td>
   <td>アクティビティがセールスキャンペーンから開始された場合は、セールスキャンペーンの名前が入力されます。</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_day}}</td>
+  <td><code>{{sales_campaign_day}}</code></td>
   <td>アクティビティがセールスキャンペーンから開始された場合は、このアクティビティが発生したセールスキャンペーンの日番号が入力されます。</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_step}}</td>
+  <td><code>{{sales_campaign_step}}</code></td>
   <td>アクティビティがセールスキャンペーンから開始された場合は、このアクティビティが発生したセールスキャンペーン日内の手順番号が入力されます。</td>
  </tr>
  <tr>
-  <td>{{call_outcome}}</td>
+  <td><code>{{call_outcome}}</code></td>
   <td>アクティビティが呼び出しで、呼び出しの結果が選択されている場合は、呼び出しの結果値が入力されます。</td>
  </tr>
  <tr>
-  <td>{{call_reason}}</td>
+  <td><code>{{call_reason}}</code></td>
   <td>アクティビティが呼び出しで、呼び出しの理由が選択されている場合は、呼び出しの理由の値が入力されます。</td>
  </tr>
 </table>

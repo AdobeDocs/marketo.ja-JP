@@ -1,11 +1,11 @@
 ---
-description: Sales Connect 用にSalesforce アクティビティの詳細をカスタマイズする方法を説明します。 Salesforceでのアクティビティの表示方法をカスタマイズします。
+description: Sales Connect用にSalesforce アクティビティの詳細カスタマイズを設定する方法について説明します。 Salesforceでのアクティビティの表示方法をカスタマイズします。
 title: Salesforce アクティビティ詳細のカスタマイズの設定
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '676'
 ht-degree: 97%
 
 ---
@@ -68,33 +68,33 @@ ht-degree: 97%
   <th>説明</th>
  </tr>
  <tr>
-  <td>{{activity_type}}</td>
+  <td><code>{{activity_type}}</code></td>
   <td>メール、呼び出し、InMail、カスタムのいずれかのタスクタイプが入力されます。</td>
  </tr>
  <tr>
-  <td>{{activity_subject}}</td>
+  <td><code>{{activity_subject}}</code></td>
   <td><p>タスクの件名を入力します。</p>
       <p>メールの場合は、メールの件名行が入力されます。</p>
       <p>呼び出し、InMail、カスタムの場合、タスク名／件名フィールドに値を含むリマインダータスクが作成された場合に値が入力されます。</p></td>
  </tr>
  <tr>
-  <td>{{sales_campaign_name}}</td>
+  <td><code>{{sales_campaign_name}}</code></td>
   <td>アクティビティがセールスキャンペーンから開始された場合は、セールスキャンペーンの名前が入力されます。</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_day}}</td>
+  <td><code>{{sales_campaign_day}}</code></td>
   <td>アクティビティがセールスキャンペーンから開始された場合は、このアクティビティが発生したセールスキャンペーンの日番号が入力されます。</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_step}}</td>
+  <td><code>{{sales_campaign_step}}</code></td>
   <td>アクティビティがセールスキャンペーンから開始された場合は、このアクティビティが発生したセールスキャンペーン日内の手順番号が入力されます。</td>
  </tr>
  <tr>
-  <td>{{call_outcome}}</td>
+  <td><code>{{call_outcome}}</code></td>
   <td>アクティビティが呼び出しで、呼び出しの結果が選択されている場合は、呼び出しの結果値が入力されます。</td>
  </tr>
  <tr>
-  <td>{{call_reason}}</td>
+  <td><code>{{call_reason}}</code></td>
   <td>アクティビティが呼び出しで、呼び出しの理由が選択されている場合は、呼び出しの理由の値が入力されます。</td>
  </tr>
 </table>
@@ -146,5 +146,5 @@ ht-degree: 97%
 >[!MORELIKETHIS]
 >
 >* [同期設定](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
->* [&#x200B; [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md) とのリマインダータスク同期
+>* [ [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md) とのリマインダータスク同期
 >* CRM 用の [[!DNL Sales Connect]  のカスタマイズ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
