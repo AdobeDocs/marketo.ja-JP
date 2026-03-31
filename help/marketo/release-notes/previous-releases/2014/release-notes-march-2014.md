@@ -4,10 +4,10 @@ description: リリースノート - 2014年3月 - Marketo ドキュメント - 
 title: リリースノート - 2014年3月
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 100%
+ht-degree: 90%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 ## 分析のためのプログラムの「包む」および「オペレーショナル」設定 {#inclusive-and-operational-programs-for-analytics}
 
-プログラムチャネルを編集するときに、「分析動作」オプションを「含める」よう設定することで、[!UICONTROL 収益エクスプローラー]やアナライザーに[期間コストのかからないプログラムを含める](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)ことができるようになりました。また、「オペレーショナル」を選択することで、運用プログラムをすべてレポートから除外することもできます。
+プログラムチャネルを編集する際に、Analyticsの動作オプションを「包含」に設定することで、[Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)およびAnalyzersで[!UICONTROL 期間費用なしのプログラムを]含めることができるようになりました。 また、「運用中」を選択すると、運用プログラムをすべてレポートから除外することもできます。
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 
@@ -51,7 +51,7 @@ ht-degree: 100%
 
 ## 追加のユーザー言語 {#additional-user-language}
 
-[Marketo アプリケーションの言語](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)を選択します。希望の言語で Marketo リード管理インターフェイスを表示できます。日本語がサポートされました。
+[Marketo アプリケーションの言語](/help/marketo/product-docs/administration/settings/change-time-zone.md)を選択します。希望の言語で Marketo リード管理インターフェイスを表示できます。日本語がサポートされました。
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 

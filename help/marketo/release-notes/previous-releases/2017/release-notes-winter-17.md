@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: リリースノート - 17年冬 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 17年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 100%
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 ## 多言語化対応 {#localization}
 
-Web パーソナライゼーション、[!UICONTROL 予測コンテンツ]、メールインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。[言語とロケールを選択](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)して、これらの言語でコンテンツを表示します。
+Web パーソナライゼーション、[!UICONTROL 予測コンテンツ]、メールインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。[言語とロケールを選択](/help/marketo/product-docs/administration/settings/change-time-zone.md)して、これらの言語でコンテンツを表示します。
 
 ![](assets/japanese-web-personalization.png)
 

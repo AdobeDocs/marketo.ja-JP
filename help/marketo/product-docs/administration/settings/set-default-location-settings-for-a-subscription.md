@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359902
-description: 管理者がサブスクリプションのデフォルトの場所設定（言語、ロケール、タイムゾーン、通貨を含む）を表示および編集する方法。
+description: 管理者が言語、ロケール、タイムゾーン、通貨など、サブスクリプションのデフォルトの位置設定を表示および編集する方法。
 title: サブスクリプションのデフォルトの場所の設定
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 92%
+source-wordcount: '247'
+ht-degree: 87%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 92%
 
 ## サブスクリプションのデフォルトの場所の設定 {#set-default-location-settings-for-a-subscription-1}
 
-管理者がデフォルトの場所の設定を変更すると、新しく作成されたユーザーはこれらの設定を継承します。ユーザーはいつでも個々のアカウントで、[言語、ロケール、タイムゾーンの環境設定を変更する](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)ことができます。
+管理者がデフォルトの場所の設定を変更すると、新しく作成されたユーザーはこれらの設定を継承します。ユーザーは、個人アカウントのタイムゾーン [を](/help/marketo/product-docs/administration/settings/change-time-zone.md)変更できます。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -65,4 +65,4 @@ ht-degree: 92%
 
 >[!MORELIKETHIS]
 >
->* [言語、ロケール、タイムゾーンの選択](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+>* [ タイムゾーンを変更](/help/marketo/product-docs/administration/settings/change-time-zone.md)
