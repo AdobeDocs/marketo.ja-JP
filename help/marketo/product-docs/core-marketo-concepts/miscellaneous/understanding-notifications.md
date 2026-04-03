@@ -1,22 +1,22 @@
 ---
 unique-page-id: 2952292
-description: キャンペーンの失敗と CRM の同期に関するMarketo Engage通知について説明します。 購読してメールでアラートを取得し、最新の状態に保ちます。
+description: キャンペーンの失敗とCRMの同期に関するMarketo Engage通知について説明します。 メールでアラートを受け取り、最新情報を入手するには、購読してください。
 title: 通知について
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: ea341c472b6e4ac81edd60e269916f0451b94152
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 30%
+source-wordcount: '249'
+ht-degree: 22%
 
 ---
 
 # 通知について {#understanding-notifications}
 
-通知により、Marketo Engage サブスクリプションで発生するシステムイベントに関する最新情報が得られます。 例えば、Campaign の失敗通知は、スマートキャンペーンのエラーを通知し、CRM 同期通知は、CRM 同期で見つかった重要な問題（権限の誤りや同期の停止など）を警告します。
+お知らせにより、Marketo Engage サブスクリプションで発生するシステムイベントに関する最新情報を入手できます。 例えば、Campaignの失敗に関する通知はスマートキャンペーンのエラーを通知し、CRMの同期通知はCRMの同期で見つかった重要な問題（誤った権限や同期が停止しているなど）を警告します。
 
 ## 概要 {#overview}
 
-1. 新しい通知は、Marketo Engageの左上に表示されます。
+1. Marketo Engageの左上に新しい通知が表示されます。
 
    ![](assets/understanding-notifications-1.png)
 
@@ -24,24 +24,28 @@ ht-degree: 30%
 
    ![](assets/understanding-notifications-2.png){width="800" zoomable="yes"}
 
+   >[!NOTE]
+   >
+   >通知は、Marketo アカウントで60日間利用できます。
+
 ## 通知の配信登録 {#subscribe-to-notifications}
 
 配信登録すると、通知をメールで受信できます。
 
-1. _通知_ 画面で、「**[!UICONTROL 購読]**」をクリックします。
+1. _通知_&#x200B;画面で、**[!UICONTROL 購入]**&#x200B;をクリックします。
 
    ![](assets/understanding-notifications-3.png)
 
-1. _通知の種類_ と _Workspace_ を選択します。 通知の送信先のメールアドレスを入力します（複数を追加する場合は、コンマで区切ります）。 終了したら「**[!UICONTROL 配信登録]**」をクリックします。
+1. _通知の種類_&#x200B;と&#x200B;_Workspace_&#x200B;を選択します。 通知の送信先のメールアドレスを入力します（複数のメールアドレスをコンマで区切って追加できます）。 終了したら「**[!UICONTROL 配信登録]**」をクリックします。
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->_[!UICONTROL 送信先]_ ボックスに入力できるのは、メールアドレスのみです。既存の購読者のリストは表示されません。
+>「_[!UICONTROL 送信先]_」ボックスには、電子メールアドレスを入力する必要があります。既存の購読者のリストは表示されません。
 
-場合によっては、Microsoft Dynamics 同期エラーファイルなど、コンマ区切り値（CSV）ファイルをダウンロードするための「完全なリストを表示」リンクが通知に表示されることがあります。Marketo Engageでは、これらの CSV ファイルが 30 日間保持されます。 それ以降にファイルをダウンロードしようとすると、404 エラーが発生します。
+場合によっては、Microsoft Dynamics 同期エラーファイルなど、コンマ区切り値（CSV）ファイルをダウンロードするための「完全なリストを表示」リンクが通知に表示されることがあります。Marketo Engageは、これらのCSV ファイルを30日間保持します。 30日後にファイルをダウンロードしようとすると、エラーが発生します。
 
 >[!TIP]
 >
->通知メールを登録解除するのも簡単です。通知メールの下部にある **[!UICONTROL 通知から登録解除]** リンクをクリックするだけです。
+>通知メールを登録解除するのも簡単です。通知メールの下部にある「**[!UICONTROL 通知から登録解除]**」リンクをクリックするだけです。
