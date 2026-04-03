@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: リリースノート - 2016年秋 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2016年秋
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 100%
@@ -34,7 +34,7 @@ ht-degree: 100%
 
 ![](assets/facebook.png)
 
-## [ユニバーサル ID](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## ユニバーサル ID {#universal-id}
 
 ユニバーサル ID を使用すると、1 回のログインで複数の Marketo 購読にアクセスし、すばやく購読を切り替えることができます。1 つのコミュニティプロファイルを、すべてのサブスクリプションで使用できます。
 
@@ -79,7 +79,7 @@ ht-degree: 100%
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Salesforce 暗号化と互換性のある Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [Salesforce 暗号化と互換性のあるセールスインサイト](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
 Market [!DNL Sales Insight] は、[!DNL Salesforce] Shield Encryption と互換性を持つようになりました。[!DNL Sales Insight] を使用中の顧客は、[ [!DNL Appexchange] で利用可能な](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)最新の管理パッケージ（バージョン 1.4359.2）にアップグレードする必要があります。
 
