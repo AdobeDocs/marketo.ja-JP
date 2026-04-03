@@ -1,11 +1,11 @@
 ---
 solution: Marketo Engage
 product: marketo
-description: メールDesignerとそのドラッグ&ドロップエディターについて説明します。 Marketo Engageでメールテンプレートを作成およびカスタマイズして、生産性を高めます。
+description: メールDesignerとそのドラッグ&ドロップエディターについて説明します。 Marketo Engageでメールテンプレートを作成およびカスタマイズし、生産性を向上できます。
 title: 概要
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '680'
 ht-degree: 95%
@@ -54,7 +54,7 @@ ht-degree: 95%
 
 * [画像から HTML へのコンバーター](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}：あるメールの互換 PNG／JPEG 画像ファイルをアップロードすると、HTML へと自動的に変換され、新しい E メールデザイナーできるようになります。
 
-* [ブランドテーマ](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}：Marketo Engage 内でブランドテーマを定義します。ブランドの一貫性を確保するために、メールテンプレートやその他のメールアセットをまたいでスタイル設定を再利用および適用できます。
+* [ブランドテーマ](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md){target="_blank"}：Marketo Engage 内でブランドテーマを定義します。ブランドの一貫性を確保するために、メールテンプレートやその他のメールアセットをまたいでスタイル設定を再利用および適用できます。
 
 * [テンプレートインポーター](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}：クラシックメールエディターからメールテンプレートを読み込んで、デザインスタジオの新しい E メールデザイナーと互換性のあるテンプレートを作成します。
 
@@ -84,11 +84,11 @@ ht-degree: 95%
 
 **ブランディング（フォント、ロゴ、カラー）を適用する方法はありますか？**
 
-はい、あります。[ブランドテーマ](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md)を使用して、ブランドガイドラインを作成および管理します。
+はい、あります。[ブランドテーマ](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md)を使用して、ブランドガイドラインを作成および管理します。
 
 **テンプレートのモジュールを作成すると、よりカスタマイズ可能で拡張性が高くなりますか？**
 
-はい。WYSIWYG（what-you-see-is-what-you-get）エディターを使用すれば、さらにカスタマイズできます。
+WYSIWYGのエディターは、より詳細にカスタマイズできます。
 
 **新しいデザイナーでは、メールテンプレートの作成プロセスはどのように機能しますか？ これは WYSIWYG ですか？または HTML の知識が必要ですか？**
 
