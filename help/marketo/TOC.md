@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '9342'
+source-wordcount: '9160'
 ht-degree: 99%
 
 ---
@@ -60,44 +60,10 @@ ht-degree: 99%
 + 製品ドキュメント {#product-docs}
    + その他のアプリ {#additional-apps}
       + SEO {#seo}
-         + SEO について {#understanding-seo}
-            + [検索エンジンの最適化について](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [SEO ダッシュボードについて：SEO レコメンデーション](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-            + [SEO ダッシュボードについて：SEO スナップショット](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-            + [SEO - サイトの追加と削除](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-            + [SEO - 競合相手の追加](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
-            + [SEO - リストの管理](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-            + [SEO - 検索エンジンの地域／国の選択](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
-            + [SEO - メールアラートの環境設定](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + キーワード {#keywords}
-            + [SEO - キーワードの追加](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-            + [SEO - キーワード表示に対する列の追加／削除](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-            + [SEO - リストに対するキーワードの追加／削除](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO - キーワード結果のエクスポート](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-            + [SEO - キーワード結果のフィルター](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
-            + [SEO - 推奨キーワードの取得](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
-            + [SEO - CSV を使用したキーワードのインポート](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
-            + [SEO - キーワードトレンドグラフ](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
-            + [SEO - ターゲットキーワードを使用した特定のページの最適化](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-            + [SEO - キーワードの削除](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
-            + [SEO - キーワードについて](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO - 検索エンジンでのキーワード結果の表示](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + ページ {#pages}
-            + [SEO - ページに関する問題へのメモの追加](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
-            + [SEO - ページの追加](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-            + [SEO - リストに対するページの追加／削除](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
-            + [SEO - リストに対するページ問題の追加／削除](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
             + [SEO - 問題を CSV にエクスポート](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-            + [SEO - ページ問題の削除](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
-            + [SEO - ページの削除](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
-            + [SEO - ページについて](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-            + [SEO - ページ詳細ドリルダウンの使用](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-         + インバウンドリンク {#inbound-links}
-            + [SEO - 手動によるインバウンドリンク URL の追加](product-docs/additional-apps/seo/inbound-links/seo-add-an-inbound-link-url-manually.md)
-            + [SEO - リストに対するインバウンドリンク URL の追加／削除](product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)
-            + [SEO - インバウンドリンク候補の取得](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
-            + [SEO - インバウンドリンク URL の削除](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
-            + [SEO - インバウンドリンクについて](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
          + レポート {#reports}
             + [SEO - 競合他社 KW トレンドレポートの使用](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO - キーワードトレンドレポートの使用](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
@@ -1207,7 +1173,7 @@ ht-degree: 99%
             + [Salesforce ID の Sales Connect へのインポート](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [アクティビティ履歴への Sales Connect イベントフィールドのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
             + [Professional Edition 顧客向け Salesforce カスタマイズのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
-            + [&#x200B; セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
+            + [ セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Salesforce のレポートダッシュボード](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [CRM 用の Sales Connect のカスタマイズ](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Salesforce Classic での一括アクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
@@ -1746,7 +1712,7 @@ ht-degree: 99%
          + レポートタイプ {#report-types}
             + [キャンペーンアクティビティレポート](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [キャンペーンメールの効果レポート](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-            + [&#x200B; 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+            + [ 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [ステータス別のリードレポート](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [人物のパフォーマンスレポート](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [レポートタイプの概要](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)

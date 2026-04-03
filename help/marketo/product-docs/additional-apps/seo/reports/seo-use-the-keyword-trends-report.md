@@ -1,13 +1,15 @@
 ---
 unique-page-id: 2949273
-description: キーワードランクのトレンド レポートを使用して、キーワードに基づいたサイトのランク付けの推移を表示します。
+description: キーワードランクのトレンドレポートで、キーワードにもとづいて自社サイトを長期的にどのようにランク付けするのかを確認できます。
 title: SEO - キーワードトレンドレポートの使用
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
+hide: true
+hidefromtoc: true
 feature: SEO
-source-git-commit: b42922726bebab913436bb0955557339af96d0f5
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 74%
+source-wordcount: '201'
+ht-degree: 69%
 
 ---
 
@@ -17,12 +19,12 @@ ht-degree: 74%
 
 >[!IMPORTANT]
 >
->2026 年 3 月 31 日（PT）に、Marketo Engageは検索エンジン最適化機能を廃止します。 3 月 30 日以前に関連データを書き出してください。 [詳細情報](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}。
+>2026年3月31日、Marketo Engage [は検索エンジンの最適化機能](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}を非推奨（廃止予定）にしました。 [seo.marketo.com](https://seo.marketo.com/)は引き続き期間限定で利用できます。 データを書き出すには、以下の記事の手順に従います。
 >
->* [&#x200B; 書き出しの問題 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [&#x200B; キーワード結果のエクスポート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [&#x200B; キーワードのトレンドを書き出し &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [&#x200B; 競合企業キーワードの傾向のエクスポート &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [問題の書き出し](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [ キーワード結果の書き出し](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [ キーワードトレンドの書き出し](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [競合キーワードのトレンドを書き出し](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## レポートを読み込む {#load-report}
 
@@ -62,9 +64,3 @@ ht-degree: 74%
 1. 「**[!UICONTROL CSV をエクスポート]**」または「**[!UICONTROL PDF をエクスポート]**」をクリックします。
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
-
-キーワードランキングを競合他社と比較して確認することもできます。
-
->[!NOTE]
->
->[競合 KW ランクトレンドレポートの使用](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
