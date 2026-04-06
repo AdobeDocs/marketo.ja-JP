@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 62f5166e6a77c8ef50e7c596754205e8f02c6dc7
+source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
 workflow-type: tm+mt
 source-wordcount: '9171'
 ht-degree: 99%
@@ -58,12 +58,12 @@ ht-degree: 99%
       + [継承インスタンス：設定のドキュメント化](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [コアスキルのレビュー](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + 製品ドキュメント {#product-docs}
-   + MARKETO MCP {#marketo-mcp}
-      + [概要](product-docs/marketo-mcp/overview.md)
-      + [設定と設定](product-docs/marketo-mcp/settings-setup.md)
+   + MARKETO AI {#marketo-ai}
+      + [概要](product-docs/marketo-ai/overview.md)
+      + [設定と設定](product-docs/marketo-ai/settings-setup.md)
       + エージェント {#agents}
-         + [リードの読み込み](product-docs/marketo-mcp/agents/import-leads.md)
-         + [プログラム QA](product-docs/marketo-mcp/agents/program-qa.md)
+         + [リードの読み込み](product-docs/marketo-ai/agents/import-leads.md)
+         + [プログラム QA](product-docs/marketo-ai/agents/program-qa.md)
    + その他のアプリ {#additional-apps}
       + SEO {#seo}
          + キーワード {#keywords}
@@ -267,11 +267,11 @@ ht-degree: 99%
             + [リストに追加](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
             + [フィールドへのデータ追加](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [Web フックの呼び出し](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
-            + [データ値の変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
+            + [データ値を変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
             + [フィールド値のクリア](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md)
             + [リードパーティションの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-person-partition.md)
             + [売上高ステージの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-revenue-stage.md)
-            + [スコアの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)
+            + [スコアを変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)
             + [人物のコンバージョン](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
             + [フローステップの削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [人物の削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
@@ -1179,7 +1179,7 @@ ht-degree: 99%
             + [Salesforce ID の Sales Connect へのインポート](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [アクティビティ履歴への Sales Connect イベントフィールドのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
             + [Professional Edition 顧客向け Salesforce カスタマイズのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
-            + [&#x200B; セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
+            + [ セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Salesforce のレポートダッシュボード](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [CRM 用の Sales Connect のカスタマイズ](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Salesforce Classic での一括アクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
@@ -1718,7 +1718,7 @@ ht-degree: 99%
          + レポートタイプ {#report-types}
             + [キャンペーンアクティビティレポート](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [キャンペーンメールの効果レポート](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-            + [&#x200B; 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+            + [ 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [ステータス別のリードレポート](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [人物のパフォーマンスレポート](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [レポートタイプの概要](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
