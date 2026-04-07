@@ -4,10 +4,10 @@ title: 設定と設定
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
+source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 11%
+source-wordcount: '167'
+ht-degree: 10%
 
 ---
 
@@ -15,11 +15,23 @@ ht-degree: 11%
 
 概要テキスト。
 
+## 設定 {#settings}
+
+NAMEをMarketo Engage アカウントに接続するには、次の手順に従います。
+
+1. マイMarketoで、**AIでビルド** タイルをクリックします。
+
+スクリーンショット
+
+1. 歯車アイコンをクリックします
+
+まだ接続されていないインスタンスが必要になります
+
 ## 接続 {#connection}
 
 「接続」タブで、「MARKETO MCPの名前」の初期設定を行うには、次の手順に従います。
 
-+++
++++初期設定手順
 
 テキスト
 
