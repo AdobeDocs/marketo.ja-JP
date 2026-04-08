@@ -43,7 +43,7 @@ ht-degree: 2%
 
 ### カスタム役割 {#custom-role}
 
-また、[新しい役割](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成し、その権限をカスタマイズするオプションもあります。また、_AIを使用してビルドにアクセス_&#x200B;を追加し、その役割[を特定のユーザーに](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}割り当てます。
+また、[新しい役割](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成し、その権限をカスタマイズするオプションもあります。また、_AIを使用してビルドにアクセス_&#x200B;を追加し、その役割[を特定のユーザーに](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}割り当てます。
 
 <!-- ## Permissions {#permissions}
 
