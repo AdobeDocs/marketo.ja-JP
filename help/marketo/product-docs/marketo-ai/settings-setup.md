@@ -4,10 +4,10 @@ title: 設定と設定
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 3%
+source-wordcount: '333'
+ht-degree: 2%
 
 ---
 
@@ -17,19 +17,51 @@ ht-degree: 3%
 
 ## 権限 {#permissions}
 
-Marketo AIにアクセスするには、管理者が最初にロール権限を有効にする必要があります。
+>[!IMPORTANT]
+>
+>Marketo AIのAlpha フェーズでは、管理者、Adobe Product Admin Marketing User、標準ユーザーの役割に対して、_アクセスがデフォルトで_&#x200B;有効になります。 したがって、アクセス権を持つ役割に対してオンにする代わりに、自分がオフにしている役割に対してオフにする必要があります。
+
+### すべての人にアクセス {#access-for-all}
+
+上記のすべての役割に対してMarketo AIを有効にしたい場合は、何もする必要はありません。
+
+### 一部のユーザーへのアクセス {#access-for-some}
+
+役割のアクセス権を削除する場合は、次の手順に従います。
 
 1. マイMarketoで、**管理者**、**ユーザーと役割**&#x200B;の順にクリックします。
 
    ![](assets/settings-setup-1.png)
 
-1. 「_役割_」タブで、目的の役割を選択し、**役割を編集**&#x200B;をクリックします。
+1. 「_役割_」タブで、目的の役割（または役割）を選択し、**役割を編集**&#x200B;をクリックします。
 
    ![](assets/settings-setup-2.png)
 
-1. 下にスクロールして「**AIを使用したビルドにアクセス**」チェックボックスを選択し、**保存**&#x200B;をクリックします。
+1. 下にスクロールして、「_AIを使用してビルドにアクセス_」チェックボックスのチェックを外し、**保存**」をクリックします。****
 
    ![](assets/settings-setup-3.png)
+
+### カスタム役割 {#custom-role}
+
+また、[新しい役割](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成し、その権限をカスタマイズするオプションもあります。また、_AIを使用してビルドにアクセス_&#x200B;を追加し、その役割[を特定のユーザーに](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}割り当てます。
+
+<!-- ## Permissions {#permissions}
+
+In order to access Marketo AI, Admins must first enable role permissions. 
+
+1. In your My Marketo, click **Admin**, then **Users & Roles**.
+
+   ![](assets/settings-setup-1.png)
+
+1. In the _Roles_ tab, select the desired role and click **Edit Role**.
+
+   ![](assets/settings-setup-2.png)
+
+1. Scroll down and select the **Access Build with AI** checkbox and click **Save**.
+
+   ![](assets/settings-setup-3.png)
+
+-->
 
 ## 設定 {#settings}
 
