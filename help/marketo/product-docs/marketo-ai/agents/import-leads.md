@@ -1,13 +1,13 @@
 ---
-description: 近日開始.
+description: リードの読み込みエージェントを使用して、CSVのアップロード、ビジネスルールの適用、フィールドのマッピング、リードのMarketo Engage データベースへの直接読み込みを行う方法について説明します。
 title: リードの読み込み
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
+source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 2%
+source-wordcount: '204'
+ht-degree: 1%
 
 ---
 

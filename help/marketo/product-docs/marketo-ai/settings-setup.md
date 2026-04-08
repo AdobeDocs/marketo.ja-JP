@@ -1,19 +1,19 @@
 ---
-description: 近日開始.
+description: Marketo AI権限を有効にする方法、組織ルールを設定する方法、統合や通知などの設定を管理する方法について説明します。
 title: 設定と設定
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 5%
+source-wordcount: '225'
+ht-degree: 3%
 
 ---
 
 # 設定と設定 {#settings-setup}
 
-概要テキスト。
+権限を有効にし、設定エリアを使用して接続の詳細を表示し、組織ルールを定義し、統合と通知を設定する方法を説明します。
 
 ## 権限 {#permissions}
 
