@@ -3,9 +3,9 @@ description: 近日開始.
 title: リードを調査
 hide: true
 hidefromtoc: true
-source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
+source-git-commit: 780e07bfafe72bd69a43c3014522fd1b2a6b9a36
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 MQL、プログラムの選定基準、ライフサイクルの進捗を確認しなかった理由を説明します。
 
-調査シナリオの完全なリストを表示するには、右側の下向き矢印をクリックします。
+調査シナリオの完全なリストを表示するには、右側の矢印をクリックします。
 
 スクリーンショット
 
