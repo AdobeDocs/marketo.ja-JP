@@ -4,7 +4,7 @@ title: 設定と設定
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
+source-git-commit: d5f5c11a56f21e7dba3e1e79eb6785937f165b14
 workflow-type: tm+mt
 source-wordcount: '333'
 ht-degree: 2%
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->Marketo AIのAlpha フェーズでは、管理者、Adobe Product Admin Marketing User、標準ユーザーの役割に対して、_アクセスがデフォルトで_&#x200B;有効になります。 したがって、アクセス権を持つ役割に対してオンにする代わりに、自分がオフにしている役割に対してオフにする必要があります。
+>Marketo AIのAlpha フェーズでは、管理者、Adobe製品管理者、マーケティングユーザー、標準ユーザーの役割に対して、_アクセスがデフォルトで_&#x200B;有効になっています。 したがって、アクセス権を持つ役割に対してオンにする代わりに、自分がオフにしている役割に対してオフにする必要があります。
 
 ### すべての人にアクセス {#access-for-all}
 
@@ -37,13 +37,13 @@ ht-degree: 2%
 
    ![](assets/settings-setup-2.png)
 
-1. 下にスクロールして、「_AIを使用してビルドにアクセス_」チェックボックスのチェックを外し、**保存**」をクリックします。**&#x200B;**
+1. 下にスクロールして、「_AIを使用してビルドにアクセス_」チェックボックスのチェックを外し、**保存**」をクリックします。****
 
    ![](assets/settings-setup-3.png)
 
 ### カスタム役割 {#custom-role}
 
-また、[新しい役割](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成し、その権限をカスタマイズするオプションもあります。また、_AIを使用してビルドにアクセス_&#x200B;を追加し、その役割[を特定のユーザーに](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}割り当てます。
+また、[新しい役割](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成し、その権限をカスタマイズして、_AIを使用してビルドにアクセス_&#x200B;を追加し、その他の任意の役割を[特定のユーザーに割り当てるオプションもあります。](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}
 
 <!-- ## Permissions {#permissions}
 
