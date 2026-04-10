@@ -18,7 +18,7 @@ ht-degree: 14%
 
 以下の表を使用して、以前のメールエディター（メールエディター2.0）と新しいメールDesignerの機能を比較します。
 
-このページ（および[現在のリリースノート ](/help/marketo/release-notes/current.md){target="_blank"}）でアップデートをご確認ください。
+このページ（および[現在のリリースノート &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}）でアップデートをご確認ください。
 
 <table><thead>
   <tr>
