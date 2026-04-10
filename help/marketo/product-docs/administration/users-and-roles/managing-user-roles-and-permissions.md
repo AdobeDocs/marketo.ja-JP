@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359909
-description: ユーザーのロールを設定、作成、編集する方法、ユーザーにロールを割り当てる方法、各Marketo ユーザーがアクセスできる領域と機能を制御する方法について説明します。
+description: ユーザーの役割を設定、作成、編集する方法、ユーザーに役割を割り当てる方法、Marketo ユーザーがアクセスできる領域と機能を制御する方法について説明します。
 title: ユーザのロールと権限の管理
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 95%
+source-wordcount: '497'
+ht-degree: 89%
 
 ---
 
@@ -24,16 +24,13 @@ ht-degree: 95%
 Marketo には様々なレベルのアクセス権を持つ、次のビルトインのロールが用意されています。
 
 * **管理者** - 「管理者」セクションを含む、アプリケーションのすべての部分
+* **Adobe Product Admin** – 管理者セクションを含むアプリケーションのすべての部分
 * **標準ユーザ** - 「管理者」セクションを除く、アプリケーションのすべての部分
 * **マーケティングユーザ** - 「管理者」セクションを除く、アプリケーションのすべての部分
 * **Web デザイナー** - デザインスタジオのみ
 * **分析ユーザ** - 「分析」セクションのみ
 
-管理者ロールと標準ユーザロールは編集できませんが、他のロールは編集できます。また、会社の特定の組織構造に合致するカスタムのロールを新たに作成することもできます。
-
-## Marketo と Adobe ID {#marketo-with-adobe-identity}
-
-Marketo を Adobe ID と共に使用している場合、プロファイルの説明のリストは[ここにあります](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels)。
+管理者ロールまたはAdobe製品管理者ロールは削除できませんが、他のロールは編集または削除できます。 また、会社の特定の組織構造に合致するカスタムのロールを新たに作成することもできます。
 
 ## ユーザへのロールの割り当て {#assign-roles-to-a-user}
 

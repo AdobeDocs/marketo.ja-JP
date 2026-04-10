@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360198
-description: ユーザーの役割を作成、削除、編集する手順です。役割の命名、権限の選択、変更できないシステムの役割などが含まれます。
+description: ユーザーの役割を作成、削除、編集する手順（名前の役割、権限の選択、変更できないシステムの役割など）。
 title: ユーザーのロールの作成、削除、編集および変更
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 93%
+source-wordcount: '295'
+ht-degree: 89%
 
 ---
 
@@ -21,13 +21,10 @@ ht-degree: 93%
 
 >[!IMPORTANT]
 >
->以下のロールはシステムロールで、編集や削除はできません。
+>次の役割はシステムの役割です。削除できません：
 >
 >* 管理
 >* アドビ製品管理者
->* 標準ユーザー
->* RTP エディタ
->* RTP 起動ツール
 
 ## ロールの作成 {#create-a-role}
 
