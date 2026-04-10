@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2359906
-description: ユーザーの作成および削除、パスワードのリセット、ユーザー情報およびAdobe ID を使用しないサブスクリプションの権限の編集を行う手順です。
+description: Adobe IDを使用しないサブスクリプションのユーザーを作成および削除し、パスワードをリセットし、ユーザー情報と権限を編集する手順。
 title: Marketo ユーザーの管理
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 95%
@@ -15,7 +15,7 @@ ht-degree: 95%
 
 >[!IMPORTANT]
 >
->この記事は、[Adobe ID で Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} を使用し&#x200B;_ない_&#x200B;ユーザのみを対象としています。その場合は、[この記事](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}の手順に従ってください。
+>この記事は、[Adobe ID で Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} を使用し&#x200B;_ない_&#x200B;ユーザのみを対象としています。その場合は、[この記事](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md){target="_blank"}の手順に従ってください。
 
 ## ユーザーを作成する {#create-users}
 

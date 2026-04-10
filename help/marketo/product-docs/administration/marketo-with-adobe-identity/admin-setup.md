@@ -1,9 +1,9 @@
 ---
-description: Adobe Admin Consoleに追加された後のAdobe システム管理者の初期設定手順（Marketo Engageでの製品プロファイルの作成を含む）。
+description: Adobe Admin Consoleでの製品プロファイルの作成など、Marketo Engageに追加された後のAdobe システム管理者の初期設定手順。
 title: 管理者設定
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 90%
@@ -56,4 +56,4 @@ ht-degree: 90%
 
 >[!MORELIKETHIS]
 >
->[製品管理者の追加または削除](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
+>[製品管理者の追加または削除](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md){target="_blank"}
