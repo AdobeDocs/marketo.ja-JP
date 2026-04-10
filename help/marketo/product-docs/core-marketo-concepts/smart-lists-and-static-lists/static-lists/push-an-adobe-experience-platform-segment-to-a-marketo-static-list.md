@@ -1,9 +1,9 @@
 ---
-description: Adobe Experience Platform セグメントをMarketo静的リストにプッシュする方法を説明します。 AEP セグメントをMarketo リストに同期します。
+description: Adobe Experience Platform セグメントをMarketo静的リストにプッシュする方法を説明します。 AEPセグメントをMarketoリストに同期します。
 title: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
 workflow-type: tm+mt
 source-wordcount: '663'
 ht-degree: 96%
@@ -17,7 +17,7 @@ ht-degree: 96%
 >[!PREREQUISITES]
 >
 >* [API ロールを編集](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"}して、**読み取り／書き込み**&#x200B;権限を持つようにします（アクセス API ドロップダウン下にあります）。
->* Marketo で [API ユーザを作成](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}します。
+>* Marketo で [API ユーザを作成](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}します。
 >* **[!UICONTROL 管理者]**／**[!UICONTROL Launchpoint]** に移動します。作成したロールの名前を探し、「**[!UICONTROL 詳細を表示]**」をクリックします。手順 7 で必要になるため、**[!UICONTROL クライアント ID]** と&#x200B;**[!UICONTROL クライアントシークレット]**&#x200B;の情報をコピーして保存します。
 >* Marketo で、静的リストを作成するか、既に作成した静的リストを見つけて選択します。ID が必要になります。
 

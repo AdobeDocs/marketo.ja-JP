@@ -1,10 +1,10 @@
 ---
 unique-page-id: 15695874
-description: API 専用  [!DNL BrightTALK]  ユーザー資格情報を使用して、LaunchPoint 経由でチャネルをMarketoに接続します。
+description: APIのみのユーザー資格情報を使用して、LaunchPointを介して [!DNL BrightTALK]  チャネルをMarketoに接続します。
 title: ' [!DNL BrightTALK]  の Marketo への接続'
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
 workflow-type: tm+mt
 source-wordcount: '324'
 ht-degree: 96%
@@ -33,7 +33,7 @@ ht-degree: 96%
 
 1. [API 専用ユーザーロール](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}を作成する。
 
-1. 手順 4 で作成した [!DNL BrightTALK] API ロールを使用して、[API ユーザーを作成](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}します。
+1. 手順 4 で作成した [!DNL BrightTALK] API ロールを使用して、[API ユーザーを作成](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}します。
 
 1. **[!UICONTROL 管理]**&#x200B;領域に戻ります。
 
