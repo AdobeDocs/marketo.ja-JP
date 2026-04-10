@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '9176'
+source-wordcount: '9146'
 ht-degree: 99%
 
 ---
@@ -163,16 +163,7 @@ ht-degree: 99%
          + [Adobe Identity Management の概要](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [管理者設定](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [製品管理者の設定](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
-         + [Adobe IMS が有効のサブスクリプション用 API 専用ユーザーの追加](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
-         + [製品管理者の追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
-         + [ユーザーの追加または削除](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [よくある質問](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Adobe ID を使用したユーザログイン](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + サブスクリプションとユーザの移行 {#subscription-and-user-migration}
-            + [Adobe ID への移行](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [Marketo サブスクリプションと Adobe Admin Console へのユーザーの移行について](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-            + [Marketo Engage サポートの移行](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
-            + [トラブルシューティングガイド](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + 設定 {#settings}
          + [Bulk Export API 情報](product-docs/administration/settings/bulk-export-api-information.md)
          + [キャンペーンインスペクター](product-docs/administration/settings/campaign-inspector.md)
@@ -205,7 +196,10 @@ ht-degree: 99%
          + [プログラムチャネルの表示設定の切り替え](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [タグ値の管理](product-docs/administration/tags/managing-tag-values.md)
       + ユーザ＆ロール {#users-and-roles}
+         + [製品管理者の追加または削除](product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md)
+         + [ユーザーの追加または削除](product-docs/administration/users-and-roles/add-or-remove-a-user.md)
          + [API 専用ユーザーロールの作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [API 専用ユーザーの作成](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [ユーザーのロールの作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [メールの検証](product-docs/administration/users-and-roles/email-verification.md)
          + [ユーザーとロールのリストのエクスポート](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
@@ -1180,7 +1174,7 @@ ht-degree: 99%
             + [Salesforce ID の Sales Connect へのインポート](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [アクティビティ履歴への Sales Connect イベントフィールドのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
             + [Professional Edition 顧客向け Salesforce カスタマイズのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
-            + [&#x200B; セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
+            + [ セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Salesforce のレポートダッシュボード](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [CRM 用の Sales Connect のカスタマイズ](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Salesforce Classic での一括アクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
@@ -1719,7 +1713,7 @@ ht-degree: 99%
          + レポートタイプ {#report-types}
             + [キャンペーンアクティビティレポート](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [キャンペーンメールの効果レポート](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-            + [&#x200B; 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+            + [ 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [ステータス別のリードレポート](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [人物のパフォーマンスレポート](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [レポートタイプの概要](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)

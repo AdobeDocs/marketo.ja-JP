@@ -1,12 +1,12 @@
 ---
-description: Marketo EngageとAdobe ID の連携を設定するためのリンクを含むクイックリファレンス。System Admin 設定、User Management、API Only ユーザー、サインインが含まれます。
+description: システム管理者の設定、ユーザー管理、APIのみのユーザー、ログインなど、Adobe IDを使用してMarketo Engageを設定するためのリンクを含むクイックリファレンス。
 title: クイックガイド
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 82%
+source-wordcount: '124'
+ht-degree: 81%
 
 ---
 
@@ -43,7 +43,3 @@ Marketo Engage API 専用ユーザは Marketo Engage で作成および管理す
 ## ユーザログイン {#user-sign-in}
 
 [Adobe ID を使用したユーザログイン](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}
-
-## よくある質問 {#faq}
-
-[よくある質問](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}
