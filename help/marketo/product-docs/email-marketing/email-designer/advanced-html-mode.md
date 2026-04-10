@@ -1,15 +1,15 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: メールコンテンツへのカスタム CSS の追加
-description: E メールDesignerで、カスタム CSSをメールコンテンツに追加する方法を説明します。 Marketo Engageのカスタムコードを使用して、メールのスタイルを設定できます。
+title: 高度なHTMLエディターでメールテンプレートを編集できます
+description: ガードレール、アクセス手順、主要な制限事項など、Marketo Engage メールDesignerで生のHTML ソースコードを表示および編集する方法について説明します。
 level: Intermediate
 feature: Email Designer
 exl-id: b030e56a-de70-4b0d-9788-04a01235cffb
-source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
+source-git-commit: 2b638c3945d6b28379655596d2c5c878d842e60e
 workflow-type: tm+mt
-source-wordcount: '366'
-ht-degree: 2%
+source-wordcount: '368'
+ht-degree: 0%
 
 ---
 
