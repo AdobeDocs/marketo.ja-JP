@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '830'
 ht-degree: 14%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 14%
 
 以下の表を使用して、以前のメールエディター（メールエディター2.0）と新しいメールDesignerの機能を比較します。
 
-このページ（および[現在のリリースノート &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}）でアップデートをご確認ください。
+このページ（および[現在のリリースノート ](/help/marketo/release-notes/current.md){target="_blank"}）でアップデートをご確認ください。
 
 <table><thead>
   <tr>
@@ -262,22 +262,10 @@ ht-degree: 14%
     <td>対応可能</td>
   </tr>
   <tr>
-    <td>コンテンツ承認ワークフロー</td>
-    <td>Marketo Engage内の電子メールに承認ワークフローを導入できます。</td>
-    <td>利用不可</td>
-    <td>未定</td>
-  </tr>
-  <tr>
-    <td>CRMでのメール</td>
-    <td>CRMにメールに関連する情報を送信する機能。</td>
+    <td>HTML エディター</td>
+    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md">電子メールテンプレート </a>のHTML コンテンツを変更できます。</td>
     <td>対応可能</td>
-    <td>未定</td>
-  </tr>
-  <tr>
-    <td>コードエディター</td>
-    <td>メール、メールテンプレート、フラグメントのHTML コンテンツを変更できます。</td>
     <td>対応可能</td>
-    <td>未定</td>
   </tr>
   <tr>
     <td>メールアセットを使用したプログラムの移動、削除、読み込みのサポート</td>
