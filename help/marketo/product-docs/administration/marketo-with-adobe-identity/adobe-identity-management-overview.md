@@ -21,7 +21,7 @@ Adobe ID にオンボードされたサブスクリプションの場合、Adobe
 
 >[!NOTE]
 >
->シングルサインオンを導入し、サブスクリプションがAdobe組織でSSOを実装せずにAdobe Identityにオンボーディングされている場合は、[Marketo サポート ](https://nation.marketo.com/){target="_blank"}にチケットを送信し、トピックを「Marketo Admin Console版、SSOを実装」に指定してください。
+>シングルサインオンを導入し、サブスクリプションがAdobe組織でSSOを実装せずにAdobe Identityにオンボーディングされている場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/){target="_blank"}にチケットを送信し、トピックを「Marketo Admin Console版、SSOを実装」に指定してください。
 
 ## プロファイルレベル {#profile-levels}
 
