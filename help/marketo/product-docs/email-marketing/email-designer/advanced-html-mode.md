@@ -7,14 +7,14 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: 02d809b2c44e8c852375d8944819660cd4f9c6ad
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
-# 高度なHTMLエディターでメールテンプレートを編集できます {#email-template-expert-mode}
+# 高度なHTMLエディターでメールテンプレートを編集できます {#advanced-html-mode}
 
 高度なHTML モードを使用すると、[!DNL Marketo Engage] メール Designer インターフェイスから直接、メールテンプレートの生のソースコードを表示および編集できます。
 
@@ -40,13 +40,13 @@ ht-degree: 3%
 
 1. 電子メール Designerで電子メールテンプレート [を開くか、](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)作成します。
 
-1. メールテンプレートを編集画面で、右上隅の「HTML」ボタンをクリックします。
+1. _電子メールテンプレートを編集_&#x200B;画面で、右上隅にある「HTML」ボタンをクリックします。
 
-   スクリーンショット
+   ![](assets/advanced-html-mode-1.png){width="800" zoomable="yes"}
 
 1. 高度なHTML エディタを初めて開くと、警告メッセージが表示されます。 完了したら、**[!UICONTROL OK]**&#x200B;をクリックして確認します。
 
-   スクリーンショット
+   ![](assets/advanced-html-mode-2.png)
 
    >[!NOTE]
    >
@@ -54,7 +54,7 @@ ht-degree: 3%
 
 1. 高度なHTML エディターが表示されます。
 
-   スクリーンショット
+   ![](assets/advanced-html-mode-3.png){width="800" zoomable="yes"}
 
 1. メールコンテンツに変更を加えます。
 
@@ -64,7 +64,7 @@ ht-degree: 3%
 
 1. コンテンツのシミュレーションと保存は、互換性の理由により、高度なHTML ビューでは使用できません。 デスクトップビューに戻して、コンテンツをプレビューし、変更を保存します。
 
-   スクリーンショット
+   ![](assets/advanced-html-mode-4.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
