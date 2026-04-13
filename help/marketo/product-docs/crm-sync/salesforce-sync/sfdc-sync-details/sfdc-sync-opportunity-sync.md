@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2953467
-description: SalesforceからMarketoへのオポチュニティ同期の仕組みを説明します。 商談の同期方法、連絡先との関連付け方法、商談トリガーとフィルターの使用方法を確認します。
+description: SalesforceからMarketoへの商談同期の仕組みをご紹介します。 商談の同期、コンタクトへの関連付け、トリガーやフィルターの使用について説明します。
 title: SFDC の同期 - 商談の同期
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 92%
@@ -19,7 +19,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->[&#x200B; [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 用に Marketo で入力した資格情報は、データの同期に使用されます。その資格情報でアクセスできるデータのみが含まれます。
+>[ [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 用に Marketo で入力した資格情報は、データの同期に使用されます。その資格情報でアクセスできるデータのみが含まれます。
 
 ## 商談の同期を開始できますか？ {#can-i-initiate-an-opportunity-sync}
 
@@ -27,7 +27,7 @@ ht-degree: 92%
 
 ## Marketo は、商談額で複数の通貨をサポートしていますか。 {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-いいえ。Marketo では 1 つの通貨のみをサポートしています。商談額は [!DNL Salesforce] から同期されますが、通貨は Marketo サブスクリプションの[デフォルトの通貨](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription)になります。
+いいえ。Marketo では 1 つの通貨のみをサポートしています。商談額は [!DNL Salesforce] から同期されますが、通貨は Marketo サブスクリプションの[デフォルトの通貨](/help/marketo/product-docs/administration/settings/set-default-currency.md)になります。
 
 ## Marketo は商談額と取引先責任者をどのように関連付けますか？ {#how-does-marketo-associate-opportunities-and-contacts}
 

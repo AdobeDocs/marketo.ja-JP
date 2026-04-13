@@ -1,10 +1,10 @@
 ---
 unique-page-id: 7513771
-description: login and user management login-and-user-management を使用して、Marketo Engageでログインとユーザー管理を行う方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: login and user management login-and-user-managementを使用して、Marketo Engageでログインとユーザー管理を行う方法について説明します。 このガイドを使用して、次のステップを完了してください。
 title: ログインとユーザー管理
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 92%
@@ -31,7 +31,7 @@ ht-degree: 92%
 
    ![](assets/three-1.png)
 
-1. [!UICONTROL ロール名]を入力し、「[!UICONTROL 権限]」を選択します。「**[!UICONTROL 作成]**」をクリックします（この役割は[すべてのワークスペースに適用](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md)されます）。
+1. [!UICONTROL ロール名]を入力し、「[!UICONTROL 権限]」を選択します。「**[!UICONTROL 作成]**」をクリックします（この役割は[すべてのワークスペースに適用](/help/marketo/product-docs/administration/users-and-roles/edit-user-workspaces.md)されます）。
 
    ![](assets/four.png)
 

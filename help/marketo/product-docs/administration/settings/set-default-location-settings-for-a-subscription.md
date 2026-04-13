@@ -1,68 +1,36 @@
 ---
 unique-page-id: 2359902
-description: 管理者が言語、ロケール、タイムゾーン、通貨など、サブスクリプションのデフォルトの位置設定を表示および編集する方法。
-title: サブスクリプションのデフォルトの場所の設定
+description: 管理者がMarketo Engage サブスクリプションのデフォルト通貨を表示および編集する方法。
+title: デフォルト通貨の設定
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 87%
+source-wordcount: '62'
+ht-degree: 41%
 
 ---
 
-# サブスクリプションのデフォルトの場所の設定 {#set-default-location-settings-for-a-subscription}
+# デフォルト通貨の設定 {#set-default-currency}
 
-この記事では、言語、ロケール、タイムゾーンなど、サブスクリプションのデフォルトの場所の設定を、管理者が表示および編集する方法について説明します。
+Marketo Engage サブスクリプションのデフォルト通貨を表示および編集する方法について説明します。
 
 >[!NOTE]
 >
->管理者権限が必要。通常、言語は管理者が変更するものではありません。適切な言語でサブスクリプションを生成できるように、購入時に指定されます。
-
-## サブスクリプションのデフォルトの場所の設定 {#set-default-location-settings-for-a-subscription-1}
-
-管理者がデフォルトの場所の設定を変更すると、新しく作成されたユーザーはこれらの設定を継承します。ユーザーは、個人アカウントのタイムゾーン [を](/help/marketo/product-docs/administration/settings/change-time-zone.md)変更できます。
+>**管理者権限が必要。**
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
-   ![](assets/set-default-location-settings-for-a-subscription-1.png)
+   ![](assets/set-default-currency-1.png)
 
 1. 「**[!UICONTROL 場所]**」をクリックします。
 
-   ![](assets/set-default-location-settings-for-a-subscription-2.png)
-
-1. 「**[!UICONTROL 編集]**」をクリックします。
-
-   ![](assets/set-default-location-settings-for-a-subscription-3.png)
-
-   このサブスクリプションは英語で作成されました。例えば、ロンドンにいるとして、デフォルトのロケールとタイムゾーンを変更するとします。ロケールによって、数値、日付、時刻の書式が決まります。
-
-1. 「**[!UICONTROL ロケール]**」を選択して、「**[!UICONTROL 英語（英国）]**」に変更します。
-
-   ![](assets/set-default-location-settings-for-a-subscription-4.png)
-
-1. 最後に、適切な「**[!UICONTROL タイムゾーン]**」を選択します。
-
-   ![](assets/set-default-location-settings-for-a-subscription-5.png)
-
-   >[!NOTE]
-   >
-   >[Salesforce.com](https://salesforce.com/) 用 Marketo セールスインサイトは、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語をサポートしています。
-
-## サブスクリプションのデフォルトの通貨の設定 {#set-the-default-currency-settings-for-a-subscription}
-
-ユーザーのデフォルトのロケールを変更する場合は、通貨形式の設定も変更します。
+   ![](assets/set-default-currency-2.png)
 
 1. 「[!UICONTROL サブスクリプションの通貨設定]」で、「**[!UICONTROL 編集]**」をクリックします。
 
-   ![](assets/set-default-location-settings-for-a-subscription-6.png)
+   ![](assets/set-default-currency-3.png)
 
 1. 通貨形式を選択し、「**[!UICONTROL 保存]**」をクリックします。
 
-   ![](assets/set-default-location-settings-for-a-subscription-7.png)
-
-   これで完了です。サブスクリプションの場所の設定を変更しました。
-
->[!MORELIKETHIS]
->
->* [&#x200B; タイムゾーンを変更](/help/marketo/product-docs/administration/settings/change-time-zone.md)
+   ![](assets/set-default-currency-4.png)
