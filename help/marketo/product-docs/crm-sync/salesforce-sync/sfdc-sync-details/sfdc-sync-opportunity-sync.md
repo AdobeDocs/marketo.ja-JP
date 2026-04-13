@@ -19,7 +19,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->[ [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 用に Marketo で入力した資格情報は、データの同期に使用されます。その資格情報でアクセスできるデータのみが含まれます。
+>[&#x200B; [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 用に Marketo で入力した資格情報は、データの同期に使用されます。その資格情報でアクセスできるデータのみが含まれます。
 
 ## 商談の同期を開始できますか？ {#can-i-initiate-an-opportunity-sync}
 
