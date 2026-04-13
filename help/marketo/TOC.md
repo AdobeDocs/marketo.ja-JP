@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 3e52c83f44ccf50471cf925715b922f31b7c2fa0
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9129'
 ht-degree: 99%
 
 ---
@@ -169,7 +169,6 @@ ht-degree: 99%
          + [キャンペーンインスペクター](product-docs/administration/settings/campaign-inspector.md)
          + [分析用アトリビューション設定の変更](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
          + [人物の詳細ページ用のカスタムタブの作成](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
-         + [アカウント設定の編集](product-docs/administration/settings/edit-account-settings.md)
          + [ブラウザーの「トラッキング拒否」サポート設定の編集](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
          + [ランディングページ設定の編集](product-docs/administration/settings/edit-landing-page-settings.md)
          + [レポートとアラートのリンク有効期限の編集](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
@@ -199,7 +198,7 @@ ht-degree: 99%
          + [API 専用ユーザーロールの作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [API 専用ユーザーの作成](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [ユーザーのロールの作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [&#x200B; ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
+         + [ ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [ユーザーとロールのリストのエクスポート](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [ユーザーのロールと権限の管理](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [ロールと権限のエクスポート](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -1171,7 +1170,7 @@ ht-degree: 99%
             + [Salesforce ID の Sales Connect へのインポート](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [アクティビティ履歴への Sales Connect イベントフィールドのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
             + [Professional Edition 顧客向け Salesforce カスタマイズのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
-            + [&#x200B; セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
+            + [ セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Salesforce のレポートダッシュボード](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [CRM 用の Sales Connect のカスタマイズ](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Salesforce Classic での一括アクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
@@ -1710,7 +1709,7 @@ ht-degree: 99%
          + レポートタイプ {#report-types}
             + [キャンペーンアクティビティレポート](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [キャンペーンメールの効果レポート](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-            + [&#x200B; 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+            + [ 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [ステータス別のリードレポート](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [人物のパフォーマンスレポート](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [レポートタイプの概要](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
