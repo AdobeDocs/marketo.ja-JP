@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: 本番稼働前にテストするためのMarketo Engage サンドボックスについて説明します。 サンドボックスインスタンスを使用して、本番環境に影響を与えることなくテストを実施できます。
 title: Marketo サンドボックス
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 83%
@@ -22,7 +22,7 @@ Marketo サンドボックスが既に本番稼働インスタンスと同期さ
 
 ## サンドボックスについて知っておくべきこと {#things-to-know-about-sandboxes}
 
-* ユーザーを追加する場合のプロセスは、[本番環境にユーザーを追加する](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user#add-a-user)場合のプロセスと同じです。既に Marketo ログインを持っている場合は、別のメールアドレスを使用する必要があります。
+* ユーザーを追加する場合のプロセスは、[本番環境にユーザーを追加する](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#add-a-user)場合のプロセスと同じです。既に Marketo ログインを持っている場合は、別のメールアドレスを使用する必要があります。
 * Marketo サンドボックスは空で始まりますが、本番稼働インスタンスと同じ機能を使用できます。
 * サンドボックスでプログラムを作成し、それを本番環境に移動する場合は、[プログラムの読み込み](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md)を実行できます。
 * サンドボックスは調整されるので、本番稼働インスタンスがテスト環境に悪影響を及ぼすことはありません。1 回のキャンペーン実行で最大 20 通のメールを送信できます。
