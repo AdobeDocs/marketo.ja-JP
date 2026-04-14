@@ -128,7 +128,7 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 ## スニペット {#snippets}
 
-地域をスニペットとして定義すると、エンドユーザーは、この地域に挿入する承認済みの[ スニペット ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)を選択できます。 リッチテキスト要素は、メールエディター内からスニペットに変換できますが、特に領域をスニペットとして定義する場合は、リッチテキストに変換できません。`<div>` を class=”mktoSnippet” と使用して、スニペット領域を指定できます。
+地域をスニペットとして定義すると、エンドユーザーは、この地域に挿入する承認済みの[&#x200B; スニペット &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)を選択できます。 リッチテキスト要素は、メールエディター内からスニペットに変換できますが、特に領域をスニペットとして定義する場合は、リッチテキストに変換できません。`<div>` を class=”mktoSnippet” と使用して、スニペット領域を指定できます。
 
 必須の属性
 
