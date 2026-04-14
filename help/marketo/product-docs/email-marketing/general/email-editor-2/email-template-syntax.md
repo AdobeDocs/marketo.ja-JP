@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11371040
-description: メールエディター 2.0 のメールテンプレート構文について説明します。テンプレートのモジュールおよび編集可能なセクションには、正しい構文を使用します。
+description: メールエディター2.0でのメールテンプレートの構文について説明します。テンプレート内のモジュールと編集可能なセクションに対して正しい構文を使用します。
 title: メールテンプレートの構文
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '2462'
-ht-degree: 99%
+ht-degree: 97%
 
 ---
 
@@ -32,7 +32,7 @@ Marketo メール構文は、テンプレートと個々のメールでのみ機
 * リッチテキスト
 * 画像
 * スニペット
-* 動画
+* ビデオ
 
 ## リッチテキスト {#rich-text}
 
@@ -106,7 +106,7 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 例:
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### オプション 2 - \&lt;img\> の使用 {#option-use-an-img}
 
@@ -128,7 +128,7 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 ## スニペット {#snippets}
 
-地域をスニペットとして定義すると、エンドユーザはこの地域に挿入する承認済みの[スニペット](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)を選択できるようになります。リッチテキスト要素は、メールエディター内からスニペットに変換できますが、特に領域をスニペットとして定義する場合は、リッチテキストに変換できません。`<div>` を class=”mktoSnippet” と使用して、スニペット領域を指定できます。
+地域をスニペットとして定義すると、エンドユーザーは、この地域に挿入する承認済みの[ スニペット ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)を選択できます。 リッチテキスト要素は、メールエディター内からスニペットに変換できますが、特に領域をスニペットとして定義する場合は、リッチテキストに変換できません。`<div>` を class=”mktoSnippet” と使用して、スニペット領域を指定できます。
 
 必須の属性
 
@@ -370,4 +370,4 @@ Email Editor 2.0 は後方互換性があるので、一部の古いメールテ
 
 >[!CAUTION]
 >
->コンテナには、モジュールのみを含めることができます。他に何かが存在する場合、コンテナは無効と見なされます。1 つのテンプレートにつき、1 つのコンテナのみを使用できます。
+>コンテナにはモジュールのみを含めることができます。他に何か存在する場合、コンテナは無効と見なされます。 1 つのテンプレートにつき、1 つのコンテナのみを使用できます。

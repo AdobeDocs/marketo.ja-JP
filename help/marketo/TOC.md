@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '9129'
 ht-degree: 99%
@@ -198,7 +198,7 @@ ht-degree: 99%
          + [API 専用ユーザーロールの作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [API 専用ユーザーの作成](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [ユーザーのロールの作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [&#x200B; ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
+         + [ ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [ユーザーとロールのリストのエクスポート](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [ユーザーのロールと権限の管理](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [ロールと権限のエクスポート](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -988,6 +988,12 @@ ht-degree: 99%
             + [ストリームコンテンツの優先順位の決定](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [ストリームコンテンツの削除](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + E メールデザイナー {#email-designer}
+         + ブランド {#brands}
+            + [ブランドテーマ](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [ブランドを適用](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [ブランドの構築と管理](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [ブランドのパーソナライゼーション](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+            + [ブランド一致](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
          + [概要](product-docs/email-marketing/email-designer/overview.md)
          + [機能の比較](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
@@ -1010,12 +1016,6 @@ ht-degree: 99%
          + [メールでの共同作業](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [Email DesignerのAI アシスタント](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [SpamAssassin を使用したメールスパムレポート](product-docs/email-marketing/email-designer/spam-report.md)
-         + ブランド {#brands}
-            + [ブランドテーマ](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-            + [ブランドを適用](product-docs/email-marketing/email-designer/brands/apply-brand.md)
-            + [ブランドの構築と管理](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + [ブランドのパーソナライゼーション](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
-            + [ブランド一致](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + メールプログラム {#email-programs}
          + メールプログラムの作成 {#creating-an-email-program}
             + [メールプログラムの作成](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
@@ -1170,7 +1170,7 @@ ht-degree: 99%
             + [Salesforce ID の Sales Connect へのインポート](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [アクティビティ履歴への Sales Connect イベントフィールドのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
             + [Professional Edition 顧客向け Salesforce カスタマイズのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
-            + [&#x200B; セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
+            + [ セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Salesforce のレポートダッシュボード](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [CRM 用の Sales Connect のカスタマイズ](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Salesforce Classic での一括アクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
@@ -1709,7 +1709,7 @@ ht-degree: 99%
          + レポートタイプ {#report-types}
             + [キャンペーンアクティビティレポート](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [キャンペーンメールの効果レポート](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-            + [&#x200B; 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+            + [ 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [ステータス別のリードレポート](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [人物のパフォーマンスレポート](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [レポートタイプの概要](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
