@@ -4,10 +4,10 @@ description: メールエディターv2.0とその機能について説明しま
 title: メールエディター v2.0 の概要
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 96%
+source-wordcount: '457'
+ht-degree: 85%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 96%
 
 >[!IMPORTANT]
 >
->正確な日付は設定されていませんが、クラシックメールエディターは 2027年中に廃止される可能性があります（正確な日付が決まり次第お知らせします）。高度な [E メールデザイナー](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}にはクラシックエディターでは使用できない多くの機能があるので、導入を開始することを強くお勧めします。
+>正確な日付はありませんが、クラシックメールエディターは最終的に廃止されます（正確な日付は後でお知らせします）。 高度な[電子メール Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}の導入を開始することを強くお勧めします。従来のエディターでは利用できない機能が多くあります。
 
 **メールテンプレート選択ツール**
 
@@ -102,12 +102,6 @@ ht-degree: 96%
 >[!CAUTION]
 >
 >メールエディターを使用している際には、トークンは[!UICONTROL プリヘッダー]で機能しません。[!UICONTROL プリヘッダー]でトークンを使用するには、メールテンプレートで独自の HTML を使用する必要があります。
-
-ほかにも、新しい機能がたくさんあります。お楽しみください。
-
->[!NOTE]
->
->詳しくは、この[ビデオ](https://nation.marketo.com/videos/1463)を参照してください。
 
 >[!MORELIKETHIS]
 >
