@@ -1,19 +1,24 @@
 ---
 description: プログラムのQA、リードのインポート、データの正規化など、マーケティングタスクを自動化するために設計されたMarketo EngageのAI エージェント群をご覧ください。
 title: Marketo Engage AIの概要
+beta: true
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 3%
+source-wordcount: '283'
+ht-degree: 2%
 
 ---
 
 # Marketo Engage AIの概要 {#overview}
 
 Marketo EngageのAIは、面倒で重要なマーケティング機能を自動化するために設計された、多くのエージェントを提供します。
+
+>[!NOTE]
+>
+>この機能はオープンベータ版で、現在数か月にわたって段階的に展開されています。 My Marketo画面に&#x200B;_AIでビルド_ タイルが表示されたら、サブスクリプションが有効になったときにわかります。
 
 ## アクセス方法 {#access}
 
