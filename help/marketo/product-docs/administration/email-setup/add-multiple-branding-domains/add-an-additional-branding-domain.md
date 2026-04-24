@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377395
-description: 1 つのインスタンスに複数のブランドのブランディングドメインを追加し、それぞれに独自のブランドトラッキングリンクを追加します。
+description: 1つのインスタンスで複数のブランドの追加ブランドドメインを追加して、それぞれに独自のブランドのトラッキングリンクを持たせます。
 title: 付加的なブランディングドメインの追加
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 72%
+source-wordcount: '723'
+ht-degree: 73%
 
 ---
 
@@ -37,23 +37,23 @@ ht-degree: 72%
 
 >[!NOTE]
 >
->* _プライマリドメインにする_：これをプライマリドメインにします。既存の未送信メールはすべて「デフォルト」に設定され、新しく作成されたすべてのメールはデフォルトでプライマリドメインに設定されます。[この設定はメールごとに上書き](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"}できます。
+>* _プライマリドメインにする_：これをプライマリドメインにします。既存の未送信メールはすべて「デフォルト」に設定され、新しく作成されたすべてのメールはデフォルトでプライマリドメインに設定されます。 [この設定はメールごとに上書き](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"}できます。
 >
->* _SSL 証明書を生成_：ドメインの作成に Secure Sockets Layer（SSL）を作成できます。最初のトラッキングドメインでは、インフラストラクチャの 1 回限りの設定が開始しますが、これには数時間かかる場合があります。完了すると通知が届き、最初のドメインを設定できます。既存のドメインに SSL を追加するには、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
+>* _SSL 証明書を生成_：ドメインの作成に Secure Sockets Layer（SSL）を作成できます。 最初のトラッキングドメインでは、インフラストラクチャの 1 回限りの設定が開始しますが、これには数時間かかる場合があります。 完了すると通知が届き、最初のドメインを設定できます。 既存のドメインに SSL を追加するには、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
 
-## 既存のドメインの SSL の編集
+## 既存のドメインのSSLの編集
 
 既存のドメインで SSL を有効にするには、次の手順に従います。
 
 1. _[!UICONTROL 管理者]_ エリアから、「**[!UICONTROL メール]**」を選択します。
 
-1. 「_[!UICONTROL ドメイン]_」タブで、ドメイン行を選択し、「**[!UICONTROL SSL を追加]**」をクリックします。
+1. 「_[!UICONTROL ドメイン]_」タブで、ドメイン行を選択し、**[!UICONTROL SSL]**&#x200B;を追加をクリックします。
 
-   ![&#x200B; 管理者 – メール – ドメイン - SSL を追加 &#x200B;](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
+   ![管理者 – メール – ドメイン - SSLを追加](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
 1. ダイアログで、「**[!UICONTROL 確認]**」をクリックします。
 
-   ![SSL を追加 – 確認 &#x200B;](./assets/generate-ssl-cert-confirm.png){width="400"}
+   ![SSLの追加 – 確認](./assets/generate-ssl-cert-confirm.png){width="400"}
 
 ## エラーメッセージ {#error-messages}
 
@@ -69,23 +69,23 @@ ht-degree: 72%
   </tr>
   <tr>
     <td><i>ドメインがデフォルトのドメインにマッピングされていません。</i></td>
-    <td>カスタムドメインがデフォルトのドメインに正しくマッピングされていません。ドメインマッピング設定を確認し、DNS 設定が正しいデフォルトのドメインを指していることを確認してください。</td>
+    <td>カスタムドメインがデフォルトのドメインに正しくマッピングされていません。 ドメインマッピング設定を確認し、DNS 設定が正しいデフォルトのドメインを指していることを確認してください。</td>
   </tr>
   <tr>
-    <td><i>CAA レコードがサポートされていないので、SSL 証明書を発行できませんでした。 CAA レコードを更新するように IT にリクエストします。</i></td>
-    <td>CAA レコードが最新ではありません。 Marketo Engage管理の SSL 証明書を使用している場合は、ベンダーが推奨する証明書に CAA レコードを更新する必要があります。 CAA レコードを更新するには、担当の IT 部門に問い合わせてください。 詳しくは、<a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246"> このページ </a> を参照してください。</td>
+    <td><i>サポートされていないCAA レコードが原因で、SSL証明書を発行できませんでした。 IT部門にCAA レコードの更新を依頼する。</i></td>
+    <td>CAA レコードが最新ではありません。 Marketo Engageで管理されたSSL証明書を使用する場合、CAA レコードをベンダーが推奨する証明書に更新する必要があります。 CAA レコードを更新するには、IT部門にお問い合わせください。 詳細については、<a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">このページ </a>を参照してください。</td>
   </tr>
   <tr>
     <td><i>SSL 証明書は既に発行されています。</i></td>
-    <td>このカスタムドメインには、SSL 証明書が既に存在します。証明書の有効期限が切れているか、再発行が必要な場合を除き、これ以上のアクションは必要ありません。</td>
+    <td>このカスタムドメインには、SSL 証明書が既に存在します。 証明書の有効期限が切れているか、再発行が必要な場合を除き、これ以上のアクションは必要ありません。</td>
   </tr>
   <tr>
-    <td><i>デフォルトのドメインが見つかりませんでした。サポートが必要な場合は、サポートにお問い合わせください。</i></td>
-    <td>デフォルトのドメインを見つけようとした際に問題が発生しました。調査いたしますので、サポートにお問い合わせください。</td>
+    <td><i>デフォルトのドメインが見つかりませんでした。 サポートが必要な場合は、サポートにお問い合わせください。</i></td>
+    <td>デフォルトのドメインを見つけようとした際に問題が発生しました。 調査いたしますので、サポートにお問い合わせください。</td>
   </tr>
   <tr>
-    <td><i>ドメインの作成中に予期しないエラーが発生しました。サポートが必要な場合は、サポートにお問い合わせください。</i></td>
-    <td>予期しないエラーが発生しました。ログとエラーの詳細を収集し、問題を<a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート</a>にエスカレートしてください。</td>
+    <td><i>ドメインの作成中に予期しないエラーが発生しました。 サポートが必要な場合は、サポートにお問い合わせください。</i></td>
+    <td>予期しないエラーが発生しました。 ログとエラーの詳細を収集し、問題を<a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート</a>にエスカレートしてください。</td>
   </tr>
 </tbody></table>
 
@@ -93,11 +93,13 @@ ht-degree: 72%
 
 * **ドメインから Marketo Engage への DNS マッピング**：UI でドメインを追加する前に、[Marketo 提供のドメインに CNAME をマッピング](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}する必要があります。
 
-* **カスタム SSL**：カスタム SSL が必要な場合は、[サポートチケット](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}を送信してください。SSL 作成にセルフサービスチェックボックスを使用しないでください。
+* **カスタム SSL**：カスタム SSL が必要な場合は、[サポートチケット](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}を送信してください。 SSL 作成にセルフサービスチェックボックスを使用しないでください。
 
-* **既存の SSL**：ドメインの追加中に、事前に手動で作成した可能性のある既存の SSL がシステムによってチェックされます。この検証が発生した場合は、SSL 作成を選択せずにドメインを作成すると、SSL が接続されます。追加kの詳細やオプションについては、[サポートにお問い合わせください](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+* **既存の SSL**：ドメインの追加中に、事前に手動で作成した可能性のある既存の SSL がシステムによってチェックされます。 この検証が発生した場合は、SSL 作成を選択せずにドメインを作成すると、SSL が接続されます。 追加kの詳細やオプションについては、[サポートにお問い合わせください](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
-* **ドメインの削除**:SSL 証明書を自動的に削除 **削除しない** します。 このガードレールは、web サイトに SSL 証明書がない結果となるユーザーエラーを防ぎます。 SSL 証明書を削除する場合は、[&#x200B; サポートにお問い合わせください &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+* **ドメインの削除**: ドメイン **を自動的に削除しても、SSL証明書は削除されません**。 このガードレールは、web サイトに SSL 証明書がない結果となるユーザーエラーを防ぎます。 SSL証明書を削除する場合は、[ サポートにお問い合わせください](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+
+* 追加したドメインがCNAME以外のドメインとしてリストされている場合、ブランド化されたトラッキングドメインをさらに追加する機能はロックアウトされます。 既存のドメインを編集し、それがCNAME レコードであり、例えばA レコードではないことを確認する必要があります。 「追加」ボタンでは、CNAMEとCNAMEのみが動的にチェックされます。
 
 >[!MORELIKETHIS]
 >

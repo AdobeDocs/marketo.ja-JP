@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720236
-description: アカウントリストを使用したセグメントの作成方法については、Marketo Engageのアカウントリストを使用したセグメントの作成を参照してください。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageでアカウントリストを使用してセグメントを作成する方法を説明します。 このガイドを使用して、次のステップを完了してください。
 title: 顧客リストを使用したセグメントの作成
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 83%
+source-wordcount: '215'
+ht-degree: 68%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 83%
 >
 >[新規アカウントリストの作成](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
+>[!NOTE]
+>
+>Web Personalization内でアカウントリストを表示するには、「Web ABM」という追加のモジュールが必要です。 アカウントリストが表示されない場合は、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
+
 1. 「**[!UICONTROL セグメント]**」に移動します。
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
@@ -27,20 +31,20 @@ ht-degree: 83%
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. セグメントの名前を入力します。**[!UICONTROL ファーモグラフィック]**&#x200B;セクションから&#x200B;**[!UICONTROL 顧客リスト]**&#x200B;をドラッグ＆ドロップします。
+1. セグメントの名前を入力します。 **[!UICONTROL ファーモグラフィック]**&#x200B;セクションから&#x200B;**[!UICONTROL 顧客リスト]**&#x200B;をドラッグ＆ドロップします。
 
    ![](assets/set-segment-hands.jpg)
 
-1. アップロードした重点顧客のリストから顧客リストを選択します。顧客リスト名の横にある角括弧で囲まれた数字は、API 参照用リストの ID です。
+1. アップロードした重点顧客のリストから顧客リストを選択します。 顧客リスト名の横にある角括弧で囲まれた数字は、API 参照用リストの ID です。
 
    ![](assets/select-list-for-segment-hands.jpg)
 
    >[!NOTE]
    >
-   >顧客リストは、セグメント化で使用できるように ABM から web パーソナライゼーションに同期されます。ドロップダウンから選択してください。同期には、最大で 分かかります。顧客リストに 1 つ以上の重点顧客が存在する場合にのみ同期されます。
+   >顧客リストは、セグメント化で使用できるように ABM から web パーソナライゼーションに同期されます。 ドロップダウンから選択してください。 同期には、最大で 分かかります。 顧客リストに 1 つ以上の重点顧客が存在する場合にのみ同期されます。
 
 1. 「**[!UICONTROL 保存]**」をクリックするか「**[!UICONTROL 保存してキャンペーンを設定]**」をクリックして、キャンペーンページに移動します。
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 
-これで完了です。顧客リストをターゲットにするセグメントを設定しました。
+これで完了です。 顧客リストをターゲットにするセグメントを設定しました。
