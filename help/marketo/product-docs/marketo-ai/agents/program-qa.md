@@ -1,14 +1,12 @@
 ---
 description: メール、ランディングページ、キャンペーンなど、あらゆるコンポーネントをまたいでベストプラクティスに関するプログラムを監査する方法について説明します。
 title: プログラム QA
-beta: true
-hide: true
-hidefromtoc: true
+badge: ベータ版
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
+source-git-commit: 14046c287b1b8fcbce32a84e26e14e194916d6b3
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 1%
+source-wordcount: '163'
+ht-degree: 2%
 
 ---
 
