@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10098433
-description: Admin Web Services の IP 制限を使用して、API アクセスを特定の IP アドレスまたは範囲に制限します。
+description: Restrict API access to specific IP addresses or ranges via Admin Web Services IP Restrictions.
 title: IP ベースの API アクセス用の許可リストの作成
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: d0c8f8d5dda0747a83e4a76004863c650998c75f
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 72%
+source-wordcount: '173'
+ht-degree: 71%
 
 ---
 
 # IP ベースの API アクセス用の許可リストの作成 {#create-an-allowlist-for-ip-based-api-access}
 
-特定の IP アドレスまたは一連のアドレスに対してのみ API アクセスを許可するには、まず制限を有効にしてから、API を使用できる IP アドレスを指定します。
+特定の IP アドレスまたは一連のアドレスに対してのみ API アクセスを許可するには、 まず制限を有効にしてから、API を使用できる IP アドレスを指定します。
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
->[!NOTE]
+>[!CAUTION]
 >
->この機能は、Marketo Engageとは独立して動作します [IP ベースのログイン制限 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}。これは、Admin Consoleの [IP ベースのアクセス制御 &#x200B;](https://helpx.adobe.com/jp/enterprise/using/ip-based-access.html){target="_blank"} に置き換えられています。 Adobe IMSの移行後も、引き続きそのまま機能します。
+>この機能を有効にすると、現在[Marketo MCP Server](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"}にアクセスできなくなります。 この問題は、今後のリリースで修正される予定です。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
