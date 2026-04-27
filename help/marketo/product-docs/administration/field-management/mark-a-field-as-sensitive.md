@@ -1,22 +1,18 @@
 ---
-description: ユーザーのデータを保護するためにフィールドの値がフォームに事前入力されないように、フィールドを機密としてマークします。
+description: フィールドに機密性の高いマークを付けます。これにより、ユーザーデータを保護するために、フォームで値が事前入力されることはありません。
 title: フィールドを機密としてマークする
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 84%
+source-wordcount: '71'
+ht-degree: 76%
 
 ---
 
 # フィールドを機密としてマークする {#mark-a-field-as-sensitive}
 
 Marketo の管理者は、特定のフィールドを「機密」としてマークできます。値がフォームに事前入力されることがないので、ユーザーの機密データを保護できます。
-
->[!NOTE]
->
->この機能は、5月11日（火）（PT）の夜に、すべての Marketo インスタンスで有効になります。
 
 1. 「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -33,5 +29,3 @@ Marketo の管理者は、特定のフィールドを「機密」としてマー
 1. 「**[!UICONTROL フィールドを機密としてマークする]**」チェックボックスを選択します。
 
    ![](assets/mark-a-field-as-sensitive-4.png)
-
-これで完了です。今後、事前入力が有効になっている Marketo のフォームに、選択したフィールドのデータが表示されなくなります。
