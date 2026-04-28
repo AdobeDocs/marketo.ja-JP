@@ -1,25 +1,25 @@
 ---
 unique-page-id: 6095008
-description: LaunchPoint を介してMarketoにリンクし  [!DNL Google AdWords] AdWords でレポートするためにオフラインコンバージョンデータをアップロードします。
+description: LaunchPointを介して [!DNL Google AdWords] Marketoにリンクし、AdWordsでレポート用のオフライン コンバージョン データをアップロードします。
 title: ' [!DNL Google AdWords]  を  [!DNL LaunchPoint]  サービスとして追加'
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 79%
+source-wordcount: '291'
+ht-degree: 75%
 
 ---
 
 # [!DNL Google AdWords] を [!DNL LaunchPoint] サービスとして追加 {#add-google-adwords-as-a-launchpoint-service}
 
-[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。その後、[!DNL AdWords] UI から、[&#x200B; で &#x200B;](https://support.google.com/adwords/answer/3073556){target="_blank"} カスタム列を追加 [!DNL AdWords] した後、どのクリックが適格なリード、商談、新規顧客（または追跡したい収益ステージ）につながったかを簡単に確認できます。 この情報は、Marketo UI には表示されません。
+[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。 次に、[!DNL AdWords] UIから、[!DNL AdWords]に[ カスタム列](https://support.google.com/adwords/answer/3073556){target="_blank"}を追加した後、どのクリックが適格リード、機会、および新規顧客（または追跡したい収益ステージ）につながったかを確認できます。 この情報は、Marketo UI には表示されません。
 
-[Googleのオフラインコンバージョンインポート機能 &#x200B;](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"} の詳細情報。
+[Googleのオフラインコンバージョン読み込み機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}の詳細をご覧ください。
 
 >[!AVAILABILITY]
 >
->すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!NOTE]
 >
@@ -61,7 +61,7 @@ ht-degree: 79%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-7.png)
 
-1. ステータスは「**[!UICONTROL 成功]**」と表示されます。「**[!UICONTROL 次へ]**」を選択します。
+1. ステータスは&#x200B;**[!UICONTROL Success]**&#x200B;と表示されます。 「**[!UICONTROL 次へ]**」を選択します。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-8.png)
 
@@ -88,9 +88,9 @@ ht-degree: 79%
 
    >[!NOTE]
    >
-   >この機能を使用するには、[自動タグ付け](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。非アクティブ化は [!DNL AdWords] 内で行う必要があります。
+   >この機能を使用するには、[自動タグ付け](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。 非アクティブ化は [!DNL AdWords] 内で行う必要があります。
 
-完了です。次は、関連記事を参照して、売上高モデルで [!DNL AdWords] のオフラインコンバージョンをマッピングする方法を学びましょう。
+収益モデルで[!DNL AdWords]個のオフラインコンバージョンをマッピングする方法については、以下の関連記事を参照してください。
 
 >[!MORELIKETHIS]
 >

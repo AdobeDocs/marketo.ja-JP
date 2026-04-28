@@ -1,21 +1,23 @@
 ---
 unique-page-id: 2360352
-description: 開発者向け管理 web サービスで、SOAP API 暗号化キーを設定し、エンドポイントの詳細を取得します。
+description: SOAP API暗号化キーを設定し、Admin Web Services for developersでエンドポイントの詳細を取得します。
 title: SOAP API の設定
+hide: true
+hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 81%
+source-wordcount: '105'
+ht-degree: 48%
 
 ---
 
 # SOAP API の設定 {#configuring-your-soap-api-settings}
 
->[!NOTE]
+>[!IMPORTANT]
 >
->REST API の使用をお勧めしています。詳しくは、[developer.adobe.com](https://developer.adobe.com/marketo-apis/) を参照してください。
+>SOAP APIは、2026年7月31日に[非推奨](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/soap/soap-api)になります。 代わりに[REST API](https://developer.adobe.com/marketo-apis/)を使用することをお勧めします。
 
 >[!NOTE]
 >
@@ -35,8 +37,4 @@ ht-degree: 81%
 
 >[!CAUTION]
 >
->SOAP エンドポイントと[!UICONTROL ユーザー ID] は一意です。この記事のスクリーンショットを開発者に送信しないでください。
-
->[!MORELIKETHIS]
->
->[SOAP API ドキュメント](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/soap/soap-api)
+>SOAP エンドポイントと[!UICONTROL  ユーザーID]は一意です。この記事のスクリーンショットを開発者に送信しないでください。

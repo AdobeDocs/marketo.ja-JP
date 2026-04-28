@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360360
-description: Admin で Webhook を作成し、SMS や人物データなどのサードパーティの web サービスを呼び出します。
+description: 管理画面でWebhookを作成して、SMSや人物データなどのサードパーティのweb サービスに電話できます。
 title: ' [!DNL Webhook] の作成'
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 89%
+source-wordcount: '220'
+ht-degree: 81%
 
 ---
 
@@ -35,9 +35,9 @@ ht-degree: 89%
    >
    >多くの場合、使用するサードパーティのサービス資格情報を、URL パラメーターとして、または POST テンプレートに入力して含めます。
 
-   * **[!UICONTROL URL]**：Web サービスに対するリクエストで使用する URL を入力します。人物のメールアドレス（**`{{lead.Email Address}}`**）などのトークンをリクエストに挿入するには、「**[!UICONTROL トークンを挿入]**」をクリックします。
+   * **[!UICONTROL URL]**：Web サービスに対するリクエストで使用する URL を入力します。 人物のメールアドレス（**`{{lead.Email Address}}`**）などのトークンをリクエストに挿入するには、「**[!UICONTROL トークンを挿入]**」をクリックします。
 
-   * **[!UICONTROL テンプレート]**：リクエストの本文で情報を送信する場合は、ペイロードテンプレートを使用して入力します。リクエストタイプ POST、DELETE、PATCH または PUT に対して許可されたテンプレート。JSON や XML などのデータ形式を使用できます。テンプレートにトークンを挿入するには、「**[!UICONTROL トークンを挿入]**」をクリックします。
+   * **[!UICONTROL テンプレート]**: リクエストの本文に情報を送信する場合は、ペイロードテンプレートを使用して入力します。 リクエストタイプ POST、DELETE、PATCH または PUT に対して許可されたテンプレート。 JSON や XML などのデータ形式を使用できます。 テンプレートにトークンを挿入するには、「**[!UICONTROL トークンを挿入]**」をクリックします。
 
    * **[!UICONTROL リクエストトークンのエンコード]**：トークンの値に特殊文字（アンパサンド「&amp;」など）が含まれる場合は、リクエストの形式（**JSON** または&#x200B;**フォーム／URL**）を指定します。
 
@@ -51,4 +51,4 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->詳しくは、[[!DNL Webhooks]](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} の詳細を参照してください。
+>詳しくは、[[!DNL Webhooks]](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}の詳細をご覧ください。

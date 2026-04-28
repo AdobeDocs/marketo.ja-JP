@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7512289
-description: LaunchPoint サ  [!DNL GoToWebinar]  ビスとして追加することで、Marketoがウェビナーの登録と出席を管理できるようになります。
+description: Marketoがウェビナーの登録と出席を管理できるように、 [!DNL GoToWebinar] をLaunchPoint サービスとして追加します。
 title: ' [!DNL GoToWebinar]  を  [!DNL LaunchPoint]  サービスとして追加'
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 92%
 
 ---
@@ -21,7 +21,7 @@ Marketo は、[!DNL GoToWebinar] の登録と出席を管理します。
 
 >[!NOTE]
 >
->この手順を実行するには、[!DNL GoToWebinar] の既存のサブスクリプションと管理者権限が必要です。[!DNL GoToWebinar] のログインに使用するメールとパスワードを手元に用意しておきます。
+>この手順を実行するには、[!DNL GoToWebinar] の既存のサブスクリプションと管理者権限が必要です。 [!DNL GoToWebinar] のログインに使用するメールとパスワードを手元に用意しておきます。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Marketo は、[!DNL GoToWebinar] の登録と出席を管理します。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. **[!UICONTROL LaunchPoint]** をクリックします。
+1. **[!UICONTROL LaunchPoint]**.をクリックします。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
@@ -39,7 +39,7 @@ Marketo は、[!DNL GoToWebinar] の登録と出席を管理します。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-3.png)
 
-1. **[!UICONTROL 表示名]**&#x200B;を入力します。「**[!UICONTROL サービス]**」で、「**[!UICONTROL GoToWebinar]**」を選択します。
+1. **[!UICONTROL 表示名]**&#x200B;を入力します。 「**[!UICONTROL サービス]**」で、「**[!UICONTROL GoToWebinar]**」を選択します。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-4.png)
 
@@ -59,7 +59,7 @@ Marketo は、[!DNL GoToWebinar] の登録と出席を管理します。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-7.png)
 
-1. これで完了です。**[!UICONTROL GoToWebinar]** アカウントが Marketo と同期されました。
+1. **[!UICONTROL GoToWebinar]** アカウントが Marketo と同期されました。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-8.png)
 
@@ -69,4 +69,4 @@ Marketo は、[!DNL GoToWebinar] の登録と出席を管理します。
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"} でイベントを作成する方法を参照してください。
+>[ [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"} でイベントを作成する方法を参照してください。

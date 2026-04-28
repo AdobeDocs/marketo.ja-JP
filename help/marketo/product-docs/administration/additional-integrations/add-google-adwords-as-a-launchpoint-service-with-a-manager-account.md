@@ -1,27 +1,27 @@
 ---
 unique-page-id: 7504893
-description: LaunchPoint [!DNL Google AdWords]  管理者アカウントを使用して、複数のアカウントをMarketoと統合します。
-title: マネージャーアカウ  [!DNL Google AdWords]  トを持つサ  [!DNL Launchpoint]  ビスとして追加
+description: Integrate multiple [!DNL Google AdWords] accounts with Marketo using a Manager Account in LaunchPoint.
+title: Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a Manager Account
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 74%
+source-wordcount: '318'
+ht-degree: 71%
 
 ---
 
 # マネージャーアカウントで [!DNL Google AdWords] を [!DNL Launchpoint] サービスとして追加 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。その後、[!DNL AdWords] UI から、[&#x200B; で &#x200B;](https://support.google.com/adwords/answer/3073556){target="_blank"} カスタム列を追加 [!DNL AdWords] した後、どのクリックが適格なリード、商談、新規顧客（または追跡したい収益ステージ）につながったかを簡単に確認できます。 この情報は、Marketo UI には表示されません。
+[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。 次に、[!DNL AdWords] UIから、[!DNL AdWords]に[ カスタム列](https://support.google.com/adwords/answer/3073556){target="_blank"}を追加した後、どのクリックが適格リード、機会、および新規顧客（または追跡したい収益ステージ）につながったかを確認できます。 この情報は、Marketo UI には表示されません。
 
-複数の [!DNL Google Adwords] アカウントがある場合は、[[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} （旧称：[!DNL My Client Center]）を使用して、それらをMarketoと統合できます。
+If you have multiple [!DNL Google Adwords] accounts, you can use a [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (formerly known as [!DNL My Client Center]) to integrate them with Marketo.
 
-[Googleのオフラインコンバージョンインポート機能 &#x200B;](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"} の詳細情報。
+[Googleのオフラインコンバージョン読み込み機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}の詳細をご覧ください。
 
 >[!AVAILABILITY]
 >
->すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ ht-degree: 74%
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-7.png)
 
-1. ステータスは「**[!UICONTROL 成功]**」と表示されます。「**[!UICONTROL 次へ]**」を選択します。
+1. ステータスは&#x200B;**[!UICONTROL Success]**&#x200B;と表示されます。 「**[!UICONTROL 次へ]**」を選択します。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-8.png)
 
@@ -82,17 +82,17 @@ ht-degree: 74%
 
    >[!NOTE]
    >
-   >この機能を使用するには、[自動タグ付け](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。[!DNL AdWords] 内で有効化する必要があります。
+   >この機能を使用するには、[自動タグ付け](https://support.google.com/adwords/answer/1752125?hl=ja){target="_blank"}を選択する必要があります。 [!DNL AdWords] 内で有効化する必要があります。
 
 1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 
-1. 更新しないアカウントの選択を解除します。「**[!UICONTROL 作成]**」をクリックします。
+1. 更新しないアカウントの選択を解除します。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
-   次に、売上高モデルで [!DNL AdWords] のオフラインコンバージョンをマッピングする方法について、以下の関連記事を参照してください。
+   See the Related Article below for how to map [!DNL AdWords] offline conversions in your revenue model.
 
    >[!MORELIKETHIS]
    >

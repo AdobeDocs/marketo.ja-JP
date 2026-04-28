@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2360354
-description: Marketo [!DNL Munchkin] JavaScriptをサイトに追加すると、訪問を追跡したり、web ベースのキャンペーンを有効にしたりできます。
+description: Marketo [!DNL Munchkin] JavaScriptをサイトに追加して、訪問回数を追跡し、web ベースのキャンペーンを有効にします。
 title: Web サイトへの  [!DNL Munchkin]  トラッキングコードの追加
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 98%
+source-wordcount: '686'
+ht-degree: 66%
 
 ---
 
 # Web サイトへの [!DNL Munchkin] トラッキングコードの追加 {#add-munchkin-tracking-code-to-your-website}
 
-Marketo のカスタム JavaScript トラッキングコード（[!DNL Munchkin] コードと呼ばれる）は、自社の web サイトを訪問したすべての個人をトラッキングして、自動化されたマーケティングキャンペーンで訪問に応答できるようにします。匿名の訪問者でも、IP アドレスなどの情報と共にトラッキングします。**このトラッキングコードがなければ、web サイトへの訪問やその他のアクティビティをトラッキングできません**。
+Marketo のカスタム JavaScript トラッキングコード（[!DNL Munchkin] コードと呼ばれる）は、自社の web サイトを訪問したすべての個人をトラッキングして、自動化されたマーケティングキャンペーンで訪問に応答できるようにします。 匿名の訪問者でも、IP アドレスなどの情報と共にトラッキングします。 **このトラッキングコードがなければ、web サイトへの訪問やその他のアクティビティをトラッキングできません**。
 
 >[!PREREQUISITES]
 >
->経験豊富な JavaScript 開発者の協力を得るようにしてください。Marketo テクニカルサポートでは、カスタム JavaScript のトラブルシューティングについては対応できません。
+>経験豊富なJavaScript開発者がアクセス可能であることを確認します。 Marketo テクニカルサポートでは、カスタム JavaScript のトラブルシューティングについては対応できません。
 
 ## Web サイトへのトラッキングコードの追加 {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
->Adobe Experience Cloud ユーザは、[Adobe Launch の Marketo 統合](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}を使用して、web ページに [!DNL Munchkin] スクリプトを含めることもできます。Adobe Launch を使用する場合、_[!DNL Munchkin] スクリプトは自動的に追加される_&#x200B;ため、自分で追加する必要はありません。
+>Adobe Experience Cloud ユーザは、[Adobe Launch の Marketo 統合](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}を使用して、web ページに [!DNL Munchkin] スクリプトを含めることもできます。 Adobe Launch を使用する場合、_[!DNL Munchkin] スクリプトは自動的に追加される_&#x200B;ため、自分で追加する必要はありません。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -39,31 +39,31 @@ Marketo のカスタム JavaScript トラッキングコード（[!DNL Munchkin]
 
    >[!NOTE]
    >
-   >ほとんどの場合、非同期コードを使用する必要があります。[詳細情報](#types-of-munchkin-tracking-codes)
+   >ほとんどの場合、非同期コードを使用する必要があります。 [詳細情報](#types-of-munchkin-tracking-codes)
 
-1. JavaScript のトラッキングコードをクリックしてコピーし、web サイトに貼り付けます。
+1. JavaScriptのトラッキングコードをコピーして、web サイトに追加します。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-4.png)
 
    >[!CAUTION]
    >
-   >このスクリーンショットのコードは使用しないでください。ご自身のアカウントに表示される固有のコードを使用する必要があります。
+   >このスクリーンショットに示されているコードは使用しないでください。アカウントに表示される一意のコードを使用する必要があります。
 
    >[!TIP]
    >
-   >トラッキングする web ページにトラッキングコードを貼り付けます。規模が小さいサイトの場合は、ページごとに貼り付けることも可能です。または動的に生成される web ページ、ユーザーフォーラムなどが多数あるサイトの場合は、主なページに貼り付けるだけでかまいません。
+   >トラッキングする web ページにトラッキングコードを貼り付けます。 規模が小さいサイトの場合は、ページごとに貼り付けることも可能です。または動的に生成される web ページ、ユーザーフォーラムなどが多数あるサイトの場合は、主なページに貼り付けるだけでかまいません。
 
-   最適な結果を得るには、非同期 [!DNL Munchkin] コードを使用して、ページの `<head>` 要素内に配置します。簡易コード（推奨しません）を使用する場合は、`</body>` タグの直前に貼りつけます。
+   最適な結果を得るには、非同期 [!DNL Munchkin] コードを使用して、ページの `<head>` 要素内に配置します。 簡易コード（推奨しません）を使用する場合は、`</body>` タグの直前に貼りつけます。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-5.png)
 
    >[!TIP]
    >
-   >トラフィック量が非常に大きくなる（例：1 か月の訪問数が 10 万以上）サイトの場合、匿名の人物をトラッキングすることはお勧めしません。[詳細情報](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}
+   >トラフィック量が多いサイト（月に数十万回の訪問）の場合は、匿名のユーザーを追跡しないことを選択することをお勧めします。 [詳細情報](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}
 
 ## 複数のワークスペースを使用する場合のトラッキングコードの追加 {#add-tracking-code-when-using-multiple-workspaces}
 
-Marketo アカウントで Workspaces を使用している場合、ワークスペースに対応した個々の web プレゼンスを使用していることも考えられます。その場合は、[!DNL Munchkin] トラッキングコードの JavaScript を使用して、適切なワークスペースおよびパーティションに匿名の人物を割り当てることができます。
+Marketo アカウントでワークスペースを使用している場合は、ワークスペースに対応する個別のweb プレゼンスも使用している可能性があります。 その場合は、[!DNL Munchkin] トラッキングコードの JavaScript を使用して、適切なワークスペースおよびパーティションに匿名の人物を割り当てることができます。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -79,43 +79,43 @@ Marketo アカウントで Workspaces を使用している場合、ワークス
 
    >[!NOTE]
    >
-   >ワークスペースごとの [!DNL Munchkin] コードを使用しない場合、人物はアカウントの設定時に作成されたデフォルトのパーティションに割り当てられます。このパーティションの名前は、初期状態では「[!UICONTROL デフォルト]」ですが、Marketo アカウントで変更することもできます。
+   >特別なワークスペース [!DNL Munchkin] コードを使用しない場合、アカウントの設定時に作成された既定のパーティションにユーザーが割り当てられます。 既定では&#39;[!UICONTROL Default]&#39;という名前になっていますが、この名前は変更されている可能性があります。
 
 1. **[!UICONTROL トラッキングコードタイプ]**&#x200B;は「**[!UICONTROL 非同期]**」を選択します。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-9.png)
 
-1. JavaScript のトラッキングコードをクリックしてコピーし、web サイトに貼り付けます。
+1. JavaScriptのトラッキングコードをコピーして、web サイトに追加します。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-10.png)
 
    >[!CAUTION]
    >
-   >このスクリーンショットのコードは使用しないでください。ご自身のアカウントに表示される固有のコードを使用する必要があります。
+   >このスクリーンショットに示されているコードは使用しないでください。アカウントに表示される一意のコードを使用する必要があります。
 
-1. Web ページでトラッキングコードを貼り付ける場所は、`<head>` 要素内です。このページにアクセスした新しいリードは、このリードパーティションに割り当てられます。
+1. Web ページでトラッキングコードを貼り付ける場所は、`<head>` 要素内です。 このページにアクセスする新しいユーザーがこのパーティションに割り当てられます。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-11.png)
 
    >[!CAUTION]
    >
-   >[!DNL Munchkin] のトラッキングスクリプトは、1 つのページの単一のパーティションおよびワークスペースに対して 1 つだけ使用できます。Web サイトの複数のパーティション／ワークスペースに、トラッキングスクリプトを追加しないようにします。
+   >[!DNL Munchkin] のトラッキングスクリプトは、1 つのページの単一のパーティションおよびワークスペースに対して 1 つだけ使用できます。 Web サイトの複数のパーティション／ワークスペースに、トラッキングスクリプトを追加しないようにします。
 
    >[!NOTE]
    >
-   >Marketo で作成したランディングページには、自動的にトラッキングコードが追加されるので、このコードを貼り付ける必要はありません。
+   >Marketoで作成されたランディングページには、トラッキングコードが自動的に含まれます。 このコードを追加する必要はありません。
 
 ## [!DNL Munchkin] トラッキングコードのタイプ {#types-of-munchkin-tracking-codes}
 
-[!DNL Munchkin] トラッキングコードは、以下の 3 つのタイプから選択できます。それぞれ、web ページの読み込み時間に対する影響が異なります。
+[!DNL Munchkin] トラッキングコードは、以下の 3 つのタイプから選択できます。 それぞれ、web ページの読み込み時間に対する影響が異なります。
 
-1. **[!UICONTROL 簡易]**：コードの行数は最小限ですが、web ページの読み込み時間に関しては最適化されません。このコードは、web ページを読み込むたびに jQuery ライブラリーを読み込みます。
+1. **[!UICONTROL 簡易]**：コードの行数は最小限ですが、web ページの読み込み時間に関しては最適化されません。 このコードは、web ページを読み込むたびに jQuery ライブラリーを読み込みます。
 1. **[!UICONTROL 非同期]**：web ページの読み込み時間が短くなります。
-1. **[!UICONTROL 非同期 jQuery]**：web ページの読み込み時間が短くなり、システムのパフォーマンスも向上します。既に jQuery があると想定し、チェックも読み込みも行いません。
+1. **[!UICONTROL 非同期 jQuery]**：web ページの読み込み時間が短くなり、システムのパフォーマンスも向上します。 既に jQuery があると想定し、チェックも読み込みも行いません。
 
 ## [!DNL Munchkin] コードのテスト {#test-if-your-munchkin-code-is-working}
 
-[!DNL Munchkin] コードを追加後に、コードが機能していることを確認するには、以下の手順に従います。
+[!DNL Munchkin] コードを追加した後で動作しているかどうかを確認するには：
 
 1. Web ページにアクセスします。
 
