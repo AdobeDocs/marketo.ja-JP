@@ -53,4 +53,4 @@ Marketo Engage は、[!DNL Webex] ウェビナーの登録と出席を管理し�
 
 >[!MORELIKETHIS]
 >
->[ [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"} でイベントを作成します。
+>[&#x200B; [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"} でイベントを作成します。

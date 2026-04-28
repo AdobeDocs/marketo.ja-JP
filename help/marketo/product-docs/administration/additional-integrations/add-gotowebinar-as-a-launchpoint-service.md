@@ -69,4 +69,4 @@ Marketo は、[!DNL GoToWebinar] の登録と出席を管理します。
 
 >[!MORELIKETHIS]
 >
->[ [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"} でイベントを作成する方法を参照してください。
+>[&#x200B; [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"} でイベントを作成する方法を参照してください。
