@@ -13,12 +13,12 @@ ht-degree: 64%
 
 # プログラムのインポート {#import-a-program}
 
-プログラムは、あるMarketo Engage サブスクリプションから別のサブスクリプションに読み込むことができます。 例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。 また、[Marketo プログラムライブラリ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}から事前定義済みのプログラムを読み込むこともできます。
+プログラムは、あるMarketo Engage サブスクリプションから別のサブスクリプションに読み込むことができます。 例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。 また、[Marketo プログラムライブラリ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}から事前定義済みのプログラムを読み込むこともできます。
 
 >[!CAUTION]
 >
 >
->* プログラムを読み込むと、スニペットまたは[動的コンテンツ ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}を含むメール/ランディングページはスキップされます。
+>* プログラムを読み込むと、スニペットまたは[動的コンテンツ &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md){target="_blank"}を含むメール/ランディングページはスキップされます。
 >
 >* 「カスタムオブジェクトが更新されました」トリガーを含むスマートリストを持つプログラムは、読み込みに失敗します。 以下の手順に従う前に、このトリガーをすべてのスマートリストから削除してください。
 

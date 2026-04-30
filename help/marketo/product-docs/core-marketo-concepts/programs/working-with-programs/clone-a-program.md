@@ -23,7 +23,7 @@ ht-degree: 55%
 
    >[!NOTE]
    >
-   >プログラムは[キャンペーン](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)[フォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)または[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)に複製できます。 基礎となるすべての依存アセット（メール、スニペット、ランディングページテンプレートなど）を確認します 複製する前に宛先ワークスペースと共有されます。
+   >プログラムは[キャンペーン](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [フォルダー](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)または[ワークスペース](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)に複製できます。 基礎となるすべての依存アセット（メール、スニペット、ランディングページテンプレートなど）を確認します 複製する前に宛先ワークスペースと共有されます。
 
    ![](assets/cloneto.png)
 
