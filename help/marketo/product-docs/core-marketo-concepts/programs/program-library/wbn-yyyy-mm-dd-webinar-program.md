@@ -1,20 +1,20 @@
 ---
-description: ウェビナープログラムテンプレート。 標準の命名規則を持つウェビナーで使用します。
+description: ウェビナープログラムテンプレート： 標準的な命名規則を使用して、ウェビナーに使用できます。
 title: WBN-YYYY-MM-DD-Webinar プログラム
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 20%
+source-wordcount: '621'
+ht-degree: 21%
 
 ---
 
 # WBN-YYYY-MM-DD-Webinar プログラム {#wbn-yyyy-mm-dd-webinar-program}
 
-これは、Marketo Engage Event Program を利用した、登録管理、3 通の招待メール、リマインダー付き、フォローアップメール付きのウェビナープログラムの例です。
+これは、Marketo Engageのイベントプログラムを活用した、登録管理、3通の招待状、出席のリマインダー、フォローアップメールなどのウェビナープログラムの例です。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
 
 ## チャネルサマリ {#channel-summary}
 
@@ -22,7 +22,7 @@ ht-degree: 20%
  <tbody>
   <tr>
    <th>チャネル</th>
-   <th>メンバーシップのステータス</th>
+   <th>メンバーシップステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
   </tr>
@@ -30,13 +30,13 @@ ht-degree: 20%
    <td>イベント</td>
    <td>01 – 招待
    <br/>02 – キャンセル待ち
-   <br/>03 – 登録済み
-   <br/>04 - No Show
-   <br/>05 – 出席 – 成功
-   <br/>06 - Attended On-Demand – 成功</td>
+   <br/>03 – 登録済
+   <br/>04 – 表示なし
+   <br/>05 – 参加済み – 成功
+   <br/>06 – 出席済みオンデマンド – 成功</td>
    <td>包含</td>
    <td>イベント
-   <p>（統合：ウェビナーを含むイベント）</td>
+   <p>（統合：ウェビナー付きイベント）</td>
   </tr>
  </tbody>
 </table>
@@ -63,33 +63,33 @@ ht-degree: 20%
    <tr>
    <td>メール</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
-   <td>03 - メール – 招待リマインダー – ラストチャンス</td>
+   <td>03 – 電子メール – 招待リマインダー – ラストチャンス</td>
   </tr>
   <tr>
    <td>メール</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
-   <td>04 - メール – 登録の確認</td>
+   <td>04 – 電子メール – 登録確認</td>
   </tr>
   <tr>
    <td>メール</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
-   <td>05 - メール – 出席リマインダー</td>
+   <td>05 – 電子メール – 出席のリマインダー</td>
   </tr>
   <tr>
    <td>メール</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
-   <td>06 – 電子メール – フォローアップ – 出席</td>
+   <td>06 -Email - Follow-up - Attended</td>
   </tr>
   <tr>
    <td>メール</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">クイックスタートメールテンプレート</a></td>
-   <td>07 - メール – フォローアップ – 表示なし </td>
+   <td>07 – 電子メール – フォローアップ – いいえ表示 </td>
   </tr>
   <tr>
   <tr>
    <td>Form</td>
    <td> </td>
-   <td>FM-Event Registration</td>
+   <td>FM-Event登録</td>
   </tr>
   <tr>
    <td>ランディングページ</td>
@@ -99,7 +99,7 @@ ht-degree: 20%
   <tr>
    <td>ランディングページ</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">クイックスタート LP テンプレート</a></td>
-   <td>02 - LP – ありがとうございました</td>
+   <td>02 - LP - サンキュー</td>
   </tr>
   <tr>
    <td>ランディングページ</td>
@@ -107,19 +107,19 @@ ht-degree: 20%
    <td>03 - LP - オンデマンド</td>
   </tr>
   <tr>
-   <td>ローカル報告書</td>
+   <td>ローカルレポート</td>
    <td> </td>
    <td>メールの効果</td>
   </tr>
    <tr>
-   <td>ローカル報告書</td>
+   <td>ローカルレポート</td>
    <td> </td>
    <td>ランディングページの効果</td>
   </tr>
   <tr>
    <td>スマートキャンペーン</td>
    <td> </td>
-   <td>00 – 獲得プログラムのキャプチャ</td>
+   <td>00 - キャプチャ取得プログラム</td>
   </tr>
   <tr>
    <td>スマートキャンペーン</td>
@@ -129,22 +129,22 @@ ht-degree: 20%
    <tr>
    <td>スマートキャンペーン</td>
    <td> </td>
-   <td>02a – 招待状の送信</td>
+   <td>02a – 招待を送信</td>
   </tr>
    <tr>
    <td>スマートキャンペーン</td>
    <td> </td>
-   <td>02b – 招待リマインダーの送信</td>
+   <td>02b – 招待リマインダーを送信</td>
   </tr>
    <tr>
    <td>スマートキャンペーン</td>
    <td> </td>
-   <td>02c – 招待リマインダーの送信（最後のチャンス）</td>
+   <td>02c – 招待リマインダーを最後のチャンスに送信</td>
   </tr>
   <tr>
    <td>スマートキャンペーン</td>
    <td> </td>
-   <td>03 – 出席リマインダーを送信</td>
+   <td>03 – 参加リマインダーを送信</td>
   </tr>
   <tr>
    <td>スマートキャンペーン</td>
@@ -159,13 +159,13 @@ ht-degree: 20%
   <tr>
    <td>フォルダー</td>
    <td> </td>
-   <td>Assets – すべてのクリエイティブアセットが格納されています
-<br/> （メール、ランディングページ、Formsのサブフォルダー）</td>
+   <td>Assets – すべてのクリエイティブアセットを格納
+<br/> （電子メール、ランディングページ、Formsのサブフォルダー）</td>
   </tr>
   <tr>
    <td>フォルダー</td>
    <td> </td>
-   <td>キャンペーン – すべてのスマートキャンペーンを格納します。</td>
+   <td>Campaigns – すべてのスマートキャンペーンを格納</td>
   </tr>
   <tr>
    <td>フォルダー</td>
@@ -177,7 +177,7 @@ ht-degree: 20%
 
 ![](assets/wbn-yyyy-mm-dd-webinar-program-1.png)
 
-## 含まれるマイトークン {#my-tokens-included}
+## マイトークンが含まれています {#my-tokens-included}
 
 <table style="table-layout:auto">
  <tbody>
@@ -219,13 +219,13 @@ ht-degree: 20%
    <tr>
    <td>リッチテキスト</td>
    <td><code>{{my.Event-Description}}</code></td>
-   <td>ダブルクリックして詳細を表示
+   <td>詳細はダブルクリック
 <br/><code><--My Event Description Here--></code>
-<br/> このイベントの説明は、「マイトークン」タブのプログラムレベルで編集します。
-<br/> 学習者：
-<li>箇条書き 1</li>
-<li>箇条書き 2</li>
-<li>箇条書き 3</li></td>
+<br/>このイベントの説明をプログラムレベルの「マイトークン」タブで編集します。
+<br/>次の項目について学習します。
+<li>箇条書き1</li>
+<li>箇条書き2</li>
+<li>箇条書き3</li></td>
   </tr>
   <tr>
    <td>テキスト</td>
@@ -293,40 +293,40 @@ ht-degree: 20%
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
-   * このサブスクリプションにタグを作成 – _推奨_
+   * このサブスクリプションでタグを作成 – _おすすめ_
    * 無視
 
 * **同じ名前のランディングページテンプレート**
    * 元のテンプレートのコピー
-   * 宛先テンプレートの使用 – _推奨_
+   * 宛先テンプレートを使用 – _おすすめ_
 
 * **同じ名前の画像**
    * どちらのファイルも保持する
-   * このサブスクリプションの項目を置き換える – _推奨_
+   * このサブスクリプションのアイテムを置き換える – _推奨_
 
 * **同じ名前のメールテンプレート**
    * どちらのテンプレートも保持する
-   * 既存のテンプレートを置換 – _推奨_
+   * 既存のテンプレートを置き換える – _推奨_
 
 ## ベストプラクティス {#best-practices}
 
-* 統合ウェビナープロバイダーを使用している場合は、ホスティングシステムでMarketo Engage プログラムをウェビナーに接続することを忘れないでください。
+* 統合されたウェビナープロバイダーを使用している場合は、Marketo Engage プログラムをホスティングシステムのウェビナーに接続します。
 
-* ウェビナープログラムを読み込んだ後、フォームをローカルアセットから Design Studio にあるグローバルアセットに移動します。
-   * フォームの数を減らし、Design Studio からより多くのグローバルアセットを利用することで、プログラムの設計と管理ガバナンスの拡張性が向上します。 また、フィールド、オプトイン言語など、定期的なコンプライアンス更新を柔軟に行えます。
+* ウェビナープログラムを読み込んだら、フォームをローカルアセットからDesign Studioにあるグローバルアセットに移動します。
+   * フォーム数を減らし、Design Studioからより多くのグローバルアセットを活用することで、プログラムの設計と管理ガバナンスにおいて、よりスケーラビリティを高めることができます。 また、フィールドやオプトイン言語など、定期的なコンプライアンス更新の柔軟性も提供します。
 
-* 読み込んだプログラムでテンプレートを更新して現在のブランドのテンプレートを利用するか、スニペットまたは適切なロゴ/フッター情報を追加して、新しく読み込んだテンプレートを更新し、ブランドを反映させることを検討してください。
+* インポートしたプログラムのテンプレートを更新して、現在ブランド化されているテンプレートを利用するか、新しくインポートしたテンプレートを更新して、スニペットや適切なロゴ/フッター情報を追加することで、ブランドを反映させることを検討してください。
 
 * 命名規則に合わせて、このプログラムの例の命名規則を更新することを検討してください。
 
 >[!NOTE]
 >
->必要に応じて、プログラムテンプレートとプログラムを使用するたびにマイトークン値を必ず更新してください。
+>必要に応じて、プログラムテンプレートおよびプログラムを使用するたびに、マイトークン値を更新することを忘れないでください。
 
 >[!TIP]
 >
->成功をトラッキングするには、「05 – 出席（プログラム成功）」キャンペーンをアクティブ化することを忘れないでください。 メールを送信する前に _こ_ を行います。
+>メールが送信される前に、成功を追跡するために「05 – 出席（プログラムの成功）」キャンペーンをアクティブにします。
 
 >[!IMPORTANT]
 >
->URL を参照するマイトークンにhttp://またはhttps://を含めることはできません。含めない場合、リンクがアセット内で適切に機能しません。
+>URLを参照するマイトークンにhttp://またはhttps://を含めることはできません。そうしないと、アセット内でリンクが適切に機能しません。

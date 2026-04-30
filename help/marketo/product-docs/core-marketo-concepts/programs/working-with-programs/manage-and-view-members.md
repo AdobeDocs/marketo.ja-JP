@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147122
-description: プログラムメンバーを管理および表示する方法について説明します。 プログラム内のユーザーを確認し、メンバーのステータスとデータを管理します。
+description: プログラムメンバーの管理と表示方法について説明します。 プログラムのメンバーを確認し、メンバーのステータスとデータを管理します。
 title: メンバーの管理および表示
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 92%
+source-wordcount: '257'
+ht-degree: 88%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 92%
 
 ## メンバーグリッドの列の管理 {#manage-columns-in-the-members-grid}
 
-列をドラッグ＆ドロップすると、列の並び順を変更できます。青の矢印は列の移動先を示します。
+列をドラッグ＆ドロップすると、列の並び順を変更できます。 青の矢印は列の移動先を示します。
 
 ![](assets/image2014-10-1-16-3a25-3a30.png)
 
@@ -53,7 +53,7 @@ ht-degree: 92%
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. カスタム表示に名前を付けます。列タイトルを選択します。列タイトルを選択し、「**[!UICONTROL 追加]**」または「**[!UICONTROL 削除]**」をクリックして表示を作成します。
+1. カスタム表示に名前を付けます。 列タイトルを選択します。 列タイトルを選択し、「**[!UICONTROL 追加]**」または「**[!UICONTROL 削除]**」をクリックして表示を作成します。
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
@@ -79,11 +79,9 @@ ht-degree: 92%
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   少し時間がかかる場合があります。このメッセージが表示されたら変更完了です。
+   少し時間がかかる場合があります。 プロセスが完了すると、以下のメッセージが表示されます。
 
    ![](assets/changestatusconfirm.png)
-
-機能は様々ですが、どれも簡単に使えるものばかりです。お試しください。
 
 >[!MORELIKETHIS]
 >

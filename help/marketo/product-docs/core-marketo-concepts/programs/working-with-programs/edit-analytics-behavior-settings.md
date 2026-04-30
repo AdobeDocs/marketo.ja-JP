@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2953405
-description: プログラムの Analytics 動作設定を編集する方法を説明します。 プログラムの成功と収益の追跡方法を設定します。
+description: プログラムの分析行動設定を編集する方法について説明します。 プログラムの成功と収益のトラッキング方法を設定します。
 title: アナリティクス動作設定の編集
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 82%
+source-wordcount: '186'
+ht-degree: 76%
 
 ---
 
 # アナリティクス動作設定の編集 {#edit-analytics-behavior-settings}
 
-[チャネルの管理者レベルでのアナリティクス動作](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}を設定できますが、プログラムレベルで編集することもできます。以下に手順を示します。
+[チャネルの管理者レベルでのアナリティクス動作](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}を設定できますが、プログラムレベルで編集することもできます。 手順は以下のとおりです。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. プログラムを見つけて選択します。
+1. プログラムを選択します。
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. 「**[!UICONTROL 設定]**」タブで、「[!UICONTROL Analytics の動作 &#x200B;] をキャンバスにドラッグします。
+1. 「**[!UICONTROL 設定]**」タブで、[!UICONTROL Analytics ビヘイビアー]をキャンバスにドラッグします。
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. 目的の Analytics の動作を選択します。
+1. 目的の分析動作を選択します。
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
@@ -47,7 +47,7 @@ ht-degree: 82%
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-これで完了です。アナリティクス動作をプログラムレベルで上書きする方法を理解できました。
+分析ビヘイビアーはプログラムレベルで上書きされました。
 
 >[!NOTE]
 >

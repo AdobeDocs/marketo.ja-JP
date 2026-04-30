@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147100
-description: プログラムスケジュール表示のナビゲーション方法を説明します。 時間を移動し、プログラム内のスケジュールされたエントリを表示します。
+description: プログラムスケジュールビューのナビゲーション方法を説明します。 時間を移動し、プログラムのスケジュールされたエントリを表示します。
 title: プログラムスケジュールビューの操作
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 90%
+source-wordcount: '171'
+ht-degree: 84%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 90%
 
    ![](assets/login-marketing-activities.png)
 
-1. プログラムを選択します。「**[!UICONTROL 表示]**」ドロップダウンをクリックします。「**[!UICONTROL スケジュール]**」を選択します。
+1. プログラムを選択します。 「**[!UICONTROL 表示]**」ドロップダウンをクリックします。 「**[!UICONTROL スケジュール]**」を選択します。
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -31,15 +31,13 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->プログラムスケジュールビューは固定されます。設定すると、すべてのプログラムがデフォルトでスケジュールビューになります。
+>プログラムスケジュールビューは固定されます。 設定すると、すべてのプログラムがデフォルトでスケジュールビューになります。
 
 ## エントリ間の切り替え {#switching-between-entries}
 
 1. エントリの詳細で、矢印をクリックして、次のスケジュールエントリに移動します。
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
-
-   簡単ですね。
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
@@ -60,8 +58,6 @@ ht-degree: 90%
 1. 右上隅の画面アイコンをクリックすると、プログラムスケジュールを全画面表示できます。
 
    ![](assets/image2014-9-17-11-3a40-3a45.png)
-
-これで完了です。プログラムの表示方法を理解したので、その他の便利な方法を学びましょう。
 
 >[!MORELIKETHIS]
 >

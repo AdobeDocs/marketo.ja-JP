@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147102
-description: プログラムスケジュール ビューでエントリを作成する方法を説明します。 メールプログラム、スマートキャンペーンまたは基本エントリをスケジュールに追加します。
+description: プログラムスケジュールビューでエントリを作成する方法を説明します。 メールプログラム、スマートキャンペーン、基本的なエントリなどをスケジュールに追加できます。
 title: プログラムスケジュールビューでのエントリの作成
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 88%
+source-wordcount: '189'
+ht-degree: 85%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 88%
 
    ![](assets/login-marketing-activities-1.png)
 
-1. プログラムを選択します。「**[!UICONTROL 表示]**」ドロップダウンをクリックします。「**[!UICONTROL スケジュール]**」を選択します。
+1. プログラムを選択します。 「**[!UICONTROL 表示]**」ドロップダウンをクリックします。 「**[!UICONTROL スケジュール]**」を選択します。
 
    ![](assets/image2014-9-16-9-3a22-3a7.png)
 
@@ -29,7 +29,7 @@ ht-degree: 88%
 
    ![](assets/image2014-9-16-9-3a22-3a33.png)
 
-1. エントリに名前を付けます。**[!UICONTROL Enter]** キーを押して名前を確定します。
+1. エントリに名前を付けます。 **[!UICONTROL Enter]** キーを押して名前を確定します。
 
    ![](assets/image2014-9-16-9-3a22-3a59.png)
 
@@ -55,15 +55,15 @@ ht-degree: 88%
 
    ![](assets/image2014-9-16-9-3a26-3a5.png)
 
-1. 「**[!UICONTROL タイプ]**」ドロップダウンを選択します。新しいエントリタイプを選択します。
+1. 「**[!UICONTROL タイプ]**」ドロップダウンを選択します。 新しいエントリタイプを選択します。
 
    >[!NOTE]
    >
-   >「To-do」は[カスタムエントリ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md){target="_blank"}です。カスタムエントリは Marketo 以外のアジェンダをトラックするために作成できます。
+   >「To-do」は[カスタムエントリ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md){target="_blank"}です。 カスタムエントリは Marketo 以外のアジェンダをトラックするために作成できます。
 
    ![](assets/image2014-9-16-9-3a26-3a36.png)
 
-   これで完了です。すぐに変更が反映されるはずです。
+   変更内容はすぐに表示されます。
 
    ![](assets/image2014-9-16-9-3a27-3a21.png)
 
