@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953362
-description: マーケティングカレンダーでスマートキャンペーンとメールプログラムの仮のエントリを確認する方法を説明します。 検証を実行し、キャンペーンが実行されることを確認します。
+description: マーケティングカレンダーで暫定的なスマートキャンペーンとメールプログラムのエントリを確認する方法を説明します。 検証を実行して確認し、キャンペーンを実行します。
 title: マーケティングカレンダーでエントリを直接確認
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 77%
+source-wordcount: '93'
+ht-degree: 73%
 
 ---
 
 # マーケティングカレンダーでエントリを直接確認 {#confirm-entries-directly-in-the-marketing-calendar}
 
-スマートキャンペーンとメールプログラムは、仮のエントリとして作成でき、実際に何が起こるかを確認する必要があります。手順は以下のとおりです。
+スマートキャンペーンとメールプログラムは、仮のエントリとして作成でき、実際に何が起こるかを確認する必要があります。
 
 1. **[!UICONTROL カレンダー]**&#x200B;に移動します。
 
@@ -23,7 +23,7 @@ ht-degree: 77%
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
-1. 先に進み、エントリを確認します。
+1. エントリを確認します。
 
    ![](assets/image2014-10-20-13-3a22-3a26.png)
 

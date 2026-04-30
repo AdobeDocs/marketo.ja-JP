@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147304
-description: マーケティングカレンダーのフィルター定義を他のユーザーと共有する方法を説明します。 フィルター URL をコピーして、チームと共有します。
+description: マーケティングカレンダーでフィルター定義を他のユーザーと共有する方法について説明します。 フィルターURLをコピーして、チームと共有します。
 title: マーケティングカレンダーでのフィルター定義の共有
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 80%
+source-wordcount: '114'
+ht-degree: 54%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 80%
 
 >[!NOTE]
 >
-> 保存したフィルターに変更を加える場合は、必ず再共有してください。再共有するまで、他のユーザーに編集内容が反映されません。
+> 保存したフィルターに変更を加えた場合は、そのフィルターを再共有します。編集した内容は、他のユーザーには反映されません。
 
 1. 共有するフィルターを選択します。
 

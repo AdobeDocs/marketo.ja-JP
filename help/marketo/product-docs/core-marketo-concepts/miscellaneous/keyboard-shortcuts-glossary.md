@@ -1,20 +1,22 @@
 ---
 unique-page-id: 1147318
-description: エリア ナビゲーション、カレンダーなどのMarketoのキーボード ショートカットに関するヘルプを表示します。 ショートカットを使用すると、Marketo Engageをより迅速に移動できます。
+description: Marketoのキーボードショートカットで、エリアナビゲーションやカレンダーなどのヘルプを表示します。 Marketo Engageでは、ショートカットを使用して素早く移動できます。
+hide: true
+hidefromtoc: true
 title: キーボードショートカットの用語集
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 79%
+source-wordcount: '129'
+ht-degree: 65%
 
 ---
 
 # キーボードショートカットの用語集 {#keyboard-shortcuts-glossary}
 
-キーボードショートカットを好む方でもご心配ありません。
+これらのキーボードショートカットを使用すると、Marketoをより迅速に操作できます。
 
-## エリア ナビゲーション {#area-navigation}
+## エリアナビゲーション {#area-navigation}
 
 | キーボードショートカット | エリア |
 |---|---|
@@ -41,4 +43,4 @@ ht-degree: 79%
 |---|---|
 | ESC | ポップアップを閉じる |
 | 戻る／入る | ポップアップを送信 |
-| Ctrl + Alt／Opt + H | フォームエディターでフィールドを非表示／再表示 |
+| Ctrl + Alt／Opt + H | フォームエディターでのフィールドの表示/非表示の切り替え |

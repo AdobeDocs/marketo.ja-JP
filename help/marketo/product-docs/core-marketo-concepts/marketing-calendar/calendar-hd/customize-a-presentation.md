@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7503973
-description: ビューと目標を使用してマーケティングカレンダープレゼンテーションをカスタマイズする方法を説明します。 回転頻度を設定して、チームにとって最も重要な項目を表示します。
+description: ビューと目標を使用してマーケティングカレンダーのプレゼンテーションをカスタマイズする方法について説明します。 ローテーションの頻度を設定し、チームにとって最も重要なものを表示します。
 title: プレゼンテーションのカスタマイズ
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '311'
-ht-degree: 85%
+source-wordcount: '284'
+ht-degree: 71%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 85%
 >[!AVAILABILITY]
 >
 >
->すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ ht-degree: 85%
 
 ## ビューの選択 {#choosing-the-views}
 
-プレゼンテーションは、選択した各[フィルター定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}で順に表示されます。必要な数のビューをドラッグし、表示頻度をカスタマイズしてください。
+プレゼンテーションは、選択した各[フィルター定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}で順に表示されます。 必要な数のビューをドラッグし、表示頻度をカスタマイズしてください。
 
 1. 右側のツリーから、プレゼンテーションで順に使用したい各ビューをドラッグします。
 
@@ -36,7 +36,7 @@ ht-degree: 85%
 
 ## ゴールの追加 {#add-a-goal}
 
-プレゼンテーションは、チームのゴールを表示するとさらに役立つものになります。[カスタムゴール](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}または[スマートリストゴール](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}をそれぞれドラッグするだけです。最大 10 個まで使用できます。
+プレゼンテーションが最も効果的なのは、チームの目標を表示する場合です。 異なる[ カスタム目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}または[ スマートリスト目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}をドラッグします。 最大 10 個まで使用できます。
 
 1. 右側のツリーから、プレゼンテーションで表示する各ゴールをドラッグします。
 
@@ -44,13 +44,13 @@ ht-degree: 85%
 
 ## ローテーションの表示頻度の設定 {#set-the-frequency-of-rotation}
 
-プレゼンテーションで使用するビューを取り込んだら、異なるビュー間で回転する頻度を設定します。
+ビューが取り込まれたら、異なるビュー間で回転する頻度を設定します。
 
 1. **[!UICONTROL 5 分]**&#x200B;をクリックします（これがデフォルトの間隔です）。
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
-1. 分単位で時間を入力します。「**[!UICONTROL 保存]**」をクリックします。
+1. 分単位で時間を入力します。 「**[!UICONTROL 保存]**」をクリックします。
 
    >[!NOTE]
    >
@@ -66,25 +66,23 @@ ht-degree: 85%
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   これで完了です。プレゼンテーションを表示する準備ができました。
-
 >[!TIP]
 >
->プレゼンテーションの[背景画像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}を設定します。kittens か rainbows がお勧めです。
+>プレゼンテーションの[背景画像](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}を設定します。
 
 ## プレゼンテーションのプレビュー {#preview-a-presentation}
 
-プレゼンテーションが設定されたら、プレビューおよびローンチできる状態になります。
+プレゼンテーションの設定が完了したら、プレビューと起動の準備が整います。
 
 1. 「**[!UICONTROL プレビュー]**」を選択します。
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   いかがでしょうか。プレゼンテーションが表示されました。
+   プレゼンテーションが表示されました。
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
-   表示されたものが気に入らない場合は、戻って、別のフィルター定義を使用して、目的のビューを作成します。
+   ビューを調整するには、異なるフィルター定義を使用します。
 
 >[!MORELIKETHIS]
 >

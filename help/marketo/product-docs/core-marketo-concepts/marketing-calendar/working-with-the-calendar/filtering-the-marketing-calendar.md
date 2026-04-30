@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147294
-description: エントリタイプ、プログラムタグ、ワークスペースでマーケティングカレンダーをフィルタリングする方法を説明します。 表示するスケジュール済みアセットを制御します。
+description: エントリタイプ、プログラムタグ、ワークスペースによってマーケティングカレンダーをフィルタリングする方法について説明します。 スケジュールされたアセットの表示を制御します。
 title: マーケティングカレンダーのフィルタリング
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 70%
+source-wordcount: '118'
+ht-degree: 40%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 70%
 
 カレンダーに表示する情報をフィルタリングするには、エントリの種類、プログラムタグ、またはワークスペースを使用します。
 
-1. **[!UICONTROL カレンダー]** タイルをクリックします。
+1. 「**[!UICONTROL カレンダー]**」タイルをクリックします。
 
 ![](assets/2017-05-10-15-30-47.png)
 
@@ -23,17 +23,17 @@ ht-degree: 70%
 
    >[!NOTE]
    >
-   >デフォルトのエントリタイプは **[!UICONTROL メール]**&#x200B;**[!UICONTROL プログラム]** および **[!UICONTROL メールを使用したスマートキャンペーン]** です。
+   >デフォルトのエントリタイプは、**[!UICONTROL 電子メール]** **[!UICONTROL プログラム]**&#x200B;と&#x200B;**[!UICONTROL 電子メール付きスマートキャンペーン]**&#x200B;です。
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
-1. フィルターに表示する追加のエントリタイプを選択します。
+1. フィルターに追加する追加のエントリタイプを選択します。
 
    ![](assets/image2014-9-24-10-3a47-3a0.png)
 
    >[!TIP]
    >
-   >標準のエントリタイプの説明については、[プログラムスケジュールビューのエントリタイプ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}を参照してください。
+   >標準エントリタイプの詳細については、[ プログラムスケジュール表示エントリタイプ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}を参照してください。
 
 1. 関心のあるプログラムタグを選択します。
 
@@ -43,7 +43,7 @@ ht-degree: 70%
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   これで完了です。定義したフィルターに適用されるエントリのみが表示されます。
+   定義されたフィルターに一致するエントリのみが表示されるようになりました。
 
    >[!NOTE]
    >

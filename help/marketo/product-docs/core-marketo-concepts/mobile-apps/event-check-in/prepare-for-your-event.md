@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099360
-description: イベントチェックインでイベントの準備をする方法を説明します。 参加者が到着する前に、アプリを設定してイベントプログラムを同期します。
+description: イベントチェックインを利用して、イベントに備える方法をご確認ください。 参加者が到着する前に、アプリを設定し、イベントプログラムを同期します。
 title: イベントの準備
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 88%
+source-wordcount: '438'
+ht-degree: 84%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 88%
 
 >[!IMPORTANT]
 >
->2023年10月2日（PT）に、アドビは Marketo イベントアプリをすべてのアプリストアから削除しました。タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。[詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日（PT）に、アドビは Marketo イベントアプリをすべてのアプリストアから削除しました。 タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。 Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 ## 新しい Marketo の役割の作成 {#create-a-new-marketo-role}
 
-Marketo には、イベントチェックインアプリ用の特別なユーザーの役割があります。モバイルアプリケーションへのアクセス権を持つ [&#x200B; ユーザーまたは &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) ユーザー用の [!DNL iPad] 新しいMarketo ロールを作成 [!DNL Android] します。
+Marketo には、イベントチェックインアプリ用の特別なユーザーの役割があります。 [ モバイルアプリケーションにアクセスする権限を持つ[!DNL iPad]または[!DNL Android] ユーザー向けに、新しいMarketo ロール ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)を作成します。
 
 ## 新しいタブレットユーザーのイベントへの招待 {#invite-new-tablet-users-to-the-event}
 
@@ -33,7 +33,7 @@ Marketo には、イベントチェックインアプリ用の特別なユーザ
 
 ## イベントの日付の指定 {#specify-the-event-dates}
 
-イベントの日付は簡単に設定できます。
+イベント日の設定は容易です。
 
 1. スケジュールのイベントをクリックし、開始日時と終了日時を設定します。
 
@@ -45,11 +45,11 @@ Marketo には、イベントチェックインアプリ用の特別なユーザ
 
    >[!CAUTION]
    >
-   >イベントの日付が現在の日付の 1 週間前または 1 週間後以降の場合、イベントはアプリに表示されません。**ヒント**：テストするには、日付を一時的に、今日から 1 週間以内に設定します。テスト後は、必ず正しい日付にイベントを返してください。
+   >イベントの日付が現在の日付の 1 週間前または 1 週間後以降の場合、イベントはアプリに表示されません。 **ヒント**：テストするには、日付を一時的に、今日から 1 週間以内に設定します。 テスト後は、必ず正しい日付にイベントを返してください。
 
 ## イベントにユーザーを追加 {#add-people-to-your-event}
 
-_タイミング_&#x200B;がわかったので、_対象ユーザー_&#x200B;を追加します。
+_when_&#x200B;を理解したので、_who_&#x200B;を追加します。
 
 1. 既にユーザーのリストがある場合は、「マイ Marketo」で、「**[!UICONTROL データベース]**」タイルをクリックします。
 
@@ -59,7 +59,7 @@ _タイミング_&#x200B;がわかったので、_対象ユーザー_&#x200B;を
 
    ![](assets/four.png)
 
-1. リストからイベントのユーザーを選択します。複数のユーザーをクリックするには、**[!UICONTROL Ctrl]**（Mac の場合は **[!UICONTROL Command]**）を使用します。すべてのユーザーをマークするには、「**[!UICONTROL すべて]**」を選択します。
+1. リストからイベントのユーザーを選択します。 複数のユーザーをクリックするには、**[!UICONTROL Ctrl]**（Mac の場合は **[!UICONTROL Command]**）を使用します。すべてのユーザーをマークするには、「**[!UICONTROL すべて]**」を選択します。
 
    ![](assets/five.png)
 
@@ -71,7 +71,7 @@ _タイミング_&#x200B;がわかったので、_対象ユーザー_&#x200B;を
 
    ![](assets/seven.png)
 
-1. **[!UICONTROL 新規ステータス]** ドロップダウンをクリックして、**[!UICONTROL Roadshow]/[!UICONTROL Registered]** を選択します。 「**[!UICONTROL 今すぐ実行]**」をクリックします。
+1. 「**[!UICONTROL 新規ステータス]**」ドロップダウンをクリックし、**[!UICONTROL Roadshow] > [!UICONTROL Registered]**」を選択します。 「**[!UICONTROL 今すぐ実行]**」をクリックします。
 
    ![](assets/eight.png)
 

@@ -1,23 +1,23 @@
 ---
 unique-page-id: 8781988
-description: Marketo Moments の Analytics カードについて説明します。 モバイルアプリで主要指標とパフォーマンスインサイトを表示します。
+description: Marketo MomentsのAnalytics カードについて詳しく見る。 モバイルアプリで主要な指標とパフォーマンスインサイトを表示します。
 title: 分析カードについて
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 94%
+source-wordcount: '311'
+ht-degree: 84%
 
 ---
 
 # 分析カードについて {#understanding-analytics-cards}
 
-各月の初めに、Marketo Moments には、[!UICONTROL 獲得したリード]、[!UICONTROL 新規リード]、[!UICONTROL 登録解除]の 3 つの異なるレポートカードが提供されます。それぞれ 6 か月間の月別パフォーマンスと傾向を示します。
+各月の初めに、Marketo Moments には、[!UICONTROL 獲得したリード]、[!UICONTROL 新規リード]、[!UICONTROL 登録解除]の 3 つの異なるレポートカードが提供されます。 それぞれ 6 か月間の月別パフォーマンスと傾向を示します。
 
 >[!IMPORTANT]
 >
->2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。[詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。 タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。 Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 ## 分析カード {#analytics-cards}
 
@@ -33,11 +33,11 @@ ht-degree: 94%
 * 前月比の比較
 * 大多数または上位 3 件の棒グラフ（カードに応じて異なります）
 
-例えば、[!UICONTROL 獲得したリード]分析カードの詳細を見てみましょう。
+例えば、[!UICONTROL 獲得リード ]分析カードの詳細は次のとおりです。
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
-この例では、赤は選択した日付範囲で値が減少したことを示します。緑は、値が増加したことを示します。
+この例では、赤は、選択した日付範囲で値が減少したことを示します。 緑は、値が増加したことを示します。
 
 ## [!UICONTROL 獲得したリード] {#acquired-leads}
 

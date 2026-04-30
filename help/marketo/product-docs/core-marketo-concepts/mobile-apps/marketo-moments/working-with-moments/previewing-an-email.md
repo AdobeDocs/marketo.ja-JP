@@ -1,23 +1,23 @@
 ---
 unique-page-id: 8783563
-description: Marketo Moments でメールをプレビューする方法を説明します。 モバイルアプリから送信する前のメールの様子を確認します。
+description: Marketo Momentsでメールをプレビューする方法について説明します。 モバイルアプリから送信する前に、メールがどのように表示されるかを確認できます。
 title: メールのプレビュー
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 85%
+source-wordcount: '160'
+ht-degree: 80%
 
 ---
 
 # メールのプレビュー {#previewing-an-email}
 
-メールカードのトリガーをプルする前に、メールカードを右クリックしてプレビューします。
+電子メールカードを右クリックしてプレビューしてから送信します。
 
 >[!IMPORTANT]
 >
->2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。[詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。 タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。 Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 1. メールカードで、3 ドットのアクションメニューをタップします。
 

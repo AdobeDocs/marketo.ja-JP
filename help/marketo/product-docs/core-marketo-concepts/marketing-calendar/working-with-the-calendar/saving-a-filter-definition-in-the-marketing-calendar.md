@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147296
-description: マーケティングカレンダーにフィルター定義を保存する方法を説明します。 フィルターを保存すると、様々なフィルター定義をすばやく切り替えることができます。
+description: マーケティングカレンダーにフィルター定義を保存する方法を説明します。 フィルターを保存すると、異なるフィルター定義をすばやく切り替えることができます。
 title: マーケティングカレンダーでのフィルター定義の保存
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 78%
+source-wordcount: '89'
+ht-degree: 65%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 78%
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
-1. フィルターに名前を付けます。「**[!UICONTROL 保存]**」をクリックします。
+1. フィルターに名前を付けます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 78%
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   必要に応じて、他の Marketo ユーザーに[コピーを送信](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}できます。
+   オプションで、[定義のコピー](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}を他のMarketo ユーザーに送信します。
 
    >[!NOTE]
    >

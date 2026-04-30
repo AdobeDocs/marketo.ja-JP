@@ -1,27 +1,27 @@
 ---
 unique-page-id: 1147257
-description: 3 週間モードと月モードを含むマーケティングカレンダーの操作方法を説明します。 ビューを切り替え、議題を使用してスケジュールされたアセットを表示します。
+description: 3週間および月モードを含むマーケティングカレンダーのナビゲーション方法について説明します。 ビューを切り替え、アジェンダを使用してスケジュールされたアセットを表示します。
 title: マーケティングカレンダーの操作
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 77%
+source-wordcount: '179'
+ht-degree: 61%
 
 ---
 
 # マーケティングカレンダーの操作 {#navigating-the-marketing-calendar}
 
-マーケティングカレンダー内を簡単に移動できます。 手順は次のとおりです。
+マーケティングカレンダーのナビゲーション方法を説明します。
 
 >[!PREREQUISITES]
 >
->[マーケティングカレンダーのライセンス](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}があることを確認してください。ライセンスがないと、My Marketo にマーケティングカレンダータイルが表示されません。
+>[ マーケティングカレンダーライセンス ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}を持っていることを確認してください。そうしないと、マーケティングカレンダータイルがMy Marketoに表示されません。
 
 >[!NOTE]
 >
->繰り返しスマートキャンペーンは、マーケティングカレンダーではサポートされていません。
+>定期的なスマートキャンペーンは、マーケティングカレンダーではサポートされていません。
 
 1. **マーケティングカレンダー**&#x200B;に移動します。
 
@@ -41,7 +41,7 @@ ht-degree: 77%
 
 アジェンダビューには、すべてのエントリがリストとして表示されます。
 
-1. **[!UICONTROL フィルター]** ドロップダウンをクリックします。
+1. 「****&#x200B;フィルター」ドロップダウンをクリックします。
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
@@ -49,13 +49,13 @@ ht-degree: 77%
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 
-   これで完了です。予定している項目をすべて見やすく表示できました。
+   このビューには、予定されているすべてが表示されます。
 
    ![](assets/image2014-9-26-10-3a30-3a9.png)
 
 ## 時間のナビゲーション {#navigate-through-time}
 
-デロリアンがなくても大丈夫。ナビゲーションボタンをクリックするだけです。
+ナビゲーションボタンをクリックします。
 
 ![](assets/image2014-9-26-10-3a31-3a25.png)
 
@@ -67,7 +67,7 @@ ht-degree: 77%
 | 時間を進む | Alt／opt + 下矢印 |
 | 「今日」に移動 | Alt／opt + T |
 
-これで完了です。以上が基本です。フィルターを使用して表示をカスタマイズすることもできます。
+以上が基本です。 フィルターを使用して表示をカスタマイズすることもできます。
 
 >[!MORELIKETHIS]
 >

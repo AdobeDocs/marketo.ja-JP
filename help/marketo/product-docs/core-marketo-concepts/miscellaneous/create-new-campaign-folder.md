@@ -1,18 +1,18 @@
 ---
 unique-page-id: 2953207
-description: マーケティングアクティビティで新しいキャンペーンフォルダーを作成する方法を説明します。 自動処理とアセット用のキャンペーンフォルダーを使用してワークスペースを整理します。
+description: マーケティングアクティビティで新しいキャンペーンフォルダーを作成する方法を説明します。 自動化とアセット用のキャンペーンフォルダーを使用してワークスペースを整理します。
 title: キャンペーンフォルダーの新規作成
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 82%
+source-wordcount: '110'
+ht-degree: 57%
 
 ---
 
 # キャンペーンフォルダーの新規作成 {#create-new-campaign-folder}
 
-キャンペーンフォルダーは、整理されたワークスペースを維持するのに役立ちます。これらの簡単な手順に従うと、自動処理マジックに進みます。
+キャンペーンフォルダーは、整理されたワークスペースを維持するのに役立ちます。 次のステップで進めていきます。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -34,15 +34,15 @@ ht-degree: 82%
 
    >[!TIP]
    >
-   >説明は、サブスクリプションの他のユーザー向けです。このメッセージは顧客には表示されません。
+   >説明は、サブスクリプションの他のユーザー向けです。 このメッセージは顧客には表示されません。
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   これで完了です。キャンペーンフォルダーを作成しました。ツリーで確認しましょう。
+   キャンペーンフォルダーがツリーに表示されます。
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   これで、[新しいプログラムを作成](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)すると、このキャンペーンフォルダーがオプションとして表示されます。
+   新しいプログラムを[作成すると](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)このキャンペーンフォルダーがオプションとして表示されるようになりました。
 
 >[!MORELIKETHIS]
 >

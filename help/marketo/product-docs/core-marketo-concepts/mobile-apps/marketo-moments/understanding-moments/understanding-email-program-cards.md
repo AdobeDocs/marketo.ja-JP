@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8781911
-description: Marketo Moments のメールプログラムカードについて説明します。 メールプログラムのステータスを表示し、モバイルアプリからアクションを実行します。
+description: Marketo Momentsのメールプログラムカードについて詳しく見る。 メールプログラムのステータスを表示し、モバイルアプリからアクションを実行します。
 title: メールプログラムカードについて
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 94%
+source-wordcount: '386'
+ht-degree: 82%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 94%
 
 >[!IMPORTANT]
 >
->2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。[詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。 タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。 Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 ## メールプログラムカード {#email-program-cards}
 
@@ -27,7 +27,7 @@ ht-degree: 94%
 * [メールを完了としてマーク](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [メールモーメントカードを共有](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-まだ送信されていないメールのメールプログラムカードでは、そのメールプログラムのステータスとオーディエンスに関する情報が表示されます。
+まだ送信されていないメールのメールプログラムカードには、そのメールプログラムのステータスとオーディエンスに関する情報が表示されます。
 
 ![](assets/image2015-7-2-9-3a33-3a47.png)
 
@@ -51,7 +51,7 @@ ht-degree: 94%
 
    >[!NOTE]
    >
-   >カードがオレンジ色に変わります。
+   >カードがオレンジ色になります。
 
 ## メールカード送信のキャンセル {#canceling-an-email-card-send}
 
@@ -83,7 +83,7 @@ ht-degree: 94%
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
-   ワイヤレスサービスに加入していれば、どこからでもスケジュールを変更できます。
+   ワイヤレス接続を使用すると、任意の場所からスケジュールを変更できます。
 
 ## サンプルの送信 {#sending-a-sample}
 
@@ -109,7 +109,7 @@ ht-degree: 94%
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   こうすれば、トリガーを引き出す前にメールに問題がないことを確認できます。
+   これにより、送信前に電子メールが正しく表示されているかどうかを確認できます。
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 

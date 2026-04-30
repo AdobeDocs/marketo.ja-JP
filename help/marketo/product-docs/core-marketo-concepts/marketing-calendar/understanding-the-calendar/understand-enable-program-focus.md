@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953364
-description: プログラムフォーカスを使用してマーケティングカレンダーエントリとやり取りする方法について説明します。 エントリを作成、編集、削除、または確認するために、プログラムへのフォーカスを有効にします。
-title: プログラムフォーカスの理解／有効化
+description: プログラムフォーカスを使用してマーケティングカレンダーのエントリを操作する方法について説明します。 プログラムのフォーカスを有効にして、エントリを作成、編集、削除、または確認できます。
+title: プログラムの焦点を理解して有効にする
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 86%
+source-wordcount: '169'
+ht-degree: 61%
 
 ---
 
-# プログラムフォーカスの理解／有効化 {#understand-enable-program-focus}
+# プログラムの焦点を理解して有効にする {#understand-enable-program-focus}
 
-マーケティングカレンダーでは、様々な操作を簡単に確認できますが、操作も可能です。エントリを[作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}、[編集](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}、[削除](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}および[確認](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}できます。エントリを操作するには、まずプログラムにフォーカスする必要があります。
+マーケティングカレンダーでは、様々な操作を簡単に確認できますが、操作も可能です。 エントリを[作成](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}、[編集](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}、[削除](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}および[確認](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}できます。 エントリを操作するには、まずプログラムにフォーカスする必要があります。
 
 1. **マーケティングカレンダー**&#x200B;に移動します。
 
@@ -23,7 +23,7 @@ ht-degree: 86%
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
-1. 「プレスリリース」という名前のプログラムにフォーカスしていることに注意してください。
+1. 現在は「プレスリリース」に重点を置いています。
 
    ![](assets/image2014-10-20-13-3a24-3a15.png)
 
@@ -31,11 +31,11 @@ ht-degree: 86%
    >
    >プログラムをフォーカスすると、そのプログラムに属するエントリのみを操作でき、プログラムに格納される新しいエントリを作成できます。
 
-1. 作業が完了したら、他のプログラム／エントリを操作するために、フォーカスを解除します。
+1. 完了したら、フォーカスをリリースして、他のプログラムやエントリと対話します。
 
    ![](assets/image2014-10-20-13-3a24-3a24.png)
 
-これで完了です。次に、エントリの操作について説明します。
+エントリの操作方法については、以下のリンクを使用してください。
 
 >[!MORELIKETHIS]
 >

@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147255
-description: ユーザーのマーケティングカレンダーライセンスを発行または取り消す方法について説明します。 カレンダーアクセスを許可または削除します。
-title: マーケティングカレンダーのライセンスの発行／取消
+description: ユーザーのマーケティングカレンダーライセンスを発行または取り消す方法について説明します。 カレンダーへのアクセス権を付与または削除します。
+title: マーケティングカレンダーライセンスの発行または失効
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 84%
+source-wordcount: '108'
+ht-degree: 63%
 
 ---
 
-# マーケティングカレンダーのライセンスの発行／取消 {#issue-revoke-a-marketing-calendar-license}
+# マーケティングカレンダーライセンスの発行または失効 {#issue-revoke-a-marketing-calendar-license}
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-[マーケティングカレンダー](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}を操作するには、アクセスする必要があるユーザーにライセンスを発行します。手順は次のとおりです。
+[マーケティングカレンダー](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}を操作するには、アクセスする必要があるユーザーにライセンスを発行します。
 
 1. 「**[!UICONTROL 管理者]**」セクションに移動します。
 
    ![](assets/adminhand.png)
 
-1. 「**[!UICONTROL ユーザ＆ロール]**」をクリックします。
+1. 「**[!UICONTROL ユーザー＆ロール]**」をクリックします。
 
    ![](assets/2.png)
 
@@ -39,10 +39,10 @@ ht-degree: 84%
 
    >[!NOTE]
    >
-   >ライセンス数は 5 個までです。さらなるライセンスが必要な場合は、自社のセールス担当者にご連絡ください。
+   >ライセンス数は 5 個までです。 さらに必要な場合は、自社のセールス担当者にお問い合わせください。
 
    ![](assets/4.png)
 
-   これで完了です。「[!UICONTROL カレンダー]」の下の緑色のチェックマークを確認してください。
+   緑のチェックマークが&#39;[!UICONTROL  カレンダー]&#39;の下に表示されるようになりました。
 
    ![](assets/5.png)

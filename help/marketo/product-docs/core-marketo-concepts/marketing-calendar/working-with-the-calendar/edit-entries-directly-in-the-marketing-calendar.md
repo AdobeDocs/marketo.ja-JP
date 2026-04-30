@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2953352
-description: マーケティングカレンダーでエントリを直接編集する方法を説明します。 プログラムフォーカスを使用して、エントリの詳細を再スケジュール、名前変更、または変更します。
+description: マーケティングカレンダーでエントリを直接編集する方法について説明します。 プログラムのフォーカスを使用して、エントリの詳細のスケジュール変更、名前変更または変更を行います。
 title: マーケティングカレンダーでエントリを直接編集
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 87%
+source-wordcount: '184'
+ht-degree: 76%
 
 ---
 
 # マーケティングカレンダーでエントリを直接編集 {#edit-entries-directly-in-the-marketing-calendar}
 
-プログラムフォーカスモードにしたら、素早くカレンダーエントリを変更できます。手順は以下のとおりです。
+プログラムフォーカスモードにしたら、素早くカレンダーエントリを変更できます。
 
 ## プログラムフォーカスの有効 {#enable-program-focus}
 
-1. **[!UICONTROL カレンダー]** タイルをクリックします。
+1. 「**[!UICONTROL カレンダー]**」タイルをクリックします。
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
@@ -27,7 +27,7 @@ ht-degree: 87%
 
 ## エントリの再スケジュール {#reschedule-entry}
 
-1. エントリをドラッグ＆ドロップして再スケジュールします。
+1. エントリをドラッグ&amp;ドロップしてスケジュールを変更します。
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
@@ -63,7 +63,7 @@ ht-degree: 87%
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-これで完了です。ご覧のように、マーケティングカレンダーから直接できることはたくさんあります。
+マーケティングカレンダーから直接、多くのことを行うことができます。
 
 >[!MORELIKETHIS]
 >
