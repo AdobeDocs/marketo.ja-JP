@@ -25,7 +25,7 @@ ht-degree: 61%
 
 >[!CAUTION]
 >
->ワークスペースと人物パーティションは複雑になる場合があります。 設定のヘルプについては、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。
+>ワークスペースと人物パーティションは複雑になる場合があります。 設定のヘルプについては、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -47,7 +47,7 @@ ht-degree: 61%
    >
    >* 「[!UICONTROL すべての人物パーティション]」チェックボックスは、このワークスペースがシステム内のすべての人物パーティションにアクセスできることを示します。
    >
-   >* プライマリのユーザーのパーティションは、すべてのユーザーが入力されるデフォルトのパーティションです。 [ フローステップ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"}を使用して、パーティション間でユーザーを移動します。
+   >* プライマリのユーザーのパーティションは、すべてのユーザーが入力されるデフォルトのパーティションです。 [&#x200B; フローステップ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"}を使用して、パーティション間でユーザーを移動します。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 

@@ -24,11 +24,11 @@ ht-degree: 76%
 
 >[!NOTE]
 >
->詳しくは、[ ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を参照してください。
+>詳しくは、[&#x200B; ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を参照してください。
 
 >[!TIP]
 >
->Workspaceのベストプラクティスについて詳しくは、[Marketo プロフェッショナルサービス ](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
+>Workspaceのベストプラクティスについて詳しくは、[Marketo プロフェッショナルサービス &#x200B;](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -42,7 +42,7 @@ ht-degree: 76%
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. **[!UICONTROL 名前]**&#x200B;を入力し、使用する&#x200B;**[!UICONTROL 人物パーティション]**&#x200B;を選択します。 **[!UICONTROL プライマリの人物パーティション]**&#x200B;を選択します。 [人のパーティション ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}がまだ作成されていない場合は、作成されていることを確認します。
+1. **[!UICONTROL 名前]**&#x200B;を入力し、使用する&#x200B;**[!UICONTROL 人物パーティション]**&#x200B;を選択します。 **[!UICONTROL プライマリの人物パーティション]**&#x200B;を選択します。 [人のパーティション &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}がまだ作成されていない場合は、作成されていることを確認します。
 
    ![](assets/create-a-new-workspace-4.png)
 

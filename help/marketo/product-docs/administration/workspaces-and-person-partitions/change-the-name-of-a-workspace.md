@@ -25,7 +25,7 @@ ht-degree: 79%
 
 >[!NOTE]
 >
->詳しくは、[ ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を参照してください。
+>詳しくは、[&#x200B; ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を参照してください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
