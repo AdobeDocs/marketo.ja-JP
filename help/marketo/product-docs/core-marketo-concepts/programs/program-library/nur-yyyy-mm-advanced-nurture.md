@@ -14,7 +14,7 @@ ht-degree: 16%
 
 ここでは、Marketo Engageエンゲージメントプログラムを活用した高度なナーチャリングプログラムの例を紹介します。 ネストされたメールプログラムは、利用者が既に利用したコンテンツを受信することを防ぎ、各ストリームで利用するコンテンツの種類を制御します。 アトリビューションレポートは、ネストされた各メールプログラムに対して実行できます。 チャネル：「ナーチャリング」と、ネストされたメールプログラム専用の「ナーチャリングメール」チャネルは、Marketo Engage メールプログラムを使用して1つのニュースレターメールを送信します。 メールには、A/B テストを含めることも、含めないこともできます。
 
-詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
+詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
 
 ## チャネルサマリ {#channel-summary}
 

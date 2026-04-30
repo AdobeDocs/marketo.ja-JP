@@ -14,7 +14,7 @@ ht-degree: 20%
 
 これは、Marketo Engageのエンゲージメントプログラムを活用したシンプルなナーチャリングプログラムの例です。時系列でドリップされるコンテンツにより、ストリームを活用して行動にもとづいてジャーニーを通じてレコードを導きながら、データベースにドリップします。
 
-詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
+詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
 
 ## チャネルサマリ {#channel-summary}
 

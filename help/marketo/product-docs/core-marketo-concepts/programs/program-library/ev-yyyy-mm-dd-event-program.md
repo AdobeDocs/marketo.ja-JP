@@ -14,7 +14,7 @@ ht-degree: 22%
 
 これは、登録ページ、3通の招待状、Marketo Engageイベントプログラムを活用したフォローアップメールを含むイベントプログラムの例です。 ロードショー、ランチ、ディナー、展示会でのプレゼンテーションなど、登録が必要なすべてのイベントに適しています。
 
-詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
+詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
 
 ## チャネルサマリ {#channel-summary}
 
