@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360327
-description: CRM の担当者を適切な担当者パーティションにルーティングする割り当てルールの設定方法。
+description: CRMから適切なユーザーのパーティションにユーザーをルーティングするための割り当てルールの設定方法。
 title: 割り当てルールを使用した人物パーティションの割り当て
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 90%
+source-wordcount: '170'
+ht-degree: 84%
 
 ---
 
@@ -63,7 +63,7 @@ ht-degree: 90%
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
-これで手順は完了です。人物パーティションを人物で満たすためのルールを割り当てました。
+ユーザーのパーティションの割り当てルールが設定されました。
 
 >[!NOTE]
 >

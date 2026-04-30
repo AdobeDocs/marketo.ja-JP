@@ -1,24 +1,22 @@
 ---
 unique-page-id: 2360311
-description: 新しいワークスペースを作成する手順（名前の指定、ユーザーのパーティションの選択、プライマリブランドドメインの選択、ワークスペースの言語の設定など）。
+description: 新しいワークスペースを作成する手順（名前、人物パーティションの選択、プライマリブランドドメインの選択、ワークスペース言語の設定など）。
 title: 新しいワークスペースの作成
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 90%
+source-wordcount: '227'
+ht-degree: 76%
 
 ---
 
 # 新しいワークスペースの作成 {#create-a-new-workspace}
 
-ワークスペースは、会社をさらに細分するのに役立ちます。ワークスペースを設定する理由は以下のとおりです。
+ワークスペースは、会社をさらに細分するのに役立ちます。 ワークスペースを設定する理由は以下のとおりです。
 
 * 地域：ヨーロッパのマーケティング活動と北米のマーケティング活動の比較
 * ビジネスユニット A とビジネスユニット B の比較
-
-新しいワークスペースの作成方法を以下に示します。
 
 >[!NOTE]
 >
@@ -26,11 +24,11 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->まず、[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を確認してください。
+>詳しくは、[ ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を参照してください。
 
 >[!TIP]
 >
->ワークスペースのベストプラクティスの詳細については、[Marketo プロフェッショナルサービス](https://business.adobe.com/jp/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
+>Workspaceのベストプラクティスについて詳しくは、[Marketo プロフェッショナルサービス ](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -44,7 +42,7 @@ ht-degree: 90%
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. **[!UICONTROL 名前]**&#x200B;を入力し、使用する&#x200B;**[!UICONTROL 人物パーティション]**&#x200B;を選択します。**[!UICONTROL プライマリの人物パーティション]**&#x200B;を選択します。まだ作成していない場合は、[人物パーティションを作成](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}してください。
+1. **[!UICONTROL 名前]**&#x200B;を入力し、使用する&#x200B;**[!UICONTROL 人物パーティション]**&#x200B;を選択します。 **[!UICONTROL プライマリの人物パーティション]**&#x200B;を選択します。 [人のパーティション ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}がまだ作成されていない場合は、作成されていることを確認します。
 
    ![](assets/create-a-new-workspace-4.png)
 
@@ -64,7 +62,7 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >作成時に、Marketo はワークスペースにサンプルアセットをシードします。言語を使用すると、シードされたオブジェクトが英語以外の言語で使用できます。
+   >作成時に、Marketo はワークスペースにサンプルアセットをシードします。 言語を使用すると、シードされたオブジェクトが英語以外の言語で使用できます。
 
 1. 「**[!UICONTROL 作成]**」をクリックします。
 

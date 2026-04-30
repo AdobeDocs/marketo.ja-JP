@@ -3,10 +3,10 @@ description: Adobe Admin Consoleで製品管理者を追加または削除する
 title: 製品管理者の追加または削除
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 91%
+source-wordcount: '294'
+ht-degree: 81%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->**システム**&#x200B;管理者は、アドビ組織レベルでのみ作成されます。複数が必要な場合は、[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support)にお問い合わせください。
+>**システム**&#x200B;管理者は、アドビ組織レベルでのみ作成されます。 複数が必要な場合は、[Adobe サポート ](https://experienceleague.adobe.com/en/support)にお問い合わせください。
 
 ## 製品管理者の追加 {#add-a-product-admin}
 
@@ -42,7 +42,7 @@ ht-degree: 91%
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. 追加する管理者のメールアドレスまたはユーザー名を入力します。姓と名はオプションです。「**[!UICONTROL 保存]**」をクリックします。
+1. 追加する管理者のメールアドレスまたはユーザー名を入力します。 姓と名はオプションです。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -54,7 +54,7 @@ ht-degree: 91%
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. 「**+**」記号をクリックします。目的の Marketo Engage サブスクリプション（複数ある場合）の横にある山形記号をクリックし、目的の製品プロファイルを選択します。
+1. 「**+**」記号をクリックします。 目的の Marketo Engage サブスクリプション（複数ある場合）の横にある山形記号をクリックし、目的の製品プロファイルを選択します。
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
@@ -62,7 +62,7 @@ ht-degree: 91%
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
-その後、ユーザーはメールを 2 通受信します。最初のメールは、Marketo Engage に製品管理者権限が付与されたことを通知するものです。2 通目のメールは、Marketo Engage にログインするように促すものです。
+その後、ユーザーはメールを 2 通受信します。 最初のメールでは、Marketo Engageに対する製品管理者権限が付与されたことを伝えます。 2 通目のメールは、Marketo Engage にログインするように促すものです。
 
 >[!NOTE]
 >

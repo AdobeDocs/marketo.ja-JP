@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360317
-description: ワークスペースに割り当てるユーザーパーティションを編集する方法を説明します。
+description: ワークスペースに割り当てられているユーザーのパーティションを編集する方法を説明します。
 title: ワークスペースへの人物パーティションの割り当て
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 91%
+source-wordcount: '142'
+ht-degree: 61%
 
 ---
 
 # ワークスペースへの人物パーティションの割り当て {#assign-person-partitions-to-workspaces}
 
-人物パーティション／ワークスペースの割り当てを編集する方法は以下のとおりです。
+次の手順に従って、個人パーティションとワークスペースの割り当てを編集します。
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 91%
 
 >[!CAUTION]
 >
->ワークスペースと人物パーティションは複雑になる場合があります。[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。セットアップをサポートいたします。
+>ワークスペースと人物パーティションは複雑になる場合があります。 設定のヘルプについては、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -47,7 +47,7 @@ ht-degree: 91%
    >
    >* 「[!UICONTROL すべての人物パーティション]」チェックボックスは、このワークスペースがシステム内のすべての人物パーティションにアクセスできることを示します。
    >
-   >* プライマリ人物パーティションは、すべての人がエントリされるデフォルトです。人物を移動するには、[フローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"}を使用します。
+   >* プライマリのユーザーのパーティションは、すべてのユーザーが入力されるデフォルトのパーティションです。 [ フローステップ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"}を使用して、パーティション間でユーザーを移動します。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
@@ -56,8 +56,6 @@ ht-degree: 91%
 保存後、変更が表示されます。
 
 ![](assets/assign-person-partitions-to-workspaces-6.png)
-
-ワークスペースが正常に編集されました。
 
 >[!MORELIKETHIS]
 >

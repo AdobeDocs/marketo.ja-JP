@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360325
-description: 1 つ以上のワークスペースに対するアクセス権をユーザーに付与する手順。
+description: ユーザーに1つ以上のワークスペースへのアクセス権を付与する手順。
 title: ワークスペースへのユーザーアクセス権の設定
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 81%
+source-wordcount: '108'
+ht-degree: 79%
 
 ---
 
 # ワークスペースへのユーザーアクセス権の設定 {#allow-user-access-to-a-workspace}
 
-ワークスペースは、任意の理由（ビジネスユニットや地域の分離など）で使用できます。各チームのアセット（スマートリスト、プログラムなど）を分けます。 以下の手順を実行すると、1 つまたは複数のワークスペースに対するユーザーのアクセス権を設定することができます。
+ワークスペースは、任意の理由（ビジネスユニットや地域の分離など）で使用できます。 アセット（スマートリスト、プログラムなど）を分離し お話します。
 
 >[!NOTE]
 >

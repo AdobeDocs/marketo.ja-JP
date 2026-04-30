@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360323
-description: ユーザーのパーティション名とワークスペースの割り当てを編集する手順。
+description: 個人パーティション名とワークスペースの割り当てを編集する手順。
 title: 既存の人物パーティションを編集する
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 90%
+source-wordcount: '96'
+ht-degree: 82%
 
 ---
 
 # 既存の人物パーティションを編集する {#edit-an-existing-person-partition}
 
-人物パーティションは、2 つ目（あるいは 3 つ目）のデータベースを持つようなものです。パーティションは 1 つまたは複数のワークスペースに割り当てることができます。パーティションの詳細は以下の手順で編集します。
+人物パーティションは、2 つ目（あるいは 3 つ目）のデータベースを持つようなものです。 パーティションは 1 つまたは複数のワークスペースに割り当てることができます。
 
 >[!NOTE]
 >

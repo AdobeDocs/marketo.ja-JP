@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359912
-description: ユーザーと役割のリストをエクスポートする方法を説明します。
+description: ユーザーと役割のリストを書き出す方法について説明します。
 title: ユーザーとロールのリストのエクスポート
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 88%
+source-wordcount: '75'
+ht-degree: 61%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 88%
 >
 >**管理者権限が必要**
 
-ユーザーとユーザーロールの完全なリストをエクスポートするのは非常に簡単です。手順は以下のとおりです。
+ユーザーとユーザーの役割の完全なリストを書き出すには、次の手順に従います。
 
 1. 「**[!UICONTROL 管理者]**」に移動します。
 
@@ -39,6 +39,6 @@ ht-degree: 88%
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 
-   以上です。新しい Excel ファイルをダウンロードする必要があります。
+   Excel ファイルのダウンロードが開始されます。
 
    ![](assets/export-a-list-of-users-and-roles-5.png)

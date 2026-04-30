@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360315
-description: 新しいユーザーパーティションを作成し、名前を付けて、ワークスペースに割り当てる手順。
+description: 新しい人物パーティションを作成し、名前を付けて、ワークスペースに割り当てる手順。
 title: 人物パーティションの作成
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 82%
+source-wordcount: '83'
+ht-degree: 72%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 82%
 
 >[!NOTE]
 >
->まず、[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を確認してください。
+>詳しくは、[ ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を参照してください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

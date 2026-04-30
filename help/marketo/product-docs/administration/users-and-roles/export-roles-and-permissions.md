@@ -1,22 +1,22 @@
 ---
-description: すべての役割とその権限をエクスポートする方法を説明します。
+description: すべての役割とその権限を書き出す方法について説明します。
 title: ロールと権限のエクスポート
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 89%
+source-wordcount: '89'
+ht-degree: 65%
 
 ---
 
 # ロールと権限のエクスポート {#export-roles-and-permissions}
 
-すべてのロールとその権限をエクスポートする方法を説明します。
+次の手順では、すべての役割とその権限を書き出す方法について説明します。
 
 >[!NOTE]
 >
->管理者権限が必要
+>**管理者権限が必要**
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -36,7 +36,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->ブラウザーが Marketo からのポップアップをブロックしていないことを確認します。
+>ブラウザーがMarketoからのポップアップをブロックしていないことを確認します。
 
 データは CSV 形式でエクスポートされ、ロール、権限、グループごとに有効にされた権限の数が含まれます。
 

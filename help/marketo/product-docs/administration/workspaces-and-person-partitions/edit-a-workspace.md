@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11380986
-description: ワークスペースのリードパーティション、プライマリユーザーのパーティション、およびプライマリブランドドメインを変更する方法を説明します。
+description: ワークスペースのリードパーティション、プライマリパーソナルパーティション、プライマリブランディングドメインを変更する方法について説明します。
 title: ワークスペースを編集する
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 90%
+ht-degree: 79%
 
 ---
 
 # ワークスペースを編集する {#edit-a-workspace}
 
-ときには、ワークスペースで変更が必要になる場合があります。方法は簡単です。
+ときには、ワークスペースで変更が必要になる場合があります。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->[ワークスペースと人物パーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を参照して、ワークスペースの知識を磨いてください。
+>ワークスペースについて詳しくは、[ ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を参照してください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -51,7 +51,7 @@ ht-degree: 90%
    >
    >**[!UICONTROL プライマリ人物パーティション]**&#x200B;がデフォルトとして機能し、すべての人物が割り当てられます。
 
-   複数のブランドドメインを有効にした場合、別のプライマリブランドドメインに切り替えることができます。「**[!UICONTROL 保存]**」をクリックします。
+   複数のブランドドメインを有効にした場合、別のプライマリブランドドメインに切り替えることができます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/edit-a-workspace-5.png)
 
