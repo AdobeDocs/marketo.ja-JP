@@ -36,7 +36,7 @@ ht-degree: 71%
 
 ## ゴールの追加 {#add-a-goal}
 
-プレゼンテーションが最も効果的なのは、チームの目標を表示する場合です。 異なる[ カスタム目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}または[ スマートリスト目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}をドラッグします。 最大 10 個まで使用できます。
+プレゼンテーションが最も効果的なのは、チームの目標を表示する場合です。 異なる[&#x200B; カスタム目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}または[&#x200B; スマートリスト目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}をドラッグします。 最大 10 個まで使用できます。
 
 1. 右側のツリーから、プレゼンテーションで表示する各ゴールをドラッグします。
 

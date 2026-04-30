@@ -17,7 +17,7 @@ ht-degree: 61%
 
 >[!PREREQUISITES]
 >
->[ マーケティングカレンダーライセンス ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}を持っていることを確認してください。そうしないと、マーケティングカレンダータイルがMy Marketoに表示されません。
+>[&#x200B; マーケティングカレンダーライセンス &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}を持っていることを確認してください。そうしないと、マーケティングカレンダータイルがMy Marketoに表示されません。
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ ht-degree: 61%
 
 アジェンダビューには、すべてのエントリがリストとして表示されます。
 
-1. 「****&#x200B;フィルター」ドロップダウンをクリックします。
+1. 「**&#x200B;**&#x200B;フィルター」ドロップダウンをクリックします。
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 

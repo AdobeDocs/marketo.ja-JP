@@ -33,7 +33,7 @@ ht-degree: 40%
 
    >[!TIP]
    >
-   >標準エントリタイプの詳細については、[ プログラムスケジュール表示エントリタイプ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}を参照してください。
+   >標準エントリタイプの詳細については、[&#x200B; プログラムスケジュール表示エントリタイプ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}を参照してください。
 
 1. 関心のあるプログラムタグを選択します。
 

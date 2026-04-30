@@ -21,7 +21,7 @@ ht-degree: 84%
 
 ## 新しい Marketo の役割の作成 {#create-a-new-marketo-role}
 
-Marketo には、イベントチェックインアプリ用の特別なユーザーの役割があります。 [ モバイルアプリケーションにアクセスする権限を持つ[!DNL iPad]または[!DNL Android] ユーザー向けに、新しいMarketo ロール ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)を作成します。
+Marketo には、イベントチェックインアプリ用の特別なユーザーの役割があります。 [&#x200B; モバイルアプリケーションにアクセスする権限を持つ[!DNL iPad]または[!DNL Android] ユーザー向けに、新しいMarketo ロール &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md)を作成します。
 
 ## 新しいタブレットユーザーのイベントへの招待 {#invite-new-tablet-users-to-the-event}
 

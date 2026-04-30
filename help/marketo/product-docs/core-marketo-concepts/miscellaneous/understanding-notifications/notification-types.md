@@ -60,4 +60,4 @@ CRM 同期通知は、誤った権限や同期の停止など、CRM 同期で検
 
 >[!NOTE]
 >
->受け取る可能性のあるエラーコードの一部は、[開発者ドキュメント ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/error-codes)に記載されています。
+>受け取る可能性のあるエラーコードの一部は、[開発者ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/error-codes)に記載されています。

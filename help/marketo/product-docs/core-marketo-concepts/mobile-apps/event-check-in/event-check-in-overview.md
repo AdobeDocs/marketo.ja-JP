@@ -26,7 +26,7 @@ ht-degree: 70%
 
 イベント前：
 
-* [ イベントの[!DNL iPad]または[!DNL Android]人のユーザーに対して新しいMarketo ロール ](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}を作成します
+* [&#x200B; イベントの[!DNL iPad]または[!DNL Android]人のユーザーに対して新しいMarketo ロール &#x200B;](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}を作成します
 * [新しいタブレットユーザーをイベントに招待](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md){target="_blank"}し、新しい役割を割り当てる
 * [新しいMarketo イベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 * イベントの日付を指定する
