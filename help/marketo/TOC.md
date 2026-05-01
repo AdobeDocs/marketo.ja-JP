@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
+source-git-commit: fbb3747227eca8f47eae43c8fbf02ef2ee702978
 workflow-type: tm+mt
-source-wordcount: '9236'
+source-wordcount: '9238'
 ht-degree: 99%
 
 ---
@@ -30,6 +30,7 @@ ht-degree: 99%
       + [新しいインスタンスのベストプラクティス：設定のドキュメント化](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + 留意事項 {#things-to-know}
       + [Marketo Engage用語](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [新用語集](getting-started/things-to-know/new-glossary.md)
       + [アイコン用語集](getting-started/things-to-know/icon-glossary.md)
       + [クラシックアイコン用語集](getting-started/things-to-know/classic-icon-glossary.md)
       + [ヘルプセンター](getting-started/things-to-know/help-center.md)
@@ -200,7 +201,7 @@ ht-degree: 99%
          + [API 専用ユーザーロールの作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [API 専用ユーザーの作成](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [ユーザーのロールの作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [&#x200B; ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
+         + [ ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [ユーザーとロールのリストのエクスポート](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [ユーザーのロールと権限の管理](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [ロールと権限のエクスポート](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
