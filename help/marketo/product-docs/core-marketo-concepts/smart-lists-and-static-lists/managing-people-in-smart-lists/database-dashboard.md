@@ -31,7 +31,7 @@ ht-degree: 82%
 
 >[!TIP]
 >
->詳細な情報やタイムリーな情報については、[人物パフォーマンスレポート ](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}をお試しください。
+>詳細な情報やタイムリーな情報については、[人物パフォーマンスレポート &#x200B;](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}をお試しください。
 
 **人物の合計：**&#x200B;リストされているワークスペースの常時の人物の数。
 

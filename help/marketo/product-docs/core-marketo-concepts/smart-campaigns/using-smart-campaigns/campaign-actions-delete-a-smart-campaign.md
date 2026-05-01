@@ -29,7 +29,7 @@ ht-degree: 26%
 
    >[!TIP]
    >
-   >アクティブなスマートキャンペーンを完全に削除せずに処理をキャンセルするには、[ スマートキャンペーンを中止する方法](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)を説明します。
+   >アクティブなスマートキャンペーンを完全に削除せずに処理をキャンセルするには、[&#x200B; スマートキャンペーンを中止する方法](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md)を説明します。
 
 1. 「**[!UICONTROL 削除]**」をクリックして確定します。
 

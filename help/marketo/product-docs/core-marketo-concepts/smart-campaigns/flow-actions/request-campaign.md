@@ -17,7 +17,7 @@ ht-degree: 61%
 
 >[!NOTE]
 >
->人物を配置するキャンペーンはアクティブで、[ キャンペーンがリクエスト済み](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"}のトリガーを持っている必要があります。
+>人物を配置するキャンペーンはアクティブで、[&#x200B; キャンペーンがリクエスト済み](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"}のトリガーを持っている必要があります。
 
 1. **[!UICONTROL データベース]**&#x200B;で、目的の人物を検索して選択します。
 

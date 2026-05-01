@@ -15,7 +15,7 @@ ht-degree: 93%
 
 トークンは、メール、ランディングページ、スマートキャンペーンで使用する変数で、これにより作業が手軽になります。
 
-マイトークンに加えて、プログラムにビルトインされた任意のトークンを使用することもできます。 [ トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}を参照してください。
+マイトークンに加えて、プログラムにビルトインされた任意のトークンを使用することもできます。 [&#x200B; トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}を参照してください。
 
 ## マイトークン  {#my-tokens}
 
@@ -89,7 +89,7 @@ ht-degree: 93%
 
 >[!IMPORTANT]
 >
->ネストされたトークンは、[ バッチキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}ではサポートされていません。
+>ネストされたトークンは、[&#x200B; バッチキャンペーン &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}ではサポートされていません。
 
 >[!NOTE]
 >

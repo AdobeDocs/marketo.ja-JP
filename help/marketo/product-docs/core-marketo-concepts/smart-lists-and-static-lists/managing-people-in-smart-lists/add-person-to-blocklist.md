@@ -15,7 +15,7 @@ ht-degree: 39%
 
 リードをブロックリストに追加すると、コンテンツを気に入ってくれた有望な人だけにコンテンツを読んでもらえるようになります。
 
-1. 新しい[ デフォルトプログラム ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"}を作成し、「Add to ブロックリスト」という名前を付けます。
+1. 新しい[&#x200B; デフォルトプログラム &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"}を作成し、「Add to ブロックリスト」という名前を付けます。
 
 1. 「**[!UICONTROL 新規作成]**」をクリックして、「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 
@@ -81,4 +81,4 @@ ht-degree: 39%
 
 >[!TIP]
 >
->**Change Data Value**&#x200B;を使用して[トリガーキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}を作成し、**Block Listed is true**&#x200B;を指定して、個のセグメントを作成できます。これは、将来作成できる属性を持つすべてのユーザーに対して適用されます。
+>**Change Data Value**&#x200B;を使用して[トリガーキャンペーン &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}を作成し、**Block Listed is true**&#x200B;を指定して、個のセグメントを作成できます。これは、将来作成できる属性を持つすべてのユーザーに対して適用されます。

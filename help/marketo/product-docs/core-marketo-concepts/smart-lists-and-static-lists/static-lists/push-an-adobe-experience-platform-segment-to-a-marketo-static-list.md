@@ -16,7 +16,7 @@ ht-degree: 69%
 
 >[!PREREQUISITES]
 >
->* [API ロール ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"}を編集して、**読み取り/書き込みユーザー**&#x200B;権限があることを確認します（「アクセス API」ドロップダウンにあります）。
+>* [API ロール &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"}を編集して、**読み取り/書き込みユーザー**&#x200B;権限があることを確認します（「アクセス API」ドロップダウンにあります）。
 >* Marketo で [API ユーザを作成](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}します。
 >* **[!UICONTROL 管理者]**／**[!UICONTROL Launchpoint]** に移動します。 作成した役割の名前を検索し、**[!UICONTROL 詳細を表示]**&#x200B;をクリックします。 手順 7 で必要になるため、**[!UICONTROL クライアント ID]** と&#x200B;**[!UICONTROL クライアントシークレット]**&#x200B;の情報をコピーして保存します。
 >* Marketoで、静的リストを作成するか、作成済みのリストを探して選択します。 IDが必要になります。
@@ -79,7 +79,7 @@ ht-degree: 69%
 
    >[!NOTE]
    >
-   >複数のセグメントを選択する場合は、各セグメントを「[!UICONTROL  セグメントスケジュール ]」タブの指定された静的リストにマッピングする必要があります。
+   >複数のセグメントを選択する場合は、各セグメントを「[!UICONTROL &#x200B; セグメントスケジュール &#x200B;]」タブの指定された静的リストにマッピングする必要があります。
 
    >[!IMPORTANT]
    >

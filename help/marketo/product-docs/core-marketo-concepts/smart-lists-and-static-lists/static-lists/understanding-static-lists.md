@@ -32,7 +32,7 @@ ht-degree: 57%
 
 ## リストにユーザーを追加または削除する方法 {#ways-to-add-remove-people-from-a-list}
 
-1. スマートキャンペーンのフローステップ （[ リストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}、[ リストから削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"}）
+1. スマートキャンペーンのフローステップ （[&#x200B; リストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}、[&#x200B; リストから削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"}）
 
 1. [単一のアクションフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. ツリー内のリストにユーザーをドラッグする
