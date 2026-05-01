@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
+source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9236'
 ht-degree: 99%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 99%
       + [システムステータス通知の購読](getting-started/things-to-know/system-status-notifications.md)
       + [製品知識のためのAI アシスタント](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [Marketing nation Community](getting-started/things-to-know/community.md)
+      + [AWSへの移行](getting-started/things-to-know/aws-migration.md)
    + クイックウィン {#quick-wins}
       + [セットアップと人物の追加](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [メールの送信](getting-started/quick-wins/send-an-email.md)
@@ -121,7 +122,7 @@ ht-degree: 99%
          + [スマートキャンペーンのリード制限の有効化](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [キャンペーンレベルでのメールの開封トラッキング](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [メールボットアクティビティのフィルタリング](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [登録解除テキストの削除](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [登録解除テキストの削除](product-docs/administration/email-setup/remove-unsubscribe-text.md)
       + フィールド管理 {#field-management}
          + [信頼できないソースからのリストインポート中に、フィールドの更新をブロック](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [フィールドの更新のブロック](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -199,7 +200,7 @@ ht-degree: 99%
          + [API 専用ユーザーロールの作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [API 専用ユーザーの作成](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [ユーザーのロールの作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [&#x200B; ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
+         + [ ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [ユーザーとロールのリストのエクスポート](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [ユーザーのロールと権限の管理](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [ロールと権限のエクスポート](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -258,11 +259,11 @@ ht-degree: 99%
             + [リストに追加](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md)
             + [フィールドへのデータ追加](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md)
             + [Web フックの呼び出し](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md)
-            + [データ値を変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
+            + [データ値の変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md)
             + [フィールド値のクリア](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md)
             + [リードパーティションの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-person-partition.md)
             + [売上高ステージの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-revenue-stage.md)
-            + [スコアを変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)
+            + [スコアの変更](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-score.md)
             + [人物のコンバージョン](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/convert-person.md)
             + [フローステップの削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-a-flow-step.md)
             + [人物の削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
@@ -1171,7 +1172,7 @@ ht-degree: 99%
             + [Salesforce ID の Sales Connect へのインポート](product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)
             + [アクティビティ履歴への Sales Connect イベントフィールドのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-sales-connect-event-fields-on-activity-history.md)
             + [Professional Edition 顧客向け Salesforce カスタマイズのインストール](product-docs/marketo-sales-connect/crm/salesforce-customization/install-salesforce-customization-for-professional-edition-customers.md)
-            + [&#x200B; セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
+            + [セールスコネクトにプッシュ](product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)
             + [Salesforce のレポートダッシュボード](product-docs/marketo-sales-connect/crm/salesforce-customization/reporting-dashboards-in-salesforce.md)
             + [CRM 用の Sales Connect のカスタマイズ](product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)
             + [Salesforce Classic での一括アクションの使用](product-docs/marketo-sales-connect/crm/salesforce-customization/using-bulk-actions-in-salesforce-classic.md)
@@ -1260,7 +1261,7 @@ ht-degree: 99%
          + [コンテンツと添付ファイルに関する FAQ](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect には iPhone または Android アプリがありますか？](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
          + [サーバーで Sales Connect を許可リストに加える方法を教えてください。](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
-         + [自分のアカウントから締め出されました。どうすればいいですか？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+         + [自分のアカウントから締め出されました。 どうすればいいですか？](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect は Salesforce Lightning と互換性がありますか？](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Sales Connect のサービス利用規約は何ですか？](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
          + [Sales Connect と Highspot の統合とは何ですか？](product-docs/marketo-sales-connect/faq/what-is-the-sales-connect-and-highspot-integration.md)
@@ -1306,22 +1307,13 @@ ht-degree: 99%
          + [Salesforce とのリマインダータスク同期](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Sales Connect タスクと Salesforce の初回同期](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + テンプレート {#templates}
-         + [自動登録解除のテンプレートへの追加](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
+         + [テンプレートの管理](product-docs/marketo-sales-connect/templates/manage-templates.md)
          + [ハイパーリンクテキストの追加](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [テンプレートのアーカイブ保存](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [新規カテゴリの作成](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
-         + [新しいテンプレートの作成](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-         + [テンプレート表示のカスタマイズ](product-docs/marketo-sales-connect/templates/customize-template-view.md)
-         + [テンプレートカテゴリの削除](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
-         + [テンプレートの削除](product-docs/marketo-sales-connect/templates/delete-a-template.md)
-         + [テンプレートカテゴリの編集](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [テンプレートのお気に入りへの登録](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
-         + [カテゴリの結合と重複排除](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [推奨テンプレート](product-docs/marketo-sales-connect/templates/recommended-templates.md)
-         + [共有テンプレート](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [テンプレートエンゲージメント](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [HTML の使用](product-docs/marketo-sales-connect/templates/using-html.md)
          + [テンプレートリストを別のユーザーとして表示](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
+         + [テンプレートカテゴリの管理](product-docs/marketo-sales-connect/templates/manage-template-categories.md)
          + 動的フィールド {#dynamic-fields}
             + [カスタム動的フィールドの作成](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [動的フィールド用語集](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
@@ -1425,7 +1417,7 @@ ht-degree: 99%
             + [Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [セルフビューを防ぐには](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [位置トラッキングの仕組み](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
-            + [自分のアカウントから締め出されました。どうすればいいですか？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
+            + [自分のアカウントから締め出されました。 どうすればいいですか？](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [セールスインサイトアクションと Salesforce Lightning の互換性](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [セールスインサイトアクションはどのブラウザーをサポートしていますか？](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
             + [セールスインサイトアクションのサービス利用規約は何ですか？](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
@@ -1710,7 +1702,7 @@ ht-degree: 99%
          + レポートタイプ {#report-types}
             + [キャンペーンアクティビティレポート](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [キャンペーンメールの効果レポート](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
-            + [&#x200B; 企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
+            + [企業の web アクティビティレポート](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [ステータス別のリードレポート](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [人物のパフォーマンスレポート](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [レポートタイプの概要](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
