@@ -15,7 +15,7 @@ ht-degree: 83%
 
 [!DNL Microsoft Dynamics] に初めて同期するときは、Marketo セールスインサイト（MSI）用の最新バージョンのプラグインをダウンロードしてインストールします。 Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-Marketoのネイティブ CRM同期ソリューションを[!DNL Dynamics]に使用している場合は、[お使いの[!DNL Dynamics] リリースに対応する最新のプラグイン ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"}をダウンロードしてください。 カスタム同期を持ち、Marketo セールスインサイトを購入しているユーザの場合、[パッケージはこちらです](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
+Marketoのネイティブ CRM同期ソリューションを[!DNL Dynamics]に使用している場合は、[お使いの[!DNL Dynamics] リリースに対応する最新のプラグイン &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"}をダウンロードしてください。 カスタム同期を持ち、Marketo セールスインサイトを購入しているユーザの場合、[パッケージはこちらです](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
 
 >[!NOTE]
 >
