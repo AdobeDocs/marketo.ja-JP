@@ -200,7 +200,7 @@ ht-degree: 99%
          + [API 専用ユーザーロールの作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [API 専用ユーザーの作成](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [ユーザーのロールの作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [ ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
+         + [&#x200B; ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [ユーザーとロールのリストのエクスポート](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [ユーザーのロールと権限の管理](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [ロールと権限のエクスポート](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
