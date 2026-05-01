@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359665
-description: エンゲージメントプログラムのストリームケイデンスを設定する方法を説明します。 毎週または毎月のキャストをスケジュールし、オプションで受信者のタイムゾーンを使用します。
+description: エンゲージメントプログラムのストリームケイデンスを設定する方法について説明します。 毎週または毎月のキャストをスケジュールし、必要に応じて受信者タイムゾーンを使用します。
 title: ストリームケイデンスの設定
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '381'
 ht-degree: 94%
 
 ---
 
 # ストリームケイデンスの設定 {#set-stream-cadence}
 
-エンゲージメントコンテンツは、任意の間隔で送信できます（例：週に 1 回、月の第 3 火曜日）。
+エンゲージメントコンテンツは、任意の間隔で送信できます （例：週に 1 回、月の第 3 火曜日）。
 
 ## ケイデンスを設定 {#set-cadence}
 
@@ -25,7 +25,7 @@ ht-degree: 94%
 
    ![](assets/selectstreamcadence.jpg)
 
-1. ケイデンスの繰り返し頻度を選択します。**[!UICONTROL 毎週]**&#x200B;または&#x200B;**[!UICONTROL 毎月]**&#x200B;を選択できます。
+1. ケイデンスの繰り返し頻度を選択します。 **[!UICONTROL 毎週]**&#x200B;または&#x200B;**[!UICONTROL 毎月]**&#x200B;を選択できます。
 
 ## 毎週 {#weekly}
 
@@ -41,11 +41,11 @@ ht-degree: 94%
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. 次に、1 週間ごとにケイデンスを実行するか間隔をそれ以上空けるかを選択します。2 週間ごとを選択しましょう。
+1. 次に、1 週間ごとにケイデンスを実行するか間隔をそれ以上空けるかを選択します。 2 週間ごとを選択しましょう。
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
-1. 曜日を決定します。ここでは、火曜日、水曜日、木曜日にします。
+1. 曜日を決定します。 ここでは、火曜日、水曜日、木曜日にします。
 
    ![](assets/image2017-12-5-14-3a12-3a29.png)
 
@@ -53,7 +53,7 @@ ht-degree: 94%
    >
    >**[!UICONTROL 繰り返し]：[!UICONTROL 毎週]**／**[!UICONTROL 間隔]：1 [!UICONTROL 週間]**／**[!UICONTROL オン]**：すべての日を選択することで、毎日実行するケイデンスを設定できます。
 
-   次に、時間を選択します。[受信者タイムゾーン](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)を使用する場合は（例：ローカルタイムゾーンに従った配信）、チェックをオンにして、「**[!UICONTROL 保存]**」をクリックします。
+   次に、時間を選択します。 [受信者タイムゾーン](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)を使用する場合は（例：ローカルタイムゾーンに従った配信）、チェックをオンにして、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -61,15 +61,13 @@ ht-degree: 94%
    >
    >コンテンツは、最初のキャストで選択した日に送信されるので、選択した曜日と一致するようにしてください。一致しない場合、最初の週に 2 回送信される可能性があります。
 
-1. ケイデンスの上にマウスポインターを置きます。今後のキャストが終了する日数を確認できます。
+1. ケイデンスの上にマウスポインターを置きます。 今後のキャストが終了する日数を確認できます。
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >この例では、木曜日にメールが送信されます。その後、1 週間スキップし、次の週の火曜日、水曜日、木曜日に再度送信します。そしてまたループを繰り返します。
-
-これで完了です。月次ケイデンスを設定する場合は、読み続けてください。
+   >この例では、木曜日にメールが送信されます。 その後、1 週間スキップし、次の週の火曜日、水曜日、木曜日に再度送信します。 そしてまたループを繰り返します。
 
 ## 毎月 {#monthly}
 
@@ -97,7 +95,7 @@ ht-degree: 94%
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. ケイデンスの上にマウスポインターを置きます。今後のキャストが終了する日数を確認できます。
+1. ケイデンスの上にマウスポインターを置きます。 今後のキャストが終了する日数を確認できます。
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 

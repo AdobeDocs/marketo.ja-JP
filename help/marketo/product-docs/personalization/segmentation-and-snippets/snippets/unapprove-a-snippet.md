@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359516
-description: スニペットの承認を取り消して、変更を加えたり削除したりする方法を説明します。 アセットの関連付けを削除してから、スニペットアクションを使用して承認を取り消し、ドラフトステータスに設定します。
+description: スニペットの承認を解除して変更を加えたり、削除したりする方法について説明します。 アセットの関連付けを削除し、スニペットアクションを使用して承認を取り消し、ドラフトステータスに設定します。
 title: スニペットの承認を取り消す
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '97'
 ht-degree: 73%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 73%
 
 未承認のスニペットは、メールやランディングページでは使用できません。
 
-1. **[!UICONTROL デザインスタジオ]**&#x200B;に移動します。
+1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
@@ -29,4 +29,4 @@ ht-degree: 73%
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
-これで完了です。スニペットは、変更や削除をおこなうためのドラフトステータスになっています。
+スニペットは、変更や削除をおこなうためのドラフトステータスになっています。

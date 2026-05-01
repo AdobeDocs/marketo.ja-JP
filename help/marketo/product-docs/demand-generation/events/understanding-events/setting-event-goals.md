@@ -1,13 +1,13 @@
 ---
-description: Marketoのイベントプログラムでイベントの目標を設定する方法を説明します。 成功指標を定義し、イベント目標に対する進捗を追跡します。
+description: Marketoのイベントプログラムでイベント目標を設定する方法について説明します。 成功指標を定義し、イベント目標に対する進捗を追跡できます。
 title: イベント目標の設定
 hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '127'
 ht-degree: 84%
 
 ---
@@ -18,13 +18,13 @@ ht-degree: 84%
 
 >[!IMPORTANT]
 >
->必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。 詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. イベントプログラムを作成します。
 
    ![](assets/setting-event-goals-1.png)
 
-1. [!UICONTROL キャンペーンフォルダー]を選択し、イベントに[!UICONTROL 名前]を付け、[!UICONTROL プログラムタイプ]と[!UICONTROL チャンネル]を選択します。完了したら「**[!UICONTROL 作成]**」をクリックします。
+1. [!UICONTROL キャンペーンフォルダー]を選択し、イベントに[!UICONTROL 名前]を付け、[!UICONTROL プログラムタイプ]と[!UICONTROL チャンネル]を選択します。 終了したら、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/setting-event-goals-2.png)
 
@@ -32,7 +32,7 @@ ht-degree: 84%
 
    ![](assets/setting-event-goals-3.png)
 
-1. 「**[!UICONTROL 目標を設定]**」をクリックして「[!UICONTROL 登録済み]」の目標を入力します。数値を入力し、Enter キーを押します。
+1. 「**[!UICONTROL 目標を設定]**」をクリックして「[!UICONTROL 登録済み]」の目標を入力します。 数値を入力し、Enter キーを押します。
 
    ![](assets/setting-event-goals-4.png)
 
@@ -46,4 +46,4 @@ ht-degree: 84%
 >
 >イベントの開始後は、イベントの目標を設定できません。
 
-これで完了です。イベントの目標ステータスを確認するには、「[!UICONTROL レポート]」タブをクリックします。
+イベントの目標ステータスを確認するには、「[!UICONTROL レポート]」タブをクリックします。

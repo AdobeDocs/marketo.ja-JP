@@ -4,27 +4,27 @@ description: 重複の可能性がある人物のアラートの自動化 - Mark
 title: 重複の可能性がある人物のアラートの自動化
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '168'
 ht-degree: 100%
 
 ---
 
 # 重複の可能性がある人物のアラートの自動化 {#automate-an-alert-for-possible-duplicate-people}
 
-重複の可能性がある人物が作成されるたびにアラートを表示しますか？スマートキャンペーンを設定する方法を以下に示します。
+重複の可能性がある人物が作成されるたびにアラートを表示しますか？ スマートキャンペーンを設定する方法を以下に示します。
 
-1. [新規スマートキャンペーンを作成します](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}。以下のスマートリストを定義します。
+1. [新規スマートキャンペーンを作成します](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}。 以下のスマートリストを定義します。
 
 * トリガー：**[!UICONTROL 人物が作成される]**
-* フィルター：**[!UICONTROL 重複フィールド]**。フィールド名は「**[!UICONTROL 氏名]**」
+* フィルター：**[!UICONTROL 重複フィールド]**。 フィールド名は「**[!UICONTROL 氏名]**」
 
   ![](assets/automate-an-alert-1.png)
 
   >[!TIP]
   >
-  >クリエイティブになりましょう。様々なフィールドを試すことで、フィルタリング結果を向上できます。
+  >クリエイティブになりましょう。 様々なフィールドを試すことで、フィルタリング結果を向上できます。
 
 1. フローステップで、「[[!UICONTROL アラートを送信]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"}」フローアクションを選択します。
 
@@ -44,7 +44,7 @@ ht-degree: 100%
 
    ![](assets/automate-an-alert-3.png)
 
-これで完了です。このスマートキャンペーンは、既存の氏名を持つ新しい人物が Marketo で作成されるたびにトリガーされます。
+このスマートキャンペーンは、既存の氏名を持つ新しい人物が Marketo で作成されるたびにトリガーされます。
 
 >[!MORELIKETHIS]
 >

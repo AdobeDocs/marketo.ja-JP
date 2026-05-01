@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12615804
-description: 重点顧客をフィルターして、データをすばやく絞り込む方法を説明します。 業界、国、従業員、その他の CRM 同期フィールドをフィルターで使用します。
+description: 名前付きアカウントをフィルタリングしてデータをすばやく絞り込む方法について説明します。 業界、国、従業員などのCRM同期フィールドをフィルターで使用できます。
 title: 重点顧客でのフィルタリング
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 84%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 84%
 
    >[!NOTE]
    >
-   >複数の検索パラメーターの組み合わせがあります。この例では、_[!UICONTROL 業界] = 銀行業、[!UICONTROL 国] = 米国、最大[!UICONTROL 従業員数] = 10000_ を見つけます。
+   >複数の検索パラメーターの組み合わせがあります。 この例では、_[!UICONTROL 業界] = 銀行業、[!UICONTROL 国] = 米国、最大[!UICONTROL 従業員数] = 10000_ を見つけます。
 
 1. **[!UICONTROL 業界]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 銀行業]**」を選択します。
 
@@ -39,7 +39,7 @@ ht-degree: 84%
 
    ![](assets/four-2.png)
 
-   これで完了です。フィルターされた結果は、画面の左側に表示されます。
+   フィルターされた結果は、画面の左側に表示されます。
 
    >[!NOTE]
    >

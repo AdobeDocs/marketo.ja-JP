@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719306
-description: Marketo同期でSalesforce フィールドを非表示にしてパフォーマンスを最適化する方法を説明します。 同期ユーザープロファイルでフィールドレベルのセキュリティを使用して、不要なフィールドを除外します。
+description: Marketoの同期からSalesforce フィールドを非表示にして、パフォーマンスを最適化する方法を説明します。 同期ユーザープロファイルでフィールドレベルのセキュリティを使用して、不要なフィールドを除外します。
 title: Marketo 同期に対する Salesforce フィールドの非表示
 exl-id: 5d7229f0-43b0-4232-93ed-a9ca52ace401
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 85%
+source-wordcount: '177'
+ht-degree: 77%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 85%
 >
 >**管理者権限が必要**
 
-Salesforce のすべてのフィールドがマーケティングに役立つわけではありません。必要なフィールドのみを含めることで、同期のパフォーマンスを最適化できます。Marketo でフィールドを非表示にする方法を次に示します。
+Salesforce のすべてのフィールドがマーケティングに役立つわけではありません。 必要なフィールドのみを含めることで、同期のパフォーマンスを最適化できます。 Marketo でフィールドを非表示にする方法を次に示します。
 
 1. 名前メニューをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
@@ -39,7 +39,7 @@ Salesforce のすべてのフィールドがマーケティングに役立つわ
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. 非表示にするフィールドの横にある「**[!UICONTROL 表示]**」のチェックをオフにします。「**[!UICONTROL 保存]**」をクリックします。
+1. 非表示にするフィールドの横にある「**[!UICONTROL 表示]**」のチェックをオフにします。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
@@ -47,7 +47,7 @@ Salesforce のすべてのフィールドがマーケティングに役立つわ
    >
    >[!DNL Salesforce] で非表示にしたフィールドが既に Marketo と同期されている場合は、Marketo でも非表示にする必要があります。
 
-   これで完了です。次の同期が完了すると、Marketo ではこのフィールドは表示されなくなります。
+   次の同期が終了すると、このフィールドはMarketoに表示されなくなります。
 
    >[!MORELIKETHIS]
    >

@@ -1,12 +1,12 @@
 ---
-description: 静的リストを LinkedIn、Facebook またはGoogleに送信する方法を説明します。 リストのアクションと広告ネットワークに送信を使用して、オーディエンスと同期のオプションを選択します。
+description: LinkedIn、Facebook、Googleに静的リストを送信する方法について説明します。 リストのアクションと広告ネットワークへの送信を使用して、オーディエンスと同期のオプションを選択します。
 title: 広告ネットワークへのリストの送信
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 88%
+source-wordcount: '232'
+ht-degree: 81%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 88%
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. [!DNL LinkedIn]、[!DNL Facebook]、Google のいずれかを選択します（現時点では、その他のオプションは使用できません）。この例では、**[!DNL LinkedIn]** を選択しています。「**[!UICONTROL 次へ]**」をクリックします。
+1. [!DNL LinkedIn]、[!DNL Facebook]、Google のいずれかを選択します（現時点では、その他のオプションは使用できません）。 この例では、**[!DNL LinkedIn]** を選択しています。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
@@ -38,9 +38,9 @@ ht-degree: 88%
 
    >[!NOTE]
    >
-   >「[!UICONTROL 継続的なオーディエンスの同期を有効にする]」を選択した場合、Marketo インスタンスでリストが変更されるので、Marketo は選択された広告ネットワークでリストを最新の状態に保ちます。静的リストに追加された人物、または静的リストから削除された人物の&#x200B;**両方**&#x200B;がオーディエンスに追加されます。
+   >「[!UICONTROL 継続的なオーディエンスの同期を有効にする]」を選択した場合、Marketo インスタンスでリストが変更されるので、Marketo は選択された広告ネットワークでリストを最新の状態に保ちます。 静的リストに追加または削除されたユーザーを&#x200B;**および**&#x200B;個オーディエンスから削除します。
 
-1. これで完了です。「**[!UICONTROL OK]**」をクリックして終了します。
+1. 「**[!UICONTROL OK]**」をクリックして終了します。
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

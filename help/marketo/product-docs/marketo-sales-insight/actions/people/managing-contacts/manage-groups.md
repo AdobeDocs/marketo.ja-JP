@@ -1,12 +1,12 @@
 ---
-description: Sales Insight Actions で連絡先のグループを管理する方法を説明します。 メールおよびキャンペーン用のグループを作成、編集、共有、使用します。
+description: Sales Insight Actionsで連絡先のグループを管理する方法を説明します。 メールとキャンペーン用のグループを作成、編集、共有および使用できます。
 title: グループの管理
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 80%
+source-wordcount: '349'
+ht-degree: 75%
 
 ---
 
@@ -32,15 +32,15 @@ ht-degree: 80%
   </tr>
   <tr>
    <td>[!UICONTROL 動的グループ]</td>
-   <td>取引先責任者：所有しているすべての取引先責任者。<br>登録解除：通信の受信をオプトアウトした取引先責任者。</td>
+   <td>自分の連絡先：自分が所有するすべての連絡先。<br>登録解除：通信の受信をオプトアウトした連絡先。</td>
   </tr>
   <tr>
    <td>[!UICONTROL マイグループ]</td>
-   <td>作成したグループ。自分の取引先責任者や、自分と共有されている取引先責任者を含めることができます。</td>
+   <td>作成したグループ。 自分の取引先責任者や、自分と共有されている取引先責任者を含めることができます。</td>
   </tr>
   <tr>
    <td>[!UICONTROL チームグループ]</td>
-   <td>自分と共有されているグループ、または自分が共有しているグループ。チームメイトが所有している取引先責任者や、共有した取引先責任者を含めることができます。</td>
+   <td>自分と共有されているグループ、または自分が共有しているグループ。 チームメイトが所有している取引先責任者や、共有した取引先責任者を含めることができます。</td>
   </tr>
  </tbody>
 </table>
@@ -55,15 +55,13 @@ ht-degree: 80%
 
    ![](assets/manage-groups-2.png)
 
-   これで完了です。
-
 ## グループに取引先責任者を追加 {#add-contacts-to-a-group}
 
-1. _グループ_ で「**すべてのユーザー**」を選択します。
+1. _グループ_&#x200B;で、**すべてのユーザー**&#x200B;を選択します。
 
    ![](assets/manage-groups-3.png)
 
-1. 追加する 1 人または複数のユーザーを検索します。
+1. 追加するユーザーを検索します。
 
    ![](assets/manage-groups-4.png)
 
@@ -71,11 +69,11 @@ ht-degree: 80%
 
    ![](assets/manage-groups-5.png)
 
-1. その他のアクションアイコン（![](assets/icon-more-actions.png)）をクリックし、「**グループにユーザーを追加**」を選択します。
+1. その他のアクションアイコン（![](assets/icon-more-actions.png)）をクリックし、**グループにユーザーを追加**&#x200B;を選択します。
 
    ![](assets/manage-groups-6.png)
 
-1. 追加先のグループを選択して、「**追加**」をクリックします。
+1. 追加するグループを選択し、**追加**&#x200B;をクリックします。
 
    ![](assets/manage-groups-7.png)
 

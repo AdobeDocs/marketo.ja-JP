@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359930
-description: 履歴を保持するためにストリームコンテンツをアーカイブまたはアーカイブ解除する方法を説明します。
+description: ストリームコンテンツをアーカイブまたはアーカイブ解除して履歴を保持する方法を説明します。
 title: ストリームコンテンツのアーカイブとアーカイブ解除
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 92%
+source-wordcount: '151'
+ht-degree: 88%
 
 ---
 
 # ストリームコンテンツのアーカイブとアーカイブ解除 {#archive-and-unarchive-stream-content}
 
-ストリーム内のコンテンツの一部を使用しなくなった場合は、[削除](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)またはアーカイブできます。コンテンツのアーカイブ方法を次に示します。
+ストリーム内のコンテンツの一部を使用しなくなった場合は、[削除](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)またはアーカイブできます。 コンテンツのアーカイブ方法を次に示します。
 
 >[!TIP]
 >
@@ -29,7 +29,7 @@ ht-degree: 92%
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
-   これで完了です。履歴を保存したい場合は、アーカイブしてください。
+   履歴を保存する場合は、アーカイブを作成します。
 
 ## ストリームコンテンツのアーカイブ解除 {#unarchive-stream-content}
 
@@ -45,4 +45,4 @@ ht-degree: 92%
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 
-   完璧です。これで、このコンテンツを優先順位付けし、アクティブ化できます。
+   完璧です。 これで、このコンテンツを優先順位付けし、アクティブ化できます。

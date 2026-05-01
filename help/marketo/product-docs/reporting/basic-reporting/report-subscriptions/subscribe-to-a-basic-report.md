@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359987
-description: 基本レポートを購読して自動更新を受信し、チームとレポートを共有する方法について説明します。 「購読」タブで、購読頻度を設定します。
+description: メールアドレスを基本レポートに登録して、自動更新を受け取り、レポートをチームと共有する方法について説明します。 「購読」タブで購読頻度を設定します。
 title: 基本レポートを配信登録する
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '138'
 ht-degree: 81%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 81%
 >
 >売上高サイクルエクスプローラーのレポートの購読については、[売上高エクスプローラーレポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)を参照してください。
 
-1. 「**[!UICONTROL マーケティング活動]**」エリアに移動します。
+1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
@@ -41,12 +41,10 @@ ht-degree: 81%
 
    >[!NOTE]
    >
-   >レポートは受信したメール内から誰でも購読解除できます。
-
-   これで完了です。インボックスを確認してください。
+   >配信の停止は、受信したメールから誰でも行うことができます。
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 
    >[!MORELIKETHIS]
    >
-   >すべてのレポート購読を 1 か所で管理する方法は[こちら](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)で説明します。
+   >1 か所で[レポートの配信登録をすべて管理する](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)方法を参照してください。

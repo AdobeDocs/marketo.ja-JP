@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359999
-description: 新しい位置にドラッグ&ドロップして、レポート列を並べ替える方法を説明します。 「レポート」タブの列の順序をカスタマイズして、最も重要なデータに優先順位を付けます。
+description: レポート列を新しい位置にドラッグ&ドロップして並べ替える方法について説明します。 「レポート」タブの列の順序をカスタマイズして、最も重要なデータに優先順位を付けることができます。
 title: レポート列の並べ替え
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '109'
 ht-degree: 75%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 75%
 
    ![](assets/image2014-9-16-10-3a50-3a34.png)
 
-1. これで完了です。列が新しい順序で表示されるようになります。
+1. 列が新しい順序で表示されるようになります。
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 

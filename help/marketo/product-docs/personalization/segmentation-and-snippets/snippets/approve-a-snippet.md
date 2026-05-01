@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359463
-description: メールやランディングページで使用できるようにスニペットを承認する方法を説明します。 Design Studio とスニペットアクションを使用して、ステータスを「ドラフト」から「承認済み」に変更します。
+description: スニペットを承認して、メールやランディングページで使用できるようにする方法を説明します。 デザインスタジオとスニペットアクションを使用して、ステータスを「ドラフト」から「承認済み」に変更します。
 title: スニペットの承認
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 62%
+source-wordcount: '76'
+ht-degree: 61%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 62%
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. **スニペット**&#x200B;をクリックします。「**[!UICONTROL スニペットアクション]**」で、「**[!UICONTROL 承認]**」をクリックします。
+1. **スニペット**&#x200B;をクリックします。 「**[!UICONTROL スニペットアクション]**」で、「**[!UICONTROL 承認]**」をクリックします。
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-これで完了です。スニペットのステータスが「ドラフト」から「承認済み」に変わります。
+スニペットのステータスが「ドラフト」から「承認済み」に変わります。
 
 >[!MORELIKETHIS]
 >

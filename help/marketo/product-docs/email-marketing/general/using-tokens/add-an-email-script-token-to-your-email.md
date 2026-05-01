@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1900575
-description: メールにメールスクリプトトークンを追加する方法を説明します。 メールエディターでトークンを使用して動的コンテンツを挿入します。
+description: メールスクリプトトークンをメールに追加する方法を説明します。 メールエディターのトークンを使用して、動的コンテンツを挿入します。
 title: メールにメールスクリプトトークンを追加する
 exl-id: 41ef7c21-06af-4950-a19e-017e2417044e
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 88%
 
 ---
 
 # メールにメールスクリプトトークンを追加する {#add-an-email-script-token-to-your-email}
 
-[メールスクリプトを作成](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)したら、メールに追加して、実際に使用されている内容を確認できます。手順は以下のとおりです。
+[メールスクリプトを作成](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)したら、メールに追加して、実際に使用されている内容を確認できます。 手順は以下のとおりです。
 
 >[!NOTE]
 >
 >1 つのメールに挿入されるすべてのスクリプトトークンの合計サイズは 100 KB を超えてはなりません。
 
-1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
+1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
 
    ![](assets/one-2.png)
 
@@ -51,4 +51,4 @@ ht-degree: 88%
 >
 >忘れずに[メールを承認](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)してください。
 
-これで完了です。このメールが送信されると、トークンの背後にあるスクリプトが実行され、コンテンツが設定されます。
+このメールが送信されると、トークンの背後にあるスクリプトが実行され、コンテンツが設定されます。

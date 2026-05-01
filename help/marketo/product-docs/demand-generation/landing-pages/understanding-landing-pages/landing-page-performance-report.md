@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359713
-description: Marketoのランディングページパフォーマンスレポートについて説明します。 ランディングページの訪問数、コンバージョン数、その他の指標を表示します。
+description: Marketoのランディングページのパフォーマンスレポートについて説明します。 ランディングページの訪問数やコンバージョン数などの指標を表示します。
 title: ランディングページ効果レポート
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 91%
+source-wordcount: '216'
+ht-degree: 69%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->スマートリストとランディングページの効果レポートの数値に不一致がある場合は、スマートリストでは人物に関するデータのみがフィルタリングされるのに対し、ランディングページの効果レポートには人物データに加えて、ソーシャルメディア（Facebook、Google 広告など）や匿名アクティビティが含まれることが原因である可能性があります。
+>スマートリストとランディングページパフォーマンスレポートの間に数値に違いがある場合は、スマートリストは人物に関するデータのみをフィルタリングするのに対し、ランディングページパフォーマンスレポートにはソーシャル（Facebook、Google Adsなど）が含まれている可能性があります 匿名のアクティビティを追加する必要があります。
 
 1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、[!UICONTROL ランディングページ効果][レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「[!UICONTROL レポート]」タブをクリックします。
-1. これで完了です。レポートを参照して、ランディングページの効果を評価します。
+1. レポートを参照して、ランディングページの効果を評価します。
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
 
@@ -29,7 +29,7 @@ ht-degree: 91%
 
    >[!TIP]
    >
-   >コンバージョン率が最も高いページを見つけます。その列で[レポートを並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)て、「降順に並べ替え」を選択します。
+   >コンバージョン率が最も高いページを見つけます。 その列で[レポートを並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)て、「降順に並べ替え」を選択します。
 
    レポートの AB アイコンは、統計がその[ランディングページのテストグループ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md)のすべてのページの合計であることを示します。
 

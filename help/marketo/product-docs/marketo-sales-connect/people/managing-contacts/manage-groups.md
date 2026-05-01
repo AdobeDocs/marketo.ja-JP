@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30081250
-description: Sales Connect でグループを管理する方法を説明します。 キャンペーンおよびアウトリーチの連絡先グループを作成、編集、共有、整理します。
+description: Sales Connectでグループを管理する方法について説明します。 キャンペーンとアウトリーチ用の連絡先グループを作成、編集、共有、整理します。
 title: グループの管理
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '291'
-ht-degree: 93%
+ht-degree: 92%
 
 ---
 
@@ -25,8 +25,6 @@ ht-degree: 93%
 
    ![](assets/two-3.png)
 
-   これで完了です。
-
 ## グループに取引先責任者を追加 {#add-contacts-to-a-group}
 
 1. [!UICONTROL 人物]ページで、人物を追加するグループを探して選択します。
@@ -39,7 +37,7 @@ ht-degree: 93%
 
    >[!NOTE]
    >
-   >これにより、一度に 1 件の連絡先が追加されます。複数の取引先責任者を同時に追加するには、[これらの手順](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)に従います。
+   >これにより、一度に 1 件の連絡先が追加されます。 複数の取引先責任者を同時に追加するには、[これらの手順](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)に従います。
 
 1. 取引先責任者の情報を入力し、「**[!UICONTROL 作成]**」（または別の取引先責任者を追加する場合は「**[!UICONTROL 作成して新たに追加]**」）をクリックします。
 

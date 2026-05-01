@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147360
-description: メールリンクにトークンを追加する方法を説明します。 パーソナライゼーションおよびトラッキングのために、リンク URL に動的な値を挿入する。
+description: メールリンクにトークンを追加する方法を説明します。 パーソナライゼーションとトラッキングのために、リンク URLに動的な値を挿入します。
 title: メールリンクにトークンを追加する
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 81%
+source-wordcount: '94'
+ht-degree: 80%
 
 ---
 
 # メールリンクにトークンを追加する {#add-tokens-to-an-email-link}
 
-リンクに追加のパラメーターやユーザー固有のパラメーターを挿入する場合は、トークンを使用できます。手順は以下のとおりです。
+リンクに追加のパラメーターやユーザー固有のパラメーターを挿入する場合は、トークンを使用できます。 手順は以下のとおりです。
 
 1. メールを選択して「**[!UICONTROL ドラフトを編集]**」タブをクリックします。
 
@@ -23,7 +23,7 @@ ht-degree: 81%
 
    ![](assets/two.png)
 
-1. リンクのテキストを指定または書き込みます。ハイライト表示し、**[!UICONTROL リンクの挿入／編集]**&#x200B;アイコンをクリックします。
+1. リンクのテキストを指定または書き込みます。 ハイライト表示し、**[!UICONTROL リンクの挿入／編集]**&#x200B;アイコンをクリックします。
 
    ![](assets/three.png)
 
@@ -34,8 +34,6 @@ ht-degree: 81%
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/five.png)
-
-   これで手順は完了です。
 
 >[!MORELIKETHIS]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359510
-description: 不要になったセグメント化を削除する方法を説明します。 アセットの関連付けを削除し、セグメント化の承認を取り消してから、セグメント化アクションを使用して削除してください。
+description: 不要になったセグメントを削除する方法について説明します。 アセットの関連付けを削除し、セグメント化の承認を解除してから、セグメント化アクションを使用して削除します。
 title: セグメント化の削除
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 81%
+source-wordcount: '104'
+ht-degree: 78%
 
 ---
 
@@ -36,5 +36,3 @@ ht-degree: 81%
 1. 承認が取り消されたら、「**[!UICONTROL セグメント化アクション]**」をクリックしてセグメント化を[!UICONTROL 削除]します。
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
-
-作業は以上です。元には戻せないので、セグメントが不要なことを確認してください。

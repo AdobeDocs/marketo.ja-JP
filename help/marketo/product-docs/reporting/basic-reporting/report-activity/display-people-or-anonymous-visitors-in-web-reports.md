@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360008
-description: Marketo Engageの web レポートでのディスプレイのユーザーまたは匿名訪問者について説明します。これには、ディスプレイのユーザーや匿名訪問者が含まれます。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageのweb レポートの表示人物または匿名訪問者（表示人物または匿名ユーザーを含む）について説明します。 このガイドを使用して、次のステップを完了してください。
 title: Web レポートでのリードまたは匿名の訪問者の表示
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 85%
@@ -17,7 +17,7 @@ ht-degree: 85%
 >
 >[Web サイトへの Munchkin トラッキングコードの追加](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-[[!UICONTROL Web ページアクティビティ]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)レポートおよび[[!UICONTROL 企業の web アクティビティ]レポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)で、サイトを訪問した[人物または匿名の訪問者](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)が表示されます。匿名の訪問者には、メトロエリアなどの推測されるデータがあります。次に、レポートに既知のリードと匿名訪問者のどちらを表示するかを選択する方法を示します。
+[[!UICONTROL Web ページアクティビティ]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)レポートおよび[[!UICONTROL 企業の web アクティビティ]レポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)で、サイトを訪問した[人物または匿名の訪問者](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md)が表示されます。 匿名の訪問者には、メトロエリアなどの推測されるデータがあります。  次に、レポートに既知のリードと匿名訪問者のどちらを表示するかを選択する方法を示します。
 
 1. [!UICONTROL Web ページアクティビティ]レポートで、「**[!UICONTROL 設定]**」をクリックします。
 
@@ -35,7 +35,7 @@ ht-degree: 85%
    >
    >匿名訪問者に ISP を含めると、レポートは長くなりますが、それらを除外すると、Google などの標準ソースに加えて、訪問者がどこから来たかをより明確に把握できます。
 
-1. 作業は以上です。「**[!UICONTROL レポート]**」タブをクリックして戻り、既知のリードまたは匿名訪問者のレポートの表示を確認します。
+1. 「**[!UICONTROL レポート]**」タブをクリックして戻り、既知のリードまたは匿名訪問者のレポートの表示を確認します。
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 
