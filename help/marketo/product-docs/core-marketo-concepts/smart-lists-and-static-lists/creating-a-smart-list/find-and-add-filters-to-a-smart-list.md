@@ -1,21 +1,21 @@
 ---
 unique-page-id: 557273
-description: スマートリストにフィルターを検索して追加する方法を説明します。 フィルターツリーからフィルターを参照して追加し、リストロジックを作成します。
+description: スマートリストにフィルターを検索して追加する方法を説明します。 フィルターツリーからフィルターを参照して追加し、リストロジックを構築します。
 title: フィルターを検索してスマートリストに追加
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 83%
+source-wordcount: '137'
+ht-degree: 57%
 
 ---
 
 # フィルターを検索してスマートリストに追加 {#find-and-add-filters-to-a-smart-list}
 
-[スマートリストを作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}したら、フィルターを追加して[定義](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}する必要があります。フィルターを検索して追加する方法を次に示します。
+[ スマートリストを作成した後](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}、フィルターを追加して[定義](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}する必要があります。
 
-この例では、カリフォルニア州在住で、スコアが 50 を超える人をすべて検索します。
+この例では、目標はスコアが50を超えるカリフォルニアのすべての人物を見つけることです。
 
 >[!TIP]
 >
@@ -37,7 +37,7 @@ ht-degree: 83%
 
    ![](assets/find-and-add-filters-to-a-smart-list-4.png)
 
-完璧です。次は、これらのフィルターを定義します。
+これらのフィルターを定義します。
 
 >[!MORELIKETHIS]
 >

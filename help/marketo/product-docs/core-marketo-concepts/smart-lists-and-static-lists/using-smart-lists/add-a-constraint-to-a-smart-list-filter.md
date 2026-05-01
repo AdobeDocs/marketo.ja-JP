@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949413
-description: スマートリストフィルターに制約を追加する方法を説明します。 より正確なリストを得るには、条件を追加してフィルターを絞り込みます。
+description: スマートリストフィルターに制約を追加する方法を説明します。 条件を追加してフィルターを絞り込み、リストを正確に表示します。
 title: スマートリストフィルターへの制約の追加
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 89%
+source-wordcount: '182'
+ht-degree: 75%
 
 ---
 
 # スマートリストフィルターへの制約の追加 {#add-a-constraint-to-a-smart-list-filter}
 
-スマートリストを作成する際にフィルターの一部には、「制約」と呼ばれる高度なオプションが含まれています。制約を利用してフィルターやトリガーにさらなる条件を追加することで、検索をさらに絞り込むことができます。
+スマートリストを作成する際にフィルターの一部には、「制約」と呼ばれる高度なオプションが含まれています。 制約を利用してフィルターやトリガーにさらなる条件を追加することで、検索をさらに絞り込むことができます。
 
-以下に紹介する例では、「**[データ値変更済み](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}**」フィルターにいくつかの制約を追加して、リードステータスが MQL から SQL に変更されたリードを特定します。
+この例では、MQLからSQLにステータスが変更されたユーザーを検索するために、**[データ値が変更された](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** フィルターに一部の制約を追加します。
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ ht-degree: 89%
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-3.png)
 
-1. 「**[!UICONTROL 前回の値]**」に入力します。この例では、MQL を使用します。
+1. 「**[!UICONTROL 前回の値]**」に入力します。 この例では、MQL を使用します。
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-4.png)
 
@@ -42,8 +42,8 @@ ht-degree: 89%
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-5.png)
 
-1. 新しい値を入力します。この例では、SQL を使用します。
+1. 新しい値を入力します。 この例では、SQL を使用します。
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-6.png)
 
-1. これで完了です。「**[!UICONTROL 人物]**」タブをクリックすると、過去 30 日間にステータスが「MQL」から「SQL」に変わったすべての対象者が表示されます。
+1. 「**[!UICONTROL 人物]**」タブをクリックすると、過去 30 日間にステータスが「MQL」から「SQL」に変わったすべての対象者が表示されます。

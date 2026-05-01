@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720377
-description: ワークスペース間でリストまたはスマートリストを参照する方法を説明します。 あるワークスペースのリストを別のワークスペースで参照付きで使用します。
+description: ワークスペース全体でリストまたはスマートリストを参照する方法を説明します。 あるワークスペースのリストを、別のワークスペースの参照とともに使用します。
 title: 複数のワークスペースをまたいだリストやスマートリストの参照
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '187'
 ht-degree: 88%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 88%
 
 ## リストまたはスマートリストを共有する {#share-a-list-or-smart-list}
 
-1. 「**[!UICONTROL データベース]**」に移動します。
+1. **[!UICONTROL データベース]**&#x200B;に移動します。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. キャンペーンフォルダーを右クリックします。「**[!UICONTROL 新規フォルダー]**」を選択します。
+1. キャンペーンフォルダーを右クリックします。 「**[!UICONTROL 新規フォルダー]**」を選択します。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 
@@ -49,8 +49,8 @@ ht-degree: 88%
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 
-   これで完了です。リストが両方のワークスペースで使用できるようになりました。
+   リストが両方のワークスペースで使用できるようになりました。
 
    >[!NOTE]
    >
-   >マーケティング活動では、共有できるのはトップレベルのフォルダーのみです。データベースでは、最上位フォルダーと 1 つ下のフォルダーを共有できます。
+   >マーケティング活動では、共有できるのはトップレベルのフォルダーのみです。 データベースでは、最上位フォルダーと 1 つ下のフォルダーを共有できます。

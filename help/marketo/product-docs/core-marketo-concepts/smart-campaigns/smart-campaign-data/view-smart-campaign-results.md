@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146968
-description: Smart Campaign の結果を表示する方法を説明します。 誰が資格を得たのか、フローを実行したのか、どのようなアクションが実行されたかを確認します。
+description: スマートキャンペーンの結果を表示する方法を説明します。 フローの誰が適格で、どのようなアクションが実行されたかなどを確認できます。
 title: スマートキャンペーン結果の表示
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 84%
+source-wordcount: '120'
+ht-degree: 60%
 
 ---
 
 # スマートキャンペーン結果の表示 {#view-smart-campaign-results}
 
-スマートキャンペーンで発生したすべての分類を表示するには、手順は次のとおりです。
+スマートキャンペーンの結果を表示する方法を説明します。
 
 >[!TIP]
 >
@@ -25,7 +25,7 @@ ht-degree: 84%
 
    >[!TIP]
    >
-   >また、アクティビティタイプに基づいて結果をフィルタリングすることもできます。詳しくは、[スマートキャンペーン結果のフィルタリング](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}を参照してください。
+   >また、アクティビティタイプに基づいて結果をフィルタリングすることもできます。 詳しくは、[スマートキャンペーン結果のフィルタリング](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}を参照してください。
 
 1. **[!UICONTROL ID]** をクリックして、特定のアクティビティの詳細を表示します。
 
@@ -35,7 +35,7 @@ ht-degree: 84%
    >
    >人物の名前をクリックすると、人物の詳細が表示されます。
 
-   結果を調べて、キャンペーンで実際に行ったことを確認するか、単純に[スマートキャンペーン結果を Excel に書き出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}ます。
+   結果を詳しく調べて、キャンペーンが実際に行ったことを確認するか、[Smart Campaignの結果をExcel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}に書き出します。
 
    >[!MORELIKETHIS]
    >

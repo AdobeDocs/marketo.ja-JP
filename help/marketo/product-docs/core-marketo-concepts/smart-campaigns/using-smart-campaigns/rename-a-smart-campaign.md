@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147049
-description: スマートキャンペーンの名前を変更する方法については、こちらを参照してください。 キャンペーン設定または右クリックメニューからキャンペーン名を変更します。
+description: スマートキャンペーンの名前を変更する方法を説明します。 キャンペーン設定または右クリックメニューからキャンペーン名を変更します。
 title: スマートキャンペーン名の変更
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 70%
+source-wordcount: '96'
+ht-degree: 57%
 
 ---
 
 # スマートキャンペーン名の変更 {#rename-a-smart-campaign}
 
-既存のスマートキャンペーンの名前を変更できます。手順は次のとおりです。
+既存のスマートキャンペーンの名前を変更できます。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -35,4 +35,4 @@ ht-degree: 70%
    >
    >古い名前はタブに表示され、保存時に変更されます。
 
-簡単でしたね。スマートキャンペーンの参照元もすべて変更されます。
+スマートキャンペーンが参照されている場所も更新されます。

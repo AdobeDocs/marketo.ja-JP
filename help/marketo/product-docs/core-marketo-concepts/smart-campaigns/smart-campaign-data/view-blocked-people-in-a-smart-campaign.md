@@ -1,27 +1,27 @@
 ---
 unique-page-id: 1147062
-description: スマートキャンペーンでブロックされたユーザーを表示する方法を説明します。 フローからブロックされたユーザーとその理由を確認します。
+description: スマートキャンペーンでブロックされたユーザーを表示する方法を説明します。 フローがブロックされたユーザーとその理由を確認します。
 title: スマートキャンペーンでのブロックされた人物の表示
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 85%
+source-wordcount: '131'
+ht-degree: 70%
 
 ---
 
 # スマートキャンペーンでのブロックされた人物の表示 {#view-blocked-people-in-a-smart-campaign}
 
-Marketo Engage データベースで、ブロックリスト登録済み、登録解除済み、マーケティング中断、無効または空のメールアドレスの人物はブロックされます。
+Marketo Engage データベース内のブロックされたユーザーは、ブロックリストに加える済み、登録解除、マーケティングの中断、または無効または空のメールとマークされます。
 
-1. スマートキャンペーンで、「**[!UICONTROL スケジュール]**」をクリックします。「**[!UICONTROL スマートリストのステータス]**」で 2 つ目のリンクをクリックします。
+1. スマートキャンペーンで、「**[!UICONTROL スケジュール]**」をクリックします。 「**[!UICONTROL スマートリストのステータス]**」で 2 つ目のリンクをクリックします。
 
    ![](assets/view-blocked-people-in-a-smart-campaign-1.png)
 
    >[!NOTE]
    >
-   >通信制限に達したユーザーがメール受信をブロックされる場合もあります。「管理者」セクションの[通信制限を編集](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}で、方法を参照してください。
+   >通信制限に達したユーザーがメール受信をブロックされる場合もあります。 「管理者」セクションの[通信制限を編集](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}で、方法を参照してください。
 
    「**[!UICONTROL ブロック済みのリード]**」タブには、メールを受信しない可能性のある人物が表示されます。
 

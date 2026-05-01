@@ -1,35 +1,35 @@
 ---
 unique-page-id: 1146940
-description: バッチのスマートキャンペーンのスマートリストを定義する方法について説明します。 フィルターを使用して、キャンペーンにエントリするユーザーを選択します。
+description: バッチスマートキャンペーンのスマートリストを定義する方法を説明します。 フィルターを使用してキャンペーンに参加するユーザーを選択します。
 title: スマートキャンペーン用スマートリストの定義 | バッチ
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 93%
+source-wordcount: '274'
+ht-degree: 83%
 
 ---
 
 # スマートキャンペーン用スマートリストの定義 | バッチ {#define-smart-list-for-smart-campaign-batch}
 
-スマートリストは、レポート、リスト、スマートキャンペーンのどれであるかに関わらず、「誰」（どの人物）を含めるのかを定義する Marketo Engage 全体のメカニズムです。バッチキャンペーンのスマートリストを定義する方法を次に示します。
+スマートリストは、レポート、リスト、スマートキャンペーンなど、Marketo Engage全体で含める「誰」を定義する仕組みです。
 
 >[!CAUTION]
 >
->アクティブなキャンペーンに対してスマートリストまたはフローステップの編集を行うと、その機能が損なわれる可能性があります。その場合は、慎重に作業を進めてください。
+>アクティブなキャンペーンに対してスマートリストまたはフローステップの編集を行うと、その機能が損なわれる可能性があります。 その場合は、慎重に作業を進めてください。
 
 1. スマートキャンペーンを選択し、「**[!UICONTROL スマートリスト]**」をクリックします。
 
    ![](assets/define-smart-list-for-smart-campaign-batch-1.png)
 
-1. 入力してフィルターを検索し、キャンバスにドラッグ＆ドロップします。同じ操作を複数のフィルターに対して繰り返します。
+1. 入力してフィルターを検索し、キャンバスにドラッグ＆ドロップします。 同じ操作を複数のフィルターに対して繰り返します。
 
    ![](assets/define-smart-list-for-smart-campaign-batch-2.png)
 
    >[!NOTE]
    >
-   >フィルターのみのスマートキャンペーンは、_バッチ_&#x200B;モードで実行されます。適合するデータベース内の人物をフィルターに基づいて検索し、それらすべての人物に対して一度にフローを実行します。
+   >フィルターのみのスマートキャンペーンは、_バッチ_&#x200B;モードで実行されます。 適合するデータベース内の人物をフィルターに基づいて検索し、それらすべての人物に対して一度にフローを実行します。
 
    >[!NOTE]
    >
@@ -41,7 +41,7 @@ ht-degree: 93%
 
    >[!CAUTION]
    >
-   >赤い波線は、エラーまたは情報が見つからないことを示します。修正されない場合、キャンペーンは無効になり、実行されません。
+   >赤い波線は、エラーまたは情報が見つからないことを示します。 修正されない場合、キャンペーンは無効になり、実行されません。
 
 1. フィルター値を入力します。
 
@@ -49,7 +49,7 @@ ht-degree: 93%
 
    >[!NOTE]
    >
-   >デフォルトでは、すべてのスマートリストルールを満たす人物が選定されます。これは、キャンペーンのニーズに合わせて変更できます。[複雑なロジックのスマートリストルール](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}を参照してください。
+   >デフォルトでは、すべてのスマートリストルールを満たす人物が選定されます。 これは、キャンペーンのニーズに合わせて変更できます。 [複雑なロジックのスマートリストルール](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}を参照してください。
 
    ライブトリガーで 1 人ずつイベントを作成するには、[スマートキャンペーン用スマートリストの定義 | トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}を参照してください。
 

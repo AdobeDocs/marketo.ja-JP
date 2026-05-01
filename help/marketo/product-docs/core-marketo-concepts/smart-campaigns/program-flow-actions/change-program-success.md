@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147009
-description: フロー手順でプログラム成功を変更する方法を説明します。 アクションを完了したユーザーを、プログラムの成功としてマークする。
+description: フローステップでプログラムの成功を変更する方法を説明します。 行動を起こした人を、プログラムの成功マークする。
 title: プログラムの成功の変更
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 85%
+ht-degree: 70%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 85%
 
 ![](assets/change-program-success-1.png)
 
-1. このフローステップにドラッグしたプログラムは、編集中のスマートキャンペーンが含まれるプログラムに自動で設定されます。
+1. このフローステップでドラッグすると、プログラムは、編集中のスマートキャンペーンを含むプログラムに自動的に設定されます。
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ ht-degree: 85%
 
    >[!NOTE]
    >
-   >[!UICONTROL 成功日]に日付を設定すると、成功は自動的に「true」に設定されます。[!UICONTROL 成功]が「true」に設定されると、成功日は自動で現在の日付に設定されます。
+   >[!UICONTROL 成功日]に日付を設定すると、成功は自動的に「true」に設定されます。 [!UICONTROL 成功]が「true」に設定されると、成功日は自動で現在の日付に設定されます。
 
 1. 「**[!UICONTROL 新しい値]**」を **[!UICONTROL true]** か **[!UICONTROL false]** に設定します。
 
@@ -41,4 +41,4 @@ ht-degree: 85%
    >
    >このフローステップを 2 回使用して、成功フラグならびに成功日の両方を設定することができます。
 
-完了です。成功を解除・修正する方法を理解できました。
+成功を解除・修正する方法を理解できました。

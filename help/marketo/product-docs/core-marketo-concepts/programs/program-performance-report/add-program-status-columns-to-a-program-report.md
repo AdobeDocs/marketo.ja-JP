@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147239
-description: プログラムレポートにプログラムステータス列を追加する方法を説明します。 レポート列にメンバー・ステータスを含めます。
+description: プログラムレポートにプログラムステータス列を追加する方法を説明します。 レポート列にメンバーステータスを含めます。
 title: プログラムレポートへのプログラムステータス列の追加
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '137'
 ht-degree: 70%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 70%
 
    ![](assets/emailperformance.jpg)
 
-1. **[!UICONTROL 設定]** タブをクリックして、**[!UICONTROL チャネル]** タグ上にドラッグします。
+1. 「**[!UICONTROL 設定]**」タブをクリックし、**[!UICONTROL チャネル]** タグにドラッグします。
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -35,11 +35,11 @@ ht-degree: 70%
    >
    >プログラムステータス列を表示するには、チャネル _1 つのみ_&#x200B;でレポートをフィルターする必要があります。
 
-1. 「プログラムステータス列を表示」オプションにチェックを入れます。「**[!UICONTROL 適用]**」をクリックします。
+1. 「プログラムステータス列を表示」オプションにチェックを入れます。 「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. これで完了です。「[!UICONTROL &#x200B; レポート &#x200B;]」タブをクリックして、プログラムステータス列を含むレポートを表示します。
+1. 「[!UICONTROL  レポート ]」タブをクリックして、プログラムのステータス列を含むレポートを表示します。
 
    ![](assets/programreport.jpg)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097447
-description: Marketoのデータベースダッシュボードについて説明します。 データベースとユーザーの主要指標を一目で確認できます。
+description: Marketoのデータベースダッシュボードについて説明します。 データベースと顧客に関する主要な指標を一目で確認できます。
 title: データベースダッシュボード
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 90%
+source-wordcount: '183'
+ht-degree: 82%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->* データベースダッシュボードは、24～32 時間ごとに自動的に更新されます。画面右側の「最終更新日」テキストをクリックすると、いつでも手動更新を実行できます。
+>* データベースダッシュボードは、24～32 時間ごとに自動的に更新されます。 画面右側の「最終更新日」テキストをクリックすると、いつでも手動更新を実行できます。
 >
 >* 各ワークスペースには、独自のデータベースダッシュボードがあります。
 
@@ -25,13 +25,13 @@ ht-degree: 90%
 
 ![](assets/database-dashboard-1.png)
 
-グラフは、ユーザの合計数、市場価値の高いユーザの数、トップ 5 つのユーザ獲得ソースを示します。詳しくは、緑色の領域にポインタを合わせてください。
+グラフは、ユーザの合計数、市場価値の高いユーザの数、トップ 5 つのユーザ獲得ソースを示します。 詳しくは、緑色の領域にポインタを合わせてください。
 
 ![](assets/database-dashboard-2.png)
 
 >[!TIP]
 >
->人物に関するより具体的な情報やタイムリーな情報を取得したい場合は、[人物の効果レポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}を試してみてください。
+>詳細な情報やタイムリーな情報については、[人物パフォーマンスレポート ](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}をお試しください。
 
 **人物の合計：**&#x200B;リストされているワークスペースの常時の人物の数。
 

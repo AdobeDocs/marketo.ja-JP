@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11387513
-description: Marketoで静的リストを作成する方法を説明します。 リストをデータベースに追加し、手動またはインポートによってユーザーを追加します。
+description: Marketoで静的リストを作成する方法を説明します。 データベースにリストを追加し、手動またはインポートでユーザーを追加します。
 title: 静的リストの作成
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 80%
+source-wordcount: '111'
+ht-degree: 62%
 
 ---
 
 # 静的リストの作成 {#create-a-static-list}
 
-静的リストとは、既にリードデータベースに登録されているリードのグループです。リストの作成は以下の手順で行います。
+静的リストとは、既にリードデータベースに登録されているリードのグループです。
 
-1. 「**[!UICONTROL データベース]**」にアクセスします。
+1. **[!UICONTROL データベース]**&#x200B;に移動します。
 
    ![](assets/db.png)
 
@@ -27,8 +27,8 @@ ht-degree: 80%
 
    ![](assets/three.png)
 
-   空のリストが作成され、入力できるようになります。リードを追加する方法は、[こちら](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}を参照してください。
+   空のリストが作成され、入力できるようになります。 リードを追加する方法は、[こちら](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}を参照してください。
 
    >[!NOTE]
    >
-   >リストには、必要なだけ何度でもリードを追加できますが、表示されるのは 1 度ずつです。リードは、削除するまでリストに残り続けます。
+   >リストにユーザーを好きなだけ追加できますが、そのユーザーは1回だけ表示されます。 リードは、削除するまでリストに残り続けます。

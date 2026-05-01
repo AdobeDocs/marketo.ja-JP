@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147316
-description: データベースでユーザーを手動で作成する方法を説明します。 メールとフィールドの値で新しいリードまたは連絡先を追加します。
+description: データベースでユーザーを手動で作成する方法を説明します。 電子メールとフィールドの値を使用して、新しいリードまたは取引先責任者を追加します。
 title: リードの手動作成
 exl-id: 6fbbd240-239b-461e-a046-968e0f0d150e
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 72%
+source-wordcount: '73'
+ht-degree: 60%
 
 ---
 
 # リードの手動作成 {#create-a-person-manually}
 
-リードを Marketo Engage に入れる方法はいろいろあります。手動で作成する必要がある場合は、次の手順に従います。
+リードを Marketo Engage に入れる方法はいろいろあります。 手動で作成するには、次の手順に従います。
 
 >[!CAUTION]
 >
 >Marketo は、絵文字を含むメールアドレスをサポートしていません。
 
-1. 「**[!UICONTROL データベース]**」に移動します。
+1. **[!UICONTROL データベース]**&#x200B;に移動します。
 
    ![](assets/create-a-person-manually-1.png)
 

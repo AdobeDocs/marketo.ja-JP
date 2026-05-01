@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147042
-description: フローステップでフィールドにデータを追加する方法を説明します。 既存のフィールド値に上書きせずにテキストを追加します。
+description: フローステップのフィールドにデータを追加する方法を説明します。 上書きせずに既存のフィールド値にテキストを追加します。
 title: フィールドへのデータ追加
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 83%
+source-wordcount: '112'
+ht-degree: 67%
 
 ---
 
 # フィールドへのデータ追加 {#append-data-to-a-field}
 
-フィールドにデータを簡単に追加する方法があります。手順は以下のとおりです。
+フィールドへのデータの追加は簡単です。
 
 >[!PREREQUISITES]
 >
@@ -39,4 +39,4 @@ ht-degree: 83%
 
    ![](assets/append-data-to-a-field-4.png)
 
-これで完了です。クリエイティブを発揮して複数のトークンを追加できます。
+同じフィールドに複数のトークンを追加できます。

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557322
-description: スマートリストから 1 つのフローステップを実行する方法を説明します。 リストから選択したユーザーに対して 1 つのフローアクションを実行します。
+description: スマートリストから単一フローステップを実行する方法を説明します。 リストから選択したユーザーに対して1つのフローアクションを実行します。
 title: スマートリストからの単一フローステップの実行
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 90%
+source-wordcount: '239'
+ht-degree: 66%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 90%
    >
    >この機能は、静的リストとスマートリストの両方に用意されています。
 
-1. 「**[!UICONTROL すべてを選択]**」をクリックします。または、**Ctrl／Cmd** をクリックして、いくつかのレコードを手動で選択することもできます。
+1. 「**[!UICONTROL すべてを選択]**」をクリックします。 または、**Ctrl／Cmd** をクリックして、いくつかのレコードを手動で選択することもできます。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-3.png)
 
@@ -39,24 +39,24 @@ ht-degree: 90%
    >
    >結果が複数のページにまたがる場合は、「**[!UICONTROL すべてを選択]**」をクリックすると、すべてのページのすべての人物が選択されます。
 
-1. 「**[!UICONTROL 人物のアクション]**」で選択したフローステップを選択します。この例では、「[データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}」を使用します。
+1. 「**[!UICONTROL 人物のアクション]**」で選択したフローステップを選択します。 この例では、[Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}を使用しています。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 
-1. **[!UICONTROL 属性]**&#x200B;を検索して選択します。この例では、州「California」を持つすべての人物を対象に、州を「CA」に変更します。
+1. **[!UICONTROL 属性]**&#x200B;を検索して選択します。 この例では、州「California」を持つすべての人物を対象に、州を「CA」に変更します。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-5.png)
 
-1. 新しい値を入力します。「**[!UICONTROL 今すぐ実行]**」をクリックします。
+1. 新しい値を入力します。 「**[!UICONTROL 今すぐ実行]**」をクリックします。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-6.png)
 
-1. 多数の人物のデータ値を変更する場合は、その数を入力して変更を確定する必要がある場合があります。「**[!UICONTROL 実行]**」をクリックします。
+1. 多数のユーザーのデータ値を変更する場合は、数字を入力して変更を確認する必要がある場合があります。 「**[!UICONTROL 実行]**」をクリックします。
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 
-素晴らしいです。右上隅に単一フローステップのステータスが表示されます。
+シングルフローステップのステータスは、右上隅に表示されます。
 
 ![](assets/run-a-single-flow-step-from-a-smart-list-8.png)
 
-完了後にリストを更新すると、更新された情報が表示されます。
+完了したら、リストを更新すると、更新された情報が表示されます。

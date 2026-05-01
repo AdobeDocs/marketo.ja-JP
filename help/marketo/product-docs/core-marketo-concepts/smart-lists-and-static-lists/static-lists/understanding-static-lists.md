@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2949891
-description: 固定されたユーザーセット向けのMarketoの静的リストについて説明します。 メンバーシップが手動で管理されている場合は静的リストを使用します。
+description: Marketoの固定リストについて説明します。 メンバーシップを手動で管理する場合は、静的リストを使用します。
 title: 静的リストについて
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 75%
+source-wordcount: '222'
+ht-degree: 57%
 
 ---
 
 # 静的リストについて {#understanding-static-lists}
 
-静的リストは、Marketo の最もシンプルで便利な機能の 1 つです。これらは、データベースから取得した名前のリストにすぎません。使う理由はたくさんあります。
+静的リストは、Marketo の最もシンプルで便利な機能の 1 つです。 データベースの名前のリストです。 使う理由はたくさんあります。
 
 >[!NOTE]
 >
@@ -28,23 +28,21 @@ ht-degree: 75%
 
 >[!CAUTION]
 >
->最も一般的な間違いの 1 つは、単に「ユーザーを削除する」ことで、リストからユーザーを削除できると考えることです。**これは間違っています**。削除したユーザーは、リストだけではなく、**データベース全体**&#x200B;から削除されます。
+>最も一般的な間違いの1つは、「人物を削除」することでリストから人物を削除できると考えることです。 **これは間違っています**。 削除したユーザーは、リストだけではなく、**データベース全体**&#x200B;から削除されます。
 
-## リストにユーザーを追加／削除する方法 {#ways-to-add-remove-people-from-a-list}
+## リストにユーザーを追加または削除する方法 {#ways-to-add-remove-people-from-a-list}
 
-1. スマートキャンペーンフローステップ（[&#x200B; リストに追加 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}、[&#x200B; リストから削除 &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"}）
+1. スマートキャンペーンのフローステップ （[ リストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}、[ リストから削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"}）
 
-1. [&#x200B; 単一アクションフローステップ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
+1. [単一のアクションフローステップ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. ツリー内のリストにユーザーをドラッグする
-1. [&#x200B; リストのインポート &#x200B;](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
+1. [リストの読み込み](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 ## 静的リストの使用例 {#some-uses-of-a-static-list}
 
 * マーケティングメッセージの受信のために事前に選択されたリスト
 * 有害なカウンターインテリジェンスメッセージを送信するために使用する「競合他社」リスト
 * 特定の状態にある人物の一時的なリスト。その状態を終了すると、スマートキャンペーンによって削除されます。
-
-リストの機能をお楽しみください。
 
 >[!MORELIKETHIS]
 >

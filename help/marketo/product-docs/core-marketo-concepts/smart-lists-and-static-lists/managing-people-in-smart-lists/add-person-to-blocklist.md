@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9438139
-description: ブロックリストにユーザーを追加する方法を説明します。 特定の人物やドメインにメールが送信されないようにします。
+description: 人をブロックリストに追加する方法を説明します。 特定の人物やドメインにメールが送信されるのを防ぎます。
 title: リードをブロックリストに追加
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 37%
+source-wordcount: '195'
+ht-degree: 39%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 37%
 
 リードをブロックリストに追加すると、コンテンツを気に入ってくれた有望な人だけにコンテンツを読んでもらえるようになります。
 
-1. 新しい [&#x200B; デフォルトプログラム &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} を作成し、「ブロックリストに追加」という名前を付けます。
+1. 新しい[ デフォルトプログラム ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"}を作成し、「Add to ブロックリスト」という名前を付けます。
 
 1. 「**[!UICONTROL 新規作成]**」をクリックして、「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 
@@ -29,7 +29,7 @@ ht-degree: 37%
 
    ![](assets/add-person-to-blocklist-3.png)
 
-1. ブロックリストに追加する全員をスマート リストに追加します。
+1. スマートブロックリストに追加するスマートリストにすべての人物を追加します。
 
    ![](assets/add-person-to-blocklist-4.png)
 
@@ -53,19 +53,19 @@ ht-degree: 37%
 
    ![](assets/add-person-to-blocklist-8.png)
 
-1. 作成したスマート・リストを選択します。
+1. 作成したスマートリストを選択します。
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. 「**[!UICONTROL フロー]**」タブをクリックします。 **[!UICONTROL データ値を変更]** フローアクションをドラッグ&amp;ドロップします。
+1. 「**[!UICONTROL フロー]**」タブをクリックします。 「**[!UICONTROL データ値を変更]**」フローアクションをドラッグ&amp;ドロップします。
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. **[!UICONTROL 属性]** ドロップダウンで **[!UICONTROL Block Listed]** を選択し、**[!UICONTROL New Value]** を **[!UICONTROL true]** に設定します。
+1. **[!UICONTROL 属性]** ドロップダウンで、「**[!UICONTROL リストされているブロック]**」を選択し、**[!UICONTROL 新しい値]**&#x200B;を&#x200B;**[!UICONTROL true]**&#x200B;に設定します。
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. 「**[!UICONTROL スケジュール]**」タブをクリックし、「**[!UICONTROL 1 回実行]**」を選択します。
+1. 「**[!UICONTROL スケジュール]**」タブをクリックし、**[!UICONTROL 1回実行]**&#x200B;を選択します。
 
    ![](assets/add-person-to-blocklist-12.png)
 
@@ -73,7 +73,7 @@ ht-degree: 37%
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. もう一度 **[!UICONTROL 実行]** をクリックします。
+1. 「**[!UICONTROL 実行]**」をもう一度クリックします。
 
    ![](assets/add-person-to-blocklist-14.png)
 
@@ -81,4 +81,4 @@ ht-degree: 37%
 
 >[!TIP]
 >
->[トリガーブロックリストに加える可能な属性を持つ今後のすべてのユーザーについて、{Block Listed が true](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} の **Change Data Value** を使用して **0} パーソナライゼーションキャンペーンを作成します。**
+>**Change Data Value**&#x200B;を使用して[トリガーキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}を作成し、**Block Listed is true**&#x200B;を指定して、個のセグメントを作成できます。これは、将来作成できる属性を持つすべてのユーザーに対して適用されます。

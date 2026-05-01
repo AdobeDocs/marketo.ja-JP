@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146933
-description: 「スケジュール」タブからバッチ Smart Campaign を今すぐ実行する方法を説明します。 スケジュールを設定する代わりに、キャンペーンをすぐに実行します。
+description: 「スケジュール」タブから、バッチ スマートキャンペーンを今すぐ実行する方法を説明します。 スケジュール設定ではなく、すぐにキャンペーンを実行できます。
 title: バッチスマートキャンペーンの即時実行 | 「スケジュール」タブ
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 56%
+source-wordcount: '105'
+ht-degree: 52%
 
 ---
 
 # バッチスマートキャンペーンの即時実行 | 「スケジュール」タブ {#run-a-batch-smart-campaign-now-schedule-tab}
 
-バッチキャンペーンの作成が完了したら、今すぐ実行するか、後で実行するかを選択できます。 すぐに実行する方法を次に示します。
+バッチキャンペーンの作成が完了したら、今すぐ実行するか、後で実行するかを選択できます。
 
-1. バッチキャンペーンを選択し、「**[!UICONTROL スケジュール]**」タブに移動して、「**[!UICONTROL 1 回実行]** をクリックします。
+1. バッチキャンペーンを選択し、**[!UICONTROL スケジュール]** タブに移動し、**[!UICONTROL 1回実行]**&#x200B;をクリックします。
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-1.png)
 
@@ -27,7 +27,7 @@ ht-degree: 56%
 
    ![](assets/run-a-batch-smart-campaign-now-schedule-tab-3.png)
 
-   簡単ですね。また、必要に応じて、[スケジュールを後で実行](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}することもできます。
+   また、必要に応じて、[スケジュールを後で実行](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md){target="_blank"}することもできます。
 
    >[!NOTE]
    >

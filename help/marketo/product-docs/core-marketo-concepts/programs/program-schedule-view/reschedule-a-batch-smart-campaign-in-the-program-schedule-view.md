@@ -1,10 +1,10 @@
 ---
 unique-page-id: 7514985
-description: プログラムスケジュール表示でバッチ Smart Campaign を再スケジュールする方法を説明します。 バッチキャンペーンの実行時期を変更します。
+description: プログラムスケジュール表示でバッチスマートキャンペーンをスケジュール変更する方法を説明します。 バッチキャンペーンの実行時に変更します。
 title: プログラムスケジュール表示でのバッチスマートキャンペーンの再スケジュール
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 63%
@@ -13,9 +13,9 @@ ht-degree: 63%
 
 # プログラムスケジュール表示でのバッチスマートキャンペーンの再スケジュール {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
-バッチ キャンペーンの実行を再スケジュールしますか？ プログラムスケジュール表示で未来にドラッグ&amp;ドロップします。
+バッチキャンペーン実行のスケジュールを変更する場合 プログラムスケジュール表示で未来にドラッグ&amp;ドロップします。
 
-1. スケジュールを再設定するスマートキャンペーンを選択します。
+1. スケジュールを変更するスマートキャンペーンを選択します。
 
    ![](assets/image2015-5-19-12-3a8-3a28.png)
 
@@ -23,7 +23,7 @@ ht-degree: 63%
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. これで完了です。スマートキャンペーンのスケジュールが変更されました。 時刻は、エントリの詳細の「**[!UICONTROL 日付]**」ドロップダウンから変更することもできます。
+1. スマートキャンペーンのスケジュールが変更されました。 時刻は、エントリの詳細の「**[!UICONTROL 日付]**」ドロップダウンから変更することもできます。
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 

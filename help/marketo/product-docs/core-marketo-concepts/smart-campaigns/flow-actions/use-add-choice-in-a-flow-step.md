@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146980
-description: フローステップで選択肢を追加を使用する方法を説明します。 選択ロジックを使用した条件に基づいてキャンペーンフローを分岐します。
+description: フローステップで「選択肢を追加」を使用する方法を説明します。 選択ロジックを使用して、条件にもとづいてキャンペーンフローを分岐できます。
 title: フローステップでの「選択肢を追加」の使用
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 90%
+ht-degree: 81%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 90%
 >
 >[スマートキャンペーンへのフローステップの追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-「選択肢を追加」を使用すると、フローステップを使用でき、「条件に応じた」詳細の選択ができます。
+「選択を追加」を使用すると、フローステップを使用して、詳細を選択する際に「依存する」と表示できます。
 
 1. スマートキャンペーンの「**[!UICONTROL フロー]**」タブで、任意のフローステップを追加し、「**[!UICONTROL 選択肢を追加]**」をクリックします。
 
@@ -27,7 +27,7 @@ ht-degree: 90%
 
    ![](assets/use-add-choice-in-a-flow-step-2.png)
 
-1. 選択肢の演算子を選択して、値を入力します。これにより基準すなわち選択肢が設定されます。
+1. 選択肢の演算子を選択して、値を入力します。 これにより基準すなわち選択肢が設定されます。
 
    ![](assets/use-add-choice-in-a-flow-step-3.png)
 
@@ -49,9 +49,9 @@ ht-degree: 90%
 
    >[!CAUTION]
    >
-   >フローステップに適用されるのは、最初に一致した選択肢だけです。詳しくは、[フローアクションの「選択肢を追加」の並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}を参照してください。
+   >フローステップに適用されるのは、最初に一致した選択肢だけです。 詳しくは、[フローアクションの「選択肢を追加」の並べ替え](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}を参照してください。
 
-   完了です。選択肢ごとに複数のスマートキャンペーンを作成するのではなく、フローステップ選択肢を用いた単一のスマートキャンペーンを作成できました。
+   選択肢ごとに複数のスマートキャンペーンを作成するのではなく、フローステップ選択肢を用いた単一のスマートキャンペーンを作成できました。
 
    >[!MORELIKETHIS]
    >

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1146935
-description: 「スケジュール」タブからトリガースマートキャンペーンをアクティブ化する方法について説明します。 キャンペーンをオンにして、トリガーのリッスンを開始します。
+description: 「スケジュール」タブからトリガースマートキャンペーンをアクティブ化する方法を説明します。 キャンペーンを有効にして、トリガーをリッスンします。
 title: トリガースマートキャンペーンのアクティブ化 | 「スケジュール」タブ
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 77%
+source-wordcount: '93'
+ht-degree: 65%
 
 ---
 
 # トリガースマートキャンペーンのアクティブ化 | 「スケジュール」タブ {#activate-a-trigger-smart-campaign-schedule-tab}
 
-トリガースマートキャンペーンのアクティブ化は、スマートキャンペーンをオンにすることと同じです。その方法を説明します。
+トリガーのスマートキャンペーンを有効にすることは、有効にするようなものです。
 
 1. スマートキャンペーンの「**[!UICONTROL スケジュール]**」タブで「**[!UICONTROL アクティブ化]**」をクリックします。
 

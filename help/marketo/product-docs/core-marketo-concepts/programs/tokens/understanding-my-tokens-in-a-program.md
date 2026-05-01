@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147114
-description: プログラムのマイトークンについて説明します。 トークンを使用して、プログラムまたはメンバーデータでコンテンツをパーソナライズします。
+description: プログラムのマイトークンについて説明します。 トークンを使用して、プログラムまたはメンバーのデータでコンテンツをパーソナライズします。
 title: プログラム内のマイトークンの理解
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '429'
-ht-degree: 94%
+source-wordcount: '441'
+ht-degree: 93%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 94%
 
 トークンは、メール、ランディングページ、スマートキャンペーンで使用する変数で、これにより作業が手軽になります。
 
-マイトークンに加えて、プログラムにビルトインされた任意のトークンを使用することもできます。詳しくは、[トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}を参照してください
+マイトークンに加えて、プログラムにビルトインされた任意のトークンを使用することもできます。 [ トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}を参照してください。
 
 ## マイトークン  {#my-tokens}
 
-マイトークンは、誰でも作成できるカスタム変数です。ローカルでは、これらは、キャンペーンフォルダーまたはプログラム内で[作成](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}されます。
+マイトークンは、誰でも作成できるカスタム変数です。 ローカルでは、これらは、キャンペーンフォルダーまたはプログラム内で[作成](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"}されます。
 
 マイトークンは次のように表示されます。`{{my.Name Of Token}}`
 
@@ -42,19 +42,19 @@ ht-degree: 94%
   </tr>
   <tr>
    <td><p>日 <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td>
-   <td>このトークンは日付値を保持します。日付は、年 - 月 - 日（例：2016-05-23）と表示されます。</td>
+   <td>このトークンは日付値を保持します。 日付は、年 - 月 - 日（例：2016-05-23）と表示されます。</td>
   </tr>
   <tr>
    <td>メールスクリプト <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>このトークンを使用して、メールで Velocity スクリプトを実行します。詳細は<a href="https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting" title="リンク先" rel="nofollow">こちら</a>を参照してください。 </td>
+   <td>このトークンを使用して、メールで Velocity スクリプトを実行します。 詳細は<a href="https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting" title="リンク先" rel="nofollow">こちら</a>を参照してください。 </td>
   </tr>
   <tr>
    <td>数字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>
-   <td>任意の整数。マイナスになることもあります。</td>
+   <td>任意の整数。 マイナスになることもあります。</td>
   </tr>
   <tr>
    <td>リッチテキスト <img alt="--" src="assets/image2014-9-25-16-3a46-3a22.png" data-linked-resource-id="3083234" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>これは HTML です。メールとランディングページで使用します。</td>
+   <td>これは HTML です。 メールとランディングページで使用します。</td>
   </tr>
   <tr>
    <td>スコア <img alt="--" src="assets/image2014-9-25-16-3a46-3a39.png" data-linked-resource-id="3083235" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
@@ -66,18 +66,18 @@ ht-degree: 94%
   </tr>
   <tr>
    <td>テキスト <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>テキストです。HTML が過剰な場合に使用します。テキストトークンのサイズ制限は 524,288 文字（UTF-8）または 2 MB です。</td>
+   <td>テキストです。 HTML が過剰な場合に使用します。 テキストトークンのサイズ制限は 524,288 文字（UTF-8）または 2 MB です。</td>
   </tr>
  </tbody>
 </table>
 
 >[!CAUTION]
 >
->[!DNL Microsoft Dynamics] または [!DNL Salesforce] のセールスインサイトからメールを送信しても、マイトークンは解決されません。標準のトークン（リード、会社など）のみが入力されます。ただし、トークンのデフォルト値は&#x200B;_機能します_。
+>[!DNL Microsoft Dynamics] または [!DNL Salesforce] のセールスインサイトからメールを送信しても、マイトークンは解決されません。標準のトークン（リード、会社など）のみが入力されます。 ただし、トークンのデフォルト値は&#x200B;_機能します_。
 
 ## トークンのネスト {#nesting-tokens}
 
-新しいトークンを作成すると、そのトークンをツリー内の他のオブジェクトで参照できます。管理を容易にするために、トークンが作成された場所に命名構造があります。
+新しいトークンを作成すると、そのトークンをツリー内の他のオブジェクトで参照できます。 管理を容易にするために、トークンが作成された場所に命名構造があります。
 
 * **ローカルトークン：**&#x200B;そのプログラムまたはフォルダーで適切に作成されたトークン。
 * **継承されたトークン：**&#x200B;ツリーの上位のプログラムまたはフォルダーの任意の場所に作成されたトークン。
@@ -85,11 +85,11 @@ ht-degree: 94%
 
 グローバル変数を作成して、ツリーの下位レベルで上書きできます。
 
-プログラムやフォルダーの移動はトークンにも影響を与えます。移動するときに参照が壊れていないことを必ず確認してください。
+プログラムやフォルダーの移動はトークンにも影響を与えます。 移動するときに参照が壊れていないことを必ず確認してください。
 
 >[!IMPORTANT]
 >
->[&#x200B; バッチキャンペーン &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"} では、ネストされたトークンはサポートされていません。
+>ネストされたトークンは、[ バッチキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}ではサポートされていません。
 
 >[!NOTE]
 >

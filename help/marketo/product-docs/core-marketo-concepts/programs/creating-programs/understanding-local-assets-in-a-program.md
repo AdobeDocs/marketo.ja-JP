@@ -1,25 +1,25 @@
 ---
 unique-page-id: 1147093
-description: プログラムのローカルアセットについて説明します。 プログラム内でのメール、ランディングページ、その他のアセットのライブについて説明します。
+description: プログラムのローカルアセットについて説明します。 プログラム内で電子メール、ランディングページ、その他のアセットがどのように利用されているかを把握できます。
 title: プログラムのローカルアセットの理解
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 82%
+source-wordcount: '103'
+ht-degree: 68%
 
 ---
 
 # プログラムのローカルアセットの理解 {#understanding-local-assets-in-a-program}
 
-ローカルアセットは、プログラムを構成するコンテンツです。アセットはカスタマイズ可能で、自動化されたマーケティング施策を構築できます。プログラムで作成できるローカルアセットのほぼすべてを次に示します。
+ローカルアセットは、プログラムを構成するコンテンツです。 アセットはカスタマイズ可能で、自動化されたマーケティング施策を構築できます。 プログラムで作成できるローカルアセットのほとんどは次のとおりです。
 
 ![](assets/one.png)
 
 >[!NOTE]
 >
->利用可能なすべてのアセットに、全員がアクセスできるわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>利用可能なすべてのアセットに、全員がアクセスできるわけではありません。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 * [スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}
 * [リスト](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md){target="_blank"}

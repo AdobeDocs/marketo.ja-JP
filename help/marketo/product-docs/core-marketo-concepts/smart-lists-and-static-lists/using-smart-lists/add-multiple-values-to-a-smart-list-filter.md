@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360496
-description: スマート・リスト・フィルタに複数の値を追加する方法を説明します。 柔軟性を高めるために、1 つのフィルターで複数の値のいずれかを一致させます。
+description: スマートリストフィルターに複数の値を追加する方法を説明します。 複数の値のいずれかを1つのフィルターで一致させて、柔軟性を高めます。
 title: スマートリストフィルターへの複数値の追加
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 85%
+source-wordcount: '138'
+ht-degree: 46%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 85%
 >* [スマートリストの作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [フィルターを検索してスマートリストに追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-カリフォルニア州在住のすべての人を検索する際に、「California」および「CA」の両方がデータベースに保存されている可能性があるとします。該当するすべての人物を含めるには、2 つの[!UICONTROL 州]フィルターを使用することもできますが、1 つのフィルターを使用する方が簡単です。
+例えば、カリフォルニア州のすべてのユーザーを検索する場合、データベースに「California」と「CA」の両方を保存している可能性があります。 該当するすべてのユーザーを含めるには、2つの[!UICONTROL 状態] フィルターを使用できますが、1つのフィルターを使用すると簡単になります。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -32,11 +32,10 @@ ht-degree: 85%
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-3.png)
 
-1. 左から値を選択するか、右に値を入力して「**[!UICONTROL OK]**」をクリックします。
+1. 左側から値を選択するか、右側に値を入力して、**[!UICONTROL OK]**&#x200B;をクリックします。
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-4.png)
 
-これで完了です。
 
 >[!MORELIKETHIS]
 >

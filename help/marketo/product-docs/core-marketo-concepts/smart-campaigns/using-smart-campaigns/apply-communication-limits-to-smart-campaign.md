@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147064
-description: スマートキャンペーンに通信制限を適用する方法を説明します。 ユーザーがキャンペーンを実行できるメールの数または時間の上限。
+description: スマートキャンペーンにコミュニケーション制限を適用する方法を説明します。 キャンペーンに参加できるメール数や回数を設定します。
 title: スマートキャンペーンへの通信制限の適用
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 70%
+source-wordcount: '148'
+ht-degree: 45%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 70%
 >
 >[通信制限の有効化](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
 
-1 日に何度もメールを送ったり、1 週間に送信するメールが多すぎたりするのは適切とは言えません。幸いにも、Marketo Engageには支援を行うためのコミュニケーションの制限があります。
+誰かに1日に何度もメールを送ったり、1週間に何度もメールを送ったりするのは良い考えではありません？ 幸いなことに、Marketo Engageにはコミュニケーションの限界があります。
 
 >[!NOTE]
 >
@@ -37,6 +37,6 @@ ht-degree: 70%
 
 >[!TIP]
 >
->これをデフォルトにするには、「管理者」セクションで [&#x200B; 通信の制限 &#x200B;](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} を編集します。
+>これをデフォルトにするには、「管理者」セクションで[通信制限](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}を編集します。
 
-誤ってオーディエンスに大量のメールを送信しないようにすることができます。
+オーディエンスに誤って多くのメールを送信していないことを確認できます。

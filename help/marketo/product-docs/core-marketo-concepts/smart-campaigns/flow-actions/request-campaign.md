@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951703
-description: キャンペーンリクエスト フローステップの使用方法を説明します。 このステップが完了したときに実行する別のキャンペーンをトリガーします。
+description: キャンペーンのリクエストフローステップの使用方法を説明します。 このステップに達したときに実行する別のキャンペーンをトリガーします。
 title: キャンペーンのリクエスト
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 85%
+source-wordcount: '130'
+ht-degree: 61%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 85%
 
 >[!NOTE]
 >
->人物を配置するキャンペーンは、アクティブで、かつ「[キャンペーンをリクエスト](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"}」トリガーが設定されている必要があります。
+>人物を配置するキャンペーンはアクティブで、[ キャンペーンがリクエスト済み](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"}のトリガーを持っている必要があります。
 
 1. **[!UICONTROL データベース]**&#x200B;で、目的の人物を検索して選択します。
 
@@ -31,15 +31,13 @@ ht-degree: 85%
 
    ![](assets/request-campaign-3.png)
 
-1. 完了すると、画面の右上に表示されます。「**[!UICONTROL 結果を表示]**」をクリックします。
+1. 画面の右上に、完了が表示されます。 「**[!UICONTROL 結果を表示]**」をクリックします。
 
    ![](assets/request-campaign-4.png)
 
    キャンペーンのリクエストに人物が追加されました。
 
    ![](assets/request-campaign-5.png)
-
-   これで完了です。
 
 >[!TIP]
 >

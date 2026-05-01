@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557337
-description: リストおよびスマート・リストのビューを作成および変更する方法を説明します。 「人物」タブに表示する列をカスタマイズします。
+description: リストとスマートリストのビューを作成および変更する方法を説明します。 「人物」タブに表示する列をカスタマイズします。
 title: リストおよびスマートリストのビューの作成と変更
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 91%
+source-wordcount: '227'
+ht-degree: 82%
 
 ---
 
 # リストおよびスマートリストのビューの作成と変更 {#create-and-change-views-for-lists-and-smart-list}
 
-スマートリストには、デフォルトの列セットが表示されます。列は自由に編集できるのをご存知でしたか？手順は次のとおりです。
+スマートリストには、デフォルトの列セットが表示されます。 これらの列はカスタマイズできます。
 
 ## ビューを作成する {#create-a-view}
 
@@ -35,7 +35,7 @@ ht-degree: 91%
 
 ## ビューを切り替える {#switch-views}
 
-1. 「**[!UICONTROL 表示]**」ドロップダウンから、目的のビューを選択します。必要に応じて、ビュー間を切り替えます。
+1. 「**[!UICONTROL 表示]**」ドロップダウンから、目的のビューを選択します。 必要に応じて、ビュー間を切り替えます。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-4.png)
 
@@ -45,7 +45,7 @@ ht-degree: 91%
 
 ## ビューを編集する {#edit-a-view}
 
-1. 編集するビューが「**[!UICONTROL 表示]**」ドロップダウンリストから選択できることを確認してください。
+1. 編集するビューが&#x200B;**[!UICONTROL ビュー]** ドロップダウンで選択されていることを確認します。
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 

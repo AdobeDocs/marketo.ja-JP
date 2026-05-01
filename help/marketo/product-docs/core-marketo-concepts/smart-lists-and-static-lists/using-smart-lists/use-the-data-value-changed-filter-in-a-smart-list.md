@@ -1,19 +1,19 @@
 ---
 unique-page-id: 557324
-description: スマート・リストでデータ値変更フィルタを使用する方法を説明します。 フィールド値が変更された場合にユーザーを検索します。
+description: スマートリストでデータ値変更フィルターを使用する方法を説明します。 フィールド値が変更されたときにユーザーを検索します。
 title: スマートリストでのデータ値変更済みフィルターの使用
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '151'
 ht-degree: 86%
 
 ---
 
 # スマートリストでのデータ値変更済みフィルターの使用 {#use-the-data-value-changed-filter-in-a-smart-list}
 
-値は常に変更され、Marketo データベース内で更新されます。特定の値を検索する代わりに、値が変わった人物を検索したい場合があります。手順は次のとおりです。
+値は常に変更され、Marketo データベース内で更新されます。 特定の値を検索する代わりに、値が変わった人物を検索したい場合があります。
 
 >[!PREREQUISITES]
 >
@@ -35,4 +35,4 @@ ht-degree: 86%
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-4.png)
 
-このフィルターは、ステータスに変更（あらゆる変更）が行われたすべての人物を検索します。さらに検索する場合は、[スマートリストフィルターへの制約の追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}も試してみてください。
+このフィルターは、ステータスに変更（あらゆる変更）が行われたすべての人物を検索します。 さらに検索する場合は、[スマートリストフィルターへの制約の追加](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}も試してみてください。
