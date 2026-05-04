@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360281
-description: プログラムチャネルがプログラムに関連付けられていない場合にプログラムチャネルを削除する手順、またはプログラムチャネルが使用中の場合にプログラムチャネルを非表示にする手順。
+description: プログラム チャネルがプログラムに関連付けられていない場合は削除し、使用されている場合は非表示にする手順。
 title: プログラムチャネルの削除
 exl-id: 0a46cafb-3f9d-422a-a08c-92bcbb80da8e
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 78%
+source-wordcount: '105'
+ht-degree: 65%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 78%
 
    ![](assets/delete-a-program-channel-2.png)
 
-1. 削除するチャネルを選択します。**[!UICONTROL タグアクション]**&#x200B;ドロップダウンで、**[!UICONTROL 削除]**&#x200B;をクリックします。
+1. 削除するチャネルを選択します。 **[!UICONTROL タグアクション]**&#x200B;ドロップダウンで、**[!UICONTROL 削除]**&#x200B;をクリックします。
 
    >[!TIP]
    >
-   >チャネルがプログラムに関連付けられている場合、非表示にすることはできますが、削除はできません。
+   >チャネルが任意のプログラムに関連付けられている場合は、削除することはできず、非表示にするだけです。
 
    ![](assets/delete-a-program-channel-3.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950660
-description: 値を使用して新しいタグタイプを作成し、適用するプログラムタイプを選択して、必須またはオプションとしてタグを設定する方法。
+description: 値を使用して新しいタグタイプを作成し、適用するプログラムタイプを選択し、必要またはオプションとしてタグを設定する方法。
 title: カスタムタグの作成
 exl-id: f8efcbf5-7557-4cdf-b4e6-29d25b2fdd75
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 89%
+ht-degree: 68%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->詳しくは、[タグについて](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)を参照してください。
+>詳しくは、[ タグについて](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)を参照してください。
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ ht-degree: 89%
 
    ![](assets/create-custom-tags-4.png)
 
-1. タグタイプの目的の「値」を入力します。「**[!UICONTROL さらに追加]**」をクリックして、追加の値を入力します。
+1. タグタイプの目的の「値」を入力します。 「**[!UICONTROL さらに追加]**」をクリックして、追加の値を入力します。
 
    ![](assets/create-custom-tags-5.png)
 
@@ -58,11 +58,11 @@ ht-degree: 89%
    >[!NOTE]
    >
    >* 新しいプログラムが作成されるたびにこのタグを追加する場合は、「[!UICONTROL 必須]」を選択します。
-   >* 「[!UICONTROL 適用対象]」リストからプログラムタイプを削除すると、そのタイプの既存のすべてのプログラムからタグおよびその値が削除されます。既存のタグの値を保持し、このタグをオプションにして先に進み、_すべて_&#x200B;のプログラムタイプをリスト表示するには、「必須」チェックボックスを選択解除したままにします。
+   >* 「[!UICONTROL 適用対象]」リストからプログラムタイプを削除すると、そのタイプの既存のすべてのプログラムからタグおよびその値が削除されます。 既存のタグの値を保持し、このタグをオプションにして先に進み、_すべて_&#x200B;のプログラムタイプをリスト表示するには、「必須」チェックボックスを選択解除したままにします。
 
    >[!TIP]
    >
-   >一部のプログラムタイプで必要な類似のタグを他のプログラムタイプではオプションにする場合、それぞれ異なるプログラムタイプに適用する、2 つの異なるタグを設定する必要があります（「[!UICONTROL 必須]」を選択したものと「[!UICONTROL 必須]」を選択しないもの）。
+   >一部のプログラムタイプに必要な類似のタグを作成する場合に、他のプログラムタイプに対してオプションのタグを作成する場合は、2つの個別のタグを設定する必要があります。それぞれ、「[!UICONTROL Required]」が選択されたプログラムタイプに適用され、もう1つは「[!UICONTROL Required]」が選択されていない場合に適用されます。
 
 1. 「**[!UICONTROL 作成]**」をクリックします。
 

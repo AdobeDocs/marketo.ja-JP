@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360276
-description: プログラムチャネルが使用中の場合に非表示にする手順、または「非表示を表示」チェックボックスを使用して非表示を解除する手順。
+description: 使用中のプログラムチャネルを非表示にする手順や、「非表示を表示」チェックボックスを使用して表示を解除する手順を説明します。
 title: プログラムチャネルの表示設定の切り替え
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 83%
+source-wordcount: '112'
+ht-degree: 50%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 83%
 >
 >**管理者権限が必要**
 
-どのプログラムにも使用されていない[プログラムチャネルを削除](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)できます。一度使用したプログラムチャネルは削除できませんが、不要になった場合は非表示にできます。
+プログラム チャネル ](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)がプログラムで使用されていない場合は、そのチャネルを[削除できます。  ただし、一度使用されると、システムに残る必要があります。 不要になった場合は非表示にできます。
 
 ## プログラムチャネルを非表示にする {#hide-a-program-channel}
 
@@ -36,8 +36,6 @@ ht-degree: 83%
 1. 「**[!UICONTROL タグアクション]**」で「**[!UICONTROL 非表示]**」をクリックします。
 
    ![](assets/hide-unhide-a-program-channel-4.png)
-
-簡単ですね。
 
 ## プログラムチャネルを再表示する {#unhide-a-program-channel}
 

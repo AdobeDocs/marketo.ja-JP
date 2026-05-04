@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360272
-description: カスタムプログラムタグを作成して値を割り当て、プログラムタイプを選択し、新しいプログラムを作成するときにタグを必須にする方法。
+description: カスタムプログラムタグを作成して値を割り当て、プログラムタイプを選択し、新しいプログラムを作成するときに必要なタグを作成する方法。
 title: プログラムタグとタグ値の新規作成
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
 source-wordcount: '174'
-ht-degree: 87%
+ht-degree: 77%
 
 ---
 
@@ -39,17 +39,17 @@ ht-degree: 87%
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. **[!UICONTROL タグタイプ]**&#x200B;とタグ&#x200B;**[!UICONTROL 値]**&#x200B;を入力します。「**[!UICONTROL さらに追加]**」をクリックします。
+1. **[!UICONTROL タグタイプ]**&#x200B;とタグ&#x200B;**[!UICONTROL 値]**&#x200B;を入力します。 「**[!UICONTROL さらに追加]**」をクリックします。
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
-1. 必要な数の値を入力します。このタグを適用するプログラムタイプを選択します。
+1. 必要な数の値を入力します。 このタグを適用するプログラムタイプを選択します。
 
    ![](assets/create-a-new-program-tag-and-tag-values-5.png)
 
    >[!TIP]
    >
-   >複数のプログラムタイプを選択できます。新しいプログラムを作成すると、このタグタイプが使用可能になります。
+   >複数のプログラムタイプを選択できます。 新しいプログラムを作成すると、このタグタイプが使用可能になります。
 
 1. 「**[!UICONTROL 必須]**」にチェックを入れて「**[!UICONTROL 作成]**」をクリックします。
 
@@ -61,4 +61,4 @@ ht-degree: 87%
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 
-ユーザがプログラムを作成する際には、作成したタグのカスタム値を設定する必要があります。
+ユーザーがプログラムを作成する際には、作成したタグのカスタム値を設定する必要があります。

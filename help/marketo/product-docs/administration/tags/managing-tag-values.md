@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360274
-description: タグタイプの選択や「非表示を表示」オプションの使用など、プログラムタグのタグ値を追加、非表示および表示する方法。
+description: タグタイプの選択や「非表示を表示」オプションの使用など、プログラムタグのタグ値を追加、非表示、表示する方法。
 title: タグ値の管理
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 89%
+ht-degree: 78%
 
 ---
 
 # タグ値の管理 {#managing-tag-values}
 
-[タグは、プログラムの説明に用いられます。](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)タグは、必要なだけ、固有の値を設定して作成できます。これらの値の管理方法をプロファイルに示します。
+[タグは、プログラムの説明に用いられます。](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) タグは、必要なだけ、固有の値を設定して作成できます。 以下の手順では、これらの値を管理する方法を説明します。
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ ht-degree: 89%
 
    ![](assets/managing-tag-values-4.png)
 
-1. **[!UICONTROL 値]**&#x200B;を入力して、「**[!UICONTROL さらに追加]**」をクリックします。任意の数の値を追加できます。
+1. **[!UICONTROL 値]**&#x200B;を入力して、「**[!UICONTROL さらに追加]**」をクリックします。 必要なだけいくらでも値を追加できます。
 
    ![](assets/managing-tag-values-5.png)
 
@@ -49,13 +49,13 @@ ht-degree: 89%
 
    ![](assets/managing-tag-values-6.png)
 
-すぐに変更が反映されるはずです。
+変更はすぐに表示されます。
 
 ![](assets/managing-tag-values-7.png)
 
 ## タグ値の非表示 {#hiding-tag-values}
 
-タグは古いプログラムで使用される場合があります。タグタイプを非表示にすることで、今後の使用を避けることができます。
+タグは古いプログラムで使用される場合があります。 タグタイプを非表示にすることで、今後の使用を避けることができます。
 
 1. **[!UICONTROL タグ]**&#x200B;をクリックし、非表示にする&#x200B;**[!UICONTROL 値]**&#x200B;を選択します。
 
@@ -69,7 +69,7 @@ ht-degree: 89%
 
 非表示の値を再度表示する場合は、プロファイルの操作を行います。
 
-1. 「**[!UICONTROL 非表示を表示]**」チェックボックスを選択します。オンにすると、非表示の値を表示できます。
+1. 「**[!UICONTROL 非表示を表示]**」チェックボックスを選択します。 オンにすると、非表示の値を表示できます。
 
    ![](assets/managing-tag-values-10.png)
 

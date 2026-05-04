@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360278
-description: タグの管理にあるチャネルからプログラムステータスを削除する方法（ステータスを削除するのではなく非表示にする必要がある場合を含む）。
+description: ステータスを削除する代わりに非表示にする必要がある場合など、タグの下の管理者のチャネルからプログラムステータスを削除する方法。
 title: プログラムチャネルからプログラムステータスを削除
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 82%
+source-wordcount: '131'
+ht-degree: 46%
 
 ---
 
 # プログラムチャネルからプログラムステータスを削除 {#delete-a-program-status-from-a-program-channel}
 
-プログラムステータスは、プログラムパス（チャネル）を介したチェックポイントです。ステータスを誤って作成した場合や、不要になった場合は、自由に削除してください。
+プログラムステータスとは、プログラムのパス（チャネル）を通過するチェックポイントのことです。 間違ってステータスを作成した場合、またはステータスが不要になった場合は、ステータスを削除できます。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -33,6 +33,6 @@ ht-degree: 82%
 
    >[!TIP]
    >
-   >現在、問題のステータスに割り当てられているリードは削除できませんが、非表示にすることはできます。
+   >現在、問題のステータスに割り当てられている人がいる場合は、削除することはできませんが、非表示にすることができます。
 
-うまくいきました。必要な場合には、[チャネル全体を削除](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)することもできます。
+必要な場合には、[チャネル全体を削除](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)することもできます。
