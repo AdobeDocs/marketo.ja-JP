@@ -17,7 +17,7 @@ ht-degree: 50%
 >
 >**管理者権限が必要**
 
-プログラム チャネル ](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)がプログラムで使用されていない場合は、そのチャネルを[削除できます。  ただし、一度使用されると、システムに残る必要があります。 不要になった場合は非表示にできます。
+プログラム チャネル [&#128279;](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)がプログラムで使用されていない場合は、そのチャネルを削除できます。  ただし、一度使用されると、システムに残る必要があります。 不要になった場合は非表示にできます。
 
 ## プログラムチャネルを非表示にする {#hide-a-program-channel}
 

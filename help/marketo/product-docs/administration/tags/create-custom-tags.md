@@ -17,7 +17,7 @@ ht-degree: 68%
 
 >[!NOTE]
 >
->詳しくは、[ タグについて](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)を参照してください。
+>詳しくは、[&#x200B; タグについて](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md)を参照してください。
 
 >[!NOTE]
 >
