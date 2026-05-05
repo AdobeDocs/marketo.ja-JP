@@ -1,12 +1,12 @@
 ---
-description: Marketoとの ON24 統合の設定方法について説明します。 ON24 アカウントを接続して、ウェビナーと登録データを同期できます。
+description: MarketoとON24統合を設定する方法について説明します。 ON24 アカウントを接続して、ウェビナーと登録データを同期できます。
 title: ON24 と Marketo の統合設定
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 92%
+source-wordcount: '299'
+ht-degree: 89%
 
 ---
 
@@ -28,7 +28,7 @@ ON24 イベント統合の設定方法を以下に示します。
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. [!UICONTROL ロール名]を入力します。**[!UICONTROL Access API]** メニューを開き、「[!UICONTROL 読み取り／書き込みカスタムオブジェクト]」および「[!UICONTROL 読み取り／書き込み担当者]」を選択します。「**[!UICONTROL 作成]**」をクリックします。
+1. [!UICONTROL ロール名]を入力します。 **[!UICONTROL Access API]** メニューを開き、「[!UICONTROL 読み取り／書き込みカスタムオブジェクト]」および「[!UICONTROL 読み取り／書き込み担当者]」を選択します。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
@@ -42,7 +42,7 @@ ON24 イベント統合の設定方法を以下に示します。
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. 作成した [!UICONTROL ON24 API 専用ロール（すべてのワークスペース）]を選択します。「**[!UICONTROL API 専用]**」チェックボックスを選択します。「**[!UICONTROL 次へ]**」をクリックします。
+1. 作成した [!UICONTROL ON24 API 専用ロール（すべてのワークスペース）]を選択します。 「**[!UICONTROL API 専用]**」チェックボックスを選択します。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
@@ -52,7 +52,7 @@ ON24 イベント統合の設定方法を以下に示します。
 
 >[!NOTE]
 >
->API 専用ユーザの場合、招待は必要ありません。
+>APIのみのユーザーには招待は必要ありません。
 
 ## ON24 接続の設定 {#set-up-on24-connection}
 
@@ -64,7 +64,7 @@ ON24 イベント統合の設定方法を以下に示します。
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. [!UICONTROL 表示名]を選択します。「**[!UICONTROL サービス]**」ドロップダウンをクリックし、「**[!UICONTROL カスタム]**」を選択します。[!UICONTROL 説明]を入力します。[!UICONTROL API 専用ユーザ]ドロップダウンをクリックし、[上記の手順](#create-a-new-user)で作成したユーザを選択します。「**[!UICONTROL 作成]**」をクリックします。
+1. [!UICONTROL 表示名]を選択します。 「**[!UICONTROL サービス]**」ドロップダウンをクリックし、「**[!UICONTROL カスタム]**」を選択します。 [!UICONTROL 説明]を入力します。 [!UICONTROL API 専用ユーザ]ドロップダウンをクリックし、[上記の手順](#create-a-new-user)で作成したユーザを選択します。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
@@ -72,7 +72,7 @@ ON24 イベント統合の設定方法を以下に示します。
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 
-1. [!UICONTROL クライアント ID] をハイライト表示し、右クリックしてコピーし、保存します（後で必要になります）。[!UICONTROL クライアント秘密鍵]に対して繰り返します。
+1. [!UICONTROL クライアント ID] をハイライト表示し、右クリックしてコピーし、保存します（後で必要になります）。 [!UICONTROL クライアント秘密鍵]に対して繰り返します。
 
    ![](assets/set-up-the-on24-integration-with-marketo-13.png)
 
@@ -84,4 +84,4 @@ ON24 イベント統合の設定方法を以下に示します。
 
    ![](assets/set-up-the-on24-integration-with-marketo-15.png)
 
-1. 保存したクライアント ID、クライアント秘密鍵および ID を使用して、ON24 アカウントに移動します。残りの手順はそこで実行します。[ON24 ドキュメント](https://support.on24.com/hc/ja-jp/articles/21420762650523-Data-Integration-Setup-Instructions-When-Using-Marketo-Registration-Option-1){target="_blank"}を参照してください。
+1. 保存したクライアント ID、クライアント秘密鍵および ID を使用して、ON24 アカウントに移動します。 残りの手順はそこで実行します。[ON24 ドキュメント](https://support.on24.com/hc/ja-jp/articles/21420762650523-Data-Integration-Setup-Instructions-When-Using-Marketo-Registration-Option-1){target="_blank"}を参照してください。

@@ -1,39 +1,39 @@
 ---
 unique-page-id: 2359566
-description: Marketo フォームのフィールドラベルを編集する方法について説明します。 フォームフィールドの横に表示されるラベルテキストを変更します。
+description: Marketo フォームでフィールドラベルを編集する方法について説明します。 フォームフィールドの横に表示されるラベルテキストを変更します。
 title: フォーム内のフィールドラベルの編集
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 53%
+source-wordcount: '131'
+ht-degree: 52%
 
 ---
 
 # フォーム内のフィールドラベルの編集 {#edit-a-field-label-in-a-form}
 
-フォーム上のラベルは何にでも変更できます。画像を使用したり、完全に消去することもできます。その方法を説明しましょう。
+フォーム上のラベルは何にでも変更できます。画像を使用したり、完全に消去することもできます。 その方法を説明しましょう。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/edit-a-field-label-in-a-form-1.png)
 
-1. フォームを選択し、「**[!UICONTROL ドラフトを作成]**」をクリックします。
+1. フォームを選択し、**[!UICONTROL 下書きを作成]**&#x200B;をクリックします。
 
    ![](assets/edit-a-field-label-in-a-form-2.png)
 
    >[!NOTE]
    >
-   >フォームが承認されていない場合は、「**ドラフトを編集**」をクリックします。
+   >フォームが承認されていない場合は、**下書きを編集**&#x200B;をクリックします。
 
-1. フィールドを選択して、**[!UICONTROL ラベル]**&#x200B;を編集します。フォーム設定のフィールドには、入力したラベルが反映されます。
+1. フィールドを選択して、**[!UICONTROL ラベル]**&#x200B;を編集します。 フォーム設定のフィールドには、入力したラベルが反映されます。
 
    ![](assets/edit-a-field-label-in-a-form-3.png)
 
    >[!TIP]
    >
-   >![&#x200B; 鉛筆 &#x200B;](assets/icon-pencil.png) アイコンをクリックして、リッチテキストエディターにアクセスします。
+   >「![鉛筆](assets/icon-pencil.png)」アイコンをクリックして、リッチテキストエディターにアクセスします。
 
 1. 「**[!UICONTROL 終了]**」をクリックします。
 
@@ -45,4 +45,4 @@ ht-degree: 53%
 
 >[!NOTE]
 >
->フォームの変更によって作成された [&#x200B; ランディングページのドラフトを承認 &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} することを忘れないでください。
+>フォームの変更によって作成されたランディングページのドラフト ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}を[承認することを忘れないでください。

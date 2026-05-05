@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14746491
-description: Sales Connect でメールを確認する方法を説明します。 メールの検証を完了すると、トラッキングされた販売メールを送信できます。
+description: Sales Connectでメールを確認する方法を説明します。 電子メールの検証を完了して、追跡された販売メールを送信できるようにします。
 title: メールの認証
 exl-id: 43aa286c-c7af-40c6-a9ea-7ab3c6544733
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 80%
+source-wordcount: '97'
+ht-degree: 65%
 
 ---
 
 # メールの認証 {#verify-your-email}
 
-認証されていないメール ID がある場合は、次の手順に従います。
+確認されていない電子メール IDがある場合は、次の手順に従います。
 
 1. 右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
@@ -23,7 +23,7 @@ ht-degree: 80%
 
    ![](assets/verify-your-email-2.png)
 
-1. 「[!UICONTROL アドレスと署名]」で、確認するメール ID を探し、「**[!UICONTROL 認証メールを再送信]**」をクリックします。新しい確認用メールが送信されます。
+1. 「[!UICONTROL アドレスと署名]」で、確認するメール ID を探し、「**[!UICONTROL 認証メールを再送信]**」をクリックします。 新しい確認用メールが送信されます。
 
    ![](assets/verify-your-email-3.png)
 

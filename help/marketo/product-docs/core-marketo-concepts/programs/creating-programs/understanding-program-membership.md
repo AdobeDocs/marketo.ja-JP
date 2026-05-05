@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147091
-description: プログラムメンバーシップと、ユーザーによるプログラムへのエントリ方法について説明します。 プログラムメンバーのステータスと成功について
+description: プログラムのメンバーシップと、ユーザーがプログラムを入力する方法について説明します。 プログラムメンバーのステータスと成功を把握。
 title: プログラムメンバーシップについて
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 94%
+source-wordcount: '278'
+ht-degree: 88%
 
 ---
 
@@ -38,25 +38,25 @@ ht-degree: 94%
 
 ## プログラムのステータス {#program-statuses}
 
-プログラムのステータスとは、プログラムでユーザが通過する手順を指します（招待済み、返信依頼済み、出席済み、欠席など）。これらの手順は、[チャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}で定義されます。
+プログラムのステータスとは、プログラムでユーザが通過する手順を指します（招待済み、返信依頼済み、出席済み、欠席など）。 これらの手順は、[チャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}で定義されます。
 
 ![](assets/image2015-2-5-15-3a14-3a48.png)
 
 >[!NOTE]
 >
->人物は、以前のプログラムステータスに戻ることはできません。ステータスの進行は一方向のみです。
+>人物は、以前のプログラムステータスに戻ることはできません。 ステータスの進行は一方向のみです。
 
 ## 成功のステータス {#success-statuses}
 
-プログラムの目的は、人物または見込み客との有意義なインタラクションを作成することです。成功は、人物がその目標に達成するステータスに達したときにマークされます。
+プログラムの目的は、人物または見込み客との有意義なインタラクションを作成することです。 成功は、人物がその目標に達成するステータスに達したときにマークされます。
 
 >[!NOTE]
 >
->ウェビナーの場合、登録は、実際にウェビナーを見ない限り、意味のあるインタラクションではありません。この場合、出席が成功です。
+>ウェビナーの場合、登録は、ウェビナーを実際に視聴していない場合、意味のあるインタラクションではありません。 この場合、出席が成功です。
 
 ## 新規顧客獲得プログラム {#acquisition-program}
 
-新しい名前がプログラムメンバーとしてシステムに入力されると、Marketo は自動的にそのプログラムを「獲得」として設定します。これにより、[ファーストタッチ属性](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}にクレジットが設定されます。
+新しい名前がプログラムメンバーとしてシステムに入力されると、Marketo は自動的にそのプログラムを「獲得」として設定します。 これにより、[ファーストタッチ属性](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}にクレジットが設定されます。
 
 >[!MORELIKETHIS]
 >

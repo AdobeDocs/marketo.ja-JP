@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100269
-description: カスタムアクティビティを編集する方法と、ドラフトまたは公開済みステータスがどのように影響を受けるかを説明します。
+description: カスタムアクティビティを編集する方法と、ドラフトまたは公開されたステータスに与える影響について説明します。
 title: カスタムアクティビティの編集
 exl-id: bdfbf0aa-0035-46d2-80dd-21a1366c6514
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 86%
+source-wordcount: '115'
+ht-degree: 54%
 
 ---
 
 # カスタムアクティビティの編集 {#edit-a-custom-activity}
 
-作成済みのカスタムアクティビティに変更を加える必要がある場合、手順は以下のとおりです。
+作成済みのカスタムアクティビティを変更するには、次の手順に従います。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -31,16 +31,16 @@ ht-degree: 86%
 
    ![](assets/edit-a-custom-activity-4.png)
 
-   アクティビティタイプを編集が表示されます。この例では、タイポを修正します。
+   アクティビティタイプを編集が表示されます。 この例では、タイプミスが修正されています。
 
    ![](assets/edit-a-custom-activity-5.png)
 
-1. 新しい情報を入力し、「**[!UICONTROL 送信]**」をクリックします。
+1. 更新された情報を入力し、**[!UICONTROL 送信]**&#x200B;をクリックします。
 
    ![](assets/edit-a-custom-activity-6.png)
 
-   カスタムアクティビティが編集されました。
+   カスタムアクティビティが更新されました。
 
    >[!NOTE]
    >
-   >編集時にアクティビティがドラフトだった場合、そのアクティビティはドラフトのままです。公開された場合、ステータスは「ドラフトで公開」に変わります。
+   >編集時にアクティビティがドラフトだった場合、そのアクティビティはドラフトのままです。 公開された場合、ステータスは「ドラフトで公開」に変わります。

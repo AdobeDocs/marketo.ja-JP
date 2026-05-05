@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2359569
-description: Marketoでフォームフィールドを必須にする方法を説明します。 フォームを送信する前に、訪問者がフィールドに入力する必要があります。
+description: Marketoで必要なフォームフィールドを作成する方法について説明します。 訪問者がフォームを送信する前に、フィールドに入力することを要求します。
 title: フォームフィールドを必須にする
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '119'
 ht-degree: 30%
 
 ---
 
 # フォームフィールドを必須にする {#make-a-form-field-required}
 
-[&#x200B; フォームにフィールドを追加 &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"} する際に、フィールドの入力者に対して、いくつかのフィールドを必須にする必要がある場合があります。 手順は次のとおりです。
+フォームにフィールドを[追加する場合](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}は、フォームに入力するユーザーに対してフィールドの一部を必須にすることができます。 手順は以下のとおりです。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/make-a-form-field-required-1.png)
 
-1. フォームを選択し、「**[!UICONTROL ドラフトを作成]**」をクリックします。
+1. フォームを選択し、**[!UICONTROL 下書きを作成]**&#x200B;をクリックします。
 
    ![](assets/make-a-form-field-required-2.png)
 
    >[!NOTE]
    >
-   >フォームが承認されていない場合は、「**ドラフトを編集**」をクリックします。
+   >フォームが承認されていない場合は、**下書きを編集**&#x200B;をクリックします。
 
 1. 必須にするフィールドを選択し、「**[!UICONTROL 必須]**」をオンにします。
 
    ![](assets/make-a-form-field-required-3.png)
 
-1. これで完了です。「**[!UICONTROL 終了]**」をクリックします。
+1. これで完了です。 「**[!UICONTROL 終了]**」をクリックします。
 
    ![](assets/make-a-form-field-required-4.png)
 
@@ -41,8 +41,8 @@ ht-degree: 30%
 
 >[!NOTE]
 >
->このフォームは変更の反映まで有効です。[&#x200B; すべてのランディングページを承認 &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} することを忘れないでください。
+>変更を公開するには、このフォームが有効になっている[ ランディングページを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}することを忘れないでください。
 
 >[!MORELIKETHIS]
 >
->[&#x200B; フォームに追加したフィールドの並べ替え &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"}
+>[ フォームに追加したフィールドを並べ替え](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"}

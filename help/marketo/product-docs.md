@@ -2,15 +2,15 @@
 unique-page-id: 1147279
 description: 製品ドキュメント - Marketo ドキュメント - 製品ドキュメント
 title: 製品ドキュメント
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '154'
-ht-degree: 100%
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 25%
 
 ---
 
 
 # 製品ドキュメント {#product-docs}
 
-Marketo の学習には、いくつかの重要な要素があります。これらを学べば、Marketo は半分マスターできています。
-**![中心概念](assets/education-science-12.png)中心概念** [中心概念 これらを学べば、Marketo は半分習得できています。](product-docs/core-marketo-concepts.md)     **![メールとモバイル](assets/valentine-day-10.png)メールとモバイル** [メールとモバイル Marketo には、オーディエンスとのコミュニケーションを円滑に行うための優れたツールが数多く用意されています。](https://docs.marketo.com/pages/viewpage.action?pageId=557076)     **![デマンドジェネレーション](assets/seo-04.png)デマンドジェネレーション** [デマンドジェネレーション カスタムフォームおよびソーシャルウィジェットを使用してランディングページを作成します。](product-docs/demand-generation.md)     **![パーソナライゼーション](assets/graphic-design-tools-19.png)パーソナライゼーション** [パーソナライゼーション マーケティングが個人化されればされるほど、応答の可能性は高くなります。](product-docs/personalization.md)     **![レポート](assets/office-21.png)レポート** [レポート 実用的なインサイト。インボックスに直接届くようにすることもできます。](product-docs/reporting.md)     **![管理](assets/technology-08.png)管理** [管理 管理者が知っておくべき情報が揃っています。](https://docs.marketo.com/display/DOCS/Administration)     **![その他のアプリ](assets/food-10.png)その他のアプリ** [その他のアプリ リード管理が得意なだけではありません。](product-docs/additional-apps.md)     **![CRM 同期](assets/seo-33.png)CRM 同期** [CRM 同期 ここはマジックが起こる場所です。](product-docs/crm-sync.md)
+Marketo の学習には、いくつかの重要な要素があります。 これらを学べば、Marketo は半分マスターできています。
+**![コアコンセプト ](assets/education-science-12.png) コアコンセプト** [ コアコンセプトこれらの内容を学習すると、Marketoの習得の半分になります。](product-docs/core-marketo-concepts.md)     **![電子メールとモバイル ](assets/valentine-day-10.png)電子メールとモバイル** [電子メールとモバイル Marketoには、オーディエンスと柔軟にコミュニケーションするための優れたツールが多数用意されています。](https://docs.marketo.com/pages/viewpage.action?pageId=557076)     **![需要創出](assets/seo-04.png)需要創出** [需要創出カスタムフォームとソーシャルウィジェットを使用してランディングページを作成します。](product-docs/demand-generation.md)     **![Personalization](assets/graphic-design-tools-19.png)Personalization** [Personalization マーケティングを個別化すればするほど、対応する可能性が高まります。](product-docs/personalization.md)     **![レポート ](assets/office-21.png) レポート** [実用的なインサイトをレポートします。 アイテムを受信トレイに直接配信することもできます。](product-docs/reporting.md)     **![管理](assets/technology-08.png)管理** [管理アドミンクラブに所属している場合、必要な情報は次のとおりです。](https://docs.marketo.com/display/DOCS/Administration)     **![追加アプリ ](assets/food-10.png)追加アプリ** [追加アプリ リード管理は、私たちが得意とする唯一のものではありません。](product-docs/additional-apps.md)     **![CRM同期](assets/seo-33.png)CRM同期** [CRM同期ここが魔法のようなことが起こります。](product-docs/crm-sync.md)

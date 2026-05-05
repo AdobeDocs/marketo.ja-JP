@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100272
-description: カスタムアクティビティを公開する手順。
+description: カスタムアクティビティを公開する手順
 title: カスタムアクティビティの公開
 exl-id: 16ac19ed-8c31-4ddf-819e-72a0ec8a3904
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 91%
+source-wordcount: '58'
+ht-degree: 65%
 
 ---
 
 # カスタムアクティビティの公開 {#publish-a-custom-activity}
 
-望んだとおりのカスタムアクティビティが準備できたら、公開しましょう。
+カスタムアクティビティを公開する方法を説明します。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -31,12 +31,10 @@ ht-degree: 91%
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   カスタムアクティビティの[!UICONTROL 状態]が、[!UICONTROL 下書き]から...
+   カスタムアクティビティの[!UICONTROL 状態]が[!UICONTROL  ドラフト ]から変更されました…
 
    ![](assets/publish-a-custom-activity-5.png)
 
    ...[!UICONTROL 公開済み]に変更されました。
 
    ![](assets/publish-a-custom-activity-6.png)
-
-   うまくいきました。

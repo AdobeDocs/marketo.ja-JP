@@ -1,32 +1,32 @@
 ---
 unique-page-id: 2359400
-description: Marketoでフォームテーマを選択する方法を説明します。 フォームのルックアンドフィールを制御するテーマを選択します。
+description: Marketoでフォームテーマを選択する方法について説明します。 フォームの外観をコントロールするテーマを選択します。
 title: フォームのテーマの選択
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 75%
+source-wordcount: '151'
+ht-degree: 65%
 
 ---
 
 # フォームのテーマの選択 {#select-a-form-theme}
 
-フォームのために素敵なテーマをたくさん作りました。どちらが一番お好きですか。
+フォームのために素敵なテーマをたくさん作りました。 どちらが一番お好きですか。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/select-a-form-theme-1.png)
 
 
-1. フォームを選択し、「**[!UICONTROL ドラフトを作成]**」をクリックします。
+1. フォームを選択し、**[!UICONTROL 下書きを作成]**&#x200B;をクリックします。
 
    ![](assets/select-a-form-theme-2.png)
 
    >[!NOTE]
    >
-   >フォームが承認されていない場合は、「**ドラフトを編集**」をクリックします。
+   >フォームが承認されていない場合は、**下書きを編集**&#x200B;をクリックします。
 
 1. 「**[!UICONTROL フォームの設定]**」に移動します。
 
@@ -54,7 +54,7 @@ ht-degree: 75%
 
    ![](assets/select-a-form-theme-5.png)
 
-簡単でしたね。HTML／CSS の本は読まなくても大丈夫です。
+どれだけ簡単だったか？! HTML/CSS ブックにゴミを集めさせることができます。
 
 >[!MORELIKETHIS]
 >

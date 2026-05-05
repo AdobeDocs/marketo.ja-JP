@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10096409
-description: エンゲージメントプログラムでの重複メールを防止または許可するシナリオについて説明します。 プログラムメンバーシップと CEE ルールを使用して、繰り返しを避けます。
+description: エンゲージメントプログラムでメールの重複を防止または許可するシナリオについて説明します。 繰り返しを避けるために、プログラムメンバーシップとCEE ルールを使用します。
 title: 重複コンテンツ送信の回避
 exl-id: fd7118e8-6e34-4973-8aa5-effb774447fd
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 90%
+source-wordcount: '217'
+ht-degree: 88%
 
 ---
 
 # 重複コンテンツ送信の回避 {#avoid-sending-duplicate-content}
 
-同じメールを 2 回受け取ったことがありますか。いやですよね。
+同じメールを 2 回受け取ったことがありますか。 迷惑ですよね？
 
 エンゲージメントプログラムで同じメッセージが 2 回送信されるのを防ぐために考慮すべき 7 つのシナリオと結果を次に示します。
 

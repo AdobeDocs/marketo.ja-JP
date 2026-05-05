@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10100275
-description: カスタムアクティビティでフィールドを追加、編集、削除する方法。
-title: Marketo のカスタムアクティビティフィールドの追加／編集／削除
+description: カスタムアクティビティでフィールドを追加、編集、または削除する方法。
+title: Marketo カスタムアクティビティフィールドの追加、編集、削除
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 96%
+source-wordcount: '288'
+ht-degree: 56%
 
 ---
 
-# Marketo のカスタムアクティビティフィールドの追加／編集／削除 {#add-edit-delete-marketo-custom-activity-fields}
+# Marketo カスタムアクティビティフィールドの追加、編集、削除 {#add-edit-delete-marketo-custom-activity-fields}
 
-カスタムアクティビティフィールドの追加、変更、削除が必要になる場合があります。手順は次のとおりです。
+カスタムアクティビティフィールドを追加、変更、削除する方法について説明します。
 
 ## カスタムアクティビティフィールドの追加 {#add-a-custom-activity-field}
 
@@ -43,13 +43,13 @@ ht-degree: 96%
 
    >[!TIP]
    >
-   >何を選択してよいかわからなくても、心配はありません。使用可能なすべてのデータタイプは、[この記事](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)に定義されています。
+   >使用可能なすべてのデータタイプの定義については、[この記事](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md)を参照してください。
 
-1. フィールドに名前を付けます。「API 名」には自動的に値が入力されます。完了したら、「**[!UICONTROL 保存]**」をクリックします。
+1. フィールドに名前を付けます。 [!UICONTROL API名]が自動入力されます。 完了したら、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
-   これで完了です。新しいフィールドが追加されました。
+   新しいフィールドが追加されました。
 
 ## カスタムアクティビティフィールドの編集 {#edit-a-custom-activity-field}
 
@@ -73,27 +73,27 @@ ht-degree: 96%
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   **[!UICONTROL フィールドを編集]**&#x200B;ポップアップが表示されます。この例では、フィールドの名前を変更します。
+   **[!UICONTROL フィールドを編集]**&#x200B;ポップアップが表示されます。 この例では、フィールド名を変更しています。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. 新しい「名前」と「API 名」を入力し、「**[!UICONTROL 保存]**」をクリックします。
+1. 新しい名前と[!UICONTROL API名]を入力し、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
-   >フィールドの編集時には、[!UICONTROL API 名]は自動入力されません。フィールド[!UICONTROL 名]と [!UICONTROL API 名]は一致する必要はありませんが、一致させることをお勧めします。
+   >フィールドの編集時に[!UICONTROL API名]は自動入力されません。 フィールド [!UICONTROL Name]と[!UICONTROL API Name]が一致する必要はありませんが、Marketoでは一致することを推奨しています。
 
    >[!CAUTION]
    >
-   >API 名の編集や、カスタムアクティビティが公開されていない場合のみ、フィールドを「プライマリ」に変更できます。
+   >カスタムアクティビティが公開されていない場合にのみ、[!UICONTROL API名]を編集するか、フィールドをプライマリに変更できます。
 
    >[!NOTE]
    >
    >プライマリフィールドを変更する場合は、まず既存のフィールドを選択削除する必要があります。
 
-フィールドが編集されました。
+フィールドが更新されました。
 
 ## カスタムアクティビティフィールドの削除 {#delete-a-custom-activity-field}
 
