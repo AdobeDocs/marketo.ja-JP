@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356565
-description: Sales Connect でトラッキング対象のメールを送信する方法について説明します。 作成ウィンドウから送信し、開封数、クリック数および返信数をトラッキングします。
+description: Sales Connectでトラッキング対象メールを送信する方法を説明します。 作成ウィンドウから送信し、開封数、クリック数、返信数を追跡します。
 title: トラッキングするメールの送信
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 89%
+ht-degree: 76%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >CC または BCC で送信されたユーザーがメールを開いた場合、「**[!UICONTROL 宛先]**」フィールドに入力した人物の開封として記録されます。
+   >CCまたはBCCのユーザーが電子メールを開くと、その開封率は&#x200B;**[!UICONTROL から]** フィールドのユーザーのレコードにビューとして記録されます。
 
 1. 件名を入力します。
 
@@ -48,13 +48,13 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >メールの送信には、件名と受信者が必要です。件名行と受信者が追加されると、**ドラフトが自動的に保存されます**。
+   >メールの送信には、件名と受信者が必要です。 件名行と受信者が追加されると、**ドラフトが自動的に保存されます**。
 
-1. エディターを使用してメールを作成します。完了したら、「**[!UICONTROL 送信]**」（または必要に応じて「[スケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)」）をクリックします
+1. エディターを使用してメールを作成します。 完了したら、「**[!UICONTROL 送信]**」（または必要に応じて「[スケジュール](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)」）をクリックします
 
    ![](assets/five.png)
 
    >[!MORELIKETHIS]
    >
    >* [メールのスケジュール設定](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
-   >* [テンプレート](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
+   >* [テンプレート](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352508
-description: Sales Connect テンプレートでカスタム動的フィールドを作成する方法を説明します。 連絡先またはユーザーデータをメールに取り込む結合フィールドを追加します。
+description: Sales Connect テンプレートでカスタム動的フィールドを作成する方法について説明します。 連絡先またはユーザーのデータをメールに取り込む結合フィールドを追加します。
 title: カスタム動的フィールドの作成
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '256'
 ht-degree: 91%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 91%
 
 1. 「[!UICONTROL 登録解除]」の横のドロップダウンを選択し、「**[!UICONTROL 編集]**」を選択します。
 
-1. 下にスクロールして編集ページの下部に移動します。フィールドの名前と値を作成できます。
+1. 下にスクロールして編集ページの下部に移動します。 フィールドの名前と値を作成できます。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
@@ -35,7 +35,7 @@ ht-degree: 91%
 
 1. 目的のフィールド名を入力し、「**[!UICONTROL OK]**」をクリックします。
 
-1. CSV のアップロードが完了しました。連絡先に追加されたカスタムフィールドが表示されます。
+1. CSV のアップロードが完了しました。 連絡先に追加されたカスタムフィールドが表示されます。
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ ht-degree: 91%
 
 上記の方法を使用してカスタムフィールドを保存したら、テンプレートで参照できます。
 
-1. [テンプレートを作成](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)し、通常どおりに「**[!UICONTROL 動的フィールド]**」ボタンをクリックします。
+1. [テンプレートを作成](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md#create-a-template)し、通常どおりに「**[!UICONTROL 動的フィールド]**」ボタンをクリックします。
 
 1. 表示されるドロップダウンから「**[!UICONTROL カスタムフィールド]**」を選択します。
 
