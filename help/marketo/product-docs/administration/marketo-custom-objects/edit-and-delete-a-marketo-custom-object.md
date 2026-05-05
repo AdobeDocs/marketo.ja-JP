@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093690
-description: カスタムオブジェクトを編集または削除する手順。
+description: カスタムオブジェクトを編集または削除する手順
 title: Marketo カスタムオブジェクトの編集と削除
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 97%
+source-wordcount: '264'
+ht-degree: 78%
 
 ---
 
@@ -37,15 +37,15 @@ ht-degree: 97%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
-1. 必要な変更を加えます。リード詳細ページにオブジェクトを表示する場合は、スライダーをドラッグします。「**[!UICONTROL 保存]**」をクリックします。
+1. 必要な変更を加えます。 リード詳細ページにオブジェクトを表示する場合は、スライダーをドラッグします。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
-1. [編集されたオブジェクト](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)は必ず承認してください。
+1. [編集したオブジェクト ](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)を承認します。
 
 ## カスタムオブジェクトの削除 {#delete-a-custom-object}
 
-カスタムオブジェクトは簡単に削除できますが、慎重に行う必要があります。カスタムオブジェクトは、他のオブジェクトやスマートリストに接続できます。したがって Marketo は、「**[!UICONTROL 削除]**」がクリックされる前に警告を表示します。
+カスタムオブジェクトの削除には注意が必要です。 カスタムオブジェクトは、他のオブジェクトやスマートリストに接続できます。 **[!UICONTROL 削除]**&#x200B;をクリックする前に、Marketoから警告が表示されます。
 
 >[!CAUTION]
 >
@@ -71,11 +71,11 @@ ht-degree: 97%
    >
    >オブジェクトを右クリックし、「**[!UICONTROL オブジェクトを削除]**」を選択することもできます。
 
-1. カスタムオブジェクトがドラフト形式で、まだ承認されていない場合、この警告が表示されます。確かな場合は、「**[!UICONTROL 削除]**」をクリックします。
+1. カスタムオブジェクトがまだ承認されていないドラフトフォームの場合は、この警告が表示されます。 確信がある場合は、**[!UICONTROL 削除]**&#x200B;をクリックしてください。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. カスタムオブジェクトが既に承認されている場合、削除するとリスクが高くなります。そのため、このような厳しめの警告を受け取ります。「**[!UICONTROL I understand]**」と入力し、「**[!UICONTROL 取り消しできません]**」チェックボックスをオンにして、「**[!UICONTROL 削除]**」をクリックします。
+1. カスタムオブジェクトが既に承認されている場合、削除するとリスクが高くなります。 したがって、この厳格な警告が表示されます。 「**[!UICONTROL I understand]**」と入力し、「**[!UICONTROL 取り消しできません]**」チェックボックスをオンにして、「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 

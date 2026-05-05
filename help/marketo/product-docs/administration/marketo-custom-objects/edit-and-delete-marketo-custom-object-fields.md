@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095453
-description: フィールドアクションを使用して、承認されていないカスタムオブジェクトのフィールドを編集または削除する方法。
+description: フィールドアクションを使用して、未承認のカスタムオブジェクトのフィールドを編集または削除する方法。
 title: Marketo カスタムオブジェクトフィールドの編集と削除
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 89%
+source-wordcount: '132'
+ht-degree: 53%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 89%
 
 ## フィールドの編集 {#edit-a-field}
 
-まだ承認されていないフィールドを編集する必要が生じる場合があります。
+まだ承認されていないフィールドを編集する必要がある場合があります。
 
 1. 編集するカスタムオブジェクトとフィールドをクリックします。
 
@@ -31,7 +31,7 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >API 名は編集できません。
+   >API名は編集できません。
 
 1. 変更が&#x200B;**[!UICONTROL フィールド]**&#x200B;リストに表示されます。
 
@@ -39,17 +39,17 @@ ht-degree: 89%
 
 ## フィールドの削除 {#delete-a-field}
 
-カスタムオブジェクトにフィールドが不要になった場合は、そのフィールドを削除できます。
+カスタムオブジェクトのフィールドが不要になった場合は、そのフィールドを削除できます。
 
 1. 「フィールド」タブで、「**[!UICONTROL フィールドアクション]**」および「**[!UICONTROL フィールドを削除]**」をクリックします。
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. 削除を実行する前に、フィールドを本当に削除したいことを確認します。「**[!UICONTROL 削除]**」をクリックします。
+1. 続行する前に、フィールドを削除することを確認してください。 「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 
-これで削除できました。
+フィールドが削除されます。
 
 ![](assets/edit-and-delete-marketo-custom-object-fields-7.png)
 

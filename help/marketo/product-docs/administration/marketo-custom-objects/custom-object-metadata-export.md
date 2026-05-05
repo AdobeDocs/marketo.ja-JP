@@ -1,22 +1,22 @@
 ---
-description: SOAPまたはMunchkin API で使用する、カスタムオブジェクトメタデータスキーマのエクスポート方法。
+description: SOAPまたはMunchkin APIの使用用にカスタムオブジェクトメタデータスキーマを書き出す方法。
 title: カスタムオブジェクトメタデータのエクスポート
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 88%
+source-wordcount: '115'
+ht-degree: 61%
 
 ---
 
 # カスタムオブジェクトメタデータのエクスポート {#custom-object-metadata-export}
 
-当社の SOAP API または [!DNL Munchkin] API を使用している場合は、カスタムオブジェクトメタデータスキーマを書き出すことができます。手順は次のとおりです。
+SOAP APIまたは[!DNL Munchkin] APIを使用している場合は、カスタムオブジェクトメタデータスキーマを書き出すことができます。 次の手順に従います。
 
 >[!AVAILABILITY]
 >
->すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -38,7 +38,7 @@ ht-degree: 88%
 >
 >エクスポートするには、カスタムオブジェクトのステートが承認済みである必要があります。
 
-これで、3 つのタブをまたぐカスタムオブジェクトのスキーマを含むスプレッドシートが取得できました。
+これで、3つのタブにまたがるカスタムオブジェクトのスキーマを含むスプレッドシートができました。
 
 ![](assets/custom-object-metadata-export-5.png)
 

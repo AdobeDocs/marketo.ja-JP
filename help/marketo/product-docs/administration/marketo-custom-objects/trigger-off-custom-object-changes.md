@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378713
-description: カスタムオブジェクトを追加してトリガーを設定する手順とともに、Marketo カスタムオブジェクト用のスマートキャンペーンスマートリストでカスタムオブジェクトの追加トリガーまたは変更制約を使用する方法。
+description: カスタムオブジェクトの使用方法Marketo カスタムオブジェクトのスマートキャンペーンのスマートリストでトリガーを追加または変更する方法と、トリガーを追加して制約を設定する手順を説明します。
 title: カスタムオブジェクトの変更のトリガー
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 86%
+source-wordcount: '203'
+ht-degree: 81%
 
 ---
 
@@ -18,11 +18,12 @@ ht-degree: 86%
 >この機能は以下の場合にのみ使用できます。
 >
 >* Marketo カスタムオブジェクトでのみ使用し、ネイティブの [!DNL Salesforce] または [!DNL Microsoft Dynamics] 統合を通じて同期されたカスタムオブジェクトでは使用しません。
+>
 >* フィルターとしてではなくトリガーとして使用
 >
->カスタムオブジェクト変更トリガーを有効にするには、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡してください。
+>カスタムオブジェクト変更トリガーを有効にするには、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
-スマートキャンペーンのスマートリストでは、カスタムオブジェクトが個人または会社に追加されたときのフローアクションをトリガーできます。また、カスタムオブジェクトの&#x200B;_変更_&#x200B;をトリガーとして使用するスマートリストを作成することもできます。例えば、コース名が更新されたときにメールを送信する場合に使用します。
+スマートキャンペーンのスマートリストでは、カスタムオブジェクトが個人または会社に追加されたときのフローアクションをトリガーできます。 また、カスタムオブジェクトの&#x200B;_変更_&#x200B;をトリガーとして使用するスマートリストを作成することもできます。 例えば、コース名が更新されたときにメールを送信する場合に使用します。
 
 >[!NOTE]
 >
@@ -48,7 +49,7 @@ ht-degree: 86%
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. これで完了です。変更は自動的に保存されます。
+1. 変更は自動的に保存されます。
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 

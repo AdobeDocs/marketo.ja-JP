@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099680
-description: カスタムオブジェクト、重複排除モード、フィールドマッピングの選択など、CSV ファイルを使用してカスタムオブジェクトデータを読み込む手順。
+description: カスタムオブジェクトの選択、重複排除モード、フィールドマッピングなど、CSV ファイルを使用してカスタムオブジェクトデータを読み込む手順。
 title: カスタムオブジェクトデータのインポート
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 91%
+source-wordcount: '252'
+ht-degree: 45%
 
 ---
 
 # カスタムオブジェクトデータのインポート {#import-custom-object-data}
 
-カスタムオブジェクトデータをデータベースに簡単にインポートすることができます。会社でカスタムオブジェクトを使用する場合、詳しくは、[会社でカスタムオブジェクトを使用する](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies)を参照してください。
+カスタムオブジェクトデータをデータベースに読み込むには、次の手順に従います。 会社と共にカスタムオブジェクトを使用する場合は、[会社と共にカスタムオブジェクトを使用する](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies)を参照してください。
 
 1. My Marketo で、「**[!UICONTROL データベース]**」に移動します。
 
@@ -23,7 +23,7 @@ ht-degree: 91%
 
    ![](assets/import-custom-object-data-2.png)
 
-1. 「**[!UICONTROL 参照]**」をクリックして、データファイルを探します。ファイル形式（この例では「コンマ区切り値」）を選択します。
+1. 「**[!UICONTROL 参照]**」をクリックして、データファイルを探します。 ファイル形式（この例では「コンマ区切り値」）を選択します。
 
    ![](assets/import-custom-object-data-3.png)
 
@@ -31,13 +31,13 @@ ht-degree: 91%
 
    ![](assets/import-custom-object-data-4.png)
 
-1. ドロップダウンから[!UICONTROL 重複排除モード]を選択します。「**[!UICONTROL 次へ]**」をクリックします。
+1. ドロップダウンから[!UICONTROL 重複排除モード]を選択します。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/import-custom-object-data-5.png)
 
    >[!NOTE]
    >
-   >カスタムオブジェクトレコードを作成または更新する際に、重複排除フィールドを一意の識別子として使用します。この例では、「**car**」カスタムオブジェクトの重複排除フィールドとして「vin」（車両の ID 番号）を使用します。カスタムオブジェクトのレコードのみを更新している場合は、[!UICONTROL Marketo Guid] を[!UICONTROL 重複排除モード]として選択できます。
+   >カスタムオブジェクトレコードを作成または更新する際に、一意のIDとして1つ以上の重複排除フィールドを使用します。 この例では、「**car**」カスタムオブジェクトの重複排除フィールドとして「vin」（車両の ID 番号）を使用します。 カスタムオブジェクトのレコードのみを更新している場合は、[!UICONTROL Marketo Guid] を[!UICONTROL 重複排除モード]として選択できます。
 
 1. ドロップダウンで選択して、各列を Marketo のフィールドにマップします。
 
@@ -45,13 +45,13 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >ファイル内の値が、照合先のフィールドのタイプ（テキスト、整数など）と一致することを確認してください。一致しない場合、ファイルは拒否されます。
+   >ファイル内の値が、一致するフィールドのタイプ（テキスト、整数など）と一致していることを確認します。一致しない場合、ファイルは拒否されます。
 
 1. 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/import-custom-object-data-7.png)
 
-1. 「**[!UICONTROL インポート]**」をクリックします。
+1. 「**[!UICONTROL 読み込み]**」をクリックします。
 
    ![](assets/import-custom-object-data-8.png)
 
@@ -61,13 +61,11 @@ ht-degree: 91%
 
    >[!TIP]
    >
-   >「**[!UICONTROL 以下にアラートを送信]**」フィールドにメールアドレスを入力すると、インポートの完了時に Marketo からメールが届きます。
+   >「**[!UICONTROL アラートを送信]**」フィールドにメールアドレスを入力すると、インポートが完了するとMarketoからメールが送信されます。
 
-1. 画面の右上隅に、インポート実行中には通知が表示され、完了すると最終結果が表示されます。
+1. 画面の右上隅に、読み込みの実行中に通知が表示され、読み込みが完了すると最終結果が表示されます。
 
    ![](assets/import-custom-object-data-9.png)
-
-   これで完了です。
 
 >[!MORELIKETHIS]
 >
