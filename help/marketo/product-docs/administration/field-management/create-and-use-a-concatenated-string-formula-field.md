@@ -53,4 +53,4 @@ ht-degree: 75%
 
 >[!NOTE]
 >
->数式フィールドは、ランディングページ、メール、スマートリストの各列で使用できます。 数式フィールドを含むメールは、バッチキャンペーンを使用して送信することは&#x200B;_できません_。 このシナリオでは、[電子メールスクリプトトークン ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)を使用します。
+>数式フィールドは、ランディングページ、メール、スマートリストの各列で使用できます。 数式フィールドを含むメールは、バッチキャンペーンを使用して送信することは&#x200B;_できません_。 このシナリオでは、[電子メールスクリプトトークン &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)を使用します。
