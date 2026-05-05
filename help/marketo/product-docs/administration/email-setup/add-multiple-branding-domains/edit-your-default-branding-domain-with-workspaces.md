@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377406
-description: Marketoでワークスペースを使用する場合は、汎用ブランディングドメインを会社のドメインに変更します。
+description: Marketoのワークスペースを使用する場合は、汎用ブランディングドメインを会社ドメインに変更します。
 title: ワークスペースを使用したデフォルトのブランディングドメインの編集
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 91%
+source-wordcount: '147'
+ht-degree: 63%
 
 ---
 
@@ -27,9 +27,7 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >「**[!UICONTROL 追加]**」は、汎用ドメインを編集するまで機能しません。「**[!UICONTROL 削除]**」は、2 番目のドメインを追加するまで機能しません。
-   >
-   >最初に汎用ドメインを編集するまで、ドメインは追加できません。
+   >「**[!UICONTROL 追加]**」は、汎用ドメインを編集するまで機能しません。 「**[!UICONTROL 削除]**」は、2 番目のドメインを追加するまで機能しません。
 
 1. デフォルトのドメイン名を入力し、「**[!UICONTROL 次へ]**」をクリックします。
 
@@ -41,6 +39,6 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->ブランディングドメインを追加する際に、1 つ以上のワークスペースに対してこれをプライマリドメインに設定できます。既存の未送信メールはすべて「デフォルト」に設定され、新しく作成されたすべてのメールはデフォルトでプライマリドメインに設定されます。これは、メールごとに上書きできます。
+>追加のブランディングドメインを追加する場合は、これを1つ以上のワークスペースのプライマリドメインにすることができます。また、「デフォルト」に設定されているすべての既存の未送信メールと、新しく作成されたすべてのメールがプライマリドメインにデフォルトで設定されます。 これは、メールごとに上書きできます。
 
 これで、ワークスペースに必要な[付加的なブランディングドメインを追加](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md)できます。

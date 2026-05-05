@@ -1,27 +1,27 @@
 ---
 unique-page-id: 6848782
-description: 動的コンテンツとセグメント化を使用して、登録解除メッセージとリンクを別の言語で表示します。
+description: 動的なコンテンツとセグメンテーションを活用して、登録解除メッセージとリンクをさまざまな言語で表示できます。
 title: 登録解除メッセージを言語に対して動的に設定
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 96%
+source-wordcount: '472'
+ht-degree: 76%
 
 ---
 
 # 登録解除メッセージを言語に対して動的に設定 {#make-your-unsubscribe-message-dynamic-for-languages}
 
-デフォルトの登録解除メッセージとリンクは英語です。動的コンテンツを使用して、様々な言語で表示できます。
+デフォルトの登録解除メッセージとリンクは英語です。 動的コンテンツを使用して、様々な言語で表示できます。
 
 >[!NOTE]
 >
->この記事は、ベストプラクティスですが、他の方法でも実行できます。
+>この記事はベストプラクティスですが、他の方法でも達成できます。
 
 ## データを準備する {#prepare-your-data}
 
-1. 「優先言語」という名前の[カスタムフィールドを作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)します。（このフィールドを同期する場合は、CRM で設定します）
+1. 「優先言語」という名前の[カスタムフィールドを作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)します。 （このフィールドを同期する場合は、CRM で設定します）
 
    >[!TIP]
    >
@@ -37,7 +37,7 @@ ht-degree: 96%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. セグメントに「**[!UICONTROL 優先言語]**」という名前を付けます。「**[!UICONTROL セグメントを追加]**」をクリックします。言語を入力します。
+1. セグメントに「**[!UICONTROL 優先言語]**」という名前を付けます。 「**[!UICONTROL セグメントを追加]**」をクリックします。 言語を入力します。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
@@ -45,7 +45,7 @@ ht-degree: 96%
    >
    >デフォルトのセグメントは英語になります。
 
-1. すべての言語が表示されるまで、セグメントの追加を続けます。「**[!UICONTROL 作成]**」をクリックします。
+1. すべての言語が表示されるまで、セグメントの追加を続けます。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-4.png)
 
@@ -53,7 +53,7 @@ ht-degree: 96%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. 「**[!UICONTROL スマートリスト]**」タブに移動します。検索フィールドに&#x200B;**[!UICONTROL 優先言語]**&#x200B;を入力します。フィルターをキャンバスにドラッグ＆ドロップします。
+1. 「**[!UICONTROL スマートリスト]**」タブに移動します。 検索フィールドに&#x200B;**[!UICONTROL 優先言語]**&#x200B;を入力します。 フィルターをキャンバスにドラッグ＆ドロップします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
@@ -61,7 +61,7 @@ ht-degree: 96%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
-1. すべての言語で繰り返します。次に、**[!UICONTROL セグメンテーションアクション]**&#x200B;ドロップダウンを選択して、**[!UICONTROL 承認]**&#x200B;をクリックします。
+1. すべての言語で繰り返します。 次に、**[!UICONTROL セグメンテーションアクション]**&#x200B;ドロップダウンを選択して、**[!UICONTROL 承認]**&#x200B;をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
@@ -71,11 +71,11 @@ ht-degree: 96%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. **[!UICONTROL 新規]**&#x200B;ドロップダウンで、**[!UICONTROL 新規スニペット]**&#x200B;をクリックします。
+1. **[!UICONTROL 新規]** ドロップダウンで、**[!UICONTROL 新規スニペット]**&#x200B;をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
-1. スニペットに「**登録解除メッセージ**」という名前を付けます。「**[!UICONTROL 作成]**」をクリックします。
+1. スニペットに「**登録解除メッセージ**」という名前を付けます。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 
@@ -83,7 +83,7 @@ ht-degree: 96%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. トークン `{{system.unsubscribeLink}}` を「**[!UICONTROL URL]**」フィールドにコピー＆ペーストします。「**[!UICONTROL 挿入]**」をクリックします。
+1. トークン `{{system.unsubscribeLink}}` を「**[!UICONTROL URL]**」フィールドにコピー＆ペーストします。 「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
@@ -91,27 +91,25 @@ ht-degree: 96%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
-1. **[!UICONTROL セグメンテーション]**&#x200B;ドロップダウンで、**[!UICONTROL 優先]**&#x200B;と入力し、「**[!UICONTROL 優先言語]**」を選択します。「**[!UICONTROL 保存]**」をクリックします。
+1. **[!UICONTROL セグメンテーション]**&#x200B;ドロップダウンで、**[!UICONTROL 優先]**&#x200B;と入力し、「**[!UICONTROL 優先言語]**」を選択します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. ツリーからセグメントを選択します。登録解除をクリックしてから、リンクアイコンをクリックします。
+1. ツリーからセグメントを選択します。 登録解除テキストをクリックし、リンクアイコンをクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. `{{system.unsubscribeLink}}` がまだ「**[!UICONTROL URL]**」フィールドにあることを確認します。「**[!UICONTROL 表示テキスト]**」を編集して、選択した言語に一致するようにします。「**[!UICONTROL 適用]**」をクリックします。
+1. `{{system.unsubscribeLink}}` がまだ「**[!UICONTROL URL]**」フィールドにあることを確認します。 「**[!UICONTROL 表示テキスト]**」を編集して、選択した言語に一致するようにします。 「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
-1. すべてのセグメントに対してこの手順を繰り返します。次に、**[!UICONTROL Design Studio]** に戻り、**[!UICONTROL スニペットアクション]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL 承認]**&#x200B;をクリックします。
+1. すべてのセグメントに対してこの手順を繰り返します。 次に、**[!UICONTROL Design Studio]** に戻り、**[!UICONTROL スニペットアクション]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL 承認]**&#x200B;をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-すばらしい。もう少しです。
+## メールでのスニペットの使用 {#use-a-snippet-in-an-email}
 
-## メールでスニペットを使用する {#use-snippet-in-an-email}
-
-1. メールエディターで、編集可能な要素をクリックします。次に、歯車アイコンをクリックし、「**[!UICONTROL スニペットに置換]**」を選択します。編集可能なスニペット要素を選択する場合は、歯車アイコンをクリックして、「**[!UICONTROL 編集]**」を選択します。
+1. メールエディターで、編集可能な要素をクリックします。 次に、歯車アイコンをクリックし、「**[!UICONTROL スニペットに置換]**」を選択します。 編集可能なスニペット要素を選択した場合は、歯車アイコンをクリックし、**[!UICONTROL 編集]**&#x200B;を選択します。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
@@ -119,7 +117,7 @@ ht-degree: 96%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
-1. テストするには、「**[!UICONTROL 戻る]**」をクリックし...
+1. テストするには、**[!UICONTROL 戻る]**&#x200B;をクリックしてください…
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
@@ -133,9 +131,9 @@ ht-degree: 96%
 
    >[!TIP]
    >
-   >もちろん、残りのメールも動的言語用に編集できます。それと同時に、登録解除ページで同じ方法を行います。
+   >また、動的な言語設定のために残りのメールを編集することもできます。 登録解除ページでも同じ方法を使用できます。
 
-## 動的コンテンツを含む登録解除ページのカスタマイズ {#customizing-your-unsubscribe-page-with-dynamic-content}
+## 動的コンテンツで購読解除ページをカスタマイズ {#customize-your-unsubscribe-page-with-dynamic-content}
 
 登録解除ページが優先言語で表示されるようにする場合は、ランディングページと確認ページで動的コンテンツを使用できます。
 
@@ -155,12 +153,10 @@ ht-degree: 96%
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
-1. 「**[!UICONTROL 優先言語]**」セグメントを見つけます。「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL 優先言語]**」セグメントを見つけます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
-   各ランディングページのコンテンツを編集し、承認し、これで準備完了です。
-
    >[!NOTE]
    >
-   >[動的コンテンツ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)と、その他の役立つ情報を参照してください。
+   >[動的コンテンツ ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)の詳細をご覧ください。

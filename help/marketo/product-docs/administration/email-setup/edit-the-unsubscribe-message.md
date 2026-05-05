@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360251
-description: 管理者メールのマーケティングメールに追加されるデフォルトの購読解除テキストとリンクを変更します。
+description: Admin Emailのマーケティングメールに追加されるデフォルトの購読解除テキストとリンクを変更します。
 title: 登録解除メッセージの編集
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 90%
+source-wordcount: '140'
+ht-degree: 65%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 90%
 >
 >**管理者権限が必要**
 
-マーケティングメールを送信する際（非[オペレーショナル](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)）、登録解除テキストおよびリンクが下部に追加されます。デフォルト値は変更できます。手順は以下のとおりです。
+マーケティングメールを送信する際（非[オペレーショナル](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)）、登録解除テキストおよびリンクが下部に追加されます。 デフォルト値は変更できます。
 
 ## 編集を行う場所 {#where-to-make-the-edit}
 
@@ -31,7 +31,7 @@ ht-degree: 90%
 
    >[!CAUTION]
    >
-   >以下の変数は重要です。削除しないでください。
+   >以下の変数は重要です。 削除しないでください。
    >
    >* `%mkt_opt_out_prefix%`
    >* `mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
@@ -40,18 +40,20 @@ ht-degree: 90%
 
    ![](assets/edit-the-unsubscribe-message-3.png)
 
-   これで手順は完了です。_テストは忘れずに実行してください。_ マーケティングメールに破損した登録解除リンクがあるのは避けるべきです。
-
 >[!TIP]
 >
->メール内の登録解除 HTML の位置は、[トークン](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)を使用してカスタマイズできます。
+>* テストを忘れないでください。 マーケティングメールに登録解除リンクが壊れないようにする必要があります。
+>
+>* メール内の登録解除 HTML の位置は、[トークン](/help/marketo/product-docs/email-marketing/general/using-tokens/add-a-system-token-as-a-link-in-an-email.md)を使用してカスタマイズできます。
 
 ## デフォルトの登録解除テキスト {#default-unsubscribe-text}
 
-デフォルトのシステム登録解除に戻す必要がある場合は、以下をコピー＆ペーストします。
+デフォルトのシステム登録解除メッセージに戻す必要がある場合は、次の手順をコピー/ペーストします。
 
-[!UICONTROL Unsubscribe HTML]:
-`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>` [!UICONTROL Unsubscribe Text]:
+[!UICONTROL HTMLの購読解除]:
+`<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>`
+<br>
+[!UICONTROL  テキストの購読解除]:
 `%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 >[!MORELIKETHIS]

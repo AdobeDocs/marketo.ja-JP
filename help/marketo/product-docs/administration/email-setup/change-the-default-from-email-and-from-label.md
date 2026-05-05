@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360247
-description: 管理者ユーザーとして、新しいメールの送信元メールと送信元ラベルのデフォルト値を設定します。
+description: 管理者ユーザーとして、新しいメールのデフォルトの「メールから」と「ラベルから」の値を設定します。
 title: デフォルトのメール差出人と差出人ラベルの変更
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 86%
+source-wordcount: '111'
+ht-degree: 35%
 
 ---
 
 # デフォルトのメール差出人と差出人ラベルの変更 {#change-the-default-from-email-and-from-label}
 
-管理者ユーザーは、**[!UICONTROL メール差出人]**&#x200B;と&#x200B;**[!UICONTROL 差出人ラベル]**&#x200B;のデフォルトを変更することができ、新しいメールを作成する際には、そのデフォルトが使用されます。
+各管理者ユーザーは、**[!UICONTROL 電子メールから]**&#x200B;および&#x200B;**[!UICONTROL ラベルから]**&#x200B;のデフォルト値を変更して、新しい電子メールを作成する際に、これらのデフォルト値を使用できるようにすることができます。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 86%
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. **[!UICONTROL メール差出人]**&#x200B;と&#x200B;**[!UICONTROL 差出人ラベル]**&#x200B;に使用するデフォルト値を入力し、「**[!UICONTROL 変更を保存]**」をクリックします。
+1. **[!UICONTROL 電子メールから]**&#x200B;および&#x200B;**[!UICONTROL ラベルから]**&#x200B;のデフォルト値を入力し、**[!UICONTROL 変更を保存]**&#x200B;をクリックします。
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 
@@ -35,4 +35,4 @@ ht-degree: 86%
 >
 >この変更はユーザーにのみ適用され、他の Marketo ユーザーには適用されません。
 
-これで完了です。新しいメールを作成するたびに、設定したデフォルト値が使用されます。
+新しい電子メールを作成するたびに、設定したデフォルト値が使用されます。

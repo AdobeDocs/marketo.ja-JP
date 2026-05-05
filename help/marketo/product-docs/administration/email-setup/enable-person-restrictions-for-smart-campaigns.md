@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360243
-description: データベース全体を誤ってメールで送信するのを避けるために、スマートキャンペーンの対象となるユーザーの最大数を設定します。
+description: データベース全体に誤ってメールを送信するのを防ぐために、スマートキャンペーンの対象となるユーザーの最大数を設定します。
 title: スマートキャンペーンのリード制限の有効化
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 87%
+source-wordcount: '153'
+ht-degree: 47%
 
 ---
 
 # スマートキャンペーンのリード制限の有効化 {#enable-person-restrictions-for-smart-campaigns}
 
-Marketo には、スマートキャンペーンの条件を満たす人物の&#x200B;_最大数_&#x200B;を制限する機能があります。これにより、データベース全体に誤ってメールが送信されるのを防ぎます。
+Marketoには、スマートキャンペーンの対象となるユーザーの数を&#x200B;_最大_&#x200B;人に制限する機能があります。 これにより、データベース全体に誤ってメールが送信されるのを防ぎます。
 
 >[!NOTE]
 >
@@ -37,7 +37,7 @@ Marketo には、スマートキャンペーンの条件を満たす人物の&#x
 
    >[!CAUTION]
    >
-   >スマートキャンペーンを実行する条件を満たす人物の数が制限値を超えると、まったく実行されなくなります。
+   >スマートキャンペーンを実行する資格を持つユーザーの数が制限セットを超えた場合、まったく実行されません。
 
 1. 制限を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
@@ -49,9 +49,7 @@ Marketo には、スマートキャンペーンの条件を満たす人物の&#x
 
    >[!CAUTION]
    >
-   >この制限は、すべてのスマートキャンペーンに適用されますが、キャンペーンレベルで上書きできます。[スマートキャンペーンでの人物制限の上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)方法を参照してください。
-
-完了です。安全スイッチを ON にできるのは、
+   >この制限はすべてのスマートキャンペーンに適用されますが、キャンペーンレベルで上書きできます。 [スマートキャンペーンでの人物制限の上書き](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)方法を参照してください。
 
 >[!MORELIKETHIS]
 >

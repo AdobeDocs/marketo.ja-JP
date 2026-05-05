@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360253
-description: 必要な変数を変更せずに、「Web ページとして表示」リンクテキストと管理者メールのHTMLをカスタマイズできます。
+description: 管理者メールの「Web ページとして表示」リンクテキストとHTMLをカスタマイズして、必要な変数を維持します。
 title: 「Web ページとして表示」メッセージの編集
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 90%
+source-wordcount: '182'
+ht-degree: 52%
 
 ---
 
 # 「Web ページとして表示」メッセージの編集 {#edit-the-view-as-web-page-message}
 
-「[Web ページとして表示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)」テキストを編集する必要がある場合は、以下の手順に従います。
+「[Web ページとして表示](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)」テキストを編集する方法について説明します。
 
 >[!NOTE]
 >
@@ -31,11 +31,11 @@ ht-degree: 90%
 
    >[!CAUTION]
    >
-   >以下の変数は重要です。削除しないでください。
+   >以下の変数は重要です。 削除しないでください。
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >2 つ目の部分 `##MKT_TOK##` は、その人物の [!UICONTROL munchkin] cookie です。リンクをクリックすると、適切に cookie が使用されるようにするものです。
+   >2つ目の部分`##MKT_TOK##`は、そのユーザーの[!UICONTROL Munchkin] Cookieです。 これにより、オーディエンスがリンクをクリックしたときに適切に追跡されます。
 
 1. 「**[!UICONTROL Web ページとして表示（HTML）]**」と「**[!UICONTROL Web ページとして表示（テキスト）]**」バージョンを適切に編集し、「**[!UICONTROL 変更を保存]**」をクリックします。
 
@@ -48,11 +48,11 @@ ht-degree: 90%
 >* いずれかの HTML ボックスに付加的な URL を追加する
 >* テキストバージョンに HTML コードを配置する
 
-これで手順は完了です。フォーマットを確認するためにテストメールを送信します。
+テストメールを送信して、フォーマットを確認します。
 
 ## デフォルトの「Web ページとして表示」テキスト {#default-view-as-web-page-text}
 
-システムデフォルトの「[!UICONTROL Web ページとして表示]」に戻す必要がある場合は、以下をコピー＆ペーストします。
+デフォルトのシステム「[!UICONTROL Web ページとして表示]」に戻す必要がある場合は、次の手順をコピーまたはペーストします。
 
 **[!UICONTROL Web ページとして表示（HTML）]**：
 
@@ -60,7 +60,5 @@ ht-degree: 90%
 
 **[!UICONTROL Web ページとして表示（テキスト）]**：
 
-このメールを web ページとして閲覧するには、以下のアドレスに移動してください。
+この電子メールをWeb ページとして表示するには、次のアドレスに移動します。
 `%mkt_webview_url%?mkt_tok=##MKT_TOK##`
-
-これで完了です。

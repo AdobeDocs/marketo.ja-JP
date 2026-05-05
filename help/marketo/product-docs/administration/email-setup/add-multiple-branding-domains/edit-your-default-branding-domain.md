@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377392
-description: 管理者の電子メールで、汎用トラッキングドメインを会社のブランドドメインに置き換えます（CNAME の設定が必要です）。
+description: 汎用トラッキングドメインを、Admin Emailの会社ブランドのドメインに置き換えます（CNAME設定が必要です）。
 title: デフォルトのブランディングドメインの編集
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 88%
+source-wordcount: '138'
+ht-degree: 57%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 88%
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. [!UICONTROL ブランディングドメイン]テーブルで、汎用ドメインを選択し、「編集」をクリックして、自社のブランディングドメインに変更します。
+1. [!UICONTROL  ブランディングドメイン ] テーブルで、汎用ドメインを選択し、**[!UICONTROL 編集]**&#x200B;をクリックして、会社のブランドドメインに変更します。
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 88%
    >
    >最初に汎用ドメインを編集するまで、ドメインは追加できません。
 
-1. デフォルトのドメイン名を入力し、「**[!UICONTROL 保存]**」をクリックします。
+1. デフォルトドメインの名前を入力し、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
    ![](assets/edit-your-default-branding-domain-4.png)
 
@@ -43,4 +43,4 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->既存の SSL を更新または削除する必要がある場合は、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
+>既存のSSLを更新または削除する必要がある場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。

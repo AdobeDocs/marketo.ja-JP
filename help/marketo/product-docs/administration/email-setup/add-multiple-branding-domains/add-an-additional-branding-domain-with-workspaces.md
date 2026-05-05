@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377408
-description: ワークスペースを使用する場合は、追加のブランディングドメインを追加し、ワークスペースごとにプライマリドメインを割り当てます。
+description: ワークスペースを使用する場合、追加のブランディングドメインを追加し、ワークスペースごとにプライマリドメインを割り当てます。
 title: ワークスペースを使用した付加的なブランディングドメインの追加
 exl-id: ca52dd28-7ba0-4407-85b4-bff2adef0b87
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 89%
+source-wordcount: '131'
+ht-degree: 48%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 89%
 
 >[!PREREQUISITES]
 >
->必ず[デフォルトのブランディングドメインの編集](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)を先に行ってください。
+>* [既定のブランディング ドメインを編集](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)。
 >
->最初にブランディングドメインと[一般トラッキングリンクの置き換え](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)を行ってから、ブランディングドメインに追加する必要があります。
+>* [汎用トラッキングリンク ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)をブランドドメインに置き換えてから、ブランドドメインを追加します。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -33,13 +33,13 @@ ht-degree: 89%
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-3.png)
 
-1. 新しいブランディングドメインを入力します。「**[!UICONTROL 次へ]**」をクリックします。
+1. 新しいブランディングドメインを入力します。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-4.png)
 
    >[!NOTE]
    >
-   >これを、1 つ以上のワークスペースに対してプライマリドメインにできます。既存の未送信メールはすべて「デフォルト」に設定され、新しく作成されたすべてのメールはデフォルトでプライマリドメインに設定されます。これは、メールごとに上書きできます。
+   >これを1つ以上のワークスペースのプライマリドメインにすることができます。また、「デフォルト」に設定されているすべての既存の未送信メールと、新しく作成されたすべてのメールは、プライマリドメインにデフォルトで設定されます。 これは、メールごとに上書きできます。
 
 1. 新しいブランディングドメインを選択し、「**[!UICONTROL 保存]**」をクリックします。
 

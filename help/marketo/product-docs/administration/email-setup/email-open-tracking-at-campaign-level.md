@@ -1,47 +1,47 @@
 ---
-description: メールの開封をキャンペーンごとにトラッキングするか、キャンペーン全体でユーザーごとに 1 回トラッキングするかを制御します。
+description: キャンペーン全体で、メールの開封をキャンペーンごとに追跡するか、一人ひとりに追跡するかを制御します。
 title: キャンペーンレベルでのメールの開封トラッキング
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 23%
+source-wordcount: '110'
+ht-degree: 22%
 
 ---
 
 # キャンペーンレベルでのメールの開封トラッキング {#email-open-tracking-at-campaign-level}
 
-この機能を使用すると、キャンペーンでの開封ごとに 1 回、または様々なキャンペーンでの使用回数に関係なく、各メールに対して 1 回だけ、トラッキングメールの開封数を制御できます。
+この機能を使用すると、メールの開封率の追跡を、キャンペーンで各開封率に対して1回だけ、または異なるキャンペーンで使用される回数に関係なく、メールごとに1回だけ制御できます。
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-1. 「**管理者**」領域に移動します。
+1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
    ![](assets/email-open-tracking-at-campaign-level-1.png)
 
-1. 「**スマートキャンペーン**」をクリックします。
+1. 「**[!UICONTROL スマートキャンペーン]**」をクリックします。
 
    ![](assets/email-open-tracking-at-campaign-level-2.png)
 
-1. _メール開封数の設定_ の横の「**編集**」をクリックします。
+1. 「_電子メール開封数の設定_」の横にある「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/email-open-tracking-at-campaign-level-3.png)
 
-1. ドロップダウンをクリックし、目的の設定を選択して「**保存**」をクリックします。
+1. ドロップダウンをクリックし、目的の設定を選択して、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
    ![](assets/email-open-tracking-at-campaign-level-4.png)
 
 <table><tbody>
   <tr>
     <td><b>有効</b></td>
-    <td>メールの開封は、キャンペーンごとに個別にトラッキングされます。</td>
+    <td>電子メールの開封率は、キャンペーンごとに個別に追跡されます。</td>
   </tr>
   <tr>
     <td><b>無効</b></td>
-    <td>メールの開封は、一意のユーザーの開封数にのみカウントされます。</td>
+    <td>電子メールの開封数は、一意の人物の開封数に基づいてカウントされます。</td>
   </tr>
 </tbody>
 </table>
