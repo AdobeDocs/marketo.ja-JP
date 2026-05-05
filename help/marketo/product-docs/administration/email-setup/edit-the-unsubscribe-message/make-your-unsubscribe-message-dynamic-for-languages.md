@@ -159,4 +159,4 @@ ht-degree: 76%
 
    >[!NOTE]
    >
-   >[動的コンテンツ ](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)の詳細をご覧ください。
+   >[動的コンテンツ &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)の詳細をご覧ください。

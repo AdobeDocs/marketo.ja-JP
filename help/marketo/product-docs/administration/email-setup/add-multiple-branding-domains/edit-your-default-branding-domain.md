@@ -27,7 +27,7 @@ ht-degree: 57%
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. [!UICONTROL  ブランディングドメイン ] テーブルで、汎用ドメインを選択し、**[!UICONTROL 編集]**&#x200B;をクリックして、会社のブランドドメインに変更します。
+1. [!UICONTROL &#x200B; ブランディングドメイン &#x200B;] テーブルで、汎用ドメインを選択し、**[!UICONTROL 編集]**&#x200B;をクリックして、会社のブランドドメインに変更します。
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -43,4 +43,4 @@ ht-degree: 57%
 
 >[!NOTE]
 >
->既存のSSLを更新または削除する必要がある場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
+>既存のSSLを更新または削除する必要がある場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。

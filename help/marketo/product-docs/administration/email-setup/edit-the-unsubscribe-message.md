@@ -53,7 +53,7 @@ ht-degree: 65%
 [!UICONTROL HTMLの購読解除]:
 `<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>`
 <br>
-[!UICONTROL  テキストの購読解除]:
+[!UICONTROL &#x200B; テキストの購読解除]:
 `%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 >[!MORELIKETHIS]

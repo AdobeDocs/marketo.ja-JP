@@ -19,7 +19,7 @@ ht-degree: 48%
 >
 >* [既定のブランディング ドメインを編集](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md)。
 >
->* [汎用トラッキングリンク ](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)をブランドドメインに置き換えてから、ブランドドメインを追加します。
+>* [汎用トラッキングリンク &#x200B;](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md)をブランドドメインに置き換えてから、ブランドドメインを追加します。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
