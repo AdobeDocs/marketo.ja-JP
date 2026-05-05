@@ -66,7 +66,7 @@ Marketoは、次の[作成、編集、削除](/help/marketo/product-docs/adminis
 
 >[!TIP]
 >
->監査証跡を使用して監査を行うことはたくさんあるので、[ フィルタリング ](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)は大幅な時間節約になります。
+>監査証跡を使用して監査を行うことはたくさんあるので、[&#x200B; フィルタリング &#x200B;](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)は大幅な時間節約になります。
 
 ## データのエクスポート {#exporting-data}
 
