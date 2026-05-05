@@ -1,12 +1,12 @@
 ---
-description: フォームの検証ルールへのアクセス権限を有効にし、グローバルルールを作成して、特定のドメインがMarketo Engage forms に送信するのをブロックする方法。
+description: 「フォーム検証ルールにアクセス」権限を有効にし、特定のドメインがMarketo Engage フォームに送信するのをブロックするグローバルルールを作成する方法。
 title: グローバルフォーム検証ルール
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '296'
-ht-degree: 92%
+source-wordcount: '303'
+ht-degree: 51%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 92%
 
 ## アクセスを有効にする方法 {#how-to-enable-access}
 
-この機能を利用する前に、目的のロールに応じて権限を有効にする必要があります。
+この機能を使用する前に、必要な役割に応じて権限を有効にする必要があります。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -30,7 +30,7 @@ ht-degree: 92%
 
    ![](assets/global-form-validation-rules-3.png)
 
-1. 権限を付与するロールをダブルクリックします。
+1. 権限を付与する役割をダブルクリックします。
 
    ![](assets/global-form-validation-rules-4.png)
 
@@ -46,7 +46,7 @@ ht-degree: 92%
 
 >[!IMPORTANT]
 >
->これらのルールは、Marketo Engage サブスクリプション内のすべてのフォームに適用されます。
+>これらのルールは、Marketo Engage サブスクリプションのすべてのフォームに適用されます。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -64,17 +64,17 @@ ht-degree: 92%
    >
    >[!UICONTROL フォーム検証ルールのアクション]ドロップダウンを使用して、既存のルールを削除または編集できます。
 
-1. ルールに名前を付け、オプションの説明を入力し、フォーム訪問者に表示するエラーメッセージを入力します。ブロックするドメインを「ルール」ボックスに入力し、「**[!UICONTROL ルールをアクティブ化]**」を選択し、「**[!UICONTROL 作成]**」をクリックします。
+1. ルールに名前を付け、オプションの説明を入力し、フォーム訪問者に表示するエラーメッセージを入力します。 ブロックする1つ以上のドメインをルールボックスに入力し、**[!UICONTROL ルールをアクティブ化]**&#x200B;を選択して、**[!UICONTROL 作成]**&#x200B;をクリックします。
 
    ![](assets/global-form-validation-rules-10.png)
 
 >[!NOTE]
 >
->Marketo Engage には、あらかじめ用意された「消費者向けメールドメインブロックリスト」ルールを使用する際にブロックされる、無料の消費者向けメールドメインのブロックリストが定義されています。[このリストについて詳しくは、こちらを参照してください](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv)（ダウンロードするには、ブラウザーが最新であり、ダウンロードを受け入れることができることを確認します）。
+>Marketo Engageには、事前に読み込まれた「コンシューマーメールドメイン」ルールを使用する際にブロックされる無料のコンシューマーメールドメインの定義済みブロックリストがあります。 [このリストを表示](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) （ダウンロードするには、お使いのブラウザーが最新であること、ダウンロードを受け付けられることを確認してください）。
 
 ## フォームごとのアクセスを無効にする方法{#how-to-disable-access-per-form}
 
-有効にすると、ルールはすべてのフォームに適用されます。ただし、特定の要件があるフォームがあり、何も拒否したくない場合は、フォームの設定で[!UICONTROL グローバルフォーム検証ルール]を無効にできます。
+有効にすると、ルールはすべてのフォームに適用されます。 ただし、特定の要件を持つフォームがあり、何も拒否したくない場合は、フォームの設定で[!UICONTROL  グローバルフォーム検証ルール ]を無効にすることができます。
 
 1. 目的のフォームで、「**[!UICONTROL フォーム設定]**」をクリックし、「**[!UICONTROL 設定]**」をクリックします。
 

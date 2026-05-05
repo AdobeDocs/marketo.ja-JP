@@ -1,12 +1,12 @@
 ---
-description: IT レビューガイダンスを使用して、メールの管理画面でメールトラッキングリンクヘッダーをカスタマイズする方法（HTTPS の Strict-Transport-Security など）。
+description: HTTPS向けの厳格なトランスポートセキュリティを含む、メールの下の管理者のメールトラッキングリンクヘッダーをIT レビューガイダンスを使用してカスタマイズする方法。
 title: メールトラッキングリンクのヘッダー
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 83%
+source-wordcount: '119'
+ht-degree: 64%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 83%
 
    ![](assets/email-tracking-link-headers-2.png)
 
-1. 下にスクロールして「カスタムヘッダーオプション」を表示します。目的の設定を選択し、完了したら「**[!UICONTROL 変更を保存]**」をクリックします。
+1. 下にスクロールして「カスタムヘッダーオプション」を表示します。 目的の設定を選択し、完了したら「**[!UICONTROL 変更を保存]**」をクリックします。
 
    ![](assets/email-tracking-link-headers-3.png)
 
@@ -35,4 +35,4 @@ ht-degree: 83%
 
 >[!CAUTION]
 >
->これらの設定を IT チームと確認して、組織のポリシーをどのように設定するかを決定することが重要です。設定が正しくないと、一部の訪問者がメールリンクにアクセスできなくなる可能性があります。
+>これらの設定をIT部門と確認して、組織のポリシーを決定することが重要です。 設定が正しくないと、一部の訪問者がメールリンクにアクセスできなくなる可能性があります。

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 6095047
-description: 人物トラッキングを編集して、ブラウザーの Do Not Track リクエストを許可または無視する方法。
+description: ユーザーのトラッキングを編集して、ブラウザーのDo Not Track リクエストを尊重または無視する方法。
 title: 「トラックしない」ブラウザーのサポート設定の編集
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 88%
+source-wordcount: '138'
+ht-degree: 50%
 
 ---
 
 # 「トラックしない」ブラウザーのサポート設定の編集 {#edit-do-not-track-browser-support-settings}
 
-「トラックしない」は、Marketo などのシステムでトラックされないためのブラウザーリクエストです。次の手順でリクエストに従うことができます。
+「トラックしない」は、Marketo などのシステムでトラックされないためのブラウザーリクエストです。 次の手順でリクエストに従うことができます。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->「トラックしない」は、デフォルトで「**[!UICONTROL 無視]**」に設定されるので、この設定にする場合は手順を実行する必要はありません。
+>「トラッキングしない」はデフォルトで&#x200B;**[!UICONTROL Ignore]**&#x200B;に設定されるので、希望する場合は、手順を実行する必要はありません。
 
 1. 「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -45,8 +45,8 @@ ht-degree: 88%
 
    >[!NOTE]
    >
-   >ベストプラクティスは、「トラックしない」機能をサポートすることです。ヨーロッパでは、これは法律で決められています。
+   >ベストプラクティスは、「トラックしない」機能をサポートすることです。 ヨーロッパでは、それが法律です。
 
    >[!TIP]
    >
-   >「トラックしない」とその仕組みについて詳しくは、[このページ](https://en.wikipedia.org/wiki/Do_Not_Track)を参照してください。
+   >「トラッキングしない」とその仕組みについて詳しくは、[このページ ](https://en.wikipedia.org/wiki/Do_Not_Track)を参照してください。

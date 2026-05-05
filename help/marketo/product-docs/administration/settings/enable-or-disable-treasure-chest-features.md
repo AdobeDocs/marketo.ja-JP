@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360307
-description: 実験的な宝箱の機能をオンまたはオフにする方法。
+description: 実験的なTreasure Chest機能のオンとオフを切り替える方法。
 title: アイデアスペースの機能を有効または無効にする
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 88%
+ht-degree: 55%
 
 ---
 
 # アイデアスペースの機能を有効または無効にする {#enable-or-disable-treasure-chest-features}
 
-アイデアスペースは、完全にはサポートされていない楽しい実験機能を保持しています。
+Treasure Chestには、完全にサポートされていない実験的な機能が含まれています。
 
 >[!NOTE]
 >
@@ -37,4 +37,4 @@ ht-degree: 88%
 
    >[!TIP]
    >
-   >変更が有効になるように、場合によっては、ログアウトしてから Marketo に戻る必要があります。
+   >変更が有効になるには、ログアウトしてMarketoに再度ログインする必要がある場合があります。

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359893
-description: Marketo Engageでサポートされているブラウザーおよびバージョンの一覧（Chrome、Firefox、Safari、Edgeなど）と、Adobe ID ユーザー向けのメモを示します。
+description: Chrome、Firefox、Safari、Edgeなど、Marketo Engageでサポートされているブラウザーとバージョンの一覧と、Adobe ID ユーザー向けのメモ。
 title: サポートされているブラウザー
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 72%
+source-wordcount: '98'
+ht-degree: 69%
 
 ---
 
@@ -26,4 +26,4 @@ Marketo では現在、以下のブラウザーをサポートしています。
 >
 >[Adobe ID で Marketo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} に移行したユーザの場合、Strict モードの Microsoft Edge を除き、Mac と Windows の両方ですべてのブラウザーがサポートされます。
 
-最高のエクスペリエンスを得るには、**ブラウザーを最新に保って**&#x200B;ください。
+最適なエクスペリエンスを得るには、**ブラウザーを最新の状態に保つ**。

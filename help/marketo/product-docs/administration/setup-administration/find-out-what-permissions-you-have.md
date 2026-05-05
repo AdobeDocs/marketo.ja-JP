@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359898
-description: 現在のMarketoの権限を表示する方法について説明します。
+description: 現在のMarketo権限を表示する方法について説明します。
 title: 保有している権限を調べる
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 89%
+source-wordcount: '67'
+ht-degree: 59%
 
 ---
 
 # 保有している権限を調べる {#find-out-what-permissions-you-have}
 
-Marketo での権限や権限が不明な場合は、簡単に見つけることができます。
+Marketoでどのような権限を持っているかを確認するには、次の手順に従います。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 

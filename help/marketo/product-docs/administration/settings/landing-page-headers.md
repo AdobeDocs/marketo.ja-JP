@@ -1,12 +1,12 @@
 ---
-description: Strict-Transport-Security および X-Frame-Options など、ランディングページドメインの HTTP ヘッダーをカスタマイズする方法。
+description: Strict-Transport-SecurityやX-Frame-Optionsを含むランディングページドメインのHTTP ヘッダーをカスタマイズする方法。
 title: ランディングページのヘッダー
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 90%
+source-wordcount: '147'
+ht-degree: 61%
 
 ---
 
@@ -37,10 +37,10 @@ ht-degree: 90%
  </tr>
  <tr>
   <td><strong>[!UICONTROL X-Frame-Options]</strong></td>
-  <td>Marketo Engage がホストするアセットを外部の web ページに埋め込むかどうかを定義できます</td>
+  <td>Marketo Engageでホストされているアセットを外部web ページに埋め込めるかどうかを定義できます</td>
  </tr>
 </table>
 
 >[!CAUTION]
 >
->これらの設定を IT チームと確認して、組織のポリシーをどのように設定するかを決定することが重要です。設定が正しくないと、一部の訪問者がランディングページにアクセスできなくなる可能性があります。
+>これらの設定をIT部門と確認して、組織のポリシーを決定することが重要です。 設定が正しくないと、一部の訪問者がランディングページにアクセスできなくなる可能性があります。

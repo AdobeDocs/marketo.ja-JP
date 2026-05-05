@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360215
-description: パーソナライズされた URL を購読で有効にして、印刷メールやその他のキャンペーンで使用できるようにする手順です。
+description: 印刷メールやその他のキャンペーンで使用するサブスクリプションのパーソナライズされたURLを有効にする手順。
 title: アカウントでパーソナライズ URL を有効にする
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 83%
+source-wordcount: '96'
+ht-degree: 75%
 
 ---
 
 # アカウントでパーソナライズ URL を有効にする {#enable-personalized-urls-for-your-account}
 
-パーソナライズ URL は、招待状を郵送するなど紙媒体のキャンペーンをおこなうのに適しています。
+パーソナライズされたURLは、印刷メール施策に役立ちます。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 83%
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-完成です。アカウントで PURL が有効になったので、[個々のランディングページで有効にできます](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)。
+アカウントで PURL が有効になったので、[個々のランディングページで有効にできます](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)。
 
 >[!NOTE]
 >

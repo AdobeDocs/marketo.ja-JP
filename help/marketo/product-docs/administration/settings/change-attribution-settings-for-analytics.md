@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360217
-description: 収益サイクル分析でファーストタッチとマルチタッチのアトリビューション、リードコンバージョンおよびマーケティングに影響を与える商談オプションを設定する方法。
+description: 収益サイクル分析で、ファーストタッチとマルチタッチのアトリビューション、リードコンバージョン、マーケティングの影響を受けた機会オプションを設定する方法。
 title: 分析用属性設定の変更
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 91%
+source-wordcount: '200'
+ht-degree: 82%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 91%
 
 ファーストタッチおよびマルチタッチのアトリビューションの商談、リードコンバージョン指標、マーケティングが影響を与えた商談フラグに、Marketo が連絡先を結び付ける方法を変更できます。
 
-これらの設定は、[プログラム商談分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)、[商談分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)、リード分析の各領域にある[!UICONTROL 売上高エクスプローラー]レポートに影響を与えます。また、[!UICONTROL プログラムアナライザー]レポートにも影響を与えます。
+これらの設定は、[プログラム商談分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)、[商談分析](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md)、リード分析の各領域にある[!UICONTROL 売上高エクスプローラー]レポートに影響を与えます。 また、[!UICONTROL プログラムアナライザー]レポートにも影響を与えます。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -31,7 +31,7 @@ ht-degree: 91%
 
    >[!TIP]
    >
-   >この設定を変更しても、Marketo のデータは変更されません。単に、レポートの実行方法を変更するだけです。この設定は、いつでも元に戻すことができます。
+   >この設定を変更しても、Marketo データは変更されません。レポートの実行方法が変更されます。 この設定は、いつでも元に戻すことができます。
 
 1. オプションを選択し、「**[!UICONTROL 保存]**」をクリックします。
 
@@ -43,10 +43,10 @@ ht-degree: 91%
    >
    >**[!UICONTROL 明示的]**：ロールのある取引先責任者のみ（デフォルト）。
    >
-   >**[!UICONTROL 混合]**：ロールのある取引先責任者（ある場合）。使用できる連絡先がない場合は、アカウント内のすべての連絡先が使用されます。
+   >**[!UICONTROL 混合]**：ロールのある取引先責任者（ある場合）。 使用できる連絡先がない場合は、アカウント内のすべての連絡先が使用されます。
    >
    >**[!UICONTROL 暗黙的]**：ロールを問わずすべての取引先責任者。
 
 >[!CAUTION]
 >
->**[!UICONTROL 暗黙的]**&#x200B;を使用する場合、Marketo は常に、ロールに関係なく、アカウントに関連付けられたすべての連絡先を調べます。**Marketo では、[!UICONTROL 明示的]モードの使用を強くお勧めします**。[!UICONTROL 暗黙的]モードを使用すると、商談に実際の影響を与えないにもかかわらず、商談に対してクレジットを持つ人物という偽陽性を生み出す可能性があります。[!UICONTROL 暗黙的]モードは慎重に使用してください。
+>**[!UICONTROL 暗黙的]**&#x200B;を使用する場合、Marketo は常に、ロールに関係なく、アカウントに関連付けられたすべての連絡先を調べます。 **Marketo では、[!UICONTROL 明示的]モードの使用を強くお勧めします**。 [!UICONTROL 暗黙的]モードを使用すると、商談に実際の影響を与えないにもかかわらず、商談に対してクレジットを持つ人物という偽陽性を生み出す可能性があります。 [!UICONTROL 暗黙的]モードは慎重に使用してください。

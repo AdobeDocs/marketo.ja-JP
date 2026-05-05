@@ -1,18 +1,18 @@
 ---
-description: のキャンペーンインスペクターを有効にして使用し、すべてのスマートキャンペーンを 1 か所で表示および検索する方法。
+description: キャンペーンインスペクターを有効にして使用する方法から、すべてのスマートキャンペーンを1か所で表示および検索できます。
 title: キャンペーンインスペクター
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 85%
+source-wordcount: '134'
+ht-degree: 56%
 
 ---
 
 # キャンペーンインスペクター {#campaign-inspector}
 
-キャンペーンインスペクターを使用して、すべてのスマートキャンペーンを 1 か所で表示／検索できます。
+キャンペーンインスペクターを使用すると、すべてのスマートキャンペーンを1か所で表示および検索できます。
 
 ## キャンペーンインスペクターを有効にする {#enable-campaign-inspector}
 
@@ -34,7 +34,7 @@ ht-degree: 85%
 
    >[!NOTE]
    >
-   >有効にした後で「キャンペーンインスペクター」タブを表示するには、ツリーで目的のワークスペースを選択する必要があります。
+   >ワークスペースを有効にした後に「キャンペーンインスペクター」タブを表示するには、ツリーで目的のワークスペースを選択する必要があります。
 
 ## キャンペーンインスペクターの使用 {#using-campaign-inspector}
 

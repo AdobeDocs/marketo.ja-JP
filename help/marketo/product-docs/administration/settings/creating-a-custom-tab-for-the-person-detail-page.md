@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360305
-description: 人物詳細ページのカスタムレイアウトを作成する方法。
+description: 人物詳細ページのカスタムレイアウトの作成方法。
 title: ユーザーの詳細ページ用のカスタムタブの作成
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 92%
+source-wordcount: '138'
+ht-degree: 63%
 
 ---
 
 # ユーザーの詳細ページ用のカスタムタブの作成 {#creating-a-custom-tab-for-the-person-detail-page}
 
-人物の詳細の特定のフィールドセットを何度も繰り返し探している場合は、状況をより簡単にするために、カスタムレイアウトの作成を検討してください。
+人物の詳細ページの特定のフィールドセットに頻繁にアクセスする必要がある場合は、カスタムレイアウトの作成を検討してください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -43,6 +43,6 @@ ht-degree: 92%
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   素晴らしいです。これで、人物の詳細を読み込む際に、カスタムレイアウトを使用して、重要な情報にアクセスできます。
+   ユーザーの詳細を読み込むと、カスタムレイアウトを使用して、重要な情報にアクセスできます。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

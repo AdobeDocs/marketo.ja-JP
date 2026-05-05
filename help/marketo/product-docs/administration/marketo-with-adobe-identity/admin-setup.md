@@ -3,36 +3,36 @@ description: Adobe Admin Consoleでの製品プロファイルの作成など、
 title: 管理者設定
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 90%
+source-wordcount: '256'
+ht-degree: 41%
 
 ---
 
 # 管理者設定 {#admin-setup}
 
-アドビのシステム管理者としてアドビ組織の Marketo Engage に追加された後、初期設定を完了するためにいくつかの手順を実行する必要があります。
+Adobe組織でAdobe システム管理者としてMarketo Engageに追加された後、初期設定を完了するために必要な手順がいくつかあります。
 
 ## 初期設定 {#initial-setup}
 
-1. （新しい組織または設立された組織で）Marketo Engage の指定システム管理者として追加されたら、ウェルカムメールが届きます。そのメールで、「**[!UICONTROL 開始する]**」をクリックします。
+1. （新しい組織または既存の組織で）Marketo Engageの指定システム管理者として追加された後、ウェルカムメールが届きます。 そのメールで、「**[!UICONTROL 開始する]**」をクリックします。
 
    ![](assets/admin-setup-1.png)
 
-1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、Adobe Admin Console にすぐに移動します。そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target="_blank"}します。
+1. 以前にAdobe IDでアプリケーションにアクセスしたことがある場合は、Adobe Admin Consoleに直接アクセスできます。 そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target="_blank"}します。
 
    ![](assets/admin-setup-2.png)
 
 ## 製品プロファイルの作成 {#create-a-product-profile}
 
-システム管理者が Admin Console にアクセスしたら、次に製品プロファイルを作成します。この方法で、ユーザーや管理者は Marketo Engage にアクセスできます。
+システム管理者がAdmin Consoleにアクセスしたら、次は製品プロファイルを作成します。 これは、ユーザーと管理者がMarketo Engageにアクセスする方法です。
 
 1. **[!UICONTROL 概要]**&#x200B;ページの「**[!UICONTROL 製品とサービス]**」で、「**Marketo Engage**」をクリックします。
 
    ![](assets/admin-setup-3.png)
 
-1. 目的のサブスクリプションを選択します。1 つのみの場合は、次の手順に進みます。
+1. 目的のサブスクリプションを選択します。 1 つのみの場合は、次の手順に進みます。
 
    ![](assets/admin-setup-4.png)
 
@@ -48,11 +48,11 @@ ht-degree: 90%
 
    ![](assets/admin-setup-6.png)
 
-1. サービスを選択する必要はありません。「**[!UICONTROL 保存]**」をクリックします。
+1. サービスを選択する必要はありません。 「**[!UICONTROL 保存]**」をクリックします。
 
 >[!NOTE]
 >
->複数の製品プロファイルを設定した場合、追加先のプロファイルに関係なく、ユーザーは同じ Marketo へのアクセス権を持ちます。
+>複数の製品プロファイルを設定すると、どのプロファイルに追加されているかに関係なく、ユーザーはMarketoに同じアクセス権を持ちます。
 
 >[!MORELIKETHIS]
 >

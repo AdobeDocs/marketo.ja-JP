@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359900
-description: OS、ディスプレイ解像度、ブラウザー、ネットワークなど、Marketo Engage許可リストに加えるを使用するためのハードウェア要件とソフトウェア要件。
+description: OS、ディスプレイ解像度、ブラウザー、ネットワーク許可リストの詳細など、Marketo Engageを使用するためのハードウェアおよびソフトウェア要件。
 title: 必要なシステム構成
 exl-id: 0fa8369f-18d6-45f2-80d0-d95fb2631a01
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 83%
+source-wordcount: '109'
+ht-degree: 64%
 
 ---
 
 # 必要なシステム構成 {#minimum-system-requirements}
 
-Marketo Engage にログインして使用するために必要なものをご紹介します。
+Marketo Engageを使用してログインする際に必要な情報を探している場合は、次の情報を参照してください。
 
 >[!NOTE]
 >

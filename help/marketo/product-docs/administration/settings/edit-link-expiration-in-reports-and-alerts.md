@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360213
-description: レポートのサブスクリプションメールのリンクが有効なままである日数を変更する方法。
+description: レポート購読メールのリンクの有効期限を変更する方法。
 title: レポートとアラートのリンク有効期限の編集
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 87%
+source-wordcount: '101'
+ht-degree: 76%
 
 ---
 
 # レポートとアラートのリンク有効期限の編集 {#edit-link-expiration-in-reports-and-alerts}
 
-レポート配信登録メール内のリンクは、3 日後に有効期限が切れます。これらのリンクの有効期限を変更するには、次の手順に従います。
+レポート配信登録メール内のリンクは、3 日後に有効期限が切れます。 これらのリンクの有効期限を変更するには、次の手順に従います。
 
 >[!NOTE]
 >
@@ -31,10 +31,10 @@ ht-degree: 87%
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
-1. ドロップダウンで、リンクの有効期限が切れるまでの日数を選択します。「**[!UICONTROL 保存]**」をクリックします。
+1. ドロップダウンで、リンクの有効期限が切れるまでの日数を選択します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >
->この設定は、レポートおよびアラート内のリンクにのみ適用されます。メールによる[ダウンロードレポート](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message)リンクまたはマーケティングメールには&#x200B;**適用されません**。
+>この設定は、レポートおよびアラート内のリンクにのみ適用されます。 メールによる[ダウンロードレポート](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message)リンクまたはマーケティングメールには&#x200B;**適用されません**。

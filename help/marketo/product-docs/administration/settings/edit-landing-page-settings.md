@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359918
-description: ドメイン名、フォールバックページ、フォームの事前入力、その他のランディングページオプションの編集方法。
+description: ドメイン名、フォールバックページ、フォームの事前入力などのランディングページオプションを編集する方法。
 title: ランディングページ設定の編集
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 94%
+source-wordcount: '236'
+ht-degree: 77%
 
 ---
 
 # ランディングページ設定の編集 {#edit-landing-page-settings}
 
-ドメイン名とフォールバックページの編集、フォームの事前入力の有効化や無効化、ランディングページの誤用の防止などを行うことができます。手順は以下のとおりです。
+ドメイン名とフォールバックページの編集、フォームの事前入力の有効化や無効化、ランディングページの誤用の防止などを行うことができます。 次の手順に従います。
 
 >[!NOTE]
 >
@@ -37,17 +37,17 @@ ht-degree: 94%
 
    | 用語 | 定義 |
    |---|---|
-   | [!UICONTROL ランディングページのドメイン名] | これは、あなたの CNAME です。CNAME は、ランディングページの訪問者に与える URL の最初の部分です。例えば、`https://go.yourCompany.com` の場合、「go」が CNAME です。複数を使用できますが、ほとんどのユーザーは 1 つのみを使用します。 |
-   | [!UICONTROL フォールバックページ] | ランディングページが存在しないか停止している場合に表示するページです。詳しくは、[フォールバックページ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)を参照してください。 |
+   | [!UICONTROL ランディングページのドメイン名] | これは、あなたの CNAME です。 CNAME は、ランディングページの訪問者に与える URL の最初の部分です。 例えば、`https://go.yourCompany.com` の場合、「go」が CNAME です。 複数のフィールドを使用することもできますが、ほとんどの人は1つしか使用しません。 |
+   | [!UICONTROL フォールバックページ] | ランディングページが存在しない、またはダウンしている場合は、ここに移動します。 詳しくは、[フォールバックページ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)を参照してください。 |
    | [!UICONTROL ホームページ] | 企業サイトの URL を入力します。 |
 
-1. 「**[!UICONTROL フォームの事前入力]**」チェックボックスをオンにすると、既知の（Cookie が保存されている）リードに関する情報をフォームに事前入力できます。ブロックする場合はオフにします。
+1. 「**[!UICONTROL フォームの事前入力]**」チェックボックスをオンにすると、既知の（Cookie が保存されている）リードに関する情報をフォームに事前入力できます。 ブロックする場合はオフにします。
 
    ![](assets/edit-landing-page-settings-5.png)
 
    >[!NOTE]
    >
-   >`<script>` タグをコードの `<head>` タグの最後に事前入力する場合は、「**[!UICONTROL Head の最後に Script を事前挿入]**」ボックスをオンにします。最初に表示する場合は、オフのままにします。
+   >`<script>` タグをコードの `<head>` タグの最後に事前入力する場合は、「**[!UICONTROL Head の最後に Script を事前挿入]**」ボックスをオンにします。 最初に表示する場合は、オフのままにします。
    >
    >「**[!UICONTROL デフォルトの Favicon リンクを削除]**」をオンにして、Marketo が Favicon リンクをコードに挿入しないようにします。
 
@@ -55,4 +55,4 @@ ht-degree: 94%
 
    ![](assets/edit-landing-page-settings-6.png)
 
-   完成です。これで、ランディングページに適切な情報が表示され、すぐに作業を開始できます。
+   これでランディングページに適切な情報が表示されるので、すぐに作業を開始する必要があります。
