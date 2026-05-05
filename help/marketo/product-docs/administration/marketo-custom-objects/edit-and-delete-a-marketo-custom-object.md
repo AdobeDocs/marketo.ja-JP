@@ -41,7 +41,7 @@ ht-degree: 78%
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
-1. [編集したオブジェクト ](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)を承認します。
+1. [編集したオブジェクト &#x200B;](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)を承認します。
 
 ## カスタムオブジェクトの削除 {#delete-a-custom-object}
 

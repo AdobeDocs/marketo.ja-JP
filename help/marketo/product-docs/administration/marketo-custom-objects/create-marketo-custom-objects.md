@@ -133,7 +133,7 @@ ht-degree: 55%
 
    >[!NOTE]
    >
-   >これらのフィールドは作成時に編集できますが、保存した後は、[!UICONTROL 複数名] フィールドと[!UICONTROL  リード詳細を表示] スライダーのみを編集できます。
+   >これらのフィールドは作成時に編集できますが、保存した後は、[!UICONTROL 複数名] フィールドと[!UICONTROL &#x200B; リード詳細を表示] スライダーのみを編集できます。
 
 1. データベースページにカスタムオブジェクトデータを表示する場合、「**[!UICONTROL リード詳細で表示]**」スライダーを引いて、「**[!UICONTROL 表示]**」を表示します。 「**[!UICONTROL 保存]**」をクリックします。
 
@@ -141,7 +141,7 @@ ht-degree: 55%
 
 1. カスタムオブジェクト情報には、入力した内容が表示されます。 **[!UICONTROL ドラフト]**&#x200B;状態であることに注意してください。
 
-   次の手順では、[ リンクフィールドを追加](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)して、仲介オブジェクトを個人または会社とカスタムオブジェクトに接続します。
+   次の手順では、[&#x200B; リンクフィールドを追加](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)して、仲介オブジェクトを個人または会社とカスタムオブジェクトに接続します。
 
 >[!MORELIKETHIS]
 >

@@ -42,13 +42,13 @@ ht-degree: 68%
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. リンクフィールドに名前を付けて、オプションで[!UICONTROL 説明]を追加します。 「[!UICONTROL  リンク ]」データタイプを選択します。
+1. リンクフィールドに名前を付けて、オプションで[!UICONTROL 説明]を追加します。 「[!UICONTROL &#x200B; リンク &#x200B;]」データタイプを選択します。
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >カスタムオブジェクトが承認されると、戻って[!UICONTROL  リンク ]または[!UICONTROL 重複排除フィールド ]を作成、編集、削除することはできません。
+   >カスタムオブジェクトが承認されると、戻って[!UICONTROL &#x200B; リンク &#x200B;]または[!UICONTROL 重複排除フィールド &#x200B;]を作成、編集、削除することはできません。
 
 1. [!UICONTROL リンクオブジェクト]の対象が[!UICONTROL リード]（人物）か[!UICONTROL 会社]かを選択します。
 
@@ -56,7 +56,7 @@ ht-degree: 68%
 
    >[!NOTE]
    >
-   >[!UICONTROL  リード ]を選択すると、リストにID、電子メールアドレス、および任意のカスタムフィールドが表示されます。
+   >[!UICONTROL &#x200B; リード &#x200B;]を選択すると、リストにID、電子メールアドレス、および任意のカスタムフィールドが表示されます。
    >
    >[!UICONTROL company]を選択すると、リストにIdと任意のカスタムフィールドが表示されます。
 
@@ -96,13 +96,13 @@ ht-degree: 68%
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. リンクフィールドを2つ、1つずつ作成します。 まず、データベースリストのメンバーのフィールドに名前を付けます（例：leadID）。 オプションで[!UICONTROL 説明]を追加します。 [!UICONTROL  リンク ] [!UICONTROL  データタイプ ]を選択します。
+1. リンクフィールドを2つ、1つずつ作成します。 まず、データベースリストのメンバーのフィールドに名前を付けます（例：leadID）。 オプションで[!UICONTROL 説明]を追加します。 [!UICONTROL &#x200B; リンク &#x200B;] [!UICONTROL &#x200B; データタイプ &#x200B;]を選択します。
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >カスタムオブジェクトが承認されると、戻って[!UICONTROL  リンク ]または[!UICONTROL 重複排除フィールド ]を作成、編集、削除することはできません。
+   >カスタムオブジェクトが承認されると、戻って[!UICONTROL &#x200B; リンク &#x200B;]または[!UICONTROL 重複排除フィールド &#x200B;]を作成、編集、削除することはできません。
 
 1. データベースから[!UICONTROL リンクオブジェクト]（この場合は「[!UICONTROL リード]」）を選択します。
 

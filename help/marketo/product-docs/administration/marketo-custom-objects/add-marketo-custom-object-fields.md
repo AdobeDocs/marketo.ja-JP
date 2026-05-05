@@ -45,7 +45,7 @@ ht-degree: 57%
    >
    >[!UICONTROL API名]は、承認されるまで編集できます。
 
-1. リストから適切な[!UICONTROL  データタイプ ]を選択します。
+1. リストから適切な[!UICONTROL &#x200B; データタイプ &#x200B;]を選択します。
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 
