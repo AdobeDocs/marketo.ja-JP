@@ -1,19 +1,19 @@
 ---
 unique-page-id: 5472615
-description: ユーザーの詳細ページの編集不可のシステム管理フィールドと、各フィールドタイプの意味について説明します。
+description: 人物詳細ページの編集不可のシステム管理フィールドと、各フィールドタイプの意味について説明します。
 title: システム管理のフィールドについて
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '532'
-ht-degree: 96%
+source-wordcount: '537'
+ht-degree: 92%
 
 ---
 
 # システム管理のフィールドについて {#understanding-system-managed-fields}
 
-[人物の詳細ページ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}には、Marketo によって作成される編集不可のフィールドがあることにお気付きかもしれません。そうしたフィールドのデータは、ソースも表示される値もさまざまです。
+[人物の詳細ページ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}には、Marketo によって作成される編集不可のフィールドがあることにお気付きかもしれません。 このデータはさまざまなソースから取得され、表示できる値は無数にあります。
 
 ## フィールドのタイプ {#field-types}
 
@@ -129,7 +129,7 @@ ht-degree: 96%
   </tr>
   <tr>
     <td>取引先責任者</td>
-    <td>人物は web フック から取引先責任者として同期されました</td>
+    <td>ユーザーが連絡先としてSalesforceから同期されました</td>
   </tr>
   <tr>
     <td>Munchkin API</td>

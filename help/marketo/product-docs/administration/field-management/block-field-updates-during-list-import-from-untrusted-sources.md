@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360335
-description: 信頼できないソースからリストを読み込む際にキーフィールドが上書きされるのを防ぎ、既存のデータを保護します。
+description: 信頼できないソースからリストをインポートする際に、主要なフィールドが上書きされるのをブロックし、既存のデータを保護します。
 title: 信頼できないソースからのリストインポート中に、フィールドの更新をブロック
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '209'
-ht-degree: 92%
+source-wordcount: '205'
+ht-degree: 76%
 
 ---
 
 # 信頼できないソースからのリストインポート中に、フィールドの更新をブロック {#block-field-updates-during-list-import-from-untrusted-sources}
 
-一部のリストのデータは、他のリストよりも信頼できます。疑わしいデータを、フィールドが空白の場合は取得し、既存の値が存在する場合は取得したくない場合があります。これは、キーフィールドのフィールド更新をブロックすることで実現できます。
+一部のリストのデータは、他のリストよりも信頼できます。 疑わしいデータがあり、フィールドが空白の場合はデータを受け入れたいが、既存の値がある場合は受け入れない場合があります。 これは、キーフィールドのフィールド更新をブロックすることで実現できます。
 
 >[!NOTE]
 >
@@ -51,4 +51,4 @@ ht-degree: 92%
 
 リストのインポートの詳しい手順については、[人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)を参照してください。
 
-お疲れさまでした。これで、キーフィールドを信頼できないリストから安全に保つ方法を理解できました。
+キーフィールドが信頼できないリストの読み込みから保護されるようになりました。

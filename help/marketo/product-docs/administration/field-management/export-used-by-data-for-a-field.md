@@ -1,19 +1,19 @@
 ---
 unique-page-id: 45417092
-description: フィールドを使用するアセットのリストを書き出し、チームにリンク解除をデリゲートできるようにします。
+description: フィールドを使用するアセットのリストを書き出して、リンク解除をチームに委任できるようにします。
 title: フィールドの使用先データのエクスポート
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 84%
+source-wordcount: '107'
+ht-degree: 60%
 
 ---
 
 # フィールドの使用先データのエクスポート {#export-used-by-data-for-a-field}
 
-管理者は、フィールドに関連するアセットをエクスポートして、リンクの解除をチームに委任できます。
+管理者は、フィールドの関連アセットを書き出して、リンク解除をチームに委任できます。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 84%
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. [!DNL Excel] ファイルがエクスボートされます。コンテンツを表示するには、ファイルを開きます。
+1. [!DNL Excel] ファイルの書き出し。 コンテンツを表示するには、ファイルを開きます。
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

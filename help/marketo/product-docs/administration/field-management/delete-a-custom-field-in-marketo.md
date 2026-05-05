@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360339
-description: 不要になったカスタムフィールドをユーザーインターフェイスで非表示にして、使用から削除する方法。
+description: カスタムフィールドが不要になった場合に、ユーザーインターフェイスから非表示にしてカスタムフィールドを使用から削除する方法。
 title: Marketo でのカスタムフィールドの削除
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 79%
+source-wordcount: '103'
+ht-degree: 43%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 79%
 >
 >**管理者権限が必要**
 
-以前に作成したフィールドを使用しなくなった場合は、そのフィールドを削除したくなるかもしれません。残念ながら、Marketo のフィールドは削除できませんが、ユーザインターフェイスから&#x200B;_非表示にできます_。
+以前に作成したフィールドを使用できなくなった場合は、そのフィールドを削除することもできます。 残念ながら、Marketoではフィールドを削除できませんが、_では_ ユーザーインターフェイスからフィールドを非表示にできます。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

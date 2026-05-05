@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360293
-description: フォーム、スマートリスト、キャンペーンでのすべての使用を削除した後、Marketoのカスタムフィールドの名前を変更する手順です。
+description: フォーム、スマートリスト、キャンペーンでのすべての使用を削除した後に、Marketoでカスタムフィールドの名前を変更する手順。
 title: フィールドの名前を変更する
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 85%
+source-wordcount: '131'
+ht-degree: 46%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 85%
 
 >[!NOTE]
 >
->Marketo でのカスタムフィールドの名前変更は可能ですが、注意しなければならないのは、その前に、システムでの使用をすべて削除する必要があるということです。これにはフォーム、スマートリスト、スマートキャンペーンが該当します。
+>Marketoでは、カスタムフィールドの名前を変更できます。 ただし、これを行う前に、システムでの使用をすべて削除する必要があります。 これには、フォーム、スマートリスト、スマートキャンペーンが含まれます。
 
 >[!NOTE]
 >
@@ -41,8 +41,8 @@ ht-degree: 85%
 
    ![](assets/rename-a-field-4.png)
 
-できましたね。これで、Marketo でフィールドを名前変更する方法がわかりました。
+これで、Marketo でフィールドを名前変更する方法がわかりました。
 
 >[!CAUTION]
 >
->[!DNL Salesforce] で API 名を変更すると、Marketo は新しいフィールドを作成し、古いフィールドはそのままにします。
+>[!DNL Salesforce]でAPI名を変更すると、Marketoは新しいフィールドを作成し、古いフィールドを残します。

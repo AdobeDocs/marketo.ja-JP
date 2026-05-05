@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360287
-description: 人物や会社のデータを保存およびキャプチャするための新しいカスタムフィールドをMarketo Engageで作成する手順です。
+description: Marketo Engageで新しいカスタムフィールドを作成し、個人または企業向けのデータを保存して取り込む手順。
 title: Marketo でのカスタムフィールドの作成
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 90%
+source-wordcount: '203'
+ht-degree: 65%
 
 ---
 
 # Marketo でのカスタムフィールドの作成 {#create-a-custom-field-in-marketo}
 
-データを保存または取得するために Marketo Engage で新しいカスタムフィールドが必要な場合は、以下の方法で作成します。
+Marketo Engageでカスタムフィールドを作成して、データを保存および取り込む方法について説明します。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -39,7 +39,7 @@ ht-degree: 90%
    >
    >_会社_&#x200B;オブジェクトは自分で選択できませんが、[Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡してリクエストできます。
 
-1. 「_[!UICONTROL タイプ]_」フィールドを選択します。 これにより、Marketo のスマートリストおよびフォームでのレンダリング方法が変更されます。
+1. 「_[!UICONTROL タイプ]_」フィールドを選択します。 これにより、Marketoのスマートリストおよびフォームでのレンダリング方法が変更されます。
 
    >[!TIP]
    >
@@ -51,7 +51,7 @@ ht-degree: 90%
 
 >[!CAUTION]
 >
->フィールド名の先頭に、以下の文字を使用することはできません。**.&amp; +[]**
+>フィールド名は次の文字で始めることはできません：**。 &amp; +[]**
 
 ![](assets/create-a-custom-field-in-marketo-6.png)
 
@@ -59,4 +59,4 @@ ht-degree: 90%
 >
 >この API 名は、SOAP API および他のバックエンドプロセスで使用されます。
 
-これで、フォーム、フローステップ、スマートリストでこのカスタムフィールドを使用できます。
+このカスタムフィールドを、フォーム、フローステップ、スマートリストで使用できるようになりました。

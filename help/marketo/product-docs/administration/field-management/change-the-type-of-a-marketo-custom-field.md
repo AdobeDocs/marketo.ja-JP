@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360331
-description: フィールド管理でカスタムフィールドのデータタイプを変更する方法（スコアフィールドと式フィールドは変更できません）。
+description: フィールド管理でカスタムフィールドのデータタイプを変更する方法（スコアと数式フィールドは変更できません）。
 title: Marketo カスタムフィールドタイプの変更
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 81%
+source-wordcount: '113'
+ht-degree: 56%
 
 ---
 
 # Marketo カスタムフィールドタイプの変更 {#change-the-type-of-a-marketo-custom-field}
 
-カスタムフィールドのフィールドタイプを変更する方法を次に示します。
+カスタムフィールドのフィールドタイプを変更する方法について説明します。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -45,7 +45,7 @@ ht-degree: 81%
 
    >[!NOTE]
    >
-   >表示される警告メッセージは、変更元／変更先のフィールドの種類に応じて異なります。
+   >表示される警告メッセージは、変更するフィールドの種類によって異なります。
 
    >[!MORELIKETHIS]
    >

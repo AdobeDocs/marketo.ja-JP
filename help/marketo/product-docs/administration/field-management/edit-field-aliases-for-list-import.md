@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360346
-description: 不明な列ヘッダーを含むリストの読み込みが正しいMarketo フィールドにマッピングされるように、フィールドのエイリアスを作成および編集します。
+description: フィールドエイリアスを作成および編集して、不明な列ヘッダーを含むリストの読み込みを正しいMarketo フィールドにマッピングします。
 title: リストのインポートのフィールドエイリアスの編集
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 87%
+source-wordcount: '134'
+ht-degree: 46%
 
 ---
 
 # リストのインポートのフィールドエイリアスの編集 {#edit-field-aliases-for-list-import}
 
-不明なヘッダーを含むリストをインポートする場合、フィールドのエイリアスを作成して、処理を簡単にすることができます。これらのエイリアスは、フィールド管理でも編集できます。ご確認ください。
+不明なヘッダーを含むリストを読み込む場合は、フィールドエイリアスを作成して、今後の読み込みを簡素化できます。 フィールド管理でこれらのエイリアスを編集することもできます。
 
 >[!NOTE]
 >
@@ -43,6 +43,6 @@ ht-degree: 87%
 >
 >必要に応じて、「**[!UICONTROL さらに追加]**」をクリックして、さらにエイリアスを入力します。
 
-確認してみてください。「DOB」という名前の列を持つスプレッドシートを読み込むと、Marketo は自動的に「生年月日」と認識し、データを正しいフィールドに読み込みます。
+これで、「DOB」という名前の列を含むスプレッドシートを読み込むと、Marketoは自動的に「生年月日」として認識し、データを正しいフィールドに読み込みます。
 
 ![](assets/edit-field-aliases-for-list-import-6.png)

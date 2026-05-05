@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360295
-description: SOAP API またはMunchkin API で使用するMarketo フィールドとその API 名のスプレッドシートをダウンロードします。
+description: SOAP APIまたはMunchkin APIで使用するすべてのMarketo フィールドとそのAPI名のスプレッドシートをダウンロードします。
 title: すべての Marketo API フィールド名のリストのエクスポート
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 82%
+source-wordcount: '100'
+ht-degree: 62%
 
 ---
 
 # すべての Marketo API フィールド名のリストのエクスポート {#export-a-list-of-all-marketo-api-field-names}
 
-アドビの [!DNL SOAP API] や [!DNL Munchkin API] を使用している場合、すべてのフィールド名とその API 名のリストが必要になります。以下に、このリストの取得方法を示します。
+[!DNL SOAP API]または[!DNL Munchkin API]を使用している場合は、すべてのフィールドとそのAPI名のリストが必要です。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 82%
 
    ![](assets/export-a-list-of-all-marketo-api-field-names-3.png)
 
-作業は以上です。これで、すべてのフィールド名と API 名のリストを含んだスプレッドシートが作成されました。
+これで、すべてのフィールド名と API 名のリストを含んだスプレッドシートが作成されました。
 
 ![](assets/export-a-list-of-all-marketo-api-field-names-4.png)
 

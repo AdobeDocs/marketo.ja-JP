@@ -1,12 +1,12 @@
 ---
-description: すべてのオブジェクトとそのメタデータ（リードフィールド、カスタムオブジェクト、アクティビティ、チャネル、タグなど）を CSV として書き出します。
+description: リードフィールド、カスタムオブジェクト、アクティビティ、チャネル、タグなど、すべてのオブジェクトとそのメタデータをCSVとして書き出します。
 title: すべてのオブジェクトメタデータのエクスポート
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 79%
+source-wordcount: '85'
+ht-degree: 60%
 
 ---
 
@@ -43,8 +43,8 @@ ht-degree: 79%
 
 >[!NOTE]
 >
->ブラウザーが Marketo からのポップアップをブロックしていないことを確認します。
+>お使いのブラウザーがMarketoのポップアップをブロックしていないことを確認します。
 
-データは CSV としてエクスポートされます。
+データはCSVとして書き出されます。
 
 ![](assets/export-all-object-metadata-4.png)

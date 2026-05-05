@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4720461
-description: メールで使用する人物トークンおよび会社トークンのHTML エンコーディングを有効または無効にして、正しく送信できるようにします。
+description: 電子メールで使用される個人および企業のトークンに対して、HTML エンコーディングを有効または無効にして、正しい送信を行います。
 title: メールでの HTML エンコードトークン
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 84%
+source-wordcount: '99'
+ht-degree: 58%
 
 ---
 
 # メールでの HTML エンコードトークン {#html-encode-tokens-in-emails}
 
-メールで使用されるユーザートークンと会社トークンを有効／無効にします。
+メールで使用される個人および企業のトークンを有効または無効にします。
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 84%
 
 >[!NOTE]
 >
->エンコーディングでは送信時の混乱を防ぐために文字が HTML コードのバージョンに変換されます（例：「&amp;」は `&amp;` に変換）。詳しくは、Web デベロッパーにお問い合わせください。
+>エンコーディングでは送信時の混乱を防ぐために文字が HTML コードのバージョンに変換されます（例：「&amp;」は `&amp;` に変換）。 詳しくは、web デベロッパーを参照してください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -39,4 +39,4 @@ ht-degree: 84%
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 
-   これで完了です。個々のフィールドに対して必要なだけ繰り返します。
+   必要に応じて、任意の追加フィールドに対して繰り返します。
