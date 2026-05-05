@@ -31,7 +31,7 @@ ht-degree: 65%
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   カスタムアクティビティの[!UICONTROL 状態]が[!UICONTROL  ドラフト ]から変更されました…
+   カスタムアクティビティの[!UICONTROL 状態]が[!UICONTROL &#x200B; ドラフト &#x200B;]から変更されました…
 
    ![](assets/publish-a-custom-activity-5.png)
 

@@ -45,4 +45,4 @@ ht-degree: 52%
 
 >[!NOTE]
 >
->フォームの変更によって作成されたランディングページのドラフト ](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}を[承認することを忘れないでください。
+>フォームの変更によって作成されたランディングページのドラフト [&#128279;](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}を承認することを忘れないでください。
