@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382122
-description: 役割の監査記録とログイン履歴を有効にし、管理者権限を使用して役割をユーザーに割り当てます。
+description: 役割の監査証跡とログイン履歴を有効にし、管理者権限を使用して役割をユーザーに割り当てます。
 title: 監査記録の有効化
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 92%
+source-wordcount: '244'
+ht-degree: 79%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 92%
    >
    >また、新しいロールを作成したり、監査記録アクセス権を付与したりするオプションも表示されます。
 
-1. **[!UICONTROL 管理アクセス]**&#x200B;権限を展開します。必要に応じて、「**[!UICONTROL 監査記録にアクセス]**」と「**[!UICONTROL ログイン履歴にアクセス]**」のいずれかまたは両方を選択します。「**[!UICONTROL 保存]**」をクリックします。
+1. **[!UICONTROL 管理アクセス]**&#x200B;権限を展開します。 必要に応じて、「**[!UICONTROL 監査記録にアクセス]**」と「**[!UICONTROL ログイン履歴にアクセス]**」のいずれかまたは両方を選択します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/enable-audit-trail-4.png)
 
@@ -65,15 +65,15 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >この手順は、新規ユーザーを作成している場合でも同様です。
+   >このプロセスは、新しいユーザーを作成する場合にも適用されます。
 
-1. 作成した監査記録のロールを選択します。ここでは、「監査記録 - アセットと管理」と「監査記録 - ログイン履歴」を作成しています。
+1. 作成した監査記録のロールを選択します。 この例では、「監査記録 – アセットと管理者」および「監査記録 – ログイン履歴あり」を作成する方法を示します。
 
    ![](assets/enable-audit-trail-7.png)
 
    >[!CAUTION]
    >
-   >ワークスペースを有効にしている場合は、必ずロールのチェックボックスを選択し、ワークスペースをすべて選択してください。個々のワークスペースの選択を解除すると、「監査記録」が非表示になります。つまり、すべてのワークスペースの「監査記録」データが表示されます。[フィルター](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を適用すると、ワークスペースを非表示にするオプションがあります。
+   >ワークスペースを有効にしている場合は、必ずロールのチェックボックスを選択し、ワークスペースをすべて選択してください。 個々のワークスペースの選択を解除すると、監査証跡が非表示になります。 [フィルター](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を適用すると、ワークスペースを非表示にするオプションがあります。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 

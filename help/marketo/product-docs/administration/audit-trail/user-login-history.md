@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377958
-description: 管理者ユーザーと役割を使用して、サブスクリプションにログインしたユーザーと、失敗した試行を含むタイミングを表示します。
+description: 管理者ユーザーと役割を使用して、サブスクリプションにログインしたユーザーと、失敗した試行回数を含む、いつログインしたかを表示します。
 title: ユーザログイン履歴
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 91%
+source-wordcount: '191'
+ht-degree: 75%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 91%
 ユーザログイン履歴は、次の方法でログインしたユーザを特定します。
 
 * ログイン日時
-* ユーザの名前とメールアドレス
+* ユーザーの名前とメールアドレス
 * ロール
 * ワークスペース
 * IP アドレス
@@ -37,7 +37,7 @@ ht-degree: 91%
 
    ![](assets/user-login-history-2.png)
 
-1. 「**[!UICONTROL ログイン履歴]**」タブをクリックします。リストには、最新のログインが表示されます。
+1. 「**[!UICONTROL ログイン履歴]**」タブをクリックします。 リストには、最新のログインが表示されます。
 
    ![](assets/user-login-history-3.png)
 
@@ -49,7 +49,7 @@ ht-degree: 91%
 
    ![](assets/user-login-history-5.png)
 
-1. または、ドロップダウンから選択します。
+1. ドロップダウンから選択します。
 
    ![](assets/user-login-history-6.png)
 
@@ -67,7 +67,7 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >ユーザインターフェイスには最大 30 日分のデータが表示されます。さらに必要な場合は、直近 6 ヶ月分のデータを csv ファイルにダウンロードできます。
+   >ユーザインターフェイスには最大 30 日分のデータが表示されます。 さらに必要な場合は、最新の6か月間のデータをCSV ファイルにダウンロードできます。
 
    >[!MORELIKETHIS]
    >
