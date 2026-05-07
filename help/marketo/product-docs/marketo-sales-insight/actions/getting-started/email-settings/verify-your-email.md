@@ -36,4 +36,4 @@ ht-degree: 65%
 
 >[!NOTE]
 >
->確認用メールが届かない場合は、スパムフォルダーを確認してください。 存在しない場合は、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>確認用メールが届かない場合は、スパムフォルダーを確認してください。 存在しない場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。

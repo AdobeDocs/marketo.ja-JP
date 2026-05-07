@@ -12,4 +12,4 @@ ht-degree: 51%
 
 # [!DNL Sales Insight Actions] に取引先責任者がプッシュされない理由 {#why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions}
 
-プッシュされた連絡先がない場合は、無効な[!DNL Salesforce]接続が存在している可能性があります。 [[!DNL Salesforce]  設定](https://toutapp.com/login)に移動し、接続を解除してから再接続します。 完全にリセットするまで、約 20 分待ちます。 それ以降もゼロの場合は、[ ケース ](https://nation.marketo.com/t5/Support/ct-p/Support#)をMarketo サポートに送信してください。
+プッシュされた連絡先がない場合は、無効な[!DNL Salesforce]接続が存在している可能性があります。 [[!DNL Salesforce]  設定](https://toutapp.com/login)に移動し、接続を解除してから再接続します。 完全にリセットするまで、約 20 分待ちます。 それ以降もゼロの場合は、[&#x200B; ケース &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support#)をMarketo サポートに送信してください。

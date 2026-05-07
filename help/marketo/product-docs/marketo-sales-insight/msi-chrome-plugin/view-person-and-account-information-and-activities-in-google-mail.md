@@ -49,4 +49,4 @@ Marketo アイコンをクリックして、ペインを開きます。
 
 >[!MORELIKETHIS]
 >
->[ [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md) 用 Marketo Insights の使用
+>[&#x200B; [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md) 用 Marketo Insights の使用

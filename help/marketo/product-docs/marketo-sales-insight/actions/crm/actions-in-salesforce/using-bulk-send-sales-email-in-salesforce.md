@@ -19,7 +19,7 @@ Sales Actions を使用したアウトバウンド通信の拡大に役立つ、
 
 >[!PREREQUISITES]
 >
->最新の[Sales Insight パッケージ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}をSalesforce インスタンスにインストールし、Salesforceの連絡先およびリードリストビューに[ アクションボタン ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"}を設定していることを確認してください。
+>最新の[Sales Insight パッケージ &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}をSalesforce インスタンスにインストールし、Salesforceの連絡先およびリードリストビューに[&#x200B; アクションボタン &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"}を設定していることを確認してください。
 
 ## Salesforce Lightning での一括メールの送信 {#sending-bulk-email-in-salesforce-lightning}
 

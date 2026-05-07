@@ -15,7 +15,7 @@ ht-degree: 84%
 
 このレポートを使用して、プログラムの有益な統計を表示します。
 
-1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"}し、**[!UICONTROL プログラム効果]**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}を選択します。
+1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"}し、**[!UICONTROL プログラム効果]**&#x200B;[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}を選択します。
 1. 「**[!UICONTROL レポート]**」タブをクリックします。
 1. キミはそこにいる！ レポートを参照して、プログラムの効果を確認します。
 

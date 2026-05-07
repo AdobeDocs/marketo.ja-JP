@@ -41,7 +41,7 @@ ht-degree: 67%
 
    >[!TIP]
    >
-   >[ [!DNL Sales Insight]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) にメールを公開して、そのメールから選択できます。
+   >[&#x200B; [!DNL Sales Insight]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) にメールを公開して、そのメールから選択できます。
 
    >[!NOTE]
    >

@@ -42,7 +42,7 @@ ht-degree: 75%
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   簡単ですね。 残っているのは[ メールプログラムの承認](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)のみです。よろしくお願いします。
+   簡単ですね。 残っているのは[&#x200B; メールプログラムの承認](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)のみです。よろしくお願いします。
 
 >[!MORELIKETHIS]
 >

@@ -29,7 +29,7 @@ Marketo Admin とモバイルアプリの開発者が連携して設定をおこ
 
 ## 手順 2：プッシュ通知を作成する {#step-create-a-push-notification}
 
-[ メッセージを作成](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)し、AndroidおよびiOS デバイスでのメッセージの表示方法をプレビューします。
+[&#x200B; メッセージを作成](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)し、AndroidおよびiOS デバイスでのメッセージの表示方法をプレビューします。
 
 ## 手順 3：送信する {#step-send}
 

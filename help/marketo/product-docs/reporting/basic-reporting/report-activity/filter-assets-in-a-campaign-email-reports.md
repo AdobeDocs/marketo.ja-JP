@@ -48,5 +48,5 @@ ht-degree: 80%
 
    >[!MORELIKETHIS]
    >
-   >[ キャンペーンメールパフォーマンスレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[&#x200B; キャンペーンメールパフォーマンスレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
    >[メールレポートでのアセットのフィルター](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

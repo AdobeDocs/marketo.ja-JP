@@ -39,7 +39,7 @@ ht-degree: 83%
 
    >[!NOTE]
    >
-   >また、メール内の要素を動的にすることもできます。 これを行うには、領域を選択し、歯車アイコンをクリックして、**動的にする** （または[実行している内容に応じてスニペット ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)に置き換える）を選択します。
+   >また、メール内の要素を動的にすることもできます。 これを行うには、領域を選択し、歯車アイコンをクリックして、**動的にする** （または[実行している内容に応じてスニペット &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)に置き換える）を選択します。
 
 1. セグメント名を入力して選択し、「**[!UICONTROL 保存]**」をクリックします。
 

@@ -18,7 +18,7 @@ ht-degree: 86%
 >* [アカウントでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [ランディングページでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. リストまたはスマートリストを選択し、「**[!UICONTROL リード]**」タブをクリックして結果を取得し、excel アイコンをクリックします。 インライン：**[!UICONTROL Marketo の一意のコード]**&#x200B;と **[!UICONTROL Marketo の一意の名前]**[列が表示されていることを確認してください。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)
+1. リストまたはスマートリストを選択し、「**[!UICONTROL リード]**」タブをクリックして結果を取得し、excel アイコンをクリックします。 インライン：**[!UICONTROL Marketo の一意のコード]**&#x200B;と **[!UICONTROL Marketo の一意の名前]**&#x200B;[列が表示されていることを確認してください。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 

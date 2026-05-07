@@ -63,10 +63,10 @@ ht-degree: 88%
 
    >[!CAUTION]
    >
-   >最後に、[!DNL Facebook] アカウント内で [ [!DNL Facebook] のカスタムオーディエンスの条件に同意する](https://www.facebook.com/ads/manage/customaudiences/tos.php)ことを確認します。 同意をしない場合、オーディエンスの更新が失敗します。
+   >最後に、[!DNL Facebook] アカウント内で [&#x200B; [!DNL Facebook] のカスタムオーディエンスの条件に同意する](https://www.facebook.com/ads/manage/customaudiences/tos.php)ことを確認します。 同意をしない場合、オーディエンスの更新が失敗します。
 
 >[!MORELIKETHIS]
 >
->* [ [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成
+>* [&#x200B; [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成
 >
->* [ [!DNL Facebook]  リード広告の設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>* [&#x200B; [!DNL Facebook]  リード広告の設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

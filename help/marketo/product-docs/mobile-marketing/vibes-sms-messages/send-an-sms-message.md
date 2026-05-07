@@ -77,4 +77,4 @@ SMS メッセージを[作成しました](/help/marketo/product-docs/mobile-mar
 >[!MORELIKETHIS]
 >
 >* [Vibes メッセージの作成](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
->* [ スマートキャンペーンでのSMS オプションの使用](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}
+>* [&#x200B; スマートキャンペーンでのSMS オプションの使用](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

@@ -87,7 +87,7 @@ ht-degree: 90%
    >
    >画像、ボタンまたは背景のタップアクションの場合、Apple および Android プラットフォーム用に様々なアクションを設定できます。 例えば、ディープリンクの処理は Apple と Android で異なります。 メッセージの送信先が 1 つのプラットフォームのみの場合は、もう 1 つのプラットフォームをデフォルト設定のままにするか、「**[!UICONTROL なし]**」を選択します。
 
-すばらしいです。 次に、[ アプリ内メッセージのテキストを作成します](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)。
+すばらしいです。 次に、[&#x200B; アプリ内メッセージのテキストを作成します](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)。
 
 >[!MORELIKETHIS]
 >

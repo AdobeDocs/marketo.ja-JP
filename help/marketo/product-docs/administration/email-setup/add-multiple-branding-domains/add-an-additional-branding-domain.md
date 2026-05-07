@@ -39,7 +39,7 @@ ht-degree: 44%
 >
 >* _プライマリドメインを作成_：これをプライマリドメインにし、既存の未送信メールのうち、「デフォルト」に設定されているすべてのメールと、新しく作成されたすべてのメールは、プライマリドメインにデフォルトで設定されます。 [この設定はメールごとに上書き](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md){target="_blank"}できます。
 >
->* _SSL 証明書を生成_：ドメインの作成に Secure Sockets Layer（SSL）を作成できます。 最初のトラッキングドメインは、数時間かかるインフラストラクチャの1回限りのセットアップを開始します。 完了すると通知が届き、最初のドメインを設定できます。 既存のドメインにSSLを追加するには、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
+>* _SSL 証明書を生成_：ドメインの作成に Secure Sockets Layer（SSL）を作成できます。 最初のトラッキングドメインは、数時間かかるインフラストラクチャの1回限りのセットアップを開始します。 完了すると通知が届き、最初のドメインを設定できます。 既存のドメインにSSLを追加するには、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
 
 ## 既存のドメインのSSLの編集
 
@@ -93,11 +93,11 @@ ht-degree: 44%
 
 * **Marketo EngageへのドメインのDNS マッピング**: UIにドメインを追加する前に、CNAMEを[Marketoが提供するドメインにマッピングする必要があります](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}。
 
-* **カスタム SSL**: カスタム SSLが必要な場合は、[ サポートチケット ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}を送信してください。 SSL 作成にセルフサービスチェックボックスを使用しないでください。
+* **カスタム SSL**: カスタム SSLが必要な場合は、[&#x200B; サポートチケット &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}を送信してください。 SSL 作成にセルフサービスチェックボックスを使用しないでください。
 
-* **既存のSSL**: ドメインの追加中に、システムが既存のSSLをチェックします。これは、以前に手動で作成された可能性があります。 この検証が発生した場合は、SSL作成を選択せずにドメインを作成し、[ サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡して接続してもらってください。
+* **既存のSSL**: ドメインの追加中に、システムが既存のSSLをチェックします。これは、以前に手動で作成された可能性があります。 この検証が発生した場合は、SSL作成を選択せずにドメインを作成し、[&#x200B; サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡して接続してもらってください。
 
-* **ドメインの削除**: ドメイン **を自動的に削除しても、SSL証明書は削除されません**。 このガードレールは、web サイトに SSL 証明書がない結果となるユーザーエラーを防ぎます。 SSL証明書を削除する場合は、[ サポートにお問い合わせください](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+* **ドメインの削除**: ドメイン **を自動的に削除しても、SSL証明書は削除されません**。 このガードレールは、web サイトに SSL 証明書がない結果となるユーザーエラーを防ぎます。 SSL証明書を削除する場合は、[&#x200B; サポートにお問い合わせください](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
 
 * 追加したドメインがCNAME以外のドメインとしてリストされている場合、ブランド化されたトラッキングドメインをさらに追加する機能はロックアウトされます。 既存のドメインを編集し、それがCNAME レコードであり、例えばA レコードでないことを確認する必要があります。 「追加」ボタンは、CNAMEのみを動的にチェックします。
 

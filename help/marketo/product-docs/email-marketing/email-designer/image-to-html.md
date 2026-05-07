@@ -24,7 +24,7 @@ Image to HTML converterは、静止画像を、完全にカスタマイズ可能
 >[!PREREQUISITES]
 >
 >* 最初に、メール Designerで生成AI機能を使用するための[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
->* Marketo ロール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)で[を有効にするには、_電子メールテンプレートにアクセス_&#x200B;と&#x200B;_電子メールテンプレートを編集/生成_&#x200B;権限が必要です。
+>* Marketo ロール [&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role)でを有効にするには、_電子メールテンプレートにアクセス_&#x200B;と&#x200B;_電子メールテンプレートを編集/生成_&#x200B;権限が必要です。
 
 ## 画像の変換 {#convert-an-image}
 

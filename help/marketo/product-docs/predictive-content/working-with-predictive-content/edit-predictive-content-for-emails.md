@@ -74,4 +74,4 @@ ht-degree: 82%
 
    >[!NOTE]
    >
-   >Marketo メールエディターv2.0では、コンテンツを有効にする際に使用するレイアウトテンプレート ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)を[表示することもできます。
+   >Marketo メールエディターv2.0では、コンテンツを有効にする際に使用するレイアウトテンプレート [&#128279;](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)を表示することもできます。

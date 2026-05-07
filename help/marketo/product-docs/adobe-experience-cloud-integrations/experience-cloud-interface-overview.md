@@ -58,7 +58,7 @@ _さんがすでに_&#x200B;様がAdobe Experience Cloud製品にログインし
 
 **Experience Cloud インターフェイスを使用して[!DNL Marketo Engage]にログインできません。 何が問題なのでしょうか？**
 
-Adobe Experience Cloud にログインできるが、「ページの読み込みに失敗しました」というエラーが表示される場合は、[!DNL Marketo Engage] 側の問題が考えられます。 サポートについては、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。
+Adobe Experience Cloud にログインできるが、「ページの読み込みに失敗しました」というエラーが表示される場合は、[!DNL Marketo Engage] 側の問題が考えられます。 サポートについては、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。
 
 **ユーザー履歴、グローバル検索、Marketo 通知およびタスクトレイはどこに移動しましたか？**
 

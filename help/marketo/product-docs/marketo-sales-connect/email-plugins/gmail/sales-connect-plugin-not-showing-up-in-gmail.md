@@ -21,9 +21,9 @@ ht-degree: 56%
 
 - 分かり切っているかもしれませんが、ブラウザーを終了して、新しいウィンドウを開いてみてください。
 
-- [web アプリケーション ](https://toutapp.com/login)に移動し、ログインしていることを確認します。
+- [web アプリケーション &#x200B;](https://toutapp.com/login)に移動し、ログインしていることを確認します。
 
-- Cookie が有効になっていることを確認します。 [!DNL Chrome]を使用している場合は、[!UICONTROL 設定] > [!UICONTROL 詳細設定を表示] > [!UICONTROL  コンテンツ設定] > 「[!UICONTROL  サードパーティ Cookieとサイトデータのブロック ]」のチェックを外します。
+- Cookie が有効になっていることを確認します。 [!DNL Chrome]を使用している場合は、[!UICONTROL 設定] > [!UICONTROL 詳細設定を表示] > [!UICONTROL &#x200B; コンテンツ設定] > 「[!UICONTROL &#x200B; サードパーティ Cookieとサイトデータのブロック &#x200B;]」のチェックを外します。
 
 - [!DNL Sales Connect] ブラウザー拡張機能を切断してから再接続してみてください。
 

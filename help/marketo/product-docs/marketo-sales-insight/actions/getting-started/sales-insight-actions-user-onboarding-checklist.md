@@ -12,7 +12,7 @@ ht-degree: 69%
 
 # セールスインサイトアクションのユーザオンボーディングチェックリスト {#sales-insight-actions-user-onboarding-checklist}
 
-Marketo Sales Insight Actionsの利用方法に関する資料をお探しの場合は、[ オンボーディングチェックリストをダウンロードしてください](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)。
+Marketo Sales Insight Actionsの利用方法に関する資料をお探しの場合は、[&#x200B; オンボーディングチェックリストをダウンロードしてください](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/assets/onboarding-checklist-marketo-sales-insight-actions-2023.xlsx)。
 
 >[!NOTE]
 >

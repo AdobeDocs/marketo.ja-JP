@@ -16,7 +16,7 @@ ht-degree: 51%
 
 ## [!DNL Velocity] とは {#what-is-velocity}
 
-[[!DNL Apache Velocity]](https://velocity.apache.org/) は、HTML コンテンツのテンプレート化とスクリプティングのために設計された [!DNL Java] で構築された言語です。 Marketoでは、[ スクリプトトークン ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)を使用して、メールのコンテキストで使用できます。 これにより、カスタムオブジェクトに保存されたデータにアクセスできます。
+[[!DNL Apache Velocity]](https://velocity.apache.org/) は、HTML コンテンツのテンプレート化とスクリプティングのために設計された [!DNL Java] で構築された言語です。 Marketoでは、[&#x200B; スクリプトトークン &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)を使用して、メールのコンテキストで使用できます。 これにより、カスタムオブジェクトに保存されたデータにアクセスできます。
 
 リードまたは取引先責任者に直接接続されている親と子のカスタムオブジェクトを参照できますが、サードレベルのカスタムオブジェクトは参照できません。 各カスタムオブジェクトに対して、人物／取引先責任者ごとの最近更新された 10 個のレコードが実行時に使用可能で、最新の更新（0 番目）から最も古い更新（9 番目）まで順番に並べられます。
 

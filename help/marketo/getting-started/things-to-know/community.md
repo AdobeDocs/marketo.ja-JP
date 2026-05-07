@@ -14,7 +14,7 @@ ht-degree: 9%
 
 # Adobe Marketo Engage Community {#marketo-engage-community}
 
-[Adobe Marketo Engage コミュニティ ](https://nation.marketo.com/) （Marketing Nationとも呼ばれます）は、Marketoの従業員だけでなく、他のユーザーからもMarketo Engage インスタンスについて詳しく知るための場所です。 参加する前に、少し時間をかけて[ コミュニティガイドライン ](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines)をご確認ください。
+[Adobe Marketo Engage コミュニティ &#x200B;](https://nation.marketo.com/) （Marketing Nationとも呼ばれます）は、Marketoの従業員だけでなく、他のユーザーからもMarketo Engage インスタンスについて詳しく知るための場所です。 参加する前に、少し時間をかけて[&#x200B; コミュニティガイドライン &#x200B;](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines)をご確認ください。
 
 ## ユーザー名を登録 {#register-your-username}
 

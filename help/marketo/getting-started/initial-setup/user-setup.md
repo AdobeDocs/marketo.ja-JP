@@ -17,11 +17,11 @@ ht-degree: 15%
 
 >[!NOTE]
 >
->このチェックリスト、[および新しいインスタンスのベストプラクティスのリスト ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)をダウンロードして、手順を確認することもできます。
+>このチェックリスト、[および新しいインスタンスのベストプラクティスのリスト &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx)をダウンロードして、手順を確認することもできます。
 
 ## Adobe Identity Management上のMarketo Engage {#marketo-engage-on-adobe-identity-management}
 
-新しいMarketo Engage サブスクリプションは、[Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html)にオンボーディングされます。 Adobe Admin Consoleで次のユーザー管理レビューに進みます。
+新しいMarketo Engage サブスクリプションは、[Adobe Identity Management System （IMS） &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html)にオンボーディングされます。 Adobe Admin Consoleで次のユーザー管理レビューに進みます。
 
 <table>
 <thead>
@@ -124,4 +124,4 @@ Marketo Engageのネイティブ会話オートメーションチャネルであ
 
 <p>
 
-Marketo Engage アカウントの準備が整ったら、[新しいMarketo Engage インスタンスのベストプラクティス ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"}のセクションを確認して、投資を最大限に活用し、長期的な成功に向けて準備してください。
+Marketo Engage アカウントの準備が整ったら、[新しいMarketo Engage インスタンスのベストプラクティス &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md){target="_blank"}のセクションを確認して、投資を最大限に活用し、長期的な成功に向けて準備してください。

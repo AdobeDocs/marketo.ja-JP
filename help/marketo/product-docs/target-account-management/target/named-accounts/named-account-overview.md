@@ -13,7 +13,7 @@ ht-degree: 86%
 
 # [!UICONTROL 重点顧客]の概要 {#named-account-overview}
 
-[!UICONTROL 名前付きアカウント ]には、対象の企業の人物が含まれています。 ダッシュボードには、すべての重点顧客の各属性の現在のデータが表示されます。
+[!UICONTROL 名前付きアカウント &#x200B;]には、対象の企業の人物が含まれています。 ダッシュボードには、すべての重点顧客の各属性の現在のデータが表示されます。
 
 ## [!UICONTROL 重点顧客]ダッシュボード {#named-accounts-dashboard}
 

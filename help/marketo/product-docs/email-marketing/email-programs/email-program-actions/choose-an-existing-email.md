@@ -22,7 +22,7 @@ ht-degree: 83%
 >
 >正確なレポートを作成するのに、スマートキャンペーンでメールを参照したり、起動したメールプログラムから新しいメールプログラムにアセットを移動したりして、メールプログラムからメールを&#x200B;_再利用_&#x200B;しないでください。 再利用すると、そのメールに添付されたすべてのレポートダッシュボードのすべてのデータが集計されます。 メールを再利用する必要がある場合は、代わりに[クローンを作成](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}してください。これにより、メールがコピーされますが、新しいメール ID で新しいメールが作成されます。
 
-[ メールプログラム ](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を作成し、オーディエンスを定義したら、送信するメールを決定します。 メールプログラム内で[メールを作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)するか、既存のメールから選択することができます。 既存のメールを選ぶ方法は次の通りです。
+[&#x200B; メールプログラム &#x200B;](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を作成し、オーディエンスを定義したら、送信するメールを決定します。 メールプログラム内で[メールを作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)するか、既存のメールから選択することができます。 既存のメールを選ぶ方法は次の通りです。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 

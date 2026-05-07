@@ -25,7 +25,7 @@ ht-degree: 16%
 
 ![](assets/engagement-map-overview-2.png)
 
-エンゲージメントマップには、[ エンゲージメントマップ ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}と[設定](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}の2つのタブがあります。
+エンゲージメントマップには、[&#x200B; エンゲージメントマップ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}と[設定](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}の2つのタブがあります。
 
 ![](assets/engagement-map-overview-3.png)
 
@@ -99,5 +99,5 @@ ht-degree: 16%
 
 >[!MORELIKETHIS]
 >
->* [ エンゲージメントマップのタブ ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [&#x200B; エンゲージメントマップのタブ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
 >* [「設定」タブ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

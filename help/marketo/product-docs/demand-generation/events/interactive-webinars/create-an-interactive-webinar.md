@@ -64,4 +64,4 @@ ht-degree: 79%
 >
 >前のウェビナーが予定時間を超過した場合に備えて、連続する 2 つのイベントの間には 30 分の間隔を空けることをお勧めします（ライセンスが同時ウェビナーをサポートしている場合を除く）。
 
-次は、[ ウェビナーをデザインしましょう](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}。
+次は、[&#x200B; ウェビナーをデザインしましょう](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}。

@@ -26,9 +26,9 @@ Marketo Engageの初心者向けチュートリアルを始めたばかりの場
 
 ## Marketo Engage に関する人気の記事
 
-* [ [!DNL Salesforce]  同期について](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [&#x200B; [!DNL Salesforce]  同期について](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [ [!DNL Microsoft Dynamics]  同期について](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [&#x200B; [!DNL Microsoft Dynamics]  同期について](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [スマートキャンペーンについて](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 

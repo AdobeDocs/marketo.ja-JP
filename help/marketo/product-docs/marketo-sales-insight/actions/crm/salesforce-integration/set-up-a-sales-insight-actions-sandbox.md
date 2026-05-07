@@ -73,7 +73,7 @@ Actions では、まず Salesforce の本番稼働ユーザで新しいインス
 
 ## Salesforce サンドボックスとの互換性を持たせるように Actions インスタンスの変換をリクエスト {#request-your-actions-instance-be-converted}
 
-1. [Marketo Engage サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡して、新しいSales Insight Actions インスタンスをSalesforce サンドボックスと互換性があるように設定するようにリクエストしてください。
+1. [Marketo Engage サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡して、新しいSales Insight Actions インスタンスをSalesforce サンドボックスと互換性があるように設定するようにリクエストしてください。
 
 1. toutapp.com/login ページの「Salesforce でログイン」ボタンを使用してログインし、すべてが正しく設定されていることをテストします。
 
