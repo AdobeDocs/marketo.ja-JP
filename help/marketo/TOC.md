@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: fbb3747227eca8f47eae43c8fbf02ef2ee702978
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
 source-wordcount: '9238'
 ht-degree: 99%
@@ -201,7 +201,7 @@ ht-degree: 99%
          + [API 専用ユーザーロールの作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [API 専用ユーザーの作成](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [ユーザーのロールの作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [&#x200B; ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
+         + [ ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [ユーザーとロールのリストのエクスポート](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [ユーザーのロールと権限の管理](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [ロールと権限のエクスポート](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -996,7 +996,7 @@ ht-degree: 99%
             + [ブランドを適用](product-docs/email-marketing/email-designer/brands/apply-brand.md)
             + [ブランドの構築と管理](product-docs/email-marketing/email-designer/brands/manage-brands.md)
             + [ブランドのパーソナライゼーション](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
-            + [ブランド一致](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
+            + [ブランドスコア](product-docs/email-marketing/email-designer/brands/brand-score.md)
          + [概要](product-docs/email-marketing/email-designer/overview.md)
          + [機能の比較](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
