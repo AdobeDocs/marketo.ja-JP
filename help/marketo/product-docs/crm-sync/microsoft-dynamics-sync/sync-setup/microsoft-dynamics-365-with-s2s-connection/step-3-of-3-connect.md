@@ -1,19 +1,19 @@
 ---
 unique-page-id: 3571830
-description: サーバー間接続を使用してMarketo ソリューションを Dynamics 365 に接続する方法を説明します。 Marketo管理に同期ユーザー情報を入力し、同期を有効にする前に検証します。
+description: Marketo ソリューションをDynamics 365に接続し、Server to Server接続を行う方法について説明します。 Marketo Adminで同期ユーザー情報を入力し、同期を有効にする前に検証します。
 title: 手順 3 / 3 - サーバー間接続を使用した Marketo ソリューションの接続
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 94%
+source-wordcount: '479'
+ht-degree: 82%
 
 ---
 
 # 手順 3 / 3：サーバー間接続を使用した Marketo ソリューションの接続 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
-これが同期の最後のステップです。もう少しです。
+これは同期の最後のステップです。
 
 >[!PREREQUISITES]
 >
@@ -26,7 +26,7 @@ ht-degree: 94%
 
 >[!IMPORTANT]
 >
->基本認証から [!DNL OAuth] にアップグレードする場合は、追加のパラメーターのアップデートについて [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。この機能を有効にすると、新しい資格情報が入力されて同期が再度有効にされるまで、同期が一時的に停止されます。この機能は、古い認証モードに戻る際には（2022年4月まで）無効にすることができます。
+>基本認証から [!DNL OAuth] にアップグレードする場合は、追加のパラメーターのアップデートについて [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。 この機能を有効にすると、新しい資格情報が入力されて同期が再度有効にされるまで、同期が一時的に停止されます。 この機能は、古い認証モードに戻る際には（2022年4月まで）無効にすることができます。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 94%
 
 ## [!DNL Dynamics] 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
 
-1. Marketo にログインし、「**[!UICONTROL 管理者]**」をクリックします。
+1. Marketo にログインし、**[!UICONTROL 管理]**&#x200B;をクリックします。
 
    ![](assets/login-admin.png)
 
@@ -52,7 +52,7 @@ ht-degree: 94%
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。誤った組織 URL が使用された場合、新しい Marketo サブスクリプションを取得する必要があります。URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
+   >組織のURLが正しいことを確認します。 送信後に後続のスキーマ変更を元に戻すことはできません。 正しくない組織URLを使用した場合は、新しいMarketo サブスクリプションが必要になります。 URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
 
 1. [!DNL Dynamics] 同期ユーザ情報を入力し、完了したら「**[!UICONTROL 保存]**」をクリックします。
 
@@ -60,7 +60,7 @@ ht-degree: 94%
 
    >[!NOTE]
    >
-   >Marketo のユーザ名は CRM のアプリケーションユーザの[メールアドレス](https://docs.microsoft.com/ja-jp/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"}と一致する必要があります。形式は、`user@domain.com` または DOMAIN\user です。
+   >Marketo のユーザ名は CRM のアプリケーションユーザの[メールアドレス](https://docs.microsoft.com/ja-jp/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"}と一致する必要があります。 形式は、`user@domain.com` または DOMAIN\user です。
 
 ## 同期するフィールドの選択 {#select-fields-to-sync}
 
@@ -68,17 +68,17 @@ ht-degree: 94%
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Marketo と同期するフィールドを選択すると、事前に選択されるようになります。「**[!UICONTROL 保存]**」をクリックします。
+1. Marketo と同期するフィールドを選択すると、事前に選択されるようになります。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
 >[!NOTE]
 >
->Marketo は、同期するフィールドへの参照を保存します。[!DNL Dynamics] でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)の状態で実行することをお勧めします。次に、「[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)」を編集および保存して、Marketo のスキーマを更新します。
+>Marketo は、同期するフィールドへの参照を保存します。 [!DNL Dynamics] でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)の状態で実行することをお勧めします。 次に、「[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)」を編集および保存して、Marketo のスキーマを更新します。
 
 ## カスタムフィルターのフィールドを同期する {#sync-fields-for-a-custom-filter}
 
-カスタムフィルターを作成した場合は、Marketo と同期する新しいフィールドを選択するようにします。
+カスタムフィルターを作成した場合は、に移動し、Marketoと同期する新しいフィールドを選択します。
 
 1. 「[!UICONTROL 管理者]」に移動し、「**[!UICONTROL Microsoft Dynamics]**」を選択します。
 
@@ -88,7 +88,7 @@ ht-degree: 94%
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 下にスクロールしてフィールドを確認します。実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。「**[!UICONTROL 保存]**」をクリックします。
+1. 下にスクロールしてフィールドを確認します。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
@@ -106,6 +106,6 @@ ht-degree: 94%
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。完了すると、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)

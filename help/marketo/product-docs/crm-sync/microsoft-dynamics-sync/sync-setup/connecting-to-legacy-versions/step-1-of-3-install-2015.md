@@ -4,10 +4,10 @@ description: Dynamics 2015 オンプレミス用のMarketo ソリューション
 title: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 1 / 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 82%
+source-wordcount: '313'
+ht-degree: 80%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 82%
 
 >[!PREREQUISITES]
 >
->[!DNL Microsoft Dynamics] オンプレミスを使用している場合は、[Active Directory フェデレーション サービス &#x200B;](https://msdn.microsoft.com/ja-jp/library/bb897402.aspx) 2.0+（ADFS）が設定された[Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) （IFD）が必要です。 注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
+>[!DNL Microsoft Dynamics] オンプレミスを使用している場合は、[Active Directory フェデレーション サービス ](https://msdn.microsoft.com/ja-jp/library/bb897402.aspx) 2.0+（ADFS）が設定された[Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) （IFD）が必要です。 注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
 >
 >始める前に、[Marketo リード管理ソリューションをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}します。
 
@@ -87,7 +87,7 @@ ht-degree: 82%
 
    ![](assets/image2015-3-19-8-41-21.png)
 
-   お疲れさまでした。 インストールが完了しました。
+   インストールが完了しました。
 
    >[!CAUTION]
    >
@@ -95,4 +95,4 @@ ht-degree: 82%
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; [!DNL Microsoft Dynamics]  2015 オンプレミス向け Marketo インストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
+   >[ [!DNL Microsoft Dynamics]  2015 オンプレミス向け Marketo インストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)

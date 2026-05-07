@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4719297
-description: Marketo EngageでSalesforce カスタムオブジェクト同期を有効または無効にする方法について説明します。 Admin およびSalesforce オブジェクト同期を使用して、オブジェクトを選択し、スキーマを更新します。
+description: Marketo EngageでSalesforce カスタムオブジェクトの同期を有効または無効にする方法について説明します。 AdminとSalesforce Objects Syncを使用して、オブジェクトを選択し、スキーマを更新します。
 title: カスタムオブジェクト同期の有効化／無効化
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 89%
 
 ---
 
 # カスタムオブジェクト同期の有効化／無効化 {#enable-disable-custom-object-sync}
 
-Salesforce インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。その設定方法を説明します。
+Salesforce インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。 その設定方法を説明します。
 
 ## カスタムオブジェクト同期の有効化／無効化 {#enable-disable-custom-object-sync-1}
 
@@ -29,7 +29,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. これが最初のカスタムオブジェクトの場合は、「**[!UICONTROL スキーマを同期]**」をクリックします。それ以外の場合は、「**[!UICONTROL スキーマを更新]**」をクリックして最新であることを確認します。
+1. これが最初のカスタムオブジェクトの場合は、「**[!UICONTROL スキーマを同期]**」をクリックします。 それ以外の場合は、「**[!UICONTROL スキーマを更新]**」をクリックして最新であることを確認します。
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
@@ -75,7 +75,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    ![](assets/image2015-8-24-14-3a18-3a53.png)
 
-   これで完了です。このカスタムオブジェクトのデータをスマートキャンペーンとスマートリストで使用できるようになりました。
+   このカスタムオブジェクトのデータをスマートキャンペーンとスマートリストで使用できるようになりました。
 
 >[!MORELIKETHIS]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571797
-description: Marketo用のSalesforce ユーザーを Professional 版で作成する方法を説明します。 ページレイアウトを設定し、リードおよび連絡先のフィールド権限を持つ同期ユーザーを作成します。
+description: Professional エディションでMarketo用のSalesforce ユーザーを作成する方法について説明します。 ページレイアウトを設定し、リードと取引先責任者のフィールド権限を持つ同期ユーザーを作成できます。
 title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Professional）
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 93%
+source-wordcount: '436'
+ht-degree: 91%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 93%
 
 ## ページレイアウトの設定 {#set-page-layouts}
 
-[!DNL Salesforce] Professional は、[!DNL Salesforce] Enterprise／Unlimited のプロファイルとは異なり、ページレイアウトでフィールドレベルのアクセシビリティを設定します。これらの手順に従うと、Marketo 同期ユーザはカスタムフィールドをアップデートできます。
+[!DNL Salesforce] Professional は、[!DNL Salesforce] Enterprise／Unlimited のプロファイルとは異なり、ページレイアウトでフィールドレベルのアクセシビリティを設定します。 これらの手順に従うと、Marketo 同期ユーザはカスタムフィールドをアップデートできます。
 
 1. ナビゲーション検索バーで「[!UICONTROL ページレイアウト]」と入力します。**[!UICONTROL Enter]** を押さず、**[!UICONTROL リード]**&#x200B;の下にある「**[!UICONTROL ページレイアウト]**」をクリックします。
 
@@ -72,7 +72,7 @@ ht-degree: 93%
 
    >[!TIP]
    >
-   >ページの右側に下にドラッグして、フィールドの列を 2 つ作成します。列の長さのバランスを取るために、フィールドを片側から他方に移動できます。
+   >ページの右側に下にドラッグして、フィールドの列を 2 つ作成します。 列の長さのバランスを取るために、フィールドを片側から他方に移動できます。
 
 1. フィールドの追加が完了したら、「**[!UICONTROL 保存]**」をクリックします。
 
@@ -92,7 +92,7 @@ ht-degree: 93%
 
 ## 同期ユーザを作成 {#create-sync-user}
 
-Marketo は、[!DNL Salesforce] にアクセスする資格情報が必要です。これは、次の手順で作成した専用ユーザで行うのが最適です。
+Marketo は、[!DNL Salesforce] にアクセスする資格情報が必要です。 これは、次の手順で作成した専用ユーザで行うのが最適です。
 
 >[!NOTE]
 >
@@ -112,9 +112,9 @@ Marketo は、[!DNL Salesforce] にアクセスする資格情報が必要です
 
    >[!TIP]
    >
-   >入力した電子メールアドレスが有効であることを確認します。パスワードをリセットするには、同期ユーザとしてログインする必要があります。
+   >入力した電子メールアドレスが有効であることを確認します。 パスワードをリセットするには、同期ユーザとしてログインする必要があります。
 
-これで完了です。Marketo が [!DNL Salesforce] への接続に使用できるアカウントが作成されました。やってみましょう。
+Marketo が [!DNL Salesforce] への接続に使用できるアカウントが作成されました。
 
 >[!MORELIKETHIS]
 >

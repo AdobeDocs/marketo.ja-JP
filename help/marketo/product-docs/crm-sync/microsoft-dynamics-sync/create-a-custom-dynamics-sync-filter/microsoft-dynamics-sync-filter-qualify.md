@@ -1,23 +1,21 @@
 ---
 unique-page-id: 10092977
-description: リードを連絡先に変換する際の Dynamics 同期フィルターの選定プロセスについて説明します。 リードおよび取引先責任者同期フィルターの値がMarketo同期に与える影響を理解します。
+description: リードを連絡先に変換する際のDynamics同期フィルターの選定プロセスについて説明します。 リードと取引先責任者の同期フィルター値がMarketoの同期にどのような影響を与えるかを理解します。
 title: Microsoft Dynamics Sync フィルター - 認定
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 80%
+source-wordcount: '124'
+ht-degree: 66%
 
 ---
 
 # [!DNL Microsoft Dynamics] 同期フィルター：認定 {#microsoft-dynamics-sync-filter-qualify}
 
-リードを [!DNL Microsoft Dynamics] の取引先責任者に変換する場合は、このデフォルトの認定プロセスを使用するようにしてください。次に、Marketo と同期します。
+リードを[!DNL Microsoft Dynamics]の連絡先に変換する場合は、このデフォルトの選定プロセスを使用します。 次に、Marketo と同期します。
 
 ## 変換プロセス {#the-conversion-process}
-
-変換プロセス中のフィルターの仕組みを次に示します。
 
 | リード同期フィルター： | 取引担当者同期フィルター： | Marketo での結果 |
 |---|---|---|

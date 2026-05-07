@@ -4,10 +4,10 @@ description: 同期の検証ツールを実行して、Microsoft DynamicsとMark
 title: ' [!DNL Microsoft Dynamics]  同期の検証'
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 79%
+source-wordcount: '267'
+ht-degree: 77%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 79%
 
 >[!CAUTION]
 >
->[!DNL Dynamics] 同期で多要素認証（MFA）を有効にしている場合、[!DNL Dynamics] が Marketo と正しく同期するには、無効にする必要があります。 詳しくは、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>[!DNL Dynamics] 同期で多要素認証（MFA）を有効にしている場合、[!DNL Dynamics] が Marketo と正しく同期するには、無効にする必要があります。 詳細については、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 ## Marketo で同期検証を実行する {#run-validate-sync-in-marketo}
 
@@ -45,7 +45,7 @@ ht-degree: 79%
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. ![-](assets/delete.png) が表示された場合は、その手順に問題があります。 問題を特定して修正する方法について詳しくは、[&#x200B; [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照してください。 次に、上記の画像のような結果になるまで同期検証手順を再実行します。
+1. ![-](assets/delete.png) が表示された場合は、その手順に問題があります。 問題を特定して修正する方法について詳しくは、[ [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照してください。 次に、上記の画像のような結果になるまで同期検証手順を再実行します。
 
    >[!CAUTION]
    >
@@ -53,4 +53,4 @@ ht-degree: 79%
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
+>[ [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)

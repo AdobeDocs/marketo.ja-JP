@@ -1,12 +1,12 @@
 ---
-description: Marketoで Dynamics 認証方法を再設定する方法を説明します。 同期を無効にし、新しい認証方法の再構成を使用し、Web API または ROPC の資格情報を検証します。
+description: MarketoでDynamics認証方式を再設定する方法について説明します。 同期を無効にし、新しい認証方法の再構成を使用し、Web APIまたはROPCの資格情報を検証します。
 title: ' [!DNL Dynamics]  認証方法の再設定'
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '283'
-ht-degree: 91%
+ht-degree: 83%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 91%
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 
-1. 目的の新しい認証方法を選択します（この例では Web API を選択しています）。
+1. 目的の新しい認証方法を選択します（この例では、Web APIが選択されています）。
 
    ![](assets/reconfigure-dynamics-authentication-method-4.png)
 
@@ -48,15 +48,15 @@ ht-degree: 91%
    >[!NOTE]
    >
    >* 具体的なフィールドは選択した認証方法によって異なり、以前の認証方法に応じてフォームが自動的に更新されます。
-   >* 以前にも同期したことがある場合、上記のフォームデータが事前入力されている場合があります。すべての資格情報を再入力し、正しい値が設定されていることを確認してください。
+   >* 以前にも同期したことがある場合、上記のフォームデータが事前入力されている場合があります。 すべての資格情報を再入力して、正しい値を確認します。
 
-1. すべて問題ない場合、同期の検証ですべて緑のチェックマーク ![](assets/green-check.png) が生成されます。メッセージを確認し、「**[!UICONTROL 切替]**」をクリックして認証方法を更新します。
+1. すべて問題ない場合、同期の検証ですべて緑のチェックマーク ![](assets/green-check.png) が生成されます。 メッセージを確認し、「**[!UICONTROL 切替]**」をクリックして認証方法を更新します。
 
    ![](assets/reconfigure-dynamics-authentication-method-6.png)
 
    >[!NOTE]
    >
-   >![](assets/red-x.png) が表示された場合は、その手順に問題があります。問題を特定して修正するには、[&#x200B; [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照してください。次に、上記の画像のような結果になるまで同期検証手順を再実行します。
+   >![](assets/red-x.png) が表示された場合は、その手順に問題があります。 問題を特定して修正するには、[ [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照してください。 次に、上記の画像のような結果になるまで同期検証手順を再実行します。
 
 1. 「**[!UICONTROL 確認]**」をクリックして続行します。
 
@@ -70,4 +70,4 @@ ht-degree: 91%
 
    >[!IMPORTANT]
    >
-   >新しい認証モードを受け入れるまでに 15 分かかります。切り替えてから 15 分待ってから、同期を再度有効にしてください。
+   >新しい認証モードを受け入れるまでに 15 分かかります。 切り替えてから 15 分待ってから、同期を再度有効にしてください。

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953384
-description: Microsoft DynamicsとMarketoでカスタムエンティティの同期を有効にする方法を説明します。 管理者とMicrosoft Dynamicsを使用して、カスタムエンティティを選択して同期を有効にします。
+description: Microsoft DynamicsとMarketoでカスタムエンティティの同期を有効にする方法について説明します。 管理者とMicrosoft Dynamicsを使用して、カスタムエンティティを選択し、同期を有効にします。
 title: カスタムエンティティの同期の有効化
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '329'
 ht-degree: 85%
 
 ---
 
 # カスタムエンティティの同期の有効化 {#enable-sync-for-a-custom-entity}
 
-[!DNL Dynamics] のカスタムエンティティデータをMarketo Engageで使用できるようにする必要がある場合は、次の方法で同期を有効にします。
+[!DNL Dynamics]のカスタムエンティティデータをMarketo Engageで利用できるようにする必要がある場合は、次の手順に従います。
 
 >[!PREREQUISITES]
 >
@@ -52,19 +52,19 @@ ht-degree: 85%
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. 同期するまたはスマートリストの[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)やトリガーとして使用するフィールドを選択します。完了したら、「**[!UICONTROL 同期を有効にする]**」をクリックします。
+1. 同期するまたはスマートリストの[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)やトリガーとして使用するフィールドを選択します。 完了したら、「**[!UICONTROL 同期を有効にする]**」をクリックします。
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
    >[!NOTE]
    >
-   >同期の処理中に、「[!UICONTROL Dynamic エンティティ同期]」項目がナビゲーションツリーから消える場合があります。これは期待された動作で、この項目は同期が完了した後で再び表示されます。
+   >同期の処理中に、「[!UICONTROL Dynamic エンティティ同期]」項目がナビゲーションツリーから消える場合があります。 これは期待された動作で、この項目は同期が完了した後で再び表示されます。
 
 1. エンティティに緑のチェックマークが付きます。
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
-1. グローバル同期を再度有効にすることを忘れないでください。
+1. グローバル同期を再度有効にします。
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
 
@@ -72,4 +72,4 @@ ht-degree: 85%
    >
    >* Marketo では、1 レベルまたは 2 レベルの深さの標準エンティティにリンクされたカスタムエンティティのみがサポートされています。
    >
-   >* カスタムオブジェクトツリーは、メインオブジェクトの 1 つ（リード、取引先責任者、アカウントなど、または中間オブジェクトを介した間接接続など）との直接接続により、同じオブジェクトを複数回表示する場合があります。このような場合は、メインオブジェクトに最も近いオブジェクトを選択し、1 つだけ選択します。同じオブジェクトを複数回選択すると、そのカスタムオブジェクトの同期が妨げられる場合があります。
+   >* カスタムオブジェクトツリーは、メインオブジェクトの 1 つ（リード、取引先責任者、アカウントなど、または中間オブジェクトを介した間接接続など）との直接接続により、同じオブジェクトを複数回表示する場合があります。 このような場合は、メインオブジェクトに最も近いオブジェクトを選択し、1 つだけ選択します。 同じオブジェクトを複数回選択すると、そのカスタムオブジェクトの同期が妨げられる場合があります。

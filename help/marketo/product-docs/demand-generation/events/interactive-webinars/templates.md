@@ -1,28 +1,28 @@
 ---
-description: インタラクティブウェビナーでテンプレートを作成および実装する方法について説明します。 テンプレートを使用してウェビナーのデザインを標準化し、作成を高速化します。
+description: インタラクティブウェビナーでテンプレートを作成および実装する方法について説明します。 テンプレートを使用して、ウェビナーのデザインを標準化し、作成を迅速化できます。
 title: インタラクティブウェビナーのテンプレート
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '329'
-ht-degree: 10%
+source-wordcount: '333'
+ht-degree: 11%
 
 ---
 
 # インタラクティブウェビナーのテンプレート {#templates-for-interactive-webinars}
 
-インタラクティブウェビナーで使いやすいテンプレートを作成して、コンテンツをより迅速に作成し、チームで作業する際にブランドガイドラインに準拠できるようにします。
+インタラクティブなウェビナーで再利用可能なテンプレートを作成することで、コンテンツをより迅速に制作し、チームで作業する際にブランドガイドラインを遵守できます。
 
 ## 権限の付与 {#grant-permissions}
 
-組織内の任意のユーザーがインタラクティブウェビナーのテンプレートにアクセスできるようにするには、まず、Marketo Engage管理者が目的の役割へのアクセス権を追加する必要があります。
+組織内のユーザーがインタラクティブウェビナーのテンプレートにアクセスする前に、Marketo Engage管理者が最初に目的の役割へのアクセスを追加する必要があります。
 
 1. Marketo Engage で、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/templates-for-interactive-webinars-1.png)
 
-1. **[!UICONTROL ユーザーと役割]** をクリックし、「**[!UICONTROL 役割]**」タブをクリックします。
+1. 「**[!UICONTROL ユーザーと役割]**」をクリックし、「**[!UICONTROL 役割]**」タブをクリックします。
 
    ![](assets/templates-for-interactive-webinars-2.png)
 
@@ -30,7 +30,7 @@ ht-degree: 10%
 
    ![](assets/templates-for-interactive-webinars-3.png)
 
-1. クリックして **[!UICONTROL Design Studio にアクセス]** を開きます。
+1. クリックして&#x200B;**[!UICONTROL Access Design Studio]**&#x200B;を開きます。
 
    ![](assets/templates-for-interactive-webinars-4.png)
 
@@ -40,7 +40,7 @@ ht-degree: 10%
 
 ## テンプレートの作成 {#create-a-template}
 
-1. Marketo Engageで、「**[!UICONTROL Design Studio]**」をクリックします。
+1. Marketo Engageで、**[!UICONTROL Design Studio]**&#x200B;をクリックします。
 
    ![](assets/templates-for-interactive-webinars-6.png)
 
@@ -48,39 +48,39 @@ ht-degree: 10%
 
    ![](assets/templates-for-interactive-webinars-7.png)
 
-1. **[!UICONTROL テンプレートを管理]** をクリックします。
+1. 「**[!UICONTROL テンプレートを管理]**」をクリックします。
 
    ![](assets/templates-for-interactive-webinars-8.png)
 
-1. 新しいタブが開きます。「**新規作成**」をクリックします。
+1. 新しいタブが開きます。 「**新規作成**」をクリックします。
 
    ![](assets/templates-for-interactive-webinars-9.png)
 
-1. 「標準テンプレート」タブで目的のテンプレートを選択し、「**次へ**」をクリックします。
+1. 「標準テンプレート」タブで、目的のテンプレートを選択し、**次へ**&#x200B;をクリックします。
 
    ![](assets/templates-for-interactive-webinars-10.png)
 
    >[!NOTE]
    >
-   >組織テンプレートは、自分または自分のチームが既に作成したテンプレートです。
+   >組織テンプレートとは、チームで既に作成されているテンプレートです。
 
-1. 名前と説明を入力します。 **保存して開く** をクリックします。
+1. 名前と説明を入力 「**保存して**&#x200B;を開く」をクリックします。
 
    ![](assets/templates-for-interactive-webinars-11.png)
 
-1. 新しいタブが開きます。テンプレートを編集/保存するには、部屋に入る必要があります。 これは実際のウェビナールームではないため、オーディオやビデオを選択する必要はありません。 **部屋を入力** をクリックします。
+1. 新しいタブが開きます。 テンプレートを編集または保存するには、部屋に入る必要があります。 これは実際のウェビナールームではないため、オーディオやビデオを選択する必要はありません。 「**Enter Room**」をクリックします。
 
    ![](assets/templates-for-interactive-webinars-12.png)
 
-1. 既存のテンプレートに必要な変更を加えます。
+1. 既存のテンプレートに変更を加えます。
 
    ![](assets/templates-for-interactive-webinars-13.png)
 
-1. 右上の出口メニューで、「**すべてのセッションを終了**」を選択します。
+1. 右上の終了メニューで、**すべてのセッションを終了**&#x200B;を選択します。
 
    ![](assets/templates-for-interactive-webinars-14.png)
 
-1. **今すぐ終了** をクリックします。
+1. 「**今すぐ終了**」をクリックします。
 
    ![](assets/templates-for-interactive-webinars-15.png)
 
@@ -90,7 +90,7 @@ ht-degree: 10%
 
 既存のテンプレートを編集するには、次の手順に従います。
 
-1. Marketo Engageで、「**[!UICONTROL Design Studio]**」をクリックします。
+1. Marketo Engageで、**[!UICONTROL Design Studio]**&#x200B;をクリックします。
 
    ![](assets/templates-for-interactive-webinars-16.png)
 
@@ -98,15 +98,15 @@ ht-degree: 10%
 
    ![](assets/templates-for-interactive-webinars-17.png)
 
-1. **[!UICONTROL テンプレートを管理]** をクリックします。
+1. 「**[!UICONTROL テンプレートを管理]**」をクリックします。
 
    ![](assets/templates-for-interactive-webinars-18.png)
 
-1. 新しいタブが開きます。編集するテンプレートを見つけて、「開く」アイコンをクリックします。
+1. 新しいタブが開きます。 編集するテンプレートを見つけ、開くアイコンをクリックします。
 
    ![](assets/templates-for-interactive-webinars-19.png)
 
-1. 新しいタブが開きます。テンプレートを編集するには、部屋に入る必要があります。 これは実際のウェビナールームではないため、オーディオやビデオを選択する必要はありません。 **部屋を入力** をクリックします。
+1. 新しいタブが開きます。 テンプレートを編集するには、部屋に入る必要があります。 これは実際のウェビナールームではないため、オーディオやビデオを選択する必要はありません。 「**Enter Room**」をクリックします。
 
    ![](assets/templates-for-interactive-webinars-20.png)
 
@@ -114,11 +114,11 @@ ht-degree: 10%
 
    ![](assets/templates-for-interactive-webinars-21.png)
 
-1. 右上の出口メニューで、「**すべてのセッションを終了**」を選択します。
+1. 右上の終了メニューで、**すべてのセッションを終了**&#x200B;を選択します。
 
    ![](assets/templates-for-interactive-webinars-22.png)
 
-1. **今すぐ終了** をクリックします。
+1. 「**今すぐ終了**」をクリックします。
 
    ![](assets/templates-for-interactive-webinars-23.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953463
-description: リードおよびアカウント所有者フィールドをSalesforceからMarketoに同期する方法について説明します。 Marketoでリードオーナーを変更し、フローアクションとスマートリストでオーナーデータを使用する。
+description: リードとアカウントのオーナーのフィールドをSalesforceからMarketoに同期する方法について説明します。 Marketoでリードオーナーを変更し、フローアクションとスマートリストでオーナーデータを使用します。
 title: SFDC 同期 - リード／アカウント所有者の同期
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '218'
 ht-degree: 87%
 
 ---
@@ -48,4 +48,3 @@ Marketo に同期された各ユーザに対して、次の所有者フィール
 * Marketo の割り当て（および再割り当て）ルール
 * [所有者を変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}、[リードを SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}、[タスクを作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}の各フローアクションで使用
 
-Marketo は、[!DNL Salesforce] との同期において業界でも極めて優れています。

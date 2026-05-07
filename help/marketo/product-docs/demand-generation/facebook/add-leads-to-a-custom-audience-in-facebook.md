@@ -1,24 +1,24 @@
 ---
 unique-page-id: 11376700
-description: Marketoから Facebook でカスタムオーディエンスにリードを追加する方法を説明します。 広告ターゲティングのために、リストメンバーを Facebook にプッシュします。
+description: MarketoからFacebookでカスタムオーディエンスにリードを追加する方法を説明します。 リストのメンバーをFacebookにプッシュして、広告のターゲティングを行います。
 title: Facebook でのカスタムオーディエンスへのリードの追加
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 87%
+source-wordcount: '165'
+ht-degree: 78%
 
 ---
 
 # [!DNL Facebook] でのカスタムオーディエンスへのリードの追加 {#add-leads-to-a-custom-audience-in-facebook}
 
-既に [!DNL Facebook] にカスタムオーディエンスがあり、その他のリードを追加する場合、手順は次のとおりです。
+既存のカスタムオーディエンスにリードを追加するには、次の手順に従います。
 
 >[!PREREQUISITES]
 >
->* [&#x200B; [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成
->* [!DNL Facebook] アカウント内で [&#x200B; [!DNL Facebook] のカスタムオーディエンスの条件に同意](https://www.facebook.com/ads/manage/customaudiences/tos.php)します。
+>* [ [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成
+>* [!DNL Facebook] アカウント内で [ [!DNL Facebook] のカスタムオーディエンスの条件に同意](https://www.facebook.com/ads/manage/customaudiences/tos.php)します。
 >
 
 1. 追加するリードを含むスマートリストまたは静的リストを探して選択します。
@@ -46,8 +46,8 @@ ht-degree: 87%
 
    ![](assets/five-1.png)
 
-   以上です。
+   プロセスが完了しました。
 
    >[!NOTE]
    >
-   >[&#x200B; [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成
+   >[ [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成

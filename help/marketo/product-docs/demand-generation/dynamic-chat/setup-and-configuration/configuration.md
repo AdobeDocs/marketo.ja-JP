@@ -3,10 +3,10 @@ description: Dynamic Chat ダイアログウィンドウのルックアンドフ
 title: 設定
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 87%
+source-wordcount: '414'
+ht-degree: 78%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 87%
 
 **モバイルでポークメッセージを有効にする**
 
-スライダーを選択すると、「ポーク」が有効になります。これは、訪問者がクリックして表示しなくてもチャットアイコンの横に開始質問を表示するもので、モバイルデバイスからチャットしてくる訪問者に対して有効になります。
+訪問者がモバイルデバイスからチャットインする場合、訪問者がチャットアイコンの横に開いている質問をクリックせずに表示する「ポーク」を有効にするには、スライダーを選択します。
 
 ![](assets/configuration-6.png)
 
@@ -82,4 +82,4 @@ Web サイトにチャットボットを表示するには、まず Dynamic Chat
 
 >[!NOTE]
 >
->Marketo サポートは、HTML のトラブルシューティングについては対応できません。 HTML のサポートについては、web 開発者にご相談ください。
+>Marketo サポートは、HTML のトラブルシューティングについては対応できません。 HTMLのサポートについては、web デベロッパーにお問い合わせください。

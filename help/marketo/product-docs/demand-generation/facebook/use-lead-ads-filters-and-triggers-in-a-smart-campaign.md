@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10095239
-description: Marketo スマートキャンペーンで Facebook リード広告のフィルターとトリガーを使用する方法を説明します。 リードが Facebook から送信する際のアクションを自動化。
+description: Marketo スマートキャンペーンでFacebook リード広告のフィルターとトリガーを使用する方法を説明します。 リードがFacebookから送信する際のアクションを自動化します。
 title: スマートキャンペーンでのリード広告のフィルターとトリガーの使用
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 76%
+source-wordcount: '94'
+ht-degree: 56%
 
 ---
 
 # スマートキャンペーンでのリード広告のフィルターとトリガーの使用 {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
 
-[!UICONTROL Facebook リード広告]を有効にしたら、スマートキャンペーンでそれらを使用して、プログラムの成果を確認できます。ユーザが [!DNL Facebook] リード広告ユニットに情報を送信すると、その情報は即座に Marketo にプッシュされます。
+[!UICONTROL Facebook リード広告]を有効にした場合、スマートキャンペーンでそれらを使用して、プログラムの成功を確認できます。 ユーザが [!DNL Facebook] リード広告ユニットに情報を送信すると、その情報は即座に Marketo にプッシュされます。
 
 1. **[!UICONTROL Facebook リード広告フォームを入力]**&#x200B;フィルターまたはトリガーを使用します。
 

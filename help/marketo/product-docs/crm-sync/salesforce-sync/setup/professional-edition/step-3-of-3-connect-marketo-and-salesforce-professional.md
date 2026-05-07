@@ -4,10 +4,10 @@ description: MarketoとSalesforceを連携させる方法については、Profe
 title: 手順 3／3 — Marketo と Salesforce の接続（Professional）
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 91%
+source-wordcount: '397'
+ht-degree: 84%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >同期ユーザーから Marketo で[不要なフィールドをすべて非表示](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}にした後で、「**[!UICONTROL 同期フィールド]**」をクリックするようにしてください。 「同期フィールド」をクリックすると、ユーザーが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
+   >[同期ユーザーから&#x200B;**[!UICONTROL フィールドの同期]**&#x200B;をクリックする前に、Marketoで必要ないすべてのフィールド ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}を非表示にします。 「同期フィールド」をクリックすると、ユーザーが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
 
 1. Salesforce 設定のパート 2 で作成した Salesforce 同期ユーザの資格情報（[Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) または [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)）を入力して、「**[!UICONTROL 同期フィールド]**」をクリックします。
 
@@ -100,7 +100,7 @@ Marketo の「管理」領域に、[!DNL Salesforce] 同期に関するステー
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-Marketo の最も強力な機能の 1 つの設定が完了しました。
+Marketoの最も強力な機能の1つを設定しました。
 
 >[!MORELIKETHIS]
 >

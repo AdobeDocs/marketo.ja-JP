@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10096677
-description: Marketoとの ON24 イベント統合をテストする方法について説明します。 同期、登録フロー、ステータスの更新が正しく機能することを確認します。
+description: MarketoでON24 イベント統合をテストする方法について説明します。 同期、登録フロー、ステータスの更新が正しく機能することを確認します。
 title: ON24 イベント統合のテスト
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 90%
+ht-degree: 82%
 
 ---
 
 # ON24 イベント統合のテスト {#test-your-on-event-integration}
 
-イベント統合は必ず十分にテストしてください。
+イベント統合を徹底的にテストします。
 
 ## 最初のキャンペーンを実行する前に推奨されるテストシーケンス {#recommended-test-sequence-before-running-your-first-campaign}
 
@@ -28,10 +28,10 @@ ht-degree: 90%
 
 ## イベント後 {#after-the-event}
 
-イベント発生後にデータが更新される方法を次に示します。
+イベントが発生した後にデータがどのように更新されるかを以下に示します。
 
 * Marketo では、毎晩 ON24 から出席者データを取得します。
-* Marketo と ON24 の間で出席者のデータ同期が完了すると、Marketo はメンバーシップのステータスを「[!UICONTROL 出席]」、「[!UICONTROL オンデマンドで出席]」、「[!UICONTROL 欠席]」に更新します。イベントの「**[!UICONTROL 概要]**」タブで、イベントのステータスが「**[!UICONTROL イベント完了]**」に更新されます。
+* Marketo と ON24 の間で出席者のデータ同期が完了すると、Marketo はメンバーシップのステータスを「[!UICONTROL 出席]」、「[!UICONTROL オンデマンドで出席]」、「[!UICONTROL 欠席]」に更新します。 イベントの「**[!UICONTROL 概要]**」タブで、イベントのステータスが「**[!UICONTROL イベント完了]**」に更新されます。
 
 >[!MORELIKETHIS]
 >

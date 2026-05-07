@@ -4,10 +4,10 @@ description: Microsoft Dynamics MSIのプラグインリリースについて説
 title: ' [!DNL Microsoft Dynamics]  MSI 向けプラグインリリース'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 83%
+source-wordcount: '496'
+ht-degree: 81%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 83%
 
 [!DNL Microsoft Dynamics] に初めて同期するときは、Marketo セールスインサイト（MSI）用の最新バージョンのプラグインをダウンロードしてインストールします。 Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
-Marketoのネイティブ CRM同期ソリューションを[!DNL Dynamics]に使用している場合は、[お使いの[!DNL Dynamics] リリースに対応する最新のプラグイン &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"}をダウンロードしてください。 カスタム同期を持ち、Marketo セールスインサイトを購入しているユーザの場合、[パッケージはこちらです](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
+Marketoのネイティブ CRM同期ソリューションを[!DNL Dynamics]に使用している場合、[お使いの[!DNL Dynamics] リリースに対応する最新のプラグイン ](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"}をダウンロードしてください。 カスタム同期を持ち、Marketo セールスインサイトを購入しているユーザの場合、[パッケージはこちらです](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ Marketoのネイティブ CRM同期ソリューションを[!DNL Dynamics]に使
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
-1. インポートが正常に完了すると、MarketoSalesInsight と MarketoSalesInsight_Upgrade の 2 つの MSI ソリューションが表示されます。 古いソリューションを選択し、「ソリューションアップグレードを適用」をクリックします。
+1. インポートが成功すると、MarketoSalesInsightとMarketoSalesInsight_Upgradeの2つのMSI ソリューションが表示されます。 古いソリューションを選択し、「ソリューションアップグレードを適用」をクリックします。
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-5.png)
 

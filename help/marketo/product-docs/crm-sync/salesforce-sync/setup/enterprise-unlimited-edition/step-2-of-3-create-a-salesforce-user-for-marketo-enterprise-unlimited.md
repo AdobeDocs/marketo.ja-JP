@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360364
-description: Marketo用のSalesforce ユーザーを Enterprise 版または Unlimited Edition で作成する方法について説明します。 プロファイルを作成し、権限を設定し、MarketoとSalesforceの同期ユーザーを作成します。
+description: Enterprise版またはUnlimited版でMarketo用のSalesforce ユーザーを作成する方法について説明します。 プロファイルを作成し、権限を設定し、MarketoとSalesforceの同期ユーザーを作成します。
 title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '433'
-ht-degree: 90%
+ht-degree: 72%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 90%
 
 >[!PREREQUISITES]
 >
->[手順 1／3：Marketo フィールドの  [!DNL Salesforce]  への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>[手順 1 / 3：Marketo フィールドの  [!DNL Salesforce]  への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 
 この記事では、[!DNL Salesforce] プロファイルでユーザ権限を設定し、Marketo-[!DNL Salesforce] 統合アカウントを作成します。
 
@@ -47,7 +47,7 @@ ht-degree: 90%
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. **[!UICONTROL 管理権限]**&#x200B;セクションで、次のボックスがオンになっていることを確認します。
+1. 「**[!UICONTROL 管理者権限]**」セクションで、次のチェックボックスがオンになっていることを確認します。
 
    * [!UICONTROL API 有効]
    * [!UICONTROL HTML テンプレートを編集]
@@ -58,9 +58,9 @@ ht-degree: 90%
 
    >[!TIP]
    >
-   >**[!UICONTROL パスワードの有効期限なし]**&#x200B;ボックスのチェックは必ずオンにしてください。
+   >「**[!UICONTROL パスワードが期限切れになりません]**」ボックスにチェックを入れます。
 
-1. [!UICONTROL 一般ユーザ権限]セクションで、次のボックスがオンになっていることを確認します。
+1. 「[!UICONTROL 一般ユーザー権限]」セクションで、次のチェックボックスがオンになっていることを確認します。
 
    * [!UICONTROL リードをコンバート]
    * [!UICONTROL イベントを編集]
@@ -68,7 +68,7 @@ ht-degree: 90%
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. [!UICONTROL 標準オブジェクト権限]セクションで、[!UICONTROL 読み取り、作成、編集、削除]の権限が次の項目に対して有効になっていることを確認します。
+1. 「[!UICONTROL 標準オブジェクト権限]」セクションで、[!UICONTROL 読み取り、作成、編集、削除]権限がチェックされていることを確認します。
 
    * [!UICONTROL アカウント]
    * [!UICONTROL キャンペーン]
@@ -94,7 +94,7 @@ ht-degree: 90%
    >
    >この手順を実行すると、Marketo に表示する必要のないフィールドが防止され、混乱が軽減され、同期が高速化されます。
 
-1. プロファイルの詳細ページで、**[!UICONTROL フィールドレベルのセキュリティ]**&#x200B;セクションに移動します。オブジェクトのアクセシビリティを編集するには、「**[!UICONTROL 表示]**」をクリックします。
+1. プロファイルの詳細ページで、**[!UICONTROL フィールドレベルのセキュリティ]**&#x200B;セクションに移動します。 オブジェクトのアクセシビリティを編集するには、「**[!UICONTROL 表示]**」をクリックします。
 
    * [!UICONTROL リード]
    * [!UICONTROL 取引先責任者]
@@ -111,7 +111,7 @@ ht-degree: 90%
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. 不要なフィールドを見つけ、**[!UICONTROL 読み取りアクセス]**&#x200B;と&#x200B;**[!UICONTROL 編集アクセスを]**&#x200B;がオフになっていることを確認してください。完了したら、「**[!UICONTROL 保存]**」をクリックします。
+1. 不要なフィールドを見つけ、**[!UICONTROL 読み取りアクセス]**&#x200B;と&#x200B;**[!UICONTROL 編集アクセス]**&#x200B;がオフになっていることを確認します。 完了したら、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ ht-degree: 90%
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. 不要なフィールドをすべて無効にした後で、次のオブジェクトフィールドの&#x200B;**[!UICONTROL 読み取りアクセスと編集アクセス]**&#x200B;のチェックをオンにします。完了したら、「**[!UICONTROL 保存]**」をクリックします。
+1. 不要なフィールドをすべて無効にした後で、次のオブジェクトフィールドの&#x200B;**[!UICONTROL 読み取りアクセスと編集アクセス]**&#x200B;のチェックをオンにします。 完了したら、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
 <table>
  <tbody>
@@ -148,13 +148,13 @@ ht-degree: 90%
 
 >[!TIP]
 >
->専用の [!DNL Salesforce] アカウント（<marketo@yourcompany.com> など）を作成して、Marketoによる変更を他の [!DNL Salesforce] ユーザーと区別します。
+>専用の[!DNL Salesforce] アカウント （例：<marketo@yourcompany.com>）を作成して、Marketoが行った変更を他の[!DNL Salesforce] ユーザーと区別します。
 
-1. ナビゲーション検索バーに「ユーザーを管理」と入力し、「**[!UICONTROL ユーザー]**」をクリックします。「**[!UICONTROL 新規ユーザー]**」をクリックします。
+1. ナビゲーション検索バーに「ユーザーを管理」と入力し、「**[!UICONTROL ユーザー]**」をクリックします。 「**[!UICONTROL 新規ユーザー]**」をクリックします。
 
    ![](assets/sfdc-new-users.png)
 
-1. 必須フィールドに入力します。次に、「**[!UICONTROL ユーザライセンス：Salesforce]**」と、以前に作成したプロファイルを選択します。完了したら、「**[!UICONTROL 保存]**」をクリックします。
+1. 必須フィールドに入力します。 次に、「**[!UICONTROL ユーザライセンス：Salesforce]**」と、以前に作成したプロファイルを選択します。 完了したら、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 

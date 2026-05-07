@@ -1,12 +1,12 @@
 ---
-description: Adobe Admin ConsoleでDynamic Chat ユーザーを追加または削除する方法を説明します。 製品プロファイルを割り当てて、チームのアクセスを管理します。
+description: Adobe Admin ConsoleでDynamic Chat ユーザーを追加または削除する方法について説明します。 製品プロファイルの割り当てとチームのアクセス管理。
 title: チャットユーザーの追加または削除
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 91%
+source-wordcount: '289'
+ht-degree: 85%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 91%
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. 追加するユーザの[!UICONTROL 名前、ユーザグループ、メールアドレス]を入力します。姓と名はオプションです。
+1. 追加するユーザの[!UICONTROL 名前、ユーザグループ、メールアドレス]を入力します。 姓と名はオプションです。
 
    ![](assets/add-or-remove-chat-users-5.png)
 
@@ -58,7 +58,7 @@ ht-degree: 91%
 
 ## Dynamic Chat アクセスを Marketo のロールに追加 {#add-dynamic-chat-access-to-marketo-role}
 
-新しく追加したチャットユーザの Marketo のロールに [!DNL Dynamic Chat] 権限がまだない場合は、次の方法で追加できます。
+新しく追加されたChat ユーザーのMarketo ロールに[!DNL Dynamic Chat]権限がない場合は、次の手順に従って追加します。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックし、「**[!UICONTROL ユーザー＆ロール]**」を選択します。
 
@@ -108,5 +108,5 @@ ht-degree: 91%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console ユーザー](https://helpx.adobe.com/jp/enterprise/using/users.html){target="_blank"}
+>* [Adobe Admin Console ユーザ](https://helpx.adobe.com/jp/enterprise/using/users.html){target="_blank"}
 >* [ユーザーを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html){target="_blank"}

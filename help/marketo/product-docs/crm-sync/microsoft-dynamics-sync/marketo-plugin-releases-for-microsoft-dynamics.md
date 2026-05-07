@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10099389
-description: Microsoft DynamicsのMarketo プラグインリリースについて説明します。 バージョン履歴を検索し、Dynamics インスタンスの最新のMarketo ソリューションをダウンロードします。
+description: Microsoft Dynamics向けMarketo プラグインのリリースについて説明します。 バージョン履歴を検索し、Dynamics インスタンスの最新のMarketo ソリューションをダウンロードします。
 title: ' [!DNL Microsoft Dynamics] 向け Marketo プラグインリリース'
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 95%
+source-wordcount: '519'
+ht-degree: 82%
 
 ---
 
 # [!DNL Microsoft Dynamics] 向け Marketo プラグインリリース {#marketo-plugin-releases-for-microsoft-dynamics}
 
-[!DNL Microsoft Dynamics] に初めて同期するときは、Marketo 用のプラグインの最新バージョンをダウンロードします。Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
+[!DNL Microsoft Dynamics] に初めて同期するときは、Marketo 用のプラグインの最新バージョンをダウンロードします。 Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
 
 お使いの [!DNL Dynamics] リリースに対応した、[最新のプラグインをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)してください。
 
@@ -23,7 +23,7 @@ ht-degree: 95%
 
 1. [!DNL Dynamics] CRM の既存のバージョンに対して、ソリューションの最新バージョンを読み込みます（例：[!DNL Dynamics] CRM のバージョンが 1.4 で、最新バージョンが 1.5 の場合は、バージョン 1.4 _以降_&#x200B;を読み込みます）。
 
-1. 次のポップアップが表示されます。「**アップデート**」および「**カスタマイズを維持**」を選択し、「**インポート**」をクリックします。
+1. 次のポップアップが表示されます。 「**アップデート**」および「**カスタマイズを維持**」を選択し、「**インポート**」をクリックします。
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-2.png)
 
@@ -73,7 +73,7 @@ ht-degree: 95%
   <tr>
    <td colspan="1"><p>4.0.0.21</p></td>
    <td colspan="1">2016/11/9</td>
-   <td colspan="1">バグ修正：プラグインは、カスタムオブジェクトのステート変更をキャプチャするイベントをサブスクライブしませんでした。この修正は、[!DNL Dynamics] CRM オンプレミス 2011 に固有です。 </td>
+   <td colspan="1">バグ修正：プラグインは、カスタムオブジェクトのステート変更をキャプチャするイベントをサブスクライブしませんでした。 この修正は、[!DNL Dynamics] CRM オンプレミス 2011 に固有です。 </td>
   </tr>
   <tr>
    <td>4.0.0.22</td>
@@ -83,12 +83,12 @@ ht-degree: 95%
   <tr>
    <td><p>4.0.0.21</p></td>
    <td>2016/11/9</td>
-   <td>バグ修正：プラグインは、カスタムオブジェクトのステート変更をキャプチャするイベントをサブスクライブしませんでした。この修正は、Dynamics CRM オンプレミス 2011 に固有です。</td>
+   <td>バグ修正：プラグインは、カスタムオブジェクトのステート変更をキャプチャするイベントをサブスクライブしませんでした。 この修正は、Dynamics CRM オンプレミス 2011 に固有です。</td>
   </tr>
   <tr>
    <td>4.0.0.20</td>
    <td>2016/07/22</td>
-   <td>バグ修正：商談取引先責任者のロールの更新が完全にキャプチャされていませんでした。</td>
+   <td>バグ修正：商談の連絡先の役割の更新が完全にキャプチャされませんでした。</td>
   </tr>
   <tr>
    <td>4.0.0.19</td>
@@ -103,7 +103,7 @@ ht-degree: 95%
   <tr>
    <td>4.0.0.17</td>
    <td>2016/04/08</td>
-   <td>バグ修正：リードの同期フィルターが「いいえ」に設定され、商談と取引先責任者に同期フィルターが設定されていない場合、リードが条件を満たしたときに取引先責任者と商談に対してログの作成が生成されませんでした。</td>
+   <td>バグ修正：リードの同期フィルターがNOに設定され、商談と取引先責任者に同期フィルターが設定されていない場合、リードが適格になったときに、取引先責任者と商談に対して「ログを作成」が生成されませんでした。</td>
   </tr>
   <tr>
    <td>4.0.0.16</td>
@@ -113,7 +113,7 @@ ht-degree: 95%
   <tr>
    <td>4.0.0.15</td>
    <td>2016/03/03</td>
-   <td>バグ修正：ログインユーザに Marketo 設定の権限がないので、顧客が CRM でリードを作成できませんでした。</td>
+   <td>バグ修正：ログインユーザーにMarketo Config権限がなかったため、CRMでリードを作成できませんでした。</td>
   </tr>
   <tr>
    <td colspan="1">4.0.0.14</td>

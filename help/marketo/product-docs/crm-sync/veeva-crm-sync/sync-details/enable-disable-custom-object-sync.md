@@ -1,18 +1,18 @@
 ---
-description: Veeva CRM とMarketo Engageの間でカスタムオブジェクト同期を有効または無効にする方法を説明します。 Admin と Veeva Objects Sync を使用して、カスタムオブジェクトを選択および同期します。
+description: Veeva CRMとMarketo Engage間でカスタムオブジェクトの同期を有効または無効にする方法について説明します。 AdminとVeeva Objects Syncを使用して、カスタムオブジェクトを選択および同期します。
 title: カスタムオブジェクト同期の有効化／無効化
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '230'
 ht-degree: 88%
 
 ---
 
 # カスタムオブジェクト同期の有効化／無効化 {#enable-disable-custom-object-sync}
 
-[!DNL Veeva] CRM インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。その設定方法を説明しましょう。
+[!DNL Veeva] CRM インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。 その設定方法を説明しましょう。
 
 ## カスタムオブジェクト同期の有効化／無効化 {#enable-or-disable-the-custom-object-sync}
 
@@ -24,7 +24,7 @@ ht-degree: 88%
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. これが最初のカスタムオブジェクトの場合は、「**[!UICONTROL スキーマを同期]**」をクリックします。それ以外の場合は、「**[!UICONTROL スキーマを更新]**」をクリックして最新の情報を取得します。
+1. これが最初のカスタムオブジェクトの場合は、「**[!UICONTROL スキーマを同期]**」をクリックします。 それ以外の場合は、「**[!UICONTROL スキーマを更新]**」をクリックして最新の情報を取得します。
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
@@ -70,7 +70,7 @@ ht-degree: 88%
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-これで完了です。このカスタムオブジェクトのデータを[!UICONTROL スマートキャンペーン]と[!UICONTROL スマートリスト]で使用できるようになりました。
+このカスタムオブジェクトのデータを[!UICONTROL スマートキャンペーン]と[!UICONTROL スマートリスト]で使用できるようになりました。
 
 >[!MORELIKETHIS]
 >

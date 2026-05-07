@@ -1,19 +1,19 @@
 ---
 unique-page-id: 3571809
-description: 最後の手順で、Microsoft Dynamics 2011 オンプレミスとMarketoを接続する方法について説明します。 Marketo Admin に sync user information と入力し、同期を有効にします。
+description: 最後のステップでは、Microsoft Dynamics 2011 オンプレミスをMarketoに接続する方法について説明します。 Marketo Adminにユーザー情報を同期を入力し、同期を有効にします。
 title: 手順 3／3 -  [!DNL Microsoft Dynamics]  と Marketo（2011 オンプレミス）の接続
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 93%
+source-wordcount: '379'
+ht-degree: 76%
 
 ---
 
 # 手順 3／3 - [!DNL Microsoft Dynamics] と Marketo（2011 オンプレミス）の接続 {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
-これまで、ソリューションをインストールし、同期ユーザーを設定しました。次に、Marketo と [!DNL Dynamics] を接続する必要があります。
+ソリューションがインストールされ、同期ユーザーが設定されます。 次に、Marketoと[!DNL Dynamics]を接続します。
 
 >[!PREREQUISITES]
 >
@@ -26,7 +26,7 @@ ht-degree: 93%
 
 ## [!DNL Dynamics] 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
 
-1. Marketo にログインし、「**[!UICONTROL 管理者]**」をクリックします。
+1. Marketo にログインし、**[!UICONTROL 管理]**&#x200B;をクリックします。
 
    ![](assets/login-admin.png)
 
@@ -44,7 +44,7 @@ ht-degree: 93%
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、資格情報が正しいことを確認してください。間違った資格情報を保存した場合は、新しい Marketo サブスクリプションを取得する必要があります。
+   >資格情報が正しいことを確認します。 送信後に後続のスキーマ変更を元に戻すことはできません。 誤った資格情報が保存された場合は、新しいMarketo サブスクリプションが必要になります。
 
 1. 「**[!UICONTROL ユーザ名]**」、「**[!UICONTROL パスワード]**」と CRM の「**[!UICONTROL URL]**」を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
@@ -52,28 +52,28 @@ ht-degree: 93%
 
    >[!NOTE]
    >
-   >* Marketo の[!UICONTROL ユーザ名]は、CRM の同期ユーザのユーザ名と一致する必要があります。形式は、`user@domain.com` または DOMAIN\user です。
+   >* Marketo の[!UICONTROL ユーザ名]は、CRM の同期ユーザのユーザ名と一致する必要があります。 形式は、`user@domain.com` または DOMAIN\user です。
    >* URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
 ## 同期するフィールドを選択 {#select-fields-to-sync}
 
-同期するフィールドを選択する必要があります。
+同期するフィールドを選択します。
 
 1. **[!UICONTROL 手順 2：同期するフィールドを選択]**&#x200B;の「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-51-28a.png)
 
-1. 同期されるフィールドは事前に選択されています。必要に応じて追加し、「**[!UICONTROL 保存]**」をクリックします。
+1. 同期されるフィールドは事前に選択されています。 必要に応じて追加し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-13-3a26-3a14.png)
 
    >[!NOTE]
    >
-   >Marketo は、同期するフィールドへの参照を保存します。[!DNL Dynamics] でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)の状態で実行することをお勧めします。次に、「[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)」を編集および保存して、Marketo のスキーマを更新します。
+   >Marketo は、同期するフィールドへの参照を保存します。 [!DNL Dynamics] でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)の状態で実行することをお勧めします。 次に、「[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)」を編集および保存して、Marketo のスキーマを更新します。
 
 ## カスタムフィルターのフィールドを同期する {#sync-fields-for-a-custom-filter}
 
-カスタムフィルターを作成した場合は、Marketo と同期する新しいフィールドを選択するようにします。
+カスタムフィルターを作成した場合は、に移動し、Marketoと同期する新しいフィールドを選択します。
 
 1. 「管理者」に移動し、「**[!UICONTROL Microsoft Dynamics]**」を選択します。
 
@@ -83,7 +83,7 @@ ht-degree: 93%
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 下にスクロールしてフィールドを確認します。実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。「**[!UICONTROL 保存]**」をクリックします。
+1. 下にスクロールしてフィールドを確認します。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-14-3a14-3a57.png)
 
@@ -101,6 +101,6 @@ ht-degree: 93%
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。完了すると、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)

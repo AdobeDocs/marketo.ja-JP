@@ -4,10 +4,10 @@ description: Salesforce EnterpriseまたはUnlimited エディションにMarket
 title: 手順 1／3 - Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '766'
-ht-degree: 93%
+source-wordcount: '764'
+ht-degree: 91%
 
 ---
 
@@ -268,7 +268,6 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 1. 完了したら、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
-   簡単ですね。
 
 >[!MORELIKETHIS]
 >

@@ -1,44 +1,44 @@
 ---
-description: カスタマーマッチのためにMarketo静的リストをGoogleに送信する方法について説明します。 リストを選択し、「Google」と「広告アカウント」を選択し、オプションでオーディエンスの同期を維持します。
+description: Customer Match用にMarketoの静的リストをGoogleに送信する方法について説明します。 リストを選択し、「Googleと広告アカウント」を選択し、オプションでオーディエンスの同期を維持します。
 title: Google へのリストの送信
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 7%
+source-wordcount: '239'
+ht-degree: 6%
 
 ---
 
 # Google へのリストの送信 {#send-a-list-to-google}
 
-Google カスタマーマッチを使用する場合は、次の手順に従ってMarketo Engage静的リストをGoogle アカウントに送信します。
+Google Customer Matchを使用している場合は、次の手順に従って、Marketo Engageの静的リストをGoogle アカウントに送信します。
 
-1. Marketo Engageで、目的のリストを見つけて選択します。
+1. Marketo Engageで、目的のリストを検索して選択します。
 
    ![](assets/send-a-list-to-google-1.png)
 
-1. **リストアクション** ドロップダウンをクリックし、「**広告ネットワークに送信**」を選択します。
+1. 「**アクションを一覧表示**」ドロップダウンをクリックし、**広告ネットワークに送信**&#x200B;を選択します。
 
    ![](assets/send-a-list-to-google-2.png)
 
-1. 「Google」を選択し、「**次へ**」をクリックします。
+1. Googleを選択し、**次へ**&#x200B;をクリックします。
 
    ![](assets/send-a-list-to-google-3.png)
 
-1. 目的の広告アカウントを選択します。 既存のオーディエンスを選択することも、新しいオーディエンスを作成することもできます。 この例では、新しいタグを作成します。 新しいオーディエンスに名前を付けます。
+1. 目的の広告アカウントを選択します。 既存のオーディエンスを選択するか、新しいオーディエンスを作成できます。 この例では、新しいオブジェクトを作成しています。 新しいオーディエンスに名前を付けます。
 
    ![](assets/send-a-list-to-google-4.png)
 
-1. オプションで選択します。
+1. オプションの選択を行います。
 
    ![](assets/send-a-list-to-google-5.png)
 
    >[!NOTE]
    >
-   >* 「**オーディエンスメンバーシップを同期に保つ**」を選択すると、インスタンスで変更されたときにリストが最新の状態に保たれます。 静的リストに追加されたユーザーや静的リストから削除されたユーザーをオーディエンスに追加またはオーディエンスから削除します。
+   >* 「**オーディエンスメンバーシップを同期する**」を選択すると、インスタンス内で変更される際に、リストが最新の状態に保たれます。 オーディエンスメンバーシップは、オーディエンスが静的リストに追加または削除されたときに更新されます。
    >
-   >* 下部にあるチェックボックスをオンにすると、広告および広告パーソナライゼーションの目的でGoogle Ads に送信されるユーザーデータに対して、同意ステータスが許可済みとして送信されます。 オフのままにすると、同意ステータスは未指定として送信されます。 Googleは、欧州経済領域（EEA）のお客様向けのデータをアップロードする予定のユーザー向けに、[EU ユーザー同意ポリシー &#x200B;](https://support.google.com/google-ads/answer/14310715){target="_blank"} の概要を説明した詳細と [FAQ](https://www.google.com/about/company/user-consent-policy/){target="_blank"} のリストを作成しました。
+   >* 下部のチェックボックスをオンにすると、広告および広告のパーソナライズ目的でGoogle Adsに送信されたユーザーデータに対して、付与された同意ステータスが送信されます。 チェックを外したままにすると、同意ステータスが未指定のまま送信されます。 欧州経済領域（EEA）のユーザー向けのデータをアップロードする予定のユーザーについては、Googleでは、[FAQ](https://support.google.com/google-ads/answer/14310715){target="_blank"}のリストと、[EU ユーザー同意ポリシー](https://www.google.com/about/company/user-consent-policy/){target="_blank"}の概要を示す詳細をまとめました。
 
 1. 「**更新**」をクリックします。
 

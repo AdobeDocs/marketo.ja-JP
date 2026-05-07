@@ -3,10 +3,10 @@ description: Marketoのインタラクティブウェビナーのデザインに
 title: インタラクティブウェビナーの設計
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '605'
-ht-degree: 75%
+source-wordcount: '602'
+ht-degree: 70%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 75%
    >
    >* ルームは、ミーティングを行うために使用されるオンラインスペースです。
    >
-   >* 既存のウェビナールームを選択し、その名前を変更する必要がある場合は、右側の「**ウェビナールームの名前を変更**」ボタンをクリックします。
+   >* 既存のウェビナールームを選択し、名前を変更する必要がある場合は、右側の「**ウェビナールーム名を変更**」ボタンをクリックします。
    >
    >* ドロップダウンには、以前に作成した既存のルームのみが表示され、他のホストのルームは表示されません。
 
@@ -50,7 +50,7 @@ ht-degree: 75%
 
    ![](assets/designing-interactive-webinars-5.png)
 
-1. ウェビナーをすぐに調整することも、後で調整することもできます。 今すぐ行いましょう。 「**今すぐウェビナーを調整**」をクリックします。
+1. ウェビナーをすぐに調整することも、後で調整することもできます。 続行するには、**今すぐウェビナーを調整**&#x200B;をクリックしてください。
 
    ![](assets/designing-interactive-webinars-6.png)
 
@@ -62,7 +62,7 @@ ht-degree: 75%
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. ルームとテンプレートについて詳しくは、[このAdobe ヘルプ記事](https://helpx.adobe.com/jp/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}の「会議室のテンプレートとレイアウト」の節を参照してください。
+1. 会議室とテンプレートについて詳しくは、[このAdobe ヘルプ記事](https://helpx.adobe.com/jp/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}の「会議室のテンプレートとレイアウト」の節を参照してください。
 
 1. ウェビナーのデザインが完了したら、**会議室を終了**&#x200B;をクリックします。
 
@@ -76,9 +76,9 @@ ht-degree: 75%
 
 **ポッド**：ウェビナー中に特定のアクティビティを実行するテンプレート内のコンポーネント。 例えば、あるアクティビティでの参加者の反応を捉えるために投票を設定および配信することは、投票ポッドで処理できます。 同様に、メッセージを伝えたりカジュアルにやり取りしたりするための参加者とのチャットは、チャットポッドを通じて実現できるアクティビティです。 共有、メモ、ビデオ、チャット、参加者リスト、ファイル、Web リンク、投票、Q&amp;Aなど、他の複数のポッドを利用できます。
 
-      **アンケート ポッド**：構造化されたフィードバック フォームをライブ セッション内で直接設計および配信できます。 調査ポッドは、複数の質問を一緒に提示できるようにすることで、既存の調査ポッド機能を拡張し、参加者のインサイトを収集するためのより合理的でまとまりのある方法を提供します。 [詳細情報](https://helpx.adobe.com/jp/adobe-connect/using/survey-pod.html){target="_blank"}
+      **アンケート ポッド**：構造化されたフィードバック フォームをライブ セッション内で直接設計および配信できます。 調査ポッドは、複数の質問を一緒に提示できるようにすることで、既存の調査ポッド機能を拡張し、参加者のインサイトを収集するためのより合理的でまとまりのある方法を提供します。 [詳細情報](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **リソース ポッド**：以前のファイルとWeb リンク ポッドを置き換え、ライブセッション中にリソースを共有するための単一の統合方法を提供します。 [詳細情報](https://helpx.adobe.com/jp/adobe-connect/using/resources-pod.html){target="_blank"}
+      **リソース ポッド**：以前のファイルとWeb リンク ポッドを置き換え、ライブセッション中にリソースを共有するための単一の統合方法を提供します。 [詳細情報](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

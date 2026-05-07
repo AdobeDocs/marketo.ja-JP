@@ -4,16 +4,16 @@ description: Marketoで新しいイベントプログラムを作成する方法
 title: 新しいイベントプログラムの作成
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 84%
+source-wordcount: '196'
+ht-degree: 80%
 
 ---
 
 # 新しいイベントプログラムの作成 {#create-a-new-event-program}
 
-イベントを使用すると、オンラインとオフラインのイベントを自動化できます。 様々なステージを進むユーザーのステータスを把握し、マーケティングイニシアチブの ROI を正確に測定します。
+イベントを利用すれば、オンラインとオフラインのイベントを自動化できます。 様々なステージを進むユーザーのステータスを把握し、マーケティングイニシアチブの ROI を正確に測定します。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -39,7 +39,7 @@ ht-degree: 84%
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
-   いかがでしょうか。 新しいイベントがツリーに表示されます。
+   新しいイベントがツリーに表示されます。
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 

@@ -1,27 +1,27 @@
 ---
 unique-page-id: 4719316
-description: Marketo EngageでのSalesforce人物アカウントの扱い方について説明します。 個人アカウントとビジネス・アカウントを区別し、スマート・リストで「個人アカウント」フィルタを使用します。
+description: Salesforceの個人アカウントに対するMarketo Engageの扱いについて説明します。 個人と法人のアカウントを区別し、スマートリストで「個人アカウントです」フィルターを使用します。
 title: 個人取引先の使用
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 92%
+source-wordcount: '309'
+ht-degree: 89%
 
 ---
 
 # 個人取引先の使用 {#using-person-accounts}
 
-組織のニーズに合わせて、Salesforce で個人取引先を設定できます。Marketo Engage が個人取引先を扱う方法を次に示します。
+組織のニーズに合わせて、Salesforce で個人取引先を設定できます。 次に、Marketo Engageでの個人アカウントの処理方法を示します。
 
 >[!NOTE]
 >
->デフォルトの [!DNL Salesforce] アカウントは、ビジネスアカウントです。[!DNL Salesforce] 管理者は、個人取引先を個別に設定する必要があります。
+>デフォルトの [!DNL Salesforce] アカウントは、ビジネスアカウントです。 [!DNL Salesforce] 管理者は、個人取引先を個別に設定する必要があります。
 
 ## 個人取引先とは {#what-is-a-person-account}
 
-個人取引先は、[!DNL Salesforce] のアカウントオブジェクトと非常に似ています。ただし、個人取引先は、アカウントフィールドと連絡先フィールドの両方にアクセスできます。
+個人取引先は、[!DNL Salesforce] のアカウントオブジェクトと非常に似ています。 ただし、個人取引先は、アカウントフィールドと連絡先フィールドの両方にアクセスできます。
 
 ## 個人取引先が Marketo に同期されるとどうなりますか？ {#what-happens-when-a-person-account-is-synced-to-marketo}
 
@@ -45,8 +45,8 @@ ht-degree: 92%
 
 ## 個人取引先に商談を関連付ける方法を教えてください。 {#how-do-i-associate-opportunities-to-a-person-account}
 
-Marketo は、商談連絡先の役割に依存して商談を関連付ける個人を決定します。商談を Marketo の適切な個人に接続するには、各個人取引先に商談連絡先の役割を追加する必要があります。商談連絡先の役割を自動的に追加するワークフローを設定することをお勧めします。
+Marketo は、商談連絡先の役割に依存して商談を関連付ける個人を決定します。 商談を Marketo の適切な個人に接続するには、各個人取引先に商談連絡先の役割を追加する必要があります。 商談連絡先の役割を自動的に追加するワークフローを設定することをお勧めします。
 
 ## 個人取引先に使用する必要があるメールフィールドは何ですか？ {#which-email-field-should-i-use-for-person-accounts}
 
-1 つの個人取引先に対して 2 つのメールフィールドがあります。Marketo での重複排除や他のメール処理が正しく機能するよう、フォームの「**[!UICONTROL メールアドレス]**」フィールド（**[!UICONTROL 個人のメールアドレス]**&#x200B;ではなく）を使用します。
+1 つの個人取引先に対して 2 つのメールフィールドがあります。 Marketo での重複排除や他のメール処理が正しく機能するよう、フォームの「**[!UICONTROL メールアドレス]**」フィールド（**[!UICONTROL 個人のメールアドレス]**&#x200B;ではなく）を使用します。

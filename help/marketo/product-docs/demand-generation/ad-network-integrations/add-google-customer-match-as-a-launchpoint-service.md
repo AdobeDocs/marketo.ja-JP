@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980661
-description: Google カスタマーマッチを LaunchPoint サービスとして追加する方法を説明します。 AdWords、YouTube、検索および Gmail でのターゲティング用に、Marketo オーディエンスをGoogleに送信します。
+description: Google Customer Match as a LaunchPoint サービスを追加する方法を説明します。 Marketo オーディエンスをGoogleに送信して、AdWords、YouTube、検索、Gmailでターゲティングします。
 title: Google カスタマーマッチを  [!DNL LaunchPoint]  サービスとして追加
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '194'
-ht-degree: 87%
+ht-degree: 80%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 87%
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. **[!UICONTROL 表示名]**&#x200B;を入力して&#x200B;**[!UICONTROL サービス]**&#x200B;ドロップダウンから「**[!UICONTROL Google カスタマーマッチ]**」を選択します。「**[!UICONTROL 作成]**」をクリックします。
+1. **[!UICONTROL 表示名]**&#x200B;を入力して&#x200B;**[!UICONTROL サービス]**&#x200B;ドロップダウンから「**[!UICONTROL Google カスタマーマッチ]**」を選択します。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/chooseservice.png)
 
@@ -39,7 +39,7 @@ ht-degree: 87%
 
    ![](assets/authorizeaccount-1.png)
 
-1. Google が新しいタブで開きます。ここから、[!DNL Google AdWords] アカウントにログインします。
+1. Google が新しいタブで開きます。 ここから、[!DNL Google AdWords] アカウントにログインします。
 
    >[!CAUTION]
    >
@@ -51,12 +51,12 @@ ht-degree: 87%
 
    ![](assets/reviewpermissions.png)
 
-1. これで、[!DNL Google AdWords] アカウントが Marketo に接続されました。「**[!UICONTROL 作成]**」をクリックします。
+1. これで、[!DNL Google AdWords] アカウントが Marketo に接続されました。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/authorizesuccess.png)
 
-   これで完了です。これで、「インストール済みのサービス」タブに [!DNL LaunchPoint] サービスとして「Google と一致するオーディエンス」が表示されます。
+   Google Matched Audiencesは、「インストール済みサービス」タブに[!DNL LaunchPoint] サービスとして表示されるようになりました。
 
 >[!NOTE]
 >
->Google カスタマーマッチの統合には、1 つのマネージャーアカウントと、そのマネージャーアカウント内のサブアカウントすべてに対応できます。複数のマネージャーアカウントはサポートされていません。
+>Google カスタマーマッチの統合には、1 つのマネージャーアカウントと、そのマネージャーアカウント内のサブアカウントすべてに対応できます。 複数のマネージャーアカウントはサポートされていません。

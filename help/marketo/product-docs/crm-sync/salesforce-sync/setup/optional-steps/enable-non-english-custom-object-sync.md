@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719302
-description: Marketo同期ユーザーが英語以外の言語を使用している場合にカスタムオブジェクト同期を有効にする方法を説明します。 Salesforceで同期ユーザーの言語を英語に設定し、スキーマを更新します。
+description: Marketo sync ユーザーが英語以外の言語を使用している場合にカスタムオブジェクトの同期を有効にする方法について説明します。 Salesforceでsync user languageをEnglishに設定し、スキーマを更新します。
 title: 英語以外のカスタムオブジェクト同期の有効化
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 83%
+source-wordcount: '175'
+ht-degree: 75%
 
 ---
 
@@ -49,7 +49,7 @@ Marketo 同期ユーザーが英語以外の言語に設定されている場合
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. これにより、英語でオブジェクトリストが取り込まれます。次に、目的のオブジェクトを選択し、「**[!UICONTROL 同期を有効にする]**」をクリックします。
+1. これにより、英語でオブジェクトリストが取り込まれます。 次に、目的のオブジェクトを選択し、「**[!UICONTROL 同期を有効にする]**」をクリックします。
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
@@ -61,4 +61,4 @@ Marketo 同期ユーザーが英語以外の言語に設定されている場合
 
 >[!NOTE]
 >
->オブジェクトを元の言語に戻すには、最後に、スキーマを更新するのを忘れないでください。
+>オブジェクトを言語に戻すために、スキーマを最後に1回更新します。

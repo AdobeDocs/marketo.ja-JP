@@ -1,12 +1,12 @@
 ---
-description: 会話フローと、会話フローとダイアログとの違いについて説明します。 訪問者のアクションによってトリガーされるフローを設計して、フォームやポップアップで使用します。
+description: 対話型フローについて、およびそれらがダイアログとどのように異なるかについて説明します。 訪問者のアクションをトリガーにしてフォームやポップアップにデザインできます。
 title: 対話型フローの概要
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 92%
+source-wordcount: '370'
+ht-degree: 87%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 92%
    <th style="width:50%">対話型フロー</th>
   </tr>
   <tr>
-   <td>ダイアログにはターゲットが設定されます。実装したパラメーターに基づいて、特定のページとオーディエンスに向けた対話をデザインします。</td>
+   <td>ダイアログのターゲット設定：実装したパラメーターに基づいて、特定のページとオーディエンス向けの会話をデザインします。</td>
    <td>対話型フローはトリガーされます。フォームへの入力、リンクのクリックなど、訪問者のアクションに基づいて、トリガーできる対話をデザインします。</td>
   </tr>
    <tr>
@@ -48,7 +48,7 @@ ht-degree: 92%
 
 ## 「ストリームデザイナー」タブ {#stream-designer-tab}
 
-対話型フローのストリームデザイナーは、ダイアログのストリームデザイナーとほとんど同じです。[詳しくは、こちらを参照してください](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}。
+対話型フローのストリームデザイナーは、ダイアログのストリームデザイナーとほとんど同じです。 [詳しくは、こちらを参照してください](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}。
 
 ![](assets/conversational-flow-overview-2.png)
 
@@ -72,17 +72,17 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->別の言語を選択すると、システムテキストの言語のみが変更されます。コンテンツの翻訳は自分で行う必要があります。
+>別の言語を選択すると、システムテキストの言語のみが変更されます。 コンテンツの翻訳は自分で行う必要があります。
 
 ### 対話 SDK {#conversations-sdk}
 
-「設定」タブの下半分で、対話 SDK とも呼ばれる対話トリガーをカスタマイズします。訪問者がリンクをクリックする際や、ページの読み込み時に web サイトで対話をトリガーするかどうかを決定できます。
+「設定」タブの下半分で、対話 SDK とも呼ばれる対話トリガーをカスタマイズします。 訪問者がリンクをクリックする際や、ページの読み込み時に web サイトで対話をトリガーするかどうかを決定できます。
 
 ![](assets/conversational-flow-overview-7.png)
 
 >[!TIP]
 >
->[&#x200B; 会話SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=ja){target="_blank"} の動作を参照してください。
+>[Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}を実際にご覧ください。
 
 >[!MORELIKETHIS]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719289
-description: Marketo EngageでSalesforce キャンペーン同期を有効または無効にする方法について説明します。
+description: Marketo EngageでSalesforce キャンペーンの同期を有効または無効にする方法について説明します。
 title: キャンペーン同期の有効化／無効化
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 60%
+source-wordcount: '85'
+ht-degree: 41%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 60%
 >
 >**管理者権限が必要**
 
-このオプションを使用すると、Marketo Engageは、プログラムメンバーシップとステータスをSalesforce キャンペーンと同期できます。また、その逆も可能です。
+このオプションを使用すると、Marketo EngageのプログラムメンバーシップとステータスをSalesforce キャンペーンと同期できます。その逆も可能です。
 
 1. 「**[!UICONTROL 管理者]**」に移動し、「**[!DNL Salesforce]**」をクリックします。
 
@@ -27,11 +27,11 @@ ht-degree: 60%
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. **[!UICONTROL Salesforce Campaign 同期を有効にする]** をオンにして、「**[!UICONTROL 保存]** をクリックします。
+1. **[!UICONTROL Salesforce Campaign Syncを有効にする]**&#x200B;にチェックを入れ、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
-これで手順は完了です。Salesforce からデータを取り込むための同期を少しお待ちください。
+Salesforceからデータを取得するには、同期に時間がかかる場合があります。
 
 >[!MORELIKETHIS]
 >

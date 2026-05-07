@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2953471
-description: SalesforceからMarketoへのカスタムオブジェクト同期を設定する方法について説明します。 カスタムオブジェクトを有効化して、スマートリスト、トリガーおよびキャンペーンで使用します。
+description: SalesforceからMarketoへのカスタムオブジェクトの同期を設定する方法について説明します。 カスタムオブジェクトを有効にし、スマートリスト、トリガー、キャンペーンで使用できます。
 title: SFDC 同期 - カスタムオブジェクトの同期
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 92%
+source-wordcount: '311'
+ht-degree: 90%
 
 ---
 
 # SFDC 同期：カスタムオブジェクトの同期 {#sfdc-sync-custom-object-sync}
 
-[!DNL Salesforce] インスタンスで作成されたカスタムオブジェクトも、Marketo の一部にすることができます。その設定方法を説明します。
+[!DNL Salesforce] インスタンスで作成されたカスタムオブジェクトも、Marketo の一部にすることができます。  その設定方法を説明しましょう。
 
 >[!NOTE]
 >
@@ -53,19 +53,19 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >カスタムオブジェクトには一意の名前が必要です。Marketo では、同名の 2 つの異なるカスタムオブジェクトはサポートされていません。
+   >カスタムオブジェクトには一意の名前が必要です。 Marketo では、同名の 2 つの異なるカスタムオブジェクトはサポートされていません。
 
 1. 「**[!UICONTROL 同期を有効にする]**」をクリックします。
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. 「**[!UICONTROL 同期を有効にする]**」を再度クリックします。
+1. 「**[!UICONTROL 同期を有効にする]**」をもう一度クリックします。
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
    >[!NOTE]
    >
-   >忘れずにグローバル同期を再度有効にしてください。
+   >グローバル同期を再度有効にしてください。
 
 1. 「**[!UICONTROL Salesforce]**」タブに戻ります。
 
@@ -83,10 +83,10 @@ ht-degree: 92%
    >
    >* Marketo では、1 レベルまたは 2 レベルの深さの標準エンティティにリンクされたカスタムエンティティのみがサポートされています。
    >
-   >* カスタムオブジェクトツリーは、メインオブジェクトの 1 つ（リード、取引先責任者、アカウントなど、または中間オブジェクトを介した間接接続など）との直接接続により、同じオブジェクトを複数回表示する場合があります。このような場合は、メインオブジェクトに最も近いオブジェクトを選択し、1 つだけ選択します。同じオブジェクトを複数回選択すると、そのカスタムオブジェクトの同期が妨げられる場合があります。
+   >* カスタムオブジェクトツリーは、メインオブジェクトの 1 つ（リード、取引先責任者、アカウントなど、または中間オブジェクトを介した間接接続など）との直接接続により、同じオブジェクトを複数回表示する場合があります。 このような場合は、メインオブジェクトに最も近いオブジェクトを選択し、1 つだけ選択します。 同じオブジェクトを複数回選択すると、そのカスタムオブジェクトの同期が妨げられる場合があります。
 
 ### 次の手順： {#whats-next}
 
-[スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／削除](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+[スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
-これで完了です。これで、このカスタムオブジェクトのデータをスマートキャンペーンとスマートリストで使用できるようになりました。
+これで、このカスタムオブジェクトのデータをスマートキャンペーンとスマートリストで使用できるようになりました。

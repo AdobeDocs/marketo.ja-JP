@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10098759
-description: Marketoと Facebook リード広告のモバイル統合をテストする方法について説明します。 モバイル同期からのリード広告送信を正しく検証します。
+description: MarketoでFacebook リード広告モバイル統合をテストする方法について説明します。 モバイルから送信されたリードと送信を正しく同期します。
 title: Marketo とのモバイル統合に向けた Facebook リード広告のテスト
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 91%
+source-wordcount: '221'
+ht-degree: 61%
 
 ---
 
 # Marketo とのモバイル統合に向けた [!DNL Facebook] リード広告のテスト {#test-facebook-lead-ads-for-mobile-integration-with-marketo}
 
-リード広告を作成した後、テストする必要があります。
+リード広告を作成したら、テストする必要があります。
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ ht-degree: 91%
 
    ![](assets/image2016-5-13-15-3a2-3a38.png)
 
-1. 新しい通知が [!DNL Facebook] アカウントに送信され、認証済みアカウントでモバイルデバイスからアクセスできるようになります。「**[!UICONTROL OK]**」をクリックします。
+1. 新しい通知が [!DNL Facebook] アカウントに送信され、認証済みアカウントでモバイルデバイスからアクセスできるようになります。 「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/image2016-3-11-8-3a35-3a7.png)
 
@@ -43,9 +43,9 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >これは、「詳細コールトゥアクション」を使用する一例です。リード広告ユニットのコールトゥアクションは異なる可能性があります。
+   >この例では、Call to actionの詳細を使用します。 リード広告ユニットのコールトゥアクションは異なる可能性があります。
 
-1. 魔法が起こるのはここです。フォームを送信したら、「**[!UICONTROL Facebook リード広告フォームに入力済み]**」フィルターを使用するプログラムの一部またはデータベース内で [Marketo のスマートリストを作成](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)します。先ほど送信したフォームのリード広告フォーム名を挿入します。
+1. フォームを送信した後、プログラムの一部として、または&#x200B;**[!UICONTROL Filled Out Facebook Lead Ads Form]** フィルターを使用するリードデータベースの一部として、[Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)でスマートリストを作成します。 送信したフォームのリードとフォーム名を挿入します。
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -53,8 +53,6 @@ ht-degree: 91%
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
-凄いでしょう。
-
 >[!NOTE]
 >
->[[!UICONTROL Facebook リード広告の有効化／無効化]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[[!UICONTROL Facebook リード広告]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)の設定

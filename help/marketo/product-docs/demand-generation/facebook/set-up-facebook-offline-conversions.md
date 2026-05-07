@@ -4,16 +4,16 @@ description: MarketoでFacebook オフラインコンバージョンを設定す
 title: Facebook オフラインコンバージョンの設定
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 87%
+source-wordcount: '331'
+ht-degree: 82%
 
 ---
 
 # [!DNL Facebook] オフラインコンバージョンの設定 {#set-up-facebook-offline-conversions}
 
-リード広告を通じて作成されたユーザのオフラインコンバージョンデータを [!DNL Facebook] に送り返すことで、広告チームは広告費用をこれまで以上に最適化できます。 その設定方法を説明します。
+リード広告を通じて作成されたユーザのオフラインコンバージョンデータを [!DNL Facebook] に送り返すことで、広告チームは広告費用をこれまで以上に最適化できます。 次の手順に従って設定します。
 
 >[!PREREQUISITES]
 >
@@ -50,7 +50,7 @@ ht-degree: 87%
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   できましたね。 [!DNL Facebook]個のオフラインコンバージョンの有効化が途中で完了しました。 収益サイクルモデラーに移動して、ステージをマッピングします。
+   [!DNL Facebook]個のオフラインコンバージョンの有効化が途中で完了しました。 「収益サイクル」Modelerに進んで、ステージをマッピングします。
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -87,7 +87,7 @@ ht-degree: 87%
 
    ![](assets/2.png)
 
-1. モデルを承認して完了です。
+1. モデルを承認すれば完了です。
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 
@@ -103,4 +103,4 @@ ht-degree: 87%
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL Facebook]  オフラインコンバージョンについて](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+>[ [!DNL Facebook]  オフラインコンバージョンについて](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)

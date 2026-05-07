@@ -3,10 +3,10 @@ description: 手順3では、MarketoをDynamics 2016またはDynamics 365 オン
 title: ' [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 3／3'
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 90%
+source-wordcount: '409'
+ht-degree: 79%
 
 ---
 
@@ -14,8 +14,8 @@ ht-degree: 90%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 1／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
->* [&#x200B; [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 2／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+>* [ [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 1／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [ [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 2／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ ht-degree: 90%
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、資格情報が正しいことを確認してください。 間違った資格情報を保存した場合は、新しい Marketo サブスクリプションを取得する必要があります。
+   >資格情報が正しいことを確認します。 送信後に後続のスキーマ変更を元に戻すことはできません。 誤った資格情報が保存された場合は、新しいMarketo サブスクリプションが必要になります。
 
 1. **ユーザ名**、**パスワード**、[!DNL Microsoft Dynamics] **URL** および **クライアント ID／秘密鍵**&#x200B;を入力します。 終了したら「**保存**」をクリックします。
 
@@ -73,7 +73,7 @@ ht-degree: 90%
 
 ## カスタムフィルターのフィールドを同期する {#sync-fields-for-a-custom-filter}
 
-カスタムフィルターを作成した場合は、Marketo と同期する新しいフィールドを選択するようにします。
+カスタムフィルターを作成した場合は、に移動し、Marketoと同期する新しいフィールドを選択します。
 
 1. 「管理者」に移動し、**[!DNL Microsoft Dynamics]** を選択します。
 

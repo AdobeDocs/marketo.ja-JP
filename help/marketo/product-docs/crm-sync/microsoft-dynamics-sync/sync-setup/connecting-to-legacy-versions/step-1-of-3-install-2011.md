@@ -4,9 +4,9 @@ description: Dynamics 2011 オンプレミス用のMarketo ソリューション
 title: 手順 1 / 3 - Marketo ソリューション（2011 オンプレミス版）のインストール
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '304'
 ht-degree: 89%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 89%
    >
    >インストールプロセスを完了するには、ブラウザーでポップアップを有効にする必要があります。
 
-1. インポートが完了するまで待ちます。 ストレッチでもしながらお待ちください。
+1. インポートが完了するまで待ちます。
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 

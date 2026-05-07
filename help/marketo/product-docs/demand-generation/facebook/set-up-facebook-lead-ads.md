@@ -4,10 +4,10 @@ description: MarketoでFacebook リード広告を設定する方法について
 title: Facebook リード広告の設定
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '368'
-ht-degree: 77%
+source-wordcount: '365'
+ht-degree: 68%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 77%
 >
 >* **管理者権限が必要**
 >
->* Facebook リード広告フォームを作成する際には、フォーム名に数字以外の文字が含まれていないことを確認してください。 フォーム名はアルファベットまたは英数字にする必要があります。
+>* Facebook リード広告フォームを作成する際に、フォーム名に数字以外の文字が含まれていないことを確認します。 フォーム名はアルファベットまたは英数字にする必要があります。
 
 >[!AVAILABILITY]
 >
->Facebook リード広告をインスタンスに追加するには、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>Facebook リード広告をインスタンスに追加するには、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
 
 1. Marketo Engage で、**管理**&#x200B;エリアに移動します。
 
@@ -53,7 +53,7 @@ ht-degree: 77%
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. これで、権限が与えられたことに気が付くでしょう。 「**[!UICONTROL 次へ]**」をクリックします。
+1. 承認されたことに気づきます。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
@@ -65,7 +65,7 @@ ht-degree: 77%
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. デフォルトの [!DNL Facebook] から Marketo へのフィールドマッピングを受け入れるには、「**[!UICONTROL 作成]**」をクリックします。
+1. Marketo フィールドのマッピングに対するデフォルトの[!DNL Facebook]を受け入れるには、**[!UICONTROL 作成]**&#x200B;をクリックします。
 
    >[!TIP]
    >
@@ -77,7 +77,7 @@ ht-degree: 77%
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   これで完了です。 [!DNL Facebook] リード広告キャンペーンを成功に導くと、リードの Marketo への流れが始まります。
+   [!DNL Facebook] リード広告キャンペーンを成功に導くと、リードの Marketo への流れが始まります。
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 
