@@ -98,9 +98,9 @@ ht-degree: 40%
 
 **頻繁に更新されるフィールド**：一部のフィールドは頻繁に更新される傾向があります。 例えば、通貨の変更の対象となる通貨フィールド。 これらのフィールドを同期する必要があるかどうか、またはフィールドのデザインを変更する必要があるかどうかを確認します。 頻繁に更新され、不要な他のフィールドがある場合は、同期ユーザーから非表示にします。 フィールドを更新する可能性のある統合について、SFDC管理者と話し合います。
 
-**カスタムオブジェクト**：同期が有効になっている[&#x200B; カスタムオブジェクト &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}を定期的に確認し、同期する必要がなくなったオブジェクトを同期および無効化します。
+**カスタムオブジェクト**：同期が有効になっている[&#x200B; カスタムオブジェクト &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}を定期的に確認し、同期する必要がなくなったオブジェクトを同期および無効化します。
 
-**アクティビティ**: [いずれかのアクティビティ &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}で同期が有効になり、同期から削除される可能性があるかどうかを確認します。  これらのアクティビティは、リードごとに1日に1回のみ同期されます。
+**アクティビティ**: [いずれかのアクティビティ &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}で同期が有効になり、同期から削除される可能性があるかどうかを確認します。  これらのアクティビティは、リードごとに1日に1回のみ同期されます。
 
 **同期の確認エラー**：例外処理により、同期が遅くなる場合があります。 ユーザー通知を確認し、エラーを解決すると、同期の正常性が向上する可能性があります。
 
