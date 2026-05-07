@@ -50,7 +50,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->生成された質問と回答は、[応答ライブラリ ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)でも表示できます。
+>生成された質問と回答は、[応答ライブラリ &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)でも表示できます。
 
 1. 目的のタスクを見つけ、その名前の横にあるダウンロードアイコンをクリックします。
 

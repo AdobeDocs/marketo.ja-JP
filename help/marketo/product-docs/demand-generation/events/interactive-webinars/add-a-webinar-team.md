@@ -50,7 +50,7 @@ ht-degree: 76%
 
 >[!NOTE]
 >
-> ![ コピーコピーコホスト URL アイコン ](assets/icon-copy-join-url.png) アイコンはコホスト参加URLをコピーし、![招待メールを送信](assets/icon-send-invitation-email.png) アイコンはコホスティングに招待メールを送信します。
+> ![&#x200B; コピーコピーコホスト URL アイコン &#x200B;](assets/icon-copy-join-url.png) アイコンはコホスト参加URLをコピーし、![招待メールを送信](assets/icon-send-invitation-email.png) アイコンはコホスティングに招待メールを送信します。
 
 ## プレゼンターの追加 {#add-a-presenter}
 
@@ -72,7 +72,7 @@ ht-degree: 76%
 
 >[!NOTE]
 >
-> ![ プレゼンターURLをコピー](assets/icon-copy-join-url.png) アイコンはプレゼンターの参加URLをコピーし、![ プレゼンターに招待メールを送信](assets/icon-send-invitation-email.png) アイコンはプレゼンターに招待メールを送信します。
+> ![&#x200B; プレゼンターURLをコピー](assets/icon-copy-join-url.png) アイコンはプレゼンターの参加URLをコピーし、![&#x200B; プレゼンターに招待メールを送信](assets/icon-send-invitation-email.png) アイコンはプレゼンターに招待メールを送信します。
 
 >[!MORELIKETHIS]
 >

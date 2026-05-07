@@ -22,7 +22,7 @@ Marketo でイベントを作成するための構成要素と推奨されるシ
 
 >[!NOTE]
 >
->Marketo APIについて詳しくは、[Marketo API ドキュメント ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}を参照してください。
+>Marketo APIについて詳しくは、[Marketo API ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}を参照してください。
 
 ## 前提条件 {#prerequisites}
 

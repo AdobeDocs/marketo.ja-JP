@@ -62,7 +62,7 @@ ht-degree: 84%
 >
 >この機能は生成 AI の一部で、Dynamic Chat Prime サブスクリプションから利用できます。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-生成AI [応答ライブラリ ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)を利用したショートカットは、訪問者とチャットする際に効果的にヘルプを表示する方法です。 テキストボックスにスラッシュ（`/`）を入力し、`ask`または`search`を選択します。
+生成AI [応答ライブラリ &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)を利用したショートカットは、訪問者とチャットする際に効果的にヘルプを表示する方法です。 テキストボックスにスラッシュ（`/`）を入力し、`ask`または`search`を選択します。
 
 ![](assets/agent-inbox-7.png)
 

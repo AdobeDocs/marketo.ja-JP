@@ -48,7 +48,7 @@ ht-degree: 71%
 
    >[!NOTE]
    >
-   >[同期ユーザーから&#x200B;**[!UICONTROL フィールドの同期]**&#x200B;をクリックする前に、Marketoで必要ないすべてのフィールド ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)を非表示にします。 「[!UICONTROL フィールドを同期]」をクリックすると、ユーザが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
+   >[同期ユーザーから&#x200B;**[!UICONTROL フィールドの同期]**&#x200B;をクリックする前に、Marketoで必要ないすべてのフィールド &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md)を非表示にします。 「[!UICONTROL フィールドを同期]」をクリックすると、ユーザが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
 
 1. [!DNL Salesforce]設定（[Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md)または[Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)）のパート 2で作成された[!DNL Salesforce]Sync User資格情報を入力し、**[!UICONTROL Sync Fields]**&#x200B;をクリックします（**[!UICONTROL Sandbox]**&#x200B;は、[!DNL Salesforce]SandboxにMarketo Sandboxを同期している場合にのみチェックします）。
 
@@ -64,7 +64,7 @@ ht-degree: 71%
 
    >[!CAUTION]
    >
-   >[マッピングを調べてカスタマイズしたい](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)場合、これが唯一のチャンスです。 「[!UICONTROL  Salesforce Syncを開始]」をクリックすると完了です。
+   >[マッピングを調べてカスタマイズしたい](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md)場合、これが唯一のチャンスです。 「[!UICONTROL &#x200B; Salesforce Syncを開始]」をクリックすると完了です。
 
 ## [!DNL Salesforce] 同期の開始 {#start-salesforce-sync}
 
@@ -106,5 +106,5 @@ Marketoの最も強力な機能の1つを設定しました。
 >
 >* [手順 1 / 3：Marketo フィールドの  [!DNL Salesforce]  への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
 >* [手順 2 / 3：Marketo の  [!DNL Salesforce]  ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
->* [ [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) での Marketo セールスインサイトパッケージのインストール
->* [ [!DNL Salesforce]  Enterprise／Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) での Marketo セールスインサイトの設定
+>* [&#x200B; [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) での Marketo セールスインサイトパッケージのインストール
+>* [&#x200B; [!DNL Salesforce]  Enterprise／Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) での Marketo セールスインサイトの設定

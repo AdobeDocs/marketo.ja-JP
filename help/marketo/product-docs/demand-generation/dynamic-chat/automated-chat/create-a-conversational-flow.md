@@ -14,7 +14,7 @@ ht-degree: 13%
 
 新しい会話フローを作成するには、次の手順に従います。
 
-1. [!UICONTROL 自動チャット ]で、**[!UICONTROL 対話型フロー]**&#x200B;をクリックします。
+1. [!UICONTROL 自動チャット &#x200B;]で、**[!UICONTROL 対話型フロー]**&#x200B;をクリックします。
 
    ![](assets/create-a-conversational-flow-1.png)
 
@@ -30,7 +30,7 @@ ht-degree: 13%
    >
    >これにより、システムテキストの言語のみが変更されます。 コンテンツの翻訳は自分で行う必要があります。
 
-1. ダイアログと同様に、[ ストリームを作成](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}。
+1. ダイアログと同様に、[&#x200B; ストリームを作成](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

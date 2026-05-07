@@ -15,13 +15,13 @@ ht-degree: 89%
 
 >[!PREREQUISITES]
 >
->* [ [!DNL Zoom]  を  [!DNL LaunchPoint]  サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
+>* [&#x200B; [!DNL Zoom]  を  [!DNL LaunchPoint]  サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
 
 まず、[!DNL Zoom] でウェビナーを作成します。 [!DNL Zoom] の作成機能の設定には、Marketo で使用されるものと、[!DNL Zoom] でのみ使用されるものがあります。
 
-Marketo イベントを作成してそれに [!DNL Zoom] ウェビナーを関連付けると、システムは登録情報と出席情報を共有できるようになります。 ウェビナーの作成については、[ [!DNL Zoom]  ウェビナーの基本を学ぶ](https://support.zoom.us/hc/ja/articles/200917029-Getting-Started-With-Webinar)を参照してください。
+Marketo イベントを作成してそれに [!DNL Zoom] ウェビナーを関連付けると、システムは登録情報と出席情報を共有できるようになります。 ウェビナーの作成については、[&#x200B; [!DNL Zoom]  ウェビナーの基本を学ぶ](https://support.zoom.us/hc/ja/articles/200917029-Getting-Started-With-Webinar)を参照してください。
 
 ウェビナーに関する次の情報を入力すると、アダプターを介して Marketo に取り込まれます。 この情報に変更を加えた場合、Marketo で変更を表示するには、イベントアクションで「ウェビナープロバイダーから更新」リンクをクリックする必要があります。
 

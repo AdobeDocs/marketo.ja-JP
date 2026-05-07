@@ -104,9 +104,9 @@ ht-degree: 89%
 
    >[!TIP]
    >
-   >「[!UICONTROL  パスワードが期限切れになりません]」ボックスにチェックを入れます。
+   >「[!UICONTROL &#x200B; パスワードが期限切れになりません]」ボックスにチェックを入れます。
 
-1. 「[!UICONTROL 一般ユーザー権限]」セクションで、「[!UICONTROL  イベントの編集]」と「[!UICONTROL  タスクの編集]」が選択されていることを確認します。
+1. 「[!UICONTROL 一般ユーザー権限]」セクションで、「[!UICONTROL &#x200B; イベントの編集]」と「[!UICONTROL &#x200B; タスクの編集]」が選択されていることを確認します。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 

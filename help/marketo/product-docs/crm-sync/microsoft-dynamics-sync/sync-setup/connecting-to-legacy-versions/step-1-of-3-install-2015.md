@@ -21,7 +21,7 @@ ht-degree: 80%
 
 >[!PREREQUISITES]
 >
->[!DNL Microsoft Dynamics] オンプレミスを使用している場合は、[Active Directory フェデレーション サービス ](https://msdn.microsoft.com/ja-jp/library/bb897402.aspx) 2.0+（ADFS）が設定された[Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) （IFD）が必要です。 注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
+>[!DNL Microsoft Dynamics] オンプレミスを使用している場合は、[Active Directory フェデレーション サービス &#x200B;](https://msdn.microsoft.com/ja-jp/library/bb897402.aspx) 2.0+（ADFS）が設定された[Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) （IFD）が必要です。 注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
 >
 >始める前に、[Marketo リード管理ソリューションをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}します。
 
@@ -95,4 +95,4 @@ ht-degree: 80%
 
    >[!MORELIKETHIS]
    >
-   >[ [!DNL Microsoft Dynamics]  2015 オンプレミス向け Marketo インストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
+   >[&#x200B; [!DNL Microsoft Dynamics]  2015 オンプレミス向け Marketo インストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)

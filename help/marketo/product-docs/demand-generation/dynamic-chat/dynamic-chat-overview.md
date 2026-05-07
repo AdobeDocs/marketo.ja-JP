@@ -88,7 +88,7 @@ Dynamic Chat の言語を変更するには、次の手順に従います。
 
 ## Dynamic Chat データ保持制限 {#dynamic-chat-data-retention-limits}
 
-Dynamic Chatの制限/パラメーターを以下に示します。 完全なリストについては、「Marketo Engage [製品説明」ページ ](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}を参照してください。
+Dynamic Chatの制限/パラメーターを以下に示します。 完全なリストについては、「Marketo Engage [製品説明」ページ &#x200B;](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}を参照してください。
 
 <table>
   <th>データタイプ</th>

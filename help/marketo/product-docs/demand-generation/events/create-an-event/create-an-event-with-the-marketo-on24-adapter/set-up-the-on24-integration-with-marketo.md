@@ -42,7 +42,7 @@ ON24 イベント統合を設定するには、次の手順に従います。
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. 作成した[!UICONTROL ON24 APIのみの役割（すべてのワークスペース） ]を選択します。 「**[!UICONTROL API 専用]**」チェックボックスを選択します。 「**[!UICONTROL 次へ]**」をクリックします。
+1. 作成した[!UICONTROL ON24 APIのみの役割（すべてのワークスペース） &#x200B;]を選択します。 「**[!UICONTROL API 専用]**」チェックボックスを選択します。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
@@ -72,7 +72,7 @@ ON24 イベント統合を設定するには、次の手順に従います。
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 
-1. [!UICONTROL  クライアント ID]をハイライト、右クリック、コピー、保存します（後で必要になります）。 [!UICONTROL クライアント秘密鍵]に対して繰り返します。
+1. [!UICONTROL &#x200B; クライアント ID]をハイライト、右クリック、コピー、保存します（後で必要になります）。 [!UICONTROL クライアント秘密鍵]に対して繰り返します。
 
    ![](assets/set-up-the-on24-integration-with-marketo-13.png)
 

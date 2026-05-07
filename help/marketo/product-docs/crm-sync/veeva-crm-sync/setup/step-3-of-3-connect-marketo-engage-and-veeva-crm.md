@@ -39,7 +39,7 @@ ht-degree: 80%
 
    >[!NOTE]
    >
-   >Marketo サンドボックスを[!DNL Veeva] CRM サンドボックスに同期する場合は、[!UICONTROL  サンドボックス ]をオンにします。
+   >Marketo サンドボックスを[!DNL Veeva] CRM サンドボックスに同期する場合は、[!UICONTROL &#x200B; サンドボックス &#x200B;]をオンにします。
 
 1. 「**[!UICONTROL 資格情報を確認]**」をクリックします。
 

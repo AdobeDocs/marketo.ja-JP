@@ -17,7 +17,7 @@ ht-degree: 76%
 >[!CAUTION]
 >
 >* 初期同期が完了する前にカスタムエンティティの同期を有効にしないでください。 初回同期が完了すると、電子メールで通知されます。
->* [!DNL Dynamics] 同期で多要素認証（MFA）を有効にしている場合、[!DNL Dynamics] が Marketo と正しく同期するには、無効にする必要があります。 詳細については、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>* [!DNL Dynamics] 同期で多要素認証（MFA）を有効にしている場合、[!DNL Dynamics] が Marketo と正しく同期するには、無効にする必要があります。 詳細については、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 >[!NOTE]
 >

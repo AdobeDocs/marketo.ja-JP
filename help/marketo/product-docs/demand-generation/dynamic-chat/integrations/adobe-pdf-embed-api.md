@@ -40,7 +40,7 @@ ht-degree: 46%
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. [!UICONTROL  クライアント ID]を貼り付け、**[!UICONTROL 保存]**&#x200B;をクリックします。
+1. [!UICONTROL &#x200B; クライアント ID]を貼り付け、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
    ![](assets/adobe-pdf-embed-api-6.png)
 

@@ -15,7 +15,7 @@ ht-degree: 77%
 
 >[!CAUTION]
 >
->[!DNL Dynamics] 同期で多要素認証（MFA）を有効にしている場合、[!DNL Dynamics] が Marketo と正しく同期するには、無効にする必要があります。 詳細については、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>[!DNL Dynamics] 同期で多要素認証（MFA）を有効にしている場合、[!DNL Dynamics] が Marketo と正しく同期するには、無効にする必要があります。 詳細については、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 ## Marketo で同期検証を実行する {#run-validate-sync-in-marketo}
 
@@ -45,7 +45,7 @@ ht-degree: 77%
 
    ![](assets/image2015-9-22-15-3a58-3a12.png)
 
-1. ![-](assets/delete.png) が表示された場合は、その手順に問題があります。 問題を特定して修正する方法について詳しくは、[ [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照してください。 次に、上記の画像のような結果になるまで同期検証手順を再実行します。
+1. ![-](assets/delete.png) が表示された場合は、その手順に問題があります。 問題を特定して修正する方法について詳しくは、[&#x200B; [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)を参照してください。 次に、上記の画像のような結果になるまで同期検証手順を再実行します。
 
    >[!CAUTION]
    >
@@ -53,4 +53,4 @@ ht-degree: 77%
 
 >[!MORELIKETHIS]
 >
->[ [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
+>[&#x200B; [!DNL Dynamics]  検証同期に対する問題の修正](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md)
