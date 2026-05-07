@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11385579
-description: 予測コンテンツがHTML ページ訪問者の表示またはクリックを自動検出するように URL パターンを定義する方法を説明します。 コンテンツ設定の URL パターンにパスとカテゴリを追加します。
+description: 予測コンテンツがHTMLページの訪問者に表示またはクリックを自動検出するようにURL パターンを定義する方法について説明します。 コンテンツ設定のURL パターンの下にパスとカテゴリを追加します。
 title: コンテンツパターンの作成
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 93%
+source-wordcount: '406'
+ht-degree: 88%
 
 ---
 
 # コンテンツパターンの作成 {#create-content-patterns}
 
-コンテンツパターンを設定すると、web 訪問者がそのコンテンツパターンに関連する HTML web ページをクリックしたとき、コンテンツが自動検出されます。これは、コンテンツ分析ページにコンテンツとして HTML ページ（ブログ投稿、プレスリリース、ニュース記事など）を追加するために使用されます。コンテンツパターンに基づいて自動検出すると、web 訪問者が閲覧しているとき、またはページへのリンクをクリックするときに、定義された URL パターンに関連する HTML ページを検出し、トラックすることができます。このコンテンツ（URL、ページ名、画像 URL などのメタデータ、説明）は、予測コンテンツを作成する際、すべてのコンテンツページに追加されます。PDF や埋め込み動画など、その他のコンテンツの自動検出については、[コンテンツ検索を有効にする](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)必要があります。
+コンテンツパターンを設定すると、web 訪問者がそのコンテンツパターンに関連する HTML web ページをクリックしたとき、コンテンツが自動検出されます。 HTML ページ（ブログ記事、プレスリリース、ニュース記事）をコンテンツ要素としてコンプリートページに追加するために使用されます。 コンテンツパターンに基づいて自動検出すると、web 訪問者が閲覧しているとき、またはページへのリンクをクリックするときに、定義された URL パターンに関連する HTML ページを検出し、トラックすることができます。 このコンテンツ（URL、ページ名、画像 URL などのメタデータ、説明）は、予測コンテンツを作成する際、すべてのコンテンツページに追加されます。 PDF や埋め込み動画など、その他のコンテンツの自動検出については、[コンテンツ検索を有効にする](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)必要があります。
 
 1. 「**[!UICONTROL コンテンツ設定]**」に移動します。
 
@@ -27,7 +27,7 @@ ht-degree: 93%
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Web ページが存在するドメインの URL 拡張子を追加します。カテゴリを選択します（例：[!UICONTROL ブログ]、[!UICONTROL 記事]、[!UICONTROL データシート]、[!UICONTROL プレスリリース]）。
+1. Web ページが存在するドメインの URL 拡張子を追加します。 カテゴリを選択します（例：[!UICONTROL ブログ]、[!UICONTROL 記事]、[!UICONTROL データシート]、[!UICONTROL プレスリリース]）。
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 

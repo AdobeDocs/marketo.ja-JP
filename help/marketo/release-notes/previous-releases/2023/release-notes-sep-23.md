@@ -1,26 +1,26 @@
 ---
-description: リリースノート - 2023 年 9 月 – Marketo ドキュメント – 製品ドキュメント
+description: リリースノート - 2023年9月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2023年9月
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '922'
-ht-degree: 21%
+source-wordcount: '972'
+ht-degree: 20%
 
 ---
 
 # リリースノート：2023年9月 {#release-notes-sep-23}
 
-以下に、2023 年 9 月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+以下では、2023年9月リリースに含まれるすべての機能について説明します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
->星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。 詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-次の機能は標準リリースサイクルに従い、**2023年9月8日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
+次の機能は標準リリースサイクルに従い、**2023年9月8日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -30,8 +30,8 @@ ht-degree: 21%
    <th style="width:20%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong>Marketo参照ライブラリ </strong>: Marketo Engage プログラム参照ライブラリを使用すると、Adobeが推奨するベストプラクティスを表す「例」プログラムやその他のアセットを読み込むことができます。 アドビの製品管理チームは、ライブラリを完全に更新し、プログラムをすばやく開始したい人に、より価値のあるツールを提供しています。</td>
-   <td>リリース日</td>
+   <td><strong>Marketo参照ライブラリ </strong>: Marketo Engage プログラム参照ライブラリでは、Adobeが推奨するベストプラクティスを表す「サンプル」プログラムやその他のアセットを読み込むことができます。 アドビの製品管理チームは、ライブラリを完全に更新し、プログラムをすばやく開始したい人のために、より価値のあるツールを提供しました。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">プログラムインポートライブラリの概要</a></td>
   </tr>
    <tr>
@@ -40,8 +40,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Design Studio Assetsの「カウントで使用」列 </strong>:Design Studio のリストビューの「カウントで使用」列には、使用されているアセットの数がハイライト表示されます。 これは、スニペット、メールテンプレート、Formsおよびランディングページテンプレートに適用できます。</td>
-   <td>リリース日</td>
+   <td><strong>Design Studio Assetsの使用回数の列</strong>: Design Studioのリストビューの使用回数の列は、使用されているアセットの数を強調表示します。 これは、スニペット、メールテンプレート、Forms、ランディングページテンプレートに適用できます。</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
    <tr>
@@ -50,8 +50,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
    <tr>
-   <td><strong>Design Studio Assetsにおけるタブの機能強化による使用 </strong>:「機能強化による使用」タブでは、アセットのタイプと名前、およびアセットが使用されている場所の詳細が表示されます。 これは、メールの詳細および画像とファイルの詳細に適用されます。</td>
-   <td>リリース日</td>
+   <td><strong>使用されるDesign Studio Assetsのタブの機能強化</strong>:「使用される機能強化」タブでは、アセットのタイプと名前、および使用されている場所をより詳細に表示できます。 これは、メールの詳細と画像とファイルの詳細に適用できます。</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -60,9 +60,9 @@ ht-degree: 21%
    <td> </td>
   </tr>
    <tr>
-   <td><strong> インタラクティブウェビナーのローカライゼーション </strong>:Marketo インタラクティブウェビナーイベントプログラムの詳細を目的の言語で表示できるほか、イベントプログラムを作成したMarketo ユーザーの言語とは異なる言語を使用したい場合は、配信の言語を選択することもできます。</td>
-   <td>リリース日</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">インタラクティブウェビナーに関するよくある質問</a></td>
+   <td><strong> インタラクティブウェビナーのローカライゼーション </strong>：これにより、Marketo インタラクティブウェビナーイベントプログラムの詳細を目的の言語で表示し、イベントプログラムを作成したMarketo ユーザーの言語と異なる場合は、配信の言語を選択できます。</td>
+   <td>リリース</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md" target="_blank">インタラクティブウェビナーに関するFAQ</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -70,8 +70,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
    <tr>
-   <td><strong> インタラクティブウェビナーのユーザーアクセス管理 </strong>: ユーザーアクセス管理を使用すると、インタラクティブウェビナーのユーザーは、許可されたイベントプログラムにのみアクセスでき、不正アクセスを防ぐことができます。</td>
-   <td>リリース日</td>
+   <td><strong> インタラクティブウェビナーのユーザーアクセス管理</strong>: ユーザーアクセス管理では、インタラクティブウェビナーのユーザーは、許可されているイベントプログラムのみにアクセスできます。これにより、不正アクセスを防止できます。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#user-access" target="_blank">ユーザアクセス</a></td>
   </tr>
  </tbody>
@@ -79,7 +79,7 @@ ht-degree: 21%
 
 ## アジャイルリリースの機能 {#agile-release-features}
 
-以下の機能は、アジャイル形式に従い、標準リリース日前後の様々な日付にリリースされます。各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は、アジャイル形式に従い、標準リリース日前後の様々な日付にリリースされます。 各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="border: none">
  <tbody>
@@ -89,9 +89,9 @@ ht-degree: 21%
    <th style="width:20%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong>MarketoとWorkfrontの統合 </strong>: MarketoとWorkfrontをご利用の場合は、Workfront テンプレートを使用して 2 つの製品を統合し、新しい自動処理ワークフローのロックを解除して、キャンペーンの実行を合理化できるようになりました。</td>
-   <td>リリース日</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=ja" target="_blank">ブループリントのレビューと承認</a></td>
+   <td><strong>MarketoとWorkfrontの統合</strong>: MarketoとWorkfrontをお持ちの方は、Workfront Fusion テンプレートを使用して2つの製品を統合し、新しいオートメーションワークフローを使用してキャンペーンの実行を合理化できるようになりました。</td>
+   <td>リリース</td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">ブループリントのレビューと承認</a></td>
   </tr>
  </tbody>
 </table>
@@ -107,8 +107,8 @@ ht-degree: 21%
    <th style="width:20%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong> ストリーム Designerのアクションカード </strong>：マーケターは、ダイアログストリームでアクションカードを使用して、訪問者がダイアログに関与したときに、非表示の値をMarketo Engageの人物レコードに渡すことができます。</td>
-   <td>リリース日</td>
+   <td><strong> ストリーム Designerのアクションカード </strong>：マーケターは、ダイアログストリームのアクションカードを使用して、訪問者がダイアログを操作したときにMarketo Engageの人物レコードに非表示の値を渡すことができます。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards" target="_blank">ストリームデザイナーのカード</a></td>
   </tr>
    <tr>
@@ -117,8 +117,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
    <tr>
-   <td><strong>Marketo Engage Formsとの会話型Forms</strong>:Marketo Engage FormsをDynamic Chat会話フローと統合して会話型にします。 フォームデータまたはスマートリストメンバーシップを使用して、会議の予約、ホワイトペーパーのリンクまたはカスタム目標に対して即座にリードを評価します。</td>
-   <td>リリース日</td>
+   <td><strong>会話型FormsとMarketo Engage Forms</strong>:Marketo Engage FormsをDynamic Chat会話型フローと統合して、会話型にできます。 フォームデータまたはスマートリストメンバーシップを使用して、会議の予約、ホワイトペーパーのリンクまたはカスタム目標に対して即座にリードを評価します。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">会話フォーム</a></td>
   </tr>
    <tr>
@@ -127,8 +127,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
     <tr>
-   <td><strong> 会話SDK</strong>：あらゆるフォーム、ランディングページ、またはほぼすべての web ページを、魅力的な会議予約エクスペリエンスに変えます。</td>
-   <td>リリース日</td>
+   <td><strong>会話SDK</strong>：任意のフォーム、ランディングページ、またはほとんどのweb ページを魅力的なミーティング予約エクスペリエンスに変換します。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md#conversations-sdk" target="_blank">対話 SDK</a></td>
   </tr>
    <tr>
@@ -137,9 +137,9 @@ ht-degree: 21%
    <td> </td>
   </tr>
   <tr>
-   <td><strong> カスタムのミーティング予約設定 </strong>：エージェントは、ミーティングの空き時間、ミーティングの長さ、ミーティング間の「バッファー時間」などのカスタムのミーティング予約設定を設定できます。</td>
-   <td>リリース日</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">カスタム会議予約設定</a></td>
+   <td><strong> ミーティング予約のカスタム設定</strong>：担当者は、ミーティング間の空き状況、ミーティングの長さ、「バッファー時間」などのミーティング予約のカスタム設定を行うことができます。</td>
+   <td>リリース</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#meeting-booking-availability" target="_blank">カスタム会議の予約設定</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -147,8 +147,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
    <tr>
-   <td><strong> フォールバック設定 </strong>：管理者は、カスタムフォールバック設定を設定して、エージェントがチャットに使用できない場合に訪問者に何を表示するかを定義できます。</td>
-   <td>リリース日</td>
+   <td><strong> フォールバック設定</strong>：管理者は、エージェントがチャットにアクセスできない場合に訪問者に表示されるフォールバック設定をカスタマイズできます。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#fallback-rules" target="_blank">フォールバックルール</a></td>
   </tr>
    <tr>
@@ -157,8 +157,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
     <tr>
-   <td><strong> グローバルパフォーマンスダッシュボード </strong>：エンゲージメントとパフォーマンスの指標（合計および一定期間の合計）、最もパフォーマンスの高いページ、最もパフォーマンスの高いダイアログなど、ダイアログのパフォーマンスを確認します。</td>
-   <td>リリース日</td>
+   <td><strong> グローバルパフォーマンスダッシュボード </strong>: エンゲージメントとパフォーマンス指標（合計および一定期間）、パフォーマンスが最も高いページ、パフォーマンスが最も高いダイアログなど、ダイアログのパフォーマンスを確認します。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#global-performance-dashboard" target="_blank">グローバルパフォーマンスダッシュボード</a></td>
   </tr>
    <tr>
@@ -167,8 +167,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
    <tr>
-   <td><strong> ライブチャット </strong>:Web 訪問者は、リアルタイムで販売代理店とチャットして、質問に回答を得ることができます。</td>
-   <td>リリース日</td>
+   <td><strong> ライブチャット </strong>: Web訪問者は、営業担当者とリアルタイムでチャットして、質問に回答できます。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md" target="_blank">ライブチャットの概要</a></td>
   </tr>
    <tr>
@@ -177,8 +177,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
    <tr>
-   <td><strong> ライブチャットパフォーマンスダッシュボード </strong>：ライブの販売代理店との会話の回数と、最もパフォーマンスの高いチームを確認できます。</td>
-   <td>リリース日</td>
+   <td><strong> ライブチャットのパフォーマンスダッシュボード </strong>：営業担当者がライブで話した回数と、パフォーマンスが最も高いチームを表示します。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#live-chat-performance-dashboard" target="_blank">Live Chat パフォーマンスダッシュボード</a></td>
   </tr>
    <tr>
@@ -187,8 +187,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
     <tr>
-   <td><strong>Marketo Engage スマートリストのターゲティング </strong>: マーケターは、ダイアログオーディエンス条件で、Marketo Engage スマートリストのメンバーをターゲットに設定できます。</td>
-   <td>リリース日</td>
+   <td><strong>Marketo Engage Smart List Targeting</strong>: マーケターは、ダイアログのオーディエンス条件でMarketo Engage Smart Listsのメンバーをターゲットにできます。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#membership" target="_blank">メンバーシップ</a></td>
   </tr>
    <tr>
@@ -197,8 +197,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
   <tr>
-   <td><strong> ミーティングのパフォーマンスダッシュボード </strong>：予約されているミーティングの数と、誰と一緒に予約されているかを確認します。</td>
-   <td>リリース日</td>
+   <td><strong>会議パフォーマンスダッシュボード </strong>：予約されている会議の数と、予約されている参加者を確認します。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#meeting-performance-dashboard" target="_blank">会議パフォーマンスダッシュボード</a></td>
   </tr>
    <tr>
@@ -207,8 +207,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
    <tr>
-   <td><strong> 新しいDynamic Chat アクティビティ </strong>：会話フロー、ライブチャットなどの新機能をサポートする新しいアクティビティです。</td>
-   <td>リリース日</td>
+   <td><strong>新しいDynamic Chat アクティビティ </strong>：対話型フロー、ライブチャット、その他の新機能をサポートする新しいアクティビティ。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md" target="_blank">Dynamic Chat のアクティビティ</a></td>
   </tr>
    <tr>
@@ -217,8 +217,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
     <tr>
-   <td><strong> リアルタイムのライブチャット通知 </strong>：訪問者がライブチャットをリクエストすると、エージェントはアプリ内およびブラウザーのリアルタイム通知を受け取ります。</td>
-   <td>リリース日</td>
+   <td><strong> リアルタイムのライブチャット通知</strong>：訪問者がライブチャットをリクエストすると、エージェントはアプリ内およびブラウザー内でリアルタイムの通知を受け取ります。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications" target="_blank">ライブチャット通知</a></td>
   </tr>
   <tr>
@@ -227,8 +227,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
     <tr>
-   <td><strong> チーム </strong>：ライブチャットまたはミーティングの予約用に訪問者をルーティングできるエージェントのチームを作成します。</td>
-   <td>リリース日</td>
+   <td><strong> チーム </strong>：ライブチャットまたはミーティングの予約のために訪問者をルーティングできるエージェントのチームを作成します。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#teams" target="_blank">チーム</a></td>
   </tr>
   <tr>
@@ -237,8 +237,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
     <tr>
-   <td><strong> 新しいアクティビティ用のトリガートークン </strong>:Dynamic Chatの新しいアクティビティをサポートするために、新しいトリガートークンを使用できます。</td>
-   <td>リリース日</td>
+   <td><strong>新しいアクティビティのトリガートークン </strong>：新しいトリガートークンは、Dynamic Chatの新しいアクティビティをサポートするために利用できます。</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md#dynamic-chat-trigger-tokens" target="_blank">Dynamic Chat トリガートークン</a></td>
   </tr>
   <tr>
@@ -247,8 +247,8 @@ ht-degree: 21%
    <td> </td>
   </tr>
     <tr>
-   <td><strong> 会話型フローアセットページ </strong>:Design Studio アセットページにDynamic Chatの会話型フローがリストされるようになりました。 Marketo Engage Assets に統合できるフローを確認し、そのエディターに直接ディープリンクします。</td>
-   <td>リリース日</td>
+   <td><strong>対話型フローアセットページ </strong>: Design Studio アセットページに、Dynamic Chat対話型フローが一覧表示されるようになりました。 Marketo Engageのアセットに統合できるフローを確認し、そのフローのエディターに直接リンクできます。</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -257,7 +257,7 @@ ht-degree: 21%
    <td> </td>
   </tr>
     <tr>
-   <td><strong>Sales Insight Actions Notifications</strong>:Sales Insight Actions を持つエージェントは、Sales Insightのアクションパネルでリアルタイムのライブチャットリクエスト通知を受け取ります。</td>
+   <td><strong>Sales Insight Actions Notifications</strong>: Sales Insight Actionsを持つエージェントは、Sales Insight Actions パネルでリアルタイムのライブチャットリクエスト通知を受け取ります。</td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
   </tr>
@@ -267,8 +267,8 @@ ht-degree: 21%
 
 ## お知らせ {#announcements}
 
-* **Marketo Events とMarketo Moments の廃止**: Adobeは、2023 年 10 月 2 日（PT）以降、すべてのアプリストアからMarketo Events とMarketo Moments を削除します。 既存のユーザー – Marketo Engage インスタンスをAdobe ID に移行するまで、これらのアプリを引き続き使用できます。 これらのアプリはAdobe IDでのログインをサポートしていません。
+* **Marketo Events and Marketo Momentsの非推奨化**:2023年10月2日（PT）以降、AdobeはすべてのアプリストアからMarketo Events and Marketo Momentsを削除します。 既存のユーザー – Marketo Engage インスタンスをAdobe IDに移行するまで、これらのアプリケーションを引き続き使用できます。 これらのアプリは、Adobe IDでのログインをサポートしていません。
 
-* **Design Studio Assetsの切り替えスイッチの廃止**:Design Studio のクラシックインターフェイスと最新の UX エクスペリエンスを切り替えられる切り替えスイッチは廃止されます。古いバージョンの Design Studio エクスペリエンスと共に、最新の UX エクスペリエンスに完全に移行できます。 詳しくは、[こちらを参照](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}してください。
+* **Toggle Switch Deprecation for Design Studio Assets**: Design Studioのクラシック インターフェイスとモダン UX エクスペリエンスを切り替えることができるトグルスイッチは、旧バージョンのDesign Studio エクスペリエンスと共に廃止され、モダン UX エクスペリエンスに完全に移行できるようになります。 詳しくは、[こちらを参照](https://nation.marketo.com/t5/the-next-generation-experience/adobe-marketo-engage-switch-to-modern-experience-for-all-design/ba-p/339411){target="_blank"}してください。
 
-* **_製品リリースウェビナー_**:[2023 年 7 月および 9 月のMarketo Engage リリースウェビナー &#x200B;](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**: [2023年7月および9月のMarketo Engage リリースウェビナー](https://engage.marketo.com/2023_July_September_Release_Webinar_OnDemandPage.html){target="_blank"}

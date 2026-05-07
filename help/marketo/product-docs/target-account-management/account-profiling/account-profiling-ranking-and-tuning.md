@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15695924
-description: アカウント・プロファイリングで ICP 別に企業をランク付けし、指定アカウントにインディケータ・データを追加する方法を理解します。 モデルを調整し、アカウントを昇格させます。
+description: アカウントプロファイリングがICPによって企業をランク付けし、インジケーターデータを名前付きアカウントに追加する方法を理解します。 モデルを調整し、アカウントを宣伝する。
 title: アカウントのプロファイリングのランキングと調整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 94%
+source-wordcount: '426'
+ht-degree: 89%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 94%
 
 >[!IMPORTANT]
 >
->2025 年をもって、新規ユーザはアカウントプロファイリングを使用できなくなります。既存のユーザに対しては引き続き機能します。
+>2025 年をもって、新規ユーザはアカウントプロファイリングを使用できなくなります。 既存のユーザに対しては引き続き機能します。
 
 ## モデル結果 {#model-results}
 
-成績別に分類された既知のアカウントがすべて表示されます。A は最も高いグレード、D は最も低いグレードです。
+成績別に分類された既知のアカウントがすべて表示されます。 A は最も高いグレード、D は最も低いグレードです。
 
 ![](assets/results.png)
 
-オプションではありますが、「自動的に昇格」チェックボックスはオンにすることをお勧めします。これにより、時間を大幅に節約できます。ただし、各アカウントを調べて[手動で追加する](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)場合は、このチェックボックスをオフのままにしておきます。
+オプションではありますが、「自動的に昇格」チェックボックスはオンにすることをお勧めします。これにより、時間を大幅に節約できます。 ただし、各アカウントを調べて[手動で追加する](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)場合は、このチェックボックスをオフのままにしておきます。
 
 <table>
  <tbody>
@@ -33,7 +33,7 @@ ht-degree: 94%
    <td><strong><span class="uicontrol">ランク</span></strong></td>
    <td>
     <div>
-      理想的な顧客プロファイルに基づくアカウントランク。A は最適で、D は最も適していません。
+      理想的な顧客プロファイルに基づくアカウントランク。 A は最適で、D は最も適していません。
     </div></td>
   </tr>
   <tr>
@@ -178,6 +178,6 @@ ht-degree: 94%
 
 ![](assets/refresh-button.png)
 
-（更新後に）モデルの調整が完了したら、「モデル結果」タブに戻り、「**[!UICONTROL 保存してランクを適用]**」をクリックします。
+モデルの調整が完了したら（更新した後）、「モデル結果」タブに戻り、**[!UICONTROL 保存してランクを適用]**&#x200B;をクリックします。
 
 ![](assets/ranks.png)

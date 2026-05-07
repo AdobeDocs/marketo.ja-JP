@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4720856
-description: Marketoのフリーフォームランディングページにモバイルビューを追加する方法を説明します。 モバイルデバイスのページレイアウトを最適化します。
+description: Marketoでフリーフォームのランディングページにモバイルビューを追加する方法について説明します。 モバイルデバイス用にページレイアウトを最適化する：
 title: フリーフォームランディングページのモバイル表示の追加
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 85%
+source-wordcount: '150'
+ht-degree: 75%
 
 ---
 
 # フリーフォームランディングページのモバイル表示の追加 {#add-a-mobile-view-for-your-free-form-landing-page}
 
-スマートフォンでのフリーフォームランディングページの見た目を良くするのは簡単です。
+フリーフォームのランディングページをスマートフォンで見た目のまま表示させるのは簡単です。
 
 >[!NOTE]
 >
->モバイルビューは、幅が 480 px 以下の画面で機能します。つまり、スマートフォンです。デバイスの解像度に関する詳細情報は、[こちら](https://www.mydevice.io/)でご覧ください。
+>モバイルビューは、幅が 480 px 以下の画面で機能します。 つまり、スマートフォンです。 デバイスの解像度に関する詳細情報は、[こちら](https://www.mydevice.io/)でご覧ください。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -41,9 +41,9 @@ ht-degree: 85%
 
    >[!CAUTION]
    >
-   >フリーフォームテンプレートのアップグレードが必要な場合があります。そのメッセージが表示された場合は、[既存のフリーフォームランディングページテンプレートをモバイルに対応させる](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)方法について簡単に参照してください。
+   >フリーフォームテンプレートのアップグレードが必要な場合があります。 そのメッセージが表示された場合は、[既存のフリーフォームランディングページテンプレートをモバイルに対応させる](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)方法について簡単に参照してください。
 
-1. 完了です。これで、ランディングページのモバイルバージョンがアクティベートされました。「**[!UICONTROL 閉じる]**」をクリックします。
+1. 完了です。 これで、ランディングページのモバイルバージョンがアクティベートされました。 「**[!UICONTROL 閉じる]**」をクリックします。
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2359398
-description: Marketoでフォームを作成する方法を説明します。 フィールドを追加し、フォームを設定して、ランディングページや web サイトで使用してリードをキャプチャします。
+description: Marketoでフォームを作成する方法を説明します。 フィールドを追加し、フォームを設定し、ランディングページやweb サイトで活用して、リードを獲得しましょう。
 title: フォームを作成する
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 28%
+source-wordcount: '138'
+ht-degree: 29%
 
 ---
 
 # フォームを作成する {#create-a-form}
 
-ランディングページ上のフォームを作成および使用して、新しい名前を生成したり、目的のデータを取り込んだりします。
+ランディングページでフォームを作成して使用し、新しい名前を生成したり、必要なデータを取得したりします。
 
 >[!NOTE]
 >
->Marketo Engageが [&#x200B; フォームの安全性を確保 &#x200B;](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038) するために行っていることを説明します。
+>Marketo Engageの機能について説明します。[ フォームを安全に保つ](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038)。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/create-a-form-1.png)
 
-1. 目的のプログラムを見つけます。 そのフォルダーを右クリックして、「**[!UICONTROL 新しいローカルアセット]**」を選択します。
+1. 目的のプログラムを見つけます。 このアセットを右クリックし、**[!UICONTROL 新しいローカルアセット]**&#x200B;を選択します。
 
    ![](assets/create-a-form-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 28%
 
 >[!TIP]
 >
->ほとんどのユーザーは、ランディングページごとに新しいフォームを作成しますが、複数のランディングページで使用する 1 つのフォームを作成することもできます。 各自の状況に合わせて適宜にご利用ください。
+>ほとんどのユーザーは、各ランディングページに対して新しいフォームを作成しますが、複数のランディングページで使用するフォームを1つ作成することもできます。 完全にあなた次第です！
 
 >[!MORELIKETHIS]
 >

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10098884
-description: Web キャンペーンのフィルター filter-web-campaigns を使用してMarketo Engageで web キャンペーンをフィルタリングする方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageでfilter-web-campaigns filter-web-campaignsを使用してweb キャンペーンをフィルタリングする方法について説明します。 このガイドを使用して、次のステップを完了してください。
 title: Web キャンペーンのフィルター
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 80%
+source-wordcount: '116'
+ht-degree: 58%
 
 ---
 
 # Web キャンペーンのフィルター {#filter-web-campaigns}
 
-数百の [!DNL Web Personalization] キャンペーンを作成した後は、フィルターを使用して、関心のあるキャンペーンのみを表示できます。
+何百もの[!DNL Web Personalization] キャンペーンを作成した後は、フィルターを使用して、興味のあるキャンペーンのみを表示できるようにすると非常に役立ちます。
 
-1. 「**[!UICONTROL Web キャンペーン]**」に移動します。
+1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand-8.jpg)
 
@@ -23,7 +23,7 @@ ht-degree: 80%
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. フィルタリングするキャンペーンのステータスやタイプのチェックボックス（例：「**[!UICONTROL 一時停止]**」または「**[!UICONTROL ダイアログ]**」）をオンにします。「**[!UICONTROL 適用]**」をクリックします。
+1. フィルタリングするキャンペーンのステータスやタイプのチェックボックス（例：「**[!UICONTROL 一時停止]**」または「**[!UICONTROL ダイアログ]**」）をオンにします。 「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/web-campaigns-filters-hands.jpg)
 

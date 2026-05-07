@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11380783
-description: TAM のメインダッシュボードと、ターゲットアカウントの取り組みの概要について説明します。 アカウントリストでフィルタリングし、リストまたは名前付きアカウントインサイトにドリルインします。
+description: TAMのメインダッシュボードと、ターゲットアカウントの取り組みの概要について説明します。 アカウントリストでフィルタリングし、リストまたは名前付きアカウントのインサイトをドリルダウンできます。
 title: TAM メインダッシュボード
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 81%
+source-wordcount: '137'
+ht-degree: 65%
 
 ---
 
 # TAM メインダッシュボード {#tam-main-dashboard}
 
-メインダッシュボードには、[!UICONTROL ターゲットアカウント管理]作業の概要が表示されます。成功を示しているターゲット顧客や顧客リスト、さらに注意が必要な顧客を確認できます。
+メインダッシュボードには、[!UICONTROL ターゲットアカウント管理]作業の概要が表示されます。 成功を示しているターゲットアカウントやアカウントリストと、より注意を払う必要があるターゲットアカウントやアカウントリストを確認することができます。
 
 ![](assets/one.png)
 
@@ -21,7 +21,7 @@ ht-degree: 81%
 
 ![](assets/two.png)
 
-選択を行います。この例では、「**[!UICONTROL ハイテク]**」アカウントリストを選択しています。
+選択を行います。 この例では、「**[!UICONTROL ハイテク]**」アカウントリストを選択しています。
 
 ![](assets/three.png)
 

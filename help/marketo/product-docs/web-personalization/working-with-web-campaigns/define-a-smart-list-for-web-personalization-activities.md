@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10097867
-description: のスマートリストの定義を使用して、Marketo Engageの web パーソナライゼーションアクティビティのスマートリストを定義する方法について説明します。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageで、のスマートリストを定義して、web パーソナライゼーションアクティビティのスマートリストを定義する方法を説明します。 このガイドを使用して、次のステップを完了してください。
 title: Web パーソナライゼーションアクティビティのスマートリストを定義する
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 90%
+source-wordcount: '307'
+ht-degree: 84%
 
 ---
 
 # [!DNL Web Personalization] アクティビティのスマートリストを定義 {#define-a-smart-list-for-web-personalization-activities}
 
-スマートキャンペーンでスマートリストを定義する際に、フィルターおよびトリガーで [!DNL Web Personalization] アクティビティを使用できます。ここでは、[!DNL Web Personalization] のコールトゥアクション（キャンペーン）をクリックしたすべてのユーザを取り込みます。
+スマートキャンペーンでスマートリストを定義する場合、フィルターおよびトリガーで[!DNL Web Personalization] アクティビティを使用できます。 ここでは、[!DNL Web Personalization] のコールトゥアクション（キャンペーン）をクリックしたすべてのユーザを取り込みます。
 
-トリガーを使用して、メールやアラートを送信したり、[!DNL Web Personalization] のコールトゥアクションにエンゲージした訪問者に基づいて値やスコアを変更したりします。また、[!DNL Web Personalization] のコールトゥアクションをクリックしたリードをフィルタリングして表示することもできます。
+トリガーを使用して、メールやアラートを送信したり、[!DNL Web Personalization] のコールトゥアクションにエンゲージした訪問者に基づいて値やスコアを変更したりします。 また、[!DNL Web Personalization] のコールトゥアクションをクリックしたリードをフィルタリングして表示することもできます。
 
 1. スマートキャンペーンで、「**[!UICONTROL スマートリスト]**」タブをクリックします。
 
@@ -23,7 +23,7 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >スマートリストはとても便利です。詳しくは、[スマートリストの詳細](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
+   >スマートリストはとても便利です。 詳しくは、[スマートリストの詳細](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
 
 1. トリガーを検索し、キャンバスにドラッグ&amp;ドロップします。
 
@@ -31,7 +31,7 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >トリガーを使用したスマートキャンペーンは、トリガーモードで実行されます。トリガーされたイベントと追加されたフィルターに基づいて、1 人につき一度ずつ実行されます。
+   >トリガーを使用したスマートキャンペーンは、トリガーモードで実行されます。 トリガーされたイベントと追加されたフィルターに基づいて、1 人につき一度ずつ実行されます。
 
 1. ドロップダウンをクリックし、演算子を選択します。
 
@@ -39,7 +39,7 @@ ht-degree: 90%
 
    >[!CAUTION]
    >
-   >赤い波線は、エラーを示します。修正されない場合、キャンペーンは無効になり、実行されません。
+   >赤い波線は、エラーを示します。 修正されない場合、キャンペーンは無効になり、実行されません。
 
 1. トリガーを定義します。
 
@@ -51,7 +51,7 @@ ht-degree: 90%
 
    >[!TIP]
    >
-   >トリガーとフィルターの両方を含むスマートキャンペーンでは、トリガーが一番上に表示されます。トリガーされると、フィルター条件を満たす人のみがフローを通過します。
+   >トリガーとフィルターの両方を含むスマートキャンペーンでは、トリガーが一番上に表示されます。 トリガーされると、フィルター条件を満たす人のみがフローを通過します。
 
    >[!NOTE]
    >

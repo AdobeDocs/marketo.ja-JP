@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352509
-description: Sales Connect の動的フィールドについて説明します。 この用語集を使用して、テンプレートおよびパーソナライゼーションで使用可能な結合フィールドを検索します。
+description: セールスコネクトの動的フィールドについて説明します。 この用語集を使用して、テンプレートとパーソナライゼーションで使用可能な結合フィールドを検索します。
 title: 動的フィールド用語集
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 92%
+source-wordcount: '256'
+ht-degree: 89%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 92%
 | `{{company_friendly}}` | アドビ |
 | `{{first_name}}` | Keith |
 | `{{team_unsubscribe}}` | 今後当社からのメールの受信を希望しない場合は、こちらをクリックしてください |
-| `{{friendly_unsubscribe}}` | メールにうんざりしていませんか？こちらからお知らせください |
+| `{{friendly_unsubscribe}}` | メールにうんざりしていませんか？ こちらからお知らせください |
 | `{{my_name}}` | Keith Flynn |
 | `{{my_signature}}` | Keith Flynn、シニアテクニカルライター - アドビ |
 | `{{personal_email}}` | <keith@pickyouremail.com> |
@@ -34,8 +34,8 @@ ht-degree: 92%
 
 * 取引先責任者の情報が正しく入力されていない場合や人物ページに表示されていない場合は、情報がテンプレートに正しく取り込まれません。
 * `{{company}}` と `{{company_friendly}}` の違いは、`{{company_friendly}}` では顧客の取引先責任者の会社名から Inc.、LLC.などの正式な名称が削除されることです。
-* `{{company_friendly}}` を使用する場合、連絡先の詳細では必ず、Inc.または Co.をコンマで区切ってください。これは、Sales Connect が、値を取り込む際に削除する必要があるものを認識する方法です。
-* システムにより、送信される各メールにユーザの署名が自動的に追加されます。ユーザが `{{my_signature}}` 動的フィールドを含むテンプレートを使用している場合、`{{my_signature}}` 動的フィールドが配置されている場所に署名が入力されます。重複を避けるために、署名はその場所にのみ追加されます。グローバル追加登録解除設定が有効になっている場合、システムにより `{{team_unsubscribe}}` も同様に処理されます。
+* `{{company_friendly}}` を使用する場合、取引先責任者の詳細では必ず、Inc. または Co. をコンマで区切ってください。 これは、Sales Connect が、値を取り込む際に削除する必要があるものを認識する方法です。
+* システムにより、送信される各メールにユーザの署名が自動的に追加されます。 ユーザが `{{my_signature}}` 動的フィールドを含むテンプレートを使用している場合、`{{my_signature}}` 動的フィールドが配置されている場所に署名が入力されます。 重複を避けるためにのみ追加されます。 グローバル追加登録解除設定が有効になっている場合、`{{team_unsubscribe}}` も同様に処理されます。
 
 >[!TIP]
 >

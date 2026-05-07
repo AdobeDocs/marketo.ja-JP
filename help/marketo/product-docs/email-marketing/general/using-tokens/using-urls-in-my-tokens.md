@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11382535
-description: マイトークンで URL を使用する方法を説明します。 メール内のリンクとランディングページのトークンに URL を格納し、参照します。
+description: マイトークンでURLを使用する方法を説明します。 メールのリンクやランディングページのトークンにURLを保存して参照できます。
 title: マイトークンでの URL の使用
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 92%
+source-wordcount: '267'
+ht-degree: 90%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 92%
 
    ![](assets/four-3.png)
 
-1. 「**[!UICONTROL ドラフトを編集]**」をクリックします。
+1. **[!UICONTROL ドラフトの編集]**&#x200B;をクリックします。
 
    ![](assets/five-3.png)
 

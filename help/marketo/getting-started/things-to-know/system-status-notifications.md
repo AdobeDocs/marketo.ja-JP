@@ -1,26 +1,26 @@
 ---
-description: システムステータス通知の登録 – Marketo Engage ドキュメント – 製品ドキュメント
-title: システムステータス通知のサブスクライブ
+description: システムステータス通知の購読 – Marketo Engage ドキュメント – 製品ドキュメント
+title: システムステータス通知の購読
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '360'
 ht-degree: 2%
 
 ---
 
-# システムステータス通知のサブスクライブ {#subscribe-to-system-status-notifications}
+# システムステータス通知の購読 {#subscribe-to-system-status-notifications}
 
-様々なステータス通知を登録して、現在のイシューに関する最新の情報を入手する方法を説明します。
+さまざまなステータス通知を購読して、現在の問題に関する最新情報を入手する方法について説明します。
 
 >[!PREREQUISITES]
 >
->サブスクリプションを作成する前に、まずサブスクリプションが配置されているデータセンターとポッド/サーバーを特定する必要があります。
+>サブスクリプションを作成する前に、サブスクリプションがどのデータセンターやポッド/サーバーにあるのかを特定する必要があります。
 
 ## データセンターの特定 {#identify}
 
-1. Marketo Engageの「**管理者**」セクションで、「**マイアカウント**」をクリックします。
+1. Marketo Engageの&#x200B;**管理者** セクションで、**マイアカウント**&#x200B;をクリックします。
 
    ![](assets/subscribe-to-system-status-notifications-1.png)
 
@@ -28,70 +28,70 @@ ht-degree: 2%
 
    ![](assets/subscribe-to-system-status-notifications-2.png)
 
-「_データセンター_」フィールドでは、文字がデータセンター、数字がポッドです。 上記の例では、ユーザーはポッド 49 上の Ashburn データセンターにあります。
+_データセンター_ フィールドでは、文字はデータセンターで、数字はポッドです。 上記の例では、ユーザーはポッド 49のAshburn データセンターにいます。
 
-ステップ 7 の [&#x200B; 以下のセクション &#x200B;](#create-a-subscription) では、地域の場所 **Marketo Ashburn** とポッド **ab49** を選択します。
+次のセクション ](#create-a-subscription)のステップ 7では、地域の場所&#x200B;**Marketo アッシュバーン**&#x200B;とポッド **ab49**&#x200B;を選択します。[
 
 **データセンターの略語**
 
-* ab: Ashburn
-* sj：サンノゼ
-* sn：シドニー
-* lon: ロンドン
-* nld：アムステルダム
+* ab: アシュバーン
+* sj: サンノゼ
+* sn: シドニー
+* 長い：ロンドン
+* nld: アムステルダム
 
 >[!TIP]
 >
->この手法は、サブスクリプションが含まれる Real Time Personalization（RTP）ポッド/サーバーを特定するためにも使用できます。
+>この方法は、サブスクリプションがどのReal Time Personalization（RTP）ポッド/サーバーにあるかを特定するためにも使用できます。
 
-## 購読を作成 {#create-a-subscription}
+## サブスクリプションの作成 {#create-a-subscription}
 
-[&#x200B; データセンターとポッド/サーバーを識別 &#x200B;](#identify) した後、次の手順に従ってサブスクリプションを作成します。
+[ データセンターとポッド/サーバー](#identify)を特定したら、次の手順に従ってサブスクリプションを作成します。
 
-1. [status.adobe.com](https://status.adobe.com/ja) で、「**購読を管理**」をクリックします。
+1. [status.adobe.com](https://status.adobe.com/ja)で、**サブスクリプションの管理**&#x200B;をクリックします。
 
    ![](assets/subscribe-to-system-status-notifications-3.png)
 
-1. Adobeの資格情報を使用してログインします（まだログインしていない場合）。資格情報がない場合は、「**アカウントを作成**」をクリックします。
+1. Adobeの資格情報を使用して（まだログインしていない場合）ログインするか、アカウントをお持ちでない場合は「**アカウントを作成**」をクリックします。
 
    ![](assets/subscribe-to-system-status-notifications-4.png)
 
-1. 「_製品説明_」タブを開いたまま、「**サブスクリプションを作成**」をクリックします。
+1. 「_製品説明_」タブに移動し、**サブスクリプションの作成**&#x200B;をクリックします。
 
    ![](assets/subscribe-to-system-status-notifications-5.png)
 
-1. ![2&rbrace;Experience Cloud](assets/icon-plus-sign.png) の横にある「プラス記号アイコン _アイコンをクリックして、メニューを展開します。__Adobe Marketo Engage_ に対しても、同じ操作を行います。
+1. _Experience Cloud_&#x200B;の横にある![ プラス記号アイコン ](assets/icon-plus-sign.png) アイコンをクリックして、メニューを展開します。 _Adobe Marketo Engage_&#x200B;に対して同じ操作を行います。
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
-1. 通知を受け取る製品/サービスを選択し、「**続行**」をクリックします。
+1. 通知を受け取る製品の提供/サービスを選択し、**続行**&#x200B;をクリックします。
 
    >[!TIP]
    >
-   >「_Adobe Marketo Engage_」をオンにしてすべてを選択します。
+   >_Adobe Marketo Engage_&#x200B;にチェックを入れて、すべてを選択します。
 
    ![](assets/subscribe-to-system-status-notifications-7.png){width="800"}
 
-1. 目的のイベントタイプを選択します。
+1. 必要なイベントタイプを選択します。
 
    ![](assets/subscribe-to-system-status-notifications-8.png)
 
    <table style="width:500px;">
    <tr>
-   <td style="width:35%;"><b>サービスの重大な問題</b></td>
-   <td>実稼動システムで複数のユーザーが使用できない、またはパフォーマンスが大幅に低下する。</td>
+   <td style="width:35%;"><b>サービスに関する大きな問題</b></td>
+   <td>本番システム上の複数のユーザーに対して、サービスの可用性が低下したり、パフォーマンスが大幅に低下したりします。</td>
    </tr>
    <tr>
-   <td style="width:35%;"><b>軽微なサービス問題</b></td>
-   <td>実稼動システムの複数のユーザーに対して、部分的なサービスが使用できない、またはパフォーマンスが若干低下する。</td>
+   <td style="width:35%;"><b>マイナーサービスの問題</b></td>
+   <td>本番システム上の複数のユーザーに対して、部分的なサービスの可用性の低下または中程度のパフォーマンスの低下。</td>
    </tr>
    <tr>
-   <td style="width:35%;"><b>サービス保守</b></td>
-   <td>製品の可用性やパフォーマンスに影響を与える可能性のある製品メンテナンスを実行するためにスケジュールされたウィンドウ。</td>
+   <td style="width:35%;"><b>サービスメンテナンス</b></td>
+   <td>製品の可用性やパフォーマンスに影響を与える可能性のある製品メンテナンスを実行するためのスケジュール済みウィンドウ。</td>
    </tr>
    <tr>
    <td style="width:35%;"><b>お知らせ</b></td>
-   <td>影響の大きいグローバル、製品ファミリまたは製品関連のメッセージ。</td>
+   <td>グローバル、プロダクトファミリー、または製品関連のメッセージで、幅広い影響を与える。</td>
    </tr>
    </table>
 
@@ -101,12 +101,12 @@ ht-degree: 2%
 
    >[!NOTE]
    >
-   >この情報がどこにあるかを見落とした場合は、[&#x200B; データセンターの特定 &#x200B;](#identify) を参照してください。
+   >これを見つける場所が見つからない場合は、[ データセンターの特定](#identify)を参照してください。
 
-1. サブスクリプションの環境設定 **メール** または **Slack** を選択し、「**続行**」をクリックします。
+1. サブスクリプションの環境設定（**電子メール**&#x200B;または&#x200B;**Slack**）を選択し、**続行**&#x200B;をクリックします。
 
    ![](assets/subscribe-to-system-status-notifications-10.png)
 
-1. 選択内容を確認し、「**環境設定を確認**」をクリックします。
+1. 選択内容を確認し、**環境設定の確認**&#x200B;をクリックします。
 
    ![](assets/subscribe-to-system-status-notifications-11.png)

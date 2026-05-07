@@ -1,21 +1,21 @@
 ---
 unique-page-id: 42762244
-description: Dynamics でリードおよび連絡先レコードの星と炎を設定する方法を説明します。 CRM でのリードスコアと緊急度を表示します。
+description: Dynamicsでリードおよび取引先責任者レコードに星と炎を設定する方法を説明します。 リードスコアと緊急性をCRMに表示。
 title: リード／連絡先レコードの星と炎の設定
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 88%
+source-wordcount: '199'
+ht-degree: 84%
 
 ---
 
 # リード／連絡先レコードの星と炎の設定 {#setting-up-stars-and-flames-for-lead-contact-records}
 
-リード／取引先責任者レコードの星と炎は、「[!UICONTROL リードスコア]」、「[!UICONTROL 相対スコア]」、「[!UICONTROL 緊急度]」および「[!UICONTROL 優先度]」フィールドに依存します。これらのフィールドは、MSI ソリューションをインストールして設定した後、デフォルトで使用できます。星と炎がない場合は、以前の設定／カスタマイズによって、星と炎が削除された可能性があります。以下の手順に従って、それらを追加します。
+リード／取引先責任者レコードの星と炎は、「[!UICONTROL リードスコア]」、「[!UICONTROL 相対スコア]」、「[!UICONTROL 緊急度]」および「[!UICONTROL 優先度]」フィールドに依存します。 これらのフィールドは、MSI ソリューションをインストールして設定した後、デフォルトで使用できます。 星と炎がない場合は、以前の設定／カスタマイズによって、星と炎が削除された可能性があります。 以下の手順に従って、それらを追加します。
 
-1. [!DNL Microsoft Dynamics] で、セールスドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。「**[!UICONTROL カスタマイズ]**」、「**[!UICONTROL システムのカスタマイズ]**」の順にクリックします。
+1. [!DNL Microsoft Dynamics] で、セールスドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。 「**[!UICONTROL カスタマイズ]**」、「**[!UICONTROL システムのカスタマイズ]**」の順にクリックします。
 
 1. 左側のパネルで、「**[!UICONTROL エンティティ]**」をクリックします。
 
@@ -23,10 +23,10 @@ ht-degree: 88%
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. 左側のパネルで、「**[!UICONTROL Marketo セールスインサイト]**」をクリックします。右側のパネルで、「フィルター」ドロップダウンをクリックし、「**[!UICONTROL カスタムフィールド]**」を選択します。
+1. 左側のパネルで、「**[!UICONTROL Marketo セールスインサイト]**」をクリックします。 右側のパネルで、「フィルター」ドロップダウンをクリックし、「**[!UICONTROL カスタムフィールド]**」を選択します。
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
-1. 「[!UICONTROL リードスコア]」、「[!UICONTROL 相対スコア]」、「[!UICONTROL 緊急度]」および「[!UICONTROL 優先度]」フィールドをドラッグ＆ドロップします。自分に最適な方法で配置します。任意のフィールドをダブルクリックして書式設定することもできます。
+1. 「[!UICONTROL リードスコア]」、「[!UICONTROL 相対スコア]」、「[!UICONTROL 緊急度]」および「[!UICONTROL 優先度]」フィールドをドラッグ＆ドロップします。 自分に最適な方法で配置します。 任意のフィールドをダブルクリックして書式設定することもできます。
 
-1. 完了したら、「**[!UICONTROL 保存して閉じる]**」をクリックします。
+1. 完了したら、**[!UICONTROL 保存して閉じる]**&#x200B;をクリックします。

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385938
-description: 画像、ボタンラベル、カテゴリを含んだメールの予測コンテンツを設定する方法を説明します。 予測コンテンツエディターでメール用の承認済みコンテンツを有効にします。
+description: 画像、ボタンラベル、カテゴリーを使用して、メールの予測コンテンツを設定する方法を説明します。 予測コンテンツエディターで、メール用の承認済みコンテンツを有効にします。
 title: メールの予測コンテンツの編集
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 90%
+source-wordcount: '256'
+ht-degree: 82%
 
 ---
 
@@ -23,13 +23,13 @@ ht-degree: 90%
 
    ![](assets/image2017-10-3-9-3a30-3a25.png)
 
-1. 編集ページが開きます。デフォルトでは&#x200B;**[!UICONTROL 電子メール]**&#x200B;が表示されます。
+1. 編集ページが開きます。 デフォルトでは&#x200B;**[!UICONTROL 電子メール]**&#x200B;が表示されます。
 
    ![](assets/image2017-10-3-9-3a31-3a18.png)
 
    >[!NOTE]
    >
-   >タイトルと URL は既に入力されています。正しいかどうかを確認してください。
+   >タイトルと URL は既に入力されています。 正しいかどうかを確認してください。
 
 1. ボタンのラベルを追加または編集するには、右側のテキストボックスに入力します。
 
@@ -51,7 +51,7 @@ ht-degree: 90%
 
    ![](assets/five.png)
 
-1. スライダーをクリックしてドラッグし、画像サイズを変更します。次に、切り抜きボックスをクリックしてドラッグし、使用する画像領域を分離します。終了したら、「**[!UICONTROL プレビュー]**」をクリックします。
+1. スライダーをクリックしてドラッグし、画像サイズを変更します。 次に、切り抜きボックスをクリックしてドラッグし、使用する画像領域を分離します。 終了したら、「**[!UICONTROL プレビュー]**」をクリックします。
 
    ![](assets/six.png)
 
@@ -60,7 +60,7 @@ ht-degree: 90%
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
 
-1. 必要に応じて、「**[!UICONTROL カテゴリ]**」フィールドをクリックし、コンテンツにカテゴリを追加します。オプションは、[既に設定済みのカテゴリ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)です。
+1. 必要に応じて、「**[!UICONTROL カテゴリ]**」フィールドをクリックし、コンテンツにカテゴリを追加します。 オプションは、[既に設定済みのカテゴリ](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md)です。
 
    ![](assets/eight.png)
 
@@ -74,4 +74,4 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >Marketo メールエディター v2.0 では、コンテンツを有効にしている間に使用する[レイアウトテンプレートを表示](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)することもできます。
+   >Marketo メールエディターv2.0では、コンテンツを有効にする際に使用するレイアウトテンプレート ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)を[表示することもできます。

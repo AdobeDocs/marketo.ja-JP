@@ -1,22 +1,22 @@
 ---
-description: アプリ内メッセージの送信方法を説明します。 プログラムを作成し、Campaign コントロールパネルを使用してオーディエンスとメッセージを設定したあと、ローンチを承認します。
+description: アプリ内メッセージを送信する方法について説明します。 プログラムを作成し、Campaign コントロールパネルを使用してオーディエンスとメッセージを設定し、承認してローンチします。
 title: アプリ内メッセージの送信
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 86%
+source-wordcount: '183'
+ht-degree: 52%
 
 ---
 
 # アプリ内メッセージの送信 {#send-your-in-app-message}
 
-アプリ内メッセージを作成したら、送信する番です。手順は次の通りです。
+アプリ内メッセージを作成したら、それを送信します。 手順は次の通りです。
 
 >[!NOTE]
 >
->「[!UICONTROL アプリを開く]」によってトリガーされるアプリ内メッセージをテストする場合は、アプリを携帯電話にダウンロードし、開いて閉じてください。これにより、SDK コードが初期化されます。次回アプリを開くと、アプリ内メッセージが表示されます。カスタムイベントはアプリを初めて開いたときにトリガーされます。
+>[!UICONTROL App Open]によってトリガーされるアプリ内メッセージをテストする場合は、必ずアプリをスマートフォンにダウンロードし、開いて閉じてください。 これにより、SDK コードが初期化されます。 次回アプリを開くと、アプリ内メッセージが表示されます。 カスタムイベントはアプリを初めて開いたときにトリガーされます。
 
 1. [!UICONTROL マーケティング活動]で、プログラムを有効にするフォルダーをクリックし、「**[!UICONTROL 新規プログラム]**」を選択します。
 
@@ -30,8 +30,8 @@ ht-degree: 86%
 
    ![画像 3](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
 
-1. [!UICONTROL コントロールパネル]を使用して、アプリ内メッセージの対象、内容、タイミングを定義して、完了したら承認します。各手順について個別の記事があります。
+1. [!UICONTROL Campaign コントロールパネル]を使用して、アプリ内メッセージの誰が、何を、いつ定義し、完了したら承認します。 各手順について個別の記事があります。
 
    ![画像 4](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-準備ができたら、[オーディエンスの設定](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)から始めてください。
+準備ができたら、 [オーディエンスの設定](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md)から始めてください。

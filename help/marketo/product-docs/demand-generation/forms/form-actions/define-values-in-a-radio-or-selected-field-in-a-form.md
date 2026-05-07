@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2359614
-description: Marketo フォームのラジオフィールドまたはドロップダウンフィールドの値を定義する方法について説明します。 訪問者が選択できるオプションを設定します。
+description: Marketo フォームのラジオまたはドロップダウンフィールドで値を定義する方法について説明します。 訪問者が選択できるオプションを設定します。
 title: フォーム内のラジオフィールドまたは選択されたフィールドでの値の定義
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 89%
+source-wordcount: '203'
+ht-degree: 69%
 
 ---
 
 # フォーム内のラジオフィールドまたは選択されたフィールドでの値の定義 {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-ラジオボタンまたは選択タイプとして[フィールドタイプを設定](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)したら、手順は次のとおりです。
+ラジオボタンまたは選択タイプとして[フィールドタイプを設定](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md)したら、 手順は以下のとおりです。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/ma.png)
 
-1. フォームを選択して、「**[!UICONTROL フォームの編集]**」をクリックします。
+1. フォームを選択し、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
@@ -29,7 +29,7 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >最初かつデフォルトの値は常に「[!UICONTROL 選択…]」です。それは自由に編集できます。デフォルトのラジオボタンを別の行に変更した場合は、「[!UICONTROL 選択…]」は、フォーム内の選択肢として表示されません。
+   >最初とデフォルトの値は常に「[!UICONTROL 選択…]」です 自由に編集してください。 デフォルトのラジオボタンを別の行に変更した場合、「[!UICONTROL 選択…]」 フォームの選択肢として表示されません。
 
 1. クリックして値を追加します。
 
@@ -53,7 +53,7 @@ ht-degree: 89%
 
    >[!TIP]
    >
-   >**[!UICONTROL 詳細エディター]**&#x200B;をクリックして、値のリストをコピー／ペーストます。時間を大幅に節約できます。
+   >**[!UICONTROL 詳細エディター]**&#x200B;をクリックして、値のリストをコピー／ペーストます。 時間を大幅に節約できます。
 
 1. 「**[!UICONTROL 終了]**」をクリックします。
 
@@ -63,4 +63,4 @@ ht-degree: 89%
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 
-素晴らしいです。お見事ですね。
+素晴らしいです。 君はよくやっています。

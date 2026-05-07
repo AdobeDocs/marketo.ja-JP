@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360227
-description: キャンペーンメールのアセットのフィルターを使用して、Marketo Engageのキャンペーンメールレポートのアセットをフィルタリングする方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageのキャンペーンメールレポートで、キャンペーンメール内のアセットをフィルタリングする方法について説明します。 このガイドを使用して、次のステップを完了してください。
 title: キャンペーンメールレポートでのアセットのフィルター
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 84%
+source-wordcount: '177'
+ht-degree: 80%
 
 ---
 
@@ -42,11 +42,11 @@ ht-degree: 84%
    >
    >フォルダーを選択すると、レポートの実行時にフォルダーに含まれるすべての項目がレポートに含まれます。
 
-1. 完了です。「**[!UICONTROL レポート]**」タブをクリックし、フィルターされたレポートを確認します。
+1. 完了です！ 「**[!UICONTROL レポート]**」タブをクリックし、フィルターされたレポートを確認します。
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 
    >[!MORELIKETHIS]
    >
-   >[キャンペーンメールの効果レポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+   >[ キャンペーンメールパフォーマンスレポート](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
    >[メールレポートでのアセットのフィルター](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

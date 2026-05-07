@@ -1,12 +1,12 @@
 ---
-description: ROPC 接続を使用したMarketo ソリューションの設定方法について説明します。 Dynamics で同期ユーザーを作成し、Marketo同期ユーザーの役割を割り当てて認証を行います。
+description: ROPC接続を使用してMarketo ソリューションを設定する方法について説明します。 Dynamicsで同期ユーザーを作成し、認証用にMarketo Sync ユーザーロールを割り当てます。
 title: 手順 2 / 4 - リソース所有者のパスワード制御接続を使用した Marketo ソリューションの設定
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 94%
+source-wordcount: '460'
+ht-degree: 93%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 94%
 
 ## ユーザの新規作成 {#create-a-new-user}
 
-1. [!DNL Dynamics] にログインします。[!UICONTROL 設定]アイコンをクリックし、「**[!UICONTROL 詳細設定]**」を選択します。
+1. [!DNL Dynamics] にログインします。 [!UICONTROL 設定]アイコンをクリックし、「**[!UICONTROL 詳細設定]**」を選択します。
 
    ![](assets/one.png)
 
@@ -28,7 +28,7 @@ ht-degree: 94%
 
    ![](assets/two.png)
 
-1. 「**[!UICONTROL ユーザー]**」をクリックします。
+1. 「**[!UICONTROL ユーザ]**」をクリックします。
 
    ![](assets/three.png)
 
@@ -40,11 +40,11 @@ ht-degree: 94%
 
    ![](assets/five.png)
 
-1. 新しいタブが開きます。ページの上部にある「**[!UICONTROL 管理]**」をクリックします。
+1. 新しいタブが開きます。 ページの上部にある「**[!UICONTROL 管理]**」をクリックします。
 
    ![](assets/six.png)
 
-1. 別の新しいタブが開きます。「**[!UICONTROL ユーザを追加]**」をクリックします。
+1. 別の新しいタブが開きます。 「**[!UICONTROL ユーザを追加]**」をクリックします。
 
    ![](assets/seven.png)
 
@@ -52,13 +52,13 @@ ht-degree: 94%
    >
    >同期ユーザには、Marketo 設定に対する読み取り権限が必要です。
 
-1. すべての情報を入力します。完了したら、「**[!UICONTROL 追加]**」をクリックします。
+1. すべての情報を入力します。 完了したら、**[!UICONTROL 追加]**&#x200B;をクリックします。
 
    ![](assets/eight.png)
 
    >[!NOTE]
    >
-   >この名前は、既存の CRM ユーザアカウントではなく、専用の同期ユーザである必要があります。実際の電子メールアドレスである必要はありません。
+   >この名前は、既存の CRM ユーザアカウントではなく、専用の同期ユーザである必要があります。 実際の電子メールアドレスである必要はありません。
 
 1. 新しいユーザ資格情報を受け取る電子メールアドレスを入力し、「**[!UICONTROL メールを送信して閉じる]**」をクリックします。
 
@@ -66,11 +66,11 @@ ht-degree: 94%
 
 ## 同期ユーザのロールの割り当て {#assign-sync-user-role}
 
-Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当てます。他のユーザに割り当てる必要はありません。
+Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当てます。 他のユーザに割り当てる必要はありません。
 
 >[!NOTE]
 >
->これは、Marketo バージョン 4.0.0.14 以降に適用されます。以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。Marketo をアップグレードするには、[&#x200B; [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) 用 Marketo ソリューションのアップグレードを参照してください。
+>これは、Marketo バージョン 4.0.0.14 以降に適用されます。 以前のバージョンでは、すべてのユーザに同期ユーザロールが必要です。 Marketo をアップグレードするには、[ [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md) 用 Marketo ソリューションのアップグレードを参照してください。
 
 >[!IMPORTANT]
 >
@@ -80,7 +80,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
    ![](assets/ten.png)
 
-1. 新規作成した Marketo 同期ユーザの横にポインタを合わせると、チェックボックスが表示されます。クリックして選択します。
+1. 新規作成した Marketo 同期ユーザの横にポインタを合わせると、チェックボックスが表示されます。 クリックして選択します。
 
    ![](assets/eleven.png)
 
@@ -98,7 +98,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
 ## Marketo ソリューションの設定 {#configure-marketo-solution}
 
-もう少しです。あとは、作成した新しいユーザーについて Marketo ソルーションに知らせるだけです。
+もう少しです。 あとは、作成した新しいユーザーについて Marketo ソルーションに知らせるだけです。
 
 1. 「[!UICONTROL 詳細設定]」セクションに戻り、「[!UICONTROL 設定]」の横にある ![](assets/image2015-5-13-15-3a49-3a19.png) アイコンをクリックし、「**[!UICONTROL Marketo 設定]**」を選択します。
 
@@ -106,7 +106,7 @@ Marketo 同期ユーザロールを Marketo 同期ユーザにのみ割り当て
 
    >[!NOTE]
    >
-   >[!UICONTROL 設定]メニューに「**[!UICONTROL Marketo 設定]**」が表示されていない場合、ページを更新します。うまくいかない場合は、再度 [Marketo Solution を公開](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)するか、ログアウトしてから再度ログインしてください。
+   >[!UICONTROL 設定]メニューに「**[!UICONTROL Marketo 設定]**」が表示されていない場合、ページを更新します。 うまくいかない場合は、再度 [Marketo Solution を公開](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)するか、ログアウトしてから再度ログインしてください。
 
 1. 「**[!UICONTROL デフォルト]**」をクリックします。
 

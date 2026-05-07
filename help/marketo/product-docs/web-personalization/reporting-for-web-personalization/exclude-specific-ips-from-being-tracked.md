@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719340
-description: 特定の IP アドレスまたは IP 範囲を Web Personalizationでのトラッキングから除外する方法を説明します。 アカウント設定のトラッキングとレポートから従業員と組織を除外します。
+description: Web Personalizationで追跡される特定のIP アドレスまたはIP範囲を除外する方法について説明します。 アカウント設定でのトラッキングとレポートから従業員と組織を除外します。
 title: 特定の IP をトラッキングから除外する
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 87%
+source-wordcount: '224'
+ht-degree: 79%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 87%
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. 「**[!UICONTROL IP の除外]**」領域まで下にスクロールします。初めて IP アドレスを除外する場合は、空の「**[!UICONTROL IP アドレスの除外]**」フィールドをクリックします。
+1. 「**[!UICONTROL IP の除外]**」領域まで下にスクロールします。 初めてIP アドレスを除外する場合は、空の「**[!UICONTROL IP アドレスを除外]**」フィールドをクリックします。
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
@@ -35,10 +35,10 @@ ht-degree: 87%
 
    >[!NOTE]
    >
-   >1 つの IPv4 または IPv6 アドレス、またはフルレンジ、半レンジ、またはサブネットマスクを除外できます。上記の例の項目は、Marketo フォーム自体に用意されている例に基づいて、それぞれ 1 つを示しています。
+   >1 つの IPv4 または IPv6 アドレス、またはフルレンジ、半レンジ、またはサブネットマスクを除外できます。 上記の例の項目は、Marketo フォーム自体に用意されている例に基づいて、それぞれ 1 つを示しています。
 
-1. 「[!UICONTROL IP アドレスを除外]」フィールドに、入力した IP アドレスが一覧表示されます。IP 除外を編集するには、緑色のプラス記号をクリックしてフォームを再度開きます。
+1. 「[!UICONTROL IP アドレスを除外]」フィールドに、入力した IP アドレスが一覧表示されます。 IP 除外を編集するには、緑色のプラス記号をクリックしてフォームを再度開きます。
 
    ![](assets/exclude-ips-after.png)
 
-   簡単ですね。これで、個別の IP または範囲別に追加された IP からすべてのデータを除外できます。
+   簡単ですね。 これで、個別の IP または範囲別に追加された IP からすべてのデータを除外できます。

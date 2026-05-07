@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147340
-description: リード所有者のアドレスからメールを送信する方法を説明します。 「リード所有者から送信」オプションを使用すると、メールに正しい送信者が表示されます。
+description: リード所有者のアドレスからメールを送信する方法を説明します。 「リード所有者から送信」オプションを使用して、電子メールに正しい送信者を表示します。
 title: リード所有者からのメール送信
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 88%
+source-wordcount: '208'
+ht-degree: 82%
 
 ---
 
 # リード所有者からのメール送信 {#send-emails-from-the-lead-owner}
 
-リード所有者の代わりにリードにメールを送信する場合はどうすればよいですか？手順は次のとおりです。
+リード所有者の代わりにリードにメールを送信する場合はどうすればよいですか？  手順は次のとおりです。
 
 1. 目的のメールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
@@ -59,6 +59,6 @@ ht-degree: 88%
 
    ![](assets/ten.png)
 
-1. 「**[!UICONTROL 返信先]**」および「**[!UICONTROL 件名]**」フィールドに値が入力されます。これで完了です。
+1. **[!UICONTROL 返信先]**&#x200B;および&#x200B;**[!UICONTROL 件名]**&#x200B;のフィールドが入力されていることを確認してください。これで完了です。
 
    ![](assets/eleven.png)

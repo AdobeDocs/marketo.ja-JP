@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11378809
-description: 指定アカウントと、ターゲット企業の担当者を保持する方法について説明します。 ダッシュボード上のすべての名前付きアカウントの現在の属性データを表示します。
+description: 名前付きアカウントと、ターゲット企業からのユーザーを保持する方法について説明します。 ダッシュボード上のすべての名前付きアカウントの現在の属性データを表示します。
 title: '[!UICONTROL 重点顧客]の概要'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 90%
+source-wordcount: '254'
+ht-degree: 86%
 
 ---
 
 # [!UICONTROL 重点顧客]の概要 {#named-account-overview}
 
-[!UICONTROL 重点顧客]は、ターゲットとする会社の人物を保持します。ダッシュボードには、すべての重点顧客の各属性の現在のデータが表示されます。
+[!UICONTROL 名前付きアカウント ]には、対象の企業の人物が含まれています。 ダッシュボードには、すべての重点顧客の各属性の現在のデータが表示されます。
 
 ## [!UICONTROL 重点顧客]ダッシュボード {#named-accounts-dashboard}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384651
-description: 予測コンテンツの「すべてのコンテンツ」ページに新しいコンテンツを手動で追加します。 タイトル、URL、画像およびカテゴリを入力して、お勧めを承認します。
+description: 予測コンテンツの「すべてのコンテンツ」ページに新しいコンテンツを手動で追加します。 タイトル、URL、画像、カテゴリーを入力し、レコメンデーションを承認します。
 title: 新規コンテンツの追加
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 78%
+source-wordcount: '104'
+ht-degree: 69%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 78%
 
    ![](assets/all-content-add-hand.png)
 
-1. 新しいタイトルが&#x200B;**[!UICONTROL すべてのコンテンツ]**&#x200B;ページに表示されます。予測コンテンツにはまだ承認されていません。
+1. 新しいタイトルが&#x200B;**[!UICONTROL すべてのコンテンツ]**&#x200B;ページに表示されます。 予測コンテンツ用にまだ承認されていないことに注意してください。
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 

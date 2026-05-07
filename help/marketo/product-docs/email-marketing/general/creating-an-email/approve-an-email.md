@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147342
-description: プログラムで使用できるようにメールを承認する方法を説明します。 スケジュールまたは送信する前に、承認ワークフローを完了します。
+description: プログラムで使用できるようにメールを承認する方法を説明します。 スケジュールまたは送信の前に、承認ワークフローを完了します。
 title: メールの承認
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 82%
+source-wordcount: '121'
+ht-degree: 75%
 
 ---
 
 # メールの承認 {#approve-an-email}
 
-メールはドラフト状態で開始します。通常は、ユーザーが承認するまで、システムでは使用できません。メールを承認するには、いくつかの方法があります。
+メールはドラフト状態で開始します。 通常は、ユーザーが承認するまで、システムでは使用できません。 メールを承認するには、いくつかの方法があります。
 
 ## [!UICONTROL メールアクション]メニューを使用した承認 {#approve-it-using-the-email-actions-menu}
 
@@ -33,4 +33,4 @@ ht-degree: 82%
 
    ![](assets/three.png)
 
-承認すると、メールは使用できるようになります。
+承認されたら、メールを使用する準備ができました。

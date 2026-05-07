@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6848922
-description: Microsoft DynamicsのMarketo リード管理ソリューションをダウンロードする方法について説明します。
+description: Microsoft Dynamics用Marketo リード管理ソリューションのダウンロード方法について説明します。
 title: Marketo リード管理ソリューションのダウンロード
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 88%
+source-wordcount: '106'
+ht-degree: 76%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 88%
 
 >[!CAUTION]
 >
->アップデートを実行する&#x200B;_前_&#x200B;に、必ず最新の Marketo ソリューションをダウンロードしてください。
+>アップグレードを実行する&#x200B;_前に、最新のMarketo ソリューション_&#x200B;をダウンロードする必要があります。
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 88%
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. **[!DNL Microsoft]** を選択します。
+1. 「**[!DNL Microsoft]**」を選択します。
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
@@ -47,4 +47,4 @@ ht-degree: 88%
 
    ![](assets/download-the-marketo-lead-management-solution-5.png)
 
-これで完了です。ソリューションの zip ファイルがデバイスにダウンロードされます。
+これで完了です。 ソリューションの zip ファイルがデバイスにダウンロードされます。

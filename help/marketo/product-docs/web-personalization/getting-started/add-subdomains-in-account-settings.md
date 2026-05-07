@@ -1,25 +1,25 @@
 ---
 unique-page-id: 17727870
-description: アカウント設定で「サブドメインを追加」を使用して、Marketo Engageのアカウント設定でサブドメインを追加する方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: アカウント設定のサブドメインを追加を使用して、Marketo Engageのアカウント設定にサブドメインを追加する方法について説明します。 このガイドを使用して、次のステップを完了してください。
 title: アカウント設定にサブドメインを追加する
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 84%
+source-wordcount: '168'
+ht-degree: 75%
 
 ---
 
 # [!UICONTROL アカウント設定]にサブドメインを追加 {#add-subdomains-in-account-settings}
 
-[!UICONTROL アカウント設定]でサブドメインをプライマリドメインに追加する方法について説明します。これにより、プライマリドメインの特定の RTP JavaScript に関連するサブドメインを管理できます。追加したサブドメインには [!DNL Javascript] タグをデプロイすることをお勧めします。
+[!UICONTROL アカウント設定]でサブドメインをプライマリドメインに追加する方法について説明します。 これにより、プライマリドメインの特定の RTP JavaScript に関連するサブドメインを管理できます。 追加したサブドメインには [!DNL Javascript] タグをデプロイすることをお勧めします。
 
 1. Web パーソナライゼーションで、**[!UICONTROL アカウント設定]**&#x200B;に移動します。
 
    ![](assets/image2014-12-1-23-3-12.png)
 
-1. ドメインの設定ページに、アカウントに関連付けられているすべてのプライマリドメインの一覧が表示されます。各セクションには、最初にプライマリドメイン（以下でハイライト表示）が表示され、その後に任意のサブドメインが表示されます。「**[!UICONTROL サブドメインを追加]**」をクリックします。
+1. ドメインの設定ページに、アカウントに関連付けられているすべてのプライマリドメインの一覧が表示されます。 各セクションには、最初にプライマリドメイン（以下でハイライト表示）が表示され、その後に任意のサブドメインが表示されます。 「**[!UICONTROL サブドメインを追加]**」をクリックします。
 
    ![](assets/highlightprimary2.png)
 
@@ -27,7 +27,7 @@ ht-degree: 84%
 
    ![](assets/add.png)
 
-1. サブドメイン URL を入力します。「**[!UICONTROL 追加]**」または「**[!UICONTROL 削除]**」をクリックしてサブドメインのリストを管理して、終わったら「**[!UICONTROL OK]**」をクリックします。
+1. サブドメイン URL を入力します。 **[!UICONTROL 追加]**&#x200B;または&#x200B;**[!UICONTROL 削除]**&#x200B;をクリックしてサブドメインのリストを管理し、完了したら&#x200B;**[!UICONTROL OK]**&#x200B;をクリックします。
 
    ![](assets/newsubdomain.png)
 

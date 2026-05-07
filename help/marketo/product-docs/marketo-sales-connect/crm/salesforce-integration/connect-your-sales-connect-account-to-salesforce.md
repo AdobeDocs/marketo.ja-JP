@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352423
-description: Sales Connect アカウントをSalesforceに接続する方法を説明します。 Salesforceへのメール、電話およびタスクのログ記録を有効にします。
+description: Sales Connect アカウントをSalesforceに接続する方法について説明します。 Salesforceに対する電子メール、呼び出し、タスクのログ記録を有効にします。
 title: Sales Connect アカウントの Salesforce への接続
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 86%
+source-wordcount: '141'
+ht-degree: 72%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 86%
 
    ![](assets/four.png)
 
-1. 既に Salesforce にログインしている場合は、接続されます。そうでない場合は、ログインするように求められます。
+1. 既に Salesforce にログインしている場合は、接続されます。 そうでない場合は、ログインするように求められます。
 
 ## 管理者以外のユーザとして接続する方法 {#how-to-connect-as-a-non-admin}
 
@@ -41,7 +41,7 @@ ht-degree: 86%
 
    ![](assets/one.png)
 
-1. [!UICONTROL マイアカウント]で、「**[!UICONTROL Salesforce]**」を選択します。
+1. 「[!UICONTROL マイアカウント]」で、「**[!UICONTROL Salesforce]**」を選択します。
 
    ![](assets/two.png)
 
@@ -53,4 +53,4 @@ ht-degree: 86%
 
    ![](assets/four.png)
 
-1. 既に Salesforce にログインしている場合は、接続されます。そうでない場合は、ログインするように求められます。
+1. 既に Salesforce にログインしている場合は、接続されます。 そうでない場合は、ログインするように求められます。

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147237
-description: 期間コストでプログラムレポートをフィルタリングする方法を説明します。 特定の原価期間のプログラム実績を表示します。
+description: 期間原価でプログラムレポートをフィルタリングする方法を説明します。 特定のコスト期間に対するプログラムのパフォーマンスを表示します。
 title: プログラムレポートを期間原価でフィルター
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 82%
+source-wordcount: '100'
+ht-degree: 80%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 82%
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. 完了です。「**[!UICONTROL レポート]**」タブをクリックすると、指定した期間原価の期間に該当するプログラムのみが表示されます。
+1. 完了です！ 「**[!UICONTROL レポート]**」タブをクリックすると、指定した期間原価の期間に該当するプログラムのみが表示されます。
 
    ![](assets/lm-86194-report-tab.png)
 

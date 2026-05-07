@@ -1,18 +1,18 @@
 ---
-description: Marketoの販売アクティビティトリガーとフィルターについて説明します。 Sales Connect アクティビティを使用して、スマートキャンペーンとフィルターをトリガーに設定します。
+description: Marketoの営業活動のトリガーとフィルターについて説明します。 Sales Connect アクティビティを使用して、スマートキャンペーンとフィルターをトリガーします。
 title: セールスアクティビティのトリガーとフィルター
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 85%
+source-wordcount: '129'
+ht-degree: 55%
 
 ---
 
 # セールスアクティビティのトリガーとフィルター {#sales-activity-triggers-and-filters}
 
-セールスチームとのエンゲージメントの調整や、バイヤージャーニーを通じた顧客との関わり方をより深く把握したい場合は、Marketo のセールスアクティビティインサイトが役立ちます。
+営業部門とのエンゲージメントをより適切に調整したい場合や、バイヤージャーニー全体を通じて顧客とどのようにエンゲージメントしているのかをより詳細に把握したい場合は、MarketoのSales Activity Insightsが役立ちます。
 
 スマートキャンペーンでセールスアクティビティのフィルターとトリガーを利用する方法を理解する手順は以下のとおりです。
 

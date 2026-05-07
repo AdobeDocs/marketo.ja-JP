@@ -1,24 +1,24 @@
 ---
-description: Sales Connect でリマインダータスクを作成し、割り当てる方法について説明します。 自分自身またはチームメンバーのフォローアップタスクを設定します。
+description: Sales Connectでリマインダータスクを作成して割り当てる方法について説明します。 自分またはチームメンバーのフォローアップタスクを設定する。
 title: リマインダータスクの作成と割り当て
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 87%
+source-wordcount: '155'
+ht-degree: 79%
 
 ---
 
 # リマインダータスクの作成と割り当て {#create-and-assign-reminder-tasks}
 
-リマインダータスクは、顧客や見込み客のエンゲージメントに最適な方法です。タスクを作成するには、次の手順に従います。
+リマインダータスクは、顧客や見込み客のエンゲージメントに最適な方法です。 タスクを作成するには、次の手順に従います。
 
 1. **[!UICONTROL コマンドセンター]**&#x200B;をクリックします。
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. デフォルトでタスクが開きます。「**[!UICONTROL タスクを追加]**」をクリックします。
+1. デフォルトでタスクが開きます。 「**[!UICONTROL タスクを追加]**」をクリックします。
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
@@ -34,7 +34,7 @@ ht-degree: 87%
 
    ![](assets/create-and-assign-reminder-tasks-5.png)
 
-1. このリマインダータスクを使用して、フォローアップしているユーザを追加します。
+1. このリマインダータスクを使用して、フォローアップしているユーザーを追加します。
 
    ![](assets/create-and-assign-reminder-tasks-6.png)
 
@@ -46,6 +46,6 @@ ht-degree: 87%
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 通話メモ、InMail メッセージテンプレート、ユーザに関するメモなど、タスクの完了時に利用できるタスクの詳細を追加します。完了したら「**[!UICONTROL 作成]**」をクリックします。
+1. 通話メモ、InMail メッセージテンプレート、ユーザに関するメモなど、タスクの完了時に利用できるタスクの詳細を追加します。 終了したら、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

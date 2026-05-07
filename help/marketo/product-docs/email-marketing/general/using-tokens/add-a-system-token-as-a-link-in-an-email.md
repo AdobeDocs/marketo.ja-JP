@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900573
-description: システムトークンをメール内のリンクとして追加する方法を説明します。 購読解除などの動的リンクのリンク URL でトークンを使用します。
+description: メールにシステムトークンをリンクとして追加する方法を説明します。 リンク URLでトークンを使用して、購読解除またはその他の動的リンクを行います。
 title: メールにシステムトークンをリンクとして追加する
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '222'
-ht-degree: 89%
+source-wordcount: '224'
+ht-degree: 80%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->これらのトークンは、アンカーリンク内にない限り、クリック&#x200B;**できません**。また、マイトークンに埋め込むことも&#x200B;**できません**。
+>これらのトークンは、アンカーリンク内にない限り、クリック&#x200B;**できません**。 また、マイトークンに埋め込むことも&#x200B;**できません**。
 
 メールに追加する方法を次に示します。
 
@@ -53,10 +53,10 @@ ht-degree: 89%
 
 >[!IMPORTANT]
 >
->この方法を使用して「viewAsWebpageLink」システムトークンを追加する場合、トークンを使用して上書きすることは&#x200B;**できません**。代わりに、[メールに「Web ページとして表示」リンクを追加する](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)アプローチを使用すれば、トークンを使用して「viewAsWebPageLink」を上書きできます。
+>このアプローチを使用して「viewAsWebpageLink」システムトークンを追加する場合は、トークンを使用して&#x200B;**not**&#x200B;上書きできます。 代わりに、[メールに「Web ページとして表示」リンクを追加する](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)アプローチを使用すれば、トークンを使用して「viewAsWebPageLink」を上書きできます。
 
 >[!NOTE]
 >
 >完了したら、忘れずに[メールを承認](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md)してください。
 
-これで完了です。システムトークンをリンクとしてメールに追加する方法がわかりました。
+これで完了です。 システムトークンをリンクとしてメールに追加する方法がわかりました。

@@ -1,11 +1,11 @@
 ---
-description: Salesforce Lightning からMarketo Sales Connect をアンインストールする方法について説明します。 Lightning から Sales Connect のカスタマイズとボタンを削除します。
+description: Salesforce LightningからMarketo Sales Connectをアンインストールする方法について説明します。 Lightningからセールスコネクトのカスタマイズとボタンを削除します。
 title: Salesforce Lightning からの Marketo Sales Connect のアンインストール
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1199'
-ht-degree: 98%
+source-wordcount: '1202'
+ht-degree: 96%
 
 ---
 
@@ -39,19 +39,19 @@ ht-degree: 98%
    >
    >Salesforce Lightning のページレイアウトの編集ビューは、まだ更新されていません。
 
-1. コンソールで、「**フィールド**」を選択します。クイック検索で「MSC」を検索します。グレー表示のフィールドはすべて、ページレイアウトに追加されています。削除する必要があります。
+1. コンソールで、「**フィールド**」を選択します。 クイック検索で「MSC」を検索します。 グレー表示のフィールドはすべて、ページレイアウトに追加されています。 削除する必要があります。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-6.png)
 
    >[!NOTE]
    >
-   >グレー表示になっているフィールドがない場合は、まだページレイアウトに追加されていないことを意味します。このセクションはスキップできます。
+   >グレー表示になっているフィールドがない場合は、まだページレイアウトに追加されていないことを意味します。 このセクションはスキップできます。
 
 1. Sales Connect のカスタムフィールドが設定されたセクションにスクロールします。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-7.png)
 
-1. このセクションに追加できる MSC フィールドは 10 種類あります。追加したすべてのフィールドを削除するか、単にセクション全体を削除します。
+1. このセクションに追加できる MSC フィールドは 10 種類あります。 追加したすべてのフィールドを削除するか、単にセクション全体を削除します。
 
 1. 終了したら「**保存**」をクリックします。
 
@@ -59,13 +59,13 @@ ht-degree: 98%
 
 ## ページレイアウトから Sales Connect のボタンを削除 {#remove-sales-connect-buttons-from-page-layouts}
 
-1. コンソールで（上記の手順 4）、「**ボタン**」を選択します。「MSC」を検索します。グレー表示のボタンがすべて、「カスタムボタン」セクションに追加されました。削除する必要があります。
+1. コンソールで（上記の手順 4）、「**ボタン**」を選択します。 「MSC」を検索します。 グレー表示のボタンがすべて、「カスタムボタン」セクションに追加されました。 削除する必要があります。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-9.png)
 
    >[!NOTE]
    >
-   >グレー表示になっているボタンがない場合は、まだ追加されていないことを意味します。このセクションはスキップできます。
+   >グレー表示になっているボタンがない場合は、まだ追加されていないことを意味します。 このセクションはスキップできます。
 
 1. 「カスタムボタン」セクションからコンソールに MSC ボタンをドラッグ＆ドロップします。
 
@@ -81,15 +81,15 @@ ht-degree: 98%
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. 「選択したフィールド」領域で「Sales Connect フィールド」を選択し、「削除」矢印をクリックします。終了したら「**OK**」をクリックします。
+1. 「選択したフィールド」領域で「Sales Connect フィールド」を選択し、「削除」矢印をクリックします。 終了したら「**OK**」をクリックします。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 
    >[!NOTE]
    >
-   >_MSE_ は Sales Connect の略称です。これは「Marketo Sales Engage」という名前です。
+   >_MSE_ は Sales Connect の略称です。 これは、「Marketo Sales Engage」の旧称です。
 
-1. リードページの操作が完了したら、「**保存**」をクリックします。
+1. リードページが完了したら、**保存**&#x200B;をクリックします。
 
 ## リードリスト表示から Sales Connect の一括アクションボタンを削除 {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
@@ -113,7 +113,7 @@ ht-degree: 98%
 
    ![](assets/uninstall-salesforce-lightning-customization-package-18.png)
 
-1. 「**MSC キャンペーンに追加**」、「**MSC でメール送信**」、「**MSC にプッシュ**&#x200B;を選択し、「削除」矢印をクリックします。「**保存**」をクリックします。
+1. 「**MSC キャンペーンに追加**」、「**MSC でメール送信**」、「**MSC にプッシュ**&#x200B;を選択し、「削除」矢印をクリックします。 「**保存**」をクリックします。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-19.png)
 
@@ -171,7 +171,7 @@ ht-degree: 98%
 
 1. 「**タブをカスタマイズ**」をクリックします。
 
-1. 右側の「Marketo Sales 送信トレイ」オプションを選択します。削除矢印をクリックし、「**保存**」をクリックします。
+1. 右側の「Marketo Sales 送信トレイ」オプションを選択します。 削除矢印をクリックし、「**保存**」をクリックします。
 
 ## Sales Connect パッケージを削除 {#delete-sales-connect-package}
 
@@ -183,7 +183,7 @@ Salesforce アカウントからすべてのオブジェクトを削除したら
 
 1. リストのすべての「MarketoSalesConnectionCustomization」または「MarketoSalesEngageCustomization」エントリの横にある「**削除**」をクリックします。
 
-準備完了です。
+準備完了です！
 
 以下に、Salesforce インスタンスから削除する必要のあるすべてのオブジェクトのリストを示します。
 
@@ -198,7 +198,7 @@ Salesforce アカウントからすべてのオブジェクトを削除したら
  </tr>
  <tr>
   <td>MSC 電話ローカルプレゼンス ID</td>
-  <td>ユーザーは、MSC 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。着信電話は、受信者のローカル番号を表示します</td>
+  <td>ユーザーは、MSC 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。 着信電話は、受信者のローカル番号を表示します</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
  </tr>
@@ -216,7 +216,7 @@ Salesforce アカウントからすべてのオブジェクトを削除したら
  </tr>
  <tr>
   <td>MSC キャンペーン URL</td>
-  <td>MSC で作成されたキャンペーンの URL を記録します。これをクリックすると、MSC web アプリでキャンペーンが開きます</td>
+  <td>MSC で作成されたキャンペーンの URL を記録します。 これをクリックすると、MSC web アプリでキャンペーンが開きます</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
  </tr>
@@ -258,7 +258,7 @@ Salesforce アカウントからすべてのオブジェクトを削除したら
  </tr>
  <tr>
   <td>MSC メールテンプレート URL</td>
-  <td>MSC で作成されたテンプレートの URL を記録します。これをクリックすると、MSC web アプリでテンプレートが開きます</td>
+  <td>MSC で作成されたテンプレートの URL を記録します。 これをクリックすると、MSC web アプリでテンプレートが開きます</td>
   <td>アクティビティ</td>
   <td>テキスト</td>
  </tr>

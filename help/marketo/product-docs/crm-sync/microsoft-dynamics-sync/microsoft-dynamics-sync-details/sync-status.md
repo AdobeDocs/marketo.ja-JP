@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097584
-description: Microsoft Dynamicsの同期ステータスと、スループットとバックログを監視する方法について説明します。 管理者で「同期ステータス」タブと「同期エラー」タブを表示します。
+description: Microsoft Dynamicsの同期ステータスと、スループットとバックログをモニタリングする方法について説明します。 管理画面で「同期ステータス」タブと「同期エラー」タブを表示します。
 title: 同期ステータス
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 86%
+source-wordcount: '185'
+ht-degree: 75%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 86%
 
    >[!NOTE]
    >
-   >「[!UICONTROL 過去 1 時間]」ビューを表示している場合、「[!UICONTROL 挿入]」列と「[!UICONTROL 更新]」列には「N/A」と表示されます。これは期待されている動作です。
+   >[!UICONTROL 最終時間] ビューを見ると、[!UICONTROL 挿入]列と[!UICONTROL 更新]列にN/Aが表示されます。これは期待される動作です。
 
 ## 「[!UICONTROL 同期エラー]」タブ {#sync-errors-tab}
 

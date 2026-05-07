@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359537
-description: Marketoのランディングページにスニペットを追加する方法を説明します。 スニペットを使用して、ページをまたいでコンテンツブロックを再利用します。
+description: Marketo ランディングページにスニペットを追加する方法について説明します。 スニペットを使用して、ページをまたいでコンテンツブロックを再利用しましょう。
 title: ランディングページにスニペットを追加する
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 84%
+source-wordcount: '116'
+ht-degree: 60%
 
 ---
 
@@ -33,10 +33,10 @@ ht-degree: 84%
 
    >[!TIP]
    >
-   >スニペットが見つからない場合は、まずスニペットが承認されていることを確認します。
+   >スニペットが見つからない場合は、最初に承認されていることを確認してください。
 
    >[!NOTE]
    >
-   >ガイド付きランディングページにスニペットを追加する場合は、[この記事](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)を確認してください。
+   >ガイド付きランディングページにスニペットを追加する場合は、[この記事](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)を参照してください。
 
-すごいです。これで、ランディングページにスニペットを追加する方法がわかりました。
+すごいです。 これで、ランディングページにスニペットを追加する方法がわかりました。

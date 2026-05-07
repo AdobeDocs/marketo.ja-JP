@@ -1,12 +1,12 @@
 ---
-description: 新しい Sales Insight Actions ユーザーとして作業を開始する方法を説明します。 設定手順を完了し、メール、SalesforceおよびMarketoを接続します。
+description: 新しいSales Insight Actions ユーザーとして開始する方法を説明します。 設定ステップを完了し、メール、Salesforce、Marketoを連携させます。
 title: セールスインサイトアクションのユーザオンボーディングガイド
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 93%
+source-wordcount: '337'
+ht-degree: 73%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->Marketo セールスインサイト Actions は、[Marketo セールスインサイトパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
+>Marketo セールスインサイト Actions は、[Marketo セールスインサイトパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。 「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ ht-degree: 93%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
-1. 既に [!DNL Salesforce] アカウントにログインしている場合は、次の画面に自動的に移動します。ログインしていない場合は、今すぐログインしてください。
+1. 既に[!DNL Salesforce] アカウントにログインしている場合は、自動的に次の画面に移動します。 ログインしていない場合は、今すぐログインしてください。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-3.png)
 
@@ -83,14 +83,14 @@ ht-degree: 93%
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. Marketo Sales Actions の簡単な紹介を表示するオプションが表示されます。「**[!UICONTROL 次へ]**」をクリックして表示するか、後で確認する場合は、「**[!UICONTROL 後で]**」をクリックします。
+1. Marketo Sales Actions の簡単な紹介を表示するオプションが表示されます。 「**[!UICONTROL 次へ]**」をクリックして表示するか、後で確認する場合は、「**[!UICONTROL 後で]**」をクリックします。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
-1. ツアーが完了またはツアーをスキップしたら、web アプリケーションに直接ログインするか、MSI パネルからすべての機能にアクセスできる [!DNL Salesforce] アカウントに直接ログインするかを選択します（この例では、「**[!UICONTROL Salesforce を起動]**」を選択します）。
+1. ツアーが終了した場合、またはツアーをスキップした場合は、Web アプリケーションに直接ログインするか、MSI パネルからすべての機能にアクセスできる[!DNL Salesforce] アカウントにログインするかを選択します（この例では、**[!UICONTROL Salesforceを起動]**&#x200B;します）。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 
-1. [!DNL Salesforce]（Classic または Lightning）内では、任意のリード、取引先責任者、アカウント、商談に移動できます。MSI パネルのドロップダウンからすべての Sales Actions を使用できます。
+1. [!DNL Salesforce]（Classic または Lightning）内では、任意のリード、取引先責任者、アカウント、商談に移動できます。 MSI パネルのドロップダウンからすべての Sales Actions を使用できます。
 
    ![](assets/sales-insight-actions-user-onboarding-guide-16.png)

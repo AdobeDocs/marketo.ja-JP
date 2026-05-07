@@ -1,12 +1,12 @@
 ---
-description: Marketoでインタラクティブウェビナーを変更または削除する方法について説明します。 不要になった場合は、設定を更新したり、ウェビナーを削除したりできます。
+description: Marketoでインタラクティブウェビナーを変更または削除する方法について説明します。 必要がなくなったら、設定を更新するか、ウェビナーを削除します。
 title: インタラクティブウェビナーの変更または削除
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 93%
+source-wordcount: '330'
+ht-degree: 86%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 93%
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. ルームがロードされます。ルームを変更するには、ルームドロップダウンからルームを選択します。単にテンプレートを更新するには、「**ルームを使用**」をクリックします。
+1. ルームがロードされます。 ルームを変更するには、ルームドロップダウンからルームを選択します。 単にテンプレートを更新するには、「**ルームを使用**」をクリックします。
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
@@ -36,7 +36,7 @@ ht-degree: 93%
 
    ![](assets/modify-or-delete-an-interactive-webinar-4.png)
 
-1. 修正を完了したら、「**ルームから退出**」をクリックします。
+1. 変更が完了したら、**ルームを終了**&#x200B;をクリックします。
 
    ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
@@ -74,7 +74,7 @@ ht-degree: 93%
 
    >[!NOTE]
    >
-   >現時点では、複製したインタラクティブウェビナーをインタラクティブウェビナーとしてのみ保存できます。複製したウェビナーのパートナーウェビナー（例えば、Zoom、ON24 など）としての保存は、まもなく利用できます。
+   >現時点では、複製したインタラクティブウェビナーをインタラクティブウェビナーとしてのみ保存できます。 複製されたウェビナーをパートナーウェビナーとして保存（例：Zoom、ON24） まもなく利用可能になります。
 
 1. 複製したウェビナー用の設定を選択して、「**複製**」をクリックします。
 

@@ -1,12 +1,12 @@
 ---
-description: Dynamic Chatでエージェントカレンダーとミーティングまたはライブチャットを設定する方法について説明します。 Outlook または Gmail を予定スケジュール用に接続します。
+description: Dynamic Chatでエージェントのカレンダーとミーティングまたはライブチャットの可用性を設定する方法について説明します。 OutlookまたはGmailと連携して予定を設定できます。
 title: エージェント設定
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 75%
+source-wordcount: '634'
+ht-degree: 70%
 
 ---
 
@@ -30,9 +30,9 @@ ht-degree: 75%
 
 >[!NOTE]
 >
->1 ユーザにつき 1 つのカレンダーを接続できます。複数のカレンダーで会議を受け取る場合は、複数のユーザを追加し、各ユーザにカレンダーを連携させる必要があります。
+>1 ユーザにつき 1 つのカレンダーを接続できます。 複数のカレンダーで会議を受け取る場合は、複数のユーザを追加し、各ユーザにカレンダーを連携させる必要があります。
 
-また、カレンダーに予定をスケジュールするときに訪問者に送信される、招待の本文をカスタマイズすることもできます。下部のチェックボックスを選択して、「Google Meet」リンクまたは「Microsoft Teams」リンクを含めることもできます（接続されたカレンダーに応じて異なります）。
+また、カレンダーに予定をスケジュールするときに訪問者に送信される、招待の本文をカスタマイズすることもできます。 下部のチェックボックスを選択して、「Google Meet」リンクまたは「Microsoft Teams」リンクを含めることもできます（接続されたカレンダーに応じて異なります）。
 
 ![](assets/agent-settings-3.png)
 
@@ -71,7 +71,7 @@ Google で設定すると、Dynamic Chat に対して次の権限が付与され
   </tr>
   <tr>
    <td><b>ミーティング間のバッファ時間</b></td>
-   <td>会議後のバッファーとして設定した時間。30 分に設定すると、カレンダーで予定されている会議の終了から 30 分後まで、誰も会議を予約できません。</td>
+   <td>会議後のバッファーとして設定した時間。 30 分に設定すると、カレンダーで予定されている会議の終了から 30 分後まで、誰も会議を予約できません。</td>
   </tr>
  </tbody>
 </table>
@@ -86,13 +86,13 @@ Google で設定すると、Dynamic Chat に対して次の権限が付与され
 
 ![](assets/agent-settings-5.png)
 
-アプリにログインしている場合は、受信チャットのアプリ内通知が届きます。ログインしていない場合は、ブラウザー通知が表示されます（既に[設定](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}している場合）。
+アプリにログインすると、チャットの着信に関するアプリ内通知が届きます。 ログインしていない場合は、ブラウザー通知が届きます（[設定した場合](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}）。
 
 >[!IMPORTANT]
 >
->* エージェントインボックスの [&#x200B; 利用可能 &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} 切替スイッチ **は上書きされます** 「_ライブチャットの利用可能_」タブに入力された内容。 したがって、エージェントが 1p～5p で利用可能になるようにスケジュールされていても、3p ですぐに休憩する必要がある場合は、エージェントの設定を変更する必要はありません。 使用可否の切り替えステータスは、手動で変更されるまで、エージェントの使用可否の次のブロックに達するまで、またはエージェントが指定したタイムゾーンの午前 0 時まで保持されます（詳しくは、次の箇条書きを参照してください）。
+>* エージェントの受信トレイ **の[可用性トグル ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}は、_ライブチャットの可用性_ タブに入力された内容**&#x200B;を上書きします。 そのため、エージェントが1pから5pの間に利用可能にスケジュールされていても、3pでクイックブレークを取る必要がある場合は、エージェントの設定を変更する必要はありません。 可用性トグルステータスは、手動で変更されるまで、エージェントの可用性の次の時間ブロックに達するまで、またはエージェントの指定されたタイムゾーンの深夜まで保持されます（詳しくは次の箇条書きを参照してください）。
 >
->* エージェントが可用性トグルを使用してステータスを「使用可能」に変更すると、可用性スケジュールで指定されたタイムゾーンの午前 0 時に、ステータスが自動的にリセットされます（使用不可に切り替わります）。 タイムゾーンを指定しない場合は、デフォルトで UTC （協定世界時）になります。
+>* エージェントが可用性トグルを使用してステータスを「使用可能」に変更すると、可用性スケジュールで指定されたタイムゾーンの深夜に、ステータスが自動的にリセットされます（使用不可に切り替わります）。 タイムゾーンが指定されていない場合、デフォルトはUTC （協定世界時）になります。
 
 >[!TIP]
 >
@@ -100,7 +100,7 @@ Google で設定すると、Dynamic Chat に対して次の権限が付与され
 
 ## エージェントプロファイル写真
 
-エージェントは自分のプロファイル写真をアップロードできますが、そのアクションは Dynamic Chat では実行されません。`account.adobe.com/profile` に移動する必要があります。詳細情報はこちら：[アカウントプロファイルの更新](https://helpx.adobe.com/jp/manage-account/using/edit-adobe-account-personal-profile.html)。
+エージェントは自分のプロファイル写真をアップロードできますが、そのアクションは Dynamic Chat では実行されません。 `account.adobe.com/profile` に移動する必要があります。 詳細情報はこちら：[アカウントプロファイルの更新](https://helpx.adobe.com/jp/manage-account/using/edit-adobe-account-personal-profile.html)。
 
 >[!NOTE]
 >

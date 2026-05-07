@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359545
-description: A/B テストの勝者条件を定義する方法を説明します。 テストに成功するバリアントを決定する指標としきい値を設定します。
+description: A/B テストの勝者の基準を定義する方法を説明します。 テストに勝利するバリエーションを決定する指標と閾値を設定します。
 title: A/B テストの勝者条件の定義
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '442'
-ht-degree: 91%
+source-wordcount: '462'
+ht-degree: 89%
 
 ---
 
 # A/B テストの勝者条件の定義 {#define-the-a-b-test-winner-criteria}
 
-メールプログラムに [A/B テストを追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}する際に、[A/B テストのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}テストタイプを選択し、勝者の条件を定義する必要があります。どのメールが優先されるかを決定する方法を次に示します。
+メールプログラムに [A/B テストを追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}する際に、[A/B テストのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}テストタイプを選択し、勝者の条件を定義する必要があります。 どのメールが優先されるかを決定する方法を次に示します。
 
 >[!PREREQUISITES]
 >
@@ -28,7 +28,7 @@ ht-degree: 91%
    <table>
    <tr>
    <td><b>[!UICONTROL 開封数]</b></td>
-   <td>メールに画像がダウンロードされると、開封が登録されます。画像を含めていなくても、デフォルトで Marketo がすべての HTML メールに 1 つのトラッキングピクセルを挿入します。</td>
+   <td>メールに画像がダウンロードされると、開封が登録されます。 画像を含めていなくても、デフォルトで Marketo がすべての HTML メールに 1 つのトラッキングピクセルを挿入します。</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL クリック数]</b></td>
@@ -36,7 +36,7 @@ ht-degree: 91%
    </tr>
    <tr>
    <td><b>[!UICONTROL クリック/開封率] %</b></td>
-   <td>開封され、メール内のリンクがクリックされたメールの割合。これは、ユニーククリック数をユニーク開封数で割り、100 倍してパーセンテージとして表示することで、メールの関連性とコンテキストを測定します。</td>
+   <td>開封され、メール内のリンクがクリックされたメールの割合。 これは、ユニーククリック数をユニーク開封数で割り、100 倍してパーセンテージとして表示することで、メールの関連性とコンテキストを測定します。</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL エンゲージメントスコア]</b></td>
@@ -46,7 +46,7 @@ ht-degree: 91%
 
    >[!TIP]
    >
-   >「エンゲージメントスコア」を選択した場合、テストは 24 時間以上実行する必要があります。[エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}について学びます。
+   >「エンゲージメントスコア」を選択した場合、テストは 24 時間以上実行する必要があります。 [エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}について学びます。
 
 1. また、「**[!UICONTROL カスタムコンバージョン]**」を選択して「**[!UICONTROL 編集]**」をクリックすることで、条件をカスタマイズすることもできます。
 
@@ -66,11 +66,11 @@ ht-degree: 91%
 
    >[!IMPORTANT]
    >
-   >Marketo では、このメールプログラムからメールが送信された人物に対してのみトリガー／フィルターが許可されるので、「メールが送信されました」フィルターを追加する必要はありません。さらに、メール関連のトリガー／フィルターを使用する場合は、演算子として「が次のいずれかである」が使用されます。
+   >Marketo では、このメールプログラムからメールが送信された人物に対してのみトリガー／フィルターが許可されるので、「メールが送信されました」フィルターを追加する必要はありません。 さらに、メール関連のトリガー／フィルターを使用する場合は、演算子として「が次のいずれかである」が使用されます。
 
-1. 開いた新しいウィンドウ（またはタブ）を閉じます。 スマート・リストは自動保存されます。
+1. 開いた新しいウィンドウ（またはタブ）を閉じます。 スマートリストが自動的に保存されます。
 
-次に、勝者の決定方法を決めます。
+今は勝者がどのように決まるかを決める時です。
 
 ## 勝者の発表 {#declare-winner}
 
@@ -84,12 +84,12 @@ ht-degree: 91%
 
    A/B テストが終了すると、スケジュールされた時刻に勝者のメールが自動的に送信されるようにできます。または、結果を確認して、どのメールを送信するかを決定できます。
 
-1. 「自動」はすばらしいもので、デフォルトのオプションになっています。「**[!UICONTROL 次へ]**」をクリックします。
+1. 「自動」はすばらしいもので、デフォルトのオプションになっています。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/define-the-a-b-test-winner-criteria-6.png)
 
    >[!TIP]
    >
-   >「**[!UICONTROL 手動]**」を選択すると、テストが送信され、勝者の発表を待機します。結果のレポートが届きます。
+   >「**[!UICONTROL 手動]**」を選択すると、テストが送信され、勝者の発表を待機します。 結果のレポートが届きます。
 
 次に、[A/B テストをスケジュール](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}します。

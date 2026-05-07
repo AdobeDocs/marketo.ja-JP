@@ -1,14 +1,14 @@
 ---
-description: insight Actions からMarketo マーケティングキャンペーンに連絡先を追加する方法を説明します。 連絡先を選択してキャンペーンに追加します。
+description: Sales Insight ActionsからMarketo マーケティングキャンペーンに連絡先を追加する方法を説明します。 連絡先を選択してキャンペーンに追加します。
 title: マーケティングキャンペーンへの追加
 hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '334'
-ht-degree: 93%
+source-wordcount: '340'
+ht-degree: 81%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 93%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、取引先責任者をさらに追加することもできます。選択する場合は、「[!UICONTROL 個人]」をクリックして入力します。終了したら「**[!UICONTROL 次へ]**」をクリックします。
+1. マーケティングキャンペーンに追加する場合は、「送信元」アドレスの選択をスキップします。 ただし、取引先責任者をさらに追加することもできます。 選択する場合は、「[!UICONTROL 個人]」をクリックして入力します。 終了したら「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/add-to-marketing-campaign-5.png)
 
@@ -60,7 +60,7 @@ PICC
 
 PICC
 
-1. 資格のある取引先責任者が表示されます。「**[!UICONTROL 開始]**」をクリックして追加します。
+1. 選定した連絡先が表示されます。 「**[!UICONTROL 開始]**」をクリックして追加します。
 
 PICC
 
@@ -78,7 +78,7 @@ PICC
 
 PICC
 
-1. マーケティングキャンペーンに追加するので、「送信者」アドレスの選択はスキップしてください。ただし、取引先責任者をさらに追加することもできます。選択する場合は、「[!UICONTROL 個人]」をクリックして入力します。終了したら「**[!UICONTROL 次へ]**」をクリックします。
+1. マーケティングキャンペーンに追加する場合は、「送信元」アドレスの選択をスキップします。 ただし、取引先責任者をさらに追加することもできます。 選択する場合は、「[!UICONTROL 個人]」をクリックして入力します。 終了したら「**[!UICONTROL 次へ]**」をクリックします。
 
 PICC
 
@@ -88,7 +88,7 @@ PICC
 
 >[!NOTE]
 >
->[!DNL Sales Connect] から Marketo キャンペーンに人物を追加するには、[!DNL Sales Connect] にその人物の Marketo リード ID が必要です。
+>[!DNL Sales Connect] から Marketo キャンペーンに人物を追加するには、[!DNL Sales Connect] に人物の Marketo リード ID が必要です。
 
 1. ワークスペースドロップダウンをクリックし、グループを追加するキャンペーンが含まれているワークスペースを選択します。
 
@@ -102,6 +102,6 @@ PICC
 
 PICC
 
-1. 資格のある取引先責任者が表示されます。「**[!UICONTROL 開始]**」をクリックして追加します。
+1. 選定した連絡先が表示されます。 「**[!UICONTROL 開始]**」をクリックして追加します。
 
 PICC

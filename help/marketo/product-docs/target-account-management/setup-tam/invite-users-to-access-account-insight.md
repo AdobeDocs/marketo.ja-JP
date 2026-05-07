@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980105
-description: アカウントのInsightにアクセスするようユーザーを招待する方法を説明します。 CRM または電子メールで招待し、「営業ユーザー」タブからアカウントのInsightのアクセス権を付与します。
+description: Account Insightにアクセスするようにユーザーを招待する方法について説明します。 CRMまたは電子メールで招待し、「Sales Users」タブからAccount Insightへのアクセス権を付与します。
 title: '[!UICONTROL 顧客インサイト]にアクセスするユーザを招待'
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 87%
+source-wordcount: '188'
+ht-degree: 83%
 
 ---
 

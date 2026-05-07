@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512979
-description: Salesforceの「Marketo」タブでのリードフィードの使用方法について説明します。 フィードでのリアルタイムのリードアクティビティとエンゲージメントを参照してください。
+description: Salesforceの「Marketo」タブでリードフィードを使用する方法を説明します。 フィードでリアルタイムのリードのアクティビティとエンゲージメントを確認できます。
 title: リードフィードの使用
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 93%
+source-wordcount: '351'
+ht-degree: 79%
 
 ---
 
 # リードフィードの使用 {#using-the-lead-feed}
 
-リードフィードは、リードが行った注目のイベントに関する最新リストです。「Marketo」タブをクリックすると、右側に表示されます。RSS または [!DNL Twitter] のフィードにも似ており、最新の更新情報がリストのトップに表示されます。このリストを使って、記憶が新しいうちにリードにアクセスしましょう。
+リードフィードは、リードが行った注目のイベントに関する最新リストです。 「Marketo」タブをクリックすると、右側に表示されます。 これはRSS フィードまたは[!DNL Twitter] フィードのようなものです。最新の更新はリストの上部にあります。 この手法を使用すれば、リードの記憶に新しい段階でリードを獲得できます。
 
 >[!NOTE]
 >
@@ -72,7 +72,7 @@ ht-degree: 93%
 
 ## RSS の更新情報の取得 {#getting-rss-updates}
 
-RSS フィードによるリードフィードの更新も取得できます。RSS フィードを使用すると、[!DNL Salesforce] に接続していない場合でも、リードの更新を受け取ることができます。フィードには、[!DNL Salesforce] のリードフィードと同じ情報と、それに加えて次の情報が含まれます（使用可能な場合）。
+RSS フィードによるリードフィードの更新も取得できます。  RSS フィードを使用すると、[!DNL Salesforce]に接続していない場合でも、リードに関する最新情報を受け取ることができます。 フィードには、[!DNL Salesforce] のリードフィードと同じ情報と、それに加えて次の情報が含まれます（使用可能な場合）。
 
 * メールアドレス
 * 電話番号
@@ -85,8 +85,8 @@ RSS フィードによるリードフィードの更新も取得できます。R
 >
 >この機能を使用するには、自社の Marketo 管理者が [RSS フィードを有効にする](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)必要があります。
 
-RSS の更新情報を取得するには、RSS リンクと RSS フィードリーダーの 2 つが必要です。RSS を取得するには、リードフィードで RSS アイコンをクリックします。
+RSS の更新情報を取得するには、RSS リンクと RSS フィードリーダーの 2 つが必要です。 RSS を取得するには、リードフィードで RSS アイコンをクリックします。
 
 ![](assets/using-the-lead-feed-3.png)
 
-RSS フィードが新しいウィンドウに表示されます。RSS フィードの URL をコピーして、RSS リーダーで使用します。たいていのブラウザーには RSS リーダーが組み込まれていますし、プラットフォームごとに固有の RSS リーダーを使用することもできます。
+RSS フィードが新しいウィンドウに表示されます。 RSS フィードの URL をコピーして、RSS リーダーで使用します。 たいていのブラウザーには RSS リーダーが組み込まれていますし、プラットフォームごとに固有の RSS リーダーを使用することもできます。

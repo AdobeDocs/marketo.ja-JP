@@ -1,25 +1,25 @@
 ---
 unique-page-id: 557326
-description: リストまたはスマート リストでクイック検索を使用する方法を説明します。 リスト内の名前またはメールで特定のユーザーを検索します。
+description: リストまたはスマートリストでクイック検索を使用する方法について説明します。 リスト内で特定のユーザーを名前または電子メールで検索します。
 title: リストまたはスマートリストでのクイック検索の使用
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 36%
+source-wordcount: '153'
+ht-degree: 35%
 
 ---
 
 # リストまたはスマートリストでのクイック検索の使用 {#use-quick-find-in-a-list-or-smart-list}
 
-クイック検索を使用して、リストまたはスマート・リストの結果からユーザーを検索します。
+リストまたはスマートリストの結果から、クイック検索を使用してユーザーを検索します。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities.png)
 
-1. 検索するスマート・リストを選択し、「**[!UICONTROL People]**」タブをクリックします。
+1. 検索するスマートリストを選択し、「**[!UICONTROL ユーザー]**」タブをクリックします。
 
    ![](assets/smartlistpeople.png)
 
@@ -33,7 +33,7 @@ ht-degree: 36%
 
 ## 会社名を使用して人物を検索する {#find-people-using-a-company-name}
 
-1. 会社を検索するには、[ クイック検索 ] ボックスに「`[company]`」と入力し、検索する会社名の任意の部分を入力します。
+1. 会社を検索するには、「クイック検索」ボックスに「`[company]`」と入力し、続いて探している会社名の任意の部分を入力します。
 
    ![](assets/supersmartlistsearch.jpg)
 

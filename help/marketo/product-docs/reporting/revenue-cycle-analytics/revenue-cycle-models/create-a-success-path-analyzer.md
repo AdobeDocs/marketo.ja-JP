@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360411
-description: 「成功パスアナライザーの作成」を使用して、Marketo Engageで成功パスアナライザーを作成する方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageでサクセスパスアナライザーを作成する方法について説明します。 このガイドを使用して、次のステップを完了してください。
 title: 成功パス分析の作成
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 87%
+source-wordcount: '202'
+ht-degree: 77%
 
 ---
 
@@ -29,9 +29,9 @@ ht-degree: 87%
 
    >[!NOTE]
    >
-   >指定した時間枠内にデータが見つからなかったという警告が表示された場合は、「**[!UICONTROL 閉じる]**」をクリックして、時間枠を変更します。プロンプトが表示されない場合は&#x200B;**[!UICONTROL 設定]**&#x200B;に移動して、「**[!UICONTROL 時間枠]**」をダブルクリックします。
+   >指定した時間枠内にデータが見つからなかったという警告が表示された場合は、「**[!UICONTROL 閉じる]**」をクリックして、時間枠を変更します。 プロンプトが表示されない場合は&#x200B;**[!UICONTROL 設定]**&#x200B;に移動して、「**[!UICONTROL 時間枠]**」をダブルクリックします。
 
-1. データがない場合や、時間枠を変更する場合は、ドロップダウンからいずれかを選択して、「**[!UICONTROL 保存]**」をクリックします。
+1. データがない場合、または時間枠を変更する場合は、ドロップダウンから1つを選択し、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
    ![](assets/timeframe.png)
 
@@ -55,7 +55,7 @@ ht-degree: 87%
 
 >[!TIP]
 >
->レポートを保存するには、**[!UICONTROL アナライザアクション]**&#x200B;ドロップダウンをクリックし、「**[!UICONTROL 別名で保存]**」を選択します。
+>レポートを保存するには、 **[!UICONTROL アナライザアクション]**&#x200B;ドロップダウンをクリックし、「**[!UICONTROL 別名で保存]**」を選択します。
 
 >[!MORELIKETHIS]
 >

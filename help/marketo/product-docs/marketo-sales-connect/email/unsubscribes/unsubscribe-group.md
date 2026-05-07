@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746167
-description: Sales Connect の登録解除グループについて説明します。 グループ別に購読解除を整理し、どのキャンペーンがどのオプトアウトを尊重するかを制御します。
+description: セールスコネクトの購読解除グループについて説明します。 購読解除をグループごとに整理し、どのキャンペーンがどのオプトアウトを尊重するかを制御します。
 title: 登録解除グループ
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 76%
+source-wordcount: '74'
+ht-degree: 33%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 76%
 
 ![](assets/2_c3.png)
 
-管理者は、登録解除グループに移動して、「[!UICONTROL アカウント登録解除]」でフィルタリングし、ユーザデータベースで収集された登録解除をすべて表示できます。
+管理者の場合は、購読解除グループに移動して、[!UICONTROL  アカウント購読解除]でフィルタリングし、人物データベースで収集されたすべての購読解除を確認できます。
 
 ![](assets/3_c3.png)

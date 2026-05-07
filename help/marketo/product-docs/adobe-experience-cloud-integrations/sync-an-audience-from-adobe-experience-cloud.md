@@ -1,12 +1,12 @@
 ---
-description: Adobe Experience CloudのオーディエンスをMarketo Engageに同期する方法を説明します。 オーディエンスライブラリからオーディエンスをMarketo データベースに取り込み、キャンペーンやプログラムで使用します。
+description: Adobe Experience CloudからMarketo Engageにオーディエンスを同期する方法について説明します。 オーディエンスライブラリからオーディエンスをMarketoデータベースに取り込み、キャンペーンやプログラムで使用できます。
 title: Adobe Experience Cloud からのオーディエンスの同期
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 59%
+source-wordcount: '294'
+ht-degree: 52%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 59%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. 宛先については、既存のリストを選択するか、新しいリストの名前を入力できます。この例では、新しいタグを作成します。 終了したら「**[!UICONTROL 同期]**」をクリックします。
+1. 宛先については、既存のリストを選択するか、新しいリストの名前を入力できます。 この例では、新しいリストが作成されています。 終了したら「**[!UICONTROL 同期]**」をクリックします。
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -50,14 +50,14 @@ ht-degree: 59%
 
 **Cookie の同期は、どのよう仕組みなのですか？**
 
-Marketo サブスクリプションで cookie 同期が有効な場合、Marketo munchkin.js は、統合設定時に指定したAdobe IMS組織のAdobe ECID を取得して保存し、これらの ECID を対応するMarketo Cookie ID に一致させようとします。 これにより、Marketo の匿名ユーザプロファイルを Adobe ECID で強化できます。
+Marketo サブスクリプションでcookie syncが有効になっている場合、Marketoのmunchkin.jsは、統合の設定中に指定したAdobe IMS組織のAdobe ECIDを取得して保存し、これらのECIDを対応するMarketo Cookie IDと照合しようとします。 これにより、Marketo の匿名ユーザプロファイルを Adobe ECID で強化できます。
 
-匿名のユーザープロファイルをリードプロファイルに関連付け、プレーンテキストのメールで識別するには、さらに手順を進める必要があります。 この機能の正確な仕組みは、[こちらで説明しています](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}。
+匿名ユーザープロファイルをリードプロファイルに関連付けるには、さらに手順が必要です。このプロファイルは、プレーンテキストメールを使用して識別されます。 この機能の正確な仕組みは、[こちらで説明しています](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}。
 
 **Marketo のリストサイズがアドビのリストサイズと異なるのはなぜですか？**
 
-Marketo の既知のユーザに ECID Cookie ID を関連付けることができない場合、ユーザも同期されません。
+また、ECID Cookie IDをMarketoの既知のユーザーに関連付けられない場合、ユーザーは同期しません。
 
 **これは 1 回限りの同期ですか？**
 
-同期を開始する必要があるのは 1 回だけです。その後、レコードは自動的に同期されます。最初の同期には最大 24 時間かかることがあります。今後、新しいレコードは 2～3 時間で同期されます。
+同期を開始する必要があるのは 1 回だけです。 その後、レコードは自動的に同期されます。 最初の同期には最大24時間かかります。今後、新しいレコードは2～3時間で同期されます。

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359455
-description: メールプログラムをスケジュールする方法を説明します。 配信の日時を設定し、オプションで受信者のタイムゾーンを使用します。
+description: メールプログラムのスケジュール方法を説明します。 配信の日時を設定し、オプションで受信者タイムゾーンを使用します。
 title: メールプログラムのスケジュールを設定する
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 86%
+source-wordcount: '149'
+ht-degree: 75%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 86%
 >
 >* [既存のメールを選択する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)または[新規メールを作成する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-メールプログラムを作成してオーディエンスを定義し、メールを選択したら、プログラムに&#x200B;*いつ*&#x200B;メールを送信するかを伝える必要があります。手順は以下のとおりです。
+メールプログラムを作成してオーディエンスを定義し、メールを選択したら、プログラムに&#x200B;*いつ*&#x200B;メールを送信するかを伝える必要があります。 手順は以下のとおりです。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -42,7 +42,7 @@ ht-degree: 86%
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   簡単ですね。あとは[メールプログラムを承認](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)するだけです。さっそく挑戦してみましょう。
+   簡単ですね。 残っているのは[ メールプログラムの承認](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)のみです。よろしくお願いします。
 
 >[!MORELIKETHIS]
 >

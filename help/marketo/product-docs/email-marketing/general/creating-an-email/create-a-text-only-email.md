@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900556
-description: Marketoでテキストのみのメールを作成する方法を説明します。 プレーンテキストキャンペーンの場合やフォールバックとしてテキストバージョンを使用します。
+description: Marketoでテキストのみのメールを作成する方法を説明します。 プレーンテキストキャンペーンまたはフォールバックとして、テキストバージョンを使用します。
 title: テキストのみのメールを作成する
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 89%
+source-wordcount: '203'
+ht-degree: 77%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 89%
 >
 >開封は、メールの画像（非表示のトラッキングピクセルを含む）をダウンロードする受信者によって追跡されるため、テキストのみのメールでは開封を追跡&#x200B;**できません**。
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」エリアに移動します。
+1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
 
    ![](assets/one-1.png)
 
@@ -45,11 +45,11 @@ ht-degree: 89%
 
    >[!CAUTION]
    >
-   >リンクは、テキストのみのメールでは自動的には追跡されません。「[テキストメールにトラッキングリンクを追加する](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)」を参照してください。
+   >リンクは、テキストのみのメールでは自動的には追跡されません。 「[テキストメールにトラッキングリンクを追加する](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md)」を参照してください。
 
    >[!TIP]
    >
-   >既存のメールについても、編集してこの設定を変更できます。ドラフトの承認を忘れないようにしてください。
+   >既存のメールについても、編集してこの設定を変更できます。 ドラフトの承認を忘れないようにしてください。
 
 1. 「**[!UICONTROL HTML からの自動コピー]**」のチェックを外します。
 
@@ -57,7 +57,7 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >メールの HTML セクションに追加されたコンテンツは、送信時にすべて無視されます。
+   >メールのHTML セクションに追加されたコンテンツは、送信時に無視されます。
 
 1. テキストエリアをダブルクリックします。
 
@@ -67,4 +67,4 @@ ht-degree: 89%
 
    ![](assets/nine.png)
 
-これだけです。
+それくらい簡単です。

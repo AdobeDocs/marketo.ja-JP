@@ -1,10 +1,10 @@
 ---
-description: 後で配信するために営業メールをスケジュールする方法を説明します。 Sales Insightのアクションまたはインボックスで作成する日時を設定します。
+description: 後で配信できるようにセールスメールをスケジュールする方法を説明します。 Sales Insight Actionsまたは受信トレイでコンポジションを作成する日時を設定します。
 title: メールのスケジュール設定
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 84%
+source-wordcount: '148'
+ht-degree: 75%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 84%
 
    ![](assets/scheduling-an-email-1.png)
 
-1. メールの作成が完了したら、右下の「**スケジュール**」をクリックします。
+1. メールの作成が完了したら、右下の「**スケジュール**」をクリックします
 
    ![](assets/scheduling-an-email-2.png)
 
@@ -28,7 +28,7 @@ ht-degree: 84%
 
    ![](assets/scheduling-an-email-3.png)
 
-1. メールを送信する時間を入力します。目的のタイムゾーンを選択し、「**保存**」をクリックします。完了したら、スケジューラーを閉じます。
+1. メールを送信する時間を入力します。 目的のタイムゾーンを選択し、「**保存**」をクリックします。 完了したら、スケジューラーを閉じます。
 
    ![](assets/scheduling-an-email-4.png)
 

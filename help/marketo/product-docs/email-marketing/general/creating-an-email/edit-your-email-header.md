@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359453
-description: メールヘッダーを（名前から、メールから、返信先、件名から）編集する方法について説明します。 メールエディターでヘッダーフィールドを設定します。
+description: メールヘッダー（名前、メール、返信先、件名）を編集する方法について説明します。 メールエディターでヘッダーフィールドを設定します。
 title: メールヘッダーの編集
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 90%
+source-wordcount: '213'
+ht-degree: 78%
 
 ---
 
 # メールヘッダーの編集 {#edit-your-email-header}
 
-Marketo のメールヘッダーは完全にカスタマイズ可能です。これは、次の 4 つのフィールドで構成されます。
+Marketo のメールヘッダーは完全にカスタマイズ可能です。 これは、次の 4 つのフィールドで構成されます。
 
 * **[!UICONTROL 送信者]** - 表示する送信者の名前
 * **[!UICONTROL 送信者アドレス]** — 表示する送信者のメールアドレス
@@ -36,7 +36,7 @@ Marketo のメールヘッダーは完全にカスタマイズ可能です。こ
 
 ![](assets/three-2.png)
 
-「[!UICONTROL 送信者アドレス]」フィールドの右端にあるキーアイコンを使用すると、カスタム DKIM 署名を使用しているかどうかを確認できます。
+「[!UICONTROL 送信元アドレス ]」フィールドの右端にあるキーアイコンを使用すると、カスタム DKIM署名を使用しているかどうかを確認できます。
 
 ![](assets/four-2.png)
 

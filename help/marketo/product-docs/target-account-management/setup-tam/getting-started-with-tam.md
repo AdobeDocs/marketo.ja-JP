@@ -1,29 +1,29 @@
 ---
 unique-page-id: 12255457
-description: インスタンスに追加した後に TAM を使い始める方法を説明します。 権限の設定、アカウントスコアの設定、名前付きアカウントの作成などの手順に従います。
+description: TAMをインスタンスに追加した後で使用を開始する方法について説明します。 権限の設定、アカウントスコアの設定、名前付きアカウントの作成など、次の手順に従います。
 title: TAM の概要
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 91%
+source-wordcount: '305'
+ht-degree: 85%
 
 ---
 
 # TAM の概要 {#getting-started-with-tam}
 
-Marketo Engage TAM をインスタンスに追加したら、完了です。次に何をする必要があるかを見てみましょう。
+Marketo Engage TAM をインスタンスに追加したら、 完了です。 次に何をする必要があるかを見てみましょう。
 
 **手順 1：[ライセンスを発行する](/help/marketo/product-docs/target-account-management/setup-tam/issue-a-license.md){target="_blank"}** — チームで TAM を使用するユーザーを決定します。
 
 **手順 2：[権限](/help/marketo/product-docs/target-account-management/setup-tam/permissions.md){target="_blank"}**&#x200B;を設定する — 特定のユーザーに TAM の特定のアクセスを割り当てるか、単に完全な TAM アクセス権を付与します。
 
-**手順 3：[アカウントスコア](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md){target="_blank"}**&#x200B;を設定する — アカウントスコアは、ターゲットアカウント管理の主要な要素の 1 つです。各アカウントのエンゲージメントレベルを判断するのに役立ちます。
+**手順 3：[アカウントスコア](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md){target="_blank"}**&#x200B;を設定する — アカウントスコアは、ターゲットアカウント管理の主要な要素の 1 つです。 各アカウントのエンゲージメントレベルを判断するのに役立ちます。
 
 **手順 4： [CRM 探索用のカスタムフィールドを作成する](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md){target="_blank"}** — 既存の CRM アカウントフィールドを新しい名前付きアカウントカスタムフィールドにマップします（CRM を使用しない場合は、この手順をスキップします）。
 
-**手順 5：** **_名前付きアカウントを作成する_** — 名前付きアカウントは、ターゲットとする会社の人を保持します。名前付きアカウントを作成する方法は 4 つあります。
+**手順5:** **_名前付きアカウントの作成_** – 名前付きアカウントには、ターゲット企業のユーザーが含まれます。 名前付きアカウントを作成する方法は 4 つあります。
 
 * [名前付きアカウントをインポートする](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md){target="_blank"} — 潜在的なターゲットアカウントのリストを TAM に直接アップロードします（CRM からエクスポートしたリストも可能）。
 * [CRM アカウントを検出する](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts){target="_blank"} - Marketo に同期されたすべての CRM アカウントのリストを表示し、主要な属性（業種）を使用してフィルターを適用して、名前付きアカウントを作成します。

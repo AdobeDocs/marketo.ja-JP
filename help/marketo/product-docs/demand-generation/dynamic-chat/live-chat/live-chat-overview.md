@@ -1,12 +1,12 @@
 ---
-description: 訪問者とセールスエージェント間のリアルタイム会話のためのライブチャットについて説明します。 ライブチャットエージェントを追加し、ライブチャットカードを使用し、ルーティングオプションを設定します。
+description: 訪問者と営業担当者のリアルタイムの会話を可能にするライブチャットの詳細をご確認ください。 ライブチャットエージェントを追加し、ライブチャットカードを使用して、ルーティングオプションを設定します。
 title: ライブチャットの概要
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '860'
-ht-degree: 97%
+source-wordcount: '914'
+ht-degree: 87%
 
 ---
 
@@ -16,17 +16,17 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->Dynamic Chat 選択パッケージの場合、ライブチャットは、100 エンゲージメントの有効制限がある体験版の機能です。この制限に達すると、ライブエージェントとのチャットをリクエストした訪問者は接続されず、代わりにグローバルフォールバックメッセージを受信します。制限を増やすには、アドビアカウント担当者に連絡して、パッケージのアップグレードオプションについてお問い合わせください。
+>Dynamic Chat 選択パッケージの場合、ライブチャットは、100 エンゲージメントの有効制限がある体験版の機能です。 この制限に達すると、ライブエージェントとのチャットをリクエストした訪問者は接続されず、代わりにグローバルフォールバックメッセージを受信します。 制限を増やすには、アドビアカウント担当者に連絡して、パッケージのアップグレードオプションについてお問い合わせください。
 
 ## ライブチャットエージェントの追加 {#add-live-chat-agents}
 
-ライブチャットを開始するには、ライブチャットエージェントを [Adobe Admin Console のユーザ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}として追加し、[ライブチャット権限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}を付与する必要があります。この処理が完了したら、[ライブチャットカード](#using-the-live-chat-card)を新規または既存のダイアログに追加します。
+ライブチャットを開始するには、ライブチャットエージェントを [Adobe Admin Console のユーザ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"}として追加し、[ライブチャット権限](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}を付与する必要があります。 この処理が完了したら、[ライブチャットカード](#using-the-live-chat-card)を新規または既存のダイアログに追加します。
 
-訪問者がダイアログを通じてエージェントとのチャットをリクエストすると、エージェントには複数の[通知オプション](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}が表示されます。通知をクリックすると、[エージェントのインボックス](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}に移動し、訪問者とのチャットを開始できます。
+訪問者がダイアログを通じてエージェントとのチャットをリクエストすると、エージェントには複数の[通知オプション](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}が表示されます。 通知をクリックすると、[エージェントのインボックス](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}に移動し、訪問者とのチャットを開始できます。
 
 >[!NOTE]
 >
->ライブエージェントのアバターは、エージェントのアドビアカウントプロファイルのプロファイル画像を使用します。画像を更新するには、[以下の手順](https://helpx.adobe.com/jp/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}に従います。
+>ライブエージェントのアバターは、エージェントのアドビアカウントプロファイルのプロファイル画像を使用します。 画像を更新するには、[以下の手順](https://helpx.adobe.com/jp/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}に従います。
 
 ## ライブチャットカードの使用 {#using-the-live-chat-card}
 
@@ -36,16 +36,16 @@ ht-degree: 97%
 
 >[!IMPORTANT]
 >
->ライブチャットカードは、常にブランチの最後のカードである必要があります。カードがブランチ内のランダムなポイントに配置されている場合、突然エージェントに接続されて訪問者を驚かせる可能性があります。
+>ライブチャットカードは、常にブランチの最後のカードである必要があります。 カードがブランチ内のランダムなポイントに配置されている場合、突然エージェントに接続されて訪問者を驚かせる可能性があります。
 
 ### ベストプラクティス {#best-practices}
 
 * ライブチャットカードの前に質問カードを使用して、訪問者に接続を希望するかどうかを尋ねます。
-* 訪問者が接続に同意したら、情報取得カードを使用して、氏名、メールアドレス、役職などの情報を収集します（少なくとも名前とメールアドレスをリクエストすることをお勧めします）。
+* 訪問者が接続することに同意した後、情報キャプチャカードを使用して、氏名、メールアドレス、役職などの情報を収集します（少なくとも名前とメールアドレスをリクエストすることをお勧めします）。
 
 ## ライブチャットカードのオプション {#live-chat-card-options}
 
-ストリーム内のライブチャットカードをクリックすると、訪問者のルーティング方法を選択できます。ラウンドロビン、エージェント、カスタムルールまたはチームから選択します。
+ストリーム内のライブチャットカードをクリックすると、訪問者のルーティング方法を選択できます。 ラウンドロビン、エージェント、カスタムルールまたはチームから選択します。
 
 ![](assets/live-chat-overview-2.png)
 
@@ -61,11 +61,11 @@ ht-degree: 97%
   </tr>
     <tr>
    <td><b>カスタムルール</b></td>
-   <td>訪問者のルーティング先を検討する際には、すべてのカスタムルールがサイクルスルーされます。訪問者がカスタムルールに該当しない場合は、<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">ライブチャットのフォールバックメッセージ</a>が表示されます。</td>
+   <td>訪問者のルーティング先を検討する際には、すべてのカスタムルールがサイクルスルーされます。 訪問者がカスタムルールに該当しない場合は、<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">ライブチャットのフォールバックメッセージ</a>が表示されます。</td>
   </tr>
   <tr>
    <td><b>チーム</b></td>
-   <td>チャットを受信する特定のチームを選択します。このオプションを選択すると、そのチーム内でラウンドロビンで割り当てられます。</td>
+   <td>チャットを受信する特定のチームを選択します。 このオプションを選択すると、そのチーム内でラウンドロビンで割り当てられます。</td>
   </tr>
  </tbody>
 </table>
@@ -78,19 +78,19 @@ ht-degree: 97%
 
 ### 通知を有効にする {#enabling-notifications}
 
-ライブチャットエージェントには、ログイン時に画面の上部に「ライブチャット通知を受信するには、ブラウザー通知を有効にしてください」というバナーが表示されます。「**有効にする**」をクリックします。
+ライブチャットエージェントには、ログイン時に画面の上部に「ライブチャット通知を受信するには、ブラウザー通知を有効にしてください」というバナーが表示されます。 「**有効にする**」をクリックします。
 
 ![](assets/live-chat-overview-4.png)
 
-ライブチャットエージェントには、ブラウザーに通知の表示を求めるプロンプトが表示されます。「**許可**」をクリックします。
+ライブチャットエージェントには、ブラウザーに通知の表示を求めるプロンプトが表示されます。 「**許可**」をクリックします。
 
 ![](assets/live-chat-overview-5.png)
 
 エージェントがブラウザーで許可した後もブラウザー通知を受信しない場合は、OS の通知設定でブラウザーの通知を有効にする必要がある場合があります。
 
-[Mac の手順](https://support.apple.com/ja-jp/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+[Macの手順](https://support.apple.com/ja-jp/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
-[Windows の手順](https://support.microsoft.com/ja-jp/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+[Windowsの手順](https://support.microsoft.com/ja-jp/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
 ### ライブチャットがエージェントにルーティングされる場合 {#when-a-live-chat-is-routed-to-an-agent}
 
@@ -100,7 +100,7 @@ ht-degree: 97%
 
 >[!TIP]
 >
->また、Dynamic Chat にログインしていない場合にアラートが届くようにブラウザー通知を設定するオプションもあります。
+>また、Dynamic Chatにログインしていない場合に備えて、ブラウザー通知を設定することもできます。
 >
 >* [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=ja&co=GENIE.Platform%3DDesktop){target="_blank"} でブラウザー通知を有効にする
 >* [Mozilla Firefox](https://support.mozilla.org/ja-JP/kb/push-notifications-firefox){target="_blank"} でブラウザー通知を有効にする
@@ -113,12 +113,12 @@ ht-degree: 97%
 
 ### 注意事項 {#things-to-note}
 
-* エージェントは、「チャットを承認」メッセージがタイムアウトになるまでに 100 秒以内に応答する必要があります。その後、訪問者は[フォールバックメッセージ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}を受け取ります。ルーティングオプションが&#x200B;**チーム**&#x200B;に設定にされている Dynamic Chat Prime サブスクライバーの場合、フォールバックメッセージが表示される前に、もう 1 人のエージェントに対して試行されます。
+* エージェントは、「チャットを承認」メッセージがタイムアウトになるまでに 100 秒以内に応答する必要があります。 その後、訪問者は[フォールバックメッセージ](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}を受け取ります。 ルーティングオプションが&#x200B;**チーム**&#x200B;に設定にされている Dynamic Chat Prime サブスクライバーの場合、フォールバックメッセージが表示される前に、もう 1 人のエージェントに対して試行されます。
 * 現時点では、エージェントあたりのライブチャット数は 10 に制限されています。
-* エージェントインボックスはライブチャットの会話用です。チャットがエージェントによって承認されない場合、、ライブチャットとしてみなされないので、エージェントインボックスには表示されません。
-* 「会話」タブには、ライブチャットと自動チャットの両方のすべての会話が表示されます。したがって、会話がエージェントによって承認されない場合、それは「会話」タブに表示されます。リアルタイムではないので、「会話」タブには最長で 24 時間の遅延があります。ただし、エージェントインボックスはリアルタイムです。
+* エージェントインボックスはライブチャットの会話用です。 チャットがエージェントによって承認されない場合、、ライブチャットとしてみなされないので、エージェントインボックスには表示されません。
+* 「会話」タブには、ライブチャットと自動チャットの両方のすべての会話が表示されます。 したがって、会話がエージェントによって承認されない場合、それは「会話」タブに表示されます。 「会話」タブでは、リアルタイムではないため、最大24時間の遅延が発生します。 ただし、エージェントインボックスはリアルタイムです。
 * （エージェントまたは訪問者による）チャットアクティビティが 10 分間ない場合、チャットはタイムアウトします。
-* エージェントがライブチャット&#x200B;_中_&#x200B;に（account.adobe.com 内で）プロファイル画像を変更すると、チャットが終了するまで、訪問者には古い画像が表示されます。訪問者が次回のチャットでエージェントを取得すると、新しい画像が表示されます。
+* エージェントがライブチャット&#x200B;_中_&#x200B;に（account.adobe.com 内で）プロファイル画像を変更すると、チャットが終了するまで、訪問者には古い画像が表示されます。 訪問者が次回のチャットでエージェントを取得すると、新しい画像が表示されます。
 
 >[!MORELIKETHIS]
 >

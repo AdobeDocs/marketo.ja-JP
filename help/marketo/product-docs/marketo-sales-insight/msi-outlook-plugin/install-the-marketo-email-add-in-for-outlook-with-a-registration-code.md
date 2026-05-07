@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949711
-description: 登録コードが記載された Outlook 用Marketo E メール アドインをインストールする方法を説明します。 登録コードを持つユーザー用のアドインを取得します。
+description: 登録コードを使用してOutlook用Marketo メールアドインをインストールする方法について説明します。 登録コードを持つユーザー向けのアドインを取得します。
 title: 登録コードを使用した  [!DNL Outlook]  用 Marketo メールアドインのインストール
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 95%
+source-wordcount: '639'
+ht-degree: 93%
 
 ---
 
@@ -23,11 +23,11 @@ ht-degree: 95%
 
 >[!IMPORTANT]
 >
->Windows ユーザーフォルダーに英語以外の文字が含まれている PC へのインストールはサポートされていません。このフォルダーは、Windows ユーザー名をもとに Windows が`<System Root>\Users\`に自動生成するもので、Windows ユーザー名が英語以外の名前の場合、英語以外の文字が含まれることがあります。インストールに関する問題が発生しているかどうかを IT チームに問い合わせて確認してください。
+>Windows ユーザーフォルダーに英語以外の文字が含まれている PC へのインストールはサポートされていません。 このフォルダーは、Windows ユーザー名をもとに Windows が`<System Root>\Users\`に自動生成するもので、Windows ユーザー名が英語以外の名前の場合、英語以外の文字が含まれることがあります。 インストールの問題が発生しているかどうかを確認するには、IT チームと協力してください。
 
 >[!NOTE]
 >
->セールスインサイトアクションの機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用のセールスインサイトメールプラグインでは使用できません。現時点では、ユーザは、セールスインサイトメールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
+>セールスインサイトアクションの機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用のセールスインサイトメールプラグインでは使用できません。 現時点では、ユーザは、セールスインサイトメールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
 
 ## インストーラーのダウンロード {#download-installer}
 
@@ -39,7 +39,7 @@ ht-degree: 95%
 
    >[!NOTE]
    >
-   >現時点では、以下のリンクは、[!DNL Microsoft Edge] または [!DNL Chrome] で右クリックした場合にのみ機能します。ご迷惑をおかけして申し訳ありません。
+   >現時点では、以下のリンクは、[!DNL Microsoft Edge] または [!DNL Chrome] で右クリックした場合にのみ機能します。 ご迷惑をおかけして申し訳ありません。
 
 <table><thead>
   <tr>
@@ -104,7 +104,7 @@ ht-degree: 95%
 
 >[!IMPORTANT]
 >
->Microsoft は、[Outlook for Windows の新しいバージョン &#x200B;](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}をリリースしました。この新しいバージョンは、既存の MSI Outlook プラグインをサポートしていません。MSI Outlook プラグインは、Outlook のクラシックバージョンを実行している Windows デスクトップで引き続き機能します。組織向けの新しい Outlook for Windows の詳細については、[こちらをクリック](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}してください。
+>Microsoft は、[Outlook for Windows の新しいバージョン ](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}をリリースしました。 この新しいバージョンは、既存の MSI Outlook プラグインをサポートしていません。 MSI Outlook プラグインは、Outlook のクラシックバージョンを実行している Windows デスクトップで引き続き機能します。 組織向けの新しい Outlook for Windows の詳細については、[こちらをクリック](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}してください。
 
 ## 登録コードをコピーする {#copy-your-registration-code}
 
@@ -124,7 +124,7 @@ ht-degree: 95%
 
    >[!NOTE]
    >
-   >セキュリティ警告が表示されても、問題はありません。「**実行**」をクリックしてください。
+   >セキュリティ警告が表示されても、問題はありません。 「**実行**」をクリックしてください。
 
 1. 「**[!UICONTROL 次へ]**」をクリックします。
 
@@ -136,7 +136,7 @@ ht-degree: 95%
 
    >[!TIP]
    >
-   >インストールに失敗した場合は、IT 担当者と相談し、HTTPS トラフィックがブロックされていないことを確認してください。インストーラーを実行するには HTTPS トラフィックが必要です。
+   >インストールに失敗した場合は、IT 担当者と相談し、HTTPS トラフィックがブロックされていないことを確認してください。 インストーラーを実行するには HTTPS トラフィックが必要です。
 
 1. 「**[!UICONTROL 次へ]**」をクリックして、デフォルトの場所にインストールします。
 
@@ -158,7 +158,7 @@ ht-degree: 95%
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 
-   これで完了です。これで、Marketo のボタンの位置が改善されました。
+   これで完了です。 これで、Marketo のボタンの位置が改善されました。
 
 Marketo アクションでのメッセージとログの使用について詳しくは、こちらを参照してください。
 

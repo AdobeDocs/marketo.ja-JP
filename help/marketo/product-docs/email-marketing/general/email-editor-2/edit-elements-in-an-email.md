@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1900558
-description: メールエディター 2.0 でメールの要素を編集する方法を説明します。メールレイアウトのテキスト、画像、その他のモジュールを変更します。
+description: メールエディター2.0でメール内の要素を編集する方法を説明します。 メールレイアウトのテキスト、画像、その他のモジュールを変更できます。
 title: メールの要素を編集する
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '512'
-ht-degree: 95%
+source-wordcount: '516'
+ht-degree: 87%
 
 ---
 
 # メールの要素を編集する {#edit-elements-in-an-email}
 
-メールには、リッチテキスト、画像、スニペット、ビデオの 4 つの異なる要素を含めることができます。それぞれの編集方法を次に示します。
+メールには、リッチテキスト、画像、スニペット、ビデオの 4 つの異なる要素を含めることができます。 それぞれの編集方法を次に示します。
 
 ## リッチテキスト要素の編集方法 {#how-to-edit-the-rich-text-element}
 
@@ -21,7 +21,7 @@ ht-degree: 95%
 
    ![](assets/one-edited.png)
 
-1. メールエディターが開きます。リッチテキストを選択し、歯車アイコンをクリックして、「**[!UICONTROL 編集]**」を選択します。
+1. メールエディターが開きます。 リッチテキストを選択し、歯車アイコンをクリックして、「**[!UICONTROL 編集]**」を選択します。
 
    ![](assets/two.png)
 
@@ -35,11 +35,11 @@ ht-degree: 95%
 
    >[!NOTE]
    >
-   >また、画像、トークン、テーブル、その他の要素を追加することもできます。「[リッチテキストエディターの使用](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)」を参照してください。
+   >また、画像、トークン、テーブル、その他の要素を追加することもできます。 「[リッチテキストエディターの使用](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)」を参照してください。
 
    >[!CAUTION]
    >
-   >Web サイトや Word ドキュメントなどのリッチテキストソースからテキストをコピー＆ペーストしないでください。代わりに、まず [!DNL Notepad]（Windows）や [!DNL TextEdit]（Mac）などのプレーンテキストエディターにリッチテキストを貼り付けます。「クリーン」になったら、プレーンテキストエディターからコピーしてメールに貼り付けることができます。
+   >Web サイトや Word ドキュメントなどのリッチテキストソースからテキストをコピー＆ペーストしないでください。 代わりに、まず [!DNL Notepad]（Windows）や [!DNL TextEdit]（Mac）などのプレーンテキストエディターにリッチテキストを貼り付けます。 「削除」したら、プレーンテキストエディターからコピーしてメールに貼り付けることができます。
 
 ## 画像要素の編集方法 {#how-to-edit-the-image-element}
 
@@ -59,15 +59,15 @@ ht-degree: 95%
 
    ![](assets/seven.png)
 
-   画像を挿入する方法は 3 つあります。1 つずつ見てみましょう。
+   画像を挿入する方法は 3 つあります。 1 つずつ見てみましょう。
 
    **外部 URL**
 
    >[!NOTE]
    >
-   >Marketo トークンを使用する場合は、このオプションを使用します。トークンを使用する場合、画像はエディターで壊れて表示されますが、プレビューモードと「サンプルメールを送信」ではレンダリングされます。
+   >Marketo トークンを使用する場合は、このオプションを使用します。 トークンを使用する場合、画像はエディターで壊れて表示されますが、プレビューモードと「サンプルメールを送信」ではレンダリングされます。
 
-   外部 URL を使用するには、まず画像の URL に貼り付けます。必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]を追加します（オプション）。次に、「**[!UICONTROL スワップ]**」を押します。
+   外部 URL を使用するには、まず画像の URL に貼り付けます。 必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]を追加します（オプション）。 次に、「**[!UICONTROL スワップ]**」を押します。
 
    ![](assets/eight.png)
 
@@ -87,7 +87,7 @@ ht-degree: 95%
 
    >[!NOTE]
    >
-   >画像を置き換える場合は、「**[!UICONTROL 既存の画像を上書き]**」ボックスが表示されます。
+   >画像を置き換える場合は、画像URL/名前の下に表示される「**[!UICONTROL 既存の画像を上書き]**」ボックスをオンにする必要があります。
 
    **Design Studio**
 
@@ -95,7 +95,7 @@ ht-degree: 95%
 
    ![](assets/twelve.png)
 
-   ...挿入します。必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]（オプション）を変更して、「**[!UICONTROL スワップ]**」を押します。
+   ...挿入します。 必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]（オプション）を変更して、「**[!UICONTROL スワップ]**」を押します。
 
    ![](assets/thirteen.png)
 
@@ -127,7 +127,7 @@ ht-degree: 95%
 
    ![](assets/twenty.png)
 
-1. [!DNL Vimeo] または YouTube からビデオの URL を貼り付けます。次に、プレビューを読み込む URL ボックスの外側をクリックします。必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]（オプション）を追加して、「**[!UICONTROL 挿入]**」を押します。
+1. [!DNL Vimeo] または YouTube からビデオの URL を貼り付けます。 次に、プレビューを読み込む URL ボックスの外側をクリックします。 必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]（オプション）を追加して、「**[!UICONTROL 挿入]**」を押します。
 
    ![](assets/twentyone.png)
 

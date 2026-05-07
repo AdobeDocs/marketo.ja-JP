@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360225
-description: メールレポートのアセットのフィルターを使用して、Marketo Engageのメールレポートのアセットをフィルタリングする方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: メールレポートでアセットをフィルタリングして、Marketo Engageのメールレポートでアセットをフィルタリングする方法を説明します。 このガイドを使用して、次のステップを完了してください。
 title: メールレポートでのアセットのフィルター
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 85%
+source-wordcount: '190'
+ht-degree: 84%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 85%
    >
    >フォルダーを選択すると、レポートの実行時にフォルダーに含まれるすべての項目がレポートに含まれます。
 
-1. 完了です。「**[!UICONTROL レポート]**」タブをクリックし、フィルターされたレポートを確認します。
+1. 完了です！ 「**[!UICONTROL レポート]**」タブをクリックし、フィルターされたレポートを確認します。
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 

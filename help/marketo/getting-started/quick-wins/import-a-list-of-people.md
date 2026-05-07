@@ -4,10 +4,10 @@ description: 人物のリストのインポート - Marketo ドキュメント -
 title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '577'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '589'
+ht-degree: 95%
 
 ---
 
@@ -33,9 +33,9 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >読み込まれる日時フィールドは、すべて米中央時間として扱われます。日時フィールドのタイムゾーンが異なる場合、Excel の数式を使用して、中央時刻（米国／シカゴ）に変換できます。
+   >読み込まれる日時フィールドは、すべて米中央時間として扱われます。 日時フィールドのタイムゾーンが異なる場合、Excel の数式を使用して、中央時刻（米国／シカゴ）に変換できます。
 
-1. 自分の姓、名、実際のメールアドレス（次のミッションで送信するメールを受け取れるように）、役職を追加します。ファイルをコンピューターに保存します。
+1. 自分の姓、名、実際のメールアドレス（次のミッションで送信するメールを受け取れるように）、役職を追加します。 ファイルをコンピューターに保存します。
 
    ![](assets/import-a-list-of-people-2.png)
 
@@ -45,11 +45,11 @@ ht-degree: 100%
    >
    >* Marketo は、絵文字を含むメールアドレスを&#x200B;**サポートしていません**。
    >
-   >* CSV 経由で `NULL` 値を読み込むと、_フィールドが既に空白であっても_、人物の[アクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}の数値フィールドに「データ値を変更」が生成される可能性があります。「データ値の変更」フィルターまたは「データ値の変更」トリガーを使用する[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}がある場合、データが実際には変更されていない場合でも、人物がこれらのキャンペーンに該当する可能性があります。[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}を使用すると、読み込み時に誰もこれらのキャンペーンに該当しないようにすることができます。
+   >* CSV 経由で `NULL` 値を読み込むと、_フィールドが既に空白であっても_、人物の[アクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}の数値フィールドに「データ値を変更」が生成される可能性があります。 「データ値の変更」フィルターまたは「データ値の変更」トリガーを使用する[スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}がある場合、データが実際には変更されていない場合でも、人物がこれらのキャンペーンに該当する可能性があります。 [制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}を使用すると、読み込み時に誰もこれらのキャンペーンに該当しないようにすることができます。
 
 ## 手順 2：プログラムを作成する {#step-create-a-program}
 
-1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
+1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
 
    ![](assets/import-a-list-of-people-3.png)
 
@@ -67,7 +67,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->イベントプログラムは特定の日に発生します。[**イベント**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}&#x200B;の詳細をご覧ください。
+>イベントプログラムは特定の日に発生します。 [**イベント**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}&#x200B;の詳細をご覧ください。
 
 ## 手順 3：スプレッドシートを Marketo に読み込む {#step-import-your-spreadsheet-into-marketo}
 
@@ -101,7 +101,7 @@ ht-degree: 100%
 
    >[!NOTE]
    >
-   >リストの読み込みモードで「**[!UICONTROL 新しい人物とアップデートをスキップ]**」を選択すると、既存の人物の記録やアクティビティのログには影響しません。マーケティングアクティビティで使用する既存の人物の、事前にフィルターされた迅速な静的リストを必要とする場合は、このモードを使用します。このモードを選択すると、以下の操作が行われます。
+   >リストの読み込みモードで「**[!UICONTROL 新しい人物とアップデートをスキップ]**」を選択すると、既存の人物の記録やアクティビティのログには影響しません。 マーケティングアクティビティで使用する既存の人物の、事前にフィルターされた迅速な静的リストを必要とする場合は、このモードを使用します。 このモードを選択すると、以下の操作が行われます。
    >
    > * 新規人物の作成をスキップ
    > * 人物フィールドの更新をスキップ
@@ -113,7 +113,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >最適な自動マッピング結果を得るには、列ヘッダーは、常にフィールドと完全に一致する（大文字と小文字を区別）必要があります。カスタムフィールドを使用していて、ドロップダウンに表示されていない場合は、オプションになるように、戻って[作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}します。
+   >最適な自動マッピング結果を得るには、列ヘッダーは、常にフィールドと完全に一致する（大文字と小文字を区別）必要があります。 カスタムフィールドを使用していて、ドロップダウンに表示されない場合は、戻って[作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}し、オプションにすることができます。
 
    >[!NOTE]
    >
@@ -127,19 +127,19 @@ ht-degree: 100%
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. **トレードショープログラム**&#x200B;に戻り、「**[!UICONTROL メンバー]**」タブをクリックします。読み込んだすべての人物が表示されます。
+1. **トレードショープログラム**&#x200B;に戻り、「**[!UICONTROL メンバー]**」タブをクリックします。 読み込んだすべての人物が表示されます。
 
    ![](assets/import-a-list-of-people-15.png)
 
 >[!NOTE]
 >
->プログラムのメンバーシップをトラッキングすることで、プログラムの成功を分析できます。[**プログラム**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}&#x200B;の詳細をご覧ください。
+>プログラムのメンバーシップをトラッキングすることで、プログラムの成功を分析できます。 [**プログラム**](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"}&#x200B;の詳細をご覧ください。
 
 ## ミッション完了 {#mission-complete}
 
 トレードショーの出席者は、Marketo プログラムのメンバーになりました。
 
-<br>
+<br> 
 
 [◄ミッション 4：メールの自動応答](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146999
-description: Marketoで興味深い瞬間のトリガートークンについて説明します。 MSI パネルで興味深い瞬間を作成するアクティビティを設定します。
+description: Marketoの興味深い瞬間のトリガートークンについて説明します。 MSI パネルで興味深いモーメントを作成するアクティビティを設定します。
 title: 注目のアクションのトリガートークン
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 93%
+source-wordcount: '557'
+ht-degree: 91%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 93%
 
 スマートキャンペーンで使用されるトリガーに基づいて、追加のトリガートークンが使用可能になります。
 
-* `{{trigger.Trigger Name}}` は常に実際のトリガーそのものです。例：メール内のリンクをクリック。
-* `{{trigger.Name}}` は、キャンペーンをトリガーしたアセットの名前です。例：「Web ページのリンクをクリック」は、URL 自体、Salesforce トリガーの件名などです。
+* `{{trigger.Trigger Name}}` は常に実際のトリガーそのものです。 例：メール内のリンクをクリック。
+* `{{trigger.Name}}` は、キャンペーンをトリガーしたアセットの名前です。 例：「Web ページのリンクをクリック」は、URL 自体、Salesforce トリガーの件名などです。
 * その他のトリガーは、制約に基づいて使用できます。以下に示します。
 
 ### メールトリガー {#email-triggers}
@@ -205,7 +205,7 @@ ht-degree: 93%
  </tbody>
 </table>
 
-### Salesforceトリガー {#salesforce-triggers}
+### トリガー {#salesforce-triggers}
 
 <table style="table-layout:auto">
  <colgroup>
@@ -534,7 +534,7 @@ ht-degree: 93%
  </tbody>
 </table>
 
-### Sales Connect トリガー {#sales-connect-triggers}
+### セールスコネクトのトリガー {#sales-connect-triggers}
 
 <table style="table-layout:auto">
  <colgroup>
@@ -1057,7 +1057,7 @@ ht-degree: 93%
 >
 >チェック![（tick）](assets/check.png)がない場合は、注目のアクションに空の（何も入っていない）文字列が返されます。
 
-&#42;トリガー&#x200B;**訪問 web ページ** には、さらにトークンがいくつか用意されています。
+&#42;トリガー&#x200B;**訪問Web ページ**&#x200B;には、いくつかの追加トークンがあります。
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`
@@ -1067,4 +1067,4 @@ ht-degree: 93%
 >
 >常に注目のアクションをテストして、意図したとおりにレンダリングできるようにします。
 >
->また、自分だけでなく、営業担当者にとっても興味深いアクションであることを確認してください。
+>また、あなただけでなく、営業担当者にとっても興味深いものであることを確認してください。

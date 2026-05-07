@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360184
-description: キャンペーン活動レポートのフィルタリングを使用して、Marketo Engageでキャンペーン活動レポートをフィルタリングする方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: キャンペーンアクティビティレポートをフィルタリングを使用して、Marketo Engageでキャンペーンアクティビティレポートをフィルタリングする方法について説明します。 このガイドを使用して、次のステップを完了してください。
 title: キャンペーンアクティビティレポートをフィルターする
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 82%
+source-wordcount: '143'
+ht-degree: 80%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 82%
 
    ![](assets/filter-a-campaign-activity-report-2.png)
 
-1. レポートに含めるフォルダーと特定のスマートキャンペーンを選択します。「**[!UICONTROL 適用]**」をクリックします。
+1. レポートに含めるフォルダーと特定のスマートキャンペーンを選択します。 「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/filter-a-campaign-activity-report-3.png)
 
@@ -35,7 +35,7 @@ ht-degree: 82%
    >
    >フォルダーを選択すると、レポートの実行時にフォルダーに含まれるすべての項目がレポートに含まれます。
 
-1. 完了です。「**[!UICONTROL レポート]**」タブをクリックして、レポートで選択したスマートキャンペーン&#x200B;_のみ_&#x200B;を表示します。
+1. 完了です！ 「**[!UICONTROL レポート]**」タブをクリックして、レポートで選択したスマートキャンペーン&#x200B;_のみ_&#x200B;を表示します。
 
    ![](assets/filter-a-campaign-activity-report-4.png)
 

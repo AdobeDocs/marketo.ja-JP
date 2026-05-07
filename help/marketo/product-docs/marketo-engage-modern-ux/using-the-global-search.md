@@ -1,12 +1,12 @@
 ---
-description: Marketo Engageのグローバル検索を使用して、インスタンス全体でアセットを検索する方法を説明します。 検索を実行し、パンくずリストをクリックして項目にジャンプし、フィルターを使用して結果を絞り込みます。
+description: Marketo Engageのグローバル検索を使用して、インスタンス全体でアセットを検索する方法を説明します。 検索を実行し、パンくずリストをクリックして項目に移動し、フィルターを使用して結果を絞り込みます。
 title: グローバル検索の使用
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 82%
+source-wordcount: '171'
+ht-degree: 77%
 
 ---
 
@@ -24,11 +24,11 @@ ht-degree: 82%
 
    ![](assets/using-the-global-search-2.png)
 
-1. 検索結果が表示されます。任意のパンくずリストの任意の場所をクリックして、その項目に直接移動できます。
+1. 検索結果が表示されます。 任意のパンくずリストの任意の場所をクリックして、その項目に直接移動できます。
 
    ![](assets/using-the-global-search-3.png)
 
-1. この例では、探しているメールに直接移動することを選択しています。メールの名前をクリックします。
+1. この例では、探しているメールに直接移動することを選択しています。 メールの名前をクリックします。
 
    ![](assets/using-the-global-search-4.png)
 

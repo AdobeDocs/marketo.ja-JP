@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511512
-description: Salesforce Mobile （Salesforce1）にMarketo Sales Insightをインストールして設定する方法を説明します。 モバイルデバイスで MSI を使用します。
+description: Salesforce Mobile （Salesforce1）にMarketo Sales Insightをインストールして設定する方法について説明します。 モバイルデバイスでMSIを使用する：
 title: Salesforce1 での Marketo セールスインサイトのインストールおよび設定
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 94%
+source-wordcount: '350'
+ht-degree: 87%
 
 ---
 
@@ -21,10 +21,10 @@ ht-degree: 94%
 >
 >Salesforce Enterprise／Unlimited をお持ちの場合：
 >
->* [手順 1／3：Marketo フィールドの  [!DNL Salesforce]  への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [手順 2／3：Marketo 用の  [!DNL Salesforce]  ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [手順 1 / 3：Marketo フィールドの  [!DNL Salesforce]  への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [手順 2 / 3：Marketo の  [!DNL Salesforce]  ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [手順 3／3：Marketo と  [!DNL Salesforce]  の接続（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
->* [&#x200B; [!DNL Salesforce]  Enterprise／Unlimited での  [!DNL Marketo Sales Insight]  の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
+>* [ [!DNL Salesforce]  Enterprise／Unlimited での  [!DNL Marketo Sales Insight]  の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 >
 >Salesforce Professional をお持ちの場合：
 >
@@ -33,7 +33,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->[!DNL Salesforce1] の [!DNL Marketo Sales Insight] には、[!DNL B最有望見込客]、リードフィード、注目のアクション、Marketo キャンペーンに追加が含まれます。
+>[!DNL Salesforce1] の [!DNL Marketo Sales Insight] には、[!DNLB最有望見込客]、リードフィード、注目のアクション、Marketo キャンペーンに追加が含まれます。
 
 ## [!DNL Salesforce1] モバイルアプリを有効にする {#enable-the-salesforce1-mobile-app}
 
@@ -109,7 +109,7 @@ ht-degree: 94%
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
-1. 「**[!UICONTROL マイタブをカスタマイズ]**」をクリックします。
+1. 「**[!UICONTROL タブをカスタマイズ]**」をクリックします。
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
@@ -131,7 +131,7 @@ ht-degree: 94%
 
    >[!NOTE]
    >
-   >取引先責任者、アカウント、商談の各オブジェクトに対して、組織が使用するすべてのページレイアウト（マーケティング、セールスなど）に手順を繰り返します。
+   >組織が使用するページレイアウト（マーケティング、営業部門など）ごとに、この手順を繰り返します 取引先責任者、アカウント、商談の各オブジェクトです。
 
    ![](assets/image2015-4-22-17-3a34-3a33.png)
 
@@ -159,10 +159,10 @@ ht-degree: 94%
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
-もう少しです。これで、[!DNL Salesforce1] 用 [!DNL Marketo Sales Insight] のインストールが完了しました。これで安心です。
+もう少しです。 [!DNL Salesforce1]の[!DNL Marketo Sales Insight]のインストールが完了しました。 これで安心です。
 
 >[!MORELIKETHIS]
 >
->*  [!DNL Salesforce1][&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md) の [!DNL Best Bets] 
->* [&#x200B; [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md) での注目のアクション
->* [&#x200B; [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md) での Marketo メール送信、キャンペーンおよびウォッチリストアクション
+>*  [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md) の [[!DNL Best Bets] 
+>* [ [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md) での注目のアクション
+>* [ [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md) での Marketo メール送信、キャンペーンおよびウォッチリストアクション

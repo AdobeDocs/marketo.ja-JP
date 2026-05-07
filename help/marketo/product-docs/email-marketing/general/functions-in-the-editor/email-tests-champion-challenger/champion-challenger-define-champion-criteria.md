@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359562
-description: メールテストのチャンピオン条件を定義する方法を説明します。 どのバリアントがチャンピオン/チャレンジャーテストに勝つかを決定するルールを設定します。
+description: メールテストのChampion基準の定義方法を説明します。 チャンピオン/チャレンジャーテストに勝利するバリエーションを決定するルールを設定します。
 title: チャンピオン／挑戦者：チャンピオンの条件の定義
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 88%
+source-wordcount: '189'
+ht-degree: 84%
 
 ---
 
 # チャンピオン／挑戦者：チャンピオンの条件の定義 {#champion-challenger-define-champion-criteria}
 
-テストタイプを設定したら、チャンピオンの条件を定義する必要があります。手順は次のとおりです。
+テストタイプを設定したら、チャンピオンの条件を定義する必要があります。 手順は以下のとおりです。
 
 >[!PREREQUISITES]
 >
@@ -49,13 +49,13 @@ ht-degree: 88%
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo では、このメールプログラムからメールを送信したユーザーのトリガーのみを許可します。「[!UICONTROL メール送信済み]」フィルターを追加する必要はありません。
+   Marketo では、このメールプログラムからメールを送信したユーザーのトリガーのみを許可します。 「[!UICONTROL メール送信済み]」フィルターを追加する必要はありません。
 
 1. 「**[!UICONTROL 閉じる]**」をクリックします。
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
-   完成です。次に、レポートのスケジュールを設定します。
+   これで完了です。 次は、レポートのスケジュールです。
 
    >[!MORELIKETHIS]
    >

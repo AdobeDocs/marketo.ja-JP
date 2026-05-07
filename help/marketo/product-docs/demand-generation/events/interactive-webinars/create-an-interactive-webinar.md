@@ -1,12 +1,12 @@
 ---
-description: Marketoでインタラクティブウェビナーを作成する方法について説明します。 手順に従ってウェビナーを設定し、ライブまたはオンデマンド配信の設定を行います。
+description: Marketoでインタラクティブウェビナーを開催する方法を説明します。 ウェビナーを設定し、ライブ配信またはオンデマンド配信の設定を行う手順に従います。
 title: インタラクティブウェビナーの作成
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 92%
+source-wordcount: '305'
+ht-degree: 79%
 
 ---
 
@@ -26,17 +26,17 @@ ht-degree: 92%
    >
    >[モバイルプッシュ通知](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}アセットは、インタラクティブウェビナーではサポートされて&#x200B;**いません**。
 
-1. プログラムに名前を付けます。プログラムタイプで、「**イベント**」を選択します。
+1. プログラムに名前を付けます。 プログラムタイプで、「**イベント**」を選択します。
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. チャネルドロップダウンをクリックし、「適用先」列に&#x200B;_ウェビナー付きイベント_&#x200B;が含まれるチャネルを選択します。この例では、「**ウェビナー**」を選択しています。
+1. チャネルドロップダウンをクリックし、「適用先」列に&#x200B;_ウェビナー付きイベント_&#x200B;が含まれるチャネルを選択します。 この例では、「**ウェビナー**」を選択しています。
 
    ![](assets/create-an-interactive-webinar-4.png)
 
    >[!NOTE]
    >
-   >_ウェビナー付きイベント_&#x200B;に適用されるチャネルを確認するには、**管理者**／**タグ**&#x200B;に移動します。「適用先」は中央の列である必要があります。「適用先」について詳しくは、[この記事](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}の手順 5 を参照してください。
+   >_ウェビナー付きイベント_&#x200B;に適用されるチャネルを確認するには、**管理者**／**タグ**&#x200B;に移動します。 「適用先」は中央の列である必要があります。 「適用先」について詳しくは、[この記事](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}の手順 5 を参照してください。
 
 1. 「**インタラクティブウェビナー**」を選択し、「**次へ**」をクリックします。
 
@@ -48,15 +48,15 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >* このウェビナーのタイトルは、参加者が参加すると表示&#x200B;**されます**。Marketo Engage インスタンスのインタラクティブウェビナーイベントプログラムの名前やウェビナールームの名前と、異なるタイトルを付けることが重要です。
+   >* このウェビナーのタイトルは、参加者が参加すると表示&#x200B;**されます**。 タイトルが、Marketo Engage インスタンスのインタラクティブウェビナーイベントプログラムの名前およびウェビナールームの名前と異なることが重要です。
    >
-   >* ウェビナータイトルは、再利用できません。それぞれが Marketo インスタンス内で一意である必要があります。
+   >* ウェビナータイトルは、再利用できません。 それぞれが Marketo インスタンス内で一意である必要があります。
    >
    >* 必要に応じて、後の段階でウェビナーのタイトルを変更できます。
    >
    >* テストウェビナーを作成する場合は、そのウェビナーのライセンスが利用されないように、開始時間より前に削除する必要があります。
 
-1. ウェビナーの日時をスケジュールし、（必要に応じて）タイムゾーンを変更し、最大オーディエンスサイズを設定します。完了したら「**作成**」をクリックします。
+1. ウェビナーの日時をスケジュールし、（必要に応じて）タイムゾーンを変更し、最大オーディエンスサイズを設定します。 終了したら、「**作成**」をクリックします。
 
    ![](assets/create-an-interactive-webinar-7.png)
 
@@ -64,4 +64,4 @@ ht-degree: 92%
 >
 >前のウェビナーが予定時間を超過した場合に備えて、連続する 2 つのイベントの間には 30 分の間隔を空けることをお勧めします（ライセンスが同時ウェビナーをサポートしている場合を除く）。
 
-次に、[ウェビナーをデザイン](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}します。
+次は、[ ウェビナーをデザインしましょう](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}。

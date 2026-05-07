@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718670
-description: 売上高モデルゲートステージを使用した、Marketo Engageの売上高モデルゲートステージの使用方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageで収益モデルゲートステージを使用して、収益モデルゲートステージを使用する方法を説明します。 このガイドを使用して、次のステップを完了してください。
 title: 収益モデルゲートステージの使用
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 91%
+source-wordcount: '292'
+ht-degree: 83%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 >[!TIP]
 >
->グラフィックやプレゼンテーションプログラムで練習モデルを作成し、同僚と確認するのは素晴らしいアイデアです。
+>グラフィックやプレゼンテーションプログラムで練習モデルを作成し、同僚と確認することをお勧めします。
 
 ## ゲートステージの追加 {#add-a-gate-stage}
 
@@ -29,7 +29,7 @@ ht-degree: 91%
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. **[!UICONTROL 下書きの編集]**&#x200B;をクリックします。
+1. **[!UICONTROL ドラフトの編集]**&#x200B;をクリックします。
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -47,11 +47,11 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->ゲートステージは、遷移ルールに入力した条件に基づいてリードを分割します。**リードを保持するものではありません**。他のトランジションで選択されていないリードが最終的にデフォルトのトランジションを使用するように、デフォルトのトランジションが必要です。
+>ゲートステージは、遷移ルールに入力した条件に基づいてリードを分割します。**リードを保持するものではありません**。 他のトランジションで選択されていないリードが最終的にデフォルトのトランジションを使用するように、デフォルトのトランジションが必要です。
 
 ## ゲートステージの編集 {#edit-a-gate-stage}
 
-[!UICONTROL 名前]、[!UICONTROL 説明]を編集し、ゲートステージの[!UICONTROL タイプ]を調整します。また、「[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)」を選択することもできます。
+[!UICONTROL 名前]、[!UICONTROL 説明]を編集し、ゲートステージの[!UICONTROL タイプ]を調整します。 また、「[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)」を選択することもできます。
 
 1. **[!UICONTROL ゲート]**&#x200B;ステージアイコンをクリックします。
 
@@ -75,11 +75,11 @@ ht-degree: 91%
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. どちらの方法を削除しても、選択内容の確認が求められます。「**[!UICONTROL 削除]**」をクリックします。
+1. どちらの方法を削除しても、選択内容の確認が求められます。 「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 
-これで完了です。ゲートステージの素晴らしい世界を理解しましたね。
+これで完了です。 ゲートステージの素晴らしい世界を理解しましたね。
 
 >[!MORELIKETHIS]
 >

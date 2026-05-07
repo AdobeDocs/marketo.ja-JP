@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11379622
-description: Marketoで Facebook リード広告を設定する方法を説明します。 Facebook アカウントを接続し、リード広告提出物をMarketoに同期します。
+description: MarketoでFacebook リード広告を設定する方法について説明します。 Facebook アカウントを連携し、リードと送信された情報をMarketoに同期します。
 title: Facebook リード広告の設定
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 86%
+source-wordcount: '368'
+ht-degree: 77%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 86%
 >
 >* **管理者権限が必要**
 >
->* Facebook リード広告フォームを作成する場合は、フォーム名に数字のみが含まれていることを確認してください。 フォーム名は、アルファベットまたは英数字のいずれかである必要があります。
+>* Facebook リード広告フォームを作成する際には、フォーム名に数字以外の文字が含まれていないことを確認してください。 フォーム名はアルファベットまたは英数字にする必要があります。
 
 >[!AVAILABILITY]
 >
@@ -37,7 +37,7 @@ ht-degree: 86%
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
-1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com){target="_blank"}.に移動します。統合に使用するアカウントを使用して Facebook にログインします。
+1. 同じブラウザーで新しいタブを開き、[facebook.com](https://www.facebook.com){target="_blank"}.に移動します。 統合に使用するアカウントを使用して Facebook にログインします。
 
    >[!NOTE]
    >
@@ -45,7 +45,7 @@ ht-degree: 86%
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. [!DNL Facebook] にログインした後、Marketo に戻り、「**[!UICONTROL 許可]**」をクリックします。
+1. [!DNL Facebook]にログインしたら、Marketoに戻り、**[!UICONTROL 認証]**&#x200B;をクリックします。
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
@@ -53,7 +53,7 @@ ht-degree: 86%
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. これで、権限が与えられたことに気が付くでしょう。「**[!UICONTROL 次へ]**」をクリックします。
+1. これで、権限が与えられたことに気が付くでしょう。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
@@ -61,7 +61,7 @@ ht-degree: 86%
 
    >[!TIP]
    >
-   >必要なページが表示されない場合は、認証に使用した [!DNL Facebook] アカウントが [!DNL Facebook] のページに追加されていることを確認して、もう一度試してください。
+   >想定しているページが表示されない場合は、認証に使用された[!DNL Facebook] アカウントが[!DNL Facebook]のページに追加されていることを確認して、もう一度試してください。
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
@@ -69,15 +69,15 @@ ht-degree: 86%
 
    >[!TIP]
    >
-   >マッピングを変更することで、リード広告データが Marketo 内のどこに保存されるかをカスタマイズできます。また、[リード広告カスタム質問からデータを取り込む](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}こともできます。
+   >マッピングを変更することで、リード広告データが Marketo 内のどこに保存されるかをカスタマイズできます。 また、[リード広告カスタム質問からデータを取り込む](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md){target="_blank"}こともできます。
 
    >[!CAUTION]
    >
-   >Marketo では、2 つの [!DNL Facebook] フィールドを 1 つの Marketo フィールドにマッピングできません。マッピングは 1 対 1 のみです。2 対 1 のマッピングをおこなうと、リードを Marketo システムに配置できない場合があります。
+   >Marketo では、2 つの [!DNL Facebook] フィールドを 1 つの Marketo フィールドにマッピングできません。マッピングは 1 対 1 のみです。 2 対 1 のマッピングをおこなうと、リードを Marketo システムに配置できない場合があります。
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   これで完了です。[!DNL Facebook] リード広告キャンペーンを成功に導くと、リードの Marketo への流れが始まります。
+   これで完了です。 [!DNL Facebook] リード広告キャンペーンを成功に導くと、リードの Marketo への流れが始まります。
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

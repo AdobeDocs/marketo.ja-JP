@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359746
-description: Marketoでランディングページ URL を CNAME でカスタマイズする方法を説明します。 ランディングページリンクには独自のドメインを使用します。
+description: MarketoでCNAMEを使用してランディングページ URLをカスタマイズする方法について説明します。 ランディングページのリンクに独自のドメインを使用。
 title: CNAME を使用したランディングページ URL のカスタマイズ
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '245'
-ht-degree: 91%
+source-wordcount: '244'
+ht-degree: 87%
 
 ---
 
 # CNAME を使用したランディングページ URL のカスタマイズ {#customize-your-landing-page-urls-with-a-cname}
 
-Marketo がランディングページをホストしている場合でも、URL は完全にカスタマイズできます。CNAME がない場合の外観は次のとおりです。
+Marketo がランディングページをホストしている場合でも、URL は完全にカスタマイズできます。 CNAME がない場合の外観は次のとおりです。
 
 `https://na-sj02.marketo.com/lp/mktodemoaccount126/UnsubscribePage.html`
 
@@ -23,13 +23,13 @@ Marketo がランディングページをホストしている場合でも、URL
 
 ## CNAME を選択する {#choose-a-cname}
 
-ランディングページの URL の先頭に移動する単語を選択します。単語は 1 つだけで、比較的短くする必要があります。例:
+ランディングページの URL の先頭に移動する単語を選択します。 これは1単語に過ぎず、比較的短い単語です。 例:
 
 * go.YourCompany.com/NameOfPage.html
 * info.YourCompany.com/NameOfPage.html
 * pages.YourCompany.com/NameOfPage.html
 
-1 つの単語（plus YourCompany.com）が CNAME と呼ばれます。後で必要になるので、覚えておいてください。
+1 つの単語（plus YourCompany.com）が CNAME と呼ばれます。 後で必要になるので、覚えておいてください。
 
 ## Munchkin ID を検索する {#find-your-munchkin-id}
 
@@ -77,4 +77,4 @@ Marketo がランディングページをホストしている場合でも、URL
 >
 >Marketo ランディングページを使用できない場合、フォールバックページにリダイレクトされます。
 
-これで完了です。ランディングページが会社のドメインでブランディングされました。
+これで完了です。 ランディングページが会社のドメインでブランディングされました。

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11383953
-description: Marketoで Facebook オフラインコンバージョンを設定する方法を説明します。 広告の最適化のために、Marketoから Facebook にコンバージョンデータを送信します。
+description: MarketoでFacebook オフラインコンバージョンを設定する方法について説明します。 MarketoからFacebookにコンバージョンデータを送信し、広告を最適化する。
 title: Facebook オフラインコンバージョンの設定
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '311'
-ht-degree: 93%
+source-wordcount: '333'
+ht-degree: 87%
 
 ---
 
 # [!DNL Facebook] オフラインコンバージョンの設定 {#set-up-facebook-offline-conversions}
 
-リード広告を通じて作成されたユーザのオフラインコンバージョンデータを [!DNL Facebook] に送り返すことで、広告チームは広告費用をこれまで以上に最適化できます。その設定方法を説明します。
+リード広告を通じて作成されたユーザのオフラインコンバージョンデータを [!DNL Facebook] に送り返すことで、広告チームは広告費用をこれまで以上に最適化できます。 その設定方法を説明します。
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ ht-degree: 93%
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. 必要に応じて、**[!UICONTROL 表示名]**&#x200B;を編集してオフラインコンバージョンを含めます。「**[!UICONTROL 次へ]**」をクリックします。
+1. 必要に応じて、**[!UICONTROL 表示名]**&#x200B;を編集してオフラインコンバージョンを含めます。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
@@ -50,7 +50,7 @@ ht-degree: 93%
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   できましたね。[!DNL Facebook] オフラインコンバージョンの有効化が半分ほど完了しました。収益サイクルモデラーに移動して、ステージをマッピングします。
+   できましたね。 [!DNL Facebook]個のオフラインコンバージョンの有効化が途中で完了しました。 収益サイクルモデラーに移動して、ステージをマッピングします。
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -79,7 +79,7 @@ ht-degree: 93%
    >* 検索
    >* コンテンツビュー
 
-1. マッピングするステージを選択し、**[!UICONTROL Facebook コンバージョン]**&#x200B;ドロップダウンで、マッピング先の [!DNL Facebook] イベントを選択します。この手順を繰り返して、RCM のすべてのステージを [!DNL Facebook] のオフラインコンバージョンステージにマッピングします。
+1. マッピングするステージを選択し、**[!UICONTROL Facebook コンバージョン]**&#x200B;ドロップダウンで、マッピング先の [!DNL Facebook] イベントを選択します。 この手順を繰り返して、RCM のすべてのステージを [!DNL Facebook] のオフラインコンバージョンステージにマッピングします。
 
    ![](assets/1-1.png)
 
@@ -87,7 +87,7 @@ ht-degree: 93%
 
    ![](assets/2.png)
 
-1. モデルを承認すれば完了です。
+1. モデルを承認して完了です。
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 
@@ -95,7 +95,7 @@ ht-degree: 93%
 
    >[!CAUTION]
    >
-   >[!DNL Facebook] アカウントで、Marketo オフラインコンバージョンイベントセットにすべての[広告が関連付けられている](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer)ことを確認します。そうでない場合、広告アトリビューションは機能しない可能性があります。
+   >[!DNL Facebook] アカウントで、Marketo オフラインコンバージョンイベントセットにすべての[広告が関連付けられている](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer)ことを確認します。 そうでない場合、広告アトリビューションは機能しない可能性があります。
 
    >[!NOTE]
    >
@@ -103,4 +103,4 @@ ht-degree: 93%
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL Facebook]  オフラインコンバージョンについて](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+>[ [!DNL Facebook]  オフラインコンバージョンについて](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)

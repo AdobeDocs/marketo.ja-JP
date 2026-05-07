@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900579
-description: 特定のメールリンクのトラッキングを無効にする方法を説明します。 プライバシーまたはリダイレクト URL に必要な場合は、クリックの追跡を無効にします。
+description: 特定のメールリンクのトラッキングを無効にする方法について説明します。 プライバシーまたはリダイレクト URLに必要な場合は、クリックトラッキングをオフにします。
 title: メールリンクのトラッキングを無効にする
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 93%
+source-wordcount: '302'
+ht-degree: 86%
 
 ---
 
@@ -33,13 +33,13 @@ ht-degree: 93%
 
    ![](assets/four-4.png)
 
-1. **[!UICONTROL Include mkt_tok] チェックボックス**&#x200B;が消えます。「**[!UICONTROL 適用]**」をクリックします。
+1. **[!UICONTROL Include mkt_tok] チェックボックス**&#x200B;が消えます。 「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >**Include mkt_tok** のみをオフにしてもリンクのトラッキングは可能ですが、リダイレクト後、宛先 URL に mkt_tok クエリ文字列パラメーターは含まれません。 このパラメーターは、リードのアクティビティを適切にトラッキングするために（リードがメールを登録解除した場合など）、Marketo のランディングページと Munchkin で使用されます。 パラメーターが存在することが原因で Web サイトに変な動作が発生していない限り、この機能の使用は避けてください。
+   >**Include mkt_tok** のみをオフにしてもリンクのトラッキングは可能ですが、リダイレクト後、宛先 URL に mkt_tok クエリ文字列パラメーターは含まれません。 このパラメーターは、リードのアクティビティを適切にトラッキングするために（リードがメールを登録解除した場合など）、Marketo のランディングページと Munchkin で使用されます。 パラメーターが存在するため、web サイトで奇妙な動作が表示されない限り、この機能を使用しないでください。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
@@ -47,4 +47,4 @@ ht-degree: 93%
 
    >[!CAUTION]
    >
-   >メールテンプレート内のリンクや[テキストバージョン](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"}のメールのクリックトラッキングを無効にする場合は、文字列の末尾ではなく&#x200B;*先頭*&#x200B;に `mktNoTrack` を追加します（例：`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`）。そうしないと、リンクが表示されなくなる可能性があります。上記のコードの実装に関するヘルプが必要な場合は、web 開発者にお問い合わせください。
+   >メールテンプレート内のリンクや[テキストバージョン](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"}のメールのクリックトラッキングを無効にする場合は、文字列の末尾ではなく&#x200B;*先頭*&#x200B;に `mktNoTrack` を追加します（例：`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`）。 そうしないと、リンクが表示されなくなる可能性があります。 上記のコードの実装に関するヘルプが必要な場合は、web 開発者にお問い合わせください。

@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360012
-description: 毎月、各ユーザーステータス値に表示されるユーザー数を示す、ステータス別ユーザーレポートについて説明します。 プロセスの進捗を追跡し、funnelのボトルネックを特定します。
+description: 各ユーザーのステータス値に表示される人数を表示するステータス別のユーザー数レポートについて説明します。 プロセスの進捗状況を把握し、funnelのボトルネックを特定する。
 title: ステータス別のリードレポート
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 77%
+source-wordcount: '128'
+ht-degree: 58%
 
 ---
 
 # ステータス別のリードレポート {#people-by-status-report}
 
-各&#x200B;_[!UICONTROL リードステータス]_&#x200B;値に表示されるリードの数を毎月確認して、プロセス内でのリードの移動状況を確認します。
+毎月&#x200B;_[!UICONTROL 人物ステータス]_&#x200B;の各値に表示される人数を確認することで、プロセスを通じて人物をどの程度誘導しているかを確認できます。
 
-1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL ステータス別のリード]**&#x200B;[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
+1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL ステータス別のリード]**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**[!UICONTROL レポート]**」タブをクリックします。
 
-1. これで完了です。これで、各&#x200B;_[!UICONTROL リードステータス]_&#x200B;に含まれる人数を月単位で確認できます。
+1. これで完了です。 これで、各&#x200B;_[!UICONTROL リードステータス]_&#x200B;に含まれる人数を月単位で確認できます。
 
    ![](assets/image2017-3-27-11-3a17-3a4.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727591
-description: Sales Connect での Outlook ユーザーのメール接続について説明します。 Outlook を接続してトラッキング対象のメールを送信し、Salesforceにログします。
+description: Sales ConnectでのOutlook ユーザーのメール接続について説明します。 Outlookを接続して、追跡された電子メールを送信し、Salesforceにログを記録します。
 title: Outlook ユーザーのメール接続
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 93%
+source-wordcount: '321'
+ht-degree: 82%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 93%
 
    ![](assets/five-a.png)
 
-1. 使用している [!DNL Outlook] のバージョンを選択し、「**[!UICONTROL 次へ]**」をクリックします。この例では、「[!DNL Outlook Online]」を選択しています。
+1. 使用している[!DNL Outlook]のバージョンを選択し、**[!UICONTROL 次へ]**&#x200B;をクリックします。 この例では、「[!DNL Outlook Online]」を選択しています。
 
    ![](assets/six-a.png)
 
@@ -68,7 +68,7 @@ ht-degree: 93%
 
    ![](assets/seven-a.png)
 
-1. [!DNL Outlook] にログインしていない場合は、ログイン情報を入力し、「**[!UICONTROL 次へ]**」をクリックします。接続したいアカウントを選択し、「**[!UICONTROL 次へ]**」をクリックします。この例では、既にログインしています。
+1. [!DNL Outlook]にログインしていない場合は、ログイン情報を入力し、**[!UICONTROL 次へ]**&#x200B;をクリックします。 接続したいアカウントを選択し、「**[!UICONTROL 次へ]**」をクリックします。 この例では、既にログインしています。
 
    ![](assets/eight-a.png)
 
@@ -80,7 +80,7 @@ ht-degree: 93%
 
    >[!NOTE]
    >
-   >[!DNL Outlook Online (Office365)] では、独自の送信制限が適用されます。詳しくは、[こちらを参照](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)してください。
+   >[!DNL Outlook Online (Office365)] では、独自の送信制限が適用されます。 詳しくは、[こちらを参照](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits)してください。
 
 ## [!DNL Exchange On-Premise] への接続 {#connecting-to-exchange-on-premise}
 
@@ -106,7 +106,7 @@ ht-degree: 93%
 
    ![](assets/five-a.png)
 
-1. 使用している [!DNL Outlook] のバージョンを選択し、「**[!UICONTROL 次へ]**」をクリックします。この例では、「[!DNL Exchange On-premise]」を選択しています。
+1. 使用している[!DNL Outlook]のバージョンを選択し、**[!UICONTROL 次へ]**&#x200B;をクリックします。 この例では、「[!DNL Exchange On-premise]」を選択しています。
 
    ![](assets/six-b.png)
 

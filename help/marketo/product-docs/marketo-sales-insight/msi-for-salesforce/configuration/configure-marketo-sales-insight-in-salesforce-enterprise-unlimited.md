@@ -4,10 +4,10 @@ description: Salesforce Enterprise／Unlimited エディションでの Marketo 
 title: Salesforce Enterprise／Unlimited での Marketo セールスインサイトの設定
 exl-id: a33ed396-8d26-403f-b6d8-fe7c55ce76ba
 feature: Marketo Sales Insights
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '926'
-ht-degree: 88%
+source-wordcount: '946'
+ht-degree: 86%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 88%
 
 >[!PREREQUISITES]
 >
->[&#x200B; [!DNL Salesforce]  AppExchange での  [!DNL Marketo Sales Insight]  パッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
+>[ [!DNL Salesforce]  AppExchange での  [!DNL Marketo Sales Insight]  パッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
 >[!NOTE]
 >
 >**管理者権限が必要です。**
 
-## Marketo Engage での Sales Insight の設定 {#configure-sales-insight-in-marketo}
+## Marketo Engage でのセールスインサイトの設定 {#configure-sales-insight-in-marketo}
 
 1. Marketo Engage で Marketo セールスインサイト資格情報を取得するには、**[!UICONTROL 管理者]**&#x200B;領域に移動し、「**[!UICONTROL セールスインサイト]**」を選択します。
 
@@ -33,7 +33,7 @@ ht-degree: 88%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-2.png)
 
-1. 任意の API 秘密鍵を入力し、「**[!UICONTROL 保存]**」をクリックします。API 秘密鍵にアンパサンド（`&`）を使用しないでください。
+1. 任意の API 秘密鍵を入力し、「**[!UICONTROL 保存]**」をクリックします。 API 秘密鍵にアンパサンド（`&`）を使用しないでください。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-3.png)
 
@@ -51,19 +51,19 @@ ht-degree: 88%
 
    >[!TIP]
    >
-   >このウィンドウは開いたままにしておきます。この情報は、後で Salesforce の設定で必要になります。
+   >このウィンドウは開いたままにしておきます。 この情報は、後で Salesforce の設定で必要になります。
 
-## 新しい Rest API 資格情報の入力 {#populate-new-rest-api-credentials}
+## 新しいRest API資格情報を設定 {#populate-new-rest-api-credentials}
 
-1. Rest API 資格情報を初めて入力する場合、「_表示_」ボタンが _編集_ に変わります。 「**編集** ボタンをクリックします。
+1. Rest API資格情報を初めて入力すると、_表示_ ボタンが&#x200B;_編集_&#x200B;に変更されます。 「**編集**」ボタンをクリックします。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5a.png)
 
-1. API 資格情報を再生成することを確認するメッセージが表示されます。 「**保存**」をクリックします。
+1. API資格情報を再生成することを確認するメッセージが表示されます。 「**保存**」をクリックします。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5b.png){width="800" zoomable="yes"}
 
-1. 新しい資格情報が入力されたら、Salesforce インスタンスの「_Marketo設定_」タブで更新します。
+1. 新しい資格情報が入力されたら、Salesforce インスタンスの「_Marketo Config_」タブで更新します。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-5c.png)
 
@@ -81,7 +81,7 @@ ht-degree: 88%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. リモートサイト名を入力します（`MarketoSoapAPI` など）。Marketo Engage の _[!UICONTROL Soap API 設定]_&#x200B;パネルの Marketo ホスト URL であるリモートサイト URL を入力します。「**[!UICONTROL 保存]**」をクリックします。これで、Soap API 用のリモートサイト設定が作成されました。
+1. リモートサイト名を入力します（`MarketoSoapAPI` など）。 Marketo Engage の _[!UICONTROL Soap API 設定]_&#x200B;パネルの Marketo ホスト URL であるリモートサイト URL を入力します。 「**[!UICONTROL 保存]**」をクリックします。 これで、Soap API 用のリモートサイト設定が作成されました。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -89,21 +89,21 @@ ht-degree: 88%
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. リモートサイト名を入力します（`MarketoAPI` など）。Marketo Engage の _[!UICONTROL Rest API 設定]_&#x200B;パネルの API URL であるリモートサイト URL を入力します。「**[!UICONTROL 保存]**」をクリックします。Rest API 用のリモートサイト設定が作成されました。
+1. リモートサイト名を入力します（`MarketoAPI` など）。 Marketo Engage の _[!UICONTROL Rest API 設定]_&#x200B;パネルの API URL であるリモートサイト URL を入力します。 「**[!UICONTROL 保存]**」をクリックします。 Rest API 用のリモートサイト設定が作成されました。
 
    >[!NOTE]
    >
-   >__「**[!UICONTROL リモートサイト名]**」を選択します（`MarketoAPI` はここで使用されます）。**[!UICONTROL リモートサイト URL]** は、「Marketo での Sales Insight の設定」節の手順 3、API 設定を編集ダイアログの「Marketo ホスト」フィールドにあります。
+   >__「**[!UICONTROL リモートサイト名]**」を選択します（`MarketoAPI` はここで使用されます）。 **[!UICONTROL リモートサイト URL]** は、「Marketo でのセールスインサイトの設定」節の手順 3、API 設定を編集ダイアログの「Marketo ホスト」フィールドにあります。
 
-## Sales Insight ユーザのプロファイルに標準の Salesforce オブジェクトへのアクセス権を付与 {#grant-sales-insight-users-profile-access}
+## セールスインサイトユーザのプロファイルに標準の Salesforce オブジェクトへのアクセス権を付与 {#grant-sales-insight-users-profile-access}
 
-Salesforce のセキュリティ強化により、AppExchange パッケージは標準オブジェクトに権限を付与できなくなり、Salesforce ユーザのプロファイルから関連する Salesforce オブジェクトにアクセス権を付与する必要があります。必要な権限を付与するには、次の手順に従います。
+Salesforce のセキュリティ強化により、AppExchange パッケージは標準オブジェクトに権限を付与できなくなり、Salesforce ユーザのプロファイルから関連する Salesforce オブジェクトにアクセス権を付与する必要があります。 必要な権限を付与するには、次の手順に従います。
 
 1. 「**[!UICONTROL 設定]**」をクリックします。
 
 1. クイック検索で「プロファイル」を検索します。
 
-1. Salesforce ユーザが使用しているプロファイルの横にある「**[!UICONTROL 編集]**」をクリックします。
+1. Salesforce ユーザが使用しているプロファイルの横にある「**[!UICONTROL 編集]**」クリックします。
 
 1. 「_[!UICONTROL 標準オブジェクト権限]_」セクションで、[!UICONTROL リード]、[!UICONTROL 取引先責任者]、[!UICONTROL アカウント]、[!UICONTROL 商談]の各オブジェクトに対して&#x200B;**[!UICONTROL 読み取り]**&#x200B;アクセス権を有効にします。
 
@@ -119,7 +119,7 @@ Salesforce のセキュリティ強化により、AppExchange パッケージは
 
    ![](assets/image2015-5-28-14-3a58-3a39.png)
 
-1. 左側の「**[!UICONTROL Visualforce Pages]**」をクリックします。「**[!UICONTROL セクション]**」を「_[!UICONTROL カスタムリンク]_」セクションの下のレイアウトにドラッグします。
+1. 左側の「**[!UICONTROL Visualforce Pages]**」をクリックします。 「**[!UICONTROL セクション]**」を「_[!UICONTROL カスタムリンク]_」セクションの下のレイアウトにドラッグします。
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
@@ -133,7 +133,7 @@ Salesforce のセキュリティ強化により、AppExchange パッケージは
 
    >[!TIP]
    >
-   >このボックスの名前は、オブジェクトタイプに基づいて変更されます。例えば、取引先責任者のページレイアウトを変更する場合、「取引先責任者」と表示されます。
+   >このボックスの名前は、オブジェクトタイプに基づいて変更されます。 例えば、取引先責任者のページレイアウトを変更する場合、「取引先責任者」と表示されます。
 
 1. 先ほど追加した「**[!UICONTROL リード]**」ブロックをダブルクリックします。
 
@@ -151,7 +151,7 @@ Salesforce のセキュリティ強化により、AppExchange パッケージは
    >
    >アカウントオブジェクトおよび商談オブジェクトの推奨される高さは 410 ピクセルです。
 
-1. 左側の「**[!UICONTROL フィールド]**」をクリックします。次に、「**[!UICONTROL 緊急度]**」ラベルを検索して、**[!UICONTROL Marketo セールスインサイト]**&#x200B;レイアウトにドラッグします。
+1. 左側の「**[!UICONTROL フィールド]**」をクリックします。 次に、「**[!UICONTROL 緊急度]**」ラベルを検索して、**[!UICONTROL Marketo セールスインサイト]**&#x200B;レイアウトにドラッグします。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-18.png)
 
@@ -175,9 +175,9 @@ Salesforce のセキュリティ強化により、AppExchange パッケージは
 
    ![](assets/image2014-9-24-17-3a35-3a6.png)
 
-1. 手順 5〜7 を繰り返して、**[!UICONTROL 取引先責任者]**、**[!UICONTROL アカウント]**、**[!UICONTROL 商談]**&#x200B;のそれぞれについて Visualforce ページセクションと Sales Insight フィールドを追加します。
+1. 手順 5〜7 を繰り返して、**[!UICONTROL 取引先責任者]**、**[!UICONTROL アカウント]**、**[!UICONTROL 商談]**&#x200B;のそれぞれについて Visualforce ページセクションとセールスインサイトフィールドを追加します。
 
-1. 手順 8〜10 を繰り返して、**[!UICONTROL 取引先責任者]**&#x200B;にこれらの Sales Insight のフィールドを追加します。変更したら必ず保存します。
+1. 手順 8〜10 を繰り返して、**[!UICONTROL 取引先責任者]**&#x200B;にこれらのセールスインサイトのフィールドを追加します。 変更したら必ず保存します。
 
    * 最新の注目のアクション
    * 最新の注目のアクション発生日
@@ -189,13 +189,13 @@ Salesforce のセキュリティ強化により、AppExchange パッケージは
    * [!UICONTROL MKTO リードスコア]
    * [!UICONTROL 相対スコア]
    * [!UICONTROL 相対スコア値]
-   * [!UICONTROL Sales Insight] - 取引先責任者の完全なリストページを開きます。
+   * [!UICONTROL セールスインサイト] - 取引先責任者の完全なリストページを開きます
    * [!UICONTROL 緊急度]
    * [!UICONTROL 緊急度の値]
 
 ## カスタムユーザフィールドのマッピング {#map-custom-person-fields}
 
-コンバージョンの際にデータが失われないように、Marketo のユーザフィールドを Salesforce の取引先責任者フィールドにマッピングする必要があります。次の手順に従って、マッピングします。
+コンバージョンの際にデータが失われないように、Marketo のユーザフィールドを Salesforce の取引先責任者フィールドにマッピングする必要があります。 次の手順に従って、マッピングします。
 
 1. 「**[!UICONTROL 設定]**」をクリックします。
 
@@ -229,15 +229,15 @@ Salesforce のセキュリティ強化により、AppExchange パッケージは
    | `Last Interesting Moment Source` | `Contact.Last Interesting Moment Source` |
    | `Last Interesting Moment Type` | `Contact.Last Interesting Moment Type` |
 
-1. 完了したら、「**[!UICONTROL 保存]**」をクリックします。
+1. 完了したら、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
 ## Marketo セールスインサイトの「設定」タブ {#marketo-sales-insight-configuration-tab}
 
 1. Salesforce で、タブバーの最後にある「**+**」をクリックし、「**[!UICONTROL Marketo セールスインサイトの設定]**」をクリックします。
 
-1. [Marketo Sales Insight Admin ページの Soap API パネルから資格情報をコピーして &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}[!DNL Salesforce] [!DNL Sales Insight] Configuration ページの Soap API セクションに貼り付けます。
+1. [Marketo Sales Insight管理ページ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}のSoap API パネルから資格情報をコピーし、[!DNL Salesforce] [!DNL Sales Insight]設定ページのSoap API セクションに貼り付けます。
 
-1. [Marketo Sales Insight管理者ページの Rest API パネルから資格情報をコピーして &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}[!DNL Salesforce] [!DNL Sales Insight] Configuration ページの Rest API セクションに貼り付けます。
+1. [Marketo Sales Insight管理ページ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md#set-up-marketo-sales-insight){target="_blank"}のRest API パネルから資格情報をコピーし、[!DNL Salesforce] [!DNL Sales Insight]設定ページのRest API セクションに貼り付けます。
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-enterprise-edition-25.png)
 
@@ -249,10 +249,10 @@ Salesforce のセキュリティ強化により、AppExchange パッケージは
 
 >[!NOTE]
 >
->アカウントの場合、Sales Insight にはすべてのメールが含まれますが、最新の注目のアクション、web アクティビティ、スコアの変更のみが含まれます。
+>アカウントの場合、セールスインサイトにはすべてのメールが含まれますが、最新の注目のアクション、web アクティビティ、スコアの変更のみが含まれます。
 
 >[!MORELIKETHIS]
 >
 >* [優先度、緊急度、相対スコア、最有望見込客](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
->* [&#x200B; [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md) への「Marketo」タブの追加
->* [Sales Insight へのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>* [ [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md) への「Marketo」タブの追加
+>* [セールスインサイトへのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

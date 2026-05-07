@@ -1,18 +1,18 @@
 ---
-description: 通話の録画に関する 2 パーティの同意設定を指定する方法を説明します。 国および地域の記録法に準拠します。
+description: 通話の録音に対する2者間の同意設定を設定する方法について説明します。 州および地域の録音法を遵守する。
 title: 二者間による同意の設定
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 89%
+source-wordcount: '167'
+ht-degree: 65%
 
 ---
 
 # 二者間による同意の設定 {#two-party-consent-settings}
 
-通話の記録時に米国の二者間による同意に関する法律に準拠するために、管理者は、通話の記録時に、あらかじめ記録されたメッセージを通話の開始時に再生できるようにします。
+通話を録音する際に米国の二者同意法を遵守するため、管理者は録音されたメッセージを録音の開始時に再生できるように設定することができます。
 
 >[!PREREQUISITES]
 >
@@ -36,13 +36,13 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >Wav ファイルと MP3 ファイルのみがサポートされています。30 秒を超えるファイルはアップロードできません。
+   >Wav ファイルと MP3 ファイルのみがサポートされています。 30 秒を超えるファイルはアップロードできません。
 
 1. ハードドライブから目的のオーディオファイルを選択します。
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. アップロードが完了したら、ファイルマネージャーで、縦並びの 3 つのドットを選択し、「**[!UICONTROL 同意通知として選択]**」をクリックします。終了したら「**[!UICONTROL OK]**」をクリックします。
+1. アップロードが完了したら、ファイルマネージャーで、縦並びの 3 つのドットを選択し、「**[!UICONTROL 同意通知として選択]**」をクリックします。 終了したら「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/two-party-consent-settings-6.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384433
-description: アカウントチームを設定し、CRM アカウントの役割を TAM にマッピングする方法を説明します。 アカウントチームメンバーになるユーザー検索フィールドを選択します。
+description: アカウントチームを設定し、CRM アカウントの役割をTAMにマッピングする方法について説明します。 アカウントチームメンバーになるユーザー検索フィールドを選択します。
 title: アカウントチームの設定
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 88%
+source-wordcount: '199'
+ht-degree: 82%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 88%
    >
    >「[!UICONTROL アカウントロール]」に名前を付け、CRM の目的のユーザルックアップフィールドと照合します。
 
-1. [!UICONTROL アカウントロール]名を入力し、「**CRM**」フィールドを選択します。10 個まで追加します。
+1. [!UICONTROL アカウントロール]名を入力し、「**CRM**」フィールドを選択します。 10 個まで追加します。
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL アカウント所有者]は選択できません。CRM のアカウントレベルからデフォルトで選択されます。
+   >[!UICONTROL アカウント所有者]は選択できません。 デフォルトでは、CRMのアカウントレベルから選択されます。
 
 1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 

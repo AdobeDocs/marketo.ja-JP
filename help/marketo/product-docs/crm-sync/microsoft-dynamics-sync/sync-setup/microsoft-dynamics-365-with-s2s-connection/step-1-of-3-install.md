@@ -1,22 +1,22 @@
 ---
-description: Dynamics 365 にMarketo ソリューションをインストールし、サーバー間接続を有効にする方法について説明します。 管理者からソリューションを読み込み、インストール手順を完了します。
+description: サーバー間の接続を使用してDynamics 365にMarketo ソリューションをインストールする方法について説明します。 Adminからソリューションを読み込み、インストール手順を完了します。
 title: 手順 1／3 - サーバー間接続を使用した Marketo ソリューションのインストール
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 90%
+source-wordcount: '272'
+ht-degree: 76%
 
 ---
 
 # 手順 1／3：サーバー間接続を使用した Marketo ソリューションのインストール {#step-1-of-3-install-the-marketo-solution-s2s}
 
-[!DNL Microsoft Dynamics 365] と Marketo を同期する前に、まず [!DNL Dynamics] に Marketo ソリューションをインストールする必要があります。**[!DNL Dynamics]管理者権限が必要です。**
+[!DNL Microsoft Dynamics 365]とMarketoを同期する前に、まず[!DNL Dynamics]にMarketo ソリューションをインストールする必要があります。**[!DNL Dynamics]管理者権限が必要です。**
 
 >[!CAUTION]
 >
->初期同期が完了する前にカスタムエンティティの同期を有効にしないでください。初回同期が完了すると、電子メールで通知されます。
+>初期同期が完了する前にカスタムエンティティの同期を有効にしないでください。 初回同期が完了すると、電子メールで通知されます。
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ ht-degree: 90%
 
    ![](assets/image2015-3-16-16-3a0-3a10.png)
 
-1. ![](assets/image2015-5-13-10-3a5-3a8.png) メニューをクリックします。ドロップダウンメニューで、**[!UICONTROL 設定]**／**[!UICONTROL ソリューション]**&#x200B;を選択します。
+1. ![](assets/image2015-5-13-10-3a5-3a8.png) メニューをクリックします。 ドロップダウンメニューで「**[!UICONTROL 設定]**」を選択し、「**[!UICONTROL ソリューション]**」を選択します。
 
    ![](assets/image2015-5-13-10-3a4-3a1.png)
 
@@ -42,7 +42,7 @@ ht-degree: 90%
 
    ![](assets/image2015-3-19-8-3a34-3a8.png)
 
-1. 「**[!UICONTROL ファイルを選択]**」をクリックします。[ダウンロードした](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Marketo リード管理ソリューションを選択します。「**[!UICONTROL 次へ]**」をクリックします。
+1. 「**[!UICONTROL ファイルを選択]**」をクリックします。 [ダウンロードした](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md) Marketo リード管理ソリューションを選択します。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-10-9-14-3a44-3a14.png)
 
@@ -50,7 +50,7 @@ ht-degree: 90%
 
    ![](assets/image2015-10-9-15-3a4-3a16.png)
 
-1. すべての詳細を確認したら、「**[!UICONTROL 閉じる]**」をクリックします。
+1. すべての詳細を確認したら、**[!UICONTROL 閉じる]**&#x200B;をクリックします。
 
    ![](assets/image2015-10-9-14-3a57-3a3.png)
 
@@ -58,7 +58,7 @@ ht-degree: 90%
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. 「SDK」オプションチェックボックスがオンになっていることを確認します。「**[!UICONTROL インポート]**」をクリックします。
+1. 「SDK」オプションチェックボックスがオンになっていることを確認します。 「**[!UICONTROL 読み込み]**」をクリックします。
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
@@ -74,7 +74,7 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >「Marketo Lead Management completed with warning」というメッセージが表示される場合があります。これは十分予期されているものです。
+   >「Marketo Lead Management completed with warning」というメッセージが表示される場合があります。 これは十分予期されているものです。
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 
@@ -86,7 +86,7 @@ ht-degree: 90%
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
-   完成です。インストールが完了しました。
+   完成です。 インストールが完了しました。
 
    >[!MORELIKETHIS]
    >

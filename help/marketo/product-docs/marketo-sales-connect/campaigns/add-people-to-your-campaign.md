@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352613
-description: Web アプリ、人物ページ、または Gmail と Outlook から Sales Connect キャンペーンに人物を追加する方法を説明します。 最初のメール手順をプレビュー、編集、スケジュールします。
+description: Web アプリ、人物ページ、GmailおよびOutlookからSales Connect キャンペーンに人物を追加する方法について説明します。 最初のメールステップのプレビュー、編集、スケジュール設定。
 title: キャンペーンに人物を追加
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 86%
+source-wordcount: '201'
+ht-degree: 73%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 86%
 
 複数の方法で人物をキャンペーンに追加できます。
 
-見込み客や顧客とのコミュニケーションを開始する場合は、web アプリケーションのどのページからでも、または Salesforce からでも、「キャンペーンに追加」を使用できます。
+見込み顧客やお客様とコミュニケーションを始める場合は、Web アプリケーションの任意のページまたはSalesforceからAdd to Campaignを使用できます。
 
 このフローを使用すると、キャンペーンの最初のメールをプレビューしたり、編集したり、スケジュール設定したりできます。また、キャンペーンがタスクで開始される場合、これらのタスクは web アプリケーションおよび Salesforce のタスクリストのキューに登録されます。
 

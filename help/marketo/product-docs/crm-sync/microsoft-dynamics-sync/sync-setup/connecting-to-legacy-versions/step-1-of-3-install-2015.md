@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504736
-description: Dynamics 2015 のMarketo ソリューションをオンプレミスにインストールする方法を説明します。 ソリューションを読み込み、Dynamics のインストール手順を完了します。
+description: Dynamics 2015 オンプレミス用のMarketo ソリューションをインストールする方法について説明します。 ソリューションを読み込み、Dynamicsのインストール手順を完了します。
 title: Microsoft Dynamics 2015 オンプレミス向け Marketo インストール手順 1 / 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 92%
+source-wordcount: '315'
+ht-degree: 82%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 92%
 
 >[!PREREQUISITES]
 >
->[!DNL Microsoft Dynamics] オンプレミスを使用している場合は、[Active Directory Federation Services](https://msdn.microsoft.com/ja-jp/library/bb897402.aspx) 2.0 以降（ADFS）で[インターネットに接続するデプロイメント](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701)（IFD）を設定する必要があります。注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
+>[!DNL Microsoft Dynamics] オンプレミスを使用している場合は、[Active Directory フェデレーション サービス ](https://msdn.microsoft.com/ja-jp/library/bb897402.aspx) 2.0+（ADFS）が設定された[Internet Facing Deployment](https://www.microsoft.com/en-us/download/confirmation.aspx?id=41701) （IFD）が必要です。 注意：IFD ドキュメントは、リンクをクリックすると自動的にダウンロードされます。
 >
 >始める前に、[Marketo リード管理ソリューションをダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}します。
 
@@ -31,7 +31,7 @@ ht-degree: 92%
 >
 >この同期を実行するには、CRM 管理者権限が必要です。
 
-1. **[!DNL Dynamics]にログインします。**「**[!UICONTROL Microsoft Dynamics CRM]**」ドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。
+1. **[!DNL Dynamics]にログインします。** 「**[!UICONTROL Microsoft Dynamics CRM]**」ドロップダウンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/image2015-3-19-8-33-29.png)
 
@@ -43,7 +43,7 @@ ht-degree: 92%
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. 「**[!UICONTROL 参照]**」をクリックし、[ダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)したソリューションを選択します。「**[!UICONTROL 次へ]**」をクリックします。
+1. 「**[!UICONTROL 参照]**」をクリックし、[ダウンロード](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md)したソリューションを選択します。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -51,7 +51,7 @@ ht-degree: 92%
 
    ![](assets/image2015-11-18-11-12-8.png)
 
-1. すべての詳細を確認したら、「**[!UICONTROL 閉じる]**」をクリックします。
+1. すべての詳細を確認したら、**[!UICONTROL 閉じる]**&#x200B;をクリックします。
 
    ![](assets/step6.png)
 
@@ -59,7 +59,7 @@ ht-degree: 92%
 
    ![](assets/image2015-3-19-9-21-50.png)
 
-1. 「SDK」オプションチェックボックスがオンになっていることを確認します。「**[!UICONTROL インポート]**」をクリックします。
+1. 「SDK」オプションチェックボックスがオンになっていることを確認します。 「**[!UICONTROL 読み込み]**」をクリックします。
 
    ![](assets/image2015-3-19-9-19-12.png)
 
@@ -75,7 +75,7 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >「Marketo Lead Management completed with warning」というメッセージが表示される場合があります。これは十分予期されているものです。
+   >「Marketo Lead Management completed with warning」というメッセージが表示される場合があります。 これは十分予期されているものです。
 
    ![](assets/image2015-3-13-9-54-39.png)
 
@@ -87,7 +87,7 @@ ht-degree: 92%
 
    ![](assets/image2015-3-19-8-41-21.png)
 
-   お疲れさまでした。インストールが完了しました。
+   お疲れさまでした。 インストールが完了しました。
 
    >[!CAUTION]
    >
@@ -95,4 +95,4 @@ ht-degree: 92%
 
    >[!MORELIKETHIS]
    >
-   >[&#x200B; [!DNL Microsoft Dynamics]  2015 オンプレミス向け Marketo インストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
+   >[ [!DNL Microsoft Dynamics]  2015 オンプレミス向け Marketo インストール手順 2 / 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)

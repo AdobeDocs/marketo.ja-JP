@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2360205
-description: ワークスペース間でのモデルの共有など、Marketo Engageのワークスペース間でのモデルの共有について説明します。 このガイドを使用して、次の手順を完了します。
+description: ワークスペース間でのモデルの共有を含め、Marketo Engageのワークスペース間でのモデルの共有について説明します。 このガイドを使用して、次のステップを完了してください。
 title: ワークスペースをまたいだモデルの共有
 exl-id: 3a118f63-a97d-432a-a50c-3e08d934405e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 81%
+source-wordcount: '131'
+ht-degree: 78%
 
 ---
 
 # ワークスペースをまたいだモデルの共有 {#share-a-model-across-workspaces}
 
-Marketo を使用すると、ワークスペースをまたいでモデルを共有できます。手順は以下のとおりです。
+Marketo を使用すると、ワークスペースをまたいでモデルを共有できます。 手順は以下のとおりです。
 
 1. **[!UICONTROL 分析]**&#x200B;セクションに移動します。
 
@@ -43,4 +43,4 @@ Marketo を使用すると、ワークスペースをまたいでモデルを共
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 
-簡単ですね。他のワークスペースのユーザーが共有モデルを利用できるようになります。
+本当に簡単です！ 他のワークスペースのユーザーが共有モデルを利用できるようになります。

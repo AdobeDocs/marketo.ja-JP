@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949716
-description: Outlook 用Marketo メールアドインを使用してメールを送信およびトラッキングする方法について説明します。 Outlook から作成し、ビュー、クリック、返信を確認します。
+description: Outlook用Marketo電子メールアドインを使用して、電子メールを送信および追跡する方法について説明します。 Outlookから作成して、ビュー、クリック、返信を確認します。
 title: ' [!DNL Outlook] 用メールアドインを使用したメールの送信とトラッキング'
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 91%
+source-wordcount: '302'
+ht-degree: 90%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 91%
 
 >[!PREREQUISITES]
 >
->まだインストールしていない場合は、[&#x200B; [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 用 Marketo メールアドインをインストールします。
+>まだインストールしていない場合は、[ [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 用 Marketo メールアドインをインストールします。
 
 >[!NOTE]
 >
->セールスインサイトアクションの機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用のセールスインサイトメールプラグインでは使用できません。現時点では、ユーザは、セールスインサイトメールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
+>セールスインサイトアクションの機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用のセールスインサイトメールプラグインでは使用できません。 現時点では、ユーザは、セールスインサイトメールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
 
 1. Microsoft Outlook を開き、新しいメールを作成します。
 
@@ -37,7 +37,7 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >Marketo インスタンスに存在しない人にメールを送信すると、その人のリードレコードが自動的に作成されます。その場合の姓は必ず「mktUnknown」となるので、すぐに区別がつきます。
+   >Marketo インスタンスに存在しない人にメールを送信すると、その人のリードレコードが自動的に作成されます。 その場合の姓は必ず「mktUnknown」となるので、すぐに区別がつきます。
 
    >[!TIP]
    >
@@ -55,7 +55,7 @@ ht-degree: 91%
 
    ![](assets/was-sent-sales-email.png)
 
-簡単です。このメールはセールスチームの [!DNL Outlook] から送信されますが、トラッキングは Marketo で行われます。
+本当に簡単です！ このメールはセールスチームの [!DNL Outlook] から送信されますが、トラッキングは Marketo で行われます。
 
 >[!MORELIKETHIS]
 >

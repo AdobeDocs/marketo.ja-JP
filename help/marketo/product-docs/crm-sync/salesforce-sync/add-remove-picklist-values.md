@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719312
-description: Salesforce選択リスト値の追加と削除、およびそれらがMarketoに与える影響について説明します。 通知からフォームに新しい値を追加し、必要に応じて手動で値を削除します。
+description: Salesforce ピックリストの値を追加および削除する方法と、それらがMarketoに与える影響について説明します。 通知からフォームに新しい値を追加し、必要に応じて手動で値を削除します。
 title: 選択リスト値の追加／削除
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 89%
+source-wordcount: '244'
+ht-degree: 85%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 89%
 [!DNL Salesforce] のリードフィールドと取引先責任者フィールドの値が異なる場合：
 
 1. SFDC で選択リストに値を追加すると、通知が届きます。
-1. 通知には、使用箇所が示されます。これで、この新しい値を必要に応じてフォーム上のオプションとして追加できます。
+1. 通知を使用すると、どこで使用されているかがわかります。 これで、この新しい値を必要に応じてフォーム上のオプションとして追加できます。
 
 SFDC リードの選択リストの値が SFDC 連絡先の選択リストと異なる場合は、共通の値がフォームのデフォルト値オプションとして使用されます。
 

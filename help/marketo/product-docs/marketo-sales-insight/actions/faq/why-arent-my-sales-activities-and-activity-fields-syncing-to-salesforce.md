@@ -1,11 +1,11 @@
 ---
-description: 営業アクティビティとフィールドがSalesforceと同期されない場合のトラブルシューティング。 API ログ、カスタムフィールド、権限を確認します。
+description: セールスアクティビティとフィールドがSalesforceに同期されない場合のトラブルシューティング。 APIのロギング、カスタムフィールド、権限を確認します。
 title: セールスアクティビティおよびアクティビティフィールドが Salesforce に同期されない理由
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 82%
+source-wordcount: '339'
+ht-degree: 68%
 
 ---
 
@@ -13,18 +13,18 @@ ht-degree: 82%
 
 **Salesforce に同期されたメールまたは電話アクティビティが表示されません。**
 
-* Salesforce に接続していることを確認してください。各ユーザーは、メールおよび電話を Salesforce に記録するために接続している必要があります。
+* Salesforceに接続していることを確認します。 各ユーザーは、メールおよび電話を Salesforce に記録するために接続している必要があります。
 * [Salesforce 同期設定](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}が設定されていることを確認してください。
-* メールは、プライマリルックアップとしての Salesforce ID およびセカンダリとしてのメールアドレスに基づいてレコードルックアップを行います。[&#x200B; アクション web アプリ &#x200B;](https://toutapp.com/next#command_center){target="_blank"} で、人物レコードにSalesforce ID とメールアドレスのリンクがあることを確認できます。
-* 電話は、Salesforce ID のみに基づいてレコードルックアップを行います。Actions の人物レコードに Salesforce ID が存在しない場合、電話は記録されません。[&#x200B; アクション web アプリ &#x200B;](https://toutapp.com/next#command_center){target="_blank"} で、人物レコードにSalesforce ID がリンクされていることを確認できます。
+* メールは、プライマリルックアップとしての Salesforce ID およびセカンダリとしてのメールアドレスに基づいてレコードルックアップを行います。 個人レコードにSalesforce IDとメールアドレスがリンクされていることを、[ アクション web アプリ ](https://toutapp.com/next#command_center){target="_blank"}で確認できます。
+* 電話は、Salesforce ID のみに基づいてレコードルックアップを行います。 Actions の人物レコードに Salesforce ID が存在しない場合、電話は記録されません。 個人レコードにSalesforce IDがリンクされていることを、[ アクション web アプリ ](https://toutapp.com/next#command_center){target="_blank"}で確認できます。
 
 **Salesforce アップデートにアクティビティフィールドが表示されません。**
 
-Salesforce にメール[アクティビティ属性フィールド](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}アップデートが表示されない場合、チームのフィールドアクセシビリティの制限が原因である可能性があります。Salesforce のフィールドレベルセキュリティにより、Salesforce 管理者は、ユーザーが表示および編集可能な情報に制限を設けることができます。Actions ユーザーがこれらのフィールドを表示および編集するアクセス権を持っていない場合、Actions アクティビティ同期は、これらのフィールドの更新に失敗します。
+Salesforceでメール [ アクティビティ属性フィールド ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}の更新が表示されない場合は、チームのフィールドアクセシビリティが制限されている可能性があります。 Salesforce のフィールドレベルセキュリティにより、Salesforce 管理者は、ユーザーが表示および編集可能な情報に制限を設けることができます。 Actions ユーザーがこれらのフィールドを表示および編集するアクセス権を持っていない場合、Actions アクティビティ同期は、これらのフィールドの更新に失敗します。
 
 * Salesforce 管理者と連携して、これらのセキュリティ設定が [Actions Salesforce Activity フィールド](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}に干渉しないようにします。
-* Salesforce 管理者には、「セキュリティコントロール」タブに「フィールドアクセシビリティ」が表示されます。Actions がやり取りするメインオブジェクトは、リード、連絡先、アカウント、商談、タスク／アクティビティです。
+* Salesforce管理者の場合は、「セキュリティコントロール」タブでフィールドアクセシビリティを確認できます。 Actions がやり取りするメインオブジェクトは、リード、連絡先、アカウント、商談、タスク／アクティビティです。
 
 >[!NOTE]
 >
->リード、取引先責任者、アカウントおよび商談オブジェクトに関連付けられたフィールドは、セールスインサイトSalesforce パッケージと共にインストールされます。[タスク／アクティビティレコードタイプに関連付けられたフィールドは、Salesforce 管理者によって作成される必要があります](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}。
+>リード、取引先責任者、アカウントおよび商談オブジェクトに関連付けられたフィールドは、セールスインサイトSalesforce パッケージと共にインストールされます。 [タスク／アクティビティレコードタイプに関連付けられたフィールドは、Salesforce 管理者によって作成される必要があります](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}。

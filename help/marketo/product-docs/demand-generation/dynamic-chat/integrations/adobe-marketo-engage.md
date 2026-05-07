@@ -1,12 +1,12 @@
 ---
-description: Dynamic ChatをMarketo Engage サブスクリプションに接続する方法について説明します。 1 回限りの同期を実行し、ターゲティングするユーザーおよび会社の属性を選択します。
+description: Dynamic ChatをMarketo Engage サブスクリプションに接続する方法について説明します。 1回限りの同期を実行し、ターゲティング用に個人と会社の属性を選択します。
 title: Adobe Marketo Engage
 feature: Dynamic Chat
 exl-id: 9ce43de3-0503-4894-89f2-ee24e7df9a73
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 87%
+source-wordcount: '312'
+ht-degree: 74%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 87%
 
 ## Dynamic Chat の接続 {#connecting-dynamic-chat}
 
-[初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}が完了したら、Dynamic Chat を Adobe Marketo Engage サブスクリプションに接続する 1 回限りの同期を実行します。
+[初期設定](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md){target="_blank"}が完了したら、Dynamic ChatをAdobe Marketo Engage サブスクリプションに接続する1回限りの同期を実行します。
 
 >[!NOTE]
 >
->Dynamic Chatでは、[Marketo ネイティブ &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"} およびカスタムの人物フィールドと会社フィールドの同期をサポートしています。
+>Dynamic Chatでは、[Marketo ネイティブ ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/field-types){target="_blank"}とカスタムの人物フィールドおよび会社フィールドの同期をサポートしています。
 
 1. マイ Marketo で、**[!UICONTROL 動的チャット]**&#x200B;タイルをクリックします。
 
@@ -28,7 +28,7 @@ ht-degree: 87%
    >
    >タイルが表示されない場合は、Marketo 管理者にお問い合わせください。
 
-1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、動的チャットに直接アクセスできます。そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target="_blank"}します。
+1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、動的チャットに直接アクセスできます。 そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target="_blank"}します。
 
 1. Marketo インスタンスに接続するには、**[!UICONTROL 統合]**&#x200B;を選択します。
 
@@ -38,11 +38,11 @@ ht-degree: 87%
 
    ![](assets/adobe-marketo-engage-3.png)
 
-1. Marketo インスタンスから最大 50 個の属性（標準フィールドまたはカスタムフィールド）を選択し、動的チャットに同期して、オーディエンスのターゲティング、データマッピング、パーソナライゼーションに使用します。終了したら「**[!UICONTROL 次へ]**」をクリックします。
+1. Marketo インスタンスから最大 50 個の属性（標準フィールドまたはカスタムフィールド）を選択し、動的チャットに同期して、オーディエンスのターゲティング、データマッピング、パーソナライゼーションに使用します。 終了したら「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/adobe-marketo-engage-4.png)
 
-1. 選択内容を確認します。「**[!UICONTROL 確認]**」をクリックして同期を開始します。
+1. 選択内容を確認します。 「**[!UICONTROL 確認]**」をクリックして同期を開始します。
 
    ![](assets/adobe-marketo-engage-5.png)
 
@@ -72,7 +72,7 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->属性を削除するオプションは、現在どのダイアログでも使用されていない場合にのみ表示されます。
+>属性が現在どのダイアログでも使用されていない場合にのみ、属性を削除するオプションが表示されます。
 
 1. 「**[!UICONTROL 統合]**」で、「**[!UICONTROL Adobe Marketo Engage]**」タブが選択されていることを確認し、削除する属性をクリックします。
 

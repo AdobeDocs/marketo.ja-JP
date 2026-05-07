@@ -1,23 +1,23 @@
 ---
 unique-page-id: 4718666
-description: 収益モデルの在庫ステージを使用して、Marketo Engageで収益モデルの在庫ステージを使用する方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: 収益モデルの在庫ステージを使用して、Marketo Engageで収益モデルの在庫ステージを使用する方法を説明します。 このガイドを使用して、次のステップを完了してください。
 title: 収益モデル在庫ステージの使用
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 91%
+source-wordcount: '287'
+ht-degree: 83%
 
 ---
 
 # 収益モデル在庫ステージの使用 {#using-revenue-model-inventory-stages}
 
-既知のリードと顧客はまず在庫ステージに入ります。これは見込み客プールで、リードはここで、セールスの準備が完了するまで育成されます。在庫ステージに時間制限はありません。
+既知のリードと顧客はまず在庫ステージに入ります。 これは見込み客プールで、リードはここで、セールスの準備が完了するまで育成されます。 在庫ステージに時間制限はありません。
 
 >[!TIP]
 >
->グラフィックやプレゼンテーションプログラムで練習モデルを作成し、まず同僚と確認するのは素晴らしいアイデアです。
+>グラフィックやプレゼンテーションプログラムで練習モデルを作成し、最初に同僚と確認することをお勧めします。
 
 ## 在庫ステージの追加 {#add-an-inventory-stage}
 
@@ -29,7 +29,7 @@ ht-degree: 91%
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
-1. **[!UICONTROL 下書きの編集]**&#x200B;をクリックします。
+1. **[!UICONTROL ドラフトの編集]**&#x200B;をクリックします。
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -37,13 +37,13 @@ ht-degree: 91%
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. ステージを追加した後、必要に応じて、**[!UICONTROL 名前]**&#x200B;を編集し、**[!UICONTROL 説明]**&#x200B;を追加し、**[!UICONTROL タイプ]**&#x200B;を調整できます。また、この時点で「**[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**」を選択することもできます。
+1. ステージを追加した後、必要に応じて、**[!UICONTROL 名前]**&#x200B;を編集し、**[!UICONTROL 説明]**&#x200B;を追加し、**[!UICONTROL タイプ]**&#x200B;を調整できます。 また、この時点で「**[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**」を選択することもできます。
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## 在庫ステージの編集 {#edit-an-inventory-stage}
 
-在庫アイコンを選択すると、**[!UICONTROL 名前]**&#x200B;を編集し、**[!UICONTROL 説明]**&#x200B;を追加し、**[!UICONTROL タイプ]**&#x200B;を調整することができます。また、「[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)」を選択することもできます。
+在庫アイコンを選択すると、**[!UICONTROL 名前]**&#x200B;を編集し、**[!UICONTROL 説明]**&#x200B;を追加し、**[!UICONTROL タイプ]**&#x200B;を調整することができます。 また、「[[!UICONTROL 顧客別トラッキングの開始]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)」を選択することもできます。
 
 1. **[!UICONTROL 在庫]**&#x200B;アイコンをクリックします。
 
@@ -67,8 +67,8 @@ ht-degree: 91%
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. どちらの方法を削除しても、選択内容の確認が求められます。「**[!UICONTROL 削除]**」をクリックします。
+1. どちらの方法を削除しても、選択内容の確認が求められます。 「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 
-これで完了です。これで、在庫ステージの素晴らしい世界についてがわかりました。
+これで完了です。 これで、在庫ステージの素晴らしい世界についてがわかりました。

@@ -1,12 +1,12 @@
 ---
-description: insight Actions アカウントをSalesforceに接続する方法を説明します。
+description: Sales Insight Actions アカウントをSalesforceに接続する方法について説明します。
 title: セールスインサイトアクションアカウントを Salesforce に接続
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 91%
+source-wordcount: '132'
+ht-degree: 59%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 91%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-1.png)
 
-1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL Salesforce]**」をクリックします。
+1. 「[!UICONTROL 管理者設定]」で「**[!UICONTROL Salesforce]**」をクリックします。
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
@@ -32,7 +32,7 @@ ht-degree: 91%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
-1. 既に Salesforce にログインしている場合は、Salesforce に接続されます。まだログインしていない場合は、ログインするように求められます。
+1. 既にSalesforceにログインしている場合は、接続されます。 そうでない場合は、ログインするように求められます。
 
 ## 管理者以外のユーザとして接続する方法 {#how-to-connect-as-a-non-admin}
 
@@ -50,4 +50,4 @@ ht-degree: 91%
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 
-1. 既に Salesforce にログインしている場合は、Salesforce に接続されます。まだログインしていない場合は、ログインするように求められます。
+1. 既にSalesforceにログインしている場合は、接続されます。 そうでない場合は、ログインするように求められます。

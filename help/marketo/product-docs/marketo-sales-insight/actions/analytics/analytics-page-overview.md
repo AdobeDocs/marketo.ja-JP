@@ -1,18 +1,18 @@
 ---
-description: Sales Insightのアクションに関する「Analytics」タブとメールエンゲージメントデータについて説明します。 「自分」、「チーム」および「コンテンツ」タブで個人およびチームの統計を表示します。
+description: Sales Insight Actionsの「Analytics」タブとメールエンゲージメントデータについて説明します。 「自分」、「チーム」、「コンテンツ」タブで、個人とチームの統計情報を表示します。
 title: 分析ページの概要
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 93%
+source-wordcount: '403'
+ht-degree: 88%
 
 ---
 
 # 分析ページの概要 {#analytics-page-overview}
 
-「分析」タブでは、メールのエンゲージメントに関するデータを確認できます。個人データとチームデータの両方が表示されます。管理者は、「[!UICONTROL 自分]」タブでユーザによるフィルタリングも行うことができます。
+「分析」タブでは、メールのエンゲージメントに関するデータを確認できます。 個人データとチームデータの両方が表示されます。 管理者は、「[!UICONTROL 自分]」タブでユーザによるフィルタリングも行うことができます。
 
 ## 更新の頻度 {#how-often-does-it-update}
 
@@ -20,30 +20,30 @@ ht-degree: 93%
 
 ## 数値の意味 {#what-do-the-numbers-mean}
 
-放射状グラフの数値は、送信済みメール総数に対するイベントの総数を計算したものです。同じ単一メールが 5 回参照された場合は、送信数「1」に参照数「5」が加算されます。円グラフの中のクリック数や返信数についても同じ方法で計算されます。
+放射状グラフの数値は、送信済みメール総数に対するイベントの総数を計算したものです。 同じ単一メールが 5 回参照された場合は、送信数「1」に参照数「5」が加算されます。 円グラフの中のクリック数や返信数についても同じ方法で計算されます。
 
-テーブルに表示されたすべての統計は、メールに対する一意の参照数、クリック数、返信数を参照して計算されます。1 件のメールが 5 回表示された場合、1 件の表示としてカウントされます。そのため、テーブルの数値と放射状グラフの数値に大きな違いが見られる場合があります。
+テーブルに表示されたすべての統計は、メールに対する一意の参照数、クリック数、返信数を参照して計算されます。 1 件のメールが 5 回表示された場合、1 件の表示としてカウントされます。 そのため、テーブルの数値と放射状グラフの数値に大きな違いが見られる場合があります。
 
 ## 分析タブ {#analytic-tabs}
 
-統計は、「[!UICONTROL 自分]」、「[!UICONTROL チーム]」、「[!UICONTROL コンテンツ]」の 3 つのタブに分類されます。それぞれを使用して、アドビが提供するインサイトに関する異なる視点を得ることができます。
+統計は、「[!UICONTROL 自分]」、「[!UICONTROL チーム]」、「[!UICONTROL コンテンツ]」の 3 つのタブに分類されます。 それぞれを使用して、アドビが提供するインサイトに関する異なる視点を得ることができます。
 
 分析ページのタブからタブに移動する際に、表示、クリックまたは返信アイコンをクリックして、統計を並べ替えることができます。
 
-「[!UICONTROL 自分]」タブと「[!UICONTROL チーム]」タブには、クローズした取引に関する情報が表示されます。この数は、チームのメンバーがクローズする回数によって制御されます。
+「[!UICONTROL 自分]」タブと「[!UICONTROL チーム]」タブには、クローズした取引に関する情報が表示されます。 この数は、チームのメンバーがクローズする回数によって制御されます。
 
 ## 「[!UICONTROL 自分]」タブ {#me-tab}
 
-「[自分](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}」タブは、メール、テンプレート、リンクのエンゲージメントを確認するのに最適です。セールスインサイトアクションの管理者は、チーム上の任意のユーザでフィルタリングして統計を確認できます。
+「[自分](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"}」タブは、メール、テンプレート、リンクのエンゲージメントを確認するのに最適です。 Sales Insight Actionsの管理者は、チームの任意のユーザーでフィルタリングして統計情報を確認できます。
 
 ## 「[!UICONTROL チーム]」タブ {#team-tab}
 
-[「チーム」タブ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}で、チーム全体の統計とランキングを表示できます。また、作成した任意のサブチームでフィルタリングすることもできます。
+[「チーム」タブ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}で、チーム全体の統計とランキングを表示できます。 また、作成した任意のサブチームでフィルタリングすることもできます。
 
 ## 「[!UICONTROL コンテンツ]」タブ {#content-tab}
 
-「[コンテンツ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"}」タブには、テンプレート、コンテンツおよびリンクに関する統計が含まれます。全員または管理者が作成したチームでフィルターできます。
+「[コンテンツ](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"}」タブには、テンプレート、コンテンツおよびリンクに関する統計が含まれます。 全員または管理者が作成したチームでフィルターできます。
 
-件名列の下に青いテキストが表示される場合は、テンプレートが共有されていることを意味します。青色のテキストをクリックして、そのテンプレートに移動できます。「**[!UICONTROL テンプレート分析]**」をクリックすると、使用状況を表示できます。
+件名列の下に青いテキストが表示される場合は、テンプレートが共有されていることを意味します。 青色のテキストをクリックして、そのテンプレートに移動できます。 「**[!UICONTROL テンプレート分析]**」をクリックすると、使用状況を表示できます。
 
 「コンテンツのクリック数」は、受信者がメール内のリンクをクリックしたときにカウントされます。

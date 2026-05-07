@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317669
-description: Sales Connect のSalesforce同期設定を理解します。 Sales Connect とSalesforce間の連絡先、アクティビティ、およびデータの同期方法を設定します。
+description: Sales ConnectのSalesforce同期設定について説明します。 Sales ConnectとSalesforce間の連絡先、アクティビティ、データの同期方法を設定します。
 title: Salesforce 同期設定
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '436'
-ht-degree: 95%
+source-wordcount: '444'
+ht-degree: 87%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 95%
 
    ![](assets/one-2.png)
 
-1. 「[!UICONTROL マイアカウント]」（管理者の場合は[!UICONTROL 管理者設定]）で、「**[!UICONTROL Salesforce]**」をクリックします。
+1. [!UICONTROL My Account] （[!UICONTROL Admin Settings] if you are an Admin）で、**[!UICONTROL Salesforce]**&#x200B;をクリックします。
 
    ![](assets/two-2.png)
 
@@ -37,7 +37,7 @@ ht-degree: 95%
 
    ![](assets/four-1.png)
 
-1. 「**[!UICONTROL Salesforce API]**」タブをクリックします。このカードでは、[!DNL Salesforce] に情報を記録する際の環境設定を設定できます。終了したら「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL Salesforce API]**」タブをクリックします。 このカードでは、[!DNL Salesforce] に情報を記録する際の環境設定を設定できます。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/five.png)
 
@@ -55,7 +55,7 @@ ht-degree: 95%
 
    ![](assets/one-3.png)
 
-1. 「[!UICONTROL マイアカウント]」（管理者の場合は[!UICONTROL 管理者設定]）で、「**[!UICONTROL Salesforce]**」をクリックします。
+1. [!UICONTROL My Account] （[!UICONTROL Admin Settings] if you are an Admin）で、**[!UICONTROL Salesforce]**&#x200B;をクリックします。
 
    ![](assets/two-3.png)
 
@@ -74,13 +74,13 @@ ht-degree: 95%
 1. 「**[!UICONTROL マイ設定]**」を選択します。
 1. 「**[!UICONTROL メール]**」を選択します。
 1. 「**[!UICONTROL メールを Salesforce に送信]**」を選択します。
-1. このページに、「Salesforce アドレス宛てにメールを送信」というラベルの付いたフィールドが表示されます。横に何も入力されていない場合は、「アクセス可能なメールアドレス」までスクロールします。
+1. このページに、「Salesforce アドレス宛てにメールを送信」というラベルの付いたフィールドが表示されます。 横に何も入力されていない場合は、「アクセス可能なメールアドレス」までスクロールします。
 1. BCC を送信するメールアドレスを入力します。
 1. 「**[!UICONTROL 変更を保存]**」をクリックします。
 
 **マイ設定で [!DNL Salesforce] へのメール送信が見つからない**
 
-「設定」に「Salesforce へのメール送信」が表示されない場合は、管理者が有効にしていない可能性があります。これは、チームが [!DNL Salesforce] を初めて使用した場合や、チームが [!DNL Salesforce] が提供する BCC アドレスを使用したことがない場合に発生する可能性があります。
+「設定」に「Salesforce へのメール送信」が表示されない場合は、管理者が有効にしていない可能性があります。 これは、チームが [!DNL Salesforce] を初めて使用した場合や、チームが [!DNL Salesforce] が提供する BCC アドレスを使用したことがない場合に発生する可能性があります。
 
 >[!NOTE]
 >
@@ -99,7 +99,7 @@ ht-degree: 95%
 
    ![](assets/one-3.png)
 
-1. 「[!UICONTROL マイアカウント]」（管理者の場合は[!UICONTROL 管理者設定]）で、「**[!UICONTROL Salesforce]**」をクリックします。
+1. [!UICONTROL My Account] （[!UICONTROL Admin Settings] if you are an Admin）で、**[!UICONTROL Salesforce]**&#x200B;をクリックします。
 
    ![](assets/two-2.png)
 

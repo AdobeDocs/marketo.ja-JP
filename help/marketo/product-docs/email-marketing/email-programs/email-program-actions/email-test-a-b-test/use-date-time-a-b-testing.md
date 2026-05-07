@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359520
-description: メールプログラムの日時 A/B テストを実行する方法を説明します。 様々な送信時間をテストし、パフォーマンスで勝者を選択します。
+description: メールプログラムの日時A/B テストを実行する方法について説明します。 異なる送信時間をテストし、パフォーマンスごとに勝者を選択します。
 title: 「日付／時間」A/B テストの使用
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 92%
+source-wordcount: '277'
+ht-degree: 73%
 
 ---
 
 # 「日付／時間」A/B テストの使用 {#use-date-time-a-b-testing}
 
-メールの A/B テストはとても簡単に実施できます。1 つは&#x200B;**[!UICONTROL 日時]**&#x200B;テストです。このテストでは、メールの送信に最適な時間帯または曜日をテストします。その設定方法を説明しましょう。
+メールの A/B テストはとても簡単に実施できます。 1 つは&#x200B;**[!UICONTROL 日時]**&#x200B;テストです。 このテストでは、メールの送信に最適な時間帯または曜日をテストします。 その設定方法を説明します。
 
 >[!PREREQUISITES]
 >
@@ -24,7 +24,7 @@ ht-degree: 92%
 
    ![](assets/image2014-9-12-15-3a41-3a3.png)
 
-1. 新しいウィンドウが開きます。「**[!UICONTROL テストタイプ]**」で「**[!UICONTROL 日時]**」を選択します。
+1. 新しいウィンドウが開きます。 「**[!UICONTROL テストタイプ]**」で「**[!UICONTROL 日時]**」を選択します。
 
    ![](assets/image2014-9-12-15-3a41-3a12.png)
 
@@ -54,6 +54,6 @@ ht-degree: 92%
 
    >[!CAUTION]
    >
-   >**サンプルサイズを 100% に設定しないことをお勧めします**。静的リストを使用している場合、サンプルサイズを 100% に設定すると、オーディエンスの全員にメールが送信され、だれも勝者になりません。**スマート**&#x200B;リストを使用している場合、サンプルサイズを 100% に設定すると、_その時点で_&#x200B;オーディエンスの全員にメールが送信されます。メールプログラムが後日再実行されると、スマートリストに振り分けられた新しいリードも、オーディエンスに含まれるようになっているのでメールを受け取ります。
+   >**サンプルサイズを 100% に設定しないことをお勧めします**。 静的リストを使用している場合、サンプルサイズを100%に設定すると、オーディエンス全員にメールが送信され、勝者は誰にも送信されません。 **smart** リストを使用している場合、サンプルサイズを100%に設定すると、その時点で&#x200B;_オーディエンスのすべてのユーザーにメールが送信されます。_ メールプログラムが後日再実行されると、スマートリストに振り分けられた新しいリードも、オーディエンスに含まれるようになっているのでメールを受け取ります。
 
-   ここまで来れば、あと一歩です。続いて、[A/B テストの勝者の条件を定義](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)する必要があります。
+   ここまで来れば、あと一歩です。 続いて、[A/B テストの勝者の条件を定義](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)する必要があります。

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472348
-description: 既存のフリーフォームのランディングページテンプレートをモバイル互換にする方法を説明します。 テンプレートまたはランディングページエディターからのアップグレード。
+description: 既存の自由形式ランディングページテンプレートをモバイル対応にする方法について説明します。 テンプレートエディターまたはランディングページエディターからアップグレードします。
 title: 既存のフリーフォームランディングページテンプレートのモバイルとの互換性の確保
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 92%
+source-wordcount: '263'
+ht-degree: 83%
 
 ---
 
@@ -45,13 +45,13 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >アップグレードは安全ですが、ページに食い違いがないかを確認してください。アップグレードすると、そのテンプレートを使用するすべてのランディングページのドラフトが作成されます。
+   >アップグレードは安全ですが、ページに食い違いがないかを確認してください。 アップグレードすると、そのテンプレートを使用するすべてのランディングページのドラフトが作成されます。
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
 ## テンプレートを[!UICONTROL モバイルに対応]させる理由は何ですか？ {#what-makes-a-template-mobile-compatible}
 
-いい質問です。テンプレートには次のタグが必要です。
+いい質問です。 テンプレートには次のタグが必要です。
 
 `Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>`
 
@@ -67,7 +67,7 @@ ht-degree: 92%
 
 ## フリーフォームランディングページエディターからのテンプレートのアップグレード {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
-ランディングページを編集して「モバイル」タブをクリックすると、テンプレートがアップグレードされていないことに気付く場合があります。大丈夫です。すぐにアップグレードできます。
+ランディングページを編集する際に「モバイル」タブをクリックすると、テンプレートがアップグレードされていないことがあります。 大丈夫です。 すぐにアップグレードできます。
 
 1. 「**[!UICONTROL モバイル]**」タブをクリックします。
 
@@ -81,4 +81,4 @@ ht-degree: 92%
    >
    >モバイルバージョンのテンプレートをアクティベートすると、そのテンプレートを使用するランディングページのドラフトが作成されます。
 
-これで完了です。このテンプレートを使用するすべてのランディングページの[モバイル表示をカスタマイズ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)できます。
+これで完了です。 このテンプレートを使用するすべてのランディングページの[モバイル表示をカスタマイズ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)できます。

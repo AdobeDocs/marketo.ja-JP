@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11383877
-description: Marketo Engageでプログラムアナライザーのクローンを作成する方法について説明します。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageでプログラムアナライザーのクローンを作成し、プログラムアナライザーのクローンを作成する方法について説明します。 このガイドを使用して、次のステップを完了してください。
 title: プログラムアナライザーの複製
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 80%
+source-wordcount: '132'
+ht-degree: 67%
 
 ---
 
 # プログラムアナライザーの複製 {#clone-a-program-analyzer}
 
-アナライザーを保存した後は、簡単に複製して新しいアナライザーを作成できます。次に、新しいアナライザーに変更が必要な場合は、アクセスして編集します。
+アナライザーを保存した後、それを複製して新しいアナライザーを作成するのは簡単です。 次に、新しいアナライザーに変更が必要な場合は、アクセスして編集します。
 
 1. 「**[!UICONTROL 分析]**」タイルをクリックします。
 
@@ -35,7 +35,7 @@ ht-degree: 80%
 
    ![](assets/image2016-10-31-16-3a15-3a15.png)
 
-1. 2 つの同じアナライザーの名前が異なるようになります。クローンを開き、必要な変更をおこないいます。
+1. 2 つの同じアナライザーの名前が異なるようになります。 クローンを開き、必要な変更をおこないいます。
 
    ![](assets/image2016-10-31-16-3a17-3a11.png)
 

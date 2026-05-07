@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571800
-description: Professional Edition の最後の手順で、MarketoとSalesforceを接続する方法を説明します。 同期ユーザーセキュリティトークンを取得し、Marketo Admin で資格情報を設定します。
+description: MarketoとSalesforceを連携させる方法については、Professional エディションの最後のステップでご確認ください。 Marketo Adminで、sync ユーザーセキュリティトークンを取得し、資格情報を設定します。
 title: 手順 3／3 — Marketo と Salesforce の接続（Professional）
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '398'
-ht-degree: 93%
+source-wordcount: '402'
+ht-degree: 91%
 
 ---
 
@@ -48,7 +48,7 @@ ht-degree: 93%
 
    >[!NOTE]
    >
-   >同期ユーザーから Marketo で[不要なフィールドをすべて非表示](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}にした後で、「**[!UICONTROL 同期フィールド]**」をクリックするようにしてください。「同期フィールド」をクリックすると、ユーザーが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
+   >同期ユーザーから Marketo で[不要なフィールドをすべて非表示](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}にした後で、「**[!UICONTROL 同期フィールド]**」をクリックするようにしてください。 「同期フィールド」をクリックすると、ユーザーが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
 
 1. Salesforce 設定のパート 2 で作成した Salesforce 同期ユーザの資格情報（[Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) または [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)）を入力して、「**[!UICONTROL 同期フィールド]**」をクリックします。
 
@@ -64,7 +64,7 @@ ht-degree: 93%
 
    >[!CAUTION]
    >
-   >[マッピングを調べてカスタマイズしたい](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"}場合、これが唯一のチャンスです。「Salesforce 同期の開始」をクリックすると、同期されます。
+   >[マッピングを調べてカスタマイズしたい](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"}場合、これが唯一のチャンスです。 「Salesforce Syncを開始」をクリックすると完了です。
 
 ## [!DNL Salesforce] 同期の開始 {#start-salesforce-sync}
 
@@ -74,7 +74,7 @@ ht-degree: 93%
 
    >[!CAUTION]
    >
-   >Marketo は、[!DNL Salesforce] の同期に対して、またはリードを手動で入力した場合には、自動的に重複排除を行いません。
+   >Marketo は、[!DNL Salesforce] の同期や、リードを手動で入力した場合には、自動的に重複排除を行いません。
 
 1. 「**[!UICONTROL 同期の開始]**」をクリックします。
 
@@ -86,13 +86,13 @@ ht-degree: 93%
 
 ## 同期の検証 {#verify-sync}
 
-Marketo の「管理」領域に、[!DNL Salesforce] 同期に関するステータスメッセージが表示されます。次の手順に従うことで、同期が正しく機能していることを確認できます。
+Marketo の「管理」領域に、[!DNL Salesforce] 同期に関するステータスメッセージが表示されます。 次の手順に従うことで、同期が正しく機能していることを確認できます。
 
 1. Marketo で、「**[!UICONTROL 管理]**」をクリックして、「**Salesforce**」をクリックします。
 
    ![](assets/image2014-12-9-9-3a53-3a40.png)
 
-1. 同期ステータスは、右上隅に表示されます。**[!UICONTROL 最終同期]**、**[!UICONTROL 同期が進行しています]**、**[!UICONTROL 失敗]**&#x200B;のいずれかのメッセージが表示されます。
+1. 同期ステータスは、右上隅に表示されます。 **[!UICONTROL 最終同期]**、**[!UICONTROL 同期が進行しています]**、**[!UICONTROL 失敗]**&#x200B;のいずれかのメッセージが表示されます。
 
    ![](assets/image2014-12-9-9-3a53-3a50.png)
 

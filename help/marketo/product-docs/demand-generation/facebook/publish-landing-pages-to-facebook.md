@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359823
-description: Marketoのランディングページを Facebook に公開する方法を説明します。 ランディングページのコンテンツをオーディエンスの Facebook 投稿として共有します。
+description: MarketoのランディングページをFacebookに公開する方法について説明します。 オーディエンス向けのFacebookの投稿としてランディングページコンテンツを共有します。
 title: ランディングページの Facebook への公開
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 93%
+source-wordcount: '301'
+ht-degree: 82%
 
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 93%
 
 >[!AVAILABILITY]
 >
->SMB Spark（Standard および Select）個別にライセンスされる機能を持つ企業。
+>SMB Spark（Standard および Select） 個別にライセンスされる機能を持つ企業。
 
 >[!PREREQUISITES]
 >
->[!DNL Facebook] に公開できるようになる前に、ページに 2,000 個以上の「いいね！」が必要です。
+>[!DNL Facebook]に公開するには、ページに2,000件以上の「いいね！」が必要です。
 
-例えば、新しい本を販売するとしたら、メールや web サイトを通じて一部のオーディエンスにリーチする可能性があります。[!DNL Facebook] のランディングページに加えて Marketo のランディングページを公開すると、オーディエンスが増え、オファーの共有が促されます。
+新しい本を発売するとします。たとえば、電子メールやweb サイトを通じて、オーディエンスの一部にリーチするかもしれません。 [!DNL Facebook] のランディングページに加えて Marketo のランディングページを公開すると、オーディエンスが増え、オファーの共有が促されます。
 
 1. 承認済みのランディングページを選択します。
 
@@ -35,7 +35,7 @@ ht-degree: 93%
 
    >[!NOTE]
    >
-   >この方法では、ランディングページが [!DNL Facebook] アプリ（旧称：[!DNL Facebook] Tab）に公開されます。[!DNL Facebook] アプリはモバイルでは使用できないので、この方法は、訪問者がモバイルデバイスで [!DNL Facebook] アプリに公開されたランディングページにアクセスしようとした場合は機能しません。
+   >この方法では、ランディングページが [!DNL Facebook] アプリ（旧称：[!DNL Facebook] Tab）に公開されます。 [!DNL Facebook] アプリはモバイルでは使用できないので、この方法は、訪問者がモバイルデバイスで [!DNL Facebook] アプリに公開されたランディングページにアクセスしようとした場合は機能しません。
 
 1. Marketo に [!DNL Facebook] ページへの公開を認証します。
 
@@ -55,9 +55,9 @@ ht-degree: 93%
 
    >[!NOTE]
    >
-   >以前に [!DNL Facebook] に公開した Marketo ランディングページを置き換えるには、「**[!UICONTROL 既存タブを置換]**」を選択し、ドロップダウンリストから置き換えるタブを選択します。Marketo 以外のタブは置き換えられません。
+   >以前に [!DNL Facebook] に公開した Marketo ランディングページを置き換えるには、「**[!UICONTROL 既存タブを置換]**」を選択し、ドロップダウンリストから置き換えるタブを選択します。 Marketo 以外のタブは置き換えられません。
 
-1. リードは [!DNL Facebook] ページで直接ランディングページにアクセスできるようになります。カバー画像の下のタブ名をクリックします。
+1. リードは [!DNL Facebook] ページで直接ランディングページにアクセスできるようになります。 カバー画像の下のタブ名をクリックします。
 
    ![](assets/image2015-4-22-18-3a42-3a15.png)
 

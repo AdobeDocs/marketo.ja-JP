@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359587
-description: チャンピオン/チャレンジャーメールのテストを破棄する方法を説明します。 勝者を宣言せずにテストをキャンセルし、オーディエンスを処理します。
+description: Champion/Challengerのメールテストを破棄する方法について説明します。 勝者を宣言せずにテストをキャンセルし、オーディエンスを処理します。
 title: チャンピオン／挑戦者：メールテストの破棄
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 79%
+source-wordcount: '101'
+ht-degree: 77%
 
 ---
 
 # チャンピオン／挑戦者：メールテストの破棄 {#champion-challenger-discard-an-email-test}
 
-メールテストの実行を続行しないことにした場合は、いつでも破棄できます。手順は以下のとおりです。
+メールテストの実行を続行しないことにした場合は、いつでも破棄できます。 手順は以下のとおりです。
 
 >[!PREREQUISITES]
 >
@@ -31,4 +31,4 @@ ht-degree: 79%
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   完了です。テストを再度設定する場合は、[メールチャンピオン／挑戦者を追加](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)します。
+   完了です！ テストを再度設定する場合は、[メールチャンピオン／挑戦者を追加](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)します。

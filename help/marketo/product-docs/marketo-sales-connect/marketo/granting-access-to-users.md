@@ -1,18 +1,18 @@
 ---
-description: Marketoのユーザーに Sales Connect のアクセス権を付与する方法を説明します。 Marketo admin を使用して、Sales Connect をチームにプロビジョニングします。
+description: MarketoからSales Connect アクセス権をユーザーに付与する方法を説明します。 Marketo管理者を使用して、セールスコネクトをプロビジョニングします。
 title: ユーザーへのアクセス権の付与
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 89%
+source-wordcount: '205'
+ht-degree: 82%
 
 ---
 
 # ユーザーへのアクセス権の付与 {#granting-access-to-users}
 
-この記事の手順に従って、[!DNL Sales Connect] ユーザに Marketo 接続へのアクセス権を付与します。これにより、ライブフィードの注目のアクションなどの機能が解放され、マーケティングキャンペーンにアクセスできるようになります。
+この記事の手順に従って、[!DNL Sales Connect] ユーザに Marketo 接続へのアクセス権を付与します。 これにより、ライブフィードの注目のアクションなどの機能が解放され、マーケティングキャンペーンにアクセスできるようになります。
 
 ユーザが（[!DNL Sales Connect] の）Marketo／[!UICONTROL チームアクセス]ページに表示されるには、[こちら](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md)でユーザを [!DNL Sales Connect] に招待する必要があります。そこで、Marketo 接続へのアクセス権が付与されます。
 
@@ -24,11 +24,11 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >ユーザにアクセス権を付与する際に 1 回だけ、ワークスペースの割り当てを実行できます。設定後、ユーザを変更するには、ユーザの接続を解除する必要があります。
+   >ユーザにアクセス権を付与する際に 1 回だけ、ワークスペースの割り当てを実行できます。 設定が完了したら、ユーザーを切断して変更する必要があります。
 
    ![](assets/granting-access-to-users-1.png)
 
-1. Marketo サブスクリプションでワークスペースが有効になっている場合、ワークスペースを各ユーザまたは一連のユーザに一括で割り当てることができます。ワークスペースが選択されていない場合は、デフォルトの Marketo ワークスペースに割り当てます。
+1. Marketo サブスクリプションでワークスペースが有効になっている場合、ワークスペースを各ユーザまたは一連のユーザに一括で割り当てることができます。 ワークスペースが選択されていない場合は、デフォルトの Marketo ワークスペースに割り当てます。
 
    ![](assets/granting-access-to-users-2.jpg)
 

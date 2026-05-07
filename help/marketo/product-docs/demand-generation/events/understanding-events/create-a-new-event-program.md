@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2949844
-description: Marketoで新しいイベントプログラムを作成する方法を説明します。 プログラムを設定し、チャネルを選択し、イベント設定を指定します。
+description: Marketoで新しいイベントプログラムを作成する方法を説明します。 プログラムの設定、チャネルの選択、イベント設定の設定を行います。
 title: 新しいイベントプログラムの作成
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 88%
+source-wordcount: '198'
+ht-degree: 84%
 
 ---
 
 # 新しいイベントプログラムの作成 {#create-a-new-event-program}
 
-イベントを使用すると、オンラインとオフラインのイベントを自動化できます。様々なステージを進むユーザーのステータスを把握し、マーケティングイニシアチブの ROI を正確に測定します。
+イベントを使用すると、オンラインとオフラインのイベントを自動化できます。 様々なステージを進むユーザーのステータスを把握し、マーケティングイニシアチブの ROI を正確に測定します。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/ma.png)
 
-1. 新しいプログラムのフォルダーを選択します。「**[!UICONTROL 新規]**」を選択し、「**[!UICONTROL 新規プログラム]**」をクリックします。
+1. 新しいプログラムのフォルダーを選択します。 「**[!UICONTROL 新規]**」を選択し、「**[!UICONTROL 新規プログラム]**」をクリックします。
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. イベントの名前を選択します。次に、**[!UICONTROL プログラムタイプ]**&#x200B;で、**[!UICONTROL イベント]**&#x200B;を選択します。
+1. イベントの名前を選択します。 次に、**[!UICONTROL プログラムタイプ]**&#x200B;で、**[!UICONTROL イベント]**&#x200B;を選択します。
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
@@ -31,7 +31,7 @@ ht-degree: 88%
 
    >[!NOTE]
    >
-   >チャネルは、プログラムで個人が持つことのできる様々なステータスを定義します。[プログラムメンバーシップ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)について詳しくは、こちら。
+   >チャネルは、プログラムで個人が持つことのできる様々なステータスを定義します。 [プログラムメンバーシップ](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)について詳しくは、こちら。
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
@@ -39,19 +39,19 @@ ht-degree: 88%
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
-   いかがでしょうか。新しいイベントがツリーに表示されます。
+   いかがでしょうか。 新しいイベントがツリーに表示されます。
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. イベントをスケジュールするには、**[!UICONTROL スケジュール表示]**&#x200B;カレンダー内でクリックしてポップアップを開きます。日時を入力します。
+1. イベントをスケジュールするには、**[!UICONTROL スケジュール表示]**&#x200B;カレンダー内でクリックしてポップアップを開きます。 日時を入力します。
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. 終わったらバーを&#x200B;**[!UICONTROL 確認済み]**&#x200B;にスライドさせます。
+1. 完了したら、バーを&#x200B;**[!UICONTROL 確認済み]**&#x200B;にスライドさせます。
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 
-イベントを作成したら、[ランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)、[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)、[電子メール](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を作成してゲストを招待します。また、[プログラムスケジュール表示](https://docs.marketo.com/display/docs/program+schedule+view)も使用してみてください。
+イベントを作成したら、[ランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)、[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)、[電子メール](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)を作成してゲストを招待します。 また、[プログラムスケジュール表示](https://docs.marketo.com/display/docs/program+schedule+view)も使用してみてください。
 
 >[!MORELIKETHIS]
 >

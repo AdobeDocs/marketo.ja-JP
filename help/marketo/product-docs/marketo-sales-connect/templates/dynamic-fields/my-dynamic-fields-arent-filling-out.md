@@ -1,29 +1,29 @@
 ---
 unique-page-id: 14352602
-description: 動的フィールドが Sales Connect に入力されない場合のヘルプを表示します。 結合フィールドに空白または誤ったデータが表示される理由のトラブルシューティング。
+description: Sales Connectで動的フィールドが入力されない場合にヘルプを表示します。 結合フィールドに空白または誤ったデータが表示される理由をトラブルシューティングします。
 title: 動的フィールドが入力されない場合の対処
 exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 92%
+source-wordcount: '302'
+ht-degree: 76%
 
 ---
 
 # 動的フィールドが入力されない場合の対処 {#my-dynamic-fields-arent-filling-out}
 
-動的フィールドは、テンプレートを使用する場合にのみ機能します。1 回限りのメールでは、これらは記入されません。
+動的フィールドは、テンプレートを使用している場合にのみ機能します。 1 回限りのメールでは、これらは記入されません。
 
 ## 確認内容 {#what-to-check}
 
-[!DNL Sales Connect] には、基本、カスタム、[!DNL Salesforce] の 3 つのタイプの動的フィールドがあります。基本とカスタムの両方が [web アプリケーション](https://toutapp.com/login)から取り込む情報を探します。Web アプリケーションに情報が存在しない場合、フィールドは空白になります。[!DNL Salesforce] フィールドは、[Salesforce.com](https://salesforce.com) から情報を取り込みます。
+[!DNL Sales Connect] には、基本、カスタム、[!DNL Salesforce] の 3 つのタイプの動的フィールドがあります。 基本とカスタムの両方が [web アプリケーション](https://toutapp.com/login)から取り込む情報を探します。 Web アプリケーションに情報が存在しない場合、フィールドは空白になります。 [!DNL Salesforce] フィールドは、[Salesforce.com](https://salesforce.com) から情報を取り込みます。
 
 **[!DNL Salesforce] フィールドのトラブルシューティング**
 
 [!DNL Salesforce] フィールド：例：`{{sfdc_account_name}}`
 
-* このフィールドが [!DNL Sales Connect] と正しく接続されていることを確認します。[設定](https://toutapp.com/login)ページに移動し、CRM の横にある「**[!UICONTROL 管理]**」をクリックします。
+* [!DNL Sales Connect]が正しく接続されていることを確認してください。 [設定](https://toutapp.com/login)ページに移動し、CRM の横にある「**[!UICONTROL 管理]**」をクリックします。
 
 **基本フィールドとカスタムフィールドのトラブルシューティング**
 
@@ -31,11 +31,11 @@ Tout 基本フィールド：例 `{{company}}`
 
 Tout カスタムフィールド：例 `{{custom_field_favorite_movie}}`
 
-* 動的フィールドを参照するには、取引先責任者の[人物ページ](https://toutapp.com/next#relationships)にある対応するフィールドを保存する必要があります。例えば、Mary にメールを送信し、`{{company}}` フィールドを使用しているが、その取引先責任者レコードに会社がリストされていない場合、フィールドには入力されません。
+* 動的フィールドを参照するには、取引先責任者の[人物ページ](https://toutapp.com/next#relationships)にある対応するフィールドを保存する必要があります。 例えば、Maryにメールを送信し、`{{company}}` フィールドを使用しているが、彼女の連絡先レコードが会社をリストしていない場合、それを入力することはできません。
 
 ## すべての動的フィールドに値が入力されずにメールが送信された理由 {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
-メールの動的フィールドをすべて入力できない場合、[!DNL Sales Connect] はメールの送信を停止します。**ただし**、このルールにはいくつかの例外があります。一部のフィールドは空白で送信されるか、値が見つかった場合は値を自動入力します。これらのフィールドと、フィールドに値を入力できない場合の反応を以下に示します。
+メールの動的フィールドをすべて入力できない場合、[!DNL Sales Connect] はメールの送信を停止します。 **ただし**、このルールにはいくつかの例外があります。 一部のフィールドは空白で送信されるか、値が見つかった場合は値を自動入力します。 これらのフィールドと、フィールドに値を入力できない場合の反応を以下に示します。
 
 `{{first_name}}` = 空白
 
@@ -49,4 +49,4 @@ Tout カスタムフィールド：例 `{{custom_field_favorite_movie}}`
 
 >[!NOTE]
 >
->「`{{first_name}}`」フィールドは、[!DNL Sales Connect] と [!DNL Salesforce] の両方を検索して情報の取り込みを試みます。このリストの他のフィールドはすべて、[!DNL Sales Connect] のみ検索してフィールドに入力されます。
+>「`{{first_name}}`」フィールドは、[!DNL Sales Connect] と [!DNL Salesforce] の両方を検索して情報の取り込みを試みます。 このリストの他のフィールドはすべて、[!DNL Sales Connect] のみ検索してフィールドに入力されます。

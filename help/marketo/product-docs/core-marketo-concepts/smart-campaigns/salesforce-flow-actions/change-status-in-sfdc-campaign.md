@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147029
-description: フローステップを使用してSalesforce キャンペーンのステータスを変更する方法を説明します。 リンクされたSFDC キャンペーンのメンバーステータスを更新します。
+description: フローステップを使用してSalesforce キャンペーンのステータスを変更する方法について説明します。 リンクされたSFDC キャンペーンのメンバーステータスを更新します。
 title: SFDC キャンペーンでのステータス変更
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 80%
+source-wordcount: '106'
+ht-degree: 67%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 80%
 
    ![](assets/change-status-in-sfdc-campaign-2.png)
 
-1. 設定する「**[!UICONTROL 新規ステータス]**」を選択したら完了です。
+1. 次に、設定する&#x200B;**[!UICONTROL 新しいステータス]**&#x200B;を選択すると、完了です。
 
    ![](assets/change-status-in-sfdc-campaign-3.png)

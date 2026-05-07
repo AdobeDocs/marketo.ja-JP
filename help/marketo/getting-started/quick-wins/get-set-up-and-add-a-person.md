@@ -4,10 +4,10 @@ description: セットアップと人物の追加 - Marketo ドキュメント -
 title: セットアップと人物の追加
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '225'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '229'
+ht-degree: 96%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 ミッションで作成するものを格納するフォルダーを作成します。
 
-1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
+1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
@@ -45,7 +45,7 @@ ht-degree: 100%
 
 後でテストメールを自分に送信できるように、Marketo で自分を人物として追加します。
 
-1. **[!UICONTROL データベース]**&#x200B;領域に移動します。
+1. 「**[!UICONTROL データベース]**」領域に移動します。
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
@@ -67,13 +67,13 @@ ht-degree: 100%
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. 「**[!UICONTROL リード]**」タブをクリックします。データベース内に自分が表示されているはずです。
+1. 「**[!UICONTROL リード]**」タブをクリックします。 データベース内に自分が表示されているはずです。
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 
 ## 設定完了 {#set-up-complete}
 
-最初のミッションを開始する準備が整いました。
+あなたの最初のミッションを開始する準備ができています！
 
 <br> 
 

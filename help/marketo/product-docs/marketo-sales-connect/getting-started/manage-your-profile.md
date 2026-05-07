@@ -1,12 +1,12 @@
 ---
-description: Sales Connect プロファイルの管理方法について説明します。 Web アプリケーションで名前、メール、その他のプロファイル設定を更新します。
+description: セールスコネクトプロファイルの管理方法について説明します。 Web アプリケーションで、名前、メールアドレス、その他のプロファイル設定を更新します。
 title: プロファイルの管理
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 92%
+source-wordcount: '266'
+ht-degree: 81%
 
 ---
 
@@ -22,15 +22,15 @@ ht-degree: 92%
 
    ![](assets/manage-your-profile-1.png)
 
-1. デフォルトでマイプロファイルページが開きます。名前を更新するには、変更内容を入力し、「**[!UICONTROL 保存]**」をクリックします。
+1. デフォルトでマイプロファイルページが開きます。 名前を更新するには、変更内容を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/manage-your-profile-2.png)
 
 >[!NOTE]
 >
->メールアドレスは表示専用に設定されています。変更が必要な場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>メールアドレスは表示専用に設定されています。 変更が必要な場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
-このセクションでは、パスワードを変更することもできます。手順の概要はこのドキュメントで説明します。
+このセクションでは、パスワードを変更することもできます。 手順の概要はこのドキュメントで説明します。
 
 ## 連携 {#your-integrations}
 
@@ -40,7 +40,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->Exchange オンプレミスを Sales Connect と共に使用している場合、配信チャネル（最初の行項目）または返信トラッキング（2 番目の行項目）連携のヘルスチェックは更新されません。アドビは、今後のリリースでこの機能をサポートするように取り組んでいます。
+>Sales ConnectでExchange On Premを使用している場合、配信チャネル（1行目の項目）または返信トラッキング（2行目の項目）統合ヘルスチェックは更新されません。 アドビは、今後のリリースでこの機能をサポートするように取り組んでいます。
 
 ## タイムゾーン {#time-zone}
 
@@ -58,7 +58,7 @@ ht-degree: 92%
 
    ![](assets/manage-your-profile-5.png)
 
-1. ロケールは、その言語が話されている地域を指します。「**[!UICONTROL ロケール]**」ドロップダウンをクリックして選択します。
+1. ロケールは、その言語が話されている地域を指します。 「**[!UICONTROL ロケール]**」ドロップダウンをクリックして選択します。
 
    ![](assets/manage-your-profile-6.png)
 

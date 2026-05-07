@@ -1,12 +1,12 @@
 ---
-description: Dynamics 同期に使用するクライアント ID およびアプリ登録の同意を付与する方法を説明します。 認証 URI を作成し、同期ユーザーに委任されたユーザー権限を付与します。
+description: Dynamicsの同期に使用するクライアント IDとアプリ登録に同意を付与する方法について説明します。 認証URIを作成し、同期ユーザーにデリゲートされたユーザー権限を付与します。
 title: クライアント ID とアプリ登録に対する同意の付与
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 89%
+source-wordcount: '292'
+ht-degree: 75%
 
 ---
 
@@ -57,21 +57,21 @@ ht-degree: 89%
 
    ![](assets/grant-consent-for-client-id-app-registration-1.png)
 
-1. 権限を付与する同期ユーザーとしてログインします。
+1. 権限を付与している同期ユーザーとしてログインします。
 
    ![](assets/grant-consent-for-client-id-app-registration-2.png)
 
    >[!NOTE]
    >
-   >別のタブで既に Azure に管理者としてログインしている場合は、別のブラウザーまたは匿名モードを使用して、同期ユーザーとしてログインする必要があります。
+   >既に別のタブで管理者としてAzureにログインしている場合は、別のブラウザーまたはシークレットモードを使用してSync Userとしてログインする必要があります。
 
-1. 「**[!UICONTROL 承認]**」をクリックします。
+1. 「**[!UICONTROL 確定]**」をクリックします。
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
 ## すべてのユーザーに同意を付与する {#grant-consent-for-all-users}
 
-管理者は、テナント内のすべてのユーザーに代わって、アプリケーションの委任された権限に同意することもできます。管理者の同意を得ると、テナント内のすべてのユーザーに対して同意ダイアログが表示されなくなります。これは、管理者の役割を持つユーザーが Azure ポータルで実行できます。[委任された権限に同意できる管理者の役割については、こちら](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference)をご覧ください。
+管理者は、テナント内のすべてのユーザーに代わって、アプリケーションの委任された権限に同意することもできます。 管理者の同意を得ると、テナント内のすべてのユーザーに対して同意ダイアログが表示されなくなります。これは、管理者の役割を持つユーザーが Azure ポータルで実行できます。 [委任された権限に同意できる管理者の役割については、こちら](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference)をご覧ください。
 
 1. Azure ポータルで、アプリケーションのホームページに移動します。
 

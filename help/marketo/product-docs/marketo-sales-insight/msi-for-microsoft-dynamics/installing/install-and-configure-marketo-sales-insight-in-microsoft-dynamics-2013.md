@@ -1,19 +1,19 @@
 ---
 unique-page-id: 3571737
-description: Microsoft Dynamics 2013 でMarketo Sales Insightをインストールして設定する方法を説明します。 ソリューションを追加し、Marketoに接続します。
+description: Microsoft Dynamics 2013でMarketo Sales Insightをインストールして設定する方法について説明します。 ソリューションを追加し、Marketoに接続します。
 title: Marketo セールスインサイトの Microsoft Dynamics 2013 へのインストールと設定
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 95%
+source-wordcount: '410'
+ht-degree: 90%
 
 ---
 
 # [!DNL Microsoft Dynamics 2013] での [!DNL Marketo Sales Insight] のインストールと設定 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
-[!DNL Marketo Sales Insight] は、マーケティングチームが持つ豊富なデータをセールスチームに「窓」として提供する素晴らしいツールです。インストールと設定方法を次に示します。
+[!DNL Marketo Sales Insight] は、マーケティングチームが持つ豊富なデータをセールスチームに「窓」として提供する素晴らしいツールです。 インストールと設定方法を次に示します。
 
 >[!PREREQUISITES]
 >
@@ -23,7 +23,7 @@ ht-degree: 95%
 
 ## ソリューションの読み込み {#import-solution}
 
-次は [!DNL Marketo Sales Insight] ソリューションを [!DNL Microsoft Dynamics] に読み込みます。
+さて、次は[!DNL Marketo Sales Insight] ソリューションを[!DNL Microsoft Dynamics]に読み込みます。
 
 1. **[!UICONTROL Microsoft Dynamics CRM]** で、「**[!UICONTROL 設定]**」をクリックします。
 
@@ -41,7 +41,7 @@ ht-degree: 95%
    >
    >次に進む前に、あらかじめ Marketo をインストールして設定しておく必要があります
 
-1. 「**[!UICONTROL インポート]**」をクリックします。
+1. 「**[!UICONTROL 読み込み]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
@@ -57,7 +57,7 @@ ht-degree: 95%
 
    ![](assets/image2014-12-12-9-3a5-3a55.png)
 
-1. ソリューションがアップロードされます。必要に応じて、パッケージの内容を表示できます。「**[!UICONTROL 次へ]**」をクリックします。
+1. ソリューションがアップロードされます。 必要に応じて、パッケージの内容を表示できます。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 
@@ -65,11 +65,11 @@ ht-degree: 95%
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
-1. ログファイルを任意にダウンロードします。「**[!UICONTROL 閉じる]**」をクリックします。
+1. ログファイルを任意にダウンロードします。 「**[!UICONTROL 閉じる]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
-1. これで完了です。ソリューションがすぐに表示されます。表示されない場合は、画面を更新します。
+1. これで完了です。 ソリューションがすぐに表示されます。 表示されていない場合は、画面を更新します。
 
    ![](assets/image2014-12-12-9-3a6-3a40.png)
 
@@ -89,7 +89,7 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. 「**[!UICONTROL Marketo ホスト]**」、「**[!UICONTROL API URL]**」、「**[!UICONTROL API ユーザー ID]**」をコピーして、後の手順で使用します。任意の **[!UICONTROL API 秘密鍵]**&#x200B;を入力し、「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL Marketo ホスト]**」、「**[!UICONTROL API URL]**」、「**[!UICONTROL API ユーザー ID]**」をコピーして、後の手順で使用します。 任意の **[!UICONTROL API 秘密鍵]**&#x200B;を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
    >[!CAUTION]
    >
@@ -105,7 +105,7 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
    >* 緊急度
    >* 相対スコア
    >
-   >これらのフィールドのいずれかが見つからない場合は、見つからないフィールドの名前のエラーメッセージが Marketo に表示されます。これを修正するには、[この手順](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
+   >これらのフィールドのいずれかが見つからない場合は、見つからないフィールドの名前のエラーメッセージが Marketo に表示されます。 これを修正するには、[この手順](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md)を実行します。
 
 1. [!DNL Microsoft Dynamics] に戻り、「**[!UICONTROL 設定]**」に移動します。
 
@@ -131,7 +131,7 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
 
    ![](assets/image2014-12-12-9-3a8-3a34.png)
 
-1. 「**[!UICONTROL ユーザー]**」をクリックします。
+1. 「**[!UICONTROL ユーザ]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a8-3a42.png)
 
@@ -143,7 +143,7 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
-   これですべて完了です。最後に、[!DNL Marketo Sales Insight] にアクセスし、リードや取引先責任者を調べるユーザとして [!DNL Dynamics] にログインし、テストを実施します。
+   これですべて完了です。 最後に、[!DNL Marketo Sales Insight] にアクセスし、リードや取引先責任者を調べるユーザとして [!DNL Dynamics] にログインし、テストを実施します。
 
    ![](assets/image2014-12-12-9-3a9-3a31.png)
 

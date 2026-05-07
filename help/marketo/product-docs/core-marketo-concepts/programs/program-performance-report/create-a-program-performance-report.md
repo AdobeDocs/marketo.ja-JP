@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147129
-description: プログラムのパフォーマンスレポートを作成する方法について説明します。 レポートを作成して、プログラムの ROI、成功、メンバーの指標を確認します。
+description: プログラムパフォーマンスレポートの作成方法を説明します。 レポートを作成して、プログラムのROI、成功、メンバー指標を確認できます。
 title: プログラム効果レポートの作成
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 86%
+source-wordcount: '136'
+ht-degree: 84%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 86%
 
 このレポートを使用して、プログラムの有益な統計を表示します。
 
-1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"}し、**[!UICONTROL プログラム効果]**&#x200B;[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}を選択します。
+1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"}し、**[!UICONTROL プログラム効果]**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}を選択します。
 1. 「**[!UICONTROL レポート]**」タブをクリックします。
-1. レポートが表示されました。レポートを参照して、プログラムの効果を確認します。
+1. キミはそこにいる！ レポートを参照して、プログラムの効果を確認します。
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10097873
-description: リッチメディア、レコメンデーションバーおよびメールの予測コンテンツアクティビティを使用してスマートリストを定義する方法について説明します。 キャンペーンをトリガーし、推奨コンテンツをクリックするユーザーをフィルタリングします。
+description: リッチメディア、レコメンデーションバー、電子メールの予測コンテンツアクティビティを使用して、スマートリストを定義する方法を説明します。 おすすめのコンテンツをクリックしたユーザーをトリガーしたり、フィルタリングしたりできます。
 title: 予測コンテンツアクティビティのスマートリストの定義
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 91%
+source-wordcount: '317'
+ht-degree: 85%
 
 ---
 
 # 予測コンテンツアクティビティのスマートリストの定義 {#define-a-smart-list-for-predictive-content-activities}
 
-スマートキャンペーンでスマートリストを定義するとき、「予測コンテンツ」の活動をトリガーとフィルターで使用できます。[リッチメディアテンプレート](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)、[コンテンツレコメンデーションバー](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)、または[メール](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)を使用して、予測コンテンツをクリックするすべての人に対してアクションをトリガーできます。
+スマートキャンペーンでスマートリストを定義するとき、「予測コンテンツ」の活動をトリガーとフィルターで使用できます。 [リッチメディアテンプレート](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)、[コンテンツレコメンデーションバー](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)、または[メール](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)を使用して、予測コンテンツをクリックするすべての人に対してアクションをトリガーできます。
 
 1. スマートキャンペーンで、「**[!UICONTROL スマートリスト]**」タブに移動します。
 
@@ -21,7 +21,7 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >スマートリストはとても便利です。詳しくは、[スマートリストの詳細](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
+   >スマートリストはとても便利です。 詳しくは、[スマートリストの詳細](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を参照してください。
 
 1. トリガーを検索し、キャンバスにドラッグ&amp;ドロップします。
 
@@ -29,7 +29,7 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >トリガーを使用したスマートキャンペーンは、トリガーモードで実行されます。トリガーされたイベントと追加されたフィルターに基づいて、1 人につき一度ずつ実行されます。
+   >トリガーを使用したスマートキャンペーンは、トリガーモードで実行されます。 トリガーされたイベントと追加されたフィルターに基づいて、1 人につき一度ずつ実行されます。
 
 1. 「**[!UICONTROL 名前]**」ドロップダウンをクリックし、演算子を選択します。
 
@@ -47,7 +47,7 @@ ht-degree: 91%
 
    ![](assets/pc-add-constraint.png)
 
-1. 予測コンテンツにメールソースを使用する場合は、「**[!UICONTROL メール内リンクをクリック]**」トリガーを追加します。メールを選択し、「**[!UICONTROL 予測である]**」制約（**[!UICONTROL true]** と定義）を追加します。
+1. 予測コンテンツにメールソースを使用している場合は、「**[!UICONTROL 電子メールのクリック数]**」トリガーを追加します。 メールを選択し、「**[!UICONTROL 予測である]**」制約（**[!UICONTROL true]** と定義）を追加します。
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
@@ -57,7 +57,7 @@ ht-degree: 91%
 
    >[!TIP]
    >
-   >トリガーとフィルターの両方を含むスマートキャンペーンでは、トリガーが一番上に表示されます。トリガーされると、フィルター条件を満たす人のみがフローを通過します。
+   >トリガーとフィルターの両方を含むスマートキャンペーンでは、トリガーが一番上に表示されます。 トリガーされると、フィルター条件を満たす人のみがフローを通過します。
 
    >[!NOTE]
    >

@@ -1,11 +1,11 @@
 ---
 title: Marketo 製品ドキュメント
-description: これらの Marketo 製品ドキュメントを使用して、マーケティングを次のレベルに引き上げる方法を学びます。Marketo のチュートリアルから始めて、その他の人気の記事もお読みください。
+description: これらの Marketo 製品ドキュメントを使用して、マーケティングを次のレベルに引き上げる方法を学びます。 Marketo のチュートリアルから始めて、その他の人気の記事もお読みください。
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: ht
-source-wordcount: '152'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '156'
+ht-degree: 74%
 
 ---
 
@@ -13,9 +13,9 @@ ht-degree: 100%
 
 ![](assets/marketo-docs-banner.jpg)
 
-現代の需要マーケティング戦略では、可能な限り最善の顧客体験を提供するためにエンドツーエンドのエンゲージメントが必要です。様々なドキュメント、ガイド、チュートリアルを参照して、Adobe Experience Cloud の一部である Marketo Engage でこれを実現する方法を学びます。
+現代の需要マーケティング戦略では、可能な限り最善の顧客体験を提供するためにエンドツーエンドのエンゲージメントが必要です。 様々なドキュメント、ガイド、チュートリアルを参照して、Adobe Experience Cloud の一部である Marketo Engage でこれを実現する方法を学びます。
 
-始めたばかりで、Marketo Engage の入門チュートリアルが必要な人でも、サブスクリプションをさらに活用したい経験豊富なユーザでも、Marketo Engage 製品ドキュメントから必要なすべての回答を見つけることができます。
+Marketo Engageの初心者向けチュートリアルを始めたばかりの場合でも、サブスクリプションの詳細については、経験豊富なユーザーの場合でも、Marketo Engage製品ドキュメントで必要な答えをすべて確認できます。
 
 ## 基本を学ぶ
 

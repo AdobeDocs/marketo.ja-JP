@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7512451
-description: プッシュ通知を作成する方法を説明します。 プログラムのローカルアセットとして追加し、モバイルアプリ用に設定してドレスアップします。
+description: プッシュ通知の作成方法を説明します。 プログラムのローカルアセットとして追加してから、モバイルアプリ用に設定してドレスアップします。
 title: プッシュ通知の作成
 exl-id: a08fbef3-25b4-4b11-aee7-f610f8f30d36
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 77%
+source-wordcount: '116'
+ht-degree: 49%
 
 ---
 
 # プッシュ通知の作成 {#create-a-push-notification}
 
-プッシュ通知は簡単に作成できます。ただし、作業を開始する前に、Marketo の管理者とモバイルアプリデベロッパーに、作成中に必要な設定をするように依頼する必要があります。詳しくは、「[プッシュ通知について](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)」を参照してください。
+プッシュ通知の作成は簡単です。 ただし、開始する前に、Marketo管理者とモバイルアプリ開発者が必要な設定を行う必要があります。 詳しくは、「[プッシュ通知について](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)」を参照してください。
 
-1. **[!UICONTROL マーケティング活動]**&#x200B;領域に移動します。
+1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
@@ -35,4 +35,4 @@ ht-degree: 77%
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   できましたね。プッシュ通知が作成されたので、続けて[装飾](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)してみましょう。
+   できましたね。 プッシュ通知が作成されたので、続けて[装飾](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)してみましょう。

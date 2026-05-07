@@ -1,33 +1,33 @@
 ---
 unique-page-id: 37355768
-description: Adobe Experience ManagerからMarketo Design Studio にアセットを読み込む方法を説明します。 アセットセレクターを使用して、AEM画像にアクセスし、選択してMarketo キャンペーンに取り込みます。
+description: Adobe Experience ManagerからMarketo Design Studioにアセットを読み込む方法について説明します。 アセットセレクターを使用して、AEM画像にアクセスし、選択し、Marketo キャンペーンに取り込みます。
 title: Adobe Experience Manager でのアセットの読み込み
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 88%
+ht-degree: 74%
 
 ---
 
 # Adobe Experience Manager でのアセットの読み込み {#importing-assets-with-adobe-experience-manager}
 
-アセットセレクターを使用すると、Marketo のお客様は、AEM アセットにアクセスし選択して、Marketo [!DNL Design Studio] に読み込むことができます。**管理者権限が必要です**。
+アセットセレクターを使用すると、Marketo のお客様は、AEM アセットにアクセスし選択して、Marketo [!DNL Design Studio] に読み込むことができます。 **管理者権限が必要です**。
 
 >[!AVAILABILITY]
 >
->必ずしもすべてのお客様がこの機能を購入済みとは限りません。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!PREREQUISITES]
 >
->[AEM 設定](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)を既に実行済みであることを確認します。
+>[AEM Configuration](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)が既に実行されていることを確認します。
 
 >[!IMPORTANT]
 >
->現在、この機能は [!DNL Firefox] でのみ完全にサポートされています。[!DNL Safari] ではサポートされていません。また、[!DNL SameSite] の Cookie 設定によっては、最新バージョンの [!DNL Chrome] では動作しない可能性があります。
+>現在、この機能は [!DNL Firefox] でのみ完全にサポートされています。 [!DNL Safari] ではサポートされていません。また、[!DNL SameSite] の Cookie 設定によっては、最新バージョンの [!DNL Chrome] では動作しない可能性があります。
 
-1. **[!UICONTROL Design Studio]** をクリックします。
+1. 「**[!UICONTROL Design Studio]**」をクリックします。
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
@@ -39,11 +39,11 @@ ht-degree: 88%
 
    ![](assets/importing-assets-with-adobe-experience-manager-3.png)
 
-1. Adobe Experience Manager にログインします（まだログインしていない場合）。
+1. Adobe Experience Managerにログインします（まだログインしていない場合）。
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. フォルダーを選択します。次に、目的の画像をサムネールをクリックして選択します（最大 10 個選択できます）。終了したら「**[!UICONTROL 選択]**」をクリックします。
+1. フォルダーを選択します。 次に、目的の画像をサムネールをクリックして選択します（最大 10 個選択できます）。 終了したら「**[!UICONTROL 選択]**」をクリックします。
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -55,7 +55,7 @@ ht-degree: 88%
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   これで完了です。「**[!UICONTROL 閉じる]**」をクリックして、Design Studio に戻ります。
+   「**[!UICONTROL 閉じる]**」をクリックして、Design Studio に戻ります。
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 
@@ -63,6 +63,6 @@ ht-degree: 88%
 
 * Marketo は現在、Adobe Experience Manager バージョン 6.4 および 6.5 に対応しています。
 
-* インスタンス内のすべてのユーザーが、読み込んだ画像を表示しアクセスできます。
+* インスタンス内のすべてのユーザーは、読み込んだ画像を表示してアクセスできます。
 
-* 画像は自動的にはアップデートされません。Marketo [!DNL Design Studio] に読み込んだ画像が AEM で更新された場合は、手動で Marketo に再読み込みする必要があります。
+* 画像は自動的にはアップデートされません。 Marketo [!DNL Design Studio] に読み込んだ画像が AEM で更新された場合は、手動で Marketo に再読み込みする必要があります。

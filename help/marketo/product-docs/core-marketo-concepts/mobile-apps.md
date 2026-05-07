@@ -1,15 +1,15 @@
 ---
 unique-page-id: 7516612
-description: イベントチェックインやMarketo Moments など、Marketo モバイルアプリについて説明します。 イベント参加者をチェックインし、最も重要なインサイトを表示します。
+description: イベントチェックインやMarketo MomentsなどのMarketo モバイルアプリについて説明します。 イベント参加者を確認し、最も重要なタイミングで主要なインサイトを確認できます。
 title: モバイルアプリ
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 10%
+source-wordcount: '70'
+ht-degree: 24%
 
 ---
 
 
 # モバイルアプリ {#mobile-apps}
 
-**![イベントのチェックイン &#x200B;](assets/mobile-checkin-icon.png) イベントのチェックイン**&#x200B;[&#x200B; イベントのチェックイン タブレットからイベントへの顧客のチェックイン。](https://docs.marketo.com/display/DOCS/Event+Check-in)     **![Marketoの瞬間 &#x200B;](assets/moments-icon.png)Marketoの瞬間**&#x200B;[Marketoの瞬間重要な時に、何が重要かを見る。](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+**![イベントチェックイン ](assets/mobile-checkin-icon.png) イベントチェックイン** [ イベントチェックインチェックインのお客様をタブレットからイベントにチェックインします。](https://docs.marketo.com/display/DOCS/Event+Check-in)     **![Marketoの瞬間](assets/moments-icon.png)Marketoの瞬間** [Marketoの瞬間は、重要な場合に何が重要かを確認します。](https://docs.marketo.com/display/DOCS/Marketo+Moments)

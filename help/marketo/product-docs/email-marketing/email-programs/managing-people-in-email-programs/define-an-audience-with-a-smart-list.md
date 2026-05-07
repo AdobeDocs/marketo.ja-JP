@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1900595
-description: スマートリストを使用してメールプログラムオーディエンスを定義する方法を説明します。 フィルターを使用して、メールプログラムを受け取るユーザーをターゲティングします。
+description: スマートリストを使用してメールプログラムオーディエンスを定義する方法を説明します。 フィルターを使用して、メールプログラムの受信者をターゲティングします。
 title: スマートリストを使用してオーディエンスを定義する
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 92%
+source-wordcount: '276'
+ht-degree: 85%
 
 ---
 
 # スマートリストを使用してオーディエンスを定義する {#define-an-audience-with-a-smart-list}
 
-[メールプログラムを作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)したら、メールを送信する相手を指定します。これは、[リードのリストをインポート](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)するか、スマートリストを使用することで実行できます。スマートリストを使用する方法を次に示します。
+[メールプログラムを作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)したら、メールを送信する相手を指定します。 これは、[リードのリストをインポート](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)するか、スマートリストを使用することで実行できます。 スマートリストを使用する方法を次に示します。
 
 >[!PREREQUISITES]
 >
@@ -43,17 +43,17 @@ ht-degree: 92%
 
    ![](assets/image2014-9-12-11-3a1-3a14.png)
 
-1. フィルターの追加と定義が完了したら、メインのプログラムタブに戻ります。ここで、条件を満たすリードの数を確認します。
+1. フィルターの追加と定義が完了したら、メインのプログラムタブに戻ります。 ここで、条件を満たすリードの数を確認します。
 
    ![](assets/myemailprogram.jpg)
 
-   できましたね。次に、これらのリードに送信するために、[既存のメールを選択](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)するか、[メールを作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)するかを選択します。
+   できましたね。 次に、[既存の電子メールを選択](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)するか、[電子メールを作成](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)して、これらのユーザーに送信します。
 
 >[!NOTE]
 >
 >**定義**
 >
->ブロック番号に気づきましたか。この数は、条件を満たすリードのうち、以下の理由によりそのメールを送信できないサブセットを表します。
+>ブロック番号に気づきましたか。 この数は、条件を満たすリードのうち、以下の理由によりそのメールを送信できないサブセットを表します。
 >
 >* 配信停止完了
 >* マーケティングを中断したリード
@@ -61,7 +61,7 @@ ht-degree: 92%
 >* メール無効
 >* メールが空欄
 >
->数字をクリックすると、このメール配信からブロックされているリードの詳細なリストが表示されます。**注意**：オペレーショナルなメールは、登録解除済みのリードとマーケティングを中断したリードに引き続き送信されます。
+>数字をクリックすると、このメール配信からブロックされているリードの詳細なリストが表示されます。 **注意**：オペレーショナルなメールは、登録解除済みのリードとマーケティングを中断したリードに引き続き送信されます。
 >
 >このメールを受け取る人物の数を確認するには、「**[!UICONTROL オーディエンス]**」タイルの「![--](assets/image2014-10-23-16-3a32-3a36.png)」ボタンを使用します。
 

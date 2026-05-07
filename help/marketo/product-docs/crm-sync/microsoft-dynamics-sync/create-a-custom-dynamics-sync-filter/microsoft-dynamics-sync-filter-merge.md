@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10092969
-description: リードを結合する際の Dynamics 同期フィルターの仕組みを説明します。 勝者レコード同期フィルター値が、レコードをMarketoに同期するかどうかを決定する方法を説明します。
+description: リードを結合する際のDynamics同期フィルターの仕組みを説明します。 勝者レコードの同期フィルター値が、レコードがMarketoに同期されるかどうかを決定する方法を説明します。
 title: Microsoft Dynamics 同期フィルター - 結合
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 86%
+source-wordcount: '184'
+ht-degree: 78%
 
 ---
 
 # [!DNL Microsoft] Dynamics 同期フィルター：結合 {#microsoft-dynamics-sync-filter-merge}
 
-[!DNL Microsoft Dynamics] でリードを結合するときには、同期フィルターが「はい」（TRUE）、同期フィルターが「いいえ」（FALSE）の 2 つのオプションタイプが使用できます。2 つのレコードを結合すると、True のレコードと False のレコードによって結果が異なります。
+[!DNL Microsoft Dynamics] でリードを結合するときには、同期フィルターが「はい」（TRUE）、同期フィルターが「いいえ」（FALSE）の 2 つのオプションタイプが使用できます。 2 つのレコードを結合すると、True のレコードと False のレコードによって結果が異なります。
 
-勝者を決定するために管理者が定義したワークフロールールに基づいて、リードレコードは true または false になります。勝者レコードの同期フィルターは、[!DNL MS Dynamics] レコードが Marketo と同期するかどうかを最終的に決定するものです。
+勝者を決定するために管理者が定義したワークフロールールに基づいて、リードレコードは true または false になります。 勝者レコードの同期フィルターは、[!DNL MS Dynamics] レコードが Marketo と同期するかどうかを最終的に決定するものです。
 
-1 つのレコードが true で、1 つが false の場合、決定が難しくなります。
+ある記録が真実で、ある記録が真実で、ある記録が真実でない場合、それは難しくなる。
 
 | 失われるレコードの同期フィルターが次の場合 | 勝者レコードの同期フィルターが次の場合 | Marketo での結果 |
 |---|---|---|

@@ -1,18 +1,18 @@
 ---
-description: ROPC 接続を使用してMarketo ソリューションを Dynamics 365 に接続する方法を説明します。 Marketo Admin に同期ユーザーの資格情報を入力し、同期を有効にします。
+description: Marketo ソリューションをROPC接続でDynamics 365に接続する方法について説明します。 Marketo Adminでsync user credentialsを入力し、syncを有効にします。
 title: 手順 4 / 4 - Marketo ソリューションとリソース所有者のパスワード制御接続の接続
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '438'
-ht-degree: 94%
+source-wordcount: '441'
+ht-degree: 93%
 
 ---
 
 # 手順 4 / 4：Marketo ソリューションとリソース所有者のパスワード制御接続の接続 {#step-4-of-4-connect-the-marketo-solution-ropc}
 
-これが同期の最後のステップです。もう少しです！
+これが同期の最後のステップです。 もう少しのところにいますね。
 
 >[!PREREQUISITES]
 >
@@ -48,19 +48,19 @@ ht-degree: 94%
 
    >[!CAUTION]
    >
-   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。誤った組織 URL が使用された場合、新しい Marketo サブスクリプションを取得する必要があります。URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
+   >送信後に後続のスキーマの変更を元に戻すことができないので、組織 URL が正しいことを確認してください。 誤った組織 URL が使用された場合、新しい Marketo サブスクリプションを取得する必要があります。 URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
 
    >[!NOTE]
    >
    >新しい資格情報を入力する前に、[こちらでそれらを検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}できます。
 
-1. **[!UICONTROL ユーザ名]**、**[!UICONTROL パスワード]**、[!DNL Microsoft Dynamics] **[!UICONTROL URL]**、**[!UICONTROL クライアント ID]** および&#x200B;**[!UICONTROL クライアント秘密鍵]**&#x200B;を入力します。終了したら「**[!UICONTROL 保存]**」をクリックします。
+1. **[!UICONTROL ユーザ名]**、**[!UICONTROL パスワード]**、[!DNL Microsoft Dynamics] **[!UICONTROL URL]**、**[!UICONTROL クライアント ID]** および&#x200B;**[!UICONTROL クライアント秘密鍵]**&#x200B;を入力します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/step-4-of-4-connect-ropc-5.png)
 
    >[!NOTE]
    >
-   >Marketo のユーザ名は、CRM の同期ユーザのユーザ名と一致する必要があります。形式は、`user@domain.com` または DOMAIN\user です。
+   >Marketo のユーザ名は、CRM の同期ユーザのユーザ名と一致する必要があります。 形式は、`user@domain.com` または DOMAIN\user です。
 
 ## 同期するフィールドの選択 {#select-fields-to-sync}
 
@@ -68,13 +68,13 @@ ht-degree: 94%
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Marketo と同期するフィールドを選択すると、事前に選択されるようになります。「**[!UICONTROL 保存]**」をクリックします。
+1. Marketo と同期するフィールドを選択すると、事前に選択されるようになります。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
 >[!NOTE]
 >
->Marketo は、同期するフィールドへの参照を保存します。[!DNL Dynamics] でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)の状態で実行することをお勧めします。次に、「[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)」を編集および保存して、Marketo のスキーマを更新します。
+>Marketo は、同期するフィールドへの参照を保存します。 [!DNL Dynamics] でフィールドを削除する場合は、[同期無効](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)の状態で実行することをお勧めします。 次に、「[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md)」を編集および保存して、Marketo のスキーマを更新します。
 
 ## カスタムフィルターのフィールドを同期する {#sync-fields-for-a-custom-filter}
 
@@ -88,7 +88,7 @@ ht-degree: 94%
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 下にスクロールしてフィールドを確認します。実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。「**[!UICONTROL 保存]**」をクリックします。
+1. 下にスクロールしてフィールドを確認します。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
@@ -106,10 +106,10 @@ ht-degree: 94%
 
    ![](assets/image2015-3-16-9-3a55-3a10.png)
 
-1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。完了すると、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
 
    ![](assets/image2015-3-16-9-3a59-3a51.png)
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL Dynamics]  認証方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)の再設定
+>[ [!DNL Dynamics]  認証方法の再設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)

@@ -1,10 +1,10 @@
 ---
-description: Sales Insightのアクションプロファイルを管理する方法について説明します。 設定の名前、メール、署名、通知の環境設定を更新します。
+description: Sales Insight Actions プロファイルの管理方法について説明します。 設定で名前、電子メール、署名、通知の環境設定を更新します。
 title: プロファイルの管理
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '269'
-ht-degree: 93%
+source-wordcount: '279'
+ht-degree: 83%
 
 ---
 
@@ -20,15 +20,15 @@ ht-degree: 93%
 
    ![](assets/manage-your-profile-1.png)
 
-1. デフォルトでマイプロファイルページが開きます。名前を更新するには、変更内容を入力し、「**保存**」をクリックします。
+1. デフォルトでマイプロファイルページが開きます。 名前を更新するには、変更内容を入力し、「**保存**」をクリックします。
 
    ![](assets/manage-your-profile-2.png)
 
 >[!NOTE]
 >
->メールアドレスは表示専用に設定されています。変更が必要な場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>メールアドレスは表示専用に設定されています。 変更が必要な場合は、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
-このセクションでは、パスワードを変更することもできます。手順の概要はこのドキュメントで説明します。
+このセクションでは、パスワードを変更することもできます。 手順の概要はこのドキュメントで説明します。
 
 ## 連携 {#your-integrations}
 
@@ -38,7 +38,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->Exchange オンプレミスを Marketo Sales と共に使用している場合、配信チャネル（最初の行項目）または返信トラッキング（2 番目の行項目）連携のヘルスチェックは更新されません。アドビは、今後のリリースでこの機能をサポートするように取り組んでいます。
+>Marketo SalesでExchange On Premを使用している場合、配信チャネル（1行目）または返信トラッキング（2行目）統合ヘルスチェックは更新されません。 アドビは、今後のリリースでこの機能をサポートするように取り組んでいます。
 
 ## タイムゾーン {#time-zone}
 
@@ -56,7 +56,7 @@ ht-degree: 93%
 
    ![](assets/manage-your-profile-5.png)
 
-1. ロケールは、その言語が話されている地域を指します。言語を変更するとデフォルトで選択されますが、手動で変更するには、「**ロケール**」ドロップダウンリストから選択します。
+1. ロケールは、その言語が話されている地域を指します。 言語を変更するとデフォルトで選択されますが、手動で変更するには、「**ロケール**」ドロップダウンリストから選択します。
 
    ![](assets/manage-your-profile-6.png)
 

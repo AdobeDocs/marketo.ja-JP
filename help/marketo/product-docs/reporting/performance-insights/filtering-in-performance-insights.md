@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979012
-description: ABM アカウントリスト、カスタム属性、商談タイプ、プログラムタグ、ワークスペースでパフォーマンスインサイトデータをフィルタリングする方法を説明します。 複数のフィルターを適用して特定の情報をクエリし、グラフを更新します。
+description: ABM アカウントリスト、カスタム属性、機会タイプ、プログラムタグ、ワークスペースごとにパフォーマンスインサイトデータをフィルタリングする方法について説明します。 複数のフィルターを適用して、特定の情報をクエリしたり、チャートを更新したりできます。
 title: パフォーマンスインサイトのフィルタリング
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 91%
+source-wordcount: '348'
+ht-degree: 77%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 91%
 
 ![](assets/five.png)
 
-フィルターの横の「X」をクリックすると、いつでもフィルターを削除できます。すべてのフィルターを一度に削除するには、右端の「X」をクリックします。
+フィルターの横の「X」をクリックすると、いつでもフィルターを削除できます。 すべてのフィルターを一度に削除するには、右端の「X」をクリックします。
 
 ![](assets/6-2.png)
 
@@ -49,15 +49,15 @@ ht-degree: 91%
  <tbody>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">ABM アカウントリスト</span></strong></td>
-   <td colspan="1">Marketo ABM を使用している場合、すべてのアカウントリストが MPI と同期され、「ABM アカウントリスト」フィルターで表示されます。顧客リストを選択して、その顧客に対して結果をフィルタリングできます。ABM 顧客リストについて詳しくは、<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">こちら</a>をご覧ください。</td>
+   <td colspan="1">Marketo ABMを使用している場合、すべてのアカウントリストはMPIに同期され、「ABM アカウントリスト」フィルターを介して表示されます。 顧客リストを選択して、その顧客に対して結果をフィルタリングできます。ABM 顧客リストについて詳しくは、<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">こちら</a>をご覧ください。</td>
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">ABM 重点顧客</span></strong></td>
-   <td colspan="1">Marketo ABM を使用している場合、すべての重点顧客が MPI と同期され、「ABM 重点顧客」フィルターで表示されます。重点顧客を選択して、その顧客に対して結果をフィルタリングできます。ABM 重点顧客について詳しくは、<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">こちら</a>をご覧ください</td>
+   <td colspan="1">Marketo ABMを使用している場合、すべての名前付きアカウントはMPIに同期され、「ABM名前付きアカウント」フィルターを介して表示されます。 重点顧客を選択して、その顧客に対して結果をフィルタリングできます。ABM 重点顧客について詳しくは、<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">こちら</a>をご覧ください</td>
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">カスタム属性</span></strong></td>
-   <td colspan="1"><p>これらは、お客様によって決定されます。<a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">有効にした</a>すべてのフィールドの商談の分析は、パフォーマンスインサイトでフィルタリングできます。</p></td>
+   <td colspan="1"><p>これらは、お客様によって決定されます。 <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">有効にした</a>すべてのフィールドの商談の分析は、パフォーマンスインサイトでフィルタリングできます。</p></td>
   </tr>
   <tr>
    <td colspan="1"><p><strong><span class="uicontrol">投資期間</span></strong></p></td>
@@ -69,11 +69,11 @@ ht-degree: 91%
   </tr>
   <tr>
    <td><p><strong><span class="uicontrol">プログラムタグ</span></strong></p></td>
-   <td><p>タグは、プログラムの説明に用いられます。タグは、必要なだけ、固有の値を設定して作成できます。プログラムタグの使用方法については、<a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">こちら</a>を参照してください。</p></td>
+   <td><p>タグは、プログラムの説明に用いられます。 タグは、必要なだけ、固有の値を設定して作成できます。 プログラムタグの使用方法については、<a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">こちら</a>を参照してください。</p></td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">ワークスペース</span></strong></td>
-   <td><p>ワークスペースは、プログラム、ランディングページ、メールなどの Marketo のマーケティングアセットを保持する別々の領域です。ワークスペースについて詳しくは、<a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">こちら</a>をご覧ください。</p></td>
+   <td><p>ワークスペースは、プログラム、ランディングページ、メールなどの Marketo のマーケティングアセットを保持する別々の領域です。 ワークスペースについて詳しくは、<a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">こちら</a>をご覧ください。</p></td>
   </tr>
  </tbody>
 </table>

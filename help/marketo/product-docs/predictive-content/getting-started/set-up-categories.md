@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11385057
-description: 予測コンテンツでカテゴリを設定して、web またはメールでの予測結果をグループ化します。 フィルタリングと検索を容易にするカテゴリタグをコンテンツ設定で作成します。
+description: 予測コンテンツでカテゴリを設定し、webまたは電子メールで予測結果をグループ化します。 コンテンツ設定でカテゴリタグを作成し、簡単にフィルタリングと検索を実行できます。
 title: カテゴリの設定
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 84%
+source-wordcount: '172'
+ht-degree: 81%
 
 ---
 
 # カテゴリの設定 {#set-up-categories}
 
-予測コンテンツでカテゴリを作成し、Web またはメールで予測結果をグループ化します。例えば、ブログのみ、または特定の言語のコンテンツで作業できます。また、ページビューを検索およびフィルタリングすることもできます。カテゴリは、簡単に参照できるように、[!UICONTROL すべてのコンテンツ]ページと[!UICONTROL 予測コンテンツ]ページに表示されます。
+予測コンテンツでカテゴリを作成し、Web またはメールで予測結果をグループ化します。 例えば、ブログのみ、または特定の言語のコンテンツで作業できます。 また、ページビューを検索およびフィルタリングすることもできます。  カテゴリは、簡単に参照できるように、[!UICONTROL すべてのコンテンツ]ページと[!UICONTROL 予測コンテンツ]ページに表示されます。
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-検出されたコンテンツを編集する際は、編集画面でカテゴリを追加します。「**[!UICONTROL カテゴリ]**」フィールドをクリックして、ドロップダウンから選択します。
+検出されたコンテンツを編集する際は、編集画面でカテゴリを追加します。 「**[!UICONTROL カテゴリ]**」フィールドをクリックして、ドロップダウンから選択します。
 
 ![](assets/two.png)
 
@@ -37,7 +37,7 @@ ht-degree: 84%
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. 既存のカテゴリタグが表示されます。新しいカテゴリタグを入力し「**[!UICONTROL 新規作成]**」をクリックします。
+1. 既存のカテゴリタグが表示されます。 新しいカテゴリタグを入力し「**[!UICONTROL 新規作成]**」をクリックします。
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
@@ -45,7 +45,7 @@ ht-degree: 84%
 
    ![](assets/remove-category-tag-updated.png)
 
-1. 完了したら、「**[!UICONTROL 保存]**」をクリックします。
+1. 完了したら、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
    ![](assets/save-new.png)
 

@@ -1,28 +1,28 @@
 ---
-description: 継承した既存の Marketo Engage インスタンスを最適化および拡大・縮小する方法について説明します。このチェックリストに従って管理者設定を監査し、データベースの健全性を維持します。
+description: 継承した既存の Marketo Engage インスタンスを最適化および拡大・縮小する方法について説明します。 このチェックリストに従って管理者設定を監査し、データベースの健全性を維持します。
 title: 開始する場所
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: 04dcc90c24ea00d247af5de2d5a3a63cc821ae8a
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 45%
+source-wordcount: '593'
+ht-degree: 42%
 
 ---
 
 # 開始する場所 {#where-to-start}
 
-新しいジョブを開始する際や、既存のインスタンスを別の管理者から引き継ぐ際に、どこから始めればよいかわからないですか？既に実行されているライブインスタンスの引き継ぎには少し抵抗があるかもしれませんが、以下にまとめたリソースを活用するとすぐに慣れることができます。
+新しいジョブを開始する際や、既存のインスタンスを別の管理者から引き継ぐ際に、どこから始めればよいかわからないですか？ 既に実行されているライブインスタンスの引き継ぎには少し抵抗があるかもしれませんが、以下にまとめたリソースを活用するとすぐに慣れることができます。
 
 ## Adobe Marketo Engage コミュニティでの設定 {#get-set-up}
 
-Marketo Engage コミュニティで適切に設定されていることを確認します。
+Marketo Engage Communityで適切に設定されていることを確認します。
 
-* [**必須フィールド（会社、ソリューションの専門分野、国など）に入力して、プロファイル**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ja){target="_blank"}を設定します
+* [**必須フィールド（会社、ソリューションの専門分野、国など）に入力して、プロファイル**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}を設定します
 
-* [**Adobe Experience League コミュニティガイドライン**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=ja){target="_blank"}をお読みください。
+* [**Adobe Experience League コミュニティガイドライン**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}をお読みください。
 
-* [**サポートケース**](https://experienceleague.adobe.com/ja/support#home){target="_blank"}を送信し、[&#x200B; サポート管理者](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}として設定されていることを確認する方法について説明します。
+* [**サポートケース**](https://experienceleague.adobe.com/en/support#home){target="_blank"}を送信し、[ サポート管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}として設定されていることを確認する方法について説明します。
 
 ## Marketo Engageのコミュニティプロファイルを統合 {#merge-your-community-profiles}
 
@@ -55,28 +55,28 @@ Adobe コミュニティチームは、4～6営業日後にコミュニティプ
 
 ## Marketo Engage の継承インスタンスをすぐに開始  {#jumpstart-your-inherited-marketo-engage-instance}
 
-アドビは、Marketo Champions からの意見に基づき、作業の円滑化に役立つ Marketo Engage の継承インスタンス監査チェックリストをいくつか作成しました。これには、Marketo Engage の様々な領域に移動し、監査に必要な様々なタスクを実行する方法や、推奨されるヘルプドキュメントへのリンクが含まれています。
+アドビは、Marketo Champions からの意見に基づき、作業の円滑化に役立つ Marketo Engage の継承インスタンス監査チェックリストをいくつか作成しました。 これには、Marketo Engage の様々な領域に移動し、監査に必要な様々なタスクを実行する方法や、推奨されるヘルプドキュメントへのリンクが含まれています。
 
 また、スプレッドシート形式で[チェックリストをダウンロード](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)することもできます。
 
-* [「管理者」セクション](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
+* [管理者セクション](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
 * [データベース](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
 * [デザインスタジオ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [マーケティングアクティビティ](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
+* [マーケティング活動](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [継承インスタンス設定のドキュメント化](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
+* [継承したインスタンス設定のドキュメント化](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## ヘルプの入手方法 {#ways-to-get-help}
 
-さらにサポートが必要ですか？以下のリンクから、アドビや他の Marketo Engage ユーザとつながることができます。
+さらにサポートが必要ですか？ 以下のリンクから、アドビや他の Marketo Engage ユーザとつながることができます。
 
-* 正常に機能しない問題に関して技術的なサポートが必要な場合は、**[Marketo Engage カスタマーサポート](https://experienceleague.adobe.com/ja/support){target="_blank"}**&#x200B;にお問い合わせください。
+* 正常に機能しない問題に関して技術的なサポートが必要な場合は、**[Marketo Engage カスタマーサポート](https://experienceleague.adobe.com/en/support){target="_blank"}**&#x200B;にお問い合わせください。
 
-* **[Adobe Marketo Engage コミュニティ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ja){target="_blank"}**&#x200B;では Marketo Engage ユーザとつながり、知識を深めることができます。
+* **[Adobe Marketo Engage コミュニティ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**&#x200B;では Marketo Engage ユーザとつながり、知識を深めることができます。
 
-* Marketo Engage インスタンスを最大限に活用するための実践的なサポートが必要な場合は、**[Adobe Professional Services](https://business.adobe.com/jp/products/marketo/services-support.html){target="_blank"}** にお問い合わせください。
+* Marketo Engage インスタンスを最大限に活用するための実践的なサポートが必要な場合は、**[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}** にお問い合わせください。
 
 * Marketo Engage の様々な側面に関する&#x200B;**[厳選されたチュートリアルビデオを](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja){target="_blank"}**&#x200B;ご覧ください。

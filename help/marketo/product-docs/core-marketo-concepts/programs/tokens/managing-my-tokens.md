@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147116
-description: プログラムでマイトークンを管理する方法を説明します。 トークンを作成および使用して、プログラムのコンテンツとメールをパーソナライズします。
+description: プログラムでマイトークンを管理する方法を説明します。 トークンを作成し、使用して、プログラムのコンテンツやメールをパーソナライズできます。
 title: マイトークンの管理
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 91%
+source-wordcount: '226'
+ht-degree: 78%
 
 ---
 
 # マイトークンの管理 {#managing-my-tokens}
 
-トークンを使用すると、Marketo Engage での作業がシンプルになります。フローステップ、web フック、メール、ランディングページで[マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}（カスタムトークン）を使用できます。マイトークンの作成方法は、以下のとおりです。
+トークンを使用すると、Marketo Engage での作業がシンプルになります。 フローステップ、web フック、メール、ランディングページで[マイトークン](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}（カスタムトークン）を使用できます。 マイトークンの作成方法は、以下のとおりです。
 
 >[!TIP]
 >
@@ -71,7 +71,7 @@ ht-degree: 91%
 
    ![](assets/edit-a-my-token-1.png)
 
-1. 目的の編集を行います。終了したら「**[!UICONTROL 保存]**」をクリックします。
+1. 目的の編集を行います。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/edit-a-my-token-2.png)
 
@@ -79,7 +79,7 @@ ht-degree: 91%
 
 >[!CAUTION]
 >
->マイトークンを削除する際は、現在どのアセットでも参照されていないことを確認します。削除すると、参照されていた場所では空白が表示されます。
+>マイトークンを削除する場合は、どのアセットでも現在参照されていないことを確認してください。 空白スペースは、削除すると、参照されている任意の場所に表示されます。
 
 1. 削除するトークンを選択し、「**[!UICONTROL トークンを削除]**」をクリックします。
 

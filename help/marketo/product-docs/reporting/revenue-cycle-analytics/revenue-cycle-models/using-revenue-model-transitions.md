@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718672
-description: 売上高モデルトランジションを使用したMarketo Engageでの売上高モデルトランジションの使用方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageで収益モデルのトランジションを使用して、収益モデルのトランジションを使用する方法を説明します。 このガイドを使用して、次のステップを完了してください。
 title: 収益モデルのトランジションを使用する
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 89%
+source-wordcount: '232'
+ht-degree: 73%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 89%
 
 >[!PREREQUISITES]
 >
->[新規収益モデルの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[収益モデルの新規作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-モデルを作成し、在庫ステージを選択して整理する場合は、トランジションを設定します。
+モデルを作成し、在庫ステージを選択して整理したら、次は移行を設定します。
 
 ![](assets/one-2.png)
 
@@ -33,11 +33,11 @@ ht-degree: 89%
 
    ![](assets/three-1.png)
 
-1. トランジションは、リードがステージ間をどのように移動するかを制御します。右側から選択したトリガー（またはフィルター）をドラッグし、キャンバス上で放します。この例では、「**[!UICONTROL フォームへの記入]**」トリガーを選択します。
+1. トランジションは、リードがステージ間をどのように移動するかを制御します。 右側から選択したトリガー（またはフィルター）をドラッグし、キャンバス上で放します。 この例では、「**[!UICONTROL フォームへの記入]**」トリガーを選択します。
 
    >[!TIP]
    >
-   >収益モデラーの目的はレポート作成なので、トランジションには必ずトリガーを含めることをお勧めします。そうすれば、モデルとステージフローの真の速度がレポートに反映されます。フィルターをトリガーと共に追加して、制約を追加できます。
+   >収益モデラがレポート用に設定されているので、トリガーを常に含めることをお勧めします。 そうすれば、モデルとステージフローの真の速度がレポートに反映されます。 フィルターをトリガーと共に追加して、制約を追加できます。
 
    ![](assets/four-2.png)
 
@@ -61,7 +61,7 @@ ht-degree: 89%
 
    ![](assets/nine.png)
 
-お疲れ様です。モデルのトランジションが正常に変更されました。
+お疲れ様です。 モデルのトランジションが正常に変更されました。
 
 >[!MORELIKETHIS]
 >

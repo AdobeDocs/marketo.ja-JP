@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359815
-description: パーソナライズされた URL を含むリストをMarketoから書き出す方法について説明します。 受信者のリストと一意のランディングページ URL を取得します。
+description: MarketoからパーソナライズされたURLを含むリストを書き出す方法について説明します。 一意のランディングページ URLを使用した受信者のリストを取得します。
 title: パーソナライズされた URL を含むリストのエクスポート
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 88%
+source-wordcount: '187'
+ht-degree: 86%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 88%
 >* [アカウントでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [ランディングページでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. リストまたはスマートリストを選択し、「**[!UICONTROL リード]**」タブをクリックして結果を取得し、excel アイコンをクリックします。インライン：**[!UICONTROL Marketo の一意のコード]**&#x200B;と **[!UICONTROL Marketo の一意の名前]**&#x200B;[列が表示されていることを確認してください。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)
+1. リストまたはスマートリストを選択し、「**[!UICONTROL リード]**」タブをクリックして結果を取得し、excel アイコンをクリックします。 インライン：**[!UICONTROL Marketo の一意のコード]**&#x200B;と **[!UICONTROL Marketo の一意の名前]**[列が表示されていることを確認してください。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -42,7 +42,7 @@ ht-degree: 88%
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 
-   これで完了です。これで、リードとパーソナライズされた URL のリストが作成されました。
+   これで完了です。 これで、リードとパーソナライズされた URL のリストが作成されました。
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 

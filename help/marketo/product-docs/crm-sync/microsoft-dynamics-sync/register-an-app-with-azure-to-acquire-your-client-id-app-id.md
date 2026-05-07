@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12983390
-description: Azureにアプリを登録して、Dynamics 同期用のクライアント ID とアプリ ID を取得する方法について説明します。 Azureの Active Directory とアプリの登録を認証に使用します。
+description: Azureにアプリを登録して、Dynamics sync用にクライアント IDとアプリ IDを取得する方法を説明します。 Azure Active Directoryとアプリの登録を使用して認証を行います。
 title: アプリを Azure に登録してクライアント ID／アプリ ID を取得
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 91%
+source-wordcount: '360'
+ht-degree: 84%
 
 ---
 
@@ -17,7 +17,7 @@ Azure Active Directory は、オンプレミスのディレクトリをクラウ
 
 ## 新しいアプリの登録 {#registering-a-new-app}
 
-1. 管理権限を持つアカウントを使用して、Microsoft Azure 管理ポータルに[ログイン](https://login.microsoftonline.com/){target="_blank"}します。また、左側のナビゲーションパネルの「**[!UICONTROL 管理者]**」項目を展開し、「**[!UICONTROL Azure AD]**」を選択して、Office 365 Admin Center から Microsoft Azure ポータルにアクセスすることもできます。
+1. 管理権限を持つアカウントを使用して、Microsoft Azure 管理ポータルに[ログイン](https://login.microsoftonline.com/){target="_blank"}します。 また、左側のナビゲーションパネルの「**[!UICONTROL 管理者]**」項目を展開し、「**[!UICONTROL Azure AD]**」を選択して、Office 365 Admin Center から Microsoft Azure ポータルにアクセスすることもできます。
 
    >[!CAUTION]
    >
@@ -25,10 +25,10 @@ Azure Active Directory は、オンプレミスのディレクトリをクラウ
 
    >[!NOTE]
    >
-   >Azure アカウントをお持ちでない場合は、[新規登録](https://azure.microsoft.com/ja-jp/free/){target="_blank"}できます。詳しくは、Microsoft のドキュメントを参照するか、Microsoft の担当者にお問い合わせください。Azure アカウントを作成したら、以下の手順を使用して 1 つ以上のアプリを登録できます。
+   >Azure アカウントをお持ちでない場合は、[新規登録](https://azure.microsoft.com/ja-jp/free/){target="_blank"}できます。 詳しくは、Microsoft のドキュメントを参照するか、Microsoft の担当者にお問い合わせください。 Azure アカウントを作成したら、以下の手順を使用して 1 つ以上のアプリを登録できます。
    >
    >
-   >Azure アカウントがあっても、[!DNL Microsoft Dynamics 365] を使用した [!DNL Office 365] サブスクリプションが Azure サブスクリプションで利用できない場合は、[こちらの手順](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"}に従って、2 つのアカウントを関連付けます。
+   >Azure アカウントを持っているが、[!DNL Microsoft Dynamics 365]の[!DNL Office 365] サブスクリプションがAzure サブスクリプションで利用できない場合は、[次の手順](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"}に従って、2つのアカウントを関連付けてください。
 
 1. 左側のナビゲーションパネルで、「**[!UICONTROL Azure Active Directory]**」を検索してクリックします。
 
@@ -42,7 +42,7 @@ Azure Active Directory は、オンプレミスのディレクトリをクラウ
 
    ![](assets/four.png)
 
-1. アプリ名を入力し、適切なアカウントタイプを選択して、リダイレクト URL を入力します。次に、ページの下部にある「**[!UICONTROL 登録]**」をクリックします。
+1. アプリ名を入力し、適切なアカウントタイプを選択して、リダイレクト URL を入力します。 次に、ページの下部にある「**[!UICONTROL 登録]**」をクリックします。
 
    ![](assets/five.png)
 

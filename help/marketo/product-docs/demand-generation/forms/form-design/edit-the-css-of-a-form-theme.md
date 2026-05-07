@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2359679
-description: Marketoでフォームテーマの CSS を編集する方法を説明します。 カスタムスタイルを使用してフォームの外観をカスタマイズします。
+description: MarketoでフォームテーマのCSSを編集する方法を説明します。 カスタムスタイルを使用して、フォームの外観をカスタマイズします。
 title: フォームテーマの CSS の編集
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 89%
+source-wordcount: '197'
+ht-degree: 76%
 
 ---
 
 # フォームテーマの CSS の編集 {#edit-the-css-of-a-form-theme}
 
-事前にビルドされた[選択できるテーマ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)がいくつかあります。ただし、CSS を編集するのがお好きな方は、必要な変更をおこなうことができます。手順は以下のとおりです。
+事前にビルドされた[選択できるテーマ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md)がいくつかあります。 ただし、CSS を編集するのがお好きな方は、必要な変更をおこなうことができます。 手順は以下のとおりです。
 
 >[!NOTE]
 >
->Marketo サポートはカスタムコーディングを支援できないので、これを試す場合は、CSS を知っておく必要があります。また、加えた変更は、現在編集中のフォームにのみ適用されます。
+>Marketo サポートはカスタムコーディングを支援できないので、これを試す場合は、CSS を知っておく必要があります。 また、変更した内容は、現在編集中のフォームにのみ適用されます。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-5.png)
 
-1. フォームを選択して、「**[!UICONTROL フォームの編集]**」をクリックします。
+1. フォームを選択し、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
@@ -39,7 +39,7 @@ ht-degree: 89%
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. この CSS を、自由に切り取って独自のエディターに貼り付けます。これは読み取り専用なので、上書き CSS のみが必要です。
+1. この CSS を、自由に切り取って独自のエディターに貼り付けます。 読み取り専用なので、CSSを上書きするだけで済みます。
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -51,7 +51,7 @@ ht-degree: 89%
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 
-1. カスタム CSS を入力します。すべてではなく違う部分だけが必要です。
+1. カスタム CSS を入力します。 すべてではなく違う部分だけが必要です。
 
    ![](assets/image2014-9-15-14-3a39-3a21.png)
 

@@ -4,10 +4,10 @@ description: メールエディターv2.0とその機能について説明しま
 title: メールエディター v2.0 の概要
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 85%
+source-wordcount: '462'
+ht-degree: 79%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 85%
 
 **メールテンプレート選択ツール**
 
-新しいメールを作成すると、[メールテンプレート選択ツール](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)に移動します。
+新しい電子メールを作成すると、[電子メールテンプレートピッカー](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)に移動します。
 
 ![](assets/email-editor-v2-overview-1.png)
 
@@ -33,19 +33,19 @@ ht-degree: 85%
 
 **モジュール**
 
-エディターの右側にあるものは、モジュールと呼ばれます。[メールにモジュールを追加](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)する方法を説明します。
+エディターの右側にあるものは、モジュールと呼ばれます。 [メールにモジュールを追加](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)する方法を説明します。
 
 ![](assets/email-editor-v2-overview-3.png)
 
 **テキストバージョン**
 
-メールの HTML バージョンとテキストバージョンの切り替えは、下部の便利なタブに表示されます。[テキストバージョンのメールを編集](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)する方法を説明します。
+メールの HTML バージョンとテキストバージョンの切り替えは、下部の便利なタブに表示されます。 [テキストバージョンのメールを編集](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)する方法を説明します。
 
 ![](assets/email-editor-v2-overview-4.png)
 
 **メールヘッダー**
 
-デザインスペースがもっと必要な場合、[編集](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)が完了したら、メールヘッダーを非表示にできます。このアイコンをクリックするだけです...
+デザインスペースがもっと必要な場合、 メールヘッダーは、[編集](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)が完了した後に非表示にすることができます。 このアイコンをクリックするだけです...
 
 ![](assets/email-editor-v2-overview-5.png)
 
@@ -55,7 +55,7 @@ ht-degree: 85%
 
 **メールをプレビューする**
 
-デフォルトでは、メールにはデスクトップ（ハイライトされた青いアイコン）で表示される状態が示されます。その右にあるアイコンをクリックすると...
+デフォルトでは、メールにはデスクトップ（ハイライトされた青いアイコン）で表示される状態が示されます。 その右にあるアイコンをクリックすると...
 
 ![](assets/email-editor-v2-overview-7.png)
 
@@ -71,19 +71,19 @@ ht-degree: 85%
 
 ![](assets/email-editor-v2-overview-10.png)
 
-...モバイルデバイスでの表示を確認することもできます。テキストバージョンのプレビューも確認できます。右上の「**[!UICONTROL ドラフトの編集]**」をクリックするだけで、編集を再開できます。
+...モバイルデバイスでの表示を確認することもできます。 テキストバージョンのプレビューも確認できます。 右上の「**[!UICONTROL ドラフトの編集]**」をクリックするだけで、編集を再開できます。
 
 ![](assets/email-editor-v2-overview-11.png)
 
 **[!UICONTROL メールアクション]**
 
-「**[!UICONTROL メールアクション]**」にも、新しい機能があります。「**[!UICONTROL 画像またはファイルのアップロード]**」と「**[!UICONTROL Web から画像を取得]**」です。メール自体を新しいメールテンプレートとして保存することもできます。名前と説明を指定するだけです。
+「**[!UICONTROL メールアクション]**」にも、新しい機能があります。 「**[!UICONTROL 画像またはファイルのアップロード]**」と「**[!UICONTROL Web から画像を取得]**」です。 メール自体を新しいメールテンプレートとして保存することもできます。 名前と説明を指定するだけです。
 
 ![](assets/email-editor-v2-overview-12.png)
 
 >[!CAUTION]
 >
->メールをテンプレートとして保存する場合、変数の値は持ち越されません。変数は、基になるテンプレートで指定されたデフォルトを引き続き使用します。メール内で使用可能なモジュールも、メール本文に挿入されない限り持ち越されません。
+>メールをテンプレートとして保存する場合、変数の値は持ち越されません。 変数は、基になるテンプレートで指定されたデフォルトを引き続き使用します。 メール内で使用可能なモジュールも、メール本文に挿入されない限り持ち越されません。
 
 >[!NOTE]
 >
@@ -95,13 +95,13 @@ ht-degree: 85%
 
 **[!UICONTROL 設定を編集]**
 
-[!UICONTROL プリヘッダー]を追加するオプションがあります。[!UICONTROL プリヘッダー]とは、インボックスでメールを表示する際、件名の後に表示される短い概要です。
+[!UICONTROL プリヘッダー]を追加するオプションがあります。 [!UICONTROL プリヘッダー]とは、インボックスでメールを表示する際、件名の後に表示される短い概要です。
 
 ![](assets/email-editor-v2-overview-14.png)
 
 >[!CAUTION]
 >
->メールエディターを使用している際には、トークンは[!UICONTROL プリヘッダー]で機能しません。[!UICONTROL プリヘッダー]でトークンを使用するには、メールテンプレートで独自の HTML を使用する必要があります。
+>メールエディターを使用している際には、トークンは[!UICONTROL プリヘッダー]で機能しません。 [!UICONTROL プリヘッダー]でトークンを使用するには、メールテンプレートで独自の HTML を使用する必要があります。
 
 >[!MORELIKETHIS]
 >

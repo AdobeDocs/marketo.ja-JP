@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359663
-description: Marketoで非表示のフォームフィールド値を設定する方法を説明します。 フォーム送信と共に静的な値またはトークン値を渡します。
+description: Marketoで非表示のフォームフィールド値を設定する方法を説明します。 フォーム送信で静的またはトークン値を渡します。
 title: 非表示フォームフィールドの値を設定する
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 93%
+source-wordcount: '317'
+ht-degree: 87%
 
 ---
 
 # 非表示フォームフィールドの値を設定する {#set-a-hidden-form-field-value}
 
-非表示のフィールドは、通常、動的に設定されます。フォームの入力者には表示されません。その値の設定方法を説明しましょう。
+非表示のフィールドは、通常、動的に設定されます。 フォームの入力者には表示されません。 その値の設定方法を説明しましょう。
 
 >[!PREREQUISITES]
 >
@@ -27,7 +27,7 @@ ht-degree: 93%
 
 ## デフォルト値の使用 {#use-default-value}
 
-「**[!UICONTROL デフォルト値]**&#x200B;の使用」を選択すると、このフォームの送信時に常に使用される特定の値をハードコードできます。「**[!UICONTROL デフォルト値]**」を入力して、「**[!UICONTROL 保存]**」をクリックします。
+「**[!UICONTROL デフォルト値]**&#x200B;の使用」を選択すると、このフォームの送信時に常に使用される特定の値をハードコードできます。 「**[!UICONTROL デフォルト値]**」を入力して、「**[!UICONTROL 保存]**」をクリックします。
 
 ![](assets/image2014-9-15-13-3a5-3a27.png)
 
@@ -37,7 +37,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->パラメーターは少し専門的に思えますが、一度使えるようになれば、強力なものです。この [Wikipedia の「Query Strings」](https://en.wikipedia.org/wiki/Query_string)のページなどが参考になるでしょう。
+>パラメーターは少し専門的に思えますが、 一度使えるようになれば、強力なものです。 この [Wikipedia の「Query Strings」](https://en.wikipedia.org/wiki/Query_string)のページなどが参考になるでしょう。
 
 1. **[!UICONTROL 取得値のタイプ]**&#x200B;として「**[!UICONTROL URL パラメーター]**」を選択します。
 
@@ -53,7 +53,7 @@ ht-degree: 93%
 
 ## Cookie 値 {#cookie-value}
 
-Cookie にデータを保存する場合は、**[!UICONTROL Cookie 値]**&#x200B;を使用して、フォームの送信時にデータを取得できます。
+Cookieにデータを保存する場合は、**[!UICONTROL Cookie値]**&#x200B;を使用して、フォームの送信時にデータを取得できます。
 
 1. 「**[!UICONTROL 値の取得元]**」で「**[!UICONTROL Cookie 値]**」を選択します。
 

@@ -1,12 +1,12 @@
 ---
-description: 管理者として Sales Insight Actions を設定する方法を説明します。 Marketo接続の設定、データ同期、ユーザーの招待を行います。
+description: Sales Insight Actionsを管理者として設定する方法を説明します。 Marketo接続の設定、データの同期、ユーザーの招待を行います。
 title: セールスインサイトアクション管理者設定ガイド
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '655'
-ht-degree: 97%
+source-wordcount: '669'
+ht-degree: 88%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->Marketo セールスインサイト Actions は、[Marketo セールスインサイトパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
+>Marketo セールスインサイト Actions は、[Marketo セールスインサイトパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。 「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
 >[!PREREQUISITES]
 >
@@ -64,9 +64,9 @@ ht-degree: 97%
 
    >[!NOTE]
    >
-   >統合情報カードにクライアント ID およびクライアントシークレットが表示されていない場合、最初のユーザーを招待して Actions インスタンスを有効化することで、クライアント ID およびクライアントシークレットが表示されます。
+   >統合情報カードにクライアント IDとクライアントシークレットが表示されない場合は、最初のユーザーを招待してActions インスタンスをアクティブ化すると、クライアント IDとクライアントシークレットが表示されます。
 
-1. 「**セールスインサイト**」をクリックし、「**アクション設定**」をクリックします。Marketo 管理者のリストから選択し、「**招待を送信**」をクリックして招待します。
+1. 「**セールスインサイト**」をクリックし、「**アクション設定**」をクリックします。 Marketo 管理者のリストから選択し、「**招待を送信**」をクリックして招待します。
 
    ![](assets/msi-actions-admin-guide-2.png)
 
@@ -74,7 +74,7 @@ ht-degree: 97%
 
 >[!NOTE]
 >
->追加のユーザーは、Marketo からは追加されず、代わりに Sales アカウントのユーザー管理ページから追加されます。ユーザーの追加について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"}してください。
+>追加のユーザーは、Marketo からは追加されず、代わりに Sales アカウントのユーザー管理ページから追加されます。 ユーザーの追加について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"}してください。
 
 ## Marketo Sales アカウントを [!DNL Salesforce] に接続 {#connect-marketo-sales-account-to-salesforce}
 
@@ -94,7 +94,7 @@ ht-degree: 97%
 
    ![](assets/msi-actions-admin-guide-6.png)
 
-既に Salesforce にログインしている場合は、Salesforce に接続されます。まだログインしていない場合は、ログインするように求められます。
+既にSalesforceにログインしている場合は、接続されます。 そうでない場合は、ログインするように求められます。
 
 ## Marketo をセールスアプリアカウントに接続 {#connect-marketo-to-your-sales-apps-account}
 
@@ -106,7 +106,7 @@ ht-degree: 97%
 
    ![](assets/msi-actions-admin-guide-8.png)
 
-1. 「**[!UICONTROL 接続]**」をクリックします。アカウントが接続されます。
+1. 「**[!UICONTROL 接続]**」をクリックします。 アカウントが接続されます。
 
    ![](assets/msi-actions-admin-guide-9.png)
 
@@ -120,7 +120,7 @@ ht-degree: 97%
 
 >[!CAUTION]
 >
->データ同期を開始したら、セールスインサイトアクションインスタンスから元のユーザを&#x200B;**削除しない**&#x200B;ようにします。これは、最初の招待が送信されたユーザーです。
+>データ同期を開始したら、セールスインサイトアクションインスタンスから元のユーザを&#x200B;**削除しない**&#x200B;ようにします。 これは、最初の招待が送信されたユーザーです。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -130,11 +130,11 @@ ht-degree: 97%
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. 「**[!UICONTROL Actions 設定]**」タブをクリックします。「アクションフィールドを同期」カードで、「**[!UICONTROL 同期]**」をクリックします。
+1. 「**[!UICONTROL Actions 設定]**」タブをクリックします。 「アクションフィールドを同期」カードで、「**[!UICONTROL 同期]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-12.png)
 
-1. 同期されるフィールドのプレビューが表示されます。「**[!UICONTROL 同期の開始]**」をクリックします。
+1. 同期されるフィールドのプレビューが表示されます。 「**[!UICONTROL 同期の開始]**」をクリックします。
 
    ![](assets/msi-actions-admin-guide-13.png)
 

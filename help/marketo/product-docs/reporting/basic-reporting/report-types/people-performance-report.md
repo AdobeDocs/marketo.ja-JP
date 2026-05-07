@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2360014
-description: 時間の経過に伴うデータベースの増加を測定し、属性でユーザーをグループ化するユーザーパフォーマンスレポートについて説明します。 プログラムを分析し、ドリルダウン機能で詳細なリード情報を調べます。
+description: 時間の経過に伴うデータベースの成長を測定し、属性ごとに人物をグループ化する人物パフォーマンスレポートについて説明します。 ドリルダウン機能により、プログラムを分析し、リードの詳細な情報を把握できます。
 title: リード効果レポート
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 89%
+source-wordcount: '258'
+ht-degree: 85%
 
 ---
 
 # リード効果レポート {#people-performance-report}
 
-[!UICONTROL リード効果]レポートを使用して、データベースの経時的な増加を測定します。追加した人数と追加した日時を確認できます。リードの詳細を確認し、プログラムを評価します。個人属性または会社属性、または[セグメント化](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)で結果をグループ化します。
+[!UICONTROL リード効果]レポートを使用して、データベースの経時的な増加を測定します。 追加した人数と追加した日時を確認できます。 リードの詳細を確認し、プログラムを評価します。 個人属性または会社属性、または[セグメント化](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)で結果をグループ化します。
 
-1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL リード効果]**&#x200B;[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
+1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL リード効果]**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**[!UICONTROL レポート]**」タブをクリックします。
 
-1. これで完了です。[!UICONTROL リード効果]レポートを調べる準備が整いました。以下のリストで、さらに詳しい情報を得る方法を説明します。
+1. これで完了です。 これで、[!UICONTROL 人のパフォーマンス ] レポートを確認する準備が整いました。 以下のリストで、さらに詳しい情報を得る方法を説明します。
 
    >[!NOTE]
    >
@@ -29,7 +29,7 @@ ht-degree: 89%
 
 ## リード効果レポートの機能 {#the-power-of-people-performance-reports}
 
-[!UICONTROL リード効果]レポートは非常に強力です。さらにグループ化、フィルタリングおよび設定を行うことで、[!UICONTROL データベース]内のリードと、プログラムの有効性について多くのことを学べます。
+[!UICONTROL リード効果]レポートは非常に強力です。 さらにグループ化、フィルタリングおよび設定を行うことで、[!UICONTROL データベース]内のリードと、プログラムの有効性について多くのことを学べます。
 
 次の操作が可能です。
 
@@ -44,4 +44,4 @@ ht-degree: 89%
 
   >[!TIP]
   >
-  >レポートは、[作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)、設定および[削除](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)が簡単に行えます。キーデータに焦点を当てる最良の方法を学ぶために、様々な方法を操作して試してみましょう。
+  >レポートは、[作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)、設定および[削除](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)が簡単に行えます。 キーデータに焦点を当てる最良の方法を学ぶために、様々な方法を操作して試してみましょう。

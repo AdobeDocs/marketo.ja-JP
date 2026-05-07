@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384663
-description: すべてのコンテンツページまたはコンテンツを編集ポップアップから予測コンテンツのタイトルを未承認にする方法を説明します。 必要に応じて、予測コンテンツ ページからタイトルを削除します。
+description: すべてのコンテンツ ページまたはコンテンツを編集ポップアップから、予測コンテンツのタイトルを未承認にする方法を説明します。 必要に応じて、予測コンテンツページからタイトルを削除します。
 title: 予測コンテンツのタイトルの承認取消
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 81%
+source-wordcount: '159'
+ht-degree: 75%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 81%
 
 ## [!UICONTROL コンテンツを編集]ポップアップ {#edit-content-pop-up}
 
-編集中にタイトルの承認を取り消すことができます。
+タイトルを編集中に未承認にすることができます。
 
 1. 承認を取り消すコンテンツのタイトルが含まれる行にカーソルを置き、編集アイコンをクリックします。
 
