@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359858
-description: Marketoに画像やファイルを追加する方法を説明します。 E メール、ランディングページ、フォームで使用するアセットを Design Studio にアップロードします。
+description: Marketoに画像やファイルを追加する方法について説明します。 アセットをDesign Studioにアップロードして、メール、ランディングページ、フォームで使用します。
 title: 画像とファイルを Marketo に追加
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 82%
+source-wordcount: '129'
+ht-degree: 64%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 82%
 
 新しい画像やファイルを Marketo Engage インスタンスに追加する方法について説明します。
 
-1. **[!UICONTROL デザインスタジオ]**&#x200B;に移動します。
+1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
@@ -41,7 +41,7 @@ ht-degree: 82%
 
    >[!NOTE]
    >
-   >Marketo ではすべてのファイルタイプをアップロードできますが、主要な画像タイプ（JPG、PNG、GIF など）のみメールエディターで機能します。
+   >Marketoでは、すべてのファイルタイプをアップロードできますが、主要な画像タイプ（JPG、PNG、GIFなど）のみがサポートされます。 メールエディターで機能します。
 
    >[!MORELIKETHIS]
    >

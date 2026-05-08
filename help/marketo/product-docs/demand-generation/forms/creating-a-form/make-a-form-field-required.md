@@ -4,16 +4,16 @@ description: Marketoで必要なフォームフィールドを作成する方法
 title: フォームフィールドを必須にする
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 30%
+source-wordcount: '114'
+ht-degree: 28%
 
 ---
 
 # フォームフィールドを必須にする {#make-a-form-field-required}
 
-フォームにフィールドを[追加する場合](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}は、フォームに入力するユーザーに対してフィールドの一部を必須にすることができます。 手順は以下のとおりです。
+フォームにフィールドを[追加する場合](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}は、フォームに入力するユーザーに対してフィールドの一部を必須にすることができます。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -31,7 +31,7 @@ ht-degree: 30%
 
    ![](assets/make-a-form-field-required-3.png)
 
-1. これで完了です。 「**[!UICONTROL 終了]**」をクリックします。
+1. 「**[!UICONTROL 終了]**」をクリックします。
 
    ![](assets/make-a-form-field-required-4.png)
 
@@ -41,8 +41,8 @@ ht-degree: 30%
 
 >[!NOTE]
 >
->変更を公開するには、このフォームが有効になっている[&#x200B; ランディングページを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}することを忘れないでください。
+>変更を公開するには、このフォームが有効になっている[ ランディングページを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}してください。
 
 >[!MORELIKETHIS]
 >
->[&#x200B; フォームに追加したフィールドを並べ替え](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"}
+>[ フォームに追加したフィールドを並べ替え](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"}

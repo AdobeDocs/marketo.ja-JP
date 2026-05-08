@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359594
-description: Marketo フォームにフィールドセットを追加する方法を説明します。 関連するフィールドを見出しとともにグループ化して、レイアウトを改善します。
+description: Marketo フォームにフィールドセットを追加する方法について説明します。 関連するフィールドを見出しと一緒にグループ化して、レイアウトを向上させます。
 title: フォームにフィールドセットを追加する
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 81%
+source-wordcount: '105'
+ht-degree: 57%
 
 ---
 
 # フォームにフィールドセットを追加する {#add-a-fieldset-to-a-form}
 
-フィールドセットは素晴らしいです。フィールドセットは多くのフィールドをグループ化します。グループ全体を一度に制御することもできます。
+フィールドセットは、一連のフィールドをグループ化したものです。 ブロック全体を一度に制御できます。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -35,12 +35,10 @@ ht-degree: 81%
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
-1. 次の図は、この操作をおこなった状態を表します。
+1. 次に、完了した場合の表示を示します。
 
    ![](assets/image2014-9-15-15-3a2-3a31.png)
 
-これで手順は完了です。
-
 >[!TIP]
 >
->他のフィールドの値に応じて、フィールドセット全体の表示設定を動的に変えることができます。詳細は、「[表示設定ルール](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)」を参照してください。
+>他のフィールドの値に応じて、フィールドセット全体の表示設定を動的に変えることができます。 詳細は、「[表示設定ルール](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)」を参照してください。

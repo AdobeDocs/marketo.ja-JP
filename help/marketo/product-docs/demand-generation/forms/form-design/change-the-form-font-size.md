@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359610
-description: Marketoでフォームのフォントサイズを変更する方法を説明します。 フォームのラベルとフィールドのテキストのサイズを調整します。
+description: Marketoでフォントサイズを変更する方法を説明します。 フォームラベルとフィールドのテキストサイズを調整します。
 title: フォームのフォントサイズの変更
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 84%
+source-wordcount: '124'
+ht-degree: 83%
 
 ---
 
 # フォームのフォントサイズの変更 {#change-the-form-font-size}
 
-Marketo を使用すると、フォームの外観と操作性を簡単にカスタマイズできます。フォントサイズを変更したいかもしれません。手順は以下のとおりです。
+Marketo を使用すると、フォームの外観と操作性を簡単にカスタマイズできます。 フォントサイズを変更したいかもしれません。 手順は以下のとおりです。
 
 >[!TIP]
 >
@@ -23,7 +23,7 @@ Marketo を使用すると、フォームの外観と操作性を簡単にカス
 
    ![](assets/login-marketing-activities-1.png)
 
-1. フォームを選択して、「**[!UICONTROL フォームの編集]**」をクリックします。
+1. フォームを選択し、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
@@ -52,5 +52,3 @@ Marketo を使用すると、フォームの外観と操作性を簡単にカス
    >必ず、フォームの変更によって作成されたランディングページのドラフトを承認してください。
 
    ![](assets/image2014-9-15-16-3a11-3a42.png)
-
-簡単でしたね。完了です。

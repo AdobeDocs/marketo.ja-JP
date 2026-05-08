@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359671
-description: Marketoのフォームフィールドにヒントテキストを追加する方法を説明します。 プレースホルダーまたはヘルパーテキストを表示して訪問者をガイドします。
+description: Marketoでフォームフィールドにヒントテキストを追加する方法を説明します。 訪問者をガイドするプレースホルダーまたはヘルパーテキストを表示します。
 title: フォームフィールドへのヒントテキストの追加
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 84%
+source-wordcount: '133'
+ht-degree: 72%
 
 ---
 
 # フォームフィールドへのヒントテキストの追加 {#add-hint-text-to-a-form-field}
 
-ヒントと[説明](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md)はフォームを記入するのに役立ちます。ヒントを追加する方法を次に示します。
+ヒントと[説明](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md)はフォームを記入するのに役立ちます。 ヒントを追加する方法を次に示します。
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 84%
 
    ![](assets/login-marketing-activities-5.png)
 
-1. フォームを選択して、「**[!UICONTROL フォームの編集]**」をクリックします。
+1. フォームを選択し、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
@@ -49,4 +49,4 @@ ht-degree: 84%
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-ご確認ください。次に、いくらかの[説明](add-tooltip-instructions-to-a-form-field.md)を追加します。
+フォームフィールドにツールヒントの手順を追加するには、[ フォームフィールドにツールヒントの手順を追加](add-tooltip-instructions-to-a-form-field.md)を参照してください。

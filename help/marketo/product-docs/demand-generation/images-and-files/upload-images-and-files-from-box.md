@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359868
-description: Box からMarketoに画像やファイルをアップロードする方法を説明します。 Box を接続して、アセットを Design Studio に読み込みます。
+description: BoxからMarketoに画像やファイルをアップロードする方法について説明します。 Boxを接続し、Design Studioにアセットを読み込みます。
 title: Box から画像とファイルをアップロードする
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 82%
+ht-degree: 70%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 82%
 
    ![](assets/designstudio-3.png)
 
-1. 「**[!UICONTROL 画像とファイル]**」に移動します。「**[!UICONTROL ファイルアクション]**」をクリックして「**[!UICONTROL Web から画像を取得]**」を選択します。
+1. 「**[!UICONTROL 画像とファイル]**」に移動します。 「**[!UICONTROL ファイルアクション]**」をクリックして「**[!UICONTROL Web から画像を取得]**」を選択します。
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
@@ -35,12 +35,12 @@ ht-degree: 82%
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. ファイルを保存する場所を選択します。次に、アップロード元の **[!DNL Box]** フォルダーを選択します。「**[!UICONTROL 次へ]**」をクリックします。
+1. ファイルを保存する場所を選択します。 次に、アップロード元の **[!DNL Box]** フォルダーを選択します。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
-1. アップロードするファイルを選択します。「**[!UICONTROL インポート]**」をクリックします。
+1. アップロードするファイルを選択します。 「**[!UICONTROL 読み込み]**」をクリックします。
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 
-これで、ランディングページとメールでファイルを使用する準備が整いました。
+これで、ファイルをランディングページやメールで使用する準備が整いました。

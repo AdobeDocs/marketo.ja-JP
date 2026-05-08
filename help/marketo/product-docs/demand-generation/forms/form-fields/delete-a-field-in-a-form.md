@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359606
-description: Marketo フォームからフィールドを削除する方法を説明します。 不要になったフィールドをフォームから削除します。
+description: Marketo フォームからフィールドを削除する方法について説明します。 不要になったフィールドをフォームから削除します。
 title: フォーム内のフィールドの削除
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 78%
+source-wordcount: '86'
+ht-degree: 77%
 
 ---
 
 # フォーム内のフィールドの削除 {#delete-a-field-in-a-form}
 
-フォーム上に不要になったフィールドがある場合は、簡単に削除できます。手順は次のとおりです。
+フォーム上に不要になったフィールドがある場合は、簡単に削除できます。 手順は以下のとおりです。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359673
-description: Marketoのフォームフィールドにツールヒントの説明を追加する方法を説明します。 訪問者がフィールドの上にマウスポインターを置くと、追加のヘルプが表示されます。
+description: Marketoのフォームフィールドにツールチップの手順を追加する方法を説明します。 訪問者がフィールドにカーソルを合わせたときに、追加のヘルプを表示します。
 title: フォームフィールドへのツールチップ説明の追加
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 84%
+source-wordcount: '130'
+ht-degree: 83%
 
 ---
 
 # フォームフィールドへのツールチップ説明の追加 {#add-tooltip-instructions-to-a-form-field}
 
-[ヒント](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md)と説明は、フォームに記入するのに役立ちます。ツールチップの手順を追加する方法を次に示します。
+[ヒント](/help/marketo/product-docs/demand-generation/forms/form-fields/add-hint-text-to-a-form-field.md)と説明は、フォームに記入するのに役立ちます。 ツールチップの手順を追加する方法を次に示します。
 
 >[!NOTE]
 >
@@ -49,4 +49,4 @@ ht-degree: 84%
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
-素晴らしいです。訪問者がフィールドにカーソルを合わせると、ツールチップが表示されます。
+訪問者がフィールドにカーソルを合わせると、ツールチップが表示されます。

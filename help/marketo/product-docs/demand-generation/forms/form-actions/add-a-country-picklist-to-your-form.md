@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949966
-description: Marketo フォームに国選択リストを追加する方法を説明します。 訪問者に国を選択するためのドロップダウンを提供します。
+description: Marketo フォームに国別ピックリストを追加する方法について説明します。 訪問者が国を選択するためのドロップダウンを提供します。
 title: フォームへの国選択リストの追加
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 90%
+source-wordcount: '156'
+ht-degree: 87%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 90%
 
    ![](assets/login-marketing-activities-9.png)
 
-1. フォームを選択して、「**[!UICONTROL フォームの編集]**」をクリックします。
+1. フォームを選択し、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/editform-1.png)
 
@@ -69,11 +69,9 @@ ht-degree: 90%
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   これで完了です。これで、フォームに入力したユーザーは、提供した国のリストから選択できます。
+   これで、フォームに入力したユーザーは、提供した国のリストから選択できます。
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
-
-とても簡単だったので、他に何かしてみましょう。ユーザーがリストで米国を国として選択した場合に、州フィールドを動的に表示する方法を見てみましょう。その方法については、以下の関連記事を参照してください。
 
 >[!MORELIKETHIS]
 >

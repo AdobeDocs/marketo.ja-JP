@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2359612
-description: Marketoでフォームラベルの位置を変更する方法を説明します。 フィールドの上、下、左または右にラベルを配置します。
+description: Marketoでフォームラベルの位置を変更する方法について説明します。 フィールドの上、下、または左または右にラベルを配置します。
 title: フォームラベルの位置の変更
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 84%
+source-wordcount: '108'
+ht-degree: 80%
 
 ---
 
 # フォームラベルの位置の変更 {#change-form-label-position}
 
-[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)を作成する場合、フォームフィールドラベルの位置を簡単に変更できます。手順は次のとおりです。
+[フォーム](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)を作成する場合、フォームフィールドラベルの位置を簡単に変更できます。 手順は以下のとおりです。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/login-marketing-activities-2.png)
 
-1. フォームを選択し、「**[!UICONTROL フォームを編集]**」をクリックします。
+1. フォームを選択し、「**[!UICONTROL フォームの編集]**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a16-3a9.png)
 
-1. **[!UICONTROL 設定]**&#x200B;を選択します。
+1. 「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
@@ -51,8 +51,6 @@ ht-degree: 84%
    >[!NOTE]
    >
    >必ず、フォームの変更によって作成されたランディングページのドラフトを承認してください。
-
-よくやった！フォーム上のラベルの位置を簡単に変更する方法フォームラベルのフォントを変更する場合に実行できる操作を見てみましょう。
 
 >[!MORELIKETHIS]
 >

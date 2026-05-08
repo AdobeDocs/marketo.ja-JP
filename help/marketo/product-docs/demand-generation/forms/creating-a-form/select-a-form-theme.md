@@ -4,16 +4,16 @@ description: Marketoでフォームテーマを選択する方法について説
 title: フォームのテーマの選択
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '128'
 ht-degree: 65%
 
 ---
 
 # フォームのテーマの選択 {#select-a-form-theme}
 
-フォームのために素敵なテーマをたくさん作りました。 どちらが一番お好きですか。
+フォームにはいくつかのテーマがあります。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -53,8 +53,6 @@ ht-degree: 65%
 1. 他のフォームオプションを設定するには「**[!UICONTROL 次へ]**」をクリックします。フォームのテーマを変更するのみの場合は、「**[!UICONTROL 完了]**」をクリックします。
 
    ![](assets/select-a-form-theme-5.png)
-
-どれだけ簡単だったか？! HTML/CSS ブックにゴミを集めさせることができます。
 
 >[!MORELIKETHIS]
 >

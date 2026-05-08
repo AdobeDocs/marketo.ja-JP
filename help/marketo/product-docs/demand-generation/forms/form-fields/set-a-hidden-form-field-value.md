@@ -4,10 +4,10 @@ description: Marketoで非表示のフォームフィールド値を設定する
 title: 非表示フォームフィールドの値を設定する
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '317'
-ht-degree: 87%
+source-wordcount: '313'
+ht-degree: 83%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->パラメーターは少し専門的に思えますが、 一度使えるようになれば、強力なものです。 この [Wikipedia の「Query Strings」](https://en.wikipedia.org/wiki/Query_string)のページなどが参考になるでしょう。
+>パラメーターは技術的なものです。 それらを理解すれば、それらは強力になります。 この [Wikipedia の「Query Strings」](https://en.wikipedia.org/wiki/Query_string)のページなどが参考になるでしょう。
 
 1. **[!UICONTROL 取得値のタイプ]**&#x200B;として「**[!UICONTROL URL パラメーター]**」を選択します。
 

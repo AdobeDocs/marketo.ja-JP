@@ -1,19 +1,19 @@
 ---
 unique-page-id: 10098242
-description: Marketo フォームでソーシャルフォーム入力を無効にする方法を説明します。 訪問者がソーシャルネットワークを使用して送信するオプションをオフにします。
+description: Marketo フォームでソーシャルフォームの入力を無効にする方法について説明します。 訪問者がソーシャルネットワークを使用して送信するオプションをオフにします。
 title: ソーシャルフォーム入力を無効にする
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 76%
+source-wordcount: '91'
+ht-degree: 74%
 
 ---
 
 # ソーシャルフォーム入力を無効にする {#disable-social-form-fill}
 
-サイトの訪問者にソーシャルプロファイルを使用してフォームを送信してほしくない場合があります。無効化の方法を説明しましょう。
+サイトの訪問者にソーシャルプロファイルを使用してフォームを送信してほしくない場合があります。 無効化の方法を説明しましょう。
 
 >[!AVAILABILITY]
 >
@@ -42,5 +42,3 @@ ht-degree: 76%
 1. 「**[!UICONTROL 承認して閉じる]**」をクリックします。
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
-
-   必要なのはそれだけです。

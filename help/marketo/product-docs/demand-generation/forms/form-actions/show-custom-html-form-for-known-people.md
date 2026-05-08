@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359644
-description: Marketo フォームで既知のユーザーにカスタム HTMLを表示する方法を説明します。 認識された訪問者に対して異なるコンテンツやメッセージを表示する。
+description: Marketo フォームで既知のユーザーにカスタム HTMLを表示する方法について説明します。 認識された訪問者に対して、さまざまなコンテンツやメッセージを表示します。
 title: 既知のリードのカスタム HTML フォームの表示
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 92%
+source-wordcount: '263'
+ht-degree: 85%
 
 ---
 
@@ -45,12 +45,12 @@ ht-degree: 92%
    |---|---|
    | `{{lead.FirstName}}` | これにより、ユーザーの名が表示されます。 |
    | `{{lead.LastName}}` | これにより、ユーザーの姓が表示されます。 |
-   | `{{form.Button:default=Download}}` | これにより、フォームボタンが表示されます。`=` の後ろの領域をクリックして、ボタンのテキストを変更します。 |
-   | `{{form.NotYou:default=Not you?}}` | これにより、ユーザーが他のユーザーである場合にもリンクが表示されます。`=` の後ろの領域をクリックして、リンクテキストを変更します。 |
+   | `{{form.Button:default=Download}}` | これにより、フォームボタンが表示されます。 `=` の後ろの領域をクリックして、ボタンのテキストを変更します。 |
+   | `{{form.NotYou:default=Not you?}}` | これにより、ユーザーが他のユーザーである場合にもリンクが表示されます。 `=` の後ろの領域をクリックして、リンクテキストを変更します。 |
 
    >[!CAUTION]
    >
-   >上記の 4 つのトークンのみを使用できます。他のトークンは、ここでは機能しません。
+   >上記の 4 つのトークンのみを使用できます。 他のトークンは、ここでは機能しません。
 
 1. 「**[!UICONTROL 終了]**」をクリックします。
 
@@ -68,7 +68,7 @@ ht-degree: 92%
    >
    >必ず、フォームの変更によって作成された[ランディングページのドラフトを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)してください。
 
-   簡単でしたね。同じフォームに戻った場合にユーザーに表示される内容を確認します。
+   次に、同じフォームに戻ったかどうかを示します。
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 

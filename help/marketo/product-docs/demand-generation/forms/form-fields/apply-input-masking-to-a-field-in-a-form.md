@@ -4,9 +4,9 @@ description: Marketoのフォームフィールドに入力マスクを適用す
 title: フォーム内のフィールドへの入力マスクの適用
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '189'
 ht-degree: 82%
 
 ---
@@ -51,12 +51,10 @@ ht-degree: 82%
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   ご確認ください。 次に、訪問者に特定の形式で数値を入力するように求めます。
+   次に、訪問者に特定の形式で数値を入力するように求めます。
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 
    >[!NOTE]
    >
    >上の図に示すように、フィールドには事前定義済みの領域が表示されない場合があります。 訪問者が数値の入力を開始するまで空白で表示される場合があります。入力は、フィールドに定義した入力形式に自動的に従います。
-
-簡単ですね。

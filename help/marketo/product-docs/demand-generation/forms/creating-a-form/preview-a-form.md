@@ -1,31 +1,31 @@
 ---
 unique-page-id: 2359575
-description: 公開前にMarketoでフォームをプレビューする方法を説明します。 デスクトップおよびモバイルのレイアウトと動作を確認します。
+description: 公開前にMarketoでフォームをプレビューする方法を説明します。 デスクトップとモバイルのレイアウトと動作を確認します。
 title: フォームのプレビュー
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 59%
+source-wordcount: '79'
+ht-degree: 43%
 
 ---
 
 # フォームのプレビュー {#preview-a-form}
 
-公開する前に、このクイックでシンプルなフォームプレビューアでフォームを確認できます。
+公開する前に、このフォームプレビューアーでフォームを確認できます。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
    ![](assets/preview-a-form-1.png)
 
-1. フォームを選択し、「**[!UICONTROL プレビュー]**」をクリックします。
+1. フォームを選択し、**[!UICONTROL プレビュー]**&#x200B;をクリックします。
 
    ![](assets/preview-a-form-2.png)
 
    >[!NOTE]
    >
-   >フォームが承認されていない場合は、「**ドラフトをプレビュー**」をクリックします。
+   >フォームが承認されていない場合は、**下書きのプレビュー**&#x200B;をクリックします。
 
 1. フォームエディターが&#x200B;_プレビュー_&#x200B;モードで開きます。
 

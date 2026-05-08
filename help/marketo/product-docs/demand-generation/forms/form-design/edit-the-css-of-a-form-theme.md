@@ -4,10 +4,10 @@ description: MarketoでフォームテーマのCSSを編集する方法を説明
 title: フォームテーマの CSS の編集
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 76%
+source-wordcount: '192'
+ht-degree: 70%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 76%
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
-1. この CSS を、自由に切り取って独自のエディターに貼り付けます。 読み取り専用なので、CSSを上書きするだけで済みます。
+1. このCSSを独自のエディターにコピーできます。 読み取り専用なので、CSSを上書きするだけで済みます。
 
    ![](assets/image2014-9-15-14-3a38-3a29.png)
 
@@ -62,5 +62,3 @@ ht-degree: 76%
 1. カスタマイズしたフォームを確認するには、「**[!UICONTROL ドラフトをプレビュー]**」をクリックします。
 
    ![](assets/image2014-9-15-14-3a39-3a50.png)
-
-これで完了です。

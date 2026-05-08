@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2359870
-description: Marketoでアップロードした画像やファイルの URL を検索する方法について説明します。 メールまたは外部ページで使用するアセット URL を取得します。
+description: Marketoでアップロードされた画像またはファイルのURLを検索する方法について説明します。 メールまたは外部ページで使用するアセット URLを取得します。
 title: アップロードされた画像またはファイルの URL を見つける
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '84'
 ht-degree: 34%
 
 ---
 
 # アップロードされた画像またはファイルの URL を見つける {#find-the-url-of-an-uploaded-image-or-file}
 
-アップロードした画像やファイルの web アドレス（URL）を探している場合は、
+アップロードした画像またはファイルのURLを見つけるには、次の手順に従います。
 
-1. **[!UICONTROL デザインスタジオ]**&#x200B;に移動します。
+1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. **[!UICONTROL 画像とファイル]** をクリックします。
+1. **[!UICONTROL 画像とファイル]**&#x200B;をクリックします。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
-1. 目的のアセットを選択します。
+1. 必要なアセットを選択します。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-1. **[!UICONTROL URL]** が詳細ページに表示されます。
+1. **[!UICONTROL URL]**&#x200B;が詳細ページに表示されます。
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 

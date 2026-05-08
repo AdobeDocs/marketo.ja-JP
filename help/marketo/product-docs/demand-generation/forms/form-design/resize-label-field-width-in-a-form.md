@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359604
-description: Marketo フォームのラベルとフィールド幅のサイズを変更する方法について説明します。 ラベルの幅と入力領域を調整します。
+description: Marketo フォームのラベルとフィールド幅のサイズを変更する方法について説明します。 ラベルと入力領域の幅を調整します。
 title: フォーム内のラベル／フィールド幅のサイズ変更
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 81%
+source-wordcount: '102'
+ht-degree: 67%
 
 ---
 
@@ -31,8 +31,7 @@ ht-degree: 81%
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. 「[!UICONTROL ラベルの幅]」や「[!UICONTROL フィールドの幅]」にピクセル値を入力します。
+1. [!UICONTROL  ラベル幅]、[!UICONTROL  フィールド幅]、またはその両方のピクセル値を入力します。
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 
-これで完了です。簡単ですね。
