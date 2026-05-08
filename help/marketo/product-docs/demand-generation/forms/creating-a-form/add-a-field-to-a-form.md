@@ -13,7 +13,7 @@ ht-degree: 39%
 
 # フォームへのフィールドの追加 {#add-a-field-to-a-form}
 
-[がフォームを作成し、[がテーマ ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}を選択した後、ユーザーが入力するフィールドを追加する場合があります。](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
+[&#128279;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)がフォームを作成し、[がテーマ &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}を選択した後、ユーザーが入力するフィールドを追加する場合があります。{target="_blank"}
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -33,7 +33,7 @@ ht-degree: 39%
 
    >[!NOTE]
    >
-   >新しいフォームを作成すると、[!UICONTROL 姓][!UICONTROL 名]と[!UICONTROL メールアドレス]は自動的に追加されます。
+   >新しいフォームを作成すると、[!UICONTROL 姓]&#x200B;[!UICONTROL 名]と[!UICONTROL メールアドレス]は自動的に追加されます。
 
 1. フォームに追加するフィールドを探して選択します。
 
@@ -53,4 +53,4 @@ ht-degree: 39%
 
 >[!MORELIKETHIS]
 >
->[ フォームフィールドを必須にする](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}
+>[&#x200B; フォームフィールドを必須にする](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}

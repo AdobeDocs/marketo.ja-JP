@@ -41,8 +41,8 @@ ht-degree: 28%
 
 >[!NOTE]
 >
->変更を公開するには、このフォームが有効になっている[ ランディングページを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}してください。
+>変更を公開するには、このフォームが有効になっている[&#x200B; ランディングページを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}してください。
 
 >[!MORELIKETHIS]
 >
->[ フォームに追加したフィールドを並べ替え](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"}
+>[&#x200B; フォームに追加したフィールドを並べ替え](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"}
