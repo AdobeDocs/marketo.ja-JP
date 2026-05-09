@@ -1,14 +1,13 @@
 ---
-description: 人物の詳細ページから単一のフローアクションを実行する方法を説明します。 ユーザーに対してオンデマンドで 1 つのフローステップを実行します。
+description: 人物の詳細ページから単一フローアクションを実行する方法を説明します。 人に対して1つのフローステップをオンデマンドで実行します。
 title: 人物の詳細ページからの単一フローアクション
 hide: true
-hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 53%
+source-wordcount: '133'
+ht-degree: 54%
 
 ---
 
@@ -24,7 +23,7 @@ ht-degree: 53%
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. 「**[!UICONTROL 人物のアクション]**」ドロップダウンリストから、目的のフローステップを選択します。この例では、「[メールの送信](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}」を使用します。
+1. 「**[!UICONTROL 人物のアクション]**」ドロップダウンリストから、目的のフローステップを選択します。 この例では、「[メールの送信](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}」を使用します。
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
@@ -34,4 +33,4 @@ ht-degree: 53%
 
 >[!NOTE]
 >
->インスタンスに Workspaces/Partitions が含まれており、Workspaceに関連付けられたページやアセットから取得するのではなく、直接（リンク経由などで）ユーザーの詳細ページに移動する場合は、手順 4 でWorkspaceを選択する必要もあります。
+>インスタンスにワークスペース/パーティションが含まれており、Workspaceに関連付けられたページ/アセットから取得するのではなく、直接人物の詳細ページ（リンク経由など）に移動する場合は、手順4でWorkspaceも選択する必要があります。

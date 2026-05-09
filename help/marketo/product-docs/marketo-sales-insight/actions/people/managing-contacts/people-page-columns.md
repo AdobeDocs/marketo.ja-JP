@@ -1,11 +1,10 @@
 ---
-description: 人物ページ列とビューをカスタマイズする方法について説明します。 必要な連絡先データを表示するには、列を表示または非表示にします。
+description: 人物ページ列とビューのカスタマイズ方法について説明します。 必要な連絡先データを表示するには、列を表示または非表示にします。
 title: 人物ページの列
 hide: true
-hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 92%
@@ -22,7 +21,7 @@ ht-degree: 92%
 
    ![](assets/people-page-columns-1.png)
 
-1. スクロールして目的の列を選択します（「**[!UICONTROL すべてを選択]**」を返します）。完了したら、リスト以外の場所をクリックします。
+1. スクロールして目的の列を選択します（「**[!UICONTROL すべてを選択]**」を返します）。 完了したら、リスト以外の場所をクリックします。
 
    ![](assets/people-page-columns-2.png)
 

@@ -1,19 +1,19 @@
 ---
-description: ライブチャットエージェントが会話をフィールドするエージェントインボックスについて説明します。 アクティブなチャットと過去のチャット、訪問者情報を表示し、可用性ステータスを設定します。
+description: ライブチャットエージェントが会話をフィールドするエージェントの受信トレイについて説明します。 アクティブなチャットや過去のチャットを表示したり、訪問者情報を確認したり、空き状況を設定したりできます。
 title: エージェントのインボックス
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 93%
 
 ---
 
 # エージェントのインボックス {#agent-inbox}
 
-エージェントは、エージェントインボックス内でライブチャットに対応します。アクティブな会話に加えて、過去の会話、訪問者情報などを確認できます。
+エージェントは、エージェントインボックス内でライブチャットに対応します。 アクティブな会話に加えて、過去の会話、訪問者情報などを確認できます。
 
 ![](assets/agent-inbox-1.png)
 
@@ -25,7 +25,7 @@ ht-degree: 93%
 
 >[!IMPORTANT]
 >
->**これにより、エージェント設定で行った[ライブチャットの空き時間](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"}が上書きされます**。ステータスは、元に戻すか、空き時間の次のブロックに切り替わるまで保持されます。
+>**これにより、エージェント設定で行った[ライブチャットの空き時間](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"}が上書きされます**。 ステータスは、元に戻すか、空き時間の次のブロックに切り替わるまで保持されます。
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ ht-degree: 93%
 
 ## 訪問者情報 {#visitor-information}
 
-エージェントインボックス画面の右側に、名前、役職、メールアドレス、電話番号、CRM ステータスが（上から下に）表示されます。渡されない情報は、ダッシュ（-）として表示されます。
+エージェントインボックス画面の右側に、名前、役職、メールアドレス、電話番号、CRM ステータスが（上から下に）表示されます。 渡されない情報は、ダッシュ（-）として表示されます。
 
 ![](assets/agent-inbox-5.png)
 
@@ -59,7 +59,7 @@ ht-degree: 93%
 
 ## アクティビティ履歴 {#activity-history}
 
-訪問者情報の下には、アクティビティ履歴があります。アクティビティのタイプや日付を表示したり、チャットトランスクリプトを表示したりできます。
+訪問者情報の下には、アクティビティ履歴があります。 アクティビティのタイプや日付を表示したり、チャットトランスクリプトを表示したりできます。
 
 ![](assets/agent-inbox-7.png)
 

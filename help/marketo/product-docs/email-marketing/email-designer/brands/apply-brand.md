@@ -7,11 +7,10 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
-hidefromtoc: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '739'
 ht-degree: 74%
 
 ---
@@ -20,7 +19,7 @@ ht-degree: 74%
 
 >[!AVAILABILITY]
 >
->この機能は現在ベータ版で、ベータ版のお客様のみご利用いただけます。ベータ版プログラムに参加するには、アドビ担当者にお問い合わせください。
+>この機能は現在ベータ版で、ベータ版のお客様のみご利用いただけます。 ベータ版プログラムに参加するには、アドビ担当者にお問い合わせください。
 
 テーマを使用すると、技術ユーザー以外でも、標準テンプレートの上にカスタムスタイルを追加することで、特定のブランドやデザイン言語に適合する再利用可能なコンテンツを作成できます<!-- to achieve brand specific results-->。
 
@@ -49,13 +48,13 @@ Key Benefits:
 
   _手動スタイル設定_ モードを選択した場合、メールをリセットしない限り、テーマを適用することはできません。
 
-* [&#x200B; フラグメント &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md)は、_テーマを使用_&#x200B;と&#x200B;_手動スタイル設定_ モードの間で互換性がありません。
+* [ フラグメント ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md)は、_テーマを使用_&#x200B;と&#x200B;_手動スタイル設定_ モードの間で互換性がありません。
 
   テーマが適用されているコンテンツでフラグメントを使用するには、このフラグメントを&#x200B;_テーマを使用_ モードで作成する必要があります。
 
-* HTMLで作成されたコンテンツを使用している場合は、[互換性モード &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html)になり、このコンテンツにテーマを適用できません。
+* HTMLで作成されたコンテンツを使用している場合は、[互換性モード ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html)になり、このコンテンツにテーマを適用できません。
 
-  テーマを含むメール Designerのすべての機能を完全に活用するには、_テーマを使用_ モードで新しいコンテンツを作成するか、[読み込んだHTML コンテンツ &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html)を変換する必要があります。
+  テーマを含むメール Designerのすべての機能を完全に活用するには、_テーマを使用_ モードで新しいコンテンツを作成するか、[読み込んだHTML コンテンツ ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html)を変換する必要があります。
 
 <!--
 If using a content created in Manual Styling mode or HTML, you cannot apply themes to this content. You must create a new content in Use Themes mode.
@@ -67,17 +66,17 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
 
 今後のメールコンテンツで活用できるテーマを定義するには、次の手順に従います。
 
-1. 最初に、新しい[電子メールテンプレート &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)を作成します。
+1. 最初に、新しい[電子メールテンプレート ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)を作成します。
 
 1. 「**[!UICONTROL テーマを作成または編集]**」オプションを選択します。
 
    `![](assets/theme-create.png)`
 
-1. デフォルトのテーマを選択するか、アドビのテンプレートまたはカスタムテンプレートを使用できます。この例では、デフォルトのテーマを選択し、「**[!UICONTROL 作成]**」をクリックします。
+1. デフォルトのテーマを選択するか、アドビのテンプレートまたはカスタムテンプレートを使用できます。 この例では、デフォルトのテーマを選択し、「**[!UICONTROL 作成]**」をクリックします。
 
    `![](assets/theme-select.png)`
 
-1. 「**[!UICONTROL 一般設定]**」タブで、ブランドに特定の名前を付けてテーマの定義を開始します。メールのデフォルトの幅を調整したり、現在のテーマを書き出してサンドボックス間で共有したりできます。
+1. 「**[!UICONTROL 一般設定]**」タブで、ブランドに特定の名前を付けてテーマの定義を開始します。 メールのデフォルトの幅を調整したり、現在のテーマを書き出してサンドボックス間で共有したりできます。
 
    `<!--![](assets/theme-general-settings.png)-->`
 
@@ -87,7 +86,7 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
 
 1. 「**[!UICONTROL カラー]**」タブから、次の操作を行います。
 
-   * 「**[!UICONTROL 編集]**」ボタンを使用して、ブランドのデフォルトカラーを含む&#x200B;**[!UICONTROL カラーパレット]**&#x200B;を設定します。**[!UICONTROL プリセット]**&#x200B;を選択して、カラースキームをすばやく作成するか、テーマの各カラーを個別に調整します。また、両方の組み合わせを使用することもできます。
+   * 「**[!UICONTROL 編集]**」ボタンを使用して、ブランドのデフォルトカラーを含む&#x200B;**[!UICONTROL カラーパレット]**&#x200B;を設定します。 **[!UICONTROL プリセット]**&#x200B;を選択して、カラースキームをすばやく作成するか、テーマの各カラーを個別に調整します。 また、両方の組み合わせを使用することもできます。
 
      `![](assets/theme-colors.gif)`
 
@@ -95,11 +94,11 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
 
      `![](assets/theme-colors-variant.png)`
 
-   * 各バリアントに対して、編集アイコンをクリックして、個々の要素を編集します。作成したデフォルトのパレットや、任意のカスタムカラーを使用できます。
+   * 各バリアントに対して、編集アイコンをクリックして、個々の要素を編集します。 作成したデフォルトのパレットや、任意のカスタムカラーを使用できます。
 
      `![](assets/theme-colors-edit-variant.gif)`
 
-1. **[!UICONTROL テキスト設定]**&#x200B;では、テーマ全体に使用するグローバルフォントを設定できます。より精度の高い制御を行うには、各見出しと段落のタイプを編集して、フォント、サイズ、スタイルなどを調整することもできます。
+1. **[!UICONTROL テキスト設定]**&#x200B;では、テーマ全体に使用するグローバルフォントを設定できます。 より精度の高い制御を行うには、各見出しと段落のタイプを編集して、フォント、サイズ、スタイルなどを調整することもできます。
 
    `![](assets/theme-text.png)`
 
@@ -131,13 +130,13 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
      >
      >_手動スタイル設定_ モードを選択した場合、メールをリセットしない限り、テーマを適用することはできません。
      >
-     >[&#x200B; テーマを使用](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) モードで&#x200B;_フラグメント_&#x200B;を使用するには、このフラグメントが&#x200B;_テーマを使用_ モードで作成されている必要があります。
+     >_テーマを使用_ モードで[ フラグメント ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md)を使用するには、このフラグメントが&#x200B;_テーマを使用_ モードで作成されている必要があります。
 
-1. E メールデザイナーに移動したら、右側のパネルにある「**[!UICONTROL テーマ]**」ボタンをクリックします。デフォルトのテーマまたはテンプレートのテーマが表示されます。このテーマでは、2 つのカラーバリアントを切り替えることができます。
+1. E メールデザイナーに移動したら、右側のパネルにある「**[!UICONTROL テーマ]**」ボタンをクリックします。 デフォルトのテーマまたはテンプレートのテーマが表示されます。 このテーマでは、2 つのカラーバリアントを切り替えることができます。
 
    `![](assets/theme-default-hero.png)`
 
-1. 現在使用しているテーマの横にある矢印をクリックします。使用可能なカスタムテーマとアドビテーマのリストが表示されます。
+1. 現在使用しているテーマの横にある矢印をクリックします。 使用可能なカスタムテーマとアドビテーマのリストが表示されます。
 
    `![](assets/theme-hero-change.png)`
 
@@ -145,13 +144,13 @@ If you apply a theme to a content using a [fragment](../content-management/fragm
 
    `![](assets/theme-select-custom.png)`
 
-1. ドロップダウンリストの外側をクリックします。新しく選択したカスタムテーマのスタイルは、すべてのメールコンポーネントに自動的に適用されます。2 つのカラーバリアントを切り替えることができます。
+1. ドロップダウンリストの外側をクリックします。 新しく選択したカスタムテーマのスタイルは、すべてのメールコンポーネントに自動的に適用されます。 2 つのカラーバリアントを切り替えることができます。
 
 1. コンポーネントを選択した場合でも、専用のアイコンを使用してこのスタイルをロック解除できます。
 
    `![](assets/theme-unlock-style.png)`
 
-テーマはいつでも切り替えることができます。メールコンテンツは変更されませんが、スタイルは新しいテーマを反映して更新されます。
+テーマはいつでも切り替えることができます。 メールコンテンツは変更されませんが、スタイルは新しいテーマを反映して更新されます。
 
 <!--
 >[!NOTE]

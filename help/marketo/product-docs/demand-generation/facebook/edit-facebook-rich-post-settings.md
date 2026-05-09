@@ -1,15 +1,14 @@
 ---
 unique-page-id: 2950555
-description: Marketoで Facebook リッチ投稿を編集する方法を説明します。 Facebook で共有した際にランディングページをどのように表示するかをカスタマイズします。
+description: MarketoでFacebook リッチ投稿の設定を編集する方法について説明します。 Facebookで共有する際にランディングページがどのように表示されるかをカスタマイズできます。
 title: Facebook リッチ投稿設定の編集
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
-hidefromtoc: true
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 89%
+source-wordcount: '313'
+ht-degree: 76%
 
 ---
 
@@ -19,15 +18,15 @@ ht-degree: 89%
 
 >[!AVAILABILITY]
 >
->すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-Marketo の&#x200B;_ソーシャルアプリ_&#x200B;を使用すると、リードが Facebook や Twitter などのソーシャルネットワーク上のつながりを利用して、ランディングページを共有できるようになります。Facebook の OpenGraph タグ（OG タグ）を指定すると、ランディングページのどの情報を Facebook の投稿に含めるかを指定できます。
+Marketo _ソーシャルアプリ_&#x200B;を使用すると、リードはFacebook、Twitterなどのソーシャルネットワーク上でランディングページを共有できます。Facebook OpenGraph タグ（OG タグ）を使用すると、ランディングページのどの情報をFacebookの投稿に含めるかを指定できます。
 
 ## リッチ投稿オプションの選択 {#select-rich-post-options}
 
 ランディングページからの共有によって生成される [!DNL Facebook] リッチ投稿について、使用するページ情報のタイプを指定できます。
 
-1. _&#x200B;**[!UICONTROL ビデオまたはソーシャルボタンのエディターで]** Facebook メッセージ _[!DNL YouTube_]_&#x200B;を選択します。
+1. __[!DNL YouTube_]_動画またはソーシャルボタンのエディターで&#x200B;**[!UICONTROL Facebook メッセージ]**を選択します。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -63,7 +62,7 @@ Marketo の&#x200B;_ソーシャルアプリ_&#x200B;を使用すると、リー
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 
-1. og:title、og:caption、og:description を定義する HTML を追加します。次の行をコピー＆ペーストして、プレースホルダーテキストを置き換えます。
+1. og:title、og:caption、og:description を定義する HTML を追加します。 次の行をコピー＆ペーストして、プレースホルダーテキストを置き換えます。
 
    `<meta property="og:title" content="My Post Title"/>`
 

@@ -1,14 +1,13 @@
 ---
-description: 新しいメールDesignerベータ版について説明します。 Marketo Engage ベータ版プログラム用のドラッグ&ドロップエディターとテンプレートにアクセスします。
+description: 新しいEmail Designer ベータ版について説明します。 Marketo Engageのベータプログラム用のドラッグ&ドロップ操作のエディターとテンプレートにアクセスします。
 title: 概要
 hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 86475b8b-4dd2-4c73-9586-889f6a3c01e8
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 30%
+source-wordcount: '240'
+ht-degree: 36%
 
 ---
 
@@ -18,18 +17,18 @@ ht-degree: 30%
 
 >[!IMPORTANT]
 >
->この記事は、新しいMarketo Engage メールDesignerベータ版のメンバーのみを対象としています。 普及させないでください。
+>この記事は、新しいMarketo Engage Email Designer ベータ版のメンバーのみが対象です。 配布しないでください。
 
 >[!PREREQUISITES]
 >
->新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management System （IMS） &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview) に移行する必要があります。 まだ移行しておらず、迅速な対応をリクエストする場合は、アドビのアカウントチーム（担当のアカウントマネージャー）または [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。
+>新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを[Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)に移行する必要があります。 まだ移行しておらず、迅速な対応をリクエストする場合は、アドビのアカウントチーム（担当のアカウントマネージャー）または [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。
 
-新しい E メールDesignerは、Marketo Engageの最新のイノベーションであり、標準の標準の標準テンプレートと共に視覚的なドラッグ&amp;ドロップエディターを提供することで、生産性と効率を向上させるために、改良された E メールおよび E メールテンプレートの作成体験を提供することを目的としています。 ベンダーに費用をかけずに、カスタマイズされたメールテンプレートを簡単に作成できます。
+新しいEmail Designerは、Marketo Engageの最新のイノベーションです。標準の標準テンプレートと共に、視覚的なドラッグ&amp;ドロップ操作のエディターを提供することで、生産性と効率性を向上させる、刷新された電子メールや電子メールテンプレートの作成エクスペリエンスを提供することを目的としています。 ベンダーに費用をかけずに、カスタマイズされたメールテンプレートを簡単に作成できます。
 
-新しいデザイナーで作成したメールは、スマートリストとスマートキャンペーンで使用できます。 新しいデザイナーをさらに良くするために、将来的にはさらに多くの機能強化が計画されています。
+新しいデザイナーで作成されたメールは、スマートリストとスマートキャンペーンで使用できます。 新しいデザイナーをさらに良くするために、将来的にはさらに多くの機能強化が計画されています。
 
-**利用可能な記事**
+**使用可能な記事**
 
 * [メールオーサリング](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}：新しいエディターでメールを作成、デザイン、参照する方法について説明します。
 
-* [&#x200B; メールテンプレート &#x200B;](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}：新しいエディターでメールテンプレートを作成、デザインおよびアクセスする方法について説明します。
+* [電子メールテンプレート ](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}：新しいエディターで電子メールテンプレートを作成、デザイン、アクセスする方法を説明します。

@@ -2,52 +2,51 @@
 solution: Marketo Engage
 product: marketo
 title: パーソナライゼーショントークン
-description: メールDesignerでパーソナライゼーショントークンを使用する方法を説明します。 メールコンテンツに動的受信者データを追加します。
+description: メールDesignerでパーソナライゼーショントークンを使用する方法を説明します。 メールコンテンツに動的な受信者データを追加。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
 hide: true
-hidefromtoc: true
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 3%
+source-wordcount: '263'
+ht-degree: 6%
 
 ---
 
 # パーソナライゼーショントークン {#personalization-tokens}
 
-メールデザイナーは、メールのパーソナライゼーショントークンに関して、従来のメールエディターとは異なる形式を使用します。 この変更は、Handlebar スクリプティングとの互換性を向上させ、メール作成プロセスを合理化するために実装されました。
+メールデザイナーは、メールパーソナライゼーショントークンに関して、従来のメールエディターとは異なる形式を使用します。 この変更は、Handlebar スクリプトとの互換性を改善し、メール作成プロセスを合理化するために実装されました。
 
 >[!AVAILABILITY]
 >
->2025 年 5 月 23 日（PT）以降、この機能は、Marketo Engage ユーザーに一括でプロビジョニングされ、1 週間に 1 つのリージョンが更新されます。 ロールアウト時に、新しいメールデザイナーを使用して作成されたメールは、既存のトークンを新しい形式に自動的に移行します。 この更新により、すべてのトークンが英語でのみ使用できるようになります。
+>2025年5月23日（PT）以降、この機能はMarketo Engage ユーザーに一括でプロビジョニングされ、1週間に1つのリージョンが更新されます。 ロールアウト中、新しいメールデザイナーを使用して作成されたメールは、既存のトークンを新しい形式に自動的に移行します。 今回のアップデートでは、すべてのトークンが英語でのみ利用可能になります。
 
-## プライマリのユースケース {#primary-use-case}
+## プライマリの使用例 {#primary-use-case}
 
-この機能強化は、主に [Velocity スクリプティング &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting){target="_blank"} から Handlebar スクリプティングに移行するユーザーにメリットをもたらします。 新しい電子メールデザイナーでは、新しいトークン形式のみをサポートしています。 更新された形式では、スペースが排除され、デフォルトのテキスト構造が改訂されて、よりスムーズで効率的なスクリプティング体験が提供されます。
+この機能強化は、主に[速度スクリプト ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting){target="_blank"}からHandlebar スクリプトに移行するユーザーにメリットをもたらします。 新しい電子メールデザイナーは、新しいトークン形式のみをサポートしています。 更新された形式では、スペースが不要になり、デフォルトのテキスト構造が修正され、よりスムーズで効率的なスクリプト作成が可能になります。
 
 ## トークンエクスペリエンス {#token-experience}
 
-古いトークンと新しいトークンの両方を確認します。
+古いものと新しいものの両方のトークン体験を調べます。
 
-### 古いフォーマット {#old-format}
+### 古い形式 {#old-format}
 
-従来のメールエディターでは、`lead.Anonymous IP` や `member.registration code` などのスペースを使用してトークンを追加できます。 デフォルトのテキストの形式は `{{lead.City:default=fallback}}` でした。
+従来のメールエディターでは、`lead.Anonymous IP`や`member.registration code`などのスペースを含むトークンを追加できます。 既定のテキストの形式は`{{lead.City:default=fallback}}`でした
 
 ![](assets/personalization-tokens-1.png){width="800" zoomable="yes"}
 
 ### 新しい形式 {#new-format}
 
-電子メールデザイナーでは、[&#x200B; キャメルケース &#x200B;](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) またはトークンのアンダースコア（`lead.anonymousIP` や `member.registration_code` など）を使用する必要があります。 デフォルトテキストの形式も `{%=lead.city ?: "fallback" %}` に変更されます。
+電子メールデザイナーでは、トークンに[ キャメルケース ](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case)またはアンダースコア（`lead.anonymousIP`または`member.registration_code`など）を使用する必要があります。 既定のテキストの形式も`{%=lead.city ?: "fallback" %}`に変更されます。
 
 ![](assets/personalization-tokens-2.png){width="800" zoomable="yes"}
 
 ## 注意事項 {#things-to-note}
 
-* パーソナライゼーションエディターには、オーサリングを容易にする次の機能もあります。
+* パーソナライゼーションエディターには、オーサリングを容易にするための次の機能も搭載されています。
 
    * 取り消し/やり直し
    * 検索/検索と置換
 
-* 以前にMarketo Engageでサポートされていた **すべて** トークンは、新しいパーソナライゼーションエディターでサポートされます。
+* 以前Marketo Engageでサポートされていた&#x200B;**すべて**&#x200B;のトークンは、新しいパーソナライゼーションエディターでサポートされています。

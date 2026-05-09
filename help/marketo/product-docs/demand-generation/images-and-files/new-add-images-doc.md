@@ -1,24 +1,23 @@
 ---
-description: Marketo Design Studio に画像やファイルを追加する方法を説明します。 キャンペーンやランディングページでのアセットのアップロード、整理、使用。
+description: Marketo Design Studioに画像やファイルを追加する方法について説明します。 キャンペーンとランディングページでアセットをアップロード、整理、使用します。
 title: 新しい画像追加ドキュメント
 hide: true
-hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '308'
 ht-degree: 25%
 
 ---
 
 # 新しい画像追加ドキュメント {#new-add-images-doc}
 
-画像およびファイル リポジトリに新しいファイルや画像を追加するオプションは複数あります。
+新しいファイルや画像を画像およびファイルリポジトリに追加するための複数のオプションがあります。
 
 ## 画像またはファイルのアップロード {#upload-image-or-file}
 
-1. **デザインスタジオ**&#x200B;に移動します。
+1. **Design Studio** に移動します。
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
@@ -40,23 +39,23 @@ ht-degree: 25%
 
 ## 画像またはファイルのインポート {#import-image-or-file}
 
-画像の読み込みには 3 つのオプションがあります。 それぞれの項目を見てみましょう。
+画像を読み込むには、3つのオプションがあります。 各製品について見ていきましょう。
 
-### Web からのインポート {#import-from-the-web}
+### Webからインポート {#import-from-the-web}
 
 テキスト
 
-1. 手順 1 と 2[&#x200B; 上から &#x200B;](#upload-image-or-file) に従います。
+1. 上記](#upload-image-or-file)から手順1と2 [に従います。
 
-1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、「**[!UICONTROL 画像またはファイルのインポート]**」を選択します。
+1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、**[!UICONTROL 画像またはファイルの読み込み]**&#x200B;を選択します。
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. 「**[!UICONTROL Web]**」オプションを選択し、「**[!UICONTROL 次へ]**」をクリックします。
+1. 「**[!UICONTROL Web]**」オプションを選択し、**[!UICONTROL 次へ]**&#x200B;をクリックします。
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
-1. 目的の画像の URL を入力するか貼り付け、「次へ **をクリックし** す。
+1. URLを入力するか、目的の画像に貼り付けて、**次へ**&#x200B;をクリックします。
 
 PICC
 
@@ -64,33 +63,33 @@ PICC
 
 PICC
 
-### Box からインポート {#import-from-box}
+### Boxからインポート {#import-from-box}
 
 テキスト
 
-1. 手順 1 と 2[&#x200B; 上から &#x200B;](#upload-image-or-file) に従います。
+1. 上記](#upload-image-or-file)から手順1と2 [に従います。
 
-1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、「**[!UICONTROL 画像またはファイルのインポート]**」を選択します。
+1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、**[!UICONTROL 画像またはファイルの読み込み]**&#x200B;を選択します。
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. 「**[!UICONTROL ボックス]**」オプションを選択し、「**[!UICONTROL 次へ]**」をクリックします。
+1. **[!UICONTROL Box]** オプションを選択し、**[!UICONTROL Next]**&#x200B;をクリックします。
 
    ![](assets/add-images-and-files-to-marketo-11.png)
 
    >[!NOTE]
    >
-   >まだログインしていない場合は、Box アカウントにログインしてアクセス権を付与するように求められます。
+   >以前に行ったことがない場合は、Box アカウントにログインしてアクセス権を付与するように求められます。
 
-1. 目的の Box フォルダーを選択し、「**[!UICONTROL 次へ]**」をクリックします。
+1. 目的のBox フォルダーを選択し、**[!UICONTROL 次へ]**&#x200B;をクリックします。
 
    ![](assets/add-images-and-files-to-marketo-12.png)
 
-1. 目的の画像を選択して、「次へ **[!UICONTROL をクリックし]** す。
+1. 目的の画像を選択し、**[!UICONTROL 次へ]**&#x200B;をクリックします。
 
    ![](assets/add-images-and-files-to-marketo-13.png)
 
-1. 画像を保存するMarketo Engage フォルダーを選択します。 この例では、Images and Files （デフォルト）のままにします。 「**読み込み**」をクリックします。
+1. 画像を保存するMarketo Engage フォルダーを選択します。 この例では、画像とファイル（デフォルト）のままにします。 「**読み込み**」をクリックします。
 
    ![](assets/add-images-and-files-to-marketo-14.png)
 
@@ -98,13 +97,13 @@ PICC
 
 テキスト
 
-1. 手順 1 と 2[&#x200B; 上から &#x200B;](#upload-image-or-file) に従います。
+1. 上記](#upload-image-or-file)から手順1と2 [に従います。
 
-1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、「**[!UICONTROL 画像またはファイルのインポート]**」を選択します。
+1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、**[!UICONTROL 画像またはファイルの読み込み]**&#x200B;を選択します。
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. 「**[!UICONTROL Adobe Experience Manager]**」オプションを選択し、「**[!UICONTROL 次へ]** をクリックします。
+1. 「**[!UICONTROL Adobe Experience Manager]**」オプションを選択し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/add-images-and-files-to-marketo-16.png)
 

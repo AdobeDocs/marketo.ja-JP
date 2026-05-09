@@ -1,11 +1,10 @@
 ---
-description: Sales Insight Actions でテンプレートカテゴリを管理する方法を説明します。 テンプレートをカテゴリに整理し、共有を制御します。
+description: Sales Insight Actionsでテンプレートカテゴリを管理する方法について説明します。 テンプレートをカテゴリに整理して共有を管理します。
 title: テンプレートカテゴリの管理
 hide: true
-hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 87%
@@ -34,11 +33,11 @@ ht-degree: 87%
 
    ![](assets/manage-template-categories-4.png)
 
-1. 名前を変更するテンプレートにポインターを合わせて、3 つのドットをクリックします。「**[!UICONTROL 名前を変更]**」を選択します。
+1. 名前を変更するテンプレートにポインターを合わせて、3 つのドットをクリックします。 「**[!UICONTROL 名前を変更]**」を選択します。
 
    ![](assets/manage-template-categories-5.png)
 
-1. 新しい名前を入力します。Enter キーを押す（または画面上の他の場所をクリックする）と、保存されます。
+1. 新しい名前を入力します。 Enter キーを押す（または画面上の他の場所をクリックする）と、保存されます。
 
    ![](assets/manage-template-categories-6.png)
 
@@ -48,7 +47,7 @@ ht-degree: 87%
 
    ![](assets/manage-template-categories-7.png)
 
-1. 名前を変更するテンプレートにポインターを合わせて、3 つのドットをクリックします。「**[!UICONTROL 削除]**」を選択します。
+1. 名前を変更するテンプレートにポインターを合わせて、3 つのドットをクリックします。 「**[!UICONTROL 削除]**」を選択します。
 
    ![](assets/manage-template-categories-8.png)
 
@@ -58,4 +57,4 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->カテゴリにテンプレートが含まれている場合、そのカテゴリは削除できません。カテゴリを削除する前に、すべてのテンプレートを移動または削除します。
+>カテゴリにテンプレートが含まれている場合、そのカテゴリは削除できません。 カテゴリを削除する前に、すべてのテンプレートを移動または削除します。

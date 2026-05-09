@@ -3,10 +3,9 @@ unique-page-id: 2360352
 description: SOAP API暗号化キーを設定し、Admin Web Services for developersでエンドポイントの詳細を取得します。
 title: SOAP API の設定
 hide: true
-hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 48%
@@ -37,4 +36,4 @@ ht-degree: 48%
 
 >[!CAUTION]
 >
->SOAP エンドポイントと[!UICONTROL &#x200B; ユーザーID]は一意です。この記事のスクリーンショットを開発者に送信しないでください。
+>SOAP エンドポイントと[!UICONTROL  ユーザーID]は一意です。この記事のスクリーンショットを開発者に送信しないでください。
