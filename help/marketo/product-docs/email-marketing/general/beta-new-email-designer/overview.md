@@ -21,7 +21,7 @@ ht-degree: 36%
 
 >[!PREREQUISITES]
 >
->新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを[Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)に移行する必要があります。 まだ移行しておらず、迅速な対応をリクエストする場合は、アドビのアカウントチーム（担当のアカウントマネージャー）または [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。
+>新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを[Adobe Identity Management System （IMS） &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)に移行する必要があります。 まだ移行しておらず、迅速な対応をリクエストする場合は、アドビのアカウントチーム（担当のアカウントマネージャー）または [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。
 
 新しいEmail Designerは、Marketo Engageの最新のイノベーションです。標準の標準テンプレートと共に、視覚的なドラッグ&amp;ドロップ操作のエディターを提供することで、生産性と効率性を向上させる、刷新された電子メールや電子メールテンプレートの作成エクスペリエンスを提供することを目的としています。 ベンダーに費用をかけずに、カスタマイズされたメールテンプレートを簡単に作成できます。
 
@@ -31,4 +31,4 @@ ht-degree: 36%
 
 * [メールオーサリング](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}：新しいエディターでメールを作成、デザイン、参照する方法について説明します。
 
-* [電子メールテンプレート ](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}：新しいエディターで電子メールテンプレートを作成、デザイン、アクセスする方法を説明します。
+* [電子メールテンプレート &#x200B;](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}：新しいエディターで電子メールテンプレートを作成、デザイン、アクセスする方法を説明します。

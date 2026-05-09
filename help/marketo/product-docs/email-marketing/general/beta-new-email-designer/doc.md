@@ -17,7 +17,7 @@ ht-degree: 22%
 
 ### Assetsを追加 {#add-assets}
 
-Marketo Engage インスタンスの[画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
+Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
 
 >[!NOTE]
 >

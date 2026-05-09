@@ -39,14 +39,14 @@ Vibes SMS キャンペーンにオプトインしたユーザーにSMS メッセ
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. 「設定」で、Vibes [!UICONTROL  ユーザー名]、[!UICONTROL  パスワード ]、[!UICONTROL 会社キー] （すべてVibes アカウントで確認できます）を入力します。 「**[!UICONTROL 作成]**」をクリックします。
+1. 「設定」で、Vibes [!UICONTROL &#x200B; ユーザー名]、[!UICONTROL &#x200B; パスワード &#x200B;]、[!UICONTROL 会社キー] （すべてVibes アカウントで確認できます）を入力します。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   新しいSMS サービスが[!UICONTROL  インストール済みサービス ] リストに表示されるようになりました。
+   新しいSMS サービスが[!UICONTROL &#x200B; インストール済みサービス &#x200B;] リストに表示されるようになりました。
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->[Vibes ビデオのデモ ](https://vimeo.com/215233767/1ed136adbc)
+>[Vibes ビデオのデモ &#x200B;](https://vimeo.com/215233767/1ed136adbc)

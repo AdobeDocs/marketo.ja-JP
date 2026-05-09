@@ -24,7 +24,7 @@ ht-degree: 6%
 
 ## プライマリの使用例 {#primary-use-case}
 
-この機能強化は、主に[速度スクリプト ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting){target="_blank"}からHandlebar スクリプトに移行するユーザーにメリットをもたらします。 新しい電子メールデザイナーは、新しいトークン形式のみをサポートしています。 更新された形式では、スペースが不要になり、デフォルトのテキスト構造が修正され、よりスムーズで効率的なスクリプト作成が可能になります。
+この機能強化は、主に[速度スクリプト &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting){target="_blank"}からHandlebar スクリプトに移行するユーザーにメリットをもたらします。 新しい電子メールデザイナーは、新しいトークン形式のみをサポートしています。 更新された形式では、スペースが不要になり、デフォルトのテキスト構造が修正され、よりスムーズで効率的なスクリプト作成が可能になります。
 
 ## トークンエクスペリエンス {#token-experience}
 
@@ -38,7 +38,7 @@ ht-degree: 6%
 
 ### 新しい形式 {#new-format}
 
-電子メールデザイナーでは、トークンに[ キャメルケース ](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case)またはアンダースコア（`lead.anonymousIP`または`member.registration_code`など）を使用する必要があります。 既定のテキストの形式も`{%=lead.city ?: "fallback" %}`に変更されます。
+電子メールデザイナーでは、トークンに[&#x200B; キャメルケース &#x200B;](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case)またはアンダースコア（`lead.anonymousIP`または`member.registration_code`など）を使用する必要があります。 既定のテキストの形式も`{%=lead.city ?: "fallback" %}`に変更されます。
 
 ![](assets/personalization-tokens-2.png){width="800" zoomable="yes"}
 
