@@ -1,48 +1,48 @@
 ---
-description: Marketo ランディングページに会話フローを埋め込む方法を説明します。 訪問者がフォームに入力せずにDynamic Chatを通じてミーティングをスケジュールできるようにします。
-title: 対話型フローランディングページを使用
+description: Marketo ランディングページに会話フローを埋め込む方法を説明します。 訪問者はフォームに入力することなく、Dynamic Chatでミーティングのスケジュールを設定できます。
+title: 対話型フローランディングページの使用
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '244'
 ht-degree: 2%
 
 ---
 
-# 対話型フローランディングページを使用{#use-a-conversational-flow-landing-page}
+# 対話型フローランディングページの使用{#use-a-conversational-flow-landing-page}
 
-Dynamic Chatの会話フローをMarketo Engage ランディングページに直接埋め込むと、訪問者は、フォームに入力したりチャットボットとやり取りしたりしなくても、Dynamic Chatを通じてミーティングをスケジュールできます。
+Dynamic Chat会話フローをMarketo Engageランディングページに直接埋め込むことで、訪問者はフォームに入力したりチャットボットと対話したりすることなく、Dynamic Chatを通じてミーティングをスケジュールすることができます。
 
 >[!PREREQUISITES]
 >
->[&#x200B; ミーティング予約 &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) カードのみを含むシンプルな **会話フロー** を作成します。
+>**会議予約** カードのみを含むシンプルな[会話フロー](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)を作成します。
 
 ## ガイド付きランディングページ {#guided-landing-pages}
 
-ガイド付きランディングページテンプレートに `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>` コードを埋め込みます。
+ガイド付きランディングページ テンプレートに次のコードを埋め込みます：`<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`。
 
-エディターでガイド付きランディングページテンプレートを開き、「会話フロー」プレースホルダーを選択します。
+ガイド付きランディングページテンプレートをエディターで開き、会話フローのプレースホルダーを選択します。
 
-「会話フロー」ドロップダウンをクリックし、手順 1 で作成した CF を選択します。
+「会話フロー」ドロップダウンをクリックし、手順1で作成したCFを選択します。
 
-配信タイプは常に **インライン** にします。 「**挿入**」をクリックします。
+配信タイプは常に&#x200B;**インライン**&#x200B;のままにします。 「**挿入**」をクリックします。
 
-入力した会話フローは、右側の要素として表示されます。
+入力したばかりの会話フローは、右側に要素として表示されます。
 
 スクリーンショット
 
 >[!NOTE]
 >
->この時点では、メインのプレビューウィンドウに対話型フローは表示されません。
+>現時点では、会話フローはメインプレビューウィンドウに表示されません。
 
 ## フリーフォームのランディングページ {#free-form-landing-pages}
 
 テキスト
 
-STEVE 会議からのメモ
+STEVE MEETINGからのメモ
 
-ガイド付き lp、テンプレートの新しい div id、変換フローの選択
+ガイド付きlp、テンプレート用の新しいdiv id、変換フローを選択
 
-フリーフォーム lp、引き継ぎアイコン – 注意：追加メモ – エディターに cf を配置すると、プレビューが表示されません（プレースホルダーも表示されません） – サイドバーに、cf がページ上にあることが表示されます – ガイド付き lp は要素としてリストします – 説明時に「現時点で」を使用します – 機能は週 22 日まで有効です
+freeform lp、bring over icon – 注意事項：メモを追加 – cfをエディターに配置すると、プレビューが表示されない（プレースホルダーも表示されない） – 「プレビューが表示されない」 – サイドバーにcfがページにあることが表示されます – ガイド付きlpは要素としてリストします – 説明する際に「現時点で」を使用 – 機能が公開されるのは22週目の可能性があります

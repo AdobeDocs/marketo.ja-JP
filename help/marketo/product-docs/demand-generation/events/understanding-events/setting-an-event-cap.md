@@ -2,10 +2,9 @@
 description: Marketoでイベントキャップを設定する方法を説明します。 イベントプログラムの登録者または参加者の数を制限します。
 title: イベントキャップの設定
 hide: true
-hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 88%

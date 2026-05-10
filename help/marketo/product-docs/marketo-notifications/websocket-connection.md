@@ -1,10 +1,9 @@
 ---
-description: Websocket 接続を確立できません通知を受信したMarketo Engage ユーザーの通知の詳細
+description: 「Websocket Connectionを確立できません」という通知を受け取ったMarketo Engage ユーザーの通知の詳細
 title: 通知 - Websocket 接続
 hide: true
-hidefromtoc: true
 exl-id: 00c754f8-3850-4209-803d-5cdb108dc6dc
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 86%
@@ -17,7 +16,7 @@ ht-degree: 86%
 
 お客様またはお客様の組織が使用しているファイアウォールまたはプロキシサーバー設定に制限が設けられている場合、お客様またはネットワーク管理者は、Adobe Marketo Engage が期待通りに動作するように、特定のドメインおよび IP アドレス範囲を許可する必要が生じる場合があります。
 
-Marketo サポートは、以下のプロトコルの実装については対応できません。サポートが必要な場合は、このドキュメントを IT チームと共有してください。IT チームが許可リストを使用して web アクセスを制限している場合は、次のドメイン（アスタリスクを含む）を追加して、すべての Marketo リソースと WebSocket を許可するよう依頼してください。
+Marketo サポートは、以下のプロトコルの実装については対応できません。 サポートが必要な場合は、このドキュメントを IT チームと共有してください。 IT チームが許可リストを使用して web アクセスを制限している場合は、次のドメイン（アスタリスクを含む）を追加して、すべての Marketo リソースと WebSocket を許可するよう依頼してください。
 
 * `*.marketo.com`
 * `*.marketodesigner.com`

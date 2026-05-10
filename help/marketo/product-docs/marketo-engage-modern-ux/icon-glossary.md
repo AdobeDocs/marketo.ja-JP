@@ -1,20 +1,20 @@
 ---
-description: Marketo Engage Modern UX のアイコンと、それらがクラシックからどのようにマッピングされるかを説明します。 この用語集を使用して、アセットのタイプ、キャンペーンの状態およびプログラムのタイプを特定します。
+description: Marketo Engage Modern UXのアイコンと、クラシックからマッピングする方法について説明します。 この用語集では、アセットタイプ、キャンペーンの状態、プログラムのタイプを特定します。
 title: アイコン用語集
 hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '264'
 ht-degree: 89%
 
 ---
 
 # アイコン用語集 {#new-icon-glossary}
 
-以下に、新しい Adobe Marketo Engage インターフェイスのアイコンを示します。Marketo Classic アイコンを参照する必要がある場合は、[こちら](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)をご覧ください。
+以下に、新しい Adobe Marketo Engage インターフェイスのアイコンを示します。 Marketo Classic アイコンを参照する必要がある場合は、[こちら](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)をご覧ください。
 
 ## 一般アイコン {#general-icons}
 
@@ -48,7 +48,7 @@ ht-degree: 89%
   <tr>
    <td><img src="assets/classic-email.png"></td>
    <td><img src="assets/email.png"></td>
-   <td>電子メール</td>
+   <td>メール</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
@@ -78,7 +78,7 @@ ht-degree: 89%
   <tr>
    <td><img src="assets/classic-field-organizer.png"></td>
    <td><img src="assets/field-organizer.png"></td>
-   <td>フィールドオーガナイザ</td>
+   <td>フィールド オーガナイザ</td>
   </tr>
   <tr>
    <td><img src="assets/classic-filter.png"></td>
@@ -213,7 +213,7 @@ ht-degree: 89%
   <tr>
    <td><img src="assets/classic-test-group.png"></td>
    <td><img src="assets/test-group.png"></td>
-   <td>テストグループ</td>
+   <td>テスト グループ</td>
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
@@ -334,7 +334,7 @@ ht-degree: 89%
   <tr>
    <td><img src="assets/classic-email-program-complete.png"></td>
    <td><img src="assets/completed.png"></td>
-   <td>完了済み</td>
+   <td>完了</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-not-approved.png"></td>

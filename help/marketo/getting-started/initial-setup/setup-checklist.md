@@ -6,16 +6,16 @@ hide: true
 hidefromtoc: true
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '206'
 ht-degree: 100%
 
 ---
 
 # セットアップチェックリスト {#setup-checklist}
 
-Marketo へようこそ以下のチェックリストを、視覚的な TODO リストとして使用して、作業を開始できます。詳しくは、[セットアップ手順](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}を参照してください。
+Marketo へようこそ 以下のチェックリストを、視覚的な TODO リストとして使用して、作業を開始できます。 詳しくは、[セットアップ手順](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}を参照してください。
 
 ## Marketo へのログインと追加ユーザーの作成 {#log-in-to-marketo-and-create-additional-users}
 

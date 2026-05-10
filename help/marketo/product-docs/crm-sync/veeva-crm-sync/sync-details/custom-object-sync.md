@@ -1,11 +1,10 @@
 ---
-description: Veeva CRM からMarketo Engageへのカスタムオブジェクト同期を設定する方法を説明します。 管理でカスタム・オブジェクトを使用可能にし、スマート・リストおよびトリガーで使用します。
+description: Veeva CRMからMarketo Engageへのカスタムオブジェクト同期を設定する方法について説明します。 管理画面でカスタムオブジェクトを有効にし、スマートリストとトリガーで使用します。
 title: カスタムオブジェクト同期
 hide: true
-hidefromtoc: true
 exl-id: 68bc14e7-dfc9-4dce-b159-24d734ee3c6f
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 87%
@@ -14,7 +13,7 @@ ht-degree: 87%
 
 # カスタムオブジェクト同期 {#custom-object-sync}
 
-[!DNL Veeva] CRM インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。その設定方法を説明します。
+[!DNL Veeva] CRM インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。 その設定方法を説明しましょう。
 
 >[!NOTE]
 >
@@ -48,13 +47,13 @@ ht-degree: 87%
 
    >[!NOTE]
    >
-   >カスタムオブジェクトには一意の名前が必要です。Marketo では、同名の 2 つの異なるカスタムオブジェクトはサポートされていません。
+   >カスタムオブジェクトには一意の名前が必要です。 Marketo では、同名の 2 つの異なるカスタムオブジェクトはサポートされていません。
 
 1. 「**[!UICONTROL 同期を有効にする]**」をクリックします。
 
    ![](assets/custom-object-sync-5.png)
 
-1. 「**[!UICONTROL 同期を有効にする]**」を再度クリックします。
+1. 「**[!UICONTROL 同期を有効にする]**」をもう一度クリックします。
 
    ![](assets/custom-object-sync-6.png)
 
@@ -74,7 +73,7 @@ ht-degree: 87%
    >
    >Marketo では、1 レベルから 2 レベルの深さの標準エンティティにリンクされたカスタムエンティティのみがサポートされています。
 
-これで完了です。カスタムオブジェクトのデータをスマートキャンペーンとスマートリストで使用できるようになりました。
+これで完了です。 カスタムオブジェクトのデータをスマートキャンペーンとスマートリストで使用できるようになりました。
 
 >[!MORELIKETHIS]
 >

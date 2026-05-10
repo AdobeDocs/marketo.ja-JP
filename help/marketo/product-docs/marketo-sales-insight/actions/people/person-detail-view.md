@@ -1,11 +1,10 @@
 ---
-description: Sales Insightのアクションの人物詳細ビューについて説明します。 リードまたは連絡先の連絡先情報、アクティビティ履歴、クイックアクションを参照します。
+description: Sales Insight Actionsの人物の詳細ビューについて説明します。 リードまたは取引先責任者の連絡先情報、アクティビティ履歴、クイックアクションを参照します。
 title: 人物の詳細表示
 hide: true
-hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 92%
@@ -77,7 +76,7 @@ PICC
 
 ## 「履歴」タブ {#history-tab}
 
-アウトリーチ履歴を表示します。メール、キャンペーン、通話が含まれます。
+アウトリーチ履歴を表示します。 メール、キャンペーン、通話が含まれます。
 
 PICC
 

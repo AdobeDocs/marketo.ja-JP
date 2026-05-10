@@ -2,10 +2,9 @@
 unique-page-id: 1147318
 description: Marketoのキーボードショートカットで、エリアナビゲーションやカレンダーなどのヘルプを表示します。 Marketo Engageでは、ショートカットを使用して素早く移動できます。
 hide: true
-hidefromtoc: true
 title: キーボードショートカットの用語集
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 65%

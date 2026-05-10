@@ -1,20 +1,19 @@
 ---
-description: Salesforceと Sales Insightのアクションとの連携を解除する方法を説明します。
+description: SalesforceとSales Insight Actionsの連携を解除する方法について説明します。
 title: Salesforce をセールスインサイトアクションから切断
 hide: true
-hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '96'
 ht-degree: 90%
 
 ---
 
 # [!DNL Salesforce] を [!DNL Sales Insight Actions] から切断 {#disconnect-salesforce-from-sales-insight-actions}
 
-[!DNL Salesforce] アカウントを [!DNL Sales Insight Actions] アカウントから切断する必要が生じる場合があります。手順は次のとおりです。
+[!DNL Salesforce] アカウントを [!DNL Sales Insight Actions] アカウントから切断する必要が生じる場合があります。 手順は次のとおりです。
 
 ## [!UICONTROL Salesforce] から管理者として切断する方法 {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -26,7 +25,7 @@ ht-degree: 90%
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-2.png)
 
-1. 「[!UICONTROL 接続とカスタマイズ]」タブで、「**[!UICONTROL 接続]**」をクリックします。
+1. 「[!UICONTROL 接続とカスタマイズ]」タブで、「**[!UICONTROL 切断]**」をクリックします。
 
    ![](assets/disconnect-salesforce-from-sales-insight-actions-3.png)
 

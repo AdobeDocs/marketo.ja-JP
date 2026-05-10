@@ -1,14 +1,13 @@
 ---
-description: Dynamic Chat ライブチャットエージェントのブラウザー通知を有効にする方法を説明します。 Chrome、Firefox または OS の設定で通知を受け取れるようにします。
+description: Dynamic Chat ライブチャットエージェントのブラウザー通知を有効にする方法について説明します。 Chrome、Firefox、またはOSの設定で、チャットアラートの受信を許可します。
 title: 通知
 hide: true
-hidefromtoc: true
 feature: Dynamic Chat
 exl-id: b06da576-39a4-41db-8e29-302083baca36
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 69%
+source-wordcount: '218'
+ht-degree: 74%
 
 ---
 
@@ -16,11 +15,11 @@ ht-degree: 69%
 
 ライブチャットのブラウザー通知を受信するには、すべてのライブチャットエージェントが、プロンプトが表示された際に Dynamic Chat のブラウザー通知を有効にする必要があります。
 
-ライブチャットエージェントには、ログイン時に画面の上部に「ライブチャット通知を受信するには、ブラウザー通知を有効にしてください」というバナーが表示されます。「**有効にする**」をクリックします。
+ライブチャットエージェントには、ログイン時に画面の上部に「ライブチャット通知を受信するには、ブラウザー通知を有効にしてください」というバナーが表示されます。 「**有効にする**」をクリックします。
 
 ![](assets/live-chat-overview-4.png)
 
-ライブチャットエージェントには、ブラウザーに通知の表示を求めるプロンプトが表示されます。「**許可**」をクリックします。
+ライブチャットエージェントには、ブラウザーに通知の表示を求めるプロンプトが表示されます。 「**許可**」をクリックします。
 
 ![](assets/live-chat-overview-5.png)
 
@@ -28,7 +27,7 @@ ht-degree: 69%
 
 ### Windows 版 Chrome
 
-Googleでは、Windows のブラウザー通知を有効にする手順について [&#x200B; この記事 &#x200B;](https://support.mozilla.org/ja-JP/kb/push-notifications-firefox){target="_blank"} で概要を説明しています。
+Googleでは、[この記事](https://support.mozilla.org/ja-JP/kb/push-notifications-firefox){target="_blank"}でWindowsのブラウザー通知を有効にする手順の概要を説明しています。
 
 ### Mac OS 版 Chrome
 
@@ -36,14 +35,14 @@ Googleでは、Windows のブラウザー通知を有効にする手順につい
 
 ## Firefox で通知を有効にする{#enable-notifications-in-firefox}
 
-Firefox では、様々なブラウザーバージョンとオペレーティングシステムの手順について [&#x200B; この記事 &#x200B;](https://support.mozilla.org/ja-JP/kb/push-notifications-firefox){target="_blank"} で概要を説明しています。
+Firefoxは、様々なブラウザーバージョンとオペレーティングシステムの手順を[この記事](https://support.mozilla.org/ja-JP/kb/push-notifications-firefox){target="_blank"}で説明しています。
 
 ## OS 通知 {#os-notifications}
 
 エージェントがブラウザーで通知を許可した後も通知を受信しない場合は、OS の通知設定でブラウザーの通知を有効にする必要がある場合があります。
 
-[&#x200B; 通知：Mac](https://support.apple.com/ja-jp/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
+[お知らせ：Mac](https://support.apple.com/ja-jp/guide/mac-help/change-notifications-settings-mh40583/mac){target="_blank"}
 
-[&#x200B; 通知：Windows](https://support.microsoft.com/ja-jp/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
+[お知らせ：Windows](https://support.microsoft.com/ja-jp/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
 MSI アクション通知が発生したことがありますか？

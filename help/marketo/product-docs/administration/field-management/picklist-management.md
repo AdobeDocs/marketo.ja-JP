@@ -2,10 +2,9 @@
 description: データとワークフロー管理を簡素化するために、フィールドの固定値セットを定義する方法を説明します。
 title: ピックリスト管理
 hide: true
-hidefromtoc: true
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%

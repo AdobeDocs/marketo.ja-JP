@@ -1,10 +1,10 @@
 ---
-description: エンタープライズまたは無制限の最後の手順で、MarketoとSalesforceを接続する方法について説明します。 同期ユーザーセキュリティトークンを取得し、Marketo Admin で資格情報を設定します。
-title: 手順 3/3 - MarketoとSalesforceの接続（Enterprise/Unlimited）
+description: EnterpriseまたはUnlimitedの最後の手順で、MarketoとSalesforceを連携する方法について説明します。 Marketo Adminで、sync ユーザーセキュリティトークンを取得し、資格情報を設定します。
+title: ステップ 3/3 - MarketoとSalesforceを接続する（Enterprise/Unlimited）
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 70%
@@ -18,7 +18,7 @@ ht-degree: 70%
 >[!PREREQUISITES]
 >
 >* [手順 1／3：Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md){target="_blank"}
->* [手順 2 / 3：Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>* [手順 2 / 3：Marketo 用の Salesforce ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
 
 ## 同期ユーザーセキュリティトークンの取得 {#retrieve-sync-user-security-token}
 

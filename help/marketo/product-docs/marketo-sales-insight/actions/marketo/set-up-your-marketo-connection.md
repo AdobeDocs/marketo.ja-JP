@@ -1,11 +1,10 @@
 ---
-description: insight Sales Actions 用にMarketo接続を設定する方法について説明します。 Marketo管理者から接続して、インスタンスのアクションを有効にします。
+description: Sales Insight ActionsにMarketo接続を設定する方法を説明します。 Marketo Adminから接続して、インスタンスのアクションを有効にします。
 title: Marketo 接続の設定
 hide: true
-hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 88%
@@ -16,11 +15,11 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->[!DNL Sales Insight Actions] をプロビジョニングすると、Marketo は自動的に資格情報を Actions に送信し、インスタンスを Marketo に接続します。この手順は、[!DNL Sales Connect] インスタンスがプロビジョニングされた後に、**接続が確立されていない場合にのみ**&#x200B;必須です。接続が確立されている場合は、Marketo 管理者設定ページに資格情報が入力され、接続を解除するオプションが表示されます。
+>[!DNL Sales Insight Actions] をプロビジョニングすると、Marketo は自動的に資格情報を Actions に送信し、インスタンスを Marketo に接続します。 この手順は、[!DNL Sales Connect] インスタンスがプロビジョニングされた後に、**接続が確立されていない場合にのみ**&#x200B;必須です。 接続が確立されている場合は、Marketo 管理者設定ページに資格情報が入力され、接続を解除するオプションが表示されます。
 
 ## [!DNL Sales Connect] を Marketo に接続する前の資格情報の取得 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
-Marketo 内から一連の資格情報を取得する必要があります。これらの資格情報は、後で [!DNL Sales Connect] 管理者が Marketo と [!DNL Sales Connect] を接続する際に使用されます。
+Marketo 内から一連の資格情報を取得する必要があります。 これらの資格情報は、後で [!DNL Sales Connect] 管理者が Marketo と [!DNL Sales Connect] を接続する際に使用されます。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 

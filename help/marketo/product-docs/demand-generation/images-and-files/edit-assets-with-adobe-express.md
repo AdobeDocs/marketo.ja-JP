@@ -1,11 +1,10 @@
 ---
-description: MarketoのAdobe Expressを使用して画像やアセットを編集する方法について説明します。 Express でアセットを開くと、すばやく編集したり更新したりできます。
+description: MarketoのAdobe Expressで画像やアセットを編集する方法について説明します。 Expressでアセットを開いて、すばやく編集や更新を行えます。
 title: Adobe Express を使用したアセットの編集
 hide: true
-hidefromtoc: true
 feature: Image Editor
 exl-id: 711f1838-be5c-4cb6-a0ce-7a46dd3c5a46
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 29%
@@ -14,4 +13,4 @@ ht-degree: 29%
 
 # Adobe Express を使用したアセットの編集 {#edit-assets-with-adobe-express}
 
-ドキュメントは準備中です。
+ドキュメントは近日公開予定です。

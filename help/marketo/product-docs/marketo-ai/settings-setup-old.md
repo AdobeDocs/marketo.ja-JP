@@ -2,12 +2,11 @@
 description: Marketo AI権限を有効にする方法、組織ルールを設定する方法、統合や通知などの設定を管理する方法について説明します。
 title: 設定と設定
 hide: true
-hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: c0854d574b4fc995f249783aebcd15ed7d224851
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 2%
+source-wordcount: '382'
+ht-degree: 1%
 
 ---
 
@@ -37,7 +36,7 @@ ht-degree: 2%
 
    ![](assets/settings-setup-2.png)
 
-1. 下にスクロールして、「_AIを使用してビルドにアクセス_」チェックボックスのチェックを外し、**保存**」をクリックします。**&#x200B;**
+1. 下にスクロールして、「**AIを使用してビルドにアクセス**」チェックボックスのチェックを外し、**保存**」をクリックします。__
 
    ![](assets/settings-setup-3.png)
 
