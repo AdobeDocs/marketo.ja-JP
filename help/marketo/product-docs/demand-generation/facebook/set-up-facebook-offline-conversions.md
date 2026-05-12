@@ -102,4 +102,4 @@ ht-degree: 81%
 
 >[!MORELIKETHIS]
 >
->[ [!DNL Facebook]  オフラインコンバージョンについて](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+>[&#x200B; [!DNL Facebook]  オフラインコンバージョンについて](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)

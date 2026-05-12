@@ -73,7 +73,7 @@ ht-degree: 84%
 
 ## [!UICONTROL メール分析]での A/B テストメール {#a-b-test-emails-in-email-analysis}
 
-[!UICONTROL  メール分析]の各A/B テスト メール バリエーションについてレポートします。
+[!UICONTROL &#x200B; メール分析]の各A/B テスト メール バリエーションについてレポートします。
 
 ## 分析パッケージの変更点 {#analytics-packaging-changes}
 
