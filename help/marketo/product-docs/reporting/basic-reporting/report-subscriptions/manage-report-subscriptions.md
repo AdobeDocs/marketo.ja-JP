@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359991
-description: Analytics の「購読」タブから、すべてのレポート購読を 1 か所で管理する方法を説明します。 頻度、受信者、設定を編集するか、必要に応じて購読を削除します。
+description: すべてのレポートサブスクリプションを1か所で管理する方法については、「分析サブスクリプション」タブを参照してください。 必要に応じて、頻度、受信者、設定を編集したり、サブスクリプションを削除したりできます。
 title: レポート購読の管理
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '231'
 ht-degree: 89%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 89%
 
 レポートの購読を設定および削除します。
 
-1. **[!UICONTROL 分析]**&#x200B;エリアに移動します。
+1. **[!UICONTROL 分析]**&#x200B;領域に移動します。
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
@@ -23,11 +23,11 @@ ht-degree: 89%
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   このページには、アカウント内のすべてのレポートの購読が[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)別に表示されます。これには[基本レポートの購読](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)と Revenue Cycle Explorer レポートの購読が含まれます。
+   このページには、アカウント内のすべてのレポートの購読が[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)別に表示されます。 これには[基本レポートの購読](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)と Revenue Cycle Explorer レポートの購読が含まれます。
 
    >[!TIP]
    >
-   >また、個々のレポートの購読は&#x200B;**[!UICONTROL マーケティング活動]**&#x200B;でも管理できます。レポートを選択して、「**[!UICONTROL 購読]**」タブをクリックします。
+   >また、個々のレポートの購読は&#x200B;**[!UICONTROL マーケティング活動]**&#x200B;でも管理できます。 レポートを選択して、「**[!UICONTROL 購読]**」タブをクリックします。
 
    レポートのメール送信頻度を変更するには、「頻度」フィールドをクリックして、ドロップダウンメニューから新しいオプションを選択します。
 
@@ -60,5 +60,5 @@ ht-degree: 89%
 
    >[!MORELIKETHIS]
    >
-   >* [基本レポートの購読](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-   >* [売上高エクスプローラーレポートの購読](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+   >[基本レポートの購読](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+

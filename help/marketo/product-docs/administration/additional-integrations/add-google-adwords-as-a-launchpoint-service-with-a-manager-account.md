@@ -1,21 +1,21 @@
 ---
 unique-page-id: 7504893
-description: Integrate multiple [!DNL Google AdWords] accounts with Marketo using a Manager Account in LaunchPoint.
-title: Add [!DNL Google AdWords] as a [!DNL Launchpoint] Service with a Manager Account
+description: LaunchPointのManager アカウントを使用して、複数の [!DNL Google AdWords]  アカウントをMarketoと統合します。
+title: マネージャーのアカウントを持つ [!DNL Google AdWords] as a [!DNL Launchpoint] Serviceを追加
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 71%
+source-wordcount: '309'
+ht-degree: 70%
 
 ---
 
 # マネージャーアカウントで [!DNL Google AdWords] を [!DNL Launchpoint] サービスとして追加 {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。 次に、[!DNL AdWords] UIから、[!DNL AdWords]に[&#x200B; カスタム列](https://support.google.com/adwords/answer/3073556){target="_blank"}を追加した後、どのクリックが適格リード、機会、および新規顧客（または追跡したい収益ステージ）につながったかを確認できます。 この情報は、Marketo UI には表示されません。
+[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。 次に、[!DNL AdWords] UIから、[!DNL AdWords]に[ カスタム列](https://support.google.com/adwords/answer/3073556){target="_blank"}を追加した後、どのクリックが適格リード、機会、および新規顧客（または追跡したい収益ステージ）につながったかを確認できます。 この情報は、Marketo UI には表示されません。
 
-If you have multiple [!DNL Google Adwords] accounts, you can use a [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (formerly known as [!DNL My Client Center]) to integrate them with Marketo.
+複数の[!DNL Google Adwords] アカウントがある場合は、[[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} （旧称[!DNL My Client Center]）を使用して、Marketoと統合できます。
 
 [Googleのオフラインコンバージョン読み込み機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}の詳細をご覧ください。
 
@@ -92,8 +92,4 @@ If you have multiple [!DNL Google Adwords] accounts, you can use a [[!DNL Google
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
-   See the Related Article below for how to map [!DNL AdWords] offline conversions in your revenue model.
-
-   >[!MORELIKETHIS]
-   >
-   >[売上高モデルでの  [!DNL Google AdWords]  コンバージョンの設定](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   収益モデルで[!DNL AdWords]個のオフラインコンバージョンをマッピングする方法については、以下の関連記事を参照してください。

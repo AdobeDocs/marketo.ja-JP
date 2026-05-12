@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979010
-description: ドーナツグラフと折れ線グラフでチャネルパフォーマンスのトレンドを経時的に表示する、パフォーマンスインサイトのトレンドビューについて説明します。 12 か月のトレンドを分析して、一貫した勝利戦略を特定します。
+description: ドーナツチャートと折れ線チャートでチャネルのパフォーマンスのトレンドを時系列で表示するパフォーマンスインサイトのトレンドビューについて説明します。 12か月のトレンドを分析して、一貫した勝利戦略を特定します。
 title: パフォーマンスインサイトのトレンドの概要
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 85%
+source-wordcount: '175'
+ht-degree: 84%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 85%
 
 ![](assets/2-1.png)
 
-パフォーマンスを表示する指標を選択します。この例では、[[!UICONTROL ファーストタッチ]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)を介して獲得した機会を見ていきます。
+パフォーマンスを表示する指標を選択します。
 
 ![](assets/3-2.png)
 
@@ -39,7 +39,7 @@ ht-degree: 85%
 
 ![](assets/6-1.png)
 
-1 つ以上のチャネルを選択すると、チャネルのトレンドが折れ線グラフに表示されます。選択を解除するには、チャネルをもう一度クリックします。
+1 つ以上のチャネルを選択すると、チャネルのトレンドが折れ線グラフに表示されます。 選択を解除するには、チャネルをもう一度クリックします。
 
 ![](assets/7.png)
 
