@@ -4,10 +4,10 @@ description: ABM アカウントリスト、カスタム属性、機会タイプ
 title: パフォーマンスインサイトのフィルタリング
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 77%
+source-wordcount: '325'
+ht-degree: 75%
 
 ---
 
@@ -54,10 +54,6 @@ ht-degree: 77%
   <tr>
    <td colspan="1"><strong><span class="uicontrol">ABM 重点顧客</span></strong></td>
    <td colspan="1">Marketo ABMを使用している場合、すべての名前付きアカウントはMPIに同期され、「ABM名前付きアカウント」フィルターを介して表示されます。 重点顧客を選択して、その顧客に対して結果をフィルタリングできます。ABM 重点顧客について詳しくは、<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">こちら</a>をご覧ください</td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong><span class="uicontrol">カスタム属性</span></strong></td>
-   <td colspan="1"><p>これらは、お客様によって決定されます。 <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">有効にした</a>すべてのフィールドの商談の分析は、パフォーマンスインサイトでフィルタリングできます。</p></td>
   </tr>
   <tr>
    <td colspan="1"><p><strong><span class="uicontrol">投資期間</span></strong></p></td>

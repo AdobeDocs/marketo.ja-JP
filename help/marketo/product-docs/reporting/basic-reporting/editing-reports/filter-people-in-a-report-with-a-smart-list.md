@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360016
-description: スマートリストを使用してレポートの人物をフィルタリングし、特定の人物属性で結果を絞り込む方法を説明します。 様々なレポートタイプ用のフィルターを「スマートリスト」タブで適用します。
+description: スマートリストを使用してレポート内の人物をフィルタリングし、特定の人物属性で結果を絞り込む方法を説明します。 様々なレポートタイプのスマートリスト タブでフィルターを適用します。
 title: スマートリストを使ってレポートでリードをフィルターする
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 80%
 
 ---
@@ -19,7 +19,6 @@ ht-degree: 80%
 
 * [担当者の実績](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [ステータス別の担当者](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [売上高ステージ別のリード](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
 * [メールの効果](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [メールリンクの効果](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [エンゲージメントストリームの効果](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
@@ -27,7 +26,7 @@ ht-degree: 80%
 * [企業 Web アクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Web ページアクティビティ](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. 「**[!UICONTROL マーケティング活動]**」エリアに移動します。
+1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 
@@ -47,4 +46,4 @@ ht-degree: 80%
 
    ![](assets/image2017-3-27-14-3a14-3a16.png)
 
-   完成です。これで、レポートには、スマートリストに一致するリードのデータのみが表示されます。
+   これで完了です。 これで、レポートには、スマートリストに一致するリードのデータのみが表示されます。
