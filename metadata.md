@@ -1,6 +1,8 @@
 ---
 cloud: Experience Cloud
 solution: Marketo Engage
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature-set: Marketo Engage
 landing-page-name: marketo-engage
 landing-page-breadcrumb-title: Marketo Engage
@@ -9,16 +11,16 @@ type: Documentation
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/marketo.ja-JP
 index: true
-source-git-commit: b6b8bf02ac2dee68217e3de45f5411db3ce289d3
+source-git-commit: 7a3cf730c5709038260a04c3d184e791129d9296
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: 70
+ht-degree: 94%
 
 ---
 
 
-# 社内用メタデータ
+# 内部使用のメタデータ
 
-metadata.md ファイルには、リポジトリ内のユーザーガイド TOC.md ファイルに渡されるリポジトリレベルのメタデータが含まれます。任意のユーザーガイドの metadata.md コンテンツを変更する場合は、どの TOC.md ファイルででもおこなうことができます。
+metadata.md ファイルには、リポジトリ内のユーザーガイドの TOC.md ファイルに渡されるリポジトリレベルのメタデータが含まれています。 任意のユーザーガイドの metadata.md コンテンツを変更する場合は、任意の TOC.md ファイルで変更します。
 
-[ソリューション&#x200B;**、**&#x200B;製品&#x200B;**、**&#x200B;タイプ&#x200B;**の有効な値のリストについては、**&#x200B;メタデータ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=jp)を参照してください。
+**ソリューション**、**製品**、**タイプ**&#x200B;の有効な値のリストについて詳しくは、[メタデータ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=ja)を参照してください。
