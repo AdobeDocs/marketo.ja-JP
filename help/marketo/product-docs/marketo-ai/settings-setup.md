@@ -3,9 +3,9 @@ description: Marketo AI権限を有効にする方法、組織ルールを設定
 title: 設定と設定
 badge: ベータ版
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '558'
+source-wordcount: '594'
 ht-degree: 4%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 4%
 
 権限を有効にし、設定エリアを使用して接続の詳細を表示し、組織ルールを定義し、統合と通知を設定する方法を説明します。
 
+>[!PREREQUISITES]
+>
+>この機能を使用するには、まず[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
+
 >[!NOTE]
 >
->この機能はオープンベータ版で、現在数か月にわたって段階的に展開されています。 My Marketo画面に&#x200B;_AIを使用してビルド_ タイルが表示されたら、サブスクリプションが有効になったときにわかります。
+>この機能はクローズド版であり、現在数か月にわたって段階的に展開されています。 My Marketo画面に&#x200B;_AIを使用してビルド_ タイルが表示されたら、サブスクリプションが有効になったときにわかります。
 
 ## 権限と役割 {#permission-and-role}
 
