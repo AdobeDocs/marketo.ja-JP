@@ -1,26 +1,26 @@
 ---
-description: プログラムのQA、リードのインポート、データの正規化など、マーケティングタスクを自動化するために設計されたMarketo EngageのAI エージェント群をご覧ください。
-title: Marketo Engage AIの概要
+description: プログラムのQA、リードのインポート、データの正規化など、マーケティングタスクを自動化するために設計されたMarketoのAI エージェント群をご覧ください。
+title: Marketo AIの概要
 badge: ベータ版
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '266'
 ht-degree: 2%
 
 ---
 
-# Marketo Engage AIの概要 {#overview}
+# Marketo AIの概要 {#overview}
 
-Marketo EngageのAIは、時間はかかりますが、重要なマーケティング機能を自動化するために設計されたエージェントを提供します。
+MarketoのAIは、時間はかかりますが、重要なマーケティング機能を自動化するために設計されたエージェントを提供します。
+
+>[!AVAILABILITY]
+>
+>この機能は限定的に利用できます。 サブスクリプションへのアクセスをリクエストするには、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
 
 >[!PREREQUISITES]
 >
->この機能を使用するには、まず[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
-
->[!NOTE]
->
->この機能はクローズド版であり、現在数か月にわたって段階的に展開されています。 My Marketo画面に&#x200B;_AIでビルド_ タイルが表示されたら、サブスクリプションが有効になったときにわかります。
+>この機能を使用するには、まず[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 詳しくは、アカウントマネージャーにお問い合わせください。
 
 >[!IMPORTANT]
 >
