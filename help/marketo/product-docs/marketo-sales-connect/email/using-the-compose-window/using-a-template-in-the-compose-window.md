@@ -1,12 +1,15 @@
 ---
 unique-page-id: 37356593
-description: Sales Connect の作成ウィンドウでテンプレートを使用する方法を説明します。 追跡するメールを送信する前に、テンプレートを挿入してパーソナライズします。
+description: Sales Connectの作成ウィンドウでテンプレートを使用する方法を説明します。 テンプレートを挿入し、追跡された電子メールを送信する前にパーソナライズします。
 title: 作成ウィンドウでのテンプレートの使用
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/CD5ZdQWvHyM8-FbEHKKk4pI4d0sqEWovHWBzZxXR-ao
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: 245
 ht-degree: 91%
 
 ---
@@ -31,13 +34,13 @@ ht-degree: 91%
 
    ![](assets/searching-four.png)
 
-1. テンプレート名、件名、メール本文で検索します。目的のテンプレートをクリックして選択します。
+1. テンプレート名、件名、メール本文で検索します。 目的のテンプレートをクリックして選択します。
 
    ![](assets/searching-five.png)
 
    >[!NOTE]
    >
-   >別のテンプレートを選択すると、現在エディターにあるすべての情報が置き換えられます。変更を加えた場合は、別のテンプレートを選択する前に、必ずコピーしてください。
+   >別のテンプレートを選択すると、現在エディターにあるすべての情報が置き換えられます。 変更を加えた場合は、別のテンプレートを選択する前に、必ずコピーしてください。
 
 ## 作成ウィンドウでのテンプレートカテゴリのピン留め {#pinning-template-categories-in-the-compose-window}
 
@@ -67,6 +70,6 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >**[!UICONTROL お気に入り]**&#x200B;はデフォルトで存在します。カテゴリではなく、お気に入りのメールテンプレートが格納されます。
+   >**[!UICONTROL お気に入り]**&#x200B;はデフォルトで存在します。 カテゴリではなく、お気に入りのメールテンプレートが格納されます。
 
    選択したカテゴリがピン留めされました。

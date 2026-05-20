@@ -1,12 +1,14 @@
 ---
 unique-page-id: 10096673
-description: イベントを設定し、Marketoを ON24 ウェビナーと同期する方法について説明します。 フィールドをマッピングし、登録データを同期します。
+description: イベント設定を設定し、MarketoをON24 ウェビナーと同期する方法について説明します。 フィールドをマッピングし、登録データを同期させる。
 title: イベントの設定と Marketo とウェビナーの同期
 exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/AIHOBhsWZXdVEmNRKp8ci8j5aeqyYFjaGF4vhVFozqw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: 240
 ht-degree: 91%
 
 ---
@@ -29,23 +31,23 @@ Marketo イベントを設定して Marketo と ON24 を接続するには、次
 
    ![](assets/three.png)
 
-1. [!UICONTROL イベント ID] を入力します（ON24 から取得）。「**[!UICONTROL 保存]**」をクリックします。
+1. [!UICONTROL イベント ID] を入力します（ON24 から取得）。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >ON24 が Marketo でイベント情報を利用できるようになるまでには、ピーク時で 15 ～ 20 分かかる場合があります。「無効なセッション ID」というメッセージが表示された場合は、後でもう一度やり直してください。
+   >ON24 が Marketo でイベント情報を利用できるようになるまでには、ピーク時で 15 ～ 20 分かかる場合があります。 「無効なセッション ID」というメッセージが表示された場合は、後でもう一度やり直してください。
 
 ## スケジュールを設定 {#set-the-schedule}
 
-ON24 ウェビナーに関連付けられたイベントを設定すると、イベントスケジュールに ON24 のデータが入力されます。[!UICONTROL イベントスケジュール]ダイアログボックスにアクセスするには、次の手順に従います。
+ON24 ウェビナーに関連付けられたイベントを設定すると、イベントスケジュールに ON24 のデータが入力されます。 [!UICONTROL イベントスケジュール]ダイアログボックスにアクセスするには、次の手順に従います。
 
-1. イベントを選択します。**[!UICONTROL イベントアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL スケジュール]」を選択します。**
+1. イベントを選択します。 **[!UICONTROL イベントアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL スケジュール]」を選択します。**
 
    ![](assets/five.png)
 
-1. **[!UICONTROL 開始日]**、**[!UICONTROL 終了日]**、**[!UICONTROL タイムゾーン]**&#x200B;を選択します。「**[!UICONTROL 保存]**」をクリックします。
+1. **[!UICONTROL 開始日]**、**[!UICONTROL 終了日]**、**[!UICONTROL タイムゾーン]**&#x200B;を選択します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/six-1.png)
 

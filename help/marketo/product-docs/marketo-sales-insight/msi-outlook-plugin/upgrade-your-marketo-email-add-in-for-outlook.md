@@ -1,13 +1,17 @@
 ---
 unique-page-id: 2949279
-description: Outlook 用Marketo E メール アドインをアップグレードする方法を説明します。 新機能と修正点の最新バージョンを入手できます。
+description: Outlook用Marketo メールアドインをアップグレードする方法について説明します。 新機能と修正点の最新バージョンを入手します。
 title: ' [!DNL Outlook] 用 Marketo メールアドインのアップグレード'
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/NK-fGmulqGGDopDM95ZBT-e21sa-z2FrDCTi2wu3kmQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 94%
+source-wordcount: 437
+ht-degree: 95%
 
 ---
 
@@ -17,7 +21,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->2020年10月1日（PT）時点で、最新バージョンの [!DNL Outlook] プラグインはオフラインモードのサポートを停止しました。これは、10 月 1 日以降にインストール／アップグレードした後に有効になります。
+>2020年10月1日（PT）時点で、最新バージョンの [!DNL Outlook] プラグインはオフラインモードのサポートを停止しました。 これは、10 月 1 日以降にインストール／アップグレードした後に有効になります。
 
 ## インストーラーのダウンロード {#download-installer}
 
@@ -135,19 +139,19 @@ ht-degree: 94%
 
    >[!NOTE]
    >
-   >場合によっては、データが不足していることがあります。登録メールからコピーして、[!DNL Outlook] を閉じます。
+   >場合によっては、データが不足していることがあります。 登録メールからコピーして、[!DNL Outlook] を閉じます。
 
 1. [!DNL Microsoft Outlook] を閉じます。
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. 情報はすべて事前入力されています。**[!UICONTROL 次へ]**&#x200B;をクリックします。
+1. 情報はすべて事前入力されています。 **[!UICONTROL 次へ]**&#x200B;をクリックします。
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
    >[!TIP]
    >
-   >インストールに失敗した場合は、IT 担当者と相談し、HTTPS トラフィックがブロックされていないかどうか確認してください。インストーラーを実行するには HTTPS トラフィックが必要です。
+   >インストールに失敗した場合は、IT 担当者と相談し、HTTPS トラフィックがブロックされていないかどうか確認してください。 インストーラーを実行するには HTTPS トラフィックが必要です。
 
 1. 「**[!UICONTROL 次へ]**」をクリックして、デフォルトの場所にインストールします。
 
@@ -157,7 +161,7 @@ ht-degree: 94%
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
-1. インストールが完了しました。「**[!UICONTROL 閉じる]**」をクリックします。
+1. インストールが完了しました。 「**[!UICONTROL 閉じる]**」をクリックします。
 
    ![](assets/image2014-9-23-16-3a55-3a34.png)
 

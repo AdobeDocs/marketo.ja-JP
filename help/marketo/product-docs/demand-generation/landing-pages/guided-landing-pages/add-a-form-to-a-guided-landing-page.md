@@ -4,22 +4,22 @@ description: Marketoのガイド付きランディングページにフォーム
 title: ガイド付きランディングページにフォームを追加する
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 88%
+source-wordcount: 174
+ht-degree: 77%
 
 ---
 
 # ガイド付きランディングページにフォームを追加する {#add-a-form-to-a-guided-landing-page}
 
-ランディングページをフォームに紹介するフォームをランディングページに紹介する
-
 >[!PREREQUISITES]
 >
 >[ガイド付きランディングページテンプレートを作成する](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. 「**[!UICONTROL マーケティングアクティビティ]**」エリアに移動します。
+1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ ht-degree: 88%
 
    >[!NOTE]
    >
-   >ガイド付きランディングページで使用できる要素は、テンプレートによって定義されます。要素パネルにフォームが表示されていない場合は、新しいテンプレートを選択するか、テンプレート作成者にお問い合わせください。
+   >ガイド付きランディングページで使用できる要素は、テンプレートによって定義されます。 要素パネルにフォームが表示されていない場合は、新しいテンプレートを選択するか、テンプレート作成者にお問い合わせください。
 
 1. 要素パネルで「**フォーム**」をダブルクリックします。
 
@@ -49,12 +49,10 @@ ht-degree: 88%
    >
    >フォローアップページとは、フォームを送信した後で表示されるページです。
 
-1. この例では、[!UICONTROL 定義済みのフォーム]を使用します。次に「**[!UICONTROL 挿入]**」をクリックします。
+1. この例では、[!UICONTROL Form Defined]を選択します。 「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
-   うまくいきました。
-
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-次に、ランディングページエディターを閉じて、[ランディングページのドラフトを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)します。
+ランディングページエディターを閉じて、[ ランディングページのドラフトを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)します。

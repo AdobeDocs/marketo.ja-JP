@@ -3,9 +3,11 @@ description: Microsoft DynamicsでROPC接続用にクライアントアプリを
 title: 手順 3／4 - MS  [!DNL Dynamics] でのクライアントアプリの設定
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/-zVs1Dq2fO4u055kIx9i77YLTyhplheh6153JYZnmp4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: 380
 ht-degree: 73%
 
 ---
@@ -45,14 +47,14 @@ ht-degree: 73%
 
 ## [!DNL Azure AD] と [!DNL AD FS On-prem] の連携 {#azure-ad-federated-with-ad-fs-on-prem}
 
-[!DNL Azure] AD から [!DNL ADFS Onprem] への連携では、特定のアプリケーション用に Home Realm Discovery ポリシーを作成する必要があります。 このポリシーを使用すると、[!DNL Azure] AD は認証リクエストをフェデレーションサービスにリダイレクトします。 このためには、[!DNL AD Connect] でパスワードハッシュの同期を有効にする必要があります。 詳しくは、[[!DNL OAuth] with [!DNL ROPC]](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/v2-oauth-ropc)および[&#x200B; アプリケーションのハードポリシーの設定](https://docs.microsoft.com/ja-jp/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)を参照してください。
+[!DNL Azure] AD から [!DNL ADFS Onprem] への連携では、特定のアプリケーション用に Home Realm Discovery ポリシーを作成する必要があります。 このポリシーを使用すると、[!DNL Azure] AD は認証リクエストをフェデレーションサービスにリダイレクトします。 このためには、[!DNL AD Connect] でパスワードハッシュの同期を有効にする必要があります。 詳しくは、[[!DNL OAuth] with [!DNL ROPC]](https://docs.microsoft.com/ja-jp/azure/active-directory/develop/v2-oauth-ropc)および[ アプリケーションのハードポリシーの設定](https://docs.microsoft.com/ja-jp/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application)を参照してください。
 
 その他のリファレンスについて詳しくは、[こちら](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD){target="_blank"}を参照してください。
 
 ## 手順 4 に進む前に {#before-proceeding-to-step-4}
 
 * 同期するレコード数を制限する場合は、[カスタム同期フィルターを設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter.md)します。
-* [&#x200B; [!DNL Microsoft Dynamics]  同期を検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)プロセスを実行します。 初期設定が正しく行われたことを確認します。
+* [ [!DNL Microsoft Dynamics]  同期を検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)プロセスを実行します。 初期設定が正しく行われたことを確認します。
 * [!DNL Microsoft Dynamics] CRM で、Marketo 同期ユーザにログインします。
 
 >[!MORELIKETHIS]

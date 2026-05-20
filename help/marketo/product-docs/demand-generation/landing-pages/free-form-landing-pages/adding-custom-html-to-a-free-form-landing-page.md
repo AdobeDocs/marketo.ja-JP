@@ -1,13 +1,16 @@
 ---
 unique-page-id: 2359730
-description: Marketoのフリーフォームのランディングページにカスタム HTMLを追加する方法を説明します。 カスタムコンテンツまたはトラッキング用にHTML ブロックを挿入します。
+description: Marketoの自由形式ランディングページにカスタム HTMLを追加する方法について説明します。 カスタムコンテンツまたはトラッキング用にHTML ブロックを挿入します。
 title: フリーフォームランディングページへのカスタム HTML の追加
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/SxcMmBYB5tq4xcwlpAvP-1y39nZPS7Xp0jylXdNwVoU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 86%
+source-wordcount: 166
+ht-degree: 80%
 
 ---
 
@@ -31,7 +34,7 @@ ht-degree: 86%
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 
-作業は以上です。任意のスクリプトまたは CSS を中に配置します。
+HTML要素には、任意のスクリプトまたはCSSを追加できます。
 
 >[!TIP]
 >
@@ -39,4 +42,4 @@ ht-degree: 86%
 
 >[!CAUTION]
 >
->カスタム HTML がレンダリングでない場合（表示されない JavaScript 関数や CSS など）は、要素を左上のような覚えやすい場所に配置します。要素の輪郭は、その領域をクリックした場合にのみ表示されます。
+>カスタム HTML がレンダリングでない場合（表示されない JavaScript 関数や CSS など）は、要素を左上のような覚えやすい場所に配置します。 要素の輪郭は、その領域をクリックした場合にのみ表示されます。

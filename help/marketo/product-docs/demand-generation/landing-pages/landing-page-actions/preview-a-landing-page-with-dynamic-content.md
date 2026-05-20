@@ -1,13 +1,15 @@
 ---
 unique-page-id: 2359734
-description: Marketoで動的コンテンツを含むランディングページをプレビューする方法について説明します。 様々なセグメントに対するコンテンツの変更方法を参照してください。
+description: Marketoで動的コンテンツを使用してランディングページをプレビューする方法について説明します。 それぞれのセグメントにおけるコンテンツの変化を見てみましょう。
 title: 動的コンテンツを含むランディングページのプレビュー
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/NXUXGYSgviIdw-W1yVRAfTpW82mWvZA9SZExRQVSvko
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 80%
+source-wordcount: 96
+ht-degree: 63%
 
 ---
 
@@ -28,4 +30,4 @@ ht-degree: 80%
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 
-これで完了です。これで、複数のセグメントにわたって、希望するランディングページを確実に機能させることができるようになりました。
+これで、ランディングページがセグメント間で望むように動作することを確認できます。

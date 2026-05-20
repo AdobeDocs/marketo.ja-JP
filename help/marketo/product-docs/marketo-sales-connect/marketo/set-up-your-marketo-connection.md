@@ -1,11 +1,14 @@
 ---
-description: Sales Connect でMarketo接続を設定する方法について説明します。 営業を結ぶキャンペーンや興味深い瞬間のためにMarketoに接続します。
+description: Sales ConnectでMarketo接続を設定する方法について説明します。 Connect Sales Marketoを使用して、キャンペーンや興味深い瞬間を把握しましょう。
 title: Marketo 接続の設定
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/7fRQ1yvSR3t4KrxEv8Au-sSkM6dRrsLy-TG9Kyt42UI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: 183
 ht-degree: 88%
 
 ---
@@ -14,11 +17,11 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->MSC をプロビジョニングすると、Marketo は自動的に資格情報を [!DNL Sales Connect] に送信し、インスタンスを Marketo に接続します。この手順は、[!DNL Sales Connect] インスタンスがプロビジョニングされた後に、**接続が確立されていない場合にのみ**&#x200B;必須です。接続が確立されている場合は、資格情報が Marketo の管理者設定ページに入力されます。
+>MSC をプロビジョニングすると、Marketo は自動的に資格情報を [!DNL Sales Connect] に送信し、インスタンスを Marketo に接続します。 この手順は、[!DNL Sales Connect] インスタンスがプロビジョニングされた後に、**接続が確立されていない場合にのみ**&#x200B;必須です。 接続が確立されている場合は、資格情報が Marketo の管理者設定ページに入力されます。
 
 ## [!DNL Sales Connect] を Marketo に接続する前の資格情報の取得 {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
-Marketo 内から一連の資格情報を取得する必要があります。これらの資格情報は、後で [!DNL Sales Connect] 管理者が Marketo と [!DNL Sales Connect] を接続する際に使用されます。
+Marketo 内から一連の資格情報を取得する必要があります。 これらの資格情報は、後で [!DNL Sales Connect] 管理者が Marketo と [!DNL Sales Connect] を接続する際に使用されます。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 

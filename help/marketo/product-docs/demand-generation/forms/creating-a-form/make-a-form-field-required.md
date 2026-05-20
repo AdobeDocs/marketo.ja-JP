@@ -4,9 +4,12 @@ description: Marketoで必要なフォームフィールドを作成する方法
 title: フォームフィールドを必須にする
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/JbWhwOQPZU2H4NzgKgYo1N6ThKwBHeKwWF2xeO-xczs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: 114
 ht-degree: 28%
 
 ---
@@ -41,8 +44,8 @@ ht-degree: 28%
 
 >[!NOTE]
 >
->変更を公開するには、このフォームが有効になっている[&#x200B; ランディングページを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}してください。
+>変更を公開するには、このフォームが有効になっている[ ランディングページを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"}してください。
 
 >[!MORELIKETHIS]
 >
->[&#x200B; フォームに追加したフィールドを並べ替え](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"}
+>[ フォームに追加したフィールドを並べ替え](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md){target="_blank"}

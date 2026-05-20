@@ -1,11 +1,13 @@
 ---
-description: 新しい管理者をMarketoに接続し、Marketo統合を転送する方法について説明します。 現在の管理者を切断し、新しい接続を確立するには、次の手順に従います。
+description: 新しい管理者をMarketoに接続し、Marketo統合を転送する方法について説明します。 現在の管理者を切断し、新しい接続を確立する手順に従います。
 title: 新規管理者を Marketo に接続
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/vQ-yzlQX0qzdTBy2uEV2HTkamgRYlWe7f35PQK2FJCc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: 508
 ht-degree: 94%
 
 ---
@@ -32,9 +34,9 @@ ht-degree: 94%
 
 Marketo 統合を設定する管理者を削除する場合は、この記事を参照してください。
 
-Marketo 統合は、[!DNL Sales Connect]／Actions 管理者ユーザに結び付けられます。通常、これは、Marketo 接続ページで最初に「**[!UICONTROL 接続]**」ボタンをクリックし、接続を確立した管理者です。
+Marketo 統合は、[!DNL Sales Connect]／Actions 管理者ユーザに結び付けられます。 通常、これは、Marketo 接続ページで最初に「**[!UICONTROL 接続]**」ボタンをクリックし、接続を確立した管理者です。
 
-Marketo 接続を確立した管理者を削除するには、まず別の管理者ユーザーが新しい接続を確立する必要があります。これをおこなうために完了する必要があるタスクを以下に示しました。
+Marketo 接続を確立した管理者を削除するには、まず別の管理者ユーザーが新しい接続を確立する必要があります。 これをおこなうために完了する必要があるタスクを以下に示しました。
 
 手順を簡素化するために、現在接続している管理者を管理者 A とし、管理者 B として Marketo への新しい接続を確立したい管理者を指します。
 
@@ -46,7 +48,7 @@ Marketo 接続を確立した管理者を削除するには、まず別の管理
 
 >[!NOTE]
 >
->Marketo 統合を担当する元の管理者には、Marketo 統合ページに移動する際にクリック可能な「切断」オプションが表示されます。その他の管理者（接続を確立していないユーザー）は、接続できません。さらに、Marketo 統合へのアクセス権を付与された管理者は、「接続」をクリックできません。そのため、最初に、次の手順に従って統合へのアクセス権を削除する必要があります。
+>Marketo 統合を担当する元の管理者には、Marketo 統合ページに移動する際にクリック可能な「切断」オプションが表示されます。 その他の管理者（接続を確立していないユーザー）は、接続できません。 さらに、Marketo 統合へのアクセス権を付与された管理者は、「接続」をクリックできません。そのため、最初に、次の手順に従って統合へのアクセス権を削除する必要があります。
 
 **管理者 B から Marketo アクセスを削除**
 

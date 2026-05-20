@@ -1,0 +1,54 @@
+---
+unique-page-id: 7514126
+description: Marketo Engageのアトリビューション例1について説明します。アトリビューション例1のアトリビューション例も含まれます。 このガイドを使用して、次のステップを完了してください。
+title: アトリビューションの例 1
+exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
+feature: Reporting, Revenue Cycle Analytics
+source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+workflow-type: tm+mt
+source-wordcount: '196'
+ht-degree: 88%
+
+---
+
+# アトリビューションの例 1 {#attribution-example}
+
+次のシナリオを読み、グリッドに表示する数値を決定してみてください。
+
+* 4 月 11 日｜Fred が（展示会）によって獲得される
+* 4 月 15 日｜Margo が（ウェビナー）に参加する - 成功
+* 4 月 22 日｜Fred が商談への（役割）に関連付けられる
+* 4 月 22 日｜3,000 ドルで商談が創出される
+
+| プログラム名 | （展示会） | （ウェビナー） |
+|---|---|---|
+| （FT）創出された商談 | `<pre>1</pre>` | `<pre>0</pre>` |
+| （FT）創出されたパイプライン | `<pre>$3,000</pre>` | `<pre>$0</pre>` |
+| （FT）成立した商談 | `<pre>0</pre>` | `<pre>0</pre>` |
+| （FT）獲得した売上高 | `<pre>0</pre>` | `<pre>0</pre>` |
+
+**回答を表示**
+
+>[!NOTE]
+>
+>**説明**
+>
+>まず、カウント型と通貨型があることを理解します。 創出された商談はカウント（整数）です。 パイプラインは通貨です。 Marketo では、通貨は管理ロケールの設定に従います。
+>
+>展示会が全てのクレジットを受け取ったのは、Margo が商談内の役割に関連付けられていなかったからです。 役割がなければ、クレジットも受け取れません。
+
+>[!NOTE]
+>
+>**アトリビューションルール**
+>
+>1. クレジットは均等に分割される
+>1. 獲得した以上のクレジットは付与できない
+>1. 過去に発生したことに対してクレジットは付与できない
+
+すべての例を試してみて、アトリビューションの達人になりましょう。
+
+>[!MORELIKETHIS]
+>
+>* [アトリビューションの例 2](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+>* [アトリビューションの例 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+>* [アトリビューションの例 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)

@@ -1,12 +1,16 @@
 ---
 unique-page-id: 10099798
-description: オーディエンス、コンテンツ、プラットフォーム、デバイスタイプ、日付範囲でメールインサイトデータをフィルタリングする方法を説明します。 複数のフィルターを適用して特定の指標にドリルダウンし、パフォーマンスを比較します。
+description: オーディエンス、コンテンツ、プラットフォーム、デバイスタイプ、日付範囲によってメールインサイトデータをフィルタリングする方法について説明します。 複数のフィルターを適用して、特定の指標をドリルダウンし、パフォーマンスを比較します。
 title: メールインサイトにおけるフィルター
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/4JFsk4N7rkyvVlBwErPXV2cb2kUIjTEq3bv6P6eMRK0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: 208
 ht-degree: 86%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 86%
 
 ## [!UICONTROL メールインサイト] {#email-insights}
 
-「+」をクリックして、フィルターの追加を開始します。必要な数だけ追加してください。
+「+」をクリックして、フィルターの追加を開始します。 必要な数だけ追加してください。
 
 ![](assets/one-2.png)
 
@@ -25,7 +29,7 @@ ht-degree: 86%
 
 ![](assets/state.png)
 
-どのフィルターを適用したか確認が必要な場合は、フィルターをクリックするだけです。そこからさらに追加することもできます。
+どのフィルターを適用したか確認が必要な場合は、フィルターをクリックするだけです。 そこからさらに追加することもできます。
 
 ![](assets/states.png)
 
@@ -59,7 +63,7 @@ ht-degree: 86%
 
 >[!NOTE]
 >
->日付範囲は、[!UICONTROL 分析]ページと[!UICONTROL 送信数]ページの両方に適用されます。ただし、「**比較**」オプションは[!UICONTROL 分析]ページにのみ適用できます。
+>日付範囲は、[!UICONTROL 分析]ページと[!UICONTROL 送信数]ページの両方に適用されます。 ただし、「**比較**」オプションは[!UICONTROL 分析]ページにのみ適用できます。
 
 ## アカウントベースドマーケティング {#account-based-marketing}
 

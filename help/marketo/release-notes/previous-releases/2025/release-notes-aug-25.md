@@ -3,26 +3,31 @@ description: リリースノート - 2025年8月 - Marketo ドキュメント - 
 title: リリースノート - 2025年8月
 feature: Release Information
 exl-id: f4f71a77-d0c0-41c3-9362-afbfb467cc7a
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/Tt3KgAUlQd8oBN2KV-dFUQdEPmlZ-3tOzQ8T-EaCTfI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: 680
 ht-degree: 99%
 
 ---
 
 # リリースノート：2025年8月 {#release-notes-aug-25}
 
-以下に、2025年8月リリースに含まれるすべての機能を示します。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+以下に、2025年8月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
 >[!AVAILABILITY]
 >
->星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。 詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-次の機能は標準リリースサイクルに従っており、**2025年8月22日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
+次の機能は標準リリースサイクルに従っており、**2025年8月22日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +38,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>メールデザイナー - レポート </strong>：メールのパフォーマンスおよびメールリンクのパフォーマンスレポートに、新しいメールデザイナーを使用して作成されたメールのデータが表示されるようになりました。</td>
-   <td>リリース日</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -42,8 +47,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>メールデザイナー - オートコンプリートの削除</strong>：トークンパーソナライゼーションエディターのオートコンプリートオプションがエラーのあるオブジェクトを指していたため、削除されました。現時点では、再実装の予定はありません。</td>
-   <td>リリース日</td>
+   <td><strong>メールデザイナー - オートコンプリートの削除</strong>：トークンパーソナライゼーションエディターのオートコンプリートオプションがエラーのあるオブジェクトを指していたため、削除されました。 現時点では、再実装の予定はありません。</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -52,8 +57,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>メールデザイナー - メールプレビューの最適化</strong>：一部のユーザーにおいて、メール／メールテンプレート／フラグメントの詳細ページでメールをプレビューしようとすると、読み込み時間が遅くなるという問題が発生していました。このエクスペリエンスは、読み込み時間が最大 60% 高速化するように最適化されています。</td>
-   <td>リリース日</td>
+   <td><strong>メールデザイナー - メールプレビューの最適化</strong>：一部のユーザーにおいて、メール／メールテンプレート／フラグメントの詳細ページでメールをプレビューしようとすると、読み込み時間が遅くなるという問題が発生していました。 このエクスペリエンスは、読み込み時間が最大 60% 高速化するように最適化されています。</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -62,8 +67,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>メールデザイナー - テンプレートの修正</strong>：一部の標準提供テンプレートにレンダリングの問題が発生していました（特定のブラウザーやダークモードで正しくレンダリングされない、画像のアラインメントが正しくない、CTA ボタンの配置が正しくない、など）。これらはすべて、このリリースで修正されています。</td>
-   <td>リリース日</td>
+   <td><strong>メールデザイナー - テンプレートの修正</strong>：一部の標準提供テンプレートにレンダリングの問題が発生していました（特定のブラウザーやダークモードで正しくレンダリングされない、画像のアラインメントが正しくない、CTA ボタンの配置が正しくない、など）。 これらはすべて、このリリースで修正されています。</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -72,8 +77,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>メールデザイナー - コンテンツのロックに関する修正 </strong>：以前は、コンテンツロック機能を備えたメールテンプレートが作成され、そのテンプレートを使用してメールが作成された場合、メールがリセットされたり、「デザインを変更」が選択されたりしても、コンテンツのロックが維持されていました。この問題は、このリリースで修正されています。</td>
-   <td>リリース日</td>
+   <td><strong>メールデザイナー - コンテンツのロックに関する修正 </strong>：以前は、コンテンツロック機能を備えたメールテンプレートが作成され、そのテンプレートを使用してメールが作成された場合、メールがリセットされたり、「デザインを変更」が選択されたりしても、コンテンツのロックが維持されていました。 この問題は、このリリースで修正されています。</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -82,14 +87,14 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **Marketo Engage ID の提供終了**：2025年8月に、Adobe は Marketo Engage ID のサポートの段階的な廃止を開始します（`login.marketo.com` 経由でのログイン）。Marketo Engage へのアクセスが中断されないようにするには、2025年9月30日（PT）までに [Adobe ID](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} に移行する必要があります。
+* **Marketo Engage ID の提供終了**：2025年8月に、Adobe は Marketo Engage ID のサポートの段階的な廃止を開始します（`login.marketo.com` 経由でのログイン）。 Marketo Engage へのアクセスが中断されないようにするには、2025年9月30日（PT）までに [Adobe ID](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} に移行する必要があります。
 
-   * _IP 制限の廃止_：[IP に基づく Marketo ログインの制限](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}のサポートは、2025年7月30日（PT）に終了しました。この機能は、Adobe ID への移行が完了するまで有効です。Adobe Admin Console の Adobe ID 向けの新しい場所ベースのアクセス制御機能は、近日リリース予定です。
+   * _IP 制限の廃止_：[IP に基づく Marketo ログインの制限](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}のサポートは、2025年7月30日（PT）に終了しました。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin Console の Adobe ID 向けの新しい場所ベースのアクセス制御機能は、近日リリース予定です。
 
-   * _シングルサインオン（SSO）の廃止_：[Marketo ID SSO](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} のサポートは、2025年7月30日（PT）に終了しました。この機能は、Adobe ID への移行が完了するまで有効です。Adobe Admin Console の Adobe ID 向けのシングルサインオンは個別に設定する必要があります。 設定手順について詳しくは、[ID とシングルサインオンの設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}を参照してください。
+   * _シングルサインオン（SSO）の廃止_：[Marketo ID SSO](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} のサポートは、2025年7月30日（PT）に終了しました。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin Console の Adobe ID 向けのシングルサインオンは個別に設定する必要があります。 設定手順について詳しくは、[ID とシングルサインオンの設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}を参照してください。
 
-* **_友達に転送_機能の廃止**：2025年9月29日（PT）に、Marketo Engage 2.0 のメール（従来のメールエディター）の&#x200B;_友達に転送_&#x200B;機能は、すべてのサブスクリプションで完全に廃止されます。これは、トークンを使用して既に送信されている、または送信される予定のメール内の「友達に転送」トークンと「友達に転送」リンクに影響します。[詳細情報](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
+* **_友達に転送_機能の廃止**：2025年9月29日（PT）に、Marketo Engage 2.0 のメール（従来のメールエディター）の&#x200B;_友達に転送_&#x200B;機能は、すべてのサブスクリプションで完全に廃止されます。 これは、トークンを使用して既に送信されている、または送信される予定のメール内の「友達に転送」トークンと「友達に転送」リンクに影響します。 [詳細情報](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2026年3月31日（PT）以降は使用できなくなります。すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2026年3月31日（PT）以降は使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API の廃止**：Marketo SOAP API のサポートは、2026年3月31日（PT）に終了する予定です。SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
+* **SOAP API の廃止**：Marketo SOAP API のサポートは、2026年3月31日（PT）に終了する予定です。 SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。

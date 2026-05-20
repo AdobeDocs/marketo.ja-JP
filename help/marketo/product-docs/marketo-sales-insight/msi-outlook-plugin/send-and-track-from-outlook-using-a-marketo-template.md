@@ -1,12 +1,16 @@
 ---
 unique-page-id: 2949283
-description: Marketo テンプレートを使用して Outlook から送信およびトラッキングする方法を説明します。 販売テンプレートを挿入し、Outlook から追跡対象の電子メールを送信します。
+description: Marketo テンプレートを使用してOutlookから送信および追跡する方法について説明します。 販売テンプレートを挿入し、Outlookから追跡済みのメールを送信します。
 title: Marketo テンプレートを使用した  [!DNL Outlook]  からの送信とトラック
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/trwNooFsf1aiYblIvwyVHA7YONJfpX7N99qpnr5a4X8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: 206
 ht-degree: 89%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->セールスインサイトアクションの機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用のセールスインサイトメールプラグインでは使用できません。現時点では、ユーザは、セールスインサイトメールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
+>セールスインサイトアクションの機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用のセールスインサイトメールプラグインでは使用できません。 現時点では、ユーザは、セールスインサイトメールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
 
 1. Microsoft Outlook を開き、「**Marketo メッセージ**」をクリックします。
 
@@ -33,13 +37,13 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >アドインでは、トークンはサポートされません。テンプレートにトークンがある場合は、削除してください。
+   >アドインでは、トークンはサポートされません。 テンプレートにトークンがある場合は、削除してください。
 
 1. プレビューを確認し、問題がないことを確認して、「**[!UICONTROL 送信]**」をクリックします。
 
    ![](assets/image2014-9-23-17-3a9-3a11.png)
 
-   完成です。マーケティングチームが作成した便利なテンプレートを使うことで、多くの時間を節約することができました。
+   完成です。 マーケティングチームが作成した便利なテンプレートを使うことで、多くの時間を節約することができました。
 
 >[!MORELIKETHIS]
 >

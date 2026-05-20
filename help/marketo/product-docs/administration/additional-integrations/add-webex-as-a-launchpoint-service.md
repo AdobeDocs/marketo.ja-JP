@@ -4,9 +4,13 @@ description: ' [!DNL Webex]  ウェビナーをLaunchPoint サービスとして
 title: ' [!DNL Webex]  を  [!DNL LaunchPoint]  サービスとして追加'
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/usUuncd-iS8bP6trbho6Y9aO-idLgQsYmSIgNCq7g2I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: 115
 ht-degree: 66%
 
 ---
@@ -53,4 +57,4 @@ Marketo Engage は、[!DNL Webex] ウェビナーの登録と出席を管理し�
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"} でイベントを作成します。
+>[ [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"} でイベントを作成します。

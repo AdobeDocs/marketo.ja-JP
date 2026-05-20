@@ -1,11 +1,13 @@
 ---
-description: グループメールを使用して販売メールを送信する方法を説明します。 トラッキングオプションとパーソナライゼーションオプションを使用して、複数の受信者に一度にメールを送信します。
+description: グループメールでセールスメールを送信する方法を説明します。 トラッキングとパーソナライゼーションオプションを使用して、複数の受信者に一度にメールを送信できます。
 title: グループメールによるメールの送信
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/M4ZhsvqF5rQrBo9JUHUizghuCD6FXRWOCzzuuaFXOZk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: 172
 ht-degree: 88%
 
 ---
@@ -44,7 +46,7 @@ ht-degree: 88%
 
    ![](assets/sending-emails-via-group-email-6.png)
 
-1. 目的の受信者を選択し、「**[!UICONTROL 動的フィールドをプレビュー]**」をクリックします。右側にプレビューが表示されます。
+1. 目的の受信者を選択し、「**[!UICONTROL 動的フィールドをプレビュー]**」をクリックします。 右側にプレビューが表示されます。
 
    ![](assets/sending-emails-via-group-email-7.png)
 

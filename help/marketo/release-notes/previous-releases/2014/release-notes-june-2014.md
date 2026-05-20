@@ -4,16 +4,20 @@ description: リリースノート - 2014年6月 - Marketo ドキュメント - 
 title: リリースノート - 2014年6月
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/GDMQ7SINGV9rOnO-9gxfgROyAzze5pDcwr-5u045aoU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: 263
 ht-degree: 100%
 
 ---
 
 # リリースノート：2014年6月 {#release-notes-june}
 
-2014年6月リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。
+2014年6月リリースには、次の機能が含まれています。 利用可能な機能についてはお使いの Marketo のエディションをご確認ください。
 
 ## UI のアップデート - 近日公開 {#updated-ui-coming-soon}
 
@@ -21,11 +25,11 @@ ht-degree: 100%
 
 ## [!DNL Outlook] 2013 用 [!DNL Sales Insight] プラグイン {#sales-insight-plugin-for-outlook}
 
-新しいプラグインをダウンロードする必要があります。[こちら](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)からダウンロードできます。
+新しいプラグインをダウンロードする必要があります。 [こちら](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)からダウンロードできます。
 
 ## トークンの解決 {#token-resolution}
 
-[!DNL Sales Insight] からテストメールを送信すると、メール内のトークンは解決されず、デフォルト値が送信されます。この改善により、テストメールのトークンが解決されます。
+[!DNL Sales Insight] からテストメールを送信すると、メール内のトークンは解決されず、デフォルト値が送信されます。 この改善により、テストメールのトークンが解決されます。
 
 ## 評価用の星と炎のパーセンテージのカスタマイズ {#customize-percentages-for-stars-and-flames}
 
@@ -35,11 +39,11 @@ ht-degree: 100%
 
 ## リード REST API {#lead-rest-api}
 
-新しい ReST API を使ってリードをプログラムで作成、読み取り、更新します。ReST の使用を開始するには、Marketo で[カスタムサービスを作成](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)する必要があります。次に、[開発者向けサイト](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api)にアクセスし、この API の使用に関する詳細を確認してください。
+新しい ReST API を使ってリードをプログラムで作成、読み取り、更新します。 ReST の使用を開始するには、Marketo で[カスタムサービスを作成](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)する必要があります。 次に、[開発者向けサイト](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api)にアクセスし、この API の使用に関する詳細を確認してください。
 
 ## Marketo リアルタイムパーソナライズ（RTP）キャンペーンページのアップデート {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-RTP キャンペーンには、サムネールビューやキャンペーンパフォーマンスの新しいデザインが含まれています。さらに、日付やトップパフォーマンスに応じて[キャンペーンを整理](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)できます。
+RTP キャンペーンには、サムネールビューやキャンペーンパフォーマンスの新しいデザインが含まれています。 さらに、日付やトップパフォーマンスに応じて[キャンペーンを整理](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)できます。
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 

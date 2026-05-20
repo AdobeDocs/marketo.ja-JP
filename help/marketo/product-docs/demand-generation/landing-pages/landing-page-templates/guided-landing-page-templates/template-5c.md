@@ -1,19 +1,22 @@
 ---
 unique-page-id: 8783920
-description: テンプレート 5C ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
+description: テンプレート 5C ガイド付きランディングページテンプレートについて説明します。 ダウンロードして、Marketoランディングページでご利用ください。
 title: テンプレート 5C
 exl-id: b0e6d27e-676a-4162-a34f-65ace83f27c9
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/iRjuySgzBj0itVD8X-Q0da0wAot-9NNLWltZuAkAr-A
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 71%
+source-wordcount: 80
+ht-degree: 75%
 
 ---
 
 # テンプレート 5C {#template-5c}
 
-右クリックして[テンプレート 5C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html?lang=ja)します
+右クリックして[テンプレート 5C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)します
 
 ![](assets/image2015-7-29-14-3a59-3a31.png)
 
@@ -29,4 +32,4 @@ ht-degree: 71%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 5C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html?lang=ja)
+[テンプレート 5C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)

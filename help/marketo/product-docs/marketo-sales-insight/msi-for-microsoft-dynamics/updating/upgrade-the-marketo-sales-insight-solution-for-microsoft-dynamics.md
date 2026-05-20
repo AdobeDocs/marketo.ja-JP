@@ -1,12 +1,15 @@
 ---
 unique-page-id: 6849099
-description: Microsoft DynamicsのMarketo Sales Insight ソリューションをアップグレードする方法について説明します。 最新バージョンを取得し、アップグレードを適用します。
+description: Microsoft Dynamics用のMarketo Sales Insight ソリューションをアップグレードする方法について説明します。 最新バージョンを取得し、アップグレードを適用します。
 title: Microsoft Dynamics 用 Marketo セールスインサイトソリューションのアップグレード
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/z8kco6heN6FNMHz9QOecDdG-4thgtsrfrc9D-UCwbsY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: 139
 ht-degree: 85%
 
 ---
@@ -35,12 +38,12 @@ ht-degree: 85%
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-4.png)
 
-   これで完了です。ソリューションの zip ファイルがデバイスにダウンロードされます。
+   これで完了です。 ソリューションの zip ファイルがデバイスにダウンロードされます。
 
 ## アップグレードの実行 {#performing-the-upgrade}
 
 1. [!DNL Dynamics CRM] の既存のバージョンに対して、ソリューションの最新バージョンを読み込みます（例：[!DNL Dynamics CRM] のバージョンが 1.4 で、最新バージョンが 1.5 の場合は、バージョン 1.4 _以降_&#x200B;を読み込みます）。
 
-2. 次のポップアップが表示されます。「**[!UICONTROL アップグレードのステージ]**」および「**[!UICONTROL カスタマイズを維持]**」を選択し、「**[!UICONTROL インポート]**」をクリックします。
+2. 次のポップアップが表示されます。 「**[!UICONTROL アップグレードのステージ]**」および「**[!UICONTROL カスタマイズを維持]**」を選択し、「**[!UICONTROL インポート]**」をクリックします。
 
 ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-5.png)

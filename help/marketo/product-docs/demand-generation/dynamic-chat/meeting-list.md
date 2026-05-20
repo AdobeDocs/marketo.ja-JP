@@ -1,11 +1,13 @@
 ---
-description: 訪問者が予約した予定が表示されるDynamic Chat会議リストについて説明します。 予約したユーザー、エージェント、会議の状態を表示します。
+description: 訪問者が予約した予定が表示されるDynamic Chat会議リストについて説明します。 予約者、エージェント、ミーティングステータスを表示できます。
 title: ミーティングリスト
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/LFu75o-grfMTvl53VsQZ22pVPw9g2eyO-POBoQ1o7Qc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: 131
 ht-degree: 83%
 
 ---

@@ -4,9 +4,13 @@ description: 1対多または多対多の構造（表示名、API名、リード
 title: Marketo カスタムオブジェクトの作成
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
+TQID: https://experienceleague.adobe.com/ORgicNbsK5gDy67zbW7EzMgcpjZr4U2UNENeoWboeO8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: 771
 ht-degree: 55%
 
 ---
@@ -133,7 +137,7 @@ ht-degree: 55%
 
    >[!NOTE]
    >
-   >これらのフィールドは作成時に編集できますが、保存した後は、[!UICONTROL 複数名] フィールドと[!UICONTROL &#x200B; リード詳細を表示] スライダーのみを編集できます。
+   >これらのフィールドは作成時に編集できますが、保存した後は、[!UICONTROL 複数名] フィールドと[!UICONTROL  リード詳細を表示] スライダーのみを編集できます。
 
 1. データベースページにカスタムオブジェクトデータを表示する場合、「**[!UICONTROL リード詳細で表示]**」スライダーを引いて、「**[!UICONTROL 表示]**」を表示します。 「**[!UICONTROL 保存]**」をクリックします。
 
@@ -141,7 +145,7 @@ ht-degree: 55%
 
 1. カスタムオブジェクト情報には、入力した内容が表示されます。 **[!UICONTROL ドラフト]**&#x200B;状態であることに注意してください。
 
-   次の手順では、[&#x200B; リンクフィールドを追加](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)して、仲介オブジェクトを個人または会社とカスタムオブジェクトに接続します。
+   次の手順では、[ リンクフィールドを追加](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)して、仲介オブジェクトを個人または会社とカスタムオブジェクトに接続します。
 
 >[!MORELIKETHIS]
 >

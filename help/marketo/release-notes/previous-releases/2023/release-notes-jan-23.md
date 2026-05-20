@@ -3,24 +3,28 @@ description: リリースノート - 2023年1月 - Marketo ドキュメント - 
 title: リリースノート - 2023年1月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/fB2DSNQ-lP-D8y9ISOy-TCHaJ2BiwQtqcKoTNv8t-Mk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: 656
 ht-degree: 95%
 
 ---
 
 # リリースノート：2023年1月 {#release-notes-jan-23}
 
-以下に、2023年1月リリースに含まれるすべての機能を示します。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+以下に、2023年1月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
->星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。 詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、リリースは **2023年1月20日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、以下を確認してください。
+以下の機能は標準リリースサイクルに該当し、リリースは **2023年1月20日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、以下を確認してください。
 
 ### Marketo Engage の最新 UX {#modern-ux}
 
@@ -37,14 +41,14 @@ ht-degree: 95%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース日</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切替スイッチ</a></td>
   </tr>
   </tbody>
 
 </table>
 
-* **メールテンプレートの詳細とスニペットの詳細に対するコンポーネントでの使用の拡張**：新しい「UI で使用」タブには、最終変更日や変更者など、各使用者アセットに関する追加情報が表示されます。検索、並べ替え、フィルタリング機能を使用すると、簡単に分析を実行できます。この新しい UI コンポーネントは、メールテンプレートとスニペットアセットから取り込まれます。
+* **メールテンプレートの詳細とスニペットの詳細に対するコンポーネントでの使用の拡張**：新しい「UI で使用」タブには、最終変更日や変更者など、各使用者アセットに関する追加情報が表示されます。 検索、並べ替え、フィルタリング機能を使用すると、簡単に分析を実行できます。 この新しい UI コンポーネントは、メールテンプレートとスニペットアセットから取り込まれます。
 
 <table>
   <tr>
@@ -52,7 +56,7 @@ ht-degree: 95%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース日</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -70,7 +74,7 @@ ht-degree: 95%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース日</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -80,7 +84,7 @@ ht-degree: 95%
 
 </br>
 
-* **Marketo Measure Ultimate**：複数の CRM や Marketo Engage インスタンスおよび多様なソースデータのニーズを持つ企業向けに、完全な B2B アトリビューションを有効にします。また、共有 AEP データを介した Adobe RT-CDP 用の B2B アトリビューションソリューションも提供します。
+* **Marketo Measure Ultimate**：複数の CRM や Marketo Engage インスタンスおよび多様なソースデータのニーズを持つ企業向けに、完全な B2B アトリビューションを有効にします。 また、共有 AEP データを介した Adobe RT-CDP 用の B2B アトリビューションソリューションも提供します。
 
 <table>
   <tr>
@@ -88,7 +92,7 @@ ht-degree: 95%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース日</td>
+   <td>リリース</td>
    <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=ja">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
@@ -106,7 +110,7 @@ ht-degree: 95%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース日</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Bulk Export API 情報</a></td>
   </tr>
   </tbody>
@@ -114,7 +118,7 @@ ht-degree: 95%
 
 ## アジャイルリリースの機能
 
-以下の機能は、アジャイル形式に従い、標準リリース日前後の様々な日付にリリースされます。各機能のステータスについては、以下を確認してください。
+以下の機能は、アジャイル形式に従い、標準リリース日前後の様々な日付にリリースされます。 各機能のステータスについては、以下を確認してください。
 
 ### Dynamic Chat {#dynamic-chat}
 
@@ -128,7 +132,7 @@ ht-degree: 95%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース日</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -142,7 +146,7 @@ ht-degree: 95%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース日</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">カレンダー</a></td>
   </tr>
   </tbody>
@@ -156,7 +160,7 @@ ht-degree: 95%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース日</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -170,7 +174,7 @@ ht-degree: 95%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース日</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   </tbody>
@@ -184,7 +188,7 @@ ht-degree: 95%
    <td><b>ドキュメントの更新</b></td>
   </tr>
   <tr>
-   <td>リリース日</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">会議</a></td>
   </tr>
   </tbody>
@@ -192,6 +196,6 @@ ht-degree: 95%
 
 ## お知らせ {#announcements}
 
-* **Marketo REST API の変更**：2022年10月リリースでは、Marketo REST API 応答メッセージに若干の変更を加えました。詳しくは、こちらの [Marketo民族の投稿 &#x200B;](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} を参照してください。
+* **Marketo REST API の変更**：2022年10月リリースでは、Marketo REST API 応答メッセージに若干の変更を加えました。 詳しくは、[Marketoの国の投稿](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"}を参照してください。
 
-* **_製品リリースウェビナー_**:[2022 年 10 月および 2023 年 1 月Marketo Engageリリースウェビナー &#x200B;](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_製品リリースウェビナー_**: [2022年10月および2023年1月Marketo Engage リリースウェビナー](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

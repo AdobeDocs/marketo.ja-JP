@@ -1,12 +1,16 @@
 ---
 unique-page-id: 4719336
-description: タイムゾーン、メールレポート、パスワード、モバイル通知、個人地域設定などのユーザー設定を構成する方法について説明します。 Web Personalizationのエクスペリエンスと書き出しの環境設定をカスタマイズします。
+description: タイムゾーン、メールレポート、パスワード、モバイル通知、個人地域設定などのユーザー設定の設定方法について説明します。 Web Personalization エクスペリエンスと書き出しの環境設定をカスタマイズします。
 title: ユーザー設定
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/AecZiTRBR06f6-aRZR5-LbFIZCy0-WSHVKREbNJo9mE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: 226
 ht-degree: 88%
 
 ---
@@ -29,7 +33,7 @@ ht-degree: 88%
 
    * メールアドレスを変更する
    * 個人の詳細情報（氏名、携帯電話番号、タイムゾーン）を追加する
-   * プラットフォームでテーブルを書き出す際に書き出す行数を選択する（「Max # of rows in Excel export (limited to 10,000)」フィールドを参照）
+   * プラットフォームでテーブルを書き出す際に書き出す行数を選択する （「Max # of rows in Excel export (limited to 10,000)」フィールドを参照）
    * モバイルアプリケーションに関連する新規リードまたはウォッチリストの「[!UICONTROL モバイル通知]」を選択する
    * 「**[!UICONTROL 地域の編集]**」をクリックして「個人の地域」の設定を調整する
    * パスワードを変更する
@@ -49,7 +53,7 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->「**[!UICONTROL 保存]**」をクリックしてもユーザー設定は終了しません。終了するには、左上の Marketo のロゴをクリックし、宛先を選択します。
+>「**[!UICONTROL 保存]**」をクリックしてもユーザー設定は終了しません。 終了するには、左上の Marketo のロゴをクリックし、宛先を選択します。
 
 >[!MORELIKETHIS]
 >

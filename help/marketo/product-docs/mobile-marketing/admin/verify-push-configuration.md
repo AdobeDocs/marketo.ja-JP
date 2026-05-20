@@ -1,12 +1,15 @@
 ---
 unique-page-id: 7512445
-description: モバイルアプリが同期されるようにプッシュ設定を検証する方法を説明します。 管理でプラットフォームを確認し、プッシュ通知の送信を開始します。
+description: モバイルアプリが同期されるようにプッシュ設定を確認する方法について説明します。 管理画面でプラットフォームを確認し、プッシュ通知の送信を開始します。
 title: プッシュ設定の検証
 exl-id: 5a391087-9d4a-4b06-bc0d-25cd8237e4df
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/xXzWA9POETR9p9g-siF2Azsw-bgwz987wg6-KL7JbBA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: 92
 ht-degree: 77%
 
 ---
@@ -39,7 +42,7 @@ ht-degree: 77%
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 
-準備完了です。これで、プッシュ通知の送信を開始できます。
+準備完了です。 これで、プッシュ通知の送信を開始できます。
 
 >[!MORELIKETHIS]
 >

@@ -1,13 +1,18 @@
 ---
 unique-page-id: 2359500
-description: セグメント化の優先順位と、その優先順位によってユーザーが属するセグメントが決定される仕組みについて説明します。 データベースのセグメントの順序を編集して、セグメントの評価を制御します。
+description: セグメント化の順序の優先順位と、そのセグメントが個人の属するセグメントを決定する方法について説明します。 セグメントの評価を制御するために、データベースでセグメントの順序を編集します。
 title: セグメント化の順序の優先度
 exl-id: c20d07c8-5e53-4f54-a7a3-2e1aa4fb0cdd
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+TQID: https://experienceleague.adobe.com/wDvufJzxu0BFCSov4etUpEMxaol3-R5CePqllYyDeSc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 82%
+source-wordcount: 144
+ht-degree: 80%
 
 ---
 
@@ -17,7 +22,7 @@ ht-degree: 82%
 
 >[!PREREQUISITES]
 >
->[セグメント化の作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[ セグメントの作成](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 >[セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
@@ -28,7 +33,7 @@ ht-degree: 82%
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. 目的の&#x200B;**セグメント化**&#x200B;を選択します。**[!UICONTROL セグメント化アクション]**&#x200B;で「**[!UICONTROL セグメントを編集]**」をクリックします。
+1. 目的の&#x200B;**セグメント化**&#x200B;を選択します。 **[!UICONTROL セグメント化アクション]**&#x200B;で「**[!UICONTROL セグメントを編集]**」をクリックします。
 
    ![](assets/segmentation-order-priority-2.png)
 
@@ -38,6 +43,6 @@ ht-degree: 82%
 
 >[!NOTE]
 >
->* セグメントは相互に排他的です。ユーザーは一度に 1 つのセグメントのみのメンバーになることができます。
+>* セグメントは相互に排他的です。 ユーザーは一度に 1 つのセグメントのみのメンバーになることができます。
 >* ユーザーが 2 つのセグメントに該当する場合、そのユーザーはリストの最初のセグメントにのみ属します。
 >* どのセグメントにも該当しないユーザーは、デフォルトセグメントのメンバーになります。

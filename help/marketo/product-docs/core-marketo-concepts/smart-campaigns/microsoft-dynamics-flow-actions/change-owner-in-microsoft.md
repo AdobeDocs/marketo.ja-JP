@@ -1,13 +1,16 @@
 ---
 unique-page-id: 37356426
-description: フローステップを使用してMicrosoft Dynamicsの所有者を変更する方法を説明します。 ユーザーがフローに入ったら、新しい所有者を割り当てます。
+description: フローステップでMicrosoft Dynamicsのオーナーを変更する方法について説明します。 ユーザーがフローにエントリしたときに新しい所有者を割り当てます。
 title: Microsoft の所有者の変更
 exl-id: d17cfb70-1d78-48e9-8e53-99a7abd5a647
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/PIWiyIrdTUfBQDTlWj-pkDZrt4tdlHGkRbfG0-g1M-w
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 79%
+source-wordcount: 105
+ht-degree: 80%
 
 ---
 

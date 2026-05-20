@@ -2,9 +2,13 @@
 title: Marketo 製品ドキュメント
 description: これらの Marketo 製品ドキュメントを使用して、マーケティングを次のレベルに引き上げる方法を学びます。 Marketo のチュートリアルから始めて、その他の人気の記事もお読みください。
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/mLwFR4arE2qLObc9IjIYxq0TzIlfKpLXK29rUvkNKTM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: 156
 ht-degree: 74%
 
 ---
@@ -26,9 +30,9 @@ Marketo Engageの初心者向けチュートリアルを始めたばかりの場
 
 ## Marketo Engage に関する人気の記事
 
-* [&#x200B; [!DNL Salesforce]  同期について](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
+* [ [!DNL Salesforce]  同期について](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
 
-* [&#x200B; [!DNL Microsoft Dynamics]  同期について](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
+* [ [!DNL Microsoft Dynamics]  同期について](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 * [スマートキャンペーンについて](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 

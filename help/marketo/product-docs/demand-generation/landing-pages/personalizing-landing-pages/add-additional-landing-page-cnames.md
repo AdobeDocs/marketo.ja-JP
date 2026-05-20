@@ -1,19 +1,21 @@
 ---
 unique-page-id: 2359798
-description: Marketoでランディングページ CNAME を追加する方法を説明します。 ランディングページに複数のカスタムドメインを使用します。
+description: Marketoでランディングページ CNAMEを追加する方法について説明します。 ランディングページには、複数のカスタムドメインを使用できます。
 title: 付加的なランディングページ CNAME の追加
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 92%
+source-wordcount: 232
+ht-degree: 78%
 
 ---
 
 # 付加的なランディングページ CNAME の追加 {#add-additional-landing-page-cnames}
 
-様々な URL で Marketo のランディングページを指すように、ランディングページの CNAME を追加することができます。次の手順に従うと、複数のドメインを管理するのに役立ちます。
+様々な URL で Marketo のランディングページを指すように、ランディングページの CNAME を追加することができます。 次の手順に従うと、複数のドメインを管理するのに役立ちます。
 
 >[!CAUTION]
 >
@@ -21,9 +23,9 @@ ht-degree: 92%
 
 >[!TIP]
 >
->**同じトップレベルドメイン — 可能Cookie が共有されます**.<br/> **go**.mycompany.com > **info**.mycompany.com
+>**同じトップレベルドメイン — 可能 Cookie が共有されます**.<br/> **go**.mycompany.com > **info**.mycompany.com
 >
->**異なるトップレベルドメイン — 不可能cookie は共有&#x200B;_されません。_**<br/> go.**mycompany**.com > go.**mynewcompany**.com
+>**異なるトップレベルドメイン — 不可能 Cookieは&#x200B;_共有されていません_**.<br/> go.**mycompany**.com > go.**mynewcompany**.com
 
 >[!NOTE]
 >
@@ -61,7 +63,7 @@ ht-degree: 92%
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. **[!UICONTROL ドメインエイリアス]を入力します。**&#x200B;を入力します。訪問者が URL を入力しない場合、**[!UICONTROL デフォルトのページ]**&#x200B;が表示されます。その場合の移動先を入力します。
+1. **[!UICONTROL ドメインエイリアス]**&#x200B;を入力します。 訪問者がURLを入力しない場合、**[!UICONTROL デフォルトページ]**&#x200B;が表示されます。 その場合の移動先を入力します。
 
    >[!NOTE]
    >
@@ -73,4 +75,4 @@ ht-degree: 92%
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 
-作業は以上です。これで、CNAME を追加したい場合の対処方法を理解できました。
+これで、ランディングページにCNAMEを追加する方法が分かりました。

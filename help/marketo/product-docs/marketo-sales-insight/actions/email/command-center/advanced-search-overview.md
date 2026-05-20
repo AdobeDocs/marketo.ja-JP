@@ -1,11 +1,13 @@
 ---
-description: コマンドセンターで詳細検索を使用して、メールとタスクを検索する方法を説明します。 日付、送信者、ステータス、その他の条件でフィルタリングします。
+description: コマンドセンターで高度な検索を使用して、メールとタスクを検索する方法を説明します。 日付、送信者、ステータスなどの基準でフィルタリングできます。
 title: 詳細検索の概要
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: 445
 ht-degree: 94%
 
 ---
@@ -36,7 +38,7 @@ ht-degree: 94%
 
 **日付**
 
-検索の日付範囲を選択します。プリセット日は、選択したメールステータス（[!UICONTROL 送信済み]、[!UICONTROL 未配信]、[!UICONTROL 保留中]）に応じて更新されます。
+検索の日付範囲を選択します。 プリセット日は、選択したメールステータス（[!UICONTROL 送信済み]、[!UICONTROL 未配信]、[!UICONTROL 保留中]）に応じて更新されます。
 
 ![](assets/advanced-search-overview-5.png)
 
@@ -61,13 +63,13 @@ ht-degree: 94%
  </tr>
  <tr>
   <td><strong>[!UICONTROL 人物別]</strong></td>
-  <td>特定の受信者でフィルターします。</td>
+  <td>特定の受信者でフィルタリングします。</td>
  </tr>
 </table>
 
 **タイミング**
 
-作成日、配信日、失敗した日付、スケジュールした日付別に選択します。使用できるオプションは、選択したメールのステータス（[!UICONTROL 送信済み]、[!UICONTROL 配信不能]、[!UICONTROL 保留中]）に応じて異なります。
+作成日、配信日、失敗した日付、スケジュールした日付別に選択します。 使用できるオプションは、選択したメールのステータス（[!UICONTROL 送信済み]、[!UICONTROL 配信不能]、[!UICONTROL 保留中]）に応じて異なります。
 
 ![](assets/advanced-search-overview-7.png)
 
@@ -79,17 +81,17 @@ ht-degree: 94%
 
 **ステータス**
 
-選択できるメールステータスは 3 つあります。選択したステータスに応じて、タイプ／アクティビティのオプションが変わります。
+選択できるメールステータスは 3 つあります。 選択したステータスに応じて、タイプ／アクティビティのオプションが変わります。
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**ステータス：送信済み**&#x200B;_
+_**ステータス：送信済み**_
 
 ![](assets/advanced-search-overview-10.png)
 
-送信したメールアクティビティ別にフィルタリングします。[!UICONTROL 表示回数]／[!UICONTROL 表示なし]、[!UICONTROL クリック数]／[!UICONTROL クリックなし]、[!UICONTROL 返信数]／[!UICONTROL 返信なし]を選択できます。
+送信したメールアクティビティ別にフィルタリングします。 [!UICONTROL 表示回数]／[!UICONTROL 表示なし]、[!UICONTROL クリック数]／[!UICONTROL クリックなし]、[!UICONTROL 返信数]／[!UICONTROL 返信なし]を選択できます。
 
-_&#x200B;**ステータス：保留中**&#x200B;_
+_**ステータス：保留中**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -106,15 +108,15 @@ _&#x200B;**ステータス：保留中**&#x200B;_
  </tr>
  <tr>
   <td><strong>[!UICONTROL ドラフト]</strong></td>
-  <td>現在のステートがドラフトのメールです。メールをドラフトとして保存するには、件名と受信者が必要です。</td>
+  <td>現在ドラフト状態のメール。 メールをドラフトとして保存するには、件名と受信者が必要です。</td>
  </tr>
  <tr>
   <td><strong>[!UICONTROL 進行中]</strong></td>
-  <td>送信中のメール。メールがこの状態に保たれるのは数秒間ほどです。</td>
+  <td>送信中のメール。 メールがこの状態に保たれるのは数秒間ほどです。</td>
  </tr>
 </table>
 
-_&#x200B;**ステータス：未配信**&#x200B;_
+_**ステータス：未配信**_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -131,11 +133,11 @@ _&#x200B;**ステータス：未配信**&#x200B;_
  </tr>
  <tr>
   <td><strong>[!UICONTROL バウンス済み]</strong></td>
-  <td>メールは、受信者のサーバーによって拒否された場合、バウンス済みとしてマークされます。Sales Connect サーバー経由で送信されたメールのみがここに表示されます。</td>
+  <td>メールは、受信者のサーバーによって拒否された場合、バウンス済みとしてマークされます。 Sales Connect サーバー経由で送信されたメールのみがここに表示されます。</td>
  </tr>
  <tr>
   <td><strong>[!UICONTROL スパム]</strong></td>
-  <td>受信者によってメールがスパム（迷惑メールの一般用語）としてマークされた場合。Sales Connect サーバー経由で送信されたメールのみがここに表示されます。</td>
+  <td>受信者によってメールがスパム（迷惑メールの一般用語）としてマークされた場合。 Sales Connect サーバー経由で送信されたメールのみがここに表示されます。</td>
  </tr>
 </table>
 

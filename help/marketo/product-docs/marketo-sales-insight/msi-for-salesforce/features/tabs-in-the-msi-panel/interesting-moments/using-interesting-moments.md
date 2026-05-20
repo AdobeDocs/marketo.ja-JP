@@ -1,12 +1,16 @@
 ---
 unique-page-id: 2951640
-description: MSI パネルで興味深い瞬間を使用する方法を学びます。 リードエンゲージメントを示す主要なアクティビティを表示して解釈します。
+description: MSI パネルで興味深いモーメントを使用する方法について説明します。 リードのエンゲージメントを示す主要なアクティビティを表示して解釈できます。
 title: 注目のアクションの使用
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/a7xwk8AWmiXHHxNMaCKh6rfVAO-60pwNjBoNsCZu0h4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: 439
 ht-degree: 95%
 
 ---
@@ -21,7 +25,7 @@ ht-degree: 95%
 
 ## 注目のアクションとは何でしょうか。 {#what-is-an-interesting-moment}
 
-それは、あなた次第です。どんな情報がセールスチームに関係あるのかを自分で決定します。セールスチームがリードについて知りたいのは、例えば次のようなことです。
+それは、あなた次第です。 どんな情報がセールスチームに関係あるのかを自分で決定します。 セールスチームがリードについて知りたいのは、例えば次のようなことです。
 
 * Web サイトの価格設定ページへのアクセス
 * 新製品発表メールに記載されたリンクをクリック
@@ -51,7 +55,7 @@ ht-degree: 95%
 
 ## 注目のアクションにさらに注目を集めるには  {#how-can-this-get-even-more-interesting}
 
-トークンを使います。より具体的な情報を営業チームに伝えるために、説明フィールドにトークンを追加します。リードが開くメールの件名、または送信者といった情報です。[注目のアクションのトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)の用語集を参照して使用できるトークンを確認してください。
+トークンを使います。 より具体的な情報を営業チームに伝えるために、説明フィールドにトークンを追加します。リードが開くメールの件名、または送信者といった情報です。 [注目のアクションのトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)の用語集を参照して使用できるトークンを確認してください。
 
 >[!TIP]
 >
@@ -65,7 +69,7 @@ ht-degree: 95%
 
 ## 注目のアクションは、[!DNL Salesforce] でどのように表示されるか  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-[&#x200B; [!DNL Marketo Sales Insight]  アプリをインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)していれば、注目のアクションはリード、取引先責任者、アカウント、または商談ページに表示されます。また、[!DNL Sales Insight] ダッシュボードで、「リードフィード」、「[!DNL Best Bets]」、「ウォッチリスト」にも表示されます。
+[ [!DNL Marketo Sales Insight]  アプリをインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)していれば、注目のアクションはリード、取引先責任者、アカウント、または商談ページに表示されます。 また、[!DNL Sales Insight] ダッシュボードで、「リードフィード」、「[!DNL Best Bets]」、「ウォッチリスト」にも表示されます。
 
 ![](assets/using-interesting-moments-6.png)
 
@@ -77,9 +81,9 @@ ht-degree: 95%
 
 ## 注目のアクションを購読 {#subscribe-to-interesting-moments}
 
-「注目のアクション」タブまたはリードフィードで「[!UICONTROL 購読]」ボタンをクリックすると、注目のアクションを購読できます。以下の手順は両方で同じです。
+「注目のアクション」タブまたはリードフィードで「[!UICONTROL 購読]」ボタンをクリックすると、注目のアクションを購読できます。 以下の手順は両方で同じです。
 
-1. 購読アイコンをクリックします。その後、「メール購読」タブに移動します。
+1. 購読アイコンをクリックします。 その後、「メール購読」タブに移動します。
 
 1. 受け取るメールアラートのタイプを、[!UICONTROL 名前]、[!UICONTROL アカウント]、[!UICONTROL タイプ]、[!UICONTROL 説明]のいずれかに基づいて選択できます。
 

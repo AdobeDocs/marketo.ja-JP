@@ -3,20 +3,25 @@ description: リリースノート - 2022年3月 - Marketo ドキュメント - 
 title: リリースノート - 2022年3月
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/amVJG5sw7MJlEVSEZzOCQINXWHh1ei1vyJf3KGnuOPA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '749'
-ht-degree: 97%
+source-wordcount: 785
+ht-degree: 96%
 
 ---
 
 # リリースノート：2022年3月 {#release-notes-mar-22}
 
-2022年3月リリースには、次の機能が含まれています。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+2022年3月リリースには、次の機能が含まれています。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
->星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。 詳細は Marketo Engage 担当営業にお問い合わせください。
 
 **_四半期リリース_**
 
@@ -24,9 +29,9 @@ ht-degree: 97%
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
-* **[!DNL Dynamic Chat]**：プロアクティブで魅力的な、1:1 のパーソナライズされた会話で、リードとアカウントの両方をターゲティングすることで、web サイト上のすべての機会を最大化します。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engage ユーザは、B2B マーケティングおよびセールスのユースケースに対して、統合されたクロスチャネルエクスペリエンスの主要部として、チャットを活用し始めることができます。チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
+* **[!DNL Dynamic Chat]**：積極的で魅力的な、1:1個のパーソナライズされた会話を使用して、リードとアカウントの両方をターゲットにすることで、web サイト上のあらゆる機会を最大化します。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engage ユーザは、B2B マーケティングおよびセールスのユースケースに対して、統合されたクロスチャネルエクスペリエンスの主要部として、チャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。 動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
 
-* **メールボットアクティビティのフィルタリング機能強化**：以前にリリースした[メールボットアクティビティのフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}を機能強化し、ボットとして識別されたアクティビティの記録をオプトインできるようになりました。ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
+* **メールボットアクティビティのフィルタリング機能強化**：以前にリリースした[メールボットアクティビティのフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}を機能強化し、ボットとして識別されたアクティビティの記録をオプトインできるようになりました。 ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
 
 ## 次世代エクスペリエンス {#modern-ux}
 
@@ -34,17 +39,17 @@ ht-degree: 97%
 
    * [!UICONTROL デザインスタジオ]でのフォームリスト表示（新しい一括アクションを含む）
 
-* **プログラムワークフローインポートのアップデート**：プログラムワークフローのインポートは、デザインと操作性をアップデートして機能強化した、次世代のエクスペリエンスで提供されます。切替スイッチはなく、自動的に変更されます。
+* **プログラムワークフローインポートのアップデート**：プログラムワークフローのインポートは、デザインと操作性をアップデートして機能強化した、次世代のエクスペリエンスで提供されます。 切替スイッチはなく、自動的に変更されます。
 
 * **次世代エクスペリエンス切替スイッチの管理者制御**：切替スイッチにアクセスできるユーザのタイプを管理者が選択できるように、次世代エクスペリエンスのロールアウトを管理します。
 
 ## エクスペリエンスの自動化 {#experience-automation}
 
-* **セルフサービスのフローステップ（ベータ版）**：スマートキャンペーンで使用するカスタマイズされたフローステップを作成する機能により、Marketo Engage とスタックの他の部分との接続性を拡張できます。Marketo のユーザとパートナーの両方がこの機能を活用して、（トリガーキャンペーンでのみ使用できる web フックとは異なり）バッチ、実行可能なキャンペーンで外部の web サービスを使用できます。
+* **セルフサービスのフローステップ（ベータ版）**：スマートキャンペーンで使用するカスタマイズされたフローステップを作成する機能により、Marketo Engage とスタックの他の部分との接続性を拡張できます。 Marketo のユーザとパートナーの両方がこの機能を活用して、（トリガーキャンペーンでのみ使用できる web フックとは異なり）バッチ、実行可能なキャンペーンで外部の web サービスを使用できます。
 
 * **アセットの有効期限**：Classic ユーザエクスペリエンスで、指定した日時に自動的に非アクティブ化するようにスケジュールを設定し、時間的制約のあるアセットとキャンペーンの制御を維持します。
 
-* **スマートキャンペーン優先度の上書き**：標準キャンペーン優先順位のトリガーを上書きする機能により、優先度の高いランキングスマートキャンペーンをすぐに実行できます。また、優先度の高い他のタスクの処理リソースを解放するために、優先度の低いトリガースマートキャンペーンの優先度を低くすることもできます。
+* **スマートキャンペーン優先度の上書き**：標準キャンペーン優先順位のトリガーを上書きする機能により、優先度の高いランキングスマートキャンペーンをすぐに実行できます。 また、優先度の高い他のタスクの処理リソースを解放するために、優先度の低いトリガースマートキャンペーンの優先度を低くすることもできます。
 
 ## API の強化 {#api-enhancements}
 
@@ -74,8 +79,8 @@ ht-degree: 97%
 
 ## お知らせ {#announcements}
 
-* **Marketo Sky の廃止**：Marketo Sky は 3月に利用できなくなります。これは、当社が次世代ユーザエクスペリエンスの提供にリソースを注力しているためです。Marketo Sky 専用の機能へのアクセスを維持するため、アセットの有効期限とスマートキャンペーンの優先順位の上書きが Classic エクスペリエンスに取り入れられます。[こちら](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
+* **Marketo Sky の廃止**：Marketo Sky は 3月に利用できなくなります。これは、当社が次世代ユーザエクスペリエンスの提供にリソースを注力しているためです。 Marketo Sky 専用の機能へのアクセスを維持するため、アセットの有効期限とスマートキャンペーンの優先順位の上書きが Classic エクスペリエンスに取り入れられます。 [こちら](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
 
 **_製品リリースウェビナー_**
 
-[2022年3月および5月の Marketo Engage リリースウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}
+[2022年3月と5月のMarketo Engage リリースウェビナー](https://engage.marketo.com/2022_March_May_Release_Webinar_DemandPage.html){target="_blank"}

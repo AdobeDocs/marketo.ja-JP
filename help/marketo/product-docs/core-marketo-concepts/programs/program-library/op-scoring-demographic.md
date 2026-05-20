@@ -1,20 +1,23 @@
 ---
-description: スコアリング人口統計学的運用プログラムテンプレート。 人口統計ベースのリードスコアリングに使用します。
+description: スコアリングデモグラフィック運用プログラムテンプレート。 デモグラフィックベースのリードスコアリングに利用できます。
 title: OP-スコアリング-デモグラフィック
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/AQLLsHWsrvSN0lyexi4HjCBc1L-Zh7-q-jc8R60O7RI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: 326
 ht-degree: 35%
 
 ---
 
 # OP-スコアリング-デモグラフィック {#op-scoring-demographic}
 
-これは、人口統計スコアリングにMarketo Engageのデフォルトプログラムを利用した、高度な（トークン化された）運用プログラムの例です。 プログラムの「マイトークン」タブでスコアリング値を表示および編集します。 「デモグラフィックスコア」というカスタムスコアフィールドが必要です。
+これは、デモグラフィックスコアリングにMarketo Engageのデフォルトプログラムを活用した、高度な（トークン化された）運用プログラムの例です。 プログラムの「マイトークン」タブでスコアリング値を表示および編集します。 「デモグラフィックスコア」というカスタムスコアフィールドが必要です。
 
-詳細な方法に関するサポートや、プログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームに問い合わせるか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} のページを参照してください。
+詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
 
 ## チャネルサマリ {#channel-summary}
 
@@ -22,7 +25,7 @@ ht-degree: 35%
  <tbody>
   <tr>
    <th>チャネル</th>
-   <th>メンバーシップのステータス</th>
+   <th>メンバーシップステータス</th>
    <th>アナリティクス動作</th>
    <th>プログラムのタイプ</th>
   </tr>
@@ -35,7 +38,7 @@ ht-degree: 35%
  </tbody>
 </table>
 
-## 必須フィールド {#prerequisite-fields}
+## 前提条件フィールド {#prerequisite-fields}
 
 <table style="table-layout:auto">
  <tbody>
@@ -64,7 +67,7 @@ ht-degree: 35%
   <tr>
    <td>スマートキャンペーン</td>
    <td> </td>
-   <td>汎用電子メールドメイン</td>
+   <td>汎用メールドメイン</td>
   </tr>
   <tr>
    <td>スマートキャンペーン</td>
@@ -114,7 +117,7 @@ ht-degree: 35%
   <tr>
    <td>フォルダー</td>
    <td> </td>
-   <td>汎用電子メールドメイン</td>
+   <td>汎用メールドメイン</td>
   </tr>
   <tr>
    <td>フォルダー</td>
@@ -131,7 +134,7 @@ ht-degree: 35%
 
 ![](assets/op-scoring-demographic-1.png)
 
-## 含まれるマイトークン {#my-tokens-included}
+## マイトークンが含まれています {#my-tokens-included}
 
 <table style="table-layout:auto">
  <tbody>
@@ -236,11 +239,11 @@ ht-degree: 35%
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
-   * このサブスクリプションにタグを作成 – _推奨_
+   * このサブスクリプションでタグを作成 – _おすすめ_
    * 無視
 
 * **同じ名前のランディングページテンプレート**
-   * 元のテンプレートをコピー – _推奨_
+   * 元のテンプレートをコピー – _おすすめ_
    * インポート先のテンプレートの使用
 
 * **同じ名前の画像**
@@ -253,6 +256,6 @@ ht-degree: 35%
 
 ## ベストプラクティス {#best-practices}
 
-* 構築された各キャンペーンは、ユースケースに固有ではなく、ベストプラクティスのビルドの例となることを目的としています。 特定のペイン ポイントとデータの課題に対処できるように、スマートキャンペーンを必ず更新してください。
+* 構築された各キャンペーンは、ユースケースに特化したものではなく、ベストプラクティスの構築の例となることを目的としています。 そのため、特定の課題やデータの課題に対処するために、スマートキャンペーンを忘れずに更新する必要があります。
 
 * 命名規則に合わせて、このプログラムの例の命名規則を更新することを検討してください。

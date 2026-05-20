@@ -1,11 +1,13 @@
 ---
-description: 販売メールのメールトラッキングについて説明します。 ビュー数、クリック数、返信数の追跡方法とログ記録方法を説明します。
+description: セールスメールのメールトラッキングについて詳しく見る。 ビュー、クリック、返信がどのように追跡され、ログに記録されるかを把握します。
 title: メールトラッキングの概要
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/y1dxCUs89NkZe9B7UHrWUUchy8BXlCtvg6OxRmqaKD8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: 500
 ht-degree: 89%
 
 ---
@@ -14,19 +16,19 @@ ht-degree: 89%
 
 ## 返信トラッキングの動作方法 {#how-reply-tracking-works}
 
-返信トラッキングは、送信するすべてのメールに含まれるメッセージ ID を調べることでおこなわれます。すべてのメールには、最適な返信トラッキングに利用できる一意のメッセージ ID が含まれています。
+返信トラッキングは、送信するすべてのメールに含まれるメッセージ ID を調べることでおこなわれます。 すべてのメールには、最適な返信トラッキングに利用できる一意のメッセージ ID が含まれています。
 
 >[!PREREQUISITES]
 >
->メールサーバーとの接続：新しい返信が届いた日時を知るには、[!DNL Sales Connect] をインボックスに接続する必要があります。[!DNL Sales Connect] アカウントを Gmail に接続する必要があります。Outlook を使用している場合は、Exchange サーバーと統合する必要があります。
+>メールサーバーとの接続：新しい返信が届いた日時を知るには、[!DNL Sales Connect] をインボックスに接続する必要があります。 [!DNL Sales Connect] アカウントを Gmail に接続する必要があります。 Outlook を使用している場合は、Exchange サーバーと統合する必要があります。
 
-[!DNL Sales Connect] が送信メールに対する見込み客の返信をトラックできない場合、返信検出に基づくキャンペーンを停止したり、その返信を Salesforce に記録したりすることはできません。どのメールアドレスでも返信できるとはどういう意味でしょうか？
+[!DNL Sales Connect] が送信メールに対する見込み客の返信をトラックできない場合、返信検出に基づくキャンペーンを停止したり、その返信を Salesforce に記録したりすることはできません。 どのメールアドレスでも返信できるとはどういう意味でしょうか？
 
-つまり、<flynn@flynnsarcade.com> にメールを送信し、そのユーザーが <kevinf@flynnsarcade.com> を使用して応答すると、返信を追跡できます。 さらに、<flynn@flynnsarcade.com> と CC <alan@encom.com> にメールを送信し、Alan が返信すると、返信を検出してキャンペーンも終了します。
+つまり、<flynn@flynnsarcade.com>に電子メールを送信し、<kevinf@flynnsarcade.com>で返信した場合、返信を追跡できます。 さらに、<flynn@flynnsarcade.com>とCC <alan@encom.com>に電子メールを送信し、Alanが返信を書き込んだ場合、返信も検出され、キャンペーンが終了します。
 
 ## メールの添付ファイルのトラッキング方法 {#how-to-track-your-email-attachments}
 
-[!DNL Sales Connect] では添付ファイル（.doc、.ppt、.pdf）のトラッキングが提供されるので、開封／ダウンロードした日時や、受信者がどのページを閲覧しているかを確認できます。[Web アプリケーション](https://toutapp.com/login)と Gmail（または Google Apps）の両方で、トラッキング可能な添付ファイル機能を使用できます。
+[!DNL Sales Connect] では添付ファイル（.doc、.ppt、.pdf）のトラッキングが提供されるので、開封／ダウンロードした日時や、受信者がどのページを閲覧しているかを確認できます。 [Web アプリケーション](https://toutapp.com/login)と Gmail（または Google Apps）の両方で、トラッキング可能な添付ファイル機能を使用できます。
 
 >[!NOTE]
 >
@@ -36,11 +38,11 @@ ht-degree: 89%
 
 1. メールを作成するかテンプレートを編集し、「**[!UICONTROL コンテンツ]**」ボタンをクリックします。
 
-1. 添付ファイルをアップロードして送信します。PDF、[!DNL Word] ドキュメント、[!DNL Powerpoint] プレゼンテーションをサポートしています。
+1. 添付ファイルをアップロードして送信します。 PDF、[!DNL Word] ドキュメント、[!DNL Powerpoint] プレゼンテーションをサポートしています。
 
 1. 「**[!UICONTROL メールに追加]**」を選択します。
 
-1. 「**[!UICONTROL 送信]**」をクリックして、ライブフィードを起動します。受信者が添付ファイルを開き、ページを閲覧していることが確認できます。
+1. 「**[!UICONTROL 送信]**」をクリックして、ライブフィードを起動します。 受信者が添付ファイルを開き、ページを閲覧していることが確認できます。
 
 >[!TIP]
 >
@@ -59,6 +61,6 @@ ht-degree: 89%
 
 ## テストメールが表示済みとされていない {#test-email-not-showed-as-viewed}
 
-別のメールアドレスにメッセージを送信した場合でも、自分に送信したメールがライブフィードに記録されることはありません。アドビのトラッキングはデバイスベースです。[!DNL Sales Connect] にログインしたコンピュータを使用している限り、そのアクティビティは除外されます。
+別のメールアドレスにメッセージを送信した場合でも、自分に送信したメールがライブフィードに記録されることはありません。 アドビのトラッキングはデバイスベースです。[!DNL Sales Connect] にログインしたコンピュータを使用している限り、そのアクティビティは除外されます。
 
-その理由は、[!DNL Sales Connect] はスマートであり、アクティブユーザは送信したメールを見るたびに、ライブフィードアクティビティに自分自身の情報を表示されたくはないからです。
+その理由は、 [!DNL Sales Connect] はスマートであり、アクティブユーザは送信したメールを見るたびに、ライブフィードアクティビティに自分自身の情報を表示されたくはないからです。

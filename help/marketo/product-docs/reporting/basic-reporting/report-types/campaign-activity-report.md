@@ -1,13 +1,17 @@
 ---
 unique-page-id: 2360057
-description: キャンペーン活動レポート campaign-activity-report など、Marketo Engageのキャンペーン活動レポートについて説明します。 このガイドを使用して、次の手順を完了します。
+description: Campaign アクティビティレポート campaign-activity-reportなど、Marketo Engageのキャンペーンアクティビティレポートについて説明します。 このガイドを使用して、次のステップを完了してください。
 title: キャンペーンアクティビティレポート
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/viQdAoYAe7zZlCEkibPytMEPaA-pKrAUxL8FS30EqMg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 91%
+source-wordcount: 236
+ht-degree: 90%
 
 ---
 
@@ -15,11 +19,11 @@ ht-degree: 91%
 
 [スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}のパフォーマンスを確認します。
 
-1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**キャンペーンアクティビティ**&#x200B;[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}を選択します。
+1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**キャンペーンアクティビティ**[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}を選択します。
 
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"}し、「**レポート**」タブをクリックします。
 
-1. これで完了です。レポートを参照して、キャンペーンタイプ別にグループ化して最も効果的なキャンペーンを特定します。
+1. これで完了です。 レポートを参照して、キャンペーンタイプ別にグループ化して最も効果的なキャンペーンを特定します。
 
 >[!NOTE]
 >

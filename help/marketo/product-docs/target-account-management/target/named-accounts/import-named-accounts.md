@@ -1,33 +1,35 @@
 ---
 unique-page-id: 12615800
-description: 名前付きアカウントを CSV ファイルから TAM に読み込む方法を説明します。 リストをアップロードし、アカウント名またはドメインで重複排除モードを選択し、フィールドをマッピングします。
+description: CSV ファイルからTAMに名前付きアカウントを読み込む方法について説明します。 リストをアップロードし、アカウント名またはドメインで重複排除モードを選択して、フィールドをマッピングします。
 title: '[!UICONTROL 重点顧客]の読み込み'
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/aLuxfKOeRsPYXa5i5l86wj-ACPyKcJ4-f3ecmIZq8s0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: 505
 ht-degree: 94%
 
 ---
 
 # [!UICONTROL 重点顧客]の読み込み {#import-named-accounts}
 
-ターゲット顧客の候補がいっぱいの CSV を既にお持ちの場合、TAM に直接読み込むことができます。
+ターゲット顧客の候補がいっぱいの CSV を既にお持ちの場合、 TAM に直接読み込むことができます。
 
 1. **[!UICONTROL 新規作成]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 重点顧客を読み込む]**」を選択します。
 
    ![](assets/inaone.png)
 
-1. 新しいウィンドウが開きます。「**[!UICONTROL 参照]**」をクリックし、読み込む重点顧客ファイルを選択します。
+1. 新しいウィンドウが開きます。 「**[!UICONTROL 参照]**」をクリックし、読み込む重点顧客ファイルを選択します。
 
    ![](assets/inatwo.png)
 
    >[!TIP]
    >
-   >ファイルで、[可能な限り多くの情報](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes)を提供します。追加できるのはファーモグラフィック情報のみです。Marketo が計算するもの（パイプライン）は追加できません。CRM 顧客に基づく重点顧客を作成するには、CRM から顧客名と CRM ID を CSV ファイルに書き出し、「顧客名」オプションを使用して、読み込みプロセス中に CRM ID をマッピングします。CRM 顧客を特定の顧客に適切にリンクするには、CRM 顧客の正確な名前を指定する必要があります。
+   >ファイルで、[可能な限り多くの情報](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes)を提供します。 追加できるのはファーモグラフィック情報のみです。Marketo が計算するもの（パイプライン）は追加できません。 CRM 顧客に基づく重点顧客を作成するには、CRM から顧客名と CRM ID を CSV ファイルに書き出し、「顧客名」オプションを使用して、読み込みプロセス中に CRM ID をマッピングします。 CRM 顧客を特定の顧客に適切にリンクするには、CRM 顧客の正確な名前を指定する必要があります。
 
-1. 顧客名またはドメイン名の 2 つの重複解除モードから選択します。この例では、顧客を選択します。**[!UICONTROL モード]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 顧客名別]**」を選択します。
+1. 顧客名またはドメイン名の 2 つの重複解除モードから選択します。 この例では、顧客を選択します。 **[!UICONTROL モード]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 顧客名別]**」を選択します。
 
    ![](assets/inathree.png)
 
@@ -43,7 +45,7 @@ ht-degree: 94%
    >
    >また、ドロップダウンボックスに名前を入力するだけで、新しい[!UICONTROL アカウントリスト]を作成することもできます。
 
-1. 読み込みの通知を送信するには、**[!UICONTROL アラートの送信先]**&#x200B;ドロップダウンリストから、Marketo ユーザを選択します。メールアドレスを手動で入力することは&#x200B;_できません_。
+1. 読み込みの通知を送信するには、**[!UICONTROL アラートの送信先]**&#x200B;ドロップダウンリストから、Marketo ユーザを選択します。 メールアドレスを手動で入力することは&#x200B;_できません_。
 
    ![](assets/inafive-2.png)
 
@@ -51,7 +53,7 @@ ht-degree: 94%
 
    ![](assets/inasix-2.png)
 
-1. 各フィールドをマッピングするには、**[!UICONTROL Marketo フィールド]**&#x200B;ドロップダウンから、適切なフィールドを選択します。終了したら「**[!UICONTROL 次へ]**」をクリックします。
+1. 各フィールドをマッピングするには、**[!UICONTROL Marketo フィールド]**&#x200B;ドロップダウンから、適切なフィールドを選択します。 終了したら「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/inaseven.png)
 
@@ -103,6 +105,6 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->Marketo が重点顧客を付加する際、[!UICONTROL 重点顧客]に含まれる必要のある人物を識別できるルールが（バックグラウンドで）更新されます。例：「IBM」を「米国 IBM」に更新すると、どちらの会社名を持つ人物が[!UICONTROL 重点顧客]に関連付けられます。
+>Marketo が重点顧客を付加する際、[!UICONTROL 重点顧客]に含まれる必要のある人物を識別できるルールが（バックグラウンドで）更新されます。 例：「IBM」を「米国 IBM」に更新すると、どちらの会社名を持つ人物が[!UICONTROL 重点顧客]に関連付けられます。
 
 Marketo が重複と見なすレコードを検出した場合は、最初のレコードのみが処理されます。

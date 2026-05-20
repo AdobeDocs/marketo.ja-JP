@@ -1,19 +1,22 @@
 ---
 unique-page-id: 2359740
-description: Marketo ランディングページを別のページにリダイレクトする方法を説明します。 訪問者がページにアクセスしたときに、別の URL に送信します。
+description: Marketo ランディングページを別のページにリダイレクトする方法について説明します。 訪問者がランディングページにアクセスした際に、別のURLに訪問者を誘導します。
 title: Marketo のランディングページを別のページにリダイレクトする
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/hL18plY9nu2Irs6QC8AEtjbLPzZLvJDhfRQYwDRCgls
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: 170
 ht-degree: 86%
 
 ---
 
 # Marketo のランディングページを別のページにリダイレクトする {#redirect-a-marketo-landing-page-to-another-page}
 
-ページの URL をアップデートした後で古い URL を引き続き機能させたい場合は、リダイレクトを試してください。設定は簡単です。
+ページの URL をアップデートした後で古い URL を引き続き機能させたい場合は、リダイレクトを試してください。 設定は簡単です。
 
 >[!NOTE]
 >

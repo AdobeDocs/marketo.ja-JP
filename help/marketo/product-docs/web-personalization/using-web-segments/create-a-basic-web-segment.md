@@ -1,13 +1,17 @@
 ---
 unique-page-id: 4719344
-description: 基本 web セグメントの作成 create-a-basic-web-segment を使用して、Marketo Engageで基本 web セグメントを作成する方法を説明します。 自信を持って次のステップに進みます。
+description: Marketo Engageで「基本web セグメントを作成」を使用して基本web セグメントを作成する方法について説明します。 自信を持って次のステップへ。
 title: 基本的な web セグメントの作成
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/RHxdeZJ-xUPxVuqPUVbpVk0FeVQcyiHGuE98tyHCPb4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 87%
+source-wordcount: 185
+ht-degree: 85%
 
 ---
 
@@ -31,7 +35,7 @@ ht-degree: 87%
 
    ![](assets/location-drag-hand.jpg)
 
-1. 追加する国をドロップダウンから選択します。「**米国**」を選択します。
+1. 追加する国をドロップダウンから選択します。 「**米国**」を選択します。
 
    ![](assets/image2015-5-28-15-3a29-3a15.png)
 
@@ -43,7 +47,7 @@ ht-degree: 87%
 
    ![](assets/industries-hand.jpg)
 
-1. ドロップダウンから追加する[!UICONTROL 業種]を選択します。「**[!UICONTROL 金融サービス]業界**」を選択します。
+1. ドロップダウンから追加する[!UICONTROL 業種]を選択します。 「**[!UICONTROL 金融サービス]業界**」を選択します。
 
    ![](assets/segment-industries.png)
 

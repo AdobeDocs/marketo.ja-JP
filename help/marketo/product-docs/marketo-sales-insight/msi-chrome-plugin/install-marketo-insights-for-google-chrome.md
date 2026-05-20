@@ -1,23 +1,26 @@
 ---
 unique-page-id: 1147326
-description: Google Chrome用のMarketo Insights をインストールする方法について説明します。 この拡張機能を追加すると、Gmail でリードとアカウントの情報およびアクティビティを表示できます。
+description: Google Chrome用Marketo Insightsのインストール方法について説明します。 拡張機能を追加して、Gmailでリードとアカウントの情報とアクティビティを表示します。
 title: Google Chrome への Marketo Insights のインストール
 exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/bfFWPwz73ef8582KYOQ-JNQPz02H3aC7vPpp0EAIJlY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 89%
+source-wordcount: 223
+ht-degree: 90%
 
 ---
 
 # [!DNL Google Chrome] への Marketo Insights のインストール {#install-marketo-insights-for-google-chrome}
 
-次の手順に従って、強力な Chrome アドインの使用を開始します。拡張機能をインストールするのに、Marketo 管理者である必要はありません。
+次の手順に従って、強力な Chrome アドインの使用を開始します。 拡張機能をインストールするのに、Marketo 管理者である必要はありません。
 
 >[!NOTE]
 >
->セールスインサイトアクションの機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用のセールスインサイトメールプラグインでは使用できません。現時点では、ユーザは、セールスインサイトメールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
+>セールスインサイトアクションの機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用のセールスインサイトメールプラグインでは使用できません。 現時点では、ユーザは、セールスインサイトメールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
 
 1. Chrome web ストアから、[Google Chrome アドイン拡張機能向け Marketo Insights](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} をインストールします。
 
@@ -27,7 +30,7 @@ ht-degree: 89%
 
    ![](assets/two.png)
 
-1. **[!UICONTROL Reg コード]**、**[!UICONTROL メールアドレス]**、**[!UICONTROL 名]**、**[!UICONTROL 姓]**&#x200B;を入力します。「**[!UICONTROL 確認して保存]**」をクリックします。
+1. **[!UICONTROL Reg コード]**、**[!UICONTROL メールアドレス]**、**[!UICONTROL 名]**、**[!UICONTROL 姓]**&#x200B;を入力します。 「**[!UICONTROL 確認して保存]**」をクリックします。
 
    ![](assets/three.png)
 
@@ -37,7 +40,7 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >Reg コードは、Marketo 管理者が [Marketo メールアドインライセンスを発行](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}した後に送信されるメールに記載されています。**Reg コードは 14 日後に有効期限が切れます**。
+   >Reg コードは、Marketo 管理者が [Marketo メールアドインライセンスを発行](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}した後に送信されるメールに記載されています。 **Reg コードは 14 日後に有効期限が切れます**。
 
 1. オフラインアクセスを許可するには、「**[!UICONTROL 許可]**」をクリックします。
 

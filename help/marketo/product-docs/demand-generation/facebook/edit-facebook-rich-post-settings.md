@@ -5,9 +5,12 @@ title: Facebook リッチ投稿設定の編集
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 feature: Integrations
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/eRrJ4Lgmy5HYhtbSFCjUZmk549-1D7kgaqK-uE6-jO0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: 313
 ht-degree: 76%
 
 ---
@@ -26,7 +29,7 @@ Marketo _ソーシャルアプリ_&#x200B;を使用すると、リードはFaceb
 
 ランディングページからの共有によって生成される [!DNL Facebook] リッチ投稿について、使用するページ情報のタイプを指定できます。
 
-1. _&#x200B;_[!DNL YouTube_]_&#x200B;動画またはソーシャルボタンのエディターで&#x200B;**[!UICONTROL Facebook メッセージ]**&#x200B;を選択します。
+1. __[!DNL YouTube_]_動画またはソーシャルボタンのエディターで&#x200B;**[!UICONTROL Facebook メッセージ]**を選択します。
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

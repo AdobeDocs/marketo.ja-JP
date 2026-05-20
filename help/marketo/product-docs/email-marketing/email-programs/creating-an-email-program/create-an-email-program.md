@@ -1,12 +1,15 @@
 ---
 unique-page-id: 1900591
-description: Marketoでメールプログラムを作成する方法を説明します。 オーディエンス、メール、スケジュールおよび承認を 1 か所で設定します。
+description: Marketoでメールプログラムを作成する方法を説明します。 オーディエンス、メール、スケジュール、承認を一元的に設定。
 title: メールプログラムの作成
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/tYpOfWjozk1q9NI4cFWZ38ymvC4mDgXYUm-XkLkKvhs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: 141
 ht-degree: 86%
 
 ---
@@ -29,11 +32,11 @@ ht-degree: 86%
 
    >[!NOTE]
    >
-   >「プログラムタイプ」として「**[!UICONTROL メール]**」を選択すると、「チャネル」は自動的に「**[!UICONTROL メール送信]**」に設定されます。必要に応じてこれを変更できます。
+   >「プログラムタイプ」として「**[!UICONTROL メール]**」を選択すると、「チャネル」は自動的に「**[!UICONTROL メール送信]**」に設定されます。 必要に応じてこれを変更できます。
 
    ![](assets/four.png)
 
-作業は以上です。プログラムがツリーに表示され、使用できる状態になります。次の手順では、オーディエンスを定義します。以下の Marketo 関連記事を参照してください。
+作業は以上です。 プログラムがツリーに表示され、使用できる状態になります。 次の手順では、オーディエンスを定義します。 以下の Marketo 関連記事を参照してください。
 
 >[!MORELIKETHIS]
 >

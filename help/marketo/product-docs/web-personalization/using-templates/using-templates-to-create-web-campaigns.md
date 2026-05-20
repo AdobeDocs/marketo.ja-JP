@@ -1,12 +1,16 @@
 ---
 unique-page-id: 2949168
-description: テンプレートを使用して、web キャンペーンを作成するテンプレートを使用し、Marketo Engageで web キャンペーンを作成する方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: テンプレートを使用して、Marketo Engageでテンプレートを使用してweb キャンペーンを作成する方法を説明します。 このガイドを使用して、次のステップを完了してください。
 title: テンプレートを使用した web キャンペーンの作成
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/t052UObfOcBxHN-HKeo1XTFUi2GLfsk1qf4KzfkpAz8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: 159
 ht-degree: 83%
 
 ---
@@ -59,7 +63,7 @@ ht-degree: 83%
 
    ![](assets/click-save-hand.jpg)
 
-これで完了です。テンプレートを使用するとどれだけ時間を節約できるかがおわかりになったとおもいます。
+これで完了です。 テンプレートを使用するとどれだけ時間を節約できるかがおわかりになったとおもいます。
 
 >[!MORELIKETHIS]
 >

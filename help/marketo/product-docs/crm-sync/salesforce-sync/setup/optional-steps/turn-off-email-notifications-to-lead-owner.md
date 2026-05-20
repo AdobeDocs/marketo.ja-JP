@@ -1,19 +1,21 @@
 ---
 unique-page-id: 13795802
-description: リードが割り当てられた際に、Salesforceのリードオーナーに対するメール通知をオフにする方法を説明します。
+description: リードが割り当てられたときにSalesforceでリードオーナーへのメール通知をオフにする方法を説明します。
 title: リード所有者へのメール通知をオフにする
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/xN0jAy8BGiK2mshzGkGizV6-BwMmFd4nC1EaVFk0-oE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: 74
 ht-degree: 77%
 
 ---
 
 # リード所有者へのメール通知をオフにする {#turn-off-email-notifications-to-lead-owner}
 
-リード割り当て時に [!DNL Salesforce] のリード所有者に送信される自動メール通知をオフにできます。手順は次のとおりです。
+リード割り当て時に [!DNL Salesforce] のリード所有者に送信される自動メール通知をオフにできます。 手順は以下のとおりです。
 
 1. 「**[!UICONTROL 管理者]**」に移動します。
 
@@ -27,6 +29,6 @@ ht-degree: 77%
 
    ![](assets/salesforcesummary2.jpg)
 
-1. 「**[!UICONTROL リード割り当て時に Salesforce で所有者にメール通知を送信]**」のチェックをオフにします。「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL リード割り当て時に Salesforce で所有者にメール通知を送信]**」のチェックをオフにします。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/new-screen.png)

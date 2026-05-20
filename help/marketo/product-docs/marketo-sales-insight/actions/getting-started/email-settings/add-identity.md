@@ -1,11 +1,13 @@
 ---
-description: Sales Insight Actions でメール ID を追加する方法を説明します。 メールの下の設定で送信アドレスを追加して確認します。
+description: Sales Insight Actionsで電子メール IDを追加する方法を説明します。 電子メールの設定で送信元アドレスを追加して確認します。
 title: ID を追加
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/Ks7LppvQ13D6463U27VN7UMbjS8lfx2WAxii9XCxAig
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: 197
 ht-degree: 89%
 
 ---
@@ -16,7 +18,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->複数の ID の使用は、Gmail または Outlook／Exchange 配信チャネルではサポートされていません。Gmail および Outlook／Exchange は、ユーザーレベルで認証するので、接続されたメールアドレスからのメールのみが送信されます。異なるメールアドレスで複数の ID を使用するには、送信元のメールドメインを登録できるサードパーティ SMTP プロバイダー（メール配信チャネル）に接続する必要があります。これにより、ユーザーは、SMTP 配信チャネルに接続して、登録されたドメインである限り、任意のメールアドレスから送信できます。
+>複数の ID の使用は、Gmail または Outlook／Exchange 配信チャネルではサポートされていません。 Gmail および Outlook／Exchange は、ユーザーレベルで認証するので、接続されたメールアドレスからのメールのみが送信されます。 異なるメールアドレスで複数の ID を使用するには、送信元のメールドメインを登録できるサードパーティ SMTP プロバイダー（メール配信チャネル）に接続する必要があります。 これにより、ユーザーは、SMTP 配信チャネルに接続して、登録されたドメインである限り、任意のメールアドレスから送信できます。
 
 1. 設定アイコンをクリックします。
 
@@ -34,7 +36,7 @@ ht-degree: 89%
 
    ![](assets/add-identity-4.png)
 
-1. その後、「メールアドレスを確認してください」というメールが届きます。確認するには、「**[!UICONTROL メールアドレスを確認]**」をクリックします。
+1. その後、「メールアドレスを確認してください」というメールが届きます。 確認するには、「**[!UICONTROL メールアドレスを確認]**」をクリックします。
 
    ![](assets/add-identity-5.png)
 

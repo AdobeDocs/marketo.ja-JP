@@ -4,10 +4,12 @@ description: MarketoからパーソナライズされたURLを含むリストを
 title: パーソナライズされた URL を含むリストのエクスポート
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 86%
+source-wordcount: 170
+ht-degree: 42%
 
 ---
 
@@ -18,7 +20,7 @@ ht-degree: 86%
 >* [アカウントでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [ランディングページでパーソナライズ URL を有効にする](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. リストまたはスマートリストを選択し、「**[!UICONTROL リード]**」タブをクリックして結果を取得し、excel アイコンをクリックします。 インライン：**[!UICONTROL Marketo の一意のコード]**&#x200B;と **[!UICONTROL Marketo の一意の名前]**&#x200B;[列が表示されていることを確認してください。](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)
+1. リストまたはスマートリストを選択し、「**[!UICONTROL リード]**」タブをクリックして結果を取得し、Excel アイコンをクリックします。 **[!UICONTROL Marketo固有コード]**&#x200B;と&#x200B;**[!UICONTROL Marketo固有の名前]** [列が表示されていることを確認してください](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md)。
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -32,17 +34,15 @@ ht-degree: 86%
 
    >[!TIP]
    >
-   >同じランディングページに複数の URL が表示される場合、過去のある時点でページの URL を変更し、リダイレクトを作成したことが原因である可能性があります。
+   >同じランディングページに複数のURLが表示される場合は、過去のある時点でページのURLを変更し、リダイレクトを作成したことが原因である可能性があります。
 
 1. 「**[!UICONTROL スタイル]**」を選択して「**[!UICONTROL エクスポート]**」をクリックします。
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
-1. エクスポートが完了したら、「**[!UICONTROL 今すぐダウンロード]**」リンクをクリックしてファイルを保存します。
+1. 書き出しが完了したら、「**[!UICONTROL 今すぐダウンロード]**」リンクをクリックしてファイルを保存します。
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
-
-   これで完了です。 これで、リードとパーソナライズされた URL のリストが作成されました。
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 

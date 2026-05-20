@@ -4,16 +4,20 @@ description: リリースノート - 2015 年 4 月 - Marketo ドキュメント
 title: リリースノート - 2015 年 4 月
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ic7dYiKiLn9iETyfgyq3Lz28S2-8oOvTnsUHGV7anKw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: c18d9e03-ac7d-4811-9c92-3e92ddc70ade
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: 318
 ht-degree: 100%
 
 ---
 
 # リリースノート：2015 年 4 月 {#release-notes-april}
 
-2015 年 4 月リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
+2015 年 4 月リリースには、次の機能が含まれています。 利用可能な機能についてはお使いの Marketo のエディションをご確認ください。 リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
 
 ## 分析ホームの再設計
 
@@ -27,13 +31,13 @@ ht-degree: 100%
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
-また、非公開または共有のレポート組織も使用できるようになりました。レポートを作成するか[!UICONTROL マイレポート]フォルダーにドラッグして、他のユーザによる表示、編集、削除を禁止します。[!UICONTROL グループレポート]は、すべてのユーザで共有されます。
+また、非公開または共有のレポート組織も使用できるようになりました。 レポートを作成するか[!UICONTROL マイレポート]フォルダーにドラッグして、他のユーザによる表示、編集、削除を禁止します。 [!UICONTROL グループレポート]は、すべてのユーザで共有されます。
 
 ## Marketo モバイルエンゲージメント {#marketo-mobile-engagement}
 
 **Marketo モバイルエンゲージメント**
 
-Marketo モバイルエンゲージメントを使用すれば、魅力的なモバイルエクスペリエンスを簡単に提供できます。アプリ開発チームに頼ることなく、パーソナライズされた高度にパーソナライズされたキャンペーンを作成し、説得力のあるコンテンツを提供します。新しいフィルターおよびトリガーを使用すると、プッシュ通知を通じてモバイルチャネルをリッスンし、応答できます。
+Marketo モバイルエンゲージメントを使用すれば、魅力的なモバイルエクスペリエンスを簡単に提供できます。 アプリ開発チームに頼ることなく、パーソナライズされた高度にパーソナライズされたキャンペーンを作成し、説得力のあるコンテンツを提供します。 新しいフィルターおよびトリガーを使用すると、プッシュ通知を通じてモバイルチャネルをリッスンし、応答できます。
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -41,7 +45,7 @@ Marketo モバイルエンゲージメントを使用すれば、魅力的なモ
 
 [[!DNL LinkedIn] Lead Accelerator の統合](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-リード育成戦略を有料ディスプレイ広告とソーシャル広告に拡張します。[!DNL LinkedIn] Lead Accelerator との[広告ネットワーク統合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)を使用すると、任意のスマートリストまたは静的リストのメンバーに基づいて、[!DNL LinkedIn] 内でオーディエンスセグメントを安全に作成できます。その後、[!DNL LinkedIn] のオーディエンスセグメント内のメンバーを、関連する一連の広告を使用して育成できます。
+リード育成戦略を有料ディスプレイ広告とソーシャル広告に拡張します。 [!DNL LinkedIn] Lead Accelerator との[広告ネットワーク統合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)を使用すると、任意のスマートリストまたは静的リストのメンバーに基づいて、[!DNL LinkedIn] 内でオーディエンスセグメントを安全に作成できます。 その後、[!DNL LinkedIn] のオーディエンスセグメント内のメンバーを、関連する一連の広告を使用して育成できます。
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
@@ -55,4 +59,4 @@ Marketo モバイルエンゲージメントを使用すれば、魅力的なモ
 
 **RTP - アカウントベースドマーケティング分析**
 
-アカウントリストの新しい効果グラフを使用して、購入サイクルの各段階に基づく主要アカウントリストの効果を即座に表示できます。グラフは、主要な組織からの訪問のステージを、訪問者数と訪問者のステータスに基づいて、意識から行動に移すまでのあらゆる段階で表示します。
+アカウントリストの新しい効果グラフを使用して、購入サイクルの各段階に基づく主要アカウントリストの効果を即座に表示できます。 グラフは、主要な組織からの訪問のステージを、訪問者数と訪問者のステータスに基づいて、意識から行動に移すまでのあらゆる段階で表示します。

@@ -1,12 +1,14 @@
 ---
 unique-page-id: 14746176
-description: Sales Connect の登録解除リンクのランディングページについて説明します。 受信者が「購読解除」をクリックしたときに表示されるページをカスタマイズします。
+description: セールスコネクトの購読解除リンクのランディングページについて説明します。 受信者が「配信停止」をクリックしたときに表示されるページをカスタマイズします。
 title: リンクの登録解除ランディングページ
 exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/99Q9QG-NsyL4ETfwyzGkyIavhWpTnqc50ldFepBDxVs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: 69
 ht-degree: 72%
 
 ---
@@ -17,4 +19,4 @@ ht-degree: 72%
 
 ![](assets/1.jpg)
 
-この情報はユーザー詳細ビューに保存され、後で確認されます。
+この情報は、後で表示するために人物の詳細表示に保存されます。

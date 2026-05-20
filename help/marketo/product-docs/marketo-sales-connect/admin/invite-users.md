@@ -1,12 +1,14 @@
 ---
 unique-page-id: 14352402
-description: Sales Connect アカウントにユーザーを招待する方法を説明します。 設定とユーザー管理でチームメンバーを追加し、クイックオンボーディングを実現します。
+description: Sales Connect アカウントにユーザーを招待する方法について説明します。 設定とユーザー管理でチームメンバーを追加し、すばやくオンボーディングできます。
 title: ユーザーの招待
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/N0ZY75CwdkxCT6PfwBZgK5knAKsYWGA3pwupSLF5AL0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: 75
 ht-degree: 72%
 
 ---
@@ -33,7 +35,7 @@ ht-degree: 72%
 
    >[!NOTE]
    >
-   >デフォルトでは、すべての新規メンバーが「全員」チームに追加されます。
+   >デフォルトでは、すべての新規メンバーが全員チームに追加されます。
 
 1. 「**[!UICONTROL OK]**」をクリックします。
 

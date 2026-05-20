@@ -1,13 +1,16 @@
 ---
 unique-page-id: 11377552
-description: Outlook 用のMarketo Sales Insight プラグイン管理者を指定する方法を説明します。 組織のアドインを管理できるユーザーを指定します。
+description: Outlook用のMarketo Sales Insight プラグイン管理者を指定する方法について説明します。 組織のアドインを管理できるユーザーを指定します。
 title: Marketo [!UICONTROL セールスインサイト]プラグイン管理者の指定
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/9c3rukRLFdi26iJHvvyH4jij4kSbz1sui7Rz0j9faW8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 80%
+source-wordcount: 103
+ht-degree: 79%
 
 ---
 

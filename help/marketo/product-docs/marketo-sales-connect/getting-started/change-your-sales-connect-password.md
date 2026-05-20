@@ -1,18 +1,20 @@
 ---
-description: Sales Connect のパスワードを変更する方法を説明します。 アカウントを安全に保つために、設定からパスワードを更新します。
+description: セールスコネクトのパスワードを変更する方法について説明します。 設定からパスワードを更新して、アカウントを安全に保ちます。
 title: Sales Connect のパスワードの変更
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/CPibiRdNQiKEBcSidAxqbB-c-9-8ihPuGPjnp-U6V08
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: 184
 ht-degree: 90%
 
 ---
 
 # Sales Connect のパスワードの変更 {#change-your-sales-connect-password}
 
-パスワードを変更する必要がある場合、手順は次のとおりです。
+パスワードを変更する必要がある場合、 手順は次のとおりです。
 
 ## サインイン中のパスワード変更 {#change-your-password-while-signed-in}
 
@@ -20,11 +22,11 @@ ht-degree: 90%
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. デフォルトで[!UICONTROL マイプロファイル]ページが開きます。「[!UICONTROL アカウントの詳細]」で、「**[!UICONTROL パスワードを変更]**」チェックボックスを選択します。
+1. デフォルトで[!UICONTROL マイプロファイル]ページが開きます。 「[!UICONTROL アカウントの詳細]」で、「**[!UICONTROL パスワードを変更]**」チェックボックスを選択します。
 
    ![](assets/change-your-sales-connect-password-2.png)
 
-1. 現在のパスワードを入力します。次に、新しいパスワードを入力し、再度入力して一致することを確認します。終了したら「**[!UICONTROL 保存]**」をクリックします。
+1. 現在のパスワードを入力します。 次に、新しいパスワードを入力し、再度入力して一致することを確認します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/change-your-sales-connect-password-3.png)
 
@@ -47,7 +49,7 @@ ht-degree: 90%
 
    ![](assets/change-your-sales-connect-password-5.png)
 
-1. アカウントの所有者がパスワードを変更することを確認するメールが送信されます。「**[!UICONTROL パスワードをリセット]**」をクリックします。
+1. アカウントの所有者がパスワードを変更することを確認するメールが送信されます。 「**[!UICONTROL パスワードをリセット]**」をクリックします。
 
    ![](assets/change-your-sales-connect-password-6.png)
 
@@ -55,6 +57,6 @@ ht-degree: 90%
    >
    >スパムフォルダーも必ず確認してください。このメールがスパムフォルダーに入ってしまう場合があります。
 
-1. 新しいパスワードを入力し、確認します。入力したら、「**[!UICONTROL パスワードを設定]**」をクリックします。
+1. 新しいパスワードを入力し、確認します。 入力したら、「**[!UICONTROL パスワードを設定]**」をクリックします。
 
    ![](assets/change-your-sales-connect-password-7.png)

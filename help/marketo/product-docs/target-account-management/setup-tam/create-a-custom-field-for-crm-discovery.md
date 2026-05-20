@@ -1,13 +1,15 @@
 ---
 unique-page-id: 12978647
-description: カスタムの名前付きアカウントフィールドを作成し、CRM にマッピングして、CRM アカウント検出で使用する方法を説明します。 CRM の検出グリッドのマッピングされたデータを参照してください。
+description: カスタムの名前付きアカウントフィールドを作成してCRMにマッピングし、CRM アカウントの検出で使用する方法について説明します。 「CRMの検索」グリッドのマッピング済みデータを参照してください。
 title: CRM 検出用のカスタムフィールドの作成
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/sZsRCayMv2-B3mq0bm7uj5jExDKSTTx6-HB-ALBVuB0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 80%
+source-wordcount: 155
+ht-degree: 81%
 
 ---
 
@@ -35,7 +37,7 @@ ht-degree: 80%
 
    ![](assets/five-3.png)
 
-1. フィールドが作成されたら、右側のツリーから選択します。**[!UICONTROL フィールドアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL CRM フィールドにマッピング]**」を選択します。
+1. フィールドが作成されたら、右側のツリーから選択します。 **[!UICONTROL フィールドアクション]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL CRM フィールドにマッピング]**」を選択します。
 
    ![](assets/six-2.png)
 

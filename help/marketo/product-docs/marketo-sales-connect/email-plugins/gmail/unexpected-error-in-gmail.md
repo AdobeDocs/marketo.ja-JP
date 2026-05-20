@@ -1,13 +1,15 @@
 ---
 unique-page-id: 14352545
-description: Sales Connect Gmail プラグインで予期しないエラーが発生した場合は、お問い合わせください。 接続エラーとプラグインエラーのトラブルシューティング。
+description: Sales Connect Gmail プラグインで予期しないエラーが発生した場合にヘルプを表示します。 接続エラーとプラグインエラーのトラブルシューティング。
 title: Gmail での予期しないエラー
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/dJWrlEZcu0Y7WcKjxnA15QJEkv3p9IYSvhz5Wbhg-Ak
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 81%
+source-wordcount: 107
+ht-degree: 82%
 
 ---
 
@@ -21,4 +23,4 @@ ht-degree: 81%
 
 1. 切断後、「**[!UICONTROL Google に接続]**」をクリックします。
 
-   再接続したら、Gmail に戻ってページを更新し、メールの送信を再試行してください。それでも問題が解決しない場合は、サポートチームに[チケットを送信](https://nation.marketo.com/t5/Support/ct-p/Support)してください。
+   再接続したら、Gmail に戻ってページを更新し、メールの送信を再試行してください。 それでも問題が解決しない場合は、サポートチームに[チケットを送信](https://nation.marketo.com/t5/Support/ct-p/Support)してください。

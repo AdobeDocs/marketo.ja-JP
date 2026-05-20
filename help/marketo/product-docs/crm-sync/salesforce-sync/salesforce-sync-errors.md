@@ -1,18 +1,20 @@
 ---
-description: MarketoでSalesforce同期エラーを表示およびフィルタリングする方法を説明します。 レコードレベルおよびジョブレベルのエラーを参照し、エラーの詳細を使用して同期の問題のトラブルシューティングを行います。
+description: MarketoでSalesforceの同期エラーを表示およびフィルタリングする方法について説明します。 レコードレベルおよびジョブレベルのエラーを参照し、エラーの詳細を使用して同期の問題をトラブルシューティングします。
 title: Salesforce 同期エラー
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/vEPgjXh8QKyzC1AiAhRqf4tF-MZpu9GETxrRAJHYVIo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 87%
+source-wordcount: 197
+ht-degree: 86%
 
 ---
 
 # [!DNL Salesforce] 同期エラー {#salesforce-sync-errors}
 
-同期処理中に発生したエラーの概要を表示します。これには、互換性のないデータの同期に対する失敗によるエラーも含まれます。
+同期処理中に発生したエラーの概要を表示します。 これには、互換性のないデータの同期に対する失敗によるエラーも含まれます。
 
 >[!NOTE]
 >
@@ -20,7 +22,7 @@ ht-degree: 87%
 
 ## 同期エラーの表示 {#view-sync-errors}
 
-1. 「**[!UICONTROL 管理]**」をクリックします。
+1. 「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/salesforce-sync-errors-1.png)
 
@@ -40,7 +42,7 @@ ht-degree: 87%
 
 >[!TIP]
 >
->レコードレベルのレコードをクリックすると、関連オブジェクトの Marketo ID および [!DNL Salesforce] ID が表示されます。場合によっては、レコードレベルおよびジョブレベルのエラーのメッセージは、[!DNL Salesforce] から直接送信されます。オンラインで検索すると、追加の詳細が表示される場合があります。
+>レコードレベルのレコードをクリックすると、関連オブジェクトの Marketo ID および [!DNL Salesforce] ID が表示されます。 場合によっては、レコードレベルおよびジョブレベルのエラーのメッセージは、[!DNL Salesforce] から直接送信されます。 オンラインで検索すると、追加の詳細が表示される場合があります。
 
 ## 同期エラーのフィルタリング {#filter-sync-errors}
 
@@ -48,10 +50,10 @@ ht-degree: 87%
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. 日付と時間の範囲を選択して、エラータイプ（ジョブレベルまたはレコードレベル）でフィルタリングします。終了したら「**[!UICONTROL 適用]**」をクリックします。
+1. 日付と時間の範囲を選択して、エラータイプ（ジョブレベルまたはレコードレベル）でフィルタリングします。 終了したら「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**オプションの手順**：同期エラーをエクスポートするには、「**[!UICONTROL エクスポート]**」をクリックします。データは CSV としてエクスポートされます。
+**オプションの手順**：同期エラーをエクスポートするには、「**[!UICONTROL エクスポート]**」をクリックします。 データは CSV としてエクスポートされます。
 
 ![](assets/salesforce-sync-errors-5.png)

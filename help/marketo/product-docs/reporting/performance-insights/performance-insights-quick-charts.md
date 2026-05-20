@@ -1,12 +1,16 @@
 ---
 unique-page-id: 12980873
-description: 頻繁に使用するグラフビューに対して、パフォーマンスインサイトでクイックグラフを作成および保存する方法を説明します。 迅速にアクセスできるように、特定のフィルターと指標を使用して最大 20 個のカスタムグラフを保存します。
+description: 頻繁に使用するチャート ビューのPerformance Insightsでクイック チャートを作成および保存する方法について説明します。 特定のフィルターと指標を使用して、最大20個のカスタムチャートを保存し、すばやくアクセスできます。
 title: パフォーマンスインサイトのクイックグラフ
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/HexlwsIZhrhJaNKzjgWO6yZNajkM-sg2HkV7G7apyCw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: 209
 ht-degree: 85%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 85%
 
 ## 新しいクイックグラフの作成 {#create-a-new-quick-chart}
 
-[!UICONTROL クイックグラフ]は、指定したデータから取得されます。この例では、**新しい商談（ファーストタッチ）、商談のタイプとして新しいビジネス、日付として年初から本日**&#x200B;を選択します。
+[!UICONTROL クイックグラフ]は、指定したデータから取得されます。 この例では、**新しい商談（ファーストタッチ）、商談のタイプとして新しいビジネス、日付として年初から本日**&#x200B;を選択します。
 
 1. 日付フィルターをクリックし、「**[!UICONTROL 現在の年（YTD）]**」を選択します。
 
@@ -45,7 +49,7 @@ ht-degree: 85%
 
 >[!NOTE]
 >
->最大 20 個のクイックグラフを使用できます。削除して置き換えることができます。
+>最大 20 個のクイックグラフを使用できます。 削除して置き換えることができます。
 
 ## 既存のクイックグラフの表示 {#view-existing-quick-charts}
 
@@ -61,7 +65,7 @@ ht-degree: 85%
 
    ![](assets/8-1.png)
 
-1. 目的のグラフにカーソルを置きます。ただし、クリックはしません。カーソルを合わせると、「X」が表示されます。「**X**」をクリックします。
+1. 目的のグラフにカーソルを置きます。ただし、クリックはしません。 カーソルを合わせると、「X」が表示されます。 「**X**」をクリックします。
 
    ![](assets/9-2.png)
 

@@ -1,22 +1,26 @@
 ---
-description: Salesforce Classic のリストビューに一括アクションボタンを追加する方法を説明します。 「Send Sales Email」ボタンと「Add to Sales Campaign」ボタンを追加します。
+description: Salesforce Classicのリストビューにバルクアクションボタンを追加する方法について説明します。 「セールスメールを送信」および「セールスキャンペーンに追加」ボタンを追加します。
 title: Salesforce Classic への一括アクションボタンの追加
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/V678Fl7lDnyqm8Wbrct-F6boGtjFlNO9VY1o9TrDE5w
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: 126
 ht-degree: 81%
 
 ---
 
 # [!DNL Salesforce] への一括アクションボタンの追加{#add-bulk-action-buttons-to-salesforce-classic}
 
-[!DNL Salesforce] レイアウトに Marketo ボタンを追加できます。次に例を示します。
+[!DNL Salesforce] レイアウトに Marketo ボタンを追加できます。 次に例を示します。
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. 「**[!UICONTROL 設定]**」をクリックします。「[!UICONTROL 検索レイアウト]」を検索し、「**[!UICONTROL リード]**」の下の「**[!UICONTROL 検索レイアウト]**」をクリックします。
+1. 「**[!UICONTROL 設定]**」をクリックします。 「[!UICONTROL 検索レイアウト]」を検索し、「**[!UICONTROL リード]**」の下の「**[!UICONTROL 検索レイアウト]**」をクリックします。
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 

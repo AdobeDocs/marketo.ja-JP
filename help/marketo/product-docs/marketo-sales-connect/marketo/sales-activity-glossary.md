@@ -1,18 +1,21 @@
 ---
-description: Sales Connect 販売アクティビティの利用条件について説明します。 この用語集は、MarketoとSalesforceに同期するアクティビティタイプに使用します。
+description: セールスコネクトのセールスアクティビティの用語について説明します。 この用語集は、MarketoとSalesforceに同期するアクティビティタイプに使用します。
 title: セールスアクティビティ用語集
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: 597
 ht-degree: 96%
 
 ---
 
 # セールスアクティビティ用語集 {#sales-activity-glossary}
 
-Sales Connect で、販売者がセールスケイデンスにリードを追加したり、メールを送信したり、通話をアクティビティに送信したりすると、Marketo のアクティビティ履歴に記録されます。さらに、リードがメールに関与した場合、開封数、クリック数、返信数もログに記録されます。
+Sales Connect で、販売者がセールスケイデンスにリードを追加したり、メールを送信したり、通話をアクティビティに送信したりすると、Marketo のアクティビティ履歴に記録されます。 さらに、リードがメールに関与した場合、開封数、クリック数、返信数もログに記録されます。
 
 以下のアクティビティは、[!DNL Sales Connect] から Marketo に記録されます。
 
@@ -300,11 +303,11 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   </tr>
   <tr>
    <td><strong>[!UICONTROL ソース]</strong></td>
-   <td>アクティビティのソース。2021年10月のリリースより前では [!DNL Sales Connect] アクティビティは「Tout」に設定されます。2021年10月のリリースより後では [!DNL Sales Connect] アクティビティは「Sales App」に設定されます。</td>
+   <td>アクティビティのソース。 2021年10月のリリースより前では [!DNL Sales Connect] アクティビティは「Tout」に設定されます。 2021年10月のリリースより後では [!DNL Sales Connect] アクティビティは「Sales App」に設定されます。</td>
   </tr>
   <tr>
    <td><strong>[!UICONTROL テンプレート ID]</strong></td>
-   <td>ソースが Tout の場合、テンプレート ID は [!DNL Marketo Sales Connect] テンプレート ID になります。複数のテンプレートに存在する可能性のある件名の代わりに、特定のテンプレートをターゲットにする場合に使用します。
+   <td>ソースが Tout の場合、テンプレート ID は [!DNL Marketo Sales Connect] テンプレート ID になります。 複数のテンプレートに存在する可能性のある件名の代わりに、特定のテンプレートをターゲットにする場合に使用します。
 </td>
   </tr>
  </tbody>

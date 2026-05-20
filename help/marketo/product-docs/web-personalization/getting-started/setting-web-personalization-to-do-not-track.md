@@ -1,21 +1,25 @@
 ---
 unique-page-id: 11382593
-description: Web パーソナライゼーションをに設定するなど、web パーソナライゼーションをMarketo Engageでトラッキングしないように設定する方法について説明します。 このガイドを使用して、次の手順を完了します。
+description: web パーソナライゼーションをに設定するなど、Marketo Engageでweb パーソナライゼーションをトラッキングしないように設定する方法について説明します。 このガイドを使用して、次のステップを完了してください。
 title: Web パーソナライゼーションを追跡しないように設定する
 exl-id: 9c60cd6b-4244-4472-90fa-4ba9fa9a4f34
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/A0tlq8LE2lrjor1nYTB5z5TjcYNccL3XEdjIkMQHERk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: 204
 ht-degree: 87%
 
 ---
 
 # [!UICONTROL Web パーソナライゼーション]を追跡しないように設定 {#setting-web-personalization-to-do-not-track}
 
-Web 訪問者は、「Do Not Track」（DNT）を選択して、どのウェブサイトでもトラッキングを防ぐようにブラウザーを設定できます。これにより、特定のブラウザーおよびデバイスでのトラッキングを防ぐことができます。
+Web 訪問者は、「Do Not Track」（DNT）を選択して、どのウェブサイトでもトラッキングを防ぐようにブラウザーを設定できます。 これにより、特定のブラウザーおよびデバイスでのトラッキングを防ぐことができます。
 
-[!UICONTROL Web パーソナライゼーション]および[!UICONTROL 予測コンテンツ]では、マーケターは、ブラウザーの「Do Not Track」（DNT）設定をサポートするか無視するかを切り替えて設定できます。アカウントでの切り替えは、デフォルトでオフに設定されています。これは、アプリケーションで DNT が有効でないことを意味します。
+[!UICONTROL Web パーソナライゼーション]および[!UICONTROL 予測コンテンツ]では、マーケターは、ブラウザーの「Do Not Track」（DNT）設定をサポートするか無視するかを切り替えて設定できます。 アカウントでの切り替えは、デフォルトでオフに設定されています。これは、アプリケーションで DNT が有効でないことを意味します。
 
 ## 切り替えを有効または無効にする {#enable-or-disable-the-toggle}
 

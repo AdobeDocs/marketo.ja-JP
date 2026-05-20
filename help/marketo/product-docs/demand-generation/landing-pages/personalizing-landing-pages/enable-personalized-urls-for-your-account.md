@@ -1,19 +1,21 @@
 ---
 unique-page-id: 2359810
-description: Marketo アカウントのパーソナライズされた URL を有効にする方法について説明します。 この機能を設定して、ランディングページでパーソナライズされた URL を使用できるようにします。
+description: Marketo アカウントのパーソナライズされたURLを有効にする方法について説明します。 ランディングページでパーソナライズされたURLを使用できるように、この機能を設定します。
 title: アカウントでパーソナライズ URL を有効にする
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/As1NwttcwB-zbe-UNOF1tuYcot34gZcb3UH-lnQcRAM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 79%
+source-wordcount: 111
+ht-degree: 57%
 
 ---
 
 # アカウントでパーソナライズ URL を有効にする {#enable-personalized-urls-for-your-account}
 
-パーソナライズ URL は、招待状を郵送するなど紙媒体のキャンペーンをおこなうのに適しています。
+パーソナライズされたURLは、印刷メールキャンペーンに適しています。
 
 >[!NOTE]
 >
@@ -31,7 +33,7 @@ ht-degree: 79%
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-完成です。これで、アカウントで PURL を有効にしたので、個々のランディングページで PURL を有効にできます。
+アカウントのPURLを有効にしました。 個々のランディングページに対してそれらを有効にすることができます。
 
 >[!NOTE]
 >

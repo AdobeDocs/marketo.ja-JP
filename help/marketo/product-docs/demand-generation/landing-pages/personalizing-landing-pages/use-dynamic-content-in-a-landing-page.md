@@ -1,13 +1,18 @@
 ---
 unique-page-id: 2359532
-description: Marketo ランディングページで動的コンテンツを使用する方法を説明します。 様々なセグメントや訪問者に異なるコンテンツを表示します。
+description: Marketoのランディングページで動的コンテンツを使用する方法を説明します。 セグメントや訪問者に合わせて異なるコンテンツを表示。
 title: ランディングページでの動的コンテンツの使用
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/RuwAISV2vhWpTHsJoE5ny6KRSJf8QA3J-JVrA-gF7oo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 90%
+source-wordcount: 209
+ht-degree: 81%
 
 ---
 
@@ -57,13 +62,13 @@ ht-degree: 90%
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
-## 動的コンテンツを適用する {#apply-dynamic-content}
+## 動的コンテンツの適用 {#apply-dynamic-content}
 
-1. セグメントの下の要素を選択し、「**[!UICONTROL 編集]**」をクリックします。各セグメントに対して繰り返します。
+1. セグメントの下の要素を選択し、「**[!UICONTROL 編集]**」をクリックします。 各セグメントに対して繰り返します。
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 
-1. 緑のチェックマークは、セグメントに固有のコンテンツを示します。空白はデフォルトのセグメントコンテンツを示します。
+1. 緑色のチェックマークは、セグメントに固有のコンテンツを示します。 空白はデフォルトのセグメントコンテンツを示します。
 
    ![](assets/image2015-5-21-12-3a44-3a24.png)
 
@@ -75,7 +80,7 @@ ht-degree: 90%
    >
    >様々なセグメントのコンテンツを変更する前に、デフォルトのランディングページを作成します。
 
-これで完成です。これで、ターゲットコンテンツを送信できるようになりました。
+これで、セグメントにターゲットコンテンツを送信できます。
 
 >[!MORELIKETHIS]
 >

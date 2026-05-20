@@ -1,12 +1,14 @@
 ---
 unique-page-id: 14352587
-description: Campaign が Sales Connect で終了したことが表示されたら、お問い合わせください。 送信できない理由と、キャンペーンの完了時に行う操作を理解します。
+description: セールスコネクトでキャンペーンが終了した場合にヘルプを表示します。 送信できない理由と、キャンペーンが終了したときに何をすべきかを理解します。
 title: キャンペーンは終了しました
 exl-id: a4307ce0-39bc-4971-b60a-1284af95a7a1
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/IYhkCIkfzC7fF5o-lYoH4uGMkVWUI1gGKOADFePAeUA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: 93
 ht-degree: 73%
 
 ---

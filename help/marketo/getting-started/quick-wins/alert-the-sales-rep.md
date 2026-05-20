@@ -4,9 +4,11 @@ description: セールス担当者にアラート - Marketo ドキュメント -
 title: セールス担当者にアラート
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+TQID: https://experienceleague.adobe.com/Qd-0TR8Sa4JWsQs7sWzUOmcFU0iRxl6SH62fWnm1GT8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: 405
 ht-degree: 97%
 
 ---
@@ -15,7 +17,7 @@ ht-degree: 97%
 
 ## ミッション：人物が web サイトのフォームに入力したときにセールス担当者にアラートする {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
-セールス担当者にアラートメールを自動的に送信するには、アラートメールとメールキャンペーンが必要です。その方法を説明しましょう。
+セールス担当者にアラートメールを自動的に送信するには、アラートメールとメールキャンペーンが必要です。 その方法を説明しましょう。
 
 >[!PREREQUISITES]
 >
@@ -23,7 +25,7 @@ ht-degree: 97%
 
 ## 手順 1：アラートメールを作成する {#step-create-an-alert-email}
 
-1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
+1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
 
    ![](assets/alert-the-sales-rep-1.png)
 
@@ -61,7 +63,7 @@ ht-degree: 97%
 
    >[!NOTE]
    >
-   >`{{SP_Send_Alert_Info}}` は、アラートメール用の特別なトークンです。詳しくは、[アラート情報トークンの送信の使用](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}を参照してください。
+   >`{{SP_Send_Alert_Info}}` は、アラートメール用の特別なトークンです。 詳しくは、[アラート情報トークンの送信の使用](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}を参照してください。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
@@ -127,7 +129,7 @@ ht-degree: 97%
 
    ![](assets/alert-the-sales-22.png)
 
-1. すぐにメールが届きます。すべて正常に動作することを確認したら、アラート送信フローからメールアドレスを削除します（上記の手順 2.7 を参照）。
+1. すぐにメールが届きます。 すべて正常に動作することを確認したら、アラート送信フローからメールアドレスを削除します（上記の手順 2.7 を参照）。
 
    >[!NOTE]
    >

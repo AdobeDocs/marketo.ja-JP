@@ -1,19 +1,22 @@
 ---
 unique-page-id: 2953373
-description: Marketo Sales Insightで購読解除フッターを設定する方法を説明します。 販売メールの購読解除リンクとコンプライアンスを設定します。
+description: Marketo Sales Insightで購読解除フッターを設定する方法を説明します。 セールスメールに登録解除リンクとコンプライアンスを設定します。
 title: Marketo セールスインサイトの配信停止フッターの設定
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/9HUCspCSN2LZQzpNJhCI3yiMVzwOYMxyp06UDJQyT2Y
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: 210
 ht-degree: 90%
 
 ---
 
 # [!DNL Marketo Sales Insight] の登録解除フッターの設定 {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
-セールスメールでは、配信停止フッターが自動的に下部に表示されます。ただし、必要に応じて設定を調整できます。
+セールスメールでは、配信停止フッターが自動的に下部に表示されます。 ただし、必要に応じて設定を調整できます。
 
 >[!NOTE]
 >
@@ -33,7 +36,7 @@ ht-degree: 90%
 
    ![](assets/two-1.png)
 
-   いくつかのオプションがあります。まず、設定を変更できるメールのタイプを見てみましょう。
+   いくつかのオプションがあります。 まず、設定を変更できるメールのタイプを見てみましょう。
 
    ![](assets/three-1.png)
 
@@ -57,4 +60,4 @@ ht-degree: 90%
 
    ![](assets/four-1.png)
 
-お疲れさまでした。少し複雑ですが柔軟ですね。
+お疲れさまでした。 少し複雑ですが柔軟ですね。

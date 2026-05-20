@@ -1,12 +1,15 @@
 ---
-description: Sales Insightのアクションでアクセスできる管理者と管理者以外のユーザーについて説明します。 テンプレート、キャンペーン、分析および人物の権限を比較します。
+description: Sales Insightのアクションで、管理者および管理者以外のユーザーがアクセスできる内容を理解します。 テンプレート、キャンペーン、分析、人物の権限を比較できます。
 title: ユーザアクセスの詳細
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/cW6bqn-RNZOKcqbcoKCsDVRUwrOIxeXTFrknaXBtGAc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 91%
+source-wordcount: 221
+ht-degree: 90%
 
 ---
 

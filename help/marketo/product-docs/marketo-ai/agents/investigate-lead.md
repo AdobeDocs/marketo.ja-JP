@@ -1,13 +1,13 @@
 ---
 description: Investigate リードエージェントは、マーケターが最も頻繁に尋ねる質問に回答します。 この手法は、アクティビティログ、スマートキャンペーン履歴、スコアリングレコードを手作業で調べるよりも迅速かつ信頼性が高まります。
 title: リードを調査
-beta: true
+badge: ベータ版
 hide: true
 hidefromtoc: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 0%
+source-wordcount: '579'
+ht-degree: 1%
 
 ---
 
@@ -20,6 +20,10 @@ ht-degree: 0%
 >* この機能を使用するには、まず[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
 >
 >* リードレコードと、調査中のプログラムやマイルストーンへの表示アクセス権が必要です。
+
+>[!AVAILABILITY]
+>
+>この機能はクローズド版であり、現在数か月にわたって段階的に展開されています。 My Marketo画面に&#x200B;_AIでビルド_ タイルが表示されたら、サブスクリプションが有効になったときにわかります。
 
 ## 使用方法 {#how-to-use}
 

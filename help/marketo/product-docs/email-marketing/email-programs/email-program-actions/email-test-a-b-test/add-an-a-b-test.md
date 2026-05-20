@@ -1,12 +1,15 @@
 ---
 unique-page-id: 2359491
-description: メールプログラムに A/B テストを追加する方法を説明します。 テストするもの（件名、コンテンツ、開始日、日時）を選択し、勝者条件を設定します。
+description: メールプログラムにA/B テストを追加する方法を説明します。 テスト対象（件名、コンテンツ、送信元、または日時）を選択し、勝者の基準を設定します。
 title: A/B テストの追加
 exl-id: 18397dde-496c-4809-a224-3c025c8ccc84
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/IiqLm2sQGgyiamqxm-QC-6gKOYIOmyMzlGvCU89-LHo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: 200
 ht-degree: 81%
 
 ---
@@ -20,7 +23,7 @@ ht-degree: 81%
 >
 >* [既存のメールを選択する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)または[新規メールを作成する](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-テストは、エンゲージメント向上のためにメールを最適化する絶好の機会です。テストは次のように開始できます。
+テストは、エンゲージメント向上のためにメールを最適化する絶好の機会です。 テストは次のように開始できます。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -38,11 +41,11 @@ ht-degree: 81%
    >
    >A/B テストを追加すると、選択したメールは他のプログラムで使用できなくなります。
 
-1. 別の **テストタイプ** を選択できる新しいウィンドウが開きます。 続行するには、以下の関連記事の 1 つを参照してください。
+1. 新しいウィンドウが開き、**テストタイプ**&#x200B;から選択できます。 続行するには、以下の関連記事の 1 つを参照してください。
 
    >[!CAUTION]
    >
-   >データベースに重複したレコードがある場合、それらのレコードはテストと成功のメールの&#x200B;**両方**&#x200B;を受信します。この問題が発生しないようにするには、データベースで[重複ユーザーを検索して結合](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)します。
+   >データベースに重複したレコードがある場合、それらのレコードはテストと成功のメールの&#x200B;**両方**&#x200B;を受信します。 この問題が発生しないようにするには、データベースで[重複ユーザーを検索して結合](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)します。
 
 >[!MORELIKETHIS]
 >

@@ -1,11 +1,11 @@
 ---
 description: コピープログラムは、既存のMarketo プログラムを新しい名前の新しいフォルダーに複製し、その構造を保持しながら、新しいキャンペーンをカスタマイズできます。
 title: コピープログラム
-beta: true
+badge: ベータ版
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '501'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ ht-degree: 1%
 >
 >* 複製するソースプログラムは、Marketo環境に既に存在している必要があります。
 
+>[!AVAILABILITY]
+>
+>この機能はクローズド版であり、現在数か月にわたって段階的に展開されています。 My Marketo画面に&#x200B;_AIでビルド_ タイルが表示されたら、サブスクリプションが有効になったときにわかります。
+
 ## 使用方法 {#how-to-use}
 
 1. マイMarketoで、**AIでビルド** タイルをクリックします。
@@ -34,7 +38,7 @@ ht-degree: 1%
 
 1. Marketoで新しいプログラムを開き、メールの内容、日付、オーディエンスフィルター、トークンなど、異なる内容を更新します。
 
-1. アクティブ化する前に、[&#x200B; プログラム QA](/help/marketo/product-docs/marketo-ai/agents/program-qa.md) エージェントを実行します。
+1. アクティブ化する前に、[ プログラム QA](/help/marketo/product-docs/marketo-ai/agents/program-qa.md) エージェントを実行します。
 
 ## ユースケース {#use-cases}
 

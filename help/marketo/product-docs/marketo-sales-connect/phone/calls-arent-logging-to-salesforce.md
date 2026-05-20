@@ -1,12 +1,16 @@
 ---
 unique-page-id: 14352435
-description: Sales Connect の呼び出しがSalesforceに記録されない場合に役立ちます。 接続およびアクティビティログ設定のトラブルシューティング。
+description: Sales Connectの呼び出しがSalesforceにログに記録されない場合にヘルプを表示します。 接続とアクティビティログの設定に関するトラブルシューティング。
 title: 呼び出しが Salesforce のログに記録されない
 exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/jjTIRKtODlgrMPAoM45wJD2vqFJwfPB56grKn8lRpHY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: 133
 ht-degree: 87%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 87%
 
 [!DNL Sales Connect] アカウントを [[!DNL Salesforce]  アカウント](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)に API 接続を介して接続します。
 
-[Web アプリケーション](https://toutapp.com/login)から発信する場合は、その取引先責任者に [!DNL Salesforce] ID を保存する必要があります。[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)して、すべての [!DNL Sales Connect] 取引先責任者に [!DNL Salesforce] ID が関連付けられていることを確認する方法を参照してください。
+[Web アプリケーション](https://toutapp.com/login)から発信する場合は、その取引先責任者に [!DNL Salesforce] ID を保存する必要があります。 [こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/import-a-salesforce-id-into-sales-connect.md)して、すべての [!DNL Sales Connect] 取引先責任者に [!DNL Salesforce] ID が関連付けられていることを確認する方法を参照してください。
 
 >[!NOTE]
 >

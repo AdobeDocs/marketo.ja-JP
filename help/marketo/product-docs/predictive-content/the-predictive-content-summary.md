@@ -1,13 +1,18 @@
 ---
 unique-page-id: 11384634
-description: 予測コンテンツ概要ダッシュボードとそのテーブル、グラフ、主要指標について説明します。 上位コンテンツ、コンバージョン率、トレンドおよびカテゴリエンゲージメントを表示して、レコメンデーションを最適化します。
+description: 予測コンテンツ概要ダッシュボードとそのテーブル、グラフ、および主要指標について説明します。 主要なコンテンツ、コンバージョン率、トレンド、カテゴリーエンゲージメントを把握し、レコメンデーションを最適化できます。
 title: 予測コンテンツの概要
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/1kUlHQFJIuWiLn8wZs77aBso0pfX507bh2tjsmTJwh0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 87%
+source-wordcount: 204
+ht-degree: 69%
 
 ---
 
@@ -17,7 +22,7 @@ ht-degree: 87%
 
 ## 上部バー {#top-bar}
 
-上部のバーには、コンテンツや表示の現在の数と、有効になっている部分の数が表示されます。ページ全体の過去 7 日または 30 日のビューを右上で選択します。
+上部のバーには、コンテンツや表示の現在の数と、有効になっている部分の数が表示されます。 ページ全体の過去 7 日または 30 日のビューを右上で選択します。
 
 ![](assets/image2017-10-17-14-3a10-3a22.png)
 
@@ -41,10 +46,10 @@ ht-degree: 87%
 
 ## [!UICONTROL エンゲージメント別の上位カテゴリ] {#top-categories-by-engagement}
 
-最も魅力的なコンテンツのカテゴリを知りたい場合、このグラフでわかります。
+最も魅力的なコンテンツのカテゴリを知りたい場合、 このグラフでわかります。
 
 ![](assets/5.png)
 
 >[!NOTE]
 >
->カテゴリリンク（上記の画像の例：leadgen、メールなど）をクリックすると、クリックしたカテゴリがフィルターに追加されたすべてのコンテンツページが開き、そのカテゴリのコンテンツ分析が表示されます。
+>カテゴリーリンクをクリックした場合（上記の画像の例：リードジェネレーション、メールなど） クリックしたカテゴリがフィルターに追加された「すべてのコンテンツ」ページが開き、そのカテゴリのコンテンツ分析が表示されます。

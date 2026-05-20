@@ -1,12 +1,14 @@
 ---
 unique-page-id: 12615802
-description: TAM で名前付きアカウントを削除する方法を説明します。 「アカウント」を選択し、「指定アカウント」アクションを使用して削除します。
+description: TAMで名前付きアカウントを削除する方法について説明します。 アカウントを選択し、名前付きアカウントアクションを使用して削除します。
 title: 重点顧客の削除
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/37EJbOPiCmRipZXheiEaLccKSzIdTjt5G0G8azhsxZM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: 119
 ht-degree: 84%
 
 ---
@@ -33,4 +35,4 @@ ht-degree: 84%
 
    >[!NOTE]
    >
-   >CRM に同期したアカウントは、TAM で削除できません。削除オプションが使用できない場合、または「1 つ以上の CRM アカウントが選択されているのでこれらのアカウントを削除できません」というメッセージが表示された場合は、CRM で直接削除する必要があります。
+   >CRM に同期したアカウントは、TAM で削除できません。 削除オプションが使用できない場合、または「1 つ以上の CRM アカウントが選択されているのでこれらのアカウントを削除できません」というメッセージが表示された場合は、CRM で直接削除する必要があります。

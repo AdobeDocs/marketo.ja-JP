@@ -1,12 +1,14 @@
 ---
 unique-page-id: 7512457
-description: モバイルプッシュ通知を送信する方法を説明します。 スマートリストとフローを使用したスマートキャンペーンを使用して、オーディエンスに対するプッシュをスケジュールします。
+description: モバイルプッシュ通知の送信方法について説明します。 スマートリストとフローを使用したスマートキャンペーンを使用して、オーディエンスへのプッシュをスケジュールします。
 title: モバイルプッシュ通知の送信
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/ktMtQUJT2YaXM2BzF4yTIBLfXoR0Wrm5aQLb3WalZoc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: 114
 ht-degree: 78%
 
 ---
@@ -20,11 +22,11 @@ ht-degree: 78%
 >* [新規スマートキャンペーンの作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [プッシュ通知の作成](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-1. **[!UICONTROL マーケティング活動]**&#x200B;領域に移動します。
+1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 
-1. スマートキャンペーンに移動して「**[!UICONTROL スマートリスト]**」をクリックします。
+1. 目的のスマートキャンペーンに移動して「**[!UICONTROL スマートリスト]**」をクリックします。
 
    ![](assets/image2015-4-23-17-3a57-3a46.png)
 
@@ -32,7 +34,7 @@ ht-degree: 78%
 
    ![](assets/image2015-4-22-18-3a33-3a13.png)
 
-1. プッシュ通知を選択します。「**[!UICONTROL スケジュール]**」をクリックします。
+1. プッシュ通知を選択します。 「**[!UICONTROL スケジュール]**」をクリックします。
 
    ![](assets/image2015-4-22-18-3a33-3a38.png)
 
@@ -44,7 +46,7 @@ ht-degree: 78%
 
    ![](assets/image2015-4-23-18-3a0-3a54.png)
 
-1. 日時を選択します。「**[!UICONTROL 保存]**」をクリックします。
+1. 日時を選択します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-4-23-18-3a1-3a33.png)
 

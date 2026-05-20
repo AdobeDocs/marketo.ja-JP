@@ -1,12 +1,17 @@
 ---
 unique-page-id: 7504238
-description: のカスタム rtp ダッシュボードを含む、Marketo Engageの google universal analytics のカスタム rtp ダッシュボードについて説明します。 自信を持って次のステップに進みます。
+description: のカスタム rtp ダッシュボードなど、Marketo Engageのgoogle universal analyticsのカスタム rtp ダッシュボードについて説明します。 自信を持って次のステップへ。
 title: Google ユニバーサルアナリティクスでのカスタム RTP ダッシュボード
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/J33gQt6txu9Dq95xAKDo5kRFqceNX1N17y9X3fTK3eY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: 787
 ht-degree: 97%
 
 ---
@@ -17,14 +22,14 @@ ht-degree: 97%
 >
 >[RTP を Google ユニバーサルアナリティクスに連携](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-この投稿では、Google ユニバーサルアナリティクス（GUA）で RTP ダッシュボードを設定する方法を説明します。RTP から GUA に送信されるデータは、次の 2 つの異なるカスタムダッシュボードとして設定できます。
+この投稿では、Google ユニバーサルアナリティクス（GUA）で RTP ダッシュボードを設定する方法を説明します。 RTP から GUA に送信されるデータは、次の 2 つの異なるカスタムダッシュボードとして設定できます。
 
 * RTP B2B
 * RTP エンゲージメント
 
 ## カスタムダッシュボードを設定する {#setting-up-a-custom-dashboard}
 
-1. Google Analytics にログインします。上部のメニューの「**[!UICONTROL レポート]**」をクリックします。「**[!UICONTROL ダッシュボード]**」、「**[!UICONTROL 新しいダッシュボード]**」の順にクリックします。
+1. Google Analytics にログインします。 上部のメニューの「**[!UICONTROL レポート]**」をクリックします。 「**[!UICONTROL ダッシュボード]**」、「**[!UICONTROL 新しいダッシュボード]**」の順にクリックします。
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
@@ -150,10 +155,10 @@ ht-degree: 97%
 
 ## RTP エンゲージメントダッシュボード {#rtp-engagement-dashboard}
 
-このダッシュボードでは、RTP キャンペーンのパフォーマンスと、レコメンデーションエンジンのエンゲージメントを分析できます。平均の比較を提供します。セッション時間と、セッションごとのページ数：
+このダッシュボードでは、RTP キャンペーンのパフォーマンスと、レコメンデーションエンジンのエンゲージメントを分析できます。 平均の比較を提供します。 セッション時間と、セッションごとのページ数：
 
 * エンゲージなし
-* エンゲージ済み（パーソナライズしたキャンペーンのインプレッションおよびクリック数）  
+* エンゲージ済み（パーソナライズしたキャンペーンのインプレッションおよびクリック数）
 * レコメンデーションエンジンのクリック数と、推奨される上位のコンテンツ
 
 **RTP エンゲージメントダッシュボード**&#x200B;という新しいダッシュボードを作成し、以下のようにウィジェットを定義します。
@@ -201,16 +206,16 @@ ht-degree: 97%
   <tr>
    <td colspan="1">
     <ul>
-     <li>名前：<strong>平均セッション時間（エンゲージメント）</strong></li>
+     <li>名前：<strong>平均 セッション時間（エンゲージメント）</strong></li>
      <li>タイプ：<strong>2.1 指標</strong></li>
-     <li>次の指標を表示：<strong>平均セッション時間</strong></li>
+     <li>次の指標を表示：<strong>平均 セッション時間</strong></li>
      <li>フィルター：<br><strong>［表示の絞り込み］イベントカテゴリ（含む）：RTP-Campaigns</strong><br><strong>［表示の絞り込み］イベントアクション（完全に一致）：インプレッション</strong><strong>［表示しない］イベントラベル（含む）：#</strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td colspan="1">
     <ul>
-     <li>名前：<strong>平均セッション時間（クリックスルー）</strong></li>
+     <li>名前：<strong>平均 セッション時間（クリックスルー）</strong></li>
      <li>タイプ：<strong>2.1 指標</strong></li>
-     <li>次の指標を表示：<strong>平均セッション時間</strong></li>
+     <li>次の指標を表示：<strong>平均 セッション時間</strong></li>
      <li>フィルター：<br><strong>［表示の絞り込み］イベントカテゴリ（完全に一致）：RTP-Campaigns</strong><br><strong>［表示の絞り込み］イベントアクション（完全に一致）：クリック数</strong><strong>［表示しない］イベントラベル（含む）：#</strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td colspan="1">

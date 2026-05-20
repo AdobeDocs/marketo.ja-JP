@@ -1,11 +1,13 @@
 ---
-description: 管理者である場合にキャンペーンを別のユーザーとして表示する方法を説明します。 キャンペーン ページの「表示形式」ドロップダウンを使用すると、ユーザーのキャンペーンを表示できます。
+description: 管理者である場合にキャンペーンを別のユーザーとして表示する方法について説明します。 キャンペーン ページの「表示形式」ドロップダウンを使用して、ユーザーのキャンペーンを表示します。
 title: キャンペーンリストを別のユーザとして表示
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/5QyodCKCmgH4o5-5yG9QPZ8N-m3tTozTjKEp7poGaUI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: 100
 ht-degree: 72%
 
 ---

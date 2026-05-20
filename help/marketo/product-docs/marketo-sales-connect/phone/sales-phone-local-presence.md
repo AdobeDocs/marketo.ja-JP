@@ -1,12 +1,14 @@
 ---
 unique-page-id: 14352436
-description: Sales Connect における Sales Phone のローカル・プレゼンスについて説明します。 応答率を向上させるために発信呼び出しを行う際に、ローカルの発信者 ID を表示します。
+description: Sales ConnectでのSales Phone ローカルプレゼンスについて説明します。 応答率を向上させるために、アウトバウンドコールを行う際にローカル発信者IDを表示します。
 title: 営業電話のローカルプレゼンス
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/-Mw7ww1YsyO-2ejnBdsfAGszUbSNErQdpOMXYPBa7CU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: 153
 ht-degree: 85%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 85%
 
 **この新しい番号で着信できますか？**
 
-いいえ。ローカルプレゼンスは、発信のみで機能します。この「新しい」番号に折り返し電話を発信することはできません。
+いいえ。ローカルプレゼンスは、発信のみで機能します。 この「新しい」番号に折り返し電話を発信することはできません。
 
 **ローカルプレゼンスでどこにでも発信できますか？**
 

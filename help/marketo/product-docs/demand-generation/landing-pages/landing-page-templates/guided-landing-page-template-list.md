@@ -1,32 +1,36 @@
 ---
 unique-page-id: 7515616
-description: Marketoのガイド付きランディングページテンプレートリストについて説明します。 ランディングページのテンプレートを参照してダウンロードします。
+description: Marketoのガイド付きランディングページテンプレートリストについて説明します。 ランディングページのテンプレートを参照してダウンロードできます。
 title: ガイド付きランディングページテンプレートリスト
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 94%
+source-wordcount: 357
+ht-degree: 84%
 
 ---
 
 # ガイド付きランディングページテンプレートリスト {#guided-landing-page-template-list}
 
-[ガイド付きランディングページエディター](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)で使用するサンプルテンプレートのコレクションを参照します。各テンプレートは完全にレスポンシブで、Bootstrap フレームワークに基づいています。
+[ ガイド付きランディングページエディター](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)で使用するサンプルテンプレートのコレクションをご覧ください。 各テンプレートは完全にレスポンシブで、Bootstrap フレームワークに基づいています。
 
 >[!NOTE]
 >
->Marketo サポートは、HTML のトラブルシューティングについては対応できません。これらのテンプレートの変更について不明な点がある場合は、Web デベロッパーにお問い合わせください。
+>Marketo サポートは、HTML のトラブルシューティングについては対応できません。 これらのテンプレートの変更について不明な点がある場合は、Web デベロッパーにお問い合わせください。
 
 テンプレートを Marketo にインポートするには：
 
 1. より大きく表示するには、テンプレートの名前をクリックします。
 1. 選択したテンプレートをダウンロードします。
-1. Marketo で、**[!UICONTROL デザインスタジオ]に移動します。**
-1. 左側のツリーで、「**[!UICONTROL ランディングページ]**」をクリックして、「**[!UICONTROL テンプレート]」を選択します。**
+1. Marketoで、**[!UICONTROL Design Studio]**&#x200B;に移動します。
+1. 左側のツリーで「**[!UICONTROL ランディングページ]**」をクリックし、「**[!UICONTROL テンプレート]**」を選択します。
 
-1. メニューバーで、「**[!UICONTROL インポートテンプレート]」をクリックします。**
+1. メニューバーで、**[!UICONTROL テンプレートの読み込み]**&#x200B;をクリックします。
 1. ダウンロードしたファイルを選択し、テンプレート名を入力して、「**[!UICONTROL インポート]**」をクリックします（わかりやすい名前を必ず選択し、編集モードが&#x200B;**[!UICONTROL ガイド付き]**&#x200B;であることを示します)。
 
 <table>

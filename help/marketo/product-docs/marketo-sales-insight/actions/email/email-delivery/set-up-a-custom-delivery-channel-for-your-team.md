@@ -1,12 +1,14 @@
 ---
-description: チーム用のカスタム配信チャネルの設定方法を説明します。 販売 E メールの送信とトラッキングを設定します。
+description: チーム用のカスタム配信チャネルを設定する方法について説明します。 セールスメールの送信と追跡を設定します。
 title: チーム向けのカスタム配信チャネルの設定
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/IM33WTRE7TrMGcbBsiiMBpFrT-tZpvy8xXpXvt0RDsk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 89%
+source-wordcount: 172
+ht-degree: 88%
 
 ---
 
@@ -20,7 +22,7 @@ ht-degree: 89%
 >
 >* SMTP サーバーの設定に加えて、メールを送信する前に、[メール ID を認証する必要があります](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)。
 >* お使いの SMTP サーバーに適したサーバー資格情報を取得するには、IT チームまたは SMTP サーバーのベンダーと協力することをお勧めします。
->* SMTP サーバーの資格情報を使用して Gmail サーバーや [!DNL Exchange] サーバーに接続できません。これらのプロバイダーとの統合には、アドビのメール接続サービスを使用してください。
+>* SMTP サーバーの資格情報を使用して Gmail サーバーや [!DNL Exchange] サーバーに接続できません。 これらのプロバイダーとの統合には、アドビのメール接続サービスを使用してください。
 
 1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
@@ -40,9 +42,9 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >チーム SMTP サーバーは、すべてのチームメンバーに対するデフォルトのメール ID のデフォルトの配信チャネルになります。さらに、その他のすべてのメール ID の配信チャネルオプションとして使用できます。
+   >チーム SMTP サーバーは、すべてのチームメンバーに対するデフォルトのメール ID のデフォルトの配信チャネルになります。 さらに、その他のすべてのメール ID の配信チャネルオプションとして使用できます。
 
    >[!MORELIKETHIS]
    >
    >* [Gmail ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-   >* [&#x200B; [!DNL Outlook]  ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >* [ [!DNL Outlook]  ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

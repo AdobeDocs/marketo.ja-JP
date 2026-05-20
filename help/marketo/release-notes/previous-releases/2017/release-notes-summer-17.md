@@ -4,28 +4,32 @@ description: リリースノート - 2017 年夏 - Marketo ドキュメント - 
 title: リリースノート - 2017 年夏
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/6dLRYKHgqzns8tYWKk-7uz5BtpyEiKIlrDLWqqWdDAw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: 404
 ht-degree: 100%
 
 ---
 
 # リリースノート：2017 年夏 {#release-notes-summer}
 
-2017 年夏リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo のエディションをご確認ください。
+2017 年夏リリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo のエディションをご確認ください。
 
-各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。注意：このリリースに含まれる機能の一部には、関連記事がありません。トピックに複数のサブ見出しが含まれる場合、リンクはそこに配置されます。
+各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。 注意：このリリースに含まれる機能の一部には、関連記事がありません。 トピックに複数のサブ見出しが含まれる場合、リンクはそこに配置されます。
 
 ## [Facebook オフラインコンバージョンステージの追加](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-最大 7 つのオフラインコンバージョンステージを選択して、Marketo のライフサイクルステージ（現在利用可能な 3 つを超えるステージ）にマッピングします。カスタマージャーニー全体のコンバージョンに基づいて [!DNL Facebook] の広告費用を最適化し、ROI を向上させます。
+最大 7 つのオフラインコンバージョンステージを選択して、Marketo のライフサイクルステージ（現在利用可能な 3 つを超えるステージ）にマッピングします。 カスタマージャーニー全体のコンバージョンに基づいて [!DNL Facebook] の広告費用を最適化し、ROI を向上させます。
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
 ## [セールスインサイトテンプレートのロック](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
 
-セールステンプレートの編集を防止することで、メッセージとコンテンツの一貫性を保持します。これにより、テンプレートを標準化し、プロフェッショナルなコミュニケーションを維持できます。
+セールステンプレートの編集を防止することで、メッセージとコンテンツの一貫性を保持します。 これにより、テンプレートを標準化し、プロフェッショナルなコミュニケーションを維持できます。
 
 ![](assets/image2017-10-9-10-3a1-3a56.png)
 
@@ -37,13 +41,13 @@ ht-degree: 100%
 
 **[ABM と LeanData の統合](https://docs.marketo.com/x/pKmt)**
 
-[!DNL LeanData] の統合により、Marketo でリードと顧客の照合が可能になりました。記録のセールスおよびマーケティングシステム内の顧客と同じリードを関連付けることで、マーケティングとセールスを整合させます。より柔軟なオプションにより、マーケティングおよびセールスオペレーションは、リードから顧客へのマッチングルールをより細かく制御し、希望する精度を達成できます。
+[!DNL LeanData] の統合により、Marketo でリードと顧客の照合が可能になりました。 記録のセールスおよびマーケティングシステム内の顧客と同じリードを関連付けることで、マーケティングとセールスを整合させます。 より柔軟なオプションにより、マーケティングおよびセールスオペレーションは、リードから顧客へのマッチングルールをより細かく制御し、希望する精度を達成できます。
 
 ## Web パーソナライゼーションの機能拡張 {#web-personalization-enhancements}
 
 **[キャンペーンプレビューの機能拡張](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-マーケターは、web キャンペーンを開始する&#x200B;*前に*&#x200B;デバイスをまたいで確認できるようになりました。これらの機能強化により、デスクトップ、モバイルデバイス、タブレットで web キャンペーンがどのように表示されるかがわかります。また、[!DNL Chrome] 用の新しいプラグインで、より一貫性が高く正確なプレビューが提供されます。
+マーケターは、web キャンペーンを開始する&#x200B;*前に*&#x200B;デバイスをまたいで確認できるようになりました。 これらの機能強化により、デスクトップ、モバイルデバイス、タブレットで web キャンペーンがどのように表示されるかがわかります。 また、[!DNL Chrome] 用の新しいプラグインで、より一貫性が高く正確なプレビューが提供されます。
 
 **[ウィジェットキャンペーンの機能拡張](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
@@ -57,13 +61,13 @@ ht-degree: 100%
 
 **[ContentAI の分析と提案](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
 
-より深い分析と AI を活用したコンテンツの提案により、エンゲージメントを高めることで、コンテンツマーケティングの効果を高めます。強力な分析により、人気、トレンド、オーディエンスベースの表示など、推奨コンテンツの効果が示されます。また、追加のコンテンツを含めるための提案も表示されます。
+より深い分析と AI を活用したコンテンツの提案により、エンゲージメントを高めることで、コンテンツマーケティングの効果を高めます。 強力な分析により、人気、トレンド、オーディエンスベースの表示など、推奨コンテンツの効果が示されます。 また、追加のコンテンツを含めるための提案も表示されます。
 
-## アナリティクス {#analytics}
+## 分析 {#analytics}
 
 **[!UICONTROL メールインサイト]の機能拡張**
 
-データを準備および共有する新しい方法で、[!UICONTROL メールインサイト]エクスペリエンスをさらに活用できます。[!UICONTROL メールインサイト]の結果を [!DNL Microsoft Excel] と [!DNL PowerPoint] にダウンロードして、Marketo の外部でデータを操作できるようになりました。
+データを準備および共有する新しい方法で、[!UICONTROL メールインサイト]エクスペリエンスをさらに活用できます。 [!UICONTROL メールインサイト]の結果を [!DNL Microsoft Excel] と [!DNL PowerPoint] にダウンロードして、Marketo の外部でデータを操作できるようになりました。
 
 ## 連携 ID 構成サポート {#federated-identity-configuration-support}
 

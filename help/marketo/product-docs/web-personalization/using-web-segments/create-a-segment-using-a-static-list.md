@@ -1,12 +1,16 @@
 ---
 unique-page-id: 13795536
-description: 静的リストを使用したセグメントの作成を使用したMarketo Engageで、静的リストを使用してセグメントを作成する方法について説明します。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageで静的リストを使用してセグメントを作成し、静的リストを使用してセグメントを作成する方法を説明します。 このガイドを使用して、次のステップを完了してください。
 title: 静的リストを使用したセグメントの作成
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/XiW8i6vn-Io7S19hxtaQ1om1Yt6BJTsHffB6QvKyxE4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: 191
 ht-degree: 84%
 
 ---
@@ -35,7 +39,7 @@ ht-degree: 84%
 
    ![](assets/five-2.png)
 
-1. 複数のリストを追加する場合は、「**+**」をクリックして各リストに対して新しい行を作成する必要があります。リストが 1 つだけの場合は、[手順 8](#eight) にスキップします。
+1. 複数のリストを追加する場合は、「**+**」をクリックして各リストに対して新しい行を作成する必要があります。 リストが 1 つだけの場合は、[手順 8](#eight) にスキップします。
 
    ![](assets/six-1.png)
 
@@ -45,7 +49,7 @@ ht-degree: 84%
 
    >[!NOTE]
    >
-   >And/or ドロップダウンは、それだけです。クリックして **[!UICONTROL and]**、**[!UICONTROL or]**、**[!UICONTROL and/or]** のいずれかを選択します。
+   >And/or ドロップダウンは、それだけです。 クリックして **[!UICONTROL and]**、**[!UICONTROL or]**、**[!UICONTROL and/or]** のいずれかを選択します。
 
 1. 「**[!UICONTROL 保存]**」をクリックしてセグメントを保存するか、「**[!UICONTROL 保存してキャンペーンを設定]**」をクリックして保存し、[!UICONTROL キャンペーン]ページに移動します。
 

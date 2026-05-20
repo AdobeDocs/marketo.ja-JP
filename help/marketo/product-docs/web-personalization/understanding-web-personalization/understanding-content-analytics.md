@@ -1,19 +1,23 @@
 ---
 unique-page-id: 10093159
-description: コンテンツ分析の理解を含む、Marketo Engageのコンテンツ分析の理解について説明します。 このガイドを使用して、次の手順を完了します。
+description: Content Analyticsの概要など、Marketo EngageのContent Analyticsについて説明します。 このガイドを使用して、次のステップを完了してください。
 title: コンテンツ分析について
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/LYR0jnGcjfCf-R3YoxNQBArEuj0a5TTidVBBmSWoNq4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: 390
 ht-degree: 94%
 
 ---
 
 # コンテンツ分析について {#understanding-content-analytics}
 
-コンテンツ分析ページには、web サイトで検出された既存のコンテンツ（事例、ブログ投稿、ビデオ、プレスリリースなど）が表示されます。また、訪問者がコンテンツに関与したときに創出されたリードとコンテンツのパフォーマンスも表示されます。
+コンテンツ分析ページには、web サイトで検出された既存のコンテンツ（事例、ブログ投稿、ビデオ、プレスリリースなど）が表示されます。 また、訪問者がコンテンツに関与したときに創出されたリードとコンテンツのパフォーマンスも表示されます。
 
 ## コンテンツ分析を表示 {#view-content-analytics}
 
@@ -45,7 +49,7 @@ ht-degree: 94%
  <tbody>
   <tr>
    <td colspan="1" rowspan="1"><strong>[!UICONTROL タイトル]</strong></td>
-   <td colspan="1" rowspan="1">デジタルコンテンツアセットの名前。「<strong>タイトル</strong>」をクリックすると、コンテンツ URL が新しいタブで開きます。</td>
+   <td colspan="1" rowspan="1">デジタルコンテンツアセットの名前。 「<strong>タイトル</strong>」をクリックすると、コンテンツ URL が新しいタブで開きます。</td>
   </tr>
   <tr>
    <td colspan="1"><p><strong>レコメンデーション</strong><strong>アイコン</strong></p><p><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
@@ -53,7 +57,7 @@ ht-degree: 94%
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>[!UICONTROL 表示]</strong></p></td>
-   <td colspan="1" rowspan="1"><p>コンテンツアセットに対する web 訪問者からの表示数。表示、開封、視聴またはダウンロードされた回数。「表示」列の数をクリックしてドリルダウンし、コンテンツの閲覧者を確認します</p></td>
+   <td colspan="1" rowspan="1"><p>コンテンツアセットに対する web 訪問者からの表示数。 表示、開封、視聴またはダウンロードされた回数。 「表示」列の数をクリックしてドリルダウンし、コンテンツの閲覧者を確認します</p></td>
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><strong>[!UICONTROL ダイレクトコンバージョン数]</strong></td>
@@ -86,17 +90,17 @@ ht-degree: 94%
 
 * **[!UICONTROL ビュー]**：選択した時間範囲のコンテンツの表示数
 * **[!UICONTROL ダイレクトコンバージョン]**：同じ訪問でコンテンツを表示し、フォームに入力した web 訪問者数
-* **[!UICONTROL コンバージョン率]**&#x200B;**：**&#x200B;ダイレクトコンバージョン数をクリック数で割って計算されたコンバージョン率
+* **[!UICONTROL コンバージョン率]****：**ダイレクトコンバージョン数をクリック数で割って計算されたコンバージョン率
 
 **[!UICONTROL トレンド]**
 
-* 特定のコンテンツの過去 30 日間の視聴を示す&#x200B;**[!UICONTROL トレンド]**&#x200B;グラフ。折れ線グラフにマウスポインタを合わせると、特定の日からのコンテンツ視聴回数が表示されます
+* 特定のコンテンツの過去 30 日間の視聴を示す&#x200B;**[!UICONTROL トレンド]**&#x200B;グラフ。 折れ線グラフにマウスポインタを合わせると、特定の日からのコンテンツ視聴回数が表示されます
 
 ## コンテンツの削除 {#delete-content}
 
 ![](assets/six.png)
 
-[!UICONTROL コンテンツ分析]ページで、削除するコンテンツの削除アイコンをクリックします。コンテンツを削除するかどうかを確認するメッセージが表示されます。
+[!UICONTROL コンテンツ分析]ページで、削除するコンテンツの削除アイコンをクリックします。 コンテンツを削除するかどうかを確認するメッセージが表示されます。
 
 >[!MORELIKETHIS]
 >

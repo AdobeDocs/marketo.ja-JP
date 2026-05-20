@@ -4,22 +4,26 @@ description: リリースノート - 2015年5月 - Marketo ドキュメント - 
 title: リリースノート - 2015年5月
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/q8FpGPqnVD-LY4WmqX-V-SXJXrbYEGxh6Ltl0KbFz1M
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: 256
 ht-degree: 100%
 
 ---
 
 # リリースノート：2015年5月 {#release-notes-may}
 
-2015年5月リリースには、次の機能が含まれています。お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
+2015年5月リリースには、次の機能が含まれています。 利用可能な機能についてはお使いの Marketo のエディションをご確認ください。 リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
 
 ## 完全レスポンシブランディングページ
 
 [完全レスポンシブランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-新しいランディングページ編集モードとテンプレート構文がリリースされます。アドビの「フリーフォーム」ランディングページエディターとは異なり、新しい「ガイド付き」ランディングページエディターは、完全レスポンシブランディングページを編集するための構造化された編集エクスペリエンスを提供します。
+新しいランディングページ編集モードとテンプレート構文がリリースされます。 アドビの「フリーフォーム」ランディングページエディターとは異なり、新しい「ガイド付き」ランディングページエディターは、完全レスポンシブランディングページを編集するための構造化された編集エクスペリエンスを提供します。
 
 ![](assets/image2015-5-15-13-3a33-3a11.png)
 
@@ -27,11 +31,11 @@ ht-degree: 100%
 
 [メールプログラムの中止](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
-メールプログラムを開始する前に「送信」を押しましたか？新しい「メールプログラムを中止」ボタンを押してストップすることができます。これは、実行中のメールプログラムを途中で停止するものです。
+メールプログラムを開始する前に「送信」を押しましたか？ 新しい「メールプログラムを中止」ボタンを押してストップすることができます。 これは、実行中のメールプログラムを途中で停止するものです。
 
 ## メール配信  {#email-deliverability}
 
-Marketo は、追加されたドメインに対して、自動化された [!DNL SPF] および [!DNL DKIM] チェックを毎週実行します。通知を確認して、常にこの状態に保ちます。
+Marketo は、追加されたドメインに対して、自動化された [!DNL SPF] および [!DNL DKIM] チェックを毎週実行します。 通知を確認して、常にこの状態に保ちます。
 
 ## メールテンプレート動作の変更 {#email-template-behavior-change}
 
@@ -47,4 +51,4 @@ RTP：[セグメントエディターのドラッグアンドドロップ](/help
 
 [予想コンテンツのレコメンデーション](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
-RTP の機械学習および予測分析アルゴリズムを使用して、適切な見込み客に的確なコンテンツをレコメンデーションします。画像とテキストの説明を使用してコンテンツアセットを視覚的に拡張し、複数のコンテンツアセットをレコメンデーションします。
+RTP の機械学習および予測分析アルゴリズムを使用して、適切な見込み客に的確なコンテンツをレコメンデーションします。 画像とテキストの説明を使用してコンテンツアセットを視覚的に拡張し、複数のコンテンツアセットをレコメンデーションします。

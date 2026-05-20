@@ -1,12 +1,16 @@
 ---
 unique-page-id: 11382858
-description: 広告ネットワーク統合でMarketo オーディエンスデータを有料メディアに接続する方法について説明します。 ターゲットキャンペーンを実行し、広告からリードを取り込み、オフラインコンバージョンをアップロードします。
+description: 広告ネットワーク統合がMarketoのオーディエンスデータをペイドメディアに結び付ける方法について説明します。 ターゲットを絞った施策の実施、広告からのリードの取り込み、オフラインコンバージョンのアップロードが可能です。
 title: 広告ネットワーク統合について
 exl-id: c13b5dc2-8fc1-40de-acfb-eede0e1fb099
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/cqrXgz6GK9SP798tPfcISrONRmT1HXSeP1-OE7BQt8I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: 253
 ht-degree: 90%
 
 ---
@@ -17,7 +21,7 @@ ht-degree: 90%
 
 ## 広告ネットワーク統合の仕組み {#how-ad-network-integrations-work}
 
-広告ネットワーク統合は Marketo の一意のオーディエンスデータをペイドメディアシステムに連携させ、よりターゲットを絞り、パーソナライズしたデジタル広告キャンペーンを可能にします。これらの統合は、現在、[!DNL Facebook]、[!DNL LinkedIn]、Google で動作します。
+広告ネットワーク統合は Marketo の一意のオーディエンスデータをペイドメディアシステムに連携させ、よりターゲットを絞り、パーソナライズしたデジタル広告キャンペーンを可能にします。 これらの統合は、現在、[!DNL Facebook]、[!DNL LinkedIn]、Google で動作します。
 
 次のような機能があります。
 
@@ -34,7 +38,7 @@ ht-degree: 90%
 
 * オフラインコンバージョンデータを有料メディアシステムにアップロードし、リード獲得と育成の取り組みを最適化
 
-   * 例えば、ユーザーが広告を検索し、表示してクリックし、オンラインでフォームに入力するとします。その後、デモをオフラインで受け取り、CRM の機会になります。広告主がここでターゲットにします
+   * 例えば、ユーザーが広告を検索し、表示してクリックし、オンラインでフォームに入力するとします。 その後、デモをオフラインで受け取り、CRM の機会になります。 広告主がここでターゲットにします
 
 * Web サイト訪問者をリターゲティング（[web パーソナライゼーション](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}を使用）して、web サイトに戻します。
 
@@ -45,10 +49,10 @@ ht-degree: 90%
 統合を次のように使用できます。
 
 * [Google  [!DNL AdWords]  を  [!DNL LaunchPoint]  サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md)
-* [&#x200B; [!DNL Facebook] でのカスタムオーディエンスへのリードの追加](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
-* [&#x200B; [!DNL Facebook] でのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [&#x200B; [!DNL Facebook]  オフラインコンバージョンの設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
-* [&#x200B; [!DNL LinkedIn]  のオーディエンスセグメントとして Marketo リストまたはスマートリストを使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+* [ [!DNL Facebook] でのカスタムオーディエンスへのリードの追加](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+* [ [!DNL Facebook] でのカスタムオーディエンスの作成](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [ [!DNL Facebook]  オフラインコンバージョンの設定](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+* [ [!DNL LinkedIn]  のオーディエンスセグメントとして Marketo リストまたはスマートリストを使用](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
 |   | オーディエンスデータ | リードの取り込み | オフラインコンバージョン |
 |---|---|---|---|

@@ -3,9 +3,13 @@ description: IAB リストのマッチングと近接パターンを利用して
 title: メールボットアクティビティのフィルター
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
+TQID: https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: 496
 ht-degree: 46%
 
 ---
@@ -57,7 +61,7 @@ ht-degree: 46%
 
 >[!IMPORTANT]
 >
->* 「[!UICONTROL &#x200B; ボットアクティビティをフィルター]」を選択すると、誤ったアクティビティが削除されると、メールの開封数とクリック数が低下する場合があります。
+>* 「[!UICONTROL  ボットアクティビティをフィルター]」を選択すると、誤ったアクティビティが削除されると、メールの開封数とクリック数が低下する場合があります。
 
 **オプション手順**：いずれかの機能を無効にするには、それぞれのスライダーの選択を解除します。 その場合も、データはリセットされません。
 

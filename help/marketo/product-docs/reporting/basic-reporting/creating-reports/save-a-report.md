@@ -1,21 +1,25 @@
 ---
 unique-page-id: 7511980
-description: レポートアクションから「名前を付けて保存」を選択して、デフォルトのレポートを保存して、後で再度表示する方法を説明します。 マイレポートまたはグループレポート内のフォルダーに保存されたレポートを整理します。
+description: レポートアクションから「別名で保存」を選択して、後で再度表示するデフォルトレポートを保存する方法を説明します。 保存されたレポートをマイレポートまたはグループレポート内のフォルダーに整理します。
 title: レポートの保存
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/6FQT5RlZlJ05B3eKfmuDEFsmw7LQL1L3hJgKrEGN6Bc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: 102
 ht-degree: 72%
 
 ---
 
 # レポートの保存 {#save-a-report}
 
-デフォルトのレポートを後で再度表示するために保存する必要が生じることがあります。その方法は次のとおりです。
+デフォルトのレポートを後で再度表示するために保存する必要が生じることがあります。 その方法は次のとおりです。
 
-1. **[!UICONTROL 分析]**&#x200B;エリアに移動します。
+1. **[!UICONTROL 分析]**&#x200B;領域に移動します。
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
@@ -35,7 +39,7 @@ ht-degree: 72%
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
-   これで完了です。保存したレポートがツリーに表示されます。
+   これで完了です。 保存したレポートがツリーに表示されます。
 
    ![](assets/image2015-4-21-11-3a12-3a40.png)
 

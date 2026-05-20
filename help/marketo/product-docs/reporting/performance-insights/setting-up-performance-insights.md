@@ -1,12 +1,17 @@
 ---
 unique-page-id: 12981145
-description: 商談の設定、プログラムコスト、分析動作、成功基準を設定して、パフォーマンスインサイトを設定する方法を説明します。 正確なレポートのために、適切なアトリビューションとデータフローを確保します。
+description: 商談の設定、プログラムコスト、分析行動、成功基準を設定することで、パフォーマンスインサイトを設定する方法を説明します。 正確なレポートのための適切なアトリビューションとデータフローを確保。
 title: パフォーマンスインサイトの設定
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/xH9HG3hKoUFG3428IngBYFG6n4W3k1Bd-baVI7WTMrE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: b9f06cb0-cdf7-4b83-a9d1-a701d132779b
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: 331
 ht-degree: 91%
 
 ---
@@ -54,7 +59,7 @@ ht-degree: 91%
 
 ## プログラムセットアップ {#program-setup}
 
-少なくとも 12 か月間、プログラムのコストを更新します。これは、手動で実行するか、プログラム API を使用して実行できます。この例では、手動でおこないます。
+少なくとも 12 か月間、プログラムのコストを更新します。 これは、手動で実行するか、プログラム API を使用して実行できます。 この例では、手動でおこないます。
 
 1. 「**[!UICONTROL マーケティングアクティビティ]**」をクリックします。
 
@@ -80,7 +85,7 @@ ht-degree: 91%
 
    ![](assets/set-cost.png)
 
-次に、分析動作をレビューして、特定のチャネルを分析に含める必要があるかどうかを示します。分析動作（標準、包括的、運用可能）を設定します。
+次に、分析動作をレビューして、特定のチャネルを分析に含める必要があるかどうかを示します。 分析動作（標準、包括的、運用可能）を設定します。
 
 1. 「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -117,4 +122,4 @@ ht-degree: 91%
 
 >[!NOTE]
 >
->変更は即時にはおこなわれません。変更が有効になる前には一晩が必要です。
+>変更は即時にはおこなわれません。 変更が有効になる前には一晩が必要です。

@@ -1,13 +1,18 @@
 ---
 unique-page-id: 7504051
-description: ユーザーデータの管理を含む、Marketo Engageでのユーザーデータの管理について説明します。manage-person-data。 このガイドを使用して、次の手順を完了します。
+description: 人物データの管理や人物データの管理など、Marketo Engageでの人物データの管理について説明します。 このガイドを使用して、次のステップを完了してください。
 title: リードデータの管理
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/rIiC-JXLkaMByk7GizVOcCEcUHN8AL-8Hy66-U2GZhs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 90%
+source-wordcount: 213
+ht-degree: 89%
 
 ---
 
@@ -35,7 +40,7 @@ ht-degree: 90%
 
 ## リードフィールドの削除 {#deleting-a-person-field}
 
-1. 削除アイコン（![—](assets/image2015-3-24-13-3a45-3a56.png)）をクリックして、リストからフィールドを削除します。「**[!UICONTROL はい]**」をクリックして、フィールドの削除を確認します。
+1. 削除アイコン（![—](assets/image2015-3-24-13-3a45-3a56.png)）をクリックして、リストからフィールドを削除します。 「**[!UICONTROL はい]**」をクリックして、フィールドの削除を確認します。
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -58,38 +63,38 @@ ht-degree: 90%
   </tr>
   <tr>
    <td><p>department</p></td>
-   <td><p>Department</p></td>
-   <td><p>Department</p></td>
+   <td><p>部門</p></td>
+   <td><p>部門</p></td>
   </tr>
   <tr>
    <td><p>title</p></td>
-   <td><p>Title</p></td>
-   <td><p>Job Title</p></td>
+   <td><p>役職</p></td>
+   <td><p>役職</p></td>
   </tr>
   <tr>
    <td><p>rating</p></td>
-   <td><p>Rating</p></td>
-   <td><p>Rating</p></td>
+   <td><p>評価</p></td>
+   <td><p>評価</p></td>
   </tr>
   <tr>
    <td><p>leadScore</p></td>
    <td><p>LeadScore</p></td>
-   <td><p>Score</p></td>
+   <td><p>スコア</p></td>
   </tr>
   <tr>
    <td><p>leadStatus</p></td>
    <td><p>LeadStatus</p></td>
-   <td><p>Status</p></td>
+   <td><p>ステータス</p></td>
   </tr>
   <tr>
-   <td><p>priority</p></td>
-   <td><p>Priority</p></td>
-   <td><p>Priority</p></td>
+   <td><p>優先度</p></td>
+   <td><p>優先度</p></td>
+   <td><p>優先度</p></td>
   </tr>
   <tr>
    <td><p>leadRole</p></td>
    <td><p>LeadRole</p></td>
-   <td><p>Role</p></td>
+   <td><p>役割</p></td>
   </tr>
   <tr>
    <td><p>unsubscribed</p></td>

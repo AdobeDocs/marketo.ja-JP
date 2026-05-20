@@ -1,19 +1,22 @@
 ---
 unique-page-id: 10092899
-description: テンプレート 19D ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
+description: テンプレート 19D ガイド付きランディングページテンプレートについて説明します。 ダウンロードして、Marketoランディングページでご利用ください。
 title: テンプレート 19D
 exl-id: a2e0620e-15b7-45f1-a8f7-78f0554e290a
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/lyOh134qLXKpkYui0KXHrfatEXTYMKfgZB2Vht8VLFQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 69%
+source-wordcount: 75
+ht-degree: 73%
 
 ---
 
 # テンプレート 19D {#template-19d}
 
-右クリックして[テンプレート 19D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html?lang=ja)します
+右クリックして[テンプレート 19D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)します
 
 ![](assets/image2015-9-16-17-3a1-3a31.png)
 
@@ -28,4 +31,4 @@ ht-degree: 69%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 19D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html?lang=ja)
+[テンプレート 19D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19d.html)

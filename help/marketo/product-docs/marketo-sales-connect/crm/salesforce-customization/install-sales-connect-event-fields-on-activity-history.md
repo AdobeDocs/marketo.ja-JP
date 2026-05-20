@@ -1,21 +1,23 @@
 ---
 unique-page-id: 14352475
-description: Salesforceのアクティビティ履歴に Sales Connect のイベントフィールドをインストールする方法を説明します。 カスタムフィールドを追加して Sales Connect イベントを追跡します。
+description: Salesforce アクティビティ履歴にSales Connect イベントフィールドをインストールする方法について説明します。 Sales Connect イベントを追跡するためのカスタムフィールドを追加します。
 title: アクティビティ履歴への Sales Connect イベントフィールドのインストール
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/NznzQHvZw0KyF2r83AwkegZIAPdWi0dVYJ7xwyTTy0s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: 268
 ht-degree: 92%
 
 ---
 
 # アクティビティ履歴への Sales Connect イベントフィールドのインストール {#install-sales-connect-event-fields-on-activity-history}
 
-[!DNL Salesforce] に Enterprise パッケージをインストールしたら、[!UICONTROL Sales Connect] イベントフィールドをアクティビティ履歴セクションにインストールできます。[!UICONTROL Sales Connect] イベントフィールドには、表示回数、クリック数、キャンペーンなどの情報が含まれます。これにより、メールに関する情報を [!DNL Salesforce] に直接読み込むことができます。
+[!DNL Salesforce] に Enterprise パッケージをインストールしたら、[!UICONTROL Sales Connect] イベントフィールドをアクティビティ履歴セクションにインストールできます。 [!UICONTROL Sales Connect] イベントフィールドには、表示回数、クリック数、キャンペーンなどの情報が含まれます。 これにより、メールに関する情報を [!DNL Salesforce] に直接読み込むことができます。
 
-これらの手順を実行する際は、[!DNL Salesforce] 管理者と連携して行ってください。この例では、**リードページレイアウト**&#x200B;にフィールドをインストールします。また、連絡先、アカウント、商談の各ページのレイアウトにフィールドをインストールすることもできます。メールをアカウントと商談に記録する場合は、連絡先の役割として関連付けられたメールを送信する連絡先が必要になることに注意してください。
+これらの手順を実行する際は、[!DNL Salesforce] 管理者と連携して行ってください。 この例では、**リードページレイアウト**&#x200B;にフィールドをインストールします。 また、連絡先、アカウント、商談の各ページのレイアウトにフィールドをインストールすることもできます。 メールをアカウントと商談に記録する場合は、連絡先の役割として関連付けられたメールを送信する連絡先が必要になることに注意してください。
 
 1. 「**[!UICONTROL 設定]**」をクリックします。
 1. 「**[!UICONTROL カスタマイズ]**」をクリックします。
@@ -25,11 +27,11 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >[!DNL Sales Connect] は、いくつかのページレイアウトをインストールしますが、既に使用しているデフォルトのレイアウトがある場合は、そこにインストールします。使用しない場合は、[!DNL Sales Connect] ページのレイアウトを削除できます。
+   >[!DNL Sales Connect] は、いくつかのページレイアウトをインストールしますが、既に使用しているデフォルトのレイアウトがある場合は、そこにインストールします。 使用しない場合は、[!DNL Sales Connect] ページのレイアウトを削除できます。
 
 1. 下にスクロールして、「[!UICONTROL アクティビティの履歴]」セクションを表示します。
 1. レンチをクリックして編集します。
-1. 「[!UICONTROL アクティビティの履歴]」セクションに含める [!UICONTROL Sales Connect] フィールドを選択します。ここに [!UICONTROL Sales Connect] フィールドが表示されない場合は、誤った [!DNL Salesforce] パッケージがインストールされている可能性があります。
+1. 「[!UICONTROL アクティビティの履歴]」セクションに含める [!UICONTROL Sales Connect] フィールドを選択します。 ここに [!UICONTROL Sales Connect] フィールドが表示されない場合は、誤った [!DNL Salesforce] パッケージがインストールされている可能性があります。
 1. 「**[!UICONTROL 追加]**」をクリックして、目的のフィールドを上に移動します。
 1. 「**[!UICONTROL OK]**」をクリックします。
 1. 「**[!UICONTROL 保存]**」をクリックします。

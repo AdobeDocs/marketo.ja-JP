@@ -4,9 +4,11 @@ description: Sales Connect プラグインがGmailに表示されない場合に
 title: Sales Connect プラグインが Gmail に表示されない
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/UkapxaHCL5UbWjOLoFl21XNUXkx-WkbEdl--VjMOEOU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: 169
 ht-degree: 56%
 
 ---
@@ -21,9 +23,9 @@ ht-degree: 56%
 
 - 分かり切っているかもしれませんが、ブラウザーを終了して、新しいウィンドウを開いてみてください。
 
-- [web アプリケーション &#x200B;](https://toutapp.com/login)に移動し、ログインしていることを確認します。
+- [web アプリケーション ](https://toutapp.com/login)に移動し、ログインしていることを確認します。
 
-- Cookie が有効になっていることを確認します。 [!DNL Chrome]を使用している場合は、[!UICONTROL 設定] > [!UICONTROL 詳細設定を表示] > [!UICONTROL &#x200B; コンテンツ設定] > 「[!UICONTROL &#x200B; サードパーティ Cookieとサイトデータのブロック &#x200B;]」のチェックを外します。
+- Cookie が有効になっていることを確認します。 [!DNL Chrome]を使用している場合は、[!UICONTROL 設定] > [!UICONTROL 詳細設定を表示] > [!UICONTROL  コンテンツ設定] > 「[!UICONTROL  サードパーティ Cookieとサイトデータのブロック ]」のチェックを外します。
 
 - [!DNL Sales Connect] ブラウザー拡張機能を切断してから再接続してみてください。
 

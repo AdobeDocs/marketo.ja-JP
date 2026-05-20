@@ -2,9 +2,11 @@
 description: テスト用にSales Insight Actions サンドボックスを設定する方法を説明します。 プロビジョニングをリクエストし、インスタンスをアクティベートして、Salesforce Sandboxに接続します。
 title: セールスインサイトアクションサンドボックスの設定
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/ZHly-bUFbbQwoOD-rheE4vfLCihBCplRjT0SNibBCc4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: 693
 ht-degree: 84%
 
 ---
@@ -73,7 +75,7 @@ Actions では、まず Salesforce の本番稼働ユーザで新しいインス
 
 ## Salesforce サンドボックスとの互換性を持たせるように Actions インスタンスの変換をリクエスト {#request-your-actions-instance-be-converted}
 
-1. [Marketo Engage サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡して、新しいSales Insight Actions インスタンスをSalesforce サンドボックスと互換性があるように設定するようにリクエストしてください。
+1. [Marketo Engage サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡して、新しいSales Insight Actions インスタンスをSalesforce サンドボックスと互換性があるように設定するようにリクエストしてください。
 
 1. toutapp.com/login ページの「Salesforce でログイン」ボタンを使用してログインし、すべてが正しく設定されていることをテストします。
 

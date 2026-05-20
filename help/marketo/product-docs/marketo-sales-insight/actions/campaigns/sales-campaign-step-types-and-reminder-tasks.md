@@ -1,11 +1,14 @@
 ---
-description: Sales Campaign のステップタイプとリマインダータスクについて説明します。 メール、通話、InMail、カスタムタスクステップを使用し、コマンドセンターとSalesforceでタスクをキューに入れます。
+description: Sales Campaignのステップタイプとリマインダータスクについて説明します。 Command CenterとSalesforceで、メール、通話、InMail、カスタムタスクの手順とキューのタスクを使用します。
 title: セールスキャンペーンのステップのタイプとリマインダータスク
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/QnwSipRlTnXV-LV-KG11LPZbHBjHPGsaLMPBrzqD8gM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: 336
 ht-degree: 92%
 
 ---
@@ -18,7 +21,7 @@ ht-degree: 92%
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-1.png)
 
-### 電子メール {#email}
+### メール {#email}
 
 新しいメールを作成するか、既存のテンプレートを使用します。
 
@@ -36,19 +39,19 @@ ht-degree: 92%
 
 ### 電話 {#call}
 
-電話で取引先責任者をフォローアップするリマインダーを設定します。また、通話中にトークトラックとして使用するメモを保存することもできます。
+電話で取引先責任者をフォローアップするリマインダーを設定します。 また、通話中にトークトラックとして使用するメモを保存することもできます。
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-3.png)
 
 ### InMail {#inmail}
 
-複数のチャネルをフォローアップすることは、リードとのつながりを強化する優れた方法です。InMail タスクを使用して、LinkedIn を介して連絡を取るリマインダーを設定できます。
+複数のチャネルをフォローアップすることは、リードとのつながりを強化する優れた方法です。 InMail タスクを使用して、LinkedIn を介して連絡を取るリマインダーを設定できます。
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-4.png)
 
 ### カスタムタスク {#custom-task}
 
-上記のオプションを適用できない場合は、カスタムタスクを使用します。例えば、同僚を招待して、メールでリードをフォローアップすることができます。
+上記のオプションを適用できない場合は、カスタムタスクを使用します。 例えば、同僚を招待して、メールでリードをフォローアップすることができます。
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-5.png)
 
@@ -58,7 +61,7 @@ ht-degree: 92%
 
 取引先責任者にメールを送信するタスクと電話をかけるタスクは、セールスキャンペーンのタスクで最も一般的に使用されます。
 
-また、LinkedIn で取引先責任者に「Inmail するタスク」がワークフローの一環である場合、そのように作成することもできます。また、カスタムタスクを作成して、ハッピーアワーに招待したり、チャリティイベントについて質問したり、ゲーム 5 の後にチェックインしたりするよう促すこともできます。
+また、ワークフローに「Task to Inmail」という連絡先を LinkedIn 上に作成することもできます。 また、カスタムタスクを作成して、ハッピーアワーに招待したり、チャリティイベントについて質問したり、ゲーム 5 の後にチェックインしたりするよう促すこともできます。
 
 >[!NOTE]
 >

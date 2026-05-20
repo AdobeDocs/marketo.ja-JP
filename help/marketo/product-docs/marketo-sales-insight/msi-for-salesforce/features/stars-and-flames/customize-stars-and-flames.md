@@ -1,23 +1,26 @@
 ---
 unique-page-id: 2360303
-description: Marketo セールスInsightで星と炎をカスタマイズする方法を説明します。 Salesforceでのリードスコアおよび緊急度の表示方法を設定します。
+description: Marketo Sales Insightで星と炎をカスタマイズする方法について説明します。 Salesforceでのリードスコアと切迫感の表示方法を設定します。
 title: 星と炎のカスタマイズ
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/UioVGSyJiAODYHHjcIpqJqZkO-psgtxKHyeIr-6-Sy4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: 186
 ht-degree: 89%
 
 ---
 
 # 星と炎のカスタマイズ {#customize-stars-and-flames}
 
-[!DNL Marketo Sales Insight] は、星と炎を使用してリードに優先順位を付けます。Marketo は、誰が 1-2-3 の星や炎を取得するかを自動的に決定します。ただし、数式を変更することはできます。手順は次のとおりです。
+[!DNL Marketo Sales Insight] は、星と炎を使用してリードに優先順位を付けます。 Marketo は、誰が 1-2-3 の星や炎を取得するかを自動的に決定します。 ただし、数式を変更することはできます。 手順は次のとおりです。
 
 >[!AVAILABILITY]
 >
->すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!NOTE]
 >
@@ -37,7 +40,7 @@ ht-degree: 89%
    >
    >**定義**
    >
-   >**[!UICONTROL 動的]** - [相対データ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)から派生したパーセンテージ値です。これは便利です。この方法をお勧めします。
+   >**[!UICONTROL 動的]** - [相対データ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)から派生したパーセンテージ値です。 これは便利です。 この方法をお勧めします。
    >
    >**[!UICONTROL 静的]** - 正確なスコア数を定義できます。割合も秘密のレシピもありません。
 
@@ -53,6 +56,6 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->一度変更を加えると、星や炎を再計算するプロセスには時間がかかります。忍耐は美徳です。
+>一度変更を加えると、星や炎を再計算するプロセスには時間がかかります。 忍耐は美徳です。
 
-これで、Marketo が星と炎を計算する方法をカスタマイズし、ビジネスニーズに合わせて改善しました。
+これで、 Marketo が星と炎を計算する方法をカスタマイズし、ビジネスニーズに合わせて改善しました。

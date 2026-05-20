@@ -1,12 +1,15 @@
 ---
 unique-page-id: 4719308
-description: Marketo同期に既存のSalesforce フィールドを追加する方法を説明します。 Salesforceの同期ユーザーにフィールドを表示して、次のサイクルで同期されるようにします。
+description: 既存のSalesforce フィールドをMarketoに追加する方法について説明します。 Salesforceの同期ユーザーが次のサイクルで同期するように、このフィールドを表示します。
 title: 既存の Salesforce フィールドの Marketo 同期への追加
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/Vb-1DhNwUPQSPYuCkVzzSDDqWd4tvO-XoPhXn58hj6E
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: 173
 ht-degree: 83%
 
 ---
@@ -17,7 +20,7 @@ ht-degree: 83%
 >
 >**管理者権限が必要**
 
-通常、Salesforce の新しいカスタムフィールドは Marketo Engage に自動的に同期されます。そうでない場合、Marketo 同期ユーザーにはフィールドが表示されない場合があります。この問題の修正方法を次に示します。
+通常、Salesforce の新しいカスタムフィールドは Marketo Engage に自動的に同期されます。 そうでない場合、Marketo 同期ユーザーにはフィールドが表示されない場合があります。 この問題の修正方法を次に示します。
 
 1. 名前をクリックし、「**[!UICONTROL 設定]**」を選択します。
 
@@ -27,7 +30,7 @@ ht-degree: 83%
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
-1. 同期ユーザーのプロファイルをクリックします。
+1. 同期ユーザのプロファイルをクリックします。
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 

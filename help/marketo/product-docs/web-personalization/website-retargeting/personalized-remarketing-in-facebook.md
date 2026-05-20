@@ -1,13 +1,17 @@
 ---
 unique-page-id: 4720917
-description: Dnl でのパーソナライズされたリマーケティングを含む、Marketo Engageの facebook でのパーソナライズされたリマーケティングについて説明します。 このガイドを使用して、次の手順を完了します。
+description: Dnlのパーソナライズされたリマーケティングなど、Marketo EngageのFacebookのパーソナライズされたリマーケティングについて説明します。 このガイドを使用して、次のステップを完了してください。
 title: Facebook でのパーソナライズリマーケティング
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 92%
+source-wordcount: 343
+ht-degree: 93%
 
 ---
 
@@ -18,7 +22,7 @@ ht-degree: 92%
 >[!PREREQUISITES]
 >
 >* [Web パーソナライゼーションデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定を完成します
->* [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [カスタムオーディエンスとリマーケティングに関する Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)を確認します。
+>* [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [カスタムオーディエンスとリマーケティングに関する Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)を確認します。
 
 ## [!DNL Facebook] でのオーディエンスの作成 {#creating-an-audience-in-facebook}
 
@@ -48,7 +52,7 @@ ht-degree: 92%
 
 ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. この例では、「[!UICONTROL 業界]」に&#x200B;**[!UICONTROL 教育]**&#x200B;を含むように選択します。「**[!UICONTROL 教育]**」を入力し、「**[!UICONTROL 過去の期間]**」を編集して 180 日にします。オーディエンス名に「**教育業界**」と入力します。「**[!UICONTROL オーディエンスを作成]**」をクリックします。
+1. この例では、「[!UICONTROL 業界]」に&#x200B;**[!UICONTROL 教育]**&#x200B;を含むように選択します。 「**[!UICONTROL 教育]**」を入力し、「**[!UICONTROL 過去の期間]**」を編集して 180 日にします。 オーディエンス名に「**教育業界**」と入力します。 「**[!UICONTROL オーディエンスを作成]**」をクリックします。
 
 ![](assets/image2015-1-19-16-3a56-3a15.png)
 
@@ -87,7 +91,7 @@ ht-degree: 92%
         <td colspan="1"><p>エンタープライズ</p><p>中小企業</p></td>
        </tr>
        <tr>
-        <td>業界</td>
+        <td>業種</td>
         <td><p>防衛</p><p>教育</p><p>金融サービス</p><p>政府</p><p>医療、医薬品、バイオテクノロジー</p><p>ソフトウェア、インターネット</p><p>...（RTP 業界のオプションに従って）</p></td>
        </tr>
        <tr>
@@ -117,7 +121,7 @@ ht-degree: 92%
 
    ![](assets/image2015-1-19-17-3a12-3a39.png)
 
-1. 広告セットを作成します。作成したオーディエンスのリストからカスタムオーディエンスを選択します（例：教育業界）。
+1. 広告セットを作成します。 作成したオーディエンスのリストからカスタムオーディエンスを選択します（例：教育業界）。
 
    ![](assets/image2015-1-19-17-3a18-3a13.png)
 

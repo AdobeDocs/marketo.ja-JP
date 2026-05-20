@@ -1,13 +1,16 @@
 ---
 unique-page-id: 11382829
-description: IT 部門がMarketo Outlook プラグインをアンインストールする方法を説明します。 必要に応じて、ユーザーマシンからアドインを削除します。
+description: IT部門がMarketo Outlook プラグインをアンインストールする方法について説明します。 必要に応じて、ユーザーマシンからアドインを削除します。
 title: IT による Marketo  [!DNL Outlook]  プラグインのアンインストール
 exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/p2CjKHycrJRHLpphyn2qsUEKP-dWh2OlTezwrOn9Ljw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 86%
+source-wordcount: 139
+ht-degree: 87%
 
 ---
 

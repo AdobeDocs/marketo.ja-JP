@@ -1,19 +1,24 @@
 ---
 unique-page-id: 2359732
-description: Marketoのフリーフォームのランディングページで動的コンテンツを使用する方法を説明します。 異なるセグメントに異なるコンテンツを表示します。
+description: Marketoのフリーフォームのランディングページで動的コンテンツを使用する方法を説明します。 異なるコンテンツを異なるセグメントに表示します。
 title: フリーフォームランディングページでの動的コンテンツの使用
 exl-id: 76441566-96be-43fb-91da-4c0c520cc9e1
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/O80z2EtTU2E-1yf6ng-5n6FOWNXzVG2-Oq8xbXapvhI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 91%
+source-wordcount: 220
+ht-degree: 81%
 
 ---
 
 # フリーフォームランディングページでの動的コンテンツの使用 {#use-dynamic-content-in-a-free-form-landing-page}
 
-ランディングページで動的コンテンツを使用することで、ターゲットを絞った情報でオーディエンスの関心を引き付けます。
+ランディングページで動的コンテンツを利用すれば、ターゲットを絞った情報でオーディエンスを惹きつけることができます。
 
 >[!PREREQUISITES]
 >
@@ -57,13 +62,13 @@ ht-degree: 91%
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
-## 動的コンテンツを適用する {#apply-dynamic-content}
+## 動的コンテンツの適用 {#apply-dynamic-content}
 
-1. セグメントの下の要素を選択し、設定アイコンをクリックして、「**[!UICONTROL 編集]**」をクリックします。各セグメントに対して繰り返します。
+1. セグメントの下の要素を選択し、設定アイコンをクリックして、「**[!UICONTROL 編集]**」をクリックします。 各セグメントに対して繰り返します。
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 
-1. 緑のチェックマークは、そのセグメントに固有のコンテンツを示します。空白はデフォルトのセグメントコンテンツを示します。
+1. 緑のチェックマークは、そのセグメントに固有のコンテンツを示します。 空白はデフォルトのセグメントコンテンツを示します。
 
    ![](assets/image2014-9-17-12-3a12-3a52.png)
 
@@ -75,7 +80,7 @@ ht-degree: 91%
 >
 >様々なセグメントのコンテンツを変更する前に、デフォルトのランディングページを作成します。
 
-これで完成です。これで、ターゲットコンテンツを送信できるようになりました。
+これで、セグメントにターゲットコンテンツを送信できます。
 
 >[!MORELIKETHIS]
 >

@@ -7,9 +7,16 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: af89a1a1fd0246564d0904103f742230a096de04
+TQID: https://experienceleague.adobe.com/cs-7nueaGEFS1geKikrmqBOJAu5US4RX53yLqsnjoSM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bcc5edb5-84c3-4940-9f84-ed88b6c16274id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '830'
+source-wordcount: 834
 ht-degree: 14%
 
 ---
@@ -18,7 +25,7 @@ ht-degree: 14%
 
 以下の表を使用して、以前のメールエディター（メールエディター2.0）と新しいメールDesignerの機能を比較します。
 
-このページ（および[現在のリリースノート &#x200B;](/help/marketo/release-notes/current.md){target="_blank"}）でアップデートをご確認ください。
+このページ（および[現在のリリースノート ](/help/marketo/release-notes/current.md){target="_blank"}）でアップデートをご確認ください。
 
 <table><thead>
   <tr>
@@ -72,7 +79,7 @@ ht-degree: 14%
   </tr>
   <tr>
     <td>画像/ファイルをアップロード</td>
-    <td>ローカルシステムから画像<a href="/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-assets" target="_blank">を</a> アップロードできます。</td>
+    <td>ローカルシステムから画像</a>を<a href="/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-assets" target="_blank"> アップロードできます。</td>
     <td>対応可能</td>
     <td>対応可能</td>
   </tr>
@@ -174,7 +181,7 @@ ht-degree: 14%
   </tr>
   <tr>
     <td>Litmus統合</td>
-    <td>Litmus<a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">と</a>統合して、メールが様々なメールクライアントでどのようにレンダリングされるかを確認できます。</td>
+    <td>Litmus</a>と<a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">統合して、メールが様々なメールクライアントでどのようにレンダリングされるかを確認できます。</td>
     <td>利用不可</td>
     <td>対応可能</td>
     <tr>
@@ -209,7 +216,7 @@ ht-degree: 14%
   </tr>
   <tr>
     <td>メールテンプレートコンバータ</td>
-    <td>既存のMarketo テンプレート <a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">を新しい電子メール Designerに</a>読み込む機能。</td>
+    <td>既存のMarketo テンプレート </a>を新しい電子メール Designerに<a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">読み込む機能。</td>
     <td>不要</td>
     <td>対応可能</td>
   </tr>
@@ -233,7 +240,7 @@ ht-degree: 14%
   </tr>
   <tr>
     <td>ブランドテーマ</td>
-    <td>承認済みテーマ <a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">を組織全体で</a>適用し、スタイル、色、フォントサイズなどの要素の一貫性を確保できます。</td>
+    <td>承認済みテーマ </a>を組織全体で<a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">適用し、スタイル、色、フォントサイズなどの要素の一貫性を確保できます。</td>
     <td>利用不可</td>
     <td>対応可能</td>
   </tr>

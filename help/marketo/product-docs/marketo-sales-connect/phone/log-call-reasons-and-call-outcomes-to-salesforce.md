@@ -1,23 +1,27 @@
 ---
-description: Sales Connect からSalesforceに通話理由と通話結果を記録する方法を説明します。 コールディスポジションが正しいSalesforce フィールドに同期していることを確認します。
+description: Sales ConnectからSalesforceに通話理由と通話結果を記録する方法を説明します。 コールの廃棄が正しいSalesforce フィールドに同期していることを確認します。
 title: Salesforce に通話理由と通話結果を記録
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/s1WtxUjizmyoubCK1SfFAfivTRcfuQeESWDYyNVO6k4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: 462
 ht-degree: 95%
 
 ---
 
 # [!DNL Salesforce] に通話理由と通話結果を記録 {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-レポートや表示の目的で、通話の結果や通話理由を [!DNL Salesforce] に記録する場合は、それぞれにカスタムアクティビティフィールドを作成できます。各フィールドは、特定の API 名（[!DNL Salesforce] では「フィールド名」と呼ばれます）を使用する必要があります。
+レポートや表示の目的で、通話の結果や通話理由を [!DNL Salesforce] に記録する場合は、それぞれにカスタムアクティビティフィールドを作成できます。 各フィールドは、特定の API 名（[!DNL Salesforce] では「フィールド名」と呼ばれます）を使用する必要があります。
 
 * 通話の結果フィールド名：mktosales_call_outcome
 * 通話理由フィールド名：mktosales_call_reason
 
-これらのフィールドを利用するには、まず、カスタムアクティビティフィールドとしてフィールドを作成する必要があります。ユーザに表示するには、タスクオブジェクトのページレイアウトに追加する必要があります。
+これらのフィールドを利用するには、まず、カスタムアクティビティフィールドとしてフィールドを作成する必要があります。 ユーザに表示するには、タスクオブジェクトのページレイアウトに追加する必要があります。
 
 ## [!DNL Salesforce] Classic {#salesforce-classic}
 
@@ -43,11 +47,11 @@ ht-degree: 95%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
-1. カスタムフィールドに、上で定義したフィールド名を付けます。フィールドの長さの上限は 255 文字です。フィールドラベルは、セールスチームが表示できるフィールドで、チームのニーズに合わせてカスタマイズできます。
+1. カスタムフィールドに、上で定義したフィールド名を付けます。 フィールドの長さの上限は 255 文字です。 フィールドラベルは、セールスチームが表示できるフィールドで、チームのニーズに合わせてカスタマイズできます。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
-1. 残りの設定はオプションです。設定が完了したら、「**[!UICONTROL 次へ]**」をクリックします。
+1. 残りの設定はオプションです。 設定が完了したら、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
 

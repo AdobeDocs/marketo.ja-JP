@@ -1,18 +1,21 @@
 ---
-description: Dynamic Chatでの個々のチャットインタラクションとしてのダイアログについて説明します。 レポートの表示場所、閲覧者および有効性の監視を定義します。
+description: Dynamic Chatの個別のチャット会話としてのダイアログについて説明します。 それらを表示する場所と担当者を定義し、レポートの効果を監視します。
 title: ダイアログの概要
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/rO2ieaHlOARDMHbJq006NUub2UD-FTKQIj5VYXF9NqI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: 272
 ht-degree: 85%
 
 ---
 
 # ダイアログの概要 {#dialogue-overview}
 
-ダイアログは個々のチャットの会話です。各ダイアログで、特定のチャット会話を表示する場所、表示する対象者、会話の内容を決定します。各ダイアログには、効果を監視できる独自のレポートページもあります。
+ダイアログは個々のチャットの会話です。 各ダイアログで、特定のチャット会話を表示する場所、表示する対象者、会話の内容を決定します。 各ダイアログには、効果を監視できる独自のレポートページもあります。
 
 ## オーディエンス条件 {#audience-criteria}
 

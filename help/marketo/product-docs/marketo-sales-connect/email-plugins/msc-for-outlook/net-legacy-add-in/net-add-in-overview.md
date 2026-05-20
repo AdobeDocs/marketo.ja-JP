@@ -1,12 +1,15 @@
 ---
 unique-page-id: 14352457
-description: Outlook 用 Sales Connect .NET アドインについて説明します。 従来のアドインの概要と Outlook デスクトップとの連携方法について説明します。
+description: Outlook用Sales Connect .NET アドインについて説明します。 従来のアドインと、Outlook デスクトップでの動作について説明します。
 title: .NET アドインの概要
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/HpLSLHftRE-0shyxdjtZZDbDchSqu53gbIHjTihnsHc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: 239
 ht-degree: 90%
 
 ---
@@ -15,7 +18,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->これは古いアドインです。既にインストール済みの場合、.NET アドインは 2020 年まで機能します。新規ユーザーは、新しい [Office 365 アドイン](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)をインストールしてください。
+>これは古いアドインです。 既にインストール済みの場合、.NET アドインは 2020 年まで機能します。 新規ユーザーは、新しい [Office 365 アドイン](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf)をインストールしてください。
 
 ## コンテンツの添付 {#attaching-a-piece-of-content}
 
@@ -33,8 +36,8 @@ ht-degree: 90%
 
 事前に作成した Tout テンプレートを [!DNL Outlook] メッセージに取り込むには、「**[!UICONTROL テンプレート]**」ボタンをクリックします。
 
-アドビは、すべての個人用テンプレートおよびチーム間の共有テンプレートと同期します。また、最後に使用したテンプレートと最も頻繁に使用するテンプレートは自動的に取り込まれ、簡単にアクセスできます。
+アドビは、すべての個人用テンプレートおよびチーム間の共有テンプレートと同期します。 また、最後に使用したテンプレートと最も頻繁に使用するテンプレートは自動的に取り込まれ、簡単にアクセスできます。
 
 ## 「[!UICONTROL Tout It]」ボタン {#the-tout-it-button}
 
-パーソナライズされたメールを入力して、準備が整ったら、常に「**[!UICONTROL Tout It]**」ボタンをクリックしてトラッキングするようにしてください。「トラッキングの魔法を追加しているのでお待ちください。」というボックスが表示されます。
+パーソナライズされたメールを入力して、準備が整ったら、常に「**[!UICONTROL Tout It]**」ボタンをクリックしてトラッキングするようにしてください。 「トラッキングの魔法を追加しているのでお待ちください。」というボックスが表示されます。

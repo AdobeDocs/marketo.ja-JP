@@ -1,11 +1,14 @@
 ---
-description: Sales Connect でのコールの結果を理解します。 各呼び出しの後に結果を記録するので、アクティビティと配置をSalesforceに同期します。
+description: セールスコネクトによるコール結果の把握。 アクティビティとディスポジションがSalesforceに同期されるように、各呼び出しの後に結果をログに記録します。
 title: 通話結果
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/16T8TecqodLvoaD8Epnt2hgMcIbixKgG8jfgE0veggo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: 193
 ht-degree: 90%
 
 ---
@@ -58,13 +61,13 @@ ht-degree: 90%
 
    ![](assets/call-outcomes-8.png)
 
-1. [!UICONTROL 回答済み]ドロップダウンをクリックして、結果のタイプを選択します（この例では、「回答済み」を選択しています）。「**[!UICONTROL 追加]**」をクリックします。
+1. [!UICONTROL 回答済み]ドロップダウンをクリックして、結果のタイプを選択します（この例では、「回答済み」を選択しています）。 「**[!UICONTROL 追加]**」をクリックします。
 
    ![](assets/call-outcomes-9.png)
 
 ## 通話結果の選択 {#choose-a-call-outcome}
 
-通話結果が有効になったら、ユーザは、通話する際に 1 つ選択できます。
+通話結果が有効になったら、 ユーザは、通話する際に 1 つ選択できます。
 
 1. 通話ボタンをクリックして、ダイヤラーを起動します。
 

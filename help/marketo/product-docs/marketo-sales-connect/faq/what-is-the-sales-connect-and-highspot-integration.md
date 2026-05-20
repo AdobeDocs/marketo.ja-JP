@@ -1,19 +1,21 @@
 ---
 unique-page-id: 14352553
-description: Sales Connect と Highspot の統合について説明します。 販売メールに Highspot のコンテンツを添付し、エンゲージメントを追跡します。
+description: セールスコネクトとHighspotの統合について説明します。 Highspot コンテンツをセールスメールに添付し、エンゲージメントを追跡できます。
 title: Sales Connect と Highspot の統合について
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/1U81JHYFajHjrVNSJE3i0ewItUVSLp8hUJUU1WFoP98
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: 199
 ht-degree: 91%
 
 ---
 
 # [!DNL Sales Connect] と [!DNL Highspot] の統合について {#what-is-the-sales-connect-and-highspot-integration}
 
-[!DNL Sales Connect] は、コンテンツ管理システムである [Highspot](https://www.highspot.com/) との統合をサポートしています。[!DNL Highspot] の顧客でもある [!DNL Sales Connect] の顧客は、web アプリケーション内から [!DNL Highspot] のコンテンツにアクセスできます。
+[!DNL Sales Connect] は、コンテンツ管理システムである [Highspot](https://www.highspot.com/) との統合をサポートしています。 [!DNL Highspot] の顧客でもある [!DNL Sales Connect] の顧客は、web アプリケーション内から [!DNL Highspot] のコンテンツにアクセスできます。
 
 ## 要件 {#requirements}
 
@@ -21,7 +23,7 @@ ht-degree: 91%
 
 * **ブラウザー - [!DNL Chrome] および [!DNL Safari]、[!DNL Edge]、IE、Firefox のいずれかの最新バージョン**
 
-ブラウザーで [!DNL Sales Connect] を使用する以外に、[!DNL Highspot] 統合は [!DNL Outlook .Net] メールクライアントで使用できます。要件は次のとおりです。
+ブラウザーで [!DNL Sales Connect] を使用する以外に、[!DNL Highspot] 統合は [!DNL Outlook .Net] メールクライアントで使用できます。 要件は次のとおりです。
 
 * **[!DNL Outlook .Net]および[!DNL Exchange]** - [!DNL Sales Connect] がサポートするバージョンの [!DNL Outlook .Net]、[!DNL Exchange Online]、[!DNL Exchange 2016]
 

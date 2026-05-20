@@ -1,12 +1,16 @@
 ---
 unique-page-id: 2359478
-description: メールリンクのパフォーマンスレポートを作成および使用する方法について説明します。 クリックとエンゲージメントに対するメール内の各リンクのパフォーマンスを確認します。
+description: メールリンクパフォーマンスレポートの作成および使用方法について説明します。 メール内の各リンクのクリック数やエンゲージメント率をご確認ください。
 title: メールリンク効果レポート
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/LAf6S5Nsh-0lT5heZk9IIaaLbPgtz8oGhWuJtm38gY8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: 255
 ht-degree: 90%
 
 ---
@@ -27,7 +31,7 @@ ht-degree: 90%
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. レポート期間を設定します。「**[!UICONTROL 保存]**」をクリックします。
+1. レポート期間を設定します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
@@ -35,7 +39,7 @@ ht-degree: 90%
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
-1. 完成です。これで、メールリンク効果レポートが作成されました。
+1. これで完了です。 これで、メールリンク効果レポートが作成されました。
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 
@@ -74,7 +78,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->このレポートは、無効なリンクまたは空のリンクがメールに追加された場合、「不正なリンク」と表示されます。このメッセージが表示された場合、メールエディターの [HTML ソースを確認](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)して、完全なリンクが入力されていない空のリンクやトークンを確認できます。
+>このレポートは、無効なリンクまたは空のリンクがメールに追加された場合、「不正なリンク」と表示されます。 このメッセージが表示された場合、メールエディターの [HTML ソースを確認](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md)して、完全なリンクが入力されていない空のリンクやトークンを確認できます。
 
 >[!TIP]
 >

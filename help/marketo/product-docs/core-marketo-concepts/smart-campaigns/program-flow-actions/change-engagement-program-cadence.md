@@ -1,12 +1,15 @@
 ---
 unique-page-id: 1147013
-description: フロー手順でエンゲージメントプログラム頻度を変更する方法を説明します。 ストリームでメールを受信する頻度を調整します。
+description: フローステップでエンゲージメントプログラムのケイデンスを変更する方法を説明します。 ユーザーがストリームでメールを受信する頻度を調整します。
 title: エンゲージメントプログラムケイデンスの変更
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/nNhVJUelrVSsKcH2oxw2lzWTJINM5JBj1X36KxAoyWI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: 113
 ht-degree: 82%
 
 ---

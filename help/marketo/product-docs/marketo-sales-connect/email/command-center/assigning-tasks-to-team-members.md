@@ -1,12 +1,14 @@
 ---
 unique-page-id: 45417460
-description: Sales Connect でチームメンバーにタスクを割り当てる方法について説明します。 コマンドセンターまたはライブフィードからメールまたはコールタスクを委任します。
+description: セールスコネクトでチームメンバーにタスクを割り当てる方法を説明します。 コマンドセンターまたはライブフィードからメールまたはコールタスクをデリゲートします。
 title: チームメンバーへのタスクの割り当て
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/9PbXW9Fq81PW-UtAB21b09OUhf-kW3dBF1cOe9TrG0I
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: 131
 ht-degree: 82%
 
 ---
@@ -17,7 +19,7 @@ ht-degree: 82%
 
 >[!NOTE]
 >
->タスクの割り当ては、共有連絡先に対してのみ可能です。
+>タスクの割り当ては、共有取引先責任者に対してのみ可能です。
 
 1. 「**[!UICONTROL コマンドセンター]**」をクリックします。
 
@@ -39,7 +41,7 @@ ht-degree: 82%
 
    ![](assets/five.png)
 
-1. 「人物」フィールドに、該当する人物を追加します。
+1. 「人物」フィールドに、取引先責任者となる人物を追加します。
 
    ![](assets/six.png)
 

@@ -1,12 +1,15 @@
 ---
 unique-page-id: 30081230
-description: Sales Connect の人物ページで一括アクションを使用する方法を説明します。 キャンペーンに追加、キャンペーンから削除、複数の連絡先を削除します。
+description: Sales Connectの人物ページで一括アクションを使用する方法を説明します。 キャンペーンに追加、キャンペーンから削除、または複数の連絡先を削除します。
 title: 人物に対する一括アクション
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/QtKi9nvrLTAONooRnJvOy2fmB2yg0pp03gwGNq7dLpQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: 156
 ht-degree: 85%
 
 ---
@@ -27,7 +30,7 @@ ht-degree: 85%
 
 ## ソース {#source}
 
-データベースに入るすべての取引先責任者に、ソースを自動的に割り当てます。この手順を使用して、そのソースを更新します。
+データベースに入るすべての取引先責任者に、ソースを自動的に割り当てます。 この手順を使用して、そのソースを更新します。
 
 ![](assets/source.png)
 
@@ -49,6 +52,6 @@ ht-degree: 85%
 
 ## 削除 {#delete}
 
-取引先責任者を一括で削除します。完全な手順は[こちら](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)にあります。
+取引先責任者を一括で削除します。 完全な手順は[こちら](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)にあります。
 
 ![](assets/delete.png)

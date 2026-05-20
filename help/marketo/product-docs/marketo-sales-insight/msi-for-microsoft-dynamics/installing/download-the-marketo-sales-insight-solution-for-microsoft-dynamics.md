@@ -1,13 +1,16 @@
 ---
 unique-page-id: 6849070
-description: Microsoft DynamicsのMarketo Sales Insight ソリューションをダウンロードする方法について説明します。 パッケージを取得してから Dynamics インスタンスにインストールします。
+description: Microsoft Dynamics向けMarketo Sales Insight ソリューションのダウンロード方法について説明します。 Dynamics インスタンスにインストールする前に、パッケージを取得します。
 title: Microsoft Dynamics 用 Marketo セールスインサイトソリューションのダウンロード
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/w1Jqw7scFHW8gKnh4O5YTilwiVZ3OpRFRHj8lnH5ERY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 80%
+source-wordcount: 112
+ht-degree: 81%
 
 ---
 
@@ -19,7 +22,7 @@ ht-degree: 80%
 
 >[!IMPORTANT]
 >
->このページのプラグインは、Marketo のネイティブ CRM 同期ソリューションを使用して Marketo Engage を [!DNL Dynamics 365] に同期する場合に使用します。カスタム同期、[!DNL MS Dynamics 365 Online]（9.x 以降）を持ち、[!DNL Marketo Sales Insight] を購入しているユーザの場合、[パッケージはこちらです](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
+>このページのプラグインは、Marketo のネイティブ CRM 同期ソリューションを使用して Marketo Engage を [!DNL Dynamics 365] に同期する場合に使用します。 カスタム同期、[!DNL MS Dynamics 365 Online]（9.x 以降）を持ち、[!DNL Marketo Sales Insight] を購入しているユーザの場合、[パッケージはこちらです](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -41,4 +44,4 @@ ht-degree: 80%
 
    ![](assets/msd-online.png)
 
-これで完了です。ソリューションの zip ファイルがデバイスにダウンロードされます。
+これで完了です。 ソリューションの zip ファイルがデバイスにダウンロードされます。

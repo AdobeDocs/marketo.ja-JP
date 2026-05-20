@@ -3,9 +3,12 @@ unique-page-id: 2953243
 description: キャンペーンの失敗、CRMの同期、エンゲージメントなど、Marketoの通知タイプについて説明します。 各アラートの意味を理解：
 title: 通知のタイプ
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
+TQID: https://experienceleague.adobe.com/CsekFCXNG0acEgpSCcSvWcreKsPHBLE4Ht8lSb-PSq8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: 256
 ht-degree: 83%
 
 ---
@@ -60,4 +63,4 @@ CRM 同期通知は、誤った権限や同期の停止など、CRM 同期で検
 
 >[!NOTE]
 >
->受け取る可能性のあるエラーコードの一部は、[開発者ドキュメント &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/error-codes)に記載されています。
+>受け取る可能性のあるエラーコードの一部は、[開発者ドキュメント ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/error-codes)に記載されています。

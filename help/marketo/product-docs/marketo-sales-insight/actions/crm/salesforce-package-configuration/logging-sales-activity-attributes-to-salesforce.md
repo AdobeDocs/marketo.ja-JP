@@ -1,10 +1,13 @@
 ---
-description: SalesforceでInsightの販売アクション用のカスタムアクティビティフィールドを追加する方法を説明します。 設定でアクティビティのカスタムフィールドを作成し、呼び出しの結果や理由などを記録します。
+description: SalesforceのSales Insight アクションにカスタムアクティビティフィールドを追加する方法について説明します。 セットアップでアクティビティのカスタムフィールドを作成して、通話結果や理由などを記録できます。
 title: セールスアクティビティ属性の Salesforce へのログ
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/eHt6JXey7ZwZ8RjqTsGxqcFjun73vh3s4zk3cCqAiq8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: 320
 ht-degree: 91%
 
 ---

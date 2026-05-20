@@ -1,12 +1,14 @@
 ---
 unique-page-id: 14352441
-description: Gmail プラグインから後日メールをスケジュールする方法を説明します。 トラッキングされたメールが必要に応じて送信されるように、送信時間を設定します。
+description: Gmail プラグインから後日のメールをスケジュールする方法について説明します。 トラッキング対象メールが必要なタイミングで送信されるように、送信時間を設定します。
 title: 後日送信メールのスケジュール設定
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/0rYSj6xircNr9N8FsRxSzcN47KOeX3GF17ZNAi-sToI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: 157
 ht-degree: 83%
 
 ---

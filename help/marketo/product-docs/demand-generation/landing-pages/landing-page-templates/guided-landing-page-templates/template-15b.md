@@ -1,19 +1,22 @@
 ---
 unique-page-id: 9437819
-description: テンプレート 15B ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
+description: テンプレート 15B ガイド付きランディングページテンプレートについて説明します。 ダウンロードして、Marketoランディングページでご利用ください。
 title: テンプレート 15B
 exl-id: ad55baf3-9670-42c2-8590-af0d4cf934a6
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/wp6WMKPFj3-9mhwPrgHyVfCnG--fMro1-InuU8we-aM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 68%
+source-wordcount: 73
+ht-degree: 72%
 
 ---
 
 # テンプレート 15B {#template-15b}
 
-右クリックして[テンプレート 15B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html?lang=ja)します
+右クリックして[テンプレート 15B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)します
 
 ![](assets/image2015-8-13-13-3a29-3a31.png)
 
@@ -28,4 +31,4 @@ ht-degree: 68%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 15B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html?lang=ja)
+[テンプレート 15B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html)

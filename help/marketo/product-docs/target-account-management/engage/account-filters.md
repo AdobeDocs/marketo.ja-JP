@@ -1,13 +1,15 @@
 ---
 unique-page-id: 11380732
-description: アカウント中心のフィルターを使用して、重点顧客とペルソナを特定し、関与させる方法を説明します。 スマートキャンペーンで TAM フィルターを使用して、適切なアカウントをターゲットに設定します。
+description: アカウント中心のフィルターを使用して、名前付きアカウントとペルソナを特定し、エンゲージする方法を説明します。 スマートキャンペーンでTAM フィルターを利用すれば、適切なアカウントをターゲットにできます。
 title: 顧客フィルター
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/KOr4iyPEQZ5o35-iVAPWaYIbcqipcQX-NfiuoTB8zMI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 88%
+source-wordcount: 205
+ht-degree: 87%
 
 ---
 
@@ -45,7 +47,7 @@ ht-degree: 88%
 
 ## [!UICONTROL 重点顧客のメンバー] {#member-of-named-account}
 
-まず、修飾子を選択します。特定の重点顧客の場合は「**[!UICONTROL が次に等しい]**」、任意の重点顧客の場合は「**[!UICONTROL が次のいずれかである]**」です。
+まず、修飾子を選択します。 特定の重点顧客の場合は「**[!UICONTROL が次に等しい]**」、任意の重点顧客の場合は「**[!UICONTROL が次のいずれかである]**」です。
 
 ![](assets/six.png)
 
@@ -57,11 +59,11 @@ ht-degree: 88%
 
 ![](assets/eight.png)
 
-「[!UICONTROL が次のいずれかである]」修飾子を使用する場合、[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)を使用して検索結果を絞り込むことをお勧めします。必要な数だけ追加します。
+「[!UICONTROL が次のいずれかである]」修飾子を使用する場合、[制約](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md)を使用して検索結果を絞り込むことをお勧めします。 必要な数だけ追加します。
 
 ![](assets/nine.png)
 
-単一の最上位顧客からのみメンバーを取得する場合は、「[!UICONTROL 子を含める]」を **[!UICONTROL false]** に設定します。すべての子顧客からメンバーを取得する場合は、**[!UICONTROL true]** を選択します。
+単一の最上位顧客からのみメンバーを取得する場合は、「[!UICONTROL 子を含める]」を **[!UICONTROL false]** に設定します。 すべての子顧客からメンバーを取得する場合は、**[!UICONTROL true]** を選択します。
 
 ![](assets/ten.png)
 

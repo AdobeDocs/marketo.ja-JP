@@ -1,13 +1,17 @@
 ---
 unique-page-id: 7504218
-description: のカスタム rtp レポートを含む、Marketo Engageの google universal analytics のカスタム rtp レポートについて説明します。 このガイドを使用して、次の手順を完了します。
+description: のカスタム rtp レポートなど、Marketo EngageのGoogle ユニバーサル アナリティクスのカスタム rtp レポートについて説明します。 このガイドを使用して、次のステップを完了してください。
 title: Google ユニバーサルアナリティクスでのカスタム RTP レポート
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/U9cVw13-FV-0UmUDm6uSUdbvobSwLdqsklql5TaE28M
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 93%
+source-wordcount: 404
+ht-degree: 92%
 
 ---
 
@@ -17,7 +21,7 @@ ht-degree: 93%
 >
 >[RTP を Google ユニバーサルアナリティクスに連携](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
 
-この記事では、Google ユニバーサルアナリティクス（GUA）用に RTP カスタムレポートを設定する方法を説明します。RTP から GUA に送信されるデータは、次の 2 つの異なるカスタムレポートとして設定できます。
+この記事では、Google ユニバーサルアナリティクス（GUA）用に RTP カスタムレポートを設定する方法を説明します。  RTP から GUA に送信されるデータは、次の 2 つの異なるカスタムレポートとして設定できます。
 
 * RTP B2B
 * RTP エンゲージメント
@@ -48,7 +52,7 @@ ht-degree: 93%
 
 1. **[!UICONTROL 指標グループ]**&#x200B;セクションで、ビジネスに関連する指標を選択します。
 
-   a. 以下をお勧めします。
+   a. 推奨事項は次のとおりです。
 
    ![](assets/image2015-3-22-16-3a16-3a40.png)
 
@@ -79,7 +83,7 @@ ht-degree: 93%
  </thead>
  <tbody>
   <tr>
-   <td>業界</td>
+   <td>業種</td>
    <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
   </tr>
   <tr>
@@ -121,7 +125,7 @@ ht-degree: 93%
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. [!UICONTROL 指標グループ]セクションで、ビジネスに関連する指標を選択します。次にレコメンデーションを示します。
+1. [!UICONTROL 指標グループ]セクションで、ビジネスに関連する指標を選択します。 次にレコメンデーションを示します。
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
@@ -203,7 +207,7 @@ ht-degree: 93%
  </thead>
  <tbody>
   <tr>
-   <td><p>含む</p></td>
+   <td><p>含める</p></td>
    <td><p><span class="uicontrol">イベントカテゴリ</span></p></td>
    <td>正規表現</td>
    <td>RTP-Campaigns|RTP-レコメンデーション|RTP-Segments</td>

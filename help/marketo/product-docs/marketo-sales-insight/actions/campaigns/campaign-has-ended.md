@@ -1,11 +1,13 @@
 ---
-description: キャンペーンでスケジュール済みキャンペーンメールが失敗する理由を理解します。 バウンス、返信、手動のキャンペーン終了などの原因を検索します。
+description: スケジュールされたキャンペーンメールがキャンペーン終了で失敗する理由を理解します。 バウンス、返信、手動によるキャンペーン終了などの原因を特定します。
 title: キャンペーンは終了しました
 exl-id: ca1ec3bb-7e7d-4524-b8ac-f0ce386c0c36
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/4DQVbIoJHnFm08qiP8hzLks7-De2-mifabjI4jxaFwA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: 74
 ht-degree: 72%
 
 ---

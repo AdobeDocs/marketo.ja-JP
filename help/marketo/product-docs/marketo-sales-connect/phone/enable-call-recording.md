@@ -1,19 +1,21 @@
 ---
 unique-page-id: 45416564
-description: Sales Connect で通話記録を有効にする方法を説明します。 営業用の電話の録音を有効にし、2 者間の同意に従います。
+description: Sales Connectで通話録音を有効にする方法を説明します。 Sales Phoneの録音をオンにし、2つのパーティの同意に準拠します。
 title: 通話記録の有効化
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/KTDxGB6MI-Dmpt79zcajHuBrNSBczlKw9ascb7id-1Q
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 83%
+source-wordcount: 120
+ht-degree: 82%
 
 ---
 
 # 通話記録の有効化 {#enable-call-recording}
 
-管理者は、[!DNL Sales Connect] 通話の通話記録を有効にできます。チームの通話を録音することは、通話のベストプラクティスをセールス担当者に指導する優れた方法です。
+管理者は、[!DNL Sales Connect] 通話の通話記録を有効にできます。 チームの通話を録音することは、通話のベストプラクティスをセールス担当者に指導する優れた方法です。
 
 1. 「設定」アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
@@ -27,7 +29,7 @@ ht-degree: 83%
 
    ![](assets/three.png)
 
-1. セールス担当者に対し、自分で通話記録を有効または無効にする機能を提供する場合は、「**[!UICONTROL すべてのチームメンバーに対するオプションの記録]**」をクリックします。すべての通話を自動的に記録する場合は、「**[!UICONTROL すべての通話を記録]**」をクリックします。
+1. セールス担当者に対し、自分で通話記録を有効または無効にする機能を提供する場合は、「**[!UICONTROL すべてのチームメンバーに対するオプションの記録]**」をクリックします。 すべての通話を自動的に記録する場合は、「**[!UICONTROL すべての通話を記録]**」をクリックします。
 
    ![](assets/four.png)
 

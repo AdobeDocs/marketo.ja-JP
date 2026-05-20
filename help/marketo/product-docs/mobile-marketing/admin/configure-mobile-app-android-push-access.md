@@ -1,12 +1,14 @@
 ---
 unique-page-id: 7512432
-description: モバイルアプリにAndroid プッシュアクセスを設定する方法を説明します。 管理者で、開発者から Server API キーとプロジェクト番号を入力します。
+description: モバイルアプリのAndroid プッシュアクセスを設定する方法について説明します。 管理者の開発者からサーバーAPI キーとプロジェクト番号を入力します。
 title: モバイルアプリ Android プッシュアクセスの設定
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/b810nQX3dwtz2EqjOrPcFsbaJNb5Ti0MLaYHVQ5hqN0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: 111
 ht-degree: 79%
 
 ---
@@ -31,13 +33,13 @@ ht-degree: 79%
 
    >[!NOTE]
    >
-   >モバイルアプリデベロッパーから&#x200B;**[!UICONTROL サーバー API キー]**&#x200B;および&#x200B;**[!UICONTROL プロジェクト番号]**&#x200B;が必要です。デベロッパーは、[!DNL Google Play Developer Console] にログインしてアプリを登録し、クラウドメッセージを有効にすることで、これらを受け取ります。
+   >モバイルアプリデベロッパーから&#x200B;**[!UICONTROL サーバー API キー]**&#x200B;および&#x200B;**[!UICONTROL プロジェクト番号]**&#x200B;が必要です。 デベロッパーは、[!DNL Google Play Developer Console] にログインしてアプリを登録し、クラウドメッセージを有効にすることで、これらを受け取ります。
 
-1. [!UICONTROL サーバー API キー]と[!UICONTROL プロジェクト番号]を入力します。「**[!UICONTROL 保存]**」をクリックします。
+1. [!UICONTROL サーバー API キー]と[!UICONTROL プロジェクト番号]を入力します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-4-22-18-3a54-3a54.png)
 
-   できましたね。[!UICONTROL iOS] でもアプリを設定していることを確認します。
+   できましたね。 [!UICONTROL iOS] でもアプリを設定していることを確認します。
 
 >[!MORELIKETHIS]
 >

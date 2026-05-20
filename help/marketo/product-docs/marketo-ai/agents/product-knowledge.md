@@ -1,11 +1,11 @@
 ---
 description: 製品ナレッジを使用して、Marketo AIにMarketo Engageの機能、ベストプラクティス、ハウツーについて質問します。 回答は、Adobeの公式ドキュメントに基づいています。
 title: 製品知識
-beta: true
+badge: ベータ版
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---
@@ -17,6 +17,10 @@ Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門
 >[!PREREQUISITES]
 >
 >この機能を使用するには、まず[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
+
+>[!AVAILABILITY]
+>
+>この機能はクローズド版であり、現在数か月にわたって段階的に展開されています。 My Marketo画面に&#x200B;_AIでビルド_ タイルが表示されたら、サブスクリプションが有効になったときにわかります。
 
 ## 使用方法 {#how-to-use}
 

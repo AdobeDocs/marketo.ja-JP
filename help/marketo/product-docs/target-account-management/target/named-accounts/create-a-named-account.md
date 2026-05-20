@@ -1,13 +1,15 @@
 ---
 unique-page-id: 12615781
-description: TAM で名前付きアカウントを手動で作成する方法を説明します。 「新規」ドロップダウンを使用し、「指定顧客を作成」を選択し、目的のフィールドに入力します。
+description: TAMで名前付きアカウントを手動で作成する方法について説明します。 「新規」ドロップダウンを使用し、「名前付きアカウントを作成」を選択して、目的のフィールドに入力します。
 title: 重点顧客の作成
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/XiXUFrF-AC59VQ9AQJGHkAfoTLqx9RTUWeNtyX-oy6E
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 68%
+source-wordcount: 78
+ht-degree: 67%
 
 ---
 

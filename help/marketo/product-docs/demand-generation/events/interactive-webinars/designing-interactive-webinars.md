@@ -3,9 +3,13 @@ description: Marketoのインタラクティブウェビナーのデザインに
 title: インタラクティブウェビナーの設計
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/-QrRSSkG0-w5Wfkgd-qESFfKtWdcC053-J-xzKT2Uec
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: 602
 ht-degree: 70%
 
 ---
@@ -76,9 +80,9 @@ ht-degree: 70%
 
 **ポッド**：ウェビナー中に特定のアクティビティを実行するテンプレート内のコンポーネント。 例えば、あるアクティビティでの参加者の反応を捉えるために投票を設定および配信することは、投票ポッドで処理できます。 同様に、メッセージを伝えたりカジュアルにやり取りしたりするための参加者とのチャットは、チャットポッドを通じて実現できるアクティビティです。 共有、メモ、ビデオ、チャット、参加者リスト、ファイル、Web リンク、投票、Q&amp;Aなど、他の複数のポッドを利用できます。
 
-      **アンケート ポッド**：構造化されたフィードバック フォームをライブ セッション内で直接設計および配信できます。 調査ポッドは、複数の質問を一緒に提示できるようにすることで、既存の調査ポッド機能を拡張し、参加者のインサイトを収集するためのより合理的でまとまりのある方法を提供します。 [詳細情報](https://helpx.adobe.com/jp/adobe-connect/using/survey-pod.html){target="_blank"}
+      **アンケート ポッド**：構造化されたフィードバック フォームをライブ セッション内で直接設計および配信できます。 調査ポッドは、複数の質問を一緒に提示できるようにすることで、既存の調査ポッド機能を拡張し、参加者のインサイトを収集するためのより合理的でまとまりのある方法を提供します。 [詳細情報](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **リソース ポッド**：以前のファイルとWeb リンク ポッドを置き換え、ライブセッション中にリソースを共有するための単一の統合方法を提供します。 [詳細情報](https://helpx.adobe.com/jp/adobe-connect/using/resources-pod.html){target="_blank"}
+      **リソース ポッド**：以前のファイルとWeb リンク ポッドを置き換え、ライブセッション中にリソースを共有するための単一の統合方法を提供します。 [詳細情報](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

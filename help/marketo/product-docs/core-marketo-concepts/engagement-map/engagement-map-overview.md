@@ -2,9 +2,13 @@
 description: スマートキャンペーンを視覚化するためのエンゲージメントマップについて説明します。 Marketoでトリガー、フィルター、フローステップを直感的に表示できます。
 title: エンゲージメントマップの概要
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/vfOhI8VFlGNlAWloYu3Bwshu6bXR13tJCyc3YZN3pGY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: 763
 ht-degree: 16%
 
 ---
@@ -25,7 +29,7 @@ ht-degree: 16%
 
 ![](assets/engagement-map-overview-2.png)
 
-エンゲージメントマップには、[&#x200B; エンゲージメントマップ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}と[設定](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}の2つのタブがあります。
+エンゲージメントマップには、[ エンゲージメントマップ ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}と[設定](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}の2つのタブがあります。
 
 ![](assets/engagement-map-overview-3.png)
 
@@ -99,5 +103,5 @@ ht-degree: 16%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; エンゲージメントマップのタブ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [ エンゲージメントマップのタブ ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
 >* [「設定」タブ](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

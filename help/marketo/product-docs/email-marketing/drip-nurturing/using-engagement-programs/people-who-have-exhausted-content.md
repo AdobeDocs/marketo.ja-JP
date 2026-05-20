@@ -1,19 +1,22 @@
 ---
 unique-page-id: 2359953
-description: すべてのストリームコンテンツを使い果たした人物を見つける方法を説明します。
+description: すべてのストリームコンテンツを使い果たしたユーザーを見つける方法を説明します。
 title: コンテンツ消費済みのリード
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/jtRKV09Yhwtwadw3sPB7CI7pqdhEw42ANU9MjoeC1Qk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: 186
 ht-degree: 94%
 
 ---
 
 # コンテンツ消費済みのリード {#people-who-have-exhausted-content}
 
-リードがストリーム内の全てのコンテンツを受信すると、コンテンツ消費済みとなり、そのストリームにコンテンツを追加するまではアイドル状態となります。この「消費済み」のリードを見つける方法はいくつかあります。
+リードがストリーム内の全てのコンテンツを受信すると、コンテンツ消費済みとなり、そのストリームにコンテンツを追加するまではアイドル状態となります。 この「消費済み」のリードを見つける方法はいくつかあります。
 
 ## 「エンゲージメントプログラムメンバー」フィルター {#member-of-engagement-program-filter}
 

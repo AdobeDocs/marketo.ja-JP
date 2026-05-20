@@ -1,12 +1,15 @@
 ---
 unique-page-id: 7512944
-description: Google ChromeにMarketo Insights を使用する方法を説明します。 Gmail でメールを読みながら、ユーザーおよびアカウントの情報やアクティビティを表示できます。
+description: Google ChromeでMarketo インサイトを使用する方法について説明します。 Gmailでメールを読みながら、個人とアカウントの情報とアクティビティを表示できます。
 title: Google Chrome 用 Marketo Insights の使用
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/xV6C9XVb7ZQVUlQOdE8oWuc8lNOzoRZIG7XyyTMBwDQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: 291
 ht-degree: 92%
 
 ---
@@ -17,11 +20,11 @@ ht-degree: 92%
 
 >[!PREREQUISITES]
 >
->[&#x200B; [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
+>[ [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
 
 >[!NOTE]
 >
->セールスインサイトアクションの機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用のセールスインサイトメールプラグインでは使用できません。現時点では、ユーザは、セールスインサイトメールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
+>セールスインサイトアクションの機能（セールスメールを送信、セールスキャンペーンに追加、タスクなど）は、Gmail および Outlook 用のセールスインサイトメールプラグインでは使用できません。 現時点では、ユーザは、セールスインサイトメールプラグインを使用している場合に、Marketo メールテンプレートを使用した／していないトラッキング可能なメールをお使いのメールクライアントから送信する機能のみ使用できます。
 
 ## Marketo Insights でメールを送信 {#send-an-email-with-marketo-insights}
 
@@ -29,7 +32,7 @@ ht-degree: 92%
 
    ![](assets/image2015-10-5-14-3a57-3a53.png)
 
-1. 「送信」ボタンが Marketo パープルに変わりました。このメールは、Marketo を使用して送信され、すべてのリンクがトラッキングされて、トラッキングピクセルがメールに挿入されます。これは、送信済みセールスメールアクティビティとして記録されます。
+1. 「送信」ボタンが Marketo パープルに変わりました。 このメールは、Marketo を使用して送信され、すべてのリンクがトラッキングされて、トラッキングピクセルがメールに挿入されます。 これは、送信済みセールスメールアクティビティとして記録されます。
 
    ![](assets/image2015-10-5-15-3a2-3a21.png)
 
@@ -69,11 +72,11 @@ ht-degree: 92%
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
-1. これだけです。メールは間もなく [!DNL Marketo Sales Insight] に表示されます。
+1. それだけです。 メールは間もなく [!DNL Marketo Sales Insight] に表示されます。
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
+   >* [ [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
    >* [Google メールで人物とアカウントの情報とアクティビティを表示](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

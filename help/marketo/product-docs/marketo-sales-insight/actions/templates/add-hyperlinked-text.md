@@ -1,11 +1,14 @@
 ---
-description: メールテンプレートにハイパーリンクされたテキストを追加する方法を説明します。 テンプレートエディターに追跡可能なリンクを挿入し、リンクテキストを書式設定します。
+description: メールテンプレートにハイパーリンクテキストを追加する方法を説明します。 テンプレートエディターに追跡可能なリンクを挿入し、リンクテキストを書式設定します。
 title: ハイパーリンクテキストの追加
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/AG9YYnDYtvwKIRym4Rc5vyK0O3UQBz-er4ongNk-dCE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: 135
 ht-degree: 85%
 
 ---
@@ -22,11 +25,11 @@ ht-degree: 85%
 
    ![](assets/add-hyperlinked-text-2.png)
 
-1. ハイパーリンクするテキスト（「ここをクリック」等）を入力します。テキストを[!DNL Highlight]して、エディターのリンクボタンをクリックします。
+1. ハイパーリンクするテキスト（「ここをクリック」等）を入力します。 テキストを[!DNL Highlight]して、エディターのリンクボタンをクリックします。
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. リンク先の URL を入力します（例：`https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=ja`）。URL を同じウィンドウで開くか、新しいウィンドウで開くかを選択し、「**[!UICONTROL 保存]**」をクリックします。
+1. リンク先の URL を入力します（例：`https://experienceleague.adobe.com/docs/marketo/using/home.html`）。 URL を同じウィンドウで開くか、新しいウィンドウで開くかを選択し、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-hyperlinked-text-4.png)
 

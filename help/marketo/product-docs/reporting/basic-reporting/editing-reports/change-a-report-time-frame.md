@@ -1,12 +1,16 @@
 ---
 unique-page-id: 2359968
-description: 特定のアクティビティの日付に焦点を当てるために、レポートの対象となる期間を変更する方法を説明します。 カスタム日付範囲を設定するか、「設定」タブで事前定義済みの時間枠を使用します。
+description: 特定のアクティビティ日に焦点を当てるように、レポートの対象期間を変更する方法を説明します。 カスタムの日付範囲を設定するか、「設定」タブで定義済みの時間枠を使用します。
 title: レポートのタイムフレームを変更する
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/KXVoZEjXW3Kla3s9EfWqpS8lMKmz8GhhAN0qTV1X72g
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: 184
 ht-degree: 83%
 
 ---

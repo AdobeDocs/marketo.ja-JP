@@ -1,19 +1,21 @@
 ---
 unique-page-id: 11384665
-description: 承認済みの予測コンテンツタイトル、有効なソース、クリックおよびコンバージョンデータについて説明します。 フィルターと日付を使用して、web とメールでのレコメンデーションのパフォーマンスを比較します。
+description: 承認済みの予測コンテンツのタイトル、有効なソース、クリック数、コンバージョンデータについて説明します。 フィルターと日付を使用して、webと電子メールでのレコメンデーションのパフォーマンスを比較します。
 title: 予測コンテンツについて
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/gBdlrGHiT--9DZtU6kSvtDCqWC0XkC5Pqx6kPHSsqJI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: 323
 ht-degree: 92%
 
 ---
 
 # 予測コンテンツについて {#understanding-predictive-content}
 
-[予測コンテンツのタイトルを承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)した後、ここで作業します。[!UICONTROL 予測コンテンツ]ページには、予測コンテンツに対して承認したすべてのタイトルが表示されます。
+[予測コンテンツのタイトルを承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)した後、ここで作業します。 [!UICONTROL 予測コンテンツ]ページには、予測コンテンツに対して承認したすべてのタイトルが表示されます。
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
@@ -23,14 +25,14 @@ ht-degree: 92%
 * **[!UICONTROL ソースにより有効]**：タイトルがリッチメディア、電子メールまたはレコメンデーションバーに対して承認されているかどうかを表示します。
 * **[!UICONTROL カテゴリ]**：ユーザーが作成し、web またはメールの予測結果をグループ化するために使用
 * **[!UICONTROL クリック数]**：推奨コンテンツの合計クリック数（すべてのソースを含む）
-* **[!UICONTROL コンバージョン率]**：ダイレクトコンバージョンをクリック数で割って計算した割合。カーソルを置くと追加のデータ（後述）が表示されます。
+* **[!UICONTROL コンバージョン率]**：ダイレクトコンバージョンをクリック数で割って計算した割合。 カーソルを置くと追加のデータ（後述）が表示されます。
 * **[!UICONTROL アシストコンバージョン数]**：過去の訪問で、推奨されるコンテンツをクリックし、後でフォームに入力した web 訪問者数。
 
 ## コンテンツのフィルタリング {#filtering-content}
 
 **[!UICONTROL カテゴリ]**
 
-作成したカテゴリを基準にコンテンツをフィルターできます。フィルターアイコンをクリックし、「**[!UICONTROL カテゴリ]**」で、1 つ以上のコンテンツカテゴリを選択します。
+作成したカテゴリを基準にコンテンツをフィルターできます。 フィルターアイコンをクリックし、「**[!UICONTROL カテゴリ]**」で、1 つ以上のコンテンツカテゴリを選択します。
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
@@ -48,13 +50,13 @@ ht-degree: 92%
 
 ## 日付別に分析を表示 {#display-analytics-by-date}
 
-1. 右側で開始日と終了日を選択します（図を参照）。「**[!UICONTROL 適用]**」をクリックします。
+1. 右側で開始日と終了日を選択します（図を参照）。 「**[!UICONTROL 適用]**」をクリックします。
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
 ## 予測コンテンツのテーブルデータの表示 {#view-table-data-for-predictive-content}
 
-このテーブルでは、レコメンデーションバー、メール、リッチメディアのソースのうち、どれが予測コンテンツで有効か、左から右の順に示されます。有効なソースは緑色で表示されます。コンテンツを編集する際に、これらを有効にします。
+このテーブルでは、レコメンデーションバー、メール、リッチメディアのソースのうち、どれが予測コンテンツで有効か、左から右の順に示されます。 有効なソースは緑色で表示されます。 コンテンツを編集する際に、これらを有効にします。
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
