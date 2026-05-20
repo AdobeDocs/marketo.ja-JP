@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+source-git-commit: 400b847ed81f4dda33f9c76b95319815366db7cf
 workflow-type: tm+mt
-source-wordcount: '9171'
+source-wordcount: '8896'
 ht-degree: 96%
 
 ---
@@ -34,8 +34,8 @@ ht-degree: 96%
       + [クラシックアイコン用語集](getting-started/things-to-know/classic-icon-glossary.md)
       + [ヘルプセンター](getting-started/things-to-know/help-center.md)
       + [システムステータス通知の購読](getting-started/things-to-know/system-status-notifications.md)
-      + {hide-from-toc}[製品知識のAI アシスタント &#x200B;](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-      + {hide-from-toc}[&#x200B; マーケティング国コミュニティ &#x200B;](getting-started/things-to-know/community.md)
+      + {hide-from-toc}[製品知識のAI アシスタント ](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
+      + {hide-from-toc}[ マーケティング国コミュニティ ](getting-started/things-to-know/community.md)
       + {hide-from-toc}[AWSへの移行](getting-started/things-to-know/aws-migration.md)
    + クイックウィン {#quick-wins}
       + [セットアップと人物の追加](getting-started/quick-wins/get-set-up-and-add-a-person.md)
@@ -64,11 +64,11 @@ ht-degree: 96%
       + [設定と設定](product-docs/marketo-ai/settings-setup.md)
       + {hide-from-toc}[設定と設定](product-docs/marketo-ai/settings-setup-old.md)
       + エージェント {#agents}
-         + {hide-from-toc}[製品ナレッジ &#x200B;](product-docs/marketo-ai/agents/product-knowledge.md)
+         + {hide-from-toc}[製品ナレッジ ](product-docs/marketo-ai/agents/product-knowledge.md)
          + {hide-from-toc}[分析](product-docs/marketo-ai/agents/analytics.md)
-         + {hide-from-toc}[&#x200B; プログラムの作成](product-docs/marketo-ai/agents/create-program.md)
-         + {hide-from-toc}[&#x200B; コピープログラム &#x200B;](product-docs/marketo-ai/agents/clone-program.md)
-         + {hide-from-toc}[&#x200B; リードを調査](product-docs/marketo-ai/agents/investigate-lead.md)
+         + {hide-from-toc}[ プログラムの作成](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[ コピープログラム ](product-docs/marketo-ai/agents/clone-program.md)
+         + {hide-from-toc}[ リードを調査](product-docs/marketo-ai/agents/investigate-lead.md)
          + [リードの読み込み](product-docs/marketo-ai/agents/import-leads.md)
          + [プログラム QA](product-docs/marketo-ai/agents/program-qa.md)
    + その他のアプリ {#additional-apps}
@@ -76,7 +76,7 @@ ht-degree: 96%
          + キーワード {#keywords}
             + {hide-from-toc}[SEO - キーワード結果の書き出し](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
          + ページ {#pages}
-            + {hide-from-toc}[SEO – 問題をCSVにエクスポート &#x200B;](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
+            + {hide-from-toc}[SEO – 問題をCSVにエクスポート ](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
          + レポート {#reports}
             + {hide-from-toc}[SEO – 競合他社のKW トレンド レポートを使用](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + {hide-from-toc}[SEO - キーワードトレンドレポートを使用](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)
@@ -143,7 +143,7 @@ ht-degree: 96%
          + [フィールドの表示／非表示](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [メールでの HTML エンコードトークン](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [フィールドで大文字と小文字を区別するように設定](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + {hide-from-toc}[&#x200B; ピックリスト管理](product-docs/administration/field-management/picklist-management.md)
+         + {hide-from-toc}[ ピックリスト管理](product-docs/administration/field-management/picklist-management.md)
          + [フィールドの名前変更](product-docs/administration/field-management/rename-a-field.md)
          + [システム管理のフィールドについて](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Marketo と Salesforce の間のフィールドマッピングの表示](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -185,7 +185,7 @@ ht-degree: 96%
          + [アカウントでパーソナライズ URL を有効にする](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [グローバルフォーム検証ルール](product-docs/administration/settings/global-form-validation-rules.md)
          + [ランディングページのヘッダー](product-docs/administration/settings/landing-page-headers.md)
-         + {hide-from-toc}[製品使用状況ダッシュボード &#x200B;](product-docs/administration/settings/product-usage-dashboards.md)
+         + {hide-from-toc}[製品使用状況ダッシュボード ](product-docs/administration/settings/product-usage-dashboards.md)
          + [IP に基づく Marketo ログインの制限](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [タイムゾーンの変更](product-docs/administration/settings/change-time-zone.md)
          + [フォールバックページの設定](product-docs/administration/settings/set-a-fallback-page.md)
@@ -205,7 +205,7 @@ ht-degree: 96%
          + [API 専用ユーザーロールの作成](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [API 専用ユーザーの作成](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [ユーザーのロールの作成、削除、編集および変更](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [&#x200B; ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
+         + [ ユーザーワークスペースの編集](product-docs/administration/users-and-roles/edit-user-workspaces.md)
          + [ユーザーとロールのリストのエクスポート](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
          + [ユーザーのロールと権限の管理](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [ロールと権限のエクスポート](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
@@ -274,7 +274,7 @@ ht-degree: 96%
             + [人物の削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md)
             + [キャンペーンの実行](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/execute-campaign.md)
             + [フローステップサービス](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md)
-            + {hide-from-toc}[&#x200B; リファラーにクレジットを付与](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
+            + {hide-from-toc}[ リファラーにクレジットを付与](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/give-credit-to-referrer.md)
             + [注目のアクション](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md)
             + [フローから削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)
             + [リストから削除](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md)
@@ -282,7 +282,7 @@ ht-degree: 96%
             + [キャンペーンのリクエスト](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)
             + [アラートの送信](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)
             + [メールの送信](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md)
-            + {hide-from-toc}[人物の詳細ページからの単一フローアクション &#x200B;](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
+            + {hide-from-toc}[人物の詳細ページからの単一フローアクション ](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/single-flow-actions-from-person-detail-page.md)
             + [モバイルスマートキャンペーンのトリガーとフィルター](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/triggers-and-filters-for-mobile-smart-campaigns.md)
             + [スマートキャンペーンでの web フックの使用](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-a-webhook-in-a-smart-campaign.md)
             + [フローステップでの「選択肢を追加」の使用](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)
@@ -481,7 +481,7 @@ ht-degree: 96%
       + その他 {#miscellaneous}
          + {hide-from-toc}[Adobe Experience Manager統合の設定](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [キャンペーンフォルダーの新規作成](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
-         + {hide-from-toc}[&#x200B; キーボードショートカット用語集](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
+         + {hide-from-toc}[ キーボードショートカット用語集](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
          + [Marketo サンドボックス](product-docs/core-marketo-concepts/miscellaneous/marketo-sandbox.md)
          + [プライバシー管理](product-docs/core-marketo-concepts/miscellaneous/privacy-management.md)
          + [プライバシーリクエスト](product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md)
@@ -611,7 +611,7 @@ ht-degree: 96%
             + [手順 3/3：Marketo Engage と Veeva CRM の接続](product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md)
          + 同期の詳細 {#sync-details}
             + [スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除](product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md)
-            + {hide-from-toc}[&#x200B; カスタムオブジェクトの同期](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
+            + {hide-from-toc}[ カスタムオブジェクトの同期](product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md)
             + [デフォルトの Veeva フィールドマッピング](product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping.md)
             + [カスタムオブジェクト同期の有効化／無効化](product-docs/crm-sync/veeva-crm-sync/sync-details/enable-disable-custom-object-sync.md)
             + [個人取引先の同期 FAQ](product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md)
@@ -673,8 +673,8 @@ ht-degree: 96%
             + [イベントチャネルの編集](product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)
             + [イベントパートナー](product-docs/demand-generation/events/understanding-events/event-partners.md)
             + [イベントプログラムについて](product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)
-            + {hide-from-toc}[&#x200B; イベントキャップの設定](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
-            + {hide-from-toc}[&#x200B; イベント目標の設定](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
+            + {hide-from-toc}[ イベントキャップの設定](product-docs/demand-generation/events/understanding-events/setting-an-event-cap.md)
+            + {hide-from-toc}[ イベント目標の設定](product-docs/demand-generation/events/understanding-events/setting-event-goals.md)
          + イベントの作成 {#create-an-event}
             + [Adobe Connect を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
             + [GotoWebinar を使用したイベントの作成](product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
@@ -746,7 +746,7 @@ ht-degree: 96%
             + [ソーシャルフォーム入力を無効にする](product-docs/demand-generation/forms/form-actions/disable-social-form-fill.md)
             + [フォームの編集](product-docs/demand-generation/forms/form-actions/edit-a-form.md)
             + [Web サイトへのフォームの埋め込み](product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md)
-            + {hide-from-toc}[&#x200B; フォームでソーシャルフォームの入力を有効にする](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
+            + {hide-from-toc}[ フォームでソーシャルフォームの入力を有効にする](product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md)
             + {hide-from-toc}[LinkedIn ソーシャルフォーム入力に関するFAQ](product-docs/demand-generation/forms/form-actions/linkedin-social-form-fill-faqs.md)
             + [既知のリードのカスタム HTML フォームの表示](product-docs/demand-generation/forms/form-actions/show-custom-html-form-for-known-people.md)
             + [Lightbox でのフォームの使用](product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)
@@ -773,7 +773,7 @@ ht-degree: 96%
             + [reCAPTCHA v3 の設定](product-docs/demand-generation/forms/using-captcha/setting-up-recaptcha-v3.md)
             + [Marketo Forms で CAPTCHA を有効にする](product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md)
       + 画像とファイル {#images-and-files}
-         + {hide-from-toc}[新しい画像を追加ドキュメント &#x200B;](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
+         + {hide-from-toc}[新しい画像を追加ドキュメント ](product-docs/demand-generation/images-and-files/new-add-images-doc.md)
          + [画像とファイルを Marketo に追加](product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
          + {hide-from-toc}[Adobe Expressを使用したAssetsの編集](product-docs/demand-generation/images-and-files/edit-assets-with-adobe-express.md)
          + [アップロードした画像またはファイルの削除](product-docs/demand-generation/images-and-files/delete-an-uploaded-image-or-file.md)
@@ -795,8 +795,8 @@ ht-degree: 96%
             + [フリーフォームランディングページ内の画像へのリンク追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-link-to-an-image-in-a-free-form-landing-page.md)
             + [フリーフォームランディングページのモバイル表示の追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
             + [フリーフォームランディングページへの新しいフォームの追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
-            + {hide-from-toc}[&#x200B; フリーフォームのランディングページにソーシャルボタンを追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
-            + {hide-from-toc}[&#x200B; フリーフォームのランディングページにビデオを追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
+            + {hide-from-toc}[ フリーフォームのランディングページにソーシャルボタンを追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md)
+            + {hide-from-toc}[ フリーフォームのランディングページにビデオを追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md)
             + [フリーフォームランディングページへの画像の追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
             + [フリーフォームランディングページへの長方形の追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-a-rectangle-to-a-free-form-landing-page.md)
             + [フリーフォームランディングページへのカスタム HTML の追加](product-docs/demand-generation/landing-pages/free-form-landing-pages/adding-custom-html-to-a-free-form-landing-page.md)
@@ -997,9 +997,9 @@ ht-degree: 96%
       + E メールデザイナー {#email-designer}
          + ブランド {#brands}
             + [ブランドテーマ](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-            + {hide-from-toc}[&#x200B; ブランドを適用](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + {hide-from-toc}[ ブランドを適用](product-docs/email-marketing/email-designer/brands/apply-brand.md)
             + [ブランドの構築と管理](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + {hide-from-toc}[&#x200B; ブランドのパーソナライズ &#x200B;](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+            + {hide-from-toc}[ ブランドのパーソナライズ ](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
             + [ブランドスコア](product-docs/email-marketing/email-designer/brands/brand-score.md)
          + [概要](product-docs/email-marketing/email-designer/overview.md)
          + [機能の比較](product-docs/email-marketing/email-designer/feature-comparison.md)
@@ -1013,7 +1013,7 @@ ht-degree: 96%
          + [カスタム CSS](product-docs/email-marketing/email-designer/custom-css.md)
          + [ダークモード](product-docs/email-marketing/email-designer/dark-mode.md)
          + [Litmus を使用したメールのレンダリングのテスト](product-docs/email-marketing/email-designer/test-email-rendering.md)
-         + {hide-from-toc}[Personalization トークン &#x200B;](product-docs/email-marketing/email-designer/personalization-tokens.md)
+         + {hide-from-toc}[Personalization トークン ](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [AEM Assets の操作](product-docs/email-marketing/email-designer/aem-assets.md)
          + [Adobe Express を使用した画像の編集](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [フラグメント](product-docs/email-marketing/email-designer/fragments.md)
@@ -1067,9 +1067,9 @@ ht-degree: 96%
             + [メールイベントログについて](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [リッチテキストエディターの使用](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + ベータ版の新しい E メールデザイナー {#beta-new-email-designer}
-            + {hide-from-toc}[新しい電子メールデザイナーの概要（ベータ版） &#x200B;](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
-            + {hide-from-toc}[電子メールオーサリング &#x200B;](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
-            + {hide-from-toc}[&#x200B; メールテンプレート &#x200B;](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
+            + {hide-from-toc}[新しい電子メールデザイナーの概要（ベータ版） ](product-docs/email-marketing/general/beta-new-email-designer/overview.md)
+            + {hide-from-toc}[電子メールオーサリング ](product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md)
+            + {hide-from-toc}[ メールテンプレート ](product-docs/email-marketing/general/beta-new-email-designer/email-templates.md)
          + メールの作成 {#creating-an-email}
             + [メールの承認](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [テキストのみのメールの作成](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
@@ -1085,7 +1085,7 @@ ht-degree: 96%
             + [メールエディター v2.0 の概要](product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
             + [メールテンプレート選択ツールの概要](product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
             + [メールテンプレートの構文](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
-            + {hide-from-toc}[&#x200B; メールエディター2.0に移行中](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
+            + {hide-from-toc}[ メールエディター2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)に移行中
          + エディターの機能 {#functions-in-the-editor}
             + [メールへのカレンダーイベント（.ics）の追加](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
             + [メールをオペレーショナルメールにする](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
@@ -1357,7 +1357,7 @@ ht-degree: 96%
             + [「チーム」タブについて](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
             + [テンプレートエンゲージメント](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + キャンペーン {#campaigns}
-            + {hide-from-toc}[&#x200B; マーケティングキャンペーンに追加](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
+            + {hide-from-toc}[ マーケティングキャンペーンに追加](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [キャンペーンは終了しました](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
             + [セールスキャンペーンの作成](product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md)
             + [セールスキャンペーンの設定](product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md)
@@ -1366,12 +1366,12 @@ ht-degree: 96%
             + [キャンペーンリストを別のユーザーとして表示](product-docs/marketo-sales-insight/actions/campaigns/view-campaigns-list-as-another-user.md)
          + CRM {#crm}
             + Salesforce のカスタマイズ {#salesforce-customization}
-               + {hide-from-toc}[&#x200B; ドキュメント &#x200B;](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
+               + {hide-from-toc}[ ドキュメント ](product-docs/marketo-sales-insight/actions/crm/salesforce-customization/doc.md)
             + Salesforce 統合 {#salesforce-integration}
                + [Salesforce アクティビティ詳細のカスタマイズの設定](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [セールスインサイトアクションアカウントを Salesforce に接続](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
                + {hide-from-toc}[Sales Insight ActionsからSalesforceを切断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
-               + {hide-from-toc}[返信ログ &#x200B;](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
+               + {hide-from-toc}[返信ログ ](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Salesforce 診断](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
                + [セールスインサイトアクションサンドボックスの設定](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [セールスアクティビティの Salesforce への同期](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
@@ -1467,10 +1467,10 @@ ht-degree: 96%
             + [動的フィールド](product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md)
             + [フィールドプロンプト](product-docs/marketo-sales-insight/actions/templates/field-prompts.md)
             + [テンプレートの管理](product-docs/marketo-sales-insight/actions/templates/manage-templates.md)
-            + {hide-from-toc}[&#x200B; テンプレート カテゴリの管理](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
+            + {hide-from-toc}[ テンプレート カテゴリの管理](product-docs/marketo-sales-insight/actions/templates/manage-template-categories.md)
             + [推奨テンプレート](product-docs/marketo-sales-insight/actions/templates/recommended-templates.md)
             + [HTML の使用](product-docs/marketo-sales-insight/actions/templates/using-html.md)
-            + {hide-from-toc}[&#x200B; テンプレートのリストを別のユーザーとして表示](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
+            + {hide-from-toc}[ テンプレートのリストを別のユーザーとして表示](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
       + MSI の使用 {#using-msi}
          + [リードから着信したメールを Marketo でログに記録する](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
       + MSI Chrome プラグイン {#msi-chrome-plugin}
@@ -1919,8 +1919,9 @@ ht-degree: 96%
    + [現在のリリース](release-notes/current.md)
    + {hide-from-toc}[現在のリリース期間](release-notes/current-temp.md)
    + [Dynamic Chat リリース](release-notes/dynamic-chat.md)
-   + {hide-from-toc}[Dynamic Chat リリースのテンプレート &#x200B;](release-notes/dynamic-chat-temp.md)
-   + 以前のリリース {#previous-releases}
+   + {hide-from-toc}[Dynamic Chat リリースのテンプレート ](release-notes/dynamic-chat-temp.md)
+   + [以前のリリース](release-notes/previous-releases.md)
+   + 以前の{hide-from-toc}件のリリース {#previous-releases}
       + 2026 {#2026}
          + [リリースノート：2026年1月](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [リリースノート：2026年2月](release-notes/previous-releases/2026/release-notes-feb-26.md)
@@ -1948,84 +1949,16 @@ ht-degree: 96%
          + [リリースノート：2023年7月](release-notes/previous-releases/2023/release-notes-july-23.md)
          + [リリースノート：2023年9月](release-notes/previous-releases/2023/release-notes-sep-23.md)
          + [リリースノート：2023年10月](release-notes/previous-releases/2023/release-notes-oct-23.md)
-      + 2022年 {#2022}
-         + [リリースノート：2022年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
-         + [リリースノート：2022年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
-         + [リリースノート：2022年5月](release-notes/previous-releases/2022/release-notes-may-22.md)
-         + [リリースノート：2022年6月](release-notes/previous-releases/2022/release-notes-june-22.md)
-         + [リリースノート：2022年8月](release-notes/previous-releases/2022/release-notes-aug-22.md)
-         + [リリースノート：2022年10月](release-notes/previous-releases/2022/release-notes-oct-22.md)
-      + 2021年 {#2021}
-         + [リリースノート：2021年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
-         + [リリースノート：2021年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
-         + [リリースノート：2021年8月](release-notes/previous-releases/2021/release-notes-aug-21.md)
-         + [リリースノート：2021年10月](release-notes/previous-releases/2021/release-notes-oct-21.md)
-      + 2020年 {#2020}
-         + [リリースノート：2020年1月](release-notes/previous-releases/2020/release-notes-jan-20.md)
-         + [リリースノート：2020年2月](release-notes/previous-releases/2020/release-notes-feb-20.md)
-         + [リリースノート：2020年6月](release-notes/previous-releases/2020/release-notes-june-20.md)
-         + [リリースノート：2020年7月](release-notes/previous-releases/2020/release-notes-july-20.md)
-         + [リリースノート：2020年10月](release-notes/previous-releases/2020/release-notes-oct-20.md)
-      + 2019 {#2019}
-         + [リリースノート：2019年8月](release-notes/previous-releases/2019/release-notes-august-19.md)
-         + [リリースノート：2019年6月](release-notes/previous-releases/2019/release-notes-june-19.md)
-         + [リリースノート：2019年春](release-notes/previous-releases/2019/release-notes-spring-19.md)
-         + [リリースノート：2019年冬](release-notes/previous-releases/2019/release-notes-winter-19.md)
-      + 2018年 {#2018}
-         + [リリースノート：2018年秋](release-notes/previous-releases/2018/release-notes-fall-18.md)
-         + [リリースノート：2018年春](release-notes/previous-releases/2018/release-notes-spring-18.md)
-         + [リリースノート：2018年冬](release-notes/previous-releases/2018/release-notes-winter-18.md)
-      + 2017年 {#2017}
-         + [リリースノート：2017年4月 ABM の機能強化](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
-         + [リリースノート：2017年8月 ABM の機能強化](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
-         + [リリースノート：2017年秋](release-notes/previous-releases/2017/release-notes-fall-17.md)
-         + [リリースノート：2017年春](release-notes/previous-releases/2017/release-notes-spring-17.md)
-         + [リリースノート：2017年夏](release-notes/previous-releases/2017/release-notes-summer-17.md)
-         + [リリースノート：2017年冬](release-notes/previous-releases/2017/release-notes-winter-17.md)
-      + 2016年 {#2016}
-         + [リリースノート：2016年秋](release-notes/previous-releases/2016/release-notes-fall-16.md)
-         + [リリースノート：2016年春](release-notes/previous-releases/2016/release-notes-spring-16.md)
-         + [リリースノート：2016年夏](release-notes/previous-releases/2016/release-notes-summer-16.md)
-         + [リリースノート：2016年冬](release-notes/previous-releases/2016/release-notes-winter-16.md)
-      + 2015年 {#2015}
-         + [リリースノート：2015年4月](release-notes/previous-releases/2015/release-notes-april-2015.md)
-         + [リリースノート：2015年秋](release-notes/previous-releases/2015/release-notes-fall-15.md)
-         + [リリースノート：2015年2月](release-notes/previous-releases/2015/release-notes-february-2015.md)
-         + [リリースノート：2015年1月](release-notes/previous-releases/2015/release-notes-january-2015.md)
-         + [リリースノート：2015年7月](release-notes/previous-releases/2015/release-notes-july-2015.md)
-         + [リリースノート：2015年6月](release-notes/previous-releases/2015/release-notes-june-2015.md)
-         + [リリースノート：2015年3月](release-notes/previous-releases/2015/release-notes-march-2015.md)
-         + [リリースノート：2015年5月](release-notes/previous-releases/2015/release-notes-may-2015.md)
-      + 2014年 {#2014}
-         + [リリースノート：2014年8月](release-notes/previous-releases/2014/release-notes-august-2014.md)
-         + [リリースノート：2014年12月](release-notes/previous-releases/2014/release-notes-december-2014.md)
-         + [リリースノート：2014年2月](release-notes/previous-releases/2014/release-notes-february-2014.md)
-         + [リリースノート：2014年1月](release-notes/previous-releases/2014/release-notes-january-2014.md)
-         + [リリースノート：2014年7月](release-notes/previous-releases/2014/release-notes-july-2014.md)
-         + [リリースノート：2014年6月](release-notes/previous-releases/2014/release-notes-june-2014.md)
-         + [リリースノート：2014年3月](release-notes/previous-releases/2014/release-notes-march-2014.md)
-         + [リリースノート：2014年5月](release-notes/previous-releases/2014/release-notes-may-2014.md)
-         + [リリースノート：2014年10月](release-notes/previous-releases/2014/release-notes-october-2014.md)
-      + 2013年 {#2013}
-         + [リリースノート：2013年4月](release-notes/previous-releases/2013/release-notes-april-2013.md)
-         + [リリースノート：2013年8月](release-notes/previous-releases/2013/release-notes-august-2013.md)
-         + [リリースノート：2013年12月](release-notes/previous-releases/2013/release-notes-december-2013.md)
-         + [リリースノート：2013年2月](release-notes/previous-releases/2013/release-notes-february-2013.md)
-         + [リリースノート：2013年1月](release-notes/previous-releases/2013/release-notes-january-2013.md)
-         + [リリースノート：2013年7月](release-notes/previous-releases/2013/release-notes-july-2013.md)
-         + [リリースノート：2013年6月](release-notes/previous-releases/2013/release-notes-june-2013.md)
-         + [リリースノート：2013年3月](release-notes/previous-releases/2013/release-notes-march-2013.md)
-         + [リリースノート：2013年5月](release-notes/previous-releases/2013/release-notes-may-2013.md)
-         + [リリースノート：2013年10月](release-notes/previous-releases/2013/release-notes-october-2013.md)
-         + [リリースノート：2013年9月](release-notes/previous-releases/2013/release-notes-september-2013.md)
-      + 2012年 {#2012}
-         + [リリースノート：2012年4月](release-notes/previous-releases/2012/release-notes-april-2012.md)
-         + [リリースノート：2012年12月](release-notes/previous-releases/2012/release-notes-december-2012.md)
-         + [リリースノート：2012年1月／2月](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
-         + [リリースノート：2012年6月](release-notes/previous-releases/2012/release-notes-june-2012.md)
-         + [リリースノート：2012年3月](release-notes/previous-releases/2012/release-notes-march-2012.md)
-         + [リリースノート：2012年5月](release-notes/previous-releases/2012/release-notes-may-2012.md)
-         + [リリースノート：2012年10月](release-notes/previous-releases/2012/release-notes-october-2012.md)
-         + [リリースノート：2012年9月](release-notes/previous-releases/2012/release-notes-september-2012.md)
+      + [2022年](release-notes/previous-releases/release-notes-2022.md)
+      + [2021年](release-notes/previous-releases/release-notes-2021.md)
+      + [2020](release-notes/previous-releases/release-notes-2020.md)
+      + [2019](release-notes/previous-releases/release-notes-2019.md)
+      + [2018](release-notes/previous-releases/release-notes-2018.md)
+      + [2017](release-notes/previous-releases/release-notes-2017.md)
+      + [2016](release-notes/previous-releases/release-notes-2016.md)
+      + [2015](release-notes/previous-releases/release-notes-2015.md)
+      + [2014](release-notes/previous-releases/release-notes-2014.md)
+      + [2013](release-notes/previous-releases/release-notes-2013.md)
+      + [2012](release-notes/previous-releases/release-notes-2012.md)
       + [2010年～2011年](release-notes/previous-releases/2010-2011.md)
       + [2007年～2009年](release-notes/previous-releases/2007-2009.md)
