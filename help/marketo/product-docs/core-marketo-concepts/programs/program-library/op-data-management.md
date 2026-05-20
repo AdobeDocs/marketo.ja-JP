@@ -24,7 +24,7 @@ ht-degree: 27%
 
 これは、Marketo Engage データベース内のレコードのデータの一貫性を管理する際に役立つ、デフォルトプログラムを使用した簡単な運用データ管理ベストプラクティスワークフローの例です。
 
-詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
+詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
 
 ## チャネルサマリ {#channel-summary}
 

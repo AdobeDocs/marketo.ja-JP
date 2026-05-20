@@ -18,7 +18,7 @@ ht-degree: 75%
 
 # テンプレート 8D {#template-8d}
 
-右クリックして[テンプレート 8D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)します
+右クリックして[テンプレート 8D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html?lang=ja)します
 
 ![](assets/image2015-7-29-14-3a28-3a56.png)
 
@@ -34,4 +34,4 @@ ht-degree: 75%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 8D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html)
+[テンプレート 8D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8d.html?lang=ja)

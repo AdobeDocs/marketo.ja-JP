@@ -28,7 +28,7 @@ ht-degree: 16%
 
 Marketoのランディングページに登録フォームを配置し、Marketoのデフォルトプログラムを活用するなど、オンライン広告トラッキングプログラムの例を紹介します。 オファーへのリンクは、サンキューページ、サンキューメールで送信、またはその両方に表示できます。
 
-詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
+詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
 
 ## チャネルサマリ {#channel-summary}
 

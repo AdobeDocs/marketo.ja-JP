@@ -18,7 +18,7 @@ ht-degree: 74%
 
 # テンプレート 6A {#template-6a}
 
-右クリックして[テンプレート 6A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)します
+右クリックして[テンプレート 6A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html?lang=ja)します
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 
@@ -33,4 +33,4 @@ ht-degree: 74%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html)
+[テンプレート 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html?lang=ja)

@@ -18,7 +18,7 @@ ht-degree: 75%
 
 # テンプレート 4B {#template-4b}
 
-右クリックして[テンプレート 4B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)します
+右クリックして[テンプレート 4B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html?lang=ja)します
 
 ![](assets/image2015-7-24-10-3a22-3a15.png)
 
@@ -34,4 +34,4 @@ ht-degree: 75%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html)
+[テンプレート 4B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4b.html?lang=ja)

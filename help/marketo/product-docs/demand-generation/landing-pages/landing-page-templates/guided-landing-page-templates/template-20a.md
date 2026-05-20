@@ -18,7 +18,7 @@ ht-degree: 72%
 
 # テンプレート 20A {#template-20a}
 
-右クリックして[テンプレート 20A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)します
+右クリックして[テンプレート 20A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html?lang=ja)します
 
 ![](assets/image2015-9-18-9-3a1-3a49.png)
 
@@ -33,4 +33,4 @@ ht-degree: 72%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 20A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html)
+[テンプレート 20A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20a.html?lang=ja)

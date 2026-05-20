@@ -29,7 +29,7 @@ ht-degree: 70%
 
 >[!CAUTION]
 >
->この機能を有効にすると、現在[Marketo MCP Server](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"}にアクセスできなくなります。 この問題は、今後のリリースで解決される予定です。
+>この機能を有効にすると、現在[Marketo MCP Server](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mcp-server){target="_blank"}にアクセスできなくなります。 この問題は、今後のリリースで解決される予定です。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

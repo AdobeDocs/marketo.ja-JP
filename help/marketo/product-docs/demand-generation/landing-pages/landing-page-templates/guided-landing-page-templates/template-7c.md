@@ -18,7 +18,7 @@ ht-degree: 74%
 
 # テンプレート 7C {#template-7c}
 
-右クリックして[テンプレート 7C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)します
+右クリックして[テンプレート 7C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html?lang=ja)します
 
 ![](assets/image2015-7-29-14-3a37-3a3.png)
 
@@ -34,4 +34,4 @@ ht-degree: 74%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 7C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
+[テンプレート 7C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html?lang=ja)

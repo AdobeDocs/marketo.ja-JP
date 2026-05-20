@@ -18,7 +18,7 @@ ht-degree: 72%
 
 # テンプレート 20C {#template-20c}
 
-右クリックして[テンプレート 20C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)します
+右クリックして[テンプレート 20C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html?lang=ja)します
 
 ![](assets/template-20c.png)
 
@@ -33,4 +33,4 @@ ht-degree: 72%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html)
+[テンプレート 20C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20c.html?lang=ja)

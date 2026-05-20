@@ -18,7 +18,7 @@ ht-degree: 73%
 
 # テンプレート 1C {#template-1c}
 
-右クリックして[テンプレート 1C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)します
+右クリックして[テンプレート 1C をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html?lang=ja)します
 
 ![](assets/image2015-5-28-13-3a18-3a56.png)
 
@@ -33,4 +33,4 @@ ht-degree: 73%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 1C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html)
+[テンプレート 1C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1c.html?lang=ja)

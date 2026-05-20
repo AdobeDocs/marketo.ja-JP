@@ -18,7 +18,7 @@ ht-degree: 73%
 
 # テンプレート 11E {#template-11e}
 
-右クリックして[テンプレート 11E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)します
+右クリックして[テンプレート 11E をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html?lang=ja)します
 
 ![](assets/image2015-8-4-10-3a34-3a30.png)
 
@@ -34,4 +34,4 @@ ht-degree: 73%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html)
+[テンプレート 11E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11e.html?lang=ja)

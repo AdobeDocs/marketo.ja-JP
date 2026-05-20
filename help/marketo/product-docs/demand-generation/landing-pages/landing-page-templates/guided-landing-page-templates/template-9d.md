@@ -18,7 +18,7 @@ ht-degree: 74%
 
 # テンプレート 9D {#template-9d}
 
-右クリックして[テンプレート 9D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)します
+右クリックして[テンプレート 9D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html?lang=ja)します
 
 ![](assets/image2015-7-28-15-3a54-3a21.png)
 
@@ -33,4 +33,4 @@ ht-degree: 74%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html)
+[テンプレート 9D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9d.html?lang=ja)
