@@ -1,35 +1,40 @@
 ---
 unique-page-id: 2359862
-description: Marketoでアップロードした画像やファイルを検索する方法について説明します。 Design Studio で、名前またはフィルターを使用してすばやくアセットを見つけます。
+description: Marketoでアップロードされた画像やファイルを検索する方法について説明します。 名前またはフィルターでデザインスタジオ内のアセットをすばやく検索できます。
 title: アップロードされた画像とファイルの検索
 exl-id: c8eb7493-768a-4580-a76e-5b59ca9c14b1
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/bHD-qDzuv37pjKNQHfRV-X3X2eo1y7rDU-0NN7Xuelw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: 99
 ht-degree: 28%
 
 ---
 
 # アップロードされた画像とファイルの検索 {#search-uploaded-images-and-files}
 
-画像またはファイルの検索を実行する方法を説明します。
+画像またはファイルの検索を実行する方法について説明します。
 
-1. **[!UICONTROL デザインスタジオ]**&#x200B;に移動します。
+1. **[!UICONTROL Design Studio]** に移動します。
 
    ![](assets/search-uploaded-images-and-files-1.png)
 
-1. アップロードされたすべてのファイルの完全なリストを表示するには、「**[!UICONTROL 画像とファイル]**」をクリックします。
+1. アップロードされたすべてのファイルの完全なリストについては、**[!UICONTROL 画像とファイル]**&#x200B;をクリックします。
 
    ![](assets/search-uploaded-images-and-files-2.png)
 
-1. 検索ボックスに、ファイルの先頭に使用する単語を入力し、**Enter** キーを押します。
+1. 検索ボックスに、ファイルの先頭の単語を入力し、**Enter**&#x200B;を押します。
 
    ![](assets/search-uploaded-images-and-files-3.png)
 
 >[!NOTE]
 >
->画像とファイルの検索では、現時点では、「次の語句で始まる」機能のみが利用されます。
+>現時点では、画像とファイルの検索は「で始まる」機能のみを使用します。
 
 >[!MORELIKETHIS]
 >

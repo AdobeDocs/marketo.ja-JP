@@ -4,9 +4,12 @@ description: リリースノート - 2013年5月 - Marketo ドキュメント - 
 title: リリースノート - 2013年5月
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/zuIpkGIQ1hNuCzacgAOnMWJ0HVZ5HGpEuoj6MWdYg8s
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: 136
 ht-degree: 100%
 
 ---
@@ -17,13 +20,13 @@ ht-degree: 100%
 
 ## ランディングページのカレンダーファイル {#calendar-files-for-landing-pages}
 
-ランディングページに追加できるマイトークンとしてカレンダーファイルを作成します。この統合カレンダーファイル（例：.ics ファイル）は、ローカルアセットのランディングページのマイトークンを含む、すべてのトークンをレンダリングします。
+ランディングページに追加できるマイトークンとしてカレンダーファイルを作成します。 この統合カレンダーファイル（例：.ics ファイル）は、ローカルアセットのランディングページのマイトークンを含む、すべてのトークンをレンダリングします。
 
 ![](assets/image2014-9-22-16-3a3-3a18.png)
 
 ## 「モデルメンバーシップ」タブ {#model-membership-tab}
 
-すべてのモデルメンバーデータをまとめて表示して、モデルメンバーを用意に監視し、トラブルシューティングを行います。新しい「[!UICONTROL メンバー]」タブは、承認済みの収益サイクルモデルを選択した場合に使用できる読み取り専用ビューです。
+すべてのモデルメンバーデータをまとめて表示して、モデルメンバーを用意に監視し、トラブルシューティングを行います。 新しい「[!UICONTROL メンバー]」タブは、承認済みの収益サイクルモデルを選択した場合に使用できる読み取り専用ビューです。
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
@@ -35,6 +38,6 @@ ht-degree: 100%
 
 ## 名前が変更されたフローアクション {#renamed-flow-actions}
 
-「進行状況のステータスを変更」が「[!UICONTROL プログラムステータスを変更]」に変わりました。「プログラムデータを変更」が「[!UICONTROL プログラムの成功を変更]」に変わりました。
+「進行状況のステータスを変更」が「[!UICONTROL プログラムステータスを変更]」に変わりました。 「プログラムデータを変更」が「[!UICONTROL プログラムの成功を変更]」に変わりました。
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)

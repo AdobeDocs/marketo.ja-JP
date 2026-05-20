@@ -3,26 +3,38 @@ description: リリースノート - 2025年3月 - Marketo ドキュメント - 
 title: リリースノート - 2025年3月
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+TQID: https://experienceleague.adobe.com/-doC9SgyYBwcHdWEVf1O2DkSys8ni859Q1VN7x4BxnY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 97%
+source-wordcount: 527
+ht-degree: 95%
 
 ---
 
 # リリースノート：2025年3月 {#release-notes-mar-25}
 
-以下に、25年3月リリースに含まれるすべての機能を示します。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+以下に、25年3月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
 >[!AVAILABILITY]
 >
->星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。 詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、リリースは **2025年3月28日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。リリースの機能と日付は変更される場合があります。各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに該当し、リリースは **2025年3月28日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,8 +44,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
     <tr>
-   <td><strong>すべてのプログラムで使用可能なメールデザイナー</strong>：新しいメールデザイナーのメールは、エンゲージメントプログラム、デフォルトプログラム、イベントプログラムをまたいでアクセスできるようになりました（唯一の例外はインタラクティブウェビナープログラムです）。以前は、メールプログラムでのみ使用できました。</td>
-   <td>リリース日</td>
+   <td><strong>すべてのプログラムで使用可能なメールデザイナー</strong>：新しいメールデザイナーのメールは、エンゲージメントプログラム、デフォルトプログラム、イベントプログラムをまたいでアクセスできるようになりました（唯一の例外はインタラクティブウェビナープログラムです）。 以前は、メールプログラムでのみ使用できました。</td>
+   <td>リリース</td>
    <td>該当なし</td>
   </tr>
   <tr>
@@ -42,9 +54,9 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>インタラクティブウェビナーの生成 AI 機能</strong>：オンデマンドウェビナーのチャプターと概要を生成できるようになりました。データの HTML ファイルを編集して書き出します。</td>
-   <td>リリース日</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">GenAI の機能</a></td>
+   <td><strong>インタラクティブウェビナーの生成 AI 機能</strong>：オンデマンドウェビナーのチャプターと概要を生成できるようになりました。 データの HTML ファイルを編集して書き出します。</td>
+   <td>リリース</td>
+   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">生成AIの機能</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -53,7 +65,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>グローバルおよびワークスペースのマイトークン</strong>：ワークスペースとグローバルレベルの両方でマイトークンを設定して、Marketo Engage ワークスペースをまたいで、さらにはインスタンス全体でのブランドとマーケティングの販促物に対する生産性の向上と制御を可能にします。</td>
-   <td>リリース日</td>
+   <td>リリース</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">グローバルなマイトークンの作成</a></td>
   </tr>
   </tbody>
@@ -70,12 +82,12 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    * 動画の共有
    * 懸賞
 
-この時点では、ユーザは Marketo Engage でこれらのソーシャル機能を作成、複製、埋め込むことができなくなりました。既存のソーシャルアセットは、2025年1月31日（PT）まで引き続き機能します。2025年2月1日（PT）をもって、ソーシャルアセットは機能しなくなりました。ランディングページに埋め込まれた任意のソーシャル機能を削除する必要があります。[詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+この時点では、ユーザは Marketo Engage でこれらのソーシャル機能を作成、複製、埋め込むことができなくなりました。 既存のソーシャルアセットは、2025年1月31日（PT）まで引き続き機能します。 2025年2月1日（PT）をもって、ソーシャルアセットは機能しなくなりました。 ランディングページに埋め込まれた任意のソーシャル機能を削除する必要があります。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2026年3月31日（PT）以降は使用できなくなります。すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2026年3月31日（PT）以降は使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **SOAP API の廃止**：Marketo SOAP API のサポートは、2026年3月31日（PT）に終了する予定です。SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
+* **SOAP API の廃止**：Marketo SOAP API のサポートは、2026年3月31日（PT）に終了する予定です。 SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
 
-* **新しい分析機能 - パブリックベータ版**：[高度な BI 分析](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"}（以前の収益エクスプローラーおよび高度な Report Builder）は、4 月中旬に現在のすべての収益サイクルエクスプローラーユーザへのロールアウトを開始します。この新しいツールには、Marketo Engage データに関する柔軟なレポートとビジュアライゼーションインターフェイスが用意されています。これにより、進行状況やパフォーマンスなどに関する詳細を表示できます。より豊富なインタラクティブ機能とビジュアライゼーション、より高速なパフォーマンス、よりシームレスで直感的なユーザエクスペリエンスを備えています。
+* **新しい分析機能 - パブリックベータ版**：[高度な BI 分析](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"}（以前の収益エクスプローラーおよび高度な Report Builder）は、4 月中旬に現在のすべての収益サイクルエクスプローラーユーザへのロールアウトを開始します。 この新しいツールには、Marketo Engage データに関する柔軟なレポートとビジュアライゼーションインターフェイスが用意されています。これにより、進行状況やパフォーマンスなどに関する詳細を表示できます。 より豊富なインタラクティブ機能とビジュアライゼーション、より高速なパフォーマンス、よりシームレスで直感的なユーザエクスペリエンスを備えています。
 
-この機能にアクセスするには、高度な BI 分析アドオンを購入する必要があります。詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+この機能にアクセスするには、高度な BI 分析アドオンを購入する必要があります。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。

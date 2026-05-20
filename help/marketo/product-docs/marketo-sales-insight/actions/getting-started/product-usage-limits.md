@@ -1,11 +1,17 @@
 ---
-description: Sales Insight Actions 製品の使用制限を理解します。 アカウントのメール、呼び出し、API 制限について説明します。
+description: Sales Insight Actionsの製品使用制限について理解する。 アカウントのメール、呼び出し、およびAPIの制限について説明します。
 title: 製品使用の制限
 exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/ASD76pQAlTIlyjHmXl96mrDNJjNf-qPxdxE--NsO74w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: 244
 ht-degree: 93%
 
 ---
@@ -16,7 +22,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->Marketo セールスインサイト Actions は、[Marketo セールスインサイトパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
+>Marketo セールスインサイト Actions は、[Marketo セールスインサイトパッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を使用して Salesforce CRM と排他的に統合された、web ベースのアプリケーションです。 「Marketo Sales」や、シンプルに「Actions」と呼ばれることもあります。
 
 <table>
   <th>機能</th>

@@ -1,13 +1,16 @@
 ---
 unique-page-id: 10100644
-description: アプリ内メッセージボタンを設定する方法について説明します。 AppleとAndroidのカラー、シェイプ、カスタム画像、フォントおよびタップアクションを設定します。
+description: アプリ内メッセージボタンの設定方法について説明します。 AppleとAndroidのカラー、シェイプ、カスタム画像、フォント、タップアクションを設定します。
 title: アプリ内メッセージのボタンの設定
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/IWEak1rsLUCoSnX6pwQfknDeUN6stmdsrHAloqwtTXs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 92%
+source-wordcount: 283
+ht-degree: 91%
 
 ---
 
@@ -27,7 +30,7 @@ ht-degree: 92%
 
    ![](assets/image2016-5-6-15-3a14-3a8.png)
 
-1. ドロップダウンで形状を選択します。標準の形状には、ピン角、丸角、グラデーションが含まれます。
+1. ドロップダウンで形状を選択します。 標準の形状には、ピン角、丸角、グラデーションが含まれます。
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
@@ -71,7 +74,7 @@ ht-degree: 92%
    >
    >ボタンには常にタップアクションがあるので、「タップアクション」チェックボックスが自動的に選択され、デフォルトのメッセージ「[!UICONTROL メッセージを閉じる]」が表示されます。
 
-もう少しです。最後に、[アプリ内メッセージのバックグラウンドと「閉じる」ボタンを設定します。](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+もう少しです。 最後に、[アプリ内メッセージのバックグラウンドと「閉じる」ボタンを設定します。](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >

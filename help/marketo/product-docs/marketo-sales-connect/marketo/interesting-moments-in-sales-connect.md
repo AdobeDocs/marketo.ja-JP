@@ -1,13 +1,16 @@
 ---
 unique-page-id: 30082174
-description: Sales Connect とMarketoの興味深い瞬間を理解します。 販売アクティビティがライブフィードに流れる瞬間を生み出す方法を説明します。
+description: Sales ConnectとMarketoで、注目のアクションを把握。 セールス活動がライブフィードに流れる瞬間をどのように作成するかを説明します。
 title: Sales Connect の注目のアクション
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 92%
+source-wordcount: 286
+ht-degree: 93%
 
 ---
 
@@ -27,7 +30,7 @@ ht-degree: 92%
 
 ## 注目のアクションとは何でしょうか。 {#what-is-an-interesting-moment}
 
-それは、あなた次第です。どんな情報がセールスチームに関係あるのかを自分で決定します。セールスチームがリードについて知りたいのは、例えば次のようなことです。
+それは、あなた次第です。 どんな情報がセールスチームに関係あるのかを自分で決定します。 セールスチームがリードについて知りたいのは、例えば次のようなことです。
 
 * Web サイトの価格設定ページへのアクセス
 * 新製品発表メールに記載されたリンクをクリック
@@ -63,6 +66,6 @@ ht-degree: 92%
 
 ## 注目のアクションは、[!DNL Sales Connect] でどのように表示されるか {#what-does-an-interesting-moment-look-like-in-sales-connect}
 
-注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。[!DNL Salesforce] のリード所有者 ID を利用して、ユーザが所有する関連リードの注目のアクションを表示します。リード名の横にあるドロップダウンをクリックすると、メール、電話、セールスキャンペーンでリードを素早くフォローアップできます。
+注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。 [!DNL Salesforce] のリード所有者 ID を利用して、ユーザが所有する関連リードの注目のアクションを表示します。 リード名の横にあるドロップダウンをクリックすると、メール、電話、セールスキャンペーンでリードを素早くフォローアップできます。
 
 ![](assets/engagement.jpg)

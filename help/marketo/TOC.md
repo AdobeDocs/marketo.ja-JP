@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 1304a6808830d22a368bd8eed5e7540396372a08
+source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
 workflow-type: tm+mt
-source-wordcount: '8836'
+source-wordcount: '9171'
 ht-degree: 96%
 
 ---
@@ -1731,6 +1731,67 @@ ht-degree: 96%
          + [パフォーマンスインサイトの設定](product-docs/reporting/performance-insights/performance-insights-settings.md)
          + [パフォーマンスインサイトのトレンドの概要](product-docs/reporting/performance-insights/performance-insights-trend-overview.md)
          + [パフォーマンスインサイトの設定](product-docs/reporting/performance-insights/setting-up-performance-insights.md)
+      + 収益サイクル分析 {#revenue-cycle-analytics}
+         + メール分析 {#email-analysis}
+            + [リードを一覧表示するメール分析レポートの作成](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-lists-leads.md)
+            + [プログラム情報を示すメール分析レポートの作成](product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md)
+            + [メール分析領域について](product-docs/reporting/revenue-cycle-analytics/email-analysis/understanding-the-email-analysis-area.md)
+         + 商談の影響アナライザー {#opportunity-influence-analyzer}
+            + [商談の影響アナライザーについて](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/understanding-the-opportunity-influence-analyzer.md)
+            + [商談の影響アナライザーの設定](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+            + [商談の影響アナライザーの作成](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+            + [商談の影響アナライザーのデータのエクスポート](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/export-opportunity-influence-analyzer-data.md)
+            + [商談の影響アナライザーでマーケティング事例を伝える](product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+         + プログラム分析 {#program-analytics}
+            + [高度なプログラムレポートの概要](product-docs/reporting/revenue-cycle-analytics/program-analytics/advanced-program-reporting-overview.md)
+            + [リードを一覧表示するプログラムメンバーシップ分析レポートの作成](product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md)
+            + [プログラムアナライザーの複製](product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
+            + [プログラムアナライザーを使用したチャネルの効果の比較](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+            + [プログラムアナライザーを使用したプログラムの効果の比較](product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+            + [プログラムアナライザーの作成](product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+            + [プログラムアナライザーを使用したプログラムおよびチャネルの詳細の調査](product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+            + [期間原価がないプログラムを売上高エクスプローラーとアナライザーで使用可能にする](product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)
+            + [プログラムレベルでの分析動作の上書き](product-docs/reporting/revenue-cycle-analytics/program-analytics/override-analytics-behavior-at-the-program-level.md)
+            + [プログラム原価分析領域について](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-cost-analysis-area.md)
+            + [プログラムメンバーシップ分析領域について](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-membership-analysis-area.md)
+            + [プログラム商談分析領域について](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)
+            + [プログラム売上高ステージ分析領域について](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-revenue-stage-analysis-area.md)
+         + 収益サイクルモデル {#revenue-cycle-models}
+            + [売上高モデルの承認／未承認](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
+            + [承認済みモデルの編集](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
+            + [ステージの承認と売上高モデルへのリードの割り当て](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
+            + [ステージの名前変更](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/changing-the-name-of-a-stage.md)
+            + [Marketo 売上高モデル例の複製](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/cloning-a-marketo-example-revenue-model.md)
+            + [新規売上高モデルの作成](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+            + [成功パスアナライザーの作成](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+            + [モデルパフォーマンス分析（リード）のカスタムフィールドグループの有効化](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
+            + [売上高サイクルモデルですべてのリードを検索](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
+            + [売上高モデラーで 2 つのステージを結合](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
+            + [売上高モデルのレポート](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
+            + [マネージャーアカウントを使用した売上高モデルでの Google AdWords コンバージョンの設定](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
+            + [売上高モデルでの Google AdWords コンバージョンの設定](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
+            + [売上高モデラーでのアカウント別トラッキングの開始](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
+            + [売上高モデルのフェーズについて](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
+            + [売上高モデルの成功パスについて](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)
+            + [売上高モデルについて](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
+            + [売上高モデルゲートステージの使用](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+            + [売上高モデル在庫ステージの使用](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+            + [売上高モデル SLA ステージの使用](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+            + [売上高モデルトランジションの使用](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
+            + [成功パスアナライザーの使用](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
+         + 収益ツール {#revenue-tools}
+            + [期間原価の定義](product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md)
+            + [収益サイクル分析のカスタムフィールド同期の有効化](product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md)
+            + [売上高ステージ別のリードレポート](product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
+            + アトリビューション {#attribution}
+               + [アトリビューションについて](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md)
+               + [アトリビューションの例 1](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-1.md)
+               + [アトリビューションの例 2](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-2.md)
+               + [アトリビューションの例 3](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
+               + [アトリビューションの例 4](product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
+            + フィールドオーガナイザー {#field-organizers}
+               + [フィールドオーガナイザーの使用](product-docs/reporting/revenue-cycle-analytics/revenue-tools/using-field-organizers.md)
+               + [フィールドオーガナイザーを使用したカスタムフィールドグループの作成](product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
       + 高度な BI 分析 {#advanced-bi-analytics}
          + [高度な BI 分析の概要](product-docs/reporting/advanced-bi-analytics/overview.md)
          + [指標とディメンション](product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
@@ -1863,6 +1924,7 @@ ht-degree: 96%
       + 2026 {#2026}
          + [リリースノート：2026年1月](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [リリースノート：2026年2月](release-notes/previous-releases/2026/release-notes-feb-26.md)
+         + [リリースノート：2026年3月](release-notes/previous-releases/2026/release-notes-mar-26.md)
       + 2025年 {#2025}
          + [リリースノート：2025年1月](release-notes/previous-releases/2025/release-notes-jan-25.md)
          + [リリースノート：2025年3月](release-notes/previous-releases/2025/release-notes-mar-25.md)

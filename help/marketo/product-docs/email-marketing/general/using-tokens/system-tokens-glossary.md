@@ -1,19 +1,22 @@
 ---
 unique-page-id: 1147344
-description: Marketoのメールで使用できるシステムトークンについて説明します。 用語集を使用して、パーソナライゼーションに適したトークンを見つけます。
+description: Marketoの電子メールで利用できるシステムトークンについて説明します。 用語集を使用して、パーソナライゼーションに適したトークンを見つけます。
 title: システムトークンの用語集
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: 229
 ht-degree: 85%
 
 ---
 
 # システムトークンの用語集 {#system-tokens-glossary}
 
-ユーザトークンに加えて、本当にクールなシステムトークンを使用できます。こちらです。
+ユーザトークンに加えて、本当にクールなシステムトークンを使用できます。 こちらです。
 
 >[!NOTE]
 >
@@ -32,7 +35,7 @@ ht-degree: 85%
 
 ## system.time {#system-time}
 
-`{{system.time}}` トークンは、実行時に **04:34PM （GMT -0700）のように現在の時刻をレンダリングします**
+`{{system.time}}` トークンは、実行時に現在の時刻をレンダリングします。例：**04:34午後（GMT -0700）**
 
 **使用場所：**
 

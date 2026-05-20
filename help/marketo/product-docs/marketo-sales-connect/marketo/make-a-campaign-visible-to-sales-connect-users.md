@@ -1,19 +1,22 @@
 ---
 unique-page-id: 14745655
-description: Marketo キャンペーンを Sales Connect ユーザーに表示する方法を説明します。 販売者が Sales Connect からリードを追加できるように、マーケティングキャンペーンを共有します。
+description: Sales Connect ユーザーがMarketo キャンペーンを表示できるようにする方法について説明します。 マーケティング施策を共有し、セールスコネクトからリードを追加できるようにします。
 title: Sales Connect ユーザにキャンペーンを表示
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/WdSLwrvoXF6L4jID6HThIn2JST-aDvtPtXAoWqJO7ZI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: 124
 ht-degree: 81%
 
 ---
 
 # [!DNL Sales Connect] ユーザにキャンペーンを表示 {#make-a-campaign-visible-to-sales-connect-users}
 
-キャンペーンは、表示されている場合にのみ共有できます。その方法を説明しましょう。
+キャンペーンは、表示されている場合にのみ共有できます。 その方法を説明しましょう。
 
 1. 共有するキャンペーンを選択（または作成）します。
 
@@ -43,7 +46,7 @@ ht-degree: 81%
 
    ![](assets/make-a-marketing-campaign-visible-msc-7.png)
 
-1. [!UICONTROL 説明]ボックスに、セールスチームにメッセージを書き込みます。この例では、トークンを使用して、入力されたフォームを指定します。
+1. [!UICONTROL 説明]ボックスに、セールスチームにメッセージを書き込みます。 この例では、トークンを使用して、入力されたフォームを指定します。
 
    ![](assets/make-a-marketing-campaign-visible-msc-8.png)
 

@@ -4,16 +4,21 @@ description: Marketoでフリーフォームのランディングページにモ
 title: フリーフォームランディングページのモバイル表示の追加
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/LG5T0Wbo05-MpqhFgcBWsvj9mZsLwVc4iSsaJmvWfOQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 75%
+source-wordcount: 147
+ht-degree: 76%
 
 ---
 
 # フリーフォームランディングページのモバイル表示の追加 {#add-a-mobile-view-for-your-free-form-landing-page}
 
-フリーフォームのランディングページをスマートフォンで見た目のまま表示させるのは簡単です。
+フリーフォームのランディングページをスマートフォンで適切に表示するように最適化できます。
 
 >[!NOTE]
 >
@@ -43,7 +48,7 @@ ht-degree: 75%
    >
    >フリーフォームテンプレートのアップグレードが必要な場合があります。 そのメッセージが表示された場合は、[既存のフリーフォームランディングページテンプレートをモバイルに対応させる](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)方法について簡単に参照してください。
 
-1. 完了です。 これで、ランディングページのモバイルバージョンがアクティベートされました。 「**[!UICONTROL 閉じる]**」をクリックします。
+1. これで、ランディングページのモバイルバージョンがアクティベートされました。 「**[!UICONTROL 閉じる]**」をクリックします。
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

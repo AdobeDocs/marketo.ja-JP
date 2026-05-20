@@ -1,13 +1,16 @@
 ---
 unique-page-id: 14746188
-description: Sales Connect の購読解除をSalesforceと同期する方法について説明します。 購読解除した連絡先にメールを送信しないように、オプトアウトステータスを同期したままにします。
+description: SalesforceでSales Connectの登録解除を同期する方法について説明します。 購読解除した連絡先に電子メールを送信しないように、オプトアウトステータスを同期しておきます。
 title: Salesforce との登録解除の同期
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 95%
+source-wordcount: 435
+ht-degree: 94%
 
 ---
 
@@ -21,11 +24,11 @@ ht-degree: 95%
 
 **登録解除のプッシュ**
 
-[!DNL Sales Connect] で登録解除が収集された場合は、リアルタイムで [!DNL Salesforce] にプッシュし、同期対象として選択した「オプトアウト」フィールドのいずれかを更新します。[!DNL Salesforce] 同期を無効にしても、登録解除はメールオプトアウトに引き続きプッシュされます。
+[!DNL Sales Connect] で登録解除が収集された場合は、リアルタイムで [!DNL Salesforce] にプッシュし、同期対象として選択した「オプトアウト」フィールドのいずれかを更新します。 [!DNL Salesforce] 同期を無効にしても、登録解除はメールオプトアウトに引き続きプッシュされます。
 
 **登録解除を同期**
 
-登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。同期は 1 日に 1 回、午後 8:00 PST 頃に実行されます。Marketo Sales 内のすべての登録解除と Salesforce の「オプトアウト」フィールドが双方向に同期されます。
+登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。 同期は 1 日に 1 回、午後 8:00 PST 頃に実行されます。 Marketo Sales 内のすべての登録解除と Salesforce の「オプトアウト」フィールドが双方向に同期されます。
 
 ## [!DNL Salesforce] への登録解除同期の設定 {#configure-unsubscribe-sync-to-salesforce}
 
@@ -56,7 +59,7 @@ ht-degree: 95%
 
 **メールオプトアウト**
 
-「メールオプトアウト」は、[!DNL Salesforce] からインストールできる [!DNL Salesforce] の標準フィールドです。インストールするには、[!DNL Salesforce] 管理者である必要があります。
+「メールオプトアウト」は、[!DNL Salesforce] からインストールできる [!DNL Salesforce] の標準フィールドです。 インストールするには、[!DNL Salesforce] 管理者である必要があります。
 
 1. [Salesforce.com](https://salesforce.com) に移動し、ログインします。
 
@@ -66,7 +69,7 @@ ht-degree: 95%
 
    ![](assets/six-1.png)
 
-1. クイック検索ボックスで、取引先責任者またはリードを検索します。このシナリオでは、取引先責任者ページレイアウトのフィールドをインストールしますが、両方の人物レコード用にインストールする場合もあります。
+1. クイック検索ボックスで、取引先責任者またはリードを検索します。 このシナリオでは、取引先責任者ページレイアウトのフィールドをインストールしますが、両方の人物レコード用にインストールする場合もあります。
 
    ![](assets/seven-1.png)
 

@@ -1,11 +1,16 @@
 ---
-description: Marketo Sales Insight for Dynamics のおすすめコンテンツを紹介します。 どのリードが最もエンゲージメントが高く、アウトリーチの準備ができているかを確認します。
+description: Marketo Sales Insight for Dynamicsのベストプラクティスについて説明します。 最もエンゲージ率が高く、アウトリーチの準備ができているリードを特定。
 title: 最有望見込客
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/hXHMtgJnHJ8nZU3oQi5GcXt86uQeBxKhZ3fMG2FSA7c
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: 85
 ht-degree: 76%
 
 ---

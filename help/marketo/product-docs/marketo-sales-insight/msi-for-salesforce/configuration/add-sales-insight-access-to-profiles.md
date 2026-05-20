@@ -1,18 +1,25 @@
 ---
-description: Salesforce プロファイルに Sales Insightのアクセス権を追加する方法を説明します。 Marketo Sales Insight パッケージへのアクセス権をユーザーに付与します。
+description: Salesforce プロファイルにSales Insight アクセスを追加する方法を説明します。 Marketo Sales Insight パッケージへのアクセス権を付与します。
 title: セールスインサイトへのアクセスをプロファイルに追加
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/n3IZiKAL8DonU5nAkNs-Y8AbGszSIn3J8LQM2LjvDEw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: 405
 ht-degree: 95%
 
 ---
 
 # [!DNL Sales Insight] へのアクセスをプロファイルに追加 {#add-sales-insight-access-to-profiles}
 
-ここでは、[!DNL Sales Insight] へのアクセス権を持つプロファイルを作成し、他のプロファイルのアクセス権を削除する方法について説明します。これは、[[!DNL Sales Insight]  AppExchange パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を既にインストール済みのユーザ向けです。
+ここでは、[!DNL Sales Insight] へのアクセス権を持つプロファイルを作成し、他のプロファイルのアクセス権を削除する方法について説明します。 これは、[[!DNL Sales Insight]  AppExchange パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を既にインストール済みのユーザ向けです。
 
 >[!IMPORTANT]
 >
@@ -54,7 +61,7 @@ ht-degree: 95%
 
 ## [!DNL Sales Insight] のレイアウトの作成 {#create-layout-for-sales-insight}
 
-1. セットアップページに移動して、**[!UICONTROL アプリセットアップ]**／**[!UICONTROL カスタマイズ]**／**[!UICONTROL リード]**／**[!UICONTROL ページレイアウト]**&#x200B;をクリックします。次に、「**[!UICONTROL 新規]**」ボタンをクリックします。
+1. セットアップページに移動して、**[!UICONTROL アプリセットアップ]**／**[!UICONTROL カスタマイズ]**／**[!UICONTROL リード]**／**[!UICONTROL ページレイアウト]**&#x200B;をクリックします。 次に、「**[!UICONTROL 新規]**」ボタンをクリックします。
 
 1. お好みのレイアウトを複製し、レイアウトに適切な名前を付けます（例：セールスインサイトレイアウト）。
 
@@ -76,7 +83,7 @@ ht-degree: 95%
 
 ## その他の変更点 {#other-changes}
 
-以下に、[!DNL Sales Insight] 項目が表示される可能性のあるその他の場所を示します。プロファイルを使用してアクセスを制限することはできないので、これらの項目を完全に削除する必要があります。
+以下に、[!DNL Sales Insight] 項目が表示される可能性のあるその他の場所を示します。 プロファイルを使用してアクセスを制限することはできないので、これらの項目を完全に削除する必要があります。
 
 * 「[!UICONTROL 取引先責任者]」、「[!UICONTROL リード]」、「[!UICONTROL アカウント]」の「検索レイアウト」から「[!DNL Sales Insight]」ボタンを削除
 * 取引先責任者リストおよびリードリストから [!DNL Sales Insight] 列を削除

@@ -1,10 +1,17 @@
 ---
-description: Salesforceで Sales Insightのアクションを設定する方法を説明します。 リモートサイトを追加し、MSI アクションを有効にして、API 秘密鍵を入力します。
+description: SalesforceでSales Insight アクションを設定する方法について説明します。 リモートサイトを追加し、MSI アクションを有効にして、API シークレットキーを入力します。
 title: Salesforce でのセールスインサイトアクション設定
 exl-id: 2d842886-3501-4aca-96fb-0d6763ab2b01
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/5S-pqmvARTyOj8ED-PrL5zLHGbsBAej8TYuYZw7rtSQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: 251
 ht-degree: 92%
 
 ---
@@ -29,7 +36,7 @@ ht-degree: 92%
 
    ![](assets/msi-actions-configuration-in-salesforce-3.png)
 
-1. リモートサイト名を入力します（「MarketoSalesInsight1」など）。リモートサイトの URL `https://ims-na1.adobelogin.com` を入力し、「**[!UICONTROL 保存」をクリックします。]**
+1. リモートサイト名を入力します（「MarketoSalesInsight1」など）。 リモートサイトの URL `https://ims-na1.adobelogin.com` を入力し、「**[!UICONTROL 保存」をクリックします。]**
 
    ![](assets/msi-actions-configuration-in-salesforce-4.png)
 
@@ -37,7 +44,7 @@ ht-degree: 92%
 
    ![](assets/msi-actions-configuration-in-salesforce-4a.png)
 
-1. リモートサイト名を入力します（「MarketoSalesInsight2」など）。リモートサイトの URL `https://mkto-sales-connect.adobe.io` を入力し、「**[!UICONTROL 保存]**」をクリックします。
+1. リモートサイト名を入力します（「MarketoSalesInsight2」など）。 リモートサイトの URL `https://mkto-sales-connect.adobe.io` を入力し、「**[!UICONTROL 保存]**」をクリックします。
 
 ## CRM 全体で [!DNL Sales Insight Actions] を有効にする {#enabling-sales-insight-actions-across-the-crm}
 
@@ -71,7 +78,7 @@ ht-degree: 92%
 
 ## MSI アクションのガバナンス {#msi-actions-governance}
 
-1. 今後提供されるセクションで、セールスキャンペーンや「タスク」タブを無効にすることができます。これは、リード、取引先責任者、アカウント、商談の各パネルに適用されます。
+1. 今後提供されるセクションで、セールスキャンペーンや「タスク」タブを無効にすることができます。 これは、リード、取引先責任者、アカウント、商談の各パネルに適用されます。
 
    ![](assets/msi-actions-configuration-in-salesforce-8.png)
 

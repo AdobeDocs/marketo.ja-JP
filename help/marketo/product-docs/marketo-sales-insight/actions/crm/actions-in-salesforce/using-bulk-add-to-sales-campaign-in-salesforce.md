@@ -1,10 +1,15 @@
 ---
-description: Salesforceから営業キャンペーンにリードや連絡先を一括追加する方法を説明します。 リスト表示を選択し、Lightning または Classic の Add to Sales Campaign ボタンを使用します。
+description: Salesforceからセールスキャンペーンにリードと連絡先を一括追加する方法を説明します。 リストビューを選択し、LightningまたはClassicの「セールスキャンペーンに追加」ボタンを使用します。
 title: Salesforce でのセールスキャンペーンへの一括追加の使用
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/2LbZICCTfZs0GAnBtFwAs3f0xjKk1ZkHvY2fkC7VLbU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: 602
 ht-degree: 90%
 
 ---
@@ -19,7 +24,7 @@ Sales Actions を使用したアウトバウンド通信の拡大に役立つ、
 
 >[!PREREQUISITES]
 >
->[&#x200B; 最新の Sales Insight パッケージ &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} がSalesforce インスタンスにインストールされ、Salesforceの連絡先ビューとリードリストビューで [&#x200B; アクションボタン &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} が設定されていることを確認します。
+>最新の[Sales Insight パッケージ &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}をSalesforce インスタンスにインストールし、Salesforceの連絡先およびリードリストビューに[&#x200B; アクションボタン &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"}を設定していることを確認してください。
 
 ## Salesforce Lightning でのセールスキャンペーンへの一括追加 {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 
@@ -31,7 +36,7 @@ Sales Actions を使用したアウトバウンド通信の拡大に役立つ、
 
    >[!TIP]
    >
-   >右側の歯車アイコンをクリックして、「**新規**」を選択することで、新しい表示を作成できます。表示に新しい名前を付けて保存したら、右側のフィルターアイコンをクリックして、メールを送信するリード／連絡先の目的のセットに絞り込むことができます。
+   >右側の歯車アイコンをクリックして、「**新規**」を選択することで、新しい表示を作成できます。 表示に新しい名前を付けて保存したら、右側のフィルターアイコンをクリックして、メールを送信するリード／連絡先の目的のセットに絞り込むことができます。
 
 1. 目的のリードまたは連絡先のリストを選択して、「**セールスキャンペーンに追加**」ボタンをクリックします。
 
@@ -49,11 +54,11 @@ Sales Actions を使用したアウトバウンド通信の拡大に役立つ、
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-4.png)
 
-1. キャンペーンの最初のステップに応じて、異なるオプションが表示される可能性があります。最初のステップがメールの場合は、以下のように、各受信者のメールを編集するオプションが表示されます。これが完了したら、「**次へ**」をクリックします。
+1. キャンペーンの最初のステップに応じて、異なるオプションが表示される可能性があります。 最初のステップがメールの場合は、以下のように、各受信者のメールを編集するオプションが表示されます。 これが完了したら、「**次へ**」をクリックします。
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-5.png)
 
-1. さらに、最初のステップがメールで、キャンペーンが開始される際に選択できるように設定されている場合は、「**今すぐ開始**」または「**新しい開始時刻をスケジュール**」オプションが表示されます。これが完了したら、「**開始**」をクリックします。
+1. さらに、最初のステップがメールで、キャンペーンが開始される際に選択できるように設定されている場合は、「**今すぐ開始**」または「**新しい開始時刻をスケジュール**」オプションが表示されます。 これが完了したら、「**開始**」をクリックします。
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-6.png)
 
@@ -89,11 +94,11 @@ Sales Actions を使用したアウトバウンド通信の拡大に役立つ、
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-11.png)
 
-1. キャンペーンの最初のステップに応じて、異なるオプションが表示される可能性があります。最初のステップがメールの場合は、以下のように、各受信者のメールを編集するオプションが表示されます。これが完了したら、「**次へ**」をクリックします。
+1. キャンペーンの最初のステップに応じて、異なるオプションが表示される可能性があります。 最初のステップがメールの場合は、以下のように、各受信者のメールを編集するオプションが表示されます。 これが完了したら、「**次へ**」をクリックします。
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-12.png)
 
-1. さらに、最初のステップがメールで、キャンペーンが開始される際に選択できるように設定されている場合は、「**今すぐ開始**」または「**新しい開始時刻をスケジュール**」オプションが表示されます。これが完了したら、「**開始**」をクリックします。
+1. さらに、最初のステップがメールで、キャンペーンが開始される際に選択できるように設定されている場合は、「**今すぐ開始**」または「**新しい開始時刻をスケジュール**」オプションが表示されます。 これが完了したら、「**開始**」をクリックします。
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-13.png)
 

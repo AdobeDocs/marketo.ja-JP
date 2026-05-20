@@ -5,10 +5,15 @@ title: フリーフォームランディングページへの動画の追加
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 feature: Landing Pages
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/JAniDUx7doRNOSnpsdkLIgNnyGO3tAwZGgtpQCKaqPc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 79%
+source-wordcount: 229
+ht-degree: 76%
 
 ---
 
@@ -44,8 +49,4 @@ ht-degree: 79%
 >
 >時間を節約するために、「**[!UICONTROL クローン元]**」オプションを使用して、既存の動画共有からすべての設定をコピーできます。
 
-これで完了です。 フリーフォームランディングページに動画共有を追加しました。 ランディングページを承認すると、動画共有が有効になります。 また、ランディングページを[&#x200B; Facebook に](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)公開したり、_web サイトに動画共有を配置_&#x200B;したりすることもできます。
-
->[!MORELIKETHIS]
->
->完了しましたが、必要に応じてビデオ共有の設定を変更できます。 _共有フローのカスタマイズ_（共有プロンプトが開くタイミングと場所）から始めます。
+フリーフォームランディングページに動画共有を追加しました。 ランディングページを承認すると、動画共有が有効になります。 また、[&#x200B; ランディングページをFacebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)に公開したり、ビデオ共有をweb サイトに配置したりすることもできます。

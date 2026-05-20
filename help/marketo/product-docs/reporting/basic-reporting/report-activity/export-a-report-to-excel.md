@@ -1,12 +1,19 @@
 ---
 unique-page-id: 2360020
-description: 他のソフトウェアで分析するために、レポートを Excel ファイルにエクスポートする方法を説明します。 「レポート」タブの「書き出し」ボタンをクリックして、データをダウンロードします。
+description: 他のソフトウェアで分析するためにレポートをExcel ファイルに書き出す方法について説明します。 「レポート」タブの「書き出し」ボタンをクリックして、データをダウンロードします。
 title: レポートの  [!DNL Excel] への書き出し
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/lg9ZSoR9DLr9zqRYh19YRmeU4EiScOF0ApVc2yrhzFg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: 97
 ht-degree: 74%
 
 ---
@@ -15,7 +22,7 @@ ht-degree: 74%
 
 任意のレポートを [!DNL Excel] ファイルに書き出して、他のソフトウェアでデータを処理できます。
 
-1. **[!UICONTROL マーケティング活動]**&#x200B;領域に移動します。
+1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
@@ -27,7 +34,7 @@ ht-degree: 74%
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
-   それだけです。[!DNL Excel] ファイルをシステムに保存するように求めるプロンプトがブラウザーに表示されます。
+   それだけです。 [!DNL Excel] ファイルをシステムに保存するように求めるプロンプトがブラウザーに表示されます。
 
    >[!MORELIKETHIS]
    >

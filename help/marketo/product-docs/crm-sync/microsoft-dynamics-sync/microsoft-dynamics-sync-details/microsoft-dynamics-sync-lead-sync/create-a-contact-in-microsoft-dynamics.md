@@ -1,12 +1,15 @@
 ---
 unique-page-id: 10095389
-description: MarketoからMicrosoft Dynamicsで連絡先を作成する方法を説明します。 リアルタイムで連絡先を作成するためのトリガーキャンペーンで、ユーザーをMicrosoftに同期フローアクションを使用します。
+description: MarketoからMicrosoft Dynamicsで連絡先を作成する方法を説明します。 トリガーキャンペーンで「人物をMicrosoftに同期」フローアクションを使用すると、リアルタイムの連絡先を作成できます。
 title: Microsoft Dynamics での取引先責任者の作成
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/5q84B57P88MNhaYHluCKKCYLwOonW2xj7hAUNDOmXl8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: 136
 ht-degree: 79%
 
 ---
@@ -21,7 +24,7 @@ ht-degree: 79%
 
    ![](assets/two.png)
 
-1. 「**[!UICONTROL 名前を付けて同期]**」をクリックし、「**[!UICONTROL 連絡先]**」を選択します。「**[!UICONTROL 今すぐ実行]**」をクリックします。
+1. 「**[!UICONTROL 名前を付けて同期]**」をクリックし、「**[!UICONTROL 連絡先]**」を選択します。 「**[!UICONTROL 今すぐ実行]**」をクリックします。
 
    ![](assets/three.png)
 

@@ -1,19 +1,24 @@
 ---
 unique-page-id: 1147144
-description: プログラムスケジュール表示から新しいメールプログラムを作成する方法を説明します。 メールプログラムエントリを追加し、設定します。
+description: プログラムスケジュール表示から新しいメールプログラムを作成する方法を説明します。 メールプログラムエントリを追加して設定します。
 title: スケジュール表示での新しいメールプログラムの作成
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/YOcP85xZ-fSMEEZMCTnjyamN0gH1VfFMW9KMr7uO0Cg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: 125
 ht-degree: 83%
 
 ---
 
 # スケジュール表示での新しいメールプログラムの作成 {#creating-a-new-email-program-in-the-schedule-view}
 
-プログラムのスケジュール表示内からメールプログラムを作成できます。ここでは、その方法を説明します。
+プログラムのスケジュール表示内からメールプログラムを作成できます。 手順は以下のとおりです。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -27,7 +32,7 @@ ht-degree: 83%
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. 名前を入力します。「**[!UICONTROL メールプログラム]**」を選択します。
+1. 名前を入力します。 「**[!UICONTROL メールプログラム]**」を選択します。
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -39,4 +44,4 @@ ht-degree: 83%
 
    ![](assets/learnaboutthespeaker.png)
 
-   スマートキャンペーンではなく[メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}を使用する理由は、使いやすいダッシュボードと、[A/B テスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}を簡単に実施できる点にあります。お試しください。
+   スマートキャンペーンではなく[メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md){target="_blank"}を使用する理由は、使いやすいダッシュボードと、[A/B テスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}を簡単に実施できる点にあります。 お試しください。

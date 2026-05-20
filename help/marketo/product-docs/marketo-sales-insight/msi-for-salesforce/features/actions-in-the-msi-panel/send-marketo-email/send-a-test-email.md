@@ -1,11 +1,16 @@
 ---
-description: Salesforceの MSI パネルからテストメールを送信する方法を説明します。 リードに送信する前に、販売 E メールテンプレートをプレビューおよびテストします。
+description: SalesforceのMSI パネルからテストメールを送信する方法を説明します。 リードに送信する前に、セールスメールテンプレートをプレビューし、テストします。
 title: テストメールの送信
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/SqRcW7-vBInte7Qbxdt-C6acYyqyA0KrBLY4TidCabQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: 170
 ht-degree: 86%
 
 ---
@@ -20,13 +25,13 @@ ht-degree: 86%
 
 1. 「**[!UICONTROL テスト受信者を編集]**」をクリックします。
 
-1. リストから 1 つ以上のリードを選択して、リードがどのようにレンダリングされるのかを確認できます。終了したら、「**[!UICONTROL 変更を適用]**」をクリックします。
+1. リストから 1 つ以上のリードを選択して、リードがどのようにレンダリングされるのかを確認できます。 終了したら、「**[!UICONTROL 変更を適用]**」をクリックします。
 
    ![](assets/send-a-test-email-1.png)
 
    >[!NOTE]
    >
-   >リマインダーとして、これらのリードを選択しても、メールテストは&#x200B;**送信されず**、_メールがどのように見えるかを示します_。4 件のリードを選択すると、4 件の異なるテストメールが届きます。
+   >リマインダーとして、これらのリードを選択しても、メールテストは&#x200B;**送信されず**、_メールがどのように見えるかを示します_。 4 件のリードを選択すると、4 件の異なるテストメールが届きます。
 
 1. 「**[!UICONTROL テストを送信]**」をクリックします。
 

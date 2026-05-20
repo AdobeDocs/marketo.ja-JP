@@ -1,19 +1,31 @@
 ---
 unique-page-id: 2359474
-description: ドラフトを作成し、セグメントやルールを変更して、セグメント化を編集する方法を説明します。 セグメントを追加、編集または削除し、ドラフトでスマートリストルールを定義します。
+description: ドラフトを作成し、セグメントまたはルールを変更して、セグメントを編集する方法を説明します。 セグメントを追加、編集、削除し、ドラフトでスマートリストルールを定義します。
 title: セグメント化を編集する
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+TQID: https://experienceleague.adobe.com/Q1ScrnnZkiVZi2c2z4lPl1MysuVd-znQUUggjy-y-Eo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: 217
 ht-degree: 87%
 
 ---
 
 # セグメント化を編集する {#edit-a-segmentation}
 
-既存のセグメント化に変更を加える作業は簡単です。これが不利な点です。
+既存のセグメント化に変更を加える作業は簡単です。 これが不利な点です。
 
 ## セグメント化のドラフトを作成する {#create-a-segmentation-draft}
 
@@ -25,7 +37,7 @@ ht-degree: 87%
 
    ![](assets/two.png)
 
-1. 「**[!UICONTROL ステータス]**」が「[!UICONTROL ドラフトで承認済み]」に変わります。セグメント化に&#x200B;**[!UICONTROL ドラフト]**&#x200B;フォルダーが作成されます。
+1. 「**[!UICONTROL ステータス]**」が「[!UICONTROL ドラフトで承認済み]」に変わります。 セグメント化に&#x200B;**[!UICONTROL ドラフト]**&#x200B;フォルダーが作成されます。
 
    ![](assets/three.png)
 
@@ -49,17 +61,17 @@ ht-degree: 87%
 
    >[!CAUTION]
    >
-   >削除すると、メール、ランディングページ、スニペット内のすべての動的コンテンツに影響します。**元に戻すことはできません**。セグメントが何によって使用されているかを確認するには、「**[!UICONTROL 使用者]**」タブをチェックしてください。
+   >削除すると、メール、ランディングページ、スニペット内のすべての動的コンテンツに影響します。 **元に戻すことはできません**。 セグメントが何によって使用されているかを確認するには、「**[!UICONTROL 使用者]**」タブをチェックしてください。
 
 ## セグメントルールを編集する {#edit-segment-rules}
 
-1. [!UICONTROL ドラフト]の&#x200B;**セグメント**&#x200B;で、「**[!UICONTROL スマートリスト]**」に移動します。[セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)と同様のルールを適用します。
+1. [!UICONTROL ドラフト]の&#x200B;**セグメント**&#x200B;で、「**[!UICONTROL スマートリスト]**」に移動します。 [セグメントルールの定義](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)と同様のルールを適用します。
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 
    >[!NOTE]
    >
-   >承認済みセグメントは編集できません。[!UICONTROL ドラフト]フォルダーにあるセグメントをクリックして編集してください。
+   >承認済みセグメントは編集できません。 [!UICONTROL ドラフト]フォルダーにあるセグメントをクリックして編集してください。
 
    >[!NOTE]
    >

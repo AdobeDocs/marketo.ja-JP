@@ -1,23 +1,30 @@
 ---
 unique-page-id: 1146997
-description: 待機フローステップで日付トークンを使用する方法を説明します。 トークンからの動的な日付まで待ってから続行します。
+description: 待機フローステップで日付トークンを使用する方法を説明します。 続行する前に、トークンの動的な日付まで待ちます。
 title: 待機フローステップで日付トークンを使用
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/b59TeCenvUee5sOw3O4ggclGMEdkhX3RlC31DWh5d08
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: 223
 ht-degree: 90%
 
 ---
 
 # 待機フローステップで日付トークンを使用 {#use-a-date-token-in-a-wait-flow-step}
 
-待機フローステップを使用すると、スマートキャンペーンを通じて、日付トークンを使用する特定の日付まで個人のジャーニーを一時停止できます。また、終了日を日数で変更することもできます。
+待機フローステップを使用すると、スマートキャンペーンを通じて、日付トークンを使用する特定の日付まで個人のジャーニーを一時停止できます。 また、終了日を日数で変更することもできます。
 
 >[!NOTE]
 >
->これは、トリガーキャンペーンにのみ当てはまります。この機能はバッチキャンペーンでは使用できません。
+>これは、トリガーキャンペーンにのみ当てはまります。 この機能はバッチキャンペーンでは使用できません。
 
 1. スマートキャンペーンの「**[!UICONTROL フロー]**」タブで、**[!UICONTROL 待機]**&#x200B;フローステップをドラッグします。
 

@@ -1,18 +1,23 @@
 ---
-description: Sales Insightのアクション アクティビティのタイプと用語について説明します。 用語集を使用して、MarketoとSalesforceに同期するアクティビティを理解します。
+description: Sales Insight Actions アクティビティのタイプと用語について説明します。 用語集を使用して、MarketoとSalesforceに同期するアクティビティを理解します。
 title: セールスインサイトアクションアクティビティ用語集
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/9Nc4yNxQWVptT5g1kszd7Q59AhT-eurDt4-gVRWT3qs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: 609
 ht-degree: 96%
 
 ---
 
 # [!DNL Sales Insight Actions] アクティビティ用語集 {#sales-insight-actions-activity-glossary}
 
-[!DNL Sales Insight Actions] で、販売者がセールスキャンペーンにリードを追加したり、セールスメールを送信したり、セールス通話発信を行ったりすると、そのリードのアクティビティ履歴が Marketo に記録されます。さらに、リードがメールに関与した場合、開封数、クリック数、返信数もログに記録されます。
+[!DNL Sales Insight Actions] で、販売者がセールスキャンペーンにリードを追加したり、セールスメールを送信したり、セールス通話発信を行ったりすると、そのリードのアクティビティ履歴が Marketo に記録されます。 さらに、リードがメールに関与した場合、開封数、クリック数、返信数もログに記録されます。
 
 以下のアクティビティは、[!DNL Sales Insight Actions] から Marketo に記録されます。
 
@@ -300,11 +305,11 @@ ht-degree: 96%
   </tr>
   <tr>
    <td><strong>ソース</strong></td>
-   <td>アクティビティのソース。2021年10月のリリースより前では [!DNL Sales Insight Actions] アクティビティは「Tout」に設定されます。2021年10月のリリースより後では [!DNL Sales Insight Actions] アクティビティは「Sales App」に設定されます。</td>
+   <td>アクティビティのソース。 2021年10月のリリースより前では [!DNL Sales Insight Actions] アクティビティは「Tout」に設定されます。 2021年10月のリリースより後では [!DNL Sales Insight Actions] アクティビティは「Sales App」に設定されます。</td>
   </tr>
   <tr>
    <td><strong>[!UICONTROL テンプレート ID]</strong></td>
-   <td>ソースが Tout の場合、テンプレート ID は [!DNL Marketo Sales Insight Actions] テンプレート ID になります。複数のテンプレートに存在する可能性のある件名の代わりに、特定のテンプレートをターゲットにする場合に使用します。
+   <td>ソースが Tout の場合、テンプレート ID は [!DNL Marketo Sales Insight Actions] テンプレート ID になります。 複数のテンプレートに存在する可能性のある件名の代わりに、特定のテンプレートをターゲットにする場合に使用します。
 </td>
   </tr>
  </tbody>

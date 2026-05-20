@@ -1,35 +1,41 @@
 ---
 unique-page-id: 10912237
-description: メールエディター 2.0 のメールテンプレートピッカーについて説明します。新しいメールを作成する際に、テンプレートから選択します。
+description: メールエディター2.0のメールテンプレートピッカーについて説明します。 新しいメールを作成する際に、テンプレートから選択します。
 title: メールテンプレート選択ツールの概要
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/-chlOS7UcjWaNgBhJyHEpfXL4SFnDnZH73tnpn-GZHs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: 290
 ht-degree: 94%
 
 ---
 
 # メールテンプレート選択ツールの概要 {#email-template-picker-overview}
 
-[メールの作成時](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)に選択できる無料テンプレートはいくつかあります。独自のテンプレートを作成し、後で使用するために保存することもできます。
+[メールの作成時](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)に選択できる無料テンプレートはいくつかあります。 独自のテンプレートを作成し、後で使用するために保存することもできます。
 
 ![](assets/email-template-picker-overview-1.png)
 
-**[!UICONTROL 名前]**&#x200B;は、テンプレート自体ではなく、テンプレートに基づいて作成するメールの名前です。**[!UICONTROL 説明]**&#x200B;はメールにも適用され、オプションです。
+**[!UICONTROL 名前]**&#x200B;は、テンプレート自体ではなく、テンプレートに基づいて作成するメールの名前です。 **[!UICONTROL 説明]**&#x200B;はメールにも適用され、オプションです。
 
 ![](assets/two-2.png)
 
-メールが重要で、通信制限を回避したい場合、「[オペレーショナルにする](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)」をオンにします。「**[!UICONTROL エディターで開く]**」はデフォルトで選択されており、単に新しいメールの編集をすぐに開始したいという意味です。「**[!UICONTROL 作成]**」は文字通りです。
+メールが重要で、通信制限を回避したい場合、「[オペレーショナルにする](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)」をオンにします。 「**[!UICONTROL エディターで開く]**」はデフォルトで選択されており、単に新しいメールの編集をすぐに開始したいという意味です。 「**[!UICONTROL 作成]**」は文字通りです。
 
 ![](assets/three-2.png)
 
-「**[!UICONTROL スターターテンプレート]**」には、すぐに使えるレスポンシブメールテンプレートのコレクションが含まれています。そのまま使用することも、好みに合わせてカスタマイズすることもできます。
+「**[!UICONTROL スターターテンプレート]**」には、すぐに使えるレスポンシブメールテンプレートのコレクションが含まれています。 そのまま使用することも、好みに合わせてカスタマイズすることもできます。
 
 ![](assets/email-template-picker-overview-4.png)
 
-**[!UICONTROL マイテンプレート]**&#x200B;は、作成したすべてのテンプレートで構成されます。また、フォルダーを持つこともできます。
+**[!UICONTROL マイテンプレート]**&#x200B;は、作成したすべてのテンプレートで構成されます。 また、フォルダーを持つこともできます。
 
 ![](assets/five-2.png)
 
@@ -37,7 +43,7 @@ ht-degree: 94%
 
 ![](assets/six-1.png)
 
-テンプレートをプレビューするには、そのサムネールにマウスポインタを合わせて、「**[!UICONTROL プレビュー]**」をクリックします。ダブルクリックすることもできます。
+テンプレートをプレビューするには、そのサムネールにマウスポインタを合わせて、「**[!UICONTROL プレビュー]**」をクリックします。 ダブルクリックすることもできます。
 
 ![](assets/seven-1.png)
 
@@ -49,7 +55,7 @@ ht-degree: 94%
 
 ![](assets/nine-1.png)
 
-このテンプレートが気に入ったら、右下の「**[!UICONTROL 選択]**」をクリックしてテンプレートを選択してください。他のテンプレートを探したい場合は、右上の「**X**」をクリックします。いろいろなテンプレートをスクロールするには、左右の矢印を使用します。
+このテンプレートが気に入ったら、右下の「**[!UICONTROL 選択]**」をクリックしてテンプレートを選択してください。 他のテンプレートを探したい場合は、 右上の「**X**」をクリックします。 いろいろなテンプレートをスクロールするには、左右の矢印を使用します。
 
 ![](assets/ten-1.png)
 
@@ -59,7 +65,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->テンプレートのサムネールの素晴らしい点は、それらはライブであるということです。テンプレートに変更を加えると、サムネールも一緒に変更されます。
+>テンプレートのサムネールの素晴らしい点は、それらはライブであるということです。 テンプレートに変更を加えると、サムネールも一緒に変更されます。
 
 すてきですね。
 

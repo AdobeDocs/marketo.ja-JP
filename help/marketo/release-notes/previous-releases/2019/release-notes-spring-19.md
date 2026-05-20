@@ -3,16 +3,33 @@ unique-page-id: 17728380
 description: リリースノート - 2019年春 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 2019年春
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/o63AwYraOGknprRVOS0i6gMRhp9JfFnVSmbK4wHOjgE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: 466
 ht-degree: 100%
 
 ---
 
 # リリースノート：2019年春 {#release-notes-spring}
 
-2019年春リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。
+2019年春リリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo のエディションをご確認ください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください（ある場合）。
 
@@ -22,7 +39,7 @@ ht-degree: 100%
 
 ## 主要プラットフォームの機能拡張 {#core-platform-enhancements}
 
-* **待機リスト**：空きが出るまで[メンバーを保留にする](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)ためにメンバーを待機リストに登録する新しいプログラム／イベントステータスこれは、Marketo Classic のイベントプログラムに関連するチャネルと、[!DNL Marketo Sky] のイベントとウェビナー付きイベントの両方のプログラムに当てはまります。デフォルトでは、待機リストは登録済みと同じステップ値を持ちます。
+* **待機リスト**：空きが出るまで[メンバーを保留にする](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)ためにメンバーを待機リストに登録する新しいプログラム／イベントステータス これは、Marketo Classic のイベントプログラムに関連するチャネルと、[!DNL Marketo Sky] のイベントとウェビナー付きイベントの両方のプログラムに当てはまります。 デフォルトでは、待機リストは登録済みと同じステップ値を持ちます。
 * **[カスタム通信制限](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**：管理者は、1 日または 1 週間のカスタム通信制限を設定できるようになりました。
 * **[スマートキャンペーンアセット API](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**：更新された日付と ID によってスマートキャンペーンレコードを取得して、Marketo 外で分析をエンリッチメントします。
 * **メール用 HTTPS トラッキングリンク**：「トラッキングリンクのセキュリティで保護されたドメイン」を購入した顧客の場合、ブランディングされたトラッキングリンクをメール内に HTTPS として表示できるようになりました。
@@ -30,7 +47,7 @@ ht-degree: 100%
 
 アカウントベースドマーケティング
 
-**[アカウント AI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** が一般に利用可能になりました。アカウント AI は、人工知能を使用して ABM 戦略のターゲットとすべきアカウントを明確にします。
+**[アカウント AI](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)** が一般に利用可能になりました。 アカウント AI は、人工知能を使用して ABM 戦略のターゲットとすべきアカウントを明確にします。
 
 <br> 
 
@@ -48,7 +65,7 @@ ht-degree: 100%
 ## Marketo Sales Engage {#marketo-sales-engage}
 
 * **監査の強化**：他のユーザによって作成された[既存のキャンペーンを終了](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)する機能が追加された、インスタンス内のすべてのユーザ、メール、および[コンテンツ](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)に対する新しい可視性。
-* **[登録解除管理](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**：[メールドメインへの接続をブロック](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md)する機能を使用して、メール到達率とコンプライアンスを最大化します。また、Marketo は、メールを送信する前に、登録解除用のリードデータベースを相互参照します。
+* **[登録解除管理](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**：[メールドメインへの接続をブロック](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md)する機能を使用して、メール到達率とコンプライアンスを最大化します。 また、Marketo は、メールを送信する前に、登録解除用のリードデータベースを相互参照します。
 
 ## Marketo による [!DNL Bizible] {#bizible-by-marketo}
 

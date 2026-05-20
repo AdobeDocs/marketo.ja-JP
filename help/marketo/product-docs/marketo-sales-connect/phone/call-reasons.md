@@ -1,11 +1,14 @@
 ---
-description: Sales Connect の問い合わせ理由を理解します。 を呼び出した理由を設定してログに記録し、Salesforceに正しく結果を同期します。
+description: セールスコネクトでの通話理由を理解します。 結果をSalesforceに正しく同期するように呼び出した理由を設定して記録します。
 title: 通話理由
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/XNu9fMEF6EPqkCW-EIpuirNtR1w3mPAg5GNZYj6mKnQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: 176
 ht-degree: 89%
 
 ---
@@ -60,7 +63,7 @@ ht-degree: 89%
 
 ## 通話理由の選択 {#select-a-call-reason}
 
-通話理由が有効になったら、ユーザは、通話する際に 1 つ選択できます。
+通話理由が有効になったら、 ユーザは、通話する際に 1 つ選択できます。
 
 1. 通話ボタンをクリックして、ダイヤラーを起動します。
 

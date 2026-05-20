@@ -1,23 +1,28 @@
 ---
 unique-page-id: 14352615
-description: Sales Connect の「コンテンツ」タブとテンプレートエンゲージメント指標について理解します。 秘密兵器、最高および最低のエンゲージメントテンプレート、トップの添付ファイルを表示します。
+description: Sales Connectの「コンテンツ」タブとテンプレートエンゲージメント指標について説明します。 秘密兵器、最高と最低のエンゲージメントテンプレート、および最高の添付ファイルを表示します。
 title: 「コンテンツ」タブについて
 exl-id: dd3af0c5-72d7-4ced-a8c7-1900dd30ef3e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/A5yokcC9qmjpy4SnbB4zrcCNRZJNl8LAdDQrQH2fA0c
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: 199
 ht-degree: 88%
 
 ---
 
 # 「[!UICONTROL コンテンツ]」タブについて {#understanding-the-content-tab}
 
-「[!UICONTROL コンテンツ]」タブは、テンプレートを使用する際のチームのメールエンゲージメントに関するものです。重要だと思われる 3 つの指標を自動的にバブル表示します。
+「[!UICONTROL コンテンツ]」タブは、テンプレートを使用する際のチームのメールエンゲージメントに関するものです。 重要だと思われる 3 つの指標を自動的にバブル表示します。
 
 ## 秘密兵器 {#secret-weapon}
 
-これは、まだチームと共有されていないが、高いレベルのエンゲージメントを受け取っているメールテンプレートです。テンプレートの件名と作成者が表示されます。この機会を利用して作成者に連絡し、テンプレートを共有するように勧めましょう。
+これは、まだチームと共有されていないが、高いレベルのエンゲージメントを受け取っているメールテンプレートです。 テンプレートの件名と作成者が表示されます。 この機会を利用して作成者に連絡し、テンプレートを共有するように勧めましょう。
 
 ## 最高エンゲージメント {#highest-engagement}
 

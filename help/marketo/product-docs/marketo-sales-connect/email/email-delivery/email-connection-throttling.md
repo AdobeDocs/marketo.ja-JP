@@ -1,18 +1,21 @@
 ---
-description: Sales Connect でのメール接続スロットルについて説明します。 送信制限と、スロットリングによってメールの配信品質がどのように保護されるかを理解します。
+description: セールスコネクトにおけるメール接続のスロットリングについて説明します。 送信制限と、スロットリングがメール配信の品質をどのように保護するかを理解します。
 title: メール接続のスロットリング
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: 408
 ht-degree: 95%
 
 ---
 
 # メール接続のスロットリング {#email-connection-throttling}
 
-[!DNL Sales Connect] アカウントを統合して、[!DNL Exchange] または Gmail のメールプロバイダーを通じて送信すると、1:1 のセールス通信の合理化された設定とメール配信品質を最適化できます。ただし、システムの健全性とアカウントの安全性を維持するために、Gmail と Exchange ではメール送信の制限が実施されます。これらの制限は、プロバイダーの裁量によって増減することができます。
+[!DNL Sales Connect] アカウントを統合して、[!DNL Exchange] または Gmail のメールプロバイダーを通じて送信すると、1:1 のセールス通信の合理化された設定とメール配信品質を最適化できます。 ただし、システムの健全性とアカウントの安全性を維持するために、Gmail と Exchange ではメール送信の制限が実施されます。 これらの制限は、プロバイダーの裁量によって増減することができます。
 
 ## 概要 {#overview}
 
@@ -41,7 +44,7 @@ ht-degree: 95%
 
    ![](assets/email-connection-throttling-3.png)
 
-1. 各バッチが送信されるまでの待機時間を設定します。この例では、45 秒ごとに 25 通のメールを選択します。
+1. 各バッチが送信されるまでの待機時間を設定します。 この例では、45 秒ごとに 25 通のメールを選択します。
 
    ![](assets/email-connection-throttling-4.png)
 
@@ -73,7 +76,7 @@ ht-degree: 95%
 
 **[!DNL Microsoft Exchange Server (2010, 2013)]**
 
-サーバーが組織でホストされるので、制限は組織の IT 部門によって設定されます。必要に応じて、ネットワーク管理者またはシステム管理者に問い合わせてください。
+サーバーが組織でホストされるので、制限は組織の IT 部門によって設定されます。 必要に応じて、ネットワーク管理者またはシステム管理者に問い合わせてください。
 
 >[!MORELIKETHIS]
 >

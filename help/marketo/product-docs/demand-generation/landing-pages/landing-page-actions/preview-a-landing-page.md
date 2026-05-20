@@ -1,19 +1,22 @@
 ---
 unique-page-id: 2359716
-description: Marketoでランディングページをプレビューする方法を説明します。 ページをライブにする前に、ページの外観と動作を確認します。
+description: Marketoでランディングページをプレビューする方法について説明します。 本番稼働前に、ページの外観と動作を確認しましょう。
 title: ランディングページをプレビューする
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 86%
+source-wordcount: 149
+ht-degree: 72%
 
 ---
 
 # ランディングページをプレビューする {#preview-a-landing-page}
 
-ランディングページを公開する前に、ランディングページがどのように表示されるかを確認したい場合があります。
+本番稼働前に、ランディングページをプレビューして確認しましょう。
 
 ## ランディングページをプレビューする {#preview-a-landing-page-1}
 
@@ -49,4 +52,4 @@ ht-degree: 86%
 
    ![](assets/image2014-9-17-10-3a10-3a20.png)
 
-お疲れさまでした。ランディングページのプレビュー方法はこれで大丈夫ですね。
+ランディングページをプレビューする方法を理解できました。

@@ -1,13 +1,16 @@
 ---
 unique-page-id: 2953465
-description: Salesforceでリードを連絡先に変換したときの動作について説明します。 Marketoによる変化の反映およびリードがコンバートされたトリガーとフィルターの使用を確認します。
+description: Salesforceでリードを連絡先に変換した場合の処理について説明します。 Marketoでの変更内容の反映と、リードのコンバージョン済みトリガーとフィルターの使用について説明します。
 title: SFDC 同期 - Salesforce でリードを取引先責任者に変換
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/Z5ApDpLvZhGu3-DeZHwQanilG1WILGFQF7VnDxQikr4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 82%
+source-wordcount: 169
+ht-degree: 83%
 
 ---
 
@@ -26,6 +29,6 @@ Marketo では、レコードの SFDC タイプが取引先責任者になりま
 
 >[!TIP]
 >
->[!DNL Salesforce] で変換する場合は、[リードのカスタムフィールドが適切にマッピングされていること](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm)を確認します。データは失いたくありません。
+>[!DNL Salesforce] で変換する場合は、[リードのカスタムフィールドが適切にマッピングされていること](https://help.salesforce.com/apex/HTViewHelpDoc?id=customize_mapleads.htm)を確認します。 データは失いたくありません。
 
 「[!UICONTROL 変換済みのリード]」および「[!UICONTROL リード変換済み]」を使用して、トリガーおよびフィルタリングできます。

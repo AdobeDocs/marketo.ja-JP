@@ -1,13 +1,18 @@
 ---
 unique-page-id: 9437789
-description: テンプレート 13B ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
+description: テンプレート 13B ガイド付きランディングページテンプレートについて説明します。 ダウンロードして、Marketoランディングページでご利用ください。
 title: テンプレート 13B
 exl-id: 507ecbb8-8844-499a-868e-b0a2de8402f4
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/dx-0M4HEASiEI4Tfu-X5vt1UzV7ZoKqxsF9PgFPkglg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 68%
+source-wordcount: 74
+ht-degree: 72%
 
 ---
 
@@ -28,4 +33,4 @@ ht-degree: 68%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 13B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=ja)
+[テンプレート 13B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=ja)

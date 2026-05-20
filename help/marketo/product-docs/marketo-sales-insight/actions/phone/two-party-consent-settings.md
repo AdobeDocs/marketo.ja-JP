@@ -3,9 +3,12 @@ description: 通話の録音に対する2者間の同意設定を設定する方
 title: 二者間による同意の設定
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/2KKg-cF-O7M5XAexsGVewdSbddMuCjFD3EwwSoZgfQ4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: 167
 ht-degree: 65%
 
 ---
@@ -42,7 +45,7 @@ ht-degree: 65%
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. アップロードが完了したら、ファイルマネージャーで、縦並びの 3 つのドットを選択し、「**[!UICONTROL 同意通知として選択]**」をクリックします。 終了したら「**[!UICONTROL OK]**」をクリックします。
+1. アップロードが完了したら、ファイルマネージャーで、縦並びの 3 つのドットを選択し、「**[!UICONTROL 同意通知として選択]**」をクリックします。 終了したら、「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/two-party-consent-settings-6.png)
 

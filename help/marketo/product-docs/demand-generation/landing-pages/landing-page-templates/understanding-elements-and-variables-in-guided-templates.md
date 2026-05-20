@@ -1,12 +1,17 @@
 ---
 unique-page-id: 7515069
-description: Marketo ガイド付きランディングページテンプレートの要素と変数について説明します。 編集可能な内容とコンテンツの配置方法を定義する。
+description: Marketoのガイド付きランディングページテンプレートの要素と変数について説明します。 何が編集可能で、どのようにコンテンツが配置されるかを定義します。
 title: ガイド付きテンプレートの要素と変数について
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/WnAKFAB8moOFv7cS97E8cplgledGbhioPReda27p4uo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: 199
 ht-degree: 89%
 
 ---
@@ -17,11 +22,11 @@ ht-degree: 89%
 
 ## 要素 {#elements}
 
-要素とは、ランディングページを構成する様々なコンテンツの要素です。これには、画像、テキスト、Marketo アセットがあります。
+要素とは、ランディングページを構成する様々なコンテンツの要素です。 これには、画像、テキスト、Marketo アセットがあります。
 
 ![](assets/image2015-5-20-14-3a57-3a55.png)
 
-ガイド付きランディングページを編集する際、テンプレートで編集可能とマークされている要素は、そのように表示されます。要素には次のアイコンが表示されます。
+ガイド付きランディングページを編集する際、テンプレートで編集可能とマークされている要素は、そのように表示されます。 要素には次のアイコンが表示されます。
 
 * ![--](assets/image2015-5-20-12-3a30-3a48.png) 画像
 * ![--](assets/image2015-5-20-12-3a31-3a33.png)Marketo フォーム

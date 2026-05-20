@@ -1,12 +1,20 @@
 ---
 unique-page-id: 2359963
-description: プログラム内でレポートを作成して、ユーザー、プログラム、ランディングページ、メール、ソーシャルアセットを分析する方法を説明します。 マーケティングアクティビティまたは「分析」タブから直接レポートを実行します。
+description: プログラム内でレポートを作成して、人物、プログラム、ランディングページ、メール、ソーシャルアセットを分析する方法を説明します。 「マーケティング活動」または「分析」タブから直接レポートを実行します。
 title: プログラムでのレポートの作成
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/tTw3chi2S-KxPbdn3yc-bXAyZQqoc-R1-LDa7uSAhg0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: 207
 ht-degree: 85%
 
 ---
@@ -51,7 +59,7 @@ ht-degree: 85%
    >
    >後でレポートを簡単に移動するには、名前にレポートタイプへの参照を含めます。
 
-1. レポートの期間を設定します。詳しくは、「[レポート期間の変更](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)」を参照してください。
+1. レポートの期間を設定します。 詳しくは、「[レポート期間の変更](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)」を参照してください。
 
 1. 「**[!UICONTROL レポート]**」タブをクリックし、統計を確認します。
 
@@ -63,7 +71,7 @@ ht-degree: 85%
 
    >[!NOTE]
    >
-   >多くのレポートを素早く作成できます。不要になったレポートは必ず[削除](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)してください。
+   >多くのレポートを素早く作成できます。 不要になったレポートは必ず[削除](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md)してください。
 
    >[!MORELIKETHIS]
    >

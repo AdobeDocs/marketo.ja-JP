@@ -1,12 +1,20 @@
 ---
 unique-page-id: 2360188
-description: スマートキャンペーン別にメール統計をグループ化する、Campaign メールのパフォーマンスレポートについて説明します。 開封数、クリック数、バウンス数、購読解除数をトラッキングして、キャンペーンの有効性を測定します。
+description: スマートキャンペーンごとにメール統計をグループ化するCampaign メールパフォーマンスレポートについて説明します。 開封数、クリック数、バウンス数、配信停止数を追跡し、キャンペーンの効果を測定できます。
 title: キャンペーンメールの効果レポート
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/pMoHSEmaDbjOVpoVaUi1lvUHBYkyzOwkuF1n7mxpmY0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: 234
 ht-degree: 90%
 
 ---
@@ -39,7 +47,7 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >全般的に、これらの統計を記録するには常識を使おうとしています。例えば、メールのリンクがクリックされた場合、明らかに最初にメールが開かれたことになります。従うルールについては、「[メール効果レポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)」を参照してください。
+   >全般的に、これらの統計を記録するには常識を使おうとしています。 例えば、メールのリンクがクリックされた場合、明らかに最初にメールが開かれたことになります。 従うルールについては、「[メール効果レポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)」を参照してください。
 
    >[!MORELIKETHIS]
    >

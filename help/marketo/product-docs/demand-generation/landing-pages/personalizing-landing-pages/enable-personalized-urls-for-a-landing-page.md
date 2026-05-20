@@ -1,19 +1,22 @@
 ---
 unique-page-id: 2359803
-description: Marketo ランディングページ用にパーソナライズされた URL を有効にする方法について説明します。 各受信者に一意の追跡可能な URL を設定します。
+description: Marketo ランディングページのパーソナライズされたURLを有効にする方法について説明します。 各受信者に一意の追跡可能なURLを設定します。
 title: ランディングページでパーソナライズ URL を有効にする
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/62RoGtAhtBHDi9sxFFXeL4oAKjC25cuRHC6y3m5mO-I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 79%
+source-wordcount: 90
+ht-degree: 60%
 
 ---
 
 # ランディングページでパーソナライズ URL を有効にする {#enable-personalized-urls-for-a-landing-page}
 
-パーソナライズ URL は、招待状を郵送するなど紙媒体のキャンペーンをおこなうのに適しています。
+パーソナライズされたURLは、印刷メールキャンペーンに適しています。
 
 >[!PREREQUISITES]
 >
@@ -27,4 +30,4 @@ ht-degree: 79%
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 
-完成です。これで、ランディングページに対してパーソナライズされた URL を有効にしました。この URL を使用する訪問者が認識され、トークンが正しく機能します。
+ランディングページでパーソナライズされたURLを有効にしました。 この URL を使用する訪問者が認識され、トークンが正しく機能します。

@@ -1,12 +1,17 @@
 ---
 unique-page-id: 13796475
-description: Sales Connect の人物の詳細表示について説明します。 「人物」タブから、連絡先プロファイル、履歴およびエンゲージメントにアクセスします。
+description: セールスコネクトの人物の詳細ビューについて説明します。 「人物」タブから連絡先のプロファイル、履歴、エンゲージメントにアクセスします。
 title: 人物の詳細表示
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/6RcguZewLXP8hurJWjmW0-mEqxgA5Zd5DwfPXWF1UeU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: 293
 ht-degree: 93%
 
 ---
@@ -72,7 +77,7 @@ ht-degree: 93%
 
 ## 「履歴」タブ {#history-tab}
 
-アウトリーチ履歴を表示します。メール、キャンペーン、通話が含まれます。
+アウトリーチ履歴を表示します。 メール、キャンペーン、通話が含まれます。
 
 ![](assets/person-detail-view-5.png)
 

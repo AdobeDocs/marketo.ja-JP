@@ -1,12 +1,19 @@
 ---
 unique-page-id: 11380789
-description: Revenue Cycle Analytics で指定口座ディメンションを使用して、売上高ベースのレポートを作成する方法を説明します。 ターゲットアカウントからのパイプラインと収益の影響を測定します。
+description: 収益サイクル分析の名前付きアカウントディメンションを使用して、収益ベースのレポートを作成する方法を説明します。 ターゲットアカウントからのパイプラインと売上への影響を測定。
 title: 収益サイクル分析の重点顧客ディメンション
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/CF92nqsL8XPvNNWJ3149X-AUrvIof5syxxB3HXgsk70
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: 167
 ht-degree: 85%
 
 ---
@@ -23,7 +30,7 @@ ht-degree: 85%
 
 >[!NOTE]
 >
->収益サイクル分析の重点顧客ディメンションは、ターゲットアカウント（獲得した収益、創出されたパイプライン、販売サイクルの加速など）からの最終的な影響を測定するために使用できます。このディメンションは、重点顧客に対してどのプログラムが成功し、どのプログラムがうまく機能しなかったかを識別するためにも使用できます。
+>収益サイクル分析の重点顧客ディメンションは、ターゲットアカウント（獲得した収益、創出されたパイプライン、販売サイクルの加速など）からの最終的な影響を測定するために使用できます。 このディメンションは、重点顧客に対してどのプログラムが成功し、どのプログラムがうまく機能しなかったかを識別するためにも使用できます。
 
 次のレポートは、重点顧客ディメンションにアクセスできます。
 

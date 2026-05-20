@@ -1,13 +1,18 @@
 ---
 unique-page-id: 8783993
-description: テンプレート 9E ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
+description: テンプレート 9E ガイド付きランディングページテンプレートについて説明します。 ダウンロードして、Marketoランディングページでご利用ください。
 title: テンプレート 9E
 exl-id: 72daaf52-a829-404d-a5ef-6a81abafa8c3
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/IEP72Ils894a5HwCLvgEBXe3TzTYKzAlkgKj6RwyOP4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 71%
+source-wordcount: 79
+ht-degree: 74%
 
 ---
 
@@ -28,4 +33,4 @@ ht-degree: 71%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 9E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html?lang=ja)
+[テンプレート 9E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9e.html?lang=ja)

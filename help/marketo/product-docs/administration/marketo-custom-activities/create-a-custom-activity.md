@@ -1,12 +1,19 @@
 ---
 unique-page-id: 10098479
-description: 名前、API 名、フィルターおよびトリガー定義、プライマリフィールドなどの新しいカスタムアクティビティを作成するための手順。
+description: 名前、API名、フィルターとトリガーの定義、プライマリフィールドを含む新しいカスタムアクティビティを作成する手順。
 title: カスタムアクティビティの作成
 exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+TQID: https://experienceleague.adobe.com/SMvwkJEZWaMbQHUSKrpeJvrnw-JGl6eY8mmj9ZzMqGk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: 123
 ht-degree: 85%
 
 ---
@@ -31,7 +38,7 @@ ht-degree: 85%
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. 名前と（オプションで）[!UICONTROL 説明]を入力し、「**[!UICONTROL 次へ]**」をクリックします。API 名は自動入力されますが、カスタマイズできます。
+1. 名前と（オプションで）[!UICONTROL 説明]を入力し、「**[!UICONTROL 次へ]**」をクリックします。 API 名は自動入力されますが、カスタマイズできます。
 
    ![](assets/create-a-custom-activity-4.png)
 

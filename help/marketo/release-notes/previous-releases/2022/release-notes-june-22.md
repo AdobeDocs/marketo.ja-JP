@@ -3,20 +3,32 @@ description: リリースノート - 2022年6月 - Marketo ドキュメント - 
 title: リリースノート - 2022年6月
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/7AVr5aiUkEGNwpZMiQpl2JrhsX9yKP85aTcJhHwuXDY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '600'
-ht-degree: 100%
+source-wordcount: 620
+ht-degree: 98%
 
 ---
 
 # リリースノート：2022年6月 {#release-notes-june-22}
 
-以下に、2022年6月リリースに含まれるすべての機能を示します。利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+以下に、2022年6月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
->星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。詳しくは、Marketo Engage 担当営業にお問い合わせください。
+>星印（![星印](assets/yellow-star.png)）で示す機能は有償オプションです。 詳しくは、Marketo Engage 担当営業にお問い合わせください。
 
 以下の機能のリリースは、**2022年6月24日**（PT）に始まり、（特に指定のない限り）その次の週から残りの機能が段階的にロールアウトされます。
 
@@ -26,9 +38,9 @@ ht-degree: 100%
 
 ## クロスチャネルオーケストレーション {#cross-channel-orchestration}
 
-* **[!DNL Dynamic Chat]** のストリームデザイナーの使いやすさの向上：ドラッグ＆ドロップを必要とせずに、ストリームデザイナーのキャンバスから直接カードを追加できます。また、[!DNL Dynamic Chat] インターフェイスを改良し、個々のカードでのコンテンツの可視性が向上しました。
+* **[!DNL Dynamic Chat]** のストリームデザイナーの使いやすさの向上：ドラッグ＆ドロップを必要とせずに、ストリームデザイナーのキャンバスから直接カードを追加できます。 また、[!DNL Dynamic Chat] インターフェイスを改良し、個々のカードでのコンテンツの可視性が向上しました。
 
-* **[!DNL Dynamic Chat]** の高度な予定ルーティングルール：[!DNL Dynamic Chat] は、ターゲットの予定ルーティングに対してさらに多くのオプションを提供します。Marketo Engage の属性に基づいてルーティングするエージェントの予定を指定し、リードを適切なエージェントにルーティングします。
+* **[!DNL Dynamic Chat]** の高度な予定ルーティングルール：[!DNL Dynamic Chat] は、ターゲットの予定ルーティングに対してさらに多くのオプションを提供します。 Marketo Engage の属性に基づいてルーティングするエージェントの予定を指定し、リードを適切なエージェントにルーティングします。
 
 * **[!DNL Dynamic Chat]** の高度なダイアログレポート：エンゲージメント指標とコンバージョン指標に関する新しいデータビジュアライゼーションを使用して、[!DNL Dynamic Chat] のキャンペーン効果をより詳しく表示します。
 
@@ -39,13 +51,13 @@ ht-degree: 100%
 **新しい切替スイッチ表示**：次世代のエクスペリエンスで、以下の表示を利用できるようになりました。
 
 * [メールの詳細表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [メールのリスト表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [メールリスト表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
 ## エクスペリエンスの自動化 {#experience-automation}
 
 * **グローバルフォームフィールド検証ルールの除外**：グローバルフォーム検証ルールから特定のフォームを除外して、サブスクリプションセンターや他のビジネスクリティカルなワークフローがすべての値を受け入れるようにします。
 
-* **セルフサービスのフローステップ**：スマートキャンペーンで使用するカスタマイズされたフローステップを作成する機能により、Marketo Engage とスタックの他の部分との接続性を拡張できます。Marketo Engage のユーザとパートナーの両方がこの機能を活用して、トリガーキャンペーンでのみ使用できる web フックとは異なり、トリガー、バッチ、実行可能なキャンペーンで外部の web サービスを使用できます。
+* **セルフサービスのフローステップ**：スマートキャンペーンで使用するカスタマイズされたフローステップを作成する機能により、Marketo Engage とスタックの他の部分との接続性を拡張できます。 Marketo Engage のユーザとパートナーの両方がこの機能を活用して、トリガーキャンペーンでのみ使用できる web フックとは異なり、トリガー、バッチ、実行可能なキャンペーンで外部の web サービスを使用できます。
 
 * **Munchkin プロトコル非依存リンクトラッキング**：Munchkin による `tel` と `mailto` のリンクトラッキングのサポートを拡張して、展開された一連の web 動作をトラックします。
 
@@ -55,7 +67,7 @@ ht-degree: 100%
 
 ![（星印）](assets/yellow-star.png)
 
-* **[!DNL Sales Insight] [!DNL Salesforce]** での権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部である Marketo アプリ権限セットを使用して、プロファイルレベルではなく、ユーザレベルで限られた一連のユーザに対して [!DNL Sales Insight] のアクセス権を提供できます。
+* **[!DNL Sales Insight]&#x200B;[!DNL Salesforce]** での権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部である Marketo アプリ権限セットを使用して、プロファイルレベルではなく、ユーザレベルで限られた一連のユーザに対して [!DNL Sales Insight] のアクセス権を提供できます。
 
 * **My Marketo タイルのアップデート - [!DNL Sales Insight]アクション**：Marketo 管理者（および指定したユーザ）は、マイ Marketo ページにある新しい [!DNL Sales Insight] アクションタイルから、[!DNL Sales Insight] アクションインスタンスにすばやく移動できるようになりました。
 
@@ -63,7 +75,7 @@ ht-degree: 100%
 
 ![（星印）](assets/yellow-star.png)
 
-* **[!DNL Salesforce]API のアップデート**：[!DNL Salesforce] 2022 年夏のリリースで、[!DNL Salesforce] は API のレガシーバージョン 21～30 のサポートを終了します。この Marketo Engage リリースにより、API のレガシーバージョンを使用する [!DNL Sales Connect] リクエストがすべてアップデートされ、サポート対象バージョン内に含まれるようになります。[!DNL Salesforce] API 廃止プランについて詳しくは、[こちら](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}をクリックしてください。
+* **[!DNL Salesforce]API のアップデート**：[!DNL Salesforce] 2022 年夏のリリースで、[!DNL Salesforce] は API のレガシーバージョン 21～30 のサポートを終了します。 この Marketo Engage リリースにより、API のレガシーバージョンを使用する [!DNL Sales Connect] リクエストがすべてアップデートされ、サポート対象バージョン内に含まれるようになります。 [!DNL Salesforce] API 廃止プランについて詳しくは、[こちら](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}をクリックしてください。
 
 ## API の強化 {#api-enhancements}
 
@@ -73,8 +85,8 @@ ht-degree: 100%
 
 ## お知らせ {#announcements}
 
-* **Forms の廃止 - Forms 1.0、リードキャプチャ／保存エンドポイント、非スクリプトバージョンのフォーム**：Forms 1.0 アセットのサポートは、2022年10月までに Marketo Engage から完全に削除されます。既存の Forms 1.0 アセットはすべて機能を停止します。Marketo Engage フォームは、ランディングページや web サイトの読み込みに JavaScript が必要です。
+* **Forms の廃止 - Forms 1.0、リードキャプチャ／保存エンドポイント、非スクリプトバージョンのフォーム**：Forms 1.0 アセットのサポートは、2022年10月までに Marketo Engage から完全に削除されます。 既存の Forms 1.0 アセットはすべて機能を停止します。 Marketo Engage フォームは、ランディングページや web サイトの読み込みに JavaScript が必要です。
 
 **_製品リリースウェビナー_**
 
-[2022年6月および8月の Marketo Engage リリースウェビナー](https://engage.marketo.com/jp/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}
+[2022年6月と8月のMarketo Engage リリースウェビナー](https://engage.marketo.com/jp/2022_June_August_Release_Webinar_OnDemandPage.html){target="_blank"}

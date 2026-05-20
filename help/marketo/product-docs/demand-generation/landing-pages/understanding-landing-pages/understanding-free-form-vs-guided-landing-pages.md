@@ -1,19 +1,25 @@
 ---
 unique-page-id: 7515207
-description: Marketoの自由形式ランディングページとガイド付きランディングページの比較について説明します。 デザインとワークフローのニーズに合ったタイプを選択します。
+description: Marketoのフリーフォームとガイド付きランディングページの比較について説明します。 デザインやワークフローのニーズに適したタイプを選択しましょう。
 title: フリーフォームとガイド付きのランディングページについて
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/wfLJUpCFZ-40o1zHWdUBLiOOcUtGBbya2d8MQQ1JFlw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: 187
 ht-degree: 89%
 
 ---
 
 # フリーフォームとガイド付きのランディングページについて {#understanding-free-form-vs-guided-landing-pages}
 
-選択するテンプレートによって、作業するランディングページ編集モードが決まります。[フリーフォーム](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)と[ガイド付き](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)の 2 つのパスが考えられます。以下に、重要な違いの概要を示します。
+選択するテンプレートによって、作業するランディングページ編集モードが決まります。 [フリーフォーム](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)と[ガイド付き](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)の 2 つのパスが考えられます。 以下に、重要な違いの概要を示します。
 
 ## フリーフォームページ {#free-form-pages}
 

@@ -1,11 +1,17 @@
 ---
-description: Sales InsightのアクションとSalesforce間で購読解除を同期する方法を説明します。 システム間でオプトアウトステータスの一貫性を維持します。
+description: Sales Insight ActionsとSalesforce間で登録解除を同期する方法について説明します。 システムをまたいでオプトアウトステータスの一貫性を維持します。
 title: Salesforce との登録解除の同期
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: 488
 ht-degree: 96%
 
 ---
@@ -22,15 +28,15 @@ ht-degree: 96%
 
 **登録解除のプッシュ**
 
-[!DNL Marketo Sales] で登録解除が収集された場合は、リアルタイムで [!DNL Salesforce] にプッシュし、同期対象として選択した「オプトアウト」フィールドのいずれかを更新します。[!DNL Salesforce] 同期を無効にしても、登録解除はメールオプトアウトに引き続きプッシュされます。
+[!DNL Marketo Sales] で登録解除が収集された場合は、リアルタイムで [!DNL Salesforce] にプッシュし、同期対象として選択した「オプトアウト」フィールドのいずれかを更新します。 [!DNL Salesforce] 同期を無効にしても、登録解除はメールオプトアウトに引き続きプッシュされます。
 
-**登録解除の同期**
+**登録解除を同期**
 
-登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。同期は 1 日に 1 回、午後 8:00 PST 頃に実行されます。Marketo Sales 内のすべての登録解除と Salesforce の「オプトアウト」フィールドが双方向に同期されます。
+登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。 同期は 1 日に 1 回、午後 8:00 PST 頃に実行されます。 Marketo Sales 内のすべての登録解除と Salesforce の「オプトアウト」フィールドが双方向に同期されます。
 
 >[!NOTE]
 >
->Salesforce との登録解除の同期は、登録解除を同期しますが、再登録は同期しません。Marketo Sales および Salesforce から登録解除を削除する場合、Salesforce で登録解除のチェックをオフにして、Marketo Sales で登録解除を削除します。
+>Salesforce との登録解除の同期は、登録解除を同期しますが、再登録は同期しません。 Marketo Sales および Salesforce から登録解除を削除する場合、Salesforce で登録解除のチェックをオフにして、Marketo Sales で登録解除を削除します。
 
 ## [!DNL Salesforce] への登録解除同期の設定 {#configure-unsubscribe-sync-to-salesforce}
 
@@ -44,7 +50,7 @@ ht-degree: 96%
 
    ![](assets/syncing-unsubscribes-with-salesforce-2.png)
 
-1. 「**[!UICONTROL 統合]**」タブをクリックします。「[!UICONTROL Salesforce に同期]」で、夜間同期を有効にします。
+1. 「**[!UICONTROL 統合]**」タブをクリックします。 「[!UICONTROL Salesforce に同期]」で、夜間同期を有効にします。
 
    ![](assets/syncing-unsubscribes-with-salesforce-3.png)
 
@@ -61,7 +67,7 @@ ht-degree: 96%
 
 **メールオプトアウト**
 
-「メールオプトアウト」は、[!DNL Salesforce] からインストールできる [!DNL Salesforce] の標準フィールドです。インストールするには、[!DNL Salesforce] 管理者である必要があります。
+「メールオプトアウト」は、[!DNL Salesforce] からインストールできる [!DNL Salesforce] の標準フィールドです。 インストールするには、[!DNL Salesforce] 管理者である必要があります。
 
 1. [Salesforce.com](https://salesforce.com) に移動し、ログインします。
 
@@ -71,7 +77,7 @@ ht-degree: 96%
 
    ![](assets/syncing-unsubscribes-with-salesforce-6.png)
 
-1. クイック検索ボックスで、取引先責任者またはリードを検索します。このシナリオでは、取引先責任者ページレイアウトのフィールドをインストールしますが、両方の人物レコード用にインストールする場合もあります。
+1. クイック検索ボックスで、取引先責任者またはリードを検索します。 このシナリオでは、取引先責任者ページレイアウトのフィールドをインストールしますが、両方の人物レコード用にインストールする場合もあります。
 
    ![](assets/syncing-unsubscribes-with-salesforce-7.png)
 

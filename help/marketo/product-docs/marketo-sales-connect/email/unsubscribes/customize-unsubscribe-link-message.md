@@ -1,12 +1,17 @@
 ---
 unique-page-id: 14746186
-description: Sales Connect で登録解除リンクメッセージをカスタマイズする方法を説明します。 購読解除リンクに対して受信者に表示されるテキストを変更します。
+description: Sales Connectで購読解除リンクメッセージをカスタマイズする方法について説明します。 登録解除リンクの受信者が表示するテキストを変更します。
 title: 配信停止リンクメッセージのカスタマイズ
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/kv6F3guF1MHkS25cr-yr3QF-DtAsoRqNaCVrCUpMiEY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: 219
 ht-degree: 90%
 
 ---
@@ -21,7 +26,7 @@ ht-degree: 90%
 
 ## 自分のメッセージをカスタマイズする {#customize-messaging-for-yourself}
 
-1. [web アプリケーション](https://toutapp.com/login)にログインします。右上の歯車アイコンをクリックして、「**[!UICONTROL 設定]**」を選択します。
+1. [web アプリケーション](https://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/one.png)
 
@@ -39,7 +44,7 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >ハイパーリンクされている URL は関係ありません。メールが送信されると、そのハイパーリンクは登録解除リンクに変換されます。
+   >ハイパーリンクされている URL は関係ありません。 メールが送信されると、そのハイパーリンクは登録解除リンクに変換されます。
 
 1. 「**[!UICONTROL OK]**」をクリックします。
 
@@ -47,7 +52,7 @@ ht-degree: 90%
 
 ## グループの登録解除メッセージを設定する {#set-unsubscribe-messaging-for-your-team}
 
-1. [web アプリケーション](https://toutapp.com/login)にログインします。右上の歯車アイコンをクリックして、「**[!UICONTROL 設定]**」を選択します。
+1. [web アプリケーション](https://toutapp.com/login)にログインし、右上の歯車アイコンをクリックして、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/six.png)
 

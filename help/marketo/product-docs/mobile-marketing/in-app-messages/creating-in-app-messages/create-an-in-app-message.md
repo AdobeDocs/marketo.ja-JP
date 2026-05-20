@@ -1,18 +1,21 @@
 ---
-description: アプリ内メッセージを作成する方法を説明します。 マーケティングアクティビティのローカルアセットとして追加し、名前を付けてから、レイアウトを選択してメッセージを作成します。
+description: アプリ内メッセージの作成方法について説明します。 マーケティングアクティビティでローカルアセットとして追加し、名前を付けてからレイアウトを選択し、メッセージを作成します。
 title: アプリ内メッセージの作成
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+TQID: https://experienceleague.adobe.com/ayEZLuHoATSPe6vXQN8iEjzNYHWWUIqlfDFVZZEx5Mw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: 141
 ht-degree: 80%
 
 ---
 
 # [!UICONTROL アプリ内メッセージ]の作成 {#create-an-in-app-message}
 
-完璧なアプリ内メッセージを作成するには、いくつかの手順があります。この記事では、ここから開始し、順番に手順に従います。
+完璧なアプリ内メッセージを作成するには、いくつかの手順があります。 この記事では、ここから開始し、順番に手順に従います。
 
 アプリ内メッセージを作成したら、送信する方法について[こちら](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md)を参照してください。
 

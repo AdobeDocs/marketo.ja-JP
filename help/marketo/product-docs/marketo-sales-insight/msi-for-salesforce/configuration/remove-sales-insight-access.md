@@ -1,22 +1,29 @@
 ---
-description: Salesforceのユーザーまたはプロファイルから Sales Insightへのアクセス権を削除する方法を説明します。 ユーザーが MSI を必要としなくなったら、アクセスを取り消します。
+description: SalesforceのユーザーまたはプロファイルからSales Insight アクセスを削除する方法について説明します。 ユーザーがMSIを必要としなくなったときにアクセスを取り消します。
 title: セールスインサイトアクセスの削除
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/KkpOo6sg-kURyX5ncltrYry0JdLWYMzj-CzDP7F-Zp8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: 387
 ht-degree: 94%
 
 ---
 
 # [!DNL Sales Insight] アクセスの削除 {#remove-sales-insight-access}
 
-次の手順を使用して、[!DNL Salesforce] の [!DNL Sales Insight] 機能へのアクセス権を削除します。[!DNL Salesforce] Classic および Lightning に適用可能。
+次の手順を使用して、[!DNL Salesforce] の [!DNL Sales Insight] 機能へのアクセス権を削除します。 [!DNL Salesforce] Classic および Lightning に適用可能。
 
 ## 概要 {#overview}
 
-[!DNL Sales Insight] のすべての機能にアクセスするには、以下に示すオブジェクト、apex クラスおよび visualforce ページに対する権限が必要です。これらを削除すると、[!DNL Sales Insight] へのアクセス権が削除されます。
+[!DNL Sales Insight] のすべての機能にアクセスするには、以下に示すオブジェクト、apex クラスおよび visualforce ページに対する権限が必要です。 これらを削除すると、[!DNL Sales Insight] へのアクセス権が削除されます。
 
 **オブジェクト設定**
 
@@ -109,23 +116,23 @@ ht-degree: 94%
    * 値
    * WebActivityCache
 
-1. 「[!UICONTROL 有効にされた Apex クラスアクセス]」セクションまで下にスクロールします。「**[!UICONTROL 編集]**」をクリックします。
+1. 「[!UICONTROL 有効にされた Apex クラスアクセス]」セクションまで下にスクロールします。 「**[!UICONTROL 編集]**」をクリックします。
 
-1. 「[!UICONTROL 有効にされた Apex クラスアクセス]」セクションで、「mkto_si」で始まるすべてのクラスを選択します。クラスの合計は 159 個になります。
+1. 「[!UICONTROL 有効にされた Apex クラスアクセス]」セクションで、「mkto_si」で始まるすべてのクラスを選択します。 クラスの合計は 159 個になります。
 
 1. 「**[!UICONTROL 削除]**」をクリックして、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/remove-sales-insight-access-4.png)
 
-1. 下にスクロールして「[!UICONTROL 有効にされた Visualforce ページアクセス]」セクションを表示します。「**[!UICONTROL 編集]**」をクリックします。
+1. 下にスクロールして「[!UICONTROL 有効にされた Visualforce ページアクセス]」セクションを表示します。 「**[!UICONTROL 編集]**」をクリックします。
 
-1. 「[!UICONTROL 有効にされた Visualforce ページ]」セクションで、「mkto_si」で始まるすべてのページを選択します。ページの合計は 64 個になります。
+1. 「[!UICONTROL 有効にされた Visualforce ページ]」セクションで、「mkto_si」で始まるすべてのページを選択します。 ページの合計は 64 個になります。
 
 1. 「**[!UICONTROL 削除]**」をクリックして、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/remove-sales-insight-access-5.png)
 
-1. 下にスクロールして、「[!UICONTROL 有効にされたカスタム設定定義アクセス]」セクションを表示します。「**[!UICONTROL 編集]**」をクリックします。
+1. 下にスクロールして、「[!UICONTROL 有効にされたカスタム設定定義アクセス]」セクションを表示します。 「**[!UICONTROL 編集]**」をクリックします。
 
 1. 「Marketo セールスインサイト.mkto_si.Marketo 設定」および「Marketo セールスインサイト.mkto_si.User 環境設定」を選択します。
 
@@ -133,4 +140,4 @@ ht-degree: 94%
 
    ![](assets/remove-sales-insight-access-6.png)
 
-これで完了です。[!DNL Sales Insight] アクセスが正常に削除されました。アクセスを削除する他のプロファイルに対しても同じ手順を繰り返します。
+これで完了です。 [!DNL Sales Insight] アクセスが正常に削除されました。 アクセスを削除する他のプロファイルに対しても同じ手順を繰り返します。

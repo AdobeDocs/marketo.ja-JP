@@ -1,12 +1,15 @@
 ---
 unique-page-id: 1900567
-description: メールエディターで変更を取り消す方法を説明します。 Marketoでメールを作成している間に行った編集を元に戻します。
+description: メールエディターで変更を元に戻す方法を説明します。 Marketoで電子メールを作成する際の編集内容を元に戻す。
 title: メールエディターで取り消しを実行する
 exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/Qg0yTU0csD8z1EoDlCVfKCDWig82IQOHd5By3mpTrxQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: 78
 ht-degree: 79%
 
 ---
@@ -27,6 +30,6 @@ ht-degree: 79%
 
    >[!NOTE]
    >
-   >テキストの編集中は取り消しを実行できません。編集が終わると、最初の編集から保存までの変更をすべて取り消すことができます。
+   >テキストの編集中は取り消しを実行できません。 編集が終わると、最初の編集から保存までの変更をすべて取り消すことができます。
 
-   作業は以上です。これで、 編集の取り消しとやり直しを使いこなせるようになりました。
+   作業は以上です。 これで、 編集の取り消しとやり直しを使いこなせるようになりました。

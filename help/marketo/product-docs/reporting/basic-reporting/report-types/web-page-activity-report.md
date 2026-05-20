@@ -1,12 +1,23 @@
 ---
 unique-page-id: 2359971
-description: 訪問者の詳細情報を使用して、web サイトへの訪問者を示す web ページアクティビティレポートについて説明します。 既知または匿名の人物を表示し、ページビュー、エントリページおよびリファラーを追跡します。
+description: 訪問者の詳細な情報を使用して、誰がweb サイトにアクセスしているかを示すweb ページアクティビティレポートについて説明します。 既知または匿名の顧客を表示し、ページビュー、エントリページ、リファラーを追跡できます。
 title: Web ページアクティビティレポート
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/TngySjSTBS50-VX8umv17cGE-3kuH3NFv9-JfcQbciU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: 344
 ht-degree: 91%
 
 ---
@@ -26,7 +37,7 @@ ht-degree: 91%
 
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md){target="_blank"}し、「**レポート**」タブをクリックします。
 
-1. 完成です。レポートをレビューして、サイトの訪問者を確認します。
+1. 完成です。 レポートをレビューして、サイトの訪問者を確認します。
 
    ![](assets/web-page-activity-report-1.png){width="800" zoomable="yes"}
 
@@ -38,7 +49,7 @@ ht-degree: 91%
    >
    >サイトを最も多く訪問したリードを見つけるには、レポートを&#x200B;_ページビュー数_&#x200B;列で[並べ替え](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"}て、「降順に並べ替え」を選択します。
 
-   [Marketo は web サイトへの匿名訪問者を](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}データベースに追加するので、このレポートに表示するよう選択できます。匿名でも豊富な情報が提供されます。
+   [Marketo は web サイトへの匿名訪問者を](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}データベースに追加するので、このレポートに表示するよう選択できます。 匿名でも豊富な情報が提供されます。
    Web ページアクティビティレポートで[選択できる列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"}は次のとおりです。
 
 <table>
@@ -70,8 +81,8 @@ ht-degree: 91%
    <td>訪問者が訪問した最初のページ </td>
   </tr>
   <tr>
-   <td>推測される企業あるいは ISP</td>
-   <td>訪問者の IP アドレスから推測される会社。<strong>太字で表示された名前</strong>は、これが ISP ではなく会社であることを示します。 </td>
+   <td>推測される会社あるいは ISP</td>
+   <td>訪問者の IP アドレスから推測される会社。 <strong>太字で表示された名前</strong>は、これが ISP ではなく会社であることを示します。 </td>
   </tr>
   <tr>
    <td>推測される国、都道府県／地域、市区町村</td>
@@ -82,7 +93,7 @@ ht-degree: 91%
 
 >[!TIP]
 >
->セールス担当者が喜びます。自分の担当地域に合わせて[レポートをフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"}し、[購読します](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}。
+>セールス担当者が喜びます。 自分の担当地域に合わせて[レポートをフィルタリング](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md){target="_blank"}し、[購読します](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md){target="_blank"}。
 
 >[!MORELIKETHIS]
 >

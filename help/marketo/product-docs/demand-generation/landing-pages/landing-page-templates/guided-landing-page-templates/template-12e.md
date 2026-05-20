@@ -1,13 +1,18 @@
 ---
 unique-page-id: 9437586
-description: テンプレート 12E ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
+description: テンプレート 12E ガイド付きランディングページテンプレートについて説明します。 ダウンロードして、Marketoランディングページでご利用ください。
 title: テンプレート 12E
 exl-id: fc330e23-9247-4565-a607-0c10d3ef89c6
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/QGjKVCwvtGJYa6RTEW2qdgGcGw8l-V4gjdYgA763Xnk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 71%
+source-wordcount: 79
+ht-degree: 74%
 
 ---
 
@@ -29,4 +34,4 @@ ht-degree: 71%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=ja)
+[テンプレート 12E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12e.html?lang=ja)

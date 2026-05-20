@@ -1,19 +1,22 @@
 ---
 unique-page-id: 2359705
-description: Marketoのフリーフォームのランディングページに新しいフォームを追加する方法を説明します。 Marketo フォームを挿入して、ページ上のリードを取り込みます。
+description: Marketoでフリーフォームのランディングページに新しいフォームを追加する方法について説明します。 Marketoフォームを挿入して、リードを獲得します。
 title: フリーフォームランディングページに新しいフォームを追加する
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/FTZtA2OAveQS9d9MLetBmTb99aSH0xIWwO6LsT2T7Ic
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 84%
+source-wordcount: 150
+ht-degree: 76%
 
 ---
 
 # フリーフォームランディングページに新しいフォームを追加する {#add-a-new-form-to-a-free-form-landing-page}
-
-ランディングページをフォームに紹介するフォームをランディングページに紹介する
 
 >[!PREREQUISITES]
 >
@@ -48,10 +51,8 @@ ht-degree: 84%
    >
    >フォローアップページとは、フォームを送信した後で表示されるページです。
 
-1. 次に「**[!UICONTROL 挿入]**」をクリックします。
+1. 「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 
-   うまくいきました。
-
-ランディングページエディターを閉じて、[ランディングページのドラフトを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)します。
+ランディングページエディターを閉じて、[&#x200B; ランディングページのドラフトを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)します。

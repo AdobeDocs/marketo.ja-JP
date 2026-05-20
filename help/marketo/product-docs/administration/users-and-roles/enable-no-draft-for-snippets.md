@@ -1,25 +1,39 @@
 ---
 unique-page-id: 10095636
-description: 新しいドラフトを必要とせずにスニペットの変更が承認済みアセットに適用されるように、スニペットに対して「ドラフトなし」を有効にする方法を説明します。
+description: スニペットに対して「ドラフトなし」を有効にして、新しいドラフトを必要とせずにスニペットの変更を承認済みアセットに適用する方法を説明します。
 title: スニペットで「ドラフトなし」を有効にする
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+TQID: https://experienceleague.adobe.com/nAwbSiNOywTfvFLik5J5QFdc1x4ScglfrVxsSVuLBSc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: 169
 ht-degree: 88%
 
 ---
 
 # スニペットで「ドラフトなし」を有効にする {#enable-no-draft-for-snippets}
 
-スニペットで「ドラフトなし」を有効にすると、スニペットを使用する承認済みアセットのドラフトなしでスニペットの変更を配布できます。編集済みのスニペットを使用するすべてのアセットが更新を受け取り、それぞれのステータスを維持します。
+スニペットで「ドラフトなし」を有効にすると、スニペットを使用する承認済みアセットのドラフトなしでスニペットの変更を配布できます。 編集済みのスニペットを使用するすべてのアセットが更新を受け取り、それぞれのステータスを維持します。
 
 * 承認済みアセットはスニペットの更新を取得し、承認は維持されます
 
 * ドラフトはスニペットの更新を取得し、ドラフトモードは維持されます
 
-「ドラフトなし」は、すべての管理者の役割に対して自動的に有効になります。その後、管理者は、その他の役割に対してこの機能を有効にできます。
+「ドラフトなし」は、すべての管理者の役割に対して自動的に有効になります。 その後、管理者は、その他の役割に対してこの機能を有効にできます。
 
 >[!NOTE]
 >
@@ -45,7 +59,7 @@ ht-degree: 88%
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. 「**[!UICONTROL スニペットを承認]**」権限を展開し、「**[!UICONTROL ドラフトなし]**」ボックスにチェックを入れます。「**[!UICONTROL 保存]**」をクリックします。
+1. 「**[!UICONTROL スニペットを承認]**」権限を展開し、「**[!UICONTROL ドラフトなし]**」ボックスにチェックを入れます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
@@ -55,4 +69,4 @@ ht-degree: 88%
 
 >[!MORELIKETHIS]
 >
->[「ドラフトなし」でのスニペットの承認](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}
+>[ドラフトなしのスニペットの承認](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}

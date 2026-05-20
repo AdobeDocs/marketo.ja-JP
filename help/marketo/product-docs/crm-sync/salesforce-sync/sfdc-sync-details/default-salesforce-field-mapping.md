@@ -1,19 +1,22 @@
 ---
 unique-page-id: 4719314
-description: SalesforceとMarketo Engage間のデフォルトのSalesforce フィールドマッピングについて説明します。 リード、連絡先、アカウント、商談の各フィールドが自動的にマッピングされる仕組みを確認します。
+description: SalesforceとMarketo Engage間のデフォルトのSalesforce フィールドマッピングについて説明します。 リード、取引先責任者、アカウント、商談のフィールドを自動的にマッピングする方法をご確認ください。
 title: デフォルトの Salesforce フィールドマッピング
 exl-id: d6639733-f85d-4f4c-ac41-5d2a68a9c6b2
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/i7ducTSqHY1rBTOQ8qNHPRCuETASKkuVWNsQGOW3OPE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: 377
 ht-degree: 94%
 
 ---
 
 # デフォルトの [!DNL Salesforce] フィールドマッピング {#default-salesforce-field-mapping}
 
-Marketo Engage アカウントと Salesforce の初回同期時に、Marketo ではビルトインの Salesforce フィールドと Marketo フィールドの間でこれらの関連付けが自動的に行われます。Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
+Marketo Engage アカウントと Salesforce の初回同期時に、Marketo ではビルトインの Salesforce フィールドと Marketo フィールドの間でこれらの関連付けが自動的に行われます。 Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
 
 ## リードフィールド {#lead-fields}
 
@@ -101,6 +104,6 @@ Marketo Engage アカウントと Salesforce の初回同期時に、Marketo で
 | フィールド | 説明 |
 |---|---|
 | SFDC ID | 18 文字の [!DNL Salesforce] ID |
-| SFDC のタイプ | リードまたは連絡先。空の場合、リードは Marketo に人物としてのみ存在します |
+| SFDC のタイプ | リードまたは連絡先。 空の場合、リードは Marketo に人物としてのみ存在します |
 | SFDC 作成日 | SFDC で作成された日付（Marketo で作成された日付とは異なる場合があります） |
 | SFDC 削除済み | 以前は SFDC に存在したが、削除され、現在は Marketo にしか存在しない人物 |

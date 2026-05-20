@@ -1,12 +1,23 @@
 ---
 unique-page-id: 11380785
-description: 重点顧客ダッシュボードと、ターゲット顧客の 360 度の表示について説明します。 エンゲージメント、オポチュニティ、アカウントチームおよび ICP 指標を表示します。
+description: 名前付きアカウントダッシュボードとターゲットアカウントの全体像について説明します。 エンゲージメント、機会、アカウントチーム、ICP指標を表示します。
 title: 重点顧客インサイト
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+TQID: https://experienceleague.adobe.com/AFf4miCMLQKRhYC-gIn-q8KinQD8NZ8-8FxsxC1hxMg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: 444
 ht-degree: 95%
 
 ---
@@ -19,13 +30,13 @@ ht-degree: 95%
 
 ## ダッシュボード {#dashboard}
 
-ダッシュボードは、重点顧客内のすべてのユーザーからアカウントレベルで主要なインサイトを集計するので、各ユーザーに進捗状況を評価してもらう必要がなくなります。[メールインサイト](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)を使用し、メールのアクティビティをさらにドリルダウンして調べることができます。
+ダッシュボードは、重点顧客内のすべてのユーザーからアカウントレベルで主要なインサイトを集計するので、各ユーザーに進捗状況を評価してもらう必要がなくなります。 [メールインサイト](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)を使用し、メールのアクティビティをさらにドリルダウンして調べることができます。
 
 >[!NOTE]
 >
 >グラフには、過去 90 日間のインサイトが表示されます。
 
-**[!UICONTROL 経時的なアカウントのエンゲージメント]**&#x200B;右側の「**[!UICONTROL 表示]**」ドロップダウンをクリックして、表示内容を変更します。[!UICONTROL アカウントスコア]に加えて、[!UICONTROL 合計売上高]別...
+**[!UICONTROL 経時的なアカウントのエンゲージメント]**&#x200B;右側の「**[!UICONTROL 表示]**」ドロップダウンをクリックして、表示内容を変更します。 [!UICONTROL アカウントスコア]に加えて、[!UICONTROL 合計売上高]別...
 
 ![](assets/two-new.png)
 
@@ -37,15 +48,15 @@ ht-degree: 95%
  <tbody>
   <tr>
    <td><strong><span class="uicontrol">アカウントスコア</span></strong></td>
-   <td><p>「<span class="uicontrol">管理</span>」で作成したすべてのアカウントスコアに基づき、エンゲージメントを週ごとに表示します。これらのアカウントスコアを並べて比較できます。週別のエンゲージメントを判断するため、任意の曜日から最大のエンゲージメントを取り込みます。</p></td>
+   <td><p>「<span class="uicontrol">管理</span>」で作成したすべてのアカウントスコアに基づき、エンゲージメントを週ごとに表示します。 これらのアカウントスコアを並べて比較できます。 週別のエンゲージメントを判断するため、任意の曜日から最大のエンゲージメントを取り込みます。</p></td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">パイプライン</span></strong></td>
-   <td>経時的なパイプラインを表示します。週ごとの経時的なパイプラインを判断するため、最終日にパイプラインを取得します。</td>
+   <td>経時的なパイプラインを表示します。 週ごとの経時的なパイプラインを判断するため、最終日にパイプラインを取得します。</td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">売上高</span></strong></td>
-   <td>経時的な売上高を表示します。週ごとの経時的な売上高を判断するため、その週の全売上高の合計を取り込みます。</td>
+   <td>経時的な売上高を表示します。 週ごとの経時的な売上高を判断するため、その週の全売上高の合計を取り込みます。</td>
   </tr>
  </tbody>
 </table>
@@ -58,7 +69,7 @@ ht-degree: 95%
 
 **上位リード**
 
-これらユーザは、重点顧客ユーザごと（セールスインサイトの[最善策](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）が示す最新性や緊急性の優先度、またはユーザが定義したスコアに基づいて計算されます。**[!UICONTROL 優先度]**&#x200B;は、[!DNL Marketo Sales Insight] のユーザのみが使用できます。
+これらユーザは、重点顧客ユーザごと（セールスインサイトの[最善策](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）が示す最新性や緊急性の優先度、またはユーザが定義したスコアに基づいて計算されます。 **[!UICONTROL 優先度]**&#x200B;は、[!DNL Marketo Sales Insight] のユーザのみが使用できます。
 
 ![](assets/top-ten.png)
 

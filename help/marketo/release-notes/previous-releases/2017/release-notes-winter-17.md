@@ -3,16 +3,31 @@ unique-page-id: 12255606
 description: リリースノート - 17年冬 - Marketo ドキュメント - 製品ドキュメント
 title: リリースノート - 17年冬
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+TQID: https://experienceleague.adobe.com/9Ud9WALQOkbUuHYod1UI8MoIo8lLzCzJYxOC5A9h8QI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: 406
 ht-degree: 100%
 
 ---
 
 # リリースノート：2017年冬 {#release-notes-winter}
 
-17年冬リリースには、次の機能が含まれています。利用可能な機能についてはお使いの Marketo のエディションをご確認ください。
+17年冬リリースには、次の機能が含まれています。 お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。
 
@@ -28,17 +43,17 @@ ht-degree: 100%
 
 ## [カスタムオブジェクト読み込み API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
 
-この API は、カスタムオブジェクトを Marketo に同期する高速なインターフェイスを提供します。CSV、TSV または SSV スプレッドシートファイルは、カスタムオブジェクトとして Marketo に読み込むことができます。
+この API は、カスタムオブジェクトを Marketo に同期する高速なインターフェイスを提供します。 CSV、TSV または SSV スプレッドシートファイルは、カスタムオブジェクトとして Marketo に読み込むことができます。
 
 ## [Web パーソナライゼーションキャンペーンの書き出し](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
-すべての web キャンペーンの詳細と分析を CSV 形式で書き出します。その後、データを便利なレイアウトで表示できます。
+すべての web キャンペーンの詳細と分析を CSV 形式で書き出します。 その後、データを便利なレイアウトで表示できます。
 
 ![](assets/web-personalization-csv-download-hand.png)
 
 ## 多言語化対応 {#localization}
 
-Web パーソナライゼーション、[!UICONTROL 予測コンテンツ]、メールインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。[言語とロケールを選択](/help/marketo/product-docs/administration/settings/change-time-zone.md)して、これらの言語でコンテンツを表示します。
+Web パーソナライゼーション、[!UICONTROL 予測コンテンツ]、メールインサイトの各アプリが、日本語、ドイツ語、スペイン語で利用できるようになりました。 [言語とロケールを選択](/help/marketo/product-docs/administration/settings/change-time-zone.md)して、これらの言語でコンテンツを表示します。
 
 ![](assets/japanese-web-personalization.png)
 
@@ -94,4 +109,4 @@ Web パーソナライゼーション、[!UICONTROL 予測コンテンツ]、メ
 
 ## [Marketo アクティビティ API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
-Marketo のアクティビティ API に重要な変更が予定されています。準備はよろしいでしょうか。
+Marketo のアクティビティ API に重要な変更が予定されています。 準備はよろしいでしょうか。

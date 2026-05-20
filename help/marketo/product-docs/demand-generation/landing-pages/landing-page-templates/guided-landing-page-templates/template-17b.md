@@ -1,13 +1,18 @@
 ---
 unique-page-id: 9438194
-description: テンプレート 17B ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
+description: テンプレート 17B ガイド付きランディングページテンプレートについて説明します。 ダウンロードして、Marketoランディングページでご利用ください。
 title: テンプレート 17B
 exl-id: f1483278-0f4a-40a4-b652-1df2be5abfa4
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/qETt3AOZiETtw1NgffYJW3CIJHJJlNajhKyGhhkVr-Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 69%
+source-wordcount: 75
+ht-degree: 73%
 
 ---
 
@@ -28,4 +33,4 @@ ht-degree: 69%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 17B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html?lang=ja)
+[テンプレート 17B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17b.html?lang=ja)

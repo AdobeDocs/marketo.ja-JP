@@ -1,13 +1,18 @@
 ---
 unique-page-id: 8783906
-description: テンプレート 4C ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
+description: テンプレート 4C ガイド付きランディングページテンプレートについて説明します。 ダウンロードして、Marketoランディングページでご利用ください。
 title: テンプレート 4C
 exl-id: 95e8b4db-6bd8-4937-bf1b-3e680969aab4
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/oOxW9K4dhSXMMa8axVEMjSAbwOI-O9DD3WlOMrpfqFI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 71%
+source-wordcount: 79
+ht-degree: 74%
 
 ---
 
@@ -28,4 +33,4 @@ ht-degree: 71%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 4C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html?lang=ja)
+[テンプレート 4C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4c.html?lang=ja)

@@ -1,12 +1,15 @@
 ---
 unique-page-id: 1900548
-description: 動的コンテンツを含んだメールをプレビューする方法を説明します。 送信前に、様々なセグメントに対するバリアントのレンダリング方法を参照してください。
+description: 動的コンテンツを使用してメールをプレビューする方法を説明します。 送信する前に、バリエーションが様々なセグメントでどのようにレンダリングされるかを確認できます。
 title: 動的コンテンツを含むメールのプレビュー
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/aqq-w-CNbbGHgeB5uwjdOJwsJJVI1OgaWv8zmde7xto
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: 124
 ht-degree: 86%
 
 ---
@@ -23,7 +26,7 @@ ht-degree: 86%
 
    ![](assets/two-3.png)
 
-1. 新しいドロップダウンが表示されます。クリックして、特定のコンテンツを選択します。
+1. 新しいドロップダウンが表示されます。 クリックして、特定のコンテンツを選択します。
 
    ![](assets/three-2.png)
 
@@ -41,4 +44,4 @@ ht-degree: 86%
 
    ![](assets/six.png)
 
-完成です。メールをプレビューして、コンテンツが希望どおりであることを確認します。
+これで完了です。 メールをプレビューして、コンテンツが希望どおりであることを確認します。

@@ -1,25 +1,28 @@
 ---
 unique-page-id: 14352450
-description: Gmail 用の Sales Connect メールプラグインのインストール方法を説明します。 トラッキング対象のメールを送信し、Gmail のテンプレートを使用するためのプラグインを追加します。
+description: Gmail用Sales Connect メールプラグインのインストール方法について説明します。 プラグインを追加して、追跡されたメールを送信し、Gmailからテンプレートを使用します。
 title: Gmail 用 Sales Connect メールプラグインのインストール
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/SI1ifAgwgUHjFM-Rj1ZHRLcoLCtwqX6AOGxh0RHX47I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 54%
+source-wordcount: 102
+ht-degree: 55%
 
 ---
 
 # Gmail 用 Sales Connect メールプラグインのインストール {#install-the-sales-connect-email-plugin-for-gmail}
 
-Gmail プラグインのインストール方法を説明します。
+Gmail プラグインのインストール方法について説明します。
 
 >[!IMPORTANT]
 >
->Gmail および Outlook 用メールプラグインは、Marketo Sales Connect ユーザのみがサポートされます。これらは、セールスインサイトアクションユーザにはサポート&#x200B;**されません**。
+>Gmail および Outlook 用メールプラグインは、Marketo Sales Connect ユーザのみがサポートされます。 これらは、セールスインサイトアクションユーザにはサポート&#x200B;**されません**。
 
-1. [web アプリケーション &#x200B;](https://toutapp.com/next#settings) で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」をクリックします。
+1. [web アプリケーション &#x200B;](https://toutapp.com/next#settings)で、歯車アイコンをクリックし、**[!UICONTROL 設定]**&#x200B;をクリックします。
 
    ![](assets/install-the-sales-connect-email-plugin-for-gmail-1.png)
 

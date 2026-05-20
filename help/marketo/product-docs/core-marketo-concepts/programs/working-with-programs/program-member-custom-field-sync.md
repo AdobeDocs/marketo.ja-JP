@@ -1,12 +1,17 @@
 ---
-description: Salesforceを使用したプログラムメンバーカスタムフィールド同期について説明します。 カスタムメンバーデータと CRM の同期を維持します。
+description: Salesforceによるプログラムメンバーのカスタムフィールド同期について説明します。 カスタムメンバーデータをCRMと同期。
 title: プログラムメンバーカスタムフィールドの同期
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/rR7HHgLCt3VxiUuLvC7XgJXH0PYiO71PDqXq3FGogk8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 94%
+source-wordcount: 362
+ht-degree: 95%
 
 ---
 
@@ -19,7 +24,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->プログラムメンバーオブジェクトには、最大 20 個のカスタムフィールドを持つことができます。これらのフィールドは、どのプログラムでも使用できます。
+>プログラムメンバーオブジェクトには、最大 20 個のカスタムフィールドを持つことができます。 これらのフィールドは、どのプログラムでも使用できます。
 
 ## Salesforce フィールドをプログラムメンバーカスタムフィールドにマッピング {#map-salesforce-fields-to-program-member-custom-fields}
 
@@ -31,7 +36,7 @@ ht-degree: 94%
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. 検索ボックスを使用して、マッピングする [!DNL Salesforce] フィールドを見つけます。この例では、Do Not Call を使用しています。
+1. 検索ボックスを使用して、マッピングする [!DNL Salesforce] フィールドを見つけます。 この例では、Do Not Call を使用しています。
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -59,11 +64,11 @@ ht-degree: 94%
 
    >[!NOTE]
    >
-   >[!DNL Salesforce] でフィールドの名前を変更するか、フィールドのデータタイプを変更すると、そのフィールドと[!UICONTROL プログラムメンバーカスタムフィールド]とのマッピングがすべて削除されます。ただし、レビュー後に新しいフィールドで再マッピングできます。
+   >[!DNL Salesforce] でフィールドの名前を変更するか、フィールドのデータタイプを変更すると、そのフィールドと[!UICONTROL プログラムメンバーカスタムフィールド]とのマッピングがすべて削除されます。 ただし、レビュー後に新しいフィールドで再マッピングできます。
 
 ## プログラムメンバーカスタムフィールドから Salesforce フィールドのマッピングを解除 {#unmap-salesforce-fields-from-program-member-custom-fields}
 
-フィールドを置き換えるために解放する場合や、一般的な変更を行う場合は、最初にマッピング解除を実行する必要があります。手順は次のとおりです。
+フィールドを置き換えるために解放する場合や、一般的な変更を行う場合は、最初にマッピング解除を実行する必要があります。 手順は次のとおりです。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -73,7 +78,7 @@ ht-degree: 94%
 
    ![](assets/program-member-custom-field-sync-8.png)
 
-1. 検索ボックスを使用して、マッピングを解除するフィールドを見つけます。この例では、Do Not Call を使用しています。
+1. 検索ボックスを使用して、マッピングを解除するフィールドを見つけます。 この例では、Do Not Call を使用しています。
 
    ![](assets/program-member-custom-field-sync-9.png)
 
@@ -85,7 +90,7 @@ ht-degree: 94%
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. これで、マッピングが削除されます。「**[!UICONTROL 保存]**」をクリックします。
+1. これで、マッピングが削除されます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/program-member-custom-field-sync-11.png)
 

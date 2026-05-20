@@ -4,9 +4,16 @@ description: リリースノート - 2013年4月 - Marketo ドキュメント - 
 title: リリースノート - 2013年4月
 exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/y02wykjKM3EasYLQHBYNeKj8o9MXfT1IIs06G-colsw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: 204
 ht-degree: 100%
 
 ---
@@ -23,21 +30,21 @@ Marketo を [!DNL Box] アカウントで接続して、ファイルをデザイ
 
 ## [!DNL Gmail] プラグイン {#gmail-plugin}
 
-Marketo [!DNL Sales Insight] および [!DNL Gmail] を使用している場合は、[!DNL Chrome] ストアを通じて新しい [!DNL Gmail] プラグインをインストールできます。このプラグインを使用すると、Marketo でのメッセージのログ記録、Marketo のメールテンプレートの読み込み、Marketo のトラッキング機能を使用したメッセージの送信が可能になります。
+Marketo [!DNL Sales Insight] および [!DNL Gmail] を使用している場合は、[!DNL Chrome] ストアを通じて新しい [!DNL Gmail] プラグインをインストールできます。 このプラグインを使用すると、Marketo でのメッセージのログ記録、Marketo のメールテンプレートの読み込み、Marketo のトラッキング機能を使用したメッセージの送信が可能になります。
 
 ![](assets/image2014-9-22-15-3a48-3a57.png)
 
 ## メール分析 {#email-analysis}
 
-クリックアクティビティのヒートグリッドレポートなど、[!UICONTROL 収益エクスプローラー]で高度なメールレポートを作成します。このレポートは、ユーザーがメール内のリンクをクリックした日時に対するインサイトを提供します。
+クリックアクティビティのヒートグリッドレポートなど、[!UICONTROL 収益エクスプローラー]で高度なメールレポートを作成します。 このレポートは、ユーザーがメール内のリンクをクリックした日時に対するインサイトを提供します。
 
-2012 年および 2013 年のメールデータを移行する 4 月から 5 月中に、メール分析機能が段階的に有効になります。つまり、一部のお客様は、他のお客様よりも早くこの機能にアクセスできます。
+2012 年および 2013 年のメールデータを移行する 4 月から 5 月中に、メール分析機能が段階的に有効になります。 つまり、一部のお客様は、他のお客様よりも早くこの機能にアクセスできます。
 
 ![](assets/image2014-9-22-15-3a49-3a16.png)
 
 ## プログラム API {#program-apis}
 
-SOAP API 呼び出しでのプログラムのサポート（プログラムの会員数、取得者、成功、設定、チャネル、タグ、トークン、コストなどのプログラムデータへの読み取り専用アクセスを含みます）。詳しくは、SOAP API のドキュメントを参照してください。
+SOAP API 呼び出しでのプログラムのサポート（プログラムの会員数、取得者、成功、設定、チャネル、タグ、トークン、コストなどのプログラムデータへの読み取り専用アクセスを含みます）。 詳しくは、SOAP API のドキュメントを参照してください。
 
 ## [!DNL ON24] の機能強化 {#on-enhancement}
 

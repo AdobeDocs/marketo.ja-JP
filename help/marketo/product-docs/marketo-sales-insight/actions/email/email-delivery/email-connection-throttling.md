@@ -1,18 +1,21 @@
 ---
-description: Sales Insight Actions のメール接続スロットルと送信制限について説明します。 スロットリングが配信に与える影響と制限の範囲内に収まる方法を説明します。
+description: Sales Insight Actionsでのメール接続のスロットリングと送信制限について説明します。 スロットリングが配信にどのような影響を与えるか、制限内に収める方法について説明します。
 title: メール接続のスロットリング
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/9EY5VJaKJCwaBE-YJ8qCXreorIIXjj4hX4Ybvwm5ijg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: 438
 ht-degree: 91%
 
 ---
 
 # メール接続のスロットリング {#email-connection-throttling}
 
-[!DNL Sales Connect] アカウントを統合して、[!DNL Exchange] または Gmail のメールプロバイダーを通じて送信すると、1:1 のセールス通信の合理化された設定とメール配信品質を最適化できます。ただし、システムの健全性とアカウントの安全性を維持するのに、Gmail と [!DNL Exchange] ではメール送信の制限が実施されます。これらの制限は、プロバイダーの裁量によって増減することができます。
+[!DNL Sales Connect] アカウントを統合して、[!DNL Exchange] または Gmail のメールプロバイダーを通じて送信すると、1:1 のセールス通信の合理化された設定とメール配信品質を最適化できます。 ただし、システムの健全性とアカウントの安全性を維持するのに、Gmail と [!DNL Exchange] ではメール送信の制限が実施されます。 これらの制限は、プロバイダーの裁量によって増減することができます。
 
 ## 概要 {#overview}
 
@@ -22,12 +25,12 @@ ht-degree: 91%
 
 ## 注意事項 {#things-to-note}
 
-* ユーザーが Gmail または [!DNL Exchange] に接続すると、自動的に有効になります
+* ユーザーがGmailまたは[!DNL Exchange]に接続すると、自動的に有効になります
 * ニーズに合わせてレコメンデーションの設定を増減する場合は、カスタマイズできます。
 * Gmail または [!DNL Exchange] を通じて送信されるメールのみスロットリングし、カスタム配信チャネルをスロットリングしません。
 * メール接続のスロットリングは、各ユーザがメールプロバイダーと独自に接続しているため、各ユーザのメールを個別にキューイングします
 
-## メール接続スロットル設定を指定しています {#configuring}
+## メール接続スロットル設定の設定 {#configuring}
 
 1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
@@ -45,7 +48,7 @@ ht-degree: 91%
 
    ![](assets/email-connection-throttling-4.png)
 
-1. 各バッチが送信されるまでの待機時間を設定します。この例では、45 秒ごとに 25 通のメールを選択します。
+1. 各バッチが送信されるまでの待機時間を設定します。 この例では、45 秒ごとに 25 通のメールを選択します。
 
    ![](assets/email-connection-throttling-5.png)
 
@@ -77,7 +80,7 @@ ht-degree: 91%
 
 ### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft-exchange}
 
-サーバーが組織でホストされるので、制限は組織の IT 部門によって設定されます。必要に応じて、ネットワーク管理者またはシステム管理者に問い合わせてください。
+サーバーが組織でホストされるので、制限は組織の IT 部門によって設定されます。 必要に応じて、ネットワーク管理者またはシステム管理者に問い合わせてください。
 
 >[!MORELIKETHIS]
 >

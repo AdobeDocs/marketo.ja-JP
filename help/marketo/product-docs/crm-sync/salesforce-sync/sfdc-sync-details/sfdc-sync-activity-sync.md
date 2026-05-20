@@ -1,19 +1,22 @@
 ---
 unique-page-id: 2953473
-description: SalesforceのアクティビティとタスクをMarketoに同期する方法について説明します。 Marketoからタスクを作成し、スマートキャンペーンでアクティビティのトリガーとフィルターを使用する。
+description: SalesforceのアクティビティとタスクをMarketoに同期する方法について説明します。 Marketoからタスクを作成し、スマートキャンペーンでアクティビティのトリガーとフィルターを使用します。
 title: SFDC 同期 - アクティビティ同期
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/N-pw1q0NXaJGKW1J1R4iqhgXhA42sX5nP0OWPXCuaBc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: 175
 ht-degree: 86%
 
 ---
 
 # SFDC 同期：アクティビティ同期 {#sfdc-sync-activity-sync}
 
-Marketo は、[!DNL Salesforce] アクティビティデータを介して同期も行います。質問と回答をいくつか示します。
+Marketo は、[!DNL Salesforce] アクティビティデータを介して同期も行います。 質問と回答をいくつか示します。
 
 ## Marketo はどのタイプのアクティビティデータを同期しますか。 {#what-types-of-activity-data-does-marketo-sync-over}
 
@@ -21,7 +24,7 @@ Marketo は、リードまたは取引先責任者に関連付けられたイベ
 
 ## アクティビティの詳細は、2 つのシステム間でどのように同期されていますか。 {#how-are-activity-details-kept-in-sync-between-the-two-systems}
 
-同期は [!DNL Salesforce] から Marketo への一方向で行われます。ただし、[タスクを作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)フローステップまたは[アクティビティの同期をカスタマイズ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)を [!DNL Salesforce] に使用して、[!DNL Salesforce] でタスクを作成できます。
+同期は [!DNL Salesforce] から Marketo への一方向で行われます。 ただし、[タスクを作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md)フローステップまたは[アクティビティの同期をカスタマイズ](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync.md)を [!DNL Salesforce] に使用して、[!DNL Salesforce] でタスクを作成できます。
 
 ## Marketo を使用してタスクを作成することはできますか。 {#can-i-create-a-task-using-marketo}
 
@@ -41,4 +44,4 @@ Marketo は、リードまたは取引先責任者に関連付けられたイベ
 
 >[!TIP]
 >
->「無操作状態」という言葉はわかりにくいですが、「無」は、無操作状態のフィルターを指します。詳しくは、[スマートリストでの無操作状態フィルターの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}を参照してください。
+>「無操作状態」という言葉はわかりにくいですが、 「無」は、無操作状態のフィルターを指します。 詳しくは、[スマートリストでの無操作状態フィルターの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}を参照してください。

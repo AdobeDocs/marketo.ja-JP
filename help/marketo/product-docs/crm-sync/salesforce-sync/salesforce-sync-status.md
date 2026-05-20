@@ -1,12 +1,21 @@
 ---
-description: Salesforce同期ステータスダッシュボードと同期統計の表示方法について説明します。 日付、操作タイプまたはオブジェクトタイプでフィルタリングし、同期エラーを CSV として書き出します。
+description: Salesforce Sync ステータスダッシュボードと同期ステータスを表示する方法について説明します。 日付、操作タイプ、またはオブジェクトタイプでフィルタリングし、同期エラーをCSVとして書き出します。
 title: Salesforce 同期ステータス
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/RsWPcnu2ZkoqdMVRM8DVu2GM-VJLIgVdB-UJDJaD4RM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '574'
-ht-degree: 77%
+source-wordcount: 575
+ht-degree: 76%
 
 ---
 
@@ -14,7 +23,7 @@ ht-degree: 77%
 
 同期ステータスダッシュボードを使用して、同期手順の一部として同期ステータスとその成功ステータスを確認します。
 
-同期手順は、オブジェクトスキーマおよびデータ自体に対する各オブジェクトタイプごとのプッシュまたはプルの操作を反映します。 統計には、同期中の新しいレコード、更新、削除、失敗したカウントが含まれます。 ユーザーは、日付、操作タイプ、オブジェクトタイプでフィルタリングできます。 同期ステータスダッシュボードには、過去 5 日間の同期サイクルのステータスが表示されます。
+同期ステップは、オブジェクトスキーマとデータ自体の各オブジェクトタイプによるプッシュまたはプルの操作を反映します。 同期の際に、新しいレコード、更新、削除、失敗数をデータでカバーします。 ユーザーは、日付、操作タイプまたはオブジェクトタイプでフィルタリングできます。 同期ステータスダッシュボードには、過去 5 日間の同期サイクルのステータスが表示されます。
 
 >[!NOTE]
 >
@@ -26,11 +35,11 @@ ht-degree: 77%
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. [!UICONTROL Integration] で **Salesforce** をクリックし、「**[!UICONTROL Sync Status]**」タブをクリックします。
+1. [!UICONTROL 統合]で、「**Salesforce**」をクリックし、「**[!UICONTROL Sync Status]**」タブをクリックします。
 
    ![](assets/salesforce-sync-status-2.png)
 
-デフォルトでは、統計は最近開始された順に並べ替えられます。並べ替えアイコンをクリックして、開始日時または終了日時（最新から古い順）で並べ替えることができます。
+デフォルトでは、統計は最近開始された順に並べ替えられます。 並べ替えアイコンをクリックすると、開始時または終了時（最新から古い順）で並べ替えることができます。
 
 ![](assets/salesforce-sync-status-3.png)
 
@@ -40,7 +49,7 @@ ht-degree: 77%
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. 日付と時間の範囲を選択し、ドロップダウンをクリックして [!UICONTROL &#x200B; オブジェクトタイプ &#x200B;]、[!UICONTROL &#x200B; 操作タイプ &#x200B;]、[!UICONTROL &#x200B; ステータスタイプ &#x200B;] でフィルタリングします。
+1. 日付と時間範囲を選択し、ドロップダウンをクリックして、[!UICONTROL &#x200B; オブジェクトタイプ &#x200B;]、[!UICONTROL 操作タイプ &#x200B;]、および/または[!UICONTROL &#x200B; ステータスタイプ &#x200B;]でフィルタリングします。
 
    ![](assets/salesforce-sync-status-5.png)
 
@@ -48,7 +57,7 @@ ht-degree: 77%
 
    ![](assets/salesforce-sync-status-6.png)
 
-**オプションの手順**：同期エラーをエクスポートするには、「**[!UICONTROL エクスポート]**」をクリックします。データは CSV としてエクスポートされます。
+**オプションの手順**：同期エラーをエクスポートするには、「**[!UICONTROL エクスポート]**」をクリックします。 データは CSV としてエクスポートされます。
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -195,7 +204,7 @@ ht-degree: 77%
   <tr>
    <td colspan="1">コンバージョンをプル</td>
    <td colspan="1">担当者（リード）*</td>
-   <td colspan="1">SFDC から Marketo に変換アクションを取り込みます。数量（数値）は連絡先に変換するリードです</td>
+   <td colspan="1">SFDC から Marketo に変換アクションを取り込みます。 数量（数値）は連絡先に変換するリードです</td>
    <td colspan="1">アップデート、失敗した項目、スキップ済み</td>
   </tr>
   <tr>
@@ -249,4 +258,4 @@ ht-degree: 77%
  </tbody>
 </table>
 
-&#42; サブスクリプションレベルでのブランディング設定によって、レポート内のラベル（「リード」または「人物」）が決まります。
+&#42; サブスクリプションレベルでのブランド設定によって、レポートの「リード」または「人物」のラベルが決まります。

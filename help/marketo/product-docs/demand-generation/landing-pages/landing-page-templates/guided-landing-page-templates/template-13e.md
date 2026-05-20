@@ -1,13 +1,18 @@
 ---
 unique-page-id: 9437798
-description: テンプレート 13E ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
+description: テンプレート 13E ガイド付きランディングページテンプレートについて説明します。 ダウンロードして、Marketoランディングページでご利用ください。
 title: テンプレート 13E
 exl-id: ef1a78ac-1422-4f48-9686-b1d77081787c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/9-XuvmyDaau3TgjSs8IwuCQ1ZRfm93m59AQHGnVeFDk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 69%
+source-wordcount: 75
+ht-degree: 73%
 
 ---
 
@@ -28,4 +33,4 @@ ht-degree: 69%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html?lang=ja)
+[テンプレート 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html?lang=ja)

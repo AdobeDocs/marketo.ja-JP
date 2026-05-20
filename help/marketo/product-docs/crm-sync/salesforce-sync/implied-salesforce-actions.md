@@ -1,19 +1,22 @@
 ---
 unique-page-id: 4719304
-description: ユーザーをSFDCまたはその他の操作に自動トリガー同期するSalesforce フローステップを理解します。 キャンペーンに追加、所有者を変更、タスクを作成、ユーザーを変換のルールについて説明します。
+description: どのSalesforce フローステップが自動トリガー人物をSFDCやその他のアクションに同期するかを理解します。 「キャンペーンに追加」、「所有者を変更」、「タスクを作成」、「人物を変換」のルールについて説明します。
 title: 暗黙的な Salesforce アクション
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: 163
 ht-degree: 82%
 
 ---
 
 # 暗黙的な Salesforce アクション {#implied-salesforce-actions}
 
-[!DNL Salesforce] 固有のフローステップが実行されると、追加の手順が自動的に実行される場合があります。ルールは次のとおりです。
+[!DNL Salesforce] 固有のフローステップが実行されると、追加の手順が自動的に実行される場合があります。 ルールは次のとおりです。
 
 これらのルールは、個人が現在 [Salesforce.com](https://Salesforce.com){target="_blank"} に取引先責任者またはリードとして存在しない場合に適用されます。
 
@@ -48,6 +51,6 @@ ht-degree: 82%
  </tbody>
 </table>
 
-**[!UICONTROL SFDC Type]** フィルターを演算子を「[!UICONTROL 空でない]」に設定して使用すると、スマートリスト内の SFDC レコードを除外できます。すべての SFDC レコードでこのフィールドの値が設定されます。
+**[!UICONTROL SFDC Type]** フィルターを演算子を「[!UICONTROL 空でない]」に設定して使用すると、スマートリスト内の SFDC レコードを除外できます。 すべての SFDC レコードでこのフィールドの値が設定されます。
 
 これらの自動アクションは、リードが現在 [Salesforce.com &#x200B;](https://salesforce.com){target="_blank"} に存在しない場合にのみ発生します。

@@ -1,11 +1,14 @@
 ---
-description: insightのセールスアクションの注目すべきアクションについて説明します。 MarketoとSalesforceで主要なアクティビティをログに記録して表示する方法を理解します。
+description: Sales Insight Actionsの注目のアクションについて説明します。 MarketoとSalesforceで、主要なアクティビティがどのようにログに記録され、表示されるかを把握できます。
 title: セールスインサイトアクションでの注目のアクション
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/--be0j0yB-bSIgIqwXzBN2tIXb715oyun3RNqPj5-F0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: 246
 ht-degree: 91%
 
 ---
@@ -16,7 +19,7 @@ ht-degree: 91%
 
 ## 注目のアクションとは何でしょうか。 {#what-is-an-interesting-moment}
 
-それは、あなた次第です。どんな情報がセールスチームに関係あるのかを自分で決定します。セールスチームがリードについて知りたいのは、例えば次のようなことです。
+それは、あなた次第です。 どんな情報がセールスチームに関係あるのかを自分で決定します。 セールスチームがリードについて知りたいのは、例えば次のようなことです。
 
 * Web サイトの価格設定ページへのアクセス
 * 新製品発表メールに記載されたリンクをクリック
@@ -52,6 +55,6 @@ ht-degree: 91%
 
 ## 注目のアクションは、[!DNL Sales Insight Actions] でどのように表示されるか {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。[!DNL Salesforce] のリード所有者 ID を利用して、ユーザが所有する関連リードの注目のアクションを表示します。リード名の横にあるドロップダウンをクリックすると、メール、電話、セールスキャンペーンでリードを素早くフォローアップできます。
+注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。 [!DNL Salesforce] のリード所有者 ID を利用して、ユーザが所有する関連リードの注目のアクションを表示します。 リード名の横にあるドロップダウンをクリックすると、メール、電話、セールスキャンペーンでリードを素早くフォローアップできます。
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)

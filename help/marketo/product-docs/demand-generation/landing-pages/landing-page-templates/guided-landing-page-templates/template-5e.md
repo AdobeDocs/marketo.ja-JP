@@ -1,13 +1,18 @@
 ---
 unique-page-id: 8783926
-description: テンプレート 5E ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
+description: テンプレート 5E ガイド付きランディングページテンプレートについて説明します。 ダウンロードして、Marketoランディングページでご利用ください。
 title: テンプレート 5E
 exl-id: ca90093d-a420-4777-8ed4-970f29ffc575
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/CQ65-AdkiAswOo0YOb-aQduWnpZ9cMiDY--HhJK0HqY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 73%
+source-wordcount: 83
+ht-degree: 75%
 
 ---
 
@@ -29,4 +34,4 @@ ht-degree: 73%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[Template 5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=ja)
+[テンプレート 5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=ja)

@@ -1,12 +1,19 @@
 ---
 unique-page-id: 8782266
-description: Web キャンペーンの優先順位付けなど、Marketo Engageの web キャンペーンの優先順位付けについて説明します。 このガイドを使用して、次の手順を完了します。
+description: web キャンペーンの優先順位付けなど、Marketo Engageでのweb キャンペーンの優先順位付けについて説明します。 このガイドを使用して、次のステップを完了してください。
 title: Web キャンペーンの優先順位付け
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/MwSVFrnnG-tBShEwxhapBPm0evix-J0ZbrgvWwBZSU8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: 187
 ht-degree: 89%
 
 ---
@@ -26,7 +33,7 @@ ht-degree: 89%
 >
 >ゾーン内キャンペーンと（ウィジェットまたはダイアログ）キャンペーンが、同じページで応答することもあります。
 
-1. 「**[!UICONTROL Web キャンペーン]**」に移動します
+1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand-6.jpg)
 
@@ -40,7 +47,7 @@ ht-degree: 89%
 
    >[!TIP]
    >
-   >キャンペーンの[!UICONTROL 優先度スコア]は、キャンペーンの重複が生じる可能性があり、いずれかのキャンペーンの重要度が高い場合にのみ使用することをお勧めします。すべてのキャンペーンに優先度を設定する必要はありません。
+   >キャンペーンの[!UICONTROL 優先度スコア]は、キャンペーンの重複が生じる可能性があり、いずれかのキャンペーンの重要度が高い場合にのみ使用することをお勧めします。 すべてのキャンペーンに優先度を設定する必要はありません。
 
 1. キャンペーンを保存または起動します。
 

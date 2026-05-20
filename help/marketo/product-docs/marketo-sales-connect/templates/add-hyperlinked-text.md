@@ -1,12 +1,17 @@
 ---
 unique-page-id: 14352597
-description: ハイパーリンクされたテキストを Sales Connect テンプレートに追加する方法を説明します。 トラッキング可能なリンクを挿入し、テンプレートエディターでスタイルを設定します。
+description: Sales Connect テンプレートにハイパーリンクテキストを追加する方法を説明します。 追跡可能なリンクを挿入し、テンプレートエディターでスタイル設定します。
 title: ハイパーリンクテキストの追加
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/Y7qye77OG2UNv4iKP-w-4Z8xSeqzMmii283-gNGGG-I
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: 60
 ht-degree: 46%
 
 ---
@@ -19,6 +24,6 @@ ht-degree: 46%
 
 1. エディターで「リンク」ボタンをクリックします。
 
-1. リンク先の URL を入力します（例：「<https://www.mywebsite.com>」）。
+1. リンクするURLを入力します（例：「<https://www.mywebsite.com>」）。
 
 1. 「**[!UICONTROL OK]**」をクリックします。

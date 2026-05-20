@@ -1,13 +1,16 @@
 ---
 unique-page-id: 14352422
-description: Sales Connect でサポートされているブラウザーとメールクライアントについて説明します。 Gmail または Outlook プラグインをインストールする前に、互換性を確認してください。
+description: Sales Connectでサポートされているブラウザーとメールクライアントについて説明します。 GmailまたはOutlook プラグインをインストールする前に、互換性を確認してください。
 title: Sales Connect では、どのブラウザーとメールクライアントがサポートされていますか？
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/ts8jXpXtBIJmlsXkeBMxPEWtF4lkrmyDec6SVKx92U0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 80%
+source-wordcount: 120
+ht-degree: 83%
 
 ---
 

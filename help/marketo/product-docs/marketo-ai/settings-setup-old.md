@@ -1,12 +1,12 @@
 ---
 description: Marketo AI権限を有効にする方法、組織ルールを設定する方法、統合や通知などの設定を管理する方法について説明します。
 title: 設定と設定
-hide: true
+badge: ベータ版
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 814e1a9c3e97404e9ed227fcbdf201fde0145a7a
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 1%
+source-wordcount: '371'
+ht-degree: 2%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 >[!IMPORTANT]
 >
->Marketo AIのAlpha フェーズでは、管理者、Adobe製品管理者、マーケティングユーザー、標準ユーザーの役割に対して、_アクセスがデフォルトで_&#x200B;有効になっています。 したがって、アクセス権を持つ役割に対してオンにする代わりに、自分がオフにしている役割に対してオフにする必要があります。
+>Marketo AIのベータ版フェーズでは、管理者とAdobe製品管理者の役割に対して、_アクセスがデフォルトで_&#x200B;有効になります。 アクセス権を持つ他の役割に対して有効にする必要があります。
 
 ### すべての人にアクセス {#access-for-all}
 

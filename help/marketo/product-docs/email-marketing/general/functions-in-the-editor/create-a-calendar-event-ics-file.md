@@ -1,12 +1,15 @@
 ---
 unique-page-id: 1900563
-description: 電子メール用のカレンダーイベント （.ics） ファイルを作成する方法を説明します。 受信者がイベントを保存できるように、カレンダーの添付ファイルを追加します。
+description: メール用のカレンダーイベント（.ics）ファイルを作成する方法を説明します。 受信者がイベントを保存できるように、カレンダーの添付ファイルを追加します。
 title: カレンダーイベント（.ics）ファイルの作成
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/aFIknZh6lYrZKFnwmzk57wduoMMTly6xkNsysOWzahQ
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: 107
 ht-degree: 82%
 
 ---
@@ -31,9 +34,9 @@ ht-degree: 82%
 
    ![](assets/image2014-9-11-15-3a34-3a16.png)
 
-任務完了です。必ずテストしてみてください。
+任務完了です。 必ずテストしてみてください。
 
 >[!MORELIKETHIS]
 >
->* [メールにカレンダーイベント（.ics）を追加する](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
+>* [メールへのカレンダーイベント（.ics）の追加](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
 >* [ランディングページにカレンダーイベントの ICS ファイルを追加する](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)

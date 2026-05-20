@@ -1,19 +1,22 @@
 ---
 unique-page-id: 14352548
-description: Gmail から Sales Connect プラグインをアンインストールする方法を説明します。 必要に応じて、Gmail アカウントからプラグインを削除します。
+description: GmailからSales Connect プラグインをアンインストールする方法を説明します。 必要に応じて、Gmail アカウントからプラグインを削除します。
 title: Gmail からの Sales Connect のアンインストール方法
 exl-id: 36032005-651f-43c8-a92a-0968b52ccb86
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/HIwYaMn9Az0jbDWOG9Af-Af-xfgYUtblkFrb6hH-VIk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: 81
 ht-degree: 76%
 
 ---
 
 # Gmail からの [!DNL Sales Connect] のアンインストール方法 {#how-to-uninstall-sales-connect-from-gmail}
 
-Gmail 用の [!DNL Sales Connect] プラグインは、ブラウザーの拡張機能を通じて実行されます。Gmail で [!DNL Sales Connect] を削除するには、削除する必要があります。
+Gmail 用の [!DNL Sales Connect] プラグインは、ブラウザーの拡張機能を通じて実行されます。 Gmail で [!DNL Sales Connect] を削除するには、削除する必要があります。
 
 1. **[!DNL Chrome]** で、ブラウザーウィンドウの右上隅にある 3 本の線をクリックします。
 

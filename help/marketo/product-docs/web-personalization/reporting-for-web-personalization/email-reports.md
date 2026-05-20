@@ -1,12 +1,23 @@
 ---
 unique-page-id: 4719338
-description: 組織、人物、最もパフォーマンスの高いキャンペーン、概要レポートなど、web Personalization用の自動メールレポートについて説明します。 ユーザー設定で受け取るレポートをカスタマイズします。
+description: 組織、人物、最もパフォーマンスの高いキャンペーン、概要レポートなど、Web Personalizationの自動メールレポートについて説明します。 ユーザー設定で受け取るレポートをカスタマイズします。
 title: メールレポート
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/zRp6gzCiiXIdVvJYd3Lrg4AhnqldJ7iGKijK9QA-DVg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '435'
+source-wordcount: 438
 ht-degree: 94%
 
 ---
@@ -55,7 +66,7 @@ ht-degree: 94%
 
 ![](assets/six.png)
 
-概要レポートは、クリック数とパーソナライズされたキャンペーンまたは推奨コンテンツにエンゲージし、その後認識済み顧客になった人数（ダイレクトまたはアシスト）に基づいて、すべてのキャンペーンと推奨コンテンツのパフォーマンスについてのメール（月次または四半期）がユーザに送信されます。このレポートは、結果を前月または前四半期と比較します。
+概要レポートは、クリック数とパーソナライズされたキャンペーンまたは推奨コンテンツにエンゲージし、その後認識済み顧客になった人数（ダイレクトまたはアシスト）に基づいて、すべてのキャンペーンと推奨コンテンツのパフォーマンスについてのメール（月次または四半期）がユーザに送信されます。 このレポートは、結果を前月または前四半期と比較します。
 
 >[!NOTE]
 >
@@ -67,6 +78,6 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->Marketo web パーソナライゼーションは、web サイトで入力されたフォームでの web 訪問者のメールアドレスを取り込みます。これは [!UICONTROL web パーソナライゼーション]の[!UICONTROL 人物]ページに表示され、概要レポートで使用される人物です。
+>Marketo web パーソナライゼーションは、web サイトで入力されたフォームでの web 訪問者のメールアドレスを取り込みます。 これは [!UICONTROL web パーソナライゼーション]の[!UICONTROL 人物]ページに表示され、概要レポートで使用される人物です。
 
 ユーザが受け取る自動メールレポートをカスタマイズするには、[ユーザ設定](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)の節を参照にしてください。

@@ -1,12 +1,23 @@
 ---
 unique-page-id: 2359496
-description: スニペットにトークン、画像、ファイル、リッチテキストを追加する方法を説明します。 Design Studio のスニペットエディターを使用して、トークン、画像/ファイルおよびテキスト要素を追加します。
+description: トークン、画像、ファイル、またはリッチテキストをスニペットに追加する方法について説明します。 Design Studioのスニペットエディターを使用して、トークン、画像/ファイル、テキスト要素を追加します。
 title: スニペットへのコンテンツの追加
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+TQID: https://experienceleague.adobe.com/J0v5gFgc-J3CzqvT-9-N3SA3AWVTDhFQZWfoGa104fc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: 220
 ht-degree: 87%
 
 ---
@@ -21,7 +32,7 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->スニペットに [Marketo メール構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)を埋め込むことはできません。Marketo メール構文はメールで機能&#x200B;**しません**。スニペットは本文コンテンツ（HTML+テキスト）にする必要があります。
+>スニペットに [Marketo メール構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)を埋め込むことはできません。Marketo メール構文はメールで機能&#x200B;**しません**。 スニペットは本文コンテンツ（HTML+テキスト）にする必要があります。
 
 1. **[!UICONTROL Design Studio]** に移動します。
 
@@ -51,7 +62,7 @@ ht-degree: 87%
 
    >[!NOTE]
    >
-   >独自の画像やファイルを Marketo に追加できます。画像とファイルについて詳しくは、[こちら](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)を参照してください。
+   >独自の画像やファイルを Marketo に追加できます。 画像とファイルについて詳しくは、[こちら](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)を参照してください。
 
 1. 使用する&#x200B;**画像**&#x200B;を選択して、「**[!UICONTROL 挿入]**」をクリックします。
 
@@ -83,7 +94,7 @@ ht-degree: 87%
    >
    >画像、リンク、書式設定は、「テキスト」バージョンでは削除されます。
 
-これで完了です。これで、スニペット用の様々なコンテンツを作成できます。
+これで完了です。 これで、スニペット用の様々なコンテンツを作成できます。
 
 >[!MORELIKETHIS]
 >

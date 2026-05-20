@@ -1,19 +1,22 @@
 ---
 unique-page-id: 5472314
-description: Marketoのフリーフォームのランディングページで画像へのリンクを追加する方法を説明します。 画像をクリック可能にし、URL を指定します。
+description: Marketoの自由形式ランディングページで、画像にリンクを追加する方法を説明します。 画像をクリック可能にし、URLを指定します。
 title: フリーフォームランディングページで画像にリンクを追加する
 exl-id: ad845417-2414-407f-998b-eeebe38f328f
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 80%
+source-wordcount: 125
+ht-degree: 45%
 
 ---
 
 # フリーフォームランディングページで画像にリンクを追加する {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
-ランディングページ上の画像を別のページやサイトへのリンクにしたい場合、手順は以下のとおりです。
+ランディングページ上の画像をクリック可能なリンクにするには、次の手順に従います。
 
 >[!PREREQUISITES]
 >
@@ -31,8 +34,8 @@ ht-degree: 80%
 
    ![](assets/add-link.png)
 
-   これで完了です。これで、ランディングページ上の画像へのリンクが正常に追加されました。[ページをプレビュー](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)すると、実際にそれを見ることができます。
+   ランディングページの画像へのリンクが正常に追加されました。 [ページをプレビュー](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)すると、実際にそれを見ることができます。
 
 >[!TIP]
 >
->ページを必ずテストしてください。
+>ページを検証。

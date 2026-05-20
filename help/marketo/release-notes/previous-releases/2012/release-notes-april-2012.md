@@ -4,9 +4,15 @@ description: リリースノート - 2012年4月 - Marketo ドキュメント - 
 title: リリースノート - 2012年4月
 exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/Z1tELq97oWQ2jJnDzQzQ-KntHmbvjWDwXgePeQ59X3Y
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: 368
 ht-degree: 100%
 
 ---
@@ -15,7 +21,7 @@ ht-degree: 100%
 
 ## セグメントフィルターとトリガー {#segmentation-filters-and-triggers}
 
-同じリードのグループを一貫してターゲットしますか？その場合、スマートリストのセグメント化を利用してターゲティングしたリードを特定します。セグメント化を使用すると、リードデータベース全体が常にセグメント化され、一貫性を保つためにプログラム全体で再利用できます。セグメント化の結果は、リクエスト時にスマートリストを実行する必要がないので、すばやく取り込まれます。
+同じリードのグループを一貫してターゲットしますか？ その場合、スマートリストのセグメント化を利用してターゲティングしたリードを特定します。 セグメント化を使用すると、リードデータベース全体が常にセグメント化され、一貫性を保つためにプログラム全体で再利用できます。 セグメント化の結果は、リクエスト時にスマートリストを実行する必要がないので、すばやく取り込まれます。
 
 ![](assets/image2014-9-23-10-3a3-3a57.png)
 
@@ -26,13 +32,13 @@ ht-degree: 100%
 
 ## [!DNL GoToWebinar] と [!DNL WebEx] の確認メールの簡略化（Adobe Connect と [!DNL ON24] は近日リリース予定） {#easier-confirmation-emails-for-gotowebinar-and-webex-adobe-connect-and-on-coming-soon}
 
-各リードの一意の登録確認 URL を表示するメンバートークンを作成することで、確認 URL を簡略化しました。別のトークンを使用してこの URL を作成する必要はなくなります。現在は、[!DNL GoToWebinar] および [!DNL WebEx] のお客様が利用でき、次回のリリースで Adobe Connect と [!DNL ON24] で利用できるようになります。
+各リードの一意の登録確認 URL を表示するメンバートークンを作成することで、確認 URL を簡略化しました。 別のトークンを使用してこの URL を作成する必要はなくなります。 現在は、[!DNL GoToWebinar] および [!DNL WebEx] のお客様が利用でき、次回のリリースで Adobe Connect と [!DNL ON24] で利用できるようになります。
 
 ![](assets/image2014-9-23-10-3a4-3a18.png)
 
 ## シングルクリックで複数の画像やファイルを一度にアップロードできます。 {#upload-multiple-images-and-files-with-a-single-click}
 
-画像やファイルを Marketo に読み込む際に、時間を節約し、より効率的に作業を行うことができます。[!DNL Firefox] または [!DNL Google Chrome] を使用している場合は、複数のファイルを選択して一度にアップロードできます。アップロードできるファイルの数に制限はありませんが、ファイルごとの個々のサイズの上限は 50 MB です。
+画像やファイルを Marketo に読み込む際に、時間を節約し、より効率的に作業を行うことができます。 [!DNL Firefox] または [!DNL Google Chrome] を使用している場合は、複数のファイルを選択して一度にアップロードできます。 アップロードできるファイルの数に制限はありませんが、ファイルごとの個々のサイズの上限は 50 MB です。
 
 メモ：現時点では、ブラウザーの制限により、この機能は [!DNL Internet Explorer] ではサポートされていません。
 
@@ -42,7 +48,7 @@ ht-degree: 100%
 
 ## メール内のテキストの移動 {#move-text-in-an-email}
 
-メール内のテキストブロックの順序を変更できます。テキストエディター内で、テキストブロックを選択します。編集アイコンをクリックすると、ブロックを上下に移動するオプションが表示されます。
+メール内のテキストブロックの順序を変更できます。 テキストエディター内で、テキストブロックを選択します。編集アイコンをクリックすると、ブロックを上下に移動するオプションが表示されます。
 
 ![](assets/image2014-9-23-10-3a5-3a1.png)
 

@@ -1,19 +1,26 @@
 ---
 unique-page-id: 4719348
-description: セグメントにラベルを付ける（セグメントのラベル付け）を使用して、Marketo Engageでセグメントにラベルを付ける方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: Marketo Engageで「セグメントにラベルを付ける」を使用してセグメントにラベルを付ける方法について説明します。 このガイドを使用して、次のステップを完了してください。
 title: セグメントのラベル付け
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/0i6IGppkmXmVDl5awDlsmqMQ2hFSU4w8ILVnIwAVr8M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 83%
+source-wordcount: 139
+ht-degree: 82%
 
 ---
 
 # セグメントのラベル付け {#label-your-segment}
 
-多くのセグメントがあってスクロールが面倒になっている場合、ラベルを使用してセグメントにタグを付けると、セグメントをすばやく見つけることができます。
+多くのセグメントがあってスクロールが面倒になっている場合、 ラベルを使用してセグメントにタグを付けると、セグメントをすばやく見つけることができます。
 
 ## セグメントのタグ付け {#tag-a-segment}
 
@@ -35,6 +42,6 @@ ht-degree: 83%
 
    >[!NOTE]
    >
-   >「新規作成」ボタンに、新しいラベルの名前が表示されます。ラベルが長すぎると、「新規作成」が表示されない場合があります。
+   >「新規作成」ボタンに、新しいラベルの名前が表示されます。 ラベルが長すぎると、「新規作成」が表示されない場合があります。
 
-これで完了です。これで、セグメントのラベルを割り当てて作成する方法がわかりました。
+これで完了です。 これで、セグメントのラベルを割り当てて作成する方法がわかりました。

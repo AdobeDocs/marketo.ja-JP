@@ -1,11 +1,14 @@
 ---
-description: insightの Sales Actions で問い合わせ理由について説明します。 呼び出しを行う際に理由を設定して、MarketoとSalesforceに記録されるようにします。
+description: Sales Insight Actionsのコール理由について説明します。 呼び出しを行う際に理由を設定して、MarketoとSalesforceにログインできるようにします。
 title: 通話理由
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/EYf6JhfnBf-Xk6JeRQs4ojd-F-H3C4iT8DbgFfuyrSk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: 181
 ht-degree: 87%
 
 ---
@@ -60,7 +63,7 @@ ht-degree: 87%
 
 ## 通話理由の選択 {#select-a-call-reason}
 
-通話理由が有効になったら、ユーザは、通話する際に 1 つ選択できます。
+通話理由が有効になったら、 ユーザは、通話する際に 1 つ選択できます。
 
 1. 通話ボタンをクリックして、ダイヤラーを起動します。
 

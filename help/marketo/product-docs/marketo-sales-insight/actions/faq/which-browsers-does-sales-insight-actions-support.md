@@ -1,12 +1,15 @@
 ---
-description: Sales Insight Actions がサポートしているブラウザーを確認します。 最適なエクスペリエンスを得るには、サポートされているブラウザーを使用します。
+description: Sales Insight Actionsがサポートするブラウザーを確認します。 最適なエクスペリエンスを得るには、サポートされているブラウザーを使用してください。
 title: セールスインサイトアクションはどのブラウザーをサポートしていますか？
 exl-id: 44610377-e3c3-435e-beb0-85e39c83f6fc
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/OYjJ1Kk-RFCIob4Ffpfxbffk0qh5VjnY9iiM-5Lg-Fw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 75%
+source-wordcount: 81
+ht-degree: 80%
 
 ---
 
@@ -39,4 +42,4 @@ Marketo セールスインサイト Actions は、現在、次のブラウザー
  </tbody>
 </table>
 
-最高のエクスペリエンスを得るためには、**ブラウザーを最新に保って**&#x200B;ください。
+最高のエクスペリエンスを得るには、**ブラウザーを最新に保って**&#x200B;ください。

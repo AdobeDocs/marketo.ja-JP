@@ -4,9 +4,14 @@ description: リリースノート - 2013年12月 - Marketo ドキュメント -
 title: リリースノート - 2013年12月
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/6Tx70TqqeIqPCZGmyThIr56sTtWQkO62kf39-sFQGzY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: 311
 ht-degree: 100%
 
 ---
@@ -19,7 +24,7 @@ ht-degree: 100%
 
 ## メールプログラム {#email-program}
 
-メールの送信がこれまで以上に簡単になりました。新しい[メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)を使用して、デフォルトプログラムの代わりにバッチメールを送信します。スマートリスト、メール、送信スケジュールを設定すれば準備完了です。
+メールの送信がこれまで以上に簡単になりました。 新しい[メールプログラム](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.md)を使用して、デフォルトプログラムの代わりにバッチメールを送信します。 スマートリスト、メール、送信スケジュールを設定すれば準備完了です。
 
 ![](assets/image2014-9-22-17-3a19-3a55.png)
 
@@ -29,15 +34,15 @@ ht-degree: 100%
 
 ## メール A/B テスト {#email-a-b-testing}
 
-新しいメールプログラムで、メール送信母集団全体の割合に対して [A/B テスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を実行します。件名、差出人アドレス、日時、メール全体の 4 種類のテストから選択します。また、手動で勝者を昇格させたり、事前に定義した勝者条件に基づいてシステムで昇格させたりすることもできます。A/B テストを含む新しいメールプログラムをイベントとデフォルトのプログラムにネストして、メールを簡単に送信できます。
+新しいメールプログラムで、メール送信母集団全体の割合に対して [A/B テスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を実行します。 件名、差出人アドレス、日時、メール全体の 4 種類のテストから選択します。 また、手動で勝者を昇格させたり、事前に定義した勝者条件に基づいてシステムで昇格させたりすることもできます。 A/B テストを含む新しいメールプログラムをイベントとデフォルトのプログラムにネストして、メールを簡単に送信できます。
 
 ## チャンピオン／挑戦者のメールテスト {#email-champion-challenger-testing}
 
-[チャンピオン／挑戦者テスト](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)は A/B テストに似ていますが、トリガーメールに使用され、勝者を自動的に送信しないという点が異なります。このテストでは、チャンピオンと呼ばれる確立された方法に対して、挑戦者を導入することでチャンピオンがまだ最適な方法かどうかをテストします。さらに、チャンピオン／挑戦者メールテストは、エンゲージメントプログラムストリーム内で使用できます。
+[チャンピオン／挑戦者テスト](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)は A/B テストに似ていますが、トリガーメールに使用され、勝者を自動的に送信しないという点が異なります。 このテストでは、チャンピオンと呼ばれる確立された方法に対して、挑戦者を導入することでチャンピオンがまだ最適な方法かどうかをテストします。 さらに、チャンピオン／挑戦者メールテストは、エンゲージメントプログラムストリーム内で使用できます。
 
 ## [!UICONTROL メール分析]でのリードの詳細 {#lead-details-in-email-analysis}
 
-[!UICONTROL メール分析]に、追加のリード属性と会社属性を導入しました。[!UICONTROL 業種]や[!UICONTROL リードソース]などの新しい属性別にメール統計をグループ化して表示できるようになりました。
+[!UICONTROL メール分析]に、追加のリード属性と会社属性を導入しました。 [!UICONTROL 業種]や[!UICONTROL リードソース]などの新しい属性別にメール統計をグループ化して表示できるようになりました。
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 
@@ -45,4 +50,4 @@ ht-degree: 100%
 
 ## [!DNL BrightTALK] イベントアダプターの機能強化 {#enhanced-brighttalk-event-adapter}
 
-[!DNL BrightTALK] チャネルやイベントから Marketo へ登録者を抽出できます。この情報を使用して、他のマーケティングキャンペーンに通知できます。
+[!DNL BrightTALK] チャネルやイベントから Marketo へ登録者を抽出できます。 この情報を使用して、他のマーケティングキャンペーンに通知できます。

@@ -1,12 +1,25 @@
 ---
 unique-page-id: 1147358
-description: メールにスニペットを追加する方法を説明します。 再利用可能なコンテンツブロックをスニペットライブラリからメールに挿入します。
+description: スニペットをメールに追加する方法を説明します。 スニペットライブラリの再利用可能なコンテンツブロックをメールに挿入します。
 title: メールにスニペットを追加する
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/AKlhMJJcKhdOqpfoEFlSTzGAthTFXSni57D1L2L2yVc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: 164
 ht-degree: 87%
 
 ---
@@ -21,7 +34,7 @@ ht-degree: 87%
 
 >[!NOTE]
 >
->スニペットには [Marketo メール構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)を埋め込むことはできません。これはメールでは動作&#x200B;**しません**。スニペットは本文コンテンツ（HTML+テキスト）にする必要があります。
+>スニペットには [Marketo メール構文](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)を埋め込むことはできません。これはメールでは動作&#x200B;**しません**。 スニペットは本文コンテンツ（HTML+テキスト）にする必要があります。
 
 1. 目的のメールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
@@ -43,6 +56,6 @@ ht-degree: 87%
 
    >[!NOTE]
    >
-   >スニペットを更新および承認するたびに、変更がメールに反映されます。スニペットを[ドラフトなし](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)で承認しない限り、メールはドラフトされます
+   >スニペットを更新および承認するたびに、変更がメールに反映されます。 スニペットを[ドラフトなし](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)で承認しない限り、メールはドラフトされます
 
 これにより、動的コンテンツをすばやく簡単に再利用できます。

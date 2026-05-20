@@ -1,18 +1,21 @@
 ---
-description: Dynamics とMarketo間のデフォルトのMicrosoft Dynamics フィールドマッピングについて説明します。 リード、連絡先、アカウント、商談の各フィールドが自動的にマッピングされる仕組みを確認します。
+description: DynamicsとMarketo間のデフォルトのMicrosoft Dynamics フィールドマッピングについて説明します。 リード、取引先責任者、アカウント、商談のフィールドを自動的にマッピングする方法をご確認ください。
 title: デフォルトの Dynamics フィールドマッピング
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1049'
-ht-degree: 97%
+source-wordcount: 1052
+ht-degree: 98%
 
 ---
 
 # デフォルトの Dynamics フィールドマッピング {#default-dynamics-field-mapping}
 
-Marketo Engage アカウントを Microsoft と最初に同期すると、Marketo はビルトインの Dynamics フィールドと Marketo フィールドの間でこれらの関連付けを自動的に行います。Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
+Marketo Engage アカウントを Microsoft と最初に同期すると、Marketo はビルトインの Dynamics フィールドと Marketo フィールドの間でこれらの関連付けを自動的に行います。  Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
 
 ## リードフィールド {#lead-fields}
 
@@ -244,7 +247,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>[!UICONTROL 所有者]</td>
+      <td>[!UICONTROL 所有者] </td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -431,7 +434,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
     <tr>
       <td>[!UICONTROL 個人の注記]</td>
       <td>[!UICONTROL 説明]</td>
-      <td>description</td>
+      <td>description </td>
     </tr>
     <tr>
       <td>[!UICONTROL 個人スコア]</td>
@@ -441,7 +444,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
     <tr>
       <td>[!UICONTROL 個人の注記]</td>
       <td>[!UICONTROL 説明]</td>
-      <td>description</td>
+      <td>description </td>
     </tr>
   </tbody>
 </table>
@@ -459,7 +462,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>[!UICONTROL 所有者]</td>
+      <td>[!UICONTROL 所有者] </td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -603,7 +606,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>[!UICONTROL 所有者]</td>
+      <td>[!UICONTROL 所有者] </td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -649,7 +652,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
     </tr>
     <tr>
       <td>[!UICONTROL 予測値]</td>
-      <td>[!UICONTROL 予測収益]</td>
+      <td>[!UICONTROL 予測 収益]</td>
       <td>estimatedValue</td>
     </tr>
     <tr>
@@ -673,7 +676,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
       <th>MS Dynamics API 名</th>
     </tr>
     <tr>
-      <td>[!UICONTROL 所有者]</td>
+      <td>[!UICONTROL 所有者] </td>
       <td>ownerid</td>
     </tr>
     <tr>
@@ -703,7 +706,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
     </tr>
     <tr>
       <td>[!UICONTROL Microsoft タイプ]</td>
-      <td>リードまたは取引先責任者。空の場合、リードは Marketo に人物としてのみ存在します</td>
+      <td>リードまたは連絡先。 空の場合、リードは Marketo に人物としてのみ存在します</td>
     </tr>
     <tr>
       <td>[!UICONTROL Microsoft の作成日]</td>

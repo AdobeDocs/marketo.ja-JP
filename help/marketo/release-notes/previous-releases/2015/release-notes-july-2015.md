@@ -4,9 +4,12 @@ description: リリースノート - 2015年7月 - Marketo ドキュメント - 
 title: リリースノート - 2015年7月
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/WyIgJBqWo7to9K-VrflUdWCGcF7jH-nF3vc7YRoriks
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: 278
 ht-degree: 96%
 
 ---
@@ -15,14 +18,14 @@ ht-degree: 96%
 
 ## [!DNL Marketo Moments] {#marketo-moments}
 
-昼休憩での外出中、メールのスケジュールを変更する必要がある場合App Store または [!DNL Google Play] から入手できる [!DNL Marketo Moments] アプリを使用すると、iPhone、iPad、Android の携帯電話からメールやイベントキャンペーンのリアルタイムの状況や、今後の予定を確認できます。
+昼休憩での外出中、メールのスケジュールを変更する必要がある場合 App Store または [!DNL Google Play] から入手できる [!DNL Marketo Moments] アプリを使用すると、iPhone、iPad、Android の携帯電話からメールやイベントキャンペーンのリアルタイムの状況や、今後の予定を確認できます。
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## リッチテキストエディターのアップデート {#rich-text-editor-update}
 
-合理化されたテキスト書式設定、画像編集、リンク挿入、HTML 編集など、テキストエディターが最新のルックアンドフィールで新しくなりました。HTML エディターに最小限の検証機能が追加され、コード編集の制限が緩和されました。
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` このアップデートは、7月のリリースから数日以内に自動的に公開されます。その後、**[!UICONTROL 管理者]／[!UICONTROL メール]／[!UICONTROL エディター設定を編集]**&#x200B;から、新バージョンと旧バージョンのエディターを切り替えることができます。
+合理化されたテキスト書式設定、画像編集、リンク挿入、HTML 編集など、テキストエディターが最新のルックアンドフィールで新しくなりました。 HTML エディターに最小限の検証機能が追加され、コード編集の制限が緩和されました。
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` このアップデートは、7月のリリースから数日以内に自動的に公開されます。 その後、**[!UICONTROL 管理者]／[!UICONTROL メール]／[!UICONTROL エディター設定を編集]**&#x200B;から、新バージョンと旧バージョンのエディターを切り替えることができます。
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -42,15 +45,15 @@ ht-degree: 96%
 
 ## キャンペーン優先度の設定 {#campaign-prioritization}
 
-パーソナライズされた RTP キャンペーンをいくつか設定し、一部が他のキャンペーンと重複する可能性があることに気付いた場合は、先に進み、キャンペーンの RTP を他のキャンペーンよりも優先するように設定します。
+パーソナライズされた RTP キャンペーンをいくつか設定し、一部が他のキャンペーンと重複する可能性があることに気付いた場合は、 先に進み、キャンペーンの RTP を他のキャンペーンよりも優先するように設定します。
 
 ![](assets/image2015-7-9-20-3a20-3a58.png)
 
 ## 会社 API {#company-api}
 
-**REST API を介した会社オブジェクトアクセス**：REST APIで、Marketo 会社（別名「アカウント」）オブジェクトにアクセスできるようになりました。つまり、Marketo で作成した会社オブジェクトの読み取り、更新、削除を行い、更新された[!DNL Lead] API を使用して、それらの会社にリードを関連付けることができます。
+**REST API を介した会社オブジェクトアクセス**：REST APIで、Marketo 会社（別名「アカウント」）オブジェクトにアクセスできるようになりました。 つまり、Marketo で作成した会社オブジェクトの読み取り、更新、削除を行い、更新された[!DNL Lead] API を使用して、それらの会社にリードを関連付けることができます。
 
-[ 詳細 ]<https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies>）については、Company API のリファレンスガイドを参照してください。
+会社APIのリファレンスガイドで[more]<https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies>）を学びましょう。
 
 ## メール配信へのアクセス {#access-email-deliverability}
 

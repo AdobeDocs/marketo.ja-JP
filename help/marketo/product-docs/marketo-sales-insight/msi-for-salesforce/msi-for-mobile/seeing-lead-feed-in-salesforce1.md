@@ -1,12 +1,17 @@
 ---
 unique-page-id: 7512654
-description: Salesforce Mobile （Salesforce1）でリードフィードを表示する方法を説明します。 モバイルの MSI パネルでリアルタイムのリードアクティビティを表示します。
+description: Salesforce Mobile （Salesforce1）でリードフィードを確認する方法を説明します。 モバイルのMSI パネルで、リードのリアルタイムのアクティビティを表示できます。
 title: Salesforce1 でのリードフィードの表示
 exl-id: c6811752-0e60-4b38-88bb-7b1061ee6f7b
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/jNgJLm4LvwGsZZuys5TeYm1-XuLLWTYFXetbD-NNrOY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: 85
 ht-degree: 74%
 
 ---
@@ -27,7 +32,7 @@ ht-degree: 74%
 
    ![](assets/image2015-4-23-17-3a19-3a16.png)
 
-   完璧です。これで、リードフィードへのアクセス方法が分かりました。
+   完璧です。 これで、リードフィードへのアクセス方法が分かりました。
 
    ![](assets/image2015-4-23-17-3a20-3a12.png)
 

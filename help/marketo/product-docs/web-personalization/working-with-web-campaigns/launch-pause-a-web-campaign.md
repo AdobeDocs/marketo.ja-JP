@@ -1,12 +1,19 @@
 ---
 unique-page-id: 4719406
-description: Web キャンペーンのローンチや一時停止など、Marketo Engageでの web キャンペーンのローンチ/一時停止について説明します。 このガイドを使用して、次の手順を完了します。
+description: web キャンペーンの起動/一時停止など、Marketo Engageでのweb キャンペーンの起動/一時停止について説明します。 このガイドを使用して、次のステップを完了してください。
 title: Web キャンペーンの起動／一時停止
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/2aoTXa5-MW2w0OxaB3cX7WZ-skSb1sf-Yy0s5q44E8w
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: 180
 ht-degree: 87%
 
 ---
@@ -29,7 +36,7 @@ Web キャンペーンは [!UICONTROL web キャンペーン]ページまたは 
 
    ![](assets/image2014-11-26-17-3a26-3a38.png)
 
-1. キャンペーンが一時停止している場合は、「**[!UICONTROL 一時停止]**」をクリックしてキャンペーンのステータスを「**[!UICONTROL 起動済み]**」に変更します。これにより、キャンペーンがアクティベートされ、開始されます。
+1. キャンペーンが一時停止している場合は、「**[!UICONTROL 一時停止]**」をクリックしてキャンペーンのステータスを「**[!UICONTROL 起動済み]**」に変更します。 これにより、キャンペーンがアクティベートされ、開始されます。
 
    ![](assets/image2014-11-26-17-3a28-3a59.png)
 
@@ -41,7 +48,7 @@ Web キャンペーンは [!UICONTROL web キャンペーン]ページまたは 
 
    ![](assets/image2014-11-26-17-3a31-3a37.png)
 
-1. 「**[!UICONTROL 保存]**」をクリックして、キャンペーンを保存して一時停止します。「**[!UICONTROL 起動]**」をクリックすると、キャンペーンが起動してアクティベートします。
+1. 「**[!UICONTROL 保存]**」をクリックして、キャンペーンを保存して一時停止します。 「**[!UICONTROL 起動]**」をクリックすると、キャンペーンが起動してアクティベートします。
 
    ![](assets/image2014-11-26-17-3a32-3a48.png)
 

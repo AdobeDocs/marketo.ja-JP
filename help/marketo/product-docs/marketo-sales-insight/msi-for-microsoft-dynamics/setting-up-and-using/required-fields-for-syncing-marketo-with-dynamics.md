@@ -1,12 +1,17 @@
 ---
 unique-page-id: 11375827
-description: Marketoと Dynamics を同期するための必須フィールドについて説明します。 MSI が正しく機能するように、適切なフィールドがマッピングされていることを確認します。
+description: MarketoとDynamicsを同期するための必須フィールドについて説明します。 MSIが正しく動作するように、適切なフィールドがマッピングされていることを確認します。
 title: Marketo と Dynamics を同期するための必須フィールド
 exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/2MpYFkohrwAJ20pKL9zISg2b0jTqougMaRLYJFYHbQs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: 181
 ht-degree: 88%
 
 ---
@@ -19,7 +24,7 @@ ht-degree: 88%
 * 緊急度
 * 相対スコア
 
-これらのフィールドのいずれかが見つからない場合は、見つからないフィールドの名前のエラーメッセージが Marketo に表示されます。この問題を修正するには、ご自身のインスタンスで、**[!UICONTROL リード]**&#x200B;および&#x200B;**[!UICONTROL 連絡先]**&#x200B;フィールドが両方とも同期されていることを確認してください。同期されていない場合は、追加します。
+これらのフィールドのいずれかが見つからない場合は、見つからないフィールドの名前のエラーメッセージが Marketo に表示されます。 この問題を修正するには、ご自身のインスタンスで、**[!UICONTROL リード]**&#x200B;および&#x200B;**[!UICONTROL 連絡先]**&#x200B;フィールドが両方とも同期されていることを確認してください。 同期されていない場合は、追加します。
 
 同期フィールドを確認して追加する方法を次に示します。
 
@@ -57,4 +62,4 @@ ht-degree: 88%
 
 >[!MORELIKETHIS]
 >
->[リード／連絡先レコードの星と炎の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)
+>[リード／取引先責任者レコードの星と炎の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/setting-up-stars-and-flames-for-lead-contact-records.md)

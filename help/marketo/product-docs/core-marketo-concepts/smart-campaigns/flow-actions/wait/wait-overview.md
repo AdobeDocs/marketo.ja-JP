@@ -1,12 +1,19 @@
 ---
 unique-page-id: 1146950
-description: スマートキャンペーンの待機フローステップについて説明します。 続行する前に、一定期間、または特定の日付までフローを一時停止します。
+description: スマートキャンペーンの待機フローステップについて説明します。 続行する前に、フローを一定期間または特定の日付まで一時停止します。
 title: 待機
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/YcQf0jQZ16GLskR8ZgfUo-JTttNjmsdM4T01OM8-hmA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2:
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: 205
 ht-degree: 89%
 
 ---
@@ -17,15 +24,15 @@ ht-degree: 89%
 
 ![](assets/wait-overview-1.png)
 
-「4 hours」のように、自然な言葉で入力できることに注目してください。ただし、省略形は&#x200B;**使用しない**&#x200B;でください（例：4 hrs）。スマートキャンペーンは引き続き実行されますが、待機ステップは無視されます。
+「4 hours」のように、自然な言葉で入力できることに注目してください。 ただし、省略形は&#x200B;**使用しない**&#x200B;でください（例：4 hrs）。 スマートキャンペーンは引き続き実行されますが、待機ステップは無視されます。
 
 >[!CAUTION]
 >
->待機ステップの期間を変更しても、既に待機中のリードには影響しません。例：5 日間の待機ステップにリードが進行した後で、待機期間が 7 日間に変更された場合、リードは次のフローステップに進むまで、もともと指定されていた 5 日間にわたり待機します。
+>待機ステップの期間を変更しても、既に待機中のリードには影響しません。 例：5 日間の待機ステップにリードが進行した後で、待機期間が 7 日間に変更された場合、リードは次のフローステップに進むまで、もともと指定されていた 5 日間にわたり待機します。
 
 >[!TIP]
 >
->既に待機ステップにいるリードが、待機期間が終了したときに進行しないようにする場合は、待機ステップの直後に「[フローから削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)」を挿入します。「[選択肢を追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)」オプションを使用して、削除するリードを指定します。
+>既に待機ステップにいるリードが、待機期間が終了したときに進行しないようにする場合は、待機ステップの直後に「[フローから削除](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md)」を挿入します。 「[選択肢を追加](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)」オプションを使用して、削除するリードを指定します。
 
 待機フローステップには、次の 3 つの用途があります。
 

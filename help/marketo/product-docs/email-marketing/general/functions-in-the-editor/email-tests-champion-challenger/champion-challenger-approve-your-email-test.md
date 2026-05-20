@@ -1,19 +1,22 @@
 ---
 unique-page-id: 2359581
-description: チャンピオン/チャレンジャーのメールテストを承認する方法を説明します。 テストを実行し、推奨結果を宣言できるように、承認を完了します。
+description: Champion/Challengerのメールテストを承認する方法をご紹介します。 テストを実行して勝者を宣言できるように、承認を完了します。
 title: チャンピオン／挑戦者：メールテストの承認
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/5UVOPS2POHH6g9n7nWU1Z4UpSr0nZnNC-RLJ1K5F4WI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: 152
 ht-degree: 85%
 
 ---
 
 # チャンピオン／挑戦者：メールテストの承認 {#champion-challenger-approve-your-email-test}
 
-承認するメールテストの設定の最後の手順です。手順は次のとおりです。
+承認するメールテストの設定の最後の手順です。 手順は以下のとおりです。
 
 >[!PREREQUISITES]
 >
@@ -33,9 +36,9 @@ ht-degree: 85%
 
    >[!NOTE]
    >
-   >テストを送信するには、トリガーキャンペーンの&#x200B;**メールを送信**&#x200B;フローステップでテストを追加したメールを選択します。また、エンゲージメントプログラムのストリームにメールを挿入することもできます。チャンピオン／挑戦者のメールはバッチキャンペーンでは機能しません。
+   >テストを送信するには、トリガーキャンペーンの&#x200B;**メールを送信**&#x200B;フローステップでテストを追加したメールを選択します。 また、エンゲージメントプログラムのストリームにメールを挿入することもできます。 チャンピオン／挑戦者のメールはバッチキャンペーンでは機能しません。
 
-   簡単でしたね。レポートをいくつか受け取ったら、チャンピオンを発表する必要があります。
+   簡単でしたね。 レポートをいくつか受け取ったら、チャンピオンを発表する必要があります。
 
    >[!MORELIKETHIS]
    >

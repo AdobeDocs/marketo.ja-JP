@@ -1,12 +1,19 @@
 ---
 unique-page-id: 6094879
-description: Web へのターゲット url の追加など、Marketo Engageで web キャンペーンにターゲット url を追加する方法について説明します。 このガイドを使用して、次の手順を完了します。
+description: webにターゲット URLを追加するなど、Marketo Engageでweb キャンペーンにターゲット URLを追加する方法について説明します。 このガイドを使用して、次のステップを完了してください。
 title: Web キャンペーンへのターゲット URL の追加
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/IrYPeEwQnyczC1KUGtKvKfmQ-gKTOqCIEVtZr9usCgk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: 282
 ht-degree: 89%
 
 ---
@@ -17,7 +24,7 @@ ht-degree: 89%
 
 ## ダイアログまたはウィジェット web キャンペーン用のターゲット URL の追加 {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. 「**[!UICONTROL Web キャンペーン]**」に移動します。
+1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
@@ -25,7 +32,7 @@ ht-degree: 89%
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. **[!UICONTROL キャンペーン名]**&#x200B;を追加します。**[!UICONTROL ターゲットセグメント]**&#x200B;を選択します。**[!UICONTROL ターゲット URL]** を追加します。
+1. **[!UICONTROL キャンペーン名]**&#x200B;を追加します。 **[!UICONTROL ターゲットセグメント]**&#x200B;を選択します。 **[!UICONTROL ターゲット URL]** を追加します。
 
    ![](assets/set-web-campaign-hands.jpg)
 
@@ -43,26 +50,26 @@ ht-degree: 89%
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>[!UICONTROL 一致時に URL パラメーターを含める]</strong></p></td>
-   <td colspan="1" rowspan="1">URL パラメーターを追加して、一致させ、このパラメーターを含む URL でキャンペーンを表示します。例：campaign=cpc</td>
+   <td colspan="1" rowspan="1">URL パラメーターを追加して、一致させ、このパラメーターを含む URL でキャンペーンを表示します。 例： campaign=cpc</td>
   </tr>
  </tbody>
 </table>
 
 ## ターゲット URL への複数の URL の追加 {#adding-multiple-urls-to-target-url}
 
-プラスアイコン（![--](assets/image2015-2-18-8-3a40-3a59.png)）をクリックすると、[!UICONTROL 複数の値を入力]ダイアログが開き、複数の URL を追加できます。1 行に 1 つの URL を追加します。
+プラスアイコン（![--](assets/image2015-2-18-8-3a40-3a59.png)）をクリックすると、[!UICONTROL 複数の値を入力]ダイアログが開き、複数の URL を追加できます。 1 行に 1 つの URL を追加します。
 
 ![](assets/image2015-2-23-18-3a15-3a57.png)
 
 >[!NOTE]
 >
 >* ダイアログおよびウィジェット web キャンペーンでは任意のページとワイルドカード（&#42;）オプションを使用できます。
->* 高度な使用例では、ゾーン内 web キャンペーンで URL パスの終わりにワイルドカードを使用できます。例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* 高度な使用例では、ゾーン内 web キャンペーンで URL パスの終わりにワイルドカードを使用できます。 例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 >* URL では大文字と小文字が区別されます
 
 ## ゾーン内 web キャンペーン用のターゲット URL の追加 {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. 「**[!UICONTROL Web キャンペーン]**」に移動します。
+1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
@@ -70,11 +77,11 @@ ht-degree: 89%
 
    ![](assets/create-new-web-campaign-hand.jpg)
 
-1. **[!UICONTROL キャンペーン名]**&#x200B;を追加します。**[!UICONTROL ターゲットセグメント]**&#x200B;を選択します。**[!UICONTROL ターゲット URL]** を追加します。
+1. **[!UICONTROL キャンペーン名]**&#x200B;を追加します。 **[!UICONTROL ターゲットセグメント]**&#x200B;を選択します。 **[!UICONTROL ターゲット URL]** を追加します。
 
    >[!NOTE]
    >
-   >ゾーン内のターゲット URL は、特定の URL を 1 つ以上定義する必要があります。高度な使用例では、ゾーン内 web キャンペーンで URL パスの終わりにワイルドカードを使用できます。例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >ゾーン内のターゲット URL は、特定の URL を 1 つ以上定義する必要があります。 高度な使用例では、ゾーン内 web キャンペーンで URL パスの終わりにワイルドカードを使用できます。 例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 

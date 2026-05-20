@@ -1,12 +1,17 @@
 ---
 unique-page-id: 12981204
-description: 上位ビュー、コンバージョン率、トレンドコンテンツ、提案に関する Predictive Content Analytics ダッシュボードについて説明します。 属性でフィルター処理、日付範囲を設定およびデータを書き出して、コンテンツ戦略を絞り込みます。
+description: トップビュー、コンバージョン率、トレンドコンテンツ、提案の予測Content Analyticsダッシュボードについて説明します。 属性によるフィルタリング、日付範囲の設定、データの書き出しにより、コンテンツ戦略を洗練させることができます。
 title: 予測コンテンツ分析の概要
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: 380
 ht-degree: 92%
 
 ---
@@ -41,7 +46,7 @@ ht-degree: 92%
 
 ![](assets/pca.png)
 
-カレンダーアイコンをクリックして、反映されたデータの日付を変更します。事前に設定した時間または特定の日付範囲を選択します。
+カレンダーアイコンをクリックして、反映されたデータの日付を変更します。 事前に設定した時間または特定の日付範囲を選択します。
 
 ![](assets/dates.png)
 
@@ -81,7 +86,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->下のアイコンが見えますか？左から右に、[!UICONTROL コンテンツを表示]、[!UICONTROL CSV への書き出し]、[!UICONTROL コンテンツを承認]が表示されます。
+>下のアイコンが見えますか？ 左から右に、[!UICONTROL コンテンツを表示]、[!UICONTROL CSV への書き出し]、[!UICONTROL コンテンツを承認]が表示されます。
 
 ## [!UICONTROL コンテンツ] {#content}
 
@@ -93,4 +98,4 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->同様のコンテンツは選択したコンテンツに基づき、アソシエーションルールアルゴリズムで計算されます。結果では、選択した部分と過去の訪問者の行動に応じて、訪問者が最もクリックする可能性が高いコンテンツを表します。フィルターや日付範囲は考慮しません。
+>同様のコンテンツは選択したコンテンツに基づき、アソシエーションルールアルゴリズムで計算されます。 結果では、選択した部分と過去の訪問者の行動に応じて、訪問者が最もクリックする可能性が高いコンテンツを表します。 フィルターや日付範囲は考慮しません。

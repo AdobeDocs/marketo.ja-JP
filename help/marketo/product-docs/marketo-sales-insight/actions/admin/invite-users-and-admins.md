@@ -1,11 +1,14 @@
 ---
-description: User Management から Sales Insight アクションにユーザーと管理者を招待する方法を説明します。 メールまたは CSV でユーザーを追加し、チームとMarketo Workspace を割り当てます。
+description: User ManagementからSales Insight Actionsにユーザーと管理者を招待する方法を説明します。 メールまたはCSVでユーザーを追加し、チームとMarketo workspaceを割り当てます。
 title: ユーザと管理者の招待
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/rsT7eMWq9tf9xNH2a25OJVzXQu1oPukkTx9ITDV-g3A
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: 208
 ht-degree: 87%
 
 ---
@@ -36,7 +39,7 @@ ht-degree: 87%
 
    ![](assets/invite-users-and-admins-4.png)
 
-1. オプションの手順：ユーザが属する必要のある任意のチームにユーザを追加します。この部分をスキップすると、すべての新規メンバーが全員チームに追加されます。
+1. オプションの手順：ユーザが属する必要のある任意のチームにユーザを追加します。 この部分をスキップすると、すべての新規メンバーが全員チームに追加されます。
 
    ![](assets/invite-users-and-admins-5.png)
 
@@ -44,7 +47,7 @@ ht-degree: 87%
    >
    >[チームの詳細](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)。
 
-1. 新しいユーザを追加する Marketo ワークスペースを選択します。1 つのワークスペースしかない場合は、オプションに「デフォルト」が表示されます。「**招待**」をクリックします。
+1. 新しいユーザを追加する Marketo ワークスペースを選択します。 1 つのワークスペースしかない場合は、オプションに「デフォルト」が表示されます。 「**招待**」をクリックします。
 
    ![](assets/invite-users-and-admins-6.png)
 

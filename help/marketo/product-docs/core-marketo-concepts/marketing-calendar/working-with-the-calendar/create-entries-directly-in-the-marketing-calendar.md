@@ -1,26 +1,32 @@
 ---
 unique-page-id: 2953348
-description: プログラムのフォーカスを使用して、マーケティングカレンダーで直接エントリを作成する方法を説明します。 基本エントリ、電子メールプログラムまたはスマートキャンペーンを追加します。
+description: プログラムフォーカスを使用して、マーケティングカレンダーで直接入力を作成する方法を説明します。 基本的なエントリ、メールプログラム、スマートキャンペーンを追加できます。
 title: マーケティングカレンダーでエントリを直接作成
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/75swCAACWlMezXWceh-V8RyDujqrtLNOSDtuJJyjb2E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: 132
 ht-degree: 81%
 
 ---
 
 # マーケティングカレンダーでエントリを直接作成 {#create-entries-directly-in-the-marketing-calendar}
 
-Marketo では、プログラムフォーカスモードを使用して、マーケティングカレンダーのコンテキストから直接エントリを作成することができます。次のエントリタイプを作成できます。
+Marketo では、プログラムフォーカスモードを使用して、マーケティングカレンダーのコンテキストから直接エントリを作成することができます。 次のエントリタイプを作成できます。
 
 * 基本エントリ
 * カスタムエントリ
 * メールプログラム
 * スマートキャンペーン
 
-1. **[!UICONTROL カレンダー]** タイルをクリックします。
+1. 「**[!UICONTROL カレンダー]**」タイルをクリックします。
 
    ![](assets/2017-05-10-15-30-47-2.png)
 

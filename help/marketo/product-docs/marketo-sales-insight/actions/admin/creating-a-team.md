@@ -1,12 +1,17 @@
 ---
-description: Sales Insight Actions でチームを作成して、テンプレート、キャンペーン、グループを共有する方法を説明します。
+description: Sales Insight Actionsでチームを作成して、テンプレート、キャンペーン、グループを共有する方法を説明します。
 title: チームの作成
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/y6f35evMs8HMMubGKhJs-oeMgtGWujkQSFydWp7t0aU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 87%
+source-wordcount: 135
+ht-degree: 88%
 
 ---
 
@@ -16,7 +21,7 @@ ht-degree: 87%
 
 ## チームの作成 {#create-a-team}
 
-1. [Web アプリケーションで](https://toutapp.com/login)、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
+1. [Web アプリケーション](https://toutapp.com/login)で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/creating-a-team-1.png)
 

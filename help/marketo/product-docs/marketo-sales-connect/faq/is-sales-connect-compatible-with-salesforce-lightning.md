@@ -1,13 +1,16 @@
 ---
 unique-page-id: 14352493
-description: Sales Connect がSalesforce Lightning と互換性があるかどうかを説明します。 Lightning のサポートとカスタマイズの詳細について説明します。
+description: Sales ConnectがSalesforce Lightningと互換性があるかどうかを確認します。 Lightningのサポートとカスタマイズについて詳しく説明します。
 title: Sales Connect と Salesforce Lightning の互換性
 exl-id: e1543b92-8175-41d2-b56a-ec60253a87d8
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/8nSnWVQPx7SnwWMz-lDfBIBV-lSsrMwo5vXkTBO-AmE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 71%
+source-wordcount: 68
+ht-degree: 76%
 
 ---
 

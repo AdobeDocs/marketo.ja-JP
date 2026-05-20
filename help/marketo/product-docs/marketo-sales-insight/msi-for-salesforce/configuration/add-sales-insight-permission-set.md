@@ -1,18 +1,25 @@
 ---
-description: Salesforceで Sales Insight権限セットを追加する方法を説明します。 Marketo Sales Insightへのアクセス権を必要とするユーザーにセットを割り当てます。
+description: SalesforceでSales Insight権限セットを追加する方法を説明します。 Marketo Sales Insightへのアクセスが必要なユーザーにセットを割り当てます。
 title: セールスインサイト権限セットの追加
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/uFyP8aZCuXSPJn5ktZUxmCoVekyw9LN88U3KaY06-do
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: 362
 ht-degree: 93%
 
 ---
 
 # [!DNL Sales Insight] 権限セットの追加 {#add-sales-insight-permission-set}
 
-次の手順を使用して、[!DNL Salesforce] の [!DNL Sales Insight] 機能へのアクセス権を追加します。[!DNL Salesforce] Classic および Lightning に適用可能
+次の手順を使用して、[!DNL Salesforce] の [!DNL Sales Insight] 機能へのアクセス権を追加します。 [!DNL Salesforce] Classic および Lightning に適用可能
 
 >[!PREREQUISITES]
 >
@@ -24,7 +31,7 @@ ht-degree: 93%
 
 ## 概要 {#overview}
 
-「Marketo アプリ」権限は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部です。これには、以下に示すオブジェクト、apex クラス、visualforce ページへのアクセスが含まれます。これらは、すべての [!DNL Sales Insight] 機能にアクセスするために必要です。
+「Marketo アプリ」権限は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部です。 これには、以下に示すオブジェクト、apex クラス、visualforce ページへのアクセスが含まれます。 これらは、すべての [!DNL Sales Insight] 機能にアクセスするために必要です。
 
 **オブジェクト設定**
 
@@ -101,7 +108,7 @@ ht-degree: 93%
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. 使用可能な権限セットから「**[!UICONTROL Marketo アプリアクセス]**」を選択し、「**[!UICONTROL 追加]**」を選択します。「**[!UICONTROL 保存]**」をクリックします。
+1. 使用可能な権限セットから「**[!UICONTROL Marketo アプリアクセス]**」を選択し、「**[!UICONTROL 追加]**」を選択します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/add-sales-insight-permission-set-5.png)
 
@@ -113,4 +120,4 @@ ht-degree: 93%
 >
 >[!DNL Sales Insight] へのアクセス権を持たないユーザには、「このタブにアクセスするのに十分な権限がありません」というメッセージが表示されます。
 
-これで完了です。[!DNL Sales Insight] へのアクセス権が正常に追加されました。アクセス権を追加する他のプロファイルに対しても同じ手順を繰り返します。
+これで完了です。 [!DNL Sales Insight] へのアクセス権が正常に追加されました。 アクセス権を追加する他のプロファイルに対しても同じ手順を繰り返します。

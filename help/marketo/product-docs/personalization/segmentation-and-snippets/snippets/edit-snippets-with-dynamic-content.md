@@ -1,12 +1,24 @@
 ---
 unique-page-id: 2359466
-description: セグメント化を使用して、動的コンテンツを含むスニペットを編集する方法を説明します。 Segment By をスニペットに追加し、Design Studio でセグメントごとに異なるコンテンツを適用します。
+description: セグメンテーションを使用して、動的コンテンツでスニペットを編集する方法を説明します。 Design Studioでは、セグメント別にスニペットを追加し、セグメントごとに異なるコンテンツを適用できます。
 title: 動的コンテンツでスニペットを編集する
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+TQID: https://experienceleague.adobe.com/GXCcgdOYmRhNC-ssd6qAMYeI57yTLZiQEt05KGXy8Mw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: 135
 ht-degree: 81%
 
 ---
@@ -40,7 +52,7 @@ ht-degree: 81%
 
 ## 動的コンテンツの適用 {#apply-dynamic-content}
 
-1. **セグメント**&#x200B;をクリックしてコンテンツを編集します。各セグメントについて繰り返します。
+1. **セグメント**&#x200B;をクリックしてコンテンツを編集します。 各セグメントについて繰り返します。
 
    ![](assets/image2014-9-16-8-3a59-3a59.png)
 
@@ -48,7 +60,7 @@ ht-degree: 81%
 >
 >スニペットを使用する前に、必ず承認してください。
 
-簡単でしたね。これで、スニペットをメールとランディングページで使用する設定が完了しました。
+簡単でしたね。 これで、スニペットをメールとランディングページで使用する設定が完了しました。
 
 >[!MORELIKETHIS]
 >

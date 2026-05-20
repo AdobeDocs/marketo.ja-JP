@@ -1,12 +1,20 @@
 ---
 unique-page-id: 2359685
-description: エンゲージメントダッシュボードの概要と、コンテンツパフォーマンスの表示方法について説明します。 枯渇、時間の経過に伴うエンゲージメント、最高のエンゲージメントウィジェットを表示します。
+description: エンゲージメントダッシュボードと、それがコンテンツのパフォーマンスをどのように示すかについてご確認ください。 疲弊、エンゲージメントの推移、最もエンゲージメントの高いウィジェットを表示します。
 title: エンゲージメントダッシュボード
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/L-NYq3k9P9grtBXGT070QXkDw7sictQdGauAVu0Wmjc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: 292
 ht-degree: 93%
 
 ---
@@ -17,7 +25,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->エンゲージメントスコアには、最近 3 回のキャストのデータが含まれます。新しいキャストは、各キャストの 72 時間後に計算されます。詳しくは、[エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)を参照してください。
+>エンゲージメントスコアには、最近 3 回のキャストのデータが含まれます。 新しいキャストは、各キャストの 72 時間後に計算されます。 詳しくは、[エンゲージメントスコア](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)を参照してください。
 
 ## エンゲージメントダッシュボードの表示 {#view-the-engagement-dashboard}
 
@@ -31,13 +39,13 @@ ht-degree: 93%
 
 ## 消費ウィジェットについて {#understand-the-exhaustion-widget}
 
-このウィジェットは、リードがすべてのコンテンツを消費したタイミングを予測するのに役立ちます。消費スコアは、各キャストの直後に計算されます。次の例は、1 キャストで、195 名のリードがすべてのコンテンツを消費したことを示しています。
+このウィジェットは、リードがすべてのコンテンツを消費したタイミングを予測するのに役立ちます。 消費スコアは、各キャストの直後に計算されます。 次の例は、1 キャストで、195 名のリードがすべてのコンテンツを消費したことを示しています。
 
 ![](assets/image2014-9-15-16-3a45-3a10.png)
 
 >[!NOTE]
 >
->「[!UICONTROL 設定]」タブを開き、上のグラフを表示するために「[!UICONTROL 消費済みコンテンツ通知]」が&#x200B;**[!UICONTROL オン]**&#x200B;であることを確認します。オフの場合、グラフは異なります。
+>「[!UICONTROL 設定]」タブを開き、上のグラフを表示するために「[!UICONTROL 消費済みコンテンツ通知]」が&#x200B;**[!UICONTROL オン]**&#x200B;であることを確認します。 オフの場合、グラフは異なります。
 
 >[!CAUTION]
 >
@@ -49,7 +57,7 @@ ht-degree: 93%
 
 >[!AVAILABILITY]
 >
->この機能は、Marketo の収益サイクルエクスプローラを利用するお客様向けのアドオンとして利用できます。詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>この機能は、Marketo の収益サイクルエクスプローラを利用するお客様向けのアドオンとして利用できます。 詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

@@ -4,9 +4,14 @@ description: MarketoでCNAMEを使用してランディングページ URLをカ
 title: CNAME を使用したランディングページ URL のカスタマイズ
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/8G3a-7YZlycD5xXJLqlny12XL7M-T2ouYDhjBnRAMfo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: 242
 ht-degree: 87%
 
 ---
@@ -77,4 +82,4 @@ Marketo がランディングページをホストしている場合でも、URL
 >
 >Marketo ランディングページを使用できない場合、フォールバックページにリダイレクトされます。
 
-これで完了です。 ランディングページが会社のドメインでブランディングされました。
+ランディングページが会社のドメインでブランディングされました。

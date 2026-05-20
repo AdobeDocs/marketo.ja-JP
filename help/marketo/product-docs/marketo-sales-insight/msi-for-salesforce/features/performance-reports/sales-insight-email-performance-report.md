@@ -1,12 +1,19 @@
 ---
 unique-page-id: 4720314
-description: SalesforceのInsightのセールスメールのパフォーマンスレポートについて説明します。 販売メールのメール指標とエンゲージメントを表示します。
+description: SalesforceのSales Insight電子メールパフォーマンスレポートについて説明します。 セールスメールの指標とエンゲージメントを表示。
 title: セールスインサイトのメール効果レポート
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/kuMKUZCy3kzbgGvMdq0TQhJyazKAs-epl8U7zR8glOI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: 163
 ht-degree: 88%
 
 ---
@@ -33,7 +40,7 @@ ht-degree: 88%
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
-   これで完了です。セールスチームから送信されたメールの効果を確認できます。
+   これで完了です。 セールスチームから送信されたメールの効果を確認できます。
 
    >[!NOTE]
    >
@@ -47,7 +54,7 @@ ht-degree: 88%
 
 設定を変更すると、このレポートをセールス担当者別グループで表示できます。
 
-1. 「**[!UICONTROL 設定]**」をクリックします。「**[!UICONTROL 電子メール]**」をダブルクリックします。
+1. 「**[!UICONTROL 設定]**」をクリックします。 「**[!UICONTROL 電子メール]**」をダブルクリックします。
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
@@ -63,4 +70,4 @@ ht-degree: 88%
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 
-   簡単ですね。これで、セールス担当者別にグループ化されたメールの効果を確認できます。
+   簡単ですね。 これで、セールス担当者別にグループ化されたメールの効果を確認できます。

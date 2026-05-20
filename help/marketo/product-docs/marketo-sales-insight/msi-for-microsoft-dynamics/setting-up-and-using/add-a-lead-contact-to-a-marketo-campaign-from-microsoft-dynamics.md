@@ -1,19 +1,26 @@
 ---
 unique-page-id: 2953342
-description: Microsoft DynamicsからMarketo キャンペーンにリードまたは連絡先を追加する方法について説明します。 MSI パネルを使用して、キャンペーンにリードを追加します。
+description: Microsoft DynamicsからMarketo キャンペーンにリードまたは連絡先を追加する方法を説明します。 MSI パネルを使用して、キャンペーンにリードを追加します。
 title: Microsoft Dynamics から Marketo Campaign へのリード／連絡先の追加
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/-Koxk8vu7pdKpmATjaqEUuzdmCuG1WjBSy-exSHO8n8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: 143
 ht-degree: 83%
 
 ---
 
 # [!DNL Microsoft Dynamics] から Marketo キャンペーンへのリード／取引先責任者の追加 {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
-[!DNL Microsoft Dynamics] 内から直接、Marketo のスマートキャンペーンにリードや取引先責任者を素早く簡単に追加できます。手順は次のとおりです。
+[!DNL Microsoft Dynamics] 内から直接、Marketo のスマートキャンペーンにリードや取引先責任者を素早く簡単に追加できます。 手順は次のとおりです。
 
 1. [!DNL Dynamics] で、**[!UICONTROL セールス]**&#x200B;領域に移動します。
 
@@ -39,4 +46,4 @@ ht-degree: 83%
    >
    >ドロップダウンにキャンペーンを表示するには、キャンペーンを設定する際に、「[**キャンペーンをリクエスト**」トリガー](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)を使用し、[!DNL Sales Insight] をソースにします。
 
-以上です。これで Marketo のスマートキャンペーンのパワーを [!DNL Dynamics] から直接使用できます。
+以上です。 これで Marketo のスマートキャンペーンのパワーを [!DNL Dynamics] から直接使用できます。

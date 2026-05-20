@@ -1,19 +1,24 @@
 ---
 unique-page-id: 18317340
-description: Sales Connect でのMarketo登録解除チェックについて説明します。 Sales Connect が送信時にMarketoの登録解除ステータスを尊重する方法を説明します。
+description: Sales ConnectでのMarketoの登録解除チェックについて説明します。 セールスコネクトが送信時にMarketoの登録解除ステータスをどのように尊重するかをご覧ください。
 title: Marketo 配信停止チェック
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/ZowbVUMoJ8xNXBl47SJDZWpYvjfkAP90xPT1d6dQdPA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: 201
 ht-degree: 91%
 
 ---
 
 # Marketo 配信停止チェック {#marketo-unsubscribe-check}
 
-[!UICONTROL Marketo 登録解除チェック]は、チームの Marketo への接続を使用して、Marketo のリード管理システムで登録解除になっているユーザにメールが送信されるのを防ぎます。セールスユーザが [!DNL Sales Connect] を使用してメールを送信すると、Marketo に対する API 呼び出しが実行され、そのメール ID が登録解除されているかどうかを確認します。配信停止の場合、メール送信がブロックされます。
+[!UICONTROL Marketo 登録解除チェック]は、チームの Marketo への接続を使用して、Marketo のリード管理システムで登録解除になっているユーザにメールが送信されるのを防ぎます。 セールスユーザが [!DNL Sales Connect] を使用してメールを送信すると、Marketo に対する API 呼び出しが実行され、そのメール ID が登録解除されているかどうかを確認します。 配信停止の場合、メール送信がブロックされます。
 
 >[!NOTE]
 >

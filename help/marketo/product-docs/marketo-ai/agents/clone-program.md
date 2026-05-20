@@ -1,11 +1,11 @@
 ---
 description: コピープログラムは、既存のMarketo プログラムを新しい名前の新しいフォルダーに複製し、その構造を保持しながら、新しいキャンペーンをカスタマイズできます。
 title: コピープログラム
-beta: true
+badge: ベータ版
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '501'
 ht-degree: 1%
 
 ---
@@ -21,6 +21,10 @@ ht-degree: 1%
 >* 宛先フォルダーにプログラムを作成するには、権限が必要です。
 >
 >* 複製するソースプログラムは、Marketo環境に既に存在している必要があります。
+
+>[!AVAILABILITY]
+>
+>この機能はクローズド版であり、現在数か月にわたって段階的に展開されています。 My Marketo画面に&#x200B;_AIでビルド_ タイルが表示されたら、サブスクリプションが有効になったときにわかります。
 
 ## 使用方法 {#how-to-use}
 

@@ -1,11 +1,19 @@
 ---
-description: Dynamic Chat ウィジェットコールバック関数を使用して、サードパーティプラットフォームにコンバージョンイベントを送信する方法について説明します。 トリガーされたアクション、エンゲージメントされたアクション、目標を達成したアクションにイベントを使用します。
+description: Dynamic Chat ウィジェットのコールバック関数を使用して、会話イベントをサードパーティのプラットフォームに送信する方法について説明します。 イベントをトリガー、エンゲージ、目標達成のアクションに使用します。
 title: コールバック関数
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/acvFxZL5oAxsxlclzffgJVJh2AQashaEmzAYxgGHKPk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: 635
 ht-degree: 96%
 
 ---
@@ -80,7 +88,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-`event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。このメタデータには、`event.data` にアクセスすることでアクセスできます。
+`event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。 このメタデータには、`event.data` にアクセスすることでアクセスできます。
 
 アクセスできるいくつかの主なメタデータ値を次に示します。
 
@@ -117,7 +125,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ## 訪問者入力イベント
 
-このイベントは、対話に関与している訪問者が取引先責任者情報（電話番号やメールアドレスなど）を入力するとトリガーされます。このカテゴリに該当するイベントを次に示します。
+このイベントは、対話に関与している訪問者が取引先責任者情報（電話番号やメールアドレスなど）を入力するとトリガーされます。 このカテゴリに該当するイベントを次に示します。
 
 ### 電話番号 {#phone-number}
 
@@ -145,7 +153,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-`event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。このメタデータには、`event.data` にアクセスすることでアクセスできます。
+`event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。 このメタデータには、`event.data` にアクセスすることでアクセスできます。
 
 アクセスできるいくつかの主なメタデータ値を次に示します。
 
@@ -199,7 +207,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-`event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。このメタデータには、`event.data` にアクセスすることでアクセスできます。
+`event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。 このメタデータには、`event.data` にアクセスすることでアクセスできます。
 
 アクセスできるいくつかの主なメタデータ値を次に示します。
 
@@ -304,7 +312,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 });
 ```
 
-`event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。このメタデータには、`event.data` にアクセスすることでアクセスできます。
+`event` パラメーターは、対話に関連するメタデータを含むオブジェクトです。 このメタデータには、`event.data` にアクセスすることでアクセスできます。
 
 アクセスできるいくつかの主なメタデータ値を次に示します。
 
@@ -347,7 +355,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 </tbody>
 </table>
 
-これらのイベントのいずれかを Adobe Analytics や Google Analytics などの分析プラットフォームに送信する場合は、これらの Dynamic Chat イベント内にそれぞれのトラッキング呼び出しを追加する必要があります。次の例のようになります。
+これらのイベントのいずれかを Adobe Analytics や Google Analytics などの分析プラットフォームに送信する場合は、これらの Dynamic Chat イベント内にそれぞれのトラッキング呼び出しを追加する必要があります。 次の例のようになります。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => {

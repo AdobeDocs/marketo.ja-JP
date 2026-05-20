@@ -1,13 +1,22 @@
 ---
 unique-page-id: 4720215
-description: wordpress への rtp の実装を含め、Marketo Engageの wordpress enterprise への rtp の実装について説明します。 このガイドを使用して、次の手順を完了します。
+description: wordpressでのrtpの実装など、Marketo Engageでのwordpress enterpriseでのrtpの実装について説明します。 このガイドを使用して、次のステップを完了してください。
 title: Wordpress Enterprise での RTP の実装
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/S0LvRrD1V6hkWN5L5TlnoaIqcDvXLjfm5do2-1WQTNw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 80%
+source-wordcount: 120
+ht-degree: 53%
 
 ---
 
@@ -17,7 +26,7 @@ ht-degree: 80%
 
 1. 「**[!UICONTROL アカウント設定]**」に移動します。
 
-   a サポートから既に JavaScript タグを受け取っている場合は、手順 3 に進みます。
+   a. サポートからJavaScript タグを既に受け取っている場合は、手順3に進みます。
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
@@ -29,7 +38,8 @@ ht-degree: 80%
 
 1. [!DNL WordPress] アカウントに管理者ユーザとしてログインします。
 
-   a. **[!UICONTROL 表示方法]**&#x200B;の下にある「**[!UICONTROL カスタム JavaScript]**」に移動します。b. RTP JavaScript タグを既存のコードの直後にペーストします。
+   a. **[!UICONTROL アピアランス]**&#x200B;で、**[!UICONTROL カスタム JavaScript]**&#x200B;に移動します。
+b. 既存のコードの直後にRTP Javascript タグを貼り付けます。
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
 

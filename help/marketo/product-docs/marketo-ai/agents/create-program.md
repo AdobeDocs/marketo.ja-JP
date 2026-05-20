@@ -1,11 +1,11 @@
 ---
 description: MarketoのAIを利用して、平易な言葉でプログラムを作成できます。 スマートキャンペーン、スケジューリング、アセットのプレースホルダーを使用して、レビューと調整を実施できます。
 title: プログラムの作成
-beta: true
+badge: ベータ版
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '603'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ ht-degree: 0%
 >* この機能を使用するには、まず[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
 >
 >* Marketo アカウントでプログラムを作成するには、権限が必要です。
+
+>[!AVAILABILITY]
+>
+>この機能はクローズド版であり、現在数か月にわたって段階的に展開されています。 My Marketo画面に&#x200B;_AIでビルド_ タイルが表示されたら、サブスクリプションが有効になったときにわかります。
 
 ## 使用方法 {#how-to-use}
 

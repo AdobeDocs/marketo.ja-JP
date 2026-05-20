@@ -1,13 +1,20 @@
 ---
 unique-page-id: 12615749
-description: Web キャンペーンデータのエクスポート export-web-campaign-data を使用して、Marketo Engageで web キャンペーンデータをエクスポートする方法を説明します。 このガイドを使用して、次の手順を完了します。
+description: export web campaign data export-web-campaign-dataを使用してMarketo Engageでweb キャンペーンデータを書き出す方法について説明します。 このガイドを使用して、次のステップを完了してください。
 title: Web キャンペーンデータをエクスポートする
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/eHxSWlhwdu9sJrSyeh0nWf8vHE3lgXyRwIFWUn-G3v0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 65%
+source-wordcount: 74
+ht-degree: 63%
 
 ---
 
@@ -15,7 +22,7 @@ ht-degree: 65%
 
 次の簡単な手順に従って、Web キャンペーンデータをエクスポートします。
 
-1. 「**[!UICONTROL Web キャンペーン]**」に移動します
+1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
 
    ![](assets/one-2.png)
 

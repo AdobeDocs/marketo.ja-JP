@@ -1,19 +1,31 @@
 ---
 unique-page-id: 2360181
-description: 匿名アクティビティおよびのトラッキングを含む、Marketo Engageでの匿名アクティビティおよび人物のトラッキングについて説明します。 このガイドを使用して、次の手順を完了します。
+description: 匿名アクティビティとユーザーのトラッキングなど、Marketo Engageでの匿名アクティビティとユーザーのトラッキングについて説明します。 このガイドを使用して、次のステップを完了してください。
 title: 匿名アクティビティとリードのトラッキング
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/BZakQFVtQystRyrlzo81s-p8N65LXHUJ2ZoSAzeTG6Q
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: 255
 ht-degree: 90%
 
 ---
 
 # 匿名アクティビティとリードのトラッキング {#tracking-anonymous-activity-and-people}
 
-Marketo の[ランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)（または web サイト上で [Munchkin トラッキングコード](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)を持つページ）に初めて訪問すると、Marketo は&#x200B;_匿名アクティビティ_&#x200B;を作成し、ブラウザー cookie を使用してトラックします。識別されると、その訪問者はリードとなり、ブラウザーの Cookie に関連付けられた履歴が結合されます。
+Marketo の[ランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)（または web サイト上で [Munchkin トラッキングコード](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)を持つページ）に初めて訪問すると、Marketo は&#x200B;_匿名アクティビティ_&#x200B;を作成し、ブラウザー cookie を使用してトラックします。 識別されると、その訪問者はリードとなり、ブラウザーの Cookie に関連付けられた履歴が結合されます。
 
 1. 匿名アクティビティは、次の場合に作成されます。
 

@@ -1,13 +1,18 @@
 ---
 unique-page-id: 2359801
-description: Marketoのパーソナライズされた URL に対して URL ビルダーを使用する方法を説明します。 メールまたはキャンペーン用に追跡可能なパーソナライズされたリンクを作成します。
+description: MarketoのパーソナライズされたURLにURL Builderを使用する方法を説明します。 メールやキャンペーン用に追跡可能でパーソナライズされたリンクを作成。
 title: URL ビルダーの使用
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/C7P2TIGZMWFZs81tdVuYuM9T3VYZQdMBx8eFO7e5ZHg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 86%
+source-wordcount: 134
+ht-degree: 85%
 
 ---
 
@@ -31,4 +36,4 @@ URL ビルダーを使用すると、URL を作成して Marketo の非表示フ
    >
    >ビルダーで使用できるフィールドが表示されない場合は、フォームに非表示のフィールドがあり、そのフィールドが[パラメーター URL を入力できるように設定](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter)されていることを確認してください。
 
-これで完了です。これで、URL をコピーしてペーストし、Web で使用できるようになりました。
+これで、URL をコピーしてペーストし、Web で使用できるようになりました。

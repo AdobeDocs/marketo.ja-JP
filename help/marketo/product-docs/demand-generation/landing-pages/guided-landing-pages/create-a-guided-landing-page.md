@@ -1,13 +1,19 @@
 ---
 unique-page-id: 7515266
-description: Marketoでガイド付きランディングページを作成する方法を説明します。 テンプレートを選択し、ガイド付きエディターを使用してページを作成します。
+description: Marketoでガイド付きランディングページを作成する方法を説明します。 テンプレートを選択し、ガイド付きエディターでページを構築しましょう。
 title: ガイド付きランディングページテンプレートを作成する
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/-df5e1arC8TagrG3obrDjF9s4Ay-YcCI4wiLtgdHDFI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 90%
+source-wordcount: 219
+ht-degree: 77%
 
 ---
 
@@ -15,7 +21,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->ランディングページモードは、テンプレートによって定義されます。フリーフォームおよびガイド付きのランディングページテンプレートについての詳細は[こちら](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)です。
+>ランディングページモードは、テンプレートによって定義されます。 フリーフォームおよびガイド付きのランディングページテンプレートについての詳細は[こちら](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)です。
 
 >[!PREREQUISITES]
 >
@@ -33,7 +39,7 @@ ht-degree: 90%
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. **[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックします。「**[!UICONTROL 新規ローカルアセット]**」を選択します。
+1. **[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックします。 「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
@@ -41,11 +47,11 @@ ht-degree: 90%
 
    ![](assets/four.png)
 
-1. ランディングページに名前を付けます。**[!UICONTROL テンプレート]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL ガイド付きテンプレート]**」を選択します。
+1. ランディングページに名前を付けます。 **[!UICONTROL テンプレート]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL ガイド付きテンプレート]**」を選択します。
 
    >[!NOTE]
    >
-   >ガイド付きランディングページテンプレートの横には、![—](assets/image2015-5-26-9-3a26-3a51.png)アイコンが表示されます。ガイド付きテンプレートは、完全にレスポンシブであり続けるように構造化されています。
+   >ガイド付きランディングページテンプレートの横には![](assets/image2015-5-26-9-3a26-3a51.png) アイコンが表示されます。 ガイド付きテンプレートは、完全にレスポンシブであり続けるように構造化されています。
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
@@ -55,11 +61,11 @@ ht-degree: 90%
 
    ![](assets/six.png)
 
-1. **[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックします。「**[!UICONTROL 新規ランディングページ]**」を選択します。
+1. **[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックします。 「**[!UICONTROL 新規ランディングページ]**」を選択します。
 
    ![](assets/seven.png)
 
-1. ランディングページに名前を付けます。**[!UICONTROL テンプレート]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL ガイド付きテンプレート]**」を選択します。
+1. ランディングページに名前を付けます。 **[!UICONTROL テンプレート]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL ガイド付きテンプレート]**」を選択します。
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
@@ -69,6 +75,6 @@ ht-degree: 90%
 
 >[!TIP]
 >
->URL は、プログラムとランディングページの名前から自動的に生成されます。URL を変更するには、**[!UICONTROL ページ URL]** フィールドを編集します。
+>URL は、プログラムとランディングページの名前から自動的に生成されます。 URL を変更するには、**[!UICONTROL ページ URL]** フィールドを編集します。
 >
->「**[!UICONTROL 作成]**」をクリックしたときにすぐにエディターが開かれないようにするには、「**[!UICONTROL エディターで開く]**」チェックボックスをオフにします。
+>**[!UICONTROL 作成]**&#x200B;をクリックした直後にエディターを開けないようにする場合は、「**[!UICONTROL エディターで開く]**」チェックボックスをオフにします。

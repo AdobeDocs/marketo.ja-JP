@@ -1,13 +1,18 @@
 ---
 unique-page-id: 8783984
-description: テンプレート 9B ガイド付きランディングページテンプレートについて説明します。 Marketo ランディングページにダウンロードして使用します。
+description: テンプレート 9B ガイド付きランディングページテンプレートについて説明します。 ダウンロードして、Marketoランディングページでご利用ください。
 title: テンプレート 9B
 exl-id: 51e3d572-ab7d-44cb-b372-aacb856199d3
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/d5cNkeRh50dh4ymXyEBsFF-GrDUHFc0-K-i8aXSscAw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 71%
+source-wordcount: 80
+ht-degree: 75%
 
 ---
 
@@ -28,4 +33,4 @@ ht-degree: 71%
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 9B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html?lang=ja)
+[テンプレート 9B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9b.html?lang=ja)

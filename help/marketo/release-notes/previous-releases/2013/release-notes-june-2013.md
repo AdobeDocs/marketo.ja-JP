@@ -4,9 +4,16 @@ description: リリースノート - 2013年6月 - Marketo ドキュメント - 
 title: リリースノート - 2013年6月
 exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/eQePp2FMfxvMsOkO3n0zHR3CkprQ0asS3oa9PzurWqw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: 161
 ht-degree: 100%
 
 ---
@@ -35,8 +42,8 @@ ht-degree: 100%
 
 ## 複数のモデル {#multiple-models}
 
-コミュニティの売上高サイクル分析（RCA）の主なアイデアです。この機能を使用すると、複数のモデルを作成して、製品ライン、事業部門、地域ごとに売上高ファネルをより詳細に把握できます。売上高ステージ別のリード、成功パスアナライザー、プログラムアナライザーおよび売上高エクスプローラーのレポートでこの機能がサポートされ、レポート用の特定のモデルを選択できるようになりました。
+コミュニティの売上高サイクル分析（RCA）の主なアイデアです。この機能を使用すると、複数のモデルを作成して、製品ライン、事業部門、地域ごとに売上高ファネルをより詳細に把握できます。 売上高ステージ別のリード、成功パスアナライザー、プログラムアナライザーおよび売上高エクスプローラーのレポートでこの機能がサポートされ、レポート用の特定のモデルを選択できるようになりました。
 
-デフォルトでは、Select SMB Edition では 2 つのモデル、Enterprise Edition では 15 モデルを使用できます。また、追加のモデルを購入することもできます。
+デフォルトでは、Select SMB Edition では 2 つのモデル、Enterprise Edition では 15 モデルを使用できます。 また、追加のモデルを購入することもできます。
 
 ![](assets/image2014-9-22-16-3a26-3a59.png)

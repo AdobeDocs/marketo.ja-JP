@@ -1,19 +1,24 @@
 ---
 unique-page-id: 1900577
-description: メールスクリプトトークンの作成方法を説明します。 メールに動的な値を出力するカスタムトークンを定義します。
+description: メールスクリプトトークンの作成方法を説明します。 メールに動的な値を出力するカスタムトークンを定義できます。
 title: メールスクリプトトークンを作成する
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/3FbkNKaOjEX--zXCOC1EHLEVr5ChimEOJTROMY0bHmc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 92%
+source-wordcount: 258
+ht-degree: 87%
 
 ---
 
 # メールスクリプトトークンを作成する {#create-an-email-script-token}
 
-上級の開発者は、メールで [Velocity スクリプト](https://velocity.apache.org/engine/1.7/user-guide.html)を使用できます。その方法を説明しましょう。
+上級の開発者は、メールで [Velocity スクリプト](https://velocity.apache.org/engine/1.7/user-guide.html)を使用できます。 その方法を説明しましょう。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -47,12 +52,12 @@ ht-degree: 92%
    >
    >トークンを自由形式で入力する場合は、ツリー内の対応するトークンすべてにチェックを付ける（つまり、有効化する）のを忘れないようにしてください。そうしないと、プレーンテキストとして処理され、正しく機能しません。
 
-1. Velocity でスクリプトを作成します。以下に、役立つリソースを示します。
+1. Velocity でスクリプトを作成します。 以下に、役立つリソースを示します。
 
-   * [Marketo 開発者向けメールスクリプティングのドキュメント](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting)
+   * [Marketo Developers メールスクリプティングドキュメント](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting)
    * [Velocity ユーザーガイド](https://velocity.apache.org/engine/devel/user-guide.html)
-   * [Velocity リファレンスガイド](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
-   * [Velocity ツール Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
+   * [速度リファレンスガイド](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Velocity Tools Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. スクリプトが完了したら、「**[!UICONTROL 保存]**」をクリックします。
 
@@ -62,7 +67,7 @@ ht-degree: 92%
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 
-これで、このトークンをメールで使用できます。メールが送信されるたびにスクリプトが実行されます。
+これで、このトークンをメールで使用できます。 メールが送信されるたびにスクリプトが実行されます。
 
 >[!MORELIKETHIS]
 >

@@ -1,12 +1,15 @@
 ---
 unique-page-id: 14352412
-description: Sales Connect でメール ID を追加する方法を説明します。 送信 ID を設定し、トラッキングされるメールのメールアドレスを検証します。
+description: Sales Connectでメール IDを追加する方法を説明します。 送信IDを設定し、追跡されたメールのメールアドレスを確認します。
 title: ID を追加
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/uLOd4gisccc14zCnYMSHdtUTM4TLzRvkqNgtQPOHjBM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: 185
 ht-degree: 88%
 
 ---
@@ -17,7 +20,7 @@ ht-degree: 88%
 
 >[!NOTE]
 >
->複数の ID の使用は、Gmail または Outlook／Exchange 配信チャネルではサポートされていません。Gmail および Outlook／Exchange は、ユーザーレベルで認証するので、接続されたメールアドレスからのメールのみが送信されます。異なるメールアドレスで複数の ID を使用するには、送信元のメールドメインを登録できるサードパーティ SMTP プロバイダー（メール配信チャネル）に接続する必要があります。これにより、ユーザーは、SMTP 配信チャネルに接続して、登録されたドメインである限り、任意のメールアドレスから送信できます。
+>複数の ID の使用は、Gmail または Outlook／Exchange 配信チャネルではサポートされていません。 Gmail および Outlook／Exchange は、ユーザーレベルで認証するので、接続されたメールアドレスからのメールのみが送信されます。 異なるメールアドレスで複数の ID を使用するには、送信元のメールドメインを登録できるサードパーティ SMTP プロバイダー（メール配信チャネル）に接続する必要があります。 これにより、ユーザーは、SMTP 配信チャネルに接続して、登録されたドメインである限り、任意のメールアドレスから送信できます。
 
 1. 設定アイコンをクリックします。
 

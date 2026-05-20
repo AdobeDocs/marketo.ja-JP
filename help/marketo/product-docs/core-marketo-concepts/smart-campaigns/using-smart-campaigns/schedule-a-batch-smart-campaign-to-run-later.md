@@ -1,19 +1,25 @@
 ---
 unique-page-id: 1146970
-description: 後で実行するようにバッチ Smart Campaign をスケジュールする方法を説明します。 キャンペーンを 1 回実行する日時を設定します。
+description: 後で実行するバッチスマートキャンペーンをスケジュールする方法を説明します。 キャンペーンを1回実行する日時を設定します。
 title: 後で実行するようにバッチスマートキャンペーンをスケジュール
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/gBgLIEe4ehipU1qlq8hicQXJxhxP-8gTjNKm1-j7lPE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: 141
 ht-degree: 71%
 
 ---
 
 # 後で実行するようにバッチスマートキャンペーンをスケジュール {#schedule-a-batch-smart-campaign-to-run-later}
 
-バッチキャンペーンを今後のある時点で実行するように設定する場合は、次の方法で設定できます。
+今後の任意の時点でバッチキャンペーンを実行するように設定する場合は、次の方法を使用します。
 
 >[!TIP]
 >

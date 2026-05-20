@@ -2,9 +2,14 @@
 description: Salesforce LightningからMarketo Sales Connectをアンインストールする方法について説明します。 Lightningからセールスコネクトのカスタマイズとボタンを削除します。
 title: Salesforce Lightning からの Marketo Sales Connect のアンインストール
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/1f0f-aw1oeN0j0yITY2oSZmPAknfwzjey--8hLnNV3M
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1202'
+source-wordcount: 1202
 ht-degree: 96%
 
 ---
@@ -81,7 +86,7 @@ ht-degree: 96%
 
    ![](assets/uninstall-salesforce-lightning-customization-package-12.png)
 
-1. 「選択したフィールド」領域で「Sales Connect フィールド」を選択し、「削除」矢印をクリックします。 終了したら「**OK**」をクリックします。
+1. 「選択したフィールド」領域で「Sales Connect フィールド」を選択し、「削除」矢印をクリックします。 終了したら、「**OK**」をクリックします。
 
    ![](assets/uninstall-salesforce-lightning-customization-package-13.png)
 

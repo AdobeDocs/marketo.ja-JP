@@ -4,20 +4,23 @@ description: リリースノート - 2017 年 4 月 ABM の機能強化 - Market
 title: リリースノート - 2017 年 4 月 ABM の機能強化
 exl-id: 2b8b1ed2-de57-42c2-a3f5-3b49895d7595
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/noMsArEWgsfva-i-aBQkQUmhsnVPNRhZHmbodhGcExU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: 136
 ht-degree: 100%
 
 ---
 
 # リリースノート：2017 年 4 月 ABM の機能強化 {#release-notes-april-abm-enhancements}
 
-2017 年 4 月の ABM 機能強化リリースには、次の機能が含まれています。機能の可用性についてはお使いの Marketo のエディションをご確認ください。
+2017 年 4 月の ABM 機能強化リリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo のエディションをご確認ください。
 
 ## CRM にマッピングされた標準フィールドの同期 {#synching-of-crm-mapped-standard-fields}
 
-Marketo ABM は CRM に関連する動作を変更しています。今後、Marketo ABM は、ABM アカウントと CRM のアカウントの間に 1 対 1 の関係を確立し、維持します。これにより、Marketo がマッピングされたアカウントフィールドを CRM と同期し続けることができます。
+Marketo ABM は CRM に関連する動作を変更しています。 今後、Marketo ABM は、ABM アカウントと CRM のアカウントの間に 1 対 1 の関係を確立し、維持します。 これにより、Marketo がマッピングされたアカウントフィールドを CRM と同期し続けることができます。
 
 ## CRM 検出用のカスタムフィールド {#custom-fields-for-crm-discovery}
 
