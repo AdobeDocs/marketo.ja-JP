@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+source-git-commit: 400b847ed81f4dda33f9c76b95319815366db7cf
 workflow-type: tm+mt
-source-wordcount: '9171'
+source-wordcount: '8896'
 ht-degree: 96%
 
 ---
@@ -1920,7 +1920,8 @@ ht-degree: 96%
    + {hide-from-toc}[現在のリリース期間](release-notes/current-temp.md)
    + [Dynamic Chat リリース](release-notes/dynamic-chat.md)
    + {hide-from-toc}[Dynamic Chat リリースのテンプレート &#x200B;](release-notes/dynamic-chat-temp.md)
-   + 以前のリリース {#previous-releases}
+   + [以前のリリース](release-notes/previous-releases.md)
+   + {hide-from-toc}以前の件のリリース {#previous-releases}
       + 2026 {#2026}
          + [リリースノート：2026年1月](release-notes/previous-releases/2026/release-notes-jan-26.md)
          + [リリースノート：2026年2月](release-notes/previous-releases/2026/release-notes-feb-26.md)
@@ -1948,84 +1949,16 @@ ht-degree: 96%
          + [リリースノート：2023年7月](release-notes/previous-releases/2023/release-notes-july-23.md)
          + [リリースノート：2023年9月](release-notes/previous-releases/2023/release-notes-sep-23.md)
          + [リリースノート：2023年10月](release-notes/previous-releases/2023/release-notes-oct-23.md)
-      + 2022年 {#2022}
-         + [リリースノート：2022年1月](release-notes/previous-releases/2022/release-notes-jan-22.md)
-         + [リリースノート：2022年3月](release-notes/previous-releases/2022/release-notes-mar-22.md)
-         + [リリースノート：2022年5月](release-notes/previous-releases/2022/release-notes-may-22.md)
-         + [リリースノート：2022年6月](release-notes/previous-releases/2022/release-notes-june-22.md)
-         + [リリースノート：2022年8月](release-notes/previous-releases/2022/release-notes-aug-22.md)
-         + [リリースノート：2022年10月](release-notes/previous-releases/2022/release-notes-oct-22.md)
-      + 2021年 {#2021}
-         + [リリースノート：2021年1月](release-notes/previous-releases/2021/release-notes-jan-21.md)
-         + [リリースノート：2021年5月](release-notes/previous-releases/2021/release-notes-may-21.md)
-         + [リリースノート：2021年8月](release-notes/previous-releases/2021/release-notes-aug-21.md)
-         + [リリースノート：2021年10月](release-notes/previous-releases/2021/release-notes-oct-21.md)
-      + 2020年 {#2020}
-         + [リリースノート：2020年1月](release-notes/previous-releases/2020/release-notes-jan-20.md)
-         + [リリースノート：2020年2月](release-notes/previous-releases/2020/release-notes-feb-20.md)
-         + [リリースノート：2020年6月](release-notes/previous-releases/2020/release-notes-june-20.md)
-         + [リリースノート：2020年7月](release-notes/previous-releases/2020/release-notes-july-20.md)
-         + [リリースノート：2020年10月](release-notes/previous-releases/2020/release-notes-oct-20.md)
-      + 2019 {#2019}
-         + [リリースノート：2019年8月](release-notes/previous-releases/2019/release-notes-august-19.md)
-         + [リリースノート：2019年6月](release-notes/previous-releases/2019/release-notes-june-19.md)
-         + [リリースノート：2019年春](release-notes/previous-releases/2019/release-notes-spring-19.md)
-         + [リリースノート：2019年冬](release-notes/previous-releases/2019/release-notes-winter-19.md)
-      + 2018年 {#2018}
-         + [リリースノート：2018年秋](release-notes/previous-releases/2018/release-notes-fall-18.md)
-         + [リリースノート：2018年春](release-notes/previous-releases/2018/release-notes-spring-18.md)
-         + [リリースノート：2018年冬](release-notes/previous-releases/2018/release-notes-winter-18.md)
-      + 2017年 {#2017}
-         + [リリースノート：2017年4月 ABM の機能強化](release-notes/previous-releases/2017/release-notes-april-17-abm-enhancements.md)
-         + [リリースノート：2017年8月 ABM の機能強化](release-notes/previous-releases/2017/release-notes-august-17-abm-enhancements.md)
-         + [リリースノート：2017年秋](release-notes/previous-releases/2017/release-notes-fall-17.md)
-         + [リリースノート：2017年春](release-notes/previous-releases/2017/release-notes-spring-17.md)
-         + [リリースノート：2017年夏](release-notes/previous-releases/2017/release-notes-summer-17.md)
-         + [リリースノート：2017年冬](release-notes/previous-releases/2017/release-notes-winter-17.md)
-      + 2016年 {#2016}
-         + [リリースノート：2016年秋](release-notes/previous-releases/2016/release-notes-fall-16.md)
-         + [リリースノート：2016年春](release-notes/previous-releases/2016/release-notes-spring-16.md)
-         + [リリースノート：2016年夏](release-notes/previous-releases/2016/release-notes-summer-16.md)
-         + [リリースノート：2016年冬](release-notes/previous-releases/2016/release-notes-winter-16.md)
-      + 2015年 {#2015}
-         + [リリースノート：2015年4月](release-notes/previous-releases/2015/release-notes-april-2015.md)
-         + [リリースノート：2015年秋](release-notes/previous-releases/2015/release-notes-fall-15.md)
-         + [リリースノート：2015年2月](release-notes/previous-releases/2015/release-notes-february-2015.md)
-         + [リリースノート：2015年1月](release-notes/previous-releases/2015/release-notes-january-2015.md)
-         + [リリースノート：2015年7月](release-notes/previous-releases/2015/release-notes-july-2015.md)
-         + [リリースノート：2015年6月](release-notes/previous-releases/2015/release-notes-june-2015.md)
-         + [リリースノート：2015年3月](release-notes/previous-releases/2015/release-notes-march-2015.md)
-         + [リリースノート：2015年5月](release-notes/previous-releases/2015/release-notes-may-2015.md)
-      + 2014年 {#2014}
-         + [リリースノート：2014年8月](release-notes/previous-releases/2014/release-notes-august-2014.md)
-         + [リリースノート：2014年12月](release-notes/previous-releases/2014/release-notes-december-2014.md)
-         + [リリースノート：2014年2月](release-notes/previous-releases/2014/release-notes-february-2014.md)
-         + [リリースノート：2014年1月](release-notes/previous-releases/2014/release-notes-january-2014.md)
-         + [リリースノート：2014年7月](release-notes/previous-releases/2014/release-notes-july-2014.md)
-         + [リリースノート：2014年6月](release-notes/previous-releases/2014/release-notes-june-2014.md)
-         + [リリースノート：2014年3月](release-notes/previous-releases/2014/release-notes-march-2014.md)
-         + [リリースノート：2014年5月](release-notes/previous-releases/2014/release-notes-may-2014.md)
-         + [リリースノート：2014年10月](release-notes/previous-releases/2014/release-notes-october-2014.md)
-      + 2013年 {#2013}
-         + [リリースノート：2013年4月](release-notes/previous-releases/2013/release-notes-april-2013.md)
-         + [リリースノート：2013年8月](release-notes/previous-releases/2013/release-notes-august-2013.md)
-         + [リリースノート：2013年12月](release-notes/previous-releases/2013/release-notes-december-2013.md)
-         + [リリースノート：2013年2月](release-notes/previous-releases/2013/release-notes-february-2013.md)
-         + [リリースノート：2013年1月](release-notes/previous-releases/2013/release-notes-january-2013.md)
-         + [リリースノート：2013年7月](release-notes/previous-releases/2013/release-notes-july-2013.md)
-         + [リリースノート：2013年6月](release-notes/previous-releases/2013/release-notes-june-2013.md)
-         + [リリースノート：2013年3月](release-notes/previous-releases/2013/release-notes-march-2013.md)
-         + [リリースノート：2013年5月](release-notes/previous-releases/2013/release-notes-may-2013.md)
-         + [リリースノート：2013年10月](release-notes/previous-releases/2013/release-notes-october-2013.md)
-         + [リリースノート：2013年9月](release-notes/previous-releases/2013/release-notes-september-2013.md)
-      + 2012年 {#2012}
-         + [リリースノート：2012年4月](release-notes/previous-releases/2012/release-notes-april-2012.md)
-         + [リリースノート：2012年12月](release-notes/previous-releases/2012/release-notes-december-2012.md)
-         + [リリースノート：2012年1月／2月](release-notes/previous-releases/2012/release-notes-jan-feb-2012.md)
-         + [リリースノート：2012年6月](release-notes/previous-releases/2012/release-notes-june-2012.md)
-         + [リリースノート：2012年3月](release-notes/previous-releases/2012/release-notes-march-2012.md)
-         + [リリースノート：2012年5月](release-notes/previous-releases/2012/release-notes-may-2012.md)
-         + [リリースノート：2012年10月](release-notes/previous-releases/2012/release-notes-october-2012.md)
-         + [リリースノート：2012年9月](release-notes/previous-releases/2012/release-notes-september-2012.md)
+      + [2022年](release-notes/previous-releases/release-notes-2022.md)
+      + [2021年](release-notes/previous-releases/release-notes-2021.md)
+      + [2020](release-notes/previous-releases/release-notes-2020.md)
+      + [2019](release-notes/previous-releases/release-notes-2019.md)
+      + [2018](release-notes/previous-releases/release-notes-2018.md)
+      + [2017](release-notes/previous-releases/release-notes-2017.md)
+      + [2016](release-notes/previous-releases/release-notes-2016.md)
+      + [2015](release-notes/previous-releases/release-notes-2015.md)
+      + [2014](release-notes/previous-releases/release-notes-2014.md)
+      + [2013](release-notes/previous-releases/release-notes-2013.md)
+      + [2012](release-notes/previous-releases/release-notes-2012.md)
       + [2010年～2011年](release-notes/previous-releases/2010-2011.md)
       + [2007年～2009年](release-notes/previous-releases/2007-2009.md)
