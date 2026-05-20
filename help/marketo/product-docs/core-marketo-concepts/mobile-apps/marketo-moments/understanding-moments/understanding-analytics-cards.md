@@ -5,7 +5,8 @@ title: 分析カードについて
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 311
@@ -35,7 +36,7 @@ ht-degree: 84%
 * 前月比の比較
 * 大多数または上位 3 件の棒グラフ（カードに応じて異なります）
 
-例えば、[!UICONTROL 獲得リード ]分析カードの詳細は次のとおりです。
+例えば、[!UICONTROL 獲得リード &#x200B;]分析カードの詳細は次のとおりです。
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
