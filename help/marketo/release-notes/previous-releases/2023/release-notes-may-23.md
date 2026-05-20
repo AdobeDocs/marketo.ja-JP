@@ -3,10 +3,16 @@ description: リリースノート - 2023年5月 - Marketo ドキュメント - 
 title: リリースノート - 2023年5月
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
 TQID: https://experienceleague.adobe.com/TNFskyWoqMkppTm3glx6nYBwGCEaPZtlPnHBBmqKKCY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-subfeature_v2: id: d1956f52-ecfd-4e01-8941-47af238acb0d
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2:
+  - id: d1956f52-ecfd-4e01-8941-47af238acb0d
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 370
@@ -70,7 +76,7 @@ ht-degree: 94%
 
 インタラクティブウェビナーは、マーケターが Marketo Engage 内でイベントを作成、管理および配信できるネイティブでシームレスなエクスペリエンスを提供することで、既存のイベントおよびウェビナーのエクスペリエンスを強化します。 イベントのタイプに応じてウェビナーをカスタマイズし、必要に応じてプレゼンターを追加することもできます。 ライブ投票、チャット、Q＆A セッション、web リンクのクリック、ドキュメントのダウンロードなど、Adobe Connect の機能を通じて豊富なエンゲージメントインサイトを取得できます。 豊富なダッシュボード指標を使用して、Marketo Engage で直接ウェビナー録画を取得し、パフォーマンスを評価できます。
 
-インタラクティブウェビナーは、徐々にロールアウトされます。 以前のアクセスをリクエストするには、[このフォーム ](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}に入力してください。
+インタラクティブウェビナーは、徐々にロールアウトされます。 以前のアクセスをリクエストするには、[このフォーム &#x200B;](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}に入力してください。
 
 <table>
   <tr>

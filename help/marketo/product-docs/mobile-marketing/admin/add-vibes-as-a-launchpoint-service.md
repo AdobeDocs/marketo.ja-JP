@@ -5,8 +5,10 @@ title: Vibes を LaunchPoint サービスとして追加する
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/gEjUFyBWpi3na2ipKGw51TStNkZauQyhrRipUov1Fng
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 189
@@ -42,14 +44,14 @@ Vibes SMS キャンペーンにオプトインしたユーザーにSMS メッセ
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. 「設定」で、Vibes [!UICONTROL  ユーザー名]、[!UICONTROL  パスワード ]、[!UICONTROL 会社キー] （すべてVibes アカウントで確認できます）を入力します。 「**[!UICONTROL 作成]**」をクリックします。
+1. 「設定」で、Vibes [!UICONTROL &#x200B; ユーザー名]、[!UICONTROL &#x200B; パスワード &#x200B;]、[!UICONTROL 会社キー] （すべてVibes アカウントで確認できます）を入力します。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   新しいSMS サービスが[!UICONTROL  インストール済みサービス ] リストに表示されるようになりました。
+   新しいSMS サービスが[!UICONTROL &#x200B; インストール済みサービス &#x200B;] リストに表示されるようになりました。
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->[Vibes ビデオのデモ ](https://vimeo.com/215233767/1ed136adbc){target="_blank"}
+>[Vibes ビデオのデモ &#x200B;](https://vimeo.com/215233767/1ed136adbc){target="_blank"}

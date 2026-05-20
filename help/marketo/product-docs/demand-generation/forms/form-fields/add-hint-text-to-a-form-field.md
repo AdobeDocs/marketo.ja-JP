@@ -5,8 +5,10 @@ title: フォームフィールドへのヒントテキストの追加
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
 TQID: https://experienceleague.adobe.com/bpthF9ihHybFE8UGBRGrVqGBD8dCFLePHAVJiFXG5TQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 133
@@ -52,4 +54,4 @@ ht-degree: 72%
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-フォームフィールドにツールヒントの手順を追加するには、[ フォームフィールドにツールヒントの手順を追加](add-tooltip-instructions-to-a-form-field.md)を参照してください。
+フォームフィールドにツールヒントの手順を追加するには、[&#x200B; フォームフィールドにツールヒントの手順を追加](add-tooltip-instructions-to-a-form-field.md)を参照してください。

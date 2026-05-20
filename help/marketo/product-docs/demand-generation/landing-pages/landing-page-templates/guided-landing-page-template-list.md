@@ -5,9 +5,13 @@ title: ガイド付きランディングページテンプレートリスト
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
 source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 357
@@ -17,7 +21,7 @@ ht-degree: 84%
 
 # ガイド付きランディングページテンプレートリスト {#guided-landing-page-template-list}
 
-[ ガイド付きランディングページエディター](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)で使用するサンプルテンプレートのコレクションをご覧ください。 各テンプレートは完全にレスポンシブで、Bootstrap フレームワークに基づいています。
+[&#x200B; ガイド付きランディングページエディター](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)で使用するサンプルテンプレートのコレクションをご覧ください。 各テンプレートは完全にレスポンシブで、Bootstrap フレームワークに基づいています。
 
 >[!NOTE]
 >

@@ -4,8 +4,10 @@ title: トランザクションセールスメールテンプレート
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
 TQID: https://experienceleague.adobe.com/jtFUKYM-28npTije11gtCPNGBdsgEcI6Qhp6lbbLWUY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 194
@@ -19,9 +21,9 @@ ht-degree: 6%
 
 ## 注意事項 {#things-to-note}
 
-* 非商用メールは、セールスの登録解除と[Marketo Engageの登録解除チェック ](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}をバイパスしますが、[ ブロックされたドメイン ](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}はバイパスされません。
+* 非商用メールは、セールスの登録解除と[Marketo Engageの登録解除チェック &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}をバイパスしますが、[&#x200B; ブロックされたドメイン &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/admin/blocked-domains.md){target="_blank"}はバイパスされません。
 
-* 購読解除メッセージの追加管理設定](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"}が有効になっている場合でも、購読解除メッセージは非商用メールに自動的に追加されません。 [ただし、`{{team_unsubscribe}}` [動的フィールド ](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}は、引き続きチームの購読解除メッセージに入力されます。
+* 購読解除メッセージの追加管理設定[&#128279;](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"}が有効になっている場合でも、購読解除メッセージは非商用メールに自動的に追加されません。 ただし、`{{team_unsubscribe}}` [動的フィールド &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}は、引き続きチームの購読解除メッセージに入力されます。
 
 ## 非商用利用のためのメールテンプレートの設定 {#configure-an-email-template-for-non-commercial-use}
 

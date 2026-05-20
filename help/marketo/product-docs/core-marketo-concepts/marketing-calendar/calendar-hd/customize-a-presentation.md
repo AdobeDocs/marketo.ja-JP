@@ -5,7 +5,8 @@ title: プレゼンテーションのカスタマイズ
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
 TQID: https://experienceleague.adobe.com/DDmFzhg3-yRx3ktlHa5TICBSOmG6hlrANlH6tb7FGIY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 284
@@ -38,7 +39,7 @@ ht-degree: 71%
 
 ## ゴールの追加 {#add-a-goal}
 
-プレゼンテーションが最も効果的なのは、チームの目標を表示する場合です。 異なる[ カスタム目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}または[ スマートリスト目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}をドラッグします。 最大 10 個まで使用できます。
+プレゼンテーションが最も効果的なのは、チームの目標を表示する場合です。 異なる[&#x200B; カスタム目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}または[&#x200B; スマートリスト目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}をドラッグします。 最大 10 個まで使用できます。
 
 1. 右側のツリーから、プレゼンテーションで表示する各ゴールをドラッグします。
 

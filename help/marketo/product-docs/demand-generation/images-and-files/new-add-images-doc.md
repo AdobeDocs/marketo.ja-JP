@@ -5,8 +5,10 @@ hide: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
 TQID: https://experienceleague.adobe.com/F4i-VcFV3IX1NG6v0s-qYE5tooll9dsjL407Vypoxow
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 308
@@ -48,7 +50,7 @@ ht-degree: 25%
 
 テキスト
 
-1. 上記](#upload-image-or-file)から手順1と2 [に従います。
+1. 上記[&#128279;](#upload-image-or-file)から手順1と2 に従います。
 
 1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、**[!UICONTROL 画像またはファイルの読み込み]**&#x200B;を選択します。
 
@@ -70,7 +72,7 @@ PICC
 
 テキスト
 
-1. 上記](#upload-image-or-file)から手順1と2 [に従います。
+1. 上記[&#128279;](#upload-image-or-file)から手順1と2 に従います。
 
 1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、**[!UICONTROL 画像またはファイルの読み込み]**&#x200B;を選択します。
 
@@ -100,7 +102,7 @@ PICC
 
 テキスト
 
-1. 上記](#upload-image-or-file)から手順1と2 [に従います。
+1. 上記[&#128279;](#upload-image-or-file)から手順1と2 に従います。
 
 1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、**[!UICONTROL 画像またはファイルの読み込み]**&#x200B;を選択します。
 

@@ -4,10 +4,19 @@ title: リリースノート - 2024年1月
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
 TQID: https://experienceleague.adobe.com/H-fad0HtKRnUzLN8mBkX-i7iUboD-RqMY8-AM5z-Bz8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e2290edd-b061-4880-9d79-dee306cf5aa9
-subfeature_v2: id: cbccec41-b38b-4693-8acf-fed684dd06ba
-topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+subfeature_v2:
+  - id: cbccec41-b38b-4693-8acf-fed684dd06ba
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 840
@@ -197,7 +206,7 @@ ht-degree: 90%
 
 * **ワンクリックリスト登録解除の更新**：Gmail と Yahoo は、2024年2月1日（PT）に発効したいくつかの新しい送信者要件を実装しました。 [その概要と影響について説明します](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}。
 
-* **リード APIの同期の更新**: [ リード API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}の動作は、`unsubscribed` フィールドの更新に関して少し調整されました。 現在は、値として `null` を渡すと、`false` の値を渡すのと同じになります。
+* **リード APIの同期の更新**: [&#x200B; リード API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}の動作は、`unsubscribed` フィールドの更新に関して少し調整されました。 現在は、値として `null` を渡すと、`false` の値を渡すのと同じになります。
 
 * **Marketo Engage Forms jQuery 1.x**:2024年1月のリリースでは、jQuery for Marketo Engage FormsをjQuery 3.xにアップデートします。 これは、古いバージョンのjQueryに依存するカスタムフォーム実装に影響を与える可能性があります。 詳しくは、[こちらを参照](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}してください。
 

@@ -5,10 +5,20 @@ title: リリースノート - 2019 年 6 月
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
 TQID: https://experienceleague.adobe.com/l-uJTEC4AHKsGj-BPUHaIVvCpZkeXHSlNW9fivL6NrI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: de9e3aa9-f002-4fe1-897b-09ee3c55114b
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 639
@@ -73,4 +83,4 @@ ht-degree: 92%
 * **ドリフト統合**：ドリフト会話がお客様のジャーニーに与える影響を理解します。 [!DNL Bizible] は会話からメールアドレスを抽出し、新規リードを作成したり、既存リードにタッチポイントを連携したりします。
 * **ローカライゼーション**：[!DNL Bizible] は、Marketo でサポートされているすべての言語（英語、日本語、ドイツ語、スペイン語、フランス語、ポルトガル語）で利用できるようになりました。
 
-_**製品リリースウェビナー**_：2019年6月リリースイノベーションのウェビナーの録画を[こちら](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)でご覧ください。
+_&#x200B;**製品リリースウェビナー**&#x200B;_：2019年6月リリースイノベーションのウェビナーの録画を[こちら](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)でご覧ください。

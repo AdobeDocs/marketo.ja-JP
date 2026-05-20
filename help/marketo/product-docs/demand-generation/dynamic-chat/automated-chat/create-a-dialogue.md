@@ -4,8 +4,10 @@ title: ダイアログの作成
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
 TQID: https://experienceleague.adobe.com/xEgZSfcWCOUkzqvq-XzziusQAhEhL4iXpY9oGrxUduA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 98
@@ -33,7 +35,7 @@ ht-degree: 60%
 >
 >優先度は、訪問者が複数のダイアログに同時に振り分けた場合に、どのダイアログを訪問者に表示するかを決定します。
 
-次に、[ ストリームを作成する方法](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}を説明します。
+次に、[&#x200B; ストリームを作成する方法](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}を説明します。
 
 >[!MORELIKETHIS]
 >

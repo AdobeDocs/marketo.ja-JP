@@ -4,7 +4,8 @@ title: Salesforce とのリマインダータスク同期
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/gxQs0GlZN5Bp262OW4wa0Rk4-txe0tC3MBL0V-2mTeo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 518
@@ -16,7 +17,7 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->タスク同期を有効にする方法について詳しくは、[ [!DNL Sales Connect]  タスク／リマインダーの  [!DNL Salesforce]  タスクへの同期](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks)を参照してください。
+>タスク同期を有効にする方法について詳しくは、[&#x200B; [!DNL Sales Connect]  タスク／リマインダーの  [!DNL Salesforce]  タスクへの同期](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks)を参照してください。
 
 タスクの同期設定が有効になると、ユーザは、[!DNL Salesforce] と双方向に同期されたリマインダータスクを確認できます。 つまり、ユーザは [!DNL Salesforce] または [!DNL Sales Connect] からタスクを管理し、システムの整合性が維持されていることを確信できます。
 

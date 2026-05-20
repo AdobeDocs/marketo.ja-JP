@@ -5,8 +5,10 @@ title: マーケティングカレンダーの操作
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
 TQID: https://experienceleague.adobe.com/4FJUMYHjMDUvig-R-HBt7x4wvizISoq2eZJ1u45-oXU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 179
@@ -20,7 +22,7 @@ ht-degree: 61%
 
 >[!PREREQUISITES]
 >
->[ マーケティングカレンダーライセンス ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}を持っていることを確認してください。そうしないと、マーケティングカレンダータイルがMy Marketoに表示されません。
+>[&#x200B; マーケティングカレンダーライセンス &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}を持っていることを確認してください。そうしないと、マーケティングカレンダータイルがMy Marketoに表示されません。
 
 >[!NOTE]
 >
@@ -44,7 +46,7 @@ ht-degree: 61%
 
 アジェンダビューには、すべてのエントリがリストとして表示されます。
 
-1. 「****&#x200B;フィルター」ドロップダウンをクリックします。
+1. 「**&#x200B;**&#x200B;フィルター」ドロップダウンをクリックします。
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 

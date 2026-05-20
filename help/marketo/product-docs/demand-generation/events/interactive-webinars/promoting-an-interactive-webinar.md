@@ -4,8 +4,10 @@ title: インタラクティブウェビナーのプロモーション
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 TQID: https://experienceleague.adobe.com/QBHZR8wjeXBanHL-K3L8yldblimtKfcY4akfwVu78EI
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 800
@@ -39,7 +41,7 @@ ht-degree: 80%
 
 登録から数分以内に、メンバーのウェビナー URL が「メンバー」タブに入力されます。 ウェビナーURLの列が見つからない場合は、列がビューに追加されていることを確認します。 これは登録メンバーごとにパーソナライズされた URL で、認証を必要とせずにスケジュールされた時間にウェビナーにエントリできるようになります。 内部で交換されるトークンは、メンバーの認証を処理します。
 
-`{{member.webinar url}}` [ トークン ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}を使用して、メールキャンペーンの個々のメンバーにウェビナーのURLを含め、イベントに登録されたことを伝え、参加URLを使用してスケジュールされた時間にウェビナーに参加できます。 カレンダートークンを同じメールキャンペーンで使用すると、ウェビナースケジュールをメンバーのカレンダーに確実に追加できます。
+`{{member.webinar url}}` [&#x200B; トークン &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}を使用して、メールキャンペーンの個々のメンバーにウェビナーのURLを含め、イベントに登録されたことを伝え、参加URLを使用してスケジュールされた時間にウェビナーに参加できます。 カレンダートークンを同じメールキャンペーンで使用すると、ウェビナースケジュールをメンバーのカレンダーに確実に追加できます。
 
 イベントプログラムの「概要」タブの右側にあるリンクを使用して、ランディングページやメールキャンペーンを作成できます。 イベントに関連する残りのプロモーションは、Launchpoint 統合を使用したパートナーウェビナーと同じです。
 

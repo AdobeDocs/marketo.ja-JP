@@ -3,10 +3,21 @@ description: リリースノート - 2021 年 8 月 - Marketo ドキュメント
 title: リリースノート - 2021 年 8 月
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
 TQID: https://experienceleague.adobe.com/eX6BJ2kUTiOEw6RjiuSu8883IqyfX6cUBqkr7zdGZv0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-subfeature_v2: id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2:
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 908
@@ -68,7 +79,7 @@ ht-degree: 77%
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] リードジェネレーションフォーム統合**：[!DNL LinkedIn] がリードジェネレーションフォームの広告ユニットを通じてフォームの入力をキャプチャする際に発生するコンバージョンに対して収益属性を実行できるようになりました。 これらのインサイトは、フォームのパフォーマンスや有料メディアへの投資を最適化するために利用できます。[!DNL LinkedIn] リードジェネレーション Formsは、[!DNL LinkedIn]で最も急成長している有料メディア製品の1つであり、この新しい機能は、[!DNL Bizible]との既存の[!DNL LinkedIn]広告の統合に含まれています。
+* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] リードジェネレーションフォーム統合**：[!DNL LinkedIn] がリードジェネレーションフォームの広告ユニットを通じてフォームの入力をキャプチャする際に発生するコンバージョンに対して収益属性を実行できるようになりました。 これらのインサイトは、フォームのパフォーマンスや有料メディアへの投資を最適化するために利用できます。[!DNL LinkedIn] リードジェネレーション Formsは、[!DNL LinkedIn]で最も急成長している有料メディア製品の1つであり、この新しい機能は、[!DNL Bizible]との既存の[!DNL LinkedIn]広告の統合に含まれています。
 
 * **Velocity ダッシュボードの改善**：より深いインサイトを得るための新しい Velocity 指標とダッシュボードフィルターを追加しました。 このダッシュボードは、マーケターが段階的なリードと商談の速度、および様々な形式のマーケティングとセールスエンゲージメントの効率を理解するために使用します。
 
@@ -80,7 +91,7 @@ ht-degree: 77%
 
 * **[!DNL Bizible]Adobe Privacy Serviceとの統合** （2021年9月に利用可能）: [!DNL Bizible]のAdobe Privacy Serviceとの統合により、Adobe Experience Cloud アプリケーション全体の重要なデータプライバシー規制（GDPRなど）へのコンプライアンスが一元化されます。 このサービスを活用し、すべてのプライバシーリクエストを一元的に管理できるようになり、[!DNL Bizible] や他のアドビ製品に対する変更リクエストがアプリケーション間で反映されるようになりました。
 
-* Adobe統合シェル **上の**[!DNL Bizible]: [!DNL Bizible]のAdobe統合シェルの導入により、ユーザーは[!DNL Bizible] アプリケーションのヘッダーバーに表示される新しい機能を利用できるようになり、サポートリソースとアプリケーション切り替えにより多くのアクセスが可能になります。 アドビ統合シェルは、[!DNL Bizible] と他の Adobe Experience Cloud アプリケーションとの間で一貫したエクスペリエンスを作成するのに役立ちます。
+* Adobe統合シェル **上の**&#x200B;[!DNL Bizible]: [!DNL Bizible]のAdobe統合シェルの導入により、ユーザーは[!DNL Bizible] アプリケーションのヘッダーバーに表示される新しい機能を利用できるようになり、サポートリソースとアプリケーション切り替えにより多くのアクセスが可能になります。 アドビ統合シェルは、[!DNL Bizible] と他の Adobe Experience Cloud アプリケーションとの間で一貫したエクスペリエンスを作成するのに役立ちます。
 
 * **[!DNL Bizible]ドメインの所有権と自己管理**：[!DNL Bizible] ユーザは、Adobe Admin Console を活用して、[!DNL Bizible] でトラッキングするドメインを管理できます。 セルフサービスを以前に手動で行うプロセスに移行し、Adobe Experience Cloud アプリケーションでドメインの所有とトラッキングをどのように管理するかで、一貫したエクスペリエンスを提供できます。
 

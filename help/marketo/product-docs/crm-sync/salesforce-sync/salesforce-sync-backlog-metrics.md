@@ -4,9 +4,14 @@ title: Salesforce 同期バックログ指標
 feature: Reporting
 exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
 TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1155
@@ -96,16 +101,16 @@ ht-degree: 40%
 
 **同期ユーザーに表示されるフィールド**：同期に表示されるフィールドが、同期する必要があり、マーケティング活動に対する価値を持つフィールドのみであることを確認します。 最後に変更されたタイムスタンプを更新するSalesforceのレコードに対する更新は、レコードを同期バックログにキューに入れます。また、不要なフィールドの同期は、同期中のより重要なフィールドの処理を遅らせる可能性があります。 不要なフィールドが同期ユーザーから非表示になっている場合、それらのフィールドを更新すると、更新よりもはるかに速いスキップが発生します。 Salesforce管理者と協力して、ベストプラクティス [ここ](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"}を確認し、Marketo Sync ユーザーに表示されるフィールドを更新します。
 
-**不要なレコードを非表示またはフィルター**: レコードがマーケティング可能でない場合、同期リソースが無駄になる可能性があります。 同期ユーザーが同期を確認できない場合、同期を試みるリソースを無駄にすることはありません。 [Marketo Engage サポート ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}は、追加の条件に基づいてレコードの同期を禁止する同期フィルターの設定を支援します。 カスタム同期フィルター[の設定に関する詳細については、こちらを参照してください](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 Salesforce内でインデックスフィールドを使用することを強くお勧めします（詳しくはsalesforceにお問い合わせください）。
+**不要なレコードを非表示またはフィルター**: レコードがマーケティング可能でない場合、同期リソースが無駄になる可能性があります。 同期ユーザーが同期を確認できない場合、同期を試みるリソースを無駄にすることはありません。 [Marketo Engage サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}は、追加の条件に基づいてレコードの同期を禁止する同期フィルターの設定を支援します。 カスタム同期フィルター[の設定に関する詳細については、こちらを参照してください](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}。 Salesforce内でインデックスフィールドを使用することを強くお勧めします（詳しくはsalesforceにお問い合わせください）。
 
 **重要でない時間帯に一括更新をスケジュール**: データ同期パターンを確認して、重要でない期間を特定します。 可能であれば、これらの重要でない期間に一括更新をスケジュールできるかどうかを確認します。
 
 **頻繁に更新されるフィールド**：一部のフィールドは頻繁に更新される傾向があります。 例えば、通貨の変更の対象となる通貨フィールド。 これらのフィールドを同期する必要があるかどうか、またはフィールドのデザインを変更する必要があるかどうかを確認します。 頻繁に更新され、不要な他のフィールドがある場合は、同期ユーザーから非表示にします。 フィールドを更新する可能性のある統合について、SFDC管理者と話し合います。
 
-**カスタムオブジェクト**：同期が有効になっている[ カスタムオブジェクト ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}を定期的に確認し、同期する必要がなくなったオブジェクトを同期および無効化します。
+**カスタムオブジェクト**：同期が有効になっている[&#x200B; カスタムオブジェクト &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"}を定期的に確認し、同期する必要がなくなったオブジェクトを同期および無効化します。
 
-**アクティビティ**: [いずれかのアクティビティ ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}で同期が有効になり、同期から削除される可能性があるかどうかを確認します。  これらのアクティビティは、リードごとに1日に1回のみ同期されます。
+**アクティビティ**: [いずれかのアクティビティ &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"}で同期が有効になり、同期から削除される可能性があるかどうかを確認します。  これらのアクティビティは、リードごとに1日に1回のみ同期されます。
 
 **同期の確認エラー**：例外処理により、同期が遅くなる場合があります。 ユーザー通知を確認し、エラーを解決すると、同期の正常性が向上する可能性があります。
 
-**サポートにお問い合わせください**：上記のベストプラクティスをすべて実行していても、重大なバックログが発生している場合は、[Marketo Engage サポート ](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}にお問い合わせください。
+**サポートにお問い合わせください**：上記のベストプラクティスをすべて実行していても、重大なバックログが発生している場合は、[Marketo Engage サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"}にお問い合わせください。

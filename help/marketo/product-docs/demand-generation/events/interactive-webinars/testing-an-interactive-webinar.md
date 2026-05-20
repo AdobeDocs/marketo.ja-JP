@@ -4,8 +4,10 @@ title: インタラクティブウェビナーのテスト
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
 TQID: https://experienceleague.adobe.com/sZ2mZgzdcX3f7nD5BJ5MG9ZPPtqoC6IZ8ayyT9I7XQQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 384
@@ -21,7 +23,7 @@ ht-degree: 2%
 
 インタラクティブウェビナーは、テストウェビナーとして使用できます。 テストは、10人以下のホストとプレゼンター（参加者）を追加することによって実行できます。
 
-テストウェビナーを作成するワークフローは、インタラクティブウェビナーイベントプログラムに関して、他のウェビナー](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)を作成する[と同じままです。 配達に選択した日付は将来の日付に設定することをお勧めします。
+テストウェビナーを作成するワークフローは、インタラクティブウェビナーイベントプログラムに関して、他のウェビナー[&#128279;](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)を作成すると同じままです。 配達に選択した日付は将来の日付に設定することをお勧めします。
 
 >[!CAUTION]
 >

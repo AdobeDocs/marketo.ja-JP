@@ -4,10 +4,29 @@ title: リリースノート - 2021 年 1 月
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
 TQID: https://experienceleague.adobe.com/0Mwxsvl6m0uIK7-L0GkX0mYKMnNXDuNjTmR-MBfLDXM
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: fc9b09fe-b844-4544-887b-e420c3b82065
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+  - id: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1303
@@ -67,7 +86,7 @@ ht-degree: 90%
 * **[テスト用メールワークフローの強化（[!DNL Salesforce] CRM）](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**：[!DNL Sales Insight] のテスト用メールワークフローが強化され、セールスチームの効率が向上します。 販売者は、最大 200 人の受信者にメールを一括送信する前に、選択したメールアドレスにテスト用メールを送信できます。
 * **[メールの状態に関するインサイト （[!DNL Salesforce] CRM）](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**：ユーザーがメールを送信する前に、無効な電子メール IDまたは購読解除された電子メールアドレスに電子メールを送信しようとすると、警告メッセージが表示されます。電子メール配信のステータスは、[!DNL Sales Insight]の電子メールタブで確認できます。
 * **[アカウント](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout)および[商談](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout)パネルからメールを一括送信（[!DNL Salesforce] CRM）**：新しい一括アクション機能を使用することで、販売者のワークフローの効率性を向上させ、アカウント全体または商談の取引責任者リストに関わることができます。 個々の取引先責任者を扱う代わりに、「アカウント」または「商談」タブの新しいドロップダウンオプションを使用して、Marketo Engage キャンペーンにメールを送信したり、取引先責任者を追加したりできます。 リードがホットになったときに通知を受けるために、アカウントの取引先責任者をウォッチリストに追加します。
-* 非ネイティブ  [!DNL Salesforce]  CRM 統合用 **[[!DNL Sales Insight] ](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**：カスタムの Salesforce CRM 統合を使用した GA サブスクリプションは、[!DNL Sales Insight] パッケージをインストールし、販売チームが最も有望なリードや商談を優先し、やり取りできるよう支援します。
+* 非ネイティブ  [!DNL Salesforce]  CRM 統合用 **[[!DNL Sales Insight] &#x200B;](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**：カスタムの Salesforce CRM 統合を使用した GA サブスクリプションは、[!DNL Sales Insight] パッケージをインストールし、販売チームが最も有望なリードや商談を優先し、やり取りできるよう支援します。
 * **[ベストプラクティスの強化](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**：「ベストベット」タブからホットリードに素早く連絡するには、リードをメールで送信するか、Marketo Engage キャンペーンに追加します。 リードを Marketo Engage で表示するか、ウォッチリストに追加します。 「[!UICONTROL 最有望見込客]」タブの一括アクションと並べ替えオプションにより、時間を節約し、セールスチームの効率性を向上させることができます。
 
 ## [!DNL Sales Connect] {#sales-connect}

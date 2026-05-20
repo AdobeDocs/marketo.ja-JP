@@ -4,9 +4,15 @@ title: Dynamic Chat の概要
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
 TQID: https://experienceleague.adobe.com/5qqiLY7-0rQiixzz0cgP7rjp8wqwHePgr4vOakFA6Ew
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 627
@@ -92,7 +98,7 @@ Dynamic Chat の言語を変更するには、次の手順に従います。
 
 ## Dynamic Chat データ保持制限 {#dynamic-chat-data-retention-limits}
 
-Dynamic Chatの制限/パラメーターを以下に示します。 完全なリストについては、「Marketo Engage [製品説明」ページ ](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}を参照してください。
+Dynamic Chatの制限/パラメーターを以下に示します。 完全なリストについては、「Marketo Engage [製品説明」ページ &#x200B;](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}を参照してください。
 
 <table>
   <th>データタイプ</th>

@@ -5,9 +5,13 @@ title: Google でのパーソナライズリマーケティング
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/qAvf6tO5v6j29k3wWf3irTqhwv6EDq0eHzijvOjGXls
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 310
@@ -21,7 +25,7 @@ ht-degree: 86%
 
 >[!PREREQUISITES]
 >
->* [ [!DNL Web Personalization]  データを使用したリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)の設定の完了
+>* [&#x200B; [!DNL Web Personalization]  データを使用したリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)の設定の完了
 >* [リマーケティングと Google Analytics のヘルプ](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645)ドキュメントを確認してください。
 
 ## Google でのリマーケティングオーディエンスの作成 {#creating-a-remarketing-audience-in-google}
@@ -38,7 +42,7 @@ ht-degree: 86%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. オーディエンスビルダーで、[!UICONTROL  カスタムディメンション ]、[!UICONTROL [!]UICONTROL カスタム変数]、[!UICONTROL  イベント ]の下の&#x200B;**[!UICONTROL シーケンス]**&#x200B;と&#x200B;**[!UICONTROL RTP データ]**&#x200B;をクリックします。
+1. オーディエンスビルダーで、[!UICONTROL &#x200B; カスタムディメンション &#x200B;]、[!UICONTROL UICONTROL [ !] カスタム変数]、[!UICONTROL &#x200B; イベント &#x200B;]の下の&#x200B;**[!UICONTROL シーケンス]**&#x200B;と&#x200B;**[!UICONTROL RTP データ]**&#x200B;をクリックします。
 
 >[!TIP]
 >
@@ -87,7 +91,7 @@ ht-degree: 86%
 
    ![](assets/image2015-1-15-18-3a35-3a7.png)
 
-1. **[!UICONTROL 広告グループ名]を入力し、****[!UICONTROL 拡張 CPC]** を入力して、「**[!UICONTROL リマーケティングリスト]**」を選択します。
+1. **[!UICONTROL 広告グループ名]を入力し、**&#x200B;**[!UICONTROL 拡張 CPC]** を入力して、「**[!UICONTROL リマーケティングリスト]**」を選択します。
 
    ![](assets/image2015-1-15-18-3a51-3a57.png)
 
@@ -98,5 +102,5 @@ ht-degree: 86%
 
 >[!MORELIKETHIS]
 >
->* [ [!DNL Web Personalization]  データを使用したリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [ [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) でのパーソナライズリマーケティング
+>* [&#x200B; [!DNL Web Personalization]  データを使用したリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [&#x200B; [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) でのパーソナライズリマーケティング

@@ -5,9 +5,12 @@ title: 新しいワークスペースの作成
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
 TQID: https://experienceleague.adobe.com/sGqhyPt1HtQUKELmXx-4rqLC551Xhb69BvB048xX8HQ
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 227
@@ -28,11 +31,11 @@ ht-degree: 76%
 
 >[!NOTE]
 >
->詳しくは、[ ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を参照してください。
+>詳しくは、[&#x200B; ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を参照してください。
 
 >[!TIP]
 >
->Workspaceのベストプラクティスについて詳しくは、[Marketo プロフェッショナルサービス ](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
+>Workspaceのベストプラクティスについて詳しくは、[Marketo プロフェッショナルサービス &#x200B;](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -46,7 +49,7 @@ ht-degree: 76%
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. **[!UICONTROL 名前]**&#x200B;を入力し、使用する&#x200B;**[!UICONTROL 人物パーティション]**&#x200B;を選択します。 **[!UICONTROL プライマリの人物パーティション]**&#x200B;を選択します。 [人のパーティション ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}がまだ作成されていない場合は、作成されていることを確認します。
+1. **[!UICONTROL 名前]**&#x200B;を入力し、使用する&#x200B;**[!UICONTROL 人物パーティション]**&#x200B;を選択します。 **[!UICONTROL プライマリの人物パーティション]**&#x200B;を選択します。 [人のパーティション &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}がまだ作成されていない場合は、作成されていることを確認します。
 
    ![](assets/create-a-new-workspace-4.png)
 

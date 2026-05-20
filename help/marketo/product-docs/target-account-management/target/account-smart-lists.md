@@ -5,7 +5,8 @@ title: アカウントスマートリスト
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/CzJmCUT5TYuVKNOMmSkOjuRc7ImDGOzw7L-Ej45-Evw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 523
@@ -79,7 +80,7 @@ ht-degree: 92%
 >
 >フィルターのコンテナを作成すると、「and」ルールが作成され、結合された結果のみが返されます。 この例では、業種が医療業界で、カリフォルニア州に所在し、_さらに_ CFO として登録されているアカウントが返されます。 コンテナを利用しない場合は、既存のコンテナの下または上にフィルターをドロップします。
 
-[!UICONTROL  アカウントスマートリスト ]を活用する方法については、以下の節を参照してください。
+[!UICONTROL &#x200B; アカウントスマートリスト &#x200B;]を活用する方法については、以下の節を参照してください。
 
 >[!TIP]
 >

@@ -4,8 +4,10 @@ title: ON24 と Marketo の統合設定
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
 TQID: https://experienceleague.adobe.com/qIKnrBwavLmy7tBqPTLvz72AJNIiVRzoEKQtH0OVgWg
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 299
@@ -45,7 +47,7 @@ ON24 イベント統合を設定するには、次の手順に従います。
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. 作成した[!UICONTROL ON24 APIのみの役割（すべてのワークスペース） ]を選択します。 「**[!UICONTROL API 専用]**」チェックボックスを選択します。 「**[!UICONTROL 次へ]**」をクリックします。
+1. 作成した[!UICONTROL ON24 APIのみの役割（すべてのワークスペース） &#x200B;]を選択します。 「**[!UICONTROL API 専用]**」チェックボックスを選択します。 「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
@@ -75,7 +77,7 @@ ON24 イベント統合を設定するには、次の手順に従います。
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 
-1. [!UICONTROL  クライアント ID]をハイライト、右クリック、コピー、保存します（後で必要になります）。 [!UICONTROL クライアント秘密鍵]に対して繰り返します。
+1. [!UICONTROL &#x200B; クライアント ID]をハイライト、右クリック、コピー、保存します（後で必要になります）。 [!UICONTROL クライアント秘密鍵]に対して繰り返します。
 
    ![](assets/set-up-the-on24-integration-with-marketo-13.png)
 

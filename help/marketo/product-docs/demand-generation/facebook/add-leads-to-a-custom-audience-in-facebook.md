@@ -5,8 +5,10 @@ title: Facebook でのカスタムオーディエンスへのリードの追加
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
 TQID: https://experienceleague.adobe.com/GmHQaNHu--S3Za-k544FdD3BtqCL059HAbWSPDlUaCA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 165
@@ -20,8 +22,8 @@ ht-degree: 78%
 
 >[!PREREQUISITES]
 >
->* [ [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成
->* [!DNL Facebook] アカウント内で [ [!DNL Facebook] のカスタムオーディエンスの条件に同意](https://www.facebook.com/ads/manage/customaudiences/tos.php)します。
+>* [&#x200B; [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成
+>* [!DNL Facebook] アカウント内で [&#x200B; [!DNL Facebook] のカスタムオーディエンスの条件に同意](https://www.facebook.com/ads/manage/customaudiences/tos.php)します。
 >
 
 1. 追加するリードを含むスマートリストまたは静的リストを探して選択します。
@@ -53,4 +55,4 @@ ht-degree: 78%
 
    >[!NOTE]
    >
-   >[ [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成
+   >[&#x200B; [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md) でのカスタムオーディエンスの作成

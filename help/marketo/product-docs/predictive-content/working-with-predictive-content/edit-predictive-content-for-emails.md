@@ -5,8 +5,10 @@ title: メールの予測コンテンツの編集
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
 TQID: https://experienceleague.adobe.com/e2NGmNJB2E1M1cUZy8bcLA5lLb-9a-j55LWYyfpow-o
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 256
@@ -77,4 +79,4 @@ ht-degree: 82%
 
    >[!NOTE]
    >
-   >Marketo メールエディターv2.0では、コンテンツを有効にする際に使用するレイアウトテンプレート ](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)を[表示することもできます。
+   >Marketo メールエディターv2.0では、コンテンツを有効にする際に使用するレイアウトテンプレート [&#128279;](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md)を表示することもできます。

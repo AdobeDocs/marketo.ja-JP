@@ -5,7 +5,8 @@ title: ' [!DNL Microsoft Dynamics] 向け Marketo ソリューションのアッ
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/Ki3gY009SRNEcyvy-J8EWxDxScI0q8mnkcSxycwuUSc
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 180
@@ -53,4 +54,4 @@ ht-degree: 69%
 
 >[!CAUTION]
 >
->アップデートの代わりにアップグレードを選択すると、[!DNL Dynamics] 環境でデータが破損する可能性があります。 **[!UICONTROL 読み込みオプション ]の下の更新**&#x200B;を選択します。
+>アップデートの代わりにアップグレードを選択すると、[!DNL Dynamics] 環境でデータが破損する可能性があります。 **[!UICONTROL 読み込みオプション &#x200B;]の下の更新**&#x200B;を選択します。

@@ -5,10 +5,20 @@ title: ワークスペースと人物パーティションについて
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
 TQID: https://experienceleague.adobe.com/Ex-WBSNYTFvevcwryuO4CzUsg79nOmjkVx4WMUx9nqA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 551
@@ -22,7 +32,7 @@ ht-degree: 78%
 
 >[!CAUTION]
 >
->ワークスペースは、設定が複雑になる場合があります。 [Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡して、お客様に適しているかどうかを確認してください。
+>ワークスペースは、設定が複雑になる場合があります。 [Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support)に連絡して、お客様に適しているかどうかを確認してください。
 
 ワークスペースは Marketo の別の領域で、プログラム、ランディングページ、電子メールなどのマーケティングアセットが格納されます。 複数のユーザーが使用できます。 各ユーザーは、1 つ以上のワークスペースにアクセスできます。
 
@@ -114,7 +124,7 @@ ht-degree: 78%
 
 ## 人物パーティション {#person-partitions}
 
-人物パーティションは、個別のデータベースのように動作します。 各パーティションには、重複排除したり他のパーティションと混在したりしない、独自の人物が存在します。 ビジネスの使用例で、同じ電子メールアドレスを持つ重複したレコードが必要な場合は、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+人物パーティションは、個別のデータベースのように動作します。 各パーティションには、重複排除したり他のパーティションと混在したりしない、独自の人物が存在します。 ビジネスの使用例で、同じ電子メールアドレスを持つ重複したレコードが必要な場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 人物パーティションを[ワークスペース](create-a-new-workspace.md)に割り当てるには、以下の設定に従います。
 

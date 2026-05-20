@@ -5,9 +5,12 @@ title: 注目のアクションの使用
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/a7xwk8AWmiXHHxNMaCKh6rfVAO-60pwNjBoNsCZu0h4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 439
@@ -69,7 +72,7 @@ ht-degree: 95%
 
 ## 注目のアクションは、[!DNL Salesforce] でどのように表示されるか  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-[ [!DNL Marketo Sales Insight]  アプリをインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)していれば、注目のアクションはリード、取引先責任者、アカウント、または商談ページに表示されます。 また、[!DNL Sales Insight] ダッシュボードで、「リードフィード」、「[!DNL Best Bets]」、「ウォッチリスト」にも表示されます。
+[&#x200B; [!DNL Marketo Sales Insight]  アプリをインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)していれば、注目のアクションはリード、取引先責任者、アカウント、または商談ページに表示されます。 また、[!DNL Sales Insight] ダッシュボードで、「リードフィード」、「[!DNL Best Bets]」、「ウォッチリスト」にも表示されます。
 
 ![](assets/using-interesting-moments-6.png)
 

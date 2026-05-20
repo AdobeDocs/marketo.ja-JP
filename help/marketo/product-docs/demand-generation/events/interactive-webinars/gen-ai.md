@@ -4,7 +4,8 @@ title: 生成AIの機能
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
 TQID: https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 694
@@ -72,7 +73,7 @@ Adobe GenAIの利用条件に同意したら、次のステップは個々のユ
 
    >[!NOTE]
    >
-   >* 必要に応じて、生成されたチャプター/概要の品質を&#x200B;_サムズアップ_ ![ サムズアップアイコン ](assets/icon-thumbs-up.png)または&#x200B;_サムズダウン_ ![ サムズダウンアイコン ](assets/icon-thumbs-down.png) アイコンで評価できます。 また、フラグアイコン ![ フラグアイコン ](assets/icon-flag.png)をクリックすると、問題のあるコンテンツにフラグを付けることもできます。
+   >* 必要に応じて、生成されたチャプター/概要の品質を&#x200B;_サムズアップ_ ![&#x200B; サムズアップアイコン &#x200B;](assets/icon-thumbs-up.png)または&#x200B;_サムズダウン_ ![&#x200B; サムズダウンアイコン &#x200B;](assets/icon-thumbs-down.png) アイコンで評価できます。 また、フラグアイコン ![&#x200B; フラグアイコン &#x200B;](assets/icon-flag.png)をクリックすると、問題のあるコンテンツにフラグを付けることもできます。
    >
    >* 最初の要約に満足しない場合は、「**[!UICONTROL 要約を再生成]**」ボタンをクリックすると、別のバージョンが生成されます。
 

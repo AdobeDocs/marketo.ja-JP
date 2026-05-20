@@ -5,8 +5,10 @@ title: メールプログラムのスケジュールを設定する
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
 TQID: https://experienceleague.adobe.com/mB-ot4Cdsc80DCdpPOzzY9QRyfvNYwZb4xZbiHUq1vE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 149
@@ -45,7 +47,7 @@ ht-degree: 75%
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   簡単ですね。 残っているのは[ メールプログラムの承認](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)のみです。よろしくお願いします。
+   簡単ですね。 残っているのは[&#x200B; メールプログラムの承認](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)のみです。よろしくお願いします。
 
 >[!MORELIKETHIS]
 >

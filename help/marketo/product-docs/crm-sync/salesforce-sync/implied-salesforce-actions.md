@@ -5,7 +5,8 @@ title: 暗黙的な Salesforce アクション
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/lI3sRqk1if-UZ7DARSrGXXM485ZjZnlqDGb4si2wvi0
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 163
@@ -52,4 +53,4 @@ ht-degree: 82%
 
 **[!UICONTROL SFDC Type]** フィルターを演算子を「[!UICONTROL 空でない]」に設定して使用すると、スマートリスト内の SFDC レコードを除外できます。 すべての SFDC レコードでこのフィールドの値が設定されます。
 
-これらの自動アクションは、リードが現在 [Salesforce.com ](https://salesforce.com){target="_blank"} に存在しない場合にのみ発生します。
+これらの自動アクションは、リードが現在 [Salesforce.com &#x200B;](https://salesforce.com){target="_blank"} に存在しない場合にのみ発生します。

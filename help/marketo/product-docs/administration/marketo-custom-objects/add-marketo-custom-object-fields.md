@@ -5,9 +5,12 @@ title: Marketo カスタムオブジェクトフィールドの追加
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
 TQID: https://experienceleague.adobe.com/fk5uHrQlGcchB6xctECVscTJ8Dre--0-F3bIVjOEKIo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 305
@@ -49,7 +52,7 @@ ht-degree: 57%
    >
    >[!UICONTROL API名]は、承認されるまで編集できます。
 
-1. リストから適切な[!UICONTROL  データタイプ ]を選択します。
+1. リストから適切な[!UICONTROL &#x200B; データタイプ &#x200B;]を選択します。
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 

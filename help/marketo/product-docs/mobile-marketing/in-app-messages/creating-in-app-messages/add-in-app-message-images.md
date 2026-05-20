@@ -5,8 +5,12 @@ title: アプリ内メッセージ画像の追加
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/wKrIxk7qDv37Iza7jA1ORfA16eQlPkP-JtXBWlFcnLs
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 371
@@ -90,7 +94,7 @@ ht-degree: 90%
    >
    >画像、ボタンまたは背景のタップアクションの場合、Apple および Android プラットフォーム用に様々なアクションを設定できます。 例えば、ディープリンクの処理は Apple と Android で異なります。 メッセージの送信先が 1 つのプラットフォームのみの場合は、もう 1 つのプラットフォームをデフォルト設定のままにするか、「**[!UICONTROL なし]**」を選択します。
 
-すばらしいです。 次に、[ アプリ内メッセージのテキストを作成します](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)。
+すばらしいです。 次に、[&#x200B; アプリ内メッセージのテキストを作成します](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md)。
 
 >[!MORELIKETHIS]
 >

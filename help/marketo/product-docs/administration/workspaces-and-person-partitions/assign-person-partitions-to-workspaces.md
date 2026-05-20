@@ -5,9 +5,12 @@ title: ワークスペースへの人物パーティションの割り当て
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
 TQID: https://experienceleague.adobe.com/RwOodsRKaP2Iz-DBy6uJ0fpXJkLskqldCqn1PtntVfU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 142
@@ -29,7 +32,7 @@ ht-degree: 61%
 
 >[!CAUTION]
 >
->ワークスペースと人物パーティションは複雑になる場合があります。 設定のヘルプについては、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。
+>ワークスペースと人物パーティションは複雑になる場合があります。 設定のヘルプについては、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -51,7 +54,7 @@ ht-degree: 61%
    >
    >* 「[!UICONTROL すべての人物パーティション]」チェックボックスは、このワークスペースがシステム内のすべての人物パーティションにアクセスできることを示します。
    >
-   >* プライマリのユーザーのパーティションは、すべてのユーザーが入力されるデフォルトのパーティションです。 [ フローステップ ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"}を使用して、パーティション間でユーザーを移動します。
+   >* プライマリのユーザーのパーティションは、すべてのユーザーが入力されるデフォルトのパーティションです。 [&#x200B; フローステップ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md)または[割り当てルール &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"}を使用して、パーティション間でユーザーを移動します。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 

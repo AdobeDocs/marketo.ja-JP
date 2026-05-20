@@ -5,8 +5,10 @@ title: ランディングページのタイトルとメタデータの編集
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/xox4waa9DvtyMtj1oEWF0ySjX8kUX3dW6TvAeJU6lOk
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
 source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 147
@@ -16,7 +18,7 @@ ht-degree: 70%
 
 # ランディングページのタイトルとメタデータの編集 {#edit-landing-page-title-and-metadata}
 
-Marketoでは、SEO目的でランディングページの[ メタタグを編集したり](https://www.w3schools.com/tags/tag_meta.asp)HTMLの`<head>`部分をカスタマイズしたりできます。
+Marketoでは、SEO目的でランディングページの[&#x200B; メタタグを編集したり](https://www.w3schools.com/tags/tag_meta.asp)HTMLの`<head>`部分をカスタマイズしたりできます。
 
 1. ランディングページを選択して、「**[!UICONTROL ドラフトの編集]**」をクリックします。
 

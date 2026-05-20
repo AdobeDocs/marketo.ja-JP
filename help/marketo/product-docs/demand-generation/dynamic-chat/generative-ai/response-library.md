@@ -4,7 +4,8 @@ title: 回答ライブラリ
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
 TQID: https://experienceleague.adobe.com/huqmL3JA7BaWaekIcKm2HjeqYCW6pALsp7fNyhTO1XU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 385
@@ -58,7 +59,7 @@ ht-degree: 5%
 
 ## 質問/回答の一括編集とアップロード {#bulk-edit-and-upload-questions-responses}
 
-[ ダウンロードしたExcel ファイル ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"}で一括編集を行う方法については、以下を参照してください。 ファイルの「タスクの詳細」タブにも表示されます。
+[&#x200B; ダウンロードしたExcel ファイル &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"}で一括編集を行う方法については、以下を参照してください。 ファイルの「タスクの詳細」タブにも表示されます。
 
 <table>
 <thead>

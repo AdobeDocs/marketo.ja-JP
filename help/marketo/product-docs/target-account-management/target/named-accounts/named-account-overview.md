@@ -5,7 +5,8 @@ title: '[!UICONTROL 重点顧客]の概要'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
 TQID: https://experienceleague.adobe.com/HXLDqMzv9yi6NfjC2nJq7Fh2Hy95UAX3UMx2S5rg7vA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 254
@@ -15,7 +16,7 @@ ht-degree: 86%
 
 # [!UICONTROL 重点顧客]の概要 {#named-account-overview}
 
-[!UICONTROL 名前付きアカウント ]には、対象の企業の人物が含まれています。 ダッシュボードには、すべての重点顧客の各属性の現在のデータが表示されます。
+[!UICONTROL 名前付きアカウント &#x200B;]には、対象の企業の人物が含まれています。 ダッシュボードには、すべての重点顧客の各属性の現在のデータが表示されます。
 
 ## [!UICONTROL 重点顧客]ダッシュボード {#named-accounts-dashboard}
 

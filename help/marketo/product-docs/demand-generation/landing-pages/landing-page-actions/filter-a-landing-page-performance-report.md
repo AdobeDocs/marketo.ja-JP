@@ -5,10 +5,15 @@ title: ランディングページの効果レポートをフィルターする
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/Wbd0ZqQ5sBiNjSc6iWtbVW17iqkEePCK8POru39u7xA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-subfeature_v2: id: ea6641cb-8461-4151-a8a9-9faaa44a928a
-topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2:
+  - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 157
@@ -32,7 +37,7 @@ ht-degree: 85%
 
    ![](assets/image2014-9-18-15-3a46-3a16.png)
 
-   * **[!UICONTROL デザインスタジオのランディングページ]：**[!UICONTROL デザインスタジオ]で管理されているグローバルアセット。
+   * **[!UICONTROL デザインスタジオのランディングページ]：**&#x200B;[!UICONTROL デザインスタジオ]で管理されているグローバルアセット。
    * **[!UICONTROL マーケティングアクティビティランディングページ]**：「[!UICONTROL マーケティングアクティビティ]」タブのプログラム内のローカルアセット。
    * **[!UICONTROL アーカイブランディングページ]：**&#x200B;非アクティブの、既に使われていないランディングページ。
 
