@@ -137,7 +137,7 @@ ht-degree: 6%
 
 マルチページのドリルスルーレポートエクスペリエンスの例については、次のビデオをご覧ください。
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451683/?captions=jpn&quality=12&learn=on){transcript=true}
 
 ## 高度なBI分析の標準レポート {#standard-reports}
 
