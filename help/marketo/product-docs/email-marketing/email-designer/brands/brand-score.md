@@ -7,7 +7,7 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 exl-id: 719686f7-16f5-423f-a4b1-f0a35005d222
-source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: '570'
 ht-degree: 10%
@@ -28,7 +28,7 @@ ht-degree: 10%
 
 1. 電子メールで、**[!UICONTROL ブランド調整]** アイコンをクリックします。
 
-   コンテンツは、[&#x200B; デフォルトのブランド &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#default-brand){target="_blank"}を自動的に評価します。
+   コンテンツは、[ デフォルトのブランド ](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#default-brand){target="_blank"}を自動的に評価します。
 
    ![](assets/brand-score-1.png){width="800" zoomable="yes"}
 

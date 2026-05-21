@@ -1,19 +1,23 @@
 ---
 unique-page-id: 2359955
-description: エンゲージメントストリームのパフォーマンスレポートを作成および実行する方法について説明します。 プログラムの電子メールでフィルタリングし、詳細なストリーム統計を表示します。
+description: エンゲージメントストリームパフォーマンスレポートを作成して実行する方法について説明します。 プログラムメールでフィルタリングし、詳細なストリーム統計を表示できます。
 title: エンゲージメントストリームの効果レポート
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/63c8ll4a9f8PleyGPDFDIKmXW9b9TsJ3pmqnorwKU2g
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 88%
+source-wordcount: 166
+ht-degree: 80%
 
 ---
 
 # エンゲージメントストリームの効果レポート {#engagement-stream-performance-report}
 
-エンゲージメントコンテンツの効果を知りたい場合は、エンゲージメントストリームの効果レポートを試してみてください。
+エンゲージメントコンテンツの効果を知りたい場合は、 エンゲージメントストリームの効果レポートを試してみてください。
 
 ## レポートの作成 {#create-the-report}
 
@@ -36,7 +40,7 @@ ht-degree: 88%
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
-   その調子です。次に、設定を確認します。
+   次に、設定を設定します。
 
 ## 設定の編集 {#edit-settings}
 
@@ -60,6 +64,6 @@ ht-degree: 88%
 
    >[!TIP]
    >
-   >図には示されていませんが、エンゲージメントスコアはこのレポートの列です。詳しくは、[エンゲージメントスコアについて](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)を参照してください。
+   >図には示されていませんが、エンゲージメントスコアはこのレポートの列です。 詳しくは、[エンゲージメントスコアについて](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md)を参照してください。
 
-   これで完了です。レポートは、エンゲージメントプログラム別にグループ化されています。
+   レポートは、エンゲージメントプログラム別にグループ化されています。

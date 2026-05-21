@@ -1,13 +1,16 @@
 ---
 unique-page-id: 2359789
-description: エンゲージメントプログラムストリームをテスト用にクローンする方法を説明します。 ストリーム歯車アイコンからクローンを作成し、新しいストリームにケイデンスを設定します。
+description: テスト用にエンゲージメントプログラムストリームを複製する方法を説明します。 ストリームギアアイコンから複製し、新しいストリームにケイデンスを設定します。
 title: ストリームのクローンを作成する
 exl-id: 9e1b83c0-38ce-4729-a922-80b927673717
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/Z-U9iTTV04OrhnjcfU00R1n9lZ9XB27TIGDhHkzE96M
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 76%
+source-wordcount: 85
+ht-degree: 72%
 
 ---
 
@@ -27,10 +30,8 @@ ht-degree: 76%
    >
    >エンゲージメントプログラムあたりのストリームは最大 25 個です。
 
-   うまくいきました。楽なのはいいですね。
-
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
    >[!CAUTION]
    >
-   >ケイデンスを除いてストリーム内のすべてのクローンが作成されます。ケイデンスの設定を忘れないようにしてください。
+   >ケイデンスを除いてストリーム内のすべてのクローンが作成されます。 ケイデンスの設定を忘れないようにしてください。

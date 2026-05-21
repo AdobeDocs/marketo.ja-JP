@@ -4,20 +4,22 @@ description: DNSでSPFとDKIMを設定して、メールの配信品質を向上
 title: メール到達率のための SPF と DKIM の設定
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 89%
+source-wordcount: 432
+ht-degree: 71%
 
 ---
 
 # メール到達率のための SPF と DKIM の設定 {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-メール到達率を向上させるための簡単な方法の 1 つは、**SPF**（送信者ポリシーの枠組み）および **DKIM**（ドメインキー識別メール）を DNS 設定に追加することです。 このDNS エントリに加えて、Marketoが自分に代わってメールを送信することを許可したことを受信者に伝えることができます。 この変更がないと、メールはドメインから送信されるが Marketo ドメインの IP アドレスから送信されるので、メールがスパムとしてマークされる可能性が高くなります。
+メール到達率を向上させるための簡単な方法の 1 つは、**SPF**（送信者ポリシーの枠組み）および **DKIM**（ドメインキー識別メール）を DNS 設定に追加することです。 このDNS エントリに加えて、Marketoが自分に代わってメールを送信することを許可したことを受信者に伝えます。 この変更がないと、メールはドメインから送信されるが Marketo ドメインの IP アドレスから送信されるので、メールがスパムとしてマークされる可能性が高くなります。
 
 >[!CAUTION]
 >
->この変更を DNS レコードに加えるには、ネットワーク管理者が必要です。
+>ネットワーク管理者は、DNS レコードでこの変更を行う必要があります。
 
 ## SPF の設定 {#set-up-spf}
 
@@ -41,16 +43,16 @@ DKIM は、メールの受信者が、メールの送信者によってメール
 
 **DKIM の仕組み**
 
-DNS レコードに公開鍵を設定し、管理セクション（A）で送信ドメインを有効にした後、送信メッセージのカスタム DKIM 署名を有効にします。この署名には、送信メールごとに暗号化されたデジタル署名が含まれます（B）。 受信者は、送信ドメインの DNS の「公開鍵」（C）を検索することで、デジタル署名を復号化できます。 電子メールのキーが DNS レコードのキーに対応している場合、受信側のメールサーバーは、Marketo がお客様に代わって送信したメールを受け入れる可能性が高くなります。
+DNS レコードで公開鍵を設定し、「管理」セクション（A）で送信ドメインをアクティブ化すると、Marketoは送信メッセージに対するカスタム DKIM署名を有効にします。この署名には、送信メッセージに代わって送信される電子メールごとに暗号化されたデジタル署名が含まれます（B）。 受信者は、送信ドメインの DNS の「公開鍵」（C）を検索することで、デジタル署名を復号化できます。 電子メールのキーが DNS レコードのキーに対応している場合、受信側のメールサーバーは、Marketo がお客様に代わって送信したメールを受け入れる可能性が高くなります。
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
 **DKIM の設定方法を教えてください。**
 
-[カスタム DKIM 署名の設定](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}を参照してください。
+[ カスタム DKIM署名の設定](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}を参照してください。
 
 >[!MORELIKETHIS]
 >
->* 詳しくは、SPF の詳細と仕組みを参照してください`: http://www.open-spf.org/Introduction/`
+>* SPFの詳細と仕組みについて：`http://www.open-spf.org/Introduction/`
 >* SPF は正しく設定されていますか？`https://www.kitterman.com/spf/validate.html`
 >* 正しい構文を使用しましたか？`http://www.open-spf.org/SPF_Record_Syntax/`
