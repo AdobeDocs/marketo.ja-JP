@@ -4,20 +4,36 @@ title: メールオーサリング
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/T4P378JxWQuCWzPMUsgXoQvnPhaRxdAnZUxVzpZuqWo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '1819'
-ht-degree: 8%
+source-wordcount: 1746
+ht-degree: 5%
 
 ---
 
 # メールオーサリング {#email-authoring}
 
-新しいMarketo Engage Email Designerでメールを作成、パーソナライズ、プレビューする方法について説明します。
-
->[!PREREQUISITES]
->
->新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを[Adobe Identity Management System （IMS） &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}に移行する必要があります。 まだ移行しておらず、迅速な対応をリクエストする場合は、アドビのアカウントチーム（担当のアカウントマネージャー）または [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
+メールDesignerでメールを作成、パーソナライズ、プレビューする方法について説明します。
 
 ## メールの作成 {#create-an-email}
 
@@ -53,7 +69,7 @@ ht-degree: 8%
 
    ![](assets/create-an-email-5.png)
 
-1. 新しいメールを作成するには、2つのオプションがあります。 メールプログラムの名前を右クリックし、**新しいローカルアセット**&#x200B;を選択するか、ダッシュボードの「電子メール」ボックスの「**+新しい電子メール**」ボタンをクリックします。 この例では、前者のフィールドを使用します。
+1. 新しいメールを作成するには、2つのオプションがあります。 メールプログラムの名前を右クリックし、**新しいローカルアセット**&#x200B;を選択するか、ダッシュボードの「電子メール」ボックスの「**+新しい電子メール**」ボタンをクリックします。 この例では、最初のオプションが使用されます。
 
    ![](assets/create-an-email-6.png)
 

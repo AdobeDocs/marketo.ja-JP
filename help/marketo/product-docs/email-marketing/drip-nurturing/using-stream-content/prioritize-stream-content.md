@@ -4,16 +4,21 @@ description: ドラッグ&ドロップでストリームコンテンツに優先
 title: ストリームコンテンツの優先順位を決める
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/TaFWfyjnC7V5Pu22rJbgx6AyPwDmbV--dyMzreyDLBo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 76%
+source-wordcount: 107
+ht-degree: 50%
 
 ---
 
 # ストリームコンテンツの優先順位を決める {#prioritize-stream-content}
 
-ストリームにコンテンツを追加した後、優先度を変更できます。 コンテンツは、常に各キャストで上から下へ配信され、同じリードに 2 回はコンテンツが送信されません。
+コンテンツをストリームに追加した後で、優先順位を変更する必要がある場合があります。 コンテンツは、常に各キャストで上から下へ配信され、同じリードに 2 回はコンテンツが送信されません。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -23,7 +28,7 @@ ht-degree: 76%
 
    ![](assets/cloneasteam-1.jpg)
 
-1. 次に、コンテンツを目的の順序にドラッグ&amp;ドロップします。
+1. コンテンツを目的の順序にドラッグ&amp;ドロップします。
 
    ![](assets/image2014-9-15-17-3a5-3a45.png)
 
@@ -31,4 +36,3 @@ ht-degree: 76%
    >
    >優先度は、キャスト時に常に上から下へ読み取られます。
 
-   本当に簡単です！ これで、ストリームコンテンツを優先順位付けする方法がわかりました。

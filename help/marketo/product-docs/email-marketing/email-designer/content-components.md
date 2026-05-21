@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '1320'
-ht-degree: 80%
+source-wordcount: '1317'
+ht-degree: 76%
 
 ---
 
@@ -135,7 +135,7 @@ ht-degree: 80%
 
 >[!NOTE]
 >
->外部コンテンツを簡単に E メールデザイナーに準拠させるには、ゼロからメッセージを作成し、既存のメールのコンテンツをコンポーネントにコピーすることをお勧めします。
+>外部コンテンツをE メールDesignerに準拠させるために、Adobeでは、メッセージをゼロから作成し、既存のE メールからコンポーネントにコンテンツをコピーすることをお勧めします。
 
 ## Image {#image}
 
@@ -198,7 +198,7 @@ ht-degree: 80%
 
    スクリーンショット
 
-1. ドロップダウンから、「**[!UICONTROL プレースメント]**」を選択します。  次に、コンテンツに追加する&#x200B;**[!UICONTROL オファーの決定]**&#x200B;を選択し、「**[!UICONTROL 追加]**」をクリックします。
+1. ドロップダウンから、「**[!UICONTROL プレースメント]**」を選択します。 次に、コンテンツに追加する&#x200B;**[!UICONTROL オファー決定]**&#x200B;を選択し、**[!UICONTROL 追加]**&#x200B;をクリックします。
 
    スクリーンショット
 

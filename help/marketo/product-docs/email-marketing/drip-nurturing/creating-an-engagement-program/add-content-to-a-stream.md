@@ -1,19 +1,24 @@
 ---
 unique-page-id: 2359659
-description: エンゲージメントプログラムストリームにメールまたはプログラムを追加する方法を説明します。 ナーチャを構築するには、[ コンテンツを追加 ] ボタンまたはプラス アイコンを使用します。
+description: エンゲージメントプログラムストリームにメールまたはプログラムを追加する方法を説明します。 「コンテンツを追加」ボタンまたは「プラス」アイコンを使用して、ナーチャリングを構築します。
 title: ストリームにコンテンツを追加する
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/mEXmi2TJ3INTU2G3cFvw1uJyVbMIwRjNil65pFCY7DY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 87%
+source-wordcount: 157
+ht-degree: 75%
 
 ---
 
 # ストリームにコンテンツを追加する {#add-content-to-a-stream}
 
-エンゲージメントプログラムを作成したら、ストリームにコンテンツを追加する必要があります。ストリームにメールまたはプログラムを追加できます。
+エンゲージメントプログラムを作成したら、コンテンツをストリームに追加する必要があります。 ストリームにメールまたはプログラムを追加できます。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -48,8 +53,6 @@ ht-degree: 87%
    >[!NOTE]
    >
    >スマートキャンペーンが正しく機能するには、**[!UICONTROL エンゲージメントプログラムのメンバー]**&#x200B;フィルターが含まれている必要があります。
-
-完成です。これで、プログラムストリームにコンテンツを追加する方法がわかりました。ナーチャリングに必要なコンテンツを好きなだけ追加しましょう。詳しくは、以下の関連記事を参照してください。
 
 >[!MORELIKETHIS]
 >
