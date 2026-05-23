@@ -59,9 +59,9 @@ ht-degree: 15%
   </tr>
   <tr>
     <td>ユーザ</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html"> ユーザーを作成する</a> タイミングのポリシーを作成します。</li> <li>ユーザーを削除するタイミングに関するポリシーを作成します。</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html?lang=ja"> ユーザーを作成する</a> タイミングのポリシーを作成します。</li> <li>ユーザーを削除するタイミングに関するポリシーを作成します。</li>
     <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：ユーザーを削除するには、システム管理者である必要があります。
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=ja">Adobe システム管理者とMarketo Engage製品管理者の権限を持つユーザーを決定します。</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user"> ユーザー</a>を目的の製品プロファイルに追加します。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=ja">Adobe システム管理者とMarketo Engage製品管理者の権限を持つユーザーを決定します。</a> <li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user"> ユーザー</a>を目的の製品プロファイルに追加します。</li>
     <li>APIのユースケースごとに1人のAPI ユーザーを作成します。</li></td>
   </tr>
   <tr>
