@@ -4,10 +4,10 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 12c00719acd28ad2063b423eb14c866f495ac757
+source-git-commit: 5a260c00311588c3a55f176e7a7977f422bcc8a4
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '298'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 0%
 
 * **ログイン、API アクセス、電子メール送信、web トラッキング、および統合に関するIP許可リスト**&#x200B;のレビューと更新。
 
-* 次のIP アドレスを追加し、現在のIP アドレスをそのまま維持します。
+* **次のIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します：
 
    * 54.160.246.246
    * 54.237.141.197
@@ -43,6 +43,35 @@ ht-degree: 0%
 
 * **CRM統合とLaunchPoint サービス**&#x200B;は無効になりますが、後で自動的に再開する必要があります。
 * **ランディングページ、フォーム、データ収集**&#x200B;は利用できなくなり、代わりにメンテナンスメッセージが表示されます。
+
+## スケジュール {#schedule}
+
+新しい日付やデータセンター/ポッド情報が定期的に追加されるので、詳細については、こちらで確認してください。
+
+次の表を確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:75%">日付</th>
+   <th style="width:25%">ポッド</th>
+  </tr>
+  <tr>
+   <td>2026年6月5日（PT）</td>
+   <td>AB46</td>
+  </tr>
+  <tr>
+   <td>2026年7月8日（PT）</td>
+   <td>AB69<br>
+   AB64</td>
+  </tr>
+  <tr>
+   <td>2026年7月9日（PT）</td>
+   <td>AB70<br>
+   AB43</td>
+  </tr>
+  &lt;/body>
+  </table>
 
 ## アップデートとサポート
 
