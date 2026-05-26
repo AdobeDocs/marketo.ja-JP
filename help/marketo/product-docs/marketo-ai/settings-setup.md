@@ -3,9 +3,9 @@ description: Marketo AI権限を有効にする方法、組織ルールを設定
 title: 設定と設定
 badge: ベータ版
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
+source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: '580'
 ht-degree: 4%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 4%
 
 >[!AVAILABILITY]
 >
->この機能は限定的に利用できます。 サブスクリプションへのアクセスをリクエストするには、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
+>この機能は限定的に利用できます。 アクセスをリクエストするには、[このフォーム &#x200B;](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}に入力してください。 サブスクリプションのMunchkin IDの準備が整っていることを確認します。
 
 >[!PREREQUISITES]
 >
