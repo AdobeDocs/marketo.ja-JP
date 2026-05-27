@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7853491f53bd2f7d5ec6e63189c1e8b77b4b5349
+source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
 workflow-type: tm+mt
-source-wordcount: 543
-ht-degree: 23%
+source-wordcount: 700
+ht-degree: 19%
 
 ---
 
@@ -86,6 +86,50 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    </td>
    <td><i>まもなくリリース</i></td>
    <td><i>まもなくリリース</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat – 入力しています</strong>：訪問者と担当者の両方に「入力しています…」と表示されます。 一方が入力している間に通知を送信し、一方が他方を中断しないようにします。
+   </td>
+   <td>リリース</td>
+   <td>該当なし</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Marketo ピックリスト/ドロップダウンフィールド </strong>: Marketo ピックリスト/ドロップダウンの人物フィールド（Salesforce同期の値を含む）が、チャットプロファイルエディターでドロップダウン値として使用できるようになりました。
+   </td>
+   <td>リリース</td>
+   <td>該当なし</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - チャット不在状態</strong>：担当者がチャットを受け入れなかった場合、チャットに参加したユーザーのアクティビティの詳細に新しい「不在中のチャット」状態が表示されるようになりました。
+   </td>
+   <td>リリース</td>
+   <td>該当なし</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat – 新しい属性の同期ビヘイビアー</strong>：以前は、新しい属性を追加すると、同期が完了するまでの最大24時間、環境内の変更がブロックされ、ダイアログの編集と公開が妨げられました。 新しい属性を追加する際には、完全なデータ同期が必要ですが（これには最大24時間かかる場合があります）、このプロセス中に環境がブロックされなくなりました。
+   </td>
+   <td>リリース</td>
+   <td>該当なし</td>
   </tr>
   </tbody>
 </table>
