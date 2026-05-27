@@ -4,12 +4,8 @@ title: 開始する場所
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
 TQID: https://experienceleague.adobe.com/1iZHB7gfCSO7NzNNNOAsWdWfirj6TDbkKihudpvim24
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 593
@@ -25,11 +21,11 @@ ht-degree: 42%
 
 Marketo Engage Communityで適切に設定されていることを確認します。
 
-* [**必須フィールド（会社、ソリューションの専門分野、国など）に入力して、プロファイル**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ja){target="_blank"}を設定します
+* [**必須フィールド（会社、ソリューションの専門分野、国など）に入力して、プロファイル**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}を設定します
 
-* [**Adobe Experience League コミュニティガイドライン**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=ja){target="_blank"}をお読みください。
+* [**Adobe Experience League コミュニティガイドライン**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}をお読みください。
 
-* [**サポートケース**](https://experienceleague.adobe.com/ja/support#home){target="_blank"}を送信し、[&#x200B; サポート管理者](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}として設定されていることを確認する方法について説明します。
+* [**サポートケース**](https://experienceleague.adobe.com/en/support#home){target="_blank"}を送信し、[ サポート管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}として設定されていることを確認する方法について説明します。
 
 ## Marketo Engageのコミュニティプロファイルを統合 {#merge-your-community-profiles}
 
@@ -80,10 +76,10 @@ Adobe コミュニティチームは、4～6営業日後にコミュニティプ
 
 さらにサポートが必要ですか？ 以下のリンクから、アドビや他の Marketo Engage ユーザとつながることができます。
 
-* 正常に機能しない問題に関して技術的なサポートが必要な場合は、**[Marketo Engage カスタマーサポート](https://experienceleague.adobe.com/ja/support){target="_blank"}**&#x200B;にお問い合わせください。
+* 正常に機能しない問題に関して技術的なサポートが必要な場合は、**[Marketo Engage カスタマーサポート](https://experienceleague.adobe.com/en/support){target="_blank"}**&#x200B;にお問い合わせください。
 
-* **[Adobe Marketo Engage コミュニティ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ja){target="_blank"}**&#x200B;では Marketo Engage ユーザとつながり、知識を深めることができます。
+* **[Adobe Marketo Engage コミュニティ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**&#x200B;では Marketo Engage ユーザとつながり、知識を深めることができます。
 
-* Marketo Engage インスタンスを最大限に活用するための実践的なサポートが必要な場合は、**[Adobe Professional Services](https://business.adobe.com/jp/products/marketo/services-support.html){target="_blank"}** にお問い合わせください。
+* Marketo Engage インスタンスを最大限に活用するための実践的なサポートが必要な場合は、**[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}** にお問い合わせください。
 
 * Marketo Engage の様々な側面に関する&#x200B;**[厳選されたチュートリアルビデオを](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ja){target="_blank"}**&#x200B;ご覧ください。

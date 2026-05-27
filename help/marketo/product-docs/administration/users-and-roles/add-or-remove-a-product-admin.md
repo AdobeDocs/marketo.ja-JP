@@ -14,7 +14,7 @@ ht-degree: 81%
 
 >[!NOTE]
 >
->**システム**&#x200B;管理者は、アドビ組織レベルでのみ作成されます。 複数が必要な場合は、[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support)にお問い合わせください。
+>**システム**&#x200B;管理者は、アドビ組織レベルでのみ作成されます。 複数が必要な場合は、[Adobe サポート ](https://experienceleague.adobe.com/en/support)にお問い合わせください。
 
 ## 製品管理者の追加 {#add-a-product-admin}
 

@@ -4,13 +4,9 @@ title: グローバルフォーム検証ルール
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
 TQID: https://experienceleague.adobe.com/uGwgB0vL3we5uWah5BxAa1YxcXbshilehIGoocbIEpg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 303
@@ -82,7 +78,7 @@ ht-degree: 51%
 
 ## フォームごとのアクセスを無効にする方法{#how-to-disable-access-per-form}
 
-有効にすると、ルールはすべてのフォームに適用されます。 ただし、特定の要件を持つフォームがあり、何も拒否したくない場合は、フォームの設定で[!UICONTROL &#x200B; グローバルフォーム検証ルール &#x200B;]を無効にすることができます。
+有効にすると、ルールはすべてのフォームに適用されます。 ただし、特定の要件を持つフォームがあり、何も拒否したくない場合は、フォームの設定で[!UICONTROL  グローバルフォーム検証ルール ]を無効にすることができます。
 
 1. 目的のフォームで、「**[!UICONTROL フォーム設定]**」をクリックし、「**[!UICONTROL 設定]**」をクリックします。
 

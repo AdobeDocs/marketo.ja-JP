@@ -48,7 +48,7 @@ ht-degree: 1%
 
 新しい日付やデータセンター/ポッド情報が定期的に追加されるので、詳細については、こちらで確認してください。
 
-次の表を確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+次の表を確認する前に、[ サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
 
 <table>
  <tbody>
@@ -70,9 +70,9 @@ ht-degree: 1%
    <td>AB70<br>
    AB43</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## アップデートとサポート
 
-最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support)からAdobe サポートにお問い合わせください。
+最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support)からAdobe サポートにお問い合わせください。
