@@ -5,10 +5,8 @@ title: フォームへのフィールドの追加
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
 TQID: https://experienceleague.adobe.com/1I3yFE0O-VlvjjPzNJv-ZEn7NRAd0emT8iBAonYkT1M
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 146
@@ -18,7 +16,7 @@ ht-degree: 39%
 
 # フォームへのフィールドの追加 {#add-a-field-to-a-form}
 
-[&#128279;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)がフォームを作成し、[がテーマ &#x200B;](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}を選択した後、ユーザーが入力するフィールドを追加する場合があります。{target="_blank"}
+[がフォームを作成し、[がテーマ ](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}を選択した後、ユーザーが入力するフィールドを追加する場合があります。](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -38,7 +36,7 @@ ht-degree: 39%
 
    >[!NOTE]
    >
-   >新しいフォームを作成すると、[!UICONTROL 姓]&#x200B;[!UICONTROL 名]と[!UICONTROL メールアドレス]は自動的に追加されます。
+   >新しいフォームを作成すると、[!UICONTROL 姓][!UICONTROL 名]と[!UICONTROL メールアドレス]は自動的に追加されます。
 
 1. フォームに追加するフィールドを探して選択します。
 
@@ -58,4 +56,4 @@ ht-degree: 39%
 
 >[!MORELIKETHIS]
 >
->[&#x200B; フォームフィールドを必須にする](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}
+>[ フォームフィールドを必須にする](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md){target="_blank"}
