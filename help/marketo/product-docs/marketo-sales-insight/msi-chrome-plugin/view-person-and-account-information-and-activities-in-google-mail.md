@@ -5,8 +5,10 @@ title: Google メールでリードとアカウントの情報とアクティビ
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/VdwGWuUbaN8xEagWhjxEBP6Tt5OYVh94ql7RQuXUcrU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 301
@@ -52,4 +54,4 @@ Marketo アイコンをクリックして、ペインを開きます。
 
 >[!MORELIKETHIS]
 >
->[ [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md) 用 Marketo Insights の使用
+>[&#x200B; [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md) 用 Marketo Insights の使用
