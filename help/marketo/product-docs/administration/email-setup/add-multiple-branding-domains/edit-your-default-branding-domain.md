@@ -5,12 +5,9 @@ title: デフォルトのブランディングドメインの編集
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
 TQID: https://experienceleague.adobe.com/rZOnzDTwai-e-1p2dRD6m5kGxonJwL7621--8-y-K54
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 138
@@ -34,7 +31,7 @@ ht-degree: 57%
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. [!UICONTROL &#x200B; ブランディングドメイン &#x200B;] テーブルで、汎用ドメインを選択し、**[!UICONTROL 編集]**&#x200B;をクリックして、会社のブランドドメインに変更します。
+1. [!UICONTROL  ブランディングドメイン ] テーブルで、汎用ドメインを選択し、**[!UICONTROL 編集]**&#x200B;をクリックして、会社のブランドドメインに変更します。
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -50,4 +47,4 @@ ht-degree: 57%
 
 >[!NOTE]
 >
->既存のSSLを更新または削除する必要がある場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
+>既存のSSLを更新または削除する必要がある場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
