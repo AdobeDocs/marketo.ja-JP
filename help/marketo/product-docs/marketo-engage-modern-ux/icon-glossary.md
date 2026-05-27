@@ -344,7 +344,7 @@ ht-degree: 89%
   <tr>
    <td><img src="assets/classic-email-program-scheduled.png"></td>
    <td><img src="assets/scheduled.png"></td>
-   <td>予定されています</td>
+   <td>スケジュール済み</td>
   </tr>
  </tbody>
 </table>
