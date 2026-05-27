@@ -4,9 +4,9 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 5a260c00311588c3a55f176e7a7977f422bcc8a4
+source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '314'
 ht-degree: 1%
 
 ---
@@ -48,31 +48,37 @@ ht-degree: 1%
 
 新しい日付やデータセンター/ポッド情報が定期的に追加されるので、詳細については、こちらで確認してください。
 
-次の表を確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+次の表を確認する前に、[ サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
 
 <table>
  <tbody>
   <tr>
-   <th style="width:75%">日付</th>
-   <th style="width:25%">ポッド</th>
+   <th style="width:50%">日付</th>
+   <th style="width:20%">ポッド</th>
+   <th style="width:30%">時間</th>
   </tr>
   <tr>
    <td>2026年6月5日（PT）</td>
    <td>AB46</td>
+   <td>午後5時（太平洋標準時）</td>
   </tr>
   <tr>
    <td>2026年7月8日（PT）</td>
    <td>AB69<br>
    AB64</td>
+   <td>午後5時（太平洋標準時）<br>
+   午後6時（太平洋標準時）</td>
   </tr>
   <tr>
    <td>2026年7月9日（PT）</td>
    <td>AB70<br>
    AB43</td>
+   <td>午後5時（太平洋標準時）<br>
+   午後6時（太平洋標準時）</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## アップデートとサポート
 
-最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support)からAdobe サポートにお問い合わせください。
+最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support)からAdobe サポートにお問い合わせください。
