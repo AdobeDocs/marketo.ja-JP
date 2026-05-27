@@ -105,7 +105,7 @@ ht-degree: 74%
 
 * Adobe Audience ManagerとAdobe Analyticsの両方を所有しているユーザーの場合、この統合によりMarketoからAdobe Analytics レポートスイートにオーディエンスを共有できますが、これを有効にするにはAdobe Audience Managerでさらに設定を行う必要があります。 この設定方法について詳しくは、[Adobe Audience Managerのドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"}を参照してください。
 
-* MarketoからAdobe Audience Managerにリストをアップロードした後は、Adobe Targetからもアクセスできます。 この設定[は、Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}で有効にする必要があります。
+* MarketoからAdobe Audience Managerにリストをアップロードした後は、Adobe Targetからもアクセスできます。 この設定[は、Adobe Target](https://experienceleague.adobe.com/ja/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}で有効にする必要があります。
 
 * リストが空の場合、またはECID値を持つユーザーが存在しない場合、リスト名はMarketo外で参照されるようにプッシュされません。
 
