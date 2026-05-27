@@ -5,10 +5,8 @@ title: Google Chrome 用 Marketo Insights の使用
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/xV6C9XVb7ZQVUlQOdE8oWuc8lNOzoRZIG7XyyTMBwDQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 291
@@ -22,7 +20,7 @@ ht-degree: 92%
 
 >[!PREREQUISITES]
 >
->[&#x200B; [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
+>[ [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
 
 >[!NOTE]
 >
@@ -80,5 +78,5 @@ ht-degree: 92%
 
    >[!MORELIKETHIS]
    >
-   >* [&#x200B; [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
+   >* [ [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md) 用 Marketo Insights のインストール
    >* [Google メールで人物とアカウントの情報とアクティビティを表示](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
