@@ -1,6 +1,6 @@
 ---
 unique-page-id: 7504923
-description: Marketo Engageのmanager アカウントを使用して、収益モデルで[ !dnl google adwords] コンバージョンを設定する方法について説明します。 このガイドを使用して、次のステップを完了してください。
+description: Marketo Engageのmanager アカウントを使用して、収益モデルで[!dnl google adwords] コンバージョンを設定する方法について説明します。 このガイドを使用して、次のステップを完了してください。
 title: マネージャーアカウントを使用した収益モデルでの  [!DNL Google AdWords]  コンバージョンの設定
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
