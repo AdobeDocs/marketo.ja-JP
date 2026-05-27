@@ -5,9 +5,14 @@ title: Adobe Experience Cloud へのリストの送信
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
 TQID: https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 847
@@ -98,7 +103,7 @@ ht-degree: 74%
 
 ### Adobe Analyticsへの共有 {#sharing-to-adobe-analytics}
 
-* Adobe Audience ManagerとAdobe Analyticsの両方を所有しているユーザーの場合、この統合によりMarketoからAdobe Analytics レポートスイートにオーディエンスを共有できますが、これを有効にするにはAdobe Audience Managerでさらに設定を行う必要があります。 この設定方法について詳しくは、[Adobe Audience Managerのドキュメント ](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"}を参照してください。
+* Adobe Audience ManagerとAdobe Analyticsの両方を所有しているユーザーの場合、この統合によりMarketoからAdobe Analytics レポートスイートにオーディエンスを共有できますが、これを有効にするにはAdobe Audience Managerでさらに設定を行う必要があります。 この設定方法について詳しくは、[Adobe Audience Managerのドキュメント &#x200B;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=ja?lang=ja){target="_blank"}を参照してください。
 
 * MarketoからAdobe Audience Managerにリストをアップロードした後は、Adobe Targetからもアクセスできます。 この設定[は、Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}で有効にする必要があります。
 
