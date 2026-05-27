@@ -4,10 +4,8 @@ title: クイックスタートメールテンプレート
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
 TQID: https://experienceleague.adobe.com/4TOHRnalU1E6NaelbM0wZyH-CPGjQomwDvPGlBU4GS4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 576
@@ -29,7 +27,7 @@ Marketo Engageのメールエディターには、メールのレイアウトを
 
 * **変数**: モジュールを選択すると、変数がエディターの右側に表示されます。 これらは、画像またはテキスト要素を使用して簡単に編集できないモジュールの属性を調整するために使用できます。
 
-詳しい戦略支援またはプログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
+詳しい戦略支援またはプログラムのカスタマイズに関するヘルプについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
 
 ## モジュールの概要 {#modules-summary}
 

@@ -4,12 +4,9 @@ title: プログラムインポートライブラリの概要
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
 TQID: https://experienceleague.adobe.com/SuIhhuChNu1WGVfWj-16vLXt0EewPyYBJTR9L848OD0
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-topic_v2:
-  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2: id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 191
@@ -21,7 +18,7 @@ ht-degree: 49%
 
 Marketo Engage リファレンスライブラリには、Marketo インスタンスに直接インポートできるスタータープログラムがいくつか含まれており、チームをサポートするプログラムの構築を開始できます。
 
-ライブラリには、電子メール、エンゲージメント、イベント、スコアリング、配信品質、運用上などのプログラムが含まれます。 すべてのプログラムは、品質と効果を最大化するために、Adobeプロダクトチームによって開発され、[&#x200B; グローバルプロフェッショナルサービス &#x200B;](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} チームによって検証されています。
+ライブラリには、電子メール、エンゲージメント、イベント、スコアリング、配信品質、運用上などのプログラムが含まれます。 すべてのプログラムは、品質と効果を最大化するために、Adobeプロダクトチームによって開発され、[ グローバルプロフェッショナルサービス ](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} チームによって検証されています。
 
 ## 利用可能なプログラムの例 {#available-program-examples}
 
@@ -61,4 +58,4 @@ Marketo Engage リファレンスライブラリには、Marketo インスタン
 
 >[!MORELIKETHIS]
 >
->[&#x200B; プログラムの読み込み](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}
+>[ プログラムの読み込み](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.md){target="_blank"}

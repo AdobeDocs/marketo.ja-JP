@@ -4,8 +4,7 @@ title: ' [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミ�
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/WYR9u4Mfq8SeuXPyuYxgA-9iZlez5oKYPpnvrl-RwqY
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 409
@@ -17,8 +16,8 @@ ht-degree: 79%
 
 >[!PREREQUISITES]
 >
->* [&#x200B; [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 1／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
->* [&#x200B; [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 2／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+>* [ [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 1／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [ [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 2／3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 >[!NOTE]
 >
