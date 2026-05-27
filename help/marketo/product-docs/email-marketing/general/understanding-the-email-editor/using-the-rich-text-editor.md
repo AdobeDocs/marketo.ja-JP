@@ -58,7 +58,7 @@ ht-degree: 86%
   <tr>
    <th>&lt;p&gt;</th>
    <th>&lt;div&gt;</th>
-   <th>None</th>
+   <th>なし</th>
   </tr>
   <tr>
    <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt; テキストがここに移動&lt;/p&gt;<br>&lt;/div&gt;</p></td>
