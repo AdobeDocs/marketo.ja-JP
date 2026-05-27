@@ -5,10 +5,8 @@ title: 「メール全体」A/B テストを使用する
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
 TQID: https://experienceleague.adobe.com/P6YTdfoKe0D8egqK5amG2GTM92U7RZ1AWoQh6NcZpeQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 286
@@ -50,11 +48,11 @@ ht-degree: 74%
 
 1. 2 つ目のメールを選択します。
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. 「**[!UICONTROL 追加]**」をクリックして 2 つ目のメールを適用します。 A/B テストを送信するオーディエンスの割合をスライダーで選択して、「**[!UICONTROL 次へ]**」をクリックします。
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

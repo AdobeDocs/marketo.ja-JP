@@ -5,10 +5,8 @@ title: 受信者タイムゾーンについて
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
 TQID: https://experienceleague.adobe.com/KAj3dO4Md7Zel5SqR4m2OrTjp93ZD735gNWWRinNV5k
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 409
@@ -31,11 +29,11 @@ ht-degree: 63%
 1. 今後 25 時間以内に実行するようにプログラムをスケジュールする。
 1. プログラムを25時間以上先に実行するようにスケジュール設定します（つまり、来週）。
 
-すべてのタイムゾーンに対応するために、[!UICONTROL 受信者タイムゾーン &#x200B;]でスケジュールされたメールプログラムは、世界の&#x200B;**最初/最も早い** タイムゾーン （UTC +14:00）の午前0時に実行を開始します。
+すべてのタイムゾーンに対応するために、[!UICONTROL 受信者タイムゾーン ]でスケジュールされたメールプログラムは、世界の&#x200B;**最初/最も早い** タイムゾーン （UTC +14:00）の午前0時に実行を開始します。
 
 ## エンゲージメントプログラム {#engagement-programs}
 
-[&#x200B; エンゲージメントプログラムストリーム &#x200B;](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)をスケジュールし、[!UICONTROL 受信者タイムゾーン &#x200B;]がアクティブな場合、プログラムキャストはUTC +14:00の午前0時に実行を開始します。 ユーザは世界中のすべてのタイムゾーンでキャストの対象として認定される可能性があるので、最初のキャストを少なくとも 25 時間後（24 時間+キャンペーンの開始までしばらく）にスケジュールする必要があります。 UTC +14:00でこの時間に処理を開始すると、このキャストに適格なすべてのユーザーに対して、スケジュールされた日時に電子メールが送信されます。
+[ エンゲージメントプログラムストリーム ](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)をスケジュールし、[!UICONTROL 受信者タイムゾーン ]がアクティブな場合、プログラムキャストはUTC +14:00の午前0時に実行を開始します。 ユーザは世界中のすべてのタイムゾーンでキャストの対象として認定される可能性があるので、最初のキャストを少なくとも 25 時間後（24 時間+キャンペーンの開始までしばらく）にスケジュールする必要があります。 UTC +14:00でこの時間に処理を開始すると、このキャストに適格なすべてのユーザーに対して、スケジュールされた日時に電子メールが送信されます。
 
 ## タイムゾーンの計算 {#calculating-time-zone}
 
