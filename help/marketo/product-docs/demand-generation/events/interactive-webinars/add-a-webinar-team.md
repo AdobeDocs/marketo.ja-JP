@@ -4,12 +4,9 @@ title: ウェビナーチームの追加
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
 TQID: https://experienceleague.adobe.com/7BngiRMzOdPMZSQkgDOY07ggRv-3zLzOKYJDlMjGAg0
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-subfeature_v2:
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+subfeature_v2: id: ffdd6159-0e10-4a57-8021-94e93bab8183
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 455
@@ -57,7 +54,7 @@ ht-degree: 76%
 
 >[!NOTE]
 >
-> ![&#x200B; コピーコピーコホスト URL アイコン &#x200B;](assets/icon-copy-join-url.png) アイコンはコホスト参加URLをコピーし、![招待メールを送信](assets/icon-send-invitation-email.png) アイコンはコホスティングに招待メールを送信します。
+> ![ コピーコピーコホスト URL アイコン ](assets/icon-copy-join-url.png) アイコンはコホスト参加URLをコピーし、![招待メールを送信](assets/icon-send-invitation-email.png) アイコンはコホスティングに招待メールを送信します。
 
 ## プレゼンターの追加 {#add-a-presenter}
 
@@ -79,7 +76,7 @@ ht-degree: 76%
 
 >[!NOTE]
 >
-> ![&#x200B; プレゼンターURLをコピー](assets/icon-copy-join-url.png) アイコンはプレゼンターの参加URLをコピーし、![&#x200B; プレゼンターに招待メールを送信](assets/icon-send-invitation-email.png) アイコンはプレゼンターに招待メールを送信します。
+> ![ プレゼンターURLをコピー](assets/icon-copy-join-url.png) アイコンはプレゼンターの参加URLをコピーし、![ プレゼンターに招待メールを送信](assets/icon-send-invitation-email.png) アイコンはプレゼンターに招待メールを送信します。
 
 >[!MORELIKETHIS]
 >

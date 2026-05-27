@@ -4,11 +4,8 @@ title: エージェントのインボックス
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
 TQID: https://experienceleague.adobe.com/v3wmO0EodV-ENjE5dOnLg1x5HscxFneVQx0pdEEuMAM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 596
@@ -68,7 +65,7 @@ ht-degree: 84%
 >
 >この機能は生成 AI の一部で、Dynamic Chat Prime サブスクリプションから利用できます。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-生成AI [応答ライブラリ &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)を利用したショートカットは、訪問者とチャットする際に効果的にヘルプを表示する方法です。 テキストボックスにスラッシュ（`/`）を入力し、`ask`または`search`を選択します。
+生成AI [応答ライブラリ ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)を利用したショートカットは、訪問者とチャットする際に効果的にヘルプを表示する方法です。 テキストボックスにスラッシュ（`/`）を入力し、`ask`または`search`を選択します。
 
 ![](assets/agent-inbox-7.png)
 

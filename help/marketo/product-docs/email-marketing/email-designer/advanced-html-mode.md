@@ -37,7 +37,7 @@ ht-degree: 0%
 
 高度なHTML エディターを開き、テンプレートソースを編集するには、次の手順に従います。
 
-1. 電子メール Designerで電子メールテンプレート [&#128279;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)を開くか、作成します。
+1. 電子メール Designerで電子メールテンプレート ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template)を開くか、[作成します。
 
 1. _電子メールテンプレートを編集_&#x200B;画面で、右上隅にある「HTML」ボタンをクリックします。
 
