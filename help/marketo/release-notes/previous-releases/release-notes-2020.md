@@ -2,37 +2,9 @@
 title: 2020
 description: 2020 - Marketo Docs – 製品ドキュメント
 feature: Release Information
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
-  - id: d1956f52-ecfd-4e01-8941-47af238acb0d
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
-  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
-  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1id: d1956f52-ecfd-4e01-8941-47af238acb0did: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: f5e85a9b-a883-40d0-8759-f3651efb32e9id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
 workflow-type: tm+mt
 source-wordcount: 4150
@@ -88,7 +60,7 @@ ht-degree: 94%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [画像編集](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=ja#design-studio)：Marketo Engage を終了せずに、アドビの編集機能にアクセスできます。 この新しい機能により、[!UICONTROL Design Studio] で直接画像の拡張、切り抜き、画像へのテキストの追加などを簡単に実行できます。
+* [画像編集](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：Marketo Engage を終了せずに、アドビの編集機能にアクセスできます。 この新しい機能により、[!UICONTROL Design Studio] で直接画像の拡張、切り抜き、画像へのテキストの追加などを簡単に実行できます。
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -171,12 +143,12 @@ ht-degree: 94%
 
 ## Marketo Engage のコア機能 {#core-marketo-engage}
 
-* **[予測オーディエンス &#x200B;](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=ja#predictive-audiences)** ![&#x200B; （星） &#x200B;](assets/yellow-star.png):Adobe AIを搭載した新しいスマートリストとスマートキャンペーンフィルターを使用すると、メール、イベント、ウェビナーマーケティングプログラム用にAIを活用したオーディエンスセグメントを作成できます。 AI を使用して、リードがイベントに登録したり参加したり、登録解除したりする可能性に基づいてオーディエンスをセグメント化できます。 過去のプログラムに基づいて類似したオーディエンスを構築し、以前の成功を効率的にレプリケートします。 予測目標追跡を使用してコンバージョン目標を達成し、イベントプログラムのオーディエンスセグメントを絞り込む方法に関するレコメンデーションを得ます。
+* **[予測オーディエンス ](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![ （星） ](assets/yellow-star.png):Adobe AIを搭載した新しいスマートリストとスマートキャンペーンフィルターを使用すると、メール、イベント、ウェビナーマーケティングプログラム用にAIを活用したオーディエンスセグメントを作成できます。 AI を使用して、リードがイベントに登録したり参加したり、登録解除したりする可能性に基づいてオーディエンスをセグメント化できます。 過去のプログラムに基づいて類似したオーディエンスを構築し、以前の成功を効率的にレプリケートします。 予測目標追跡を使用してコンバージョン目標を達成し、イベントプログラムのオーディエンスセグメントを絞り込む方法に関するレコメンデーションを得ます。
 * **バッチメールの高速化** ![（星）](assets/yellow-star.png)：1 時間に最大 300 万件のバッチメールを送信できる、アドビのメールマーケティング機能の強化。 バッチキャンペーンとメールレポート処理を再設計し、メールプログラムとバッチメールキャンペーンのパフォーマンスを向上させました。 これにより、送信のリードタイムが短くなり、完了時間が改善します。 メール送信は通常どおりに簡単に設定できます。 この機能強化は、Delivery Services Launch Pack、メール配信ツール、複数の専用 IP アドレスも含まれる製品アドオンとして使用できます。
 * **[Adobe Experience Cloud（AEC）とのオーディエンスの統合](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**：新しい Adobe Experience Cloud（AEC）統合では、Marketo Engage の既知のリードの静的リストを複数の AEC アプリケーションと同期して、既存のプログラムの強化、新しい使用例のロック解除、マルチチャネルキャンペーンの調整をおこなうことができます。 この統合には、Adobe Analytics、Adobe Target、Adobe Experience Manager、Adobe Audience Manager、Adobe Advertising Cloud が含まれます。
 * **[プログラムメンバーカスタムフィールド](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**：プログラムメンバーに関するカスタムフィールドをキャプチャおよび利用します。 Marketo Engageフォームでこれらの新しいフィールドを使用し、プログラムのメンバーリストで表示し、スマートリストのフィルターとトリガーで活用し、新しいスマートキャンペーンのフローアクションに含めることで、オートメーションを強化し、より詳細なパーソナライズを実現します。 UI および API を使用した読み込みと書き出しもできます。 カスタムデータオブジェクトおよびフィールド機能の強化。
 * **プログラムメンバーの説明**：REST API を使用してプログラムメンバーカスタムフィールドデータの読み込みと書き出しを行えるように、プログラムメンバーメタデータを取得します。 API の機能強化。
-* **[&#x200B; [!DNL Microsoft Dynamics]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)** でタスクを作成：Marketo Engage でキャプチャされた顧客行動に基づく新しいフローアクションを使用して、[!DNL Microsoft Dynamics] 内で Sales のタスクを作成します。 ネイティブの [!DNL Microsoft Dynamics] CRM 統合の強化。
+* **[ [!DNL Microsoft Dynamics]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/create-task-in-microsoft.md)** でタスクを作成：Marketo Engage でキャプチャされた顧客行動に基づく新しいフローアクションを使用して、[!DNL Microsoft Dynamics] 内で Sales のタスクを作成します。 ネイティブの [!DNL Microsoft Dynamics] CRM 統合の強化。
 * **リストアセット API エンドポイントで使用されるフォームを取得**：フォームに依存するアセットのリストを取得します。 API の機能強化。
 * **API を使用したメールのプリヘッダーの設定**：メールのプリヘッダーフィールドの自動翻訳とローカライゼーションを有効にします。 API の機能強化。
 * **画像とファイルのキャッシュ**：60 秒のキャッシュから Marketo Engage とファイルアセットを提供することで、画像サーバーの安定性を向上させています。
@@ -263,7 +235,7 @@ ht-degree: 94%
 
 ![（星印）](assets/yellow-star.png)
 
-* [!DNL Salesforce]  CRM 統合非ネイティブのお客様に対する **[[!DNL Sales Insight] の有効化](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)（Beta）**：[!DNL Salesforce] CRM 統合非ネイティブの Marketo Engage のお客様も、[!DNL Sales Insight] を使用することで、セールス部門が最もエンゲージメントの高いリードや商談を把握、優先順位付け、的確な対応を行えるようになります。これにより、スマートな販売と取引の迅速化を実現できます。
+*  [!DNL Salesforce]  CRM 統合非ネイティブのお客様に対する **[[!DNL Sales Insight] の有効化](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)（Beta）**：[!DNL Salesforce] CRM 統合非ネイティブの Marketo Engage のお客様も、[!DNL Sales Insight] を使用することで、セールス部門が最もエンゲージメントの高いリードや商談を把握、優先順位付け、的確な対応を行えるようになります。これにより、スマートな販売と取引の迅速化を実現できます。
 
 ## [!DNL Sales Connect] {#sales-connect}
 
@@ -277,7 +249,7 @@ ht-degree: 94%
 
 * **Asset API「_method」パラメーターの削除**：2020 年 9 月以降、Asset API エンドポイントは、URI 長制限を回避するための POST ボディ内のクエリパラメーターを渡す方法として「_method」パラメーターを受け付けなくなります。 このパラメーターを必要とするリクエストに対応するため、Asset API の URI 制限が 8 KB から 65 KB に引き上げられます。
 * **[[!DNL Munchkin] Associate Lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**：このリリースの Munchkin JavaScript Client のバージョン 159 から、[!DNL Munchkin] Associate Lead メソッドのサポート廃止が開始されます。 メソッドを呼び出すと、今後のリリースでメソッドが削除されることを示す警告が表示されます。 削除すると、メソッドは機能しなくなり、使用しようとしても失敗します。 Marketo Engage のお客様で、最近この方法を利用した場合、利用内容が個別に通知されます。
-* **Internet Explorer のサポート**：既にお知らせした通り、Marketo Engage の Internet Explorer 11 のサポートは **2020 年 7 月 31 日**（PT）で終了しました。 引き続き [!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL &#x200B; Apple Safari]、[!DNL Microsoft Edge] をサポートしていきます。
+* **Internet Explorer のサポート**：既にお知らせした通り、Marketo Engage の Internet Explorer 11 のサポートは **2020 年 7 月 31 日**（PT）で終了しました。 引き続き [!DNL Google Chrome]、[!DNL Mozilla Firefox]、[!DNL  Apple Safari]、[!DNL Microsoft Edge] をサポートしていきます。
 * **Sky デフォルトエクスペリエンス**：今回のリリースでは、今後行われるメインユーザエクスペリエンスのアップデートに備えて、管理者やユーザが [!DNL Marketo Sky] をデフォルトエクスペリエンスとして設定するオプションが削除されます。 今年後半に予定されているメイン UX のアップデートの詳細は、7 月以降に公開される予定です。 [!DNL Marketo Sky] をデフォルトのエクスペリエンスとして設定したユーザや、[!DNL Marketo Sky] へのアクセス権を付与されたユーザは、引き続き、マイ Marketo ホームページのタイルから [!DNL Marketo Sky] にアクセスできます。
 * **EdgeHTML（Chromium 以外）[!DNL Microsoft Edge] のサポート**：Marketo Engage は、2020 年末に Microsoft Edge の EdgeHTML バージョンのサポートを終了します。 2021年1月1日（PT）からは、Microsoft Edge の Chromium 最新版のみをサポートします。
 

@@ -4,12 +4,9 @@ title: キャンペーンの実行
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/ggWhZOpbixcuP8E1mXOU4w49S-HQyT-NuXtLhFKGeeU
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 732
@@ -67,7 +64,7 @@ True に設定した場合、次のトークンコンテキストが子キャン
 
 **API インタラクション**
 
-API[&#128279;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)でスケジュールまたはキャンペーンのリクエスト を使用する場合、両方でマイトークンの値を渡すことができ、呼び出しているキャンペーンでそれらのトークンに設定された値を上書きします。 その後、そのキャンペーンが別のキャンペーンを実行し、「親コンテキストを使用」を「True」に設定した場合、アプリケーションで設定された値ではなく、API を介して渡された値が使用されます。
+API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)でスケジュールまたはキャンペーンのリクエスト [を使用する場合、両方でマイトークンの値を渡すことができ、呼び出しているキャンペーンでそれらのトークンに設定された値を上書きします。 その後、そのキャンペーンが別のキャンペーンを実行し、「親コンテキストを使用」を「True」に設定した場合、アプリケーションで設定された値ではなく、API を介して渡された値が使用されます。
 
 ## 注意事項 {#things-to-note}
 
