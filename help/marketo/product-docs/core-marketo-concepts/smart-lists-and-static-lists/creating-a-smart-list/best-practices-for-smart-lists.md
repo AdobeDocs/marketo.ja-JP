@@ -5,10 +5,16 @@ title: スマートリストのベストプラクティス
 exl-id: 466de198-1012-4ac3-906c-d41943fe5bc0
 feature: Smart Lists
 TQID: https://experienceleague.adobe.com/Z1k--jj24QHIEThtPbj29i9FBhcEp0Hf9hBeZEgSP3w
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 592
@@ -37,7 +43,7 @@ ht-degree: 77%
 1. **複数値の貼り付けを倹約する** - 複数選択は、数十個または数百個の値を貼り付けるように設計されています。 ただし、多数貼り付けると、非常に低速になります。
 1. **制約の追加を倹約する** - これらは、ルールと関連する値の小さな詳細です。 制約を追加するほど、処理時間が長くなります。
 1. **キャンペーンの簡素化 –** 100以上の独立したルールは、処理に時間がかかります。 シンプルに保つと、速度が向上します。さらに、理解しやすくなります。
-1. **メールアドレスフィルターを使用する際は、ドメイン名の前に@記号を含める****** - これにより、クエリがより高速になります。 例：_email contains &#39;somedomain.com&#39;_&#x200B;を使用する代わりに、_email contains &#39;@somedomain.com_&#39;を使用します。 「contains」を含む複数のメールアドレスを使用している場合は、すべて「@」で始める必要があります。
+1. **メールアドレスフィルターを使用する際は、ドメイン名の前に@記号を含める**&#x200B;**&#x200B;** - これにより、クエリがより高速になります。 例：_email contains &#39;somedomain.com&#39;_&#x200B;を使用する代わりに、_email contains &#39;@somedomain.com_&#39;を使用します。 「contains」を含む複数のメールアドレスを使用している場合は、すべて「@」で始める必要があります。
 
 >[!TIP]
 >
