@@ -7,16 +7,10 @@ level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
 TQID: https://experienceleague.adobe.com/Rw-Sk5TQz8PEK07bb69pJnyuqAEKWH-XsS87XW4N22k
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c1579802-ddd4-4214-8a91-97b2066abe11
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e2290edd-b061-4880-9d79-dee306cf5aa9
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 625
@@ -52,9 +46,9 @@ Marketo Engageの電子メールDesignerに独自のカスタム CSSを直接追
 
    >[!NOTE]
    >
-   >ロックされたコンテンツ [&#128279;](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)を含む テンプレートを使用する場合、コンテンツにカスタム CSSを追加することはできません。 ボタンラベルが&#x200B;**[!UICONTROL カスタム CSS]**&#x200B;を表示に変更され、表示されるカスタム CSSはすべて読み取り専用です。
+   >ロックされたコンテンツ ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)を含む[ テンプレートを使用する場合、コンテンツにカスタム CSSを追加することはできません。 ボタンラベルが&#x200B;**[!UICONTROL カスタム CSS]**&#x200B;を表示に変更され、表示されるカスタム CSSはすべて読み取り専用です。
 
-1. CSSがコンテンツに適用されていることを確認します。 問題が発生しない場合は、「[&#x200B; トラブルシューティング &#x200B;](#troubleshooting)」セクションを確認してください。
+1. CSSがコンテンツに適用されていることを確認します。 問題が発生しない場合は、「[ トラブルシューティング ](#troubleshooting)」セクションを確認してください。
 
    ![](assets/custom-css-3.png)
 
@@ -217,7 +211,7 @@ body {
 
 E メールデザイナーに読み込んだコンテンツでカスタム CSS を使用する場合は、次の点を考慮します。
 
-* CSSを含む外部HTML[&#128279;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) コンテンツを読み込む場合、そのコンテンツを変換しない限り、**[!UICONTROL 互換性モード]**&#x200B;になり、**[!UICONTROL CSS スタイル]** セクションは使用できません。
+* CSSを含む外部HTML](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) コンテンツを[読み込む場合、そのコンテンツを変換しない限り、**[!UICONTROL 互換性モード]**&#x200B;になり、**[!UICONTROL CSS スタイル]** セクションは使用できません。
 
 * Email Designerで作成されたコンテンツを読み込む際に、**[!UICONTROL カスタム CSSを追加]** オプションを通じて適用されたCSSが含まれる場合、以前に適用されたCSSは同じオプションから表示され、編集可能になります。
 

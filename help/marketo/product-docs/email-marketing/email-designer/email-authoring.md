@@ -5,25 +5,11 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
 TQID: https://experienceleague.adobe.com/T4P378JxWQuCWzPMUsgXoQvnPhaRxdAnZUxVzpZuqWo
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46id: ffdd6159-0e10-4a57-8021-94e93bab8183
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 1746
@@ -93,7 +79,7 @@ ht-degree: 5%
 
 1. 「_メールを作成_」ページが読み込まれます。 いくつかのオプションから選択できます。
 
-* ビジュアルメールエディターを使用して[&#x200B; ゼロからデザイン &#x200B;](#design-from-scratch)
+* ビジュアルメールエディターを使用して[ ゼロからデザイン ](#design-from-scratch)
 
 * [HTMLまたはzip ファイルを使用して、独自のHTML](#import-html)を読み込む
 
@@ -111,13 +97,13 @@ ht-degree: 5%
    >
    >手作業によるスタイル設定で作成された電子メールでは、テーマで作成されたフラグメントを使用できません
 
-1. メールに[構造とコンテンツ &#x200B;](#add-structure-and-content)を追加します。
+1. メールに[構造とコンテンツ ](#add-structure-and-content)を追加します。
 
 1. [画像](#add-assets)を追加します。
 
-1. コンテンツを[&#x200B; パーソナライズ &#x200B;](#personalize-content)します。
+1. コンテンツを[ パーソナライズ ](#personalize-content)します。
 
-1. リンクを確認し、[&#x200B; トラッキングを編集](#edit-url-tracking)します。
+1. リンクを確認し、[ トラッキングを編集](#edit-url-tracking)します。
 
 ### HTML の読み込み {#import-html}
 
@@ -141,7 +127,7 @@ ht-degree: 5%
 >
 >HTML コンテンツがアップロードされると、コンテンツは互換性モードになります。 このモードでは、テキストのパーソナライズ、リンクの追加、コンテンツへのアセットの追加のみを行うことができます。
 
-[&#x200B; ビジュアルメールエディターツール &#x200B;](#add-structure-and-content)を使用して、インポートしたコンテンツに必要な変更を加えることができます。
+[ ビジュアルメールエディターツール ](#add-structure-and-content)を使用して、インポートしたコンテンツに必要な変更を加えることができます。
 
 ### テンプレートの選択 {#choose-a-template}
 
@@ -205,9 +191,9 @@ ht-degree: 5%
 
 ### フラグメントを追加 {#add-fragments}
 
-1. フラグメントにアクセスするには、左側のナビゲーションで「_フラグメント_」アイコン（![&#x200B; フラグメントアイコン &#x200B;](assets/icon-fragments.svg)）を選択します。
+1. フラグメントにアクセスするには、左側のナビゲーションで「_フラグメント_」アイコン（![ フラグメントアイコン ](assets/icon-fragments.svg)）を選択します。
 
-   ![&#x200B; フラグメントを選択](assets/add-fragments-1.png){width="700" zoomable="yes"}
+   ![ フラグメントを選択](assets/add-fragments-1.png){width="700" zoomable="yes"}
 
 1. 任意のフラグメントを構造コンポーネントのプレースホルダーにドラッグ&amp;ドロップします。
 
@@ -221,7 +207,7 @@ ht-degree: 5%
 
 ### Assetsを追加 {#add-assets}
 
-Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
+Marketo Engage インスタンスの[画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
 
 >[!NOTE]
 >
@@ -282,7 +268,7 @@ Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marke
 
    ![](assets/authoring-personalize-content-1.png)
 
-1. 目的の[&#x200B; トークンタイプ &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}をクリックします。
+1. 目的の[ トークンタイプ ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}をクリックします。
 
    ![](assets/authoring-personalize-content-2.png)
 
@@ -348,7 +334,7 @@ Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marke
 
 >[!NOTE]
 >
->[業務用メール &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) （マーケティング以外）に購読解除オプションを追加する必要はありません。
+>[業務用メール ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) （マーケティング以外）に購読解除オプションを追加する必要はありません。
 
 * **HTMLのテキストバージョンが空です**: HTML コンテンツを表示できない場合は、メール本文のテキストバージョンを定義する必要があります。
 
@@ -376,9 +362,9 @@ Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marke
 
 メール Designerのメールは、メール、エンゲージメント、デフォルト、イベントプログラム（インタラクティブウェビナープログラムを除く）全体でアクセスできます。 Design Studioで電子メールを作成した場合、その電子メールは、他の電子メールと同様に、スマートキャンペーンやスマートリストから参照できます。
 
-* 通常の手順[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)に従って スマートリストで参照します。
+* 通常の手順](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)に従って[ スマートリストで参照します。
 
-* 通常の手順[&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)に従って スマートキャンペーンで参照します。
+* 通常の手順](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)に従って[ スマートキャンペーンで参照します。
 
 >[!NOTE]
 >
@@ -386,4 +372,4 @@ Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marke
 
 >[!MORELIKETHIS]
 >
->[電子メールテンプレート &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：新しいデザイナーで電子メールテンプレートを作成、デザイン、アクセスする方法について説明します。
+>[電子メールテンプレート ](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}：新しいデザイナーで電子メールテンプレートを作成、デザイン、アクセスする方法について説明します。

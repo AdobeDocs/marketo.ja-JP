@@ -28,7 +28,7 @@ ht-degree: 10%
 
 1. 電子メールで、**[!UICONTROL ブランド調整]** アイコンをクリックします。
 
-   コンテンツは、[&#x200B; デフォルトのブランド &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#default-brand){target="_blank"}を自動的に評価します。
+   コンテンツは、[ デフォルトのブランド ](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#default-brand){target="_blank"}を自動的に評価します。
 
    ![](assets/brand-score-1.png){width="800" zoomable="yes"}
 
