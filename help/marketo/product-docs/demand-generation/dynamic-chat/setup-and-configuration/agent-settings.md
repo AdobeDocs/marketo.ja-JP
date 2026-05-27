@@ -4,8 +4,10 @@ title: エージェント設定
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
 TQID: https://experienceleague.adobe.com/ahFQ2s-DqjnDhtCLIJwOG7Z6vlH5fQVGLBS9FibW7I8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 634
@@ -93,7 +95,7 @@ Google で設定すると、Dynamic Chat に対して次の権限が付与され
 
 >[!IMPORTANT]
 >
->* エージェントの受信トレイ **の[可用性トグル ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}は、_ライブチャットの可用性_ タブに入力された内容**&#x200B;を上書きします。 そのため、エージェントが1pから5pの間に利用可能にスケジュールされていても、3pでクイックブレークを取る必要がある場合は、エージェントの設定を変更する必要はありません。 可用性トグルステータスは、手動で変更されるまで、エージェントの可用性の次の時間ブロックに達するまで、またはエージェントの指定されたタイムゾーンの深夜まで保持されます（詳しくは次の箇条書きを参照してください）。
+>* エージェントの受信トレイ **の[可用性トグル &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}は、_ライブチャットの可用性_ タブに入力された内容**&#x200B;を上書きします。 そのため、エージェントが1pから5pの間に利用可能にスケジュールされていても、3pでクイックブレークを取る必要がある場合は、エージェントの設定を変更する必要はありません。 可用性トグルステータスは、手動で変更されるまで、エージェントの可用性の次の時間ブロックに達するまで、またはエージェントの指定されたタイムゾーンの深夜まで保持されます（詳しくは次の箇条書きを参照してください）。
 >
 >* エージェントが可用性トグルを使用してステータスを「使用可能」に変更すると、可用性スケジュールで指定されたタイムゾーンの深夜に、ステータスが自動的にリセットされます（使用不可に切り替わります）。 タイムゾーンが指定されていない場合、デフォルトはUTC （協定世界時）になります。
 
