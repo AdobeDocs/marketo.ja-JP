@@ -3,11 +3,8 @@ description: OutlookをSales Insight Actionsに接続する方法を説明しま
 title: Outlook への接続
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
 TQID: https://experienceleague.adobe.com/tonzxiPICvRgvLIfWFADeUL1CLdSVwcqx-dAIETCDOc
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 577
@@ -152,7 +149,7 @@ IT チームと連携して、Marketo Sales に Outlook オンラインアカウ
 IT チームの好みと現在の設定に応じて、アクセス権の付与についてIT チームと相談することをお勧めします。 以下に、話し合いのガイドとして役立つ記事の一部を示します。
 
 * グローバルな同意：[Microsoft 365管理者向けの統合アプリとAzure AD](https://learn.microsoft.com/ja-jp/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* ユーザーの同意：[&#x200B; ユーザーがアプリケーションに同意する方法を設定](https://learn.microsoft.com/ja-jp/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
+* ユーザーの同意：[ ユーザーがアプリケーションに同意する方法を設定](https://learn.microsoft.com/ja-jp/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
 * 管理者の同意：[管理者の同意ワークフローの設定](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
 * ユーザーの同意を有効または無効にする：[Microsoft 365](https://learn.microsoft.com/ja-jp/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}のアプリに対するユーザーの同意の管理
 * Microsoft Defenderでの管理：[OAuth アプリの管理](https://learn.microsoft.com/ja-jp/defender-cloud-apps/manage-app-permissions){target="_blank"}
