@@ -5,11 +5,8 @@ title: マーケティングカレンダーのフィルタリング
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
 TQID: https://experienceleague.adobe.com/kMQU58oZslkR2iLG6vy9yLcaN----3rjAIZ5ln3QtMg
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 118
@@ -39,7 +36,7 @@ ht-degree: 40%
 
    >[!TIP]
    >
-   >標準エントリタイプの詳細については、[&#x200B; プログラムスケジュール表示エントリタイプ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}を参照してください。
+   >標準エントリタイプの詳細については、[ プログラムスケジュール表示エントリタイプ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}を参照してください。
 
 1. 関心のあるプログラムタグを選択します。
 
