@@ -34,7 +34,7 @@ ht-degree: 96%
   </tr>
   <tr>
    <td><img src="assets/image2016-2-24-11-3a16-3a17.png"></td>
-   <td>フォルダー</td>
+   <td>フォルダ</td>
   </tr>
   <tr>
    <td>

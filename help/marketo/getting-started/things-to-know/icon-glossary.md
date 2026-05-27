@@ -96,7 +96,7 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-folder.png"></td>
    <td><img src="assets/folder.png"></td>
-   <td>フォルダー</td>
+   <td>フォルダ</td>
   </tr>
   <tr>
    <td><img src="assets/classic-archive-folder.png"></td>

@@ -14,7 +14,7 @@ ht-degree: 89%
 
 Marketo Engage のマーケティングユーザーと管理者は Adobe Admin Console で管理しますが、Marketo Engage API 専用ユーザーは Marketo Engage で作成および管理する必要があります。
 
-以下の手順で、Marketo Engage で API 専用ユーザーを追加する方法を示します。その前に、[API 専用のロールを設定](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)しておく必要があります。
+以下の手順で、Marketo Engage で API 専用ユーザーを追加する方法を示します。 その前に、[API 専用のロールを設定](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)しておく必要があります。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックし、「**[!UICONTROL ユーザー＆ロール]**」を選択します。
 
@@ -24,7 +24,7 @@ Marketo Engage のマーケティングユーザーと管理者は Adobe Admin C
 
    ![](assets/create-api-only-user-2.png)
 
-1. API 専用ユーザーの[!UICONTROL メール]、[!UICONTROL 名]、[!UICONTROL 姓]を入力します。ユーザーに割り当てる [!UICONTROL API のみ]のロールを選択します。完了したら、「**[!UICONTROL API 専用ユーザーを作成]**」をクリックします。
+1. API 専用ユーザーの[!UICONTROL メール]、[!UICONTROL 名]、[!UICONTROL 姓]を入力します。 ユーザーに割り当てる [!UICONTROL API のみ]のロールを選択します。 完了したら、「**[!UICONTROL API 専用ユーザーを作成]**」をクリックします。
 
    ![](assets/create-api-only-user-3.png)
 
