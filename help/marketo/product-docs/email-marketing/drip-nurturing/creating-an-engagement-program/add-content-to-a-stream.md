@@ -5,10 +5,8 @@ title: ストリームにコンテンツを追加する
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/mEXmi2TJ3INTU2G3cFvw1uJyVbMIwRjNil65pFCY7DY
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 157
@@ -36,7 +34,7 @@ ht-degree: 75%
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. 「**[!UICONTROL 電子メール]**&#x200B;_」または「_&#x200B;**[!UICONTROL プログラム]**」を選択して、追加するメールまたはプログラム／スマートキャンペーンを選択します。
+1. 「**[!UICONTROL 電子メール]**_」または「_**[!UICONTROL プログラム]**」を選択して、追加するメールまたはプログラム／スマートキャンペーンを選択します。
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -46,7 +44,7 @@ ht-degree: 75%
 
 **+ アイコン**
 
-1. **+** アイコンをクリックして、「**[!UICONTROL 電子メール]**&#x200B;_」または「_ **[!UICONTROL プログラム]**」をクリックし、追加するメールまたはプログラム／スマートキャンペーンを選択します。
+1. **+** アイコンをクリックして、「**[!UICONTROL 電子メール]**_」または「_ **[!UICONTROL プログラム]**」をクリックし、追加するメールまたはプログラム／スマートキャンペーンを選択します。
 
    ![](assets/add-content-to-a-stream-5.png)
 

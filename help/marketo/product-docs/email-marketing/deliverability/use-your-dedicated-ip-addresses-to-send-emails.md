@@ -5,12 +5,9 @@ title: 専用 IP アドレスを使用したメール送信
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
 TQID: https://experienceleague.adobe.com/eZdDKPbVZJ5CCk9J73Wn934Bachb-y-rzyKBCznhlPw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-topic_v2:
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 452
@@ -26,7 +23,7 @@ ht-degree: 78%
 >
 >専用 IP はアドオン製品です。 すべてのユーザーが専用 IP をプログラムに追加する資格を持つわけではありません。 専用 IP を維持するには、月に 100,000 件を超えるメールを送信し、キャンペーンの安定したケイデンスを維持する必要があります。 専用 IP を Marketo プログラムに追加する方法の詳細については、アカウントチームにお問い合わせください。
 >
->月に送信するメールが 100,000 件未満で、キャンペーンの量が変化する場合、または季節に応じてメールを送信する場合は、専用 IP を維持できません。 Marketo は、厳格なベストプラクティスに従う顧客向けに、個別の信頼できる IP 共有プールを維持しています。 Marketoの信頼済みIP プログラムに申し込むには、[このアンケート &#x200B;](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html)に入力してください。
+>月に送信するメールが 100,000 件未満で、キャンペーンの量が変化する場合、または季節に応じてメールを送信する場合は、専用 IP を維持できません。 Marketo は、厳格なベストプラクティスに従う顧客向けに、個別の信頼できる IP 共有プールを維持しています。 Marketoの信頼済みIP プログラムに申し込むには、[このアンケート ](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html)に入力してください。
 
 すべての Marketo アカウントは共有 IP から使用開始し、すぐにメールを送信できます。 専用IPを追加する場合は、配信品質コンサルタントと協力してIPのプロビジョニングをスケジュールします。
 
