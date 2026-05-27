@@ -21,7 +21,7 @@ ht-degree: 35%
 
 これは、デモグラフィックスコアリングにMarketo Engageのデフォルトプログラムを活用した、高度な（トークン化された）運用プログラムの例です。 プログラムの「マイトークン」タブでスコアリング値を表示および編集します。 「デモグラフィックスコア」というカスタムスコアフィールドが必要です。
 
-詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
+詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
 
 ## チャネルサマリ {#channel-summary}
 

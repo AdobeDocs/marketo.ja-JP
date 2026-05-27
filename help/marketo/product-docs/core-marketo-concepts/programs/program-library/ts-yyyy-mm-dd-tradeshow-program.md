@@ -27,7 +27,7 @@ ht-degree: 19%
 
 Marketo Engageのイベントプログラムを活用した、招待状やフォローアップメールによるトレードショープログラムの例を紹介します。
 
-詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
+詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
 
 ## チャネルサマリ {#channel-summary}
 

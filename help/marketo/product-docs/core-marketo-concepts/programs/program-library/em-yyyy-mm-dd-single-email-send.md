@@ -21,7 +21,7 @@ ht-degree: 21%
 
 この例では、Marketo Engage メールプログラムを使用して1通のメールを送信します。 メールには、A/B テストを含めることも、含めないこともできます。
 
-詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
+詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
 
 ## チャネルサマリ {#channel-summary}
 
