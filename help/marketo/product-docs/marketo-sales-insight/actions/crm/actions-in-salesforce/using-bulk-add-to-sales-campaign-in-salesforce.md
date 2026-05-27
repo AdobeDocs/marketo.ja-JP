@@ -3,10 +3,8 @@ description: Salesforceからセールスキャンペーンにリードと連絡
 title: Salesforce でのセールスキャンペーンへの一括追加の使用
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
 TQID: https://experienceleague.adobe.com/2LbZICCTfZs0GAnBtFwAs3f0xjKk1ZkHvY2fkC7VLbU
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 602
@@ -24,7 +22,7 @@ Sales Actions を使用したアウトバウンド通信の拡大に役立つ、
 
 >[!PREREQUISITES]
 >
->最新の[Sales Insight パッケージ &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}をSalesforce インスタンスにインストールし、Salesforceの連絡先およびリードリストビューに[&#x200B; アクションボタン &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"}を設定していることを確認してください。
+>最新の[Sales Insight パッケージ ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}をSalesforce インスタンスにインストールし、Salesforceの連絡先およびリードリストビューに[ アクションボタン ](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"}を設定していることを確認してください。
 
 ## Salesforce Lightning でのセールスキャンペーンへの一括追加 {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 
