@@ -4,10 +4,14 @@ title: リリースノート - 2024年4月
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
 TQID: https://experienceleague.adobe.com/veRcvmZPvQFZcLKnU8ldjfZRQchr99eg0UhRy-0sNQo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-subfeature_v2: id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2:
+  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 471
@@ -80,7 +84,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **アクティビティ API アップデート**: 4月26日に、[Marketo REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}を使用してアクティビティを取得すると返される、web ベースおよび電子メールベースのアクティビティにいくつかの新しい属性を追加します。 次のアクティビティには、ブラウザー、プラットフォーム、デバイス、ユーザーエージェントの属性が含まれるようになりました。 [ アクティビティタイプを取得](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} エンドポイントを呼び出して、各アクティビティの属性の詳細を確認します。
+* **アクティビティ API アップデート**: 4月26日に、[Marketo REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}を使用してアクティビティを取得すると返される、web ベースおよび電子メールベースのアクティビティにいくつかの新しい属性を追加します。 次のアクティビティには、ブラウザー、プラットフォーム、デバイス、ユーザーエージェントの属性が含まれるようになりました。 [&#x200B; アクティビティタイプを取得](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} エンドポイントを呼び出して、各アクティビティの属性の詳細を確認します。
 
 **Web ベースのアクティビティ**
 
