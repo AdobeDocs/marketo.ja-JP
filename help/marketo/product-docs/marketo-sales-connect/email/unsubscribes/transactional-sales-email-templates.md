@@ -15,9 +15,9 @@ ht-degree: 6%
 
 ## 注意事項 {#things-to-note}
 
-* 非商用メールは、セールスの登録解除と[Marketo Engageの登録解除チェック ](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}をバイパスしますが、[ ブロックされたドメイン ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}はバイパスされません。
+* 非商用メールは、セールスの登録解除と[Marketo Engageの登録解除チェック &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}をバイパスしますが、[&#x200B; ブロックされたドメイン &#x200B;](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}はバイパスされません。
 
-* 購読解除メッセージの追加管理設定](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"}が有効になっている場合でも、購読解除メッセージは非商用メールに自動的に追加されません。 [ただし、`{{team_unsubscribe}}` [動的フィールド ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}は、引き続きチームの購読解除メッセージに入力されます。
+* 購読解除メッセージの追加管理設定[&#128279;](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"}が有効になっている場合でも、購読解除メッセージは非商用メールに自動的に追加されません。 ただし、`{{team_unsubscribe}}` [動的フィールド &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}は、引き続きチームの購読解除メッセージに入力されます。
 
 ## 非商用利用のためのメールテンプレートの設定 {#configure-an-email-template-for-non-commercial-use}
 
