@@ -5,13 +5,9 @@ title: 手順 3／3 — Marketo と Salesforce の接続（Professional）
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/g49qFOb1sqAohhsLP72t0N-gBciCz32OO8JPKmPO0QQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 397
@@ -56,7 +52,7 @@ ht-degree: 84%
 
    >[!NOTE]
    >
-   >[同期ユーザーから&#x200B;**[!UICONTROL フィールドの同期]**&#x200B;をクリックする前に、Marketoで必要ないすべてのフィールド &#x200B;](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}を非表示にします。 「同期フィールド」をクリックすると、ユーザーが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
+   >[同期ユーザーから&#x200B;**[!UICONTROL フィールドの同期]**&#x200B;をクリックする前に、Marketoで必要ないすべてのフィールド ](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"}を非表示にします。 「同期フィールド」をクリックすると、ユーザーが表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
 
 1. Salesforce 設定のパート 2 で作成した Salesforce 同期ユーザの資格情報（[Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md) または [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)）を入力して、「**[!UICONTROL 同期フィールド]**」をクリックします。
 

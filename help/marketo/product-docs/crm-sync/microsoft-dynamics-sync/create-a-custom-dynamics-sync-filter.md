@@ -5,13 +5,9 @@ title: カスタム  [!DNL Dynamics]  同期フィルターの作成
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/XXCfjVD8zv3PdzniEs-eu6SYk6p74rW3jb2s5jbk6YE
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e2290edd-b061-4880-9d79-dee306cf5aa9
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 782
@@ -77,7 +73,7 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
    >[!NOTE]
    >
-   >このフィールドの表示名を任意に選択しますが、「名前」フィールドは正確に **new_synctomkto** にする必要があります。 デフォルトの接頭辞として **new** を使用する必要があります。 デフォルトを変更した場合は、ここに移動して、[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}カスタムフィールド名のデフォルトの接頭辞をリセットします。 新しいフィールドを作成した後で、このフィールドを元に戻すことができます。
+   >このフィールドの表示名を任意に選択しますが、「名前」フィールドは正確に **new_synctomkto** にする必要があります。 デフォルトの接頭辞として **new** を使用する必要があります。 デフォルトを変更した場合は、ここに移動して、](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}カスタムフィールド名のデフォルトの接頭辞をリセットします[。 新しいフィールドを作成した後で、このフィールドを元に戻すことができます。
 
    >[!NOTE]
    >

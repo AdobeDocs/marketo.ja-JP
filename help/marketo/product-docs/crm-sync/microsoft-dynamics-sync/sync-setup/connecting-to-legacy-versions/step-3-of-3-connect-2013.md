@@ -5,8 +5,7 @@ title: 手順 3 / 3 - Marketo と Dynamics（2013 オンプレミス）の接続
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/pERYRYCLDigsARoh7aAWOTXRFmpIWKz8j-tgDb-ShTQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 401
@@ -112,4 +111,4 @@ Marketoと[!DNL Microsoft Dynamics]間の双方向同期が設定されました
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL Marketo Sales Insight]  の  [!DNL Microsoft Dynamics]  2013 へのインストールと設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
+>[ [!DNL Marketo Sales Insight]  の  [!DNL Microsoft Dynamics]  2013 へのインストールと設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
