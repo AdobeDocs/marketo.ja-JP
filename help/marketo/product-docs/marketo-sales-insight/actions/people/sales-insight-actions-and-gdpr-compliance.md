@@ -4,15 +4,9 @@ title: セールスインサイトアクションと GDPR への準拠
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/GXMlDdWZ3cjfdkAIXwZhz-seOWzf6FPKNHE5zN7oLdA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-topic_v2:
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: d3cdead0-685a-4489-9250-4bb709942f66
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: d3cdead0-685a-4489-9250-4bb709942f66id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1410
@@ -189,7 +183,7 @@ Marketo プラットフォームでの同意と説明責任に関する広範な
 
 GDPR の一般的に誤解される領域として、組織のデータベースから配信停止する取引先責任者が含まれます。 登録解除を選択したユーザのデータ保護に関する新しいルールに従うために、[!DNL Sales Insight Actions] に次の機能が含まれています。
 
-**購読解除リンク：**&#x200B;購読解除リンクは、Sales Connect web アプリケーションから送信されたすべてのメールに自動的に追加され、連絡先にオプトアウトへのアクセス可能な方法が与えられるようにします。
+**購読解除リンク：**購読解除リンクは、Sales Connect web アプリケーションから送信されたすべてのメールに自動的に追加され、連絡先にオプトアウトへのアクセス可能な方法が与えられるようにします。
 **購読解除の同期：** ユーザーは、オプトアウトが最新であることを確認するために、CRM （Salesforce）との間で購読解除を同期できます。
 **購読解除履歴：** ユーザーは、人物の詳細ビューで過去のオプトアウトとオプトインを確認できます。
 **配信停止の削除：**&#x200B;配信停止済みの取引先責任者を再度オプトインするには、ユーザが管理者権限を持っている必要があり、その取引先責任者が自身に連絡することに新たに同意したことを示す必要があります。
