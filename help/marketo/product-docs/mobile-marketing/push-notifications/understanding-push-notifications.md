@@ -5,8 +5,10 @@ title: プッシュ通知について
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
 TQID: https://experienceleague.adobe.com/PmrSIaAhfPFh0bkVdGMSKWSi9gys7z1LhLZCfpewrT4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 232
@@ -32,7 +34,7 @@ Marketo Admin とモバイルアプリの開発者が連携して設定をおこ
 
 ## 手順 2：プッシュ通知を作成する {#step-create-a-push-notification}
 
-[ メッセージを作成](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)し、AndroidおよびiOS デバイスでのメッセージの表示方法をプレビューします。
+[&#x200B; メッセージを作成](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)し、AndroidおよびiOS デバイスでのメッセージの表示方法をプレビューします。
 
 ## 手順 3：送信する {#step-send}
 
