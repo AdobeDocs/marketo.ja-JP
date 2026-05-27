@@ -5,9 +5,14 @@ title: ' [!DNL Zoom] を使用したイベントの作成'
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
 TQID: https://experienceleague.adobe.com/U5xsTJ-TgiTymlWAOWIuACLSeGE9iuPVjym-z3-VlvA
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 573
@@ -19,13 +24,13 @@ ht-degree: 89%
 
 >[!PREREQUISITES]
 >
->* [ [!DNL Zoom]  を  [!DNL LaunchPoint]  サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
+>* [&#x200B; [!DNL Zoom]  を  [!DNL LaunchPoint]  サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
 
 まず、[!DNL Zoom] でウェビナーを作成します。 [!DNL Zoom] の作成機能の設定には、Marketo で使用されるものと、[!DNL Zoom] でのみ使用されるものがあります。
 
-Marketo イベントを作成してそれに [!DNL Zoom] ウェビナーを関連付けると、システムは登録情報と出席情報を共有できるようになります。 ウェビナーの作成については、[ [!DNL Zoom]  ウェビナーの基本を学ぶ](https://support.zoom.us/hc/ja/articles/200917029-Getting-Started-With-Webinar)を参照してください。
+Marketo イベントを作成してそれに [!DNL Zoom] ウェビナーを関連付けると、システムは登録情報と出席情報を共有できるようになります。 ウェビナーの作成については、[&#x200B; [!DNL Zoom]  ウェビナーの基本を学ぶ](https://support.zoom.us/hc/ja/articles/200917029-Getting-Started-With-Webinar)を参照してください。
 
 ウェビナーに関する次の情報を入力すると、アダプターを介して Marketo に取り込まれます。 この情報に変更を加えた場合、Marketo で変更を表示するには、イベントアクションで「ウェビナープロバイダーから更新」リンクをクリックする必要があります。
 
