@@ -33,7 +33,7 @@ ht-degree: 15%
 
 ## Adobe Identity Management上のMarketo Engage {#marketo-engage-on-adobe-identity-management}
 
-新しいMarketo Engage サブスクリプションは、[Adobe Identity Management System （IMS） &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html)にオンボーディングされます。 Adobe Admin Consoleで次のユーザー管理レビューに進みます。
+新しいMarketo Engage サブスクリプションは、[Adobe Identity Management System （IMS） &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=ja)にオンボーディングされます。 Adobe Admin Consoleで次のユーザー管理レビューに進みます。
 
 <table>
 <thead>
@@ -47,21 +47,21 @@ ht-degree: 15%
     <td>サブスクリプションおよび Marketo Engage 製品管理者</td>
     <td><li>Adobe組織システム管理者からAdobe Product Admin ロールが付与されていることを確認します。</li>
     <ul>
-    <li>Adobe アカウントチーム（アカウントマネージャー）に連絡するか、<code>marketocares@marketo.com</code>にメールを送信して、組織の<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a>権限を持つユーザーを確認します。</li></ul>
-    <li>「Marketo Engage Product Admin」招待に同意して、Adobe IDをアクティブ化します。 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=en#create-a-product-profile"> ウェルカムメール </a>は、ロールがAdobe Admin Consoleで割り当てられたときに送信されます。</li></td>
+    <li>Adobe アカウントチーム（アカウントマネージャー）に連絡するか、<code>marketocares@marketo.com</code>にメールを送信して、組織の<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=ja">Adobe Admin Console System Admin</a>権限を持つユーザーを確認します。</li></ul>
+    <li>「Marketo Engage Product Admin」招待に同意して、Adobe IDをアクティブ化します。 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup.html?lang=ja#create-a-product-profile"> ウェルカムメール </a>は、ロールがAdobe Admin Consoleで割り当てられたときに送信されます。</li></td>
   </tr>
   <tr>
     <td>製品プロファイル</td>
-    <td><li>Adobe Admin ConsoleのMarketo Engage <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup#create-a-product-profile">Product Profile</a>に、必要なすべてのユーザーを割り当てます。</li>
+    <td><li>Adobe Admin ConsoleのMarketo Engage <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/admin-setup#create-a-product-profile">Product Profile</a>に、必要なすべてのユーザーを割り当てます。</li>
     <ul>
     <li>製品プロファイルにユーザーを追加する前に、Marketo Engage/管理者/ユーザーと役割でユーザーの役割を割り当てることはできません。</li>
     <li>各サブスクリプションは、スタンドアロンの製品プロファイルになります。 望ましくないユーザーが複数の製品プロファイル（実稼動用サンドボックスやテスト用サンドボックスなど）に追加された場合は、そのユーザーをすべての製品プロファイルから削除する必要があります。 そうでない場合は、Marketo Engageにアクセスできます。</li></ul></td>
   </tr>
   <tr>
     <td>ユーザ</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html"> ユーザーを作成する</a> タイミングのポリシーを作成します。</li> <li>ユーザーを削除するタイミングに関するポリシーを作成します。</li>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html?lang=ja"> ユーザーを作成する</a> タイミングのポリシーを作成します。</li> <li>ユーザーを削除するタイミングに関するポリシーを作成します。</li>
     <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：ユーザーを削除するには、システム管理者である必要があります。
-    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe システム管理者とMarketo Engage製品管理者の権限を持つユーザーを決定します。</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user"> ユーザー</a>を目的の製品プロファイルに追加します。</li>
+    <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=ja">Adobe システム管理者とMarketo Engage製品管理者の権限を持つユーザーを決定します。</a> <li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user"> ユーザー</a>を目的の製品プロファイルに追加します。</li>
     <li>APIのユースケースごとに1人のAPI ユーザーを作成します。</li></td>
   </tr>
   <tr>
@@ -72,8 +72,8 @@ ht-degree: 15%
   </tr>
   <tr>
     <td>製品サポート管理者</td>
-    <td><li>Adobe Admin Console</a>でサポートチケットを<a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html#create-a-support-ticket-with-admin-console">送信するには、管理するサブスクリプションにシステム管理者が「Product Support Administrator」ロールを割り当てる必要があります。 組織のシステム管理者のみが<a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html#assign-the-support-admin-role">この役割に割り当てることができます</a>。</li>
-    <li>Marketo Engage サブスクリプションのサポート管理者であることを示すメールがシステム管理者から送信された可能性があります。 その場合は、メール内の<a href="https://experienceleague.adobe.com/en/docs/customer-one/using/home#assign-the-support-admin-role">'開始'</a>をクリックして組織に参加してください。</li>
+    <td><li>Adobe Admin Console</a>でサポートチケットを<a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html?lang=ja#create-a-support-ticket-with-admin-console">送信するには、管理するサブスクリプションにシステム管理者が「Product Support Administrator」ロールを割り当てる必要があります。 組織のシステム管理者のみが<a href="https://experienceleague.adobe.com/docs/customer-one/using/home.html?lang=ja#assign-the-support-admin-role">この役割に割り当てることができます</a>。</li>
+    <li>Marketo Engage サブスクリプションのサポート管理者であることを示すメールがシステム管理者から送信された可能性があります。 その場合は、メール内の<a href="https://experienceleague.adobe.com/ja/docs/customer-one/using/home#assign-the-support-admin-role">'開始'</a>をクリックして組織に参加してください。</li>
     <li>（少なくとも1人のバックアップ担当者を含む）適切な連絡先を決定し、それに応じてシステム管理者が製品サポート管理者の役割を割り当てるようにします。</li></td>
   </tr>
 </tbody>
@@ -94,7 +94,7 @@ Marketo Engageのネイティブ会話オートメーションチャネルであ
   <tr>
     <td>サブスクリプションとDynamic Chat製品管理者（該当する場合）</td>
     <td><li>Adobe組織システム管理者からAdobe Product Admin ロールが付与されていることを確認します。</li>
-    <ul><li>Adobe アカウントチーム（アカウントマネージャー）に連絡するか、<code>marketocares@marketo.com</code>にメールを送信して、組織の<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">Adobe Admin Console System Admin</a>権限を持つユーザーを確認します。</li></ul>
+    <ul><li>Adobe アカウントチーム（アカウントマネージャー）に連絡するか、<code>marketocares@marketo.com</code>にメールを送信して、組織の<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=ja">Adobe Admin Console System Admin</a>権限を持つユーザーを確認します。</li></ul>
     <li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=ja">'Dynamic Chat Product Admin'</a>の招待に同意します。 <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.html?lang=ja"> ウェルカムメール </a>は、Marketo Engage インスタンスでDynamic Chatが有効になっていて、システム管理者として指定されている場合に送信されます。</li></td>
   </tr>
   <tr>
@@ -107,8 +107,8 @@ Marketo Engageのネイティブ会話オートメーションチャネルであ
   <tr>
     <td>ユーザ</td>
     <td><li>チャットユーザーを追加および削除するタイミングに関するポリシーを作成します。</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup#access-admin-console">Adobe Dynamic Chat Product Admin権限を持つユーザーに関するポリシーを作成します。</a></li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-a-chat-user">目的の製品プロファイルにユーザーを追加</a>。</li></td>
+    <li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup#access-admin-console">Adobe Dynamic Chat Product Admin権限を持つユーザーに関するポリシーを作成します。</a></li>
+    <li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users#add-a-chat-user">目的の製品プロファイルにユーザーを追加</a>。</li></td>
   </tr>
 </tbody>
 </table>
@@ -125,11 +125,11 @@ Marketo Engageのネイティブ会話オートメーションチャネルであ
 <tbody>
   <tr>
     <td>Adobe Marketoのステータス更新</td>
-    <td><li><a href="https://status.adobe.com/cloud/experience_cloud">Adobe Marketo Engageのステータス更新を購読する</a>。</li></td>
+    <td><li><a href="https://status.adobe.com/ja-jp/cloud/experience_cloud">Adobe Marketo Engageのステータス更新を購読する</a>。</li></td>
   </tr>
   <tr>
     <td>通知</td>
-    <td><li>スマートキャンペーンのエラーや、CRM同期で見つかった重大な問題などの重要な問題については、<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications#subscribe-to-notifications">管理者通知</a>を購読します。</li></td>
+    <td><li>スマートキャンペーンのエラーや、CRM同期で見つかった重大な問題などの重要な問題については、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications#subscribe-to-notifications">管理者通知</a>を購読します。</li></td>
   </tr>
 </tbody>
 </table>

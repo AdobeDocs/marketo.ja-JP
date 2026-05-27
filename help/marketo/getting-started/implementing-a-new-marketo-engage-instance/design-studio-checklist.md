@@ -47,7 +47,7 @@ ht-degree: 50%
   <tr>
     <td>グローバルランディングページ</td>
     <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages#product-docs" target="_blank"> グローバルランディングページ （フリーフォーム/ガイド付き）を作成</a>。</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank"> テストページ </a>を作成して、勝者ランディングページテンプレートをA/B テストします（該当する場合）。</li></td>
+    <li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups" target="_blank"> テストページ </a>を作成して、勝者ランディングページテンプレートをA/B テストします（該当する場合）。</li></td>
   </tr>
   <tr>
     <td>テンプレート</td>
@@ -107,7 +107,7 @@ ht-degree: 50%
   <tr>
     <td>プライバシーとコンプライアンス</td>
     <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email" target="_blank"> スニペット </a>をメールテンプレートに追加して、著作権年、グローバルな場所、コンプライアンス固有の言語などの再利用可能なブロックを制御します。</li>
-    <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank"> トークン </a>を追加して、ターゲットオーディエンスに基づいてコンテンツをパーソナライズします。</li></td>
+    <li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/general/using-tokens/add-an-email-script-token-to-your-email" target="_blank"> トークン </a>を追加して、ターゲットオーディエンスに基づいてコンテンツをパーソナライズします。</li></td>
   </tr>
 </tbody>
 </table>
