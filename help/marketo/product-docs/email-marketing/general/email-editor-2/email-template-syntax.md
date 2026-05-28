@@ -5,10 +5,8 @@ title: メールテンプレートの構文
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/-evGqvMqkaIP3CDAe5bKvGchxRhIoOkUPTpnlQlb-40
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 2464
@@ -133,7 +131,7 @@ class=&quot;mktoText&quot;構文を使用してリッチテキスト要素を指
 
 ## スニペット {#snippets}
 
-地域をスニペットとして定義すると、エンドユーザーは、この地域に挿入する承認済みの[&#x200B; スニペット &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)を選択できます。 リッチテキスト要素は、メールエディター内からスニペットに変換できますが、特に領域をスニペットとして定義する場合は、リッチテキストに変換できません。 `<div>` を class=”mktoSnippet” と使用して、スニペット領域を指定できます。
+地域をスニペットとして定義すると、エンドユーザーは、この地域に挿入する承認済みの[ スニペット ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md)を選択できます。 リッチテキスト要素は、メールエディター内からスニペットに変換できますが、特に領域をスニペットとして定義する場合は、リッチテキストに変換できません。 `<div>` を class=”mktoSnippet” と使用して、スニペット領域を指定できます。
 
 必須の属性
 
