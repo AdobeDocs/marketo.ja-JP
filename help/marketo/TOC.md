@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 37f7aeb9a3ee5618ae57d5b76e90e0be254caacd
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
 workflow-type: tm+mt
-source-wordcount: '8896'
+source-wordcount: '8897'
 ht-degree: 96%
 
 ---
@@ -1113,12 +1113,12 @@ ht-degree: 96%
       + {hide-from-toc}[設定と設定](product-docs/marketo-ai/settings-setup-old.md)
       + エージェント {#agents}
          + {hide-from-toc}[製品ナレッジ &#x200B;](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[分析](product-docs/marketo-ai/agents/analytics.md)
+         + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/marketo-ai/agents/surface-insights.md)
          + {hide-from-toc}[&#x200B; プログラムの作成](product-docs/marketo-ai/agents/create-program.md)
          + {hide-from-toc}[&#x200B; コピープログラム &#x200B;](product-docs/marketo-ai/agents/clone-program.md)
-         + {hide-from-toc}[&#x200B; リードを調査](product-docs/marketo-ai/agents/investigate-lead.md)
+         + {hide-from-toc}[&#x200B; リードの調査](product-docs/marketo-ai/agents/investigate-leads.md)
          + [リードの読み込み](product-docs/marketo-ai/agents/import-leads.md)
-         + [&#x200B; プログラム QA](product-docs/marketo-ai/agents/program-qa.md)
+         + [&#x200B; プログラムの検証](product-docs/marketo-ai/agents/validate-programs.md)
    + Marketo Engage の最新 UX {#marketo-engage-modern-ux}
       + [概要](product-docs/marketo-engage-modern-ux/overview.md)
       + [グローバル検索の使用](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
