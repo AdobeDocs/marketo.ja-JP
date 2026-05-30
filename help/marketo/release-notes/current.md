@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d63afbeaaa3c1299e73276e2be5d993f575b5fde
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
-source-wordcount: 698
-ht-degree: 18%
+source-wordcount: 655
+ht-degree: 19%
 
 ---
 
@@ -74,8 +74,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong> ピックリスト管理</strong>: Marketo Engageのフィールドで使用できる値を指定できるようになりました。
    </td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース</td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">ピックリスト管理</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -83,7 +83,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat – 入力しています</strong>：訪問者と担当者の両方に「入力しています…」と表示されます。 一方が入力している間に通知を送信し、一方が他方を中断しないようにします。
+   <td><strong>Dynamic Chat – 入力しています</strong>：訪問者と担当者の両方に、相手が入力している間に「入力しています…」という通知が表示され、一方が他方を中断できなくなります。
    </td>
    <td>リリース</td>
    <td>該当なし</td>
@@ -116,7 +116,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat – 新しい属性の同期ビヘイビアー</strong>：以前は、新しい属性を追加すると、同期が完了するまでの最大24時間、環境内の変更がブロックされ、ダイアログの編集と公開が妨げられました。 新しい属性を追加する際には、完全なデータ同期が必要ですが（これには最大24時間かかる場合があります）、プロセス中に環境がブロックされなくなりました。
+   <td><strong>Dynamic Chat – 新しい属性の同期ビヘイビアー</strong>：以前は、新しい属性を追加すると、同期が完了するまでの最大24時間、環境内の変更がブロックされ、ダイアログの編集と公開が妨げられました。新しい属性を追加する際には、完全なデータ同期が必要ですが（これには最大24時間かかる場合があります）、プロセス中に環境がブロックされなくなりました。
    </td>
    <td>リリース</td>
    <td>該当なし</td>

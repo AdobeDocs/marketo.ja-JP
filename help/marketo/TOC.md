@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
 source-wordcount: '8897'
 ht-degree: 96%
@@ -131,7 +131,7 @@ ht-degree: 96%
          + [フィールドの表示／非表示](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [メールでの HTML エンコードトークン](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [フィールドで大文字と小文字を区別するように設定](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + {hide-from-toc}[&#x200B; ピックリスト管理](product-docs/administration/field-management/picklist-management.md)
+         + [ピックリスト管理](product-docs/administration/field-management/picklist-management.md)
          + [フィールドの名前変更](product-docs/administration/field-management/rename-a-field.md)
          + [システム管理のフィールドについて](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Marketo と Salesforce の間のフィールドマッピングの表示](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
