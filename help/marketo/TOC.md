@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
 workflow-type: tm+mt
 source-wordcount: '8897'
 ht-degree: 96%
@@ -1114,7 +1114,7 @@ ht-degree: 96%
       + エージェント {#agents}
          + {hide-from-toc}[製品ナレッジ &#x200B;](product-docs/marketo-ai/agents/product-knowledge.md)
          + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/marketo-ai/agents/surface-insights.md)
-         + {hide-from-toc}[&#x200B; プログラムの作成](product-docs/marketo-ai/agents/create-program.md)
+         + {hide-from-toc}[&#x200B; プログラムの作成](product-docs/marketo-ai/agents/build-programs.md)
          + {hide-from-toc}[&#x200B; コピープログラム &#x200B;](product-docs/marketo-ai/agents/clone-program.md)
          + {hide-from-toc}[&#x200B; リードの調査](product-docs/marketo-ai/agents/investigate-leads.md)
          + [リードの読み込み](product-docs/marketo-ai/agents/import-leads.md)
