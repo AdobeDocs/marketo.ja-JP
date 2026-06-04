@@ -4,9 +4,13 @@ title: Dynamic Chat に関するよくある質問
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
 TQID: https://experienceleague.adobe.com/IpAD0KUETdl3o4UTUS-PBWhtCTY1N7k83qeyGkKnan8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
 source-wordcount: 963
@@ -32,7 +36,7 @@ experience.adobe.comのアプリメニューからDynamic Chatにアクセスし
 
 **レポート用のデータはどのくらいの期間保存されますか？**
 
-90 日です。 制限/パラメーターの完全な一覧については、Marketo Engage [製品説明ページ ](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}を参照してください。
+90 日です。 制限/パラメーターの完全な一覧については、Marketo Engage [製品説明ページ &#x200B;](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}を参照してください。
 
 **Dynamic Chat は英語以外の言語をサポートしていますか？**
 
