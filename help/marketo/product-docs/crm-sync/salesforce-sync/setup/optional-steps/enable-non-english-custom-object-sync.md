@@ -7,10 +7,10 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/kPzDEdjDnDAvuJmCtPj0I2Lfl63Lset00t-LwB8DDhI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 67c57a9162946c4b9c424ab3fd445b70e90b530a
 workflow-type: tm+mt
-source-wordcount: 175
-ht-degree: 75%
+source-wordcount: 195
+ht-degree: 35%
 
 ---
 
@@ -18,17 +18,15 @@ ht-degree: 75%
 
 Marketo 同期ユーザーが英語以外の言語に設定されている場合、カスタムオブジェクト同期を有効にしようとするとエラーが発生することがあります。
 
-## エラー {#the-error}
-
 ![](assets/image2014-12-10-13-3a17-3a51.png)
 
-## 回避 {#getting-around-it}
+## 解決方法 {#how-to-fix}
 
 1. Marketo 同期ユーザを使用して [!DNL Salesforce] にログインします。
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. ユーザー名の下にある「**[!UICONTROL 設定]**」に移動します。
+1. ユーザー名ドロップダウンをクリックし、**[!UICONTROL 設定]**&#x200B;を選択します。
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
@@ -48,19 +46,23 @@ Marketo 同期ユーザーが英語以外の言語に設定されている場合
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Marketo に戻り、**[!UICONTROL 管理者]**／**[!UICONTROL Salesforce]**／**[!UICONTROL オブジェクト]**&#x200B;で、「**[!UICONTROL スキーマを更新]**」をクリックします。
+1. [Adobe Account Profile](https://account.adobe.com/profile){target="_blank"}で、**[!UICONTROL Preferred languages]**&#x200B;までスクロールして、最初の言語が英語に設定されていることを確認します。
+
+   ![](assets/enable-non-english-custom-object-sync-step-6.5.png)
+
+1. Marketo Engageで、**[!UICONTROL 管理者]** > **[!UICONTROL Salesforce]** > **[!UICONTROL オブジェクト]**&#x200B;に移動します。 「**[!UICONTROL スキーマを更新]**」をクリックします。
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. これにより、英語でオブジェクトリストが取り込まれます。 次に、目的のオブジェクトを選択し、「**[!UICONTROL 同期を有効にする]**」をクリックします。
+1. これは英語でオブジェクトリストを引き出します。 目的のオブジェクトを選択し、**[!UICONTROL 同期を有効にする]**&#x200B;をクリックします。
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
-1. カスタムオブジェクトが有効になり、同期されています。
+1. カスタムオブジェクトが有効になり、同期されます。
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. 次に、[!DNL Salesforce] に戻り、上記の手順を使用して、同期ユーザを希望の言語に戻します。
+1. [!DNL Salesforce]に戻り、上記の手順を使用して、同期ユーザーを目的の言語に戻します。
 
 >[!NOTE]
 >
