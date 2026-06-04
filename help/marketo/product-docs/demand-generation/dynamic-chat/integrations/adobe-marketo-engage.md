@@ -15,10 +15,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 314
-ht-degree: 56%
+source-wordcount: 338
+ht-degree: 48%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 56%
 
    >[!NOTE]
    >
-   >タイルが表示されない場合は、Marketo 管理者にお問い合わせください。
+   >My Marketo画面にDynamic Chat タイルが表示されない場合は、experience.adobe.comのアプリメニューからDynamic Chatにアクセスし、**Configuration** > **Integrations**&#x200B;経由でMarketoに接続します。 接続後、タイルが表示されます。
 
 1. 以前に Adobe ID を使用してアプリケーションにアクセスしたことがある場合は、動的チャットに直接アクセスできます。 そうでない場合、[Adobe ID を設定](https://helpx.adobe.com/jp/manage-account/using/create-update-adobe-id.html){target="_blank"}します。
 
