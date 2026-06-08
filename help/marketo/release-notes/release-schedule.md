@@ -11,10 +11,10 @@ feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
+source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
 workflow-type: tm+mt
-source-wordcount: 160
-ht-degree: 90%
+source-wordcount: 165
+ht-degree: 83%
 
 ---
 
@@ -57,15 +57,15 @@ _リリース日／機能は変更される場合があります。_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">2026年5月</a></td>
    <td>2026年5月22日（PT）</td>
-   <td>進行中</td>
+   <td>Complete</td>
   </tr>
   <tr>
-  <td>2026年6月</td>
-   <td>2026年6月26日（PT）</td>
+  <td>26年7月（1/2）</td>
+   <td>2026年7月10日（PT）</td>
    <td>予定通り</td>
   </tr>
   <tr>
-  <td>2026年7月</td>
+  <td>26年7月（2 / 2）</td>
    <td>2026年7月31日（PT）</td>
    <td>予定通り</td>
   </tr>

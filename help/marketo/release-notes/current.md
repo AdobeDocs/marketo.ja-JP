@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: f5b235bda9063b8f54321fd62f2c9d5f4442c783
+source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
 workflow-type: tm+mt
-source-wordcount: 655
-ht-degree: 19%
+source-wordcount: 654
+ht-degree: 18%
 
 ---
 
@@ -63,8 +63,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong> メール Designer - メールフラグメントの条件付きコンテンツ </strong>: <i>古いメールエディターと同等</i>。 フラグメントで条件付きコンテンツがサポートされるようになりました。</td>
-   <td><i>まもなくリリース</i></td>
-   <td><i>まもなくリリース</i></td>
+   <td>リリース</td>
+   <td>該当なし</td>
   </tr>
   <tr>
    <td> </td>
