@@ -106,7 +106,7 @@ Co-star framework
 
 &lbrack;FOR KEITH：概要、ブランド参照ドキュメント、その他のコンテキストを添付する方法を説明します。 カバー：- サポートされているファイル形式。 - Haloがこの情報を使用する方法（プロンプトコンテキストに抽出、コンテンツ生成に適用など）。 - ファイルサイズの制限がある場合
 
-summitでのセッションを詳しく説明します。https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+summitでのセッションを詳しく説明します。https://business.adobe.com/jp/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
 制限事項 – 私はenggとあなたを接続することができます – Neha Pullabhotla、誰がここで詳細について私たちを助けることができるようになります。 &rbrack;
 
 [ スクリーンショット：概要/参照添付ファイル UI]
