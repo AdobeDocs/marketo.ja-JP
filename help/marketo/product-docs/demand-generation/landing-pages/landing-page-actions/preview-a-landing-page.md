@@ -5,12 +5,11 @@ title: ランディングページをプレビューする
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/3bgFcAopW5NAzIhEbI8hWVv9BP4njL6dX-pKRbEQV4Y
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: c4c2273fffb84f37c682e730f4fc27009ebca26d
 workflow-type: tm+mt
-source-wordcount: 149
-ht-degree: 72%
+source-wordcount: 179
+ht-degree: 18%
 
 ---
 
@@ -18,38 +17,38 @@ ht-degree: 72%
 
 本番稼働前に、ランディングページをプレビューして確認しましょう。
 
-## ランディングページをプレビューする {#preview-a-landing-page-1}
+>[!IMPORTANT]
+>
+>一部のカスタムメタタグは、Marketo Engageのセキュリティを維持するために設定されたコンテンツセキュリティポリシーに違反する可能性があるため、プレビューモード（`<meta http-equiv="refresh" ...>` リダイレクトディレクティブなど）ではサポートされていません。 これらのタグを含むランディングページは、プレビューURL （**プレビューアクション** > **プレビューURLを生成**）を生成し、新しいブラウザーウィンドウにペーストすることでプレビューできます。
 
-1. ランディングページを選択して、「**[!UICONTROL ページのプレビュー]**」をクリックします。
+## 承認済みページのプレビュー {#preview-approved-page}
 
-   ![](assets/image2014-9-16-16-3a21-3a10.png)
+1. 目的のランディングページを選択し、**[!UICONTROL プレビュー]**&#x200B;をクリックします。
 
-   >[!NOTE]
-   >
-   >ドラフトは作業中のバージョンで、顧客に表示されるライブバージョンではありません。
+   ![](assets/preview-a-landing-page-1.png)
 
-1. ランディングページを右クリックして、「**[!UICONTROL プレビュー]**」を選択することもできます。
+ランディングページを右クリックして、「**[!UICONTROL プレビュー]**」を選択することもできます。
 
-   ![](assets/image2014-9-17-10-3a9-3a49.png)
+## ドラフトのプレビュー {#preview-a-draft}
 
-## ランディングページのドラフトをプレビューする {#preview-a-landing-page-draft}
+1. 目的のランディングページを選択し、**[!UICONTROL 下書きをプレビュー]**&#x200B;をクリックします。
 
-1. ドラフトバージョンの承認済みランディングページを右クリックし、「**[!UICONTROL ドラフトのプレビュー]**」をクリックします。
+   ![](assets/preview-a-landing-page-2.png)
 
-   ![](assets/image2014-9-17-10-3a9-3a56.png)
+>[!NOTE]
+>
+>ドラフトは作業中のバージョンで、顧客に表示されるライブバージョンではありません。
 
-## 編集中にランディングページのドラフトをプレビューする {#preview-a-landing-page-draft-while-editing}
+## 編集中にランディングページのドラフトをプレビューする {#preview-a-draft-while-editing}
 
-1. ランディングページを選択して、「**[!UICONTROL ドラフトの編集]**」をクリックします。
+1. 目的のランディングページを選択し、**[!UICONTROL ドラフトを編集]**&#x200B;をクリックします。
 
-   ![](assets/image2014-9-17-10-3a10-3a4.png)
+   ![](assets/preview-a-landing-page-3.png)
 
-1. ランディングページエディターで作業中に、「**[!UICONTROL ドラフトのプレビュー]**」をクリックすることもできます。
+1. ランディングページエディターで、**[!UICONTROL 下書きをプレビュー]**&#x200B;をクリックします。
 
-   ![](assets/image2015-5-21-15-3a48-3a59.png)
+   ![](assets/preview-a-landing-page-4.png)
 
-1. 「**[!UICONTROL ドラフトの編集]**」をクリックすると、簡単に編集作業に戻ることができます。
+1. **[!UICONTROL ドラフトを編集]**&#x200B;をクリックして編集に戻ります。
 
-   ![](assets/image2014-9-17-10-3a10-3a20.png)
-
-ランディングページをプレビューする方法を理解できました。
+   ![](assets/preview-a-landing-page-5.png)
