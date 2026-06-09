@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
+source-git-commit: a1efdaab40e02861b7ee9ceabeb004fdd6c5de57
 workflow-type: tm+mt
-source-wordcount: '8897'
+source-wordcount: '8903'
 ht-degree: 96%
 
 ---
@@ -467,6 +467,9 @@ ht-degree: 96%
                + [サンプルの送信](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [注目のアクションの共有](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + その他 {#miscellaneous}
+         + {hide-from-toc}[Halo 1](product-docs/core-marketo-concepts/miscellaneous/halo-1.md)
+         + {hide-from-toc}[Halo 2](product-docs/core-marketo-concepts/miscellaneous/halo-2.md)
+         + {hide-from-toc}[Halo 3](product-docs/core-marketo-concepts/miscellaneous/halo-3.md)
          + {hide-from-toc}[Adobe Experience Manager統合の設定](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [キャンペーンフォルダーの新規作成](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + {hide-from-toc}[&#x200B; キーボードショートカット用語集](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
