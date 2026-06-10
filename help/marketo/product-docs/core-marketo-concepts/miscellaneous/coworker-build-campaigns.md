@@ -1,9 +1,9 @@
 ---
-description: 未定。
+description: プロンプトの作成からキャンペーンのレビューとエクスポートに至るまで、CX Enterprise Coworkerでメールキャンペーンを構築するためのステップバイステップガイドです。
 title: メールキャンペーンの構築と生成
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1179'
 ht-degree: 0%
 
 ---
