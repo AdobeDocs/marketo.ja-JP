@@ -1,9 +1,9 @@
 ---
-description: 未定。
+description: プロンプトの作成からキャンペーンのレビューとエクスポートに至るまで、CX Enterprise Coworkerでメールキャンペーンを構築するためのステップバイステップガイドです。
 title: メールキャンペーンの構築と生成
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
 workflow-type: tm+mt
-source-wordcount: '1157'
+source-wordcount: '1179'
 ht-degree: 0%
 
 ---
@@ -73,10 +73,10 @@ ht-degree: 0%
 
 ## ステップ 4：概要と参考資料を追加する
 
-&lbrack;FOR KEITH：概要、ブランド参照ドキュメント、その他のコンテキストを添付する方法を説明します。 カバー：- サポートされているファイル形式。 - CX Enterprise Coworkerがこの情報を使用する方法（プロンプトコンテキストに抽出、コンテンツ生成に適用など）。 - ファイルサイズの制限がある場合
+[FOR KEITH：概要、ブランド参照ドキュメント、その他のコンテキストを添付する方法を説明します。 カバー：- サポートされているファイル形式。 - CX Enterprise Coworkerがこの情報を使用する方法（プロンプトコンテキストに抽出、コンテンツ生成に適用など）。 - ファイルサイズの制限がある場合
 
-summitでのセッションを詳しく説明します。https://business.adobe.com/jp/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-制限事項 – 私はenggとあなたを接続することができます – Neha Pullabhotla、誰がここで詳細について私たちを助けることができるようになります。 &rbrack;
+summitでのセッションを詳しく説明します。https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+制限事項 – 私はenggとあなたを接続することができます – Neha Pullabhotla、誰がここで詳細について私たちを助けることができるようになります。 ]
 
 [ スクリーンショット：概要/参照添付ファイル UI]
 
@@ -133,11 +133,11 @@ summitでのセッションを詳しく説明します。https://business.adobe.
 
 ## よくある質問
 
-&lbrack;KEITH氏：初期のユーザーフィードバックにもとづいた4～6件のFAQ おすすめのスターター – Eng チームと話し合う：
+[KEITH氏：初期のユーザーフィードバックにもとづいた4～6件のFAQ おすすめのスターター – Eng チームと話し合う：
 * 「なぜ最初の応答がこんなに長くかかるのですか？
 * 「CX Enterprise Coworkerの出力が完全に正しくない場合はどうなりますか？」
 * 「電子メールを直接編集することはできますか。それとも、チャット経由でのみ編集できますか。」
 * 「キャンペーンを起動せずに保存するにはどうすればよいですか？」
 * 「オーディエンスのCSVにエラーがある場合はどうなりますか？」
 * 「キャンペーンを複製またはリミックスできますか？」
-* 「レビューのためにチームメイトとキャンペーンのドラフトを共有するにはどうすればよいですか？」 &rbrack;
+* 「レビューのためにチームメイトとキャンペーンのドラフトを共有するにはどうすればよいですか？」 ]
