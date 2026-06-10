@@ -1,16 +1,16 @@
 ---
 description: 顧客獲得、エンゲージメント、イベント、コンバージョン、リテンションのキャンペーンをまたいで、ユースケースごとに整理された、CX Enterprise Coworkerの実際のプロンプトパターンを閲覧できます。
 title: ユースケース
-source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
+source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
 workflow-type: tm+mt
-source-wordcount: '526'
+source-wordcount: '525'
 ht-degree: 1%
 
 ---
 
 # ユースケース {#use-cases}
 
-次に、今日のCX Enterprise Coworkerでライフサイクルおよび成長マーケターが使用している実際のプロンプトパターンを示します。 それぞれがコピーされるように構築され、独自のオーディエンスやブランドの詳細と入れ替わり、会話で洗練されています。
+以下は、ライフサイクルマーケターやグロースマーケターが、CX Enterprise Coworkerで使用する実際のプロンプトパターンです。 それぞれがコピーされるように構築され、独自のオーディエンスやブランドの詳細と入れ替わり、会話で洗練されています。
 
 ## 使用方法
 
