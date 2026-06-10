@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: a1efdaab40e02861b7ee9ceabeb004fdd6c5de57
+source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
 workflow-type: tm+mt
-source-wordcount: '8903'
+source-wordcount: '8905'
 ht-degree: 96%
 
 ---
@@ -467,9 +467,9 @@ ht-degree: 96%
                + [サンプルの送信](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [注目のアクションの共有](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + その他 {#miscellaneous}
-         + {hide-from-toc}[Halo 1](product-docs/core-marketo-concepts/miscellaneous/halo-1.md)
-         + {hide-from-toc}[Halo 2](product-docs/core-marketo-concepts/miscellaneous/halo-2.md)
-         + {hide-from-toc}[Halo 3](product-docs/core-marketo-concepts/miscellaneous/halo-3.md)
+         + {hide-from-toc}[同僚の概要](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
+         + {hide-from-toc}[共同作業者ビルドキャンペーン &#x200B;](product-docs/core-marketo-concepts/miscellaneous/coworker-build-campaigns.md)
+         + {hide-from-toc}[同僚の使用例](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
          + {hide-from-toc}[Adobe Experience Manager統合の設定](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [キャンペーンフォルダーの新規作成](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + {hide-from-toc}[&#x200B; キーボードショートカット用語集](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
