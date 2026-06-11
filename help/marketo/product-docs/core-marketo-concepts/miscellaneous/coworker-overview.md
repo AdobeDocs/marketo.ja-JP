@@ -1,16 +1,16 @@
 ---
 description: AIを活用して、単一のプロンプトをレビュー可能なキャンペーンに変えるAI ネイティブのマーケティングアプリケーション、CX Enterprise Coworkerについてご確認ください。
 title: CX Enterprise Coworkerの概要
-source-git-commit: e7f73f63bed1158a734d0905ec3e93c247936741
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
 
 # CX Enterprise Coworkerの概要 {#overview}
 
-CX Enterprise Coworkerは、AIを活用したマーケティングアプリケーションで、単一のプロンプトからレビュー可能なキャンペーンに数分で移行できます。
+CX Enterprise Coworkerは、AIを活用したマーケティングアプリケーションであり、単一のプロンプトから、レビュー可能な包括的なキャンペーンに移行できます。
 
 ## アクセス方法
 
