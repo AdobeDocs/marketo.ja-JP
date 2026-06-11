@@ -1,9 +1,9 @@
 ---
 description: プロンプトの作成からキャンペーンのレビューとエクスポートに至るまで、CX Enterprise Coworkerでメールキャンペーンを構築するためのステップバイステップガイドです。
 title: メールキャンペーンの構築と生成
-source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
+source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
 workflow-type: tm+mt
-source-wordcount: '1179'
+source-wordcount: '1181'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,8 @@ ht-degree: 0%
 
 [ スクリーンショット：プロンプトバー、テンプレート行、「プロンプトのヘルプ」オプションがハイライト表示されたホームページ ]
 
+![](assets/generate-email-campaigns-.png)
+
 [FOR KEITH：各オプションの簡単な説明と、それを使用するタイミング。 初心者向けのテンプレート、欲しいものを知っているマーケター向けの自由形式のプロンプト、およびその間の人に対する「プロンプトの作成を手伝う」をレコメンドします。]
 
 ## ステップ 2：プロンプトを書く
@@ -61,11 +63,15 @@ ht-degree: 0%
 
 [ スクリーンショット：プロンプトの例が]に入力されたプロンプト バー
 
+![](assets/generate-email-campaigns-.png)
+
 ## 手順3：オーディエンスのアップロード
 
 [FOR KEITH: CSV アップロードのチュートリアル。 カバー：- アップロードボタンがUI内のどこにあるか。  – 必須の列と形式の期待値。 - パーソナライゼーションフィールド CX Enterprise Coworkerが使用できる（名、最終注文日、製品カテゴリなど）。 - サンプル CSVへのリンク。 - データが乱雑な場合やフィールドが見つからない場合はどうなりますか。]
 
 [ スクリーンショット：CSV アップロードフロー]
+
+![](assets/generate-email-campaigns-.png)
 
 >[!TIP]
 >
@@ -79,6 +85,8 @@ summitでのセッションを詳しく説明します。https://business.adobe.
 制限事項 – 私はenggとあなたを接続することができます – Neha Pullabhotla、誰がここで詳細について私たちを助けることができるようになります。 &rbrack;
 
 [ スクリーンショット：概要/参照添付ファイル UI]
+
+![](assets/generate-email-campaigns-.png)
 
 ## 手順5：キャンペーンの生成
 
@@ -94,6 +102,8 @@ summitでのセッションを詳しく説明します。https://business.adobe.
 
 [ スクリーンショット：計画、ジャーニー、コンテンツが表示された生成キャンペーンボード ]
 
+![](assets/generate-email-campaigns-.png)
+
 ## 手順6：確認と調整
 
 会話型インターフェイスにより、洗練を容易に実現できます。 次の手順に従って変更を加えます。
@@ -108,6 +118,8 @@ summitでのセッションを詳しく説明します。https://business.adobe.
 
 [ スクリーンショット：会話の絞り込みの動作 – チャットリクエスト後のメールの前後を表示]
 
+![](assets/generate-email-campaigns-.png)
+
 ## ステップ 7：プルーフメールの送信
 
 開始する前に、自分自身またはチームのメンバーにキャンペーンを送信して、実際の受信トレイでレビューします。
@@ -116,12 +128,15 @@ summitでのセッションを詳しく説明します。https://business.adobe.
 
 [ スクリーンショット：プルーフフローを送信]
 
+![](assets/generate-email-campaigns-.png)
+
 ## ステップ 8：起動またはエクスポート
 
 キャンペーンに満足したら、いくつかのオプションがあります。
 
->[!NOTE]
->Launchは現在リリース時には利用できませんが、最初のリリースから2週間以内に有効になり、法的な許可が待たれます。
+>[!AVAILABILITY]
+>
+>Launchは最初のリリースでは利用できませんが、6月末までに有効になる予定です。 アップデートについては、こちらをご覧ください。
 
 * キャンペーンを起動します。
 * 個々のメールをHTMLとして書き出します。
@@ -130,6 +145,8 @@ summitでのセッションを詳しく説明します。https://business.adobe.
 [FOR KEITH：各オプションの詳細、および起動前のチェックが実行されるCX Enterprise Coworker （コンプライアンス、リンク切れ、パーソナライゼーションフィールドの欠落など）。]
 
 [ スクリーンショット：起動/書き出しオプション ]
+
+![](assets/generate-email-campaigns-.png)
 
 ## よくある質問
 
