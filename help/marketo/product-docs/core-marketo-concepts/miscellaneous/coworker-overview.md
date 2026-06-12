@@ -1,7 +1,8 @@
 ---
 description: AIを活用して、単一のプロンプトをレビュー可能なキャンペーンに転換する、Adobe CX Enterprise Coworker Campaignsについてご確認ください。
 title: Adobe CX Enterprise Coworkerの概要
-source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
+hide: true
+source-git-commit: 14ea82fe7161fdc9ca6c45937a606774f0144177
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
