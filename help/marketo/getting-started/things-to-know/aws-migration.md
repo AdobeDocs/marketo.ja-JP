@@ -4,7 +4,7 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
+source-git-commit: 2778f5a4fdc2221b9b46fbda5df90f9e35fa6b9f
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -31,7 +31,7 @@ ht-degree: 3%
 
 * **ログイン、API アクセス、電子メール送信、web トラッキング、および統合に関するIP許可リスト**&#x200B;のレビューと更新。
 
-* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[&#x200B; テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
+* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[ テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
 
 ## 期待されるサービス効果
 
@@ -42,7 +42,7 @@ ht-degree: 3%
 
 ## データセンター/ポッドの特定 {#identify}
 
-以下の表を確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+以下の表を確認する前に、[ サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
 
 ## スケジュール {#schedule}
 
@@ -74,7 +74,7 @@ ht-degree: 3%
    <td>午後5時（太平洋標準時）<br>
    午後6時（太平洋標準時）</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## 追加するIP アドレス {#ip-addresses}
@@ -99,9 +99,9 @@ ht-degree: 3%
 18.200.201.81<br>
 54.220.138.65</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## アップデートとサポート
 
-最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support)からAdobe サポートにお問い合わせください。
+最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support)からAdobe サポートにお問い合わせください。
