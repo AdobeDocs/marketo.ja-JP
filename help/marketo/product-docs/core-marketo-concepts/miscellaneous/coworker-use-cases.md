@@ -1,20 +1,20 @@
 ---
-description: 顧客獲得、エンゲージメント、イベント、コンバージョン、リテンションのキャンペーンをまたいで、ユースケースごとに整理された、CX Enterprise Coworkerの実際のプロンプトパターンを閲覧できます。
+description: 獲得、エンゲージメント、イベント、コンバージョン、リテンションのキャンペーンをまたいで、ユースケースごとに整理された、Adobe CX エンタープライズコラボレーションキャンペーンの実際のプロンプトパターンを確認できます。
 title: ユースケース
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '506'
 ht-degree: 1%
 
 ---
 
 # ユースケース {#use-cases}
 
-以下は、ライフサイクルマーケターやグロースマーケターが、CX Enterprise Coworkerで使用する実際のプロンプトパターンです。 それぞれがコピーされるように構築され、独自のオーディエンスやブランドの詳細と入れ替わり、会話で洗練されています。
+以下に、ライフサイクルマーケターやグロースマーケターが、Adobe CX Enterprise Coworker Campaignsで使用している実際のプロンプトパターンを示します。 それぞれがコピーされるように構築され、独自のオーディエンスやブランドの詳細と入れ替わり、会話で洗練されています。
 
 ## 使用方法
 
-目標に合ったユースケースを選択し、サンプルプロンプトをコピーしてCX Enterprise Coworkerに貼り付け、プレースホルダーを詳細に置き換え、チャットを通じて出力を調整します。 ステップバイステップの詳細については、キャンペーンの構築と生成に進みます。
+目標に合ったユースケースを選択し、サンプルプロンプトをコピーしてCoworker Campaignsに貼り付け、プレースホルダーを詳細に置き換え、チャットを通じて出力を調整します。 ステップバイステップの詳細については、キャンペーンの構築と生成に進みます。
 
 ## 顧客獲得とオンボーディング
 
@@ -24,7 +24,7 @@ ht-degree: 1%
 
 最適な用途：エンタープライズアカウントのアクティベーション、新しいSaaS サインアップ、販売後のハンドオフ
 
-`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."`
+`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I will upload and personalize by first name and company name."`
 
 ### B2C、新規会員オンボーディング
 
@@ -52,7 +52,7 @@ ht-degree: 1%
 
 最適な用途：顧客維持、製品認知度、ソートリーダーシップ
 
-`"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."`
+`"Create a monthly newsletter for our customers. Use the CSV I will upload. Include product updates, industry insights, and a resource, with simple CTAs."`
 
 ### 月刊ニュースレター、B2C
 
@@ -142,7 +142,7 @@ ht-degree: 1%
 
 最適なアプローチ：顧客離れ、休眠中のバイヤー、季節ごとのリエンゲージメント
 
-`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."`
+`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I will upload. Include 2-3 emails that feel seasonal and remind them to shop again."`
 
 ### 解約したファンとのリエンゲージメント、B2C （スポーツおよびエンターテイメント）
 
@@ -158,4 +158,4 @@ ht-degree: 1%
 
 ## 構築準備が整ったら？
 
-上記のユースケースを選択し、完全な手順については、_キャンペーンの構築と生成_&#x200B;にアクセスして、試してください。
+上記のユースケースを選択し、完全な手順を説明する電子メールキャンペーン _を_&#x200B;作成して、試してみてください。
