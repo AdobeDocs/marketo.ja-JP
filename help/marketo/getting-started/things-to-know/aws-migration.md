@@ -4,10 +4,10 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 4a123d365c78c6c03858656c6ef954b55df4338f
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 1%
+source-wordcount: '363'
+ht-degree: 3%
 
 ---
 
@@ -31,11 +31,7 @@ ht-degree: 1%
 
 * **ログイン、API アクセス、電子メール送信、web トラッキング、および統合に関するIP許可リスト**&#x200B;のレビューと更新。
 
-* **次のIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します：
-
-   * 54.160.246.246
-   * 54.237.141.197
-   * 52.20.211.99
+* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[ テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
 
 ## 期待されるサービス効果
 
@@ -44,17 +40,19 @@ ht-degree: 1%
 * **CRM統合とLaunchPoint サービス**&#x200B;は無効になりますが、後で自動的に再開する必要があります。
 * **ランディングページ、フォーム、データ収集**&#x200B;は利用できなくなり、代わりにメンテナンスメッセージが表示されます。
 
+## データセンター/ポッドの特定 {#identify}
+
+以下の表を確認する前に、[ サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+
 ## スケジュール {#schedule}
 
 新しい日付やデータセンター/ポッド情報が定期的に追加されるので、詳細については、こちらで確認してください。
-
-次の表を確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
 
 <table>
  <tbody>
   <tr>
    <th style="width:50%">日付</th>
-   <th style="width:20%">ポッド</th>
+   <th style="width:20%">データセンター/ポッド</th>
    <th style="width:30%">時間</th>
   </tr>
   <tr>
@@ -76,9 +74,34 @@ ht-degree: 1%
    <td>午後5時（太平洋標準時）<br>
    午後6時（太平洋標準時）</td>
   </tr>
-  &lt;/body>
+  </body>
+  </table>
+
+## 追加するIP アドレス {#ip-addresses}
+
+データセンターに基づいて、IT部門と協力して、それぞれのIP アドレスを追加します。
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">データセンター</th>
+   <th style="width:75%">IP アドレス</th>
+  </tr>
+  <tr>
+   <td>AB</td>
+   <td>54.160.246.246<br>
+   54.237.141.197<br>
+   52.20.211.99</td>
+  </tr>
+  <tr>
+   <td>NLD</td>
+   <td>34.247.24.245<br>
+18.200.201.81<br>
+54.220.138.65</td>
+  </tr>
+  </body>
   </table>
 
 ## アップデートとサポート
 
-最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support)からAdobe サポートにお問い合わせください。
+最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support)からAdobe サポートにお問い合わせください。
