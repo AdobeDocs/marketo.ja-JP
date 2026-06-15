@@ -4,9 +4,9 @@ title: リードの調査
 badge: ベータ版
 hide: true
 hidefromtoc: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '550'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 1%
 
 ## 使用方法 {#how-to-use}
 
-1. マイMarketoで、**AIでビルド** タイルをクリックします。
+1. マイMarketoで、**Marketo AI** タイルをクリックします。
 
 1. プロンプトウィンドウで、調査対象を記述します。 リード（電子メールまたは名前）と期待するものを含めます。
 
