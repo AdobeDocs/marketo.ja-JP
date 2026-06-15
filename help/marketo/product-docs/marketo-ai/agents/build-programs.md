@@ -40,7 +40,7 @@ ht-degree: 1%
 
 1. スマートキャンペーンのフィルターとフローステップが、想定したオーディエンスとロジックに一致することを確認します。
 
-1. アクティブ化する前に、[ プログラムの検証](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md) エージェントを実行します。
+1. アクティブ化する前に、[&#x200B; プログラムの検証](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md) エージェントを実行します。
 
 ## ユースケース {#use-cases}
 
