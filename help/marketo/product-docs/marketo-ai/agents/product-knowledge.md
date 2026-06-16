@@ -1,11 +1,9 @@
 ---
 description: 製品ナレッジを使用して、Marketo AIにMarketo Engageの機能、ベストプラクティス、ハウツーについて質問します。 回答は、Adobeの公式ドキュメントに基づいています。
 title: 製品知識
-badge: ベータ版
-hide: true
-source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
+source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '461'
 ht-degree: 1%
 
 ---
