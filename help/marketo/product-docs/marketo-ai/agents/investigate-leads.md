@@ -1,13 +1,10 @@
 ---
 description: Investigate リードエージェントは、マーケターが最も頻繁に尋ねる質問に回答します。 この手法は、アクティビティログ、スマートキャンペーン履歴、スコアリングレコードを手作業で調べるよりも迅速かつ信頼性が高まります。
 title: リードの調査
-badge: ベータ版
-hide: true
-hidefromtoc: true
-source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
+source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 1%
+source-wordcount: '549'
+ht-degree: 0%
 
 ---
 
