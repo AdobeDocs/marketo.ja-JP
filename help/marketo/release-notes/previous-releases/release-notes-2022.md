@@ -25,7 +25,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
 workflow-type: tm+mt
 source-wordcount: 4282
 ht-degree: 90%
@@ -36,7 +36,7 @@ ht-degree: 90%
 
 ## 2022年1月 {#january}
 
-2022年1月リリースには、次の機能が含まれています。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+2022年1月リリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
@@ -46,7 +46,7 @@ ht-degree: 90%
 
 以下の機能のリリースは、**2022年1月21日**&#x200B;に始まり、（特に指定のない限り）次の週から各機能が段階的にロールアウトされます。
 
-## 次世代エクスペリエンス {#modern-ux}
+## 次世代エクスペリエンス
 
 * **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、切替スイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
@@ -133,7 +133,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **メールボットアクティビティのフィルタリング機能強化**：以前にリリースした[メールボットアクティビティのフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}を機能強化し、ボットとして識別されたアクティビティの記録をオプトインできるようになりました。 ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
 
-## 次世代エクスペリエンス {#modern-ux}
+## 次世代エクスペリエンス
 
 * **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、切替スイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
@@ -215,7 +215,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 **[メールトラッキングリンクの STS ヘッダー](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**：セキュリティのベストプラクティスに従い、セキュリティで保護されたトランスポートセキュリティヘッダーを適用して、トラッキングされるリンクへのトラフィックが常にセキュリティで保護されるようにします。
 
-## 次世代エクスペリエンス {#modern-ux}
+## 次世代エクスペリエンス
 
 **切り替えスイッチのデフォルト設定は次世代エクスペリエンス**&#x200B;です。切り替えスイッチは、利用可能なすべての画面で新しいエクスペリエンスにデフォルト設定されるので、更新されたデザインとユーザビリティの機能強化をユーザーが簡単に見つけることができます。
 
@@ -427,7 +427,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
   </tbody>
 </table>
 
-### 次世代のエクスペリエンス {#modern-ux}
+### 次世代のエクスペリエンス
 
 </br>
 
@@ -565,3 +565,4 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 * **Forms 1.0**：Forms 1.0 の廃止は 10月のリリースで完了します。 Forms 1.0 のアセットは Marketo Engage にデータを送信できなくなり、試行するとエラーが返されます。
 
 * **スクリプトなし Forms**：ブラウザーで JavaScript が無効になっている場合、Forms は機能しなくなります。 フォームの送信には、JavaScript を有効にする必要があります。
+
