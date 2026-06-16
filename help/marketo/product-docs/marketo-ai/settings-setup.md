@@ -2,9 +2,9 @@
 description: Marketo AI権限を有効にする方法、組織ルールを設定する方法、統合や通知などの設定を管理する方法について説明します。
 title: 設定と設定
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 7e869a7a66badbb274355a676d9950068bb8b68e
+source-git-commit: 9cc4e828948622b8862f207865dac0f4de6c52a8
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '563'
 ht-degree: 4%
 
 ---
