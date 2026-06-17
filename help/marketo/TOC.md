@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
+source-git-commit: b6cd3c664558bba94330221dc6280e50df22888b
 workflow-type: tm+mt
 source-wordcount: '8909'
 ht-degree: 96%
@@ -1122,7 +1122,7 @@ ht-degree: 96%
          + {hide-from-toc}[&#x200B; コピープログラム &#x200B;](product-docs/marketo-ai/agents/clone-program.md)
          + [リードの調査](product-docs/marketo-ai/agents/investigate-leads.md)
          + [リードの読み込み](product-docs/marketo-ai/agents/import-leads.md)
-         + [&#x200B; プログラムの検証](product-docs/marketo-ai/agents/validate-programs.md)
+         + [プログラムの検証](product-docs/marketo-ai/agents/validate-programs.md)
    + Marketo Engage の最新 UX {#marketo-engage-modern-ux}
       + [概要](product-docs/marketo-engage-modern-ux/overview.md)
       + [グローバル検索の使用](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
