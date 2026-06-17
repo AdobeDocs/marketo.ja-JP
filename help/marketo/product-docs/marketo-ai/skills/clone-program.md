@@ -38,7 +38,7 @@ ht-degree: 1%
 
 1. Marketoで新しいプログラムを開き、メールの内容、日付、オーディエンスフィルター、トークンなど、異なる内容を更新します。
 
-1. アクティブ化する前に、[ プログラム QA](/help/marketo/product-docs/marketo-ai/skills/program-qa.md) エージェントを実行します。
+1. アクティブ化する前に、[&#x200B; プログラム QA](/help/marketo/product-docs/marketo-ai/skills/program-qa.md) エージェントを実行します。
 
 ## ユースケース {#use-cases}
 

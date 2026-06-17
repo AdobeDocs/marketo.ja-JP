@@ -15,7 +15,7 @@ ht-degree: 1%
 
 >[!AVAILABILITY]
 >
->この機能は現在オープンベータ版です。 アクセスをリクエストするには、アカウントマネージャーにお問い合わせください。 また、[ コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
+>この機能は現在オープンベータ版です。 アクセスをリクエストするには、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 >
 >* 個人/リードレコードと、調査中のプログラムまたはマイルストーンへの表示アクセス権が必要です。
 

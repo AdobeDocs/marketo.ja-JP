@@ -16,7 +16,7 @@ ht-degree: 5%
 
 >[!AVAILABILITY]
 >
->この機能は現在オープンベータ版です。 アクセスをリクエストするには、アカウントマネージャーにお問い合わせください。 また、[ コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
+>この機能は現在オープンベータ版です。 アクセスをリクエストするには、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 ## 権限と役割 {#permission-and-role}
 
@@ -77,7 +77,7 @@ _Marketo AI_&#x200B;へのアクセス権限と&#x200B;_Marketo AI User_&#x200B;
 
 ### カスタム役割 {#custom-role}
 
-また、[新しいロール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して権限をカスタマイズし、_必要な他のロールと共に_ Marketoにアクセスし、[そのロール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てるオプションもあります。
+また、[新しいロール &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して権限をカスタマイズし、_必要な他のロールと共に_ Marketoにアクセスし、[そのロール &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てるオプションもあります。
 
 ## 設定 {#settings}
 
