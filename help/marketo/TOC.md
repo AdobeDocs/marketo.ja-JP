@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 7706af36b932345f3534190444d9eba29febd924
+source-git-commit: a87250f519eff511c158e9f949761f090a565a45
 workflow-type: tm+mt
-source-wordcount: '8899'
+source-wordcount: '8896'
 ht-degree: 96%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 96%
       + [ヘルプセンター](getting-started/things-to-know/help-center.md)
       + [システムステータス通知の購読](getting-started/things-to-know/system-status-notifications.md)
       + {hide-from-toc}[製品知識のAI アシスタント &#x200B;](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-      + {hide-from-toc}[&#x200B; マーケティング国コミュニティ &#x200B;](getting-started/things-to-know/community.md)
       + {hide-from-toc}[AWSへの移行](getting-started/things-to-know/aws-migration.md)
       + {hide-from-toc}[新しいUI](getting-started/things-to-know/new-ui.md)
    + クイックウィン {#quick-wins}
@@ -1963,4 +1962,3 @@ ht-degree: 96%
       + [2012](release-notes/previous-releases/release-notes-2012.md)
       + [2010年～2011年](release-notes/previous-releases/2010-2011.md)
       + [2007年～2009年](release-notes/previous-releases/2007-2009.md)
-
