@@ -15,7 +15,7 @@ ht-degree: 4%
 
 >[!AVAILABILITY]
 >
->この機能は限定的に利用できます。 アクセスをリクエストするには、[このフォーム ](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}に入力してください。 サブスクリプションのMunchkin IDの準備が整っていることを確認します。
+>この機能は限定的に利用できます。 アクセスをリクエストするには、[このフォーム &#x200B;](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}に入力してください。 サブスクリプションのMunchkin IDの準備が整っていることを確認します。
 
 >[!PREREQUISITES]
 >
@@ -80,7 +80,7 @@ _Marketo AI_&#x200B;へのアクセス権限と&#x200B;_Marketo AI User_&#x200B;
 
 ### カスタム役割 {#custom-role}
 
-また、[新しいロール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して権限をカスタマイズし、_必要な他のロールと共に_ Marketoにアクセスし、[そのロール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てるオプションもあります。
+また、[新しいロール &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して権限をカスタマイズし、_必要な他のロールと共に_ Marketoにアクセスし、[そのロール &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てるオプションもあります。
 
 ## 設定 {#settings}
 
