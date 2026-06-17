@@ -1,11 +1,12 @@
 ---
 description: Marketo AI権限を有効にする方法、組織ルールを設定する方法、統合や通知などの設定を管理する方法について説明します。
 title: 設定と設定
+badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '564'
-ht-degree: 4%
+source-wordcount: '537'
+ht-degree: 5%
 
 ---
 
@@ -15,11 +16,7 @@ ht-degree: 4%
 
 >[!AVAILABILITY]
 >
->この機能は限定的に利用できます。 アクセスをリクエストするには、[このフォーム &#x200B;](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}に入力してください。 サブスクリプションのMunchkin IDの準備が整っていることを確認します。
-
->[!PREREQUISITES]
->
->この機能を使用するには、まず[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 詳しくは、アカウントマネージャーにお問い合わせください。
+>この機能は現在オープンベータ版です。 アクセスをリクエストするには、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 ## 権限と役割 {#permission-and-role}
 

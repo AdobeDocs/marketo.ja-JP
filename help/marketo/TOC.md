@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: b6cd3c664558bba94330221dc6280e50df22888b
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: '8909'
+source-wordcount: '8899'
 ht-degree: 96%
 
 ---
@@ -468,9 +468,6 @@ ht-degree: 96%
                + [サンプルの送信](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [注目のアクションの共有](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + その他 {#miscellaneous}
-         + {hide-from-toc}[同僚の概要](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
-         + {hide-from-toc}[同僚がメールキャンペーンを作成](product-docs/core-marketo-concepts/miscellaneous/coworker-create-an-email-campaign.md)
-         + {hide-from-toc}[同僚の使用例](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
          + {hide-from-toc}[Adobe Experience Manager統合の設定](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [キャンペーンフォルダーの新規作成](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + {hide-from-toc}[&#x200B; キーボードショートカット用語集](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
@@ -1115,14 +1112,14 @@ ht-degree: 96%
       + [概要](product-docs/marketo-ai/overview.md)
       + [設定と設定](product-docs/marketo-ai/settings-setup.md)
       + {hide-from-toc}[設定と設定](product-docs/marketo-ai/settings-setup-old.md)
-      + エージェント {#agents}
-         + [製品知識](product-docs/marketo-ai/agents/product-knowledge.md)
-         + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/marketo-ai/agents/surface-insights.md)
-         + {hide-from-toc}[&#x200B; プログラムの作成](product-docs/marketo-ai/agents/build-programs.md)
-         + {hide-from-toc}[&#x200B; コピープログラム &#x200B;](product-docs/marketo-ai/agents/clone-program.md)
-         + [リードの調査](product-docs/marketo-ai/agents/investigate-leads.md)
-         + [リードの読み込み](product-docs/marketo-ai/agents/import-leads.md)
-         + [プログラムの検証](product-docs/marketo-ai/agents/validate-programs.md)
+      + スキル {#skills}
+         + [製品知識](product-docs/marketo-ai/skills/product-knowledge.md)
+         + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/marketo-ai/skills/surface-insights.md)
+         + {hide-from-toc}[&#x200B; プログラムの作成](product-docs/marketo-ai/skills/build-programs.md)
+         + {hide-from-toc}[&#x200B; コピープログラム &#x200B;](product-docs/marketo-ai/skills/clone-program.md)
+         + [リードの調査](product-docs/marketo-ai/skills/investigate-leads.md)
+         + [リードの読み込み](product-docs/marketo-ai/skills/import-leads.md)
+         + [プログラムの検証](product-docs/marketo-ai/skills/validate-programs.md)
    + Marketo Engage の最新 UX {#marketo-engage-modern-ux}
       + [概要](product-docs/marketo-engage-modern-ux/overview.md)
       + [グローバル検索の使用](product-docs/marketo-engage-modern-ux/using-the-global-search.md)

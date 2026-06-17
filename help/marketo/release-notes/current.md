@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: 654
-ht-degree: 18%
+source-wordcount: 628
+ht-degree: 19%
 
 ---
 
@@ -43,8 +43,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>Marketo AI</strong>：時間のかかる重要なマーケティング機能を自動化するために設計された一連のエージェントを利用します（現在利用可能な2つのエージェント、近日リリース予定）。
 </td>
-   <td>利用制限（<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode"> アクセスをリクエスト </a>）</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-ai/overview">Marketo AIの概要</a></td>
+   <td>オープンベータ</td>
+   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AIの概要</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -53,8 +53,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>Marketo Engage MCP Server</strong>: Marketo Engage MCP サーバーは、AI アシスタントとMarketo Engageの間のブリッジとして機能します。 フォーム、プログラム、スマートキャンペーン、人物/リード、メール、スニペット、リスト、フォルダーなど、100を超える業務を公開します。</td>
-   <td>利用制限（<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode"> アクセスをリクエスト </a>）</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ja">Marketo MCP Server</a></td>
+   <td>オープンベータ</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ja" target="_blank">Marketo MCP Server</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -75,7 +75,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><strong> ピックリスト管理</strong>: Marketo Engageのフィールドで使用できる値を指定できるようになりました。
    </td>
    <td>リリース</td>
-   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">ピックリスト管理</a></td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md" target="_blank">ピックリスト管理</a></td>
   </tr>
   <tr>
    <td> </td>
