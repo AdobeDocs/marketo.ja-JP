@@ -2,7 +2,7 @@
 description: 製品ナレッジを使用して、Marketo AIにMarketo Engageの機能、ベストプラクティス、ハウツーについて質問します。 回答は、Adobeの公式ドキュメントに基づいています。
 title: 製品知識
 badge: Beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 1%
@@ -15,14 +15,12 @@ Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門
 
 >[!AVAILABILITY]
 >
->この機能は現在オープンベータ版です。 アクセスをリクエストするには、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
+>この機能は現在オープンベータ版です。 アクセスをリクエストするには、アカウントマネージャーにお問い合わせください。 また、[ コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 ## 使用方法 {#how-to-use}
 
 1. マイMarketoで、**Marketo AI** タイルをクリックします。
-
 1. プロンプトウィンドウで、質問を自然言語で入力します。特別な構文は必要ありません。
-
 1. 答えが提供されます。 より詳細な情報や別の角度が必要な場合は、フォローアップをお願いします。
 
 ## ユースケース {#use-cases}
