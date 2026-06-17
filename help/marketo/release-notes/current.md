@@ -44,7 +44,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><strong>Marketo AI</strong>：時間のかかる重要なマーケティング機能を自動化するために設計された一連のエージェントを利用します（現在利用可能な2つのエージェント、近日リリース予定）。
 </td>
    <td>オープンベータ</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AIの概要</a></td>
+   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AIの概要</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +54,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>Marketo Engage MCP Server</strong>: Marketo Engage MCP サーバーは、AI アシスタントとMarketo Engageの間のブリッジとして機能します。 フォーム、プログラム、スマートキャンペーン、人物/リード、メール、スニペット、リスト、フォルダーなど、100を超える業務を公開します。</td>
    <td>オープンベータ</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo MCP Server</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ja" target="_blank">Marketo MCP Server</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -141,4 +141,4 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **SOAP APIの非推奨化**: Marketo SOAP APIのサポートは、2026年7月31日に終了します。 SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
 
-* **リードアクティビティを取得およびリード変更を取得するための静的リストサイズの制限**: 2026年9月30日（PT）以降、「`listId`」パラメーターを含むリードアクティビティを取得およびリード変更を取得」エンドポイントへの呼び出しは、ターゲット静的リストに10,000個以上のリードが含まれている場合、1003 エラーコードを返します。 詳しくは、[移行ガイド &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
+* **リードアクティビティを取得およびリード変更を取得するための静的リストサイズの制限**: 2026年9月30日（PT）以降、「`listId`」パラメーターを含むリードアクティビティを取得およびリード変更を取得」エンドポイントへの呼び出しは、ターゲット静的リストに10,000個以上のリードが含まれている場合、1003 エラーコードを返します。 詳しくは、[移行ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
