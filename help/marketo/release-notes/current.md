@@ -4,22 +4,14 @@ title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: 654
-ht-degree: 18%
+source-wordcount: 628
+ht-degree: 19%
 
 ---
 
@@ -31,7 +23,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、2026年5月22日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに該当し、2026年5月22日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 ****&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -43,8 +35,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>Marketo AI</strong>：時間のかかる重要なマーケティング機能を自動化するために設計された一連のエージェントを利用します（現在利用可能な2つのエージェント、近日リリース予定）。
 </td>
-   <td>利用制限（<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode"> アクセスをリクエスト </a>）</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-ai/overview">Marketo AIの概要</a></td>
+   <td>オープンベータ</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AIの概要</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -53,8 +45,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>Marketo Engage MCP Server</strong>: Marketo Engage MCP サーバーは、AI アシスタントとMarketo Engageの間のブリッジとして機能します。 フォーム、プログラム、スマートキャンペーン、人物/リード、メール、スニペット、リスト、フォルダーなど、100を超える業務を公開します。</td>
-   <td>利用制限（<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode"> アクセスをリクエスト </a>）</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ja">Marketo MCP Server</a></td>
+   <td>オープンベータ</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo MCP Server</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -75,7 +67,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><strong> ピックリスト管理</strong>: Marketo Engageのフィールドで使用できる値を指定できるようになりました。
    </td>
    <td>リリース</td>
-   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">ピックリスト管理</a></td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md" target="_blank">ピックリスト管理</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -141,4 +133,4 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **SOAP APIの非推奨化**: Marketo SOAP APIのサポートは、2026年7月31日に終了します。 SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
 
-* **リードアクティビティを取得およびリード変更を取得するための静的リストサイズの制限**: 2026年9月30日（PT）以降、「`listId`」パラメーターを含むリードアクティビティを取得およびリード変更を取得」エンドポイントへの呼び出しは、ターゲット静的リストに10,000個以上のリードが含まれている場合、1003 エラーコードを返します。 詳しくは、[移行ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
+* **リードアクティビティを取得およびリード変更を取得するための静的リストサイズの制限**: 2026年9月30日（PT）以降、「`listId`」パラメーターを含むリードアクティビティを取得およびリード変更を取得」エンドポイントへの呼び出しは、ターゲット静的リストに10,000個以上のリードが含まれている場合、1003 エラーコードを返します。 詳しくは、[移行ガイド ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
