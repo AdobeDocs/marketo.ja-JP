@@ -1,22 +1,22 @@
 ---
 description: Investigate リードエージェントは、マーケターが最も頻繁に尋ねる質問に回答します。 この手法は、アクティビティログ、スマートキャンペーン履歴、スコアリングレコードを手作業で調べるよりも迅速かつ信頼性が高まります。
 title: リードの調査
-source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
+source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---
 
 # リードの調査 {#investigate-leads}
 
-特定の人物/リードがマイルストーン（MQL、プログラムの選定、キャンペーンなど）に到達しなかった理由を突き止め、何が起こったのかを平易な言葉で説明します。
+特定のリードがマイルストーン（MQL、プログラムのクオリフィケーション、キャンペーンなど）に到達しなかった理由を突き止め、何が起こったのかを平易な言葉で説明できます。
 
 >[!PREREQUISITES]
 >
 >* この機能を使用するには、まず[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
 >
->* 個人/リードレコードと、調査中のプログラムやマイルストーンへの表示アクセス権が必要です。
+>* 個人/リードレコードと、調査中のプログラムまたはマイルストーンへの表示アクセス権が必要です。
 
 >[!AVAILABILITY]
 >
