@@ -5,12 +5,11 @@ title: SFDC 同期 - リード／取引先責任者／人物の結合
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: 25bbf4409df3db38b849d936e2a90b48f859d089
 workflow-type: tm+mt
-source-wordcount: 204
-ht-degree: 84%
+source-wordcount: 267
+ht-degree: 55%
 
 ---
 
@@ -28,9 +27,13 @@ ht-degree: 84%
 >スコアが 10 の 3 件のリード（人物）を結合すると、結果として 1 件のリード（人物）とスコア 30 が生成されます。
 
 * 競合するフィールド値は、「勝者レコード」から取得されます。 （レコード = 結果のリードまたは取引先責任者）
-* 「敗者レコード」（消えるレコード）に値があり、勝者レコードに値がない場合は、敗者レコードが保持されます。 つまり、「値は少なくてもないよりは良い」ということです。
+* 「失われたレコード」（消えているレコード）に値があり、勝者レコードに値がない（またはnull）場合、失われたレコードは保持されます。 つまり、「値は少なくてもないよりは良い」ということです。
 * すべてのアクティビティログ項目が結合されます。
 
 >[!NOTE]
 >
->[Marketo での人物の結合](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}に関する詳細をご覧ください。
+>API マージでのブール型フィールドの動作は、&#39;26年3月リリースで変更されました。 ここで、False値は、そのフィールドの値を持つものとして正しく扱われます。 競合するフィールドを評価する場合、null値のみが「空」として扱われます。 詳しくは、[このコミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"}を参照してください。
+
+>[!MORELIKETHIS]
+>
+>[Marketo での人物の結合](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md)に関する詳細をご覧ください。
