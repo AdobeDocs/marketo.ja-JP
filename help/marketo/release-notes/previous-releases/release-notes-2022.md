@@ -25,7 +25,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 4282
 ht-degree: 90%
@@ -77,7 +77,7 @@ ht-degree: 90%
 
 Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客は、AEP の宛先コネクタを介して新しいリードレコードを AEP から Marketo Engage にプッシュしてデータベースを最大化できます。 オーディエンスセグメントを AEP から Marketo Engage に送信する際、セグメント内のユーザのうち、Marketo Engage データベースにまだ存在しないユーザは[自動的に追加できます](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星印）](assets/yellow-star.png)
 
@@ -93,7 +93,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **更新されたアカウントのレイアウト**：販売者は、アカウント内のすべての取引先責任者に関するメールアクティビティ、web アクティビティ、注目のアクティビティ、スコア変更のようなトップアクティビティを総合的に把握できます。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星印）](assets/yellow-star.png)
 
@@ -101,7 +101,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **[!DNL Salesforce]アクティビティ詳細のカスタマイズ**：セールスアクティビティが [!DNL Sales Connect] から [!DNL Salesforce] に記録される際に、[!DNL Salesforce] タスク件名フィールドに追加される情報をカスタマイズすることで、[!DNL Salesforce] でより多くのセールスアクティビティとタスクデータを取り込みます。 [こちら](https://nation.marketo.com/t5/product-blogs/sales-connect-enahncements-to-activity-logging-to-salesforce-q1/ba-p/319819)をクリックすると、詳細が表示されます。
 
-## お知らせ {#announcements}
+## お知らせ
 
 * **Marketo Sky の廃止**：Marketo Sky は 3月に利用できなくなります。これは、当社が次世代ユーザエクスペリエンスの提供にリソースを注力しているためです。 現在 Marketo Sky 専用の機能へのアクセスを維持するため、3 月には、アセットの有効期限とスマートキャンペーンの優先順位の上書きがメインストリームエクスペリエンスに取り入れられます。 [こちら](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
 
@@ -127,7 +127,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 以下の機能のリリースは、**2022年3月11日**&#x200B;に始まり、（特に指定のない限り）次の週から各機能が段階的にロールアウトされます。
 
-## クロスチャネルオーケストレーション {#cross-channel-orchestration}
+## クロスチャネルオーケストレーション
 
 * **[!DNL Dynamic Chat]**：積極的で魅力的な、1:1個のパーソナライズされた会話を使用して、リードとアカウントの両方をターゲットにすることで、web サイト上のあらゆる機会を最大化します。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engage ユーザは、B2B マーケティングおよびセールスのユースケースに対して、統合されたクロスチャネルエクスペリエンスの主要部として、チャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。 動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
 
@@ -143,7 +143,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **次世代エクスペリエンス切替スイッチの管理者制御**：切替スイッチにアクセスできるユーザのタイプを管理者が選択できるように、次世代エクスペリエンスのロールアウトを管理します。
 
-## エクスペリエンスの自動化 {#experience-automation}
+## エクスペリエンスの自動化
 
 * **セルフサービスのフローステップ（ベータ版）**：スマートキャンペーンで使用するカスタマイズされたフローステップを作成する機能により、Marketo Engage とスタックの他の部分との接続性を拡張できます。 Marketo のユーザとパートナーの両方がこの機能を活用して、（トリガーキャンペーンでのみ使用できる web フックとは異なり）バッチ、実行可能なキャンペーンで外部の web サービスを使用できます。
 
@@ -151,7 +151,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **スマートキャンペーン優先度の上書き**：標準キャンペーン優先順位のトリガーを上書きする機能により、優先度の高いランキングスマートキャンペーンをすぐに実行できます。 また、優先度の高い他のタスクの処理リソースを解放するために、優先度の低いトリガースマートキャンペーンの優先度を低くすることもできます。
 
-## API の強化 {#api-enhancements}
+## API の強化
 
 * **メールの開封トラッキングステータスの無効化を返却**：API を介したメールの開封トラッキングステータスの読み取りを許可します。
 * **メールから動的コンテンツの件名行を取得**：マーケターが BI ツールで動的な件名行を分析できるようになります。
@@ -171,13 +171,13 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **BI テンプレート**：[!DNL Bizible] では、ビジネスニーズに合わせてカスタマイズされたカスタムレポートの迅速な開発を実現するため、Tableau および Power BI 用のダウンロード可能で基本的なレポートアーティファクトとサンプルレポートを提供するようになります。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星印）](assets/yellow-star.png)
 
 * **メール接続のスロットリング（GA）**：メール接続のスロットリングを使用すると、[!DNL Sales Connect] 管理者は、Gmail または [!DNL Exchange] を配信チャネルとして使用する際のメールの送信率を設定し、配信チャネルプロバイダーに引き渡されるメールの割合が強制的な制限を超えるのを防ぐことができます。
 
-## お知らせ {#announcements}
+## お知らせ
 
 * **Marketo Sky の廃止**：Marketo Sky は 3月に利用できなくなります。これは、当社が次世代ユーザエクスペリエンスの提供にリソースを注力しているためです。 Marketo Sky 専用の機能へのアクセスを維持するため、アセットの有効期限とスマートキャンペーンの優先順位の上書きが Classic エクスペリエンスに取り入れられます。 [こちら](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
 
@@ -201,7 +201,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 **[ネイティブ Veeva CRM 統合](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"}（限定的に利用可能）**：ネイティブ統合を介して Veeva CRM と Marketo Engage 間でアクティビティを同期させることで、医療専門家とのエンゲージメントを向上させます。 この統合により、マーケターは、医療専門家向けに、高度にパーソナライズされたシームレスなクロスチャネルエクスペリエンスを作成できます。 参加をご希望の方は、カスタマーサクセスマネージャーにお問い合わせください。
 
-## クロスチャネルオーケストレーション {#cross-channel-orchestration}
+## クロスチャネルオーケストレーション
 
 **[!DNL Dynamic Chat]** 用チャットボットイベント：ページ滞在時間、サイト滞在時間、ページスクロール率など、web 訪問者のより詳細な行動データを活用して、チャットダイアログを表示するタイミングを定義します。
 
@@ -223,11 +223,11 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 次世代のエクスペリエンスで[!UICONTROL Design Studio]内の電子メールテンプレートの詳細ビューを提供し、切り替えスイッチを介してアクセス可能な最新のデザインとユーザビリティの機能強化を提供します。
 
-## エクスペリエンスの自動化 {#experience-automation}
+## エクスペリエンスの自動化
 
 **セルフサービスのフローステップ（継続ベータ版）**：スマートキャンペーンで使用するカスタマイズされたフローステップを作成する機能により、Marketo Engage とスタックの他の部分との接続性を拡張できます。 Marketo Engage のユーザとパートナーの両方がこの機能を活用して、（トリガーキャンペーンでのみ使用できる web フックとは異なり）トリガー、バッチ、実行可能なキャンペーンで外部の web サービスを使用できます。
 
-## API の強化 {#api-enhancements}
+## API の強化
 
 * **CRM 対応サブスクリプションの API アクセスの拡張**：CRM 同期が有効になっているサブスクリプションの API アクセスを拡張し、ユーザが Marketo Engage から会社、商談、セールス担当者を取得できるようにします。
 * **Formsの「非表示」データタイプのサポート**: APIを介して非表示フォームフィールドを管理する機能を提供します。
@@ -235,7 +235,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 * **選択リストの表示値と送信済み値の設定を個別に許可**：表示値と送信済み値を別々にフィールドに設定します。 例えば、ホテルの名前を表示するが、内部 ID をバックエンドに送信する場合などです。
 * **メールの作成または更新時に開封のトラッキングを無効にする設定を許可**：開封のトラッキングを無効にしたメールを作成します。
 
-## お知らせ {#announcements}
+## お知らせ
 
 **メールの検証と一意性**：4月から、メール検証のロールアウトが開始されます。 その時点で、Marketo Engage ユーザのメールアドレスには、検証と一意性が必須となります（API のみのユーザには適用されません）。 ディレクトリサービスの認証済みユーザは、メールの検証でサブスクリプションが有効になっている場合、自動的にメールを検証します。
 
@@ -257,11 +257,11 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 以下の機能のリリースは、**2022年6月24日**（PT）に始まり、（特に指定のない限り）その次の週から残りの機能が段階的にロールアウトされます。
 
-## マーケティングデータ環境 {#marketing-data-environment}
+## マーケティングデータ環境
 
 * **カスタムオブジェクトの CreatedAt／UpdatedAt フィールドの公開**：人物の詳細画面でこれらのフィールドを調べて、さらなるインサイトを得ることができます。
 
-## クロスチャネルオーケストレーション {#cross-channel-orchestration}
+## クロスチャネルオーケストレーション
 
 * **[!DNL Dynamic Chat]** のストリームデザイナーの使いやすさの向上：ドラッグ＆ドロップを必要とせずに、ストリームデザイナーのキャンバスから直接カードを追加できます。 また、[!DNL Dynamic Chat] インターフェイスを改良し、個々のカードでのコンテンツの可視性が向上しました。
 
@@ -278,7 +278,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 * [メールの詳細表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
 * [メールリスト表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
 
-## エクスペリエンスの自動化 {#experience-automation}
+## エクスペリエンスの自動化
 
 * **グローバルフォームフィールド検証ルールの除外**：グローバルフォーム検証ルールから特定のフォームを除外して、サブスクリプションセンターや他のビジネスクリティカルなワークフローがすべての値を受け入れるようにします。
 
@@ -288,7 +288,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **Webhook 用の追加の HTTP メソッド**：Web サービスとやり取りするリクエストの種類として、PUT、PATCH、DELETE を指定します。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星印）](assets/yellow-star.png)
 
@@ -296,19 +296,19 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **My Marketo タイルのアップデート - [!DNL Sales Insight]アクション**：Marketo 管理者（および指定したユーザ）は、マイ Marketo ページにある新しい [!DNL Sales Insight] アクションタイルから、[!DNL Sales Insight] アクションインスタンスにすばやく移動できるようになりました。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星印）](assets/yellow-star.png)
 
 * **[!DNL Salesforce]API のアップデート**：[!DNL Salesforce] 2022 年夏のリリースで、[!DNL Salesforce] は API のレガシーバージョン 21～30 のサポートを終了します。 この Marketo Engage リリースにより、API のレガシーバージョンを使用する [!DNL Sales Connect] リクエストがすべてアップデートされ、サポート対象バージョン内に含まれるようになります。 [!DNL Salesforce] API 廃止プランについて詳しくは、[こちら](https://help.salesforce.com/s/articleView?language=en_US&type=1&id=000354473){target="_blank"}をクリックしてください。
 
-## API の強化 {#api-enhancements}
+## API の強化
 
 * **Bulk Program Member Extract API の新しいフィルタリング機能**：プログラムメンバーシップのステータス、updatedAt、ケイデンス、消費済みコンテンツでフィルタリングして、抽出したデータセットを絞り込みます。
 
 * **Bulk Program Member Extract API の向上**：ジョブの作成中に最大 10 個のプログラムを指定してスループットを向上させます。
 
-## お知らせ {#announcements}
+## お知らせ
 
 * **Forms の廃止 - Forms 1.0、リードキャプチャ／保存エンドポイント、非スクリプトバージョンのフォーム**：Forms 1.0 アセットのサポートは、2022年10月までに Marketo Engage から完全に削除されます。 既存の Forms 1.0 アセットはすべて機能を停止します。 Marketo Engage フォームは、ランディングページや web サイトの読み込みに JavaScript が必要です。
 
@@ -326,7 +326,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 次の機能は、**2022年8月26日（PT）**&#x200B;に段階的にロールアウトを開始しました。
 
-## クロスチャネルオーケストレーション {#cross-channel-orchestration}
+## クロスチャネルオーケストレーション
 
 * [!DNL Dynamic Chat] に対してすべての公開済みダイアログを一度に有効／無効にする**：ボタンを押しながら、設定ページからすべての公開済みダイアログを一度にグローバルに有効／無効にします。
 
@@ -349,7 +349,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 >
 >例外は、マーケティングアクティビティのプログラム内のフォルダーにアセットを移動することです。 プログラム内のフォルダーは重複した名前を持つことができないので、この移動アクションではフォルダー階層が表示されません。
 
-## エクスペリエンスの自動化 {#experience-automation}
+## エクスペリエンスの自動化
 
 * **[セルフサービス型フローステップ - プログラム読み込み機能強化](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/flow-step-service.md){target="_blank"}**：カスタムフローステップを使用したプログラム読み込みのサポートが改善されました。これにより、同じサービスプロバイダーの複数のインスタンスを使用して、サービスプロバイダーと互換性のあるフローステップを持つプログラムを読み込めるようになりました。
 
@@ -363,21 +363,21 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **匿名結合後に常にキャンペーンリプレイを実行**：匿名リードの結合はキャンペーンリプレイの前に実行されるので、匿名キャンペーンリプレイが実行された場合でも、カスタムフィールドフィルターは確実に機能します。
 
-## マーケティングデータ環境 {#marketing-data-environment}
+## マーケティングデータ環境
 
 * **カスタムオブジェクト「[!UICONTROL 使用者]」フィールド**&#x200B;のUI切り捨てを修正：「使用中」のカスタムオブジェクトフィールドを識別しやすくなりました。これにより、必要に応じてカスタムオブジェクトからフィールドを削除できます。
 
-## API の強化 {#api-enhancements}
+## API の強化
 
 * **Bulk Program Member Extract API の新しいフィルタリング機能**：プログラムメンバーシップのステータス、updatedAt、ケイデンス、消費済みコンテンツでフィルタリングして、抽出したデータセットを絞り込みます。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星印）](assets/yellow-star.png)
 
 * **[[!DNL Sales Insight]  [!DNL Dynamic Chat]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md){target="_blank"}** との統合：[!DNL Sales Insight] パネルの [!DNL Dynamic Chat] からアクティビティを表示し、この新しいデータポイントを見込み客活動に活用します。
 
-## お知らせ {#announcements}
+## お知らせ
 
 **_製品リリースウェビナー_**
 
@@ -395,7 +395,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 以下の機能は標準リリースサイクルに該当し、リリースは **2022年10月14日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、以下を確認してください。
 
-### マーケティングデータ環境 {#marketing-data-environment}
+### マーケティングデータ環境
 
 </br>
 
@@ -476,7 +476,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
   </tbody>
 </table>
 
-### API の強化 {#api-enhancements}
+### API の強化
 
 </br>
 
@@ -494,7 +494,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
   </tbody>
 </table>
 
-### セールスインサイト {#sales-insight}
+### セールスインサイト
 
 </br>
 
@@ -560,7 +560,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
   </tbody>
 </table>
 
-## お知らせ {#announcements}
+## お知らせ
 
 * **Forms 1.0**：Forms 1.0 の廃止は 10月のリリースで完了します。 Forms 1.0 のアセットは Marketo Engage にデータを送信できなくなり、試行するとエラーが返されます。
 
