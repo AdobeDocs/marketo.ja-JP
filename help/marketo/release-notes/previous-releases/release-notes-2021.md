@@ -2,40 +2,10 @@
 title: 2021
 description: 2021 - Marketo Docs – 製品ドキュメント
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-  - id: fc9b09fe-b844-4544-887b-e420c3b82065
-  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
-  - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46id: fc9b09fe-b844-4544-887b-e420c3b82065id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 4744
 ht-degree: 84%
@@ -56,7 +26,7 @@ ht-degree: 84%
 
 以下の機能は **2021 年 1 月 15 日**（PT）にリリースされます。
 
-## 次世代ユーザエクスペリエンス {#next-generation-user-experience}
+## 次世代ユーザエクスペリエンス
 
 * ワークスペースのサポート：Marketo Engage の次世代ユーザエクスペリエンスにより、Adobe Experience Cloud のルックアンドフィールと、生産性を高めるイノベーションを組み合わせることで、マーケティング実行者は迅速かつスマートに作業を行うことができます。 最新のリリースでは、ワークスペース間でフォルダーを共有する機能を含む、ワークスペースとパーティションの完全なサポートが追加されます。 右側のキャンバスに切替スイッチが表示され、コンテキストを失うことなく、機能ごとに古いエクスペリエンスと新しいエクスペリエンスをシームレスに切り替えることができます。 詳しくは、Marketing Nation の次世代エクスペリエンス FAQ を[ご覧ください](https://nation.marketo.com/t5/The-modern-ux/modern-ux-FAQ/ba-p/307124)。
 
@@ -89,17 +59,17 @@ ht-degree: 84%
 
 以下の機能はリリース後約 1～2 か月の間に段階的にリリースされます。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星印）](assets/yellow-star.png)
 
 * **[拡張テストメールワークフロー（[!DNL Salesforce] CRM）](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**：拡張[!DNL Sales Insight] テストメールワークフローを使用して、営業部門の効率を向上させます。 販売者は、最大 200 人の受信者にメールを一括送信する前に、選択したメールアドレスにテスト用メールを送信できます。
 * **[メールステータスに関するインサイト（[!DNL Salesforce] CRM）](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**：ユーザが無効なメール ID または購読解除されたメールアドレスにメールを送信しようとすると、メールを送信する前に警告メッセージが表示されます。  メール配信ステータスは、[!DNL Sales Insight] の「メール」タブで確認できます。
 * **[アカウント](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout)および[商談](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout)パネルからメールを一括送信（[!DNL Salesforce] CRM）**：新しい一括アクション機能を使用することで、販売者のワークフローの効率性を向上させ、アカウント全体または商談の取引責任者リストに関わることができます。 個々の取引先責任者を扱う代わりに、「アカウント」または「商談」タブの新しいドロップダウンオプションを使用して、Marketo Engage キャンペーンにメールを送信したり、取引先責任者を追加したりできます。 リードがホットになったときに通知を受けるために、アカウントの取引先責任者をウォッチリストに追加します。
-* 非ネイティブ  [!DNL Salesforce]  CRM 統合用 **[[!DNL Sales Insight] &#x200B;](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**：カスタムの Salesforce CRM 統合を使用した GA サブスクリプションは、[!DNL Sales Insight] パッケージをインストールし、販売チームが最も有望なリードや商談を優先し、やり取りできるよう支援します。
+* 非ネイティブ  [!DNL Salesforce]  CRM 統合用 **[[!DNL Sales Insight] ](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**：カスタムの Salesforce CRM 統合を使用した GA サブスクリプションは、[!DNL Sales Insight] パッケージをインストールし、販売チームが最も有望なリードや商談を優先し、やり取りできるよう支援します。
 * **[ベストプラクティスの強化](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**：「ベストベット」タブからホットリードに素早く連絡するには、リードをメールで送信するか、Marketo Engage キャンペーンに追加します。 リードを Marketo Engage で表示するか、ウォッチリストに追加します。 [!UICONTROL おすすめ] タブでの一括アクションと並べ替えオプションにより、時間を節約し、営業部門の効率を向上させることができます。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星印）](assets/yellow-star.png)
 
@@ -135,11 +105,11 @@ ht-degree: 84%
 
 * **アカウントスマートリスト（一般提供）** ![](assets/yellow-star.png)：目的の顧客とリード属性を使用して顧客を動的に識別および絞り込みしてクロスチャネルマーケティングキャンペーンのターゲットにし、タイムリーなアラートをセールスに送信して、契約を迅速に締結します。 この新しい機能により、アカウントベースドマーケティング戦略を堅牢に自動化できます。 アカウントスマートリストは、次世代ユーザーエクスペリエンスのターゲットアカウント管理をお持ちの顧客が利用できます。
 
-## 次世代ユーザーエクスペリエンス {#next-generation-user-experience}
+## 次世代ユーザーエクスペリエンス
 
 グローバル検索プレビューを使用すると、マーケターは、インスタンス内の共有アセットの場所をすばやく確認できます。 ブラウザーのタブには、[!UICONTROL マーケティングアクティビティ]または[!UICONTROL デザインスタジオ]でのナビゲーションを改善する場所が表示されます。 追加のツリーおよびグローバル検索フィルターは、検索条件の絞り込みに役立ちます。 ツリー内のドラッグ＆ドロップ機能が復元し、フォルダーやアセットをメインアプリ内ですばやく効率的に移動できるようになりました。 新しく更新されたアイコン（Adobeのアクセシビリティ基準を満たす）とステータスバッジにより、マーケターはツリー内のフォルダーとアセットをすばやく簡単に区別し、プログラムとアセットのステータスを特定できます。
 
-## エクスペリエンスの自動化 {#experience-automation}
+## エクスペリエンスの自動化
 
 * **キャンペーンフローステップの実行**：スマートキャンペーンの新しいフローステップにより、キャンペーン作成ワークフローを合理化し、キャンペーンのパフォーマンスを向上させます。 国コードの正規化など、ワークスペース内の反復的なタスク用の一元的なテンプレートキャンペーンを作成して保存し、新しい「キャンペーンを実行」フローステップを介して、任意のスマートキャンペーンから呼び出して実行できます。 リンクされたキャンペーンは、指定された順序で実行され、タスクが確実に完了してから次のフローステップに進みます。 単一の一元化されたキャンペーンでフローをすばやく編集して、データ管理、リードスコアリング、ルーティングワークフローを合理化するために、使用しているすべてのスマートキャンペーンを更新します。
 
@@ -153,7 +123,7 @@ ht-degree: 84%
 
 * **メールボットアクティビティをフィルターアウト**：新しいメールボットアクティビティフィルタリング機能により、意図しないセールスアラートや不正確なメールレポートを防ぎます。 メールボットに関連付けられる可能性のあるオープンとクリックを特定して除外し、誤ったトリガーや販売アラート、または誤ったレポートにつながるリンクを検査します。
 
-## API の強化 {#api-enhancements}
+## API の強化
 
 一括でカスタムオブジェクトデータを書き出す機能、一括で企業をリードと関連付ける機能、プライマリ属性に基づいて一括アクティビティ抽出をフィルタリングする機能、プログラムメンバーシップの作成と更新機能など、Bulk API と Lead API に関する重要な更新。
 
@@ -181,13 +151,13 @@ ht-degree: 84%
 
 * **リード ID で検索**：リードデータベース内または静的リスト内の Adobe Marketo Engage リード ID で、リードレコードの検索にすばやくアクセスします。 クイック検索ウィンドウで、「`[id]`」と対応する番号を入力すると、リード情報が表示されます。 リード、会社、商談の詳細をすばやく確認できます。
 
-## Bizible {#bizible}
+## Bizible
 
 ![](assets/yellow-star.png)
 
 * **[!DNL LinkedIn] リードジェネレーションフォームとの統合（Beta）**：Bizible プレミアムアトリビューションソリューションを使用して、[!DNL LinkedIn] チャネルの費用と ROI の詳細を可視化します。 [!DNL LinkedIn]のリードジェネレーション Formsとの最新の統合により、Bizibleは[!DNL LinkedIn] プラットフォーム内で送信されたフォームにinsightを取得します。 これらのフォーム入力は、CRM （顧客関係管理）またはAdobe Marketo Engageインスタンスのリードと照合され、アトリビューションの対象となり、他のマーケティング活動と追跡できるようにします。
 
-## お知らせ {#announcements}
+## お知らせ
 
 * **Marketo Product Docs Switching Platforms**: 5月7日（金）にMarketo Product DocsがAdobe Experience Leagueに参加したことをお知らせします。 docs.marketo.comのURLを引き続き使用でき、既存の記事がブックマークされている場合は、リダイレクトされます。 すべての製品ドキュメントは、今年後半に予定されている機能強化を含め、新しいプラットフォームで利用できます。
 
@@ -209,7 +179,7 @@ ht-degree: 84%
 
 以下の機能は **2021 年 8 月 20 日**（PT）にリリースされます。
 
-## エクスペリエンスの自動化 {#experience-automation}
+## エクスペリエンスの自動化
 
 * **Marketo EngageID を使用した Adobe ユーザー認証**：近日中に、Enterprise パッケージを持つ新しい Marketo Engage ユーザーは、Adobe ID のユーザー資格情報を使用してオンボーディングされます。 統合 ID システムへの現在のユーザーの移行は、2022 年半ばまで行われず、追加の通知が行われるまでは、何の操作も必要ありません。 Adobe ID のユーザー認証を使用すると、IT／セキュリティ管理者は、他の Marketo Engage ソリューションと共に複数の Experience Cloud 製品インスタンスを管理し、共通のコンソールを通じて SSO を設定できます。 管理者は、ユーザーグループとユーザーの使用権限を 1 か所で簡単に管理できます。
 
@@ -219,7 +189,7 @@ ht-degree: 84%
 
 * **[カスタムアクティビティのエクスポート](/help/marketo/product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)**：メタデータの書き出しで、すべてのオブジェクトとそれぞれのメタデータがサポートされ、サブスクリプションデータモデルの共有、分析およびデザインに使用できます。
 
-## API の強化 {#api-enhancements}
+## API の強化
 
 * **フォーム APIを送信**：電子メールアドレスが2つ以上のリードレコードで重複している場合、完全にスキップするのではなく、「最終更新」レコードを更新します。 Forms 2.0 API と同等の機能を提供します。
 
@@ -229,13 +199,13 @@ ht-degree: 84%
 
 以下の機能はリリース後約 1～2 か月の間に段階的にリリースされます。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星印）](assets/yellow-star.png)
 
 * **Salesforce CRM ユーザのリード、取引先責任者、アカウント、商談アクティビティの可視性の向上**：長いセールスサイクルの間の見込み客とのエンゲージメントは、[!DNL Sales Insight] のエンゲージメントレコード数が増えたことから、より多くの情報を得られます。 「注目のアクティビティ」、「web アクティビティ」、「メール」、「スコア」の各タブには、リード、連絡先、アカウント、商談の各オブジェクトをまたいで最大 400 個のアクティビティが表示されます。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星印）](assets/yellow-star.png)
 
@@ -247,11 +217,11 @@ ht-degree: 84%
 
 * **強化されたセールスアクティビティのインサイト**：営業部門の以前のアクティビティに基づいて、パーソナライズされたエンゲージメントをキャプチャしてアクティブ化します。 セールスコールの記録リンク、セールスキャンペーン名、セールスメールの件名などの新しい属性を、Marketo Engage のスマートリストで使用できます。  これらのアクティビティは、Marketo Engage REST API または一括書き出しを通じて書き出しおよび報告でき、スマートリストの追加の制約としてフィルターおよびトリガーで使用できます。
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] リードジェネレーションフォーム統合**：[!DNL LinkedIn] がリードジェネレーションフォームの広告ユニットを通じてフォームの入力をキャプチャする際に発生するコンバージョンに対して収益属性を実行できるようになりました。 これらのインサイトは、フォームのパフォーマンスや有料メディアへの投資を最適化するために利用できます。[!DNL LinkedIn] リードジェネレーション Formsは、[!DNL LinkedIn]で最も急成長している有料メディア製品の1つであり、この新しい機能は、[!DNL Bizible]との既存の[!DNL LinkedIn]広告の統合に含まれています。
+* **[!DNL Bizible][!DNL LinkedIn] リードジェネレーションフォーム統合**：[!DNL LinkedIn] がリードジェネレーションフォームの広告ユニットを通じてフォームの入力をキャプチャする際に発生するコンバージョンに対して収益属性を実行できるようになりました。 これらのインサイトは、フォームのパフォーマンスや有料メディアへの投資を最適化するために利用できます。[!DNL LinkedIn] リードジェネレーション Formsは、[!DNL LinkedIn]で最も急成長している有料メディア製品の1つであり、この新しい機能は、[!DNL Bizible]との既存の[!DNL LinkedIn]広告の統合に含まれています。
 
 * **Velocity ダッシュボードの改善**：より深いインサイトを得るための新しい Velocity 指標とダッシュボードフィルターを追加しました。 このダッシュボードは、マーケターが段階的なリードと商談の速度、および様々な形式のマーケティングとセールスエンゲージメントの効率を理解するために使用します。
 
@@ -263,11 +233,11 @@ ht-degree: 84%
 
 * **[!DNL Bizible]Adobe Privacy Serviceとの統合** （2021年9月に利用可能）: [!DNL Bizible]のAdobe Privacy Serviceとの統合により、Adobe Experience Cloud アプリケーション全体の重要なデータプライバシー規制（GDPRなど）へのコンプライアンスが一元化されます。 このサービスを活用し、すべてのプライバシーリクエストを一元的に管理できるようになり、[!DNL Bizible] や他のアドビ製品に対する変更リクエストがアプリケーション間で反映されるようになりました。
 
-* Adobe統合シェル **上の**&#x200B;[!DNL Bizible]: [!DNL Bizible]のAdobe統合シェルの導入により、ユーザーは[!DNL Bizible] アプリケーションのヘッダーバーに表示される新しい機能を利用できるようになり、サポートリソースとアプリケーション切り替えにより多くのアクセスが可能になります。 アドビ統合シェルは、[!DNL Bizible] と他の Adobe Experience Cloud アプリケーションとの間で一貫したエクスペリエンスを作成するのに役立ちます。
+* Adobe統合シェル **上の**[!DNL Bizible]: [!DNL Bizible]のAdobe統合シェルの導入により、ユーザーは[!DNL Bizible] アプリケーションのヘッダーバーに表示される新しい機能を利用できるようになり、サポートリソースとアプリケーション切り替えにより多くのアクセスが可能になります。 アドビ統合シェルは、[!DNL Bizible] と他の Adobe Experience Cloud アプリケーションとの間で一貫したエクスペリエンスを作成するのに役立ちます。
 
 * **[!DNL Bizible]ドメインの所有権と自己管理**：[!DNL Bizible] ユーザは、Adobe Admin Console を活用して、[!DNL Bizible] でトラッキングするドメインを管理できます。 セルフサービスを以前に手動で行うプロセスに移行し、Adobe Experience Cloud アプリケーションでドメインの所有とトラッキングをどのように管理するかで、一貫したエクスペリエンスを提供できます。
 
-## お知らせ {#announcements}
+## お知らせ
 
 * **サブスクリプションユニバーサル ID 設定の更新**：今後の Marketo Engage と Adobe ID の統合を既存のユーザーに対してサポートするために、ユニバーサル ID のサポートが有効化されて、すべての Marketo Engage の購読が統合されます。
 
@@ -299,7 +269,7 @@ ht-degree: 84%
 
 * **タスクの監視**：グローバルナビゲーションバーの新しいタスク通知トレイを使用して、新しいエクスペリエンスのバックグラウンドで実行されているタスクのステータスを監視します。 トレイは、フォームの詳細とランディングページのリストの新しいエクスペリエンス表示から開始されるタスクに関する通知をキャプチャします。これには、ランディングページのステータスの変更や、新しいエクスペリエンスを使用した一般的な一括操作が含まれます。
 
-## エクスペリエンスの自動化 {#experience-automation}
+## エクスペリエンスの自動化
 
 * **フォーム API プログラムメンバーのカスタムフィールドサポートの送信**：Submit Form API エンドポイントが、プログラムメンバーカスタムフィールドをサポートするようにアップグレードされ、カスタムフォームの統合でプログラム固有のデータを収集できるようになりました。
 
@@ -311,7 +281,7 @@ ht-degree: 84%
 
 * **Adobe Experience Platform Marketo Data Source Connector**：Adobe Experience Platform と Marketo Engage の両方のユーザーが、Marketo Source Connector を利用して Marketo から AEP にデータを取り込むことができます。 AEP 内で Marketo からデータ（およびその変更）をストリーミングして、2 つの製品間のデータの一貫性を維持できます。 Marketo コネクタは、ソースカタログ（「アドビアプリケーション」の下）で確認できます。
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![（星印）](assets/yellow-star.png)
 
@@ -321,11 +291,11 @@ ht-degree: 84%
 
 * **新しい電子メール、Web アクティビティ、匿名Web アクティビティ ダッシュボード**：新しいセールスダッシュボードを追加して、セールス担当者にリードと取引先責任者の最新の電子メールとWeb アクティビティを通知しました。 新しいフィルタリング機能により、ダッシュボードで、メールの開封数、クリック数、web ページへの訪問回数に関するインサイトが得られ、完全な顧客リストや特定の顧客が得られます。 Marketo Engage は、すべての web アクティビティを追跡し、セールスに重要な情報を提供し、匿名トラフィックをリードに変えます。 販売者は、リード行動に関するより深い情報を得て、すべてのタッチポイントの関連度に基づいて行動し、エンゲージメントをパーソナライズし、リードをより速く販売に変換できます。
 
-[!DNL Salesforce]&#x200B;**向け**&#x200B;[!DNL Sales Insight]
+[!DNL Salesforce]**向け**[!DNL Sales Insight]
 
 * **アカウントおよび商談レベルの[!UICONTROL 最有望見込客]**：[!DNL Sales Insight] では、セールス担当者が、自分が担当するアカウントまたは商談のすべての取引先責任者について、その取引先責任者が別のチームメンバーに割り当てられている場合でも、最有望見込客を確認できるようになりました。 これにより、アカウントと商談の所有者は、関連する連絡先のアクティビティを完全に可視化し、アカウントと商談のより包括的な視点に基づいて行動できるようになります。
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![（星印）](assets/yellow-star.png)
 
@@ -333,13 +303,13 @@ ht-degree: 84%
 
 * **ユーザエクスペリエンスの効率化**：このアップデートでは、Adobe Spectrum 設計システムに基づく [!DNL Sales Connect] の新しいフォント、カラー、ボタン、モデルが導入されました。 今回のアップデートにより、販売者は必要なときに必要なことに集中できる、より効率的な体験を提供できるようになりました」とPoddick氏は述べています。
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![](assets/yellow-star.png)
 
 * **[!DNL Bizible]と Adobe Privacy Service（GA）の統合**：[!DNL Bizible] と Adobe Privacy Service の統合は、Adobe Experience Cloud アプリケーション全体で、GDPR（一般データプライバシー規則）や CCPA（カリフォルニア州消費者プライバシー法）などの重要なデータプライバシー規制へのコンプライアンスを一元化します。 このサービスを利用して、AdobeのPrivacy Serviceを通じてすべてのプライバシーリクエストを一元管理し、[!DNL Bizible]およびその他のAdobe製品に入ってくる変更リクエストをアプリケーション間で反映できるようになりました。
 
-## お知らせ {#announcements}
+## お知らせ
 
 * **リード廃止／Munchkin ベータ版 161 アップデートの関連付け**：2021 年 9 月 7 日に、Munchkin のバージョン 161 は、Munchkin ベータ版を有効にしてサブスクリプションの 10%に展開し始め、次いで 9 月 16 日に 50%、9 月 30 日に 100%に展開しました。 この変更は、Marketo Engage のランディングページと、最近のバージョンがロールアウトされたサブスクリプションから読み込まれる外部のランディングページに提供されるファイル munchkin-beta.js のバージョンに影響します。 このバージョンでは、個人データをMarketo Engage サブスクリプションに送信し、既知の個人レコードを使用して関連するweb ブラウジング履歴を送信できる機能である[!DNL Munchkin] Associate Lead メソッドが完全に廃止されました。 Forms JS API、フォーム送信 API、Associate Lead REST API など、より最新でセキュアな代替手段のために、「リードの関連付け」は削除されています。 この廃止について詳しくは、[こちら](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)を参照してください。
 
