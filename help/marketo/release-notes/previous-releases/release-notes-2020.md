@@ -33,7 +33,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 4150
 ht-degree: 94%
@@ -88,7 +88,7 @@ ht-degree: 94%
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [画像編集](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=ja#design-studio)：Marketo Engage を終了せずに、アドビの編集機能にアクセスできます。 この新しい機能により、[!UICONTROL Design Studio] で直接画像の拡張、切り抜き、画像へのテキストの追加などを簡単に実行できます。
+* [画像編集](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio)：Marketo Engage を終了せずに、アドビの編集機能にアクセスできます。 この新しい機能により、[!UICONTROL Design Studio] で直接画像の拡張、切り抜き、画像へのテキストの追加などを簡単に実行できます。
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -267,7 +267,7 @@ ht-degree: 94%
 
 ## [!DNL Sales Connect] {#sales-connect}
 
-![（星印）](assets/yellow-star.png)
+![（星）](assets/yellow-star.png)
 
 * **[販売呼び出しに対する双方の同意の強化：](/help/marketo/product-docs/marketo-sales-connect/phone/two-party-consent-settings.md)**&#x200B;管理者は、通話録音の設定をより細かく管理できるようになりました。 双方の同意に関する法律に準拠していることを確認し、[通話録音を有効](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md)にします。 通話が録音中であることを示す通知を自動化し、通話の前に通知内容を再生します。
 
@@ -333,7 +333,7 @@ ht-degree: 94%
 
 ## 四半期を通した段階的リリース {#releasing-throughout-the-quarter}
 
-以下の機能はリリース後約 1～2 か月の間に段階的にリリースされます。
+以下の機能はリリース後約 1 ～ 2 か月の間に段階的にリリースされます。
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -354,3 +354,4 @@ ht-degree: 94%
 ## 製品リリースウェビナー {#product-release-webinar}
 
 [ここから](https://engage.marketo.com/Oct_20_Release_OnDemand.html)製品リリースウェビナーの録画を視聴する。
+

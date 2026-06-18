@@ -35,7 +35,7 @@ topic_v2:
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 4744
 ht-degree: 84%
@@ -277,7 +277,7 @@ ht-degree: 84%
 
 ## 2021年10月 {#october}
 
-2021 年 10 月リリースには以下の新機能が含まれています。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+2021 年 10 月リリースには以下の新機能が含まれています。 機能の可用性についてはお使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
@@ -348,3 +348,4 @@ ht-degree: 84%
 **_製品リリースウェビナー_**
 
 [2021年10月Marketo Engage リリースウェビナー](https://engage.marketo.com/October_Release_Webinar_On-Demand.html)
+

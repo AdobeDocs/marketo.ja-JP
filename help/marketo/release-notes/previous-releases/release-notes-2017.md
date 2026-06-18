@@ -22,7 +22,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 2364
 ht-degree: 97%
@@ -387,3 +387,4 @@ Marketo ABM は CRM に関連する動作を変更しています。 今後、Ma
 ABM でアカウントリストを作成する新しい方法を追加します。 既存のアカウントリストに加えて、パブリック CRM アカウント表示から生成される動的なアカウントリストを作成できるようになりました。 CRM アカウントビューは、アカウントを表示する際にフィルターとして機能する一連のルールです。 例えば、業界がヘルスケアで、_かつ_&#x200B;売上高が 1 億ドルを超えるアカウントを検索する場合に使用できます。
 
 ![](assets/dynamic-account-list-menu-5b14-5d-copy.png)
+

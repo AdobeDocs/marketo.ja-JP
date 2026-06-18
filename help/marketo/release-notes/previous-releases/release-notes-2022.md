@@ -25,7 +25,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 4282
 ht-degree: 90%
@@ -565,4 +565,3 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 * **Forms 1.0**：Forms 1.0 の廃止は 10月のリリースで完了します。 Forms 1.0 のアセットは Marketo Engage にデータを送信できなくなり、試行するとエラーが返されます。
 
 * **スクリプトなし Forms**：ブラウザーで JavaScript が無効になっている場合、Forms は機能しなくなります。 フォームの送信には、JavaScript を有効にする必要があります。
-
