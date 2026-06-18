@@ -5,11 +5,10 @@ title: SFDC 同期 - リード／取引先責任者／人物の結合
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 25bbf4409df3db38b849d936e2a90b48f859d089
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: 18ccc13ddd9cfb998015bb581373a7ca7c064d59
 workflow-type: tm+mt
-source-wordcount: 267
+source-wordcount: 268
 ht-degree: 55%
 
 ---
@@ -33,7 +32,7 @@ ht-degree: 55%
 
 >[!NOTE]
 >
->API マージでのブール型フィールドの動作は、&#39;26年3月リリースで変更されました。 ここで、False値は、そのフィールドの値を持つものとして正しく扱われます。 競合するフィールドを評価する場合、null値のみが「空」として扱われます。 詳しくは、[このコミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=ja){target="_blank"}を参照してください。
+>API マージでのブール型フィールドの動作は、&#39;26年3月リリースで変更されました。 ここで、False値は、そのフィールドの値を持つものとして正しく扱われます。 競合するフィールドを評価する場合、null値のみが「空」として扱われます。 詳しくは、[このコミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"}を参照してください。
 
 >[!MORELIKETHIS]
 >
