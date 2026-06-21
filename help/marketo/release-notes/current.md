@@ -4,22 +4,14 @@ title: 最新のリリースノート
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 5debaa373787b2e02c6af0da8d5c054a1e4f1aa7
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
 workflow-type: tm+mt
-source-wordcount: 695
-ht-degree: 17%
+source-wordcount: 758
+ht-degree: 16%
 
 ---
 
@@ -31,7 +23,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、2026年5月22日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに該当し、2026年5月22日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 ****&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -44,7 +36,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><strong>Marketo AI</strong>：時間のかかる重要なマーケティング機能を自動化するために設計された一連のエージェントを利用します（現在利用可能な2つのエージェント、近日リリース予定）。
 </td>
    <td>オープンベータ</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AIの概要</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AIの概要</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +46,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>Marketo Engage MCP Server</strong>: Marketo Engage MCP サーバーは、AI アシスタントとMarketo Engageの間のブリッジとして機能します。 フォーム、プログラム、スマートキャンペーン、人物/リード、メール、スニペット、リスト、フォルダーなど、100を超える業務を公開します。</td>
    <td>オープンベータ</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ja" target="_blank">Marketo MCP Server</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo MCP Server</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -137,10 +129,12 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 今年の初めに、取り残されていた関連フィールドがMarketoから削除されました。 その後すぐに、特定のソーシャル関連のリードフィールドを参照するAPI リクエストで「フィールドが見つかりません」エラーが返され、中断が発生しました。 影響を受けるフィールドが再度使用可能になった後にサービスが復元されたため、さらなる中断を防ぐために、Marketoはソーシャル機能の非推奨化からソーシャルフィールドを永続的に分離しました（そのため、Marketo アカウントで利用できるようになります）。 Marketoのソーシャル関連フィールドを参照するAPI クエリと統合を確認し、それらのフィールドが継続的なビジネスプロセスに引き続き必要かどうかを判断することをお勧めします。
 
-* **ブール型フィールドのAPI結合機能**: API結合内のブール型フィールドの動作が、&#39;26年3月リリースで変更されました。 ここで、False値は、そのフィールドの値を持つものとして正しく扱われます。 競合するフィールドを評価する場合、null値のみが「空」として扱われます。 詳しくは、[このコミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=ja){target="_blank"}を参照してください。
+* **ブール型フィールドのAPI結合機能**: API結合内のブール型フィールドの動作が、&#39;26年3月リリースで変更されました。 ここで、False値は、そのフィールドの値を持つものとして正しく扱われます。 競合するフィールドを評価する場合、null値のみが「空」として扱われます。 詳しくは、[このコミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"}を参照してください。
 
 * **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年7月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
+* **REST API結合リードの制限**: 2026年7月31日（PT）以降、結合リード API呼び出しのleadIds パラメーターに25を超えるIDを含む呼び出しは、1080 エラーコードになり、呼び出しはスキップされます。 25以上のレコードを1つのレコードに統合する必要があるジョブは、それらの呼び出しを成功させるために複数のジョブに分割する必要があります。
+
 * **SOAP APIの非推奨化**: Marketo SOAP APIのサポートは、2026年7月31日に終了します。 SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
 
-* **リードアクティビティを取得およびリード変更を取得するための静的リストサイズの制限**: 2026年9月30日（PT）以降、「`listId`」パラメーターを含むリードアクティビティを取得およびリード変更を取得」エンドポイントへの呼び出しは、ターゲット静的リストに10,000個以上のリードが含まれている場合、1003 エラーコードを返します。 詳しくは、[移行ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
+* **リードアクティビティを取得およびリード変更を取得するための静的リストサイズの制限**: 2026年9月30日（PT）以降、「`listId`」パラメーターを含むリードアクティビティを取得およびリード変更を取得」エンドポイントへの呼び出しは、ターゲット静的リストに10,000個以上のリードが含まれている場合、1003 エラーコードを返します。 詳しくは、[移行ガイド ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
