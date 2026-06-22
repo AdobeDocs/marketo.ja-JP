@@ -31,7 +31,7 @@ ht-degree: 2%
 
 * **ログイン、API アクセス、電子メール送信、web トラッキング、および統合に関するIP許可リスト**&#x200B;のレビューと更新。
 
-* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[ テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
+* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[&#x200B; テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
 
 ## 期待されるサービス効果
 
@@ -42,7 +42,7 @@ ht-degree: 2%
 
 ## データセンター/ポッドの特定 {#identify}
 
-以下の表を確認する前に、[ サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+以下の表を確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
 
 ## スケジュール {#schedule}
 
@@ -93,7 +93,7 @@ ht-degree: 2%
    <td>午前10時（太平洋夏時間）<br>
    午前11時（太平洋夏時間）</td>
   </tr>
-  </body>
+  &lt;/body>
 </table>
 
 ## 追加するIP アドレス {#ip-addresses}
@@ -118,7 +118,7 @@ ht-degree: 2%
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-</body>
+&lt;/body>
 </table>
 
 ## アップデートとサポート
