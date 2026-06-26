@@ -28,9 +28,9 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1344
+source-wordcount: 1338
 ht-degree: 85%
 
 ---
@@ -234,15 +234,10 @@ Design Studio のタブとツリーの表示にアクセスできるが、詳細
 * マーケティングアセットの削除
 * キャンペーン制限の編集
 * マーケティングアセットの編集
-* キャンペーンアクティビティの書き出し&#42;
+* キャンペーンアクティビティの書き出し
 * プログラムの読み込み
 * リストの読み込み
 * バッチキャンペーンのスケジュール
-
-SEO にアクセス
-
-* SEO の管理
-* 標準 SEO
 
 ## ターゲティングとパーソナライゼーション {#targeting-and-personalization}
 

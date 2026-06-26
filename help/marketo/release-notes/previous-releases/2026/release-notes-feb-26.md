@@ -3,7 +3,7 @@ description: リリースノート - 2026年2月 – Marketo ドキュメント 
 title: リリースノート - 2026年2月
 feature: Release Information
 exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
-source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
+source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 22%
@@ -65,7 +65,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **SEO機能の廃止**: 2026年3月31日火曜日、Marketo Engageは検索エンジン最適化機能（SEO）を廃止します。 SEOを積極的に活用していない場合、何もする必要はありません。 最近SEOを利用したことがある場合は、データを書き出すオプションもあります。 [詳細情報](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=ja){target="_blank"}。
 
-* **REST API結合リードの制限**:2026年3月31日（PT）以降、結合リード API呼び出しのleadIds パラメーターに25を超えるIDを含む呼び出しは、1080 エラーコードになり、呼び出しはスキップされます。 25以上のレコードを1つのレコードに統合する必要があるジョブは、それらの呼び出しを成功させるために複数のジョブに分割する必要があります。
+* **REST API結合リードの制限**: 2026年7月31日（PT）以降、結合リード API呼び出しのleadIds パラメーターに25を超えるIDを含む呼び出しは、1080 エラーコードになり、呼び出しはスキップされます。 25以上のレコードを1つのレコードに統合する必要があるジョブは、それらの呼び出しを成功させるために複数のジョブに分割する必要があります。
 
 * **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年7月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 

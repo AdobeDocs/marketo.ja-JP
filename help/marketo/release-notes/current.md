@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 5debaa373787b2e02c6af0da8d5c054a1e4f1aa7
+source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
 workflow-type: tm+mt
-source-wordcount: 695
-ht-degree: 17%
+source-wordcount: 758
+ht-degree: 16%
 
 ---
 
@@ -140,6 +140,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 * **ブール型フィールドのAPI結合機能**: API結合内のブール型フィールドの動作が、&#39;26年3月リリースで変更されました。 ここで、False値は、そのフィールドの値を持つものとして正しく扱われます。 競合するフィールドを評価する場合、null値のみが「空」として扱われます。 詳しくは、[このコミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=ja){target="_blank"}を参照してください。
 
 * **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年7月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+
+* **REST API結合リードの制限**: 2026年7月31日（PT）以降、結合リード API呼び出しのleadIds パラメーターに25を超えるIDを含む呼び出しは、1080 エラーコードになり、呼び出しはスキップされます。 25以上のレコードを1つのレコードに統合する必要があるジョブは、それらの呼び出しを成功させるために複数のジョブに分割する必要があります。
 
 * **SOAP APIの非推奨化**: Marketo SOAP APIのサポートは、2026年7月31日に終了します。 SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
 

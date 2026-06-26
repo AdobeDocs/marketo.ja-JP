@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: b0f4d348a51b5f3c0f0ec79d3467810c83aa4231
+source-git-commit: 39fef7edc7c475efd901a75235ccf7b25f789793
 workflow-type: tm+mt
-source-wordcount: '8896'
+source-wordcount: '8898'
 ht-degree: 96%
 
 ---
@@ -502,12 +502,12 @@ ht-degree: 96%
                + [手順 1 / 3：Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミスでの Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [手順 2 / 3：Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミスでの Marketo 同期ユーザーのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [手順 3 / 3：Marketo と Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミスの接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365 と ROPC 接続{#microsoft-dynamics-365-with-ropc-connection}
+            + Microsoft Dynamics 365 と ROPC 接続 {#microsoft-dynamics-365-with-ropc-connection}
                + [手順 1 / 4：ROPC 接続を使用した Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
                + [手順 2 / 4：ROPC 接続を使用した Marketo ソリューションのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
                + [手順 3 / 4：MS Dynamics でのクライアントアプリのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
                + [手順 4 / 4：Marketo Solution と ROPC 接続の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
-            + Microsoft Dynamics 365 と S2S 接続{#microsoft-dynamics-365-with-s2s-connection}
+            + Microsoft Dynamics 365 と S2S 接続 {#microsoft-dynamics-365-with-s2s-connection}
                + [手順 1 / 3：S2S 接続を使用した Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [手順 2 / 3：S2S 接続を使用した Marketo ソリューションのセットアップ](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
                + [手順 3 / 3：Marketo ソリューションと S2S 接続の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
@@ -1110,7 +1110,7 @@ ht-degree: 96%
    + MARKETO AI {#marketo-ai}
       + [概要](product-docs/marketo-ai/overview.md)
       + [設定と設定](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[設定と設定](product-docs/marketo-ai/settings-setup-old.md)
+      + {hide-from-toc}[Marketo AI データ インフォメーション シート &#x200B;](product-docs/marketo-ai/data-information.md)
       + スキル {#skills}
          + [製品知識](product-docs/marketo-ai/skills/product-knowledge.md)
          + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/marketo-ai/skills/surface-insights.md)
@@ -1286,7 +1286,7 @@ ht-degree: 96%
       + 人物 {#people}
          + [人物の詳細表示](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect と GDPR への準拠](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
-         + 取引先責任者の管理 {#manging-contacts}
+         + 取引先責任者の管理 {#managing-contacts}
             + [人物に対する一括アクション](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
             + [取引先責任者の作成と削除](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [グループタイプ](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
