@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 39fef7edc7c475efd901a75235ccf7b25f789793
+source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
 workflow-type: tm+mt
 source-wordcount: '8898'
 ht-degree: 96%
@@ -131,7 +131,7 @@ ht-degree: 96%
          + [フィールドの表示／非表示](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [メールでの HTML エンコードトークン](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [フィールドで大文字と小文字を区別するように設定](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + [ピックリスト管理](product-docs/administration/field-management/picklist-management.md)
+         + [選択リストの管理](product-docs/administration/field-management/picklist-management.md)
          + [フィールドの名前変更](product-docs/administration/field-management/rename-a-field.md)
          + [システム管理のフィールドについて](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Marketo と Salesforce の間のフィールドマッピングの表示](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -1107,10 +1107,10 @@ ht-degree: 96%
             + [アラート情報トークンの送信の使用](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [マイトークンでの URL の使用](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [メール CC](product-docs/email-marketing/general/email-cc.md)
-   + MARKETO AI {#marketo-ai}
+   + Marketo AI {#marketo-ai}
       + [概要](product-docs/marketo-ai/overview.md)
       + [設定と設定](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[Marketo AI データ インフォメーション シート &#x200B;](product-docs/marketo-ai/data-information.md)
+      + [Marketo AIに関する資料](product-docs/marketo-ai/data-information.md)
       + スキル {#skills}
          + [製品知識](product-docs/marketo-ai/skills/product-knowledge.md)
          + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/marketo-ai/skills/surface-insights.md)
