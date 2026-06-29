@@ -4,9 +4,12 @@ title: セールスインサイト権限セットの追加
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/uFyP8aZCuXSPJn5ktZUxmCoVekyw9LN88U3KaY06-do
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
 source-wordcount: 393
@@ -20,11 +23,11 @@ ht-degree: 58%
 
 >[!PREREQUISITES]
 >
->この機能を使用するには、バージョン 1.8000 以降に [ [!DNL Sales Insight] [!DNL Salesforce] パッケージを更新](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}します。
+>この機能を使用するには、バージョン 1.8000 以降に [&#x200B; [!DNL Sales Insight] [!DNL Salesforce] パッケージを更新](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}します。
 
 >[!IMPORTANT]
 >
->* 以前にすべてのプロファイルに[!DNL Sales Insight] アクセス権を付与したり、すべてのユーザーに[!DNL Sales Insight]を実装したりしたことがある場合は、この権限セットを使用するには、[ プロファイルレベルのアクセス権](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}を削除する必要があります。
+>* 以前にすべてのプロファイルに[!DNL Sales Insight] アクセス権を付与したり、すべてのユーザーに[!DNL Sales Insight]を実装したりしたことがある場合は、この権限セットを使用するには、[&#x200B; プロファイルレベルのアクセス権](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}を削除する必要があります。
 >
 >* MSIの全機能を使用するには、標準のSalesforce ライセンスが必要です。 Salesforce Platform ライセンス（制限付きライセンスクラス）を持つユーザーには、特定のアクションの実行や一部のタブへのアクセスに関するエラーが表示される場合があります。
 
