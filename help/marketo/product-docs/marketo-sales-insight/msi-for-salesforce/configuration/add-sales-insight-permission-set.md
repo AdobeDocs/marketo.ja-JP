@@ -4,16 +4,13 @@ title: セールスインサイト権限セットの追加
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/uFyP8aZCuXSPJn5ktZUxmCoVekyw9LN88U3KaY06-do
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 362
-ht-degree: 93%
+source-wordcount: 393
+ht-degree: 58%
 
 ---
 
@@ -23,11 +20,13 @@ ht-degree: 93%
 
 >[!PREREQUISITES]
 >
->この機能を使用するには、バージョン 1.8000 以降に [&#x200B; [!DNL Sales Insight] [!DNL Salesforce] パッケージを更新](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}します。
+>この機能を使用するには、バージョン 1.8000 以降に [ [!DNL Sales Insight] [!DNL Salesforce] パッケージを更新](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}します。
 
 >[!IMPORTANT]
 >
->以前にすべてのプロファイルに [!DNL Sales Insight] のアクセス権を付与している場合や、すべてのユーザに [!DNL Sales Insight] を実装している場合は、[プロファイルレベルのアクセス権を削除](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}して、この権限セットを使用する必要があります。
+>* 以前にすべてのプロファイルに[!DNL Sales Insight] アクセス権を付与したり、すべてのユーザーに[!DNL Sales Insight]を実装したりしたことがある場合は、この権限セットを使用するには、[ プロファイルレベルのアクセス権](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}を削除する必要があります。
+>
+>* MSIの全機能を使用するには、標準のSalesforce ライセンスが必要です。 Salesforce Platform ライセンス（制限付きライセンスクラス）を持つユーザーには、特定のアクションの実行や一部のタブへのアクセスに関するエラーが表示される場合があります。
 
 ## 概要 {#overview}
 
@@ -84,8 +83,8 @@ ht-degree: 93%
  </tbody>
 </table>
 
-* Apex クラスアクセス：「mkto_si」で始まる 159 個の Apex クラス
-* Visualforce ページアクセス：「mkto_si」で始まる 64 個の Visualforce ページ
+* Apex クラスアクセス：&quot;mkto_si&quot;で始まる159個のApex クラス
+* Visualforce ページアクセス：「mkto_si」で始まる64のVisualforce ページ
 * カスタム設定の定義：mkto_si.Marketo 設定と mkto_si.User 環境設定
 
 ## Marketo アプリ権限セットをユーザに追加 {#adding-marketo-app-permission-set-to-users}
@@ -112,12 +111,12 @@ ht-degree: 93%
 
    ![](assets/add-sales-insight-permission-set-5.png)
 
-1. ユーザの詳細ページを下にスクロールすると、「権限セットの割り当て」の下に「Marketo アプリアクセス」が表示されます。
+1. ユーザーの詳細ページを下にスクロールすると、権限セットの割り当ての下に「Marketo アプリアクセス」が表示されます。
 
    ![](assets/add-sales-insight-permission-set-6.png)
 
 >[!NOTE]
 >
->[!DNL Sales Insight] へのアクセス権を持たないユーザには、「このタブにアクセスするのに十分な権限がありません」というメッセージが表示されます。
+>[!DNL Sales Insight]へのアクセス権を持たないユーザーには、「このタブにアクセスするための十分な権限がありません」というメッセージが表示されます。
 
-これで完了です。 [!DNL Sales Insight] へのアクセス権が正常に追加されました。 アクセス権を追加する他のプロファイルに対しても同じ手順を繰り返します。
+これで完了です。 [!DNL Sales Insight] アクセスが正常に追加されました。 アクセス権を追加する他のプロファイルについても、同じ手順を繰り返します。
