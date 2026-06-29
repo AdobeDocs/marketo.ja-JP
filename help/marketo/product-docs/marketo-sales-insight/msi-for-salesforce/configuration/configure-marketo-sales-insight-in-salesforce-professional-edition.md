@@ -12,10 +12,10 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 779
-ht-degree: 98%
+source-wordcount: 810
+ht-degree: 95%
 
 ---
 
@@ -86,6 +86,10 @@ ht-degree: 98%
 1. リモートサイト名を入力します（「MarketoRestAPI」など）。 「リモートサイト URL」に、Marketo の Rest API 設定パネルの API URL を入力します。 「**[!UICONTROL 保存]**」をクリックします。 Rest API 用のリモートサイト設定が作成されました。
 
 ## セールスインサイトユーザのプロファイルに標準の Salesforce オブジェクトへのアクセス権を付与 {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>MSIの全機能を使用するには、標準のSalesforce ライセンスが必要です。 Salesforce Platform ライセンス（制限付きライセンスクラス）を持つユーザーには、特定のアクションの実行や一部のタブへのアクセスに関するエラーが表示される場合があります。
 
 Salesforce のセキュリティ強化により、AppExchange パッケージは標準オブジェクトに権限を付与できなくなり、Salesforce ユーザのプロファイルから関連する Salesforce オブジェクトにアクセス権を付与する必要があります。 次の手順に従って、必要な権限を付与します。
 

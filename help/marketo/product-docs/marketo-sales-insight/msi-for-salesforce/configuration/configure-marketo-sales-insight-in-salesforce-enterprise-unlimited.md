@@ -12,10 +12,10 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 946
-ht-degree: 86%
+source-wordcount: 977
+ht-degree: 84%
 
 ---
 
@@ -104,6 +104,10 @@ ht-degree: 86%
    >__「**[!UICONTROL リモートサイト名]**」を選択します（`MarketoAPI` はここで使用されます）。 **[!UICONTROL リモートサイト URL]** は、「Marketo でのセールスインサイトの設定」節の手順 3、API 設定を編集ダイアログの「Marketo ホスト」フィールドにあります。
 
 ## セールスインサイトユーザのプロファイルに標準の Salesforce オブジェクトへのアクセス権を付与 {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>MSIの全機能を使用するには、標準のSalesforce ライセンスが必要です。 Salesforce Platform ライセンス（制限付きライセンスクラス）を持つユーザーには、特定のアクションの実行や一部のタブへのアクセスに関するエラーが表示される場合があります。
 
 Salesforce のセキュリティ強化により、AppExchange パッケージは標準オブジェクトに権限を付与できなくなり、Salesforce ユーザのプロファイルから関連する Salesforce オブジェクトにアクセス権を付与する必要があります。 必要な権限を付与するには、次の手順に従います。
 
