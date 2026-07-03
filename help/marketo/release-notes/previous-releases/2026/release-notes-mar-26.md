@@ -1,11 +1,11 @@
 ---
 description: リリースノート - 2026年3月 – Marketo ドキュメント – 製品ドキュメント
-title: リリースノート - 2026年2月
+title: リリースノート - 2026年3月
 feature: Release Information
-source-git-commit: 713ab854749cb88a35b24f4355368092cdb35e64
+source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 21%
+source-wordcount: '533'
+ht-degree: 18%
 
 ---
 
@@ -37,8 +37,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子メール Designer - フラグメント内の編集可能なHTML コンポーネント </strong>：ビジュアルフラグメント内では、コンポーネントプロパティパネルを通じて、画像、テキスト、ボタンのコンポーネントで編集可能なフィールドがサポートされています。HTML コンポーネントの場合、編集可能フィールドは、HTML コンポーネント自体のソースコード内で変数ベースの構文を使用して、異なる方法で設定されます。
-   </td>
+   <td><strong>電子メール Designer - フラグメント内の編集可能なHTML コンポーネント </strong>：ビジュアルフラグメント内では、コンポーネントプロパティパネルを通じて、画像、テキスト、ボタンのコンポーネントで編集可能なフィールドがサポートされています。 HTML コンポーネントの場合、編集可能フィールドは、HTML コンポーネント自体のソースコード内で変数ベースの構文を使用して、異なる方法で設定されます。</td>
    <td>リリース</i></td>
    <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">フラグメント内の編集可能なHTML コンポーネント</a></td>
   </tr>
@@ -48,8 +47,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子メール Designer - クイックアクション </strong>: <i>古い電子メールエディターと同じ</i>。すべてのメール Designer アセット（メール、メールテンプレート、フラグメント）でクイックアクションが使用できるようになりました。 サポートされているクイックアクションには、複製、削除、移動、ドラフトの作成/編集などがあります。
-   </td>
+   <td><strong>電子メール Designer - クイックアクション </strong>: <i>古い電子メールエディターと同じ</i>。 すべてのメール Designer アセット（メール、メールテンプレート、フラグメント）でクイックアクションが使用できるようになりました。 サポートされているクイックアクションには、複製、削除、移動、ドラフトの作成/編集などがあります。</td>
    <td>リリース</i></td>
    <td>該当なし</td>
   </tr>
@@ -59,8 +57,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
    <tr>
-   <td><strong>電子メール Designer - Outlook レンダリングの修正</strong>：この更新プログラムは、特にMS Outlookでのレンダリングの問題を修正します。高度なHTMLモードを使用すると、HTML/CSSのマイナーな編集や、メールテンプレートへのスクリプトタグの追加を行うことができます。
-   </td>
+   <td><strong>電子メール Designer - Outlook レンダリングの修正</strong>：この更新プログラムは、特にMS Outlookでのレンダリングの問題を修正します。 高度なHTMLモードを使用すると、HTML/CSSのマイナーな編集や、メールテンプレートへのスクリプトタグの追加を行うことができます。</td>
    <td>リリース</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">高度なHTMLエディターでメールテンプレートを編集できます</a></td>
   </tr>
