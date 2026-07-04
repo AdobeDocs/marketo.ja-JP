@@ -40,7 +40,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>Marketo Engage MCP Server</strong>: Marketo Engage MCP サーバーは、AI アシスタントとMarketo Engageの間のブリッジとして機能します。 フォーム、プログラム、スマートキャンペーン、人物/リード、メール、スニペット、リスト、フォルダーなど、100を超える業務を公開します。</td>
    <td>オープンベータ</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo MCP Server</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ja" target="_blank">Marketo MCP Server</a></td>
   </tr>
   <tr>
    <td> </td>
