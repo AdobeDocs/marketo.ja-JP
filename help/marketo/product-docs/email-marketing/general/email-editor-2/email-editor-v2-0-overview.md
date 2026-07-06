@@ -5,14 +5,12 @@ title: メールエディター v2.0 の概要
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: 5935e1cef334c7c5fd40864dd2a677b4cb9d46d4
 workflow-type: tm+mt
-source-wordcount: 462
-ht-degree: 79%
+source-wordcount: 479
+ht-degree: 72%
 
 ---
 
@@ -24,31 +22,31 @@ ht-degree: 79%
 >
 >正確な日付はありませんが、クラシックメールエディターは最終的に廃止されます（正確な日付は後でお知らせします）。 高度な[電子メール Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}の導入を開始することを強くお勧めします。従来のエディターでは利用できない機能が多くあります。
 
-**メールテンプレート選択ツール**
+## メールテンプレートピッカー {#email-template-picker}
 
 新しい電子メールを作成すると、[電子メールテンプレートピッカー](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)に移動します。
 
 ![](assets/email-editor-v2-overview-1.png)
 
-**メールエディター**
+## メールエディター {#email-editor}
 
 メールの編集を開始すると、エディターの外観がまったく新しくなっているのがわかります。
 
 ![](assets/email-editor-v2-overview-2.png)
 
-**モジュール**
+### モジュール {#modules}
 
 エディターの右側にあるものは、モジュールと呼ばれます。 [メールにモジュールを追加](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)する方法を説明します。
 
 ![](assets/email-editor-v2-overview-3.png)
 
-**テキストバージョン**
+### テキストバージョン {#text-version}
 
 メールの HTML バージョンとテキストバージョンの切り替えは、下部の便利なタブに表示されます。 [テキストバージョンのメールを編集](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)する方法を説明します。
 
 ![](assets/email-editor-v2-overview-4.png)
 
-**メールヘッダー**
+### メールヘッダー {#email-header}
 
 デザインスペースがもっと必要な場合、 メールヘッダーは、[編集](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md)が完了した後に非表示にすることができます。 このアイコンをクリックするだけです...
 
@@ -58,7 +56,7 @@ ht-degree: 79%
 
 ![](assets/email-editor-v2-overview-6.png)
 
-**メールをプレビューする**
+### メールをプレビュー {#preview-your-email}
 
 デフォルトでは、メールにはデスクトップ（ハイライトされた青いアイコン）で表示される状態が示されます。 その右にあるアイコンをクリックすると...
 
@@ -80,7 +78,7 @@ ht-degree: 79%
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**[!UICONTROL メールアクション]**
+## メールアクション {#email-actions}
 
 「**[!UICONTROL メールアクション]**」にも、新しい機能があります。 「**[!UICONTROL 画像またはファイルのアップロード]**」と「**[!UICONTROL Web から画像を取得]**」です。 メール自体を新しいメールテンプレートとして保存することもできます。 名前と説明を指定するだけです。
 
@@ -94,11 +92,17 @@ ht-degree: 79%
 >
 >「**[[!UICONTROL Web から画像を取得]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)**」は、[!UICONTROL デザインスタジオ]の場合と同じように動作します。
 
-「**[!UICONTROL 設定を編集]**」の「**[!UICONTROL オープントラッキングを無効にする]**」で、必要に応じてオープントラッキングを無効にできます。
+## メール設定 {#email-settings}
+
+メールをカスタマイズできる様々な追加設定から選択します。
+
+### オープントラッキングを無効化
+
+**[!UICONTROL 設定を編集]**&#x200B;で、必要に応じてオープントラッキングを無効にできます。
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**[!UICONTROL 設定を編集]**
+### プリヘッダーを追加 {#add-a-preheader}
 
 [!UICONTROL プリヘッダー]を追加するオプションがあります。 [!UICONTROL プリヘッダー]とは、インボックスでメールを表示する際、件名の後に表示される短い概要です。
 
