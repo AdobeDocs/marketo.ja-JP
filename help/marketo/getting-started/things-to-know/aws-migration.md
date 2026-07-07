@@ -4,7 +4,7 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
+source-git-commit: de84d9a26dea78022a1d4ca79baa8e2f445ee2a9
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 2%
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 移行の約30日前に、メールとアプリ内通知が届きます。 このガイドを使用して準備を進めます。
 
-## 推奨されるアクション
+## 推奨されるアクション {#actions}
 
 移行期間中、すべてのMarketo Engage サービスは利用できなくなります。 ビジネスへの影響を軽減するには、次の手順に従うことをお勧めします。
 
@@ -33,7 +33,7 @@ ht-degree: 2%
 
 * **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[&#x200B; テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
 
-## 期待されるサービス効果
+## 期待されるサービス効果 {#impacts}
 
 以下の影響は、お客様の側で対処する必要はありません。
 
@@ -93,7 +93,7 @@ ht-degree: 2%
    <td>午前10時（太平洋夏時間）<br>
    午前11時（太平洋夏時間）</td>
   </tr>
-  &lt;/body>
+  </body>
 </table>
 
 ## 追加するIP アドレス {#ip-addresses}
@@ -118,9 +118,9 @@ ht-degree: 2%
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
-## アップデートとサポート
+## アップデートとサポート {#support}
 
 最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
