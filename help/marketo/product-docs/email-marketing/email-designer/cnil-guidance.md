@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # CNIL ガイダンス：条件付きメール開封追跡 {#cnil}
 
-[CNIL ガイドライン &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632){target="_blank"}に従って、メール開封（ピクセル）トラッキングのエンドユーザーの同意を尊重するようにMarketo Engageを設定する方法について説明します。 このアプローチでは、カスタムのブール値フィールドを使用して、オープントラッキングが有効なメールと無効なメールのバリエーションを決定します。
+[CNIL ガイドライン &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632?profile.language=ja){target="_blank"}に従って、メール開封（ピクセル）トラッキングのエンドユーザーの同意を尊重するようにMarketo Engageを設定する方法について説明します。 このアプローチでは、カスタムのブール値フィールドを使用して、オープントラッキングが有効なメールと無効なメールのバリエーションを決定します。
 
 ## 手順1：カスタムブール値フィールドの作成 {#custom-field}
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## ステップ 2：同意フィールドに入力する {#populate}
 
-1. データの読み込み（API同期または[CSV アップロード &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）を介して、各人物の電子メールピクセルトラッキングフィールド値を設定します。
+1. データの読み込み（API同期または[CSV アップロード &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）を介して、各人物の電子メールピクセルトラッキングフィールド値を設定します。
 
    ![](assets/cnil-3.png)
 
@@ -62,7 +62,7 @@ ht-degree: 0%
 
 ## 手順4：スマートキャンペーンの設定 {#smart-campaign}
 
-[&#x200B; スマートキャンペーンを作成](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}して、各人物が受信するメールを決定します。
+[&#x200B; スマートキャンペーンを作成](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}して、各人物が受信するメールを決定します。
 
 1. スマートキャンペーンの「_Flow_」タブに、**メールを送信** フローステップを挿入します。
 
