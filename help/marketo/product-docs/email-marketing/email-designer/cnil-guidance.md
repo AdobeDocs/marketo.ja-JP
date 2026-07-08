@@ -6,9 +6,9 @@ description: カスタムのブール値フィールドを使用して、各個�
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
+source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ CNIL ガイドライン（COMMUNITY LINK）に従って、メール開封（ピ�
 
 ## ステップ 2：同意フィールドに入力する {#populate}
 
-1. データの読み込み（API同期または[CSV アップロード &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）を介して、各人物の電子メールピクセルトラッキングフィールド値を設定します。
+1. データの読み込み（API同期または[CSV アップロード ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）を介して、各人物の電子メールピクセルトラッキングフィールド値を設定します。
 
    ![](assets/cnil-3.png)
 
@@ -63,13 +63,13 @@ CNIL ガイドライン（COMMUNITY LINK）に従って、メール開封（ピ�
 
 ## 手順4：スマートキャンペーンの設定 {#smart-campaign}
 
-[&#x200B; スマートキャンペーンを作成](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}して、各人物が受信するメールを決定します。
+[ スマートキャンペーンを作成](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}して、各人物が受信するメールを決定します。
 
 1. スマートキャンペーンの「_Flow_」タブに、**メールを送信** フローステップを挿入します。
 
    ![](assets/cnil-8.png){width="800" zoomable="yes"}
 
-1. フローステップで、**選択肢を追加**&#x200B;をクリックします。 選択肢1では、**if**&#x200B;を&#x200B;_EmailPixelTracking_&#x200B;に設定し、演算子を&#x200B;_is_&#x200B;に設定し、値を&#x200B;_false_&#x200B;に設定します。 **電子メール**&#x200B;で、_電子メール 2_&#x200B;を選択します。
+1. フローステップで、**選択肢を追加**&#x200B;をクリックします。 選択肢1では、**if**&#x200B;を&#x200B;_電子メールピクセルトラッキング_&#x200B;に設定し、演算子を&#x200B;_is_&#x200B;に設定し、値を&#x200B;_false_&#x200B;に設定します。 **電子メール**&#x200B;で、_電子メール 2_&#x200B;を選択します。
 
 1. デフォルトの選択肢で、**Email**&#x200B;を&#x200B;_Email One_&#x200B;に設定します。
 
