@@ -6,10 +6,10 @@ description: カスタムのブール値フィールドを使用して、各個�
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: f5f3d0cf1068c09308388dd1455666d5ac3555b6
+source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 1%
+source-wordcount: '419'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ CNIL ガイドライン（COMMUNITY LINK）に従って、メール開封（ピ�
 
 ## ステップ 2：同意フィールドに入力する {#populate}
 
-1. データの読み込み（API同期またはCSV アップロード）を介して、各人物のEmailPixelTracking フィールド値を設定します。
+1. データの読み込み（API同期または[CSV アップロード ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）を介して、各人物の電子メールピクセルトラッキングフィールド値を設定します。
 
    ![](assets/cnil-3.png)
 
@@ -51,7 +51,7 @@ CNIL ガイドライン（COMMUNITY LINK）に従って、メール開封（ピ�
 
   ![](assets/cnil-5.png)
 
-電子メール Designerでは、電子メールの右側にある&#x200B;_概要_ ペインの&#x200B;_詳細_ タブに、**開封トラッキングを無効にする** チェックボックスがあります。 従来のメールエディターでは、**開封トラッキングを無効にする** チェックボックスは、_設定を編集_ メニューにあります。
+電子メール Designerでは、電子メールの右側にある&#x200B;_概要_ ペインの&#x200B;_詳細_ タブに、**開封トラッキングを無効にする** チェックボックスがあります。 従来のメールエディターでは、**開封トラッキングを無効にする** チェックボックスは、_メール設定_ メニューにあります。
 
 **E メールデザイナー**
 
@@ -63,7 +63,7 @@ CNIL ガイドライン（COMMUNITY LINK）に従って、メール開封（ピ�
 
 ## 手順4：スマートキャンペーンの設定 {#smart-campaign}
 
-スマートキャンペーンを作成し、各顧客がどのメールを受信するかを判断します。
+[ スマートキャンペーンを作成](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}して、各人物が受信するメールを決定します。
 
 1. スマートキャンペーンの「_Flow_」タブに、**メールを送信** フローステップを挿入します。
 
