@@ -6,9 +6,9 @@ description: カスタムのブール値フィールドを使用して、各個�
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
+source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ CNIL ガイドライン（COMMUNITY LINK）に従って、メール開封（ピ�
 
    ![](assets/cnil-8.png){width="800" zoomable="yes"}
 
-1. フローステップで、**選択肢を追加**&#x200B;をクリックします。 選択肢1では、**if**&#x200B;を&#x200B;_EmailPixelTracking_&#x200B;に設定し、演算子を&#x200B;_is_&#x200B;に設定し、値を&#x200B;_false_&#x200B;に設定します。 **電子メール**&#x200B;で、_電子メール 2_&#x200B;を選択します。
+1. フローステップで、**選択肢を追加**&#x200B;をクリックします。 選択肢1では、**if**&#x200B;を&#x200B;_電子メールピクセルトラッキング_&#x200B;に設定し、演算子を&#x200B;_is_&#x200B;に設定し、値を&#x200B;_false_&#x200B;に設定します。 **電子メール**&#x200B;で、_電子メール 2_&#x200B;を選択します。
 
 1. デフォルトの選択肢で、**Email**&#x200B;を&#x200B;_Email One_&#x200B;に設定します。
 
