@@ -4,10 +4,10 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 959b1599d48d5e496f012b515a9d8f9a528431e0
+source-git-commit: 3073a443b5dee8033e88dc474989c44552851e52
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 2%
+source-wordcount: '435'
+ht-degree: 3%
 
 ---
 
@@ -102,6 +102,11 @@ ht-degree: 2%
    <td>2026年7月23日（PT）</td>
    <td>AB48</td>
    <td>午後5時（太平洋夏時間）</td>
+  </tr>
+  <tr>
+   <td>2026年7月31日（PT）</td>
+   <td>AB43</td>
+   <td>午後3時（太平洋夏時間）</td>
   </tr>
   <tr>
    <td>2026年8月12日（PT）</td>
