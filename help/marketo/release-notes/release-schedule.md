@@ -5,13 +5,10 @@ title: リリーススケジュール
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: d0cf66fe0c72af8e9d1db09792f73fd6db10abbb
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: eb36cf28856d8f889f39d69825bb2e0046e1b197
 workflow-type: tm+mt
 source-wordcount: 152
 ht-degree: 88%
@@ -62,7 +59,7 @@ _リリース日／機能は変更される場合があります。_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">2026年7月</a></td>
    <td>2026年7月10日（PT）</td>
-   <td>予定通り</td>
+   <td>進行中</td>
   </tr>
   <tr>
   <td>2026年8月</td>
