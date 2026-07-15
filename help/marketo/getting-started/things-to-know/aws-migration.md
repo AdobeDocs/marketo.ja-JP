@@ -166,4 +166,4 @@ ht-degree: 7%
 
 ## アップデートとサポート {#support}
 
-最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}からAdobe サポートにお問い合わせください。
+最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
