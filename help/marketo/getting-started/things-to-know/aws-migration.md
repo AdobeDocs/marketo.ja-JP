@@ -4,10 +4,10 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 7f91d1423f25ba0e1572673cbd55099b0000cb03
+source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 3%
+source-wordcount: '459'
+ht-degree: 7%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 3%
 
 * **ログイン、API アクセス、電子メール送信、web トラッキング、および統合に関するIP許可リスト**&#x200B;のレビューと更新。
 
-* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[&#x200B; テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
+* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[ テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
 
 ## 期待されるサービス効果 {#impacts}
 
@@ -42,7 +42,7 @@ ht-degree: 3%
 
 ## データセンター/ポッドの特定 {#identify}
 
-以下の表を確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+以下の表を確認する前に、[ サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
 
 ## スケジュール {#schedule}
 
@@ -51,9 +51,10 @@ ht-degree: 3%
 <table>
  <tbody>
   <tr>
-   <th style="width:50%">日付</th>
-   <th style="width:20%">データセンター/ポッド</th>
-   <th style="width:30%">時間</th>
+   <th style="width:25%">日付</th>
+   <th style="width:25%">データセンター/ポッド</th>
+   <th style="width:25%">時間</th>
+   <th style="width:25%">ステータス</th>
   </tr>
   <tr>
    <td>2026年7月8日（PT）</td>
@@ -61,21 +62,26 @@ ht-degree: 3%
    AB64</td>
    <td>午後5時（太平洋夏時間）<br>
    午後6時（太平洋夏時間）</td>
+   <td>完了<br>
+   完了日</td>
   </tr>
   <tr>
    <td>2026年7月9日（PT）</td>
    <td>AB70</td>
    <td>午後5時（太平洋夏時間）</td>
+   <td>完了</td>
   </tr>
   <tr>
    <td>2026年7月11日（PT）</td>
    <td>AB46</td>
    <td>午前10時（太平洋夏時間）</td>
+   <td>完了</td>
   </tr>
   <tr>
    <td>2026年7月13日（PT）</td>
    <td>NLD101</td>
    <td>午前10時（太平洋夏時間）</td>
+   <td>完了</td>
   </tr>
   <tr>
    <td>2026年7月15日（PT）</td>
@@ -83,6 +89,8 @@ ht-degree: 3%
    NLD104</td>
    <td>午前10時（太平洋夏時間）<br>
    午前11時（太平洋夏時間）</td>
+   <td>予定通り<br>
+   予定通り</td>
   </tr>
   <tr>
    <td>2026年7月17日（PT）</td>
@@ -90,6 +98,8 @@ ht-degree: 3%
    NLD105</td>
    <td>午前10時（太平洋夏時間）<br>
    午前11時（太平洋夏時間）</td>
+   <td>予定通り<br>
+   予定通り</td>
   </tr>
   <tr>
    <td>2026年7月21日（PT）</td>
@@ -97,16 +107,20 @@ ht-degree: 3%
    AB56</td>
    <td>午後5時（太平洋夏時間）<br>
    午後6時（太平洋夏時間）</td>
+   <td>予定通り<br>
+   予定通り</td>
   </tr>
   <tr>
    <td>2026年7月23日（PT）</td>
    <td>AB48</td>
    <td>午後5時（太平洋夏時間）</td>
+   <td>予定通り</td>
   </tr>
   <tr>
    <td>2026年7月31日（PT）</td>
    <td>AB43</td>
    <td>午後3時（太平洋夏時間）</td>
+   <td>予定通り</td>
   </tr>
   <tr>
    <td>2026年8月12日（PT）</td>
@@ -114,10 +128,13 @@ ht-degree: 3%
    AB17</td>
    <td>午後3時（太平洋夏時間）<br>
    午後4時（太平洋夏時間）</td>
+   <td>予定通り<br>
+   予定通り</td>
   </tr>
   <td>2026年8月13日（PT）</td>
    <td>AB68</td>
    <td>午後4時（太平洋夏時間）</td>
+   <td>予定通り</td>
   </tr>
   </body>
 </table>
@@ -149,4 +166,4 @@ ht-degree: 3%
 
 ## アップデートとサポート {#support}
 
-最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
+最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}からAdobe サポートにお問い合わせください。
