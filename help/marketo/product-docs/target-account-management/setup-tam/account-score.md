@@ -4,12 +4,12 @@ description: アカウントスコアリングとは？概要と、エンゲー�
 title: アカウントスコア
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/l---8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
+TQID: https://experienceleague.adobe.com/l%2D%2D%2D8i0ay7ON1YhQQyl9AItu-nvqlycAgeh9-Uu4l2c
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
 workflow-type: tm+mt
-source-wordcount: 375
+source-wordcount: 376
 ht-degree: 81%
 
 ---
@@ -49,8 +49,7 @@ B2Bの複雑な購買プロセスでは、特定の個人が購入を決定す�
 >
 >アカウントスコアを計算するには、まずリードスコアを作成する必要があります。 Marketo TAM は、リードスコアをアカウントスコアに自動的に集約します。 例として、上記の 2 つの例（_アカウントの製品の興味スコア_&#x200B;と&#x200B;_アカウントの web エンゲージメントスコア_）を見てみましょう。
 >
->最初に、ターゲットアカウントの各リードから関連する詳細を取り込むリードスコアフィールドを作成します。
->次に、これらのリードスコアをそれぞれのアカウントスコアに割り当てます。>アカウントの製品の関心スコア = SUM（リードの製品の興味スコア）>アカウントの web エンゲージメントスコア = SUM（リードの web エンゲージメントスコア）
+>最初に、ターゲットアカウントの各リードから関連する詳細を取り込むリードスコアフィールドを作成します。次に、これらのリードスコアをそれぞれのアカウントスコアに割り当てます。アカウントの製品の関心スコア = SUM（リードの製品の興味スコア）アカウントの web エンゲージメントスコア = SUM（リードの web エンゲージメントスコア）
 
 >[!NOTE]
 >
