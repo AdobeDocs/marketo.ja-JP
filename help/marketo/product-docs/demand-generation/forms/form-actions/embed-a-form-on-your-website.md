@@ -12,49 +12,45 @@ feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
 workflow-type: tm+mt
-source-wordcount: 227
-ht-degree: 85%
+source-wordcount: 212
+ht-degree: 41%
 
 ---
 
 # Web サイトへのフォームの埋め込み {#embed-a-form-on-your-website}
 
-Marketo を使用すると、アドビのフォームを独自の Web サイトに埋め込むことができます。 埋め込みコードにアクセスする方法は次のとおりです。
+フォームの埋め込みコードにアクセスして、自分のweb サイトでホストします。
 
-1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
+>[!PREREQUISITES]
+>
+>埋め込みコードを使用できるようにするには、フォームを承認する必要があります。
 
-   ![](assets/login-marketing-activities-4.png)
+1. 目的のフォームを見つけて選択します。
 
-1. フォームを見つけて選択します。
+   ![](assets/embed-a-form-on-your-website-1.png)
 
-   ![](assets/image2014-9-15-12-3a12-3a14.png)
+1. フォームの詳細画面の右側にある「**[!UICONTROL コードを埋め込む]**」をクリックします。
 
-1. 「**[!UICONTROL フォームアクション]**」で、「**[!UICONTROL 埋め込みコード]**」をクリックします。
-
-   >[!NOTE]
-   >
-   >**[!UICONTROL 埋め込みコード]**&#x200B;が表示されて使用可能になるには、フォームが承認される必要があります。
-
-   ![](assets/image2014-9-15-12-3a12-3a20.png)
+   ![](assets/embed-a-form-on-your-website-2.png)
 
    >[!CAUTION]
    >
    >**[フォームの事前入力](/help/marketo/product-docs/administration/settings/edit-landing-page-settings.md)**&#x200B;は独自のページ&#x200B;_または_ Marketo のランディングページでフォーム埋め込みコードを使用する場合には機能しません。 フォームの事前入力は、フォームが「要素を挿入」オプションを使用して Marketo ランディングページで使用されている場合にのみ機能します。
 
-1. 埋め込みコードを選択またはコピーしてから、「**[!UICONTROL 閉じる]**」をクリックします。
+1. 「_標準_」タブで、「**[!UICONTROL テキストをコピー]**」をクリックします。 終了したら「**[!UICONTROL 閉じる]**」をクリックします。
 
-   ![](assets/image2014-9-15-12-3a12-3a31.png)
+   ![](assets/embed-a-form-on-your-website-3.png)
 
->[!TIP]
->
->コードを Web サイトに埋め込むと、Marketo でのフォームへの変更は、フォームの承認時にサイトにプッシュされます。 コードをさらに変更する必要はありません。
+   >[!NOTE]
+   >
+   >Lightbox コードについては、[Lightboxでのフォームの使用](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)を参照してください。
 
-埋め込みコードを Web デベロッパーに私て、サイトに追加してもらうだけです。
+1. web開発者に埋め込みコードを提供します。
 
->[!NOTE]
->
->デベロッパーが外観をカスタマイズしたり、高度な API 関数にアクセスしたりしたい場合は、[Forms 2.0 のデベロッパー向けページ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)について知らせてください。
+   コードをweb サイトに埋め込んだ後、Marketo Engageでフォームに変更を加えると、フォーム承認時にサイトにプッシュされます。 コードを変更する必要はありません。
 
-ライトボックスコードについては、[&#x200B; ライトボックスでのフォームの使用](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)を参照してください。
+   >[!TIP]
+   >
+   >デベロッパーが外観をカスタマイズしたり、高度な API 関数にアクセスしたりしたい場合は、[Forms 2.0 のデベロッパー向けページ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)について知らせてください。
