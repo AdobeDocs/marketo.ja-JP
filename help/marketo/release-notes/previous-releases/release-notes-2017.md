@@ -1,31 +1,14 @@
 ---
-title: "2017"
+title: 2017
 description: 2017 - Marketo Docs – 製品ドキュメント
 feature: Release Information
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: df401a2a-327d-468c-a5e4-b7b7ccd071a0id: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2364
-ht-degree: 97%
+source-wordcount: 2440
+ht-degree: 91%
 
 ---
 
@@ -41,17 +24,23 @@ ht-degree: 97%
 >
 >トピックに複数のサブ見出しが含まれる場合、リンクはそこに配置されます。
 
-## [Facebook カスタムオーディエンスの詳細照合](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) {#advanced-matching-for-facebook-custom-audiences}
+## Facebook カスタムオーディエンスの高度なマッチング {#advanced-matching-for-facebook-custom-audiences}
+
+[Facebook カスタムオーディエンスの高度なマッチング](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
 
 「基本的な一致」ではメールアドレスのみが使用されますが、新しい「高度な一致」では 7 つのフィールドが追加され、コンバージョン率が向上します。
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [カスタムオブジェクト読み込み API](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## カスタムオブジェクト読み込みAPI {#custom-object-import-api}
+
+[カスタムオブジェクト読み込みAPI](https://developers.marketo.com/rest-api/lead-database/custom-objects/)
 
 この API は、カスタムオブジェクトを Marketo に同期する高速なインターフェイスを提供します。 CSV、TSV または SSV スプレッドシートファイルは、カスタムオブジェクトとして Marketo に読み込むことができます。
 
-## [Web パーソナライゼーションキャンペーンの書き出し](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## Web Personalization Campaignsの書き出し {#web-personalization-campaigns-export}
+
+[Web Personalization Campaignsの書き出し](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md)
 
 すべての web キャンペーンの詳細と分析を CSV 形式で書き出します。 その後、データを便利なレイアウトで表示できます。
 
@@ -101,7 +90,9 @@ Web パーソナライゼーション、[!UICONTROL 予測コンテンツ]、メ
 
 コンテンツの自動検出プロセスで、画像 URL とメタデータが使用されるようになりました。
 
-## [SDK の強化](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## SDKの機能強化 {#sdk-enhancements}
+
+[SDKの機能強化](https://developers.marketo.com/mobile/)
 
 開発者は、新しい SDK API 呼び出しを追加して、プッシュ通知の配信を制御できるようになりました。これにより、開発者はプッシュトークンを削除することができます。
 
@@ -109,11 +100,15 @@ Web パーソナライゼーション、[!UICONTROL 予測コンテンツ]、メ
 
 新しいフィルターオプション「Vibes リストのメンバー」でターゲティングを強化します。
 
-## [レガシーリッチテキストエディターおよびフォームエディター 1.0 の廃止](https://nation.marketo.com/docs/DOC-4315)
+## 従来のリッチテキストエディターおよびフォームエディター1.0の非推奨化
+
+[従来のリッチテキストエディターおよびフォームエディター1.0の非推奨化](https://nation.marketo.com/docs/DOC-4315)
 
 2017年8月1日以降、従来のリッチテキストエディターとフォームエディター 1.0 をまだ使用しているお客様は、新しいエクスペリエンスに自動的に移行されます。
 
-## [Marketo アクティビティ API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## Marketo アクティビティ API {#marketo-activity-apis}
+
+[Marketo アクティビティ API](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/)
 
 Marketo のアクティビティ API に重要な変更が予定されています。 準備はよろしいでしょうか。
 
@@ -123,7 +118,9 @@ Marketo のアクティビティ API に重要な変更が予定されていま�
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。 **メモ**：トピックに複数のサブ見出しが含まれる場合、リンクはそこに配置されます。
 
-## [LinkedIn リードジェネレーションフォーム](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## LinkedIn リードジェネレーション Forms {#linkedin-lead-gen-forms}
+
+[LinkedIn リードジェネレーション Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
 
 [[!UICONTROL LinkedIn リードジェネレーション]フォーム](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads)は、ビジネスが [!DNL LinkedIn] でリードジェネレーションキャンペーンを行うためのより直接的な方法です。 オーディエンスはフォームに入力することで、製品やサービスに対する関心を示すことができます。これにより、オーディエンスの詳細情報を把握し、自動的なフォローアッププロセスやリードルーティングを実施できる、Marketoに同期できます。
 
@@ -131,7 +128,9 @@ Marketo と [!UICONTROL LinkedIn リードジェネレーション]フォーム
 
 ![](assets/release-notes-image.png)
 
-## [MSI テンプレートの有効期限設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
+## MSI テンプレートの有効期限 {#expire-msi-template}
+
+[MSI テンプレートの有効期限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
 
 [!DNL Sales Insight] で古いテンプレートをクリーンアップする必要がなくなりました。 メールを公開する際に有効期限を設定します。有効期限が切れると、自動的に非公開になります。
 
@@ -141,7 +140,9 @@ Marketo と [!UICONTROL LinkedIn リードジェネレーション]フォーム
 
 ![](assets/four-281-29.png)
 
-## [リードとアクティビティを API で一括抽出](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## 人物およびアクティビティ用の一括抽出API {#bulk-extract-apis-for-people-and-activities}
+
+[人物およびアクティビティ用の一括抽出API](https://developers.marketo.com/rest-api/bulk-extract/)
 
 Marketo から外部システムに、大量のリードおよびアクティビティデータを簡単に転送できます。
 
@@ -203,7 +204,9 @@ Marketo でサポートされているすべての言語（英語、日本語、
 
 Marketo でサポートされているすべての言語（英語、日本語、ドイツ語、スペイン語、フランス語、ポルトガル語）で予測コンテンツを利用できるようになりました。
 
-## [レガシーリッチテキストエディターおよびフォームエディター 1.0 の廃止](https://nation.marketo.com/docs/DOC-4315)
+## 従来のリッチテキストエディターおよびフォームエディター1.0の非推奨化
+
+[従来のリッチテキストエディターおよびフォームエディター1.0の非推奨化](https://nation.marketo.com/docs/DOC-4315)
 
 2017年8月1日以降、従来のリッチテキストエディターとフォームエディター 1.0 をまだ使用しているお客様は、新しいエクスペリエンスに自動的に移行されます。
 
@@ -213,13 +216,17 @@ Marketo でサポートされているすべての言語（英語、日本語、
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。 注意：このリリースに含まれる機能の一部には、関連記事がありません。 トピックに複数のサブ見出しが含まれる場合、リンクはそこに配置されます。
 
-## [Facebook オフラインコンバージョンステージの追加](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## その他のFacebook オフラインコンバージョン段階 {#additional-facebook-offline-conversion-stages}
+
+[その他のFacebook オフラインコンバージョン段階](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
 
 最大 7 つのオフラインコンバージョンステージを選択して、Marketo のライフサイクルステージ（現在利用可能な 3 つを超えるステージ）にマッピングします。 カスタマージャーニー全体のコンバージョンに基づいて [!DNL Facebook] の広告費用を最適化し、ROI を向上させます。
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [セールスインサイトテンプレートのロック](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
+## Sales Insight テンプレートのロック {#lock-sales-insight-template}
+
+[Sales Insight テンプレートのロック](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
 
 セールステンプレートの編集を防止することで、メッセージとコンテンツの一貫性を保持します。 これにより、テンプレートを標準化し、プロフェッショナルなコミュニケーションを維持できます。
 
@@ -283,7 +290,9 @@ Marketo と [!DNL Salesforce] の豊富で高速な同期を活用できます�
 
 最近のインフラストラクチャの改善により、Marketo のレポートと分析ツール内の稼動時間と安定性が向上し、臨時のレポートをより迅速に作成できるようになりました。
 
-## [受信者タイムゾーン](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md) {#recipient-time-zone}
+## 受信者タイムゾーン {#recipient-time-zone}
+
+[受信者タイムゾーン](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
 
 この新機能を使用すると、ローカルタイムゾーンに応じてメールを保留して配信できるようになります。 メールおよびエンゲージメントプログラムは、受信者のタイムゾーンで配信するように設定できるので、複数のプログラムを作成する必要がなくなります。一度送信すると、メールは自動的にローカルで正しい時間まで保持されます。 グローバルに 1 つのプログラムを使用して、メール指標を改善し、ローカルプラクティスを観察し、時間を節約します。
 
@@ -293,11 +302,15 @@ Marketo と [!DNL Salesforce] の豊富で高速な同期を活用できます�
 >
 >メールやエンゲージメントプログラムで受信者タイムゾーンを有効にできない場合は、パニックを起こす必要はありません。 この機能は、すべてのお客様に対して徐々に有効化されています。
 
-## [セグメント別サンプルメールのレビュー](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
+## セグメント別サンプルメールの確認 {#review-sample-emails-by-segment}
+
+[セグメント別サンプルメールの確認](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md)
 
 Marketo には、レビュー用にサンプルメールを送信する際にセグメントを選択する新しいオプションが追加されました。 リードが属するセグメントを手動で決定する必要がなくなり、動的コンテンツを含むメールを様々なセグメントに簡単に送信できるようになりました。
 
-## [LinkedIn リード生成カスタム質問](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## LinkedIn リードジェネレーションカスタム質問 {#linkedin-lead-gen-custom-questions}
+
+[LinkedIn リードジェネレーションカスタム質問](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)
 
 [!UICONTROL LinkedIn リード生成]フォームをカスタマイズし、カスタムリード属性を収集できます。 1 つのフォームにつき最大 3 つのカスタム質問をして、1 行のテキスト入力または複数選択の質問から選択、Marketo リードフィールドにマッピングできるようになりました。
 
@@ -382,7 +395,9 @@ Marketo ABM は CRM に関連する動作を変更しています。 今後、Ma
 
 ![](assets/image003.png)
 
-## [動的アカウントリスト](/help/marketo/product-docs/target-account-management/target/account-lists.md) {#dynamic-account-lists}
+## 動的アカウントリスト {#dynamic-account-lists}
+
+[動的アカウントリスト](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
 ABM でアカウントリストを作成する新しい方法を追加します。 既存のアカウントリストに加えて、パブリック CRM アカウント表示から生成される動的なアカウントリストを作成できるようになりました。 CRM アカウントビューは、アカウントを表示する際にフィルターとして機能する一連のルールです。 例えば、業界がヘルスケアで、_かつ_&#x200B;売上高が 1 億ドルを超えるアカウントを検索する場合に使用できます。
 

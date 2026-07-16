@@ -1,34 +1,14 @@
 ---
-title: "2016"
+title: 2016
 description: 2016 - Marketo Docs – 製品ドキュメント
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2768
-ht-degree: 96%
+source-wordcount: 2906
+ht-degree: 87%
 
 ---
 
@@ -38,25 +18,35 @@ ht-degree: 96%
 
 2016 年冬リリースには、次の機能が含まれています。 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。
 
-## [匿名フィルター](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
+## 匿名フィルター {#is-anonymous-filter}
+
+[匿名フィルター](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md)
 
 スマートリスト用の Is Anonymous フィルターが削除されました。 詳しくは、[次世代 Munchkin 追跡に関する FAQ](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) ドキュメントを参照してください。 この変更は、匿名の web 訪問者と既知の web 訪問者を引き続き識別し、これらの訪問者に対してリアルタイムでコンテンツをパーソナライズするweb パーソナライゼーション（RTP）には影響しません。
 
-## [データベースダッシュボード](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
+## データベースダッシュボード {#database-dashboard}
+
+[データベースダッシュボード](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)
 
 [!UICONTROL リードデータベース]にはアップデートされた概要ダッシュボード（人物データベースの合計サイズ、マーケティング可能なリードの数、上位 5 つのソースによるリードの分類を含む）があります。
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
-## [Microsoft Edge ブラウザー](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
+## Microsoft Edge Browser {#microsoft-edge-browser}
+
+[Microsoft Edge Browser](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md)
 
 Marketo がサポートする[ブラウザーのリスト](https://docs.marketo.com/display/public/DOCS/Supported+Browsers)に [!DNL Microsoft Edge] を追加しました。
 
-## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
+## Microsoft Outlook 2016 {#microsoft-outlook}
+
+[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
 
 [[!DNL Microsoft Outlook]  2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) がサポートされるようになりました。
 
-## [メールプログラム優先スタート](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
+## メールプログラムの先行スタート {#email-program-head-start}
+
+[メールプログラムの先行スタート](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
 
 [!UICONTROL 優先スタート]を使用して、事前に送信の処理を行う必要があることを示します。 プログラムのスケジュール時にリードを適格化してメールを準備する代わりに、[!UICONTROL 優先スタート]は、これらのタスクが確実に、事前に実行されるようにします。 これにより、オーディエンスはスケジュールされた時刻にメールの受信を開始します。
 
@@ -70,7 +60,9 @@ Marketo がサポートする[ブラウザーのリスト](https://docs.marketo.
 >
 >この機能は、2016 年冬のリリース以降、1 週間徐々に公開される予定です。 スマートキャンペーンや API では使用できません。
 
-## [モバイルマーケティングの強化](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
+## モバイルマーケティングの強化 {#mobile-marketing-enhancements}
+
+[モバイルマーケティングの強化](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md)
 
 **[!DNL PhoneGap]の サポート：**&#x200B;モバイルアプリに [!DNL PhoneGap] サポートを提供するようになりました。 [詳細情報](https://developers.marketo.com/documentation/mobile/phonegap-plugin/)
 
@@ -78,11 +70,15 @@ Marketo がサポートする[ブラウザーのリスト](https://docs.marketo.
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [プログラム API](https://developers.marketo.com/documentation/programs/) {#program-api}
+## プログラム API {#program-api}
+
+[プログラム API](https://developers.marketo.com/documentation/programs/)
 
 REST API を介したプログラムの作成、更新、複製. これには、プログラム内でのスマートリストおよびスマートキャンペーンの作成または更新は含まれません。
 
-## [Microsoft Dynamics の強化](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## Microsoft Dynamicsの機能強化 {#microsoft-dynamics-enhancements}
+
+[Microsoft Dynamicsの機能強化](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
 
 **[[!UICONTROL 同期ステータス]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**：同期プロセスの現在のスループットとバックログのタブを保持します。 挿入の数で分類し、オブジェクトごとに更新します。
 
@@ -92,19 +88,25 @@ REST API を介したプログラムの作成、更新、複製. これには、
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
-## [カスタムオブジェクトの強化](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md) {#custom-objects-enhancements}
+## カスタムオブジェクトの機能強化 {#custom-objects-enhancements}
+
+[カスタムオブジェクトの機能強化](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
 
 複数のリンクフィールドを持つ中間オブジェクトを使用して、リード／顧客とカスタムオブジェクトとの間に多対多の関係を作成できるようになりました。
 
 ![](assets/image2016-1-11-12-3a59-3a59.png)
 
-## [Facebook リード広告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
+## Facebook リード広告 {#facebook-lead-ads}
+
+[Facebook リード広告](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
 
 [[!UICONTROL Facebook リード広告]](https://www.facebook.com/business/a/lead-ads)は、ビジネスが [!DNL Facebook] でリードジェネレーションキャンペーンを実行する際の、より直接的な方法です。 リードは、フォームに入力することで製品やサービスに対する関心を示し、それによってビジネスはフォローアップできます。 Marketo と [!UICONTROL Facebook リード広告]の統合により、リードがリード広告フォーム内で提供する情報が自動的に取り込まれます。 その後、新しい [!UICONTROL Facebook リード広告の入力]トリガーを使用して、フォローアップのアクションと通知を自動化できます。
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 
-## [Web（リアルタイムパーソナライズ）キャンペーンスケジューラー](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md) {#web-real-time-personalization-campaign-scheduler}
+## Web （Real-Time Personalization）キャンペーンスケジューラー {#web-real-time-personalization-campaign-scheduler}
+
+[Web （Real-Time Personalization）キャンペーンスケジューラー](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md)
 
 キャンペーンを事前にスケジュールします。 パーソナライズされた web コンテンツの開始日と終了日を設定し、特定の日時にキャンペーンを繰り返します。 Web 訪問者の時間または選択したタイムゾーンに従って、キャンペーンを表示するスケジュールをパーソナライズします。
 
@@ -114,7 +116,9 @@ REST API を介したプログラムの作成、更新、複製. これには、
 
 16 年春リリースには、次の機能が含まれています。 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。
 
-## [メールインサイト](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md) {#email-insights}
+## メールインサイト {#email-insights}
+
+[メールインサイト](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md)
 
 メールインサイトは、過去の新しい集計データのメール分析エクスペリエンスです。迅速なパフォーマンスを実現するエンドツーエンドで再設計されました。 メールマーケターのニーズやワークフローに合わせて最適化された、まったく新しいユーザインターフェイスデザインが特徴です。
 
@@ -124,7 +128,9 @@ REST API を介したプログラムの作成、更新、複製. これには、
 
 ![](assets/two.png)
 
-## [メールテンプレート選択ツール](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
+## メールテンプレートピッカー {#email-template-picker}
+
+[メールテンプレートピッカー](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md)
 
 新しい初期テンプレートで見栄えの良いレスポンシブ対応メールを作成できます。 また、ライブサムネールからテンプレートをすばやく見つけることができます。
 
@@ -134,33 +140,45 @@ REST API を介したプログラムの作成、更新、複製. これには、
 
 ![](assets/5-29-home-starter-templates.png)
 
-## [メール編集 - 再設計](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-editing-re-imagined}
+## メール編集：再構築 {#email-editing-re-imagined}
+
+[メール編集：再構築](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 
 メールエディターが完全に新しくなりました。 軽量なドラッグ＆ドロップ機能を使用して、コンテンツを追加し、並べ替えます。 画像、ビデオ、変数、モジュールなどの新しい要素で、編集操作が強化されます。 更新されたコードエディター、プレビューア、プリヘッダーのサポートも確認してください。
 
 ![](assets/17a-29-modules-next.png)
 
-## [モバイルアプリ内メッセージ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md) {#mobile-in-app-messages}
+## モバイルアプリ内メッセージ {#mobile-in-app-messages}
+
+[モバイルアプリ内メッセージ](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
 
 Marketo 内で、アプリの見事なアプリ内メッセージを作成できます。 アプリ内メッセージプログラムで、誰にいつ表示するかを正確に定義します。 プログラムダッシュボードを使用して、パフォーマンスを簡単に監視できます。
 
 ![](assets/pasted-image-at-2016-05-24-09-45-am.png)
 
-## [ドラフトなしのスニペット](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md) {#no-draft-snippets}
+## ドラフトスニペットなし {#no-draft-snippets}
+
+[ドラフトスニペットなし](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
 
 スニペットが更新されるたびにすべてを再承認する必要がなくなりました。 No-Draft で、スニペットを使用するすべてのメールとランディングページがスニペットの更新を受け取り、以前のステータスを維持します。 スニペットを承認するたびに、No-Draft を実行してすべてを更新するか、ドラフトを作成するかを選択できます。 それはあなた次第です！ No-Draft は、すべての顧客が利用でき、管理者の新しい権限で管理されます。
 
 ![](assets/image2016-5-16-15-3a41-3a17.png)
 
-## [ランディングページ、ランディングページテンプレート、フォーム API](https://developers.marketo.com/blog/spring-2016-updates/) {#landing-page-landing-page-template-and-form-apis}
+## ランディングページ、ランディングページテンプレート、フォーム API {#landing-page-landing-page-template-and-form-apis}
+
+[ランディングページ、ランディングページテンプレート、フォーム API](https://developers.marketo.com/blog/spring-2016-updates/)
 
 Marketo REST API で、Marketo のランディングページ、ランディングページテンプレートおよびフォームの制御がサポートされるようになりました。 Marketo REST API を使用して、これらのアセットの作成、コンテンツの更新、承認、削除を直接おこなえます。
 
-## [API アクセスのために IP を許可リストに追加](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## API アクセス用のIP 許可リストに加える {#ip-allowlisting-for-api-access}
+
+[API アクセス用のIP 許可リストに加える](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
 
 Marketo ユーザログインの IP 許可リストに追加する機能と同様に、Marketo 管理者は、Marketo SOAP および REST API にアクセスできる IP アドレスの許可リストを設定できるようになりました。これにより、許可されていない IP アドレスからのアクセスをブロックできます。 Marketo インスタンスのセキュリティレイヤーが強化され、API アクセスは組織のネットワーク内からのみ可能になります。 この設定方法の詳細は、[Marketo ドキュメントサイト](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)にあります。
 
-## [新しい高速 Microsoft Dynamics 同期コネクタ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## 新しい高速Microsoft Dynamics Sync コネクタ {#new-high-speed-microsoft-dynamics-sync-connector}
+
+[新しい高速Microsoft Dynamics Sync コネクタ](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)
 
 新しい高速 Dynamics コネクタは、初期同期の場合は最大 20 倍、増分同期の場合は最大 5 倍の速度を提供します。 新規顧客はすべて、リリース日にこのコネクタにオンボーディングされます。既存顧客に対しては、夏のリリース期間中に徐々に展開されます。
 
@@ -176,9 +194,11 @@ Marketo ユーザログインの IP 許可リストに追加する機能と同�
 
 **[!DNL Microsoft Dynamics]2016**：コネクタは、[!DNL Dynamics] 2016 [!DNL Online] および [!DNL On-premise] バージョンで完全に認定されています。
 
-**プラグインのアップデートに関するドキュメントが追加されました。**&#x200B;[プラグインの更新に関するドキュメントの記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
+**プラグインのアップデートに関するドキュメントが追加されました。**[プラグインの更新に関するドキュメントの記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
 
-## [わかりやすいインスタンス名](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
+## わかりやすいインスタンス名 {#friendly-instance-name}
+
+[わかりやすいインスタンス名](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md)
 
 現在、サンドボックスや実稼動インスタンスなど、Marketo インスタンスを区別することは困難です。 この機能を使用すると、現在作業中のインスタンスを把握できます。
 
@@ -190,7 +210,9 @@ Marketo ユーザログインの IP 許可リストに追加する機能と同�
 
 ![](assets/image2016-5-16-15-3a59-3a52.png)
 
-## [カスタムオブジェクトグリッド](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) {#custom-objects-grid}
+## カスタムオブジェクトグリッド {#custom-objects-grid}
+
+[カスタムオブジェクトグリッド](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 すべての公開済みカスタムオブジェクトのレコードとフィールドの数を表示できるようになりました。
 
@@ -204,7 +226,9 @@ Marketo 管理者は、Marketo カスタムアクティビティ定義モデラ�
 
 2016 年夏リリースには、次の機能が含まれています。 お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。
 
-## [アカウントベースドマーケティング](https://docs.marketo.com/display/docs/account+based+marketing) {#account-based-marketing}
+## アカウントベースドマーケティング {#account-based-marketing}
+
+[アカウントベースドマーケティング](https://docs.marketo.com/display/docs/account+based+marketing)
 
 Marketo のアカウントベースドマーケティングは、1 つの統合プラットフォームですべての基本事項を提供します。
 
@@ -218,7 +242,9 @@ Marketo のアカウントベースドマーケティングは、1 つの統合�
 >
 >ABM は Marketo サブスクリプションのアドオンとして利用できるので、実装するには営業担当にお問い合わせください。
 
-## [監査記録](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
+## 監査記録 {#audit-trail}
+
+[監査記録](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
 
 監査記録は、Marketo サブスクリプション内でおこなわれた変更の包括的な履歴を提供します。 これにより、ユーザーや管理者間で説明責任を作成し、予期しない行動の原因を特定し、誰がいつ何をしているかを知るセキュリティが確保されます。 この情報は、いつでも使用可能で、次のような質問に回答するために使用できます。
 
@@ -238,7 +264,9 @@ Marketo 内で SMS メッセージを簡単に作成できます。 リッチ Ma
 
 ![](assets/vibes-sms2.png)
 
-## [Email 2.0 の強化](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md) {#email-enhancements}
+## メール 2.0の機能強化 {#email-enhancements}
+
+[メール 2.0の機能強化](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
 
 **モジュールレベルの変数**
 
@@ -267,37 +295,51 @@ Marketo 内で SMS メッセージを簡単に作成できます。 リッチ Ma
 
 ![](assets/multiple-branding-domains.png)
 
-## [プログラムトークン](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) {#program-tokens}
+## プログラムトークン {#program-tokens}
+
+[プログラムトークン](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
 
 プログラムの新しいトークンの種類が作成されました。 アセットとスマートキャンペーンのフローステップで、プログラム名、説明および ID をレンダリングできるようになりました。
 
 ![](assets/program-tokens.png)
 
-## [エンタープライズキー](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
+## エンタープライズキー {#enterprise-key}
+
+[エンタープライズキー](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md)
 
 セールスチームの各メンバーに [!DNL Outlook] 用の [!DNL Sales Insight] プラグインをインストールするよう要求するのは、面倒で手間がかかります。 エンタープライズキーを使用して [!DNL Outlook] 用のプラグインをリモートでインストールする新しい方法が導入されました。 [!UICONTROL 管理者]の Marketo [!DNL Sales Insight] セクションにある固有のキーを IT チームに送信し、残りの作業を行ってもらいます。
 
 ![](assets/enterprise-key.png)
 
-## [Web パーソナライゼーションキャンペーン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) {#web-personalization-campaigns}
+## Web Personalizationのキャンペーン {#web-personalization-campaigns}
+
+[Web Personalizationのキャンペーン](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
 
 ウェブサイト上で web キャンペーンが反応するまでの時間を指定します。
 
 ![](assets/dialog-campaign-delay.png)
 
-## [コンテンツ分析＆レコメンデーションのエクスポート](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## Content AnalyticsとRecommendationsの書き出し {#content-analytics-and-recommendations-export}
+
+[Content AnalyticsとRecommendationsの書き出し](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
 
 コンテンツ分析＆レコメンデーションデータをオンラインで表示.
 
-## [Email Editor 2.0 用の API サポート](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## メールエディター2.0のAPI サポート {#api-support-for-email-editor}
+
+[メールエディター2.0のAPI サポート](https://developers.marketo.com/documentation/asset-api/)
 
 以前は v1.0 のメールとテンプレートとのみ互換性があった、既存の Asset API が v2.0 のメールアセットで有効になりました。
 
-## [Marketo デベロッパーサイト](https://developers.marketo.com/) {#marketo-developers-site}
+## Marketo Developers Site {#marketo-developers-site}
+
+[Marketo Developers Site](https://developers.marketo.com/)
 
 デベロッパーサイトをリニューアル
 
-## [プライバシー設定](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
+## プライバシー設定 {#privacy-settings}
+
+[プライバシー設定](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md)
 
 マーケターは、プライバシー設定を使用して、[!DNL Munchkin] と web パーソナライゼーション機能を使用して訪問者を追跡するかどうかを決定できます。 トラッキングレベルは、ブラウザーの「Do Not Track」設定、オプトアウト Cookie、特定でない IP を使用して制御します。 これらの方法は、特定の分野での Marketo の価値や機能に影響を与える可能性がありますが、マーケターが何も変更しない場合、Marketo の機能は変わりません。
 
@@ -321,7 +363,9 @@ Marketo 内で SMS メッセージを簡単に作成できます。 リッチ Ma
 
 ![](assets/predictive.png)
 
-## [Facebook オフラインコンバージョン](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## Facebook オフラインコンバージョン {#facebook-offline-conversions}
+
+[Facebook オフラインコンバージョン](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
 
 [!DNL Facebook] オフラインコンバージョン統合では、Marketo（リード広告リード用）のコンバージョンデータが [!DNL Facebook] に自動的に送り返されるので、広告チームが広告費用をより最適化できます。 この [!DNL Facebook] Ad Manager レポートでは、オフラインのコンバージョンが強調表示されます。
 
@@ -347,7 +391,9 @@ Marketo 内で SMS メッセージを簡単に作成できます。 リッチ Ma
 
 また、このリリースでは、Marketo REST API を使用して、ABM で重点顧客属性とアカウントスコアを管理することもできます。 API 操作の詳細については、[Marketo 開発者 web サイト](https://developers.marketo.com/rest-api/lead-database/named-accounts)にアクセスしてください。
 
-## [監査記録の強化](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
+## 監査記録の機能強化 {#audit-trail-enhancements}
+
+[監査記録の機能強化](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md)
 
 監査記録は、Marketo サブスクリプション内でおこなわれた変更の包括的な履歴を提供します。 プログラムの追跡機能を追加し、スマートキャンペーン、スマートリスト、ユーザおよびロールに加えられた変更に関する重要な変更の詳細を提示する機能を追加しました。
 
@@ -361,7 +407,9 @@ Marketo 内で SMS メッセージを簡単に作成できます。 リッチ Ma
 
 強制できない[キャンペーン制限](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)を設定する理由はありません。 キャンペーンの制限を設定して、1 つのキャンペーンでターゲットに設定できるユーザ数をデータベース内で制限する場合、キャンペーンをスケジュールする際に、これらの設定を上書きできるユーザを制限できるようになりました。
 
-## [モバイルプッシュ通知のサウンド](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
+## モバイルプッシュ通知のサウンド {#sound-for-mobile-push-notifications}
+
+[モバイルプッシュ通知のサウンド](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
 
 サウンドを有効にして、iOS のプッシュ通知を充実させます。 この新機能を使用すると、モバイルデバイスにプッシュ通知が表示されたときにサウンドをトリガーできます。
 
@@ -372,19 +420,27 @@ Marketo 内で SMS メッセージを簡単に作成できます。 リッチ Ma
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Salesforce 暗号化と互換性のあるセールスインサイト](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## Sales InsightとSalesforce Encryptionの互換性 {#sales-insight-compatible-with-salesforce-encryption}
 
-Market [!DNL Sales Insight] は、[!DNL Salesforce] Shield Encryption と互換性を持つようになりました。 [!DNL Sales Insight] を使用中の顧客は、[&#x200B; [!DNL Appexchange] で利用可能な](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)最新の管理パッケージ（バージョン 1.4359.2）にアップグレードする必要があります。
+[Sales InsightとSalesforce Encryptionの互換性](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
-## [重点顧客 API](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+Market [!DNL Sales Insight] は、[!DNL Salesforce] Shield Encryption と互換性を持つようになりました。 [!DNL Sales Insight] を使用中の顧客は、[ [!DNL Appexchange] で利用可能な](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)最新の管理パッケージ（バージョン 1.4359.2）にアップグレードする必要があります。
+
+## 名前付きアカウント API {#named-accounts-apis}
+
+[名前付きアカウント API](https://developers.marketo.com/rest-api/lead-database/named-accounts/)
 
 このリリースでは、Marketo ABM ユーザは重点顧客 API を介して重点顧客を管理できます。 重点顧客の作成、更新、削除、ABM 重点顧客スコアの読み取りと更新が可能です。
 
-## [メールエディター v2.0 API のサポート](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## メールエディターv2.0 API サポート {#email-editor-v-api-support}
+
+[メールエディターv2.0 API サポート](https://developers.marketo.com/rest-api/assets/emails/)
 
 Marketo REST API を使用して、v2.0 形式のメールの変数とモジュールを管理します。
 
-## [Marketo Salesforce 同期の変更](https://nation.marketo.com/docs/DOC-3840) {#changes-to-marketo-salesforce-sync}
+## Marketo Salesforce Syncの変更点 {#changes-to-marketo-salesforce-sync}
+
+[Marketo Salesforce Syncの変更点](https://nation.marketo.com/docs/DOC-3840)
 
 Marketo の [!DNL Salesforce] 統合は進化し、Marketo フィールドを [!DNL Salesforce] と同期する方法が改善されています。 必要に応じて、大量のフィールドを同期する代わりに、含めるフィールドを選択して選択することができます。 詳細は、[https://nation.marketo.com/docs/DOC-3840](https://nation.marketo.com/docs/DOC-3840) でドキュメントをご覧ください。
 

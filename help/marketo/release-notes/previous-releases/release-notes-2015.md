@@ -1,38 +1,13 @@
 ---
-title: "2015"
+title: 2015
 description: 2015 - Marketo Docs – 製品ドキュメント
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: c954475c-8548-4e33-a0b8-6b550d956115
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: c18d9e03-ac7d-4811-9c92-3e92ddc70ade
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: c954475c-8548-4e33-a0b8-6b550d956115id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e2290edd-b061-4880-9d79-dee306cf5aa9id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: df8eb12b-4f82-491f-acbb-d74012ca5654id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c18d9e03-ac7d-4811-9c92-3e92ddc70adeid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eb30f47f-d87a-400f-8f78-63ce7979ff56id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2871
+source-wordcount: 2874
 ht-degree: 90%
 
 ---
@@ -50,7 +25,7 @@ ht-degree: 90%
 
 ランディングページエディターから[ランディングページ用のモバイルビューの作成](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)をおこなうことができます。 デバイスに関係なく効果的にメッセージを配信し、コンテンツを調整して、外出先で簡単に使えるようにすることで、エンゲージメントを高めます。 この機能は、リリース後の週を通じて徐々に展開されます。
 
-[&#x200B; – ランディングページのチュートリアル動画 – &#x200B;](https://youtu.be/aPQHlG2X6c0)
+[ – ランディングページのチュートリアル動画 – ](https://youtu.be/aPQHlG2X6c0)
 
 **新規 REST API 呼び出し**
 
@@ -267,9 +242,11 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 
 2015 年 6 月リリースには、次の機能が含まれています。 利用可能な機能についてはお使いの Marketo のエディションをご確認ください。 リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
 
-## [属性電子メール レポート](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
+## アトリビューションメールレポート {#attribution-email-report}
 
-マーケティング活動に提供される価値のパーソナライゼーションと推奨コンテンツを参照します。 [&#x200B; アトリビューションメールレポート &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)には、RTPのパーソナライゼーションと推奨コンテンツキャンペーンから関連付けられた、直接および支援されたリードが表示されます。 RTPの「ユーザー設定とメールレポート」で、アトリビューションメールレポートを追加して、月単位または四半期単位のメールを受信します。
+[アトリビューションメールレポート](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
+
+マーケティング活動に提供される価値のパーソナライゼーションと推奨コンテンツを参照します。 [ アトリビューションメールレポート ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)には、RTPのパーソナライゼーションと推奨コンテンツキャンペーンから関連付けられた、直接および支援されたリードが表示されます。 RTPの「ユーザー設定とメールレポート」で、アトリビューションメールレポートを追加して、月単位または四半期単位のメールを受信します。
 
 ## 2015年7月 {#july}
 
@@ -281,7 +258,8 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 
 ## リッチテキストエディターのアップデート {#rich-text-editor-update}
 
-合理化されたテキスト書式設定、画像編集、リンク挿入、HTML 編集など、テキストエディターが最新のルックアンドフィールで新しくなりました。 HTML エディターに最小限の検証機能が追加され、コード編集の制限が緩和されました。`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` このアップデートは、7月のリリースから数日以内に自動的に公開されます。 その後、**[!UICONTROL 管理者]／[!UICONTROL メール]／[!UICONTROL エディター設定を編集]**&#x200B;から、新バージョンと旧バージョンのエディターを切り替えることができます。
+合理化されたテキスト書式設定、画像編集、リンク挿入、HTML 編集など、テキストエディターが最新のルックアンドフィールで新しくなりました。 HTML エディターに最小限の検証機能が追加され、コード編集の制限が緩和されました。
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` このアップデートは、7月のリリースから数日以内に自動的に公開されます。 その後、**[!UICONTROL 管理者]／[!UICONTROL メール]／[!UICONTROL エディター設定を編集]**&#x200B;から、新バージョンと旧バージョンのエディターを切り替えることができます。
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -347,7 +325,7 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 
 ## [!DNL Google Chrome] 用 Marketo Insights {#marketo-insights-for-google-chrome}
 
-[&#x200B; [!DNL Google Chrome] 用 Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[ [!DNL Google Chrome] 用 Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 [!DNL Google Mail] [!DNL Sales Insight]拡張機能の更新プログラムのリリースをお知らせします。 [[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb) で確認できます。
 
