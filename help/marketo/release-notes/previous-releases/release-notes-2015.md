@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2871
+source-wordcount: 2874
 ht-degree: 90%
 
 ---
@@ -267,7 +267,9 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 
 2015 年 6 月リリースには、次の機能が含まれています。 利用可能な機能についてはお使いの Marketo のエディションをご確認ください。 リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
 
-## [属性電子メール レポート](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
+## アトリビューションメールレポート {#attribution-email-report}
+
+[アトリビューションメールレポート](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
 マーケティング活動に提供される価値のパーソナライゼーションと推奨コンテンツを参照します。 [&#x200B; アトリビューションメールレポート &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)には、RTPのパーソナライゼーションと推奨コンテンツキャンペーンから関連付けられた、直接および支援されたリードが表示されます。 RTPの「ユーザー設定とメールレポート」で、アトリビューションメールレポートを追加して、月単位または四半期単位のメールを受信します。
 
@@ -281,7 +283,8 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 
 ## リッチテキストエディターのアップデート {#rich-text-editor-update}
 
-合理化されたテキスト書式設定、画像編集、リンク挿入、HTML 編集など、テキストエディターが最新のルックアンドフィールで新しくなりました。 HTML エディターに最小限の検証機能が追加され、コード編集の制限が緩和されました。`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` このアップデートは、7月のリリースから数日以内に自動的に公開されます。 その後、**[!UICONTROL 管理者]／[!UICONTROL メール]／[!UICONTROL エディター設定を編集]**&#x200B;から、新バージョンと旧バージョンのエディターを切り替えることができます。
+合理化されたテキスト書式設定、画像編集、リンク挿入、HTML 編集など、テキストエディターが最新のルックアンドフィールで新しくなりました。 HTML エディターに最小限の検証機能が追加され、コード編集の制限が緩和されました。
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` このアップデートは、7月のリリースから数日以内に自動的に公開されます。 その後、**[!UICONTROL 管理者]／[!UICONTROL メール]／[!UICONTROL エディター設定を編集]**&#x200B;から、新バージョンと旧バージョンのエディターを切り替えることができます。
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 

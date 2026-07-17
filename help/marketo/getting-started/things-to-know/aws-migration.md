@@ -4,10 +4,10 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 4cdacd070daedd0ecc8f619c994f343b14c00adb
+source-git-commit: 55a3bfe19da19ebfdf3f565ac4a4dbe2ca6041a2
 workflow-type: tm+mt
-source-wordcount: '459'
-ht-degree: 7%
+source-wordcount: '488'
+ht-degree: 6%
 
 ---
 
@@ -39,6 +39,10 @@ ht-degree: 7%
 
 * **CRM統合とLaunchPoint サービス**&#x200B;は無効になりますが、後で自動的に再開する必要があります。
 * **ランディングページ、フォーム、データ収集**&#x200B;は利用できなくなり、代わりにメンテナンスメッセージが表示されます。
+
+>[!NOTE]
+>
+>[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行中にデータを保持する場合は、[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support){target="_blank"}に連絡し、フォーム IDとサブスクリプションのMunchkin IDを指定してください。
 
 ## データセンター/ポッドの特定 {#identify}
 
@@ -89,8 +93,8 @@ ht-degree: 7%
    NLD104</td>
    <td>午前10時（太平洋夏時間）<br>
    午前11時（太平洋夏時間）</td>
-   <td>予定通り<br>
-   予定通り</td>
+   <td>完了<br>
+   完了日</td>
   </tr>
   <tr>
    <td>2026年7月17日（PT）</td>
