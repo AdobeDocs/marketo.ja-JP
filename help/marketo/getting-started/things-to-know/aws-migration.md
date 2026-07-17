@@ -42,7 +42,7 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行中にデータを保持する場合は、[Adobe サポート &#x200B;](https://experienceleague.adobe.com/en/support){target="_blank"}に連絡し、フォーム IDとサブスクリプションのMunchkin IDを指定してください。
+>[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行中にデータを保持する場合は、[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support){target="_blank"}に連絡し、フォーム IDとサブスクリプションのMunchkin IDを指定してください。
 
 ## データセンター/ポッドの特定 {#identify}
 
@@ -170,4 +170,4 @@ ht-degree: 6%
 
 ## アップデートとサポート {#support}
 
-最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}からAdobe サポートにお問い合わせください。
+最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
