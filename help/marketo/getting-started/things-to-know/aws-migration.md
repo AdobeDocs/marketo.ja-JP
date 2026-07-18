@@ -4,9 +4,9 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 55a3bfe19da19ebfdf3f565ac4a4dbe2ca6041a2
+source-git-commit: cd0b1dece6129df76deb7eb9c8953711d4d29e45
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '486'
 ht-degree: 6%
 
 ---
@@ -102,8 +102,8 @@ ht-degree: 6%
    NLD105</td>
    <td>午前10時（太平洋夏時間）<br>
    午前11時（太平洋夏時間）</td>
-   <td>予定通り<br>
-   予定通り</td>
+   <td>完了<br>
+   完了日</td>
   </tr>
   <tr>
    <td>2026年7月21日（PT）</td>
