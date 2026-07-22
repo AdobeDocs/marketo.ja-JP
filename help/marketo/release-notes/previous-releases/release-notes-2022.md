@@ -1,33 +1,13 @@
 ---
-title: "2022"
+title: 2022
 description: 2022 - Marketo Docs – 製品ドキュメント
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 4282
+source-wordcount: 4311
 ht-degree: 90%
 
 ---
@@ -50,8 +30,8 @@ ht-degree: 90%
 
 * **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、切替スイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
-   * [!UICONTROL デザインスタジオ]でのランディングページアセットの詳細
-   * [!UICONTROL マーケティングアクティビティ]のランディングページアセットの詳細
+  * [!UICONTROL デザインスタジオ]でのランディングページアセットの詳細
+  * [!UICONTROL マーケティングアクティビティ]のランディングページアセットの詳細
 
 ## [!DNL Microsoft Dynamics] 統合 {#microsoft-dynamics-integration}
 
@@ -83,7 +63,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 [!DNL Salesforce] CRM 用の **[!DNL Sales Insight]**
 
-* **ベストベット [!UICONTROL の新しいタイプ列]**：販売者は、[!UICONTROL &#x200B; ベストベット &#x200B;] ページで「タイプ」というラベルの付いた新しい列を使用して、リードと取引先責任者を区別するためにより迅速なインサイトを得られます。
+* **ベストベット [!UICONTROL の新しいタイプ列]**：販売者は、[!UICONTROL  ベストベット ] ページで「タイプ」というラベルの付いた新しい列を使用して、リードと取引先責任者を区別するためにより迅速なインサイトを得られます。
 
 * **[!DNL Salesforce]Platform API のアップデート**：[!DNL Salesforce] が [!DNL Salesforce] Platform API バージョン 21.0 ～ 30.0 を廃止したのに対応して、[!DNL Sales Insight] パッケージが最新の API でアップデートされました。
 
@@ -107,7 +87,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **フォームエンドポイントの廃止**：leadCapture/save2 エンドポイントに対する、サポートされていないプログラム形式の POST は、Marketo Engage フォームによって拒否されます。 [こちら](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631)をクリックすると、詳細が表示されます。
 
-* **ユーザーを招待ダイアログにログイン**:3月に、既存のオプション機能「ユーザーを招待ダイアログにログイン」が廃止されます。 機能「[!UICONTROL &#x200B; ユーザーを招待ダイアログにログイン &#x200B;]」機能は、今後のAdobe Identity Management System Integrationに必要なユニバーサル ID機能によって上書きされ、すべてのサブスクリプションで2021年8月に有効になりました。 廃止の結果、Marketo Engage の購読では、メールアドレスごとにユーザを 1 名だけ関連付けられるようになります。
+* **ユーザーを招待ダイアログにログイン**:3月に、既存のオプション機能「ユーザーを招待ダイアログにログイン」が廃止されます。 機能「[!UICONTROL  ユーザーを招待ダイアログにログイン ]」機能は、今後のAdobe Identity Management System Integrationに必要なユニバーサル ID機能によって上書きされ、すべてのサブスクリプションで2021年8月に有効になりました。 廃止の結果、Marketo Engage の購読では、メールアドレスごとにユーザを 1 名だけ関連付けられるようになります。
 
 **Marketo Engage ドメイン - [!DNL Sales Insight] 設定**：SSL 証明書がプロビジョニングされていない Marketo Engage ドメインおよび https:// の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。 したがって、これらのドメインは廃止される予定です。 その結果、これらのドメインを指す古い設定を持つ [!DNL Sales Insight] ユーザには、リード、取引先責任者、顧客、商談パネル、または Marketo グローバルページでシステムコールアウトエラーが発生する可能性があります。 このエラーが発生した場合、[!DNL Salesforce] で [Marketo Engage 設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をアップデートすることをお勧めします。 ドキュメントの「[!DNL Marketo Sales Insight] 設定」節でハイライトされている Marketo Engage 資格情報のみを更新する必要があります。
 
@@ -129,7 +109,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ## クロスチャネルオーケストレーション
 
-* **[!DNL Dynamic Chat]**：積極的で魅力的な、1:1個のパーソナライズされた会話を使用して、リードとアカウントの両方をターゲットにすることで、web サイト上のあらゆる機会を最大化します。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engage ユーザは、B2B マーケティングおよびセールスのユースケースに対して、統合されたクロスチャネルエクスペリエンスの主要部として、チャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。 動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
+* **[!DNL Dynamic Chat]**：積極的で魅力的な、一対一のパーソナライズされた会話でリードとアカウントの両方をターゲットにすることで、web サイト上のあらゆる機会を最大化します。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engage ユーザは、B2B マーケティングおよびセールスのユースケースに対して、統合されたクロスチャネルエクスペリエンスの主要部として、チャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。 動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
 
 * **メールボットアクティビティのフィルタリング機能強化**：以前にリリースした[メールボットアクティビティのフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}を機能強化し、ボットとして識別されたアクティビティの記録をオプトインできるようになりました。 ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
 
@@ -137,7 +117,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、切替スイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
-   * [!UICONTROL デザインスタジオ]でのフォームリスト表示（新しい一括アクションを含む）
+  * [!UICONTROL デザインスタジオ]でのフォームリスト表示（新しい一括アクションを含む）
 
 * **プログラムワークフローインポートのアップデート**：プログラムワークフローのインポートは、デザインと操作性をアップデートして機能強化した、次世代のエクスペリエンスで提供されます。 切替スイッチはなく、自動的に変更されます。
 
@@ -239,7 +219,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 **メールの検証と一意性**：4月から、メール検証のロールアウトが開始されます。 その時点で、Marketo Engage ユーザのメールアドレスには、検証と一意性が必須となります（API のみのユーザには適用されません）。 ディレクトリサービスの認証済みユーザは、メールの検証でサブスクリプションが有効になっている場合、自動的にメールを検証します。
 
-「[!UICONTROL &#x200B; ユーザーを招待ダイアログにログイン &#x200B;]」機能を使用するか、複数のユーザーに関連付けられた1つの電子メールを持つサブスクリプションの電子メール検証は、5月のリリースと一致します。 複数のユーザに関連付けられた単一のメールを持つサブスクリプションは、メールの検証で有効になり、競合を解決してユーザごとに一意のメールを使用するよう求められます。 「ユーザーを招待ダイアログにログイン」機能が有効になっている場合、この機能を介して招待されたユーザーには一意のメールアドレスが必要になります。 API のみのユーザがこの機能を使用して招待された場合、メールアドレスを一意にする必要はありません。
+「[!UICONTROL  ユーザーを招待ダイアログにログイン ]」機能を使用するか、複数のユーザーに関連付けられた1つの電子メールを持つサブスクリプションの電子メール検証は、5月のリリースと一致します。 複数のユーザに関連付けられた単一のメールを持つサブスクリプションは、メールの検証で有効になり、競合を解決してユーザごとに一意のメールを使用するよう求められます。 「ユーザーを招待ダイアログにログイン」機能が有効になっている場合、この機能を介して招待されたユーザーには一意のメールアドレスが必要になります。 API のみのユーザがこの機能を使用して招待された場合、メールアドレスを一意にする必要はありません。
 
 **フォルダー動作の変更をアーカイブ**：このリリースで、アーカイブフォルダーに新しいアセットを作成する機能は、ツリーのコンテキストメニューから使用できなくなりました。 新しいアセットを作成するためのメニューオプションは、すべてのアセットで非表示になります。 詳しくは、[こちらを参照](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}してください。
 
@@ -275,8 +255,8 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 **新しい切替スイッチ表示**：次世代のエクスペリエンスで、以下の表示を利用できるようになりました。
 
-* [メールの詳細表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [メールリスト表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [メールの詳細表示](https://experienceleague.adobe.com/ja/docs/marketo/using/home){target="_blank"}
+* [メールリスト表示](https://experienceleague.adobe.com/ja/docs/marketo/using/home){target="_blank"}
 
 ## エクスペリエンスの自動化
 
@@ -292,7 +272,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ![（星印）](assets/yellow-star.png)
 
-* **[!DNL Sales Insight]&#x200B;[!DNL Salesforce]** での権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部である Marketo アプリ権限セットを使用して、プロファイルレベルではなく、ユーザレベルで限られた一連のユーザに対して [!DNL Sales Insight] のアクセス権を提供できます。
+* **[!DNL Sales Insight][!DNL Salesforce]** での権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部である Marketo アプリ権限セットを使用して、プロファイルレベルではなく、ユーザレベルで限られた一連のユーザに対して [!DNL Sales Insight] のアクセス権を提供できます。
 
 * **My Marketo タイルのアップデート - [!DNL Sales Insight]アクション**：Marketo 管理者（および指定したユーザ）は、マイ Marketo ページにある新しい [!DNL Sales Insight] アクションタイルから、[!DNL Sales Insight] アクションインスタンスにすばやく移動できるようになりました。
 
@@ -340,10 +320,10 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **移動ダイアログでの保存先フォルダーのフォルダー階層の表示**：各フォルダーのフォルダー階層を表示すると、アセットの移動が容易になり、誤ったフォルダーに入れられる可能性が低減されます。
 
-* **[次世代エクスペリエンスのための画面の更新](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**：次世代のエクスペリエンスで、切替スイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
+* **[次世代のエクスペリエンスでScreensを更新しました](https://experienceleague.adobe.com/ja/docs/marketo/using/home){target="_blank"}**：次の世代のエクスペリエンスで、トグルスイッチを介してアクセスできる更新されたデザインと使いやすさの機能強化を提供する、更新された新しい画面を提供しています。
 
-   * スニペット詳細
-   * 「画像とファイル」詳細
+  * スニペット詳細
+  * 「画像とファイル」詳細
 
 >[!NOTE]
 >
@@ -433,8 +413,8 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、切替スイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
-   * ランディングページテンプレートの詳細
-   * メールテンプレートリスト
+  * ランディングページテンプレートの詳細
+  * メールテンプレートリスト
 
 <table>
   <tr>
@@ -443,7 +423,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
   </tr>
   <tr>
    <td>リリース</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切替スイッチ</a></td>
+   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/home">切替スイッチ</a></td>
   </tr>
   </tbody>
 </table>
