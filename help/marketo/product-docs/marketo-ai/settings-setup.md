@@ -77,7 +77,7 @@ _Marketo AI_&#x200B;へのアクセス権限と&#x200B;_Marketo AI User_&#x200B;
 
 ### カスタム役割 {#custom-role}
 
-また、[新しいロール &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して権限をカスタマイズし、_必要な他のロールと共に_ Marketoにアクセスし、[そのロール &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てるオプションもあります。
+また、[新しいロール &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して権限をカスタマイズし、_必要な他のロールと共に_ Marketoにアクセスし、[そのロール &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てるオプションもあります。
 
 ## 設定 {#settings}
 
