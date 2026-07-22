@@ -3,7 +3,7 @@ description: Marketo AI権限を有効にする方法、組織ルールを設定
 title: 設定と設定
 badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
 workflow-type: tm+mt
 source-wordcount: '537'
 ht-degree: 5%
@@ -81,7 +81,7 @@ _Marketo AI_&#x200B;へのアクセス権限と&#x200B;_Marketo AI User_&#x200B;
 
 ## 設定 {#settings}
 
-1. マイMarketoで、**Marketo AI** タイルをクリックします。
+1. マイMarketoで、**[!UICONTROL Marketo AI]** タイルをクリックします。
 
    ![](assets/settings-setup-7.png)
 

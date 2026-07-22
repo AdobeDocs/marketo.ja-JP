@@ -27,9 +27,9 @@ topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
 workflow-type: tm+mt
-source-wordcount: 834
+source-wordcount: 833
 ht-degree: 14%
 
 ---
@@ -213,7 +213,7 @@ ht-degree: 14%
     <td>Personalization エディター</td>
     <td>トークンを使用してメールのコンテンツをパーソナライズする機能。</td>
     <td>対応可能</td>
-    <td>一部のみ利用可能</td>
+    <td>対応可能</td>
   </tr>
   <tr>
     <td>モジュール</td>
