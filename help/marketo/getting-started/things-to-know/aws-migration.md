@@ -4,9 +4,9 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: cd0b1dece6129df76deb7eb9c8953711d4d29e45
+source-git-commit: b38557d141ba7364fa5900ba0b87c7ba9d24da4d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 6%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 6%
 
 * **ログイン、API アクセス、電子メール送信、web トラッキング、および統合に関するIP許可リスト**&#x200B;のレビューと更新。
 
-* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[&#x200B; テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
+* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[ テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
 
 ## 期待されるサービス効果 {#impacts}
 
@@ -42,11 +42,11 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行中にデータを保持する場合は、[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support){target="_blank"}に連絡し、フォーム IDとサブスクリプションのMunchkin IDを指定してください。
+>[外部フォーム ](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行中にデータを保持する場合は、[Adobe サポート ](https://experienceleague.adobe.com/en/support){target="_blank"}に連絡し、フォーム IDとサブスクリプションのMunchkin IDを指定してください。
 
 ## データセンター/ポッドの特定 {#identify}
 
-以下の表を確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+以下の表を確認する前に、[ サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
 
 ## スケジュール {#schedule}
 
@@ -107,12 +107,9 @@ ht-degree: 6%
   </tr>
   <tr>
    <td>2026年7月21日（PT）</td>
-   <td>AB54<br>
-   AB56</td>
-   <td>午後5時（太平洋夏時間）<br>
-   午後6時（太平洋夏時間）</td>
-   <td>予定通り<br>
-   予定通り</td>
+   <td>AB54</td>
+   <td>午後5時（太平洋夏時間）</td>
+   <td>完了</td>
   </tr>
   <tr>
    <td>2026年7月23日（PT）</td>
@@ -170,4 +167,4 @@ ht-degree: 6%
 
 ## アップデートとサポート {#support}
 
-最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
+最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}からAdobe サポートにお問い合わせください。
