@@ -3,10 +3,10 @@ description: リリースノート - 2026年1月 – Marketo ドキュメント 
 title: リリースノート - 2026年1月
 feature: Release Information
 exl-id: 82773c7e-7c25-4407-8283-b1ae21e470f5
-source-git-commit: eb0e23b9f938e813edb90f615a6f1e9d06526dbc
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
 source-wordcount: '566'
-ht-degree: 24%
+ht-degree: 25%
 
 ---
 
@@ -86,7 +86,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **リソース ポッド**：新しいリソース ポッドは、以前のファイル ポッドおよびWeb リンク ポッドに置き換わり、ライブセッション中にリソースを共有するための単一の統一された方法を提供します。
 
-* **Enhanced Room Interface Experience**: Adobeの最新のSpectrum 2 デザインフレームワーク上に構築され、Creative CloudやExperience Cloudなど、他のAdobe製品で使用されるビジュアル言語と連携した、リフレッシュされたモダンなルーム インターフェイスをお楽しみください。
+* **拡張ルームインターフェイスエクスペリエンス**: Adobeの最新のSpectrum 2 デザインフレームワーク上に構築された、リフレッシュされたモダンなルームインターフェイスを、Creative CloudやExperience Cloudなど、他のAdobe製品で使用されるビジュアル言語と連携させながら使用できます。
 
 詳細については、[このページ &#x200B;](https://helpx.adobe.com/jp/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}を参照してください。
 
@@ -94,8 +94,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **SEO機能の廃止**: 2026年3月31日火曜日、Marketo Engageは検索エンジン最適化機能（SEO）を廃止します。 SEOを積極的に活用していない場合、何もする必要はありません。 最近SEOを利用したことがある場合は、データを書き出すオプションもあります。 [詳細情報](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=ja){target="_blank"}。
 
-* **Marketo Community Migration Complete**：新しいAdobe Experience League Communityが公開されました。 [Marketo コミュニティ体験をさらに向上させるために、いくつかの機能強化](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=ja){target="_blank"}が行われました。 [&#x200B; チェックアウト &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ja){target="_blank"}。
+* **Marketo Community Migration Complete**：新しいAdobe Experience League Communityが公開されました。 [Marketo コミュニティ体験をさらに向上させるために、いくつかの機能強化](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673?profile.language=ja){target="_blank"}が行われました。 [&#x200B; チェックアウト &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ja&lang=ja){target="_blank"}。
 
-* **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年7月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年8月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **SOAP APIの非推奨化**: Marketo SOAP APIのサポートは、2026年7月31日に終了します。 SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。

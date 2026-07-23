@@ -2,10 +2,10 @@
 description: リリースノート - 2026年5月 – Marketo Docs – 製品ドキュメント
 title: リリースノート - 2026年5月
 feature: Release Information
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: '802'
-ht-degree: 14%
+source-wordcount: '760'
+ht-degree: 15%
 
 ---
 
@@ -69,7 +69,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat – 入力しています</strong>：訪問者と担当者の両方に「入力しています…」と表示されます。 一方が入力している間に通知を送信し、一方が他方を中断しないようにします。</td>
+   <td><strong>Dynamic Chat – 入力しています</strong>：訪問者と担当者の両方に、相手が入力している間に「入力しています…」という通知が表示され、一方が他方を中断できなくなります。
+   </td>
    <td>リリース</td>
    <td>該当なし</td>
   </tr>
@@ -101,7 +102,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat – 新しい属性の同期ビヘイビアー</strong>：以前は、新しい属性を追加すると、同期が完了するまでの最大24時間、環境内の変更がブロックされ、ダイアログの編集と公開が妨げられました。 新しい属性を追加する際には、完全なデータ同期が必要ですが（これには最大24時間かかる場合があります）、プロセス中に環境がブロックされなくなりました。</td>
+   <td><strong>Dynamic Chat – 新しい属性の同期ビヘイビアー</strong>：以前は、新しい属性を追加すると、同期が完了するまでの最大24時間、環境内の変更がブロックされ、ダイアログの編集と公開が妨げられました。新しい属性を追加する際には、完全なデータ同期が必要ですが（これには最大24時間かかる場合があります）、プロセス中に環境がブロックされなくなりました。
+   </td>
    <td>リリース</td>
    <td>該当なし</td>
   </tr>
@@ -113,17 +115,17 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **ソーシャル機能の非推奨フィールド**: 2025年、Marketo Engageは次のソーシャル機能を非推奨にしました。
 
-   * 投票
-   * ソーシャルボタン
-   * 紹介オファー
-   * 動画の共有
-   * 懸賞
+  * 投票
+  * ソーシャルボタン
+  * 紹介オファー
+  * 動画の共有
+  * 懸賞
 
 今年の初めに、取り残されていた関連フィールドがMarketoから削除されました。 その後すぐに、特定のソーシャル関連のリードフィールドを参照するAPI リクエストで「フィールドが見つかりません」エラーが返され、中断が発生しました。 影響を受けるフィールドが再度使用可能になった後にサービスが復元されたため、さらなる中断を防ぐために、Marketoはソーシャル機能の非推奨化からソーシャルフィールドを永続的に分離しました（そのため、Marketo アカウントで利用できるようになります）。 Marketoのソーシャル関連フィールドを参照するAPI クエリと統合を確認し、それらのフィールドが継続的なビジネスプロセスに引き続き必要かどうかを判断することをお勧めします。
 
 * **ブール型フィールドのAPI結合機能**: API結合内のブール型フィールドの動作が、&#39;26年3月リリースで変更されました。 ここで、False値は、そのフィールドの値を持つものとして正しく扱われます。 競合するフィールドを評価する場合、null値のみが「空」として扱われます。 詳しくは、[このコミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=ja){target="_blank"}を参照してください。
 
-* **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年7月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年8月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **REST API結合リードの制限**: 2026年7月31日（PT）以降、結合リード API呼び出しのleadIds パラメーターに25を超えるIDを含む呼び出しは、1080 エラーコードになり、呼び出しはスキップされます。 25以上のレコードを1つのレコードに統合する必要があるジョブは、それらの呼び出しを成功させるために複数のジョブに分割する必要があります。
 

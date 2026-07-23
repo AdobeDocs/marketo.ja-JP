@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d0cf66fe0c72af8e9d1db09792f73fd6db10abbb
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: 477
-ht-degree: 22%
+source-wordcount: 460
+ht-degree: 23%
 
 ---
 
@@ -41,7 +41,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong>Marketo AI スキル – 製品知識</strong>：製品知識を使用すると、プラットフォームから離れることなく、Marketoの専門知識にオンデマンドでアクセスできます。 平易な言葉で質問すると、MarketoのAIは、Adobeの公式ドキュメントにもとづいて回答します。</td>
+   <td><strong>Marketo AI スキル – 製品知識</strong>：製品知識を使用すると、プラットフォームから離れることなく、Marketoの専門知識にオンデマンドでアクセスできます。平易な言葉で質問すると、MarketoのAIは、Adobeの公式ドキュメントにもとづいて回答します。
+</td>
    <td>オープンベータ</td>
    <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">製品知識</a></td>
   </tr>
@@ -73,7 +74,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年7月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年8月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **REST API結合リードの制限**: 2026年7月31日（PT）以降、結合リード API呼び出しのleadIds パラメーターに25を超えるIDを含む呼び出しは、1080 エラーコードになり、呼び出しはスキップされます。 25以上のレコードを1つのレコードに統合する必要があるジョブは、それらの呼び出しを成功させるために複数のジョブに分割する必要があります。
 

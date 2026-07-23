@@ -25,9 +25,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 4282
+source-wordcount: 4311
 ht-degree: 90%
 
 ---
@@ -50,8 +50,8 @@ ht-degree: 90%
 
 * **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、切替スイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
-   * [!UICONTROL デザインスタジオ]でのランディングページアセットの詳細
-   * [!UICONTROL マーケティングアクティビティ]のランディングページアセットの詳細
+  * [!UICONTROL デザインスタジオ]でのランディングページアセットの詳細
+  * [!UICONTROL マーケティングアクティビティ]のランディングページアセットの詳細
 
 ## [!DNL Microsoft Dynamics] 統合 {#microsoft-dynamics-integration}
 
@@ -129,7 +129,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ## クロスチャネルオーケストレーション
 
-* **[!DNL Dynamic Chat]**：積極的で魅力的な、1:1個のパーソナライズされた会話を使用して、リードとアカウントの両方をターゲットにすることで、web サイト上のあらゆる機会を最大化します。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engage ユーザは、B2B マーケティングおよびセールスのユースケースに対して、統合されたクロスチャネルエクスペリエンスの主要部として、チャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。 動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
+* **[!DNL Dynamic Chat]**：積極的で魅力的な、一対一のパーソナライズされた会話でリードとアカウントの両方をターゲットにすることで、web サイト上のあらゆる機会を最大化します。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engage ユーザは、B2B マーケティングおよびセールスのユースケースに対して、統合されたクロスチャネルエクスペリエンスの主要部として、チャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。 動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
 
 * **メールボットアクティビティのフィルタリング機能強化**：以前にリリースした[メールボットアクティビティのフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}を機能強化し、ボットとして識別されたアクティビティの記録をオプトインできるようになりました。 ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
 
@@ -137,7 +137,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、切替スイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
-   * [!UICONTROL デザインスタジオ]でのフォームリスト表示（新しい一括アクションを含む）
+  * [!UICONTROL デザインスタジオ]でのフォームリスト表示（新しい一括アクションを含む）
 
 * **プログラムワークフローインポートのアップデート**：プログラムワークフローのインポートは、デザインと操作性をアップデートして機能強化した、次世代のエクスペリエンスで提供されます。 切替スイッチはなく、自動的に変更されます。
 
@@ -275,8 +275,8 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 **新しい切替スイッチ表示**：次世代のエクスペリエンスで、以下の表示を利用できるようになりました。
 
-* [メールの詳細表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [メールリスト表示](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [メールの詳細表示](https://experienceleague.adobe.com/ja/docs/marketo/using/home){target="_blank"}
+* [メールリスト表示](https://experienceleague.adobe.com/ja/docs/marketo/using/home){target="_blank"}
 
 ## エクスペリエンスの自動化
 
@@ -340,10 +340,10 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **移動ダイアログでの保存先フォルダーのフォルダー階層の表示**：各フォルダーのフォルダー階層を表示すると、アセットの移動が容易になり、誤ったフォルダーに入れられる可能性が低減されます。
 
-* **[次世代エクスペリエンスのための画面の更新](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**：次世代のエクスペリエンスで、切替スイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
+* **[次世代のエクスペリエンスでScreensを更新しました](https://experienceleague.adobe.com/ja/docs/marketo/using/home){target="_blank"}**：次の世代のエクスペリエンスで、トグルスイッチを介してアクセスできる更新されたデザインと使いやすさの機能強化を提供する、更新された新しい画面を提供しています。
 
-   * スニペット詳細
-   * 「画像とファイル」詳細
+  * スニペット詳細
+  * 「画像とファイル」詳細
 
 >[!NOTE]
 >
@@ -433,8 +433,8 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **次世代エクスペリエンスのための画面の更新**：次世代のエクスペリエンスで、切替スイッチを介してアクセス可能な、最新のデザインと操作性の強化を備えた新しい画面を追加しました。
 
-   * ランディングページテンプレートの詳細
-   * メールテンプレートリスト
+  * ランディングページテンプレートの詳細
+  * メールテンプレートリスト
 
 <table>
   <tr>
@@ -443,7 +443,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
   </tr>
   <tr>
    <td>リリース</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">切替スイッチ</a></td>
+   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/home">切替スイッチ</a></td>
   </tr>
   </tbody>
 </table>
