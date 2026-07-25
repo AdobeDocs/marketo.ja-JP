@@ -2,10 +2,10 @@
 title: 以前のリリース
 description: 以前のすべてのバージョンのMarketo Engageのリリースノート（年別）。
 feature: Release Information
-source-git-commit: 400b847ed81f4dda33f9c76b95319815366db7cf
+source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 31%
+source-wordcount: '104'
+ht-degree: 36%
 
 ---
 
@@ -14,13 +14,14 @@ ht-degree: 31%
 
 >[!NOTE]
 >
->現在のリリースについては、[現在のリリースノート &#x200B;](current.md)を参照してください。 Dynamic Chatのリリース履歴については、[Dynamic Chat リリースノート &#x200B;](dynamic-chat.md)を参照してください。
+>現在のリリースについては、[&#x200B; リリースノート &#x200B;](current.md)を参照してください。 Dynamic Chat リリースについて詳しくは、[Dynamic Chat リリースノート &#x200B;](dynamic-chat.md)を参照してください。
 
 ## 2026
 
 * [2026年1月](previous-releases/2026/release-notes-jan-26.md)
 * [2026年2月](previous-releases/2026/release-notes-feb-26.md)
 * [2026年3月](previous-releases/2026/release-notes-mar-26.md)
+* [2026年5月](previous-releases/2026/release-notes-may-26.md)
 
 ## 2025
 
@@ -64,5 +65,5 @@ ht-degree: 31%
 * [2014](previous-releases/release-notes-2014.md)
 * [2013](previous-releases/release-notes-2013.md)
 * [2012](previous-releases/release-notes-2012.md)
-* [2010-2011](previous-releases/2010-2011.md)
-* [2007-2009](previous-releases/2007-2009.md)
+* [2010年～2011年](previous-releases/2010-2011.md)
+* [2007年～2009年](previous-releases/2007-2009.md)
