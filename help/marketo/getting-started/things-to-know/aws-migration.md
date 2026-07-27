@@ -4,9 +4,9 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: f0d3f6ad0113d3610f55e03533f8280816ed5181
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '531'
 ht-degree: 6%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 6%
 
 * **ログイン、API アクセス、電子メール送信、web トラッキング、および統合に関するIP許可リスト**&#x200B;のレビューと更新。
 
-* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[&#x200B; テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
+* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[ テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
 
 ## 期待されるサービス効果 {#impacts}
 
@@ -42,15 +42,15 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行中にデータを保持する場合は、[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support){target="_blank"}に連絡し、フォーム IDとサブスクリプションのMunchkin IDを指定してください。
+>[外部フォーム ](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行中にデータを保持する場合は、[Adobe サポート ](https://experienceleague.adobe.com/en/support){target="_blank"}に連絡し、フォーム IDとサブスクリプションのMunchkin IDを指定してください。
 
 ## データセンター/ポッドの特定 {#identify}
 
-以下の表を確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+以下の表を確認する前に、[ サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
 
 ## スケジュール {#schedule}
 
-新しい日付とデータセンター/ポッド情報が定期的に追加されるので、詳細については、こちらで確認してください。
+新しい日付とデータセンター/ポッド情報は定期的に追加または変更されるので、このスケジュールを監視して更新します。
 
 <table>
  <tbody>
@@ -153,6 +153,24 @@ ht-degree: 6%
    <td>予定通り<br>
    予定通り</td>
   </tr>
+  <tr>
+   <td>2026年8月26日（PT）</td>
+   <td>AB40<br>
+   AB50</td>
+   <td>午後5時（太平洋夏時間）<br>
+   午後6時（太平洋夏時間）</td>
+   <td>予定通り<br>
+   予定通り</td>
+  </tr>
+  <tr>
+   <td>2026年8月28日（PT）</td>
+   <td>AB53<br>
+   AB56</td>
+   <td>午後3時（太平洋夏時間）<br>
+   午後4時（太平洋夏時間）</td>
+   <td>予定通り<br>
+   予定通り</td>
+  </tr>
   </body>
 </table>
 
@@ -183,4 +201,4 @@ ht-degree: 6%
 
 ## アップデートとサポート {#support}
 
-最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
+最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}からAdobe サポートにお問い合わせください。
