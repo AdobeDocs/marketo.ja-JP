@@ -4,9 +4,9 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: f0d3f6ad0113d3610f55e03533f8280816ed5181
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '531'
 ht-degree: 6%
 
 ---
@@ -50,7 +50,7 @@ ht-degree: 6%
 
 ## スケジュール {#schedule}
 
-新しい日付とデータセンター/ポッド情報が定期的に追加されるので、詳細については、こちらで確認してください。
+新しい日付とデータセンター/ポッド情報は定期的に追加または変更されるので、このスケジュールを監視して更新します。
 
 <table>
  <tbody>
@@ -150,6 +150,24 @@ ht-degree: 6%
    AB44</td>
    <td>午後5時（太平洋夏時間）<br>
    午後6時（太平洋夏時間）</td>
+   <td>予定通り<br>
+   予定通り</td>
+  </tr>
+  <tr>
+   <td>2026年8月26日（PT）</td>
+   <td>AB40<br>
+   AB50</td>
+   <td>午後5時（太平洋夏時間）<br>
+   午後6時（太平洋夏時間）</td>
+   <td>予定通り<br>
+   予定通り</td>
+  </tr>
+  <tr>
+   <td>2026年8月28日（PT）</td>
+   <td>AB53<br>
+   AB56</td>
+   <td>午後3時（太平洋夏時間）<br>
+   午後4時（太平洋夏時間）</td>
    <td>予定通り<br>
    予定通り</td>
   </tr>
