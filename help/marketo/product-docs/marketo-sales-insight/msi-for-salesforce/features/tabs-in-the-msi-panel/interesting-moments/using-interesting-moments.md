@@ -5,16 +5,13 @@ title: 注目のアクションの使用
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/a7xwk8AWmiXHHxNMaCKh6rfVAO-60pwNjBoNsCZu0h4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
 workflow-type: tm+mt
-source-wordcount: 439
-ht-degree: 95%
+source-wordcount: 443
+ht-degree: 92%
 
 ---
 
@@ -24,17 +21,17 @@ ht-degree: 95%
 
 >[!AVAILABILITY]
 >
->注目のアクションを使用できるのは、[!DNL Marketo Sales Insight] と[[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) を契約されたお客様だけです。
+>興味深い瞬間を使用するには、[!DNL Marketo Sales Insight]または[[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) ユーザーである必要があります。
 
-## 注目のアクションとは何でしょうか。 {#what-is-an-interesting-moment}
+## 注目のアクションとは？ {#what-is-an-interesting-moment}
 
-それは、あなた次第です。 どんな情報がセールスチームに関係あるのかを自分で決定します。 セールスチームがリードについて知りたいのは、例えば次のようなことです。
+これらの機能を使用すれば、思いどおりのページを作成できます。 どんな情報がセールスチームに関係あるのかを自分で決定します。 セールスチームがリードについて知りたいのは、例えば次のようなことです。
 
-* Web サイトの価格設定ページへのアクセス
+* 自社 web サイトの価格設定ページを訪問する
 * 新製品発表メールに記載されたリンクをクリック
 * 製品デモをリクエスト
 
-## 注目のアクションを作成する方法  {#how-do-i-create-an-interesting-moment}
+## 注目のアクションを作成するには  {#how-do-i-create-an-interesting-moment}
 
 1. [スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を選択します。トリガーされた場合にセールスチームが興味を持つものがいいでしょう。
 
@@ -72,7 +69,7 @@ ht-degree: 95%
 
 ## 注目のアクションは、[!DNL Salesforce] でどのように表示されるか  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-[&#x200B; [!DNL Marketo Sales Insight]  アプリをインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)していれば、注目のアクションはリード、取引先責任者、アカウント、または商談ページに表示されます。 また、[!DNL Sales Insight] ダッシュボードで、「リードフィード」、「[!DNL Best Bets]」、「ウォッチリスト」にも表示されます。
+[ [!DNL Marketo Sales Insight]  アプリをインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)していれば、注目のアクションはリード、取引先責任者、アカウント、または商談ページに表示されます。 また、[!DNL Sales Insight] ダッシュボードで、「リードフィード」、「[!DNL Best Bets]」、「ウォッチリスト」にも表示されます。
 
 ![](assets/using-interesting-moments-6.png)
 
