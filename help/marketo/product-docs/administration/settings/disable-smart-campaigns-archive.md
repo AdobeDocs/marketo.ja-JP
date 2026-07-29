@@ -32,7 +32,7 @@ ht-degree: 2%
 
 1. 「**有効**」チェックボックスを選択して、「**保存**」をクリックします。
 
-   ![ アーカイブ上のスマートキャンペーンを無効にするダイアログに、「有効」チェックボックスと「保存」ボタンが表示されている](assets/disable-smart-campaigns-on-archive-3.png)
+   ![&#x200B; アーカイブ上のスマートキャンペーンを無効にするダイアログに、「有効」チェックボックスと「保存」ボタンが表示されている](assets/disable-smart-campaigns-on-archive-3.png)
 
 <table>
   <tr>
