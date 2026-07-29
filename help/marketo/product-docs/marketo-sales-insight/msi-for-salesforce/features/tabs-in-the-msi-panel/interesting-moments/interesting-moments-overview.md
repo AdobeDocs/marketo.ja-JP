@@ -9,16 +9,20 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
 workflow-type: tm+mt
-source-wordcount: 106
-ht-degree: 83%
+source-wordcount: 117
+ht-degree: 75%
 
 ---
 
 # 注目のアクションの概要 {#interesting-moments-overview}
 
 注目のアクションフローステップを使用して、スマートキャンペーンでリードが行っている注目のアクションをセールスチームが把握できるようにします。
+
+>[!AVAILABILITY]
+>
+>興味深い瞬間を使用するには、[!DNL Marketo Sales Insight]または[[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) ユーザーである必要があります。
 
 ![](assets/image2016-1-27-11-3a1-3a53.png)
 
