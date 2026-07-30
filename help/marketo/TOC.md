@@ -3,9 +3,10 @@ audience: end-user
 user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+nudge: toc
+source-git-commit: 6fc98c8f6a47c184831964e5613aa9bd05e9b737
 workflow-type: tm+mt
-source-wordcount: '8906'
+source-wordcount: '8911'
 ht-degree: 96%
 
 ---
@@ -163,6 +164,7 @@ ht-degree: 96%
       + [キャンペーンインスペクター](product-docs/administration/settings/campaign-inspector.md)
       + [分析用アトリビューション設定の変更](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
       + [人物の詳細ページ用のカスタムタブの作成](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
+      + {hide-from-toc}[&#x200B; アーカイブでスマートキャンペーンを無効にする](product-docs/administration/settings/disable-smart-campaigns-archive.md)
       + [ブラウザーの「トラッキング拒否」サポート設定の編集](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
       + [ランディングページ設定の編集](product-docs/administration/settings/edit-landing-page-settings.md)
       + [レポートとアラートのリンク有効期限の編集](product-docs/administration/settings/edit-link-expiration-in-reports-and-alerts.md)
