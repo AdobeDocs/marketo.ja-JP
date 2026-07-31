@@ -1,11 +1,10 @@
 ---
 description: メール、ランディングページ、キャンペーンなど、あらゆるコンポーネントをまたいでベストプラクティスに関するプログラムを監査する方法について説明します。
 title: プログラムの検証
-badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: ef5d8b15ea606262a8cd57003e7d2b56fa79a155
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '107'
 ht-degree: 2%
 
 ---
@@ -13,10 +12,6 @@ ht-degree: 2%
 # プログラムの検証 {#validate-programs}
 
 メール、ランディングページ、キャンペーンなど、あらゆるコンポーネントをまたいでベストプラクティスのプログラムを監査します。
-
->[!AVAILABILITY]
->
->この機能は現在オープンベータ版です。 アクセスをリクエストするには、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 ## 使用方法 {#how-to-use}
 

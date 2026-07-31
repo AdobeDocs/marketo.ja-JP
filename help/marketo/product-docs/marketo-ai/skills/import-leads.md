@@ -2,10 +2,9 @@
 description: リードの読み込みエージェントを使用して、CSVのアップロード、ビジネスルールの適用、フィールドのマッピング、リードのMarketo Engage データベースへの直接読み込みを行う方法について説明します。
 title: リードの読み込み
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-badge: Beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '195'
 ht-degree: 1%
 
 ---
@@ -13,10 +12,6 @@ ht-degree: 1%
 # リードの読み込み {#import-leads}
 
 フィールドマッピング機能を利用すれば、リードリストをMarketo Engageデータベースにインポートして重複を排除できます。
-
->[!AVAILABILITY]
->
->この機能は現在オープンベータ版です。 アクセスをリクエストするには、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 ## 使用方法 {#how-to-use}
 
