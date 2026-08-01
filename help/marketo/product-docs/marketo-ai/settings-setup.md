@@ -1,12 +1,11 @@
 ---
 description: Marketo AI権限を有効にする方法、組織ルールを設定する方法、統合や通知などの設定を管理する方法について説明します。
 title: 設定と設定
-badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '537'
-ht-degree: 5%
+source-wordcount: '547'
+ht-degree: 4%
 
 ---
 
@@ -16,7 +15,7 @@ ht-degree: 5%
 
 >[!AVAILABILITY]
 >
->この機能は現在オープンベータ版です。 アクセスをリクエストするには、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
+>この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にMarketo AI タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 ## 権限と役割 {#permission-and-role}
 

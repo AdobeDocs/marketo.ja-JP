@@ -1,9 +1,8 @@
 ---
 description: プログラムのQA、リードのインポート、データの正規化など、マーケティングタスクを自動化するために設計されたMarketoのAI エージェント群をご覧ください。
 title: Marketo AIの概要
-badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: f500c305c3e5c1331e9bb34c01cfec5974cf329e
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -16,7 +15,7 @@ MarketoのAIは、時間はかかりますが、重要なマーケティング�
 
 >[!AVAILABILITY]
 >
->この機能は現在オープンベータ版です。 アクセスをリクエストするには、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 Marketo AIは現時点では英語用に最適化されています。
+>この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にMarketo AI タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 >[!IMPORTANT]
 >

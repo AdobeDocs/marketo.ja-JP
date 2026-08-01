@@ -1,10 +1,9 @@
 ---
 description: 製品ナレッジを使用して、Marketo AIにMarketo Engageの機能、ベストプラクティス、ハウツーについて質問します。 回答は、Adobeの公式ドキュメントに基づいています。
 title: 製品知識
-badge: Beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '412'
 ht-degree: 1%
 
 ---
@@ -12,10 +11,6 @@ ht-degree: 1%
 # 製品知識 {#product-knowledge}
 
 Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門に依頼することなく、Marketoの専門知識を活用できます。 平易な言葉で質問すると、MarketoのAIは、Adobeの公式ドキュメントにもとづいて回答します。
-
->[!AVAILABILITY]
->
->この機能は現在オープンベータ版です。 アクセスをリクエストするには、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 ## 使用方法 {#how-to-use}
 

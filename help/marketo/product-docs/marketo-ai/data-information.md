@@ -1,10 +1,9 @@
 ---
 description: リードのインポート、プログラムのQA、データの正規化など、主要なワークフローにおけるMarketo AIのデータスコープ、ガバナンス制御、PIIに関する考慮事項を確認します。
 title: Marketo AIに関する資料
-badge: Beta
-source-git-commit: 06d77c31c729de70033696662fb6191eb527dedf
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '1454'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---
