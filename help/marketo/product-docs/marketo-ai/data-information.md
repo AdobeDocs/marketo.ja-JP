@@ -1,9 +1,9 @@
 ---
 description: リードのインポート、プログラムのQA、データの正規化など、主要なワークフローにおけるMarketo AIのデータスコープ、ガバナンス制御、PIIに関する考慮事項を確認します。
 title: Marketo AIに関する資料
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 03ad8c4d06e8dd011cd8fb0d49a7f7c436a18c16
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1382'
 ht-degree: 0%
 
 ---
@@ -28,25 +28,33 @@ MarketoのAIは、Adobe Marketo Engageに搭載されたネイティブのエー
 
 **関数：**&#x200B;は、マッピング、正規化、重複排除、Marketo Engageへのインポート用にユーザーが指定したリード データを処理します。
 
-### プログラム QA
+### プログラムの検証
 
 **関数：**&#x200B;は、ユーザーがスキル マークダウン ファイルで定義した組織ルール（命名基準、承認ステータス、メール コンプライアンス、フローロジックなど）に対して、Marketo プログラムを評価します。
 
-### 概要からプログラムを作成
+<!--
 
-**関数：**&#x200B;自然言語プロンプトを使用して、ユーザーの環境内で直接、スマートキャンペーン、フローステップ、コンテンツプレースホルダーなどのMarketo プログラム構造を生成します。
+### Create program from brief
 
-### 呼び出し可能エージェント
+**Function:** Uses natural-language prompts to generate Marketo program structures, including smart campaigns, flow steps, and content placeholders, directly within the user's environment.
 
-**関数：**&#x200B;検証、正規化、ボット検出などのユースケースに対して、スマートキャンペーンのフローステップ内でフローアクションをトリガーとしたAI アクションを実行します。
+### Callable agents
 
-### リード調査
+**Function:** Executes flow action-triggered AI actions within Smart Campaign flow steps for use cases such as validation, normalization, and bot detection.
+
+-->
+
+### リードの調査
 
 **関数：** フローステップの実行とスマートリスト メンバーシップを調べることで、ユーザーがマイルストーンに進んだ、または進まなかった理由を会話形式で分析します。
 
+<!--
+
 ### Measurement and analytics
 
-**関数：** キャンペーンとプログラムのパフォーマンス分析（推奨事項と根本原因のインサイトを含む）を表示します。
+**Function:** Surfaces campaign and program performance analysis, including recommendations and root-cause insights.
+
+-->
 
 ### 製品知識
 
@@ -58,11 +66,9 @@ MarketoのAIは、Adobe Marketo Engageに搭載されたネイティブのエー
 
 ## 可用性とロールアウトステータス
 
-**実施要件：**&#x200B;最初のユーザーイネーブルメントは、Adobe Gen AI Riderを受け入れた対象のMarketo Engage ユーザーに限定されます。
+**実施要件：** プロビジョニングは、[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意したMarketo Engage ユーザーに限定されます。
 
-**プロビジョニング：** アクセスは、Marketo Engage エクスペリエンス内の既存の製品イネーブルメント コントロールと機能フラグ プロビジョニングによって管理されます。
-
-**ロールアウトモデル：**&#x200B;のデプロイメントは、パブリック Betaの拡張を拡大する前に、AlphaとPrivate Betaを通じて進められます。
+**ロールアウトモデル：**&#x200B;のデプロイメントは、AlphaおよびPrivate Betaを通じて進められ、その後、パブリック Betaの拡張が拡大され、最終的には一般公開が開始されます。
 
 **地域：**&#x200B;最初のリリースは、中国本土を除くグローバルなMarketo Engage ユーザーを対象としています。
 
