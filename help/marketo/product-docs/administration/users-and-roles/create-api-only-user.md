@@ -3,16 +3,20 @@ description: APIの作成と管理方法サブスクリプションでAdobe IMS�
 title: Adobe IMS が有効のサブスクリプション用 API 専用ユーザーの追加
 exl-id: bf908a50-de2f-4ea0-8d6a-5d7ed6d39ebf
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: cfbc8488d05cb25263fc71501def2ba74f945c0e
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 89%
+source-wordcount: '172'
+ht-degree: 80%
 
 ---
 
-# Adobe IMS が有効のサブスクリプション用 API 専用ユーザーの追加 {#add-api-only-user-for-adobe-ims-enabled-subscriptions}
+# Adobe IMS が有効なサブスクリプション用 API 専用ユーザの追加 {#add-api-only-user-for-adobe-ims-enabled-subscriptions}
 
 Marketo Engage のマーケティングユーザーと管理者は Adobe Admin Console で管理しますが、Marketo Engage API 専用ユーザーは Marketo Engage で作成および管理する必要があります。
+
+>[!NOTE]
+>
+>API Marketo Engage UIで作成されたユーザーのみが、ユーザー割り当てに対してカウントされません。
 
 以下の手順で、Marketo Engage で API 専用ユーザーを追加する方法を示します。 その前に、[API 専用のロールを設定](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)しておく必要があります。
 
