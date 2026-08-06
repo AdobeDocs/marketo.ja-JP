@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 17404d2a3a89cec66785ca395564d422837b860a
+source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
 workflow-type: tm+mt
-source-wordcount: '8911'
+source-wordcount: '8917'
 ht-degree: 96%
 
 ---
@@ -993,6 +993,7 @@ ht-degree: 96%
       + [概要](product-docs/email-marketing/email-designer/overview.md)
       + [機能の比較](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
+      + {hide-from-toc}[電子メール Designerでモジュールを使用](product-docs/email-marketing/email-designer/email-modules.md)
       + [条件付きコンテンツ](product-docs/email-marketing/email-designer/conditional-content.md)
       + [メールテンプレートオーサリング](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [テンプレートの読み込み](product-docs/email-marketing/email-designer/import-template.md)
