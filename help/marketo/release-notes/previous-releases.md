@@ -14,7 +14,7 @@ ht-degree: 37%
 
 >[!NOTE]
 >
->現在のリリースについては、[ リリースノート ](current.md)を参照してください。 Dynamic Chat リリースについて詳しくは、[Dynamic Chat リリースノート ](dynamic-chat.md)を参照してください。
+>現在のリリースについては、[&#x200B; リリースノート &#x200B;](current.md)を参照してください。 Dynamic Chat リリースについて詳しくは、[Dynamic Chat リリースノート &#x200B;](dynamic-chat.md)を参照してください。
 
 ## 2026
 
