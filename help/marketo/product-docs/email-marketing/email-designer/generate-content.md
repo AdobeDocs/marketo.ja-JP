@@ -1,8 +1,8 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: AI アシスタントを使用
-description: AI アシスタントを使用して、テキストや画像をメールに追加する方法を説明します。 メールDesignerでAdobeの生成AIを使用して、コンテンツのアイデアを立案。
+title: E メールDesignerでのコンテンツの生成
+description: コンテンツを生成してテキストや画像をメールに追加する方法を説明します。 メールDesignerでAdobeの生成AIを使用して、コンテンツのアイデアを立案。
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
@@ -14,20 +14,20 @@ feature_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
-source-wordcount: 936
-ht-degree: 3%
+source-wordcount: 914
+ht-degree: 1%
 
 ---
 
-# Email DesignerのAI アシスタント {#ai-assistant-email-designer}
+# E メールDesignerでのコンテンツの生成 {#generate-content}
 
-MARKETO ENGAGE Email DesignerのAI アシスタントを使用すると、現代的でパフォーマンスの高い、直感的なメールを作成できます。 これは、Adobeの生成AI テクノロジーとプロンプトライブラリ、および特定のペルソナ/購買グループ、マーケティングジャーニーの段階、コミュニケーション戦略、トーンなどに適したコンテンツの作成を支援する画像生成用Fireflyを通じて実現されます。特定のブランドアセットを利用して、コンテンツを制作することもできます。
+Marketo Engageの電子メールDesignerでコンテンツを生成すると、現代的でパフォーマンスの高い、直感的な電子メールを作成できます。 これは、Adobeの生成AI テクノロジーとプロンプトライブラリ、および特定のペルソナ/購買グループ、マーケティングジャーニーの段階、コミュニケーション戦略、トーンなどに適したコンテンツの作成を支援する画像生成用Fireflyを通じて実現されます。特定のブランドアセットを利用して、コンテンツを制作することもできます。
 
 >[!PREREQUISITES]
 >
->AI アシスタントはデフォルトで有効になっていません。 最初に、メール Designerで生成AI機能を使用するための[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
+>この機能はデフォルトでは有効になっていません。 最初に、メール Designerで生成AI機能を使用するための[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
 
 ## 権限の設定 {#set-up-permissions}
 
@@ -59,15 +59,13 @@ _上記の前提条件に従った_&#x200B;後、Marketo管理者は、ユーザ
 
 ## ユースケース {#use-cases}
 
-AI アシスタントの主なユースケースがいくつかあります。
-
 * [電子メールの件名および/またはプリヘッダー](#create-a-subject-line-preheader)を作成する
 * [&#x200B; メールの特定のセクション &#x200B;](#create-content-for-a-specific-section)のコンテンツを作成する
 * 選択したテンプレートから[&#x200B; メール全体](#create-an-entire-email)を作成
 
 ## 件名/プリヘッダーの作成 {#create-a-subject-line-preheader}
 
-AI アシスタントを使用して、件名、プリヘッダー、またはその両方を作成できます。
+件名、プリヘッダー、またはその両方を作成します。
 
 ![](assets/use-the-ai-assistant-1.png)
 
@@ -75,11 +73,11 @@ AI アシスタントを使用して、件名、プリヘッダー、または�
 
 新しい電子メールDesignerを使用して電子メールを作成する場合は、一時的な件名を入力します。
 
-電子メールを作成した後、件名は右側の&#x200B;_詳細_&#x200B;列にあります。 AI アシスタント ボタン（![&#x200B; フィルターアイコン &#x200B;](assets/icon-ai-assistant.png)）をクリックすると、生成AI機能を使用して新しい件名を作成する際のサポートを受けることができます。
+電子メールを作成した後、件名は右側の&#x200B;_詳細_&#x200B;列にあります。 コンテンツを生成ボタン（![&#x200B; フィルターアイコン &#x200B;](assets/icon-ai-assistant.png)）をクリックすると、生成AI機能を使用して新しい件名を作成する際のサポートを受けることができます。
 
 ![](assets/use-the-ai-assistant-2.png)
 
-AI アシスタントに対して「**参照コンテンツを使用**」オプションを有効にして、選択したコンテンツに基づいて、新しいコンテンツをパーソナライズします。
+「**参照コンテンツを使用**」オプションを有効にして、選択したコンテンツに基づいて新しいコンテンツをパーソナライズします。
 
 プロンプトを入力して、件名をカスタマイズします。 関連するテキスト設定を入力し、参照として使用するブランドアセットをアップロードして、適切な件名を作成します。
 
@@ -135,7 +133,7 @@ AI アシスタントに対して「**参照コンテンツを使用**」オプ�
 
 ![](assets/use-the-ai-assistant-7.png)
 
-この例では財務テンプレートを使っています。 既存の画像のうち1つ以上がニーズに合わない場合は、AI アシスタントに対して、説明に基づいて新しい画像を作成するように指示できます。 目的の画像を選択し、AI アシスタントアイコンをクリックします。
+この例では財務テンプレートを使っています。 既存の画像のうち1つ以上がニーズに合わない場合は、説明に基づいて新しい画像を作成できます。 目的の画像を選択し、「コンテンツを生成」アイコンをクリックします。
 
 ![](assets/use-the-ai-assistant-8.png)
 
@@ -161,7 +159,7 @@ AI アシスタントに対して「**参照コンテンツを使用**」オプ�
 
 このオプションは、メールが既存のテンプレートを使用して作成された場合にのみ使用できます。 これは、電子メールDesignerで提供される標準テンプレート、既に作成した保存テンプレート、またはHTMLの読み込みオプションを使用して読み込んだテンプレートです。 このオプションは、電子メールに「[&#x200B; ゼロからデザイン &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch)」を選択した場合は使用できません。
 
-テンプレート内のコンポーネントを選択せずにテンプレートを選択し、メールDesignerの「AI アシスタント」ボタンをクリックします。
+テンプレート内のコンポーネントを選択せずにテンプレートを選択し、メールDesignerの「コンテンツを生成」ボタンをクリックします。
 
 ![](assets/use-the-ai-assistant-12.png)
 

@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
 workflow-type: tm+mt
-source-wordcount: '8917'
+source-wordcount: '8918'
 ht-degree: 96%
 
 ---
@@ -1011,7 +1011,7 @@ ht-degree: 96%
       + [Marketo Engage の GenStudio の統合](product-docs/email-marketing/email-designer/genstudio.md)
       + [コンテンツのロック](product-docs/email-marketing/email-designer/content-locking.md)
       + [メールでの共同作業](product-docs/email-marketing/email-designer/email-collaboration.md)
-      + [Email DesignerのAI アシスタント](product-docs/email-marketing/email-designer/ai-assistant.md)
+      + [E メールDesignerでのコンテンツの生成](product-docs/email-marketing/email-designer/generate-content.md)
       + [SpamAssassin を使用したメールスパムレポート](product-docs/email-marketing/email-designer/spam-report.md)
       + [CNIL Open Tracking Guidance](product-docs/email-marketing/email-designer/cnil-guidance.md)
     + メールプログラム {#email-programs}
