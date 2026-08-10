@@ -80,6 +80,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **リード活動を取得およびリード変更を取得するための静的リストサイズ制限**:2026年9月30日（PT）以降、ターゲットリストに10,000個以上のリードが含まれ、ターゲットスタティックリストにレコードが多すぎることを示すエラーコードが10,003個ある場合、`listId` パラメーターを含むリード活動を取得またはリード変更エンドポイントの取得呼呼呼呼失敗が発生発生します。
 
-詳細については、[移行ガイド &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
+詳細については、[移行ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
 
 * **REST API結合リードの制限**:2026年7月31日（PT）現在、結合リード API呼び出しのleadIds パラメーターに25を超えるIDを含む呼び出しは、1080 エラーコードになり、呼び出しはスキップされます。 25以上のレコードを1つのレコードに統合する必要があるジョブは、それらの呼び出しを成功させるために複数のジョブに分割する必要があります。
