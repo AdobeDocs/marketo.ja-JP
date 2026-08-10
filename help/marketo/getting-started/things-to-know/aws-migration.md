@@ -4,10 +4,10 @@ title: AWSへの移行
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 16ff6c279c222f3cd2d9b8a1a7bbba15472231cb
+source-git-commit: 99b7a65fe436f40d474a708fb54d2f2f1a45c5db
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 6%
+source-wordcount: '820'
+ht-degree: 5%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 6%
 
 * **ログイン、API アクセス、電子メール送信、web トラッキング、および統合に関するIP許可リスト**&#x200B;のレビューと更新。
 
-* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[&#x200B; テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
+* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[ テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
 
 ## 期待されるサービス効果 {#impacts}
 
@@ -42,11 +42,11 @@ ht-degree: 6%
 
 >[!NOTE]
 >
->[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行中にデータを保持する場合は、[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support){target="_blank"}に連絡し、フォーム IDとサブスクリプションのMunchkin IDを指定してください。
+>[外部フォーム ](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行中にデータを保持する場合は、[Adobe サポート ](https://experienceleague.adobe.com/en/support){target="_blank"}に連絡し、フォーム IDとサブスクリプションのMunchkin IDを指定してください。
 
 ## データセンター/ポッドの特定 {#identify}
 
-以下の表を確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+以下の表を確認する前に、[ サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
 
 ## スケジュール {#schedule}
 
@@ -203,6 +203,24 @@ ht-degree: 6%
    <td>予定通り<br>
    予定通り</td>
   </tr>
+  <tr>
+   <td>2026年9月15日（PT）</td>
+   <td>AB05<br>
+   AB06</td>
+   <td>午後5時（太平洋夏時間）<br>
+   午後6時（太平洋夏時間）</td>
+   <td>予定通り<br>
+   予定通り</td>
+  </tr>
+  <tr>
+   <td>2026年9月18日（PT）</td>
+   <td>AB07<br>
+   AB08</td>
+   <td>午後3時（太平洋夏時間）<br>
+   午後4時（太平洋夏時間）</td>
+   <td>予定通り<br>
+   予定通り</td>
+  </tr>
   </body>
 </table>
 
@@ -233,21 +251,21 @@ ht-degree: 6%
 
 ## アップデートとサポート {#support}
 
-最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
+最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}からAdobe サポートにお問い合わせください。
 
 ## よくある質問 {#faq}
 
 **データはどこに保存されていますか？**
 Marketoのユーザーデータはすべて、Amazon Web Services（AWS）に保存されています。 Marketoは、インフラストラクチャを自社の物理データセンターからAWSのエンタープライズグレードのクラウドプラットフォームに移行しました。
 
-**個人データの具体的な保存場所は？**
-個人データは、AWSのフルマネージドリレーショナルデータベースサービスであるAmazon Auroraに保存されます。Auroraは、ハードウェアの障害、ストレージの低下、およびローカライズされたインフラストラクチャのイベントから個人データを保護するために、AWSリージョン内の3つの別々のアベイラビリティゾーンに6つの方法でデータを複製します。
+**個人データは具体的にどこに保存されますか？**
+個人データは、AWSのフルマネージドリレーショナルデータベースサービスであるAmazon Auroraに保存されます。 Auroraは、ハードウェアの障害、ストレージの低下、およびローカライズされたインフラストラクチャのイベントから個人データを保護するために、AWSリージョン内の3つの別々のアベイラビリティゾーンに6つの方法でデータを複製します。
 
-**ストレージ環境の所有者は誰ですか？**
+**ストレージ環境は誰のものですか？**
 ストレージインフラストラクチャは、Amazon Web Services（AWS）が所有および運用します。 Adobe（Marketo）は、AWSのお客様として、共通の責任モデルの下で運用されます。AWSは、基盤となるインフラストラクチャのセキュリティと可用性を担当し、Adobeは、その中で実行されるデータとアプリケーションのセキュリティを担当します。
 
 **実稼動環境、バックアップ/DRの場所、およびストレージ テクノロジーの詳細を教えてください。**
-Marketoでは、主要なデータベーステクノロジーとして、AWSによって完全に管理されるクラウドネイティブなリレーショナルデータベースエンジンであるAmazon Auroraを使用しています。Auroraは計算とストレージを切り離し、実稼動領域内の3つのアベイラビリティゾーンにわたって6つの方法でデータを自動的にレプリケートし、書き込み操作を確認するには4つのコピーのクォーラムが必要です。
+Marketoでは、主要なデータベーステクノロジーとして、AWSによって完全に管理されるクラウドネイティブなリレーショナルデータベースエンジンであるAmazon Auroraを使用しています。 Auroraは計算とストレージを切り離し、実稼動領域内の3つのアベイラビリティゾーンにわたって6つの方法でデータを自動的にレプリケートし、書き込み操作を確認するには4つのコピーのクォーラムが必要です。
 
 Auroraは、Amazon S3への継続的な自動バックアップもリアルタイムで実行し、設定された保持ウィンドウ内でPoint-in-Time Recovery （PITR）を任意の秒間に有効にします。
 
