@@ -30,7 +30,7 @@ Marketo Engage は、プライバシー規制を遵守するのに役立つ一�
 
 ## プライバシー管理に関する規制 {#regulations-on-privacy-management}
 
-Marketo Engageを使用すれば、さまざまなプライバシー規制に準拠できます。 サポートされている規制の一覧については、[&#x200B; プライバシー規制の概要](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/regulations/overview){target="_blank"}を参照してください。
+Marketo Engageを使用すれば、さまざまなプライバシー規制に準拠できます。 サポートされている規制の一覧については、[&#x200B; プライバシー規制の概要](https://experienceleague.adobe.com/ja/docs/experience-platform/privacy/regulations/overview){target="_blank"}を参照してください。
 
 ## アクセスする権利と忘れられる権利 {#right-to-access-and-right-to-be-forgotten}
 
