@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 46d547255d27dfe7d176694cf68de0ec99a5773e
+source-git-commit: 618fe38fae7621ecf72aab8ec09fc345aba23358
 workflow-type: tm+mt
-source-wordcount: 406
-ht-degree: 28%
+source-wordcount: 434
+ht-degree: 21%
 
 ---
 
@@ -31,7 +31,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、2026年8月14日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
+以下の機能は標準リリースサイクルに該当し、2026年8月14日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースされる機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -76,8 +76,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年8月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
-* **REST API Campaign実行ID**: Marketo SOAP APIのサポートは、2026年7月31日に終了します。 SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
+* **REST API Campaign Run ID**：特定の状況において、アクティビティのCampaign Run ID値が、2つの引用符のペアの間で、誤った形式で返されることがありました（例：`"campaignRunId": ""102938""`）。<br/>8月のリリース以降、この値は常に正しい数値形式（`"campaignRunId": 102938`）で返されます
 
-* **リードアクティビティの取得とリードの変更の取得に関する静的リストサイズ制限**：特定の状況において、アクティビティのCampaign Run ID値が、2つの引用符のペア（例：`"campaignRunId": ""102938""`）の間で、誤った形式で返されることがありました。<br/>8月のリリース以降、この値は常に正しい数値形式（`"campaignRunId": 102938`）で返されます
+* **リード活動を取得およびリード変更を取得するための静的リストサイズ制限**:2026年9月30日（PT）以降、ターゲットリストに10,000個以上のリードが含まれ、ターゲットスタティックリストにレコードが多すぎることを示すエラーコードが10,003個ある場合、`listId` パラメーターを含むリード活動を取得またはリード変更エンドポイントの取得呼呼呼呼失敗が発生発生します。 詳細については、[移行ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
 
 * **REST API結合リードの制限**:2026年7月31日（PT）現在、結合リード API呼び出しのleadIds パラメーターに25を超えるIDを含む呼び出しは、1080 エラーコードになり、呼び出しはスキップされます。 25以上のレコードを1つのレコードに統合する必要があるジョブは、それらの呼び出しを成功させるために複数のジョブに分割する必要があります。
