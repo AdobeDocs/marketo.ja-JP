@@ -3,8 +3,10 @@ description: Marketo Engageのプライバシー管理ツールについて詳�
 title: プライバシー管理
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 TQID: https://experienceleague.adobe.com/MzzRnGGXqzNNFzl2VYU0fZDsdyqhKqJ5BDwfdw1fQaY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 2cfe050fe4844f44815b9842cffafa4c1eb37c13
 workflow-type: tm+mt
 source-wordcount: 268
@@ -28,7 +30,7 @@ Marketo Engage は、プライバシー規制を遵守するのに役立つ一�
 
 ## プライバシー管理に関する規制 {#regulations-on-privacy-management}
 
-Marketo Engageを使用すれば、さまざまなプライバシー規制に準拠できます。 サポートされている規制の一覧については、[ プライバシー規制の概要](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/regulations/overview){target="_blank"}を参照してください。
+Marketo Engageを使用すれば、さまざまなプライバシー規制に準拠できます。 サポートされている規制の一覧については、[&#x200B; プライバシー規制の概要](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/regulations/overview){target="_blank"}を参照してください。
 
 ## アクセスする権利と忘れられる権利 {#right-to-access-and-right-to-be-forgotten}
 
