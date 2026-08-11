@@ -6,8 +6,7 @@ description: ヘッダー、ヒーロー、フッターなどの事前定義済�
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-hide: true
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: f80ac366b06d1bbd6ee165f5046f96d4d0174c59
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -18,11 +17,11 @@ ht-degree: 0%
 
 Email Designerには、_モジュール_&#x200B;のライブラリが含まれています。メールの作成を高速化し、コミュニケーション全体でデザインの一貫性を高めるために設計された、すぐに使用できる完全に構造化されたコンテンツブロックです。
 
-ゼロから設定する空のプレースホルダーである[&#x200B; コンテンツコンポーネント &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content)とは異なり、モジュールは事前定義済みのセクション（ブランド化されたヘッダー、商品カードグリッド、オプトアウトリンク付きのフッターなど）で、キャンバスに直接ドロップして、そこからカスタマイズできます。
+ゼロから設定する空のプレースホルダーである[ コンテンツコンポーネント ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content)とは異なり、モジュールは事前定義済みのセクション（ブランド化されたヘッダー、商品カードグリッド、オプトアウトリンク付きのフッターなど）で、キャンバスに直接ドロップして、そこからカスタマイズできます。
 
 >[!NOTE]
 >
->モジュールはフラグメントではありません。 デザインした電子メール内に存在します。 ただし、モジュールをニーズに合わせてカスタマイズした後は、[&#x200B; ビジュアルフラグメント &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#visual-fragments)として保存して、他のメールやメッセージで再利用できます。
+>モジュールはフラグメントではありません。 デザインした電子メール内に存在します。 ただし、モジュールをニーズに合わせてカスタマイズした後は、[ ビジュアルフラグメント ](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#visual-fragments)として保存して、他のメールやメッセージで再利用できます。
 
 ## モジュールのアクセスと挿入 {#access-modules}
 
@@ -52,7 +51,7 @@ E メール Designerで使用可能なモジュールを表示および活用す
 
    ![](assets/modules-3.png){width="70%"}
 
-1. [&#x200B; コンテンツコンポーネント &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content)を直接モジュールに追加することもできます。 左側のパネルの「**[!UICONTROL コンポーネント]**」タブに切り替え、コンポーネントをモジュールにドラッグ&amp;ドロップします。 コンポーネントはデフォルトでモジュールのスタイル設定を継承しますが、必要に応じて上書きできます。
+1. [ コンテンツコンポーネント ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content)を直接モジュールに追加することもできます。 左側のパネルの「**[!UICONTROL コンポーネント]**」タブに切り替え、コンポーネントをモジュールにドラッグ&amp;ドロップします。 コンポーネントはデフォルトでモジュールのスタイル設定を継承しますが、必要に応じて上書きできます。
 
    ![](assets/modules-4.png){width="60%"}
 
