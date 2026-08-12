@@ -2,10 +2,10 @@
 description: リリースノート - 2026年7月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2026年7月
 feature: Release Information
-source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
-source-wordcount: '480'
-ht-degree: 20%
+source-wordcount: '505'
+ht-degree: 19%
 
 ---
 
@@ -17,7 +17,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、2026年7月10日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
+以下の機能は標準リリースサイクルに該当し、2026年7月10日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースされる機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -29,7 +29,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>Marketo AI スキル – 製品知識</strong>：製品知識を使用すると、プラットフォームから離れることなく、Marketoの専門知識にオンデマンドでアクセスできます。 平易な言葉で質問すると、MarketoのAIは、Adobeの公式ドキュメントにもとづいて回答を提供します。
 </td>
-   <td>オープンベータ</td>
+   <td>リリース</td>
    <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">製品知識</a></td>
   </tr>
   <tr>
@@ -40,8 +40,19 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>Marketo AI スキル – リードを調査</strong>：特定の人物/リードがマイルストーン（MQL、プログラムの選定、キャンペーンなど）に到達しなかった理由を確認し、何が起こったのかを平易な言葉で説明します。
 </td>
-   <td>オープンベータ</td>
+   <td>リリース</td>
    <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">リードの調査</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> メール Designer - モジュール </strong>：メールの組み立てを高速化するために設計された、すぐに使用できる完全に構造化されたコンテンツ ブロックにアクセスできるようになりました。</td>
+   <td>リリース</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">メールDesignerでのモジュールの使用</a></td>
+  </tr>
   </tr>
   <tr>
    <td> </td>
@@ -51,12 +62,14 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>電子メールDesigner - コンテンツの生成コンテキストメニュー</strong>：電子メールDesignerの「コンテンツの生成」機能に、コンテキストメニュー（黒いバー）からアクセスできるようになりました。 例えば、テキストコンテンツを選択すると、コンテキストメニューに「コンテンツを生成」アイコンが表示され、そこからクイックアクションを実行できます。</td>
    <td><i>近日リリース予定</i></td>
-   <td><i>近日リリース予定</i></td>
+<td><i>近日リリース予定</i></td>
   </tr>
   </tr>
   </tbody>
 </table>
 <br/>
+
+
 
 ## お知らせ {#announcements}
 

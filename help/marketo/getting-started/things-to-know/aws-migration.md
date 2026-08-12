@@ -2,11 +2,10 @@
 description: AWSへの移行 – Marketo Engage Docs – 製品ドキュメント
 title: AWSへの移行
 feature: Getting Started
-hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 99b7a65fe436f40d474a708fb54d2f2f1a45c5db
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '835'
 ht-degree: 5%
 
 ---
@@ -42,7 +41,7 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行中にデータを保持する場合は、[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support){target="_blank"}に連絡し、フォーム IDとサブスクリプションのMunchkin IDを指定してください。
+>[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行期間中にMarketo Engageが利用できない間に収集したフォーム送信データを失わないようにしたい場合は、事前に[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support){target="_blank"} **少なくとも2営業日**&#x200B;までにお問い合わせください。フォーム IDとサブスクリプションのMunchkin IDを入力してください。
 
 ## データセンター/ポッドの特定 {#identify}
 

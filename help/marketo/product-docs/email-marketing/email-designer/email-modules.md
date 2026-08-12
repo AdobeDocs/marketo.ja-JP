@@ -6,8 +6,7 @@ description: ヘッダー、ヒーロー、フッターなどの事前定義済�
 level: Beginner, Intermediate
 feature: Email Designer
 role: User
-hide: true
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
 workflow-type: tm+mt
 source-wordcount: '470'
 ht-degree: 0%
@@ -16,7 +15,7 @@ ht-degree: 0%
 
 # メールDesignerでのモジュールの使用 {#email-modules}
 
-Email Designerには、_モジュール_&#x200B;のライブラリが含まれています。メールの作成を高速化し、コミュニケーション全体でデザインの一貫性を高めるために設計された、すぐに使用できる完全に構造化されたコンテンツブロックです。
+メールDesignerには、メール作成を高速化し、コミュニケーション全体でデザインの一貫性を高めるために設計された、すぐに使用できる構造化されたコンテンツブロックなどのモジュールが揃っています。
 
 ゼロから設定する空のプレースホルダーである[&#x200B; コンテンツコンポーネント &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content)とは異なり、モジュールは事前定義済みのセクション（ブランド化されたヘッダー、商品カードグリッド、オプトアウトリンク付きのフッターなど）で、キャンバスに直接ドロップして、そこからカスタマイズできます。
 
