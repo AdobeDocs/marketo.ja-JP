@@ -3,7 +3,7 @@ description: AWSへの移行 – Marketo Engage Docs – 製品ドキュメン�
 title: AWSへの移行
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 093bb2edda0a9c70bf45462fc8a67c45bda9b4e1
+source-git-commit: 9a445d50781458b3342be0dd9c1a4262346a9f7f
 workflow-type: tm+mt
 source-wordcount: '835'
 ht-degree: 5%
@@ -212,11 +212,11 @@ ht-degree: 5%
    予定通り</td>
   </tr>
   <tr>
-   <td>2026年9月18日（PT）</td>
+   <td>2026年9月17日（PT）</td>
    <td>AB07<br>
    AB08</td>
-   <td>午後3時（太平洋夏時間）<br>
-   午後4時（太平洋夏時間）</td>
+   <td>午後5時（太平洋夏時間）<br>
+   午後6時（太平洋夏時間）</td>
    <td>予定通り<br>
    予定通り</td>
   </tr>
