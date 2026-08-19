@@ -60,7 +60,7 @@ _リリース日／機能は変更される場合があります。_
    <td>Complete</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">2026年7月</a></td>
+  <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">2026年7月</a></td>
    <td>2026年7月10日（PT）</td>
    <td>Complete</td>
   </tr>
