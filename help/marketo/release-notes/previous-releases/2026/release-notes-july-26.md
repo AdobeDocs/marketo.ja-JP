@@ -2,9 +2,9 @@
 description: リリースノート - 2026年7月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2026年7月
 feature: Release Information
-source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
+source-git-commit: 37ef6b0f6c89b8ec8cd098beb5cf4d321fdac401
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '503'
 ht-degree: 19%
 
 ---
@@ -60,7 +60,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子メールDesigner - コンテンツの生成コンテキストメニュー</strong>：電子メールDesignerの「コンテンツの生成」機能に、コンテキストメニュー（黒いバー）からアクセスできるようになりました。 例えば、テキストコンテンツを選択すると、コンテキストメニューに「コンテンツを生成」アイコンが表示され、そこからクイックアクションを実行できます。</td>
+   <td><strong>電子メールDesigner - コンテンツの生成コンテキストメニュー</strong>：電子メールDesignerの「コンテンツの生成」機能に、コンテキストメニュー（黒いバー）からアクセスできるようになりました。 例えば、テキストコンテンツを選択すると、コンテキストメニューに「コンテンツを生成」アイコンが表示され、クイックアクションを実行できます。</td>
    <td><i>近日リリース予定</i></td>
 <td><i>近日リリース予定</i></td>
   </tr>
