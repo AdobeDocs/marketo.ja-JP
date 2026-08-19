@@ -1122,7 +1122,7 @@ ht-degree: 96%
       + [リードの調査](product-docs/marketo-ai/skills/investigate-leads.md)
       + [リードの読み込み](product-docs/marketo-ai/skills/import-leads.md)
       + [プログラムの検証](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mcp-server)
   + Marketo の通知 {#marketo-notifications}
     + {hide-from-toc}[通知：Websocket接続](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo セールスコネクト {#marketo-sales-connect}
