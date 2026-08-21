@@ -3,9 +3,9 @@ description: AWSへの移行 – Marketo Engage Docs – 製品ドキュメン�
 title: AWSへの移行
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 3b6dbef83c5ac1f764d573f96d88dd0dfb388acc
+source-git-commit: b420d49baca6e04cbb52179881701ecc57f5deac
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '824'
 ht-degree: 5%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 5%
 
 * **ログイン、API アクセス、電子メール送信、web トラッキング、および統合に関するIP許可リスト**&#x200B;のレビューと更新。
 
-* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[&#x200B; テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
+* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[ テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
 
 ## 期待されるサービス効果 {#impacts}
 
@@ -41,11 +41,11 @@ ht-degree: 5%
 
 >[!NOTE]
 >
->[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行期間中にMarketo Engageが利用できない間に収集したフォーム送信データを失わないようにしたい場合は、事前に[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support){target="_blank"} **少なくとも2営業日**&#x200B;までにお問い合わせください。フォーム IDとサブスクリプションのMunchkin IDを入力してください。
+>[外部フォーム ](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行期間中にMarketo Engageが利用できない間に収集したフォーム送信データを失わないようにしたい場合は、事前に[Adobe サポート ](https://experienceleague.adobe.com/en/support){target="_blank"} **少なくとも2営業日**&#x200B;までにお問い合わせください。フォーム IDとサブスクリプションのMunchkin IDを入力してください。
 
 ## データセンター/ポッドの特定 {#identify}
 
-以下の表を確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+以下の表を確認する前に、[ サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
 
 ## スケジュール {#schedule}
 
@@ -157,7 +157,7 @@ ht-degree: 5%
    <i>AB44</i></td>
    <td>午後5時（太平洋夏時間）<br>
    <i>PDT</i>午後6時</td>
-   <td>予定通り<br>
+   <td>完了<br>
    <i>延期（未定） </i></td>
   </tr>
   <tr>
@@ -244,7 +244,7 @@ ht-degree: 5%
 
 ## アップデートとサポート {#support}
 
-最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
+最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}からAdobe サポートにお問い合わせください。
 
 ## よくある質問 {#faq}
 
