@@ -2,7 +2,7 @@
 description: プログラムのQA、リードのインポート、データの正規化など、マーケティングタスクを自動化するために設計されたMarketoのAI エージェント群をご覧ください。
 title: Marketo AIの概要
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 13a4d86a8f99417431a834bcddf52bbdd42b303f
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -15,13 +15,13 @@ MarketoのAIは、時間はかかりますが、重要なマーケティング�
 
 >[!AVAILABILITY]
 >
->この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にMarketo AI タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
+>この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にMarketo AI タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[ コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 >[!IMPORTANT]
 >
->* Marketo AIがサブスクリプションに対して有効になった後、必要なユーザーがアクセスできるようにするには、いくつかの[&#x200B; セットアップ手順](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"}を実行する必要があります。
+>* Marketo AIがサブスクリプションに対して有効になった後、必要なユーザーがアクセスできるようにするには、いくつかの[ セットアップ手順](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"}を実行する必要があります。
 >
->* Marketo AI [&#x200B; データインフォメーションシート &#x200B;](/help/marketo/product-docs/marketo-ai/data-information.md){target="_blank"}のデータスコープ、ガバナンス制御、およびPIIに関する考慮事項を確認してください。
+>* Marketo AI [ データインフォメーションシート ](/help/marketo/product-docs/marketo-ai/data-information.md){target="_blank"}のデータスコープ、ガバナンス制御、およびPIIに関する考慮事項を確認してください。
 
 ## アクセス方法 {#access}
 
@@ -29,7 +29,7 @@ MarketoのAIは、時間はかかりますが、重要なマーケティング�
 
 ![](assets/overview-1.png)
 
-プロンプトフィールドにリクエストを入力するか、以下のいずれかの担当者を選択します。
+プロンプトフィールドにリクエストを入力するか、以下のいずれかのスキルを選択します。
 
 ![](assets/overview-2.png)
 
@@ -39,11 +39,11 @@ MarketoのAIは、時間はかかりますが、重要なマーケティング�
 
 ### リードの調査 {#investigate-leads}
 
-特定のリードがマイルストーン（MQL、プログラムのクオリフィケーション、キャンペーンなど）に到達しなかった理由を突き止め、何が起こったのかを平易な言葉で説明できます。 [&#x200B; リードの調査スキル &#x200B;](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}について詳しく説明します。
+特定のリードがマイルストーン（MQL、プログラムのクオリフィケーション、キャンペーンなど）に到達しなかった理由を突き止め、何が起こったのかを平易な言葉で説明できます。 [ リードの調査スキル ](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}について詳しく説明します。
 
 ### 製品知識 {#product-knowledge}
 
-Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門に依頼することなく、Marketoの専門知識を活用できます。 平易な言葉で質問すると、MarketoのAIは、Adobeの公式ドキュメントにもとづいて回答します。 [製品知識スキル &#x200B;](/help/marketo/product-docs/marketo-ai/skills/product-knowledge.md){target="_blank"}について詳しく説明します。
+Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門に依頼することなく、Marketoの専門知識を活用できます。 平易な言葉で質問すると、MarketoのAIは、Adobeの公式ドキュメントにもとづいて回答します。 [製品知識スキル ](/help/marketo/product-docs/marketo-ai/skills/product-knowledge.md){target="_blank"}について詳しく説明します。
 
 ### プログラムの検証 {#validate-programs}
 
@@ -51,7 +51,7 @@ Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門
 
 ### リードの読み込み {#import-leads}
 
-フィールドマッピング機能を利用すれば、リードリストをMarketo Engageデータベースにインポートして重複を排除できます。 [&#x200B; リードの読み込みスキル &#x200B;](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}について詳しく説明します。
+フィールドマッピング機能を利用すれば、リードリストをMarketo Engageデータベースにインポートして重複を排除できます。 [ リードの読み込みスキル ](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}について詳しく説明します。
 
 ## 近日リリース予定 {#coming-soon}
 
@@ -63,4 +63,4 @@ Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ja){target="_blank"}は、AI アシスタントとMarketo Engageの間の橋渡しの役割を果たします。
+>[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}は、AI アシスタントとMarketo Engageの間の橋渡しの役割を果たします。
