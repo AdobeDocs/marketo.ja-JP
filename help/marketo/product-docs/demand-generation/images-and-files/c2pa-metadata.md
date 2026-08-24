@@ -3,9 +3,9 @@ description: Marketo Engageで、AIが生成した画像にC2PA メタデータ�
 title: Marketo EngageのC2PA メタデータ
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 2746d9d016a6119411bb1fe29c4be2e16f3610e8
+source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '698'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ C2PA メタデータは、コンテンツがどのように作成または編集
 
 | アクション | 説明 | C2PA メタデータが添付されていますか？ | 使用例 |
 |---|---|---|---|
-| **画像を生成** | テキストプロンプトから新しい画像を作成したり、参照画像から新しい画像を作成したり、同様の画像を生成したりできます。 | 常に最適化。 画像は生成AIによって生成されるので、常に新しいC2PA メタデータを持ちます。 | 電子メールキャンペーンのバナー画像は、目的のビジュアルを説明するテキストプロンプトから生成されます。 |
+| **画像を生成ツールを使用** | テキストプロンプトから新しい画像を作成したり、参照画像から新しい画像を作成したり、同様の画像を生成したりできます。 | 常に最適化。 画像は生成AIによって生成されるので、常に新しいC2PA メタデータを持ちます。 | 電子メールキャンペーンのバナー画像は、目的のビジュアルを説明するテキストプロンプトから生成されます。 |
 | **画像を切り抜く** | 要求された寸法に合わせて画像を調整します。 | ソース画像に既にC2PA メタデータがある場合のみ。 切り抜きは、通常C2PA メタデータを消去する画像のピクセルを再作成します。そのため、Marketo Engageは切り抜く前にソースイメージから画像を読み取り、それを再作成して、切り抜いた結果に再アタッチします。 切り抜き自体は、新しい生成AI アクションを追加するものではなく、既存の生成AI アクションを保持します。 | 生成されたバナー画像は、web ページに合わせて切り抜かれます。C2PA メタデータは切り抜き中に保持されます。 プッシュ通知の背景として使用されるアップロードされたストック写真は、画面に合わせて切り抜かれます。ストック写真には生成AI アクションが含まれていないため、C2PA メタデータは作成されません。 |
 | **テキストオーバーレイを追加** | 生成されたテキストを背景画像の上にレンダリングします。 | 背景画像にC2PA メタデータが既に含まれている場合のみ。 オーバーレイをレンダリングすると、背景からテキストを加えた新しい画像が生成され、通常はC2PA メタデータが消去されるので、Marketo Engageは事前に背景画像から画像を読み取り、それを再構築して結果に再添付します。 オーバーレイ手順では、新しい生成AI アクションは追加されません。 | プロモーション見出しは、ランディングページ用に生成された背景画像上にテキストオーバーレイとしてレンダリングされます。背景画像のC2PA メタデータは保持されます。 |
 
@@ -47,4 +47,4 @@ Marketo Engageは、サポートされている画像アセットに関連付け
 ## その他のリソース
 
 * [Adobe Experience Cloud生成AI ユーザーガイドライン](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [ガードレールと制限](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [ガードレールと制限](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
