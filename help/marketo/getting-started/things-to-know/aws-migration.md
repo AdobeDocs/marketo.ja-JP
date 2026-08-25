@@ -3,9 +3,9 @@ description: AWSへの移行 – Marketo Engage Docs – 製品ドキュメン�
 title: AWSへの移行
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b420d49baca6e04cbb52179881701ecc57f5deac
+source-git-commit: 034bb35c7f1d46fb001c5380947f563d130b5ab9
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '856'
 ht-degree: 5%
 
 ---
@@ -162,20 +162,20 @@ ht-degree: 5%
   </tr>
   <tr>
    <td>2026年8月26日（PT）</td>
-   <td>AB40<br>
+   <td><i>AB40</i><br>
    AB50</td>
-   <td>午後5時（太平洋夏時間）<br>
+   <td><i>PDT</i><br>午後5時
    午後6時（太平洋夏時間）</td>
-   <td>予定通り<br>
+   <td><i>延期（未定） </i><br>
    予定通り</td>
   </tr>
   <tr>
    <td>2026年8月28日（PT）</td>
-   <td>AB53<br>
+   <td><i>AB53</i><br>
    AB56</td>
-   <td>午後3時（太平洋夏時間）<br>
+   <td><i>PDT</i><br>午後3時
    午後4時（太平洋夏時間）</td>
-   <td>予定通り<br>
+   <td><i>延期（未定） </i><br>
    予定通り</td>
   </tr>
   <tr>
@@ -211,6 +211,24 @@ ht-degree: 5%
    AB08</td>
    <td>午後5時（太平洋夏時間）<br>
    午後6時（太平洋夏時間）</td>
+   <td>予定通り<br>
+   予定通り</td>
+  </tr>
+  <tr>
+   <td>2026年9月22日（PT）</td>
+   <td>AB09<br>
+   AB12</td>
+   <td>午後5時（太平洋夏時間）<br>
+   午後6時（太平洋夏時間）</td>
+   <td>予定通り<br>
+   予定通り</td>
+  </tr>
+  <tr>
+   <td>2026年9月25日（PT）</td>
+   <td>AB10<br>
+   AB11</td>
+   <td>午後4時（太平洋夏時間）<br>
+   午後5時（太平洋夏時間）</td>
    <td>予定通り<br>
    予定通り</td>
   </tr>

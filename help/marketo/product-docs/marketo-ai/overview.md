@@ -2,7 +2,7 @@
 description: プログラムのQA、リードのインポート、データの正規化など、マーケティングタスクを自動化するために設計されたMarketoのAI エージェント群をご覧ください。
 title: Marketo AIの概要
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 13a4d86a8f99417431a834bcddf52bbdd42b303f
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 1%
@@ -29,7 +29,7 @@ MarketoのAIは、時間はかかりますが、重要なマーケティング�
 
 ![](assets/overview-1.png)
 
-プロンプトフィールドにリクエストを入力するか、以下のいずれかの担当者を選択します。
+プロンプトフィールドにリクエストを入力するか、以下のいずれかのスキルを選択します。
 
 ![](assets/overview-2.png)
 
