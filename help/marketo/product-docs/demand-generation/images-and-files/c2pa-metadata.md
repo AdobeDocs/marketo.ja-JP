@@ -3,10 +3,10 @@ description: Marketo Engageで、AIが生成した画像にC2PA メタデータ�
 title: Marketo EngageのC2PA メタデータ
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
+source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 3%
+source-wordcount: '715'
+ht-degree: 2%
 
 ---
 
@@ -46,5 +46,6 @@ Marketo Engageは、サポートされている画像アセットに関連付け
 
 ## その他のリソース
 
-* [Adobe Experience Cloud生成AI ユーザーガイドライン](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [ガードレールと制限](https://experienceleague.adobe.com/ja/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [生成AI コンテンツの透明性](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
+* [Adobe Experience Cloud生成AI ユーザーガイドライン](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}
+* [ガードレールと制限](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
