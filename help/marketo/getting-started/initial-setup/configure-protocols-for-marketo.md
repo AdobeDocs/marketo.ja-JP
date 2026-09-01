@@ -5,10 +5,23 @@ title: Marketo Engage のプロトコルの設定​
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 TQID: https://experienceleague.adobe.com/n72OlCpE-aAbj1MCQumumk-sh9TUZe-bNpreVmVl2q8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e2290edd-b061-4880-9d79-dee306cf5aa9id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: fc9b09fe-b844-4544-887b-e420c3b82065
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
 source-git-commit: 4feed2fefe2180d5a123684eaa33be21ce93da68
 workflow-type: tm+mt
 source-wordcount: 2192
@@ -269,7 +282,7 @@ DMARC には 2 種類のアライメント、つまり DKIM アライメント�
 
   * ブランドの Return-Path ドメインに対して DMARC を設定します
 
-* 専用IPを介してMarketo Engageからメールを送信しており、ブランド化されたリターンパスをまだ実装していない場合、または使用しているかどうかわからない場合は、[Adobe サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}でチケットを開いてください。
+* 専用IPを介してMarketo Engageからメールを送信しており、ブランド化されたリターンパスをまだ実装していない場合、または使用しているかどうかわからない場合は、[Adobe サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}でチケットを開いてください。
 
 * Marketo Engageから共有IP プールを介してメールを送信する場合は、信頼済みIPの対象となるかどうかを[ここで](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}適用して確認できます。 Marketo の信頼済み IP から送信するユーザには、ブランドの Return-Path が無料で提供されます。 このプログラムの承認を受けた場合は、Adobe サポートに連絡してブランディングした return-path を設定してください。
 
@@ -289,11 +302,11 @@ MX レコードを使用すると、メールを送信するドメインにメ�
 
 ### Web フック
 
-Marketo Engage[Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}は、アウトバウンド統合メカニズムです。 スマートキャンペーンの一部として[ Webhook を呼び出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"}フローアクションが実行されると、外部の web サービスに対して HTTP リクエストが行われます。 Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
+Marketo Engage[Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}は、アウトバウンド統合メカニズムです。 スマートキャンペーンの一部として[&#x200B; Webhook を呼び出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"}フローアクションが実行されると、外部の web サービスに対して HTTP リクエストが行われます。 Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
 
 ### CRM 同期
 
-Marketo Engage[Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}と[ Microsoft Dynamics同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}は、CRM ベンダーによって公開された API へのアウトバウンド HTTP リクエストを行う統合メカニズムです。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
+Marketo Engage[Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}と[&#x200B; Microsoft Dynamics同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}は、CRM ベンダーによって公開された API へのアウトバウンド HTTP リクエストを行う統合メカニズムです。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
 
 ### Marketo Engageのアウトバウンド IP アドレス ブロック
 
@@ -322,7 +335,7 @@ Marketo Engage[Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesf
 </table>
 
 <br>
-** 個別IP アドレス**
+**&#x200B; 個別IP アドレス**
 <table>
   <tbody>
     <tr>
