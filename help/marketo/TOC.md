@@ -498,7 +498,7 @@ ht-degree: 96%
       + {hide-from-toc}[&#x200B; リードの調査](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + {hide-from-toc}[&#x200B; リードの読み込み](product-docs/coworker-for-marketo/skills/import-leads.md)
       + {hide-from-toc}[&#x200B; プログラムの検証](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mcp-server)
   + CRM 同期 {#crm-sync}
     + Microsoft Dynamics 同期 {#microsoft-dynamics}
       + [Microsoft Dynamics 同期について](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1136,7 +1136,7 @@ ht-degree: 96%
       + [リードの調査](product-docs/marketo-ai/skills/investigate-leads.md)
       + [リードの読み込み](product-docs/marketo-ai/skills/import-leads.md)
       + [プログラムの検証](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mcp-server)
   + Marketo の通知 {#marketo-notifications}
     + {hide-from-toc}[通知：Websocket接続](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo セールスコネクト {#marketo-sales-connect}
