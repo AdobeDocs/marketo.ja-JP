@@ -1,9 +1,9 @@
 ---
 description: Marketo Engage権限に対して共同作業者を有効にする方法、組織ルールの設定方法、統合機能や通知などの管理方法について説明します。
 title: 設定と設定
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 73a09b315526dda5bd4d53646a17141a16943218
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '593'
 ht-degree: 4%
 
 ---
@@ -14,13 +14,17 @@ ht-degree: 4%
 
 >[!AVAILABILITY]
 >
->この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にCoworker for Marketo Engage タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
+>この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にCoworker for Marketo Engage タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[ コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
+
+>[!IMPORTANT]
+>
+>この機能は、以前はMarketo AIと呼ばれていました。 権限とユーザーのロール名はまだ更新されておらず、今後のリリースで変更される予定です。 それまでは、管理者セクションに前の名前が表示されます。
 
 ## 権限と役割 {#permission-and-role}
 
 _Marketo AI_&#x200B;へのアクセス権限と&#x200B;_Marketo AI User_&#x200B;のロールがあり、管理者は&#x200B;**Marketo AI**&#x200B;機能にアクセスできるユーザーをより詳細に制御できます。 権限はロールレベルで割り当てられます。 _Marketo AI ユーザー_ ロールには、デフォルトで有効になっている&#x200B;_Marketo AI_&#x200B;へのアクセス権限が付与されています。
 
->[!IMPORTANT]
+>[!NOTE]
 >
 >_Marketo AI_&#x200B;へのアクセス権限は、すべてのロールに対してデフォルトで有効になっていません。 詳しくは、以下の表を参照してください。
 
@@ -75,7 +79,7 @@ _Marketo AI_&#x200B;へのアクセス権限と&#x200B;_Marketo AI User_&#x200B;
 
 ### カスタム役割 {#custom-role}
 
-また、[新しいロール &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して権限をカスタマイズし、_必要な他のロールと共に_ Marketoにアクセスし、[そのロール &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てるオプションもあります。
+また、[新しいロール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して権限をカスタマイズし、_必要な他のロールと共に_ Marketoにアクセスし、[そのロール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てるオプションもあります。
 
 ## 設定 {#settings}
 
