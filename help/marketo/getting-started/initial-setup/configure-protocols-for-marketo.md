@@ -1,39 +1,26 @@
 ---
 unique-page-id: 4720433
-description: Marketo のプロトコルの設定 - Marketo ドキュメント - 製品ドキュメント
-title: Marketo のプロトコルの設定
+description: Marketo Engage のプロトコルの設定 - Marketo Engage ドキュメント - 製品ドキュメント
+title: Marketo Engage のプロトコルの設定​
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
 TQID: https://experienceleague.adobe.com/n72OlCpE-aAbj1MCQumumk-sh9TUZe-bNpreVmVl2q8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-subfeature_v2:
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: fc9b09fe-b844-4544-887b-e420c3b82065
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e2290edd-b061-4880-9d79-dee306cf5aa9id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 4feed2fefe2180d5a123684eaa33be21ce93da68
 workflow-type: tm+mt
-source-wordcount: 2203
+source-wordcount: 2192
 ht-degree: 83%
 
 ---
 
-# Marketo のプロトコルの設定{#configure-protocols-for-marketo-engage}
+# Marketo Engage のプロトコルの設定&#x200B;{#configure-protocols-for-marketo-engage}
 
 お客様またはお客様の組織が制限的なファイアウォールまたはプロキシサーバー設定を使用している場合、お客様またはネットワーク管理者は、Adobe Marketo Engage が期待通りに動作するように、特定のドメインおよび IP アドレス範囲を許可する必要が生じる場合があります。
 
-以下のプロトコルの実装に関するヘルプについては、この記事を IT 部門と共有してください。 許可リストを使用して web アクセスを制限する場合は、次のドメイン（アスタリスクを含む）を追加して、すべての Marketo リソースと WebSocket を許可します。
+以下のプロトコルの実装に関するヘルプについては、この記事を IT 部門と共有してください。 許可リストを使用して web アクセスを制限する場合は、次のドメイン（アスタリスクを含む）を追加して、すべての Marketo Engage リソースと WebSocket 接続を許可します。
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
@@ -45,7 +32,7 @@ ht-degree: 83%
 
 **トラッキングリンク CNAME**
 
-マーケティングチームから、新しい CNAME レコードに関する 2 件のリクエストが送信されているはずです。 1 件目はランディングページの URL 用です。これにより、ランディングページは、Marketo（実際のホスト）ではなく、顧客のドメインを反映した URL で表示されます。 2 件目は、Marketo から送信されるメールに含まれるトラッキングリンク用です。
+マーケティングチームから、新しい CNAME レコードに関する 2 件のリクエストが送信されているはずです。 1 件目はランディングページの URL 用です。これにより、ランディングページは、Adobe Marketo Engage（実際のホスト）ではなく、自社のドメインを反映した URL で表示されます。 2 件目は、Adobe Marketo Engage から送信されるメールに含まれるトラッキングリンク用です。
 
 `1` **ランディングページ用の CNAME の追加**
 
@@ -76,9 +63,9 @@ Marketo Engageが割り当てたデフォルトのトラッキングリンクで
 
 プロセスが完了するまでに最大で 3 営業日かかります。
 
-## 手順 2：Marketo IP の許可リスト {#step-allowlist-marketo-ips}
+## 手順 2：Marketo Engage の IP アドレスを許可リストに追加 {#step-allowlist-marketo-ips}
 
-Marketo を使用してテストメールを送信する（メールの破棄を送信する前のベストプラクティス）と、メールが有効であることを検証するために送信者の IP アドレスに依存するスパム対策システムによってテストメールがブロックされる場合があります。 これらのテスト用のメールが届くようにするには、許可リストに Marketo を追加します。
+マーケティンググループが Adobe Marketo Engage を使用してテストメールを送信する場合（大量配信メールを送信する前のベストプラクティス）、送信者の IP アドレスに依存してメールの有効性を検証するスパム対策システムによって、テストメールがブロックされることがあります。 これらのテスト用のメールが届くようにするには、許可リストに Marketo Engage を追加します。
 
 以下の IP アドレスを会社の許可リストに追加します。
 
@@ -96,7 +83,7 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 
 199.15.212.0/22
 
-一部のスパム対策システムでは、許可リストの IP アドレスの代わりにメールの Return-Path フィールドを使用します。 Marketo は複数のメールボックスサブドメインを使用するので、このような場合の最善の方法は&#42;「*.mktomail.com」を許可リストに追加することです。その他のスパム対策システムは送信元アドレスに基づいて許可リストに登録します。 その他のスパム対策システムは送信元アドレスに基づいて許可リストに登録します。 このような状況では、マーケティンググループがユーザーやリードとの通信に使用するすべての送信（「From」）ドメインを必ず含めてください。
+一部のスパム対策システムでは、IP アドレスではなくメールの Return-Path フィールドを使用して許可リストを設定します。 Marketo は複数のメールボックスサブドメインを使用するので、このような場合の最善の方法は&#42;「*.mktomail.com」を許可リストに追加することです。その他のスパム対策システムは送信元アドレスに基づいて許可リストに登録します。 その他のスパム対策システムは送信元アドレスに基づいて許可リストに登録します。 このような状況では、マーケティンググループがユーザーやリードとの通信に使用するすべての送信（「From」）ドメインを必ず含めてください。
 
 >[!NOTE]
 >
@@ -109,12 +96,12 @@ Marketo を使用してテストメールを送信する（メールの破棄を
 1. SPF を設定するには、DNS エントリに以下の行を追加します。
 
    TXT v=spf1 mx ip4の`[CompanyDomain]`:`[CorpIP]`
-include: mktomail.com ～all
+   include: mktomail.com ～all
 
    DNS エントリに既に SPF レコードが存在する場合は、以下のコードを追加します。
-次を含める：mktomail.com
+   次を含める：mktomail.com
 
-   CompanyDomain を Web サイトのメインドメイン（例：`(company.com/)`）で置き換え、CorpIP を会社のメールサーバーの IP アドレス（例： &quot;255.255.255.255&quot;). Marketo を通じて複数のドメインからメールを送信する場合は、IT スタッフに各ドメインに対してこの行を（1 行で）追加してもらう必要があります。
+   CompanyDomain を Web サイトのメインドメイン（例：`(company.com/)`）で置き換え、CorpIP を会社のメールサーバーの IP アドレス（例： &quot;255.255.255.255&quot;). Adobe Marketo Engage を通じて複数のドメインからメールを送信する場合は、IT スタッフに各ドメインに対してこの行を（1 行で）追加してもらう必要があります。
 
 1. DKIM の場合は、設定するドメインごとに DNS リソースレコードを作成します。 署名する各ドメインのホストレコードと TXT 値を以下に示します。
 
@@ -153,7 +140,7 @@ DMARC が機能するには、次の DNS TXT レコードの 1 つ以上が必�
 
    (1) レポートを確認して、結果が期待どおりであることを確認します。
 
-1. p=強制隔離レベルでのメッセージの動作に満足している場合は、ポリシーを（p=reject）に調整できます。 p=reject ポリシーは、認証に失敗したドメイン宛てのメールを完全に拒否（バウンス）するように受信者に通知します。 このポリシーを有効にすると、ドメインによって 100％認証されたことが確認されたメールのみがインボックスに配置される可能性があります。
+1. p=強制隔離レベルでのメッセージの動作に満足している場合は、ポリシーを（p=reject）に調整できます。 p=reject ポリシーは、そのドメインとしての認証に失敗したメールを完全に拒否（バウンス）するように受信側に指示します。 このポリシーを有効にすると、ドメインによって 100％認証されたことが確認されたメールのみがインボックスに配置される可能性があります。
 
 >[!CAUTION]
 >
@@ -167,7 +154,7 @@ DMARC は、SPF／DKIM に失敗したメールに関するレポートを受信
 
 * フォレンジックレポート（RUF）：GDPR の対象となるメールアドレスが含まれます。 利用する前に、GDPRに準拠する必要がある情報の扱い方を社内で確認することをお勧めします。
 
-これらのレポートの主な使用方法は、スプーフィングが試みられたメールの概要を取得することです。 これらは技術的なレポートであり、サードパーティのツールを使用するのが最も効果的です。
+これらのレポートの主な使用方法は、スプーフィングが試みられたメールの概要を取得することです。 これらは高度に技術的なレポートであり、サードパーティのツールを使用すると最も理解しやすくなります。
 
 ### DMARC レコードの例 {#example-dmarc-records}
 
@@ -245,14 +232,14 @@ DMARC レコードには、DMARC タグと呼ばれる複数のコンポーネ�
   <tr>
     <td>adkim</td>
     <td>オプション</td>
-    <td>Strict (s) または Relaxed ® のいずれかになります。 Relaxed 整列では、DKIM 署名で使用されるドメインが「送信元」アドレスのサブドメインになる可能性があります。 Strict 整列では、DKIM 署名で使用されるドメインが送信元アドレスで使用されるドメインと完全に一致する必要があります。</td>
+    <td>Strict (s) または Relaxed ® のいずれかになります。 Relaxed アライメントでは、DKIM 署名で使用されるドメインを From アドレスのサブドメインにすることができます。 Strict 整列では、DKIM 署名で使用されるドメインが送信元アドレスで使用されるドメインと完全に一致する必要があります。</td>
     <td>adkim=r </td>
     <td>r</td>
   </tr>
   <tr>
     <td>aspf</td>
     <td>オプション</td>
-    <td>Strict (s) または Relaxed ® のいずれかになります。 Relaxed 整列では、ReturnPath ドメインが送信元アドレスのサブドメインできることを意味します。 Strict 整列では、Return-Path ドメインが送信元アドレスと完全に一致する必要があります。</td>
+    <td>Strict (s) または Relaxed ® のいずれかになります。 Relaxed アライメントでは、Return-Path ドメインを From アドレスのサブドメインにすることができます。 Strict アライメントでは、Return-Path ドメインは From アドレスと完全に一致している必要があります。</td>
     <td>aspf=r</td>
     <td>r</td>
   </tr>
@@ -263,7 +250,7 @@ DMARC とそのすべてのオプションについて詳しくは、[https://dm
 
 ### DMARC と Marketo Engage {#dmarc-and-marketo-engage}
 
-DMARC の整列には、DKIM 整列と SPF 整列の 2 つのタイプがあります。
+DMARC には 2 種類のアライメント、つまり DKIM アライメントと SPF アライメントがあります。
 
 >[!NOTE]
 >
@@ -271,26 +258,26 @@ DMARC の整列には、DKIM 整列と SPF 整列の 2 つのタイプがあり�
 
 * DKIM に整列された DMARC - DKIM に整列された DMARC を設定するには、以下を行う必要があります。
 
-   * メッセージの送信元ドメインに対して DKIM を設定します。 [この記事](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}の手順に従ってください。
-   * 以前に設定した送信元／DKIM ドメインに対して DMARC を設定します
+  * メッセージの送信元ドメインに対して DKIM を設定します。 [この記事](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}の手順に従ってください。
+  * 以前に設定した送信元／DKIM ドメインに対して DMARC を設定します
 
 * DMARC に整列された SPF - DMARC に整列された SPF をブランドの Return-Path を通じて設定するには、以下を行う必要があります。
 
-   * ブランドの Return-Path ドメインを設定します
-      * 適切な SPF レコードを設定します
-      * メールの送信元となるデータセンターのデフォルトの MX を指すように MX レコードを変更します
+  * ブランドの Return-Path ドメインを設定します
+    * 適切な SPF レコードを設定します
+    * メールの送信元となるデータセンターのデフォルトの MX を指すように MX レコードを変更します
 
-   * ブランドの Return-Path ドメインに対して DMARC を設定します
+  * ブランドの Return-Path ドメインに対して DMARC を設定します
 
-* 専用IPを介してMarketo Engageからメールを送信しており、ブランド化されたリターンパスをまだ実装していない場合、または使用しているかどうかわからない場合は、[Adobe サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}でチケットを開いてください。
+* 専用IPを介してMarketo Engageからメールを送信しており、ブランド化されたリターンパスをまだ実装していない場合、または使用しているかどうかわからない場合は、[Adobe サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}でチケットを開いてください。
 
-* Marketo Engageから共有IP プールを介してメールを送信する場合は、信頼済みIPの対象となるかどうかを[ここで](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}適用して確認できます。 Marketo の信頼済み IP から送信するユーザには、ブランドの Return-Path が無料で提供されます。 このプログラムに対して承認された場合は、Marketo サポートに連絡してブランドの Return-Path を設定してください。
+* Marketo Engageから共有IP プールを介してメールを送信する場合は、信頼済みIPの対象となるかどうかを[ここで](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}適用して確認できます。 Marketo の信頼済み IP から送信するユーザには、ブランドの Return-Path が無料で提供されます。 このプログラムの承認を受けた場合は、Adobe サポートに連絡してブランディングした return-path を設定してください。
 
-   * 信頼済み IP：専用 IP の資格がなく、月あたりの送信メッセージが 75,000 件未満の低メッセージ量ユーザ用に予約された共有 IP プール。 また、これらのユーザは、ベストプラクティスの要件も満たす必要があります。
+  * 信頼済み IP：専用 IP の資格がなく、月あたりの送信メッセージが 75,000 件未満の低メッセージ量ユーザ用に予約された共有 IP プール。 また、これらのユーザは、ベストプラクティスの要件も満たす必要があります。
 
 * Marketo Engageから共有IPを介してメールを送信する場合、信頼できるIPの対象にならず、月に10万件以上のメッセージを送信する場合は、Adobe アカウントチーム（アカウントマネージャー）に連絡して専用IPを購入する必要があります。
 
-* Strict SPF 整列は Marketo 内ではサポートされておらず、推奨されてもいません。
+* Strict SPF アラインメントは Marketo Engage ではサポートされておらず、推奨もされません。
 
 ## 手順 5：ドメインの MX レコードの設定 {#step-set-up-mx-records-for-your-domain}
 
@@ -300,102 +287,78 @@ MX レコードを使用すると、メールを送信するドメインにメ�
 
 アウトバウンド接続とは、Marketo Engage がお客様に代わってインターネット上のサーバーに接続するものです。 取引先のパートナー／ベンダー、またはご自身の IT 組織では、サーバーへのアクセスを制限するために許可リストを使用する場合があります。 その場合、Marketo Engage のアウトバウンド IP アドレスブロックを提供し、許可リストに追加してもらう必要があります。
 
-**Webhook**
+### Web フック
 
-Marketo Engage[Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}は、アウトバウンド統合メカニズムです。 スマートキャンペーンの一部として[&#x200B; Webhook を呼び出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"}フローアクションが実行されると、外部の web サービスに対して HTTP リクエストが行われます。 Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
+Marketo Engage[Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}は、アウトバウンド統合メカニズムです。 スマートキャンペーンの一部として[ Webhook を呼び出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"}フローアクションが実行されると、外部の web サービスに対して HTTP リクエストが行われます。 Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
 
-**CRM 同期**
+### CRM 同期
 
-Marketo Engage[Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}と[&#x200B; Microsoft Dynamics同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}は、CRM ベンダーによって公開された API へのアウトバウンド HTTP リクエストを行う統合メカニズムです。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
+Marketo Engage[Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}と[ Microsoft Dynamics同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}は、CRM ベンダーによって公開された API へのアウトバウンド HTTP リクエストを行う統合メカニズムです。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
 
-**Marketo Engage アウトバウンド IP アドレスブロック**
+### Marketo Engageのアウトバウンド IP アドレス ブロック
 
 以下の表は、アウトバウンドコールを行うすべての Marketo Engage サーバーを対象としています。 IP アドレス、サーバー、ファイアウォール、アクセス制御リスト、セキュリティグループ、またはサードパーティのサービスをMarketo Engageから受信するように設定している場合は、以下のリストを使用します。
 
+**IP ブロック （CIDR表記法）**
 <table>
  <tbody>
-  <tr>
-   <th>IP ブロック（CIDR 表記）</th>
-  </tr>
    <tr>
    <td>130.248.172.0/24</td>
-  </tr>
-   <tr>
    <td>130.248.173.0/24</td>
   </tr>
-  <tr>
+   <tr>
    <td>130.248.244.88/29</td>
-  </tr>
-  <tr>
    <td>185.28.196.0/22</td>
   </tr>
   <tr>
    <td>192.28.144.0/20</td>
-  </tr>
-  <tr>
    <td>192.28.160.0/19</td>
   </tr>
   <tr>
    <td>199.15.212.0/22</td>
+   <td> </td>
   </tr>
- </tbody>
+  </tbody>
 </table>
 
+<br>
+** 個別IP アドレス**
 <table>
- <tbody>
-  <tr>
-   <th>個別の IP アドレス</th>
-  </tr>
-  <tr>
-   <td>13.237.155.207</td>
-  </tr>
-   <tr>
-   <td>13.55.192.247</td>
-  </tr>
-  <tr>
-   <td>18.200.201.81</td>
-  </tr>
-  <tr>
-   <td>34.247.24.245</td>
-  </tr>
-  <tr>
-   <td>35.165.244.220</td>
-  </tr>
-  <tr>
-   <td>44.235.171.179</td>
-  </tr>
-  <tr>
-   <td>52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>52.64.109.86</td>
-  </tr>
-  <tr>
-   <td>54.160.246.246</td>
-  </tr>
-  <tr>
-   <td>54.212.167.17</td>
-  </tr>
-  <tr>
-   <td>54.220.138.65</td>
-  </tr>
-   <tr>
-   <td>54.237.141.197</td>
-  </tr>
-  <tr>
-   <td>124.47.174.193</td>
-  </tr>
-  <tr>
-   <td>130.248.168.16</td>
-  </tr>
-   <tr>
-   <td>130.248.168.17</td>
-  </tr>
-  <tr>
-   <td>199.15.213.245</td>
-  </tr>
-  <tr>
-   <td>199.15.215.245</td>
-  </tr>
- </tbody>
+  <tbody>
+    <tr>
+      <td>13.237.155.207</td>
+      <td>13.55.192.247</td>
+      <td>18.200.201.81</td>
+    </tr>
+    <tr>
+      <td>34.247.24.245</td>
+      <td>35.165.244.220</td>
+      <td>44.235.171.179</td>
+    </tr>
+    <tr>
+      <td>52.20.211.99</td>
+      <td>52.64.109.86</td>
+      <td>54.160.246.246</td>
+    </tr>
+    <tr>
+      <td>54.212.167.17</td>
+      <td>54.220.138.65</td>
+      <td>54.237.141.197</td>
+    </tr>
+    <tr>
+      <td>66.235.146.130</td>
+      <td>66.235.146.131</td>
+      <td>124.47.174.193</td>
+    </tr>
+    <tr>
+      <td>130.248.168.16</td>
+      <td>130.248.168.17</td>
+      <td>199.15.213.245</td>
+    </tr>
+    <tr>
+      <td>199.15.215.245</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
 </table>
