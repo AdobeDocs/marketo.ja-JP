@@ -14,13 +14,13 @@ Adobe Marketo Engageの担当者は、時間のかかる重要なマーケティ
 
 >[!AVAILABILITY]
 >
->この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にCoworker for Marketo Engage タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[ コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
+>この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にCoworker for Marketo Engage タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 >[!IMPORTANT]
 >
->* Marketo Engage用Coworkerがサブスクリプションに対して有効になった後、必要なユーザーがアクセスできるようにするには、いくつかの[ セットアップ手順](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"}を実行する必要があります。
+>* Marketo Engage用Coworkerがサブスクリプションに対して有効になった後、必要なユーザーがアクセスできるようにするには、いくつかの[&#x200B; セットアップ手順](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"}を実行する必要があります。
 >
->* Marketo Engage [ データインフォメーションシート ](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}のCoworkerで、データスコープ、ガバナンス制御、およびPIIに関する考慮事項を確認します。
+>* Marketo Engage [&#x200B; データインフォメーションシート &#x200B;](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}のCoworkerで、データスコープ、ガバナンス制御、およびPIIに関する考慮事項を確認します。
 
 ## アクセス方法 {#access}
 
@@ -38,11 +38,11 @@ My Marketo画面で、**Coworker for Marketo Engage** タイルをクリック�
 
 ### リードの調査 {#investigate-leads}
 
-特定のリードがマイルストーン（MQL、プログラムのクオリフィケーション、キャンペーンなど）に到達しなかった理由を突き止め、何が起こったのかを平易な言葉で説明できます。 [ リードの調査スキル ](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}について詳しく説明します。
+特定のリードがマイルストーン（MQL、プログラムのクオリフィケーション、キャンペーンなど）に到達しなかった理由を突き止め、何が起こったのかを平易な言葉で説明できます。 [&#x200B; リードの調査スキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}について詳しく説明します。
 
 ### 製品知識 {#product-knowledge}
 
-Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門に依頼することなく、Marketoの専門知識を活用できます。 平易な言葉で質問し、Adobeの公式ドキュメントにもとづいてMarketo Engageで回答します。 [製品知識スキル ](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}について詳しく説明します。
+Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門に依頼することなく、Marketoの専門知識を活用できます。 平易な言葉で質問し、Adobeの公式ドキュメントにもとづいてMarketo Engageで回答します。 [製品知識スキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}について詳しく説明します。
 
 ### プログラムの検証 {#validate-programs}
 
@@ -50,7 +50,7 @@ Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門
 
 ### リードの読み込み {#import-leads}
 
-フィールドマッピング機能を利用すれば、リードリストをMarketo Engageデータベースにインポートして重複を排除できます。 [ リードの読み込みスキル ](/help/marketo/product-docs/coworker-for-marketo/skills/import-leads.md){target="_blank"}について詳しく説明します。
+フィールドマッピング機能を利用すれば、リードリストをMarketo Engageデータベースにインポートして重複を排除できます。 [&#x200B; リードの読み込みスキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/import-leads.md){target="_blank"}について詳しく説明します。
 
 ## 近日リリース予定 {#coming-soon}
 
