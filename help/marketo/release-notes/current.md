@@ -74,12 +74,12 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **Marketo AIは現在、Coworker for Marketo Engageになっています**: Coworker for Marketo Engageは、時間のかかるマーケティング機能を自動化するために設計された担当者のスキルを提供します。 すべてのユーザーが利用できる新しい名前、同じ機能。 [詳細情報](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
+* **Marketo AIは現在、Coworker for Marketo Engageになっています**: Coworker for Marketo Engageは、時間のかかるマーケティング機能を自動化するために設計された担当者のスキルを提供します。 すべてのユーザーが利用できる新しい名前、同じ機能。 [詳細情報](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年8月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
 * **REST API Campaign Run ID**：特定の状況において、アクティビティのCampaign Run ID値が、2つの引用符のペアの間で、誤った形式で返されることがありました（例：`"campaignRunId": ""102938""`）。<br/>8月のリリース以降、この値は常に正しい数値形式（`"campaignRunId": 102938`）で返されます
 
-* **リード活動を取得およびリード変更を取得するための静的リストサイズ制限**:2026年9月30日（PT）以降、ターゲットリストに10,000個以上のリードが含まれ、ターゲットスタティックリストにレコードが多すぎることを示すエラーコードが10,003個ある場合、`listId` パラメーターを含むリード活動を取得またはリード変更エンドポイントの取得呼呼呼呼失敗が発生発生します。 詳細については、[移行ガイド &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
+* **リード活動を取得およびリード変更を取得するための静的リストサイズ制限**:2026年9月30日（PT）以降、ターゲットリストに10,000個以上のリードが含まれ、ターゲットスタティックリストにレコードが多すぎることを示すエラーコードが10,003個ある場合、`listId` パラメーターを含むリード活動を取得またはリード変更エンドポイントの取得呼呼呼呼失敗が発生発生します。 詳細については、[移行ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
 
 * **REST API結合リードの制限**:2026年7月31日（PT）現在、結合リード API呼び出しのleadIds パラメーターに25を超えるIDを含む呼び出しは、1080 エラーコードになり、呼び出しはスキップされます。 25以上のレコードを1つのレコードに統合する必要があるジョブは、それらの呼び出しを成功させるために複数のジョブに分割する必要があります。
