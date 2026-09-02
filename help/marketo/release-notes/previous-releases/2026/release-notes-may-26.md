@@ -2,10 +2,10 @@
 description: リリースノート - 2026年5月 – Marketo Docs – 製品ドキュメント
 title: リリースノート - 2026年5月
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 15%
+source-wordcount: '805'
+ht-degree: 14%
 
 ---
 
@@ -17,7 +17,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、2026年5月22日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに該当し、2026年5月22日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 ****&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -27,10 +27,10 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong>Marketo AI</strong>：時間のかかる重要なマーケティング機能を自動化するために設計された一連のエージェントを利用します（現在利用可能な2つのエージェント、近日リリース予定）。
+   <td><strong>Marketo AI</strong>：時間のかかる重要なマーケティング機能を自動化するために設計された一連の担当者スキルを活用します（現在利用可能な2つの担当者スキル、近日リリース予定）。
 </td>
    <td>オープンベータ</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AIの概要</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Marketo AIの概要</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -40,7 +40,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>Marketo Engage MCP Server</strong>: Marketo Engage MCP サーバーは、AI アシスタントとMarketo Engageの間のブリッジとして機能します。 フォーム、プログラム、スマートキャンペーン、人物/リード、メール、スニペット、リスト、フォルダーなど、100を超える業務を公開します。</td>
    <td>オープンベータ</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ja" target="_blank">Marketo MCP Server</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Marketo MCP Server</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat – 入力しています</strong>：訪問者と担当者の両方に、相手が入力している間に「入力しています…」という通知が表示され、一方が他方を中断できなくなります。
+   <td><strong>Dynamic Chat – 入力しています</strong>：訪問者と担当者の両方に「入力しています…」と表示されます。 一方が入力している間に通知を送信し、一方が他方を中断しないようにします。
    </td>
    <td>リリース</td>
    <td>該当なし</td>
@@ -102,7 +102,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat – 新しい属性の同期ビヘイビアー</strong>：以前は、新しい属性を追加すると、同期が完了するまでの最大24時間、環境内の変更がブロックされ、ダイアログの編集と公開が妨げられました。新しい属性を追加する際には、完全なデータ同期が必要ですが（これには最大24時間かかる場合があります）、プロセス中に環境がブロックされなくなりました。
+   <td><strong>Dynamic Chat – 新しい属性の同期ビヘイビアー</strong>：以前は、新しい属性を追加すると、同期が完了するまでの最大24時間、環境内の変更がブロックされ、ダイアログの編集と公開が妨げられました。 新しい属性を追加する際には、完全なデータ同期が必要ですが（これには最大24時間かかる場合があります）、プロセス中に環境がブロックされなくなりました。
    </td>
    <td>リリース</td>
    <td>該当なし</td>
@@ -123,7 +123,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 今年の初めに、取り残されていた関連フィールドがMarketoから削除されました。 その後すぐに、特定のソーシャル関連のリードフィールドを参照するAPI リクエストで「フィールドが見つかりません」エラーが返され、中断が発生しました。 影響を受けるフィールドが再度使用可能になった後にサービスが復元されたため、さらなる中断を防ぐために、Marketoはソーシャル機能の非推奨化からソーシャルフィールドを永続的に分離しました（そのため、Marketo アカウントで利用できるようになります）。 Marketoのソーシャル関連フィールドを参照するAPI クエリと統合を確認し、それらのフィールドが継続的なビジネスプロセスに引き続き必要かどうかを判断することをお勧めします。
 
-* **ブール型フィールドのAPI結合機能**: API結合内のブール型フィールドの動作が、&#39;26年3月リリースで変更されました。 ここで、False値は、そのフィールドの値を持つものとして正しく扱われます。 競合するフィールドを評価する場合、null値のみが「空」として扱われます。 詳しくは、[このコミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=ja){target="_blank"}を参照してください。
+* **ブール型フィールドのAPI結合機能**: API結合内のブール型フィールドの動作が、&#39;26年3月リリースで変更されました。 ここで、False値は、そのフィールドの値を持つものとして正しく扱われます。 競合するフィールドを評価する場合、null値のみが「空」として扱われます。 詳しくは、[このコミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"}を参照してください。
 
 * **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年8月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 
@@ -131,4 +131,4 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **SOAP APIの非推奨化**: Marketo SOAP APIのサポートは、2026年7月31日に終了します。 SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
 
-* **リードアクティビティを取得およびリード変更を取得するための静的リストサイズの制限**: 2026年9月30日（PT）以降、「`listId`」パラメーターを含むリードアクティビティを取得およびリード変更を取得」エンドポイントへの呼び出しは、ターゲット静的リストに10,000個以上のリードが含まれている場合、1003 エラーコードを返します。 詳しくは、[移行ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
+* **リードアクティビティを取得およびリード変更を取得するための静的リストサイズの制限**: 2026年9月30日（PT）以降、「`listId`」パラメーターを含むリードアクティビティを取得およびリード変更を取得」エンドポイントへの呼び出しは、ターゲット静的リストに10,000個以上のリードが含まれている場合、1003 エラーコードを返します。 詳しくは、[移行ガイド ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
