@@ -498,7 +498,7 @@ ht-degree: 96%
       + [リードの調査](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [リードの読み込み](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [プログラムの検証](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mcp-server)
   + CRM 同期 {#crm-sync}
     + Microsoft Dynamics 同期 {#microsoft-dynamics}
       + [Microsoft Dynamics 同期について](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
