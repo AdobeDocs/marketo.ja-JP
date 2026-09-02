@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 10781cbfd51019a2e4af346803a2e35ef40855d0
+source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
 workflow-type: tm+mt
-source-wordcount: '8927'
+source-wordcount: '8968'
 ht-degree: 96%
 
 ---
@@ -486,6 +486,19 @@ ht-degree: 96%
       + [予測オーディエンスの概要](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [モデルとインサイト](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [予測フィルター](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
+  + Marketo Engageの共同作業 {#coworker-for-marketo}
+    + {hide-from-toc}[概要](product-docs/coworker-for-marketo/overview.md)
+    + {hide-from-toc}[設定と設定](product-docs/coworker-for-marketo/settings-setup.md)
+    + {hide-from-toc}[Marketo Engage データインフォメーションシートの同僚](product-docs/coworker-for-marketo/data-information.md)
+    + スキル {#skills}
+      + {hide-from-toc}[製品ナレッジ &#x200B;](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/coworker-for-marketo/skills/surface-insights.md)
+      + {hide-from-toc}[&#x200B; プログラムの作成](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[&#x200B; コピープログラム &#x200B;](product-docs/coworker-for-marketo/skills/clone-program.md)
+      + {hide-from-toc}[&#x200B; リードの調査](product-docs/coworker-for-marketo/skills/investigate-leads.md)
+      + {hide-from-toc}[&#x200B; リードの読み込み](product-docs/coworker-for-marketo/skills/import-leads.md)
+      + {hide-from-toc}[&#x200B; プログラムの検証](product-docs/coworker-for-marketo/skills/validate-programs.md)
+    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mcp-server)
   + CRM 同期 {#crm-sync}
     + Microsoft Dynamics 同期 {#microsoft-dynamics}
       + [Microsoft Dynamics 同期について](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)

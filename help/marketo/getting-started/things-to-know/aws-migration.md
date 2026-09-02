@@ -3,7 +3,7 @@ description: AWSへの移行 – Marketo Engage Docs – 製品ドキュメン�
 title: AWSへの移行
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: b045a92925884a5124727f0a51dc8f09a3942aec
+source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
 workflow-type: tm+mt
 source-wordcount: '855'
 ht-degree: 5%
@@ -128,6 +128,8 @@ ht-degree: 5%
 
 +++
 
++++8月スケジュール
+
 <table>
  <tbody>
   <tr>
@@ -153,12 +155,9 @@ ht-degree: 5%
   </tr>
   <tr>
    <td>2026年8月20日（PT）</td>
-   <td>AB42<br>
-   <i>AB44</i></td>
-   <td>午後5時（太平洋夏時間）<br>
-   <i>PDT</i>午後6時</td>
-   <td>完了<br>
-   <i>延期（未定） </i></td>
+   <td>AB42</td>
+   <td>午後5時（太平洋夏時間）</td>
+   <td>完了</td>
   </tr>
   <tr>
    <td>2026年8月26日（PT）</td>
@@ -176,7 +175,20 @@ ht-degree: 5%
    <td><i>PDT</i><br>午後3時
    午後4時（太平洋夏時間）</td>
    <td><i>延期（未定） </i><br>
-   予定通り</td>
+   完了</td>
+  </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">日付</th>
+   <th style="width:25%">データセンター/ポッド</th>
+   <th style="width:25%">時間</th>
+   <th style="width:25%">ステータス</th>
   </tr>
   <tr>
    <td>2026年9月8日（PT）</td>
