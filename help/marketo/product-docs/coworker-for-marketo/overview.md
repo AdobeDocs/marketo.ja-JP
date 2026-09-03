@@ -1,16 +1,16 @@
 ---
 description: プログラムのQA、リードの読み込み、データの正規化など、マーケティングタスクを自動化するために設計されたCoworker for Marketo Engageエージェントをご確認ください。
 title: Marketo Engageの概要
-source-git-commit: 7526f4d10f9ee6da85677a6f709220e1390c6896
+source-git-commit: b981719a196b7b6ef74c2d048b21f0324fd51859
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 1%
 
 ---
 
 # Marketo Engageの概要 {#overview}
 
-Adobe Marketo Engageの担当者は、時間のかかる重要なマーケティング機能を自動化するためのスキルを提供します。
+Coworker for Marketo Engage（旧Marketo AI）は、時間のかかる重要なマーケティング機能を自動化するために設計されたエージェントのスキルを提供します。
 
 >[!AVAILABILITY]
 >
@@ -18,9 +18,9 @@ Adobe Marketo Engageの担当者は、時間のかかる重要なマーケティ
 
 >[!IMPORTANT]
 >
->* Marketo Engage用Coworkerがサブスクリプションに対して有効になった後、必要なユーザーがアクセスできるようにするには、いくつかの[&#x200B; セットアップ手順](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"}を実行する必要があります。
+>* Marketo Engage用Coworkerがサブスクリプションに対して有効になった後、必要なユーザーがアクセスできるようにするには、いくつかの[&#x200B; セットアップ手順](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"}を実行する必要があります。
 >
->* Marketo Engage [&#x200B; データインフォメーションシート &#x200B;](/help/marketo/product-docs/marketo-ai/data-information.md){target="_blank"}のCoworkerで、データスコープ、ガバナンス制御、およびPIIに関する考慮事項を確認します。
+>* Marketo Engage [&#x200B; データインフォメーションシート &#x200B;](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}のCoworkerで、データスコープ、ガバナンス制御、およびPIIに関する考慮事項を確認します。
 
 ## アクセス方法 {#access}
 
@@ -38,19 +38,19 @@ My Marketo画面で、**Coworker for Marketo Engage** タイルをクリック�
 
 ### リードの調査 {#investigate-leads}
 
-特定のリードがマイルストーン（MQL、プログラムのクオリフィケーション、キャンペーンなど）に到達しなかった理由を突き止め、何が起こったのかを平易な言葉で説明できます。 [&#x200B; リードの調査スキル &#x200B;](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}について詳しく説明します。
+特定のリードがマイルストーン（MQL、プログラムのクオリフィケーション、キャンペーンなど）に到達しなかった理由を突き止め、何が起こったのかを平易な言葉で説明できます。 [&#x200B; リードの調査スキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}について詳しく説明します。
 
 ### 製品知識 {#product-knowledge}
 
-Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門に依頼することなく、Marketoの専門知識を活用できます。 平易な言葉で質問し、Adobeの公式ドキュメントにもとづいてMarketo Engageで回答します。 [製品知識スキル &#x200B;](/help/marketo/product-docs/marketo-ai/skills/product-knowledge.md){target="_blank"}について詳しく説明します。
+Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門に依頼することなく、Marketoの専門知識を活用できます。 平易な言葉で質問し、Adobeの公式ドキュメントにもとづいてMarketo Engageで回答します。 [製品知識スキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}について詳しく説明します。
 
 ### プログラムの検証 {#validate-programs}
 
-プログラムの検証では、設定をMarketoのベストプラクティスに照らし合わせて自動的に検証し、ローンチ前に問題を表面化します。 プログラムの検証スキル [について詳しくは、こちらを参照してください](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md){target="_blank"}。
+プログラムの検証では、設定をMarketoのベストプラクティスに照らし合わせて自動的に検証し、ローンチ前に問題を表面化します。 プログラムの検証スキル [について詳しくは、こちらを参照してください](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md){target="_blank"}。
 
 ### リードの読み込み {#import-leads}
 
-フィールドマッピング機能を利用すれば、リードリストをMarketo Engageデータベースにインポートして重複を排除できます。 [&#x200B; リードの読み込みスキル &#x200B;](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}について詳しく説明します。
+フィールドマッピング機能を利用すれば、リードリストをMarketo Engageデータベースにインポートして重複を排除できます。 [&#x200B; リードの読み込みスキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/import-leads.md){target="_blank"}について詳しく説明します。
 
 ## 近日リリース予定 {#coming-soon}
 

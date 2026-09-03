@@ -2,10 +2,10 @@
 description: リリースノート - 2026年5月 – Marketo Docs – 製品ドキュメント
 title: リリースノート - 2026年5月
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 15%
+source-wordcount: '805'
+ht-degree: 14%
 
 ---
 
@@ -17,7 +17,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、2026年5月22日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに該当し、2026年5月22日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -27,10 +27,10 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong>Marketo AI</strong>：時間のかかる重要なマーケティング機能を自動化するために設計された一連のエージェントを利用します（現在利用可能な2つのエージェント、近日リリース予定）。
+   <td><strong>Marketo AI</strong>：時間のかかる重要なマーケティング機能を自動化するために設計された一連の担当者スキルを活用します（現在利用可能な2つの担当者スキル、近日リリース予定）。
 </td>
    <td>オープンベータ</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Marketo AIの概要</a></td>
+   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Marketo AIの概要</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat – 入力しています</strong>：訪問者と担当者の両方に、相手が入力している間に「入力しています…」という通知が表示され、一方が他方を中断できなくなります。
+   <td><strong>Dynamic Chat – 入力しています</strong>：訪問者と担当者の両方に「入力しています…」と表示されます。 一方が入力している間に通知を送信し、一方が他方を中断しないようにします。
    </td>
    <td>リリース</td>
    <td>該当なし</td>
@@ -102,7 +102,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat – 新しい属性の同期ビヘイビアー</strong>：以前は、新しい属性を追加すると、同期が完了するまでの最大24時間、環境内の変更がブロックされ、ダイアログの編集と公開が妨げられました。新しい属性を追加する際には、完全なデータ同期が必要ですが（これには最大24時間かかる場合があります）、プロセス中に環境がブロックされなくなりました。
+   <td><strong>Dynamic Chat – 新しい属性の同期ビヘイビアー</strong>：以前は、新しい属性を追加すると、同期が完了するまでの最大24時間、環境内の変更がブロックされ、ダイアログの編集と公開が妨げられました。 新しい属性を追加する際には、完全なデータ同期が必要ですが（これには最大24時間かかる場合があります）、プロセス中に環境がブロックされなくなりました。
    </td>
    <td>リリース</td>
    <td>該当なし</td>

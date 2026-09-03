@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 618fe38fae7621ecf72aab8ec09fc345aba23358
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: 434
-ht-degree: 21%
+source-wordcount: 477
+ht-degree: 19%
 
 ---
 
@@ -52,18 +52,18 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> メール Designer - Script Builder</strong>: Script Builderは、パーソナライゼーション スクリプトをより迅速に作成するためのAIを活用したアシスタントです。
-</td>
-   <td><i>近日リリース予定</i></td>
-   <td><i>近日リリース予定</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
    <td><strong> アーカイブでキャンペーンを無効にする</strong>: フォルダーをアーカイブすると、そのフォルダーツリー内のすべてのキャンペーンが無効になり、スケジュール解除されるようになりました。これにより、アーカイブされたスマートキャンペーンが予期せず実行されるのを防ぎます。
+</td>
+   <td>リリース</td>
+   <td>該当なし</td>
+  </tr>
+    <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> メール Designer - Script Builder</strong>: Script Builderは、パーソナライゼーション スクリプトをより迅速に作成するためのAIを活用したアシスタントです。
 </td>
    <td><i>近日リリース予定</i></td>
    <td><i>近日リリース予定</i></td>
@@ -73,6 +73,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 <br/>
 
 ## お知らせ {#announcements}
+
+* **Marketo AIは現在、Coworker for Marketo Engageになっています**: Coworker for Marketo Engageは、時間のかかるマーケティング機能を自動化するために設計された担当者のスキルを提供します。 すべてのユーザーが利用できる新しい名前、同じ機能。 [詳細情報](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/coworker-for-marketo/overview){target="_blank"}
 
 * **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年8月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 

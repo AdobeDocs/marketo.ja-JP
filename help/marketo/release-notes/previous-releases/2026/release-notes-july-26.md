@@ -2,9 +2,9 @@
 description: リリースノート - 2026年7月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2026年7月
 feature: Release Information
-source-git-commit: 37ef6b0f6c89b8ec8cd098beb5cf4d321fdac401
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '505'
 ht-degree: 19%
 
 ---
@@ -30,7 +30,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><strong>Marketo AI スキル – 製品知識</strong>：製品知識を使用すると、プラットフォームから離れることなく、Marketoの専門知識にオンデマンドでアクセスできます。 平易な言葉で質問すると、MarketoのAIは、Adobeの公式ドキュメントにもとづいて回答を提供します。
 </td>
    <td>リリース</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">製品知識</a></td>
+   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/coworker-for-marketo/skills/product-knowledge" target="_blank">製品知識</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -41,7 +41,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td><strong>Marketo AI スキル – リードを調査</strong>：特定の人物/リードがマイルストーン（MQL、プログラムの選定、キャンペーンなど）に到達しなかった理由を確認し、何が起こったのかを平易な言葉で説明します。
 </td>
    <td>リリース</td>
-   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">リードの調査</a></td>
+   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/coworker-for-marketo/skills/investigate-leads" target="_blank">リードの調査</a></td>
   </tr>
   <tr>
    <td> </td>

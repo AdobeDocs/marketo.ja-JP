@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
 workflow-type: tm+mt
-source-wordcount: '8968'
+source-wordcount: '8931'
 ht-degree: 96%
 
 ---
@@ -487,18 +487,18 @@ ht-degree: 96%
       + [モデルとインサイト](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [予測フィルター](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
   + Marketo Engageの共同作業 {#coworker-for-marketo}
-    + {hide-from-toc}[概要](product-docs/coworker-for-marketo/overview.md)
-    + {hide-from-toc}[設定と設定](product-docs/coworker-for-marketo/settings-setup.md)
-    + {hide-from-toc}[Marketo Engage データインフォメーションシートの同僚](product-docs/coworker-for-marketo/data-information.md)
+    + [概要](product-docs/coworker-for-marketo/overview.md)
+    + [設定と設定](product-docs/coworker-for-marketo/settings-setup.md)
+    + [Adobe Marketo Engageのコラボレーション機能](product-docs/coworker-for-marketo/data-information.md)
     + スキル {#skills}
-      + {hide-from-toc}[製品ナレッジ &#x200B;](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + [製品知識](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + {hide-from-toc}[&#x200B; プログラムの作成](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc}[&#x200B; コピープログラム &#x200B;](product-docs/coworker-for-marketo/skills/clone-program.md)
-      + {hide-from-toc}[&#x200B; リードの調査](product-docs/coworker-for-marketo/skills/investigate-leads.md)
-      + {hide-from-toc}[&#x200B; リードの読み込み](product-docs/coworker-for-marketo/skills/import-leads.md)
-      + {hide-from-toc}[&#x200B; プログラムの検証](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + {hide-from-toc}[Marketo MCP](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mcp-server)
+      + [リードの調査](product-docs/coworker-for-marketo/skills/investigate-leads.md)
+      + [リードの読み込み](product-docs/coworker-for-marketo/skills/import-leads.md)
+      + [プログラムの検証](product-docs/coworker-for-marketo/skills/validate-programs.md)
+    + [MARKETO MCP](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mcp-server)
   + CRM 同期 {#crm-sync}
     + Microsoft Dynamics 同期 {#microsoft-dynamics}
       + [Microsoft Dynamics 同期について](product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
@@ -1124,19 +1124,6 @@ ht-degree: 96%
         + [Send Alert Info トークンの使用](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
         + [マイトークンでの URL の使用](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
       + [メール CC](product-docs/email-marketing/general/email-cc.md)
-  + Marketo AI {#marketo-ai}
-    + [概要](product-docs/marketo-ai/overview.md)
-    + [設定と設定](product-docs/marketo-ai/settings-setup.md)
-    + [Marketo AIに関する資料](product-docs/marketo-ai/data-information.md)
-    + スキル {#skills}
-      + [製品知識](product-docs/marketo-ai/skills/product-knowledge.md)
-      + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/marketo-ai/skills/surface-insights.md)
-      + {hide-from-toc}[&#x200B; プログラムの作成](product-docs/marketo-ai/skills/build-programs.md)
-      + {hide-from-toc}[&#x200B; コピープログラム &#x200B;](product-docs/marketo-ai/skills/clone-program.md)
-      + [リードの調査](product-docs/marketo-ai/skills/investigate-leads.md)
-      + [リードの読み込み](product-docs/marketo-ai/skills/import-leads.md)
-      + [プログラムの検証](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mcp-server)
   + Marketo の通知 {#marketo-notifications}
     + {hide-from-toc}[通知：Websocket接続](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo セールスコネクト {#marketo-sales-connect}
