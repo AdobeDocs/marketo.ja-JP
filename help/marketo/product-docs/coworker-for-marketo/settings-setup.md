@@ -75,7 +75,7 @@ Marketo Engage用の&#x200B;_アクセス共同作業者_&#x200B;権限とMarket
 
 ### カスタム役割 {#custom-role}
 
-また、[新しいロール &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して、その権限をカスタマイズし、Marketo Engage _の_ Access Coworkerを他の任意のロールと共に追加し、そのロール [&#128279;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てることもできます。
+また、[新しいロール &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して、その権限をカスタマイズし、Marketo Engage _の_ Access Coworkerを他の任意のロールと共に追加し、そのロール [&#128279;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てることもできます。
 
 ## 設定 {#settings}
 
