@@ -4,16 +4,11 @@ description: スマートキャンペーンとアセットを整理するため�
 title: フォルダーについて
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
 TQID: https://experienceleague.adobe.com/wAE129LK3Pk-CB5SSQqqSV50ng085soYsm4JHfh0CuI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: 7c035bd266b25d19ab7406ca989e8fc9f13126b9
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
 workflow-type: tm+mt
-source-wordcount: 428
+source-wordcount: 427
 ht-degree: 37%
 
 ---
@@ -30,11 +25,11 @@ ht-degree: 37%
 
 1. プログラムを右クリックし、「**[!UICONTROL 新規フォルダー]**」を選択します。
 
-   ![](assets/image2015-4-20-18-3a45-3a14.png)
+   ![](assets/image2015-4-20-18-3a45-3a14.png){width="600" zoomable="yes"}
 
 1. 新しいフォルダーに名前を付け、**[!UICONTROL Enter]** を押します。
 
-   ![](assets/image2015-4-20-18-3a46-3a57.png)
+   ![](assets/image2015-4-20-18-3a46-3a57.png){width="600" zoomable="yes"}
 
 これで、新しいフォルダーがローカルアセットの準備ができました。
 
@@ -42,11 +37,11 @@ ht-degree: 37%
 
 1. フォルダーを右クリックし、「**[!UICONTROL フォルダー名を変更]**」を選択します。
 
-   ![](assets/image2015-4-20-18-3a49-3a10.png)
+   ![](assets/image2015-4-20-18-3a49-3a10.png){width="600" zoomable="yes"}
 
 1. 新しい名前を入力し、**[!UICONTROL Enter]** を押します。
 
-   ![](assets/image2015-4-20-18-3a52-3a30.png)
+   ![](assets/image2015-4-20-18-3a52-3a30.png){width="600" zoomable="yes"}
 
 ## フォルダーの削除 {#delete-a-folder}
 
@@ -56,13 +51,13 @@ ht-degree: 37%
 
 1. フォルダーを右クリックし、「**[!UICONTROL フォルダーを削除]**」を選択します。
 
-   ![](assets/image2015-4-20-18-3a55-3a51.png)
+   ![](assets/image2015-4-20-18-3a55-3a51.png){width="600" zoomable="yes"}
 
 ## フォルダーのアーカイブ {#archive-a-folder}
 
 Marketo では、既存のフォルダーをアーカイブフォルダーに変換できます。 アーカイブフォルダーは、[!UICONTROL マーケティング活動]、[!UICONTROL データベース]、[!UICONTROL デザインスタジオ]に存在します。
 
-![](assets/image2015-4-20-19-3a3-3a46.png)
+![](assets/image2015-4-20-19-3a3-3a46.png){width="600" zoomable="yes"}
 
 フォルダーをアーカイブした場合、次のようになります。
 
@@ -76,7 +71,7 @@ Marketo では、既存のフォルダーをアーカイブフォルダーに変
 * アーカイブ済みフォルダー内の結果は、グローバル検索に含まれます
 * アーカイブ済みアセットは、レポートで使用するためにフィルターを使用して選択できます
 
-### アーカイブ時にスマートキャンペーンが無効になる {#disable-smart-campaigns-archive}
+### アーカイブでのキャンペーンの無効化 {#disable-campaigns-archive}
 
 フォルダーまたはプログラムがアーカイブされた場合、またはアクティブなスマートキャンペーンが既にアーカイブされているフォルダーに移動された場合、Marketo Engageは影響を受けるキャンペーンの実行を停止します。
 
