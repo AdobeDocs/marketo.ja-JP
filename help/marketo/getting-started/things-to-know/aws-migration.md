@@ -3,10 +3,10 @@ description: AWSへの移行 – Marketo Engage Docs – 製品ドキュメン�
 title: AWSへの移行
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 26975e7134c06510311ac3869e281f9c160d2657
+source-git-commit: 157eb35db14f4aa425db32901f878b66fcb31330
 workflow-type: tm+mt
-source-wordcount: '903'
-ht-degree: 6%
+source-wordcount: '993'
+ht-degree: 5%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 今後数か月で、すべてのMarketo Engage サブスクリプションがプライベートデータセンターからAWS パブリッククラウドに移行され、信頼性、スケーラビリティ、スピードが向上します。
 
-移行の約30日前に、メールとアプリ内通知が届きます。 このガイドを使用して準備を進めます。
+[移行](#identify)の約30日前に、メールとアプリ内通知が届きます。 このガイドを使用して準備を進めます。
 
 ## 推奨されるアクション {#actions}
 
@@ -37,19 +37,23 @@ ht-degree: 6%
 以下の影響は、お客様の側で対処する必要はありません。
 
 * **CRM統合とLaunchPoint サービス**&#x200B;は無効になりますが、後で自動的に再開する必要があります。
-* **ランディングページ、フォーム、データ収集**&#x200B;は利用できなくなり、代わりにメンテナンスメッセージが表示されます。
+* **ランディングページ、フォーム、データ収集**&#x200B;は利用できなくなり、メンテナンスメッセージが表示されます（以下を参照）。
 
->[!NOTE]
+  ![&#x200B; ダウンタイム中にMarketo Engage ランディングページにアクセスしたときに、お客様に表示されるメッセージ &#x200B;](assets/maintenance-in-progress.png)
+
+>[!IMPORTANT]
 >
 >[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行期間中にMarketo Engageが利用できない間に収集したフォーム送信データを失わないようにしたい場合は、事前に[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support){target="_blank"} **少なくとも2営業日**&#x200B;までにお問い合わせください。フォーム IDとサブスクリプションのMunchkin IDを入力してください。
 
 ## データセンター/ポッドの特定 {#identify}
 
-以下の表を確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+以下のスケジュールを確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
 
 ## スケジュール {#schedule}
 
-新しい日付とデータセンター/ポッド情報は定期的に追加または変更されるので、このスケジュールを監視して更新します。
+新しい日付とデータセンター/ポッド情報は定期的に追加または変更されるので、このスケジュールを監視して更新します。 オプトアウトするオプションも、移行を別の日付に移行することをリクエストするオプションもありません。
+
+何らかの理由で移行が失敗した場合は、通知が送信され、スケジュールを変更します。
 
 +++7月スケジュール
 <table>
@@ -196,8 +200,8 @@ ht-degree: 6%
    AB02</td>
    <td>午後5時（太平洋夏時間）<br>
    午後6時（太平洋夏時間）</td>
-   <td>予定通り<br>
-   予定通り</td>
+   <td>完了<br>
+   完了日</td>
   </tr>
   <tr>
    <td>2026年9月10日（PT）</td>
@@ -304,7 +308,11 @@ ht-degree: 6%
 
 ## アップデートとサポート {#support}
 
-最新の更新情報は、このページをブックマークしてください。 ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
+最新情報は、このページをブックマークしてください。
+
+ステータスの更新については、移行の開始時および完了時に[購読して受信することができます](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 移行期間中に[status.adobe.com](https://status.adobe.com/ja){target="_blank"}にアクセスすることもできます。
+
+ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
 
 ## よくある質問 {#faq}
 
