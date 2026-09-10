@@ -43,7 +43,7 @@ ht-degree: 5%
 
 >[!IMPORTANT]
 >
->[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行期間中にMarketo Engageが利用できない間に収集したフォーム送信データを失わないようにしたい場合は、事前に[Adobe サポート &#x200B;](https://experienceleague.adobe.com/en/support){target="_blank"} **少なくとも2営業日**&#x200B;までにお問い合わせください。フォーム IDとサブスクリプションのMunchkin IDを入力してください。
+>[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行期間中にMarketo Engageが利用できない間に収集したフォーム送信データを失わないようにしたい場合は、事前に[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support){target="_blank"} **少なくとも2営業日**&#x200B;までにお問い合わせください。フォーム IDとサブスクリプションのMunchkin IDを入力してください。
 
 ## データセンター/ポッドの特定 {#identify}
 
@@ -308,9 +308,9 @@ ht-degree: 5%
 
 ## アップデートとサポート {#support}
 
-最新情報は、このページをブックマークしてください。 移行の開始時および完了時にステータスの更新を受け取るには、[&#x200B; サブスクライブ &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}して受け取ります。 移行ウィンドウでhttps://status.adobe.com/にアクセスすることもできます。
+最新情報は、このページをブックマークしてください。 移行の開始時および完了時にステータスの更新を受け取るには、[&#x200B; サブスクライブ &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}して受け取ります。 移行ウィンドウでhttps://status.adobe.com/にアクセスすることもできます。
 
-ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}からAdobe サポートにお問い合わせください。
+ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
 
 ## よくある質問 {#faq}
 
