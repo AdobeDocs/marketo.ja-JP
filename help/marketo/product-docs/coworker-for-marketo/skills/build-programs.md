@@ -34,7 +34,7 @@ ht-degree: 0%
 
 1. スマートキャンペーンのフィルターとフローステップが、想定したオーディエンスとロジックに一致していることを確認します。
 
-1. 手作業による調整（Smart Campaign ロジックの設定、フィルターの確定、メールコンテンツのカスタマイズ）をすべて完了したら、[ プログラムの検証](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md)を実行して、変更がアクティブ化する前に組織ルールに準拠していることを確認します。
+1. 手作業による調整（Smart Campaign ロジックの設定、フィルターの確定、メールコンテンツのカスタマイズ）をすべて完了したら、[&#x200B; プログラムの検証](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md)を実行して、変更がアクティブ化する前に組織ルールに準拠していることを確認します。
 
 ## ユースケース {#use-cases}
 
