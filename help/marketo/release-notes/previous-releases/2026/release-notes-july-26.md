@@ -2,13 +2,11 @@
 description: リリースノート - 2026年7月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2026年7月
 feature: Release Information
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 19%
-
+source-wordcount: '454'
+ht-degree: 22%
 ---
-
 # リリースノート：2026年7月 {#release-notes-july-26}
 
 以下では、2026年7月リリースに含まれるすべての機能について説明します。 利用可能な機能については、お使いの Adobe Marketo Engage のエディションをご確認ください。
@@ -51,18 +49,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong> メール Designer - モジュール </strong>：メールの組み立てを高速化するために設計された、すぐに使用できる完全に構造化されたコンテンツ ブロックにアクセスできるようになりました。</td>
    <td>リリース</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">メールDesignerでのモジュールの使用</a></td>
-  </tr>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>電子メールDesigner - コンテンツの生成コンテキストメニュー</strong>：電子メールDesignerの「コンテンツの生成」機能に、コンテキストメニュー（黒いバー）からアクセスできるようになりました。 例えば、テキストコンテンツを選択すると、コンテキストメニューに「コンテンツを生成」アイコンが表示され、クイックアクションを実行できます。</td>
-   <td><i>近日リリース予定</i></td>
-<td><i>近日リリース予定</i></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">E メールデザイナーのモジュールの使用</a></td>
   </tr>
   </tr>
   </tbody>

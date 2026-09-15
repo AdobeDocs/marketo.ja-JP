@@ -4,13 +4,11 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '8931'
+source-wordcount: '8930'
 ht-degree: 96%
-
 ---
-
 
 # Marketo ガイド {#using}
 
@@ -1007,7 +1005,7 @@ ht-degree: 96%
       + [概要](product-docs/email-marketing/email-designer/overview.md)
       + [機能の比較](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [メールオーサリング](product-docs/email-marketing/email-designer/email-authoring.md)
-      + [メールDesignerでのモジュールの使用](product-docs/email-marketing/email-designer/email-modules.md)
+      + [E メールデザイナーのモジュールの使用](product-docs/email-marketing/email-designer/email-modules.md)
       + [条件付きコンテンツ](product-docs/email-marketing/email-designer/conditional-content.md)
       + [メールテンプレートオーサリング](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [テンプレートの読み込み](product-docs/email-marketing/email-designer/import-template.md)
@@ -1027,7 +1025,7 @@ ht-degree: 96%
       + [メールでの共同作業](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [E メールDesignerでのコンテンツの生成](product-docs/email-marketing/email-designer/generate-content.md)
       + [SpamAssassin を使用したメールスパムレポート](product-docs/email-marketing/email-designer/spam-report.md)
-      + [CNIL Open Tracking Guidance](product-docs/email-marketing/email-designer/cnil-guidance.md)
+      + [条件付き開封トラッキング](product-docs/email-marketing/email-designer/conditional-open-tracking.md)
     + メールプログラム {#email-programs}
       + メールプログラムの作成 {#creating-an-email-program}
         + [メールプログラムの作成](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

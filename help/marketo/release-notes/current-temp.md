@@ -7,32 +7,38 @@ exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
 TQID: https://experienceleague.adobe.com/RZsCx9HAyJuDLO46WfshT30be-rMMDZjnygvU32NGfk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ebd911b99e1c4c8f8a76db3a14235ee0d4ee0485
+    internal-label: Administration
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: 408
-ht-degree: 28%
-
+source-wordcount: '521'
+ht-degree: 18%
 ---
+# リリースノート：2026年9月 {#release-notes-sep-26}
 
-# リリースノート：2026年8月 {#release-notes-aug-26}
-
-以下では、2026年8月リリースに含まれるすべての機能について説明します。 利用可能な機能については、お使いの Adobe Marketo Engage のエディションをご確認ください。
+以下では、2026年9月リリースに含まれるすべての機能について説明します。 利用可能な機能については、お使いの Adobe Marketo Engage のエディションをご確認ください。
 
 Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、2026年8月14日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
+以下の機能は標準リリースサイクルに該当し、2026年9月25日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースされる機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -42,9 +48,9 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong>Marketo Engageの新しいUI</strong>: Marketo Engageのインターフェイスがリフレッシュされ、メニュー、アイコン、レイアウトが更新され、よりクリーンで現代的なエクスペリエンスが得られます。 これはビジュアルアップデートのみで、既存の機能やワークフローには影響しません。
+   <td><strong>Marketo Engageの新しいUI</strong>: Marketo Engageのインターフェイスがリフレッシュされ、メニュー、アイコン、レイアウトが更新され、よりクリーンで現代的なエクスペリエンスが得られます。 これはビジュアルアップデートのみです。既存の機能やワークフローには影響しません。 <i> クラシック UIを選択する機能は、2027年1月リリース </i>から利用できます。
 </td>
-   <td>8月の月全体に段階的に展開</td>
+   <td>一般提供（9月末）</td>
    <td><i>該当なし</i></td>
   </tr>
   <tr>
@@ -53,8 +59,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> メール Designer - Script Builder</strong>: Script Builderは、パーソナライゼーション スクリプトをより迅速に作成するためのAIを活用したアシスタントです。
-</td>
+   <td><strong>読み込み時にパーティションを選択</strong>: ワークスペースとパーティションが有効になっている環境で個人レコードを読み込む際に、ローカルワークスペースのパーティションのリストからパーティションを選択できるようになりました。</td>
    <td><i>近日リリース予定</i></td>
    <td><i>近日リリース予定</i></td>
   </tr>
@@ -64,8 +69,17 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong> アーカイブでキャンペーンを無効にする</strong>: フォルダーをアーカイブすると、そのフォルダーツリー内のすべてのキャンペーンが無効になり、スケジュール解除されるようになりました。これにより、アーカイブされたスマートキャンペーンが予期せず実行されるのを防ぎます。
-</td>
+   <td><strong>CRM同期に関する即時アラート </strong>: CRM通知を購読したユーザーは、ネイティブ CRM同期の有効ステータスが変更されると、すぐに通知を受け取り、管理者はCRM同期ステータスをより詳細に把握できます。</td>
+   <td><i>近日リリース予定</i></td>
+   <td><i>近日リリース予定</i></td>
+  </tr>
+   <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> セルフサービスのフローステップ – コールバックタイムアウトの増加</strong>: セルフサービスのフローステップのコールバックタイムアウト時間が1時間から4時間に延長されました。 ユーザー側での操作は必要ありません。</td>
    <td><i>近日リリース予定</i></td>
    <td><i>近日リリース予定</i></td>
   </tr>
@@ -75,10 +89,12 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年8月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+* カスタムアクティビティ属性の&#x200B;**API名の制限**: APIまたはUIを介して作成されたカスタムアクティビティ属性のAPI名に、英数字とアンダースコアのみを含めることができるようになりました。英数字で始める必要があります。
 
-* **REST API Campaign実行ID**: Marketo SOAP APIのサポートは、2026年7月31日に終了します。 SOAP API 機能を使用するサービスは、[REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} に移行する必要があります。
-* **リード アクティビティの取得とリードの変更の取得に関する静的リスト サイズ制限**：特定の状況において、アクティビティのキャンペーン実行ID値が、2つの引用符のペア間で誤った形式で返されることがありました（例：`"campaignRunId": ""102938""`）。<br/>
-8月リリース以降、この値は常に正しい数値形式（`"campaignRunId": 102938`）で返されます
+* **リードアクティビティを取得およびリード変更を取得するための静的リストサイズの制限**:2026年9月30日（PT）以降、ターゲットリストに10,000個以上のリードが含まれている場合、`listId` パラメーターを含むリード活動を取得またはリード変更を取得のエンドポイントへの呼び出しは、1003 エラーコード（ターゲット静的リストが多すぎることを示す）で示場合）で失敗します。 詳細については、[移行ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
 
-* **REST API結合リードの制限**:2026年7月31日（PT）現在、結合リード API呼び出しのleadIds パラメーターに25を超えるIDを含む呼び出しは、1080 エラーコードになり、呼び出しはスキップされます。 25以上のレコードを1つのレコードに統合する必要があるジョブは、それらの呼び出しを成功させるために複数のジョブに分割する必要があります。
+* **REST API &#39;access_token&#39; パラメーターの非推奨化**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは、2026年8月31日（PT）をもって非推奨（廃止予定）になりました。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
+
+* **REST API Campaign Run ID**：特定の状況において、アクティビティのCampaign Run ID値が、2つの引用符のペア（例：`"campaignRunId": ""102938""`）の間で、誤った形式で返されることがありました。<br/>8月のリリース以降、この値は常に正しい数値形式（`"campaignRunId": 102938`）で返されます。
+
+* **WebからのGrab Imagesの廃止**：最新のセキュリティとプライバシーのベストプラクティスに準拠するため、10月のリリースで[WebからのGrab Images](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}機能は廃止されます。
