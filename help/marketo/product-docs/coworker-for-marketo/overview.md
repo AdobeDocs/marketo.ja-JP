@@ -64,4 +64,4 @@ Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"}は、AI アシスタントとMarketo Engageの間の橋渡しの役割を果たします。
+>[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=ja){target="_blank"}は、AI アシスタントとMarketo Engageの間の橋渡しの役割を果たします。
