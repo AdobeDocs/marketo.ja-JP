@@ -1,15 +1,11 @@
 ---
 description: Adobe Marketo EngageでAdobe Workfrontのアプリケーションを活用して、平易な言語でMarketoプログラムを構築できます。 スマートキャンペーン、スケジューリング、アセットのプレースホルダーを使用して、レビューと調整を実施できます。
 title: プログラムの構築
-badge: ベータ版
-hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: f812c2f442c39883e028735ce51efe607968142b
 workflow-type: tm+mt
-source-wordcount: '596'
-ht-degree: 1%
-
+source-wordcount: '582'
+ht-degree: 0%
 ---
-
 # プログラムの構築 {#build-programs}
 
 マーケティングキャンペーンをわかりやすい言葉で説明し、Adobe Marketo EngageのCoworkerがアセットのプレースホルダーとスケジューリングを含むプログラム構造を構築します。
@@ -19,10 +15,6 @@ ht-degree: 1%
 >* この機能を使用するには、まず[Core Gen-AI条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。 詳しくは、Adobe アカウントチーム（アカウントマネージャー）にお問い合わせください。
 >
 >* Marketo アカウントでプログラムを作成するには、権限が必要です。
-
->[!AVAILABILITY]
->
->この機能は現在、クローズドベータ版です。 このドキュメントを配布しないでください。
 
 ## 使用方法 {#how-to-use}
 
@@ -40,7 +32,7 @@ ht-degree: 1%
 
 1. スマートキャンペーンのフィルターとフローステップが、想定したオーディエンスとロジックに一致することを確認します。
 
-1. アクティブ化する前に、[&#x200B; プログラムの検証](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md) エージェントを実行します。
+1. アクティブ化する前に、[ プログラムの検証](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md) エージェントを実行します。
 
 ## ユースケース {#use-cases}
 
