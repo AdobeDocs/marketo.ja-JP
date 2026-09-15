@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/wp6WMKPFj3-9mhwPrgHyVfCnG--fMro1-InuU8we-aM
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 73
-ht-degree: 72%
-
+source-wordcount: '73'
+ht-degree: 50%
 ---
-
 # テンプレート 15B {#template-15b}
 
-右クリックして[テンプレート 15B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html?lang=ja)します
+右クリックして[テンプレート 15B をダウンロード](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-15b.html)します
 
 ![](assets/image2015-8-13-13-3a29-3a31.png)
 
@@ -26,11 +26,11 @@ ht-degree: 72%
 
 * プライマリセクション
 
-   * ヒーロータイトルと動画が含まれます
+  * ヒーロータイトルとビデオが含まれます
 
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 15B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-15b.html?lang=ja)
+[テンプレート 15B.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-15b.html)

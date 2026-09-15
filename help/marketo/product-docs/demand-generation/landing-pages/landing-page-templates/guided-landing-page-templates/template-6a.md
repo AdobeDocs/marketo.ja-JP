@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/F1y7xRoUYau1FkVi3i2E57ro6eqNQ6bDu3bYK4yejKI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 77
-ht-degree: 74%
-
+source-wordcount: '77'
+ht-degree: 53%
 ---
-
 # テンプレート 6A {#template-6a}
 
-右クリックして[テンプレート 6A をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html?lang=ja)します
+右クリックして[テンプレート 6A をダウンロード](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-6a.html)します
 
 ![](assets/image2015-6-29-16-3a14-3a11.png)
 
@@ -26,11 +26,11 @@ ht-degree: 74%
 
 * プライマリセクション
 
-   * ヒーロー画像、タイトル、サブタイトル、本文、ボタンが含まれます。
+  * ヒーロー画像、タイトル、サブタイトル、本文、ボタンが含まれます。
 
 * 4 つの本文セクション（オプション）
 * フッター（オプション）
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 6A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6a.html?lang=ja)
+[テンプレート 6A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-6a.html)

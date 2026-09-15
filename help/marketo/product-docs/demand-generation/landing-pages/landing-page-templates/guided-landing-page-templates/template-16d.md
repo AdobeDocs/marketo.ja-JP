@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/WzaQDClZ8mfxlAsm8IWA0IaNnWPW8I4Uxr0B8q8f5XY
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 78
-ht-degree: 74%
-
+source-wordcount: '78'
+ht-degree: 53%
 ---
-
 # テンプレート 16D {#template-16d}
 
-右クリックして[テンプレート 16D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=ja)します
+右クリックして[テンプレート 16D をダウンロード](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-16d.html)します
 
 ![](assets/image2015-8-14-13-3a12-3a25.png)
 
@@ -27,11 +27,11 @@ ht-degree: 74%
 * ヘッダー（オプション）
 * プライマリセクション
 
-   * ヒーロータイトル、ヒーローテキスト、懸賞が含まれます
+  * ヒーロータイトル、ヒーローテキスト、懸賞が含まれます
 
 * 6 つの本文セクション（オプション）
 * フッター（オプション）
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 16D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16d.html?lang=ja)
+[テンプレート 16D.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-16d.html)
