@@ -91,8 +91,8 @@
 <target xml:lang="en-XX">可用性とロールアウトステータス</target>
 </trans-unit>
 <trans-unit id="tu22" xml:space="preserve">
-<source xml:lang="en-US"><ph id="1" ctype="x-STRONG_EMPHASIS">**</ph>Eligibility:<ph id="2" ctype="x-STRONG_EMPHASIS">**</ph> Provisioning is limited to Marketo Engage users who have agreed to the <ph id="3" ctype="x-LINK">[</ph>Core Gen-AI terms and the supplemental terms<ph id="4" ctype="x-LINK">[#$tu23]{target="_blank"}</ph>.</source>
-<target xml:lang="en-XX"><ph id="1" ctype="x-STRONG_EMPHASIS">**</ph>実施要件：<ph id="2" ctype="x-STRONG_EMPHASIS">**</ph><ph id="3" ctype="x-LINK">[</ph>コア Gen-AI 条件と補足条件<ph id="4" ctype="x-LINK">[#$tu23]{target="_blank"}</ph>に同意した Marketo Engage ユーザーのみが、プロビジョニングを利用できます。</target>
+<source xml:lang="en-US"><ph id="1" ctype="x-STRONG_EMPHASIS">**</ph>Eligibility:<ph id="2" ctype="x-STRONG_EMPHASIS">**</ph> Provisioning is limited to Marketo Engage users who have agreed to the <ph id="3" ctype="x-LINK">&lbrack;</ph>Core Gen-AI terms and the supplemental terms<ph id="4" ctype="x-LINK">[#$tu23]{target="_blank"}</ph>.</source>
+<target xml:lang="en-XX"><ph id="1" ctype="x-STRONG_EMPHASIS">**</ph>実施要件：<ph id="2" ctype="x-STRONG_EMPHASIS">**</ph><ph id="3" ctype="x-LINK">&lbrack;</ph>コア Gen-AI 条件と補足条件<ph id="4" ctype="x-LINK">[#$tu23]{target="_blank"}</ph>に同意した Marketo Engage ユーザーのみが、プロビジョニングを利用できます。</target>
 </trans-unit>
 <trans-unit id="tu24" xml:space="preserve">
 <source xml:lang="en-US"><ph id="1" ctype="x-STRONG_EMPHASIS">**</ph>Rollout model:<ph id="2" ctype="x-STRONG_EMPHASIS">**</ph> Deployment progresses through Alpha and Private Beta before broader Public Beta expansion, and ultimately General Availability.</source>
