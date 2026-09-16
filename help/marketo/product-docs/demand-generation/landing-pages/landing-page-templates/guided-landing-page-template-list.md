@@ -23,7 +23,7 @@ ht-degree: 62%
 ---
 # ガイド付きランディングページテンプレートリスト {#guided-landing-page-template-list}
 
-[ ガイド付きランディングページエディター](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)で使用するサンプルテンプレートのコレクションをご覧ください。 各テンプレートは完全にレスポンシブで、Bootstrap フレームワークに基づいています。
+[&#x200B; ガイド付きランディングページエディター](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)で使用するサンプルテンプレートのコレクションをご覧ください。 各テンプレートは完全にレスポンシブで、Bootstrap フレームワークに基づいています。
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ ht-degree: 62%
 
 ## Marketo Engageにテンプレートを読み込む方法{#how-to-import}
 
-1. 下の[ テンプレートの名前をクリックすると、専用ページに移動します。](#all-templates)
+1. 下の[&#x200B; テンプレートの名前をクリックすると、専用ページに移動します。](#all-templates)
 
 1. 「テンプレートをダウンロード」を右クリックし、**リンクを別名で保存…**&#x200B;を選択します。ファイルをコンピューター上の目的の場所に保存します。
 
