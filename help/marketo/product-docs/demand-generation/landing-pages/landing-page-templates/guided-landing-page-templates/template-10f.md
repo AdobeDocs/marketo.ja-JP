@@ -18,7 +18,7 @@ ht-degree: 27%
 ---
 # テンプレート 10F {#template-10f}
 
-[ ダウンロードテンプレート 10F](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-10f.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 10F](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-10f.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

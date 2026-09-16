@@ -18,7 +18,7 @@ ht-degree: 28%
 ---
 # テンプレート 10E {#template-10e}
 
-[ ダウンロードテンプレート 10E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-10e.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 10E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-10e.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

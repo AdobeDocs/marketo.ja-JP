@@ -18,7 +18,7 @@ ht-degree: 27%
 ---
 # テンプレート 1E {#template-1e}
 
-[ ダウンロードテンプレート 1E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-1e.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 1E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-1e.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

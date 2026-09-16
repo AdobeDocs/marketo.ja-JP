@@ -18,7 +18,7 @@ ht-degree: 25%
 ---
 # テンプレート 16B {#template-16b}
 
-[ ダウンロードテンプレート 16B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-16b.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 16B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-16b.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

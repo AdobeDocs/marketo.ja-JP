@@ -18,7 +18,7 @@ ht-degree: 27%
 ---
 # テンプレート 19B {#template-19b}
 
-[ ダウンロードテンプレート 19B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-19b.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 19B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-19b.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

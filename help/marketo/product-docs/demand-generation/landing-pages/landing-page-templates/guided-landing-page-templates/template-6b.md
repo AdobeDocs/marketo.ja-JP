@@ -18,7 +18,7 @@ ht-degree: 28%
 ---
 # テンプレート 6B {#template-6b}
 
-[ ダウンロードテンプレート 6B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-6b.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 6B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-6b.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

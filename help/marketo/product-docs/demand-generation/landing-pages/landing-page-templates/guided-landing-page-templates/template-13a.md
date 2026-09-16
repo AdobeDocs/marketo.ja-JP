@@ -18,7 +18,7 @@ ht-degree: 25%
 ---
 # テンプレート 13A {#template-13a}
 
-[ ダウンロードテンプレート 13A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13a.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 13A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13a.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

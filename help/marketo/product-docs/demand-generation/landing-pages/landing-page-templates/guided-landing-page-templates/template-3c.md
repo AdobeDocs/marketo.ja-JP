@@ -18,7 +18,7 @@ ht-degree: 30%
 ---
 # テンプレート 3C {#template-3c}
 
-[ テンプレート 3C](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3c.html)をダウンロードを右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; テンプレート 3C](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3c.html)をダウンロードを右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

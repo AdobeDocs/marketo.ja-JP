@@ -18,7 +18,7 @@ ht-degree: 27%
 ---
 # テンプレート 18D {#template-18d}
 
-[ ダウンロードテンプレート 18D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-18d.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 18D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-18d.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

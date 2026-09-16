@@ -18,7 +18,7 @@ ht-degree: 29%
 ---
 # テンプレート 3D {#template-3d}
 
-[ テンプレート 3D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3d.html)をダウンロードを右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; テンプレート 3D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3d.html)をダウンロードを右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

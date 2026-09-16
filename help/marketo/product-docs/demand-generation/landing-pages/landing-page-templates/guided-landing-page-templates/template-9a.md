@@ -18,7 +18,7 @@ ht-degree: 30%
 ---
 # テンプレート 9A {#template-9a}
 
-[ ダウンロードテンプレート 9A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-9a.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 9A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-9a.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

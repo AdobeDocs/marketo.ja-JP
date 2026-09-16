@@ -18,7 +18,7 @@ ht-degree: 25%
 ---
 # テンプレート 20D {#template-20d}
 
-[ ダウンロードテンプレート 20D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20d.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 20D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20d.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

@@ -18,7 +18,7 @@ ht-degree: 28%
 ---
 # テンプレート 5D {#template-5d}
 
-[ ダウンロードテンプレート 5D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-5d.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 5D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-5d.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

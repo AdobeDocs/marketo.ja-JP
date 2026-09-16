@@ -18,7 +18,7 @@ ht-degree: 33%
 ---
 # テンプレート 2A {#template-2a}
 
-[ ダウンロードテンプレート 2A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-2a.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 2A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-2a.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

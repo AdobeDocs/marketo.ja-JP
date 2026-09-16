@@ -18,7 +18,7 @@ ht-degree: 31%
 ---
 # テンプレート 8B {#template-8b}
 
-[ テンプレート 8B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-8b.html)をダウンロードを右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; テンプレート 8B](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-8b.html)をダウンロードを右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >

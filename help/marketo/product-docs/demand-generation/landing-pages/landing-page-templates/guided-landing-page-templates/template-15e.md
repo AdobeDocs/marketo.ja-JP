@@ -18,7 +18,7 @@ ht-degree: 27%
 ---
 # テンプレート 15E {#template-15e}
 
-[ ダウンロードテンプレート 15E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-15e.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+[&#x200B; ダウンロードテンプレート 15E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-15e.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
 
 >[!NOTE]
 >
