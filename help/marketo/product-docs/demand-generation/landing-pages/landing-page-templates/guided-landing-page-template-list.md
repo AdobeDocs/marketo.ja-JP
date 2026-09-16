@@ -7,35 +7,57 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/aHSN4jaUa-1FI8CRLUo1h-UmxjwWCB0ZDt3vbvoEVa0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Troubleshooting
+source-git-commit: 39f87db3b9437e82aeec1a860592654acaf8e0ca
 workflow-type: tm+mt
-source-wordcount: 357
-ht-degree: 84%
-
+source-wordcount: '411'
+ht-degree: 62%
 ---
-
 # ガイド付きランディングページテンプレートリスト {#guided-landing-page-template-list}
 
-[&#x200B; ガイド付きランディングページエディター](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)で使用するサンプルテンプレートのコレクションをご覧ください。 各テンプレートは完全にレスポンシブで、Bootstrap フレームワークに基づいています。
+[ ガイド付きランディングページエディター](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)で使用するサンプルテンプレートのコレクションをご覧ください。 各テンプレートは完全にレスポンシブで、Bootstrap フレームワークに基づいています。
 
 >[!NOTE]
 >
->Marketo サポートは、HTML のトラブルシューティングについては対応できません。 これらのテンプレートの変更について不明な点がある場合は、Web デベロッパーにお問い合わせください。
+>Marketo サポートは、HTML のトラブルシューティングについては対応できません。 これらのテンプレートの変更にサポートが必要な場合は、web 開発者にご相談ください。
 
-テンプレートを Marketo にインポートするには：
+## Marketo Engageにテンプレートを読み込む方法{#how-to-import}
 
-1. より大きく表示するには、テンプレートの名前をクリックします。
-1. 選択したテンプレートをダウンロードします。
-1. Marketoで、**[!UICONTROL Design Studio]**&#x200B;に移動します。
-1. 左側のツリーで「**[!UICONTROL ランディングページ]**」をクリックし、「**[!UICONTROL テンプレート]**」を選択します。
+1. 下の[ テンプレートの名前をクリックすると、専用ページに移動します。](#all-templates)
 
-1. メニューバーで、**[!UICONTROL テンプレートの読み込み]**&#x200B;をクリックします。
-1. ダウンロードしたファイルを選択し、テンプレート名を入力して、「**[!UICONTROL インポート]**」をクリックします（わかりやすい名前を必ず選択し、編集モードが&#x200B;**[!UICONTROL ガイド付き]**&#x200B;であることを示します)。
+1. 「テンプレートをダウンロード」を右クリックし、**リンクを別名で保存…**&#x200B;を選択します。ファイルをコンピューター上の目的の場所に保存します。
+
+1. Marketo Engageで、**[!UICONTROL Design Studio]**&#x200B;に移動します。
+
+1. **[!UICONTROL ランディングページテンプレート]**&#x200B;を選択します。
+
+   ![](assets/guided-landing-page-template-list-3.png)
+
+1. **[!UICONTROL ランディングページテンプレートアクション]** ドロップダウンで、**[!UICONTROL 新しいランディングページテンプレート]**&#x200B;を選択します。
+
+   ![](assets/guided-landing-page-template-list-4.png)
+
+1. テンプレートに名前を付けます。 編集モード ドロップダウンで、**[!UICONTROL ガイド付き]**&#x200B;を選択します。 「**[!UICONTROL テンプレートを読み込み]**」チェックボックスを選択します。
+
+   ![](assets/guided-landing-page-template-list-5.png)
+
+1. ダウンロードしたテンプレートファイルを選択し、**[!UICONTROL 作成]**&#x200B;をクリックします（**既存のテンプレートをこの名前に置き換える**&#x200B;はオプション）。
+
+   ![](assets/guided-landing-page-template-list-6.png)
+
+1. テンプレートが読み込まれ、編集用に準備が整いました。
+
+## 使用可能なすべてのテンプレート {#all-templates}
+
+無料のテンプレートライブラリを参照します。
 
 <table>
 <tr>
