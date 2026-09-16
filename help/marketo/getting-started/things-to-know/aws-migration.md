@@ -3,9 +3,9 @@ description: AWSへの移行 – Marketo Engage Docs – 製品ドキュメン�
 title: AWSへの移行
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 577eb59d80224137833c30979dda2c183c04af70
+source-git-commit: f162e96cb2706942d51f10be6d85f700ee4b9d49
 workflow-type: tm+mt
-source-wordcount: '993'
+source-wordcount: '997'
 ht-degree: 5%
 ---
 # AWSへの移行 {#aws-migration}
@@ -28,7 +28,7 @@ ht-degree: 5%
 
 * **ログイン、API アクセス、電子メール送信、web トラッキング、および統合に関するIP許可リスト**&#x200B;のレビューと更新。
 
-* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[&#x200B; テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
+* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[ テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
 
 ## 期待されるサービス効果 {#impacts}
 
@@ -37,15 +37,15 @@ ht-degree: 5%
 * **CRM統合とLaunchPoint サービス**&#x200B;は無効になりますが、後で自動的に再開する必要があります。
 * **ランディングページ、フォーム、データ収集**&#x200B;は利用できなくなり、メンテナンスメッセージが表示されます（以下を参照）。
 
-  ![&#x200B; ダウンタイム中にMarketo Engage ランディングページにアクセスしたときに、お客様に表示されるメッセージ &#x200B;](assets/maintenance-in-progress.png)
+  ![ ダウンタイム中にMarketo Engage ランディングページにアクセスしたときに、お客様に表示されるメッセージ ](assets/maintenance-in-progress.png)
 
 >[!IMPORTANT]
 >
->[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行期間中にMarketo Engageが利用できない間に収集したフォーム送信データを失わないようにしたい場合は、事前に[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support){target="_blank"} **少なくとも2営業日**&#x200B;までにお問い合わせください。フォーム IDとサブスクリプションのMunchkin IDを入力してください。
+>[外部フォーム ](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行期間中にMarketo Engageが利用できない間に収集したフォーム送信データを失わないようにしたい場合は、事前に[Adobe サポート ](https://experienceleague.adobe.com/en/support){target="_blank"} **少なくとも2営業日**&#x200B;までにお問い合わせください。フォーム IDとサブスクリプションのMunchkin IDを入力してください。
 
 ## データセンター/ポッドの特定 {#identify}
 
-以下のスケジュールを確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+以下のスケジュールを確認する前に、[ サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
 
 ## スケジュール {#schedule}
 
@@ -216,17 +216,17 @@ ht-degree: 5%
    <i>AB06</i></td>
    <td>午後5時（太平洋夏時間）<br>
    <i>PDT</i>午後6時</td>
-   <td>予定通り<br>
+   <td>完了<br>
    <i>延期（未定） </i></td>
   </tr>
   <tr>
    <td>2026年9月17日（PT）</td>
    <td>AB07<br>
-   AB08</td>
+   <i>AB08</i></td>
    <td>午後5時（太平洋夏時間）<br>
-   午後6時（太平洋夏時間）</td>
+   <i>PDT</i>午後6時</td>
    <td>予定通り<br>
-   予定通り</td>
+   <i>延期（未定） </i></td>
   </tr>
   <tr>
    <td>2026年9月22日（PT）</td>
@@ -262,12 +262,6 @@ ht-degree: 5%
    予定通り</td>
   </tr>
   <tr>
-   <td>2026年10月6日（PT）</td>
-   <td>AB18</td>
-   <td>午後5時（太平洋夏時間）</td>
-   <td>予定通り</td>
-  </tr>
-  <tr>
    <td>2026年10月9日（PT）</td>
    <td>AB19<br>
    AB22</td>
@@ -275,6 +269,13 @@ ht-degree: 5%
    午後5時（太平洋夏時間）</td>
    <td>予定通り<br>
    予定通り</td>
+  </tr>
+   <tr>
+   <td>2026年10月30日<br> 
+   （10月6日からスケジュール変更）</td>
+   <td>AB18</td>
+   <td>午後5時（太平洋夏時間）</td>
+   <td>予定通り</td>
   </tr>
   </body>
 </table>
@@ -308,9 +309,9 @@ ht-degree: 5%
 
 最新情報は、このページをブックマークしてください。
 
-ステータスの更新については、移行の開始時および完了時に[購読して受信することができます](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 移行期間中に[status.adobe.com](https://status.adobe.com/ja){target="_blank"}にアクセスすることもできます。
+ステータスの更新については、移行の開始時および完了時に[購読して受信することができます](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 移行期間中に[status.adobe.com](https://status.adobe.com/ja){target="_blank"}にアクセスすることもできます。
 
-ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
+ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}からAdobe サポートにお問い合わせください。
 
 ## よくある質問 {#faq}
 
