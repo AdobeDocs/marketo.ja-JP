@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/3EEwpvZ47TlJXfukZPRQSb8Kq7IOTkrv1gkTdu3zjEE
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 79
-ht-degree: 74%
-
+source-wordcount: '79'
+ht-degree: 54%
 ---
-
 # テンプレート 3D {#template-3d}
 
-右クリックして[テンプレート 3D をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=ja)します
+右クリックして[テンプレート 3D をダウンロード](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3d.html)します
 
 ![](assets/image2015-6-15-11-3a29-3a7.png)
 
@@ -27,11 +27,11 @@ ht-degree: 74%
 * ロゴおよび 3 つのボタンを含むヘッダー（オプション）
 * プライマリセクション
 
-   * ヒーローテキストが含まれます。
+  * ヒーローテキストが含まれます。
 
 * 3 つの本文セクション（オプション）
 * フッター（オプション）
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 3D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3d.html?lang=ja)
+[テンプレート 3D.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-3d.html)

@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
 workflow-type: tm+mt
-source-wordcount: '8930'
+source-wordcount: '8932'
 ht-degree: 96%
 ---
 
@@ -487,7 +487,8 @@ ht-degree: 96%
   + Marketo Engageの共同作業 {#coworker-for-marketo}
     + [概要](product-docs/coworker-for-marketo/overview.md)
     + [設定と設定](product-docs/coworker-for-marketo/settings-setup.md)
-    + [Adobe Marketo Engageのコラボレーション機能](product-docs/coworker-for-marketo/data-information.md)
+    + {hide-from-toc}[組織ルール &#x200B;](product-docs/coworker-for-marketo/organizational-rules.md)
+    + [Coworker Marketo Engage 版データ情報シート](product-docs/coworker-for-marketo/data-information.md)
     + スキル {#skills}
       + [製品知識](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/coworker-for-marketo/skills/surface-insights.md)

@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/dx-0M4HEASiEI4Tfu-X5vt1UzV7ZoKqxsF9PgFPkglg
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 74
-ht-degree: 72%
-
+source-wordcount: '74'
+ht-degree: 51%
 ---
-
 # テンプレート 13B {#template-13b}
 
-右クリックして[テンプレート 13B をダウンロード](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=ja)します
+右クリックして[テンプレート 13B をダウンロード](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13b.html)します
 
 ![](assets/image2015-8-11-10-3a48-3a42.png)
 
@@ -26,11 +26,11 @@ ht-degree: 72%
 
 * プライマリセクション
 
-   * ヒーロータイトルとヒーロー動画が含まれます
+  * ヒーロータイトルとヒーロービデオが含まれます
 
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
 **このテンプレートをダウンロードするには、以下を右クリックします。**
 
-[テンプレート 13B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13b.html?lang=ja)
+[テンプレート 13B.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-13b.html)
