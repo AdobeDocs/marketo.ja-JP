@@ -1,9 +1,9 @@
 ---
 description: 組織ルールがガバナンス基準をどのように定義し、プログラムの作成、キャンペーンの計画、検証をまたいでAdobe Marketo Engageの共同作業をどのように導いているのかを解説します。
 title: 組織ルール
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '829'
 ht-degree: 1%
 ---
 # 組織ルール {#organizational-rules}
@@ -19,7 +19,7 @@ ht-degree: 1%
 * コンプライアンス要件（登録解除リンク、UTM パラメーター、除外フィルター）
 * ベストプラクティス（メールデザイン、スマートリスト設定）
 
-すべてのMarketo インスタンスには、デフォルトの組織ルールが含まれています。 組織の特定のガバナンスニーズを反映するためにカスタマイズすることができます。
+すべてのMarketo Engage環境には、デフォルトの組織ルールが含まれています。 組織の特定のガバナンスニーズを反映するためにカスタマイズすることができます。
 
 ## 組織ルールを使用する場合 {#where-organizational-rules-are-used}
 

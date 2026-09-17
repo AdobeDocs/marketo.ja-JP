@@ -11,14 +11,18 @@ product_v2:
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
-source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
+source-git-commit: 043d09315fec24d58897c362e9e28008df7d4aa9
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 53%
+source-wordcount: '100'
+ht-degree: 28%
 ---
 # テンプレート 4A {#template-4a}
 
-右クリックして[テンプレート 4A をダウンロード](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-4a.html)します
+[&#x200B; ダウンロードテンプレート 4A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-4a.html)を右クリックし、**リンクを別名で保存…**&#x200B;を選択します
+
+>[!NOTE]
+>
+>テンプレート [のダウンロードと読み込み方法に関する完全な手順については、こちらを参照してください](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}。
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -32,6 +36,6 @@ ht-degree: 53%
 * 5 つの本文セクション（オプション）
 * フッター（オプション）
 
-**このテンプレートをダウンロードするには、以下を右クリックします。**
+**下を右クリックし、_リンクを別名で保存…_を選択します。 このテンプレートをダウンロードするには：**
 
 [テンプレート 4A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-4a.html)
