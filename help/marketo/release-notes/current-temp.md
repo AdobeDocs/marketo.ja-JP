@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '552'
 ht-degree: 18%
 ---
 # リリースノート：2026年9月 {#release-notes-sep-26}
@@ -80,6 +80,16 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong> セルフサービスのフローステップ – コールバックタイムアウトの増加</strong>: セルフサービスのフローステップのコールバックタイムアウト時間が1時間から4時間に延長されました。 ユーザー側での操作は必要ありません。</td>
+   <td><i>近日リリース予定</i></td>
+   <td><i>近日リリース予定</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong> メールDesigner - テーブル </strong>: コンテンツの種類「テーブル」をメールにドラッグ&amp;ドロップし、列と行の数を設定できるようになりました。</td>
    <td><i>近日リリース予定</i></td>
    <td><i>近日リリース予定</i></td>
   </tr>

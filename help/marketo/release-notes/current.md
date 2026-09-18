@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 3a4c5d6f8aa299111ff8c09836246e9e0c7f93b1
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '524'
 ht-degree: 17%
 ---
 # リリースノート：2026年8月 {#release-notes-aug-26}
@@ -62,18 +62,6 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 </td>
    <td>リリース</td>
    <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">アーカイブでのキャンペーンの無効化</a></td>
-  </tr>
-    <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> メール Designer - Script Builder</strong>: Script Builderは、パーソナライゼーション スクリプトをより迅速に作成するためのAIを活用したアシスタントです。
-</td>
-   <td><i>近日リリース予定</i></td>
-   <td><i>近日リリース予定</i></td>
-  </tr>
   </tr>
     <tr>
    <td> </td>
