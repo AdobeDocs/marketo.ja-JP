@@ -10,7 +10,7 @@ ht-degree: 0%
 
 マーケティング施策をわかりやすい言葉で説明するMarketo EngageのCoworkerでは、既存のプログラムテンプレートをニーズに合わせて適応させ、メールコンテンツを自動的に更新し、テンプレート構造を複製することでさらなるアセットを作成します。
 
-組織の[組織ルール ](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}は、Coworker for Marketo Engageが作成中にプログラムを構成および検証する方法をガイドします。 これらのルールにより、新しいプログラムが命名規則、必要なトークン、フォルダー構造、コンプライアンス基準に準拠していることを確認できます。
+組織の[組織ルール &#x200B;](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}は、Coworker for Marketo Engageが作成中にプログラムを構成および検証する方法をガイドします。 これらのルールにより、新しいプログラムが命名規則、必要なトークン、フォルダー構造、コンプライアンス基準に準拠していることを確認できます。
 
 >[!PREREQUISITES]
 >
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 1. スマートキャンペーンのフィルターとフローステップが、想定したオーディエンスとロジックに一致していることを確認します。
 
-1. 手作業による調整（Smart Campaign ロジックの設定、フィルターの確定、メールコンテンツのカスタマイズ）をすべて完了したら、[ プログラムの検証](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md)を実行して、変更がアクティブ化する前に組織ルールに準拠していることを確認します。
+1. 手作業による調整（Smart Campaign ロジックの設定、フィルターの確定、メールコンテンツのカスタマイズ）をすべて完了したら、[&#x200B; プログラムの検証](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md)を実行して、変更がアクティブ化する前に組織ルールに準拠していることを確認します。
 
 ## ユースケース {#use-cases}
 
