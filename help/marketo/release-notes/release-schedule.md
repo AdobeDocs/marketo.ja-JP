@@ -7,17 +7,18 @@ feature: Release Information
 TQID: https://experienceleague.adobe.com/qWeyxsBXYxKLSJvq6SfpXsBsocY3eLGROIO8EcZlkMw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+    internal-label: Personalization
+source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
 workflow-type: tm+mt
-source-wordcount: 166
-ht-degree: 80%
-
+source-wordcount: '180'
+ht-degree: 73%
 ---
-
 # リリーススケジュール {#release-schedule}
 
 **リリース**：各リリースの月と年。 リリースノートが利用可能になると、以下の表にリンクされます。
@@ -60,19 +61,19 @@ _リリース日／機能は変更される場合があります。_
    <td>Complete</td>
   </tr>
   <tr>
-  <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">2026年7月</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-july-26">2026年7月</a></td>
    <td>2026年7月10日（PT）</td>
    <td>Complete</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">2026年8月</a></td>
+  <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/previous-releases/2026/release-notes-aug-26">2026年8月</a></td>
    <td>2026年8月14日（PT）</td>
-   <td>進行中</td>
+   <td>Complete</td>
   </tr>
   <tr>
-  <td>2026年9月</td>
+  <td><a href="/help/marketo/release-notes/current.md">2026年9月</a></td>
    <td>2026年9月25日（PT）</td>
-   <td>予定通り</td>
+   <td>進行中</td>
   </tr>
   <tr>
   <td>26年10月</td>
