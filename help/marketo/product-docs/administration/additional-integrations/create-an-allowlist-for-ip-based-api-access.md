@@ -7,29 +7,27 @@ feature: Administration
 TQID: https://experienceleague.adobe.com/MIuDfjHpqBC2Z-hMEgtk0BvK-W2DEL25M-j6GNQK9zI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: aa0494716e0deb2a2d04be5b2e6fdd1c13483f45
 workflow-type: tm+mt
-source-wordcount: 175
-ht-degree: 70%
-
+source-wordcount: '139'
+ht-degree: 89%
 ---
-
 # IP ベースの API アクセス用の許可リストの作成 {#create-an-allowlist-for-ip-based-api-access}
 
-特定の IP アドレスまたは一連のアドレスに対してのみ API アクセスを許可するには、 まず制限を有効にしてから、API を使用できる IP アドレスを指定します。
+特定の IP アドレスまたは IP アドレスの範囲に対してのみ API アクセスを許可したい場合があります。 まず制限を有効にしてから、API を使用できる IP アドレスを指定します。
 
 >[!NOTE]
 >
 >**管理者権限が必要**
-
->[!CAUTION]
->
->この機能を有効にすると、現在[Marketo MCP Server](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mcp-server){target="_blank"}にアクセスできなくなります。 この問題は、今後のリリースで解決される予定です。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 

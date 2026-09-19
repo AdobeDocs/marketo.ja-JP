@@ -4,7 +4,7 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
 source-wordcount: '8932'
 ht-degree: 96%
@@ -487,12 +487,12 @@ ht-degree: 96%
   + Marketo Engageの共同作業 {#coworker-for-marketo}
     + [概要](product-docs/coworker-for-marketo/overview.md)
     + [設定と設定](product-docs/coworker-for-marketo/settings-setup.md)
-    + {hide-from-toc}[組織ルール &#x200B;](product-docs/coworker-for-marketo/organizational-rules.md)
+    + [組織ルール](product-docs/coworker-for-marketo/organizational-rules.md)
     + [Coworker Marketo Engage 版データ情報シート](product-docs/coworker-for-marketo/data-information.md)
     + スキル {#skills}
       + [製品知識](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/coworker-for-marketo/skills/surface-insights.md)
-      + {hide-from-toc}[&#x200B; プログラムの作成](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + [プログラムの構築](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc}[&#x200B; コピープログラム &#x200B;](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [リードの調査](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [リードの読み込み](product-docs/coworker-for-marketo/skills/import-leads.md)

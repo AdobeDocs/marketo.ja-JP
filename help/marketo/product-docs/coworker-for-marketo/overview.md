@@ -1,9 +1,9 @@
 ---
 description: プログラムのQA、リードの読み込み、データの正規化など、マーケティングタスクを自動化するために設計されたCoworker for Marketo Engageエージェントをご確認ください。
 title: Marketo Engageの概要
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '439'
 ht-degree: 3%
 ---
 # Marketo Engageの概要 {#overview}
@@ -34,13 +34,9 @@ My Marketo画面で、**Coworker for Marketo Engage** タイルをクリック�
 
 センターコンソールには、さまざまなタスクを支援するために利用できるエージェントのスキルのセットが増えています。 各スキルは、特定のタスクを完了するために自然言語を通じて操作する、専用のAI アシスタントです。
 
-<!--
+### プログラムの構築 {#build-programs}
 
-### Build programs {#build-programs}
-
-Describe a marketing campaign in plain language and Coworker for Marketo Engage builds the program structure, complete with asset placeholders and scheduling. Learn more about the [Build programs skill](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
-
--->
+マーケティングキャンペーンをわかりやすい言葉で説明し、Adobe Marketo EngageのCoworkerがアセットのプレースホルダーとスケジューリングを含むプログラム構造を構築します。 [&#x200B; プログラムの作成スキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}について詳しく説明します。
 
 ### リードの調査 {#investigate-leads}
 
