@@ -6,18 +6,18 @@ exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 TQID: https://experienceleague.adobe.com/JzvT5UwsTTmvs-QCBwiDr-C9hipDM-VMLGioDLQhJb0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+source-git-commit: dc8457cac3da6d128b39590ff6d54958f1622ee8
 workflow-type: tm+mt
-source-wordcount: 245
+source-wordcount: '231'
 ht-degree: 100%
-
 ---
-
 # Marketo Engage アイコン用語集 {#icon-glossary}
 
-以下に、現在の Adobe Marketo Engage インターフェイスのアイコンを示します。 Marketo Classic アイコンを参照する必要がある場合は、[こちら](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md)をご覧ください。
+以下に、現在の Adobe Marketo Engage インターフェイスのアイコンを示します。
 
 ## 一般アイコン {#general-icons}
 
@@ -51,7 +51,7 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-email.png"></td>
    <td><img src="assets/email.png"></td>
-   <td>メール</td>
+   <td>電子メール</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program.png"></td>
@@ -81,7 +81,7 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-field-organizer.png"></td>
    <td><img src="assets/field-organizer.png"></td>
-   <td>フィールド オーガナイザ</td>
+   <td>フィールドオーガナイザ</td>
   </tr>
   <tr>
    <td><img src="assets/classic-filter.png"></td>
@@ -96,7 +96,7 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-folder.png"></td>
    <td><img src="assets/folder.png"></td>
-   <td>フォルダ</td>
+   <td>フォルダー</td>
   </tr>
   <tr>
    <td><img src="assets/classic-archive-folder.png"></td>
@@ -216,7 +216,7 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-test-group.png"></td>
    <td><img src="assets/test-group.png"></td>
-   <td>テスト グループ</td>
+   <td>テストグループ</td>
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td>
@@ -337,7 +337,7 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-email-program-complete.png"></td>
    <td><img src="assets/completed.png"></td>
-   <td>完了</td>
+   <td>完了済み</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-not-approved.png"></td>
@@ -347,7 +347,7 @@ ht-degree: 100%
   <tr>
    <td><img src="assets/classic-email-program-scheduled.png"></td>
    <td><img src="assets/scheduled.png"></td>
-   <td>スケジュール済み</td>
+   <td>予定されています</td>
   </tr>
  </tbody>
 </table>
