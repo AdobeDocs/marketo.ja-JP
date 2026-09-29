@@ -7,16 +7,15 @@ feature: Target Account Management
 TQID: https://experienceleague.adobe.com/aLuxfKOeRsPYXa5i5l86wj-ACPyKcJ4-f3ecmIZq8s0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 505
+source-wordcount: '505'
 ht-degree: 94%
-
 ---
-
 # [!UICONTROL 重点顧客]の読み込み {#import-named-accounts}
 
-ターゲット顧客の候補がいっぱいの CSV を既にお持ちの場合、 TAM に直接読み込むことができます。
+ターゲットアカウント候補がいっぱいの CSV を既にお持ちの場合、 TAM に直接読み込むことができます。
 
 1. **[!UICONTROL 新規作成]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 重点顧客を読み込む]**」を選択します。
 
@@ -30,7 +29,7 @@ ht-degree: 94%
    >
    >ファイルで、[可能な限り多くの情報](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes)を提供します。 追加できるのはファーモグラフィック情報のみです。Marketo が計算するもの（パイプライン）は追加できません。 CRM 顧客に基づく重点顧客を作成するには、CRM から顧客名と CRM ID を CSV ファイルに書き出し、「顧客名」オプションを使用して、読み込みプロセス中に CRM ID をマッピングします。 CRM 顧客を特定の顧客に適切にリンクするには、CRM 顧客の正確な名前を指定する必要があります。
 
-1. 顧客名またはドメイン名の 2 つの重複解除モードから選択します。 この例では、顧客を選択します。 **[!UICONTROL モード]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 顧客名別]**」を選択します。
+1. アカウント名またはドメイン名の 2 つの重複解除モードから選択します。 この例では、顧客を選択します。 **[!UICONTROL モード]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 顧客名別]**」を選択します。
 
    ![](assets/inathree.png)
 
@@ -46,7 +45,7 @@ ht-degree: 94%
    >
    >また、ドロップダウンボックスに名前を入力するだけで、新しい[!UICONTROL アカウントリスト]を作成することもできます。
 
-1. 読み込みの通知を送信するには、**[!UICONTROL アラートの送信先]**&#x200B;ドロップダウンリストから、Marketo ユーザを選択します。 メールアドレスを手動で入力することは&#x200B;_できません_。
+1. 読み込みの通知を送信するには、**[!UICONTROL アラートの送信先]**&#x200B;ドロップダウンリストから、Marketo ユーザーを選択します。 メールアドレスを手動で入力することは&#x200B;_できません_。
 
    ![](assets/inafive-2.png)
 
@@ -72,11 +71,11 @@ ht-degree: 94%
  <tbody>
   <tr>
    <td><strong>既存の<span class="uicontrol">重点顧客</span>名を持つレコードの読み込み</strong></td>
-   <td><p>既存のレコードを更新</p></td>
+   <td><p>既存のレコードを更新します</p></td>
   </tr>
   <tr>
    <td><strong>新しい<span class="uicontrol">重点顧客</span>名を持つレコードの読み込み</strong></td>
-   <td>新しいレコードを作成</td>
+   <td>新しいレコードを作成します</td>
   </tr>
  </tbody>
 </table>

@@ -6,20 +6,23 @@ exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
 TQID: https://experienceleague.adobe.com/wpXQpXx-Og5t9TJtlZnuXS2sgGkdDPYv7n5ehPSPHC4
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 420
+source-wordcount: '420'
 ht-degree: 47%
-
 ---
-
 # スマートキャンペーンでの SMS オプションの使用 {#using-sms-options-in-a-smart-campaign}
 
 SMS メッセージを[作成した後](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}、スマートキャンペーン内でスマートリストのトリガーとフィルターを使用してメリットを得る必要があります。
@@ -58,7 +61,7 @@ SMS メッセージを[作成した後](/help/marketo/product-docs/mobile-market
   </tr>
 </table>
 
-**Vibes リストに購読済み**&#x200B;フィルターは、*一度でも* Vibes を購読していたことのあるすべての人を検索します。 削除されたリードがフローから除外されても、登録解除済みのリードと削除済みのリードの両方が含まれます。 このフィルターは、レポートに最適です。
+**Vibes リストに購読済み**&#x200B;フィルターは、*一度でも* Vibes を購読していたことのあるすべての人を検索します。 登録解除済みの人物と削除済みの人物の両方が含まれますが、削除済みの人はフローからは除外されます。 このフィルターは、レポートに最適です。
 
 これに対して、**Vibes リストのメンバー**&#x200B;フィルターは、現在 Vibes を購読している&#x200B;*すべての*&#x200B;ユーザを検索するので、スマートキャンペーンまたはリストでの使用に最も適しています。
 
@@ -84,7 +87,7 @@ SMS メッセージを[作成した後](/help/marketo/product-docs/mobile-market
     <td>このフローアクションは、ユーザーが選択したVibes獲得キャンペーンを介してSMS購読プロセスを開始します。 Vibesは確認メッセージを送信し、受信者はオプトインを確認するために24時間以内に「Y」と返信する必要があります。 ユーザーがオプトインすると、関連するVibes サブスクリプションリストのメンバーになります。</td>
   </tr>
   <tr>
-    <td style="width:20%"><b>Vibes リストから配信停止</b></td>
+    <td style="width:20%"><b>Vibes リストの購読解除</b></td>
     <td>このフローアクションは、ユーザーがオプトインしたVibes サブスクリプションリストから各ユーザーの購読を解除します。 ユーザーがコードに「STOP」とメッセージを送信すると、ユーザーの個人レコードが更新され、Vibes サブスクリプション リストのメンバーではなくなったことを反映します。</td>
   </tr>
   </tbody>

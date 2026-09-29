@@ -1,25 +1,27 @@
 ---
 unique-page-id: 2359469
 description: メールプログラムダッシュボードの表示方法について説明します。 パフォーマンス指標とプログラムステータスを一目で確認できます。
-title: メールプログラムダッシュボードの表示
+title: メールプログラムのダッシュボードの表示
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
 TQID: https://experienceleague.adobe.com/XFLGP-fP49QTNHdurvS6vs-ZFJu8SUIw3oFyC46ojcc
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 233
+source-wordcount: '233'
 ht-degree: 92%
-
 ---
-
-# メールプログラムダッシュボードの表示 {#view-the-email-program-dashboard}
+# メールプログラムのダッシュボードの表示 {#view-the-email-program-dashboard}
 
 ダッシュボードでは、メールプログラムのパフォーマンスを確認できます（A/B テストのあるなしに関わらず）。
 
@@ -41,7 +43,7 @@ ht-degree: 92%
    >
    >A/B テストまたはメールプログラムがまだ開始されていない場合は、ダッシュボードは表示されません。
 
-## メールプログラム A/B テストの表示 {#email-program-a-b-test-view}
+## メールプログラム A/B テストビュー {#email-program-a-b-test-view}
 
 A/B テストをメールプログラムに追加し、そのテストが現在実行中の場合は、次のようになります。
 
@@ -59,5 +61,5 @@ A/B テストを追加していない場合&#x200B;_または_&#x200B;テスト�
 
 >[!MORELIKETHIS]
 >
->* [メールプログラムのダッシュボードを使用する：A/B テスト表示](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [メールプログラムのダッシュボードの使用：A/B テスト表示](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
 >* [メールプログラムダッシュボードの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

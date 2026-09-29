@@ -7,15 +7,15 @@ feature: Deliverability
 TQID: https://experienceleague.adobe.com/ln23WoloRVzBoC8CXFsm90LqYV5FDJzbII8UItp3xDc
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 434
+source-wordcount: '434'
 ht-degree: 49%
-
 ---
-
 # カスタム DKIM 署名の設定 {#set-up-a-custom-dkim-signature}
 
 最適な配信品質を確保するために、Marketoでは、すべての送信メールにDKIMの共有署名を自動的に割り当てます。
@@ -85,6 +85,6 @@ DKIM 署名をパーソナライズして、選択したドメインを反映さ
 
    >[!CAUTION]
    >
-   >対応する DNS レコードを変更または削除すると、到達率が低下します。 DNSを変更する前に、Marketoのエントリを削除します。
+   >対応する DNS レコードを変更または削除すると、配信品質に悪影響が出ます。 DNSを変更する前に、Marketoのエントリを削除します。
 
-   これにより、メールの到達性が向上します。 レコードが存在し、正しいことを確認する必要があります。
+   これにより、メールの到達性が向上します。 レコードが存在し、正しいことが検証されたという結果が得られるはずです。

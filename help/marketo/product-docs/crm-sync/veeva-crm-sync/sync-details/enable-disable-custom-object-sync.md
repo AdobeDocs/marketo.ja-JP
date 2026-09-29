@@ -6,22 +6,23 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/nsmRk-zf-I5r0hfLxsOnGsTf66X-bYZ7OAUXHrPc-t0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Lists
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 230
-ht-degree: 88%
-
+source-wordcount: '230'
+ht-degree: 82%
 ---
-
 # カスタムオブジェクト同期の有効化／無効化 {#enable-disable-custom-object-sync}
 
-[!DNL Veeva] CRM インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。 その設定方法を説明しましょう。
+[!DNL Veeva] CRM インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。 設定方法は次のとおりです。
 
-## カスタムオブジェクト同期の有効化／無効化 {#enable-or-disable-the-custom-object-sync}
+## カスタムオブジェクト同期を有効にする／無効にする {#enable-or-disable-the-custom-object-sync}
 
 >[!NOTE]
 >
@@ -47,15 +48,15 @@ ht-degree: 88%
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-同期するオブジェクトを選択し、「**[!UICONTROL 同期を有効にする]**」をクリックします。
+   同期するオブジェクトを選択し、「**[!UICONTROL 同期を有効にする]**」をクリックします。
 
-![](assets/enable-disable-custom-object-sync-5.png)
+   ![](assets/enable-disable-custom-object-sync-5.png)
 
->[!TIP]
->
->Marketo では、[!DNL Veeva] CRM の取引先責任者またはアカウントオブジェクトのいずれかと直接の関係がある場合にのみ、カスタムオブジェクトを同期できます。
+   >[!TIP]
+   >
+   >Marketo では、[!DNL Veeva] CRM の取引先責任者またはアカウントオブジェクトのいずれかと直接の関係がある場合にのみ、カスタムオブジェクトを同期できます。
 
-1. 「**[!UICONTROL 同期を有効にする]**」をもう一度クリックします。
+1. 「**[!UICONTROL 同期を有効にする]**」を再度クリックします。
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
@@ -73,11 +74,11 @@ ht-degree: 88%
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
-1. オプションで、フィルター制約を使用してフォーカスを絞り込みます。
+1. 任意で、フィルター制約を使用して焦点を絞り込みます。
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-このカスタムオブジェクトのデータを[!UICONTROL スマートキャンペーン]と[!UICONTROL スマートリスト]で使用できるようになりました。
+このカスタムオブジェクトのデータを[!UICONTROL  スマートキャンペーン ]および[!UICONTROL  スマートリスト ]で使用できるようになりました。
 
 >[!MORELIKETHIS]
 >

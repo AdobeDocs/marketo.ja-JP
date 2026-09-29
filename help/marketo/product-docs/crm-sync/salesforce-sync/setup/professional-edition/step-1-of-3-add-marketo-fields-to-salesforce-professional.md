@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 767
+source-wordcount: '767'
 ht-degree: 92%
-
 ---
-
 # 手順 1／3：Marketo フィールドの [!DNL Salesforce] への追加（Professional） {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
@@ -30,9 +29,9 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 ## Marketo フィールドを [!DNL Salesforce] に追加 {#add-marketo-fields-to-salesforce}
 
-上記の [!DNL Salesforce] 内のリードおよび取引先責任者オブジェクトに 3 つのカスタムフィールドを追加します。 さらに追加する場合は、この節の最後にある使用可能フィールドのテーブルを参照してください。
+上記の [!DNL Salesforce] 内のリードおよび取引先責任者オブジェクトに 3 つのカスタムフィールドを追加します。 さらに追加する場合は、このセクションの最後にある使用可能フィールドのテーブルを参照してください。
 
-3 つのカスタムフィールドのそれぞれに対して、次の手順を実行して追加します。 「**[!UICONTROL スコア]**」から始めます。
+3 つのカスタムフィールドそれぞれについて、次の手順を実行して追加します。 「**[!UICONTROL スコア]**」から始めます。
 
 1. Salesforce にログインし、「**[!UICONTROL 設定]**」をクリックします。
 
@@ -56,58 +55,58 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 1. 次の表に示すように、フィールドの「[!UICONTROL フィールドラベル]」、「[!UICONTROL 長さ]」、「[!UICONTROL フィールド名]」を入力します。
 
-<table>
- <thead>
-  <tr>
-   <th>
-    <div>
-      フィールドラベル
-    </div></th>
-   <th>
-    <div>
-      フィールド名
-    </div></th>
-   <th>
-    <div>
-      データタイプ
-    </div></th>
-   <th>
-    <div>
-      フィールド属性
-    </div></th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>スコア</td>
-   <td>mkto71_Lead_Score</td>
-   <td>数字</td>
-   <td>長さ 10 <br>小数点以下桁数 0 </td>
-  </tr>
-  <tr>
-   <td>取得日</td>
-   <td>mkto71_Acquisition_Date</td>
-   <td>日時</td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td>新規顧客獲得プログラム</td>
-   <td>mkto71_Acquisition_Program</td>
-   <td>テキスト</td>
-   <td>長さ 255</td>
-  </tr>
- </tbody>
-</table>
+   <table>
+   <thead>
+   <tr>
+      <th>
+      <div>
+         フィールドラベル
+      </div></th>
+      <th>
+      <div>
+         フィールド名
+      </div></th>
+      <th>
+      <div>
+         データタイプ
+      </div></th>
+      <th>
+      <div>
+         フィールド属性
+      </div></th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td>スコア</td>
+      <td>mkto71_Lead_Score</td>
+      <td>数字</td>
+      <td>長さ 10 <br>小数点以下桁数 0 </td>
+   </tr>
+   <tr>
+      <td>取得日</td>
+      <td>mkto71_Acquisition_Date</td>
+      <td>日時</td>
+      <td> </td>
+   </tr>
+   <tr>
+      <td>新規顧客獲得プログラム</td>
+      <td>mkto71_Acquisition_Program</td>
+      <td>テキスト</td>
+      <td>長さ 255</td>
+   </tr>
+   </tbody>
+   </table>
 
->[!NOTE]
->
->[!DNL Salesforce] では、フィールド名を使用して API 名を作成するときに、フィールド名に __c を追加します。
+   >[!NOTE]
+   >
+   >[!DNL Salesforce] では、フィールド名を使用して API 名を作成するときに、フィールド名に __c を追加します。
 
-![](assets/image2016-5-26-14-3a55-3a33.png)
+   ![](assets/image2016-5-26-14-3a55-3a33.png)
 
->[!NOTE]
->
->テキストフィールドと数値フィールドには長さが必要ですが、日付/時刻フィールドには必要ありません。 説明はオプションです。
+   >[!NOTE]
+   >
+   >テキストフィールドと数値フィールドには長さが必要ですが、日付/時刻フィールドには必要ありません。 説明はオプションです。
 
 1. 「**[!UICONTROL 次へ]**」をクリックします。
 
@@ -117,11 +116,11 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    * すべての役割を&#x200B;**[!UICONTROL 表示]**&#x200B;および&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;に設定します。
 
-   * 同期ユーザのプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
+   * 同期ユーザーのプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
 
-      * 同期ユーザーとして&#x200B;_システム管理者_&#x200B;のプロファイルを持つユーザーがいる場合は、システム管理者プロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします（以下を参照）。
+     * 同期ユーザーとして&#x200B;_システム管理者_&#x200B;のプロファイルを持つユーザーがいる場合は、システム管理者プロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします（以下を参照）。
 
-      * 同期ユーザーに&#x200B;_カスタムプロファイル_&#x200B;を作成した場合は、のカスタムプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
+     * 同期ユーザーに&#x200B;_カスタムプロファイル_&#x200B;を作成した場合は、のカスタムプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -230,7 +229,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 >
 >Marketo によって自動的に割り当てられたフィールドの値は、新しいフィールドが作成されたときに [!DNL Salesforce] ですぐに使用できるわけではありません。 Marketo は、次のアップデート時にいずれかのシステム上のレコードに対して [!DNL Salesforce] とデータを同期します（つまり、Marketo と [!DNL Salesforce] の間で同期されているフィールドのアップデート）。
 
-## コンバージョン用のカスタムフィールドのマッピング  {#map-custom-fields-for-conversions}
+## コンバージョン用カスタムフィールドのマッピング  {#map-custom-fields-for-conversions}
 
 コンバージョンが発生した際にデータが引き継がれるように、[!DNL Salesforce] 内のリードオブジェクトのカスタムフィールドを取引先責任者オブジェクトの取引先責任者フィールドにマッピングする必要があります。
 
@@ -250,7 +249,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    ![](assets/image2016-5-26-16-3a49-3a53.png)
 
-1. 対応する連絡先カスタムフィールドを選択します。
+1. 対応する取引先責任者のカスタムフィールドを選択します。
 
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 

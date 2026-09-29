@@ -6,24 +6,25 @@ exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
 TQID: https://experienceleague.adobe.com/AmH0g8c2lKCUOyMiZ2m5J5h-pHbb0JFyq-m7ujEEwow
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 360
+source-wordcount: '360'
 ht-degree: 84%
-
 ---
-
 # ルーティング {#routing}
 
-動的チャットで予約された会議は、2 つの方法でルーティングできます。 ラウンドロビン、またはカスタムルールを使用します。
+Dynamic Chat で予約された会議は、2 つの方法でルーティングできます。 ラウンドロビン、またはカスタムルールを使用します。
 
 ラウンドロビン：会議はエージェントに順次割り当てられます。 エージェントが 5 人いてエージェント 3 が最後の会議に出席した場合、エージェント 4 が次の会議に出席し、次にエージェント 5 がその次の会議に出席し、その後はエージェント 1 に戻ります。
 
-カスタムルール：選択した属性に基づいて、特定のエージェントを選択して会議を割り当てることができます。
+カスタムルール：選択した属性に基づいて、特定のエージェントに会議を割り当てることができます。
 
 >[!NOTE]
 >
@@ -53,7 +54,7 @@ ht-degree: 84%
 
    ![](assets/routing-5.png)
 
-1. 目的の属性の上にドラッグします。
+1. 目的の属性をドラッグします。
 
    ![](assets/routing-6.png)
 
@@ -67,7 +68,7 @@ ht-degree: 84%
 
 ## アカウントルーティング {#account-routing}
 
-ターゲットアカウントとそれぞれの販売所有者を特定してアップロードし、それらのアカウントからの訪問者をそれぞれのアカウント所有者に直接ルーティングします。
+ターゲットアカウントとそれぞれの営業担当者を特定してアップロードし、それらのアカウントからの訪問者をそれぞれのアカウント所有者に直接ルーティングします。
 
 ![](assets/routing-9.png)
 

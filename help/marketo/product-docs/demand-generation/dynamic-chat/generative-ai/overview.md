@@ -6,18 +6,20 @@ exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
 TQID: https://experienceleague.adobe.com/Q5f-5suH6XCiuGhqnyPEu1hjWbtIXBaLOoz5VX7gC6o
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 472
+source-wordcount: '472'
 ht-degree: 14%
-
 ---
-
 # Dynamic Chatの生成AI {#generative-ai-overview}
 
 Adobe Dynamic Chatの生成AIを利用すれば、営業担当者の生産性を最適化し、web サイトを訪問した人の意図に関するインサイトを得て、訪問者の質問に安全に対応できます。
@@ -30,7 +32,7 @@ Adobe Dynamic Chatの生成AIを利用すれば、営業担当者の生産性を
 
 ## 生成応答カード {#generation-response-card}
 
-訪問者が会話の特定の時点に達したときのメッセージを作成します。 必要な主要業績評価指標を達成するために、1 回で完了する質問をいくつか設定します。 フォローアップ質問を5つまで追加し、訪問者の質問に回答できない場合は、フォールバックメッセージを含めます。
+訪問者が会話の特定の時点に達したときのメッセージを作成します。 目的の主要業績評価指標を達成できるように、1 回に質問できる数を設定します。 フォローアップ質問を5つまで追加し、訪問者の質問に回答できない場合は、フォールバックメッセージを含めます。
 
 ![](assets/generative-ai-overview-2.png)
 
@@ -54,13 +56,13 @@ Adobe Dynamic Chatの生成AIを利用すれば、営業担当者の生産性を
 
 ## 回答ライブラリ {#response-library}
 
-[&#x200B; カスタマイズされた質問と回答のコレクション &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)を作成し、すべて事前に承認しておくことで、生成AI チャットキャンペーンで使用できます。
+[ カスタマイズされた質問と回答のコレクション ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)を作成し、すべて事前に承認しておくことで、生成AI チャットキャンペーンで使用できます。
 
 ![](assets/generative-ai-overview-6.png)
 
 ## アクティビティログ {#activity-log}
 
-[すべてのタスク &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)とその付随する詳細（名前、所有者、種類、編集したユーザーと日時など）のリストを表示します。
+[すべてのタスク ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)とその付随する詳細（名前、所有者、種類、編集したユーザーと日時など）のリストを表示します。
 
 ![](assets/generative-ai-overview-7.png)
 
@@ -78,7 +80,7 @@ Discussed Topicsは、スマートリストのトリガーやフィルターで�
 
 >[!IMPORTANT]
 >
->生成AIを使用する場合は、生成AIを組み込んだAdobe Experience Cloudの機能が安全かつ責任ある方法で使用されていることを確認するために、[Adobe Experience Cloud生成AI ユーザーガイドライン &#x200B;](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)に準拠する必要があります。
+>生成AIを使用する場合、生成AIを組み込んだAdobe Experience Cloud機能が安全かつ責任ある方法で使用されるようにするには、[Adobe Experience Cloud生成AI ユーザーガイドライン ](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)に準拠する必要があります。
 
 ## よくある質問 {#faq}
 

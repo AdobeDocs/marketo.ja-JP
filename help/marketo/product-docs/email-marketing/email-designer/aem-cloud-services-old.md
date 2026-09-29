@@ -4,14 +4,12 @@ description: AEM Cloud ServicesをMarketo Engageに接続する方法につい�
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: yes
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 12%
-
 ---
-
 # Adobe Experience Manager Cloud Servicesとの連携 {#connect-adobe-experience-manager-cloud-services}
 
 AEM Assets Cloud Services アカウントをAdobe Marketo Engage インスタンスに接続して、Marketo Engage Email DesignerでAEM Asset リポジトリを活用できるようにする方法について説明します。
@@ -36,7 +34,7 @@ AEM Assets Cloud Services アカウントをAdobe Marketo Engage インスタン
 >
 >Marketo Engage サブスクリプションと同じIMS組織に関連付けられているリポジトリのみが一覧表示されます。
 
-1. リポジトリを設定するには、[&#x200B; サービス資格情報の証明書](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)を追加する必要があります。 「**+証明書を追加**」ボタンをクリックします。
+1. リポジトリを設定するには、[ サービス資格情報の証明書](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)を追加する必要があります。 「**+証明書を追加**」ボタンをクリックします。
 
 スクリーンショット
 

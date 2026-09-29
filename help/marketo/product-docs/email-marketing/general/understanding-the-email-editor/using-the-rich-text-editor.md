@@ -7,25 +7,30 @@ feature: Email Editor
 TQID: https://experienceleague.adobe.com/TIBs0w7HaCEdQfctJj7L48APmhsSp22DfNdqGDN0RmM
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
 subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 759
-ht-degree: 86%
-
+source-wordcount: '1000'
+ht-degree: 89%
 ---
-
 # リッチテキストエディターの使用 {#using-the-rich-text-editor}
 
-リッチテキストエディター（RTE）は、Marketo 全体で表示され、コンテンツを追加または編集する際に使用できます。 ランディングページ、プログラム、メール、フォーム、スニペットにバージョンが表示されます。 「**[!UICONTROL ドラフトを編集]**」をクリックするだけで使用できます。
+リッチテキストエディター（RTE）は Marketo 全体で使用されており、内容を追加または編集したいときにいつでも利用できます。 ランディングページ、プログラム、メール、フォーム、スニペットにバージョンが表示されます。 「**[!UICONTROL ドラフトを編集]**」をクリックするだけで使用できます。
 
 ## エディター設定 {#editor-settings}
 
@@ -91,11 +96,11 @@ RTE に含まれる機能を次に示します。
 | ![--](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL 太字] | **より濃く、より太い**。 |
 | ![--](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL 斜体] | *斜め（強調または引用）* |
 | ![--](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL 下線] | テキストの下に行を配置します。 |
-| ![--](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL 配置] | このドロップダウンを使用して、テキストと画像をレイアウトします。 中央揃え、左または右揃えを選択するか、エッジをエッジに広げて位置合わせを完全におこないます。 |
+| ![--](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL 配置] | このドロップダウンを使用して、テキストと画像をレイアウトします。 中央揃え、左揃えまたは右揃えを選択するか、両端揃えでテキストを端から端まで配置します。 |
 | ![--](assets/image2015-7-9-10-3a32-3a47.png) | リスト | ドロップダウンから箇条書きまたは数字を選択します。 箇条書き記号は、リストとステップ付きの番号に適しています。 |
 | ![--](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL インデント] | インデントを増減します。 段落や目立たせる任意のテキストに使用します。 |
-| ![--](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL リンクを挿入／編集] | Web サイトやその他のコンテンツへのリンクを配置し、簡単に変更できます。 |
-| ![--](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL 画像を挿入／編集] | 絵は千語の価値があります。 1 つ追加しましょう。 カメラアイコンをクリックして、Design Studio を参照します。 画像を並べてドロップできます。 |
+| ![--](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL リンクを挿入／編集] | Web サイトやその他のコンテンツへのリンクを挿入し、簡単に変更できます。 |
+| ![--](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL 画像を挿入／編集] | 百聞は一見にしかずです。 1 つ追加しましょう。 カメラアイコンをクリックして、Design Studio を参照します。 画像を並べて配置できます。 |
 | ![--](assets/image2015-7-9-10-3a40-3a36.png) | [!UICONTROL トークン挿入] | メールのパーソナライズ機能とデータのトラッキングに最適な強力なツールです。 必ずデフォルト値を入力してください。 |
 | ![--](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL 元に戻す] | エラー！ 1 つ前のステップに戻って、もう一度試してみましょう。 |
 | ![--](assets/image2015-7-9-10-3a42-3a13.png) | [!UICONTROL やり直し] | 本当に大丈夫なら、元に戻りましょう。 |
@@ -109,7 +114,7 @@ RTE に含まれる機能を次に示します。
 | ![--](assets/image2015-7-9-10-3a50-3a11.png) | [!UICONTROL 特殊文字] | ユーロの話をするにしても、 数学にしても、 選択肢は 243 あります。 |
 | ![--](assets/image2015-7-9-10-3a52-3a26.png) | [!UICONTROL 検索と置換] | 各インスタンスを自分で探すよりもはるかに速く検索して変更できます。 |
 | ![--](assets/image2015-7-9-10-3a53-3a37.png) | [!UICONTROL 書式をクリア] | 標準に戻します。 |
-| ![--](assets/image2015-7-9-10-3a55-3a2.png) | [!UICONTROL キャンセル] | ボタンを押して「やめとく」と言います。 |
+| ![--](assets/image2015-7-9-10-3a55-3a2.png) | [!UICONTROL キャンセル] | ボタンを押すと「やめとく」とできます。 |
 | ![--](assets/image2015-7-9-10-3a56-3a2.png) | [!UICONTROL 保存] | ボタンを押して「これでいい」と言います。 |
 
 >[!TIP]

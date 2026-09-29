@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/-TT0DVds0ztGMA5tCHko6foGA3A3kotXi5qKmspp-Fs
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 325
+source-wordcount: '325'
 ht-degree: 86%
-
 ---
-
 # アクティビティ同期のカスタマイズ {#customize-activities-sync}
 
 Marketo セールスインサイトを使用しない場合、Marketo Engage は特定のイベントに対して Salesforce のアクティビティ履歴レコードを作成できます。 有効にする方法は、以下のとおりです。
@@ -22,7 +21,7 @@ Marketo セールスインサイトを使用しない場合、Marketo Engage は
 >
 >Salesforce／Marketo Engage の同期では、ユーザが Salesforce にプッシュされる前に発生したアクティビティは Salesforce にプッシュされません。
 
-1. 「**[!UICONTROL 管理者]**」に移動します。
+1. 「**[!UICONTROL Admin]**」に移動します。
 
    ![](assets/customize-activities-sync-1.png)
 
@@ -51,7 +50,7 @@ Marketo セールスインサイトを使用しない場合、Marketo Engage は
  </thead>
  <tbody>
   <tr>
-   <td>[!UICONTROL フォームに入力済み]</td>
+   <td>[!UICONTROL フォームに入力]</td>
    <td>任意の Marketo フォームに入力しました。</td>
   </tr>
   <tr>
@@ -71,20 +70,20 @@ Marketo セールスインサイトを使用しない場合、Marketo Engage は
    <td>メールを開きました（画像ブロックなし）</td>
   </tr>
   <tr>
-   <td>[!UICONTROL メール内リンクをクリック済み]</td>
+   <td>[!UICONTROL メール内のリンクをクリック]</td>
    <td>Marketo から送信されたメール内のリンクをクリックしました。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL リストから削除済み]</td>
+   <td>[!UICONTROL リストから削除]</td>
    <td>フローステップ：静的リストから削除されました。</td>
   </tr>
   <tr>
    <td>[!UICONTROL フローから削除]</td>
-   <td>フローステップ：フローから削除されました。</td>
+   <td>フローステップ：フローから削除</td>
   </tr>
   <tr>
    <td>[!UICONTROL セールスメール送信済み]</td>
-   <td>Marketo セールスインサイト経由でメールを送信されました。</td>
+   <td>Marketo セールスインサイト経由でメールが送信されました。</td>
   </tr>
   <tr>
    <td>[!UICONTROL セールスメール開封済み]</td>
@@ -103,7 +102,7 @@ Marketo セールスインサイトを使用しない場合、Marketo Engage は
 
 >[!NOTE]
 >
->「セールスメール受信済み」は、配達済みとは&#x200B;_違います_。 セールスインサイト経由で送信されたメールの配信ステータスはキャプチャされません。
+>「セールスメール受信済み」は、配達済みとは&#x200B;_違います_。 Marketo セールスインサイト経由で送信されたメールの配信ステータスは取得されません。
 
 >[!TIP]
 >
