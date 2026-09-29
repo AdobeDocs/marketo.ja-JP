@@ -56,13 +56,13 @@ Adobe Dynamic Chatの生成AIを利用すれば、営業担当者の生産性を
 
 ## 回答ライブラリ {#response-library}
 
-[ カスタマイズされた質問と回答のコレクション ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)を作成し、すべて事前に承認しておくことで、生成AI チャットキャンペーンで使用できます。
+[&#x200B; カスタマイズされた質問と回答のコレクション &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)を作成し、すべて事前に承認しておくことで、生成AI チャットキャンペーンで使用できます。
 
 ![](assets/generative-ai-overview-6.png)
 
 ## アクティビティログ {#activity-log}
 
-[すべてのタスク ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)とその付随する詳細（名前、所有者、種類、編集したユーザーと日時など）のリストを表示します。
+[すべてのタスク &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)とその付随する詳細（名前、所有者、種類、編集したユーザーと日時など）のリストを表示します。
 
 ![](assets/generative-ai-overview-7.png)
 
@@ -80,7 +80,7 @@ Discussed Topicsは、スマートリストのトリガーやフィルターで�
 
 >[!IMPORTANT]
 >
->生成AIを使用する場合、生成AIを組み込んだAdobe Experience Cloud機能が安全かつ責任ある方法で使用されるようにするには、[Adobe Experience Cloud生成AI ユーザーガイドライン ](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)に準拠する必要があります。
+>生成AIを使用する場合、生成AIを組み込んだAdobe Experience Cloud機能が安全かつ責任ある方法で使用されるようにするには、[Adobe Experience Cloud生成AI ユーザーガイドライン &#x200B;](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)に準拠する必要があります。
 
 ## よくある質問 {#faq}
 

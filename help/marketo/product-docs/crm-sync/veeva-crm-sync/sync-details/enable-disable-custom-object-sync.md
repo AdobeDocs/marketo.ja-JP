@@ -78,7 +78,7 @@ ht-degree: 82%
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-このカスタムオブジェクトのデータを[!UICONTROL  スマートキャンペーン ]および[!UICONTROL  スマートリスト ]で使用できるようになりました。
+このカスタムオブジェクトのデータを[!UICONTROL &#x200B; スマートキャンペーン &#x200B;]および[!UICONTROL &#x200B; スマートリスト &#x200B;]で使用できるようになりました。
 
 >[!MORELIKETHIS]
 >

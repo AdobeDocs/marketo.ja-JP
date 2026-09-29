@@ -91,4 +91,4 @@ ht-degree: 63%
 
 1. 手順 3 の [!DNL BrightTALK] コネクタの設定画面に戻り、手順 12 および 14 で保存した資格情報を入力します。
 
-資格情報が認証されると、[!DNL BrightTALK]がMarketoに正式に接続されました。 次の手順では、同期するデータフィールドを決定します。 それについてサポートが必要な場合は、[BrightTALK サポート ](https://www.brighttalk.com/){target="_blank"}にお問い合わせください。
+資格情報が認証されると、[!DNL BrightTALK]がMarketoに正式に接続されました。 次の手順では、同期するデータフィールドを決定します。 それについてサポートが必要な場合は、[BrightTALK サポート &#x200B;](https://www.brighttalk.com/){target="_blank"}にお問い合わせください。
