@@ -296,4 +296,4 @@ ht-degree: 6%
 
 >[!MORELIKETHIS]
 >
->[指標とディメンション ](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
+>[指標とディメンション &#x200B;](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
