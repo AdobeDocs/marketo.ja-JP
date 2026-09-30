@@ -12,7 +12,7 @@ topic_v2:
     internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 86%
@@ -149,7 +149,7 @@ ht-degree: 86%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-   不要なフィールドを見つけ、[!UICONTROL 読み取りアクセス]と[!UICONTROL 編集アクセス]が&#x200B;**オフ**&#x200B;になっていることを確認します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
+1. 不要なフィールドを見つけ、[!UICONTROL 読み取りアクセス]と[!UICONTROL 編集アクセス]が&#x200B;**オフ**&#x200B;になっていることを確認します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
