@@ -13,7 +13,7 @@ feature_v2:
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
     internal-label: Smart Lists
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 82%
@@ -48,7 +48,7 @@ ht-degree: 82%
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-   同期するオブジェクトを選択し、「**[!UICONTROL 同期を有効にする]**」をクリックします。
+1. 同期するオブジェクトを選択し、「**[!UICONTROL 同期を有効にする]**」をクリックします。
 
    ![](assets/enable-disable-custom-object-sync-5.png)
 
@@ -78,7 +78,7 @@ ht-degree: 82%
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-このカスタムオブジェクトのデータを[!UICONTROL &#x200B; スマートキャンペーン &#x200B;]および[!UICONTROL &#x200B; スマートリスト &#x200B;]で使用できるようになりました。
+このカスタムオブジェクトのデータを[!UICONTROL  スマートキャンペーン ]および[!UICONTROL  スマートリスト ]で使用できるようになりました。
 
 >[!MORELIKETHIS]
 >

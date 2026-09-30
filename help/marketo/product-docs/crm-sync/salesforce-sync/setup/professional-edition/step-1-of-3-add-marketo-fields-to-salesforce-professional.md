@@ -8,7 +8,7 @@ TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 92%
@@ -98,15 +98,15 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
    </tbody>
    </table>
 
-   >[!NOTE]
-   >
-   >[!DNL Salesforce] では、フィールド名を使用して API 名を作成するときに、フィールド名に __c を追加します。
+>[!NOTE]
+>
+>[!DNL Salesforce] では、フィールド名を使用して API 名を作成するときに、フィールド名に __c を追加します。
 
-   ![](assets/image2016-5-26-14-3a55-3a33.png)
+![](assets/image2016-5-26-14-3a55-3a33.png)
 
-   >[!NOTE]
-   >
-   >テキストフィールドと数値フィールドには長さが必要ですが、日付/時刻フィールドには必要ありません。 説明はオプションです。
+>[!NOTE]
+>
+>テキストフィールドと数値フィールドには長さが必要ですが、日付/時刻フィールドには必要ありません。 説明はオプションです。
 
 1. 「**[!UICONTROL 次へ]**」をクリックします。
 
