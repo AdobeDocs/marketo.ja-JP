@@ -7,18 +7,18 @@ feature: Smart Lists
 TQID: https://experienceleague.adobe.com/QHBmdsH5bm0NdYi4SVhrDJBvO5ku0yaev36lX0b-Vp0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 436
+source-wordcount: '436'
 ht-degree: 76%
-
 ---
-
 # 重複した人物の検索と結合 {#find-and-merge-duplicate-people}
 
-Marketo は、新しい人物がシステムに入ると、自動的に重複排除します。 ただし、CRM が最初に重複を Marketo に送信している可能性があります。
+Marketo Engage では、新しい人物がシステムに登録されると、自動的に重複排除が行われます。 ただし、CRM が最初に重複を Marketo に送信している可能性があります。
 
 >[!CAUTION]
 >
@@ -92,4 +92,4 @@ Salesforce と統合している場合、Salesforce のリードの結合の効�
 
 ## 一括マージ {#bulk-merging}
 
-重複が多すぎて手動で結合できない場合は、アドビアカウントチーム（担当のアカウントマネージャー）に連絡して、オプションについてご相談ください。
+重複が多すぎて手動で結合できない場合は、アドビのアカウントチーム（担当のアカウントマネージャー）に連絡して、オプションについてご相談ください。

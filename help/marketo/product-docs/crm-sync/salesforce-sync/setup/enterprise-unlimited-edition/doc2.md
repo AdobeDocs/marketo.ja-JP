@@ -2,15 +2,13 @@
 description: Enterprise版またはUnlimited版でMarketo用のSalesforce ユーザーを作成する方法について説明します。 プロファイルを作成し、権限を設定し、MarketoとSalesforceの同期ユーザーを作成します。
 title: 手順2/3 - Marketo用Salesforce ユーザーの作成（Enterprise/Unlimited）
 hide: true
-hidefromtoc: true
+hidefromtoc: yes
 feature: Salesforce Integration
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 59%
-
 ---
-
 # 手順 2／3：Marketo 用の Salesforce ユーザーの作成（Enterprise／Unlimited） {#step-of-create-a-salesforce-user-for-marketo-enterprise-unlimited}
 
 >[!NOTE]
@@ -88,7 +86,7 @@ ht-degree: 59%
 
    >[!NOTE]
    >
-   >この手順を実行すると、Marketo に表示する必要のないフィールドが防止され、混乱が軽減され、同期が高速化されます。
+   >この手順を実行すると、Marketo に表示する必要のないフィールドが表示されないようになり、画面の煩雑さが軽減され、同期が高速化されます。
 
 1. プロファイルの詳細ページで、フィールドレベルのセキュリティセクションに移動します。 「表示」をクリックして、オブジェクトのアクセシビリティを編集します。
 
@@ -109,7 +107,7 @@ ht-degree: 59%
 
    >[!NOTE]
    >
-   >カスタムフィールドのアクセシビリティのみを編集します。
+   >カスタムフィールドへのアクセス権のみを編集します。
 
    スクリーンショット
 

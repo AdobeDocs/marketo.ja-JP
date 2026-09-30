@@ -1,44 +1,49 @@
 ---
 unique-page-id: 4720125
 description: dnl googleとrtpを統合を使用して、Marketo Engageでrtpとgoogle universal analyticsを統合する方法を説明します。 このガイドを使用して、次のステップを完了してください。
-title: RTP を Google ユニバーサルアナリティクスに連携する
+title: RTP の Google Universal Analytics への連携
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/ozCazXzX-TzsUx61u7c30v2p-Z4k1b-kQbEsw9HvgPo
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 447
-ht-degree: 94%
-
+source-wordcount: '447'
+ht-degree: 82%
 ---
-
 # RTP を [!DNL Google Universal Analytics] に統合 {#integrate-rtp-with-google-universal-analytics}
 
 ## はじめに {#intro}
 
 [!DNL Marketo Real-Time Personalization]（RTP）の企業情報データやパーソナライゼーションデータと [!DNL Google Universal Analytics]（GUA）を併用すると、オンラインマーケティングの取り組みについて、測定と分析の精度が向上します。
 
-ここでは、[!DNL Google Universal Analytics]（GUA）アカウントを設定して [!DNL Marketo Real-Time Personalization]（RTP）プラットフォームと統合する方法について説明します。 RTP データを GUA アカウントに追加すると、web サイト訪問者のパフォーマンスを組織、業種、ファーモグラフィック、RTP セグメント別に確認することができます。
+ここでは、[!DNL Google Universal Analytics]（GUA）アカウントを設定して [!DNL Marketo Real-Time Personalization]（RTP）プラットフォームと統合する方法について説明します。 RTP データを GUA アカウントに追加すると、web サイトを訪問している組織、業種、ファーモグラフィック、RTP セグメントのパフォーマンスを表示して確認できるようになります。
 
 **[!DNL Google Universal Analytics]**
 
-[!DNL Google Universal Analytics] と RTP のデータを見ると、B2B のユーザがオンラインコンテンツをどう使っているかがよくわかり、パーソナライゼーションキャンペーンを測定して有効に活用できます。 [詳しくは、 [!DNL Google Universal Analytics] を参照してください。](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1)。
+RTP データを含む[!DNL Google Universal Analytics]は、B2B ユーザーがオンライン コンテンツとどのように関わっているかをより深く理解し、パーソナライゼーション キャンペーンの測定と成果の向上に役立ちます。 [詳しくは、 [!DNL Google Universal Analytics] を参照してください。](https://support.google.com/analytics/answer/2790010/?hl=en&authuser=1)。
 
 >[!NOTE]
 >
 >**Google タグマネージャーユーザーのみ**
 >
->コーディングや特殊な設定は必要ありません。 次のチェックリストを確認してください。
+>コーディングや特殊な設定は必要ありません。 次のチェックリストを完了してください。
 >
 >* RTP ディメンションは [!DNL Google Universal Analytics] で作成されている
 >* [RTP のタグが、Google タグマネージャーで正しくインストールされている](https://docs.marketo.com/display/public/DOCS/Implementing+RTP+using+Google+Tag+Manager)
@@ -94,7 +99,7 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->**カスタムディメンション名**&#x200B;は、上の表のとおりに正確に指定してください（さもないと、GUA でカスタム RTP のダッシュボードとレポートが正しく表示されません）。
+>**カスタム Dimension名**&#x200B;は、上記の表で定義されたとおりに正確に指定する必要があります（そうしないと、GUAのカスタム RTP ダッシュボードとレポートが正しく表示されません）
 
 1. 「**[!UICONTROL 名前]**」に名前を入力します。 「スコープ」で「**[!UICONTROL セッション]**」を選択します。 「**[!UICONTROL 作成]**」をクリックします。
 

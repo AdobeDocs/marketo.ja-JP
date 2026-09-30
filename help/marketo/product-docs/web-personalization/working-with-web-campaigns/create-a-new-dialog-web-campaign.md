@@ -7,27 +7,29 @@ feature: Web Personalization
 TQID: https://experienceleague.adobe.com/mZDrkTIuAbmAVulUumQZpjgWSzV837oipro2vaKtGLE
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 768
-ht-degree: 95%
-
+source-wordcount: '768'
+ht-degree: 91%
 ---
-
 # ダイアログ web キャンペーンの新規作成 {#create-a-new-dialog-web-campaign}
 
-## ダイアログ web キャンペーンの新規作成 {#create-a-dialog-web-campaign}
+## ダイアログ web キャンペーンの作成 {#create-a-dialog-web-campaign}
 
 Web キャンペーンを作成して、Web コンテンツをリアルタイムでパーソナライズし、適切なメッセージを適切なタイミングで適切なユーザーに提供します。
 
 Web キャンペーンとは、特定のセグメントに関連付けられたカスタマイズされた反応です。 反応は、ウェブサイト上のダイアログボックス、[ゾーン内置換](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、[ウィジェット機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)、メールアラートのいずれかにすることができます。
 
-1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
+1. 「**[!UICONTROL Web キャンペーン]**」に移動します。
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 
@@ -56,9 +58,9 @@ Web キャンペーンとは、特定のセグメントに関連付けられた�
    <td colspan="1" rowspan="1">
     <ul>
      <li>モダントリム - 半透明の黒いトリムと丸い角を持つ、スタイリッシュで独特なダイアログ</li>
-     <li>モダントリム II - 明るい影のトリムと丸い角と閉じるボタンを備えた、スタイリッシュで独特なダイアログ</li>
+     <li>モダントリミング II - 明るい影のトリム、丸い角、クローズボタンを備えた、スタイリッシュで独特なダイアログ</li>
      <li>透明 - 完全に透明なダイアログボックス。コールトゥアクション用の透明（png）画像に最適です。 </li>
-     <li>基本 - 基本的なダイアログボックスのニーズを満たす太いタイトルヘッダースペースを持つ、シンプルなスタイルダイアログ</li>
+     <li>基本 - タイトルヘッダースペースが広めに取られたシンプルなスタイルのダイアログで、基本的なダイアログボックスのニーズを満たします。</li>
     </ul></td>
   </tr>
   <tr>
@@ -71,7 +73,7 @@ Web キャンペーンとは、特定のセグメントに関連付けられた�
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>座標</strong></p><p><br></p></td>
-   <td colspan="1" rowspan="1">ダイアログボックスのその他の位置設定オプションを使用する場合は、「位置の座標」チェックボックスを選択し、ダイアログを表示する正確な画面座標（水平、垂直）を入力します。</td>
+   <td colspan="1" rowspan="1">ダイアログボックスのその他の配置オプションについては、「位置座標」チェックボックスを選択し、ダイアログを表示する正確な画面座標（水平、垂直）を入力します。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>ボタンの外観</strong></td>
@@ -79,7 +81,7 @@ Web キャンペーンとは、特定のセグメントに関連付けられた�
   </tr>
   <tr>
    <td colspan="1"><strong>固定</strong></td>
-   <td colspan="1">共通チェックボックスを選択すると、ダイアログボックスはユーザーが閉じるまで一定の位置にとどまり、訪問者のセッションを通じてすべてのページに表示されます。</td>
+   <td colspan="1">固定チェックボックスを選択すると、ダイアログボックスはユーザーが閉じるまで時間制限なく同じ位置にとどまり、訪問者のセッションを通じてすべてのページに表示されます。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>モーダル</strong></td>
@@ -125,7 +127,7 @@ Web キャンペーンとは、特定のセグメントに関連付けられた�
    <td colspan="1"><strong>オンサイトのプレビュー</strong></td>
    <td colspan="1">キャンペーンを開始する前に、キャンペーンをプレビューします。<br>
     <ul>
-     <li>URL - キャンペーンを実行するサンプルの URL を入力し、キャンペーンがどのように見えるか、サンプルをプレビューします。</li>
+     <li>URL - キャンペーンを実行するサンプルの URL を入力すると、キャンペーンが本番環境でどのように表示されるかをプレビューできます。</li>
      <li>デバイス - デスクトップ、モバイル（縦置き）、モバイル（横置き）、タブレット（縦置き）、タブレット（横置き）の各デバイスでキャンペーンがどのように表示されるかをプレビューします。<br></li>
      <li>プレビュー -「<strong>プレビュー</strong>」をクリックすると、サンプル URL の新しいウィンドウが開き、キャンペーンの応答を確認できます。 </li>
      <li>共有 -「共有」ボタンを使用すると、プロキシキャンペーンを表示するリンクが記載されたメールを同僚に送信できます。</li>
@@ -146,7 +148,7 @@ Web キャンペーンとは、特定のセグメントに関連付けられた�
 
 >[!NOTE]
 >
->目的の web キャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
+>目的の Web キャンペーンを見つけやすくするには、[フィルター機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md)を使用します。
 
 ## Web キャンペーンをプレビューする {#preview-a-web-campaign}
 

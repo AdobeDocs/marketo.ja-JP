@@ -7,20 +7,20 @@ feature: Smart Campaigns
 TQID: https://experienceleague.adobe.com/R94BEUOHsfCoIwAvl7QKDRvBw5mU3szqH6n27qd3yk0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 257
+source-wordcount: '257'
 ht-degree: 70%
-
 ---
-
 # スマートキャンペーンのチェックリスト {#smart-campaign-checklist}
 
 スマートキャンペーンをスムーズに実行し、可能な限りエラーを防ぐには、以下の手順に従います。
 
-## スマートリストのエラーの除去 {#get-rid-of-smart-list-errors}
+## スマートリストのエラーを取り除く {#get-rid-of-smart-list-errors}
 
 スマートキャンペーンで、「**[!UICONTROL スマートリスト]**」をクリックします。 赤い波線が下に表示されている部分はエラー箇所なので、すべて修正します。
 
@@ -36,7 +36,7 @@ ht-degree: 70%
 >
 >**[!UICONTROL スマートリストのメンバー]**&#x200B;を使用した場合、他のリストにエラーが発生することがあるので、 この点も問題がないか確認します。
 
-## フローのエラーの除去 {#get-rid-of-flow-errors}
+## フローのエラーを取り除く {#get-rid-of-flow-errors}
 
 スマートキャンペーンで、「**[!UICONTROL 結果]**」をクリックします。 赤い波線が表示されている部分はエラー箇所なので、すべて修正します。
 
@@ -44,15 +44,15 @@ ht-degree: 70%
 
 >[!TIP]
 >
->赤い波線の箇所にマウスオーバーすると、エラーの詳細が表示されます。
+>赤い波線の箇所にポインタを合わせると、エラーの詳細が表示されます。
 
-## 「スケジュール」タブのレビュー {#review-the-schedule-tab}
+## スケジュールタブを確認 {#review-the-schedule-tab}
 
 「**[!UICONTROL スケジュール]**」タブで、**[!UICONTROL スマートリストステータス]**&#x200B;で、修正が必要なスマートキャンペーンのエラーを確認します。
 
 ![](assets/smart-campaign-checklist-3.png)
 
-## リード制限数の確認 {#check-person-restrictions-limit}
+## 人物の制限数の確認 {#check-person-restrictions-limit}
 
 「**[!UICONTROL スケジュール]**」タブで、適格なユーザーの数がユーザー制限の制限を超えていないことを確認します。
 
@@ -68,4 +68,4 @@ ht-degree: 70%
 >
 >以上を行ってもスマートキャンペーンがうまく機能しない場合、何が原因でどこを修正すればいいのか、[通知の内容によく目を通して詳細を確認](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md)してください。
 
-スマートキャンペーンを実行するときは、常にこのチェックリストで内容を点検してください。
+スマートキャンペーンを実行する前に、このチェックリストを手元に用意しておきましょう。

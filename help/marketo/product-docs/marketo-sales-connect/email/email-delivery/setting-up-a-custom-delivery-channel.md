@@ -7,13 +7,12 @@ feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/3AyKPoZ-rxPE-6cpQQ4flbL23aILwkVpmnMQAUjQLmI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 404
+source-wordcount: '404'
 ht-degree: 89%
-
 ---
-
 # カスタム配信チャネルの設定 {#setting-up-a-custom-delivery-channel}
 
 [!DNL Marketo Sales Connect] を使用すると、カスタム SMTP サーバーを統合してメールを配信できます。 これは、Gmail や [!DNL Exchange] の配信チャネルから一括メールを送信しない場合に最適です。
@@ -78,7 +77,7 @@ ht-degree: 89%
 
    ![](assets/setting-up-a-custom-delivery-channel-9.png)
 
-1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL 一般]**」をクリックします。
+1. 「[!UICONTROL 管理設定]」で、「**[!UICONTROL 一般]**」をクリックします。
 
    ![](assets/setting-up-a-custom-delivery-channel-10.png)
 

@@ -6,17 +6,18 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 636
-ht-degree: 89%
-
+source-wordcount: '636'
+ht-degree: 86%
 ---
-
-# 手順 2／3：Marketo Engage 用の [!DNL Veeva] CRM ユーザの作成 {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
+# 手順 2／3：Marketo Engage 用の [!DNL Veeva] CRM ユーザーの作成 {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
 
 >[!NOTE]
 >
@@ -26,11 +27,11 @@ ht-degree: 89%
 >
 >[手順 1／3：「Marketo」フィールドの  [!DNL Salesforce]  への追加（Professional）](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-1-of-3-add-marketo-fields-to-veeva-crm.md){target="_blank"}
 
-この記事では、[!DNL Veeva] CRM ページレイアウトを使用してフィールド権限をカスタマイズし、[!DNL Marketo-Veeva] CRM 同期ユーザを作成します。
+この記事では、[!DNL Veeva] CRM ページレイアウトを使用してフィールド権限をカスタマイズし、[!DNL Marketo-Veeva] CRM 同期ユーザーを作成します。
 
 ## ページレイアウトの設定 {#set-page-layouts}
 
-これらの手順に従うと、Marketo 同期ユーザはカスタムフィールドをアップデートできます。
+これらの手順に従うと、Marketo 同期ユーザーはカスタムフィールドを更新できるようになります。
 
 1. ナビゲーション検索バーで、Enter キーを押さずに&#x200B;**[!UICONTROL アカウント]**（個人取引先）ページレイアウトをクリックし、「[!UICONTROL 取引先責任者]」で「**[!UICONTROL ページレイアウト]**」をクリックします。
 
@@ -86,7 +87,7 @@ ht-degree: 89%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-7.png)
 
-1. ナビゲーション検索バーに「プロファイル」と入力し、**[!UICONTROL プロファイル]**&#x200B;リンクをクリックします。
+1. ナビゲーション検索バーに「プロファイル」と入力し、**[!UICONTROL プロファイル]** リンクをクリックします。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-8.png)
 
@@ -94,7 +95,7 @@ ht-degree: 89%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-9.png)
 
-1. 「**[!UICONTROL 標準ユーザ]**」を選択して、プロファイルに「[!UICONTROL Marketo-Salesforce 同期]」という名前を付け、「**[!UICONTROL 保存]**」をクリックします。
+1. **[!UICONTROL 標準ユーザー]**&#x200B;を選択し、プロファイル「[!UICONTROL Marketo-Salesforce Sync]」に名前を付けて、**[!UICONTROL 保存]**&#x200B;をクリックします。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-10.png)
 
@@ -148,13 +149,13 @@ ht-degree: 89%
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-不要なフィールドを見つけ、[!UICONTROL 読み取りアクセス]と[!UICONTROL 編集アクセス]が&#x200B;**オフ**&#x200B;になっていることを確認します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
+   不要なフィールドを見つけ、[!UICONTROL 読み取りアクセス]と[!UICONTROL 編集アクセス]が&#x200B;**オフ**&#x200B;になっていることを確認します。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
-![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
+   ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
->[!NOTE]
->
->カスタムフィールドのアクセシビリティのみを編集します。
+   >[!NOTE]
+   >
+   >カスタムフィールドのアクセシビリティのみを編集します。
 
 1. 不要なフィールドをすべて無効にした後で、次のオブジェクトフィールドの[!UICONTROL 読み取りアクセス]と[!UICONTROL 編集アクセス]のチェックをオンにします。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
@@ -179,15 +180,15 @@ ht-degree: 89%
  </tbody>
 </table>
 
-## 同期ユーザを作成 {#create-sync-user}
+## 同期ユーザーを作成 {#create-sync-user}
 
-Marketo では、[!DNL Veeva] CRM にアクセスするための資格情報が必要です。 これは、次の手順で作成した専用ユーザで行うのが最適です。
+Marketo では、[!DNL Veeva] CRM にアクセスするための資格情報が必要です。 これは、次の手順で作成した専用ユーザーで行うのが最適です。
 
 >[!NOTE]
 >
->組織に追加の [!DNL Veeva] CRM ライセンスがない場合は、システム管理者プロファイルを持つ既存のマーケティングユーザを使用できます。
+>組織に追加の [!DNL Veeva] CRM ライセンスがない場合は、システム管理者プロファイルを持つ既存のマーケティングユーザーを使用できます。
 
-1. ナビゲーション検索バーに「ユーザ」と入力し、「[!UICONTROL ユーザを管理]」で「**[!UICONTROL ユーザ]**」をクリックします。
+1. ナビゲーション検索バーに「ユーザー」と入力し、「**[!UICONTROL ユーザーを管理]**」の下の「[!UICONTROL ユーザー]」をクリックします。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-20.png)
 
@@ -195,7 +196,7 @@ Marketo では、[!DNL Veeva] CRM にアクセスするための資格情報が�
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-21.png)
 
-1. 必須フィールドに入力し、「**[!UICONTROL ユーザライセンス]**：**[!UICONTROL Salesforce]**」を選択し、「**[!UICONTROL プロファイル]**：**[!UICONTROL Marketo 同期]**」ユーザを設定して、「**[!UICONTROL 保存]**」をクリックします。
+1. 必須フィールドに入力し、「**[!UICONTROL ユーザーライセンス]**：**[!UICONTROL Salesforce]**」を選択し、「**[!UICONTROL プロファイル]**：**[!UICONTROL Marketo 同期]**」ユーザーを設定して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-22.png)
 

@@ -7,13 +7,12 @@ feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/wL4DvH6WwopQbqXlYcvSQJLPYyJbnmDENqvb7qCJo8w
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 340
+source-wordcount: '340'
 ht-degree: 81%
-
 ---
-
 # マーケティングキャンペーンへの追加 {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
@@ -52,11 +51,11 @@ PICC
 
 1. ワークスペースドロップダウンをクリックし、グループを追加するキャンペーンが含まれているワークスペースを選択します。
 
-PICC
+   PICC
 
->[!NOTE]
->
->必要なワークスペースが表示されない場合は、管理者が Marketo [!UICONTROL チームアクセス]ページでワークスペースをプロビジョニングしていることを確認してください。
+   >[!NOTE]
+   >
+   >必要なワークスペースが表示されない場合は、管理者が Marketo [!UICONTROL チームアクセス]ページでワークスペースをプロビジョニングしていることを確認してください。
 
 1. 目的のキャンペーンを選択し、「**[!UICONTROL 次へ]**」をクリックします。
 
@@ -86,19 +85,19 @@ PICC
 
 1. 「**[!UICONTROL マーケティングキャンペーン]**」を選択します。
 
-PICC
+   PICC
 
->[!NOTE]
->
->[!DNL Sales Connect] から Marketo キャンペーンに人物を追加するには、[!DNL Sales Connect] に人物の Marketo リード ID が必要です。
+   >[!NOTE]
+   >
+   >[!DNL Sales Connect] から Marketo キャンペーンに人物を追加するには、[!DNL Sales Connect] にその人物の Marketo リード ID が必要です。
 
 1. ワークスペースドロップダウンをクリックし、グループを追加するキャンペーンが含まれているワークスペースを選択します。
 
-PICC
+   PICC
 
->[!NOTE]
->
->必要なワークスペースが表示されない場合は、管理者が Marketo チームアクセスページでワークスペースをプロビジョニングしていることを確認してください。
+   >[!NOTE]
+   >
+   >必要なワークスペースが表示されない場合は、管理者が Marketo チームアクセスページでワークスペースをプロビジョニングしていることを確認してください。
 
 1. 目的のキャンペーンを選択し、「**[!UICONTROL 次へ]**」をクリックします。
 

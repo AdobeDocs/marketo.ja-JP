@@ -7,27 +7,37 @@ feature: Programs
 TQID: https://experienceleague.adobe.com/uQNr3WjiGA4EIjRwxQ4nZqXG6CxuMRQj2Hz5aGX6hb8
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 573
+source-wordcount: '573'
 ht-degree: 64%
-
 ---
-
 # プログラムのインポート {#import-a-program}
 
 プログラムは、あるMarketo Engage サブスクリプションから別のサブスクリプションに読み込むことができます。 例えば、サンドボックスでプログラムを作成し、ライブサブスクリプションにインポートできます。 また、[Marketo プログラムライブラリ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}から事前定義済みのプログラムを読み込むこともできます。
@@ -51,7 +61,7 @@ ht-degree: 64%
 
    >[!NOTE]
    >
-   >* プログラムのインポートは、「プログラムのインポート」権限が有効になっているロールを持つユーザのみが使用できます。 詳しくは、[ユーザのロールと権限の管理](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}を参照してください。
+   >* プログラムの読み込みは、「プログラムの読み込み」権限が有効になっているロールを持つユーザのみが使用できます。 詳しくは、[ユーザーのロールと権限の管理](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}を参照してください。
    >
    >* サンドボックスアカウントをライブサブスクリプションに接続するには、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にご連絡ください。
 
@@ -73,7 +83,7 @@ ht-degree: 64%
 
    >[!NOTE]
    >
-   >互換性のあるサービスプロバイダーが複数ある宛先インスタンスに、カスタムフローステップまたはフローステップから派生したスマートリストルールを使用するプログラムをインポートすると、宛先インスタンスの正しいサービスプロバイダーに割り当てるよう求められます。
+   >互換性のあるサービスプロバイダーが複数ある宛先インスタンスに、カスタムフローステップやフローステップサービスから派生したスマートリストルールを使用するプログラムを読み込むと、読み込みを実行するユーザーに対して、宛先インスタンス内の正しいサービスプロバイダーにステップまたはルールを割り当てるよう求めるメッセージが表示されます。
 
 1. 詳細をプレビューし、プログラムを「**[!UICONTROL インポート]**」します。
 
@@ -89,7 +99,7 @@ ht-degree: 64%
 
 プログラムは、メールテンプレート、ランディングページテンプレート、画像、フォーム、トークン、プログラムタグなどの外部アセットを使用します。 ランディングページテンプレートとプログラムタグの処理方法を設定でき、残りはMarketoが自動的に管理します。
 
-**メール／ランディングページテンプレート：**&#x200B;メール／ランディングページテンプレートがデザインスタジオに読み込まれます。 同じ名前のテンプレートが存在する場合、競合ルールを使用して動作を設定できます。 同じ名前が存在する場合は、デフォルトのルールを使用して、テンプレートに数字が追加されます。 例えば、「標準テンプレート」という名前のテンプレートが既に存在する場合、新しいテンプレートの名前は「標準テンプレート - 1」になります。
+**メール／ランディングページテンプレート：**&#x200B;メール／ランディングページテンプレートがデザインスタジオに読み込まれます。 同じ名前のテンプレートが存在する場合、競合ルールを使用して動作を設定できます。 デフォルトのルールを使用すると、同じ名前のテンプレートが存在する場合、そのテンプレート名の末尾に数字が追加されます。 例えば、「標準テンプレート」という名前のテンプレートが既に存在する場合、新しいテンプレートの名前は「標準テンプレート - 1」になります。
 
 **ランディングページ/Forms:** Design Studioに同じ名前のフォームまたはランディングページが存在する場合、それらのフォームは引き続き読み込まれますが、名前に番号が追加されます（例：ランディングページ - 1）。
 

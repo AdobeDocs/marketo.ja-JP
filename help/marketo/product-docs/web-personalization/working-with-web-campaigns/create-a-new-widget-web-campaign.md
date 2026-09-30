@@ -7,25 +7,27 @@ feature: Web Personalization
 TQID: https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 655
-ht-degree: 83%
-
+source-wordcount: '655'
+ht-degree: 80%
 ---
-
 # 新しいウィジェット Web キャンペーンを作成する {#create-a-new-widget-web-campaign}
 
-Web キャンペーンとは、特定のセグメントに関連付けてカスタマイズされたリアクションで、ウェブサイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、[ゾーン内置換](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、ウィジェット機能、メールアラートのいずれかです。 ウィジェット Web キャンペーンは、Web ページの縦枠に表示されるテキストまたはバナーで、拡張と縮小は可能ですが、訪問している間ずっと ウェブサイトのページ上に固定されたままです。
+Web キャンペーンとは、特定のセグメントに関連付けてカスタマイズされたリアクションで、ウェブサイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、[ゾーン内置換](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、ウィジェット機能、メールアラートのいずれかです。 ウィジェット web キャンペーンは、訪問中ずっと web ページ上に固定されたまま、ページの縦方向の端に表示されるテキストまたはバナーで、展開および折りたたみが可能です。
 
 ## ウィジェット Web キャンペーンを作成する {#create-a-widget-web-campaign}
 
-1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
+1. 「**[!UICONTROL Web キャンペーン]**」に移動します
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
@@ -37,7 +39,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
    ![](assets/3.png)
 
-1. 複数のオプションからウィジェットをカスタマイズします。
+1. 複数のオプションを使用してウィジェットをカスタマイズします。
 
    ![](assets/4.png)
 
@@ -79,10 +81,10 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
   </tr>
   <tr>
    <td colspan="1"><strong>固定</strong></td>
-   <td colspan="1">これを選択すると、訪問者のセッションを通じて、すべての Web ページにウィジェットが表示されます。</td>
+   <td colspan="1">これを選択すると、訪問者のセッション全体を通して、すべてのweb ページにウィジェットが表示されます。</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>キャンペーンディスプレイ上のウィジェットを最小化</strong></td>
+   <td colspan="1"><strong>キャンペーン表示時にウィジェットを最小化します</strong></td>
    <td colspan="1">ウィジェットを挿入しますが、最小化したままにします。最大化するには、ウィジェットをクリックする必要があります。</td>
   </tr>
   <tr>
@@ -131,7 +133,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
    ![](assets/widget-campaign-delete-hand.png)
 
-1. Web キャンペーンを削除するかどうかを確認する確認メッセージが表示されます。
+1. Web キャンペーンを削除するかどうかを確認するメッセージが表示されます。&#x200B;
 
 >[!MORELIKETHIS]
 >

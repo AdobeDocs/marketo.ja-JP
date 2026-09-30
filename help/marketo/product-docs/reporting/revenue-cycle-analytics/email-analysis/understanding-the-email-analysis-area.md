@@ -8,9 +8,7 @@ source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 93%
-
 ---
-
 # メール分析領域について {#understanding-the-email-analysis-area}
 
 メール分析領域では、メール指標に焦点を当てます。 この記事では、その中で使用可能なレポートをすべて紹介します。

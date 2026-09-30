@@ -7,18 +7,20 @@ feature: Reporting
 TQID: https://experienceleague.adobe.com/MAk0qz-cUIw2v620gv-QyU6tZbdmNmwNC54Bu5vmJAA
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 446
+source-wordcount: '446'
 ht-degree: 93%
-
 ---
-
 # スマートリストの購読 {#subscribe-to-a-smart-list}
 
 スマートリストを購読すると、レポートがインボックスに送信されるので、リードを追跡するのに最適です。
@@ -40,7 +42,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->Marketo インスタンスごとに（すべてのワークスペースをまたいで）、購読 100 件とユーザー 100,000 人の上限があります。 スマートリストに 100,000 件を超える名前が含まれている場合、最初の 100,000 件のみに対して購読が実行されます。
+>Marketo インスタンスごとに（すべてのワークスペースをまたいで）、購読は 100 件まで、1 つの購読あたりの人物は最大 10 万人までに制限されています。 スマートリストに 100,000 件を超える名前が含まれている場合、最初の 100,000 件のみに対して購読が実行されます。
 
 ## スマートリスト購読の作成 {#create-a-smart-list-subscription}
 
@@ -84,7 +86,7 @@ ht-degree: 93%
 
 ## メールメッセージ {#email-message}
 
-受信者には、レポートをダウンロードするオプションと Marketo インスタンス内のリストへの直接リンクを含んだメールが届きます。 ダウンロードリンクの有効期限は 4 日です。
+受信者には、レポートをダウンロードするオプションと、Marketo インスタンス内のリストへの直接リンクが含まれたメールが届きます。 ダウンロードするリンクの有効期限は 4 日で切れます。
 
 >[!NOTE]
 >

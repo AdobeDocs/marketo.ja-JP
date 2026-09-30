@@ -7,24 +7,29 @@ feature: Reporting
 TQID: https://experienceleague.adobe.com/TngySjSTBS50-VX8umv17cGE-3kuH3NFv9-JfcQbciU
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 344
+source-wordcount: '344'
 ht-degree: 91%
-
 ---
-
 # Web ページアクティビティレポート {#web-page-activity-report}
 
-このレポートでは、web サイトを訪問しているリードや、レポートのメールバージョンを購読しているリードを確認できます。
+このレポートでは、web サイトを訪問しているユーザを確認でき、レポートのメール版を購読することもできます。
 
 既知のリードと匿名のリードのどちらを表示するかを選択できますが、同じレポートで両方を選択することはできません。
 
@@ -66,7 +71,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td>初回／最終訪問（タイムゾーン）</td>
-   <td>この会社からの誰かによる最初／最後の訪問の日時。</td>
+   <td>この会社からの誰かによる最初／最後の訪問の日付と時刻です。</td>
   </tr>
   <tr>
    <td>ページ表示</td>
@@ -74,7 +79,7 @@ ht-degree: 91%
   </tr>
   <tr>
    <td>HTTP 照会元</td>
-   <td>訪問者がページにたどったリンクを含むページの URL。</td>
+   <td>訪問者があなたのページにアクセスする際にたどったリンクを含むページの URL。</td>
   </tr>
   <tr>
    <td>エントリページ</td>

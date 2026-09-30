@@ -6,16 +6,17 @@ feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/OSNakPU4zEu-ORacv80glsvfhIeC-XfwtAcvuE3Iacw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 669
+source-wordcount: '669'
 ht-degree: 88%
-
 ---
-
 # セールスインサイトアクション管理者設定ガイド {#sales-insight-actions-admin-setup-guide}
 
 >[!NOTE]
@@ -126,7 +127,7 @@ ht-degree: 88%
 
 >[!CAUTION]
 >
->データ同期を開始したら、セールスインサイトアクションインスタンスから元のユーザを&#x200B;**削除しない**&#x200B;ようにします。 これは、最初の招待が送信されたユーザーです。
+>データ同期を開始したら、セールスインサイトアクションインスタンスから元のユーザーを&#x200B;**削除しない**&#x200B;ようにします。 これは、最初の招待が送信されたユーザーです。
 
 1. Marketo で、「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -144,19 +145,19 @@ ht-degree: 88%
 
    ![](assets/msi-actions-admin-guide-13.png)
 
-Marketo と [!DNL Salesforce] に存在する人物レコードが、Marketo セールスアプリアカウントと同期されます。
+   Marketo と [!DNL Salesforce] に存在する人物レコードが、Marketo セールスアプリアカウントと同期されます。
 
->[!NOTE]
->
->セールスインサイトアクションs、Marketo、Salesforce 間の人物とアクティビティのデータ同期について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}してください。
+   >[!NOTE]
+   >
+   >セールスインサイトアクションs、Marketo、Salesforce 間の人物とアクティビティのデータ同期について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}してください。
 
-## 個々のユーザーを MSI Actions に招待する {#invite-individual-users-to-msi-actions}
+## 個人ユーザーを MSI Actions に招待する {#invite-individual-users-to-msi-actions}
 
 1. Marketo Sales アカウントで、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-14.png)
 
-1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL ユーザ管理]**」を選択します。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL ユーザー管理]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-15.png)
 
@@ -170,7 +171,7 @@ Marketo と [!DNL Salesforce] に存在する人物レコードが、Marketo セ
 
 >[!NOTE]
 >
->デフォルトでは、すべての新規メンバーが全員チームに追加されます。
+>デフォルトでは、すべての新規メンバーが Everyone チームに追加されます。
 
 確認メッセージが表示されます。
 
@@ -180,7 +181,7 @@ Marketo と [!DNL Salesforce] に存在する人物レコードが、Marketo セ
 
    ![](assets/msi-actions-admin-guide-18.png)
 
-1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL ユーザ管理]**」を選択します。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL ユーザー管理]**」を選択します。
 
    ![](assets/msi-actions-admin-guide-19.png)
 
