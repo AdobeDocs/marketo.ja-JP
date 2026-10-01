@@ -23,7 +23,7 @@ ht-degree: 53%
 ---
 # キャンペーンメールパフォーマンスレポート {#campaign-email-performance-report}
 
-[ スマートキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)でグループ化されたメールのパフォーマンス統計を確認するには、キャンペーンのメールパフォーマンスレポートを実行します。
+[&#x200B; スマートキャンペーン &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)でグループ化されたメールのパフォーマンス統計を確認するには、キャンペーンのメールパフォーマンスレポートを実行します。
 
 >[!NOTE]
 >
