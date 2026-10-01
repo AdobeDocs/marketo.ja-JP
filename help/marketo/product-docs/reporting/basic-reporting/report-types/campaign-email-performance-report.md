@@ -16,46 +16,52 @@ feature_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
-source-git-commit: a3bd8b47cc9c49d4b0c164219347d003441971c0
+source-git-commit: fd61a23992a0698425987c9c1c307c148c51041e
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 75%
+source-wordcount: '253'
+ht-degree: 53%
 ---
 # キャンペーンメールパフォーマンスレポート {#campaign-email-performance-report}
 
-[&#x200B; スマートキャンペーン &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)でグループ化されたメールのパフォーマンス統計を確認するには、キャンペーンのメールパフォーマンスレポートを実行します。
+[ スマートキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)でグループ化されたメールのパフォーマンス統計を確認するには、キャンペーンのメールパフォーマンスレポートを実行します。
 
 >[!NOTE]
 >
 >Campaign メールパフォーマンスレポートは、マーケティングアクティビティプログラムのローカルアセットとしてのみ作成できます。 分析セクションでは使用できません。
 
-1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL キャンペーンメール効果]**&#x200B;[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
+1. プログラムで、**新規**&#x200B;をクリックし、**新規ローカルアセット**&#x200B;を選択します。
 
-1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「**[!UICONTROL レポート]**」タブをクリックします。
+   ![](assets/campaign-email-performance-report-1.png)
 
-1. 次に、レポートを調べて、キャンペーンの各メールの効果を確認します。
+1. 「**レポート**」を選択します。
 
-   ![](assets/image2014-9-16-16-3a19-3a59.png)
+   ![](assets/campaign-email-performance-report-2.png)
 
-   >[!TIP]
-   >
-   >メールの名前をクリックして、メールプレビューツールで開きます。
+1. 「_タイプ_」ドロップダウンで、「**キャンペーンメールパフォーマンス**」を選択します。 レポートに名前を付けて、**作成**&#x200B;をクリックします。
 
-   キャンペーンメール効果レポートで[選択できる列](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)は次のとおりです。
+   ![](assets/campaign-email-performance-report-3.png)
 
-   | 列 | 説明 |
-   |---|---|
-   | [!UICONTROL ハードバウンス済み] | 存在しないメールアドレスなどの恒久的な状況が原因で、メールの配信が却下されました。 |
-   | [!UICONTROL ソフトバウンス済み] | サーバーがダウンしている、インボックスがいっぱいになっているなどの一時的な状況が原因で、メールが却下されました。 |
-   | [!UICONTROL 保留中] | メールは配信中です。 |
-   | [!UICONTROL クリック済みリンク] | メール内のリンクをクリックしたメール受信者の数。 |
-   | [!UICONTROL 登録解除済み] | メールの&#x200B;**[!UICONTROL 登録解除]**&#x200B;リンクをクリックし、フォームに記入したメール受信者の数。 |
+1. レポートのパラメーターを定義する。
 
-   >[!NOTE]
-   >
-   >一般的には、常識的な判断に基づいてこれらの統計を記録しています。 例えば、メールのリンクがクリックされた場合、明らかに最初にメールが開かれたことになります。 従うルールについては、「[メール効果レポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)」を参照してください。
+   ![](assets/campaign-email-performance-report-4.png)
 
-   >[!MORELIKETHIS]
-   >
-   >* [キャンペーンメールレポートでのアセットのフィルター](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-   >* [メールの効果レポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+1. 完了したら、「**レポート**」タブをクリックして、レポートを表示します。
+
+Campaign メールパフォーマンスレポートで選択できる[列は次のとおりです。](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+
+| 列 | 説明 |
+|---|---|
+| [!UICONTROL ハードバウンス済み] | 存在しないメールアドレスなどの恒久的な状況が原因で、メールの配信が却下されました。 |
+| [!UICONTROL ソフトバウンス済み] | サーバーがダウンしている、インボックスがいっぱいになっているなどの一時的な状況が原因で、メールが却下されました。 |
+| [!UICONTROL 保留中] | メールは配信中です。 |
+| [!UICONTROL クリック済みリンク] | メール内のリンクをクリックしたメール受信者の数。 |
+| [!UICONTROL 登録解除済み] | メールの&#x200B;**[!UICONTROL 登録解除]**&#x200B;リンクをクリックし、フォームに記入したメール受信者の数。 |
+
+>[!NOTE]
+>
+>一般的には、常識的な判断に基づいてこれらの統計を記録しています。 例えば、メールのリンクがクリックされた場合、明らかに最初にメールが開かれたことになります。 従うルールについては、「[メール効果レポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)」を参照してください。
+
+>[!MORELIKETHIS]
+>
+>* [キャンペーンメールレポートでのアセットのフィルター](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [メールの効果レポート](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
