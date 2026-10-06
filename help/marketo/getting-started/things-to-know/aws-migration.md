@@ -3,10 +3,10 @@ description: AWSへの移行 – Marketo Engage Docs – 製品ドキュメン�
 title: AWSへの移行
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 78cbf2bc22a769e1b1013ddf7293e1a49ccd77e4
+source-git-commit: a02e4782a1c320ec1baa8c304d50c7e1807ab445
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 5%
+source-wordcount: '1227'
+ht-degree: 4%
 ---
 # AWSへの移行 {#aws-migration}
 
@@ -20,7 +20,7 @@ ht-degree: 5%
 
 * **リード/人物**&#x200B;を作成または更新するか、人物レコードを変更するプロセスを実行しないでください。
 
-* **スケジュールされた施策が一時停止されるため、フォローオンプロセスをトリガーしません**。
+* **スケジュールされたすべての施策が一時停止されるため、フォローオンプロセス**&#x200B;をトリガーしないでください。
 
 * **Marketo Engageとの間でデータを送受信する統合機能**&#x200B;を一時的に無効にします。
 
@@ -28,7 +28,7 @@ ht-degree: 5%
 
 * **ログイン、API アクセス、電子メール送信、web トラッキング、および統合に関するIP許可リスト**&#x200B;のレビューと更新。
 
-* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[&#x200B; テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
+* **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[ テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
 
 ## 期待されるサービス効果 {#impacts}
 
@@ -37,15 +37,15 @@ ht-degree: 5%
 * **CRM統合とLaunchPoint サービス**&#x200B;は無効になりますが、後で自動的に再開する必要があります。
 * **ランディングページ、フォーム、データ収集**&#x200B;は利用できなくなり、メンテナンスメッセージが表示されます（以下を参照）。
 
-  ![&#x200B; ダウンタイム中にMarketo Engage ランディングページにアクセスしたときに、お客様に表示されるメッセージ &#x200B;](assets/maintenance-in-progress.png)
+  ![ ダウンタイム中にMarketo Engage ランディングページにアクセスしたときに、お客様に表示されるメッセージ ](assets/maintenance-in-progress.png)
 
 >[!IMPORTANT]
 >
->[外部フォーム &#x200B;](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行期間中にMarketo Engageが利用できない間に収集したフォーム送信データを失わないようにしたい場合は、事前に[Adobe サポート &#x200B;](https://experienceleague.adobe.com/ja/support){target="_blank"} **少なくとも2営業日**&#x200B;までにお問い合わせください。フォーム IDとサブスクリプションのMunchkin IDを入力してください。
+>[外部フォーム ](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"}を使用しており、移行期間中にMarketo Engageが利用できない間に収集したフォーム送信データを失わないようにしたい場合は、事前に[Adobe サポート ](https://experienceleague.adobe.com/en/support){target="_blank"} **少なくとも2営業日**&#x200B;までにお問い合わせください。フォーム IDとサブスクリプションのMunchkin IDを入力してください。
 
 ## データセンター/ポッドの特定 {#identify}
 
-以下のスケジュールを確認する前に、[&#x200B; サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify)特定する方法を説明します。
+以下のスケジュールを確認する前に、[ サブスクリプションが配置されているデータセンターとポッド/サーバーを](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify){target="_blank"}特定する方法を説明します。
 
 ## スケジュール {#schedule}
 
@@ -341,9 +341,9 @@ ht-degree: 5%
 
 最新情報は、このページをブックマークしてください。
 
-ステータスの更新については、移行の開始時および完了時に[購読して受信することができます](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 移行期間中に[status.adobe.com](https://status.adobe.com/ja){target="_blank"}にアクセスすることもできます。
+ステータスの更新については、移行の開始時および完了時に[購読して受信することができます](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"}。 移行期間中に[status.adobe.com](https://status.adobe.com/ja){target="_blank"}にアクセスすることもできます。
 
-ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/ja/support){target="_blank"}からAdobe サポートにお問い合わせください。
+ご不明な点がある場合は、Admin Consoleのサポートポータルまたは[Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}からAdobe サポートにお問い合わせください。
 
 ## よくある質問 {#faq}
 
@@ -362,3 +362,13 @@ Marketoでは、主要なデータベーステクノロジーとして、AWSに�
 Auroraは、Amazon S3への継続的な自動バックアップもリアルタイムで実行し、設定された保持ウィンドウ内でPoint-in-Time Recovery （PITR）を任意の秒間に有効にします。
 
 現時点では、MarketoのAurora デプロイメントは、クロスリージョンのレプリケーションなしで、1つのAWS リージョン内で動作します。 本番データは指定された地域インフラストラクチャ内に残り、災害復旧は、セカンダリ地域への地理的フェイルオーバーではなく、Auroraのマルチ AZ ストレージの冗長性と継続的なバックアップを通じて提供されます。 これは、MarketoのAWSインフラストラクチャが成熟するにつれて、さらに評価される可能性があります。
+
+**ダウンタイム中に登録解除はどのように処理されますか？**
+標準およびリスト登録解除（メールクライアントから）は引き続き受け取られ、移行後まもなく処理されます。
+
+**一時停止キャンペーンに代わるものはありますか？**
+はい。 ユーザーの前進を防ぎたいが、受信データを失いたくない場合は、次のオプションを検討します。
+
+* 選択肢ステップを追加：キャンペーンを無効にする代わりに、キャンペーンをアクティブのままにしますが、[ フローステップ ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"}またはフローの最上部にある即時の「何もしない」ステップを追加します。 ユーザーをこの一時停止された状態に誘導する[選択ルール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"}を設定し、準備ができたら選択ルールを更新します。
+* フローから削除：既にキャンペーンに参加しているユーザーが、その進行状況を停止する必要がある場合は、[ フローから削除](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} アクションを使用して、キャンペーンのトリガーを永続的に無効にすることなくユーザーを削除します。
+* バッチ方式による代替案：瞬時のルーティングや回答が必要なく、夜間やスケジュールされた間隔で処理したい場合は、トリガーキャンペーンをバッチキャンペーンに変換することを検討してください。
