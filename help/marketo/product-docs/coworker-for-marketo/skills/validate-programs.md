@@ -1,26 +1,24 @@
 ---
 description: メール、ランディングページ、キャンペーンなど、あらゆるコンポーネントをまたいでベストプラクティスに関するプログラムを監査する方法について説明します。
 title: プログラムの検証
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 2%
-
+source-wordcount: '122'
+ht-degree: 5%
 ---
-
 # プログラムの検証 {#validate-programs}
 
 メール、ランディングページ、キャンペーンなど、あらゆるコンポーネントをまたいでベストプラクティスのプログラムを監査します。
 
 ## 使用方法 {#how-to-use}
 
-1. My Marketoで、**Coworker for Marketo Engage** タイルをクリックします。
+1. マイMarketoで、「**CX Enterprise Coworker Marketo Engage版**」タイルをクリックします。
 
-   ![](assets/validate-programs-1.png)
+   ![](assets/cx-validate-programs-1.png)
 
 1. プロンプトウィンドウに「Marketo Engage プログラムを検証したい」と入力します。
 
-   ![](assets/validate-programs-2.png)
+   ![](assets/cx-validate-programs-2.png)
 
 1. 右側のパネルで、検証するプログラムを選択します。
 
@@ -30,6 +28,6 @@ ht-degree: 2%
 
 1. プロンプトウィンドウで、「プログラムを検証」と入力し、**送信**&#x200B;をクリックします。
 
-   Coworker for Marketo Engageは、選択したプログラムのQAを提供し、何が合格し、何が失敗したかを示します。
+   CX Enterprise Coworker for Marketo Engageは、選択したプログラムのQAを提供し、何が合格し、何が失敗したかを示します。
 
    ![](assets/validate-programs-6.png)

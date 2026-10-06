@@ -1,20 +1,20 @@
 ---
-description: リードの読み込み、プログラム QA、データの正規化など、主要なワークフローをまたいで、Coworker Marketo Engage 版のデータ範囲、ガバナンスコントロール、PII に関する考慮事項について説明します。
-title: Coworker Marketo Engage 版データ情報シート
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+description: CX Enterprise CoworkerのAdobe Marketo Engageデータスコープ、ガバナンス制御、リード読み込み、プログラム QA、データ標準化などの主要なワークフローにおけるPIIに関する考慮事項をご確認ください。
+title: CX Enterprise Coworker for Marketo Engageに関する資料
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '1421'
-ht-degree: 100%
+source-wordcount: '1459'
+ht-degree: 64%
 ---
-# Coworker Marketo Engage 版データ情報シート {#data-information}
+# CX Enterprise Coworker for Marketo Engageに関する資料 {#data-information}
 
-Coworker Marketo Engage 版は、Adobe Marketo Engage 内のネイティブのエージェント型機能です。マーケティングオペレーションチームは、自然言語によるインタラクションを通じて、リードの読み込み、プログラムの検証、データの正規化、プログラムの作成、リードの調査、分析、製品ガイダンスなど、特定のワークフローを自動化できます。 Coworker Marketo Engage 版は、ユーザーの既存の Marketo Engage 環境内で動作し、AI による推論やオーケストレーションにはアドビが管理するインフラストラクチャを使用します。
+CX Enterprise Coworker for Marketo Engageは、Adobe Marketo Engage内のネイティブのエージェント機能であり、リードのインポート、プログラムの検証、データの正規化、プログラムの作成、リード調査、分析、製品ガイダンスなど、マーケティング部門が自然言語で操作し、選択したワークフローを自動化できるようにします。 CX Enterprise Coworker for Marketo Engageは、ユーザーの既存のMarketo Engage環境内で動作し、Adobeで管理されるインフラストラクチャをAIの推論とオーケストレーションに使用します。
 
-**ユーザー環境：** Coworker Marketo Engage 版は、既存の Marketo Engage 環境内で動作し、ユーザー間での新しい共有パスを導入しません。
+**ユーザー環境：** CX Enterprise Coworker for Marketo Engageは、既存のMarketo Engage環境内で動作し、新しいユーザー間共有パスを導入しません。
 
 **データ範囲：**&#x200B;サービスは、リードレコード、プログラムデータ、スマートキャンペーンアクティビティなど、ユーザー環境に既に存在する標準的な B2B マーケティングデータを処理します。
 
-**AI サービス：** Coworker Marketo Engage 版は、アドビが作成した AI ハーネスを活用し、AI による推論には Azure OpenAI の GPT-4.1 や AWS Bedrock 上の Claude を使用しています。また、製品アクションの実行には Marketo MCP ツールがサポートされています。
+**AI サービス：** Marketo Engage用CX Enterprise Coworkerは、Adobeによって構築されたAI ハーネスを活用し、Azure OpenAI GPT-4.1とAWS Bedrock上のClaudeをAI推論に使用し、Marketo MCP ツールが製品アクションの実行をサポートします。
 
 **ガバナンス：** AI が生成した出力は、ユーザーの環境内に残り、既存のガバナンス、データの保管場所、保持に関するコントロールの対象となります。
 
@@ -60,7 +60,7 @@ Coworker Marketo Engage 版は、Adobe Marketo Engage 内のネイティブの�
 
 ## ユースケース
 
-上記以外にも、Coworker Marketo Engage 版を使用して、複雑な運用上の問題（CRM 同期エラー、Webhook エラー、メール配信の根本原因分析、フィールドの不一致）を診断およびトラブルシューティングし、アカウント全体の監査（メール配信品質、購読センターのコンプライアンス、スマートキャンペーンのレビュー、スコアリングモデルの評価）を実施し、概要やテンプレートからプログラム（イベントプログラム、多言語メールキャンペーン、ウェビナーの設定）の作成を高速化することを検討します。 Coworker Marketo Engage 版は、AI を活用した大規模なリード分類およびデータエンリッチメント、改善策のレコメンデーションを含むパフォーマンス分析、Velocity スクリプトやライフサイクルモデルなどの技術的設定のガイド付きデバッグを提供するように設計されています。
+リストされているものに加えて、CX Enterprise Coworker for Marketo Engageを使用して、複雑な運用上の問題（CRM同期エラー、Webhook エラー、メール配信の根本原因分析、フィールドの不一致）の診断とトラブルシューティング、アカウント全体での監査の実施（メール配信品質、サブスクリプションセンターのコンプライアンス、スマートキャンペーンレビュー、スコアリングモデル評価）、ブリーフやテンプレート（イベントプログラム、多言語メールキャンペーン、ウェビナーの設定）からのプログラム作成の迅速化を検討します。 CX Enterprise Coworker for Marketo Engageは、AIによるリードの大規模な分類とデータの強化、パフォーマンス分析と修正に関する推奨事項、ベロシティのスクリプトやライフサイクルモデルなどの技術的な設定のガイド付きデバッグを提供するように設計されています。
 
 ## 可用性とロールアウトステータス
 
@@ -76,13 +76,13 @@ Coworker Marketo Engage 版は、Adobe Marketo Engage 内のネイティブの�
 
 **ドキュメント：**&#x200B;一般提供に向けた準備の一環として、Experience League ドキュメントを拡張しています。
 
-**サポートモデル：**&#x200B;現在のサポートアプローチには、ユーザーからのフィードバックの収集、営業時間、Coworker Marketo Engage 版の Experience League コミュニティが含まれます。
+**サポートモデル：**&#x200B;現在のサポートアプローチには、ユーザーからのフィードバックの受け入れ、営業時間、Marketo Engage Experience League向けCX Enterprise Coworker コミュニティが含まれます。
 
 **サービス監視：**&#x200B;アドビは、可観測性、フィードバックダッシュボード、品質評価メカニズムを、ローンチの成熟度と継続的な改善の重要な要素として特定しています。
 
 ## 範囲外のデータと除外事項
 
-**新しい特殊カテゴリデータなし：** Coworker Marketo Engage 版は、ヘルス、財務、正確な場所、生体、その他の特殊カテゴリデータに対して新しい処理を行いません。
+**新しい特殊カテゴリーデータがありません：** Marketo Engage用CX Enterprise Coworkerでは、ヘルス、財務、正確な場所、バイオメトリクス、またはその他の特殊カテゴリーデータに対する新しい処理は導入されていません。
 
 **新しい共有パスなし：**&#x200B;サービスは、ユーザー間でコンテンツを共有する新しいメカニズムを作成しません。
 
@@ -92,13 +92,13 @@ Coworker Marketo Engage 版は、Adobe Marketo Engage 内のネイティブの�
 
 ## Azure OpenAI および AWS Bedrock 上での Claude の使用
 
-この節では、Azure OpenAI が Coworker Marketo Engage 版のワークフローをサポートする仕組みについて説明します。 関連する図やフローの説明は、データの範囲、ユーザーによる監視、モデルのトレーニングに関する制限など、ここで説明されているコントロールと共に参照する必要があります。
+このセクションでは、Azure OpenAIがCX Enterprise Coworker for Marketo Engage ワークフローをどのようにサポートしているかを説明します。 関連する図やフローの説明は、データの範囲、ユーザーによる監視、モデルのトレーニングに関する制限など、ここで説明されているコントロールと共に参照する必要があります。
 
 **目的：** Azure OpenAI GPT-4.1 は、対話型の推論およびエージェント駆動型ワークフローのオーケストレーションに使用されます。
 
 **データの範囲：**&#x200B;入力は、ユーザーの Marketo Engage 環境に既に存在し、リクエストされたワークフローの実行に必要な標準的な B2B マーケティングデータに制限されます。
 
-**AI 出力：** AI 出力は、ユーザーのプロンプトや設定によって決定され、Coworker Marketo Engage 版の機能は、ユーザーによる設定なしに自律的に決定を行いません。
+**AI出力：** AI出力は、ユーザープロンプトと設定によって決定されます。Marketo Engage向けCX Enterprise Coworker機能は、ユーザー設定なしでは自律的に意思決定を行いません。
 
 **トレーニング：**&#x200B;アドビは、このサービスに対する Azure OpenAI モデルのトレーニングや微調整にユーザーデータを使用しません。
 
@@ -114,11 +114,11 @@ Coworker Marketo Engage 版は、Adobe Marketo Engage 内のネイティブの�
 
 ## データの処理と保存場所
 
-この節では、Coworker for Marketo Engage 版が動作する環境と処理が実行される環境について説明します。 ドキュメントに地域の図やインフラストラクチャのビジュアルが含まれている場合、これらの資料は、包括的なネットワーク構成図ではなく、サービスの場所や処理フローを大まかに示したものとして理解する必要があります。
+この節では、CX Enterprise Coworker for Marketo Engageが動作する環境と、処理が行われる環境について説明します。 ドキュメントに地域の図やインフラストラクチャのビジュアルが含まれている場合、これらの資料は、包括的なネットワーク構成図ではなく、サービスの場所や処理フローを大まかに示したものとして理解する必要があります。
 
-**アプリケーション環境：** Coworker Marketo Engage 版は、ユーザーの既存の Adobe Marketo Engage 環境内で動作します。
+**Application environment:** CX Enterprise Coworker for Marketo Engageは、ユーザーの既存のAdobe Marketo Engage環境内で動作します。
 
-**AI 処理：** Coworker Marketo Engage 版は、対話型の推論およびタスクのオーケストレーションに Azure OpenAIの GPT-4.1 および AWS Bedrock 上の Claude を使用しています。
+**AI処理：** Marketo Engage版CX Enterprise Coworkerでは、Azure OpenAI GPT-4.1とAWS Bedrock上のClaudeを使用して、対話的な推論とタスクのオーケストレーションを行っています。
 
 **ユーザーデータの場所：**&#x200B;ユーザーデータおよび AI が生成した出力は、ユーザーの Marketo Engage 環境内に残り、ユーザーの既存のデータの保管場所、ガバナンス、保持に関するコントロールの対象となります。
 
@@ -126,7 +126,7 @@ Coworker Marketo Engage 版は、Adobe Marketo Engage 内のネイティブの�
 
 ## ワークフロータイプ別のデータの範囲
 
-Coworker Marketo Engage 版で処理されるデータは、ユーザーの使用パターンと呼び出される特定のワークフローによって決まります。 すべてのワークフローで、リードレベルのデータ処理が必要になるわけではありません。
+CX Enterprise CoworkerでMarketo Engage用に処理されるデータは、ユーザーの使用パターンと呼び出される特定のワークフローによって決まります。 すべてのワークフローで、リードレベルのデータ処理が必要になるわけではありません。
 
 ### キャンペーンのメタデータのみ（リード情報なし）を活用するワークフロー
 
@@ -148,9 +148,9 @@ Coworker Marketo Engage 版で処理されるデータは、ユーザーの使�
 ### 設計によるデータ最小化
 
 * いずれの場合も、AI モデルに送信されるデータは、そのワークフロー内での特定のユーザーリクエストを実行するために必要なものに制限されます
-* Coworker Marketo Engage 版は、ユーザーの既存の Marketo Engage 権限に従います。製品 UI を通じてユーザーが表示できる権限を超えて、リードレコード、フィールド、プログラムへのアクセス権を付与することはありません
+* CX Enterprise Coworker for Marketo Engageは、ユーザーの既存のMarketo Engage権限に従います。ユーザーが製品UIを通じて表示できる権限を超えるリード記録、フィールド、またはプログラムへのアクセスは提供されません
 * リードデータの処理を制限するユーザーは、AI の構造的および管理的な機能へのフルアクセスを維持しながら、Marketo Engage の既存の役割および権限コントロールを通じて、ツールの調査用ワークフローへのアクセスを制限できます
 
 ### 増分データの露出なし
 
-AI は、エスカレーションパスではなく、既存のユーザー権限に対するアクセラレーターとして機能します。 Marketo Engage の UI で特定のリードフィールド、プログラム、パーティションを表示できないユーザーは、Coworker Marketo Engage 版を使ってそのデータを表示することもできません。 サービスは、パーティションルール、フィールドレベルの権限、ワークスペースの制限をバイパスしません。
+AI は、エスカレーションパスではなく、既存のユーザー権限に対するアクセラレーターとして機能します。 Marketo Engage UIで特定のリードフィールド、プログラム、パーティションを表示できないユーザーは、Marketo Engage用のCX Enterprise Coworkerでそのデータを表示することもできません。 サービスは、パーティションルール、フィールドレベルの権限、ワークスペースの制限をバイパスしません。

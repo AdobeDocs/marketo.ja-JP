@@ -1,14 +1,14 @@
 ---
-description: 組織ルールがガバナンス基準をどのように定義し、プログラムの作成、キャンペーンの計画、検証をまたいでAdobe Marketo Engageの共同作業をどのように導いているのかを解説します。
+description: 組織ルールによってガバナンス基準を定義する方法と、プログラムの作成、キャンペーンの計画、検証をまたいでMarketo EngageのCX Enterprise Coworkerを導く方法について説明します。
 title: 組織ルール
-source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '867'
 ht-degree: 1%
 ---
 # 組織ルール {#organizational-rules}
 
-「組織ルール」は、プログラムの作成、キャンペーンの計画、検証のワークフローをまたいで、Adobe Marketo Engageに関する従業員の知識を深めるために、マーケティング業務の基準とガバナンス要件を単一のドキュメントで定義します。
+組織ルールは、プログラムの作成、キャンペーンの計画、検証のワークフローをまたいで、Adobe CX Enterprise Coworker for Marketo Engageを活用するための指針となる単一のドキュメントで、マーケティング業務の基準とガバナンス要件を定義します。
 
 ## 組織ルールとは？ {#what-are-organizational-rules}
 
@@ -23,17 +23,17 @@ ht-degree: 1%
 
 ## 組織ルールを使用する場合 {#where-organizational-rules-are-used}
 
-Marketo Engageのチームメンバーは、次の3つのスキルを習得できます。
+Marketo EngageのCX Enterprise Coworkerの組織ルールは、次の3つのスキルで構成されています。
 
 | スキル | ルールの適用方法 |
 | --- | --- |
-| プログラムの構築 | ルールは、プログラム構造、命名、初期設定の作成をガイドします。 Adobe Marketo Engageの同僚は、プログラムを作成する前に、概要でコンプライアンスの問題をフラグを立てます。 |
-| キャンペーンの計画 | Marketo Engageのルール機能を利用すれば、Adobe Workfrontが基準にもとづいてスマートキャンペーン、フィルター、フローステップをどのように構築するのかを判断できます。 |
-| プログラムの検証 | ルールは、Coworker for Marketo Engageがアクティベーション前にプログラムを検証する際にチェックするものを定義します。 |
+| プログラムの構築 | ルールは、プログラム構造、命名、初期設定の作成をガイドします。 CX Enterprise Coworker for Marketo Engageは、プログラムを作成する前に、概要にコンプライアンスの問題があればフラグを立てます。 |
+| キャンペーンの計画 | ルールは、Marketo EngageのCX Enterprise Coworkerが、基準に基づいてスマートキャンペーン、フィルター、フローステップをどのように構築するかを示します。 |
+| プログラムの検証 | ルールは、アクティベーション前にプログラムを検証する際にCX Enterprise Coworker for Marketo Engageがチェックする内容を定義します。 |
 
 ## 組織ルールにアクセスしてカスタマイズする方法 {#how-to-access-and-customize-organizational-rules}
 
-1. My Marketoで、**Coworker for Marketo Engage** タイルをクリックします。
+1. マイMarketoで、「**CX Enterprise Coworker Marketo Engage版**」タイルをクリックします。
 1. 歯車のアイコンをクリックします。
 1. 「**組織ルール**」タブを選択します。
 1. デフォルトのルールを確認します（これらは、マーケティング業務のベストプラクティスが事前に入力されています）。
@@ -45,7 +45,7 @@ Marketo Engageのチームメンバーは、次の3つのスキルを習得で�
    * コンプライアンスと除外基準
 
 1. 変更を加えたときにバージョン番号を更新します。
-1. 変更を保存します。 Marketo Engageのスキルを持つすべての同僚は、カスタマイズされたルールをすぐに使用します。
+1. 変更を保存します。 Marketo Engage版CX Enterprise Coworkerのすべてのスキルは、カスタマイズされたルールをすぐに使用します。
 
 ## 組織ルール構造 {#organizational-rules-structure}
 
@@ -99,16 +99,16 @@ customized: true
 * **ルールに焦点を当てる**：組織にとって重要な要件のみを含めます。 不必要なルールによってノイズが生じ、コンプライアンススコアが不必要に低下します。
 * **自動チェックと手動チェックの両方を使用**:
 
-  * 自動チェック：命名規則、必要なフォルダー、トークンの使用（Marketo EngageのCoworkerはこれらの規則を検証できます）
-  * 手作業によるチェック：電子メールのビジュアルデザイン、ブランドコンプライアンス、キャンペーンロジック（Marketo Engageの担当者は、これらを手作業によるレビュー手順としてフラグ付けします）
+  * 自動チェック：命名規則、必要なフォルダー、トークンの使用状況（CX Enterprise Coworker for Marketo Engageでこれらを検証できます）
+  * 手作業によるチェック：電子メールのビジュアルデザイン、ブランドコンプライアンス、キャンペーンロジック（CX Enterprise Coworker for Marketo Engageでは、これらを手作業によるレビュー手順としてフラグ付けします）
 
 * **厳格さと柔軟性のバランス**：厳格すぎるルールは、プログラムの作成が遅くなる可能性があります。 ルールが緩すぎると、重要なコンプライアンスの問題を捉えられません。
 * **ルールのバージョン**: ガバナンス基準が更新されていることをチームが把握できるように、大幅な変更を行った場合はバージョン番号を更新します。
 * **変更を伝える**：組織ルールを更新する際には、何が変更されたのか、その理由をマーケティング部門に伝えます。
 
-## Coworker for Marketo Engageで検証できること/できないこと {#what-coworker-can-and-cannot-validate}
+## CX Enterprise Coworker for Marketo Engageで検証できる機能と検証できない機能 {#what-coworker-can-and-cannot-validate}
 
-Marketo Engageの共同作業者は次の項目を検証できます（自動チェック）。
+CX Enterprise Coworker for Marketo Engageでは、次の機能を検証できます（自動チェック）。
 
 * 命名規則がパターンに一致
 * 必要なフォルダー構造が存在します
@@ -117,7 +117,7 @@ Marketo Engageの共同作業者は次の項目を検証できます（自動チ
 * 外部リンクにはUTM パラメーターが含まれます
 * スマートキャンペーン名は規則に従います
 
-Marketo Engageの共同作業者は検証できません（手作業によるレビューが必要です）。
+CX Enterprise Coworker for Marketo Engageは検証できません（手作業によるレビューが必要です）。
 
 * スマートリストのフィルターロジック（APIの制限：フィルターを手動で設定する必要があります）
 * Smart Campaign フローステップロジック（APIの制限：手動でフローを設定する必要があります）
@@ -125,14 +125,14 @@ Marketo Engageの共同作業者は検証できません（手作業によるレ
 * ブランドコンプライアンスとメッセージングのトーン（人間の判断が必要）
 * 動的コンテンツセグメンテーションルール（APIの制限）
 
-Marketo Engage用Coworkerは、検証できないエラーが発生した場合、ワークフローの手動レビューステップとしてフラグを立てます。
+Marketo Engage用CX Enterprise Coworkerで検証できないエラーが発生した場合は、ワークフローの手動レビューステップとしてフラグが付けられます。
 
 ## コンプライアンススコアリング {#compliance-scoring}
 
-プログラムの検証を使用する場合、Coworker for Marketo Engageは次の基準に基づいてコンプライアンススコアを計算します。
+プログラムの検証を使用する場合、CX Enterprise Coworker for Marketo Engageは、次の項目に基づいてコンプライアンススコアを計算します。
 
-* **チェックに合格しました**: Marketo Engageの共同作業者がコンプライアンスを確認しましたが、問題が見つかりませんでした
-* **失敗したチェック**: Marketo Engageの共同作業者が組織規則に違反していることが見つかりました
+* **合格したチェック**: Marketo Engage用CX Enterprise Coworkerがコンプライアンスを検証しましたが、問題が見つかりませんでした
+* **失敗したチェック**: Marketo Engage用CX Enterprise Coworkerで、組織規則に違反していることが見つかりました
 * **手動レビュー手順**：人間による検証が必要な項目（これらはスコアに対してカウントされません）
 
 プログラムのコンプライアンスは100%に達する可能性がありますが、それでも手作業によるレビュー手順が必要です。スコアの計算から除外されます。
@@ -172,9 +172,9 @@ Example: AMER_Q2_Product_Launch_Webinar_2025
 
 ## トラブルシューティング {#troubleshooting}
 
-**Q：組織ルールを更新しましたが、Marketo EngageのCoworkerは古いルールを引き続き使用しています。**
+**Q：組織ルールを更新しましたが、Marketo Engage用CX Enterprise Coworkerは古いルールを引き続き使用しています。**
 
-A：新しいプログラムと検証の変更は、すぐに有効になります。 既存のプログラムを使用している場合は、ブラウザーを更新するか、新しいCoworker for Marketo Engage ワークフローを開始して、更新されたルールを確認します。
+A：新しいプログラムと検証の変更は、すぐに有効になります。 既存のプログラムを使用している場合は、ブラウザーを更新するか、新しいCX Enterprise Coworker for Marketo Engage ワークフローを開始して、更新されたルールを確認します。
 
 **Q: デフォルトのルールに戻すことはできますか？**
 
