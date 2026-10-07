@@ -3,23 +3,29 @@ description: OAuth 2.0を使用してMarketoとSalesforceを接続する方法�
 title: OAuth 2.0 を使用したログイン
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/DG57bnPnHcwgMX16fmboe5t0W3anVkVt4BNba3ltgqI
+TQID: 'https://experienceleague.adobe.com/DG57bnPnHcwgMX16fmboe5t0W3anVkVt4BNba3ltgqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 115ae737bd08722278cb207b24827e109bb259bf
 workflow-type: tm+mt
-source-wordcount: 666
-ht-degree: 48%
-
+source-wordcount: '688'
+ht-degree: 44%
 ---
-
 # OAuth 2.0 を使用したログイン {#log-in-using-oauth-2-0}
 
-Salesforce は、OAuth プロトコルを使用して、アプリケーションのユーザがログイン資格情報を表示することなく、アプリケーションのデータに安全にアクセス（OAuth 2.0 を使用してアプリケーションを認証）できるようにします。 以下は、Salesforce と安全に接続し、Marketo Engageを同期するために実行する手順です。
+Salesforce は、OAuth プロトコルを使用して、アプリケーションのユーザがログイン資格情報を開示することなく、アプリケーションのデータに安全にアクセス（OAuth 2.0 を使用してアプリケーションを認証）できるようにします。 以下は、Salesforce と安全に接続し、Marketo Engageを同期するために実行する手順です。
 
 >[!IMPORTANT]
 >
@@ -55,7 +61,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
    ![](assets/log-in-using-oauth-6.png)
 
-1. 「_セキュリティ_」で、「**Web サーバーフローにシークレットを必要とする**」と「**リフレッシュトークンフローにシークレットを必要とする**」のみが選択されていることを確認します。
+1. _セキュリティ_&#x200B;で、**Web サーバーフローに秘密鍵を必要とする**、**更新トークンフローに秘密鍵を必要とする**、**コード交換に秘密鍵を必要とする（PKCE）。..**&#x200B;のみを選択してください。
 
    ![](assets/log-in-using-oauth-7.png)
 
@@ -77,13 +83,13 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 >
 >* SALESFORCE Sync ユーザーに対してAPI アクセスを有効にする必要があります（Salesforce Professional Edition ユーザーの場合、そのアクセスはデフォルトでは使用できません。Salesforce アカウントのエグゼクティブにお問い合わせください）。
 >* Marketo 同期ユーザを Salesforce で作成する必要があります。
->* 既存の顧客の場合、顧客のサブスクリプションで「SFDC 同期で OAuth を有効にする」機能が有効になります。
 >* ポップアップブロッカーが無効になっています。
 >* 接続されたアプリが作成され、[!UICONTROL Consumer Key]および[!UICONTROL Consumer Secret]を使用できます。
+>* 次の機能を有効にするには、[Marketo サポート ](https://experienceleague.adobe.com/en/support)にお問い合わせください。SFDC同期のOAuthを有効にする、更新トークンフローのシークレットを必要とする、コード交換のプルーフキー（PKCE）。
 
 >[!CAUTION]
 >
->**[!UICONTROL フィールドの同期]**&#x200B;をクリックする前に、Marketoで必要ないすべてのフィールドを同期ユーザーから非表示にします。 「同期フィールド」をクリックすると、ユーザが SFDC で表示できるすべてのフィールドが Marketo に作成され、削除できなくなります。
+>**[!UICONTROL フィールドの同期]**&#x200B;をクリックする前に、Marketoで必要ないすべてのフィールドを同期ユーザーから非表示にします。 「同期フィールド」をクリックすると、ユーザが SFDC で表示できるすべてのフィールドが Marketo に永続的に作成され、削除できなくなります。
 
 1. Marketo の管理セクションで、**[!UICONTROL CRM]**／**[!UICONTROL Salesforce と同期]**&#x200B;をクリックします。
 
@@ -99,7 +105,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
    >[!CAUTION]
    >
-   >「Salesforceでログイン」ボタンではなく、ユーザー名/パスワード/トークンフィールドが表示されている場合は、Marketo サブスクリプションが基本認証に対して有効になっています。 詳しくは、[基本認証を使用した Marketo の設定](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}を参照してください。 同期が一連の資格情報を使用し始めると、Salesforce の資格情報またはサブスクリプションを切り替えられなくなります。 Salesforce認証用にOauth 2.0を設定するには、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
+   >「Salesforceでログイン」ボタンではなく、ユーザー名/パスワード/トークンフィールドが表示されている場合は、Marketo サブスクリプションが基本認証に対して有効になっています。 詳しくは、[基本認証を使用した Marketo の設定](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md){target="_blank"}を参照してください。 同期が一連の資格情報を使用し始めると、Salesforce の資格情報またはサブスクリプションを切り替えられなくなります。 Salesforce認証用にOauth 2.0を設定するには、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
 
 1. Salesforce ログインページのポップアップが表示されます。 「Marketo 同期ユーザー」資格情報をキー入力し、ログインします。
 
@@ -109,7 +115,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 
    ![](assets/log-in-using-oauth-15.png)
 
-1. 検証が成功すると、アクセスをリクエストするアクセスページが表示されいます。 「**[!UICONTROL 許可]**」をクリックします。
+1. 検証が成功すると、アクセスを要求するページが表示されます。 「**[!UICONTROL 許可]**」をクリックします。
 
    ![](assets/log-in-using-oauth-16.png)
 
