@@ -85,7 +85,7 @@ Salesforce は、OAuth プロトコルを使用して、アプリケーション
 >* Marketo 同期ユーザを Salesforce で作成する必要があります。
 >* ポップアップブロッカーが無効になっています。
 >* 接続されたアプリが作成され、[!UICONTROL Consumer Key]および[!UICONTROL Consumer Secret]を使用できます。
->* 次の機能を有効にするには、[Marketo サポート &#x200B;](https://experienceleague.adobe.com/en/support)にお問い合わせください。SFDC同期のOAuthを有効にする、更新トークンフローのシークレットを必要とする、コード交換のプルーフキー（PKCE）。
+>* 次の機能を有効にするには、[Marketo サポート &#x200B;](https://experienceleague.adobe.com/ja/support)にお問い合わせください。SFDC同期のOAuthを有効にする、更新トークンフローのシークレットを必要とする、コード交換のプルーフキー（PKCE）。
 
 >[!CAUTION]
 >
