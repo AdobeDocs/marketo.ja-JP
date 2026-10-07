@@ -1,34 +1,34 @@
 ---
-description: プログラムのQA、リードの読み込み、データの正規化など、マーケティングタスクを自動化するために設計されたCoworker for Marketo Engageエージェントをご確認ください。
-title: Marketo Engageの概要
-source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
+description: プログラムのQA、リードの読み込み、データの正規化など、マーケティングタスクを自動化するために設計された、CX Enterprise Coworker for Marketo Engageのエージェント群をご覧ください。
+title: CX Enterprise Coworker for Marketo Engageの概要
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '454'
 ht-degree: 3%
 ---
-# Marketo Engageの概要 {#overview}
+# CX Enterprise Coworker for Marketo Engageの概要 {#overview}
 
-Coworker for Marketo Engage（旧Marketo AI）は、時間のかかる重要なマーケティング機能を自動化するために設計されたエージェントのスキルを提供します。
+CX Enterprise Coworker for Marketo Engageは、時間はかかりますが、重要なマーケティング機能を自動化するために設計された担当者のスキルを提供します。
 
 >[!AVAILABILITY]
 >
->この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にCoworker for Marketo Engage タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
+>この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にCX Enterprise Coworker for Marketo Engage タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 >[!IMPORTANT]
 >
->* Marketo Engage用Coworkerがサブスクリプションに対して有効になった後、必要なユーザーがアクセスできるようにするには、いくつかの[&#x200B; セットアップ手順](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"}を実行する必要があります。
+>* Marketo Engage用CX Enterprise Coworkerがサブスクリプションに対して有効になった後、必要なユーザーがアクセスできるようにするには、いくつかの[&#x200B; セットアップ手順](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"}を実行する必要があります。
 >
->* Marketo Engage [&#x200B; データインフォメーションシート &#x200B;](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}のCoworkerで、データスコープ、ガバナンス制御、およびPIIに関する考慮事項を確認します。
+>* CX Enterprise Coworker for Marketo Engage [&#x200B; データインフォメーションシート &#x200B;](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"}で、データスコープ、ガバナンス制御、およびPIIに関する考慮事項を確認します。
 
 ## アクセス方法 {#access}
 
-My Marketo画面で、**Coworker for Marketo Engage** タイルをクリックします。
+マイMarketo画面で、「**CX Enterprise Coworker Marketo Engage版**」タイルをクリックします。
 
-![](assets/overview-1.png)
+![](assets/cx-overview-1.png)
 
 プロンプトフィールドにリクエストを入力するか、エージェントスキルのいずれかを選択するか、サンプルプロンプトのいずれかを試します。
 
-![](assets/overview-2.png)
+![](assets/cx-overview-2.png)
 
 ## スキル {#skills}
 
@@ -36,7 +36,7 @@ My Marketo画面で、**Coworker for Marketo Engage** タイルをクリック�
 
 ### プログラムの構築 {#build-programs}
 
-マーケティングキャンペーンをわかりやすい言葉で説明し、Adobe Marketo EngageのCoworkerがアセットのプレースホルダーとスケジューリングを含むプログラム構造を構築します。 [&#x200B; プログラムの作成スキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}について詳しく説明します。
+マーケティングキャンペーンをわかりやすい言葉で説明し、CX Enterprise Coworker for Marketo Engageでプログラム構造を構築し、アセットのプレースホルダーとスケジューリングを備えています。 [&#x200B; プログラムの作成スキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}について詳しく説明します。
 
 ### リードの調査 {#investigate-leads}
 
@@ -44,7 +44,7 @@ My Marketo画面で、**Coworker for Marketo Engage** タイルをクリック�
 
 ### 製品知識 {#product-knowledge}
 
-Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門に依頼することなく、Marketoの専門知識を活用できます。 平易な言葉で質問し、Adobeの公式ドキュメントにもとづいてMarketo Engageで回答します。 [製品知識スキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}について詳しく説明します。
+Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門に依頼することなく、Marketoの専門知識を活用できます。 平易な言葉で質問し、Adobeの公式ドキュメントにもとづいてMarketo Engage向けCX Enterprise Coworkerで回答します。 [製品知識スキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}について詳しく説明します。
 
 ### プログラムの検証 {#validate-programs}
 
