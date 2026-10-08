@@ -4,34 +4,47 @@ description: 監査記録の概要と、Marketo インスタンスでの6か月�
 title: 監査記録の概要
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-TQID: https://experienceleague.adobe.com/4MTpv09ZFWkX6tirnq7ZIABSkfoz07qljcUUORwYNn8
+TQID: 'https://experienceleague.adobe.com/4MTpv09ZFWkX6tirnq7ZIABSkfoz07qljcUUORwYNn8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 354
+source-wordcount: '354'
 ht-degree: 66%
-
 ---
-
 # 監査記録の概要 {#audit-trail-overview}
 
-監査記録は、Marketo インスタンスで行った変更の詳細な履歴（6 か月分）を取得する機能です。
+監査記録は、Marketo インスタンスで行った変更の詳細な履歴（6 か月分）を取得する機能です。&#x200B;
 
 >[!NOTE]
 >
->監査記録のデータ履歴は、2016年9月14日（PT）に始まります。
+>監査記録のデータ履歴は、2016年9月14日（PT）から開始します。
 
 ![](assets/audit-trail-overview-1.png)
 
@@ -92,7 +105,7 @@ Marketoは、次の[作成、編集、削除](/help/marketo/product-docs/adminis
 >
 >**定義**
 >
->**不明**：[!DNL Webhook] に、ユーザーの名前とメールが「不明」と表示される場合があります。 これは、CRM の選択リスト値を変更すると発生します。 これらの値は、Marketo フォームとランディングページに表示されます。 CRM 側でこの更新を行うと、フォームを参照するランディングページが自動的にドラフト化されます。 [!DNL Webhook]では、Marketoはランディングページがドラフトされたことをキャプチャしますが、MarketoはCRM側からユーザー情報をキャプチャできないため、ユーザーの名前とメールアドレスは「不明」と表示されます。
+>**不明**：[!DNL Webhook] に、ユーザーの名前とメールが「不明」と表示される場合があります。 これは、CRM の選択リスト値を変更すると発生します。 これらの値は、Marketo フォームとランディングページに表示されます。 CRM 側でこの更新を行うと、フォームを参照するランディングページが自動的にドラフトになります。 [!DNL Webhook]では、Marketoはランディングページがドラフトされたことをキャプチャしますが、MarketoはCRM側からユーザー情報をキャプチャできないため、ユーザーの名前とメールアドレスは「不明」と表示されます。
 
 >[!MORELIKETHIS]
 >

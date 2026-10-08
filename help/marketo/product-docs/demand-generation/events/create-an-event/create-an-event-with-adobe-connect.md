@@ -4,24 +4,30 @@ description: MarketoでAdobe Connectを使用してイベントを作成する�
 title: Adobe Connect を使用したイベントの作成
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-TQID: https://experienceleague.adobe.com/I6k5QNBRUFdvHu-7xQMolmzHeyVYt-0ajZ0jV-HIPFY
+TQID: 'https://experienceleague.adobe.com/I6k5QNBRUFdvHu-7xQMolmzHeyVYt-0ajZ0jV-HIPFY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 425
+source-wordcount: '425'
 ht-degree: 74%
-
 ---
-
 # Adobe Connect を使用したイベントの作成 {#create-an-event-with-adobe-connect}
 
 Adobe Connect と同期すると、ウェビナーへの登録と参加を Marketo 内部で管理できるようになるので、エンゲージメントを見逃す心配がありません。
@@ -33,7 +39,7 @@ Adobe Connect と同期すると、ウェビナーへの登録と参加を Marke
 
 まず、Adobe Connectでミーティングまたはセミナーが作成されていることを確認します。 ヘルプが必要な場合は、[Adobe Connect ユーザーガイド &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/user-guide.html)を参照してください。
 
-Adobe Connect で作成するミーティングとセミナーは、Marketo で資格情報を入力するときに指定するフォルダーに作成する必要があります。 ミーティングとセミナーを作成したら、確認メールや ICS ファイルで使用する関連の連絡情報（電話番号など）を書きとめておきます。
+Adobe Connect で作成するミーティングとセミナーは、Marketo で資格情報を入力するときに指定するフォルダーに作成する必要があります。 ミーティングやセミナーを作成したら、確認メールや ICS ファイルで使用する関連の運営情報（電話番号など）を書きとめておきます。
 
 >[!CAUTION]
 >
@@ -71,11 +77,11 @@ Adobe Connect で作成するミーティングとセミナーは、Marketo で�
 
    >[!TIP]
    >
-   >個人の一意の URL をメールに挿入するには、`{{member.webinar url}}` というトークンを使用します。 メールが送信されると、このトークンは、Adobe Connect からの各リード固有の確認 URL に自動的に変換されます
+   >個人の一意の URL をメールに挿入するには、`{{member.webinar url}}` というトークンを使用します。 メールが送信されると、このトークンは、Adobe Connect からの各ユーザ固有の確認 URL に自動的に変換されます。
    >
    >配信停止やマーケティング中断したリードにも届くように、確認メールは&#x200B;**オペレーショナル**&#x200B;メールに設定してください。
 
-   ウェビナーに新規登録したリードは、[!UICONTROL 新規ステータス]が「登録」に設定されたときに、[!UICONTROL プログラムステータスを変更]フローステップによってウェビナープロバイダーにプッシュされます。 その他のステータスではプッシュされません。 また、[!UICONTROL &#x200B; プログラムステータスの変更] フローステップを#1し、[!UICONTROL 電子メールの送信] フローステップを#2します。
+   ウェビナーに新規登録したリードは、[!UICONTROL 新規ステータス]が「登録」に設定されたときに、[!UICONTROL プログラムステータスを変更]フローステップによってウェビナープロバイダーにプッシュされます。 その他のステータスでは、その人物はウェビナープロバイダー側にプッシュされません。 また、[!UICONTROL &#x200B; プログラムステータスの変更] フローステップを#1し、[!UICONTROL 電子メールの送信] フローステップを#2します。
 
    ![](assets/adobe.png)
 

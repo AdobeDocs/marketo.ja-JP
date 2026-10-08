@@ -4,16 +4,18 @@ description: AndroidとiOSでプッシュ通知をプレビューする方法に
 title: プッシュ通知のプレビュー
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/NhCFj8K9wVU4-fDLt8s3vYsccElm2NcHQ9VV19cD5lU
+TQID: 'https://experienceleague.adobe.com/NhCFj8K9wVU4-fDLt8s3vYsccElm2NcHQ9VV19cD5lU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 266
+source-wordcount: '266'
 ht-degree: 62%
-
 ---
-
 # プッシュ通知のプレビュー {#preview-a-push-notification}
 
 AndroidやiOSのプッシュ通知を容易にプレビューできます。 これをおこなう方法は 4 つあります。
@@ -36,9 +38,9 @@ AndroidやiOSのプッシュ通知を容易にプレビューできます。 こ
 
 ## Android プレビュー {#android-previews}
 
-送信時にプッシュ通知が表示される場所を正確に確認するには、左側のアイコンをクリックします。 切り替えるには、キーボードの矢印をクリックまたは使用します。
+送信時にプッシュ通知が表示される場所を正確に確認するには、左側のアイコンをクリックします。 クリックするか、キーボードの矢印キーを使用して切り替えます。
 
-ホーム画面では、通知が最上部から少し下のところにあるアイコンの下に表示されます。
+ホーム画面では、通知は画面上部から少し下のアイコンの下に表示されます。
 
 ![](assets/image2015-9-17-16-3a57-3a0.png)
 
@@ -66,7 +68,7 @@ Android と同様に、キーボードの矢印をクリックまたは使用し
 
 ![](assets/image2015-9-17-17-3a3-3a15.png)
 
-したがって、プッシュ通知プレビューを使用すると、顧客に表示される内容を常に把握できます。
+したがって、プッシュ通知のプレビューを使用すると、顧客にどのように表示されるかを常に把握できます。
 
 >[!MORELIKETHIS]
 >

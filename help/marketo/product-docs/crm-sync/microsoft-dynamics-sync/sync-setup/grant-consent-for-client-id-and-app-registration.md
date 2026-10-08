@@ -3,21 +3,26 @@ description: Dynamicsの同期に使用するクライアント IDとアプリ�
 title: クライアント ID とアプリ登録に対する同意の付与
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo
+TQID: 'https://experienceleague.adobe.com/HOqR2iJ4eN5091PyTeOLtCeYkVrj9TMs5MuKK8tEeYo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 293
+source-wordcount: '293'
 ht-degree: 70%
-
 ---
-
 # クライアント ID とアプリ登録に対する同意の付与 {#grant-consent-for-client-id-and-app-registration}
 
 必要な同意と権限を付与する方法については、次の手順に従います。
 
-## 同期ユーザに委任されたユーザ権限を付与 {#grant-delegated-user-permissions-for-the-sync-user}
+## 同期ユーザにデリゲートされたユーザ権限を付与 {#grant-delegated-user-permissions-for-the-sync-user}
 
 1. クリーンテキストプログラム（Windows の場合はメモ帳、Mac の場合はテキスト編集）を使用して、下のテキストを貼り付け、`client_id`、`redirect_uri`、`state` の値を置き換えて、認証用の Uniform Resource Identifier（URI）を作成します。
 
@@ -41,7 +46,7 @@ ht-degree: 70%
     <tbody>
      <tr>
       <td><strong>client_id の値</strong></td>
-      <td>アプリ登録プロセスで生成される client_id である必要があります</td>
+      <td>アプリ登録プロセスで生成された client_id にします</td>
      </tr>
      <tr>
       <td><strong>redirect_uri の値</strong></td>
@@ -74,7 +79,7 @@ ht-degree: 70%
 
 ## すべてのユーザーに同意を付与する {#grant-consent-for-all-users}
 
-管理者は、テナント内のすべてのユーザーに代わって、アプリケーションの委任された権限に同意することもできます。 管理者の同意を得ると、テナント内のすべてのユーザーに対して同意ダイアログが表示されなくなります。これは、管理者の役割を持つユーザーが Azure ポータルで実行できます。 [委任された権限に同意できる管理者の役割については、こちら](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference)をご覧ください。
+管理者は、テナント内のすべてのユーザに代わって、アプリケーションのデリゲートされた権限に同意することもできます。 管理者の同意を得ると、テナント内のすべてのユーザーに対して同意ダイアログが表示されなくなります。これは、管理者の役割を持つユーザーが Azure ポータルで実行できます。 [委任された権限に同意できる管理者の役割については、こちら](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference)をご覧ください。
 
 1. Azure ポータルで、アプリケーションのホームページに移動します。
 

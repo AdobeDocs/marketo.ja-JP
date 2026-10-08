@@ -4,21 +4,26 @@ description: MarketoからSalesforce リードキューへの人物の割り当�
 title: SFDC 同期 - リードキュー
 exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/aUrT7qSMy65t3K07O176nt-Bzjm9urgnXKAkZgs1-cs
+TQID: 'https://experienceleague.adobe.com/aUrT7qSMy65t3K07O176nt-Bzjm9urgnXKAkZgs1-cs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 150
+source-wordcount: '150'
 ht-degree: 84%
-
 ---
-
 # SFDC 同期：リードキュー {#sfdc-sync-lead-queue}
 
 Marketo では、[[!DNL Salesforce]  のリードキュー](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm)に人物を追加して、リードの配布に役立てることができます。 詳細は以下の通りです。
 
-## Marketo のキューに個人を割り当てる方法 {#how-to-assign-a-person-to-a-queue-in-marketo}
+## Marketo のキューに人物を割り当てるには？ {#how-to-assign-a-person-to-a-queue-in-marketo}
 
 次のいずれかのフローアクションを使用して、[!DNL Salesforce] のリードキューに人物を割り当てることができます。
 

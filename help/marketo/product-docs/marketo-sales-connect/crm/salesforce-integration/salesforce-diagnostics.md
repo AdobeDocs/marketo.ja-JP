@@ -4,26 +4,31 @@ description: セールスコネクト向けのSalesforce Diagnosticsについて
 title: Salesforce 診断
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/TmZ9sSRFbkcvsAY6aHS42oBPlyFEW80iDAh-c-awbZo
+TQID: 'https://experienceleague.adobe.com/TmZ9sSRFbkcvsAY6aHS42oBPlyFEW80iDAh-c-awbZo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1369
+source-wordcount: '1385'
 ht-degree: 37%
-
 ---
-
 # [!DNL Salesforce] 診断 {#salesforce-diagnostics}
 
-[!DNL Salesforce] 統合の一部には、web アプリケーション内に [!DNL Salesforce] の診断ページが含まれています。 このページでは、失敗したデータログから [!DNL Salesforce] にエラーを取り込みます。 エラーは役に立ちますが、常に読みやすいわけでは限りません。 そのため、エラーメッセージを説明するのに役立つカンニングペーパーを作成しました。
+[!DNL Salesforce] 統合の一部には、web アプリケーション内に [!DNL Salesforce] の診断ページが含まれています。 このページでは、失敗したデータログから [!DNL Salesforce] にエラーを取り込みます。 エラーは役に立ちますが、常に読みやすいとは限りません。 そのため、エラーメッセージを説明するのに役立つカンニングペーパーを作成しました。
 
 **エラー：** API_CURRENTLY_DISABLED
 **カテゴリー：** アクセス/検証
@@ -47,12 +52,12 @@ ht-degree: 37%
 **何が起こっています：**
 
 1 - トリガーコードが原因でアップデートが失敗する。
-2 - ユーザは、指定されたオブジェクトに対するオブジェクトレベルの書き込み権限を持っていません。
+2 - ユーザーは、指定されたオブジェクトに対するオブジェクトレベルの書き込み権限を持っていません。
 
 **トラブルシューティングの手順：**
 
 1 – 失敗しているトリガーを確認します。
-2 - オブジェクトに対する書き込みアクセス権をユーザに付与するか、オブジェクトに書き込もうとする機能を無効にします。
+2 - オブジェクトに対する書き込みアクセス権をユーザに付与するか、オブジェクトに書き込もうとしている機能を無効にします。
 
 <br> 
 
@@ -92,7 +97,7 @@ ht-degree: 37%
 **カテゴリー：** アクセス/検証
 **メッセージ：**&#x200B;はお客様によって異なります。
 **状況：**&#x200B;オブジェクトのカスタム検証ルールが失敗します。
-**トラブルシューティング手順：** このエラーを引き起こしているカスタム検証ルールを確認します。 これは慣習的な規則なので、エラーは 1 回限りで対処する必要があります。
+**トラブルシューティング手順：** このエラーを引き起こしているカスタム検証ルールを確認します。 これはカスタムルールであるため、このエラーは個別に対処する必要があります。
 
 <br> 
 
@@ -164,7 +169,7 @@ ht-degree: 37%
 
 **エラー：**&#x200B;無効なタイプ
 **カテゴリー：** アクセス/検証
-**Message:** CreatedDate, （タスクからIDを選択） FROM リード WHERE Email=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` type &#39;Lead&#39;はサポートされていません。 カスタムオブジェクトを使用する場合、必ずエンティティ名の後に &#39;__c&#39; を添付してください。 適切な名前を指定するには、WSDLまたはdescribe呼び出しを参照してください
+**Message:** CreatedDate, （タスクからIDを選択） FROM リード WHERE Email=&#39;emailid&#39;^ERROR at `Row:1:Column:53sObject` type &#39;Lead&#39;はサポートされていません。 カスタムオブジェクトを使用する場合は、必ずエンティティ名の後に「__c」を付けてください。 適切な名前を指定するには、WSDLまたはdescribe呼び出しを参照してください
 **何が起こっているのか：** ユーザーがアクセス権を持たないオブジェクトの種類をSalesforceからクエリしようとしています。 これは、ユーザーがリードオブジェクトに適切なアクセス権を持っていないことが原因である可能性が高いです。
 **トラブルシューティング手順：** Salesforce のリードオブジェクトに対して読み取りおよび更新アクセス権を付与するか、リードレコードへのメールログと最新のアクティビティのログをオフにします。
 
@@ -191,7 +196,7 @@ ht-degree: 37%
 **カテゴリー：** アクセス/検証
 **メッセージ：**&#x200B;必須フィールドがありません： `[Amount_Committed_Private_Capital__c]`
 **何が起こっているのか：**&#x200B;これは通常、最新のアクティビティのログに対して発生します。 カスタムフィールドは必須として設定されていますが、値が空です。 これは、レコードがカスタムフィールドの空の値で作成され、その後必須に設定された場合に発生する可能性があります。 レコードを更新しようとすると、カスタムフィールドにタッチしていなくても、要求が適用されます。
-**トラブルシューティングの手順：**&#x200B;見つからないフィールドの値を手動で更新します。 その後、ToutApp からメッセージを再試行できます。
+**トラブルシューティングの手順：**&#x200B;見つからないフィールドの値を手動で更新します。 その後、ToutApp からメッセージを再送信できます。
 
 **エラー：** SERVER_UNAVAILABLE
 **カテゴリ：**&#x200B;間欠的

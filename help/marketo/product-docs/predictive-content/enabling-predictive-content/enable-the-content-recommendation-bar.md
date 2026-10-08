@@ -4,21 +4,24 @@ description: 各URLの予測分析を使用してコンテンツレコメンデ�
 title: コンテンツレコメンデーションバーを有効にする
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s
+TQID: 'https://experienceleague.adobe.com/mrCYs8-z6i2GbrfgeySrm-a6-vPC--yVr4yf9UhbH4s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Machine learning
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 341
+source-wordcount: '341'
 ht-degree: 91%
-
 ---
-
 # コンテンツレコメンデーションバーを有効にする {#enable-the-content-recommendation-bar}
 
-コンテンツレコメンデーションエンジンは、予測分析と機械学習アルゴリズムを使用して、web 訪問者ごとに関連性の高いコンテンツを提供します。 レコメンデーションエンジンは、訪問者ごとに最もパフォーマンスの高いコンテンツを予測します。 エンジンのコンテンツの監視と管理は、レコメンデーションページで行い、コンテンツの ROI を最適化に役立ちます。
+コンテンツレコメンデーションエンジンは、予測分析と機械学習アルゴリズムを使用して、web 訪問者ごとに関連性の高いコンテンツを提供します。 レコメンデーションエンジンは、訪問者ごとに最もパフォーマンスの高いコンテンツを予測します。 エンジンのコンテンツはレコメンデーションページで監視および管理され、コンテンツの ROI を最適化するのに役立ちます。
 
 >[!PREREQUISITES]
 >
@@ -59,7 +62,7 @@ ht-degree: 91%
    >* ワイルドカードには &#42; を指定します。
    >* セミコロンを区切り記号として使用します。
    >* 例：/contact_us&#42;、&#42;action=logout&#42;
-   >* このフィールドでは大文字と小文字が区別されます
+   >* このフィールドでは大文字と小文字を区別します
 
 ## レコメンデーションバーについての注意事項 {#recommendation-bar-considerations}
 

@@ -1,20 +1,25 @@
 ---
 unique-page-id: 2359703
 description: Marketoでフリーフォームのランディングページに画像を追加する方法について説明します。 Design Studioから画像を挿入して配置します。
-title: フリーフォームランディングページへの画像の追加
+title: フリーフォームランディングページへの画像の追加​
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/-xtbww0QqxpqGfC2-xzmYjjFdZgeIR4fbFfub1Y3Xds
+TQID: 'https://experienceleague.adobe.com/-xtbww0QqxpqGfC2-xzmYjjFdZgeIR4fbFfub1Y3Xds'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 85
+source-wordcount: '85'
 ht-degree: 61%
-
 ---
-
-# フリーフォームランディングページへの画像の追加 {#add-an-image-to-a-free-form-landing-page}
+# フリーフォームランディングページへの画像の追加&#x200B; {#add-an-image-to-a-free-form-landing-page}
 
 >[!PREREQUISITES]
 >
@@ -32,7 +37,7 @@ ht-degree: 61%
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. 「**[!UICONTROL 挿入]**」をクリックします。
+1. 次に「**[!UICONTROL 挿入]**」をクリックします。
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 

@@ -4,19 +4,25 @@ description: Marketoでフリーフォームのランディングページのモ
 title: フリーフォームランディングページのモバイル表示をカスタマイズする
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/RJiOHLIXxHZdZBJk2XtIqk6TtJ7UVjcExmkxyVFp3yQ
+TQID: 'https://experienceleague.adobe.com/RJiOHLIXxHZdZBJk2XtIqk6TtJ7UVjcExmkxyVFp3yQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 378
+source-wordcount: '378'
 ht-degree: 84%
-
 ---
-
 # フリーフォームランディングページのモバイル表示をカスタマイズする {#customize-mobile-view-for-your-free-form-landing-page}
 
 >[!PREREQUISITES]
@@ -37,7 +43,7 @@ ht-degree: 84%
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
-## モバイル表示とデスクトップ表示+ {#mobile-vs-desktop-view}
+## モバイル表示とデスクトップ表示 {#mobile-vs-desktop-view}
 
 ページ要素の下に、![](assets/image2015-1-22-18-3a39-3a53.png)（デスクトップ）アイコンと![](assets/image2015-1-22-18-3a40-3a31.png)（モバイル）アイコンがあります。 これにより、様々な要素の表示／非表示を動的に切り替えることができます。
 
@@ -63,7 +69,7 @@ ht-degree: 84%
 
 >[!TIP]
 >
->携帯電話では少ないほうが効果的です。
+>モバイルでは、コンテンツは少ないほうが効果的です。
 
 1. 要素を非表示にするには、モバイル列の下にある、対応するチェックボックスをクリックします。
 
@@ -89,7 +95,7 @@ ht-degree: 84%
 
 >[!TIP]
 >
->モバイル表示でページ要素の配置を変更することもできます。 フリーフォームランディングページ上で移動するか、ドラッグ&amp;ドロップを使用して&#x200B;**[!UICONTROL ページ要素]**&#x200B;に表示されているオブジェクトを並べ替えます。
+>モバイル表示では、ページ要素をデスクトップとは異なる配置にすることもできます。 フリーフォームランディングページ上で移動するか、ドラッグ&amp;ドロップを使用して&#x200B;**[!UICONTROL ページ要素]**&#x200B;に表示されているオブジェクトを並べ替えます。
 
 ## モバイル表示をプレビュー {#preview-mobile-view}
 

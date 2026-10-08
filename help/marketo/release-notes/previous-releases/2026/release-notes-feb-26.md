@@ -3,13 +3,20 @@ description: リリースノート - 2026年2月 – Marketo ドキュメント 
 title: リリースノート - 2026年2月
 feature: Release Information
 exl-id: 679d2fca-99ba-4321-ad0d-a297b7f193fc
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 22%
-
 ---
-
 # リリースノート：2026年2月 {#release-notes-feb-26}
 
 以下では、2026年2月リリースに含まれるすべての機能について説明します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
@@ -18,7 +25,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、2026年2月20日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに該当し、2026年2月20日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>

@@ -4,19 +4,21 @@ description: MarketoでON24 イベントの子キャンペーンとローカル�
 title: 子キャンペーンとローカルアセットの作成
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-TQID: https://experienceleague.adobe.com/A4HlSGhMyiSBCbwSKrSoHgGmL6WZDU6Ev1NtyK8N5mA
+TQID: 'https://experienceleague.adobe.com/A4HlSGhMyiSBCbwSKrSoHgGmL6WZDU6Ev1NtyK8N5mA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 688
+source-wordcount: '688'
 ht-degree: 93%
-
 ---
-
-# 子キャンペーンとローカルアセットの作成 {#create-child-campaigns-and-local-assets}
+# 子キャンペーンとアセットの作成 {#create-child-campaigns-and-local-assets}
 
 Design Studio を使用して、子キャンペーンとローカルアセットを作成します。
 
@@ -45,7 +47,7 @@ Marketo を使用して、招待メール、確認メール、フォローアッ
 
 ## Marketo 確認メールと URL トークン {#marketo-confirmation-email-and-url-token}
 
-Marketo を使用して、イベントの確認メールを送信します。 担当者が登録すると、イベントへの参加に使用する一意の URL を受け取ります。
+Marketo を使用して、イベントの確認メールを送信します。 人物が登録すると、イベントに参加するための固有の URL を受け取ります。
 
 >[!NOTE]
 >
@@ -65,7 +67,7 @@ Marketo を使用して、イベントの確認メールを送信します。 �
 
 >[!CAUTION]
 >
->アダプターがジョブを実行するには、登録キャンペーンを作成する必要があります。 このキャンペーンは、フォームの入力者によってトリガーされ、最初の手順で、担当者のプログラムステータスを&#x200B;**登録済み**&#x200B;に変更する必要があります。 次に、キャンペーンが確認メールを送信します。 詳しくは、この記事の残りの部分を参照してください。
+>アダプターがその役割を果たすためには、必ず登録キャンペーンを作成する必要があります。 このキャンペーンは、フォームの入力者によってトリガーされ、最初の手順で、担当者のプログラムステータスを&#x200B;**登録済み**&#x200B;に変更する必要があります。 次に、キャンペーンが確認メールを送信します。 詳しくは、この記事の残りの部分を参照してください。
 
 **登録／確認（トリガーキャンペーン）**
 
@@ -74,7 +76,7 @@ Marketo を使用して、イベントの確認メールを送信します。 �
 
 >[!CAUTION]
 >
->Marketo フォームを使用してイベントに担当者を登録するか、適切な API 統合による Marketo 以外のフォームを使用して Marketo に登録データをプッシュする必要があります。 これは、イベントパートナー統合を成功させるうえで重要です。
+>Marketo フォームを使用してイベントに担当者を登録するか、適切な API 統合による Marketo 以外のフォームを使用して Marketo に登録データをプッシュする必要があります。 これは、イベントパートナー統合を成功させるうえで重大な要素です。
 
 >[!NOTE]
 >
@@ -96,7 +98,7 @@ Marketo を使用して、イベントの確認メールを送信します。 �
 
 >[!NOTE]
 >
->これらのフローステップの順序は、Marketo でアクションが実行される順序なので、重要です。 **[!UICONTROL プログラムステータスの変更]**&#x200B;ステップでは、登録のために ON24 に担当者を送信して、一意の URL が生成されます。 この後、`{{member.webinar URL}}` トークンを使用して、この一意の URL を含む確認メールを送信できます。
+>これらのフローステップの順序は、Marketo でアクションが実行される順序によって決まるため、重要です。 **[!UICONTROL プログラムステータスの変更]**&#x200B;ステップでは、登録のために ON24 に担当者を送信して、一意の URL が生成されます。 この後、`{{member.webinar URL}}` トークンを使用して、この一意の URL を含む確認メールを送信できます。
 >
 >登録エラーが発生した場合、その担当者には確認メールは送信されません。
 

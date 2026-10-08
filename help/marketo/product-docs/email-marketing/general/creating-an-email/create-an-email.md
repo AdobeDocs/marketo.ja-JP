@@ -4,26 +4,32 @@ description: Marketoで電子メールを作成する方法を説明します。
 title: メールを作成する
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/OUlBdV1N1VktO-yvX5r11KPiaemdCIInxwpzvJ65xFg
+TQID: 'https://experienceleague.adobe.com/OUlBdV1N1VktO-yvX5r11KPiaemdCIInxwpzvJ65xFg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 223
+source-wordcount: '223'
 ht-degree: 90%
-
 ---
-
 # メールを作成する {#create-an-email}
 
 Marketo でメールを作成する方法は主に 2 つあります。 両方を見てみましょう。
 
-## Design Studio でメールを作成する {#create-an-email-in-the-design-studio}
+## デザインスタジオでのメールの作成 {#create-an-email-in-the-design-studio}
 
-1. **[!UICONTROL Design Studio]** に移動します。
+1. **[!UICONTROL デザインスタジオ]**&#x200B;に移動します。
 
    ![](assets/create-an-email-1.png)
 
@@ -67,7 +73,7 @@ Marketo でメールを作成する方法は主に 2 つあります。 両方�
 
    選択したテンプレートに応じて、メールを編集するための様々なオプションが表示されます。 モジュールを含むメールの場合は、「[モジュールをメールに追加する](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md)」を参照してください。
 
-これでメールが作成されたので、編集します。
+これでメールが作成されたので、ぜひ編集してみてください。
 
 >[!MORELIKETHIS]
 >

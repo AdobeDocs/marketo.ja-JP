@@ -4,24 +4,28 @@ description: CRMとSalesforceのセールスコネクトのカスタマイズに
 title: CRM 用の [!DNL Sales Connect] のカスタマイズ
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/rBfS1XRSdxIS5lQtn7wuPbW8ZqpKKqwAl7z5OnH0wmA
+TQID: 'https://experienceleague.adobe.com/rBfS1XRSdxIS5lQtn7wuPbW8ZqpKKqwAl7z5OnH0wmA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 692
+source-wordcount: '692'
 ht-degree: 97%
-
 ---
-
 # CRM 用の [!DNL Sales Connect] のカスタマイズ {#sales-connect-customizations-for-crm}
 
-以下のフィールドとボタンは、Salesforce CRM のメタデータ API によって作成されます。 フィールドを作成したら、管理者は、CRM でページのレイアウトを設定して公開する必要があります。 手順は[こちら](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)にあります。
+以下のフィールドとボタンは、Salesforce CRM のメタデータ API によって作成されます。 フィールドを作成したら、管理者は CRM でページレイアウトを設定し、それらのフィールドが表示されるようにする必要があります。 手順は[こちら](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/mse-for-sf-classic.pdf)にあります。
 
 ## [!DNL Salesforce] でのカスタマイズのインストール方法 {#how-to-install-customizations-in-salesforce}
 
@@ -73,7 +77,7 @@ ht-degree: 97%
 
    ![](assets/sales-connect-customizations-for-crm-10.png)
 
-完了すると、カードに「Sales Connect のカスタマイズは最新です」と表示されます。
+完了すると、カードに「セールスコネクトのカスタマイズは最新の状態になっています。」と表示されます。
 
 ![](assets/sales-connect-customizations-for-crm-11.png)
 
@@ -89,7 +93,7 @@ Marketo は、新しいフィールドの作成を検出し、1 回限りのデ�
 <tbody>
   <tr>
     <td>MSE 電話ローカルプレゼンス ID</td>
-    <td>ユーザは、MSE 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。 着信電話は、受信者のローカル番号を表示します。</td>
+    <td>ユーザーは、MSE 電話から電話をかける際に、「ローカルプレゼンス」をオプションとして選択できます。 着信電話は、受信者のローカル番号を表示します。</td>
   </tr>
   <tr>
     <td>MSE 電話録音 URL</td>
@@ -129,11 +133,11 @@ Marketo は、新しいフィールドの作成を検出し、1 回限りのデ�
   </tr>
   <tr>
     <td>MSE メールテンプレート URL</td>
-    <td>MSE で作成されたテンプレートの URL を記録します。 これをクリックすると、MSE web アプリでテンプレートが開きます。</td>
+    <td>MSE で作成されたテンプレートの URL を記録します。 これをクリックすると、MSE の web アプリでテンプレートが開きます。</td>
   </tr>
   <tr>
     <td>MSE メール URL</td>
-    <td>この URL をクリックすると、MSE でコマンドセンターが開き、「リード詳細表示の履歴」タブが前面表示され、送信されたメールを確認できます。</td>
+    <td>この URL をクリックすると、MSE で Command Center が開き、送信済みメールを確認できる人物の詳細ビューの「履歴」タブが表示されます。</td>
   </tr>
   <tr>
     <td>MSE メールの表示</td>
@@ -171,15 +175,15 @@ Marketo は、新しいフィールドの作成を検出し、1 回限りのデ�
   </tr>
   <tr>
     <td>MSE - セールスによる最終アクティビティ</td>
-    <td>セールスチームが最後に実行した外部アクティビティ。</td>
+    <td>セールスチームが最後に実行した送信アクティビティ。</td>
   </tr>
   <tr>
     <td>MSE - 最終返信</td>
-    <td>セールスメールに最後に返信したメール。</td>
+    <td>セールスメールに対する最後のメール返信。</td>
   </tr>
   <tr>
     <td>MSE - 現在のセールスキャンペーン</td>
-    <td>リード／取引先責任者がメンバーの MSE キャンペーンの名前を記録します。</td>
+    <td>リード／取引先責任者がメンバーの MSE キャンペーン名を記録します。</td>
   </tr>
   <tr>
     <td>MSE - 最終セールスエンゲージメント</td>
@@ -237,7 +241,7 @@ Marketo は、新しいフィールドの作成を検出し、1 回限りのデ�
 </tbody>
 </table>
 
-## ユーザガイド {#user-guides}
+## ユーザーガイド {#user-guides}
 
 [Salesforce の MSE カスタムレポート](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/assets/reports-and-dashboards.pdf)
 

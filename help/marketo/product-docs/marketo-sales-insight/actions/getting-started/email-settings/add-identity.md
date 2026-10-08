@@ -3,16 +3,18 @@ description: Sales Insight Actionsで電子メール IDを追加する方法を�
 title: ID を追加
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Ks7LppvQ13D6463U27VN7UMbjS8lfx2WAxii9XCxAig
+TQID: 'https://experienceleague.adobe.com/Ks7LppvQ13D6463U27VN7UMbjS8lfx2WAxii9XCxAig'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 197
+source-wordcount: '197'
 ht-degree: 89%
-
 ---
-
 # ID を追加 {#add-identity}
 
 送信元のメールアドレスが複数ある場合は、ID を追加します。
@@ -41,7 +43,7 @@ ht-degree: 89%
 
    ![](assets/add-identity-5.png)
 
-Marketo Sales でメールを送信し、複数の ID を持っている場合、それらを切り替えることができます。
+Marketo Sales で複数の ID を使用してメールを送信する場合、切替スイッチでそれらを切り替えることができます。
 
 >[!NOTE]
 >

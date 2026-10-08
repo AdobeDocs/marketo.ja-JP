@@ -3,19 +3,25 @@ description: Dynamic Chatの個別のチャット会話としてのダイアロ�
 title: ダイアログの概要
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-TQID: https://experienceleague.adobe.com/rO2ieaHlOARDMHbJq006NUub2UD-FTKQIj5VYXF9NqI
+TQID: 'https://experienceleague.adobe.com/rO2ieaHlOARDMHbJq006NUub2UD-FTKQIj5VYXF9NqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '272'
 ht-degree: 85%
-
 ---
-
 # ダイアログの概要 {#dialogue-overview}
 
 ダイアログは個々のチャットの会話です。 各ダイアログで、特定のチャット会話を表示する場所、表示する対象者、会話の内容を決定します。 各ダイアログには、効果を監視できる独自のレポートページもあります。
@@ -41,7 +47,7 @@ ht-degree: 85%
 <table>
  <tr>
   <td><strong>トリガーされた合計</strong></td>
-  <td>訪問者がダイアログに資格を与えるたびに、または表示されるたびに増分されます。
+  <td>訪問者がダイアログの表示条件を満たす、またはダイアログが表示されるたびにカウントが増加します。
 </td>
  </tr>
  <tr>
@@ -50,25 +56,25 @@ ht-degree: 85%
  </tr>
  <tr>
   <td><strong>完了</strong></td>
-  <td>訪問者がダイアログのブランチの終わりに達するたびに増分されます。</td>
+  <td>訪問者がダイアログ内の任意の分岐の終わりに達するたびにカウントが増加します。</td>
  </tr>
  <tr>
   <td><strong>獲得した人物</strong></td>
-  <td>訪問者がダイアログフローで有効な電子メールアドレスを指定するたびに増分されます。</td>
+  <td>訪問者がダイアログフロー内で有効なメールアドレスを入力するたびにカウントが増加します。</td>
  </tr>
  <tr>
   <td><strong>予約済みの会議</strong></td>
-  <td>訪問者がチャットボット経由で予定のスケジュールを正常に設定するたびに増分します。</td>
+  <td>訪問者がチャットボット経由で予定を正常に予約するたびにカウントが増加します。</td>
  </tr>
  <tr>
   <td><strong>達した目標</strong></td>
-  <td>訪問者がダイアログフローの目標に達するたびに増分します。</td>
+  <td>訪問者がいずれかのダイアログフローで目標に達するたびにカウントが増加します。</td>
  </tr>
 </table>
 
 ## すべてのダイアログを無効／有効にする {#disable-enable-all-dialogues}
 
-すべての公開ダイアログを同時に無効（または再度有効）にできます。
+すべての公開ダイアログを同時に無効にする（および再度有効にする）ことができます。
 
 1. 動的チャットで、「**[!UICONTROL 設定]**」タブをクリックします。
 

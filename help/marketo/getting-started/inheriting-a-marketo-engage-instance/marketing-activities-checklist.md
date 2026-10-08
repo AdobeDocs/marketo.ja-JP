@@ -1,16 +1,20 @@
 ---
-description: 継承インスタンス マーケティングアクティビティのチェックリスト - Marketo ドキュメント - 製品ドキュメント
+description: 引き継いだインスタンスのマーケティングアクティビティチェックリスト - Marketo Docs - 製品ドキュメント
 title: 継承インスタンス マーケティングアクティビティのチェックリスト
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '855'
-ht-degree: 93%
-
+source-wordcount: '906'
+ht-degree: 94%
 ---
-
-# 継承インスタンス：マーケティングアクティビティのチェックリスト {#inherited-instance-marketing-activities-checklist}
+# 継承インスタンス：マーケティングアクティビティチェックリスト {#inherited-instance-marketing-activities-checklist}
 
 Marketo Engage インスタンス内の様々なプログラムを他のユーザが見つけて管理し、マーケティングからセールスにリードを確実に移行できるように、「マーケティングアクティビティ」セクションを適切に整理します。 忘れずに[チェックリストをダウンロード](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)し、進捗状況を追跡してください。
 
@@ -36,7 +40,7 @@ Marketo Engage インスタンス内の様々なプログラムを他のユー�
 <li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" target="_blank">期間原価</a>は設定されていますか？</li>
 <li>すべてのプログラムは <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">SFDC キャンペーンに同期</a>されていますか（該当する場合）？</li>
 <li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">新規顧客獲得プログラム</a>を対象者に割り当てるフローステップはありますか？</li>
-<li>プログラムテンプレートの中央の場所は設定されていますか？
+<li>プログラムテンプレートを一元管理する場所は設定されていますか？
    <br/>     設定されていない場合は、<a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Marketo Engage プログラムライブラリ</a>にあるいくつかの事前定義済みプログラムの例から選択してください。</li></td>
   </tr>
   <tr>
@@ -96,12 +100,12 @@ Marketo Engage インスタンス内の様々なプログラムを他のユー�
   <tr>
    <td>ローカルフォーム</td>
    <td><li>ローカル<a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md" target="_blank">フォーム</a>を含むプログラムはいくつありますか？ これらのフォームをグローバルフォームに変換する必要がありますか？</li>
-<li>ローカルフォームは、マーケティングチームやセールスチームに適したデータを収集していますか？</li>
-<p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：データプライバシーポリシーとオプトイン／オプトアウトポリシーの更新および変更への調整を容易にするために、ローカルフォームの数を制限します。 フォームを作成する際、どのような質問をする必要がありますか？ 収集された情報が変更されず、高度なフォーム機能が変わらない場合は、ローカルフォームではなくグローバルフォームの使用を検討してください。</td>
+<li>それらは、マーケティングチームやセールスチームに適したデータを収集していますか？</li>
+<p><img src="assets/tip-icon.png" alt="ヒントアイコン">ヒント：データプライバシーポリシーとオプトイン／オプトアウトポリシーの更新および変更への調整を容易にするために、ローカルフォームの数を制限しましょう。 フォームを作成する際、どのような質問をする必要がありますか？ 収集された情報が変更されず、高度なフォーム機能が変わらない場合は、ローカルフォームではなくグローバルフォームの使用を検討してください。</td>
   </tr>
   <tr>
    <td>グローバルフォーム</td>
-   <td><li><a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">グローバルフォーム</a>をどこで使用しますか （Marketo Engage のランディングページ、または Marketo Engage 以外のランディングページ）？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/settings/global-form-validation-rules.md" target="_blank">グローバルフォーム</a>をどこで使用しますか （Marketo Engage のランディングページと Marketo Engage 以外のランディングページ）</li>
 <li>グローバルフォームはどのようにユーザを<a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md" target="_blank">サンキューページ</a>へ誘導しますか（非表示のフォームフィールドまたは CMS のページテンプレート内）？</li>
 <li>追加または削除を検討する必要があるフォームフィールドはありますか？</li>
 <li>変更する必要のある選択リストの値はありますか？</li>
@@ -123,7 +127,7 @@ Marketo Engage インスタンス内の様々なプログラムを他のユー�
   <tr>
    <td>個人スコアリング</td>
    <td><li>一元的な<a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">個人スコアリング</a>プログラムを導入していますか？</li>
-<li>個人スコアリングは、スコアの増減に対応していますか？</li></td>
+<li>人物スコアリングでは、スコアが増加する場合と減少する場合の両方を考慮していますか？</li></td>
   </tr>
   <tr>
    <td>人物のソース</td>
@@ -151,9 +155,9 @@ Marketo Engage インスタンス内の様々なプログラムを他のユー�
   </tr>
   <tr>
    <td>メール配信品質</td>
-   <td><li>過去数か月間の送信に関する<a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">メールパフォーマンスレポート</a>を取得します。 メールの配信品質はどのように表示されますか？</li>
+   <td><li>過去数か月間の送信に関する<a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">メールパフォーマンスレポート</a>を取得します。 メールの配信品質はどのような状況ですか？</li>
 <li>電子メールの配信品質が希望するほど強力でない場合は、<a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPFやDKIM</a>などの電子メールの配信品質のベストプラクティスを調査して実装することを検討してください。</li>
-<li>市場価値のあるオーディエンス全体にリーチできていますか？</li></td>
+<li>マーケティング対象となるオーディエンス全体にリーチできていますか？</li></td>
   </tr>
   <tr>
    <td>サブスクリプション／環境設定センター</td>

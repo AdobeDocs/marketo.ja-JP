@@ -4,21 +4,25 @@ description: Marketo ON24 アダプタを使用してイベントを作成する
 title: Marketo ON24 アダプターを使用したイベントの作成
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-TQID: https://experienceleague.adobe.com/LlMV9lfVxqvMh0E-6K3aStBiqOERGIKJOYSyJdaBvFw
+TQID: 'https://experienceleague.adobe.com/LlMV9lfVxqvMh0E-6K3aStBiqOERGIKJOYSyJdaBvFw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 303
+source-wordcount: '303'
 ht-degree: 75%
-
 ---
-
 # Marketo ON24 アダプターを使用したイベントの作成 {#create-an-event-with-the-marketo-on-adapter}
 
 Marketo でイベントを作成するための構成要素と推奨されるシーケンスについて理解しておく必要があります。 また、次の Marketo のコンセプトに関する実務知識も必要です。
@@ -34,7 +38,7 @@ Marketo でイベントを作成するための構成要素と推奨されるシ
 
 ## 前提条件 {#prerequisites}
 
-Marketo ON24 統合を使用するには、次の操作が必要です。
+Marketo ON24 統合を使用するには、次の項目が必要です。
 
 * **ON24 webcast のサブスクリプション** - 現在のサブスクリプションをお持ちでない場合は、ON24 に直接お問い合わせください。 **注意**:ON24 Hosted Edition が必要です。 ON24 イベント管理は不要です。
 
@@ -53,4 +57,4 @@ Marketo ON24 アダプターを使用してイベントを作成するには、�
 1. [ON24 イベント統合のテスト](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/test-your-on24-event-integration.md){target="_blank"}
 1. [ON24 イベント統合の例](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md){target="_blank"}
 1. [ウェビナープログラムのステータスについて](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md){target="_blank"}
-1. [ON24 イベント登録のアップデート](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}
+1. [ON24 イベント登録の更新](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md){target="_blank"}

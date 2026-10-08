@@ -5,27 +5,32 @@ title: メールエディター 2.0 への移行
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/aRQmCh8C9S72AF97qGor8q3FjCQEjV6DmrnR05ozsTs
+TQID: 'https://experienceleague.adobe.com/aRQmCh8C9S72AF97qGor8q3FjCQEjV6DmrnR05ozsTs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 634
+source-wordcount: '626'
 ht-degree: 55%
-
 ---
-
 # [!DNL Email Editor 2.0] への移行 {#transitioning-to-email-editor}
 
 2019年6月のリリース時点で、すべての Marketo サブスクリプションは [!DNL Email Editor 2.0] に移行されています。 [!DNL Email Editor 1.0] の非推奨（廃止予定）について詳しくは、[こちら](https://nation.marketo.com/docs/DOC-7038)を参照してください。
 
-サブスクリプション内のメールとメールテンプレートには、バージョン番号が必要です。 そのバージョンは、アセットの概要ページに表示されます。
+購読内のメールとメールテンプレートには、バージョン番号が必要です。 そのバージョンは、アセットの概要ページに表示されます。
 
 ![](assets/five-5.png)
 
-デフォルトでは、2016 年春のリリースより前、またはメールエディター 2.0 が無効になったリリースより後に作成された場合、既存のすべてのメールおよびメールテンプレートは v1.0 としてマークされます。 メールエディター 2.0 が自動的に有効になったため、次の動作が発生します。
+デフォルトでは、2016年春のリリースより前、またはメールエディター 2.0 が無効になっていたリリースより後に作成された既存のすべてのメールおよびメールテンプレートは、v1.0 としてマークされます。 現在はメールエディター 2.0 が自動的に有効になっているため、次のような動作になります。
 
 * 新しいメールを作成する場合、[メールテンプレート選択ツール](email-template-picker-overview.md)が表示され、v2.0 のメールテンプレートを選択できるようになります。
 * [!DNL Email Editor 2.0] でメールを作成または編集すると、結果のメールは&#x200B;**常に** v2.0 としてマークされます（v1.0 のメールテンプレートが使用されている場合も含む）。
@@ -64,7 +69,7 @@ ht-degree: 55%
 
 * 承認済みのメールテンプレートが変更されることは&#x200B;**ありません**。
 
-* **まれ**&#x200B;に、v1.0 メールを [!DNL Email Editor 2.0] で開くことができない場合があります。 その場合は、ドラフトを破棄して、Marketo サポートにお問い合わせください。
+* **まれ**&#x200B;に、v1.0 メールを [!DNL Email Editor 2.0] で開くことができない場合があります。 その場合は、下書きを破棄して、Marketo サポートにお問い合わせください。
 
 >[!MORELIKETHIS]
 >

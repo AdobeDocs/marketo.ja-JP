@@ -3,16 +3,18 @@ description: セールスコネクトでの通話理由を理解します。 結
 title: 通話理由
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/XNu9fMEF6EPqkCW-EIpuirNtR1w3mPAg5GNZYj6mKnQ
+TQID: 'https://experienceleague.adobe.com/XNu9fMEF6EPqkCW-EIpuirNtR1w3mPAg5GNZYj6mKnQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 89%
-
 ---
-
 # 通話理由 {#call-reasons}
 
 セールスチームが電話をかける際に通話理由を選択できるようにし、チームが通話の理由を把握できるようにします。
@@ -63,7 +65,7 @@ ht-degree: 89%
 
 ## 通話理由の選択 {#select-a-call-reason}
 
-通話理由が有効になったら、 ユーザは、通話する際に 1 つ選択できます。
+通話理由が有効になっている場合、ユーザは通話中に通話理由を選択できます。 ユーザは、通話する際に 1 つ選択できます。
 
 1. 通話ボタンをクリックして、ダイヤラーを起動します。
 

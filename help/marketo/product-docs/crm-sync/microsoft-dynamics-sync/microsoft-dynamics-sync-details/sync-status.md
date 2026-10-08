@@ -4,16 +4,21 @@ description: Microsoft Dynamicsの同期ステータスと、スループット�
 title: 同期ステータス
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/GPyQNHoAdVHHBUSbkTTupH02XNnlD3UESZsxMpuJK3Q
+TQID: 'https://experienceleague.adobe.com/GPyQNHoAdVHHBUSbkTTupH02XNnlD3UESZsxMpuJK3Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 186
+source-wordcount: '186'
 ht-degree: 66%
-
 ---
-
 # 同期ステータス {#sync-status}
 
 「[!UICONTROL 同期ステータス]」タブと「[!UICONTROL 同期エラー]」タブで、同期プロセスの現在のスループットとバックログをタブに保つことができます。
@@ -30,7 +35,7 @@ ht-degree: 66%
 
    この表は、オブジェクトごとに、まだ同期されていない挿入と更新のバックログを示しています。
 
-1. 任意の行をダブルクリックして、商談情報を表示します。
+1. 任意の行をダブルクリックして、商談情報を表示する。
 
    ![](assets/image2016-5-19-10-3a3-3a21.png)
 
@@ -52,7 +57,7 @@ ht-degree: 66%
 
 ## 「[!UICONTROL 同期エラー]」タブ {#sync-errors-tab}
 
-操作、方向、エラーコード、エラーメッセージなどの詳細との同期に失敗したリード（およびその他のオブジェクト）の参照、検索、エクスポートを行います。
+同期に失敗したリード（およびその他のオブジェクト）を、操作、方向、エラーコード、エラーメッセージなどの詳細情報とともに参照、検索、書き出しできます。
 
 ![](assets/image2016-5-19-10-3a26-3a35.png)
 

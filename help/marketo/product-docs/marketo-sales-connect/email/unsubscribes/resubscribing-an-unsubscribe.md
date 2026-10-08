@@ -4,19 +4,21 @@ description: Sales Connectで購読を解除した連絡先を再度購読する
 title: 登録解除の再登録
 exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/W215ia0s7e6sze5shnYJyExnzeezcmMRTKrXeJDcht4
+TQID: 'https://experienceleague.adobe.com/W215ia0s7e6sze5shnYJyExnzeezcmMRTKrXeJDcht4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 208
+source-wordcount: '208'
 ht-degree: 90%
-
 ---
-
 # [!UICONTROL 登録解除]の再登録 {#resubscribing-an-unsubscribe}
 
-メール受信に再びオプトインしたい場合があります。 ここでは、登録解除したメールを再びメール可能にする方法を示します。
+メール受信に再びオプトインしたい場合があります。 ここでは、購読解除した相手に再びメールを送信できるようにする方法を説明します。
 
 >[!NOTE]
 >
@@ -32,7 +34,7 @@ ht-degree: 90%
 
 1. [web アプリケーション](https://toutapp.com/login)に移動して、「**[!UICONTROL ユーザー]**」をクリックします。
 
-1. 詳細表示を開くユーザーを選択します。
+1. 人物を選択して、その人物の詳細ビューを開きます。
 
    ![](assets/two.png)
 
@@ -46,4 +48,4 @@ ht-degree: 90%
 
 >[!NOTE]
 >
->登録解除同期をオンにしている場合、Salesforce のレコードのオプトアウトボックスもオフにする必要があります。オフにしないと、夜間同期で、そのユーザが [!DNL Salesforce] でオプトアウトされていることが検出され、[!DNL Sales Connect] でそのユーザの登録が解除されます。 いずれかのレコードがオプトアウト／登録解除された場合、同期により、リンクされたレコードがそのようにマークされます。
+>登録解除同期をオンにしている場合、Salesforce のレコードのオプトアウトボックスもオフにする必要があります。オフにしないと、夜間同期で、そのユーザが [!DNL Salesforce] でオプトアウトされていることが検出され、[!DNL Sales Connect] でそのユーザの登録が解除されます。 いずれかのレコードがオプトアウト／購読解除になっている場合、同期によりリンクされたレコードも同様にマークされます。

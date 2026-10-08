@@ -1,26 +1,29 @@
 ---
 unique-page-id: 2360315
 description: 新しい人物パーティションを作成し、名前を付けて、ワークスペースに割り当てる手順。
-title: 人物パーティションの作成
+title: 顧客パーティションの作成
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-TQID: https://experienceleague.adobe.com/4g-iqBI-P6rlgXmXFFqVpK5cJlCv3ZqVV4EcOSuu6tE
+TQID: 'https://experienceleague.adobe.com/4g-iqBI-P6rlgXmXFFqVpK5cJlCv3ZqVV4EcOSuu6tE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b4e49ca2-9149-5443-90e6-11978bb87c2f
+    internal-label: Partitions
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 83
+source-wordcount: '83'
 ht-degree: 72%
-
 ---
-
 # 人物パーティションの作成 {#create-a-person-partition}
 
-以下の手順に従って、新しい人物パーティションを作成します。
+以下の手順に従って、新しい顧客パーティションを作成します。
 
 >[!NOTE]
 >

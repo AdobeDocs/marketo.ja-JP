@@ -1,27 +1,29 @@
 ---
 description: Marketoのインタラクティブウェビナーの詳細。 最初のインタラクティブなウェビナーを作成して配信するための前提条件、主要な概念、手順について説明します。
-title: インタラクティブウェビナーの基本を学ぶ
+title: インタラクティブウェビナー入門
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-TQID: https://experienceleague.adobe.com/u7P-Uv0T5fiVcT2WlMpQjsoQSxWt2alZhIJCi--H-5c
+TQID: 'https://experienceleague.adobe.com/u7P-Uv0T5fiVcT2WlMpQjsoQSxWt2alZhIJCi--H-5c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 295
-ht-degree: 3%
-
+source-wordcount: '295'
+ht-degree: 4%
 ---
-
-# インタラクティブウェビナーの基本を学ぶ {#get-started-with-interactive-webinars}
+# インタラクティブウェビナー入門 {#get-started-with-interactive-webinars}
 
 そこで、[&#x200B; インタラクティブウェビナーの概要](/help/marketo/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md){target="_blank"}{target="_blank"}を読み、次に進む準備ができました。 次の手順に従って開始してください。
 
 ![](assets/get-started-with-interactive-webinars-1.png)
 
-## 今後の施策 {#what-to-do}
+## 必要なアクション {#what-to-do}
 
 **手順1**: [&#x200B; ユーザーを追加](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"}。 インタラクティブウェビナーへのアクセス用にユーザーを追加（必要に応じて削除）する方法を説明します。
 

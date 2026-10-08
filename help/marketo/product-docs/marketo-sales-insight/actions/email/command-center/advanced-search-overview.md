@@ -3,16 +3,18 @@ description: コマンドセンターで高度な検索を使用して、メー�
 title: 詳細検索の概要
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk
+TQID: 'https://experienceleague.adobe.com/J-LNmjNNqY98t8gHi9-nRTds113phlyIb66MWyvJagk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 445
+source-wordcount: '445'
 ht-degree: 94%
-
 ---
-
 # 詳細検索の概要 {#advanced-search-overview}
 
 詳細検索を利用して、メールを閲覧したりクリックしたり、メールに返信した見込み客をターゲットすることで、最もエンゲージメントの高い見込み客のターゲットリストを作成できます。
@@ -60,11 +62,11 @@ ht-degree: 94%
  </tr>
  <tr>
   <td><strong>[!UICONTROL グループ別]</strong></td>
-  <td>特定の受信者グループでメールをフィルタリングします。</td>
+  <td>特定の受信者グループでメールをフィルターします。</td>
  </tr>
  <tr>
   <td><strong>[!UICONTROL 人物別]</strong></td>
-  <td>特定の受信者でフィルタリングします。</td>
+  <td>特定の受信者でフィルターします。​</td>
  </tr>
 </table>
 
@@ -76,13 +78,13 @@ ht-degree: 94%
 
 **キャンペーン**
 
-キャンペーン参加でメールをフィルタリングします。
+キャンペーンへの参加状況でメールをフィルターします。
 
 ![](assets/advanced-search-overview-8.png)
 
 **ステータス**
 
-選択できるメールステータスは 3 つあります。 選択したステータスに応じて、タイプ／アクティビティのオプションが変わります。
+選択できるメールステータスは 3 つあります。 選択したステータスに応じて、タイプ／アクティビティのオプションが変更されます。
 
 ![](assets/advanced-search-overview-9.png)
 
@@ -90,13 +92,13 @@ _&#x200B;**ステータス：送信済み**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
-送信したメールアクティビティ別にフィルタリングします。 [!UICONTROL 表示回数]／[!UICONTROL 表示なし]、[!UICONTROL クリック数]／[!UICONTROL クリックなし]、[!UICONTROL 返信数]／[!UICONTROL 返信なし]を選択できます。
+送信したメールアクティビティ別にフィルターします。 [!UICONTROL 表示回数]／[!UICONTROL 表示なし]、[!UICONTROL クリック数]／[!UICONTROL クリックなし]、[!UICONTROL 返信数]／[!UICONTROL 返信なし]を選択できます。
 
 _&#x200B;**ステータス：保留中**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
-保留中のすべてのメールでフィルタリングします。
+保留中のすべてのメールでフィルターします。
 
 <table>
  <tr>
@@ -121,7 +123,7 @@ _&#x200B;**ステータス：未配信**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 
-配信されなかったメールでフィルタリングします。
+配信されなかったメールでフィルターします。
 
 <table>
  <tr>
@@ -130,11 +132,11 @@ _&#x200B;**ステータス：未配信**&#x200B;_
  </tr>
  <tr>
   <td><strong>[!UICONTROL 失敗]</strong></td>
-  <td>Sales Connect からのメール送信に失敗した場合（一般的な理由は次のとおりです。登録解除された／ブロック済み取引先責任者に送信されたメール、または動的フィールドへの入力で問題が発生した場合）。</td>
+  <td>セールスコネクトからのメール送信に失敗した場合（一般的な理由としては、購読解除済み／ブロック済みの取引先責任者にメールが送信された場合や、動的フィールドの入力に問題があった場合など）が該当します。</td>
  </tr>
  <tr>
   <td><strong>[!UICONTROL バウンス済み]</strong></td>
-  <td>メールは、受信者のサーバーによって拒否された場合、バウンス済みとしてマークされます。 Sales Connect サーバー経由で送信されたメールのみがここに表示されます。</td>
+  <td>メールは、受信者のサーバーによって却下された場合、バウンス済みとしてマークされます。 Sales Connect サーバー経由で送信されたメールのみがここに表示されます。</td>
  </tr>
  <tr>
   <td><strong>[!UICONTROL スパム]</strong></td>
@@ -144,7 +146,7 @@ _&#x200B;**ステータス：未配信**&#x200B;_
 
 ## 保存した検索条件 {#saved-searches}
 
-検索条件を保存する方法を次に示します。
+保存した検索条件を作成する方法を次に示します。
 
 1. すべてのフィルターを設定したら、「**[!UICONTROL フィルターに名前を付けて保存]**」をクリックします。
 

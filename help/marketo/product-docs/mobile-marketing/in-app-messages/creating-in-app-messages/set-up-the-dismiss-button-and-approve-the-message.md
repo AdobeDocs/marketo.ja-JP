@@ -4,23 +4,25 @@ description: 却下ボタンを設定し、アプリ内メッセージを承認�
 title: 却下ボタンの設定とメッセージの承認
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/YtWX8jXyDaZYPrWg-K-NEwKmX7EGAeJbrrIjrEyaJRA
+TQID: 'https://experienceleague.adobe.com/YtWX8jXyDaZYPrWg-K-NEwKmX7EGAeJbrrIjrEyaJRA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 377
+source-wordcount: '377'
 ht-degree: 82%
-
 ---
-
 # 却下ボタンの設定とメッセージの承認 {#set-up-the-dismiss-button-and-approve-the-message}
 
-## 「閉じる」ボタンプロパティを設定する  {#configure-dismiss-button-properties}
+## 閉じるボタンプロパティの設定  {#configure-dismiss-button-properties}
 
-「閉じる」ボタンには、様々なオプションを使用して、好きなように設定できます。
+閉じるボタンには、好みに合わせて設定できる多くのオプションがあります。
 
-1. エディターで、「閉じる」ボタンをクリックします。
+1. エディターで、閉じるボタンをクリックします。
 
    ![](assets/image2016-5-9-10-3a23-3a37.png)
 
@@ -36,7 +38,7 @@ ht-degree: 82%
    >
    >ドロップダウンから別のデザインを選択すると、ボタンの色が白の背景に白の X で表示される場合があります。 その場合は、色選択の四角形で黒または別の色を選択して、白の X を表示します。
 
-1. ボタンの左隅をクリックすると、「閉じる」ボタンを左に移動できます（デフォルトは右側です）。
+1. 左隅のボタンをクリックすると、「閉じる」ボタンを左に移動できます（デフォルトは右側です）。
 
    ![](assets/image2016-5-9-10-3a39-3a5.png)
 
@@ -56,7 +58,7 @@ ht-degree: 82%
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
-1. アプリ内メッセージが正しく表示されるかどうかをスマートフォンまたはタブレットでプレビューします。
+1. アプリ内メッセージが正しく表示されるかどうかを、スマートフォンまたはタブレットでプレビューして確認します。
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 

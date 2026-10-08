@@ -4,16 +4,21 @@ description: SalesforceのアクティビティとタスクをMarketoに同期�
 title: SFDC 同期 - アクティビティ同期
 exl-id: 780e9cb7-b8b2-4a79-a0b8-d9d34a655330
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/N-pw1q0NXaJGKW1J1R4iqhgXhA42sX5nP0OWPXCuaBc
+TQID: 'https://experienceleague.adobe.com/N-pw1q0NXaJGKW1J1R4iqhgXhA42sX5nP0OWPXCuaBc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: '175'
 ht-degree: 86%
-
 ---
-
 # SFDC 同期：アクティビティ同期 {#sfdc-sync-activity-sync}
 
 Marketo は、[!DNL Salesforce] アクティビティデータを介して同期も行います。 質問と回答をいくつか示します。
@@ -39,9 +44,9 @@ Marketo は、リードまたは取引先責任者に関連付けられたイベ
 
 フィルター
 
-* アクティビティがログに記録されました／無操作状態が記録されました
-* アクティビティは更新されました／無操作状態が更新されました
+* アクティビティがログに記録されました／アクティビティがログに記録されていない
+* アクティビティが更新されました／アクティビティが更新されていない
 
 >[!TIP]
 >
->「無操作状態」という言葉はわかりにくいですが、 「無」は、無操作状態のフィルターを指します。 詳しくは、[スマートリストでの無操作状態フィルターの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}を参照してください。
+>「Not Activity」という表現がわかりにくいと感じるかもしれませんが、 ここでの「not」は、非アクティビティフィルター（Inactivity フィルター）を指します。 詳しくは、[スマートリストでの無操作状態フィルターの使用](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-inactivity-filters-in-a-smart-list.md){target="_blank"}を参照してください。

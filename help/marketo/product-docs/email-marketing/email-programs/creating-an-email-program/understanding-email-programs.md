@@ -4,21 +4,28 @@ description: メールプログラムとコントロールパネルについて�
 title: メールプログラムについて
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/XGvX0752QGmkdQ2qTq6dt27HJNCvso-e2xFXY99Y63E
+TQID: 'https://experienceleague.adobe.com/XGvX0752QGmkdQ2qTq6dt27HJNCvso-e2xFXY99Y63E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 332
+source-wordcount: '332'
 ht-degree: 93%
-
 ---
-
 # メールプログラムについて {#understanding-email-programs}
 
 ここ 1 か所で、メールを送信し、A/B テストを作成し、結果を追跡できます。
@@ -31,13 +38,13 @@ ht-degree: 93%
 
 ## A/B テスト {#a-b-testing}
 
-A/B テストを使用すると、どのメールが最適かを証明できます。
+A/B テストを使用すると、どのメールが最適かを判断できます。
 
 次の A/B テストについてご覧ください。
 
-* [「件名」A/B テストの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
-* [「メール全体」A/B テストの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
-* [「送信者アドレス」A/B テストの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
+* [「件名」A/B テスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-subject-line-a-b-testing.md)
+* [「メール全体」A/B テスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-whole-email-a-b-testing.md)
+* [「送信者アドレス」A/B テスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-from-address-a-b-testing.md)
 * [「日時」A/B テストの使用](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-date-time-a-b-testing.md)
 
 ![](assets/abtesthighlight.png)
@@ -56,7 +63,7 @@ A/B テストを使用すると、どのメールが最適かを証明できま�
 
 >[!TIP]
 >
->メールプログラムには詳細なレポートダッシュボードがあるため、スマートキャンペーン経由でメールを送信するよりもメールプログラムを使用した方が望ましい場合があります。
+>メールプログラムには詳細なレポートダッシュボードがあるため、スマートキャンペーン経由でメールを送信するよりも、メールプログラムを好んで使用するユーザもいます。
 
 ## ネスト {#nesting}
 
@@ -80,7 +87,7 @@ A/B テストを使用すると、どのメールが最適かを証明できま�
 
 ## スケジュールの設定 {#schedule-settings}
 
-メールプログラムについて理解したら、以下の関連記事の 1 つから始めまてください。
+メールプログラムについて理解したら、以下の関連記事の 1 つから始めてください。
 
 >[!MORELIKETHIS]
 >

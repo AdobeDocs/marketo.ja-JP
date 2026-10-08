@@ -4,20 +4,26 @@ description: メールエディター2.0でメールテンプレートを作成�
 title: メールテンプレートを作成する
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/VLvIcKbZdX6oqItqsbeRB01kCNDALI3CfYPxgdqI4E4
+TQID: 'https://experienceleague.adobe.com/VLvIcKbZdX6oqItqsbeRB01kCNDALI3CfYPxgdqI4E4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Troubleshooting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 285
+source-wordcount: '285'
 ht-degree: 93%
-
 ---
-
 # メールテンプレートを作成する {#create-an-email-template}
 
 新しいメールテンプレートを作成する手順は、以下のとおりです。
@@ -50,7 +56,7 @@ ht-degree: 93%
 
    >[!CAUTION]
    >
-   >ハードリミットはありませんが、500 を超えるメールでメールテンプレートが使用された場合、アップデート後にそのテンプレートを再承認するとパフォーマンスの問題が生じる可能性があります。 メールテンプレートに 500 のメールが関連付けられたら、新しいテンプレートを作成することをお勧めします。
+   >ハードリミットはありませんが、1 つのメールテンプレートが 500 通を超えるメールで使用されている場合、アップデート後にそのテンプレートを再承認するとパフォーマンスの問題が生じる可能性があります。 メールテンプレートに 500 のメールが関連付けられたら、新しいテンプレートを作成することをお勧めします。
 
 ## メールをテンプレートとして保存する {#save-an-email-as-a-template}
 
@@ -60,7 +66,7 @@ ht-degree: 93%
 
    ![](assets/one.png)
 
-1. メールを探して選択し、「**[!UICONTROL ドラフトを編集]**」をクリックします。
+1. メールを選択し、「**[!UICONTROL ドラフトの編集]**」をクリックします。
 
    ![](assets/two-1.png)
 

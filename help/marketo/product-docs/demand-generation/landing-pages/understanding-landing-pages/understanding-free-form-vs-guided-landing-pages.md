@@ -4,19 +4,25 @@ description: Marketoのフリーフォームとガイド付きランディング
 title: フリーフォームとガイド付きのランディングページについて
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/wfLJUpCFZ-40o1zHWdUBLiOOcUtGBbya2d8MQQ1JFlw
+TQID: 'https://experienceleague.adobe.com/wfLJUpCFZ-40o1zHWdUBLiOOcUtGBbya2d8MQQ1JFlw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: '187'
 ht-degree: 89%
-
 ---
-
 # フリーフォームとガイド付きのランディングページについて {#understanding-free-form-vs-guided-landing-pages}
 
 選択するテンプレートによって、作業するランディングページ編集モードが決まります。 [フリーフォーム](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)と[ガイド付き](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)の 2 つのパスが考えられます。 以下に、重要な違いの概要を示します。
@@ -36,6 +42,6 @@ ht-degree: 89%
 * エディターでカスタマイズできるのは、テンプレートで編集可能と定義された領域または変数だけです。
 * レイアウトを変更し、アセットを追加するには、コードを変更する必要があります。
 * デバイス間のルックアンドフィールは、テンプレートに組み込まれたルールによって決まります。
-* レスポンシブテンプレートをコーディングまたは購入した場合や、組み込みの Marketo テンプレートを変更したい場合に最適です。
+* レスポンシブテンプレートをコーディングまたは購入した場合や、事前定義済みの Marketo テンプレートを変更したい場合に最適です。
 
 ![](assets/two-1.png)

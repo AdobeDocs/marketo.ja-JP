@@ -4,19 +4,22 @@ description: Marketo Sales Insightで星と炎をカスタマイズする方法�
 title: 星と炎のカスタマイズ
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/UioVGSyJiAODYHHjcIpqJqZkO-psgtxKHyeIr-6-Sy4
+TQID: 'https://experienceleague.adobe.com/UioVGSyJiAODYHHjcIpqJqZkO-psgtxKHyeIr-6-Sy4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 186
+source-wordcount: '186'
 ht-degree: 89%
-
 ---
-
-# 星と炎のカスタマイズ {#customize-stars-and-flames}
+# 星と炎のカスタマイズ&#x200B; {#customize-stars-and-flames}
 
 [!DNL Marketo Sales Insight] は、星と炎を使用してリードに優先順位を付けます。 Marketo は、誰が 1-2-3 の星や炎を取得するかを自動的に決定します。 ただし、数式を変更することはできます。 手順は次のとおりです。
 
@@ -52,7 +55,7 @@ ht-degree: 89%
 
    >[!TIP]
    >
-   >開始率を編集するだけです。終了率は Marketo によって計算されます。
+   >開始パーセンテージを編集するだけで、終了パーセンテージは Marketo が自動的に計算します。
 
    ![](assets/image2014-9-16-13-3a38-3a49.png)
 

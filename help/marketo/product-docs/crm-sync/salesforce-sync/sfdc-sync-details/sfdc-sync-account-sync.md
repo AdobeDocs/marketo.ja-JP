@@ -4,17 +4,22 @@ description: アカウント情報をSalesforceからMarketoに同期する方�
 title: SFDC の同期 - アカウントの同期
 exl-id: 94f7a9e5-86ea-4bb4-9d78-96a09c61321d
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/vwdN66F4u7itA91F89GCxPfg0T7VUkchpKb69XDBReA
+TQID: 'https://experienceleague.adobe.com/vwdN66F4u7itA91F89GCxPfg0T7VUkchpKb69XDBReA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 240
+source-wordcount: '240'
 ht-degree: 90%
-
 ---
-
-# SFDC の同期：アカウントの同期 {#sfdc-sync-account-sync}
+# SFDC 同期：アカウント同期 {#sfdc-sync-account-sync}
 
 Marketo は、アカウント情報を [!DNL Salesforce] と同期します。 次に、知っておくべき点をいくつか示します。
 
@@ -24,7 +29,7 @@ Marketo は、アカウント情報を [!DNL Salesforce] と同期します。 �
 
 ## 更新の仕組み {#how-do-the-updates-work}
 
-Marketo で取引先責任者の「アカウント」フィールドを更新すると、Marketo でそのアカウントに属するすべての取引先責任者の値が変更されます。 SFDC とは同期しません。 ただし、次回 SFDC でアカウントが更新されたときは、Marketo のすべてのアカウント情報が変更によって上書きされます。
+Marketo で取引先責任者のアカウントフィールドを更新すると、Marketo でそのアカウントに属するすべての取引先責任者の値が変更されます。 SFDC とは同期しません。 ただし、次回 SFDC でアカウントが更新されたときは、Marketo のすべてのアカウント情報が変更によって上書きされます。
 
 ## 1 人の取引先責任者が複数のアカウントに属することはできますか？  {#can-a-contact-belong-to-multiple-accounts}
 
@@ -36,7 +41,7 @@ Marketo で取引先責任者の「アカウント」フィールドを更新す
 
 >[!CAUTION]
 >
->このフローステップの使用例は非常に限られています。 確かでないなら、使わない方がいいです。
+>このフローステップのユースケースは非常に限られています。 確かでないなら、使わない方がいいです。
 
 ## [!DNL Salesforce] の「アカウント」フィールドに変更を加えると、各取引先責任者のデータ値を変更アクティビティログが表示されますか？  {#does-a-change-in-an-account-field-in-salesforce-result-in-a-change-data-value-activity-log-for-each-contact}
 

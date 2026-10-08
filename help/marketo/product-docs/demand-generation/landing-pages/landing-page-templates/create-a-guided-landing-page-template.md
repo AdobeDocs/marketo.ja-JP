@@ -4,21 +4,26 @@ description: Marketoでガイド付きランディングページテンプレー
 title: ガイド付きランディングページテンプレートの作成
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o
+TQID: 'https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1132
-ht-degree: 79%
-
+source-wordcount: '1067'
+ht-degree: 77%
 ---
-
 # ガイド付きランディングページテンプレートの作成 {#create-a-guided-landing-page-template}
 
-ガイド付きランディングページテンプレートには、特別な構文があります。 この構文を使用して、カスタマイズ可能な内容と、テンプレートから作成された各ランディングページで最終的にコンテンツが生成される場所を指定します。 「ガイド付き」ランディングページエディター内でカスタマイズできるのは、編集可能として指定した地域または変数のみです。
+ガイド付きランディングページテンプレートには、特別な構文があります。 この構文を使用して、テンプレートから作成される各ランディングページで、何をカスタマイズできるか、またコンテンツがどこに配置されるかを指定します。 「ガイド付き」ランディングページエディター内でカスタマイズできるのは、編集可能として指定した地域または変数のみです。
 
 >[!TIP]
 >
@@ -118,7 +123,7 @@ src：文字列URL。 これは、画像のデフォルト値として使用さ�
 
 >[!NOTE]
 >
->ランディングページでビデオ要素を使用する場合、Marketo は YouTube のビデオのみをサポートします。 別のサービスを使用する場合は、リッチテキストボックスを使用してビデオの埋め込みコードに貼り付けることをお勧めします。
+>ランディングページでビデオ要素を使用する場合、Marketo は YouTube のビデオのみをサポートします。 別のサービスを使用する場合は、リッチテキストボックスを使用してビデオの埋め込みコードを貼り付けることをお勧めします。
 
 必須属性：
 
@@ -184,14 +189,14 @@ src：文字列URL。 これは、画像のデフォルト値として使用さ�
 **default**: ブール文字列。 「true」と「false」は、値が ON の位置で始まるか OFF の位置で始まるかを制御します。 指定しない場合は「false」。
 **false_value**：文字列。 変数が OFF 位置にあるときに挿入される値です。 指定しない場合は「false」。
 **true_value**：文字列。 変数が ON 位置にあるときに挿入される値です。 指定しない場合は「true」になります。
-**false_value_name**：文字列。 値がオフの位置にあるときにランディングページエディターに表示される表示名です。 指定しない場合は「OFF」。
-**true_value_name**：文字列。 値がオンの位置にある場合にランディングページエディターに表示される表示名です。 指定されていない場合は「ON」です。
+**false_value_name**：文字列。 値がオフのときにランディングページエディターに表示される表示名です。 指定しない場合は「OFF」。
+**true_value_name**：文字列。 値がオフのときにランディングページエディターに表示される表示名です。 指定されていない場合は「ON」です。
 
 基本的な例：`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 すべての属性を含む例：`<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="false" true_value="block" false_value="none" true_value_name="Show" false_value_name="Hide">`
 
-次の例は、ブール変数がcss display プロパティの値を「block」または「none」に設定してcss要素の表示を制御し、CSSでIDを使用して要素を表示または非表示にする一般的なユースケースを示しています。 ランディングページエディターでは、「オフ」／「オン」の代わりに、「表示」／「非表示」という表示名が使用されます。
+次の例は、ブール変数がcss display プロパティの値を「block」または「none」に設定してcss要素の表示を制御し、CSSでIDを使用して要素を表示または非表示にする一般的なユースケースを示しています。 ランディングページエディターでは、オン／オフの代わりに表示／非表示という表示名が使用されます。
 
 `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable" default="true" true_value="block" false_value="none" false_value_name="Hide" true_value_name="Show"> <style> #myConditionalDisplayArea { display: ${boolean1}; } </style>`
 

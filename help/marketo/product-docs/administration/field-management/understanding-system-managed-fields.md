@@ -1,24 +1,31 @@
 ---
 unique-page-id: 5472615
 description: 人物詳細ページの編集不可のシステム管理フィールドと、各フィールドタイプの意味について説明します。
-title: システム管理のフィールドについて
+title: システム管理フィールドの概要
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-TQID: https://experienceleague.adobe.com/sOznYUfM093OkRnq1071agybVC-JktkMBOQNsbeDA7g
+TQID: 'https://experienceleague.adobe.com/sOznYUfM093OkRnq1071agybVC-JktkMBOQNsbeDA7g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 537
+source-wordcount: '537'
 ht-degree: 92%
-
 ---
-
 # システム管理のフィールドについて {#understanding-system-managed-fields}
 
 [人物の詳細ページ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}には、Marketo によって作成される編集不可のフィールドがあることにお気付きかもしれません。 このデータはさまざまなソースから取得され、表示できる値は無数にあります。
@@ -33,11 +40,11 @@ ht-degree: 92%
 <tbody>
   <tr>
     <td>参照元のソースのタイプ</td>
-    <td>人物または Web サイト訪問者が最初に検出された場所（例：リストのインポート、Web ページへのアクセス）</td>
+    <td>人物またはサイト訪問者が最初に検出された場所（例：リスト読み込み、web ページ訪問）</td>
   </tr>
   <tr>
     <td>参照元のソース情報</td>
-    <td>その場所に関する詳細（例：リストの名前、Web ページの URL）</td>
+    <td>その場所に関する詳細（例：リスト名、web ページの URL）</td>
   </tr>
   <tr>
     <td>参照元検索エンジン</td>
@@ -45,7 +52,7 @@ ht-degree: 92%
   </tr>
   <tr>
     <td>参照元検索フレーズ</td>
-    <td>該当する場合には、人物を元のエントリーソースに誘導した検索語句</td>
+    <td>該当する場合には、人物を元のエントリーソースに誘導した検索語</td>
   </tr>
   <tr>
     <td>訪問者の参照元</td>
@@ -53,11 +60,11 @@ ht-degree: 92%
   </tr>
   <tr>
     <td>登録ソースのタイプ</td>
-    <td>最初に人物として記録されるためのアクティビティが起こった場所（例：リストのインポート、Web ページへのアクセス）</td>
+    <td>アクティビティが最初に人物として登録された場所（例：リスト読み込み、web ページ訪問）</td>
   </tr>
   <tr>
     <td>登録ソース情報</td>
-    <td>その場所に関する詳細（例：リストの名前、Web ページの URL）</td>
+    <td>その場所に関する詳細（例：リスト名、web ページの URL）</td>
   </tr>
   <tr>
     <td>匿名 IP</td>
@@ -93,7 +100,7 @@ ht-degree: 92%
   </tr>
 </tbody></table>
 
-## 「参照元のソースのタイプ」と「登録ソースのタイプ」で想定される値 {#possible-values-for-original-and-registration-source-type}
+## 「参照元ソースタイプ」と「登録ソースタイプ」で想定される値 {#possible-values-for-original-and-registration-source-type}
 
 想定される一部の値と、その意味は以下のとおりです。
 
@@ -117,7 +124,7 @@ ht-degree: 92%
   </tr>
   <tr>
     <td>リストのインポート</td>
-    <td>人物はリストのインポートから検出されました</td>
+    <td>人物はリストの読み込みから検出されました</td>
   </tr>
   <tr>
     <td>新規人物</td>
@@ -157,7 +164,7 @@ ht-degree: 92%
   </tr>
   <tr>
     <td>リードの関連付け</td>
-    <td>人物は人物の関連付け API 呼び出しを通じて結合されました</td>
+    <td>Associate Lead API 呼び出しによって結合された人物</td>
   </tr>
 </tbody></table>
 
@@ -181,7 +188,7 @@ ht-degree: 92%
   </tr>
   <tr>
     <td>セールスメール</td>
-    <td>リードにセールスインサイトメールアドイン経由でメールが送信されました</td>
+    <td>人物にセールスインサイトメールアドイン経由でメールが送信されました</td>
   </tr>
   <tr>
     <td>Web サービス API</td>
@@ -189,19 +196,19 @@ ht-degree: 92%
   </tr>
   <tr>
     <td>新規人物</td>
-    <td>人物はデータベースに手動で入力されました</td>
+    <td>データベースに手動で入力された人物</td>
   </tr>
   <tr>
     <td>Munchkin API</td>
-    <td>Marketo Munchkin API を通じてリードになりました</td>
+    <td>Marketo の Munchkin API を通じて人物になりました</td>
   </tr>
   <tr>
     <td>ソーシャルアプリ</td>
-    <td>ソーシャルウィジェットを通じて人物になりました</td>
+    <td>ソーシャルウィジェットを通じて人物として登録</td>
   </tr>
   <tr>
     <td>イベントパートナー</td>
-    <td>リンクされたウェビナーを通じてて人物になりました</td>
+    <td>リンクされたウェビナーサービスを通じて人物として登録</td>
   </tr>
 </tbody>
 </table>

@@ -4,16 +4,21 @@ description: 最後の手順では、MarketoとDynamics 2013 オンプレミス�
 title: 手順 3 / 3 - Marketo と Dynamics（2013 オンプレミス）の接続
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/pERYRYCLDigsARoh7aAWOTXRFmpIWKz8j-tgDb-ShTQ
+TQID: 'https://experienceleague.adobe.com/pERYRYCLDigsARoh7aAWOTXRFmpIWKz8j-tgDb-ShTQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 401
+source-wordcount: '401'
 ht-degree: 73%
-
 ---
-
 # 手順 3／3：Marketo と [!DNL Dynamics]（2013 オンプレミス）の接続 {#step-of-connect-marketo-and-dynamics-on-premises}
 
 ソリューションがインストールされ、同期ユーザーが設定されます。 次に、Marketoと[!DNL Dynamics]を接続します。
@@ -27,9 +32,9 @@ ht-degree: 73%
 >
 >**管理者権限が必要**
 
-## [!DNL Dynamics] 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
+## [!DNL Dynamics] 同期ユーザー情報の入力 {#enter-dynamics-sync-user-information}
 
-1. Marketo にログインし、**[!UICONTROL 管理]**&#x200B;をクリックします。
+1. Marketo にログインし、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/login-admin.png)
 
@@ -37,11 +42,11 @@ ht-degree: 73%
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. 「**[!DNL Microsoft]**」を選択します。
+1. **[!DNL Microsoft]** を選択します。
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. **[!UICONTROL 手順 1：資格情報を入力]**&#x200B;で「**[!UICONTROL 編集]**」をクリックします。
+1. **[!UICONTROL 手順 1：資格情報を入力]**&#x200B;の「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -86,7 +91,7 @@ ht-degree: 73%
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 下にスクロールしてフィールドを確認します。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。 「**[!UICONTROL 保存]**」をクリックします。
+1. 下にスクロールしてそのフィールドをチェックします。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意に設定できます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a11-3a4.png)
 
@@ -104,7 +109,7 @@ ht-degree: 73%
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メール通知が届きます。
+1. レコードの数によっては、初期同期に数時間から数日かかる場合があります。 完了すると、メールによる通知が届きます。
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 

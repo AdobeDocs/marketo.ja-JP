@@ -1,21 +1,23 @@
 ---
 unique-page-id: 11385938
 description: 画像、ボタンラベル、カテゴリーを使用して、メールの予測コンテンツを設定する方法を説明します。 予測コンテンツエディターで、メール用の承認済みコンテンツを有効にします。
-title: メールの予測コンテンツの編集
+title: メールの予測コンテンツを編集
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/e2NGmNJB2E1M1cUZy8bcLA5lLb-9a-j55LWYyfpow-o
+TQID: 'https://experienceleague.adobe.com/e2NGmNJB2E1M1cUZy8bcLA5lLb-9a-j55LWYyfpow-o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 256
+source-wordcount: '256'
 ht-degree: 82%
-
 ---
-
 # メールの予測コンテンツの編集 {#edit-predictive-content-for-emails}
 
 メールの予測コンテンツの設定方法を次に示します。
@@ -56,11 +58,11 @@ ht-degree: 82%
 
    ![](assets/five.png)
 
-1. スライダーをクリックしてドラッグし、画像サイズを変更します。 次に、切り抜きボックスをクリックしてドラッグし、使用する画像領域を分離します。 終了したら、「**[!UICONTROL プレビュー]**」をクリックします。
+1. スライダーをクリックしてドラッグし、画像サイズを変更します。 次に、切り抜きボックスをクリックしてドラッグし、使用する画像領域を切り抜きます。 終了したら、「**[!UICONTROL プレビュー]**」をクリックします。
 
    ![](assets/six.png)
 
-1. 各メールレイアウトプレビューで、横にある矢印をクリックして、コンテンツを表示します（2 つのオプションが表示されます）。
+1. サイドにある矢印をクリックしてスクロールし、各メールレイアウトプレビューでコンテンツを表示します（2 つのオプションが表示されます）。
 
    | ![](assets/sevena.png) | ![](assets/sevenb.png) |
    |---|---|
@@ -69,7 +71,7 @@ ht-degree: 82%
 
    ![](assets/eight.png)
 
-1. 「メールの予測コンテンツ」を有効にするには、チェックボックスをオンにします。
+1. チェックボックスをオンにして、メールで予測コンテンツを有効にします。
 
    ![](assets/nine.png)
 

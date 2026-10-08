@@ -4,19 +4,21 @@ description: 重複の可能性がある人物のアラートの自動化 - Mark
 title: 重複の可能性がある人物のアラートの自動化
 exl-id: 596c03f4-7a84-4564-bbe1-e7bc0d22a616
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI
+TQID: 'https://experienceleague.adobe.com/KfVFpkEwzpT-mt8iAEzjD5vRPOs-nsBAefttaHK6kpI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 168
+source-wordcount: '168'
 ht-degree: 100%
-
 ---
-
 # 重複の可能性がある人物のアラートの自動化 {#automate-an-alert-for-possible-duplicate-people}
 
-重複の可能性がある人物が作成されるたびにアラートを表示しますか？ スマートキャンペーンを設定する方法を以下に示します。
+重複の可能性がある人物が作成されるたびにアラートを受け取ることを希望しますか？ スマートキャンペーンを設定する方法を以下に示します。
 
 1. [新規スマートキャンペーンを作成します](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}。 以下のスマートリストを定義します。
 
@@ -39,7 +41,7 @@ ht-degree: 100%
 
    >[!CAUTION]
    >
-   >サイズの大きいリストをインポートすると、大量のアラートが表示される可能性があります。
+   >サイズの大きいリストを読み込むと、これらのアラートが一度に大量に届く可能性があります。
    >
    >また、同じ名前の 2 人が自動的に同じ人物であるとは限りません。
 

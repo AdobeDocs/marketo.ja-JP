@@ -1,22 +1,25 @@
 ---
 unique-page-id: 10100649
 description: アプリ内メッセージの背景を設定する方法について説明します。 色や画像を選択し、境界線とコーナーの半径を設定し、各プラットフォームにタップアクションを設定します。
-title: アプリ内メッセージの背景の設定
+title: アプリ内メッセージの背景を設定する
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/32bKrhka2wbsBdb5cFSm5xnY0UWOsrzf-kofqRsrKz4
+TQID: 'https://experienceleague.adobe.com/32bKrhka2wbsBdb5cFSm5xnY0UWOsrzf-kofqRsrKz4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 330
+source-wordcount: '330'
 ht-degree: 92%
-
 ---
-
 # アプリ内メッセージの背景の設定 {#set-up-the-in-app-message-background}
 
 メッセージの背景の選択は、アプリ内メッセージを完了するための重要な手順です。
@@ -53,11 +56,11 @@ ht-degree: 92%
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. オプションの画像の境界線を適用します。 デフォルト設定は&#x200B;**[!UICONTROL オフ]**&#x200B;です。 まず、色をクリックするか、カラーピッカーで 16 進数または RGB 番号を入力して、色を選択します。
+1. オプションの画像ボーダーを適用します。 デフォルト設定は&#x200B;**[!UICONTROL オフ]**&#x200B;です。 まず、色をクリックするか、カラーピッカーで 16 進数または RGB 番号を入力して、色を選択します。
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
-1. 矢印をクリックして境界線の太さを変更します。 この 12 ピクセル幅の緑の境界線で、アプリ内メッセージの外観が変わります。
+1. 矢印をクリックしてボーダーの太さを変更します。 この 12 ピクセル幅の緑のボーダーで、アプリ内メッセージの外観が変わります。
 
    ![](assets/image2016-5-9-9-3a58-3a38.png)
 
@@ -65,13 +68,13 @@ ht-degree: 92%
 
    ![](assets/image2016-5-6-9-3a39-3a28.png)
 
-1. 背景のタップアクションを設定する場合は、このチェックボックスをオンにします（デフォルトではオフ）。
+1. 背景のタップアクションを設定するには、このチェックボックスをオンにします（デフォルトではオフ）。
 
    ![](assets/image2016-5-9-10-3a6-3a10.png)
 
    >[!NOTE]
    >
-   >背景のタップアクションの場合、Apple および Android プラットフォーム用に様々なアクションを設定できます。 例えば、ディープリンクの処理は Apple と Android で異なります。 メッセージの送信先が 1 つのプラットフォームのみの場合は、もう 1 つのプラットフォームをデフォルト設定のままにするか、「**[!UICONTROL なし]**」を選択します。
+   >背景のタップアクションの場合、Apple および Android プラットフォーム用に異なるアクションを設定できます。 例えば、ディープリンクの処理は Apple と Android で異なります。 メッセージの送信先が 1 つのプラットフォームのみの場合は、もう 1 つのプラットフォームをデフォルト設定のままにするか、「**[!UICONTROL なし]**」を選択します。
 
    ジョブを完了するには、最後の手順は[「却下」ボタンの設定](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md)です。
 

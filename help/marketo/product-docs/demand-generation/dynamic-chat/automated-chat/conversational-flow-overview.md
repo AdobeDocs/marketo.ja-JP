@@ -3,19 +3,25 @@ description: 対話型フローについて、およびそれらがダイアロ�
 title: 対話型フローの概要
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-TQID: https://experienceleague.adobe.com/9y7MvnN91I03IMieLIKv1QhjKdr2uPFOnby-DbpR-cE
+TQID: 'https://experienceleague.adobe.com/9y7MvnN91I03IMieLIKv1QhjKdr2uPFOnby-DbpR-cE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 370
+source-wordcount: '370'
 ht-degree: 87%
-
 ---
-
 # 対話型フローの概要 {#conversational-flow-overview}
 
 対話型フローをデザインし、特定のアクション（例：コールトゥアクションボタンのクリック、ページの読み込み時、ページの滞在時間など）に基づいて任意の訪問者に対してトリガーします。
@@ -42,11 +48,11 @@ ht-degree: 87%
   </tr>
   </tr>
    <tr>
-   <td>リードの同じセグメントに対して優先順位を付けて複数のダイアログを作成できるので、各訪問者は引き続き関与しながら、優先度に従って順番にダイアログを表示できます。</td>
-   <td>対話型フローには優先順位がなく、決定されたコールトゥアクションに基づいて、同じリードによって何度でもトリガーできます。</td>
+   <td>リードの同じセグメントに対して複数のダイアログを作成でき、優先度の順序を設定できます。各訪問者は、引き続きエンゲージする中で、優先度に従ったシーケンスでダイアログが表示されます。</td>
+   <td>対話型フローには優先度の順序がなく、設定されたコールトゥアクションに基づいて、同じリードによって何度でもトリガーできます。</td>
   </tr>
   <tr>
-   <td>チャットボットの対話は、ダイアログによって強化されます。</td>
+   <td>チャットボットの対話は、ダイアログによって動作します。</td>
    <td>Marketo Engage の<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">対話型フォーム</a>は、対話型フローによって強化されます。</td>
   </tr>
  </tbody>
@@ -82,13 +88,13 @@ ht-degree: 87%
 
 ### 対話 SDK {#conversations-sdk}
 
-「設定」タブの下半分で、対話 SDK とも呼ばれる対話トリガーをカスタマイズします。 訪問者がリンクをクリックする際や、ページの読み込み時に web サイトで対話をトリガーするかどうかを決定できます。
+「設定」タブの下半分で、Conversations SDK とも呼ばれる会話トリガーをカスタマイズします。 訪問者がリンクをクリックする際や、ページの読み込み時に web サイトで対話をトリガーするかどうかを決定できます。
 
 ![](assets/conversational-flow-overview-7.png)
 
 >[!TIP]
 >
->[Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=ja){target="_blank"}を実際にご覧ください。
+>[Conversations SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"}を実際にご覧ください。
 
 >[!MORELIKETHIS]
 >

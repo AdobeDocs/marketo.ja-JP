@@ -3,25 +3,33 @@ description: Salesforce Sync ステータスダッシュボードと同期ステ
 title: Salesforce 同期ステータス
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/RsWPcnu2ZkoqdMVRM8DVu2GM-VJLIgVdB-UJDJaD4RM
+TQID: 'https://experienceleague.adobe.com/RsWPcnu2ZkoqdMVRM8DVu2GM-VJLIgVdB-UJDJaD4RM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Metadata
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 575
+source-wordcount: '575'
 ht-degree: 76%
-
 ---
-
 # Salesforce 同期ステータス {#salesforce-sync-status}
 
-同期ステータスダッシュボードを使用して、同期手順の一部として同期ステータスとその成功ステータスを確認します。
+同期ステータスダッシュボードを使用して、同期手順の一部として同期の統計情報とその成功状況を表示します。
 
 同期ステップは、オブジェクトスキーマとデータ自体の各オブジェクトタイプによるプッシュまたはプルの操作を反映します。 同期の際に、新しいレコード、更新、削除、失敗数をデータでカバーします。 ユーザーは、日付、操作タイプまたはオブジェクトタイプでフィルタリングできます。 同期ステータスダッシュボードには、過去 5 日間の同期サイクルのステータスが表示されます。
 
@@ -191,12 +199,12 @@ ht-degree: 76%
  <tbody>
   <tr>
    <th>操作のタイプ</th>
-   <th>これらのオブジェクトに対して見つかりました</th>
+   <th>該当オブジェクト</th>
    <th>備考</th>
    <th>操作のタイプ</th>
   </tr>
   <tr>
-   <td colspan="1">プログラムと初期リンク</td>
+   <td colspan="1">プログラムとのリンクを初期化</td>
    <td colspan="1">キャンペーン</td>
    <td colspan="1">プログラムへのキャンペーンのリンク</td>
    <td colspan="1">更新</td>
@@ -204,7 +212,7 @@ ht-degree: 76%
   <tr>
    <td colspan="1">コンバージョンをプル</td>
    <td colspan="1">担当者（リード）*</td>
-   <td colspan="1">SFDC から Marketo に変換アクションを取り込みます。 数量（数値）は連絡先に変換するリードです</td>
+   <td colspan="1">SFDC から Marketo にコンバージョンアクションを取り込みます。 数量（数値）は、取引先責任者にコンバージョンされるリードの件数です。</td>
    <td colspan="1">アップデート、失敗した項目、スキップ済み</td>
   </tr>
   <tr>
@@ -240,13 +248,13 @@ ht-degree: 76%
   <tr>
    <td colspan="1">プログラムと同期</td>
    <td colspan="1">キャンペーン</td>
-   <td colspan="1">Marketo プログラムを SFDC キャンペーンと同期</td>
+   <td colspan="1">Marketo プログラムを SFDC キャンペーンと同期します。</td>
    <td colspan="1">新規、更新、失敗またはスキップ</td>
   </tr>
   <tr>
    <td colspan="1">アクティビティを更新</td>
    <td colspan="1">タスク</td>
-   <td colspan="1">Salesforce からアクティビティを抽出</td>
+   <td colspan="1">Salesforce からアクティビティを取り込みます。</td>
    <td colspan="1"></td>
   </tr>
   <tr>

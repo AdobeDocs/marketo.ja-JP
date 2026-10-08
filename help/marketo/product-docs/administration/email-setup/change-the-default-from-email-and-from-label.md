@@ -4,20 +4,26 @@ description: 管理者ユーザーとして、新しいメールのデフォル�
 title: デフォルトのメール差出人と差出人ラベルの変更
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/pZzZybCFmbZWjIm1GMjO4U5AbfQgFmvmA5M6ph5wrRo
+TQID: 'https://experienceleague.adobe.com/pZzZybCFmbZWjIm1GMjO4U5AbfQgFmvmA5M6ph5wrRo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: '111'
 ht-degree: 35%
-
 ---
-
 # デフォルトのメール差出人と差出人ラベルの変更 {#change-the-default-from-email-and-from-label}
 
 各管理者ユーザーは、**[!UICONTROL 電子メールから]**&#x200B;および&#x200B;**[!UICONTROL ラベルから]**&#x200B;のデフォルト値を変更して、新しい電子メールを作成する際に、これらのデフォルト値を使用できるようにすることができます。
@@ -40,6 +46,6 @@ ht-degree: 35%
 
 >[!NOTE]
 >
->この変更はユーザーにのみ適用され、他の Marketo ユーザーには適用されません。
+>この変更が適用されるのは自分のみで、他の Marketo ユーザには適用されません。
 
 新しい電子メールを作成するたびに、設定したデフォルト値が使用されます。

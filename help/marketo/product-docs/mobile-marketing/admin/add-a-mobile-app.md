@@ -4,25 +4,28 @@ description: Marketoにモバイルアプリを追加してプッシュ通知を
 title: モバイルアプリの追加
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/z7Q-HWW5iv0zEEEAsdl0TGkgKrDRdCJur7E0SFEnuqk
+TQID: 'https://experienceleague.adobe.com/z7Q-HWW5iv0zEEEAsdl0TGkgKrDRdCJur7E0SFEnuqk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 216
+source-wordcount: '216'
 ht-degree: 82%
-
 ---
-
 # モバイルアプリの追加 {#add-a-mobile-app}
 
 モバイルアプリを Marketo に接続して、プッシュ通知を顧客基盤に送信します。
 
-アプリは通常、初期開発とテストが実行されるサンドボックス環境から開始します。 その後、開発者は本番環境を使用して、顧客が使用する最終的なアプリを構築します。 モバイルアプリを追加する場合は、適切な通知証明書を選択する必要があります（以下の手順 4 を参照）。
+アプリは通常、初期開発とテストが実行されるサンドボックス環境から開始します。 その後、開発者は本番環境を使用して、顧客が使用する最終的なアプリを作成します。 モバイルアプリを追加する場合は、適切な通知証明書を選択する必要があります（以下の手順 4 を参照）。
 
 >[!AVAILABILITY]
 >
@@ -47,7 +50,7 @@ ht-degree: 82%
 
    >[!NOTE]
    >
-   >[!UICONTROL 本番]環境では、[!UICONTROL 本番稼働]通知証明書を使用することをお勧めします。 [!UICONTROL サンドボックス]証明書を[!UICONTROL 本番]環境にインストールすることはできますが、通知は受信できません。 環境証明書や通知証明書に関する不明点がある場合は、Marketo 管理者またはモバイルアプリデベロッパーにお問い合わせください。
+   >[!UICONTROL 本番]環境では、[!UICONTROL 本番稼働]通知証明書を使用することをお勧めします。 [!UICONTROL サンドボックス]証明書を[!UICONTROL 本番]環境にインストールすることはできますが、通知は受信できません。 環境や通知証明書に関する不明点がある場合は、Marketo 管理者またはモバイルアプリ開発者にお問い合わせください。
 
    作業は以上です。 次に、Android および iOS デバイスと連携するようにアプリを設定します。
 

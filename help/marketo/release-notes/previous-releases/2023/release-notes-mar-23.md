@@ -3,16 +3,21 @@ description: リリースノート - 2023年3月 - Marketo ドキュメント - 
 title: リリースノート - 2023年3月
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-TQID: https://experienceleague.adobe.com/Sisp6sUlykUIMGVZjQlLgTarYQBgz-2QP5-3JW5d0t0
+TQID: 'https://experienceleague.adobe.com/Sisp6sUlykUIMGVZjQlLgTarYQBgz-2QP5-3JW5d0t0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 587
+source-wordcount: '587'
 ht-degree: 91%
-
 ---
-
 # リリースノート：2023年3月 {#release-notes-mar-23}
 
 以下に、2023年3月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
@@ -23,7 +28,7 @@ ht-degree: 91%
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、リリースは **2023年3月31日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、以下を確認してください。
+以下の機能は標準リリースサイクルに該当し、リリースは **2023年3月31日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースされる機能と日付は変更される場合があります。 各機能のステータスについては、以下を確認してください。
 
 ### Marketo Engage の最新 UX {#modern-ux}
 
@@ -43,7 +48,7 @@ ht-degree: 91%
   </tbody>
 </table>
 
-* **ランディングページから切替スイッチとクラシックエクスペリエンスを削除**：ランディングページの切替スイッチとクラシックエクスペリエンスの廃止は、新しいエクスペリエンスを完全に採用するのに役立ちます。 新しいエクスペリエンスでは、古いエクスペリエンスに依存したり、常に 2 つのエクスペリエンスを切り替える必要がなく、これらのアセットで提供される機能を完全に使用できます。
+* **ランディングページから切替スイッチとクラシックエクスペリエンスを削除**：ランディングページの切替スイッチとクラシックエクスペリエンスの廃止は、新しいエクスペリエンスを完全に採用するのに役立ちます。 新しいエクスペリエンスでは、古いエクスペリエンスに依存したり、常に 2 つのエクスペリエンスを切り替えたりすることなく、これらのアセットで提供される機能を最大限活用できます。
 
 <table>
   <tr>

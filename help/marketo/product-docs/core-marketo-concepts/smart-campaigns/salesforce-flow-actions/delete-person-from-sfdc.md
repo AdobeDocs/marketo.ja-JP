@@ -1,25 +1,31 @@
 ---
 unique-page-id: 1147031
 description: フローステップを使用してSalesforceからユーザーを削除する方法を説明します。 SFDCからリードまたは連絡先がフローに入ったときに削除します。
-title: SFDC からの顧客の削除
+title: SFDC から人物を削除
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-TQID: https://experienceleague.adobe.com/f-Zvc4glfCtAagE314vrZjiWIcD3vaGIKmKGeZO18v0
+TQID: 'https://experienceleague.adobe.com/f-Zvc4glfCtAagE314vrZjiWIcD3vaGIKmKGeZO18v0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 149
+source-wordcount: '149'
 ht-degree: 83%
-
 ---
+# SFDC から人物を削除 {#delete-person-from-sfdc}
 
-# SFDC からの顧客の削除 {#delete-person-from-sfdc}
-
-特定のリードのセットを Marketo Engage に人物として残しつつ、Salesforce から削除したい場合は、「SFDC から顧客を削除」フローアクションを使用できます。
+特定のリードのセットを Salesforce から削除しつつ、Adobe Marketo Engage には人物として残しておきたい場合は、「SFDC から人物を削除」フローステップを使用できます。
 
 >[!NOTE]
 >

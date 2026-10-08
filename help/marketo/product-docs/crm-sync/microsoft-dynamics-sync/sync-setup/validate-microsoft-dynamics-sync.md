@@ -1,21 +1,27 @@
 ---
 unique-page-id: 8783322
 description: 同期の検証ツールを実行して、Microsoft DynamicsとMarketoの設定を検証する方法を説明します。 最終的な接続を行う前に、Adminの7つの手順でチェックリストを確認します。
-title: ' [!DNL Microsoft Dynamics]  同期の検証'
+title: '[!DNL Microsoft Dynamics] 同期の検証'
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/np-8Y0EGZYlWX-hKe64kP-iEDVN4tDR-gmMdX4jmBdU
+TQID: 'https://experienceleague.adobe.com/np-8Y0EGZYlWX-hKe64kP-iEDVN4tDR-gmMdX4jmBdU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Customer experience
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 267
+source-wordcount: '267'
 ht-degree: 77%
-
 ---
-
 # [!DNL Microsoft Dynamics] 同期の検証 {#validate-microsoft-dynamics-sync}
 
 >[!CAUTION]
@@ -24,7 +30,7 @@ ht-degree: 77%
 
 ## Marketo で同期検証を実行する {#run-validate-sync-in-marketo}
 
-同期の検証ツールを実行して、[!DNL Microsoft Dynamics] Sync with Marketoが正しく設定されていることを確認してから、それらの間で最終的な接続を行うことが非常に重要です。 このプロセスでは、7 つのセットアップ手順のチェックリストが生成され、問題が存在する場所を特定します。 これらが正しく行われたことを確認すると、後で多くの時間を節約できます。
+同期の検証ツールを実行して、[!DNL Microsoft Dynamics] Sync with Marketoが正しく設定されていることを確認してから、それらの間で最終的な接続を行うことが非常に重要です。 このプロセスでは、7 つの設定手順のチェックリストが生成され、問題が存在する場所を特定します。 これらが正しく行われたことを確認すると、後で多くの時間を節約できます。
 
 1. 「**[!UICONTROL 管理者]**」タブをクリックし、「統合」領域の「**[!DNL Microsoft Dynamics]**」リンクをクリックします。
 

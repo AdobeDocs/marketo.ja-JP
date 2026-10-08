@@ -1,33 +1,38 @@
 ---
 unique-page-id: 2949839
 description: タブレットからユーザーをイベントにチェックインする方法を説明します。 イベントチェックインアプリを使用して、参加者をスキャンし、チェックインします。
-title: タブレットからイベントへの人物のチェックイン
+title: タブレットからイベント参加者をチェックイン
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/Yv6Wi3rjG60gWp-JjafS9WKBrGbhg0dhSFGXEcPmCkk
+TQID: 'https://experienceleague.adobe.com/Yv6Wi3rjG60gWp-JjafS9WKBrGbhg0dhSFGXEcPmCkk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 880
+source-wordcount: '880'
 ht-degree: 74%
-
 ---
+# タブレットからイベント参加者をチェックイン {#check-people-into-your-event-from-your-tablet}
 
-# タブレットからイベントへの人物のチェックイン {#check-people-into-your-event-from-your-tablet}
-
-人物がイベントに参加したとき、アプリで人物の情報を確認できます。 チェックイン後は、Marketoに同期すると、出席済みステータスに昇格されます。
+イベントの参加者の情報をアプリで確認できます。 チェックイン後は、Marketoに同期すると、出席済みステータスに昇格されます。
 
 >[!IMPORTANT]
 >
->2023年10月2日（PT）に、アドビは Marketo イベントアプリをすべてのアプリストアから削除しました。 タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。 Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日（PT）に、アドビは Marketo イベントアプリをすべてのアプリストアから削除しました。 タブレット／モバイルデバイスにアプリが既にインストールされている場合は、当面は引き続き使用できます。 Marketo Engage インスタンスが、Marketo の認証に Adobe Identity を使用するように移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 アプリは [!DNL iPad] と [!DNL Android] の両方で同じように動作しますが、レイアウトとデザインで微妙な違いが生じる場合があります。
 
@@ -57,11 +62,11 @@ ht-degree: 74%
    >
    >イベントプログラム（ウェビナーを除く）は、今日の日付の 1 週間前から 1 週間後までにスケジュールされているもののみ表示されます。
 
-1. ホーム画面で、登録済みゲストを参照して見つけます。 リスト内の人物を検索するには、次の操作を実行します。
+1. ホーム画面で登録済みゲストを探します。 リスト内の人物を検索するには、次の操作を実行します。
 
    * スクロールして名前を検索
    * 検索フィールドに名前を入力
-   * リストの右側で、特定の姓の頭文字にジャンプ
+   * リストの右側に表示されている頭文字をタップして、その頭文字で始まる姓にジャンプします。
 
    >[!NOTE]
    >
@@ -117,7 +122,7 @@ Marketo データベースに既存のユーザーではないゲストを手動
 
    >[!CAUTION]
    >
-   >メールアドレスをダブルチェックします。 その他のフィールドは後で修正できますが、メールアドレスは、ゲストに問い合わせるメインの方法です。
+   >メールアドレスをダブルチェックしてください。 その他のフィールドは後で修正できますが、メールアドレスはゲストと連絡を取るための主な手段です。
 
 新しい人物はイベントにチェックインした状態で登録され、Marketo に同期すると「出席済み」ステータスで Marketo データベースに追加されます。
 
@@ -160,7 +165,7 @@ Marketo Events アプリは、アクティビティを Marketo データベー�
 
 1. 「**[!UICONTROL 同期]**」をタップします。
 
-   イベントが更新され、Marketo データベースの新しいチェックインが追加されます。 「同期」ボタンの赤いカウンターは、他の人物をチェックインするまで消去されます。
+   イベントは、Marketo データベース内の新しいチェックイン情報で更新されます。 「同期」ボタンの赤いカウンターは、他の人物をチェックインするまでリセットされます。
 
    セキュリティ上の理由から、同期が完了したら、Marketo Events アプリを終了する必要があります。
 
@@ -168,7 +173,7 @@ Marketo Events アプリは、アクティビティを Marketo データベー�
 
 一部の会場はインターネット環境が悪い。 次の操作を実行するには、適切な接続が必要です。
 
-* アプリのダウンロードとインストール
+* アプリをダウンロードしてインストールする
 * ログイン
 * イベントの選択
 * アプリと Marketo の同期
@@ -181,4 +186,4 @@ Marketo Events アプリは、アクティビティを Marketo データベー�
 
 >[!NOTE]
 >
->無操作状態が 8 時間続くと自動的にログアウトします。
+>アプリは、無操作状態が 8 時間続くと自動的にログアウトします。

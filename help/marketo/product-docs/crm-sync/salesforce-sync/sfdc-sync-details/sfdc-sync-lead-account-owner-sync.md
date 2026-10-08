@@ -1,22 +1,27 @@
 ---
 unique-page-id: 2953463
 description: リードとアカウントのオーナーのフィールドをSalesforceからMarketoに同期する方法について説明します。 Marketoでリードオーナーを変更し、フローアクションとスマートリストでオーナーデータを使用します。
-title: SFDC 同期 - リード／アカウント所有者の同期
+title: SFDC 同期 - リード／アカウント所有者同期
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/hw4ZXOFSDBvVm45z84aQkxgKU17O-8h1NhukpGCNsos
+TQID: 'https://experienceleague.adobe.com/hw4ZXOFSDBvVm45z84aQkxgKU17O-8h1NhukpGCNsos'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: '218'
 ht-degree: 87%
-
 ---
-
 # SFDC 同期：リード／アカウント所有者の同期 {#sfdc-sync-lead-account-owner-sync}
 
-リード／アカウント所有者の同期は、技術的には [!DNL Salesforce] の「ユーザ」テーブルを同期することですが、これをリード／アカウント所有者フィールドと呼ぶことにします。
+リード／アカウント所有者の同期は、技術的には [!DNL Salesforce] の「ユーザー」テーブルを同期することですが、これをリード／アカウント所有者フィールドと呼ぶことにします。
 
 ## Marketo Engage と同期するのはどのフィールドですか？ {#which-fields-will-sync-to-marketo-engage}
 
@@ -28,11 +33,11 @@ Marketo に同期された各ユーザに対して、次の所有者フィール
 * セールス所有者の電話番号
 * セールス所有者のメールアドレス
 
-各取引先責任者に対して、上記の 5 つのリード所有者フィールドと、次のアカウント所有者フィールドを同期します。
+各取引先責任者に対して、上記の 5 つのリード所有者フィールドに加えて、次のアカウント所有者フィールドを同期します。
 
 * アカウント所有者の名
 * アカウント所有者の姓
-* アカウント所有者のメールアドレス
+* アカウント所有者のメール
 
 ## Marketo でリード所有者を変更できますか？ {#can-i-change-the-lead-owner-in-marketo}
 
@@ -47,7 +52,7 @@ Marketo に同期された各ユーザに対して、次の所有者フィール
 このデータを使用する理由は、次のようにたくさんあります。
 
 * セールス所有者による、署名入りのパーソナライズされたメール送信
-* 特定のセールス担当者に対するマーケティングのフィルタリングや効果の分析
+* 特定のセールス担当者に対してマーケティング用のフィルターを適用したり、さらには効果を分析したりする
 * Marketo の割り当て（および再割り当て）ルール
 * [所有者を変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}、[リードを SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}、[タスクを作成](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}の各フローアクションで使用
 

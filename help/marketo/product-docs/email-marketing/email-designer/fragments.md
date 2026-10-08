@@ -6,28 +6,39 @@ description: フラグメントを作成し、再利用可能なメールコン�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-TQID: https://experienceleague.adobe.com/sGWGa3VQda--5A2JtkUjFmqIUD2CG3RhrhoJtcRvAMs
+TQID: 'https://experienceleague.adobe.com/sGWGa3VQda--5A2JtkUjFmqIUD2CG3RhrhoJtcRvAMs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1975
+source-wordcount: '1976'
 ht-degree: 2%
-
 ---
-
 # フラグメント
 
 フラグメントは、1つ以上のメールおよびメールテンプレートで参照できる再利用可能なコンポーネントです。 通常、プロジェクトにすばやく挿入できるコンテンツのブロック（テキスト、画像、またはその両方）です。 この機能を利用すれば、複数のカスタムコンテンツブロックを事前に構築してメールコンテンツを作成し、デザインプロセスを改善できます。 一般的なユースケースには、電子メールのヘッダー/フッターコンテンツブロック、イベント招待バナー、季節メッセージなどがあります。

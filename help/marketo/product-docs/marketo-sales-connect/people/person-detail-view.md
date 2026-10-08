@@ -4,21 +4,23 @@ description: セールスコネクトの人物の詳細ビューについて説�
 title: 人物の詳細表示
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/6RcguZewLXP8hurJWjmW0-mEqxgA5Zd5DwfPXWF1UeU
+TQID: 'https://experienceleague.adobe.com/6RcguZewLXP8hurJWjmW0-mEqxgA5Zd5DwfPXWF1UeU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 293
+source-wordcount: '293'
 ht-degree: 93%
-
 ---
-
 # 人物の詳細表示 {#person-detail-view}
 
-人物の詳細表示には、MSC アカウント内の各人物の詳細なプロファイルが表示されます。
+人物詳細ビューでは、MSC アカウント内の各人物の詳細なプロファイルが提供されます。
 
 ## アクセス方法 {#how-to-access}
 
@@ -42,7 +44,7 @@ ht-degree: 93%
 
 **取引先責任者カード**
 
-* 次のような取引先責任者情報が含まれます。メールアドレス、名前、会社名、職位、電話番号、ソーシャルメディアリンク
+* 次のような取引先責任者情報が含まれます。メールアドレス、名前、会社名、役職、電話番号、ソーシャルメディアのリンク
 
 **グループ**
 
@@ -105,7 +107,7 @@ ht-degree: 93%
 
 実行できるアクションは次のとおりです。
 
-* タスクの編集または削除
-* 期限の参照
-* 「タイプ」をクリックすると、通話の場合はセールス通話、メールの場合はメール作成、InMail の場合は LinkedIn、カスタムの場合はカスタムメモが起動します。
+* タスクを編集または削除できます
+* 期限日を確認できます
+* 「タイプ」をクリックすると、通話の場合は Sales Phone、メールの場合はメール作成、InMail の場合は LinkedIn、カスタムの場合は Custom Note が起動します。
 * タスクを完了済みとしてマーク

@@ -1,26 +1,32 @@
 ---
 unique-page-id: 2949863
 description: MarketoでWebexを使用してイベントを作成する方法を説明します。 Webex統合を設定し、イベントまたはミーティングデータをMarketoと同期します。
-title: ' [!DNL Webex] を使用したイベントの作成'
+title: '[!DNL Webex] を使用したイベントの作成'
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-TQID: https://experienceleague.adobe.com/TDiOAkdoh-06ZZwY0uvTUCnSKJBzr3-Ht2Rqty--EIc
+TQID: 'https://experienceleague.adobe.com/TDiOAkdoh-06ZZwY0uvTUCnSKJBzr3-Ht2Rqty--EIc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 651
+source-wordcount: '651'
 ht-degree: 77%
-
 ---
-
 # [!DNL Webex] を使用したイベントの作成 {#create-an-event-with-webex}
 
 Webexでウェビナーを作成した後、イベントをMarketo Engageと同期する必要があります。
@@ -33,7 +39,7 @@ Webexでウェビナーを作成した後、イベントをMarketo Engageと同�
 
 ## ウェビナーのスケジュール設定 {#schedule-your-webinar}
 
-イベントをスケジュール設定し、[Webex](https://www.webex.com/){target="_blank"} で推奨される設定を選択します。 Marketo に表示できる情報は、ウェビナー名、開始日時／終了日時、タイムゾーン、説明のみです。 Webex ウェビナーに関する追加情報について詳しくは、[こちら](https://help.webex.com/ja-jp/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}を参照してください。
+イベントをスケジュール設定し、[Webex](https://www.webex.com/){target="_blank"} で推奨される設定を選択します。 Marketo に表示できる情報は、ウェビナー名、開始日付と終了日付、開始時刻と終了時刻、タイムゾーン、および説明のみです。 Webex ウェビナーに関する追加情報について詳しくは、[こちら](https://help.webex.com/ja-jp/landing/ld-7srxjs-WebexWebinars/Webex-Webinars){target="_blank"}を参照してください。
 
 ### 基本情報 {#basic-information}
 
@@ -77,7 +83,7 @@ Webexでウェビナーを作成した後、イベントをMarketo Engageと同�
 
 >[!NOTE]
 >
->Marketo と Webex 統合では、Webex からの確認メールの送信をサポートできません。 確認メールは Marketo から送信する必要があります。 イベントをスケジュールしたら、イベント情報をMarketoの確認メールにコピーし、メールを&#x200B;_Operational_&#x200B;に設定します。
+>Marketo と Webex の統合では、Webex から確認メールを送信することはできません。 確認メールは Marketo から送信する必要があります。 イベントをスケジュールしたら、イベント情報をMarketoの確認メールにコピーし、メールを&#x200B;_Operational_&#x200B;に設定します。
 
 ## イベントと Marketo Engage の同期 {#sync-your-event-with-marketo-engage}
 
@@ -105,7 +111,7 @@ Webexでウェビナーを作成した後、イベントをMarketo Engageと同�
 
    ![](assets/create-an-event-with-webex-9.png)
 
-これで、Webex のイベントが Marketo のイベントプログラムと同期されます。 ウェビナーに新規登録した人物は、新規ステータスが「登録済み」に設定されたときに、_プログラムステータスを変更_&#x200B;フローステップによってウェビナープロバイダーにプッシュされます。 その他のステータスではプッシュされません。 _プログラムステータスの変更_ フローステップを#1し、_電子メールの送信_ フローステップを#2します。
+これで、Webex のイベントが Marketo のイベントプログラムと同期されます。 ウェビナーに新規登録した人物は、新規ステータスが「登録済み」に設定されたときに、_プログラムステータスを変更_&#x200B;フローステップによってウェビナープロバイダーにプッシュされます。 その他のステータスでは、その人物はウェビナープロバイダー側にプッシュされません。 _プログラムステータスの変更_ フローステップを#1し、_電子メールの送信_ フローステップを#2します。
 
 ## 注意事項 {#things-to-note}
 

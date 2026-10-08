@@ -4,13 +4,19 @@ description: 「商談インフルエンスを設定」を使用して、Marketo
 title: 商談の影響分析の設定
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 86%
-
 ---
-
 # 商談の影響分析の設定 {#configure-an-opportunity-influence-analyzer}
 
 [商談の影響分析を作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)すると、対象にする[注目のアクション](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/interesting-moments-overview.md)のタイプを設定できます。
@@ -41,7 +47,7 @@ ht-degree: 86%
 
    ![](assets/image2014-9-17-12-3a29-3a39.png)
 
-1. 必要な注目のアクションのタイプをそれぞれクリックしてから、 「**[!UICONTROL 保存]**」をクリックします。
+1. 必要な注目のアクションのタイプをそれぞれクリックします。 「**[!UICONTROL 保存]**」をクリックします。
 
 1. メインのタブをクリックすると、選択したタイプの注目のアクションのみで商談の履歴が表示されます。
 

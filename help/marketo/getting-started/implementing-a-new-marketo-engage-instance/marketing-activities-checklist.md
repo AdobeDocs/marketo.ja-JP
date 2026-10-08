@@ -3,34 +3,50 @@ description: 新しいMarketo Engage インスタンスの「マーケティン�
 title: 新しいインスタンスのベストプラクティス – マーケティングアクティビティのチェックリスト
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-TQID: https://experienceleague.adobe.com/jxPaBHvXVW-op-FmERQ-LmF4GHOB0BCMxtXNWsc2Hvo
+TQID: 'https://experienceleague.adobe.com/jxPaBHvXVW-op-FmERQ-LmF4GHOB0BCMxtXNWsc2Hvo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+    internal-label: Data management
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1363
+source-wordcount: '1363'
 ht-degree: 59%
-
 ---
-
 # 新しいインスタンスのベストプラクティス：マーケティングアクティビティのチェックリスト {#new-instance-best-practices-marketing-activities-checklist}
 
 マーケティングアクティビティには、自動化されたマーケティングプログラムを構成するすべてのアセットとコンテンツが含まれます。 新しいMarketo Engage インスタンスを設定する際には、すべてのユーザーが簡単に様々なプログラムを検索して管理できるように、明確で明確な整理を行います。
@@ -144,7 +160,7 @@ ht-degree: 59%
     <li>開始するには、Marketo プログラムライブラリから<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=ja" target="_blank">スコアリングプログラムを読み込みます</a>。</li></td>
   </tr>
   <tr>
-    <td>人物のソース</td>
+    <td>個人ソース</td>
     <td><li>「システム管理」フィールドで、リード/個人のソースに値を割り当てる一元化されたプログラムを作成します。</li>
     <li>開始するには、Marketo プログラムライブラリから<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management" target="_blank">運用データ管理プログラムを読み込みます</a>。</li></td>
   </tr>

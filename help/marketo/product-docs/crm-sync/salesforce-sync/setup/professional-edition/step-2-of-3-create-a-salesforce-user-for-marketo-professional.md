@@ -4,19 +4,25 @@ description: Professional エディションでMarketo用のSalesforce ユーザ
 title: 手順 2／3 - Marketo 用の Salesforce ユーザーの作成（Professional）
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/BrxRg4uQfMHXiQYXbIyBL4OkP9-HCJLSXVPEKMHD7C4
+TQID: 'https://experienceleague.adobe.com/BrxRg4uQfMHXiQYXbIyBL4OkP9-HCJLSXVPEKMHD7C4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 436
+source-wordcount: '436'
 ht-degree: 91%
-
 ---
-
-# 手順 2／3：Marketo 用の [!DNL Salesforce] ユーザの作成（Professional） {#step-of-create-a-salesforce-user-for-marketo-professional}
+# 手順 2／3：Marketo 用の [!DNL Salesforce] ユーザーの作成（Professional） {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
@@ -26,11 +32,11 @@ ht-degree: 91%
 >
 >[手順 1／3：Marketo フィールドの Salesforce への追加（Professional）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
-この記事では、[!DNL Salesforce] ページレイアウトを使用してフィールド権限をカスタマイズし、Marketo-[!DNL Salesforce] 間の同期ユーザを作成します。
+この記事では、[!DNL Salesforce] ページレイアウトを使用してフィールド権限をカスタマイズし、Marketo-[!DNL Salesforce] 間の同期ユーザーを作成します。
 
 ## ページレイアウトの設定 {#set-page-layouts}
 
-[!DNL Salesforce] Professional は、[!DNL Salesforce] Enterprise／Unlimited のプロファイルとは異なり、ページレイアウトでフィールドレベルのアクセシビリティを設定します。 これらの手順に従うと、Marketo 同期ユーザはカスタムフィールドをアップデートできます。
+[!DNL Salesforce] Professional は、[!DNL Salesforce] Enterprise／Unlimited のプロファイルとは異なり、ページレイアウトでフィールドレベルのアクセシビリティを設定します。 これらの手順に従うと、Marketo 同期ユーザーはカスタムフィールドを更新できるようになります。
 
 1. ナビゲーション検索バーで「[!UICONTROL ページレイアウト]」と入力します。**[!UICONTROL Enter]** を押さず、**[!UICONTROL リード]**&#x200B;の下にある「**[!UICONTROL ページレイアウト]**」をクリックします。
 
@@ -95,13 +101,13 @@ ht-degree: 91%
    >
    >**[!UICONTROL 終日イベント]**&#x200B;フィールドが&#x200B;**[!UICONTROL イベントページレイアウト]**&#x200B;に追加されていることを確認してください。
 
-## 同期ユーザを作成 {#create-sync-user}
+## 同期ユーザーを作成 {#create-sync-user}
 
-Marketo は、[!DNL Salesforce] にアクセスする資格情報が必要です。 これは、次の手順で作成した専用ユーザで行うのが最適です。
+Marketo は、[!DNL Salesforce] にアクセスする資格情報が必要です。 これは、次の手順で作成した専用ユーザーで行うのが最適です。
 
 >[!NOTE]
 >
->組織に追加の Salesforce ライセンスがない場合は、システム管理者プロファイルを持つ既存のマーケティングユーザを使用できます。
+>組織に追加の Salesforce ライセンスがない場合は、システム管理者プロファイルを持つ既存のマーケティングユーザーを使用できます。
 
 1. ナビゲーション検索バーに「ユーザー」と入力し、「**[!UICONTROL ユーザーを管理]**」の下の「**[!UICONTROL ユーザー]**」をクリックします。
 

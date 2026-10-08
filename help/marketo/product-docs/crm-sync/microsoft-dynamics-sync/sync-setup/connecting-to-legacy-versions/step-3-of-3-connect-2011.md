@@ -1,19 +1,24 @@
 ---
 unique-page-id: 3571809
 description: 最後のステップでは、Microsoft Dynamics 2011 オンプレミスをMarketoに接続する方法について説明します。 Marketo Adminにユーザー情報を同期を入力し、同期を有効にします。
-title: 手順 3／3 -  [!DNL Microsoft Dynamics]  と Marketo（2011 オンプレミス）の接続
+title: ステップ 3/3 - [!DNL Microsoft Dynamics]とMarketoを接続する（2011 オンプレミス）
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI
+TQID: 'https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 379
-ht-degree: 76%
-
+source-wordcount: '380'
+ht-degree: 73%
 ---
-
 # 手順 3／3 - [!DNL Microsoft Dynamics] と Marketo（2011 オンプレミス）の接続 {#step-of-connect-microsoft-dynamics-with-marketo-on-premises}
 
 ソリューションがインストールされ、同期ユーザーが設定されます。 次に、Marketoと[!DNL Dynamics]を接続します。
@@ -27,9 +32,9 @@ ht-degree: 76%
 >
 >**管理者権限が必要**
 
-## [!DNL Dynamics] 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
+## [!DNL Dynamics] 同期ユーザー情報の入力 {#enter-dynamics-sync-user-information}
 
-1. Marketo にログインし、**[!UICONTROL 管理]**&#x200B;をクリックします。
+1. Marketo にログインし、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/login-admin.png)
 
@@ -55,7 +60,7 @@ ht-degree: 76%
 
    >[!NOTE]
    >
-   >* Marketo の[!UICONTROL ユーザ名]は、CRM の同期ユーザのユーザ名と一致する必要があります。 形式は、`user@domain.com` または DOMAIN\user です。
+   >* Marketo の[!UICONTROL ユーザー名]は、CRM の同期ユーザーのユーザー名と一致する必要があります。 形式は、`user@domain.com` または DOMAIN\user です。
    >* URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)。
 
 ## 同期するフィールドを選択 {#select-fields-to-sync}
@@ -86,7 +91,7 @@ ht-degree: 76%
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 下にスクロールしてフィールドを確認します。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。 「**[!UICONTROL 保存]**」をクリックします。
+1. 下にスクロールしてそのフィールドをチェックします。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意に設定できます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-14-3a14-3a57.png)
 

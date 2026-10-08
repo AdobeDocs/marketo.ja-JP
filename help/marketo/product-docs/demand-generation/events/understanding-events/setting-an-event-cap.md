@@ -4,16 +4,18 @@ title: イベントキャップの設定
 hide: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-TQID: https://experienceleague.adobe.com/8vtaffm-YDrTB2m33b55Oqcxe02WGW5Dqu2oD7CXXYA
+TQID: 'https://experienceleague.adobe.com/8vtaffm-YDrTB2m33b55Oqcxe02WGW5Dqu2oD7CXXYA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 213
+source-wordcount: '213'
 ht-degree: 88%
-
 ---
-
 # イベントキャップの設定 {#setting-an-event-cap}
 
 イベントキャップを使用してイベントに登録できる人数を制限します。
@@ -23,11 +25,11 @@ ht-degree: 88%
 >必ずしもすべてのお客様がこの機能を購入済みとは限りません。 詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!IMPORTANT]
->イベントキャップを設定する前に、プログラムに承認済みのランディングページ（登録ページと登録締め切りページ）が 2 つ以上ある必要があります。
+>イベントキャップを設定する前に、プログラム内に承認済みのランディングページ（登録ページと登録満員ページ）が少なくとも 2 つある必要があります。
 
 >[!NOTE]
 >
->イベント内の空き容量を増やすには、プログラムメンバーを削除する必要があります（ステータスを「プログラムに含まれていない」に更新することで削除できます）。
+>イベントの空きを確保するには、プログラムメンバーを削除する必要があります（ステータスを「プログラム未参加」に更新することで削除できます）。
 
 1. イベントプログラムを選択します。
 

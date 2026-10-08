@@ -1,34 +1,40 @@
 ---
 unique-page-id: 45417125
 description: Salesforce以外のネイティブ統合用にSales Insightを設定する方法について説明します。 Marketoがカスタム同期を介してSalesforceに接続する場合にMSIを設定します。
-title: 非ネイティブ  [!DNL Salesforce]  統合用 [!DNL Sales Insight]
+title: 非ネイティブ [!DNL Salesforce] 統合用 [!DNL Sales Insight]
 exl-id: a771ecdf-c610-44e4-9e93-7fdcc9d79f4b
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/RoXhGAxqBvub-s-QWYh3Vw0oy-WEv-MCoUL8QyI3otY
+TQID: 'https://experienceleague.adobe.com/RoXhGAxqBvub-s-QWYh3Vw0oy-WEv-MCoUL8QyI3otY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 subfeature_v2:
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1481
+source-wordcount: '1481'
 ht-degree: 91%
-
 ---
-
 # 非ネイティブ [!DNL Salesforce] 統合用 [!DNL Sales Insight] {#sales-insight-for-non-native-salesforce-integrations}
 
 Adobe Marketo Engage アカウントが、カスタマイズされた統合または非ネイティブ統合によって [!DNL Salesforce] に接続されている場合は、この記事を使用して [!DNL Sales Insight] を設定してください。
 
 >[!PREREQUISITES]
 >
->* MSI の設定を開始する前に、Marketo インスタンスに対して「MSI 非ネイティブ」機能を有効にします。 まだ購入していない場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。 この機能をまだ購入していない場合は、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>* MSI の設定を開始する前に、Marketo インスタンスで「MSI 非ネイティブ」機能が有効になっていること。 まだ購入していない場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。 この機能をまだ購入していない場合は、アドビのアカウントチーム（アカウントマネージャー）にお問い合わせください。
 >* [MSI パッケージが設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}された Salesforce アカウント。
 >* Marketo REST API が[正常に設定](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}されている。 公開されている CRUD API は、非ネイティブ同期を実行するための基盤となります。
 >* オブジェクトと関係を理解するには、[このブログ記事](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"}を参照してください。
@@ -40,9 +46,9 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
 
 ## MSI の非ネイティブ同期を成功させるには、次が必要です。 {#successful-non-native-sync-for-msi-requires-the-following}
 
-1. [!DNL Salesforce] セールスユーザを Marketo に同期します。
+1. [!DNL Salesforce] セールスユーザーを Marketo に同期します。
 
-   [!DNL Salesforce] セールスユーザは、[!DNL Salesforce] のリード／取引先責任者を所有する外部ユーザです。 この [!DNL Salesforce] セールスユーザ用に Marketo セールス担当者をアップサートする必要があります。 セールス担当者のアップサートには、「*externalSalesPersonId*」フィールドが必須です。
+   [!DNL Salesforce] セールスユーザーは、[!DNL Salesforce] のリード／取引先責任者を所有する外部ユーザーです。 この [!DNL Salesforce] セールスユーザー用に Marketo セールス担当者をアップサートする必要があります。 セールス担当者のアップサートには、「*externalSalesPersonId*」フィールドが必須です。
 
    <table>
     <colgroup>
@@ -53,13 +59,13 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
     <tbody>
      <tr>
       <td><strong>Marketo「セールス担当者」フィールド</strong></td>
-        <td><strong><span class="dnl">Salesforce</span>「セールスユーザ」フィールド</strong></td>
+        <td><strong><span class="dnl">Salesforce</span>「セールスユーザー」フィールド</strong></td>
       <td><strong>説明</strong></td>
      </tr>
      <tr>
       <td>externalSalesPersonId</td>
-        <td><span class="dnl">Salesforce</span> セールスユーザの大文字小文字を区別しないグローバルな一意の ID</td>
-      <td><p>外部 <span class="dnl">Salesforce</span> セールスユーザオブジェクトに対する Marketo セールス担当者レコードを特定します。</p><p>適切な関係が作成されるように、他のオブジェクトを同期する前に、セールス担当者を最初に同期することが義務付けられています。</p></td>
+        <td><span class="dnl">Salesforce</span> セールスユーザーの大文字小文字を区別しないグローバルな一意の ID</td>
+      <td><p>外部 <span class="dnl">Salesforce</span> セールスユーザーオブジェクトに対する Marketo セールス担当者レコードを特定します。</p><p>適切な関係が作成されるように、他のオブジェクトを同期する前に、セールス担当者を最初に同期することが義務付けられています。</p></td>
      </tr>
     </tbody>
    </table>
@@ -90,8 +96,8 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
      </tr>
      <tr>
       <td>externalSalesPersonId</td>
-        <td><span class="dnl">Salesforce</span> セールスユーザの大文字小文字を区別しないグローバルな一意の ID</td>
-        <td>アカウント所有者である外部 <span class="dnl">Salesforce</span> セールスユーザオブジェクトに対する Marketo 企業レコードを特定します。<br><br>また、Marketo 内で企業レコードを所有するセールス担当者に企業を関連付けるためにも使用されます。 このフィールドを設定する前に、まずセールス担当者を同期させる必要があります。</td>
+        <td><span class="dnl">Salesforce</span> セールスユーザーの大文字小文字を区別しないグローバルな一意の ID</td>
+        <td>アカウント所有者である外部 <span class="dnl">Salesforce</span> セールスユーザーオブジェクトに対する Marketo 企業レコードを特定します。<br><br>また、Marketo 内で企業レコードを所有するセールス担当者に企業を関連付けるためにも使用されます。 このフィールドを設定する前に、まずセールス担当者を同期させる必要があります。</td>
      </tr>
     </tbody>
    </table>
@@ -148,14 +154,14 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
     </colgroup>
     <tbody>
      <tr>
-      <td><strong>Marketo「商談」オブジェクトフィールド</strong></td>
+      <td><strong>Marketo 商談オブジェクトフィールド</strong></td>
         <td><strong><span class="dnl">Salesforce</span>「商談」オブジェクトフィールド</strong></td>
       <td><strong>説明</strong></td>
      </tr>
      <tr>
       <td>externalOpportunityId</td>
       <td>Salesforce のリード／取引先責任者の大文字小文字を区別しないグローバルな一意の ID</td>
-      <td>外部 Salsforce 商談オブジェクトに対する Marketo 商談レコードを特定します。</td>
+      <td>Marketo 商談レコードを外部 Salesforce 商談オブジェクトに対応付けます。</td>
      </tr>
      <tr>
       <td>externalCompanyId</td>
@@ -165,7 +171,7 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
      <tr>
       <td>externalSalesPersonId</td>
         <td><span class="dnl">Salesforce</span> セールスユーザの大文字小文字を区別しないグローバルな一意の ID</td>
-        <td>この商談を所有する外部 <span class="dnl">Salesforce</span> セールスユーザオブジェクトを特定します。 </td>
+        <td>この商談を所有する外部 <span class="dnl">Salesforce</span> セールスユーザーオブジェクトを特定します。 </td>
      </tr>
     </tbody>
    </table>
@@ -185,8 +191,8 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
     </colgroup>
     <tbody>
      <tr>
-      <td><strong>Marketo「商談ロール」フィールド</strong></td>
-      <td><strong>Salesforce「取引先責任者ロール」フィールド</strong></td>
+      <td><strong>Marketo 商談ロールフィールド</strong></td>
+      <td><strong>Salesforce 取引先責任者ロールフィールド</strong></td>
       <td><strong>説明</strong></td>
      </tr>
      <tr>
@@ -196,13 +202,13 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
      </tr>
      <tr>
       <td>leadId</td>
-      <td>該当なし、これは Marketo のリード ID になります</td>
+      <td>該当なし。これは Marketo のリード ID です。</td>
         <td>これは、同期された<span class="dnl">Salesforce</span>連絡先のMarketo リード IDになります。<br><br>連絡先がMarketoで同期されたら、<span class="dnl">Salesforce</span>連絡先の大文字と小文字を区別しないグローバル一意のIDを、Marketo REST APIを使用してMarketo リードのexternalPersonIdおよびクエリとして使用できます。</td>
      </tr>
      <tr>
       <td>ロール</td>
         <td><span class="dnl">Salesforce</span> の取引先責任者の「ロール」フィールド</td>
-      <td>この商談の取引先責任者のロールを記述します。</td>
+      <td>この商談における取引先担当者のロールを説明します。</td>
      </tr>
     </tbody>
    </table>
@@ -210,7 +216,7 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
    * 商談に関する API ドキュメント：[https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * 商談の同期に関する API ドキュメント：[https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
-1. 「最新の注目のアクション」／「MSI スコア」フィールドを SFDC に同期します。
+1. 「最新の注目のアクション」フィールド／「MSI スコア」フィールドを SFDC に同期します。
 
    [!DNL Salesforce] オブジェクトが Marketo に正しく同期されると、MSI 機能を活用できるようになります。 MSI の「最新の注目のアクション」／「スコア」フィールドは、リードの REST API で公開されます。 これらのフィールドは、MSI によって計算され、読み取り専用です。
 
@@ -240,7 +246,7 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
      </tr>
      <tr>
       <td>msiLastInterestingMomentDate</td>
-      <td><p>ラベル：最新の注目のアクション発生日</p><p>名前：Last_Interesting_Moment_Date__c</p></td>
+      <td><p>ラベル：最新の注目のアクション日付</p><p>名前：Last_Interesting_Moment_Date__c</p></td>
       <td>リードの最新の注目のアクションの日付</td>
      </tr>
      <tr>
@@ -273,4 +279,4 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
 
    リード REST API 向けドキュメント：[https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/getLeadByIdUsingGET){target="_blank"}
 
-   非ネイティブ同期を成功させるには、外部フィールドを適切に使用することが重要です。 一部のビューにデータが表示されない場合は、特定のフィールドが正しく同期されていない可能性があります。 例えば、リードのアカウントの下にある MSI ウィジェットを参照したときにリードのアクティビティや関心を引くモーメントが表示されない場合は、リードの会社またはアカウントが正しく同期されていない可能性があります。 外部フィールドを指定してこのリードに対して GET リクエストを実行すると、リードが正しく同期されたかどうかを検証できます。 また、Marketo の外部セールス担当者のメールは、Salesforce のそのユーザのメールと一致する必要があります。 メールが一致しない場合、Salesforce の「Marketo」タブにデータが表示されないことがあります。
+   非ネイティブ同期を成功させるには、外部フィールドを適切に使用することが重要です。 一部のビューにデータが表示されない場合は、特定のフィールドが正しく同期されていない可能性があります。 例えば、リードのアカウントの下にある MSI ウィジェットを参照したときにリードのアクティビティや関心を引くモーメントが表示されない場合は、リードの会社またはアカウントが正しく同期されていない可能性があります。 外部フィールドを指定してこのリードに対して GET リクエストを実行すると、リードが正しく同期されたかどうかを検証できます。 また、Marketo の外部セールス担当者のメールは、Salesforce のそのユーザーのメールと一致する必要があります。 メールが一致しない場合、Salesforce の「Marketo」タブにデータが表示されないことがあります。

@@ -4,17 +4,19 @@ description: Sales Connect メールに添付ファイルまたは追跡可能�
 title: メールへの添付ファイルまたはトラック可能コンテンツの追加
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UqC-6S-D0UXuCyoQL4ut3N2s67Wm2ywVndovL5Buc50
+TQID: 'https://experienceleague.adobe.com/UqC-6S-D0UXuCyoQL4ut3N2s67Wm2ywVndovL5Buc50'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 303
+source-wordcount: '303'
 ht-degree: 92%
-
 ---
-
-# メールへの添付ファイルまたはトラック可能コンテンツの追加 {#add-an-attachment-or-trackable-content-to-your-email}
+# メールへの添付ファイルまたはトラック可能なコンテンツの追加 {#add-an-attachment-or-trackable-content-to-your-email}
 
 [!DNL Sales Connect] からメールを送信する際には、ファイルを添付ファイルとして追加するか、ファイルをダウンロード可能（かつトラック可能）リンクにするかを選択できます。
 
@@ -32,7 +34,7 @@ ht-degree: 92%
 
    ![](assets/attach-two.png)
 
-1. 歯車アイコンをクリックします。
+1. 添付アイコンをクリックします。
 
    ![](assets/attach-three.png)
 
@@ -76,4 +78,4 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >トラックされたコンテンツが閲覧されると、ライブフィードに通知が表示されます。 また、最もパフォーマンスの高いコンテンツを Analytics ページのコンテンツセクションに表示することもできます。
+   >トラックされたコンテンツが閲覧されると、ライブフィードに通知が表示されます。 また、ユーザは Analytics ページのコンテンツセクションで、最もパフォーマンスの高いコンテンツを確認することもできます。

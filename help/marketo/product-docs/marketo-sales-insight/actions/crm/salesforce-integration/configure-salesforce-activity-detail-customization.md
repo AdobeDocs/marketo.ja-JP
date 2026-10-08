@@ -1,18 +1,20 @@
 ---
 description: タスクの件名フィールドに対してSalesforce アクティビティの詳細カスタマイズを設定する方法について説明します。 アクティビティが同期されたときに、Salesforce タスクに対するログを設定します。
-title: Salesforce アクティビティ詳細のカスタマイズの設定
+title: Salesforce アクティビティ詳細のカスタマイズの設定​
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/OFYgwAWftCcz7IsGMcdiEI6gzYhdvZB10qlTYpIiX60
+TQID: 'https://experienceleague.adobe.com/OFYgwAWftCcz7IsGMcdiEI6gzYhdvZB10qlTYpIiX60'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 689
+source-wordcount: '689'
 ht-degree: 85%
-
 ---
-
 # [!DNL Salesforce] アクティビティ詳細のカスタマイズ設定 {#configure-salesforce-activity-detail-customization}
 
 >[!PREREQUISITES]
@@ -46,16 +48,16 @@ ht-degree: 85%
  </tr>
 </table>
 
-この機能を使用して、以下のメリットをアンロックできます。
+この機能を使用すると、次のようなメリットを得られます。
 
 * 件名フィールドに表示される情報をカスタマイズすることで、Salesforce での販売に関するアクティビティの詳細を簡単にスキャンできます。
 * 管理者は、件名フィールドに「Mkto_sales」などの一意の ID をタグ付けできるので、セールスインサイトアクションのアクティビティを簡単に識別し、他のメールアクティビティ、通話アクティビティおよびタスクと区別できます。
-* カスタムアクティビティフィールドの必要性を減らします。 Salesforce では、カスタムアクティビティフィールドの数に制限が適用されるので、レポートで使用できるデータを制限できます。 アクティビティの動的フィールドを使用して主要データを件名行に追加することで、Salesforce インスタンスで作成する必要のあるカスタムアクティビティフィールドの数を減らすことができます。
-* アクティビティとタスクの件名フィールドは、セールスインサイトアクションが定義した一貫したパターンに従います。
+* カスタムアクティビティフィールドの必要性を減らします。 Salesforce では、カスタムアクティビティフィールドの数に制限が適用されるため、レポートで使用できるデータが制限される場合があります。 アクティビティの動的フィールドを使用して主要データを件名行に追加することで、Salesforce インスタンスで作成する必要のあるカスタムアクティビティフィールドの数を減らすことができます。
+* アクティビティとタスクの件名フィールドは、Sales セールスインサイト管理者が定義した一貫したパターンに従います。
 
 >[!NOTE]
 >
->メールの返信を[!DNL Salesforce]へのアクティビティとしてログに記録する場合、[!DNL Salesforce] アクティビティの詳細カスタマイズ設定は使用されません。 代わりに、「返信：メールの件名」として記録されます。
+>メールの返信を[!DNL Salesforce]へのアクティビティとしてログに記録する場合、[!DNL Salesforce] アクティビティの詳細カスタマイズ設定は使用されません。 代わりに、「Reply: Email Subject.」として記録されます。
 
 ## サポートされるアクティビティの動的フィールド {#activity-dynamic-fields-supported}
 
@@ -94,11 +96,11 @@ ht-degree: 85%
  </tr>
  <tr>
   <td><code>{{call_outcome}}</code></td>
-  <td>アクティビティが呼び出しで、呼び出しの結果が選択されている場合は、呼び出しの結果値が入力されます。</td>
+  <td>アクティビティが通話で、通話結果が選択されている場合は、その通話結果の値が入力されます。</td>
  </tr>
  <tr>
   <td><code>{{call_reason}}</code></td>
-  <td>アクティビティが呼び出しで、呼び出しの理由が選択されている場合は、呼び出しの理由の値が入力されます。</td>
+  <td>アクティビティが通話で、通話の理由が選択されている場合は、通話の理由の値が入力されます。</td>
  </tr>
 </table>
 
@@ -106,7 +108,7 @@ ht-degree: 85%
 
 >[!NOTE]
 >
->**管理者権限が必要。**
+>**管理者権限が必要です。**
 
 アクティビティ詳細を設定する際は、[!DNL Salesforce] でタスク履歴を確認する際に、どのデータがセールスに最も関連するかを検討します。
 
@@ -122,7 +124,7 @@ ht-degree: 85%
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. アクティビティの詳細のカスタマイズエディターで、任意のフリーテキストを追加します。 追加したテキストは動的ではなく、[!DNL Salesforce] に同期されたすべてのタスクの件名フィールドで変更されないままになります。
+1. アクティビティの詳細のカスタマイズエディターで、任意のテキストを追加します。 追加したテキストは動的ではなく、[!DNL Salesforce] に同期されたすべてのタスクの件名フィールドで変更されないままになります。
 
    ![](assets/configure-salesforce-activity-detail-customization-6.png)
 

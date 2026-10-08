@@ -3,16 +3,18 @@ description: Sales Insight Actionsのコール理由について説明します�
 title: 通話理由
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/EYf6JhfnBf-Xk6JeRQs4ojd-F-H3C4iT8DbgFfuyrSk
+TQID: 'https://experienceleague.adobe.com/EYf6JhfnBf-Xk6JeRQs4ojd-F-H3C4iT8DbgFfuyrSk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 181
+source-wordcount: '181'
 ht-degree: 87%
-
 ---
-
 # 通話理由 {#call-reasons}
 
 セールスチームが電話をかける際に通話理由を選択できるようにし、チームが通話の理由を把握できるようにします。
@@ -63,7 +65,7 @@ ht-degree: 87%
 
 ## 通話理由の選択 {#select-a-call-reason}
 
-通話理由が有効になったら、 ユーザは、通話する際に 1 つ選択できます。
+通話理由が有効になっている場合、ユーザは通話中に通話理由を選択できます。 ユーザは、通話する際に 1 つ選択できます。
 
 1. 通話ボタンをクリックして、ダイヤラーを起動します。
 

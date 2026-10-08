@@ -4,16 +4,21 @@ description: Dynamics 2013 オンプレミスにMarketo ソリューションを
 title: 手順 1 / 3 - Dynamics（2013 オンプレミス）での Marketo ソリューションのインストール
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/4WajWj-c4TYpq3cU3QRu1C-TbsYwCo2lDuvsrGLOwGo
+TQID: 'https://experienceleague.adobe.com/4WajWj-c4TYpq3cU3QRu1C-TbsYwCo2lDuvsrGLOwGo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 308
+source-wordcount: '308'
 ht-degree: 89%
-
 ---
-
 # 手順 1／3：[!DNL Dynamics]（2013 オンプレミス）での Marketo ソリューションのインストール {#step-of-install-the-marketo-solution-in-dynamics-on-premises}
 
 [!DNL Microsoft Dynamics] オンプレミスと Marketo を同期する前に、まず [!DNL Dynamics] に Marketo ソリューションをインストールする必要があります。
@@ -42,7 +47,7 @@ ht-degree: 89%
 
    ![](assets/image2014-12-11-10-3a39-3a51.png)
 
-1. 「**[!UICONTROL 読み込み]**」をクリックします。
+1. 「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/image2015-3-26-9-3a52-3a10.png)
 
@@ -62,7 +67,7 @@ ht-degree: 89%
 
    ![](assets/image2015-3-26-9-3a55-3a17.png)
 
-1. 「SDK」オプションがオンになっていることを確認します。 「**[!UICONTROL 読み込み]**」をクリックします。
+1. 「SDK」オプションがオンになっていることを確認します。 「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/image2015-3-26-10-3a3-3a11.png)
 

@@ -4,18 +4,20 @@ description: シンプルなスコアリング - Marketo ドキュメント - �
 title: シンプルなスコアリング
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/je41ZICn-Xh8WLc8PdrbZcoj5-D727U9Vh-uulo15gU
+TQID: 'https://experienceleague.adobe.com/je41ZICn-Xh8WLc8PdrbZcoj5-D727U9Vh-uulo15gU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 386
+source-wordcount: '386'
 ht-degree: 97%
-
 ---
-
 # シンプルなスコアリング {#simple-scoring}
 
 >[!PREREQUISITES]
@@ -25,7 +27,7 @@ ht-degree: 97%
 
 ## 手順 1：スコアリングキャンペーンを作成する {#step-create-a-scoring-campaign}
 
-1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
 
    ![](assets/simple-scoring-1.png)
 
@@ -39,7 +41,7 @@ ht-degree: 97%
 
    >[!NOTE]
    >
-   >既に「スコアリング」フォルダーがある場合は、これに別の名前を付けます（例：スコアリング 1）。 フォルダー名は一意である必要があります。
+   >既に「スコアリング」フォルダーがある場合は、このフォルダーには別の名前を付けます（例：スコアリング 1）。 フォルダー名は一意である必要があります。
 
 1. 次に、「**スコアリング**」フォルダーを右クリックして、「**[!UICONTROL スマートキャンペーン]**」を選択します。
 
@@ -81,7 +83,7 @@ ht-degree: 97%
 
    >[!TIP]
    >
-   >良いスコアリングキャンペーンは、高品質の人物をセールスに届けるうえで重要です。 [**リードスコアリングの最終的なガイド**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}を参照してください。
+   >良いスコアリングキャンペーンは、高品質な見込み客をセールスに届けるうえで重要です。 [**リードスコアリングの最終的なガイド**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}を参照してください。
 
 1. 「**[!UICONTROL スケジュール]**」タブをクリックし、「**[!UICONTROL アクティブ化]**」ボタンをクリックします。
 
@@ -95,7 +97,7 @@ ht-degree: 97%
 >
 >アクティブにすると、ユーザーがフォームに入力するたびにこのキャンペーンが実行されます。 キャンペーンは、非アクティブ化されるまで実行され続けます。
 
-## 手順 2：フォームに入力する {#step-fill-out-the-form}
+## 手順 2：フォームに入力 {#step-fill-out-the-form}
 
 1. [フォームを含むランディングページ](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}クイックウィンで作成したランディングページを選択します。
 

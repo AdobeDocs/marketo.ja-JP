@@ -3,23 +3,29 @@ description: ライブおよびオンデマンドのエンゲージメントに�
 title: インタラクティブウェビナーの概要
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/dKuuIF7FSqYxAY6eYFrXA11f6wdpfIqH7maLniM01JY
+TQID: 'https://experienceleague.adobe.com/dKuuIF7FSqYxAY6eYFrXA11f6wdpfIqH7maLniM01JY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Event programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 555
+source-wordcount: '555'
 ht-degree: 87%
-
 ---
-
 # インタラクティブウェビナーの概要 {#interactive-webinars-overview}
 
 インタラクティブウェビナー機能は、Marketo Engageに組み込まれているウェビナープラットフォームです。 追加のツールや統合は必要ありません。
@@ -28,9 +34,9 @@ ht-degree: 87%
 >
 >Adobe Connect によるインタラクティブウェビナーは、Adobe Connect へのビルトイン統合を備えた機能です。 インタラクティブウェビナーの使用には、追加の利用条件が適用されます。 契約を確認するか、[Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}に連絡して、その他の利用条件についてお問い合わせください。
 
-## インタラクティブウェビナーとは {#what-is-interactive-webinars}
+## インタラクティブウェビナーとは？ {#what-is-interactive-webinars}
 
-インタラクティブウェビナーは、Marketo Engage 内でイベントを作成、管理および配信するための自然でシームレスなエクスペリエンスを提供することで、既存のイベントおよびウェビナーエクスペリエンスを拡張します。 [インタラクティブウェビナーを作成](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}する際に、複数の事前作成済みのミーティングテンプレートが選択でき、そのすべてが、カスタマイズ可能です（カスタムテンプレートを作成および使用することもできます）。 出席者は、コンピューター画面／ファイル、お互いのチャット、ブロードキャストオーディオおよびビデオを共有したり、インタラクティブオンラインアクティビティに参加したりできます。
+インタラクティブウェビナーは、Marketo Engage 内でイベントを作成、管理および配信するためのネイティブでシームレスなエクスペリエンスを提供することで、既存のイベントおよびウェビナーエクスペリエンスを拡張します。 [インタラクティブウェビナーを作成](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}する際に、複数の事前作成済みのミーティングテンプレートが選択でき、そのすべてが、カスタマイズ可能です（カスタムテンプレートを作成および使用することもできます）。 出席者は、コンピューター画面やファイルを共有したり、互いにチャットしたり、オーディオやビデオを配信したり、インタラクティブなオンラインアクティビティに参加したりできます。
 
 インタラクティブウェビナーは、それぞれに様々な機能を備えた [3 つの異なるライセンス](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}を提供します。
 

@@ -4,18 +4,20 @@ description: Sales Connect タスクをSalesforceと初めて同期する方法�
 title: Sales Connect タスクと Salesforce の初回同期
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/5anDeeHVD0mkZLIac5rTb4vW7iiiOBHDBgQKUf5lv4Y
+TQID: 'https://experienceleague.adobe.com/5anDeeHVD0mkZLIac5rTb4vW7iiiOBHDBgQKUf5lv4Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 267
+source-wordcount: '267'
 ht-degree: 91%
-
 ---
-
 # [!DNL Sales Connect] タスクの [!DNL Salesforce] との初めての同期 {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
 [!DNL Sales Connect] と [!DNL Salesforce] のタスク間の同期を初めて有効にすると、[!DNL Salesforce] のタスクが読み込まれます。 [!DNL Sales Connect] の現在のタスクは [!DNL Salesforce] にプッシュ&#x200B;**されません**。 [!DNL Sales Connect] から [!DNL Salesforce] に同期されるタスクは、[!DNL Sales Connect] を SFDC と同期した&#x200B;*後に*&#x200B;作成されるタスクのみです。

@@ -4,18 +4,23 @@ description: ワークスペース全体でリストまたはスマートリス�
 title: 複数のワークスペースをまたいだリストやスマートリストの参照
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/NAWn0sS-DldDqgQcLAnrOlaWQXdYBAR9nCrU0j4HlZY
+TQID: 'https://experienceleague.adobe.com/NAWn0sS-DldDqgQcLAnrOlaWQXdYBAR9nCrU0j4HlZY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: '187'
 ht-degree: 88%
-
 ---
-
 # 複数のワークスペースをまたいだリストやスマートリストの参照 {#reference-a-list-or-smart-list-across-workspaces}
 
 リストとスマートリストは、データベースから簡単に再利用できるように、複数のワークスペースをまたいで共有および参照できます。
@@ -26,7 +31,7 @@ ht-degree: 88%
 
 ## リストまたはスマートリストを共有する {#share-a-list-or-smart-list}
 
-1. **[!UICONTROL データベース]**&#x200B;に移動します。
+1. 「**[!UICONTROL データベース]**」に移動します。
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
@@ -58,4 +63,4 @@ ht-degree: 88%
 
    >[!NOTE]
    >
-   >マーケティング活動では、共有できるのはトップレベルのフォルダーのみです。 データベースでは、最上位フォルダーと 1 つ下のフォルダーを共有できます。
+   >Marketing Activities では、共有できるのはトップレベルのフォルダーのみです。 データベースでは、最上位フォルダーと 1 つ下のフォルダーを共有できます。

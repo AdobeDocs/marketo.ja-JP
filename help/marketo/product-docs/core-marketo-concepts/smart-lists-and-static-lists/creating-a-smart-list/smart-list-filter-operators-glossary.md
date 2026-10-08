@@ -4,19 +4,24 @@ description: スマートリストのフィルター演算子に関するヘル�
 title: スマートリストフィルター演算子の用語集
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/srdWBb-dHYhiCNam-GPG6tTIHo3k53IH687LF-UiFg4
+TQID: 'https://experienceleague.adobe.com/srdWBb-dHYhiCNam-GPG6tTIHo3k53IH687LF-UiFg4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 614
+source-wordcount: '614'
 ht-degree: 89%
-
 ---
-
 # スマートリストフィルター演算子の用語集 {#smart-list-filter-operators-glossary}
 
-演算子は、特定の情報を得るのに役立つスマートリストの一部です。 フィルターやトリガーを簡単な言語で記述できます。 使用可能な演算子は、フィールドのタイプごとに異なります。
+演算子は、条件を絞り込むのに役立つスマートリストの一部です。 フィルターやトリガーを簡単な言語で記述できます。 使用可能な演算子は、フィールドのタイプごとに異なります。
 
 この用語集では、各演算子のセットについて説明します。
 
@@ -86,12 +91,12 @@ ht-degree: 89%
   <tr>
     <td>指定の期日以降</td>
     <td>単一の日付</td>
-    <td>「後」と同じだが包括的</td>
+    <td>「after」と同じですが、指定した日付を含みます。</td>
   </tr>
   <tr>
     <td>指定の期日以前</td>
     <td>単一の日付</td>
-    <td>「前」と同じだが包括的</td>
+    <td>「before」と同じですが、指定した日付を含みます。</td>
   </tr>
   <tr>
     <td>が空である</td>
@@ -139,7 +144,7 @@ ht-degree: 89%
 >
 >**[!UICONTROL 次より未来]**
 >
->90 日後に更新期間を迎える顧客に会いたいとします。 2 つの異なるフィルターを使用します。 最初に「次より未来」と「90 日」を、2 つ目に「未来」と「91 日」を使用します。 これにより、今から 90 日後の日付を持つ人々をキャプチャします。
+>90 日後に更新時期を迎える顧客を確認したいとします。 2 つの異なるフィルターを使用します。 最初に「In Future After 90 days」を使用し、2 つ目に「In Future 91 Days」を使用します。 これにより、今から 90 日後の日付を持つ人を抽出できます。
 
 ## 文字列フィールド {#string-fields}
 
@@ -169,7 +174,7 @@ ht-degree: 89%
   </tr>
   <tr>
     <td>指定の語を含む</td>
-    <td>文字列内の文字がすべて一致（例：カリフォルニア、幸運、そのため）</td>
+    <td>文字列内で連続する任意の文字が一致（例：california、fortune、therefor）</td>
   </tr>
   <tr>
     <td>指定の語を含まない</td>
@@ -188,7 +193,7 @@ ht-degree: 89%
 
 >[!TIP]
 >
->負の演算子より正の演算子を優先して使用します。 「指定の値と等しくない」フィルターは、インスタンス内のデータセット全体を検索する必要があり、非常に時間がかかる場合があります。 正の「次に該当」フィルターは、より効果的な検索アルゴリズムを活用できます。
+>負の演算子より正の演算子を優先して使用します。 「指定の値と等しくない」フィルターは、インスタンス内のデータセット全体を検索する必要があり、非常に時間がかかる場合があります。 肯定の &quot;is&quot; フィルターは、より効果的な検索アルゴリズムを活用できます。
 
 ## 整数フィールド {#integer-fields}
 

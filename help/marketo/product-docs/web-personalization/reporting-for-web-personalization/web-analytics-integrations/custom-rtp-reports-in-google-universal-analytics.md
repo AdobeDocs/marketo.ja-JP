@@ -4,23 +4,29 @@ description: のカスタム rtp レポートなど、Marketo EngageのGoogle �
 title: Google ユニバーサルアナリティクスでのカスタム RTP レポート
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/U9cVw13-FV-0UmUDm6uSUdbvobSwLdqsklql5TaE28M
+TQID: 'https://experienceleague.adobe.com/U9cVw13-FV-0UmUDm6uSUdbvobSwLdqsklql5TaE28M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 404
+source-wordcount: '404'
 ht-degree: 92%
-
 ---
-
 # Google ユニバーサルアナリティクスでのカスタム RTP レポート {#custom-rtp-reports-in-google-universal-analytics}
 
 >[!PREREQUISITES]
@@ -62,7 +68,7 @@ ht-degree: 92%
 
    ![](assets/image2015-3-22-16-3a16-3a40.png)
 
-1. このタブを 4 回複製し、名前を付けます。
+1. このタブを 4 つ複製し、それぞれ次の名前を付けます。
 
    1. **業界**
    1. **グループ**
@@ -89,7 +95,7 @@ ht-degree: 92%
  </thead>
  <tbody>
   <tr>
-   <td>業種</td>
+   <td>業界</td>
    <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
   </tr>
   <tr>
@@ -125,7 +131,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->手順 5 で、このタブを複製して追加の類似したものを作成します
+>このタブを複製して、手順 5 で類似のタブを追加作成します。
 
 1. **[!UICONTROL エクスプローラー]**&#x200B;レポートタイプを選択します。
 
@@ -213,18 +219,18 @@ ht-degree: 92%
  </thead>
  <tbody>
   <tr>
-   <td><p>含める</p></td>
+   <td><p>含む</p></td>
    <td><p><span class="uicontrol">イベントカテゴリ</span></p></td>
    <td>正規表現</td>
    <td>RTP-Campaigns|RTP-レコメンデーション|RTP-Segments</td>
-   <td colspan="1">RTP に関連していない他のすべてのカスタムイベントをフィルタリングします</td>
+   <td colspan="1">RTP に関連していない他のすべてのカスタムイベントをフィルターで除外します。</td>
   </tr>
   <tr>
    <td>除外する</td>
    <td><span class="uicontrol">イベントラベル</span></td>
    <td>正規表現</td>
    <td>#</td>
-   <td colspan="1">キャンペーン名に#を使用して、レポートキャンペーンからフィルタリングできます</td>
+   <td colspan="1">キャンペーン名に # を使用することで、レポート内のキャンペーンをフィルターできます。</td>
   </tr>
  </tbody>
 </table>

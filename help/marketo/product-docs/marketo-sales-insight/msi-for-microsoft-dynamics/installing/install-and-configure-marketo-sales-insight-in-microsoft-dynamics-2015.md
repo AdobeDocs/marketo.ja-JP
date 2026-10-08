@@ -4,21 +4,25 @@ description: Microsoft Dynamics 2015でMarketo Sales Insightをインストー�
 title: Marketo セールスインサイトの Microsoft Dynamics 2015 へのインストールと設定
 exl-id: 26c1f02c-c910-445d-8560-0b37961eadcb
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/WLVudq3p-fFYelDK6tYN3MRHstQgp7rRVK0L07iJFOk
+TQID: 'https://experienceleague.adobe.com/WLVudq3p-fFYelDK6tYN3MRHstQgp7rRVK0L07iJFOk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 418
+source-wordcount: '418'
 ht-degree: 91%
-
 ---
-
 # [!DNL Microsoft Dynamics 2015] での [!DNL Marketo Sales Insight] のインストールと設定 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 Marketo セールスインサイトは、マーケティングチームが持つ豊富なデータをセールスチームに「窓」として提供する素晴らしいツールです。 [!DNL Microsoft Dynamics 2015] にインストールし、設定する方法は以下のとおりです。
@@ -49,7 +53,7 @@ Marketo セールスインサイトは、マーケティングチームが持つ
    >
    >次に進む前に、あらかじめ Marketo ソリューションをインストールして設定しておく必要があります。
 
-1. 「**[!UICONTROL 読み込み]**」をクリックします。
+1. 「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
@@ -155,7 +159,7 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
-   これですべて完了です。 最後に、[!DNL Marketo Sales Insight] にアクセスし、リードや取引先責任者を調べるユーザとして [!DNL Dynamics] にログインし、テストを実施します。
+   これですべて完了です。 最後に、[!DNL Marketo Sales Insight] にアクセスし、リードや取引先責任者を調べるユーザーとして [!DNL Dynamics] にログインし、テストを実施します。
 
    ![](assets/image2015-4-29-15-3a2-3a27.png)
 

@@ -3,16 +3,18 @@ description: メール、電話、InMail、カスタムタスクの各ステッ�
 title: セールスキャンペーンの作成
 exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/UWJhgXOd1e0TPYN0kK49HPWVb4pWrMKzZcTkaVI1Gj8
+TQID: 'https://experienceleague.adobe.com/UWJhgXOd1e0TPYN0kK49HPWVb4pWrMKzZcTkaVI1Gj8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 333
+source-wordcount: '333'
 ht-degree: 87%
-
 ---
-
 # セールスキャンペーンの作成 {#create-a-sales-campaign}
 
 セールスキャンペーンは、メール、電話、InMail、カスタムタスクを始めとする一連のマルチチャネル手順です。 キャンペーンは、潜在顧客や既存顧客とのコミュニケーションを合理化できます。
@@ -37,7 +39,7 @@ ht-degree: 87%
    >
    >新しいカテゴリを作成するには、「**カテゴリ**」の横にある「**[!UICONTROL +]**」をクリックします。
 
-1. カテゴリが選択されます。 変更する場合は、ドロップダウンをクリックし、別のドロップダウンを選択します。 完了したら、**[!UICONTROL 続行]**&#x200B;をクリックします。
+1. 選択したカテゴリが反映されます。 変更する場合は、ドロップダウンをクリックし、別の項目を選択します。 完了したら、**[!UICONTROL 続行]**&#x200B;をクリックします。
 
    ![](assets/create-a-sales-campaign-3.png)
 
@@ -45,7 +47,7 @@ ht-degree: 87%
 
    ![](assets/create-a-sales-campaign-4.png)
 
-1. メール、呼び出し、InMail、カスタムタスクのいずれかを選択します。 この例では、メールを選択しています。
+1. メール、電話、InMail、カスタムタスクのいずれかを選択します。 この例では、メールを選択しています。
 
    ![](assets/create-a-sales-campaign-5.png)
 
@@ -59,7 +61,7 @@ ht-degree: 87%
 
    >[!NOTE]
    >
-   >「日」は、アクション間の日数ではなく、シーケンス内の日数です。 例えば、セールスキャンペーンが 7 日間になる場合に「3」と入力すると、アクションは 7 日中の 3 日目に実行されます。3 日後&#x200B;**ではありません**。
+   >「日」は、アクション間の日数ではなく、シーケンス内の特定の日（何日目か）を指します。 例えば、セールスキャンペーンが 7 日間になる場合に「3」と入力すると、アクションは 7 日中の 3 日目に実行されます。3 日後&#x200B;**ではありません**。
 
 1. セールスキャンペーンの「**[!UICONTROL 設定]」タブ**&#x200B;にアクセスして、週末をスキップするなど、スケジュールと返信のオプションをカスタマイズするようにします。
 

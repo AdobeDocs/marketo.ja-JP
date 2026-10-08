@@ -4,13 +4,19 @@ description: プログラムの概要など、Marketo Engageのプログラム�
 title: プログラムメンバーシップ分析領域について
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 91%
-
 ---
-
 # プログラムメンバーシップ分析領域について {#understanding-the-program-membership-analysis-area}
 
 プログラムメンバーシップ分析領域を使用すると、個々のプログラムの効果を分析したり、一定期間、チャネル別に要約された結果を表示したりできます。
@@ -21,7 +27,7 @@ ht-degree: 91%
 
 ![](assets/one-2.png)
 
-特定のプログラムの達成基準に達した人数は？
+特定のプログラムの達成条件に達した人数は？
 
 ![](assets/two-2.png)
 
@@ -64,7 +70,7 @@ ht-degree: 91%
 
 | 測定 | 説明 |
 |---|---|
-| 成功の割合（新しい名前） | プログラムが獲得し、プログラムの進行で成功したリードの割合 |
-| 成功の割合（合計） | プログラムの進行で成功したリードの割合 |
-| 成功（新しい名前） | プログラムの進行で成功した新しい名前の合計数 |
-| 成功（合計） | プログラムの進行で成功したリードの合計数 |
+| 成功率（新規リード） | プログラムによって獲得され、その後プログラムの進行で成功に到達したリードの割合 |
+| 成功の割合（合計） | プログラムの進行で成功に到達したリードの割合 |
+| 成功（新しい名前） | プログラムの進行で成功に到達した新規リードの合計数 |
+| 成功（合計） | プログラムの進行で成功に到達したリードの合計数 |

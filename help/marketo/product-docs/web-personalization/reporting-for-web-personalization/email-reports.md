@@ -4,27 +4,34 @@ description: 組織、人物、最もパフォーマンスの高いキャンペ�
 title: メールレポート
 exl-id: 7e829b0e-926f-482c-84ef-15d978fdbb53
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/zRp6gzCiiXIdVvJYd3Lrg4AhnqldJ7iGKijK9QA-DVg
+TQID: 'https://experienceleague.adobe.com/zRp6gzCiiXIdVvJYd3Lrg4AhnqldJ7iGKijK9QA-DVg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 438
+source-wordcount: '438'
 ht-degree: 94%
-
 ---
-
 # メールレポート {#email-reports}
 
-ユーザが受け取る自動メールレポートをカスタマイズするには、[[!UICONTROL ユーザ設定]セクション](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)を参照にしてください。
+ユーザーが受け取る自動メールレポートをカスタマイズするには、[[!UICONTROL ユーザー設定]セクション](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)を参照にしてください。
 
 ## Web パーソナライゼーションメールレポート {#web-personalization-email-reports}
 
@@ -48,13 +55,13 @@ ht-degree: 94%
 
 ![](assets/image2014-12-6-13-3a32-3a31.png)
 
-実績上位のリアルタイムキャンペーンレポートは、実績上位のリアルタイムキャンペーンをメール送信し、キャンペーン名、インプレッション数、クリック数、キャンペーンの反応先のセグメント、キャンペーンのコンバージョン率を示します。
+実績上位のリアルタイムキャンペーンレポートは、実績上位のリアルタイムキャンペーンをユーザーにメールで送信し、キャンペーン名、インプレッション数、クリック数、キャンペーンの反応先のセグメント、キャンペーンのコンバージョン率を示します。
 
 ## 実績上位のアセットレポート {#top-performing-assets-report}
 
 ![](assets/image2014-12-6-13-3a29-3a5.png)
 
-実績上位のアセットレポートでは、実績上位のコンテンツアセットがメール送信され、アセット名と他のアセットと比較した一致率が示されます。
+実績上位のアセットレポートでは、実績上位のコンテンツアセットについて、アセット名と他のアセットと比較した一致率を示したメールがユーザーに送信されます。
 
 ## 推奨アセットレポート {#recommended-assets-report}
 
@@ -66,7 +73,7 @@ ht-degree: 94%
 
 ![](assets/six.png)
 
-概要レポートは、クリック数とパーソナライズされたキャンペーンまたは推奨コンテンツにエンゲージし、その後認識済み顧客になった人数（ダイレクトまたはアシスト）に基づいて、すべてのキャンペーンと推奨コンテンツのパフォーマンスについてのメール（月次または四半期）がユーザに送信されます。 このレポートは、結果を前月または前四半期と比較します。
+概要レポートでは、クリック数と、パーソナライズされたキャンペーンまたは推奨コンテンツにエンゲージし、その後認識済み顧客になった人数（ダイレクトまたはアシスト）に基づいて、すべてのキャンペーンと推奨コンテンツのパフォーマンスを示したメールが、月次または四半期ごとにユーザーに送信されます。 このレポートは、結果を前月または前四半期と比較します。
 
 >[!NOTE]
 >
@@ -78,6 +85,6 @@ ht-degree: 94%
 
 >[!NOTE]
 >
->Marketo web パーソナライゼーションは、web サイトで入力されたフォームでの web 訪問者のメールアドレスを取り込みます。 これは [!UICONTROL web パーソナライゼーション]の[!UICONTROL 人物]ページに表示され、概要レポートで使用される人物です。
+>Marketo web パーソナライゼーションは、web サイトで入力されたフォームでの web 訪問者のメールアドレスを取り込みます。&#x200B; これは [!UICONTROL web パーソナライゼーション]の[!UICONTROL 人物]ページに表示され、概要レポートで使用される人物です。
 
-ユーザが受け取る自動メールレポートをカスタマイズするには、[ユーザ設定](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)の節を参照にしてください。
+ユーザーが受け取る自動メールレポートをカスタマイズするには、[ユーザー設定](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md)の節を参照にしてください。

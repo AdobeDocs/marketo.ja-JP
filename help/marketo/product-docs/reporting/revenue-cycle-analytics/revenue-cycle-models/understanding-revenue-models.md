@@ -4,16 +4,22 @@ description: レベニューモデルの理解など、Marketo Engageのレベ�
 title: 収益モデルについて
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '578'
 ht-degree: 96%
-
 ---
-
 # 収益モデルについて {#understanding-revenue-models}
 
-収益サイクルモデルは、マーケティングを次のレベルに進めます。 リードを最初に操作した時点から顧客獲得に至るまで、収益ファネル全体のすべてのステージをモデル化します。
+収益サイクルモデルは、マーケティングを次のレベルに進めます。 リードと最初に接点を持った時点から、そのリードが顧客として獲得されるまで、収益ファネル全体のすべてのステージをモデル化します。
 
 ## メンタルモデル（これについての考え方） {#mental-model-how-to-think-about-this-thing}
 
@@ -27,7 +33,7 @@ Modeler はすべて、任意の時点でのバケツ内のリード数を測定
 
 >[!TIP]
 >
->経済的に鋭い方は、口座の資金が日の終わりにバランスよく流れ出していくということに例えられます。
+>財務的な考え方に慣れている方は、各ステージを、日々お金が出入りし、毎日の終わりに残高が出る口座のようなものと考えることができます。
 
 モデルは、通常、スマートキャンペーンとプログラムに慣れていて分析を次のレベルに進めたいと考えているお客様向けです。
 
@@ -49,7 +55,7 @@ Modeler はすべて、任意の時点でのバケツ内のリード数を測定
 
 ## カスタマイズ {#customization}
 
-会社はみんな違います。 右上からドラッグして、モデルにものを追加できます。
+各社はそれぞれ異なります。 右上からドラッグして、モデルに要素を追加できます。
 
 ![](assets/image2015-6-12-9-3a45-3a36.png)
 
@@ -85,9 +91,9 @@ Modeler はすべて、任意の時点でのバケツ内のリード数を測定
 >
 >**例**
 >
->トランジションは、フォームに入力するリードによって定義できます。
+>トランジションは、リードがフォームに入力することによって定義できます。
 
-成功パスのステージの追加
+ハッピーな成功パスから外れた位置へのステージの追加
 
 ![](assets/image2015-6-12-10-3a10-3a26.png)
 
@@ -95,7 +101,7 @@ Modeler はすべて、任意の時点でのバケツ内のリード数を測定
 
 >[!MORELIKETHIS]
 >
->* [収益モデルの新規作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>* [新規収益モデルの作成](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
 >* [収益モデル在庫ステージの使用](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >

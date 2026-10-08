@@ -4,20 +4,26 @@ description: Marketo Engageの数式フィールドを使用して、複数の�
 title: 連結文字列（数式）フィールドの作成と使用
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-TQID: https://experienceleague.adobe.com/Yk-Xh-WHUE8-GR2KTCxXRSqerdz-JHu2JnzYp8tAq9U
+TQID: 'https://experienceleague.adobe.com/Yk-Xh-WHUE8-GR2KTCxXRSqerdz-JHu2JnzYp8tAq9U'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 148
+source-wordcount: '148'
 ht-degree: 75%
-
 ---
-
 # 連結文字列（数式）フィールドの作成と使用 {#create-and-use-a-concatenated-string-formula-field}
 
 複数のフィールドの値を組み合わせたり、Marketo Engage の数式フィールドを使用して条件付き値を作成したりできます。

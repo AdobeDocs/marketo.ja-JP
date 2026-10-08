@@ -6,24 +6,33 @@ description: E メールDesignerで、カスタム CSSをメールコンテン�
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-TQID: https://experienceleague.adobe.com/Rw-Sk5TQz8PEK07bb69pJnyuqAEKWH-XsS87XW4N22k
+TQID: 'https://experienceleague.adobe.com/Rw-Sk5TQz8PEK07bb69pJnyuqAEKWH-XsS87XW4N22k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 625
+source-wordcount: '625'
 ht-degree: 38%
-
 ---
-
 # メールコンテンツへのカスタム CSS の追加 {#custom-css}
 
 Marketo Engageの電子メールDesignerに独自のカスタム CSSを直接追加し、高度で具体的なスタイルを設定できます。
@@ -241,19 +250,19 @@ E メールデザイナーに読み込んだコンテンツでカスタム CSS �
 
 * CSSが他のCSS ルールによって上書きされていないことを確認します。
 
-   * ブラウザーの開発者ツールを使用して、コンテンツを調べ、CSSが正しいセレクターをターゲットにしていることを確認します。
+  * ブラウザーの開発者ツールを使用して、コンテンツを調べ、CSSが正しいセレクターをターゲットにしていることを確認します。
 
-   * 優先されるようにするには、宣言に `!important` を追加することを考慮します。
+  * 優先されるようにするには、宣言に `!important` を追加することを考慮します。
 
-     +++ 例：
+    +++ 例：
 
-     ```css
-     .acr-Form {
-       background: red !important;
-     }
-     ```
+    ```css
+    .acr-Form {
+      background: red !important;
+    }
+    ```
 
-     +++
+    +++
 
 >[!NOTE]
 >

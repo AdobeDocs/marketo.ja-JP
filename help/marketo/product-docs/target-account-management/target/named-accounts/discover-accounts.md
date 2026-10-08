@@ -4,29 +4,34 @@ description: CRMまたはMarketoから潜在的なターゲットアカウント
 title: 顧客の選択
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/a3DruY5sl6iQu4sr3qqLBCSoybZpC3lQFfPUVr-oDs4
+TQID: 'https://experienceleague.adobe.com/a3DruY5sl6iQu4sr3qqLBCSoybZpC3lQFfPUVr-oDs4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 587
+source-wordcount: '587'
 ht-degree: 87%
-
 ---
-
 # 顧客の選択 {#discover-accounts}
 
-「選択」オプションを使用して、ターゲットとなる可能性のある顧客を特定します。
+「発見」オプションを使用して、ターゲットとなる可能性のあるアカウントを特定します。
 
 ## [!UICONTROL CRM アカウントを検出] {#discover-crm-accounts}
 
-CRM からターゲットとなる可能性のある顧客を特定します。
+CRM からターゲットとなる可能性のあるアカウントを特定します。
 
 >[!NOTE]
 >
->CRM を Marketo TAM に接続した後、**[!UICONTROL CRM 内の顧客から選択]**&#x200B;は、すべての CRM 顧客と関連情報を表示し、適切な重点顧客を選択するのに役立ちます。 Marketo は、CRM から受け取った情報に加えて、情報を追加します。
+>CRM を Marketo TAM に接続した後、**[!UICONTROL CRM 内の顧客から選択]**&#x200B;は、すべての CRM 顧客と関連情報を表示し、適切な重点顧客を選択するのに役立ちます。 Marketo は、CRM から受け取った内容に、さらに情報を追加します。
 
 **[!UICONTROL 人物]**（[!UICONTROL CRM アカウントを検出]と [!UICONTROL Marketo 会社を検出]）：取引先責任者とリードの両方が含まれます。 リードは、Marketo の[リードとアカウントの照合](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)を使用して検出できます。
 
@@ -42,7 +47,7 @@ CRM からターゲットとなる可能性のある顧客を特定します。
 
    ![](assets/disc-crm-two.png)
 
-1. プレビュー画面で、選択の量が確認されます。 「**[!UICONTROL 作成]**」をクリックします。
+1. プレビュー画面で、選択した件数を確認できます。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/disc-three.png)
 
@@ -78,9 +83,9 @@ CRM からターゲットとなる可能性のある顧客を特定します。
    >
    >**[!UICONTROL Marketo 内の企業から選択]**&#x200B;のみで、Marketo は自動的に次をおこないます。
    >
-   >* ほとんどのインターネットサービスプロバイダーとパブリックドメイン（yahoo.com、gmail.com など）を会社名として除外します
+   >* ほとんどのインターネットサービスプロバイダーとパブリックドメイン（yahoo.com、gmail.com など）を会社名としてフィルターで除外します
    >
-   >* CRM アカウントを重複排除します。 1 つのレコードに「Acme」と「Acme Inc」（または Co、Corp、Corporation、Gmbh、Inc,、Incorporated、LLC、LLP、Ltd、PA、PC、PLLC、PLLC のサフィックスのいずれかが含まれる場合），TAM に単に「Acme」として結合します
+   >* CRM アカウントを重複排除します。 1 つのレコードに「Acme」があり、別のレコードに「Acme Inc」（または Co、Corp、Corporation、Gmbh、Inc、Incorporated、LLC、LLP、LP、Ltd、PA、PC、PLC、PLLC のいずれかの接尾辞が付いている場合）、TAM ではそれらを「Acme」として結合します
 
 1. [!UICONTROL 重点顧客]列の下にある下向き矢印をクリックすると、ドロップダウンが表示されます。
 
@@ -88,13 +93,13 @@ CRM からターゲットとなる可能性のある顧客を特定します。
 
    >[!CAUTION]
    >
-   >今後、選択した会社の新しい人物は、それぞれの重点顧客に自動的に割り当てられます。 これらの会社を再度確認し、正しい[!UICONTROL 重点顧客]に割り当てられていることを確認してください。
+   >今後、これらの選択した会社からの新しい人物は、それぞれの重点アカウントに自動的に割り当てられます。 これらの会社を再度確認し、正しい[!UICONTROL 重点顧客]に割り当てられていることを確認してください。
 
 1. 既存のアカウントを選択するには、**[!UICONTROL 重点顧客]**&#x200B;ドロップダウンから目的のアカウントを選択し、「**[!UICONTROL 次へ]**」をクリックします。
 
    ![](assets/disc-comp-four.png)
 
-   また、ドロップダウンボックスに直接名前を入力して、[!UICONTROL 重点顧客]を新規作成することもできます。 終了したらボックスから離れてクリックすると、
+   また、ドロップダウンボックスに直接名前を入力して、[!UICONTROL 重点顧客]を新規作成することもできます。 終了したら、ボックスの外側をクリックします。
 
    ![](assets/disc-comp-five.png)
 
@@ -119,4 +124,4 @@ CRM からターゲットとなる可能性のある顧客を特定します。
 
 >[!MORELIKETHIS]
 >
->[リードとアカウントの照合](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)
+>[リードと顧客の照合](/help/marketo/product-docs/target-account-management/target/named-accounts/lead-to-account-matching.md)

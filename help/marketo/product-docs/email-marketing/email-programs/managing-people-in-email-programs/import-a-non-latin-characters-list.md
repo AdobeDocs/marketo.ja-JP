@@ -4,29 +4,34 @@ description: メールプログラムに使用するラテン文字以外のリ�
 title: 非ラテン文字リストの読み込み
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/Gm8yGhCq4D4Is9dE84rHf6XUAOY08viLQNEF-VjR2VA
+TQID: 'https://experienceleague.adobe.com/Gm8yGhCq4D4Is9dE84rHf6XUAOY08viLQNEF-VjR2VA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 324
+source-wordcount: '324'
 ht-degree: 94%
-
 ---
-
 # 非ラテン文字リストの読み込み {#import-a-non-latin-characters-list}
 
 英語以外のファイルをインポートしようとしている場合、 Excel で開くと、リストが完璧に表示されます。
 
 ![](assets/image2015-2-10-9-3a34-3a57.png)
 
-ただし、Marketo に読み込むと、英語以外の文字が正しく取り出されていないことがあります。
+ただし、Marketo に読み込むと、英語以外の文字が正しく認識されない場合があります。
 
 ![](assets/image2015-2-10-9-3a35-3a49.png)
 
-これは、ファイルが Marketo で正しく保存されず、非ラテン文字が認識されないためです。 幸い、これは簡単な手順を実行して修正できます。
+これは、ファイルが Marketo で非ラテン文字をすべて認識できる形式で正しく保存されていないためです。 幸い、これは簡単な手順を実行して修正できます。
 
 1. Excel の&#x200B;**[!UICONTROL ファイル]**&#x200B;メニューから「**[!UICONTROL 名前を付けて保存]...**」を選択します。
 
@@ -74,6 +79,6 @@ ht-degree: 94%
 
    >[!NOTE]
    >
-   >読み込まれる日時フィールドは、すべて米中央時間として扱われます。 日時フィールドのタイムゾーンが異なる場合、Excel の数式を使用して、中央時刻（米国／シカゴ）に変換できます。
+   >読み込まれる日時フィールドは、すべて米中央時間として扱われます。 日付／時刻フィールドのタイムゾーンが異なる場合、Excel の数式を使用して中央時刻（America/Chicago）に変換できます。
 
 奇妙な事は分かっていますがうまくいきます。 お疲れさまでした。

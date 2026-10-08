@@ -7,13 +7,28 @@ feature: Email Designer
 role: User
 level: Beginner, Intermediate
 exl-id: 719686f7-16f5-423f-a4b1-f0a35005d222
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '570'
-ht-degree: 10%
-
+ht-degree: 35%
 ---
-
 # ブランドスコア {#brand-score}
 
 ブランドスコアを確認することで、メールキャンペーン全体でトーン、メッセージ、ビジュアルアイデンティティの一貫性を確保し、コンテンツが公開される前に品質チェックとして役立ちます。
@@ -22,7 +37,7 @@ ht-degree: 10%
 >
 >Adobe Marketo EngageでAI アシスタントを使用するには、事前に[使用許諾契約書](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"}に同意する必要があります。 詳しくは、アドビ担当者にお問い合わせください。
 
-## ブランド一致を使用したコンテンツの検証 {#validate-content}
+## ブランドアラインメントを使用してコンテンツを検証 {#validate-content}
 
 ブランドを[設定して公開](/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md#create-brand-kit){target="_blank"}したら、メールキャンペーン内でブランド調整スコアを直接評価して、コンテンツがブランドガイドラインに準拠していることを確認します。
 
@@ -32,11 +47,11 @@ ht-degree: 10%
 
    ![](assets/brand-score-1.png){width="800" zoomable="yes"}
 
-1. 別のブランドを使用して評価するには、**[!UICONTROL ブランド]** ドロップダウンメニューからブランドを選択し、**[!UICONTROL スコアを評価]**&#x200B;をクリックします。
+1. 別のブランドを使用して評価するには、**[!UICONTROL ブランド]**&#x200B;ドロップダウンメニューから選択し、「**[!UICONTROL スコアを評価]**」をクリックします。
 
    ![](assets/brand-score-2.png){width="800" zoomable="yes"}
 
-1. **[!UICONTROL ライティングスタイル]**&#x200B;または&#x200B;**[!UICONTROL ビジュアルコンテンツ]**&#x200B;を参照して、スコアに関する詳細なインサイトを確認します。
+1. **[!UICONTROL 書き込みのスタイル]**&#x200B;または&#x200B;**[!UICONTROL 視覚的なコンテンツ]**&#x200B;を参照して、スコアに関する詳細なインサイトを確認します。
 
    ![](assets/brand-score-3.png){width="800" zoomable="yes"}
 
@@ -44,18 +59,18 @@ ht-degree: 10%
 
    ![](assets/brand-score-5.png){width="800" zoomable="yes"}
 
-1. フラグ付けされたガイドラインを選択して、特定のフィードバックと提案を表示します。 ブランドの整合性では、次のカテゴリが評価されます。
+1. フラグ付けされたガイドラインを選択して、特定のフィードバックと提案を表示します。 ブランド一致では、次のカテゴリが評価されます。
 
-   * **[!UICONTROL 書き方]**:
-      * **[!UICONTROL ブランドコミュニケーションスタイル]**：すべてのチャネルで一貫したブランドボイスを確保するために、個性と感情のトーンを定義します。
-      * **[!UICONTROL ブランドメッセージ標準]**：効果的なマーケティングおよびプロモーションテキストの構造化および書式設定ルール。
-      * **[!UICONTROL 法的コンプライアンス基準]**：すべてのコミュニケーションが、テキストの配置やコンプライアンス チェックリストを含む法的要件に準拠していることを確認します。
+   * **[!UICONTROL 書き込みのスタイル]**：
+     * **[!UICONTROL ブランドコミュニケーションスタイル]**：すべてのチャネルをまたいで一貫性のあるブランドの声を確保するために、パーソナリティと感情的なトーンを定義します。
+     * **[!UICONTROL ブランドメッセージ標準]**：効果的なマーケティングおよびプロモーションテキストの構造化および書式設定ルール。
+     * **[!UICONTROL 法的コンプライアンス標準]**：すべてのコミュニケーションが、テキストの配置やコンプライアンスチェックリストを含む法的要件に準拠していることを確認します。
 
-   * **[!UICONTROL ビジュアルコンテンツ]**:
-      * **[!UICONTROL 写真基準]**：解像度、構図、照明、ファイル形式など、写真コンテンツの要件。
-      * **[!UICONTROL イラスト標準]**：イラストのスタイルパラメーター、線の太さ、色の使用状況、ファイル形式の要件。
-      * **[!UICONTROL アイコンの標準]**：グリッドシステム、線の太さ、均一性を考慮したサイズなど、アイコンのデザインに関する仕様。
-      * **[!UICONTROL 使用ガイドライン]**：ブランドアイデンティティを維持するための、画像の選択、配置、およびコンテキストに関するベストプラクティス。
+   * **[!UICONTROL 視覚的なコンテンツ]**：
+     * **[!UICONTROL 写真標準]**：解像度、コンポジション、照明、ファイル形式など、写真コンテンツの要件。
+     * **[!UICONTROL イラスト標準]**：イラストのスタイルパラメーター、線の太さ、カラーの使用状況、ファイル形式の要件。
+     * **[!UICONTROL アイコン標準]**：グリッドシステム、線の太さ、均一性を考慮したサイズなど、アイコンのデザインに関する仕様。
+     * **[!UICONTROL 使用ガイドライン]**：ブランドアイデンティティを維持するための、画像の選択、配置、コンテキストに関するベストプラクティス。
 
    ![](assets/brand-score-4.png){width="800" zoomable="yes"}
 

@@ -4,33 +4,36 @@ description: Salesforceの「Marketo」タブでリードフィードを使用�
 title: リードフィードの使用
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI
+TQID: 'https://experienceleague.adobe.com/J0UVkCJE1b00Z0rj5Uuh-72NcReV0voMyH7-5-T-tcI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 351
+source-wordcount: '351'
 ht-degree: 79%
-
 ---
-
 # リードフィードの使用 {#using-the-lead-feed}
 
-リードフィードは、リードが行った注目のイベントに関する最新リストです。 「Marketo」タブをクリックすると、右側に表示されます。 これはRSS フィードまたは[!DNL Twitter] フィードのようなものです。最新の更新はリストの上部にあります。 この手法を使用すれば、リードの記憶に新しい段階でリードを獲得できます。
+リードフィードは、リードが実行した注目のアクション（イベント）の最新リストです。 「Marketo」タブをクリックすると、右側に表示されます。 これはRSS フィードまたは[!DNL Twitter] フィードのようなものです。最新の更新はリストの上部にあります。 この手法を使用すれば、リードの記憶に新しい段階でリードを獲得できます。
 
 >[!NOTE]
 >
->リードフィードには、自分が所有者であるリードと、自分のウォッチリストにあるリードがどちらも表示されます。
+>リードフィードには、自分が所有者であるリードと、自分のウォッチリストにあるリードの両方が含まれます。
 
-## リードフィードの内容 {#whats-in-the-lead-feed}
+## リードフィードには何が表示されるか {#whats-in-the-lead-feed}
 
 ![](assets/using-the-lead-feed-1.png)
 
-リードフィードの各項目は、このリードのマーケティング履歴の注目すべきアクティビティまたはイベントです。
+リードフィードの各項目は「注目のアクション」であり、このリードのマーケティング履歴における注目すべきアクティビティまたはイベントです。
 
 [!DNL Salesforce] で表示する場合、各項目には次の内容が含まれます。
 
@@ -52,7 +55,7 @@ ht-degree: 79%
   </tr>
   <tr>
    <td><p>B. イベントタイプ</p></td>
-   <td><p>このアクションのカテゴリ（web、電子メール、マイルストーン）</p></td>
+   <td><p>このアクションのカテゴリ（web、メール、マイルストーン）</p></td>
   </tr>
   <tr>
    <td><p>C. アカウント名</p></td>
@@ -68,11 +71,11 @@ ht-degree: 79%
   </tr>
   <tr>
    <td><p>F. 配信登録</p></td>
-   <td><p>このようなイベントに関するメール通知を受信</p></td>
+   <td><p>このようなイベントに関するメールによる通知を受信します。</p></td>
   </tr>
   <tr>
    <td><p>G. スター</p></td>
-   <td><p>この人は最有望見込客（優先順位が高い）</p></td>
+   <td><p>この人物は最有望見込客（優先度が高い）です。</p></td>
   </tr>
  </tbody>
 </table>
@@ -92,8 +95,8 @@ RSS フィードによるリードフィードの更新も取得できます。 
 >
 >この機能を使用するには、自社の Marketo 管理者が [RSS フィードを有効にする](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)必要があります。
 
-RSS の更新情報を取得するには、RSS リンクと RSS フィードリーダーの 2 つが必要です。 RSS を取得するには、リードフィードで RSS アイコンをクリックします。
+RSS の更新情報を取得するには、RSS リンクと RSS フィードリーダーの 2 つが必要です。 RSS リンクを取得するには、リードフィードで RSS アイコンをクリックします。
 
 ![](assets/using-the-lead-feed-3.png)
 
-RSS フィードが新しいウィンドウに表示されます。 RSS フィードの URL をコピーして、RSS リーダーで使用します。 たいていのブラウザーには RSS リーダーが組み込まれていますし、プラットフォームごとに固有の RSS リーダーを使用することもできます。
+RSS フィードが新しいウィンドウに表示されます。 RSS フィードの URL をコピーして、RSS リーダーで使用します。 たいていのブラウザーにはビルトインの RSS リーダーが用意されていますし、プラットフォームごとに固有の RSS リーダーを使用することもできます。

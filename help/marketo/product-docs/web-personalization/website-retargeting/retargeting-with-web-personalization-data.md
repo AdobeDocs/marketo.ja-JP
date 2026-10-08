@@ -4,29 +4,34 @@ description: Dnl webによるリターゲティングなど、Marketo Engageのw
 title: Web パーソナライゼーションデータによるリターゲティング
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/PwPJNbos0lv2NI1ap6TOqIt1QE8EyXqRVd61nqkLkz4
+TQID: 'https://experienceleague.adobe.com/PwPJNbos0lv2NI1ap6TOqIt1QE8EyXqRVd61nqkLkz4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 416
+source-wordcount: '416'
 ht-degree: 91%
-
 ---
-
 # [!DNL Web Personalization] データによるリターゲティング {#retargeting-with-web-personalization-data}
 
 >[!AVAILABILITY]
 >
 >Web サイトのリターゲティングが、web パーソナライゼーションタイルの下に表示されるようになりました。 リターゲティングのみを購入した場合は、このタイルが表示され、リターゲティング機能&#x200B;**のみ**&#x200B;が有効になっている [!DNL Web Personalization] 製品にアクセスできます。 アカウント設定、リターゲティングページ、セグメント、追加のトラッキングページにアクセスできます。
 
-「どんな人か」「何をしたか」に基づく広告表示を利用して、過去にサイトを訪問した見込み客を、リマーケティングのターゲットにします。 パーソナライズされたレターゲティングでは、業界、特定顧客および認識済みリードのデータに基づき、関連性のある広告を出すことで特定のオーディエンスにターゲティングできます。
+リマーケティングは、「どんな人か」「何をしたか」に基づくディスプレイ広告を利用して、過去にサイトを訪問した見込み客をターゲットにします。 パーソナライズされたリターゲティングでは、業界、特定顧客、および認識済み顧客のデータに基づき、関連性の高い広告で特定のオーディエンスをターゲットにします。
 
 現在、web パーソナライゼーションは、次のリマーケティングプラットフォームにデータを追加します。
 
@@ -41,7 +46,7 @@ ht-degree: 91%
    <th colspan="1">[!DNL Web Personalization] データ</th>
   </tr>
   <tr>
-   <th><p>業種</p></th>
+   <th><p>業界</p></th>
   </tr>
   <tr>
    <th><p>グループ（エンタープライズ、中小企業）</p></th>
@@ -50,7 +55,7 @@ ht-degree: 91%
    <th><p>カテゴリー（Fortune 500/1000、Global 2000）</p></th>
   </tr>
   <tr>
-   <th><p>ABM リスト（名前付きアカウントリスト）</p></th>
+   <th><p>ABM リスト（重点アカウントリスト）</p></th>
   </tr>
   <tr>
    <th><p>セグメント化オーディエンス（セグメントに基づく）</p></th>
@@ -69,7 +74,7 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >リターゲティング設定は、ドメインごとまたはサブドメインごとにおこないます。 これらのドメインからを通じてリターゲティングプラットフォームにデータを送信する場合は、他のドメインをアクティブ化します。
+   >リターゲティング設定は、ドメインごとまたはサブドメインごとにおこないます。 これらのドメインからリターゲティングプラットフォームにデータを送信する場合は、他のドメインを有効化します。
 
 1. ドメインごとに、Google Analytics または [!DNL Google Universal Analytics] の設定をアクティブ化します。
 
@@ -77,7 +82,7 @@ ht-degree: 91%
    >
    >ウェブサイトに Google リターゲティングタグを実装する必要があります。
    >
-   >Web パーソナライゼーションと Google Analytics との連携を既に設定している場合は、「アカウント設定」の設定と同じなので、この部分を編集する必要はありません。
+   >Web パーソナライゼーションと Google Analytics との連携を既に設定済みの場合は、「アカウント設定」内の設定と同じなので、この部分を編集する必要はありません。
 
    ![](assets/two.png)
 
@@ -91,7 +96,7 @@ ht-degree: 91%
 
 ## セグメント化オーディエンスを作成する {#creating-segmented-audience}
 
-セグメント化オーディエンスを使用すると、既存のセグメントをオーディエンスとして選択し、リターゲティングキャンペーンに使用できます。 例えば、認識済みリードのセグメントを選択します。
+セグメント化オーディエンスを使用すると、既存のセグメントをオーディエンスとして選択し、リターゲティングキャンペーンに使用できます。 例えば、認識済み顧客セグメントを選択します。
 
 >[!TIP]
 >

@@ -4,21 +4,24 @@ description: コンテンツ設定で予測コンテンツアルゴリズムの�
 title: アルゴリズムの目標設定
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/AWWzwAwRxqy6w-NDGCJX4X-KNAGFWGCQnawyRGpKjG8
+TQID: 'https://experienceleague.adobe.com/AWWzwAwRxqy6w-NDGCJX4X-KNAGFWGCQnawyRGpKjG8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Artificial intelligence
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 126
+source-wordcount: '126'
 ht-degree: 78%
-
 ---
-
 # アルゴリズムの目標設定 {#algorithm-goal-settings}
 
-アルゴリズム目標設定を使用すると、予測コンテンツ人工知能アルゴリズムの終了目標を設定して、ビジネス目標と整合性を取ることができます。
+アルゴリズム目標設定を使用すると、予測コンテンツの人工知能アルゴリズムの最終的な目標を設定し、ビジネス目標に合わせることができます。
 
 1. 予測コンテンツで、ログイン名をクリックし、「**[!UICONTROL コンテンツ設定]**」を選択します。
 
@@ -32,9 +35,9 @@ ht-degree: 78%
 
    ![](assets/three-new.png)
 
-   | **[!UICONTROL クリック]** | コンテンツを表示したリードが最もクリックしそうなコンテンツを表示します |
+   | **[!UICONTROL クリック]** | コンテンツを閲覧しているユーザが最もクリックしそうなコンテンツを表示します。 |
    |---|---|
-   | **[!UICONTROL コンバージョン]** | コンテンツを表示したリードが最もフォームを送信する可能性が高いコンテンツを表示します |
+   | **[!UICONTROL コンバージョン]** | コンテンツを閲覧しているユーザが最もフォームを送信しそうなコンテンツを表示します。 |
 
 1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 

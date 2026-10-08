@@ -1,18 +1,23 @@
 ---
 description: 手順3では、MarketoをDynamics 2016またはDynamics 365 オンプレミスに接続する方法について説明します。 Marketo Adminでsync user credentialsを入力し、syncを有効にします。
-title: ' [!DNL Microsoft Dynamics]  2016／[!DNL Dynamics] 365 オンプレミス向け Marketo インストール手順 3／3'
+title: '[!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 オンプレミス用Marketoのインストール ステップ 3/3'
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/WYR9u4Mfq8SeuXPyuYxgA-9iZlez5oKYPpnvrl-RwqY
+TQID: 'https://experienceleague.adobe.com/WYR9u4Mfq8SeuXPyuYxgA-9iZlez5oKYPpnvrl-RwqY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
-ht-degree: 79%
-
+source-wordcount: '410'
+ht-degree: 76%
 ---
-
 # 手順 3／3：Marketo [!DNL Dynamics]（2016 オンプレミス／[!DNL Dynamics] 365 オンプレミス）の接続 {#step-of-connect-marketo-dynamics-on-premises-2016}
 
 >[!PREREQUISITES]
@@ -24,9 +29,9 @@ ht-degree: 79%
 >
 >**管理者権限が必要**
 
-## [!DNL Dynamics] 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
+## [!DNL Dynamics] 同期ユーザー情報の入力 {#enter-dynamics-sync-user-information}
 
-1. Marketo にログインし、**[!UICONTROL 管理]**&#x200B;をクリックします。
+1. Marketo にログインし、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/login-admin.png)
 
@@ -34,11 +39,11 @@ ht-degree: 79%
 
    ![](assets/image2015-3-16-9-47-34.png)
 
-1. 「**[!DNL Microsoft]**」を選択します。
+1. **[!DNL Microsoft]** を選択します。
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. **[!UICONTROL 手順 1：資格情報を入力]**&#x200B;で「**編集**」をクリックします。
+1. **手順 1：資格情報を入力**&#x200B;の「**[!UICONTROL 編集]**」をクリックします。
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -86,7 +91,7 @@ ht-degree: 79%
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 下にスクロールしてフィールドを確認します。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。 「**[!UICONTROL 保存]**」をクリックします。
+1. 下にスクロールしてフィールドを確認します。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意に設定できます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a15-3a35.png)
 

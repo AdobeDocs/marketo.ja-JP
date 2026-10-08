@@ -4,21 +4,25 @@ description: Microsoft Dynamics 365にMarketo Sales Insightをインストール
 title: Marketo セールスインサイトの Microsoft Dynamics 365 へのインストールと設定
 exl-id: c1f06b8c-48fd-4015-9502-7c9693632589
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/F3iRn29xvOCHkuXSitfaT8iPJrlOXKeTQ3sxtGHpXGg
+TQID: 'https://experienceleague.adobe.com/F3iRn29xvOCHkuXSitfaT8iPJrlOXKeTQ3sxtGHpXGg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 437
+source-wordcount: '437'
 ht-degree: 87%
-
 ---
-
 # [!DNL Microsoft Dynamics 365] での [!DNL Marketo Sales Insight] のインストールと設定 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 [!DNL Marketo Sales Insight] は、マーケティングチームが持つ豊富なデータをセールスチームに「窓」として提供する素晴らしいツールです。 インストールと設定方法を次に示します。
@@ -47,7 +51,7 @@ ht-degree: 87%
    >
    >次に進む前に、あらかじめ Marketo ソリューションを[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)インストールして設定しておく必要があります。
 
-1. 「**[!UICONTROL 読み込み]**」をクリックします。
+1. 「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
@@ -63,7 +67,7 @@ ht-degree: 87%
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
-1. ログファイルを任意にダウンロードします。 「**[!UICONTROL 閉じる]**」をクリックします。
+1. 必要に応じてログファイルをダウンロードします。 「**[!UICONTROL 閉じる]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
@@ -135,7 +139,7 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
 
    ![](assets/image2015-4-29-14-3a57-3a46.png)
 
-1. [!DNL Sales Insight] へのアクセス権を付与するユーザを選択し、「**[!UICONTROL ロールを管理]**」をクリックします。
+1. [!DNL Sales Insight] へのアクセス権を付与するユーザーを選択し、「**[!UICONTROL ロールを管理]**」をクリックします。
 
    ![](assets/image2015-4-29-14-3a59-3a31.png)
 
@@ -143,7 +147,7 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
-   これですべて完了です。 最後に、[!DNL Marketo Sales Insight] にアクセスし、リードや取引先責任者を調べるユーザとして [!DNL Dynamics] にログインし、テストを実施します。
+   これですべて完了です。 最後に、[!DNL Marketo Sales Insight] にアクセスし、リードや取引先責任者を調べるユーザーとして [!DNL Dynamics] にログインし、テストを実施します。
 
    ![](assets/image2015-4-29-15-3a2-3a27.png)
 

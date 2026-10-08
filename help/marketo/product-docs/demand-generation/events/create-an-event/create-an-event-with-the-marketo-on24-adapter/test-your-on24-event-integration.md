@@ -4,26 +4,28 @@ description: MarketoでON24 イベント統合をテストする方法につい�
 title: ON24 イベント統合のテスト
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-TQID: https://experienceleague.adobe.com/u5RzlTajaIZk5-9ESOX2LPYAj9bmbmMdJdraLwFlFqM
+TQID: 'https://experienceleague.adobe.com/u5RzlTajaIZk5-9ESOX2LPYAj9bmbmMdJdraLwFlFqM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 201
+source-wordcount: '201'
 ht-degree: 82%
-
 ---
-
 # ON24 イベント統合のテスト {#test-your-on-event-integration}
 
 イベント統合を徹底的にテストします。
 
-## 最初のキャンペーンを実行する前に推奨されるテストシーケンス {#recommended-test-sequence-before-running-your-first-campaign}
+## 最初のキャンペーンを実行する前の推奨テストシーケンス {#recommended-test-sequence-before-running-your-first-campaign}
 
 1. イベントの登録フォームに入力し、有効なメールアドレスを使用してテストします。
 1. Marketo イベントのメンバーシップグリッドに、テスト名が「**登録済み**」ステータスで表示されることを確認します。
 1. また、ON24 でテスト名が「**登録済み**」と表示されることを確認します。
-1. テスト名の登録に使用した有効なメールアドレスで、イベント確認メールが受信されており、メールで一意の URL が解決されたことを確認します。
+1. テスト名の登録に使用した有効なメールアドレスで、イベントの確認メールが受信されており、そのメール内で一意の URL が有効になっていることを確認します。
 
    >[!NOTE]
    >

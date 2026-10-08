@@ -2,22 +2,29 @@
 description: リリースノート - 2026年3月 – Marketo ドキュメント – 製品ドキュメント
 title: リリースノート - 2026年3月
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '468'
-ht-degree: 21%
-
+source-wordcount: '533'
+ht-degree: 18%
 ---
-
 # リリースノート：2026年3月 {#release-notes-mar-26}
 
-以下では、2026年3月リリースに含まれるすべての機能について説明します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+以下では、2026年3月リリースに含まれるすべての機能について説明します。 利用可能な機能については、お使いの Adobe Marketo Engage のエディションをご確認ください。
 
 Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、2026年3月27日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに該当し、2026年3月27日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースの機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -37,7 +44,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子メール Designer - フラグメント内の編集可能なHTML コンポーネント </strong>：ビジュアルフラグメント内では、コンポーネントプロパティパネルを通じて、画像、テキスト、ボタンのコンポーネントで編集可能なフィールドがサポートされています。HTML コンポーネントの場合、編集可能フィールドは、HTML コンポーネント自体のソースコード内で変数ベースの構文を使用して、異なる方法で設定されます。
+   <td><strong>電子メール Designer - フラグメント内の編集可能なHTML コンポーネント </strong>：ビジュアルフラグメント内では、コンポーネントプロパティパネルを通じて、画像、テキスト、ボタンのコンポーネントで編集可能なフィールドがサポートされています。 HTML コンポーネントの場合、編集可能フィールドは、HTML コンポーネント自体のソースコード内で変数ベースの構文を使用して、異なる方法で設定されます。
    </td>
    <td>リリース</i></td>
    <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">フラグメント内の編集可能なHTML コンポーネント</a></td>
@@ -48,7 +55,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>電子メール Designer - クイックアクション </strong>: <i>古い電子メールエディターと同じ</i>。すべてのメール Designer アセット（メール、メールテンプレート、フラグメント）でクイックアクションが使用できるようになりました。 サポートされているクイックアクションには、複製、削除、移動、ドラフトの作成/編集などがあります。
+   <td><strong>電子メール Designer - クイックアクション </strong>: <i>古い電子メールエディターと同じ</i>。 すべてのメール Designer アセット（メール、メールテンプレート、フラグメント）でクイックアクションが使用できるようになりました。 サポートされているクイックアクションには、複製、削除、移動、ドラフトの作成/編集などがあります。
    </td>
    <td>リリース</i></td>
    <td>該当なし</td>
@@ -59,7 +66,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
    <tr>
-   <td><strong>電子メール Designer - Outlook レンダリングの修正</strong>：この更新プログラムは、特にMS Outlookでのレンダリングの問題を修正します。高度なHTMLモードを使用すると、HTML/CSSのマイナーな編集や、メールテンプレートへのスクリプトタグの追加を行うことができます。
+   <td><strong>電子メール Designer - Outlook レンダリングの修正</strong>：この更新プログラムは、特にMS Outlookでのレンダリングの問題を修正します。 高度なHTMLモードを使用すると、HTML/CSSのマイナーな編集や、メールテンプレートへのスクリプトタグの追加を行うことができます。
    </td>
    <td>リリース</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">高度なHTMLエディターでメールテンプレートを編集できます</a></td>

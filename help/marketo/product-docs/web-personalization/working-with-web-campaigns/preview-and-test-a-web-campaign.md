@@ -4,20 +4,23 @@ description: web キャンペーンのプレビューとテストを使用して
 title: Web キャンペーンのプレビューとテスト
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/adIevghigq2k-DWBtDdTO0ZBl3r6ZJw5X3q43qb7ppU
+TQID: 'https://experienceleague.adobe.com/adIevghigq2k-DWBtDdTO0ZBl3r6ZJw5X3q43qb7ppU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 427
+source-wordcount: '427'
 ht-degree: 93%
-
 ---
-
 # Web キャンペーンのプレビューとテスト {#preview-and-test-a-web-campaign}
 
 この記事では、web キャンペーンの様々なプレビュー方法と、ウェブサイト上にあるサンドボックスセグメントを使用してキャンペーンをテストする方法について説明します。
@@ -28,7 +31,7 @@ ht-degree: 93%
 
 ## Web キャンペーンの作成ページでのプレビュー {#preview-a-web-campaign-on-the-creation-page}
 
-1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
+1. 「**[!UICONTROL Web キャンペーン]**」に移動します。
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
@@ -36,7 +39,7 @@ ht-degree: 93%
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. 「サイトでのプレビュー」で、ページの URL を追加し、「**[!UICONTROL プレビュー]**」をクリックします。 新しいウィンドウまたはタブが開き、キャンペーンのプレビューが表示されます。
+1. 「サイトでのプレビュー」で、ページの URL を追加し、「**[!UICONTROL プレビュー]**」をクリックします。 新しいウィンドウまたはタブが開き、プレビューが表示されます。
 
    ![](assets/three-1.png)
 
@@ -46,11 +49,11 @@ ht-degree: 93%
 
    >[!NOTE]
    >
-   >また、キャンペーンをプレビューする際のエクスペリエンスを最大限に高めるには、ブラウザープラグイン（[[!DNL Chrome]](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) または [[!DNL Firefox]](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)）をインストールすることもできます。 以下の節を参照してください。
+   >また、キャンペーンをプレビューする際のエクスペリエンスを最大限に高めるには、ブラウザープラグイン（[[!DNL Chrome]](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) または [[!DNL Firefox]](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)）をインストールすることもできます。 以下のセクションを参照してください。
 
-## ブラウザープラグインを使用した作成ページでの web キャンペーンのプレビュー {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
+## ブラウザープラグインを使用して作成ページで web キャンペーンをプレビュー {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
-1. 上記の節の手順 1 および 2 に従います。
+1. 上記のセクションの手順 1 および 2 に従ってください。
 
 1. ブラウザープラグインへのリンクをクリックします（この場合は [!DNL Chrome] を使用）。
 
@@ -68,11 +71,11 @@ ht-degree: 93%
 
    ![](assets/seven.png)
 
-1. 新しいウィンドウ／タブが開き、デスクトップ、スマートフォン、タブレットでのキャンペーンの表示をプレビューできます。
+1. 新しいウィンドウ／タブが開き、デスクトップ、スマートフォン、タブレットでキャンペーンがどのように表示されるかをプレビューできます。
 
    ![](assets/campaign-preview.png)
 
-## Web キャンペーンページでの web キャンペーンのプレビュー {#preview-a-web-campaign-on-the-web-campaigns-page}
+## Web キャンペーンページで web キャンペーンをプレビュー {#preview-a-web-campaign-on-the-web-campaigns-page}
 
 1. Web キャンペーンのリストを見る場合は、キャンペーンを選択し、**[!UICONTROL プレビュー]**&#x200B;アイコンをクリックします。
 
@@ -98,7 +101,7 @@ ht-degree: 93%
 
    ![](assets/segment.png)
 
-1. Web キャンペーンを設定ページで、リストから選択して、ターゲットセグメントをサンドボックスセグメントに変更します。
+1. Web キャンペーン設定ページで、リストからサンドボックスセグメントを選択してターゲットセグメントを変更します。
 
    ![](assets/set-web-campaign-target-segment.jpg)
 

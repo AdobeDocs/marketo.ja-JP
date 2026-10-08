@@ -4,13 +4,19 @@ description: レベニューモデルの成功事例など、Marketo Engageの�
 title: 収益モデルの成功パスについて
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d2f1f0d664576a1ac8f5640dc20ebf50bec58501
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 74%
-
 ---
-
 # 収益モデルの成功パスについて {#understanding-revenue-model-success-path}
 
 ## 成功パス {#success-path}
@@ -23,10 +29,10 @@ ht-degree: 74%
 
 | **成功パスステージ名** | **定義** |
 |---|---|
-| **新しい名前の確認** | 新しい名前が修飾されているかどうかを確認 |
+| **新しい名前の確認** | 新しい名前が適格かどうかを確認 |
 | **見込み客** | まだセールスの準備ができていない適格な見込み客 |
 | **リード** | マーケティングクオリファイドリード（「セールス対応」） |
-| **商談** | セールスが受け入れたリード、積極的に作業 |
+| **商談** | セールスが受け入れ、積極的に対応しているリード |
 | **顧客** | クローズ済みの獲得契約 |
 
 >[!TIP]
@@ -46,6 +52,6 @@ ht-degree: 74%
 
 >[!TIP]
 >
->これらは緑のパスの上にはありません。 これらのステージは、成功パス分析には表示されません。
+>これらは緑のパスの上にはありません。 これらのステージは、成功パスアナライザーには表示されません。
 
-将来のリードの流れを見るのがもっと簡単になります。 ようこそ。
+将来のリードの流れを見るのがもっと簡単になります。 新しい小さな相棒に挨拶しましょう。

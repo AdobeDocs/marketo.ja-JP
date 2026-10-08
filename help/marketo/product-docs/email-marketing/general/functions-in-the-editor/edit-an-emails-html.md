@@ -4,19 +4,24 @@ description: メールのHTMLを直接編集する方法を説明します。 HT
 title: メールの HTML を編集する
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/2le08a9sTBmn-jV6KfW-OzXJg-7MKlfbZM5kPdZ-3WM
+TQID: 'https://experienceleague.adobe.com/2le08a9sTBmn-jV6KfW-OzXJg-7MKlfbZM5kPdZ-3WM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 363
+source-wordcount: '363'
 ht-degree: 90%
-
 ---
-
 # メールの HTML を編集する {#edit-an-emails-html}
 
-メールの基になる HTML の変更が必要になることがあります。 外部システムを使用してメールのコードを設計および構築することもあります。 どちらの場合も、メールエディター内から簡単にコードを読み込んだり、編集したりできます。
+メールの基になる HTML の変更が必要になることがあります。 外部システムを使用してメールのコードを設計および作成することもあります。 どちらの場合も、メールエディター内から簡単にコードを読み込んだり、編集したりできます。
 
 ## HTML の編集 {#edit-html}
 
@@ -44,7 +49,7 @@ ht-degree: 90%
    >
    >メールのベストプラクティスは、すべてのスタイルをインライン化することです。 複数のメールクライアントでは、`<head>` セクションでの CSS はサポートされていません。
 
-## テンプレートからのメールの分離 {#breaking-an-email-from-its-template}
+## メールをテンプレートから切り離す {#breaking-an-email-from-its-template}
 
 メールはこれらのコードの変更によってはテンプレートから分離&#x200B;**されません**。
 
@@ -57,13 +62,13 @@ ht-degree: 90%
 
 コードエディターで次を実行すると、メールがテンプレートから分離&#x200B;**されます**。
 
-* 要素またはモジュール外のコード内の変更
+* 要素やモジュールの外側にあるコードの内容の変更
 * モジュール外の任意の要素の非 mkto 属性（「id」や「style」など）の追加または変更
 * モジュール外の要素の削除
 
 ## コードの検索 {#search-code}
 
-コードを検索機能を使用すると、メールの HTML コード内のコンテンツを効率的に検索して置換することができます。
+検索コード機能を使用すると、メールの HTML コード内のコンテンツを効率的に検索および置換できます。
 
 1. メールのコードで、「**[!UICONTROL コードを検索]**」をクリックします。
 

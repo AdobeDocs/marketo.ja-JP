@@ -7,25 +7,34 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-TQID: https://experienceleague.adobe.com/SCmyn9QUECmvQgVltKknlvLuvL15Tz3LYorBFYB1hqI
+TQID: 'https://experienceleague.adobe.com/SCmyn9QUECmvQgVltKknlvLuvL15Tz3LYorBFYB1hqI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: fdc003d7aed05d85687427d9455bb806eb33d0b2
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1403
+source-wordcount: '1403'
 ht-degree: 12%
-
 ---
-
 # カスタマイズ可能なフラグメント {#customizable-fragments}
 
 フラグメントがメールまたはメールテンプレートで使用される場合、フラグメントは継承のためにデフォルトでロックされます。つまり、フラグメントに対して行われた変更は、使用されるすべてのアセットに自動的に反映されます。 カスタマイズ可能なフラグメントを使用すると、フラグメント内の特定のフィールドを、フラグメントが電子メールまたは電子メールテンプレートに追加されたときに編集可能として定義できます。 例えば、バナー、テキスト、ボタンを含むフラグメントがある場合、画像やボタンのターゲット URLなどの特定のフィールドを編集可能として指定できます。

@@ -4,23 +4,25 @@ description: Marketoの電子メールで利用できるシステムトークン
 title: システムトークンの用語集
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-TQID: https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q
+TQID: 'https://experienceleague.adobe.com/8D-EZy-i4xmdOY27HNHs9HF2mCjofhMM4dDbfgOM7-Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 229
+source-wordcount: '230'
 ht-degree: 85%
-
 ---
-
 # システムトークンの用語集 {#system-tokens-glossary}
 
 ユーザトークンに加えて、本当にクールなシステムトークンを使用できます。 こちらです。
 
 >[!NOTE]
 >
->アカウントのタイムゾーン設定は、日時トークンが実行されるタイミングに影響します。
+>アカウントのタイムゾーン設定は、日付トークンと時刻トークンが実行されるタイミングに影響します。
 
 ## system.date {#system-date}
 
@@ -35,7 +37,7 @@ ht-degree: 85%
 
 ## system.time {#system-time}
 
-`{{system.time}}` トークンは、実行時に現在の時刻をレンダリングします。例：**04:34午後（GMT -0700）**
+`{{system.time}}` トークンは、実行時の現在の時刻を次のようにレンダリングします：**04:34 PM （GMT -0700）**
 
 **使用場所：**
 

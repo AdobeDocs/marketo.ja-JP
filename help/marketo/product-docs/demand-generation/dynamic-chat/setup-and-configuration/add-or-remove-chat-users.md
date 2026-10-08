@@ -3,18 +3,23 @@ description: Adobe Admin ConsoleでDynamic Chat ユーザーを追加または�
 title: チャットユーザーの追加または削除
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-TQID: https://experienceleague.adobe.com/A-Avre-BoRF0UaSDGjqJtBOBTSCLS-JG0idp9LCAh2w
+TQID: 'https://experienceleague.adobe.com/A-Avre-BoRF0UaSDGjqJtBOBTSCLS-JG0idp9LCAh2w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 289
+source-wordcount: '289'
 ht-degree: 85%
-
 ---
-
 # チャットユーザーの追加または削除 {#add-or-remove-chat-users}
 
 以下の手順に従って、チャットユーザーを追加または削除します。
@@ -23,7 +28,7 @@ ht-degree: 85%
 >
 >デフォルトでは、すべての Marketo Engage 管理者に Dynamic Chat の管理者権限が付与されます。
 
-## チャットユーザを追加 {#add-a-chat-user}
+## チャットユーザーを追加 {#add-a-chat-user}
 
 1. [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.にログインします。
 
@@ -45,7 +50,7 @@ ht-degree: 85%
 
    ![](assets/add-or-remove-chat-users-4.png)
 
-1. 追加するユーザの[!UICONTROL 名前、ユーザグループ、メールアドレス]を入力します。 姓と名はオプションです。
+1. 追加するユーザーの[!UICONTROL 名前、ユーザーグループ、メールアドレス]を入力します。 姓と名はオプションです。
 
    ![](assets/add-or-remove-chat-users-5.png)
 
@@ -59,7 +64,7 @@ ht-degree: 85%
 
    >[!NOTE]
    >
-   >Adobe Admin Console でユーザを追加した後、そのユーザが Dynamic Chat エージェント管理ページに表示されるまでに最大 2 時間かかる場合があります。
+   >Adobe Admin Console でユーザーを追加した後、そのユーザーが Dynamic Chat エージェント管理ページに表示されるまでに最大 2 時間かかる場合があります。
 
 ## Dynamic Chat アクセスを Marketo のロールに追加 {#add-dynamic-chat-access-to-marketo-role}
 
@@ -113,5 +118,5 @@ ht-degree: 85%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Admin Console ユーザ](https://helpx.adobe.com/jp/enterprise/using/users.html){target="_blank"}
+>* [Adobe Admin Console ユーザー](https://helpx.adobe.com/jp/enterprise/using/users.html){target="_blank"}
 >* [ユーザーを個別に管理](https://helpx.adobe.com/jp/enterprise/using/manage-users-individually.html){target="_blank"}

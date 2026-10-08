@@ -3,42 +3,63 @@ description: 継承インスタンス管理者チェックリスト - Marketo �
 title: 継承インスタンス管理者チェックリスト
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-TQID: https://experienceleague.adobe.com/FCMSgPqv3eJh4Etqe3J7305tnfQbVrghY8nc2Im6Ww8
+TQID: 'https://experienceleague.adobe.com/FCMSgPqv3eJh4Etqe3J7305tnfQbVrghY8nc2Im6Ww8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
+    internal-label: Custom activities
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: e5d29014-8a81-4c0c-845b-2adc7a5d6258
+    internal-label: Campaign Inspector
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
   - id: fc9b09fe-b844-4544-887b-e420c3b82065
+    internal-label: Webhooks
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1943
-ht-degree: 89%
-
+source-wordcount: '2030'
+ht-degree: 88%
 ---
-
 # 継承インスタンス：「管理者」セクションのチェックリスト {#inherited-instance-admin-section-checklist}
 
-以下のチェックリスト（各記事の下部にリンクされている後続のチェックリスト）は、即座に理解できるように、Marketo Champions からの入力を基にして Adobe Professional Services によってまとめられたものです。 また、[チェックリストをダウンロード](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)して、進捗を追跡することもできます。
+以下のチェックリスト（各記事の下部にリンクされている後続のチェックリスト）は、短期間で習熟できるように、Marketo Champions からのインプットを基に Adobe Professional Services によってまとめられたものです。 また、[チェックリストをダウンロード](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx)して、進捗を追跡することもできます。
 
 >[!TIP]
 >
@@ -48,7 +69,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->[Adobe Identity Management システム（IMS）](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}にオンボードされた Marketo Engage サブスクリプションにのみ適用されます。 サブスクリプションに Adobe IMS がまだオンボードされていない場合は、Marketo Engage／管理者／ユーザ＆ロールで、[従来のユーザロールと権限のエクスペリエンス](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}に進みます。
+>[Adobe Identity Management システム（IMS）](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}にオンボードされた Marketo Engage サブスクリプションにのみ適用されます。 サブスクリプションに Adobe IMS がまだオンボードされていない場合は、Marketo Engage／管理者／ユーザー＆ロールで、[従来のユーザーロールと権限のエクスペリエンス](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}に進みます。
 
 <table>
  <tbody>
@@ -67,7 +88,7 @@ ht-degree: 89%
    <td>製品プロファイル</td>
    <td><li>すべての適切なユーザが Adobe Admin Console で Marketo Engage の製品プロファイルに割り当てられていますか？
 <br/>     そうでない場合は、Adobe Admin Console の Marketo Engage 製品プロファイルから必ず<a href="/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md" target="_blank">ユーザを追加または削除</a>してください。 ユーザが製品プロファイルに追加されている場合、Marketo Engage／管理者／ユーザ＆ロールでユーザのロールを割り当てることはできません。</li>
-<p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：望ましくないユーザが複数の製品プロファイルに追加された場合は、そのユーザをすべての製品プロファイルから削除する必要があります。 それ以外の場合は、Marketo Engage に引き続きアクセスできます。</td>
+<p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：望ましくないユーザーが複数の製品プロファイルに追加された場合は、そのユーザーをすべての製品プロファイルから削除する必要があります。 それ以外の場合は、Marketo Engage に引き続きアクセスできます。</td>
   </tr>
   <tr>
    <td>User Management API</td>
@@ -88,7 +109,7 @@ ht-degree: 89%
   </tr>
   <tr>
    <td>ユーザ</td>
-   <td><img src="assets/note-icon.png" alt="メモアイコン"> メモ：サブスクリプションが既に Adobe IMS にある場合は、Adobe Admin Console で次のユーザ管理の確認に進みます。 それ以外の場合は、Marketo Engage で管理者／ユーザ＆ロール／ユーザに移動します。
+   <td><img src="assets/note-icon.png" alt="メモアイコン"> 注意：サブスクリプションが既に Adobe IMS にある場合は、Adobe Admin Console で次のユーザー管理の確認に進みます。 それ以外の場合は、Marketo Engage で管理者 &gt; ユーザ＆ロール &gt; ユーザに移動します。
    <p>
    <li>ユーザー数は？</li>
 <li><a href="/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md#remove-a-user" target="_blank">削除</a>する必要があるユーザはいますか？</li>
@@ -99,13 +120,13 @@ ht-degree: 89%
   </tr>
   <tr>
    <td>ロール</td>
-   <td><img src="assets/note-icon.png" alt="メモアイコン"> メモ：Marketo を Adobe ID と共に使用するかどうかに関わらず、Marketo Engage の管理者／ユーザ＆ロール／ロールでロール権限の確認に進みます。
+   <td><img src="assets/note-icon.png" alt="メモアイコン"> メモ：Marketo を Adobe Identity と共に使用するかどうかに関わらず、Marketo Engage の管理者 &gt; ユーザ＆ロール &gt; ロールでロール権限を確認してください。
    <p><li>ロール数はいくつですか？</li>
 <li>各ロールにはどのような<a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">権限／アクセス権</a>がありますか？ 調整する必要がありますか？</li>
 <li>ロールごとにユーザは何人いますか？</li>
 <li>ユーザはどのくらいの頻度で<a href="/help/marketo/product-docs/administration/audit-trail/user-login-history.md" target="_blank">ログイン</a>していますか？</li>
-<li>各 API ユーザは<a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">独自のユーザロール</a>を持っていますか？ そうでない場合は、トラブルシューティングを容易にするために、独自のユーザロールを実装することを検討してください。</li>
-<li>ユーザのロールと権限は、規制遵守のために企業データプライバシーポリシー（例：<a href="https://gdpr-info.eu/" target="_blank">GDPR</a>）と一致していますか？ 企業データ<a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">プライバシーポリシー</a>では、ユーザが Marketo Engage ユーザのデータをダウンロードして共有することを許可していますか？ 許可業務は必要ですか？</li></td>
+<li>各 API ユーザーは<a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md" target="_blank">独自のユーザーロール</a>を持っていますか？ そうでない場合は、トラブルシューティングを容易にするために、独自のユーザロールを実装することを検討してください。</li>
+<li>ユーザーのロールと権限は、規制遵守のために企業データプライバシーポリシー（例：<a href="https://gdpr-info.eu/" target="_blank">GDPR</a>）と一致していますか？ 企業データ<a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-management.md" target="_blank">プライバシーポリシー</a>では、ユーザーが Marketo Engage ユーザーのデータをダウンロードして共有することを許可していますか？ 権限に関するポリシーは必要ですか？</li></td>
   </tr>
   <tr>
    <td>サポートユーザ</td>
@@ -114,7 +135,7 @@ ht-degree: 89%
   <tr>
    <td>内部ドキュメント</td>
    <td><li>組織ではユーザとロールが明確に定義されていますか？</li>
-<li>新しいユーザ／管理者を追加するプロセスを教えてください。</li></td>
+<li>新しいユーザー／管理者を追加するプロセスを教えてください。</li></td>
   </tr>
   <tr>
    <td>サンドボックス（該当する場合）</td>
@@ -159,7 +180,7 @@ ht-degree: 89%
   <tr>
    <td>内部ドキュメント</td>
    <td><li>ワークスペースとパーティションの定義方法を教えてください。</li>
-<li>インスタンスにワークスペースを追加する、またはワークスペースにユーザを追加するプロセスを教えてください。</li></td>
+<li>インスタンスにワークスペースを追加する、またはワークスペースにユーザを追加するプロセスは何ですか？</li></td>
   </tr>
  </tbody>
 </table>
@@ -190,7 +211,7 @@ ht-degree: 89%
   </tr>
   <tr>
    <td>通信制限</td>
-   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通信制限</a>はありますか？ 社内では、通信制限が必要なポリシーが導入されていますか？</li>
+   <td><li><a href="/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md" target="_blank">通信制限</a>はありますか？ ビジネス上、コミュニケーション制限が必要となるようなポリシーはありますか？</li>
 <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：通信を 1 日あたり 1 件、7 日間あたり 3 件に制限し、<a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md" target="_blank">業務</a><b>以外</b>のメールはブロックすることをお勧めします。</td>
   </tr>
  </tbody>
@@ -216,7 +237,7 @@ ht-degree: 89%
 <li>チャネルは特定のプログラムタイプに関連していますか？</li>
 <li>各チャネルで成功と見なされるステータスはどれですか？ それらはマーケティング目標に合っていますか？</li>
 <li>オペレーショナルチャネルは適切に使用されていますか？</li>
-<li>高度な Report Builder（Revenue Cycle Explorer／RCE）の場合、チャネル分析の動作は、期間コストを組み込んだプログラムのプラクティスに合わせて設定されていますか？</li></td>
+<li>高度な Report Builder（収益サイクルエクスプローラー／RCE）の場合、チャネル分析の設定は、期間コストを組み込んだプログラム運用に合わせて設定されていますか？</li></td>
   </tr>
   <tr>
    <td>マーケティングカレンダー（該当する場合）</td>
@@ -288,7 +309,7 @@ ht-degree: 89%
    <td>CRM</td>
    <td><li>どの CRM と同期していますか （Salesforce、 MS Dynamics、 Veeva など）？</li>
 <li><a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">カスタム同期</a>を利用していますか？</li>
-<li>[Salesforce のみ] インスタンスにカスタム同期フィルターが実装されていますか？
+<li>[Salesforce のみ] インスタンスにカスタム同期フィルターは設定されていますか？
 <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：カスタム同期フィルターを特定したり、カスタム同期ルールの実装をリクエストする場合は、Adobe サポートにお問い合わせください。</li></td>
   </tr>
   <tr>
@@ -314,7 +335,7 @@ ht-degree: 89%
    <td>Web サービス</td>
    <td><li><a href="/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md" target="_blank">IP 制限</a>は有効になっていますか？ そうすべきでしょうか？</li>
 <li>インスタンスで API 呼び出しを行っているのは、どのユーザ／アプリですか？</li>
-<li>API 呼び出しの回数制限を超えていますか、それとも超えそうですか？
+<li>API 呼び出しの回数制限にヒットしている、またはヒットしそうになっていますか？
 <br/>     その場合は、API 呼び出し回数を増やすか、インスタンスを監査して API 呼び出しを停止することを検討してください。</li></td>
   </tr>
   <tr>
@@ -333,8 +354,8 @@ ht-degree: 89%
 <li>Dynamic Chat に <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md" target="_blank">Marketo Engage インスタンスを接続</a>しましたか？</li>
 <li>定義済み権限を持つ 5 つのデフォルトプロファイルは組織に適用できますか？<br/>
      そうでない場合は、Dynamic Chat</a>で<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#edit-existing-permissions" target="_blank">編集できます。 また、カスタムの権限セットを備えた<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md#create-a-profile" target="_blank">カスタムプロファイルを作成</a>することもできます。</li>
-<li>ユーザに Dynamic Chat へのアクセス権を付与するには、管理／ユーザ＆ロール／ロールで該当する Marketo Engage ロールの「Dynamic Chat にアクセス」をオンにしましたか？
-<br/><img src="assets/note-icon.png" alt="メモアイコン"> メモ：「管理者」および「マーケティングユーザ」のロールには、Dynamic Chat へのアクセス権が必要です。</li>
+<li>ユーザに Dynamic Chat へのアクセス権を付与するために、管理／ユーザ＆ロール／ロールで該当する Marketo Engage ロールの「Dynamic Chat にアクセス」をオンにしましたか？
+<br/><img src="assets/note-icon.png" alt="メモアイコン"> メモ：「管理者」および「マーケティングユーザー」のロールには、Dynamic Chat へのアクセス権が必要です。</li>
 </td>
   </tr>
   <td>Marketo セールスインサイト（該当する場合）</td>

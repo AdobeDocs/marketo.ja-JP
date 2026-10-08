@@ -4,16 +4,21 @@ description: Account Insightにアクセスするようにユーザーを招待�
 title: '[!UICONTROL 顧客インサイト]にアクセスするユーザを招待'
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/IkOn7CCygkDq908YC0bBToLB4sWt84xYq-wrxjKqvss
+TQID: 'https://experienceleague.adobe.com/IkOn7CCygkDq908YC0bBToLB4sWt84xYq-wrxjKqvss'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 188
+source-wordcount: '188'
 ht-degree: 83%
-
 ---
-
 # [!UICONTROL 顧客インサイト]にアクセスするユーザを招待 {#invite-users-to-access-account-insight}
 
 [!UICONTROL 顧客インサイト]へのアクセス権をユーザに与えるには、次の手順に従います。
@@ -22,7 +27,7 @@ ht-degree: 83%
 
    ![](assets/admin-1.png)
 
-1. クリック **[!UICONTROL ユーザーとロール]** を設定します。 次に、「**[!UICONTROL セールスユーザ]**」タブ、および&#x200B;**[!UICONTROL 新規セールスユーザの招待]**。
+1. クリック **[!UICONTROL ユーザーとロール]** を設定します。 次に、「**[!UICONTROL セールスユーザー]**」タブ、および&#x200B;**[!UICONTROL 新規セールスユーザーの招待]**。
 
    ![](assets/two-6.png)
 
@@ -40,7 +45,7 @@ ht-degree: 83%
    >
    >次を選択した場合： **[!UICONTROL メールでユーザーを招待]**、名、姓、メールアドレスを入力して、手順 4 に進みます。
 
-1. ユーザーのアクセス権の有効期限を設定するには（オプション）、カレンダーアイコンをクリックします。 デフォルトでは「なし」に設定されています。
+1. ユーザのアクセス権の有効期限日付を設定するには（オプション）、カレンダーアイコンをクリックします。 デフォルトでは「なし」に設定されています。
 
    ![](assets/four-5.png)
 

@@ -4,21 +4,26 @@ description: Marketoのランディングページテストグループについ
 title: ランディングページのテストグループ
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/8RZuj0vLcsc5JowokHWY0qI55I-3vd6EkffgnsDNta4
+TQID: 'https://experienceleague.adobe.com/8RZuj0vLcsc5JowokHWY0qI55I-3vd6EkffgnsDNta4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 212
+source-wordcount: '212'
 ht-degree: 67%
-
 ---
-
 # ランディングページのテストグループ {#landing-page-test-groups}
 
-Marketo は、テストグループ内のテスト対象の各ページのページビュー数とフォーム完了数を追跡します。 テストグループの結果を使用して、最も魅力的なランディングページを特定できます。 テストグループを作成する方法は、次のとおりです。
+Marketo は、テストグループ内のテスト対象の各ページのページビュー数とフォーム完了数を追跡します。 テストグループの結果を使用して、最も魅力的なランディングページを判断できます。 テストグループを作成する方法は、次のとおりです。
 
 >[!PREREQUISITES]
 >
@@ -35,7 +40,7 @@ Marketo は、テストグループ内のテスト対象の各ページのペー
    >* ツリー内のランディングページを右クリックし、「**[!UICONTROL テストグループに変換]**」を選択します。
    >* **[!UICONTROL 新規ローカルアセット]**&#x200B;メニューで「**[!UICONTROL A/B テストグループ]**」を選択して、プログラムでランディングページテストグループを作成することもできます。
 
-1. 名前を入力し、オプションで説明も入力します。 テストするランディングページを選択し、「**[!UICONTROL 作成]**」をクリックします。
+1. 名前を入力し、必要に応じて説明も入力します。 テストするランディングページを選択し、「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/image2015-8-5-13-3a39-3a10.png)
 

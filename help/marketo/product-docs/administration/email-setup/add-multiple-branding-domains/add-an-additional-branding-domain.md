@@ -4,22 +4,27 @@ description: 1つのインスタンスで複数のブランドの追加ブラン
 title: 付加的なブランディングドメインの追加
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw
+TQID: 'https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 707
+source-wordcount: '707'
 ht-degree: 44%
-
 ---
-
-# 付加的なブランディングドメインの追加 {#add-an-additional-branding-domain}
+# 追加のブランディングドメインを追加 {#add-an-additional-branding-domain}
 
 1つのMarketo インスタンスから複数のブランドを実行し、それぞれに独自のトラッキングリンクを持たせたい場合は、さらにブランディングドメインを追加します。
 
@@ -88,11 +93,11 @@ ht-degree: 44%
     <td>このカスタムドメインには、SSL 証明書が既に存在します。 証明書の有効期限が切れているか、再発行が必要な場合を除き、これ以上のアクションは必要ありません。</td>
   </tr>
   <tr>
-    <td><i>デフォルトのドメインが見つかりませんでした。 サポートが必要な場合は、サポートにお問い合わせください。</i></td>
-    <td>デフォルトのドメインを見つけようとした際に問題が発生しました。 調査については、サポートにお問い合わせください。</td>
+    <td><i>デフォルトのドメインが見つかりませんでした。 サポートにお問い合わせください。</i></td>
+    <td>デフォルトのドメインを見つけようとした際にイシューが発生しました。 調査については、サポートにお問い合わせください。</td>
   </tr>
   <tr>
-    <td><i>ドメインの作成中に予期しないエラーが発生しました。 サポートが必要な場合は、サポートにお問い合わせください。</i></td>
+    <td><i>ドメインの作成中に予期しないエラーが発生しました。 サポートにお問い合わせください。</i></td>
     <td>予期しないエラーが発生しました。 ログとエラーの詳細を収集し、問題を<a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Marketo サポート </a>にエスカレーションします。</td>
   </tr>
 </tbody></table>

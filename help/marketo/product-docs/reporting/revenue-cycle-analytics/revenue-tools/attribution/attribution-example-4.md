@@ -4,20 +4,26 @@ description: Marketo Engageのアトリビューション例4について説明�
 title: アトリビューションの例 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 90%
-
 ---
-
 # アトリビューションの例 4 {#attribution-example}
 
 次のシナリオを読み、グリッドに表示する数値を決定してみてください。
 
-* 4 月 11 日｜Michelle が eBook（コンテンツ）をダウンロードする - 成功
-* 4 月 15 日｜John が（ウェビナー）に参加する - 成功
-* 4 月 22 日｜3,000 ドルで（商談 1）が作成される
+* 4月11日｜Michelle が eBook（コンテンツ）をダウンロード - 成功
+* 4月15日｜John が（ウェビナー）に参加 - 成功
+* 4月22日｜3,000 ドルで（商談 1）が作成
 * 4 月 24 日｜5,000 ドルで（商談 2）が作成される
 * 4 月 25 日｜John と Michelle が&#x200B;**両方**&#x200B;の商談に関連付けられる
 * 4 月 29 日｜[商談 1] が成立してクローズされる
@@ -38,7 +44,7 @@ ht-degree: 90%
 >
 >複数の商談があり、複数の人がプログラムを成功させた場合、人とプログラムの間でクレジットを分割する必要があります。 ただし、商談 1 と商談 2 のクレジットは組み合わされません。 それぞれが個別のクレジット評価です。
 >
->多くの人々が関わると、Marketo は自動的にクレジットを与える商談の端数を計算します。
+>多くの人が関わる場合、Marketo は商談に対して付与されるクレジットの割合を自動的に計算します。
 
 >[!NOTE]
 >

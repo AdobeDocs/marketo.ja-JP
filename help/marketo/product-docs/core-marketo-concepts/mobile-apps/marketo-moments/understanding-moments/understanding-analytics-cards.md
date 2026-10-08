@@ -4,23 +4,25 @@ description: Marketo MomentsのAnalytics カードについて詳しく見る。
 title: 分析カードについて
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI
+TQID: 'https://experienceleague.adobe.com/GtluIt4erDOpwskZBf9UYX2o3u6cQfdQ5q10vMzbvFI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 311
+source-wordcount: '311'
 ht-degree: 84%
-
 ---
-
 # 分析カードについて {#understanding-analytics-cards}
 
-各月の初めに、Marketo Moments には、[!UICONTROL 獲得したリード]、[!UICONTROL 新規リード]、[!UICONTROL 登録解除]の 3 つの異なるレポートカードが提供されます。 それぞれ 6 か月間の月別パフォーマンスと傾向を示します。
+各月の初めに、Marketo Moments には、[!UICONTROL 獲得したリード]、[!UICONTROL 新規リード]、[!UICONTROL 登録解除]の 3 つの異なるレポートカードが提供されます。 それぞれ、6 か月間の月次パフォーマンスと傾向を示します。
 
 >[!IMPORTANT]
 >
->2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。 タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。 Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。 タブレット／モバイルデバイスにアプリが既にインストールされている場合は、当面の間引き続き使用できます。 Marketo Engage インスタンスが、Marketo の認証に Adobe Identity を使用するように移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 ## 分析カード {#analytics-cards}
 
@@ -34,7 +36,7 @@ ht-degree: 84%
 
 * 過去 6 か月の結果のグラフ
 * 前月比の比較
-* 大多数または上位 3 件の棒グラフ（カードに応じて異なります）
+* 上位 3 件または最も多い 3 件の棒グラフ（カードに応じて異なります）
 
 例えば、[!UICONTROL 獲得リード &#x200B;]分析カードの詳細は次のとおりです。
 
@@ -48,7 +50,7 @@ ht-degree: 84%
 
 >[!NOTE]
 >
->定義済みの新規顧客獲得プログラムを持つリードのみが表示されます。
+>新規顧客獲得プログラムが定義されているリードのみが表示されます。
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 

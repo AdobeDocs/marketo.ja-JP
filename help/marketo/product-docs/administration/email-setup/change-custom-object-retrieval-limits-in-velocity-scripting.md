@@ -1,22 +1,28 @@
 ---
-description: メールの [!DNL Velocity]  スクリプトの親カスタムオブジェクト取得制限を増減します（10 ～ 100）。
-title: ' [!DNL Velocity Scripting]でのカスタムオブジェクト取得制限の変更'
+description: メールの[!DNL Velocity] スクリプトの親カスタムオブジェクト取得制限を増減します（10から100）。
+title: '[!DNL Velocity Scripting] でのカスタムオブジェクト取得制限の変更'
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/8zdwliEWuUxePbN3RyElJZydMfPHO8sQbgZbaTda6iY
+TQID: 'https://experienceleague.adobe.com/8zdwliEWuUxePbN3RyElJZydMfPHO8sQbgZbaTda6iY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 256
-ht-degree: 51%
-
+source-wordcount: '257'
+ht-degree: 53%
 ---
-
 # [!DNL Velocity Scripting] でのカスタムオブジェクト取得制限の変更 {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
 [!DNL Velocity Script]を使用してメールでカスタムオブジェクトデータを表示する場合、この機能はユースケースに適用される場合があります。 デフォルトでは、Velocity Scriptから10個の親カスタムオブジェクトにアクセスできます。 さらにアクセスする必要がある場合は、以下の手順を参照してください。

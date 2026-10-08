@@ -6,14 +6,26 @@ description: メールレイアウトをパーソナライズするためのコ�
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-hidefromtoc: true
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+hidefromtoc: 'yes'
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1317'
-ht-degree: 76%
-
+ht-degree: 83%
 ---
-
 # コンテンツコンポーネント {#content-components}
 
 メールコンテンツを作成する際、**[!UICONTROL コンテンツコンポーネント]**&#x200B;を使用すると、電子メールに配置した後に編集できる生のコンポーネントを使用して、電子メールをさらにパーソナライズできます。
@@ -76,11 +88,11 @@ ht-degree: 76%
 
    スクリーンショット
 
-1. **[!UICONTROL コンポーネント設定]** ペインから&#x200B;**[!UICONTROL 境界線]**、**[!UICONTROL サイズ]**、**[!UICONTROL マージン]**&#x200B;などのスタイル属性を変更して、ボタンをさらにパーソナライズできます。
+1. ボタンをさらにパーソナライズするには、**[!UICONTROL 境界線]**、**[!UICONTROL サイズ]**、**[!UICONTROL 余白]**&#x200B;などのスタイル属性を&#x200B;**[!UICONTROL コンポーネント設定]**&#x200B;パネルから変更します。
 
 ## テキスト {#text}
 
-**[!UICONTROL テキスト]** コンポーネントを使用して、メールにテキストを挿入し、スタイル（境界線、サイズ、パディングなど）を調整します 「**[!UICONTROL スタイル]**」タブを使用します。
+**[!UICONTROL テキスト]** コンポーネントを使用して、メールにテキストを挿入し、スタイル（境界線、サイズ、パディングなど）を調整します 「**[!UICONTROL スタイル]**」タブを使用して調整できます。
 
 スクリーンショット
 
@@ -107,7 +119,7 @@ ht-degree: 76%
    * **[!UICONTROL 複製]**：テキストコンポーネントのコピーを追加します。
    * **[!UICONTROL 削除]**：選択したテキストコンポーネントをメールから削除します。
 
-1. テキストカラー、フォントファミリー、境界線、パディング、マージンなど、その他のスタイル属性を「**[!UICONTROL スタイル]**」タブから調整します。
+1. その他のスタイル属性（テキストの色、フォントファミリー、境界線、パディング、余白など）を「**[!UICONTROL スタイル]**」タブから調整します。
 
    スクリーンショット
 
@@ -121,7 +133,7 @@ ht-degree: 76%
 
 ## HTML {#HTML}
 
-**[!UICONTROL HTML]** コンポーネントを使用して、既存の HTML のさまざまな部分をコピーして貼り付けることができます。 これにより、無料のモジュラー HTML コンポーネントを作成して、一部の外部コンテンツを再利用できます。
+**[!UICONTROL HTML]** コンポーネントを使用して、既存の HTML のさまざまな部分をコピーして貼り付けることができます。 これにより、柔軟に再利用できるモジュラー HTML コンポーネントを作成して、一部の外部コンテンツを再利用できます。
 
 1. **[!UICONTROL コンテンツコンポーネント]**&#x200B;から、**[!UICONTROL HTML]** コンポーネントを&#x200B;**[!UICONTROL 構造コンポーネント]**&#x200B;にドラッグ＆ドロップします。
 
@@ -151,7 +163,7 @@ ht-degree: 76%
 
    >[!NOTE]
    >
-   > リンクをアクティブなままにし、有効期限の問題を回避するには、画像のソース URL に依存する代わりに、Adobe Assets を使用することをお勧めします。
+   > リンクをアクティブなままに保ち、有効期限切れの問題を回避するには、画像のソース URL に依存するのではなく、Adobe Assets のアセットを使用することをお勧めします。
 
 1. また、「**[!UICONTROL Adobe Stock フォトを検索]**」オプションを使用して、Adobe Stock で直接検索することもできます。
 
@@ -164,7 +176,7 @@ ht-degree: 76%
 
 1. **[!UICONTROL 類似のストック写真を検索]**&#x200B;することもできます。`[Learn more](../integrations/stock.md)`
 
-1. 「**[!UICONTROL スタイル]**」タブから、余白や境界線などの他のスタイル属性を調整するか、リンクを追加して、**[!UICONTROL コンポーネント設定]** ペインからオーディエンスを別のコンテンツにリダイレクトします。
+1. 「**[!UICONTROL スタイル]**」タブから、余白、境界線などの他のスタイル属性を調整します。または、別のコンテンツにオーディエンスをリダイレクトするためのリンクを&#x200B;**[!UICONTROL コンポーネント設定]**&#x200B;パネルで追加します。
 
 ## ソーシャル {#social}
 
@@ -184,9 +196,9 @@ ht-degree: 76%
 
    スクリーンショット
 
-1. 必要に応じて、アセットから各ソーシャルメディアのアイコンを変更することもできます。
+1. 必要に応じて、Assets から各ソーシャルメディアのアイコンを変更することもできます。
 
-1. スタイル、余白、境界線などの他のスタイル属性を「**[!UICONTROL スタイル]**」タブから調整します。
+1. 「**[!UICONTROL スタイル]**」タブから、スタイル、余白、境界線などの他のスタイル属性を調整します。
 
 ## オファーの決定 {#offer-decision}
 

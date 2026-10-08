@@ -1,16 +1,22 @@
 ---
 unique-page-id: 6095029
-description: set dnl googleを使用して、Marketo Engageの収益モデルで[ !dnl google adwords] コンバージョンを設定する方法について説明します。 このガイドを使用して、次のステップを完了してください。
-title: 収益モデルでの  [!DNL Google AdWords]  コンバージョンの設定
+description: set dnl googleを使用して、Marketo Engageの収益モデルで[ !dnl google adwords]のコンバージョンを設定する方法について説明します。 このガイドを使用して、次のステップを完了してください。
+title: 収益モデルでの [!DNL Google AdWords] コンバージョンの設定
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '483'
 ht-degree: 94%
-
 ---
-
 # 収益モデルでの [!DNL Google AdWords] コンバージョンの設定 {#set-google-adwords-conversions-in-the-revenue-model}
 
 [!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。 [!DNL AdWords] に[カスタム列を追加](https://support.google.com/adwords/answer/3073556)した後、[!DNL AdWords] UI を使って、どのクリックが適格なリード、商談、新規顧客（またはトラックする収益ステージ）につながったかを簡単に確認できるようになります。
@@ -33,7 +39,7 @@ ht-degree: 94%
 
 ## [!DNL AdWords] コンバージョンの使用 {#use-adwords-conversion}
 
-1. **[!UICONTROL 分析]**&#x200B;領域に移動します。
+1. **[!UICONTROL Analytics]** エリアに移動します。
 
    ![](assets/image2015-2-23-18-3a9-3a34.png)
 

@@ -1,25 +1,30 @@
 ---
 unique-page-id: 37356194
-description: Adobe Experience Cloudにリストを送信する方法を説明します。 Experience Platformやその他のソリューションとMarketo リスト メンバーシップを共有します。
+description: リストをAdobe Experience Cloudに送信する方法について説明します。 Experience Platformやその他のソリューションとMarketo リスト メンバーシップを共有します。
 title: Adobe Experience Cloud へのリストの送信
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c
+TQID: 'https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 847
+source-wordcount: '847'
 ht-degree: 74%
-
 ---
-
 # Adobe Experience Cloud へのリストの送信 {#send-a-list-to-adobe-experience-cloud}
 
 >[!NOTE]
@@ -41,7 +46,7 @@ ht-degree: 74%
 
 ## 静的リストの送信方法 {#how-to-send-a-static-list}
 
-静的リストは静的です。 手動で変更しない限り、Adobe Experience Cloud のリストは変更されません。
+静的リストは静的です。 手動で変更しない限り、Adobe Experience Cloud 内のリストは変更されません。
 
 1. Marketo で、エクスポートするリストを探します。 右クリックし、「**[!UICONTROL Experience Cloud]** に送信」を選択します。
 
@@ -115,7 +120,7 @@ Marketoでリストの書き出しを開始すると、Adobe Audience Manager �
 
 * Marketo は、エクスポートされたリスト内のすべての人物に対して、ハッシュ化されたメールをクロスデバイス識別子として使用して特性を書き込みます。 特性の名前は、エクスポート時に指定した宛先オーディエンス名に一致します。
 * エクスポートされたリスト内の人物と Marketo が一致させて管理しているすべての ECID に対して、Marketo は ECID デバイス識別子を使用して特性を書き込みます。 特性の名前は、エクスポート時に指定した宛先オーディエンス名に一致します。
-* また、Marketo は、ECID 特性を唯一の条件として使用して、セグメントを Audience Manager インスタンスに作成します。 セグメントの名前は、エクスポート時に指定した宛先オーディエンス名に一致します。
+* また、Marketo は、ECID 特性を唯一のセグメント化条件として使用して、Audience Manager インスタンス内にセグメントを作成します。 セグメントの名前は、エクスポート時に指定した宛先オーディエンス名に一致します。
 
 ## よくある質問 {#faq}
 
@@ -125,10 +130,10 @@ Marketoでリストの書き出しを開始すると、Adobe Audience Manager �
 
 **Cookie の同期は、どのよう仕組みなのですか？**
 
-Marketo サブスクリプションに対して Cookie 同期が有効になっている場合、Marketo の munchkin.js は、統合の設定時に指定した Adobe IMS 組織の Adobe ECID を取得して保存し、その ECID を対応する Marketo の Cookie 識別子に一致させます。 これにより、Marketo の匿名ユーザプロファイルを Adobe ECID で強化できます。
+Marketo サブスクリプションに対して Cookie 同期が有効になっている場合、Marketo の munchkin.js は、統合の設定時に指定した Adobe IMS 組織の Adobe ECID を取得して保存し、その ECID を対応する Marketo の Cookie 識別子に一致させます。 これにより、Marketo の匿名ユーザープロファイルを Adobe ECID でエンリッチできます。
 
-匿名ユーザプロファイルをユーザプロファイルに関連付けるには、さらに手順を実行する必要があります。ユーザプロファイルは、テキスト形式メールで識別されます。 この機能の正確な仕組みは、[こちらで説明しています](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}。
+匿名ユーザープロファイルを Person プロファイルに関連付けるには、さらに手順を実行する必要があります。人物プロファイルは、プレーンテキストのメールで識別されます。 この機能の正確な仕組みは、[こちらで説明しています](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}。
 
 **どの情報が共有されますか？**
 
-この統合では、Marketo からアドビにリストメンバーシップ情報のみを共有します（例えば、ユーザ X はリスト Y のメンバーであるという知識）。 この統合を介して、追加のユーザ属性がアドビに共有されることはありません。
+この統合では、Marketo からアドビにリストメンバーシップ情報のみを共有します（例えば、人物 X はリスト Y のメンバーであるという情報）。 この統合を介して、追加の人物属性がアドビに共有されることはありません。

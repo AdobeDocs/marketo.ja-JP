@@ -4,22 +4,27 @@ description: Salesforce Mobile （Salesforce1）にMarketo Sales Insightをイ�
 title: Salesforce1 での Marketo セールスインサイトのインストールおよび設定
 exl-id: 9f26e90b-3199-4ef8-92bc-95e8bd81f1c5
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/79BKa7swATbNiThcaosQIdgH4TiW54jnlT22HDVRf0s
+TQID: 'https://experienceleague.adobe.com/79BKa7swATbNiThcaosQIdgH4TiW54jnlT22HDVRf0s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 350
+source-wordcount: '350'
 ht-degree: 87%
-
 ---
-
 # [!DNL Salesforce1] での [!DNL Marketo Sales Insight] のインストールと設定 {#install-and-configure-marketo-sales-insight-in-salesforce}
 
 >[!NOTE]
@@ -31,7 +36,7 @@ ht-degree: 87%
 >Salesforce Enterprise／Unlimited をお持ちの場合：
 >
 >* [手順 1 / 3：Marketo フィールドの  [!DNL Salesforce]  への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [手順 2 / 3：Marketo の  [!DNL Salesforce]  ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [手順 2／3：Marketo 用の  [!DNL Salesforce]  ユーザーの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [手順 3／3：Marketo と  [!DNL Salesforce]  の接続（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.md)
 >* [&#x200B; [!DNL Salesforce]  Enterprise／Unlimited での  [!DNL Marketo Sales Insight]  の設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
 >
@@ -118,7 +123,7 @@ ht-degree: 87%
 
    ![](assets/image2015-4-22-17-3a14-3a49.png)
 
-1. 「**[!UICONTROL タブをカスタマイズ]**」をクリックします。
+1. 「**[!UICONTROL マイタブをカスタマイズ]**」をクリックします。
 
    ![](assets/image2015-4-22-17-3a16-3a22.png)
 
@@ -162,16 +167,16 @@ ht-degree: 87%
 
    >[!TIP]
    >
-   >クイック検索に「Add to」と入力すると、Marketo キャンペーンに簡単に追加できます。
+   >クイック検索に「Add to」と入力すると、「Add to Marketo Campaign」を簡単に見つけることができます。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-4-22-18-3a1-3a56.png)
 
-もう少しです。 [!DNL Salesforce1]の[!DNL Marketo Sales Insight]のインストールが完了しました。 これで安心です。
+もう少しです。 [!DNL Salesforce1]の[!DNL Marketo Sales Insight]のインストールが完了しました。 ここまでできたら、自分をほめてあげましょう。
 
 >[!MORELIKETHIS]
 >
->*  [!DNL Salesforce1][&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md) の [!DNL Best Bets] 
+>*  [!DNL Salesforce1]&#x200B;[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md) の [!DNL Best Bets] 
 >* [&#x200B; [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md) での注目のアクション
 >* [&#x200B; [!DNL Salesforce1]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md) での Marketo メール送信、キャンペーンおよびウォッチリストアクション

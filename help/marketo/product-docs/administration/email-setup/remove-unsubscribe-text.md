@@ -4,13 +4,20 @@ description: テンプレートにリンクを作成する際に、HTML コメ�
 title: 登録解除テキストの削除
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 9c4f0d0a43d3ef06132d827b605b9e42de712e22
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 68%
-
 ---
-
 # 登録解除テキストの削除 {#remove-unsubscribe-text}
 
 購読解除コンテンツを&#x200B;**[!UICONTROL 管理者]** > **[!UICONTROL 電子メール]**&#x200B;領域から完全に削除する必要がある唯一の理由は、購読解除リンクを電子メールテンプレート自体に構築することを選択している場合です。 テキストボックスには、コンテンツなしで保存できない検証機能があります。 この問題を回避するには、小さな HTML コメントを追加します。 HTML コメントは、メールクライアントに表示されません。メールが HTML でレンダリングされ、コメントは省略されるからです。

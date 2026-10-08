@@ -1,24 +1,30 @@
 ---
 unique-page-id: 10099102
 description: Microsoft Dynamics MSIのプラグインリリースについて説明します。 バージョン履歴を検索し、Dynamics バージョンの最新のMarketo ソリューションをダウンロードします。
-title: ' [!DNL Microsoft Dynamics]  MSI 向けプラグインリリース'
+title: '[!DNL Microsoft Dynamics] MSI 向けプラグインリリース'
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/egQszdONMhYChmpRBz40TUuYH0k-UYHLuPxAakLzjsM
+TQID: 'https://experienceleague.adobe.com/egQszdONMhYChmpRBz40TUuYH0k-UYHLuPxAakLzjsM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 496
+source-wordcount: '496'
 ht-degree: 81%
-
 ---
-
 # [!DNL Microsoft Dynamics] MSI 向けプラグインリリース {#plug-in-releases-for-microsoft-dynamics-msi}
 
-[!DNL Microsoft Dynamics] に初めて同期するときは、Marketo セールスインサイト（MSI）用の最新バージョンのプラグインをダウンロードしてインストールします。 Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
+[!DNL Microsoft Dynamics] に初めて同期するときは、Marketo セールスインサイト（MSI）用の最新バージョンのプラグインをダウンロードしてインストールします。 Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードすることができます。
 
 Marketoのネイティブ CRM同期ソリューションを[!DNL Dynamics]に使用している場合、[お使いの[!DNL Dynamics] リリースに対応する最新のプラグイン &#x200B;](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"}をダウンロードしてください。 カスタム同期を持ち、Marketo セールスインサイトを購入しているユーザの場合、[パッケージはこちらです](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
 
@@ -66,9 +72,9 @@ Marketoのネイティブ CRM同期ソリューションを[!DNL Dynamics]に使
   <tr>
    <td>2024年2月14日（PT）</td>
    <td>2.00.31</td>
-   <td>匿名 web アクティビティのページネーションに変更します。
+   <td>匿名 web アクティビティのページネーションに対する変更。
    <p>
-   ユーザビューから秘密鍵の情報を暗号化します。 暗号化を実行するには、新しいパッケージの読み込み後にパスワードを変更する必要があります。
+   ユーザービューから秘密鍵の情報を暗号化します。 暗号化を実行するには、新しいパッケージの読み込み後にパスワードを変更する必要があります。
    <p>
    Dynamics用MSI プラグインを更新する場合は、新しいパッケージがインストールされている場合にアクセス権限が実行されないように、SOAP API秘密鍵とMSI資格情報の両方を更新して更新することをお勧めします。</td>
   </tr>
@@ -105,12 +111,12 @@ Marketoのネイティブ CRM同期ソリューションを[!DNL Dynamics]に使
   <tr>
    <td>2021年2月10日（PT）</td>
    <td>2.0.0.22</td>
-   <td>MSI ソリューションの自動監査の有効化とドキュメントの変更を削除します。</td>
+   <td>MSI ソリューションから自動監査の有効化設定を削除し、ドキュメントを更新しました。</td>
   </tr>
   <tr>
    <td>2020年10月1日（PT）</td>
    <td>2.0.0.21</td>
-   <td>バグ修正：セールスインサイトのロールを持つユーザの MSI API 設定フィールドへのアクセスの割り当て。</td>
+   <td>バグ修正：セールスインサイトロールを持つユーザが MSI API 設定フィールドにアクセスできるようにしました。</td>
   </tr>
   <tr>
    <td>2020/07/20</td>
@@ -120,12 +126,12 @@ Marketoのネイティブ CRM同期ソリューションを[!DNL Dynamics]に使
   <tr>
    <td>2020/06/12</td>
    <td>2.0.0.19</td>
-   <td>バグ修正：MSD API 設定で MSI 秘密鍵パスワードを非表示に。</td>
+   <td>バグ修正：MSD API 設定で MSI 秘密鍵パスワードを非表示にします。</td>
   </tr>
   <tr>
    <td>2020/05/26</td>
    <td>2.0.0.18</td>
-   <td>バグ修正：「MSI」ボタンを表示するために MSI ロール ID の検証を変更。</td>
+   <td>バグ修正：「MSI」ボタンを表示するために MSI ロール ID の検証を変更しました。</td>
   </tr>
   <tr>
    <td>2020/05/21</td>

@@ -4,29 +4,41 @@ title: メールテンプレート
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-TQID: https://experienceleague.adobe.com/En79ezOIpQCGnmPv9HasACkYY4ssfpsFOI-7IOj5Y4s
+TQID: 'https://experienceleague.adobe.com/En79ezOIpQCGnmPv9HasACkYY4ssfpsFOI-7IOj5Y4s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1806
+source-wordcount: '1807'
 ht-degree: 6%
-
 ---
-
 # メールテンプレートオーサリング {#email-template-authoring}
 
 デザインプロセスを高速化および改善するために、スタンドアロンのメールテンプレートを作成して、カスタムコンテンツを簡単に再利用できます。
@@ -171,7 +183,7 @@ _テンプレートのデザイン_ ページでは、いくつかのオプシ�
 
 >[!TIP]
 >
->フラグメントをメール内の水平方向のレイアウト全体に配置する場合は、1:1列構造を追加してから、フラグメントをドラッグ&amp;ドロップします。
+>フラグメントをメール内の水平レイアウト全体に配置する場合は、1:1の列構造を追加し、フラグメントをドラッグ&amp;ドロップします。
 
 メールが保存されると、フラグメントの詳細ページの「_[!UICONTROL 使用者]_」タブに表示されます。 メールテンプレートに追加されたフラグメントは、テンプレート内では編集できません。ソースフラグメントがコンテンツを定義します。
 
@@ -258,7 +270,7 @@ Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marke
 
 ### URL トラッキングを編集 {#edit-url-tracking}
 
-メール内のリンクでMarketo トラッキング URLを有効にできない場合があります。 この情報は、表示先ページで URL パラメーターをサポートしていないためにページリンクエラーになる場合などに役立ちます。
+メール内のリンクでMarketo トラッキング URLを有効にできない場合があります。 これは、宛先ページが URL パラメーターをサポートしておらず、リンク切れになる可能性がある場合などに役立ちます。
 
 1. リンク アイコンをクリックして、メール内のすべてのURLを表示します。
 
@@ -298,9 +310,9 @@ Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marke
 
 * デスクトップ、モバイル、またはテキストのみ/プレーンテキストでコンテンツを表示します。
 
-   * デバイス間でコンテンツをプレビューするには、ライブビュー（目）アイコンをクリックします。
+  * デバイス間でコンテンツをプレビューするには、ライブビュー（目）アイコンをクリックします。
 
-   * すぐに使用できるデバイスのいずれかを選択するか、カスタムディメンションを入力してコンテンツをプレビューします。
+  * すぐに使用できるデバイスのいずれかを選択するか、カスタムディメンションを入力してコンテンツをプレビューします。
 
 ### 詳細オプション {#more-options}
 

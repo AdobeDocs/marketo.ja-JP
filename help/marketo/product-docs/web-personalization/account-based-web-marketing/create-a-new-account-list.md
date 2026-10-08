@@ -4,27 +4,30 @@ description: Create a new account list create-a-new-account-listを使用して�
 title: 新規アカウントリストの作成
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/EGmWhHWwbaktWTW9BBoOQc4N-bneNsMkbPiRH9f-Pxo
+TQID: 'https://experienceleague.adobe.com/EGmWhHWwbaktWTW9BBoOQc4N-bneNsMkbPiRH9f-Pxo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 435
+source-wordcount: '435'
 ht-degree: 93%
-
 ---
-
 # 新規アカウントリストの作成 {#create-a-new-account-list}
 
 組織名とドメイン名のリストを作成してアップロードし、パーソナライズされたキャンペーンを使用してこれらの主要アカウントをターゲティングします。
 
 >[!NOTE]
 >
->この記事では、従来の web ABM 顧客のみを対象としています。 2016年9月以降に web ABM を入手した場合は、[この記事](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)の手順に従ってください。
+>この記事は、従来の web ABM 顧客のみに適用されます。 2016年9月以降に web ABM を入手した場合は、[この記事](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList)の手順に従ってください。
 
 ## 新規アカウントリストの作成 {#create-a-new-account-list-1}
 
@@ -44,13 +47,13 @@ ht-degree: 93%
    >
    >**CSV ファイルの形式は何ですか。**
    >
-   >重点顧客の CSV ファイルが次の要件を満たしていることを確認します。
+   >重点アカウントの CSV ファイルが次の要件を満たしていることを確認します。
    >
    >* CSV 形式で保存
    >* 10 MB を超えない
-   >* A 列：名前、B 列：ドメイン、C 列：国、D 列：米国の州の、ヘッダー付きの 4 列のみ
+   >* ヘッダー行を含む 4 列のみを使用します（列 A：名前、列 B：ドメイン、列 C：国、列 D：米国の州）。
    >* アップロードされたファイルが承認されるまでに最大で 2 営業日かかります。
-   >* 承認のメール通知が送信されます。または重点顧客ページでファイルの状態を確認してください。
+   >* 承認のメール通知が送信されます。ファイルの状態は重点アカウントページでも確認できます。
    >* アップロードされたすべてのリストに対して累積されるレコード／行の合計数は 10,000 から始まり、最大のパッケージは 100,000 です。
 
    >[!NOTE]
@@ -61,7 +64,7 @@ ht-degree: 93%
    >* 行 1、列 B 値 = ドメイン
    >* 行 1、列 C 値 = 国
    >* 行 1、列 D 値 = 米国の州
-   >* 列に値が 1 つあることが必須です。 ただし、組織名とドメイン名の両方を指定すると、アカウントリストの一致率が向上します。
+   >* 列の値のうち、少なくとも 1 つは必須です。 ただし、組織名とドメイン名の両方を指定すると、アカウントリストの一致率が向上します。
    >* 「国」と「州」はオプションの値です。
    >
    >   * 国名の場合は、完全な国名または省略コードを使用します。 例： 米国または US
@@ -81,7 +84,7 @@ ht-degree: 93%
 
 CSV ファイルは既存のファイルに置き換わります。 新規ファイルの処理が完了するまで、既存のリストはアクティブなまま保持されます。
 
-## 重点顧客リストの削除 {#delete-a-named-account-list}
+## 重点アカウントリストの削除 {#delete-a-named-account-list}
 
 1. **[!UICONTROL アカウントリスト]**&#x200B;ページで、削除するリストの「削除」アイコンをクリックします。
 

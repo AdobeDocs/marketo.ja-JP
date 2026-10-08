@@ -1,24 +1,26 @@
 ---
 unique-page-id: 2359424
-description: セールス担当者にアラート - Marketo ドキュメント - 製品ドキュメント
-title: セールス担当者にアラート
+description: セールス担当者へのアラート - Marketo ドキュメント - 製品ドキュメント
+title: セールス担当者へのアラート
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/Qd-0TR8Sa4JWsQs7sWzUOmcFU0iRxl6SH62fWnm1GT8
+TQID: 'https://experienceleague.adobe.com/Qd-0TR8Sa4JWsQs7sWzUOmcFU0iRxl6SH62fWnm1GT8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 405
+source-wordcount: '405'
 ht-degree: 97%
-
 ---
+# セールス担当者へのアラート {#alert-the-sales-rep}
 
-# セールス担当者にアラート {#alert-the-sales-rep}
+## ミッション：Web サイトのフォームが送信されたらセールス担当者にアラートを送信する {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
-## ミッション：人物が web サイトのフォームに入力したときにセールス担当者にアラートする {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
-
-セールス担当者にアラートメールを自動的に送信するには、アラートメールとメールキャンペーンが必要です。 その方法を説明しましょう。
+セールス担当者にアラートメールを自動的に送信するには、アラートメールとメールキャンペーンだけで済みます。 その方法を説明しましょう。
 
 >[!PREREQUISITES]
 >
@@ -26,7 +28,7 @@ ht-degree: 97%
 
 ## 手順 1：アラートメールを作成する {#step-create-an-alert-email}
 
-1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
 
    ![](assets/alert-the-sales-rep-1.png)
 
@@ -46,7 +48,7 @@ ht-degree: 97%
 
    ![](assets/alert-the-sales-rep-5.png)
 
-1. ダブルクリックしてメールのテキストを編集します。
+1. ダブルクリックしてメールの本文を編集します。
 
    ![](assets/alert-the-sales-rep-6.png)
 
@@ -116,7 +118,7 @@ ht-degree: 97%
 
    ![](assets/alert-the-sales-rep-20.png)
 
-## 手順 3：テストする {#step-test-it-out}
+## 手順 3：実際に試してみる {#step-test-it-out}
 
 1. ランディングページを選択し、「**[!UICONTROL 承認済みページを表示]**」をクリックします。
 
@@ -124,13 +126,13 @@ ht-degree: 97%
 
    >[!NOTE]
    >
-   >忘れずにランディングページを承認してください。承認されないと本番稼働しません。
+   >ランディングページを承認するのをお忘れなく。承認されるまで公開されません。
 
 1. フォームに入力し、「**[!UICONTROL 送信]**」をクリックします。
 
    ![](assets/alert-the-sales-22.png)
 
-1. すぐにメールが届きます。 すべて正常に動作することを確認したら、アラート送信フローからメールアドレスを削除します（上記の手順 2.7 を参照）。
+1. すぐにメールが届きます。 すべて正常に動作することを確認したら、アラート送信フローから自分のメールアドレスを削除します（上記の手順 2.7 を参照）。
 
    >[!NOTE]
    >

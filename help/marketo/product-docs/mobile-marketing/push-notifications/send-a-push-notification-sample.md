@@ -4,16 +4,18 @@ description: プッシュ通知サンプルを送信して動作を確認する�
 title: プッシュ通知サンプルの送信
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/TPNT1X4vgRtkP81L20QwsDCTmwhFUOhqbGbVvuPalNw
+TQID: 'https://experienceleague.adobe.com/TPNT1X4vgRtkP81L20QwsDCTmwhFUOhqbGbVvuPalNw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 288
+source-wordcount: '288'
 ht-degree: 85%
-
 ---
-
 # プッシュ通知サンプルの送信 {#send-a-push-notification-sample}
 
 サンプルを送信して、プッシュ通知が正しく機能していることを確認できます。
@@ -58,7 +60,7 @@ ht-degree: 85%
    >
    >テストデバイスが正常に追加されたが「**[!UICONTROL 送信先]**」フィールドに表示されない場合、 トラブルシューティングするには、以下を確認します。
    >
-   >* プッシュ通知に関連付けられたアプリでプッシュ通知がオンになっている。
+   >* プッシュ通知に関連付けられたアプリでプッシュ通知がオンになっていることを確認します。
    >
    >* プッシュ通知がテストデバイスのプラットフォームに合わせて設定されている。 例えば、iPhone をテストデバイスとして追加したばかりの場合は、iOS のプッシュ通知が有効になっていることを確認します。
 

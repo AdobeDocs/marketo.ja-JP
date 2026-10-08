@@ -4,27 +4,35 @@ description: リンクフィールドを追加して、カスタムオブジェ�
 title: Marketo カスタムオブジェクトリンクフィールドの追加
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-TQID: https://experienceleague.adobe.com/3hHHOXlSyskmUQHHdcknbK8ayhl43mY6rCnhptqWi2I
+TQID: 'https://experienceleague.adobe.com/3hHHOXlSyskmUQHHdcknbK8ayhl43mY6rCnhptqWi2I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 735
+source-wordcount: '735'
 ht-degree: 68%
-
 ---
-
 # Marketo カスタムオブジェクトリンクフィールドの追加 {#add-marketo-custom-object-link-fields}
 
 カスタムオブジェクトを作成する場合は、カスタムオブジェクトレコードを正しい親レコードに接続するためのリンクフィールドを指定する必要があります。
 
-* 1 対多のカスタム構造の場合は、カスタムオブジェクトのリンクフィールドを使用して、カスタム構造を個人または会社に接続します。
+* 一対多のカスタム構造の場合は、カスタムオブジェクトのリンクフィールドを使用して、そのカスタムオブジェクトレコードを個人または会社に接続します。
 * 多対多構造の場合は、2 つのリンクフィールドを使用し、別に作成した中間オブジェクト（カスタムオブジェクトの一種でもある）から接続します。 1 つのリンクはデータベース内の人や会社に接続し、もう 1 つのリンクはカスタムオブジェクトに接続します。 この場合、リンクフィールドはカスタムオブジェクト自体に配置されません。
 
 >[!IMPORTANT]
@@ -87,7 +95,7 @@ ht-degree: 68%
 
 >[!PREREQUISITES]
 >
->既に中間オブジェクトと、その中間オブジェクトをリンクするカスタムオブジェクトを作成している必要があります。
+>中間オブジェクトと、その中間オブジェクトにリンクする予定のカスタムオブジェクトを既に作成している必要があります。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -105,7 +113,7 @@ ht-degree: 68%
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. リンクフィールドを2つ、1つずつ作成します。 まず、データベースリストのメンバーのフィールドに名前を付けます（例：leadID）。 オプションで[!UICONTROL 説明]を追加します。 [!UICONTROL &#x200B; リンク &#x200B;] [!UICONTROL &#x200B; データタイプ &#x200B;]を選択します。
+1. リンクフィールドを2つ、1つずつ作成します。 まず、データベースリスト内のリードを表すフィールドに名前を付けます（例：leadID）。 オプションで[!UICONTROL 説明]を追加します。 [!UICONTROL &#x200B; リンク &#x200B;] [!UICONTROL &#x200B; データタイプ &#x200B;]を選択します。
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
@@ -133,11 +141,11 @@ ht-degree: 68%
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 
-1. 「enrollmentID」や「成績」など、中間オブジェクトで使用するその他のフィールドを作成します。
+1. 「enrollmentID」や「成績」など、中間オブジェクトで使用するその他のフィールドを作成します。&#x200B;
 
 ## カスタムオブジェクトの使用 {#using-custom-objects}
 
-次の手順では、スマートキャンペーンのフィルターでこれらのカスタムオブジェクトを使用します。 多対多の関係を使用すると、複数の人物または企業と複数のカスタムオブジェクトを選択できます。 以下の例では、データベース内でこれらの条件に一致する人がすべて表示されます。 「コース名」フィールドはコースカスタムオブジェクトから、「登録成績」は中間オブジェクトから取得されます。
+次の手順では、スマートキャンペーンのフィルターでこれらのカスタムオブジェクトを使用します。 多対多の関係を使用すると、複数の人物または企業と複数のカスタムオブジェクトを選択できます。 以下の例では、データベース内でこれらの条件に一致する人がすべてリストに表示されます。 「コース名」フィールドはコースカスタムオブジェクトから、「登録成績」は中間オブジェクトから取得されます。
 
 ![](assets/add-marketo-custom-object-link-fields-18.png)
 

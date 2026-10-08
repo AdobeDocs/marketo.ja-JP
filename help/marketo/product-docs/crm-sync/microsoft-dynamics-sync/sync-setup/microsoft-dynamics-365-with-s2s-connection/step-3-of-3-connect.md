@@ -1,20 +1,25 @@
 ---
 unique-page-id: 3571830
 description: Marketo ソリューションをDynamics 365に接続し、Server to Server接続を行う方法について説明します。 Marketo Adminで同期ユーザー情報を入力し、同期を有効にする前に検証します。
-title: 手順 3 / 3 - サーバー間接続を使用した Marketo ソリューションの接続
+title: 手順 3／3 - サーバー間接続を使用して Marketo ソリューションを接続
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/CtVAFVltlfzpVkB28kTjz7YTIdk-8sMKHKDEp5XQMuY
+TQID: 'https://experienceleague.adobe.com/CtVAFVltlfzpVkB28kTjz7YTIdk-8sMKHKDEp5XQMuY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 479
+source-wordcount: '479'
 ht-degree: 82%
-
 ---
-
-# 手順 3 / 3：サーバー間接続を使用した Marketo ソリューションの接続 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
+# 手順 3／3：サーバー間接続を使用して Marketo ソリューションを接続 {#step-3-of-3-connect-microsoft-dynamics-with-marketo-solution-s2s}
 
 これは同期の最後のステップです。
 
@@ -35,9 +40,9 @@ ht-degree: 82%
 >
 >新しい資格情報を入力する前に、[こちらでそれらを検証](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md){target="_blank"}できます。
 
-## [!DNL Dynamics] 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
+## [!DNL Dynamics] 同期ユーザー情報の入力 {#enter-dynamics-sync-user-information}
 
-1. Marketo にログインし、**[!UICONTROL 管理]**&#x200B;をクリックします。
+1. Marketo にログインし、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/login-admin.png)
 
@@ -57,13 +62,13 @@ ht-degree: 82%
    >
    >組織のURLが正しいことを確認します。 送信後に後続のスキーマ変更を元に戻すことはできません。 正しくない組織URLを使用した場合は、新しいMarketo サブスクリプションが必要になります。 URL がわからない場合は、[こちらで見つける方法をご確認ください](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md){target="_blank"}。
 
-1. [!DNL Dynamics] 同期ユーザ情報を入力し、完了したら「**[!UICONTROL 保存]**」をクリックします。
+1. [!DNL Dynamics] 同期ユーザー情報を入力し、完了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/step-3-of-3-connect-s2s-5.png)
 
    >[!NOTE]
    >
-   >Marketo のユーザ名は CRM のアプリケーションユーザの[メールアドレス](https://docs.microsoft.com/ja-jp/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"}と一致する必要があります。 形式は、`user@domain.com` または DOMAIN\user です。
+   >Marketo のユーザー名は CRM のアプリケーションユーザーの[メールアドレス](https://docs.microsoft.com/ja-jp/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user){target="_blank"}と一致する必要があります。 形式は、`user@domain.com` または DOMAIN\user です。
 
 ## 同期するフィールドの選択 {#select-fields-to-sync}
 
@@ -91,7 +96,7 @@ ht-degree: 82%
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 下にスクロールしてフィールドを確認します。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。 「**[!UICONTROL 保存]**」をクリックします。
+1. 下にスクロールしてそのフィールドをチェックします。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意に設定できます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
@@ -103,7 +108,7 @@ ht-degree: 82%
 
    >[!CAUTION]
    >
-   >Marketo は、[!DNL Microsoft Dynamics] の同期に対して、または人物やリードを手動で入力した場合には、自動的に重複排除を行いません。
+   >Marketo は、[!DNL Microsoft Dynamics] の同期や、人物やリードを手動で入力した場合には、自動的に重複排除を行いません。
 
 1. ポップアップの内容をすべて読み、メールアドレスを入力して、「**[!UICONTROL 同期を開始]**」をクリックします。
 

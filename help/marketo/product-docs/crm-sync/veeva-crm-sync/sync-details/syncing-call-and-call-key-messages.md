@@ -3,23 +3,29 @@ description: 呼び出しと呼び出しキーメッセージオブジェクト�
 title: 通話と通話の主要メッセージの同期
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/IuF0jecYZcSgM6jZaVLeJO0CoSwBgYoxirK-9ZAiaWU
+TQID: 'https://experienceleague.adobe.com/IuF0jecYZcSgM6jZaVLeJO0CoSwBgYoxirK-9ZAiaWU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 495
+source-wordcount: '495'
 ht-degree: 94%
-
 ---
-
 # 通話と通話の主要メッセージの同期 {#syncing-call-and-call-key-messages}
 
-[!DNL Veeva] CRM の通話と主要メッセージオブジェクトは、デフォルトで Marketo Engage に同期されます。 Marketo は、通話作成日に基づいて、過去 6 か月のデータを同期します。
+[!DNL Veeva] CRM の通話と主要メッセージオブジェクトは、デフォルトで Marketo Engage に同期されます。 Marketo は、通話作成日付に基づいて、過去 6 か月分のデータを同期します。
 
 >[!NOTE]
 >
@@ -81,7 +87,7 @@ ht-degree: 94%
     <tr>
       <td>通話</td>
       <td>通話タイプ</td>
-      <td>通話のタイプと内容に基づいてシステムが維持管理する通話のタイプ。 このフィールドは、レポートの目的で使用されます。 有効な値は次のとおりです。詳細のみ、詳細（サンプル付き）、グループ詳細、グループ詳細（サンプル付き）、サンプルのみ。 これらの値は変更しないでください。ただし、これらの選択リストの翻訳は変更される場合があります。 出席者の通話の種類はヘッダー通話と同じです。 3 名の専門家によるグループ通話の場合、4 件のレコードすべてに「グループ詳細」という通話タイプが設定されます</td>
+      <td>通話のタイプと内容に基づいてシステムが維持管理する通話のタイプ。 このフィールドは、レポートの目的で使用されます。 有効な値は次のとおりです：Detail Only、Detail with Sample、Group Detail、Group Detail with Sample、Sample Only。 これらの値は変更しないでください。ただし、これらの選択リストの翻訳は変更される場合があります。 出席者の通話の種類はヘッダー通話と同じです。 3 名の専門家によるグループ通話の場合、4 件のレコードすべてに「グループ詳細」という通話タイプが設定されます。</td>
       <td>Call_Type_vod__c</td>
       <td>選択リスト</td>
     </tr>
@@ -109,7 +115,7 @@ ht-degree: 94%
     <tr>
       <td>通話</td>
       <td>ステータス</td>
-      <td>通話のステータス - 計画済み、保存済み、送信済み。 表示される値を変更するには、翻訳ワークベンチを使用します。 通話時のトリガーは、このフィールドを調べて、通話がロック（送信）されているかどうかを確認します。 この値は、「保存」または「送信」ボタンが押されたときにユーザに対して設定されます。</td>
+      <td>通話のステータス - 計画済み、保存済み、送信済み。 表示される値を変更するには、翻訳ワークベンチを使用します。 通話時のトリガーは、このフィールドを調べて、通話がロック（送信）されているかどうかを確認します。 この値は、「保存」または「送信」ボタンが押されたときにユーザーに設定されます。</td>
       <td>Status_vod__c</td>
       <td>選択リスト</td>
     </tr>
@@ -130,7 +136,7 @@ ht-degree: 94%
     <tr>
       <td>通話の主要メッセージ</td>
       <td>カテゴリ</td>
-      <td>メッセージのメッセージカテゴリを記録します。 主にレポートに使用されます。</td>
+      <td>メッセージのカテゴリを記録します。 主にレポートに使用されます。</td>
       <td>Category_vod__c</td>
       <td>選択リスト</td>
     </tr>
@@ -159,7 +165,7 @@ ht-degree: 94%
       <td>通話の主要メッセージ</td>
       <td>反応</a>
       </td>
-      <td>メッセージに対する反応の選択リスト。 選択リストを編集して反応の値を変更します。</td>
+      <td>メッセージに対する反応の選択リスト。 選択リストを編集して、リアクション値を変更します。</td>
       <td>Reaction_vod__c</td>
       <td>選択リスト</td>
     </tr>

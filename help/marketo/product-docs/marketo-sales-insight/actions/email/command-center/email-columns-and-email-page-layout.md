@@ -3,18 +3,20 @@ description: コマンドセンターで、メールの列とページレイア�
 title: メール列とメールページのレイアウト
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/q4hsk3YYlVl0fYfWyO4vLW9myJdRghZFm9NR9wS4ZSw
+TQID: 'https://experienceleague.adobe.com/q4hsk3YYlVl0fYfWyO4vLW9myJdRghZFm9NR9wS4ZSw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 548
+source-wordcount: '548'
 ht-degree: 96%
-
 ---
-
 # メール列とメールページのレイアウト {#email-columns-and-email-page-layout}
 
 [コマンドセンター](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md)のメールセクションに表示される、利用可能な列を設定することができます。 設定は、それぞれのメールサブフォルダー（「配信済み」、「失敗」、「スケジュール済み」など）に対して保存されます。
@@ -33,7 +35,7 @@ ht-degree: 96%
   </tr>
   <tr>
    <td><strong>[!UICONTROL ユーザー]</td>
-   <td>[!UICONTROL Sales Connect] の人物の名前とメール。 このフィールドをクリックすると、人物の詳細表示の「情報」タブが開きます。</td>
+   <td>[!UICONTROL セールスコネクト] の人物の名前とメールアドレス。 このフィールドをクリックすると、人物の詳細表示の「情報」タブが開きます。</td>
   </tr>
   <tr>
    <td><strong>[!UICONTROL 名前]</td>
@@ -100,8 +102,8 @@ ht-degree: 96%
    <td>メールがグループメールの一部として送信された場合は、チェックマークを表示します。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL タスク期限]</td>
-   <td>メールに関連するタスクの期限を表示します。 タスクは、メールリストのクイックアクションボタンから作成することで、メールに関連付けることができます。</td>
+   <td><strong>[!UICONTROL タスクの期限日付]</td>
+   <td>メールに関連するタスクの期限日付を表示します。 タスクは、メールリストのクイックアクションボタンから作成することで、メールに関連付けることができます。</td>
   </tr>
   <tr>
    <td><strong>[!UICONTROL メールアクション]</td>
@@ -130,7 +132,7 @@ ht-degree: 96%
 
    ![](assets/email-columns-and-email-page-layout-2.png)
 
-1. 「設定」ボタンをクリックします。 オプションには、行数の選択、表示フィールドの選択、グループメールをグリッド内の 1 つの項目にまとめるかどうか（またはメールグリッドの一部であるすべてのメールを 1 つの項目として表示する）の選択が含まれます。
+1. 「設定」ボタンをクリックします。 オプションでは、行数の選択、表示するフィールドの選択、グループメールをグリッド内の 1 つの項目にまとめる（またはメールグリッドの一部であるすべてのメールを 1 つの項目として表示する）かを選択できます。
 
    ![](assets/email-columns-and-email-page-layout-3.png)
 

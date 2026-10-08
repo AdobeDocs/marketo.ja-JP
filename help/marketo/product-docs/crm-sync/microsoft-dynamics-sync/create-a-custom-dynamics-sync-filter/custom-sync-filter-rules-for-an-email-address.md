@@ -4,16 +4,21 @@ description: Dynamicsで電子メールアドレスのカスタム同期フィ�
 title: メールアドレスのカスタム同期フィルタールール
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/SPEV9J4rabu7tMrPEOW8JYg2r7ihtTzE6OmJZvkOIZ4
+TQID: 'https://experienceleague.adobe.com/SPEV9J4rabu7tMrPEOW8JYg2r7ihtTzE6OmJZvkOIZ4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 221
+source-wordcount: '221'
 ht-degree: 79%
-
 ---
-
 # メールアドレスのカスタム同期フィルタールール {#custom-sync-filter-rules-for-an-email-address}
 
 メールアドレスを持たないレコードの同期を防ぐには、次のルールに従います。
@@ -23,4 +28,4 @@ ht-degree: 79%
 * 取引先責任者が作成された場合、また取引先責任者先のメールアドレスフィールドが更新された場合は、取引先責任者にメールアドレスが含まれているかどうかを確認し、存在する場合は「Mkto に同期」を **[!UICONTROL True]** にし、アカウントレコードで「Mkto に同期」を **[!UICONTROL True]** に変更します。 それ以外の場合は、「**[!UICONTROL False]**」に、変更します。
 
 * 取引先責任者の「会社名 (parentcustomerid)」フィールドが更新されたら、その取引先責任者の「Mkto と同期」フィールドが true かどうかを確認します。 その場合は、アカウント上の「Mkto と同期」も「**[!UICONTROL True]**」に変更します。
-* 商談の「見込み客（customerid）」フィールドまたは「取引先責任者（parentcontactid）」が更新されたら、アカウントの「Mkto に同期」フィールドが true か、または取引先責任者の「Mkto に同期」フィールドが true かを確認します。 その場合は、商談でも「Mkto に同期」を **[!UICONTROL True]** に変更します。
+* 商談の「見込み客（customerid）」フィールドまたは「取引先責任者（parentcontactid）」が更新されたら、アカウントの「Mkto と同期」フィールドが true か、または取引先責任者の「Mkto と同期」フィールドが true かを確認します。 その場合は、商談でも「Mkto に同期」を **[!UICONTROL True]** に変更します。

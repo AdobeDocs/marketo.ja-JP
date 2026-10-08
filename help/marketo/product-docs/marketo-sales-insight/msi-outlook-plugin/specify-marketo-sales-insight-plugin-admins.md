@@ -4,18 +4,21 @@ description: Outlook用のMarketo Sales Insight プラグイン管理者を指�
 title: Marketo [!UICONTROL セールスインサイト]プラグイン管理者の指定
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/9c3rukRLFdi26iJHvvyH4jij4kSbz1sui7Rz0j9faW8
+TQID: 'https://experienceleague.adobe.com/9c3rukRLFdi26iJHvvyH4jij4kSbz1sui7Rz0j9faW8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: '103'
 ht-degree: 79%
-
 ---
-
 # Marketo [!UICONTROL セールスインサイト]プラグイン管理者の指定 {#specify-marketo-sales-insight-plugin-admins}
 
 [!DNL Outlook] で MSI を設定するようにユーザを招待する際にユーザに送信するメールの通知に表示する取引先責任者を指定できます。
@@ -40,7 +43,7 @@ ht-degree: 79%
 
    ![](assets/image2016-8-25-11-3a17-3a7.png)
 
-1. 選択した連絡先は、承認プロセス中に受け取るメールセールス担当者にリストされます。
+1. 選択した取引先責任者は、承認プロセス中にセールス担当者が受け取るメールにリストされます。
 
    ![](assets/image2016-8-25-11-3a33-3a33.png)
 

@@ -1,22 +1,24 @@
 ---
 unique-page-id: 42762794
 description: Salesforce ClassicとSales Connectで一括アクションを使用する方法について説明します。 複数のリードまたは取引先責任者を一度にセールスコネクトにプッシュできます。
-title: ' [!DNL Salesforce]  Classic での一括アクションの使用'
+title: '[!DNL Salesforce] Classic での一括アクションの使用'
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M
+TQID: 'https://experienceleague.adobe.com/R1scHZzjKz282-t69ioZN-3lk-feuCEtoJM3Q4zcB-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 377
+source-wordcount: '377'
 ht-degree: 68%
-
 ---
-
 # [!DNL Salesforce] Classic での一括アクションの使用 {#using-bulk-actions-in-salesforce-classic}
 
-キャンペーンへのリードの追加、一括メールの送信、[!DNL Salesforce] から [!DNL Sales Connect] へのリードのプッシュなど、一括アクションの実行方法を説明します。
+キャンペーンへのリードの追加、一括メールの送信、[!DNL Salesforce] から [!DNL Sales Connect] へのリードのプッシュなど、一括アクションの実行方法について説明します。
 
 >[!PREREQUISITES]
 >
@@ -39,10 +41,10 @@ ht-degree: 68%
 1. MSC メールがポップアップ表示されます。 次の機能が含まれます。
 
    a. 「[!UICONTROL から]」フィールドに「[!UICONTROL すべての受信者]」が表示されます。これは、リードリストビューで選択したリードのリストに対応します
-b. このリストは、「[!UICONTROL 一括作成]」という左側のパネルに表示されます。ここで受信者を追加または削除できます
-c. テンプレートを選択するか、独自の電子メールを作成できます
-d. メールに入力される動的フィールドをプレビューできます
-e. メールをすぐに送信することも、後で送信するようにスケジュールすることもできます
+   b. このリストは、「[!UICONTROL 一括作成]」という左側のパネルに表示されます。ここで受信者を追加または削除できます
+   c. テンプレートを選択するか、独自の電子メールを作成できます
+   d. メールに入力される動的フィールドをプレビューできます
+   e. メールをすぐに送信することも、後で送信するようにスケジュールすることもできます
 
    ![](assets/three-4.png)
 
@@ -56,7 +58,7 @@ e. メールをすぐに送信することも、後で送信するようにス�
 
    ![](assets/five-3.png)
 
-1. 「[!UICONTROL キャンペーンに人物を追加]」ポップアップが表示されます。 「**[!UICONTROL 次へ]**」をクリックし、通常のキャンペーンフローを実行して、MSC キャンペーンをトリガーします。
+1. 「[!UICONTROL キャンペーンにリードを追加]」ポップアップが表示されます。 「**[!UICONTROL 次へ]**」をクリックし、通常のキャンペーンフローを実行して、MSC キャンペーンをトリガーします。
 
    ![](assets/six.png)
 
@@ -80,7 +82,7 @@ e. メールをすぐに送信することも、後で送信するようにス�
 
 >[!NOTE]
 >
->同じ手順に従って、連絡先リスト表示でバルクアクションを使用することもできます。
+>同じ手順に従って、取引先責任者リストビューでも一括アクションを使用できます。
 
 >[!MORELIKETHIS]
 >

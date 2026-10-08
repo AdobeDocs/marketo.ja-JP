@@ -4,27 +4,30 @@ description: Marketo Momentsでは、重要な局面を明らかにできます�
 title: Marketo Moments について
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/aEx5-CA8gKF6iVsLULnpqckR8YEoizYrE-U-xHydIjo
+TQID: 'https://experienceleague.adobe.com/aEx5-CA8gKF6iVsLULnpqckR8YEoizYrE-U-xHydIjo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 623
+source-wordcount: '623'
 ht-degree: 54%
-
 ---
-
 # Marketo Moments について {#understanding-marketo-moments}
 
 Marketoのパワーを手に入れましょう。 携帯電話やiPadから直接、メールのプレビューやスケジュールの変更を行うことができます。
 
 >[!IMPORTANT]
 >
->2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。 タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。 Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。 タブレット／モバイルデバイスにアプリが既にインストールされている場合は、当面の間引き続き使用できます。 Marketo Engage インスタンスが、Marketo の認証に Adobe Identity を使用するように移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 >[!NOTE]
 >
@@ -59,7 +62,7 @@ Marketo Moments には、メールの進行状況に応じた 3 種類のカー�
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL 結果]** – 電子メールのパフォーマンスを示します。 メールの実行が終了すると、結果カードにエンゲージメントスコアおよびその他の統計が表示されます。
+**[!UICONTROL 結果]** – 電子メールのパフォーマンスを示します。 メールの実行が終了すると、結果カードにエンゲージメントスコアおよびその他の指標が表示されます。
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -97,7 +100,7 @@ Marketo Moments には、メールの進行状況に応じた 3 種類のカー�
 
 ## 今後のモーメント {#later-moments}
 
-「後で」のセクションでは、今後のアクティビティが表示されます。
+「後で」セクションには、今後のアクティビティが表示されます。
 
 1. まず、ハンバーガーメニューをタップします。
 
@@ -125,7 +128,7 @@ Marketo Moments には、メールの進行状況に応じた 3 種類のカー�
 
 ## 分析カード {#analytics-cards}
 
-分析モーメントカードでは、過去 6 か月間の電子メールおよびイベントの月々のパフォーマンスを確認できます。以下に例を示します。
+分析モーメントカードでは、過去 6 か月間のメールおよびイベントの月ごとのパフォーマンスが次の項目について表示されます。
 
 1. 獲得したリード
 1. 新規リード

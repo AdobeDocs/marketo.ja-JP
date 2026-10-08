@@ -4,19 +4,21 @@ description: Sales ConnectがSalesforceに接続されている場合の返信�
 title: 返信ログ（SFDC）
 exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/f0d-5xccuVhooEcbh-7TU8fw68iazo1Ird1I8VZJYU4
+TQID: 'https://experienceleague.adobe.com/f0d-5xccuVhooEcbh-7TU8fw68iazo1Ird1I8VZJYU4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 273
+source-wordcount: '273'
 ht-degree: 92%
-
 ---
-
 # 返信ログ（SFDC） {#reply-logging-sfdc}
 
-Sales Connect は、見込み客の Salesforce への返信を自動的に記録する機能を備えています。 これを行うための構造は、メール返信トラッキングに基づいています。 見込み客の返信を追跡できる場合は、その返信を Salesforce に記録できます。
+セールスコネクトは、見込み客の返信を Salesforce のログに自動的に記録する機能を備えています。 これを行うための構造は、メール返信トラッキングに基づいています。 見込み客の返信をトラッキングできる場合は、その返信を Salesforce のログに記録できます。
 
 ## 要件 {#requirements}
 
@@ -31,11 +33,11 @@ Sales Connect は、見込み客の Salesforce への返信を自動的に記録
 
    >[!NOTE]
    >
-   >返信ログは、送信されたメールのログに記録する際に指定したのと同じルールに従います。 ログには、メールのログ記録方法、リードと取引先責任者、重複する記録がある場合、一致するレコードが見つからない場合が含まれます。
+   >返信ログは、送信したメールをログする際に設定しているのと同じルールに従います。 これには、メールをどのようにログに記録するか、リードおよび取引先責任者への登録方法、重複するレコードがある場合、または一致するレコードが見つからない場合の動作が含まれます。
 
 ## [!DNL Salesforce] でタイプを返信に設定 {#setting-type-to-reply-in-salesforce}
 
-[!DNL Salesforce] レポートから意味のあるデータを取得することが重要です。 「タイプ」フィールドに「返信」と入力する機能を使用すると、レポートからデータを取得できます。 `[!DNL Salesforce] admin` と連携して、この設定を取得します。
+[!DNL Salesforce] レポートから意味のあるデータを取得することが重要です。 「タイプ」フィールドに「返信」が設定されるようにしておくことで、そのデータをレポートから取得できるようになります。 `[!DNL Salesforce] admin` と連携して、この設定を取得します。
 
 1. **[!UICONTROL セットアップ]**／**[!UICONTROL カスタマイズ]**／**[!UICONTROL アクティビティ]**／**[!UICONTROL タスクフィールド]**&#x200B;に移動します。
 1. 「**[!UICONTROL タイプ]**」をクリックします。

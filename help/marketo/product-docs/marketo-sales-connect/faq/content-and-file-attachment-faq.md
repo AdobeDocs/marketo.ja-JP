@@ -4,18 +4,20 @@ description: Sales Connectのコンテンツと添付ファイルに関する質
 title: コンテンツと添付ファイルに関する FAQ
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Wj6Lh-3GYl3HY0I3Rvmf572XxLEM-bl-2X68XPaYXu8
+TQID: 'https://experienceleague.adobe.com/Wj6Lh-3GYl3HY0I3Rvmf572XxLEM-bl-2X68XPaYXu8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 273
+source-wordcount: '273'
 ht-degree: 72%
-
 ---
-
 # コンテンツと添付ファイルに関する FAQ {#content-and-file-attachment-faq}
 
 ## コンテンツと添付ファイルの違いは何ですか？ {#what-is-the-difference-between-content-and-a-file-attachment}
@@ -26,16 +28,16 @@ ht-degree: 72%
 
 このボタンをクリックすると、既にアップロード済みのファイルを選択したり、トラッキングする新しいファイルをアップロードしたりできます。 次に、使用しているメールまたはテンプレートにリンクを挿入します。
 
-受信側で、受信者がリンクをクリックすると、コンテンツがブラウザーに入力されます。 これにより、各ページビューを追跡し、ライブフィード内の [!DNL Sales Connect] ユーザに報告することができます。
+受信側で、受信者がリンクをクリックすると、コンテンツがブラウザーに入力されます。 これにより、各ページビューを追跡し、ライブフィード内の [!DNL Sales Connect] ユーザーに報告することができます。
 
 ファイルとコンテンツのオプションは、1 回限りのメール、テンプレート、キャンペーン、[!DNL Outlook]（[!DNL Windows] と Mac の両方）、Gmail、OWA で使用できます。
 
 ## コンテンツは誰が管理し、どこに保存されますか？ {#who-manages-the-content-and-where-is-it-stored}
 
-テンプレートを作成できる任意のユーザが、[!DNL Sales Connect] リポジトリにコンテンツをアップロードできます。 つまり、ユーザは選択したコンテンツをアップロードできます。
+テンプレートを作成できる任意のユーザーが、[!DNL Sales Connect] リポジトリにコンテンツをアップロードできます。 つまり、ユーザは選択したコンテンツをアップロードできます。
 
 ## コンテンツ、プレイブック、テンプレートなどをチームで作成／整理できますか？ {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 
-ユーザは独自のテンプレートを作成でき、チーム別に整理できます。 それを行うには、チーム管理ページからチームを作成します。 その後、チームがテンプレート／プレイブック／グループを共有するときに、ユーザの全サブスクリプションではなく、グループとのみ共有できるようになります。
+ユーザは独自のテンプレートを作成でき、チームで整理できます。 それを行うには、チーム管理ページからチームを作成します。 その後、チームがテンプレート／プレイブック／グループを共有するときに、サブスクリプション全体のユーザではなく、これらのグループとのみ共有できるようになります。
 
 コンテンツは組織全体で共有できます。

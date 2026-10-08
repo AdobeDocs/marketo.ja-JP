@@ -4,13 +4,19 @@ description: field-organizersを使用したfield-organizersを使用して、Ma
 title: フィールドオーガナイザーの使用
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 86%
-
 ---
-
 # フィールドオーガナイザーの使用 {#using-field-organizers}
 
 フィールドオーガナイザーは、可能なすべての値の中から特定のフィールドを指定するのに役立ちます。 例えば、「テリトリー」フィールドには、西海岸や東海岸など、意味のあるグループを作成できます。 これにより、レポートの実行が迅速になります。
@@ -21,11 +27,11 @@ ht-degree: 86%
 
 特定のフィールドオーガナイザーレポートはありません。
 
-フィールドオーガナイザは、モデル効果分析で使用されます。
+フィールドオーガナイザーは、モデルパフォーマンス分析で使用されます。
 
-## フィールドオーガナイザの作成方法 {#how-to-create-field-organizers}
+## フィールドオーガナイザーの作成方法 {#how-to-create-field-organizers}
 
-1. 「**[!UICONTROL データベース]**」をクリックします。
+1. クリック **[!UICONTROL データベース]**.
 
    ![](assets/db.png)
 

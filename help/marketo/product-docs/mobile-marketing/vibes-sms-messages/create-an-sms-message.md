@@ -3,18 +3,20 @@ description: SMS メッセージの作成方法を説明します。 エディ�
 title: SMS メッセージの作成
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-TQID: https://experienceleague.adobe.com/UOlEOmAlmr52sbQ3yz2Rmh-9HEHObY5D9ncB1CmD0ro
+TQID: 'https://experienceleague.adobe.com/UOlEOmAlmr52sbQ3yz2Rmh-9HEHObY5D9ncB1CmD0ro'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 502
+source-wordcount: '502'
 ht-degree: 17%
-
 ---
-
 # SMS メッセージの作成 {#create-an-sms-message}
 
 SMS メッセージの作成方法。
@@ -57,7 +59,7 @@ SMS メッセージの作成方法。
 
    >[!NOTE]
    >
-   >トークンを追加すると、メッセージの上限を超える場合があります。 メッセージは分割され、追加のメッセージが作成されます。
+   >トークンを追加すると、メッセージが文字数の上限を超える場合があります。 メッセージは分割され、追加のメッセージが作成されます。
 
    >[!IMPORTANT]
    >

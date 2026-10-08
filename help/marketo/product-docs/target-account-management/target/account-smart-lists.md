@@ -4,16 +4,21 @@ description: アカウントスマートリストを作成して価値の高い�
 title: アカウントスマートリスト
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/CzJmCUT5TYuVKNOMmSkOjuRc7ImDGOzw7L-Ej45-Evw
+TQID: 'https://experienceleague.adobe.com/CzJmCUT5TYuVKNOMmSkOjuRc7ImDGOzw7L-Ej45-Evw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 523
+source-wordcount: '523'
 ht-degree: 92%
-
 ---
-
 # アカウントスマートリスト {#account-smart-lists}
 
 ここでは、価値の高いアカウントを迅速かつ正確に特定する方法を説明します。
@@ -64,7 +69,7 @@ ht-degree: 92%
    >
    >[アカウントプロファイリングのランキングと調整](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)で使用された ICP 指標データは、アカウントスマートリストで使用するカスタムアカウント属性として表示されます。 このカスタム属性データは、アカウントプロファイルモデルが作成または更新された日時に基づいています。
 
-1. 「一致するリード」フィルターを選択します。 この例では、「_州はカリフォルニア_」を選択します。
+1. 「一致する人物」フィルターを選択します。 この例では、「_州はカリフォルニア_」を選択します。
 
    ![](assets/account-smart-lists-9.png)
 
@@ -78,7 +83,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->フィルターのコンテナを作成すると、「and」ルールが作成され、結合された結果のみが返されます。 この例では、業種が医療業界で、カリフォルニア州に所在し、_さらに_ CFO として登録されているアカウントが返されます。 コンテナを利用しない場合は、既存のコンテナの下または上にフィルターをドロップします。
+>フィルターのコンテナを作成すると、「and」ルールが作成され、結合された結果のみが返されます。 この例では、業種が医療業界で、カリフォルニア州に所在し、_さらに_ CFO として登録されているアカウントが返されます。 コンテナを利用しない場合は、既存のフィルターの下または上にフィルターをドロップします。
 
 [!UICONTROL &#x200B; アカウントスマートリスト &#x200B;]を活用する方法については、以下の節を参照してください。
 

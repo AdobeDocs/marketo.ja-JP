@@ -1,32 +1,37 @@
 ---
 description: Salesforceに通話理由と通話結果を記録する方法について説明します。 通話のアクティビティと属性がCRMに同期されていることを確認します。
-title: Salesforce に通話理由と通話結果を記録
+title: Salesforce への通話理由と通話結果のログの記録
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/JStWQ2NIpa5ct7f5cvFzrHjNHsBnoDJK1vgCxNcAUQ0
+TQID: 'https://experienceleague.adobe.com/JStWQ2NIpa5ct7f5cvFzrHjNHsBnoDJK1vgCxNcAUQ0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 471
+source-wordcount: '471'
 ht-degree: 95%
-
 ---
+# Salesforce への通話理由と通話結果のログの記録 {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-# Salesforce に通話理由と通話結果を記録 {#log-call-reasons-and-call-outcomes-to-salesforce}
-
-レポートや表示の目的で、通話の結果や通話理由を Salesforce に記録する場合は、それぞれにカスタムアクティビティフィールドを作成できます。 各フィールドは、特定の API 名（Salesforce では「フィールド名」と呼ばれます）を使用する必要があります。
+レポートや可視化の目的で、通話の結果や通話理由を Salesforce のログに記録する場合は、それぞれにカスタムアクティビティフィールドを作成できます。 各フィールドは、特定の API 名（Salesforce では「フィールド名」と呼ばれます）を使用する必要があります。
 
 * 通話の結果フィールド名：mktosales_call_outcome
 * 通話理由フィールド名：mktosales_call_reason
 
-これらのフィールドを利用するには、まず、カスタムアクティビティフィールドとしてフィールドを作成する必要があります。 ユーザに表示するには、タスクオブジェクトのページレイアウトに追加する必要があります。
+これらのフィールドを利用するには、まずカスタムアクティビティフィールドとして作成する必要があります。 ユーザに表示するには、タスクオブジェクトのページレイアウトに追加する必要があります。
 
 ## Salesforce Classic {#salesforce-classic}
 
@@ -72,7 +77,7 @@ ht-degree: 95%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
-### Salesforce Classic のタスクページレイアウトにカスタムアクティビティフィールドを追加する {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
+### Salesforce Classic のタスクページレイアウトへのカスタムアクティビティフィールドの追加 {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
 >[!NOTE]
 >
@@ -104,7 +109,7 @@ ht-degree: 95%
 
 ## Salesforce Lightning {#salesforce-lightning}
 
-### Salesforce Lightning でカスタムアクティビティフィールドを作成する {#create-custom-activity-field-in-salesforce-lightning}
+### Salesforce Lightning でのカスタムアクティビティフィールドの作成 {#create-custom-activity-field-in-salesforce-lightning}
 
 1. Salesforce で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
 
@@ -130,7 +135,7 @@ ht-degree: 95%
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-### Salesforce Lightning のタスクページレイアウトにカスタムアクティビティフィールドを追加する {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### Salesforce Lightning のタスクページレイアウトへのカスタムアクティビティフィールドの追加 {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
 1. Salesforce で、右上の歯車アイコンをクリックし、「**設定**」を選択します。
 

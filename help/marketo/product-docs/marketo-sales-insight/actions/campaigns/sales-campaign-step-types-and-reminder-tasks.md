@@ -3,18 +3,20 @@ description: Sales Campaignのステップタイプとリマインダータス�
 title: セールスキャンペーンのステップのタイプとリマインダータスク
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/QnwSipRlTnXV-LV-KG11LPZbHBjHPGsaLMPBrzqD8gM
+TQID: 'https://experienceleague.adobe.com/QnwSipRlTnXV-LV-KG11LPZbHBjHPGsaLMPBrzqD8gM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 336
+source-wordcount: '336'
 ht-degree: 92%
-
 ---
-
 # セールスキャンペーンのステップのタイプとリマインダータスク {#sales-campaign-step-types-and-reminder-tasks}
 
 ## セールスキャンペーンのステップタイプ {#sales-campaign-step-types}
@@ -23,7 +25,7 @@ ht-degree: 92%
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-1.png)
 
-### メール {#email}
+### 電子メール {#email}
 
 新しいメールを作成するか、既存のテンプレートを使用します。
 
@@ -32,7 +34,7 @@ ht-degree: 92%
 | **[!UICONTROL テンプレートを使用]** | 既存のテンプレートの 1 つを選択します |
 |---|---|
 | **[!UICONTROL テンプレートとして保存]** | 作成したメールを新しいテンプレートとして保存します |
-| **コンテンツの追加** | ファイルをアドビのサーバーにアップロードし、メールでトラックできる URL（コンテンツを指す）を受け取ります |
+| **コンテンツの追加** | ファイルをサーバーにアップロードし、メールでトラッキングできる URL（コンテンツを指す）を受け取ります |
 | **ファイルを添付** | コンピューターからメールにファイルを添付します（サイズ制限は 23 MB） |
 
 >[!TIP]
@@ -41,7 +43,7 @@ ht-degree: 92%
 
 ### 電話 {#call}
 
-電話で取引先責任者をフォローアップするリマインダーを設定します。 また、通話中にトークトラックとして使用するメモを保存することもできます。
+電話でコンタクトをフォローアップするリマインダーを設定します。 また、通話中にトークトラックとして使用するメモを保存することもできます。
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-3.png)
 
@@ -67,7 +69,7 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->セールスキャンペーンのタスクで最も重要な点は、次の手順をトリガーするためにタスクを順番に完了する必要があることです。
+>セールスキャンペーンのタスクで最も重要な点は、次のステップをトリガーするには、そのタスクを完了する必要があるということです。
 
 >[!MORELIKETHIS]
 >

@@ -4,18 +4,20 @@ description: アプリ内メッセージのテキストとスタイルを作成�
 title: アプリ内メッセージテキストの作成
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/N5ENTkSHHuCq-rrxsBfzpT-zoYP-192ow2MCWCuDVjs
+TQID: 'https://experienceleague.adobe.com/N5ENTkSHHuCq-rrxsBfzpT-zoYP-192ow2MCWCuDVjs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Forms
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 393
+source-wordcount: '393'
 ht-degree: 93%
-
 ---
-
 # アプリ内メッセージテキストの作成 {#create-in-app-message-text}
 
 テキスト領域をクリックして、テキストスタイルとコンテンツを操作します。
@@ -24,7 +26,7 @@ ht-degree: 93%
 >
 >現時点では絵文字は完全にはサポートされていないので、テキストでは使用しないことをお勧めします。
 
-1. 「メインテキスト」をクリックしてインラインを編集します。
+1. 「メインテキスト」をクリックして、その場で編集します。
 
    ![](assets/image2016-5-6-9-3a56-3a56.png)
 
@@ -68,7 +70,7 @@ ht-degree: 93%
 
    ![](assets/image2016-5-6-10-3a26-3a27.png)
 
-1. 「メイン」または「サポート」テキストのどちらでも、トークンアイコンをクリックしてトークンを追加します。
+1. 「メインテキスト」または「サポートテキスト」のどちらでも、トークンアイコンをクリックしてトークンを追加します。
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
@@ -82,7 +84,7 @@ ht-degree: 93%
 
    >[!TIP]
    >
-   >オーディエンスから見たときにトークンが解決される文字数を必ず考慮してください。 長い値を考慮するのに十分なスペースを残し、切れないようにします。
+   >トークンがオーディエンスに表示されたときにどの程度の文字数に展開されるかを必ず考慮してください。 長くなる可能性のある値を考慮して十分なスペースを確保し、途中で切れてしまわないようにします。
 
    承認済みのアプリ内メッセージプログラムで使用されたトークンに対しておこなった変更は、プログラムが一時停止してから再開されるまで、アプリ内メッセージに反映されません。
 

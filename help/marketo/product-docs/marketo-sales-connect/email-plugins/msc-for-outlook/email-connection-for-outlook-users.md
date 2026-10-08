@@ -4,23 +4,25 @@ description: Sales ConnectでのOutlook ユーザーのメール接続につい�
 title: Outlook ユーザーのメール接続
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/xS268qisPGnUKV--cpLyVKNjjCRsehNptKj9qhf93ss
+TQID: 'https://experienceleague.adobe.com/xS268qisPGnUKV--cpLyVKNjjCRsehNptKj9qhf93ss'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 321
+source-wordcount: '321'
 ht-degree: 82%
-
 ---
-
 # [!DNL Outlook] ユーザのメール接続 {#email-connection-for-outlook-users}
 
 [!DNL Sales Connect] アカウントを [!DNL Outlook] に接続する方法について説明します。
 
 >[!NOTE]
 >
->各ユーザは、[!DNL Sales Connect] アカウントから [!DNL Outlook] に接続する必要があります。
+>各ユーザーは、[!DNL Sales Connect] アカウントから [!DNL Outlook] に接続する必要があります。
 
 ## [!DNL Outlook] オンラインへの接続 {#connecting-to-outlook-online}
 
@@ -79,7 +81,7 @@ ht-degree: 82%
 
    ![](assets/nine-a.png)
 
-   この接続を使用してメールをトラッキングし、配信チャネルとしてもトラッキングできます。
+   この接続を使用してメールをトラッキングし、配信チャネルとしても利用できます。
 
    >[!NOTE]
    >
@@ -134,7 +136,7 @@ ht-degree: 82%
    >
    >[!DNL Exchange] のバージョンドロップダウンで「自動検出」をオフにした場合は、[!DNL Exchange] の URL を IT 部門に問い合わせる必要があります。
 
-   この接続を使用してメールをトラッキングし、配信チャネルとしてもトラッキングできます。
+   この接続を使用してメールをトラッキングし、配信チャネルとしても利用できます。
 
    >[!NOTE]
    >

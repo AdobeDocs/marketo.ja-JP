@@ -4,16 +4,18 @@ description: Sales Connectの通話録音に関する2つのパーティの同�
 title: 二者間による同意の設定
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/P-X0nE0gNNWSwQj-tErRy9mMKsOBhqB3J0N3268MncI
+TQID: 'https://experienceleague.adobe.com/P-X0nE0gNNWSwQj-tErRy9mMKsOBhqB3J0N3268MncI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 171
+source-wordcount: '171'
 ht-degree: 65%
-
 ---
-
 # 二者間による同意の設定 {#two-party-consent-settings}
 
 通話を録音する際に米国の二者同意法を遵守するため、管理者は録音されたメッセージを録音の開始時に再生できるように設定することができます。
@@ -46,10 +48,10 @@ ht-degree: 65%
 
    ![](assets/five.png)
 
-1. アップロードが完了したら、ファイルマネージャーで、縦並びの 3 つのドットを選択し、「**[!UICONTROL 同意通知として選択]**」をクリックします。 終了したら、「**[!UICONTROL OK]**」をクリックします。
+1. アップロードが完了したら、ファイルマネージャーで、縦並びの 3 つのドットを選択し、「**[!UICONTROL 同意通知として選択]**」をクリックします。 終了したら「**[!UICONTROL OK]**」をクリックします。
 
    ![](assets/six.png)
 
-1. 切替スイッチボタンをクリックして、選択したメッセージを通話録音の最初に再生するようにします。
+1. 切替スイッチをクリックして、選択したメッセージが通話録音の最初に再生されるように有効にします。
 
    ![](assets/seven.png)

@@ -4,18 +4,20 @@ description: Marketoで静的リストを作成する方法を説明します。
 title: 静的リストの作成
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/UdROW8dxInfiSUH8SvY93hN1SQ1SdJXwLqb57l9TIjI
+TQID: 'https://experienceleague.adobe.com/UdROW8dxInfiSUH8SvY93hN1SQ1SdJXwLqb57l9TIjI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: '111'
 ht-degree: 62%
-
 ---
-
 # 静的リストの作成 {#create-a-static-list}
 
 静的リストとは、既にリードデータベースに登録されているリードのグループです。
@@ -36,4 +38,4 @@ ht-degree: 62%
 
    >[!NOTE]
    >
-   >リストにユーザーを好きなだけ追加できますが、そのユーザーは1回だけ表示されます。 リードは、削除するまでリストに残り続けます。
+   >リストにユーザーを好きなだけ追加できますが、そのユーザーは1回だけ表示されます。 人物は、削除するまでリストに残り続けます。

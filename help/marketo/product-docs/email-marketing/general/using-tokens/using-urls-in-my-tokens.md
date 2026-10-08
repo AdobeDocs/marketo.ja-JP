@@ -4,16 +4,18 @@ description: マイトークンでURLを使用する方法を説明します。 
 title: マイトークンでの URL の使用
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-TQID: https://experienceleague.adobe.com/d7nzJcfEeJutTNuo95NXcT1eTQXBdNZJoEq5-BdTxs0
+TQID: 'https://experienceleague.adobe.com/d7nzJcfEeJutTNuo95NXcT1eTQXBdNZJoEq5-BdTxs0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 267
+source-wordcount: '267'
 ht-degree: 90%
-
 ---
-
 # マイトークンでの URL の使用 {#using-urls-in-my-tokens}
 
 以下の手順に従って、[!UICONTROL マイトークン]を使用してメールに URL を挿入します。
@@ -42,7 +44,7 @@ ht-degree: 90%
 
    ![](assets/four-3.png)
 
-1. **[!UICONTROL ドラフトの編集]**&#x200B;をクリックします。
+1. 「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
    ![](assets/five-3.png)
 
@@ -62,7 +64,7 @@ ht-degree: 90%
 
    ![](assets/eight.png)
 
-1. https:// とトークンをハイライト表示し、Ctrl+X（Windows）またはCmd+X（Mac）を押してテキストを切り取ります。
+1. https:// とトークンをハイライト表示し、Ctrl/Cmd+X（Ctrl = Windows／Cmd = Mac）を押してテキストを切り取ります。
 
    ![](assets/nine.png)
 
@@ -78,4 +80,4 @@ ht-degree: 90%
 
    ![](assets/twelve.png)
 
-   これで完了です。 送信後に URL が自動入力されます。https://をトークンの前に置くことで、トラッキング可能なリンクが生成されます。
+   これで完了です。 送信後に URL が自動入力され、https:// をトークンの前に置くことで、トラッキング可能なリンクが生成されます。

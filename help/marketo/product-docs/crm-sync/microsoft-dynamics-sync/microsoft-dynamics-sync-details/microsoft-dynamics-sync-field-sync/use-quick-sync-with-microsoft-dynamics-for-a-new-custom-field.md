@@ -4,18 +4,23 @@ description: 新しいカスタムフィールドを追加する際に、Microso
 title: 新しいカスタムフィールドに対する Microsoft Dynamics とのクイック同期の使用
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/Foo1CpTpWKCvtPTZv7NRuSoCvD18-x5OIABM48-UF6I
+TQID: 'https://experienceleague.adobe.com/Foo1CpTpWKCvtPTZv7NRuSoCvD18-x5OIABM48-UF6I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 356
+source-wordcount: '356'
 ht-degree: 82%
-
 ---
-
 # 新しいカスタムフィールドに対する [!DNL Microsoft Dynamics] とのクイック同期の使用 {#use-quick-sync-with-microsoft-dynamics-for-a-new-custom-field}
 
 マーケティングまたはセールスが新しいフィールドを希望しています。 または、最初のフィールド選択で 1 つ選択し忘れた場合もあります。 または、ニーズが変更された場合も考えられます。 どのような場合でも、クイック同期を使用して特定のフィールドを再同期できます。
@@ -74,9 +79,9 @@ ht-degree: 82%
 
    ![](assets/image2016-8-25-16-3a0-3a3.png)
 
-   フィールドのクイック同期は、2016/8/19～2016/9/16 の間に更新されたレコードにのみ実行されます。
+   フィールドのクイック同期は、2016/8/19～2016/9/19 の間に更新されたレコードにのみ実行されます。
 
-## 非同期フィールドの修正 {#fixing-out-of-sync-fields}
+## 同期が取れていないフィールドの修正 {#fixing-out-of-sync-fields}
 
 [!DNL Dynamics]とMarketo フィールドが同期されていない場合は、すばやく再同期できます。
 

@@ -3,13 +3,17 @@ description: Adobe Admin Consoleで製品管理者を追加または削除する
 title: 製品管理者の追加または削除
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 81%
-
 ---
-
 # 製品管理者の追加または削除 {#add-or-remove-a-product-admin}
 
 >[!NOTE]
@@ -94,4 +98,4 @@ ht-degree: 81%
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 
-そのユーザーに、Marketo Engage に製品管理者として製品にアクセスできなくなったことを知らせるメールが送信されます。
+そのユーザーには、Marketo Engage への製品管理者としてのアクセス権がなくなったことを知らせるメールが送信されます。

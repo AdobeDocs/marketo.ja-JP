@@ -4,23 +4,25 @@ description: Sales Connect Command Centerでの高度な検索について説明
 title: 詳細検索の概要
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/iKvWJgc64doQj-GwRYdlnXU16VPU0qm7aQOp8Iovh4s
+TQID: 'https://experienceleague.adobe.com/iKvWJgc64doQj-GwRYdlnXU16VPU0qm7aQOp8Iovh4s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 420
+source-wordcount: '420'
 ht-degree: 95%
-
 ---
-
 # 詳細検索の概要 {#advanced-search-overview}
 
 詳細検索を利用して、メールを閲覧したりクリックしたり、メールに返信した見込み客をターゲットすることで、最もエンゲージメントの高い見込み客のターゲットリストを作成できます。
 
 ## 詳細検索へのアクセス方法 {#how-to-access-advanced-search}
 
-1. **[!UICONTROL コマンドセンター]**&#x200B;をクリックします。
+1. 「**[!UICONTROL コマンドセンター]**」をクリックします。
 
    ![](assets/one.png)
 
@@ -53,8 +55,8 @@ ht-degree: 95%
 | ドロップダウン | 説明 |
 |---|---|
 | **[!UICONTROL 別のユーザーとして表示]** | [!DNL Sales Connect] インスタンスの特定の送信者でフィルタリングします（このオプションは、管理者のみが利用できます）。 |
-| **[!UICONTROL グループ別]** | 特定の受信者グループでメールをフィルタリングします。 |
-| **[!UICONTROL ユーザー別]** | 特定の受信者でフィルタリングします。 |
+| **[!UICONTROL グループ別]** | 特定の受信者グループでメールをフィルターします。 |
+| **[!UICONTROL ユーザー別]** | 特定の受信者でフィルターします。&#x200B; |
 
 **タイミング**
 
@@ -64,13 +66,13 @@ ht-degree: 95%
 
 **キャンペーン**
 
-キャンペーン参加でメールをフィルタリングします。
+キャンペーンへの参加状況でメールをフィルターします。
 
 ![](assets/campaigns.png)
 
 **ステータス**
 
-選択できるメールステータスは 3 つあります。 選択したステータスに応じて、タイプ／アクティビティのオプションが変わります。
+選択できるメールステータスは 3 つあります。 選択したステータスに応じて、タイプ／アクティビティのオプションが変更されます。
 
 ![](assets/status.png)
 
@@ -78,13 +80,13 @@ ht-degree: 95%
 
 ![](assets/status-sent.png)
 
-送信したメールアクティビティ別にフィルタリングします。 表示／表示なし、クリック／クリックなし、返信／返信なしを選択できます。
+送信したメールアクティビティ別にフィルターします。 表示／表示なし、クリック／クリックなし、返信／返信なしを選択できます。
 
 ***ステータス：保留中***
 
 ![](assets/status-pending.png)
 
-保留中のすべてのメールでフィルタリングします。
+保留中のすべてのメールでフィルターします。
 
 | ステータス | 説明 |
 |---|---|
@@ -96,17 +98,17 @@ ht-degree: 95%
 
 ![](assets/status-undelivered.png)
 
-配信されなかったメールでフィルタリングします。
+配信されなかったメールでフィルターします。
 
 | ステータス | 説明 |
 |---|---|
 | **[!UICONTROL 失敗]** | [!DNL Sales Connect] からのメール送信に失敗した場合（一般的な理由は次のとおりです）。登録解除／ブロック済み取引先責任者に送信されているメール、または動的フィールドへの入力で問題が発生した場合）。 |
-| **[!UICONTROL バウンス]** | メールは、受信者のサーバーによって拒否された場合、バウンス済みとしてマークされます。 [!DNL Sales Connect] サーバー経由で送信されたメールのみがここに表示されます。 |
+| **[!UICONTROL バウンス]** | メールは、受信者のサーバーによって却下された場合、バウンスとしてマークされます。 [!DNL Sales Connect] サーバー経由で送信されたメールのみがここに表示されます。 |
 | **[!UICONTROL スパム]** | 受信者によってメールがスパム（迷惑メールの一般用語）としてマークされた場合。 [!DNL Sales Connect] サーバー経由で送信されたメールのみがここに表示されます。 |
 
 ## 保存済みの検索結果 {#saved-searches}
 
-保存済みの検索を作成する方法を次に示します。
+保存した検索条件を作成する方法は次のとおりです。
 
 1. すべてのフィルターを設定したら、「**[!UICONTROL フィルターに名前を付けて保存]**」をクリックします。
 

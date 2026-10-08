@@ -4,13 +4,19 @@ description: Marketo Engageのプログラムアナライザーを使用して�
 title: プログラムアナライザーを使用したプログラムおよびチャネルの詳細の調査
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 88%
-
 ---
-
 # [!UICONTROL プログラムアナライザー]を使用したプログラムおよびチャネルの詳細の調査 {#explore-program-channel-details-with-the-program-analyzer}
 
 詳細なプログラムおよびチャネル統計は、[!UICONTROL プログラムアナライザー]で確認できます。 また、収益サイクルエクスプローラーで開くこともできます。
@@ -21,7 +27,7 @@ ht-degree: 88%
 
 >[!AVAILABILITY]
 >
->この機能は一部の Marketo エディションに含まれています。 詳細はアカウントマネージャーにお問い合わせください。
+>この機能は、すべての Marketo エディションに含まれているわけではありません。 詳細はアカウントマネージャーにお問い合わせください。
 
 1. 「**[!UICONTROL 分析]**」をクリックします。
 
@@ -49,7 +55,7 @@ ht-degree: 88%
 
    >[!NOTE]
    >
-   >1 つのチャネルをクリックすると、表示が「プログラム別」に切り替わり、そのチャネルのみにフィルタリングされます。 すべてのチャネルに戻るには、**[!UICONTROL 表示]**／**[!UICONTROL チャネル別]**&#x200B;を選択します。
+   >1 つのチャネルをクリックすると、表示がプログラム別に切り替わり、そのチャネルのみにフィルターされます。 すべてのチャネルに戻るには、**[!UICONTROL 表示]**／**[!UICONTROL チャネル別]**&#x200B;を選択します。
 
 1. 収益サイクルエクスプローラーを開いて統計をさらに詳しく調べるには、ポップアップダイアログでその数をクリックします。
 

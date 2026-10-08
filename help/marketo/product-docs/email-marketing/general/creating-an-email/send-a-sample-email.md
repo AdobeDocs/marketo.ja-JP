@@ -4,18 +4,23 @@ description: コンテンツをテストするためにサンプルメールを�
 title: サンプルメールの送信
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/Yvr5y1FFXhWZuE01GsIl0Jcnjhk5SffV2yo2hD156kA
+TQID: 'https://experienceleague.adobe.com/Yvr5y1FFXhWZuE01GsIl0Jcnjhk5SffV2yo2hD156kA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 351
+source-wordcount: '351'
 ht-degree: 90%
-
 ---
-
 # サンプルメールの送信 {#send-a-sample-email}
 
 メールのサンプルを送るのは迅速で簡単です。 動的コンテンツを含むメールを送信するには、「[動的コンテンツを使ったメールをプレビューする](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)」を参照してください。
@@ -31,7 +36,7 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >マイトークンは、メールのプログラムに適した値に解決されます。
+   >マイトークンは、メールのプログラムに適した値に置き換えられます。
 
 1. 配信するメールアドレスを 1 つ以上入力します。 複数のメールアドレスの場合は、コンマで区切ります。 終了したら「**[!UICONTROL 送信]**」をクリックします。
 
@@ -39,7 +44,7 @@ ht-degree: 90%
 
    >[!IMPORTANT]
    >
-   >複数のメールアドレスを入力すると、すべての受信者に表示されます。 最初に入力した受信者がメイン受信者となり、その後に続くメールアドレスは CC 受信者となります。
+   >複数のメールアドレスを入力すると、すべての受信者に表示されます。 最初に入力したメールアドレスがメイン受信者となり、その後に続くメールアドレスは CC 受信者となります。
 
    >[!TIP]
    >
@@ -97,4 +102,4 @@ ht-degree: 90%
    >
    >また、メールの編集モードでセグメントに基づいてサンプルメールを送信することもできます。 **[!UICONTROL メールアクション]**&#x200B;ドロップダウンをクリックし、「**[!UICONTROL サンプルの送信]**」を選択して、セグメントを選択します。
 
-キャンペーンを開始する前にコンテンツのサンプルを確認することは非常に重要です。 実行に移す前に、念には念を入れましょう。
+キャンペーンを開始する前にコンテンツをサンプリングすることは非常に重要です。 実行に移す前に、念には念を入れましょう。

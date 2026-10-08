@@ -1,20 +1,25 @@
 ---
 unique-page-id: 2359798
 description: Marketoでランディングページ CNAMEを追加する方法について説明します。 ランディングページには、複数のカスタムドメインを使用できます。
-title: 付加的なランディングページ CNAME の追加
+title: 追加のランディングページ CNAME の追加
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
+TQID: 'https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 232
+source-wordcount: '232'
 ht-degree: 78%
-
 ---
-
-# 付加的なランディングページ CNAME の追加 {#add-additional-landing-page-cnames}
+# 追加のランディングページ CNAME の追加 {#add-additional-landing-page-cnames}
 
 様々な URL で Marketo のランディングページを指すように、ランディングページの CNAME を追加することができます。 次の手順に従うと、複数のドメインを管理するのに役立ちます。
 

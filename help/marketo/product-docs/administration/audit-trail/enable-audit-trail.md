@@ -4,23 +4,29 @@ description: 役割の監査証跡とログイン履歴を有効にし、管理�
 title: 監査記録の有効化
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-TQID: https://experienceleague.adobe.com/-JXuS64rGSiaTMaiwUfzQWBAekwzj-53w8A2q1oLQWg
+TQID: 'https://experienceleague.adobe.com/-JXuS64rGSiaTMaiwUfzQWBAekwzj-53w8A2q1oLQWg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 244
+source-wordcount: '244'
 ht-degree: 79%
-
 ---
-
 # 監査記録の有効化 {#enable-audit-trail}
 
-監査記録は、すべてのお客様が使用でき、2 つの管理権限で管理されます。
+監査記録は、すべての顧客が使用でき、2 つの管理権限で制御されます。
 
 >[!NOTE]
 >
@@ -42,7 +48,7 @@ ht-degree: 79%
 
    >[!NOTE]
    >
-   >また、新しいロールを作成したり、監査記録アクセス権を付与したりするオプションも表示されます。
+   >ここで新しいロールを作成し、そのロールに監査記録へのアクセス権を付与することもできます。
 
 1. **[!UICONTROL 管理アクセス]**&#x200B;権限を展開します。 必要に応じて、「**[!UICONTROL 監査記録にアクセス]**」と「**[!UICONTROL ログイン履歴にアクセス]**」のいずれかまたは両方を選択します。 「**[!UICONTROL 保存]**」をクリックします。
 
@@ -56,7 +62,7 @@ ht-degree: 79%
    >
    >**[!UICONTROL ログイン履歴にアクセス]**：[ユーザーログイン履歴](/help/marketo/product-docs/administration/audit-trail/user-login-history.md)にアクセスできるようにします。
 
-## 監査記録のロールをユーザーに割り当てる {#assign-audit-trail-role-to-a-user}
+## 監査記録ロールをユーザーに割り当てる {#assign-audit-trail-role-to-a-user}
 
 >[!PREREQUISITES]
 >
@@ -80,7 +86,7 @@ ht-degree: 79%
 
    >[!CAUTION]
    >
-   >ワークスペースを有効にしている場合は、必ずロールのチェックボックスを選択し、ワークスペースをすべて選択してください。 個々のワークスペースの選択を解除すると、監査証跡が非表示になります。 [フィルター](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を適用すると、ワークスペースを非表示にするオプションがあります。
+   >ワークスペースを有効にしている場合は、必ずロールのチェックボックスを選択してください。これにより、すべてのワークスペースが選択されます。 個々のワークスペースの選択を解除すると、監査証跡が非表示になります。 [フィルター](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)を適用すると、ワークスペースを非表示にするオプションがあります。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 

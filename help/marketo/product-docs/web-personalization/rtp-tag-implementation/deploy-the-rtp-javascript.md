@@ -4,23 +4,29 @@ description: rtp javascriptのデプロイを含む、Marketo Engageでのrtp ja
 title: RTP JavaScript をデプロイする
 exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/XUylNa8clUib-aMhpAR8fjeu4pHRA8KSQydSH1AVxF8
+TQID: 'https://experienceleague.adobe.com/XUylNa8clUib-aMhpAR8fjeu4pHRA8KSQydSH1AVxF8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 88%
-
 ---
-
 # RTP JavaScript をデプロイする {#deploy-the-rtp-javascript}
 
 RTP タグを生成して設定するには、以下のインストール手順に従ってください
@@ -35,7 +41,7 @@ RTP タグを生成して設定するには、以下のインストール手順�
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
-1. 「Web パーソナライゼーション（RTP）」タグをコピーして web サイトにペーストします。
+1. Web パーソナライゼーション（RTP）タグをコピーして web サイトにペーストします。
 
    ![](assets/web-personalization-tag.png)
 

@@ -1,36 +1,42 @@
 ---
 description: IAB リストのマッチングと近接パターンを利用して、メールボットのアクティビティをフィルタリングまたは記録し、開封数やクリック数の増加を防止できます。
-title: メールボットアクティビティのフィルター
+title: メールボットアクティビティのフィルタリング​
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho
+TQID: 'https://experienceleague.adobe.com/b7H7jXcwtzD4UHkNkDoRWumbkR35U45VuDayeaWnXho'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 496
+source-wordcount: '496'
 ht-degree: 46%
-
 ---
-
-# メールボットアクティビティのフィルター {#filtering-email-bot-activity}
+# メールボットアクティビティのフィルタリング&#x200B; {#filtering-email-bot-activity}
 
 メールボットアクティビティによって、メールの開封数とクリック数のデータが誤って水増しされる場合があります。 これに対処するには、次の手順に従います。
 
 ボットのアクティビティを確認するには、次の2つの個別の方法を使用します。
 
 * [Interactive Advertising Bureau Bot list](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}と一致：IAB UA/IP （User Agent/IP アドレス）リスト上の任意の項目と一致するアクティビティは、ボットとしてマークされます。
-* 近接性パターンと一致：同時に 2 つ以上のアクティビティが発生した場合（1 秒未満）、それらはボットとして識別されます。 比較時に考慮される属性は以下のとおりです。
-   * リード ID（同じであること）
-   * メールアセット（同じであること）
-   * リンククリックまたはメール開封
-   * 時間差（1 秒未満であること）
+* 近接パターンとの一致：同時に 2 つ以上のアクティビティが発生した場合（1 秒未満）、それらはボットとして識別されます。 比較時に考慮される属性は以下のとおりです。
+  * リード ID（同一であること）
+  * メールアセット（同じであること）
+  * リンククリックまたはメール開封
+  * 時間差（1 秒未満であること）
 
-メールリンクのクリックとメールの開封アクティビティに対して、新しい属性は以下の値で設定されます。
+メールのリンククリックとメールの開封アクティビティに対して、新しい属性は以下の値で設定されます。
 
 * ボットとして識別されたアクティビティは、「ボットアクティビティ」が「True」、「ボットアクティビティパターン」が識別されたパターン／メソッドとして設定されます。
 * ボットでないと識別されたアクティビティは、「ボットアクティビティ」が「False」に、「ボットアクティビティパターン」が「N/A」に設定されます。

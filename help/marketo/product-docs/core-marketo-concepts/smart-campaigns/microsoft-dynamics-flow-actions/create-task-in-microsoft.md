@@ -4,18 +4,23 @@ description: フローステップからMicrosoft Dynamicsでタスクを作成�
 title: Microsoft でのタスクの作成
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/qQL3O4Vi8ncdlXtk2gvraWzquz3oZx5B-1YWTkwdVac
+TQID: 'https://experienceleague.adobe.com/qQL3O4Vi8ncdlXtk2gvraWzquz3oZx5B-1YWTkwdVac'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 86%
-
 ---
-
 # Microsoft でのタスクの作成 {#create-task-in-microsoft}
 
 マーケターは、取引の成立に関して営業を支援できる情報を持っています。 タスクを作成して、タスクの実行内容と実行タイミングを営業に知らせることができます。
@@ -32,9 +37,9 @@ ht-degree: 86%
 
 >[!NOTE]
 >
->Marketo 同期ユーザがタスクを作成する場合、[!DNL Microsoft] でタスクを作成するには「**[!UICONTROL 期限]**」が必須フィールドです。 この値を入力しない場合、Marketo でデフォルトの 5 日が自動入力されます。
+>Marketo 同期ユーザーがタスクを作成する場合、[!DNL Microsoft] でタスクを作成するには「**[!UICONTROL 期限]**」が必須フィールドです。 この値を入力しない場合、Marketo でデフォルトの 5 日が自動入力されます。
 
-すべてのフィールドをカスタマイズして、目的のタスクを作成します。
+すべてのフィールドをカスタマイズして、タスクを望む形に作成します。
 
 ![](assets/create-task-in-microsoft-2.png)
 

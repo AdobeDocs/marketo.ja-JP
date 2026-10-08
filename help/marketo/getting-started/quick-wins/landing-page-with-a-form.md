@@ -4,22 +4,27 @@ description: フォームを含むランディングページ - Marketo ドキ�
 title: フォームを含むランディングページ
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/MBsrEtb2jtCdO2g2GBjyaYjNAa54eq4hxi10isJxHgo
+TQID: 'https://experienceleague.adobe.com/MBsrEtb2jtCdO2g2GBjyaYjNAa54eq4hxi10isJxHgo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 557
+source-wordcount: '557'
 ht-degree: 92%
-
 ---
-
 # フォームを含むランディングページ {#landing-page-with-a-form}
 
 ## ミッション：新しいリードを獲得するためのフォームを含むランディングページを作成する {#mission-create-a-landing-page-with-a-form-to-acquire-new-people}
@@ -30,7 +35,7 @@ ht-degree: 92%
 
 ## 手順 1：プログラムの作成 {#step-create-a-program}
 
-1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
 
    ![](assets/landing-page-with-a-form-1.png)
 
@@ -48,11 +53,11 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >プログラムは、特定のマーケティングイニシアチブの 1 つです。 **チャネル**&#x200B;は、ウェビナー、スポンサーシップ、オンライン広告などの配信メカニズムを意図しています。 独自のインスタンスで使用可能なチャネルに応じて、ドロップダウンに異なるチャネルオプションが表示される場合があります。 [独自のチャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}を作成することもできます。
+   >プログラムは、1 つの特定のマーケティング施策です。 **チャネル**&#x200B;は、ウェビナー、スポンサーシップ、オンライン広告などの配信メカニズムを意図しています。 独自のインスタンスで使用可能なチャネルに応じて、ドロップダウンに異なるチャネルオプションが表示される場合があります。 [独自のチャネル](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}を作成することもできます。
 
-これで完了です。 プログラムを作成したら、次にコンテンツを作成します。
+これで完了です。 プログラムを作成できたので、次はコンテンツを作成しましょう。
 
-## 手順 2：フォームの作成 {#step-create-a-form}
+## STEP 2：フォームの作成 {#step-create-a-form}
 
 1. 選択したプログラムで、**[!UICONTROL 新規作成]**&#x200B;ドロップダウンをクリックし、**[!UICONTROL 新規ローカルアセット]**&#x200B;を選択します。
 
@@ -72,7 +77,7 @@ ht-degree: 92%
 
    >[!TIP]
    >
-   >フォームエディターが表示されない場合 お使いのブラウザーでウィンドウがブロックされている可能性があります。 ブラウザーで `app.marketo.com` からのポップアップを有効にし、上部のメニューバーで「ドラフトを編集」をクリックします。
+   >フォームエディターが表示されませんか？ お使いのブラウザーでウィンドウがブロックされている可能性があります。 ブラウザーで `app.marketo.com` からのポップアップを有効にし、上部のメニューバーで「ドラフトを編集」をクリックします。
 
 1. 「**[!UICONTROL メールアドレス]**」フィールドを選択し、「**[!UICONTROL 必須]**」をオンにします。
 
@@ -100,9 +105,9 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >フォームの入力後に訪問者がリダイレクトされるフォローアップページです。 外部 URL は 1 つのオプションですが、他のオプションもあります。 [フォームのありがとうございましたページの設定](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}を参照してください。
+   >フォローアップページとは、フォームの入力後に訪問者がリダイレクトされるページのことです。 外部 URL は 1 つのオプションですが、他のオプションもあります。 [フォームのありがとうございましたページの設定](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}を参照してください。
 
-1. 「**[!UICONTROL 終了]**」をクリックします。
+1. 「**[!UICONTROL 完了]**」をクリックします。
 
    ![](assets/landing-page-with-a-form-13.png)
 
@@ -110,7 +115,7 @@ ht-degree: 92%
 
    ![](assets/landing-page-with-a-form-14.png)
 
-   これで完了です。 これで、フォームを含むプログラムが作成されました。 次に、ページを作成します。
+   完了です。 これで、フォームを含むプログラムが用意できました。 次に、ページを作成します。
 
 ## 手順 3：ランディングページの作成とフォームの追加 {#step-create-a-landing-page-and-add-your-form}
 
@@ -146,7 +151,7 @@ ht-degree: 92%
 
    ![](assets/landing-page-with-a-form-21.png)
 
-   これで完了です。 フォームを含むランディングページが作成されています。 ページを承認して公開します。
+   完成です。 フォームを含むランディングページが作成されています。 ページを承認して公開します。
 
 ## 手順 4：ランディングページの承認 {#step-approve-your-landing-page}
 
@@ -172,7 +177,7 @@ ht-degree: 92%
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. 「**[!UICONTROL データベース]**」領域に移動します。
+1. **[!UICONTROL データベース]**&#x200B;領域に移動します。
 
    ![](assets/landing-page-with-a-form-26.png)
 
@@ -180,7 +185,7 @@ ht-degree: 92%
 
    ![](assets/landing-page-with-a-form-27.png)
 
-   ありました。 次に、フォームを含む新しいランディングページを作成し、それを使用して新規人物を生成します。
+   ありました。 フォームを含む新しいランディングページを作成し、それを使用して新しい人物レコードを作成しました。
 
    ![](assets/landing-page-with-a-form-28.png)
 

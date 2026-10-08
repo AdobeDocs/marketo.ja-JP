@@ -1,35 +1,58 @@
 ---
-title: "2014"
+title: '2014'
 description: 2014 - Marketo Docs – 製品ドキュメント
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+    internal-label: Default programs
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 3331
+source-wordcount: '3332'
 ht-degree: 93%
-
 ---
-
 
 # 2014
 
@@ -39,9 +62,9 @@ ht-degree: 93%
 
 ## Forms 2.0 {#forms}
 
-注目：Forms 2.0 のドキュメントは、近日公開予定です。
+注目：Forms 2.0 のドキュメントは、近日リリース予定です。
 
-フォーム作成プロセスを制御し、web 開発者の手を煩わせません。 Forms 2.0 は、プログラミングに関する知識を必要とせずに、マーケターが視覚的および機能的に堅牢なフォームを作成できるように設計されています。
+フォーム作成プロセスを自分でコントロールし、web 開発者の負担を軽減しましょう。 Forms 2.0 は、プログラミングに関する知識を必要とせずに、マーケターが視覚的および機能的に堅牢なフォームを作成できるように設計されています。
 
 **フォームのビジュアルをイメージチェンジ：**
 
@@ -51,7 +74,7 @@ ht-degree: 93%
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-ユーザーが米国を「国」として選択した場合にのみ「州」が表示されるようにしますか？ フォーム上の質問に対する回答に基づいて、様々なホワイトペーパーを顧客に提示する場合、 エディターから直接フォームに条件ロジックを作成できます。 [!DNL javascript] は不要です。
+ユーザーが米国を「国」として選択した場合にのみ「州」が表示されるようにしますか？ フォーム上の質問に対する回答に基づいて、様々なホワイトペーパーを顧客に提示してみてはいかがでしょうか。 エディターから直接フォームに条件ロジックを作成できます。 [!DNL javascript] は不要です。
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
@@ -75,7 +98,7 @@ Marketo のランディングページに配置されたフォームから html 
 
 ## （2014年2月） {#february}
 
-2014年2月リリースには、以下の機能が含まれています。 お客様のご契約により、制限やオプションの契約が必要なものがあります。詳しくは、担当の営業にお問い合わせください。 リリース後は、各機能に関するナレッジベースの詳細記事へのリンクを必ず参照してください。
+2014年2月リリースには、以下の機能が含まれています。 ご利用の Marketo エディションで、各機能が利用可能かどうかを確認してください。 リリース後は、各機能に関するナレッジベースの詳細記事へのリンクを必ず参照してください。
 
 ## 勝者条件の[!UICONTROL エンゲージメントスコア] {#engagement-score-as-winning-criteria}
 
@@ -105,9 +128,9 @@ Marketo のランディングページに配置されたフォームから html 
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
-## メールプログラムの詳細分析 {#program-details-in-email-analysis}
+## メール分析におけるプログラムの詳細 {#program-details-in-email-analysis}
 
-プログラム名、チャネル、タグでメール指標をグループ化できるようになりました。 電子メールがプログラムのローカルアセットの場合、プログラム名が「電子メール名」フィールドに追加されます。 新しい「プログラム名」フィールドに、メールを送信したスマートキャンペーンのプログラム名が表示されます。 このプログラム名は、電子メールが別のプログラムのローカルアセットである場合、「電子メール名」フィールドのプログラムとは異なる可能性があります。
+プログラム名、チャネル、タグでメール指標をグループ化できるようになりました。 メールがプログラムのローカルアセットである場合、プログラム名が「メール名」フィールドに追加されます。 新しい「プログラム名」フィールドには、メールを送信したスマートキャンペーンのプログラム名が表示されます。 このプログラム名は、メールが別のプログラムのローカルアセットである場合、「メール名」フィールドのプログラムとは異なる可能性があります。
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 
@@ -129,7 +152,7 @@ Marketo のランディングページに配置されたフォームから html 
 
 ## 2014年3月 {#march}
 
-2014年3月リリースには、次の機能が含まれています。 お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。 リリース後は、各機能に関するナレッジベース記事へのリンクを必ず参照してください。
+2014年3月リリースには、次の機能が含まれています。 ご利用の Marketo エディションで、各機能が利用可能かどうかを確認してください。 リリース後は、各機能に関するナレッジベース記事へのリンクを必ず参照してください。
 
 ## メールプログラムダッシュボードの更新ボタン {#email-program-dashboard-refresh-button}
 
@@ -149,7 +172,7 @@ Marketo のランディングページに配置されたフォームから html 
 
 ![](assets/image2014-9-22-11-3a36-3a13.png)
 
-## 分析のためのプログラムの「包む」および「オペレーショナル」設定 {#inclusive-and-operational-programs-for-analytics}
+## 分析用のインクルーシブプログラムとオペレーショナルプログラム {#inclusive-and-operational-programs-for-analytics}
 
 プログラムチャネルを編集する際に、「Analyticsの動作」オプションを「包含」に設定することで、[!UICONTROL Revenue Explorer]およびAnalyzersに期間費用なしでプログラムを含めることができるようになりました。 また、「運用中」を選択すると、運用プログラムをすべてレポートから除外することもできます。
 
@@ -159,9 +182,9 @@ Marketo のランディングページに配置されたフォームから html 
 
 リード分析のリードコンバージョン指標で、Marketo が連絡先と商談を結び付ける方法を変更できます。 [属性設定は、3 つの選択肢の中から 1 つに変更できます](/help/marketo/product-docs/administration/settings/change-attribution-settings-for-analytics.md)。 この設定を変更しても、Marketo または CRM データは変更されません。単にレポートの実行方法が変更され、いつでも元に戻すことができます。
 
-「明示」設定では、商談内の役割を持つ連絡先は、コンバージョンされたリードとしてのみ扱われます（デフォルトの動作）。 「暗黙」設定では、役割に関係なく、商談のアカウントに関連付けられているすべての連絡先をコンバージョン済みとして扱います。 ハイブリッドは、使用可能な場合、変換された役割を持つ連絡先を処理します。ない場合は、アカウント内のすべての連絡先はコンバージョン済みとして扱われます。
+「明示」設定では、商談内の役割を持つ連絡先は、コンバージョンされたリードとしてのみ扱われます（デフォルトの動作）。 「暗黙」設定では、役割に関係なく、商談のアカウントに関連付けられているすべての連絡先をコンバージョン済みとして扱います。 ハイブリッドでは、ロールを持つ取引先責任者が存在する場合はそれらをコンバージョン済みとして扱い、存在しない場合はアカウント内のすべての取引先責任者をコンバージョン済みとして扱います。
 
-リマインダーとして、この設定はプログラムの属性指標も変更します。
+念のためお伝えすると、この設定はプログラムのアトリビューション指標も変更します。
 
 ![](assets/image2014-9-22-11-3a36-3a51.png)
 
@@ -173,13 +196,13 @@ Marketo のランディングページに配置されたフォームから html 
 
 ## Marketo デベロッパーブログ {#marketo-developer-blog}
 
-[Marketo デベロッパーブログ](https://developers.marketo.com/blog/)は、近年のマーケターの急速に進化するニーズをサポートする、web 開発者やソフトウェアエンジニアを対象としています。 配信登録して、新しい統合オプションや API バージョンの更新、コードサンプルを含む新しいハウツー記事、Marketo プラットフォームへの統合に関するベストプラクティスに関するお知らせをご確認ください。
+[Marketo デベロッパーブログ](https://developers.marketo.com/blog/)は、近年のマーケターの急速に進化するニーズをサポートする、web 開発者やソフトウェアエンジニアを対象としています。 新しい統合オプションや API バージョンの更新、Marketo プラットフォームとの統合に関するコードサンプルやベストプラクティスを含む新しいハウツー記事シリーズのお知らせを配信登録で受け取ることができます。
 
 このシリーズの[最初の記事](https://developers.marketo.com/blog/retrieving-customer-and-prospect-information-from-marketo-using-the-api/)では、API を使用して、Marketo 内に保存されている人々（顧客、連絡先、リード）の情報を効率的に取得する方法について説明します。
 
 ## 2014年5月 {#may}
 
-2014年5月リリースには、次の機能が含まれています。 お客様のご契約により、制限やオプションの契約が必要なものがあります。詳しくは、担当の営業にお問い合わせください。 リリース後は、各機能に関するナレッジベースの詳細記事へのリンクを必ず参照してください。
+2014年5月リリースには、次の機能が含まれています。 ご利用の Marketo エディションで、各機能が利用可能かどうかを確認してください。 リリース後は、各機能に関するナレッジベースの詳細記事へのリンクを必ず参照してください。
 
 ## ワークスペースの削除 {#delete-workspace}
 
@@ -187,7 +210,7 @@ Marketo のランディングページに配置されたフォームから html 
 
 ## 最初のキャストのスケジュール {#schedule-first-cast}
 
-エンゲージメントプログラムでは、[最初のキャストで実行する](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)日付をスケジュールできます。 例えば、2 週間ごとにサイクルを指定し、最初のキャストの日付を選択します。
+エンゲージメントプログラムでは、[最初のキャストで実行する](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)日付をスケジュールできます。 例えば、2 週間ごとの頻度を指定し、最初のキャストの日付を選択します。
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -195,7 +218,7 @@ Marketo のランディングページに配置されたフォームから html 
 
 ## エンゲージメントプログラムの強化機能 {#enhanced-engagement-programs}
 
-すべての人が複数のプログラムやストリーム通信制限を取得できるようになりました.
+すべてのユーザが、複数のプログラム、ストリーム、およびコミュニケーション制限を利用できるようになりました。
 
 ## テキストメールでのリンクトラッキング {#link-tracking-in-text-emails}
 
@@ -207,9 +230,9 @@ Marketo のランディングページに配置されたフォームから html 
 >
 >`[[https://www.marketo.com]]`
 
-デフォルトでは、テキスト版の電子メールではリンクはトラックされません。 リンクをトラッキングリンクに変換するタイミングを示す新しい構文を追加します。 HTML リンクの動作は変わりません。  トラック対象のリンクをメールに追加するには：
+デフォルトでは、テキスト版の電子メールではリンクはトラッキングされません。 リンクをトラッキングリンクに変換するタイミングを示す新しい構文を追加します。 HTML リンクの動作は変わりません。  トラッキングリンクをメールに追加するには：
 
-* **HTML 版：**&#x200B;リンクを挿入するだけです。 デフォルトでトラックされます。
+* **HTML 版：**&#x200B;リンクを挿入するだけです。 デフォルトでトラッキングされます。
 * **テキスト版：** URL を角括弧で囲んで入力します。
 
 トラック対象外のリンクをメールに追加するには：
@@ -221,7 +244,7 @@ Marketo のランディングページに配置されたフォームから html 
 
 ## サンプルメールでのリンクマークアップ {#link-markup-in-sample-emails}
 
-メール内でのリンクの動作を事前に確認します。 サンプルメールに、リードに対して表示されるリンクが正確に表示されるようになりました。 トラッキングリンクに変換されたリンクをプレビューし、受信者に対する実際のメッセージ表示をより詳しく把握できます。
+メール内でのリンクの動作を事前に確認します。 サンプルメールでは、リードにどのように表示されるかとまったく同じ形でリンクが表示されるようになりました。 トラッキングリンクに変換されたリンクをプレビューし、メッセージが実際に受信者にどのように表示されるかをより正確に把握できます。
 
 ## [!UICONTROL キャンペーンの中止] {#abort-campaign}
 
@@ -253,7 +276,7 @@ Marketo のランディングページに配置されたフォームから html 
 
 2014年6月リリースには、次の機能が含まれています。 利用可能な機能についてはお使いの Marketo のエディションをご確認ください。
 
-## UI のアップデート - 近日公開 {#updated-ui-coming-soon}
+## UI のアップデート - 近日リリース予定 {#updated-ui-coming-soon}
 
 [!DNL Marketo Lead Management] のナビゲーションが含まれる新しいルックアンドフィールが、今後のリリースでまもなく利用可能になります。
 
@@ -275,9 +298,9 @@ Marketo のランディングページに配置されたフォームから html 
 
 新しい ReST API を使ってリードをプログラムで作成、読み取り、更新します。 ReST の使用を開始するには、Marketo で[カスタムサービスを作成](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)する必要があります。 次に、[開発者向けサイト](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api)にアクセスし、この API の使用に関する詳細を確認してください。
 
-## Marketo リアルタイムパーソナライズ（RTP）キャンペーンページのアップデート {#marketo-real-time-personalization-rtp-campaigns-page-update}
+## Marketo リアルタイムのパーソナライゼーション（RTP）キャンペーンページのアップデート {#marketo-real-time-personalization-rtp-campaigns-page-update}
 
-RTP キャンペーンには、サムネールビューやキャンペーンパフォーマンスの新しいデザインが含まれています。 さらに、日付やトップパフォーマンスに応じて[キャンペーンを整理](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)できます。
+RTP キャンペーンに、サムネールビューとキャンペーンのパフォーマンスを備えた新しいデザインが追加されました。 さらに、日付やトップパフォーマンスに応じて[キャンペーンを整理](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)できます。
 
 ![](assets/image2014-9-22-13-3a50-3a57.png)
 
@@ -301,7 +324,7 @@ RTP キャンペーンには、サムネールビューやキャンペーンパ�
 
 マーケティングカレンダーのドキュメントは、リリース時に利用できます。
 
-## 新しい外観と機能 {#new-look-and-feel}
+## 新しいルックアンドフィール {#new-look-and-feel}
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
@@ -309,7 +332,7 @@ RTP キャンペーンには、サムネールビューやキャンペーンパ�
 
 ## 日付演算子 {#date-operators}
 
-「[!UICONTROL これより以前の過去]」、「[!UICONTROL 将来]」、「[!UICONTROL これより先の将来]」の[高度なフィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)。 例えば、3 か月後に生年月日があるリードや、6 か月後に期限が切れる契約を検索します。
+「[!UICONTROL これより以前の過去]」、「[!UICONTROL 将来]」、「[!UICONTROL これより先の将来]」の[高度なフィルター](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md)。 例えば、今後 3 か月以内に誕生日を迎えるリードや、6 か月後に期限が切れる契約を検索します。
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -320,7 +343,7 @@ RTP キャンペーンには、サムネールビューやキャンペーンパ�
 イベントとデフォルトプログラムを管理するマーケティングカレンダーに加えて、プログラムに関する新しいスケジュールビューが追加されました。
 
 * すべての日付を一度に再スケジュール
-* 新しい暫定的日付 - 予定の書き込み
+* 新しい暫定日 - とりあえず予定に書き込む
 * カスタムエントリの種類 - ToDo、プレスリリース、任意の項目
 
 ## REST API のリスト操作 {#list-operations-in-the-rest-api}
@@ -330,7 +353,7 @@ ReST のリスト操作に関連する以下の呼び出しを追加しました
 * ID によるリストの取得
 * 複数のリストの取得
 * リストにインポート
-* リストステータスへのインポートの取得
+* リストへの読み込みステータスを取得
 
 ## 高速リストインポート {#fast-list-import}
 
@@ -362,11 +385,11 @@ RTP 設定キャンペーンページに、[既製のテンプレートが含ま
 
 ## RTP：キャンペーンコンテンツエディターの HTML5 サポート {#rtp-html-support-in-campaign-content-editor}
 
-キャンペーンを設定ページのコンテンツ WYSIWYG エディターが、HTML5 との完全な互換性を持つようになりました。 エディター内の「HTML」アイコンをクリックして、HTML5 コードを挿入します。
+キャンペーン設定ページのコンテンツ WYSIWYG エディターが、HTML5 との完全な互換性を持つようになりました。 エディター内の「HTML」アイコンをクリックして、HTML5 コードを挿入します。
 
 ## （2014年8月） {#august}
 
-2014年8月リリースには、次の機能が含まれています。 お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。 リリース後に、機能に関する詳細なドキュメントへのリンクを参照してください。
+2014年8月リリースには、次の機能が含まれています。 機能の利用可否については、お使いの Marketo エディションを確認してください。 リリース後に再度このページにアクセスし、各機能の詳細ドキュメントへのリンクを確認してください。
 
 ## マーケティングカレンダーのライセンス {#marketing-calendar-licenses}
 
@@ -381,20 +404,20 @@ RTP 設定キャンペーンページに、[既製のテンプレートが含ま
 | 権限 | 説明 |
 |---|---|
 | 売上高エクスプローラーにアクセス | RCA を購入した場合は、誰がアクセスできるかを制御できます。 |
-| リストのインポート | リストをリードデータベースにインポートするユーザーを制限します。 |
-| リストのインポート | マーケティングアクティビティのプログラムを使用してリストをインポートするユーザーを制限します。 |
+| リストのインポート | ユーザがリードデータベースにリストの読み込みを行えないように制限します。 |
+| リストのインポート | ユーザがマーケティングアクティビティ内のプログラムを使用してリストの読み込みを行えないように制限します。 |
 | トリガーキャンペーンのアクティブ化 | トリガーキャンペーンをアクティブ化できるユーザーとできないユーザーを制御します。 |
 | バッチキャンペーンのスケジュール | バッチキャンペーンの実行をスケジュールできるユーザーとできないユーザーを制御します。 |
 
 ## [!UICONTROL 管理]からのユーザ＆ロールの書き出し {#export-users-and-roles-from-admin}
 
-Marketo から[ユーザーと役割のリストをエクスポート](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)できるようになりました。 エクスポートに含める「最終ログイン」タイムスタンプを含めることもできます。
+Marketo から[ユーザーと役割のリストをエクスポート](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)できるようになりました。 書き出しに「最終ログイン」のタイムスタンプを含めることもできます。
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
 ## チャネルとタグの削除 {#delete-channels-and-tags}
 
-未使用のチャネルとステータスを削除できるようになりました。 これまでと同様に、現在使用中のものをただ非表示にすることもできます。
+未使用のチャネルとステータスを削除できるようになりました。 これまでと同様に、現在使用中のものは非表示にすることしかできません。
 
 ![](assets/image2014-9-16-12-3a20-3a30.png)
 
@@ -418,11 +441,11 @@ Marketo から[ユーザーと役割のリストをエクスポート](/help/mar
 
 ## モバイルのターゲティング {#mobile-targeting}
 
-コミュニティで質問を受け、機能の実現に至りました。 モバイルユーザーやタブレットユーザー向けに、特定のコールトゥアクションを含めたり、除外したり、設定したりできるようになりました。
+コミュニティで質問を受け、機能の実現に至りました。 モバイルおよびタブレットユーザ向けの特定の CTA を含めたり、除外したり、設定したりできるようになりました。
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## 拡張1:1 セグメント化とターゲティング {#enhanced-segmentation-and-targeting}
+## 一対一のセグメンテーションとターゲティングの強化 {#enhanced-segmentation-and-targeting}
 
 既知の訪問者をターゲティングするために、詳細フィルター演算子を使用できるようになりました。
 
@@ -436,7 +459,7 @@ RTP キャンペーンプレビューリンクを素早く簡単に共有でき�
 
 ## コンテンツレコメンデーションエンジンレポート {#content-recommendation-engine-report}
 
-新しいコンテンツレコメンデーションエンジンレポートが追加され、便利な概要が表示されます。
+新しいコンテンツレコメンデーションエンジンレポートが追加され、概要を簡単に確認できるようになりました。
 
 ![](assets/image2014-9-16-12-3a24-3a42.png)
 
@@ -446,7 +469,7 @@ RTP キャンペーンプレビューリンクを素早く簡単に共有でき�
 
 ## トラッキングの制御 {#tracking-control}
 
-リアルタイムパーソナライゼーションのすべてのトラッキングおよびレポートから特定の IP を除外できるようになりました。
+リアルタイムのパーソナライゼーションのすべてのトラッキングおよびレポートから特定の IP を除外できるようになりました。
 
 ![](assets/image2014-9-16-12-3a24-3a55.png)
 
@@ -454,7 +477,7 @@ RTP キャンペーンプレビューリンクを素早く簡単に共有でき�
 
 利用可能な機能についてはお使いの Marketo のエディションをご確認ください。 ドキュメントはリリース時に提供されます。
 
-## マーケティングカレンダーのプログラムフォーカス {#program-focus-in-marketing-calendar}
+## マーケティングカレンダーにおけるプログラムの焦点 {#program-focus-in-marketing-calendar}
 
 マーケティングカレンダーから直接[エントリーを作成および編集します](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md)。
 
@@ -462,7 +485,7 @@ RTP キャンペーンプレビューリンクを素早く簡単に共有でき�
 
 ## 新規 REST API 呼び出し {#new-rest-api-calls}
 
-API を使用して、リードへの新しいアクティビティや変更を抽出します。
+API を使用して、リードへの新しいアクティビティや変更を取り込みます。
 
 * リードの変更の取得
 * リードアクティビティの取得
@@ -487,7 +510,7 @@ API を使用して、リードへの新しいアクティビティや変更を�
 
 ## [!DNL Microsoft Dynamics] Sync の株主サポート {#shareholder-support-for-microsoft-dynamics-sync}
 
-[!DNL Dynamics] から商談の株主データを同期します。 また、「プライマリアカウント」フィールドを使用してアカウントに接続された商談と、「プライマリ連絡先」同期を使用して連絡を取る商談もサポートされます。
+[!DNL Dynamics] から商談の株主データを同期します。 また、「プライマリアカウント」フィールドを使用してアカウントに接続された商談と、「プライマリ取引先責任者」同期を使用して取引先責任者に接続された商談もサポートされます。
 
 ## RTP - ダッシュボードの機能強化 {#rtp-dashboard-enhancements}
 
@@ -503,7 +526,7 @@ API を使用して、リードへの新しいアクティビティや変更を�
 
 ## RTP - ユーザーコンテキスト API {#rtp-user-context-api}
 
-訪問者の過去の訪問履歴をトラックする新しいコールを使用します。 訪問者の以下の条件に基づいてキャンペーンをパーソナライズします。
+訪問者の過去の訪問履歴を追跡する新しい API 呼び出しを使用します。 訪問者の以下の条件に基づいてキャンペーンをパーソナライズします。
 
 * 過去に閲覧したページ
 * 関心のある製品
@@ -513,7 +536,7 @@ API を使用して、リードへの新しいアクティビティや変更を�
 
 ## 2014年12月 {#december}
 
-2014年12月リリースには、次の機能が含まれています。 利用可能な機能についてはお使いの Marketo のエディションをご確認ください。 リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
+2014年12月のリリースには、次の機能が含まれています。 利用可能な機能についてはお使いの Marketo のエディションをご確認ください。 リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。
 
 ## [!DNL Sales Insight] レポート {#sales-insight-reports}
 
@@ -525,7 +548,7 @@ API を使用して、リードへの新しいアクティビティや変更を�
 
 ## [!DNL Facebook] カスタムオーディエンス {#facebook-custom-audiences}
 
-Marketo 管理者が、[!UICONTROL 管理]／[!UICONTROL Launchpoint][&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) で [!DNL Facebook]  を追加したら、[&#x200B; [!DNL Facebook]  カスタムオーディエンスを Marketo の静的またはスマートリストのリードで簡単に作成、更新、または置き換えることができます](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 静的またはスマートリストのリードグリッドの下部にある新しい [!DNL Facebook] アイコンを探します。
+Marketo 管理者が、[!UICONTROL 管理]／[!UICONTROL Launchpoint]&#x200B;[&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) で [!DNL Facebook]  を追加したら、[&#x200B; [!DNL Facebook]  カスタムオーディエンスを Marketo の静的またはスマートリストのリードで簡単に作成、更新、または置き換えることができます](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 静的またはスマートリストのリードグリッドの下部にある新しい [!DNL Facebook] アイコンを探します。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -549,7 +572,7 @@ UTF-16、Shift-JIS、EUC-JP でエンコードされた[ファイルをインポ
 
 ## メールスクリプティングでのリンクトラッキング {#link-tracking-in-email-scripting}
 
-メールスクリプト内のリンクがトラックされ、メールリンクの効果レポート内で使用できるようになりました。
+メールスクリプト内のリンクはトラッキングされ、「メールリンクパフォーマンスレポート」で確認できるようになりました。
 
 ## トークンエンコーディング設定 {#token-encoding-setting}
 
@@ -581,9 +604,9 @@ UTF-16、Shift-JIS、EUC-JP でエンコードされた[ファイルをインポ
 
 ![](assets/image2014-12-5-11-3a8-3a36.png)
 
-## RTP：アカウントリストモジュール {#rtp-named-account-list-module}
+## RTP：重点アカウントリストモジュール {#rtp-named-account-list-module}
 
-新しい[!UICONTROL 重点顧客]ページで、利益率の高い主要なアカウントを管理およびモニターします。 これらの組織を特定し、ターゲットにするには、アカウントリストをアップロードします。 アカウントベースのマーケティングプランを実装し、様々なチャネル（web および広告）をまたいで主要アカウントをターゲットにする、より高い制御性と柔軟性を提供するプロセスを自動化しました。
+新しい[!UICONTROL 重点顧客]ページで、利益率の高い主要なアカウントを管理およびモニターします。 これらの組織を特定し、ターゲットとするには、新しい重点アカウントリストをアップロードします。 アカウントベースのマーケティングプランを実装し、様々なチャネル（web および広告）にわたって主要アカウントをターゲットにできるよう、そのプロセスを自動化しました。これにより、より高い制御性と柔軟性が得られます。
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 
@@ -591,7 +614,7 @@ UTF-16、Shift-JIS、EUC-JP でエンコードされた[ファイルをインポ
 
 ## RTP：ゾーン内キャンペーンのスライド効果 {#rtp-sliding-effect-for-in-zone-campaigns}
 
-ページ読み込み時にパーソナライズされたコンテンツをスライドして配置できるように、ゾーン内キャンペーンのスライド効果が新たに追加されました。
+ページ読み込み時にパーソナライズされたコンテンツをスライドさせて配置できるように、ゾーン内キャンペーンに新たにスライド効果を追加しました。
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
 

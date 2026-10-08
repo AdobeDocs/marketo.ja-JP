@@ -3,26 +3,36 @@ description: リリースノート - 2025年7月 – Marketo ドキュメント 
 title: リリースノート - 2025年7月
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-TQID: https://experienceleague.adobe.com/wIsDclvCMFe7vmLbXB6gk5P1gL1hq-8IBePO5LJaddc
+TQID: 'https://experienceleague.adobe.com/wIsDclvCMFe7vmLbXB6gk5P1gL1hq-8IBePO5LJaddc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 830
+source-wordcount: '830'
 ht-degree: 93%
-
 ---
-
 # リリースノート：2025年7月 {#release-notes-july-25}
 
 2025年7月リリースに含まれるすべての機能を以下に示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
@@ -35,7 +45,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-次の機能は標準リリースサイクルに従っており、**2025年7月11日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
+次の機能は標準リリースサイクルに従っており、**2025年7月11日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。 リリースされる機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -57,7 +67,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <td><strong>E メールデザイナー - カスタム CSS</strong>：メールをデザインする際に、独自のカスタム CSS を E メールデザイナー内に直接追加できるようになりました。</td>
    <td>リリース</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">メールコンテンツへのカスタム CSS の追加</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/custom-css.md">メールコンテンツにカスタム CSS を追加</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -75,7 +85,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>メールデザイナー - アセットの移動とプログラム削除のサポート</strong>：プログラム間でメールアセットをすばやく再配置します。 また、新しいデザイナーのメールアセットを含むプログラムも削除できるようになりました。</td>
+   <td><strong>メールデザイナー - アセットの移動とプログラム削除のサポート</strong>：プログラム間でメールアセットをすばやく再配置します。 また、新しいデザイナーで作成したメールアセットを含むプログラムも削除できるようになりました。</td>
    <td>リリース</td>
    <td>該当なし</td>
   </tr>
@@ -85,7 +95,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>メールデザイナー - Firefox サポート</strong>：メールデザイナーが Mozilla Firefox で完全にサポートされるようになりました。 最適なエクスペリエンスを得るには、ブラウザーを常に最新の状態に保ちます。</td>
+   <td><strong>メールデザイナー - Firefox サポート</strong>：メールデザイナーが Mozilla Firefox で完全にサポートされるようになりました。 最適なエクスペリエンスを得るには、ブラウザーを常に最新の状態に保ってください。</td>
    <td>リリース</td>
    <td>該当なし</td>
   </tr>
@@ -177,9 +187,9 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **Marketo Engage ID の提供終了**：2025年8月に、Adobe は Marketo Engage ID のサポートの段階的な廃止を開始します（`login.marketo.com` 経由でのログイン）。 Marketo Engage へのアクセスが中断されないようにするには、2025年9月30日（PT）までに [Adobe ID](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} に移行する必要があります。
 
-   * _IP 制限の廃止_：[IP に基づく Marketo ログインの制限](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}のサポートは、2025年7月30日（PT）に終了する予定です。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin Console の Adobe ID 向けの新しい場所ベースのアクセス制御機能は、2025年8月のリリースをターゲットにしています。
+  * _IP 制限の廃止_：[IP に基づく Marketo ログインの制限](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"}のサポートは、2025年7月30日（PT）に終了する予定です。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin Console の Adobe ID 向けの新しい場所ベースのアクセス制御機能は、2025年8月のリリースを予定しています。
 
-   * _シングルサインオン（SSO）の廃止_：[Marketo ID SSO](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} のサポートは 2025年7月30日（PT）に終了する予定です。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin Console の Adobe ID 向けのシングルサインオンは個別に設定する必要があります。 設定手順について詳しくは、[ID とシングルサインオンの設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}を参照してください。
+  * _シングルサインオン（SSO）の廃止_：[Marketo ID SSO](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} のサポートは 2025年7月30日（PT）に終了する予定です。 この機能は、Adobe ID への移行が完了するまで有効です。 Adobe Admin Console の Adobe ID 向けのシングルサインオンは個別に設定する必要があります。 設定手順について詳しくは、[ID とシングルサインオンの設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}を参照してください。
 
 * **Rest API「access_token」パラメーターの廃止**：Marketo REST API 呼び出しの認証に使用される `access_token` クエリパラメーターは非推奨（廃止予定）となり、2026年3月31日（PT）以降は使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 

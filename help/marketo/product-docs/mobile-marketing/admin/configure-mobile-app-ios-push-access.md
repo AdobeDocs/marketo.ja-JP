@@ -4,16 +4,18 @@ description: モバイルアプリのiOS プッシュアクセスを設定する
 title: モバイルアプリ iOS プッシュアクセスの設定
 exl-id: d8c54232-3df2-4e25-ab25-3e72aaf49252
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/XbOc8sgi0wseVh3u5HecT555AZOj1e7PLHvJ4C7-fD0
+TQID: 'https://experienceleague.adobe.com/XbOc8sgi0wseVh3u5HecT555AZOj1e7PLHvJ4C7-fD0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 152
+source-wordcount: '152'
 ht-degree: 75%
-
 ---
-
 # モバイルアプリ iOS プッシュアクセスの設定 {#configure-mobile-app-ios-push-access}
 
 1. 「**[!UICONTROL 管理者]**」をクリックします。
@@ -34,13 +36,13 @@ ht-degree: 75%
 
    >[!NOTE]
    >
-   >モバイルアプリ開発者の&#x200B;**[!UICONTROL 証明書]**&#x200B;と&#x200B;**[!UICONTROL パスワード]**&#x200B;が必要です。 開発者が Apple Developer Member Center にログインし、アプリのプッシュ通知証明書を設定してダウンロード、コンテンツを書き出すと、これらが送られます。 開発者は、書き出しをおこなう際にパスワードを設定します。 **重要**：証明書は、使用している環境（サンドボックスまたは実稼動環境）に適している必要があります。 Marketo 管理者またはモバイルアプリ開発者に確認してください。
+   >モバイルアプリ開発者の&#x200B;**[!UICONTROL 証明書]**&#x200B;と&#x200B;**[!UICONTROL パスワード]**&#x200B;が必要です。 開発者は Apple Developer Member Center にログインし、アプリ用のプッシュ通知証明書を設定してダウンロードし、その内容を書き出すことで、これらを取得します。 開発者は、書き出しをおこなう際にパスワードを設定します。 **重要**：証明書は、使用している環境（サンドボックスまたは実稼動環境）に適している必要があります。 Marketo 管理者またはモバイルアプリ開発者に確認してください。
 
 1. [!UICONTROL 証明書]を選択し、[!UICONTROL パスワード]を入力して、「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-4-22-17-3a19-3a18.png)
 
-よくできました。 Android でもアプリを設定していることを確認します。
+よくできました。 Android でもアプリを設定してください。
 
 >[!MORELIKETHIS]
 >

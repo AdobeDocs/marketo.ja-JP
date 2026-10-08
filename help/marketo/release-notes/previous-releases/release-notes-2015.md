@@ -1,42 +1,72 @@
 ---
-title: "2015"
+title: '2015'
 description: 2015 - Marketo Docs – 製品ドキュメント
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
   - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c18d9e03-ac7d-4811-9c92-3e92ddc70ade
+    internal-label: Mobile experience
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+    internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2874
+source-wordcount: '2874'
 ht-degree: 90%
-
 ---
-
 
 # 2015
 
@@ -48,7 +78,7 @@ ht-degree: 90%
 
 **モバイル対応のランディングページ**
 
-ランディングページエディターから[ランディングページ用のモバイルビューの作成](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)をおこなうことができます。 デバイスに関係なく効果的にメッセージを配信し、コンテンツを調整して、外出先で簡単に使えるようにすることで、エンゲージメントを高めます。 この機能は、リリース後の週を通じて徐々に展開されます。
+ランディングページエディターから[ランディングページ用のモバイルビューの作成](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)をおこなうことができます。 デバイスに関係なく効果的にメッセージを配信し、コンテンツを調整して、外出先で簡単に使えるようにすることで、エンゲージメントを高めます。 この機能は、リリース後の 1 週間を通じて徐々にロールアウトされます。
 
 [&#x200B; – ランディングページのチュートリアル動画 – &#x200B;](https://youtu.be/aPQHlG2X6c0)
 
@@ -64,21 +94,21 @@ ht-degree: 90%
 
 **メールスクリプトのカスタムオブジェクトサポート**
 
-メールスクリプト内でアカウントオブジェクトに関連付けられたカスタムオブジェクトにアクセスできるようになりました
+メールスクリプト内でアカウントオブジェクトに関連付けられたカスタムオブジェクトにアクセスできるようになりました。
 
 ## リアルタイムパーソナライズ {#real-time-personalization}
 
 **Google および[!DNL Facebook]** 向けパーソナライズドリマーケティング
 
-リマーケティングでは、web サイトを訪問した人に広告を表示します。 [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) および [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) でリアルタイムパーソナライゼーションのデータを使用してリマーケティングキャンペーンをパーソナライズできるようになりました。 様々な業界のオーディエンス、アカウントリスト、企業規模、または既知のリードからの任意のデータにリマーケティングします。
+リマーケティングでは、web サイトを訪問した人に広告を表示します。 [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) および [[!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) でリアルタイムパーソナライゼーションのデータを使用してリマーケティングキャンペーンをパーソナライズできるようになりました。 様々な業界のオーディエンス、重点アカウントリスト、会社の規模、既知のリードからのあらゆるデータを基にリマーケティングを行うことができます。
 
-[アカウントリストモジュール](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
+[重点アカウントリストモジュール](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
-重点顧客モジュールの機能強化により、ユーザーの一致率と検証が向上します。 次の追加が含まれます。
+Named Accounts モジュールの機能強化により、ユーザの一致率と検証が向上します。 次の追加が含まれます。
 
-* リードのメールアドレスを使用して指定アカウントリストから組織を照合（RTP のみの顧客も対象）
-* 顧客あたり最大 100,000 件のレコードをサポート
-* 表示およびダウンロードする CSV ファイルテンプレート
+* リードのメールアドレスを使用して、重点アカウントリストから組織を照合できます（RTP のみの顧客も対象）。
+* アカウントあたり最大 10 万件のレコードをサポート
+* 表示およびダウンロードできる CSV ファイルのテンプレート
 
 ![](assets/image2015-1-14-11-3a12-3a16.png)
 
@@ -97,19 +127,19 @@ ht-degree: 90%
 
 ## 2015年2月 {#february}
 
-2015年2月リリースには、次の機能が含まれています。 お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。 リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。 お待たせしました。
+2015年2月リリースには、次の機能が含まれています。 ご利用の Marketo エディションで、各機能が利用可能かどうかを確認してください。 リリース後は、各機能に関する詳細な記事へのリンクを必ずご確認ください。 お待たせしました。
 
 ## マーケティングオートメーションの強化 {#marketing-automation-enhancements}
 
 **[スマートキャンペーンの移動](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/move-a-smart-campaign.md)**
 
-朗報です! ドラッグアンドドロップまたはツリー内の移動機能を使ってプログラムからスマートキャンペーンが移動できるようになりました。
+朗報です! ドラッグ＆ドロップまたはツリー内の移動機能を使って、スマートキャンペーンをプログラム内外に移動できるようになりました。
 
 **[[!DNL Dynamics] 2015（オンライン）](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - サポートされています。
 
 **HTTPS 証明書の変更**
 
-顧客データおよび SaaS サービスの機密性と整合性を保護するため、Marketo は SaaS 業界のベストプラクティスに従い、
+お客様データおよび SaaS サービスの機密性と整合性を保護するため、Marketo は SaaS 業界のベストプラクティスに従います。
 
 次のドメインで、現在使用されているセキュリティプロトコル（SHA-1 および SSL）をより安全なバージョン（SHA-2（SHA-256）および TLS）に置き換えます。
 
@@ -121,7 +151,7 @@ ht-degree: 90%
 
 **セキュリティで保護される[!DNL Munchkin]**
 
-SSL3 のサポートを削除します。 古い web ブラウザーのサポートを維持するために、これまで SSL3 を維持してきましたが、2015 年には、これらのブラウザーからの大量の web トラフィックは見られなくなりました。 サポート終了の影響を受けるのは、[!DNL Munchkin] をセキュアなページで使用した場合のみであり、2 月のリリース以降に徐々に展開される予定です。
+SSL3 のサポートを削除します。 古い web ブラウザーのサポートを維持するために、これまで SSL3 を維持してきましたが、2015年には、これらのブラウザーからの有意な web トラフィックはほとんど見られなくなっています。 サポート終了の影響を受けるのは、[!DNL Munchkin] をセキュアなページで使用した場合のみであり、2 月のリリース以降に徐々に展開される予定です。
 
 ## リアルタイムパーソナライズ機能の強化 {#real-time-personalization-enhancements}
 
@@ -133,7 +163,7 @@ SSL3 のサポートを削除します。 古い web ブラウザーのサポー
 
 **アカウントベースターゲティングへの国と都道府県の追加**
 
-ネームドアカウントリストに国と都道府県が追加できます。 特定のロケーションからのキーアカウントを絞りこめます。
+国と都道府県を重点アカウントリストに追加できるようになりました。 特定のロケーションからのキーアカウントを絞りこめます。
 
 ## 2015年3月 {#march}
 
@@ -159,9 +189,9 @@ SSL3 のサポートを削除します。 古い web ブラウザーのサポー
 
 [!UICONTROL 収益エクスプローラー]のルックアンドフィールが一新され、さらに新たなサンバーストグラフタイプも追加されました。 このアップデートは 4 月頭から 2 週間にわたり展開されます。
 
-## 新しいアセット REST API {#new-asset-rest-apis}
+## 新しいアセット REST API 群 {#new-asset-rest-apis}
 
-[新しいアセット REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/assets/assets)
+[新しいアセット REST API 群](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/assets/assets)
 
 [API による](https://developer.adobe.com/marketo-apis/api/asset/)メールやテンプレート、マイトークン、ファイル、スニペットの作成および編集のサポートを追加しました。
 
@@ -195,13 +225,13 @@ Marketo のリードデータベースにある[リードデータフィール�
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
-また、非公開または共有のレポート組織も使用できるようになりました。 レポートを作成するか[!UICONTROL マイレポート]フォルダーにドラッグして、他のユーザによる表示、編集、削除を禁止します。 [!UICONTROL グループレポート]は、すべてのユーザで共有されます。
+また、非公開レポートと共有レポートの整理方法も使用できるようになりました。 レポートを作成するか[!UICONTROL マイレポート]フォルダーにドラッグして、他のユーザによる表示、編集、削除を禁止します。 [!UICONTROL グループレポート]は、すべてのユーザで共有されます。
 
 ## Marketo モバイルエンゲージメント {#marketo-mobile-engagement}
 
 **Marketo モバイルエンゲージメント**
 
-Marketo モバイルエンゲージメントを使用すれば、魅力的なモバイルエクスペリエンスを簡単に提供できます。 アプリ開発チームに頼ることなく、パーソナライズされた高度にパーソナライズされたキャンペーンを作成し、説得力のあるコンテンツを提供します。 新しいフィルターおよびトリガーを使用すると、プッシュ通知を通じてモバイルチャネルをリッスンし、応答できます。
+Marketo モバイルエンゲージメントを使用すれば、魅力的なモバイルエクスペリエンスを簡単に提供できます。 アプリ開発チームに頼ることなく、高度にパーソナライズされたキャンペーンを作成し、説得力のあるコンテンツを提供できます。 新しいフィルターおよびトリガーを使用すると、プッシュ通知を通じてモバイルチャネルをリッスンし、応答できます。
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
@@ -223,7 +253,7 @@ Marketo モバイルエンゲージメントを使用すれば、魅力的なモ
 
 **RTP - アカウントベースドマーケティング分析**
 
-アカウントリストの新しい効果グラフを使用して、購入サイクルの各段階に基づく主要アカウントリストの効果を即座に表示できます。 グラフは、主要な組織からの訪問のステージを、訪問者数と訪問者のステータスに基づいて、意識から行動に移すまでのあらゆる段階で表示します。
+アカウントリストの新しいパフォーマンスグラフを使用して、購入サイクルの各ステージに基づく主要な重点アカウントリストのパフォーマンスを即座に把握できます。 グラフには、主要な組織からの訪問が、訪問回数と訪問者のステータスに基づき、認知からアクションに至るまでどのステージにあるかが表示されます。
 
 ## 2015年5月 {#may}
 
@@ -233,7 +263,7 @@ Marketo モバイルエンゲージメントを使用すれば、魅力的なモ
 
 [完全レスポンシブランディングページ](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-新しいランディングページ編集モードとテンプレート構文がリリースされます。 アドビの「フリーフォーム」ランディングページエディターとは異なり、新しい「ガイド付き」ランディングページエディターは、完全レスポンシブランディングページを編集するための構造化された編集エクスペリエンスを提供します。
+新しいランディングページ編集モードとテンプレート構文をリリースします。 アドビの「フリーフォーム」ランディングページエディターとは異なり、新しい「ガイド付き」ランディングページエディターは、完全レスポンシブランディングページを編集するための構造化された編集エクスペリエンスを提供します。
 
 ![](assets/image2015-5-15-13-3a33-3a11.png)
 
@@ -241,27 +271,27 @@ Marketo モバイルエンゲージメントを使用すれば、魅力的なモ
 
 [メールプログラムの中止](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
-メールプログラムを開始する前に「送信」を押しましたか？ 新しい「メールプログラムを中止」ボタンを押してストップすることができます。 これは、実行中のメールプログラムを途中で停止するものです。
+メールプログラムを開始する前に「送信」を押しましたか？ 新しい「メールプログラムを中止」ボタンでブレーキをかけることができます。 これは、実行中のメールプログラムを途中で停止するものです。
 
 ## メール配信  {#email-deliverability}
 
-Marketo は、追加されたドメインに対して、自動化された [!DNL SPF] および [!DNL DKIM] チェックを毎週実行します。 通知を確認して、常にこの状態に保ちます。
+Marketo は、追加されたドメインに対して、自動化された [!DNL SPF] および [!DNL DKIM] チェックを毎週実行します。 通知を確認して、常に状況を把握しておきましょう。
 
 ## メールテンプレート動作の変更 {#email-template-behavior-change}
 
 このリリース以降、新しいメールを作成する際に、有効な HTML コメントが許可され、削除されなくなりました。
 
-## RTP：セグメントエディターのドラッグアンドドロップ {#rtp-drag-and-drop-segment-editor}
+## RTP：セグメントエディターのドラッグ＆ドロップ {#rtp-drag-and-drop-segment-editor}
 
 RTP：[セグメントエディターのドラッグアンドドロップ](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 基準をセグメントビルダーにドラッグ&amp;ドロップして値を定義し、リアルタイムのセグメントを作成する準備が整います。
 
-## RTP：予想コンテンツのレコメンデーション {#rtp-predictive-content-recommendations}
+## RTP：予測コンテンツのレコメンデーション {#rtp-predictive-content-recommendations}
 
 [予想コンテンツのレコメンデーション](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
-RTPのマシンラーニング（機械学習）と予測分析アルゴリズムを利用して、適切なコンテンツを的確な見込み顧客にレコメンドできます。 画像とテキストの説明を使用してコンテンツアセットを視覚的に拡張し、複数のコンテンツアセットをレコメンデーションします。
+RTPのマシンラーニング（機械学習）と予測分析アルゴリズムを利用して、適切なコンテンツを的確な見込み顧客にレコメンドできます。 画像とテキストの説明を使用してコンテンツアセットを視覚的に強化し、複数のコンテンツアセットを推奨できるようにします。
 
 ## 2015年6月 {#june}
 
@@ -271,19 +301,19 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 
 [アトリビューションメールレポート](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
-マーケティング活動に提供される価値のパーソナライゼーションと推奨コンテンツを参照します。 [&#x200B; アトリビューションメールレポート &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)には、RTPのパーソナライゼーションと推奨コンテンツキャンペーンから関連付けられた、直接および支援されたリードが表示されます。 RTPの「ユーザー設定とメールレポート」で、アトリビューションメールレポートを追加して、月単位または四半期単位のメールを受信します。
+パーソナライゼーションと推奨コンテンツがマーケティング活動にもたらす価値をご確認ください。 [&#x200B; アトリビューションメールレポート &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)には、RTPのパーソナライゼーションと推奨コンテンツキャンペーンから関連付けられた、直接および支援されたリードが表示されます。 RTPの「ユーザー設定とメールレポート」で、アトリビューションメールレポートを追加して、月単位または四半期単位のメールを受信します。
 
 ## 2015年7月 {#july}
 
 ## [!DNL Marketo Moments] {#marketo-moments}
 
-昼休憩での外出中、メールのスケジュールを変更する必要がある場合 App Store または [!DNL Google Play] から入手できる [!DNL Marketo Moments] アプリを使用すると、iPhone、iPad、Android の携帯電話からメールやイベントキャンペーンのリアルタイムの状況や、今後の予定を確認できます。
+昼休憩で外出中に、メールのスケジュールを変更する必要がありますか？ App Store または [!DNL Google Play] から入手できる [!DNL Marketo Moments] アプリを使用すると、iPhone、iPad、Android の携帯電話からメールやイベントキャンペーンのリアルタイムの状況や、今後の予定を確認できます。
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## リッチテキストエディターのアップデート {#rich-text-editor-update}
 
-合理化されたテキスト書式設定、画像編集、リンク挿入、HTML 編集など、テキストエディターが最新のルックアンドフィールで新しくなりました。 HTML エディターに最小限の検証機能が追加され、コード編集の制限が緩和されました。
+テキストエディターが最新のルックアンドフィールに更新され、合理化されたテキスト書式設定、画像編集、リンク挿入、HTML 編集などが可能になりました。 HTML エディターに最小限の検証機能が追加され、コード編集の制限が緩和されました。
 `<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` このアップデートは、7月のリリースから数日以内に自動的に公開されます。 その後、**[!UICONTROL 管理者]／[!UICONTROL メール]／[!UICONTROL エディター設定を編集]**&#x200B;から、新バージョンと旧バージョンのエディターを切り替えることができます。
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
@@ -298,13 +328,13 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 
 ![](assets/image2015-7-10-9-3a43-3a32.png)
 
-## メール配信シングルサインオン {#email-deliverability-single-sign-on}
+## メール配信品質シングルサインオン {#email-deliverability-single-sign-on}
 
-「メール配信」タイルをクリックすると、ログイン資格情報を入力する必要がなくなります。
+「メール配信品質」タイルをクリックすると、ログイン資格情報を入力する必要がなくなります。
 
 ## キャンペーン優先度の設定 {#campaign-prioritization}
 
-パーソナライズされた RTP キャンペーンをいくつか設定し、一部が他のキャンペーンと重複する可能性があることに気付いた場合は、 先に進み、キャンペーンの RTP を他のキャンペーンよりも優先するように設定します。
+パーソナライズされた RTP キャンペーンをいくつか設定し、一部が他のキャンペーンと重複する可能性があることに気付いた場合は、 キャンペーンごとに RTP の表示優先度を設定し、どのキャンペーンを他より優先して表示するかを指定します。
 
 ![](assets/image2015-7-9-20-3a20-3a58.png)
 
@@ -320,7 +350,7 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 
 ## 2015年秋 {#fall}
 
-2015年秋リリースには、次の機能が含まれています。 お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。
+2015年秋リリースには、次の機能が含まれています。 ご利用の Marketo エディションで、各機能が利用可能かどうかを確認してください。
 
 ## スマートリストの購読 {#subscribe-to-a-smart-list}
 
@@ -332,7 +362,7 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 
 ![](assets/image2015-10-1-17-3a12-3a50.png)
 
-スマートリストでは複数の購読を作成できます。 1 サブスクリプションあたり 100,000 名のリードを含む 100 件のサブスクリプションに制限されています。ワークスペース全体で、Marketo インスタンスごとに 100,000 件のリードが存在します。
+スマートリストでは複数の購読を作成できます。 Marketo の各インスタンスでは、ワークスペース全体を通して、最大 100 件のサブスクリプションを作成でき、各サブスクリプションには最大 10 万件のリードを含めることができます。
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
@@ -385,9 +415,9 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 スマートキャンペーンを通じて送信されたメールに関する統計を、Moments で利用できるようになりました。 このアップグレードの他の機能は次のとおりです。
 
 * スワイプして完了。 ストリームにカードが多すぎる場合は、 スワイプして削除できます。
-* サンプルをプレビュー画面から直接送信します
-* メールプログラムカードへのスマートリストの詳細を追加しました
-* メールプログラムの中止ステータスのサポートを追加しました
+* サンプルをプレビュー画面から直接送信できます
+* メールプログラムカードへのスマートリストの詳細の追加
+* メールプログラムのステータス「中止」のサポートを追加しました
 
 ![](assets/image2015-10-1-13-3a58-3a27.png)
 
@@ -397,16 +427,16 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 
 RTP Content Analyticsは、定期的なweb訪問からweb コンテンツアセットのパフォーマンスを表示し、RTPのコンテンツレコメンデーションエンジンから生成された訪問も表示します。
 
-* どのコンテンツが最も効果が高く、最もリードを増やしているかを確認します
+* どのコンテンツが最も効果が高く、最もリードを増やしているかをご確認ください。
 * RTPの予測コンテンツエンジンでコンテンツを有効にし、適切な訪問者に最適なコンテンツを自動的に推奨できるようにすることで、コンテンツ消費を大幅に向上できます
-* 各コンテンツアセットを詳細に分析し、より詳細な指標、グラフ、効果を確認します
+* 各コンテンツアセットをドリルダウンして、より詳細な指標、グラフ、パフォーマンスをご確認ください。
 
 RTPのAssets ページは、Content Analyticsとコンテンツレコメンデーションに分割されました。
 
 * **コンテンツ分析**：検出されたすべての定義済みの web コンテンツのビューとダイレクトリードを表示し、最も効果の高いコンテンツの分析に役立ちます。
 * **コンテンツの推奨事項：** RTPの推奨コンテンツおよび関連するリード属性からのインプレッションとクリックを表示します。 このページから、[バー](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)および[リッチメディア](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)のコンテンツレコメンデーションを編集して有効にすることもできます。
 
-* これら 2 つのページのすべてのダイレクトリードデータは、今年（2015年）の 1月1日以降、遡及的に更新されています。
+* これら 2 つのページのすべてのダイレクトリードデータは、2015年の年初（1月1日）以降、遡及的に更新されています。
 
 ## RTP - RTP キャンペーンの複製 {#rtp-clone-an-rtp-campaign}
 
@@ -418,7 +448,7 @@ RTP キャンペーンを複製すると、より迅速かつ効率的に、よ�
 
 ## リッチテキストエディターの改善 {#rich-text-editor-improvements}
 
-リッチテキストエディターに対して、いくつかの改善を加えています。 7月に更新されたエディターをリリースした後で素晴らしいフィードバックを受け取り、このアップグレードに対してこれらの変更をおこなうことができました。 今後の数ヶ月間で、さらに多くのことが予定されています。 第4四半期の新機能のリストを次に示します。
+リッチテキストエディターに対して、いくつかの改善を加えています。 7月に更新版エディターをリリースした後、素晴らしいフィードバックをいただき、その内容を今回のアップグレードに反映することができました。 今後の数ヶ月間で、さらに多くのことが予定されています。 第4四半期の新機能のリストを次に示します。
 
 * VML が HTML コード内でサポートされるようになりました。
 
@@ -436,7 +466,7 @@ RTP キャンペーンを複製すると、より迅速かつ効率的に、よ�
 
 * 最大化／最小化ボタンを HTML ソースエディターに追加
 * 既存のテーブルのプロパティが識別され、テーブルのプロパティダイアログに表示
-* ボタンの両方の行をデフォルトで表示
+* 両方のボタン行がデフォルトで表示されるようになりました。
 * エディターは、任意の要素（非推奨または非標準の要素も含む）を受け入れるようになりました。
 
 `<myCustomElement>Hello World!</myCustomElement>`
@@ -462,7 +492,7 @@ RTP キャンペーンを複製すると、より迅速かつ効率的に、よ�
 
 ## セキュリティ機能の変更 {#changes-to-security-features}
 
-* パスワードの試行回数は 5 回に制限されています。 5 回目の試行の後、ユーザはロックされます。
+* パスワードの試行回数は 5 回に制限されています。 5 回目の試行の後、ユーザーはロックされます。
 * 非アクティブなセッションタイムアウトをサブスクリプション用に設定できるようになりました。
 
 ![](assets/image2015-10-1-15-3a54-3a4.png)
@@ -481,5 +511,5 @@ RTP キャンペーンを複製すると、より迅速かつ効率的に、よ�
 
 ## Design Studio のランディングページの URL で検索 {#search-by-url-of-landing-page-in-design-studio}
 
-Design Studio のランディングページグリッドで、ページ URL で検索して、ランディングページを見つけることができるようになりました。 これは書き出しも可能です。
+デザインスタジオのランディングページグリッドで、ランディングページの URL で検索して、ランディングページを見つけることができるようになりました。 これは書き出しも可能です。
 

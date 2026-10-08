@@ -4,16 +4,18 @@ description: 予測コンテンツの「すべてのコンテンツ」ページ�
 title: 新規コンテンツの追加
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/V-Q0zHrqrDtaZg9bbnLzWOonlbfPcjlliCIRSKmieSs
+TQID: 'https://experienceleague.adobe.com/V-Q0zHrqrDtaZg9bbnLzWOonlbfPcjlliCIRSKmieSs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 104
+source-wordcount: '104'
 ht-degree: 69%
-
 ---
-
 # 新規コンテンツの追加 {#add-new-content}
 
 [!UICONTROL すべてのコンテンツ]ページには、コンテンツを手動で簡単に追加できます。

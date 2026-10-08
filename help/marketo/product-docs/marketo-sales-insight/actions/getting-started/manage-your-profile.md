@@ -1,16 +1,17 @@
 ---
 description: Sales Insight Actions プロファイルの管理方法について説明します。 設定で名前、電子メール、署名、通知の環境設定を更新します。
 title: プロファイルの管理
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 83%
-
 ---
-
 # プロファイルの管理 {#manage-your-profile}
 
-マイプロファイルページで、名前、アカウントの言語、ロケール、タイムゾーンの更新およびパスワードを変更できます。
+マイプロファイルページで、名前やアカウントの言語、ロケール、タイムゾーンを更新したり、パスワードを変更したりできます。
 
 ## アカウントの詳細 {#account-details}
 
@@ -20,7 +21,7 @@ ht-degree: 83%
 
    ![](assets/manage-your-profile-1.png)
 
-1. デフォルトでマイプロファイルページが開きます。 名前を更新するには、変更内容を入力し、「**保存**」をクリックします。
+1. マイプロファイルページがデフォルトで開きます。 名前を更新するには、変更内容を入力し、「**保存**」をクリックします。
 
    ![](assets/manage-your-profile-2.png)
 
@@ -32,7 +33,7 @@ ht-degree: 83%
 
 ## 連携 {#your-integrations}
 
-ページの右側の「連携」セクションに、アカウントのすべての接続ステータスが表示されます。
+ページの右側にある「統合」セクションには、アカウントのすべての接続のステータスが表示されます。
 
 ![](assets/manage-your-profile-3.png)
 

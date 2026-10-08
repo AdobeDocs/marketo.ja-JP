@@ -4,16 +4,21 @@ description: Dynamics 2011 オンプレミス用のMarketo ソリューション
 title: 手順 1 / 3 - Marketo ソリューション（2011 オンプレミス版）のインストール
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/KgYgMIHjfI4IpVk0ai98AcoZpOUPvYuHnab6LnCyGWk
+TQID: 'https://experienceleague.adobe.com/KgYgMIHjfI4IpVk0ai98AcoZpOUPvYuHnab6LnCyGWk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 304
+source-wordcount: '304'
 ht-degree: 89%
-
 ---
-
 # 手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール {#step-of-install-the-marketo-solution-on-premises}
 
 [!DNL Microsoft Dynamics] オンプレミスと Marketo を同期する前に、まず [!DNL Dynamics] に Marketo ソリューションをインストールする必要があります。
@@ -42,7 +47,7 @@ ht-degree: 89%
 
    ![](assets/image2015-4-2-11-3a35-3a28.png)
 
-1. 「**[!UICONTROL 読み込み]**」をクリックします。
+1. 「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
@@ -78,7 +83,7 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >「Marketo Lead Management completed with warning」というメッセージが表示される場合があります。 これは十分予期されているものです。
+   >「Marketo リード管理が警告付きで完了しました」というメッセージが表示される場合があります。 これは十分予期されているものです。
 
    ![](assets/image2015-4-2-11-3a44-3a44.png)
 
@@ -96,4 +101,4 @@ ht-degree: 89%
 
 >[!MORELIKETHIS]
 >
->[手順 2／3： [!DNL Dynamics] （2011 オンプレミス）での Marketo 同期ユーザの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+>[手順 2／3： [!DNL Dynamics] （2011 オンプレミス）での Marketo 同期ユーザーの設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)

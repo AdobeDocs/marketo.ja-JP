@@ -3,23 +3,27 @@ description: 継承インスタンス設定のドキュメント化 - Marketo Do
 title: 継承インスタンス設定のドキュメント化
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-TQID: https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI
+TQID: 'https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 299
-ht-degree: 96%
-
+source-wordcount: '301'
+ht-degree: 97%
 ---
-
 # 継承インスタンス：設定のドキュメント化 {#inherited-instance-document-your-setup}
 
-これで、確立されたインスタンスを継承する際に監査する主要な製品領域について理解することができました。次の手順としては、インスタンス設定やテクニカルスタックに関するドキュメントを作成または更新する必要があります。 ドキュメントは、スプレッドシートまたはプロジェクト管理アプリケーションのいずれかを使用して作成できます。どちらの方法で作成しても、ドキュメントは進捗を追跡し、詳細を記録し、インスタンスを構造化して持続可能な状態に維持するための優れたリソースとして役立ちます。
+確立されたインスタンスを継承する際に監査すべき主要な製品領域について理解できたので、次のステップとして、インスタンス設定やテックスタックに関するドキュメントを作成／更新します。 ドキュメントは、スプレッドシートまたはプロジェクト管理アプリケーションのいずれかを使用して作成できます。どちらの方法で作成しても、ドキュメントは進捗を追跡し、詳細を記録し、インスタンスを構造化して持続可能な状態に維持するための優れたリソースとして役立ちます。
 
 ## データ {#data}
 
@@ -31,7 +35,7 @@ ht-degree: 96%
   </tr>
   <tr>
    <td>入力</td>
-   <td><li>どのシステムで Marketo Engage にデータを送り込みますか？</li>
+   <td><li>どのシステムが Marketo Engage にデータをフィードしていますか？</li>
    <li>プログラムやデータベースにデータを読み込んでいますか？ プログラムの場合は、どのプログラムですか？</li>
    <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：システム間でデータ辞書／フィールドマッピングテーブルを作成します。</td>
   </tr>
@@ -62,8 +66,8 @@ ht-degree: 96%
   </tr>
   <tr>
    <td>変更ログ</td>
-    <td><li>インスタンスで行った変更とその理由を記録できる変更ログがありますか？</li>
-    <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：変更ログを作成し、インスタンス設定に加えた変更を記録します。</td>
+    <td><li>インスタンスで何が、なぜ変更されているのかをドキュメント化できる変更ログはありますか？</li>
+    <p><img src="assets/action-item-icon.png" alt="アクション項目アイコン">アクション項目：変更ログを作成し、インスタンス設定に加えた変更をドキュメント化します。</td>
   </tr>
   <tr>
    <td>プレイブック</td>

@@ -1,19 +1,21 @@
 ---
 unique-page-id: 10096712
 description: ON24でウェビナーイベントを作成し、Marketoで使用する方法を説明します。 Marketoと同期する前に、ON24でイベントを設定します。
-title: ON24 でのウェビナーイベントの作成
+title: ON24 でのウェビナーイベントの作成​
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
-TQID: https://experienceleague.adobe.com/AL7P-rJ2xl3x5FQh04FYTy8vY9IvVo-8gTOVpA0PXL0
+TQID: 'https://experienceleague.adobe.com/AL7P-rJ2xl3x5FQh04FYTy8vY9IvVo-8gTOVpA0PXL0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 183
+source-wordcount: '183'
 ht-degree: 87%
-
 ---
-
 # ON24 でのウェビナーイベントの作成 {#create-your-webinar-event-in-on}
 
 ON24 でウェビナーを作成した後、Marketo イベントを作成して ON24 ウェビナーに関連付けることができます。 これにより、システムは登録情報と出席情報を共有できます。 URL とその他の情報をメモして、確認用のメールと ICS ファイルで使用します。
@@ -22,13 +24,13 @@ ON24 ウェビナーの作成には、Marketo で使用される設定と、ON24
 
 **タイトルと説明**
 
-* イベントのタイトル - ウェビナーの名前。 これは Marketo で表示できます。
+* イベントタイトル - ウェビナーの名称。 これは Marketo で表示できます。
 * イベントの概要（オプション） - ウェビナーの説明。 これは Marketo で表示できます。
 
 **日時**
 
 * ライブイベント開始 - 開始日時。 これは Marketo で表示できます。
-* ライブ終了時間 - 終了日時。 これは Marketo で表示できます。
+* ライブ終了時間 - 終了日付と時刻。 これは Marketo で表示できます。
 
 次の手順は、[Marketo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md){target="_blank"} でイベントを作成することです。
 

@@ -4,16 +4,21 @@ description: Salesforce EnterpriseまたはUnlimited エディションにMarket
 title: 手順 1／3 - Marketo フィールドの Salesforce への追加（Enterprise／Unlimited）
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I
+TQID: 'https://experienceleague.adobe.com/YYHZHerCNZ2xlShIBOz07jphJ15S5dGclIMMtb2HD0I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 764
+source-wordcount: '764'
 ht-degree: 91%
-
 ---
-
 # 手順 1／3：Marketo フィールドの [!DNL Salesforce] への追加（Enterprise／Unlimited） {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -30,7 +35,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 ## Marketo フィールドを [!DNL Salesforce] に追加 {#add-marketo-fields-to-salesforce}
 
-上記の [!DNL Salesforce] 内のリードおよび取引先責任者オブジェクトに 3 つのカスタムフィールドを追加します。 さらに追加する場合は、この節の最後にある使用可能フィールドのテーブルを参照してください。
+上記の [!DNL Salesforce] 内のリードおよび取引先責任者オブジェクトに 3 つのカスタムフィールドを追加します。 さらに追加する場合は、このセクションの最後にある使用可能フィールドのテーブルを参照してください。
 
 3 つのカスタムフィールドのそれぞれに対して、次の手順を実行して追加します。 「スコア」から始めます。
 
@@ -46,7 +51,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. 適切なフィールドタイプを選択します（スコア - 数値、新規顧客獲得プログラム - テキスト、獲得日 - 日時）。
+1. 適切なフィールドタイプを選択します（スコア - 数値、新規顧客獲得プログラム - テキスト、取得日 - 日時）。
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -117,10 +122,10 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    * すべての役割を&#x200B;**[!UICONTROL 表示]**&#x200B;および&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;に設定します。
 
-   * 同期ユーザのプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
+   * 同期ユーザーのプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
 
-      * 同期ユーザーとして&#x200B;_システム管理者_&#x200B;のプロファイルを持つユーザーがいる場合は、システム管理者プロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします（以下を参照）。
-      * 同期ユーザーに&#x200B;_カスタムプロファイル_&#x200B;を作成した場合は、のカスタムプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
+     * 同期ユーザーとして&#x200B;_システム管理者_&#x200B;のプロファイルを持つユーザーがいる場合は、システム管理者プロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします（以下を参照）。
+     * 同期ユーザーに&#x200B;_カスタムプロファイル_&#x200B;を作成した場合は、のカスタムプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -243,7 +248,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 >
 >Marketo によって自動的に割り当てられたフィールドの値は、新しいフィールドが作成されたときに [!DNL Salesforce] ですぐに使用できるわけではありません。 Marketo は、次のアップデート時にいずれかのシステム上のレコードに対して [!DNL Salesforce] とデータを同期します（つまり、Marketo と [!DNL Salesforce] の間で同期されているフィールドのアップデート）。
 
-## コンバージョン用のカスタムフィールドのマッピング {#map-custom-fields-for-conversions}
+## コンバージョン用カスタムフィールドのマッピング {#map-custom-fields-for-conversions}
 
 コンバージョンが発生した際にデータが引き継がれるように、[!DNL Salesforce] 内のリードオブジェクトのカスタムフィールドを取引先責任者オブジェクトの取引先責任者フィールドにマッピングする必要があります。
 
@@ -263,7 +268,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
    ![](assets/image2016-5-26-16-3a49-3a53.png)
 
-1. 対応する連絡先カスタムフィールドを選択します。
+1. 対応する取引先責任者のカスタムフィールドを選択します。
 
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
@@ -274,4 +279,4 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
 
 >[!MORELIKETHIS]
 >
->[手順 2／3：Marketo 用の  [!DNL Salesforce]  ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>[手順 2／3：Marketo 用の  [!DNL Salesforce]  ユーザーの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)

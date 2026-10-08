@@ -1,24 +1,29 @@
 ---
 unique-page-id: 11378816
 description: フローアクション、スマートキャンペーンのフローステップ、リストの読み込みを使用して、ユーザーを名前付きアカウントに追加する方法を説明します。
-title: 重点顧客にリードを追加する
+title: 重点アカウントへの人物のを追加
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/ULcIzU4HwBSuZaPemgtYhWZTjv5tzMqmKtzcY70qx74
+TQID: 'https://experienceleague.adobe.com/ULcIzU4HwBSuZaPemgtYhWZTjv5tzMqmKtzcY70qx74'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 200
+source-wordcount: '200'
 ht-degree: 80%
-
 ---
-
 # [!UICONTROL 重点顧客]にリードを追加 {#add-people-to-a-named-account}
 
-TAM で重点顧客に手動でリードを追加する方法は 3 つあります。
+TAM で重点アカウントに人物を手動で追加する方法は 3 つあります。
 
 ## シングルフローアクション {#single-flow-action}
 

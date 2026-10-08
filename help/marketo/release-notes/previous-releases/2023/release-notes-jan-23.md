@@ -3,24 +3,34 @@ description: リリースノート - 2023年1月 - Marketo ドキュメント - 
 title: リリースノート - 2023年1月
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-TQID: https://experienceleague.adobe.com/fB2DSNQ-lP-D8y9ISOy-TCHaJ2BiwQtqcKoTNv8t-Mk
+TQID: 'https://experienceleague.adobe.com/fB2DSNQ-lP-D8y9ISOy-TCHaJ2BiwQtqcKoTNv8t-Mk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 663
+source-wordcount: '663'
 ht-degree: 95%
-
 ---
-
 # リリースノート：2023年1月 {#release-notes-jan-23}
 
 以下に、2023年1月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
@@ -31,7 +41,7 @@ ht-degree: 95%
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、リリースは **2023年1月20日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、以下を確認してください。
+以下の機能は標準リリースサイクルに該当し、リリースは **2023年1月20日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースされる機能と日付は変更される場合があります。 各機能のステータスについては、以下を確認してください。
 
 ### Marketo Engage の最新 UX {#modern-ux}
 
@@ -55,7 +65,7 @@ ht-degree: 95%
 
 </table>
 
-* **メールテンプレートの詳細とスニペットの詳細に対するコンポーネントでの使用の拡張**：新しい「UI で使用」タブには、最終変更日や変更者など、各使用者アセットに関する追加情報が表示されます。 検索、並べ替え、フィルタリング機能を使用すると、簡単に分析を実行できます。 この新しい UI コンポーネントは、メールテンプレートとスニペットアセットから取り込まれます。
+* **メールテンプレートの詳細とスニペットの詳細に対するコンポーネントでの使用の拡張**：新しい「UI で使用」タブには、最終変更日や変更者など、各使用者アセットに関する追加情報が表示されます。 検索、並べ替え、フィルタリング機能を使用すると、簡単に分析を実行できます。 この新しい UI コンポーネントは、まずメールテンプレートアセットとスニペットアセットから適用されます。
 
 <table>
   <tr>
@@ -118,7 +128,7 @@ ht-degree: 95%
   </tr>
   <tr>
    <td>リリース</td>
-   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Bulk Export API 情報</a></td>
+   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">一括書き出し API 情報</a></td>
   </tr>
   </tbody>
 </table>

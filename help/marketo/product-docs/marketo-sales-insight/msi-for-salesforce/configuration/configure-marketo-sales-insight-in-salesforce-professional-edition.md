@@ -4,21 +4,25 @@ description: Salesforce Professional Edition での Marketo セールスイン�
 title: Salesforce Professional Edition での Marketo セールスインサイトの設定
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/ixHyQT01yLz6LIoEG5L0wm9WKUSOgShHmXZUCI-R4Pw
+TQID: 'https://experienceleague.adobe.com/ixHyQT01yLz6LIoEG5L0wm9WKUSOgShHmXZUCI-R4Pw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 810
+source-wordcount: '810'
 ht-degree: 95%
-
 ---
-
 # [!DNL Salesforce] Professional Edition での [!DNL Marketo Sales Insight] の設定 {#configure-marketo-sales-insight-in-salesforce-professional-edition}
 
 次の手順を実行して、Salesforce Professional Edition で Marketo セールスインサイトを設定します。
@@ -51,7 +55,7 @@ ht-degree: 95%
 
    >[!NOTE]
    >
-   >API 秘密鍵は組織のパスワードと同じです。安全に保管してください。
+   >API 秘密鍵は、組織のパスワードのようなものです。安全に保管してください。
 
 1. 資格情報を入力するには、_[!UICONTROL Rest API 設定]_&#x200B;パネルで「**[!UICONTROL 表示]**」をクリックします。
 
@@ -91,7 +95,7 @@ ht-degree: 95%
 >
 >MSIの全機能を使用するには、標準のSalesforce ライセンスが必要です。 Salesforce Platform ライセンス（制限付きライセンスクラス）を持つユーザーには、特定のアクションの実行や一部のタブへのアクセスに関するエラーが表示される場合があります。
 
-Salesforce のセキュリティ強化により、AppExchange パッケージは標準オブジェクトに権限を付与できなくなり、Salesforce ユーザのプロファイルから関連する Salesforce オブジェクトにアクセス権を付与する必要があります。 次の手順に従って、必要な権限を付与します。
+Salesforce のセキュリティ強化により、AppExchange パッケージは標準オブジェクトに権限を付与できなくなりました。そのため、関連する Salesforce オブジェクトへのアクセス権は、Salesforce ユーザのプロファイルから付与する必要があります。 次の手順に従って、必要な権限を付与します。
 
 1. 「**[!UICONTROL 設定]**」をクリックします。
 
@@ -167,9 +171,9 @@ Salesforce のセキュリティ強化により、AppExchange パッケージは
 
 1. 手順 8〜10 を繰り返して、**[!UICONTROL 取引先責任者]**&#x200B;にセールスインサイトのフィールドを追加します。 変更したら必ず保存します。
 
-## カスタムユーザフィールドのマッピング {#map-custom-person-fields}
+## カスタム人物フィールドのマッピング {#map-custom-person-fields}
 
-コンバージョンの際にデータが失われないように、Marketo のユーザフィールドを Salesforce の取引先責任者フィールドにマッピングする必要があります。 次の手順に従って、マッピングします。
+コンバージョンが正しく機能するように、Marketo の人物フィールドを Salesforce の取引先責任者フィールドにマッピングする必要があります。 次の手順に従って、マッピングします。
 
 1. 「**[!UICONTROL 設定]**」をクリックします。
 
@@ -219,7 +223,7 @@ Salesforce のセキュリティ強化により、AppExchange パッケージは
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-27.png)
 
-「Marketo セールスインサイト」フィールドで、リード、取引先責任者、アカウント、商談の詳細を確認できます。
+Marketo セールスインサイトのフィールドが、リード、取引先責任者、取引先、商談に対して表示されていることを確認します。
 
 >[!NOTE]
 >
@@ -227,7 +231,7 @@ Salesforce のセキュリティ強化により、AppExchange パッケージは
 
 >[!NOTE]
 >
->アカウントの場合、セールスインサイトにはすべてのメールが含まれますが、最新の注目のアクション、web アクティビティ、スコアの変更のみが含まれます。
+>アカウントの場合、セールスインサイトにはすべてのメールが含まれますが、最新の注目のアクション、web アクティビティ、およびスコアの変更のみが含まれます。
 
 >[!MORELIKETHIS]
 >

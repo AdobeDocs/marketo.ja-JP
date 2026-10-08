@@ -4,27 +4,30 @@ description: webにターゲット URLを追加するなど、Marketo Engageでw
 title: Web キャンペーンへのターゲット URL の追加
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/IrYPeEwQnyczC1KUGtKvKfmQ-gKTOqCIEVtZr9usCgk
+TQID: 'https://experienceleague.adobe.com/IrYPeEwQnyczC1KUGtKvKfmQ-gKTOqCIEVtZr9usCgk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 282
+source-wordcount: '282'
 ht-degree: 89%
-
 ---
-
 # Web キャンペーンへのターゲット URL の追加 {#adding-a-target-url-to-a-web-campaign}
 
-ターゲット URL はキャンペーンを設定ページの下に配置され、web キャンペーンを表示する特定の URL を 1 つ以上定義します。
+ターゲット URL は、キャンペーン設定ページ内にあり、web キャンペーンを表示する特定の URL（複数可）を定義します。
 
 ## ダイアログまたはウィジェット web キャンペーン用のターゲット URL の追加 {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
+1. 「**[!UICONTROL Web キャンペーン]**」に移動します。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
@@ -64,12 +67,12 @@ ht-degree: 89%
 >[!NOTE]
 >
 >* ダイアログおよびウィジェット web キャンペーンでは任意のページとワイルドカード（&#42;）オプションを使用できます。
->* 高度な使用例では、ゾーン内 web キャンペーンで URL パスの終わりにワイルドカードを使用できます。 例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+>* 高度なユースケースでは、In Zone web キャンペーンで URL パスの末尾にワイルドカードを使用できます。 例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 >* URL では大文字と小文字が区別されます
 
-## ゾーン内 web キャンペーン用のターゲット URL の追加 {#adding-a-target-url-for-in-zone-web-campaigns}
+## In Zone web キャンペーン用のターゲット URL の追加 {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
+1. 「**[!UICONTROL Web キャンペーン]**」に移動します。
 
    ![](assets/web-campaigns-hand-5.jpg)
 
@@ -81,7 +84,7 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >ゾーン内のターゲット URL は、特定の URL を 1 つ以上定義する必要があります。 高度な使用例では、ゾーン内 web キャンペーンで URL パスの終わりにワイルドカードを使用できます。 例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
+   >ゾーン内のターゲット URL は、特定の URL を 1 つ以上定義する必要があります。 高度なユースケースでは、In Zone web キャンペーンで URL パスの末尾にワイルドカードを使用できます。 例：[www.marketo.com/software/personalization/*](https://www.marketo.com/software/web-personalization/)
 
    ![](assets/set-web-campaign-multiple-hands.jpg)
 

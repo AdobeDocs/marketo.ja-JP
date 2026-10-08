@@ -4,25 +4,32 @@ description: 人物のリストのインポート - Marketo ドキュメント -
 title: 人物のリストのインポート
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/5iRoY4XVNB608Y3SxMYrALr4bhHGUl8zOk0gUtAdamc
+TQID: 'https://experienceleague.adobe.com/5iRoY4XVNB608Y3SxMYrALr4bhHGUl8zOk0gUtAdamc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 589
+source-wordcount: '589'
 ht-degree: 95%
-
 ---
-
 # 人物のリストのインポート {#import-a-list-of-people}
 
 ## ミッション：トレードショーの出席者のスプレッドシートリストをデータベースに読み込む {#mission-import-a-spreadsheet-list-of-trade-show-attendees-into-your-database}
@@ -33,7 +40,7 @@ ht-degree: 95%
 
 このチュートリアルでは、スプレッドシートファイルから Marketo に人物を読み込む方法を学びます。
 
-## 手順 1：スプレッドシートをダウンロード／編集する {#step-download-and-edit-a-spreadsheet}
+## 手順 1：スプレッドシートをダウンロードして編集する {#step-download-and-edit-a-spreadsheet}
 
 1. まず、練習用のスプレッドシートファイル（[**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}）を PC にダウンロードしてください。
 
@@ -61,7 +68,7 @@ ht-degree: 95%
 
 ## 手順 2：プログラムを作成する {#step-create-a-program}
 
-1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
 
    ![](assets/import-a-list-of-people-3.png)
 
@@ -79,7 +86,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->イベントプログラムは特定の日に発生します。 [**イベント**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}&#x200B;の詳細をご覧ください。
+>イベントプログラムは特定の日付に実施されます。 [**イベント**](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md){target="_blank"}&#x200B;の詳細をご覧ください。
 
 ## 手順 3：スプレッドシートを Marketo に読み込む {#step-import-your-spreadsheet-into-marketo}
 
@@ -125,7 +132,7 @@ ht-degree: 95%
 
    >[!TIP]
    >
-   >最適な自動マッピング結果を得るには、列ヘッダーは、常にフィールドと完全に一致する（大文字と小文字を区別）必要があります。 カスタムフィールドを使用していて、ドロップダウンに表示されない場合は、戻って[作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}し、オプションにすることができます。
+   >最適な自動マッピング結果を得るには、列ヘッダーを常にフィールドと完全に一致させる必要があります（大文字と小文字を区別）。 カスタムフィールドを使用していて、ドロップダウンに表示されない場合は、戻って[作成](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}し、オプションにすることができます。
 
    >[!NOTE]
    >
@@ -135,7 +142,7 @@ ht-degree: 95%
 
    ![](assets/import-a-list-of-people-13.png)
 
-1. ユーザーが読み込むのを待ってから、読み込みの進行状況ポップアップを閉じます。
+1. 人物の読み込みが完了するのを待ってから、読み込みの進行状況ポップアップをクローズします。
 
    ![](assets/import-a-list-of-people-14.png)
 

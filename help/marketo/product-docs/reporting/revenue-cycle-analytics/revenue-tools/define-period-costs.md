@@ -4,20 +4,26 @@ description: Marketo Engageで期間原価を定義する方法については�
 title: 期間原価の定義
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 85%
-
 ---
-
 # 期間原価の定義 {#define-period-costs}
 
 >[!NOTE]
 >
 >**定義**
 >
->期間原価は、プログラムに費やした金額です。 月額の場合も複数月にわたる費用の場合もあり、ROI のレポートに使用されます。
+>期間コストは、プログラムに費やした金額です。 月額の場合も複数月にわたる費用の場合もあり、ROI のレポートに使用されます。
 
 リードのコストを取るタイミングと場所を定義することで、プログラムまたはイベントのリード育成とリード獲得のコストを追跡し、関連付けます。
 
@@ -57,7 +63,7 @@ ht-degree: 85%
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
-1. 必要に応じて期間原価を編集
+1. 必要に応じて期間コストを編集します。
 
    ![](assets/image2015-4-24-16-3a27-3a38.png)
 

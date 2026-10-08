@@ -4,41 +4,48 @@ description: EnterpriseまたはUnlimitedの最後の手順で、MarketoとSales
 title: 手順 3 / 3 - Marketo と Salesforce の接続（Enterprise／Unlimited）
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/BFbrbrL2sDChNgsmSJsTf8gIHb94dz8zg0j01eKqcuw
+TQID: 'https://experienceleague.adobe.com/BFbrbrL2sDChNgsmSJsTf8gIHb94dz8zg0j01eKqcuw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 463
+source-wordcount: '463'
 ht-degree: 71%
-
 ---
-
 # 手順 3 / 3：Marketo と [!DNL Salesforce] の接続（Enterprise／Unlimited） {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
 この記事では、設定済みの [!DNL Salesforce] インスタンスと同期するように Marketo を設定します。
 
 >[!PREREQUISITES]
 >
->* [手順 1 / 3：Marketo フィールドの  [!DNL Salesforce]  への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [手順 2 / 3：Marketo の  [!DNL Salesforce]  ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [手順 1／3：Marketo フィールドの  [!DNL Salesforce]  への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
+>* [手順 2／3：Marketo 用の  [!DNL Salesforce]  ユーザーの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 
 ## 同期ユーザーセキュリティトークンの取得 {#retrieve-sync-user-security-token}
 
 >[!TIP]
 >
->既にセキュリティトークンを持っている場合は、直接「同期ユーザー資格情報の設定」に進んで、準備を完了させます。
+>セキュリティトークンを既に取得済みの場合は、「同期ユーザー資格情報の設定」に直接進んでください。事前準備ができているのは素晴らしいことです。
 
-1. Marketo 同期ユーザで [!DNL Salesforce] にログインし、同期ユーザの名前をクリックしてから、「**[!UICONTROL マイ設定]**」をクリックします。
+1. Marketo 同期ユーザーで [!DNL Salesforce] にログインし、同期ユーザーの名前をクリックしてから、「**[!UICONTROL マイ設定]**」をクリックします。
 
    ![](assets/image2015-6-12-9-3a12-3a47.png)
 
-1. クイック検索で、&quot;reset&quot; と入力して、**[!UICONTROL Reset My Security Token]** をクリックします。
+1. クイック検索で、「reset」と入力して、**[!UICONTROL Reset My Security Token]** をクリックします。
 
    ![](assets/image2015-6-12-9-3a13-3a39.png)
 
@@ -113,6 +120,6 @@ Marketoの最も強力な機能の1つを設定しました。
 >[!MORELIKETHIS]
 >
 >* [手順 1 / 3：Marketo フィールドの  [!DNL Salesforce]  への追加（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-1-of-3-add-marketo-fields-to-salesforce-enterprise-unlimited.md)
->* [手順 2 / 3：Marketo の  [!DNL Salesforce]  ユーザの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
+>* [手順 2／3：Marketo 用の  [!DNL Salesforce]  ユーザーの作成（Enterprise／Unlimited）](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)
 >* [&#x200B; [!DNL Salesforce] AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) での Marketo セールスインサイトパッケージのインストール
 >* [&#x200B; [!DNL Salesforce]  Enterprise／Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md) での Marketo セールスインサイトの設定

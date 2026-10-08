@@ -4,23 +4,25 @@ description: セールスコネクトで配信チャネルを把握。 メール
 title: 配信チャネルの概要
 exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA
+TQID: 'https://experienceleague.adobe.com/LGZU-d2-ROfNUSyzeMY8L4qB22rqqU8r2Hq3h1dXbvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 570
-ht-degree: 92%
-
+source-wordcount: '571'
+ht-degree: 88%
 ---
-
 # 配信チャネルの概要 {#delivery-channel-overview}
 
 Marketo [!DNL Sales Connect] には、メールを配信する複数のオプションが用意されています。 この記事では、活用できる配信チャネル、それらの選択方法、そのチャネルを選択するタイミングを確認します。
 
 ## 推奨：メール接続を介した Gmail または [!DNL Exchange] {#recommended-gmail-or-exchange-via-email-connection}
 
-[!DNL Sales Connect] を使用すると、メール接続サービスを通じて、合理的な設定および強化された配信品質を実現できます。 [!UICONTROL メール接続]では、各ユーザの [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) または [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) アカウントを [!DNL Sales Connect] に接続し、すべての [!DNL Sales Connect] メールの配信チャネルとして利用できます。
+[!DNL Sales Connect] を使用すると、メール接続サービスを通じて、合理的な設定および強化された配信品質を実現できます。 [!UICONTROL メール接続]では、各ユーザーの [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) または [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) アカウントを [!DNL Sales Connect] に接続し、すべての [!DNL Sales Connect] メールの配信チャネルとして利用できます。
 
 Gmail または [!DNL Exchange] の利用には、他の配信チャネルオプションと比較して、いくつかの明確な利点があります。
 
@@ -28,7 +30,7 @@ Gmail または [!DNL Exchange] の利用には、他の配信チャネルオプ
 * SPF や DKIM などの認証方法は、既に IT チームによって設定および管理されているので、追加の設定が必要ありません。
 * 特定のメールネットワーク内でメールを送信すると（例：[!DNL Exchange] でメールを受信している企業に [!DNL Exchange] ユーザとしてメールを送信する）、配信品質をさらに高めることができます。
 
-これらの配信チャネルには、MicrosoftとGoogleによって適用される独自の送信制限があります。 この問題に対処するために、調整メカニズムを利用して、ユーザが制限内に収まるようにしています。 メール調整について詳しくは、[こちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)を参照してください。
+これらの配信チャネルには、MicrosoftとGoogleによって適用される独自の送信制限があります。 この問題に対処するために、スロットリングメカニズムを利用して、ユーザが制限内に収まるようにしています。 メール調整について詳しくは、[こちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)を参照してください。
 
 >[!NOTE]
 >
@@ -42,17 +44,17 @@ Gmail または [!DNL Exchange] の利用には、他の配信チャネルオプ
 
 サードパーティの SMTP プロバイダーを利用することは、メールのボリュームを最優先するセールスチームに適したオプションです。 [!DNL Sendgrid] や [!DNL Sparkpost] などの SMTP プロバイダーは、一括メール配信のニーズに対応するように最適化されており、大量のメールをデプロイするというニーズに合わせて拡張できます。
 
-さらに、サードパーティの SMTP プロバイダーは、チームの配信ニーズ（メール配信レポートや専用 IP アドレスなど）をサポートするための様々な機能を提供しており、セールスメールの配信チャネルをより詳細にコントロールし、可視化したいと考えている方には最適な選択肢となります。
+さらに、サードパーティの SMTP プロバイダーは、チームの配信品質ニーズ（メール配信レポートや専用 IP アドレスなど）をサポートするための様々な機能を提供しており、セールスメールの配信チャネルをより詳細にコントロールし、その可視性を高めたいと考えている方には最適な選択肢となります。
 
 ## MSC サーバー（レガシー） {#msc-servers-legacy}
 
-MSC サーバーは、一部のレガシー ToutApp のお客様のみ使用できます。 これらのお客様は、メール設定に MSC サーバーが表示されます。 レガシー版以外のすべてのお客様には、MSC サーバーがオプションとして表示されないので、配信チャネルのロックを解除するには、Gmail や [!DNL Outlook] のアカウントを [!DNL Sales Connect] に接続する必要があります。
+MSC サーバーは、一部のレガシー ToutApp のお客様のみ使用できます。 これらのお客様は、メール設定で MSC サーバーが利用可能であることを確認できます。 レガシー版以外のすべてのお客様には、MSC サーバーがオプションとして表示されないので、配信チャネルのロックを解除するには、Gmail や [!DNL Outlook] のアカウントを [!DNL Sales Connect] に接続する必要があります。
 
 MSC サーバーは、DKIM および SPF 認証方式をサポートしていないので、配信品質が低下する可能性があります。 このため、最高の配信品質を得るために、すべてのお客様に Gmail または [!DNL Outlook] に接続することをお勧めします。
 
 ## Marketo サーバー {#marketo-servers}
 
-Marketo のメールサーバーは、[!DNL Sales Connect] と統合されていません。 Marketo サーバーは、マーケターのニーズに合わせて拡張できるよう、一括配信に最適化されています。 ただし、Gmail および [!DNL Exchange] は、1:1 のセールスコミュニケーションの成功率が高いので、セールスコミュニケーションにはこれらのサーバーを使用することをお勧めします。
+Marketo のメールサーバーは、[!DNL Sales Connect] と統合されていません。 Marketo サーバーは、マーケターのニーズに合わせて拡張できるよう、一括配信に最適化されています。 ただし、Gmailと[!DNL Exchange]は1:1のセールスコミュニケーションの成功率が高いため、セールスコミュニケーションにこれらのサーバーを使用することをお勧めします。
 
 >[!MORELIKETHIS]
 >

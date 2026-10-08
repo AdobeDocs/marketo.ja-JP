@@ -4,18 +4,21 @@ description: Marketo Sales Insightの優先度、緊急性、相対スコア、�
 title: 優先度、緊急度、相対スコア、最有望見込客
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/-hp0FOXQxZCdb8iZpyXvKHNaAfpz1bICHsqfCatdrAA
+TQID: 'https://experienceleague.adobe.com/-hp0FOXQxZCdb8iZpyXvKHNaAfpz1bICHsqfCatdrAA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 455
+source-wordcount: '455'
 ht-degree: 80%
-
 ---
-
 # 優先度、緊急度、相対スコア、[!DNL Best Bets] {#priority-urgency-relative-score-and-best-bets}
 
 [!DNL Marketo Sales Insight] は、優先度に基づいて最適なリードと取引先責任者を選択します。 リードまたはコンタクトの優先度には、緊急度と相対スコアの 2 つの要素があります。
@@ -30,9 +33,9 @@ ht-degree: 80%
 
 ## 緊急度 {#urgency}
 
-炎は緊急度を表し、このリードのスコアが最近どの程度変化したかを示すものです。 緊急性が高い（フレームが多い）とは、このリードのスコアが最近大幅に増加したことを意味します。これは、このリードがオファーに興味を持っていることを示す良いサインです。 このリードに対しては、ただちにフォローアップを行いましょう。
+炎は緊急度を表し、このリードのスコアが最近どの程度変化したかを示すものです。 緊急性が高い（フレームが多い）とは、このリードのスコアが最近大幅に増加したことを意味します。これは、このリードがオファーに興味を持っていることを示す良いサインです。 この人物には、ただちにフォローするようにしましょう。
 
-例えば、デモをリクエストして複数の web ページを訪問したリードは、緊急度が特に高くなるでしょう。 Web ページにアクセスしていない、メールも開いていないリードは、緊急度が低くなります。 緊急度を利用して、次に連絡する必要がある相手の優先順位を決定します。
+例えば、デモをリクエストして複数の web ページを訪問したリードは、緊急度が特に高くなるでしょう。 Web ページに訪問しておらず、メールも開いていないリードは、緊急度が低くなります。 緊急度を利用して、次に連絡する必要がある相手の優先順位を決定します。
 
 ![](assets/priority-urgency-relative-score-and-best-bets-2.png)
 
@@ -58,4 +61,4 @@ ht-degree: 80%
 
 >[!NOTE]
 >
->相対的な緊急度（炎）と相対スコア（星）のカウントは、Marketo で整数であり、 それぞれに指定できる値は 0～3 です。
+>相対的な緊急度（炎）と相対スコア（星）のカウントは、Marketo では整数です。 それぞれに指定できる値は 0～3 です。

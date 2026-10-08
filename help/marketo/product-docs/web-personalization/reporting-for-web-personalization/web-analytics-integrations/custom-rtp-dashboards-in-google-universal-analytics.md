@@ -1,28 +1,35 @@
 ---
 unique-page-id: 7504238
 description: のカスタム rtp ダッシュボードなど、Marketo Engageのgoogle universal analyticsのカスタム rtp ダッシュボードについて説明します。 自信を持って次のステップへ。
-title: Google ユニバーサルアナリティクスでのカスタム RTP ダッシュボード
+title: Google Universal Analytics でのカスタム RTP ダッシュボード
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/J33gQt6txu9Dq95xAKDo5kRFqceNX1N17y9X3fTK3eY
+TQID: 'https://experienceleague.adobe.com/J33gQt6txu9Dq95xAKDo5kRFqceNX1N17y9X3fTK3eY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 787
+source-wordcount: '787'
 ht-degree: 97%
-
 ---
-
 # Google ユニバーサルアナリティクスでのカスタム RTP ダッシュボード {#custom-rtp-dashboards-in-google-universal-analytics}
 
 >[!PREREQUISITES]
@@ -142,7 +149,7 @@ ht-degree: 97%
     <ul>
      <li>名前：RTP グループ別セッション</li>
      <li>タイプ：棒グラフ<br></li>
-     <li>次の棒グラフを作成：セッション</li>
+     <li>セッションを表示する棒グラフを作成</li>
      <li>グループ分けの単位：RTP-Group</li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a35-3a54.png" data-linked-resource-id="7504256" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
   </tr>

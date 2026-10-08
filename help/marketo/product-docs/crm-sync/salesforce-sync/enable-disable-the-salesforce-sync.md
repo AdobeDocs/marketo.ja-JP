@@ -4,21 +4,26 @@ description: MarketoでSalesforce同期を有効または無効にする方法�
 title: Salesforce 同期の有効化／無効化
 exl-id: 3238f149-6aa3-4207-aae9-e404cf519414
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/HxNiD8gOQAVK3EG6tLzgSdXDg41molWzswqkZtmkuxA
+TQID: 'https://experienceleague.adobe.com/HxNiD8gOQAVK3EG6tLzgSdXDg41molWzswqkZtmkuxA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 102
+source-wordcount: '102'
 ht-degree: 67%
-
 ---
-
 # [!DNL Salesforce] 同期の有効化／無効化 {#enable-disable-the-salesforce-sync}
 
 同期またはフィールドの設定に大きな変更を加える場合は、構成中に同期を無効にする必要があります。 その方法をご紹介します。
 
-1. 「**[!UICONTROL 管理者]**」セクションに移動します。
+1. **[!UICONTROL 管理]**&#x200B;セクションに移動します。
 
    ![](assets/image2014-12-10-13-3a24-3a35.png)
 

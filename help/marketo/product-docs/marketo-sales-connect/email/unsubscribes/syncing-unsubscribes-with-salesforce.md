@@ -4,16 +4,18 @@ description: SalesforceでSales Connectの登録解除を同期する方法に�
 title: Salesforce との登録解除の同期
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g
+TQID: 'https://experienceleague.adobe.com/fiicWWuy3BXErVlY0s3u5kte59u8U2YFq2-rTnpuq-g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 435
-ht-degree: 94%
-
+source-wordcount: '436'
+ht-degree: 92%
 ---
-
 # [!DNL Salesforce] との登録解除の同期 {#syncing-unsubscribes-with-salesforce}
 
 ## [!DNL Salesforce] と登録解除を同期する際の要件 {#requirements-for-unsubscribes-to-sync-to-salesforce}
@@ -28,7 +30,7 @@ ht-degree: 94%
 
 **登録解除を同期**
 
-登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。 同期は 1 日に 1 回、午後 8:00 PST 頃に実行されます。 Marketo Sales 内のすべての登録解除と Salesforce の「オプトアウト」フィールドが双方向に同期されます。
+購読解除の同期（以下の手順 3）を有効にすると、夜間同期が有効になります。 同期は1日1回、午後8時（太平洋標準時）頃に行われます。 Marketo Sales 内のすべての登録解除と Salesforce の「オプトアウト」フィールドが双方向に同期されます。
 
 ## [!DNL Salesforce] への登録解除同期の設定 {#configure-unsubscribe-sync-to-salesforce}
 
@@ -69,7 +71,7 @@ ht-degree: 94%
 
    ![](assets/six-1.png)
 
-1. クイック検索ボックスで、取引先責任者またはリードを検索します。 このシナリオでは、取引先責任者ページレイアウトのフィールドをインストールしますが、両方の人物レコード用にインストールする場合もあります。
+1. クイック検索ボックスで、「取引先責任者」または「リード」を検索します。 このシナリオでは、取引先責任者ページレイアウトのフィールドをインストールしますが、両方の人物レコード用にインストールする場合もあります。
 
    ![](assets/seven-1.png)
 

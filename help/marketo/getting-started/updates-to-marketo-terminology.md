@@ -2,18 +2,19 @@
 unique-page-id: 11387674
 description: Marketo 用語のアップデート - Marketo ドキュメント - 製品ドキュメント
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 title: Marketo 用語のアップデート
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '359'
 ht-degree: 100%
-
 ---
-
 # Marketo 用語のアップデート {#updates-to-marketo-terminology}
 
-プラットフォームに変更が加えられているため、一部の用語への影響があります。 2016年3月時点で新しい Marketo インスタンスを使用している場合、または 2016年7月以降に会社が更新した場合は、現在新しい用語が表示されている可能性があります。
+現在、プラットフォームにいくつかの変更を加えており、その結果として一部の名称が変更されます。 2016年3月以降に新しい Marketo インスタンスを利用し始めた場合、または 2016年7月以降に会社の契約を更新した場合は、現在既に新しい用語が表示されている可能性があります。
 
 Marketo のドキュメントには様々な用語が記載されていますが、これらの変更を反映するために、すべての記事が近日中に更新されます。 すべての手順は同じです。
 
@@ -21,7 +22,7 @@ Marketo のドキュメントには様々な用語が記載されていますが
 
 ## 「リード」が「人物」に {#lead-is-now-person}
 
-最大の変更点は、「リード」が「人物」に名前変更されたことです。
+最大の変更は、「リード」が「人物」に名前変更されたことです。
 
 <table>
  <colgroup>
@@ -46,7 +47,7 @@ Marketo のドキュメントには様々な用語が記載されていますが
  </tbody>
 </table>
 
-場合によっては、「Lead」という単語が単に削除されます。
+場合によっては、「リード」という単語が単に削除されます。
 
 <table>
  <colgroup>
@@ -139,14 +140,14 @@ Lead という単語を含むトークンは、変更&#x200B;**されません**
 
 名前の変更に加えて、4 つの異なるアプリで構成されるようになりました。
 
-| **[Web パーソナライゼーション](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | ホーム画面に独自のタイルを表示 |
+| **[Web パーソナライゼーション](https://docs.marketo.com/display/DOCS/Web+Personalization+-+RTP){target="_blank"}** | ホーム画面に独自のタイルが表示されます |
 |---|---|
 | **[アカウントベースの web マーケティング](https://docs.marketo.com/display/DOCS/Account-Based+Web+Marketing){target="_blank"}** | Web パーソナライゼーションタイルを通じてアクセス可能 |
 | **[パーソナライズされたリターゲティング](https://docs.marketo.com/display/DOCS/Website+Retargeting){target="_blank"}** | Web パーソナライゼーションタイルを通じてアクセス可能 |
-| **[予測コンテンツ](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | ホーム画面に独自のタイルを表示 |
+| **[予測コンテンツ](https://docs.marketo.com/display/DOCS/Predictive+Content){target="_blank"}** | ホーム画面に独自のタイルが表示されます |
 
 >[!NOTE]
 >
 >ホーム画面に表示されるタイルには、購入したモジュールが反映されます。
 
-アップデートの間、ご迷惑をおかけしますがご協力お願いいたします。
+このアップデート期間中のご理解に感謝いたします。

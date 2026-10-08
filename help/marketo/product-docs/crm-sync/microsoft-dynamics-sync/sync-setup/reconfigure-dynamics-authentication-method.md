@@ -1,18 +1,23 @@
 ---
 description: MarketoでDynamics認証方式を再設定する方法について説明します。 同期を無効にし、新しい認証方法の再構成を使用し、Web APIまたはROPCの資格情報を検証します。
-title: ' [!DNL Dynamics]  認証方法の再設定'
+title: '[!DNL Dynamics]認証方法を再構成します'
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/wRcBTP-m1VtKDg6L4zrH6zzPIvrFuMEPQd5QoSrrm3I
+TQID: 'https://experienceleague.adobe.com/wRcBTP-m1VtKDg6L4zrH6zzPIvrFuMEPQd5QoSrrm3I'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 283
-ht-degree: 83%
-
+source-wordcount: '284'
+ht-degree: 82%
 ---
-
 # Dynamics 認証方法の再設定 {#reconfigure-dynamics-authentication-method}
 
 次の手順に従って、[!DNL Dynamics] 認証方法を更新します。
@@ -51,7 +56,7 @@ ht-degree: 83%
    >[!NOTE]
    >
    >* 具体的なフィールドは選択した認証方法によって異なり、以前の認証方法に応じてフォームが自動的に更新されます。
-   >* 以前にも同期したことがある場合、上記のフォームデータが事前入力されている場合があります。 すべての資格情報を再入力して、正しい値を確認します。
+   >* 以前にも同期したことがある場合、上記のフォーム内のデータが事前入力されている場合があります。 すべての資格情報を再入力して、正しい値を確認します。
 
 1. すべて問題ない場合、同期の検証ですべて緑のチェックマーク ![](assets/green-check.png) が生成されます。 メッセージを確認し、「**[!UICONTROL 切替]**」をクリックして認証方法を更新します。
 

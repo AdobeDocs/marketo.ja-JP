@@ -4,23 +4,25 @@ description: プログラムメンバーのカスタムフィールドトーク�
 title: プログラムメンバーカスタムフィールドトークン
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-TQID: https://experienceleague.adobe.com/B2oY6BKJdd92AAsMPHZV8Ffyc-9jKGRpATqles6TUos
+TQID: 'https://experienceleague.adobe.com/B2oY6BKJdd92AAsMPHZV8Ffyc-9jKGRpATqles6TUos'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 445
+source-wordcount: '445'
 ht-degree: 94%
-
 ---
-
 # プログラムメンバーカスタムフィールドトークン {#program-member-custom-field-tokens}
 
 ## プログラムメンバーカスタムフィールドのトークンサポート {#token-support-for-program-member-custom-fields}
 
-プログラムメンバーカスタムフィールド機能の背後で、トークンフレームワークのプログラムメンバーカスタムフィールドに対するサポートが拡張されています。
+プログラムメンバーカスタムフィールド機能の提供に伴い、トークンフレームワークでもプログラムメンバーカスタムフィールドがサポートされるようになりました。
 
 PMCF トークンは、トークンファミリーのメンバードメインでサポートされます。
 
@@ -34,7 +36,7 @@ PMCF トークンは、トークンファミリーのメンバードメインで
 
 ## アセットでのプログラムメンバーカスタムフィールドトークンの使用 {#using-program-member-custom-field-tokens-in-assets}
 
-プログラムメンバーカスタムフィールドトークンは、電子メール、ランディングページ、SMS メッセージ、プッシュ通知、web フックに挿入できます。
+プログラムメンバーカスタムフィールドトークンは、メール、ランディングページ、SMS、プッシュ通知、web フックに挿入できます。
 
 **メール**
 
@@ -137,7 +139,7 @@ PMCF トークンは、トークンファミリーのメンバードメインで
 プログラムメンバーカスタムフィールドトークンは、次の場所で使用できます。
 
 * タスクの作成
-* Microsoft でのタスクの作成
+* Microsoft でタスクを作成
 * 注目のアクション
 * データ値の変更フローアクション
 * Web フック

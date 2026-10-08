@@ -3,22 +3,28 @@ description: リリースノート - 2024年4月 – Marketo ドキュメント 
 title: リリースノート - 2024年4月
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-TQID: https://experienceleague.adobe.com/veRcvmZPvQFZcLKnU8ldjfZRQchr99eg0UhRy-0sNQo
+TQID: 'https://experienceleague.adobe.com/veRcvmZPvQFZcLKnU8ldjfZRQchr99eg0UhRy-0sNQo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+    internal-label: Users and roles
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 471
+source-wordcount: '471'
 ht-degree: 72%
-
 ---
-
 # リリースノート：2024年4月 {#release-notes-apr-24}
 
 2024年4月リリースに含まれるすべての機能を以下に示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
@@ -31,7 +37,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、リリースは **2024年4月26日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに該当し、リリースは **2024年4月26日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -63,7 +69,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
     <tr>
-   <td><strong>新しいユーザ＆ロールの権限</strong>：新しい権限が利用可能になり、ユーザは Marketo Engage へのより詳細なアクセスが可能になります。 新しいエクスペリエンスや予測オーディエンスなど、これまでゲートされていなかった管理部分を制御し、アセット監査記録と管理監査記録へのアクセス権を個別に付与する権限を分割し、アセットとフォルダーに対する新規作成および移動権限を利用して、読み取り専用ユーザが変更を行うことを防ぎます。
+   <td><strong>新しいユーザ＆ロールの権限</strong>：新しい権限が利用可能になり、ユーザは Marketo Engage へのより詳細なアクセスが可能になります。 新しいエクスペリエンスや予測オーディエンスなど、これまでゲートされていなかった管理部分を制御し、アセット監査記録と管理監査記録へのアクセスを個別に付与するよう権限を分割し、アセットとフォルダーに対する新規作成および移動の権限を利用して、読み取り専用ユーザが変更を行うことを防ぎます。
    <p>新しい権限は 4月26日（PT）以降、お使いの Marketo Engage インスタンスに表示されますが、現時点ではパッシブであり、今四半期後半にアクセス可能になる予定です。
    <li>Adobe Experience Managerへのアクセス</li>
    <li>Adobe組織マッピングへのアクセス</li>
@@ -119,16 +125,16 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
    <tr>
    <td>メールの送信</td>
-   <td>ブラウザー、プラットフォーム、デバイス、ユーザエージェント</td>
+   <td>ブラウザー、プラットフォーム、デバイス、ユーザーエージェント</td>
   </tr>
    </tr>
   <tr>
    <td>配信済みメール</td>
-   <td>ブラウザー、プラットフォーム、デバイス、ユーザエージェント</td>
+   <td>ブラウザー、プラットフォーム、デバイス、ユーザーエージェント</td>
   </tr>
    <tr>
    <td>バウンスメール</td>
-   <td>ブラウザー、プラットフォーム、デバイス、ユーザエージェント</td>
+   <td>ブラウザー、プラットフォーム、デバイス、ユーザーエージェント</td>
   </tr>
   <tr>
    <td>メールの配信停止</td>
@@ -144,7 +150,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td>ソフトバウンスメール</td>
-   <td>ブラウザー、プラットフォーム、デバイス、ユーザエージェント</td>
+   <td>ブラウザー、プラットフォーム、デバイス、ユーザーエージェント</td>
   </tr>
  </tbody>
 </table>

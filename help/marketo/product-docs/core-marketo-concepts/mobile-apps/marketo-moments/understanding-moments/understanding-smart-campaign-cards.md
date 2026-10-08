@@ -1,30 +1,33 @@
 ---
 unique-page-id: 10093348
 description: Marketo Momentsのスマートキャンペーンカードについて詳しく見る。 モバイルアプリからキャンペーンのステータスと実行フローステップを表示します。
-title: スマートキャンペーンカードについて
+title: スマートキャンペーンカードを理解する
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/U7hXSh81b-BRlEHvMRNOVix71p0tgahqOTYcVirSoVo
+TQID: 'https://experienceleague.adobe.com/U7hXSh81b-BRlEHvMRNOVix71p0tgahqOTYcVirSoVo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Flow Step
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 602
+source-wordcount: '602'
 ht-degree: 77%
-
 ---
-
 # スマートキャンペーンカードについて {#understanding-smart-campaign-cards}
 
-Marketo Moments を使用して、スマートフォンまたは iPad からスマートキャンペーンの各実行を表示します。 Marketo Moments スマートキャンペーンカードは、1 回のキャンペーン実行を表します。スマートキャンペーンが実行されるたびに新しいカードが表示されます。 スマートキャンペーンカードの左上に電球が表示されます。
+Marketo Moments を使用して、スマートフォンまたは iPad からスマートキャンペーンの各実行を表示します。 Marketo Moments のスマートキャンペーンカードは、1 回のキャンペーン実行を表します。スマートキャンペーンが実行されるたびに、新しいカードが表示されます。 スマートキャンペーンカードの左上には、電球のマークが付いています。
 
 >[!IMPORTANT]
 >
->2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。 タブレット／モバイルデバイスにアプリが既にインストールされている場合は、その間に引き続き使用できます。 Marketo Engage インスタンスが Marketo の認証の Adobe ID に移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
+>2023年10月2日（PT）に、アドビは Marketo モーメントアプリをすべてのアプリストアから削除しました。 タブレット／モバイルデバイスにアプリが既にインストールされている場合は、当面の間引き続き使用できます。 Marketo Engage インスタンスが、Marketo の認証に Adobe Identity を使用するように移行されると、アプリにアクセスできなくなります。 [詳細情報](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}。
 
 スケジュール済みだが実行していない今後のスマートキャンペーンの場合、Marketo Moments カードにはキャンペーン統計はまだ表示されません。 将来のリリースで公開される予定です。
 
@@ -50,7 +53,7 @@ Marketo Moments を使用して、スマートフォンまたは iPad からス�
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
-1. スマートキャンペーンのフローをここに示します。 このキャンペーンには 1 つのフローステップしかありませんが、複数のフローステップが存在する場合があります。
+1. スマートキャンペーンのフローをここに示します。 このキャンペーンにはフローステップが 1 つしかありませんが、複数のフローステップを設定することもできます。
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
@@ -86,7 +89,7 @@ Marketo Moments を使用して、スマートフォンまたは iPad からス�
 
 未確認のスマートキャンペーンのカードは、確認するまで灰色で表示されます。 確認後、オレンジ色に変わります。
 
-1. 未確認のスマートキャンペーンカードを確認するには、3 ドットアクションメニューをタップします。
+1. 未確認のスマートキャンペーンカードを確認するには、3 つの点のアクションメニューをタップします。
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
@@ -118,11 +121,11 @@ Marketo Moments を使用して、スマートフォンまたは iPad からス�
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
-## スマートキャンペーンの再スケジュール {#rescheduling-a-smart-campaign}
+## スマートキャンペーンのスケジュールを変更する {#rescheduling-a-smart-campaign}
 
 まだ実行されていない確認済みスマートキャンペーンをスケジュールし直すことができます。
 
-1. 3 ドットアクションメニューをタップします。
+1. 3 つの点のアクションメニューをタップします。
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
@@ -148,6 +151,6 @@ Marketo Moments を使用して、スマートフォンまたは iPad からス�
 >
 >また、共有するスマートキャンペーンカードの「**[!UICONTROL 共有]**」アイコンと、詳細カードの「**[!UICONTROL 完了]**」アイコンおよび「**[!UICONTROL お気に入り]**」アイコンもタップできます。
 
-## スマートキャンペーンカードの迅速な削除 {#quickly-delete-a-smart-campaign-card}
+## スマートキャンペーンカードを素早く削除する {#quickly-delete-a-smart-campaign-card}
 
 不要になったカードや、テストに使用したカードがある場合は、左または右にスワイプして削除できます。

@@ -3,27 +3,31 @@ description: 移行のタイミング、Admin Consoleのユーザー管理、シ
 title: Adobe Identity Management の概要
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-TQID: https://experienceleague.adobe.com/6af3WC1QOameThPvZTRmanxHl8nkFZaHquHJytngGmI
+TQID: 'https://experienceleague.adobe.com/6af3WC1QOameThPvZTRmanxHl8nkFZaHquHJytngGmI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b73410f7-454c-5670-baa7-a84eae014e94
+    internal-label: Marketo with Adobe Identity
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 366
+source-wordcount: '366'
 ht-degree: 59%
-
 ---
-
 # Adobe Identity Management の概要 {#adobe-identity-management-overview}
 
 すべての新しい Adobe Marketo Engage サブスクリプション（2023年7月31日（PT）以降）は、Adobe Identity Management システムと統合されます。
 
-Adobe ID にオンボードされたサブスクリプションの場合、Adobe Admin Console がユーザ管理に使用されます。 シングルサインオンなどのID関連の概念も、Admin Consoleで管理されます。
+Adobe Identity にオンボードされたサブスクリプションの場合、Adobe Admin Console がユーザ管理に使用されます。 シングルサインオンなどのID関連の概念も、Admin Consoleで管理されます。
 
 * 詳しくは、[Adobe Admin Console](https://helpx.adobe.com/jp/enterprise/using/admin-console.html){target="_blank"}を参照してください。
 * Marketo サブスクリプションに関連する[Adobe組織の設定](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}の詳細をご覧ください。
@@ -39,11 +43,11 @@ Adobe Identity Management システムにオンボーディングされたAdobe 
 <table>
  <tr>
   <td><strong>Adobe Admin Console システム管理者</strong></td>
-  <td>Adobe Admin Console でアドビ組織と Marketo Engage 製品の ID 概念を設定します。 アドビ組織の設定で付与されたロールです。</td>
+  <td>Adobe Admin Console で、アドビ組織および Marketo Engage 製品に対する ID 関連の概念を設定する役割を担います。 アドビ組織の設定で付与されたロールです。</td>
  </tr>
  <tr>
   <td><strong>Adobe Admin Console 製品管理者</strong></td>
-  <td>Adobe Admin Console でのユーザー製品に対する Marketo Engage の権限を付与します。 Adobe Admin Console で付与されたロールです。</td>
+  <td>Adobe Admin Console で、ユーザに Marketo Engage 製品の利用権限を付与する役割を担います。 Adobe Admin Console で付与されたロールです。</td>
  </tr>
  <tr>
   <td><strong>Adobe Admin Console 製品プロファイル管理者</strong></td>

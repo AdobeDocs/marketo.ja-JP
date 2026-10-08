@@ -1,7 +1,10 @@
 ---
 description: 製品に関する知識を活用して、機能、ベストプラクティス、ハウツーについてCX Enterprise CoworkerでMarketo Engageに問い合わせます。 回答は、Adobeの公式ドキュメントに基づいています。
 title: 製品知識
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '442'
 ht-degree: 2%

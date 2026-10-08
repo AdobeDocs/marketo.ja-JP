@@ -3,16 +3,21 @@ description: Marketo ソリューションをROPC接続でDynamics 365に接続�
 title: 手順 4 / 4 - Marketo ソリューションとリソース所有者のパスワード制御接続の接続
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/FhoaEw7r-Uxwev38H-VZeJ7p0g7mIH9uR-QktMXMdDg
+TQID: 'https://experienceleague.adobe.com/FhoaEw7r-Uxwev38H-VZeJ7p0g7mIH9uR-QktMXMdDg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 429
+source-wordcount: '429'
 ht-degree: 83%
-
 ---
-
 # 手順 4 / 4：Marketo ソリューションとリソース所有者のパスワード制御接続の接続 {#step-4-of-4-connect-the-marketo-solution-ropc}
 
 これが同期の最後のステップです。
@@ -31,7 +36,7 @@ ht-degree: 83%
 >
 >基本認証から [!DNL OAuth] にアップグレードする場合は、[この記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)を参照して認証を再設定できます。
 
-## [!DNL Dynamics] 同期ユーザ情報の入力 {#enter-dynamics-sync-user-information}
+## [!DNL Dynamics] 同期ユーザー情報の入力 {#enter-dynamics-sync-user-information}
 
 1. Marketo にログインし、「**[!UICONTROL 管理]**」をクリックします。
 
@@ -91,7 +96,7 @@ ht-degree: 83%
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 下にスクロールしてフィールドを確認します。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。 「**[!UICONTROL 保存]**」をクリックします。
+1. 下にスクロールしてそのフィールドをチェックします。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意に設定できます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 
@@ -115,4 +120,4 @@ ht-degree: 83%
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL Dynamics]  認証方法の再設定](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)
+>[&#x200B; [!DNL Dynamics]  認証方法](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/reconfigure-dynamics-authentication-method.md)の再設定

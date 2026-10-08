@@ -1,13 +1,14 @@
 ---
 description: Marketo Engage権限に対して共同作業者を有効にする方法、組織ルールの設定方法、統合機能や通知などの管理方法について説明します。
 title: 設定と設定
-source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 4%
-
 ---
-
 # 設定と設定 {#settings-setup}
 
 権限を有効にし、設定エリアを使用して接続の詳細を表示し、組織ルールを定義し、統合と通知を設定する方法を説明します。

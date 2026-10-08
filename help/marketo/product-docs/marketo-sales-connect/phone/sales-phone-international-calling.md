@@ -4,19 +4,21 @@ description: Sales ConnectでのSales Phone International Callについて説明
 title: Sales Phone での国際通話
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc
+TQID: 'https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 95%
-
 ---
-
 # Sales Phone での国際通話 {#sales-phone-international-calling}
 
-Sales Phone によって国際的なコミュニケーションが容易になります。 米国内の顧客に対しては、Sales Phone を使用して国外への通話発信をサポートできます。 米国外の顧客に対しては、海外からのお問い合わせをサポートできます。
+Sales Phone によって国際的なコミュニケーションが容易になります。 米国内の顧客に対しては、Sales Phone を使用して国外への通話発信をサポートできます。 米国外の顧客に対しては、海外からの発信通話をサポートしています。
 
 >[!NOTE]
 >
@@ -151,7 +153,7 @@ Sales Phone によって国際的なコミュニケーションが容易にな�
 
 **MSE ですべての国に対する国際電話の発信をサポートしない理由：**
 
-Sales Phone では国際電話を追加費用なしで提供しています。 見込み客や顧客とのコミュニケーションを取りやすくするために、標準的な料金の国際通話のサポートを開始しました。 米国、カナダ以外の、ヨーロッパ、アジア、その他の主要地域の 34 か国を対象とします。 今後もお客様のフィードバックに基づいて幅を広げていきます。
+Sales Phone では国際電話を追加費用なしで提供しています。 見込み客や顧客とのコミュニケーションを取りやすくするために、標準的な料金の国際通話のサポートを開始しました。 米国、カナダ以外の、ヨーロッパ、アジア、その他の主要地域の 34 か国を対象とします。 今後もお客様のフィードバックに基づいて提供範囲を拡大していきます。
 
 **米国外のどの国から発信できますか？**
 

@@ -4,13 +4,19 @@ description: アカウント別のトラッキング開始を含む、Marketo En
 title: 収益モデラーでの顧客別トラッキングの開始
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 76%
-
 ---
-
 # 収益モデラーでの顧客別トラッキングの開始 {#start-tracking-by-account-in-the-revenue-modeler}
 
 収益ステージモデラーと[!UICONTROL 収益エクスプローラー]を使用すると、リードとアカウントがモデル内を進行するにつれて、そのパフォーマンスを把握できます。
@@ -43,4 +49,4 @@ ht-degree: 76%
 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 
-1. これで、アカウント別に追跡しているステージのみがレポートに表示されるようになります。 後で使用できるように、レポートを保存してください。 これをマーケティング活動の成功の別の尺度として使用できます。
+1. これで、アカウント別に追跡しているステージのみがレポートに表示されるようになります。 後で使用できるように、レポートを保存してください。 これをマーケティング活動の成功を示す別の指標として使用できます。

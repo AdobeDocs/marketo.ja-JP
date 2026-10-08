@@ -4,33 +4,41 @@ description: 名前付きアカウントダッシュボードとターゲット�
 title: 重点顧客インサイト
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/AFf4miCMLQKRhYC-gIn-q8KinQD8NZ8-8FxsxC1hxMg
+TQID: 'https://experienceleague.adobe.com/AFf4miCMLQKRhYC-gIn-q8KinQD8NZ8-8FxsxC1hxMg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 444
+source-wordcount: '444'
 ht-degree: 95%
-
 ---
-
 # 重点顧客インサイト {#named-account-insights}
 
-「重点顧客」ダッシュボードには、ターゲットアカウントの全体像が表示されます。
+重点アカウントダッシュボードでは、ターゲットアカウントの全体像を確認できます。
 
 ![](assets/one-1.png)
 
 ## ダッシュボード {#dashboard}
 
-ダッシュボードは、重点顧客内のすべてのユーザーからアカウントレベルで主要なインサイトを集計するので、各ユーザーに進捗状況を評価してもらう必要がなくなります。 [メールインサイト](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)を使用し、メールのアクティビティをさらにドリルダウンして調べることができます。
+ダッシュボードは、重点アカウント内のすべての人物からアカウントレベルで主要なインサイトを集計するので、各人物ごとに進捗状況を確認しに行く必要がなくなります。 [メールインサイト](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md#account-based-marketing)を使用し、メールのアクティビティをさらにドリルダウンして調べることができます。
 
 >[!NOTE]
 >
@@ -48,15 +56,15 @@ ht-degree: 95%
  <tbody>
   <tr>
    <td><strong><span class="uicontrol">アカウントスコア</span></strong></td>
-   <td><p>「<span class="uicontrol">管理</span>」で作成したすべてのアカウントスコアに基づき、エンゲージメントを週ごとに表示します。 これらのアカウントスコアを並べて比較できます。 週別のエンゲージメントを判断するため、任意の曜日から最大のエンゲージメントを取り込みます。</p></td>
+   <td><p>「<span class="uicontrol">管理</span>」で作成したすべてのアカウントスコアに基づき、エンゲージメントを週ごとに表示します。 これらのアカウントスコアを並べて比較できます。 週別のエンゲージメントを算出するため、その週の各日のエンゲージメントのうち最大値を使用します。</p></td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">パイプライン</span></strong></td>
-   <td>経時的なパイプラインを表示します。 週ごとの経時的なパイプラインを判断するため、最終日にパイプラインを取得します。</td>
+   <td>経時的なパイプラインを表示します。 週ごとの経時的なパイプラインを算出するため、各週の最終日のパイプラインの値を使用します。</td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">売上高</span></strong></td>
-   <td>経時的な売上高を表示します。 週ごとの経時的な売上高を判断するため、その週の全売上高の合計を取り込みます。</td>
+   <td>経時的な売上高を表示します。 週ごとの経時的な売上高を算出するため、その週に獲得した全売上高を合計します。</td>
   </tr>
  </tbody>
 </table>
@@ -69,7 +77,7 @@ ht-degree: 95%
 
 **上位リード**
 
-これらユーザは、重点顧客ユーザごと（セールスインサイトの[最善策](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）が示す最新性や緊急性の優先度、またはユーザが定義したスコアに基づいて計算されます。 **[!UICONTROL 優先度]**&#x200B;は、[!DNL Marketo Sales Insight] のユーザのみが使用できます。
+これらユーザーは、重点顧客ユーザーごと（セールスインサイトの[最善策](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）が示す最新性や緊急性の優先度、またはユーザーが定義したスコアに基づいて計算されます。 **[!UICONTROL 優先度]**&#x200B;は、[!DNL Marketo Sales Insight] のユーザのみが使用できます。
 
 ![](assets/top-ten.png)
 
@@ -85,7 +93,7 @@ ht-degree: 95%
 
 ## 階層 {#hierarchy}
 
-選択した重点顧客が、階層との関係でどの位置にあるかを確認します。
+選択した重点アカウントが階層構造の中でどこに位置するかを確認します。
 
 ![](assets/hierarchy.png)
 
@@ -107,7 +115,7 @@ ht-degree: 95%
 
 ## [!UICONTROL 使用者] {#used-by}
 
-このタブには、特定の重点顧客またはアカウントリストを現在参照しているスマートキャンペーン、web キャンペーン、スマートリストまたはレポートが表示されます。
+このタブには、特定の重点アカウントまたはアカウントリストを現在参照しているスマートキャンペーン、web キャンペーン、スマートリストまたはレポートが表示されます。
 
 ![](assets/six-1.png)
 

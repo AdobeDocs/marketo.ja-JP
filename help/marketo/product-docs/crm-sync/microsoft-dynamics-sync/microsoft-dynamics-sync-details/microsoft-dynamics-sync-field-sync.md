@@ -4,29 +4,34 @@ description: Microsoft DynamicsとMarketo間のフィールド同期の仕組み
 title: Microsoft Dynamics 同期 - フィールドの同期
 exl-id: 78eef0eb-4086-45c5-bce3-a3399016f228
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/w8YaiXwVC27ovOf63p8xVCaVM9N9KFJJIPzduSoyWME
+TQID: 'https://experienceleague.adobe.com/w8YaiXwVC27ovOf63p8xVCaVM9N9KFJJIPzduSoyWME'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 336
+source-wordcount: '336'
 ht-degree: 91%
-
 ---
-
 # [!DNL Microsoft Dynamics] 同期：フィールドの同期 {#microsoft-dynamics-sync-field-sync}
 
 Marketoから[!DNL Dynamics]への同期は強力です。 以下に詳細を示します。
 
-## 2 つのシステム間でのフィールドの詳細の同期方法 {#how-are-field-details-kept-in-sync-between-the-two-systems}
+## 2 つのシステム間でフィールドの詳細はどのように同期されますか？ {#how-are-field-details-kept-in-sync-between-the-two-systems}
 
-リードおよび連絡先エンティティについては、同期は双方向です。 [!DNL Dynamics] でリードや取引先責任者に、または Marketo で人物に変更を加えると、更新内容が両方のシステムに反映されます。
+リードおよび取引先責任者エンティティの同期は双方向です。 [!DNL Dynamics] でリードや取引先責任者に、または Marketo で人物に変更を加えると、更新内容が両方のシステムに反映されます。
 
-アカウント、ユーザ、商談、チームおよびカスタムエンティティについては、同期は、[!DNL Dynamics] から Marketo への一方向です。 [!DNL Dynamics] でこれらのエンティティに変更を加えると、更新内容が Marketo に反映されます。
+アカウント、ユーザー、商談、チームおよびカスタムエンティティについては、同期は、[!DNL Dynamics] から Marketo への一方向です。 [!DNL Dynamics] でこれらのエンティティに変更を加えると、更新内容が Marketo に反映されます。
 
-## 両方のシステムの同じフィールドに同時に変更が加えられた場合の動作 （データの競合） {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
+## 両方のシステムの同じフィールドに同時に変更が加えられた場合はどうなりますか？ （データの競合） {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-まれなことですが、人物（リード）では Marketo が、取引先責任者では [!DNL Dynamics] が優先されます。 これは、人物についてはマーケティング部門が権限を持ち、取引先責任者についてはセールス（CRM）部門が公式な記録システムを持っていると考えているからです。 一方的な同期エンティティについては、常に [!DNL Dynamics] が優先されます。
+まれなことですが、人物（リード）では Marketo が、取引先責任者では [!DNL Dynamics] が優先されます。 これは、人物についてはマーケティング部門が権限を持ち、取引先責任者についてはセールス（CRM）部門が公式なレコードシステムを持っていると考えているからです。 一方的な同期エンティティについては、常に [!DNL Dynamics] が優先されます。
 
 ## Marketo を使用して [!DNL Dynamics] のフィールドを作成できますか？ {#can-i-create-a-field-in-dynamics-using-marketo}
 
@@ -34,9 +39,9 @@ Marketoから[!DNL Dynamics]への同期は強力です。 以下に詳細を示
 
 ## [!DNL Dynamics] でフィールドを作成しました。 これを Marketo に同期できますか？ {#i-created-a-field-in-dynamics-can-i-sync-it-to-marketo}
 
-はい、同期ユーザが [!DNL Dynamics] でアクセス権を持っている限り、[フィールドを同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)できます。
+はい、同期ユーザーが [!DNL Dynamics] でアクセス権を持っている限り、[フィールドを同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync)できます。
 
-## Marketo に同期されるフィールド {#what-fields-will-sync-to-marketo}
+## どのフィールドが Marketo に同期されますか？ {#what-fields-will-sync-to-marketo}
 
 設定の際に、[同期するフィールドを選択](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"}できます。
 

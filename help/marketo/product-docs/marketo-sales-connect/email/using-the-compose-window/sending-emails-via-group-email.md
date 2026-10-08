@@ -4,16 +4,18 @@ description: Sales Connectのグループメールを使用してメールを送
 title: グループメールによるメールの送信
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/f32d4DuWA3TMzH1b-8DJzOGevSpIZ3QQQFDkZbS4QK4
+TQID: 'https://experienceleague.adobe.com/f32d4DuWA3TMzH1b-8DJzOGevSpIZ3QQQFDkZbS4QK4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 175
+source-wordcount: '175'
 ht-degree: 87%
-
 ---
-
 # グループメールによるメールの送信 {#sending-emails-via-group-email}
 
 ここでは、「グループメール」オプションを使用してメールを送信／編集する方法を説明します。
@@ -58,7 +60,7 @@ ht-degree: 87%
 
    >[!NOTE]
    >
-   >グループメールを送信する際に、メール／テンプレートに一括編集を行うことはできますが、リスト内の特定の受信者に対して一意の編集を行うことはできません。
+   >グループメールを送信する際に、メール／テンプレートに一括編集を行うことはできますが、リスト内の特定の受信者に対して個別の編集を行うことはできません。
 
 >[!MORELIKETHIS]
 >

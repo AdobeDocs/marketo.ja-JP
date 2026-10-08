@@ -1,22 +1,24 @@
 ---
 unique-page-id: 14352422
 description: Sales Connectでサポートされているブラウザーとメールクライアントについて説明します。 GmailまたはOutlook プラグインをインストールする前に、互換性を確認してください。
-title: Sales Connect では、どのブラウザーとメールクライアントがサポートされていますか？
+title: Marketo セールスコネクトでは、どのブラウザーとメールクライアントがサポートされていますか？
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ts8jXpXtBIJmlsXkeBMxPEWtF4lkrmyDec6SVKx92U0
+TQID: 'https://experienceleague.adobe.com/ts8jXpXtBIJmlsXkeBMxPEWtF4lkrmyDec6SVKx92U0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 120
+source-wordcount: '120'
 ht-degree: 83%
-
 ---
+# Marketo セールスコネクトでは、どのブラウザーとメールクライアントがサポートされていますか？ {#which-browsers-and-email-clients-are-supported-with-sales-connect}
 
-# Sales Connect では、どのブラウザーとメールクライアントがサポートされていますか？ {#which-browsers-and-email-clients-are-supported-with-sales-connect}
-
-Marketo Sales Connect は現在、次のブラウザーをサポートしています。
+Marketo セールスコネクトは現在、次のブラウザーをサポートしています。
 
 <table>
  <tbody>

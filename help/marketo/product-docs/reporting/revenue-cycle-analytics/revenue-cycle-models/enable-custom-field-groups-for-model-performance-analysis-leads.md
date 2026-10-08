@@ -4,14 +4,20 @@ description: カスタムを有効にする機能を使用して、Marketo Engag
 title: モデル効果分析（リード）のカスタムフィールドグループの有効化
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '358'
 ht-degree: 92%
-
 ---
-
-# モデル効果分析（リード）のカスタムフィールドグループの有効化 {#enable-custom-field-groups-for-model-performance-analysis-leads}
+# モデルパフォーマンス分析でのカスタムフィールドグループの有効化（リード） {#enable-custom-field-groups-for-model-performance-analysis-leads}
 
 >[!PREREQUISITES]
 >
@@ -28,14 +34,14 @@ ht-degree: 92%
    <td colspan="1" rowspan="1"><p><strong>リード分析、キャンペーン分析、商談分析の各領域に与える影響</strong></p></td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong>標準リードまたは会社フィールドに関連付けられたカスタムフィールドグループを有効にする</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>標準リードまたは会社フィールドに関連付けられたカスタムフィールドグループを有効にするとどうなりますか？</strong></p></td>
    <td colspan="1" rowspan="1"><p>カスタムフィールドグループが<span class="uicontrol">モデルパフォーマンス分析（リード）</span>領域でのレポートに対して有効になる</p></td>
    <td colspan="1" rowspan="1"><p>影響なし</p></td>
   </tr>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong>ユーザー設定の個人または会社フィールドに関連付けられたカスタムフィールドグループを有効にする</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>カスタムの人物または会社フィールドに関連付けられたカスタムフィールドグループを有効にするとどうなりますか？</strong></p></td>
    <td colspan="1" rowspan="1"><p>カスタムフィールドグループが<span class="uicontrol">モデルパフォーマンス分析（リード）</span>領域でのレポートに対して有効になる</p></td>
-   <td colspan="1" rowspan="1"><p>カスタムフィールド自体が、リード分析、キャンペーン分析、商談分析エリアでのレポート作成に対して有効になる</p><p><strong>注意</strong>：これらの分析領域では、カスタムフィールドグループはサポートされていないので、グループの関連付けは収益サイクルエクスプローラーには表示されません。表示されるのはカスタムフィールド<em>のみ</em>です。</p></td>
+   <td colspan="1" rowspan="1"><p>カスタムフィールド自体が、リード分析、キャンペーン分析、商談分析のエリアでのレポート作成に対して有効になります。</p><p><strong>注意</strong>：これらの分析領域では、カスタムフィールドグループはサポートされていないので、グループの関連付けは収益サイクルエクスプローラーには表示されません。表示されるのはカスタムフィールド<em>のみ</em>です。</p></td>
   </tr>
  </tbody>
 </table>
@@ -60,7 +66,7 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >この例では、標準フィールド（状態）のカスタムフィールドグループを有効にしました。 そのため、影響を受けたのは、[!UICONTROL モデルパフォーマンス分析（リード）]領域のみです。 カスタム人物または会社フィールドのカスタムフィールドグループが有効になっている場合、有効なグループが「同期の概要」タブの[!UICONTROL モデルパフォーマンス分析（リード）]セクションに表示され、リード、キャンペーン、商談分析のカスタムフィールド数が 1 増加します。
+   >この例では、標準フィールド（都道府県）用のカスタムフィールドグループを有効にしました。 そのため、影響を受けたのは、[!UICONTROL モデルパフォーマンス分析（リード）]領域のみです。 カスタム人物または会社フィールドのカスタムフィールドグループが有効になっている場合、有効なグループが「同期の概要」タブの[!UICONTROL モデルパフォーマンス分析（リード）]セクションに表示され、リード、キャンペーン、商談分析のカスタムフィールド数が 1 増加します。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 

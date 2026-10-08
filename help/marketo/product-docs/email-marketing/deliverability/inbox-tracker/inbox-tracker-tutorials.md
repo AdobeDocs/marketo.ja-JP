@@ -3,19 +3,24 @@ description: 電子メールの配信品質をテストおよび監視するた�
 title: インボックストラッカーのチュートリアル
 feature: Deliverability
 exl-id: 23e2875d-e0ee-45a7-a79a-caa0b7310e55
-TQID: https://experienceleague.adobe.com/OOmWMW8Fw1r8NsYMp2-GBIThxu-cLtk6WJk1GbVUwWc
+TQID: 'https://experienceleague.adobe.com/OOmWMW8Fw1r8NsYMp2-GBIThxu-cLtk6WJk1GbVUwWc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 309
+source-wordcount: '309'
 ht-degree: 81%
-
 ---
-
 # インボックストラッカーのチュートリアル {#inbox-tracker-tutorials}
 
-Bird（旧称 MessageBird）インボックストラッカーのプラットフォームによるメール配信品質ツールの配信品質の問題をテスト、監視、理解します。 インボックストラッカーは、プログラムのインテリジェンスとメールのレンダリング／インボックステストの先見性を組み合わせて、メールのパフォーマンスを最大化する単一のアプリケーションです。
+Bird（旧称 MessageBird）のインボックストラッカープラットフォームを基盤としたメール配信品質ツールを使用して、メールの配信品質に関する問題をテスト、監視、把握します。 インボックストラッカーは、プログラムのインテリジェンスとメールのレンダリング／インボックステストの先見性を組み合わせて、メールのパフォーマンスを最大化する単一のアプリケーションです。
 
 >[!AVAILABILITY]
 >
@@ -65,7 +70,7 @@ Bird は、この強力なツールを最大限に活用できるように、ト
 
 * [Policy Manager](https://veed.io/view/1036967c-0f77-4fd6-8c40-71553bceef3d){target="_blank"}
 
-## インボックストラッカー Postmaster Tools {#inbox-tracker-postmaster-tools}
+## インボックストラッカー Postmaster ツール {#inbox-tracker-postmaster-tools}
 
 * [Google Postmaster Tools](https://veed.io/view/7c89c0d8-ead2-46ad-9709-7509d043442a){target="_blank"}
 

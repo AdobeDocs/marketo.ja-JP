@@ -4,16 +4,18 @@ description: メールの自動応答 - Marketo ドキュメント - 製品ド�
 title: メールの自動応答
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w
+TQID: 'https://experienceleague.adobe.com/4cmhAOxdpbN23Mnbd5v2oGJUkGTstv-LiRxoibF753w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 391
+source-wordcount: '391'
 ht-degree: 97%
-
 ---
-
 # メールの自動応答 {#email-auto-response}
 
 ## ミッション：フォームに入力されたときにお礼メールを送信する {#mission-send-out-a-thank-you-email-when-a-person-fills-out-a-form}
@@ -25,7 +27,7 @@ ht-degree: 97%
 
 ## 手順 1：メールを作成する {#step-create-an-email}
 
-1. 「[!UICONTROL マーケティング活動]」領域に移動します。
+1. [!UICONTROL マーケティングアクティビティ]領域に移動します。
 
    ![](assets/email-auto-response-1.png)
 
@@ -41,7 +43,7 @@ ht-degree: 97%
 
    ![](assets/email-auto-response-4.png)
 
-   新しいウィンドウまたはタブでメールエディターが開きます。 ポップアップがブロックされている場合は、アセットの概要ページの「**[!UICONTROL 下書きの編集]**」をクリックして、メールにアクセスします。
+   新しいウィンドウまたはタブでメール編集ウィンドウが開きます。 ポップアップがブロックされている場合は、アセットの概要ページの「**[!UICONTROL 下書きの編集]**」をクリックして、メールにアクセスします。
 
 1. 件名を入力し、メールの編集可能な領域をダブルクリックします。
 
@@ -57,7 +59,7 @@ ht-degree: 97%
 
    ![](assets/email-auto-response-7.png)
 
-1. 「**[!UICONTROL メールアクション]**」ドロップダウンをクリックし、「**[!UICONTROL 承認して閉じる]**」を選択します。
+1. **[!UICONTROL メールアクション]**&#x200B;ドロップダウンをクリックし、**[!UICONTROL 承認して閉じる]**&#x200B;を選択します。
 
    ![](assets/email-auto-response-8.png)
 
@@ -101,7 +103,7 @@ ht-degree: 97%
 
    ![](assets/email-auto-response-17.png)
 
-1. 「**[!UICONTROL アクティベート]**」をクリックします。
+1. 「**[!UICONTROL アクティブ化]**」をクリックします。
 
    ![](assets/email-auto-response-18.png)
 

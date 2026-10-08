@@ -4,20 +4,23 @@ description: MSI パネルで興味深いモーメントを使用する方法に
 title: 注目のアクションの使用
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/a7xwk8AWmiXHHxNMaCKh6rfVAO-60pwNjBoNsCZu0h4
+TQID: 'https://experienceleague.adobe.com/a7xwk8AWmiXHHxNMaCKh6rfVAO-60pwNjBoNsCZu0h4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 443
+source-wordcount: '443'
 ht-degree: 92%
-
 ---
-
 # 注目のアクションの使用 {#using-interesting-moments}
 
 注目のアクションは、[!DNL Marketo Sales Insight] アプリを通じてセールスチームとコミュニケーションをとる鍵となります。
@@ -58,13 +61,13 @@ ht-degree: 92%
 
 ## 注目のアクションにさらに注目を集めるには  {#how-can-this-get-even-more-interesting}
 
-トークンを使います。 より具体的な情報を営業チームに伝えるために、説明フィールドにトークンを追加します。リードが開くメールの件名、または送信者といった情報です。 [注目のアクションのトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)の用語集を参照して使用できるトークンを確認してください。
+トークンを使います。 リードが開いたメールの件名や送信者など、より具体的な情報を営業チームに提供するために、説明フィールドにトークンを追加します。 [注目のアクションのトークン](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md)の用語集を参照して使用できるトークンを確認してください。
 
 >[!TIP]
 >
->5 つの注目のアクションから始め、セールスチームと協力して、どの情報を確認するのかを判断します。
+>まずは 5 つの注目のアクションから開始し、セールスチームと協力して、どの情報に関心があるのかを見極めてください。
 
-## 注目のアクションは、Marketo でどのように表示されるか  {#what-does-an-interesting-moment-look-like-in-marketo}
+## 注目のアクションは Marketo でどのように表示されるか  {#what-does-an-interesting-moment-look-like-in-marketo}
 
 注目のアクションは、[リードのアクティビティログ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)に表示されます。
 
@@ -96,6 +99,6 @@ ht-degree: 92%
 
 >[!NOTE]
 >
->注目のアクションのタイプまたは説明を購読する場合、ユーザは、そのタイプまたは説明に一致する注目のアクションをトリガーする際に、所有する人（リード／取引先責任者）に関するメール通知を受け取ります。
+>注目のアクションのタイプまたは説明を購読する場合、ユーザーは、そのタイプまたは説明に一致する注目のアクションをトリガーする際に、所有する人物（リード／取引先責任者）に関するメール通知を受け取ります。
 
 ![](assets/using-interesting-moments-8.png)

@@ -4,16 +4,18 @@ description: Sales Connectの「チーム」タブとチーム全体の指標に
 title: 「[!UICONTROL チーム]」タブについて
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Z3EoI8BoNSwmJKCKz-dP8ml8PaTFBTfWYgT8VqwYB0c
+TQID: 'https://experienceleague.adobe.com/Z3EoI8BoNSwmJKCKz-dP8ml8PaTFBTfWYgT8VqwYB0c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 155
+source-wordcount: '155'
 ht-degree: 84%
-
 ---
-
 # 「[!UICONTROL チーム]」タブについて {#understanding-the-team-tab}
 
 「[!UICONTROL チーム]」タブで、3 つの重要な指標を説明します。
@@ -28,6 +30,6 @@ ht-degree: 84%
 
 ## 締結された契約数 {#deals-closed}
 
-これは、今月中に締結された売上と数量に基づいています。
+これは、セールスゴングと、当月中にクローズされた案件数に基づいています。
 
-ボーナスとして、チームの閲覧率エンゲージメントの合計を算出します。 このタブでは、セールス担当のランキング表も参照できます。 チーム内の各ユーザのメール統計がここに表示されます。
+ボーナスとして、チームの閲覧率エンゲージメントの合計を算出します。 このタブでは、セールス担当のランキング表も参照できます。 チーム内の各人物のメール統計がここに表示されます。

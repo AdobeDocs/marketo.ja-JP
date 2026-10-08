@@ -4,21 +4,28 @@ description: A/B テストの勝者の基準を定義する方法を説明しま
 title: A/B テストの勝者条件の定義
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/CCAarjClLyHDUn3-PQ-0cQ2Ef5NKedjIwdHh0dgnXJE
+TQID: 'https://experienceleague.adobe.com/CCAarjClLyHDUn3-PQ-0cQ2Ef5NKedjIwdHh0dgnXJE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 462
+source-wordcount: '462'
 ht-degree: 89%
-
 ---
-
 # A/B テストの勝者条件の定義 {#define-the-a-b-test-winner-criteria}
 
-メールプログラムに [A/B テストを追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}する際に、[A/B テストのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}テストタイプを選択し、勝者の条件を定義する必要があります。 どのメールが優先されるかを決定する方法を次に示します。
+メールプログラムに [A/B テストを追加](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}する際に、[A/B テストのスケジュール設定](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}テストタイプを選択し、勝者の条件を定義する必要があります。 どのメールが勝者となるかを決定する方法を次に示します。
 
 >[!PREREQUISITES]
 >
@@ -40,7 +47,7 @@ ht-degree: 89%
    <td>デフォルトでは、メール内のリンクにはトラッキング情報が埋め込まれており、誰がどのリンクをクリックしたか、リンクが合計で何回クリックされたかなどを確認できます。</td>
    </tr>
    <tr>
-   <td><b>[!UICONTROL クリック/開封率] %</b></td>
+   <td><b>[!UICONTROL クリックして開く] %</b></td>
    <td>開封され、メール内のリンクがクリックされたメールの割合。 これは、ユニーククリック数をユニーク開封数で割り、100 倍してパーセンテージとして表示することで、メールの関連性とコンテキストを測定します。</td>
    </tr>
    <tr>
@@ -71,7 +78,7 @@ ht-degree: 89%
 
    >[!IMPORTANT]
    >
-   >Marketo では、このメールプログラムからメールが送信された人物に対してのみトリガー／フィルターが許可されるので、「メールが送信されました」フィルターを追加する必要はありません。 さらに、メール関連のトリガー／フィルターを使用する場合は、演算子として「が次のいずれかである」が使用されます。
+   >Marketo では、このメールプログラムからメールが送信された人物に対してのみトリガー／フィルターが許可されるので、「メールが送信されました」フィルターを追加する必要はありません。 さらに、メール関連のトリガー／フィルターを使用する場合は、演算子として &quot;is any&quot; を必ず使用してください。
 
 1. 開いた新しいウィンドウ（またはタブ）を閉じます。 スマートリストが自動的に保存されます。
 

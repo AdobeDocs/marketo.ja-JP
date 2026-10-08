@@ -3,26 +3,36 @@ description: リリースノート - 2025年1月 - Marketo ドキュメント - 
 title: リリースノート - 2025年1月
 feature: Release Information
 exl-id: fd816b9c-9e06-4292-87d6-9fa991c4681f
-TQID: https://experienceleague.adobe.com/-UqDhrUEzKS1CfFLwIYxivC-W5bjCp8L4y-GQ5Prvkk
+TQID: 'https://experienceleague.adobe.com/-UqDhrUEzKS1CfFLwIYxivC-W5bjCp8L4y-GQ5Prvkk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 635
+source-wordcount: '635'
 ht-degree: 92%
-
 ---
-
 # リリースノート：2025年1月 {#release-notes-jan-25}
 
 以下に、2025年1月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
@@ -35,7 +45,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-次の機能は標準リリースサイクルに該当し、リリースは **2025年1月17日（PT）**&#x200B;から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
+次の機能は標準リリースサイクルに該当し、リリースは **2025年1月17日（PT）**&#x200B;から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -45,7 +55,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
     <tr>
-   <td><strong>新しいメールデザイナー</strong>：Marketo Engage の新しいネイティブメールデザイナーを使用して、最新の効率的なメールを作成します。 事前に設計された標準のメールテンプレートの 1 つにアクセスするか、独自のテンプレートを簡単に作成します。 動的コンテンツを使用し、Adobe Experience Manager Cloud Services から画像にアクセスします。 コンテンツアクセラレーターの生成 AI 機能を使用して、革新的でパフォーマンスの高いメールを大規模に作成します。
+   <td><strong>新しいメールデザイナー</strong>：Marketo Engage の新しいネイティブメールデザイナーを使用して、最新の効率的なメールを作成します。 事前に設計された標準のメールテンプレートの 1 つにアクセスするか、独自のテンプレートを簡単に作成することができます。 動的コンテンツを使用し、Adobe Experience Manager Cloud Services から画像にアクセスします。 コンテンツアクセラレーターの生成 AI 機能を使用して、革新的でパフォーマンスの高いメールを大規模に作成します。
    <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：新しいメールデザイナーにアクセスするには、Marketo Engage サブスクリプションを <a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management システム（IMS）</a>に移行する必要があります。 まだ移行しておらず、迅速な対応をリクエストする場合は、アドビのアカウントチーム（担当のアカウントマネージャー）または <a href="https://nation.marketo.com/t5/support/ct-p/Support">Marketo サポート</a>にお問い合わせください。 コンテンツアクセラレーターの生成 AI 機能に対するアクセス権を取得するには、アドビのアカウントチームにお問い合わせください。</td>
    <td>リリース</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">メールデザイナー - 概要</a></td>
@@ -78,11 +88,11 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **ソーシャル機能の廃止**：2024年7月31日水曜日（PT）に、Marketo Engage では製品内の次のソーシャル機能の廃止を開始しました。
 
-   * 投票
-   * ソーシャルボタン
-   * 紹介オファー
-   * 動画の共有
-   * 懸賞
+  * 投票
+  * ソーシャルボタン
+  * 紹介オファー
+  * 動画の共有
+  * 懸賞
 
 この時点では、ユーザは Marketo Engage でこれらのソーシャル機能を作成、複製、埋め込むことができなくなりました。 既存のソーシャルアセットは、2025年1月31日（PT）まで引き続き機能します。 2025年2月1日（PT）をもって、ソーシャルアセットは機能しなくなります。 ランディングページに埋め込まれたソーシャル機能を削除する必要があります。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 

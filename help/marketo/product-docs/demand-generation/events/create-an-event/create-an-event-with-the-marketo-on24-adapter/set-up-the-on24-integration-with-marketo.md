@@ -3,18 +3,21 @@ description: MarketoとON24統合を設定する方法について説明しま�
 title: ON24 と Marketo の統合設定
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-TQID: https://experienceleague.adobe.com/qIKnrBwavLmy7tBqPTLvz72AJNIiVRzoEKQtH0OVgWg
+TQID: 'https://experienceleague.adobe.com/qIKnrBwavLmy7tBqPTLvz72AJNIiVRzoEKQtH0OVgWg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 299
+source-wordcount: '299'
 ht-degree: 74%
-
 ---
-
 # ON24 と Marketo の統合設定{#set-up-the-on24-integration-with-marketo}
 
 ON24 イベント統合を設定するには、次の手順に従います。
@@ -37,9 +40,9 @@ ON24 イベント統合を設定するには、次の手順に従います。
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
-## 新規ユーザを作成 {#create-a-new-user}
+## ユーザーの新規作成 {#create-a-new-user}
 
-1. 「[!UICONTROL ユーザ＆ロール]」で、「**[!UICONTROL ユーザ]**」タブをクリックし、「**[!UICONTROL 新規ユーザを招待]**」をクリックします。
+1. 「[!UICONTROL ユーザー＆ロール]」で、「**[!UICONTROL ユーザー]**」タブをクリックし、「**[!UICONTROL 新規ユーザーを招待]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-5.png)
 
@@ -69,7 +72,7 @@ ON24 イベント統合を設定するには、次の手順に従います。
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. [!UICONTROL 表示名]を選択します。 「**[!UICONTROL サービス]**」ドロップダウンをクリックし、「**[!UICONTROL カスタム]**」を選択します。 [!UICONTROL 説明]を入力します。 [!UICONTROL API 専用ユーザ]ドロップダウンをクリックし、[上記の手順](#create-a-new-user)で作成したユーザを選択します。 「**[!UICONTROL 作成]**」をクリックします。
+1. [!UICONTROL 表示名]を選択します。 「**[!UICONTROL サービス]**」ドロップダウンをクリックし、「**[!UICONTROL カスタム]**」を選択します。 [!UICONTROL 説明]を入力します。 [!UICONTROL API 専用ユーザー]ドロップダウンをクリックし、[上記の手順](#create-a-new-user)で作成したユーザーを選択します。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

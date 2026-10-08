@@ -4,26 +4,32 @@ description: Marketo EngageでSalesforce カスタムオブジェクトの同期
 title: カスタムオブジェクト同期の有効化／無効化
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/QdXTpcTi0eQKk8flu8HxHhaK2sEO4JRkeehq3KxDRo0
+TQID: 'https://experienceleague.adobe.com/QdXTpcTi0eQKk8flu8HxHhaK2sEO4JRkeehq3KxDRo0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart lists
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 234
+source-wordcount: '234'
 ht-degree: 89%
-
 ---
-
-# カスタムオブジェクト同期の有効化／無効化 {#enable-disable-custom-object-sync}
+# カスタムオブジェクト同期の有効化／無効化&#x200B; {#enable-disable-custom-object-sync}
 
 Salesforce インスタンスで作成されたカスタムオブジェクトも、Marketo Engage の一部にすることができます。 その設定方法を説明します。
 
-## カスタムオブジェクト同期の有効化／無効化 {#enable-disable-custom-object-sync-1}
+## カスタムオブジェクト同期の有効化／無効化&#x200B; {#enable-disable-custom-object-sync-1}
 
 >[!NOTE]
 >
@@ -79,7 +85,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
-1. 次に、フィルター制約を使用してフォーカスを絞り込みます。
+1. 次に、フィルター制約を使用して絞り込みの焦点を狭めます。
 
    ![](assets/image2015-8-24-14-3a18-3a53.png)
 

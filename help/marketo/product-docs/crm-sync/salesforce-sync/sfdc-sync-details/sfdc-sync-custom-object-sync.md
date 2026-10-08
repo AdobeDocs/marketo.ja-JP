@@ -4,23 +4,28 @@ description: SalesforceからMarketoへのカスタムオブジェクトの同�
 title: SFDC 同期 - カスタムオブジェクトの同期
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/JIkS3cBJD3SlUmKOJKUOuIXTbZyMTZ0LCdOgnz7SHSA
+TQID: 'https://experienceleague.adobe.com/JIkS3cBJD3SlUmKOJKUOuIXTbZyMTZ0LCdOgnz7SHSA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart lists
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 311
+source-wordcount: '319'
 ht-degree: 90%
-
 ---
-
 # SFDC 同期：カスタムオブジェクトの同期 {#sfdc-sync-custom-object-sync}
 
-[!DNL Salesforce] インスタンスで作成されたカスタムオブジェクトも、Marketo の一部にすることができます。  その設定方法を説明しましょう。
+[!DNL Salesforce] インスタンスで作成されたカスタムオブジェクトも、Marketo の一部にすることができます。  その設定方法を説明します。
 
 >[!NOTE]
 >
@@ -32,7 +37,7 @@ ht-degree: 90%
 
 >[!IMPORTANT]
 >
->Marketo 同期ユーザは、カスタムオブジェクトをリストし、同期を実行するために、カスタムオブジェクトへの読み取りアクセス権が必要です。
+>Marketo 同期ユーザーは、カスタムオブジェクトをリストし、同期を実行するために、カスタムオブジェクトへの読み取りアクセス権が必要です。&#x200B;
 
 ## カスタムオブジェクトの有効化  {#enable-custom-object}
 
@@ -66,7 +71,7 @@ ht-degree: 90%
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. 「**[!UICONTROL 同期を有効にする]**」をもう一度クリックします。
+1. 「**[!UICONTROL 同期を有効にする]**」を再度クリックします。
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -94,6 +99,6 @@ ht-degree: 90%
 
 ### 次の手順： {#whats-next}
 
-[スマートリスト／トリガー制約としてのカスタムオブジェクトフィールドの追加／の削除](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+[スマートリスト／トリガーの制約としてカスタムオブジェクトフィールドを追加／削除](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
 これで、このカスタムオブジェクトのデータをスマートキャンペーンとスマートリストで使用できるようになりました。

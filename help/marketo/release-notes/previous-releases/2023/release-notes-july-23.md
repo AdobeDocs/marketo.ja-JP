@@ -3,22 +3,30 @@ description: リリースノート - 2023年7月 – Marketo ドキュメント 
 title: リリースノート - 2023年7月
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-TQID: https://experienceleague.adobe.com/-7-rFhUAQhG90TYYv6TEUw8p9iDInRcAYM-I25fjR6E
+TQID: 'https://experienceleague.adobe.com/-7-rFhUAQhG90TYYv6TEUw8p9iDInRcAYM-I25fjR6E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+subfeature_v2:
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 664
+source-wordcount: '664'
 ht-degree: 65%
-
 ---
-
 # リリースノート：2023年7月 {#release-notes-july-23}
 
 2023年7月リリースに含まれるすべての機能を以下に示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
@@ -101,7 +109,7 @@ ht-degree: 65%
 
 </br>
 
-* **Sales Insight Actions**&#x200B;の購読解除の追加設定：購読解除の追加を解除する新しい設定オプションを使用して、購読解除メッセージをより詳細に制御できるようになりました。 新機能により、管理者は、いつ、どこに、どのような登録解除メッセージをセールスメールに表示するかを制御できます。
+* **Sales Insight Actions**&#x200B;の購読解除の追加設定：購読解除の追加を解除する新しい設定オプションを使用して、購読解除メッセージをより詳細に制御できるようになりました。 新機能により、管理者は、いつ、どこに、どのような購読解除メッセージをセールスメールに表示するかを制御できます。
 
 <table>
   <tr>

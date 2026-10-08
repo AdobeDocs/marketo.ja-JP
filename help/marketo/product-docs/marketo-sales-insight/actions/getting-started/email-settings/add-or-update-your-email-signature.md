@@ -3,19 +3,21 @@ description: Sales Insight Actionsで電子メール署名を追加または更�
 title: メール署名の追加または更新
 exl-id: 5a8c2ca2-2f27-4478-984b-f6b7c62b178d
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/D3WmFI421ngdFPd9t4evDUanachKNs-xHJlnYMkOWuU
+TQID: 'https://experienceleague.adobe.com/D3WmFI421ngdFPd9t4evDUanachKNs-xHJlnYMkOWuU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 123
+source-wordcount: '123'
 ht-degree: 86%
-
 ---
-
 # メール署名の追加または更新 {#add-or-update-your-email-signature}
 
-Marketo Sales からのメールは、自分のメールクライアントから送信する場合とシームレスなエクスペリエンスであるように感じたいものです。 これを行う最も良い方法は、電子メールの署名を追加することです。
+Marketo Sales からのメール送信が、自分のメールクライアントから送信する場合と同じようにシームレスなエクスペリエンスになるようにしたいと考えています。 そのための有効な方法として、メール署名を追加します。
 
 1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
@@ -39,4 +41,4 @@ Marketo Sales からのメールは、自分のメールクライアントから
 
    >[!TIP]
    >
-   >作成画面の署名が、メールクライアントに一覧表示されている署名に類似していることを確認します。
+   >作成画面の署名が、メールクライアントに表示されている署名と同様になっていることを確認します。

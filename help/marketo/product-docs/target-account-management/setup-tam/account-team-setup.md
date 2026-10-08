@@ -4,19 +4,24 @@ description: アカウントチームを設定し、CRM アカウントの役割
 title: アカウントチームの設定
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/UyREfPyH-7ICes5S0VhIcu-3MsS5TlNG40TcZ9z5w94
+TQID: 'https://experienceleague.adobe.com/UyREfPyH-7ICes5S0VhIcu-3MsS5TlNG40TcZ9z5w94'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '199'
 ht-degree: 82%
-
 ---
-
 # アカウントチームの設定 {#account-team-setup}
 
-アカウントチームは、特定のアカウントで共同作業する関係者のグループです。 次の手順に従って、追加する CRM アカウントの役割を選択します。
+アカウントチームは、重点アカウントで共同作業する関係者のグループです。 次の手順に従って、追加する CRM アカウントの役割を選択します。
 
 1. 「**[!UICONTROL 管理者]**」をクリックします。
 
@@ -32,7 +37,7 @@ ht-degree: 82%
 
    >[!NOTE]
    >
-   >「[!UICONTROL アカウントロール]」に名前を付け、CRM の目的のユーザルックアップフィールドと照合します。
+   >「[!UICONTROL アカウントロール]」に名前を付け、CRM の目的のユーザールックアップフィールドと照合します。
 
 1. [!UICONTROL アカウントロール]名を入力し、「**CRM**」フィールドを選択します。 10 個まで追加します。
 
@@ -52,6 +57,6 @@ ht-degree: 82%
 
    >[!NOTE]
    >
-   >* 異なるアカウント所有者を持つ複数の CRM アカウントが重点顧客に結合されると、Marketoは「アカウント所有者」を 1 つ選択し、他のアカウント所有者を「アカウント共有者」として追加します
+   >* 異なるアカウント所有者を持つ複数の CRM アカウントが重点アカウントに結合されると、Marketo は 1 つの「アカウント所有者」を選択し、他のアカウント所有者を「アカウント共同所有者」として追加します
    >
    >* CRM の「役割」フィールドが後で名前変更または削除された場合、Marketo TAM は、ユーザーが TAM で設定を手動で更新するまで、更新された値の同期を停止します

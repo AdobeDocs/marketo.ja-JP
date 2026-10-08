@@ -4,16 +4,18 @@ description: アプリ内メッセージを承認して起動する方法につ�
 title: アプリ内メッセージの承認
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs
+TQID: 'https://experienceleague.adobe.com/MODdLWOZwhG8ojcd1sZQdP9v-c9Jo8lKVngIvzJ4ZXs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 347
+source-wordcount: '347'
 ht-degree: 77%
-
 ---
-
 # アプリ内メッセージの承認 {#approve-your-in-app-message}
 
 アプリ内メッセージが送信される前に、送信を承認する必要があります。
@@ -50,7 +52,7 @@ ht-degree: 77%
 
    >[!NOTE]
    >
-   >一時停止の理由は、しばらくの間停止したり、メッセージを変更したり、スケジュールを調整したりする場合です。 ただし、別のメッセージに変更することはできません。既存のメッセージのみを編集することのみをできます。
+   >一時停止の理由は、しばらくの間停止したり、メッセージを変更したり、スケジュールを調整したりする場合です。 ただし、別のメッセージに変更することはできません。既存のメッセージのみ編集できます。
 
 1. 一時停止したプログラムの実行を継続する場合は、「**[!UICONTROL プログラムを再開]**」をクリックします。
 
@@ -66,7 +68,7 @@ ht-degree: 77%
 
    >[!NOTE]
    >
-   >停止されたプログラムは実行されなくなり、再開できません。 再度実行する場合は、再構築する必要があります。 そのため、「**[!UICONTROL プログラムを停止]**」をクリックする前に、プログラムを完了していることを確認してください。
+   >停止されたプログラムは実行されなくなり、再開できません。 再度実行する場合は、作成し直す必要があります。 そのため、「**[!UICONTROL プログラムを停止]**」をクリックする前に、プログラムを完了していることを確認してください。
 
 ## アプリ内ダッシュボード {#in-app-dashboard}
 

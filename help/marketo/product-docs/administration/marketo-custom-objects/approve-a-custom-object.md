@@ -4,20 +4,26 @@ description: 1対多、多対多、中間オブジェクトの要件を含め、
 title: カスタムオブジェクトの承認
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-TQID: https://experienceleague.adobe.com/CH2VbeVfaADWe4rVfRwgM3nrKXw85eMYbgCa99gTPFY
+TQID: 'https://experienceleague.adobe.com/CH2VbeVfaADWe4rVfRwgM3nrKXw85eMYbgCa99gTPFY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 303
+source-wordcount: '303'
 ht-degree: 47%
-
 ---
-
 # カスタムオブジェクトの承認 {#approve-a-custom-object}
 
 カスタムオブジェクトを使用するには、その前にカスタムオブジェクトを承認する必要があります。 プロセスは、新しいカスタムオブジェクトと編集したカスタムオブジェクトで若干異なります。
@@ -60,7 +66,7 @@ ht-degree: 47%
 
 ## 編集されたカスタムオブジェクトの承認 {#approve-an-edited-custom-object}
 
-承認済みのカスタムオブジェクトを編集した後、ドラフトを承認して、カスタムオブジェクトを承認済みのステートに戻す必要があります。
+承認済みのカスタムオブジェクトを編集した後、下書きを承認して、カスタムオブジェクトを承認済みの状態に戻す必要があります。
 
 1. 既に承認済みのカスタムオブジェクトを編集すると、[!UICONTROL 承認待ち下書きあり]ステートが返されます。
 
@@ -70,6 +76,6 @@ ht-degree: 47%
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. プレビューには、ドラフトで変更された項目が表示されます。 「**[!UICONTROL 承認]**」をクリックします。
+1. プレビューには、下書きで変更された項目が表示されます。 「**[!UICONTROL 承認]**」をクリックします。
 
    ![](assets/approve-a-custom-object-8.png)

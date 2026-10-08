@@ -1,22 +1,27 @@
 ---
 unique-page-id: 4720710
 description: DNSでSPFとDKIMを設定して、メールの配信品質を向上させる方法を説明します。 Marketoが迷惑メールとして送信することを許可し、迷惑メールフラグを削減します。
-title: メール到達率のための SPF と DKIM の設定
+title: メール配信品質向上のための SPF と DKIM の設定
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs
+TQID: 'https://experienceleague.adobe.com/ZZvIOz7gmqXEht3xw1Pj1tabkQqjvGokF0BgOjdNzjs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 432
+source-wordcount: '433'
 ht-degree: 71%
-
 ---
+# メール配信品質向上のための SPF と DKIM の設定 {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-# メール到達率のための SPF と DKIM の設定 {#set-up-spf-and-dkim-for-your-email-deliverability}
-
-メール到達率を向上させるための簡単な方法の 1 つは、**SPF**（送信者ポリシーの枠組み）および **DKIM**（ドメインキー識別メール）を DNS 設定に追加することです。 このDNS エントリに加えて、Marketoが自分に代わってメールを送信することを許可したことを受信者に伝えます。 この変更がないと、メールはドメインから送信されるが Marketo ドメインの IP アドレスから送信されるので、メールがスパムとしてマークされる可能性が高くなります。
+メール到達率を向上させるための簡単な方法の 1 つは、**SPF**（送信者ポリシーの枠組み）および **DKIM**（ドメインキー識別メール）を DNS 設定に追加することです。 このDNS エントリに加えて、Marketoが自分に代わってメールを送信することを許可したことを受信者に伝えます。 この変更を行わないと、メールは差出人としては自社ドメインが指定されている一方で、実際の送信元は Marketo ドメインの IP アドレスとなるため、スパムとしてマークされる可能性が高くなります。
 
 >[!CAUTION]
 >
@@ -40,11 +45,11 @@ include:mktomail.com
 
 **DKIM とは DKIM を設定する理由**
 
-DKIM は、メールの受信者が、メールの送信者によってメールメッセージが送信されたかどうかを判断するために使用される認証プロトコルです。 多くの場合、受信者はメッセージが偽造ではないと確信できるので、DKIM はインボックスへのメールの到達率を向上させます。
+DKIM は、メール受信者が、そのメールメッセージが表示されている送信者本人から実際に送信されたものかどうかを判断するために使用される認証プロトコルです。 多くの場合、受信者はメッセージが偽造ではないと確信できるので、DKIM はメールのインボックスへの配信品質を向上させます。
 
 **DKIM の仕組み**
 
-DNS レコードで公開鍵を設定し、「管理」セクション（A）で送信ドメインをアクティブ化すると、Marketoは送信メッセージに対するカスタム DKIM署名を有効にします。この署名には、送信メッセージに代わって送信される電子メールごとに暗号化されたデジタル署名が含まれます（B）。 受信者は、送信ドメインの DNS の「公開鍵」（C）を検索することで、デジタル署名を復号化できます。 電子メールのキーが DNS レコードのキーに対応している場合、受信側のメールサーバーは、Marketo がお客様に代わって送信したメールを受け入れる可能性が高くなります。
+DNS レコードで公開鍵を設定し、「管理」セクション（A）で送信ドメインをアクティブ化すると、Marketoは送信メッセージに対するカスタム DKIM署名を有効にします。この署名には、送信メッセージに代わって送信される電子メールごとに暗号化されたデジタル署名が含まれます（B）。 受信者は、送信ドメインの DNS の「公開鍵」（C）を検索することで、デジタル署名を復号できます。 メール内のキーが DNS レコードのキーに対応している場合、受信側のメールサーバーは、Marketo がお客様に代わって送信したメールを受け入れる可能性が高くなります。
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 

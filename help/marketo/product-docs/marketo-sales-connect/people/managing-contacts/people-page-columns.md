@@ -4,16 +4,18 @@ description: セールスコネクトの人物ページ列について説明し�
 title: 人物ページの列
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dFBARNGsQ7x-3gilAkQY-vVfQZ-spiRIAGgvzcqiDvk
+TQID: 'https://experienceleague.adobe.com/dFBARNGsQ7x-3gilAkQY-vVfQZ-spiRIAGgvzcqiDvk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 308
+source-wordcount: '308'
 ht-degree: 93%
-
 ---
-
 # 人物ページの列 {#people-page-columns}
 
 表示する列を選択して、表示する取引先責任者情報をカスタマイズするオプションがあります。
@@ -41,7 +43,7 @@ ht-degree: 93%
    <th>説明</th>
   </tr>
   <tr>
-   <td>[!UICONTROL 名前（名）（デフォルト）]</td>
+   <td>[!UICONTROL 名（デフォルト）]</td>
    <td>名前（名）</td>
   </tr>
   <tr>
@@ -66,7 +68,7 @@ ht-degree: 93%
   </tr>
   <tr>
    <td>[!UICONTROL キャンペーン（デフォルト）]</td>
-   <td>人物に対して現在実施中のセールスキャンペーン</td>
+   <td>この人物が現在参加しているセールスキャンペーン</td>
   </tr>
   <tr>
    <td># [!UICONTROL キャンペーン]</td>
@@ -82,7 +84,7 @@ ht-degree: 93%
   </tr>
   <tr>
    <td>[!UICONTROL タスク期限]</td>
-   <td>タスクの期限</td>
+   <td>タスクの期日</td>
   </tr>
   <tr>
    <td># [!UICONTROL イベント（デフォルト）]</td>
@@ -90,11 +92,11 @@ ht-degree: 93%
   </tr>
   <tr>
    <td># [!UICONTROL アクティビティ（デフォルト）]</td>
-   <td>このリードに対してユーザが行ったアクティビティの合計数（メール、通話、タスク）</td>
+   <td>このリードに対してユーザーが行ったアクティビティの合計数（メール、通話、タスク）</td>
   </tr>
   <tr>
    <td>[!UICONTROL 同意]</td>
-   <td><p>正当な利益、契約の履行、法的義務の遵守、重大利益の保護、公益／職務権限等</p></td>
+   <td><p>正当な利益、契約の履行、法的義務の遵守、重大利益の保護、公益／職務権限、その他</p></td>
   </tr>
   <tr>
    <td>[!UICONTROL オープンタスク]</td>
@@ -114,15 +116,15 @@ ht-degree: 93%
   </tr>
   <tr>
    <td>[!UICONTROL 最終更新日]</td>
-   <td>人物レコードの最終更新日：</td>
+   <td>人物レコードの最終更新日</td>
   </tr>
   <tr>
    <td>[!UICONTROL 作成者]</td>
-   <td>人物を作成したユーザの名前</td>
+   <td>人物を作成したユーザーの名前</td>
   </tr>
   <tr>
    <td>[!UICONTROL ソース]</td>
-   <td>人物が作成されたソース元</td>
+   <td>人物が作成されたソース</td>
   </tr>
   <tr>
    <td>[!UICONTROL グループ（デフォルト）]</td>

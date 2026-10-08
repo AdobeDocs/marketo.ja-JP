@@ -4,21 +4,25 @@ description: 人物データの更新 - Marketo ドキュメント - 製品ド�
 title: 人物データの更新
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/-8fM9lrZT-YHWzC08KAsM917s-QfP-j-NisIydqSG0o
+TQID: 'https://experienceleague.adobe.com/-8fM9lrZT-YHWzC08KAsM917s-QfP-j-NisIydqSG0o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 182
+source-wordcount: '182'
 ht-degree: 100%
-
 ---
-
 # 人物データの更新 {#update-person-data}
 
 ## ミッション：人物の取引先責任者情報またはその他のデータを更新する {#mission-update-a-persons-contact-info-or-other-data}
@@ -28,7 +32,7 @@ ht-degree: 100%
 >* [セットアップと人物の追加](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
-最近の展示会で、ある人から追加の連絡先情報を提供されたとします。 人物データの更新方法を以下に示します。
+最近の展示会で、ある人から追加の連絡先情報を提供されたとします。 人物のデータの更新方法を以下に示します。
 
 ## 更新する人物を検索する {#find-the-person-you-need-to-update}
 
@@ -36,7 +40,7 @@ ht-degree: 100%
 
    ![](assets/update-person-data-1.png)
 
-1. 人物の名前またはメールアドレスを検索します。
+1. 対象の人物の名前またはメールアドレスを検索します。
 
    >[!TIP]
    >
@@ -50,9 +54,9 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >Marketo では、人物データを更新する方法がたくさんあります。 詳しくは、[人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}および[データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}を参照してください。
+   >Marketo では、人物のデータを更新する方法がたくさんあります。 詳しくは、[人物のリストのインポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}および[データ値の変更](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}を参照してください。
 
-## 人物データを更新する {#update-the-person-data}
+## 人物のデータを更新する {#update-the-person-data}
 
 1. 受け取った新しい情報を入力し、タブを閉じます。
 

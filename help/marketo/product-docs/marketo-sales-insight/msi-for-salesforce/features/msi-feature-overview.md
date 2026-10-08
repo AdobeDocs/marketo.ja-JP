@@ -4,20 +4,23 @@ description: SalesforceのMarketo Sales Insight機能について説明します
 title: MSI 機能の概要
 exl-id: e6cd988c-afba-44e3-b240-68258236f344
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g
+TQID: 'https://experienceleague.adobe.com/UrYSPhY-9gQPzMHZIMHDIdrAJbZQt8lzNbEO4D-OE8g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 946
+source-wordcount: '946'
 ht-degree: 97%
-
 ---
-
 # MSI 機能の概要 {#msi-feature-overview}
 
 MSI には、[!DNL Salesforce] Lightning および Classic で使用できる次の機能があります。
@@ -32,17 +35,17 @@ MSI Visualforce パネルには、次の機能が含まれています。
 
 * タブ
 
-   * [Insights ダッシュボード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
-   * 注目のアクション
-   * Web アクティビティ
-   * メール
-   * スコア
+  * [Insights ダッシュボード](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
+  * 注目のアクション
+  * Web アクティビティ
+  * メール
+  * スコア
 
 * アクション
 
-   * Marketo キャンペーンに追加
-   * Marketo メールの送信
-   * ウォッチリストに追加／ウォッチリストから変更
+  * Marketo キャンペーンに追加
+  * Marketo メールの送信
+  * ウォッチリストに追加／ウォッチリストから削除
 
 * 星と炎
 
@@ -58,8 +61,8 @@ Visualforce ページ：
 フィールド：
 
 * 最新の注目のアクション
-* 最新の注目のアクション発生日
-* 最新の注目のアクションの詳細
+* 最新の注目のアクション日付
+* 最新の注目のアクションの説明
 * 最新の注目のアクションのソース
 * 最新の注目のアクションのタイプ
 * セールスによる最後の Marketo アクティビティ
@@ -75,16 +78,16 @@ Visualforce ページ：
 
 Visualforce ページ：
 
-* 取引先責任者 - ハイパーリンクが付いた「完全なリストに移動」をクリックすると、Salesforce の新しいタブに移動し、MSI パネルが完全なページレイアウトで表示されるオプションが含まれます
-* 取引先責任者の完全なリスト - 「完全なリストに移動」オプションは含まれません
+* 取引先責任者 - ハイパーリンク付きの「完全なリストに移動」をクリックすると、Salesforce の新しいタブが開き、MSI パネルがページ全体のレイアウトで表示されます
+* 取引先責任者フルリスト - 「完全なリストに移動」オプションは含まれません
 * 取引先責任者（モバイル） - Salesforce モバイルアプリケーションで表示できます
 * Marketo Campaign の取引先責任者ページに追加 - 「Marketo Campaign に追加」機能は、このパネル内で使用できます。
 
 フィールド：
 
 * 最新の注目のアクション
-* 最新の注目のアクション発生日
-* 最新の注目のアクションの詳細
+* 最新の注目のアクション日付
+* 最新の注目のアクションの説明
 * 最新の注目のアクションのソース
 * 最新の注目のアクションのタイプ
 * セールスによる最後の Marketo アクティビティ
@@ -101,7 +104,7 @@ Visualforce ページ：
 Visualforce ページ：
 
 * アカウント - ハイパーリンクが付いた「完全なリストに移動」をクリックすると、Salesforce の新しいタブに移動し、MSI パネルが完全なページレイアウトで表示されるオプションが含まれます
-* アカウントの完全なリスト - 「完全なリストに移動」オプションは含まれません
+* アカウント完全なリスト -「完全なリストに移動」オプションは含まれません
 * アカウント（モバイル） - Salesforce モバイルアプリケーションで表示できます
 
 フィールド：
@@ -112,7 +115,7 @@ Visualforce ページ：
 
 * Marketo キャンペーンに追加
 * Marketo メールの送信
-* ウォッチリストに追加／ウォッチリストから変更
+* ウォッチリストに追加／ウォッチリストから削除
 
 次の機能は、アカウントのレイアウトページでは&#x200B;**使用できません**。
 
@@ -122,8 +125,8 @@ Visualforce ページ：
 
 Visualforce ページ：
 
-* 商談 - ハイパーリンクが付いた「完全なリストに移動」をクリックすると、Salesforce の新しいタブに移動し、MSI パネルが完全なページレイアウトで表示されるオプションが含まれます
-* 商談の完全なリスト - 「完全なリストに移動」オプションは含まれません
+* 商談 - ハイパーリンク付きの「完全なリストに移動」をクリックすると、Salesforce の新しいタブが開き、MSI パネルがページ全体のレイアウトで表示されます
+* 商談完全なリスト - 「完全なリストに移動」オプションは含まれません
 * 商談（モバイル） - Salesforce モバイルアプリケーションで表示できます
 
 フィールド：
@@ -135,7 +138,7 @@ Visualforce ページ：
 
 * Marketo キャンペーンに追加
 * Marketo メールの送信
-* ウォッチリストに追加／ウォッチリストから変更
+* ウォッチリストに追加／ウォッチリストから削除
 
 次の機能は、商談のレイアウトページでは&#x200B;**使用できません**。
 
@@ -151,47 +154,47 @@ Visualforce ページ：
 
 * [!DNL Best Bets]
 
-   * ビューを作成および編集する機能が含まれます。 Marketo 設定ページの「デフォルトで非表示」オプションの設定に応じて、最優先を非表示にする機能
-   * 列 - 名前、アカウント、注目のアクション、ステータスヘッダー、エンゲージメント（星と炎）、非表示
+  * ビューを作成および編集する機能が含まれます。 Marketo 設定ページの「デフォルトで非表示」オプションの設定に応じて、最優先を非表示にする機能
+  * 列 - 名前、アカウント、最終インタレストモーメント、ステータスヘッダー、エンゲージメント（星と炎）、非表示
 
 * マイウォッチリスト
 
-   * ビューの作成と編集が可能
-   * 列 - 名前、アカウント、注目のアクション、ステータスヘッダー、エンゲージメント（星と炎）、削除
+  * ビューの作成と編集が可能
+  * 列 - 名前、アカウント、注目のアクション、ステータスヘッダー、エンゲージメント（星と炎）、削除
 
 * Web アクティビティ
 
-   * ビューの作成と編集、時間枠フィルタリング機能を含む
-   * 列 - ページビュー、名前、アカウント、最終訪問
+  * ビューの作成と編集が可能で、時間枠フィルター機能があります
+  * 列 - ページビュー、名前、アカウント、最終訪問
 
 * 匿名の Web アクティビティ
 
-   * ビューの作成と編集、時間枠フィルタリング機能を含む
-   * 列 - ページビュー、会社、前回の訪問、調査（会社の LinkedIn ページを開く）
+  * ビューの作成と編集が可能で、時間枠フィルター機能があります
+  * 列 - ページビュー、会社、前回の訪問、調査（会社の LinkedIn ページを開く）
 
 * メール
 
-   * ビューの作成と編集が可能
-   * 列 - 名前、アカウント、件名、日付、開封、クリック
+  * ビューの作成と編集が可能
+  * 列 - 名前、アカウント、件名、日付、開封、クリック
 
-* リードフィード - 注目のアクションを購読する機能が含まれます。この機能を使用するには、設定ページの RSS フィードを有効にする必要があります
+* リードフィード - 注目のアクションを購読できる機能です。この機能を使用するには、設定ページで RSS フィードを有効にする必要があります。
 
-   * この注目のアクションをおこなったリード／取引先責任者
-   * 注目のアクションのタイプ（web、メール、またはマイルストーン）および説明
-   * アカウント名
-   * 注目のアクションの発生時刻
-   * このタイプのイベントのメール通知を受信する購読オプション
-   * この人を表示する高優先度アイコンは、「最有望見込客」です
+  * この注目のアクションをおこなったリード／取引先責任者
+  * 注目のアクションのタイプ（web、メール、またはマイルストーン）および説明
+  * アカウント名
+  * 注目のアクションの発生時刻
+  * このタイプのイベントのメール通知を受信する購読オプション
+  * この人物が「最有望見込客」であることを示す高優先度アイコン
 
 ## 「[!DNL Marketo Sales Insight] 設定」タブ {#marketo-sales-insight-configuration-tab}
 
 * 操作の設定：SFDC での MSI の設定に必要な Soap および Rest API の資格情報を含みます
-* MSI 構成：Marketo タブと MSI visualforce パネルの設定が含まれます
+* MSI 設定：Marketo タブと MSI Visualforce パネルの設定が含まれます
 * [!DNL Marketo Sales Insight] をリセット：すべての設定を消去する機能が含まれます
 
 >[!MORELIKETHIS]
 >
-> [!DNL Salesforce][&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md) での「[!DNL Marketo Sales Insight]  設定」タブ
+> [!DNL Salesforce]&#x200B;[&#128279;](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md) での「[!DNL Marketo Sales Insight]  設定」タブ
 
 ## [!DNL Sales Insight] パフォーマンスレポート {#sales-insight-performance-reports}
 

@@ -4,24 +4,28 @@ description: プッシュメッセージとアプリ内メッセージを作成�
 title: プッシュ通知およびアプリ内メッセージを作成する前に
 exl-id: c7e24338-387b-4c6f-bb29-7f7e6a1a7de5
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/YNAyIX3spLETvHChasi9xpP9K96ksYdkr-MSdGp2qog
+TQID: 'https://experienceleague.adobe.com/YNAyIX3spLETvHChasi9xpP9K96ksYdkr-MSdGp2qog'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 417
+source-wordcount: '417'
 ht-degree: 80%
-
 ---
-
 # プッシュ通知およびアプリ内メッセージを作成する前に {#before-you-create-push-notifications-and-in-app-messages}
 
-プッシュ通知やアプリ内メッセージの作成は容易ですが、開始する前にすべてを準備する必要があります。 Marketo 管理者およびモバイルアプリデベロッパーは、必要な統合を準備するために、以下の手順に従う必要があります。
+プッシュ通知やアプリ内メッセージの作成は容易ですが、開始する前にすべてを準備する必要があります。 Marketo 管理者およびモバイルアプリ開発者は、必要な統合を準備するために、以下の手順に従う必要があります。
 
 1. まず、Marketo 管理者が[モバイルアプリを追加](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md)します。
 

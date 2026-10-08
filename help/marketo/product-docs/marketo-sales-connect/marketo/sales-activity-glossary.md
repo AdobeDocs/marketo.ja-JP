@@ -3,21 +3,23 @@ description: セールスコネクトのセールスアクティビティの用�
 title: セールスアクティビティ用語集
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo
+TQID: 'https://experienceleague.adobe.com/g4y3kjwpavHDfQmjlzw-uaBEVJsCafpldUBHQKdjaLo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 597
+source-wordcount: '597'
 ht-degree: 96%
-
 ---
-
 # セールスアクティビティ用語集 {#sales-activity-glossary}
 
-Sales Connect で、販売者がセールスケイデンスにリードを追加したり、メールを送信したり、通話をアクティビティに送信したりすると、Marketo のアクティビティ履歴に記録されます。 さらに、リードがメールに関与した場合、開封数、クリック数、返信数もログに記録されます。
+セールスコネクトでは、販売者がリードをセールスケイデンスに追加したり、リードにメールを送信したり、リードに電話をかけたりすると、そのアクティビティは Marketo のアクティビティ履歴に記録されます。 さらに、リードがメールに関与した場合、開封数、クリック数、返信数もログに記録されます。
 
 以下のアクティビティは、[!DNL Sales Connect] から Marketo に記録されます。
 
@@ -49,7 +51,7 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   <td>[!UICONTROL セールスキャンペーン] URL</td>
  </tr>
  <tr>
-  <td>[!UICONTROL セールステンプレート] 名</td>
+  <td>[!UICONTROL セールステンプレート] 名称</td>
  </tr>
  <tr>
   <td>[!UICONTROL メール件名]</td>
@@ -131,7 +133,7 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
  </tr>
  <tr>
   <th rowspan="11">セールス電話を受信</th>
-  <td>[!UICONTROL セールス電話発信者]</td>
+  <td>[!UICONTROL セールス電話担当者]</td>
  </tr>
  <tr>
   <td>[!UICONTROL セールス電話ステータス]</td>
@@ -146,19 +148,19 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   <td>[!UICONTROL セールスキャンペーン URL]</td>
  </tr>
  <tr>
-  <td>[!UICONTROL セールス電話の発信先電話番号]</td>
+  <td>[!UICONTROL 通話したセールス電話番号]</td>
  </tr>
  <tr>
   <td>ソース</td>
  </tr>
  <tr>
-  <td>[!UICONTROL セールス電話の長さ]</td>
+  <td>[!UICONTROL セールス電話通話時間]</td>
  </tr>
  <tr>
   <td>[!UICONTROL セールス電話録音 URL]</td>
  </tr>
   <tr>
-  <td>[!UICONTROL セールス電話対応者]</td>
+  <td>[!UICONTROL セールス電話応対者]</td>
  </tr>
  <tr>
   <td>[!UICONTROL Marketo セールス担当者 ID]</td>
@@ -248,19 +250,19 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
    <td>メール送信者のメールアドレス。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL セールス電話対応者]</strong></td>
+   <td><strong>[!UICONTROL セールス電話応対者]</strong></td>
    <td>電話に出た人の名前。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL セールス電話の長さ]</strong></td>
+   <td><strong>[!UICONTROL セールス電話通話時間]</strong></td>
    <td>電話の長さ（秒）。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL セールス電話発信者]</strong></td>
-   <td>電話をかけた人のメールアドレス。</td>
+   <td><strong>[!UICONTROL セールス電話担当者]</strong></td>
+   <td>電話をかけたセールス担当者のメールアドレス。</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL セールス電話録音 URL]</strong></td>
+   <td><strong>[!UICONTROL セールス電話レコーディング URL]</strong></td>
    <td>通話記録の URL。</td>
   </tr>
   <tr>
@@ -269,7 +271,7 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   </tr>
   <tr>
    <td><strong>[!UICONTROL セールス電話件名]</strong></td>
-   <td>ダイヤラー内でセールスユーザによって選択された電話の結果。</td>
+   <td>ダイヤラー内でセールスユーザーによって選択された通話の結果です。</td>
   </tr>
   <tr>
    <td><strong>[!UICONTROL セールスキャンペーン ID]</strong></td>
@@ -285,10 +287,10 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   </tr>
   <tr>
    <td><strong>[!UICONTROL セールスメール件名]</strong></td>
-   <td>メールの件名行と一意の ID（例：件名（MSC-12345678）</td>
+   <td>メールの件名行と一意の ID（例：My Subject Line（MSC-12345678））</td>
   </tr>
   <tr>
-   <td><strong>[!UICONTROL セールス電話の発信先電話番号]</strong></td>
+   <td><strong>[!UICONTROL 通話したセールス電話番号]</strong></td>
    <td>セールスが発信した電話番号。</td>
   </tr>
   <tr>
@@ -309,7 +311,7 @@ Sales Connect で、販売者がセールスケイデンスにリードを追加
   </tr>
   <tr>
    <td><strong>[!UICONTROL テンプレート ID]</strong></td>
-   <td>ソースが Tout の場合、テンプレート ID は [!DNL Marketo Sales Connect] テンプレート ID になります。 複数のテンプレートに存在する可能性のある件名の代わりに、特定のテンプレートをターゲットにする場合に使用します。
+   <td>ソースが Tout の場合、テンプレート ID は [!DNL Marketo Sales Connect] テンプレート ID になります。 複数のテンプレートで同じ件名が使用されている可能性がある場合に、件名ではなく特定のテンプレートを対象とするために使用します。
 </td>
   </tr>
  </tbody>

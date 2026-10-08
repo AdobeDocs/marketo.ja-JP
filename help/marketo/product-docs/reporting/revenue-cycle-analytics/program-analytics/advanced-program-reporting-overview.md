@@ -4,13 +4,19 @@ description: 高度なプログラムレポートの概要など、Marketo Engag
 title: 高度なプログラムレポートの概要
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 92%
-
 ---
-
 # 高度なプログラムレポートの概要 {#advanced-program-reporting-overview}
 
 **収益サイクルエクスプローラー**&#x200B;には、プログラムの有効性を測定できる、様々な分析領域と様々な新しい指標が含まれています。
@@ -49,10 +55,10 @@ ht-degree: 92%
 
 >[!CAUTION]
 >
->「測定」セルが空白（最初のチェックボックス）のままの行／列を表示するオプションはありますが、処理が遅くなり、レポートがタイムアウトする場合もあるので、このオプションは使用しないことをお勧めします。
+>Measure セルが空白（最初のチェックボックス）のままの行／列を表示するオプションはありますが、処理が大幅に遅くなり、レポートがタイムアウトする場合もあるので、そのような設定にすることはお勧めしません。
 
 >[!NOTE]
 >
->収益サイクルエクスプローラーのデータは、Marketo のインスタンスから毎晩アップデートされます。 したがって、Marketo 内の個人および顧客アクティビティに加えた変更は、次の営業日に収益サイクルエクスプローラーに反映されます。
+>収益サイクルエクスプローラーのデータは、Marketo のインスタンスから毎晩アップデートされます。 したがって、Marketo 内の人物およびアカウントアクティビティに加えた変更は、次の営業日に収益サイクルエクスプローラーに反映されます。
 
 収益分析に慣れると、プログラムとその影響に関する完全なインサイトが得られます。

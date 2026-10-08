@@ -4,13 +4,19 @@ description: 承認ステージと承認ステージを含む、Marketo Engage�
 title: ステージの承認と収益モデルへのリードの割り当て
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '354'
 ht-degree: 86%
-
 ---
-
 # ステージの承認と収益モデルへのリードの割り当て {#approving-stages-and-assigning-leads-to-a-revenue-model}
 
 既存のリードを追加し、新しいリードの割り当てルールを作成して、**収益モデル**&#x200B;を稼働させます。

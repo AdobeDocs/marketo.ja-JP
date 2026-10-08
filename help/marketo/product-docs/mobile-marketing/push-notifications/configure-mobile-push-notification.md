@@ -3,22 +3,25 @@ description: モバイルプッシュ通知の設定方法について説明し�
 title: モバイルプッシュ通知の設定
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw
+TQID: 'https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 521
+source-wordcount: '521'
 ht-degree: 66%
-
 ---
-
 # モバイルプッシュ通知の設定 {#configure-mobile-push-notification}
 
-1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
+1. **[!UICONTROL マーケティング活動]**&#x200B;領域に移動します。
 
    ![](assets/configure-mobile-push-notification-1.png)
 
@@ -68,7 +71,7 @@ ht-degree: 66%
 
    ![](assets/configure-mobile-push-notification-8.png)
 
-1. 「**[!UICONTROL 承認して閉じる]**」をクリックします。
+1. 「**[!UICONTROL 承認して終了]**」をクリックします。
 
    ![](assets/configure-mobile-push-notification-9.png)
 
@@ -82,9 +85,9 @@ ht-degree: 66%
 
 ## ディープリンク URI {#deep-link-uris}
 
-購読者がプッシュメッセージのボタンをクリックすると、アプリのホームページに直接移動するか、アプリ内の特定のページに直接移動できます。 ディープリンクは、アプリ内の特定のページへの一意の参照で、web サイトリンクのように見えます。
+購読者がプッシュメッセージのボタンをクリックすると、アプリのホームページか、アプリ内の特定のページに移動できます。 ディープリンクは、アプリ内の特定のページへの一意の参照で、web サイトリンクのように見えます。
 
-ディープリンク URI は、スキーム名、パス、識別子の 3 つの部分で構成されます。 以下の例では、「myappname」がスキームです。 「products」はパスで、「purple-shirt」は識別子です。 顧客がタップすると、アプリの製品ページ内（具体的には紫色のシャツアイテム）に移動します。
+ディープリンク URI は、スキーム名、パス、識別子の 3 つの部分で構成されます。 以下の例では、「myappname」がスキームです。 「products」はパスで、「purple-shirt」は識別子です。 顧客がタップすると、アプリの製品ページ内にある紫色のシャツのアイテムに直接移動します。
 
 ![](assets/configure-mobile-push-notification-10.png)
 

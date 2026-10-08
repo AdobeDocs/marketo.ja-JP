@@ -4,25 +4,30 @@ description: login and user management login-and-user-managementを使用して�
 title: ログインとユーザー管理
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/YDr1WsoffJR07q6pyCNZt2zU1dtgYUueaIae-aW2qj4
+TQID: 'https://experienceleague.adobe.com/YDr1WsoffJR07q6pyCNZt2zU1dtgYUueaIae-aW2qj4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 326
+source-wordcount: '326'
 ht-degree: 85%
-
 ---
-
 # ログインとユーザー管理 {#login-and-user-management}
 
-## [!UICONTROL Web パーソナライゼーション]ユーザロールの作成 {#create-a-web-personalization-user-role}
+## [!UICONTROL Web パーソナライゼーション]ユーザーロールの作成 {#create-a-web-personalization-user-role}
 
 1. **[!UICONTROL 管理者]**&#x200B;セクションに移動して、「**[!UICONTROL ユーザーと役割]**」をクリックします。
 
@@ -48,21 +53,21 @@ ht-degree: 85%
    >
    >ターゲティングとパーソナライズ機能のすべての項目に対するアクセス権をユーザーに与えるには、必ず&#x200B;_すべて_&#x200B;のチェックボックスを選択します。
 
-## [!UICONTROL Web パーソナライゼーション]および予測コンテンツのユーザ権限 {#web-personalization-and-predictive-content-user-permissions}
+## [!UICONTROL Web パーソナライゼーション]および予測コンテンツのユーザー権限 {#web-personalization-and-predictive-content-user-permissions}
 
 **[!UICONTROL ターゲティングとパーソナライゼーション]**：この権限のみが選択されている場合、ユーザーは表示のみの権限を持ちます。
 
-**[!UICONTROL Web パーソナライゼーションと予測の管理]**：ユーザは、web パーソナライゼーションおよび予測コンテンツアプリのアカウント設定とコンテンツ設定にのみアクセスできます。 ユーザーはアプリ内のページを表示できますが、作成、編集、削除、起動の権限はありません。
+**[!UICONTROL Web パーソナライゼーションと予測の管理]**：ユーザーは、web パーソナライゼーションおよび予測コンテンツアプリのアカウント設定とコンテンツ設定にのみアクセスできます。 ユーザーはアプリ内のページを表示できますが、作成、編集、削除、起動の権限はありません。
 
 **[!UICONTROL 予測コンテンツエディター]**：ユーザーは予測コンテンツアプリにエディターアクセスできます。 権限を使用して、コンテンツを作成、編集、削除できます。 Web やメールでの予測用にコンテンツを有効にすることはできません。
 
 **[!UICONTROL 予測コンテンツランチャー]**：ユーザーは、アカウントとコンテンツの設定を除く、すべての予測コンテンツ機能にアクセスできます。 この権限を使用して、コンテンツの作成、編集、削除、有効化をおこなうことができます。
 
-**[!UICONTROL Web キャンペーンエディター]**：ユーザは、すべての web パーソナライゼーションに対してエディターアクセス権を持ち、web キャンペーンの作成、編集および削除は行うことができますが、web キャンペーンを起動することはできません。
+**[!UICONTROL Web キャンペーンエディター]**：ユーザーは、すべての web パーソナライゼーションに対してエディターアクセス権を持ち、web キャンペーンの作成、編集および削除は行うことができますが、web キャンペーンを起動することはできません。
 
-**[!UICONTROL Web キャンペーンランチャー]**：ユーザは、アカウントとコンテンツの設定を除く、すべての web パーソナライゼーションアプリ機能にアクセスできます。 この権限を使用して、web キャンペーンを作成、編集、削除、開始をおこなうことができます。
+**[!UICONTROL Web キャンペーンランチャー]**：ユーザーは、アカウントとコンテンツの設定を除く、すべての web パーソナライゼーションアプリ機能にアクセスできます。 この権限を使用して、web キャンペーンの作成、編集、削除、およびローンチを行うことができます。
 
-## WP ロールをユーザに割り当てる {#assign-wp-role-to-user}
+## WP ロールをユーザーに割り当てる {#assign-wp-role-to-user}
 
 1. **[!UICONTROL ユーザー]**&#x200B;に移動します。
 
@@ -72,7 +77,7 @@ ht-degree: 85%
 
    ![](assets/image2015-4-29-11-3a38-3a46.png)
 
-1. すべてのワークスペースの WP ユーザロールを選択します。
+1. すべてのワークスペースの WP ユーザーロールを選択します。
 
    ![](assets/seven.png)
 

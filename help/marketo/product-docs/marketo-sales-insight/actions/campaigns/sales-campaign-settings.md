@@ -3,19 +3,21 @@ description: 週末をスキップ、バウンス時に削除、返信動作な�
 title: セールスキャンペーンの設定
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/tbl9d2EB2zRstu4eR0skifWv5CaIpd5-6lPR6fImkQ0
+TQID: 'https://experienceleague.adobe.com/tbl9d2EB2zRstu4eR0skifWv5CaIpd5-6lPR6fImkQ0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: '236'
 ht-degree: 84%
-
 ---
-
 # セールスキャンペーンの設定 {#sales-campaign-settings}
 
-「セールスキャンペーンの設定」セクションでは、特定のセールスキャンペーンを設定し、そのセールスキャンペーンに対するチームのユースケースに最適に機能するようにできます。
+「セールスキャンペーン設定」セクションでは、特定のセールスキャンペーンを設定し、そのセールスキャンペーンがチームのユースケースに最適な形で機能するように構成できます。
 
 ## 週末のスキップ {#skip-weekends}
 
@@ -43,7 +45,7 @@ ht-degree: 84%
 
 ## バウンス時に削除 {#remove-on-bounce}
 
-電子メール接続を使用している場合、ユーザーの受信トレイに送信されたバウンスメッセージに基づいてバウンスを検出します。 さらに、バウンスが検出された場合にセールスキャンペーンから人物を削除できます。
+電子メール接続を使用している場合、ユーザーの受信トレイに送信されたバウンスメッセージに基づいてバウンスを検出します。 さらに、バウンスが検出された場合に、セールスキャンペーンから人物を削除できます。
 
 1. 「**[!UICONTROL キャンペーン]**」をクリックします。
 

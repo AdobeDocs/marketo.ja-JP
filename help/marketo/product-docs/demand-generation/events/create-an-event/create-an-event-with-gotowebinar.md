@@ -1,25 +1,30 @@
 ---
 unique-page-id: 2949874
 description: MarketoでGotoWebinarを使用してイベントを作成する方法を説明します。 Marketoを使用して、ウェビナーの統合と同期を設定できます。
-title: ' [!DNL GotoWebinar] を使用したイベントの作成'
+title: '[!DNL GotoWebinar] を使用したイベントの作成'
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-TQID: https://experienceleague.adobe.com/cHkEawyFkPdyns0aeVTSbHoUGLF8zs-v6ClkXXOyW98
+TQID: 'https://experienceleague.adobe.com/cHkEawyFkPdyns0aeVTSbHoUGLF8zs-v6ClkXXOyW98'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 536
+source-wordcount: '536'
 ht-degree: 89%
-
 ---
-
 # [!DNL GotoWebinar] を使用したイベントの作成 {#create-an-event-with-gotowebinar}
 
 >[!PREREQUISITES]
@@ -32,7 +37,7 @@ ht-degree: 89%
 
 Marketo イベントを作成して [!DNL GoToWebinar] ウェビナーを関連付けると、システムは登録情報と出席情報を共有できるようになります。
 
-以下に、Marketo で使用される設定の一覧を示します。
+以下は、Marketo で使用される設定のリストです。
 
 ## タイトルと説明 {#title-and-description}
 
@@ -60,7 +65,7 @@ Marketo イベントを作成して [!DNL GoToWebinar] ウェビナーを関連�
 
 >[!NOTE]
 >
->Marketo は現在、定期的なウェビナーをサポートしていません。 各 Marketo イベントと [!DNL GoToWebinar] ウェビナーの間に 1 つのセッションを設定する必要があります。
+>Marketo は現在、繰り返しのウェビナーをサポートしていません。 各 Marketo イベントと [!DNL GoToWebinar] ウェビナーの間に 1 つのセッションを設定する必要があります。
 
 >[!TIP]
 >
@@ -74,7 +79,7 @@ Marketo イベントを作成して [!DNL GoToWebinar] ウェビナーを関連�
 
    >[!NOTE]
    >
-   >選択するイベントのチャネルタイプは、**ウェビナー**&#x200B;である必要があります。
+   >選択したイベントプログラムのチャネルは&#x200B;**ウェビナー**&#x200B;である必要があります。
 
 1. **[!UICONTROL イベントパートナー]**&#x200B;のリストから「**[!UICONTROL GoToWebinar]**」を選択します。
 
@@ -98,11 +103,11 @@ Marketo イベントを作成して [!DNL GoToWebinar] ウェビナーを関連�
 
    >[!NOTE]
    >
-   >Marketo が送信するフィールドは、姓、名、メールアドレスです。 これらのフィールドは必須で、空にはできません。
+   >Marketo が送信するフィールドは、名、姓、メールアドレスです。 これらのフィールドは必須で、空にはできません。
 
    >[!TIP]
    >
-   >登録後の確認メールにこの固有 URL を挿入するには、メールに `{{member.webinar url}}` トークンを使います。 確認 URL が送信されるときに、このトークンは各リード固有の確認 URL に自動的に変換されます。
+   >登録後の確認メールにこの固有 URL を挿入するには、メールに `{{member.webinar url}}` トークンを使います。 確認 URL が送信されるときに、このトークンは各ユーザの一意の確認 URL に自動的に変換されます。
    >
    >配信停止やマーケティング中断したリードにも届くように、確認メールは&#x200B;**オペレーショナル**&#x200B;メールに設定してください。
 
@@ -116,7 +121,7 @@ Marketo イベントを作成して [!DNL GoToWebinar] ウェビナーを関連�
    >
    >Marketo にデータが表示されるまでには、最大 48 時間かかる場合があります。 しばらく待っても何も表示されない場合は、イベントの「**[!UICONTROL 概要]**」タブの[!UICONTROL イベントアクション]メニューから「**[!UICONTROL ウェビナープロバイダーから更新]**」を選択します。
 
-ウェビナーに新規登録したリードは、[!UICONTROL 新規ステータス]が「登録」に設定されたときに、[!UICONTROL プログラムステータスを変更]フローステップによってウェビナープロバイダーにプッシュされます。 その他のステータスではプッシュされません。 また、[!UICONTROL &#x200B; プログラムステータスの変更] フローステップを#1し、[!UICONTROL 電子メールの送信] フローステップを#2します。
+ウェビナーに新規登録したリードは、[!UICONTROL 新規ステータス]が「登録」に設定されたときに、[!UICONTROL プログラムステータスを変更]フローステップによってウェビナープロバイダーにプッシュされます。 その他のステータスでは、その人物はウェビナープロバイダー側にプッシュされません。 また、[!UICONTROL &#x200B; プログラムステータスの変更] フローステップを#1し、[!UICONTROL 電子メールの送信] フローステップを#2します。
 
 ## スケジュールの表示  {#viewing-the-schedule}
 

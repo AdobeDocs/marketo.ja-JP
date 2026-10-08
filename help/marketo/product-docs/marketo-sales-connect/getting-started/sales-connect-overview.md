@@ -4,23 +4,25 @@ description: Marketo Sales Connectの詳細と、それがセールスサイク�
 title: Sales Connect の概要
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k
+TQID: 'https://experienceleague.adobe.com/e9-WD7YGig59MLzMMrBidiGIZ0XAqFKCnUhRvs20q8k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 256
+source-wordcount: '256'
 ht-degree: 89%
-
 ---
-
 # Sales Connect の概要 {#sales-connect-overview}
 
 Marketo Sales Connect は、様々な機能を備えた多面的なセールスサポートソリューションで、セールスサイクル全体を通じてエンゲージメントを促進します。
 
 >[!AVAILABILITY]
 >
->必ずしもすべてのお客様がこの機能を購入済みとは限りません。 詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>必ずしもすべてのお客様がこの機能を購入済みとは限りません。 詳しくは、アドビのアカウントチーム（アカウントマネージャー）にお問い合わせください。
 
 ## ライブフィード {#the-live-feed}
 
@@ -34,9 +36,9 @@ Marketo Sales Connect は、様々な機能を備えた多面的なセールス�
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
-## Marketo アクティビティログの結果の確認 {#see-results-in-your-marketo-activity-log}
+## Marketo アクティビティログで結果を確認 {#see-results-in-your-marketo-activity-log}
 
-見込客がどのようにセールス活動に関与しているかを確認します。
+見込み客がセールス活動に対してどのようにエンゲージしているかを確認します。
 
 ![](assets/2018-05-11-at-3.30-pm.jpg)
 
@@ -47,20 +49,20 @@ Marketo Sales Connect は、様々な機能を備えた多面的なセールス�
    <th>説明</th>
   </tr>
   <tr>
-   <td><p>セールスメールの送信</p></td>
-   <td><p>ユーザが Sales Connect からセールスメールを送信。</p></td>
+   <td><p>セールスメールを送信</p></td>
+   <td><p>ユーザーがセールスコネクトからセールスメールを送信します。</p></td>
   </tr>
   <tr>
-   <td><p>セールスメールを開く</p></td>
-   <td><p>リードが Sales Connect から送信されたセールスメールを開封。</p></td>
+   <td><p>セールスメール開封</p></td>
+   <td><p>リードがセールスコネクトから送信されたセールスメールを開封します。</p></td>
   </tr>
   <tr>
-   <td><p>セールスメールをクリック</p></td>
-   <td><p>リードが Sales Connect から送信されたセールスメールのリンクをクリック。</p></td>
+   <td><p>セールスメールクリック</p></td>
+   <td><p>リードがセールスコネクトから送信されたセールスメール内のリンクをクリックします。</p></td>
   </tr>
   <tr>
-   <td colspan="1"><p>セールスメールを受信</p></td>
-   <td colspan="1"><p>Sales Connect から送信されたセールスメールをリードが受信。</p></td>
+   <td colspan="1"><p>セールスメール受信</p></td>
+   <td colspan="1"><p>リードがセールスコネクトから送信されたセールスメールを受信します。</p></td>
   </tr>
   <tr>
    <td colspan="1"><p>セールス電話受信</p></td>
@@ -72,7 +74,7 @@ Marketo Sales Connect は、様々な機能を備えた多面的なセールス�
   </tr>
   <tr>
    <td colspan="1"><p>セールスキャンペーンから削除</p></td>
-   <td colspan="1"><p>リードが販売キャンペーンから削除。</p></td>
+   <td colspan="1"><p>リードがセールスキャンペーンから削除されました。</p></td>
   </tr>
   <tr>
    <td colspan="1"><p>注目のアクション</p></td>

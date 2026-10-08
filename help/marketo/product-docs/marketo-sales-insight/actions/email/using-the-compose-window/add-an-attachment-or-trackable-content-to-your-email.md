@@ -1,21 +1,23 @@
 ---
 description: 添付ファイルや追跡可能なコンテンツをセールスメールに追加する方法について説明します。 ファイルを添付したり、追跡可能なリンクやコンテンツを追加してエンゲージメントを追跡したりできます。
-title: メールへの添付ファイルまたはトラック可能コンテンツの追加
+title: メールへの添付ファイルまたはトラック可能なコンテンツの追加
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/yPBxpWnkT0FsrMRlwUQ1bGLB6oeCuEW9IUHMUeqA7EM
+TQID: 'https://experienceleague.adobe.com/yPBxpWnkT0FsrMRlwUQ1bGLB6oeCuEW9IUHMUeqA7EM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 427
+source-wordcount: '427'
 ht-degree: 89%
-
 ---
-
-# メールへの添付ファイルまたはトラック可能コンテンツの追加 {#add-an-attachment-or-trackable-content-to-your-email}
+# メールへの添付ファイルまたはトラック可能なコンテンツの追加 {#add-an-attachment-or-trackable-content-to-your-email}
 
 [!DNL Marketo Sales] からメールを送信する際には、ファイルを添付ファイルとして追加するか、ファイルをダウンロード可能（かつトラック可能）リンクにするかを選択できます。
 
@@ -33,7 +35,7 @@ ht-degree: 89%
 
    ![](assets/add-an-attachment-or-trackable-content-2.png)
 
-1. 歯車アイコンをクリックします。
+1. 添付アイコンをクリックします。
 
    ![](assets/add-an-attachment-or-trackable-content-3.png)
 
@@ -77,27 +79,27 @@ ht-degree: 89%
 
    >[!NOTE]
    >
-   >トラックされたコンテンツが閲覧されると、ライブフィードに通知が表示されます。 また、最もパフォーマンスの高いコンテンツを Analytics ページのコンテンツセクションに表示することもできます。
+   >トラックされたコンテンツが閲覧されると、ライブフィードに通知が表示されます。 また、ユーザは Analytics ページのコンテンツセクションで、最もパフォーマンスの高いコンテンツを確認することもできます。
 
 ## トラック可能コンテンツの更新 {#trackable-content-updates}
 
 **トラック可能コンテンツビューア**
 
-リードがメール内のトラック可能コンテンツをクリックすると、コンテンツビューアが開きます。
+リードがメール内のトラッキング対象コンテンツをクリックすると、コンテンツビューアーが開きます。
 
 ![](assets/add-an-attachment-or-trackable-content-11.png)
 
-コンテンツビューア内では、リードは次の操作を実行できます。
+コンテンツビューアー内で、リードは次の操作を実行できます。
 
 * ドキュメントのダウンロード
 
 ![](assets/add-an-attachment-or-trackable-content-12.png)
 
-* ドキュメント全体のページ閲覧
+* ドキュメント内のページを移動する
 
 ![](assets/add-an-attachment-or-trackable-content-13.png)
 
-* 送信者の取引先責任者情報の表示
+* 送信者の取引先責任者情報を表示する
 
 ![](assets/add-an-attachment-or-trackable-content-14.png)
 
@@ -107,4 +109,4 @@ ht-degree: 89%
 
 ![](assets/add-an-attachment-or-trackable-content-15.png)
 
-リードがドキュメントの別のページに進むたびに、ドキュメントの名前を示すライブフィードに表示されたイベントが表示されます。
+リードがドキュメント内の別のページに進むたびに、ドキュメント名を示す「閲覧」イベントがライブフィードに表示されます。

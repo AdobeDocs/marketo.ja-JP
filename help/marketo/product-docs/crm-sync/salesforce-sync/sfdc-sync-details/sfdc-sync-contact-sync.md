@@ -4,18 +4,23 @@ description: SalesforceとMarketo間の連絡先の同期の仕組みについ�
 title: SFDC 同期 - 取引先責任者の同期
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/bddyM2G50v-Hgdy1oHw8xIPw1zij-2JvGSU7se3-UfI
+TQID: 'https://experienceleague.adobe.com/bddyM2G50v-Hgdy1oHw8xIPw1zij-2JvGSU7se3-UfI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 243
+source-wordcount: '243'
 ht-degree: 83%
-
 ---
-
 # SFDC 同期：取引先責任者の同期 {#sfdc-sync-contact-sync}
 
 Marketoは、データベース全体を[!DNL Salesforce]と同期します。 同期し、5 分待ってから、毎日、再び同期します。 ここでは、Marketo が [!DNL Salesforce] の取引先責任者をどのように扱っているかを詳しく説明します。
@@ -40,14 +45,14 @@ Marketoは、データベース全体を[!DNL Salesforce]と同期します。 �
 
 **[顧客を SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}**&#x200B;フローアクションを使用して、リアルタイムで同期できます。
 
-## すべての標準フィールドの Marketo への同期 {#does-every-single-standard-field-sync-to-marketo}
+## すべての標準フィールドは Marketo に同期されますか？ {#does-every-single-standard-field-sync-to-marketo}
 
-すべての標準フィールドが有用というわけではなく、すべて同期されるわけではありません。 カスタムフィールドはすべて同期に含めることができます。
+すべての標準フィールドが有用というわけではありません。 カスタムフィールドはすべて同期に含めることができます。
 
 >[!NOTE]
 >
->Marketo は、Marketo 同期ユーザがアクセスできるフィールドのみを同期します。
+>Marketo は、Marketo 同期ユーザーがアクセスできるフィールドのみを同期します。
 
 ## Marketo は [!DNL Salesforce] の検証ルールを遵守しますか？ {#will-marketo-respect-the-salesforce-validation-rules}
 
-検証ルールが尊重され、競合が発生した場合、結果がリードのアクティビティログに記録されます。
+はい。競合が発生した場合、その結果はリードのアクティビティログに記録されます。

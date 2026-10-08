@@ -4,18 +4,21 @@ description: Google ChromeでMarketo インサイトを使用する方法につ�
 title: Google Chrome 用 Marketo Insights の使用
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/xV6C9XVb7ZQVUlQOdE8oWuc8lNOzoRZIG7XyyTMBwDQ
+TQID: 'https://experienceleague.adobe.com/xV6C9XVb7ZQVUlQOdE8oWuc8lNOzoRZIG7XyyTMBwDQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 291
+source-wordcount: '291'
 ht-degree: 92%
-
 ---
-
 # [!DNL Google Chrome] 用 Marketo Insights の使用 {#using-marketo-insights-for-google-chrome}
 
 [!DNL Google Chrome] 用 Marketo Insights を使用して、Google メールを送信し、追跡します。
@@ -74,7 +77,7 @@ ht-degree: 92%
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
-1. それだけです。 メールは間もなく [!DNL Marketo Sales Insight] に表示されます。
+1. これだけです。 メールは間もなく [!DNL Marketo Sales Insight] に表示されます。
 
    ![](assets/image2015-4-23-17-3a1-3a26.png)
 

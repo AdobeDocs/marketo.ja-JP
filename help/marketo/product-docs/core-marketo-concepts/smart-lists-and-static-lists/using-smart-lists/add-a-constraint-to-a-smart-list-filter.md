@@ -4,19 +4,24 @@ description: スマートリストフィルターに制約を追加する方法�
 title: スマートリストフィルターへの制約の追加
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/UqkPxJFs-78VaVMNgOa1p2sTuDo-FM74HXp3CAbruhA
+TQID: 'https://experienceleague.adobe.com/UqkPxJFs-78VaVMNgOa1p2sTuDo-FM74HXp3CAbruhA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 182
+source-wordcount: '182'
 ht-degree: 75%
-
 ---
-
 # スマートリストフィルターへの制約の追加 {#add-a-constraint-to-a-smart-list-filter}
 
-スマートリストを作成する際にフィルターの一部には、「制約」と呼ばれる高度なオプションが含まれています。 制約を利用してフィルターやトリガーにさらなる条件を追加することで、検索をさらに絞り込むことができます。
+スマートリストを作成する際、フィルターの一部には「制約」と呼ばれる高度なオプションがあります。 制約を利用してフィルターやトリガーにさらなる条件を追加することで、検索をさらに絞り込むことができます。
 
 この例では、MQLからSQLにステータスが変更されたユーザーを検索するために、**[データ値が変更された](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** フィルターに一部の制約を追加します。
 

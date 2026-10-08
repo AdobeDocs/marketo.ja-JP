@@ -3,23 +3,25 @@ description: Sales Insight Actionsでセールスメールを送信するため�
 title: 配信チャネルの概要
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE
+TQID: 'https://experienceleague.adobe.com/wkJ3dESuEZA7rxNb-OBLwH-p6h0YjInFvGKoQSSjomE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 678
-ht-degree: 93%
-
+source-wordcount: '679'
+ht-degree: 90%
 ---
-
 # 配信チャネルの概要 {#delivery-channel-overview}
 
 Marketo Sales には、メールを配信するための複数のオプションが用意されています。 この記事では、活用できる配信チャネル、それらの選択方法、そのチャネルを選択するタイミングを確認します。
 
 ## 推奨：メール接続を介した Gmail または Exchange {#recommended-gmail-or-exchange-via-email-connection}
 
-Marketo Sales を使用すると、メール接続サービスを通じて、合理的な設定および強化された到達率を実現できます。 メール接続では、各ユーザの [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) または [[!DNL Exchange]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) アカウントを Marketo Sales に接続し、すべての Marketo Sales メールの配信チャネルとして利用できます。
+Marketo Sales を使用すると、メール接続サービスを通じて、合理的な設定および強化された到達率を実現できます。 メール接続では、各ユーザーの [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) または [[!DNL Exchange]](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) アカウントを Marketo Sales に接続し、すべての Marketo Sales メールの配信チャネルとして利用できます。
 
 Gmail または [!DNL Exchange] の利用には、他の配信チャネルオプションと比較して、いくつかの明確な利点があります。
 
@@ -27,7 +29,7 @@ Gmail または [!DNL Exchange] の利用には、他の配信チャネルオプ
 * SPF や DKIM などの認証方法は、既に IT チームによって設定および管理されているので、追加の設定が必要ありません。
 * 特定のメールネットワーク内でメールを送信すると（例：[!DNL Exchange] でメールを受信している企業に [!DNL Exchange] ユーザとしてメールを送信する）、配信品質をさらに高めることができます。
 
-これらの配信チャネルには、MicrosoftとGoogleによって適用される独自の送信制限があります。 この問題に対処するために、調整メカニズムを利用して、ユーザが制限内に収まるようにしています。 メール調整について詳しくは、[こちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)を参照してください。
+これらの配信チャネルには、MicrosoftとGoogleによって適用される独自の送信制限があります。 この問題に対処するために、スロットリングメカニズムを利用して、ユーザが制限内に収まるようにしています。 メール調整について詳しくは、[こちら](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md)を参照してください。
 
 >[!NOTE]
 >
@@ -39,9 +41,9 @@ Gmail または [!DNL Exchange] の利用には、他の配信チャネルオプ
 
 Marketo Sales には、サードパーティの SMTP サーバーを接続して、セールスチームの希望する配信チャネルとして使用するオプションも用意されています。
 
-サードパーティの SMTP プロバイダーを利用することは、メールのボリュームを最優先するセールスチームに適したオプションです。 SendGrid や SparkPost などの SMTP プロバイダーは、一括メール配信のニーズに対応するように最適化されており、大量の電子メールを展開したいというニーズに合わせて拡張できます。
+サードパーティの SMTP プロバイダーを利用することは、メールのボリュームを最優先事項とするセールスチームに適したオプションです。 SendGrid や SparkPost などの SMTP プロバイダーは、一括メール配信のニーズに対応するように最適化されており、大量の電子メールを展開したいというニーズに合わせて拡張できます。
 
-さらに、サードパーティの SMTP プロバイダーは、チームの配信ニーズ（メール配信レポートや専用 IP アドレスなど）をサポートするための様々な機能を提供しており、セールスメールの配信チャネルをより詳細にコントロールし、可視化したいと考えている方には最適な選択肢となります。
+さらに、サードパーティの SMTP プロバイダーは、チームの配信品質ニーズ（メール配信レポートや専用 IP アドレスなど）をサポートするための様々な機能を提供しており、セールスメールの配信チャネルをより詳細にコントロールし、その可視性を高めたいと考えている方には最適な選択肢となります。
 
 ## Marketo Sales サーバー（レガシー） {#marketo-sales-servers-legacy}
 
@@ -57,7 +59,7 @@ MSC サーバーは、DKIM および SPF 認証方式をサポートしていな
 
 ## Marketo サーバー {#marketo-servers}
 
-Marketo のメールサーバーは、Marketo Sales と統合されていません。 Marketo サーバーは、マーケターのニーズに合わせて拡張できるよう、一括配信に最適化されています。 ただし、Gmail および [!DNL Exchange] は、1:1 のセールスコミュニケーションの成功率が高いので、セールスコミュニケーションにはこれらのサーバーを使用することをお勧めします。
+Marketo のメールサーバーは、Marketo セールスコネクトと統合しません。 Marketo サーバーは、マーケターのニーズに合わせて拡張できるよう、一括配信に最適化されています。 ただし、Gmailと[!DNL Exchange]は1:1のセールスコミュニケーションの成功率が高いため、セールスコミュニケーションにこれらのサーバーを使用することをお勧めします。
 
 >[!MORELIKETHIS]
 >

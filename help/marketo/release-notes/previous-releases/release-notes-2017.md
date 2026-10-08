@@ -1,39 +1,61 @@
 ---
-title: "2017"
+title: '2017'
 description: 2017 - Marketo Docs – 製品ドキュメント
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2440
+source-wordcount: '2440'
 ht-degree: 91%
-
 ---
-
 # 2017
 
 ## 2017年冬 {#winter}
 
-17年冬リリースには、次の機能が含まれています。 お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。
+2017年冬のリリースには、次の機能が含まれています。 機能の利用可否については、お使いの Marketo エディションを確認してください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。
 
@@ -45,7 +67,7 @@ ht-degree: 91%
 
 [Facebook カスタムオーディエンスの高度なマッチング](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md)
 
-「基本的な一致」ではメールアドレスのみが使用されますが、新しい「高度な一致」では 7 つのフィールドが追加され、コンバージョン率が向上します。
+「基本的な一致」ではメールアドレスのみが使用されますが、新しい「高度な一致」ではさらに 7 つのフィールドを使用することでマッチ率が向上し、より多くのコンバージョンにつながります。
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
@@ -131,7 +153,7 @@ Marketo のアクティビティ API に重要な変更が予定されていま�
 
 ## 2017年春 {#spring}
 
-17 年春リリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo のエディションをご確認ください。
+2017年春リリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo のエディションをご確認ください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。 **メモ**：トピックに複数のサブ見出しが含まれる場合、リンクはそこに配置されます。
 
@@ -149,7 +171,7 @@ Marketo と [!UICONTROL LinkedIn リードジェネレーション]フォーム
 
 [MSI テンプレートの有効期限](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
 
-[!DNL Sales Insight] で古いテンプレートをクリーンアップする必要がなくなりました。 メールを公開する際に有効期限を設定します。有効期限が切れると、自動的に非公開になります。
+[!DNL Sales Insight] で古いテンプレートをクリーンアップする必要がなくなりました。 メールを公開する際に有効期限日を設定すると、有効期限日になると自動的に非公開になります。
 
 >[!NOTE]
 >
@@ -167,11 +189,11 @@ Marketo から外部システムに、大量のリードおよびアクティビ
 
 **[ABM 重点顧客のカスタムフィールド](https://docs.marketo.com/x/1wnG)**
 
-Marketo ABM で、重点顧客に最大 10 個のカスタムフィールドを作成できるようになりました。 これらのカスタムフィールドを CRM アカウントオブジェクトのフィールドにマップすると、Marketo ABM がデータを同期し、ABM 重点顧客を拡張してマーケティングを促進できます。
+Marketo ABM で、重点アカウントに最大 10 個のカスタムフィールドを作成できるようになりました。 これらのカスタムフィールドを CRM のアカウントオブジェクト内のフィールドにマップすると、Marketo ABM がデータを同期し、ABM 重点アカウントを拡張してマーケティング活動を推進できます。
 
 **[ABM 重点顧客のパーセンタイル値](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
-重点顧客のスコアは大きく異なる場合があります。 Marketo ABM は各スコアのパーセンタイルを自動的に計算するようになり、重点顧客に対する各重点顧客のランク付けを一目で確認できます。
+重点アカウントのスコアは大きく異なる場合があります。 Marketo ABM は各スコアのパーセンタイルを自動的に計算するようになり、重点顧客に対する各重点顧客のランキングを一目で確認できます。
 
 **[ABM 顧客リスト API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
@@ -201,7 +223,7 @@ Marketo ABM で、重点顧客に最大 10 個のカスタムフィールドを�
 
 **[ダイアログクローズボタンのカスタマイズ](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
-ダイアログボックスの「閉じる」ボタンをカスタマイズします。 透明ダイアログスタイルの [!UICONTROL web キャンペーン]で使用される様々なオプションから選択します。 「閉じる」ボタンのアイコン、色、位置を選択します。 独自のボタン画像を追加することもできます。
+ダイアログボックスの「クローズ」ボタンをカスタマイズします。 透明ダイアログスタイルの [!UICONTROL web キャンペーン]で使用される様々なオプションから選択します。 「クローズ」ボタンのアイコン、色、位置を選択します。 独自のボタン画像を追加することもできます。
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
@@ -229,7 +251,7 @@ Marketo でサポートされているすべての言語（英語、日本語、
 
 ## 2017年夏 {#summer}
 
-2017 年夏リリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo のエディションをご確認ください。
+2017年夏のリリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo のエディションをご確認ください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。 注意：このリリースに含まれる機能の一部には、関連記事がありません。 トピックに複数のサブ見出しが含まれる場合、リンクはそこに配置されます。
 
@@ -253,11 +275,11 @@ Marketo でサポートされているすべての言語（英語、日本語、
 
 **日本企業検索用のデータソース**
 
-現地語で人名と日本企業名をマッチング（照合）します。
+日本語で人物と会社名をマッチング（照合）します。
 
 **[ABM と LeanData の統合](https://docs.marketo.com/x/pKmt)**
 
-[!DNL LeanData] の統合により、Marketo でリードと顧客の照合が可能になりました。 記録のセールスおよびマーケティングシステム内の顧客と同じリードを関連付けることで、マーケティングとセールスを整合させます。 より柔軟なオプションにより、マーケティングおよびセールスオペレーションは、リードから顧客へのマッチングルールをより細かく制御し、希望する精度を達成できます。
+[!DNL LeanData] の統合により、Marketo でリードと顧客の照合が可能になりました。 セールスおよびマーケティングのレコードシステム内で、同じリードをアカウントに関連付けることで、マーケティングとセールスの整合性を維持します。 より柔軟なオプションにより、マーケティングおよびセールスオペレーションは、リードから顧客へのマッチングルールをより細かく制御し、希望する精度を達成できます。
 
 ## Web パーソナライゼーションの機能拡張
 
@@ -271,13 +293,13 @@ Marketo でサポートされているすべての言語（英語、日本語、
 
 * キャンペーンのトリガー（遅延、スクロール）
 * キャンペーンの表示（画面の周囲の任意の位置）
-* 展開／最小化の矢印を任意の CTA テキストに変更
+* 展開／最小化の矢印を任意の CTA テキストに変更します。
 
 ## ContentAI {#contentai}
 
 **[ContentAI の分析と提案](/help/marketo/product-docs/predictive-content/predictive-content-analytics-overview.md)**
 
-より深い分析と AI を活用したコンテンツの提案により、エンゲージメントを高めることで、コンテンツマーケティングの効果を高めます。 強力な分析により、人気、トレンド、オーディエンスベースの表示など、推奨コンテンツの効果が示されます。 また、追加のコンテンツを含めるための提案も表示されます。
+より深い分析と AI を活用したコンテンツ提案により、エンゲージメントを高めてコンテンツマーケティングの効果を向上させます。 強力な分析により、人気、トレンド、オーディエンスベースの表示など、推奨コンテンツの効果が示されます。 また、追加のコンテンツを含めるための提案も表示されます。
 
 ## 分析 {#analytics}
 
@@ -285,13 +307,13 @@ Marketo でサポートされているすべての言語（英語、日本語、
 
 データを準備および共有する新しい方法で、[!UICONTROL メールインサイト]エクスペリエンスをさらに活用できます。 [!UICONTROL メールインサイト]の結果を [!DNL Microsoft Excel] と [!DNL PowerPoint] にダウンロードして、Marketo の外部でデータを操作できるようになりました。
 
-## 連携 ID 構成サポート {#federated-identity-configuration-support}
+## 連合 ID 設定サポート {#federated-identity-configuration-support}
 
 クラウドで [!DNL Microsoft Dynamics] CRM を引き続き使用しながら、認証（Active Directory）をファイアウォールのオンプレミス内に保持します。
 
 ## 2017年秋 {#fall}
 
-17 年秋リリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo のエディションをご確認ください。
+2017年秋のリリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo のエディションをご確認ください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。 注意：このリリースに含まれる機能の一部には、関連記事がありません。 トピックに複数のサブ見出しが含まれる場合、リンクはそこに配置されます。
 
@@ -301,11 +323,11 @@ Marketo のコアインフラストラクチャをさらに改善し、シーケ
 
 ## SFDC 同期パフォーマンス {#sfdc-sync-performance}
 
-Marketo と [!DNL Salesforce] の豊富で高速な同期を活用できます。 顧客やリードで一括更新が必要なデータ変更は、バックログを避けるために、並列キューに分割できます。 イベントとタスクの同期速度が最大で 50% 向上しています。
+Marketo と [!DNL Salesforce] の豊富で高速な同期を活用できます。 取引先やリードに対して一括更新が必要なデータの変更は、バックログを避けるために、並列キューに分割できます。 イベントとタスクの同期速度が最大で 50% 向上しています。
 
 ## 分析パフォーマンスの向上 {#analytics-performance-improvements}
 
-最近のインフラストラクチャの改善により、Marketo のレポートと分析ツール内の稼動時間と安定性が向上し、臨時のレポートをより迅速に作成できるようになりました。
+最近のインフラストラクチャの改善により、Marketo のレポートおよび分析ツールの稼働時間と安定性が向上し、アドホックレポートをより迅速に作成できるようになりました。
 
 ## 受信者タイムゾーン {#recipient-time-zone}
 
@@ -336,7 +358,7 @@ Marketo には、レビュー用にサンプルメールを送信する際にセ
 新しい Slack 統合の一環として、次の 2 つの機能をリリースしました。
 
 * システム通知：現在のキャンペーンステータスや早急な対応が必要な問題に関するアラートなど、Marketo インスタンスの重要なイベントに関する Slack 通知を受け取ります。
-* 注目のアクション：Marketo Insight がセールスアカウントの既知の個人によってトリガーされた場合、リードの所有者は Slack 経由で通知を受け取ることができます。 通知には、リード情報とセールスアカウントに関する詳細が含まれます。
+* 注目のアクション：Marketo インサイトが営業アカウントの既知の個人によってトリガーされた場合、リードの所有者は Slack 経由で通知を受け取ることができます。 通知には、リード情報と営業アカウントに関する詳細が含まれます。
 
 ## ABM の機能拡張
 
@@ -352,7 +374,7 @@ ABM アカウントリスト全体でコンテンツのパフォーマンスを�
 
 * 閲覧されたコンテンツの数
 * 上位の変換済みコンテンツ
-* AI を利用したマーケティングアクティビティ用の推奨コンテンツ
+* AI を活用したマーケティングアクティビティ用の推奨コンテンツ
 
 ## Web パーソナライゼーションの機能拡張
 
@@ -376,7 +398,7 @@ Marketo 内の複数のチャネルでクリエイティブアセットと画像
 
 **[HTML API の置換](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting)**
 
-デベロッパーは、メール HTML のアセットコンテンツをリモートで更新でき、1 つのシステム内で作業してアセットを管理できます。
+デベロッパーは、メールアセットの HTML コンテンツをリモートで更新でき、1 つのシステム内で作業してアセットを管理できます。
 
 ## 4月のABM機能強化 {#april-abm}
 
@@ -386,27 +408,27 @@ Marketo 内の複数のチャネルでクリエイティブアセットと画像
 
 Marketo ABM は CRM に関連する動作を変更しています。 今後、Marketo ABM は、ABM アカウントと CRM のアカウントの間に 1 対 1 の関係を確立し、維持します。 これにより、Marketo がマッピングされたアカウントフィールドを CRM と同期し続けることができます。
 
-## CRM 検出用のカスタムフィールド {#custom-fields-for-crm-discovery}
+## CRM ディスカバリー用のカスタムフィールド {#custom-fields-for-crm-discovery}
 
-カスタムフィールドをアカウントに追加し、CRM にマッピングして、Marketo での CRM アカウント検出に使用できるようになりました。
+カスタムフィールドをアカウントに追加し、CRM にマッピングして、Marketo での CRM アカウントディスカバリーに使用できるようになりました。
 
 ![](assets/new-custom-field.png)
 
-## 重点顧客グリッドの顧客ベースフィルター {#account-based-filters-in-the-named-account-grid}
+## 重点アカウントグリッドのアカウントベースのフィルター {#account-based-filters-in-the-named-account-grid}
 
-顧客リストに基づいて重点顧客を簡単にフィルタリングできるようになりました。
+アカウントリストに基づいて重点アカウントを簡単にフィルターできるようになりました。
 
 ![](assets/named-account-filters.png)
 
 ## 8月のABM強化 {#august-abm}
 
-8月17日の ABM 機能強化リリースには、次の機能が含まれています。 お客様のご契約により、制限やオプションの契約が必要なものがあります。詳細は担当の営業にお問い合わせください。
+2017年8月の ABM 機能強化リリースには、次の機能が含まれています。 機能の利用可否については、お使いの Marketo エディションを確認してください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください。
 
 ## [!DNL Account Insight] {#account-insight}
 
-**[[!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** は、実用的な ABM とアカウントのインサイトをセールスチームに提供する [!DNL Google Chrome] プラグインです。セールスチームはこのインサイトを活用し、マーケティングと緊密に連携して効果的にアカウントと関わることができます。 セールスチームは、自分たちの重点顧客ごとに生成されたデータとインサイトを表示できます。 これには、アカウントスコアのパーセンタイル、重点顧客の優先度リスト、アカウント内の関係者、およびアカウントからの最近のアクティビティのライブアクティビティストリームが含まれます。
+**[[!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** は、実用的な ABM とアカウントのインサイトをセールスチームに提供する [!DNL Google Chrome] プラグインです。セールスチームはこのインサイトを活用し、マーケティングと緊密に連携して効果的にアカウントと関わることができます。 セールスチームは、自分たちが担当する各重点顧客について生成されたデータとインサイトを把握できるようになります。 これには、アカウントスコアのパーセンタイル、重点顧客の優先リスト、アカウント内のエンゲージした人物、およびアカウントからの最近のアクティビティのライブのアクティビティストリームが含まれます。
 
 ![](assets/image001.png) ![](assets/image002.png)
 

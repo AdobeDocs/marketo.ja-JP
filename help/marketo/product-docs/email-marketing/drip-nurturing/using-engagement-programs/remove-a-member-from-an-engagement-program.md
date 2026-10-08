@@ -4,18 +4,23 @@ description: エンゲージメントプログラムからメンバーを削除�
 title: エンゲージメントプログラムからメンバーを削除する
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/lVxZZEEceV59TpU7JaSUISp2L5HmSNHiv8Xy9vcymqQ
+TQID: 'https://experienceleague.adobe.com/lVxZZEEceV59TpU7JaSUISp2L5HmSNHiv8Xy9vcymqQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 131
+source-wordcount: '131'
 ht-degree: 61%
-
 ---
-
 # エンゲージメントプログラムからメンバーを削除する {#remove-a-member-from-an-engagement-program}
 
 **[!UICONTROL プログラムステータスを変更]**&#x200B;フローステップを使用してエンゲージメントプログラムからメンバーを削除できます。
@@ -26,7 +31,7 @@ ht-degree: 61%
 
 ## フローステップ {#flow-step}
 
-1. 「**[!UICONTROL プログラムステータスの変更]**」フローステップにドラッグします。
+1. **[!UICONTROL プログラムステータスを変更]**&#x200B;フローステップをドラッグします。
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
