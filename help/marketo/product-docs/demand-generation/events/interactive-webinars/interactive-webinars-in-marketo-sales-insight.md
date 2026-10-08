@@ -24,7 +24,7 @@ Marketo Sales Insightのインタラクティブウェビナーを使用する�
 
 >[!PREREQUISITES]
 >
->この機能は、[Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html) アドオンを購入したユーザーのみがサポートされています。
+>この機能は、[Marketo Sales Insight](https://business.adobe.com/jp/products/marketo/sales-intelligence-engagement.html) アドオンを購入したユーザーのみがサポートされています。
 
 アクティビティがMarketo Engageに登録されると（ウェビナーがAdobe Connectで完了した後）、MSI プラグインを介してリアルタイムでSalesforceに同期されます。
 

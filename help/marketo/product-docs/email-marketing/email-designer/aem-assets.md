@@ -45,7 +45,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;は、効率的な�
 
 >[!NOTE]
 >
->現在、_Adobe Experience Manager Assets_&#x200B;の画像アセットのみがMarketo Engageでサポートされています。 アセットの変更は、Adobe Experience Manager Assetsの中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>現在、_Adobe Experience Manager Assets_&#x200B;の画像アセットのみがMarketo Engageでサポートされています。 アセットの変更は、Adobe Experience Manager Assetsの中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## AEM Cloud Servicesへのリンク {#link-to-your-aem-cloud-services}
 
@@ -73,7 +73,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;は、効率的な�
    >
    >* Marketo Engage サブスクリプションと同じIMS組織に関連付けられているリポジトリのみが一覧表示されます。
    >
-   >* Marketo Engageは、配信層のリポジトリのみをサポートします。 オーサー層を使用しており、それを変換する場合は、[Adobe Experience Manager サポート &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources)にお問い合わせください。
+   >* Marketo Engageは、配信層のリポジトリのみをサポートします。 オーサー層を使用しており、それを変換する場合は、[Adobe Experience Manager サポート &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-manager/content/overview/help-resources)にお問い合わせください。
 
 1. リポジトリを設定するには、[&#x200B; サービス資格情報の証明書](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)を追加する必要があります。 「**+証明書を追加**」ボタンをクリックします。
 
@@ -111,7 +111,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;は、効率的な�
 
 >[!IMPORTANT]
 >
->管理者は、アセットへのアクセスが必要なユーザーをAssets コンシューマーユーザーやAssets ユーザーの製品プロファイルに追加する必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>管理者は、アセットへのアクセスが必要なユーザーをAssets コンシューマーユーザーやAssets ユーザーの製品プロファイルに追加する必要があります。 [詳細情報](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 ビジュアルコンテンツエディターで、左側のサイドバーにある&#x200B;_Experience Manager Asset セレクター_ アイコンをクリックします。 これにより、ツールパネルが、選択したリポジトリ内の使用可能なアセットのリストに変更されます。
 
