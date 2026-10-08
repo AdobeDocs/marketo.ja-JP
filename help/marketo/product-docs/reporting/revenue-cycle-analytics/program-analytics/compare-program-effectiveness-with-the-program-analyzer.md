@@ -4,13 +4,19 @@ description: 比較プログラムを含む、Marketo Engageのプログラム�
 title: プログラムアナライザーを使用したプログラムの効果の比較
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '478'
 ht-degree: 95%
-
 ---
-
 # [!UICONTROL プログラムアナライザー]を使用したプログラムの効果の比較 {#compare-program-effectiveness-with-the-program-analyzer}
 
 [!UICONTROL プログラムアナライザー]を使用して、プログラムコスト、メンバー獲得、パイプライン、収益を比較することで、最も効果の高いまたは最も効果の低いプログラムを特定します。
@@ -87,7 +93,7 @@ ht-degree: 95%
 
 >[!TIP]
 >
->1 つのチャネルの複数のプログラムを、他のチャネルのプログラムと簡単に比較できます。 ウィンドウ上部の「**チャネルフィルター**」を使用して、チャネルを追加するだけです。
+>1 つのチャネル内のプログラムを、別のチャネル内のプログラムと簡単に比較できます。 ウィンドウ上部の「**チャネルフィルター**」を使用して、チャネルを追加するだけです。
 
 >[!MORELIKETHIS]
 >

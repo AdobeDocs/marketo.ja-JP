@@ -1,13 +1,14 @@
 ---
 description: 後で配信できるようにセールスメールをスケジュールする方法を説明します。 Sales Insight Actionsまたは受信トレイでコンポジションを作成する日時を設定します。
 title: メールのスケジュール設定
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 75%
-
 ---
-
 # メールのスケジュール設定 {#scheduling-an-email}
 
 以下の簡単な手順に従って、メールのスケジュールを設定します。
@@ -24,11 +25,11 @@ ht-degree: 75%
 
    ![](assets/scheduling-an-email-2.png)
 
-1. 日付をクリックして日付選択ツールを開き、日付を選択します。
+1. 日付をクリックして日付選択を開き、日付を選択します。
 
    ![](assets/scheduling-an-email-3.png)
 
-1. メールを送信する時間を入力します。 目的のタイムゾーンを選択し、「**保存**」をクリックします。 完了したら、スケジューラーを閉じます。
+1. メールを送信する時間を入力します。 目的のタイムゾーンを選択し、「**保存**」をクリックします。 完了したら、スケジューラーをクローズします。
 
    ![](assets/scheduling-an-email-4.png)
 

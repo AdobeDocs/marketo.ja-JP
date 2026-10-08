@@ -4,24 +4,31 @@ description: Adobe analyticsとの統合を使用して、Marketo Engageでadobe
 title: Adobe Analytics との連携
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/W9eAiWXh-XyeFqxP-BQHNdOQN5zYNuZ7ziRxXQQMZnw
+TQID: 'https://experienceleague.adobe.com/W9eAiWXh-XyeFqxP-BQHNdOQN5zYNuZ7ziRxXQQMZnw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1129
+source-wordcount: '1130'
 ht-degree: 97%
-
 ---
-
 # Adobe Analytics との連携 {#integrate-with-adobe-analytics}
 
 ## はじめに {#intro}
@@ -34,11 +41,11 @@ Adobe Analytics アカウント内の組織、業界、[!DNL Marketo Real-Time P
 
 ## RTP Audience Analytics {#rtp-audience-analytics}
 
-RTP と AA の連携により、web 分析インターフェイス内に新しいディメンションが作成されます。 RTP は、次の機能を使用して分析ダッシュボードを自動的に強化します。
+RTP と AA の連携により、web 分析インターフェイス内に新しいディメンションが作成されます。 RTP は、web 分析ダッシュボードを次の情報で自動的に強化します。
 
 1. 組織および業界データ
 1. カスタマイズされた RTP セグメント
-1. 重点顧客リスト（Account-Based Marketing）
+1. 重点アカウントリスト（Account-Based Marketing）
 
 これにより、B2B データが強化され、次の最適化によって関連する訪問者に焦点を当てることができます。
 
@@ -50,7 +57,7 @@ RTP と AA の連携により、web 分析インターフェイス内に新し�
 
 ![](assets/image2014-11-29-12-3a0-3a26.png)
 
-RTP ダッシュボードは、垂直線および RTP セグメントに従った訪問者の分類を理解するのに役立ちます。 業界や、その業界に関連する様々なマーケティングキャンペーン（有料、オーガニック、ソーシャル）に従って、訪問者のパフォーマンスを確認できます。 また、ダッシュボードには、訪問者が閲覧しているサイトセクションの概要が、業種別に表示されます。
+RTP ダッシュボードは、業種および RTP セグメントごとの訪問者の内訳を把握するのに役立ちます。 業界や、その業界に関連する様々なマーケティングキャンペーン（有料、オーガニック、ソーシャル）に従って、訪問者のパフォーマンスを確認できます。 また、ダッシュボードには、訪問者が閲覧しているサイトセクションの概要が、業種別に表示されます。
 
 ## 行動レポート {#behavioral-report}
 
@@ -58,9 +65,9 @@ RTP ダッシュボードは、垂直線および RTP セグメントに従っ�
 
 ## RTP パフォーマンス {#rtp-performance}
 
-Adobe Analytics の「カスタムリンク」で、RTP キャンペーンのインプレッションとコンバージョンを表示します。
+Adobe Analytics のカスタムリンク名で、RTP キャンペーンのインプレッションとコンバージョンを表示します。
 
-このカスタムリンクレポートでは、次の命名形式でキャンペーンのインプレッション数とコンバージョン数が表示されます。
+このカスタムリンク名レポートでは、次の命名形式でキャンペーンのインプレッション数とコンバージョン数が表示されます。
 
 * インプレッション ISegment：[RTP セグメント名]、ICampaign：[RTP キャンペーン名]
 * コンバージョン ISegment：[RTP セグメント名]、ICampaign：[RTP キャンペーン名]
@@ -69,13 +76,13 @@ Adobe Analytics の「カスタムリンク」で、RTP キャンペーンのイ
 
 ## Adobe Analytics での設定 {#set-up-in-adobe-analytics}
 
-この連携では、Adobe Analytics が提供する JavaScript API が使用されます。 連携では、カスタムコンバージョン変数（eVar）、カスタムイベント（event）およびトラフィック変数が使用されます。 すべては、AA 管理内で有効にする必要があります。 AA ではコンバージョン変数、カスタムイベント、トラフィック変数を設定する必要があります。設定しないと、RTP で有効にしても、スイート内のデータを表示できなくなります。
+この連携では、Adobe Analytics が提供する JavaScript API が使用されます。 連携では、カスタムコンバージョン変数（eVar）、カスタムイベント（event）およびトラフィック変数が使用されます。 すべては、AA 管理内で有効にする必要があります。 AA でコンバージョン変数、カスタムイベント、トラフィック変数を設定する必要があります。これらを設定しないと、RTP で有効にしていても、スイート内のデータを表示できません。
 
 AA でこれらの変数を設定するには、次の手順を実行します。
 
 1. AA アカウントで&#x200B;**[!UICONTROL 管理ツール]**&#x200B;に移動します。
 1. 連携で使用する&#x200B;**[!UICONTROL レポートスイート]**&#x200B;を選択します。
-1. **[!UICONTROL 設定を編集]**&#x200B;で、**[!UICONTROL コンバージョン]**&#x200B;に移動し、**[[!UICONTROL コンバージョン変数]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**&#x200B;を選択します。
+1. **[!UICONTROL 設定を編集]**&#x200B;で、**[!UICONTROL コンバージョン]**&#x200B;に移動し、**[[!UICONTROL コンバージョン変数]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**を選択します。
 [コンバージョン変数](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)数を選択します。以下をおすすめします。
 
    1. Evar 20：業界カスタムコンバージョン
@@ -95,8 +102,8 @@ AA でこれらの変数を設定するには、次の手順を実行します�
 
    1. 「カスタム成功イベント」イベント番号を選択します。以下をおすすめします。
 
-      1. イベント 20：RTP キャンペーン
-      1. イベント 21：RTP セグメント
+      1. event20：RTP キャンペーン
+      1. event21：RTP セグメント
 
       >[!NOTE]
       >
@@ -117,7 +124,7 @@ AA でこれらの変数を設定するには、次の手順を実行します�
 
       >[!NOTE]
       >
-      >これらの番号がすでに使用されている場合は、別の使用可能な番号を選択します。 この番号を RTP アカウント設定のスロット番号に合わせます）
+      >これらの番号がすでに使用されている場合は、別の使用可能な番号を選択します。 この番号を、RTP アカウント設定のスロット番号に合わせます。
 
       1. 4 つのプロパティ名を変更します。 これは、レポートスイートに表示される名前です。
 
@@ -164,14 +171,14 @@ AA でこれらの変数を設定するには、次の手順を実行します�
 
 ## レポート {#reports}
 
-組織名、業界、RTP セグメントおよびリアルタイムキャンペーンデータに従って、拡張された、サイトの Adobe Analytics レポートを作成します。
+組織名、業界、RTP セグメントおよびリアルタイムキャンペーンのデータに基づいて、Adobe Analytics のサイトレポートを拡張して作成します。
 
 AA でカスタマイズされたレポートやダッシュボードの例を次に示します。
 
 * 業界別または定義済みのセグメント別の効果（アカウントベースの重点顧客リスト）
 * KPI 効果ごとの業界分類
 * 組織ごとに表示されたページ数
-* 組織、業界、セグメントに応じたマーケティングチャネルの効果
+* 組織、業界、セグメントに応じたマーケティングチャネルのパフォーマンス
 
 **- レポート例 -**
 
@@ -185,7 +192,7 @@ AA でカスタマイズされたレポートやダッシュボードの例を�
 
 **RTP ダッシュボードの作成**
 
-[RTP ダッシュボード](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)と呼ばれる&#x200B;**新しいダッシュボード**&#x200B;を作成します。 このダッシュボードは、垂直線および RTP セグメントに従った訪問者の分類を理解するのに役立ちます。
+[RTP ダッシュボード](https://microsite.omniture.com/t2/help/en_US/sc/user/t_dashboard_add.html)と呼ばれる&#x200B;**新しいダッシュボード**&#x200B;を作成します。 このダッシュボードは、業種および RTP セグメントごとの訪問者の内訳を把握するのに役立ちます。
 
 1. **[!UICONTROL ダッシュボード]、**&#x200B;次に「**[!UICONTROL ダッシュボードを追加]**」をクリックします。
 
@@ -231,7 +238,7 @@ AA でカスタマイズされたレポートやダッシュボードの例を�
 
    ![](assets/sitecatalyst1-1.png)
 
-1. インプレッションを検索して、セグメントを表示し、キャンペーンのインプレッション数を表すキャンペーン名を表示します。
+1. インプレッションを検索して、キャンペーンのインプレッション数を表すセグメント名とキャンペーン名を表示します。
    ![](assets/sitecatalyst1.png)
 
 1. コンバージョンを検索して、キャンペーンのクリック数を表すセグメント名とキャンペーン名を表示します。

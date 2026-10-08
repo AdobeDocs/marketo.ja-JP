@@ -4,19 +4,25 @@ description: Marketoでフリーフォームのランディングページを作
 title: フリーフォームランディングページを作成する
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/6aOqa1RVmKfqJ-hC2X7du6xUD2PdRJdD2WHLQQT0GaE
+TQID: 'https://experienceleague.adobe.com/6aOqa1RVmKfqJ-hC2X7du6xUD2PdRJdD2WHLQQT0GaE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 210
+source-wordcount: '210'
 ht-degree: 74%
-
 ---
-
 # フリーフォームランディングページを作成する {#create-a-free-form-landing-page}
 
 フリーフォームのランディングページは、プログラムのローカルアセットとして、または[!UICONTROL デザインスタジオ]で作成してグローバルに使用できます。
@@ -35,7 +41,7 @@ ht-degree: 74%
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. 「**[!UICONTROL 新規]**」をクリックします。 「**[!UICONTROL 新規ローカルアセット]**」を選択します。
+1. 「**[!UICONTROL 新規作成]**」をクリックします。 「**[!UICONTROL 新規ローカルアセット]**」を選択します。
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
@@ -47,7 +53,7 @@ ht-degree: 74%
 
    >[!NOTE]
    >
-   >アイコンのないテンプレートはフリーフォームです。 フリーフォームテンプレートを使用すると、完全なカスタマイズが可能です。
+   >アイコンのないテンプレートはフリーフォームです。 フリーフォームテンプレートを使用すると、フルカスタマイズが可能です。
 
    ![](assets/image2015-5-19-12-3a51-3a13.png)
 
@@ -59,7 +65,7 @@ ht-degree: 74%
 >
 >URL は、プログラムとランディングページの名前から自動的に生成されます。 URL を変更するには、**[!UICONTROL ページ URL]** フィールドを編集します。
 
-## Design Studio でフリーフォームランディングページを作成する {#create-a-free-form-landing-page-in-design-studio}
+## デザインスタジオでのフリーフォームランディングページの作成 {#create-a-free-form-landing-page-in-design-studio}
 
 1. **[!UICONTROL Design Studio]** に移動します。
 

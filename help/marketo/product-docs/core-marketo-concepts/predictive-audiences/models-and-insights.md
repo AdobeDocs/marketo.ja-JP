@@ -3,22 +3,26 @@ description: 予測オーディエンスモデルと影響要因について説�
 title: モデルとインサイト
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-TQID: https://experienceleague.adobe.com/ikS8VQJfQ9ndHrtDY5K8GYbNYwJjk1nYkuqxnwfcWPY
+TQID: 'https://experienceleague.adobe.com/ikS8VQJfQ9ndHrtDY5K8GYbNYwJjk1nYkuqxnwfcWPY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 60e4be0b-b3ea-5f4e-8b8c-da0f5a08dacd
+    internal-label: Predictive Audiences
 topic_v2:
   - id: b4dd41a7-ccf8-4e9d-918e-acaab534a307
+    internal-label: Data quality
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 234
+source-wordcount: '234'
 ht-degree: 41%
-
 ---
-
 # モデルとインサイト {#models-and-insights}
 
-モデルの効果は、入力データの品質と完全性に応じて異なります。 それぞれの可能性 AI モデルに対して、最も影響を及ぼした要因を確認します。 また、イベントの登録数が多い/少ない、イベントに参加する、または登録解除につながる主な要因も参照してください。
+モデルのパフォーマンスは、入力データの品質と完全性に依存します。 各確率予測 AI モデルについて、上位の影響要因を確認します。 また、イベントの登録数が多い/少ない、イベントに参加する、または登録解除につながる主な要因も参照してください。
 
 >[!NOTE]
 >
@@ -30,7 +34,7 @@ Marketo Engageの&#x200B;**[!UICONTROL 管理者]** エリアの&#x200B;**[!UICO
 
 ![画像 1](assets/models-and-insights-1.png)
 
-* **トレーニングステータス**：モデルが積極的にトレーニング（予測の改善）を実施しているかどうかを示します。 トレーニングは2週間ごとに自動的に行われます。 _処理中_&#x200B;のモデルは、完了までに最大24時間かかる場合があります。 _失敗_&#x200B;したモデルについては、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。
+* **トレーニングステータス**：モデルが積極的にトレーニング（予測の改善）を実施しているかどうかを示します。 トレーニングは2週間ごとに自動的に行われます。 _処理中_&#x200B;のモデルは、完了までに最大24時間かかる場合があります。 _失敗_&#x200B;したモデルについては、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。
 * **スコアリングステータス**：モデルがプログラムメンバーの予測（可能性の割合）を積極的に計算しているかどうかを示します。
 * **パフォーマンス**: データの完全性とデータ品質に基づくモデルの正常性の分類（以下を参照）。
 * **データの完全性**：存在／完了しているデータ属性の割合。

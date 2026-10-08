@@ -4,20 +4,23 @@ description: コンテンツレコメンデーションバーで承認済み予�
 title: レコメンデーションバーの予測コンテンツの編集
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/6hFpQPQm5uhrBPIJiEnCkQ1ngTKU1PyHKTCRpI60TW8
+TQID: 'https://experienceleague.adobe.com/6hFpQPQm5uhrBPIJiEnCkQ1ngTKU1PyHKTCRpI60TW8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 77
+source-wordcount: '77'
 ht-degree: 84%
-
 ---
-
 # レコメンデーションバーの予測コンテンツの編集 {#edit-predictive-content-for-the-recommendation-bar}
 
 レコメンデーションバーに予測コンテンツを設定する方法は、以下のとおりです。
@@ -26,7 +29,7 @@ ht-degree: 84%
 >
 >すべてのコンテンツページで、コンテンツが[予測コンテンツに対して承認されている](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)必要があります。
 
-1. **[!UICONTROL 予測コンテンツ]**&#x200B;ページで、「タイトル」をクリックして、エディターを開きます。
+1. **[!UICONTROL 予測コンテンツ]**&#x200B;ページで、「タイトル」をクリックして、エディターを開きます
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 

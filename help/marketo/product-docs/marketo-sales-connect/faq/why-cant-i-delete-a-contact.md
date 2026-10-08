@@ -4,16 +4,18 @@ description: Sales Connectで連絡先を削除できない場合は、ヘルプ
 title: 取引先責任者を削除できない理由
 exl-id: 28218879-240e-450e-990d-1c2af0a74dc3
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/w-bJqpBIahBP-zYPLeiMt22LBtbxSvnKk83jrlpSQn4
+TQID: 'https://experienceleague.adobe.com/w-bJqpBIahBP-zYPLeiMt22LBtbxSvnKk83jrlpSQn4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: '100'
 ht-degree: 80%
-
 ---
-
 # 取引先責任者を削除できない理由 {#why-cant-i-delete-a-contact}
 
-キャンペーン内に存在する取引先責任者や、チーム内の他のユーザが所有している取引先責任者は削除できません。 取引先責任者がキャンペーン内に存在する場合は、キャンペーンから削除してから取引先責任者を削除します。 チームメンバーが所有している場合は、そのメンバーが属するグループの共有を解除するか、アカウントから取引先責任者を削除する必要があります。
+取引先責任者がキャンペーンに含まれている場合や、その取引先責任者がチーム内の他の誰かに所有されている場合は、その取引先責任者を削除することはできません。 取引先責任者がキャンペーンに含まれている場合は、そのキャンペーンから取引先責任者を削除してから、取引先責任者自体を削除してください。 取引先責任者がチームメンバーに所有されている場合は、そのメンバーが、取引先責任者が含まれているグループの共有を解除するか、自分のアカウントからその取引先責任者を削除する必要があります。

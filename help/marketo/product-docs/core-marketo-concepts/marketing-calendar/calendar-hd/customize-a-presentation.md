@@ -4,19 +4,24 @@ description: ビューと目標を使用してマーケティングカレンダ�
 title: プレゼンテーションのカスタマイズ
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/DDmFzhg3-yRx3ktlHa5TICBSOmG6hlrANlH6tb7FGIY
+TQID: 'https://experienceleague.adobe.com/DDmFzhg3-yRx3ktlHa5TICBSOmG6hlrANlH6tb7FGIY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 284
+source-wordcount: '284'
 ht-degree: 71%
-
 ---
-
 # プレゼンテーションのカスタマイズ {#customize-a-presentation}
 
-チームにとって特に重要なゴールとアクティビティが反映されるように、カレンダプレゼンテーションを設定します。
+チームにとって特に重要な目標とアクティビティが反映されるように、カレンダープレゼンテーションを設定します。
 
 >[!AVAILABILITY]
 >
@@ -31,7 +36,7 @@ ht-degree: 71%
 
 ## ビューの選択 {#choosing-the-views}
 
-プレゼンテーションは、選択した各[フィルター定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}で順に表示されます。 必要な数のビューをドラッグし、表示頻度をカスタマイズしてください。
+プレゼンテーションは、選択した各[フィルター定義](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"}で順に表示されます。 必要なだけビューを取り込み、表示頻度をカスタマイズしてください。
 
 1. 右側のツリーから、プレゼンテーションで順に使用したい各ビューをドラッグします。
 
@@ -39,9 +44,9 @@ ht-degree: 71%
 
 ## ゴールの追加 {#add-a-goal}
 
-プレゼンテーションが最も効果的なのは、チームの目標を表示する場合です。 異なる[&#x200B; カスタム目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}または[&#x200B; スマートリスト目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}をドラッグします。 最大 10 個まで使用できます。
+プレゼンテーションが最も効果的なのは、チームの目標を表示する場合です。 異なる[ カスタム目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"}または[ スマートリスト目標](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}をドラッグします。 最大 10 個まで使用できます。
 
-1. 右側のツリーから、プレゼンテーションで表示する各ゴールをドラッグします。
+1. 右側のツリーから、プレゼンテーションで表示する各目標をドラッグします。
 
    ![](assets/image2015-3-24-14-3a23-3a26.png)
 
@@ -81,7 +86,7 @@ ht-degree: 71%
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   プレゼンテーションが表示されました。
+   プレゼンテーションはこのように表示されます。
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 

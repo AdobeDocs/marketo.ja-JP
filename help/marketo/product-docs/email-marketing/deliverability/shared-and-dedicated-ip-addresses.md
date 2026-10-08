@@ -4,31 +4,37 @@ description: 共有および専用IP アドレスとその長所と短所につ�
 title: 共有 IP アドレスと専用 IP アドレス
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/iYWkYblhZa6DTMf8-ZAMQ5xnFemKl5q5jwaGNWshPOM
+TQID: 'https://experienceleague.adobe.com/iYWkYblhZa6DTMf8-ZAMQ5xnFemKl5q5jwaGNWshPOM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 445
-ht-degree: 40%
-
+source-wordcount: '441'
+ht-degree: 43%
 ---
-
 # 共有 IP アドレスと専用 IP アドレス {#shared-and-dedicated-ip-addresses}
 
-## IP アドレスとは {#what-is-an-ip-address}
+## IP アドレスとは何ですか？ {#what-is-an-ip-address}
 
 インターネットに接続されているコンピューターのアドレスを示す数値ラベル。
 
-## 共有 IP アドレスとは {#what-are-shared-ip-addresses}
+## 共有 IP アドレスとは何ですか？ {#what-are-shared-ip-addresses}
 
-これは、複数の送信者が同じ IP アドレスを利用してメールキャンペーンを開始する場合を指します。 すべてのユーザーが同じ送信 IP を共有します。
+これは、複数の送信者が同じ IP アドレスを利用してメールキャンペーンをローンチする場合を指します。 すべてのユーザーが同じ送信 IP を共有します。
 
-## 専用 IP アドレスとは {#what-is-a-dedicated-ip-address}
+## 専用 IP アドレスとは何ですか？ {#what-is-a-dedicated-ip-address}
 
 1 人の送信者のみが送信する、ユーザー固有の IP アドレス。
 
@@ -66,6 +72,6 @@ _短所_
 
 >[!NOTE]
 >
->決定を行う際には、考慮すべきもう1つの重要な要素があります。配信数。 月に10万件未満、または1 ヶ月に2件未満の電子メールを送信する予定がある場合は、専用IPの恩恵を受けられない可能性があります。 このような送信番号は低いと見なされ、専用 IP をメイン ISP で安全と見なすのに十分な「暖かい」状態に保つのは困難です。 十分な頻度でメールを送信しない場合、ISPはメール送信を突然の「急増」として認識し、スパムの疑いがあるとしてブロックする可能性があります。
+>決定を行う際には、考慮すべきもう1つの重要な要素があります。配信数。 月に10万件未満、または1 ヶ月に2件未満の電子メールを送信する予定がある場合は、専用IPの恩恵を受けられない可能性があります。 このような送信数は少ないと見なされ、専用 IP を主要な ISP から安全と見なされるのに十分な「ウォーム」な状態に保つのは困難です。 十分な頻度でメールを送信しない場合、ISPはメール送信を突然の「急増」として認識し、スパムの疑いがあるとしてブロックする可能性があります。
 
 ご不明な点がある場合、または専用IPの設定に関心がある場合は、Marketoの担当者にお問い合わせください。

@@ -3,19 +3,21 @@ description: セールスメールのメールトラッキングについて詳�
 title: メールトラッキングの概要
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/y1dxCUs89NkZe9B7UHrWUUchy8BXlCtvg6OxRmqaKD8
+TQID: 'https://experienceleague.adobe.com/y1dxCUs89NkZe9B7UHrWUUchy8BXlCtvg6OxRmqaKD8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 500
+source-wordcount: '500'
 ht-degree: 89%
-
 ---
-
 # メールトラッキングの概要 {#email-tracking-overview}
 
-## 返信トラッキングの動作方法 {#how-reply-tracking-works}
+## 返信トラッキングの仕組み&#x200B; {#how-reply-tracking-works}
 
 返信トラッキングは、送信するすべてのメールに含まれるメッセージ ID を調べることでおこなわれます。 すべてのメールには、最適な返信トラッキングに利用できる一意のメッセージ ID が含まれています。
 
@@ -33,7 +35,7 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->添付ファイルのトラッキングは、アドビのチームプラン（g3startup プランから開始）でのみ使用できます。
+>添付ファイルのトラッキングは、チームプラン（g3startup プラン以上）でのみ使用できます。&#x200B;
 
 **初めてのトラッキング可能な添付ファイルの送信方法**
 
@@ -47,18 +49,18 @@ ht-degree: 89%
 
 >[!TIP]
 >
->添付ファイルをトラックしない場合は、「ファイルを添付」のみをクリックすれば、添付ファイルはトラックされません。
+>添付ファイルをトラッキングしない場合は、「ファイルを添付」をクリックするだけで、その添付ファイルはトラッキングされません。
 
-## トラッキング動作の表示方法 {#how-view-tracking-works}
+## 表示トラッキングの仕組み&#x200B; {#how-view-tracking-works}
 
-送信メールの中に見えない画像を配置することによって、メールの開封はトラックされます。
+送信するメールの中に見えない画像を配置することで、メールの開封をトラッキングします。&#x200B;
 
 受信者が送信メールに応答しても、[!DNL Sales Connect] では未開封と表示されている場合、受信者がメールクライアント内の画像を有効にしていない可能性があります（例：メール内の「画像をダウンロードするには、ここをクリック」をクリック）。
 
-メール統計のトラックに関するより良い情報を得るためのヒント：
+メールのトラッキング統計を向上させるためのヒント：&#x200B;
 
 * メールに画像（ロゴなど）を含めると、受信者は、画像を有効化してメッセージを表示するように促されます。
-* コールトゥアクションとしてリンクをメールに含めます。
+* メール内に、コールトゥアクションとしてリンクを含めてください。
 
 ## テストメールが表示済みとされていない {#test-email-not-showed-as-viewed}
 

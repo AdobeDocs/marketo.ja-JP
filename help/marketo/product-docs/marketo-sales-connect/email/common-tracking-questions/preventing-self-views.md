@@ -4,26 +4,30 @@ description: セールスコネクトでセルフビューを防止する方法�
 title: セルフビューの防止
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UF-7Po7qajqMUjhP0LXWSxDqgqQyauDMLqDACzyWHVc
+TQID: 'https://experienceleague.adobe.com/UF-7Po7qajqMUjhP0LXWSxDqgqQyauDMLqDACzyWHVc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 313
+source-wordcount: '313'
 ht-degree: 87%
-
 ---
-
 # セルフビューの防止 {#preventing-self-views}
 
 ## 概要 {#overview}
 
-表示のトラッキングに偽陽性があると、レポートの不整合が生じる可能性があります。 これは、多くの場合、MSC のユーザーが自分のメールクライアントから誤ってトラッキングピクセルを呼び出した場合に発生します（これをセルフビューと呼びます）。 以下に、セルフビューを大幅に減らし、さらには削除するヒントを示します。
+表示のトラッキングに偽陽性があると、レポートの不整合が生じる可能性があります。 これは、多くの場合、MSC のユーザーが自分のメールクライアントから誤ってトラッキングピクセルを呼び出した場合に発生します（これをセルフビューと呼びます）。 以下に、セルフビューを大幅に減らし、さらには発生をなくすためのヒントを示します。
 
 ## Web（[!DNL Outlook Web App] および Gmail） {#web-outlook-web-app-and-gmail}
 
@@ -35,7 +39,7 @@ ht-degree: 87%
 
 ## デスクトップ（Windows） {#desktop-windows}
 
-ビューは、メールクライアントで小さな非表示の画像ピクセルをダウンロードすることでトラックされます。 画像を自動的にダウンロードしないようにすると、[!DNL Outlook] でのセルフビューの量を大幅に減らすことができます。 手順を次に示します。
+メールクライアントで小さな非表示の画像ピクセルをダウンロードすることで、開封がトラッキングされます。 画像を自動的にダウンロードしないようにすると、[!DNL Outlook] でのセルフビューの量を大幅に減らすことができます。 手順を次に示します。
 
 1. [!DNL Outlook] のメニューバーで「**[!UICONTROL ファイル]**」をクリックします。
 
@@ -45,7 +49,7 @@ ht-degree: 87%
 
    ![](assets/win-2.png)
 
-1. [!DNL Outlook] のオプションダイアログボックスで、「**[!UICONTROL トラストセンター]**」をクリックします。
+1. [!DNL Outlook] のオプションダイアログボックスで、「**[!UICONTROL Trust Center]**」をクリックします。
 
    ![](assets/win-3.png)
 
@@ -67,7 +71,7 @@ ht-degree: 87%
 
 ## デスクトップ（Mac） {#desktop-mac}
 
-ビューは、メールクライアントで小さな非表示の画像ピクセルをダウンロードすることでトラックされます。 画像を自動的にダウンロードしないようにすると、[!DNL Outlook] でのセルフビューの量を大幅に減らすことができます。 手順を次に示します。
+メールクライアントで小さな非表示の画像ピクセルをダウンロードすることで、開封がトラッキングされます。 画像を自動的にダウンロードしないようにすると、[!DNL Outlook] でのセルフビューの量を大幅に減らすことができます。 手順を次に示します。
 
 1. [!DNL Outlook] で、メニューバーの「**[!UICONTROL Outlook]**」をクリックし、「**[!UICONTROL 環境設定]**」を選択します。
 

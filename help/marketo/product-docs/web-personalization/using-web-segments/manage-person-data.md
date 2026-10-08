@@ -4,23 +4,28 @@ description: 人物データの管理や人物データの管理など、Marketo
 title: リードデータの管理
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/rIiC-JXLkaMByk7GizVOcCEcUHN8AL-8Hy66-U2GZhs
+TQID: 'https://experienceleague.adobe.com/rIiC-JXLkaMByk7GizVOcCEcUHN8AL-8Hy66-U2GZhs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 213
+source-wordcount: '213'
 ht-degree: 89%
-
 ---
-
 # リードデータの管理 {#manage-person-data}
 
 セグメントで使用する人物のフィールドを選択して、[!DNL Web Personalization] で人物のデータを活用します。
@@ -33,7 +38,7 @@ ht-degree: 89%
 
    ![](assets/account-settings-dropdown-database.jpg)
 
-## 新しいリードフィールドの追加 {#adding-a-new-person-field}
+## 新しい人物フィールドの追加 {#adding-a-new-person-field}
 
 1. **追加するフィールド**&#x200B;をドロップダウンから選択して、リードデータフィールドをリストに追加します。
 
@@ -43,7 +48,7 @@ ht-degree: 89%
    >
    >新しいフィールドが保留状態で追加されます。アクティブ化には最大 24 時間かかる場合があります。
 
-## リードフィールドの削除 {#deleting-a-person-field}
+## 人物フィールドの削除 {#deleting-a-person-field}
 
 1. 削除アイコン（![—](assets/image2015-3-24-13-3a45-3a56.png)）をクリックして、リストからフィールドを削除します。 「**[!UICONTROL はい]**」をクリックして、フィールドの削除を確認します。
 
@@ -53,8 +58,8 @@ ht-degree: 89%
    >
    >**リードデータフィールドの管理**
    >
-   >* リードデータフィールドのみを含めることができます
-   >* リードデータフィールドは最大 30 個まで追加できます
+   >* 人物データフィールドのみを含めることができます
+   >* 人物データフィールドは最大 30 個まで追加できます
    >* 新規フィールドを追加した場合、アクティベーションには最大で 24 時間かかります
    >* 文字列タイプの上限は 255 文字です
    >* 非表示のフィールドは自動的に削除されます
@@ -68,38 +73,38 @@ ht-degree: 89%
   </tr>
   <tr>
    <td><p>department</p></td>
-   <td><p>部門</p></td>
-   <td><p>部門</p></td>
+   <td><p>Department</p></td>
+   <td><p>Department</p></td>
   </tr>
   <tr>
    <td><p>title</p></td>
-   <td><p>役職</p></td>
-   <td><p>役職</p></td>
+   <td><p>Title</p></td>
+   <td><p>Job Title</p></td>
   </tr>
   <tr>
    <td><p>rating</p></td>
-   <td><p>評価</p></td>
-   <td><p>評価</p></td>
+   <td><p>Rating</p></td>
+   <td><p>Rating</p></td>
   </tr>
   <tr>
    <td><p>leadScore</p></td>
    <td><p>LeadScore</p></td>
-   <td><p>スコア</p></td>
+   <td><p>Score</p></td>
   </tr>
   <tr>
    <td><p>leadStatus</p></td>
    <td><p>LeadStatus</p></td>
-   <td><p>ステータス</p></td>
+   <td><p>Status</p></td>
   </tr>
   <tr>
-   <td><p>優先度</p></td>
-   <td><p>優先度</p></td>
-   <td><p>優先度</p></td>
+   <td><p>priority</p></td>
+   <td><p>Priority</p></td>
+   <td><p>Priority</p></td>
   </tr>
   <tr>
    <td><p>leadRole</p></td>
    <td><p>LeadRole</p></td>
-   <td><p>役割</p></td>
+   <td><p>Role</p></td>
   </tr>
   <tr>
    <td><p>unsubscribed</p></td>

@@ -1,20 +1,23 @@
 ---
 description: Sales Insight ActionsにMarketo マーケティングキャンペーンを表示する方法を説明します。 セールスユーザーがアクションからキャンペーンにリードを追加できるようにします。
-title: セールスインサイトアクションにマーケティングキャンペーンを表示
+title: セールスインサイトアクションへのマーケティングキャンペーンの表示
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/hIuHfnPyopakqjUeEmBc-EZ4sRrNnM-TptIOiqa1TEY
+TQID: 'https://experienceleague.adobe.com/hIuHfnPyopakqjUeEmBc-EZ4sRrNnM-TptIOiqa1TEY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 311
+source-wordcount: '311'
 ht-degree: 92%
-
 ---
-
 # セールスインサイトアクションにマーケティングキャンペーンを表示 {#make-a-marketing-campaign-visible-in-sales-insight-actions}
 
 キャンペーンは、表示されている場合にのみ共有できます。
@@ -39,7 +42,7 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >toutapp.com web アプリから&#x200B;_マーケティングキャンペーンに追加_&#x200B;を利用しているユーザにマーケティングキャンペーンを表示する場合（Marketo Sales Outbox オブジェクト経由で CRM に web アプリを埋め込んでいる場合も含まれます）、キャンペーンリクエストソースを「Web サービス API」に設定します。 ユーザが Salesforce の MSI パネルのリード、取引先責任者、アカウントページでアクションを使用した際や、リードと取引先責任者リストビューの一括アクションボタンを使用した際に、マーケティングキャンペーンを表示するには、キャンペーンリクエストソースを「セールスインサイト」に更新します。
+   >toutapp.com web アプリから&#x200B;_マーケティングキャンペーンに追加_&#x200B;を利用しているユーザにマーケティングキャンペーンを表示する場合（Marketo Sales Outbox オブジェクト経由で CRM に web アプリを埋め込んでいる場合も含まれます）、キャンペーンリクエストソースを「Web サービス API」に設定します。 ユーザーが Salesforce の MSI パネルで、リード、取引先責任者、アカウントのページ上のアクションや、リードおよび取引先責任者リストビューの一括アクションボタンを使用したときにマーケティングキャンペーンを表示したい場合は、キャンペーンリクエストソースを「セールスインサイト」に更新します。
 
 1. 「**フロー**」タブをクリックします。
 

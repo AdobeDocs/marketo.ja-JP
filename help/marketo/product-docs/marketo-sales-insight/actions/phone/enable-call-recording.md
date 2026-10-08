@@ -3,16 +3,18 @@ description: Sales Insight アクションで通話録音を有効にする方�
 title: 通話記録の有効化
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/37hdOAowbNsB2eZKh7pojClflb0GCKtYywijBS6Pqgo
+TQID: 'https://experienceleague.adobe.com/37hdOAowbNsB2eZKh7pojClflb0GCKtYywijBS6Pqgo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 114
+source-wordcount: '114'
 ht-degree: 81%
-
 ---
-
 # 通話記録の有効化 {#enable-call-recording}
 
 管理者は、[!DNL Sales Insight Actions] 通話の通話記録を有効にできます。 チームの通話を録音することは、通話のベストプラクティスをセールス担当者に指導する優れた方法です。

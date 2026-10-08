@@ -1,24 +1,30 @@
 ---
 unique-page-id: 2360251
 description: Admin Emailのマーケティングメールに追加されるデフォルトの購読解除テキストとリンクを変更します。
-title: 登録解除メッセージの編集
+title: 購読解除メッセージの編集
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-TQID: https://experienceleague.adobe.com/2wAcUvsELVvNhk0HpdNdkWJLopFn3IC4X-lUSQlCs5Q
+TQID: 'https://experienceleague.adobe.com/2wAcUvsELVvNhk0HpdNdkWJLopFn3IC4X-lUSQlCs5Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
+    internal-label: Email setup
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 140
-ht-degree: 65%
-
+source-wordcount: '142'
+ht-degree: 64%
 ---
-
-# 登録解除メッセージの編集 {#edit-the-unsubscribe-message}
+# 購読解除メッセージの編集 {#edit-the-unsubscribe-message}
 
 >[!NOTE]
 >
@@ -60,7 +66,7 @@ ht-degree: 65%
 [!UICONTROL HTMLの購読解除]:
 `<p><font face="Verdana" size="1">If you no longer wish to receive these emails, click on the following link: <a href="%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##">Unsubscribe</a><br/></font></p>`
 <br>
-[!UICONTROL &#x200B; テキストの購読解除]:
+[!UICONTROL  テキストの購読解除]:
 `%mkt_opt_out_prefix%UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=##MKT_TOK##`
 
 >[!MORELIKETHIS]

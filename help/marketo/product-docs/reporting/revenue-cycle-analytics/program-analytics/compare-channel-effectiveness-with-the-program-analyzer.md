@@ -4,13 +4,19 @@ description: compare channelを含む、Marketo Engageのプログラムアナ�
 title: プログラムアナライザーを使用したチャネルの効果の比較
 exl-id: bfe635a7-b077-4074-889d-fc2256102cd5
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 94%
-
 ---
-
 # [!UICONTROL プログラムアナライザー]を使用したチャネルの効果の比較 {#compare-channel-effectiveness-with-the-program-analyzer}
 
 [!UICONTROL プログラムアナライザー]を使用して、チャネルコスト、メンバー獲得、パイプライン、売上高などを比較し、最も効果が高いチャネルと最も効果が低いチャネルを特定します。
@@ -69,7 +75,7 @@ ht-degree: 94%
 
    ![](assets/image2014-9-17-18-3a41-3a19.png)
 
-   色から、ファーストタッチアトリビューションで測定される、最も緑色のバブルである展示会チャネルが、売上高の獲得に最も大きく影響を与えていることがわかります。
+   色から、最も緑色のバブルである展示会チャネルが、ファーストタッチアトリビューションで測定される獲得売上高に最も大きく影響を与えていることがわかります。
 
 1. ここで、カラー指標を「**[!UICONTROL （MT）獲得した売上高]**」に変更すると、オンライン広告チャネルが最も緑色になり、ウェビナーや展示会チャネルよりも&#x200B;_多く_&#x200B;売上高に影響したことがわかります。
 

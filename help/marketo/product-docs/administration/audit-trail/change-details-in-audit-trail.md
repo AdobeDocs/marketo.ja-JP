@@ -1,29 +1,40 @@
 ---
 unique-page-id: 11379928
 description: アセットおよび管理者アクションの監査記録の変更詳細に関する参照。
-title: 監査記録の詳細の変更
+title: 監査記録における変更の詳細
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-TQID: https://experienceleague.adobe.com/udO9Dc9RJl9vopApjSC6EN-zL3o2Igh6yn-njzaItV0
+TQID: 'https://experienceleague.adobe.com/udO9Dc9RJl9vopApjSC6EN-zL3o2Igh6yn-njzaItV0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1910
+source-wordcount: '1910'
 ht-degree: 85%
-
 ---
-
-# 監査記録の詳細の変更 {#change-details-in-audit-trail}
+# 監査記録における変更の詳細 {#change-details-in-audit-trail}
 
 Audit Trailでは、insightの多くの機能を利用して、Marketo サブスクリプションで誰が何をしているのかを把握できます。
 
@@ -113,7 +124,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>編集</td>
-   <td>「メールから」を「newemail@name.com」に更新</td>
+   <td>「差出人メールアドレス」を「newemail@name.com」に更新</td>
   </tr>
   <tr>
    <td>編集</td>
@@ -121,7 +132,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>編集</td>
-   <td>「件名」を「新しい件名行」に更新</td>
+   <td>「件名」を「新しい件名」に更新</td>
   </tr>
   <tr>
    <td>編集</td>
@@ -141,7 +152,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>編集</td>
-   <td>編集によってテンプレート「template_name」かメールが壊れた（注意：これは、コードを直接編集した場合に発生します）。</td>
+   <td>編集によってテンプレート「テンプレート名」とメールの関連付けが解除されました（メモ：これは、コードを直接編集した場合に発生します）。</td>
   </tr>
   <tr>
    <td>編集</td>
@@ -213,7 +224,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>プログラムトークンの修正</td>
-   <td>トークン「トークン名」を削除</td>
+   <td>トークン「トークン名」が削除されました</td>
   </tr>
   <tr>
    <td>プログラムスケジュールの修正</td>
@@ -221,7 +232,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>プログラムスケジュールの修正</td>
-   <td>スケジュールを「新しい日付、新しい時刻」に変更</td>
+   <td>スケジュールが「新しい日付、新しい時刻」に変更されました</td>
   </tr>
   <tr>
    <td>プログラム設定の修正</td>
@@ -250,7 +261,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   <tr>
    <td rowspan="8">メールテンプレート</td>
    <td>作成</td>
-   <td>空白または「テンプレート名」から複製</td>
+   <td>空白の状態から作成、または「テンプレート名」から複製</td>
   </tr>
   <tr>
    <td>編集</td>
@@ -307,7 +318,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>プログラムストリームの修正</td>
-   <td><p>ストリームを編集</p><p>新しいストリーム名「新しい名前」、古いストリーム名「古い名前」</p><p>新しい配置「新しい#」、古い配置「古い#」</p></td>
+   <td><p>ストリームを編集</p><p>新しいストリーム名：「新しい名前」、古いストリーム名：「古い名前」</p><p>新しい配置「新しい#」、古い配置「古い#」</p></td>
   </tr>
   <tr>
    <td>プログラムストリームの修正</td>
@@ -404,7 +415,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>プログラムトークンの修正</td>
-   <td>トークン「トークン名」を削除</td>
+   <td>トークン「トークン名」が削除されました</td>
   </tr>
   <tr>
    <td>プログラムスケジュールの修正</td>
@@ -412,7 +423,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>プログラムスケジュールの修正</td>
-   <td>スケジュールを「新しい日付、新しい時刻」に変更</td>
+   <td>スケジュールが「新しい日付、新しい時刻」に変更されました</td>
   </tr>
   <tr>
    <td>プログラム設定の修正</td>
@@ -457,7 +468,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>編集</td>
-   <td>トークン「token_name」、値「値」を追加</td>
+   <td>トークン「トークン名」、値「値」を追加</td>
   </tr>
   <tr>
    <td>編集</td>
@@ -520,7 +531,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>編集</td>
-   <td>新しい説明「新しい説明」、古い説明「古い説明」</td>
+   <td>新しい説明「新しい説明」、以前の説明「以前の説明」</td>
   </tr>
   <tr>
    <td>編集</td>
@@ -544,7 +555,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>下書き</td>
-   <td>テンプレート「テンプレート名」が承認されたため、ランディングページを下書き</td>
+   <td>テンプレート「テンプレート名」が承認されたため、ランディングページが下書き状態になりました</td>
   </tr>
   <tr>
    <td>承認取消</td>
@@ -577,7 +588,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>承認</td>
-   <td># アセットで使用 </td>
+   <td># 個のアセットで使用 </td>
   </tr>
   <tr>
    <td>承認取消</td>
@@ -747,7 +758,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   <tr>
    <td>IP 制限</td>
    <td>編集</td>
-   <td>IP 制限の編集：許可／ブロック「ブロック」、IP アドレス「#」、IP 制限無効化「」</td>
+   <td>IP 制限を次のように変更：許可／ブロック「ブロック」、IP アドレス「#」、IP 制限を無効化</td>
   </tr>
   <tr>
    <td rowspan="2">パーティション</td>
@@ -770,7 +781,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>削除</td>
-   <td>役割「役割名」を削除</td>
+   <td>ロール「ロール名」が削除されました</td>
   </tr>
   <tr>
    <td>編集</td>
@@ -804,7 +815,7 @@ Audit Trailでは、insightの多くの機能を利用して、Marketo サブス
   </tr>
   <tr>
    <td>問題</td>
-   <td>カレンダーライセンスをメール「ユーザーのメール」、名前「ユーザー名」に発行</td>
+   <td>メール「ユーザのメール」、名前「ユーザ名」のユーザにカレンダーライセンスを発行</td>
   </tr>
   <tr>
    <td>リセット</td>

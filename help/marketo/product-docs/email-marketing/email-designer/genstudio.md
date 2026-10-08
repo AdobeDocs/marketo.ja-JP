@@ -6,24 +6,33 @@ product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: bb15b18e-9a17-4dee-87f4-12f216dd3545
-TQID: https://experienceleague.adobe.com/opg2aUcpf3QCiu5TazxPMfihsp6DPrRtekX3RicGg-M
+TQID: 'https://experienceleague.adobe.com/opg2aUcpf3QCiu5TazxPMfihsp6DPrRtekX3RicGg-M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 449
+source-wordcount: '449'
 ht-degree: 17%
-
 ---
-
 # Marketo Engage の GenStudio の統合 {#genstudio-integration-for-marketo-engage}
 
 Adobe GenStudio for Performance Marketingは、独自の広告やメールを作成し、ブランド基準を満たし、企業のポリシーに準拠した、インパクトのあるパーソナライズされたマーケティング施策を推進できる、生成AIを活用したアプリケーションです。 コンテンツ制作の複雑さを簡素化する多くのツールを提供します。
@@ -55,7 +64,7 @@ Adobe GenStudio for Performance Marketingは、独自の広告やメールを作
 
 1. [書き出したHTML](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}のテンプレートをGenStudio for Performance Marketingにアップロードします。
 
-1. GenStudioでは、このテンプレートを使用して、AI プロンプトを使用して[いくつかの電子メールのバリエーション &#x200B;](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}を作成し、保存します。
+1. GenStudioでは、このテンプレートを使用して、AI プロンプトを使用して[いくつかの電子メールのバリエーション ](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}を作成し、保存します。
 
 ## Marketo EngageでのGenStudio体験の活用 {#leverage-genstudio-experiences}
 
@@ -65,15 +74,15 @@ Marketo Engageに読み込んで作成したGenStudio メールのバリエー�
 
 1. メールの詳細ページで、**メールコンテンツの編集**&#x200B;をクリックします。
 
-   ![電子メールコンテンツの編集ボタン &#x200B;](assets/genstudio-integration-2.png)
+   ![電子メールコンテンツの編集ボタン ](assets/genstudio-integration-2.png)
 
 1. 「**HTMLを読み込み**」を選択します。
 
-   ![HTMLの読み込みボタン &#x200B;](assets/genstudio-integration-3.png)
+   ![HTMLの読み込みボタン ](assets/genstudio-integration-3.png)
 
 1. 「**Adobe GenStudio for Performance Marketing**」ボタンをクリックします。
 
-   ![Adobe GenStudio for Performance Marketing ボタン &#x200B;](assets/genstudio-integration-4.png)
+   ![Adobe GenStudio for Performance Marketing ボタン ](assets/genstudio-integration-4.png)
 
 1. GenStudio エクスペリエンスを参照して、コンテンツの作成を開始します。 商品、ペルソナ、ブランド、さらには色などの基準でエクスペリエンスをフィルタリングすることができます。
 
@@ -89,4 +98,4 @@ Marketo Engageに読み込んで作成したGenStudio メールのバリエー�
 >
 >Marketo Engage テンプレートから作成されたGenStudio エクスペリエンスは、メールDesignerに直接読み込まれます。 Marketo Engage テンプレートなしで作成されたGenStudio エクスペリエンスは、互換モードで読み込まれます。
 
-[&#x200B; メールコンテンツ編集ツール &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}と[&#x200B; パーソナライゼーションフィールド &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#personalize-content){target="_blank"}を使用して、必要に応じてメールを編集します。
+[ メールコンテンツ編集ツール ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}と[ パーソナライゼーションフィールド ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#personalize-content){target="_blank"}を使用して、必要に応じてメールを編集します。

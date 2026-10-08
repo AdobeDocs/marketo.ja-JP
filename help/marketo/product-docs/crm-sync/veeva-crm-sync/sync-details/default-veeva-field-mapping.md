@@ -1,18 +1,23 @@
 ---
 description: Veeva CRMとMarketo Engage間のデフォルトのVeeva フィールドマッピングについて説明します。 取引先責任者フィールドとアカウントフィールドのマッピング方法と、同期するカスタムフィールドを確認します。
-title: デフォルトの  [!DNL Veeva]  フィールドマッピング
+title: デフォルトの [!DNL Veeva] フィールドマッピング
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY
+TQID: 'https://experienceleague.adobe.com/ilvA8-VMso0GUsszVRlK20lGSYmPNHRK-N4pEdJWfEY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 273
+source-wordcount: '273'
 ht-degree: 91%
-
 ---
-
 # デフォルトの [!DNL Veeva] フィールドマッピング {#default-veeva-field-mapping}
 
 Marketo Engage アカウントと [!DNL Veeva] の初回同期時に、Marketo ではビルトインの [!DNL Veeva] フィールドと Marketo フィールドの間でこれらの関連付けが自動的に行われます。 Marketo は、アカウントと取引先責任者のカスタムフィールドも同期します。

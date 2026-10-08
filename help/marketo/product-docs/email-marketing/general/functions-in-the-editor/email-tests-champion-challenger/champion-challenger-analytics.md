@@ -4,20 +4,26 @@ description: チャンピオン/チャレンジャー分析を表示し、レポ
 title: チャンピオン／挑戦者：レポートアラートの設定
 exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/idG-mOrJdcShh-sv41sQUVXykShdhnEyxMpg2znKLrU
+TQID: 'https://experienceleague.adobe.com/idG-mOrJdcShh-sv41sQUVXykShdhnEyxMpg2znKLrU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Experimentation
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 231
+source-wordcount: '231'
 ht-degree: 90%
-
 ---
-
 # チャンピオン／挑戦者：分析 {#champion-challenger-analytics}
 
 レポートアラートを受信したり、チャンピオン／挑戦者ダッシュボードを確認して役立つ分析を入手したりできます。
@@ -54,6 +60,6 @@ Marketo では、メールテストの進行状況に関するレポートが送
 
 ## チャンピオン／挑戦者ダッシュボード {#champion-challenger-dashboard}
 
-チャンピオン／挑戦者ダッシュボードには、チャンピオン／挑戦者実験におけるコントロールとバリアントのパフォーマンスに関する詳細な分析（開封数、クリック数、登録解除率、メールテストの設定中に使用されるその他の変数）が用意されています。 また、ダッシュボードには、様々なメールバリアントのターゲットオーディエンスに関する配分の詳細と、すべてのバリアントの開封数、クリック数、クリック／開封率、登録解除数の集計割合も表示されます。
+チャンピオン／挑戦者ダッシュボードには、チャンピオン／挑戦者実験におけるコントロールとバリアントのパフォーマンスに関する詳細な分析（開封数、クリック数、購読解除率、メールテストの設定中に使用されるその他の変数）が用意されています。 また、ダッシュボードには、様々なメールバリアントのターゲットオーディエンスに関する配分の詳細と、すべてのバリアントの開封数、クリック数、クリック／開封率、購読解除数の集計割合も表示されます。
 
 ![](assets/champion-challenger-analytics-5.png)

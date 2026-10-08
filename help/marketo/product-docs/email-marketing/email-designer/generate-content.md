@@ -6,21 +6,28 @@ description: コンテンツを生成してテキストや画像をメールに�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-TQID: https://experienceleague.adobe.com/iqJs2yG5ip5vNlwtjvIEjLXp0o0P3-mHVEZmOLcAqBE
+TQID: 'https://experienceleague.adobe.com/iqJs2yG5ip5vNlwtjvIEjLXp0o0P3-mHVEZmOLcAqBE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
+    internal-label: Beginner
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 914
+source-wordcount: '914'
 ht-degree: 1%
-
 ---
-
 # E メールDesignerでのコンテンツの生成 {#generate-content}
 
 Marketo Engageの電子メールDesignerでコンテンツを生成すると、現代的でパフォーマンスの高い、直感的な電子メールを作成できます。 これは、Adobeの生成AI テクノロジーとプロンプトライブラリ、および特定のペルソナ/購買グループ、マーケティングジャーニーの段階、コミュニケーション戦略、トーンなどに適したコンテンツの作成を支援する画像生成用Fireflyを通じて実現されます。特定のブランドアセットを利用して、コンテンツを制作することもできます。
@@ -60,8 +67,8 @@ _上記の前提条件に従った_&#x200B;後、Marketo管理者は、ユーザ
 ## ユースケース {#use-cases}
 
 * [電子メールの件名および/またはプリヘッダー](#create-a-subject-line-preheader)を作成する
-* [&#x200B; メールの特定のセクション &#x200B;](#create-content-for-a-specific-section)のコンテンツを作成する
-* 選択したテンプレートから[&#x200B; メール全体](#create-an-entire-email)を作成
+* [ メールの特定のセクション ](#create-content-for-a-specific-section)のコンテンツを作成する
+* 選択したテンプレートから[ メール全体](#create-an-entire-email)を作成
 
 ## 件名/プリヘッダーの作成 {#create-a-subject-line-preheader}
 
@@ -73,7 +80,7 @@ _上記の前提条件に従った_&#x200B;後、Marketo管理者は、ユーザ
 
 新しい電子メールDesignerを使用して電子メールを作成する場合は、一時的な件名を入力します。
 
-電子メールを作成した後、件名は右側の&#x200B;_詳細_&#x200B;列にあります。 コンテンツを生成ボタン（![&#x200B; フィルターアイコン &#x200B;](assets/icon-ai-assistant.png)）をクリックすると、生成AI機能を使用して新しい件名を作成する際のサポートを受けることができます。
+電子メールを作成した後、件名は右側の&#x200B;_詳細_&#x200B;列にあります。 コンテンツを生成ボタン（![ フィルターアイコン ](assets/icon-ai-assistant.png)）をクリックすると、生成AI機能を使用して新しい件名を作成する際のサポートを受けることができます。
 
 ![](assets/use-the-ai-assistant-2.png)
 
@@ -157,7 +164,7 @@ _上記の前提条件に従った_&#x200B;後、Marketo管理者は、ユーザ
 
 ## 選択したテンプレートからメール全体を作成 {#create-an-entire-email}
 
-このオプションは、メールが既存のテンプレートを使用して作成された場合にのみ使用できます。 これは、電子メールDesignerで提供される標準テンプレート、既に作成した保存テンプレート、またはHTMLの読み込みオプションを使用して読み込んだテンプレートです。 このオプションは、電子メールに「[&#x200B; ゼロからデザイン &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch)」を選択した場合は使用できません。
+このオプションは、メールが既存のテンプレートを使用して作成された場合にのみ使用できます。 これは、電子メールDesignerで提供される標準テンプレート、既に作成した保存テンプレート、またはHTMLの読み込みオプションを使用して読み込んだテンプレートです。 このオプションは、電子メールに「[ ゼロからデザイン ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch)」を選択した場合は使用できません。
 
 テンプレート内のコンポーネントを選択せずにテンプレートを選択し、メールDesignerの「コンテンツを生成」ボタンをクリックします。
 

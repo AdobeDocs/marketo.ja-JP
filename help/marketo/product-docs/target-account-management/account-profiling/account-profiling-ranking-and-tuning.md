@@ -4,23 +4,29 @@ description: アカウントプロファイリングがICPによって企業を�
 title: アカウントのプロファイリングのランキングと調整
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/nuRK415J6iR46j8ft0lShUapom3GzqWiuNf-k2-Ca5w
+TQID: 'https://experienceleague.adobe.com/nuRK415J6iR46j8ft0lShUapom3GzqWiuNf-k2-Ca5w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Customer experience
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 426
+source-wordcount: '426'
 ht-degree: 89%
-
 ---
+# アカウントプロファイリングのランキングと調整 {#account-profiling-ranking-and-tuning}
 
-# アカウントのプロファイリングのランキングと調整 {#account-profiling-ranking-and-tuning}
-
-アカウントプロファイリングは、理想的な顧客プロファイル（ICP）を特定し、ICP に基づきデータベース内の企業をランク付けし、[!UICONTROL 重点顧客]として昇格されたアカウントに ICP 指標データを追加します。
+アカウントプロファイリングは、理想的な顧客プロファイル（ICP）を特定し、ICP に基づきデータベース内の企業をランキングし、[!UICONTROL 重点顧客]として昇格されたアカウントに ICP 指標データを追加します。
 
 >[!IMPORTANT]
 >
@@ -32,15 +38,15 @@ ht-degree: 89%
 
 ![](assets/results.png)
 
-オプションではありますが、「自動的に昇格」チェックボックスはオンにすることをお勧めします。これにより、時間を大幅に節約できます。 ただし、各アカウントを調べて[手動で追加する](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)場合は、このチェックボックスをオフのままにしておきます。
+オプションではありますが、「自動的に昇格」チェックボックスを選択することをお勧めします。これにより、時間を大幅に節約できます。 ただし、各アカウントを調べて[手動で追加する](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts)場合は、このチェックボックスをオフのままにしておきます。
 
 <table>
  <tbody>
   <tr>
-   <td><strong><span class="uicontrol">ランク</span></strong></td>
+   <td><strong><span class="uicontrol">ランキング</span></strong></td>
    <td>
     <div>
-      理想的な顧客プロファイルに基づくアカウントランク。 A は最適で、D は最も適していません。
+      理想的な顧客プロファイルに基づくアカウントランキング。 A は最適で、D は最も適していません。
     </div></td>
   </tr>
   <tr>
@@ -54,14 +60,14 @@ ht-degree: 89%
    <td><strong><span class="uicontrol">アカウント（%）</span></strong></td>
    <td>
     <div>
-      このランクを持つモデル入力のアカウントの割合。
+      モデル入力に含まれるアカウントのうち、このランキングを持つものの割合。
     </div></td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">モデル基準の割合</span></strong></td>
    <td>
     <div>
-      このランクを持つモデル基準のアカウントの割合。
+      モデル基準に含まれるアカウントのうち、このランキングを持つものの割合。
     </div></td>
   </tr>
  </tbody>
@@ -148,20 +154,20 @@ ht-degree: 89%
    <td><strong><span class="uicontrol">ビジネス</span></strong></td>
    <td>
     <div>
-      Forbes リストや上場企業またはビジネスパートナーシップ。
+      Forbes や Inc. のリスト、またはビジネスパートナーシップ。
     </div></td>
   </tr>
   <tr>
-   <td><strong><span class="uicontrol">カスタマーエクスペリエンスとリレーション</span></strong></td>
+   <td><strong><span class="uicontrol">カスタマーエクスペリエンスとカスタマーリレーション</span></strong></td>
    <td>
     <div>
-      カスタマーサクセスおよびカスタマーリレーション関連の職階／雇用。
+      カスタマーサクセスおよびカスタマーリレーションズの職種／採用。
     </div></td>
   </tr>
  </tbody>
 </table>
 
-各列の説明を表示するには、ツールヒントの上にカーソルを置きます。
+各列の説明を表示するには、ツールチップにポインタを合わせます。
 
 ![](assets/tool-tip.png)
 

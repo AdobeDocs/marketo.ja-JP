@@ -4,20 +4,23 @@ description: Microsoft Dynamics 2013でMarketo Sales Insightをインストー�
 title: Marketo セールスインサイトの Microsoft Dynamics 2013 へのインストールと設定
 exl-id: 290db451-47a6-4cfa-a36f-bc12ef7d3482
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/SebmARDq2CFr9O239iRUunEFp2iViOFUQ7n7bMxrLm8
+TQID: 'https://experienceleague.adobe.com/SebmARDq2CFr9O239iRUunEFp2iViOFUQ7n7bMxrLm8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 410
+source-wordcount: '410'
 ht-degree: 90%
-
 ---
-
 # [!DNL Microsoft Dynamics 2013] での [!DNL Marketo Sales Insight] のインストールと設定 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 [!DNL Marketo Sales Insight] は、マーケティングチームが持つ豊富なデータをセールスチームに「窓」として提供する素晴らしいツールです。 インストールと設定方法を次に示します。
@@ -48,7 +51,7 @@ ht-degree: 90%
    >
    >次に進む前に、あらかじめ Marketo をインストールして設定しておく必要があります
 
-1. 「**[!UICONTROL 読み込み]**」をクリックします。
+1. 「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
@@ -138,11 +141,11 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
 
    ![](assets/image2014-12-12-9-3a8-3a34.png)
 
-1. 「**[!UICONTROL ユーザ]**」をクリックします。
+1. 「**[!UICONTROL ユーザー]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a8-3a42.png)
 
-1. セールスインサイトへのアクセス権を付与するユーザを選択し、「**[!UICONTROL 役割の管理]**」をクリックします。
+1. セールスインサイトへのアクセス権を付与するユーザーを選択し、「**[!UICONTROL 役割の管理]**」をクリックします。
 
    ![](assets/image2014-12-12-9-3a9-3a13.png)
 
@@ -150,7 +153,7 @@ Marketo インスタンスを [!DNL Dynamics] で [!DNL Sales Insight] に関連
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 
-   これですべて完了です。 最後に、[!DNL Marketo Sales Insight] にアクセスし、リードや取引先責任者を調べるユーザとして [!DNL Dynamics] にログインし、テストを実施します。
+   これですべて完了です。 最後に、[!DNL Marketo Sales Insight] にアクセスし、リードや取引先責任者を調べるユーザーとして [!DNL Dynamics] にログインし、テストを実施します。
 
    ![](assets/image2014-12-12-9-3a9-3a31.png)
 

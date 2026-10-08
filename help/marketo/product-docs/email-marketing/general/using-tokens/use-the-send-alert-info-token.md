@@ -4,27 +4,30 @@ description: メールでアラート情報を送信トークンを使用する�
 title: アラート情報送信トークンの使用
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-TQID: https://experienceleague.adobe.com/aGDNauucFt-af6OXYlELf-jPMbWKoWZx1VAs7rOIhRs
+TQID: 'https://experienceleague.adobe.com/aGDNauucFt-af6OXYlELf-jPMbWKoWZx1VAs7rOIhRs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 270
+source-wordcount: '270'
 ht-degree: 92%
-
 ---
-
 # アラート情報送信トークンの使用 {#use-the-send-alert-info-token-sp-send-alert-info}
 
 `{{SP_Send_Alert_Info}}` トークンは、セールスチームのアラートメールを作成する際に使用する特別なトークンです。
 
 >[!TIP]
 >
->このトークンは、そのトークンを含むメールを[アラートを送信](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)フローステップで送信する場合のみに機能します。 メールを送信フローステップで使用された場合は機能しません。
+>このトークンは、そのトークンを含むメールを[アラートを送信](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md)フローステップで送信する場合のみに機能します。 Send Email フローステップで使用された場合は機能しません。
 
 アラートの例：
 
@@ -36,14 +39,14 @@ ht-degree: 92%
 
 以下の情報が `{{SP_Send_Alert_Info}}` の一部として含まれています。
 
-* Marketo でのユーザーの詳細へのリンクとしての姓と名
-* CRM 内のユーザーへのリンク
+* Marketo の人物詳細へのリンクとして表示される名と姓
+* CRM 内の人物へのリンク
 * アラートを送信した Marketo のキャンペーン名
 * アラートが送信された時刻
 
 >[!NOTE]
 >
->CRM へのリンクは、そのユーザーが CRM システムに存在する（現在 Dynamics CRM では使用不可）場合にのみ表示されます。 このリンクには、Marketo ユーザーと Marketo 以外のユーザーの両方がアクセスできます。
+>CRM へのリンクは、その人物が CRM システムに存在する場合にのみ表示されます（現在は Dynamics CRM では使用できません）。 このリンクには、Marketo ユーザーと Marketo 以外のユーザーの両方がアクセスできます。
 
 ## SP_Send_Alert_Info トークンをメールに追加する {#add-the-sp-send-alert-info-token-to-an-email}
 
@@ -71,4 +74,4 @@ ht-degree: 92%
 >
 >忘れずにメールを承認してください。
 
-これは強力です。 このトークンは非常に役に立つので、セールスチームに対して作成するすべてのアラートでご使用ください。
+これは強力です。 このトークンは非常に役に立つので、セールスチーム向けに作成するすべてのアラートで使用してください。

@@ -4,16 +4,18 @@ description: メール、電話、InMail、カスタムタスクの各ステッ�
 title: キャンペーンの作成
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII
+TQID: 'https://experienceleague.adobe.com/ljAuq-M-VyM-2PBuMSEfZykqjC1j-Dkctk3kQl-byII'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '319'
 ht-degree: 87%
-
 ---
-
 # キャンペーンの作成 {#create-a-campaign}
 
 キャンペーンは、メール、電話、InMail、カスタムタスクのような一連のマルチチャネル手順です。 キャンペーンは、潜在顧客や既存顧客とのコミュニケーションを合理化できます。
@@ -39,7 +41,7 @@ ht-degree: 87%
    >
    >新しいカテゴリを作成するには、「**カテゴリ**」の横にある「**[!UICONTROL +]**」をクリックします。
 
-1. カテゴリが選択されます。 変更する場合は、ドロップダウンをクリックし、別のドロップダウンを選択します。 完了したら、「**[!UICONTROL Continue]**」をクリックします。
+1. 選択したカテゴリが反映されます。 変更する場合は、ドロップダウンをクリックし、別の項目を選択します。 完了したら、「**[!UICONTROL Continue]**」をクリックします。
 
    ![](assets/three-1.png)
 
@@ -47,11 +49,11 @@ ht-degree: 87%
 
    ![](assets/four-1.png)
 
-1. メール、呼び出し、InMail、カスタムタスクのいずれかを選択します。 この例では、[メール](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email)を選択しています。
+1. メール、電話、InMail、カスタムタスクのいずれかを選択します。 この例では、[メール](/help/marketo/product-docs/marketo-sales-connect/campaigns/campaign-step-types.md#email)を選択しています。
 
    ![](assets/five-1.png)
 
-1. 最初の日とステップを作成した後、「[!UICONTROL 日を追加]」ボタンがアクティブになり、セールスプロセスに必要な数の日とステップを追加できます。
+1. 最初の日とステップを作成した後、「[!UICONTROL 日を追加]」ボタンがアクティブになり、営業プロセスに必要な数の日とステップを追加できます。
 
    ![](assets/six.png)
 

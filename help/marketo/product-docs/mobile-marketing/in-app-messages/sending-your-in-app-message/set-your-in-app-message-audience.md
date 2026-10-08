@@ -4,21 +4,23 @@ description: アプリ内メッセージのオーディエンスを設定する�
 title: アプリ内メッセージオーディエンスの設定
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/hMVJupuaDx0Tw9yy8geOrIZPUosdvtx7HJwzqbQiIdA
+TQID: 'https://experienceleague.adobe.com/hMVJupuaDx0Tw9yy8geOrIZPUosdvtx7HJwzqbQiIdA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 319
+source-wordcount: '319'
 ht-degree: 92%
-
 ---
+# アプリ内メッセージのオーディエンスを設定する {#set-your-in-app-message-audience}
 
-# アプリ内メッセージオーディエンスの設定 {#set-your-in-app-message-audience}
-
-最初の手順は、アプリ内メッセージを受け取るユーザーを決定することです。 スマートリストを設定する必要があります。
+最初の手順は、どのユーザにアプリ内メッセージを送信するかを決めることです。 スマートリストを設定する必要があります。
 
 1. 「**[!UICONTROL スマートリストを編集]**」をクリックします。
 
@@ -30,7 +32,7 @@ ht-degree: 92%
 
    >[!NOTE]
    >
-   >現在、アプリ内メッセージプログラムでは「モバイルアプリ」フィールドでの複数の値はサポートされていません。
+   >現在、アプリ内メッセージプログラムでは、モバイルアプリフィールドに複数の値を指定することはサポートされていません。
 
 1. 「**[!UICONTROL アプリを開く]**」はデフォルトのアクション設定ですが、既に設定済みの任意のカスタムイベントを選択できます。
 

@@ -1,26 +1,28 @@
 ---
 unique-page-id: 17728401
 description: Sales ConnectでのGmail ユーザーのメール接続について説明します。 Gmailを接続して、追跡された電子メールを送信し、アクティビティをSalesforceにログに記録します。
-title: Gmail ユーザのメール接続
+title: Gmail ユーザ向けのメール接続
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/gLjTc3K51lnsosWQHH7V02ObiNdi2sGCigPZLybmS-4
+TQID: 'https://experienceleague.adobe.com/gLjTc3K51lnsosWQHH7V02ObiNdi2sGCigPZLybmS-4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 208
+source-wordcount: '208'
 ht-degree: 78%
-
 ---
-
-# Gmail ユーザのメール接続 {#email-connection-for-gmail-users}
+# Gmail ユーザ向けのメール接続 {#email-connection-for-gmail-users}
 
 Gmail に接続すると、返信トラッキング、Gmail 配信チャネルへのアクセス、Gmail でのメールのスケジュール設定、コンプライアンスの送信が可能になります。
 
 >[!CAUTION]
 >
->フィルター[&#128279;](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}またはGmail アカウント内のルールを使用して メールを自動的に読み取り済みとしてマークしている場合、返信トラッキングに問題が発生する可能性があります。 Gmail で返信トラッキングを使用する場合に、メールを自動的に既読としてマークするルールを無効にすることをお勧めします。
+>フィルター](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}またはGmail アカウント内のルールを使用して[ メールを自動的に読み取り済みとしてマークしている場合、返信トラッキングに問題が発生する可能性があります。 Gmail で返信トラッキングを使用する場合に、メールを自動的に既読としてマークするルールを無効にすることをお勧めします。
 
 1. [!DNL Sales Connect] で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 

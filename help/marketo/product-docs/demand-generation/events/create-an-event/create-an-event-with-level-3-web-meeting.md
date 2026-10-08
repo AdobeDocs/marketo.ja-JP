@@ -1,33 +1,37 @@
 ---
 unique-page-id: 7512328
 description: Marketoでレベル 3 Web会議を使用してイベントを作成する方法を説明します。 Marketoでweb ミーティングの登録を同期するように設定します。
-title: ' [!DNL Level 3 Web Meeting] を使用したイベントの作成'
+title: '[!DNL Level 3 Web Meeting] を使用したイベントの作成'
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-TQID: https://experienceleague.adobe.com/FDopt-Q5j-hEC4HocyJRgn96DGgTPtDPUC4L-Q3acUk
+TQID: 'https://experienceleague.adobe.com/FDopt-Q5j-hEC4HocyJRgn96DGgTPtDPUC4L-Q3acUk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 179
+source-wordcount: '179'
 ht-degree: 70%
-
 ---
-
 # [!DNL Level 3 Web Meeting] を使用したイベントの作成 {#create-an-event-with-level-web-meeting}
 
 >[!PREREQUISITES]
 >
->* [&#x200B; [!DNL Level 3 Web Meeting]  を  [!DNL LaunchPoint]  サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
+>* [ [!DNL Level 3 Web Meeting]  を  [!DNL LaunchPoint]  サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
 
-まず、[!DNL Level 3] でウェビナーを作成します。 ヘルプが必要な場合は、[[!DNL Level 3]  リソースライブラリ &#x200B;](https://www.level3.com/en/resource-library/)を参照してください。 [!DNL BrightTalk]と非常に似ています。  Marketo は、[!DNL Level 3] フィールドの小さなサブセットを使用します。
+まず、[!DNL Level 3] でウェビナーを作成します。 ヘルプが必要な場合は、[[!DNL Level 3]  リソースライブラリ ](https://www.level3.com/en/resource-library/)を参照してください。 [!DNL BrightTalk]と非常に似ています。  Marketo は、[!DNL Level 3] フィールドの小さなサブセットを使用します。
 
 * **名前** - Web キャストの名前。
 * **開始日** - Web キャストの開始日。
@@ -47,7 +51,7 @@ ht-degree: 70%
 
    ![](assets/image2016-3-24-15-3a43-3a43.png)
 
-1. [!UICONTROL &#x200B; イベント &#x200B;]で、使用する[!DNL Level 3] イベントを選択します。
+1. [!UICONTROL  イベント ]で、使用する[!DNL Level 3] イベントを選択します。
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 

@@ -4,22 +4,24 @@ description: Sales Connectで受信者の場所が正しくない場合にヘル
 title: 誤った受信者の場所
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/WXaXEsRVgKATa1H9guhuLGgZk35IjK8Z5dZTbISfF5Q
+TQID: 'https://experienceleague.adobe.com/WXaXEsRVgKATa1H9guhuLGgZk35IjK8Z5dZTbISfF5Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 125
+source-wordcount: '125'
 ht-degree: 64%
-
 ---
-
 # 誤った受信者の場所 {#incorrect-recipient-location}
 
 受信者の場所が正しくない場合は、次の 3 つの可能性があります。
 
-- 受信者が、自社の IT 本部が別の都市や国にある企業のワイヤレスネットワークにログインした場合、現在のロケールではなく、その場所がログに記録されます。
+- 受信者が、IT 本部が別の都市や国にある会社のワイヤレスネットワークにログインしていた場合、現在のロケールではなく、その場所がログに記録されます。
 
-- メールが CC または BCC フィールドに入力されている人によって転送または開封された場合、それらの人々がいる場所を正確に表示しようとします。
+- メールが CC または BCC フィールドに入力されている人によって転送または開封された場合、それらの人の場所を正確に表示するようにしています。
 
 全体として、IP トラッキングに基づいて可能な限り正確に場所を決定しますが、残念ながら正確な科学ではありません。

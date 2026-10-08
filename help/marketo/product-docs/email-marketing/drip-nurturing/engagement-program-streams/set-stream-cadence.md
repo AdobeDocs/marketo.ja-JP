@@ -4,18 +4,23 @@ description: エンゲージメントプログラムのストリームケイデ�
 title: ストリームケイデンスの設定
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/FJkSjZFKVZb-nBY-xfkU6Vb9JsQYbIMrbKW7rPpOmmg
+TQID: 'https://experienceleague.adobe.com/FJkSjZFKVZb-nBY-xfkU6Vb9JsQYbIMrbKW7rPpOmmg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 375
+source-wordcount: '375'
 ht-degree: 74%
-
 ---
-
 # ストリームケイデンスの設定 {#set-stream-cadence}
 
 エンゲージメントコンテンツは、任意の間隔で送信できます （例：週に 1 回、月の第 3 火曜日）。
@@ -64,9 +69,9 @@ ht-degree: 74%
 
    >[!CAUTION]
    >
-   >コンテンツは、最初のキャストで選択した日に送信されるので、選択した曜日と一致するようにしてください。一致しない場合、最初の週に 2 回送信される可能性があります。
+   >コンテンツは、最初のキャスト用に選択した日付に送信されるので、その日付が選択した曜日と一致するようにしてください。一致しない場合、最初の週に 2 回送信されます。
 
-1. ケイデンスの上にマウスポインターを置きます。 将来のキャストの日が表示されます。
+1. ケイデンスにポインタを合わせます。 将来のキャストの日が表示されます。
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
@@ -100,7 +105,7 @@ ht-degree: 74%
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. ケイデンスの上にマウスポインターを置きます。 将来のキャストの日が表示されます。
+1. ケイデンスにポインタを合わせます。 将来のキャストの日が表示されます。
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 

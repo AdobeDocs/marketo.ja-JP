@@ -4,16 +4,18 @@ description: Salesforce LightningとSales Connectで一括アクションを使�
 title: Salesforce Lightning での一括アクションの使用
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw
+TQID: 'https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 408
+source-wordcount: '408'
 ht-degree: 62%
-
 ---
-
 # [!DNL Salesforce Lightning] での一括アクションの使用 {#using-bulk-actions-in-salesforce-lightning}
 
 キャンペーンへのリードの追加、一括メールの送信、[!DNL Salesforce] から [!DNL Sales Connect] へのリードのプッシュなど、一括アクションの実行方法を説明します。
@@ -46,9 +48,9 @@ ht-degree: 62%
 1. MSC メールがポップアップ表示されます。 次の機能が含まれます。
 
    a. 「[!UICONTROL 宛先]」フィールドに「すべての領収書」が表示されます。これは、リードリストビューで選択したリードのリストに対応します
-b. このリストは、「一括作成」という名前の左側のパネルに表示されます。ここで受信者を追加または削除できます
-c. テンプレートを選択するか、独自の電子メールを作成できます
-d. メールをすぐに送信することも、後で送信するようにスケジュールすることもできます
+   b. このリストは、「一括作成」という名前の左側のパネルに表示されます。ここで受信者を追加または削除できます
+   c. テンプレートを選択するか、独自の電子メールを作成できます
+   d. メールをすぐに送信することも、後で送信するようにスケジュールすることもできます
 
    ![](assets/three-5.png)
 
@@ -80,13 +82,13 @@ d. メールをすぐに送信することも、後で送信するようにス�
 
    ![](assets/nine-2.png)
 
-1. MSC アカウントに移動し、日時スタンプを使用して作成されたグループが表示されます。 同期が完了すると、通知が届き、[!DNL Salesforce] から同期されたリードがグループに含まれます。
+1. MSC アカウントに移動し、日付／時刻スタンプ付きで作成されたグループが表示されます。 同期が完了すると、通知が届き、[!DNL Salesforce] から同期されたリードがグループに含まれます。
 
    ![](assets/ten-1.png)
 
 >[!NOTE]
 >
->同じ手順に従って、連絡先リスト表示でバルクアクションを使用することもできます。
+>同じ手順に従って、取引先責任者リストビューでも一括アクションを使用できます。
 
 >[!MORELIKETHIS]
 >

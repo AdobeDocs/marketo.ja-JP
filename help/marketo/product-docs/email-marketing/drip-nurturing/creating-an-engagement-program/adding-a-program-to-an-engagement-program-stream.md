@@ -4,26 +4,36 @@ description: エンゲージメントストリームのネストされたプロ�
 title: エンゲージメントプログラムストリームへのプログラムの追加
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/kI2v6drF78DnJhhEbgeVSi4TYbF5rExY2wgR0aAK-bI
+TQID: 'https://experienceleague.adobe.com/kI2v6drF78DnJhhEbgeVSi4TYbF5rExY2wgR0aAK-bI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 479
+source-wordcount: '479'
 ht-degree: 67%
-
 ---
-
 # エンゲージメントプログラムストリームへのプログラムの追加 {#adding-a-program-to-an-engagement-program-stream}
 
 ## エンゲージメントプログラムストリームでネストされたプログラムを使用する理由 {#why-use-a-nested-program-in-an-engagement-program-stream}
@@ -32,7 +42,7 @@ ht-degree: 67%
 
 * ストリーム内でユーザーのサブグループにメールを送信
 * ストリーム内のサブグループに対して&#x200B;*異なる*&#x200B;メールを送信
-* ランディングページ、フォーム、またはその他のアセットを育成に含める
+* ランディングページ、フォーム、その他のアセットをナーチャリング施策に含める
 * マルチタッチ属性の有効化
 * アラートメールなどのフローステップを追加する
 
@@ -54,15 +64,15 @@ ht-degree: 67%
 
 ## スマートリストの条件を満たさない場合、どうなりますか？ {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-ネストされたプログラムのスマートキャンペーンのスマートリストから除外されたユーザーは、現在のキャスト中には次のコンテンツには移動されず、 *次の*&#x200B;キャストのストリーム内の次のコンテンツに移動されます。
+ネストされたプログラムのスマートキャンペーンのスマートリストからユーザがフィルターで除外された場合、そのユーザは現在のキャスト中には次のコンテンツには移動されません。 *次の*&#x200B;キャストのストリーム内の次のコンテンツに移動されます。
 
 ## ネストされたプログラムには何が含まれますか？ {#what-does-a-nested-program-contain}
 
-適切に設計されたネストされたプログラムには、メール、レポート、スマートキャンペーンが含まれます。 これらを一緒に保つのは理にかなっています。
+適切に設計されたネストされたプログラムには、メール、レポート、スマートキャンペーンが含まれます。 これらをまとめて管理するのが理にかなっています。
 
 使用するメールは、プログラム、別のプログラム、[!UICONTROL デザインスタジオ]でも使用できます。 どこに配置するかは、使い方によって異なります。
 
-メールの場所で変更をレポートします。 例えば、メールが[!UICONTROL デザインスタジオ]にある場合、メールのパフォーマンスレポートでは、すべての指標が 1 行に表示され、異なるキャストが組み合わされます。 ただし、エンゲージメントストリーム効果レポートでは、異なる送信が別々に表示されます。
+メールの配置場所によって、レポート結果が変わります。 例えば、メールが[!UICONTROL デザインスタジオ]にある場合、メールのパフォーマンスレポートでは、すべての指標が 1 行に表示され、異なるキャストが組み合わされます。 ただし、エンゲージメントストリームパフォーマンスレポートでは、異なる送信が別々に表示されます。
 
 >[!CAUTION]
 >

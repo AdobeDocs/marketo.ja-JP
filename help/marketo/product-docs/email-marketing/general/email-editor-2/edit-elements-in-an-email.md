@@ -4,18 +4,23 @@ description: メールエディター2.0でメール内の要素を編集する�
 title: メールの要素を編集する
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/Y-VOyP0NKmLA5AqCjkGcYoJmQhJ-iovOyuOD-QdUJl8
+TQID: 'https://experienceleague.adobe.com/Y-VOyP0NKmLA5AqCjkGcYoJmQhJ-iovOyuOD-QdUJl8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 516
+source-wordcount: '516'
 ht-degree: 87%
-
 ---
-
 # メールの要素を編集する {#edit-elements-in-an-email}
 
 メールには、リッチテキスト、画像、スニペット、ビデオの 4 つの異なる要素を含めることができます。 それぞれの編集方法を次に示します。
@@ -30,7 +35,7 @@ ht-degree: 87%
 
    ![](assets/two.png)
 
-   また、右側のウィンドウの要素にマウスポインタを合わせると、歯車アイコンが表示されます。
+   また、右側のウィンドウの要素にポインタを合わせると、歯車アイコンが表示されます。
 
    ![](assets/three.png)
 
@@ -72,7 +77,7 @@ ht-degree: 87%
    >
    >Marketo トークンを使用する場合は、このオプションを使用します。 トークンを使用する場合、画像はエディターで壊れて表示されますが、プレビューモードと「サンプルメールを送信」ではレンダリングされます。
 
-   外部 URL を使用するには、まず画像の URL に貼り付けます。 必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]を追加します（オプション）。 次に、「**[!UICONTROL スワップ]**」を押します。
+   外部 URL を使用するには、まず画像の URL 欄に URL を貼り付けます。 必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]を追加します（オプション）。 次に、「**[!UICONTROL スワップ]**」を押します。
 
    ![](assets/eight.png)
 
@@ -132,12 +137,12 @@ ht-degree: 87%
 
    ![](assets/twenty.png)
 
-1. [!DNL Vimeo] または YouTube からビデオの URL を貼り付けます。 次に、プレビューを読み込む URL ボックスの外側をクリックします。 必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]（オプション）を追加して、「**[!UICONTROL 挿入]**」を押します。
+1. [!DNL Vimeo] または YouTube からビデオの URL を貼り付けます。 次に、プレビューを読み込むために URL ボックスの外側をクリックします。 必要に応じてサイズを変更し、[!UICONTROL 代替テキスト]（オプション）を追加して、「**[!UICONTROL 挿入]**」を押します。
 
    ![](assets/twentyone.png)
 
    >[!NOTE]
    >
-   >YouTube ビデオの場合は、「共有」オプションにあるショートカット URL ではなく、アドレスバーの完全修飾 URL を使用します。
+   >YouTube ビデオの場合は、「共有」オプションにあるショートカット URL ではなく、アドレスバーのフル URL を使用します。
 
 完璧なメールのデザインを楽しんでください。

@@ -4,33 +4,41 @@ description: Marketo Engageでgoogle analyticsとrtpを統合する方法につ�
 title: RTP を Google Analytics に連携する
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/nnx4MhOQreSZOHY2526qb11svyumVMlOzqbybuPWxRQ
+TQID: 'https://experienceleague.adobe.com/nnx4MhOQreSZOHY2526qb11svyumVMlOzqbybuPWxRQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 629
+source-wordcount: '629'
 ht-degree: 94%
-
 ---
-
 # RTP を Google Analytics に連携する {#integrate-rtp-with-google-analytics}
 
 >[!NOTE]
 >
->ユニバーサルアナリティクスが操作の標準になり、Google のすべてのプロパティがユニバーサルアナリティクスにアップグレードされました。
+>ユニバーサルアナリティクスが標準仕様となり、Google のすべてのプロパティがユニバーサルアナリティクスにアップグレードされました。
 >
->この記事では、古い Google スタンダードアナリティクスの使用方法について説明しますが、ユニバーサルアナリティクスに切り替えることをお勧めします。
+>この記事では、従来の Google Analytics（スタンダード版）の使用方法について説明しますが、ユニバーサルアナリティクスへの移行をお勧めします。
 >
 >[analytics.js トラッキングコード](https://developers.google.com/analytics/devguides/collection/analyticsjs/)をまだ使用していない場合は、サイトを再タグ付けして使用することを強くお勧めします。 Google では、次の機能が廃止されています。
 >
@@ -45,14 +53,14 @@ ht-degree: 94%
 
 ## はじめに {#introduction}
 
-Marketo Real-Time Personalization（RTP）から Google Analytics（GA）アカウントへの直接データフローを使用して、新しい角度から Web 分析をおこないます。 組織、業種、RTP キャンペーンに従って、GA での Web 訪問を測定します。 GA で業種や RTP セグメントのタイプなどの指標と効果を表示し、様々なトラフィックソース（ソーシャル、有料、オーガニック）に従ってリードを生成し、キャンペーンのクリックスルー率を分析し、パーソナリゼ―ションキャンペーンがウェブサイトに与える影響を測定します。 この機能を活用して、RTP アカウントから最大限のメリットを得ます。
+Marketo のリアルタイムのパーソナライゼーション（RTP）から Google Analytics（GA）アカウントへの直接データフローを使用して、新しい角度から web 分析を行います。 組織、業種、RTP キャンペーンに従って、GA での web 訪問を測定できます。 GA で業種や RTP セグメントの種類などの指標を表示し、様々なトラフィックソース（ソーシャル、有料、オーガニック）ごとのパフォーマンスやリード獲得状況を確認します。また、キャンペーンのクリックスルー率を分析し、パーソナライズ機能を使ったキャンペーンが web サイトに与える影響を測定します。 この機能を活用して、RTP アカウントを最大限に活用しましょう。
 
 **RTP Audience Analytics**
 
 統合により、GA アカウントに新しいディメンションが追加されます。 RTP は、次の機能を使用してダッシュボードを自動的に強化します。
 
 1. 組織と業種
-1. RTP でカスタマイズされたセグメント
+1. RTP のカスタムセグメント
 1. アカウントベースのマーケティングリスト
 
 主な B2B 見込み客に焦点を当てます。 ターゲットとする業種およびセグメント別にチャネルを分析します。
@@ -61,7 +69,7 @@ Marketo Real-Time Personalization（RTP）から Google Analytics（GA）アカ�
 
 ![](assets/image2014-11-28-16-3a39-3a28.png)
 
-RTP B2B ダッシュボードは、垂直および RTP セグメントに従った訪問者の分類を理解するのに役立ちます。 訪問者のパフォーマンスは、金融業界や様々なマーケティングキャンペーン（有料、オーガニック、ソーシャル）に応じて確認できます。 また、ダッシュボードには、RTP セグメントのパフォーマンスの概要と、サイトを訪問した上位の組織を表示するドリルダウンの概要も表示されます
+RTP B2B ダッシュボードは、業種別および RTP セグメント化に基づく訪問者の分類を理解するのに役立ちます。 訪問者のパフォーマンスは、金融業界や様々なマーケティングキャンペーン（有料、オーガニック、ソーシャル）に応じて確認できます。 また、ダッシュボードには、RTP セグメントのパフォーマンスの概要と、サイトを訪問した上位の組織を表示するドリルダウンも用意されています。
 
 ## ビヘイビアーフロー {#behavioral-flow}
 
@@ -71,7 +79,7 @@ RTP B2B ダッシュボードは、垂直および RTP セグメントに従っ�
 
 ## RTP パフォーマンス {#rtp-performance}
 
-RTP キャンペーンを測定し、サイト全体の平均値と関連付けます。 これらのキャンペーンがウェブサイトの指標に与える影響を知り、このデータを使用して、適切なターゲットにパーソナライゼーションの取り組みを集中させます。 パーソナライゼーションキャンペーンのパフォーマンスをより深く理解できるように、カスタマイズされたレポートを生成します。
+RTP キャンペーンを測定し、サイト全体の平均値と関連付けます。 これらのキャンペーンが web サイトの指標に与える影響を把握し、このデータを使用して、適切なターゲットに対するパーソナライズ機能の取り組みに焦点を当てます。 パーソナライズ機能のキャンペーンのパフォーマンスをより深く理解できるように、カスタムレポートを生成します。
 
 ![](assets/image2014-11-28-16-3a47-3a0.png)
 

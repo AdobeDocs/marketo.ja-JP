@@ -1,48 +1,79 @@
 ---
-title: "2019"
+title: '2019'
 description: 2019 - Marketo Docs – 製品ドキュメント
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
   - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+    internal-label: Sales Connect
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2528
+source-wordcount: '2530'
 ht-degree: 85%
-
 ---
-
 # 2019
 
 ## 2019年冬 {#winter}
 
-19 年冬リリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo のエディションをご確認ください。
+2019年冬リリースには、次の機能が含まれています。 機能の可用性についてはお使いの Marketo のエディションをご確認ください。
 
 各機能の詳細な記事を表示するには、タイトルリンクをクリックしてください（ある場合）。
 
@@ -83,8 +114,8 @@ Marketo を通じて送信するメールは、受信者あたり 5 件までの
 * **メールサービス**：[!DNL Microsoft Outlook] に（Office365 または「メール接続」タブを使用してオンプレミス）接続することで、メール到達率の向上に加え、返信追跡機能、スケジュール済みメール機能の強化および一括メール機能を利用できます。
 * **新しい管理設定**：Sales Engage インスタンスを最適化するための 2 つの管理ページが追加されました。
 
-   * *チーム管理*&#x200B;は、管理者が購読とチームを編集できるようにすることで、シームレスなアカウント設定プロセスをサポートします。
-   * *Salesforce 管理設定*&#x200B;は、チームが SFDC 同期を以前よりも迅速かつ簡単に設定するのに役立ちます。
+  * *チーム管理*&#x200B;は、管理者が購読とチームを編集できるようにすることで、シームレスなアカウント設定プロセスをサポートします。
+  * *Salesforce 管理設定*&#x200B;は、チームが SFDC 同期を以前よりも迅速かつ簡単に設定するのに役立ちます。
 
 * **[!DNL Windows]** 用 OWA プラグイン：1 つのアドインを使用することで、すべての [!DNL Windows Office365] クライアントが Sales Engage でサポートされ、Outlook でライブフィードを使用できます。 新しいプラグインは、Microsoft Store で使用できます。
 * **アクティビティプッシャー**：Sales Engage をコア Marketo プラットフォームに同期して、リアルタイムのマーケティングインサイトを活用します。
@@ -101,7 +132,7 @@ Marketo を通じて送信するメールは、受信者あたり 5 件までの
 
 * **デザインスタジオリストビューと詳細ページ**：メール、ランディングページ、フォームのフィルタリング可能で検索可能なリスト表示で、組織と正確性のレベルを高めます。 アセットの詳細ページには、アセットが使用しているプログラム、使用しているスニペットの数など、各アセットに関する重要な情報が表示されます。
 
-* **グローバル検索**：プラットフォーム全体でより高速でより堅牢なグローバル検索機能が提供されます。 検索クエリが、アクセス可能なすべてのワークスペースで実行され、アセット（アクティブとアーカイブの両方）、ラベル、キャンペーン、プログラムを検索できるようになりました。 検索結果はオーバーレイを介して提供され、各結果にはアセットの保存場所を指定するためのファイルの場所の追跡情報が含まれます。
+* **グローバル検索**：プラットフォーム全体でより高速でより堅牢なグローバル検索機能が提供されます。 検索クエリが、アクセス可能なすべてのワークスペースで実行され、アセット（アクティブとアーカイブの両方）、ラベル、キャンペーン、プログラムを検索できるようになりました。 検索結果はオーバーレイで表示され、各結果にはアセットの保存場所を示すファイルの場所のパスが含まれます。
 
 * **ユーザーインターフェイスの改善**：新しいアイコン、モーダル、ボタン、および新しいカラーパレットを追加して、当社のブランドのリフレッシュを反映し、[!DNL Marketo Sky] をより印象深く機能的にします。
 
@@ -179,15 +210,15 @@ Android向けSDKを更新し、より柔軟で安定したスケーラブルな�
 
 ## [!DNL Marketo Sky]
 
-* **完全なメールプログラム機能**：メールの送信、A/B テストの作成、結果の追跡を、ユーザにとってわかりやすいエクスペリエンスで行います。
-* **スマートキャンペーン機能**：スマートキャンペーン機能が Sky で展開を続けるので、新しいユーザインターフェイスで安定性が向上します。
+* **完全なメールプログラム機能**：メールの送信、A/B テストの作成、結果の追跡を、ユーザーにとってわかりやすいエクスペリエンスで行います。
+* **スマートキャンペーン機能**：スマートキャンペーン機能が Sky で展開を続けるので、新しいユーザーインターフェイスで安定性が向上します。
 * **デザインスタジオアセットを管理**：テンプレート、画像、Forms、スニペット、ファイル、メール、ランディングページをデザインスタジオのリストビューから一括で管理する機能が追加されました。
 * **受信者タイムゾーンダッシュボードで配信**：Sky の受信者タイムゾーン配信機能を使用して送信されたメールに関するレポートで、顧客の行動を把握します。
 
 ## Marketo Sales Engage
 
 * **監査の強化**：他のユーザによって作成された[既存のキャンペーンを終了](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md)する機能が追加された、インスタンス内のすべてのユーザ、メール、および[コンテンツ](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)に対する新しい可視性。
-* **[登録解除管理](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**：[メールドメインへの接続をブロック](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md)する機能を使用して、メール到達率とコンプライアンスを最大化します。 また、Marketo は、メールを送信する前に、登録解除用のリードデータベースを相互参照します。
+* **[登録解除管理](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md)**：[メールドメインへの接続をブロック](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md)する機能を使用して、メール到達率とコンプライアンスを最大化します。 また、Marketo は、メールを送信する前に、リードデータベース内の購読解除情報を相互参照します。
 
 ## Marketo による [!DNL Bizible]
 
@@ -201,7 +232,7 @@ Android向けSDKを更新し、より柔軟で安定したスケーラブルな�
 
 **_四半期リリース_**
 
-2019 年 6 月 15 日に、次の機能がリリースされました。
+2019年6月14日に、次の機能がリリースされました。
 
 ## Marketo コアサービス {#marketo-core-services}
 
@@ -210,11 +241,11 @@ Android向けSDKを更新し、より柔軟で安定したスケーラブルな�
 
 >[!CAUTION]
 >
->2019 年 6 月 19 日をもって、メール 1.0 はご利用いただけなくなりました。 メール 2.0 とメール 1.0 の廃止について詳しくは、[こちら](https://nation.marketo.com/docs/DOC-7038)を参照してください。
+>2019年6月18日をもって、メール 1.0 はご利用いただけなくなりました。 メール 2.0 とメール 1.0 の廃止について詳しくは、[こちら](https://nation.marketo.com/docs/DOC-7038)を参照してください。
 
 ## アカウントベースドマーケティング
 
-* **[!DNL LinkedIn]アカウントのマッチング（Beta）**：新しい ABM 機能がベータ版で使用できるようになり、既知のアカウントと空白のアカウントのリストを Marketo から LinkedIn に直接送信できるようになりました。 この機能は、すべての Marketo ABM のお客様に対して自動的に含まれます。
+* **[!DNL LinkedIn]アカウントのマッチング（Beta）**：新しい ABM 機能がベータ版で使用できるようになり、既知のアカウントと空白のアカウントのリストを Marketo から LinkedIn に直接送信できるようになりました。 この機能は、すべての Marketo ABM のお客様に自動的に付与されます。
 
 <br> 
 
@@ -226,8 +257,8 @@ Android向けSDKを更新し、より柔軟で安定したスケーラブルな�
 
 * **イベンキャップ**&#x200B;と&#x200B;**イベントの目標**&#x200B;は、通常、Premium Events アドオンの [!DNL Marketo Sky] で利用できます。
 
-   * イベントキャップ：登録上限、ページリダイレクト、待機リスト機能を使用して、イベントとウェビナーに合わせて顧客体験を最適化します。
-   * イベントの目標：イベント登録と出席の目標を設定し、進行状況をリアルタイムで追跡します。
+  * イベントキャップ：登録上限、ページリダイレクト、待機リスト機能を使用して、イベントとウェビナーに合わせてお客様のカスタマーエクスペリエンスを最適化します。
+  * イベントの目標：イベント登録と出席の目標を設定し、進行状況をリアルタイムで追跡します。
 
 * **フルナビゲーションリンク**：Hootsuite、Calendar など、権限を持つすべてのアプリケーションに対するナビゲーションを有効にしました。
 * **メール、ランディングページ、スニペット、フォーム、画像、ファイルリストの表示**：デザインスタジオで任意のアセットの表示、検索、一括アクションの実行をおこないます。
@@ -240,7 +271,7 @@ Android向けSDKを更新し、より柔軟で安定したスケーラブルな�
 ## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
 * **[!DNL Salesforce] カスタマイズ機能内の一括アクション**：[!DNL Salesforce] のカスタマイズ機能を使用して、メールを送信し、取引先責任者を一括でキャンペーンに追加することで、生産性を最大化します。
-* **設定 - 管理者および非管理者向けの [!DNL Salesforce] ページ**：[!DNL Sales Connect] に接続された [!DNL Salesforce] インスタンスと、[!DNL Salesforce] へのメールの更新を明確に表示して、[!DNL Sales Connect] インスタンスを管理します。 今後数か月間に、管理者、非管理者、および Team Wide Sync の同期設定が強化されます。
+* **設定 - 管理者および非管理者向けの [!DNL Salesforce] ページ**：[!DNL Sales Connect] に接続された [!DNL Salesforce] インスタンスと、[!DNL Salesforce] へのメールの更新を明確に表示して、[!DNL Sales Connect] インスタンスを管理します。 今後数か月間に、管理者、非管理者、およびチーム全体の同期の同期設定が強化されます。
 * **設定 — 統合ページ**：すべての統合に対応するワンストップショップ。オープンなエコシステムを最大限に活用できます。
 * **設定 – プロファイルページ**: アカウントの詳細を表示および更新し、パスワードを変更し、この新しいプロファイルページでインスタンスの実装のステータスを確認します。
 
@@ -252,7 +283,7 @@ Android向けSDKを更新し、より柔軟で安定したスケーラブルな�
 * **ドリフト統合**: ドリフトの会話がカスタマージャーニーにどのような影響を与えるかを理解します。 [!DNL Bizible] は会話からメールアドレスを抽出し、新規リードを作成したり、既存リードにタッチポイントを連携したりします。
 * **ローカライゼーション**：[!DNL Bizible] は、Marketo でサポートされているすべての言語（英語、日本語、ドイツ語、スペイン語、フランス語、ポルトガル語）で利用できるようになりました。
 
-_&#x200B;**製品リリースウェビナー**&#x200B;_：2019年6月リリースイノベーションのウェビナーの録画を[こちら](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)でご覧ください。
+_**製品リリースウェビナー**_：2019年6月リリースイノベーションのウェビナーの録画を[こちら](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html)でご覧ください。
 
 ## 2019年8月 {#august}
 
@@ -293,5 +324,5 @@ _&#x200B;**製品リリースウェビナー**&#x200B;_：2019年6月リリー�
 >
 >**Marketo Engage アクセスを維持するには、2019 年 12 月 13 日より前に、すべてのクライアントシステムが TLS 1.2 に準拠している必要があります**。 詳細は[こちら](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq)をご覧ください。
 
-製品リリースウェビナー&#x200B;**_製品リリースウェビナー_** [8月28日（PT） / 4:00PM ETに参加して、製品チームが主催するライブウェビナーを開催し、このリリースに含まれる機能について詳しく説明します。](https://engage.marketo.com/August_19_Release_Webinar.html):00PM
+**_製品リリースウェビナー_** [8月28日午後1:00PT / 4:00PM ETに参加して、製品チームが主催するライブウェビナーを開催し、このリリースに含まれる機能について詳しく説明します。](https://engage.marketo.com/August_19_Release_Webinar.html)
 

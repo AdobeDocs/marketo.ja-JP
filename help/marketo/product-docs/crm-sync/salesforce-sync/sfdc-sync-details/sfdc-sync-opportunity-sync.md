@@ -4,20 +4,26 @@ description: SalesforceからMarketoへの商談同期の仕組みをご紹介�
 title: SFDC の同期 - 商談の同期
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/r8JobWyGrFmN71de8J5xI-2-Ze7lPEsNRQ6V41Q4JQM
+TQID: 'https://experienceleague.adobe.com/r8JobWyGrFmN71de8J5xI-2-Ze7lPEsNRQ6V41Q4JQM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 294
+source-wordcount: '294'
 ht-degree: 78%
-
 ---
-
 # SFDC 同期：商談の同期 {#sfdc-sync-opportunity-sync}
 
 ## 2 つのシステム間で商談の詳細を同期させる方法を教えてください。 {#how-are-opportunity-details-kept-in-sync-between-the-two-systems}
@@ -26,21 +32,21 @@ ht-degree: 78%
 
 >[!NOTE]
 >
->[&#x200B; [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 用に Marketo で入力した資格情報は、データの同期に使用されます。 その資格情報でアクセスできるデータのみが含まれます。
+>[ [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) 用に Marketo で入力した資格情報は、データの同期に使用されます。 その資格情報でアクセスできるデータのみが含まれます。
 
 ## 商談の同期を開始できますか？ {#can-i-initiate-an-opportunity-sync}
 
 いいえ、できません。 [!DNL Salesforce]の商談に対する変更は、自動的にMarketoに同期されます。
 
-## Marketo は、商談額で複数の通貨をサポートしていますか。 {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
+## Marketo では、商談額で複数の通貨をサポートできますか。 {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
 いいえ。Marketo では 1 つの通貨のみをサポートしています。 商談額は [!DNL Salesforce] から同期されますが、通貨は Marketo サブスクリプションの[デフォルトの通貨](/help/marketo/product-docs/administration/settings/set-default-currency.md)になります。
 
-## Marketo は商談額と取引先責任者をどのように関連付けますか？ {#how-does-marketo-associate-opportunities-and-contacts}
+## Marketo は商談と取引先責任者をどのように関連付けますか。 {#how-does-marketo-associate-opportunities-and-contacts}
 
-Marketo は、[商談取引先責任者のロール](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"}を使用して商談と取引先責任者を関連付けます。 取引先責任者のロールが割り当てられていない商談は、Marketo に同期されますが、誰にも属していません。 例えば、「Has Opportunity」フィルターは認定されません。
+Marketo は、[商談取引先責任者のロール](https://help.salesforce.com/HTViewHelpDoc?id=contactroles.htm){target="_blank"}を使用して商談と取引先責任者を関連付けます。 取引先責任者のロールが割り当てられていない商談は、Marketo に同期されますが、誰にも属していません。 例えば、その人物は「商談あり」フィルターの条件を満たしません。
 
-## ユーザのすべての商談を表示するにはどうすればいいですか。 {#how-can-i-see-all-the-opportunities-of-a-person}
+## 人物のすべての商談を表示するにはどうすればよいですか。 {#how-can-i-see-all-the-opportunities-of-a-person}
 
 商談のリストは、[個人の詳細](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)ページの「**[!UICONTROL 商談情報]**」タブで表示できます。
 
@@ -60,7 +66,7 @@ Marketo は、[商談取引先責任者のロール](https://help.salesforce.com
 * 商談から削除された／されなかった
 * 合計商談額
 * 商談数
-* 商談の合計収益予測
+* 商談の合計予想収益
 
 >[!TIP]
 >

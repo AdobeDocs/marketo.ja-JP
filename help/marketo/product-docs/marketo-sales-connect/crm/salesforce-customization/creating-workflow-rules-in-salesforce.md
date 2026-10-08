@@ -4,16 +4,18 @@ description: Salesforce for Sales Connect アクティビティでワークフ�
 title: Salesforce でのワークフロールールの作成
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0
+TQID: 'https://experienceleague.adobe.com/NmHKAzpBUKL4-vpcpxNpXv9TPamdy5iFCxdYTfCC1S0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 482
+source-wordcount: '482'
 ht-degree: 95%
-
 ---
-
 # Salesforce でのワークフロールールの作成 {#creating-workflow-rules-in-salesforce}
 
 Marketo セールスインサイト（MSI）と Marketo Sales Connect（MSC）を並行して使用する場合、[!DNL Salesforce] の MSI の最有望見込客機能は更新されません。 その他の MSI 機能はすべて通常どおりに動作します（iFrame での注目のアクションの表示、メール送信、キャンペーンへの追加など）。 この記事では、最有望見込客を再度機能させるための回避策を示します。
@@ -35,7 +37,7 @@ Marketo セールスインサイト（MSI）と Marketo Sales Connect（MSC）�
  </colgroup>
  <tbody>
   <tr>
-   <td>「注目のアクションの詳細」フィールドの更新</td>
+   <td>「注目のアクションの説明」フィールドの更新</td>
    <td><p>コピー元：最新の Marketo エンゲージメントの詳細<br>コピー先：最新の注目のアクションの詳細</p></td>
   </tr>
   <tr>
@@ -43,11 +45,11 @@ Marketo セールスインサイト（MSI）と Marketo Sales Connect（MSC）�
    <td><p>コピー元：最新の Marketo エンゲージメントのタイプ<br>コピー先：最新の注目のアクションのタイプ</p></td>
   </tr>
   <tr>
-   <td>「最新の注目のアクションのソース」フィールドの更新</td>
+   <td>「注目のアクションのソース」フィールドの更新</td>
    <td><p>コピー元：最新の Marketo エンゲージメントのソース<br>コピー先：最新の注目のアクションのソース</p></td>
   </tr>
   <tr>
-   <td>「最新の注目のアクションの日付」フィールドの更新</td>
+   <td>「注目のアクションの日付」フィールドの更新</td>
    <td><p>コピー元：最新の Marketo エンゲージメントの日付<br>コピー先：最新の注目のアクションの日付</p></td>
   </tr>
  </tbody>

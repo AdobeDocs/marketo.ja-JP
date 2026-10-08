@@ -3,24 +3,29 @@ description: ROPC接続を使用してDynamics 365にMarketo ソリューショ�
 title: 手順 1／4 - リソース所有者のパスワード制御接続を使用した Marketo ソリューションのインストール
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/n6k54dW0WmIUFt7ErxsR1K6Ld-aEjhGSFLgVAZzTqL0
+TQID: 'https://experienceleague.adobe.com/n6k54dW0WmIUFt7ErxsR1K6Ld-aEjhGSFLgVAZzTqL0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 311
+source-wordcount: '311'
 ht-degree: 76%
-
 ---
-
 # 手順 1／4：リソース所有者のパスワード制御接続を使用した Marketo ソリューションのインストール {#step-1-of-4-install-the-marketo-solution-ropc}
 
 [!DNL Microsoft Dynamics] 365とMarketoを同期する前に、まず[!DNL Dynamics]にMarketo ソリューションをインストールする必要があります。**[!DNL Dynamics]管理者権限が必要です。**
 
 >[!CAUTION]
 >
->* 初期同期が完了する前にカスタムエンティティの同期を有効にしないでください。 初回同期が完了すると、電子メールで通知されます。
->* [!DNL Dynamics] 同期で多要素認証（MFA）を有効にしている場合、[!DNL Dynamics] が Marketo と正しく同期するには、無効にする必要があります。 詳細については、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>* 初期同期が完了する前にカスタムエンティティの同期を有効にしないでください。 初回同期が完了すると、メールで通知されます。
+>* [!DNL Dynamics] 同期で多要素認証（MFA）を有効にしている場合、[!DNL Dynamics] が Marketo と正しく同期するには、無効にする必要があります。 詳細については、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 >[!NOTE]
 >
@@ -62,7 +67,7 @@ ht-degree: 76%
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. 「SDK」オプションチェックボックスがオンになっていることを確認します。 「**[!UICONTROL 読み込み]**」をクリックします。
+1. 「SDK オプション」のチェックがオンになっていることを確認します。 「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
@@ -78,7 +83,7 @@ ht-degree: 76%
 
    >[!NOTE]
    >
-   >「Marketo Lead Management completed with warning」というメッセージが表示される場合があります。 これは十分予期されているものです。
+   >「Marketo リード管理が警告付きで完了しました」というメッセージが表示される場合があります。 これは十分予期されているものです。
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 

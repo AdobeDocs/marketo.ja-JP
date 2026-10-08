@@ -4,13 +4,19 @@ description: 承認済みモデルの編集など、Marketo Engageでの承認�
 title: 承認済みモデルの編集
 exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 82%
-
 ---
-
 # 承認済みモデルの編集 {#editing-your-approved-model}
 
 ## モデルの編集 {#editing-your-model}
@@ -19,7 +25,7 @@ ht-degree: 82%
 
    ![](assets/one.png)
 
-1. （モデルの承認後に）ドラフトモデルの編集時にステージを削除できません。 代わりに、そのステージをモデル内の別のステージと結合できます。 結合するステージを右クリックし、「**[!UICONTROL 結合]**」をクリックします。
+1. モデルの承認後は、ドラフトモデルの編集時にステージを削除することはできません。 代わりに、そのステージをモデル内の別のステージと結合できます。 結合するステージを右クリックし、「**[!UICONTROL 結合]**」をクリックします。
 
    ![](assets/two.png)
 

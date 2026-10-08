@@ -1,24 +1,31 @@
 ---
 unique-page-id: 9437903
 description: 選択したレコードのみがMarketoに同期されるように、カスタム Dynamics同期フィルターを作成する方法を説明します。
-title: カスタム  [!DNL Dynamics]  同期フィルターの作成
+title: カスタム [!DNL Dynamics] 同期フィルターの作成
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/XXCfjVD8zv3PdzniEs-eu6SYk6p74rW3jb2s5jbk6YE
+TQID: 'https://experienceleague.adobe.com/XXCfjVD8zv3PdzniEs-eu6SYk6p74rW3jb2s5jbk6YE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Implementation
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 782
+source-wordcount: '782'
 ht-degree: 91%
-
 ---
-
 # カスタム [!DNL Dynamics] 同期フィルターの作成 {#create-a-custom-dynamics-sync-filter}
 
 Marketo では、同期フィルターを設定して、レコードの一部のみを同期できます。
@@ -77,7 +84,7 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
    >[!NOTE]
    >
-   >このフィールドの表示名を任意に選択しますが、「名前」フィールドは正確に **new_synctomkto** にする必要があります。 デフォルトの接頭辞として **new** を使用する必要があります。 デフォルトを変更した場合は、ここに移動して、[&#128279;](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}カスタムフィールド名のデフォルトの接頭辞をリセットします。 新しいフィールドを作成した後で、このフィールドを元に戻すことができます。
+   >このフィールドの表示名を任意に選択しますが、「名前」フィールドは正確に **new_synctomkto** にする必要があります。 デフォルトの接頭辞として **new** を使用する必要があります。 デフォルトを変更した場合は、ここに移動して、](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}カスタムフィールド名のデフォルトの接頭辞をリセットします[。 新しいフィールドを作成した後で、これを元の設定に戻すことができます。
 
    >[!NOTE]
    >
@@ -97,7 +104,7 @@ Marketo は、自動バックグラウンド同期中にこのフィールドを
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. 下にスクロールしてフィールドを確認します。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意の名前にすることができます。 「**[!UICONTROL 保存]**」をクリックします。
+1. 下にスクロールしてフィールドを確認します。 実際の名前は new_synctomkto にする必要がありますが、表示名は任意に設定できます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-10-9-9-3a56-3a23.png)
 

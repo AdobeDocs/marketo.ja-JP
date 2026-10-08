@@ -3,23 +3,25 @@ description: Sales Insight Actionsでのメール接続のスロットリング�
 title: メール接続のスロットリング
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/9EY5VJaKJCwaBE-YJ8qCXreorIIXjj4hX4Ybvwm5ijg
+TQID: 'https://experienceleague.adobe.com/9EY5VJaKJCwaBE-YJ8qCXreorIIXjj4hX4Ybvwm5ijg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 438
-ht-degree: 91%
-
+source-wordcount: '439'
+ht-degree: 86%
 ---
-
 # メール接続のスロットリング {#email-connection-throttling}
 
-[!DNL Sales Connect] アカウントを統合して、[!DNL Exchange] または Gmail のメールプロバイダーを通じて送信すると、1:1 のセールス通信の合理化された設定とメール配信品質を最適化できます。 ただし、システムの健全性とアカウントの安全性を維持するのに、Gmail と [!DNL Exchange] ではメール送信の制限が実施されます。 これらの制限は、プロバイダーの裁量によって増減することができます。
+[!DNL Sales Connect] アカウントを統合して[!DNL Exchange]またはGmail メールプロバイダーを通じて送信すると、合理的な設定が可能になり、1対1のセールスコミュニケーション用にメールの配信品質が最適化されます。 ただし、システムの健全性とアカウントの安全性を維持するのに、Gmail と [!DNL Exchange] ではメール送信の制限が実施されます。 これらの制限は、プロバイダーの裁量によって増減することができます。
 
 ## 概要 {#overview}
 
-メール接続のスロットリングを使用すると、Sales Connect 管理者は、Gmail または Exchange を配信チャネルとして使用する場合に、配信チャネルプロバイダーに引き渡されるメールの割合が強制的な制限を超えないように、メールの送信率を設定できます。
+メール接続のスロットリングを使用すると、セールスコネクト管理者は、Gmail または Exchange を配信チャネルとして使用する場合に、配信チャネルプロバイダーに引き渡されるメールの送信レートが設定された制限を超えないように、メールの送信レートを設定できます。
 
 制限を継続的に超えると、配信チャネルプロバイダーが疑わしい動作と見なし、メール送信が失敗したり、アカウントが無効になったりする場合があります。
 
@@ -28,7 +30,7 @@ ht-degree: 91%
 * ユーザーがGmailまたは[!DNL Exchange]に接続すると、自動的に有効になります
 * ニーズに合わせてレコメンデーションの設定を増減する場合は、カスタマイズできます。
 * Gmail または [!DNL Exchange] を通じて送信されるメールのみスロットリングし、カスタム配信チャネルをスロットリングしません。
-* メール接続のスロットリングは、各ユーザがメールプロバイダーと独自に接続しているため、各ユーザのメールを個別にキューイングします
+* メール接続のスロットリングでは、各ユーザーがメールプロバイダーと独自に接続しているため、各ユーザーのメールが個別にキューに入れられます。
 
 ## メール接続スロットル設定の設定 {#configuring}
 

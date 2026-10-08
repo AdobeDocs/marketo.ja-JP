@@ -4,28 +4,32 @@ description: ゾーン IDに基づいてweb サイトの要素をパーソナラ
 title: 新しいゾーン内 Web キャンペーンを作成する
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/zSJh1nSYnoILoZMXlFcgG7dJmgjlr3tx1H-QCPYsZ-k
+TQID: 'https://experienceleague.adobe.com/zSJh1nSYnoILoZMXlFcgG7dJmgjlr3tx1H-QCPYsZ-k'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 715
+source-wordcount: '715'
 ht-degree: 89%
-
 ---
-
 # 新しいゾーン内 Web キャンペーンを作成する {#create-a-new-in-zone-web-campaign}
 
-Web キャンペーンとは、特定のセグメントに関連付けてカスタマイズされたリアクションで、ウェブサイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、ゾーン内置換、[ウィジェット機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)、メールアラートのいずれかです。 ゾーン内 Web キャンペーンは、 ゾーン ID に基づいて、ウェブサイトの要素をコンテンツやグラフィカルバナーに置き換えます。
+Web キャンペーンとは、特定のセグメントに関連付けてカスタマイズされたリアクションで、ウェブサイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、ゾーン内置換、[ウィジェット機能](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)、メールアラートのいずれかです。 ゾーン内 web キャンペーンは、ゾーン ID に基づいて web サイトの要素をコンテンツやグラフィカルバナーに置き換えます。
 
 ## ゾーン内 Web キャンペーンを作成する {#create-an-in-zone-web-campaign}
 
-1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
+1. 「**[!UICONTROL Web キャンペーン]**」に移動します
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
@@ -55,7 +59,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
  <tbody>
   <tr>
    <td colspan="1" rowspan="1"><strong> ゾーン ID </strong></td>
-   <td colspan="1" rowspan="1"><p>キャンペーンで置き換えたい ウェブサイト要素の HTML コードで見つかった id の名前を入力します。</p></td>
+   <td colspan="1" rowspan="1"><p>キャンペーンで置き換える web サイト要素の HTML コードで見つかった id の名前を入力します。</p></td>
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong> 固定 </strong></p></td>
@@ -77,7 +81,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
    <td colspan="1"><strong> オンサイトのプレビュー   </strong></td>
    <td colspan="1">キャンペーンを開始する前に、キャンペーンをプレビューします。 <br>
     <ul>
-     <li> URL - キャンペーンを実行するサンプルの URL を入力し、キャンペーンがどのように見えるか、サンプルをプレビューします。</li>
+     <li> URL - キャンペーンを実行するサンプルの URL を入力し、ライブ時にキャンペーンがどのように表示されるかをプレビューします。</li>
      <li>デバイス - デスクトップ、モバイル（縦置き）、モバイル（横置き）、タブレット（縦置き）、タブレット（横置き）の各デバイスでキャンペーンがどのように表示されるかをプレビューします。</li>
      <li> プレビュー -「<strong>プレビュー</strong>」をクリックすると、サンプル URL の新しいウィンドウが開き、キャンペーンの応答を確認できます。</li>
      <li> 共有 -「共有」ボタンを使用すると、プロキシキャンペーンを表示するリンクが記載されたメールを同僚に送信できます。</li>
@@ -92,7 +96,7 @@ Web キャンペーンとは、特定のセグメントに関連付けてカス�
 
 >[!NOTE]
 >
->**web キャンペーンのA/B テストを行いますか？** 1つ以上のweb キャンペーンを[A/B テストして最適な結果を得ることができます](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)。 自動チューニング機能によって、パフォーマンスの良いキャンペーンが自動的に認識され、最もコンバージョンの高いキャンペーンが続行されて他のキャンペーンは一時停止されます。
+>**web キャンペーンのA/B テストを行いますか？** 1つ以上のweb キャンペーンを[A/B テストして最適な結果を得ることができます](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)。 自動チューニング機能により、プラットフォームがパフォーマンスの良いキャンペーンを自動的に認識し、最もコンバージョンの高いキャンペーンを継続し、それ以外のキャンペーンを一時停止します。
 
 ## Web キャンペーンを編集する {#edit-a-web-campaign}
 

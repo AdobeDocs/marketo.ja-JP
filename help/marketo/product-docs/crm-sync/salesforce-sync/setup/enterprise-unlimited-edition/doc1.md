@@ -2,15 +2,22 @@
 description: Salesforce EnterpriseまたはUnlimited エディションにMarketo フィールドを追加する方法について説明します。 リードおよび取引先責任者オブジェクトのスコア、獲得プログラム、獲得日を作成します。
 title: ステップ 1/3 - Marketo フィールドをSalesforceに追加する（Enterprise/Unlimited）
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Salesforce Integration
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 64%
-
 ---
-
 # 手順 1／3：Marketo フィールドの Salesforce への追加（Enterprise／Unlimited） {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
@@ -19,11 +26,11 @@ ht-degree: 64%
 
 Marketo は、一連のフィールドを使用して、特定の種類のマーケティング関連情報を取り込みます。 Salesforce でこのデータを使用する場合は、以下の手順に従ってください。
 
-1. Salesforce でリードと連絡先オブジェクトの 3 つのカスタムフィールド（スコア、新規顧客獲得プログラム、獲得日）を作成します。
+1. Salesforce でリードと取引先責任者オブジェクトに 3 つのカスタムフィールド（スコア、新規顧客獲得プログラム、取得日）を作成します。
 1. これらのカスタムフィールドをリードと連絡先の間にマッピングし、Salesforce でのコンバージョン時に値が持ち越されるようにします。
 1. 必要に応じて、その他のフィールドを作成できます（以下の表を参照）。
 
-これらのカスタムフィールドはすべてオプションで、Marketo と Salesforce を同期するのに必須ではありません。 ベストプラクティスとして、「スコア」、「新規顧客獲得プログラム」、「獲得日」のフィールドを作成することをお勧めします。
+これらのカスタムフィールドはすべてオプションで、Marketo と Salesforce を同期するのに必須ではありません。 ベストプラクティスとして、「スコア」、「新規顧客獲得プログラム」、「取得日」のフィールドを作成することをお勧めします。&#x200B;
 
 ## Marketo フィールドを Salesforce に追加 {#add-marketo-fields-to-salesforce}
 
@@ -84,7 +91,7 @@ Marketo は、一連のフィールドを使用して、特定の種類のマー
    同期ユーザのプロファイルの読み取り専用のチェックをオフにします。
 
    同期ユーザーとしてシステム管理者のプロファイルを持つユーザーがいる場合は、システム管理者プロファイルの「読み取り専用」チェックボックスをオフにします（以下を参照）
-同期ユーザーのカスタムプロファイルを作成した場合は、そのカスタムプロファイルの「読み取り専用」チェックボックスをオフにします
+   同期ユーザーのカスタムプロファイルを作成した場合は、そのカスタムプロファイルの「読み取り専用」チェックボックスをオフにします
 
    スクリーンショット
 

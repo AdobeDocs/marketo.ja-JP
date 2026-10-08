@@ -3,22 +3,25 @@ description: Sales Insight ActionsとのHighspot統合について説明しま�
 title: Highspot との統合
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/SMFTyAUudxHzxiE2q4IzlqYtbwzUSn77ncsM7WMIAfg
+TQID: 'https://experienceleague.adobe.com/SMFTyAUudxHzxiE2q4IzlqYtbwzUSn77ncsM7WMIAfg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 348
+source-wordcount: '348'
 ht-degree: 91%
-
 ---
-
 # Highspot との統合 {#highspot-integration}
 
-セールスチームは、セールスインサイトアクションから Highspot 機能にアクセスし、セールスサイクル全体を通じて、より優れた可視性、効率性、パフォーマンスを実現できます。 セールスインサイトアクションユーザは、Highspot とセールスインサイトアクション内のコンテンツ追跡と分析をキャプチャしながら、Highspot のセールスイネーブルメントプラットフォームに保存されたセールスコンテンツを選択し、メール、メールテンプレート、セールスキャンペーンに直接挿入できます。
+セールスチームは、セールスインサイトアクションから Highspot 機能にアクセスし、セールスサイクル全体を通じて、より優れた可視性、効率性、パフォーマンスを実現できます。 セールスインサイトアクションユーザは、Highspot のセールスイネーブルメントプラットフォームに保存されたセールスコンテンツを選択し、メール、メールテンプレート、セールスキャンペーンに直接挿入できます。この操作により、コンテンツのトラッキングと分析が Highspot とセールスインサイトアクション内でキャプチャされます。
 
 ## Highspot 統合を有効にする {#enabling-highspot-integration}
 
@@ -38,7 +41,7 @@ ht-degree: 91%
 
    ![](assets/highspot-integration-3.png)
 
-作成ウィンドウ、テンプレートエディター、キャンペーンメールエディターでコンテンツのアップロードボタンを選択する際に、「Highspot」を選択するオプションが表示されるようになりました。
+作成ウィンドウ、テンプレートエディター、キャンペーンメールエディターでコンテンツのアップロードボタンを選択する際に、Highspot を選択するオプションが表示されます。
 
 ![](assets/highspot-integration-4.png)
 
@@ -68,14 +71,14 @@ Highspot にアクセスし、セールスインサイトアクションの作�
 
    >[!TIP]
    >
-   >目的のコンテンツが素早く表示されない場合は、上部の検索バーを使用します。
+   >目的のコンテンツがすぐに見つからない場合は、上部の検索バーを使用します。
 
-   コンテンツはメール内にリンクとして表示されます。 受信者は、リンクをクリックして、そのリンクを表示またはダウンロードできます。
+   コンテンツはメール内にリンクとして表示されます。 受信者はリンクをクリックして、そのコンテンツを表示したりダウンロードしたりできます。
 
    ![](assets/highspot-integration-10.png)
 
-## Highspot コンテンツでのクリックの追跡 {#tracking-clicks-on-highspot-content}
+## Highspot コンテンツのクリックトラッキング {#tracking-clicks-on-highspot-content}
 
-受信者が送信したコンテンツを開くと、ライブフィードで通知が送信されます。 アクティビティは、コンテンツリンクの詳細と共に、クリックとして表示されます。 また、コンテンツの表示とダウンロードが Highspot で追跡されます。
+受信者があなたの送信したコンテンツを開くと、ライブフィードで通知されます。 アクティビティは、コンテンツリンクの詳細と共に、クリックとして表示されます。 また、コンテンツの表示回数やダウンロード数は Highspot でトラッキングされます。
 
 ![](assets/highspot-integration-11.png)

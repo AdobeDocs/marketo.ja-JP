@@ -4,20 +4,23 @@ description: Salesforce MobileでMarketoの電子メールを送信し、キャ�
 title: Salesforce1 での Marketo メール送信、キャンペーンおよびウォッチリストアクション
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/bJcrAu9z069YhqSKLMU2pAwwZmZ1t7f6Li1e2B2Bl-4
+TQID: 'https://experienceleague.adobe.com/bJcrAu9z069YhqSKLMU2pAwwZmZ1t7f6Li1e2B2Bl-4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 176
+source-wordcount: '176'
 ht-degree: 88%
-
 ---
-
 # [!DNL Salesforce1] での Marketo メール送信、キャンペーンおよびウォッチリストアクション {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
 1. [!DNL Salesforce1] の「リードの詳細」領域に移動し、「**[!UICONTROL 関連]**」タブをクリックします。
@@ -38,9 +41,9 @@ ht-degree: 88%
 >
 >**例**
 >
->リクエストするものとして適切なスマートキャンペーンには、次のような特徴があります。
+>リクエストするのに適したスマートキャンペーンとしては、次のようなものが考えられます。
 >
 >1. 長期のナーチャリング - 今年度は予算がない場合
 >1. アクティブな営業サイクル - セールス担当者が、自分のメッセージのみをリードに送りたい場合（一時的に配信を停止する場合は、マーケティング中断のフラグを使用）
 >
->クリエイティブになりましょう。 セールス担当者は何を自動化したいと考えているでしょうか？ 直接質問してつながりを持ちましょう。
+>クリエイティブになりましょう。 セールス担当者は何を自動化したいと考えているでしょうか？ 直接質問して、設定しましょう。

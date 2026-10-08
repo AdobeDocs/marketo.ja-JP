@@ -3,23 +3,29 @@ description: クラシックアイコン用語集 - Marketo ドキュメント -
 title: クラシックアイコン用語集
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-TQID: https://experienceleague.adobe.com/ILFVjCHYiyZvNKoI29b4Ahz9ypY0v1mWvLHhM5QbdkY
+TQID: 'https://experienceleague.adobe.com/ILFVjCHYiyZvNKoI29b4Ahz9ypY0v1mWvLHhM5QbdkY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 566
+source-wordcount: '566'
 ht-degree: 96%
-
 ---
-
 # クラシックアイコン用語集 {#classic-icon-glossary}
 
 以下は、Marketo Classic インターフェイスの古いアイコンです。 現在のアイコン用語集は[こちら](/help/marketo/getting-started/things-to-know/icon-glossary.md){target="_blank"}にあります。
@@ -34,7 +40,7 @@ ht-degree: 96%
   </tr>
   <tr>
    <td><img src="assets/image2016-2-24-11-3a16-3a17.png"></td>
-   <td>フォルダ</td>
+   <td>フォルダー</td>
   </tr>
   <tr>
    <td>
@@ -44,7 +50,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-9-3a16-3a28.png">
     </td>
-   <td>フォルダーを削除</td>
+   <td>フォルダーの削除</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-9-3a20-3a42.png">
@@ -64,7 +70,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-9-3a23-3a11.png">
     </td>
-   <td>アーカイブフォルダーまたはアーカイブフォルダーに変換（任意のフォルダーおよびアーカイブされたプログラムで表示可能）</td>
+   <td>アーカイブフォルダー、またはアーカイブフォルダーに変換する（任意のフォルダーおよびアーカイブされたプログラムで表示されることがあります）</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-9-3a35-3a59.png">
@@ -99,12 +105,12 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-10-3a47-3a12.png">
     </td>
-   <td>サブスクリプション情報</td>
+   <td>配信登録情報</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-10-3a49-3a41.png">
     </td>
-   <td>カスタマ サポート</td>
+   <td>カスタマーサポート</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-10-3a52-3a30.png">
@@ -140,7 +146,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-8-16-3a25-3a7.png">
     </td>
-   <td>ユーザ＆ロール</td>
+   <td>ユーザ&amp;ロール</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-16-3a30-3a56.png">
@@ -210,7 +216,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-8-18-3a44-3a51.png">
     </td>
-   <td>Web フック</td>
+   <td>Webhook</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-18-3a46-3a13.png">
@@ -276,7 +282,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2014-12-23-11-3a40-3a19.png">
     </td>
-   <td>エンゲージメントサイクルの変更（一時停止、通常）</td>
+   <td>エンゲージメントケイデンスの変更（一時停止、通常）</td>
   </tr>
   <tr>
    <td><img src="assets/image2014-12-23-11-3a42-3a5.png">
@@ -291,7 +297,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-5-11-3a12-3a45.png">
     </td>
-   <td>リクエストされるスマートキャンペーン（セールスインサイトまたは Marketo フローアクション）</td>
+   <td>リクエストされたスマートキャンペーン（セールスインサイトまたは Marketo フローステップ）</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-11-3a14-3a24.png">
@@ -316,7 +322,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/hs-icon.png">
     </td>
-   <td>ヘッドスタートでスケジュールされたメールプログラム</td>
+   <td>メールプログラム（ヘッドスタートでスケジュール済み）</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-11-3a51-3a1.png">
@@ -326,12 +332,12 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-11-3a6-3a26.png">
     </td>
-   <td>スケジュールバッチキャンペーン</td>
+   <td>予定されているバッチキャンペーン</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a25-3a43.png">
     </td>
-   <td>フロー アクション</td>
+   <td>フローアクション</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a33-3a30.png">
@@ -346,12 +352,12 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-14-3a40-3a19.png">
     </td>
-   <td>フォームの複製</td>
+   <td>フォームのクローン作成</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a41-3a0.png">
     </td>
-   <td>フォームを編集する</td>
+   <td>フォームの編集</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a41-3a30.png">
@@ -371,7 +377,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-14-3a44-3a8.png">
     </td>
-   <td>下書きの編集</td>
+   <td>ドラフトの編集</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a45-3a45.png">
@@ -381,7 +387,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-14-3a46-3a39.png">
     </td>
-   <td>複製</td>
+   <td>クローン作成</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a50-3a30.png">
@@ -401,7 +407,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-14-3a54-3a36.png">
     </td>
-   <td>下書きの編集</td>
+   <td>ドラフトの編集</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a55-3a51.png">
@@ -416,7 +422,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-14-3a57-3a27.png">
     </td>
-   <td>複製</td>
+   <td>クローン作成</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a58-3a0.png">
@@ -431,7 +437,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-15-3a16-3a27.png">
     </td>
-   <td>下書きの編集</td>
+   <td>ドラフトの編集</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-15-3a17-3a24.png">
@@ -446,7 +452,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-15-3a18-3a20.png">
     </td>
-   <td>複製</td>
+   <td>クローン作成</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-15-3a19-3a46.png">
@@ -476,12 +482,12 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a3-3a30.png">
     </td>
-   <td>複製</td>
+   <td>クローン作成</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a3-3a42.png">
     </td>
-   <td>承認を取消</td>
+   <td>承認取消</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a3-3a49.png">
@@ -522,7 +528,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-12-10-3a55-3a52.png">
     </td>
-   <td>下書きの編集</td>
+   <td>ドラフトの編集</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-10-3a56-3a42.png">
@@ -532,7 +538,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-12-10-3a57-3a25.png">
     </td>
-   <td>承認を取消</td>
+   <td>承認取消</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-10-3a59-3a48.png">
@@ -542,17 +548,17 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-12-11-3a0-3a49.png">
     </td>
-   <td>テストグループに変換</td>
+   <td>テストグループに変換する</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-11-3a7-3a6.png">
     </td>
-   <td>ランディングページを複製</td>
+   <td>ランディングページのクローン作成</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-11-3a8-3a54.png">
     </td>
-   <td>ランディングページを削除</td>
+   <td>ランディングページの削除</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-11-3a10-3a10.png">
@@ -602,7 +608,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-5-12-3a52-3a44.png">
     </td>
-   <td>テンプレート - ドラフトで承認済み</td>
+   <td>テンプレート - 承認済み（ドラフトあり）</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-12-3a53-3a55.png">
@@ -612,7 +618,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-5-13-3a6-3a44.png">
     </td>
-   <td>画像とファイル</td>
+   <td>画像およびファイル</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-13-3a11-3a50.png">
@@ -653,7 +659,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-9-3a50-3a24.png">
     </td>
-   <td>収益サイクルモデル</td>
+   <td>売上高サイクルモデル</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-9-3a55-3a4.png">
@@ -668,7 +674,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-9-3a58-3a14.png">
     </td>
-   <td>売上高サイクルモデル（RCM）- ドラフトで承認済み</td>
+   <td>収益サイクルモデル（RCM）- 承認済み（ドラフトあり）</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-12-3a55-3a23.png">
@@ -708,7 +714,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-9-13-3a36-3a11.png">
     </td>
-   <td>すべて折りたたむ</td>
+   <td>すべて縮小表示</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-13-3a43-3a15.png">
@@ -754,7 +760,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-5-15-3a44-3a30.png">
     </td>
-   <td>スマートキャンペーンの実行スケジュールの設定（1 回）</td>
+   <td>スマートキャンペーンを 1 回だけ実行するようにスケジュール</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-15-3a46-3a32.png">
@@ -769,7 +775,7 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-5-16-3a1-3a29.png">
     </td>
-   <td>スマートメンバーの表示（以前に認定され、現在）</td>
+   <td>スマートメンバーの表示（以前に条件を満たしたメンバーと現在のメンバー）</td>
   </tr>
  </tbody>
 </table>
@@ -851,22 +857,22 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-5-16-3a37-3a48.png">
     </td>
-   <td>セグメント化またはセグメント - 未承認</td>
+   <td>セグメント化／セグメント - 未承認</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-16-3a39-3a5.png">
     </td>
-   <td>セグメント化またはセグメント - 承認済みまたはドラフト</td>
+   <td>セグメント化／セグメント - 承認済みまたはドラフト</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-16-3a40-3a49.png">
     </td>
-   <td>セグメント化またはセグメント - 承認済み</td>
+   <td>セグメント化／セグメント - 承認済み</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-16-3a42-3a11.png">
     </td>
-   <td>フィールド オーガナイザ</td>
+   <td>フィールドオーガナイザー</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-5-14-3a43-3a28.png">
@@ -886,12 +892,12 @@ ht-degree: 96%
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a39.png">
     </td>
-   <td>新規セグメンテーション</td>
+   <td>新規セグメント化</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a47.png">
     </td>
-   <td>読み込み</td>
+   <td>インポート</td>
   </tr>
  </tbody>
 </table>

@@ -1,30 +1,38 @@
 ---
 unique-page-id: 10096583
-description: 次世代 [!DNL Munchkin]  トラッキング ロールアウトと匿名フィルターの変更に関するFAQ。
-title: 次世代  [!DNL Munchkin]  トラッキングに関する FAQ
+description: 次世代[!DNL Munchkin]のトラッキング ロールアウトと「匿名です」フィルターの変更に関するFAQ。
+title: 次世代 [!DNL Munchkin] トラッキングに関する FAQ
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
-TQID: https://experienceleague.adobe.com/2kPRUe33THDYoIiP-yUDByqcJz5GPHoBnfDzRgwApNk
+TQID: 'https://experienceleague.adobe.com/2kPRUe33THDYoIiP-yUDByqcJz5GPHoBnfDzRgwApNk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 1c1a93b2-f024-5627-9905-6faf6fcc22be
+    internal-label: Munchkin Tracking Code
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 706
-ht-degree: 48%
-
+source-wordcount: '710'
+ht-degree: 49%
 ---
-
 # 次世代 [!DNL Munchkin] トラッキングに関する FAQ {#next-generation-munchkin-tracking-faq}
 
 Marketoは、次世代のweb トラッキングテクノロジーを段階的に導入しています。
@@ -45,11 +53,11 @@ Marketoは、次世代のweb トラッキングテクノロジーを段階的に
 
 >[!NOTE]
 >
->この変更は、web パーソナライゼーション（リアルタイムパーソナライゼーション）には影響しません。 匿名および既知の web 訪問者を引き続き識別し、これらの訪問者に合わせてリアルタイムでコンテンツをパーソナライズします。
+>この変更は、web パーソナライゼーション（リアルタイムのパーソナライゼーション）には影響しません。 匿名および既知の web 訪問者を引き続き識別し、これらの訪問者に合わせてリアルタイムでコンテンツをパーソナライズします。
 
 ## Marketo でスマートリストから「匿名」フィルターが削除されたのはなぜですか。 {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
-Marketoは、匿名ユーザーのスマートキャンペーンへの関わり方を一変させました。 以前は、これらのユーザーも既知のユーザーも、スマートキャンペーンの流れは同じでした。 「匿名」フィルターは、キャンペーンで既知の人物のみまたは匿名の人物のみを対象に指定するために使用されていました。
+Marketoは、匿名ユーザーのスマートキャンペーンへの関わり方を一変させました。 以前は、これらのユーザーも既知のユーザーも、スマートキャンペーンの流れは同じでした。 「匿名」フィルターは、キャンペーンをフローする人物を、既知の人物のみ、または匿名の人物のみに限定するために使用されていました。
 
 [!DNL Munchkin] V2では、Marketoはすべての匿名アクティビティを引き続き追跡します。ただし、匿名ユーザーにフィルターを適用することはできません。 コンバージョンの時点（Marketo でユーザーが既知となった時点）で、ユーザーが匿名であった間に発生したすべてのアクティビティがそのユーザーのアクティビティログに追加され、その時点から、対象となるキャンペーンが適用されます。
 
@@ -57,7 +65,9 @@ Marketoは、匿名ユーザーのスマートキャンペーンへの関わり�
 
 >[!NOTE]
 >
->**トリガー**：Web ページへの訪問、Web ページが料金ページ&#x200B;>**フロー**: スコア +10と興味深い瞬間の変更&#x200B;>**Web**：料金ページを閲覧した
+>**トリガー**：Web ページへの訪問、Web ページが料金ページ
+>**フロー**: スコア +10と興味深い瞬間の変更
+>**Web**：料金ページを閲覧した
 >
 >[!DNL Munchkin] V2では、匿名ユーザーが価格ページにアクセスした場合、すぐにキャンペーンに参加することはありません。 匿名ユーザーが判明した時点で、Marketoは匿名ユーザーに対してこのキャンペーンを実行します。 次のことを行います。
 >
@@ -102,4 +112,4 @@ Winter &#39;16 リリースの後、スマートリストに「Is Anonymous」�
 
 ## まだ質問があります。 どのようにしたら回答を得ることができますか？ {#i-have-more-questions-how-do-i-get-them-answered}
 
-[Marketo コミュニティ &#x200B;](https://experienceleaguecommunities.adobe.com/?profile.language=ja){target="_blank"}にアクセスします。 また、Marketo サポートにお問い合わせください。 喜んで質問に答えてくれます。
+[Marketo コミュニティ ](https://experienceleaguecommunities.adobe.com/?profile.language=ja){target="_blank"}にアクセスします。 また、Marketo サポートにお問い合わせください。 喜んで質問に答えてくれます。

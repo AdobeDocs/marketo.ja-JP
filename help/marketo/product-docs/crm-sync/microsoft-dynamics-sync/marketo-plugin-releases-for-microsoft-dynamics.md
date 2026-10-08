@@ -1,21 +1,27 @@
 ---
 unique-page-id: 10099389
 description: Microsoft Dynamics向けMarketo プラグインのリリースについて説明します。 バージョン履歴を検索し、Dynamics インスタンスの最新のMarketo ソリューションをダウンロードします。
-title: ' [!DNL Microsoft Dynamics] 向け Marketo プラグインリリース'
+title: '[!DNL Microsoft Dynamics] 向け Marketo プラグインリリース'
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/jz77p3iIGzpZFGrGPLoAFpz0b6EGllNwLc6g4Wj6G4g
+TQID: 'https://experienceleague.adobe.com/jz77p3iIGzpZFGrGPLoAFpz0b6EGllNwLc6g4Wj6G4g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 519
+source-wordcount: '519'
 ht-degree: 82%
-
 ---
-
 # [!DNL Microsoft Dynamics] 向け Marketo プラグインリリース {#marketo-plugin-releases-for-microsoft-dynamics}
 
 [!DNL Microsoft Dynamics] に初めて同期するときは、Marketo 用のプラグインの最新バージョンをダウンロードします。 Marketo は定期的にこれらのプラグインを更新するので、同じ場所に戻って新しいバージョンをダウンロードできます。
@@ -83,7 +89,7 @@ ht-degree: 82%
   <tr>
    <td>4.0.0.22</td>
    <td>2017/09/29</td>
-   <td>バグ修正：内部リビジョン。</td>
+   <td>bug 修正：内部リビジョン。</td>
   </tr>
   <tr>
    <td><p>4.0.0.21</p></td>
@@ -98,7 +104,7 @@ ht-degree: 82%
   <tr>
    <td>4.0.0.19</td>
    <td>2016/06/28</td>
-   <td>バグ修正：商談が作成された際に、marketo ログの customeropportunityrole で不要な更新トランザクションが記録されました。<p>バグ修正：customeropportunityrole エンティティの削除時に、追加の削除トランザクションがログに記録されました。</td>
+   <td>バグ修正：商談が作成された際に、Marketo ログの customeropportunityrole で不要な更新トランザクションが記録されました。<p>バグ修正：customeropportunityrole エンティティの削除時に、追加の削除トランザクションがログに記録されました。</td>
   </tr>
   <tr>
    <td>4.0.0.18</td>
@@ -113,7 +119,7 @@ ht-degree: 82%
   <tr>
    <td>4.0.0.16</td>
    <td>2016/03/29</td>
-   <td>バグ修正：同期フィルターがオフになったときに、割り当てイベントがログに記録されました。</td>
+   <td>bug 修正：同期フィルターがオフになったときに、割り当てイベントがログに記録されました。</td>
   </tr>
   <tr>
    <td>4.0.0.15</td>

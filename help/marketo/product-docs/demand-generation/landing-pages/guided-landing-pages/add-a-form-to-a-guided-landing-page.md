@@ -4,23 +4,28 @@ description: Marketoのガイド付きランディングページにフォーム
 title: ガイド付きランディングページにフォームを追加する
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
+TQID: 'https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 174
+source-wordcount: '174'
 ht-degree: 77%
-
 ---
-
 # ガイド付きランディングページにフォームを追加する {#add-a-form-to-a-guided-landing-page}
 
 >[!PREREQUISITES]
 >
 >[ガイド付きランディングページテンプレートを作成する](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
+1. 「**[!UICONTROL マーケティングアクティビティ]**」エリアに移動します。
 
    ![](assets/one.png)
 
@@ -56,4 +61,4 @@ ht-degree: 77%
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-ランディングページエディターを閉じて、[&#x200B; ランディングページのドラフトを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)します。
+ランディングページエディターを閉じて、[ ランディングページのドラフトを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)します。

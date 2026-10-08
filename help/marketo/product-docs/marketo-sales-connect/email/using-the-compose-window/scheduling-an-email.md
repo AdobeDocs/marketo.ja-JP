@@ -4,16 +4,18 @@ description: Sales Connectでメールをスケジュールする方法を説明
 title: メールのスケジュール設定
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/dztU4ffCzIPtOTpnv7zQjSqPw2-6ZrX1drDtHkE2Y-A
+TQID: 'https://experienceleague.adobe.com/dztU4ffCzIPtOTpnv7zQjSqPw2-6ZrX1drDtHkE2Y-A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 149
+source-wordcount: '149'
 ht-degree: 75%
-
 ---
-
 # メールのスケジュール設定 {#scheduling-an-email}
 
 以下の簡単な手順に従って、メールのスケジュールを設定します。
@@ -30,11 +32,11 @@ ht-degree: 75%
 
    ![](assets/two-1.png)
 
-1. 日付をクリックして日付選択ツールを開き、日付を選択します。
+1. 日付をクリックして日付選択を開き、日付を選択します。
 
    ![](assets/three-1.png)
 
-1. メールを送信する時間を入力します。 目的のタイムゾーンを選択し、「**[!UICONTROL 保存]**」をクリックします。 完了したら、スケジューラーを閉じます。
+1. メールを送信する時間を入力します。 目的のタイムゾーンを選択し、「**[!UICONTROL 保存]**」をクリックします。 完了したら、スケジューラーをクローズします。
 
    ![](assets/four-1.png)
 

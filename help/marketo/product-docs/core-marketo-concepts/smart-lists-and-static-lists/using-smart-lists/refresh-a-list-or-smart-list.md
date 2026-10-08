@@ -4,16 +4,21 @@ description: リストまたはスマートリストを更新する方法を説�
 title: リストまたはスマートリストの更新
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/9mDk82MHRwR7qY0or3iOXMJbsJb5Frqd3a3doWa0sfM
+TQID: 'https://experienceleague.adobe.com/9mDk82MHRwR7qY0or3iOXMJbsJb5Frqd3a3doWa0sfM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 149
+source-wordcount: '149'
 ht-degree: 69%
-
 ---
-
 # リストまたはスマートリストの更新 {#refresh-a-list-or-smart-list}
 
 スマートリストを実行し、数分が経過した場合、結果は異なる可能性があります – 見つけるために更新します。
@@ -30,7 +35,7 @@ ht-degree: 69%
 
 >[!TIP]
 >
->スマートリストを実行し、後で再び表示すると、右下の人数の前に「約」と表示されていることがあります。 数はおおよその数であり、数を更新して正確な数を表示するには、数値自体をクリックします。
+>スマートリストを実行し、後で再び表示すると、右下の人数の前に「約」と表示されていることがあります。 これは数値がおおよその値であることを示しています。正確な最新の人数を表示するには、その人数をクリックして更新します。
 
 >[!MORELIKETHIS]
 >

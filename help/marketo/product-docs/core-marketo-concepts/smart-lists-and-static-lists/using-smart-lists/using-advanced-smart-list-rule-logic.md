@@ -1,22 +1,27 @@
 ---
 unique-page-id: 1146901
 description: 高度なスマートリストのルールロジックの使用方法を説明します。 フィルターをANDおよびORと組み合わせて、複雑な選定を行います。
-title: 高度なスマートリストルールロジックの使用
+title: 高度なスマートリストルールロジックを使用する
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/fApf1UB9N8aT8Eqi8oibEnWYiNjET-QcWYTvCfgJHgs
+TQID: 'https://experienceleague.adobe.com/fApf1UB9N8aT8Eqi8oibEnWYiNjET-QcWYTvCfgJHgs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 310
+source-wordcount: '310'
 ht-degree: 89%
-
 ---
-
 # 高度なスマートリストルールロジックの使用 {#using-advanced-smart-list-rule-logic}
 
-スマートリスト内の複数のフィルターにスマートリストルールロジックを適用すると、必要な人物を正確に検索できます。
+スマートリスト内の複数のフィルターにスマートリストのルールロジックを適用すると、必要な人物を正確に検索できます。
 
 >[!PREREQUISITES]
 >
@@ -25,9 +30,9 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->詳細フィルターロジックは、スマートリストに 3 つ以上のフィルターがある場合にのみ使用できます。
+>高度なフィルターロジックは、スマートリストにフィルターが 3 つ以上ある場合にのみ使用できます。
 
-## スマートリストへのロジックの追加 {#add-logic-to-a-smart-list}
+## スマートリストにロジックを追加 {#add-logic-to-a-smart-list}
 
 デフォルトでは、スマートリストでは、**[!UICONTROL すべての]**&#x200B;フィルター（フィルター 1 _および_ 2 _および_ 3）に一致する人物が検索されます。 ルールロジックを変更して、定義済みフィルターの&#x200B;**[!UICONTROL いずれか]**（フィルター 1 _または_ 2 _または_ 3）に一致するユーザーを検索する、または詳細フィルター（フィルター 1 _および_ 2 _または_ 3）を使用することができます。
 
@@ -51,7 +56,7 @@ ht-degree: 89%
 
    >[!CAUTION]
    >
-   >ルールロジックを入力する際は、「or」の前に「and」を使用する必要があります。
+   >ルールのロジックを入力する際は、「or」の前に「and」を使用する必要があります。
 
 1. 「2 and 3」の「and」を「or」に変更します。
 
@@ -71,4 +76,4 @@ ht-degree: 89%
 
 >[!TIP]
 >
->無効なルールを入力すると、ルールの下に赤い線が表示されます。 テキストの上にスクロールすると、関連するエラーメッセージが表示されます。
+>無効なルールを入力すると、ルールの下に赤い線が表示されます。 テキストの上にスクロールすると、関連するエラーが表示されます。

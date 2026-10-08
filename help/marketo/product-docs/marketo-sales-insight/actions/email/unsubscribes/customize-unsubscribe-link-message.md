@@ -1,23 +1,25 @@
 ---
 description: セールスメールの購読解除リンクメッセージをカスタマイズする方法について説明します。 ユーザーがオプトアウトしたときに表示されるテキストを編集します。
-title: 配信停止リンクメッセージのカスタマイズ
+title: 購読解除リンクメッセージのカスタマイズ
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/J9kzlt-Lu5OzkVgyZypfDr8zzN8Rltq8vpl-rBlgNg0
+TQID: 'https://experienceleague.adobe.com/J9kzlt-Lu5OzkVgyZypfDr8zzN8Rltq8vpl-rBlgNg0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 205
+source-wordcount: '205'
 ht-degree: 90%
-
 ---
-
 # 登録解除リンクメッセージのカスタマイズ {#customize-unsubscribe-link-message}
 
-これまでもチームは常に配信停止リンクメッセージをカスタマイズできましたが、管理者は、チーム全体に対して配信停止リンクメッセージを設定し、メッセージの一貫性を保つことができます。
+これまでもチームは常に購読解除リンクメッセージをカスタマイズできましたが、管理者にはチーム全体に対して購読解除リンクメッセージを設定して、メッセージの一貫性をもたせる選択肢があります。
 
 >[!NOTE]
 >
@@ -35,13 +37,13 @@ ht-degree: 90%
 
    ![](assets/customize-unsubscribe-link-message-3.png)
 
-1. クリックして登録解除ページに移動するためのテキストをハイライト表示してから、リンクアイコンをクリックします。
+1. クリックして配信停止ページに移動するテキストをハイライトし、リンクアイコンをクリックします。
 
    ![](assets/customize-unsubscribe-link-message-4.png)
 
    >[!NOTE]
    >
-   >どんな URL を入力しても構いません。 メールが送信されると、最初の（または唯一の）ハイパーリンクは、デフォルトの配信停止ページに自動的にリンクされます。
+   >どんな URL を入力しても構いません。 メールが送信されると、最初の（または唯一の）ハイパーリンクは、デフォルトの購読解除ページに自動的にリンクされます。
 
 1. URL を入力し、現在のウィンドウでリンクを開くか、新しいウィンドウでリンクを開くかを決定して、「**[!UICONTROL 保存]**」をクリックします。
 

@@ -6,23 +6,31 @@ description: Litmusを使用して、クライアント間でメールのレン�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-TQID: https://experienceleague.adobe.com/HDelTp-9vepH8-TeDRN6FyAe-Nik-hfegvHrakdYDT4
+TQID: 'https://experienceleague.adobe.com/HDelTp-9vepH8-TeDRN6FyAe-Nik-hfegvHrakdYDT4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 394
+source-wordcount: '394'
 ht-degree: 5%
-
 ---
-
 # Litmus を使用したメールのレンダリングのテスト {#test-email-rendering-with-litmus}
 
 Marketo Engageの[Litmus](https://www.litmus.com/email-testing) アカウントを活用して、人気のあるメールクライアントでのメールのレンダリングを即座に確認します。
@@ -33,7 +41,7 @@ Marketo Engageの[Litmus](https://www.litmus.com/email-testing) アカウント�
 
 ## Litmus Enterprise ユーザー {#litmus-enterprise}
 
-次の手順は、[Litmus エンタープライズ プラン &#x200B;](https://www.litmus.com/pricing/enterprise){target="_blank"}のユーザー向けです。
+次の手順は、[Litmus エンタープライズ プラン ](https://www.litmus.com/pricing/enterprise){target="_blank"}のユーザー向けです。
 
 1. _メールコンテンツを編集_&#x200B;画面で、「**コンテンツをシミュレート**」ボタンをクリックします。
 
@@ -65,7 +73,7 @@ Marketo Engageの[Litmus](https://www.litmus.com/email-testing) アカウント�
 
    >[!NOTE]
    >
-   >デフォルトのメールクライアントリストを[&#x200B; カスタマイズする方法について説明します](https://help.litmus.com/article/227-change-your-default-email-clients-list)。
+   >デフォルトのメールクライアントリストを[ カスタマイズする方法について説明します](https://help.litmus.com/article/227-change-your-default-email-clients-list)。
 
 1. テストが完了したら、左上の後方矢印をクリックして、_コンテンツをシミュレート_&#x200B;画面に戻ります。
 
@@ -77,7 +85,7 @@ Marketo Engageの[Litmus](https://www.litmus.com/email-testing) アカウント�
 
 ## Litmus コアユーザー {#litmus-core}
 
-次の手順は、[Litmus コアプラン &#x200B;](https://www.litmus.com/pricing/){target="_blank"}のユーザー向けです。
+次の手順は、[Litmus コアプラン ](https://www.litmus.com/pricing/){target="_blank"}のユーザー向けです。
 
 1. Litmus アカウントで、_テスト_&#x200B;画面の「**テストアドレスをコピー**」ボタンをクリックして、テストメールアドレスを取得します。
 

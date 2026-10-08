@@ -1,19 +1,24 @@
 ---
 unique-page-id: 6849029
 description: Microsoft Dynamics用のMarketo ソリューションを更新する方法について説明します。 Adminから最新のソリューションをダウンロードし、Dynamicsの既存のバージョンにインポートします。
-title: ' [!DNL Microsoft Dynamics] 向け Marketo ソリューションのアップデート'
+title: '[!DNL Microsoft Dynamics] 向け Marketo ソリューションのアップデート'
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/Ki3gY009SRNEcyvy-J8EWxDxScI0q8mnkcSxycwuUSc
+TQID: 'https://experienceleague.adobe.com/Ki3gY009SRNEcyvy-J8EWxDxScI0q8mnkcSxycwuUSc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 180
+source-wordcount: '180'
 ht-degree: 69%
-
 ---
-
 # [!DNL Microsoft Dynamics] 向け Marketo ソリューションのアップデート {#update-the-marketo-solution-for-microsoft-dynamics}
 
 新しい [!DNL Microsoft Dynamics] ソリューションがリリースされると、アカウントの管理者領域からアップデートをダウンロードできます。
@@ -54,4 +59,4 @@ ht-degree: 69%
 
 >[!CAUTION]
 >
->アップデートの代わりにアップグレードを選択すると、[!DNL Dynamics] 環境でデータが破損する可能性があります。 **[!UICONTROL 読み込みオプション &#x200B;]の下の更新**&#x200B;を選択します。
+>アップデートの代わりにアップグレードを選択すると、[!DNL Dynamics] 環境でデータが破損する可能性があります。 **[!UICONTROL 読み込みオプション ]の下の更新**&#x200B;を選択します。

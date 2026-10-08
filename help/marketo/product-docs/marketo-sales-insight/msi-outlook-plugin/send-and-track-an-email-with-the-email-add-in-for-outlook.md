@@ -1,28 +1,31 @@
 ---
 unique-page-id: 2949716
 description: Outlook用Marketo電子メールアドインを使用して、電子メールを送信および追跡する方法について説明します。 Outlookから作成して、ビュー、クリック、返信を確認します。
-title: ' [!DNL Outlook] 用メールアドインを使用したメールの送信とトラッキング'
+title: '[!DNL Outlook] 用メールアドインを使用したメールの送信とトラッキング'
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/WvLQCUhBt1q0E8TzyMCIMYe7gv5z0kNhcKCjE-yTCyo
+TQID: 'https://experienceleague.adobe.com/WvLQCUhBt1q0E8TzyMCIMYe7gv5z0kNhcKCjE-yTCyo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 302
+source-wordcount: '302'
 ht-degree: 90%
-
 ---
-
 # [!DNL Outlook] 用メールアドインを使用したメールの送信とトラッキング {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
 [!DNL Outlook] から直接、Marketo のメールを送信して、トラッキングできます。
 
 >[!PREREQUISITES]
 >
->まだインストールしていない場合は、[&#x200B; [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 用 Marketo メールアドインをインストールします。
+>まだインストールしていない場合は、[ [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) 用 Marketo メールアドインをインストールします。
 
 >[!NOTE]
 >
@@ -42,7 +45,7 @@ ht-degree: 90%
 
    >[!NOTE]
    >
-   >Marketo インスタンスに存在しない人にメールを送信すると、その人のリードレコードが自動的に作成されます。 その場合の姓は必ず「mktUnknown」となるので、すぐに区別がつきます。
+   >Marketo インスタンスに存在しない人にメールを送信すると、その人の人物レコードが自動的に作成されます。 その場合の姓は必ず「mktUnknown」となるので、すぐに区別がつきます。
 
    >[!TIP]
    >

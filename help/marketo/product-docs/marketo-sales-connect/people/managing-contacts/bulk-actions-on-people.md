@@ -4,35 +4,37 @@ description: Sales Connectの人物ページで一括アクションを使用す
 title: 人物に対する一括アクション
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/QtKi9nvrLTAONooRnJvOy2fmB2yg0pp03gwGNq7dLpQ
+TQID: 'https://experienceleague.adobe.com/QtKi9nvrLTAONooRnJvOy2fmB2yg0pp03gwGNq7dLpQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: 89c58ba282b1b778d49843bcaa8827ffd0d5fef5
+    internal-label: Database
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 156
+source-wordcount: '156'
 ht-degree: 85%
-
 ---
-
 # 人物に対する一括アクション {#bulk-actions-on-people}
 
-取引先責任者を一括で使用して時間を節約するには、いくつかの操作が可能です。
+取引先責任者に対して一括で実行できる操作がいくつかあり、時間を節約できます。
 
-使用可能な一括アクションの最初の手順は、2 つ以上の取引先責任者を選択し、縦並びの 3 つのドットをクリックすることです。
+利用可能なすべての一括アクションにおいて、まず 2 つ以上の取引先責任者を選択し、ドット（縦に並んだ 3 つの点）をクリックします。
 
 ![](assets/one-3.png)
 
-## 人物をグループに追加 {#add-people-to-group}
+## 人物をグループに追加&#x200B; {#add-people-to-group}
 
-複数の人物を 1 つのグループに同時に追加します。
+複数の人物を同時に 1 つのグループに追加します。
 
 ![](assets/add-to-group.png)
 
 ## ソース {#source}
 
-データベースに入るすべての取引先責任者に、ソースを自動的に割り当てます。 この手順を使用して、そのソースを更新します。
+データベースに追加されたすべての取引先責任者に、ソースを自動的に割り当てます。 この手順を使用して、そのソースを更新します。
 
 ![](assets/source.png)
 

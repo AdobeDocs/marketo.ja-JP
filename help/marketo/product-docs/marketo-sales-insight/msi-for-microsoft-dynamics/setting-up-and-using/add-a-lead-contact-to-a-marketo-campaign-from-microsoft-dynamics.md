@@ -1,23 +1,26 @@
 ---
 unique-page-id: 2953342
 description: Microsoft DynamicsからMarketo キャンペーンにリードまたは連絡先を追加する方法を説明します。 MSI パネルを使用して、キャンペーンにリードを追加します。
-title: Microsoft Dynamics から Marketo Campaign へのリード／連絡先の追加
+title: Microsoft Dynamics から Marketo キャンペーンへのリード／取引先責任者の追加
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/-Koxk8vu7pdKpmATjaqEUuzdmCuG1WjBSy-exSHO8n8
+TQID: 'https://experienceleague.adobe.com/-Koxk8vu7pdKpmATjaqEUuzdmCuG1WjBSy-exSHO8n8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 143
+source-wordcount: '143'
 ht-degree: 83%
-
 ---
-
 # [!DNL Microsoft Dynamics] から Marketo キャンペーンへのリード／取引先責任者の追加 {#add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics}
 
 [!DNL Microsoft Dynamics] 内から直接、Marketo のスマートキャンペーンにリードや取引先責任者を素早く簡単に追加できます。 手順は次のとおりです。

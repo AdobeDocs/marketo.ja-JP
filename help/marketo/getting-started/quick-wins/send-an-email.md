@@ -4,21 +4,25 @@ description: メールの送信 - Marketo ドキュメント - 製品ドキュ�
 title: メールの送信
 exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/78USVL0xo4UiD5eQX4A3fKBZanhP7HcH0J90sD3CZi4
+TQID: 'https://experienceleague.adobe.com/78USVL0xo4UiD5eQX4A3fKBZanhP7HcH0J90sD3CZi4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 409
+source-wordcount: '409'
 ht-degree: 95%
-
 ---
-
 # メールの送信 {#send-an-email}
 
 これは誰もが最初にしたいことです。 Marketo からメールを送信しましょう。
@@ -29,7 +33,7 @@ ht-degree: 95%
 
 ## メールプログラムの作成 {#create-an-email-program}
 
-1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
 
    ![](assets/send-an-email-1.png)
 
@@ -107,7 +111,7 @@ ht-degree: 95%
 
    ![](assets/send-an-email-13.png)
 
-1. 「**[!UICONTROL メールアクション]**」ドロップダウンをクリックし、「**[!UICONTROL 承認して閉じる]**」を選択します。
+1. **[!UICONTROL メールアクション]**&#x200B;ドロップダウンをクリックし、**[!UICONTROL 承認して閉じる]**&#x200B;を選択します。
 
    ![](assets/send-an-email-14.png)
 

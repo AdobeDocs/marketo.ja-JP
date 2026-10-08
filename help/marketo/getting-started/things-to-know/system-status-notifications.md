@@ -3,13 +3,17 @@ description: システムステータス通知の購読 – Marketo Engage ド�
 title: システムステータス通知の購読
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 2%
-
 ---
-
 # システムステータス通知の購読 {#subscribe-to-system-status-notifications}
 
 さまざまなステータス通知を購読して、現在の問題に関する最新情報を入手する方法について説明します。
@@ -30,7 +34,7 @@ ht-degree: 2%
 
 _データセンター_ フィールドでは、文字はデータセンターで、数字はポッドです。 上記の例では、ユーザーはポッド 49のAshburn データセンターにいます。
 
-次のセクション [&#128279;](#create-a-subscription)のステップ 7では、地域の場所&#x200B;**Marketo アッシュバーン**&#x200B;とポッド **ab49**&#x200B;を選択します。
+次のセクション ](#create-a-subscription)のステップ 7では、地域の場所&#x200B;**Marketo アッシュバーン**&#x200B;とポッド **ab49**&#x200B;を選択します。[
 
 **データセンターの略語**
 
@@ -46,7 +50,7 @@ _データセンター_ フィールドでは、文字はデータセンター�
 
 ## サブスクリプションの作成 {#create-a-subscription}
 
-[&#x200B; データセンターとポッド/サーバー](#identify)を特定したら、次の手順に従ってサブスクリプションを作成します。
+[ データセンターとポッド/サーバー](#identify)を特定したら、次の手順に従ってサブスクリプションを作成します。
 
 1. [status.adobe.com](https://status.adobe.com/ja)で、**サブスクリプションの管理**&#x200B;をクリックします。
 
@@ -60,7 +64,7 @@ _データセンター_ フィールドでは、文字はデータセンター�
 
    ![](assets/subscribe-to-system-status-notifications-5.png)
 
-1. _Experience Cloud_&#x200B;の横にある![&#x200B; プラス記号アイコン &#x200B;](assets/icon-plus-sign.png) アイコンをクリックして、メニューを展開します。 _Adobe Marketo Engage_&#x200B;に対して同じ操作を行います。
+1. _Experience Cloud_&#x200B;の横にある![ プラス記号アイコン ](assets/icon-plus-sign.png) アイコンをクリックして、メニューを展開します。 _Adobe Marketo Engage_&#x200B;に対して同じ操作を行います。
 
    ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
@@ -101,7 +105,7 @@ _データセンター_ フィールドでは、文字はデータセンター�
 
    >[!NOTE]
    >
-   >これを見つける場所が見つからない場合は、[&#x200B; データセンターの特定](#identify)を参照してください。
+   >これを見つける場所が見つからない場合は、[ データセンターの特定](#identify)を参照してください。
 
 1. サブスクリプションの環境設定（**電子メール**&#x200B;または&#x200B;**Slack**）を選択し、**続行**&#x200B;をクリックします。
 

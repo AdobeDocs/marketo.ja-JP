@@ -4,23 +4,27 @@ description: Adobe Marketo Engage とは - Marketo ドキュメント - 製品�
 title: Adobe Marketo Engage とは
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/zc1UYz8yZ8vfMcIWzXfHcBv6qYrrjqO-ryTxqDDdtno
+TQID: 'https://experienceleague.adobe.com/zc1UYz8yZ8vfMcIWzXfHcBv6qYrrjqO-ryTxqDDdtno'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: '314'
 ht-degree: 95%
-
 ---
-
 # Adobe Marketo Engage とは {#what-is-adobe-marketo-engage}
 
-Adobe Marketo Engage は、マーケティングオートメーションソフトウェアです。 マーケティングオートメーションにより、マーケティングタスクとワークフローを合理化、自動化、測定できるので、運用効率を高め、収益をより迅速に伸ばすことができます。
+Adobe Marketo Engage は、マーケティングオートメーションソフトウェアです。 マーケティングオートメーションにより、マーケティングタスクとワークフローを合理化および自動化し、測定することで、業務効率を高め、収益をより迅速に伸ばすことができます。
 
 ## Marketo Engage でできること {#what-can-i-do-in-marketo-engage}
 
@@ -42,7 +46,7 @@ Marketo Engage には、マーケティング目標の達成に役立つ多く�
 * Web サイト統合
 * ワークフローエンジン
 * 個人スコアリング
-* セール担当者向け CRM 内ダッシュボード
+* セールス担当者向け CRM 内のダッシュボード
 * プログラム分析
 * ターゲットアカウント管理
 
@@ -50,17 +54,17 @@ Marketo Engage には、マーケティング目標の達成に役立つ多く�
 
 ## すべて学ぶ必要があるのでしょうか？ {#do-i-need-to-learn-all-of-that}
 
-その必要はありません。 Marketo Engageは、使い始めから使い始めることも簡単で、みなさんと一緒に進化していきます。 すべてを学びたければ学び、それでなければ必要な部分を使うだけです。
+その必要はありません。 Marketo Engageは、使い始めから使い始めることも簡単で、みなさんと一緒に進化していきます。 すべてを学ぶこともできますし、必要な部分だけを使うこともできます。
 
 ## 何か設定が必要ですか？ {#do-i-need-to-do-any-setup}
 
 いくつかの手順を実行する必要がります（または強く推奨します）。[手順はこちらで確認できます](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}。
 
-## 学習を完了するまで設定を待たなければなりませんか？ {#do-i-have-to-wait-until-setup-is-finished-to-learn}
+## 学習を始める前に、設定が完了するまで待つ必要がありますか？ {#do-i-have-to-wait-until-setup-is-finished-to-learn}
 
 いいえ。 簡単なチュートリアルがたくさんあります。 [こちらから開始できます](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}。 所要時間は 1 時間ほどです。 いつでも開始できます。
 
-## 1 週間に送信できるメールの合計数など、制限をカバーするもののリストはありますか？ {#list-of-limits}
+## 1 週間に送信できるメールの合計数など、制限をまとめたリストはありますか？ {#list-of-limits}
 
 あります。 静的制限（およびその他のパラメーター）については、[この記事](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}を参照してください。
 

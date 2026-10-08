@@ -4,16 +4,18 @@ description: Sales Connectでメール IDを追加する方法を説明します
 title: ID を追加
 exl-id: 6656b852-1c72-4a0a-b641-7ef1925f22a7
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/uLOd4gisccc14zCnYMSHdtUTM4TLzRvkqNgtQPOHjBM
+TQID: 'https://experienceleague.adobe.com/uLOd4gisccc14zCnYMSHdtUTM4TLzRvkqNgtQPOHjBM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 185
+source-wordcount: '185'
 ht-degree: 88%
-
 ---
-
 # ID を追加 {#add-identity}
 
 送信元のメールアドレスが複数ある場合は、ID を追加します。
@@ -32,7 +34,7 @@ ht-degree: 88%
 
 1. 受信した確認用メールのリンクをクリックします。
 
-   Sales Connect でメールを送信する際に、ID を切り替えることができます。
+   セールスコネクトでメールを送信する際に、ID を切替スイッチで切り替えることができます。
 
 >[!NOTE]
 >

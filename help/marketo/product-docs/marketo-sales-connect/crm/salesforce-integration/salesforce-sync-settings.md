@@ -4,23 +4,26 @@ description: Sales ConnectのSalesforce同期設定について説明します�
 title: Salesforce 同期設定
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/6K6-oLauXJW9Ow1cnQfVBGJ-iVEvo88g-mknLd5PJyc
+TQID: 'https://experienceleague.adobe.com/6K6-oLauXJW9Ow1cnQfVBGJ-iVEvo88g-mknLd5PJyc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 444
+source-wordcount: '444'
 ht-degree: 87%
-
 ---
-
 # Salesforce 同期設定 {#salesforce-sync-settings}
 
-## メールアクティビティのログを API 経由で Salesforce に記録 {#logging-email-activity-to-salesforce-via-api}
+## API 経由でのメールアクティビティの Salesforce への記録 {#logging-email-activity-to-salesforce-via-api}
 
 この機能を使用するには、Salesforce の Enterprise／Unlimited エディション、または web サービス API を通じて統合を購入済みの場合は Professional エディションを使用する必要があります。
 
@@ -48,7 +51,7 @@ ht-degree: 87%
 
    ![](assets/five.png)
 
-## メールアクティビティのログを Salesforce にメール送信（BCC）して Salesforce に記録 {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
+## メールアクティビティのログを Email to Salesforce（BCC）経由で Salesforce に記録 {#logging-email-activity-to-salesforce-via-email-to-salesforce-bcc}
 
 「Salesforce にメールを送信（BCC）」を有効にすると、セールスメールの BCC が送信され、メールは商談、リード、取引先責任者に関するアクティビティとして記録されます。
 
@@ -77,12 +80,12 @@ ht-degree: 87%
 何らかの理由で [!DNL Salesforce] へのメールアドレスが取り込まれない場合は、以下の手順に従って、[!DNL Salesforce] アカウントで BCC 機能を有効にします。
 
 1. [!DNL Salesforce] インスタンスにログインします。
-1. 右上隅にあるユーザー名を探し、ドロップダウンバーを選択します。
+1. 右上隅にあるユーザー名を確認し、ドロップダウンバーを選択します。
 1. 「**[!UICONTROL マイ設定]**」を選択します。
 1. 「**[!UICONTROL メール]**」を選択します。
 1. 「**[!UICONTROL メールを Salesforce に送信]**」を選択します。
-1. このページに、「Salesforce アドレス宛てにメールを送信」というラベルの付いたフィールドが表示されます。 横に何も入力されていない場合は、「アクセス可能なメールアドレス」までスクロールします。
-1. BCC を送信するメールアドレスを入力します。
+1. このページに、「Email to Salesforce アドレス」というラベルの付いたフィールドが表示されます。 横に何も入力されていない場合は、「許可済みメールアドレス」までスクロールします。
+1. BCC に追加するメールアドレスを入力します。
 1. 「**[!UICONTROL 変更を保存]**」をクリックします。
 
 **マイ設定で [!DNL Salesforce] へのメール送信が見つからない**

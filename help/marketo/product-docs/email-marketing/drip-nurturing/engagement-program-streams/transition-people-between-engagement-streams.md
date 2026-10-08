@@ -4,21 +4,26 @@ description: エンゲージメントストリーム間でユーザーを移動�
 title: エンゲージメントストリーム間でリードを遷移させる
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/viGLYAkvGqF-9K5bhAHWDSOMYaiBuKRe8F2QginuYps
+TQID: 'https://experienceleague.adobe.com/viGLYAkvGqF-9K5bhAHWDSOMYaiBuKRe8F2QginuYps'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 243
+source-wordcount: '243'
 ht-degree: 62%
-
 ---
+# エンゲージメントストリーム間での人物のトランジション {#transition-people-between-engagement-streams}
 
-# エンゲージメントストリーム間でリードを遷移させる {#transition-people-between-engagement-streams}
-
-エンゲージメントプログラムでは、複数のストリームを使用できます。 [&#x200B; ストリームを追加](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)する場合は、ユーザーがストリームから別のストリームに移動する方法を定義します。 この定義を&#x200B;**遷移ルール**&#x200B;と呼びます。
+エンゲージメントプログラムでは、複数のストリームを使用できます。 [ ストリームを追加](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)する場合は、ユーザーがストリームから別のストリームに移動する方法を定義します。 この定義を&#x200B;**遷移ルール**&#x200B;と呼びます。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -34,9 +39,9 @@ ht-degree: 62%
 
    >[!NOTE]
    >
-   >遷移ルールに従って、リードがこのストリームに移ります。必ず、遷移先のストリームでルールを定義します。
+   >トランジションルールによって、指定したストリームに取り込まれます。必ず、取り込み先のストリームでルールを定義します。
 
-   遷移ルールウィンドウが開いたら、選択したトリガーを探してドラッグします。 この例では、人物は商談に追加されると[!UICONTROL &#x200B; ミッドステージ &#x200B;]に移動されます。
+   トランジションルールウィンドウが開いたら、選択したトリガーを探してドラッグします。 この例では、人物は商談に追加されると[!UICONTROL  ミッドステージ ]に移動されます。
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
@@ -46,7 +51,7 @@ ht-degree: 62%
 
    >[!TIP]
    >
-   >1 つの遷移ルールに複数のトリガーやフィルターを用いることはできますが、その遷移ルールではすべてのフィルターを使用します（すべてのフィルターを使用するのが、唯一のオプションです）。 トランジションルールでORを使用する必要がある場合は、代わりに外部スマートキャンペーンを設定することをお勧めします。
+   >1 つのトランジションルールに複数のトリガーやフィルターを用いることはできますが、そのトランジションルールではすべてのフィルターが使用されます（すべてのフィルターを使用する以外のオプションはありません）。 トランジションルールでORを使用する必要がある場合は、代わりに外部スマートキャンペーンを設定することをお勧めします。
 
 1. 「**[!UICONTROL 閉じる]**」をクリックします。
 

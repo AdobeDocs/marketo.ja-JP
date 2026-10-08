@@ -4,18 +4,21 @@ description: トップビュー、コンバージョン率、トレンドコン�
 title: 予測コンテンツ分析の概要
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E
+TQID: 'https://experienceleague.adobe.com/dsTO6zxeynglOg3JAs-2k0Balx-bRNc3ikPpxhR5x4E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 380
+source-wordcount: '380'
 ht-degree: 92%
-
 ---
-
 # 予測コンテンツ分析の概要 {#predictive-content-analytics-overview}
 
 コンテンツ分析を使用して、既存のコンテンツに関するさらなるインサイトを得、（AI および予測アルゴリズムに基づく）どのコンテンツがオーディエンスに役立つかを学び、マーケティング活動からの ROI を向上させます。
@@ -34,7 +37,7 @@ ht-degree: 92%
 
 ![](assets/new-2.png)
 
-追加の詳細については、任意のセクションヘッダーの疑問符にマウスポインタを合わせます。
+追加の詳細については、任意のセクションヘッダーの「?」アイコンにポインターを合わせます。
 
 ![](assets/new-3.png)
 
@@ -80,7 +83,7 @@ ht-degree: 92%
 
 ![](assets/image2017-10-3-10-3a18-3a35.png)
 
-「推奨コンテンツ」の画像にマウスポインタを合わせると、使用可能なオプションが表示されます。
+「推奨コンテンツ」の画像にポインタを合わせると、使用可能なオプションが表示されます。
 
 ![](assets/image2017-10-3-10-3a21-3a37.png)
 
@@ -92,10 +95,10 @@ ht-degree: 92%
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 
-目的のコンテンツを検索し、それをクリックして、新規訪問者と再訪問者、既知の訪問と匿名訪問者、コンテンツ閲覧時の訪問者の訪問元である上位の場所、および訪問者の推測される上位の業界のような追加の詳細を表示します。
+目的のコンテンツを検索してクリックすると、閲覧している訪問者、新規か再訪問か、既知か匿名か、コンテンツ閲覧時の訪問者の上位の訪問元の場所、および推測される上位の業界などの追加の詳細が表示されます。
 
 ![](assets/image2017-10-3-10-3a23-3a40.png)
 
 >[!NOTE]
 >
->同様のコンテンツは選択したコンテンツに基づき、アソシエーションルールアルゴリズムで計算されます。 結果では、選択した部分と過去の訪問者の行動に応じて、訪問者が最もクリックする可能性が高いコンテンツを表します。 フィルターや日付範囲は考慮しません。
+>同様のコンテンツは選択したコンテンツに基づき、アソシエーションルールのアルゴリズムで計算されます。 結果では、選択したコンテンツと過去の訪問者行動に応じて、訪問者が最もクリックする可能性が高いコンテンツが示されます。 フィルターや日付範囲は考慮しません。

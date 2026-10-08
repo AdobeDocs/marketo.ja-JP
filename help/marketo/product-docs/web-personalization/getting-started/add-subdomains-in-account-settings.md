@@ -4,21 +4,25 @@ description: アカウント設定のサブドメインを追加を使用して�
 title: アカウント設定にサブドメインを追加する
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/QP1rCY6aYKb-CH7cg-SEY39SwPyeDptXoGMx6Y-IvSY
+TQID: 'https://experienceleague.adobe.com/QP1rCY6aYKb-CH7cg-SEY39SwPyeDptXoGMx6Y-IvSY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 168
+source-wordcount: '168'
 ht-degree: 75%
-
 ---
-
 # [!UICONTROL アカウント設定]にサブドメインを追加 {#add-subdomains-in-account-settings}
 
 [!UICONTROL アカウント設定]でサブドメインをプライマリドメインに追加する方法について説明します。 これにより、プライマリドメインの特定の RTP JavaScript に関連するサブドメインを管理できます。 追加したサブドメインには [!DNL Javascript] タグをデプロイすることをお勧めします。
@@ -27,7 +31,7 @@ ht-degree: 75%
 
    ![](assets/image2014-12-1-23-3-12.png)
 
-1. ドメインの設定ページに、アカウントに関連付けられているすべてのプライマリドメインの一覧が表示されます。 各セクションには、最初にプライマリドメイン（以下でハイライト表示）が表示され、その後に任意のサブドメインが表示されます。 「**[!UICONTROL サブドメインを追加]**」をクリックします。
+1. ドメインの設定ページに、アカウントに関連付けられているすべてのプライマリドメインの一覧が表示されます。 各セクションには、最初にプライマリドメイン（以下でハイライト表示）がリストされ、その後にサブドメインが続きます。 「**[!UICONTROL サブドメインを追加]**」をクリックします。
 
    ![](assets/highlightprimary2.png)
 
@@ -39,7 +43,7 @@ ht-degree: 75%
 
    ![](assets/newsubdomain.png)
 
-1. これで、新しく追加したサブドメインが表示されます。
+1. これで、新しく追加したサブドメインがリストに表示されます。
 
    ![](assets/finalnew.png)
 

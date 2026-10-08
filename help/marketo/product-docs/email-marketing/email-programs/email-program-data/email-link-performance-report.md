@@ -4,24 +4,31 @@ description: メールリンクパフォーマンスレポートの作成およ�
 title: メールリンク効果レポート
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/LAf6S5Nsh-0lT5heZk9IIaaLbPgtz8oGhWuJtm38gY8
+TQID: 'https://experienceleague.adobe.com/LAf6S5Nsh-0lT5heZk9IIaaLbPgtz8oGhWuJtm38gY8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 255
+source-wordcount: '255'
 ht-degree: 90%
-
 ---
-
 # メールリンク効果レポート {#email-link-performance-report}
 
-メールリンク効果レポートを作成して、メール内のリンクの効果を確認します。
+メールリンクパフォーマンスレポートを作成して、メール内のリンクのパフォーマンスを確認します。
 
 1. [プログラムでレポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、**[!UICONTROL メールリンク効果]**&#x200B;レポートタイプを選択します。
 
@@ -35,7 +42,7 @@ ht-degree: 90%
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. レポート期間を設定します。 「**[!UICONTROL 保存]**」をクリックします。
+1. レポートの適切な時間枠を設定します。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
@@ -43,7 +50,7 @@ ht-degree: 90%
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
-1. これで完了です。 これで、メールリンク効果レポートが作成されました。
+1. 完成です。 これで、メールリンクパフォーマンスレポートが作成されました。
 
    ![](assets/image2015-5-20-11-3a23-3a33.png)
 

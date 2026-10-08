@@ -1,26 +1,28 @@
 ---
 unique-page-id: 14352537
 description: Sales Connectでメールの添付ファイルを追跡する方法について説明します。 添付ファイルを追跡可能にし、受信者が開いたりダウンロードしたりするタイミングを確認できます。
-title: メールの添付ファイルのトラック方法
+title: メールの添付ファイルのトラッキング方法​
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-g1avRZcATkOU-nT6GhdcqTPi4mA4N58D2-1d6qKYbo
+TQID: 'https://experienceleague.adobe.com/-g1avRZcATkOU-nT6GhdcqTPi4mA4N58D2-1d6qKYbo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: '170'
 ht-degree: 88%
-
 ---
-
-# メールの添付ファイルのトラック方法 {#how-to-track-your-email-attachments}
+# メールの添付ファイルのトラッキング方法&#x200B; {#how-to-track-your-email-attachments}
 
 [!DNL Sales Connect] では添付ファイル（.doc、.ppt、.pdf）のトラッキングが提供されるので、開封／ダウンロードした日時や、受信者がどのページを閲覧しているかを確認できます。 [Web アプリケーション](https://toutapp.com/login)と Gmail（または Google Apps）の両方で、トラッキング可能な添付ファイル機能を使用できます。
 
 >[!NOTE]
 >
->添付ファイルのトラッキングは、アドビのチームプラン（g3startup プランから開始）でのみ使用できます。
+>添付ファイルのトラッキングは、チームプラン（g3startup プラン以上）でのみ使用できます。
 
 ## 初めてのトラッキング可能な添付ファイルの送信方法 {#how-to-send-your-first-trackable-attachment}
 

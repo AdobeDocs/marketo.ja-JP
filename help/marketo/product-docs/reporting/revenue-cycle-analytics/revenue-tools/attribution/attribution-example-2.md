@@ -4,23 +4,29 @@ description: Marketo Engageのアトリビューション例2の詳細（アト�
 title: アトリビューションの例 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 88%
-
 ---
-
 # アトリビューションの例 2 {#attribution-example}
 
 次のシナリオを読み、グリッドに表示する数値を決定してみてください。
 
-* 4 月 11 日｜Bill が（展示会）によって獲得される
-* 4 月 15 日｜Joan が（ウェビナー）によって獲得される
-* 4 月 22 日｜6,000 ドルで（商談 1）が作成される
-* 4 月 24 日｜10,000 ドルで（商談 2）が作成される
+* 4月11日｜Bill を（展示会）で獲得
+* 4月15日｜Joan を（ウェビナー）で獲得
+* 4月22日｜6,000 ドルの（商談 1）を作成
+* 4月24日｜10,000 ドルの（商談 2）を作成
 * 4 月 25 日｜Bill と Joan が&#x200B;**両方**&#x200B;の商談の役割に関連付けられる
-* 4 月 29 日｜（商談 1）が成立してクローズされる
+* 4月29日｜（商談 1）がクローズ（成約）
 
 | プログラム名 | （展示会） | （ウェビナー） |
 |---|---|---|
@@ -37,7 +43,7 @@ ht-degree: 88%
 >
 >Bill と Joan が 2 人とも&#x200B;**両方**&#x200B;の商談の役割に関連付けられていたので、システムは（ルールに従って）クレジットを均等に分割します。
 >
->各プログラム（8,000 ドル）に対して作成されたパイプラインは、クレジットとして与えられる合計（16,000 ドル）の半分です。
+>各プログラムのパイプライン（8,000 ドル）は、クレジットとして付与できる合計額（16,000 ドル）の半分です。
 
 >[!NOTE]
 >

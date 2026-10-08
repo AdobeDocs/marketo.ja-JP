@@ -4,16 +4,21 @@ title: 通知
 hide: true
 feature: Dynamic Chat
 exl-id: b06da576-39a4-41db-8e29-302083baca36
-TQID: https://experienceleague.adobe.com/N8kkgxaaQmIBQO4PR5tyU7WnjCM9vSI2WfHgkiB9pc0
+TQID: 'https://experienceleague.adobe.com/N8kkgxaaQmIBQO4PR5tyU7WnjCM9vSI2WfHgkiB9pc0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: '218'
 ht-degree: 74%
-
 ---
-
 # 通知 {#notifications}
 
 ライブチャットのブラウザー通知を受信するには、すべてのライブチャットエージェントが、プロンプトが表示された際に Dynamic Chat のブラウザー通知を有効にする必要があります。
@@ -48,4 +53,4 @@ Firefoxは、様々なブラウザーバージョンとオペレーティング�
 
 [お知らせ：Windows](https://support.microsoft.com/ja-jp/windows/change-notification-settings-in-windows-8942c744-6198-fe56-4639-34320cf9444e){target="_blank"}
 
-MSI アクション通知が発生したことがありますか？
+MSI アクション通知って本当に発生したことがあるのですか？

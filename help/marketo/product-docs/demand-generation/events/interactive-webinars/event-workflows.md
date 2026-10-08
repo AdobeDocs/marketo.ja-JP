@@ -3,16 +3,18 @@ description: Marketoのインタラクティブウェビナーのイベントワ
 title: イベントワークフロー
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/ce1kJ-xTKr8ez-21yqdgWIyq-SLCfMuGBuj7nUiFYBA
+TQID: 'https://experienceleague.adobe.com/ce1kJ-xTKr8ez-21yqdgWIyq-SLCfMuGBuj7nUiFYBA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 476
+source-wordcount: '476'
 ht-degree: 78%
-
 ---
-
 # イベントワークフロー {#event-workflows}
 
 ウェビナーが完了したら、「ダッシュボード」タブに移動して、集計されたパフォーマンスを確認します。
@@ -41,14 +43,14 @@ ht-degree: 78%
 
 ## ウェビナー録画 {#webinar-recording}
 
-「概要」タブに移動して、録画されたウェビナーを表示したり、リンクを取得して共有したり、コピーをダウンロードできます。
+「概要」タブに移動して、録画されたウェビナーを表示したり、共有用のリンクを取得したり、コピーをダウンロードしたりできます。
 
 ![](assets/event-workflows-2.png)
 
 >[!NOTE]
 >
 >* インタラクティブウェビナーは自動録画されません。 ウェビナーが開始したら、ウェビナー名の横にあるドロップダウンをクリックし、「**セッションを録画**」を選択します。
->* セッションが録画されている場合、ホストは手動で録画を終了するか、「すべてのセッションを終了」を選択して録画を停止する必要があります。 それ以外の場合は、最後の出席者が部屋を出てから 10 分以内に録画が自動的に停止します。
+>* セッションが録画されている場合、ホストは手動で録画を終了するか、「全員のセッションを終了」を選択して録画を停止する必要があります。 それ以外の場合は、最後の出席者が部屋を出てから 10 分以内に録画が自動的に停止します。
 >* MP4 形式で録画をダウンロードできます。
 >* 録画を共有する際は、リンクを持っている人なら誰でも視聴できるため、意図したオーディエンスと共有されていることを確認してください。
 

@@ -4,16 +4,18 @@ description: ランディングページのリダイレクト - Marketo ドキ�
 title: ランディングページのリダイレクト
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/JV2hJuE-7GE8mup6R3c8xVo6p9QkDqKkiWkWsLSJTOE
+TQID: 'https://experienceleague.adobe.com/JV2hJuE-7GE8mup6R3c8xVo6p9QkDqKkiWkWsLSJTOE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 144
+source-wordcount: '144'
 ht-degree: 96%
-
 ---
-
 # ランディングページのリダイレクト {#redirect-a-landing-page}
 
 ## ミッション：ランディングページを別の web ページにリダイレクトする {#mission-redirect-a-landing-page-to-a-different-web-page}
@@ -37,13 +39,13 @@ ht-degree: 96%
 
    ![](assets/redirect-a-landing-page-2.png)
 
-1. 「**[!UICONTROL ルール]**」タブをクリックしてから、**[!UICONTROL 新規]**／**[!UICONTROL 新規リダイレクトルール]**&#x200B;をクリックします。
+1. 「**[!UICONTROL ルール]**」タブをクリックし、「**[!UICONTROL 新規]**」および「**[!UICONTROL 新規リダイレクトルール]**」をクリックします。
 
    ![](assets/redirect-a-landing-page-3.png)
 
 ## 手順 2：リダイレクトルールを定義する {#step-define-the-redirect-rule}
 
-1. 最初の&#x200B;**[!UICONTROL オリジナル URL]** ドロップダウンをクリックして、自分の Marketo CNAME を選択します。
+1. 最初の「**[!UICONTROL オリジナル URL]**」ドロップダウンリストから、「Marketo CNAME」 を選択します。
 
    ![](assets/redirect-a-landing-page-4.png)
 

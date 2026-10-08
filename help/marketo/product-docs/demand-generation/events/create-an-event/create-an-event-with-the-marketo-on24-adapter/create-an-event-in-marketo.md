@@ -4,23 +4,26 @@ description: ON24統合用にMarketoでイベントを作成する方法を説�
 title: Marketo でのイベントの作成
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-TQID: https://experienceleague.adobe.com/oxdCpxlU0lzbWlmAysXgCZs8bA-p8ufu-gAmWs9uHC4
+TQID: 'https://experienceleague.adobe.com/oxdCpxlU0lzbWlmAysXgCZs8bA-p8ufu-gAmWs9uHC4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '151'
 ht-degree: 79%
-
 ---
-
 # Marketo でのイベントの作成 {#create-an-event-in-marketo}
 
-Marketo イベントは、プログラムを通じてユーザの進行状況をトラッキングします。 ON24 アダプターを使用して、登録情報をプッシュし、出席情報をプルします。 イベントは、ユーザが進行するたびに、そのユーザのステータスをキャプチャします。
+Marketo イベントは、プログラムを通じてユーザの進行状況をトラッキングします。 ON24 アダプターを使用して、登録情報を送信し、出席情報を取り込みます。 イベントは、ユーザが進行するたびに、そのユーザのステータスをキャプチャします。
 
 次に、データの交換方法を示します。
 

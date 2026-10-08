@@ -3,19 +3,24 @@ description: MarketoでSalesforceの同期エラーを表示およびフィル�
 title: Salesforce 同期エラー
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/vEPgjXh8QKyzC1AiAhRqf4tF-MZpu9GETxrRAJHYVIo
+TQID: 'https://experienceleague.adobe.com/vEPgjXh8QKyzC1AiAhRqf4tF-MZpu9GETxrRAJHYVIo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 197
+source-wordcount: '197'
 ht-degree: 86%
-
 ---
-
 # [!DNL Salesforce] 同期エラー {#salesforce-sync-errors}
 
-同期処理中に発生したエラーの概要を表示します。 これには、互換性のないデータの同期に対する失敗によるエラーも含まれます。
+同期処理中に発生したエラーの概要を表示します。 これには、互換性のないデータを同期できなかったことによって発生したエラーも含まれます。
 
 >[!NOTE]
 >
@@ -23,7 +28,7 @@ ht-degree: 86%
 
 ## 同期エラーの表示 {#view-sync-errors}
 
-1. 「**[!UICONTROL 管理者]**」をクリックします。
+1. 「**[!UICONTROL 管理]**」をクリックします。
 
    ![](assets/salesforce-sync-errors-1.png)
 

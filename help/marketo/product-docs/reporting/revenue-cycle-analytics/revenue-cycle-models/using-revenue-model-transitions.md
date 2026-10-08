@@ -4,13 +4,19 @@ description: Marketo Engageで収益モデルのトランジションを使用�
 title: 収益モデルのトランジションを使用する
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 73%
-
 ---
-
 # 収益モデルのトランジションを使用する {#using-revenue-model-transitions}
 
 >[!PREREQUISITES]
@@ -37,7 +43,7 @@ ht-degree: 73%
 
    >[!TIP]
    >
-   >収益モデラがレポート用に設定されているので、トリガーを常に含めることをお勧めします。 そうすれば、モデルとステージフローの真の速度がレポートに反映されます。 フィルターをトリガーと共に追加して、制約を追加できます。
+   >収益モデラがレポート用に設定されているので、トリガーを常に含めることをお勧めします。 そうすれば、モデルとステージフローの真の速度がレポートに反映されます。 フィルターをトリガーと共に追加して、追加の制約を設定できます。
 
    ![](assets/four-2.png)
 
@@ -49,7 +55,7 @@ ht-degree: 73%
 
    ![](assets/six.png)
 
-1. 画面の下部に、トランジションルールが表示されます。
+1. 画面の下部に、トランジションのルールが表示されます。
 
    ![](assets/seven.png)
 

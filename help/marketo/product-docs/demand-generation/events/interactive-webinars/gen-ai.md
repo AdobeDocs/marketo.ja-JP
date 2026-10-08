@@ -3,16 +3,18 @@ description: インタラクティブウェビナーの生成AI機能につい�
 title: 生成AIの機能
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-TQID: https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE
+TQID: 'https://experienceleague.adobe.com/I-PRBKSQ-sFs7MFX1uQy1-WQHV-t86tZv0cWFQzLXZE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 694
+source-wordcount: '694'
 ht-degree: 0%
-
 ---
-
 # 生成AIの機能 {#gen-ai-features}
 
 録画したウェビナーの章や要約を自動的に生成し、オーディエンスがよりアクセスしやすく、簡単に操作できるようにします。
@@ -65,15 +67,15 @@ Adobe GenAIの利用条件に同意したら、次のステップは個々のユ
 
    * 2つの連続したチャプターを選択し、**[!UICONTROL 結合]**&#x200B;をクリックして結合します。
 
-      * AIは、選択した2つのチャプターで構成される複合チャプターを生成します
+     * AIは、選択した2つのチャプターで構成される複合チャプターを生成します
 
-      * 複数の章を結合するには、一度に2つの章を結合する必要があります
+     * 複数の章を結合するには、一度に2つの章を結合する必要があります
 
      ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
-   >* 必要に応じて、生成されたチャプター/概要の品質を&#x200B;_サムズアップ_ ![&#x200B; サムズアップアイコン &#x200B;](assets/icon-thumbs-up.png)または&#x200B;_サムズダウン_ ![&#x200B; サムズダウンアイコン &#x200B;](assets/icon-thumbs-down.png) アイコンで評価できます。 また、フラグアイコン ![&#x200B; フラグアイコン &#x200B;](assets/icon-flag.png)をクリックすると、問題のあるコンテンツにフラグを付けることもできます。
+   >* 必要に応じて、生成されたチャプター/概要の品質を&#x200B;_サムズアップ_ ![ サムズアップアイコン ](assets/icon-thumbs-up.png)または&#x200B;_サムズダウン_ ![ サムズダウンアイコン ](assets/icon-thumbs-down.png) アイコンで評価できます。 また、フラグアイコン ![ フラグアイコン ](assets/icon-flag.png)をクリックすると、問題のあるコンテンツにフラグを付けることもできます。
    >
    >* 最初の要約に満足しない場合は、「**[!UICONTROL 要約を再生成]**」ボタンをクリックすると、別のバージョンが生成されます。
 

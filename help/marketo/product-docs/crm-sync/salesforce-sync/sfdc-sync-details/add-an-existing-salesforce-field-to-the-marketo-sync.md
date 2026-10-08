@@ -1,21 +1,27 @@
 ---
 unique-page-id: 4719308
 description: 既存のSalesforce フィールドをMarketoに追加する方法について説明します。 Salesforceの同期ユーザーが次のサイクルで同期するように、このフィールドを表示します。
-title: 既存の Salesforce フィールドの Marketo 同期への追加
+title: 既存の Salesforce フィールドの Marketo 同期への追加​
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/Vb-1DhNwUPQSPYuCkVzzSDDqWd4tvO-XoPhXn58hj6E
+TQID: 'https://experienceleague.adobe.com/Vb-1DhNwUPQSPYuCkVzzSDDqWd4tvO-XoPhXn58hj6E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: '173'
 ht-degree: 83%
-
 ---
-
 # 既存の [!DNL Salesforce] フィールドの Marketo 同期への追加 {#add-an-existing-salesforce-field-to-the-marketo-sync}
 
 >[!NOTE]
@@ -32,7 +38,7 @@ ht-degree: 83%
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
-1. 同期ユーザのプロファイルをクリックします。
+1. 同期ユーザーのプロファイルをクリックします。
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
@@ -48,7 +54,7 @@ ht-degree: 83%
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 
-   次の同期サイクルで、Marketo はフィールドを表示し、マジックを開きます。
+   次の同期サイクルで、Marketo がそのフィールドを認識し、同期処理が開始されます。
 
    >[!NOTE]
    >

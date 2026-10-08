@@ -1,27 +1,30 @@
 ---
 unique-page-id: 14352430
 description: Salesforce以外のCRMにSales Connect メールを記録する方法を説明します。 CRMにアクティビティを記録するためのオプションを取得します。
-title: 他の CRM へのメールを記録する方法
+title: 他の CRM へのメールのログ方法
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/n5lXuin4JrmOG0WHKpVd9MkumYCvjrEpzNun5RaZERw
+TQID: 'https://experienceleague.adobe.com/n5lXuin4JrmOG0WHKpVd9MkumYCvjrEpzNun5RaZERw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 167
+source-wordcount: '169'
 ht-degree: 88%
-
 ---
+# 他の CRM へのメールのログ方法 {#how-to-log-emails-to-other-crms}
 
-# 他の CRM へのメールを記録する方法 {#how-to-log-emails-to-other-crms}
+CRM が BCC アドレスを提供する場合は、CRM のその他セクションを使用してメールのログを設定できます。 設定が完了すると、送信したメールが CRM に自動的にログが記録されます。
 
-CRM が BCC アドレスを提供する場合は、CRM のその他セクションを使用してメールのログを設定できます。 設定が完了すると、送信したメールが CRM に自動的に記録されます。
-
-## 統合対象 CRM {#crms-we-integrate-with}
+## 統合対象の CRM {#crms-we-integrate-with}
 
 **ほとんどすべての CRM**：
 
@@ -39,4 +42,4 @@ CRM が BCC アドレスを提供する場合は、CRM のその他セクショ�
 1. 「**[!UICONTROL 設定]**」をクリックし、「BCC にメールを送信」の下に BCC アドレスを貼り付けます。
 1. 「**[!UICONTROL 保存]**」をクリックすると、BCC アドレスが [!DNL Sales Connect] に保存されます。
 
-   メールが BCC 経由で CRM に記録されるようになります。
+   メールが BCC 経由で CRM のログに記録されるようになります。

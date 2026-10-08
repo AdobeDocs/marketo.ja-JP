@@ -3,16 +3,18 @@ description: Sales Insight Actionsの「チーム」タブとチーム全体の�
 title: 「チーム」タブについて
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Py7-IQydZce09tW7d6OmgUZZYil6rbVezomjn47mI5w
+TQID: 'https://experienceleague.adobe.com/Py7-IQydZce09tW7d6OmgUZZYil6rbVezomjn47mI5w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 155
+source-wordcount: '155'
 ht-degree: 84%
-
 ---
-
 # 「[!UICONTROL チーム]」タブについて {#understanding-the-team-tab}
 
 「[!UICONTROL チーム]」タブで、3 つの重要な指標を説明します。
@@ -27,6 +29,6 @@ ht-degree: 84%
 
 ## 締結された契約数 {#deals-closed}
 
-これは、今月中に締結された売上と数量に基づいています。
+これは、セールスゴングと、当月中にクローズされた案件数に基づいています。
 
-ボーナスとして、チームの閲覧率エンゲージメントの合計を算出します。 このタブでは、セールス担当のランキング表も参照できます。 チーム内の各ユーザのメール統計がここに表示されます。
+ボーナスとして、チームの閲覧率エンゲージメントの合計を算出します。 このタブでは、セールス担当のランキング表も参照できます。 チーム内の各人物のメール統計がここに表示されます。

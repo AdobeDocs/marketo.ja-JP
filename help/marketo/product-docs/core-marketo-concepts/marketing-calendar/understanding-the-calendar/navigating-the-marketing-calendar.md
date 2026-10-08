@@ -4,25 +4,30 @@ description: 3週間および月モードを含むマーケティングカレン
 title: マーケティングカレンダーの操作
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/4FJUMYHjMDUvig-R-HBt7x4wvizISoq2eZJ1u45-oXU
+TQID: 'https://experienceleague.adobe.com/4FJUMYHjMDUvig-R-HBt7x4wvizISoq2eZJ1u45-oXU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Campaigns
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 179
+source-wordcount: '179'
 ht-degree: 61%
-
 ---
-
 # マーケティングカレンダーの操作 {#navigating-the-marketing-calendar}
 
 マーケティングカレンダーのナビゲーション方法を説明します。
 
 >[!PREREQUISITES]
 >
->[&#x200B; マーケティングカレンダーライセンス &#x200B;](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}を持っていることを確認してください。そうしないと、マーケティングカレンダータイルがMy Marketoに表示されません。
+>[ マーケティングカレンダーライセンス ](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}を持っていることを確認してください。そうしないと、マーケティングカレンダータイルがMy Marketoに表示されません。
 
 >[!NOTE]
 >
@@ -46,7 +51,7 @@ ht-degree: 61%
 
 アジェンダビューには、すべてのエントリがリストとして表示されます。
 
-1. 「**&#x200B;**&#x200B;フィルター」ドロップダウンをクリックします。
+1. 「****&#x200B;フィルター」ドロップダウンをクリックします。
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 

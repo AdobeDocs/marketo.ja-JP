@@ -4,18 +4,20 @@ description: Sales Connectのメール列とメールページレイアウトに
 title: メール列とメールページのレイアウト
 exl-id: 689220e1-5ace-4225-98ff-21afd97f071b
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/Bnlf8w9L3M-wZJQZUJoWNLgSQvLOmMmw4oKuV1ToJnk
+TQID: 'https://experienceleague.adobe.com/Bnlf8w9L3M-wZJQZUJoWNLgSQvLOmMmw4oKuV1ToJnk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 533
+source-wordcount: '533'
 ht-degree: 96%
-
 ---
-
 # メール列とメールページのレイアウト {#email-columns-and-email-page-layout}
 
 [!UICONTROL コマンドセンター]のメールセクションに表示される、利用可能な列を設定することができます。 設定は、それぞれのメールサブフォルダー（「[!UICONTROL 配信済み]」、「[!UICONTROL 失敗]」、「[!UICONTROL スケジュール済み]」など）に対して保存されます。
@@ -101,8 +103,8 @@ ht-degree: 96%
    <td>メールがグループメールの一部として送信された場合は、チェックマークを表示します。</td>
   </tr>
   <tr>
-   <td>[!UICONTROL タスク期限]</td>
-   <td>メールに関連するタスクの期限を表示します。 タスクは、メールリストのクイックアクションボタンから作成することで、メールに関連付けることができます。</td>
+   <td>[!UICONTROL タスクの期限日付]</td>
+   <td>メールに関連するタスクの期限日付を表示します。 タスクは、メールリストのクイックアクションボタンから作成することで、メールに関連付けることができます。</td>
   </tr>
   <tr>
    <td>[!UICONTROL メールアクション]</td>
@@ -131,7 +133,7 @@ ht-degree: 96%
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 
-1. 「設定」ボタンをクリックします。 オプションには、行数の選択、表示フィールドの選択、グループメールをグリッド内の 1 つの項目にまとめるかどうか（またはメールグリッドの一部であるすべてのメールを 1 つの項目として表示する）の選択が含まれます。
+1. 「設定」ボタンをクリックします。 オプションには、行数の選択、表示するフィールドの選択、グループメールをグリッド内の 1 つの項目にまとめて表示するか、またはメールグリッドの一部であるすべてのメールを個別の項目として表示するかの選択が含まれます。
 
    ![](assets/email-columns-and-email-grid-layout-3.png)
 

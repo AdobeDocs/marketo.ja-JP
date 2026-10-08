@@ -3,25 +3,32 @@ description: AIを活用してオーディエンスをターゲティングす�
 title: 予測フィルター
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-TQID: https://experienceleague.adobe.com/-P6jjTHT-YDpoEE6yg23rd48s3YYN4kzABbJwZp4rig
+TQID: 'https://experienceleague.adobe.com/-P6jjTHT-YDpoEE6yg23rd48s3YYN4kzABbJwZp4rig'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 60e4be0b-b3ea-5f4e-8b8c-da0f5a08dacd
+    internal-label: Predictive Audiences
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 427
+source-wordcount: '427'
 ht-degree: 85%
-
 ---
-
 # 予測フィルター {#predictive-filters}
 
 Marketo は、予測オーディエンスの一部として、スマートキャンペーン内のスマートリストに AI／ML ベースのフィルターのグループを提供します。
@@ -46,7 +53,7 @@ _出席の可能性が高い_&#x200B;フィルターと同様に、このフィ�
 
 ## 登録解除の可能性 {#likelihood-to-unsubscribe}
 
-これにより、次の 2 週間に登録解除される可能性が高いか低いかによってオーディエンスをフィルタリングします。 これを使用して、高疲労リードを異なる方法でより効果的にターゲット設定できます。 登録解除しきい値は、データベース内のリードタイムやリードアクティビティなど、複数の属性を考慮した AI モデルによって動的に決定されます。
+これにより、次の 2 週間に登録解除される可能性が高いか低いかによってオーディエンスをフィルタリングします。 これを使用して、高疲労リードを異なる方法でより効果的にターゲット設定できます。 登録解除のしきい値は、データベース内のリードタイムやリードアクティビティなど、複数の属性を考慮した AI モデルによって動的に決定されます。
 
 ![画像 4](assets/predictive-filters-4.png)
 
@@ -69,7 +76,7 @@ _出席の可能性が高い_&#x200B;フィルターと同様に、このフィ�
 * 予測フィルターが有効になる前に親プログラムが作成されている場合でも、スマートキャンペーンに予測フィルターを適用できます。
 * 予測フィルターは、トリガーキャンペーンでは使用できません。
 * 予測フィルターを含むキャンペーンのクローン作成または移動はサポートされていません。
-* スマート・リストには、最大 5 つの予測フィルタを使用できます。
+* スマートリストには、最大 5 つの予測フィルターを使用できます。
 * Marketo Engageで予測フィルターの評価でエラーが発生した場合、キャンペーン実行は自動的に中止され、通知がMarketo通知センターに送信されます。
 * 予測フィルターには現在、100 万人の認定済みユーザーの入力制限があります。
-* 予測フィルターを使用して、最大 50 個のアクティブなプログラムを設定できます。
+* 予測フィルターを使用できるアクティブなプログラムは、最大 50 個までです。

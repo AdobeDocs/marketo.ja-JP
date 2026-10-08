@@ -1,24 +1,31 @@
 ---
 unique-page-id: 2359502
 description: メール全体のA/B テストを実施する方法を説明します。 さまざまなメールバージョンをテストし、選択した基準で勝者を選択します。
-title: 「メール全体」A/B テストを使用する
+title: 「メール全体」を使用した A/B テスト
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/P6YTdfoKe0D8egqK5amG2GTM92U7RZ1AWoQh6NcZpeQ
+TQID: 'https://experienceleague.adobe.com/P6YTdfoKe0D8egqK5amG2GTM92U7RZ1AWoQh6NcZpeQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 286
+source-wordcount: '286'
 ht-degree: 74%
-
 ---
-
 # 「メール全体」A/B テストを使用する {#use-whole-email-a-b-testing}
 
-メールの A/B テストはとても簡単に実施できます。 なかでも便利なのが、**メール全体**&#x200B;テストです。 その設定方法を説明しましょう。
+メールの A/B テストはとても簡単に実施できます。 なかでも便利なのが、**メール全体**&#x200B;テストです。 その設定方法を説明します。
 
 >[!PREREQUISITES]
 >
@@ -50,11 +57,11 @@ ht-degree: 74%
 
 1. 2 つ目のメールを選択します。
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. 「**[!UICONTROL 追加]**」をクリックして 2 つ目のメールを適用します。 A/B テストを送信するオーディエンスの割合をスライダーで選択して、「**[!UICONTROL 次へ]**」をクリックします。
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >
@@ -62,6 +69,6 @@ ht-degree: 74%
 
    >[!CAUTION]
    >
-   >**サンプルサイズを 100% に設定しないことをお勧めします**。 静的リストを使用している場合、サンプルサイズを100%に設定すると、オーディエンス全員にメールが送信され、勝者は誰にも送信されません。 **smart** リストを使用している場合、サンプルサイズを100%に設定すると、その時点で&#x200B;_オーディエンスのすべてのユーザーにメールが送信されます。_ メールプログラムが後日再実行されると、スマートリストに振り分けられた新しいリードも、オーディエンスに含まれるようになっているのでメールを受け取ります。
+   >**サンプルサイズを 100% に設定しないことをお勧めします**。 静的リストを使用している場合、サンプルサイズを100%に設定すると、オーディエンス全員にメールが送信され、勝者は誰にも送信されません。 **smart** リストを使用している場合、サンプルサイズを100%に設定すると、その時点で&#x200B;_オーディエンスのすべてのユーザーにメールが送信されます。_ メールプログラムが後日再度実行されると、スマートリストの条件を満たすようになった新しい人物も、オーディエンスに含まれるためメールを受け取ります。
 
    ここまで来れば、あと一歩です。 続いて、[A/B テストの勝者の条件を定義](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)する必要があります。

@@ -4,13 +4,19 @@ description: プログラムコストの把握など、Marketo Engageのプロ�
 title: プログラム原価分析領域について
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 92%
-
 ---
-
 # プログラム原価分析領域について {#understanding-the-program-cost-analysis-area}
 
 プログラム原価分析領域では、個々のプログラムの効果を分析したり、一定期間、チャネル別に要約された結果を表示したりできます。
@@ -33,7 +39,7 @@ ht-degree: 92%
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## プログラム原価分析のディメンションと測定 {#program-cost-analysis-dimensions-and-measures}
+## プログラムコスト分析のディメンションと測定 {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -47,7 +53,7 @@ ht-degree: 92%
 | 新しい名前あたりのコスト | プログラムで獲得したリードあたりの平均コスト |
 | 成功あたりのコスト | プログラムの進行で成功したリードあたりの平均コスト |
 | 成功あたりのコスト（新しい名前） | プログラムによって獲得され、プログラムの進行において成功を収めたリードあたりの平均コスト |
-| プログラムのコスト | プログラムの総期間のコスト |
+| プログラムのコスト | プログラムの期間コストの合計 |
 
 ## メンバーシップ {#membership}
 
@@ -84,7 +90,7 @@ ht-degree: 92%
 | ディメンション | 説明 |
 |---|---|
 | 年 | プログラムコスト期間 |
-| 四半期 | プログラムコスト期間 |
+| 四半期 | プログラムコストの時間枠 |
 | 月 | プログラムコスト期間 |
 
 ## プログラムタグ {#program-tags}
@@ -100,7 +106,7 @@ ht-degree: 92%
 
 | 測定 | 説明 |
 |---|---|
-| 成功の割合（新しい名前） | プログラムが獲得し、プログラムの進行で成功したリードの割合 |
-| 成功の割合（合計） | プログラムの進行で成功したリードの割合 |
-| 成功（新しい名前） | プログラムの進行で成功した新しい名前の合計数 |
-| 成功（合計） | プログラムの進行で成功したリードの合計数 |
+| 成功率（新規リード） | プログラムによって獲得され、その後プログラムの進行で成功に到達したリードの割合 |
+| 成功の割合（合計） | プログラムの進行で成功に到達したリードの割合 |
+| 成功（新しい名前） | プログラムの進行で成功に到達した新規リードの合計数 |
+| 成功（合計） | プログラムの進行で成功に到達したリードの合計数 |

@@ -4,24 +4,32 @@ description: メールで動的コンテンツを使用する方法を説明し�
 title: メールでの動的コンテンツの使用
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/NzTat-p-dgq9wtHv-hyJJzAwud27aOBvVTIS1Tn0lnc
+TQID: 'https://experienceleague.adobe.com/NzTat-p-dgq9wtHv-hyJJzAwud27aOBvVTIS1Tn0lnc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 271
+source-wordcount: '271'
 ht-degree: 83%
-
 ---
-
 # メールでの動的コンテンツの使用 {#using-dynamic-content-in-an-email}
 
 >[!PREREQUISITES]
@@ -40,7 +48,7 @@ ht-degree: 83%
 
    ![](assets/login-marketing-activities.png)
 
-1. メールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
+1. メールを選択して、「**[!UICONTROL ドラフトの編集]**」をクリックします。
 
    ![](assets/1.2.png)
 
@@ -50,7 +58,7 @@ ht-degree: 83%
 
    >[!NOTE]
    >
-   >また、メール内の要素を動的にすることもできます。 これを行うには、領域を選択し、歯車アイコンをクリックして、**動的にする** （または[実行している内容に応じてスニペット &#x200B;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)に置き換える）を選択します。
+   >また、メール内の要素を動的にすることもできます。 これを行うには、領域を選択し、歯車アイコンをクリックして、**動的にする** （または[実行している内容に応じてスニペット ](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)に置き換える）を選択します。
 
 1. セグメント名を入力して選択し、「**[!UICONTROL 保存]**」をクリックします。
 
@@ -64,7 +72,7 @@ ht-degree: 83%
 
 >[!CAUTION]
 >
->使用できる動的コンテンツ要素の数に制限はありません。 具体的な数の制限はありませんが（コンテンツの組み合わせによって異なる場合があります）、動的コンテンツを過剰に使用すると、メールのパフォーマンスに悪影響を与える可能性があります。 従来の動的コンテンツ要素の量は、メールあたり 20 未満にすることをお勧めします。
+>使用できる動的コンテンツ要素の数は無制限ではありません。 具体的な数の制限はありませんが（コンテンツの組み合わせによって異なる場合があります）、動的コンテンツを過剰に使用すると、メールのパフォーマンスに悪影響を与える可能性があります。 使用する動的コンテンツ要素の数は、メールあたり 20 未満に抑えることをお勧めします。
 
 1. セグメントをクリックし、件名を追加します。
 
@@ -82,7 +90,7 @@ ht-degree: 83%
 >
 >デフォルトのセグメントコンテンツブロックに対する変更は、すべてのセグメントに適用されます。
 
-できましたね。 これで、ターゲットオーディエンスに適応したメールを送信できます。
+できましたね。 これで、ターゲットオーディエンスに柔軟なメールを送信できます。
 
 >[!MORELIKETHIS]
 >

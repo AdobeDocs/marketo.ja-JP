@@ -4,21 +4,28 @@ description: カスタムオブジェクトの使用方法Marketo カスタム�
 title: カスタムオブジェクトの変更のトリガー
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-TQID: https://experienceleague.adobe.com/KjZuM-gPLIFa1umPF4pzN2OTak51i9I5TUcC7SacmZ8
+TQID: 'https://experienceleague.adobe.com/KjZuM-gPLIFa1umPF4pzN2OTak51i9I5TUcC7SacmZ8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 203
+source-wordcount: '203'
 ht-degree: 81%
-
 ---
-
 # カスタムオブジェクトの変更のトリガー {#trigger-off-custom-object-changes}
 
 >[!NOTE]
@@ -29,7 +36,7 @@ ht-degree: 81%
 >
 >* フィルターとしてではなくトリガーとして使用
 >
->カスタムオブジェクト変更トリガーを有効にするには、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
+>カスタムオブジェクト変更トリガーを有効にするには、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support)にお問い合わせください。
 
 スマートキャンペーンのスマートリストでは、カスタムオブジェクトが個人または会社に追加されたときのフローアクションをトリガーできます。 また、カスタムオブジェクトの&#x200B;_変更_&#x200B;をトリガーとして使用するスマートリストを作成することもできます。 例えば、コース名が更新されたときにメールを送信する場合に使用します。
 
@@ -41,7 +48,7 @@ ht-degree: 81%
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
-1. 既存のスマートキャンペーンを作成するか開いて、「スマートリスト」を選択します。
+1. 新規にスマートキャンペーンを作成するか、既存のスマートキャンペーンを開き、「スマートリスト」を選択します。
 
    ![](assets/trigger-off-custom-object-changes-2.png)
 
@@ -53,7 +60,7 @@ ht-degree: 81%
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 
-1. オプションで、制約を設定します。
+1. 必要に応じて、制約を設定します。
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 

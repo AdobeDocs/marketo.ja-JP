@@ -3,16 +3,18 @@ description: Sales Insight ActionsをSalesforceに接続する際の認証エラ
 title: Salesforce に接続する際の「リクエストを認証できませんでした」の修正方法
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/H2VyryO38T7ohs85rfhLUP-BVUEMf-Yr9rusDrAFq6Q
+TQID: 'https://experienceleague.adobe.com/H2VyryO38T7ohs85rfhLUP-BVUEMf-Yr9rusDrAFq6Q'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 352
+source-wordcount: '352'
 ht-degree: 71%
-
 ---
-
 # [!DNL Salesforce] に接続する際の「リクエストを認証できませんでした」の修正方法 {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
 Marketo Sales インスタンスをSalesforceに接続しようとしていて、「リクエストを認証できません」というエラーが表示される場合は、Salesforce インスタンスの設定方法に関連している可能性があります。
@@ -34,22 +36,22 @@ URLを確認することで、取得するタイプを特定できます。
 
 接続先のインスタンスがSalesforce サンドボックスのドメインで、エラーが発生した場合は、インスタンスを更新してSalesforce サンドボックスに対応するように追加の手順を実行する必要があります。 [詳細情報](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}
 
-## Oauth アプリの解決がブロックされました {#resolve-oauth-app-blocked}
+## OAuth アプリがブロックされた場合の対処 {#resolve-oauth-app-blocked}
 
 URL 内に「Oauth App Blocked」というエラータイプ（または別のタイプ）が記載された「要求を認証できませんでした」というエラーメッセージが表示された場合は、Salesforce API へのアクセスが制限されている可能性があります。 Salesforce 管理者に、以下が実施されていることを確認してください。
 
-### ユーザ権限での API の有効化 {#enable-api-in-user-permissions}
+### ユーザー権限での API の有効化 {#enable-api-in-user-permissions}
 
-1. Salesforce 管理者を Salesforce にログインしてもらいます。
+1. Salesforce 管理者に Salesforce へログインしてもらいます。
 1. 「**設定**」を選択します。
 1. 「**ユーザを管理**」を選択します。
 1. 「**プロファイル**」を選択します。
 1. ToutApp ユーザが属するプロファイルを探し、「**編集**」をクリックします。
 1. 下の「**管理権限**」までスクロールし、「**API 有効**」がオンになっていることを確認します。
 
-### Salesforce によってセールスインサイトアクションの接続がブロックされているかどうかを確認する {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
+### Salesforce がセールスインサイトアクションからの接続をブロックしていないか確認 {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
 
-1. Salesforce 管理者を Salesforce にログインしてもらいます。
+1. Salesforce 管理者に Salesforce へログインしてもらいます。
 1. 「**設定**」を選択します。
 1. 「**アプリの管理**」を選択します。
 1. 「**接続済みのアプリケーションの OAuth 使用状況**」を選択します。

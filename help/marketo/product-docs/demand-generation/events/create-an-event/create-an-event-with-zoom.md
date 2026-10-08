@@ -1,38 +1,43 @@
 ---
 unique-page-id: 17728023
 description: MarketoでZoomを使用してイベントを作成する方法について説明します。 Zoom統合を設定し、ミーティングやウェビナーをイベントプログラムと同期します。
-title: ' [!DNL Zoom] を使用したイベントの作成'
+title: '[!DNL Zoom] を使用したイベントの作成'
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-TQID: https://experienceleague.adobe.com/U5xsTJ-TgiTymlWAOWIuACLSeGE9iuPVjym-z3-VlvA
+TQID: 'https://experienceleague.adobe.com/U5xsTJ-TgiTymlWAOWIuACLSeGE9iuPVjym-z3-VlvA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 573
+source-wordcount: '573'
 ht-degree: 89%
-
 ---
-
 # [!DNL Zoom] を使用したイベントの作成 {#create-an-event-with-zoom}
 
 >[!PREREQUISITES]
 >
->* [&#x200B; [!DNL Zoom]  を  [!DNL LaunchPoint]  サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
+>* [ [!DNL Zoom]  を  [!DNL LaunchPoint]  サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
 
 まず、[!DNL Zoom] でウェビナーを作成します。 [!DNL Zoom] の作成機能の設定には、Marketo で使用されるものと、[!DNL Zoom] でのみ使用されるものがあります。
 
-Marketo イベントを作成してそれに [!DNL Zoom] ウェビナーを関連付けると、システムは登録情報と出席情報を共有できるようになります。 ウェビナーの作成については、[&#x200B; [!DNL Zoom]  ウェビナーの基本を学ぶ](https://support.zoom.us/hc/ja/articles/200917029-Getting-Started-With-Webinar)を参照してください。
+Marketo イベントを作成してそれに [!DNL Zoom] ウェビナーを関連付けると、システムは登録情報と出席情報を共有できるようになります。 ウェビナーの作成については、[ [!DNL Zoom]  ウェビナーの基本を学ぶ](https://support.zoom.us/hc/ja/articles/200917029-Getting-Started-With-Webinar)を参照してください。
 
-ウェビナーに関する次の情報を入力すると、アダプターを介して Marketo に取り込まれます。 この情報に変更を加えた場合、Marketo で変更を表示するには、イベントアクションで「ウェビナープロバイダーから更新」リンクをクリックする必要があります。
+ウェビナーに関する次の情報を入力すると、アダプターを介して Marketo に取り込まれます。 この情報に変更を加えた場合は、Marketo に変更内容を認識させるために、イベントアクションの「ウェビナープロバイダーから更新」リンクをクリックする必要があります。
 
 **タイトルと説明**
 
@@ -72,7 +77,7 @@ Marketo イベントを作成してそれに [!DNL Zoom] ウェビナーを関�
 
    >[!NOTE]
    >
-   >選択するイベントのチャネルタイプは、**ウェビナー**&#x200B;である必要があります。
+   >選択したイベントプログラムのチャネルは&#x200B;**ウェビナー**&#x200B;である必要があります。
 
 1. **[!UICONTROL イベントパートナー]**&#x200B;リストから「**[!UICONTROL Zoom]**」を選択します。
 
@@ -98,11 +103,11 @@ Marketo イベントを作成してそれに [!DNL Zoom] ウェビナーを関�
 
    >[!TIP]
    >
-   >登録後の確認メールにこの固有 URL を挿入するには、メールに `{{member.webinar url}}` トークンを使います。 確認 URL が送信されるときに、このトークンは各リード固有の確認 URL に自動的に変換されます。
+   >登録後の確認メールにこの固有 URL を挿入するには、メールに `{{member.webinar url}}` トークンを使います。 確認 URL が送信されるときに、このトークンは各ユーザの一意の確認 URL に自動的に変換されます。
    >
    >配信停止やマーケティング中断したリードにも届くように、確認メールは&#x200B;**オペレーショナル**&#x200B;メールに設定してください。
 
-   ウェビナーに新規登録したリードは、[!UICONTROL 新規ステータス]が「登録」に設定されたときに、**[!UICONTROL プログラムステータスを変更]**&#x200B;フローステップによってウェビナープロバイダーにプッシュされます。 その他のステータスではプッシュされません。 また、**[!UICONTROL プログラムステータスの変更]** フローステップを#1し、**[!UICONTROL 電子メールの送信]** フローステップを#2します。
+   ウェビナーに新規登録したリードは、[!UICONTROL 新規ステータス]が「登録」に設定されたときに、**[!UICONTROL プログラムステータスを変更]**&#x200B;フローステップによってウェビナープロバイダーにプッシュされます。 その他のステータスでは、その人物はウェビナープロバイダー側にプッシュされません。 また、**[!UICONTROL プログラムステータスの変更]** フローステップを#1し、**[!UICONTROL 電子メールの送信]** フローステップを#2します。
 
    ![](assets/goto-webinar-1.png)
 

@@ -3,21 +3,27 @@ description: リリースノート - 2024年7月 – Marketo ドキュメント 
 title: リリースノート - 2024年7月
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-TQID: https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA
+TQID: 'https://experienceleague.adobe.com/G66a1E1PleerglG-RMkFRmDN6XySVEKNoPkGfpimniA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Dynamic Chat
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 589
+source-wordcount: '589'
 ht-degree: 94%
-
 ---
-
 # リリースノート：2024年7月 {#release-notes-july-24}
 
 2024年7月リリースに含まれるすべての機能を以下に示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
@@ -30,7 +36,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-次の機能は標準リリースサイクルに従っており、**2024年7月26日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
+次の機能は標準リリースサイクルに従っており、**2024年7月26日（PT）**&#x200B;からリリースが開始され、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -73,7 +79,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   </tr>
      <tr>
-   <td><strong>Marketo REST API の変更</strong>：<a href="https://developers.marketo.com/rest-api/user-management/">User Management API</a> に小規模な変更を行っています。 <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">ユーザを参照</a>エンドポイントと<a href="https://developers.marketo.com/rest-api/user-management/#delete_user">ユーザを削除</a>エンドポイントの両方が、<a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">ターゲットアカウント管理</a>ユーザをサポートするようになりました。</td>
+   <td><strong>Marketo REST API の変更</strong>：<a href="https://developers.marketo.com/rest-api/user-management/">User Management API</a> に小規模な変更を行っています。 <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">ユーザーを参照</a>エンドポイントと<a href="https://developers.marketo.com/rest-api/user-management/#delete_user">ユーザーを削除</a>エンドポイントの両方が、<a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">ターゲットアカウント管理</a>ユーザーをサポートするようになりました。</td>
    <td>リリース</td>
    <td>該当なし</td>
   </tr>
@@ -83,15 +89,15 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **新しい開発者向けドキュメントサイト**：Marketo Engage のユーザエクスペリエンスを向上させるための継続的な取り組みの一環として、2024年7月にすべての開発者向けドキュメントを Adobe Experience League と Adobe Developer web サイトに移行する予定です。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+* **新しい開発者向けドキュメントサイト**：Marketo Engage のユーザーエクスペリエンスを向上させるための継続的な取り組みの一環として、2024年7月にすべての開発者向けドキュメントを Adobe Experience League と Adobe Developer web サイトに移行する予定です。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
 
 * **ソーシャル機能の廃止**：2024年7月31日水曜日（PT）に、Marketo Engage では製品内の次のソーシャル機能の廃止を開始します。
 
-   * 投票
-   * ソーシャルボタン
-   * 紹介オファー
-   * 動画の共有
-   * 懸賞
+  * 投票
+  * ソーシャルボタン
+  * 紹介オファー
+  * 動画の共有
+  * 懸賞
 
 ユーザは、Marketo Engage でこれらのソーシャル機能を作成、複製、埋め込むことができなくなります。 既存のソーシャルアセットは、2025年1月31日（PT）まで引き続き機能します。 [詳細情報](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 

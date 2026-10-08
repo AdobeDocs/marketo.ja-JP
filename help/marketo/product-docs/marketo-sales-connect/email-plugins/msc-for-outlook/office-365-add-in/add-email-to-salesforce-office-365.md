@@ -4,16 +4,18 @@ description: Outlook Office 365 プラグインからSalesforceにメールを�
 title: Salesforce（Office 365）へのメールの追加
 exl-id: 8d1a1329-a045-47a5-ada0-2c3a3a34cd07
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/kDWFvC0ebB2apOuhl-M-WcTVlhF7wcffsw35eo1bCT8
+TQID: 'https://experienceleague.adobe.com/kDWFvC0ebB2apOuhl-M-WcTVlhF7wcffsw35eo1bCT8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 124
+source-wordcount: '124'
 ht-degree: 80%
-
 ---
-
 # [!DNL Salesforce]（Office 365）へのメールの追加 {#add-email-to-salesforce-office}
 
 [!DNL Salesforce] にメールを追加すると、[!DNL Outlook] で受信したメールを [!DNL Salesforce] アカウントにプッシュできます。 検索はメールの送信者に基づいて行われるため、現在、このボタンは受信したメールにのみ使用でき、送信したメールには使用できません。

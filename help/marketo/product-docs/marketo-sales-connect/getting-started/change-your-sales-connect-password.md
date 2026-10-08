@@ -1,21 +1,23 @@
 ---
 description: セールスコネクトのパスワードを変更する方法について説明します。 設定からパスワードを更新して、アカウントを安全に保ちます。
-title: Sales Connect のパスワードの変更
+title: セールスコネクトのパスワードの変更
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/CPibiRdNQiKEBcSidAxqbB-c-9-8ihPuGPjnp-U6V08
+TQID: 'https://experienceleague.adobe.com/CPibiRdNQiKEBcSidAxqbB-c-9-8ihPuGPjnp-U6V08'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 90%
-
 ---
+# セールスコネクトのパスワードの変更 {#change-your-sales-connect-password}
 
-# Sales Connect のパスワードの変更 {#change-your-sales-connect-password}
-
-パスワードを変更する必要がある場合、 手順は次のとおりです。
+パスワードを変更する必要がありますか？ 手順は次のとおりです。
 
 ## サインイン中のパスワード変更 {#change-your-password-while-signed-in}
 
@@ -35,8 +37,8 @@ ht-degree: 90%
 >
 >パスワードは次の条件を満たす必要があります。
 >
->* 9 文字以上含む
->* 大文字と小文字を混在させる
+>* 9 文字以上であること
+>* 大文字と小文字を混在させること（両方を使用すること）
 >* 数値を含める
 >* 特殊文字を使用する
 

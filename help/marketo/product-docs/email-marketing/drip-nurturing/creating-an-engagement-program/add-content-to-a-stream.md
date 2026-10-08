@@ -4,18 +4,23 @@ description: エンゲージメントプログラムストリームにメール�
 title: ストリームにコンテンツを追加する
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/mEXmi2TJ3INTU2G3cFvw1uJyVbMIwRjNil65pFCY7DY
+TQID: 'https://experienceleague.adobe.com/mEXmi2TJ3INTU2G3cFvw1uJyVbMIwRjNil65pFCY7DY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 157
+source-wordcount: '157'
 ht-degree: 75%
-
 ---
-
 # ストリームにコンテンツを追加する {#add-content-to-a-stream}
 
 エンゲージメントプログラムを作成したら、コンテンツをストリームに追加する必要があります。 ストリームにメールまたはプログラムを追加できます。
@@ -36,17 +41,17 @@ ht-degree: 75%
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. 「**[!UICONTROL 電子メール]**&#x200B;_」または「_&#x200B;**[!UICONTROL プログラム]**」を選択して、追加するメールまたはプログラム／スマートキャンペーンを選択します。
+1. 「**[!UICONTROL 電子メール]**_」または「_**[!UICONTROL プログラム]**」を選択して、追加するメールまたはプログラム／スマートキャンペーンを選択します。
 
    ![](assets/add-content-to-a-stream-4.png)
 
    >[!TIP]
    >
-   >このエンゲージメントプログラムのローカルのメールは、上に並べ替えられます。
+   >このエンゲージメントプログラム内のメールは、上位に表示されます。
 
 **+ アイコン**
 
-1. **+** アイコンをクリックして、「**[!UICONTROL 電子メール]**&#x200B;_」または「_ **[!UICONTROL プログラム]**」をクリックし、追加するメールまたはプログラム／スマートキャンペーンを選択します。
+1. **+** アイコンをクリックして、「**[!UICONTROL 電子メール]**_」または「_ **[!UICONTROL プログラム]**」をクリックし、追加するメールまたはプログラム／スマートキャンペーンを選択します。
 
    ![](assets/add-content-to-a-stream-5.png)
 

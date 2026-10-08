@@ -3,19 +3,22 @@ description: セールスメールを送信する際に、作成ウィンドウ�
 title: 作成ウィンドウでのテンプレートの使用
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/sZOyN661UJK-w7wo-RAc0aX9MZ18T3pVyo35xnbe1J0
+TQID: 'https://experienceleague.adobe.com/sZOyN661UJK-w7wo-RAc0aX9MZ18T3pVyo35xnbe1J0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 305
+source-wordcount: '305'
 ht-degree: 81%
-
 ---
-
 # 作成ウィンドウでのテンプレートの使用 {#using-a-template-in-the-compose-window}
 
 ## テンプレートの検索と使用 {#finding-and-using-templates}
@@ -62,7 +65,7 @@ ht-degree: 81%
 
    >[!TIP]
    >
-   >多くの場合、すべてのテンプレートを検索して目的のものを見つける必要があるため、テンプレートライブラリ全体を迅速に検索できるように、「すべて」カテゴリをピン留めすることをお勧めします。 ピン留めされたカテゴリを選択して検索アイコンをクリックすると、デフォルトで、選択されたピン留めカテゴリ内を検索します。
+   >多くの場合、すべてのテンプレートを検索して目的のものを見つける必要があるため、テンプレートライブラリ全体を迅速に検索できるように、「すべて」カテゴリをピン留めすることをお勧めします。 ピン留めされたカテゴリを選択した状態で検索アイコンをクリックすると、検索対象はデフォルトでそのピン留めカテゴリ内になります。
 
 1. 完了したら、「**変更を保存**」をクリックします（オプション：さらに追加する場合は手順 3 を繰り返します）。
 

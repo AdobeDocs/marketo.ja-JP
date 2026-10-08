@@ -4,23 +4,29 @@ description: 理想的な顧客プロファイルからAIを活用したレコ�
 title: 新しい顧客の検出
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/9Bf4cR5lkY9pIFqUSVSpgQL8XJwTv0-jX8-zQdD9Bbw
+TQID: 'https://experienceleague.adobe.com/9Bf4cR5lkY9pIFqUSVSpgQL8XJwTv0-jX8-zQdD9Bbw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 323
+source-wordcount: '323'
 ht-degree: 83%
-
 ---
-
 # 新しい顧客の検出 {#new-account-discovery}
 
-新しい顧客の検出は、理想的な顧客プロファイルから AI を利用したレコメンデーションを使用して、ターゲットにする新しい顧客を見つけるのに役立ちます。
+新しいアカウントの検出を使用すると、理想的な顧客プロファイルに基づく AI を活用したレコメンデーションにより、ターゲットとする新しいアカウントを見つけることができます。
 
 >[!IMPORTANT]
 >
@@ -38,7 +44,7 @@ ht-degree: 83%
 
    ![](assets/new-account-discovery-1.png)
 
-1. 「**[!UICONTROL アカウントプロファイリング]**」タブをクリックします。
+1. 「**[!UICONTROL 顧客プロファイリング]**」タブをクリックします。
 
    ![](assets/two-2.png)
 
@@ -48,7 +54,7 @@ ht-degree: 83%
 
    >[!NOTE]
    >
-   >「[!UICONTROL 新規アカウント]」には、TAM に含まれていないアカウントのリストが表示されます。 これらは、選択したフィルターに基づいた、新しくなる可能性のある顧客です。
+   >「[!UICONTROL 新規アカウント]」には、TAM に含まれていないアカウントのリストが表示されます。 これらは、選択したフィルターに基づいて、自社にとって新規となる可能性のあるアカウントです。
 
 1. 適用可能なすべてのフィルターを選択します（この部分は高度にカスタマイズ可能です。以下は、フィルタリングを示す一例に過ぎません）。
 
@@ -62,7 +68,7 @@ ht-degree: 83%
    >
    >必要な顧客が少数のみ表示された場合は、個々の顧客をクリックして、完了したら「**選択した顧客を保存**」をクリックします。
 
-1. リストを独自の新しい顧客リストにしたり、既存の顧客リストに追加したりできます。 この例では、新しく作成します。
+1. リストを新しいアカウントリストとして作成することも、既存のアカウントリストに追加することもできます。 この例では、新しく作成します。
 
    ![](assets/six-1.png)
 
@@ -76,7 +82,7 @@ ht-degree: 83%
 
    >[!NOTE]
    >
-   >一度に 5,000 件までの顧客を保存できます。 検索結果が 10,000 件あった場合、最初の（上位）5,000 件を保存し、次にフィルターをリセットして、次の 5,000 件を保存する必要があります。 **合計**&#x200B;顧客の上限は 100 万です。
+   >一度に保存できるアカウントは 5,000 件までです。 検索結果が 10,000 件あった場合、最初の（上位）5,000 件を保存し、次にフィルターをリセットして、次の 5,000 件を保存する必要があります。 **合計**&#x200B;顧客の上限は 100 万です。
 
 1. 「**[!UICONTROL OK]**」をクリックします。
 
@@ -84,4 +90,4 @@ ht-degree: 83%
 
    >[!TIP]
    >
-   >アカウントを保存した後、[&#x200B; [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) で一致したオーディエンスを使用してターゲティングできます。
+   >アカウントを保存した後、[ [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) で一致したオーディエンスを使用してターゲティングできます。

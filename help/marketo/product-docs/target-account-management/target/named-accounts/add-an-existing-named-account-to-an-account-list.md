@@ -1,28 +1,33 @@
 ---
 unique-page-id: 12615798
 description: 既存の名前付きアカウントをアカウントリストに追加する方法について説明します。 名前付きアカウントアクションを使用し、目的のリストで「アカウントリストに追加」を選択します。
-title: 既存の重点顧客を顧客リストに追加する
+title: 既存の重点アカウントのアカウントリストへの追加
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/12lp3121xP2hO8rb4oQSBb1noH6qsw3ZGMVMumabwPM
+TQID: 'https://experienceleague.adobe.com/12lp3121xP2hO8rb4oQSBb1noH6qsw3ZGMVMumabwPM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 107
+source-wordcount: '107'
 ht-degree: 75%
-
 ---
-
 # 既存の[!UICONTROL 重点顧客]を顧客リストに追加する {#add-an-existing-named-account-to-an-account-list}
 
-既存の重点顧客を顧客リストに追加する操作は簡単です。
+重点アカウントをアカウントリストに追加する操作は簡単です。
 
 >[!NOTE]
 >
 >これは、顧客リストにのみ適用され、動的顧客リストには&#x200B;**適用されません**。
 
-1. 追加する重点顧客の行を選択します。
+1. 追加する重点アカウントの行を選択します。
 
    ![](assets/four-1.png)
 

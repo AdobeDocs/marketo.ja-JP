@@ -1,23 +1,26 @@
 ---
 unique-page-id: 4720917
 description: Dnlのパーソナライズされたリマーケティングなど、Marketo EngageのFacebookのパーソナライズされたリマーケティングについて説明します。 このガイドを使用して、次のステップを完了してください。
-title: Facebook でのパーソナライズリマーケティング
+title: Facebook でのパーソナライズされたリマーケティング
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo
+TQID: 'https://experienceleague.adobe.com/Pm54eQ-MPJ2hQeKyK2jFWHqjy1-t69Kzd2LB8fNcIKo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 343
+source-wordcount: '343'
 ht-degree: 93%
-
 ---
-
 # [!DNL Facebook] でのパーソナライズリマーケティング {#personalized-remarketing-in-facebook}
 
 パーソナライズリマーケティングを使用すると、RTP データと Facebook リマーケティングの力を利用して、ユーザーと再びエンゲージできます。
@@ -25,7 +28,7 @@ ht-degree: 93%
 >[!PREREQUISITES]
 >
 >* [Web パーソナライゼーションデータによるリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)設定を完成します
->* [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [カスタムオーディエンスとリマーケティングに関する Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)を確認します。
+>* [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [カスタムオーディエンスとリマーケティングに関する Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)を確認します。
 
 ## [!DNL Facebook] でのオーディエンスの作成 {#creating-an-audience-in-facebook}
 
@@ -83,7 +86,7 @@ ht-degree: 93%
        </tr>
        <tr>
         <td>ABM リスト</td>
-        <td>（顧客ベースのリスト）</td>
+        <td>（アカウントベースのリスト名）</td>
        </tr>
        <tr>
         <td colspan="1">カテゴリ</td>
@@ -94,12 +97,12 @@ ht-degree: 93%
         <td colspan="1"><p>エンタープライズ</p><p>中小企業</p></td>
        </tr>
        <tr>
-        <td>業種</td>
+        <td>業界</td>
         <td><p>防衛</p><p>教育</p><p>金融サービス</p><p>政府</p><p>医療、医薬品、バイオテクノロジー</p><p>ソフトウェア、インターネット</p><p>...（RTP 業界のオプションに従って）</p></td>
        </tr>
        <tr>
         <td colspan="1">セグメント化されたオーディエンス</td>
-        <td colspan="1">（RTP で作成されたセグメント化されたオーディエンス名）</td>
+        <td colspan="1">（RTP で作成されたセグメントオーディエンス名）</td>
        </tr>
       </tbody>
      </table>
@@ -108,7 +111,7 @@ ht-degree: 93%
  </tbody>
 </table>
 
-## 広告によるオーディエンスのターゲット {#target-your-audience-with-an-ad}
+## 広告でオーディエンスをターゲット設定する {#target-your-audience-with-an-ad}
 
 詳しくは、[Facebook ドキュメント](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience)を参照してください。
 
@@ -120,7 +123,7 @@ ht-degree: 93%
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
-1. ウェブサイトの URL を入力します。
+1. Web サイトの URL を入力します。
 
    ![](assets/image2015-1-19-17-3a12-3a39.png)
 

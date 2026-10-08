@@ -4,19 +4,21 @@ description: セールスコネクトでキャンペーンリストを別のユ�
 title: キャンペーンリストを別のユーザとして表示
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/XnIOX7c3XNBSVGmCWey8f2niODpiKWRODuEhjkFxM4E
+TQID: 'https://experienceleague.adobe.com/XnIOX7c3XNBSVGmCWey8f2niODpiKWRODuEhjkFxM4E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 99
+source-wordcount: '99'
 ht-degree: 72%
-
 ---
+# 別のユーザーとしてキャンペーンリストを表示 {#view-campaigns-list-as-another-user}
 
-# キャンペーンリストを別のユーザとして表示 {#view-campaigns-list-as-another-user}
-
-管理者は、キャンペーンを任意のユーザとして表示できます。
+管理者は、キャンペーンを任意のユーザーとして表示できます。
 
 >[!NOTE]
 >
@@ -26,14 +28,14 @@ ht-degree: 72%
 
    ![](assets/one-5.png)
 
-1. 「**[!UICONTROL 次のユーザとして表示]**」ドロップダウンリストをクリックし、目的のユーザを選択します。
+1. 「**[!UICONTROL 次のユーザーとして表示]**」ドロップダウンリストをクリックし、目的のユーザーを選択します。
 
    ![](assets/two-4.png)
 
-1. キャンペーンが選択したユーザとして表示されます。
+1. 現在、選択したユーザーとしてキャンペーンを表示しています。
 
    ![](assets/three-4.png)
 
    >[!NOTE]
    >
-   >また、「別のユーザとして表示」と共にフィルターや検索機能を使用して、最も関連性の高いものを表示することもできます。
+   >また、「別のユーザとして表示」とフィルターや検索機能を組み合わせて使用し、自分に最も関連性の高いものを表示することもできます。

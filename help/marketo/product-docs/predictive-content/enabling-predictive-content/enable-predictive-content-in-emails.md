@@ -4,19 +4,21 @@ description: タイトルが承認され、編集された後にContentAIを使�
 title: メールの予測コンテンツを有効にする
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/8SS9vHyFpf7kDWcDSf90qhX2g9dqMyTwTzYZhHf9bwY
+TQID: 'https://experienceleague.adobe.com/8SS9vHyFpf7kDWcDSf90qhX2g9dqMyTwTzYZhHf9bwY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 417
+source-wordcount: '417'
 ht-degree: 82%
-
 ---
-
 # メールの予測コンテンツを有効にする {#enable-predictive-content-in-emails}
 
-メールの予測用に 1 つ以上の画像を作成し、各受信者のエクスペリエンスを調整します。
+メール内の 1 つ以上の画像を予測コンテンツにし、各受信者のエクスペリエンスをパーソナライズします。
 
 >[!NOTE]
 >
@@ -40,7 +42,7 @@ ht-degree: 82%
 
    ![](assets/one.png)
 
-1. メールを選択して、「**[!UICONTROL ドラフトを編集]**」をクリックします。
+1. メールを選択して、「**[!UICONTROL ドラフトの編集]**」をクリックします。
 
    ![](assets/two.png)
 
@@ -54,9 +56,9 @@ ht-degree: 82%
 
    >[!NOTE]
    >
-   >特定のカテゴリの選択または予測レイアウトの変更はオプションです。
+   >特定のカテゴリを選択したり、予測レイアウトを変更したりするかどうかは任意です。
 
-1. これで、画像が予測可能になりました。 必要に応じて、追加の画像に対して手順 3 と 4 を繰り返します。
+1. これで、画像が予測可能になりました。 必要に応じて、他の画像についても手順 3 と 4 を繰り返します。
 
    ![](assets/five.png)
 
@@ -80,7 +82,7 @@ ht-degree: 82%
    >
    >サンプルを送信する際に、ランダムな画像が選択されます。
 
-メールを承認すると、予測コンテンツが搭載され、送信の準備が整います。
+メールを承認すると、予測コンテンツが適用され、送信の準備が整います。
 
 >[!CAUTION]
 >

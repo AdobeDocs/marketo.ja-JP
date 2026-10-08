@@ -1,23 +1,26 @@
 ---
 unique-page-id: 14352435
 description: Sales Connectの呼び出しがSalesforceにログに記録されない場合にヘルプを表示します。 接続とアクティビティログの設定に関するトラブルシューティング。
-title: 呼び出しが Salesforce のログに記録されない
+title: 通話が Salesforce にログされない
 exl-id: 99528c1a-7398-442b-81d1-9b5908e35e2f
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/jjTIRKtODlgrMPAoM45wJD2vqFJwfPB56grKn8lRpHY
+TQID: 'https://experienceleague.adobe.com/jjTIRKtODlgrMPAoM45wJD2vqFJwfPB56grKn8lRpHY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 133
+source-wordcount: '133'
 ht-degree: 87%
-
 ---
-
 # 呼び出しが [!DNL Salesforce] のログに記録されない {#calls-arent-logging-to-salesforce}
 
 セールスフォンからの電話を [!DNL Salesforce] のログに自動的に記録する場合は、次の設定を行ってください。

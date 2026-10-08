@@ -3,7 +3,7 @@ description: Dynamic Chatの生成AIが、エージェントの生産性と訪�
 title: Dynamic Chatの生成AI
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-TQID: https://experienceleague.adobe.com/Q5f-5suH6XCiuGhqnyPEu1hjWbtIXBaLOoz5VX7gC6o
+TQID: 'https://experienceleague.adobe.com/Q5f-5suH6XCiuGhqnyPEu1hjWbtIXBaLOoz5VX7gC6o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -12,10 +12,15 @@ feature_v2:
     internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
     internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 14%
@@ -56,13 +61,13 @@ Adobe Dynamic Chatの生成AIを利用すれば、営業担当者の生産性を
 
 ## 回答ライブラリ {#response-library}
 
-[&#x200B; カスタマイズされた質問と回答のコレクション &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)を作成し、すべて事前に承認しておくことで、生成AI チャットキャンペーンで使用できます。
+[ カスタマイズされた質問と回答のコレクション ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)を作成し、すべて事前に承認しておくことで、生成AI チャットキャンペーンで使用できます。
 
 ![](assets/generative-ai-overview-6.png)
 
 ## アクティビティログ {#activity-log}
 
-[すべてのタスク &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)とその付随する詳細（名前、所有者、種類、編集したユーザーと日時など）のリストを表示します。
+[すべてのタスク ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md)とその付随する詳細（名前、所有者、種類、編集したユーザーと日時など）のリストを表示します。
 
 ![](assets/generative-ai-overview-7.png)
 
@@ -80,7 +85,7 @@ Discussed Topicsは、スマートリストのトリガーやフィルターで�
 
 >[!IMPORTANT]
 >
->生成AIを使用する場合、生成AIを組み込んだAdobe Experience Cloud機能が安全かつ責任ある方法で使用されるようにするには、[Adobe Experience Cloud生成AI ユーザーガイドライン &#x200B;](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)に準拠する必要があります。
+>生成AIを使用する場合、生成AIを組み込んだAdobe Experience Cloud機能が安全かつ責任ある方法で使用されるようにするには、[Adobe Experience Cloud生成AI ユーザーガイドライン ](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)に準拠する必要があります。
 
 ## よくある質問 {#faq}
 

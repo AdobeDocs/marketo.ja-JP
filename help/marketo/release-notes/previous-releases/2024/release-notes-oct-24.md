@@ -3,29 +3,40 @@ description: リリースノート - 2024年10月 - Marketo ドキュメント -
 title: リリースノート - 2024年10月
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-TQID: https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk
+TQID: 'https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 575
+source-wordcount: '575'
 ht-degree: 80%
-
 ---
-
 # リリースノート：2024年10月 {#release-notes-oct-24}
 
 以下に、2024年10月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
@@ -38,7 +49,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、リリースは **2024年10月4日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は標準リリースサイクルに該当し、リリースは **2024年10月4日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -84,7 +95,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <ul>
    <li>削除および結合された人物をメールパフォーマンス指標からフィルタリングします。</li>
    <li>応答アクティビティを 3 日間待機した後、メールは<i>中止</i>として分類されるようになりました。</li>
-   <li>メール開封数は、スマートキャンペーンごとに個別にユニーク開封数としてカウントされます</li>
+   <li>メールのユニーク開封は、スマートキャンペーンごとに個別にカウントされます。</li>
    </td>
    <td>リリース</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">メールパフォーマンスレポート</a></td>
@@ -108,12 +119,12 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **一括抽出API アップデート**：一括抽出APIでcolumnHeaderNames オプションに関する問題を修正しました。これにより、書き出されたファイルでカスタム列ヘッダー名を指定できます。 以前は、非ASCII文字を含む列ヘッダー名が破損する可能性がありました。
 
-* **Rest API access_token パラメーターの非推奨化**: Marketo REST API呼び出しの認証に使用される「access_token」クエリパラメーターは非推奨化されており、2026年3月31日以降は使用できなくなります。 すべての新規および既存の統合は、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります [&#x200B; 詳しくは、こちらを参照 &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
+* **Rest API access_token パラメーターの非推奨化**: Marketo REST API呼び出しの認証に使用される「access_token」クエリパラメーターは非推奨化されており、2026年3月31日以降は使用できなくなります。 すべての新規および既存の統合は、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります [ 詳しくは、こちらを参照 ](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication#using-an-access-token)。
 
 * **QR コードの廃止**：2024年10月4日（PT）に、プッシュ通知およびアプリ内メッセージアセットで使用する QR コード機能が廃止される予定です。 これには、新しいテストデバイス用の QR コードの使用や、QR コードを使用した新しいアセットの作成が含まれます。 使用頻度の低い機能を廃止することで、そのリソースを Marketo Engage の全体的なメンテナンスに再割り当てできます。
 
 * **Munchkin の変更**
 
-   * **新しいバージョン**：2024年9月17日（PT）に、[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 では、**管理**／**アイデアスペース**&#x200B;で「Munchkin ベータ版」設定が有効化された Marketo Engage インスタンスへのロールアウトを開始します。 他のすべてのインスタンスへのロールアウトは、10月29日に開始される予定です。 このバージョンでは、Munchkin の Cookie の作成が更新されます。 機能に変更はありません。
+  * **新しいバージョン**：2024年9月17日（PT）に、[Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 では、**管理**／**アイデアスペース**&#x200B;で「Munchkin ベータ版」設定が有効化された Marketo Engage インスタンスへのロールアウトを開始します。 他のすべてのインスタンスへのロールアウトは、10月29日に開始される予定です。 このバージョンでは、Munchkin の Cookie の作成が更新されます。 機能に変更はありません。
 
-   * **URL から文字を削除**：Munchkin JS によって作成された「Web ページを訪問」および「リンクをクリック」アクティビティでは、すべての URL フィールドから URL エンコードされていない制御文字が削除されるようになりました。 この変更は、サポートされていないシステムでこれらのタイプの文字が生成され、Marketo Engage 内で有効に使用されないことに関連するエラーを防ぐために設計されています。
+  * **URL から文字を削除**：Munchkin JS によって作成された「Web ページを訪問」および「リンクをクリック」アクティビティでは、すべての URL フィールドから URL エンコードされていない制御文字が削除されるようになりました。 この変更は、サポートされていないシステムでこれらのタイプの文字が生成され、Marketo Engage 内で有効に使用されないことに関連するエラーを防ぐために設計されています。

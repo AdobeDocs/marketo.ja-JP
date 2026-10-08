@@ -1,22 +1,29 @@
 ---
 unique-page-id: 2359494
 description: メールプログラムで件名のA/B テストを実行する方法を説明します。 様々な件名をテストし、パフォーマンス別に勝者を選択します。
-title: 「件名ライン」A/B テストを使用する
+title: 「件名」を使用した A/B テスト
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/jF6mldDXXbl9YOWTOfwgvxvbh-QmIH6sqnnELOv1lxQ
+TQID: 'https://experienceleague.adobe.com/jF6mldDXXbl9YOWTOfwgvxvbh-QmIH6sqnnELOv1lxQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 255
+source-wordcount: '255'
 ht-degree: 69%
-
 ---
-
-# 「件名ライン」A/B テストを使用する {#use-subject-line-a-b-testing}
+# 「件名」を使用した A/B テスト {#use-subject-line-a-b-testing}
 
 メールの A/B テストはとても簡単に実施できます。 なかでも最も一般的なのが、「**[!UICONTROL 件名ライン]**」テストです。
 
@@ -46,10 +53,10 @@ ht-degree: 69%
 
    >[!CAUTION]
    >
-   >**サンプルサイズを 100% に設定しないことをお勧めします**。 静的リストを使用している場合、サンプルサイズを100%に設定すると、オーディエンス全員にメールが送信され、勝者は誰にも送信されません。 スマートリストを使用している場合、サンプルサイズを100%に設定すると、その時点で&#x200B;_オーディエンス全員にメールが送信されます。_ メールプログラムが後日再実行されると、スマートリストに振り分けられた新しいリードも、オーディエンスに含まれるようになっているのでメールを受け取ります。
+   >**サンプルサイズを 100% に設定しないことをお勧めします**。 静的リストを使用している場合、サンプルサイズを100%に設定すると、オーディエンス全員にメールが送信され、勝者は誰にも送信されません。 スマートリストを使用している場合、サンプルサイズを100%に設定すると、その時点で&#x200B;_オーディエンス全員にメールが送信されます。_ メールプログラムが後日再実行されると、スマートリストの条件を満たした新しい人物も、オーディエンスに含まれるためメールを受け取ります。
 
    >[!NOTE]
    >
-   >それぞれの件名バリエーションの割合は、ここで選択した［テストサンプルサイズ］を等分したものとなります。
+   >それぞれの件名バリエーションの割合は、ここで選択したテストサンプルサイズを均等に分割したものになります。
 
    ここまで来れば、あと一歩です。 続いて、[A/B テストの勝者の条件を定義](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md)する必要があります。

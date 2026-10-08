@@ -4,18 +4,23 @@ description: メールエディターv2.0とその機能について説明しま
 title: メールエディター v2.0 の概要
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM
+TQID: 'https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: 5935e1cef334c7c5fd40864dd2a677b4cb9d46d4
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 479
+source-wordcount: '479'
 ht-degree: 72%
-
 ---
-
 # メールエディター v2.0 の概要 {#email-editor-v2-overview}
 
 クラシックメールエディターの概要。
@@ -44,7 +49,7 @@ ht-degree: 72%
 
 ### テキストバージョン {#text-version}
 
-メールの HTML バージョンとテキストバージョンの切り替えは、下部の便利なタブに表示されます。 [テキストバージョンのメールを編集](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)する方法を説明します。
+メールの HTML バージョンとテキストバージョンの切り替えは、画面下部の便利なタブで行えるようになりました。 [テキストバージョンのメールを編集](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md)する方法を説明します。
 
 ![](assets/email-editor-v2-overview-4.png)
 
@@ -60,11 +65,11 @@ ht-degree: 72%
 
 ### メールをプレビュー {#preview-your-email}
 
-デフォルトでは、メールにはデスクトップ（ハイライトされた青いアイコン）で表示される状態が示されます。 その右にあるアイコンをクリックすると...
+デフォルトでは、ハイライトされた青いアイコンが示すように、メールはデスクトップでの表示状態で表示されます。 その右にあるアイコンをクリックすると...
 
 ![](assets/email-editor-v2-overview-7.png)
 
-...モバイルデバイスでのメールのレンダリング状態が表示されます。
+...モバイルデバイスでどのように表示されるかを確認できます。
 
 ![](assets/email-editor-v2-overview-8.png)
 
@@ -82,7 +87,7 @@ ht-degree: 72%
 
 ## メールアクション {#email-actions}
 
-「**[!UICONTROL メールアクション]**」にも、新しい機能があります。 「**[!UICONTROL 画像またはファイルのアップロード]**」と「**[!UICONTROL Web から画像を取得]**」です。 メール自体を新しいメールテンプレートとして保存することもできます。 名前と説明を指定するだけです。
+「**[!UICONTROL メールアクション]**」にも、新しい機能があります。 「**[!UICONTROL 画像またはファイルのアップロード]**」と「**[!UICONTROL Web から画像を取得]**」です。 メール自体を新しいメールテンプレートとして保存することもできます。 名前と宛先を指定するだけです。
 
 ![](assets/email-editor-v2-overview-12.png)
 

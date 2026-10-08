@@ -4,20 +4,26 @@ description: 信頼できないソースからリストをインポートする�
 title: 信頼できないソースからのリストインポート中に、フィールドの更新をブロック
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-TQID: https://experienceleague.adobe.com/cT1pOoWjR-UdHLqNJwhwgR9R12ciIa95q1xHPTf7rBY
+TQID: 'https://experienceleague.adobe.com/cT1pOoWjR-UdHLqNJwhwgR9R12ciIa95q1xHPTf7rBY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 205
+source-wordcount: '205'
 ht-degree: 76%
-
 ---
-
 # 信頼できないソースからのリストインポート中に、フィールドの更新をブロック {#block-field-updates-during-list-import-from-untrusted-sources}
 
 一部のリストのデータは、他のリストよりも信頼できます。 疑わしいデータがあり、フィールドが空白の場合はデータを受け入れたいが、既存の値がある場合は受け入れない場合があります。 これは、キーフィールドのフィールド更新をブロックすることで実現できます。

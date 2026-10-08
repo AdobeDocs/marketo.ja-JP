@@ -5,37 +5,49 @@ description: メールDesignerとそのドラッグ&ドロップエディター�
 title: 概要
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-TQID: https://experienceleague.adobe.com/cw1syg5OvYwuB1v-MnQEmW7NB5-A5TnkBn-bnxEzFgw
+TQID: 'https://experienceleague.adobe.com/cw1syg5OvYwuB1v-MnQEmW7NB5-A5TnkBn-bnxEzFgw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 682
+source-wordcount: '682'
 ht-degree: 89%
-
 ---
-
 # メールデザイナーの概要 {#overview}
 
-新しい Adobe Marketo Engage メールデザイナーへようこそ。
+新しい Adobe Marketo Engage E メールデザイナーへようこそ。
 
 メールデザイナーは、Marketo Engage の最新のイノベーションです。視覚的なドラッグ＆ドロップエディターと標準テンプレートを提供することで、生産性と効率性を向上させるために改良されたメールとメールテンプレートの作成エクスペリエンスを実現します。 ベンダーに費用をかけずに、カスタマイズされたメールテンプレートを簡単に作成できます。
 
 ## アクセス方法 {#how-to-access}
 
-+++メールデザイナーへのアクセス方法の詳細情報
++++E メールデザイナーへのアクセス方法を確認します。
 
 新しいメールデザイナーにアクセスするには、Marketo Engage サブスクリプションを [Adobe Identity Management システム（IMS）](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)に移行する必要があります。 まだ移行しておらず、迅速な対応をリクエストする場合は、アドビのアカウントチーム（担当のアカウントマネージャー）または [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。
 
@@ -83,7 +95,7 @@ ht-degree: 89%
 
 **新しいメールデザイナーのメールは、どのプログラムで使用できますか？**
 
-新しいメールデザイナーのメールは、すべてのプログラムをまたいでアクセスできます（唯一の例外はインタラクティブウェビナープログラムです）。 クローン作成も使用できます。
+新しい E メールデザイナーで作成したメールは、すべてのプログラムで利用できます（唯一の例外はインタラクティブウェビナープログラムです）。 クローン作成も使用できます。
 
 **既存のメールテンプレートは新しいデザイナーで機能しますか？**
 
@@ -107,7 +119,7 @@ WYSIWYGのエディターは、より詳細にカスタマイズできます。
 
 **新しいデザイナーでは、メールテンプレートの作成プロセスはどのように機能しますか？ これは WYSIWYG ですか？または HTML の知識が必要ですか？**
 
-これは WYSIWYG です。HTML の知識は必要ありません。 デザイナーでテンプレートを簡単に作成できるので、外部の web 開発者の必要性が軽減されます。 ただし、CSS を更新し、HTML 経由で個々のセクションを編集するオプションは引き続きあります。
+これは WYSIWYG です。HTML の知識は必要ありません。 E メールデザイナーでテンプレートを簡単に作成できるので、外部の web 開発者の必要性が軽減されます。 ただし、CSS を更新し、HTML 経由で個々のセクションを編集するオプションは引き続きあります。
 
 **新しいメールデザイナーは、AMP 言語をサポートしていますか？**
 

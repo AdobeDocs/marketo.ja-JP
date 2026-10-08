@@ -3,16 +3,22 @@ description: Marketo Engage sync用Veeva CRM ユーザーの作成方法を説�
 title: 手順 2／3 - Marketo Engage 用の Veeva CRM ユーザの作成
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
+TQID: 'https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
     internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 7480399d10794264471d53430c733147060664e0
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '636'
 ht-degree: 86%
@@ -111,9 +117,9 @@ ht-degree: 86%
 
    >[!TIP]
    >
-   >「[!UICONTROL &#x200B; パスワードが期限切れになりません]」ボックスにチェックを入れます。
+   >「[!UICONTROL  パスワードが期限切れになりません]」ボックスにチェックを入れます。
 
-1. 「[!UICONTROL 一般ユーザー権限]」セクションで、「[!UICONTROL &#x200B; イベントの編集]」と「[!UICONTROL &#x200B; タスクの編集]」が選択されていることを確認します。
+1. 「[!UICONTROL 一般ユーザー権限]」セクションで、「[!UICONTROL  イベントの編集]」と「[!UICONTROL  タスクの編集]」が選択されていることを確認します。
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 

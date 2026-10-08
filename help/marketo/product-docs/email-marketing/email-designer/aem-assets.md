@@ -4,25 +4,35 @@ description: Marketo Engageの電子メールでAEM Assets画像を使用する�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-TQID: https://experienceleague.adobe.com/kCDv70SM0B5fZjQ9-FTlVYZGkVbAbpJ1qmRm-YXOJf8
+TQID: 'https://experienceleague.adobe.com/kCDv70SM0B5fZjQ9-FTlVYZGkVbAbpJ1qmRm-YXOJf8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: da3860b0-d637-47df-bef0-273751180266
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Digital asset management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1011
+source-wordcount: '1011'
 ht-degree: 7%
-
 ---
-
 # Experience Manager アセットの操作 {#work-with-experience-manager-assets}
 
 Adobe Experience Manager Assets を使用して、マーケティングとクリエイティブのワークフローを統合します。 Marketo Engageとネイティブに統合されているため、_Assets as a Cloud Service_&#x200B;に簡単にアクセスして、デジタルアセットを検索して使用し、メッセージに入力できます。
@@ -35,7 +45,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;は、効率的な�
 
 >[!NOTE]
 >
->現在、_Adobe Experience Manager Assets_&#x200B;の画像アセットのみがMarketo Engageでサポートされています。 アセットの変更は、Adobe Experience Manager Assetsの中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>現在、_Adobe Experience Manager Assets_&#x200B;の画像アセットのみがMarketo Engageでサポートされています。 アセットの変更は、Adobe Experience Manager Assetsの中央リポジトリから行う必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## AEM Cloud Servicesへのリンク {#link-to-your-aem-cloud-services}
 
@@ -53,25 +63,25 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;は、効率的な�
 
 1. _Adobe Experience Manager Cloud Services_&#x200B;の横にある&#x200B;**Edit**&#x200B;をクリックします。
 
-   ![編集をクリック &#x200B;](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
+   ![編集をクリック ](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
 
 1. 1つ以上のリポジトリを選択します。
 
-   ![&#x200B; リポジトリを選択](assets/access-the-ai-assistant-content-accelerator-3.png){width="800" zoomable="yes"}
+   ![ リポジトリを選択](assets/access-the-ai-assistant-content-accelerator-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
    >* Marketo Engage サブスクリプションと同じIMS組織に関連付けられているリポジトリのみが一覧表示されます。
    >
-   >* Marketo Engageは、配信層のリポジトリのみをサポートします。 オーサー層を使用しており、それを変換する場合は、[Adobe Experience Manager サポート &#x200B;](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-manager/content/overview/help-resources)にお問い合わせください。
+   >* Marketo Engageは、配信層のリポジトリのみをサポートします。 オーサー層を使用しており、それを変換する場合は、[Adobe Experience Manager サポート ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources)にお問い合わせください。
 
-1. リポジトリを設定するには、[&#x200B; サービス資格情報の証明書](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)を追加する必要があります。 「**+証明書を追加**」ボタンをクリックします。
+1. リポジトリを設定するには、[ サービス資格情報の証明書](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)を追加する必要があります。 「**+証明書を追加**」ボタンをクリックします。
 
    ![証明書を追加](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}
 
 1. 証明書（JSON ファイルのみ）をドラッグ&amp;ドロップするか、コンピューターから選択します。 終了したら「**追加**」をクリックします。
 
-   ![&#x200B; コンピューター上の証明書を探します](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
+   ![ コンピューター上の証明書を探します](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
 
 1. 設定されたリポジトリが、ステータスと有効期限とともに以下に表示されます。 省略記号ボタン （**...**）をクリックします 証明書を表示します。 それ以外の場合は完了です。
 
@@ -101,7 +111,7 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;は、効率的な�
 
 >[!IMPORTANT]
 >
->管理者は、アセットへのアクセスが必要なユーザーをAssets コンシューマーユーザーやAssets ユーザーの製品プロファイルに追加する必要があります。 [詳細情報](https://experienceleague.adobe.com/ja/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>管理者は、アセットへのアクセスが必要なユーザーをAssets コンシューマーユーザーやAssets ユーザーの製品プロファイルに追加する必要があります。 [詳細情報](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 ビジュアルコンテンツエディターで、左側のサイドバーにある&#x200B;_Experience Manager Asset セレクター_ アイコンをクリックします。 これにより、ツールパネルが、選択したリポジトリ内の使用可能なアセットのリストに変更されます。
 
@@ -143,4 +153,4 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;は、効率的な�
 
 * 検索フィールドにテキストを入力して、アセット名に一致するアセットの表示アイテムをフィルタリングします。
 
-![&#x200B; フィルターと検索フィールドを使用してアセットを検索](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
+![ フィルターと検索フィールドを使用してアセットを検索](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}

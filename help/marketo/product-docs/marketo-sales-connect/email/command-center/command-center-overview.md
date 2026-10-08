@@ -4,19 +4,21 @@ description: セールスコネクトのコマンドセンターについて説�
 title: コマンドセンターの概要
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E
+TQID: 'https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 595
+source-wordcount: '595'
 ht-degree: 88%
-
 ---
-
 # コマンドセンターの概要 {#command-center-overview}
 
-コメンドセンターは単一の統合ビューで、何も抜け落ちがないように確認しながら、次のステップを考え出すのに役立ちます。
+コマンドセンターは単一の統合ビューで、何も抜け落ちがないようにしながら次のステップを判断するのに役立ちます。
 
 ## メールの管理 {#manage-emails}
 
@@ -46,7 +48,7 @@ ht-degree: 88%
   <tr>
    <td title="背景色：青"><br></td>
    <td title="背景色：青">[!UICONTROL アーカイブ済み]</td>
-   <td title="背景色：青">メールのトラッキングを無効にするためにユーザがアーカイブしたメール。</td>
+   <td title="背景色：青">メールのトラッキングを無効にするためにユーザーがアーカイブしたメール。</td>
   </tr>
   <tr>
    <td title="背景色：グレー"><strong title="">保留中</strong></td>
@@ -61,7 +63,7 @@ ht-degree: 88%
   <tr>
    <td title="背景色：グレー"><br></td>
    <td title="背景色：グレー">[!UICONTROL 進行中]</td>
-   <td title="背景色：グレー">これは、送信モーション中にメールが処理される中間の状態を示します。 メールが処理中であるのは、わずかの間です。</td>
+   <td title="背景色：グレー">これは、メールが送信処理中にあるときの中間的な状態です。 メールが「処理中」になるのは、通常ごく短時間だけです。</td>
   </tr>
   <tr>
    <td title="背景色：青"><strong title="">未配信</strong></td>
@@ -71,7 +73,7 @@ ht-degree: 88%
   <tr>
    <td title="背景色：青"><br></td>
    <td title="背景色：青">[!UICONTROL バウンス済み]</td>
-   <td title="背景色：青"><p>受信者のメールサーバーから拒否されたメール。 <br><strong>注意：</strong>これは、従来の ToutApp ユーザーで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</p></td>
+   <td title="背景色：青"><p>受信者のメールサーバーから却下されたメール。 <br><strong>注意：</strong>これは、従来の ToutApp ユーザーで、配信チャネルとして MSC サーバーにアクセスできる場合にのみ検出されます。</p></td>
   </tr>
   <tr>
    <td title="背景色：青"><br></td>
@@ -83,15 +85,15 @@ ht-degree: 88%
 
 ## タスクの管理 {#manage-tasks}
 
-タスクセクションでは、タスクの管理と完了をすべて行うことができます。 タスクをシームレスに管理し、生産性を高め、最も関連性の高い項目に集中できます。
+タスクセクションは、タスクの管理と完了を一括して行える場所です。 タスクをシームレスに管理し、生産性を高め、最も関連性の高い項目に集中できます。
 
 ![](assets/command-center-overview-2.png)
 
-## エンゲージした見込客のフォローアップ {#follow-up-with-engaged-prospects}
+## エンゲージした見込み客のフォローアップ {#follow-up-with-engaged-prospects}
 
-作成ウィンドウまたはキャンペーンを使用して見込客のエンゲージメントを開始したら、詳細検索機能を使用して、最もエンゲージメントの高い見込客の再ターゲティングを開始できます。
+作成ウィンドウまたはキャンペーンを使用して見込み客とのエンゲージメントを開始したら、詳細検索機能を使用して、最もエンゲージメントの高い見込み客を再度ターゲティングできます。
 
-例えば、MSC のキャンペーンに 100 人を追加する場合、メールを閲覧してクリックしたが、返信しなかった人を再度ターゲティングしたいと考えるでしょう。 そのためには、表示およびクリックステータス[!UICONTROL アクティビティ]フィルターと共にキャンペーンフィルターを利用して、再度ターゲティングする人物のリストを特定します。
+例えば、MSC のキャンペーンに 100 人を追加する場合、メールを閲覧してクリックしたが返信しなかった人を再度ターゲティングしたいと考えるでしょう。 そのためには、表示およびクリックステータス[!UICONTROL アクティビティ]フィルターと共にキャンペーンフィルターを利用して、再度ターゲティングする人物のリストを特定します。
 
 ボーナス：詳細検索を保存すると、動的リストとして機能し、受信者がメールを表示またはクリックすると、エンゲージメント条件を満たすメールが追加されます。
 

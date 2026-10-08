@@ -3,24 +3,31 @@ description: 新しいMarketo Engage インスタンスの設定を文書化し�
 title: 新しいインスタンスのベストプラクティス – 設定のドキュメント化
 feature: Getting Started
 exl-id: c64d25e8-564b-487d-824e-7fcbfbf5d8bb
-TQID: https://experienceleague.adobe.com/pqbf84tAUt49rWUD7rONRuZNgR8v5yMmYTqwqlXqgAs
+TQID: 'https://experienceleague.adobe.com/pqbf84tAUt49rWUD7rONRuZNgR8v5yMmYTqwqlXqgAs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 536
+source-wordcount: '536'
 ht-degree: 57%
-
 ---
-
 # 新しいインスタンスのベストプラクティス：設定のドキュメント化 {#new-instance-best-practices-document-your-setup}
 
 新しいMarketo Engage インスタンスを設定するための主な製品領域を理解したら、次のステップは、インスタンス設定とテクノロジースタックのドキュメントを作成することです。 スプレッドシートやプロジェクト管理アプリケーションなど、ドキュメントは、進捗状況や記録の詳細を追跡し、インスタンスを構造化し、組織内の将来のマーケターのために持続可能な状態に保つための優れたリソースです。
@@ -37,7 +44,7 @@ ht-degree: 57%
 <tbody>
   <tr>
     <td>リストの読み込み</td>
-    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">Marketo Engage に読み込む</a>レコードの取得元となるデータソースのリストを収集します。</li>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">Marketo Engage に読み込む</a>レコードの取得元となるデータソースのリストを収集します。</li>
     <li>複数のデータソースから読み込む場合は、マスターリストを使用するか、個人レコードに<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank"> カスタムフィールドを作成して</a> データソースを示すことを検討してください。</li></td>
   </tr>
   <tr>
@@ -70,7 +77,7 @@ ht-degree: 57%
     <li>最新のログイン日</li></ul>
     <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：この機能を拡張して、役割や権限に関するドキュメントを追加することもできます。
     <p>
-    <li>Marketo Engage 製品管理者は、Marketo Engage ユーザリストを定期的に監査および更新する社内プロセスを開発します。 Adobe Admin Consoleのユーザーリストに変更を加えるには、.CSVのアップロード、User Management REST APIの使用など、<a href="https://helpx.adobe.com/jp/enterprise/using/users.html" target="_blank">一括アクション </a>を検討します。</li></td>
+    <li>Marketo Engage 製品管理者は、Marketo Engage ユーザーリストを定期的に監査および更新するための社内プロセスを策定してください。 Adobe Admin Consoleのユーザーリストに変更を加えるには、.CSVのアップロード、User Management REST APIの使用など、<a href="https://helpx.adobe.com/jp/enterprise/using/users.html" target="_blank">一括アクション </a>を検討します。</li></td>
   </tr>
   <tr>
     <td>組織</td>
@@ -82,7 +89,7 @@ ht-degree: 57%
   </tr>
   <tr>
     <td>プレイブック</td>
-    <td><li>インスタンスにオンボーディングする社内ユーザ用のユーザプレイブックまたは管理者プレイブックを作成します。</li></td>
+    <td><li>インスタンスにオンボーディングする社内ユーザー向けに、ユーザープレイブックまたは管理者プレイブックを作成します。</li></td>
   </tr>
   <tr>
     <td>社内チームとの対話</td>
@@ -91,9 +98,9 @@ ht-degree: 57%
   </tr>
   <tr>
     <td>ワークスペースとパーティション（該当する場合）</td>
-    <td><li>ワークスペースの定義方法と、データベースパーティションへの関連付け（つまり、すべてのユーザとビジネスセクターとの比較が表示されるグローバルワークスペース）をドキュメント化します。</li>
+    <td><li>ワークスペースの定義方法と、それがデータベースパーティションとどのように関連しているかをドキュメント化します（例：すべてのユーザを表示するグローバルワークスペースと、ビジネスセクターごとのワークスペースなど）。</li>
     <li>適切なパーティションに新しいレコードを読み込みます。</li>
-    <li>適切なパーティションにユーザを配置する値を CRM で定義します。</li></td>
+    <li>適切なパーティションにユーザを割り当てるための値を、CRM 内で定義します。</li></td>
   </tr>
 </tbody>
 </table>

@@ -3,7 +3,10 @@ description: コピープログラムは、既存のMarketo プログラムを�
 title: コピープログラム
 badge: ベータ版
 hide: true
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 1%
@@ -31,7 +34,7 @@ ht-degree: 1%
 1. Marketo Engage用CX Enterprise Coworkerでは、ソースプログラム、保存先フォルダー、新しい名前が確認されます。 確認して確認。
 1. クローンが作成されます。 CX Enterprise Coworker for Marketo Engageは、完了を確認し、どこで見つけるかを指示します。
 1. Marketoで新しいプログラムを開き、メールの内容、日付、オーディエンスフィルター、トークンなど、異なる内容を更新します。
-1. アクティブ化する前に、[&#x200B; プログラム QA](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md) エージェントを実行します。
+1. アクティブ化する前に、[ プログラム QA](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md) エージェントを実行します。
 
 ## ユースケース {#use-cases}
 

@@ -1,16 +1,22 @@
 ---
 unique-page-id: 7504923
-description: Marketo Engageのmanager アカウントを使用して、収益モデルで[ !dnl google adwords] コンバージョンを設定する方法について説明します。 このガイドを使用して、次のステップを完了してください。
-title: マネージャーアカウントを使用した収益モデルでの  [!DNL Google AdWords]  コンバージョンの設定
+description: Marketo Engageのマネージャーアカウントを使用して、収益モデルで[!dnl google adwords] コンバージョンを設定する方法について説明します。 このガイドを使用して、次のステップを完了してください。
+title: マネージャーアカウントを使用した収益モデルでの [!DNL Google AdWords] コンバージョンの設定
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '425'
 ht-degree: 93%
-
 ---
-
 # マネージャーアカウントを使用した収益モデルでの [!DNL Google AdWords] コンバージョンの設定 {#set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account}
 
 [!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。 [!DNL AdWords] に[カスタム列を追加](https://support.google.com/adwords/answer/3073556)した後、[!DNL AdWords] UI を使って、どのクリックが適格なリード、商談、新規顧客（またはトラックする収益ステージ）につながったかを簡単に確認できるようになります。

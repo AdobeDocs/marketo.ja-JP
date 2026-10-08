@@ -4,29 +4,31 @@ description: セールスコネクト分析ページとメールエンゲージ�
 title: 分析ページの概要
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/4OI9sdjmBSDprhWlcIuv1xyv5icTu1hOwOMMTebs8gY
+TQID: 'https://experienceleague.adobe.com/4OI9sdjmBSDprhWlcIuv1xyv5icTu1hOwOMMTebs8gY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 397
+source-wordcount: '397'
 ht-degree: 94%
-
 ---
-
 # [!UICONTROL 分析]ページの概要 {#analytics-page-overview}
 
-「[!UICONTROL 分析]」タブでは、メールのエンゲージメントに関するデータを確認できます。 個人データとチームデータの両方が表示されます。 管理者は、「[!UICONTROL 自分]」タブでユーザによるフィルタリングも行うことができます。
+「[!UICONTROL 分析]」タブでは、メールのエンゲージメントに関するデータを確認できます。 個人データとチームデータの両方が表示されます。 管理者は、「[!UICONTROL 自分]」タブでユーザーによるフィルタリングも行うことができます。
 
-## 更新の頻度 {#how-often-does-it-update}
+## どのくらいの頻度で更新されますか？ {#how-often-does-it-update}
 
 分析ページは 10 分ごとに更新されます。
 
 ## 数値の意味 {#what-do-the-numbers-mean}
 
-放射状グラフの数値は、送信済みメール総数に対するイベントの総数を計算したものです。 同じ単一メールが 5 回参照された場合は、送信数「1」に参照数「5」が加算されます。 円グラフの中のクリック数や返信数についても同じ方法で計算されます。
+放射状グラフの数値は、送信済みメール総数に対するイベントの総数を計算したものです。 同じメールが 5 回表示された場合は、この数値に表示数「5」が加算されます。 円グラフの中のクリック数や返信数についても同じ方法で計算されます。
 
 テーブルに表示されたすべての統計は、メールに対する一意の参照数、クリック数、返信数を参照して計算されます。 1 件のメールが 5 回表示された場合、1 件の表示としてカウントされます。 そのため、テーブルの数値と放射状グラフの数値に大きな違いが見られる場合があります。
 
@@ -36,15 +38,15 @@ ht-degree: 94%
 
 分析ページのタブからタブに移動する際に、表示、クリックまたは返信アイコンをクリックして、統計を並べ替えることができます。
 
-「[!UICONTROL 自分]」タブと「[!UICONTROL チーム]」タブには、クローズした取引に関する情報が表示されます。 この数は、チームのメンバーがクローズする回数によって制御されます。
+「[!UICONTROL 自分]」タブと「[!UICONTROL チーム]」タブには、クローズした取引に関する情報が表示されます。 この数値は、チームメンバーがゴングを鳴らした回数によって決まります。
 
 ## 「[!UICONTROL 自分]」タブ {#me-tab}
 
-「[!UICONTROL 自分]」タブは、メール、テンプレート、リンクのエンゲージメントを確認するのに最適です。 [!DNL Sales Connect] の管理者は、チーム上の任意のユーザ別にフィルタリングして統計を確認できます。
+「[!UICONTROL 自分]」タブは、メール、テンプレート、リンクのエンゲージメントを確認するのに最適です。 [!DNL Sales Connect] の管理者は、チーム上の任意のユーザー別にフィルタリングして統計を確認できます。
 
 ## 「[!UICONTROL チーム]」タブ {#team-tab}
 
-チーム全体の統計とランク付けが表示されます。 また、作成した任意のサブチームでフィルタリングすることもできます。
+チーム全体の統計とランキングが表示されます。 また、作成した任意のサブチームでフィルターすることもできます。
 
 ## 「[!UICONTROL コンテンツ]」タブ {#content-tab}
 

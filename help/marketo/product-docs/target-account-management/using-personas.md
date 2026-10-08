@@ -4,19 +4,26 @@ description: ペルソナを使用してABM オーディエンスをセグメン
 title: ペルソナの使用
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-TQID: https://experienceleague.adobe.com/RRkO7yEFUgpggS2n6Ly0B7I7IjY5ATFhAYx93xbIP6w
+TQID: 'https://experienceleague.adobe.com/RRkO7yEFUgpggS2n6Ly0B7I7IjY5ATFhAYx93xbIP6w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+subfeature_v2:
+  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 212
+source-wordcount: '212'
 ht-degree: 87%
-
 ---
-
 # ペルソナの使用 {#using-personas}
 
 ペルソナは、ABM のオーディエンスをセグメント化し、特定のユーザーのサブセットにマーケティングする優れた方法です。
@@ -37,19 +44,19 @@ ht-degree: 87%
 
    >[!NOTE]
    >
-   >役職ペルソナは、デフォルトで含まれています。 変更や削除はできません。
+   >「役職」ペルソナは、デフォルトで含まれています。 変更や削除はできません。
 
 1. ペルソナを追加するには、「**[!UICONTROL +追加]**」をクリックします。
 
    ![](assets/four.png)
 
-1. ペルソナに名前を付け、ドロップダウンで対応するフィールドを選択します。 追加できるペルソナは最大 2 人です。 終了したら「**[!UICONTROL 保存]**」をクリックします。
+1. ペルソナに名前を付け、ドロップダウンで対応するフィールドを選択します。 追加できるペルソナは最大 2 つです。 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >ペルソナを作成する際に、ペルソナフィールドドロップダウンで使用できるのは、Marketo インスタンスと同期されたタイプ「picklist」の Salesforce カスタムフィールドのみです。
+   >ペルソナを作成する際に、ペルソナフィールドのドロップダウンで使用できるのは、Marketo インスタンスと同期された、型が「picklist」の Salesforce カスタムフィールドのみです。
 
 ## ペルソナを表示する {#view-your-personas}
 
@@ -63,7 +70,7 @@ ht-degree: 87%
 
    ![](assets/two-a.png)
 
-1. ペルソナがすべて表示されます。 リードのリストを表示するには、数字をクリックします。
+1. ペルソナがすべて表示されます。 人数をクリックすると、その人たちのリストが表示されます。
 
    ![](assets/three-a.png)
 
@@ -73,6 +80,6 @@ ht-degree: 87%
 
 ## ペルソナフィルター {#persona-filters}
 
-1. スマートリストでペルソナフィルターを使用して、特定のリードのグループに対してマーケティングをおこないます。
+1. スマートリストでペルソナフィルターを使用して、特定の人のグループに対してマーケティングを行います。
 
 ![](assets/one-b.png)

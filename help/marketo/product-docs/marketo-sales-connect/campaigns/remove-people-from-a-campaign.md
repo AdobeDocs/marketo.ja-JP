@@ -1,20 +1,22 @@
 ---
 unique-page-id: 14352608
 description: セールスコネクトキャンペーンからユーザーを削除する方法を説明します。 キャンペーンまたは人物ページから個人を削除するか、グループを一括削除します。
-title: キャンペーンからリードを削除する
+title: キャンペーンからの人物の削除
 exl-id: 700bf1eb-2e8d-46e6-9f93-704708b57543
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ztlUTzx-jSFplSRg9FyEWFID4RIdEHZh6J-I6DXhte4
+TQID: 'https://experienceleague.adobe.com/ztlUTzx-jSFplSRg9FyEWFID4RIdEHZh6J-I6DXhte4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 286
+source-wordcount: '286'
 ht-degree: 91%
-
 ---
-
-# キャンペーンからリードを削除する {#remove-people-from-a-campaign}
+# キャンペーンからの人物の削除 {#remove-people-from-a-campaign}
 
 受信者が返信したら、キャンペーンを自動的に終了できます。 また、キャンペーンをその受信者に対して「成功」とマークするように選択できます。
 
@@ -22,7 +24,7 @@ ht-degree: 91%
 
 さらに、キャンペーン自体から人物を削除したり、人物ページ内のキャンペーンから人物を削除したり、人物のグループ全体を削除したりできます。 以下の 3 つの方法すべてを見てみましょう。
 
-## キャンペーンから直接リードを削除する {#remove-a-person-directly-from-a-campaign}
+## キャンペーンから人物を直接削除する {#remove-a-person-directly-from-a-campaign}
 
 1. [!DNL Sales Connect] で、「**[!UICONTROL キャンペーン]**」タブをクリックします。
 
@@ -44,7 +46,7 @@ ht-degree: 91%
 
    ![](assets/five.png)
 
-## 人物ページ内のキャンペーンからリードを削除する {#remove-a-person-from-a-campaign-within-the-people-page}
+## 人物ページ内のキャンペーンから人物を削除する {#remove-a-person-from-a-campaign-within-the-people-page}
 
 1. [!DNL Sales Connect] で、「**[!UICONTROL 人物]**」タブをクリックします。
 
@@ -68,7 +70,7 @@ ht-degree: 91%
 
    ![](assets/two-b.png)
 
-1. 削除する人物を選択します。
+1. 削除する人物を選択する。
 
    ![](assets/three-b.png)
 

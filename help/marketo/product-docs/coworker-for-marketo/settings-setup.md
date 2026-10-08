@@ -1,20 +1,21 @@
 ---
 description: Marketo Engage権限に対して共同作業者を有効にする方法、組織ルールの設定方法、統合機能や通知などの管理方法について説明します。
 title: 設定と設定
-source-git-commit: 01cad5c7d14083c0ef7127850f2488dbfd71f57b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '585'
 ht-degree: 4%
-
 ---
-
 # 設定と設定 {#settings-setup}
 
 権限を有効にし、設定エリアを使用して接続の詳細を表示し、組織ルールを定義し、統合と通知を設定する方法を説明します。
 
 >[!AVAILABILITY]
 >
->この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にCoworker for Marketo Engage タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
+>この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にCoworker for Marketo Engage タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[ コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 ## 権限と役割 {#permission-and-role}
 
@@ -75,7 +76,7 @@ Marketo Engage用の&#x200B;_アクセス共同作業者_&#x200B;権限とMarket
 
 ### カスタム役割 {#custom-role}
 
-また、[新しいロール &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して、その権限をカスタマイズし、Marketo Engage _の_ Access Coworkerを他の任意のロールと共に追加し、そのロール [&#128279;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てることもできます。
+また、[新しいロール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して、その権限をカスタマイズし、Marketo Engage _の_ Access Coworkerを他の任意のロールと共に追加し、そのロール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てる[こともできます。
 
 ## 設定 {#settings}
 

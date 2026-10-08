@@ -6,24 +6,33 @@ description: 他のユーザーが編集できないように、メールテン�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-TQID: https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo
+TQID: 'https://experienceleague.adobe.com/riZ-B0-N9bYRCi6gu8ajpskmwcNri6YHnSjbe1xrIJo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Governance
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 909
+source-wordcount: '909'
 ht-degree: 76%
-
 ---
-
 # メールテンプレート内のコンテンツをロック {#lock-content-email-templates}
 
 Marketo Engageでは、テンプレート全体または特定の構造/コンポーネントをロックすることで、メールテンプレート内のコンテンツをロックできます。 これにより、意図しない編集や削除を防ぎ、テンプレートのカスタマイズをより細かく制御して、メールキャンペーンの効率と信頼性を向上させることができます。
@@ -36,21 +45,21 @@ Marketo Engageでは、テンプレート全体または特定の構造/コン�
 
 * 構造がロックされている場合：
 
-   * 構造内のあらゆるコンテンツもロックされます。
-   * 構造にコンテンツを追加することはできません。
-   * デフォルトでは、構造を削除できません。 「削除を許可」オプションを有効にすることで、この制限を上書きできます。
-   * ロックされた構造内の個々のコンテンツコンポーネントは、編集可能として設定できます。
+  * 構造内のあらゆるコンテンツもロックされます。
+  * 構造にコンテンツを追加することはできません。
+  * デフォルトでは、構造を削除できません。 「削除を許可」オプションを有効にすることで、この制限を解除できます。
+  * ロックした構造内の個々のコンテンツコンポーネントを編集可能として設定できます。
 
 * 構造が編集可能である場合（構造がロックされていない場合）：
 
-   * 個々のコンテンツコンポーネントは、その構造内でロックできます。
-   * デフォルトでは、コンポーネントがロックされている場合、または「編集可能なコンテンツロックのみ」が選択されている場合は、コンポーネントを削除できません。 「削除を許可」オプションを有効にすることで、この制限を上書きできます。
+  * 個々のコンテンツコンポーネントをその構造内でロックできます。
+  * デフォルトでは、コンポーネントがロックされている場合、または「編集可能なコンテンツロックのみ」が選択されている場合は、コンポーネントを削除できません。 「削除を許可」オプションを有効にすることで、この制限を上書きできます。
 
 ## メールテンプレートのロック {#lock-an-email-template}
 
 ### コンテンツのロックを有効にする {#enable-content-locking}
 
-新しいテンプレートの作成中または既存のテンプレートの編集中に、E メールデザイナーでメールテンプレートのコンテンツのロックを直接有効にできます。
+新しいテンプレートの作成時でも既存のテンプレートの編集時でも、メールテンプレートのコンテンツロックは E メールデザイナー内で直接有効にできます。
 
 1. メールテンプレートを開くか作成し、E メールデザイナーのコンテンツ編集画面にアクセスします。
 

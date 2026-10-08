@@ -3,16 +3,18 @@ description: Sales Connectでリマインダータスクを作成して割り当
 title: リマインダータスクの作成と割り当て
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/VrxKfa2gNANSUxw5nfENMSJpqgwgWx6AdUcWiuNeEjs
+TQID: 'https://experienceleague.adobe.com/VrxKfa2gNANSUxw5nfENMSJpqgwgWx6AdUcWiuNeEjs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 155
+source-wordcount: '155'
 ht-degree: 79%
-
 ---
-
 # リマインダータスクの作成と割り当て {#create-and-assign-reminder-tasks}
 
 リマインダータスクは、顧客や見込み客のエンゲージメントに最適な方法です。 タスクを作成するには、次の手順に従います。
@@ -33,7 +35,7 @@ ht-degree: 79%
 
    ![](assets/create-and-assign-reminder-tasks-4.png)
 
-1. タスクの割り当て先を自分自身のままにするか、タスクの割り当て先となる別のユーザを選択するかを選択します。
+1. タスクの割り当て先を自分自身のままにするか、タスクの割り当て先となる別のユーザーを選択します。
 
    ![](assets/create-and-assign-reminder-tasks-5.png)
 
@@ -49,6 +51,6 @@ ht-degree: 79%
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. 通話メモ、InMail メッセージテンプレート、ユーザに関するメモなど、タスクの完了時に利用できるタスクの詳細を追加します。 終了したら、「**[!UICONTROL 作成]**」をクリックします。
+1. 通話メモ、InMail メッセージテンプレート、フォローアップ対象者に関するメモなど、タスクを完了するときに参照したいタスクの詳細を追加します。 完了したら「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

@@ -4,22 +4,28 @@ description: アトリビューションとは何か、アトリビューショ�
 title: アトリビューションについて
 exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 90%
-
 ---
-
 # アトリビューションについて {#understanding-attribution}
 
 ## アトリビューションとは {#what-is-attribution}
 
-アトリビューションとは、Marketo がセールスや商談に影響を与えるのに役立つプログラムにクレジットを与える方法です。 Marketo モデラーを使用する場合、アトリビューションは、ビジネスモデル内の他のユーザーを前進させたクレジットも与えます。
+アトリビューションとは、Marketo がセールスや商談に影響を与えるのに役立つプログラムにクレジットを与える方法です。 Marketo モデラーを使用する場合、アトリビューションによって、ビジネスモデルの中で見込み客を次の段階へ前進させたことに対してもクレジットを与えることができます。
 
-## アトリビューションをトラックする理由 {#why-keep-track-of-this}
+## アトリビューションを把握しておく理由 {#why-keep-track-of-this}
 
-アトリビューションは、プログラムの成功を測定するのに役立ちます。 新しい名前を創出するためのプログラムと、売上を促進するためのプログラムがあります。 アトリビューションのシステムを持つことで、どのプログラムに投資するかに関して、知識に基づいた判断を下すことができます。
+アトリビューションは、プログラムの成功を測定するのに役立ちます。 新しい名前を創出することを目的としたプログラムもあれば、売上を推進することを目的としたプログラムもあります。 アトリビューションのシステムを持つことで、どのプログラムに投資するかに関して、知識に基づいた判断を下すことができます。
 
 ## ファーストタッチ（FT）アトリビューション {#first-touch-ft-attribution}
 
@@ -46,4 +52,4 @@ ht-degree: 90%
 >* [アトリビューションの例 3](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-3.md)
 >* [アトリビューションの例 4](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/attribution-example-4.md)
 
-この機能を使用して、Marketo への投資を最大限に活用しましょう。
+この機能を使用しているのであれば、Marketo への投資を間違いなく最大限に活用できています。

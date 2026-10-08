@@ -4,27 +4,33 @@ description: ステータスと進捗状況（プログラムのタイプ、成�
 title: プログラムチャネルの作成
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-TQID: https://experienceleague.adobe.com/Ficlv7OfEScqLRVbOfc2hc-S3cQ2YjriiKWnbS1Op9A
+TQID: 'https://experienceleague.adobe.com/Ficlv7OfEScqLRVbOfc2hc-S3cQ2YjriiKWnbS1Op9A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 subfeature_v2:
   - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+    internal-label: Event programs
+  - id: eabd8318-c438-41ef-8756-bedd6f38b8fc
+    internal-label: Tag administration
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 435
+source-wordcount: '435'
 ht-degree: 80%
-
 ---
-
 # プログラムチャネルの作成 {#create-a-program-channel}
 
-プログラムは、特定のマーケティング施策の 1 つです。 チャネルは、ウェビナー、スポンサーシップ、オンライン広告などの配信メカニズムを意図しています。
+プログラムは、特定のマーケティング施策の 1 つです。&#x200B; チャネルは、ウェビナー、スポンサーシップ、オンライン広告などの配信手段として機能します。
 
 >[!NOTE]
 >

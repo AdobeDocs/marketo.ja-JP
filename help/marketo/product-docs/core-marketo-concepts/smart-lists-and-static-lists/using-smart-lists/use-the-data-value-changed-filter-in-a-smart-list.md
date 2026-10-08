@@ -4,18 +4,23 @@ description: スマートリストでデータ値変更フィルターを使用�
 title: スマートリストでのデータ値変更済みフィルターの使用
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/fztbKw413zcqvo0ar7oFBh1lL4VSs8YgbHDRK6DsmuE
+TQID: 'https://experienceleague.adobe.com/fztbKw413zcqvo0ar7oFBh1lL4VSs8YgbHDRK6DsmuE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '151'
 ht-degree: 86%
-
 ---
-
 # スマートリストでのデータ値変更済みフィルターの使用 {#use-the-data-value-changed-filter-in-a-smart-list}
 
 値は常に変更され、Marketo データベース内で更新されます。 特定の値を検索する代わりに、値が変わった人物を検索したい場合があります。

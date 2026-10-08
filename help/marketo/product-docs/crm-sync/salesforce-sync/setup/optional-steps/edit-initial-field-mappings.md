@@ -4,16 +4,21 @@ description: 最初のSalesforce同期の前に、最初のフィールドマッ
 title: 初期フィールドマッピングの編集
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/wqBJIxz5JX1iHb-iE2NuhrbWcUypLEN3dndu36kJNXs
+TQID: 'https://experienceleague.adobe.com/wqBJIxz5JX1iHb-iE2NuhrbWcUypLEN3dndu36kJNXs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 297
+source-wordcount: '297'
 ht-degree: 60%
-
 ---
-
 # 初期フィールドマッピングの編集 {#edit-initial-field-mappings}
 
 >[!NOTE]
@@ -24,7 +29,7 @@ Adobe Marketo Engageでは、Salesforceとの初回同期時に、同様の名�
 
 ## マッピングされていないフィールドをマッピング {#map-unmapped-fields}
 
-「[!UICONTROL &#x200B; マッピングされていないフィールド &#x200B;]」フォルダーにフィールドが表示された場合、Salesforceのリードまたは取引先責任者の同様のフィールドにマッピングされていないことを意味します。 これは修正できます。
+「[!UICONTROL  マッピングされていないフィールド ]」フォルダーにフィールドが表示された場合、Salesforceのリードまたは取引先責任者の同様のフィールドにマッピングされていないことを意味します。 これは修正できます。
 
 1. 「**[!UICONTROL マッピングを編集]**」をクリックします。
 
@@ -48,7 +53,7 @@ Adobe Marketo Engageでは、Salesforceとの初回同期時に、同様の名�
 
 ## 既存のマッピングを解除 {#break-existing-mapping}
 
-リードと連絡先オブジェクトに似た名前のフィールドがある場合、Marketo はそれらを自動的にマッピングします。 異なるデータを保持し、異なるデータを持つと見なすこともできます。 このようにマッピングを解除します。
+リードオブジェクトと取引先責任者オブジェクトに似た名前のフィールドがある場合、Marketo はそれらを自動的にマッピングします。 それらは別のフィールドであり、保持するデータも異なるものと見なすことができます。 このようにマッピングを解除します。
 
 1. 「**[!UICONTROL マッピングを編集]**」をクリックします。
 

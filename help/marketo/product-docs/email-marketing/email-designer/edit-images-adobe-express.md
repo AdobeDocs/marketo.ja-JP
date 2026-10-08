@@ -6,23 +6,31 @@ description: Adobe Expressを使用して電子メールDesignerで画像を編�
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-TQID: https://experienceleague.adobe.com/67dASITuTPfA7ZDovhR9WKzpSAL3gm3jO98RO8qyAqg
+TQID: 'https://experienceleague.adobe.com/67dASITuTPfA7ZDovhR9WKzpSAL3gm3jO98RO8qyAqg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: f5c2a4bb-71ca-4d7e-8efd-442250e6ba48
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Content reuse
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 857
+source-wordcount: '857'
 ht-degree: 3%
-
 ---
-
 # Adobe Express を使用した画像の編集 {#edit-images-with-adobe-express}
 
 Adobe Marketo Engageは、Adobe Expressとネイティブに統合されているため、様々な画像編集ツールを利用できます。 これらのツールを使用して、Marketo Engage Design Studioで画像を変更できます。 この統合には、次の主な利点があります。
@@ -52,7 +60,7 @@ Adobe Express エディターにアクセスするには、次の2つの方法�
 
 1. 編集する画像を選択します。
 
-   ![画像の名前をクリック &#x200B;](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
+   ![画像の名前をクリック ](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -62,7 +70,7 @@ Adobe Express エディターにアクセスするには、次の2つの方法�
 
 1. 画像&#x200B;_詳細_ タブで、「**[!UICONTROL Adobe Expressで編集]**」をクリックします。
 
-   ![Adobe Expressで編集ボタンをクリック &#x200B;](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
+   ![Adobe Expressで編集ボタンをクリック ](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -90,11 +98,11 @@ Adobe Express エディターにアクセスするには、次の2つの方法�
 
 >[!ENDTABS]
 
-## Adobe Express エンタープライズ版ライセンス {#adobe-express-enterprise-license}
+## Adobe Express エンタープライズ版ライセンス&#x200B; {#adobe-express-enterprise-license}
 
 ### エンタープライズライセンスを持つユーザー {#users-with-an-enterprise-license}
 
-Adobe Expressのエンタープライズライセンスをお持ちの場合は、Express エディター全体にアクセスできます。 カラー、明るさ、シャープネス、コントラスト、サイズなどの画像設定を調整できます。 「AI マジック」オプションを使用すると、背景の削除、オブジェクトの挿入と削除、画像の一部の消去を行うことができます。 各設定について詳しくは、[Adobe Express ユーザーガイド &#x200B;](https://helpx.adobe.com/jp/express/user-guide.html){target="_blank"}を参照してください。
+Adobe Expressのエンタープライズライセンスをお持ちの場合は、Express エディター全体にアクセスできます。 カラー、明るさ、シャープネス、コントラスト、サイズなどの画像設定を調整できます。 「AI マジック」オプションを使用すると、背景の削除、オブジェクトの挿入と削除、画像の一部の消去を行うことができます。 各設定について詳しくは、[Adobe Express ユーザーガイド ](https://helpx.adobe.com/jp/express/user-guide.html){target="_blank"}を参照してください。
 
 >[!IMPORTANT]
 >
@@ -111,7 +119,7 @@ Adobe Expressのエンタープライズライセンスをお持ちの場合は�
 
 これらの機能には、画像ページの左側からアクセスできます。
 
-![Adobe Expressの編集オプションを表示する画像ページ &#x200B;](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
+![Adobe Expressの編集オプションを表示する画像ページ ](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### 画像のサイズ変更 {#resize-image}
 
@@ -177,6 +185,6 @@ PNG ファイルをJPEG ファイルに、またはJPEG ファイルをPNG フ�
 
 すべての編集が完了したら、**保存**&#x200B;をクリックして作業を保存します。
 
-![保存ボタン &#x200B;](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
+![保存ボタン ](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 編集した画像は、元の画像と同じフォルダーに保存されます。

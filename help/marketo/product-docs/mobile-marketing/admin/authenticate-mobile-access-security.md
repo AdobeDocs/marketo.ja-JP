@@ -4,21 +4,24 @@ description: モバイルアプリのセキュリティのためにアクセス�
 title: モバイルアクセスセキュリティの認証
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/nIByv18mX6lQ8NR0aVRMhsOAn-g8BtwZY747ySyovco
+TQID: 'https://experienceleague.adobe.com/nIByv18mX6lQ8NR0aVRMhsOAn-g8BtwZY747ySyovco'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 158
+source-wordcount: '158'
 ht-degree: 86%
-
 ---
-
 # モバイルアクセスセキュリティの認証 {#authenticate-mobile-access-security}
 
-モバイルユーザのセキュリティを強化するために、Marketo では、[!UICONTROL アクセスキー]と[!UICONTROL アクセス秘密鍵]の 2 つの新しい ID を提供しています。 これらを使用すると、アプリにログインしているユーザーが実際には何者であるかを確認できます。
+モバイルユーザのセキュリティを強化するために、Marketo では、[!UICONTROL アクセスキー]と[!UICONTROL アクセス秘密鍵]の 2 つの新しい ID を提供しています。 これらを使用すると、アプリにログインしているユーザが、表示どおりの本人であることを確認できます。
 
 ID を有効にするには、コードを取得し、安全な照合を設定できるように IT 部門に提供する必要があります。
 

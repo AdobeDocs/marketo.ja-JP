@@ -1,16 +1,23 @@
 ---
 description: データとワークフロー管理を簡素化するために、フィールドの固定値セットを定義する方法を説明します。
-title: ピックリスト管理
+title: 選択リストの管理
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 0%
-
 ---
-
-# ピックリスト管理 {#picklist-management}
+# 選択リストの管理 {#picklist-management}
 
 ピックリスト管理を使用すると、フィールドの固定値セットを定義して、Marketo Engage内のデータとワークフロー管理を簡素化できます。 Marketoでは、定義されたピックリストを持つCRM フィールドにマッピングされていない非テキストフィールドのみを管理できます。 フィールドが定義されたピックリストを持つCRM フィールドにマッピングされる場合、そのフィールドの値はCRMで定義する必要があります。
 

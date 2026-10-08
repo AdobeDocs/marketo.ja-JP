@@ -1,23 +1,29 @@
 ---
 unique-page-id: 1147294
 description: エントリタイプ、プログラムタグ、ワークスペースによってマーケティングカレンダーをフィルタリングする方法について説明します。 スケジュールされたアセットの表示を制御します。
-title: マーケティングカレンダーのフィルタリング
+title: マーケティングカレンダーのフィルタリング​
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-TQID: https://experienceleague.adobe.com/kMQU58oZslkR2iLG6vy9yLcaN%2D%2D%2D%2D3rjAIZ5ln3QtMg
+TQID: 'https://experienceleague.adobe.com/kMQU58oZslkR2iLG6vy9yLcaN%2D%2D%2D%2D3rjAIZ5ln3QtMg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 0e20d3cd1d58a098d8419c4b10572fe85e672aa2
+    internal-label: Programs
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: a572083b-9238-40c5-8a10-cf294c415aab
+    internal-label: marketing calendar
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 118
+source-wordcount: '118'
 ht-degree: 40%
-
 ---
-
-# マーケティングカレンダーのフィルタリング {#filtering-the-marketing-calendar}
+# マーケティングカレンダーのフィルタリング&#x200B; {#filtering-the-marketing-calendar}
 
 カレンダーに表示する情報をフィルタリングするには、エントリの種類、プログラムタグ、またはワークスペースを使用します。
 
@@ -39,9 +45,9 @@ ht-degree: 40%
 
    >[!TIP]
    >
-   >標準エントリタイプの詳細については、[&#x200B; プログラムスケジュール表示エントリタイプ &#x200B;](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}を参照してください。
+   >標準エントリタイプの詳細については、[ プログラムスケジュール表示エントリタイプ ](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}を参照してください。
 
-1. 関心のあるプログラムタグを選択します。
+1. 興味のあるプログラムタグを選択します。
 
    ![](assets/image2014-9-24-10-3a47-3a5.png)
 

@@ -1,22 +1,25 @@
 ---
 description: Salesforce プロファイルにSales Insight アクセスを追加する方法を説明します。 Marketo Sales Insight パッケージへのアクセス権を付与します。
-title: セールスインサイトへのアクセスをプロファイルに追加
+title: プロファイルへのセールスインサイトアクセス権の付与
 exl-id: 269f9093-f530-4e3b-aac7-e317976cf0f0
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/n3IZiKAL8DonU5nAkNs-Y8AbGszSIn3J8LQM2LjvDEw
+TQID: 'https://experienceleague.adobe.com/n3IZiKAL8DonU5nAkNs-Y8AbGszSIn3J8LQM2LjvDEw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 405
+source-wordcount: '405'
 ht-degree: 95%
-
 ---
-
 # [!DNL Sales Insight] へのアクセスをプロファイルに追加 {#add-sales-insight-access-to-profiles}
 
 ここでは、[!DNL Sales Insight] へのアクセス権を持つプロファイルを作成し、他のプロファイルのアクセス権を削除する方法について説明します。 これは、[[!DNL Sales Insight]  AppExchange パッケージ](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}を既にインストール済みのユーザ向けです。
@@ -35,7 +38,7 @@ ht-degree: 95%
 
 1. ページの上部にある「**[!UICONTROL 新規プロファイル]**」ボタンをクリックします。
 
-1. 複製するプロファイルを選択して、名前を付けます（例：セールスインサイトユーザ）。
+1. 複製するプロファイルを選択して、名前を付けます（例：セールスインサイトユーザー）。
 
 1. 終了したら「**[!UICONTROL 保存]**」をクリックします。
 
@@ -50,7 +53,7 @@ ht-degree: 95%
    **[!DNL Sales Insight]** へのアクセスが許可されているプロファイルの場合：
 
    * 「タブ設定」で、Marketo タブを「デフォルトでオン」に変更します
-   * 「カスタムオブジェクト権限」で、「[!DNL Marketo Sales Insight] 設定」の「読み取り」、「作成」、「編集」、「削除」チェックボックスをオンにします（ユーザが設定にアクセスする必要がある場合。通常は管理者に使用されます）。
+   * 「カスタムオブジェクト権限」で、「[!DNL Marketo Sales Insight] 設定」の「読み取り」、「作成」、「編集」、「削除」チェックボックスをオンにします（ユーザーが設定にアクセスする必要がある場合。通常は管理者に使用されます）。
 
    **[!DNL Sales Insight]** へのアクセスが許可されていないプロファイルの場合：
 
@@ -69,7 +72,7 @@ ht-degree: 95%
 
 1. 「[!UICONTROL 取引先責任者]」、「[!UICONTROL 商談]」、「[!UICONTROL アカウント]」のページレイアウトについても、この手順を繰り返します。
 
-## プロファイルのレイアウトへの割り当て {#assign-profile-to-layout}
+## レイアウトにプロファイルを割り当てる {#assign-profile-to-layout}
 
 1. 「ページレイアウト」セクションに戻り、「**[!UICONTROL ページレイアウト割り当て]**」ボタンをクリックします。
 

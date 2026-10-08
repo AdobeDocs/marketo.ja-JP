@@ -4,25 +4,27 @@ description: Sales ConnectのSales Phoneについて説明します。 アプリ
 title: セールス電話の概要
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/QoZ57b9CNmr-R1LI-JYJFDq8Vks7FjQwWtj71yawHtY
+TQID: 'https://experienceleague.adobe.com/QoZ57b9CNmr-R1LI-JYJFDq8Vks7FjQwWtj71yawHtY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 312
+source-wordcount: '312'
 ht-degree: 92%
-
 ---
-
 # セールス電話の概要 {#sales-phone-overview}
 
 ## なぜセールス電話をかけるのですか？ {#why-sales-phone}
 
 * 電話をかけることで大幅に時間が節約できます。 クリック 2 回で電話をかけることができ、すべて自動的に [!DNL Salesforce] に記録されます。
 * ローカルプレゼンスを利用して、人と結びつく可能性を高めます。
-* 担当者をコーチして、何がうまく行き何がうまく行かないのかを、通話記録を活用して理解し、チームのパフォーマンスを向上させます。
+* 担当者をコーチし、通話記録を活用して何がうまくいき何がうまくいかないのかを把握することで、チームのパフォーマンスを向上させます。
 
-## セールス電話の設定を迅速に行う方法を教えてください。 {#how-do-i-quickly-get-set-up-with-sales-phone}
+## Sales Phone を素早く設定するには？ {#how-do-i-quickly-get-set-up-with-sales-phone}
 
 **電話番号：**&#x200B;入力する必要があるのは 1 回のみです。 [!DNL Sales Connect] は、今後すべての通話に対する電話番号を記憶します。
 
@@ -30,7 +32,7 @@ ht-degree: 92%
 
 [!DNL Salesforce] で、[!DNL Sales Connect] が自動的に通話アクティビティを作成するようにする場合は、[この記事](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)を参照してください。
 
-## セールス電話で電話をかける方法を教えてください。 {#how-do-i-make-a-call-with-sales-phone}
+## セールス電話で通話するには？ {#how-do-i-make-a-call-with-sales-phone}
 
 Gmail／[!DNL Outlook] のライブフィードおよび web アプリケーションのコマンドセンターから呼び出すことができます（「通話」ボタンおよび「電話をかける」ボタンや、直接 [!DNL Sales Connect] の任意の取引先責任者から）。
 

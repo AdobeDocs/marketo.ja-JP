@@ -4,21 +4,28 @@ description: エンゲージメントスコア（0～100）と、それがコン
 title: エンゲージメントスコアについて
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-TQID: https://experienceleague.adobe.com/b8-UTMy8MRLxXte2IbMJDfBT3srjzy5FIWgLUH256x8
+TQID: 'https://experienceleague.adobe.com/b8-UTMy8MRLxXte2IbMJDfBT3srjzy5FIWgLUH256x8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 194
+source-wordcount: '194'
 ht-degree: 81%
-
 ---
-
 # エンゲージメントスコアについて {#understanding-the-engagement-score}
 
 エンゲージメントスコアを使用すると、エンゲージメントプログラムのコンテンツの効果を簡単に確認できます。 スコアの範囲は 0 ～ 100 です。 [エンゲージメントダッシュボード](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/the-engagement-dashboard.md)を参照して、コンテンツの効果を追跡する方法を確認してください。
@@ -27,7 +34,7 @@ ht-degree: 81%
 
 ![](assets/highestengagementwidget.jpg)
 
-スコアは、関与した行動（[!UICONTROL 開封]、[!UICONTROL クリック]、[!UICONTROL プログラムの成功]）と離脱した行動（[!UICONTROL 登録解除]）を考慮した独自のアルゴリズムに基づいています。 ドリップメールやナーチャリングスタイルのメールに対してベンチマークテストを実施し、平均50通のインサイトを獲得できます。 訪問者にコンテンツに関与する機会を与えるために、エンゲージメントスコアは各キャストの 72 時間後に計算されます。 また、スコアは&#x200B;**最後の 3**&#x200B;キャストからのデータのみをカバーします。
+スコアは、関与した行動（[!UICONTROL 開封]、[!UICONTROL クリック]、[!UICONTROL プログラムの成功]）と離脱した行動（[!UICONTROL 登録解除]）を考慮した独自のアルゴリズムに基づいています。 ドリップメールやナーチャリングスタイルのメールに対してベンチマークテストを実施し、平均50通のインサイトを獲得できます。 人物がコンテンツにエンゲージできるように、エンゲージメントスコアは各キャストの 72 時間後に計算されます。 また、スコアは&#x200B;**最後の 3**&#x200B;キャストからのデータのみをカバーします。
 
 >[!NOTE]
 >

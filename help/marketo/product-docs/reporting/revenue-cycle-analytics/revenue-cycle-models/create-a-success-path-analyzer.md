@@ -4,16 +4,22 @@ description: Marketo Engageでサクセスパスアナライザーを作成す�
 title: 成功パス分析の作成
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 77%
-
 ---
-
 # 成功パス分析の作成 {#create-a-success-path-analyzer}
 
-収益サイクルモデルの速度と流れを視覚的に表現します。
+収益サイクルモデル内の速度とフローを視覚的に表示できます。
 
 >[!PREREQUISITES]
 >
@@ -55,7 +61,7 @@ ht-degree: 77%
 
 >[!TIP]
 >
->レポートを保存するには、 **[!UICONTROL アナライザアクション]**&#x200B;ドロップダウンをクリックし、「**[!UICONTROL 別名で保存]**」を選択します。
+>レポートを保存しますか？ **[!UICONTROL アナライザアクション]**&#x200B;ドロップダウンをクリックし、「**[!UICONTROL 別名で保存]**」を選択します。
 
 >[!MORELIKETHIS]
 >

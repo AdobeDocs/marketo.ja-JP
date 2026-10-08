@@ -3,16 +3,21 @@ description: DynamicsとMarketo間のデフォルトのMicrosoft Dynamics フィ
 title: デフォルトの Dynamics フィールドマッピング
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0
+TQID: 'https://experienceleague.adobe.com/WhNHtInFZH6GDkKSCjfGpZyfuZfVB23zL80WdT-pkI0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1052
+source-wordcount: '1052'
 ht-degree: 98%
-
 ---
-
 # デフォルトの Dynamics フィールドマッピング {#default-dynamics-field-mapping}
 
 Marketo Engage アカウントを Microsoft と最初に同期すると、Marketo はビルトインの Dynamics フィールドと Marketo フィールドの間でこれらの関連付けを自動的に行います。  Marketo は、リード、アカウント、商談、取引先責任者のカスタムフィールドも同期します。
@@ -128,7 +133,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
     </tr>
     <tr>
       <td>[!UICONTROL 電話連絡拒否]</td>
-      <td>[!UICONTROL 電話を許可しない]</td>
+      <td>[!UICONTROL 電話連絡の許可なし]</td>
       <td>donotphone</td>
     </tr>
     <tr>
@@ -152,7 +157,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft メール送信除外]</td>
+      <td>[!UICONTROL Microsoft メール送信不可]</td>
       <td>[!UICONTROL メールを許可しない]</td>
       <td>donotemail</td>
     </tr>
@@ -162,12 +167,12 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft マーケティング資料の受領拒否]</td>
+      <td>[!UICONTROL Microsoft マーケティング資料送信しない]</td>
       <td>[!UICONTROL マーケティング資料]</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft 自宅電話]</td>
+      <td>[!UICONTROL Microsoft 自宅電話番号]</td>
       <td>[!UICONTROL 自宅電話]</td>
       <td>telephone2</td>
     </tr>
@@ -182,8 +187,8 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
       <td>subject</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 最新の注目のアクションの日付]</td>
-      <td>[!UICONTROL 最新の注目のアクションの日付]</td>
+      <td>[!UICONTROL 最新の注目のアクション]</td>
+      <td>[!UICONTROL 最新の注目のアクション]</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
@@ -338,7 +343,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
     </tr>
     <tr>
       <td>[!UICONTROL 郵便番号]</td>
-      <td>[!UICONTROL 住所 1：郵便番号]</td>
+      <td>[!UICONTROL 住所 1：郵便コード]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
@@ -353,7 +358,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
     </tr>
     <tr>
       <td>[!UICONTROL 電話連絡拒否]</td>
-      <td>[!UICONTROL 電話を許可しない]</td>
+      <td>[!UICONTROL 電話連絡の許可なし]</td>
       <td>donotphone</td>
     </tr>
     <tr>
@@ -372,7 +377,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft メール送信除外]</td>
+      <td>[!UICONTROL Microsoft メール送信不可]</td>
       <td>[!UICONTROL メールを許可しない]</td>
       <td>donotemail</td>
     </tr>
@@ -388,7 +393,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
     </tr>
     <tr>
       <td>[!UICONTROL 最新の注目のアクションの日付]</td>
-      <td>[!UICONTROL 最新の注目のアクションの日付]</td>
+      <td>[!UICONTROL 最新の注目のアクション]</td>
       <td>mkt_lastinterestingmomentdate</td>
     </tr>
     <tr>
@@ -511,18 +516,18 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 請求先住所（郵便番号）]</td>
+      <td>[!UICONTROL 請求先郵便番号]</td>
       <td>[!UICONTROL 住所 1：郵便番号]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
       <td>[!UICONTROL Microsoft 請求先住所 2]</td>
-      <td>[!UICONTROL 住所 1：番地 2]</td>
+      <td>[!UICONTROL 住所 1：番地 2]​</td>
       <td>address1_line2</td>
     </tr>
     <tr>
       <td>[!UICONTROL Microsoft 請求先住所 3]</td>
-      <td>[!UICONTROL 住所 1：番地 3]</td>
+      <td>[!UICONTROL 住所 1：番地 3]​</td>
       <td>address1_line3</td>
     </tr>
     <tr>
@@ -541,7 +546,7 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
       <td>accountnumber</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft 企業ステータス]</td>
+      <td>[!UICONTROL Microsoft 会社ステータス]</td>
       <td>[!UICONTROL ステータス]</td>
       <td>statecode</td>
     </tr>
@@ -641,8 +646,8 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
       <td>statecode</td>
     </tr>
     <tr>
-      <td>[!UICONTROL 実際のクローズ日]</td>
-      <td>[!UICONTROL 実際のクローズ日]</td>
+      <td>[!UICONTROL 実際のクローズ日付]</td>
+      <td>[!UICONTROL 実際のクローズ日付]</td>
       <td>actualclosedate</td>
     </tr>
     <tr>
@@ -709,11 +714,11 @@ Marketo Engage アカウントを Microsoft と最初に同期すると、Market
       <td>リードまたは連絡先。 空の場合、リードは Marketo に人物としてのみ存在します</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft の作成日]</td>
+      <td>[!UICONTROL Microsoft 作成日]</td>
       <td>[!DNL MS Dynamics] で作成された日付（Marketo で作成された日付とは異なる場合があります）</td>
     </tr>
     <tr>
-      <td>[!UICONTROL Microsoft 削除済み]</td>
+      <td>[!UICONTROL Microsoft が削除]</td>
       <td>以前は Microsoft に存在したが、削除され、現在は Marketo にしか存在しない人物</td>
     </tr>
   </tbody>

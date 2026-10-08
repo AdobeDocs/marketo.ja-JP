@@ -3,16 +3,18 @@ description: コマンドセンターでセールスメールとタスクのク�
 title: コマンドセンターのクイックアクション
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ
+TQID: 'https://experienceleague.adobe.com/ROXBWnNBGYavdHADhZZzh6A8yrmEpSJ2mfiPtxR33NQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 336
+source-wordcount: '336'
 ht-degree: 71%
-
 ---
-
 # [!UICONTROL コマンドセンター]のクイックアクション {#quick-actions-in-the-command-center}
 
 メールグリッドには 2 種類のクイックアクション列があります。 メールに対してアクションを実行できるメールアクションと、数回のクリックでエンゲージメントアクションを実行できるフォローアップアクションがあります。
@@ -25,8 +27,8 @@ ht-degree: 71%
 
 | ステータス | 説明 |
 |---|---|
-| [!UICONTROL アーカイブ] | アーカイブ済みフォルダーにメールを追加し、そのメールの表示とクリックの追跡をすべて無効にします。 |
-| [!UICONTROL 成功] | テンプレート分析でメールがレポートに成功したことを示します。 |
+| [!UICONTROL アーカイブ] | メールをアーカイブ済みフォルダーに追加し、そのメールの表示およびクリックの追跡をすべて停止して無効にします。 |
+| [!UICONTROL 成功] | テンプレート分析でレポートできるよう、そのメールを成功としてマークします。 |
 
 **[!UICONTROL アーカイブ済み]**
 
@@ -57,7 +59,7 @@ ht-degree: 71%
  <tbody>
   <tr>
    <td>[!UICONTROL 編集]</td>
-   <td>編集する作成ウィンドウでメールを開きます。</td>
+   <td>メールを作成ウィンドウで開き、編集できるようにします。</td>
   </tr>
   <tr>
    <td>[!UICONTROL 削除]</td>
@@ -94,4 +96,4 @@ ht-degree: 71%
 | フォローアップメールを送信 | 選択したインラインメール本文が追加され、受信者への送信準備が整った状態で、作成ウィンドウを開きます。 |
 | 電話をかける | セールス電話を開いて、メール受信者に電話をかけます。 |
 | inMail を送信 | [!DNL LinkedIn] にリダイレクトして、InMail メッセージをリードに送信します。 |
-| タスクの作成 | リマインダータスクを作成するための作成タスクポップアップを開きます。 |
+| タスクの作成 | リマインダータスクを作成するためのタスク作成ポップアップを開きます。 |

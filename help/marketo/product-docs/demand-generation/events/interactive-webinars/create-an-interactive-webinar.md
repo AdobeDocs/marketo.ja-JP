@@ -3,20 +3,23 @@ description: Marketoでインタラクティブウェビナーを開催する方
 title: インタラクティブウェビナーの作成
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-TQID: https://experienceleague.adobe.com/X8NTJNXW8v9jMpeFqj3-15uu0CH2N1Lhdlkr67ZjyZ4
+TQID: 'https://experienceleague.adobe.com/X8NTJNXW8v9jMpeFqj3-15uu0CH2N1Lhdlkr67ZjyZ4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 304
+source-wordcount: '304'
 ht-degree: 74%
-
 ---
-
 # インタラクティブウェビナーの作成 {#create-an-interactive-webinar}
 
 次の手順で、インタラクティブウェビナーを作成します。
@@ -63,7 +66,7 @@ ht-degree: 74%
    >
    >* テストウェビナーを作成する場合は、そのウェビナーのライセンスが利用されないように、開始時間より前に削除する必要があります。
 
-1. ウェビナーの日時をスケジュールし、（必要に応じて）タイムゾーンを変更し、最大オーディエンスサイズを設定します。 終了したら、「**作成**」をクリックします。
+1. ウェビナーの日付と時刻をスケジュールし、（必要に応じて）タイムゾーンを変更し、最大オーディエンスサイズを設定します。 完了したら「**作成**」をクリックします。
 
    ![](assets/create-an-interactive-webinar-7.png)
 
@@ -71,4 +74,4 @@ ht-degree: 74%
 >
 >前のウェビナーが予定時間を超過した場合に備えて、連続する 2 つのイベントの間には 30 分の間隔を空けることをお勧めします（ライセンスが同時ウェビナーをサポートしている場合を除く）。
 
-次は、[&#x200B; ウェビナーをデザインしましょう](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}。
+次は、[ ウェビナーをデザインしましょう](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}。

@@ -3,20 +3,23 @@ description: Microsoft DynamicsでMSI ビューを設定する方法について
 title: MSI ビューの設定
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/PylFEW3pRnOwoIVF8hG2pKcFix5DO7ynWomXOfvy1e0
+TQID: 'https://experienceleague.adobe.com/PylFEW3pRnOwoIVF8hG2pKcFix5DO7ynWomXOfvy1e0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 264
+source-wordcount: '264'
 ht-degree: 65%
-
 ---
-
 # MSI ビューの設定 {#setting-up-msi-views}
 
 Dynamics に [!DNL Sales Insight] プラグインをインストールすると、サイトマップに [!DNL Best Bets] と関連するダッシュボードが自動的に追加されます。 何らかの理由でダッシュボードが追加されない場合に手動で追加する方法を次に示します。
@@ -29,7 +32,7 @@ Dynamics に [!DNL Sales Insight] プラグインをインストールすると�
 
 1. 左側のツリーで、「**[!UICONTROL クライアントエクステンション]**」をクリックして「**[!UICONTROL サイトマップ]**」をダブルクリックします。
 
-1. 右向き矢印をクリックして次のページに移動します。 「セールス」の下に、「Marketo」が表示されます。 表示されない場合は、パッケージが正しく読み込まれていることを確認してください。
+1. 右向き矢印をクリックして次のページに移動します。 「セールス」の下に、「Marketo」が表示されます。 表示されない場合は、パッケージを正しく読み込んでいることを確認してください。
 
    >[!NOTE]
    >
@@ -38,27 +41,27 @@ Dynamics に [!DNL Sales Insight] プラグインをインストールすると�
 1. ダッシュボードをクリックして選択します。 右側の列に、それぞれの情報を以下に入力します。 一覧に表示されていないカテゴリは無視できます。
 
    **ベスト**</br>
-URL: MainviewBestbets.html</br>
-アイコン：/WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
-ID: marketo_bestbets</br>
-タイトル：Best Bets
+   URL: MainviewBestbets.html</br>
+   アイコン：/WebResources/mkt_/_MainView/_imgs/icons/bestbets.svg</br>
+   ID: marketo_bestbets</br>
+   タイトル：Best Bets
 
    **電子メール**</br>
-URL: mkt_/MainViewMyEmail.html</br>
-アイコン：/WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
-ID: marketo_myemail</br>
-タイトル：My Email
+   URL: mkt_/MainViewMyEmail.html</br>
+   アイコン：/WebResources/mkt_/_MainView/_imgs/icons/email.svg</br>
+   ID: marketo_myemail</br>
+   タイトル：My Email
 
    **Web アクティビティ**</br>
-URL: mkt_/MainViewWebActivity.html</br>
-アイコン：/WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
-ID: marketo_webactivity</br>
-タイトル：Web アクティビティ
+   URL: mkt_/MainViewWebActivity.html</br>
+   アイコン：/WebResources/mkt_/_MainView/_imgs/icons/web_activity.svg</br>
+   ID: marketo_webactivity</br>
+   タイトル：Web アクティビティ
 
    **匿名Web アクティビティ**</br>
-URL: mkt_/MainViewWebActivity.html</br>
-アイコン：/WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
-ID: marketo_anonymous_webactivity</br>
-タイトル：匿名のWeb アクティビティ
+   URL: mkt_/MainViewWebActivity.html</br>
+   アイコン：/WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
+   ID: marketo_anonymous_webactivity</br>
+   タイトル：匿名のWeb アクティビティ
 
 1. 終了したら「**[!UICONTROL 保存]**」をクリックします。

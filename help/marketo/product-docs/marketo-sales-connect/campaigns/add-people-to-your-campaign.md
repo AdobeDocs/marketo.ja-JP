@@ -1,22 +1,24 @@
 ---
 unique-page-id: 14352613
 description: Web アプリ、人物ページ、GmailおよびOutlookからSales Connect キャンペーンに人物を追加する方法について説明します。 最初のメールステップのプレビュー、編集、スケジュール設定。
-title: キャンペーンに人物を追加
+title: キャンペーンにユーザを追加
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/B8bUpUpnVRSEtdGX5sMP4o0-wmFj8gJOiBJPXYfuLEs
+TQID: 'https://experienceleague.adobe.com/B8bUpUpnVRSEtdGX5sMP4o0-wmFj8gJOiBJPXYfuLEs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 201
+source-wordcount: '201'
 ht-degree: 73%
-
 ---
+# キャンペーンにユーザを追加 {#add-people-to-your-campaign}
 
-# キャンペーンに人物を追加 {#add-people-to-your-campaign}
-
-複数の方法で人物をキャンペーンに追加できます。
+複数の方法でユーザをキャンペーンに追加できます。
 
 見込み顧客やお客様とコミュニケーションを始める場合は、Web アプリケーションの任意のページまたはSalesforceからAdd to Campaignを使用できます。
 
@@ -24,8 +26,8 @@ ht-degree: 73%
 
 これは、web アプリケーションの「キャンペーン」タブから実行できます。
 
-キャンペーンに追加ボタンは、アドビの web アプリケーションの会話ページおよび人物ページにあります。
+「キャンペーンに追加」ボタンは、web アプリケーションの会話ページおよび人物ページにあります。
 
-Gmail や Outlook の受信トレイから見込み客や顧客をフォローアップしている場合、フォローアップの際に作成ウィンドウからキャンペーンに追加できます（キャンペーンの最初のステップがメールの場合）。
+Gmail や Outlook のインボックスから見込み客や顧客をフォローしている場合、フォローの際に作成ウィンドウからキャンペーンに追加できます（キャンペーンの最初のステップがメールの場合）。
 
 メールに返信し、アドビのプラグインからキャンペーンを選択するだけです。

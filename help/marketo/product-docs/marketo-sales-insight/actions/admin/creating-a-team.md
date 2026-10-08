@@ -3,25 +3,27 @@ description: Sales Insight Actionsでチームを作成して、テンプレー�
 title: チームの作成
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/y6f35evMs8HMMubGKhJs-oeMgtGWujkQSFydWp7t0aU
+TQID: 'https://experienceleague.adobe.com/y6f35evMs8HMMubGKhJs-oeMgtGWujkQSFydWp7t0aU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 135
+source-wordcount: '135'
 ht-degree: 88%
-
 ---
-
 # チームの作成 {#creating-a-team}
 
-チームを作成すると、コンテンツを共有したり、レポートをフィルタリングしたりできるユーザのグループを作成できます。
+チームを作成すると、コンテンツを共有したり、レポートをフィルターしたりできるユーザのグループを作成できます。
 
 ## チームの作成 {#create-a-team}
 
-1. [Web アプリケーション](https://toutapp.com/login)で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
+1. [Web アプリケーションで](https://toutapp.com/login)、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/creating-a-team-1.png)
 
@@ -41,13 +43,13 @@ ht-degree: 88%
 >
 >これで、テンプレート、キャンペーンおよびグループをそのチームと共有できるようになりました。
 
-## チームに人物を追加 {#add-people-to-a-team}
+## チームにメンバーを追加 {#add-people-to-a-team}
 
 1. 引き続き[!UICONTROL チーム管理]で、「**[!UICONTROL すべてのメンバー]**」を選択します。
 
    ![](assets/creating-a-team-5.png)
 
-1. サブチームに追加するユーザを見つけ、そのチェックボックスをオンにします。
+1. チームに追加するユーザを見つけ、そのチェックボックスを選択します。
 
    ![](assets/creating-a-team-6.png)
 

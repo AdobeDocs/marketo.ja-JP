@@ -4,19 +4,21 @@ description: オールコンテンツページとその指標、およびカテ�
 title: すべてのコンテンツについて
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/fzonhoTQmJlhdlbSFQ87CjwntcScl9f3-VjtwQL6At8
+TQID: 'https://experienceleague.adobe.com/fzonhoTQmJlhdlbSFQ87CjwntcScl9f3-VjtwQL6At8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 291
+source-wordcount: '291'
 ht-degree: 90%
-
 ---
-
 # すべてのコンテンツについて {#understanding-all-content}
 
-すべてのコンテンツページに、手動で検出または追加されたすべてのコンテンツが表示されます。
+All Content ページには、検出されたコンテンツや手動で追加されたコンテンツがすべて表示されます。
 
 ![](assets/image2017-10-3-9-3a4-3a56.png)
 
@@ -29,7 +31,7 @@ ht-degree: 90%
 * **[!UICONTROL コンバージョン率]**：ダイレクトコンバージョンをクリック数で割って計算した割合
 * **[!UICONTROL 予測の承認]**：コンテンツが承認されるとアイコンが表示される
 
-新しいコンテンツを追加して追跡したり、コンテンツの一部を削除したり、コンテンツの一部を承認したりできます。 コンテンツを承認したら、予測コンテンツページで編集できます。
+新しいコンテンツを追加して追跡したり、コンテンツを削除したり、コンテンツを承認したりできます。 コンテンツを承認すると、予測コンテンツページで編集できます。
 
 ## カテゴリによるコンテンツのフィルタリング  {#filter-content-by-categories}
 
@@ -43,7 +45,7 @@ ht-degree: 90%
 
    ![](assets/image2017-10-3-9-3a6-3a23.png)
 
-## 日付または日付範囲の分析の表示 {#display-analytics-for-a-date-or-date-range}
+## 日付または日付範囲の分析を表示 {#display-analytics-for-a-date-or-date-range}
 
 1. 特定の日付または日付範囲のデータを表示するには、カレンダーアイコンをクリックし、左のパネルから選択します。 カスタムの日付範囲の場合は、カレンダーで開始日と終了日をクリックします（図を参照）。 「**[!UICONTROL 適用]**」をクリックします。
 

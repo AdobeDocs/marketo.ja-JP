@@ -4,22 +4,27 @@ description: Microsoft Dynamics 2011でMarketo Sales Insightをインストー�
 title: Marketo セールスインサイトの Microsoft Dynamics 2011 へのインストールと設定
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/Ciiqs6Riit-3mjnqPzxzIxaBukPBFuqq0G9HSZqIObc
+TQID: 'https://experienceleague.adobe.com/Ciiqs6Riit-3mjnqPzxzIxaBukPBFuqq0G9HSZqIObc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 370
+source-wordcount: '370'
 ht-degree: 88%
-
 ---
-
 # [!DNL Microsoft Dynamics 2011] での [!DNL Marketo Sales Insight] のインストールと設定 {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics}
 
 [!DNL Marketo Sales Insight] は、セールスチームが使えるとても便利なツールです。 [!DNL Microsoft Dynamics 2011] オンプレミスで Marketo セールスインサイトをインストールし、設定する方法を、以下に順を追って説明します。
@@ -130,7 +135,7 @@ ht-degree: 88%
 
 ## ユーザーアクセスの設定 {#set-user-access}
 
-特定のユーザに [!DNL Sales Insight] へのアクセス権を付与するユーザのロールを設定します。
+特定のユーザーに [!DNL Sales Insight] へのアクセス権を付与するユーザーのロールを設定します。
 
 1. 「**[!UICONTROL 設定]**」を選択します。
 
@@ -140,7 +145,7 @@ ht-degree: 88%
 
    ![](assets/image2015-5-4-11-3a31-3a39.png)
 
-1. 「**[!UICONTROL ユーザ]**」をクリックします。
+1. 「**[!UICONTROL ユーザー]**」をクリックします。
 
    ![](assets/image2015-5-4-11-3a32-3a25.png)
 

@@ -4,25 +4,30 @@ description: メールプログラムのHead Startについてご確認くださ
 title: メールプログラムの優先スタート
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-TQID: https://experienceleague.adobe.com/DHsakR9O7XMJMAG2q7kfJFUUc2eFnkdslbowaA85IC4
+TQID: 'https://experienceleague.adobe.com/DHsakR9O7XMJMAG2q7kfJFUUc2eFnkdslbowaA85IC4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 430
-ht-degree: 88%
-
+source-wordcount: '432'
+ht-degree: 76%
 ---
-
 # メールプログラムの優先スタート {#head-start-for-email-programs}
 
 >[!PREREQUISITES]
 >
 >[メールプログラムの作成](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
-メールプログラムの日時を選択すると、プログラムの処理を開始するタイミングが決まります。 選択した時刻にメールを起動させたい場合は、優先スタートがプログラムを事前に処理して、そのオプションを提供します。
+メールプログラムの日付と時刻を選択すると、プログラムの処理を開始するタイミングが決まります。 選択した時刻にメールを送信したい場合は、ヘッドスタート機能により、プログラムを事前に処理しておくことができます。
 
 ## 標準優先スタート {#standard-head-start}
 
@@ -36,7 +41,7 @@ ht-degree: 88%
 
    >[!NOTE]
    >
-   >優先スタートは A/B テストでは使用できません。
+   >ヘッドスタートは A/B テストでは使用できません。
 
 1. [!UICONTROL スケジュール]タイルで、メールのスケジュールを設定し、「**[!UICONTROL 優先スタート]**」ボックスを選択します。
 
@@ -46,7 +51,7 @@ ht-degree: 88%
 
    >[!CAUTION]
    >
-   >プログラムのロック後に登録解除したオーディエンスは、引き続きメールを受け取ります。 登録解除の通知を調整して、登録解除の処理に 1 ～ 2 営業日かかる場合があることを反映することをお勧めします。
+   >プログラムのロック後に購読解除したオーディエンスのメンバーは、引き続きメールを受け取ります。 購読解除の通知を調整して、購読解除の処理に 1～2 営業日かかる場合があることを反映することをお勧めします。
 
 1. 「**[!UICONTROL プログラムを承認]**」をクリックします。
 
@@ -69,7 +74,7 @@ ht-degree: 88%
 
 ## 受信者タイムゾーンで優先スタート {#head-start-with-recipient-time-zone}
 
-既存の優先スタート機能を使用するには、プログラムが少なくとも 12 時間前にスケジュールされている必要があります。 受信者タイムゾーンとは何でしょうか。 受信者タイムゾーンがアクティブになっている場合、最も早いタイムゾーン（UTC +14:00）の午前 0 時にメールプログラムの実行が開始されることを思い出してください。 したがって、優先スタートと受信者の&#x200B;**両方**&#x200B;のタイムゾーンを有効にするには、プログラムを&#x200B;**最も早いタイムゾーン（UTC +14:00**）の少なくとも 12 時間前にスケジュールする必要があります。
+既存のヘッドスタート機能を使用するには、プログラムを少なくとも 12 時間前までにスケジュールしておく必要があります。 では、これは受信者タイムゾーンにとってどういう意味になるのでしょうか。 受信者のタイムゾーンがアクティブな場合、最も早いタイムゾーン（UTC +14:00）の真夜中にメールプログラムの実行を開始します。 したがって、**両方**&#x200B;の先頭タイムゾーンと受信者タイムゾーンを有効にするには、プログラムを最も早いタイムゾーン（UTC +14:00 **）よりも少なくとも12時間早く** スケジュールする必要があります。
 
 つまり、米国/ロサンゼルス在住で、ヘッドスタートと受信者タイムゾーンの両方を有効にする場合は、プログラムを&#x200B;**34時間**&#x200B;事前にスケジュールする必要があります。 どうやってこの数字にたどり着いたのでしょうか。
 

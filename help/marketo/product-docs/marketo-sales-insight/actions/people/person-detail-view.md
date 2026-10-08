@@ -4,13 +4,17 @@ title: 人物の詳細表示
 hide: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 92%
-
 ---
-
 # 人物の詳細表示 {#person-detail-view}
 
 人物の詳細表示には、[!DNL Marketo Sales] アカウント内の各人物の詳細なプロファイルが表示されます。
@@ -27,7 +31,7 @@ ht-degree: 92%
 
    >[!TIP]
    >
-   >人物の名前が表示される場所付近をクリックすると、その人物の詳細表示に移動できます。
+   >人物の名前が表示されているところならほぼどこでも、その名前をクリックすると、その人物の人物詳細ビューに移動できます。
 
 ## 「情報」タブ {#about-tab}
 
@@ -37,7 +41,7 @@ ht-degree: 92%
 
 **取引先責任者カード**
 
-* 次のような取引先責任者情報が含まれます。メールアドレス、名前、会社名、職位、電話番号、ソーシャルメディアリンク
+* 次のような取引先責任者情報が含まれます。メールアドレス、名前、会社名、役職、電話番号、ソーシャルメディアのリンク
 
 **グループ**
 
@@ -104,7 +108,7 @@ PICC
 
 実行できるアクションは次のとおりです。
 
-* タスクの編集または削除
-* 期限の参照
-* 「タイプ」をクリックすると、通話の場合はセールス通話、メールの場合はメール作成、InMail の場合は LinkedIn、カスタムの場合はカスタムメモが起動します。
+* タスクを編集または削除できます
+* 期限日を確認できます
+* 「タイプ」をクリックすると、通話の場合は Sales Phone、メールの場合はメール作成、InMail の場合は LinkedIn、カスタムの場合は Custom Note が起動します。
 * タスクを完了済みとしてマーク

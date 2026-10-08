@@ -4,20 +4,23 @@ description: web キャンペーンの優先順位付けなど、Marketo Engage�
 title: Web キャンペーンの優先順位付け
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/MwSVFrnnG-tBShEwxhapBPm0evix-J0ZbrgvWwBZSU8
+TQID: 'https://experienceleague.adobe.com/MwSVFrnnG-tBShEwxhapBPm0evix-J0ZbrgvWwBZSU8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: '187'
 ht-degree: 89%
-
 ---
-
 # Web キャンペーンの優先順位付け {#prioritizing-web-campaigns}
 
 優先度スコアを設定して、2 つ以上の Web キャンペーンが重複する場合に Web キャンペーンを優先します。
@@ -28,12 +31,12 @@ ht-degree: 89%
 >
 >Web キャンペーンの重複は、以下の場合に発生します。
 >
->* 複数のウィジェットキャンペーンやダイアログキャンペーンが、同じページで同時に応答した場合
->* 同じゾーン ID を持つ複数のゾーン内キャンペーンが、同じ Web ページで同時に応答した場合
+>* 複数のウィジェットキャンペーンやダイアログキャンペーンが、同じページで同時に表示される場合
+>* 同じゾーン ID を持つ複数の In Zone が、同じ web ページで同時に表示される場合
 >
->ゾーン内キャンペーンと（ウィジェットまたはダイアログ）キャンペーンが、同じページで応答することもあります。
+>ゾーン内キャンペーンと（ウィジェットまたはダイアログ）キャンペーンが、同じページで表示されることもあります。
 
-1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
+1. 「**[!UICONTROL Web キャンペーン]**」に移動します
 
    ![](assets/web-campaigns-hand-6.jpg)
 

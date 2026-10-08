@@ -3,26 +3,29 @@ description: Sales Insight ActionsとSalesforce間で登録解除を同期する
 title: Salesforce との登録解除の同期
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM
+TQID: 'https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 488
-ht-degree: 96%
-
+source-wordcount: '489'
+ht-degree: 94%
 ---
-
 # [!DNL Salesforce] との登録解除の同期 {#syncing-unsubscribes-with-salesforce}
 
 登録解除を Salesforce の「オプトアウト」フィールドと同期する場合、Salesforce 登録解除の同期を使用できます。
 
 ## Salesforce と登録解除を同期する際の要件 {#requirements-for-unsubscribes-to-sync-to-salesforce}
 
-* 登録解除の同期を有効にする必要があります（夜間同期）
+* 登録解除の同期を有効にする必要があります（夜間同期用）。
 * [!DNL Salesforce] に「オプトアウト」フィールドをインストールする必要があります。
 * [!DNL Marketo Sales] の人物のレコードには [!DNL Salesforce] ID が必要です。
 
@@ -32,11 +35,11 @@ ht-degree: 96%
 
 **登録解除を同期**
 
-登録解除を同期を有効にする（以下の手順 3）と、夜間同期が有効になります。 同期は 1 日に 1 回、午後 8:00 PST 頃に実行されます。 Marketo Sales 内のすべての登録解除と Salesforce の「オプトアウト」フィールドが双方向に同期されます。
+登録解除の同期（以下の手順 3）を有効にすると、夜間同期が有効になります。 同期は1日1回、午後8時（太平洋標準時）頃に行われます。 Marketo Sales 内のすべての登録解除と Salesforce の「オプトアウト」フィールドが双方向に同期されます。
 
 >[!NOTE]
 >
->Salesforce との登録解除の同期は、登録解除を同期しますが、再登録は同期しません。 Marketo Sales および Salesforce から登録解除を削除する場合、Salesforce で登録解除のチェックをオフにして、Marketo Sales で登録解除を削除します。
+>Salesforce との登録解除の同期では、登録解除は同期されますが、再購読は同期されません。 Marketo Sales および Salesforce から登録解除を削除する場合は、Salesforce で登録解除のチェックをオフにし、Marketo Sales で登録解除を削除します。
 
 ## [!DNL Salesforce] への登録解除同期の設定 {#configure-unsubscribe-sync-to-salesforce}
 
@@ -77,7 +80,7 @@ ht-degree: 96%
 
    ![](assets/syncing-unsubscribes-with-salesforce-6.png)
 
-1. クイック検索ボックスで、取引先責任者またはリードを検索します。 このシナリオでは、取引先責任者ページレイアウトのフィールドをインストールしますが、両方の人物レコード用にインストールする場合もあります。
+1. クイック検索ボックスで、「取引先責任者」または「リード」を検索します。 このシナリオでは、取引先責任者ページレイアウトのフィールドをインストールしますが、両方の人物レコード用にインストールする場合もあります。
 
    ![](assets/syncing-unsubscribes-with-salesforce-7.png)
 

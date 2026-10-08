@@ -3,13 +3,17 @@ description: Marketo Sales Connect テンプレートカテゴリを作成、編
 title: テンプレートカテゴリの管理
 feature: Marketo Sales Connect
 exl-id: 60836705-1e9a-422b-86c5-e8be1d58380a
-source-git-commit: 2b48226095a13f2e8323db4b13217f733cc7ea7f
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 89%
-
 ---
-
 # テンプレートカテゴリの管理 {#manage-template-categories}
 
 ## 新規カテゴリの作成 {#create-a-new-category}
@@ -26,7 +30,7 @@ ht-degree: 89%
 
 現時点では、カテゴリ全体を削除したり、テンプレートを一括で新しいカテゴリに移動したりすることはできません。
 
-実行できる操作は、カテゴリ内の各テンプレートを既存のカテゴリ名または新しい名前のいずれかに編集することです。 これにより、既存のすべてのテンプレートが別のフォルダーに移動します。 フォルダーが空になると、表示されなくなります。
+実行できる操作は、カテゴリ内の各テンプレートについて、そのカテゴリ名を既存のカテゴリ名または新しいカテゴリ名のいずれかに変更することです。 これにより、既存のすべてのテンプレートが別のフォルダーに移動します。 フォルダーが空になると、表示されなくなります。
 
 ## カテゴリの結合と重複排除 {#merge-and-de-duplicate-categories}
 
@@ -40,4 +44,4 @@ ht-degree: 89%
 
 >[!NOTE]
 >
->カテゴリにまだテンプレートが含まれている場合は、カテゴリを削除できません。 カテゴリを削除する前に、そうしたテンプレートを移動または削除します
+>カテゴリにまだテンプレートが含まれている場合は、カテゴリを削除できません。 カテゴリを削除する前に、これらのテンプレートを移動または削除します。

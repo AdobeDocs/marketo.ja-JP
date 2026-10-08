@@ -3,24 +3,26 @@ unique-page-id: 1147226
 description: はじめに - Marketo ドキュメント - 製品ドキュメント
 title: はじめに
 hide: true
-hidefromtoc: yes
+hidefromtoc: 'yes'
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/ytjDUdNi2sdVbyIM-FdTYwmXztDgwJnDnX593WVpKdU
+TQID: 'https://experienceleague.adobe.com/ytjDUdNi2sdVbyIM-FdTYwmXztDgwJnDnX593WVpKdU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 136
+source-wordcount: '136'
 ht-degree: 91%
-
 ---
-
 # はじめに {#getting-started}
 
 ## Adobe Marketo Engage とは {#what-is-marketo-engage}
 
-Marketo とは何でしょうか。 素晴らしい質問です。
+Marketo Engage とは何でしょうか。 素晴らしい質問です。
 
 [Adobe Marketo Engageについて詳しく見る](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
@@ -30,7 +32,7 @@ IT チームから少々支援を受けることで、すぐに完了できま�
 
 [設定を開始](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
-## すばやく成果を獲得 {#get-some-quick-wins}
+## 素早く成果を上げましょう {#get-some-quick-wins}
 
 Marketo Engage の主な機能を学ぶには、以下のミッションを完了します。
 

@@ -4,16 +4,18 @@ title: 返信ログ
 hide: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Jar0L3yAreXg7V0yVY-fbX2kH-RFklO1jyVEBsindBI
+TQID: 'https://experienceleague.adobe.com/Jar0L3yAreXg7V0yVY-fbX2kH-RFklO1jyVEBsindBI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 273
+source-wordcount: '273'
 ht-degree: 91%
-
 ---
-
 # 返信ログ {#reply-logging}
 
 セールスインサイトアクションは、見込み客の [!DNL Salesforce] への返信を自動的に記録する機能を備えています。 これを行うための構造は、メール返信トラッキングに基づいています。 見込み客の返信を追跡できる場合は、その返信を [!DNL Salesforce] に記録できます。
@@ -31,11 +33,11 @@ ht-degree: 91%
 
    >[!NOTE]
    >
-   >返信ログは、送信されたメールのログに記録する際に指定したのと同じルールに従います。 ログには、メールのログ記録方法、リードと取引先責任者、重複する記録がある場合、一致するレコードが見つからない場合が含まれます。
+   >返信ログは、送信したメールをログする際に設定しているのと同じルールに従います。 これには、メールをどのようにログに記録するか、リードおよび取引先責任者への登録方法、重複するレコードがある場合、または一致するレコードが見つからない場合の動作が含まれます。
 
 ## [!DNL Salesforce] でタイプを返信に設定 {#setting-type-to-reply-in-salesforce}
 
-[!DNL Salesforce] レポートから意味のあるデータを取得することが重要です。 「タイプ」フィールドに「返信」と入力する機能を使用すると、レポートからデータを取得できます。 `[!DNL Salesforce] admin` と連携して、この設定を取得します。
+[!DNL Salesforce] レポートから意味のあるデータを取得することが重要です。 「タイプ」フィールドに「返信」が設定されるようにしておくことで、そのデータをレポートから取得できるようになります。 `[!DNL Salesforce] admin` と連携して、この設定を取得します。
 
 1. **[!UICONTROL セットアップ]**／**[!UICONTROL カスタマイズ]**／**[!UICONTROL アクティビティ]**／**[!UICONTROL タスクフィールド]**&#x200B;に移動します。
 1. 「**[!UICONTROL タイプ]**」をクリックします。

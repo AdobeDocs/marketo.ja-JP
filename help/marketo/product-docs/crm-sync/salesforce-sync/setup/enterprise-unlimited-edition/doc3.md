@@ -2,15 +2,22 @@
 description: EnterpriseまたはUnlimitedの最後の手順で、MarketoとSalesforceを連携する方法について説明します。 Marketo Adminで、sync ユーザーセキュリティトークンを取得し、資格情報を設定します。
 title: ステップ 3/3 - MarketoとSalesforceを接続する（Enterprise/Unlimited）
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Salesforce Integration
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 70%
-
 ---
-
 # 手順 3 / 3：Marketo と Salesforce の接続（Enterprise／Unlimited） {#step-of-connect-marketo-and-salesforce-enterprise-unlimited}
 
 この記事では、設定済みの Salesforce インスタンスと同期するように Marketo を設定します。
@@ -24,6 +31,6 @@ ht-degree: 70%
 
 >[!TIP]
 >
->既にセキュリティトークンを持っている場合は、直接「同期ユーザー資格情報の設定」に進んで、準備を完了させます。
+>セキュリティトークンを既に取得済みの場合は、「同期ユーザー資格情報の設定」に直接進んでください。事前準備ができているのは素晴らしいことです。
 
-1. Marketo 同期ユーザで Salesforce にログインし、同期ユーザの名前をクリックしてから、「**[!UICONTROL マイ設定]**」をクリックします。
+1. Marketo 同期ユーザーで Salesforce にログインし、同期ユーザーの名前をクリックしてから、「**[!UICONTROL マイ設定]**」をクリックします。

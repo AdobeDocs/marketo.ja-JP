@@ -1,19 +1,21 @@
 ---
 unique-page-id: 30082174
 description: Sales ConnectとMarketoで、注目のアクションを把握。 セールス活動がライブフィードに流れる瞬間をどのように作成するかを説明します。
-title: Sales Connect の注目のアクション
+title: セールスコネクトにおける注目のアクション
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU
+TQID: 'https://experienceleague.adobe.com/KgwnG6Rpi3BJy-Vboy7MuPkjhz-O-BOzmncdgpbrNVU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 286
+source-wordcount: '286'
 ht-degree: 93%
-
 ---
-
 # [!DNL Sales Connect] での注目のアクション {#interesting-moments-in-sales-connect}
 
 注目のアクションは、[!DNL Marketo Sales Connect] を通じてセールスチームとコミュニケーションを取る鍵となります。
@@ -32,11 +34,11 @@ ht-degree: 93%
 
 それは、あなた次第です。 どんな情報がセールスチームに関係あるのかを自分で決定します。 セールスチームがリードについて知りたいのは、例えば次のようなことです。
 
-* Web サイトの価格設定ページへのアクセス
+* 自社 web サイトの価格設定ページを訪問する
 * 新製品発表メールに記載されたリンクをクリック
 * 製品デモをリクエスト
 
-## 注目のアクションを作成する方法 {#how-do-i-create-an-interesting-moment}
+## 注目のアクションを作成するには {#how-do-i-create-an-interesting-moment}
 
 1. [スマートキャンペーン](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)を選択します。トリガーされた場合にセールスチームが興味を持つものがいいでしょう。
 
@@ -56,7 +58,7 @@ ht-degree: 93%
 
    >[!NOTE]
    >
-   >注目のアクションが発生した日付と、追加された経緯（リードアクション > フローステップ > SOAP API など）も Marketo によって記録されます。
+   >Marketo によって、そのアクションが発生した日付と、どのようにして注目のアクションとして追加されたか（例：リードアクション > フローステップ、SOAP API）も追加されます。
 
 ## 注目のアクションは、Marketo でどのように表示されるか  {#what-does-an-interesting-moment-look-like-in-marketo}
 
@@ -66,6 +68,6 @@ ht-degree: 93%
 
 ## 注目のアクションは、[!DNL Sales Connect] でどのように表示されるか {#what-does-an-interesting-moment-look-like-in-sales-connect}
 
-注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。 [!DNL Salesforce] のリード所有者 ID を利用して、ユーザが所有する関連リードの注目のアクションを表示します。 リード名の横にあるドロップダウンをクリックすると、メール、電話、セールスキャンペーンでリードを素早くフォローアップできます。
+注目のアクションは、ユーザのライブフィードにリアルタイムで表示されます。 [!DNL Salesforce] のリード所有者 ID を利用して、ユーザが所有する関連リードの注目のアクションを表示します。 リード名の横にあるドロップダウンをクリックすると、メール／電話／セールスキャンペーンでリードを素早くフォローアップできます。
 
 ![](assets/engagement.jpg)

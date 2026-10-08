@@ -1,18 +1,23 @@
 ---
 description: 接続する前にVeeva CRMにMarketo フィールドを追加する方法を説明します。 Veevaの連絡先オブジェクトにスコアフィールドとオプションのマーケティングフィールドを作成します。
-title: 手順 1／3 - Marketo フィールドの  [!DNL Veeva]  CRM への追加
+title: 手順1/3 - Marketo フィールドを[!DNL Veeva] CRMに追加
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-TQID: https://experienceleague.adobe.com/ZRKsO6ysIvvGNApNPAMd17fWAbr9M-meujmMRL51xPU
+TQID: 'https://experienceleague.adobe.com/ZRKsO6ysIvvGNApNPAMd17fWAbr9M-meujmMRL51xPU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+subfeature_v2:
+  - id: f141b8e0-5812-4581-b47d-7322a93e7f28
+    internal-label: Veeva CRM
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 526
-ht-degree: 84%
-
+source-wordcount: '527'
+ht-degree: 82%
 ---
-
 # 手順 1／3：Marketo フィールドの [!DNL Veeva] CRM への追加 {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
@@ -28,7 +33,7 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
 ## Marketo フィールドを [!DNL Veeva] CRM に追加 {#add-marketo-fields-to-veeva-crm}
 
-上記の [!DNL Veeva] CRM で、リードおよび取引先責任者オブジェクトにカスタムフィールドを追加します。 さらに追加する場合は、この節の最後にある使用可能フィールドのテーブルを参照してください。
+上記の [!DNL Veeva] CRM で、リードおよび取引先責任者オブジェクトにカスタムフィールドを追加します。 さらに追加する場合は、このセクションの最後にある使用可能フィールドのテーブルを参照してください。
 
 「スコア」フィールドに対して、次の手順を実行してフィールドを追加します。
 
@@ -98,10 +103,10 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
 1. すべてのロールを&#x200B;**[!UICONTROL 表示]**&#x200B;および&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;に設定します。
 
-1. 同期ユーザのプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
+1. 同期ユーザーのプロファイルの&#x200B;**[!UICONTROL 読み取り専用]**&#x200B;のチェックをオフにします。
 
-* 同期ユーザとしてシステム管理者のプロファイルを持つユーザがいる場合は、システム管理者プロファイルの[!UICONTROL 読み取り専用]のチェックをオフにします（以下を参照）。
-* 同期ユーザにカスタムプロファイルを作成した場合は、そのカスタムプロファイルの[!UICONTROL 読み取り専用]のチェックをオフにします。
+* 同期ユーザーとしてシステム管理者のプロファイルを持つユーザーがいる場合は、システム管理者プロファイルの[!UICONTROL 読み取り専用]のチェックをオフにします（以下を参照）。
+* 同期ユーザーにカスタムプロファイルを作成した場合は、そのカスタムプロファイルの[!UICONTROL 読み取り専用]のチェックをオフにします。
 
   ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
@@ -115,9 +120,9 @@ Marketo Engage は、一連のフィールドを使用して、特定の種類�
 
 >[!NOTE]
 >
->フィールドを取引先責任者オブジェクトに追加することで、個人取引先オブジェクトにも追加されます。
+>フィールドを取引先責任者オブジェクトに追加することで、人物アカウントオブジェクトにも追加されます。
 
-オプション：このテーブルの追加のカスタムフィールドに対して上記の手順を実行します。
+任意：以下のテーブルにある追加のカスタムフィールドに対して、上記の手順を実行します。
 
 <table>
  <tbody>

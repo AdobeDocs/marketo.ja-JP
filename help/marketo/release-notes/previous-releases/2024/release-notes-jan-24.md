@@ -3,27 +3,38 @@ description: リリースノート - 2024年1月 - Marketo ドキュメント - 
 title: リリースノート - 2024年1月
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-TQID: https://experienceleague.adobe.com/H-fad0HtKRnUzLN8mBkX-i7iUboD-RqMY8-AM5z-Bz8
+TQID: 'https://experienceleague.adobe.com/H-fad0HtKRnUzLN8mBkX-i7iUboD-RqMY8-AM5z-Bz8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: cbccec41-b38b-4693-8acf-fed684dd06ba
+    internal-label: Sales Insight
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 840
+source-wordcount: '840'
 ht-degree: 90%
-
 ---
-
 # リリースノート：2024年1月 {#release-notes-jan-24}
 
 以下に、2024年1月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
@@ -34,7 +45,7 @@ ht-degree: 90%
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-次の機能は標準リリースサイクルに該当し、リリースは **2024年1月12日（PT）**&#x200B;から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、各機能の隣で確認してください。
+次の機能は標準リリースサイクルに該当し、リリースは **2024年1月12日（PT）**&#x200B;から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースされる機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -104,7 +115,7 @@ ht-degree: 90%
 
 ## アジャイルリリースの機能 {#agile-release-features}
 
-以下の機能は、アジャイル形式に従い、標準リリース日前後の様々な日付にリリースされます。 各機能のステータスについては、各機能の隣で確認してください。
+以下の機能は、アジャイル形式に従い、標準リリース日前後の様々な日付にリリースされます。 各機能のステータスは、その機能名の横を確認してください。
 
 ### セールスインサイトアクション {#sales-insight-actions}
 
@@ -206,7 +217,7 @@ ht-degree: 90%
 
 * **ワンクリックリスト登録解除の更新**：Gmail と Yahoo は、2024年2月1日（PT）に発効したいくつかの新しい送信者要件を実装しました。 [その概要と影響について説明します](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}。
 
-* **リード APIの同期の更新**: [&#x200B; リード API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}の動作は、`unsubscribed` フィールドの更新に関して少し調整されました。 現在は、値として `null` を渡すと、`false` の値を渡すのと同じになります。
+* **リード APIの同期の更新**: [ リード API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}の動作は、`unsubscribed` フィールドの更新に関して少し調整されました。 現在は、値として `null` を渡すと、`false` の値を渡すのと同じになります。
 
 * **Marketo Engage Forms jQuery 1.x**:2024年1月のリリースでは、jQuery for Marketo Engage FormsをjQuery 3.xにアップデートします。 これは、古いバージョンのjQueryに依存するカスタムフォーム実装に影響を与える可能性があります。 詳しくは、[こちらを参照](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}してください。
 

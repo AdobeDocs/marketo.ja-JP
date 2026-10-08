@@ -4,28 +4,32 @@ description: テンプレートを使用して、Marketo Engageでテンプレ�
 title: テンプレートを使用した web キャンペーンの作成
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/t052UObfOcBxHN-HKeo1XTFUi2GLfsk1qf4KzfkpAz8
+TQID: 'https://experienceleague.adobe.com/t052UObfOcBxHN-HKeo1XTFUi2GLfsk1qf4KzfkpAz8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 159
+source-wordcount: '159'
 ht-degree: 83%
-
 ---
-
 # テンプレートを使用した web キャンペーンの作成 {#using-templates-to-create-web-campaigns}
 
 組み込みのテンプレートを使用するか、[独自のテンプレートを保存](save-your-campaign-as-a-template.md)して、web キャンペーンを加速かつ簡易化できます。
 
 >[!NOTE]
 >
->テンプレートは、デスクトップとモバイルの両方で、すべてのデバイスとブラウジングエクスペリエンスに合わせて最適化されています。
+>テンプレートは、デスクトップと Mobile の両方で、すべてのデバイスとブラウジングエクスペリエンスに合わせて最適化されています。
 
 1. **[!UICONTROL Web キャンペーン]**&#x200B;に移動します。
 
@@ -67,7 +71,7 @@ ht-degree: 83%
 
    ![](assets/click-save-hand.jpg)
 
-これで完了です。 テンプレートを使用するとどれだけ時間を節約できるかがおわかりになったとおもいます。
+これで完了です。 テンプレートを使用すると、どれだけ時間を節約できるかおわかりいただけたと思います。
 
 >[!MORELIKETHIS]
 >

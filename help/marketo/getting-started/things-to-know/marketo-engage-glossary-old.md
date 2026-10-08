@@ -4,13 +4,17 @@ short-description: すばやく作業を開始できるように、Marketo Engag
 title: Marketo Engage 用語集
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7b8f503aae712d9d5e468c6218207514b43d634b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '4132'
 ht-degree: 91%
-
 ---
-
 # Marketo Engage 用語集 {#marketo-engage-glossary}
 
 Marketo Engage を使用する際に目にする可能性のある多くの用語の定義を以下に示します。 用語の追加をリクエストするには、[メールを送信](mailto:GRP-Marketo-articlefeedback@adobe.com)してください。
@@ -29,7 +33,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><strong>アカウント</strong></td>
-   <td colspan="1">この用語は、異なる意味を持つ可能性があります：<br> – お客様のMarketo インスタンス自体をMarketo アカウントと呼ぶことができます。<br>-<strong>TAM</strong>では、<strong>名前付きアカウント </strong>は、ユーザーが決定したアカウントが対象アカウントであると判断したアカウントです。<br>-TAMでは、CRM アカウントは、リンクされた<strong>CRM</strong> （アカウント <strong><span class="dnl">Salesforce</span></strong>、<strong><span class="dnl">MS Dynamics</span></strong>または</strong>）から4&rbrace; アカウント）から0&rbrace; アカウント 0&rbrace;です。<strong> リードと連絡先が関連付けられているビジネス/企業。<br></td>
+   <td colspan="1">この用語は、異なる意味を持つ可能性があります：<br> – お客様のMarketo インスタンス自体をMarketo アカウントと呼ぶことができます。<br>-<strong>TAM</strong>では、<strong>名前付きアカウント </strong>は、ユーザーが決定したアカウントが対象アカウントであると判断したアカウントです。<br>-TAMでは、CRM アカウントは、リンクされた<strong>CRM</strong> （アカウント <strong><span class="dnl">Salesforce</span></strong>、<strong><span class="dnl">MS Dynamics</span></strong>または</strong>）から4} アカウント）から0} アカウント 0}です。<strong> リードと連絡先が関連付けられているビジネス/企業。<br></td>
   </tr>
   <tr>
    <td><strong>顧客リスト</strong></td>
@@ -49,11 +53,11 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><strong>新規顧客獲得プログラム</strong></td>
-   <td colspan="1">人物を取得する役割を担っていたプログラム。 人物は匿名であった可能性があり、このプログラムがその人物を既知の人物に変換する役割を担っていました。 これは、ファーストタッチ属性を確立するのに役立ちます。</td>
+   <td colspan="1">人物を取得する役割を担っていたプログラム。 その人物は匿名だった可能性があり、このプログラムがその人物を認識済み顧客に変換する役割を担っていました。 これは、ファーストタッチアトリビューションを確立するのに役立ちます。</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>広告ネットワーク統合 </strong></a></td>
-   <td colspan="1">（以前の Ad Bridge）Marketo の一意のオーディエンスデータをペイドメディアシステムに連携させることで、さらに細かくターゲットを絞り、パーソナライズされたデジタル広告キャンペーンを実行できます。</td>
+   <td colspan="1">（以前の Ad Bridge）Marketo の独自のオーディエンスデータを有料メディアシステムに連携させることで、さらに細かくターゲットを絞り、パーソナライズされたデジタル広告キャンペーンを実行できます。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td>
@@ -69,7 +73,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><strong><a href="https://developer.adobe.com/marketo-apis/" rel="nofollow">アプリケーションプログラミングインターフェイス</a>（API）</strong></td>
-   <td colspan="1">オペレーティングシステムやアプリケーション（この場合、Marketo）で単一の機能または大量の機能を実行するために使用される、事前定義されたプロトコルのセット。</td>
+   <td colspan="1">オペレーティングシステムやアプリケーション（この場合、Marketo）で単一または複数の処理を実行するために使用される、事前定義されたプロトコルのセット。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>承認済み</strong></td>
@@ -99,7 +103,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><strong>行動スコア</strong></td>
-   <td colspan="1">人物のアクション／行動（例：web ページへの訪問、メール内のリンクのクリック、フォームへの入力など）に基づいてその人物に割り当てられたポイント値。 通常、製品や企業に対する人物の関心を測定するために使用されます。</td>
+   <td colspan="1">人物のアクション／行動（例：web ページへの訪問、メール内のリンクのクリック、フォームへの入力など）に基づいてその人物に割り当てられたポイント値。 通常、製品や会社に対する人物の興味を測定するために使用されます。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>ブロックリスト</strong></td>
@@ -107,7 +111,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" rel="nofollow"><strong>ブロックリスト登録済み</strong></a></td>
-   <td> マーケティング資料を受信してほしくない Marketo 上の人物（例：競合）のフィールド。 「ブロックリスト登録済み」フィールドを true に設定すると、その人物は、オペレーショナルメールを含め、Marketo インスタンスからのメールを受信しなくなります。</td>
+   <td> マーケティング資料を受信してほしくない Marketo 上の人物（例：競合他社）のフィールド。 「ブロックリスト登録済み」フィールドを true に設定すると、その人物は、オペレーショナルメールを含め、Marketo インスタンスからのメールを受信しなくなります。</td>
   </tr>
   <tr>
    <td>
@@ -149,11 +153,11 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td><strong>クリック/開封率 %</strong></td>
-   <td>開封され、メール内のリンクがクリックされたメールの割合。 これは、ユニーククリック数をユニーク開封数で割り、100 倍してパーセンテージとして表示することで、メールの関連性とコンテキストを測定します。</td>
+   <td>開封され、メール内のリンクがクリックされたメールの割合。 これは、一意のクリック数を一意の開封数で割り、100 倍してパーセンテージとして表示することで、メールの関連性とコンテキストを測定します。</td>
   </tr>
   <tr>
    <td><strong>クリック</strong></td>
-   <td>デフォルトでは、メール内のリンクにはトラッキング情報が埋め込まれており、誰がどのリンクをクリックしたか、リンクが合計で何回クリックされたかなどを確認できます。</td>
+   <td>デフォルトでは、メール内のリンクにはトラッキングが埋め込まれており、誰がどのリンクをクリックしたか、リンクが合計で何回クリックされたかなどを確認できます。</td>
   </tr>
   <tr>
    <td><strong>クリックストリーム</strong></td>
@@ -168,8 +172,8 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
    <td colspan="1">URL の前の部分。 1 つの単語（プラス YourCompany.com）が CNAME と呼ばれます（例：<em>info</em>.YourCompany.com/）。</td>
   </tr>
   <tr>
-   <td colspan="1"><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md" rel="nofollow"><strong>企業の web アクティビティレポート</strong></a></td>
-   <td colspan="1">どの企業が web サイトを訪問しているかを表すレポートのタイプ。</td>
+   <td colspan="1"><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md" rel="nofollow"><strong>会社 web アクティビティレポート</strong></a></td>
+   <td colspan="1">どの企業が web サイトを訪問しているかを表示するレポートタイプ。</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md" rel="nofollow"><strong>制約</strong></a></td>
@@ -201,7 +205,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" rel="nofollow">カスタムフィールド</a></strong></td>
-   <td colspan="1">特定のニーズを満たすためにユーザが作成する非標準のフィールド。 カスタムフィールドタイプには、<a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md" rel="nofollow">独自の用語集</a>があります。</td>
+   <td colspan="1">特定のニーズを満たすためにユーザーが作成する非標準のフィールド。 カスタムフィールドタイプには、<a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md" rel="nofollow">独自の用語集</a>があります。</td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md" rel="nofollow">カスタムオブジェクト</a></strong></td>
@@ -261,7 +265,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><strong>ドキュメント</strong></td>
-   <td colspan="1">ドキュメントは、お客様が製品をより深く理解するためのヘルプ記事です。 Marketoには、製品ドキュメント（現在お使いのサイト）、<a href="https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/home" rel="nofollow">開発者</a> ドキュメント、<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow"> サポート </a> ドキュメントなど、いくつかの種類のドキュメントがあります。</td>
+   <td colspan="1">ドキュメント（documents）の略である docs は、お客様が製品をより深く理解するためのヘルプ記事です。 Marketoには、製品ドキュメント（現在お使いのサイト）、<a href="https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/home" rel="nofollow">開発者</a> ドキュメント、<a href="https://nation.marketo.com/t5/Knowledgebase/tkb-p/support_solutions-documents" rel="nofollow"> サポート </a> ドキュメントなど、いくつかの種類のドキュメントがあります。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>ドメインベースのメッセージ認証、レポート、適合（DMARC）</strong></td>
@@ -273,7 +277,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><strong>下書き</strong></td>
-   <td colspan="1"><p>まだ<strong>承認</strong>されていない<strong>メール</strong>または<strong>ランディングページ</strong>。 下書きは、承認されるまで、公開できません。 下書きをテストメール（サンプル）として送信することはできますが、分析は記録されません。 <br></p></td>
+   <td colspan="1"><p>まだ<strong>承認</strong>されていない<strong>メール</strong>または<strong>ランディングページ</strong>。 下書きは、承認されるまで、公開できません。 ドラフトをテストメール（サンプル）として送信できますが、分析は記録されません。 <br></p></td>
   </tr>
   <tr>
    <td colspan="1"><strong>ドリップキャンペーン</strong></td>
@@ -315,7 +319,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#email-suspended" rel="nofollow"><strong>メールの中断</strong></a></td>
-   <td colspan="1"><strong>ハードバウンス</strong>の発生後、24 時間にわたって人物がメールを受信するのをブロックするステータス。 24 時間後、その人物は再びメールを利用できるようになります。 </td>
+   <td colspan="1"><strong>ハードバウンス</strong>の発生後、24 時間にわたって人物がメールを受信するのをブロックするステータス。 24 時間後、その人物は再びメール送信の対象にできるようになります。 </td>
   </tr>
   <tr>
    <td colspan="1">
@@ -466,7 +470,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td><strong><a href="https://launchpoint.marketo.com/" rel="nofollow">Launchpoint</a></strong></td>
-   <td>数百社のテクノロジーおよびデジタルサービスパートナーが参加する、クラス最高の Marketo 統合ソリューションのホーム。</td>
+   <td>数百社のテクノロジーおよびデジタルサービスパートナーが参加する、クラス最高の Marketo 統合ソリューションのホームです。</td>
   </tr>
   <tr>
    <td><strong>リード</strong></td>
@@ -512,11 +516,11 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md#marketing-suspended" rel="nofollow"><strong>マーケティング中断</strong></a></td>
-   <td colspan="1">このフィールドは、Marketo <strong>データベース</strong>の誰かに対して一時的にメールを使用できないようにするために、<strong>ユーザ</strong>によって手動で設定されます。</td>
+   <td colspan="1">このフィールドは、Marketo <strong>データベース</strong>の誰かに対して一時的にメールを使用できないようにするために、<strong>ユーザー</strong>によって手動で設定されます。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Marketo リード管理（MLM）</strong></td>
-   <td colspan="1">Marketo の従来のコアアプリケーションインターフェイスを説明するために使用される俗称。</td>
+   <td colspan="1">Marketo の従来のコアアプリケーションインターフェイスを説明するために使用される俗称です。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Marketo パフォーマンスインサイト（MPI）</strong></td>
@@ -559,7 +563,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
  <tbody>
   <tr>
    <td><strong>重点顧客</strong></td>
-   <td><p><strong>TAM</strong> で、ユーザが追跡したいターゲットアカウントと判断したアカウント。</p></td>
+   <td><p><strong>TAM</strong> で、ユーザーが追跡したいターゲットアカウントと判断したアカウント。</p></td>
   </tr>
   <tr>
    <td><strong>育成プログラム</strong></td>
@@ -590,7 +594,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td><strong>オプトイン</strong></td>
-   <td>人物がマーケティングメールの受信を開始する許可を与えること。</td>
+   <td>人がマーケティングメールの受信を開始することに同意すること。</td>
   </tr>
   <tr>
    <td><strong>オプトアウト</strong></td>
@@ -609,7 +613,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
  <tbody>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md" rel="nofollow"><strong>人物の効果レポート</strong></a></td>
-   <td colspan="1">Marketo のレポートのタイプ。 これにより、<strong>データベース</strong>の成長を経時的に測定できます。</td>
+   <td colspan="1">Marketo のレポートタイプ。 これにより、<strong>データベース</strong>の成長を経時的に測定できます。</td>
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md" rel="nofollow"><strong>期間原価</strong></a></td>
@@ -620,7 +624,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
     <div>
      <p><a href="/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md" rel="nofollow"><strong> パフォーマンスインサイト</strong></a></p>
     </div></td>
-   <td colspan="1">以前は Marketo パフォーマンスインサイト（MPI）と呼ばれていました。 様々なツールを使用して、トレンドを発見し、一貫した勝利戦略を特定するのに役立つ、アドオン分析機能。</td>
+   <td colspan="1">以前は Marketo パフォーマンスインサイト（MPI）と呼ばれていました。 様々なツールを使用して、トレンドを発見し、一貫して成果を上げる戦略を特定するのに役立つ、アドオンの分析機能です。</td>
   </tr>
   <tr>
    <td><strong>人物</strong></td>
@@ -643,7 +647,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md" rel="nofollow">プログラム</a></strong></td>
-   <td colspan="1">マーケティング戦略を実行するために必要なすべてのものを保持するコンテナ。 <strong>イベントプログラム</strong>、<strong>エンゲージメントプログラム</strong>、<strong>メールプログラム</strong>、<strong>デフォルトプログラム</strong>の 4 つの異なるタイプがあります。</td>
+   <td colspan="1">マーケティング施策を実行するために必要なすべてのものを保持するコンテナです。 <strong>イベントプログラム</strong>、<strong>エンゲージメントプログラム</strong>、<strong>メールプログラム</strong>、<strong>デフォルトプログラム</strong>の 4 つの異なるタイプがあります。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>プログラムの月</strong></td>
@@ -651,7 +655,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md" rel="nofollow"><strong>プログラム効果レポート</strong></a></td>
-   <td colspan="1">Marketo のレポートのタイプ。 プログラムがどのように機能しているかを確認できます。 <strong>タグ</strong>、<strong>期間原価</strong>などでフィルタリングします。</td>
+   <td colspan="1">Marketo のレポートタイプ。 プログラムがどのように機能しているかを確認できます。 <strong>タグ</strong>、<strong>期間原価</strong>などでフィルタリングします。</td>
   </tr>
  </tbody>
 </table>
@@ -689,7 +693,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td><strong>ロール</strong></td>
-   <td>ユーザに割り当てられるタイトルで、複数の権限をグループ化したもの（例：管理者、マーケティングユーザ）。</td>
+   <td>ユーザーに割り当てられるタイトルで、複数の権限をグループ化したもの（例：管理者、マーケティングユーザー）。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>ロールアカウント</strong></td>
@@ -752,7 +756,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><strong>スパムトラップ</strong></td>
-   <td colspan="1">スパム送信者を捕捉するために、ISP やメールセキュリティプロバイダーが特別に監視しているメールアドレス。 これには、使用されたことのないアドレス、タイポドメイン、期限切れドメインなどが含まれます。 スパムトラップの様々なタイプは、フォームの問題（タイポスパムトラップ）、データベースを適切に管理していない、または無効なアドレスを適切に削除していない（期限切れドメインスパムトラップ）、リストを購入することで許可なくアドレスを取得している（初期のスパムトラップ）など、取得に関する様々な問題を示しています。 これらのアドレスに送信されたすべてのメールは、<strong>スパム</strong>としてマークされます。</td>
+   <td colspan="1">スパム送信者を捕捉するために、ISP やメールセキュリティプロバイダーが特別に監視しているメールアドレス。 これには、使用されたことのないアドレス、タイポドメイン、期限切れドメインなどが含まれます。 スパムトラップの様々なタイプは、フォームに起因する問題（タイポスパムトラップ）、データベースを適切に管理していない、または無効なアドレスを削除していないことによる問題（期限切れドメインスパムトラップ）、リストを購入するなどして許可なくアドレスを獲得していることによる問題（プリスティンスパムトラップ）など、獲得に関する様々な問題を示しています。 これらのアドレスに送信されたすべてのメールは、<strong>スパム</strong>としてマークされます。</td>
   </tr>
   <tr>
    <td><strong>分割テスト</strong></td>
@@ -791,7 +795,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md" rel="nofollow">トークン</a></strong></td>
-   <td colspan="1">パーソナライズされたデータの自動挿入を可能にする、Marketo 内の様々なアセット/機能で使用できる変数。</td>
+   <td colspan="1">パーソナライズされたデータの自動挿入を可能にする、Marketo 内の様々なアセット／機能で使用できる変数。</td>
   </tr>
   <tr>
    <td colspan="1"><strong>樹木</strong></td>
@@ -854,7 +858,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">Web ページアクティビティレポート</a></strong></td>
-   <td>Marketo のレポートのタイプ。 これにより、web サイトを訪問している既知の<i>または</i>匿名の人物を確認できます。</td>
+   <td>Marketo のレポートタイプ。 これにより、web サイトを訪問している既知の<i>または</i>匿名の人物を確認できます。</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Web パーソナライゼーション</strong></td>
@@ -866,7 +870,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md" rel="nofollow">Web サイトの再ターゲティング</a></strong></td>
-   <td>Marketo ユーザが既知の訪問者および匿名の訪問者（Facebook および Google 経由）をターゲットにして、業界、重点顧客、既知のデータに基づいて、関連性の高い広告を表示することを支援するアドオン機能。</td>
+   <td>Marketo ユーザが既知の訪問者および匿名の訪問者（Facebook および Google 経由）をターゲットにして、業界、重点アカウント、既知のデータに基づいて、関連性の高い広告を表示することを支援するアドオン機能。</td>
   </tr>
   <tr>
    <td><strong>What You See Is What You Get（WYSIWYG）</strong></td>

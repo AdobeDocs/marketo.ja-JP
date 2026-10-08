@@ -4,21 +4,28 @@ description: エンゲージメントダッシュボードと、それがコン�
 title: エンゲージメントダッシュボード
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-TQID: https://experienceleague.adobe.com/L-NYq3k9P9grtBXGT070QXkDw7sictQdGauAVu0Wmjc
+TQID: 'https://experienceleague.adobe.com/L-NYq3k9P9grtBXGT070QXkDw7sictQdGauAVu0Wmjc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 292
+source-wordcount: '292'
 ht-degree: 93%
-
 ---
-
 # エンゲージメントダッシュボード {#the-engagement-dashboard}
 
 エンゲージメントダッシュボードを使用すると、エンゲージメントプログラムのコンテンツの効果を簡単に確認できます。
@@ -51,21 +58,21 @@ ht-degree: 93%
 >
 >「消費済み」ユーザーは、次のキャストでは何の通信も受信しません。
 
-## エンゲージメントウィジェットについて {#understand-the-engagement-over-time-widget}
+## エンゲージメント推移ウィジェットについて {#understand-the-engagement-over-time-widget}
 
 平均エンゲージメントスコアの推移と、コンテンツ編集の影響を示します。
 
 >[!AVAILABILITY]
 >
->この機能は、Marketo の収益サイクルエクスプローラを利用するお客様向けのアドオンとして利用できます。 詳しくは、アドビアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>この機能は、Marketo の収益サイクルエクスプローラを利用するお客様向けのアドオンとして利用できます。 詳しくは、アドビのアカウントチーム（アカウントマネージャー）にお問い合わせください。
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 
-平均ではなくコンテンツの 1 つの部分を表示するには、歯車アイコンをクリックして、コンテンツの一部を選択します。
+平均ではなく 1 つのコンテンツを表示するには、歯車アイコンをクリックし、そのコンテンツを選択します。
 
 ![](assets/image2014-9-15-16-3a46-3a45.png)
 
-## 最も高いエンゲージメントウィジェットについて {#understand-the-highest-engagement-widget}
+## 最高エンゲージメントウィジェットについて {#understand-the-highest-engagement-widget}
 
 最も高いエンゲージメントスコアで並べられた、すべてのコンテンツのリスト。
 

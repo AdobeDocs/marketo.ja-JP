@@ -4,19 +4,21 @@ description: Sales Connectで電子メール署名を追加する方法につい
 title: 電子メール署名の追加
 exl-id: 176c742a-6c24-4629-8ad5-4d85fac7fcb5
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/bmliIcsik0Hfq7QehDmGglIEgpOiBNQmsTrNHgx-7jM
+TQID: 'https://experienceleague.adobe.com/bmliIcsik0Hfq7QehDmGglIEgpOiBNQmsTrNHgx-7jM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 126
+source-wordcount: '126'
 ht-degree: 80%
-
 ---
-
 # 電子メール署名の追加 {#add-your-email-signature}
 
-Sales Connect からのメールは、自分のメールクライアントから送信する場合とシームレスなエクスペリエンスであるように感じたいものです。 これを行う最も良い方法は、電子メールの署名を追加することです。
+セールスコネクトからメールを送信する際も、自分のメールクライアントから送信しているときと同じようにシームレスなエクスペリエンスになるようにしたいと考えています。 これを行う最も良い方法は、電子メールの署名を追加することです。
 
 1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
@@ -40,4 +42,4 @@ Sales Connect からのメールは、自分のメールクライアントから
 
    >[!TIP]
    >
-   >作成画面の署名が、メールクライアントに一覧表示されている署名に類似していることを確認します。
+   >作成画面の署名が、メールクライアントに表示されている署名と同様になっていることを確認します。

@@ -4,16 +4,18 @@ description: 承認済みの予測コンテンツのタイトル、有効なソ�
 title: 予測コンテンツについて
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/gBdlrGHiT--9DZtU6kSvtDCqWC0XkC5Pqx6kPHSsqJI
+TQID: 'https://experienceleague.adobe.com/gBdlrGHiT--9DZtU6kSvtDCqWC0XkC5Pqx6kPHSsqJI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 323
+source-wordcount: '323'
 ht-degree: 92%
-
 ---
-
 # 予測コンテンツについて {#understanding-predictive-content}
 
 [予測コンテンツのタイトルを承認](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md)した後、ここで作業します。 [!UICONTROL 予測コンテンツ]ページには、予測コンテンツに対して承認したすべてのタイトルが表示されます。
@@ -45,7 +47,7 @@ ht-degree: 92%
 
 **[!UICONTROL ソース別分析]**
 
-有効なコンテンツ分析をフィルターし、各ソースのパフォーマンスを確認できます。
+有効なコンテンツ分析をフィルターすると、各ソースのパフォーマンスを確認できます。
 
 ![](assets/image2017-10-3-9-3a25-3a34.png)
 
@@ -55,9 +57,9 @@ ht-degree: 92%
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
-## 予測コンテンツのテーブルデータの表示 {#view-table-data-for-predictive-content}
+## 予測コンテンツのテーブルデータを表示する {#view-table-data-for-predictive-content}
 
-このテーブルでは、レコメンデーションバー、メール、リッチメディアのソースのうち、どれが予測コンテンツで有効か、左から右の順に示されます。 有効なソースは緑色で表示されます。 コンテンツを編集する際に、これらを有効にします。
+このテーブルでは、左から右の順にレコメンデーションバー、メール、リッチメディアの各ソースのうち、どれが予測コンテンツで有効になっているかを確認できます。 有効なソースは緑色で表示されます。 コンテンツを編集する際に、これらを有効にします。
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 

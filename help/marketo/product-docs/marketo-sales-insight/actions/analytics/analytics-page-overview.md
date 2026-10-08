@@ -3,29 +3,31 @@ description: Sales Insight Actionsの「Analytics」タブとメールエンゲ�
 title: 分析ページの概要
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/vOLcxsTdvayDUx4kCRQmXZ-V-Kir-lR6ECPKeuiplJ0
+TQID: 'https://experienceleague.adobe.com/vOLcxsTdvayDUx4kCRQmXZ-V-Kir-lR6ECPKeuiplJ0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 403
+source-wordcount: '403'
 ht-degree: 88%
-
 ---
-
 # 分析ページの概要 {#analytics-page-overview}
 
-「分析」タブでは、メールのエンゲージメントに関するデータを確認できます。 個人データとチームデータの両方が表示されます。 管理者は、「[!UICONTROL 自分]」タブでユーザによるフィルタリングも行うことができます。
+「分析」タブでは、メールのエンゲージメントに関するデータを確認できます。 個人データとチームデータの両方が表示されます。 管理者は、「[!UICONTROL 自分]」タブでユーザーによるフィルタリングも行うことができます。
 
-## 更新の頻度 {#how-often-does-it-update}
+## どのくらいの頻度で更新されますか？ {#how-often-does-it-update}
 
 分析ページは 10 分ごとに更新されます。
 
 ## 数値の意味 {#what-do-the-numbers-mean}
 
-放射状グラフの数値は、送信済みメール総数に対するイベントの総数を計算したものです。 同じ単一メールが 5 回参照された場合は、送信数「1」に参照数「5」が加算されます。 円グラフの中のクリック数や返信数についても同じ方法で計算されます。
+放射状グラフの数値は、送信済みメール総数に対するイベントの総数を計算したものです。 同じメールが 5 回表示された場合は、この数値に表示数「5」が加算されます。 円グラフの中のクリック数や返信数についても同じ方法で計算されます。
 
 テーブルに表示されたすべての統計は、メールに対する一意の参照数、クリック数、返信数を参照して計算されます。 1 件のメールが 5 回表示された場合、1 件の表示としてカウントされます。 そのため、テーブルの数値と放射状グラフの数値に大きな違いが見られる場合があります。
 
@@ -35,7 +37,7 @@ ht-degree: 88%
 
 分析ページのタブからタブに移動する際に、表示、クリックまたは返信アイコンをクリックして、統計を並べ替えることができます。
 
-「[!UICONTROL 自分]」タブと「[!UICONTROL チーム]」タブには、クローズした取引に関する情報が表示されます。 この数は、チームのメンバーがクローズする回数によって制御されます。
+「[!UICONTROL 自分]」タブと「[!UICONTROL チーム]」タブには、クローズした取引に関する情報が表示されます。 この数値は、チームメンバーがゴングを鳴らした回数によって決まります。
 
 ## 「[!UICONTROL 自分]」タブ {#me-tab}
 

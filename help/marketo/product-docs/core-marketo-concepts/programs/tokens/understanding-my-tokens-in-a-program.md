@@ -1,29 +1,33 @@
 ---
 unique-page-id: 1147114
 description: プログラムのマイトークンについて説明します。 トークンを使用して、プログラムまたはメンバーのデータでコンテンツをパーソナライズします。
-title: プログラム内のマイトークンの理解
+title: プログラム内のマイトークンについて
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-TQID: https://experienceleague.adobe.com/UYz7UtSHFbDdslMLdaGmIbdaHKedxjAhU-K8RhkgmS4
+TQID: 'https://experienceleague.adobe.com/UYz7UtSHFbDdslMLdaGmIbdaHKedxjAhU-K8RhkgmS4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
+  - id: a6d52c76-712f-5f64-a879-9c65c1499322
+    internal-label: Tokens
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Flow Step
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 441
+source-wordcount: '441'
 ht-degree: 93%
-
 ---
-
-# プログラム内のマイトークンの理解 {#understanding-my-tokens-in-a-program}
+# プログラム内のマイトークンについて {#understanding-my-tokens-in-a-program}
 
 トークンは、メール、ランディングページ、スマートキャンペーンで使用する変数で、これにより作業が手軽になります。
 
-マイトークンに加えて、プログラムにビルトインされた任意のトークンを使用することもできます。 [&#x200B; トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}を参照してください。
+マイトークンに加えて、プログラム内で任意のビルトイントークンを使用することもできます。 [ トークンの概要](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}を参照してください。
 
 ## マイトークン  {#my-tokens}
 
@@ -54,7 +58,7 @@ ht-degree: 93%
   </tr>
   <tr>
    <td>メールスクリプト <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>このトークンを使用して、メールで Velocity スクリプトを実行します。 詳細は<a href="https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting" title="リンク先" rel="nofollow">こちら</a>を参照してください。 </td>
+   <td>このトークンを使用すると、メール内で Velocity スクリプトを実行できます。 詳細は<a href="https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/email-scripting" title="リンク先" rel="nofollow">こちら</a>を参照してください。 </td>
   </tr>
   <tr>
    <td>数字<span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>
@@ -70,7 +74,7 @@ ht-degree: 93%
   </tr>
   <tr>
    <td colspan="1">SFDC キャンペーン <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td>
-   <td colspan="1">このトークンを使用すると、Marketo プログラムの一部となるリードを、SFDC キャンペーンが追加されているすべてのリードにも追加できます。</td>
+   <td colspan="1">このトークンを使用すると、Marketo プログラムの一部となったリードを、指定された SFDC キャンペーンにも追加できます。</td>
   </tr>
   <tr>
    <td>テキスト <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
@@ -85,7 +89,7 @@ ht-degree: 93%
 
 ## トークンのネスト {#nesting-tokens}
 
-新しいトークンを作成すると、そのトークンをツリー内の他のオブジェクトで参照できます。 管理を容易にするために、トークンが作成された場所に命名構造があります。
+新しいトークンを作成すると、そのトークンをツリー内の他のオブジェクトで参照できます。 管理を容易にするために、トークンがどこで作成されたかに基づく命名構造が用意されています。
 
 * **ローカルトークン：**&#x200B;そのプログラムまたはフォルダーで適切に作成されたトークン。
 * **継承されたトークン：**&#x200B;ツリーの上位のプログラムまたはフォルダーの任意の場所に作成されたトークン。
@@ -97,11 +101,11 @@ ht-degree: 93%
 
 >[!IMPORTANT]
 >
->ネストされたトークンは、[&#x200B; バッチキャンペーン &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}ではサポートされていません。
+>ネストされたトークンは、[ バッチキャンペーン ](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}ではサポートされていません。
 
 >[!NOTE]
 >
->エンゲージメントプログラムから送信したメールが、デフォルトプログラムの子メールの場合（エンゲージメントプログラムのローカルメールではない場合）、メールで使用されるマイトークンは、子メールが存在するデフォルトプログラムから解決されます。
+>エンゲージメントプログラムから送信したメールがデフォルトプログラムの子メールの場合（エンゲージメントプログラムのローカルメールではない場合）、メールで使用されるマイトークンは、その子メールが存在するデフォルトプログラムから参照されます。
 
 >[!MORELIKETHIS]
 >

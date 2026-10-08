@@ -3,19 +3,21 @@ description: セールスコネクトにおけるメール接続のスロット�
 title: メール接続のスロットリング
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM
+TQID: 'https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 408
-ht-degree: 95%
-
+source-wordcount: '409'
+ht-degree: 89%
 ---
-
 # メール接続のスロットリング {#email-connection-throttling}
 
-[!DNL Sales Connect] アカウントを統合して、[!DNL Exchange] または Gmail のメールプロバイダーを通じて送信すると、1:1 のセールス通信の合理化された設定とメール配信品質を最適化できます。 ただし、システムの健全性とアカウントの安全性を維持するために、Gmail と Exchange ではメール送信の制限が実施されます。 これらの制限は、プロバイダーの裁量によって増減することができます。
+[!DNL Sales Connect] アカウントを統合して[!DNL Exchange]またはGmail メールプロバイダーを通じて送信すると、合理的な設定が可能になり、1対1のセールスコミュニケーション用にメールの配信品質が最適化されます。 ただし、システムの健全性とアカウントの安全性を維持するために、Gmail と Exchange ではメール送信の制限が実施されます。 これらの制限は、プロバイダーの裁量によって増減することができます。
 
 ## 概要 {#overview}
 
@@ -25,10 +27,10 @@ ht-degree: 95%
 
 **メモ／ハイライト**
 
-* ユーザが Gmail または [!DNL Exchange] に接続すると自動的に有効化されます。
+* ユーザーが Gmail または [!DNL Exchange] に接続すると自動的に有効化されます。
 * ニーズに合わせてレコメンデーションの設定を増減する場合は、カスタマイズできます。
 * Gmail または [!DNL Exchange] を通じて送信されるメールのみスロットリングし、カスタム配信チャネルをスロットリングしません。
-* メール接続のスロットリングは、各ユーザがメールプロバイダーと独自に接続しているため、各ユーザのメールを個別にキューイングします
+* メール接続のスロットリングでは、各ユーザーがメールプロバイダーと独自に接続しているため、各ユーザーのメールが個別にキューに入れられます。
 
 **メール接続のスロットリングの設定**
 
@@ -82,4 +84,4 @@ ht-degree: 95%
 >
 >* [配信チャネルの概要](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/delivery-channel-overview.md)
 >* [Gmail ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
->* [&#x200B; [!DNL Outlook]  ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+>* [ [!DNL Outlook]  ユーザのメール接続](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

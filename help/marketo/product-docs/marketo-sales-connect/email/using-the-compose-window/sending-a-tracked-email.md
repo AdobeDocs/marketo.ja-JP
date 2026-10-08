@@ -4,19 +4,21 @@ description: Sales Connectでトラッキング対象メールを送信する方
 title: トラッキングするメールの送信
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/TBEuqnKhnaJuZaNivU36NNZJ6cV7-13Stp8SwSdNY78
+TQID: 'https://experienceleague.adobe.com/TBEuqnKhnaJuZaNivU36NNZJ6cV7-13Stp8SwSdNY78'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 207
+source-wordcount: '207'
 ht-degree: 76%
-
 ---
-
-# トラッキングするメールの送信 {#sending-a-tracked-email}
+# トラッキングメールの送信 {#sending-a-tracked-email}
 
 [!DNL Marketo Sales Connect] を使用してメールを送信する際に、表示数（メール開封数）とクリック数（クリックされたリンク数）が追跡されます。
 
@@ -39,7 +41,7 @@ ht-degree: 76%
    >
    >「**[!UICONTROL 宛先]**」フィールドに入力できるのは 1 人だけです。
 
-1. CC または BCC を送信する受信者を各フィールドに追加します。
+1. CC または BCC に追加したい受信者を各フィールドに追加します。
 
    ![](assets/three.png)
 

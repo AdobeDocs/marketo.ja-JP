@@ -2,15 +2,19 @@
 description: インタラクティブウェビナーのエンゲージメントツールについて詳しく見る。 投票やQ&Aなどの機能により、ウェビナー中の参加者のインタラクションを向上できます。
 title: インタラクティブウェビナーのエンゲージメントツール
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Interactive Webinars
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1285'
 ht-degree: 1%
-
 ---
-
 # インタラクティブウェビナーのエンゲージメントツール {#engagement-tools-in-interactive-webinars}
 
 Adobe Connectルーム内のポッド配信機能。 ポッドをレイアウトに追加するには、ポッドメニューをクリックし、追加するポッドを選択します。

@@ -4,26 +4,36 @@ title: メールテンプレート
 hide: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-TQID: https://experienceleague.adobe.com/z-unNOgHUxTyNSc8P5r7-xbP8AQd79P3Z0qz3uZkKqw
+TQID: 'https://experienceleague.adobe.com/z-unNOgHUxTyNSc8P5r7-xbP8AQd79P3Z0qz3uZkKqw'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
 subfeature_v2:
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1786
+source-wordcount: '1786'
 ht-degree: 9%
-
 ---
-
 # メールテンプレート {#email-templates}
 
 デザインプロセスを高速化および改善するために、スタンドアロンのメールテンプレートを作成して、カスタムコンテンツを簡単に再利用できます。
@@ -34,7 +44,7 @@ ht-degree: 9%
 
 >[!PREREQUISITES]
 >
->新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを[Adobe Identity Management System （IMS） &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)に移行する必要があります。 まだ移行しておらず、迅速な対応をリクエストする場合は、アドビのアカウントチーム（担当のアカウントマネージャー）または [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。
+>新しい電子メールデザイナーにアクセスするには、Marketo Engage サブスクリプションを[Adobe Identity Management System （IMS） ](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview)に移行する必要があります。 まだ移行しておらず、迅速な対応をリクエストする場合は、アドビのアカウントチーム（担当のアカウントマネージャー）または [Marketo サポート](https://nation.marketo.com/t5/support/ct-p/Support)にお問い合わせください。
 
 >[!NOTE]
 >
@@ -62,7 +72,7 @@ ht-degree: 9%
 
 ## テンプレートをデザイン {#design-your-template}
 
-_テンプレートのデザイン_ ページでは、いくつかのオプションから選択できます。 [&#x200B; ゼロからデザイン &#x200B;](#design-from-scratch)、[独自のHTML](#import-html)を読み込むか、[既存のテンプレート &#x200B;](#choose-a-template)を選択します（サンプルのいずれか1つ、または既に保存されたもの）。
+_テンプレートのデザイン_ ページでは、いくつかのオプションから選択できます。 [ ゼロからデザイン ](#design-from-scratch)、[独自のHTML](#import-html)を読み込むか、[既存のテンプレート ](#choose-a-template)を選択します（サンプルのいずれか1つ、または既に保存されたもの）。
 
 ![](assets/design-your-template-1.png)
 
@@ -72,7 +82,7 @@ _テンプレートのデザイン_ ページでは、いくつかのオプシ�
 
 1. _テンプレートのデザイン_ ページで、**最初からデザイン**&#x200B;を選択します。
 
-1. [構造とコンテンツ &#x200B;](#add-structure-and-content)を追加します。
+1. [構造とコンテンツ ](#add-structure-and-content)を追加します。
 
 ### HTMLの読み込み {#import-your-html}
 
@@ -166,7 +176,7 @@ _テンプレートのデザイン_ ページでは、いくつかのオプシ�
 
 ### Assetsを追加 {#add-assets}
 
-Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
+Marketo Engage インスタンスの[画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
 
 >[!NOTE]
 >
@@ -227,7 +237,7 @@ Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marke
 
    ![](assets/personalize-content-1.png)
 
-1. 目的の[&#x200B; トークンタイプ &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}をクリックします。
+1. 目的の[ トークンタイプ ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}をクリックします。
 
    ![](assets/personalize-content-2.png)
 
@@ -247,7 +257,7 @@ Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marke
 
 ### URL トラッキングを編集 {#edit-url-tracking}
 
-メール内のリンクでMarketo トラッキング URLを有効にできない場合があります。 この情報は、表示先ページで URL パラメーターをサポートしていないためにページリンクエラーになる場合などに役立ちます。
+メール内のリンクでMarketo トラッキング URLを有効にできない場合があります。 これは、宛先ページが URL パラメーターをサポートしておらず、リンク切れになる可能性がある場合などに役立ちます。
 
 1. リンク アイコンをクリックして、メール内のすべてのURLを表示します。
 
@@ -287,9 +297,9 @@ Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marke
 
 * デスクトップ、モバイル、またはテキストのみ/プレーンテキストでコンテンツを表示します。
 
-   * デバイス間でコンテンツをプレビューするには、ライブビュー（目）アイコンをクリックします。
+  * デバイス間でコンテンツをプレビューするには、ライブビュー（目）アイコンをクリックします。
 
-   * すぐに使用できるデバイスのいずれかを選択するか、カスタムディメンションを入力してコンテンツをプレビューします。
+  * すぐに使用できるデバイスのいずれかを選択するか、カスタムディメンションを入力してコンテンツをプレビューします。
 
 ### 詳細オプション {#more-options}
 
@@ -299,7 +309,7 @@ Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marke
 
 * **テンプレートをリセット**：これを選択すると、ビジュアルメールデザイナーのキャンバスが空白のスレートに消去され、コンテンツの作成が再開されます。
 
-* **デザインを変更**: _テンプレートをデザイン_ ページに戻ります。 ここから、[&#x200B; テンプレートのデザイン &#x200B;](#design-your-template) セクションに記載されているアクションを実行できます。
+* **デザインを変更**: _テンプレートをデザイン_ ページに戻ります。 ここから、[ テンプレートのデザイン ](#design-your-template) セクションに記載されているアクションを実行できます。
 
 * **HTMLを書き出し**: ビジュアルキャンバスのコンテンツを、zip ファイルとしてパッケージ化されたHTML形式でローカルシステムにダウンロードします。
 
@@ -369,4 +379,4 @@ _電子メールテンプレート_&#x200B;のリストページから、左側�
 
 >[!MORELIKETHIS]
 >
->[電子メール オーサリング &#x200B;](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}：新しいデザイナーで電子メールを作成、デザイン、参照する方法について説明します。
+>[電子メール オーサリング ](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-authoring.md){target="_blank"}：新しいデザイナーで電子メールを作成、デザイン、参照する方法について説明します。

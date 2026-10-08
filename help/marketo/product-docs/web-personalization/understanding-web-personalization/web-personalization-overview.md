@@ -4,22 +4,27 @@ description: Web キャンペーン、Account-Based Web Marketing、Web サイ�
 title: Web パーソナライゼーションの概要
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/0TGyNY9LlCREr21ZmORSvg5fxFH-6-KdnhcaKYd--LM
+TQID: 'https://experienceleague.adobe.com/0TGyNY9LlCREr21ZmORSvg5fxFH-6-KdnhcaKYd--LM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 884
+source-wordcount: '884'
 ht-degree: 97%
-
 ---
-
 # Web パーソナライゼーションの概要 {#web-personalization-overview}
 
 ## はじめに {#introduction}
@@ -45,7 +50,7 @@ ht-degree: 97%
 * [!UICONTROL Web サイトのリターゲティング]
 * [!UICONTROL ContentAI]
 
-**[!UICONTROL Web パーソナライゼーション]** タイルは、パーソナライズされた web キャンペーンを作成するためのアクセスポイントです。 アカウントベースのウェブマーケティング と Web リターゲティング。 コンテンツ分析ページでコンテンツを追加できます。
+**[!UICONTROL Web パーソナライゼーション]** タイルは、パーソナライズされた web キャンペーンを作成するためのアクセスポイントです。 アカウントベースの web マーケティングと web サイトリターゲティング。 コンテンツ分析ページでコンテンツを追加できます。
 
 **[!UICONTROL アカウントベースの web マーケティング]** は、web パーソナライゼーションと連携し、重点顧客を使用します。 重点顧客ページには、既存の顧客、合計エンゲージメント数、組織の傾向に関するグラフィカルな情報と、顧客のリストが表示されます。 また、そこで重点顧客を新規作成することもできます。
 
@@ -65,15 +70,15 @@ ht-degree: 97%
 
 >[!TIP]
 >
->「最もアクティブ」と「最新」：テーブルは、識別された組織と、インターネットサービスプロバイダー（ISP アイコンで示される）で構成されます。 次の基準で並べ替えることができます。
+>「最もアクティブ」と「最新」：テーブルは、識別された組織とインターネットサービスプロバイダー（ISP アイコンで示される）ごとに並べ替えることができます。 次の基準で並べ替えることができます。
 >
->* 最もアクティブ：ページビュー数に基づく、テーブルで最もアクティブな組織
->* 最新：テーブルで最新の組織（デフォルト）
->* 有益なインサイトを得るには、最もアクティブに従ってフィルターします
+>* 最もアクティブ：ページビュー数に基づいて、テーブル内で最もアクティブな組織です。
+>* 最新：テーブル内で最新の組織です（デフォルト）。
+>* 有益なインサイトを得るには、「最もアクティブ」を基準にフィルターします。
 
 **組織：右側のパネル**
 
-組織ページの右パネルには、次の機能およびインサイトが表示されます。
+組織ページの右側のパネルには、次の機能およびインサイトが表示されます。
 
 <table>
  <tbody>
@@ -86,7 +91,7 @@ ht-degree: 97%
 
 **組織を共有**
 
-Web サイト訪問者の情報を同僚と共有したい場合は、 組織をクリックし、右側のパネルの「共有」リンクをクリックします。
+サイト訪問者の情報を同僚と共有したい場合は、 組織をクリックし、右側のパネルの「共有」リンクをクリックします。
 
 これにより、「[!UICONTROL この組織を共有]」オーバーレイがアクティブになり、web サイトを訪問した組織の名前と詳細を共有するメールを送信できます。
 
@@ -128,7 +133,7 @@ Web サイト訪問者の情報を同僚と共有したい場合は、 組織を
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><strong>クリックストリーム</strong></td>
-   <td colspan="1" rowspan="1">サイト上での訪問者のアクティビティや URL パスおよび各ページの滞在を表示</td>
+   <td colspan="1" rowspan="1">サイト上での訪問者のアクティビティと URL パス、および各ページにどのくらいの時間滞在したかを示すテーブルを表示します。</td>
   </tr>
  </tbody>
 </table>
@@ -137,11 +142,11 @@ Web サイト訪問者の情報を同僚と共有したい場合は、 組織を
 
 ![](assets/wp-real.jpg)
 
-リアルタイムページには、web サイトの訪問者がリアルタイムで表示され、アクティビティの発生時期が測定されます。
+リアルタイムページには、web サイト上の訪問者がリアルタイムで表示され、アクティビティが発生と同時に計測されます。
 
 ![](assets/image2014-11-10-19-3a49-3a55.png)
 
-リアルタイムページは、オンサイト訪問者の詳細に関する次の 6 つの情報テーブルに分割されます。
+リアルタイムページは、オンサイト訪問者の詳細を示す 6 つのテーブルに分割されています。
 
 <table>
  <thead>
@@ -157,7 +162,7 @@ Web サイト訪問者の情報を同僚と共有したい場合は、 組織を
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>[!UICONTROL 1 分あたりのクリック数]</strong></p></td>
-   <td colspan="1" rowspan="1"> サイトでの 1 分あたりのクリック数を示すライブ線グラフ</td>
+   <td colspan="1" rowspan="1"> サイトでの 1 分あたりのクリック数を示すライブ折れ線グラフ</td>
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><strong>[!UICONTROL 上位の組織]</strong></td>

@@ -4,18 +4,20 @@ description: アプリ ユーザーにオファーやリマインダーを表示
 title: アプリ内メッセージについて
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-TQID: https://experienceleague.adobe.com/xqxcKfFabctxnIal-LLS4U9hPzOJT0j5LO-t-nLQWys
+TQID: 'https://experienceleague.adobe.com/xqxcKfFabctxnIal-LLS4U9hPzOJT0j5LO-t-nLQWys'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: 44b89f75-c1af-5353-8094-79b278102d46
+    internal-label: Mobile Marketing
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 269
+source-wordcount: '269'
 ht-degree: 88%
-
 ---
-
 # アプリ内メッセージについて {#understanding-in-app-messages}
 
 >[!AVAILABILITY]
@@ -23,7 +25,7 @@ ht-degree: 88%
 >
 >すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-アプリ内メッセージを使用して、アプリ使用中の顧客に直接エンゲージメントを促します。 ユーザーがメッセージを開くか、カスタムアクションを実行したときに、プロモーションオファーを提示できます。 1 回のクリックでランディングページ、外部 Web サイトまたはディープリンクに移動し、詳細を確認して購入できます。 または、このクリックでメッセージを閉じるだけにすることもできます。  また、アプリ内メッセージを顧客へのリマインダーとして使用し、例えば、プロファイルに入力したり、新しいアプリ機能について顧客に通知したりすることもできます。
+アプリ内メッセージを使用して、顧客がアプリを使用している間に直接エンゲージメントを促します。 ユーザがアプリを開くかカスタムアクションを実行したときに、プロモーションオファーを提示できます。 1 回のクリックでランディングページ、外部 Web サイトまたはディープリンクに移動し、詳細を確認して購入できます。 または、このクリックでメッセージを閉じるだけにすることもできます。  また、アプリ内メッセージを顧客へのリマインダーとして使用し、例えばプロファイルの入力を完了してもらったり、新しいアプリ機能について顧客に通知したりすることもできます。
 
 >[!NOTE]
 >
@@ -31,7 +33,7 @@ ht-degree: 88%
 >
 >**例 2**：医療に関するビデオを視聴しながら、医師の訪問を予約し、40 ドルのクーポンをトリガーします。
 
-モバイルアプリ用のアプリ内メッセージを作成して送信する前に、一部の設定を実行するには、Marketo 管理者とモバイルアプリ開発者が必要です。  アプリ内メッセージを生成するプロセスには、次の 3 つの手順があります。
+モバイルアプリ用のアプリ内メッセージを作成して送信する前に、Marketo 管理者とモバイルアプリ開発者にいくつかの設定を実行してもらう必要があります。  アプリ内メッセージを生成するプロセスには、次の 3 つの手順があります。
 
 ## 手順 1：管理者および開発者による初期設定の実行 {#step-admin-and-developer-perform-initial-setups}
 

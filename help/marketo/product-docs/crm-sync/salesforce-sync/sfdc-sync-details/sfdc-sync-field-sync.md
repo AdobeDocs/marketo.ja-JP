@@ -4,21 +4,26 @@ description: Marketoに同期するSalesforce フィールドと、SFDCの種類
 title: SFDC 同期 - フィールドの同期
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/XUKJC6x2gIjkd3wkmeIMKISxR0jBaGu5vHg7ystMI6c
+TQID: 'https://experienceleague.adobe.com/XUKJC6x2gIjkd3wkmeIMKISxR0jBaGu5vHg7ystMI6c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 430
+source-wordcount: '430'
 ht-degree: 78%
-
 ---
-
 # SFDC 同期：フィールドの同期 {#sfdc-sync-field-sync}
 
 Marketo は、[!DNL Salesforce] からフィールド情報を同期します。 以下に詳細を示します。
 
-## 同期されるフィールド {#which-fields-are-synced}
+## どのフィールドが同期されますか？ {#which-fields-are-synced}
 
 SFDC のほとんどの標準フィールドと、同期ユーザーが表示権限を持つカスタムフィールドを同期します。
 
@@ -28,7 +33,7 @@ Marketo には、「SFDC のタイプ」というフィールドがあります�
 
 ## SFDC でリードや連絡先が削除されたかどうかを判断する方法 {#how-do-you-determine-if-a-lead-or-contact-is-deleted-in-sfdc}
 
-Marketo には、「SFDC 削除済み」というフィールドがあります。 この値が true の場合、リードは SFDC で削除されています。
+Marketo には「SFDC 削除済み」というフィールドがあります。 この値が true の場合、リードは SFDC で削除されています。
 
 ## SFDC で追加した新しいフィールドが Marketo にも追加されていることを確認する方法 {#how-do-i-make-sure-a-new-field-i-add-in-sfdc-also-gets-added-to-marketo}
 
@@ -38,19 +43,19 @@ Marketo には、「SFDC 削除済み」というフィールドがあります�
 
 SFDC で新しいフィールドを追加し、同期ユーザーがそれを表示する権限を持っている場合、自動的に Marketo に追加されます。
 
-## SFDC でフィールドラベルを変更する場合の動作 {#what-if-i-change-a-field-label-in-sfdc}
+## SFDC でフィールドラベルを変更した場合はどうなりますか？ {#what-if-i-change-a-field-label-in-sfdc}
 
 SFDC でフィールドラベルを変更しても、Marketo のフィールドラベルには影響しません。
 
-## SFDC でフィールドタイプを変更する場合の動作 {#what-if-i-change-a-field-type-in-sfdc}
+## SFDC でフィールドタイプを変更するとどうなりますか？ {#what-if-i-change-a-field-type-in-sfdc}
 
 フィールドタイプを変更すると、Marketoはフィールド内のデータが一致しない場合（ただし、最初に警告が表示されます）、フィールド内のデータを削除します。 データを保持するには、データを書き出し、フィールドタイプを変更した後でデータを再インポートします。
 
-## SFDC で API 名を変更する場合の動作 {#what-if-i-change-an-api-name-in-sfdc}
+## SFDC で API 名を変更するとどうなりますか？ {#what-if-i-change-an-api-name-in-sfdc}
 
 SFDC でフィールドの API 名を変更すると、Marketo に新しいフィールドが作成されます。
 
-## SFDC で新しいピックリスト値を追加する場合の動作 {#what-happens-if-i-add-a-new-picklist-value-in-sfdc}
+## SFDC で新しいピックリスト値を追加するとどうなりますか？ {#what-happens-if-i-add-a-new-picklist-value-in-sfdc}
 
 SFDC でフィールドに新しいピックリスト値が追加されると、Marketo から通知が送信されます。
 

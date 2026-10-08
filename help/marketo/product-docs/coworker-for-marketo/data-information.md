@@ -1,7 +1,10 @@
 ---
 description: CX Enterprise CoworkerのAdobe Marketo Engageデータスコープ、ガバナンス制御、リード読み込み、プログラム QA、データ標準化などの主要なワークフローにおけるPIIに関する考慮事項をご確認ください。
 title: CX Enterprise Coworker for Marketo Engageに関する資料
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '1459'
 ht-degree: 64%
@@ -64,7 +67,7 @@ CX Enterprise Coworker for Marketo Engageは、Adobe Marketo Engage内のネイ�
 
 ## 可用性とロールアウトステータス
 
-**実施要件：**&#x200B;[コア Gen-AI 条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意した Marketo Engage ユーザーのみが、プロビジョニングを利用できます。
+**実施要件：**[コア Gen-AI 条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意した Marketo Engage ユーザーのみが、プロビジョニングを利用できます。
 
 **ロールアウトモデル：**&#x200B;デプロイメントは、アルファ版およびプライベートベータ版を通じて、より広範なパブリックベータ版へと拡大し、最終的に一般提供に至ります。
 

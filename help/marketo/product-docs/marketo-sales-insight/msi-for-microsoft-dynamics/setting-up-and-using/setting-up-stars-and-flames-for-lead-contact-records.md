@@ -4,20 +4,23 @@ description: Dynamicsでリードおよび取引先責任者レコードに星�
 title: リード／連絡先レコードの星と炎の設定
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/4-YHMNYzPvbzledbjd4Q6xfBhkxJfUDgAt5W99EzksI
+TQID: 'https://experienceleague.adobe.com/4-YHMNYzPvbzledbjd4Q6xfBhkxJfUDgAt5W99EzksI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '199'
 ht-degree: 84%
-
 ---
-
 # リード／連絡先レコードの星と炎の設定 {#setting-up-stars-and-flames-for-lead-contact-records}
 
 リード／取引先責任者レコードの星と炎は、「[!UICONTROL リードスコア]」、「[!UICONTROL 相対スコア]」、「[!UICONTROL 緊急度]」および「[!UICONTROL 優先度]」フィールドに依存します。 これらのフィールドは、MSI ソリューションをインストールして設定した後、デフォルトで使用できます。 星と炎がない場合は、以前の設定／カスタマイズによって、星と炎が削除された可能性があります。 以下の手順に従って、それらを追加します。

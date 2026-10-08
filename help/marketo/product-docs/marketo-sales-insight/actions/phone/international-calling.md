@@ -3,19 +3,21 @@ description: Sales Insight Actionsでの国際通話について説明します�
 title: 国際通話
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/CuPReqeK-xV7JuX6Vlx0C7yuI3kUZ4u8fX-R8dQgyr4
+TQID: 'https://experienceleague.adobe.com/CuPReqeK-xV7JuX6Vlx0C7yuI3kUZ4u8fX-R8dQgyr4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 404
+source-wordcount: '404'
 ht-degree: 95%
-
 ---
-
 # 国際通話 {#international-calling}
 
-セールスダイヤラーによって国際的なコミュニケーションが容易になります。 米国内のお客様の場合、セールスダイヤラーを使用して国外への通話発信が行なえます。 米国外の顧客に対しては、海外からのお問い合わせをサポートできます。
+セールスダイヤラーによって国際的なコミュニケーションが容易になります。 米国内のお客様の場合、セールスダイヤラーを使用して国外への通話発信が行なえます。 米国外のお客様の場合、海外拠点からの通話発信をサポートします。
 
 >[!NOTE]
 >
@@ -148,7 +150,7 @@ ht-degree: 95%
 
 **なぜ [!DNL Sales Insight Actions] ですべての国に対する国際電話の発信をサポートしないのですか？**
 
-セールスダイヤラーでは国際電話を追加費用なしで提供しています。 見込み客や顧客とのコミュニケーションを取りやすくするために、標準的な料金の国際通話のサポートを開始しました。 米国、カナダ以外の、ヨーロッパ、アジア、その他の主要地域の 34 か国を対象とします。 今後もお客様のフィードバックに基づいて幅を広げていきます。
+セールスダイヤラーでは国際電話を追加費用なしで提供しています。 見込み客や顧客とのコミュニケーションを取りやすくするために、標準的な料金の国際通話のサポートを開始しました。 米国、カナダ以外の、ヨーロッパ、アジア、その他の主要地域の 34 か国を対象とします。 今後もお客様のフィードバックに基づいて提供範囲を拡大していきます。
 
 **米国外のどの国から発信できますか？**
 

@@ -4,19 +4,24 @@ description: シードリストをMarketo Engageに読み込んでインボッ�
 title: メール配信品質パワーパック - シードリストの読み込み方法
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
+TQID: 'https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: be80ef53-082b-4612-a88f-dfce57d36b02
+    internal-label: Deliverability
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 339
+source-wordcount: '339'
 ht-degree: 72%
-
 ---
-
 # メール到達率パワーパック：シードリストのインポート方法 {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
-シードリストは、Google Apps、Hotmail、Yahoo! など、複数のメールボックスプロバイダーに存在するメールアカウントのリストで、受信ボックスの到達率質とスパムフォルダーの到達率の比率を概算するために使用されます。 以下に、そのリストを Marketo Engage インスタンスに取得する手順を示します。
+シードリストは、Google Apps、Hotmail、Yahoo! など、複数のメールボックスプロバイダーに存在するメールアカウントのリストで、インボックスとスパムフォルダーへの配信品質の比率を概算するために使用されます。 以下に、そのリストを Marketo Engage インスタンスに取り込む手順を示します。
 
 >[!IMPORTANT]
 >
@@ -44,7 +49,7 @@ ht-degree: 72%
    >
    >[!DNL Everest] でリストを最適化する場合は、（ページ上部にある）シードリストオプティマイザーを使用します。
 
-1. 書き出し後、リストは txt ファイルとしてブラウザーのダウンロードフォルダーに表示されます。 取得し、静的リストとして Marketo インスタンスに[インポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)します。
+1. 書き出し後、リストは .txt ファイルとしてブラウザーのダウンロードフォルダーに表示されます。 取得し、静的リストとして Marketo インスタンスに[インポート](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md)します。
 
    ![](assets/email-deliverability-power-pack-5.png)
 
@@ -58,6 +63,6 @@ ht-degree: 72%
 
 ## 新しいシードリストの取得 {#acquiring-new-seedlists}
 
-シードリストは、毎月同じ頻度で変更される場合があります。 メール配信品質のPower Packに定期的にログインし、シードリストのステータスを確認することが重要です。 新しいアドレスが追加された場合、または更新が必要な場合は、アプリケーションの左下にある通知アイコンから通知されます。
+シードリストは、毎月のように頻繁に変更される場合があります。 メール配信品質のPower Packに定期的にログインし、シードリストのステータスを確認することが重要です。 新しいアドレスが追加された場合、または更新が必要な場合は、アプリケーションの左下にある通知アイコンから通知されます。
 
 Marketo で静的リストを作成したら、そのリストへの送信を開始して、メールのインボックスへの配置をテストできます。

@@ -2,22 +2,26 @@
 description: Sales Connectのトランザクションセールスメールテンプレートについて説明します。 トランザクションメッセージの登録解除をバイパスするテンプレートを使用します。
 title: トランザクションセールスメールテンプレート
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '191'
 ht-degree: 6%
-
 ---
-
-# トランザクションセールスメールテンプレート {#transactional-sales-email-templates}
+# トランザクションセールスメールのテンプレート {#transactional-sales-email-templates}
 
 取引メールや非商用メールを送信する場合、メールテンプレートを非商用メールとしてマークすることで、配信停止を回避できます。
 
 ## 注意事項 {#things-to-note}
 
-* 非商用メールは、セールスの登録解除と[Marketo Engageの登録解除チェック &#x200B;](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}をバイパスしますが、[&#x200B; ブロックされたドメイン &#x200B;](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}はバイパスされません。
+* 非商用メールは、セールスの登録解除と[Marketo Engageの登録解除チェック ](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/marketo-unsubscribe-check.md){target="_blank"}をバイパスしますが、[ ブロックされたドメイン ](/help/marketo/product-docs/marketo-sales-connect/admin/blocked-domains.md){target="_blank"}はバイパスされません。
 
-* 購読解除メッセージの追加管理設定[&#128279;](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"}が有効になっている場合でも、購読解除メッセージは非商用メールに自動的に追加されません。 ただし、`{{team_unsubscribe}}` [動的フィールド &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}は、引き続きチームの購読解除メッセージに入力されます。
+* 購読解除メッセージの追加管理設定](/help/marketo/product-docs/marketo-sales-connect/email/unsubscribes/auto-append-unsubscribe-message-setting.md){target="_blank"}が有効になっている場合でも、購読解除メッセージは非商用メールに自動的に追加されません。 [ただし、`{{team_unsubscribe}}` [動的フィールド ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}は、引き続きチームの購読解除メッセージに入力されます。
 
 ## 非商用利用のためのメールテンプレートの設定 {#configure-an-email-template-for-non-commercial-use}
 

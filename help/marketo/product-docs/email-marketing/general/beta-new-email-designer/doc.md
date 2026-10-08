@@ -2,22 +2,29 @@
 description: 新しいEmail Designer ベータ版の一時ドキュメント。 アセットを追加し、ベータテストにデザイナーを使用する（目次から非表示）。
 title: 一時ドキュメント
 hide: true
-hidefromtoc: true
+hidefromtoc: 'yes'
 feature: Email Editor
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 22%
-
 ---
-
 # 一時ドキュメント {#temp-doc}
 
 ## このパーツの下にコピー {#copy}
 
 ### Assetsを追加 {#add-assets}
 
-Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
+Marketo Engage インスタンスの[画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
 
 >[!NOTE]
 >
@@ -40,7 +47,7 @@ Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marke
 必要に応じて、詳細メニューから「コードエディターに切り替え」をクリックして、メールをさらにパーソナライズできます。 これにより、例えばトラッキングタグやカスタム HTML タグを追加するために、メールソースコードを編集できます。
 
 注意
-コードエディターに切り替えた後で、このメールのビジュアル designer に戻すことはできません。
+コードエディターに切り替えた後で、このメールのビジュアルデザイナーに戻すことはできません。
 
 コンテンツの準備ができたら、「コンテンツをシミュレート」ボタンをクリックして、レンダリングを確認します。 デスクトップまたはモバイル表示を選択できます。
 

@@ -4,20 +4,23 @@ description: Salesforceの「Marketo Sales Insight設定」タブについて説
 title: Salesforce の Marketo セールスインサイト設定タブ
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ
+TQID: 'https://experienceleague.adobe.com/rFexi0KyOSWLU2b1pR4AeL71xtLNUGdWvuuf3R15WIQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 626
+source-wordcount: '626'
 ht-degree: 94%
-
 ---
-
 # [!DNL Salesforce] の [!DNL Marketo Sales Insight] 設定タブ {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## 操作上の設定 {#operational-settings}
@@ -28,8 +31,8 @@ SFDC で [!DNL Sales Insight] を使用するには、この設定が必要で�
 
 * MSI は Soap と Rest API の両方を使用します
 * Marketo アカウントのセールスインサイトページには、Soap および Rest API 資格情報を持つ 2 つの対応するパネルが表示され、ここにコピーして貼り付けることができます
-* Soap API と Rest API には、組織のニーズに基づいて個別にタイムアウトを設定できます。 最大時間は 120 秒です
-* インサイトダッシュボードを無効にする：Rest API 資格情報を削除し、Soap API のみを使用できます。 これにより、すべての MSI Visualforce パネルの「Insights ダッシュボード」タブが無効になります
+* Soap API と Rest API にはそれぞれタイムアウトがあり、組織のニーズに基づいて個別に設定できます。 最大時間は 120 秒です
+* インサイトダッシュボードを無効にする：Rest API 資格情報を削除し、Soap API のみを使用できます。 これにより、すべての MSI Visualforce パネルの「インサイトダッシュボード」タブが無効になります。
 
 ## MSI の設定 {#msi-configuration}
 
@@ -38,19 +41,19 @@ SFDC で [!DNL Sales Insight] を使用するには、この設定が必要で�
 **Visualforce ページの設定**
 
 * アクションを有効にするドロップダウン：
-   * リードと取引先責任者 MSI レイアウトのドロップダウンから「Marketo メールを送信」を非表示にできます
-   * リードと取引先責任者 MSI レイアウトのドロップダウンから「Marketo キャンペーンに追加」オプションを非表示にできます
-* 今後のイベント：招待イベント、ユーザに対するすべてのイベント、またはこのタブを完全に非表示にできます
-* 今後のキャンペーン：すべてのメールキャンペーンを表示、またはこのタブを完全に非表示にできます
+  * リードと取引先責任者 MSI レイアウトのドロップダウンから「Marketo メールを送信」を非表示にできます
+  * リードと取引先責任者 MSI レイアウトのドロップダウンから「Marketo キャンペーンに追加」オプションを非表示にできます
+* 今後のイベント：招待イベントのみを表示するか、ユーザに対してすべてのイベントを表示するか、またはこのタブを完全に非表示にすることができます。
+* 今後のキャンペーン：すべてのメールキャンペーンを表示するか、またはこのタブを完全に非表示にすることができます。
 * 今後のキャンペーンおよびイベントの読み込み：「イベントとキャンペーン」タブをオンデマンドの「次の項目を読み込み」ボタンの後に配置することで、ユーザが行う Rest API 呼び出しの数を減らすことができます。
-* タブ設定：デフォルトでは、5 つのタブすべてが使用可能になります。 セールスインサイトパネルでタブの順序を選択できます。 すべてのレイアウト（リード、取引先責任者、アカウント、商談）に同じ順序が適用されます。
+* タブ設定：デフォルトでは、5 つのタブすべてが使用可能になります。 セールスインサイト（セールスインサイト）パネルでタブの順序を選択できます。 すべてのレイアウト（リード、取引先責任者、アカウント、商談）に同じ順序が適用されます。
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-2.png)
 
 **「Marketo グローバル」タブ**
 
-* RSS フィードが有効：有効にすると、MSI ユーザは（Salesforce のリードフィードに加えて）RSS フィードでリードフィードを表示できます。 RSS フィードは、「トークンの有効期限」機能が無効な場合にのみ機能します。 この設定は、Marketo セールスインサイト管理ページで制御します。
-* 最有望見込客（デバッグモード）
+* RSS フィードが有効：有効にすると、MSI ユーザは、Salesforce のリードフィードに加えて、RSS フィードでリードフィードを表示できます。 RSS フィードは、「トークンの有効期限」機能が無効な場合にのみ機能します。 この設定は、Marketo セールスインサイト管理ページで制御します。
+* 最有望見込客デバッグモード
 * デフォルトの非表示：ここで選択するオプションは、「非表示」アイコンをクリックしたときに、Marketo の「最有望見込客」タブに最有望見込客が非表示になる日数です。
 * 取引先責任者ステータスフィールド：ここで選択するオプションは、Marketo の「最有望見込客」タブの「ステータスヘッダー」列に入力される値です。
 * ライブフィード設定：ライブフィードのみを表示するオプション（リードパネル、取引先責任者パネル、アカウントパネル、商談パネル、グローバル Marketo ページ）、リードフィードのみを表示するオプション（Marketo グローバルページ内）、またはライブとリードフィードの両方を表示するオプション
@@ -60,7 +63,7 @@ SFDC で [!DNL Sales Insight] を使用するには、この設定が必要で�
 
 **制限**
 
-* アクティビティ（注目のアクティビティ、web アクティビティ、メール）は、デフォルトで 1000 に設定されています。 メールキャンペーンとイベントは、デフォルトで 200 に設定されています
+* アクティビティ（注目のアクション、web アクティビティ、メール）は、デフォルトで 1000 に設定されています。 メールキャンペーンとイベントは、デフォルトで 200 に設定されています
 * 組織でタイムアウトの問題が発生した場合は、制限を減らすことができます
 
 **アクションの設定**

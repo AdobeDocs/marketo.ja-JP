@@ -1,22 +1,25 @@
 ---
 description: 新しいSales Connect インスタンスを設定する方法を説明します。 アカウントにアクセスし、ユーザーを招待し、SalesforceとMarketoを接続する手順に従います。
-title: ' [!DNL Sales Connect]  管理者向けスタートガイド'
+title: '[!DNL Sales Connect] 管理者向けスタートガイド'
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/5eAJUQpNX6UyZi-v3ADaHWbuECW7Q0yyVruqMS6upMY
+TQID: 'https://experienceleague.adobe.com/5eAJUQpNX6UyZi-v3ADaHWbuECW7Q0yyVruqMS6upMY'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 478
+source-wordcount: '478'
 ht-degree: 92%
-
 ---
-
 # [!DNL Sales Connect] 管理者向けスタートガイド {#getting-started-guide-for-sales-connect-admins}
 
 このドキュメントでは、新たに [!DNL Sales Connect] インスタンスを設定するための最初の手順を説明します。 これらの手順の一部では、Marketo 管理者、[!DNL Salesforce] 管理者、[!DNL Sales Connect] 管理者としてアクセスする必要があります。 以下のガイドに従って、インスタンスの設定を完了します。
@@ -25,15 +28,15 @@ ht-degree: 92%
 >
 >**管理者権限が必要。**
 
-## 新しい Marketo Sales Connect アカウントへのアクセス {#accessing-your-new-marketo-sales-connect-account}
+## 新しい Marketo セールスコネクトアカウントへのアクセス {#accessing-your-new-marketo-sales-connect-account}
 
-Marketo Sales Connect を購入済みの場合は、Marketo の「管理者」セクションからインスタンスへのアクセスがプロビジョニングされます。 Marketo 管理者が新しいインスタンスへのアクセスをプロビジョニングする方法の手順を確認するには、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md){target="_blank"}してください。
+Marketo セールスコネクトを購入済みの場合は、Marketo の「管理者」セクションからインスタンスへのアクセスがプロビジョニングされます。 Marketo 管理者が新しいインスタンスへのアクセスをプロビジョニングする方法の手順を確認するには、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md){target="_blank"}してください。
 
 ![](assets/getting-started-guide-for-sales-connect-admins-1.png)
 
 ## ユーザーの招待と管理 {#inviting-and-managing-users}
 
-Marketo から Marketo Sales Connect アカウントをプロビジョニングし、最初の管理者ユーザーを招待したら、その管理者ユーザーは Marketo Sales Connect のユーザー管理ページで追加のユーザーを招待できます。 ユーザー管理ページからユーザーを招待する方法を確認するには、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"}してください。
+Marketo から Marketo セールスコネクトアカウントをプロビジョニングし、最初の管理者ユーザーを招待したら、その管理者ユーザーは Marketo セールスコネクトのユーザー管理ページで追加のユーザーを招待できます。 ユーザー管理ページからユーザーを招待する方法を確認するには、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md){target="_blank"}してください。
 
 ![](assets/getting-started-guide-for-sales-connect-admins-2.png)
 
@@ -47,11 +50,11 @@ Marketo から Marketo Sales Connect アカウントをプロビジョニング�
 
 ## Marketo への接続 {#connecting-to-marketo}
 
-Marketo に接続すると、セールス部門は潜在顧客の発掘に、マーケティングオートメーションとマーケティングのインサイトを活用できるようになります。 次の機能を使用するには、Marketo との統合を設定する必要があります。
+Marketo に接続すると、セールス部門は見込み客の開拓に、マーケティングオートメーションとマーケティングのインサイトを活用できるようになります。 次の機能を使用するには、Marketo との統合を設定する必要があります。
 
 * [マーケティングキャンペーン](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md){target="_blank"}をセールス部門と共有
 * [注目のアクション](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md){target="_blank"}をライブフィードにプッシュ
-* Marketo へのセールスアクティビティの記録
+* Marketo へのセールスアクティビティのログ
 
 Marketo に接続し、セールスユーザに接続へのアクセス権を付与する方法について詳しくは、[こちらをクリック](/help/marketo/product-docs/marketo-sales-connect/marketo/set-up-your-marketo-connection.md){target="_blank"}してください。
 
@@ -63,7 +66,7 @@ Salesforce のカスタマイズ機能のインストールについて詳しく
 
 ## サンドボックスでのテスト {#testing-in-sandbox}
 
-Marketo Sales Connect を Marketo Sandbox でテストするチームに対して、リクエストに応じて追加の Sales Connect アカウントをプロビジョニングできます。 これは、Marketo Sandbox を購入したお客様、または Marketo バンドルの一部として所有しているお客様のみを対象としています。 サンドボックスの購入をご希望の場合は、Marketoのアカウントマネージャーにお問い合わせください。
+Marketo Sales Connect を Marketo Sandbox でテストするチームに対して、リクエストに応じて追加の Sales Connect アカウントをプロビジョニングできます。 これは、Marketo サンドボックスを購入したお客様、または Marketo バンドルの一部として所有しているお客様のみを対象としています。 サンドボックスの購入をご希望の場合は、Marketoのアカウントマネージャーにお問い合わせください。
 
 >[!NOTE]
 >

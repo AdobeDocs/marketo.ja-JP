@@ -1,26 +1,40 @@
 ---
-title: "2013"
+title: '2013'
 description: 2013 - Marketo Docs – 製品ドキュメント
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 subfeature_v2:
   - id: fc9b09fe-b844-4544-887b-e420c3b82065
+    internal-label: Webhooks
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+    internal-label: Customer engagement
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 2516
+source-wordcount: '2516'
 ht-degree: 90%
-
 ---
-
 
 # 2013
 
@@ -60,7 +74,7 @@ Marketo ユーザーアカウントのデフォルト言語を変更できます
 
 ## [!DNL Sales Insight] 言語の選択（[!DNL Salesforce] のみ） {#select-your-sales-insight-language-salesforce-only}
 
-[!DNL Salesforce] の言語設定がフランス語またはドイツ語に設定されている場合は、Marketo [!DNL Sales Insight] はその設定に従います。 この機能を入手するには、最新の MSI パッケージをダウンロードしてください（1月14日の週に入手可能）。
+[!DNL Salesforce] の言語設定がフランス語またはドイツ語に設定されている場合は、Marketo [!DNL Sales Insight] はその設定に従います。 この機能を入手するには、最新の MSI パッケージをダウンロードする必要があります（1月14日の週に入手可能）。
 
 ![](assets/image2014-9-22-15-3a22-3a31.png)
 
@@ -94,9 +108,9 @@ Web フックは、URL／ペイロード内のトークンをエスケープす�
 
 ## [!DNL Facebook] タブのモバイルサポート {#mobile-support-for-facebook-tabs}
 
-Marketo から公開された [!DNL Facebook] タブは、モバイルデバイスを検出してランディングページにルーティングします。 これにより、[!DNL Facebook] タブがサポートされていない（[!DNL Spark]、[!DNL Standard]、[!DNL Select SMB Editions]、[!DNL Marketo Social Marketing] で利用可能な）モバイルデバイスでユーザが適切なコンテンツを取得できるようになります。
+Marketo から公開された [!DNL Facebook] タブは、モバイルデバイスを検出してランディングページにルーティングします。 これにより、[!DNL Facebook] タブがサポートされていない（[!DNL Spark]、[!DNL Standard]、[!DNL Select SMB Editions]、[!DNL Marketo Social Marketing] で利用可能な）モバイルデバイスでユーザーが適切なコンテンツを取得できるようになります。
 
-## 準備中：複数モデルのサポート {#coming-soon-support-for-multiple-models}
+## 近日リリース予定：複数モデルのサポート {#coming-soon-support-for-multiple-models}
 
 今後のリリースでは、コミュニティにおけるRCAのアイデアに投票し#1複数の収益サイクルモデルをサポートする基盤を構築しています。 このリリースでは、モデルとステージの選択をサポートするために、スマートリストフィルターやフローステップでの選択肢の追加など、いくつかの変更が見られます。 また、「スマート・リスト・リード・グリッド」タブの「リード収益ステージ」フィールドと「リード収益サイクル・モデル」フィールドも移動します。
 
@@ -112,7 +126,7 @@ Marketo から公開された [!DNL Facebook] タブは、モバイルデバイ�
 
 ## 待機 +/- {#wait-until}
 
-日付トークンの前または後に指定した日数を実行できる待機ステップを作成します。 例えば、イベントの日付の 3 日前に待機し、リマインダーを送信する待機手順を作成できます。
+日付トークンの前または後の指定した日数だけ待機する待機ステップを作成します。 例えば、イベントの日付の 3 日前に待機し、リマインダーを送信する待機手順を作成できます。
 
 ![](assets/image2014-9-22-15-3a35-3a44.png)
 
@@ -160,7 +174,7 @@ Marketo [!DNL Sales Insight] および [!DNL Gmail] を使用している場合�
 
 ## プログラム API {#program-apis}
 
-SOAP API 呼び出しでのプログラムのサポート（プログラムの会員数、取得者、成功、設定、チャネル、タグ、トークン、コストなどのプログラムデータへの読み取り専用アクセスを含みます）。 詳しくは、SOAP API のドキュメントを参照してください。
+SOAP API 呼び出しでのプログラムのサポート（プログラムメンバー数、取得元、成功、設定、チャネル、タグ、トークン、コストなどのプログラムデータへの読み取り専用アクセスを含みます）。 詳しくは、SOAP API のドキュメントを参照してください。
 
 ## [!DNL ON24] の機能強化 {#on-enhancement}
 
@@ -178,7 +192,7 @@ SOAP API 呼び出しでのプログラムのサポート（プログラムの�
 
 ## 「モデルメンバーシップ」タブ {#model-membership-tab}
 
-すべてのモデルメンバーデータをまとめて表示して、モデルメンバーを用意に監視し、トラブルシューティングを行います。 新しい「[!UICONTROL メンバー]」タブは、承認済みの収益サイクルモデルを選択した場合に使用できる読み取り専用ビューです。
+すべてのモデルメンバーのデータを 1 か所にまとめて表示し、モデルメンバーを容易に監視してトラブルシューティングできるようにします。 新しい「[!UICONTROL メンバー]」タブは、承認済みの収益サイクルモデルを選択した場合に使用できる読み取り専用ビューです。
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
@@ -218,15 +232,15 @@ SOAP API 呼び出しでのプログラムのサポート（プログラムの�
 
 ## 複数のモデル {#multiple-models}
 
-コミュニティの売上高サイクル分析（RCA）の主なアイデアです。この機能を使用すると、複数のモデルを作成して、製品ライン、事業部門、地域ごとに売上高ファネルをより詳細に把握できます。 売上高ステージ別のリード、成功パスアナライザー、プログラムアナライザーおよび売上高エクスプローラーのレポートでこの機能がサポートされ、レポート用の特定のモデルを選択できるようになりました。
+コミュニティでの収益サイクル分析（RCA）に関する上位のアイデアの 1 つであるこの機能を使用すると、複数のモデルを作成して、製品ライン、ビジネスユニット、地域ごとに売上高ファネルをより詳細に把握できます。 売上高ステージ別のリード、成功パスアナライザー、プログラムアナライザーおよび売上高エクスプローラーのレポートでこの機能がサポートされ、レポート用の特定のモデルを選択できるようになりました。
 
-デフォルトでは、Select SMB Edition では 2 つのモデル、Enterprise Edition では 15 モデルを使用できます。 また、追加のモデルを購入することもできます。
+デフォルトでは、Select SMB Edition では 2 つのモデル、Enterprise Edition では 15 個のモデルを使用できます。 また、追加のモデルを購入することもできます。
 
 ![](assets/image2014-9-22-16-3a26-3a59.png)
 
 ## 2013年7月 {#july}
 
-7月のリリースには、7月26日（金）（PT）のロールアウトに予定されている次の機能が含まれています。
+7月のリリースには、7月26日（金）（PT）にロールアウトが予定されている次の機能が含まれています。
 
 ## ダッシュボードのコンテンツ消費済みウィジェット {#exhausted-content-widget-on-the-dashboard}
 
@@ -236,7 +250,7 @@ SOAP API 呼び出しでのプログラムのサポート（プログラムの�
 
 ## 通信制限 {#communication-limits}
 
-リードに対する過剰なメール送信を止めたいとお考えですか？ 現在では、各個人に自動的に頻度を制限することが容易です。 日／週ごとの通信限度を設定すると、後はシステムが自動的に処理します。 Select と Enterprise、Standard のお客様向けアドオンパッケージで利用できます。
+リードに対する過剰なメール送信を止めたいとお考えですか？ 現在では、各個人に自動的に頻度を制限することが容易です。 日／週ごとの通信限度を設定すると、後はシステムが自動的に処理します。 Select、Enterprise、および Standard のお客様向けアドオンパッケージで利用できます。
 
 ![](assets/image2014-9-22-16-3a31-3a13.png)
 
@@ -302,7 +316,7 @@ Marketo は、過去 6 か月間実行されていない[トリガーキャン�
 
 ### プログラムコストのアップデート  {#program-cost-update}
 
-プログラムコストの同期を使用すると、複数のプラットフォーム間でプログラムコストをトラックできます。
+プログラムコストの同期を使用すると、複数のプラットフォーム間でプログラムコストをトラッキングできます。
 
 ### Cobalt ユーザーインターフェイス {#cobalt-user-interface-august}
 
@@ -314,7 +328,7 @@ Marketo は、過去 6 か月間実行されていない[トリガーキャン�
 
 ## URL の短縮 {#shorter-urls}
 
-メールの URL は受信者がクリックしやすいように短縮されました。トラッキング機能はすべて保持されています
+メールの URL は受信者がクリックしやすいように短縮されましたが、トラッキング機能はすべて保持されています。
 
 >[!CAUTION]
 >
@@ -326,7 +340,7 @@ Marketo のカスタムオブジェクトのデータを使用するか、Veloci
 
 ## テスト送信をサンプル送信に変更 {#change-send-test-to-send-sample}
 
-テストを送信アクションの名前を、サンプルを送信に変更しました。
+アクション「テストを送信」の名前を「サンプルを送信」に変更しました。
 
 ## パーソナライズされた[!UICONTROL サンプルメールの送信] {#personalized-send-sample-email}
 
@@ -340,7 +354,7 @@ Marketo フォームの会社名と役職を [!DNL GoToWebinar] に同期でき�
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
-## ユーザーログインを SSO のみに制限 {#restrict-user-login-to-sso-only}
+## ユーザーのログインを SSO のみに制限 {#restrict-user-login-to-sso-only}
 
 Marketo ユーザーが通常のログイン画面ではなく、SSO のみを使用してログインするようにサブスクリプションを設定します
 
@@ -356,9 +370,9 @@ Marketo ユーザーが通常のログイン画面ではなく、SSO のみを�
 
 ## プログラムの属性設定 {#program-attribution-settings}
 
-アカウントベースの属性付けを行う機能を含め、最初のタッチとマルチタッチの属性指標で、Marketo が連絡先と商談を連携する方法を変更できます。 これらの設定は、プログラム商談分析領域および商談分析領域の[!UICONTROL 収益エクスプローラー]レポートの属性指標に影響を与えます。 また、プログラムアナライザーの属性指標にも影響します。
+アカウントベースのアトリビューションを行う機能を含め、最初のタッチとマルチタッチのアトリビューション指標で、Marketo が取引先責任者と商談を関連付ける方法を変更できます。 これらの設定は、プログラム商談分析領域および商談分析領域の[!UICONTROL 収益エクスプローラー]レポートの属性指標に影響を与えます。 また、プログラムアナライザーのアトリビューション指標にも影響します。
 
-プログラムの属性設定は、3 つの選択肢の中から 1 つに変更できます。 この設定を変更しても、Marketo または CRM データは変更されません。単にレポートの実行方法が変更され、いつでも元に戻すことができます。
+プログラムのアトリビューション設定は、3 つの選択肢の中から 1 つに変更できます。 この設定を変更しても、Marketo または CRM データは変更されません。単にレポートの実行方法が変更され、いつでも元に戻すことができます。
 
 「明示」設定では、役割を持つ連絡先のみを調べます（現在の動作）。 「暗黙」設定では、役割に関係なく、アカウントに関連付けられたすべての連絡先を調べます。 可能であれば、「明示」モードを使用することを強くお勧めします。 「暗黙」を使用すると、商談に実際の影響を与えないにもかかわらず、商談に対してクレジットを持つ人という偽陽性を生み出す可能性があります。
 
@@ -372,7 +386,7 @@ Marketo ユーザーが通常のログイン画面ではなく、SSO のみを�
 
 ## Cobalt ユーザーインターフェイス {#cobalt-user-interface-september}
 
-向こう数か月のうちに、アプリケーションの様々な部分の新規テーマが公開される予定です。 今月は、新しい青いモーダルウィンドウがさらに表示される場合があります。
+向こう数か月のうちに、アプリケーションの様々な部分に新しいテーマが順次適用されます。 今月は、新しい青いモーダルウィンドウがさらに表示される場合があります。
 
 ## 2013年10月 {#october}
 
@@ -392,7 +406,7 @@ Marketo ユーザーが通常のログイン画面ではなく、SSO のみを�
 
 ## Android タブレットイベントチェックインアプリ {#android-tablet-event-check-in-app}
 
-Google Play で入手可能な、新しい Android 対応のチェックインアプリを使ってイベントの登録者を確認できます。
+Google Play で入手可能な、新しい Android ベースのチェックインアプリを使ってイベントの登録者を確認できます。
 
 ## （2013年12月） {#december}
 
@@ -412,11 +426,11 @@ Google Play で入手可能な、新しい Android 対応のチェックイン�
 
 ## メール A/B テスト {#email-a-b-testing}
 
-新しいメールプログラムで、メール送信母集団全体の割合に対して [A/B テスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を実行します。 件名、差出人アドレス、日時、メール全体の 4 種類のテストから選択します。 また、手動で勝者を昇格させたり、事前に定義した勝者条件に基づいてシステムで昇格させたりすることもできます。 A/B テストを含む新しいメールプログラムをイベントとデフォルトのプログラムにネストして、メールを簡単に送信できます。
+新しいメールプログラムで、メール送信母集団全体の割合に対して [A/B テスト](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)を実行します。 件名、差出人アドレス、日付／時刻、メール全体の 4 種類のテストから選択します。 また、手動で勝者を昇格させたり、事前に定義した勝者条件に基づいてシステムで昇格させたりすることもできます。 A/B テストを含む新しいメールプログラムをイベントとデフォルトのプログラムにネストして、メールを簡単に送信できます。
 
 ## チャンピオン／挑戦者のメールテスト {#email-champion-challenger-testing}
 
-[&#x200B; チャンピオン/チャレンジャーテスト &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)はA/B テストと似ていますが、違いは、トリガーメールに使用され、自動的に勝者を送信しないことです。 このテストでは、チャンピオンと呼ばれる確立された方法に対して、挑戦者を導入することでチャンピオンがまだ最適な方法かどうかをテストします。 さらに、チャンピオン／挑戦者メールテストは、エンゲージメントプログラムストリーム内で使用できます。
+[ チャンピオン/チャレンジャーテスト ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)はA/B テストと似ていますが、違いは、トリガーメールに使用され、自動的に勝者を送信しないことです。 このテストでは、チャンピオンと呼ばれる確立された方法に対して、挑戦者を導入することでチャンピオンがまだ最適な方法かどうかをテストします。 さらに、チャンピオン／挑戦者メールテストは、エンゲージメントプログラムストリーム内で使用できます。
 
 ## [!UICONTROL メール分析]でのリードの詳細 {#lead-details-in-email-analysis}
 
@@ -428,5 +442,5 @@ Google Play で入手可能な、新しい Android 対応のチェックイン�
 
 ## [!DNL BrightTALK] イベントアダプターの機能強化 {#enhanced-brighttalk-event-adapter}
 
-[!DNL BrightTALK] チャネルやイベントから Marketo へ登録者を抽出できます。 この情報を使用して、他のマーケティングキャンペーンに通知できます。
+[!DNL BrightTALK] チャネルやイベントから Marketo へ登録者を抽出できます。 この情報を使用して、他のマーケティングキャンペーンの参考にできます。
 

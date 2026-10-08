@@ -4,18 +4,24 @@ description: Marketoの自由形式ランディングページにカスタム HT
 title: フリーフォームランディングページへのカスタム HTML の追加
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/SxcMmBYB5tq4xcwlpAvP-1y39nZPS7Xp0jylXdNwVoU
+TQID: 'https://experienceleague.adobe.com/SxcMmBYB5tq4xcwlpAvP-1y39nZPS7Xp0jylXdNwVoU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Troubleshooting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 166
+source-wordcount: '166'
 ht-degree: 80%
-
 ---
-
 # フリーフォームランディングページへのカスタム HTML の追加 {#adding-custom-html-to-a-free-form-landing-page}
 
 ランディングページには、カスタムスクリプトや CSS、その他の HTML を追加できます。
@@ -44,4 +50,4 @@ HTML要素には、任意のスクリプトまたはCSSを追加できます。
 
 >[!CAUTION]
 >
->カスタム HTML がレンダリングでない場合（表示されない JavaScript 関数や CSS など）は、要素を左上のような覚えやすい場所に配置します。 要素の輪郭は、その領域をクリックした場合にのみ表示されます。
+>カスタム HTML が表示されない場合（表示されない JavaScript 関数や CSS など）は、要素を左上などの覚えやすい場所に配置してください。 要素の輪郭は、その領域をクリックした場合にのみ表示されます。

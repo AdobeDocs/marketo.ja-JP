@@ -4,16 +4,18 @@ description: Sales ConnectをSalesforceに同期する際のタスクのアク�
 title: タスクの「アクティビティタイプ」フィールド（SFDC）
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/UJAL2pE3Pq0n7Sn9ev7GMGkBbgx12pZ0I5lBzfLpF1c
+TQID: 'https://experienceleague.adobe.com/UJAL2pE3Pq0n7Sn9ev7GMGkBbgx12pZ0I5lBzfLpF1c'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 270
+source-wordcount: '270'
 ht-degree: 88%
-
 ---
-
 # タスクの「アクティビティタイプ」フィールド（SFDC） {#activity-type-field-on-tasks-sfdc}
 
 [!DNL Sales Connect] を使用すると、メールと通話を [!DNL Salesforce] のアクティビティとして記録できます。 [!DNL Salesforce] で有用なデータを持つ重要な点は、「[!UICONTROL タイプ]」フィールドに正しい値が入力されることです。
@@ -25,7 +27,7 @@ ht-degree: 88%
 ## 要件 {#requirements}
 
 * [!DNL Salesforce] との接続
-* 「タスクタイプ」の選択リストで「デフォルトタイプなし」値が選択されている
+* 「タスクタイプ」の選択リストでデフォルトの「タイプ」値が選択されていない
 * 「通話（Call）」、「返信（Reply）」、「メール（Email）」がすべて「タスクタイプ」の選択リストに存在する（大文字と小文字の区別）
 * 「タイプ」フィールドの値に対してアクションを実行するワークフローまたはトリガーがない
 

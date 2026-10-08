@@ -1,21 +1,23 @@
 ---
 description: セールスメールの自動追加登録解除メッセージを有効または無効にする方法について説明します。
-title: 登録解除メッセージの自動追加設定
+title: 購読解除メッセージの自動追加設定
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
-TQID: https://experienceleague.adobe.com/4iAq0-giVwuDcqaoi8QnLN35QO67RSlgHYXFYaUebZg
+TQID: 'https://experienceleague.adobe.com/4iAq0-giVwuDcqaoi8QnLN35QO67RSlgHYXFYaUebZg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 184
+source-wordcount: '184'
 ht-degree: 9%
-
 ---
-
-# 登録解除メッセージの自動追加設定 {#auto-append-unsubscribe-message-setting}
+# 購読解除メッセージの自動追加設定 {#auto-append-unsubscribe-message-setting}
 
 送信するすべてのSales Insight Actions メールに登録解除メッセージが含まれていることを確認し、受信者がコミュニケーションをオプトアウトする簡単なオプションを用意します。 「購読解除メッセージを追加」が有効になっている場合、Marketo Salesから送信するすべてのコミュニケーションには、web アプリケーションとSalesforceから送信されたメールを含む購読解除メッセージが含まれます。
 
@@ -39,4 +41,4 @@ ht-degree: 9%
 
 >[!TIP]
 >
->「購読解除メッセージを追加」設定を無効にした場合は、購読解除フッターをテンプレートに追加して、コミュニケーションにオプトアウトオプションがあることを確認することをお勧めします。 これは、各テンプレートに独自のカスタムメッセージを追加するか、`{{team_unsubscribe}}` [動的フィールド &#x200B;](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}を使用することで実行できます。
+>「購読解除メッセージを追加」設定を無効にした場合は、購読解除フッターをテンプレートに追加して、コミュニケーションにオプトアウトオプションがあることを確認することをお勧めします。 これは、各テンプレートに独自のカスタムメッセージを追加するか、`{{team_unsubscribe}}` [動的フィールド ](/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md){target="_blank"}を使用することで実行できます。

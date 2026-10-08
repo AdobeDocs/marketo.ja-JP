@@ -3,16 +3,18 @@ description: User ManagementからSales Insight Actionsにユーザーと管理�
 title: ユーザと管理者の招待
 exl-id: 00a6ea00-f8ba-4079-86dc-def44599b3ea
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/rsT7eMWq9tf9xNH2a25OJVzXQu1oPukkTx9ITDV-g3A
+TQID: 'https://experienceleague.adobe.com/rsT7eMWq9tf9xNH2a25OJVzXQu1oPukkTx9ITDV-g3A'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 208
+source-wordcount: '208'
 ht-degree: 87%
-
 ---
-
 # ユーザと管理者の招待 {#invite-users-and-admins}
 
 ユーザや管理者の追加は手軽で簡単です。
@@ -39,7 +41,7 @@ ht-degree: 87%
 
    ![](assets/invite-users-and-admins-4.png)
 
-1. オプションの手順：ユーザが属する必要のある任意のチームにユーザを追加します。 この部分をスキップすると、すべての新規メンバーが全員チームに追加されます。
+1. オプションの手順：ユーザーが属する必要のある任意のチームに追加します。 この部分をスキップすると、すべての新規メンバーが全員チームに追加されます。
 
    ![](assets/invite-users-and-admins-5.png)
 
@@ -47,7 +49,7 @@ ht-degree: 87%
    >
    >[チームの詳細](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md)。
 
-1. 新しいユーザを追加する Marketo ワークスペースを選択します。 1 つのワークスペースしかない場合は、オプションに「デフォルト」が表示されます。 「**招待**」をクリックします。
+1. 新しいユーザーを追加する Marketo ワークスペースを選択します。 1 つのワークスペースしかない場合は、オプションに「デフォルト」が表示されます。 「**招待**」をクリックします。
 
    ![](assets/invite-users-and-admins-6.png)
 
@@ -55,13 +57,13 @@ ht-degree: 87%
 
    ![](assets/invite-users-and-admins-7.png)
 
-## ユーザを管理者にする {#make-a-user-an-admin}
+## ユーザーを管理者にする {#make-a-user-an-admin}
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-既存のユーザを管理者にするには、次の手順に従います。
+既存のユーザーを管理者にするには、次の手順を実行します。
 
 1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
@@ -71,7 +73,7 @@ ht-degree: 87%
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. 管理者にするユーザを見つけ、「ロール」ドロップダウンをクリックして、「**[!UICONTROL 管理者]**」を選択します。
+1. 管理者にするユーザーを見つけ、「ロール」ドロップダウンをクリックして、「**[!UICONTROL 管理者]**」を選択します。
 
    ![](assets/invite-users-and-admins-10.png)
 

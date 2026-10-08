@@ -1,37 +1,60 @@
 ---
-title: "2022"
+title: '2022'
 description: 2022 - Marketo Docs – 製品ドキュメント
 feature: Release Information
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+    internal-label: Adobe Identity Management
+  - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
+    internal-label: Release information
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 4311
+source-wordcount: '4311'
 ht-degree: 90%
-
 ---
-
 # 2022
 
 ## 2022年1月 {#january}
@@ -55,27 +78,27 @@ ht-degree: 90%
 
 ## [!DNL Microsoft Dynamics] 統合 {#microsoft-dynamics-integration}
 
-* **一般に利用可能な複数選択オプションセットフィールドタイプの同期**：[!DNL Microsoft Dynamics] の複数選択オプションセットフィールドタイプを同期して、スマートリストとスマートキャンペーンで活用し、より詳細なオーディエンスターゲティングを実現します。 トピック／関心のある製品、優先するコミュニケーションモードなどの例があります。 この新しい同期は、[!DNL Microsoft Dynamics] バージョン 9.X（Dynamics 365 Online を含む）で使用できます。
+* **一般に利用可能な複数選択オプションセットフィールドタイプの同期**：[!DNL Microsoft Dynamics] の複数選択オプションセットフィールドタイプを同期して、スマートリストとスマートキャンペーンで活用し、より詳細なオーディエンスターゲティングを実現します。 例としては、興味のあるトピック／製品、好みのコミュニケーション手段などが含まれます。 この新しい同期は、[!DNL Microsoft Dynamics] バージョン 9.X（Dynamics 365 Online を含む）で使用できます。
 
-* **[!DNL Microsoft Dynamics 365 Online]** サーバー間認証：セキュリティを強化するため、[!DNL Microsoft Dynamics 365 Online] への非インタラクティブアクセス用に、Azure Active Directory の Marketo Engage 同期ユーザ認証の追加モードとして、サーバー間（S2S）認証をサポートするようになりました。 すべての認証とサインオンが OAuth（クライアント ID とクライアント秘密鍵のみ）に基づくため、多要素認証を使用できます。
+* **[!DNL Microsoft Dynamics 365 Online]** サーバー間認証：セキュリティを強化するため、[!DNL Microsoft Dynamics 365 Online] への非インタラクティブアクセス用に、Azure Active Directory の Marketo Engage 同期ユーザー認証の追加モードとして、サーバー間（S2S）認証をサポートするようになりました。 すべての認証とサインオンが OAuth（クライアント ID とクライアント秘密鍵のみ）に基づくため、多要素認証を使用できます。
 
 >[!NOTE]
 >
->S2S モードは、追加のライセンスの使用を保存する Licensed User ではなく、Application User に基づいています。
+>S2S モードは、ライセンス済みユーザーではなくアプリケーションユーザーに基づいているため、追加のライセンスを使用せずに済みます。
 
 ## 管理 {#administration}
 
-* **[フォーム検証ルール](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**：問題のある、または望ましくないメールドメインが Marketo Engage フォームを送信するのを防ぐ機能を備え、データベースの正常性を維持します。 グローバルフォーム検証ルールパネルを使用すると、管理者はブロックリスト、フォームをブロックする自由消費者ドメインの事前定義済みリストを定義するか、有効にすることができます。
+* **[フォーム検証ルール](/help/marketo/product-docs/administration/settings/global-form-validation-rules.md)**：問題のある、または望ましくないメールドメインが Marketo Engage フォームを送信するのを防ぐ機能を備え、データベースの正常性を維持します。 グローバルフォーム検証ルールパネルを使用すると、管理者はブロックリストを定義したり、フォームでブロックする無料メールサービスなどの消費者向けドメインの事前定義済みリストを有効にしたりできます。
 
 * **[ランディングページヘッダーのセキュリティ](/help/marketo/product-docs/administration/settings/landing-page-headers.md)**：管理者は、ランディングページドメインで Strict Transport Security ヘッダーと X-Frame Options ヘッダーを管理して、強力なセキュリティ要件を実施できます。
 
 **_四半期を通した段階的リリース_**
 
-以下の機能はリリース後約 1～2 か月の間に段階的にリリースされます。
+以下の機能は四半期ごとのサイクルには含まれず、今後数か月にわたって順次リリースされます。
 
 ## AEP Marketo Engage 宛先コネクタ - 新規リードを作成 {#aep-marketo-engage-destination-connector}
 
-Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客は、AEP の宛先コネクタを介して新しいリードレコードを AEP から Marketo Engage にプッシュしてデータベースを最大化できます。 オーディエンスセグメントを AEP から Marketo Engage に送信する際、セグメント内のユーザのうち、Marketo Engage データベースにまだ存在しないユーザは[自動的に追加できます](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)。
+Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客は、AEP の宛先コネクタを介して新規の人物レコードを AEP から Marketo Engage にプッシュすることで、データベースを最大限に活用できます。 オーディエンスセグメントを AEP から Marketo Engage に送信する際、セグメント内のユーザのうち、Marketo Engage データベースにまだ存在しないユーザは[自動的に追加できます](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/push-an-adobe-experience-platform-segment-to-a-marketo-static-list.md)。
 
 ## [!DNL Sales Insight]
 
@@ -83,7 +106,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 [!DNL Salesforce] CRM 用の **[!DNL Sales Insight]**
 
-* **ベストベット [!UICONTROL の新しいタイプ列]**：販売者は、[!UICONTROL &#x200B; ベストベット &#x200B;] ページで「タイプ」というラベルの付いた新しい列を使用して、リードと取引先責任者を区別するためにより迅速なインサイトを得られます。
+* **ベストベット [!UICONTROL の新しいタイプ列]**：販売者は、[!UICONTROL  ベストベット ] ページで「タイプ」というラベルの付いた新しい列を使用して、リードと取引先責任者を区別するためにより迅速なインサイトを得られます。
 
 * **[!DNL Salesforce]Platform API のアップデート**：[!DNL Salesforce] が [!DNL Salesforce] Platform API バージョン 21.0 ～ 30.0 を廃止したのに対応して、[!DNL Sales Insight] パッケージが最新の API でアップデートされました。
 
@@ -103,11 +126,11 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ## お知らせ
 
-* **Marketo Sky の廃止**：Marketo Sky は 3月に利用できなくなります。これは、当社が次世代ユーザエクスペリエンスの提供にリソースを注力しているためです。 現在 Marketo Sky 専用の機能へのアクセスを維持するため、3 月には、アセットの有効期限とスマートキャンペーンの優先順位の上書きがメインストリームエクスペリエンスに取り入れられます。 [こちら](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
+* **Marketo Sky の廃止**：Marketo Sky は 3月に利用できなくなります。これは、当社が次世代ユーザーエクスペリエンスの提供にリソースを注力しているためです。 現在 Marketo Sky 専用となっている機能へのアクセスを維持するため、3月には「アセットの有効期限」と「スマートキャンペーンの優先度の上書き」を、標準のエクスペリエンスに取り入れます。 [こちら](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
 
 * **フォームエンドポイントの廃止**：leadCapture/save2 エンドポイントに対する、サポートされていないプログラム形式の POST は、Marketo Engage フォームによって拒否されます。 [こちら](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631)をクリックすると、詳細が表示されます。
 
-* **ユーザーを招待ダイアログにログイン**:3月に、既存のオプション機能「ユーザーを招待ダイアログにログイン」が廃止されます。 機能「[!UICONTROL &#x200B; ユーザーを招待ダイアログにログイン &#x200B;]」機能は、今後のAdobe Identity Management System Integrationに必要なユニバーサル ID機能によって上書きされ、すべてのサブスクリプションで2021年8月に有効になりました。 廃止の結果、Marketo Engage の購読では、メールアドレスごとにユーザを 1 名だけ関連付けられるようになります。
+* **ユーザーを招待ダイアログにログイン**:3月に、既存のオプション機能「ユーザーを招待ダイアログにログイン」が廃止されます。 機能「[!UICONTROL  ユーザーを招待ダイアログにログイン ]」機能は、今後のAdobe Identity Management System Integrationに必要なユニバーサル ID機能によって上書きされ、すべてのサブスクリプションで2021年8月に有効になりました。 この廃止により、Marketo Engage のサブスクリプションでは、1 つのメールにつき関連付けられるユーザは 1 名のみとなります。
 
 **Marketo Engage ドメイン - [!DNL Sales Insight] 設定**：SSL 証明書がプロビジョニングされていない Marketo Engage ドメインおよび https:// の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。 したがって、これらのドメインは廃止される予定です。 その結果、これらのドメインを指す古い設定を持つ [!DNL Sales Insight] ユーザには、リード、取引先責任者、顧客、商談パネル、または Marketo グローバルページでシステムコールアウトエラーが発生する可能性があります。 このエラーが発生した場合、[!DNL Salesforce] で [Marketo Engage 設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をアップデートすることをお勧めします。 ドキュメントの「[!DNL Marketo Sales Insight] 設定」節でハイライトされている Marketo Engage 資格情報のみを更新する必要があります。
 
@@ -129,9 +152,9 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ## クロスチャネルオーケストレーション
 
-* **[!DNL Dynamic Chat]**：積極的で魅力的な、一対一のパーソナライズされた会話でリードとアカウントの両方をターゲットにすることで、web サイト上のあらゆる機会を最大化します。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engage ユーザは、B2B マーケティングおよびセールスのユースケースに対して、統合されたクロスチャネルエクスペリエンスの主要部として、チャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。 動的チャットは、すべての Marketo Engage パッケージに含まれ、今年にすべての Marketo Engage ユーザにロールアウトされます。
+* **[!DNL Dynamic Chat]**：積極的で魅力的な、一対一のパーソナライズされた会話でリードとアカウントの両方をターゲットにすることで、web サイト上のあらゆる機会を最大化します。 [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} を使用すると、Marketo Engage ユーザは、B2B マーケティングおよびセールスのユースケースに対して、統合されたクロスチャネルエクスペリエンスの主要部として、チャットを活用し始めることができます。 チャット内で直接会議を予約する機能、リードルーティング、スターターテンプレート、ドラッグ＆ドロップによる会話の作成などの機能があります。 Dynamic Chat は、すべての Marketo Engage パッケージに含まれ、今年中にすべての Marketo Engage ユーザにロールアウトされます。
 
-* **メールボットアクティビティのフィルタリング機能強化**：以前にリリースした[メールボットアクティビティのフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}を機能強化し、ボットとして識別されたアクティビティの記録をオプトインできるようになりました。 ボットが実行したと識別されたアクティビティに基づいて、アクションをフィルタリングしてトリガーを設定できます。
+* **メールボットアクティビティのフィルタリング機能強化**：以前にリリースした[メールボットアクティビティのフィルタリング](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"}を機能強化し、ボットとして識別されたアクティビティの記録をオプトインできるようになりました。 ボットが実行したと識別されたアクティビティに基づいて、アクションにフィルターを適用したり、トリガーを設定したりできます。
 
 ## 次世代エクスペリエンス
 
@@ -141,13 +164,13 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **プログラムワークフローインポートのアップデート**：プログラムワークフローのインポートは、デザインと操作性をアップデートして機能強化した、次世代のエクスペリエンスで提供されます。 切替スイッチはなく、自動的に変更されます。
 
-* **次世代エクスペリエンス切替スイッチの管理者制御**：切替スイッチにアクセスできるユーザのタイプを管理者が選択できるように、次世代エクスペリエンスのロールアウトを管理します。
+* **次世代エクスペリエンス切替スイッチの管理者制御**：切替スイッチにアクセスできるユーザーのタイプを管理者が選択できるように、次世代エクスペリエンスのロールアウトを管理します。
 
 ## エクスペリエンスの自動化
 
 * **セルフサービスのフローステップ（ベータ版）**：スマートキャンペーンで使用するカスタマイズされたフローステップを作成する機能により、Marketo Engage とスタックの他の部分との接続性を拡張できます。 Marketo のユーザとパートナーの両方がこの機能を活用して、（トリガーキャンペーンでのみ使用できる web フックとは異なり）バッチ、実行可能なキャンペーンで外部の web サービスを使用できます。
 
-* **アセットの有効期限**：Classic ユーザエクスペリエンスで、指定した日時に自動的に非アクティブ化するようにスケジュールを設定し、時間的制約のあるアセットとキャンペーンの制御を維持します。
+* **アセットの有効期限**：Classic ユーザーエクスペリエンスで、指定した日時に自動的に非アクティブ化するようにスケジュールを設定し、時間的制約のあるアセットとキャンペーンの制御を維持します。
 
 * **スマートキャンペーン優先度の上書き**：標準キャンペーン優先順位のトリガーを上書きする機能により、優先度の高いランキングスマートキャンペーンをすぐに実行できます。 また、優先度の高い他のタスクの処理リソースを解放するために、優先度の低いトリガースマートキャンペーンの優先度を低くすることもできます。
 
@@ -163,7 +186,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 **_四半期を通した段階的リリース_**
 
-以下の機能はリリース後約 1～2 か月の間に段階的にリリースされます。
+以下の機能は四半期ごとのサイクルには含まれず、今後数か月にわたって順次リリースされます。
 
 ## [!DNL Bizible] {#bizible}
 
@@ -179,7 +202,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ## お知らせ
 
-* **Marketo Sky の廃止**：Marketo Sky は 3月に利用できなくなります。これは、当社が次世代ユーザエクスペリエンスの提供にリソースを注力しているためです。 Marketo Sky 専用の機能へのアクセスを維持するため、アセットの有効期限とスマートキャンペーンの優先順位の上書きが Classic エクスペリエンスに取り入れられます。 [こちら](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
+* **Marketo Sky の廃止**：Marketo Sky は 3月に利用できなくなります。これは、当社が次世代ユーザーエクスペリエンスの提供にリソースを注力しているためです。 Marketo Sky 専用の機能へのアクセスを維持するため、アセットの有効期限とスマートキャンペーンの優先度の上書きが Classic エクスペリエンスに取り入れられます。 [こちら](https://nation.marketo.com/t5/the-modern-ux/marketo-sky-deprecation-notice/ba-p/320115#M33)をクリックすると、詳細が表示されます。
 
 **_製品リリースウェビナー_**
 
@@ -187,7 +210,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ## 2022年5月 {#may}
 
-以下に、5月23日リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
+以下に、2022年5月リリースに含まれるすべての機能を示します。 利用可能な機能については、お使いの Marketo Engage のエディションをご確認ください。
 
 >[!AVAILABILITY]
 >
@@ -199,7 +222,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ## ネイティブ CRM 統合 {#native-crm-integration}
 
-**[ネイティブ Veeva CRM 統合](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"}（限定的に利用可能）**：ネイティブ統合を介して Veeva CRM と Marketo Engage 間でアクティビティを同期させることで、医療専門家とのエンゲージメントを向上させます。 この統合により、マーケターは、医療専門家向けに、高度にパーソナライズされたシームレスなクロスチャネルエクスペリエンスを作成できます。 参加をご希望の方は、カスタマーサクセスマネージャーにお問い合わせください。
+**[ネイティブ Veeva CRM 統合](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"}（限定的に利用可能）**：ネイティブ統合を介して Veeva CRM と Marketo Engage 間でアクティビティを同期させることで、医療専門家とのエンゲージメントを向上させます。 この統合により、マーケターは、ヘルスケア専門家向けに、高度にパーソナライズされたシームレスなクロスチャネルエクスペリエンスを作成できます。 参加をご希望の方は、カスタマーサクセスマネージャーにお問い合わせください。
 
 ## クロスチャネルオーケストレーション
 
@@ -207,7 +230,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 **[!DNL Dynamic Chat]** の PDF 埋め込み：チャットダイアログに PDF を埋め込むことによって、エンゲージメントを増やし、意味のあるコンテンツを共有します。また、エンゲージメントアクティビティのトラッキングを通じて、コンテンツのパフォーマンスを測定します。
 
-**[!DNL Dynamic Chat]** の拡張言語サポート：[!DNL Dynamic Chat] のユーザインターフェイスが、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語でも使用できるようになりました。 チャットダイアログは、これらの言語でも設定できます。
+**[!DNL Dynamic Chat]** の拡張言語サポート：[!DNL Dynamic Chat] のユーザーインターフェイスが、フランス語、ドイツ語、日本語、ポルトガル語、スペイン語でも使用できるようになりました。 チャットダイアログは、これらの言語でも設定できます。
 
 **[!DNL Dynamic Chat]** の URL を除外：ターゲティング条件から特定の URL を除外する機能と共に、[!DNL Dynamic Chat] が表示される web ページを制御します。
 
@@ -237,9 +260,9 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ## お知らせ
 
-**メールの検証と一意性**：4月から、メール検証のロールアウトが開始されます。 その時点で、Marketo Engage ユーザのメールアドレスには、検証と一意性が必須となります（API のみのユーザには適用されません）。 ディレクトリサービスの認証済みユーザは、メールの検証でサブスクリプションが有効になっている場合、自動的にメールを検証します。
+**メールの検証と一意性**：4月から、メール検証のロールアウトが開始されます。 その時点で、Marketo Engage ユーザーのメールアドレスには、検証と一意性が必須となります（API のみのユーザーには適用されません）。 ディレクトリサービスで認証されたユーザは、メール検証が有効になっているサブスクリプションの場合、自動的にメールが検証されます。
 
-「[!UICONTROL &#x200B; ユーザーを招待ダイアログにログイン &#x200B;]」機能を使用するか、複数のユーザーに関連付けられた1つの電子メールを持つサブスクリプションの電子メール検証は、5月のリリースと一致します。 複数のユーザに関連付けられた単一のメールを持つサブスクリプションは、メールの検証で有効になり、競合を解決してユーザごとに一意のメールを使用するよう求められます。 「ユーザーを招待ダイアログにログイン」機能が有効になっている場合、この機能を介して招待されたユーザーには一意のメールアドレスが必要になります。 API のみのユーザがこの機能を使用して招待された場合、メールアドレスを一意にする必要はありません。
+「[!UICONTROL  ユーザーを招待ダイアログにログイン ]」機能を使用するか、複数のユーザーに関連付けられた1つの電子メールを持つサブスクリプションの電子メール検証は、5月のリリースと一致します。 1 つのメールが複数のユーザに関連付けられているサブスクリプションでは、メール検証が有効化され、ユーザは競合を解消して、ユーザごとに一意のメールを使用する必要があります。 「ユーザーを招待ダイアログにログイン」機能が有効になっている場合、この機能を介して招待されたユーザーには一意のメールアドレスが必要になります。 この機能を使用して招待された API 専用ユーザについては、メールが一意である必要はありません。
 
 **フォルダー動作の変更をアーカイブ**：このリリースで、アーカイブフォルダーに新しいアセットを作成する機能は、ツリーのコンテキストメニューから使用できなくなりました。 新しいアセットを作成するためのメニューオプションは、すべてのアセットで非表示になります。 詳しくは、[こちらを参照](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}してください。
 
@@ -282,7 +305,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **グローバルフォームフィールド検証ルールの除外**：グローバルフォーム検証ルールから特定のフォームを除外して、サブスクリプションセンターや他のビジネスクリティカルなワークフローがすべての値を受け入れるようにします。
 
-* **セルフサービスのフローステップ**：スマートキャンペーンで使用するカスタマイズされたフローステップを作成する機能により、Marketo Engage とスタックの他の部分との接続性を拡張できます。 Marketo Engage のユーザとパートナーの両方がこの機能を活用して、トリガーキャンペーンでのみ使用できる web フックとは異なり、トリガー、バッチ、実行可能なキャンペーンで外部の web サービスを使用できます。
+* **セルフサービスのフローステップ**：スマートキャンペーンで使用するカスタマイズされたフローステップを作成する機能により、Marketo Engage とスタックの他の部分との接続性を拡張できます。 Marketo Engage のユーザとパートナーの両方がこの機能を活用することで、トリガーキャンペーンでのみ使用できる web フックとは異なり、トリガー、バッチ、実行可能なキャンペーンで外部の web サービスを使用できるようになります。
 
 * **Munchkin プロトコル非依存リンクトラッキング**：Munchkin による `tel` と `mailto` のリンクトラッキングのサポートを拡張して、展開された一連の web 動作をトラックします。
 
@@ -292,7 +315,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ![（星印）](assets/yellow-star.png)
 
-* **[!DNL Sales Insight]&#x200B;[!DNL Salesforce]** での権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部である Marketo アプリ権限セットを使用して、プロファイルレベルではなく、ユーザレベルで限られた一連のユーザに対して [!DNL Sales Insight] のアクセス権を提供できます。
+* **[!DNL Sales Insight][!DNL Salesforce]** での権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部である Marketo アプリ権限セットを使用して、プロファイルレベルではなく、ユーザーレベルで限られた一連のユーザーに対して [!DNL Sales Insight] のアクセス権を提供できます。
 
 * **My Marketo タイルのアップデート - [!DNL Sales Insight]アクション**：Marketo 管理者（および指定したユーザ）は、マイ Marketo ページにある新しい [!DNL Sales Insight] アクションタイルから、[!DNL Sales Insight] アクションインスタンスにすばやく移動できるようになりました。
 
@@ -393,7 +416,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、リリースは **2022年10月14日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースの機能と日付は変更される場合があります。 各機能のステータスについては、以下を確認してください。
+以下の機能は標準リリースサイクルに該当し、リリースは **2022年10月14日**（PT）から開始し、その次の週から残りの機能が段階的にロールアウトされます。 リリースされる機能と日付は変更される場合があります。 各機能のステータスについては、以下を確認してください。
 
 ### マーケティングデータ環境
 
@@ -408,7 +431,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
   </tr>
   <tr>
    <td>リリース</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">プログラムメンバーカスタムフィールドの同期</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">プログラムメンバーのカスタムフィールドの同期</a></td>
   </tr>
   </tbody>
 </table>
@@ -448,7 +471,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
   </tbody>
 </table>
 
-* **メールテンプレートの詳細の「使用者」タブの拡張**：新しいエクスペリエンスでは、アセットのステータス、最終変更日、最終変更者など、メールテンプレートを使用しているアセットに関する追加情報が表示されます。 また、アセットで使用されるリストの検索、並べ替え、フィルタリングを行うこともできます。
+* **メールテンプレートの詳細の「使用者」タブの拡張**：新しいエクスペリエンスでは、アセットのステータス、最終変更日、最終変更者など、メールテンプレートを使用しているアセットに関する追加情報が表示されます。 また、使用されているアセットのリストを検索、並べ替え、フィルターすることもできます。
 
 <table>
   <tr>

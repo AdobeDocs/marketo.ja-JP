@@ -4,18 +4,20 @@ title: テンプレートカテゴリの管理
 hide: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Hu6XQnkSnJWhcwyT6D0AobS8hIRzC0JO7kYyrI7GFsg
+TQID: 'https://experienceleague.adobe.com/Hu6XQnkSnJWhcwyT6D0AobS8hIRzC0JO7kYyrI7GFsg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 131
+source-wordcount: '131'
 ht-degree: 87%
-
 ---
-
 # テンプレートカテゴリの管理 {#manage-template-categories}
 
 ## カテゴリの作成 {#create-a-category}
@@ -38,7 +40,7 @@ ht-degree: 87%
 
    ![](assets/manage-template-categories-4.png)
 
-1. 名前を変更するテンプレートにポインターを合わせて、3 つのドットをクリックします。 「**[!UICONTROL 名前を変更]**」を選択します。
+1. 名前を変更するテンプレートにポインタを合わせて、3 つのドットをクリックします。 「**[!UICONTROL 名前を変更]**」を選択します。
 
    ![](assets/manage-template-categories-5.png)
 
@@ -46,13 +48,13 @@ ht-degree: 87%
 
    ![](assets/manage-template-categories-6.png)
 
-## テンプレートカテゴリの削除 {#delete-a-template-category}
+## テンプレートカテゴリを削除する {#delete-a-template-category}
 
 1. 「**[!UICONTROL テンプレート]**」タブをクリックします。
 
    ![](assets/manage-template-categories-7.png)
 
-1. 名前を変更するテンプレートにポインターを合わせて、3 つのドットをクリックします。 「**[!UICONTROL 削除]**」を選択します。
+1. 名前を変更するテンプレートにポインタを合わせて、3 つのドットをクリックします。 「**[!UICONTROL 削除]**」を選択します。
 
    ![](assets/manage-template-categories-8.png)
 

@@ -1,24 +1,30 @@
 ---
 unique-page-id: 10095429
 description: 同期の検証ツールでエラーが報告されたときにDynamicsの検証同期の問題を修正する方法について説明します。 URL、資格情報、同期ユーザーの役割、およびその他の設定手順をトラブルシューティングします。
-title: Dynamics 検証同期に対する問題の修正
+title: Dynamics 検証同期の問題の修正
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/VKcPe4kYhM2tid0-Fl4ga9-uAQbgUSwHux8XCBwXjwA
+TQID: 'https://experienceleague.adobe.com/VKcPe4kYhM2tid0-Fl4ga9-uAQbgUSwHux8XCBwXjwA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 520
+source-wordcount: '520'
 ht-degree: 82%
-
 ---
-
-# Dynamics 検証同期に対する問題の修正 {#fix-dynamics-validation-sync-issues}
+# Dynamics 検証同期の問題の修正 {#fix-dynamics-validation-sync-issues}
 
 ## 同期ツールの結果を検証 {#validate-sync-tool-results}
 
@@ -46,21 +52,21 @@ Dynamics の同期検証を実行すると、レポートが生成されます�
 
    ![](assets/four.png)
 
-## ユーザ名とパスワードが有効です {#username-and-password-are-valid}
+## ユーザ名とパスワードが有効 {#username-and-password-are-valid}
 
-ここに ![x](assets/delete.png) がある場合、Microsoft Dynamics の資格情報が有効であることを確認します。 Web API S2S 認証の場合、Marketo のユーザ名は CRM のアプリケーションユーザの[電子メールアドレス](https://docs.microsoft.com/ja-jp/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user)と一致する必要があります。 他のタイプの場合は、同期ユーザ名と一致する必要があります。
+ここに ![x](assets/delete.png) がある場合、Microsoft Dynamics の資格情報が有効であることを確認します。 Web API S2S 認証の場合、Marketo のユーザー名は CRM のアプリケーションユーザーの[電子メールアドレス](https://docs.microsoft.com/ja-jp/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user)と一致する必要があります。 他のタイプの場合は、同期ユーザーのユーザー名と一致する必要があります。
 
-## 同期ユーザが Marketo 同期ユーザロールに割り当てられています {#sync-user-is-assigned-to-the-marketo-sync-user-role}
+## 同期ユーザーが Marketo 同期ユーザーロールに割り当てられています {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
 ここに ![x](assets/delete.png) がある場合、以下の 3 つの問題の 1 つである可能性があります。
 
-**オプション 1 - Microsoft Dynamics で Marketo 同期ユーザのロールがオンになっていることを確認します**。
+**オプション 1 - Microsoft Dynamics で Marketo 同期ユーザーのロールがオンになっていることを確認します**。
 
 1. Dynamics で、設定アイコンをクリックし、「**詳細設定**」を選択します。
 
    ![](assets/one.png)
 
-1. 「**設定**」を選択し、「**セキュリティ**」を選択します。
+1. 「**設定**」をクリックし、「**セキュリティ**」を選択します。
 
    ![](assets/six.png)
 
@@ -68,7 +74,7 @@ Dynamics の同期検証を実行すると、レポートが生成されます�
 
    ![](assets/image2015-9-24-9-3a47-3a25.png)
 
-1. 同期ユーザのリンクをクリックします。
+1. 同期ユーザーのリンクをクリックします。
 
    ![](assets/seven.png)
 
@@ -76,7 +82,7 @@ Dynamics の同期検証を実行すると、レポートが生成されます�
 
    ![](assets/eight.png)
 
-1. 「Marketo 同期ユーザ」のロールがオンになっていることを確認します。 オンになっていない場合は、チェックをオンにして「**OK**」をクリックします。
+1. Marketo 同期ユーザーロールがオンになっていることを確認します。 オンになっていない場合は、チェックをオンにして「**OK**」をクリックします。
 
    ![](assets/image2015-9-24-9-3a59-3a21.png)
 
@@ -84,11 +90,11 @@ Dynamics の同期検証を実行すると、レポートが生成されます�
 
 1. [クライアント ID とアプリ登録に対する同意の付与](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md)を確認して、アプリが API を呼び出す管理者の同意を得ていることを確認します。
 
-**オプション 3 - 同期ユーザ**。
+**オプション 3 - 同期ユーザー**。
 
-1. 同期ユーザが Marketo 設定に追加されていることを確認します。
+1. 同期ユーザーが Marketo 設定に追加されていることを確認します。
 
-## Marketo ソリューションが正常にインストールされました {#marketo-solution-is-properly-installed}
+## Marketo ソリューションが正常にインストールされている {#marketo-solution-is-properly-installed}
 
 ここに ![x](assets/delete.png) がある場合、Microsoft Dynamics に移動して、Marketo のインストールが完了していることを確認します。 Microsoft Dynamics 設定ドキュメントの手順 1 を参照してください。
 
@@ -100,15 +106,15 @@ Dynamics の同期検証を実行すると、レポートが生成されます�
 
    ![](assets/eleven.png)
 
-1. 解決策が表示されることを確認します。
+1. ソリューションがリストに表示されていることを確認します。
 
    ![](assets/twelve.png)
 
 ## ソリューションのすべての手順が有効です {#all-steps-in-the-solution-are-enabled}
 
-ここに ![x](assets/delete.png) がある場合、デフォルトの手順が無効になっていないことを確認します。 すべての手順はインストール時に自動的に有効になりますが、カスタマイズ時に無効にすることができます。
+ここに ![x](assets/delete.png) がある場合、デフォルトの手順が無効になっていないことを確認します。 すべての手順はインストール時に自動的に有効になりますが、カスタム時に無効にすることができます。
 
-## 同期ユーザが Marketo ソリューションに割り当てられています {#sync-user-is-assigned-to-the-marketo-solution}
+## 同期ユーザーが Marketo ソリューションに割り当てられている {#sync-user-is-assigned-to-the-marketo-solution}
 
 ![x](assets/delete.png)がここにある場合は、Sync ユーザーがMicrosoft DynamicsのMarketo Default ページで割り当てられていることを確認します。
 
@@ -120,11 +126,11 @@ Dynamics の同期検証を実行すると、レポートが生成されます�
 
    ![](assets/thirteen.png)
 
-1. 同期ユーザがデフォルトとして割り当てられていることを確認します。
+1. 同期ユーザーがデフォルトとして割り当てられていることを確認します。
 
    ![](assets/fourteen.png)
 
-## 同期ユーザがユーザ名とパスワードに一致します {#sync-user-matches-username-and-password}
+## 同期ユーザーがユーザー名とパスワードに一致している {#sync-user-matches-username-and-password}
 
 ここで![x](assets/delete.png)を使用している場合は、Microsoft DynamicsのMarketo Config Default setup ステップのMarketo User フィールドで、適切な同期ユーザーを割り当てます。
 

@@ -4,30 +4,36 @@ description: dnl googleを使用したrtpの実装など、Marketo Engageのgoog
 title: Google タグマネージャーを使用した RTP の実装
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/XesXGBf2aDsnsbS2Ro1RLdd1EVrj-mBdCiv8C0dj8NU
+TQID: 'https://experienceleague.adobe.com/XesXGBf2aDsnsbS2Ro1RLdd1EVrj-mBdCiv8C0dj8NU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: '173'
 ht-degree: 63%
-
 ---
-
 # [!DNL Google Tag Manager] を使用した RTP の実装 {#implementing-rtp-using-google-tag-manager}
 
 RTP タグを実装するには、次のインストール手順に従います。
 
 1. [!DNL Google Tag Manager] アカウントにログインします。
 
-1. 新しい&#x200B;**[!UICONTROL タグ]** > **[!UICONTROL タグ設定]** > **[!UICONTROL カスタム HTML タグ &#x200B;].**&#x200B;を追加します **RTP**&#x200B;と呼んでください。
+1. 新しい&#x200B;**[!UICONTROL タグ]** > **[!UICONTROL タグ設定]** > **[!UICONTROL カスタム HTML タグ ].**&#x200B;を追加します **RTP**&#x200B;と呼んでください。
 
 1. **RTP アカウント**&#x200B;にログインします。
 
@@ -37,7 +43,7 @@ RTP タグを実装するには、次のインストール手順に従います�
 
    ![](assets/image2014-11-30-15-3a19-3a21.png)
 
-1. 「[!UICONTROL ドメイン]」で、該当するドメインを選択し、「**[!UICONTROL タグを生成]**」をクリックします。
+1. [!UICONTROL ドメイン]で、該当するドメインを選択し、「**[!UICONTROL タグを生成]**」をクリックします。
 
    ![](assets/image2014-11-30-15-3a20-3a17.png)
 

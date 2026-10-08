@@ -1,53 +1,55 @@
 ---
 description: セールスキャンペーンのメールステップの送信オプションについて説明します。 送信するタイミング、送信時間をスケジュールするタイミング、または最初と次のステップに向けて送信するタスクを作成するタイミングを選択できます。
-title: メールステップのセールスキャンペーン送信オプションについて
+title: メールステップにおけるセールスキャンペーンの送信オプションについて
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-TQID: https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM
+TQID: 'https://experienceleague.adobe.com/dd4l3DH5i6E-zpjJk-cpQTMgZy-3a90JcrkeAFGl4PM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 758
+source-wordcount: '772'
 ht-degree: 93%
-
 ---
-
 # メールステップのセールスキャンペーン送信オプションについて {#understanding-sales-campaign-send-options-for-email-steps}
 
-セールスキャンペーンを作成する場合、[!DNL Sales Insight Actions] でのメール手順の作成方法に関して、いくつかのオプションがあります。 また、セールスキャンペーン内でのメールの場所によって、オプションも異なります。
+セールスキャンペーンを作成する場合、[!DNL Sales Insight Actions] でのメール手順の作成方法に関して、いくつかのオプションがあります。 また、セールスキャンペーン内のどのステップのメールかによって、利用できるオプションも異なります。
 
-## 送信オプションの最初のステップ {#first-step-send-options}
+## 最初のステップの送信オプション {#first-step-send-options}
 
 セールスキャンペーンの最初のステップと初日の場合は、次のオプションがあります。
 
 ![](assets/understanding-sales-campaign-send-options-for-email-steps-1.png)
 
-### このメールを送信するタイミングを選択する {#first-step-i-will-choose}
+### このメールを送信するタイミングを自分で選択する {#first-step-i-will-choose}
 
-* このオプションを使用すると、リードを追加してセールスキャンペーンを開始する際に、セールスキャンペーンの最初のメールの「送信時」を選択できます。
+* このオプションを使用すると、人物を追加してセールスキャンペーンを開始する際に、そのセールスキャンペーン内で最初に送信するメールの「送信時刻」を選択できます。
 
-### 以下の時刻にこのメールを送信 {#first-step-following-time}
+### 以下の時刻にこのメールを送信する {#first-step-following-time}
 
 * リードを追加してセールスキャンペーンを開始する際に、今回のメールのスケジュールが設定されます。
 * セールスキャンペーンを開始する際に、常に新しい「送信時刻」を選択するオプションがあります。
 
-### タスクを作成（このメールは手動で送信） {#first-step-create-a-task}
+### タスクを作成（このメールは自分で送信） {#first-step-create-a-task}
 
 * このオプションでは、都合のよいときに送信できるメールタスク（および [!DNL Salesforce] と同期）が作成されます。
-* これを選択すると、セールスキャンペーンを開始する際に、コマンドセンターとライブフィードでこれらのタスクがキューに入れられます。 その後、送信前に、各メールをパーソナライズして送信（またはスケジュール設定）できます。
+* これを選択すると、セールスキャンペーンを開始する際に、コマンドセンターとライブフィードでこれらのタスクがキューに入れられます。 その後、送信前に、各メールをパーソナライズして送信（またはスケジュール）できます。
 
-   * このタスクを web アプリケーションで開くと、作成ウィンドウが開き、取引先責任者のメールアドレス、メールの件名、選択したテンプレートが表示されます。
-   * このタスクを Gmail または [!DNL Outlook] で開くと、ネイティブの作成ウィンドウが開き、取引先責任者のメールアドレス、メールの件名、選択したテンプレートが動的に入力されます。
+  * このタスクを web アプリケーションで開くと、作成ウィンドウが開き、取引先責任者のメールアドレス、メールの件名、選択したテンプレートが表示されます。
+  * このタスクを Gmail または [!DNL Outlook] で開くと、ネイティブの作成ウィンドウが開き、取引先責任者のメールアドレス、メールの件名、選択したテンプレートが動的に入力されます。
 
-## 送信オプションの後続のステップ {#subsequent-step-send-options}
+## 後続のステップの送信オプション {#subsequent-step-send-options}
 
 セールスキャンペーンの後続の日／ステップでは、以下のオプションを使用できます。
 
 ### このセールスキャンペーンの前のメールと同じ時刻にこのメールを送信 {#subsequent-send-at-same-time}
 
 * このオプションを選択すると、直近のメールと同じ時刻にメールが送信されます。
-* 関連付けられた日にも送信されます。
+* 関連付けられた日に送信されます。
 
 >[!IMPORTANT]
 >
@@ -58,13 +60,13 @@ ht-degree: 93%
 * リードを追加してセールスキャンペーンを開始する際に、今回のメールのスケジュールが設定されます。
 * セールスキャンペーンを開始する際に、常に新しい「送信時刻」を選択するオプションがあります。
 
-### タスクを作成（このメールは手動で送信） {#subsequent-create-a-task}
+### タスクを作成（このメールは自分で送信） {#subsequent-create-a-task}
 
 * このオプションでは、都合のよいときに送信できるメールタスク（および [!DNL Salesforce] と同期）が作成されます。
-* この選択を行った後、セールスキャンペーンを開始すると、[!DNL Sales Insight Actions] はこれらのタスクをコマンドセンターとライブフィードでキューに入れます。 その後、送信前に、各メールをパーソナライズして送信（またはスケジュール設定）できます。
+* この選択を行った後、セールスキャンペーンを開始すると、[!DNL Sales Insight Actions] はこれらのタスクをコマンドセンターとライブフィードでキューに入れます。 その後、送信前に、各メールをパーソナライズして送信（またはスケジュール）できます。
 
-   * このタスクを web アプリケーションで開くと、作成ウィンドウが開き、取引先責任者のメールアドレス、メールの件名、選択したテンプレートが表示されます。
-   * このタスクを Gmail または [!DNL Outlook] で開くと、ネイティブの作成ウィンドウが開き、取引先責任者のメールアドレス、メールの件名、選択したテンプレートが動的に入力されます。
+  * このタスクを web アプリケーションで開くと、作成ウィンドウが開き、取引先責任者のメールアドレス、メールの件名、選択したテンプレートが表示されます。
+  * このタスクを Gmail または [!DNL Outlook] で開くと、ネイティブの作成ウィンドウが開き、取引先責任者のメールアドレス、メールの件名、選択したテンプレートが動的に入力されます。
 
 ### このキャンペーンの前のメールのフォローアップとしてこのメールを作成 {#subsequent-create-this-email}
 
@@ -73,10 +75,10 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->メールをフォローアップとして作成するこのオプションは、前のステップもメールの場合、メールステップでのみ使用できます。 前のステップが、電話、InMail またはカスタムの場合、フォローアップを作成するオプションは表示されません。
+>メールをフォローアップとして作成するこのオプションは、前のステップもメールの場合に、メールステップでのみ使用できます。 前のステップが電話、InMail、またはカスタムの場合、フォローアップを作成するオプションは表示されません。
 
 >[!MORELIKETHIS]
 >
->[&#x200B; セールスキャンペーンの作成](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[ セールスキャンペーンの作成](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
 >[セールスキャンペーンのステップのタイプとリマインダータスク](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
 >[セールスキャンペーンの設定](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

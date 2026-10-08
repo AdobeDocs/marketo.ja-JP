@@ -4,25 +4,30 @@ title: 新しい画像追加ドキュメント
 hide: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-TQID: https://experienceleague.adobe.com/F4i-VcFV3IX1NG6v0s-qYE5tooll9dsjL407Vypoxow
+TQID: 'https://experienceleague.adobe.com/F4i-VcFV3IX1NG6v0s-qYE5tooll9dsjL407Vypoxow'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: ecf3b0de-0d29-4cb7-bed7-bf29ea2e2f77
+    internal-label: Image editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 308
+source-wordcount: '308'
 ht-degree: 25%
-
 ---
-
 # 新しい画像追加ドキュメント {#new-add-images-doc}
 
 新しいファイルや画像を画像およびファイルリポジトリに追加するための複数のオプションがあります。
 
 ## 画像またはファイルのアップロード {#upload-image-or-file}
 
-1. **Design Studio** に移動します。
+1. **デザインスタジオ**&#x200B;に移動します。
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
@@ -50,7 +55,7 @@ ht-degree: 25%
 
 テキスト
 
-1. 上記[&#128279;](#upload-image-or-file)から手順1と2 に従います。
+1. 上記](#upload-image-or-file)から手順1と2 [に従います。
 
 1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、**[!UICONTROL 画像またはファイルの読み込み]**&#x200B;を選択します。
 
@@ -72,7 +77,7 @@ PICC
 
 テキスト
 
-1. 上記[&#128279;](#upload-image-or-file)から手順1と2 に従います。
+1. 上記](#upload-image-or-file)から手順1と2 [に従います。
 
 1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、**[!UICONTROL 画像またはファイルの読み込み]**&#x200B;を選択します。
 
@@ -102,7 +107,7 @@ PICC
 
 テキスト
 
-1. 上記[&#128279;](#upload-image-or-file)から手順1と2 に従います。
+1. 上記](#upload-image-or-file)から手順1と2 [に従います。
 
 1. **[!UICONTROL 画像とファイルのアクション]** ドロップダウンをクリックし、**[!UICONTROL 画像またはファイルの読み込み]**&#x200B;を選択します。
 

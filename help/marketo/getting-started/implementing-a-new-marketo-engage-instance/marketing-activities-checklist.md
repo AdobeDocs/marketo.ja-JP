@@ -3,34 +3,50 @@ description: 新しいMarketo Engage インスタンスの「マーケティン�
 title: 新しいインスタンスのベストプラクティス – マーケティングアクティビティのチェックリスト
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-TQID: https://experienceleague.adobe.com/jxPaBHvXVW-op-FmERQ-LmF4GHOB0BCMxtXNWsc2Hvo
+TQID: 'https://experienceleague.adobe.com/jxPaBHvXVW-op-FmERQ-LmF4GHOB0BCMxtXNWsc2Hvo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
 subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+    internal-label: Data management
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Privacy
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1363
+source-wordcount: '1363'
 ht-degree: 59%
-
 ---
-
 # 新しいインスタンスのベストプラクティス：マーケティングアクティビティのチェックリスト {#new-instance-best-practices-marketing-activities-checklist}
 
 マーケティングアクティビティには、自動化されたマーケティングプログラムを構成するすべてのアセットとコンテンツが含まれます。 新しいMarketo Engage インスタンスを設定する際には、すべてのユーザーが簡単に様々なプログラムを検索して管理できるように、明確で明確な整理を行います。
@@ -49,20 +65,20 @@ ht-degree: 59%
 <tbody>
   <tr>
     <td>命名規則</td>
-    <td><li>フォルダー構造を構築する前に、サブスクリプションの<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes" target="_blank">一貫した命名規則</a>を定義します。</li></td>
+    <td><li>フォルダー構造を構築する前に、サブスクリプションの<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes" target="_blank">一貫した命名規則</a>を定義します。</li></td>
   </tr>
   <tr>
     <td>フォルダー構造</td>
-    <td><li><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#folders" target="_blank">この例</a>を参照して、一貫性のある簡単にナビゲート可能なフォルダー構造を構築します。</td>
+    <td><li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#folders" target="_blank">この例</a>を参照して、一貫性のある簡単にナビゲート可能なフォルダー構造を構築します。</td>
   </tr>
   <tr>
     <td>プログラム</td>
-    <td><li>管理者セクションで作成した<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/tags/create-a-program-channel" target="_blank">各チャネル </a>のプログラムテンプレートを作成します。 プログラムライブラリから<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program" target="_blank"> プログラムを読み込む</a>ことから開始できます。 詳しくは、以下の「アセット」の表を参照してください。</li>
-    <li>グローバルプログラムとローカルプログラムのどちらにスマートキャンペーン </a>の<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign" target="_blank"> フローステップを配置するかを決定します。</li> <li>プロセスを標準化するために、プログラムテンプレートの一部として獲得、メンバーシップ、成功のトラッキングを含めます。</li></td>
+    <td><li>管理者セクションで作成した<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel" target="_blank">各チャネル </a>のプログラムテンプレートを作成します。 プログラムライブラリから<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program" target="_blank"> プログラムを読み込む</a>ことから開始できます。 詳しくは、以下の「アセット」の表を参照してください。</li>
+    <li>グローバルプログラムとローカルプログラムのどちらにスマートキャンペーン </a>の<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign" target="_blank"> フローステップを配置するかを決定します。</li> <li>プロセスを標準化するために、プログラムテンプレートの一部として獲得、メンバーシップ、成功のトラッキングを含めます。</li></td>
   </tr>
   <tr>
     <td>アーカイブ</td>
-    <td><li>プログラムとアセットを<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder" target="_blank"> アーカイブ </a>するタイミングに関するポリシーを決定します。
+    <td><li>プログラムとアセットを<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#archive-a-folder" target="_blank"> アーカイブ </a>するタイミングに関するポリシーを決定します。
     <p><img src="assets/note-icon.png" alt="メモアイコン"> メモ：アイテムがアーカイブされた後、選択リストとレポートからアイテムが削除されます。</li></td>
   </tr>
   <tr>
@@ -76,7 +92,7 @@ ht-degree: 59%
 
 >[!NOTE]
 >
->プログラム、ランディングページ、メールなどのマーケティングアセットを別々の領域に保存するには、[管理者セクションチェックリスト &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions)を参照して、ワークスペースの設定方法を確認してください。
+>プログラム、ランディングページ、メールなどのマーケティングアセットを別々の領域に保存するには、[管理者セクションチェックリスト ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md#workspaces-partitions)を参照して、ワークスペースの設定方法を確認してください。
 
 <table>
 <thead>
@@ -96,7 +112,7 @@ ht-degree: 59%
   <tr>
     <td>トークン</td>
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.html?lang=ja" target="_blank"> トークン </a>を設定します。</li>
-    <li>定期的に使用されるプログラムタイプでトークンを使用して、効率を高めます。 組織が定期的に必要とするトークンを<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program#nesting-tokens" target="_blank">グローバルフォルダー</a>に実装することを検討してください。</li></td>
+    <li>定期的に使用されるプログラムタイプでトークンを使用して、効率を高めます。 組織が定期的に必要とするトークンを<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program#nesting-tokens" target="_blank">グローバルフォルダー</a>に実装することを検討してください。</li></td>
   </tr>
   <tr>
     <td>バッチキャンペーン</td>
@@ -105,7 +121,7 @@ ht-degree: 59%
   </tr>
   <tr>
     <td>トリガーキャンペーン</td>
-    <td><li>「スマートリスト」セクション内で 1 つ以上のトリガーを使用して、<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns#trigger-campaign" target="_blank">トリガースマートキャンペーン</a>を設定します。</li>
+    <td><li>「スマートリスト」セクション内で 1 つ以上のトリガーを使用して、<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns#trigger-campaign" target="_blank">トリガースマートキャンペーン</a>を設定します。</li>
     <li>「スケジュール」タブでスマートキャンペーンをアクティブ化して、キャンペーンアクションを実行します。</li></td>
   </tr>
   <tr>
@@ -144,9 +160,9 @@ ht-degree: 59%
     <li>開始するには、Marketo プログラムライブラリから<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html?lang=ja" target="_blank">スコアリングプログラムを読み込みます</a>。</li></td>
   </tr>
   <tr>
-    <td>人物のソース</td>
+    <td>個人ソース</td>
     <td><li>「システム管理」フィールドで、リード/個人のソースに値を割り当てる一元化されたプログラムを作成します。</li>
-    <li>開始するには、Marketo プログラムライブラリから<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management" target="_blank">運用データ管理プログラムを読み込みます</a>。</li></td>
+    <li>開始するには、Marketo プログラムライブラリから<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-data-management" target="_blank">運用データ管理プログラムを読み込みます</a>。</li></td>
   </tr>
   <tr>
     <td>データの標準化</td>
@@ -156,7 +172,7 @@ ht-degree: 59%
   <tr>
     <td>バウンス管理</td>
     <td><li>バウンス管理用の運用プログラムを作成して、すべてのバウンスの詳細を取り込みます。</li>
-    <li>開始するには、Marketo プログラムライブラリから<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management" target="_blank">配信品質管理プログラムを読み込みます</a>。</li></td>
+    <li>開始するには、Marketo プログラムライブラリから<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/op-deliverability-management" target="_blank">配信品質管理プログラムを読み込みます</a>。</li></td>
   </tr>
   <tr>
     <td>プライバシーとコンプライアンス</td>
@@ -179,7 +195,7 @@ ht-degree: 59%
   </tr>
   <tr>
     <td>メール配信品質</td>
-    <td><li>メールの送信と配信品質のトレンドをモニタリングする<a href="https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report" target="_blank">メールパフォーマンスレポートを作成します</a>。</li></td>
+    <td><li>メールの送信と配信品質のトレンドをモニタリングする<a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-data/email-performance-report" target="_blank">メールパフォーマンスレポートを作成します</a>。</li></td>
   </tr>
 </tbody>
 </table>

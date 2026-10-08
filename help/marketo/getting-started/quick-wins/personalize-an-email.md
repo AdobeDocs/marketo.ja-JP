@@ -4,19 +4,21 @@ description: メールのパーソナライズ - Marketo ドキュメント - �
 title: メールのパーソナライズ
 exl-id: 1562796e-da47-4305-b950-3bed1d36d339
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc
+TQID: 'https://experienceleague.adobe.com/T2rqqrkxA5tScMDEnJ4oEXSwuJKnb36bscUKg5aRXhc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 337
+source-wordcount: '337'
 ht-degree: 100%
-
 ---
-
 # メールのパーソナライズ {#personalize-an-email}
 
-## ミッション：データトークンを追加してメールを個人用にする {#mission-make-your-emails-personal-by-adding-data-tokens}
+## ミッション：データトークンを追加してメールをパーソナライズする {#mission-make-your-emails-personal-by-adding-data-tokens}
 
 >[!PREREQUISITES]
 >
@@ -50,7 +52,7 @@ ht-degree: 100%
 
    ![](assets/personalize-an-email-4.png)
 
-1. **デフォルト値**&#x200B;には会社名とダッシュを入力し、セールス担当者の名前（名）が使用できない場合に何か表示されるようにします。 「**挿入**」をクリックします。
+1. **デフォルト値**&#x200B;には会社名とダッシュを入力し、セールス担当者の名前（名）が使用できない場合に何か表示されるようにします。 次に「**挿入**」をクリックします。
 
    ![](assets/personalize-an-email-5.png)
 
@@ -86,7 +88,7 @@ ht-degree: 100%
 
    >[!TIP]
    >
-   >トークンのデフォルト値を必ず含めるようにします。これにより、個人情報の一部が見つからない場合に、デフォルト値がメールに表示されます。
+   >トークンには必ずデフォルト値を設定してください。これにより、個人情報の一部が欠けている場合でも、メールにデフォルト値が表示されます。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
 
@@ -98,11 +100,11 @@ ht-degree: 100%
 
 >[!TIP]
 >
->自分自身にメールを送信する方法について、簡単な情報が必要な場合は、 [一斉配信メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}を参照してください。
+>自分宛てにメールを送信する方法を簡単におさらいしたい場合は、 [一斉配信メールの送信](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}を参照してください。
 
 ### ミッション完了 {#mission-complete}
 
-おめでとうございます。メールをパーソナライズしました。
+おめでとうございます。メールをパーソナライズできました。
 
 <br> 
 

@@ -4,16 +4,22 @@ description: Adobe Marketo Engageのプログラムのレベニューステー�
 title: プログラム収益ステージ分析領域について
 exl-id: 7310655f-a06e-4e02-a094-d942fff689c3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: e9ef2843fb7e700f1d9d1fd1f04a27fe2f6e516e
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 94%
-
 ---
-
 # プログラム収益ステージ分析領域について {#understanding-the-program-revenue-stage-analysis-area}
 
-この分析領域では、個々のプログラムの効果を分析することも、特定の期間のチャネルごとに要約した結果を確認することもできます。 創出された名前のうち、収益モデルの成功パスで特定のステージに達したものがいくつかあるかを、確実に把握できるようになります。
+この分析領域では、個々のプログラムの効果を分析することも、特定の期間のチャネルごとに要約した結果を確認することもできます。 生成された新しい名前のうち、収益サイクルモデルの成功パス内で特定のステージに到達したものがどれだけあるかについてのインサイトを提供します。
 
 **この分析領域を使用して回答できるビジネスの質問の例を次に示します**。
 
@@ -31,13 +37,13 @@ ht-degree: 94%
 
 **プログラム収益ステージ分析のディメンションと測定**
 
-ディメンションと測定は機能別に分類され、システムでは黄色と青色のドットで表されます。黄色のドットがディメンション、青色のドットが測定です。 プログラム収益ステージ分析の各ディメンションと測定を使用して、レポートで特定の質問に答えます。
+ディメンションと測定値は機能別に分類され、システムでは黄色と青色のドットで表されます。黄色のドットがディメンション、青色のドットが測定値です。 プログラム収益ステージ分析の各ディメンションと測定を使用して、レポートで特定の質問に答えます。
 
 カテゴリ内で使用可能なディメンションまたは測定を表示するには、カテゴリ名の横にある右矢印をクリックして、カテゴリリストを展開します。 下矢印をクリックして、カテゴリリストを折りたたみます。
 
 >[!TIP]
 >
->レポート内で特定のディメンションまたは測定に関する詳細を取得するには、その上にカーソルを置きます。
+>レポート内で特定のディメンションまたは指標に関する詳細情報を表示するには、その項目にポインタを合わせます。
 
 **モデルの属性**
 
@@ -69,7 +75,7 @@ ht-degree: 94%
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p>ステージタイプ</p></td>
-   <td colspan="1" rowspan="1"><p>タイプについて説明します。各ステージの在庫、SLA、またはゲート</p></td>
+   <td colspan="1" rowspan="1"><p>各ステージが在庫、SLA、またはゲートのどのタイプに分類されるかを説明します。</p></td>
   </tr>
  </tbody>
 </table>
@@ -79,7 +85,7 @@ ht-degree: 94%
 <table>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong>寸法</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>ディメンション</strong></p></td>
    <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td>
   </tr>
   <tr>
@@ -98,7 +104,7 @@ ht-degree: 94%
 <table>
  <tbody>
   <tr>
-   <td colspan="1" rowspan="1"><p><strong>寸法</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>ディメンション</strong></p></td>
    <td colspan="1" rowspan="1"><p><strong>説明</strong></p></td>
   </tr>
   <tr>
@@ -142,11 +148,11 @@ ht-degree: 94%
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p>新しい名前（現在）</p></td>
-   <td colspan="1" rowspan="1"><p>現在ステージに存在し、プログラムによって取得されたリードの合計数</p></td>
+   <td colspan="1" rowspan="1"><p>現在ステージに存在し、プログラムによって取得されたリードの合計数を示します。</p></td>
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p>新しい名前（かつて）</p></td>
-   <td colspan="1" rowspan="1"><p>タイプについて説明します。各ステージの在庫、SLA、またはゲート</p></td>
+   <td colspan="1" rowspan="1"><p>各ステージが在庫、SLA、またはゲートのどのタイプに分類されるかを説明します。</p></td>
   </tr>
  </tbody>
 </table>

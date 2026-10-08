@@ -4,20 +4,23 @@ description: Marketo Engageで「セグメントにラベルを付ける」を�
 title: セグメントのラベル付け
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/0i6IGppkmXmVDl5awDlsmqMQ2hFSU4w8ILVnIwAVr8M
+TQID: 'https://experienceleague.adobe.com/0i6IGppkmXmVDl5awDlsmqMQ2hFSU4w8ILVnIwAVr8M'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 139
+source-wordcount: '139'
 ht-degree: 82%
-
 ---
-
 # セグメントのラベル付け {#label-your-segment}
 
 多くのセグメントがあってスクロールが面倒になっている場合、 ラベルを使用してセグメントにタグを付けると、セグメントをすばやく見つけることができます。
@@ -28,7 +31,7 @@ ht-degree: 82%
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. ラベルでタグ付けするセグメントを選択します。
+1. ラベルでタグを付けるセグメントを選択します。
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 

@@ -4,7 +4,7 @@ description: Marketoでランディングページを承認、未承認、また
 title: ランディングページの承認、未承認、削除
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/ZkdN49ElH-F1AGiGJGkevgGzzGKVvA-MSR5Ma0S9AZo
+TQID: 'https://experienceleague.adobe.com/ZkdN49ElH-F1AGiGJGkevgGzzGKVvA-MSR5Ma0S9AZo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
@@ -13,10 +13,15 @@ feature_v2:
     internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
     internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 25%
@@ -55,7 +60,7 @@ ht-degree: 25%
 
 >[!NOTE]
 >
->未承認のランディングページはweb上に公開されなくなり、追加のアクティビティは生成されません。 未承認のランディングページとそのFacebook タブへの訪問者には、[&#x200B; フォールバックページ &#x200B;](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)が表示されます。
+>未承認のランディングページはweb上に公開されなくなり、追加のアクティビティは生成されません。 未承認のランディングページとそのFacebook タブへの訪問者には、[ フォールバックページ ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)が表示されます。
 
 ## ランディングページの削除 {#delete-a-landing-page}
 
@@ -73,7 +78,7 @@ ht-degree: 25%
 
 ## 複数のランディングページの削除 {#delete-multiple-landing-pages}
 
-1. メインの[!UICONTROL &#x200B; デザインスタジオ &#x200B;]画面で、**[!UICONTROL ランディングページ]**&#x200B;をクリックします。
+1. メインの[!UICONTROL  デザインスタジオ ]画面で、**[!UICONTROL ランディングページ]**&#x200B;をクリックします。
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-7.png)
 

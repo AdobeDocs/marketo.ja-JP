@@ -4,16 +4,21 @@ description: Marketo sync ユーザーが英語以外の言語を使用してい
 title: 英語以外のカスタムオブジェクト同期の有効化
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/kPzDEdjDnDAvuJmCtPj0I2Lfl63Lset00t-LwB8DDhI
+TQID: 'https://experienceleague.adobe.com/kPzDEdjDnDAvuJmCtPj0I2Lfl63Lset00t-LwB8DDhI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 67c57a9162946c4b9c424ab3fd445b70e90b530a
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 195
+source-wordcount: '195'
 ht-degree: 35%
-
 ---
-
 # 英語以外のカスタムオブジェクト同期の有効化 {#enable-non-english-custom-object-sync}
 
 Marketo 同期ユーザーが英語以外の言語に設定されている場合、カスタムオブジェクト同期を有効にしようとするとエラーが発生することがあります。
@@ -22,7 +27,7 @@ Marketo 同期ユーザーが英語以外の言語に設定されている場合
 
 ## 解決方法 {#how-to-fix}
 
-1. Marketo 同期ユーザを使用して [!DNL Salesforce] にログインします。
+1. Marketo 同期ユーザーを使用して [!DNL Salesforce] にログインします。
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 

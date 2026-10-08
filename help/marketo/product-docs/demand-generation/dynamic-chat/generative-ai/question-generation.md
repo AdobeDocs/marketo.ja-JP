@@ -3,16 +3,21 @@ description: ソース URLとトピックを使用してDynamic Chatの質問を
 title: 質問の生成
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-TQID: https://experienceleague.adobe.com/aNb02vSBYXLUd-bGqvbbTB6IXSL6IY-8KCozGeZjZsI
+TQID: 'https://experienceleague.adobe.com/aNb02vSBYXLUd-bGqvbbTB6IXSL6IY-8KCozGeZjZsI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 313
+source-wordcount: '313'
 ht-degree: 4%
-
 ---
-
 # 質問の生成 {#question-generation}
 
 あらゆるタスクと、それらの関連情報（生成日時、質問の総数、承認ステータスなど）を確認できます。
@@ -53,7 +58,7 @@ ht-degree: 4%
 
 >[!NOTE]
 >
->生成された質問と回答は、[応答ライブラリ &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)でも表示できます。
+>生成された質問と回答は、[応答ライブラリ ](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md)でも表示できます。
 
 1. 目的のタスクを見つけ、その名前の横にあるダウンロードアイコンをクリックします。
 

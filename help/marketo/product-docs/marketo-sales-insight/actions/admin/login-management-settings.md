@@ -3,16 +3,18 @@ description: Sales Insight Actions認証のログイン管理設定について�
 title: ログイン管理の設定
 exl-id: 077f7f97-1413-4495-b2c9-94194e8dbcc2
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/0NG6QpEVASL-Fponmbe25taZps60wJ5BdNui7FdlSrk
+TQID: 'https://experienceleague.adobe.com/0NG6QpEVASL-Fponmbe25taZps60wJ5BdNui7FdlSrk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 466
+source-wordcount: '466'
 ht-degree: 90%
-
 ---
-
 # ログイン管理の設定 {#login-management-settings}
 
 ログイン管理の設定を使用すると、管理者は、セールスインサイトアクションのユーザに対して、グローバルレベルで認証設定を設定できます。
@@ -27,13 +29,13 @@ ht-degree: 90%
 >
 >**管理者権限が必要**
 
-ログイン管理の環境設定を更新するには、次の手順に従います。
+ログイン管理の設定を更新するには、次の手順に従います。
 
 1. 歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
    ![](assets/login-management-settings-1.png)
 
-1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL 一般]**」をクリックします。
+1. 「[!UICONTROL 管理設定]」で、「**[!UICONTROL 一般]**」をクリックします。
 
    ![](assets/login-management-settings-2.png)
 
@@ -61,18 +63,18 @@ ht-degree: 90%
 
 ![](assets/login-management-settings-5.png)
 
-### ユーザが Salesforce から Actions の機能にアクセスし、「Salesforce のみ」が選択されている場合、ユーザ認証は Actions でどのように処理されますか？ {#how-is-user-authentication-handled}
+### ユーザーが Salesforce からアクションの機能にアクセスし、「Salesforce のみ」が選択されている場合、ユーザー認証はアクションでどのように処理されますか？ {#how-is-user-authentication-handled}
 
-ユーザがいずれかのアクション（通話、メール、キャンペーン、タスク、キャンペーンリストなど）をクリックすると、SFDC 認証を使用して [!DNL Sales Insight Actions] アカウントに自動的にログインします。 この認証を、[自動ログイン](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)と呼んでいます。
+ユーザーがいずれかのアクション（通話、メール、キャンペーン、タスク、キャンペーンリストなど）をクリックすると、SFDC 認証を使用して [!DNL Sales Insight Actions] アカウントに自動的にログインします。 この認証を、[自動ログイン](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md)と呼んでいます。
 
 ## 「すべてのログイン方法」に関する FAQ {#all-login-methods-faq}
 
-### 「すべてのログイン方法」が選択されている場合、自分のインスタンスの新しいユーザは自分のアカウントをどのようにアクティブ化しますか？ {#activate-when-all-login-methods-is-selected}
+### 「すべてのログイン方法」が選択されている場合、自分のインスタンスの新しいユーザーはアカウントをどのようにアクティブ化しますか？ {#activate-when-all-login-methods-is-selected}
 
-新しいユーザがインスタンスに招待されると、アカウントのアクティベーションに関するメールが届きます。 「開始する」というボタンをクリックすると、パスワードの作成と確認を求めるページが表示されます。 作成されたアカウントはアクティブ化され、オンボーディングワークフローで使用されます。
+新しいユーザーがインスタンスに招待されると、アカウントのアクティベーションに関するメールが届きます。 「開始する」というボタンをクリックすると、パスワードの作成と確認を求めるページが表示されます。 これが作成されるとアカウントがアクティブ化され、オンボーディングワークフローが開始されます。
 
 ![](assets/login-management-settings-6.png)
 
 ### 「[!UICONTROL すべてのログイン方法]」が選択されている場合、インスタンスのユーザはどのようにログインできますか？ {#what-are-users-allowed-to-log-in-with-all-login}
 
-当社のログインページを使用する場合、ユーザはまず自分のメールアドレスを入力します。 次に、すべてのログインオプション（ユーザ名／パスワード、SFDC、Gmail、SSO）を提供するページに送信されます。
+当社のログインページを使用する場合、ユーザはまず自分のメールアドレスを入力します。 次に、すべてのログインオプション（ユーザ名／パスワード、SFDC、Gmail、SSO）を提供するページに移動します。

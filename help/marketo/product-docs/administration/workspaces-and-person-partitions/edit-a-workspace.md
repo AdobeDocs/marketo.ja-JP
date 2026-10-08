@@ -4,20 +4,23 @@ description: ワークスペースのリードパーティション、プライ�
 title: ワークスペースを編集する
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-TQID: https://experienceleague.adobe.com/jcIe8BMcmtv0znDgj-CFn6NVrBLDpVj4XN9mWv4sQ84
+TQID: 'https://experienceleague.adobe.com/jcIe8BMcmtv0znDgj-CFn6NVrBLDpVj4XN9mWv4sQ84'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: fffc2f21-ba05-5d98-924c-16da987a5b69
+    internal-label: Workspaces
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 156
+source-wordcount: '156'
 ht-degree: 79%
-
 ---
-
 # ワークスペースを編集する {#edit-a-workspace}
 
 ときには、ワークスペースで変更が必要になる場合があります。
@@ -28,7 +31,7 @@ ht-degree: 79%
 
 >[!NOTE]
 >
->ワークスペースについて詳しくは、[&#x200B; ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を参照してください。
+>ワークスペースについて詳しくは、[ ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を参照してください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -42,7 +45,7 @@ ht-degree: 79%
 
    ![](assets/edit-a-workspace-3.png)
 
-1. 別のリードパーティションを選択し、ドロップダウンから別のプライマリ人物パーティションを選択できます。
+1. 別のリードパーティションを選択し、ドロップダウンから別のプライマリ顧客パーティションを選択できます。
 
    >[!NOTE]
    >
@@ -58,7 +61,7 @@ ht-degree: 79%
    >
    >**[!UICONTROL プライマリ人物パーティション]**&#x200B;がデフォルトとして機能し、すべての人物が割り当てられます。
 
-   複数のブランドドメインを有効にした場合、別のプライマリブランドドメインに切り替えることができます。 「**[!UICONTROL 保存]**」をクリックします。
+   複数のブランドドメインを有効にした場合、別のプライマリブランドドメインに変更できます。 「**[!UICONTROL 保存]**」をクリックします。
 
    ![](assets/edit-a-workspace-5.png)
 

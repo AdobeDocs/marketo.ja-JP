@@ -3,18 +3,23 @@ description: Dynamic Chatでエージェントのカレンダーとミーティ�
 title: エージェント設定
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-TQID: https://experienceleague.adobe.com/ahFQ2s-DqjnDhtCLIJwOG7Z6vlH5fQVGLBS9FibW7I8
+TQID: 'https://experienceleague.adobe.com/ahFQ2s-DqjnDhtCLIJwOG7Z6vlH5fQVGLBS9FibW7I8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 634
+source-wordcount: '634'
 ht-degree: 69%
-
 ---
-
 # エージェント設定 {#agent-settings}
 
 カレンダーを設定して、会議／ライブチャットの可用性を設定します。
@@ -31,26 +36,26 @@ ht-degree: 69%
 
 ![](assets/agent-settings-2.png)
 
-ユーザのカレンダーが動的チャットに接続されると、そのユーザはキューに追加され、web サイトの訪問者が予定をスケジュールする際に使用できるようになります。
+ユーザのカレンダーが Dynamic Chat に接続されると、そのユーザはキューに追加され、サイト訪問者が予定をスケジュールする際にそのカレンダーを使用できるようになります。
 
 >[!NOTE]
 >
->1 ユーザにつき 1 つのカレンダーを接続できます。 複数のカレンダーで会議を受け取る場合は、複数のユーザを追加し、各ユーザにカレンダーを連携させる必要があります。
+>1 ユーザーにつき 1 つのカレンダーを接続できます。 複数のカレンダーで会議を受け取る場合は、複数のユーザを追加し、各ユーザにカレンダーを連携させる必要があります。
 
-また、カレンダーに予定をスケジュールするときに訪問者に送信される、招待の本文をカスタマイズすることもできます。 下部のチェックボックスを選択して、「Google Meet」リンクまたは「Microsoft Teams」リンクを含めることもできます（接続されたカレンダーに応じて異なります）。
+また、訪問者がユーザのカレンダーに予定をスケジュールしたときに送信される招待の本文をカスタマイズすることもできます。 下部のチェックボックスを選択して、「Google Meet」リンクまたは「Microsoft Teams」リンクを含めることもできます（接続されたカレンダーに応じて異なります）。
 
 ![](assets/agent-settings-3.png)
 
 >[!TIP]
 >
->トークンアイコン（波括弧）を使用して、ユーザ属性または会社属性を使用して会議予約確認メールをパーソナライズします。
+>トークンアイコン（波括弧）を使用して、人物または会社の属性に基づいて会議予約確認メールをパーソナライズします。
 
 ### 権限 {#permissions}
 
 Outlook で設定すると、Dynamic Chat に対して次の権限が付与されます。
 
 * カレンダーへの完全なアクセス
-* サインインしてプロファイルを読む
+* サインインしてプロファイル情報を表示する
 * アクセス権を付与したデータへのアクセスを維持する
 * メールボックスの設定を読み取る
 
@@ -58,7 +63,7 @@ Google で設定すると、Dynamic Chat に対して次の権限が付与され
 
 * カレンダーを作成、変更または削除する
 * 個々のカレンダーイベントを更新する
-* イベントを表示できるユーザなど、設定を変更する
+* イベントを表示できるユーザなどの設定を変更する
 * カレンダーを共有するユーザを変更する
 * 名前、メールアドレス、言語設定、プロファイル画像へのアクセス
 
@@ -95,7 +100,7 @@ Google で設定すると、Dynamic Chat に対して次の権限が付与され
 
 >[!IMPORTANT]
 >
->* エージェントの受信トレイ **の[可用性トグル &#x200B;](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}は、_ライブチャットの可用性_ タブに入力された内容**&#x200B;を上書きします。 そのため、エージェントが1pから5pの間に利用可能にスケジュールされていても、3pでクイックブレークを取る必要がある場合は、エージェントの設定を変更する必要はありません。 可用性トグルステータスは、手動で変更されるまで、エージェントの可用性の次の時間ブロックに達するまで、またはエージェントの指定されたタイムゾーンの深夜まで保持されます（詳しくは次の箇条書きを参照してください）。
+>* エージェントの受信トレイ **の[可用性トグル ](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"}は、_ライブチャットの可用性_ タブに入力された内容**&#x200B;を上書きします。 そのため、エージェントが1pから5pの間に利用可能にスケジュールされていても、3pでクイックブレークを取る必要がある場合は、エージェントの設定を変更する必要はありません。 可用性トグルステータスは、手動で変更されるまで、エージェントの可用性の次の時間ブロックに達するまで、またはエージェントの指定されたタイムゾーンの深夜まで保持されます（詳しくは次の箇条書きを参照してください）。
 >
 >* エージェントが可用性トグルを使用してステータスを「使用可能」に変更すると、可用性スケジュールで指定されたタイムゾーンの深夜に、ステータスが自動的にリセットされます（使用不可に切り替わります）。 タイムゾーンが指定されていない場合、デフォルトはUTC （協定世界時）になります。
 

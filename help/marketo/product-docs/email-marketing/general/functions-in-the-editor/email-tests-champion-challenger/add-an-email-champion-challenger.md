@@ -4,25 +4,30 @@ description: Champion/Challengerのメールテストを追加する方法をご
 title: メールチャンピオン／挑戦者の追加
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-TQID: https://experienceleague.adobe.com/SJcI4kx5bUCRuXvNoZRQjZSfdfxP24UIp5s-Hst6tks
+TQID: 'https://experienceleague.adobe.com/SJcI4kx5bUCRuXvNoZRQjZSfdfxP24UIp5s-Hst6tks'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: eeae636f-f283-4051-94f0-4d74945464fb
+    internal-label: Email Editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 219
+source-wordcount: '219'
 ht-degree: 82%
-
 ---
-
 # メールチャンピオン／挑戦者の追加 {#add-an-email-champion-challenger}
 
 頻繁に使用する電子メールを検証し、機能していることを確認することをお勧めします。 ひとつの方法は、メールの有効性を他のバージョンや挑戦者と比較する方法です。 チャンピオン／挑戦者テストでは、メール全体、件名または送信元アドレスをテストできます。
 
 テスト中の既存のメールは、チャンピオンと見なされます。 テスト内で作成するバリエーションは、すべて挑戦者と見なされます。 チャンピオンコンテンツまたは挑戦者コンテンツを受け取るユーザーの割合を決定します。 複数の挑戦者を定義した場合、それらは挑戦者グループに均等に配分されます。
 
-次に開始方法を示します。
+ここから始めましょう。
 
 >[!PREREQUISITES]
 >
@@ -49,7 +54,7 @@ ht-degree: 82%
 
    ![](assets/chmapion2.jpg)
 
-1. 新しいウィンドウが開き、異なるテストタイプのオプションが表示されます。 それぞれについて詳しくは、次の関連記事を参照してください。
+1. 新しいウィンドウが開き、テストタイプの異なるオプションが表示されます。 それぞれについて詳しくは、次の関連記事を参照してください。
 
    >[!MORELIKETHIS]
    >

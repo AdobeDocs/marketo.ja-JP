@@ -5,14 +5,28 @@ title: 条件付きメール開封追跡
 description: カスタムのブール値フィールドを使用して、各個人の同意ステータスに基づいてメール開封トラッキングをルーティングするように、条件付きメール開封トラッキングを設定する方法を説明します。
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: f8f7d99a-f455-45bb-8028-428a55a7130b
+    internal-label: Email Designer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 0%
 ---
 # 条件付きメール開封トラッキング {#conditional-open-tracking}
 
-[様々なガイドライン &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=ja){target="_blank"}に従って、メール開封（ピクセル）トラッキングに対するエンドユーザーの同意を尊重するようにMarketo Engageを設定する方法について説明します。 このアプローチでは、カスタムのブール値フィールドを使用して、オープントラッキングが有効なメールと無効なメールのバリエーションを決定します。
+[様々なガイドライン ](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632){target="_blank"}に従って、メール開封（ピクセル）トラッキングに対するエンドユーザーの同意を尊重するようにMarketo Engageを設定する方法について説明します。 このアプローチでは、カスタムのブール値フィールドを使用して、オープントラッキングが有効なメールと無効なメールのバリエーションを決定します。
 
 ## 手順1：カスタムブール値フィールドの作成 {#custom-field}
 
@@ -26,7 +40,7 @@ ht-degree: 0%
 
 ## ステップ 2：同意フィールドに入力する {#populate}
 
-1. データの読み込み（API同期または[CSV アップロード &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）を介して、各人物の電子メールピクセルトラッキングフィールド値を設定します。
+1. データの読み込み（API同期または[CSV アップロード ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}）を介して、各人物の電子メールピクセルトラッキングフィールド値を設定します。
 
    ![](assets/open-tracking-3.png)
 
@@ -60,7 +74,7 @@ ht-degree: 0%
 
 ## 手順4：スマートキャンペーンの設定 {#smart-campaign}
 
-[&#x200B; スマートキャンペーンを作成](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}して、各人物が受信するメールを決定します。
+[ スマートキャンペーンを作成](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"}して、各人物が受信するメールを決定します。
 
 1. スマートキャンペーンの「_Flow_」タブに、**メールを送信** フローステップを挿入します。
 

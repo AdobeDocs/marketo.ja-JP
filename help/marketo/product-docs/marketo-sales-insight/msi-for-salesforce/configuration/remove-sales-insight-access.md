@@ -3,20 +3,23 @@ description: SalesforceのユーザーまたはプロファイルからSales Ins
 title: セールスインサイトアクセスの削除
 exl-id: 3cda112a-524e-469b-a222-c0192b2f5301
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/KkpOo6sg-kURyX5ncltrYry0JdLWYMzj-CzDP7F-Zp8
+TQID: 'https://experienceleague.adobe.com/KkpOo6sg-kURyX5ncltrYry0JdLWYMzj-CzDP7F-Zp8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 387
+source-wordcount: '387'
 ht-degree: 94%
-
 ---
-
 # [!DNL Sales Insight] アクセスの削除 {#remove-sales-insight-access}
 
 次の手順を使用して、[!DNL Salesforce] の [!DNL Sales Insight] 機能へのアクセス権を削除します。 [!DNL Salesforce] Classic および Lightning に適用可能。
@@ -76,9 +79,9 @@ ht-degree: 94%
  </tbody>
 </table>
 
-* Apex クラスアクセス：「mkto_si」で始まる 159 個の Apex クラス
-* Visualforce ページアクセス：「mkto_si」で始まる 64 個の Visualforce ページ
-* カスタム設定の定義：mkto_si.Marketo 設定と mkto_si.User 環境設定
+* Apex クラスへのアクセス：「mkto_si」で始まる 159 個の Apex クラス
+* Visualforce ページへのアクセス：「mkto_si」で始まる 64 個の Visualforce ページ
+* カスタム設定の定義：mkto_si.Marketo 設定と mkto_si.User ユーザ設定
 
 ## [!DNL Sales Insight] へのアクセス権の削除 {#removing-access-to-sales-insight}
 
@@ -134,7 +137,7 @@ ht-degree: 94%
 
 1. 下にスクロールして、「[!UICONTROL 有効にされたカスタム設定定義アクセス]」セクションを表示します。 「**[!UICONTROL 編集]**」をクリックします。
 
-1. 「Marketo セールスインサイト.mkto_si.Marketo 設定」および「Marketo セールスインサイト.mkto_si.User 環境設定」を選択します。
+1. 「Marketo Sales Insight.mkto_si.Marketo Settings」と「Marketo Sales Insight.mkto_si.User Preferences」を選択します。
 
 1. 「**[!UICONTROL 削除]**」をクリックして、「**[!UICONTROL 保存]**」をクリックします。
 

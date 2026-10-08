@@ -3,23 +3,28 @@ description: サーバー間の接続を使用してDynamics 365にMarketo ソ�
 title: 手順 1／3 - サーバー間接続を使用した Marketo ソリューションのインストール
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/Zxz0uXhcLankhjuBt-n5T-kAuPxiSR--Jka2uybXqi4
+TQID: 'https://experienceleague.adobe.com/Zxz0uXhcLankhjuBt-n5T-kAuPxiSR--Jka2uybXqi4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 270
+source-wordcount: '270'
 ht-degree: 74%
-
 ---
-
 # 手順 1／3：サーバー間接続を使用した Marketo ソリューションのインストール {#step-1-of-3-install-the-marketo-solution-s2s}
 
 [!DNL Microsoft Dynamics 365]とMarketoを同期する前に、まず[!DNL Dynamics]にMarketo ソリューションをインストールする必要があります。**[!DNL Dynamics]管理者権限が必要です。**
 
 >[!CAUTION]
 >
->初期同期が完了する前にカスタムエンティティの同期を有効にしないでください。 初回同期が完了すると、電子メールで通知されます。
+>初期同期が完了する前にカスタムエンティティの同期を有効にしないでください。 初回同期が完了すると、メールで通知されます。
 
 >[!NOTE]
 >
@@ -61,7 +66,7 @@ ht-degree: 74%
 
    ![](assets/image2015-10-9-14-3a59-3a24.png)
 
-1. 「SDK」オプションチェックボックスがオンになっていることを確認します。 「**[!UICONTROL 読み込み]**」をクリックします。
+1. 「SDK」オプションチェックボックスがオンになっていることを確認します。 「**[!UICONTROL インポート]**」をクリックします。
 
    ![](assets/image2015-10-9-15-3a7-3a12.png)
 
@@ -77,7 +82,7 @@ ht-degree: 74%
 
    >[!NOTE]
    >
-   >「Marketo Lead Management completed with warning」というメッセージが表示される場合があります。 これは十分予期されているものです。
+   >「Marketo リード管理が警告付きで完了しました」というメッセージが表示される場合があります。 これは想定どおりです。
 
    ![](assets/image2015-3-13-9-3a54-3a39.png)
 

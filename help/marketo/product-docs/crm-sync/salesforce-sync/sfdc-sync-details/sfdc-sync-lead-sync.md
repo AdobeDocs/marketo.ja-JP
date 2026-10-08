@@ -4,27 +4,32 @@ description: SalesforceとMarketo間のリードシンクの仕組みについ�
 title: SFDC 同期 - リードの同期
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-TQID: https://experienceleague.adobe.com/zqztwtX4Xe08Df-v1aTxhRi-cB2CZALctr3kaFNrT7s
+TQID: 'https://experienceleague.adobe.com/zqztwtX4Xe08Df-v1aTxhRi-cB2CZALctr3kaFNrT7s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 242
+source-wordcount: '242'
 ht-degree: 84%
-
 ---
-
-# SFDC 同期：リードの同期 {#sfdc-sync-lead-sync}
+# SFDC 同期：リード同期 {#sfdc-sync-lead-sync}
 
 Marketoは、[!DNL Salesforce] データベースから同期します。 同期して 5 分待機し、その後また同期するという処理を 一日中、毎日繰り返しおこなっています。 ここでは、Marketo が [!DNL Salesforce] のリードをどのように扱っているかを詳しく説明します。
 
 ## 同期の方向 {#sync-direction}
 
-リード（顧客）とコンタクトの同期は双方向です。 [!DNL Salesforce] または Marketo のレコードに変更を加えると、更新内容が両方のシステムに反映されます。
+リード（人物）と取引先責任者の同期は双方向です。 [!DNL Salesforce] または Marketo のレコードに変更を加えると、更新内容が両方のシステムに反映されます。
 
-## 両方のシステムで変更が同時に行われた場合 {#what-if-changes-are-made-in-both-systems-at-the-same-time}
+## 両方のシステムで変更が同時に行われた場合はどうなりますか？ {#what-if-changes-are-made-in-both-systems-at-the-same-time}
 
 Marketo が優先されます。 このようなデータの衝突が起こることは稀です。
 
@@ -36,13 +41,13 @@ Marketo が優先されます。 このようなデータの衝突が起こる�
 
 [顧客を SFDC に同期](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}フローアクションを使用して、リアルタイムで同期できます。
 
-## すべての標準フィールドの Marketo への同期 {#does-every-single-standard-field-sync-to-marketo}
+## すべての標準フィールドは Marketo に同期されますか？ {#does-every-single-standard-field-sync-to-marketo}
 
-すべての標準フィールドが有用というわけではなく、すべて同期されるわけではありません。 カスタムフィールドはすべて同期に含めることができます。
+すべての標準フィールドが有用というわけではありません。 カスタムフィールドはすべて同期に含めることができます。
 
 >[!NOTE]
 >
->Marketoは、[!DNL Salesforce] 同期ユーザがアクセスできるフィールドのみを同期します。
+>Marketo は、[!DNL Salesforce] 同期ユーザーがアクセスできるフィールドのみを同期します。
 
 ## Marketo は [!DNL Salesforce] の検証ルールを遵守しますか？ {#will-marketo-respect-the-salesforce-validation-rules}
 

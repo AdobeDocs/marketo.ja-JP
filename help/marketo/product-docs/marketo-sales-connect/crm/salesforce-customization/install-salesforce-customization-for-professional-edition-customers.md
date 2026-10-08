@@ -1,19 +1,21 @@
 ---
 unique-page-id: 27656223
 description: Sales Connect Salesforce Customization for Professional Editionのインストール方法について説明します。 Salesforce PEを使用する場合のカスタマイズの設定。
-title: Professional Edition 顧客向け  [!DNL Salesforce]  カスタマイズのインストール
+title: Professional Edition 顧客向け [!DNL Salesforce] カスタマイズのインストール
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/-u-VxODTzqp8V86ulyItc3J90xNZRV9grChJyR6rcSg
+TQID: 'https://experienceleague.adobe.com/-u-VxODTzqp8V86ulyItc3J90xNZRV9grChJyR6rcSg'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 262
+source-wordcount: '262'
 ht-degree: 89%
-
 ---
-
 # Professional Edition 顧客向け [!DNL Salesforce] カスタマイズのインストール {#install-salesforce-customization-for-professional-edition-customers}
 
 [!DNL Salesforce] Professional Edition を使用しているお客様が、カスタマイズをインストールするには、次の手順に従う必要があります。
@@ -29,7 +31,7 @@ ht-degree: 89%
 
    ![](assets/one-4.png)
 
-1. 「[!UICONTROL 管理者設定]」で「**[!UICONTROL Salesforce]**」をクリックします。
+1. 「[!UICONTROL 管理者設定]」で、「**[!UICONTROL Salesforce]**」をクリックします。
 
    ![](assets/two-4.png)
 
@@ -44,7 +46,7 @@ ht-degree: 89%
 
    ![](assets/install-package.png)
 
-1. カスタマイズをインストールするユーザー（管理者のみ、すべてのユーザー、特定のプロファイルのいずれか）を選択します。
+1. カスタムをインストールするユーザ（管理者のみ、すべてのユーザ、特定のプロファイルのいずれか）を選択します。
 1. 「**[!UICONTROL インストール]**」ボタンをクリックしてカスタマイズをインストールします。
 1. インストールが正常に完了したことを確認するには、[!DNL Salesforce] アカウントにログインします。
 1. 「**[!UICONTROL 設定]**」をクリックして、検索バーで「インストール済みパッケージ」を検索し、「**[!UICONTROL インストール済みパッケージ]**」をクリックします。

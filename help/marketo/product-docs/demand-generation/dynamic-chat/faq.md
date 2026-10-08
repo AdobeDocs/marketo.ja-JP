@@ -3,21 +3,28 @@ description: Dynamic Chatのアクセス、インストール、データ保持�
 title: Dynamic Chat に関するよくある質問
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
-TQID: https://experienceleague.adobe.com/IpAD0KUETdl3o4UTUS-PBWhtCTY1N7k83qeyGkKnan8
+TQID: 'https://experienceleague.adobe.com/IpAD0KUETdl3o4UTUS-PBWhtCTY1N7k83qeyGkKnan8'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
+    internal-label: Reporting
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 963
+source-wordcount: '963'
 ht-degree: 73%
-
 ---
-
 # Dynamic Chat に関するよくある質問 {#dynamic-chat-faq}
 
 Dynamic Chat に関するよくある質問への回答について詳しくは、以下を参照してください。
@@ -36,7 +43,7 @@ experience.adobe.comのアプリメニューからDynamic Chatにアクセスし
 
 **レポート用のデータはどのくらいの期間保存されますか？**
 
-90 日です。 制限/パラメーターの完全な一覧については、Marketo Engage [製品説明ページ &#x200B;](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}を参照してください。
+90 日です。 制限/パラメーターの完全な一覧については、Marketo Engage [製品説明ページ ](https://helpx.adobe.com/jp/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}を参照してください。
 
 **Dynamic Chat は英語以外の言語をサポートしていますか？**
 
@@ -52,11 +59,11 @@ Dynamic Chatは、AI/NLP機能をサポートしていません。
 
 **エンゲージ済み対話には、何が該当しますか？**
 
-エンゲージ済み対話は、訪問者がダイアログまたは対話型フローでボットに応答するとすぐに発生します。 訪問者がチャットボットを開いてもボットに応答しない場合（応答の選択や情報の送信などを行わない場合）は、エンゲージメントとしてカウントされません。
+訪問者がダイアログまたは対話型フローでボットに応答すると、エンゲージメントが発生します。 訪問者がチャットボットを開いてもボットに応答しない場合（応答の選択や情報の送信などを行わない場合）は、エンゲージメントとしてカウントされません。
 
 **月別エンゲージ済み対話数の上限に達した場合はどうなりますか？**
 
-月別エンゲージ済み対話数の上限に達すると、上限を増やすか、翌月の初めに制限がリセットされるまで、すべての公開済みダイアログと対話型フローのトリガーが停止します。
+月間エンゲージメント数の上限に達すると、上限を増やすか、翌月の初めに制限がリセットされるまで、すべての公開済みダイアログと対話型フローはトリガーされなくなります。
 
 **エンゲージ済み対話数の上限に近づいていることを把握するにはどうすればよいですか？**
 
@@ -64,7 +71,7 @@ Dynamic Chatは、AI/NLP機能をサポートしていません。
 
 **訪問者がダイアログにエンゲージした後でライブエージェントに接続した場合、エンゲージメントは 1 回と 2 回のどちらとしてカウントされますか？**
 
-Select パッケージのお客様の場合、これは2つの個別のエンゲージメントとしてカウントされます。1つはダイアログエンゲージメント用、もう1つはライブチャットエンゲージメント用です。 Prime パッケージのお客様の場合、ライブチャットエンゲージメントは個別にカウントされないので、エンゲージメントが 1 回のみカウントされます。
+Select パッケージのお客様の場合、これは2つの個別のエンゲージメントとしてカウントされます。1つはダイアログエンゲージメント用、もう1つはライブチャットエンゲージメント用です。 Prime パッケージのお客様の場合、ライブチャットエンゲージメントは個別にカウントされないので、1 回のエンゲージメントとしてのみカウントされます。
 
 **エンゲージ済み対話数の上限はどのくらいの頻度でリセットされますか？**
 
@@ -80,11 +87,11 @@ Select パッケージのお客様の場合、これは2つの個別のエンゲ
 
 **エンゲージ済み対話数の上限のトランスクリプトにアクセスするにはどうすればよいですか？**
 
-Dynamic Chat のトランスクリプトでは、Marketo Engage の「ダイアログでエンゲージ済み」アクティビティを通じて Dynamic Chat ダイアログにエンゲージし、対話ステータスが「完了」または「ドロップ」になっている既知のリードについてアクセスできます。
+Dynamic Chat の文字起こしは、Marketo Engage の「ダイアログでエンゲージ済み」アクティビティを通じて Dynamic Chat ダイアログにエンゲージし、対話ステータスが「完了」または「離脱」になっている既知のリードについて参照できます。
 
 **訪問者はダイアログにエンゲージした後で、対話を再開したり、前の質問に戻ったりできますか？**
 
-現在、対話を再開したり、前の時点に戻ったりする体系的な方法はありませんが、Dynamic Chat のロードマップにはこの方法が含まれています。
+現在、対話を再開したり前の時点に戻ったりする標準的な方法はありませんが、この機能は Dynamic Chat のロードマップに含まれています。
 
 **Dynamic Chat は Salesforce と統合されますか？**
 

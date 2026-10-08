@@ -4,19 +4,22 @@ description: ドリップ、ドリップ、ナーチャリング - Marketo ド�
 title: ドリップ、ドリップ、ナーチャリング
 exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
-TQID: https://experienceleague.adobe.com/qDWMulLCIK3z6PkhxwaJndnNFjI5lFPk7vJ04waoD6o
+TQID: 'https://experienceleague.adobe.com/qDWMulLCIK3z6PkhxwaJndnNFjI5lFPk7vJ04waoD6o'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 471
+source-wordcount: '471'
 ht-degree: 88%
-
 ---
-
 # ドリップ、ドリップ、ナーチャリング {#drip-drip-nurture}
 
 ## ミッション：最近のトレードショーに参加したリードをナーチャリングする {#mission-nurture-the-people-who-attended-your-recent-tradeshow}
@@ -30,7 +33,7 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
 ## 手順 1：エンゲージメントプログラムを作成する {#step-create-an-engagement-program}
 
-1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
 
    ![](assets/drip-drip-nurture-1.png)
 
@@ -64,7 +67,7 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
    >[!NOTE]
    >
-   >メールエディターが表示されない場合 お使いのブラウザーでウィンドウがブロックされている可能性があります。 ブラウザーで `app.marketo.com` からのポップアップを有効にし、上部のメニューバーで「**[!UICONTROL ドラフトを編集]**」をクリックします。
+   >メールエディターが表示されませんか？ お使いのブラウザーでウィンドウがブロックされている可能性があります。 ブラウザーで `app.marketo.com` からのポップアップを有効にし、上部のメニューバーで「**[!UICONTROL ドラフトを編集]**」をクリックします。
 
 1. 件名を入力します。
 
@@ -86,7 +89,7 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
    >
    >忘れずにメールを承認してください。承認しないと、後でアクティブ化できません。
 
-1. 次に、手順 2 ～ 7 の操作を繰り返して、別のメールを作成します。
+1. 次に、手順 2～7 のアクションを繰り返して、別のメールを作成します。
 
    ![](assets/drip-drip-nurture-12.png)
 
@@ -122,7 +125,7 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
    すばらしいです。 あと 1 つのステップで、エンゲージメントプログラムの準備が整います。
 
-## 手順 5：ストリームサイクルを設定する {#step-set-the-stream-cadence}
+## 手順 5：ストリームの配信頻度を設定する {#step-set-the-stream-cadence}
 
 1. 「**[!UICONTROL ストリームサイクルの設定]**」をクリックします。
 
@@ -140,7 +143,7 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
 ## 手順 6：エンゲージメントプログラムにテスト担当者を追加する {#step-add-a-test-person-to-your-engagement-program}
 
-1. 「**[!UICONTROL データベース]**」領域に移動します。
+1. **[!UICONTROL データベース]**&#x200B;領域に移動します。
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -162,7 +165,7 @@ Marketo では、詳細かつ洗練されたナーチャリングシステムを
 
 1. ミッション完了です。
 
-1. 指定した日時にメールが届きます。
+1. 指定した日時と配信頻度でメールが届きます。
 
    >[!NOTE]
    >

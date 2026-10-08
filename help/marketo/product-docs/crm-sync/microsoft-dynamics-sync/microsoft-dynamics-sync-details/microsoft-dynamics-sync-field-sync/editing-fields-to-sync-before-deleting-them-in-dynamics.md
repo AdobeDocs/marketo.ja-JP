@@ -3,16 +3,21 @@ description: Dynamicsでフィールドを削除する前に、Marketoで同期�
 title: Dynamics で削除する前に同期するフィールドを編集
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-TQID: https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI
+TQID: 'https://experienceleague.adobe.com/vM7JJUlegPvtRlqgPJSIjDeq9jMMUr2PA6OAC-CopJI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 214
+source-wordcount: '214'
 ht-degree: 83%
-
 ---
-
 # [!DNL Dynamics] で削除する前に同期するフィールドを編集 {#editing-fields-to-sync-before-deleting-them-in-dynamics}
 
 [!DNL Dynamics] のフィールドを削除する場合があります。 Marketo は、同期の基になるフィールドリストを参照として保持します。 同期の実行中に [!DNL Dynamics] でフィールドを削除すると、同期でエラーが発生する場合があります。 フィールドを削除する前に、次の手順に従います。

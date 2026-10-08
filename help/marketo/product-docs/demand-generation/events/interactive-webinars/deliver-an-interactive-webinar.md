@@ -3,20 +3,23 @@ description: Marketoでインタラクティブウェビナーを配信する方
 title: インタラクティブウェビナーの配信
 feature: Interactive Webinars
 exl-id: 7d01fa6a-6fb0-4f30-bdc4-e357d037c995
-TQID: https://experienceleague.adobe.com/R0-Vh7H3Yk7tNJe0S9CQdSvn3mAdOYXNj-9RRUSdGdo
+TQID: 'https://experienceleague.adobe.com/R0-Vh7H3Yk7tNJe0S9CQdSvn3mAdOYXNj-9RRUSdGdo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Accessibility
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 1198
+source-wordcount: '1198'
 ht-degree: 4%
-
 ---
-
 # インタラクティブウェビナーの配信 {#deliver-an-interactive-webinar}
 
 インタラクティブウェビナーを終了します。 プレゼンテーションについて知っておくべきことを説明します。
@@ -67,7 +70,7 @@ ht-degree: 4%
 
    >[!TIP]
    >
-   >[&#x200B; イベントのパフォーマンスと録画](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}について詳しく説明します。
+   >[ イベントのパフォーマンスと録画](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}について詳しく説明します。
 
 ## 参加者のエクスペリエンス {#participant-experience}
 
@@ -91,7 +94,7 @@ ht-degree: 4%
 
 「ホスト&amp;プレゼンターエリア」（バックステージとも呼ばれます）は、会議室の右側にあるプライベートエリアで、ホストとプレゼンターのみが見ることができます。 イベント前、イベント中、イベント後の共同作業に使用できます。 チャット、メモ、その他のポッドをホストとプレゼンター領域内のバックチャネルとして使用します。
 
-アクセスするには、ルームのドロップダウンメニューから「**ホストとプレゼンター領域**」を選択します。 この領域について詳しくは、[次のビデオ &#x200B;](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}を参照してください。
+アクセスするには、ルームのドロップダウンメニューから「**ホストとプレゼンター領域**」を選択します。 この領域について詳しくは、[次のビデオ ](https://www.youtube.com/watch?v=11GkcvIUttY){target="_blank"}を参照してください。
 
 ### Broadcast Controls {#broadcast-controls}
 
@@ -99,7 +102,7 @@ Broadcast Controlは、インタラクティブウェビナーセッションに
 
 ブロードキャストコントロールは、グリーンルームを出た後に自動的に録画を開始するように設定できます。 これにより、ホストは録画を手動で開始および停止することを忘れずに済みます。 ブロードキャストを一時停止または停止すると、録画も一時停止または停止します。 すべて自動です。
 
-ブロードキャストコントロール [の詳細については、このビデオ &#x200B;](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}を参照してください。
+ブロードキャストコントロール [の詳細については、このビデオ ](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}を参照してください。
 
 ### 録音のチャット {#chats-in-recordings}
 
@@ -111,7 +114,7 @@ Broadcast Controlは、インタラクティブウェビナーセッションに
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-[&#x200B; チャットパネル &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}の詳細をご覧ください。
+[ チャットパネル ](https://helpx.adobe.com/jp/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}の詳細をご覧ください。
 
 ### 準備モード {#prepare-mode}
 
@@ -129,27 +132,27 @@ Broadcast Controlは、インタラクティブウェビナーセッションに
 
 これにより、準備モードがオフになり、アクティブなレイアウトに戻ります。
 
-準備モード [について詳しくは、このビデオ &#x200B;](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}を参照してください。
+準備モード [について詳しくは、このビデオ ](https://www.youtube.com/watch?v=kUya84sx-E4){target="_blank"}を参照してください。
 
 >[!NOTE]
 >
 >* ライブポッドに加えられた変更は、即座に参加者に反映されます。
->* [&#x200B; チャットパネル &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}は準備モードの一部ではなく、変更は即座に参加者に反映されます。
+>* [ チャットパネル ](https://helpx.adobe.com/jp/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}は準備モードの一部ではなく、変更は即座に参加者に反映されます。
 
 ### アクセシビリティ {#accessibility}
 
 Adobeは、インタラクティブウェビナーのアクセシビリティを向上させることで、障害を持つプレゼンターや参加者を取り込むように努めています。 このソフトウェアは、あらゆるタイプのユーザーのニーズを満たし、視覚的、聴覚的、機動性、またはその他の障害を持つ個人を含む世界標準に準拠するように継続的に強化されています。
 
-Adobe Connectが[視覚的、聴覚的、および移動のニーズに対する支援を提供する方法について説明します](https://helpx.adobe.com/jp/adobe-connect/using/accessibility-features.html){target="_blank"}。
+Adobe Connectが[視覚的、聴覚的、および移動のニーズに対する支援を提供する方法について説明します](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}。
 
 ### クローズドキャプション {#closed-captions}
 
 クローズドキャプションは、Adobe Connectルーム内の音声をテキストで表現したもので、聴覚障害のある参加者がイベントに参加するのに役立ちます。 オーディオコンテンツのリアルタイムキャプションをイベントに統合し、これらのキャプションをクローズドキャプション表示に表示できます。
 
-[&#x200B; クローズドキャプションを有効にする](https://helpx.adobe.com/jp/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}方法について説明します。
+[ クローズドキャプションを有効にする](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}方法について説明します。
 
 ### ライブウェビナー {#simulated-live-webinars}
 
 事前に録画されたウェビナーを、シミュレートされたライブウェビナー形式を使用して、ライブであるかのように表示します。 参加者はスケジュールされた時間に参加し、チャット、投票、Q&amp;Aなどのインタラクティブな機能を楽しみながら、リアルタイムでセッションを体験できます。シミュレートされたライブウェビナーは、記録されたコンテンツの信頼性と、ライブイベントのインタラクティブな体験を組み合わせたものです。
 
-[&#x200B; シミュレートされたライブウェビナー](https://helpx.adobe.com/jp/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}の詳細をご覧ください。
+[ シミュレートされたライブウェビナー](https://helpx.adobe.com/adobe-connect/using/webinar/overview-of-simulated-live-webinars.html){target="_blank"}の詳細をご覧ください。

@@ -4,18 +4,23 @@ description: Marketoからアップロードした画像またはファイルを
 title: アップロードした画像またはファイルの削除
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-TQID: https://experienceleague.adobe.com/LH-Rtu2-aoZ9kn9ydFgJM-6JPzgd8OuAgc86kBUOZtc
+TQID: 'https://experienceleague.adobe.com/LH-Rtu2-aoZ9kn9ydFgJM-6JPzgd8OuAgc86kBUOZtc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Design Studio
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: ecf3b0de-0d29-4cb7-bed7-bf29ea2e2f77
+    internal-label: Image editor
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 121
+source-wordcount: '121'
 ht-degree: 41%
-
 ---
-
 # アップロードした画像またはファイルの削除 {#delete-an-uploaded-image-or-file}
 
 アップロードした画像またはファイルを削除するには、次の手順に従います。
@@ -24,7 +29,7 @@ ht-degree: 41%
 >
 >削除すると、Marketo Engageから画像/ファイルが完全に削除され、復元できません。
 
-1. **[!UICONTROL Design Studio]** に移動します。
+1. **[!UICONTROL デザインスタジオ]**&#x200B;に移動します。
 
    ![](assets/delete-an-uploaded-image-or-file-1.png)
 

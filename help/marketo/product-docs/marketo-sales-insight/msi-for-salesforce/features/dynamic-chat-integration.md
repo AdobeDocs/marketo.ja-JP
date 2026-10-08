@@ -3,20 +3,23 @@ description: Dynamic ChatとMarketo Sales Insightの連携について説明し�
 title: 動的チャットの統合
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/6KP-StSNikG472sbPnquQqChyiIxPA1c-m1d-xyC7lo
+TQID: 'https://experienceleague.adobe.com/6KP-StSNikG472sbPnquQqChyiIxPA1c-m1d-xyC7lo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 401
+source-wordcount: '401'
 ht-degree: 95%
-
 ---
-
 # 動的チャットの統合 {#dynamic-chat-integration}
 
 セールスインサイトと Dynamic Chat の統合について詳しく説明します。
@@ -58,7 +61,7 @@ ht-degree: 95%
 * ダイアログ名
 * エージェント
 * ページ URL
-* スケジュール日（日付とタイムスタンプを挿入）
+* スケジュール日時（日付とタイムスタンプ）
 * ステータス（スケジュール済み、再スケジュール済み、キャンセル済み）
 
 目標に到達済み：任意のダイアログフローで訪問者が目標に到達したときに、Marketo にログインし、[!DNL Sales Insight] に入力されます。
@@ -77,7 +80,7 @@ ht-degree: 95%
 
 ![](assets/dynamic-chat-integration-3.png)
 
-「チャット」タブは、リードパネルと取引先責任者パネルで使用できます。 「[!UICONTROL アクティビティタイプ]」、「[!UICONTROL ダイアログ名]」、「[!UICONTROL 日付]」の各列が含まれます。
+「チャット」タブは、リードパネルおよび取引先責任者パネルで使用できます。 「[!UICONTROL アクティビティタイプ]」、「[!UICONTROL ダイアログ名]」、「[!UICONTROL 日付]」の各列が含まれます。
 
 ![](assets/dynamic-chat-integration-4.png)
 

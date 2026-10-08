@@ -4,29 +4,31 @@ description: 共有設定を設定して、テンプレートを共有できる�
 title: 設定の共有
 exl-id: fdd4e286-c417-41f1-9cbe-bd78cb597310
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/vlWqTEKdoWRJH5aPG9IO2e3Hf9j6ytTBgXxkZ5MWO-Y
+TQID: 'https://experienceleague.adobe.com/vlWqTEKdoWRJH5aPG9IO2e3Hf9j6ytTBgXxkZ5MWO-Y'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 241
+source-wordcount: '241'
 ht-degree: 93%
-
 ---
-
 # 設定の共有 {#sharing-settings}
 
 ユーザが共有可能な項目やカテゴリを制限して、テンプレートを適切に管理しましょう。
 
 ![](assets/main.png)
 
-Sales Connect アカウントを最初に作成すると、[!UICONTROL 設定の共有]が有効になります。 これにより、アカウント管理者は、ユーザがチームのカテゴリ内のコンテンツを共有できるようにする前に、テンプレートカテゴリを作成し、整理する機会を得られます。
+Sales Connect アカウントを最初に作成すると、[!UICONTROL 設定の共有]が有効になります。 これにより、アカウント管理者は、ユーザがチームのカテゴリ内でコンテンツを共有できるようにする前に、テンプレートカテゴリを作成して整理する機会が得られます。
 
 [!UICONTROL 設定の共有]が有効になると、チームや全員に共有権限が付与されていない限り、管理者のみがカテゴリを共有できます。 [!UICONTROL 設定の共有]を無効にした場合、制限はなく、すべてのユーザが任意のテンプレートカテゴリに共有できます。
 
-## 設定の共有の設定 {#configure-your-sharing-settings}
+## 共有設定の構成 {#configure-your-sharing-settings}
 
 1. [Web アプリケーション](https://toutapp.com/login)で、[!UICONTROL 設定]ページに移動します。
 
@@ -60,6 +62,6 @@ Sales Connect アカウントを最初に作成すると、[!UICONTROL 設定の
 
    ![](assets/seven-1.png)
 
-1. チームが追加されたので、チーム管理者のみがチームの共有を許可するか、そのチームのすべてのユーザを共有するかを選択できます。 この例では、SDR チームのすべてのユーザーに共有アクセス権を付与しました。
+1. チームが追加されたので、チーム管理者のみに共有を許可するか、そのチームのすべてのユーザに共有を許可するかを選択できます。 この例では、SDR チームのすべてのユーザーに共有アクセス権を付与しました。
 
    ![](assets/eight-1.png)

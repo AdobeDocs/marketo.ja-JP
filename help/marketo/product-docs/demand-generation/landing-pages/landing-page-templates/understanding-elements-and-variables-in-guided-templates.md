@@ -4,29 +4,34 @@ description: Marketoのガイド付きランディングページテンプレー
 title: ガイド付きテンプレートの要素と変数について
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/WnAKFAB8moOFv7cS97E8cplgledGbhioPReda27p4uo
+TQID: 'https://experienceleague.adobe.com/WnAKFAB8moOFv7cS97E8cplgledGbhioPReda27p4uo'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '199'
 ht-degree: 89%
-
 ---
-
 # ガイド付きテンプレートの要素と変数について {#understanding-elements-and-variables-in-guided-templates}
 
-ガイド付きランディングページテンプレートには、要素と変数の 2 種類の編集可能なセクションがあります。
+ガイド付きランディングページテンプレートには、要素と変数という 2 種類の編集可能なセクションがあります。
 
 ## 要素 {#elements}
 
-要素とは、ランディングページを構成する様々なコンテンツの要素です。 これには、画像、テキスト、Marketo アセットがあります。
+要素とは、ランディングページを構成する様々なコンテンツです。 これには、画像、テキスト、Marketo アセットなどがあります。
 
 ![](assets/image2015-5-20-14-3a57-3a55.png)
 
-ガイド付きランディングページを編集する際、テンプレートで編集可能とマークされている要素は、そのように表示されます。 要素には次のアイコンが表示されます。
+ガイド付きランディングページを編集する際、テンプレートで編集可能とマークされている要素が表示されます。 要素には次のアイコンが表示されます。
 
 * ![--](assets/image2015-5-20-12-3a30-3a48.png) 画像
 * ![--](assets/image2015-5-20-12-3a31-3a33.png)Marketo フォーム
@@ -40,11 +45,11 @@ ht-degree: 89%
 
 ## 変数 {#variables}
 
-変数は、以下に示すように、ガイド付きのランディングページエディターからカスタマイズできる、トークンに似た属性です。
+変数は、以下のように、ガイド付きランディングページエディターからカスタマイズできる、トークンに似た属性です。
 
 ![](assets/image2015-5-20-15-3a0-3a2.png)
 
-文字列変数、カラー変数、ブール変数の 3 つのタイプの変数があります。
+変数には、文字列変数、カラー変数、ブール変数の 3 種類があります。
 
 <table>
  <tbody>

@@ -4,21 +4,24 @@ description: web キャンペーンの起動/一時停止など、Marketo Engage
 title: Web キャンペーンの起動／一時停止
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-TQID: https://experienceleague.adobe.com/2aoTXa5-MW2w0OxaB3cX7WZ-skSb1sf-Yy0s5q44E8w
+TQID: 'https://experienceleague.adobe.com/2aoTXa5-MW2w0OxaB3cX7WZ-skSb1sf-Yy0s5q44E8w'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 180
+source-wordcount: '180'
 ht-degree: 87%
-
 ---
-
-# Web キャンペーンの起動／一時停止 {#launch-pause-a-web-campaign}
+# Web キャンペーンのローンチ／一時停止 {#launch-pause-a-web-campaign}
 
 Web キャンペーンとは、特定のセグメントに関連付けてカスタマイズされたリアクションで、ウェブサイト上の[ダイアログボックス](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)、[ゾーン内置換](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)、ウィジェット機能、メールアラートのいずれかです。
 
@@ -36,7 +39,7 @@ Web キャンペーンは [!UICONTROL web キャンペーン]ページまたは 
 
    ![](assets/image2014-11-26-17-3a26-3a38.png)
 
-1. キャンペーンが一時停止している場合は、「**[!UICONTROL 一時停止]**」をクリックしてキャンペーンのステータスを「**[!UICONTROL 起動済み]**」に変更します。 これにより、キャンペーンがアクティベートされ、開始されます。
+1. キャンペーンが一時停止している場合は、「**[!UICONTROL 一時停止]**」をクリックしてキャンペーンのステータスを「**[!UICONTROL 起動済み]**」に変更します。 これにより、キャンペーンがアクティベートされ、ローンチされます。
 
    ![](assets/image2014-11-26-17-3a28-3a59.png)
 

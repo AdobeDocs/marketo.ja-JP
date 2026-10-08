@@ -3,28 +3,32 @@ description: Adobe Experience Platform セグメントをMarketo静的リスト�
 title: Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-TQID: https://experienceleague.adobe.com/Kw9zkzk0FWNOyZ66vEcqzq-4zQSPVz-4P4KQau5mP60
+TQID: 'https://experienceleague.adobe.com/Kw9zkzk0FWNOyZ66vEcqzq-4zQSPVz-4P4KQau5mP60'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: c56e5f8f-221f-55c2-8170-b1a9e10687cb
+    internal-label: Static Lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 683
+source-wordcount: '683'
 ht-degree: 69%
-
 ---
-
 # Adobe Experience Platform セグメントの Marketo 静的リストへのプッシュ {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
-この機能を使用すると、Adobe Experience Platform にあるセグメントを静的リストの形式で Marketo Engage にプッシュできます。
+この機能を使用すると、Adobe Experience Platform にあるセグメントを静的リストの形式で Marketo Engage にプッシュすることができます。
 
 >[!PREREQUISITES]
 >
->* [API ロール &#x200B;](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"}を編集して、**読み取り/書き込みユーザー**&#x200B;権限があることを確認します（「アクセス API」ドロップダウンにあります）。
+>* [API ロール ](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"}を編集して、**読み取り/書き込みユーザー**&#x200B;権限があることを確認します（「アクセス API」ドロップダウンにあります）。
 >* Marketo で [API ユーザを作成](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}します。
 >* **[!UICONTROL 管理者]**／**[!UICONTROL Launchpoint]** に移動します。 作成した役割の名前を検索し、**[!UICONTROL 詳細を表示]**&#x200B;をクリックします。 手順 7 で必要になるため、**[!UICONTROL クライアント ID]** と&#x200B;**[!UICONTROL クライアントシークレット]**&#x200B;の情報をコピーして保存します。
 >* Marketoで、静的リストを作成するか、作成済みのリストを探して選択します。 IDが必要になります。
@@ -59,7 +63,7 @@ ht-degree: 69%
 
    >[!NOTE]
    >
-   >新規アカウントを選択する場合は、**[!UICONTROL 管理者]** > **[!UICONTROL Munchkin]**&#x200B;に移動して、Munchkin IDを検索できます（ログイン後はMarketo URLの一部にもなります）。 この記事の最上部にある前提条件に従って作成する必要があるクライアント ID／シークレット。
+   >新規アカウントを選択する場合は、**[!UICONTROL 管理者]** > **[!UICONTROL Munchkin]**&#x200B;に移動して、Munchkin IDを検索できます（ログイン後はMarketo URLの一部にもなります）。 クライアント ID／シークレットは、この記事の最上部にある前提条件に従うことで取得しているはずです。
 
 1. 宛先アカウントを選択し、「**[!UICONTROL 選択]**」をクリックします。
 
@@ -73,7 +77,7 @@ ht-degree: 69%
    >
    >「[!UICONTROL 既存のMarketo ユーザーのみ一致]」を選択した場合、電子メールまたはECIDのみをマッピングする必要があるため、手順13 ～ 16をスキップできます。
 
-1. この節はオプションです。 「**[!UICONTROL 作成]**」をクリックしてスキップします。
+1. このセクションはオプションです。 「**[!UICONTROL 作成]**」をクリックしてスキップします。
 
    ![](assets/push-an-adobe-experience-platform-segment-10.png)
 
@@ -87,7 +91,7 @@ ht-degree: 69%
 
    >[!NOTE]
    >
-   >複数のセグメントを選択する場合は、各セグメントを「[!UICONTROL &#x200B; セグメントスケジュール &#x200B;]」タブの指定された静的リストにマッピングする必要があります。
+   >複数のセグメントを選択する場合は、各セグメントを「[!UICONTROL  セグメントスケジュール ]」タブの指定された静的リストにマッピングする必要があります。
 
    >[!IMPORTANT]
    >

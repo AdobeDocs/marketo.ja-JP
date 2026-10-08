@@ -4,16 +4,18 @@ description: すべてのコンテンツ ページまたはコンテンツを編
 title: 予測コンテンツのタイトルの承認
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/3-hDzblZeRwe-GfwFAqz3dx7BVrJAl0rI0iS8moK8J4
+TQID: 'https://experienceleague.adobe.com/3-hDzblZeRwe-GfwFAqz3dx7BVrJAl0rI0iS8moK8J4'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 171
+source-wordcount: '171'
 ht-degree: 83%
-
 ---
-
 # 予測コンテンツのタイトルの承認 {#approve-a-title-for-predictive-content}
 
 [!UICONTROL すべてのコンテンツ]ページまたは[!UICONTROL コンテンツを編集]ポップアップで承認すると、[!UICONTROL すべてのコンテンツ]ページのタイトルはどれでも予測コンテンツに追加できるようになります。
@@ -32,7 +34,7 @@ ht-degree: 83%
 
 [!UICONTROL コンテンツを編集]ポップアップで、予測コンテンツのタイトルを直接承認することもできます。
 
-1. コンテンツの一部にカーソルを移動し、行の最後にある編集アイコンをクリックします。
+1. コンテンツの一部にポインタを合わせ、行の最後にある編集アイコンをクリックします。
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 

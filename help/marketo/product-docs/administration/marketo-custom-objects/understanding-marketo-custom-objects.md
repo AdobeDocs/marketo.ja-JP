@@ -4,26 +4,35 @@ description: 1対多および多対多のリレーションシップ、フィル
 title: Marketo カスタムオブジェクトについて
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-TQID: https://experienceleague.adobe.com/XYlpKUB0bDiuVIYU3-Cjw97zQU3ZBD5myE13beaYNrs
+TQID: 'https://experienceleague.adobe.com/XYlpKUB0bDiuVIYU3-Cjw97zQU3ZBD5myE13beaYNrs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+    internal-label: Custom objects
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 736
+source-wordcount: '736'
 ht-degree: 74%
-
 ---
-
 # Marketo カスタムオブジェクトについて {#understanding-marketo-custom-objects}
 
-自社のビジネスに特有の指標をトラッキングするには、カスタムオブジェクトを使用します。
+ビジネスに特有の指標をトラッキングするには、カスタムオブジェクトを使用します。
 
 >[!AVAILABILITY]
 >
@@ -41,11 +50,11 @@ ht-degree: 74%
 
 1 対多の構造では、1 つのリンクフィールドを使用してカスタムオブジェクトを人または会社に結び付けます。
 
-多対多のカスタムオブジェクトは、2 つのリンクフィールドと、中間オブジェクトの一部を使用します。 一方のリンクフィールドは人または会社に結び付けられ、もう一方はカスタムオブジェクト、例えばコースカタログに結び付けられます。 この中間オブジェクトに、さらに他のカスタムフィールド（例えばコースの等級、出席日など）を含め、関係の性質を詳細に定義することができます。
+多対多のカスタムオブジェクトは、中間オブジェクトの一部である 2 つのリンクフィールドを使用します。 一方のリンクフィールドは人または会社に結び付けられ、もう一方はカスタムオブジェクト、例えばコースカタログに結び付けられます。 この中間オブジェクトには、コースの成績や出席日など、接続の性質をさらに定義するための追加のカスタムフィールドを含めることができます。
 
 >[!TIP]
 >
->データサンプルをテストして検証するには、ユーザーインターフェイスでカンマ区切りの値リスト（CSV）を使用してカスタムオブジェクトをインポートし、 API を利用してそのファイルをすべてアップロードします。
+>データサンプルをテストして検証するには、ユーザーインターフェイス内でカンマ区切りの値（CSV）を使用してカスタムオブジェクトを読み込みます。 API を利用してそのファイルをすべてアップロードします。
 
 >[!CAUTION]
 >
@@ -61,7 +70,7 @@ ht-degree: 74%
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
-1. 「Marketo カスタムオブジェクト」で、右側にカスタムオブジェクトがすべてリストされますが、表示されるのはメイングリッドに公開されたオブジェクトだけです。
+1. Marketo カスタムオブジェクト画面では、右側にすべてのカスタムオブジェクトがリストされますが、メイングリッドには承認済みのオブジェクトのみが表示されます。
 
    ![](assets/understanding-marketo-custom-objects-3.png)
 
@@ -85,7 +94,7 @@ ht-degree: 74%
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. データベースを開き、「**[!UICONTROL 人物]**」タブをクリックします。 カスタムオブジェクトに関連付ける人物のレコードをダブルクリックします。
+1. データベースを開き、「**[!UICONTROL 人物]**」タブをクリックします。 カスタムオブジェクトに関連付けた人物のレコードをダブルクリックします。
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
@@ -93,7 +102,7 @@ ht-degree: 74%
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
-1. これで、その人物に関連付けられたタイプのカスタムオブジェクトのすべてがリスト表示されます。
+1. これで、その人物に関連付けられている、そのタイプのカスタムオブジェクトがすべてリストに表示されます。
 
    ![](assets/understanding-marketo-custom-objects-8.png)
 
@@ -101,7 +110,7 @@ ht-degree: 74%
    >
    >人物レコードでは、「カスタムオブジェクト」タブに最大 100 件のレコードを ID の降順に並べ替えて表示できます。
 
-## 企業へのカスタムオブジェクトの使用 {#using-custom-objects-with-companies}
+## 企業でカスタムオブジェクトを使用する {#using-custom-objects-with-companies}
 
 会社にリンクされたカスタムオブジェクトは、CRMから会社を同期する場合や、APIを使用して会社を明示的に作成する場合に最も効果的です。 Marketoでは、リンク フィールドとして会社IDを使用することもできます。
 

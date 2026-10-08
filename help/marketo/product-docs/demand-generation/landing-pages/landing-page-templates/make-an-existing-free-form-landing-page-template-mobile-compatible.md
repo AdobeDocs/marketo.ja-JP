@@ -4,24 +4,30 @@ description: 既存の自由形式ランディングページテンプレート�
 title: 既存のフリーフォームランディングページテンプレートのモバイルとの互換性の確保
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-TQID: https://experienceleague.adobe.com/-EJdlRrUIvCn6r4P6LGvZbyAyBy1K3HJms38fW2VKnE
+TQID: 'https://experienceleague.adobe.com/-EJdlRrUIvCn6r4P6LGvZbyAyBy1K3HJms38fW2VKnE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
+    internal-label: Templates
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: edda586e-0147-48f2-b791-992622a00783
+    internal-label: Landing pages
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 259
+source-wordcount: '259'
 ht-degree: 74%
-
 ---
-
 # 既存のフリーフォームランディングページテンプレートのモバイルとの互換性の確保 {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 これは、テンプレートエディターとランディングページエディターの 2 か所でおこなえます。
 
-## テンプレートエディターからのアップグレード {#upgrade-from-the-template-editor}
+## テンプレートエディターからアップグレードする {#upgrade-from-the-template-editor}
 
 1. **[!UICONTROL Design Studio]** に移動します。
 
@@ -47,7 +53,7 @@ ht-degree: 74%
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
-   ランディングページテンプレートがモバイルに対応するようになりました。
+   ランディングページテンプレートがモバイル対応になりました。
 
    >[!NOTE]
    >
@@ -71,7 +77,7 @@ Must have a <BODY> element that contains one (and only one) <DIV class="mktoCont
 
 ![](assets/image2015-1-22-20-3a41-3a31.png)
 
-問題が発生した場合は、エラーメッセージが表示され、「修復」をクリックして問題を修正し、検証プロセスを繰り返します。
+問題が発生した場合は、エラーメッセージが表示されるので、「修復」をクリックして問題を修正し、検証プロセスを繰り返します。
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
@@ -79,7 +85,7 @@ Must have a <BODY> element that contains one (and only one) <DIV class="mktoCont
 
 ## フリーフォームランディングページエディターからのテンプレートのアップグレード {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
-ランディングページを編集する際に「モバイル」タブをクリックすると、テンプレートがアップグレードされていないことがあります。 大丈夫です。 すぐにアップグレードできます。
+ランディングページを編集する際に「モバイル」タブをクリックすると、テンプレートがアップグレードされていないことがあります。 大丈夫です。 そのテンプレートは、その場ですぐにアップグレードできます。
 
 1. 「**[!UICONTROL モバイル]**」タブをクリックします。
 
@@ -91,6 +97,6 @@ Must have a <BODY> element that contains one (and only one) <DIV class="mktoCont
 
    >[!NOTE]
    >
-   >モバイルバージョンのテンプレートをアクティベートすると、そのテンプレートを使用するランディングページのドラフトが作成されます。
+   >テンプレートのモバイル版をアクティベートすると、そのテンプレートを使用するランディングページのドラフトが作成されます。
 
 このテンプレートを使用するすべてのランディングページの[モバイル表示をカスタマイズ](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md)できます。

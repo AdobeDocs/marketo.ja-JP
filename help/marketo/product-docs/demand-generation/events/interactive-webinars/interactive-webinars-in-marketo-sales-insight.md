@@ -3,32 +3,35 @@ description: Marketo Sales Insightでのインタラクティブウェビナー�
 title: Marketo セールスインサイトのインタラクティブウェビナー
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
-TQID: https://experienceleague.adobe.com/SfEVVHTdHfPr5E2aA2JFPHhP2gYOJTQf5Hm5cFbtdbA
+TQID: 'https://experienceleague.adobe.com/SfEVVHTdHfPr5E2aA2JFPHhP2gYOJTQf5Hm5cFbtdbA'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ffa2ed20-2598-5761-8424-6ef74728537c
+    internal-label: Interactive Webinars
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 239
+source-wordcount: '239'
 ht-degree: 7%
-
 ---
-
 # Marketo セールスインサイトのインタラクティブウェビナー {#interactive-webinars-in-marketo-sales-insight}
 
 Marketo Sales Insightのインタラクティブウェビナーを使用すると、SalesforceのMarketo Sales Insight（MSI）プラグインでウェビナーのアクティビティを利用できます。
 
 >[!PREREQUISITES]
 >
->この機能は、[Marketo Sales Insight](https://business.adobe.com/jp/products/marketo/sales-intelligence-engagement.html) アドオンを購入したユーザーのみがサポートされています。
+>この機能は、[Marketo Sales Insight](https://business.adobe.com/products/marketo/sales-intelligence-engagement.html) アドオンを購入したユーザーのみがサポートされています。
 
 アクティビティがMarketo Engageに登録されると（ウェビナーがAdobe Connectで完了した後）、MSI プラグインを介してリアルタイムでSalesforceに同期されます。
 
 Marketo Engageで使用できるようになったすべてのアクティビティが同期されます。 それらの活動は次のとおりです。
 
 * イベントへの参加
-* 投票に参加
+* 投票に回答する
 * 質問の回答
 * リンクをクリック
 * アセットをダウンロード

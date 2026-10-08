@@ -3,13 +3,17 @@ description: Marketo Sales Connectのメールテンプレートを作成、カ�
 title: テンプレートの管理
 feature: Marketo Sales Connect
 exl-id: 3b1a0a36-edd1-44f6-964e-4f46b684dba9
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 89%
-
 ---
-
 # テンプレートの管理 {#manage-templates}
 
 ## 新しいテンプレートの作成 {#create-a-new-template}
@@ -32,7 +36,7 @@ ht-degree: 89%
 
 さらに、「**[!UICONTROL 表示]」の右にある設定アイコンをクリックすると、テンプレートビューの列を追加／削除できます。**
 
-## 自動登録解除のテンプレートへの追加 {#add-auto-unsubscribes-to-a-template}
+## テンプレートに自動登録解除を追加 {#add-auto-unsubscribes-to-a-template}
 
 1. テンプレートを選択し、「[!UICONTROL 登録解除]」セクションの「**[!UICONTROL 編集]**」をクリックします。
 
@@ -82,7 +86,7 @@ ht-degree: 89%
 
 >[!CAUTION]
 >
->テンプレートを削除すると、そノテンプレートに関連付けられているすべてのトラッキングと分析も削除されます。
+>テンプレートを削除すると、そのテンプレートに関連付けられているすべてのトラッキングと分析も削除されます。&#x200B;
 
 1. 削除するテンプレートを選択します。
 

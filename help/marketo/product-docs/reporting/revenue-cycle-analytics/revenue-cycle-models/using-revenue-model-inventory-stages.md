@@ -4,16 +4,22 @@ description: 収益モデルの在庫ステージを使用して、Marketo Engag
 title: 収益モデル在庫ステージの使用
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 83%
-
 ---
-
 # 収益モデル在庫ステージの使用 {#using-revenue-model-inventory-stages}
 
-既知のリードと顧客はまず在庫ステージに入ります。 これは見込み客プールで、リードはここで、セールスの準備が完了するまで育成されます。 在庫ステージに時間制限はありません。
+既知のリードとアカウントは、最初に在庫ステージに配置されます。 この見込み客プールで、リードはセールスの準備が整うまで育成されます。 在庫ステージに時間制限はありません。
 
 >[!TIP]
 >
@@ -29,7 +35,7 @@ ht-degree: 83%
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
-1. **[!UICONTROL ドラフトの編集]**&#x200B;をクリックします。
+1. **[!UICONTROL 下書きの編集]**&#x200B;をクリックします。
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
@@ -59,7 +65,7 @@ ht-degree: 83%
 
 ## 在庫ステージの削除 {#delete-an-inventory-stage}
 
-1. 在庫ステージアイコンを右クリックまたは Control キーを押しながらクリックすると、在庫ステージを削除できます。
+1. 在庫ステージアイコンを右クリックするか、Ctrl キーを押しながらクリックすると、在庫ステージを削除できます。
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
@@ -67,8 +73,8 @@ ht-degree: 83%
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. どちらの方法を削除しても、選択内容の確認が求められます。 「**[!UICONTROL 削除]**」をクリックします。
+1. どちらの削除方法を使用した場合でも、選択内容の確認が求められます。 「**[!UICONTROL 削除]**」をクリックします。
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 
-これで完了です。 これで、在庫ステージの素晴らしい世界についてがわかりました。
+これで完了です。 これで、在庫ステージの素晴らしい世界が理解できました。

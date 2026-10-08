@@ -1,27 +1,34 @@
 ---
 unique-page-id: 2953415
 description: 人物の詳細ページの使用方法を説明します。 リードの情報、アクティビティ、実行フローステップを一元的に表示および編集できます。
-title: 人物の詳細ページの使用
+title: 人物詳細ページの使用
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-TQID: https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk
+TQID: 'https://experienceleague.adobe.com/ANLA7fu7O3m6mBjiY1b2z3UQH-PqWf6cAn5nQ5S3Yrk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 552
+source-wordcount: '552'
 ht-degree: 95%
-
 ---
+# 人物詳細ページの使用 {#using-the-person-detail-page}
 
-# 人物の詳細ページの使用 {#using-the-person-detail-page}
-
-人物の詳細ページには、ある人物に関して Marketo に記録されているすべての情報が表示されます。 このページから直接、データを編集することができます。
+人物詳細ページには、Marketo がその人物について把握しているすべての情報が含まれています。 このページから直接データを編集できます。
 
 ## 人物の詳細ページへのアクセス {#getting-to-person-detail-page}
 
@@ -42,25 +49,25 @@ ht-degree: 95%
 
    ![](assets/two-5.png)
 
-## ページ組織 - Salesforce {#page-organization-salesforce}
+## ページ構成 - Salesforce {#page-organization-salesforce}
 
 人物情報は以下のタブに分類されています。
 
 | タブ | 説明 |
 |---|---|
 | 情報 | 人物に関する取引先責任者情報およびカスタムフィールド。 |
-| 企業情報 | 人物の企業情報と住所。 |
+| 企業情報 | 人物の会社情報と住所。 |
 | 商談情報 | Salesforce から同期される商談情報。 |
 | SFDC リードフィールド | ビルトインの Salesforce のフィールド。 |
 | SFDC カスタムフィールド | Salesforce のカスタムフィールド。 |
 | アクティビティログ | 人物に関連するすべてのアクティビティ。 |
 
-## ページ組織 - Microsoft Dynamics {#page-organization-microsoft-dynamics}
+## ページ構成 - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
 | タブ | 説明 |
 |---|---|
 | 情報 | 人物に関する取引先責任者情報およびカスタムフィールド。 |
-| 企業情報 | 人物の企業情報と住所。 |
+| 企業情報 | 人物の会社情報と住所。 |
 | 商談情報 | マイクロソフトから同期される商談情報。 |
 | マイクロソフトカスタムフィールド | マイクロソフトのカスタムフィールド。 |
 | マイクロソフトリードフィールド | ビルトインの Microsoft のフィールド。 |
@@ -76,7 +83,7 @@ ht-degree: 95%
 
 ![](assets/image2015-2-27-11-3a14-3a2.png)
 
-## CRM 同期前の Marketo のデフォルトフィールド {#marketo-default-fields-prior-to-crm-sync}
+## Marketo デフォルトフィールド（CRM 同期前） {#marketo-default-fields-prior-to-crm-sync}
 
 |   |  |  |  |  |
 |---|---|---|---|---|
@@ -90,7 +97,7 @@ ht-degree: 95%
 | パートナー | 役職 | 名前（姓） | 評価 | スコア |
 | 人物のソース | ステータス | 代表電話番号 | Marketo ソーシャル [!DNL Facebook] の表示名 | Marketo ソーシャル [!DNL Facebook] の ID |
 | Marketo ソーシャル [!DNL Facebook] の画像 URL | Marketo ソーシャル [!DNL Facebook] のプロファイル URL | Marketo ソーシャル [!DNL Facebook] のリーチ | Marketo ソーシャル [!DNL Facebook] を参照元とする登録数 | Marketo ソーシャル [!DNL Facebook] を参照元とする訪問数 |
-| Marketo ソーシャル性別 | Marketo ソーシャルを最後の参照元とする登録 | Marketo ソーシャルを最後の参照元とする訪問 | Marketo ソーシャル [!DNL LinkedIn] の表示名 | Marketo ソーシャル [!DNL LinkedIn] の ID |
+| Marketo ソーシャル性別 | Marketo ソーシャルを最後の参照元とする登録 | Marketo ソーシャルを最後の参照元とする訪問数 | Marketo ソーシャル [!DNL LinkedIn] の表示名 | Marketo ソーシャル [!DNL LinkedIn] の ID |
 | Marketo ソーシャル [!DNL LinkedIn] の画像 URL | Marketo ソーシャル [!DNL LinkedIn] のプロファイル URL | Marketo ソーシャル [!DNL LinkedIn] のリーチ | Marketo ソーシャル [!DNL LinkedIn] を参照元とする登録数 | Marketo ソーシャル [!DNL LinkedIn] を参照元とする訪問数 |
 | Marketo ソーシャル Syndication ID | Marketo ソーシャルを参照元とする合計登録数 | Marketo ソーシャルを参照元とする合計訪問数 | Marketo ソーシャル [!DNL Twitter] の表示名 | Marketo ソーシャル [!DNL Twitter] の ID |
 | Marketo ソーシャル [!DNL Twitter] の画像 URL | Marketo ソーシャル [!DNL Twitter] のプロファイル URL | Marketo ソーシャル [!DNL Twitter] のリーチ | Marketo ソーシャル [!DNL Twitter] を参照元とする登録数 | Marketo ソーシャル [!DNL Twitter] を参照元とする訪問数 |
@@ -106,7 +113,7 @@ ht-degree: 95%
 >* アクティビティログ
 >* 会社情報
 >* SFDC 取引先責任者の商談
->* 作成日や元のソースタイプなど、Marketo 固有の特定のフィールド。
+>* 作成日や元のソースタイプなど、Marketo 固有の特定のフィールドです。
 >
 >詳細は[システム管理フィールド](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}をご覧ください。
 

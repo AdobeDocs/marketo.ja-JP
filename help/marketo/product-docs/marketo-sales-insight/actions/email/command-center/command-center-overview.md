@@ -3,16 +3,18 @@ description: セールスメールとタスクを管理するためのコマン�
 title: コマンドセンターの概要
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-TQID: https://experienceleague.adobe.com/Qyv0jDwHTbvZV3dG2ywoaFkEOunuhJN2yBbWRbdp1HI
+TQID: 'https://experienceleague.adobe.com/Qyv0jDwHTbvZV3dG2ywoaFkEOunuhJN2yBbWRbdp1HI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 412786a7-b8da-5b9d-8c3f-2539a3faad9f
+    internal-label: Sales Insight Actions
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 523
-ht-degree: 85%
-
+source-wordcount: '523'
+ht-degree: 84%
 ---
-
 # コマンドセンターの概要 {#command-center-overview}
 
 [!UICONTROL コマンドセンター]は単一の統合ビューで、何も抜け落ちがないように確認しながら、次のステップを考え出すのに役立ちます。
@@ -38,7 +40,7 @@ ht-degree: 85%
  </tr>
  <tr>
   <td>[!UICONTROL アーカイブ済み]</td>
-  <td>メールのトラッキングを無効にするためにユーザがアーカイブしたメール。</td>
+  <td>メールのトラッキングを無効にするためにユーザーがアーカイブしたメール。</td>
  </tr>
  <tr>
   <th rowspan="3">[!UICONTROL 保留中]</th>
@@ -62,7 +64,7 @@ ht-degree: 85%
  </tr>
  <tr>
   <td>[!UICONTROL バウンス済み]</td>
-  <td>受信者のメールサーバーから拒否されたメール。<br/>
+  <td>受信者のメールサーバーから却下されたメール。<br/>
   <strong> メモ </strong>：これは、レガシーのToutApp ユーザーであり、配信チャネルとしてMSC サーバーにアクセスできる場合にのみ検出されます。</td>
  </tr>
  <tr>
@@ -74,17 +76,17 @@ ht-degree: 85%
 
 ## タスクの管理 {#manage-tasks}
 
-タスクセクションでは、タスクの管理と完了をすべて行うことができます。 タスクをシームレスに管理し、生産性を高め、最も関連性の高い項目に集中できます。
+タスクセクションは、タスクの管理と完了を一括して行える場所です。 タスクをシームレスに管理し、生産性を高め、最も関連性の高い項目に集中できます。
 
 ![](assets/command-center-overview-2.png)
 
-## エンゲージした見込客のフォローアップ {#follow-up-with-engaged-prospects}
+## エンゲージした見込み客のフォローアップ {#follow-up-with-engaged-prospects}
 
-作成ウィンドウまたはキャンペーンを使用して見込客のエンゲージメントを開始したら、詳細検索機能を使用して、最もエンゲージメントの高い見込客の再ターゲティングを開始できます。
+作成ウィンドウまたはキャンペーンを使用して見込み客とのエンゲージメントを開始したら、詳細検索機能を使用して、最もエンゲージメントの高い見込み客を再度ターゲティングできます。
 
-例えば、MSC のキャンペーンに 100 人を追加する場合、メールを閲覧してクリックしたが、返信しなかった人を再度ターゲティングしたいと考えるでしょう。 そのためには、表示およびクリックステータスアクティビティフィルターと共にキャンペーンフィルターを利用して、再度ターゲティングする人のリストを特定します。
+例えば、MSC のキャンペーンに 100 人を追加する場合、メールを閲覧してクリックしたが返信しなかった人を再度ターゲティングしたいと考えるでしょう。 そのためには、キャンペーンフィルターに加えて、表示ステータスおよびクリックステータスのアクティビティフィルターを利用して、再度ターゲティングする人のリストを特定します。
 
-ボーナス：詳細検索を保存すると、動的リストとして機能し、受信者がメールを表示またはクリックすると、エンゲージメント条件を満たすメールが追加されます。
+補足：詳細検索を保存すると、動的リストとして機能し、受信者がメールを表示またはクリックした時点で、エンゲージメント条件を満たすメールの受信者がリストに追加されます。
 
 >[!MORELIKETHIS]
 >

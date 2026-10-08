@@ -4,35 +4,38 @@ description: Gmailで個人とアカウントの情報とアクティビティ�
 title: Google メールでリードとアカウントの情報とアクティビティを表示
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-TQID: https://experienceleague.adobe.com/VdwGWuUbaN8xEagWhjxEBP6Tt5OYVh94ql7RQuXUcrU
+TQID: 'https://experienceleague.adobe.com/VdwGWuUbaN8xEagWhjxEBP6Tt5OYVh94ql7RQuXUcrU'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 62f69a42-2389-532a-9af6-0e08fdaa397f
+    internal-label: Marketo Sales Insights
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 301
+source-wordcount: '301'
 ht-degree: 78%
-
 ---
-
 # Google メールでリードとアカウントの情報とアクティビティを表示 {#view-person-and-account-information-and-activities-in-google-mail}
 
 ## Google メールでのアクティビティの表示 {#view-activities-in-google-mail}
 
-コンテキスト情報の豊富な Marketo Insights ペインを使って、リードアカウントの情報と最近のアクティビティを確認できます。
+コンテキストの Marketo インサイトペインを使用して、アカウント情報と最近のアクティビティを確認できます。
 
 このペインは、通常のGoogle メールの受信トレイと送信済みアイテムの閲覧ペインに表示され、閲覧しているメールを送信したユーザー（または送信済みフォルダー内のアイテムのメール送信先）の情報とアクティビティを表示します。
 
-「リードのアクティビティ」タブには、名前、肩書き、写真など、リードに関する関連情報が表示されます。 Web ページへの訪問、フォームの入力、リンクのクリック、イベント参加、メールの開封など、メール送信後に発生した最新のアクティビティについても確認できます。
+「人物アクティビティ」タブには、名前、肩書き、写真など、その人物に関する関連情報が表示されます。 Web ページへの訪問、フォームの入力、リンクのクリック、イベント参加、メールの開封など、メール送信後に発生した最新のアクティビティについても確認できます。
 
 ![](assets/1.png)
 
-「アカウントのアクティビティ」タブには、会社名、web サイトの URL、所在地など、アカウントの関連情報が表示されます。 同じタブに、アカウントの最新のアクティビティも表示されます。 アカウントは、リードのドメイン別に識別されます。 サブスクリプションにおけるセールスインサイトのユーザが、既にメールをやり取りしている場合には、アクティビティがリストに表示されます。
+「アカウントのアクティビティ」タブには、会社名、web サイトの URL、所在地など、アカウントの関連情報が表示されます。 同じタブに、アカウントの最新のアクティビティも表示されます。 アカウントは、人物のドメインによって識別されます。 サブスクリプション内のセールスインサイトユーザーのいずれかがこれらとメールをやり取りしたことがある場合、アクティビティがリストに表示されます。
 
 ![](assets/2.png)
 
-まだリードとセールスメールをやり取りしていない場合、アクティビティは表示されません。
+チームがその人物とセールスメールをやり取りしたことがない場合、アクティビティは表示されません。
 
 ![](assets/3.png)
 
@@ -54,4 +57,4 @@ Marketo アイコンをクリックして、ペインを開きます。
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md) 用 Marketo Insights の使用
+>[ [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md) 用 Marketo Insights の使用

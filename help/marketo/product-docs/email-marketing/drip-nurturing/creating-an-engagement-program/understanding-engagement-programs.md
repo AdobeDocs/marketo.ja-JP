@@ -4,18 +4,23 @@ description: Marketoのエンゲージメントプログラム、ストリーム
 title: エンゲージメントプログラムについて
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-TQID: https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE
+TQID: 'https://experienceleague.adobe.com/miGzcAIMh0IHswARcX7HBevGHcIfAlMTagF-nF9RznE'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+    internal-label: Programs
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: fc5011cf-5b46-40b1-a5de-d7f042f85633
+    internal-label: Engagement programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 296
+source-wordcount: '296'
 ht-degree: 88%
-
 ---
-
 # エンゲージメントプログラムについて {#understanding-engagement-programs}
 
 エンゲージメントプログラムは、新しい人々に対して体系的にコンテンツを提示することでマーケティングをおこなうように設計されています。
@@ -61,7 +66,7 @@ ht-degree: 88%
 
 ## キャスト {#cast}
 
-**&#x200B;**&#x200B;キャストは、エンゲージメントプログラムからメールを送信するイベントです。
+****&#x200B;キャストは、エンゲージメントプログラムからメールを送信するイベントです。
 
 >[!NOTE]
 >
@@ -95,7 +100,7 @@ ht-degree: 88%
 
 ## コンテンツエンゲージメントレベル {#content-engagement-level}
 
-コンテンツエンゲージメントレベルは、Marketo がコンテンツに与える 0 〜 100 点のスコアです。 この数は、開封数、クリック数、配信停止数、プログラムの成功、その他の要因を使用し、高度な数式で算出されます。
+コンテンツエンゲージメントレベルは、Marketo がコンテンツに与える 0 〜 100 点のスコアです。 この数値は、開封数、クリック数、購読解除数、プログラムの成功、その他の要因を用いた高度な数式によって算出されます。
 
 >[!MORELIKETHIS]
 >

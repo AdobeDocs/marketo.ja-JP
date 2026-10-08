@@ -3,16 +3,21 @@ description: チャットボットの未回答の質問や役に立たない質�
 title: 未回答の質問
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-TQID: https://experienceleague.adobe.com/qBCCscCI1eJ7P70HRrD38FxuCMVdMJmkKHtQW5I7obM
+TQID: 'https://experienceleague.adobe.com/qBCCscCI1eJ7P70HRrD38FxuCMVdMJmkKHtQW5I7obM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 125
+source-wordcount: '125'
 ht-degree: 6%
-
 ---
-
 # 未回答の質問 {#unanswered-questions}
 
 チャットボットが回答できなかった質問や、訪問者が「役に立たない」とマークした質問をすべて確認し、この貴重な情報を活用して、事前承認済みの回答を追加できます。

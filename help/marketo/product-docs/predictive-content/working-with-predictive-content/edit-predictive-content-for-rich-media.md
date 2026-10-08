@@ -4,18 +4,20 @@ description: 説明、sRGB画像、カテゴリを含むリッチメディアの
 title: リッチメディアの予測コンテンツを編集する
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-TQID: https://experienceleague.adobe.com/XHMDPgftozNUSvcOrKdFcilATEmARQiBQd55jyulAyc
+TQID: 'https://experienceleague.adobe.com/XHMDPgftozNUSvcOrKdFcilATEmARQiBQd55jyulAyc'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: 52412b34-abb2-53fa-9fea-8547c07823df
+    internal-label: Predictive Content
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 228
+source-wordcount: '228'
 ht-degree: 90%
-
 ---
-
 # リッチメディアの予測コンテンツを編集する {#edit-predictive-content-for-rich-media}
 
 リッチメディア予測コンテンツの設定方法を次に示します。
@@ -32,7 +34,7 @@ ht-degree: 90%
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
-1. メールとリッチメディア用の画像は別々でも大丈夫です。 画像を追加または変更するには、画像の URL をテキストボックスに貼り付けます。
+1. メール用とリッチメディア用に、別々の画像を設定できます。 画像を追加または変更するには、画像の URL をテキストボックスに貼り付けます。
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 

@@ -4,21 +4,28 @@ description: メールプログラムのA/B テストをスケジュールする
 title: A/B テストのスケジュール
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-TQID: https://experienceleague.adobe.com/leTqEVzfqKMFm07cFTCLtzCYrp5G-y0fVMIGv5hBzRQ
+TQID: 'https://experienceleague.adobe.com/leTqEVzfqKMFm07cFTCLtzCYrp5G-y0fVMIGv5hBzRQ'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+  - id: 69a7f8d6-582c-5b66-841e-32cf07fd164c
+    internal-label: A/B Testing
+  - id: c2dbad80-0f5c-4d96-a798-2a65f93b8721
+    internal-label: Assets
+subfeature_v2:
+  - id: c0f0afc1-a5a8-4b01-8b43-cc38f9169499
+    internal-label: Email programs
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 222
+source-wordcount: '222'
 ht-degree: 83%
-
 ---
-
 # A/B テストのスケジュール {#schedule-the-a-b-test}
 
-メールプログラムに A/B テストを追加し、推奨結果の条件を定義したら、いつテストが開始するかをスケジュールする必要があります。 手順は以下のとおりです。
+メールプログラムに A/B テストを追加し、勝者を決定する条件を定義したら、テストの開始時刻をスケジュールする必要があります。 手順は次のとおりです。
 
 >[!PREREQUISITES]
 >
@@ -38,7 +45,7 @@ ht-degree: 83%
 
    >[!NOTE]
    >
-   >テストの送信と勝者の送信の間には 4 時間以上置く必要があります。 ただし、送信サイズが大きい場合は、適切な結果が得られるまで十分な時間である 24 時間待つことができます。
+   >テストの送信と勝者の送信の間には 4 時間以上置く必要があります。 ただし、送信サイズが大きい場合は、適切な結果が得られるよう、24 時間程度待つことをお勧めします。
 
 1. 手順1と2を繰り返して、_勝者を送信_&#x200B;します。 通知受信者を入力し（オプション）、「**[!UICONTROL 次へ]**」をクリックします。
 

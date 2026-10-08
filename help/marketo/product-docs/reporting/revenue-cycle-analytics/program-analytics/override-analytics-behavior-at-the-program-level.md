@@ -4,18 +4,24 @@ description: Analytics ビヘイビアーの上書きなど、Marketo Engageの�
 title: プログラムレベルでの分析動作の上書き
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+  - id: 126e34f9-e02a-505e-9978-ea36537f3ef9
+    internal-label: Revenue Cycle Analytics
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 89%
-
 ---
-
-# プログラムレベルでの分析動作の上書き {#override-analytics-behavior-at-the-program-level}
+# プログラムレベルでの分析の動作を上書き {#override-analytics-behavior-at-the-program-level}
 
 [チャネルの管理者レベルでの分析動作](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md)を設定することができますが、プログラムレベルで上書きすることもできます。 その方法をご紹介します。
 
-1. 「**[!UICONTROL マーケティング活動]**」領域に移動します。
+1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;領域に移動します。
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -46,7 +52,7 @@ ht-degree: 89%
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-これで完了です。 これで、分析動作をプログラムレベルで上書きする方法がわかりました。
+これで完了です。 これで、プログラムレベルで分析の動作を上書きする方法がわかりました。
 
 >[!NOTE]
 >

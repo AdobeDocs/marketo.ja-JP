@@ -1,21 +1,23 @@
 ---
 description: Sales Connectの購読解除メッセージの自動追加設定について説明します。 セールスメールに登録解除リンクを自動的に追加します。
-title: 登録解除メッセージの自動追加設定
+title: 購読解除メッセージの自動追加設定
 feature: Marketo Sales Connect
 exl-id: 8aa75123-f6b5-4dfe-8fa7-f764620c04e8
-TQID: https://experienceleague.adobe.com/vF4DuUUB10XpQoMJYGquk8yptjT-5lFcMqYJB9QF7A0
+TQID: 'https://experienceleague.adobe.com/vF4DuUUB10XpQoMJYGquk8yptjT-5lFcMqYJB9QF7A0'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 212
+source-wordcount: '212'
 ht-degree: 9%
-
 ---
-
-# 登録解除メッセージの自動追加設定 {#auto-append-unsubscribe-message-setting}
+# 購読解除メッセージの自動追加設定 {#auto-append-unsubscribe-message-setting}
 
 送信するすべてのメールに登録解除メッセージが含まれていることを確認し、受信者がコミュニケーションをオプトアウトするための簡単なオプションを用意します。 「購読解除メッセージを追加」が有効になっている場合、Marketo Salesから送信するすべてのコミュニケーションには、web アプリケーション、Salesforce、Gmail プラグイン、Outlook プラグインから送信されたメールを含む購読解除メッセージが含まれます。
 
@@ -41,4 +43,4 @@ ht-degree: 9%
 
 >[!TIP]
 >
->「購読解除メッセージを追加」設定を無効にした場合は、購読解除フッターをテンプレートに追加して、コミュニケーションにオプトアウトオプションがあることを確認することをお勧めします。 これは、各テンプレートに独自のカスタムメッセージを追加するか、`{{team_unsubscribe}}` [動的フィールド &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}を使用することで実行できます。
+>「購読解除メッセージを追加」設定を無効にした場合は、購読解除フッターをテンプレートに追加して、コミュニケーションにオプトアウトオプションがあることを確認することをお勧めします。 これは、各テンプレートに独自のカスタムメッセージを追加するか、`{{team_unsubscribe}}` [動的フィールド ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}を使用することで実行できます。

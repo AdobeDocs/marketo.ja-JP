@@ -3,21 +3,28 @@ description: Dynamic Chat ウィジェットのコールバック関数を使用
 title: コールバック関数
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-TQID: https://experienceleague.adobe.com/acvFxZL5oAxsxlclzffgJVJh2AQashaEmzAYxgGHKPk
+TQID: 'https://experienceleague.adobe.com/acvFxZL5oAxsxlclzffgJVJh2AQashaEmzAYxgGHKPk'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+    internal-label: Dynamic Chat
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Metadata
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 635
+source-wordcount: '635'
 ht-degree: 96%
-
 ---
-
 # コールバック関数 {#callback-functions}
 
 Dynamic Chat ウィジェットコールバック関数を使用すると、対話イベントをサードパーティプラットフォームに送信できます。
@@ -38,7 +45,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### 対話トリガー済み
 
-Web サイトの訪問者をターゲットとした対話（ダイアログなど）が解決され、チャットボットが訪問者に表示されます。
+サイト訪問者をターゲットとした対話（ダイアログなど）が解決され、チャットボットが訪問者に表示されます。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => {
@@ -51,7 +58,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### 対話エンゲージ済み {#conversation-engaged}
 
-訪問者がチャットボットに関与しました（最初の応答を提供するなど）。
+訪問者がチャットボットとやり取りを開始します（最初の応答を行うなど）。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => {
@@ -125,7 +132,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ## 訪問者入力イベント
 
-このイベントは、対話に関与している訪問者が取引先責任者情報（電話番号やメールアドレスなど）を入力するとトリガーされます。 このカテゴリに該当するイベントを次に示します。
+これらのイベントは、対話中の訪問者が連絡先情報（電話番号やメールアドレスなど）を入力したときにトリガーされます。 このカテゴリに該当するイベントを次に示します。
 
 ### 電話番号 {#phone-number}
 
@@ -142,7 +149,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### メール ID {#email-id}
 
-このイベントは、訪問者が対話中にメールアドレスを入力した際にトリガーされます。
+このイベントは、訪問者が対話中にメールを入力した際にトリガーされます。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => {
@@ -301,7 +308,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 
 ### ライブチャットタイムアウト {#live-chat-timeout}
 
-このイベントは、訪問者が応答の停止やドロップを行ったので、ライブチャットの対話がタイムアウトするとトリガーされます。
+このイベントは、訪問者が応答しなくなったり離脱したことにより、ライブチャットの対話がタイムアウトしたときにトリガーされます。
 
 ```javascript
 window.addEventListener('adobedx.conversations.ready', () => {

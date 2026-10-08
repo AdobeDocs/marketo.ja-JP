@@ -4,16 +4,18 @@ description: セールスコネクトの購読解除履歴カードについて�
 title: 登録解除履歴カード
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/AogYVGru2hgF-2rVus2wl96P7DqQ4MeN0Ib6jsvTgYI
+TQID: 'https://experienceleague.adobe.com/AogYVGru2hgF-2rVus2wl96P7DqQ4MeN0Ib6jsvTgYI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 164
+source-wordcount: '164'
 ht-degree: 76%
-
 ---
-
 # 登録解除履歴カード {#unsubscribe-history-card}
 
 [!UICONTROL 登録解除履歴]カードを使用すると、管理者やユーザは、取引先責任者の登録解除履歴に関するコンテキスト情報を取得できます。
@@ -36,11 +38,11 @@ ht-degree: 76%
   </tr>
   <tr>
    <td><strong>[!UICONTROL 詳細]</strong></td>
-   <td><p>再購読：[!DNL Sales Connect] 管理者が、取引先責任者レコードから登録解除を手動で削除した。 また、取引先責任者の配信停止理由に関する詳細も表示されます。</p><p>配信停止：取引先責任者が配信停止された。</p></td>
+   <td><p>再購読：[!DNL Sales Connect] 管理者が、取引先責任者レコードから登録解除を手動で削除した。 また、取引先責任者の配信停止理由に関する詳細も表示されます。</p><p>登録解除：取引先責任者が登録解除されました。</p></td>
   </tr>
   <tr>
    <td><strong>[!UICONTROL ソース]</strong></td>
-   <td><p>Salesforce 同期：登録解除が [!DNL Salesforce] の同期によって取得された。</p><p>手動：ユーザが「配信停止」ボタンをクリックしてオプトアウトした。</p><p>リンクをクリック：メールの受信者が配信停止リンクをクリックした。</p><p>「管理者名」：管理者の名前は、アクションが取引先責任者の再購読の場合に表示されます。 ユーザーは誰が登録解除を削除したかを知ることができます。</p></td>
+   <td><p>Salesforce 同期：登録解除が [!DNL Salesforce] の同期によって取得された。</p><p>手動：ユーザーが「登録解除」ボタンをクリックしてオプトアウトしました。</p><p>リンクをクリック：メールの受信者が登録解除リンクをクリックしました。</p><p>「管理者名」：管理者の名前は、アクションが取引先責任者の再購読の場合に表示されます。 ユーザは、誰が登録解除を削除したかを知ることができます。</p></td>
   </tr>
  </tbody>
 </table>

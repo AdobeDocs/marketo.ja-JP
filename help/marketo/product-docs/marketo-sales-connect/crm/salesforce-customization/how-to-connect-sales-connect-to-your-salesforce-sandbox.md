@@ -4,23 +4,25 @@ description: SalesforceサンドボックスにSales Connectを接続する方�
 title: Sales Connect を Salesforce サンドボックスに接続する方法
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-TQID: https://experienceleague.adobe.com/hEZXmSaOyNuptcuDEMrsiSeT-n4FSXU67W2DVPwb3uI
+TQID: 'https://experienceleague.adobe.com/hEZXmSaOyNuptcuDEMrsiSeT-n4FSXU67W2DVPwb3uI'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Integrations
+  - id: ab9cc269-26ac-5c58-b645-e0736aefe9f3
+    internal-label: Marketo Sales Connect
+source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
 workflow-type: tm+mt
-source-wordcount: 146
+source-wordcount: '146'
 ht-degree: 78%
-
 ---
-
 # Sales Connect を Salesforce サンドボックスに接続する方法 {#how-to-connect-sales-connect-to-your-salesforce-sandbox}
 
 >[!PREREQUISITES]
 >
->サンドボックスへの接続を確立する際に、[!DNL &#x200B; Sales Connect] アカウントをあらかじめ [!DNL Salesforce] に接続しておくことはできません。 接続している場合、この記事の手順に従う前に、[切断してください](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)。
+>サンドボックスへの接続を確立する際に、[!DNL  Sales Connect] アカウントをあらかじめ [!DNL Salesforce] に接続しておくことはできません。 接続している場合、この記事の手順に従う前に、[切断してください](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md)。
 
 1. [!DNL Sales Connect] で、右上の歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 
