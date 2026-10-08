@@ -4,7 +4,7 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: b6799a351d9256e96a6db644c840f061a88198b4
+source-git-commit: bf54ef2e3651759827fa6d040a94512f694d8f9a
 workflow-type: tm+mt
 source-wordcount: '8936'
 ht-degree: 96%
@@ -18,7 +18,7 @@ ht-degree: 96%
   + 初期設定 {#initial-setup}
     + [設定手順](getting-started/initial-setup/setup-steps.md)
     + [プロトコルの設定](getting-started/initial-setup/configure-protocols-for-marketo.md)
-    + [ユーザ設定](getting-started/initial-setup/user-setup.md)
+    + [ユーザー設定](getting-started/initial-setup/user-setup.md)
   + 新しい Marketo Engage インスタンスの実装 {#implementing-a-new-marketo-engage-instance}
     + [開始する場所](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
     + [新しいインスタンスのベストプラクティス：管理者セクションのチェックリスト](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
@@ -513,7 +513,7 @@ ht-degree: 96%
         + [組織サービス URL の表示](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md)
         + Microsoft Dynamics 2016／Dynamics 365 オンプレミス  {#microsoft-dynamics-2016-dynamics-365-on-premises}
           + [手順 1 / 3：Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミスでの Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
-          + [手順 2／3：Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミスでの Marketo 同期ユーザの設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
+          + [手順 2／3：Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミスでの Marketo 同期ユーザーの設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
           + [手順 3 / 3：Marketo と Dynamics 2015 オンプレミス／2016 Dynamics 365 オンプレミスの接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
         + Microsoft Dynamics 365 と ROPC 接続 {#microsoft-dynamics-365-with-ropc-connection}
           + [手順 1 / 4：ROPC 接続を使用した Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
@@ -526,13 +526,13 @@ ht-degree: 96%
           + [手順 3／3：Marketo ソリューションの S2S 接続への接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
         + 従来のバージョンへの接続 {#connecting-to-legacy-versions}
           + [手順 1 / 3：Marketo ソリューション（2011 オンプレミス版）のインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2011.md)
-          + [手順 2／3：Dynamics（2011 オンプレミス）での Marketo 同期ユーザの設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
+          + [手順 2／3：Dynamics（2011 オンプレミス）での Marketo 同期ユーザーの設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2011.md)
           + [手順 3 / 3：Microsoft Dynamics と Marketo（2011 オンプレミス）の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2011.md)
           + [手順 1 / 3：Dynamics（2013 オンプレミス）での Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2013.md)
           + [手順 2 / 3：Marketo（2013 オンプレミス）の同期ユーザーの設定](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-configure-2013.md)
           + [手順 3 / 3：Marketo と Dynamics（2013 オンプレミス）の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2013.md)
           + [手順 1 / 3：Dynamics（2015 オンプレミス）での Marketo ソリューションのインストール](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-1-of-3-install-2015.md)
-          + [手順 2／3：Marketo 用同期ユーザの設定（2015 オンプレミス）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
+          + [手順 2／3：Marketo 用同期ユーザーの設定（2015 オンプレミス）](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-2-of-3-set-up-2015.md)
           + [手順 3 / 3：Marketo と Dynamics（2015 オンプレミス）の接続](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/connecting-to-legacy-versions/step-3-of-3-connect-2015.md)
       + Microsoft Dynamics 同期の詳細 {#microsoft-dynamics-sync-details}
         + [Dynamics のデフォルトフィールドマッピング](product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/default-dynamics-field-mapping.md)
@@ -1329,8 +1329,8 @@ ht-degree: 96%
     + アクション {#actions}
       + [セールスインサイトアクション機能の概要](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
       + はじめに {#getting-started}
-        + [セールスインサイトアクションのユーザオンボーディングガイド](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-        + [セールスインサイトアクションユーザオンボーディングチェックリスト](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
+        + [セールスインサイトアクションのユーザーオンボーディングガイド](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
+        + [セールスインサイトアクションのユーザーオンボーディングチェックリスト](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
         + [セールスインサイトアクション管理者設定ガイド](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
         + [Marketo Sales のパスワードの変更](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
         + [製品使用の制限](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
