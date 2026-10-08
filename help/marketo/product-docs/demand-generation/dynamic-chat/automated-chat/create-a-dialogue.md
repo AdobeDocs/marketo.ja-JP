@@ -40,7 +40,7 @@ ht-degree: 60%
 >
 >優先度によって、訪問者が同時に複数のダイアログの条件を満たした場合に、どのダイアログを表示するかが決まります。
 
-次に、[ ストリームを作成する方法](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}を説明します。
+次に、[&#x200B; ストリームを作成する方法](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#create-a-stream){target="_blank"}を説明します。
 
 >[!MORELIKETHIS]
 >

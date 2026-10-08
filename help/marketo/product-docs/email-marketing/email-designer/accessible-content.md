@@ -154,7 +154,7 @@ Marketo Engageの電子メールDesignerを使用すると、様々なデバイ�
 
 ## ダークモードの使用 {#dark-mode}
 
-[ ダークモード ](/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md){target="_blank"}は、光感度または視覚障害を持つユーザーの視覚的アクセシビリティを向上させ、視聴体験を向上させます。
+[&#x200B; ダークモード &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md){target="_blank"}は、光感度または視覚障害を持つユーザーの視覚的アクセシビリティを向上させ、視聴体験を向上させます。
 
 <!--![](assets/accessible-dark-mode.png){width="90%"}-->
 

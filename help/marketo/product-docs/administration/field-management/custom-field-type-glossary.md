@@ -92,7 +92,7 @@ Marketoでカスタムフィールドを作成する場合は、選択できる�
 
 ## 数式 {#formula}
 
-**例の名前：**&#x200B;件の挨拶 – [ ソリューションでこの特別なフィールドを使用して、性別に基づいて適切な挨拶](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md)を取得します
+**例の名前：**&#x200B;件の挨拶 – [&#x200B; ソリューションでこの特別なフィールドを使用して、性別に基づいて適切な挨拶](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md)を取得します
 
 **値の例：** リンクされたソリューションを確認する
 

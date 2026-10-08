@@ -106,7 +106,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 [!DNL Salesforce] CRM 用の **[!DNL Sales Insight]**
 
-* **ベストベット [!UICONTROL の新しいタイプ列]**：販売者は、[!UICONTROL  ベストベット ] ページで「タイプ」というラベルの付いた新しい列を使用して、リードと取引先責任者を区別するためにより迅速なインサイトを得られます。
+* **ベストベット [!UICONTROL の新しいタイプ列]**：販売者は、[!UICONTROL &#x200B; ベストベット &#x200B;] ページで「タイプ」というラベルの付いた新しい列を使用して、リードと取引先責任者を区別するためにより迅速なインサイトを得られます。
 
 * **[!DNL Salesforce]Platform API のアップデート**：[!DNL Salesforce] が [!DNL Salesforce] Platform API バージョン 21.0 ～ 30.0 を廃止したのに対応して、[!DNL Sales Insight] パッケージが最新の API でアップデートされました。
 
@@ -130,7 +130,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 * **フォームエンドポイントの廃止**：leadCapture/save2 エンドポイントに対する、サポートされていないプログラム形式の POST は、Marketo Engage フォームによって拒否されます。 [こちら](https://nation.marketo.com/t5/product-documents/updated-october-2021-upcoming-changes-to-the-marketo-engage-form/ta-p/306631)をクリックすると、詳細が表示されます。
 
-* **ユーザーを招待ダイアログにログイン**:3月に、既存のオプション機能「ユーザーを招待ダイアログにログイン」が廃止されます。 機能「[!UICONTROL  ユーザーを招待ダイアログにログイン ]」機能は、今後のAdobe Identity Management System Integrationに必要なユニバーサル ID機能によって上書きされ、すべてのサブスクリプションで2021年8月に有効になりました。 この廃止により、Marketo Engage のサブスクリプションでは、1 つのメールにつき関連付けられるユーザは 1 名のみとなります。
+* **ユーザーを招待ダイアログにログイン**:3月に、既存のオプション機能「ユーザーを招待ダイアログにログイン」が廃止されます。 機能「[!UICONTROL &#x200B; ユーザーを招待ダイアログにログイン &#x200B;]」機能は、今後のAdobe Identity Management System Integrationに必要なユニバーサル ID機能によって上書きされ、すべてのサブスクリプションで2021年8月に有効になりました。 この廃止により、Marketo Engage のサブスクリプションでは、1 つのメールにつき関連付けられるユーザは 1 名のみとなります。
 
 **Marketo Engage ドメイン - [!DNL Sales Insight] 設定**：SSL 証明書がプロビジョニングされていない Marketo Engage ドメインおよび https:// の場合、呼び出しは SSL ハンドシェイクエラーで失敗します。 したがって、これらのドメインは廃止される予定です。 その結果、これらのドメインを指す古い設定を持つ [!DNL Sales Insight] ユーザには、リード、取引先責任者、顧客、商談パネル、または Marketo グローバルページでシステムコールアウトエラーが発生する可能性があります。 このエラーが発生した場合、[!DNL Salesforce] で [Marketo Engage 設定](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)をアップデートすることをお勧めします。 ドキュメントの「[!DNL Marketo Sales Insight] 設定」節でハイライトされている Marketo Engage 資格情報のみを更新する必要があります。
 
@@ -262,7 +262,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 **メールの検証と一意性**：4月から、メール検証のロールアウトが開始されます。 その時点で、Marketo Engage ユーザーのメールアドレスには、検証と一意性が必須となります（API のみのユーザーには適用されません）。 ディレクトリサービスで認証されたユーザは、メール検証が有効になっているサブスクリプションの場合、自動的にメールが検証されます。
 
-「[!UICONTROL  ユーザーを招待ダイアログにログイン ]」機能を使用するか、複数のユーザーに関連付けられた1つの電子メールを持つサブスクリプションの電子メール検証は、5月のリリースと一致します。 1 つのメールが複数のユーザに関連付けられているサブスクリプションでは、メール検証が有効化され、ユーザは競合を解消して、ユーザごとに一意のメールを使用する必要があります。 「ユーザーを招待ダイアログにログイン」機能が有効になっている場合、この機能を介して招待されたユーザーには一意のメールアドレスが必要になります。 この機能を使用して招待された API 専用ユーザについては、メールが一意である必要はありません。
+「[!UICONTROL &#x200B; ユーザーを招待ダイアログにログイン &#x200B;]」機能を使用するか、複数のユーザーに関連付けられた1つの電子メールを持つサブスクリプションの電子メール検証は、5月のリリースと一致します。 1 つのメールが複数のユーザに関連付けられているサブスクリプションでは、メール検証が有効化され、ユーザは競合を解消して、ユーザごとに一意のメールを使用する必要があります。 「ユーザーを招待ダイアログにログイン」機能が有効になっている場合、この機能を介して招待されたユーザーには一意のメールアドレスが必要になります。 この機能を使用して招待された API 専用ユーザについては、メールが一意である必要はありません。
 
 **フォルダー動作の変更をアーカイブ**：このリリースで、アーカイブフォルダーに新しいアセットを作成する機能は、ツリーのコンテキストメニューから使用できなくなりました。 新しいアセットを作成するためのメニューオプションは、すべてのアセットで非表示になります。 詳しくは、[こちらを参照](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}してください。
 
@@ -315,7 +315,7 @@ Adobe Experience Platform（AEP）も使用している Marketo Engage の顧客
 
 ![（星印）](assets/yellow-star.png)
 
-* **[!DNL Sales Insight][!DNL Salesforce]** での権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部である Marketo アプリ権限セットを使用して、プロファイルレベルではなく、ユーザーレベルで限られた一連のユーザーに対して [!DNL Sales Insight] のアクセス権を提供できます。
+* **[!DNL Sales Insight]&#x200B;[!DNL Salesforce]** での権限セット：管理者は、[!DNL Sales Insight] [!DNL Salesforce] パッケージの一部である Marketo アプリ権限セットを使用して、プロファイルレベルではなく、ユーザーレベルで限られた一連のユーザーに対して [!DNL Sales Insight] のアクセス権を提供できます。
 
 * **My Marketo タイルのアップデート - [!DNL Sales Insight]アクション**：Marketo 管理者（および指定したユーザ）は、マイ Marketo ページにある新しい [!DNL Sales Insight] アクションタイルから、[!DNL Sales Insight] アクションインスタンスにすばやく移動できるようになりました。
 

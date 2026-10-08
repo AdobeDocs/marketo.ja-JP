@@ -33,7 +33,7 @@ Marketo Engage Communityで適切に設定されていることを確認しま�
 
 * [**Adobe Experience League コミュニティガイドライン**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}をお読みください。
 
-* [**サポートケース**](https://experienceleague.adobe.com/en/support#home){target="_blank"}を送信し、[ サポート管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}として設定されていることを確認する方法について説明します。
+* [**サポートケース**](https://experienceleague.adobe.com/en/support#home){target="_blank"}を送信し、[&#x200B; サポート管理者](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}として設定されていることを確認する方法について説明します。
 
 ## Marketo Engageのコミュニティプロファイルを統合 {#merge-your-community-profiles}
 

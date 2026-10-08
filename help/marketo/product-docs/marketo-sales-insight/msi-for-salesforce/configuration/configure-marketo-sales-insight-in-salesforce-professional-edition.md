@@ -31,7 +31,7 @@ ht-degree: 95%
 >
 >* [!DNL Salesforce] Professional Edition に Marketo をインストールします。
 >
->* [ [!DNL Salesforce]  AppExchange での  [!DNL Marketo Sales Insight]  パッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [&#x200B; [!DNL Salesforce]  AppExchange での  [!DNL Marketo Sales Insight]  パッケージのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -236,5 +236,5 @@ Marketo セールスインサイトのフィールドが、リード、取引先
 >[!MORELIKETHIS]
 >
 >* [優先度、緊急度、相対スコア、最有望見込客](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md){target="_blank"}
->* [ [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target="_blank"} への「Marketo」タブの追加
+>* [&#x200B; [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md){target="_blank"} への「Marketo」タブの追加
 >* [セールスインサイトへのアクセスをプロファイルに追加](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

@@ -43,7 +43,7 @@ RTP タグを実装するには、次のインストール手順に従います�
 
 1. [!DNL Dynamic Tag Manager] アカウント（[https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)）にログインします。
 
-1. **[!UICONTROL ダッシュボード ]に移動します。** 関連するweb プロパティをクリックします。
+1. **[!UICONTROL ダッシュボード &#x200B;]に移動します。** 関連するweb プロパティをクリックします。
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 

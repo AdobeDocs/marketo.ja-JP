@@ -86,4 +86,4 @@ ht-degree: 30%
 
 * **Marketo Engage Forms jQuery 1.x**:2024年1月のリリースでは、jQuery for Marketo Engage FormsをjQuery 3.xにアップデートします。 これは、古いバージョンのjQueryに依存するカスタムフォーム実装に影響を与える可能性があります。 詳しくは、[こちらを参照](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705#M2597){target="_blank"}してください。
 
-* **Marketo イベントとMarketo モーメントの非推奨化**:Adobeは[2023年10月2日からすべてのアプリストアからMarketo イベントとMarketo モーメント ](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}を削除しています。 既存のユーザー – Marketo Engage インスタンスをAdobe IDに移行するまで、これらのアプリケーションを引き続き使用できます。 これらのアプリは、Adobe IDでのログインをサポートしていません。
+* **Marketo イベントとMarketo モーメントの非推奨化**:Adobeは[2023年10月2日からすべてのアプリストアからMarketo イベントとMarketo モーメント &#x200B;](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}を削除しています。 既存のユーザー – Marketo Engage インスタンスをAdobe IDに移行するまで、これらのアプリケーションを引き続き使用できます。 これらのアプリは、Adobe IDでのログインをサポートしていません。

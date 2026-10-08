@@ -68,4 +68,4 @@ SpamAssassinはコンテンツを分析し、さまざまな基準にもとづ�
 
 >[!NOTE]
 >
->スパムスコアはSpamAssassinを通じて取得されます。また、**ルールはAdobe**&#x200B;によって所有されていません。 これらのルールの詳細については、[SpamAssassin ドキュメント ](https://spamassassin.apache.org/#_blank){target="_blank"}を参照してください。 エラー[の完全なリストは、ここで確認できます](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}。
+>スパムスコアはSpamAssassinを通じて取得されます。また、**ルールはAdobe**&#x200B;によって所有されていません。 これらのルールの詳細については、[SpamAssassin ドキュメント &#x200B;](https://spamassassin.apache.org/#_blank){target="_blank"}を参照してください。 エラー[の完全なリストは、ここで確認できます](https://spamassassin.apache.org/old/tests_3_0_x.html){target="_blank"}。

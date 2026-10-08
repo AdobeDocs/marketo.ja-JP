@@ -430,7 +430,7 @@ Google Play で入手可能な、新しい Android ベースのチェックイ�
 
 ## チャンピオン／挑戦者のメールテスト {#email-champion-challenger-testing}
 
-[ チャンピオン/チャレンジャーテスト ](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)はA/B テストと似ていますが、違いは、トリガーメールに使用され、自動的に勝者を送信しないことです。 このテストでは、チャンピオンと呼ばれる確立された方法に対して、挑戦者を導入することでチャンピオンがまだ最適な方法かどうかをテストします。 さらに、チャンピオン／挑戦者メールテストは、エンゲージメントプログラムストリーム内で使用できます。
+[&#x200B; チャンピオン/チャレンジャーテスト &#x200B;](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)はA/B テストと似ていますが、違いは、トリガーメールに使用され、自動的に勝者を送信しないことです。 このテストでは、チャンピオンと呼ばれる確立された方法に対して、挑戦者を導入することでチャンピオンがまだ最適な方法かどうかをテストします。 さらに、チャンピオン／挑戦者メールテストは、エンゲージメントプログラムストリーム内で使用できます。
 
 ## [!UICONTROL メール分析]でのリードの詳細 {#lead-details-in-email-analysis}
 

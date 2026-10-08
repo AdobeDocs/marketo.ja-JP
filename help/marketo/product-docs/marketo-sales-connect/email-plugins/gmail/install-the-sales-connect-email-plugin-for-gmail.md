@@ -24,7 +24,7 @@ Gmail プラグインのインストール方法について説明します。
 >
 >Gmail および Outlook 用メールプラグインは、Marketo Sales Connect ユーザのみがサポートされます。 これらは、セールスインサイトアクションユーザにはサポート&#x200B;**されません**。
 
-1. [web アプリケーション ](https://toutapp.com/next#settings)で、歯車アイコンをクリックし、**[!UICONTROL 設定]**&#x200B;をクリックします。
+1. [web アプリケーション &#x200B;](https://toutapp.com/next#settings)で、歯車アイコンをクリックし、**[!UICONTROL 設定]**&#x200B;をクリックします。
 
    ![](assets/install-the-sales-connect-email-plugin-for-gmail-1.png)
 

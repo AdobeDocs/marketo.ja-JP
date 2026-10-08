@@ -34,7 +34,7 @@ ht-degree: 1%
 1. Marketo Engage用CX Enterprise Coworkerでは、ソースプログラム、保存先フォルダー、新しい名前が確認されます。 確認して確認。
 1. クローンが作成されます。 CX Enterprise Coworker for Marketo Engageは、完了を確認し、どこで見つけるかを指示します。
 1. Marketoで新しいプログラムを開き、メールの内容、日付、オーディエンスフィルター、トークンなど、異なる内容を更新します。
-1. アクティブ化する前に、[ プログラム QA](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md) エージェントを実行します。
+1. アクティブ化する前に、[&#x200B; プログラム QA](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md) エージェントを実行します。
 
 ## ユースケース {#use-cases}
 

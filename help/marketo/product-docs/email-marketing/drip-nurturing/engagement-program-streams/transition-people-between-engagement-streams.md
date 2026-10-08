@@ -23,7 +23,7 @@ ht-degree: 62%
 ---
 # エンゲージメントストリーム間での人物のトランジション {#transition-people-between-engagement-streams}
 
-エンゲージメントプログラムでは、複数のストリームを使用できます。 [ ストリームを追加](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)する場合は、ユーザーがストリームから別のストリームに移動する方法を定義します。 この定義を&#x200B;**遷移ルール**&#x200B;と呼びます。
+エンゲージメントプログラムでは、複数のストリームを使用できます。 [&#x200B; ストリームを追加](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)する場合は、ユーザーがストリームから別のストリームに移動する方法を定義します。 この定義を&#x200B;**遷移ルール**&#x200B;と呼びます。
 
 1. **[!UICONTROL マーケティングアクティビティ]**&#x200B;に移動します。
 
@@ -41,7 +41,7 @@ ht-degree: 62%
    >
    >トランジションルールによって、指定したストリームに取り込まれます。必ず、取り込み先のストリームでルールを定義します。
 
-   トランジションルールウィンドウが開いたら、選択したトリガーを探してドラッグします。 この例では、人物は商談に追加されると[!UICONTROL  ミッドステージ ]に移動されます。
+   トランジションルールウィンドウが開いたら、選択したトリガーを探してドラッグします。 この例では、人物は商談に追加されると[!UICONTROL &#x200B; ミッドステージ &#x200B;]に移動されます。
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 

@@ -48,7 +48,7 @@ Marketo メール [!DNL Outlook] アドインを使用するユーザには、�
 
    >[!NOTE]
    >
-   >* プラグインをリモートでインストールするには、「_ダウンロードリンク付きの登録メールを送信_」チェックボックスをオフにして、IT チームに[ エンタープライズキー](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)を送信します。
+   >* プラグインをリモートでインストールするには、「_ダウンロードリンク付きの登録メールを送信_」チェックボックスをオフにして、IT チームに[&#x200B; エンタープライズキー](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)を送信します。
    >
    >* 営業担当者が自分のコンピューターに管理者アクセスできる場合は、「_ダウンロードリンク付きの登録メールを送信_」チェックボックスをオンにして完了します。 受信者には、有効期限が切れる前にメール内のリンクをクリックする&#x200B;**30日**&#x200B;の期間があります。
 
@@ -56,4 +56,4 @@ Marketo メール [!DNL Outlook] アドインを使用するユーザには、�
 >
 >* [エンタープライズキーを使用した  [!DNL Outlook]  用 Marketo アドインのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)
 >* [登録コードを使用した  [!DNL Outlook]  用 Marketo メールアドインのインストール](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)
->* [ [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md) 用 Marketo メールアドインのアップグレード
+>* [&#x200B; [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md) 用 Marketo メールアドインのアップグレード

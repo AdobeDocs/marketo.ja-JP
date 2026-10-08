@@ -64,7 +64,7 @@ Adobe GenStudio for Performance Marketingは、独自の広告やメールを作
 
 1. [書き出したHTML](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/content/templates/use-templates#templates-from-ajo-and-marketo){target="_blank"}のテンプレートをGenStudio for Performance Marketingにアップロードします。
 
-1. GenStudioでは、このテンプレートを使用して、AI プロンプトを使用して[いくつかの電子メールのバリエーション ](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}を作成し、保存します。
+1. GenStudioでは、このテンプレートを使用して、AI プロンプトを使用して[いくつかの電子メールのバリエーション &#x200B;](https://experienceleague.adobe.com/ja/docs/genstudio-for-performance-marketing/user-guide/create/create-email-experience){target="_blank"}を作成し、保存します。
 
 ## Marketo EngageでのGenStudio体験の活用 {#leverage-genstudio-experiences}
 
@@ -74,15 +74,15 @@ Marketo Engageに読み込んで作成したGenStudio メールのバリエー�
 
 1. メールの詳細ページで、**メールコンテンツの編集**&#x200B;をクリックします。
 
-   ![電子メールコンテンツの編集ボタン ](assets/genstudio-integration-2.png)
+   ![電子メールコンテンツの編集ボタン &#x200B;](assets/genstudio-integration-2.png)
 
 1. 「**HTMLを読み込み**」を選択します。
 
-   ![HTMLの読み込みボタン ](assets/genstudio-integration-3.png)
+   ![HTMLの読み込みボタン &#x200B;](assets/genstudio-integration-3.png)
 
 1. 「**Adobe GenStudio for Performance Marketing**」ボタンをクリックします。
 
-   ![Adobe GenStudio for Performance Marketing ボタン ](assets/genstudio-integration-4.png)
+   ![Adobe GenStudio for Performance Marketing ボタン &#x200B;](assets/genstudio-integration-4.png)
 
 1. GenStudio エクスペリエンスを参照して、コンテンツの作成を開始します。 商品、ペルソナ、ブランド、さらには色などの基準でエクスペリエンスをフィルタリングすることができます。
 
@@ -98,4 +98,4 @@ Marketo Engageに読み込んで作成したGenStudio メールのバリエー�
 >
 >Marketo Engage テンプレートから作成されたGenStudio エクスペリエンスは、メールDesignerに直接読み込まれます。 Marketo Engage テンプレートなしで作成されたGenStudio エクスペリエンスは、互換モードで読み込まれます。
 
-[ メールコンテンツ編集ツール ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}と[ パーソナライゼーションフィールド ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#personalize-content){target="_blank"}を使用して、必要に応じてメールを編集します。
+[&#x200B; メールコンテンツ編集ツール &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"}と[&#x200B; パーソナライゼーションフィールド &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#personalize-content){target="_blank"}を使用して、必要に応じてメールを編集します。

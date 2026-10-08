@@ -55,7 +55,7 @@ DNS レコードで公開鍵を設定し、「管理」セクション（A）で
 
 **DKIM の設定方法を教えてください。**
 
-[ カスタム DKIM署名の設定](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}を参照してください。
+[&#x200B; カスタム DKIM署名の設定](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}を参照してください。
 
 >[!MORELIKETHIS]
 >

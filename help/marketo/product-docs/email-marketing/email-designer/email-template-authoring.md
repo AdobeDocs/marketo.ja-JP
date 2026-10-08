@@ -69,7 +69,7 @@ ht-degree: 6%
 
 ## テンプレートをデザイン {#design-your-template}
 
-_テンプレートのデザイン_ ページでは、いくつかのオプションから選択できます。 [ ゼロからデザイン ](#design-from-scratch)、[独自のHTML](#import-html)を読み込むか、[既存のテンプレート ](#choose-a-template)を選択します（サンプルのいずれか1つ、または既に保存されたもの）。
+_テンプレートのデザイン_ ページでは、いくつかのオプションから選択できます。 [&#x200B; ゼロからデザイン &#x200B;](#design-from-scratch)、[独自のHTML](#import-html)を読み込むか、[既存のテンプレート &#x200B;](#choose-a-template)を選択します（サンプルのいずれか1つ、または既に保存されたもの）。
 
 ![](assets/design-your-template-1.png)
 
@@ -79,7 +79,7 @@ _テンプレートのデザイン_ ページでは、いくつかのオプシ�
 
 1. _テンプレートのデザイン_ ページで、**最初からデザイン**&#x200B;を選択します。
 
-1. [構造とコンテンツ ](#add-structure-and-content)を追加します。
+1. [構造とコンテンツ &#x200B;](#add-structure-and-content)を追加します。
 
 ### HTMLの読み込み {#import-your-html}
 
@@ -173,9 +173,9 @@ _テンプレートのデザイン_ ページでは、いくつかのオプシ�
 
 ### フラグメントを追加 {#add-fragments}
 
-1. フラグメントにアクセスするには、左側のナビゲーションで「_フラグメント_」アイコン（![ フラグメントアイコン ](assets/icon-fragments.svg)）を選択します。
+1. フラグメントにアクセスするには、左側のナビゲーションで「_フラグメント_」アイコン（![&#x200B; フラグメントアイコン &#x200B;](assets/icon-fragments.svg)）を選択します。
 
-   ![ フラグメントを選択](assets/add-fragments-1.png){width="700" zoomable="yes"}
+   ![&#x200B; フラグメントを選択](assets/add-fragments-1.png){width="700" zoomable="yes"}
 
 1. 任意のフラグメントを構造コンポーネントのプレースホルダーにドラッグ&amp;ドロップします。
 
@@ -189,7 +189,7 @@ _テンプレートのデザイン_ ページでは、いくつかのオプシ�
 
 ### アセットの追加 {#add-assets}
 
-Marketo Engage インスタンスの[画像とファイル ](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
+Marketo Engage インスタンスの[画像とファイル &#x200B;](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} セクションに保存されている画像を追加します。
 
 >[!NOTE]
 >
@@ -250,7 +250,7 @@ Marketo Engage インスタンスの[画像とファイル ](/help/marketo/produ
 
    ![](assets/personalize-content-1.png)
 
-1. 目的の[ トークンタイプ ](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}をクリックします。
+1. 目的の[&#x200B; トークンタイプ &#x200B;](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}をクリックします。
 
    ![](assets/personalize-content-2.png)
 
@@ -322,7 +322,7 @@ Marketo Engage インスタンスの[画像とファイル ](/help/marketo/produ
 
 * **テンプレートをリセット**：これを選択すると、ビジュアルメールデザイナーのキャンバスが空白のスレートに消去され、コンテンツの作成が再開されます。
 
-* **デザインを変更**: _テンプレートをデザイン_ ページに戻ります。 ここから、[ テンプレートのデザイン ](#design-your-template) セクションに記載されているアクションを実行できます。
+* **デザインを変更**: _テンプレートをデザイン_ ページに戻ります。 ここから、[&#x200B; テンプレートのデザイン &#x200B;](#design-your-template) セクションに記載されているアクションを実行できます。
 
 * **HTMLを書き出し**: ビジュアルキャンバスのコンテンツを、zip ファイルとしてパッケージ化されたHTML形式でローカルシステムにダウンロードします。
 
@@ -392,4 +392,4 @@ _電子メールテンプレート_&#x200B;のリストページから、左側�
 
 >[!MORELIKETHIS]
 >
->[電子メールオーサリング ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}
+>[電子メールオーサリング &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}

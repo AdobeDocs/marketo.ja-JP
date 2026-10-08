@@ -44,7 +44,7 @@ ht-degree: 76%
 
    >[!NOTE]
    >
-   >**[!UICONTROL 新規作成]**&#x200B;機能は、[!UICONTROL  マーケティング活動]にのみ表示されます。[!UICONTROL Design Studio]では使用できません。 Design Studio では、既に作成済みの動画のみを利用できます。 ただし、__**[!UICONTROL 、新規]**／**[!UICONTROL 新規ローカルアセット]**&#x200B;を選択して、プログラム内に動画共有を作成することもできます。 次に示すように、ドロップダウンから選択できます。
+   >**[!UICONTROL 新規作成]**&#x200B;機能は、[!UICONTROL &#x200B; マーケティング活動]にのみ表示されます。[!UICONTROL Design Studio]では使用できません。 Design Studio では、既に作成済みの動画のみを利用できます。 ただし、__&#x200B;**[!UICONTROL 、新規]**／**[!UICONTROL 新規ローカルアセット]**&#x200B;を選択して、プログラム内に動画共有を作成することもできます。 次に示すように、ドロップダウンから選択できます。
 
 1. YouTube ビデオの URL を入力し、ビデオに名前を付けます。 **[!UICONTROL クローン元]**&#x200B;ドロップダウンで「**[!UICONTROL なし]**」を選択し、「**[!UICONTROL 挿入]**」をクリックします。
 
@@ -54,4 +54,4 @@ ht-degree: 76%
 >
 >時間を節約するために、「**[!UICONTROL クローン元]**」オプションを使用して、既存の動画共有からすべての設定をコピーできます。
 
-フリーフォームランディングページに動画共有を追加しました。 ランディングページを承認すると、動画共有が有効になります。 また、[ ランディングページをFacebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)に公開したり、ビデオ共有をweb サイトに配置したりすることもできます。
+フリーフォームランディングページに動画共有を追加しました。 ランディングページを承認すると、動画共有が有効になります。 また、[&#x200B; ランディングページをFacebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)に公開したり、ビデオ共有をweb サイトに配置したりすることもできます。

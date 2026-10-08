@@ -60,7 +60,7 @@ ht-degree: 25%
 
 >[!NOTE]
 >
->未承認のランディングページはweb上に公開されなくなり、追加のアクティビティは生成されません。 未承認のランディングページとそのFacebook タブへの訪問者には、[ フォールバックページ ](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)が表示されます。
+>未承認のランディングページはweb上に公開されなくなり、追加のアクティビティは生成されません。 未承認のランディングページとそのFacebook タブへの訪問者には、[&#x200B; フォールバックページ &#x200B;](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md)が表示されます。
 
 ## ランディングページの削除 {#delete-a-landing-page}
 
@@ -78,7 +78,7 @@ ht-degree: 25%
 
 ## 複数のランディングページの削除 {#delete-multiple-landing-pages}
 
-1. メインの[!UICONTROL  デザインスタジオ ]画面で、**[!UICONTROL ランディングページ]**&#x200B;をクリックします。
+1. メインの[!UICONTROL &#x200B; デザインスタジオ &#x200B;]画面で、**[!UICONTROL ランディングページ]**&#x200B;をクリックします。
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-7.png)
 

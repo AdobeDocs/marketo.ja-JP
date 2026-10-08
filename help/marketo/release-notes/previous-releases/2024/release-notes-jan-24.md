@@ -217,7 +217,7 @@ ht-degree: 90%
 
 * **ワンクリックリスト登録解除の更新**：Gmail と Yahoo は、2024年2月1日（PT）に発効したいくつかの新しい送信者要件を実装しました。 [その概要と影響について説明します](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}。
 
-* **リード APIの同期の更新**: [ リード API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}の動作は、`unsubscribed` フィールドの更新に関して少し調整されました。 現在は、値として `null` を渡すと、`false` の値を渡すのと同じになります。
+* **リード APIの同期の更新**: [&#x200B; リード API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}の動作は、`unsubscribed` フィールドの更新に関して少し調整されました。 現在は、値として `null` を渡すと、`false` の値を渡すのと同じになります。
 
 * **Marketo Engage Forms jQuery 1.x**:2024年1月のリリースでは、jQuery for Marketo Engage FormsをjQuery 3.xにアップデートします。 これは、古いバージョンのjQueryに依存するカスタムフォーム実装に影響を与える可能性があります。 詳しくは、[こちらを参照](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}してください。
 

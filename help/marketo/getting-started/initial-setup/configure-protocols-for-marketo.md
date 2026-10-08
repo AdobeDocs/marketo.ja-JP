@@ -295,7 +295,7 @@ DMARC には 2 種類のアライメント、つまり DKIM アライメント�
 
   * ブランドの Return-Path ドメインに対して DMARC を設定します
 
-* 専用IPを介してMarketo Engageからメールを送信しており、ブランド化されたリターンパスをまだ実装していない場合、または使用しているかどうかわからない場合は、[Adobe サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}でチケットを開いてください。
+* 専用IPを介してMarketo Engageからメールを送信しており、ブランド化されたリターンパスをまだ実装していない場合、または使用しているかどうかわからない場合は、[Adobe サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}でチケットを開いてください。
 
 * Marketo Engageから共有IP プールを介してメールを送信する場合は、信頼済みIPの対象となるかどうかを[ここで](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}適用して確認できます。 Marketo の信頼済み IP から送信するユーザには、ブランドの Return-Path が無料で提供されます。 このプログラムの承認を受けた場合は、Adobe サポートに連絡してブランディングした return-path を設定してください。
 
@@ -315,11 +315,11 @@ MX レコードを使用すると、メールを送信するドメインにメ�
 
 ### Web フック
 
-Marketo Engage[Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}は、アウトバウンド統合メカニズムです。 スマートキャンペーンの一部として[ Webhook を呼び出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"}フローアクションが実行されると、外部の web サービスに対して HTTP リクエストが行われます。 Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
+Marketo Engage[Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}は、アウトバウンド統合メカニズムです。 スマートキャンペーンの一部として[&#x200B; Webhook を呼び出し](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"}フローアクションが実行されると、外部の web サービスに対して HTTP リクエストが行われます。 Web サービス公開者が、外部の web サービスが存在するネットワークのファイアウォールで許可リストを使用している場合、公開者は以下に示す IP アドレスブロックを許可リストに追加する必要があります。
 
 ### CRM 同期
 
-Marketo Engage[Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}と[ Microsoft Dynamics同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}は、CRM ベンダーによって公開された API へのアウトバウンド HTTP リクエストを行う統合メカニズムです。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
+Marketo Engage[Salesforce CRM 同期](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"}と[&#x200B; Microsoft Dynamics同期](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"}は、CRM ベンダーによって公開された API へのアウトバウンド HTTP リクエストを行う統合メカニズムです。 お客様の IT 組織が、以下の IP アドレスブロックのいずれからも CRM ベンダーの API へのアクセスをブロックしていないことを確認する必要があります。
 
 ### Marketo Engageのアウトバウンド IP アドレス ブロック
 

@@ -33,7 +33,7 @@ RTP JavaScript タグは、web パーソナライゼーションが web アク�
 
 >[!NOTE]
 >
->**web サイトのhtml コードからタグを削除する必要はありません。** [!UICONTROL  アカウント設定]で制御します。
+>**web サイトのhtml コードからタグを削除する必要はありません。** [!UICONTROL &#x200B; アカウント設定]で制御します。
 
 ## タグの有効化または無効化 {#enable-or-disable-the-tag}
 

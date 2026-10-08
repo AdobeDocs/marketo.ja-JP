@@ -20,7 +20,7 @@ ht-degree: 48%
 
 [!DNL Sales Connect] は、[!DNL Salesforce] に情報をログに適切に記録するのに役立つ取引先責任者 ID またはリード ID（[!DNL Salesforce] ID とも呼ばれます）を使用します。 [!DNL Sales Connect] で取引先責任者に [!DNL Salesforce] ID を添付する方法はいくつかあります。
 
-[ セールスコネクトへのプッシュ ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)：セールスコネクトへのプッシュを使用すると、で連絡先が作成されます
+[&#x200B; セールスコネクトへのプッシュ &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md)：セールスコネクトへのプッシュを使用すると、で連絡先が作成されます
 [!DNL Sales Connect]には、リード/取引先責任者を含むすべての主要な連絡先情報が含まれます
 [!DNL Salesforce] ID。
 

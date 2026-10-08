@@ -29,7 +29,7 @@ ht-degree: 89%
 
 >[!PREREQUISITES]
 >
->* [ [!DNL GoToWebinar]  を  [!DNL LaunchPoint]  サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
+>* [&#x200B; [!DNL GoToWebinar]  を  [!DNL LaunchPoint]  サービスとして追加](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* 適切な[フローアクション](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)を設定して、エンゲージメントをトラック
 
@@ -69,7 +69,7 @@ Marketo イベントを作成して [!DNL GoToWebinar] ウェビナーを関連�
 
 >[!TIP]
 >
->さらに[!DNL GoToWebinar]件のヘルプが必要な場合は、[ ヘルプサイト ](https://support.logmeininc.com/gotowebinar)を参照してください。
+>さらに[!DNL GoToWebinar]件のヘルプが必要な場合は、[&#x200B; ヘルプサイト &#x200B;](https://support.logmeininc.com/gotowebinar)を参照してください。
 
 次に、Marketoに進みます。
 
@@ -121,7 +121,7 @@ Marketo イベントを作成して [!DNL GoToWebinar] ウェビナーを関連�
    >
    >Marketo にデータが表示されるまでには、最大 48 時間かかる場合があります。 しばらく待っても何も表示されない場合は、イベントの「**[!UICONTROL 概要]**」タブの[!UICONTROL イベントアクション]メニューから「**[!UICONTROL ウェビナープロバイダーから更新]**」を選択します。
 
-ウェビナーに新規登録したリードは、[!UICONTROL 新規ステータス]が「登録」に設定されたときに、[!UICONTROL プログラムステータスを変更]フローステップによってウェビナープロバイダーにプッシュされます。 その他のステータスでは、その人物はウェビナープロバイダー側にプッシュされません。 また、[!UICONTROL  プログラムステータスの変更] フローステップを#1し、[!UICONTROL 電子メールの送信] フローステップを#2します。
+ウェビナーに新規登録したリードは、[!UICONTROL 新規ステータス]が「登録」に設定されたときに、[!UICONTROL プログラムステータスを変更]フローステップによってウェビナープロバイダーにプッシュされます。 その他のステータスでは、その人物はウェビナープロバイダー側にプッシュされません。 また、[!UICONTROL &#x200B; プログラムステータスの変更] フローステップを#1し、[!UICONTROL 電子メールの送信] フローステップを#2します。
 
 ## スケジュールの表示  {#viewing-the-schedule}
 

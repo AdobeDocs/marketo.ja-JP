@@ -46,7 +46,7 @@ ht-degree: 53%
 
 ## フィールド {#fields}
 
-アクティビティに関連付ける[追加フィールド ](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)を追加できます。 プライマリフィールドと同じように、スマートリストのフィルター条件として使用できます。
+アクティビティに関連付ける[追加フィールド &#x200B;](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)を追加できます。 プライマリフィールドと同じように、スマートリストのフィルター条件として使用できます。
 
 ## はじめに {#getting-started}
 

@@ -63,25 +63,25 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;は、効率的な�
 
 1. _Adobe Experience Manager Cloud Services_&#x200B;の横にある&#x200B;**Edit**&#x200B;をクリックします。
 
-   ![編集をクリック ](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
+   ![編集をクリック &#x200B;](assets/access-the-ai-assistant-content-accelerator-2.png){width="400" zoomable="yes"}
 
 1. 1つ以上のリポジトリを選択します。
 
-   ![ リポジトリを選択](assets/access-the-ai-assistant-content-accelerator-3.png){width="800" zoomable="yes"}
+   ![&#x200B; リポジトリを選択](assets/access-the-ai-assistant-content-accelerator-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
    >* Marketo Engage サブスクリプションと同じIMS組織に関連付けられているリポジトリのみが一覧表示されます。
    >
-   >* Marketo Engageは、配信層のリポジトリのみをサポートします。 オーサー層を使用しており、それを変換する場合は、[Adobe Experience Manager サポート ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources)にお問い合わせください。
+   >* Marketo Engageは、配信層のリポジトリのみをサポートします。 オーサー層を使用しており、それを変換する場合は、[Adobe Experience Manager サポート &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources)にお問い合わせください。
 
-1. リポジトリを設定するには、[ サービス資格情報の証明書](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)を追加する必要があります。 「**+証明書を追加**」ボタンをクリックします。
+1. リポジトリを設定するには、[&#x200B; サービス資格情報の証明書](https://experienceleague.adobe.com/ja/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials)を追加する必要があります。 「**+証明書を追加**」ボタンをクリックします。
 
    ![証明書を追加](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}
 
 1. 証明書（JSON ファイルのみ）をドラッグ&amp;ドロップするか、コンピューターから選択します。 終了したら「**追加**」をクリックします。
 
-   ![ コンピューター上の証明書を探します](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
+   ![&#x200B; コンピューター上の証明書を探します](assets/access-the-ai-assistant-content-accelerator-5.png){width="600" zoomable="yes"}
 
 1. 設定されたリポジトリが、ステータスと有効期限とともに以下に表示されます。 省略記号ボタン （**...**）をクリックします 証明書を表示します。 それ以外の場合は完了です。
 
@@ -153,4 +153,4 @@ Adobe Experience Manager _Assets as a Cloud Service_&#x200B;は、効率的な�
 
 * 検索フィールドにテキストを入力して、アセット名に一致するアセットの表示アイテムをフィルタリングします。
 
-![ フィルターと検索フィールドを使用してアセットを検索](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
+![&#x200B; フィルターと検索フィールドを使用してアセットを検索](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}

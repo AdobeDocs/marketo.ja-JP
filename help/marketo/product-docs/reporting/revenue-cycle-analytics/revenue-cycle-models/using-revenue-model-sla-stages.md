@@ -27,7 +27,7 @@ SLAは「service level agreement」を表します。 これらのステージ�
 
 ## SLA ステージの追加 {#add-an-sla-stage}
 
-1. 収益サイクルモデルの SLA ステージを追加するには、[!UICONTROL My Marketo ]ホーム画面の「**[!UICONTROL 分析]**」ボタンをクリックします。
+1. 収益サイクルモデルの SLA ステージを追加するには、[!UICONTROL My Marketo &#x200B;]ホーム画面の「**[!UICONTROL 分析]**」ボタンをクリックします。
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 

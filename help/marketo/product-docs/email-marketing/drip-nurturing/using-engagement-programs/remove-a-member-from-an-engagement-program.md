@@ -39,7 +39,7 @@ ht-degree: 61%
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
-   [ スマートリスト ](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)で定義したすべてのメンバーは、このエンゲージメントプログラムに参加しなくなります。
+   [&#x200B; スマートリスト &#x200B;](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)で定義したすべてのメンバーは、このエンゲージメントプログラムに参加しなくなります。
 
 ## ユーザーの一時停止  {#pause-people}
 

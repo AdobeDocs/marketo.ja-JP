@@ -39,7 +39,7 @@ ht-degree: 7%
 
 新しいAdobe Marketo Engage インスタンスへようこそ。 強力なMA機能を利用して、マーケティングタスクやワークフローを合理化、自動化、測定する準備を整えましょう。
 
-この「新しいMarketo Engage インスタンスの実装」ガイドでは、長期的な健全性と運用効率を確保するために、インスタンスをシームレスに実装するためのベストプラクティスについて説明します。 各チェックリストには、設定の進行状況を追跡するための貴重な手順が用意されています。 [ ダウンロード可能なチェックリスト ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}を使用して、今後のインスタンス監査とユーザーのオンボーディングに向けて作業を文書化します。
+この「新しいMarketo Engage インスタンスの実装」ガイドでは、長期的な健全性と運用効率を確保するために、インスタンスをシームレスに実装するためのベストプラクティスについて説明します。 各チェックリストには、設定の進行状況を追跡するための貴重な手順が用意されています。 [&#x200B; ダウンロード可能なチェックリスト &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}を使用して、今後のインスタンス監査とユーザーのオンボーディングに向けて作業を文書化します。
 
 ## 初期設定 {#initial-setup}
 
@@ -53,7 +53,7 @@ ht-degree: 7%
 
 ## 新しいMarketo Engage インスタンスのベストプラクティスのチェックリスト {#best-practice-checklists-new-instance}
 
-Marketo Engage インスタンス [新しい実装管理者チェックリスト ](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}をダウンロードするか、以下のオンラインガイドを参照してください。
+Marketo Engage インスタンス [新しい実装管理者チェックリスト &#x200B;](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/assets/adobe-marketo-engage-new-instance-admin-checklist.xlsx){target="_blank"}をダウンロードするか、以下のオンラインガイドを参照してください。
 
 * [管理者セクション](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 

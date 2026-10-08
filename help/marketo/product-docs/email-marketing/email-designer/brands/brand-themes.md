@@ -77,7 +77,7 @@ ht-degree: 10%
 
 ![](assets/brand-themes-8.png)
 
-編集が完了したら、戻る矢印（![戻る矢印アイコン ](assets/icon-back-arrow.png)）をクリックして戻ります。
+編集が完了したら、戻る矢印（![戻る矢印アイコン &#x200B;](assets/icon-back-arrow.png)）をクリックして戻ります。
 
 バリエーションを編集するには、その鉛筆アイコンをクリックします。
 
@@ -387,7 +387,7 @@ _列の間隔_&#x200B;を使用して、グリッド内の間隔を制御しま�
 
 ### フラグメント内の {#in-your-fragments}
 
-1. 手順に従って、[ フラグメントを作成](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment)します。
+1. 手順に従って、[&#x200B; フラグメントを作成](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment)します。
 
 1. **[設定](#settings)**&#x200B;にあるオプションを使用して、コンテンツテーマをデザインします。
 

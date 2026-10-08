@@ -24,7 +24,7 @@ ht-degree: 70%
 ---
 # ランディングページのタイトルとメタデータの編集 {#edit-landing-page-title-and-metadata}
 
-Marketoでは、SEO目的でランディングページの[ メタタグを編集したり](https://www.w3schools.com/tags/tag_meta.asp)HTMLの`<head>`部分をカスタマイズしたりできます。
+Marketoでは、SEO目的でランディングページの[&#x200B; メタタグを編集したり](https://www.w3schools.com/tags/tag_meta.asp)HTMLの`<head>`部分をカスタマイズしたりできます。
 
 1. ランディングページを選択して、「**[!UICONTROL ドラフトの編集]**」をクリックします。
 

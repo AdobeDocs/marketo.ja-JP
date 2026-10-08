@@ -67,7 +67,7 @@ CX Enterprise Coworker for Marketo Engageは、Adobe Marketo Engage内のネイ�
 
 ## 可用性とロールアウトステータス
 
-**実施要件：**[コア Gen-AI 条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意した Marketo Engage ユーザーのみが、プロビジョニングを利用できます。
+**実施要件：**&#x200B;[コア Gen-AI 条件と補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意した Marketo Engage ユーザーのみが、プロビジョニングを利用できます。
 
 **ロールアウトモデル：**&#x200B;デプロイメントは、アルファ版およびプライベートベータ版を通じて、より広範なパブリックベータ版へと拡大し、最終的に一般提供に至ります。
 

@@ -90,4 +90,4 @@ ht-degree: 83%
 
    >[!TIP]
    >
-   >アカウントを保存した後、[ [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) で一致したオーディエンスを使用してターゲティングできます。
+   >アカウントを保存した後、[&#x200B; [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) で一致したオーディエンスを使用してターゲティングできます。

@@ -133,6 +133,6 @@ Marketo Engage では、デフォルトで、セキュリティで保護され�
 
 * **カスタム SSL**：カスタム SSL が必要な場合は、[サポートチケット](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}を送信してください。 SSL 作成にセルフサービスチェックボックスを使用しないでください。
 
-* **既存の SSL**：ドメインの追加中に、事前に手動で作成した可能性のある既存の SSL がシステムによってチェックされます。 この検証が発生した場合は、SSL 作成を選択せずにドメインを作成すると、SSL が接続されます。 詳細またはオプションについては、[ サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
+* **既存の SSL**：ドメインの追加中に、事前に手動で作成した可能性のある既存の SSL がシステムによってチェックされます。 この検証が発生した場合は、SSL 作成を選択せずにドメインを作成すると、SSL が接続されます。 詳細またはオプションについては、[&#x200B; サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
 
-* **ドメインの削除**: ドメイン **を自動的に削除しても、SSL証明書は削除されません**。 このガードレールは、web サイトに SSL 証明書がない結果となるユーザーエラーを防ぎます。 SSL証明書を削除する場合は、[ サポートにお問い合わせください](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。
+* **ドメインの削除**: ドメイン **を自動的に削除しても、SSL証明書は削除されません**。 このガードレールは、web サイトに SSL 証明書がない結果となるユーザーエラーを防ぎます。 SSL証明書を削除する場合は、[&#x200B; サポートにお問い合わせください](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}。

@@ -43,7 +43,7 @@ ht-degree: 57%
 
 1. [!DNL WordPress] アカウントに管理者ユーザとしてログインします。
 
-   a. **[!UICONTROL アピアランス]**&#x200B;で、**[!UICONTROL カスタム JavaScript]**に移動します。
+   a. **[!UICONTROL アピアランス]**&#x200B;で、**[!UICONTROL カスタム JavaScript]**&#x200B;に移動します。
    b. 既存のコードの直後にRTP Javascript タグを貼り付けます。
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)

@@ -60,7 +60,7 @@ Adobe Express エディターにアクセスするには、次の2つの方法�
 
 1. 編集する画像を選択します。
 
-   ![画像の名前をクリック ](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
+   ![画像の名前をクリック &#x200B;](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -70,7 +70,7 @@ Adobe Express エディターにアクセスするには、次の2つの方法�
 
 1. 画像&#x200B;_詳細_ タブで、「**[!UICONTROL Adobe Expressで編集]**」をクリックします。
 
-   ![Adobe Expressで編集ボタンをクリック ](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
+   ![Adobe Expressで編集ボタンをクリック &#x200B;](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -102,7 +102,7 @@ Adobe Express エディターにアクセスするには、次の2つの方法�
 
 ### エンタープライズライセンスを持つユーザー {#users-with-an-enterprise-license}
 
-Adobe Expressのエンタープライズライセンスをお持ちの場合は、Express エディター全体にアクセスできます。 カラー、明るさ、シャープネス、コントラスト、サイズなどの画像設定を調整できます。 「AI マジック」オプションを使用すると、背景の削除、オブジェクトの挿入と削除、画像の一部の消去を行うことができます。 各設定について詳しくは、[Adobe Express ユーザーガイド ](https://helpx.adobe.com/jp/express/user-guide.html){target="_blank"}を参照してください。
+Adobe Expressのエンタープライズライセンスをお持ちの場合は、Express エディター全体にアクセスできます。 カラー、明るさ、シャープネス、コントラスト、サイズなどの画像設定を調整できます。 「AI マジック」オプションを使用すると、背景の削除、オブジェクトの挿入と削除、画像の一部の消去を行うことができます。 各設定について詳しくは、[Adobe Express ユーザーガイド &#x200B;](https://helpx.adobe.com/jp/express/user-guide.html){target="_blank"}を参照してください。
 
 >[!IMPORTANT]
 >
@@ -119,7 +119,7 @@ Adobe Expressのエンタープライズライセンスをお持ちの場合は�
 
 これらの機能には、画像ページの左側からアクセスできます。
 
-![Adobe Expressの編集オプションを表示する画像ページ ](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
+![Adobe Expressの編集オプションを表示する画像ページ &#x200B;](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### 画像のサイズ変更 {#resize-image}
 
@@ -185,6 +185,6 @@ PNG ファイルをJPEG ファイルに、またはJPEG ファイルをPNG フ�
 
 すべての編集が完了したら、**保存**&#x200B;をクリックして作業を保存します。
 
-![保存ボタン ](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
+![保存ボタン &#x200B;](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 編集した画像は、元の画像と同じフォルダーに保存されます。

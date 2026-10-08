@@ -88,13 +88,13 @@ ht-degree: 94%
 
 ![](assets/advanced-search-overview-9.png)
 
-_**ステータス：送信済み**_
+_&#x200B;**ステータス：送信済み**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 送信したメールアクティビティ別にフィルターします。 [!UICONTROL 表示回数]／[!UICONTROL 表示なし]、[!UICONTROL クリック数]／[!UICONTROL クリックなし]、[!UICONTROL 返信数]／[!UICONTROL 返信なし]を選択できます。
 
-_**ステータス：保留中**_
+_&#x200B;**ステータス：保留中**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -119,7 +119,7 @@ _**ステータス：保留中**_
  </tr>
 </table>
 
-_**ステータス：未配信**_
+_&#x200B;**ステータス：未配信**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

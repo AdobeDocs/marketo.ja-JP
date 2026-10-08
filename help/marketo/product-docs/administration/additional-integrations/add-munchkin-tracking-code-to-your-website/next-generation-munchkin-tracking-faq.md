@@ -112,4 +112,4 @@ Winter &#39;16 リリースの後、スマートリストに「Is Anonymous」�
 
 ## まだ質問があります。 どのようにしたら回答を得ることができますか？ {#i-have-more-questions-how-do-i-get-them-answered}
 
-[Marketo コミュニティ ](https://experienceleaguecommunities.adobe.com/?profile.language=ja){target="_blank"}にアクセスします。 また、Marketo サポートにお問い合わせください。 喜んで質問に答えてくれます。
+[Marketo コミュニティ &#x200B;](https://experienceleaguecommunities.adobe.com/?profile.language=ja){target="_blank"}にアクセスします。 また、Marketo サポートにお問い合わせください。 喜んで質問に答えてくれます。

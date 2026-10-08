@@ -61,4 +61,4 @@ ht-degree: 77%
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-ランディングページエディターを閉じて、[ ランディングページのドラフトを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)します。
+ランディングページエディターを閉じて、[&#x200B; ランディングページのドラフトを承認](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md)します。

@@ -43,4 +43,4 @@ ht-degree: 9%
 
 >[!TIP]
 >
->「購読解除メッセージを追加」設定を無効にした場合は、購読解除フッターをテンプレートに追加して、コミュニケーションにオプトアウトオプションがあることを確認することをお勧めします。 これは、各テンプレートに独自のカスタムメッセージを追加するか、`{{team_unsubscribe}}` [動的フィールド ](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}を使用することで実行できます。
+>「購読解除メッセージを追加」設定を無効にした場合は、購読解除フッターをテンプレートに追加して、コミュニケーションにオプトアウトオプションがあることを確認することをお勧めします。 これは、各テンプレートに独自のカスタムメッセージを追加するか、`{{team_unsubscribe}}` [動的フィールド &#x200B;](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}を使用することで実行できます。

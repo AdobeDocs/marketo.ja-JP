@@ -22,7 +22,7 @@ Gmail に接続すると、返信トラッキング、Gmail 配信チャネル�
 
 >[!CAUTION]
 >
->フィルター](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}またはGmail アカウント内のルールを使用して[ メールを自動的に読み取り済みとしてマークしている場合、返信トラッキングに問題が発生する可能性があります。 Gmail で返信トラッキングを使用する場合に、メールを自動的に既読としてマークするルールを無効にすることをお勧めします。
+>フィルター[&#128279;](https://support.google.com/mail/answer/6579?hl=en#zippy=%2Ccreate-a-filter%2Cedit-or-delete-filters){target="_blank"}またはGmail アカウント内のルールを使用して メールを自動的に読み取り済みとしてマークしている場合、返信トラッキングに問題が発生する可能性があります。 Gmail で返信トラッキングを使用する場合に、メールを自動的に既読としてマークするルールを無効にすることをお勧めします。
 
 1. [!DNL Sales Connect] で、歯車アイコンをクリックし、「**[!UICONTROL 設定]**」を選択します。
 

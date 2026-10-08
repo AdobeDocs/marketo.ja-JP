@@ -67,8 +67,8 @@ _上記の前提条件に従った_&#x200B;後、Marketo管理者は、ユーザ
 ## ユースケース {#use-cases}
 
 * [電子メールの件名および/またはプリヘッダー](#create-a-subject-line-preheader)を作成する
-* [ メールの特定のセクション ](#create-content-for-a-specific-section)のコンテンツを作成する
-* 選択したテンプレートから[ メール全体](#create-an-entire-email)を作成
+* [&#x200B; メールの特定のセクション &#x200B;](#create-content-for-a-specific-section)のコンテンツを作成する
+* 選択したテンプレートから[&#x200B; メール全体](#create-an-entire-email)を作成
 
 ## 件名/プリヘッダーの作成 {#create-a-subject-line-preheader}
 
@@ -80,7 +80,7 @@ _上記の前提条件に従った_&#x200B;後、Marketo管理者は、ユーザ
 
 新しい電子メールDesignerを使用して電子メールを作成する場合は、一時的な件名を入力します。
 
-電子メールを作成した後、件名は右側の&#x200B;_詳細_&#x200B;列にあります。 コンテンツを生成ボタン（![ フィルターアイコン ](assets/icon-ai-assistant.png)）をクリックすると、生成AI機能を使用して新しい件名を作成する際のサポートを受けることができます。
+電子メールを作成した後、件名は右側の&#x200B;_詳細_&#x200B;列にあります。 コンテンツを生成ボタン（![&#x200B; フィルターアイコン &#x200B;](assets/icon-ai-assistant.png)）をクリックすると、生成AI機能を使用して新しい件名を作成する際のサポートを受けることができます。
 
 ![](assets/use-the-ai-assistant-2.png)
 
@@ -164,7 +164,7 @@ _上記の前提条件に従った_&#x200B;後、Marketo管理者は、ユーザ
 
 ## 選択したテンプレートからメール全体を作成 {#create-an-entire-email}
 
-このオプションは、メールが既存のテンプレートを使用して作成された場合にのみ使用できます。 これは、電子メールDesignerで提供される標準テンプレート、既に作成した保存テンプレート、またはHTMLの読み込みオプションを使用して読み込んだテンプレートです。 このオプションは、電子メールに「[ ゼロからデザイン ](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch)」を選択した場合は使用できません。
+このオプションは、メールが既存のテンプレートを使用して作成された場合にのみ使用できます。 これは、電子メールDesignerで提供される標準テンプレート、既に作成した保存テンプレート、またはHTMLの読み込みオプションを使用して読み込んだテンプレートです。 このオプションは、電子メールに「[&#x200B; ゼロからデザイン &#x200B;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch)」を選択した場合は使用できません。
 
 テンプレート内のコンポーネントを選択せずにテンプレートを選択し、メールDesignerの「コンテンツを生成」ボタンをクリックします。
 

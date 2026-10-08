@@ -45,7 +45,7 @@ Marketo Engage は、毎日、常に [!DNL Veeva] CRM と同期します。 各�
 
 ## 留意事項 {#things-to-know}
 
-* [ [!DNL Veeva]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} 用に Marketo で入力した資格情報は、データの同期に使用されます。 その資格情報でアクセスできるデータのみが含まれます。
+* [&#x200B; [!DNL Veeva]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} 用に Marketo で入力した資格情報は、データの同期に使用されます。 その資格情報でアクセスできるデータのみが含まれます。
 
 * [!DNL Veeva] CRM は force.com に基づいており、Marketo Engage のプラットフォームによるリッチエクスペリエンスが、この同期に継承されます。
 

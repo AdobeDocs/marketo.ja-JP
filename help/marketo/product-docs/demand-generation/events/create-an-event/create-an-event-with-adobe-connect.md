@@ -37,7 +37,7 @@ Adobe Connect と同期すると、ウェビナーへの登録と参加を Marke
 >* [Adobe Connect と Marketo のリンク](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [新しいイベントプログラムの作成](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-まず、Adobe Connectでミーティングまたはセミナーが作成されていることを確認します。 ヘルプが必要な場合は、[Adobe Connect ユーザーガイド ](https://helpx.adobe.com/jp/adobe-connect/using/user-guide.html)を参照してください。
+まず、Adobe Connectでミーティングまたはセミナーが作成されていることを確認します。 ヘルプが必要な場合は、[Adobe Connect ユーザーガイド &#x200B;](https://helpx.adobe.com/jp/adobe-connect/using/user-guide.html)を参照してください。
 
 Adobe Connect で作成するミーティングとセミナーは、Marketo で資格情報を入力するときに指定するフォルダーに作成する必要があります。 ミーティングやセミナーを作成したら、確認メールや ICS ファイルで使用する関連の運営情報（電話番号など）を書きとめておきます。
 
@@ -81,7 +81,7 @@ Adobe Connect で作成するミーティングとセミナーは、Marketo で�
    >
    >配信停止やマーケティング中断したリードにも届くように、確認メールは&#x200B;**オペレーショナル**&#x200B;メールに設定してください。
 
-   ウェビナーに新規登録したリードは、[!UICONTROL 新規ステータス]が「登録」に設定されたときに、[!UICONTROL プログラムステータスを変更]フローステップによってウェビナープロバイダーにプッシュされます。 その他のステータスでは、その人物はウェビナープロバイダー側にプッシュされません。 また、[!UICONTROL  プログラムステータスの変更] フローステップを#1し、[!UICONTROL 電子メールの送信] フローステップを#2します。
+   ウェビナーに新規登録したリードは、[!UICONTROL 新規ステータス]が「登録」に設定されたときに、[!UICONTROL プログラムステータスを変更]フローステップによってウェビナープロバイダーにプッシュされます。 その他のステータスでは、その人物はウェビナープロバイダー側にプッシュされません。 また、[!UICONTROL &#x200B; プログラムステータスの変更] フローステップを#1し、[!UICONTROL 電子メールの送信] フローステップを#2します。
 
    ![](assets/adobe.png)
 

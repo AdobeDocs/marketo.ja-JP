@@ -26,11 +26,11 @@ ht-degree: 58%
 
 >[!PREREQUISITES]
 >
->この機能を使用するには、バージョン 1.8000 以降に [ [!DNL Sales Insight] [!DNL Salesforce] パッケージを更新](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}します。
+>この機能を使用するには、バージョン 1.8000 以降に [&#x200B; [!DNL Sales Insight] [!DNL Salesforce] パッケージを更新](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}します。
 
 >[!IMPORTANT]
 >
->* 以前にすべてのプロファイルに[!DNL Sales Insight] アクセス権を付与したり、すべてのユーザーに[!DNL Sales Insight]を実装したりしたことがある場合は、この権限セットを使用するには、[ プロファイルレベルのアクセス権](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}を削除する必要があります。
+>* 以前にすべてのプロファイルに[!DNL Sales Insight] アクセス権を付与したり、すべてのユーザーに[!DNL Sales Insight]を実装したりしたことがある場合は、この権限セットを使用するには、[&#x200B; プロファイルレベルのアクセス権](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"}を削除する必要があります。
 >
 >* MSIの全機能を使用するには、標準のSalesforce ライセンスが必要です。 Salesforce Platform ライセンス（制限付きライセンスクラス）を持つユーザーには、特定のアクションの実行や一部のタブへのアクセスに関するエラーが表示される場合があります。
 

@@ -41,7 +41,7 @@ Salesforce では、リード／取引先責任者のレコードにある「メ
 
 Marketo では、人物のレコードの「情報」タブにある購読解除ボックスをオフにします。
 
-![ユーザレコードの登録解除ボックスをオフにする ](assets/durable-unsubscribe-2.png)
+![ユーザレコードの登録解除ボックスをオフにする &#x200B;](assets/durable-unsubscribe-2.png)
 
 1 つまたは複数のユーザで、「**[!UICONTROL データ値を変更]**」フローステップを実行します。
 

@@ -90,7 +90,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **アクティビティ API アップデート**: 4月26日に、[Marketo REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}を使用してアクティビティを取得すると返される、web ベースおよび電子メールベースのアクティビティにいくつかの新しい属性を追加します。 次のアクティビティには、ブラウザー、プラットフォーム、デバイス、ユーザーエージェントの属性が含まれるようになりました。 [ アクティビティタイプを取得](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} エンドポイントを呼び出して、各アクティビティの属性の詳細を確認します。
+* **アクティビティ API アップデート**: 4月26日に、[Marketo REST API](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}を使用してアクティビティを取得すると返される、web ベースおよび電子メールベースのアクティビティにいくつかの新しい属性を追加します。 次のアクティビティには、ブラウザー、プラットフォーム、デバイス、ユーザーエージェントの属性が含まれるようになりました。 [&#x200B; アクティビティタイプを取得](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} エンドポイントを呼び出して、各アクティビティの属性の詳細を確認します。
 
 **Web ベースのアクティビティ**
 

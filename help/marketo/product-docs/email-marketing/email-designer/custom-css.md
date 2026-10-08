@@ -61,9 +61,9 @@ Marketo Engageの電子メールDesignerに独自のカスタム CSSを直接追
 
    >[!NOTE]
    >
-   >ロックされたコンテンツ ](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)を含む[ テンプレートを使用する場合、コンテンツにカスタム CSSを追加することはできません。 ボタンラベルが&#x200B;**[!UICONTROL カスタム CSS]**&#x200B;を表示に変更され、表示されるカスタム CSSはすべて読み取り専用です。
+   >ロックされたコンテンツ [&#128279;](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md)を含む テンプレートを使用する場合、コンテンツにカスタム CSSを追加することはできません。 ボタンラベルが&#x200B;**[!UICONTROL カスタム CSS]**&#x200B;を表示に変更され、表示されるカスタム CSSはすべて読み取り専用です。
 
-1. CSSがコンテンツに適用されていることを確認します。 問題が発生しない場合は、「[ トラブルシューティング ](#troubleshooting)」セクションを確認してください。
+1. CSSがコンテンツに適用されていることを確認します。 問題が発生しない場合は、「[&#x200B; トラブルシューティング &#x200B;](#troubleshooting)」セクションを確認してください。
 
    ![](assets/custom-css-3.png)
 
@@ -226,7 +226,7 @@ body {
 
 E メールデザイナーに読み込んだコンテンツでカスタム CSS を使用する場合は、次の点を考慮します。
 
-* CSSを含む外部HTML](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) コンテンツを[読み込む場合、そのコンテンツを変換しない限り、**[!UICONTROL 互換性モード]**&#x200B;になり、**[!UICONTROL CSS スタイル]** セクションは使用できません。
+* CSSを含む外部HTML[&#128279;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#import-html) コンテンツを読み込む場合、そのコンテンツを変換しない限り、**[!UICONTROL 互換性モード]**&#x200B;になり、**[!UICONTROL CSS スタイル]** セクションは使用できません。
 
 * Email Designerで作成されたコンテンツを読み込む際に、**[!UICONTROL カスタム CSSを追加]** オプションを通じて適用されたCSSが含まれる場合、以前に適用されたCSSは同じオプションから表示され、編集可能になります。
 

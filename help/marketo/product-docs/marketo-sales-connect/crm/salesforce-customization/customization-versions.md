@@ -21,7 +21,7 @@ ht-degree: 25%
 Marketo Sales Connect カスタマイズ機能（[!DNL Salesforce] 用）のアップデートに関する詳細を以下に示します。
 
 **バージョン 1**
-アクティビティフィールド、連絡先フィールド、リードフィールド、アカウントフィールド、商談フィールド、ボタン、[これらのMarketo フィールド ](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)。
+アクティビティフィールド、連絡先フィールド、リードフィールド、アカウントフィールド、商談フィールド、ボタン、[これらのMarketo フィールド &#x200B;](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)。
 
 **バージョン 1.1**
 アクティビティフィールド、連絡先フィールド、リードフィールド、アカウントフィールド、商談フィールド、ボタン、Marketo フィールドが、[!DNL Salesforce Lightning]のページレイアウトで使用できるようになりました。

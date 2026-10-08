@@ -31,7 +31,7 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
 
 >[!PREREQUISITES]
 >
->* MSI の設定を開始する前に、Marketo インスタンスで「MSI 非ネイティブ」機能が有効になっていること。 まだ購入していない場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。 この機能をまだ購入していない場合は、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>* MSI の設定を開始する前に、Marketo インスタンスで「MSI 非ネイティブ」機能が有効になっていること。 まだ購入していない場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。 この機能をまだ購入していない場合は、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 >* [カスタム同期用 MSI パッケージ](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}をダウンロードします。
 >* MSI セットアップを備えた MS Dynamics サブスクリプション（現時点では [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"} のみをサポートしています）。
 >* Marketo REST API が[正常に設定](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}されている。 公開されている CRUD API は、非ネイティブ同期を実行するための基盤となります。
@@ -274,6 +274,6 @@ Adobe Marketo Engage アカウントが、カスタマイズされた統合ま�
 
    >[!NOTE]
    >
-   >リード/取引先責任者およびアカウントのオブジェクトタイプの場合：Marketoは、Marketo Sales Insightsを使用する際に、独自のカスタムフィールドを外部ID フィールドとして使用することをサポートしています。 このカスタマイズについてサポートが必要な場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
+   >リード/取引先責任者およびアカウントのオブジェクトタイプの場合：Marketoは、Marketo Sales Insightsを使用する際に、独自のカスタムフィールドを外部ID フィールドとして使用することをサポートしています。 このカスタマイズについてサポートが必要な場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
 
    非ネイティブ同期を成功させるには、外部フィールドを適切に使用することが重要です。 一部のビューにデータが表示されない場合は、特定のフィールドが正しく同期されていない可能性があります。 例えば、リードのアカウントの下にある MSI ウィジェットを参照したときにリードのアクティビティや関心を引くモーメントが表示されない場合は、リードの会社またはアカウントが正しく同期されていない可能性があります。 外部フィールドを指定してこのリードに対して GET リクエストを実行すると、リードが正しく同期されたかどうかを検証できます。 また、Marketo の外部セールス担当者のメールは、MS Dynamics のそのユーザーのメールと一致する必要があります。 メールが一致しない場合、MS Dynamics の「Marketo」タブにデータが表示されないことがあります。

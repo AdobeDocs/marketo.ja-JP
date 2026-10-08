@@ -33,7 +33,7 @@ RTP タグを実装するには、次のインストール手順に従います�
 
 1. [!DNL Google Tag Manager] アカウントにログインします。
 
-1. 新しい&#x200B;**[!UICONTROL タグ]** > **[!UICONTROL タグ設定]** > **[!UICONTROL カスタム HTML タグ ].**&#x200B;を追加します **RTP**&#x200B;と呼んでください。
+1. 新しい&#x200B;**[!UICONTROL タグ]** > **[!UICONTROL タグ設定]** > **[!UICONTROL カスタム HTML タグ &#x200B;].**&#x200B;を追加します **RTP**&#x200B;と呼んでください。
 
 1. **RTP アカウント**&#x200B;にログインします。
 

@@ -34,7 +34,7 @@ ht-degree: 69%
 >
 >スマートリストとランディングページパフォーマンスレポートの間に数値に違いがある場合は、スマートリストは人物に関するデータのみをフィルタリングするのに対し、ランディングページパフォーマンスレポートにはソーシャル（Facebook、Google Adsなど）が含まれている可能性があります 匿名のアクティビティを追加する必要があります。
 
-1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、[!UICONTROL ランディングページ効果][レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
+1. [レポートを作成](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md)し、[!UICONTROL ランディングページ効果]&#x200B;[レポートタイプ](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md)を選択します。
 1. [レポート時間枠を設定](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md)し、「[!UICONTROL レポート]」タブをクリックします。
 1. レポートを参照して、ランディングページの効果を評価します。
 

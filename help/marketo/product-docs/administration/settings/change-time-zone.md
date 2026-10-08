@@ -37,6 +37,6 @@ Marketo Engage サブスクリプションのタイムゾーンを変更する�
 
    >[!NOTE]
    >
-   >_言語_&#x200B;と&#x200B;_ロケール_&#x200B;はグレー表示になっています。これらの設定は[Adobe アカウントプロファイル ](https://account.adobe.com/profile){target="_blank"}でアクセスする必要があります。
+   >_言語_&#x200B;と&#x200B;_ロケール_&#x200B;はグレー表示になっています。これらの設定は[Adobe アカウントプロファイル &#x200B;](https://account.adobe.com/profile){target="_blank"}でアクセスする必要があります。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。
