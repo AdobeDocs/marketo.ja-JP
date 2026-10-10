@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: bf54ef2e3651759827fa6d040a94512f694d8f9a
+source-git-commit: 6df3337e516a4d8345ee7d1362ab36e9724cc771
 workflow-type: tm+mt
-source-wordcount: '8936'
+source-wordcount: '8940'
 ht-degree: 96%
 ---
 
@@ -484,11 +484,11 @@ ht-degree: 96%
       + [予測オーディエンスの概要](product-docs/core-marketo-concepts/predictive-audiences/getting-started-with-predictive-audiences.md)
       + [モデルとインサイト](product-docs/core-marketo-concepts/predictive-audiences/models-and-insights.md)
       + [予測フィルター](product-docs/core-marketo-concepts/predictive-audiences/predictive-filters.md)
-  + Marketo Engageの共同作業 {#coworker-for-marketo}
+  + CX Enterprise Coworker for Marketo Engage {#coworker-for-marketo}
     + [概要](product-docs/coworker-for-marketo/overview.md)
     + [設定と設定](product-docs/coworker-for-marketo/settings-setup.md)
     + [組織ルール](product-docs/coworker-for-marketo/organizational-rules.md)
-    + [Coworker Marketo Engage 版データ情報シート](product-docs/coworker-for-marketo/data-information.md)
+    + [CX Enterprise Coworker for Marketo Engageに関する資料](product-docs/coworker-for-marketo/data-information.md)
     + スキル {#skills}
       + [製品知識](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/coworker-for-marketo/skills/surface-insights.md)
