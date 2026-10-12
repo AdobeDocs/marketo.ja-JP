@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 96c214e74bfb7920e9a62204e8451bbc22e1e1b0
 workflow-type: tm+mt
-source-wordcount: '589'
-ht-degree: 95%
+source-wordcount: '619'
+ht-degree: 91%
 ---
 # 人物のリストのインポート {#import-a-list-of-people}
 
@@ -138,9 +138,9 @@ ht-degree: 95%
    >
    >読み込まないフィールドがある場合は、Marketo フィールドドロップダウンメニューで&#x200B;**無視**&#x200B;を選択します。
 
-1. **[!UICONTROL 新規顧客獲得プログラム]**&#x200B;に&#x200B;**マイトレードショープログラム**&#x200B;を選択し、「**[!UICONTROL 読み込み]**」をクリックします。
+1. _ユーザーのパーティション [が設定されている_&#x200B;場合は、ここで選択します。 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}**[!UICONTROL 新規顧客獲得プログラム]**&#x200B;に&#x200B;**マイトレードショープログラム**&#x200B;を選択し、「**[!UICONTROL 読み込み]**」をクリックします。
 
-   ![](assets/import-a-list-of-people-13.png)
+   ![](assets/import-a-list-of-people-13-new.png)
 
 1. 人物の読み込みが完了するのを待ってから、読み込みの進行状況ポップアップをクローズします。
 
