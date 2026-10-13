@@ -55,4 +55,4 @@ ht-degree: 46%
 
 >[!TIP]
 >
->[&#x200B; リストの読み込み](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} プロセス中に人物をフィルタリングする特定の人物パーティションを選択できます。
+>[&#x200B; リストの読み込み](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} プロセス中に人物をフィルタリングする特定の人物パーティションを選択できます。
