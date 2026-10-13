@@ -138,7 +138,7 @@ ht-degree: 90%
    >
    >読み込まないフィールドがある場合は、Marketo フィールドドロップダウンメニューで&#x200B;**無視**&#x200B;を選択します。
 
-1. [ ユーザーのパーティション ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}を設定している場合は、ここで目的のパーティションを選択します。 **[!UICONTROL 新規顧客獲得プログラム]**&#x200B;に&#x200B;**マイトレードショープログラム**&#x200B;を選択し、「**[!UICONTROL 読み込み]**」をクリックします。
+1. [&#x200B; ユーザーのパーティション &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions#person-partitions){target="_blank"}を設定している場合は、ここで目的のパーティションを選択します。 **[!UICONTROL 新規顧客獲得プログラム]**&#x200B;に&#x200B;**マイトレードショープログラム**&#x200B;を選択し、「**[!UICONTROL 読み込み]**」をクリックします。
 
    ![](assets/import-a-list-of-people-13-new.png)
 

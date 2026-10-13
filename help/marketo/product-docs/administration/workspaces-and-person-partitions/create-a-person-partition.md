@@ -31,7 +31,7 @@ ht-degree: 46%
 
 >[!NOTE]
 >
->詳しくは、[ ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を参照してください。
+>詳しくは、[&#x200B; ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を参照してください。
 
 1. 「**[!UICONTROL 管理者]**」領域に移動します。
 
@@ -55,4 +55,4 @@ ht-degree: 46%
 
 >[!TIP]
 >
->[ リストの読み込み](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} プロセス中に人物をフィルタリングする特定の人物パーティションを選択できます。
+>[&#x200B; リストの読み込み](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} プロセス中に人物をフィルタリングする特定の人物パーティションを選択できます。
