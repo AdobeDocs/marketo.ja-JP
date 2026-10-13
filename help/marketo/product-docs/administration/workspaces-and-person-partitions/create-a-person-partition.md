@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 72%
+source-wordcount: '128'
+ht-degree: 46%
 ---
 # 人物パーティションの作成 {#create-a-person-partition}
 
@@ -52,3 +52,7 @@ ht-degree: 72%
 パーティションを作成後、更新が表示されます。
 
 ![](assets/create-a-person-partition-5.png)
+
+>[!TIP]
+>
+>[&#x200B; リストの読み込み](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} プロセス中に人物をフィルタリングする特定の人物パーティションを選択できます。

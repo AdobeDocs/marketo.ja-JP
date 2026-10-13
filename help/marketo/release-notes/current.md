@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 18%
+source-wordcount: '578'
+ht-degree: 16%
 ---
 # リリースノート：2026年9月 {#release-notes-sep-26}
 
@@ -61,8 +61,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>読み込み時にパーティションを選択</strong>: ワークスペースとパーティションが有効になっている環境で個人レコードを読み込む際に、ローカルワークスペースのパーティションのリストからパーティションを選択できるようになりました。</td>
-   <td><i>近日リリース予定</i></td>
-   <td><i>近日リリース予定</i></td>
+   <td>リリース</td>
+   <td><a href="https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up" target="_blank">リストの読み込み</a></td>
   </tr>
   <tr>
    <td> </td>
