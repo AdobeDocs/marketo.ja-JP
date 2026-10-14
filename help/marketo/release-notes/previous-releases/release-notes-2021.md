@@ -129,7 +129,7 @@ ht-degree: 84%
 * **[拡張テストメールワークフロー（[!DNL Salesforce] CRM）](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**：拡張[!DNL Sales Insight] テストメールワークフローを使用して、営業部門の効率を向上させます。 販売者は、最大 200 人の受信者にメールを一括送信する前に、選択したメールアドレスにテスト用メールを送信できます。
 * **[メールステータスに関するインサイト（[!DNL Salesforce] CRM）](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**：ユーザが無効なメール ID または購読解除されたメールアドレスにメールを送信しようとすると、メールを送信する前に警告メッセージが表示されます。  メール配信ステータスは、[!DNL Sales Insight] の「メール」タブで確認できます。
 * **[アカウント](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout)および[商談](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout)パネルからメールを一括送信（[!DNL Salesforce] CRM）**：新しい一括アクション機能を使用することで、販売者のワークフローの効率性を向上させ、アカウント全体または商談の取引責任者リストに関わることができます。 個々の取引先責任者を扱う代わりに、「アカウント」または「商談」タブの新しいドロップダウンオプションを使用して、Marketo Engage キャンペーンにメールを送信したり、取引先責任者を追加したりできます。 リードがホットになったときに通知を受けるために、アカウントの取引先責任者をウォッチリストに追加します。
-* 非ネイティブ  [!DNL Salesforce]  CRM 統合用 **[[!DNL Sales Insight] ](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**：カスタムの Salesforce CRM 統合を使用した GA サブスクリプションは、[!DNL Sales Insight] パッケージをインストールし、販売チームが最も有望なリードや商談を優先し、やり取りできるよう支援します。
+* 非ネイティブ  [!DNL Salesforce]  CRM 統合用 **[[!DNL Sales Insight] &#x200B;](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**：カスタムの Salesforce CRM 統合を使用した GA サブスクリプションは、[!DNL Sales Insight] パッケージをインストールし、販売チームが最も有望なリードや商談を優先し、やり取りできるよう支援します。
 * **[ベストプラクティスの強化](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**：「ベストベット」タブからホットリードに素早く連絡するには、リードをメールで送信するか、Marketo Engage キャンペーンに追加します。 リードを Marketo Engage で表示するか、ウォッチリストに追加します。 [!UICONTROL おすすめ] タブでの一括アクションと並べ替えオプションにより、時間を節約し、営業部門の効率を向上させることができます。
 
 ## [!DNL Sales Connect]
@@ -284,7 +284,7 @@ ht-degree: 84%
 
 ![](assets/yellow-star.png)
 
-* **[!DNL Bizible][!DNL LinkedIn] リードジェネレーションフォーム統合**：[!DNL LinkedIn] がリードジェネレーションフォームの広告ユニットを通じてフォームの入力をキャプチャする際に発生するコンバージョンに対して収益属性を実行できるようになりました。 これらのインサイトは、フォームのパフォーマンスや有料メディアへの投資を最適化するために利用できます。[!DNL LinkedIn] リードジェネレーション Formsは、[!DNL LinkedIn]で最も急成長している有料メディア製品の1つであり、この新しい機能は、[!DNL Bizible]との既存の[!DNL LinkedIn]広告の統合に含まれています。
+* **[!DNL Bizible]&#x200B;[!DNL LinkedIn] リードジェネレーションフォーム統合**：[!DNL LinkedIn] がリードジェネレーションフォームの広告ユニットを通じてフォームの入力をキャプチャする際に発生するコンバージョンに対して収益属性を実行できるようになりました。 これらのインサイトは、フォームのパフォーマンスや有料メディアへの投資を最適化するために利用できます。[!DNL LinkedIn] リードジェネレーション Formsは、[!DNL LinkedIn]で最も急成長している有料メディア製品の1つであり、この新しい機能は、[!DNL Bizible]との既存の[!DNL LinkedIn]広告の統合に含まれています。
 
 * **Velocity ダッシュボードの改善**：より深いインサイトを得るための新しい Velocity 指標とダッシュボードフィルターを追加しました。 このダッシュボードは、マーケターが段階的なリードと商談の速度、および様々な形式のマーケティングとセールスエンゲージメントの効率を理解するために使用します。
 
@@ -296,7 +296,7 @@ ht-degree: 84%
 
 * **[!DNL Bizible]Adobe Privacy Serviceとの統合** （2021年9月に利用可能）: [!DNL Bizible]のAdobe Privacy Serviceとの統合により、Adobe Experience Cloud アプリケーション全体の重要なデータプライバシー規制（GDPRなど）へのコンプライアンスが一元化されます。 このサービスを活用し、すべてのプライバシーリクエストを一元的に管理できるようになり、[!DNL Bizible] や他のアドビ製品に対する変更リクエストがアプリケーション間で反映されるようになりました。
 
-* Adobe統合シェル **上の**[!DNL Bizible]: [!DNL Bizible]のAdobe統合シェルの導入により、ユーザーは[!DNL Bizible] アプリケーションのヘッダーバーに表示される新しい機能を利用できるようになり、サポートリソースとアプリケーション切り替えにより多くのアクセスが可能になります。 アドビ統合シェルは、[!DNL Bizible] と他の Adobe Experience Cloud アプリケーションとの間で一貫したエクスペリエンスを作成するのに役立ちます。
+* Adobe統合シェル **上の**&#x200B;[!DNL Bizible]: [!DNL Bizible]のAdobe統合シェルの導入により、ユーザーは[!DNL Bizible] アプリケーションのヘッダーバーに表示される新しい機能を利用できるようになり、サポートリソースとアプリケーション切り替えにより多くのアクセスが可能になります。 アドビ統合シェルは、[!DNL Bizible] と他の Adobe Experience Cloud アプリケーションとの間で一貫したエクスペリエンスを作成するのに役立ちます。
 
 * **[!DNL Bizible]ドメインの所有権と自己管理**：[!DNL Bizible] ユーザは、Adobe Admin Console を活用して、[!DNL Bizible] でトラッキングするドメインを管理できます。 これにより、従来は手動で行っていたプロセスがセルフサービス化され、Adobe Experience Cloud アプリケーション全体でドメインの所有権とトラッキングを管理する方法に一貫したエクスペリエンスがもたらされます。
 
@@ -354,7 +354,7 @@ ht-degree: 84%
 
 * **新しい電子メール、Web アクティビティ、匿名Web アクティビティ ダッシュボード**：新しいセールスダッシュボードを追加して、セールス担当者にリードと取引先責任者の最新の電子メールとWeb アクティビティを通知しました。 新しいフィルタリング機能により、ダッシュボードで、メールの開封数、クリック数、web ページへの訪問回数に関するインサイトが得られ、完全な顧客リストや特定の顧客が得られます。 Marketo Engage は、すべての web アクティビティを追跡し、セールスにとって重要な情報を提供し、匿名トラフィックをリードに変えます。 販売者は、リード行動に関するより深い情報を得て、すべてのタッチポイントの関連度に基づいて行動し、エンゲージメントをパーソナライズし、リードをより速く販売に変換できます。
 
-[!DNL Salesforce]**向け**[!DNL Sales Insight]
+[!DNL Salesforce]&#x200B;**向け**&#x200B;[!DNL Sales Insight]
 
 * **アカウントおよび商談レベルの[!UICONTROL 最有望見込客]**：[!DNL Sales Insight] では、セールス担当者が、自分が担当するアカウントまたは商談のすべての取引先責任者について、その取引先責任者が別のチームメンバーに割り当てられている場合でも、最有望見込客を確認できるようになりました。 これにより、アカウントと商談の所有者は、関連する取引先責任者のアクティビティについて完全な可視性を得て、アカウントまたは商談のより総合的なビューに基づいて行動できるようになります。
 

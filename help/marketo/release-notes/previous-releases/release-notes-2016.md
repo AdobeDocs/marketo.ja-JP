@@ -239,7 +239,7 @@ Marketo ユーザーログインの IP 許可リスト機能と同様に、Marke
 
 **[!DNL Microsoft Dynamics]2016**：コネクタは、[!DNL Dynamics] 2016 [!DNL Online] および [!DNL On-premise] バージョンで完全に認定されています。
 
-**プラグインのアップデートに関するドキュメントが追加されました。**[プラグインの更新に関するドキュメントの記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
+**プラグインのアップデートに関するドキュメントが追加されました。**&#x200B;[プラグインの更新に関するドキュメントの記事](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md)を参照してください。
 
 ## わかりやすいインスタンス名 {#friendly-instance-name}
 
@@ -469,7 +469,7 @@ Web サイト上で web キャンペーンが反応するまでの遅延時間�
 
 [Sales InsightとSalesforce Encryptionの互換性](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md)
 
-Market [!DNL Sales Insight] は、[!DNL Salesforce] Shield Encryption と互換性を持つようになりました。 [!DNL Sales Insight] を使用中の顧客は、[ [!DNL Appexchange] で利用可能な](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)最新の管理パッケージ（バージョン 1.4359.2）にアップグレードする必要があります。
+Market [!DNL Sales Insight] は、[!DNL Salesforce] Shield Encryption と互換性を持つようになりました。 [!DNL Sales Insight] を使用中の顧客は、[&#x200B; [!DNL Appexchange] で利用可能な](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO)最新の管理パッケージ（バージョン 1.4359.2）にアップグレードする必要があります。
 
 ## 名前付きアカウント API {#named-accounts-apis}
 
