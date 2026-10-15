@@ -11,17 +11,17 @@ feature_v2:
 subfeature_v2:
   - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
     internal-label: Release information
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 37%
+source-wordcount: '110'
+ht-degree: 36%
 ---
 
 # 以前のリリース
 
 >[!NOTE]
 >
->現在のリリースについては、[&#x200B; リリースノート &#x200B;](current.md)を参照してください。 Dynamic Chat リリースについて詳しくは、[Dynamic Chat リリースノート &#x200B;](dynamic-chat.md)を参照してください。
+>現在のリリースについては、[ リリースノート ](current.md)を参照してください。 Dynamic Chat リリースについて詳しくは、[Dynamic Chat リリースノート ](dynamic-chat.md)を参照してください。
 
 ## 2026
 
@@ -31,6 +31,7 @@ ht-degree: 37%
 * [2026年5月](previous-releases/2026/release-notes-may-26.md)
 * [2026年7月](previous-releases/2026/release-notes-july-26.md)
 * [2026年8月](previous-releases/2026/release-notes-aug-26.md)
+* [2026年9月](previous-releases/2026/release-notes-sep-26.md)
 
 ## 2025
 
