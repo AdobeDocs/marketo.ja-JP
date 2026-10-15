@@ -71,8 +71,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
-* **WebからのGrab Imagesの廃止**：最新のセキュリティとプライバシーのベストプラクティスに準拠するため、10月のリリースで[WebからのGrab Images](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}機能は廃止されます。
+* **WebからのGrab Imagesの廃止**：最新のセキュリティとプライバシーのベストプラクティスに準拠するため、10月のリリースで[WebからのGrab Images](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}機能は廃止されます。
 
 * カスタムアクティビティ属性の&#x200B;**API名の制限**: APIまたはUIを介して作成されたカスタムアクティビティ属性のAPI名に、英数字とアンダースコアのみを含めることができるようになりました。英数字で始める必要があります。
 
-* **リードアクティビティの取得とリードの変更の取得に関する静的リストサイズの制限**:2026年9月30日の時点で、`listId` パラメーターを含むリードアクティビティの取得またはリードの変更の取得エンドポイントへの呼び出しは、ターゲットリストに10,000個以上のリードが含まれている場合、1003 エラーコード（ターゲットの静的静的リストのレコードが多すぎることをいことを示示す）で意味）で開始します。 詳細については、[移行ガイド &#x200B;](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
+* **リードアクティビティの取得とリードの変更の取得に関する静的リストサイズの制限**:2026年9月30日の時点で、`listId` パラメーターを含むリードアクティビティの取得またはリードの変更の取得エンドポイントへの呼び出しは、ターゲットリストに10,000個以上のリードが含まれている場合、1003 エラーコード（ターゲットの静的静的リストのレコードが多すぎることをいことを示示す）で意味）で開始します。 詳細については、[移行ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
