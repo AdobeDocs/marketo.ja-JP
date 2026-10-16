@@ -27,20 +27,20 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '347'
 ht-degree: 18%
 ---
-# リリースノート：2026年9月 {#release-notes-sep-26}
+# リリースノート：2026年10月 {#release-notes-oct-26}
 
-以下では、2026年9月リリースに含まれるすべての機能について説明します。 利用可能な機能については、お使いの Adobe Marketo Engage のエディションをご確認ください。
+以下では、2026年10月リリースに含まれるすべての機能について説明します。 利用可能な機能については、お使いの Adobe Marketo Engage のエディションをご確認ください。
 
 Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こちらを参照](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}してください。
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、2026年9月25日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースされる機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
+以下の機能は標準リリースサイクルに該当し、2026年10月23日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースされる機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。
 
 <table style="table-layout:auto">
  <tbody>
@@ -50,18 +50,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:25%">ドキュメント</th>
   </tr>
   <tr>
-   <td><strong>Marketo Engageの新しいUI</strong>: Marketo Engageのインターフェイスがリフレッシュされ、メニュー、アイコン、レイアウトが更新され、よりクリーンで現代的なエクスペリエンスが得られます。 これはビジュアルアップデートのみです。既存の機能やワークフローには影響しません。 <i> クラシック UIを選択する機能は、2027年1月リリース </i>から利用できます。
-</td>
-   <td>一般提供（9月末）</td>
-   <td><i>該当なし</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>読み込み時にパーティションを選択</strong>: ワークスペースとパーティションが有効になっている環境で個人レコードを読み込む際に、ローカルワークスペースのパーティションのリストからパーティションを選択できるようになりました。</td>
+   <td><strong>このプログラム/フォルダーに複製</strong>: Marketo Engage全体の複製操作では、複製先を選択する際に、最初の選択肢として「このフォルダー」または「このプログラム」オプションが一貫して提供されるようになりました。 このオプションを選択すると、アセットが現在のアセットの親プログラムまたはフォルダーに複製されます。</td>
    <td><i>近日リリース予定</i></td>
    <td><i>近日リリース予定</i></td>
   </tr>
@@ -71,29 +60,11 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <td> </td>
   </tr>
   <tr>
-   <td><strong>CRM同期に関する即時アラート </strong>: CRM通知を購読したユーザーは、ネイティブ CRM同期の有効ステータスが変更されると、すぐに通知を受け取り、管理者はCRM同期ステータスをより詳細に把握できます。</td>
-   <td><i>近日リリース予定</i></td>
-   <td><i>近日リリース予定</i></td>
-  </tr>
    <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> セルフサービスのフローステップ – コールバックタイムアウトの増加</strong>: セルフサービスのフローステップのコールバックタイムアウト時間が1時間から4時間に延長されました。 ユーザー側での操作は必要ありません。</td>
+   <td><strong>CRM同期に関する即時アラート </strong>: CRMのネイティブ同期を有効または無効にすると、CRM通知チャネルを購読しているユーザーに通知がトリガーされるようになりました。</td>
    <td><i>近日リリース予定</i></td>
    <td><i>近日リリース予定</i></td>
   </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong> メールDesigner - テーブル </strong>: コンテンツの種類「テーブル」をメールにドラッグ&amp;ドロップし、列と行の数を設定できるようになりました。</td>
-   <td><i>近日リリース予定</i></td>
-   <td><i>近日リリース予定</i></td>
   </tr>
   </tbody>
 </table>
@@ -101,12 +72,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## お知らせ {#announcements}
 
+* **WebからのGrab Imagesの廃止**：最新のセキュリティとプライバシーのベストプラクティスに準拠するため、10月のリリースで[WebからのGrab Images](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}機能は廃止されます。
+
 * カスタムアクティビティ属性の&#x200B;**API名の制限**: APIまたはUIを介して作成されたカスタムアクティビティ属性のAPI名に、英数字とアンダースコアのみを含めることができるようになりました。英数字で始める必要があります。
 
-* **リードアクティビティを取得およびリード変更を取得するための静的リストサイズの制限**:2026年9月30日（PT）以降、ターゲットリストに10,000個以上のリードが含まれている場合、`listId` パラメーターを含むリード活動を取得またはリード変更を取得のエンドポイントへの呼び出しは、1003 エラーコード（ターゲット静的リストが多すぎることを示す）で示場合）で失敗します。 詳細については、[移行ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
-
-* **REST API &#39;access_token&#39; パラメーターの非推奨化**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは、2026年8月31日（PT）をもって非推奨（廃止予定）になりました。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
-
-* **REST API Campaign Run ID**：特定の状況において、アクティビティのCampaign Run ID値が、2つの引用符のペア（例：`"campaignRunId": ""102938""`）の間で、誤った形式で返されることがありました。<br/>8月のリリース以降、この値は常に正しい数値形式（`"campaignRunId": 102938`）で返されます。
-
-* **WebからのGrab Imagesの廃止**：最新のセキュリティとプライバシーのベストプラクティスに準拠するため、10月のリリースで[WebからのGrab Images](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}機能は廃止されます。
+* **リードアクティビティの取得とリードの変更の取得に関する静的リストサイズの制限**:2026年9月30日の時点で、`listId` パラメーターを含むリードアクティビティの取得またはリードの変更の取得エンドポイントへの呼び出しは、ターゲットリストに10,000個以上のリードが含まれている場合、1003 エラーコード（ターゲットの静的静的リストのレコードが多すぎることをいことを示示す）で意味）で開始します。 詳細については、[移行ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
