@@ -85,7 +85,7 @@ Discussed Topicsは、スマートリストのトリガーやフィルターで�
 
 >[!IMPORTANT]
 >
->生成AIを使用する場合、生成AIを組み込んだAdobe Experience Cloud機能が安全かつ責任ある方法で使用されるようにするには、[Adobe Experience Cloud生成AI ユーザーガイドライン &#x200B;](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)に準拠する必要があります。
+>生成AIを使用する場合、生成AIを組み込んだAdobe Experience Cloud機能が安全かつ責任ある方法で使用されるようにするには、[Adobe Experience Cloud生成AI ユーザーガイドライン &#x200B;](https://www.adobe.com/jp/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)に準拠する必要があります。
 
 ## よくある質問 {#faq}
 

@@ -70,7 +70,7 @@ ht-degree: 91%
 | `{{my_signature}}` | Keith Flynn、シニアテクニカルライター - アドビ |
 | `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | シニアテクニカルライター |
-| `{{work_website}}` | <https://www.adobe.com> |
+| `{{work_website}}` | <https://www.adobe.com/jp> |
 
 **注意事項**：
 

@@ -116,7 +116,7 @@ class=&quot;mktoText&quot;構文を使用してリッチテキスト要素を指
 
 例:
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com/jp"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### オプション 2 - \&lt;img\> の使用 {#option-use-an-img}
 

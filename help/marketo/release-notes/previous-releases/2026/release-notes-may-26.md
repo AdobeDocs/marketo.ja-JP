@@ -130,7 +130,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 今年の初めに、取り残されていた関連フィールドがMarketoから削除されました。 その後すぐに、特定のソーシャル関連のリードフィールドを参照するAPI リクエストで「フィールドが見つかりません」エラーが返され、中断が発生しました。 影響を受けるフィールドが再度使用可能になった後にサービスが復元されたため、さらなる中断を防ぐために、Marketoはソーシャル機能の非推奨化からソーシャルフィールドを永続的に分離しました（そのため、Marketo アカウントで利用できるようになります）。 Marketoのソーシャル関連フィールドを参照するAPI クエリと統合を確認し、それらのフィールドが継続的なビジネスプロセスに引き続き必要かどうかを判断することをお勧めします。
 
-* **ブール型フィールドのAPI結合機能**: API結合内のブール型フィールドの動作が、&#39;26年3月リリースで変更されました。 ここで、False値は、そのフィールドの値を持つものとして正しく扱われます。 競合するフィールドを評価する場合、null値のみが「空」として扱われます。 詳しくは、[このコミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=ja){target="_blank"}を参照してください。
+* **ブール型フィールドのAPI結合機能**: API結合内のブール型フィールドの動作が、&#39;26年3月リリースで変更されました。 ここで、False値は、そのフィールドの値を持つものとして正しく扱われます。 競合するフィールドを評価する場合、null値のみが「空」として扱われます。 詳しくは、[このコミュニティ投稿](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=ja&lang=ja){target="_blank"}を参照してください。
 
 * **Rest API &#39;access_token&#39; パラメーターの非推奨**: Marketo REST API呼び出しの認証に使用される`access_token` クエリパラメーターは非推奨（廃止予定）であり、2026年8月31日を過ぎると使用できなくなります。 すべての新規および既存の統合では、「Authorization」ヘッダーを使用して REST API 呼び出しを認証する必要があります。[詳しくは、こちらを参照してください](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/authentication){target="_blank"}。
 

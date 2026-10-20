@@ -26,7 +26,7 @@ ht-degree: 0%
 ---
 # 条件付きメール開封トラッキング {#conditional-open-tracking}
 
-[様々なガイドライン &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=ja){target="_blank"}に従って、メール開封（ピクセル）トラッキングに対するエンドユーザーの同意を尊重するようにMarketo Engageを設定する方法について説明します。 このアプローチでは、カスタムのブール値フィールドを使用して、オープントラッキングが有効なメールと無効なメールのバリエーションを決定します。
+[様々なガイドライン &#x200B;](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/understanding-guidance-on-email-tracking-pixels-251632?profile.language=ja&lang=ja){target="_blank"}に従って、メール開封（ピクセル）トラッキングに対するエンドユーザーの同意を尊重するようにMarketo Engageを設定する方法について説明します。 このアプローチでは、カスタムのブール値フィールドを使用して、オープントラッキングが有効なメールと無効なメールのバリエーションを決定します。
 
 ## 手順1：カスタムブール値フィールドの作成 {#custom-field}
 
