@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: d7d7f0d50797571fde1b3a7141b4f50668a1b2b5
+source-git-commit: 629f12610d05f6caf1bb616504e256dccefe2f50
 workflow-type: tm+mt
-source-wordcount: '1235'
+source-wordcount: '1228'
 ht-degree: 5%
 ---
 # AWSへの移行 {#aws-migration}
@@ -278,12 +278,9 @@ ht-degree: 5%
   </tr>
   <tr>
    <td>2026年10月16日（PT）</td>
-   <td>AB23<br>
-   AB26</td>
-   <td>午後4時（太平洋夏時間）<br>
-   午後5時（太平洋夏時間）</td>
-   <td>予定通り<br>
-   予定通り</td>
+   <td>AB23</td>
+   <td>午後4時（太平洋夏時間）</td>
+   <td>完了</td>
   </tr>
    <tr>
    <td>2026年10月21日（PT）</td>

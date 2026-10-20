@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: 29aa413a7346a79906f4021dedc79e8e48170c69
 workflow-type: tm+mt
-source-wordcount: '347'
-ht-degree: 18%
+source-wordcount: '472'
+ht-degree: 15%
 ---
 # リリースノート：2026年10月 {#release-notes-oct-26}
 
@@ -47,6 +47,26 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:65%">機能</th>
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
+  </tr>
+  <tr>
+   <td><strong> キャンペーンスキルの計画</strong>: CX Enterprise Coworker for Marketo Engageで、キャンペーン概要を包括的なMarketo Engage プログラム設定ドキュメントに変換できるようになりました。 このドキュメントには、フォルダー構造、スマートキャンペーン、メール設定、トークン、QA チェックリストが含まれています。 これにより、キャンペーンをより迅速に立ち上げ、プログラムの設定を標準化できます。 スキルはマークダウンで設定可能です。</td>
+   <td><i>近日リリース予定</i></td>
+   <td><i>近日リリース予定</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>呼び出し可能なエージェント </strong>: スマートキャンペーンのフローステップとして実行し、平易な言語で記述した指示に基づいてリードレコードに基づいて行動するAI エージェントを作成します。 たとえば、エージェントはリードのデータを正規化したり、ボットの可能性が高いフラグを立てたりした後、その結果をリードのフィールドに書き戻すことができます。 これにより、カスタムコードなしで、判断ベースのリード処理をキャンペーンに取り入れることができます。</td>
+   <td><i>近日リリース予定</i></td>
+   <td><i>近日リリース予定</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong>このプログラム/フォルダーに複製</strong>: Marketo Engage全体の複製操作では、複製先を選択する際に、最初の選択肢として「このフォルダー」または「このプログラム」オプションが一貫して提供されるようになりました。 このオプションを選択すると、アセットが現在のアセットの親プログラムまたはフォルダーに複製されます。</td>
