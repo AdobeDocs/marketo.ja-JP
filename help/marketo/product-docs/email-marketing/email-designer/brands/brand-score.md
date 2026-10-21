@@ -35,7 +35,7 @@ ht-degree: 35%
 
 >[!AVAILABILITY]
 >
->Adobe Marketo EngageでAI アシスタントを使用するには、事前に[使用許諾契約書](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"}に同意する必要があります。 詳しくは、アドビ担当者にお問い合わせください。
+>Adobe Marketo EngageでAI アシスタントを使用するには、事前に[使用許諾契約書](https://www.adobe.com/jp/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}{target="_blank"}に同意する必要があります。 詳しくは、アドビ担当者にお問い合わせください。
 
 ## ブランドアラインメントを使用してコンテンツを検証 {#validate-content}
 

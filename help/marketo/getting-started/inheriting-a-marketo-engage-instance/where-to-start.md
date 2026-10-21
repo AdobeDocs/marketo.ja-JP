@@ -31,7 +31,7 @@ Marketo Engage Communityで適切に設定されていることを確認しま�
 
 * [**必須フィールド（会社、ソリューションの専門分野、国など）に入力して、プロファイル**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=ja&lang=ja){target="_blank"}を設定します
 
-* [**Adobe Experience League コミュニティガイドライン**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=ja){target="_blank"}をお読みください。
+* [**Adobe Experience League コミュニティガイドライン**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=ja&lang=ja){target="_blank"}をお読みください。
 
 * [**サポートケース**](https://experienceleague.adobe.com/ja/support#home){target="_blank"}を送信し、[&#x200B; サポート管理者](https://experienceleague.adobe.com/ja/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}として設定されていることを確認する方法について説明します。
 
