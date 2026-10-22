@@ -11,7 +11,7 @@ feature_v2:
 subfeature_v2:
   - id: af97ce94-35fa-4fa9-b85a-46b752ac4028
     internal-label: Release information
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: c36bbfe0f8ce46dfa6b5c708fa29c5a710cc2358
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 14%
@@ -83,4 +83,4 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **REST API Campaign Run ID**：特定の状況において、アクティビティのCampaign Run ID値が、2つの引用符のペア（例：`"campaignRunId": ""102938""`）の間で、誤った形式で返されることがありました。<br/>8月のリリース以降、この値は常に正しい数値形式（`"campaignRunId": 102938`）で返されます。
 
-* **WebからのGrab Imagesの廃止**：最新のセキュリティとプライバシーのベストプラクティスに準拠するため、10月のリリースで[WebからのGrab Images](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}機能は廃止されます。
+* **WebからのGrab Imagesの廃止**：最新のセキュリティとプライバシーのベストプラクティスに準拠するため、11月のリリースで[WebからのGrab Images](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}機能は廃止されます。
