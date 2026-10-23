@@ -19,7 +19,7 @@ workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 84%
 ---
-# [!UICONTROL 重点顧客]でのフィルタリング {#filtering-in-named-accounts}
+# [!UICONTROL 重点アカウント]でのフィルタリング {#filtering-in-named-accounts}
 
 フィルターを使用すると、データを素早く絞り込むことができます。
 
