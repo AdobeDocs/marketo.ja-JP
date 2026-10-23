@@ -80,7 +80,7 @@ ht-degree: 90%
 
 ランディングページエディターから[ランディングページ用のモバイルビューの作成](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)をおこなうことができます。 デバイスに関係なく効果的にメッセージを配信し、コンテンツを調整して、外出先で簡単に使えるようにすることで、エンゲージメントを高めます。 この機能は、リリース後の 1 週間を通じて徐々にロールアウトされます。
 
-[&#x200B; – ランディングページのチュートリアル動画 – &#x200B;](https://youtu.be/aPQHlG2X6c0)
+[ – ランディングページのチュートリアル動画 – ](https://youtu.be/aPQHlG2X6c0)
 
 **新規 REST API 呼び出し**
 
@@ -104,7 +104,7 @@ ht-degree: 90%
 
 [重点アカウントリストモジュール](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
-Named Accounts モジュールの機能強化により、ユーザの一致率と検証が向上します。 次の追加が含まれます。
+重点アカウントモジュールの機能強化により、ユーザの一致率と検証が向上します。 次の追加が含まれます。
 
 * リードのメールアドレスを使用して、重点アカウントリストから組織を照合できます（RTP のみの顧客も対象）。
 * アカウントあたり最大 10 万件のレコードをサポート
@@ -253,7 +253,7 @@ Marketo モバイルエンゲージメントを使用すれば、魅力的なモ
 
 **RTP - アカウントベースドマーケティング分析**
 
-アカウントリストの新しいパフォーマンスグラフを使用して、購入サイクルの各ステージに基づく主要な重点アカウントリストのパフォーマンスを即座に把握できます。 グラフには、主要な組織からの訪問が、訪問回数と訪問者のステータスに基づき、認知からアクションに至るまでどのステージにあるかが表示されます。
+重点アカウントリストの新しいパフォーマンスグラフを使用して、購入サイクルの各ステージに基づく主要な重点アカウントリストのパフォーマンスを即座に把握できます。 グラフには、主要な組織からの訪問が、訪問回数と訪問者のステータスに基づき、認知からアクションに至るまでどのステージにあるかが表示されます。
 
 ## 2015年5月 {#may}
 
@@ -301,7 +301,7 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 
 [アトリビューションメールレポート](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
-パーソナライゼーションと推奨コンテンツがマーケティング活動にもたらす価値をご確認ください。 [&#x200B; アトリビューションメールレポート &#x200B;](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)には、RTPのパーソナライゼーションと推奨コンテンツキャンペーンから関連付けられた、直接および支援されたリードが表示されます。 RTPの「ユーザー設定とメールレポート」で、アトリビューションメールレポートを追加して、月単位または四半期単位のメールを受信します。
+パーソナライゼーションと推奨コンテンツがマーケティング活動にもたらす価値をご確認ください。 [ アトリビューションメールレポート ](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)には、RTPのパーソナライゼーションと推奨コンテンツキャンペーンから関連付けられた、直接および支援されたリードが表示されます。 RTPの「ユーザー設定とメールレポート」で、アトリビューションメールレポートを追加して、月単位または四半期単位のメールを受信します。
 
 ## 2015年7月 {#july}
 
@@ -380,7 +380,7 @@ RTPのマシンラーニング（機械学習）と予測分析アルゴリズ�
 
 ## [!DNL Google Chrome] 用 Marketo Insights {#marketo-insights-for-google-chrome}
 
-[&#x200B; [!DNL Google Chrome] 用 Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[ [!DNL Google Chrome] 用 Marketo Insights](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
 [!DNL Google Mail] [!DNL Sales Insight]拡張機能の更新プログラムのリリースをお知らせします。 [[!DNL Chrome Store]](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb) で確認できます。
 

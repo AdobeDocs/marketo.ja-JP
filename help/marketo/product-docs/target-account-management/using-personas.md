@@ -60,9 +60,9 @@ ht-degree: 87%
 
 ## ペルソナを表示する {#view-your-personas}
 
-特定の[!UICONTROL 重点顧客]にアクセスして、ペルソナを表示します。
+特定の[!UICONTROL 重点アカウント]にアクセスして、ペルソナを表示します。
 
-1. 目的の[!UICONTROL 重点顧客]を選択します。
+1. 目的の[!UICONTROL 重点アカウント]を選択します。
 
    ![](assets/one-a.png)
 

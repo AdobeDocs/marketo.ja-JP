@@ -31,7 +31,7 @@ ht-degree: 81%
 
    ![](assets/two-4.png)
 
-1. **[!UICONTROL オブジェクト]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 重要顧客]**」を選択します。
+1. **[!UICONTROL オブジェクト]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 重点アカウント]**」を選択します。
 
    ![](assets/three-3.png)
 

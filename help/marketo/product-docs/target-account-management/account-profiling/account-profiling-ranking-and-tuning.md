@@ -26,7 +26,7 @@ ht-degree: 89%
 ---
 # アカウントプロファイリングのランキングと調整 {#account-profiling-ranking-and-tuning}
 
-アカウントプロファイリングは、理想的な顧客プロファイル（ICP）を特定し、ICP に基づきデータベース内の企業をランキングし、[!UICONTROL 重点顧客]として昇格されたアカウントに ICP 指標データを追加します。
+アカウントプロファイリングは、理想的な顧客プロファイル（ICP）を特定し、ICP に基づきデータベース内の企業をランキングし、[!UICONTROL 重点アカウント]として昇格されたアカウントに ICP 指標データを追加します。
 
 >[!IMPORTANT]
 >
@@ -175,7 +175,7 @@ ht-degree: 89%
 
 ![](assets/add-icp.png)
 
-「[!UICONTROL エクスポート]」ボックスをオンにすると、[!UICONTROL 重点顧客]の詳細ページで ICP 指標を表示でき、選択した ICP 指標を[重点顧客フィルター](/help/marketo/product-docs/target-account-management/engage/account-filters.md)の制約として使用できます。
+「[!UICONTROL エクスポート]」ボックスをオンにすると、[!UICONTROL 重点アカウント]の詳細ページで ICP 指標を表示でき、選択した ICP 指標を[重点アカウントフィルター](/help/marketo/product-docs/target-account-management/engage/account-filters.md)の制約として使用できます。
 
 ![](assets/export.png)
 

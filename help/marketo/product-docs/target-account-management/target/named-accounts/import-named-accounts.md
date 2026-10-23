@@ -19,21 +19,21 @@ workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 94%
 ---
-# [!UICONTROL 重点顧客]の読み込み {#import-named-accounts}
+# [!UICONTROL 重点アカウント]の読み込み {#import-named-accounts}
 
 ターゲットアカウント候補がいっぱいの CSV を既にお持ちの場合、 TAM に直接読み込むことができます。
 
-1. **[!UICONTROL 新規作成]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 重点顧客を読み込む]**」を選択します。
+1. **[!UICONTROL 新規作成]**&#x200B;ドロップダウンをクリックして「**[!UICONTROL 重点アカウントを読み込む]**」を選択します。
 
    ![](assets/inaone.png)
 
-1. 新しいウィンドウが開きます。 「**[!UICONTROL 参照]**」をクリックし、読み込む重点顧客ファイルを選択します。
+1. 新しいウィンドウが開きます。 「**[!UICONTROL 参照]**」をクリックし、読み込む重点アカウントファイルを選択します。
 
    ![](assets/inatwo.png)
 
    >[!TIP]
    >
-   >ファイルで、[可能な限り多くの情報](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes)を提供します。 追加できるのはファーモグラフィック情報のみです。Marketo が計算するもの（パイプライン）は追加できません。 CRM 顧客に基づく重点顧客を作成するには、CRM から顧客名と CRM ID を CSV ファイルに書き出し、「顧客名」オプションを使用して、読み込みプロセス中に CRM ID をマッピングします。 CRM 顧客を特定の顧客に適切にリンクするには、CRM 顧客の正確な名前を指定する必要があります。
+   >ファイルで、[可能な限り多くの情報](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes)を提供します。 追加できるのはファーモグラフィック情報のみです。Marketo が計算するもの（パイプライン）は追加できません。 CRM 顧客に基づく重点アカウントを作成するには、CRM から顧客名と CRM ID を CSV ファイルに書き出し、「顧客名」オプションを使用して、読み込みプロセス中に CRM ID をマッピングします。 CRM 顧客を重点アカウントに適切にリンクするには、CRM 顧客の正確な名前を指定する必要があります。
 
 1. アカウント名またはドメイン名の 2 つの重複解除モードから選択します。 この例では、顧客を選択します。 **[!UICONTROL モード]**&#x200B;ドロップダウンをクリックして、「**[!UICONTROL 顧客名別]**」を選択します。
 
@@ -43,7 +43,7 @@ ht-degree: 94%
    >
    >「**[!UICONTROL ドメイン名別]**」を選択した場合は、「重点顧客」フィールドと「ドメイン」フィールドの両方を含める必要があります。
 
-1. 重点顧客を追加するアカウントリストを選択するには、**[!UICONTROL アカウントリスト]**&#x200B;ドロップダウンリストから選択します。
+1. 重点アカウントを追加するアカウントリストを選択するには、**[!UICONTROL アカウントリスト]**&#x200B;ドロップダウンリストから選択します。
 
    ![](assets/inafour.png)
 
@@ -76,11 +76,11 @@ ht-degree: 94%
 <table>
  <tbody>
   <tr>
-   <td><strong>既存の<span class="uicontrol">重点顧客</span>名を持つレコードの読み込み</strong></td>
+   <td><strong>既存の<span class="uicontrol">重点アカウント</span>名を持つレコードの読み込み</strong></td>
    <td><p>既存のレコードを更新します</p></td>
   </tr>
   <tr>
-   <td><strong>新しい<span class="uicontrol">重点顧客</span>名を持つレコードの読み込み</strong></td>
+   <td><strong>新しい<span class="uicontrol">重点アカウント</span>名を持つレコードの読み込み</strong></td>
    <td>新しいレコードを作成します</td>
   </tr>
  </tbody>
@@ -92,25 +92,25 @@ ht-degree: 94%
  <tbody>
   <tr>
    <td><strong>新しいアカウント名と新しいドメイン名を持つレコードの読み込み</strong></td>
-   <td>提供された情報を使用して新しい<span class="uicontrol">重点顧客</span>を作成</td>
+   <td>提供された情報を使用して新しい<span class="uicontrol">重点アカウント</span>を作成</td>
   </tr>
   <tr>
    <td><strong>既存のアカウント名と既存のドメイン名を持つレコードの読み込み</strong></td>
-   <td>既存の<span class="uicontrol">重点顧客</span>を更新</td>
+   <td>既存の<span class="uicontrol">重点アカウント</span>を更新</td>
   </tr>
    <tr>
    <td><strong>新しいアカウント名と既存のドメイン名を持つレコードの読み込み</strong></td>
-   <td>ドメイン名に一致する既存の<span class="uicontrol">重点顧客</span>に新しいアカウント名を付加し、その他の情報（業種、都道府県など）を更新</td>
+   <td>ドメイン名に一致する既存の<span class="uicontrol">重点アカウント</span>に新しいアカウント名を付加し、その他の情報（業種、都道府県など）を更新</td>
   </tr>
   <tr>
-   <td><strong>既存の<span class="uicontrol">重点顧客</span>名と新しいドメイン名を含むレコードの読み込み</strong></td>
-   <td>アカウント名に一致する既存の<span class="uicontrol">重点顧客</span>に新しいドメイン名を付加し、その他の情報（業種、都道府県など）を更新</td>
+   <td><strong>既存の<span class="uicontrol">重点アカウント</span>名と新しいドメイン名を含むレコードの読み込み</strong></td>
+   <td>アカウント名に一致する既存の<span class="uicontrol">重点アカウント</span>に新しいドメイン名を付加し、その他の情報（業種、都道府県など）を更新</td>
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->Marketo が重点顧客を付加する際、[!UICONTROL 重点顧客]に含まれる必要のある人物を識別できるルールが（バックグラウンドで）更新されます。 例：「IBM」を「米国 IBM」に更新すると、どちらの会社名を持つ人物が[!UICONTROL 重点顧客]に関連付けられます。
+>Marketo が重点アカウントを付加する際、[!UICONTROL 重点アカウント]に含まれる必要のある人物を識別できるルールが（バックグラウンドで）更新されます。 例：「IBM」を「米国 IBM」に更新すると、どちらの会社名を持つ人物が[!UICONTROL 重点アカウント]に関連付けられます。
 
 Marketo が重複と見なすレコードを検出した場合は、最初のレコードのみが処理されます。

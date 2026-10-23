@@ -6,23 +6,26 @@ exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
 TQID: https://experienceleague.adobe.com/4dEZucMMXmSHngRHdUqasKVAg08MkwZFIDn1OzbxnVg
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 369
+source-wordcount: '369'
 ht-degree: 20%
-
 ---
-
 # NUR-YYYY-MM-シンプルな育成 {#nur-yyyy-mm-simple-nurture}
 
 これは、Marketo Engageのエンゲージメントプログラムを活用したシンプルなナーチャリングプログラムの例です。時系列でドリップされるコンテンツにより、ストリームを活用して行動にもとづいてジャーニーを通じてレコードを導きながら、データベースにドリップします。
 
-詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/jp/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
+詳しい戦略支援またはプログラムのカスタマイズについては、Adobe アカウントチームにお問い合わせいただくか、[Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} ページをご覧ください。
 
 ## チャネルサマリ {#channel-summary}
 
@@ -150,20 +153,20 @@ ht-degree: 20%
 ## 競合ルール {#conflict-rules}
 
 * **プログラムタグ**
-   * このサブスクリプションでタグを作成 – _おすすめ_
-   * 無視
+  * このサブスクリプションでタグを作成 – _おすすめ_
+  * 無視
 
 * **同じ名前のランディングページテンプレート**
-   * 元のテンプレートのコピー
-   * 宛先テンプレートを使用 – _おすすめ_
+  * 元のテンプレートのコピー
+  * 宛先テンプレートを使用 – _おすすめ_
 
 * **同じ名前の画像**
-   * どちらのファイルも保持する
-   * このサブスクリプションのアイテムを置き換える – _推奨_
+  * どちらのファイルも保持する
+  * このサブスクリプションのアイテムを置き換える – _推奨_
 
 * **同じ名前のメールテンプレート**
-   * どちらのテンプレートも保持する
-   * 既存のテンプレートを置き換える – _推奨_
+  * どちらのテンプレートも保持する
+  * 既存のテンプレートを置き換える – _推奨_
 
 ## ベストプラクティス {#best-practices}
 

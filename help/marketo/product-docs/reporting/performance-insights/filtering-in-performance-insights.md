@@ -7,21 +7,26 @@ feature: Reporting
 TQID: https://experienceleague.adobe.com/6xpDlm3CZuh7-ej4gngZHb0gg674bvwp-E3yl1iP8f8
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 325
+source-wordcount: '325'
 ht-degree: 75%
-
 ---
-
 # [!UICONTROL パフォーマンスインサイト]のフィルタリング {#filtering-in-performance-insights}
 
 データを簡単にフィルタリングして、特定の情報に対してクエリを実行します。
@@ -38,7 +43,7 @@ ht-degree: 75%
 
 ![](assets/two-1.png)
 
-サブカテゴリを選択し、値を検索またを選択します。
+サブカテゴリを選択し、値を検索または選択します。
 
 ![](assets/three.png)
 
@@ -60,11 +65,11 @@ ht-degree: 75%
  <tbody>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">ABM アカウントリスト</span></strong></td>
-   <td colspan="1">Marketo ABMを使用している場合、すべてのアカウントリストはMPIに同期され、「ABM アカウントリスト」フィルターを介して表示されます。 顧客リストを選択して、その顧客に対して結果をフィルタリングできます。ABM 顧客リストについて詳しくは、<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">こちら</a>をご覧ください。</td>
+   <td colspan="1">Marketo ABMを使用している場合、すべてのアカウントリストはMPIに同期され、「ABM アカウントリスト」フィルターを介して表示されます。 アカウントリストを選択して、そのアカウントに結果をフィルターできます。ABM 顧客リストについて詳しくは、<a href="https://docs.marketo.com/display/public/DOCS/Account-Based+Web+Marketing+with+ABM" rel="nofollow">こちら</a>をご覧ください。</td>
   </tr>
   <tr>
-   <td colspan="1"><strong><span class="uicontrol">ABM 重点顧客</span></strong></td>
-   <td colspan="1">Marketo ABMを使用している場合、すべての名前付きアカウントはMPIに同期され、「ABM名前付きアカウント」フィルターを介して表示されます。 重点顧客を選択して、その顧客に対して結果をフィルタリングできます。ABM 重点顧客について詳しくは、<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">こちら</a>をご覧ください</td>
+   <td colspan="1"><strong><span class="uicontrol">ABM 重点アカウント</span></strong></td>
+   <td colspan="1">Marketo ABMを使用している場合、すべての名前付きアカウントはMPIに同期され、「ABM名前付きアカウント」フィルターを介して表示されます。 重点アカウントを選択して、そのアカウントに結果をフィルターできます。ABM 重点アカウントについて詳しくは、<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">こちら</a>をご覧ください</td>
   </tr>
   <tr>
    <td colspan="1"><p><strong><span class="uicontrol">投資期間</span></strong></p></td>
@@ -76,7 +81,7 @@ ht-degree: 75%
   </tr>
   <tr>
    <td><p><strong><span class="uicontrol">プログラムタグ</span></strong></p></td>
-   <td><p>タグは、プログラムの説明に用いられます。 タグは、必要なだけ、固有の値を設定して作成できます。 プログラムタグの使用方法については、<a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">こちら</a>を参照してください。</p></td>
+   <td><p>タグは、プログラムの説明に用いられます。 タグは、必要なだけ作成でき、それぞれに一意の値を設定できます。 プログラムタグの使用方法については、<a href="/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md" rel="nofollow">こちら</a>を参照してください。</p></td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">ワークスペース</span></strong></td>

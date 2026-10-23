@@ -185,16 +185,16 @@ ht-degree: 95%
   * エンタープライズ - このセグメントには、従業員が 1,000 人を超え、売上高が 2 億 5,000 万ドルを超える組織が含まれます
   * SMB - このセグメントには中小企業のみが含まれます
 
-**-重点顧客-**
+**-重点アカウント-**
 
 **顧客リスト**
 
 * **次の会社（特定の名前）から**
 
   * 追加する会社を選択ドロップダウンから、ターゲットにする会社を選択します。
-  * ターゲットとする組織名を正確に入力できます。 *マッチングを向上するために、手動で名前を入力するかわりに*&#x200B;常に*アカウントリストを使用することを推奨します（以下を参照）。
+  * ターゲットとする組織名を正確に入力できます。 *マッチングを向上するために、手動で名前を入力するかわりに*&#x200B;常に*重点アカウントリストを使用することを推奨します（以下を参照）。
 
-**アカウントリスト**
+**重点アカウントリスト**
 
 [アカウントリスト](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)を使用して、主なターゲット顧客をセグメント化します。
 
@@ -202,7 +202,7 @@ ht-degree: 95%
 
 >[!NOTE]
 >
->アカウントリスト名の横にある角括弧内の数字は、web パーソナライゼーションの [Read API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/web-personalization).のリストのインデックス参照として使用されます。
+>重点アカウントリスト名の横にある角括弧内の数字は、web パーソナライゼーションの [Read API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/javascriptapi/web-personalization).のリストのインデックス参照として使用されます。
 
 **ISP の除外**
 

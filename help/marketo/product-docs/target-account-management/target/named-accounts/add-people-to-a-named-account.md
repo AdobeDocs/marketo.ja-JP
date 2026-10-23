@@ -21,7 +21,7 @@ workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 80%
 ---
-# [!UICONTROL 重点顧客]にリードを追加 {#add-people-to-a-named-account}
+# [!UICONTROL 重点アカウント]にリードを追加 {#add-people-to-a-named-account}
 
 TAM で重点アカウントに人物を手動で追加する方法は 3 つあります。
 

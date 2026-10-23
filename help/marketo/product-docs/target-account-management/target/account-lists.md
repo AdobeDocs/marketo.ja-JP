@@ -28,7 +28,7 @@ ht-degree: 93%
 ---
 # [!UICONTROL アカウントリスト] {#account-lists}
 
-顧客リストは、一緒にターゲット設定できる重点顧客の集まりです。 アカウントリストを使用すると、重点アカウントを業種、所在地、または会社の規模別にターゲット設定できます。
+顧客リストは、一緒にターゲット設定できる重点アカウントの集まりです。 アカウントリストを使用すると、重点アカウントを業種、所在地、または会社の規模別にターゲット設定できます。
 
 アカウントリストに加えて、公開されている CRM アカウントビューから生成される動的アカウントリストも作成できます。 CRM アカウントビューは、アカウントを表示する際にフィルターとして機能する一連のルールです。 例えば、業界がヘルスケアで、*かつ*&#x200B;売上高が 1 億ドルを超えるアカウントを検索する場合に使用できます。
 
@@ -106,5 +106,5 @@ ht-degree: 93%
 
 >[!MORELIKETHIS]
 >
->* [既存の[!UICONTROL 重点顧客]をアカウントリストに追加](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [既存の[!UICONTROL 重点アカウント]をアカウントリストに追加](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [アカウントリストインサイト](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)

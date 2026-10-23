@@ -29,15 +29,15 @@ Marketo Engage TAM をインスタンスに追加したら、 完了です。 �
 
 **手順 3：[アカウントスコア](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md){target="_blank"}**&#x200B;を設定する — アカウントスコアは、ターゲットアカウント管理の主要な要素の 1 つです。 各アカウントのエンゲージメントレベルを判断するのに役立ちます。
 
-**手順 4： [CRM 探索用のカスタムフィールドを作成する](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md){target="_blank"}** — 既存の CRM アカウントフィールドを新しい名前付きアカウントカスタムフィールドにマップします（CRM を使用しない場合は、この手順をスキップします）。
+**手順 4： [CRM 探索用のカスタムフィールドを作成する](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md){target="_blank"}** - 既存の CRM アカウントフィールドを新しい重点アカウントカスタムフィールドにマップします（CRM を使用しない場合は、この手順をスキップします）。
 
 **手順5:** **_名前付きアカウントの作成_** – 名前付きアカウントには、ターゲット企業のユーザーが含まれます。 名前付きアカウントを作成する方法は 4 つあります。
 
-* [名前付きアカウントをインポートする](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md){target="_blank"} — 潜在的なターゲットアカウントのリストを TAM に直接アップロードします（CRM からエクスポートしたリストも可能）。
-* [CRM アカウントを検出する](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts){target="_blank"} - Marketo に同期されたすべての CRM アカウントのリストを表示し、主要な属性（業種）を使用してフィルターを適用して、名前付きアカウントを作成します。
-* [Marketo の会社を検出する](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies){target="_blank"} - CRM 以外のソースからの会社のリストを表示し、主要な属性を使用してフィルターを適用し、名前付きアカウントを作成します
-* [名前付きアカウントを手動で作成する](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md){target="_blank"} — 名前付きアカウントを手動で作成する場合は、次の手順で[ユーザーを入力](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md){target="_blank"}します
+* [重点アカウントをインポートする](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md){target="_blank"} - 潜在的なターゲットアカウントのリストを TAM に直接アップロードします（CRM からエクスポートしたリストも可能）。
+* [CRM アカウントを検出する](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts){target="_blank"} - Marketo に同期されたすべての CRM アカウントのリストを表示し、主要な属性（業種）を使用してフィルターを適用して、重点アカウントを作成します。
+* [Marketo の会社を検出する](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies){target="_blank"} - CRM 以外のソースからの会社のリストを表示し、主要な属性を使用してフィルターを適用し、重点アカウントを作成します
+* [重点アカウントを手動で作成する](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md){target="_blank"} — 重点アカウントを手動で作成する場合は、次の手順で[ユーザーを入力](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md){target="_blank"}します
 
-**オプションの手順：[アカウントリストの作成と設定を行う](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list){target="_blank"}** - アカウントをリストにグループ化し、会社の業界、場所または規模別に名前付きのアカウントをターゲットに設定できます。
+**オプションの手順：[アカウントリストの作成と設定を行う](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list){target="_blank"}** - アカウントをリストにグループ化し、会社の業界、場所または規模別に重点アカウントをターゲットに設定できます。
 
 上記の手順に従うと、TAM を使い始める準備が整います。

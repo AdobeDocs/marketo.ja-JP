@@ -262,7 +262,7 @@ Marketo のランディングページに配置されたフォームから html 
 
 ## [!UICONTROL メール分析]での A/B テストメール {#a-b-test-emails-in-email-analysis}
 
-[!UICONTROL &#x200B; メール分析]の各A/B テスト メール バリエーションについてレポートします。
+[!UICONTROL  メール分析]の各A/B テスト メール バリエーションについてレポートします。
 
 ## 分析パッケージの変更点 {#analytics-packaging-changes}
 
@@ -548,7 +548,7 @@ API を使用して、リードへの新しいアクティビティや変更を�
 
 ## [!DNL Facebook] カスタムオーディエンス {#facebook-custom-audiences}
 
-Marketo 管理者が、[!UICONTROL 管理]／[!UICONTROL Launchpoint]&#x200B;[&#128279;](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) で [!DNL Facebook]  を追加したら、[&#x200B; [!DNL Facebook]  カスタムオーディエンスを Marketo の静的またはスマートリストのリードで簡単に作成、更新、または置き換えることができます](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 静的またはスマートリストのリードグリッドの下部にある新しい [!DNL Facebook] アイコンを探します。
+Marketo 管理者が、[!UICONTROL 管理]／[!UICONTROL Launchpoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) で [[!DNL Facebook]  を追加したら、[ [!DNL Facebook]  カスタムオーディエンスを Marketo の静的またはスマートリストのリードで簡単に作成、更新、または置き換えることができます](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)。 静的またはスマートリストのリードグリッドの下部にある新しい [!DNL Facebook] アイコンを探します。
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -606,7 +606,7 @@ UTF-16、Shift-JIS、EUC-JP でエンコードされた[ファイルをインポ
 
 ## RTP：重点アカウントリストモジュール {#rtp-named-account-list-module}
 
-新しい[!UICONTROL 重点顧客]ページで、利益率の高い主要なアカウントを管理およびモニターします。 これらの組織を特定し、ターゲットとするには、新しい重点アカウントリストをアップロードします。 アカウントベースのマーケティングプランを実装し、様々なチャネル（web および広告）にわたって主要アカウントをターゲットにできるよう、そのプロセスを自動化しました。これにより、より高い制御性と柔軟性が得られます。
+新しい[!UICONTROL 重点アカウント]ページで、利益率の高い主要なアカウントを管理およびモニターします。 これらの組織を特定し、ターゲットとするには、新しい重点アカウントリストをアップロードします。 アカウントベースのマーケティングプランを実装し、様々なチャネル（web および広告）にわたって主要アカウントをターゲットにできるよう、そのプロセスを自動化しました。これにより、より高い制御性と柔軟性が得られます。
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 

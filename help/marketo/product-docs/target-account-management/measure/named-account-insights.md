@@ -30,7 +30,7 @@ workflow-type: tm+mt
 source-wordcount: '444'
 ht-degree: 95%
 ---
-# 重点顧客インサイト {#named-account-insights}
+# 重点アカウントインサイト {#named-account-insights}
 
 重点アカウントダッシュボードでは、ターゲットアカウントの全体像を確認できます。
 
@@ -77,7 +77,7 @@ ht-degree: 95%
 
 **上位リード**
 
-これらユーザーは、重点顧客ユーザーごと（セールスインサイトの[最善策](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）が示す最新性や緊急性の優先度、またはユーザーが定義したスコアに基づいて計算されます。 **[!UICONTROL 優先度]**&#x200B;は、[!DNL Marketo Sales Insight] のユーザのみが使用できます。
+これらユーザーは、重点アカウントユーザーごと（セールスインサイトの[最善策](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)と同じ）が示す最新性や緊急性の優先度、またはユーザーが定義したスコアに基づいて計算されます。 **[!UICONTROL 優先度]**&#x200B;は、[!DNL Marketo Sales Insight] のユーザのみが使用できます。
 
 ![](assets/top-ten.png)
 

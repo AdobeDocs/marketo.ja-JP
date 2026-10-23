@@ -19,7 +19,7 @@ workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 84%
 ---
-# [!UICONTROL 重点顧客]の削除 {#delete-a-named-account}
+# [!UICONTROL 重点アカウント]の削除 {#delete-a-named-account}
 
 重点アカウントを削除するには、次の手順に従います。
 
@@ -31,7 +31,7 @@ ht-degree: 84%
    >
    >複数の重点アカウントを選択するには、Ctrl キー（Windows）または Command キー（Mac）を押しながらクリックします。
 
-1. **[!UICONTROL 重点顧客のアクション]**&#x200B;ドロップダウンをクリックし、「**[!UICONTROL 重点顧客を削除]**」を選択します。
+1. **[!UICONTROL 重点アカウントのアクション]**&#x200B;ドロップダウンをクリックし、「**[!UICONTROL 重点アカウントを削除]**」を選択します。
 
    ![](assets/eight-1.png)
 

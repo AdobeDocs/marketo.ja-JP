@@ -7,29 +7,34 @@ feature: Target Account Management
 TQID: https://experienceleague.adobe.com/UOnC6liEOBDJ7IbaKhf5lYjNfZgKJEXAYqaHrYLGErc
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 subfeature_v2:
   - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
+    internal-label: Target Account Management
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 515
+source-wordcount: '515'
 ht-degree: 94%
-
 ---
-
 # リードと顧客の照合 {#lead-to-account-matching}
 
 Marketo のリードと顧客の照合を使用して、適切なリードを適切な重点顧客に照合します。
 
 >[!NOTE]
 >
->**リードと顧客の照合**&#x200B;は、Marketo [!UICONTROL ターゲット顧客管理]のビルトインの機能です。 ファジィ論理を使用して、ほぼリアルタイムで適切な重点顧客にリードを自動的に一致させます。 これらの重点顧客は、CRM アカウントまたは Marketo の会社です。
+>**リードと顧客の照合**&#x200B;は、Marketo [!UICONTROL ターゲット顧客管理]のビルトインの機能です。 ファジィ論理を使用して、ほぼリアルタイムで適切な重点アカウントにリードを自動的に一致させます。 これらの重点アカウントは、CRM アカウントまたは Marketo の会社です。
 
 ## 概要 {#overview}
 
@@ -38,24 +43,24 @@ Marketo のリードと顧客の照合は、次の 4 つの手順に従います
 **手順 1：**&#x200B;照合プロセスは、次のようなリードレコードの主要情報を使用して開始されます。
 
 * メールドメイン（例：acme.com）
-* 推測される会社名（IP アドレスから）
+* IP アドレスから推測された会社名
 * 会社名 — CRM 顧客名またはリード会社名属性（フォームの入力からの場合など）
 
-**手順 2：** 様々なリード属性に基づいて見つけた会社名を標準化します（例：Acme Inc.や Acme Corp は、自動的に Acme に正規化されます）。 この手順では、Marketo に重点顧客の単一の表現が存在し、1 つの特定顧客内のすべてのリードを確認できます。
+**手順 2：** 様々なリード属性に基づいて見つけた会社名を標準化します（例：Acme Inc.や Acme Corp は、自動的に Acme に正規化されます）。 この手順では、Marketo に重点アカウントの単一の表現が存在し、1 つの重点アカウント内のすべてのリードを確認できます。
 
 **手順 3**：一致したリードを 2 つのバケット（強い一致と弱い一致）に分割しました。
 
-* 一致のないリードが重点顧客に表示され、手動で解決できます。
+* 弱一致のリードは重点アカウントに表示され、そこで手動で解決できます。
 
-**手順 4**：強い一致と弱い一致を持つ提案企業のリストを提示します。 提案された会社の 1 つに基づいて重点顧客を作成する場合、一致するルールを作成して、新規リード（例：フォームに入力されたリード）を適切な重点顧客に自動的に関連付けます。 これにより、リードの照合の心配を減らし、収益の獲得についての心配を減らすことができます。
+**手順 4**：強い一致と弱い一致を持つ提案企業のリストを提示します。 提案された会社の 1 つに基づいて重点アカウントを作成する場合、一致するルールを作成して、新規リード（例：フォームに入力されたリード）を適切な重点アカウントに自動的に関連付けます。 これにより、リードの照合に費やす時間を減らし、収益の獲得により注力できるようになります。
 
-Marketo のリードとアカウントの照合は Marketo [!UICONTROL ターゲットアカウント管理]のビルトインの機能なので、ほぼリアルタイムで行われます（例えば、リードが Marketo フォームに入力した瞬間に、適切な重点顧客と関連付けます）。 このイベントを使用して、アラートをトリガーし、顧客の所有者に対して、重点顧客からの新規リードの通知をおこなうことができます。
+Marketo のリードとアカウントの照合は Marketo [!UICONTROL ターゲットアカウント管理]のビルトインの機能なので、ほぼリアルタイムで行われます（例えば、リードが Marketo フォームに入力した瞬間に、適切な重点アカウントと関連付けます）。 このイベントを使用してアラートをトリガーし、重点アカウントから入ってくる新規リードについてアカウント所有者に通知できます。
 
 >[!NOTE]
 >
->Salesforce の LeanData を使用してリードと顧客の照合をおこなう場合、Marketo は、Marketo インスタンスとの一致を同期する統合を備えています。 この機能を有効にするには、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に問い合わせてください。以下で LeanData の設定方法を説明します。
+>Salesforce で LeanData を使用してリードとアカウントの照合を行う場合、Marketo にはそれらの照合結果を Marketo インスタンスと同期するための統合機能があります。 この機能を有効にするには、[Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)に問い合わせてください。以下で LeanData の設定方法を説明します。
 
-## リードと顧客の照合に LeanData を使用 {#using-leandata-for-lead-to-account-matching}
+## リードとアカウントの照合における LeanData の使用 {#using-leandata-for-lead-to-account-matching}
 
 [Marketo サポート](https://nation.marketo.com/t5/Support/ct-p/Support)がお使いのアカウントで LeanData を有効にした後、以下の手順に従って設定します。
 
@@ -65,7 +70,7 @@ Marketo のリードとアカウントの照合は Marketo [!UICONTROL ターゲ
 
 1. **Marketo 同期**&#x200B;プロファイルを見つけて選択します。
 
-1. 下のフィールドレベルのセキュリティセクションまでスクロールし、リードオブジェクトを見つけます。 **[!UICONTROL ビュー]**&#x200B;を選択します。
+1. 「フィールドレベルのセキュリティ」セクションまでスクロールし、リードオブジェクトを見つけます。 **[!UICONTROL ビュー]**&#x200B;を選択します。
 
 1. フィールド名が「Reporting Matched Account」である場合は、**[!UICONTROL 読み取りアクセス]**&#x200B;列のチェックボックスが選択されていることを確認してください。
 

@@ -19,7 +19,7 @@ workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 67%
 ---
-# [!UICONTROL 重点顧客の作成] {#create-a-named-account}
+# [!UICONTROL 重点アカウントの作成] {#create-a-named-account}
 
 重点アカウントを手動で作成するには、次の手順に従います。
 
