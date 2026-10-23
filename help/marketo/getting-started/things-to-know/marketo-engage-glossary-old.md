@@ -33,7 +33,7 @@ Marketo Engage を使用する際に目にする可能性のある多くの用�
   </tr>
   <tr>
    <td colspan="1"><strong>アカウント</strong></td>
-   <td colspan="1">この用語は、異なる意味を持つ可能性があります：<br> – お客様のMarketo インスタンス自体をMarketo アカウントと呼ぶことができます。<br>-<strong>TAM</strong>では、<strong>名前付きアカウント </strong>は、ユーザーが決定したアカウントが対象アカウントであると判断したアカウントです。<br>-TAMでは、CRM アカウントは、リンクされた<strong>CRM</strong> （アカウント <strong><span class="dnl">Salesforce</span></strong>、<strong><span class="dnl">MS Dynamics</span></strong>または</strong>）から4} アカウント）から0} アカウント 0}です。<strong> リードと連絡先が関連付けられているビジネス/企業。<br></td>
+   <td colspan="1">この用語は、異なる意味を持つ可能性があります：<br> – お客様のMarketo インスタンス自体をMarketo アカウントと呼ぶことができます。<br>-<strong>TAM</strong>では、<strong>名前付きアカウント </strong>は、ユーザーが決定したアカウントが対象アカウントであると判断したアカウントです。<br>-TAMでは、CRM アカウントは、リンクされた<strong>CRM</strong> （アカウント <strong><span class="dnl">Salesforce</span></strong>、<strong><span class="dnl">MS Dynamics</span></strong>または</strong>）から4&rbrace; アカウント）から0&rbrace; アカウント 0&rbrace;です。<strong> リードと連絡先が関連付けられているビジネス/企業。<br></td>
   </tr>
   <tr>
    <td><strong>顧客リスト</strong></td>

@@ -29,7 +29,7 @@ ht-degree: 86%
 
 >[!PREREQUISITES]
 >
->* [ [!DNL Web Personalization]  データを使用したリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)の設定の完了
+>* [&#x200B; [!DNL Web Personalization]  データを使用したリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)の設定の完了
 >* [リマーケティングと Google Analytics のヘルプ](https://support.google.com/analytics/topic/2611283?hl=en&ref_topic=3413645)ドキュメントを確認してください。
 
 ## Google でのリマーケティングオーディエンスの作成 {#creating-a-remarketing-audience-in-google}
@@ -46,7 +46,7 @@ ht-degree: 86%
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. オーディエンスビルダーで、[!UICONTROL  カスタムディメンション ]、[!UICONTROL [!]UICONTROL カスタム変数]、[!UICONTROL  イベント ]の下の&#x200B;**[!UICONTROL シーケンス]**&#x200B;と&#x200B;**[!UICONTROL RTP データ]**&#x200B;をクリックします。
+1. オーディエンスビルダーで、[!UICONTROL &#x200B; カスタムディメンション &#x200B;]、[!UICONTROL UICONTROL [ !] カスタム変数]、[!UICONTROL &#x200B; イベント &#x200B;]の下の&#x200B;**[!UICONTROL シーケンス]**&#x200B;と&#x200B;**[!UICONTROL RTP データ]**&#x200B;をクリックします。
 
 >[!TIP]
 >
@@ -95,7 +95,7 @@ ht-degree: 86%
 
    ![](assets/image2015-1-15-18-3a35-3a7.png)
 
-1. **[!UICONTROL 広告グループ名]を入力し、****[!UICONTROL 拡張 CPC]** を入力して、「**[!UICONTROL リマーケティングリスト]**」を選択します。
+1. **[!UICONTROL 広告グループ名]を入力し、**&#x200B;**[!UICONTROL 拡張 CPC]** を入力して、「**[!UICONTROL リマーケティングリスト]**」を選択します。
 
    ![](assets/image2015-1-15-18-3a51-3a57.png)
 
@@ -106,5 +106,5 @@ ht-degree: 86%
 
 >[!MORELIKETHIS]
 >
->* [ [!DNL Web Personalization]  データを使用したリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* [ [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) でのパーソナライズリマーケティング
+>* [&#x200B; [!DNL Web Personalization]  データを使用したリターゲティング](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+>* [&#x200B; [!DNL Facebook]](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) でのパーソナライズリマーケティング

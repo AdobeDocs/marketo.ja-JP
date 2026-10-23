@@ -82,7 +82,7 @@ AA でこれらの変数を設定するには、次の手順を実行します�
 
 1. AA アカウントで&#x200B;**[!UICONTROL 管理ツール]**&#x200B;に移動します。
 1. 連携で使用する&#x200B;**[!UICONTROL レポートスイート]**&#x200B;を選択します。
-1. **[!UICONTROL 設定を編集]**&#x200B;で、**[!UICONTROL コンバージョン]**&#x200B;に移動し、**[[!UICONTROL コンバージョン変数]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**を選択します。
+1. **[!UICONTROL 設定を編集]**&#x200B;で、**[!UICONTROL コンバージョン]**&#x200B;に移動し、**[[!UICONTROL コンバージョン変数]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**&#x200B;を選択します。
 [コンバージョン変数](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar)数を選択します。以下をおすすめします。
 
    1. Evar 20：業界カスタムコンバージョン

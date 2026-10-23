@@ -320,7 +320,7 @@ Web パーソナライゼーションが複数のワークスペースに対応�
 
 **[トークンを再読み込み](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md)**
 
-リターゲティングおよび[!UICONTROL LinkedIn リードジェネレーション ] フォームソリューションに更新トークンを実装しました。このソリューションでは、再認証が必要になるまでに1年までアクセス時間を延長します。
+リターゲティングおよび[!UICONTROL LinkedIn リードジェネレーション &#x200B;] フォームソリューションに更新トークンを実装しました。このソリューションでは、再認証が必要になるまでに1年までアクセス時間を延長します。
 
 ## API {#api}
 
