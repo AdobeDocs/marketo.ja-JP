@@ -21,7 +21,7 @@ ht-degree: 85%
 ---
 # TAM 階層 {#tam-hierarchies}
 
-階層を使用すると、TAM ユーザは、CRM の[!UICONTROL 重点顧客]間の親／子の関係を継承できます。
+階層を使用すると、TAM ユーザは、CRM の[!UICONTROL 重点アカウント]間の親／子の関係を継承できます。
 
 ## TAM 階層とは {#what-are-tam-hierarchies}
 
@@ -29,7 +29,7 @@ ht-degree: 85%
 
 ## TAM 階層の操作 {#working-with-tam-hierarchies}
 
-TAM 階層を使用すると、階層全体または個々のアカウントに関する情報を、[!UICONTROL 重点顧客]ダッシュボードで素早く取得できます。
+TAM 階層を使用すると、階層全体または個々のアカウントに関する情報を、[!UICONTROL 重点アカウント]ダッシュボードで素早く取得できます。
 
 **階層を使用しない**
 

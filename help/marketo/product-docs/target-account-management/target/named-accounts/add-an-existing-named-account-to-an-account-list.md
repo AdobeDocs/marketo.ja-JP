@@ -19,7 +19,7 @@ workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 75%
 ---
-# 既存の[!UICONTROL 重点顧客]を顧客リストに追加する {#add-an-existing-named-account-to-an-account-list}
+# 既存の[!UICONTROL 重点アカウント]を顧客リストに追加する {#add-an-existing-named-account-to-an-account-list}
 
 重点アカウントをアカウントリストに追加する操作は簡単です。
 
@@ -41,4 +41,4 @@ ht-degree: 75%
 
 >[!MORELIKETHIS]
 >
->[[!UICONTROL 重点顧客]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)の作成
+>[[!UICONTROL 重点アカウント]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)の作成

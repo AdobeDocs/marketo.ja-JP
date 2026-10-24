@@ -21,7 +21,7 @@ ht-degree: 86%
 ---
 # [!UICONTROL 重点顧客]の概要 {#named-account-overview}
 
-[!UICONTROL 名前付きアカウント &#x200B;]には、対象の企業の人物が含まれています。 ダッシュボードには、すべての重点顧客の各属性の現在のデータが表示されます。
+[!UICONTROL 名前付きアカウント &#x200B;]には、対象の企業の人物が含まれています。 ダッシュボードには、すべての重点アカウントの各属性の現在のデータが表示されます。
 
 ## [!UICONTROL 重点顧客]ダッシュボード {#named-accounts-dashboard}
 
@@ -35,7 +35,7 @@ ht-degree: 86%
 >
 >Marketo では、Marketo に同期されたすべての CRM ユーザが、「アカウントオーナー」または「アカウントチームのメンバー」のフィルター値として表示されます。
 
-## [!UICONTROL 重点顧客]属性 {#named-account-attributes}
+## [!UICONTROL 重点アカウント]属性 {#named-account-attributes}
 
 <table>
  <tbody>
@@ -45,11 +45,11 @@ ht-degree: 86%
   </tr>
   <tr>
    <td><strong><span class="uicontrol">重点顧客</span></strong></td>
-   <td>重点顧客の名前</td>
+   <td>重点アカウントの名前</td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">リード</span></strong></td>
-   <td>重点顧客に属するリードの数</td>
+   <td>重点アカウントに属するリードの数</td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">パイプライン</span></strong></td>
@@ -61,7 +61,7 @@ ht-degree: 86%
   </tr>
   <tr>
    <td><strong><span class="uicontrol">ドメイン</span></strong></td>
-   <td>重点顧客のドメイン（marketo.com など）</td>
+   <td>重点アカウントのドメイン（marketo.com など）</td>
   </tr>
   <tr>
    <td><strong><span class="uicontrol">業界</span></strong></td>
@@ -85,7 +85,7 @@ ht-degree: 86%
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">市区町村</span></strong></td>
-   <td colspan="1">重点顧客の市区町村</td>
+   <td colspan="1">重点アカウントの市区町村</td>
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">都道府県／地域</span></strong></td>
@@ -93,7 +93,7 @@ ht-degree: 86%
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">国</span></strong></td>
-   <td colspan="1">重点顧客の国</td>
+   <td colspan="1">重点アカウントの国</td>
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">作成日</span></strong></td>

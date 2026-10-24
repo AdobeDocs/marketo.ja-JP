@@ -44,10 +44,10 @@ ht-degree: 65%
 
 ![](assets/five.png)
 
-重要顧客にドリルダウンする顧客リストダッシュボードを表示する代わりに、名前の下の「**[!UICONTROL 詳細]**」をクリックすると、
+重点アカウントにドリルダウンする顧客リストダッシュボードを表示する代わりに、名前の下の「**[!UICONTROL 詳細]**」をクリックすると、
 
 ![](assets/six.png)
 
-[重要顧客のインサイト](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md)を確認できます。
+[重点アカウントのインサイト](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md)を確認できます。
 
 ![](assets/seven.png)

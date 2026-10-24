@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 6d87546b2dda91d292596a246fda2aec8c5b496a
+source-git-commit: 26cd137342ecb342803a74c44713541af9faf28c
 workflow-type: tm+mt
-source-wordcount: '1245'
+source-wordcount: '1282'
 ht-degree: 5%
 ---
 # AWSへの移行 {#aws-migration}
@@ -32,7 +32,7 @@ ht-degree: 5%
 
 * **データのインポートまたはエクスポート、または主要なリード/人物生成キャンペーンを実行しないでください。**
 
-* **ログイン、API アクセス、電子メール送信、web トラッキング、および統合に関するIP許可リスト**&#x200B;のレビューと更新。
+* **ログイン、API アクセス、電子メール送信、web トラッキング、および統合（CRM同期やWebhookなど）のIP アドレスの確認と更新**&#x200B;を行います。
 
 * **新しいIP アドレス**&#x200B;を追加し、現在のIP アドレスをそのまま維持します。 以下の[&#x200B; テーブルを介して追加するIP アドレスを参照してください](#ip-addresses)。
 
@@ -332,7 +332,7 @@ ht-degree: 5%
 
 ## 追加するIP アドレス {#ip-addresses}
 
-データセンターに基づいて、IT部門と協力して、それぞれのIP アドレスを追加します。
+お客様の組織がIP許可リスト、ファイアウォール、アクセス制御リスト、セキュリティグループ、またはMarketo Engageからの接続を受け入れるように設定された他のサーバーまたはサードパーティサービスを使用している場合は、IT部門と協力して、以下の表に示すデータセンター固有のIP アドレスを追加します。
 
 <table>
 <tbody>

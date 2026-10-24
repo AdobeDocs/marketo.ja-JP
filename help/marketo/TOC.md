@@ -1810,8 +1810,8 @@ ht-degree: 96%
       + [アカウントインサイトにアクセスするユーザの招待](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
     + ターゲット {#target}
       + 重点顧客 {#named-accounts}
-        + [重点顧客の概要](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
-        + [重点顧客のインポート](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
+        + [重点アカウントの概要](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
+        + [重点アカウントの読み込み](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
         + [既存の重点顧客をアカウントリストに追加](product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
         + [重点顧客の作成](product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
         + [重点アカウントへの人物の追加](product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)

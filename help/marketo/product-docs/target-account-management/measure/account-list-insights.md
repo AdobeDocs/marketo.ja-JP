@@ -53,7 +53,7 @@ ht-degree: 87%
  </tbody>
 </table>
 
-## 重点顧客タブ {#named-accounts-tab}
+## 重点アカウントタブ {#named-accounts-tab}
 
 「**[!UICONTROL 重点顧客]**」タブをクリックして、該当する顧客リストに属する重点顧客を確認します。
 

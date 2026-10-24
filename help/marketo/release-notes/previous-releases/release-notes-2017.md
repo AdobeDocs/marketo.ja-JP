@@ -93,7 +93,7 @@ Web パーソナライゼーション、[!UICONTROL 予測コンテンツ]、メ
 
 ## アカウントベースのマーケティングの強化 {#account-based-marketing-enhancements}
 
-**[重点顧客の読み込み](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
+**[重点アカウントの読み込み](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md)**
 
 「[!UICONTROL 重点顧客]を読み込む」オプションを使用する場合、CSV アップロードを使用して複数のレコードを一度に作成または更新します。
 
@@ -101,7 +101,7 @@ Web パーソナライゼーション、[!UICONTROL 予測コンテンツ]、メ
 
 **[メールインサイトのサポート](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md)**
 
-メールインサイトのディメンションとして[!UICONTROL 重点顧客]または[!UICONTROL アカウントリスト]を使用します。
+メールインサイトのディメンションとして[!UICONTROL 重点アカウント]または[!UICONTROL アカウントリスト]を使用します。
 
 ![](assets/ei.png)
 
@@ -187,17 +187,17 @@ Marketo から外部システムに、大量のリードおよびアクティビ
 
 ## ABM の機能拡張
 
-**[ABM 重点顧客のカスタムフィールド](https://docs.marketo.com/x/1wnG)**
+**[ABM 重点アカウントのカスタムフィールド](https://docs.marketo.com/x/1wnG)**
 
 Marketo ABM で、重点アカウントに最大 10 個のカスタムフィールドを作成できるようになりました。 これらのカスタムフィールドを CRM のアカウントオブジェクト内のフィールドにマップすると、Marketo ABM がデータを同期し、ABM 重点アカウントを拡張してマーケティング活動を推進できます。
 
-**[ABM 重点顧客のパーセンタイル値](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+**[ABM 重点アカウントのパーセンタイル値](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
-重点アカウントのスコアは大きく異なる場合があります。 Marketo ABM は各スコアのパーセンタイルを自動的に計算するようになり、重点顧客に対する各重点顧客のランキングを一目で確認できます。
+重点アカウントのスコアは大きく異なる場合があります。 Marketo ABM は各スコアのパーセンタイルを自動的に計算するようになり、重点アカウントに対する各重点アカウントのランキングを一目で確認できます。
 
 **[ABM 顧客リスト API](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
-重点顧客用に強化された API サポートを備えた豊富で堅牢な ABM パートナー統合を活用してください。
+重点アカウント用に強化された API サポートを備えた豊富で堅牢な ABM パートナー統合を活用してください。
 
 ## Web パーソナライゼーションの機能拡張
 
@@ -428,7 +428,7 @@ Marketo ABM は CRM に関連する動作を変更しています。 今後、Ma
 
 ## [!DNL Account Insight] {#account-insight}
 
-**[[!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** は、実用的な ABM とアカウントのインサイトをセールスチームに提供する [!DNL Google Chrome] プラグインです。セールスチームはこのインサイトを活用し、マーケティングと緊密に連携して効果的にアカウントと関わることができます。 セールスチームは、自分たちが担当する各重点顧客について生成されたデータとインサイトを把握できるようになります。 これには、アカウントスコアのパーセンタイル、重点顧客の優先リスト、アカウント内のエンゲージした人物、およびアカウントからの最近のアクティビティのライブのアクティビティストリームが含まれます。
+**[[!DNL Account Insight]](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)** は、実用的な ABM とアカウントのインサイトをセールスチームに提供する [!DNL Google Chrome] プラグインです。セールスチームはこのインサイトを活用し、マーケティングと緊密に連携して効果的にアカウントと関わることができます。 セールスチームは、自分たちが担当する各重点アカウントについて生成されたデータとインサイトを把握できるようになります。 これには、アカウントスコアのパーセンタイル、重点アカウントの優先度リスト、アカウント内の関係者、およびアカウントからの最近のアクティビティのライブアクティビティストリームが含まれます。
 
 ![](assets/image001.png) ![](assets/image002.png)
 

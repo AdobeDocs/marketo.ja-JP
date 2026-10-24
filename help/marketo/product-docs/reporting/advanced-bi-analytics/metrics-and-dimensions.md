@@ -6,17 +6,18 @@ exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
 TQID: https://experienceleague.adobe.com/h8XJqbxeqH-Fm3xe8BzwBnSW41F5CfuDiA1sPP6JJVU
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: 1058
+source-wordcount: '1058'
 ht-degree: 41%
-
 ---
-
 # 指標とディメンション {#metrics-and-dimensions}
 
 収益サイクルエクスプローラーの分析レポートで使用できるすべての指標とディメンションは、次のとおりです。
@@ -104,7 +105,7 @@ ht-degree: 41%
       </td>
     </tr>
     <tr>
-      <td>モデル効果分析（会社）</td>
+      <td>モデルパフォーマンス分析（会社）</td>
       <td>
         <ul>
           <li>期間</li>
@@ -123,7 +124,7 @@ ht-degree: 41%
       </td>
     </tr>
     <tr>
-      <td>モデル効果分析（リード）</td>
+      <td>モデルパフォーマンス分析（リード）</td>
       <td>
         <ul>
           <li>期間</li>
@@ -328,7 +329,7 @@ ht-degree: 41%
             <li>メールアドレス</li>
             <li>メール無効</li>
             <li>リード所有者のメールアドレス</li>
-            <li>リード所有者の職位</li>
+            <li>リード所有者の役職名</li>
             <li>リード所有者名</li>
             <li>リードのソース</li>
             <li>リードのステータス</li>
@@ -382,7 +383,7 @@ ht-degree: 41%
           <ul>
             <li>ABM カントリー</li>
             <li>ABM CRM ID</li>
-            <li>重点顧客</li>
+            <li>重点アカウント</li>
           </ul>
       </td>
       <td>MPA_C
@@ -718,7 +719,7 @@ ht-degree: 41%
             <li>%新しい名前（現在）</li>
             <li>%の新しい名前（永続）</li>
             <li>ステージまでの平均日数</li>
-            <li>新しい名前あたりのコスト</li>
+            <li>新規名あたりのコスト</li>
             <li>新しい名前（現在）</li>
             <li>新しい名前（永続）</li>
           </ul>

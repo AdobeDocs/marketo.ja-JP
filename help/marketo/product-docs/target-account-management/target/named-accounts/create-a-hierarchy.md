@@ -35,7 +35,7 @@ ht-degree: 85%
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. 「**[!UICONTROL 重点顧客のアクション]**」ドロップダウンをクリックし、「**[!UICONTROL 重点顧客]**&#x200B;へのリンク」を選択します。
+1. 「**[!UICONTROL 重点アカウントのアクション]**」ドロップダウンをクリックし、「**[!UICONTROL 重点アカウント]**&#x200B;へのリンク」を選択します。
 
    ![](assets/create-a-hierarchy-3.png)
 
@@ -43,7 +43,7 @@ ht-degree: 85%
    >
    >アカウントのリンクを解除する場合は、上記の手順に従いますが、「**[!UICONTROL 重点顧客からリンク解除]**」を選択します。
 
-1. ドロップダウンから「親の重点顧客」を選択し、「**[!UICONTROL リンク]**」をクリックします。
+1. ドロップダウンから「親の重点アカウント」を選択し、「**[!UICONTROL リンク]**」をクリックします。
 
    ![](assets/create-a-hierarchy-4.png)
 
