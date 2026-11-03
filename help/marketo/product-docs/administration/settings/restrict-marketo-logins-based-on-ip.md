@@ -29,7 +29,7 @@ IP アドレスに基づいて、ユーザの Marketo へのアクセスを制�
 
 >[!IMPORTANT]
 >
->Adobe Admin Console （AAC）は[IP ベースのアクセス制御](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}をサポートしています。 移行をスムーズに行うために、この機能が有効になっているサブスクリプションでは、Adobe ID ユーザーを含む既存のMarketo Engage IP制限が2027年第1四半期まで有効になります。
+>Adobe Admin Console （AAC）は[IP ベースのアクセス制御](https://helpx.adobe.com/jp/enterprise/using/ip-based-access.html){target="_blank"}をサポートしています。 移行をスムーズに行うために、この機能が有効になっているサブスクリプションでは、Adobe ID ユーザーを含む既存のMarketo Engage IP制限が2027年第1四半期まで有効になります。
 >
 >* AAC IP ベースのアクセスはいつでも設定できます。
 >* AACとMarketo Engageの両方の制限を同時に実行できます。 互換性のために同じIP許可リストを使用してください。

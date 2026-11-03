@@ -38,7 +38,7 @@ ht-degree: 73%
 
 >[!TIP]
 >
->Workspaceのベストプラクティスについて詳しくは、[Marketo プロフェッショナルサービス &#x200B;](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
+>Workspaceのベストプラクティスについて詳しくは、[Marketo プロフェッショナルサービス &#x200B;](https://business.adobe.com/jp/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
 
 1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
