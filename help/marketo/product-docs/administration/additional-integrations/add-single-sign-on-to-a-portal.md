@@ -37,7 +37,7 @@ SSO を有効にすると、IdP がユーザーの資格情報を検証できる
 
 >[!IMPORTANT]
 >
->これは、**not**&#x200B;がAdobe IDにオンボーディングされたサブスクリプションに適用されます。 以前の設定が（IMS移行前から）表示される場合がありますが、この設定は適用されません。 Adobe IDにオンボーディングされたサブスクリプションの場合、[ シングルサインオンはAdobe Admin ConsoleのAdobe組織レベルで](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}設定されます。
+>これは、**not**&#x200B;がAdobe IDにオンボーディングされたサブスクリプションに適用されます。 以前の設定が（IMS移行前から）表示される場合がありますが、この設定は適用されません。 Adobe IDにオンボーディングされたサブスクリプションの場合、[&#x200B; シングルサインオンはAdobe Admin ConsoleのAdobe組織レベルで](https://helpx.adobe.com/jp/enterprise/using/set-up-identity.html){target="_blank"}設定されます。
 
 >[!NOTE]
 >
@@ -81,7 +81,7 @@ SSO はデフォルトで無効になっています。 SAML を有効にして�
 
    >[!NOTE]
    >
-   >**[!UICONTROL 管理者]**&#x200B;の下に&#x200B;**[!UICONTROL シングルサインオン]**&#x200B;が表示されない場合は、[Marketo サポート ](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。
+   >**[!UICONTROL 管理者]**&#x200B;の下に&#x200B;**[!UICONTROL シングルサインオン]**&#x200B;が表示されない場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。
 
 1. 「**[!UICONTROL SAML 設定]**」セクションで、「**[!UICONTROL 編集]**」をクリックします。
 

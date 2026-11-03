@@ -64,4 +64,4 @@ Marketoは、[!DNL Adobe Connect] ウェビナーの登録と出席を管理し�
 
 >[!MORELIKETHIS]
 >
->[ [!DNL Adobe Connect]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"} でイベントを作成する方法を参照してください。
+>[&#x200B; [!DNL Adobe Connect]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"} でイベントを作成する方法を参照してください。
