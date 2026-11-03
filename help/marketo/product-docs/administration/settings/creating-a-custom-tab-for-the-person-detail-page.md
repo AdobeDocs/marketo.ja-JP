@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360305
 description: 人物詳細ページのカスタムレイアウトの作成方法。
-title: ユーザーの詳細ページ用のカスタムタブの作成
+title: 人物の詳細ページ用のカスタムタブの作成​
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
 TQID: https://experienceleague.adobe.com/kguUTUeSqbj8uAZkjUwqhEaTDairHDDADDDWG3CdG6I
@@ -16,18 +16,16 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 138
-ht-degree: 63%
-
+source-wordcount: '139'
+ht-degree: 58%
 ---
-
-# ユーザーの詳細ページ用のカスタムタブの作成 {#creating-a-custom-tab-for-the-person-detail-page}
+# 人物の詳細ページ用のカスタムタブの作成&#x200B; {#creating-a-custom-tab-for-the-person-detail-page}
 
 人物の詳細ページの特定のフィールドセットに頻繁にアクセスする必要がある場合は、カスタムレイアウトの作成を検討してください。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 

@@ -21,9 +21,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '1703'
+source-wordcount: '1704'
 ht-degree: 84%
 ---
 # 設定手順 {#setup-steps}
@@ -73,7 +73,7 @@ Google アプリを使用して会社の電子メールをホストしている�
 >
 >メールとランディングページの CNAME は別にする必要があります。 また、「トラック」や「リンク」などのCNAMEは避けます。 多くの場合、迷惑メールとしてフラグが立てられます。
 
-Marketo のトラッキングリンクを確認するには、「**[!UICONTROL 管理者]**」領域に移動します。
+Marketoのトラッキングリンクを見つけるには、My Marketoで「**[!UICONTROL 管理者]**」をクリックします。
 
 ![](assets/setup-steps-1.png)
 

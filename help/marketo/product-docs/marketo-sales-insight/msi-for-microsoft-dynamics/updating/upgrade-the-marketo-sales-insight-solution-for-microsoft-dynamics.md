@@ -14,10 +14,10 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 85%
+source-wordcount: '140'
+ht-degree: 81%
 ---
 # [!DNL Microsoft Dynamics] 用 [!DNL Marketo Sales Insight] ソリューションのアップグレード {#upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
@@ -27,7 +27,7 @@ ht-degree: 85%
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 

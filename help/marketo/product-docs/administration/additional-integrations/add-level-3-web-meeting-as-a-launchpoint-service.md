@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512292
-description: Marketoでの登録と出席を管理するLaunchPoint サービスとして [!DNL Level 3 Web Meeting] を追加します。
-title: ' [!DNL Level 3 Web Meeting] を [!DNL LaunchPoint Service]として追加'
+description: LaunchPoint サービスとして[!DNL Level 3 Web Meeting]を追加して、Marketoでの登録と出席を管理します。
+title: '[!DNL Level 3 Web Meeting]を[!DNL LaunchPoint Service]として追加'
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/3Pdb9Y3Bozl0TTaPkRlZ-jgP9sn-iYZJ-60z8N6MlPI
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 98
-ht-degree: 86%
-
+source-wordcount: '101'
+ht-degree: 79%
 ---
-
 # [!DNL Level 3 Web Meeting] を [!DNL LaunchPoint] サービスとして追加 {#add-level-three-web-meeting-as-a-launchpoint-service}
 
 Marketo は、[!DNL Level 3 Web Meeting] の登録と出席を管理します。
@@ -35,7 +33,7 @@ Marketo は、[!DNL Level 3 Web Meeting] の登録と出席を管理します。
 >
 >この手順を実行するには、[!DNL Level 3 Web Meeting] の既存のサブスクリプションと管理者権限が必要です。 アクセス番号、アクセスコード、パスコードを手元に用意しておきます。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 

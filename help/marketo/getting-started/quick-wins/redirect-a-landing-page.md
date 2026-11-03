@@ -11,10 +11,10 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 96%
+source-wordcount: '145'
+ht-degree: 92%
 ---
 # ランディングページのリダイレクト {#redirect-a-landing-page}
 
@@ -31,7 +31,7 @@ ht-degree: 96%
 
 ## 手順 1：新しいリダイレクトルールを開始する {#step-start-a-new-redirect-rule}
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/redirect-a-landing-page-1.png)
 

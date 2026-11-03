@@ -10,9 +10,9 @@ product_v2:
 feature_v2:
   - id: 44b89f75-c1af-5353-8094-79b278102d46
     internal-label: Mobile Marketing
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '158'
 ht-degree: 25%
 ---
 # Vibes を LaunchPoint サービスとして追加する {#add-vibes-as-a-launchpoint-service}
@@ -27,7 +27,7 @@ Vibes SMS キャンペーンにオプトインしたユーザーにSMS メッセ
 >
 >Vibes SMSのアクティブなVibes アカウントとAdobe ライセンスが必要です。
 
-1. マイMarketoで、**[!UICONTROL 管理者]** エリアに移動します。
+1. マイMarketoで、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 

@@ -23,10 +23,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 68%
+source-wordcount: '737'
+ht-degree: 67%
 ---
 # Marketo カスタムオブジェクトリンクフィールドの追加 {#add-marketo-custom-object-link-fields}
 
@@ -43,7 +43,7 @@ ht-degree: 68%
 
 1対多の構造のカスタムオブジェクトにリンクフィールドを作成するには、次の手順に従います。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
@@ -97,7 +97,7 @@ ht-degree: 68%
 >
 >中間オブジェクトと、その中間オブジェクトにリンクする予定のカスタムオブジェクトを既に作成している必要があります。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 

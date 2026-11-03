@@ -25,10 +25,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 47%
+source-wordcount: '154'
+ht-degree: 43%
 ---
 # スマートキャンペーンの対象者制限の有効化 {#enable-person-restrictions-for-smart-campaigns}
 
@@ -42,7 +42,7 @@ Marketoには、スマートキャンペーンの対象となるユーザーの�
 >
 >これは、バッチキャンペーンとメールプログラムにのみ適用されます。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 

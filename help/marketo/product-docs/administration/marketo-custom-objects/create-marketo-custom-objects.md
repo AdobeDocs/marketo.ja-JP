@@ -21,10 +21,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '771'
-ht-degree: 55%
+source-wordcount: '774'
+ht-degree: 53%
 ---
 # Marketo カスタムオブジェクトの作成 {#create-marketo-custom-objects}
 
@@ -42,7 +42,7 @@ ht-degree: 55%
 
 この例では、1 対多の構造で使用する「自動車」カスタムオブジェクトを示します。 後で、多対多の構造で使用するコースカスタムオブジェクトと中間オブジェクトを作成します。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -88,7 +88,7 @@ ht-degree: 55%
 >
 >多対多の関係の場合、カスタムオブジェクトにリンクを作成する必要はありません。 代わりに、中間オブジェクトに2つのリンクを追加します（以下を参照）。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -130,7 +130,7 @@ ht-degree: 55%
 >
 >1対多のカスタムオブジェクト構造の中間オブジェクトを作成する必要はありません。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-marketo-custom-objects-13.png)
 

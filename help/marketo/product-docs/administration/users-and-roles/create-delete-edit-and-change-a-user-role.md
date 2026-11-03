@@ -17,13 +17,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 281
-ht-degree: 77%
-
+source-wordcount: '285'
+ht-degree: 69%
 ---
-
 # ユーザーのロールの作成、削除、編集および変更 {#create-delete-edit-and-change-a-user-role}
 
 **役割**&#x200B;は、一連の権限をグループ化します。 **権限**&#x200B;を使用すると、Marketoでアクションを実行できます。 **ロール**&#x200B;をユーザーに送信します。
@@ -41,7 +39,7 @@ ht-degree: 77%
 
 ## ロールの作成 {#create-a-role}
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
@@ -59,7 +57,7 @@ ht-degree: 77%
 
 ## ロールの削除 {#delete-a-role}
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
@@ -85,7 +83,7 @@ ht-degree: 77%
 >
 >自分のユーザーの役割を編集するには、管理者権限を持つ別のユーザーとしてログインする必要があります。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
@@ -111,7 +109,7 @@ ht-degree: 77%
 
 ## ユーザーのロールの変更 {#change-a-users-role}
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 

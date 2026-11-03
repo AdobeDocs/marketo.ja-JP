@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 61%
+source-wordcount: '143'
+ht-degree: 57%
 ---
 # 顧客パーティションのワークスペースへの割り当て {#assign-person-partitions-to-workspaces}
 
@@ -37,7 +37,7 @@ ht-degree: 61%
 >
 >ワークスペースと顧客パーティションは複雑になる場合があります。 設定のヘルプについては、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}にお問い合わせください。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 

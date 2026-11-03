@@ -27,20 +27,18 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 169
-ht-degree: 88%
-
+source-wordcount: '170'
+ht-degree: 85%
 ---
-
 # スニペットで「ドラフトなし」を有効にする {#enable-no-draft-for-snippets}
 
 スニペットで「ドラフトなし」を有効にすると、スニペットを使用する承認済みアセットのドラフトなしでスニペットの変更を配布できます。 編集済みのスニペットを使用するすべてのアセットが更新を受け取り、それぞれのステータスを維持します。
 
-* 承認済みアセットはスニペットの更新を取得し、承認は維持されます
+* 承認済みアセットはスニペットの更新を取得し、承認済みのままになります
 
-* ドラフトはスニペットの更新を取得し、ドラフトモードは維持されます
+* ドラフトはスニペットの更新を取得し、ドラフトモードのままになります
 
 「ドラフトなし」は、すべての管理者の役割に対して自動的に有効になります。 その後、管理者は、その他の役割に対してこの機能を有効にできます。
 
@@ -48,7 +46,7 @@ ht-degree: 88%
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
@@ -78,4 +76,4 @@ ht-degree: 88%
 
 >[!MORELIKETHIS]
 >
->[ドラフトなしのスニペットの承認](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}
+>[「ドラフトなし」でのスニペットの承認](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md){target="_blank"}

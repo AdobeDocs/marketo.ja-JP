@@ -18,13 +18,11 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 658
-ht-degree: 76%
-
+source-wordcount: '659'
+ht-degree: 75%
 ---
-
 # ポータルへのシングルサインオンの追加 {#add-single-sign-on-to-a-portal}
 
 ユーザーを認証するディレクトリサービスをご利用の場合は、Marketo へのシングルサインオン（SSO）を許可することができます。 Marketoでは、[!DNL Security Assertion Markup Language] （SAML）バージョン 2.0以降を使用してこの機能をサポートしています。
@@ -43,7 +41,7 @@ SSO を有効にすると、IdP がユーザーの資格情報を検証できる
 
 >[!NOTE]
 >
->[!DNL Microsoft Azure] ユーザの場合 [統合チュートリアル](https://learn.microsoft.com/ja-jp/entra/identity/saas-apps/marketo-tutorial){target="_blank"}をご覧ください。 チュートリアルの手順5cにタイプミスがあることに注意してください。 リレーの状態を`https://<munchkinid>.mktoweb.com`、**_ではなく_** `https://<munchkinid>.marketo.com`に設定します。
+>[!DNL Microsoft Azure] ユーザーの場合 [統合チュートリアル](https://learn.microsoft.com/ja-jp/entra/identity/saas-apps/marketo-tutorial){target="_blank"}をご覧ください。 チュートリアルの手順5cにタイプミスがあることに注意してください。 リレーの状態を`https://<munchkinid>.mktoweb.com`、**_ではなく_** `https://<munchkinid>.marketo.com`に設定します。
 
 ## リクエストの送信方法 {#how-to-send-the-request}
 
@@ -54,7 +52,7 @@ SSO を有効にすると、IdP がユーザーの資格情報を検証できる
 
 >[!NOTE]
 >
->Marketo は、ID プロバイダー開始（IdP 開始とも呼ばれる）のみをサポートします。この ID プロバイダーでは、ユーザが最初に IdP ログインページを起動し、認証してからマイ Marketo に移動します。 Marketo サブスクリプションが Admin Console に移行されている場合、現時点では Adobe Admin Console はサービスプロバイダー開始（SP 開始とも呼ばれる）のみをサポートします。 SSO エクスペリエンスに変更が行われる場合があります。
+>Marketo は、ID プロバイダー開始（IdP 開始とも呼ばれる）のみをサポートします。この方式では、ユーザーが最初に IdP のログインページを起動して認証を行い、その後マイ Marketo に移動します。 Marketo サブスクリプションが Admin Console に移行されている場合、現時点では Adobe Admin Console はサービスプロバイダー開始（SP 開始とも呼ばれる）のみをサポートします。 SSO エクスペリエンスに変更が行われる場合があります。
 
 ## そのほかの備考 {#additional-notes}
 
@@ -73,7 +71,7 @@ SSO を有効にすると、IdP がユーザーの資格情報を検証できる
 
 SSO はデフォルトで無効になっています。 SAML を有効にして設定するには、以下の手順に従います。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 

@@ -20,10 +20,10 @@ subfeature_v2:
     internal-label: Smart lists
   - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
     internal-label: Salesforce integration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 89%
+source-wordcount: '235'
+ht-degree: 86%
 ---
 # カスタムオブジェクト同期の有効化／無効化&#x200B; {#enable-disable-custom-object-sync}
 
@@ -35,7 +35,7 @@ Salesforce インスタンスで作成されたカスタムオブジェクトも
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 

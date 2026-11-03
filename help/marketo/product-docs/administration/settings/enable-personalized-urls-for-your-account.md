@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 96
-ht-degree: 75%
-
+source-wordcount: '97'
+ht-degree: 69%
 ---
-
 # アカウントでパーソナライズ URL を有効にする {#enable-personalized-urls-for-your-account}
 
 パーソナライズされたURLは、印刷メール施策に役立ちます。
@@ -29,7 +27,7 @@ ht-degree: 75%
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 

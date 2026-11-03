@@ -16,17 +16,17 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 76%
+source-wordcount: '228'
+ht-degree: 73%
 ---
 # 新しいワークスペースの作成 {#create-a-new-workspace}
 
 ワークスペースは、会社をさらに細分するのに役立ちます。 ワークスペースを設定する理由は以下のとおりです。
 
 * 地域：ヨーロッパのマーケティング活動と北米のマーケティング活動の比較
-* ビジネスユニット A 対ビジネスユニット B
+* ビジネスユニット A 対ビジネスユニット B&#x200B;
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ ht-degree: 76%
 >
 >Workspaceのベストプラクティスについて詳しくは、[Marketo プロフェッショナルサービス &#x200B;](https://business.adobe.com/jp/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-a-new-workspace-1.png)
 
@@ -78,7 +78,7 @@ ht-degree: 76%
 
    ![](assets/create-a-new-workspace-6.png)
 
-必要な数のワークスペースを作成し、それぞれに適切な顧客パーティションを割り当てます。
+必要な数のワークスペースを作成し、それぞれに適切な顧客パーティションを割り当てます。&#x200B;
 
 ワークスペースを作成した後に、更新が表示されます。
 

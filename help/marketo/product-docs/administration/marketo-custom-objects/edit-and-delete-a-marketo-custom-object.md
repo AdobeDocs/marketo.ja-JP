@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 78%
+source-wordcount: '266'
+ht-degree: 74%
 ---
 # Marketo カスタムオブジェクトの編集と削除 {#edit-and-delete-a-marketo-custom-object}
 
@@ -34,7 +34,7 @@ ht-degree: 78%
 
 カスタムオブジェクトを編集または削除するには、カスタムオブジェクトアクションメニューを使用します。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
@@ -64,7 +64,7 @@ ht-degree: 78%
 >
 >カスタムオブジェクトを削除した後は、そのオブジェクトは復元できません。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 

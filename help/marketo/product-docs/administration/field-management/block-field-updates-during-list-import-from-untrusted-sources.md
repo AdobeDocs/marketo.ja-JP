@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 76%
+source-wordcount: '206'
+ht-degree: 73%
 ---
 # 信頼できないソースからのリストインポート中に、フィールドの更新をブロック {#block-field-updates-during-list-import-from-untrusted-sources}
 
@@ -34,7 +34,7 @@ ht-degree: 76%
 
 ## 信頼できないソースからのフィールド更新をブロック {#blocking-field-updates-from-untrusted-sources}
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 

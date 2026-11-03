@@ -14,10 +14,10 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 81%
+source-wordcount: '113'
+ht-degree: 76%
 ---
 # [!DNL Microsoft Dynamics] 用 [!DNL Marketo Sales Insight] ソリューションのダウンロード {#download-the-marketo-sales-insight-solution-for-microsoft-dynamics}
 
@@ -29,7 +29,7 @@ ht-degree: 81%
 >
 >このページのプラグインは、Marketo のネイティブ CRM 同期ソリューションを使用して Marketo Engage を [!DNL Dynamics 365] に同期する場合に使用します。 カスタム同期、[!DNL MS Dynamics 365 Online]（9.x 以降）を持ち、[!DNL Marketo Sales Insight] を購入しているユーザの場合、[パッケージはこちらです](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/mainnavhand.png)
 

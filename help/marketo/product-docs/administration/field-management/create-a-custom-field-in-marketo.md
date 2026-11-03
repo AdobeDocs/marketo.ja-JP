@@ -21,16 +21,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 65%
+source-wordcount: '204'
+ht-degree: 62%
 ---
 # Marketo でのカスタムフィールドの作成 {#create-a-custom-field-in-marketo}
 
 Marketo Engageでカスタムフィールドを作成して、データを保存および取り込む方法について説明します。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
@@ -62,7 +62,7 @@ Marketo Engageでカスタムフィールドを作成して、データを保存
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. Marketo に表示する&#x200B;_[!UICONTROL 名前]_&#x200B;を入力します（_[!UICONTROL API 名]_&#x200B;は自動的に生成されます）。 保存後は名前を変更できないので、慎重に選択してください。 終了したら、「**[!UICONTROL 作成]**」をクリックします。
+1. Marketo に表示する&#x200B;_[!UICONTROL 名前]_&#x200B;を入力します（_[!UICONTROL API 名]_&#x200B;は自動的に生成されます）。 保存後は名前を変更できないので、慎重に選択してください。&#x200B; 終了したら、「**[!UICONTROL 作成]**」をクリックします。
 
 >[!CAUTION]
 >
