@@ -14,10 +14,10 @@ feature_v2:
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
     internal-label: Microsoft Dynamics
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 69%
+source-wordcount: '181'
+ht-degree: 66%
 ---
 # [!DNL Microsoft Dynamics] 向け Marketo ソリューションのアップデート {#update-the-marketo-solution-for-microsoft-dynamics}
 
@@ -31,7 +31,7 @@ ht-degree: 69%
 >
 >更新を実行する&#x200B;_前に、最新のMarketo ソリューション_&#x200B;をダウンロードする必要があります。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/admin.png)
 
@@ -59,4 +59,4 @@ ht-degree: 69%
 
 >[!CAUTION]
 >
->アップデートの代わりにアップグレードを選択すると、[!DNL Dynamics] 環境でデータが破損する可能性があります。 **[!UICONTROL 読み込みオプション &#x200B;]の下の更新**&#x200B;を選択します。
+>アップデートの代わりにアップグレードを選択すると、[!DNL Dynamics] 環境でデータが破損する可能性があります。 **[!UICONTROL 読み込みオプション ]の下の更新**&#x200B;を選択します。

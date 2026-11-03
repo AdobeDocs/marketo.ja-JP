@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 90%
+source-wordcount: '181'
+ht-degree: 86%
 ---
 # 既存顧客の設定 {#configuration-for-existing-customers}
 
@@ -33,7 +33,7 @@ ht-degree: 90%
 
 1. ブラウザーで新しいタブを開き、Marketo アカウントから [!DNL Marketo Sales Insights] の資格情報を取得します。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/configuration-for-existing-customers-1.png)
 

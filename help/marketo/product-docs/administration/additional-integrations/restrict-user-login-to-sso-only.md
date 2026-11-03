@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360358
 description: Admin Login Settingsを介したSSO セキュリティを回避できないように、すべてのユーザーにSSOが必要です（Adobe IMSには適用されません）。
-title: ユーザーログインを SSO のみに制限
+title: ユーザーのログインを SSO のみに制限
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
 TQID: https://experienceleague.adobe.com/2YaweRRhrf8po6RR3V64kCan8qQhDNKDrhr7TfnNNJs
@@ -18,14 +18,12 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 273
-ht-degree: 66%
-
+source-wordcount: '274'
+ht-degree: 64%
 ---
-
-# ユーザーログインを SSO のみに制限 {#restrict-user-login-to-sso-only}
+# ユーザーのログインを SSO のみに制限 {#restrict-user-login-to-sso-only}
 
 [SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)を使用しており、ユーザーがSSO セキュリティを回避できないようにしたい場合は、次の手順に従ってください。
 
@@ -37,7 +35,7 @@ ht-degree: 66%
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 

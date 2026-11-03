@@ -19,16 +19,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 46%
+source-wordcount: '132'
+ht-degree: 42%
 ---
 # プログラムチャネルからプログラムステータスを削除 {#delete-a-program-status-from-a-program-channel}
 
 プログラムステータスとは、プログラムのパス（チャネル）を通過するチェックポイントのことです。 間違ってステータスを作成した場合、またはステータスが不要になった場合は、ステータスを削除できます。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 

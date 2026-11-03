@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 57%
+source-wordcount: '306'
+ht-degree: 55%
 ---
 # Marketo カスタムオブジェクトフィールドの追加 {#add-marketo-custom-object-fields}
 
@@ -30,7 +30,7 @@ ht-degree: 57%
 
 フィールドでは、カスタムオブジェクトによって使用される特定の情報が定義されます。 リンクフィールドは、特定の目的（カスタムオブジェクトの接続）を果たします。詳しくは、[別の記事](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)を参照してください。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 
@@ -58,7 +58,7 @@ ht-degree: 57%
    >
    >[!UICONTROL API名]は、承認されるまで編集できます。
 
-1. リストから適切な[!UICONTROL &#x200B; データタイプ &#x200B;]を選択します。
+1. リストから適切な[!UICONTROL  データタイプ ]を選択します。
 
    ![](assets/add-marketo-custom-object-fields-6.png)
 

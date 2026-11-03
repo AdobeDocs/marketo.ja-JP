@@ -10,10 +10,10 @@ product_v2:
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 42%
+source-wordcount: '62'
+ht-degree: 33%
 ---
 # デフォルト通貨の設定 {#set-default-currency}
 
@@ -23,7 +23,7 @@ Marketo Engage サブスクリプションのデフォルト通貨を表示お�
 >
 >**管理者権限が必要。**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/set-default-currency-1.png)
 

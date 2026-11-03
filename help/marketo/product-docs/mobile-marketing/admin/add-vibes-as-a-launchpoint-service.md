@@ -14,9 +14,9 @@ feature_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '190'
 ht-degree: 21%
 ---
 # Vibes を LaunchPoint サービスとして追加する {#add-vibes-as-a-launchpoint-service}
@@ -31,7 +31,7 @@ Vibes SMS キャンペーンにオプトインしたユーザーにSMS メッセ
 >
 >Vibes SMSのアクティブなVibes アカウントとAdobe ライセンスが必要です。 Marketo Vibes SMSのネイティブ統合は、米国とカナダで利用可能です。 その他の国の場合、Marketo Webhook経由の接続は、[Vibesに直接お問い合わせいただくことで利用できます](https://www.vibes.com/talk-to-sales){target="_blank"}。
 
-1. マイMarketoで、**[!UICONTROL 管理者]** エリアに移動します。
+1. マイMarketoで、「**[!UICONTROL 管理者]**」をクリックします。
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 
@@ -47,14 +47,14 @@ Vibes SMS キャンペーンにオプトインしたユーザーにSMS メッセ
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. 「設定」で、Vibes [!UICONTROL &#x200B; ユーザー名]、[!UICONTROL &#x200B; パスワード &#x200B;]、[!UICONTROL 会社キー] （すべてVibes アカウントで確認できます）を入力します。 「**[!UICONTROL 作成]**」をクリックします。
+1. 「設定」で、Vibes [!UICONTROL  ユーザー名]、[!UICONTROL  パスワード ]、[!UICONTROL 会社キー] （すべてVibes アカウントで確認できます）を入力します。 「**[!UICONTROL 作成]**」をクリックします。
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   新しいSMS サービスが[!UICONTROL &#x200B; インストール済みサービス &#x200B;] リストに表示されるようになりました。
+   新しいSMS サービスが[!UICONTROL  インストール済みサービス ] リストに表示されるようになりました。
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
 
 >[!MORELIKETHIS]
 >
->[Vibes ビデオのデモ &#x200B;](https://vimeo.com/215233767/1ed136adbc){target="_blank"}
+>[Vibes ビデオのデモ ](https://vimeo.com/215233767/1ed136adbc){target="_blank"}

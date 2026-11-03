@@ -20,10 +20,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 22%
+source-wordcount: '111'
+ht-degree: 18%
 ---
 # キャンペーンレベルでのメールの開封トラッキング {#email-open-tracking-at-campaign-level}
 
@@ -33,7 +33,7 @@ ht-degree: 22%
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/email-open-tracking-at-campaign-level-1.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 17728028
-description: Marketoがウェビナーの登録と出席を管理できるように、 [!DNL Zoom] をLaunchPoint サービスとして追加します。
-title: ' [!DNL Zoom]  を  [!DNL LaunchPoint]  サービスとして追加'
+description: Marketoでウェビナーの登録と出席を管理できるように、[!DNL Zoom]をLaunchPoint サービスとして追加します。
+title: '[!DNL Zoom] を [!DNL LaunchPoint] サービスとして追加'
 exl-id: f5ea016e-d4ca-4adf-be29-14810e9f509c
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/b0mxXTjrJjwRWHpeCdcNYu6JjY6qcHM7NX7ghiqMLaw
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 133
-ht-degree: 90%
-
+source-wordcount: '135'
+ht-degree: 85%
 ---
-
 # [!DNL Zoom] を [!DNL LaunchPoint] サービスとして追加 {#add-zoom-as-a-launchpoint-service}
 
 Marketo は、[!DNL Zoom] の登録と出席を管理します。
@@ -35,7 +33,7 @@ Marketo は、[!DNL Zoom] の登録と出席を管理します。
 >
 >この手順を実行するには、[!DNL Zoom] の既存のサブスクリプションと管理者権限が必要です。 [!DNL Zoom] のログインに使用するメールとパスワードを手元に用意しておきます。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/add-zoom-as-a-launchpoint-service-1.png)
 
@@ -71,4 +69,4 @@ Marketo は、[!DNL Zoom] の登録と出席を管理します。
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md) でイベントを作成する方法を参照してください。
+>[ [!DNL Zoom]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-zoom.md) でイベントを作成する方法を参照してください。

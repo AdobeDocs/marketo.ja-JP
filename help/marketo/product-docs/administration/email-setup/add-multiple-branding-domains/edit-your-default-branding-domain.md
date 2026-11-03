@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 57%
+source-wordcount: '139'
+ht-degree: 53%
 ---
 # デフォルトのブランディングドメインの編集 {#edit-your-default-branding-domain}
 
@@ -32,7 +32,7 @@ ht-degree: 57%
 >
 >Marketo にブランディングドメインを追加する前に、[DNS で CNAME を設定](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}しておくようにします。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
@@ -40,7 +40,7 @@ ht-degree: 57%
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. [!UICONTROL &#x200B; ブランディングドメイン &#x200B;] テーブルで、汎用ドメインを選択し、**[!UICONTROL 編集]**&#x200B;をクリックして、会社のブランドドメインに変更します。
+1. [!UICONTROL  ブランディングドメイン ] テーブルで、汎用ドメインを選択し、**[!UICONTROL 編集]**&#x200B;をクリックして、会社のブランドドメインに変更します。
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -56,4 +56,4 @@ ht-degree: 57%
 
 >[!NOTE]
 >
->既存のSSLを更新または削除する必要がある場合は、[Marketo サポート &#x200B;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。
+>既存のSSLを更新または削除する必要がある場合は、[Marketo サポート ](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}にお問い合わせください。

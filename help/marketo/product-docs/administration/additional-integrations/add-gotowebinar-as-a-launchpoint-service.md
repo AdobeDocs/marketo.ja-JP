@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512289
-description: Marketoがウェビナーの登録と出席を管理できるように、 [!DNL GoToWebinar] をLaunchPoint サービスとして追加します。
-title: ' [!DNL GoToWebinar]  を  [!DNL LaunchPoint]  サービスとして追加'
+description: Marketoがウェビナーの登録と出席を管理できるように、[!DNL GoToWebinar]をLaunchPoint サービスとして追加します。
+title: '[!DNL GoToWebinar] を [!DNL LaunchPoint] サービスとして追加'
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/5KrCqBMRk-5avIMRc9GLDJPI5FY8JAWGwRaeC60HEFY
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 156
-ht-degree: 92%
-
+source-wordcount: '158'
+ht-degree: 88%
 ---
-
 # [!DNL GoToWebinar] を [!DNL LaunchPoint] サービスとして追加 {#add-gotowebinar-as-a-launchpoint-service}
 
 Marketo は、[!DNL GoToWebinar] の登録と出席を管理します。
@@ -39,11 +37,11 @@ Marketo は、[!DNL GoToWebinar] の登録と出席を管理します。
 >
 >[!DNL GoToMeeting]、[!DNL GoToWebcast] および [!DNL GoToTraining]は、現在サポートされていません。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-1.png)
 
-1. **[!UICONTROL LaunchPoint]**.をクリックします。
+1. **[!UICONTROL LaunchPoint]** をクリックします。
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-2.png)
 
@@ -81,4 +79,4 @@ Marketo は、[!DNL GoToWebinar] の登録と出席を管理します。
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"} でイベントを作成する方法を参照してください。
+>[ [!DNL GotoWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md){target="_blank"} でイベントを作成する方法を参照してください。

@@ -10,16 +10,16 @@ product_v2:
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 28%
+source-wordcount: '81'
+ht-degree: 22%
 ---
 # タイムゾーンの変更 {#change-time-zone}
 
 Marketo Engage サブスクリプションのタイムゾーンを変更する方法について説明します。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/change-time-zone-1.png)
 
@@ -37,6 +37,6 @@ Marketo Engage サブスクリプションのタイムゾーンを変更する�
 
    >[!NOTE]
    >
-   >_言語_&#x200B;と&#x200B;_ロケール_&#x200B;はグレー表示になっています。これらの設定は[Adobe アカウントプロファイル &#x200B;](https://account.adobe.com/profile){target="_blank"}でアクセスする必要があります。
+   >_言語_&#x200B;と&#x200B;_ロケール_&#x200B;はグレー表示になっています。これらの設定は[Adobe アカウントプロファイル ](https://account.adobe.com/profile){target="_blank"}でアクセスする必要があります。
 
 1. 「**[!UICONTROL 保存]**」をクリックします。

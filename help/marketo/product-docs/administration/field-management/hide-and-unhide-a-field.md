@@ -21,10 +21,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 57%
+source-wordcount: '178'
+ht-degree: 51%
 ---
 # フィールドの非表示／再表示 {#hide-and-unhide-a-field}
 
@@ -36,7 +36,7 @@ Marketo Engageでフィールドが不要になった場合は、UIからフィ�
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -64,7 +64,7 @@ Marketo Engageでフィールドが不要になった場合は、UIからフィ�
 
 ## フィールドを再表示する {#unhide-a-field}
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/hide-and-unhide-a-field-6.png)
 

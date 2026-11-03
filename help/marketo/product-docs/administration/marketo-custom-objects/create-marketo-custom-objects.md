@@ -21,10 +21,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '771'
-ht-degree: 55%
+source-wordcount: '774'
+ht-degree: 53%
 ---
 # Marketo カスタムオブジェクトの作成 {#create-marketo-custom-objects}
 
@@ -42,7 +42,7 @@ ht-degree: 55%
 
 この例では、1 対多の構造で使用する「自動車」カスタムオブジェクトを示します。 後で、多対多の構造で使用するコースカスタムオブジェクトと中間オブジェクトを作成します。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -88,7 +88,7 @@ ht-degree: 55%
 >
 >多対多の関係の場合、カスタムオブジェクトにリンクを作成する必要はありません。 代わりに、中間オブジェクトに2つのリンクを追加します（以下を参照）。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -130,7 +130,7 @@ ht-degree: 55%
 >
 >1対多のカスタムオブジェクト構造の中間オブジェクトを作成する必要はありません。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-marketo-custom-objects-13.png)
 
@@ -148,7 +148,7 @@ ht-degree: 55%
 
    >[!NOTE]
    >
-   >これらのフィールドは作成時に編集できますが、保存した後は、[!UICONTROL 複数名] フィールドと[!UICONTROL &#x200B; リード詳細を表示] スライダーのみを編集できます。
+   >これらのフィールドは作成時に編集できますが、保存した後は、[!UICONTROL 複数名] フィールドと[!UICONTROL  リード詳細を表示] スライダーのみを編集できます。
 
 1. データベースページにカスタムオブジェクトデータを表示する場合、「**[!UICONTROL リード詳細で表示]**」スライダーを引いて、「**[!UICONTROL 表示]**」を表示します。 「**[!UICONTROL 保存]**」をクリックします。
 
@@ -156,7 +156,7 @@ ht-degree: 55%
 
 1. カスタムオブジェクト情報には、入力した内容が表示されます。 **[!UICONTROL ドラフト]**&#x200B;状態であることに注意してください。
 
-   次の手順では、[&#x200B; リンクフィールドを追加](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)して、仲介オブジェクトを個人または会社とカスタムオブジェクトに接続します。
+   次の手順では、[ リンクフィールドを追加](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md)して、仲介オブジェクトを個人または会社とカスタムオブジェクトに接続します。
 
 >[!MORELIKETHIS]
 >

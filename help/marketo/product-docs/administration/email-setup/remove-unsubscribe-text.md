@@ -13,16 +13,16 @@ feature_v2:
 subfeature_v2:
   - id: a03c57fb-0705-4a0d-b463-bbc931d4cefa
     internal-label: Email setup
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 68%
+source-wordcount: '158'
+ht-degree: 64%
 ---
 # 登録解除テキストの削除 {#remove-unsubscribe-text}
 
 購読解除コンテンツを&#x200B;**[!UICONTROL 管理者]** > **[!UICONTROL 電子メール]**&#x200B;領域から完全に削除する必要がある唯一の理由は、購読解除リンクを電子メールテンプレート自体に構築することを選択している場合です。 テキストボックスには、コンテンツなしで保存できない検証機能があります。 この問題を回避するには、小さな HTML コメントを追加します。 HTML コメントは、メールクライアントに表示されません。メールが HTML でレンダリングされ、コメントは省略されるからです。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 

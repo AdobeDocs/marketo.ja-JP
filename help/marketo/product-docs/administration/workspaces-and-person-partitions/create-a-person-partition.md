@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360315
 description: 新しい人物パーティションを作成し、名前を付けて、ワークスペースに割り当てる手順。
-title: 顧客パーティションの作成
+title: 顧客パーティションの作成​
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
 TQID: 'https://experienceleague.adobe.com/4g-iqBI-P6rlgXmXFFqVpK5cJlCv3ZqVV4EcOSuu6tE'
@@ -16,14 +16,14 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 20b0f080c35bf826a85f78f7e96d239788a9fc8a
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 46%
+source-wordcount: '129'
+ht-degree: 42%
 ---
 # 人物パーティションの作成 {#create-a-person-partition}
 
-以下の手順に従って、新しい顧客パーティションを作成します。
+以下の手順に従って、新しい顧客パーティションを作成します。&#x200B;
 
 >[!NOTE]
 >
@@ -31,9 +31,9 @@ ht-degree: 46%
 
 >[!NOTE]
 >
->詳しくは、[&#x200B; ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を参照してください。
+>詳しくは、[ ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)を参照してください。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-a-person-partition-1.png)
 
@@ -55,4 +55,4 @@ ht-degree: 46%
 
 >[!TIP]
 >
->[&#x200B; リストの読み込み](https://experienceleague.adobe.com/ja/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} プロセス中に人物をフィルタリングする特定の人物パーティションを選択できます。
+>[ リストの読み込み](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people#step-import-your-spreadsheet-into-marketo:~:text=If%20you%20have%20Person%20Partitions%20set%20up){target="_blank"} プロセス中に人物をフィルタリングする特定の人物パーティションを選択できます。

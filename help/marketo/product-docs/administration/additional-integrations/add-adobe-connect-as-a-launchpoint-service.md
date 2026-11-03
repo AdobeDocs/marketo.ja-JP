@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512270
 description: Adobe Connect as a LaunchPoint サービスを追加して、Marketoがウェビナーの登録と出席を管理できるようにします。
-title: Adobe Connect as a [!DNL LaunchPoint]  サービスを追加
+title: '[!DNL Adobe Connect] を [!DNL LaunchPoint] サービスとして追加'
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/5FY-AYMAy60RGDnuFas2QP1PexqhIMohWh8egyllFNY
@@ -16,52 +16,41 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 204
-ht-degree: 79%
-
+source-wordcount: '181'
+ht-degree: 37%
 ---
+# [!DNL Adobe Connect] を [!DNL LaunchPoint] サービスとして追加 {#add-adobe-connect-as-a-launchpoint-service}
 
-# Adobe Connect を [!DNL LaunchPoint] サービスとして追加 {#add-adobe-connect-as-a-launchpoint-service}
+Marketoは、[!DNL Adobe Connect] ウェビナーの登録と出席を管理します。
 
-Marketo は、Adobe Connect のウェビナー登録と参加を管理します。
+>[!PREREQUISITES]
+>
+>* [!DNL Adobe Connect]への既存のサブスクリプションと管理権限が必要です。 ユーザー名、パスワード、参加者のパスワード、および会議フォルダーのURLの詳細を手元に用意します。
 
 >[!NOTE]
 >
->**管理者権限が必要**
+>* **管理者権限が必要**
+>* [!DNL Adobe Connect On Site]は現在サポートされていません。
 
->[!NOTE]
->
->この手順では、Adobe Connect の既存の購読と管理権限が必要です。 以下の設定を手元に用意しておきます。ユーザー名、パスワード、参加者のパスワード、会議フォルダーの URL。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
->[!NOTE]
->
->Adobe Connect On Site は現在サポートされていません。
-
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. **[!UICONTROL 統合]**&#x200B;で、**[!UICONTROL LaunchPoint]**&#x200B;を選択します。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-1.png)
 
-1. **[!UICONTROL LaunchPoint]**.をクリックします。
+1. **[!UICONTROL 新規]**&#x200B;をクリックし、**[!UICONTROL 新規サービス]**&#x200B;を選択します。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-2.png)
 
-1. **[!UICONTROL 新規]**&#x200B;ドロップダウンをクリックして、**[!UICONTROL 新規サービス]**&#x200B;を選択します。
+1. **[!UICONTROL 表示名]**&#x200B;を入力します。 **[!UICONTROL サービス]** ドロップダウンで、**[!UICONTROL Adobe Connect]**&#x200B;を選択します。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-3.png)
 
-1. **[!UICONTROL 表示名]**&#x200B;を入力します。 「**[!UICONTROL サービス]**」で、「Adobe Connect」を選択します。
+1. **[!UICONTROL ユーザー名]**、**[!UICONTROL アクセスコード]**、**[!UICONTROL ミーティングフォルダーURL]**、**[!UICONTROL 参加者パスワード]**&#x200B;を入力し、**[!UICONTROL 作成]**&#x200B;をクリックします。
 
    ![](assets/add-adobe-connect-as-a-launchpoint-service-4.png)
-
-1. 「**[!UICONTROL ユーザー名]**」と「**[!UICONTROL アクセスコード]**」を入力します。
-
-   ![](assets/add-adobe-connect-as-a-launchpoint-service-5.png)
-
-1. 「**[!UICONTROL ミーティングフォルダー URL]**」と「**[!UICONTROL 参加者のパスワード]**」を入力し、「**[!UICONTROL 作成]**」をクリックして、プロセスを完了します。
-
-   ![](assets/add-adobe-connect-as-a-launchpoint-service-6.png)
 
    >[!TIP]
    >
@@ -69,12 +58,10 @@ Marketo は、Adobe Connect のウェビナー登録と参加を管理します�
 
    >[!NOTE]
    >
-   >Adobe Connect アカウントにログインしたら、「**[!UICONTROL セミナー]**」タブを選択します。 特定のセミナーにドリルダウンせずに、ブラウザーバーの URL を「**[!UICONTROL 会議フォルダー URL]**」設定にコピーします。
+   >[!DNL Adobe Connect] アカウントにログインしたら、「**[!UICONTROL セミナー]**」タブを選択します。 特定のセミナーにドリルダウンせずに、ブラウザーバーの URL を「**[!UICONTROL 会議フォルダー URL]**」設定にコピーします。
 
-Adobe Connect サービスが Marketo と同期されました。
-
-![](assets/add-adobe-connect-as-a-launchpoint-service-7.png)
+お使いの[!DNL Adobe Connect] サービスはMarketo Engageと同期されました。
 
 >[!MORELIKETHIS]
 >
->[Adobe Connect でイベントを作成する方法](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"}を参照してください。
+>[ [!DNL Adobe Connect]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md){target="_blank"} でイベントを作成する方法を参照してください。

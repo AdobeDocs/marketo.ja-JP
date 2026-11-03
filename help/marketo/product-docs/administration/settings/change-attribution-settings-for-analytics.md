@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360217
 description: 収益サイクル分析で、ファーストタッチとマルチタッチのアトリビューション、リードコンバージョン、マーケティングの影響を受けた機会オプションを設定する方法。
-title: 分析用属性設定の変更
+title: 分析のためのアトリビューション設定の変更​
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
 TQID: https://experienceleague.adobe.com/AjpEYRzLKRQQsTmYdQUvAVnlcmG-Q6nbVjaZCuQYaUc
@@ -21,18 +21,16 @@ topic_v2:
     internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 174
-ht-degree: 79%
-
+source-wordcount: '175'
+ht-degree: 76%
 ---
+# 分析のためのアトリビューション設定の変更&#x200B; {#change-attribution-settings-for-analytics}
 
-# 分析用属性設定の変更 {#change-attribution-settings-for-analytics}
+Marketo が、ファーストタッチおよびマルチタッチのアトリビューション、リードコンバージョン指標、マーケティング起因の商談フラグに対して取引先責任者をどのように結び付けるかを変更できます。&#x200B;
 
-ファーストタッチおよびマルチタッチのアトリビューションの商談、リードコンバージョン指標、マーケティングが影響を与えた商談フラグに、Marketo が連絡先を結び付ける方法を変更できます。
-
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 

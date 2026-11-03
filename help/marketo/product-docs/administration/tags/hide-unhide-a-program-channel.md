@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 50%
+source-wordcount: '113'
+ht-degree: 45%
 ---
 # プログラムチャネルの非表示／再表示 {#hide-unhide-a-program-channel}
 
@@ -30,11 +30,11 @@ ht-degree: 50%
 >
 >**管理者権限が必要**
 
-プログラム チャネル [&#128279;](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)がプログラムで使用されていない場合は、そのチャネルを削除できます。  ただし、一度使用されると、システムに残る必要があります。 不要になった場合は非表示にできます。
+プログラム チャネル ](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md)がプログラムで使用されていない場合は、そのチャネルを[削除できます。  ただし、一度使用されると、システムに残る必要があります。 不要になった場合は非表示にできます。
 
 ## プログラムチャネルを非表示にする {#hide-a-program-channel}
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 

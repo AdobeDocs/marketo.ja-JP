@@ -16,10 +16,10 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 53%
+source-wordcount: '66'
+ht-degree: 45%
 ---
 # ワークスペースの削除 {#delete-a-workspace}
 
@@ -31,7 +31,7 @@ ht-degree: 53%
 >
 >Marketo のデフォルトのワークスペースは削除できません。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/delete-a-workspace-1.png)
 

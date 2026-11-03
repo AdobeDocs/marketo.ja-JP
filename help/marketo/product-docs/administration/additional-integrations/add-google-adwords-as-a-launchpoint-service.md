@@ -1,7 +1,7 @@
 ---
 unique-page-id: 6095008
-description: LaunchPointを介して [!DNL Google AdWords] Marketoにリンクし、AdWordsでレポート用のオフライン コンバージョン データをアップロードします。
-title: ' [!DNL Google AdWords]  を  [!DNL LaunchPoint]  サービスとして追加'
+description: LaunchPointを介して[!DNL Google AdWords]をMarketoにリンクし、AdWordsでレポート用のオフライン コンバージョン データをアップロードします。
+title: '[!DNL Google AdWords] を [!DNL LaunchPoint] サービスとして追加'
 exl-id: 993a057a-3f98-4a9f-a770-c9c80dedfd81
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/gpw57sy3WitNAh6g4mkajXuuFlRFzunZmfedM4aCrCk
@@ -20,22 +20,20 @@ topic_v2:
     internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 286
-ht-degree: 74%
-
+source-wordcount: '288'
+ht-degree: 72%
 ---
-
 # [!DNL Google AdWords] を [!DNL LaunchPoint] サービスとして追加 {#add-google-adwords-as-a-launchpoint-service}
 
-[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。 次に、[!DNL AdWords] UIから、[!DNL AdWords]に[&#x200B; カスタム列](https://support.google.com/adwords/answer/3073556){target="_blank"}を追加した後、どのクリックが適格リード、機会、および新規顧客（または追跡したい収益ステージ）につながったかを確認できます。 この情報は、Marketo UI には表示されません。
+[!DNL Google AdWords] アカウントを Marketo にリンクして、オフラインのコンバージョンデータを Marketo から [!DNL Google AdWords] に自動的にアップロードします。 次に、[!DNL AdWords] UIから、[!DNL AdWords]に[ カスタム列](https://support.google.com/adwords/answer/3073556){target="_blank"}を追加した後、どのクリックが適格リード、機会、および新規顧客（または追跡したい収益ステージ）につながったかを確認できます。 この情報は、Marketo UI には表示されません。
 
 [Googleのオフラインコンバージョン読み込み機能](https://support.google.com/adwords/answer/2998031?hl=ja){target="_blank"}の詳細をご覧ください。
 
 >[!AVAILABILITY]
 >
->すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
+>すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。&#x200B; 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
 >[!NOTE]
 >
@@ -45,7 +43,7 @@ ht-degree: 74%
 >
 >また、[[!DNL Google AdWords]  を  [!DNL Launchpoint]  サービスとしてマネージャーアカウントと統合することもできます](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service-with-a-manager-account.md){target="_blank"}。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-1.png)
 

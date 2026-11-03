@@ -19,16 +19,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 75%
+source-wordcount: '149'
+ht-degree: 71%
 ---
 # 連結文字列（数式）フィールドの作成と使用 {#create-and-use-a-concatenated-string-formula-field}
 
 複数のフィールドの値を組み合わせたり、Marketo Engage の数式フィールドを使用して条件付き値を作成したりできます。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
@@ -66,4 +66,4 @@ ht-degree: 75%
 
 >[!NOTE]
 >
->数式フィールドは、ランディングページ、メール、スマートリストの各列で使用できます。 数式フィールドを含むメールは、バッチキャンペーンを使用して送信することは&#x200B;_できません_。 このシナリオでは、[電子メールスクリプトトークン &#x200B;](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)を使用します。
+>数式フィールドは、ランディングページ、メール、スマートリストの各列で使用できます。 数式フィールドを含むメールは、バッチキャンペーンを使用して送信することは&#x200B;_できません_。 このシナリオでは、[電子メールスクリプトトークン ](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)を使用します。

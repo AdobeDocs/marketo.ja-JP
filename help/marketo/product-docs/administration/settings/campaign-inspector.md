@@ -18,20 +18,18 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 134
-ht-degree: 56%
-
+source-wordcount: '135'
+ht-degree: 52%
 ---
-
 # キャンペーンインスペクター {#campaign-inspector}
 
 キャンペーンインスペクターを使用すると、すべてのスマートキャンペーンを1か所で表示および検索できます。
 
 ## キャンペーンインスペクターを有効にする {#enable-campaign-inspector}
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/campaign-inspector-1.png)
 
@@ -61,6 +59,6 @@ ht-degree: 56%
 
 ![](assets/campaign-inspector-6.png)
 
-ページの下部には、検索バーや結果の書き出しなどの便利なツールがあります。
+ページの下部から、検索バーや結果の書き出しなどの便利なツールにアクセスできます。&#x200B;
 
 ![](assets/campaign-inspector-7.png)

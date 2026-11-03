@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 175
-ht-degree: 63%
-
+source-wordcount: '177'
+ht-degree: 57%
 ---
-
 # ReST API で使用するカスタムサービスの作成 {#create-a-custom-service-for-use-with-rest-api}
 
 ReST APIを介してMarketoと統合する場合は、カスタムサービスを作成します。
@@ -43,7 +41,7 @@ ReST APIを介してMarketoと統合する場合は、カスタムサービス�
 
 ## カスタムサービスの作成 {#create-custom-service}
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -67,7 +65,7 @@ ReST APIを介してMarketoと統合する場合は、カスタムサービス�
 
 ## API アクセスの資格情報 {#credentials-for-api-access}
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 

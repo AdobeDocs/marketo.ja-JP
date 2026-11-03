@@ -1,7 +1,7 @@
 ---
 unique-page-id: 7512272
-description: ' [!DNL Webex]  ウェビナーをLaunchPoint サービスとして追加して、Marketoに登録と出席を同期します。'
-title: ' [!DNL Webex]  を  [!DNL LaunchPoint]  サービスとして追加'
+description: '[!DNL Webex]個のウェビナーをLaunchPoint サービスとして追加して、Marketoに登録と出席を同期します。'
+title: '[!DNL Webex] を [!DNL LaunchPoint] サービスとして追加'
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
 TQID: https://experienceleague.adobe.com/usUuncd-iS8bP6trbho6Y9aO-idLgQsYmSIgNCq7g2I
@@ -16,13 +16,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 115
-ht-degree: 66%
-
+source-wordcount: '117'
+ht-degree: 61%
 ---
-
 # [!DNL Webex] を [!DNL LaunchPoint] サービスとして追加 {#add-webex-as-a-launchpoint-service}
 
 Marketo Engage は、[!DNL Webex] ウェビナーの登録と出席を管理します。 [[!UICONTROL Webex]](https://www.webex.com/) に対する既存のサブスクリプションが必要です。
@@ -31,7 +29,7 @@ Marketo Engage は、[!DNL Webex] ウェビナーの登録と出席を管理し�
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/add-webex-as-a-launchpoint-service-1.png)
 
@@ -65,4 +63,4 @@ Marketo Engage は、[!DNL Webex] ウェビナーの登録と出席を管理し�
 
 >[!MORELIKETHIS]
 >
->[&#x200B; [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"} でイベントを作成します。
+>[ [!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md){target="_blank"} でイベントを作成します。

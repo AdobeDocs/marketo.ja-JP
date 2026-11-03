@@ -19,13 +19,11 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 140
-ht-degree: 65%
-
+source-wordcount: '141'
+ht-degree: 60%
 ---
-
 # API 専用ユーザーロールの作成 {#create-an-api-only-user-role}
 
 [REST API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/rest-api) を使用して Marketo と統合する場合、ベストプラクティスは[ユーザに API のみのロール](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md)を割り当て、[使用するカスタムサービスを REST API で作成](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)することです。 次の手順では、APIのみのユーザーロールを作成する方法について説明します。
@@ -34,7 +32,7 @@ ht-degree: 65%
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-an-api-only-user-role-1.png)
 

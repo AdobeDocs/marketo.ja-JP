@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360360
 description: 管理画面でWebhookを作成して、SMSや人物データなどのサードパーティのweb サービスに電話できます。
-title: ' [!DNL Webhook] の作成'
+title: '[!DNL Webhook] の作成'
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
 TQID: https://experienceleague.adobe.com/O4xw1wSvFeTJ2xqZn4Eo7JbrUBQQmKcl7mvLkduFXGc
@@ -21,18 +21,16 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 220
-ht-degree: 81%
-
+source-wordcount: '221'
+ht-degree: 78%
 ---
-
 # [!DNL Webhook] の作成 {#create-a-webhook}
 
 [!DNL Webhooks] を使用すると、サードパーティの web サービスを活用して、テキストメッセージの送信、人物データの拡張などを行うことができます。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-a-webhook-1.png)
 

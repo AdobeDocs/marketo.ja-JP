@@ -16,17 +16,17 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 76%
+source-wordcount: '228'
+ht-degree: 73%
 ---
 # 新しいワークスペースの作成 {#create-a-new-workspace}
 
 ワークスペースは、会社をさらに細分するのに役立ちます。 ワークスペースを設定する理由は以下のとおりです。
 
 * 地域：ヨーロッパのマーケティング活動と北米のマーケティング活動の比較
-* ビジネスユニット A 対ビジネスユニット B
+* ビジネスユニット A 対ビジネスユニット B&#x200B;
 
 >[!NOTE]
 >
@@ -34,13 +34,13 @@ ht-degree: 76%
 
 >[!NOTE]
 >
->詳しくは、[&#x200B; ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を参照してください。
+>詳しくは、[ ワークスペースとユーザーのパーティションについて](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}を参照してください。
 
 >[!TIP]
 >
->Workspaceのベストプラクティスについて詳しくは、[Marketo プロフェッショナルサービス &#x200B;](https://business.adobe.com/jp/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
+>Workspaceのベストプラクティスについて詳しくは、[Marketo プロフェッショナルサービス ](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}にお問い合わせください。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-a-new-workspace-1.png)
 
@@ -52,7 +52,7 @@ ht-degree: 76%
 
    ![](assets/create-a-new-workspace-3.png)
 
-1. **[!UICONTROL 名前]**&#x200B;を入力し、使用する&#x200B;**[!UICONTROL 人物パーティション]**&#x200B;を選択します。 **[!UICONTROL プライマリの人物パーティション]**&#x200B;を選択します。 [人のパーティション &#x200B;](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}がまだ作成されていない場合は、作成されていることを確認します。
+1. **[!UICONTROL 名前]**&#x200B;を入力し、使用する&#x200B;**[!UICONTROL 人物パーティション]**&#x200B;を選択します。 **[!UICONTROL プライマリの人物パーティション]**&#x200B;を選択します。 [人のパーティション ](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}がまだ作成されていない場合は、作成されていることを確認します。
 
    ![](assets/create-a-new-workspace-4.png)
 
@@ -78,7 +78,7 @@ ht-degree: 76%
 
    ![](assets/create-a-new-workspace-6.png)
 
-必要な数のワークスペースを作成し、それぞれに適切な顧客パーティションを割り当てます。
+必要な数のワークスペースを作成し、それぞれに適切な顧客パーティションを割り当てます。&#x200B;
 
 ワークスペースを作成した後に、更新が表示されます。
 

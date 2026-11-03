@@ -20,10 +20,10 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 61%
+source-wordcount: '116'
+ht-degree: 56%
 ---
 # カスタムオブジェクトメタデータのエクスポート {#custom-object-metadata-export}
 
@@ -33,7 +33,7 @@ SOAP APIまたは[!DNL Munchkin] APIを使用している場合は、カスタ�
 >
 >すべての Marketo Engage ユーザがこの機能を購入しているわけではありません。&#x200B; 詳しくは、アドビのアカウントチーム（担当のアカウントマネージャー）にお問い合わせください。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/custom-object-metadata-export-1.png)
 

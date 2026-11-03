@@ -17,10 +17,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 65%
+source-wordcount: '106'
+ht-degree: 60%
 ---
 # プログラムチャネルの削除 {#delete-a-program-channel}
 
@@ -28,7 +28,7 @@ ht-degree: 65%
 
 誤って作成した場合や不要になった場合は、削除できます。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/delete-a-program-channel-1.png)
 

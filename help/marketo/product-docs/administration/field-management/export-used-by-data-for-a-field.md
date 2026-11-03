@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 60%
+source-wordcount: '108'
+ht-degree: 55%
 ---
 # フィールドの使用先データのエクスポート {#export-used-by-data-for-a-field}
 
@@ -32,7 +32,7 @@ ht-degree: 60%
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 

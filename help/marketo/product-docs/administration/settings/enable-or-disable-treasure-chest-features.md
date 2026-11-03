@@ -14,13 +14,11 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 85
-ht-degree: 55%
-
+source-wordcount: '86'
+ht-degree: 48%
 ---
-
 # アイデアスペースの機能を有効または無効にする {#enable-or-disable-treasure-chest-features}
 
 Treasure Chestには、完全にサポートされていない実験的な機能が含まれています。
@@ -29,7 +27,7 @@ Treasure Chestには、完全にサポートされていない実験的な機能
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/enable-or-disable-treasure-chest-features-1.png)
 

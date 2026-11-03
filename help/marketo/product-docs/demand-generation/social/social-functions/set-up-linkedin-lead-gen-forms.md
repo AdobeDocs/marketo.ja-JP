@@ -20,10 +20,10 @@ feature_v2:
 subfeature_v2:
   - id: e9b7b90f-6f8a-4637-a2ca-00239808918c
     internal-label: Social
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '512'
-ht-degree: 77%
+source-wordcount: '513'
+ht-degree: 76%
 ---
 # LinkedIn リード生成フォームの設定 {#set-up-linkedin-lead-gen-forms}
 
@@ -37,7 +37,7 @@ LinkedIn リード生成フォームを使用して、LinkedIn で広告キャ�
 >
 >* LinkedIn リードは、会社 API を使用して作成された会社レコードに関連付けられている Marketo の既存の個人レコードと一致し、Marketo サブスクリプションが CRM に接続されていない場合、Marketo Engage に組み込まれません。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 

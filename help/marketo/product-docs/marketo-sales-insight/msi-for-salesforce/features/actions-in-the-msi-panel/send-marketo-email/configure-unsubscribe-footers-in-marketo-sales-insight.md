@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2953373
 description: Marketo Sales Insightで購読解除フッターを設定する方法を説明します。 セールスメールに登録解除リンクとコンプライアンスを設定します。
-title: Marketo セールスインサイトの購読解除フッターの設定
+title: Marketo セールスインサイトの購読解除フッターの設定​
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
 TQID: 'https://experienceleague.adobe.com/9HUCspCSN2LZQzpNJhCI3yiMVzwOYMxyp06UDJQyT2Y'
@@ -14,14 +14,14 @@ feature_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 90%
+source-wordcount: '211'
+ht-degree: 88%
 ---
 # [!DNL Marketo Sales Insight] の登録解除フッターの設定 {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
-セールスメールでは、購読解除フッターが自動的に下部に表示されます。 ただし、必要に応じて設定を調整できます。
+セールスメールでは、購読解除フッターが自動的に下部に表示されます。&#x200B; ただし、必要に応じて設定を調整できます。
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ ht-degree: 90%
 >
 >**セールスメール**&#x200B;は、[!DNL Sales Insight] から送信されるものです（Marketo Outlook プラグインから送信されたものは含まれません）。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/one-1.png)
 
@@ -61,7 +61,7 @@ ht-degree: 90%
 
    >[!TIP]
    >
-   >最後の 2 つの選択肢を使用すると、受信者の数（「1 より大きい」または「5 より大きい」）に応じて、購読解除フッターを動的に含めたり除外したりできます。
+   >最後の 2 つの選択肢を使用すると、受信者の数（「1 より大きい」または「5 より大きい」）に応じて、購読解除フッターを動的に含めたり除外したりできます。&#x200B;
 
    ![](assets/four-1.png)
 

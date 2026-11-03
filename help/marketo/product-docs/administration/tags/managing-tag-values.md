@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 78%
+source-wordcount: '192'
+ht-degree: 75%
 ---
 # タグ値の管理 {#managing-tag-values}
 
@@ -38,7 +38,7 @@ ht-degree: 78%
 
 ## タグ値の追加 {#adding-tag-values}
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/managing-tag-values-1.png)
 

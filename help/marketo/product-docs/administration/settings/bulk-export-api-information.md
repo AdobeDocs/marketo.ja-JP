@@ -1,6 +1,6 @@
 ---
 description: 一括抽出APIのキャパシティ使用状況を過去7日間および割り当てリセット時に確認する方法。
-title: Bulk Export API 情報
+title: Bulk Export API 情報​
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
 TQID: https://experienceleague.adobe.com/IWx84F--IJBlHjReI6TnHNpoA4AqGsuqIFkRhGFIWpE
@@ -18,14 +18,12 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: 116
-ht-degree: 45%
-
+source-wordcount: '118'
+ht-degree: 40%
 ---
-
-# Bulk Export API 情報 {#bulk-export-api-information}
+# Bulk Export API 情報&#x200B; {#bulk-export-api-information}
 
 過去7日間に[Bulk Extract API](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"}のキャパシティがMarketo Engage インスタンスでどのくらい使用されているかを確認する方法を説明します。
 
@@ -33,7 +31,7 @@ ht-degree: 45%
 >
 >追加のキャパシティが必要な場合は、アカウント担当者にお問い合わせください。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/bulk-export-api-information-1.png)
 
@@ -41,7 +39,7 @@ ht-degree: 45%
 
    ![](assets/bulk-export-api-information-2.png)
 
-1. 下にスクロールして、Bulk Export API 情報カードを表示します。 「過去 7 日間」の横の数字をクリックすると、日別／API ユーザあたりの使用状況が表示されます。
+1. 下にスクロールして、「Bulk Export API 情報」カードを探します。&#x200B; 「過去 7 日間」の横の数字をクリックすると、日別／API ユーザあたりの使用状況が表示されます。&#x200B;
 
    ![](assets/bulk-export-api-information-3.png)
 
@@ -49,4 +47,4 @@ ht-degree: 45%
 
 >[!NOTE]
 >
->Marketo Engage インスタンスの割り当ては、CSTの午前12:00に毎日リセットされます。
+>Marketo Engage インスタンスの割り当ては、CSTの午前12時に毎日リセットされます。

@@ -13,14 +13,14 @@ feature_v2:
 subfeature_v2:
   - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
     internal-label: Users and roles
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 19%
+source-wordcount: '42'
+ht-degree: 7%
 ---
 # ユーザーワークスペースの編集 {#edit-user-workspaces}
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/edit-user-workspaces-1.png)
 

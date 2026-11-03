@@ -19,10 +19,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 43%
+source-wordcount: '104'
+ht-degree: 38%
 ---
 # Marketo でのカスタムフィールドの削除 {#delete-a-custom-field-in-marketo}
 
@@ -32,7 +32,7 @@ ht-degree: 43%
 
 以前に作成したフィールドを使用できなくなった場合は、そのフィールドを削除することもできます。 残念ながら、Marketoではフィールドを削除できませんが、_では_ ユーザーインターフェイスからフィールドを非表示にできます。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/delete-a-custom-field-in-marketo-1.png)
 

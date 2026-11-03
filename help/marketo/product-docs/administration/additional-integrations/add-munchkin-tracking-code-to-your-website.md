@@ -20,10 +20,10 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 66%
+source-wordcount: '689'
+ht-degree: 64%
 ---
 # Web サイトへの [!DNL Munchkin] トラッキングコードの追加 {#add-munchkin-tracking-code-to-your-website}
 
@@ -39,7 +39,7 @@ Marketo のカスタム JavaScript トラッキングコード（[!DNL Munchkin]
 >
 >Adobe Experience Cloud ユーザは、[Adobe Launch の Marketo 統合](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"}を使用して、web ページに [!DNL Munchkin] スクリプトを含めることもできます。 Adobe Launch を使用する場合、_[!DNL Munchkin] スクリプトは自動的に追加される_&#x200B;ため、自分で追加する必要はありません。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
@@ -79,7 +79,7 @@ Marketo のカスタム JavaScript トラッキングコード（[!DNL Munchkin]
 
 Marketo アカウントでワークスペースを使用している場合は、ワークスペースに対応する個別のweb プレゼンスも使用している可能性があります。 その場合は、[!DNL Munchkin] トラッキングコードの JavaScript を使用して、適切なワークスペースおよびパーティションに匿名の人物を割り当てることができます。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 

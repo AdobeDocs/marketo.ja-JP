@@ -21,16 +21,16 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 65%
+source-wordcount: '59'
+ht-degree: 55%
 ---
 # カスタムアクティビティの公開 {#publish-a-custom-activity}
 
 カスタムアクティビティを公開する方法を説明します。
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/publish-a-custom-activity-1.png)
 
@@ -46,7 +46,7 @@ ht-degree: 65%
 
    ![](assets/publish-a-custom-activity-4.png)
 
-   カスタムアクティビティの[!UICONTROL 状態]が[!UICONTROL &#x200B; ドラフト &#x200B;]から変更されました…
+   カスタムアクティビティの[!UICONTROL 状態]が[!UICONTROL  ドラフト ]から変更されました…
 
    ![](assets/publish-a-custom-activity-5.png)
 

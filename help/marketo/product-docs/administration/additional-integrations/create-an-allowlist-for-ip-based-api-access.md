@@ -16,20 +16,20 @@ feature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: aa0494716e0deb2a2d04be5b2e6fdd1c13483f45
+source-git-commit: f9fe6ecbdea51b51d14bd3faeef52ca9c02c831b
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 89%
+source-wordcount: '140'
+ht-degree: 85%
 ---
 # IP ベースの API アクセス用の許可リストの作成 {#create-an-allowlist-for-ip-based-api-access}
 
-特定の IP アドレスまたは IP アドレスの範囲に対してのみ API アクセスを許可したい場合があります。 まず制限を有効にしてから、API を使用できる IP アドレスを指定します。
+特定の IP アドレスまたは IP アドレスの範囲に対してのみ API アクセスを許可したい場合があります。&#x200B; まず制限を有効にしてから、API を使用できる IP アドレスを指定します。
 
 >[!NOTE]
 >
 >**管理者権限が必要**
 
-1. 「**[!UICONTROL 管理者]**」領域に移動します。
+1. マイMarketoで、**[!UICONTROL 管理者]**&#x200B;をクリックします。
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
