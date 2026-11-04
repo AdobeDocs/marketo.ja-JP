@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 9eb8c0e78a581bc9093f0f017a3ad3525d2b9667
+source-git-commit: b1ab5ab541fd79c8c42fbcd018e23baf51337aac
 workflow-type: tm+mt
-source-wordcount: '8944'
+source-wordcount: '8948'
 ht-degree: 96%
 ---
 
@@ -491,8 +491,10 @@ ht-degree: 96%
     + [CX Enterprise Coworker for Marketo Engageに関する資料](product-docs/coworker-for-marketo/data-information.md)
     + スキル {#skills}
       + [製品知識](product-docs/coworker-for-marketo/skills/product-knowledge.md)
+      + {hide-from-toc}[呼び出し可能エージェント &#x200B;](product-docs/coworker-for-marketo/skills/callable-agents.md)
       + {hide-from-toc}[&#x200B; サーフェス インサイト &#x200B;](product-docs/coworker-for-marketo/skills/surface-insights.md)
       + [プログラムの構築](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + {hide-from-toc}[&#x200B; キャンペーンを計画](product-docs/coworker-for-marketo/skills/plan-campaigns.md)
       + {hide-from-toc}[&#x200B; コピープログラム &#x200B;](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [リードの調査](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [リードの読み込み](product-docs/coworker-for-marketo/skills/import-leads.md)
