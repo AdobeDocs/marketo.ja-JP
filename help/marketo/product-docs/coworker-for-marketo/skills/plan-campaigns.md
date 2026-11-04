@@ -12,7 +12,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->このスキルは、Marketo プログラム（人間または自動処理システムにMarketoでプログラムを作成する方法を正確に伝える構造化文書）の実装計画を生成します。 Marketoでは何も作成されません。 [ プログラムの構築](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md)に対する個別のスキルがあります。
+>このスキルは、Marketo プログラム（人間または自動処理システムにMarketoでプログラムを作成する方法を正確に伝える構造化文書）の実装計画を生成します。 Marketoでは何も作成されません。 [&#x200B; プログラムの構築](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md)に対する個別のスキルがあります。
 
 ## 前提条件 {#prerequisites}
 
@@ -103,4 +103,4 @@ ht-degree: 1%
 
 - 「このセットアッププランを修正」
 - 「キャンペーンブリーフのサンプルを入手」
-- 「このプログラムをMarketoで作成」（プログラムを作成するには、[ プログラムを作成](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md) スキルを使用する必要があります）。
+- 「このプログラムをMarketoで作成」（プログラムを作成するには、[&#x200B; プログラムを作成](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md) スキルを使用する必要があります）。
