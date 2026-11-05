@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
+source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
 workflow-type: tm+mt
-source-wordcount: '471'
-ht-degree: 14%
+source-wordcount: '545'
+ht-degree: 12%
 ---
 # リリースノート：2026年11月 {#release-notes-nov-26}
 
@@ -90,6 +90,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 <br/>
 
 ## お知らせ {#announcements}
+
+* **クラシック UIの廃止**: Marketo Engage インターフェイスが、よりクリーンで現代的なエクスペリエンスを実現するために、更新されたメニュー、アイコン、レイアウトを含むリフレッシュされた外観になりました。 これはビジュアルアップデートのみです。既存の機能やワークフローは変更されません。 現在、ドロップダウンメニューを使用してClassic インターフェイスと更新されたインターフェイスを切り替えることができますが、Classic インターフェイスは2027年1月リリースの終わりまでに廃止されます（正確な日付は近日中に決定されます）。
 
 * **WebからのGrab Imagesの廃止**：最新のセキュリティとプライバシーのベストプラクティスに準拠するため、11月のリリースで[WebからのGrab Images](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}機能は廃止されます。
 

@@ -1,7 +1,7 @@
 ---
 description: Marketo Engage用CX Enterprise Coworkerを使用して、既存のテンプレートを適応させてMarketo プログラムを構築します。 スマートキャンペーン、スケジューリング、アセットのプレースホルダーを、レビューして調整する準備を整えましょう。
 title: プログラムの構築
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
 workflow-type: tm+mt
 source-wordcount: '828'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 使用方法 {#how-to-use}
 
-1. マイMarketoで、「**CX Enterprise Coworker Marketo Engage版**」タイルをクリックします。
+1. マイMarketoで、「**[!UICONTROL CX Enterprise Coworker Marketo Engage版]**」タイルをクリックします。
 
 1. テンプレートプログラムを選択します。 キャンペーンのタイプに合った既存のプログラム（電子メール、ウェビナー、ナーチャリングなど）を選択します。
 
