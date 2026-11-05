@@ -12,8 +12,8 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->- このスキルは、Marketo Engageプログラム（人間または自動化システムにキャンペーンの構築方法を正確に伝える構造化文書）の実装計画を生成します。 Marketo Engageでは何も作成されません。 [ プログラムの構築](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}に対する個別のスキルがあります。
->- このスキルは、[組織ルール ](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}によって導かれます。
+>- このスキルは、Marketo Engageプログラム（人間または自動化システムにキャンペーンの構築方法を正確に伝える構造化文書）の実装計画を生成します。 Marketo Engageでは何も作成されません。 [&#x200B; プログラムの構築](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}に対する個別のスキルがあります。
+>- このスキルは、[組織ルール &#x200B;](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}によって導かれます。
 
 ## 前提条件 {#prerequisites}
 
@@ -104,4 +104,4 @@ ht-degree: 1%
 
 - 「このセットアッププランを修正」
 - 「キャンペーンブリーフのサンプルを入手」
-- 「このプログラムをMarketoで作成」（プログラムを作成するには、[ プログラムを作成](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md) スキルを使用する必要があります）。
+- 「このプログラムをMarketoで作成」（プログラムを作成するには、[&#x200B; プログラムを作成](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md) スキルを使用する必要があります）。
