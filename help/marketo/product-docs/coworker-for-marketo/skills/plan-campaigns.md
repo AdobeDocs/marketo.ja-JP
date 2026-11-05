@@ -1,9 +1,9 @@
 ---
 description: Adobe CX Enterprise Coworker for Marketo Engageを使用して、キャンペーン概要を体系化されたプログラムプランに変換し、オーディエンスロジック、メール、トークン、QA チェックをカバーします。
 title: キャンペーンの計画
-source-git-commit: b47454801d391f4d7a75ebcfce7ac76c2f4b8af4
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '747'
+source-wordcount: '754'
 ht-degree: 1%
 ---
 # キャンペーンの計画 {#plan-campaigns}
@@ -12,7 +12,8 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->このスキルは、Marketo Engageプログラム（人間または自動化システムにキャンペーンの構築方法を正確に伝える構造化文書）の実装計画を生成します。 Marketo Engageでは何も作成されません。 [&#x200B; プログラムの構築](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md)に対する個別のスキルがあります。
+>- このスキルは、Marketo Engageプログラム（人間または自動化システムにキャンペーンの構築方法を正確に伝える構造化文書）の実装計画を生成します。 Marketo Engageでは何も作成されません。 [ プログラムの構築](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}に対する個別のスキルがあります。
+>- このスキルは、[組織ルール ](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}によって導かれます。
 
 ## 前提条件 {#prerequisites}
 
@@ -103,4 +104,4 @@ ht-degree: 1%
 
 - 「このセットアッププランを修正」
 - 「キャンペーンブリーフのサンプルを入手」
-- 「このプログラムをMarketoで作成」（プログラムを作成するには、[&#x200B; プログラムを作成](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md) スキルを使用する必要があります）。
+- 「このプログラムをMarketoで作成」（プログラムを作成するには、[ プログラムを作成](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md) スキルを使用する必要があります）。
