@@ -1,7 +1,7 @@
 ---
 description: Marketo Engage用CX Enterprise Coworkerを使用して、既存のテンプレートを適応させてMarketo プログラムを構築します。 スマートキャンペーン、スケジューリング、アセットのプレースホルダーを、レビューして調整する準備を整えましょう。
 title: プログラムの構築
-source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
+source-git-commit: 93193d2bf1f673472bb52d806864bfb083216cab
 workflow-type: tm+mt
 source-wordcount: '828'
 ht-degree: 0%
@@ -10,7 +10,7 @@ ht-degree: 0%
 
 マーケティング施策をわかりやすい言葉で説明し、Marketo Engage向けCX Enterprise Coworkerでは、既存のプログラムテンプレートをニーズに合わせて適応させ、メールコンテンツを自動的に更新し、テンプレート構造を複製することでさらなるアセットを作成します。
 
-組織の[組織ルール &#x200B;](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}は、Marketo Engage用CX Enterprise Coworkerが作成中にプログラムを構成および検証する方法を示します。 これらのルールにより、新しいプログラムが命名規則、必要なトークン、フォルダー構造、コンプライアンス基準に準拠していることを確認できます。
+組織の[組織ルール ](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"}は、Marketo Engage用CX Enterprise Coworkerが作成中にプログラムを構成および検証する方法を示します。 これらのルールにより、新しいプログラムが命名規則、必要なトークン、フォルダー構造、コンプライアンス基準に準拠していることを確認できます。
 
 >[!PREREQUISITES]
 >
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## 使用方法 {#how-to-use}
 
-1. マイMarketoで、「**CX Enterprise Coworker Marketo Engage版**」タイルをクリックします。
+1. マイMarketoで、「**[!UICONTROL CX Enterprise Coworker Marketo Engage版]**」タイルをクリックします。
 
 1. テンプレートプログラムを選択します。 キャンペーンのタイプに合った既存のプログラム（電子メール、ウェビナー、ナーチャリングなど）を選択します。
 
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 1. スマートキャンペーンのフィルターとフローステップが、想定したオーディエンスとロジックに一致していることを確認します。
 
-1. 手作業による調整（Smart Campaign ロジックの設定、フィルターの確定、メールコンテンツのカスタマイズ）をすべて完了したら、[&#x200B; プログラムの検証](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md)を実行して、変更がアクティブ化する前に組織ルールに準拠していることを確認します。
+1. 手作業による調整（Smart Campaign ロジックの設定、フィルターの確定、メールコンテンツのカスタマイズ）をすべて完了したら、[ プログラムの検証](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md)を実行して、変更がアクティブ化する前に組織ルールに準拠していることを確認します。
 
 ## ユースケース {#use-cases}
 
