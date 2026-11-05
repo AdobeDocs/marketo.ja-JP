@@ -4,10 +4,10 @@ title: CX Enterprise Coworker for Marketo Engageの概要
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: e72db83a5f1f3c58a29da7c4b4b1bbb79a61b596
 workflow-type: tm+mt
-source-wordcount: '454'
-ht-degree: 3%
+source-wordcount: '468'
+ht-degree: 2%
 ---
 # CX Enterprise Coworker for Marketo Engageの概要 {#overview}
 
@@ -37,6 +37,10 @@ CX Enterprise Coworker for Marketo Engageは、時間はかかりますが、重
 
 センターコンソールには、さまざまなタスクを支援するために利用できるエージェントのスキルのセットが増えています。 各スキルは、特定のタスクを完了するために自然言語を通じて操作する、専用のAI アシスタントです。
 
+### キャンペーンの計画 {#plan-campaigns}
+
+キャンペーン概要を、Marketo Engageの体系化された導入計画に変換。 プランキャンペーンスキルでは、プログラム構造、オーディエンスロジック、電子メール、スマートキャンペーン、トークン、レポート、プリアクティベーションチェックの概要を説明します。 [&#x200B; プランキャンペーンスキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/plan-campaigns.md){target="_blank"}について詳しく説明します。
+
 ### プログラムの構築 {#build-programs}
 
 マーケティングキャンペーンをわかりやすい言葉で説明し、CX Enterprise Coworker for Marketo Engageでプログラム構造を構築し、アセットのプレースホルダーとスケジューリングを備えています。 [&#x200B; プログラムの作成スキル &#x200B;](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}について詳しく説明します。
@@ -59,11 +63,7 @@ Adobe Experience Managerのオンデマンド機能を利用すれば、IT部門
 
 ## 近日リリース予定 {#coming-soon}
 
-最も反復的で時間のかかる作業を処理するために設計された追加のエージェントが、近日リリースされる予定です。
-
-* リードがMQLを実行しなかった理由や、ライフサイクルを先に進めた理由を診断します。
-* キャンペーン概要から、包括的なMarketo Engageプログラムを直接生成できます。
-* その他。
+最も反復的で時間のかかる作業を処理するために設計された追加のスキルが、近日リリースされる予定です。
 
 >[!MORELIKETHIS]
 >
