@@ -4,9 +4,9 @@ title: 設定と設定
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 8f3a0c1b4eccb91701eab8a079a72c4a6d8d7092
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '588'
 ht-degree: 4%
 ---
 # 設定と設定 {#settings-setup}
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 >[!AVAILABILITY]
 >
->この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にCoworker for Marketo Engage タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[&#x200B; コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
+>この機能は、すべてのサブスクリプションで利用できます。 My Marketo画面にCoworker for Marketo Engage タイルが表示されない場合は、アカウントマネージャーにお問い合わせください。 また、[ コア生成AIの利用条件および補足条件](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}に同意する必要があります。
 
 ## 権限と役割 {#permission-and-role}
 
@@ -37,6 +37,10 @@ Marketo Engage用の&#x200B;_アクセス共同作業者_&#x200B;権限とMarket
 ### Marketo Engage用Coworker権限へのアクセス {#access-coworker-marketo-permission}
 
 次の手順に従って、条件を満たすロールのうち、まだ有効になっていないロールに対してMarketo Engage _の_ Access Coworkerを有効にします。
+
+>[!NOTE]
+>
+>**管理者権限が必要**
 
 1. マイMarketoで、**管理者**、**ユーザーと役割**&#x200B;の順にクリックします。
 
@@ -76,7 +80,7 @@ Marketo Engage用の&#x200B;_アクセス共同作業者_&#x200B;権限とMarket
 
 ### カスタム役割 {#custom-role}
 
-また、[新しいロール &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して、その権限をカスタマイズし、Marketo Engage _の_ Access Coworkerを他の任意のロールと共に追加し、そのロール [&#128279;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てることもできます。
+また、[新しいロール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"}を作成して、その権限をカスタマイズし、Marketo Engage _の_ Access Coworkerを他の任意のロールと共に追加し、そのロール ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"}を特定のユーザーに割り当てる[こともできます。
 
 ## 設定 {#settings}
 
