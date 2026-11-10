@@ -4,9 +4,9 @@ title: 設定と設定
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 8f3a0c1b4eccb91701eab8a079a72c4a6d8d7092
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '588'
 ht-degree: 4%
 ---
 # 設定と設定 {#settings-setup}
@@ -37,6 +37,10 @@ Marketo Engage用の&#x200B;_アクセス共同作業者_&#x200B;権限とMarket
 ### Marketo Engage用Coworker権限へのアクセス {#access-coworker-marketo-permission}
 
 次の手順に従って、条件を満たすロールのうち、まだ有効になっていないロールに対してMarketo Engage _の_ Access Coworkerを有効にします。
+
+>[!NOTE]
+>
+>**管理者権限が必要**
 
 1. マイMarketoで、**管理者**、**ユーザーと役割**&#x200B;の順にクリックします。
 

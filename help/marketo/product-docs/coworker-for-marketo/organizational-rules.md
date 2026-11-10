@@ -4,9 +4,9 @@ title: 組織ルール
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: f3418961b6e4611317b38dcd54a76871e9f2560d
+source-git-commit: 8f3a0c1b4eccb91701eab8a079a72c4a6d8d7092
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '870'
 ht-degree: 1%
 ---
 # 組織ルール {#organizational-rules}
@@ -35,6 +35,10 @@ Marketo EngageのCX Enterprise Coworkerの組織ルールは、次の3つのス�
 | プログラムの検証 | ルールは、アクティベーション前にプログラムを検証する際にCX Enterprise Coworker for Marketo Engageがチェックする内容を定義します。 |
 
 ## 組織ルールにアクセスしてカスタマイズする方法 {#how-to-access-and-customize-organizational-rules}
+
+>[!NOTE]
+>
+>**管理者権限が必要**
 
 1. マイMarketoで、「**CX Enterprise Coworker Marketo Engage版**」タイルをクリックします。
 1. 歯車のアイコンをクリックします。
