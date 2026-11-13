@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: e5afc046c226779f9969569cf4648792d8c32ae5
+source-git-commit: 8bb77c46ff74e07c9b150961259ccbd55930b5ce
 workflow-type: tm+mt
-source-wordcount: '1278'
+source-wordcount: '1286'
 ht-degree: 4%
 ---
 # AWSへの移行 {#aws-migration}
@@ -60,6 +60,7 @@ ht-degree: 4%
 何らかの理由で移行が失敗した場合は、通知が送信され、スケジュールを変更します。
 
 +++7月スケジュール
+
 <table>
  <tbody>
   <tr>
@@ -253,6 +254,8 @@ ht-degree: 4%
 
 +++
 
++++ 10月スケジュール
+
 <table>
  <tbody>
   <tr>
@@ -306,17 +309,30 @@ ht-degree: 4%
    <td>完了<br>
    完了日</td>
   </tr>
+  </body>
+</table>
+
++++
+
+<table>
+ <tbody>
+  <tr>
+   <th style="width:25%">日付</th>
+   <th style="width:25%">データセンター/ポッド</th>
+   <th style="width:25%">時間</th>
+   <th style="width:25%">ステータス</th>
+  </tr>
   <tr>
    <td>2026年11月6日（PT）</td>
    <td>AB18</td>
    <td>午後4時（太平洋標準時）</td>
-   <td>予定通り</td>
+   <td>完了</td>
   </tr>
   <tr>
    <td>2026年11月18日（PT）</td>
-   <td>SJ14</td>
-   <td>午後5時（太平洋標準時）</td>
-   <td>予定通り</td>
+   <td><i>SJ14</i></td>
+   <td><i>午後5時（太平洋標準時）</i></td>
+   <td><i>延期（未定）</i></td>
   </tr>
   <tr>
    <td>2026年11月20日（PT）</td>
