@@ -5,9 +5,9 @@ badge: Beta
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: e33fb9e112e42d714f81b82fa46cc393e5877c79
+source-git-commit: 94ccd99bcc01dfa2d3df002853cb1396baf45de9
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '611'
 ht-degree: 1%
 ---
 # Marketo EngageのCX Enterprise Coworker パネル {#coworker-panel-overview}
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 | エリア | 詳細 |
 | --- | --- |
-| アクセス | Marketo Engage内から埋め込みベータ版を開きます。 既存のCX Enterprise Coworker for Marketo Engage エクスペリエンスは、現在の[&#x200B; アクセスポイント &#x200B;](/help/marketo/product-docs/coworker-for-marketo/overview.md#access)を通じて引き続き利用できます。 |
+| アクセス | Marketo Engage内から埋め込みベータ版を開きます。 既存のCX Enterprise Coworker for Marketo Engage エクスペリエンスは、現在の[ アクセスポイント ](/help/marketo/product-docs/coworker-for-marketo/overview.md#access)を通じて引き続き利用できます。 |
 | 既存の会話 | 既存の会話履歴は、現在のCX Enterprise Coworker for Marketo Engage エクスペリエンスで引き続き使用できます。 ベータ版を有効にしても、その履歴は削除されません。 |
 | 履歴とコンテキスト | ベータ版と既存のエクスペリエンスでは、会話の履歴とコンテキストが別々になります。 一方の会話は、もう一方の会話では使用できません。 |
 | 既存の機能 | は現在のエクスペリエンスで引き続き使用できます。 |
@@ -42,7 +42,7 @@ ht-degree: 1%
 
 1. 生成された回答と提案された変更を使用する前に確認します。
 
-## 既存のCX Enterprise Coworker エクスペリエンス {#your-existing-cx-enterprise-coworker-experience}
+## 既存のCX Enterprise Coworker for Marketo Engage体験 {#existing-experience}
 
 既存の履歴と機能は、引き続きCoworker for Marketo Engageで利用できます。 これらは組み込みベータ版には表示されず、現在のエクスペリエンスへの継続的なアクセスは、2つのエクスペリエンスが機能パリティを持つことを意味するものではありません。
 
