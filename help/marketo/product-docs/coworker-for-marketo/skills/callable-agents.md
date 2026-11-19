@@ -4,18 +4,18 @@ title: 呼び出し可能エージェント
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 16b8e470bd4a4460c0179ccdd406ef89af7e9e17
+source-git-commit: 387abcce00de365f2b4abda9565b0eada2598cfd
 workflow-type: tm+mt
-source-wordcount: '2002'
+source-wordcount: '1995'
 ht-degree: 1%
 ---
 # 呼び出し可能エージェント {#callable-agents}
 
 呼び出し可能なエージェントを使用すると、AI エージェントをMarketo Engage Smart Campaignのステップとして使用できます。 Adobe CX Enterprise Coworker for Marketo Engageでエージェントを構築し、読み取りおよび更新するリードフィールドを選択して、キャンペーンで使用するために公開します。 エージェントは、データのクリーンアップ、リードの分類、欠けている情報の補完、フォーム送信のスクリーニングなどに役立ちます。
 
->[!PREREQUISITES]
+>[!NOTE]
 >
->Marketo Engageで&#x200B;**アクセス管理者**&#x200B;権限が必要です。
+>**管理者**&#x200B;権限が必要です。
 
 ## 始める前に {#before-you-begin}
 
