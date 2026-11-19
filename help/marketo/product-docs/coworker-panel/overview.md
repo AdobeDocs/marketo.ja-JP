@@ -22,7 +22,7 @@ ht-degree: 1%
 
 | エリア | 詳細 |
 | --- | --- |
-| アクセス | Marketo Engage内から組み込みのCoworker ベータエクスペリエンスを開きます。 既存のCX Enterprise Coworker for Marketo Engage エクスペリエンスは、現在の[ アクセスポイント ](/help/marketo/product-docs/coworker-for-marketo/overview.md#access)を通じて引き続き利用できます。 |
+| アクセス | Marketo Engage内から組み込みのCoworker ベータエクスペリエンスを開きます。 既存のCX Enterprise Coworker for Marketo Engage エクスペリエンスは、現在の[&#x200B; アクセスポイント &#x200B;](/help/marketo/product-docs/coworker-for-marketo/overview.md#access)を通じて引き続き利用できます。 |
 | 既存の会話 | 既存の会話履歴は、現在のCX Enterprise Coworker for Marketo Engage エクスペリエンスで引き続き使用できます。 ベータ版を有効にしても、その履歴は削除されません。 |
 | 履歴とコンテキスト | ベータ版と既存のエクスペリエンスでは、会話の履歴とコンテキストが別々になります。 一方の会話は、もう一方の会話では使用できません。 |
 | 既存の機能 | は現在のエクスペリエンスで引き続き使用できます。 |
