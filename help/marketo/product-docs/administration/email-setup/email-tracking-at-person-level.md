@@ -91,7 +91,7 @@ Marketo Engageでは、電子メールの開封数とクリック数に対して
 
 | メソッド | メモ |
 |---|---|
-| [&#x200B; データ値の変更のフローステップ &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | スマートキャンペーンを使用すると、フォームに同意チェックボックスを送信するなど、オーディエンスが基準を満たした場合にフィールドを設定できます。 |
+| [&#x200B; データ値の変更のフローステップ &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value){target="_blank"} | スマートキャンペーンを使用すると、フォームに同意チェックボックスを送信するなど、オーディエンスが基準を満たした場合にフィールドを設定できます。 |
 | フォーム | Marketo Engage フォームのチェックボックスまたは非表示フィールドを人物フィールドにマッピングします。 |
 | リストの読み込み | フィールドを読み込みファイルの列として含めます。 |
 | REST API | API フィールド名`overrideOpenTrackingDefault`と`overrideClickTrackingDefault`を使用します。 |
@@ -115,7 +115,7 @@ Marketo Engageがユーザーを追跡しない場合、そのユーザーに送
 | トリガーメール （トリガースマートキャンペーンから送信されたメールなど） | はい |
 | A/B テストまたはチャンピオン/チャレンジャーのバリエーションを含むメール | はい。 トラッキングは、オーディエンスが受け取るバリエーションに関係なく、各オーディエンスに対して個別に決定されます。 |
 | Web ページとして表示 | はい。 Web バージョンは、ユーザーの現在の設定に従います。 変更が表示されるまでに最大1時間かかる場合があります。 |
-| [業務用メール &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | いいえ。 通常の追跡行動に従います。 |
+| [業務用メール &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational){target="_blank"} | いいえ。 通常の追跡行動に従います。 |
 | メールのサンプル（テスト） | いいえ。 通常の追跡行動に従います。 |
 | メールプレビュー | 変更なし。 プレビューは追跡されません。 |
 | アラートメール | 変更なし。 アラートは追跡されません。 |
@@ -125,7 +125,7 @@ Marketo Engageがユーザーを追跡しない場合、そのユーザーに送
 
 Marketo Engageは、メールを送信用に準備する際に、ユーザーのオーバーライド値を読み取ります。
 
-- **配信がスケジュール済みまたは遅れています：** メールが現在準備され、後で配信される場合（例：[Head Start](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"}または[受信者タイムゾーン &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}）、準備時の値が適用されます。 準備後に変更を加えても、そのメールは変更されません。
+- **配信がスケジュール済みまたは遅れています：** メールが現在準備され、後で配信される場合（例：[Head Start](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs){target="_blank"}または[受信者タイムゾーン &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone){target="_blank"}）、準備時の値が適用されます。 準備後に変更を加えても、そのメールは変更されません。
 - **既に配信された電子メール：**&#x200B;人物の上書きを変更しても、既に受信した電子メールは変更されません。 以前に送信した電子メール内のリンクをクリックしても、トラッキングが有効になっている状態でリンクを準備している場合は、そのリンクをトラッキングできます。
 - **今後の電子メール：**&#x200B;変更後にMarketo Engageが準備した電子メールには、変更内容が適用されます。
 
