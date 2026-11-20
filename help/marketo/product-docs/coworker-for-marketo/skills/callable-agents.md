@@ -4,9 +4,9 @@ title: 呼び出し可能エージェント
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 5381bb670df1f69e535d0b349833f07b241a8ffd
+source-git-commit: 359355d18f91035b54e7cd33e3cea0d78a5b6ef8
 workflow-type: tm+mt
-source-wordcount: '1959'
+source-wordcount: '1971'
 ht-degree: 1%
 ---
 # 呼び出し可能エージェント {#callable-agents}
@@ -37,6 +37,10 @@ ht-degree: 1%
    ![](assets/callable-agents-3.png)
 
 1. テンプレートを使用するには、**テンプレートから開始**&#x200B;をクリックし、テンプレートを選択します。
+
+   >[!NOTE]
+   >
+   >呼び出し可能なエージェントテンプレートについて詳しくは、[ テンプレートから開始](#start-from-a-template)を参照してください。
 
 1. 独自のフィールドを作成するには、**[!UICONTROL エージェント名]**&#x200B;を入力し、各リードの処理方法を説明する&#x200B;**[!UICONTROL エージェントの手順]**&#x200B;を記述します。
 
