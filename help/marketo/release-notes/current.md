@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: bc2b6050e8782249331ee34a59b5858fd15e656f
+source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
 workflow-type: tm+mt
-source-wordcount: '545'
-ht-degree: 12%
+source-wordcount: '542'
+ht-degree: 11%
 ---
 # リリースノート：2026年11月 {#release-notes-nov-26}
 
@@ -60,8 +60,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>呼び出し可能なエージェント </strong>: スマートキャンペーンのフローステップとして実行し、平易な言語で記述した指示に基づいてリードレコードに基づいて行動するAI エージェントを作成します。 たとえば、エージェントはリードのデータを正規化したり、ボットの可能性が高いフラグを立てたりした後、その結果をリードのフィールドに書き戻すことができます。 これにより、カスタムコードなしで、判断ベースのリード処理をキャンペーンに取り入れることができます。</td>
-   <td><i>近日リリース予定</i></td>
-   <td><i>近日リリース予定</i></td>
+   <td>リリース</td>
+   <td><a href="/help/marketo/product-docs/coworker-for-marketo/skills/callable-agents.md" target="_blank">呼び出し可能エージェント</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -70,8 +70,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   </tr>
   <tr>
    <td><strong>このプログラム/フォルダーに複製</strong>: Marketo Engage全体の複製操作では、複製先を選択する際に、最初の選択肢として「このフォルダー」または「このプログラム」オプションが一貫して提供されるようになりました。 このオプションを選択すると、アセットが現在のアセットの親プログラムまたはフォルダーに複製されます。</td>
-   <td><i>近日リリース予定</i></td>
-   <td><i>近日リリース予定</i></td>
+   <td>リリース</td>
+   <td>該当なし</td>
   </tr>
   <tr>
    <td> </td>
@@ -81,8 +81,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
   <tr>
    <tr>
    <td><strong>CRM同期に関する即時アラート </strong>: CRMのネイティブ同期を有効または無効にすると、CRM通知チャネルを購読しているユーザーに通知がトリガーされるようになりました。</td>
-   <td><i>近日リリース予定</i></td>
-   <td><i>近日リリース予定</i></td>
+   <td>リリース</td>
+   <td>該当なし</td>
   </tr>
   </tr>
   </tbody>
