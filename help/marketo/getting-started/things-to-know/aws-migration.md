@@ -9,9 +9,9 @@ product_v2:
 feature_v2:
   - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
     internal-label: Getting Started
-source-git-commit: 8bb77c46ff74e07c9b150961259ccbd55930b5ce
+source-git-commit: 91384ddefe8af5313a9959c8f660bc34d40bff63
 workflow-type: tm+mt
-source-wordcount: '1286'
+source-wordcount: '1284'
 ht-degree: 4%
 ---
 # AWSへの移行 {#aws-migration}
@@ -340,8 +340,8 @@ ht-degree: 4%
    SJ38</td>
    <td>午後5時（太平洋標準時）<br>
    午後6時（太平洋標準時）</td>
-   <td>予定通り<br>
-   予定通り</td>
+   <td>完了<br>
+   完了日</td>
   </tr>
   </body>
 </table>
