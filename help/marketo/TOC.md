@@ -499,7 +499,7 @@ ht-degree: 96%
       + [リードの調査](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [リードの読み込み](product-docs/coworker-for-marketo/skills/import-leads.md)
       + [プログラムの検証](product-docs/coworker-for-marketo/skills/validate-programs.md)
-    + [MARKETO MCP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + [MARKETO MCP](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/mcp-server)
   + CX Enterprise Coworker パネル {#coworker-panel}
     + {hide-from-toc}[概要](product-docs/coworker-panel/overview.md)
   + CRM 同期 {#crm-sync}
