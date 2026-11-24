@@ -4,9 +4,9 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 44aea0fb30c2793856e910d7ecc638e2e661a6a9
+source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
 workflow-type: tm+mt
-source-wordcount: '8958'
+source-wordcount: '8953'
 ht-degree: 96%
 ---
 
@@ -83,7 +83,6 @@ ht-degree: 96%
       + [ポータルへのシングルサインオンの追加](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
       + [Webex を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
       + [Zoom を LaunchPoint サービスとして追加](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
-      + {hide-from-toc}[SOAP API設定の設定](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
       + [BrightTALK の Marketo 接続](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
       + [ReST API で使用するカスタムサービスの作成](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
       + [Webhook の作成](product-docs/administration/additional-integrations/create-a-webhook.md)
