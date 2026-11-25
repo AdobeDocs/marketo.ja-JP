@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 11%
+source-wordcount: '576'
+ht-degree: 10%
 ---
 # リリースノート：2026年11月 {#release-notes-nov-26}
 
@@ -39,7 +39,7 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 ## 標準リリースサイクルの機能 {#standard-release-cycle-features}
 
-以下の機能は標準リリースサイクルに該当し、2026年11月6日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 **&#x200B;**&#x200B;リリースされる機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。&#x200B;
+以下の機能は標準リリースサイクルに該当し、2026年11月6日（PT）にリリースが開始され、残りの機能は今後数週間にわたって段階的にロールアウトされます。 ****&#x200B;リリースされる機能と日付は変更される場合があります。 各機能のステータスは、その機能の横に表示されている情報を確認してください。&#x200B;
 
 <table style="table-layout:auto">
  <tbody>
@@ -47,6 +47,16 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:65%">機能</th>
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
+  </tr>
+  <tr>
+   <td><strong>個人レベルでの電子メールトラッキング </strong>：個人レベルの電子メールトラッキングの上書きにより、個人の電子メールの開封とクリックのトラッキングを制御できます。同意とプライバシーの要件をサポートします。</td>
+   <td>リリース</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/email-tracking-at-person-level.md" target="_blank">個人レベルでのメール追跡</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong> キャンペーンスキルの計画</strong>: CX Enterprise Coworker for Marketo Engageで、キャンペーン概要を包括的なMarketo Engage プログラム設定ドキュメントに変換できるようになりました。 このドキュメントには、フォルダー構造、スマートキャンペーン、メール設定、トークン、QA チェックリストが含まれています。 これにより、キャンペーンをより迅速に立ち上げ、プログラムの設定を標準化できます。 スキルはマークダウンで設定可能です。</td>
@@ -93,8 +103,8 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
 
 * **クラシック UIの廃止**: Marketo Engage インターフェイスが、よりクリーンで現代的なエクスペリエンスを実現するために、更新されたメニュー、アイコン、レイアウトを含むリフレッシュされた外観になりました。 これはビジュアルアップデートのみです。既存の機能やワークフローは変更されません。 現在、ドロップダウンメニューを使用してClassic インターフェイスと更新されたインターフェイスを切り替えることができますが、Classic インターフェイスは2027年1月リリースの終わりまでに廃止されます（正確な日付は近日中に決定されます）。
 
-* **WebからのGrab Imagesの廃止**：最新のセキュリティとプライバシーのベストプラクティスに準拠するため、11月のリリースで[WebからのGrab Images](https://experienceleague.adobe.com/ja/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}機能は廃止されます。
+* **WebからのGrab Imagesの廃止**：最新のセキュリティとプライバシーのベストプラクティスに準拠するため、11月のリリースで[WebからのGrab Images](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page){target="_blank"}機能は廃止されます。
 
 * カスタムアクティビティ属性の&#x200B;**API名の制限**: APIまたはUIを介して作成されたカスタムアクティビティ属性のAPI名に、英数字とアンダースコアのみを含めることができるようになりました。英数字で始める必要があります。
 
-* **リードアクティビティの取得とリードの変更の取得に関する静的リストサイズの制限**:2026年9月30日の時点で、`listId` パラメーターを含むリードアクティビティの取得またはリードの変更の取得エンドポイントへの呼び出しは、ターゲットリストに10,000個以上のリードが含まれている場合、1003 エラーコード（ターゲットの静的静的リストのレコードが多すぎることをいことを示示す）で意味）で開始します。 詳細については、[移行ガイド &#x200B;](https://experienceleague.adobe.com/ja/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
+* **リードアクティビティの取得とリードの変更の取得に関する静的リストサイズの制限**:2026年9月30日の時点で、`listId` パラメーターを含むリードアクティビティの取得またはリードの変更の取得エンドポイントへの呼び出しは、ターゲットリストに10,000個以上のリードが含まれている場合、1003 エラーコード（ターゲットの静的静的リストのレコードが多すぎることをいことを示示す）で意味）で開始します。 詳細については、[移行ガイド ](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}を参照してください。
