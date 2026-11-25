@@ -4,7 +4,7 @@ user-guide-title: Marketo ガイド
 user-guide-description: Marketo 製品ドキュメント
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 376ea702dfd536192f50b7db0d08486462b70e87
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
 source-wordcount: '8953'
 ht-degree: 96%
@@ -111,7 +111,7 @@ ht-degree: 96%
       + [通信制限の有効化](product-docs/administration/email-setup/enable-communication-limits.md)
       + [スマートキャンペーンのリード制限の有効化](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
       + [キャンペーンレベルでのメールの開封トラッキング](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
-      + {hide-from-toc}[個人レベルでの電子メールの追跡](product-docs/administration/email-setup/email-tracking-at-person-level.md)
+      + [個人レベルでのメール追跡](product-docs/administration/email-setup/email-tracking-at-person-level.md)
       + [メールボットアクティビティのフィルタリング](product-docs/administration/email-setup/filtering-email-bot-activity.md)
       + [登録解除テキストの削除](product-docs/administration/email-setup/remove-unsubscribe-text.md)
     + フィールド管理 {#field-management}

@@ -26,10 +26,10 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: cf360493b3793110b90d1371b38f89c2b0ef20d3
+source-git-commit: 57f148c56e1d0690db8abdac5ba22dfeed20c35f
 workflow-type: tm+mt
-source-wordcount: '542'
-ht-degree: 11%
+source-wordcount: '576'
+ht-degree: 10%
 ---
 # リリースノート：2026年11月 {#release-notes-nov-26}
 
@@ -47,6 +47,16 @@ Adobe Dynamic Chat 専用のリリースノートについて詳しくは、[こ
    <th style="width:65%">機能</th>
    <th style="width:10%">ステータス</th>
    <th style="width:25%">ドキュメント</th>
+  </tr>
+  <tr>
+   <td><strong>個人レベルでの電子メールトラッキング </strong>：個人レベルの電子メールトラッキングの上書きにより、個人の電子メールの開封とクリックのトラッキングを制御できます。同意とプライバシーの要件をサポートします。</td>
+   <td>リリース</td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/email-tracking-at-person-level.md" target="_blank">個人レベルでのメール追跡</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
   </tr>
   <tr>
    <td><strong> キャンペーンスキルの計画</strong>: CX Enterprise Coworker for Marketo Engageで、キャンペーン概要を包括的なMarketo Engage プログラム設定ドキュメントに変換できるようになりました。 このドキュメントには、フォルダー構造、スマートキャンペーン、メール設定、トークン、QA チェックリストが含まれています。 これにより、キャンペーンをより迅速に立ち上げ、プログラムの設定を標準化できます。 スキルはマークダウンで設定可能です。</td>
